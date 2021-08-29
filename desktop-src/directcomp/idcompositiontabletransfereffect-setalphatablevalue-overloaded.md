@@ -12,12 +12,12 @@ api_type:
 - HeaderDef
 ms.date: 07/02/2019
 ms.topic: reference
-ms.openlocfilehash: 907491dcfcacbf87f53bf58eb8d0027575a216b9
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 6c841817e2d84ff19a0be33570351e2f80962c3b38704fa585e8b912325c18f0
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105649038"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119043182"
 ---
 # <a name="idcompositiontabletransfereffectsetalphatablevalue-methods"></a>Методы Идкомпоситионтаблетрансфереффект:: Сеталфатаблевалуе
 
@@ -34,17 +34,17 @@ ms.locfileid: "105649038"
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Дкомп. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Дкомп. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

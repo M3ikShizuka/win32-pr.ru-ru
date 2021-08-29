@@ -4,21 +4,21 @@ description: Атрибут Филлок VML
 ms.assetid: 6855544d-0f12-4e21-8101-1bbf45795777
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 667524be103b7c641643a52a85368a82a1289e5d
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: c346e4499e8c9a0ba390936a61e8c1cd1b4f36c5b115904cfdaee24f4c29ffa1
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104339177"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118124824"
 ---
 # <a name="vml-fillok-attribute"></a>Атрибут Филлок VML
 
-В этом разделе описывается функция VML, которая является устаревшей в Windows Internet Explorer 9. Веб-страницы и приложения, использующие VML, должны быть перенесены в формат SVG или другие широко поддерживаемые стандарты.
+в этом разделе описывается функция VML, которая является устаревшей по отношению к Windows Internet Explorer 9. Веб-страницы и приложения, использующие VML, должны быть перенесены в формат SVG или другие широко поддерживаемые стандарты.
 
 > [!Note]  
-> По состоянию на Декабрь 2011 этот раздел был архивирован. В результате он больше не поддерживается. Дополнительные сведения см. в разделе [архивированное содержимое](/previous-versions/windows/internet-explorer/ie-developer/). Сведения, рекомендации и рекомендации по текущей версии Windows Internet Explorer см. в [центре разработчиков Internet Explorer](https://msdn.microsoft.com/ie/).
+> По состоянию на Декабрь 2011 этот раздел был архивирован. В результате он больше не поддерживается. Дополнительные сведения см. в разделе [архивированное содержимое](/previous-versions/windows/internet-explorer/ie-developer/). сведения, рекомендации и рекомендации относительно текущей версии Windows Internet explorer см. в [центре разработчиков internet explorer](https://msdn.microsoft.com/ie/).
 
- 
+ 
 
 Определяет, будет ли отображаться заливка. Read/write. **Вгтристате**.
 
@@ -58,6 +58,6 @@ ms.locfileid: "104339177"
 
 
 
- 
+ 
 
- 
+ 

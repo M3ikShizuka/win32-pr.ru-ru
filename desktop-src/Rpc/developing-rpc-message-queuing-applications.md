@@ -6,12 +6,12 @@ keywords:
 - Удаленный вызов процедур RPC, задачи, разработка приложений очереди сообщений
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f3e51707c0a6903200e51dd35e50e998430c8eae
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 09cf7b3a5d6d33facebb1de6a3c0f37eb9ba48f2afa54e6143ad5cb0169ad601
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104070510"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118930577"
 ---
 # <a name="developing-rpc-message-queuing-applications"></a>Разработка приложений RPC-Message Queuing
 
@@ -21,7 +21,7 @@ ms.locfileid: "104070510"
 
 -   Качество обслуживания
 -   Подтверждение получения
--   Ведения журнала
+-   Ведение журнала
 -   Приоритет вызова
 -   Сохраняемость очереди серверных процессов
 
@@ -40,10 +40,10 @@ ms.locfileid: "104070510"
 > [!Note]  
 > При использовании асинхронных вызовов \[ [**сообщений**](/windows/desktop/Midl/message) \] в интерфейсе необходимо зарегистрировать интерфейс, вызвав [**рпксерверрегистериф**](/windows/desktop/api/Rpcdce/nf-rpcdce-rpcserverregisterif) или [**рпксерверрегистерифекс**](/windows/desktop/api/Rpcdce/nf-rpcdce-rpcserverregisterifex) перед вызовом [**рпксерверусепротсекепекс**](/windows/desktop/api/Rpcdce/nf-rpcdce-rpcserveruseprotseqepex)**(нкадг \_ MQ)**. После включения последовательности протоколов все вызовы, которые уже ожидают очередь для сервера, начнут быть считаны из очереди. Если соответствующий интерфейс RPC не был зарегистрирован, вызовы завершатся ошибкой. Такая ситуация может возникнуть, если для удаленных вызовов процедур настроена постоянная конечная точка, работа сервера была завершена, а клиенты продолжают отсылать вызовы на сервер. Эти вызовы будут помещены в очередь в очереди, ожидая считывания после того, как сервер вернется в режим «в сети».
 
- 
+ 
 
 Дополнительные сведения см. в разделе [**рпкбиндингсетоптион**](/windows/desktop/api/Rpcdce/nf-rpcdce-rpcbindingsetoption), [**рпксерверусепротсекепекс**](/windows/desktop/api/Rpcdce/nf-rpcdce-rpcserveruseprotseqepex)и \[ [**Message**](/windows/desktop/Midl/message) \] , [**нкадг \_ MQ**](/windows/desktop/Midl/ncadg-mq).
 
- 
+ 
 
- 
+ 

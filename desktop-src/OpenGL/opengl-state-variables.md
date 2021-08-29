@@ -7,12 +7,12 @@ keywords:
 - переменные состояния, OpenGL
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 36dee51ba7726277832d94eaf336d03d3c579189
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: a8164cebd065a69f923e908a26bf2ce80357312c73c35f12bc2066c63db91eff
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "105661558"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118936773"
 ---
 # <a name="opengl-state-variables"></a>Переменные состояния OpenGL
 
@@ -23,15 +23,15 @@ ms.locfileid: "105661558"
 -   [**Переменные состояния цвета**](coloring-state-variables.md)
 -   [**Переменные состояния освещения**](lighting-state-variables.md)
 -   [**Переменные состояния растрирования**](rasterization-state-variables.md)
--   [**Текстурирование переменных состояния**](texturing-state-variables.md)
--   [**Операции с пикселами**](pixel-operations.md)
+-   [**Переменные состояния текстурирования**](texturing-state-variables.md)
+-   [**Операции с пикселями**](pixel-operations.md)
 -   [**Переменные состояния элемента управления буфера кадров**](framebuffer-control-state-variables.md)
 -   [**Переменные состояния пикселей**](pixel-state-variables.md)
 -   [**Переменные состояния оценщика**](evaluator-state-variables.md)
 -   [**Переменные состояния подсказки**](hint-state-variables.md)
 -   [**Переменные состояния, зависящие от реализации**](implementation-dependent-state-variables.md)
--   [**Зависимые от реализации переменные состояния Pixel-Depth**](implementation-dependent-pixel-depth-state-variables.md)
--   [**Переменные состояния "Разное"**](miscellaneous-state-variables.md)
+-   [**Переменные состояния глубины цвета, зависящие от реализации**](implementation-dependent-pixel-depth-state-variables.md)
+-   [**Разные переменные состояния**](miscellaneous-state-variables.md)
 
 Для каждой переменной в разделе содержится описание, группа атрибутов, начальное или минимальное значение, а также предлагаемая [**функция \* глжет**](glgetbooleanv--glgetdoublev--glgetfloatv--glgetintegerv.md) , используемая для ее получения.
 
@@ -39,9 +39,9 @@ ms.locfileid: "105661558"
 
 *Справочное руководство по OpenGL*.
 
- 
+ 
 
- 
+ 
 
 
 

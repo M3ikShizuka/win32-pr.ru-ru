@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55101902
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 2f5ff664293e7841c787cabdcb4e16a5bb1d8726
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 787259546e8ab070120f70aa7c2c6d46ffd59a9ee674e8763ff04aef39d8cea8
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104544602"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119783550"
 ---
 # <a name="esentinvalidcolumntypeexception-properties"></a>Свойства Есентинвалидколумнтипиксцептион
 
@@ -49,7 +49,7 @@ ms.locfileid: "104544602"
 </tr>
 <tr class="even">
 <td><img src="../images/dn292128.protproperty(exchg.10).gif" title="Защищенное свойство" alt="Protected property" /></td>
-<td><a href="/dotnet/api/system.exception.hresult#System_Exception_HResult">Состав</a></td>
+<td><a href="/dotnet/api/system.exception.hresult#System_Exception_HResult">HResult</a></td>
 <td>(Наследуется от <a href="/dotnet/api/system.exception">Exception</a>.)</td>
 </tr>
 <tr class="odd">

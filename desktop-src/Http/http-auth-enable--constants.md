@@ -19,12 +19,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a6462a4f9d884244f460c4bf7714b45d3e17600c
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: fa66013700dc1ad6b091ccf4738f2af456cb29384fd2d48b2d17a0a244019a0e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104492831"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118394502"
 ---
 # <a name="http_auth_enable_-constants"></a>\_ \_ Константы включения проверки подлинности HTTP \_
 
@@ -71,7 +71,7 @@ ms.locfileid: "104492831"
 
 Кэширование учетных данных Kerberos включено.
 
-**Windows Server 2003 и более того:** Недоступно.
+**Windows Server 2003 и более:** Недоступно.
 
 
 </dt> </dl> </dd> <dt>
@@ -83,7 +83,7 @@ ms.locfileid: "104492831"
 
 API сервера HTTP захватывает удостоверение вызывающего объекта и использует его для проверки подлинности только для схем Negotiate и Kerberos.
 
-**Windows Server 2003 и более того:** Недоступно.
+**Windows Server 2003 и более:** Недоступно.
 
 
 </dt> </dl> </dd> <dt>
@@ -124,8 +124,8 @@ API сервера HTTP захватывает удостоверение выз
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                    |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                              |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                    |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                              |
 | Header<br/>                   | <dl> <dt>HTTP. h</dt> </dl> |
 
 

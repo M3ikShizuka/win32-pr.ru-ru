@@ -4,12 +4,12 @@ ms.assetid: ba9240fe-2e5a-43f5-8cdf-59dd6348092b
 title: Порядок приоритета свойств
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 90c114594b9a825a3847db37f5b98dc990211d9c
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: b243180b356b081e3d14515d72c2ed1313ba6fa1f2fd81356b329c2edcd83598
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105674375"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118942821"
 ---
 # <a name="order-of-property-precedence"></a>Порядок приоритета свойств
 
@@ -19,9 +19,9 @@ ms.locfileid: "105674375"
 2.  [Открытые свойства](public-properties.md) , заданные в командной строке.
 3.  Общие свойства, перечисленные в свойстве [**админпропертиес**](adminproperties.md) во время [административной установки](administrative-installation.md) .
 4.  Открытые или закрытые свойства, заданные во время применения [*преобразования*](t-gly.md).
-5.  Открытое или закрытое свойство, заданное путем создания [таблицы свойств](property-table.md) MSI файла.
+5.  Открытое или закрытое свойство, заданное путем создания [таблицы свойств](property-table.md) файла .msi.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

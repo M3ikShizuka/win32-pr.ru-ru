@@ -12,12 +12,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 0036ee0a49225568aac066735824fe55ce8f0fa6
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 0e8e4c369eab647d51fbb690338ff9451a010bfac69af68ec1209ada10db4018
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104984496"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118395042"
 ---
 # <a name="eventtraceevent-class"></a>Класс Евенттрацеевент
 
@@ -34,7 +34,7 @@ class EventTraceEvent : MSNT_SystemTrace
 };
 ```
 
-## <a name="members"></a>Участники
+## <a name="members"></a>Члены
 
 Класс **евенттрацеевент** не определяет никаких членов.
 
@@ -44,8 +44,8 @@ class EventTraceEvent : MSNT_SystemTrace
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>          |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>          |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/> |
 
 
 

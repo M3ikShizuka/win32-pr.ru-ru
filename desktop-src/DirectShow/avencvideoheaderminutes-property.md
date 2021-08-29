@@ -4,12 +4,12 @@ ms.assetid: 75c0d63c-3ff1-4ba1-9323-55f4ae06fe0f
 title: Свойство Авенквидеохеадерминутес (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 19a59c24095e3455b469805659e8fbfd0af233e7
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: e6ca0b35d581acc34e56633a39756c4ef59f8bf48c361c18f00ddac79763e5a1
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "105662003"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119275584"
 ---
 # <a name="avencvideoheaderminutes-property"></a>Авенквидеохеадерминутес, свойство
 
@@ -29,14 +29,14 @@ ms.locfileid: "105662003"
 
 Допустимый диапазон этого свойства — от 0 до 59 включительно.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Приложения Windows 2000 Professional \[ классические приложения \| UWP\]<br/>                     |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows 2000 \|\]<br/>                           |
+| Минимальная версия клиента<br/> | Windows 2000 Professional приложения \[ UWP для классических приложений \|\]<br/>                     |
+| Минимальная версия сервера<br/> | \[приложения UWP для классических приложений Windows 2000 \|\]<br/>                           |
 | Header<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
 
 

@@ -3,7 +3,7 @@ title: Свойство SplitButton. Менуграупс
 description: Представляет контейнер для набора пунктов раскрывающегося меню в стандартном элементе управления "разворачивающаяся кнопка".
 ms.assetid: 6328ad49-037b-4cd5-90f6-b91646e260ee
 keywords:
-- Лента Windows свойства SplitButton. Менуграупс
+- свойство SplitButton. менуграупс Windows ленты
 topic_type:
 - apiref
 api_name:
@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5b8af4639040d6b6302b4d2b5761d750074389a3
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 6bdc92ba966cab09d2f417fdedbc046d7ec400ea93bdb2d0434194ff1d1824d7
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103802248"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119933184"
 ---
 # <a name="splitbuttonmenugroups-property"></a>Свойство SplitButton. Менуграупс
 
@@ -55,7 +55,7 @@ ms.locfileid: "103802248"
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Необязательный элемент.
 
@@ -140,18 +140,18 @@ ms.locfileid: "103802248"
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 7\]<br/>              |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2008 R2 \[\]<br/> |
+| Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>              |
+| Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

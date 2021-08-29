@@ -13,12 +13,12 @@ keywords:
 - Функция Дравдибклосе
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: dc366287cdf481d70ef03aa82df5ea248673280b
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 5d331e2524c8b46c9e0781d1ff43a99b72a160a2b05acae7b853aabcbb9b8f0d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104487037"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118941245"
 ---
 # <a name="drawdib-operations"></a>Операции Дравдиб
 
@@ -33,18 +33,18 @@ ms.locfileid: "104487037"
 > [!Note]  
 > Извлечение и сохранение профиля дисплея обычно выполняется один раз. Однако если данные профиля удалены или в системе установлен другой драйвер экрана, Дравдиб повторно выполняет тесты.
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [О функциях Дравдиб](about-the-drawdib-functions.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

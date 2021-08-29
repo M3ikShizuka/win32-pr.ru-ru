@@ -4,12 +4,12 @@ description: После создания результата необходим
 ms.assetid: 7624d55e-6466-4156-8f31-30f0d25a2883
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c3df304a7b657af19984008bd90a1be4bfe5219c
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 83209db3ea32242e1eb9a40eccacc846567e3e6bc6401d74950a379fc1d24bcd
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "103987627"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119046612"
 ---
 # <a name="compile-an-effect-direct3d-11"></a>Компиляция результата (Direct3D 11)
 
@@ -24,9 +24,9 @@ ms.locfileid: "103987627"
 -   [Флаги шейдера HLSL](#hlsl-shader-flags)
 -   [Флаги FX](#fx-flags)
 -   [Проверка ошибок](#checking-errors)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
-## <a name="example"></a>Например, .
+## <a name="example"></a>Пример
 
 Ниже приведен пример компиляции файла эффектов.
 
@@ -160,13 +160,13 @@ if( pErrorBlob )
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Отрисовка результата (Direct3D 11)](d3d11-graphics-programming-guide-effects-render.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

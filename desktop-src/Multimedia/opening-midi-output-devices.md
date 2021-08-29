@@ -13,12 +13,12 @@ keywords:
 - Открытие выходных устройств MIDI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9ca7a7e1db461b29700ec7c7c61ee140073bc345
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.openlocfilehash: b0976e265fe253d02bc9662e6ea9b376d5acc4b5fd9f62e56642b56df53ce135
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "104487644"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118136713"
 ---
 # <a name="opening-midi-output-devices"></a>Открытие выходных устройств MIDI
 
@@ -26,6 +26,6 @@ ms.locfileid: "104487644"
 
 Одним из параметров **мидиаутопен** является значение даублеворд. Это значение указывает обработчика окна или потока, обработчик события или адрес функции обратного вызова, который используется для отслеживания хода воспроизведения потока данных, исключающих систему MIDI, и буферов потоков. Мониторинг позволяет приложению определить, когда отправлять дополнительные блоки данных и когда отправляются свободные блоки данных. Дополнительные сведения об этих методах см. в разделе [Управление блоками данных MIDI](managing-midi-data-blocks.md).
 
- 
+ 
 
- 
+ 

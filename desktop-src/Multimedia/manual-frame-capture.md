@@ -11,12 +11,12 @@ keywords:
 - макрос Капкаптуресинглефрамеклосе
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 26899032d8e81be437e8f29acf36f0a37703c560
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 3e9024f8759697248b1aadf2f46f902c4bf706c9d10417281d9b5c4f61fc1e94
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103888103"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118138859"
 ---
 # <a name="manual-frame-capture"></a>Ручная запись кадров
 
@@ -25,11 +25,11 @@ ms.locfileid: "103888103"
 > [!Note]  
 > Этот метод отслеживания не поддерживает одновременную запись звука с захватом видео.
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

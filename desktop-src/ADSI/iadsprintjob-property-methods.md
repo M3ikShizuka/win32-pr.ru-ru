@@ -44,12 +44,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2d1680484ff16d563ef5bc89de6d5abbfec2ce6a
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: d6ac97c5be69c1d6a7b41360693ffb314ba0c7e5514e2211275b259610fbb6fa
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104492012"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118427771"
 ---
 # <a name="iadsprintjob-property-methods"></a>Методы свойств Иадспринтжоб
 
@@ -478,7 +478,7 @@ Cleanup:
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -486,13 +486,13 @@ Cleanup:
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>IAds. h</dt> </dl>       |
+| Заголовок<br/>                   | <dl> <dt>IAds. h</dt> </dl>       |
 | DLL<br/>                      | <dl> <dt>Activeds.dll</dt> </dl> |
 | IID<br/>                      | IID \_ иадспринтжоб определен как 32FB6780-1ED0-11CF-A988-00AA006BC149<br/>         |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

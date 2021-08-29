@@ -4,12 +4,12 @@ description: В следующих разделах описываются ст�
 ms.assetid: cc9b823b-f214-44f6-94d1-f42ee71f203c
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 980247645154a7b2ca87d9bfa96174b24d705cba
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 66a5f59758b7b2b058d7e7d8dbc478341fcb6da3e3e0ec75ba0f6c3d0b3914e6
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104068244"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118926507"
 ---
 # <a name="rpc-data-types-structures-and-constants"></a>Типы данных RPC, структуры и константы
 
@@ -21,9 +21,9 @@ ms.locfileid: "104068244"
 -   [Константы RPC](rpc-constants.md)
 -   [Возвращаемые значения RPC](rpc-return-values.md)
 
- 
+ 
 
- 
+ 
 
 
 

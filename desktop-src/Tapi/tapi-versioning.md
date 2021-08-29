@@ -4,12 +4,12 @@ ms.assetid: 35fea8f9-307e-4429-b4ec-ffb5c62c2610
 title: Управление версиями TAPI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 853cf9d5f3744e11936f121986edc4e6e027d251
-ms.sourcegitcommit: 6fc8a7419bd01787cf6a1c52c355a4a2d1aec471
+ms.openlocfilehash: 3f940cead427f843bb7cf3a3a89e1747344a8ffa2ddb8fff5a2b30db0b5a7f2c
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/10/2021
-ms.locfileid: "111989299"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119872894"
 ---
 # <a name="tapi-versioning"></a>Управление версиями TAPI
 
@@ -41,14 +41,14 @@ ms.locfileid: "111989299"
 
 
 
-| Версия TAPI        | Distribution                                                   |
+| Версия TAPI        | Дистрибутив                                                   |
 |---------------------|----------------------------------------------------------------|
 | 1,0 – 1,2           | Бета-версии, которые больше не должны использоваться.              |
-| [1.4](tapi-1-4.md) | Входит в Windows 95.                                        |
-| [1.5](tapi-1-5.md) | Входит в Windows CE 1,0.                                    |
-| [2.0](tapi-2-0.md) | Входит в состав Windows NT 4,0 с пакетом обновления 3 (SP3).                           |
-| [2.1](tapi-2-1.md) | Входит в состав Windows NT 4,0 с пакетом обновления 4 (SP4) и Windows 98.            |
-| [2.2](tapi-2-2.md) | Входит в Windows Server 2003, Windows XP и Windows 2000. |
+| [1.4](tapi-1-4.md) | входит в Windows 95.                                        |
+| [1.5](tapi-1-5.md) | входит в Windows CE 1,0.                                    |
+| [2.0](tapi-2-0.md) | входит в состав Windows NT 4,0 с пакетом обновления 3 (SP3).                           |
+| [2.1](tapi-2-1.md) | входит в состав Windows NT 4,0 с пакетом обновления 4 (SP4) и Windows 98.            |
+| [2.2](tapi-2-2.md) | входит в Windows Server 2003, Windows XP и Windows 2000. |
 
 
 

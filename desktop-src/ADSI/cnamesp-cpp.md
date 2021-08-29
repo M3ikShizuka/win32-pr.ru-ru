@@ -5,12 +5,12 @@ ms.assetid: 2f570f87-d8c3-42b1-b8b9-758905bf4b86
 ms.tgt_platform: multiple
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b8204c953218692d91c52fb77d757b5e917264a4
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: a5b00a2ae1c3e27aa67f3989fd34b5723b06024f24f0fcc56fbc5a55d9ac82d7
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104531853"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119082738"
 ---
 # <a name="cnamespcpp"></a>КНАМЕСП. CPP
 
@@ -30,11 +30,11 @@ ms.locfileid: "104531853"
 
 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

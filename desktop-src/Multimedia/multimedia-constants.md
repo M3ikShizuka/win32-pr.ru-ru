@@ -3,19 +3,19 @@ title: Константы мультимедиа
 description: Константы мультимедиа
 ms.assetid: ab763c8a-66e7-42f5-9abc-bb3a6090655e
 keywords:
-- Мультимедиа Windows, константы
+- Windows мультимедиа, константы
 - мультимедиа, константы
 - Мультимедийная ссылка, константы
 - Справочник по мультимедиа, константам
 - константы мультимедиа
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fd47a6c31bb89d6a41f1f107ae85e7abafaf1876
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: b9e4d077a328774b4593937ac639e38b035dbf064e994092b9f2740fcfb91d92
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104486829"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118137111"
 ---
 # <a name="multimedia-constants"></a>Константы мультимедиа
 
@@ -24,16 +24,16 @@ ms.locfileid: "104486829"
 -   [Типы устройств MCI](mci-device-types.md)
 -   [Возвращаемые значения МЦИЕРР](mcierr-return-values.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Ссылка на мультимедиа](multimedia-reference.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

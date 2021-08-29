@@ -4,12 +4,12 @@ description: Определяет свойство UI \_ PKEY \_ тултипд�
 ms.assetid: 658e798a-f41e-4538-94ac-38a9cb20dd74
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 900610c1302d3cc904dcde2d7c86801982fd4d10
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 4d2962370c18e1c9b7d072d47d92292182097f9e31f17b45096907b7e6c7f92e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "105672171"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119932533"
 ---
 # <a name="ui_pkey_tooltipdescription"></a>UI \_ PKEY \_ тултипдескриптион
 
@@ -17,15 +17,15 @@ ms.locfileid: "105672171"
 
 ```
 propertyDescription
-   name = UI_PKEY_TooltipDescription
-   shellPKey = UI_PKEY_TooltipDescription
-   formatID = 00000005-7363-696e-8441798acf5aebb7
-   propID = 5
-   typeInfo
-      type = VT_LPWSTR
+   name = UI_PKEY_TooltipDescription
+   shellPKey = UI_PKEY_TooltipDescription
+   formatID = 00000005-7363-696e-8441798acf5aebb7
+   propID = 5
+   typeInfo
+      type = VT_LPWSTR
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 UI \_ PKEY \_ тултипдескриптион используется приложением для запроса описания, связанного с [интерфейсом \_ PKEY \_ тултиптитле](windowsribbon-reference-properties-uipkey-tooltiptitle.md).
 
@@ -34,13 +34,13 @@ UI \_ PKEY \_ тултипдескриптион используется при
 > [!Note]  
 > Используйте ссылку на символ XML универсальной кодировки (UCS) `&#xA;` для указания разрыва строки.
 
- 
+ 
 
 Максимальная длина пользовательского интерфейса \_ PKEY \_ тултипдескриптион не ограничена.
 
 Выравнивание по правому краю не поддерживается.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -53,9 +53,9 @@ UI \_ PKEY \_ тултипдескриптион используется при
 [UI \_ PKEY \_ тултиптитле](windowsribbon-reference-properties-uipkey-tooltiptitle.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 58029639852b30f5de357bb2643583615c45485c
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: b6f437ac6a67f684bd114ebba6aab1fcf8d828c680de88c338ab10ff39672e5d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "104355030"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119121746"
 ---
 # <a name="id3dxbasemesh-interface"></a>Интерфейс ID3DXBaseMesh
 
@@ -65,7 +65,7 @@ ms.locfileid: "104355030"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Сетка — это объект, состоящие из набора многоугольных граней. Сетка определяет набор вершин и набор лиц (грани определяются в виде вершин и нормалей сетки).
 
@@ -84,7 +84,7 @@ typedef struct ID3DXBaseMesh *LPD3DXBASEMESH;
 
 | Требование | Значение |
 |--------------------|----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3DX9Mesh. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3DX9Mesh. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>   |
 
 

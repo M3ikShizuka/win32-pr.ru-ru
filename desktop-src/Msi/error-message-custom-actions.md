@@ -4,12 +4,12 @@ ms.assetid: f61d653a-c214-42e0-9024-df59a472eda6
 title: Пользовательские действия в сообщении об ошибке
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 19f7dc292cbbaefe36188471381699c509c9842d
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: d5bc71ed65ae37740f2f931a2f74c4181296f54ff8c5c00e14eec694cd1918cc
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103897878"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118143078"
 ---
 # <a name="error-message-custom-actions"></a>Пользовательские действия в сообщении об ошибке
 

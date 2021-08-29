@@ -1,6 +1,6 @@
 ---
 title: Элемент volatile
-description: Указывает, будет ли задача автоматически отключаться при каждом запуске Windows.
+description: указывает, будет ли задача автоматически отключена при каждом запуске Windows.
 ms.assetid: E0298876-2A96-401D-B857-69758AF980E5
 keywords:
 - планировщик задач с временными элементами
@@ -13,16 +13,16 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: ca697bd0dff3a1fffd0b92a29d2fc88f1d4ed433
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 496e95fe98ecb2890d19bde0b99e171ab20b045a47bf69840dd78f501bfbc309
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103803635"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119872104"
 ---
 # <a name="volatile-element"></a>Элемент volatile
 
-Указывает, будет ли задача автоматически отключаться при каждом запуске Windows.
+указывает, будет ли задача автоматически отключена при каждом запуске Windows.
 
 ``` syntax
 <xs:element name="Volatile"
@@ -45,22 +45,22 @@ ms.locfileid: "103803635"
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 При программировании на C++ этот параметр простоя указывается с помощью свойства [**ITaskSettings3:: volatile**](/windows/desktop/api/Taskschd/nf-taskschd-itasksettings3-get_volatile) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 8\]<br/>           |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2012\]<br/> |
+| Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>           |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

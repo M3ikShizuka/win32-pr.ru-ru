@@ -14,12 +14,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 4a69e74a086ecd594d83c932beea4fd7d62724db
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 25e8c066bbaf0c66a23aba19b107c8086fac7de76e0ff2ce4873d129b8586cc5
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108106412"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118151450"
 ---
 # <a name="pagefault_typegroup1-class"></a>\_Класс PageFault TypeGroup1
 
@@ -86,14 +86,14 @@ class PageFault_TypeGroup1 : PageFault_V2
 
 Ошибка страницы возникает, когда страница, заданная в кэше памяти, не найдена и должна быть получена из любого места в памяти (кратковременная ошибка) или с диска (жесткий сбой).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>       |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>       |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/> |
 
 
 

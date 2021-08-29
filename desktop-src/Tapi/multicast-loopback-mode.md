@@ -4,16 +4,16 @@ ms.assetid: bf9c3665-71cc-4cde-9ad4-1a8b62eddf9f
 title: Перечисление MULTICAST_LOOPBACK_MODE (Конфприв. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0a15505efcd1a9e399866b104da0582ccf846689
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: f322f723d6e1dfa7a0819c661b13d02fdfda753738f7cdb9c304c394bffc2a40
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105689536"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119002842"
 ---
 # <a name="multicast_loopback_mode-enumeration"></a>Перечисление в режиме многоадресного \_ замыкания \_
 
-\[**Многоадресная рассылка \_ \_Режим замыкания на себя** недоступен для использования в Windows Vista, windows Server 2008 и последующих версиях операционной системы. API клиента RTC предоставляет аналогичные функциональные возможности.\]
+\[**Многоадресная рассылка \_ \_режим замыкания на себя** недоступен для использования в Windows Vista, Windows Server 2008 и последующих версиях операционной системы. API клиента RTC предоставляет аналогичные функциональные возможности.\]
 
 Перечисление **режима многоадресного \_ замыкания \_** описывает режим многоадресного замыкания на себя.
 
@@ -58,7 +58,7 @@ ms.locfileid: "105689536"
 | Требование | Значение |
 |-------------------------|---------------------------------------------------------------------------------------|
 | Версия TAPI<br/> | Требуется TAPI 3,0 или более поздней версии<br/>                                                 |
-| Header<br/>       | <dl> <dt>Конфприв. h</dt> </dl> |
+| Заголовок<br/>       | <dl> <dt>Конфприв. h</dt> </dl> |
 
 
 

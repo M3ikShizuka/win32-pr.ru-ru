@@ -3,7 +3,7 @@ title: Сообщение DTM_GETMCCOLOR (Коммктрл. h)
 description: Возвращает цвет для заданной части месячного календаря в элементе управления "Выбор даты и времени" (DTP). Это сообщение можно отправить явным образом или использовать \_ макрос Жетмонскалколор DateTime.
 ms.assetid: 892e8c23-f0d0-4fd6-98ed-39592c4d316f
 keywords:
-- Элементы управления Windows для DTM_GETMCCOLOR сообщений
+- элементы управления Windows сообщений DTM_GETMCCOLOR
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 690c461c5bccbd050fb3d698d1a41c6d1e513944
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: a99a67f6ca7056f0157d131d185cb5cb68a85e06b8cbb124a16b3c2129c21963
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104493347"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119878154"
 ---
 # <a name="dtm_getmccolor-message"></a>\_Сообщение DTM жетмкколор
 
@@ -58,15 +58,15 @@ ms.locfileid: "104493347"
 
 Возвращает значение **COLORREF** , представляющее параметр цвета для указанной части элемента управления "месячный календарь" в случае успеха. В случае неудачи сообщение возвращает значение-1.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

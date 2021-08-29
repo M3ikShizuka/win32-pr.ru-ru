@@ -4,12 +4,12 @@ ms.assetid: c05da933-7e0e-4fbb-a936-517902a363c4
 title: Мситул. MAK
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3c3dad9fd65aaa880e9fdb38369843907104dea4
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 86392153c539dfab771b8e87859147ef89573e0aa9747771593674e99262e6c0
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104156154"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118944411"
 ---
 # <a name="msitoolmak"></a>Мситул. MAK
 
@@ -17,13 +17,13 @@ ms.locfileid: "104156154"
 
 ВКБИН можно определить в каталоге, где найдены средства Visual C++ или makefile использует МСВКДИР и МСДЕВДИР. Если они не определены, то местоположение не указывается, предполагая, что средства находятся в пути. Ошибка в переменных среды в Visual C++ версии 5,0 заключается в том, что если оба пути не указаны, компоновщику не удается найти Msdis100.dll. Если скопировать его из МСДЕВДИР в МСВКДИР, он будет работать. Другой вариант — скопировать Msdis100.dll и Rc.exe и Rcdll.dll в МСВКДИР и задать для ВКБИН значение.
 
-Это средство доступно только в [компонентах Windows SDK для разработчиков установщик Windows](platform-sdk-components-for-windows-installer-developers.md).
+это средство доступно только в [компонентах Windows SDK для разработчиков установщик Windows](platform-sdk-components-for-windows-installer-developers.md).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
-[Средства разработки установщик Windows](windows-installer-development-tools.md)
+[Windows Средства разработки установщика](windows-installer-development-tools.md)
 </dt> <dt>
 
 [Выпущенные версии, средства и распространяемые пакеты](released-versions-tools-and-redistributables.md)

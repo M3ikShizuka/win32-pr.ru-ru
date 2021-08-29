@@ -4,12 +4,12 @@ description: SSPI — это программный интерфейс.
 ms.assetid: 2497afea-33dd-45ae-891b-bacf390ef338
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 910cef52def2f398606fd541b8ed170f7e216078
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: d06f406dfd352dafbd22ec610ff992dd26d06dbc547d6f8fea784365586400fb
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104070350"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118925134"
 ---
 # <a name="sspi-architectural-overview"></a>Обзор архитектуры SSPI
 
@@ -23,6 +23,6 @@ SSPI — это программный интерфейс. Такие библи
 
 Дополнительные сведения см. в разделе [SSPI](/windows/desktop/SecAuthN/sspi).
 
- 
+ 
 
- 
+ 
