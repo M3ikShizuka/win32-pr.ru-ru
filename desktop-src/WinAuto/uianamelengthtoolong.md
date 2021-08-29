@@ -6,12 +6,12 @@ keywords:
 - Идентификатор UIA_NamePropertyId AutomationElement. NameProperty
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6ab786b7167dab4a25384ce3abe2509babcf1f82
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: eec235897680cde3b024a67745b923e989cfc68db3b154be260c9dcd3510ba10
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104411293"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118993974"
 ---
 # <a name="uianamelengthtoolong"></a>уианамеленгстулонг
 
@@ -21,7 +21,7 @@ ms.locfileid: "104411293"
 
 ## <a name="type"></a>Тип
 
-Ошибка
+Error
 
 ## <a name="description"></a>Описание
 
@@ -33,7 +33,7 @@ ms.locfileid: "104411293"
 
 Элемент или его родитель имеет неправильно назначенное имя или подпись.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -43,9 +43,9 @@ ms.locfileid: "104411293"
 [**Иуиаутоматионелемент:: Куррентнаме**](/windows/desktop/api/UIAutomationClient/nf-uiautomationclient-iuiautomationelement-get_currentname)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

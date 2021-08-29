@@ -4,12 +4,12 @@ ms.assetid: 5ab9bb7f-1f99-4041-bba8-2863f34dbcaf
 title: Синхронный и перекрытый конвейерный ввод-вывод
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3becfb19dfe5fa49d4121246a576fb3200226b1a
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: a5403b6e619020cc41c3be51ac873b846cdf72701d266097a3287d48ff2a6659
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105693615"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "117694962"
 ---
 # <a name="synchronous-and-overlapped-pipe-io"></a>Синхронный и перекрытый конвейерный ввод-вывод
 

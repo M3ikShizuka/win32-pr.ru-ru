@@ -12,12 +12,12 @@ api_name:
 api_type:
 - Schema
 api_location: ''
-ms.openlocfilehash: 0e372c1025a74dfb304cacdb0f3a4cf18bcdbabd
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 754e5e931911dedc74e42a1f7af8a207b400d4ba64949535cfa962e271b47181
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105682822"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "117984309"
 ---
 # <a name="hotspot2-wlanprofile-element"></a>Hotspot2 (Вланпрофиле), элемент
 
@@ -50,7 +50,7 @@ ms.locfileid: "105682822"
 
 | Элемент | Тип | Описание |
 |-|-|-|
-| [**Имя_домена**](wlan-profileschema-hotspot2-domainname-element.md) | | Доменное имя поставщика домашней сети устройства, идентифицирующее оператора сети. |
+| [**DomainName**](wlan-profileschema-hotspot2-domainname-element.md) | | Доменное имя поставщика домашней сети устройства, идентифицирующее оператора сети. |
 | [**наиреалм**](wlan-profileschema-hotspot2-nairealm-element.md) | | Список идентификаторов области идентификаторов доступа к сети (наи). Записи в этом списке обычно имеют форму user@domain . |
 | [**Network3GPP**](wlan-profileschema-hotspot2-network3gpp-element.md) | | Список общедоступных идентификаторов мобильной сети (ПЛМН). |
 | [**роамингконсортиум**](wlan-profileschema-hotspot2-roamingconsortium-element.md) | | Список уникальных идентификаторов (OUI), назначенных IEEE.  |

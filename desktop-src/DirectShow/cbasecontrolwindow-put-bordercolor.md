@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 54db6de704f2ee0fde1a5087e83df4b362a57959
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: bc696efd1500d7cb2b9d66efcd8a1ccaa2fa215c1dd0c03516313b3766ff5dad
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105657350"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119635903"
 ---
 # <a name="cbasecontrolwindowput_bordercolor-method"></a>Кбасеконтролвиндов. размещение \_ BorderColor, метод
 
@@ -53,7 +53,7 @@ HRESULT put_BorderColor(
 
 Возвращает значение **HRESULT** .
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Приложение может установить конечный прямоугольник, в котором должно отображаться видео. Этот прямоугольник отсчитывается относительно клиентской области окна. Если это сделано (по умолчанию всегда закрашивать все окно), то вокруг видео отображается граница. Это свойство влияет на цвет, используемый границей. Хотя параметр указан как тип **Long** , он фактически является значением **COLORREF** .
 
@@ -63,7 +63,7 @@ HRESULT put_BorderColor(
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Ктлутил. h (включение Streams. h)</dt> </dl>                                                                                   |
+| Заголовок<br/>  | <dl> <dt>ктлутил. h (включает Потоки. h)</dt> </dl>                                                                                   |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 

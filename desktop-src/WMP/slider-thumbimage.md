@@ -3,7 +3,7 @@ title: ПОЛЗУНок. Сумбимаже
 description: Атрибут Сумбимаже указывает или получает изображение, которое будет использоваться для представления текущей положения ползунка.
 ms.assetid: 3aa69188-3443-483c-81a9-bf22832509d8
 keywords:
-- ПОЛЗУНок. Сумбимаже Windows Media Player
+- проигрыватель Windows Media SLIDER. сумбимаже
 topic_type:
 - apiref
 api_name:
@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b798dfbae24fe2cef3669d2fb372966e47254026
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: e0711cb7a652032db4b167040fbd604d1e561885926bf8fc7c31d1fedb65049e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105698965"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118995144"
 ---
 # <a name="sliderthumbimage"></a>ПОЛЗУНок. Сумбимаже
 
@@ -31,7 +31,7 @@ ms.locfileid: "105698965"
 
 Этот атрибут является **строкой** для чтения и записи, содержащей имя файла изображения.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 **Сумбимаже** указывает изображение, которое будет использоваться для представления текущей позицией, а также указывает, что пользователь может выполнить действие с элементом управления. Если изображение Thumb не указано, ползунок не является интерактивным.
 
@@ -49,7 +49,7 @@ ms.locfileid: "105698965"
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 7,0 или более поздней<br/> |
+| Версия<br/> | проигрыватель Windows Media версии 7,0 или более поздней<br/> |
 
 
 

@@ -1,9 +1,9 @@
 ---
 title: ЕНДМАРКЕР, элемент
-description: Элемент ЕНДМАРКЕР указывает маркер, по которому проигрыватель Windows Media останавливает отрисовку потока.
+description: элемент ендмаркер указывает маркер, по которому проигрыватель Windows Media будет прерывать отрисовку потока.
 ms.assetid: 554f0612-1669-4da4-9c5f-cc8984ef897c
 keywords:
-- Проигрыватель Windows Media, элемент ЕНДМАРКЕР
+- проигрыватель Windows Media элемента ендмаркер
 topic_type:
 - apiref
 api_name:
@@ -13,16 +13,16 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 94d00eae3681775476af9c3169134b636e2904c2
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 276b17117d2f01d9bc40d7f171a6d0ff6ea2331da439266ac11bf8c25b5e4f25
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105699186"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118996664"
 ---
 # <a name="endmarker-element"></a>ЕНДМАРКЕР, элемент
 
-Элемент **ендмаркер** указывает маркер, по которому проигрыватель Windows Media останавливает отрисовку потока.
+элемент **ендмаркер** указывает маркер, по которому проигрыватель Windows Media будет прерывать отрисовку потока.
 
 ``` syntax
 <ENDMARKER
@@ -56,7 +56,7 @@ ms.locfileid: "105699186"
 
 ## <a name="remarks"></a>Remarks
 
-Этот элемент указывает маркер, на котором проигрыватель Windows Media останавливает отрисовку потока, определенного в родительской **записи** или элементе **ref** .
+этот элемент задает маркер, где проигрыватель Windows Media — останавливает отрисовку потока, определенного в родительской **записи** или элементе **REF** .
 
 Примечание
 
@@ -79,24 +79,24 @@ ms.locfileid: "105699186"
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 70 или более поздней<br/> |
+| Версия<br/> | проигрыватель Windows Media версии 70 или более поздней<br/> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
-[**Справочник по элементам метафайлов Windows Media**](windows-media-metafile-elements-reference.md)
+[**Windows Справочник по элементам метафайлов мультимедиа**](windows-media-metafile-elements-reference.md)
 </dt> <dt>
 
-[**Справочник по метафайлу Windows Media**](windows-media-metafile-reference.md)
+[**Windows Ссылка на метафайл мультимедиа**](windows-media-metafile-reference.md)
 </dt> </dl>
 
  

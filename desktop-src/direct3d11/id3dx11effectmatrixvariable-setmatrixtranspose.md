@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5daf77b6e2e9578dcbc6c9cfe80f57b149097c32
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: de86741ba3168276da48756082e2e59f876009523ea940cdb58d070b4e72c3a0
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "104986933"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118535117"
 ---
 # <a name="id3dx11effectmatrixvariablesetmatrixtranspose-method"></a>Метод ID3DX11EffectMatrixVariable:: Сетматрикстранспосе
 
@@ -58,7 +58,7 @@ HRESULT SetMatrixTranspose(
 
 Возвращает один из следующих [кодов возврата Direct3D 11](d3d11-graphics-reference-returnvalues.md).
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 При перестановке матрицы порядок данных переупорядочивается из порядка строк в столбец в порядке строк (или наоборот).
 
@@ -67,18 +67,18 @@ HRESULT SetMatrixTranspose(
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3dx11effect. h</dt> </dl>                                                    |
+| Заголовок<br/>  | <dl> <dt>D3dx11effect. h</dt> </dl>                                                    |
 | Библиотека<br/> | <dl> <dt>Н/д (библиотека Effects 11 доступна в сети в качестве общего источника.)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

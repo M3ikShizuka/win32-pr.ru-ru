@@ -4,19 +4,19 @@ ms.assetid: 1cb0456d-501a-4272-b89d-35e79d29d13a
 title: Internet Explorer 8 — строка агента пользователя
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d94d60930466b7243ad6ecc2b2d8d9c799e0e3da
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: b8222dc199d8023b34d092b5b68fca90a93d1a00a6e41618ee3c8ee3897ef535
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108088242"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118995014"
 ---
 # <a name="internet-explorer-8---user-agent-string"></a>Internet Explorer 8 — строка агента пользователя
 
 ## <a name="affected-platforms"></a>Затронутые платформы
 
- **Клиенты** — Windows XP, Windows Vista, Windows 7  
-**Серверы** — windows Server 2003, windows Server 2008, windows Server 2008 R2  
+ **клиенты** — Windows XP, Windows Vista, Windows 7  
+**серверы** — Windows server 2003, Windows server 2008, Windows server 2008 R2  
 
 
 
@@ -59,8 +59,8 @@ ms.locfileid: "108088242"
 
 ## <a name="compatibility-performance-reliability-and-usability-testing"></a>Совместимость, производительность, надежность и тестирование на удобство использования
 
--   Запустите приложения и веб-страницы в среде Internet Explorer 8 в Windows Vista или Windows XP, чтобы убедиться, что они ведут себя нужным образом.
--   Кроме того, можно запустить средство тестирования совместимости Internet Explorer (ИЕКТТ), предоставляемое вместе с набором средств для обеспечения совместимости приложений (ACT), для выявления потенциальных проблем, связанных с обновлениями функций безопасности.
+-   запустите приложения и веб-страницы в среде Internet Explorer 8 на Windows Vista или Windows XP, чтобы убедиться, что они ведут себя нужным образом.
+-   кроме того, можно запустить средство тестирования совместимости Internet Explorer (иектт), предоставляемое вместе с набор средством совместимости приложений (акт), чтобы узнать о потенциальных проблемах, связанных с обновлениями функций безопасности.
 
 ## <a name="links-to-other-resources"></a>Ссылки на другие ресурсы
 
@@ -68,7 +68,7 @@ ms.locfileid: "108088242"
 -   [Строка User-Agent Internet Explorer 8](/archive/blogs/ie/)
 -   [Строка и вектор версии агента пользователя](https://archive.msdn.microsoft.com/ie8whitepapers)
 -   [Размещение и повторное использование](/previous-versions/windows/internet-explorer/ie-developer/platform-apis/aa752038(v=vs.85))
--   [Загрузка набора средств для обеспечения совместимости приложений](/windows-hardware/get-started/adk-install)
+-   [загрузка набор средств совместимости приложений](/windows-hardware/get-started/adk-install)
 -   [Известные проблемы с функциями безопасности в Internet Explorer](/previous-versions/windows/it-pro/windows-7/cc722079(v=ws.10))
 
  

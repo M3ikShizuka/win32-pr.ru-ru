@@ -3,7 +3,7 @@ title: Атрибут MediaType
 description: Атрибут MediaType — это тип содержимого элемента.
 ms.assetid: 0d8a6937-32d8-4a4a-87e5-0002f077fefe
 keywords:
-- Проигрыватель Windows Media, атрибут MediaType
+- проигрыватель Windows Media атрибута MediaType
 topic_type:
 - apiref
 api_name:
@@ -12,18 +12,18 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5779552f62007aa3dd3da0e2f4253fcf5499a6be
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 57f75871e2b258b229483114be8f7673cccb7ca005e0b3618f4cfd803d47fe3f
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105651817"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118996234"
 ---
 # <a name="mediatype-attribute"></a>Атрибут MediaType
 
 Атрибут **mediaType** — это тип содержимого элемента.
 
-## <a name="applies-to"></a>Применение
+## <a name="applies-to"></a>Применяется к
 
 -   [Звуковые элементы](audio-item-attributes.md)
 -   [Другие элементы](other-item-attributes.md)
@@ -32,7 +32,7 @@ ms.locfileid: "105651817"
 -   [Элементы Радио](radio-item-attributes.md)
 -   [Элементы видео](video-item-attributes.md)
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот атрибут хранится только в библиотеке.
 
@@ -40,17 +40,17 @@ ms.locfileid: "105651817"
 
 Чтобы определить, можно ли изменить значение этого атрибута, используйте метод [Media. исреадонлитем](media-isreadonlyitem.md) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|---------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media 9 Series или более поздней версии<br/> |
+| Версия<br/> | проигрыватель Windows Media 9 Series или более поздней версии<br/> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
