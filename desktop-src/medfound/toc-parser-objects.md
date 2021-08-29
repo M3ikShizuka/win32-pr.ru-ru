@@ -4,12 +4,12 @@ ms.assetid: 70610ddf-4c0b-4b9b-bd26-82c2753b9fa7
 title: Таблица объектов средства синтаксического анализа содержимого
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 62266ffe5cea6e3be0467722c600bae57a84e216
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: ae6b755dd9f85b26b1a47032fa0bfc0eb31a0ad10e4a5d7ba9047947b28b0fa9
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105702029"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119847704"
 ---
 # <a name="table-of-contents-parser-objects"></a>Таблица объектов средства синтаксического анализа содержимого
 
@@ -26,7 +26,7 @@ ms.locfileid: "105702029"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

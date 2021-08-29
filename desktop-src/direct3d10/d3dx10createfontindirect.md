@@ -1,5 +1,5 @@
 ---
-description: Создает объект Font. Примечание. вместо использования этой функции рекомендуется использовать DirectWrite и библиотеку Директкстк, класс Спритефонт.
+description: Создает объект Font. примечание. вместо использования этой функции рекомендуется использовать DirectWrite и библиотеку директкстк, класс спритефонт.
 ms.assetid: 057ee033-37d8-4fc1-9f35-776393fff008
 title: Функция D3DX10CreateFontIndirect (D3DX10Core. h)
 ms.topic: reference
@@ -14,19 +14,19 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: ae69b02483a94a80a06ef52ee4857eb081cfcfb2
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: bfbbc2cdb0e8aad5851de40312bd7d646eb9e3af22e71f0638a7fa1e52f342f3
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "104354483"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119989154"
 ---
 # <a name="d3dx10createfontindirect-function"></a>Функция D3DX10CreateFontIndirect
 
 Создает объект Font.
 
 > [!Note]  
-> Вместо использования этой функции рекомендуется использовать [DirectWrite](../directwrite/direct-write-portal.md) и библиотеку [Директкстк](https://github.com/Microsoft/DirectXTK) , класс **спритефонт** .
+> вместо использования этой функции рекомендуется использовать [DirectWrite](../directwrite/direct-write-portal.md) и библиотеку [директкстк](https://github.com/Microsoft/DirectXTK) , класс **спритефонт** .
 
  
 
@@ -86,7 +86,7 @@ HRESULT D3DX10CreateFontIndirect(
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3DX10Core. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3DX10Core. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3DX10. lib</dt> </dl>   |
 
 

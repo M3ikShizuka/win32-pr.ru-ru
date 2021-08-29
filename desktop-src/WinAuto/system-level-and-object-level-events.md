@@ -4,12 +4,12 @@ description: Microsoft Active Accessibility использует три клас
 ms.assetid: 3333fe6c-38cd-4e7e-be4b-94c9f824e7e7
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b0d14a0469527a7654dd3e323adb47d650866ca9
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 1ab93b5780ceb960b7ad15ce220dcc8a7a0801aae8f7fec9cb8211417906b82e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104329400"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119133637"
 ---
 # <a name="system-level-and-object-level-events"></a>События System-Level и Object-Level
 
@@ -33,9 +33,9 @@ Microsoft Active Accessibility использует три класса Вине
 
 Серверы создают только события уровня объекта для пользовательских элементов управления, для которых они реализуют интерфейс [**IAccessible**](/windows/desktop/api/oleacc/nn-oleacc-iaccessible) . Дополнительные сведения см. в разделе [пользовательские элементы пользовательского интерфейса](custom-user-interface-elements.md).
 
- 
+ 
 
- 
+ 
 
 
 

@@ -1,19 +1,19 @@
 ---
-title: Включение проектируемой файловой системы Windows
-description: Описание включения Прожфс в Windows
+title: включение Windows проектируемой файловой системы
+description: Описание включения Прожфс на Windows
 ms.assetid: <GUID-GOES-HERE>
 ms.date: 09/17/2018
 ms.topic: article
-ms.openlocfilehash: f903192190877631084e366bcaeafd8b5b0e7e72
-ms.sourcegitcommit: 42cdae4d2eca84713ab3f7a5c88f583a352991a8
+ms.openlocfilehash: ca891b9b7f89b3722ea9db1c606961d4ba47f0a1a1d05d1bebc2951c68e00f35
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/23/2019
-ms.locfileid: "105671992"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120031264"
 ---
-# <a name="enabling-windows-projected-file-system"></a>Включение проектируемой файловой системы Windows
+# <a name="enabling-windows-projected-file-system"></a>включение Windows проектируемой файловой системы
 
-Прожфс поставляется с Windows в качестве дополнительного компонента.  Чтобы поставщик мог использовать его, он должен быть включен.  Вы можете использовать <!--the GUI or--> Использование PowerShell для включения Прожфс.
+прожфс поставляется с Windows в качестве дополнительного компонента.  Чтобы поставщик мог использовать его, он должен быть включен.  Вы можете использовать <!--the GUI or--> Использование PowerShell для включения Прожфс.
 
 <!--
 ## How to enable ProjFS in the GUI

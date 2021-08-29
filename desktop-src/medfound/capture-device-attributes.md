@@ -4,12 +4,12 @@ ms.assetid: dd24671a-0689-4490-8d18-2a33ed461e9d
 title: Запись атрибутов устройства
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 43dd8dbcdf0a441ddb8a5ef2794526e961c22033
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 265a27f34b5b12cc5909ea2cfa8bbf90d6d623fe4b4acf40e39fdd64d8ad8936
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105692086"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119959164"
 ---
 # <a name="capture-device-attributes"></a>Запись атрибутов устройства
 
@@ -40,7 +40,7 @@ ms.locfileid: "105692086"
 -   [**мфкреатедевицесаурцеактивате**](/windows/desktop/api/mfidl/nf-mfidl-mfcreatedevicesourceactivate)
 -   [**мфенумдевицесаурцес**](/windows/desktop/api/mfidl/nf-mfidl-mfenumdevicesources)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

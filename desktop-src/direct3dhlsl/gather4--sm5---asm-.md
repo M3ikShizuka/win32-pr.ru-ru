@@ -4,12 +4,12 @@ description: Собирает четыре пикселей текстуры, к
 ms.assetid: 5F93BB70-7696-48E4-BCD3-91D5D42FF63E
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f5657265738f12331afc7596286f02170de2a635
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.openlocfilehash: d3d613eed2f54db109dbddba59a240b535ccfbc8e4833b874719b6f3d4a51748
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "104273470"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120067944"
 ---
 # <a name="gather4-sm5---asm"></a>gather4 (SM5-ASM)
 
@@ -37,7 +37,7 @@ ms.locfileid: "104273470"
 
  
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Эта инструкция ведет себя как [**Пример**](sample--sm4---asm-.md) инструкции, но отфильтрованный образец не создается. Четыре примера, которые будут участвовать в фильтрации, помещаются в ксизв в порядке по часовой стрелке, начиная с образца в левом нижнем углу запрашиваемого расположения. Это то же самое, что выборка точек с помощью (u, v) дельты координат текстуры в следующих местах: (-, +), (+, +), (+,-), (-,-), где величина разностей всегда половина шаг текселя.
 
@@ -73,7 +73,7 @@ ms.locfileid: "104273470"
 
 | Модель шейдера                                              | Поддерживается |
 |-----------------------------------------------------------|-----------|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | да       |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | Да       |
 | [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | Нет        |
 | [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | Нет        |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет        |
@@ -84,7 +84,7 @@ ms.locfileid: "104273470"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

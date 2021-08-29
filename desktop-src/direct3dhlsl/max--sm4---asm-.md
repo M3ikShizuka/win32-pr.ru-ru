@@ -4,12 +4,12 @@ description: Максимальное количество перемещаем�
 ms.assetid: 005468AA-577E-441F-ACD5-37A691E62CDD
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f64d88c581828f2563f6d5d8a6c57de6400f9bbf
-ms.sourcegitcommit: b6fe9acffad983c14864b8fe0296f6025cb1f961
+ms.openlocfilehash: 1349db8dc991bc3168d546458279ddae29eb141676f3e24aad6602f1075c503f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "107994731"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119854124"
 ---
 # <a name="max-sm4---asm"></a>Max (SM4-ASM)
 
@@ -36,7 +36,7 @@ ms.locfileid: "107994731"
 
  
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 >= используется вместо >, поэтому если min (x, y) = x, то Max (x, y) = y.
 
@@ -53,7 +53,7 @@ NaN имеет особую обработку. Если один исходны
 | **-INF**           | -inf     | src1         | +inf     | -inf    |
 | **Ж**              | src0     | src0 или src1 | +inf     | src0    |
 | **+ INF**           | +inf     | +inf         | +inf     | +inf    |
-| **Не число**            | -inf     | src1         | +inf     | не число     |
+| **Не число**            | -inf     | src1         | +inf     | Не число     |
 
 
 
@@ -79,9 +79,9 @@ NaN имеет особую обработку. Если один исходны
 
 | Модель шейдера                                              | Поддерживается |
 |-----------------------------------------------------------|-----------|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | да       |
-| [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | да       |
-| [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | да       |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | Да       |
+| [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | Да       |
+| [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | Да       |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет        |
 | [Модель шейдера 2 (DirectX HLSL)](dx-graphics-hlsl-sm2.md) | Нет        |
 | [Модель шейдера 1 (DirectX HLSL)](dx-graphics-hlsl-sm1.md) | Нет        |

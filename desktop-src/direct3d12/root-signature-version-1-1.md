@@ -5,12 +5,12 @@ ms.assetid: 8FE42C1C-7F1D-4E70-A7EE-D5EC67237327
 ms.localizationpriority: high
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 04a7a32576efa4d93a8d26aa57282f06e0d5a02f
-ms.sourcegitcommit: b40a986d5ded926ae7617119cdd35d99b533bad9
+ms.openlocfilehash: 9be1f6cd024fe4f8a1121a1f4e43aae6c9bf2984f099cf2ea33ec45b758e3b03
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "110343669"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120069464"
 ---
 # <a name="root-signature-version-11"></a>Корневая подпись версии 1.1
 
@@ -32,7 +32,7 @@ ms.locfileid: "110343669"
     -   [Вспомогательные структуры](#helper-structures)
 -   [Последствия нарушения флагов static-rvalue характеристики](#consequences-of-violating-static-ness-flags)
 -   [Управление версиями](#version-management)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="overview"></a>Обзор
 

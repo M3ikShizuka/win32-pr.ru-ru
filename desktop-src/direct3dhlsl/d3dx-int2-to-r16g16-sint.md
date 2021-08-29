@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a97d60ba29b2451dea973b4ec0453f3a4df2ecdd
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: c35216656a8dcce76f00ce0050da828c89e861b5e2dedb6fab7eebd2ab2e8a1c
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "104987188"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119983234"
 ---
 # <a name="d3dx_int2_to_r16g16_sint-function"></a>D3DX \_ INT2 \_ to \_ R16G16 \_ Синт
 
@@ -54,7 +54,7 @@ UINT D3DX_INT2_to_R16G16_SINT(
 
 | Требование | Значение |
 |-------------------|--------------------------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3DX \_ дксгиформатконверт. inl</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3DX \_ дксгиформатконверт. inl</dt> </dl> |
 
 
 

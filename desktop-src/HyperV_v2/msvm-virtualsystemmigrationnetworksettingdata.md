@@ -21,12 +21,12 @@ api_type:
 - DllExport
 api_location:
 - vmms.exe
-ms.openlocfilehash: 4f7c24bb754148fa8ede12292f308164512af646
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 176e7c46bcb2cf69149b6ce7524a841cf5e072e5d21f9d6f4247c795c839c0f0
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103896826"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119963554"
 ---
 # <a name="msvm_virtualsystemmigrationnetworksettingdata-class"></a>\_Класс мсвм виртуалсистеммигратионнетворксеттингдата
 
@@ -57,13 +57,13 @@ class Msvm_VirtualSystemMigrationNetworkSettingData : CIM_SettingData
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **мсвм \_ виртуалсистеммигратионнетворксеттингдата** имеет следующие свойства.
 
 <dl> <dt>
 
-**Заголовок**
+**Caption**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -176,8 +176,8 @@ class Msvm_VirtualSystemMigrationNetworkSettingData : CIM_SettingData
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 8\]<br/>                                                              |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2012\]<br/>                                                    |
+| Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                                              |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                                    |
 | Пространство имен<br/>                | Корневая \\ виртуализация \\ версии 2<br/>                                                                     |
 | MOF<br/>                      | <dl> <dt>Виндовсвиртуализатион. v2. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Vmms.exe</dt> </dl>                     |

@@ -1,6 +1,6 @@
 ---
 title: Метод Modify класса MicrosoftDNS_WINSType
-description: Метод Modify обновляет запись ресурса службы Windows Internet Name Service (WINS).
+description: метод Modify обновляет запись ресурса службы Windows Internet Name Service (WINS).
 ms.assetid: b61c429a-6b01-4b17-9312-bc5b69d1e76a
 keywords:
 - Изменение метода DNS
@@ -16,16 +16,16 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1469d1a9d50c72cdf3699bdc2ab9b96f51dfce86
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: cf14bd6801900ea9b697ac7db0efea5970c7d5b06317aef4acdd073fc78b1b13
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103892218"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119984634"
 ---
 # <a name="modify-method-of-the-microsoftdns_winstype-class"></a>Метод Modify \_ класса микрософтднс винстипе
 
-Метод **Modify** обновляет запись ресурса службы Windows Internet Name Service (WINS).
+метод **Modify** обновляет запись ресурса службы Windows Internet Name Service (WINS).
 
 ## <a name="syntax"></a>Синтаксис
 
@@ -104,11 +104,11 @@ void Modify(
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Любой параметр, не указанный, остается неизменным в измененной записи.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -121,7 +121,7 @@ void Modify(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

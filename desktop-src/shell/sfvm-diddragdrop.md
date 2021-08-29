@@ -4,12 +4,12 @@ ms.assetid: 5d37cf61-d8a7-4afa-9159-fea13d2b1d59
 title: Сообщение SFVM_DIDDRAGDROP (Шлобж. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 025bcf6320b014ff31b0819f394dd8b76fa90e59
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 34a7c129a5c80979ca9cf52fbbd73f05ce14cd5c074485c83110314435cbecf3
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104997826"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120009064"
 ---
 # <a name="sfvm_diddragdrop-message"></a>\_Сообщение сфвм диддрагдроп
 
@@ -51,11 +51,11 @@ SFVM_DIDDRAGDROP
 
 | Требование | Значение |
 |-------------------------------------|-------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                         |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                         |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                |
 | Окончание поддержки клиента<br/>    | Windows XP с пакетом обновления 2 (SP2)<br/>                                                      |
 | Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                      |
-| Header<br/>                   | <dl> <dt>Шлобж. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Шлобж. h</dt> </dl> |
 
 
 

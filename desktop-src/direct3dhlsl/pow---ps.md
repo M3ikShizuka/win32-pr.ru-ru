@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 84be39ca8f2633482165d76eabfe0f5d0bb22161
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.openlocfilehash: eb108df22e1b0987a73253afcc2ce79b2af1aeff0a7d39a0aa3f57155d233b9a
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "104986296"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119457224"
 ---
 # <a name="pow---ps"></a>Pow-PS
 
@@ -31,13 +31,13 @@ ms.locfileid: "104986296"
 
  
 
-где
+where
 
 -   DST — это регистр назначения.
 -   src0 является регистром входного источника. Для исходного регистра требуется явное использование репликации свиззле, то есть только один из компонентов. x,. y,. z,. w свиззле (или. r,. g,. b,. a эквивалент) должен быть указан.
 -   src1 является регистром входного источника. Для исходного регистра требуется явное использование репликации свиззле, то есть только один из компонентов. x,. y,. z,. w свиззле (или. r,. g,. b,. a эквивалент) должен быть указан.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 
 
@@ -63,7 +63,7 @@ dest. x = dest. y = dest. z = dest. w = \[ ABS (src0) \] <sup>src1</sup>;
 
 Регистр летнего времени должен быть временным регистром и не должен совпадать с src1.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

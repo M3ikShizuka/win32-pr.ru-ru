@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b56ae169232f83e6753505f9d5d07fffac09e67e
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 16688687b494fac98074ce933ba01dc194093da0ed2013b51f0bee0f41f31b3f
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105721042"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119825224"
 ---
 # <a name="quaternion-structure"></a>Структура кватерниона
 
@@ -83,7 +83,7 @@ ms.locfileid: "105721042"
 
 ## <a name="fields"></a>Поля
 
-| name | Описание |
+| Имя | Описание |
 |-|-|
 | `float x` | Значение X компонента вектора кватерниона. |
 | `float y` | Значение Y компонента вектора кватерниона. |
@@ -94,8 +94,8 @@ ms.locfileid: "105721042"
 
 | Требование | Значение |
 |-|-|
-| Пространство имен | Windows:: Foundation:: numeric |
-| Header | <dl> <dt>Виндовснумерикс. h</dt> </dl> |
+| Пространство имен | Windows:: Foundation:: numerics |
+| Заголовок | <dl> <dt>Виндовснумерикс. h</dt> </dl> |
 
 ## <a name="see-also"></a>См. также раздел
 

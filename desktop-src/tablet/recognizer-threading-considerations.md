@@ -4,12 +4,12 @@ ms.assetid: 2cd19819-08d0-418d-830b-2288a66ca0d0
 title: Рекомендации по потокам распознавателя
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4297cc28e084bbb7c1c09593deb5babc2319ab43
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 93f28f387a0073eab7b85250d02d3983f83c3e9633c955d0f5503c06766745ee
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105702681"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119843344"
 ---
 # <a name="recognizer-threading-considerations"></a>Рекомендации по потокам распознавателя
 

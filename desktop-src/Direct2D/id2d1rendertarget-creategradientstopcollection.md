@@ -12,12 +12,12 @@ api_type:
 - DllExport
 ms.date: 07/02/2019
 ms.topic: reference
-ms.openlocfilehash: f099c1c71015ca433299843d388085103571d31d
-ms.sourcegitcommit: f848119a8faa29b27585f4df53f6e50ee9666684
+ms.openlocfilehash: 68404cd27ee8c2e84d5671b8a692000eee91d09836575581c9942a49839fb7c0
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "110549419"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119983994"
 ---
 # <a name="id2d1rendertargetcreategradientstopcollection-methods"></a>Методы ID2D1RenderTarget:: Креатеградиентстопколлектион
 
@@ -87,7 +87,7 @@ if (SUCCEEDED(hr))
 
 
 
-| Требование | Применение |
+| Требование | Значение |
 |--------------------|-------------------------------------------------------------------------------------------------------|
 | Заголовок<br/>  | <dl> <dt>D2d1 \_ 1. h (включение D2d1. h)</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D2d1. lib</dt> </dl>                   |
@@ -95,7 +95,7 @@ if (SUCCEEDED(hr))
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

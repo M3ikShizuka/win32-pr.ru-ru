@@ -4,12 +4,12 @@ description: В этом разделе обсуждается, как обой�
 ms.assetid: c832c199-59b8-4079-a159-45490a2f6a94
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9bacacf7704cffe12df44b9b0be667632307adb4
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: eb5021a197e4121603be374cd985a085a28faab8941316739a8985c0793004c2
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104996799"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119988304"
 ---
 # <a name="preventing-unwanted-null-pixel-shader-srvs"></a>Предотвращение нежелательных СРВС шейдера пикселей
 
@@ -19,16 +19,16 @@ ms.locfileid: "104996799"
 
 В разделе [справочника 10Level9](d3d11-graphics-reference-10level9.md) перечислены различия между различными методами [**ID3D11Device**](/windows/desktop/api/D3D11/nn-d3d11-id3d11device) и [**ссылку ID3D11DeviceContext**](/windows/desktop/api/D3D11/nn-d3d11-id3d11devicecontext) на различных уровнях функций 10Level9.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Direct3D 11 на оборудовании нижнего уровня](overviews-direct3d-11-devices-downlevel.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

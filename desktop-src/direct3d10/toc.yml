@@ -47,7 +47,7 @@
               href: d3d10-graphics-programming-guide-resources-data-conversion.md
             - name: 'Форматы прежних версий: сопоставьте форматы Direct3D 9 с Direct3D 10'
               href: d3d10-graphics-programming-guide-resources-legacy-formats.md
-        - name: Произведенный эффект
+        - name: Эффекты
           href: d3d10-graphics-programming-guide-effects.md
           items:
             - name: Упорядочение состояния в результате

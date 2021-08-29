@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3DX10Async.h
-ms.openlocfilehash: 571f8123a9834c95ecca6043c3495fb18fbaca47
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: 38b88e7545a1b47a10e043750c73ffdd1fa3b3680de027cafb896bb0d7094eb3
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "105713921"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119852404"
 ---
 # <a name="d3dx10compilefromfile-function"></a>Функция D3DX10CompileFromFile
 
@@ -167,11 +167,11 @@ HRESULT D3DX10CompileFromFile(
 
 | Требование | Значение |
 |-------------------|------------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3DX10Async. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3DX10Async. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

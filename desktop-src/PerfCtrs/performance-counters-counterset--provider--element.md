@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 642d5338f8ca60286ec2760e4fd19d3618670985
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: b67bb5a90d5b4c8fb4f190eec688064b82caed464aa7460ac170161e4a7c954a
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104345502"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119380874"
 ---
 # <a name="counterset-provider-element"></a>Элемент CounterSet (Provider)
 
@@ -28,14 +28,14 @@ ms.locfileid: "104345502"
 
 Элемент **CounterSet** определяется сложным типом [**поставщика**](performance-counters-provider-complex-type.md) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>       |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>       |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/> |
 
 
 

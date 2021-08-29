@@ -3,19 +3,19 @@ title: БУТТОНЕЛЕМЕНТ, элемент
 description: БУТТОНЕЛЕМЕНТ, элемент
 ms.assetid: 2c1bac51-8aea-4c73-b9b4-4ddbf1e4231b
 keywords:
-- Обложки проигрывателя Windows Media, элемент БУТТОНЕЛЕМЕНТ
+- обложки проигрыватель Windows Media, элемент буттонелемент
 - обложки, элемент БУТТОНЕЛЕМЕНТ
 - БУТТОНЕЛЕМЕНТ, элемент
 - Справочник по обложкам, элементу БУТТОНЕЛЕМЕНТ
 - элементы, БУТТОНЕЛЕМЕНТ
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0d4cc69154821981874f0072f6282f708cc4826d
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: c1aeef505a3bf0b07a2c25d21fa2a135e045934c589401829cf6aaccc8410a12
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103777462"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119135947"
 ---
 # <a name="buttonelement-element"></a>БУТТОНЕЛЕМЕНТ, элемент
 
@@ -37,7 +37,7 @@ ms.locfileid: "103777462"
 
 
 
- 
+ 
 
 Элемент **буттонелемент** поддерживает следующий метод.
 
@@ -49,7 +49,7 @@ ms.locfileid: "103777462"
 
 
 
- 
+ 
 
 Элемент **буттонелемент** может реализовывать обработчики событий окружения. Дополнительные сведения см. в разделе [обработчики внешних событий](ambient-event-handlers.md).
 
@@ -71,18 +71,18 @@ ms.locfileid: "103777462"
 
 
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [**Справочник по программированию для обложки**](skin-programming-reference.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: 4A129FEB-E650-47C9-ABC0-9A512EE4121D
 title: Атрибут MF_DEVICESTREAM_REQUIRED_CAPABILITIES (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cac47d60c38e41d44ecf0776ea8bf7588559dfe1
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 9cb7947f97b76d558fffac23742cf3728028d47eb60133e8a805862165454e0f
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104154635"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119956624"
 ---
 # <a name="mf_devicestream_required_capabilities-attribute"></a>\_ \_ Атрибут требуемых \_ возможностей MF девицестреам
 
@@ -17,21 +17,21 @@ ms.locfileid: "104154635"
 
 ## <a name="data-type"></a>Тип данных
 
-**WCHAR \** _
+**WCHAR\***
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-Этот атрибут является необязательным и необходим только в том случае, если преобразование датчика обращается к защищенному ресурсу. Значение должно представлять собой разделенный точками с запятой список строковых токенов, определенных в [_ *девицекапабилити* *](/uwp/schemas/appxpackage/appxmanifestschema/element-devicecapability).
+Этот атрибут является необязательным и необходим только в том случае, если преобразование датчика обращается к защищенному ресурсу. Значение должно представлять собой разделенный точками с запятой список строковых токенов, определенных в [**девицекапабилити**](/uwp/schemas/appxpackage/appxmanifestschema/element-devicecapability).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только для настольных приложений Windows 10 версии 1703\]<br/>                          |
+| Минимальная версия клиента<br/> | Windows 10, только для \[ настольных приложений версии 1703\]<br/>                          |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 

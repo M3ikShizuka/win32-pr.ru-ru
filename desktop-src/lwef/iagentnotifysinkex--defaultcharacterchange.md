@@ -4,16 +4,16 @@ description: Иажентнотифисинкекс Дефаултчаракте
 ms.assetid: 13acb502-e247-433f-abf3-2d78a2d6a4a7
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e4ec212887d17d1aa59d942ece79b3e6928900ea
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: b2aea2a310e55228f6e9f15ec14f9ed9ac6e20374f8c8ecb12e016d60f1809b0
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "105700611"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119961474"
 ---
 # <a name="iagentnotifysinkexdefaultcharacterchange"></a>Иажентнотифисинкекс::D Ефаултчарактерчанже
 
-\[Microsoft Agent является устаревшим в Windows 7 и может быть недоступен в последующих версиях Windows.\]
+\[Microsoft Agent является устаревшим по отношению к Windows 7 и может быть недоступен в последующих версиях Windows.\]
 
 ``` syntax
 HRESULT DefaultCharacterChange(
@@ -43,9 +43,9 @@ HRESULT DefaultCharacterChange(
 [**Иажент:: Load**](iagent--load.md)
 
 
- 
+ 
 
- 
+ 
 
 
 

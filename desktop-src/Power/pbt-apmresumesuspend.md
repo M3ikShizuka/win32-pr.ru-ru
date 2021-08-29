@@ -4,12 +4,12 @@ ms.assetid: 9058a2ff-9b8e-48e5-accb-4810c8598294
 title: Событие PBT_APMRESUMESUSPEND (WinUser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1d26357215853e0989851b6a9e731340a8dc2e6d
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: c065d7997a152555cbd77153752cbaec77786aea5b95486ccf73985cc854ae0b
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105663111"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119961712"
 ---
 # <a name="pbt_apmresumesuspend-event"></a>\_Событие ПБТ апмресумесуспенд
 
@@ -71,7 +71,7 @@ WindowProc( HWND hwnd,      // handle to window
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Приложение может получать это событие только в том случае, если оно получило событие [ПБТ \_ апмсуспенд](pbt-apmsuspend.md) до того, как компьютер был приостановлен. В противном случае приложение получит событие [ПБТ \_ апмресумекритикал](pbt-apmresumecritical.md) .
 
@@ -85,9 +85,9 @@ WindowProc( HWND hwnd,      // handle to window
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                                              |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>WinUser. h (включение Windows. h)</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                                              |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
+| Заголовок<br/>                   | <dl> <dt>WinUser. h (включает Windows. h)</dt> </dl> |
 
 
 

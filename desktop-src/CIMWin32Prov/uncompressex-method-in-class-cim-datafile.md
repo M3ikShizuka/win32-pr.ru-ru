@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 0d11585a834ecc357447394ce09b73698bf2de86
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: df3ded05474904ef76c9ee6911e87e168bcdbc9874224cf402b0bcd5adf5681f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104142541"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119986484"
 ---
 # <a name="uncompressex-method-of-the-cim_datafile-class"></a>Метод Ункомпрессекс \_ класса CIM File
 
@@ -169,13 +169,13 @@ uint32 UncompressEx(
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Метод **ункомпрессекс** в [**\_ файле CIM**](cim-datafile.md) реализуется инструментарием WMI.
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -189,7 +189,7 @@ uint32 UncompressEx(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

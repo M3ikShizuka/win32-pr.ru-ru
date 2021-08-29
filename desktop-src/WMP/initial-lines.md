@@ -3,23 +3,23 @@ title: Начальные строки
 description: Начальные строки
 ms.assetid: 25a4af3d-9e2d-4a10-a676-f78ae65d827c
 keywords:
-- Обложки Windows Media Player для мобильных устройств, написание кода
+- проигрыватель Windows Media Обложки для мобильных устройств, написание кода
 - обложки, написание кода
 - Создание обложек, написание кода
 - Написание кода для обложек, номер версии файла обложки
 - файлы определения обложки, первоначальные строки
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d48c45479a6ea41f646f3e75ed209811d6f56e52
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 729e487eff7b0b8910b07afa8e64e23d4f5f1f94c71578fde6fb8abcef436027
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "105691267"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119572644"
 ---
 # <a name="initial-lines"></a>Начальные строки
 
-Каждый файл определения обложки для проигрывателя Windows Media Mobile должен начинаться с строки, указывающей номер версии файла обложки. Следующая строка работает для Windows Media Player 9 серии для Windows Mobile 2003 или более поздней версии:
+каждый файл определения обложки для проигрыватель Windows Media Mobile должен начинаться с строки, указывающей номер версии файла обложки. следующая строка работает для серии проигрыватель Windows Media 9 для Windows Mobile 2003 или более поздней версии:
 
 
 ```C++
@@ -29,16 +29,16 @@ ms.locfileid: "105691267"
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [**Написание кода**](writing-the-code.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

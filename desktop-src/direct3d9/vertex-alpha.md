@@ -4,12 +4,12 @@ ms.assetid: 2b0d842d-ee7d-4633-846d-96697153adc7
 title: Вершинная альфа-версия (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e5f661c013e324a0bf209b4faca41d1974a41e81
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: c2443b14d62698e342b7cbb9c4b79d30d3e11e32be76a3f584823ddf74b16685
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "104139651"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119984544"
 ---
 # <a name="vertex-alpha-direct3d-9"></a>Вершинная альфа-версия (Direct3D 9)
 
@@ -92,7 +92,7 @@ m_pd3dDevice->DrawIndexedPrimitive( D3DPT_TRIANGLELIST, D3DFVF_LVERTEX,
 
 приводит к прозрачной сфере с использованием вершин альфа.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

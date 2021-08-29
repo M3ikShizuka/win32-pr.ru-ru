@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a6e0a926d5a6d894a9657b0ec8bc9f93638f090a
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 87cc838073588bea54f2eb0838032753f4a007d39557e1c657b2abc0e812eaf4
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104534541"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119133847"
 ---
 # <a name="landmark-type-identifiers"></a>Ориентиры для типов идентификаторов
 
@@ -100,9 +100,9 @@ ms.locfileid: "104534541"
 
 | Требование | Значение |
 |-------------------------------------|-------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ настольных приложений Windows 10\]<br/>                                                     |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2016\]<br/>                                            |
-| Header<br/>                   | <dl> <dt>UIAutomationClient. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 10 \[ только классические приложения\]<br/>                                                     |
+| Минимальная версия сервера<br/> | Windows Server 2016 \[ только классические приложения\]<br/>                                            |
+| Заголовок<br/>                   | <dl> <dt>UIAutomationClient. h</dt> </dl> |
 
 
 

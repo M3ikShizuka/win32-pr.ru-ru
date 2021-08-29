@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3d9types.h
-ms.openlocfilehash: 072d7886a024b1c28e8c3b7f0609dc8dd3e6add8
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 27f94dd5aca19d24742d553a65ce3c7f9164edf48cb1aab335d87d338f7e7499
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104072575"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119958774"
 ---
 # <a name="d3dauthenticatedchannel_configureinitialize-structure"></a>\_Структура КОНФИГУРЕИНИТИАЛИЗЕ D3DAUTHENTICATEDCHANNEL
 
@@ -64,23 +64,23 @@ typedef struct _D3DAUTHENTICATEDCHANNEL_CONFIGUREINITIALIZE {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Каждый из членов **стартсекуенцекуери** и **стартсекуенцеконфигуре** содержит криптографически защищенное 32-разрядное случайное число.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 7\]<br/>                                             |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2008 R2 \[\]<br/>                                |
-| Header<br/>                   | <dl> <dt>D3d9types. h</dt> </dl> |
+| Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                             |
+| Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/>                                |
+| Заголовок<br/>                   | <dl> <dt>D3d9types. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

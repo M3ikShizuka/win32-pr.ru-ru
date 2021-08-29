@@ -3,7 +3,7 @@ title: Атрибут Партофсет
 description: Атрибут Партофсет — это номер части и общее количество частей набора, к которому принадлежит элемент.
 ms.assetid: a77937df-e63e-4d2d-99ee-dd113dc2312b
 keywords:
-- Партофсет атрибут Windows Media Player
+- проигрыватель Windows Media атрибута партофсет
 topic_type:
 - apiref
 api_name:
@@ -12,22 +12,22 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: eba3f2f376106bd1d40c6d929f491e9c241bb43d
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 7d08b1b3977181969930362d4f19004e7ae04737b4e056ba1d48b6b06926c7f6
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105699122"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119134897"
 ---
 # <a name="partofset-attribute"></a>Атрибут Партофсет
 
 Атрибут **партофсет** — это номер части и общее количество частей набора, к которому принадлежит элемент.
 
-## <a name="applies-to"></a>Применение
+## <a name="applies-to"></a>Применяется к
 
 -   [Звуковые элементы](audio-item-attributes.md)
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот атрибут хранится в библиотеке.
 
@@ -39,7 +39,7 @@ ms.locfileid: "105699122"
 
 | Требование | Значение |
 |--------------------|------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media 11<br/> |
+| Версия<br/> | проигрыватель Windows Media 11<br/> |
 
 
 

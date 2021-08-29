@@ -6,12 +6,12 @@ keywords:
 - рабочие элементы планировщик задач, управление
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 33680d04da9d34f54085d182ed61edda9e8b232f
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 7aca2a904391926ae46749d72421fe20fe21932f758dc6e935883c4a2f750c5d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "103792559"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119517664"
 ---
 # <a name="manipulating-work-items"></a>Работа с рабочими элементами
 
@@ -20,7 +20,7 @@ ms.locfileid: "103792559"
 > [!Note]  
 > Сведения о свойствах определенного типа рабочего элемента см. в интерфейсе для этого типа объекта. Например, нельзя задать уровень приоритета рабочего элемента. Однако для получения и задания приоритета задачи можно использовать методы интерфейса [**ITask**](/windows/desktop/api/Mstask/nn-mstask-itask) .
 
- 
+ 
 
 При каждом изменении рабочего элемента необходимо вызвать объект [**IPersistFile:: Save**](/windows/win32/api/objidl/nf-objidl-ipersistfile-save) , чтобы сохранить измененный рабочий элемент на диск. Интерфейс [**IPersistFile**](/windows/win32/api/objidl/nn-objidl-ipersistfile) является СТАНДАРТНЫМ COM-интерфейсом, поддерживаемым интерфейсом [**ITask**](/windows/desktop/api/Mstask/nn-mstask-itask) .
 
@@ -36,8 +36,8 @@ ms.locfileid: "103792559"
 
 
 
- 
+ 
 
- 
+ 
 
- 
+ 

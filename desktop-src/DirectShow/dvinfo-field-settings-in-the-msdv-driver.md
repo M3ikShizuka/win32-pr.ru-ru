@@ -1,17 +1,17 @@
 ---
-description: Параметры полей ДВИНФО в драйвере МСДВ
+description: Параметры поля двинфо в драйвере мсдв
 ms.assetid: f0723da5-4f53-4f83-a657-ae42815a784e
-title: Параметры полей ДВИНФО в драйвере МСДВ
+title: Параметры поля двинфо в драйвере мсдв
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4205a680833b0e2f8c6be2dc4cb65faa60515867
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: e6823b13a055088df6e3e5ffa82c899a490a9b0d6b9b407b3b5244ca947c209b
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "103806149"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119966284"
 ---
-# <a name="dvinfo-field-settings-in-the-msdv-driver"></a>Параметры полей ДВИНФО в драйвере МСДВ
+# <a name="dvinfo-field-settings-in-the-msdv-driver"></a>Параметры поля двинфо в драйвере мсдв
 
 В этом разделе описывается, как драйвер МСДВ заполняет структуру [**двинфо**](/windows/desktop/api/strmif/ns-strmif-dvinfo) .
 
@@ -52,11 +52,11 @@ ms.locfileid: "103806149"
 В примечаниях после каждой таблицы придаются дополнительные сведения о выбранных полях. Полные описания см. в спецификациях. Кроме того, некоторые поля не имеют одинакового значения в SMPTE 314M/SMPTE 370, как это делается в IEC 61834.
 
 > [!Note]  
-> В настоящее время DirectShow не поддерживает форматы DVCPRO. Значения, перечисленные для форматов DVCPRO, определяются для будущего использования.
+> в настоящее время DirectShow не поддерживает форматы DVCPRO. Значения, перечисленные для форматов DVCPRO, определяются для будущего использования.
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

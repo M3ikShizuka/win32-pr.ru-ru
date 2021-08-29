@@ -1,19 +1,19 @@
 ---
 description: Объект пула носителей моделирует пул носителей в подсистеме хранения.
 ms.assetid: a6104742-3ef9-4570-9728-3e6580953117
-title: Объект пула носителей
+title: служба хранилища Объект Pool
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8c44719b825193faa75546ba1a0f7b42155a3e49
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 6ee6ddd225c3c6e92f29bc4b4f338d9c3ef7ffc0cf0cc5e748d4bc71da319d19
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105674327"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119986734"
 ---
-# <a name="storage-pool-object"></a>Объект пула носителей
+# <a name="storage-pool-object"></a>служба хранилища Объект Pool
 
-\[Начиная с Windows 8 и Windows Server 2012, интерфейс COM [службы виртуальных дисков](virtual-disk-service-portal.md) заменяется [API управления хранилищами Windows](/previous-versions/windows/desktop/stormgmt/windows-storage-management-api-portal).\]
+\[начиная с Windows 8 и Windows Server 2012, интерфейс COM [службы виртуальных дисков](virtual-disk-service-portal.md) заменяется [API Windows служба хранилища управления](/previous-versions/windows/desktop/stormgmt/windows-storage-management-api-portal).\]
 
 Объект пула носителей моделирует пул носителей в подсистеме хранения.
 

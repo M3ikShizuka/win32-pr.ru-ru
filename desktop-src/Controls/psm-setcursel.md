@@ -3,7 +3,7 @@ title: Сообщение PSM_SETCURSEL (Пршт. h)
 description: Активирует указанную страницу на странице свойств. Это сообщение можно отправить явным образом или с помощью \_ макроса пропшит сеткурсел.
 ms.assetid: 800aadde-cabc-424e-8e63-60fc7ce952d7
 keywords:
-- Элементы управления Windows для PSM_SETCURSEL сообщений
+- элементы управления Windows сообщений PSM_SETCURSEL
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 12f41f0ba2ec8d13a7bfc932b553b355399f76b4
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 59b90c5163717712cbb085e0dcdaf1e08fdf64a6b88e59a73bd0a77364dca22b
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104135703"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119985644"
 ---
 # <a name="psm_setcursel-message"></a>\_Сообщение ПСМ сеткурсел
 
@@ -47,7 +47,7 @@ ms.locfileid: "104135703"
 
 Возвращает **значение true** , если успешно, или **false** в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Окно, которое теряет активацию, получает код уведомления [PSN \_ киллактиве](psn-killactive.md) , а окно, получающее активацию, получает код уведомления [PSN \_ сетактиве](psn-setactive.md) .
 
@@ -57,9 +57,9 @@ ms.locfileid: "104135703"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                     |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                               |
-| Header<br/>                   | <dl> <dt>Пршт. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                               |
+| Заголовок<br/>                   | <dl> <dt>Пршт. h</dt> </dl> |
 
 
 

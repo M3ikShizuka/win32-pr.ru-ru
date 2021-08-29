@@ -4,12 +4,12 @@ ms.assetid: b0e199b9-8d81-4445-92f7-de9b8a00a9cb
 title: Устранение неполадок в языковых ресурсах и рекомендациях
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f63a0a8acda3fff1627b37f41c2d81a67b37d66a
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: a8704597f88bdf77e301dcf3f2099c27ad85eae656e3acdcbd6e43c134bb7e43
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103808890"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119844494"
 ---
 # <a name="troubleshooting-language-resources-and-best-practices"></a>Устранение неполадок в языковых ресурсах и рекомендациях
 
@@ -23,7 +23,7 @@ ms.locfileid: "103808890"
 -   [Проверка согласованности для разбиения по словам](#testing-word-breaker-consistency)
 -   [Проверка недопустимых входных данных в окне разбиения по словам](#testing-for-invalid-input-in-the-word-breaker)
 
-### <a name="best-practices"></a>Рекомендации
+### <a name="best-practices"></a>Советы и рекомендации
 
 -   Убедитесь, что в реестре для потоковой модели для языковых ресурсов задано значение "оба".
 -   Там, где это возможно, размещайте данные языка в ресурсе в библиотеке DLL, а не в отдельном файле. Это делает библиотеку DLL проще в установке и безопасности. Кроме того, размещение языковых данных в ресурсе приведет к повышению производительности для этого компонента языковых ресурсов.
@@ -68,7 +68,7 @@ ms.locfileid: "103808890"
 -   Фразы, созданные во время создания индекса, содержат одинаковое число слов.
 -   Фразы создаются во время создания индекса посредством последовательных вызовов методов [**ивордформсинк::P утворд**](iwordsink-putword.md) и [**Ивордформсинк::P уталтворд**](iwordsink-putaltword.md) . Средство разбиения по словам использует только объект [**ифрасесинк**](/windows/win32/api/indexsrv/nn-indexsrv-iphrasesink) во время запроса.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

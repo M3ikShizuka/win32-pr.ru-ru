@@ -11,12 +11,12 @@ keywords:
 - асинхронные читатели, открытие файлов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b8e714f51b56a7d9f3b18a774cd3b8c74bf05352
-ms.sourcegitcommit: ad672d3a10192c5ccac619ad2524407109266e93
+ms.openlocfilehash: 2bc9dad56efa9556618a71bdd6c18500c43545085bdadaf4c6465fc3bf2e3aab
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "103789216"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119807644"
 ---
 # <a name="to-create-a-reader-and-open-a-file"></a>Создание средства чтения и открытие файла
 
@@ -28,7 +28,7 @@ ms.locfileid: "103789216"
 
 Модуль чтения также поддерживает использование интерфейса **IStream** com для открытия файлов. Интерфейс **IStream** можно реализовать любым выбранным способом. После открытия требуемого файла в **IStream** можно выполнить приведенные выше действия, за исключением того, что необходимо вызвать [**IWMReaderAdvanced2:: опенстреам**](/previous-versions/windows/desktop/api/Wmsdkidl/nf-wmsdkidl-iwmreaderadvanced2-openstream) вместо **ивмреадер:: Open** на шаге 2.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -47,9 +47,9 @@ ms.locfileid: "103789216"
 [**Использование методов обратного вызова**](using-the-callback-methods.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

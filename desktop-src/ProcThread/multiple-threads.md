@@ -4,12 +4,12 @@ ms.assetid: a78c17dc-d5d9-4baf-8770-597b04fa3fa8
 title: Несколько потоков
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 268c28a8b1db398156e6a1aeba918abf4f7e12e1
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 3e95651a5bcda87a651b6d1bff4e7754a5eea9f99d9e3306bc18bc2dd65be2bb
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105673761"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120032294"
 ---
 # <a name="multiple-threads"></a>Несколько потоков
 
@@ -24,7 +24,7 @@ ms.locfileid: "105673761"
 -   [Синхронизация выполнения нескольких потоков](synchronizing-execution-of-multiple-threads.md)
 -   [Несколько потоков и объектов GDI](multiple-threads-and-gdi-objects.md)
 -   [локальное хранилище потока](thread-local-storage.md)
--   [Создание окон в потоках](creating-windows-in-threads.md)
+-   [создание Windows в потоках](creating-windows-in-threads.md)
 -   [Завершение потока](terminating-a-thread.md)
 -   [Безопасность потоков и права доступа](thread-security-and-access-rights.md)
 

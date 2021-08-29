@@ -33,7 +33,7 @@
           href: composition-surface.md
         - name: Преобразования
           href: transforms.md
-        - name: Произведенный эффект
+        - name: Эффекты
           href: effects.md
         - name: Анимация
           href: animation.md

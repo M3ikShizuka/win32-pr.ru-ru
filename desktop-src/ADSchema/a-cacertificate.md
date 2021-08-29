@@ -14,12 +14,12 @@ api_type:
 - Schema
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 933c736a2cfc707b65815c9785a29cba76a0dbf2
-ms.sourcegitcommit: b77ace27b0432e7cd3863191b11926be032fbe2f
+ms.openlocfilehash: 5ec10c76ce61aa435618181d6a8a1a8e821bf2c3aec86a3cb15e4f805cf1343b
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "105655537"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119307184"
 ---
 # <a name="ca-certificate-attribute"></a>Атрибут CA-Certificate
 
@@ -60,7 +60,7 @@ ms.locfileid: "105655537"
 | System-Only            | Неверно                                                                                                                                                                                   |
 | Является однозначным       | Неверно                                                                                                                                                                                   |
 | Индексируется             | Неверно                                                                                                                                                                                   |
-| В глобальном каталоге      | True                                                                                                                                                                                    |
+| В глобальном каталоге      | Верно                                                                                                                                                                                    |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                                                                                                                                            |
 | Range-Lower            | 1                                                                                                                                                                                       |
 | Range-Upper            | 32768                                                                                                                                                                                   |
@@ -81,7 +81,7 @@ ms.locfileid: "105655537"
 | System-Only            | Неверно                                                                                                                                                                                   |
 | Является однозначным       | Неверно                                                                                                                                                                                   |
 | Индексируется             | Неверно                                                                                                                                                                                   |
-| В глобальном каталоге      | True                                                                                                                                                                                    |
+| В глобальном каталоге      | Верно                                                                                                                                                                                    |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                                                                                                                                            |
 | Range-Lower            | 1                                                                                                                                                                                       |
 | Range-Upper            | 32768                                                                                                                                                                                   |
@@ -102,7 +102,7 @@ ms.locfileid: "105655537"
 | System-Only            | Неверно                                                                                                                                                                                   |
 | Является однозначным       | Неверно                                                                                                                                                                                   |
 | Индексируется             | Неверно                                                                                                                                                                                   |
-| В глобальном каталоге      | True                                                                                                                                                                                    |
+| В глобальном каталоге      | Верно                                                                                                                                                                                    |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                                                                                                                                            |
 | Range-Lower            | 1                                                                                                                                                                                       |
 | Range-Upper            | 32768                                                                                                                                                                                   |
@@ -123,7 +123,7 @@ ms.locfileid: "105655537"
 | System-Only            | Неверно                                                                                                                                                                                   |
 | Является однозначным       | Неверно                                                                                                                                                                                   |
 | Индексируется             | Неверно                                                                                                                                                                                   |
-| В глобальном каталоге      | True                                                                                                                                                                                    |
+| В глобальном каталоге      | Верно                                                                                                                                                                                    |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                                                                                                                                            |
 | Range-Lower            | 1                                                                                                                                                                                       |
 | Range-Upper            | 32768                                                                                                                                                                                   |
@@ -144,7 +144,7 @@ ms.locfileid: "105655537"
 | System-Only            | Неверно                                                                                                                                                                                   |
 | Является однозначным       | Неверно                                                                                                                                                                                   |
 | Индексируется             | Неверно                                                                                                                                                                                   |
-| В глобальном каталоге      | True                                                                                                                                                                                    |
+| В глобальном каталоге      | Верно                                                                                                                                                                                    |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                                                                                                                                            |
 | Range-Lower            | 1                                                                                                                                                                                       |
 | Range-Upper            | 32768                                                                                                                                                                                   |
@@ -165,7 +165,7 @@ ms.locfileid: "105655537"
 | System-Only            | Неверно                                                                                                                                                                                   |
 | Является однозначным       | Неверно                                                                                                                                                                                   |
 | Индексируется             | Неверно                                                                                                                                                                                   |
-| В глобальном каталоге      | True                                                                                                                                                                                    |
+| В глобальном каталоге      | Верно                                                                                                                                                                                    |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                                                                                                                                            |
 | Range-Lower            | 1                                                                                                                                                                                       |
 | Range-Upper            | 32768                                                                                                                                                                                   |

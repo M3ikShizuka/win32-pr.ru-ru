@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 2c5f79ff20507247fbcac3badceaf2c3e28f0303
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 9c3b1fbc45ca4407e1305704cf40fc82259194d46b270ececf8e5f5d3211b99d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105689419"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119965064"
 ---
 # <a name="iamtimelinetransablegetnexttrans2-method"></a>Метод Иамтимелинетрансабле:: GetNextTrans2
 
@@ -64,7 +64,7 @@ HRESULT GetNextTrans2(
 
 Возвращает \_ ОК, если метод получает переход, или \_ значение false, если не удается найти переход. В противном случае возвращает значение **HRESULT** , указывающее причину сбоя.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.
@@ -72,7 +72,7 @@ HRESULT GetNextTrans2(
  
 
 > [!Note]  
-> Чтобы получить Кедит. h, скачайте [обновление Microsoft Windows SDK для Windows Vista и платформа .NET Framework 3,0](https://msdn.microsoft.com/windowsvista/bb980924.aspx). Кедит. h недоступен в Microsoft Windows SDK для Windows 7 и платформа .NET Framework 3,5 с пакетом обновления 1 (SP1).
+> чтобы получить кедит. h, скачайте [обновление Microsoft Windows SDK для Windows Vista и платформа .NET Framework 3,0](https://msdn.microsoft.com/windowsvista/bb980924.aspx). кедит. h недоступен в Microsoft Windows SDK для Windows 7 и платформа .NET Framework 3,5 с пакетом обновления 1 (sp1).
 
  
 
@@ -82,7 +82,7 @@ HRESULT GetNextTrans2(
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Кедит. h</dt> </dl>      |
+| Заголовок<br/>  | <dl> <dt>Кедит. h</dt> </dl>      |
 | Библиотека<br/> | <dl> <dt>Стрмиидс. lib</dt> </dl> |
 
 

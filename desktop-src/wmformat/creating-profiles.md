@@ -3,7 +3,7 @@ title: Создание профилей
 description: Создание профилей
 ms.assetid: af4a8efe-d797-4d19-961d-b917e4c7c81a
 keywords:
-- Windows Media Format SDK, профили
+- Windows Пакет SDK для формата мультимедиа, профили
 - профили, создание
 - профили, интерфейс Ивмпрофилеманажер
 - Ивмпрофилеманажер, создание профилей
@@ -11,12 +11,12 @@ keywords:
 - вмкреатепрофилеманажер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 45eeca9e99e09bd709b7e9fdf1aeffe8d35ca14a
-ms.sourcegitcommit: 48d1c892045445bcbd0f22bafa2fd3861ffaa6e7
+ms.openlocfilehash: 19dda9d5eb486227d78c735b497a265d9ffcdf6888531227b0d27d8375482c6f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/19/2020
-ms.locfileid: "104069539"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119840154"
 ---
 # <a name="creating-profiles"></a>Создание профилей
 
@@ -24,7 +24,7 @@ ms.locfileid: "104069539"
 
 Создание пустого профиля, готового для настройки, требует наличия объекта диспетчера профилей. Чтобы получить интерфейс [**ивмпрофилеманажер**](/previous-versions/windows/desktop/api/wmsdkidl/nn-wmsdkidl-iwmprofilemanager) объекта диспетчера профилей, вызовите функцию [**вмкреатепрофилеманажер**](/previous-versions/windows/desktop/api/Wmsdkidl/nf-wmsdkidl-wmcreateprofilemanager) .
 
-Чтобы создать пустой профиль, вызовите метод [**ивмпрофилеманажер:: креатимптипрофиле**](/previous-versions/windows/desktop/api/Wmsdkidl/nf-wmsdkidl-iwmprofilemanager-createemptyprofile). При создании пустого профиля единственным заданным параметром является версия пакета SDK Windows Media Format, который соответствует профилю. Если нет особой необходимости использовать предыдущую версию, следует всегда использовать последнюю версию. Версия определяет структуру профиля; предыдущие версии не поддерживали некоторые свойства.
+Чтобы создать пустой профиль, вызовите метод [**ивмпрофилеманажер:: креатимптипрофиле**](/previous-versions/windows/desktop/api/Wmsdkidl/nf-wmsdkidl-iwmprofilemanager-createemptyprofile). при создании пустого профиля задается только версия пакета SDK Windows Media Format, который соответствует профилю. Если нет особой необходимости использовать предыдущую версию, следует всегда использовать последнюю версию. Версия определяет структуру профиля; предыдущие версии не поддерживали некоторые свойства.
 
 В следующем примере кода показано, как создать новый профиль. Чтобы скомпилировать этот код в приложении, включите stdio. h. Дополнительные сведения об использовании этого кода см. [в разделе Использование примеров кода](using-the-code-examples.md).
 
@@ -48,7 +48,7 @@ HRESULT CreateProfile(IWMProfileManager* pProfileMgr, IWMProfile** ppProfile)
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -61,9 +61,9 @@ HRESULT CreateProfile(IWMProfileManager* pProfileMgr, IWMProfile** ppProfile)
 [**Работа с профилями**](working-with-profiles.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

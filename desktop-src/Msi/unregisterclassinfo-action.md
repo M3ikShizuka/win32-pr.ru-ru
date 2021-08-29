@@ -4,12 +4,12 @@ ms.assetid: 579a69ee-92cd-4d4c-a007-998ec042f9fc
 title: Действие Унрегистерклассинфо
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 57ee701925e07e4f74439efb45da00d430d90304
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: f0c2116d67231e915adc1c4ad792dfd577c7fa50d4982c526f0c3f1b14b8abe9
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105651189"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119810254"
 ---
 # <a name="unregisterclassinfo-action"></a>Действие Унрегистерклассинфо
 
@@ -46,7 +46,7 @@ ms.locfileid: "105651189"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Установщик устанавливает свойство [**олеадвтсуппорт**](oleadvtsupport.md) в значение true, если система текущего пользователя была обновлена для работы с Install-On-Demand by com. Если система не поддерживает установку по запросу через COM, Унрегистерклассинфо удаляет все COM-классы, перечисленные в [таблице классов](class-table.md) , связанной с удаленными компонентами или компонентами, установленными из системного реестра. В противном случае это действие удаляет только классы COM, связанные с компонентами, выбранными для удаления из системного реестра.
 

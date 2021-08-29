@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3D9Types.h
-ms.openlocfilehash: d35e2d4b65cd41a49d8ed8edb3252295ca3baef3
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: c8d3108c59ddf810a815cbfa5f05a6fe66704325ffcee3f5dc2436b83c2c605d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "104354513"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119987414"
 ---
 # <a name="d3dtextureop-enumeration"></a>Перечисление D3DTEXTUREOP
 
@@ -302,7 +302,7 @@ S<sub>RGBA</sub> = (arg1) \* arg2 + (1-arg1) \* arg3.
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Элементы этого типа используются при задании цветов или альфа-операций с помощью \_ значений D3DTSS колороп или D3DTSS \_ алфаоп с помощью метода [**IDirect3DDevice9:: сеттекстурестажестате**](/windows/win32/api/d3d9helper/nf-d3d9helper-idirect3ddevice9-settexturestagestate) .
 
@@ -314,7 +314,7 @@ S<sub>RGBA</sub> = (arg1) \* arg2 + (1-arg1) \* arg3.
 
 | Требование | Значение |
 |-------------------|----------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3D9Types. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3D9Types. h</dt> </dl> |
 
 
 

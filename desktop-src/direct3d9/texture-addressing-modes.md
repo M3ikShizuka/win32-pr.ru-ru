@@ -4,12 +4,12 @@ ms.assetid: 2e23bcb3-9eba-49d9-93ce-0a4fbb15f746
 title: Режимы адресации текстур (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 43ebad5fdb141c41c43c651a2188640d7a6b764e
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 4bb1ccc45d6f3663f3e9f7e0bb1a721f594f7834db7de4541aa1dfece2954a02
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "105701161"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119984784"
 ---
 # <a name="texture-addressing-modes-direct3d-9"></a>Режимы адресации текстур (Direct3D 9)
 
@@ -38,7 +38,7 @@ Direct3D позволяет приложениям выполнять обтек
 -   [Режим адреса текстуры среза (Direct3D 9)](clamp-texture-address-mode.md)
 -   [Режим адресации цветовой текстуры границы (Direct3D 9)](border-color-texture-address-mode.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
