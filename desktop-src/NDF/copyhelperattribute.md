@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 59fac3449ee48659980681c836d24406c4db7e2b
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 57226d3497639107db9378926734a8a6d4507c3436aa65a89109d88d15f91d32
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105672601"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119685864"
 ---
 # <a name="copyhelperattribute-function"></a>Функция Копихелператтрибуте
 
@@ -44,16 +44,16 @@ HRESULT CopyHelperAttribute(
 *Конечный адрес* \[ заполняет\]
 </dt> <dd>
 
-Тип: **[**вспомогательный \_ атрибут**](/windows/win32/api/ndattrib/ns-ndattrib-helper_attribute) \** _
+Тип: **[ **вспомогательный \_ атрибут**](/windows/win32/api/ndattrib/ns-ndattrib-helper_attribute)\***
 
 Обновляемая структура.
 
 </dd> <dt>
 
-_Source * \[ в\]
+*Исходный код* \[ окне\]
 </dt> <dd>
 
-Тип: **\* const [**\_ атрибут вспомогательной**](/windows/win32/api/ndattrib/ns-ndattrib-helper_attribute)* функции _
+Тип: **\* [**\_ атрибут вспомогательной**](/windows/win32/api/ndattrib/ns-ndattrib-helper_attribute) функции const**
 
 Существующая копируемая структура.
 
@@ -61,7 +61,7 @@ _Source * \[ в\]
 
 ## <a name="return-value"></a>Возвращаемое значение
 
-Тип: _ *HRESULT**
+Тип: **HRESULT**
 
 Возможные возвращаемые значения включают, но не ограничиваются следующим.
 
@@ -77,19 +77,19 @@ _Source * \[ в\]
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|--------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 8\]<br/>                                                 |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2012\]<br/>                                       |
-| Header<br/>                   | <dl> <dt>Ндаттрибутилс. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                                 |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                       |
+| Заголовок<br/>                   | <dl> <dt>Ндаттрибутилс. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

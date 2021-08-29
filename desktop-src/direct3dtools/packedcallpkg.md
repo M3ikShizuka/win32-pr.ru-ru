@@ -17,12 +17,12 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 39be8828cf3ea0fbf773965db7272d566d43546b
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.openlocfilehash: 0d89dceda1f0b2cd26b0eb6f359acea77a8cf763d9fdf37b7e367053584c02ca
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122626530"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119980744"
 ---
 # <a name="span-idvspixenginepackedcallpkgspanpackedcallpkg-structure"></a><span id="vspixengine.packedcallpkg"></span>Структура Паккедкаллпкг
 
@@ -40,7 +40,7 @@ typedef struct PackedCallPkg {
 } PackedCallPkg;
 ```
 
-## <a name="members"></a>Участники
+## <a name="members"></a>Члены
 
 **pcp1**  
 Первый вызов в пакете.
@@ -54,9 +54,9 @@ typedef struct PackedCallPkg {
 **pcp4**  
 Четвертый вызов в пакете.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
-<table><colgroup><col  /><col  /></colgroup><tbody><tr class="odd"><td><p>Заголовок</p></td><td>Вспиксенгине. h</td></tr></tbody></table>
+<table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td><p>Заголовок</p></td><td>Вспиксенгине. h</td></tr></tbody></table>
 
  
 

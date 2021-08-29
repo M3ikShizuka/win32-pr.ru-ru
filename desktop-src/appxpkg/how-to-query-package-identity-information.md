@@ -1,19 +1,19 @@
 ---
 title: Сведения о манифесте пакета приложения запроса (C++)
-description: Узнайте, как получить сведения из манифеста пакета приложения для приложения Windows с помощью API упаковки.
+description: узнайте, как получить сведения из манифеста пакета приложения для Windows приложения с помощью API упаковки.
 ms.assetid: A29986F9-C620-48CD-87F8-525DFA076AAB
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9940f92a4412be7731db2454d68b4429522b63f6
-ms.sourcegitcommit: 803f3ccd65bdefe36bd851b9c6e7280be9489016
+ms.openlocfilehash: 5407d19577fe917046e9664e9a946b3d9f4acc8c8a15cab1edfab2a934f0d93e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "104069826"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119994184"
 ---
 # <a name="query-app-package-manifest-info-c"></a>Сведения о манифесте пакета приложения запроса (C++)
 
-Узнайте, как получить сведения из манифеста пакета приложения для приложения Windows с помощью [API упаковки](interfaces.md).
+узнайте, как получить сведения из манифеста пакета приложения для Windows приложения с помощью [API упаковки](interfaces.md).
 
 ### <a name="create-a-package-manifest-reader"></a>Создание средства чтения манифеста пакета
 
@@ -339,7 +339,7 @@ CoUninitialize();
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -355,6 +355,6 @@ CoUninitialize();
 [**иаппксманифестреадер**](/windows/desktop/api/AppxPackaging/nn-appxpackaging-iappxmanifestreader)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

@@ -4,16 +4,16 @@ description: Иажентбаллун Жетнумчарсперлине
 ms.assetid: ae0c7fff-8c58-465e-9b4f-3260f7574b57
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 887167584c46f075bc0696c46b2dde52eb27f8d3
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 62415c5e51cbf6642b4a348de2060fccb6bac41467dd00b7671888d06b8e71f8
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104068560"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119888403"
 ---
 # <a name="iagentballoongetnumcharsperline"></a>Иажентбаллун:: Жетнумчарсперлине
 
-\[Microsoft Agent является устаревшим в Windows 7 и может быть недоступен в последующих версиях Windows.\]
+\[Microsoft Agent является устаревшим по отношению к Windows 7 и может быть недоступен в последующих версиях Windows.\]
 
 ``` syntax
 HRESULT GetNumCharsPerLine(
@@ -41,9 +41,9 @@ HRESULT GetNumCharsPerLine(
 [**Иажентбаллун:: Жетнумлинес**](iagentballoon--getnumlines.md)
 
 
- 
+ 
 
- 
+ 
 
 
 

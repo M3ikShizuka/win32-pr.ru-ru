@@ -6,12 +6,12 @@ keywords:
 - Справочник по MCI, сведения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 27cc54f69e714960d189567e759cf4b254275807
-ms.sourcegitcommit: 6515eef99ca0d1bbe3e27d4575e9986f5255f277
+ms.openlocfilehash: 6f2c8f91f779ca55d0915c31ac110d5aef77a5171fa4eed110e2911c5167c4df
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "105674669"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120039054"
 ---
 # <a name="mci-reference"></a>Справочник по MCI
 
@@ -155,7 +155,7 @@ ms.locfileid: "105674669"
 -   [**\_Вставка MCI**](mci-paste.md)
 -   [**\_Отмена MCI**](mci-undo.md)
 -   [**\_пармс для \_ удаления \_ волны MCI**](mci-wave-delete-parms.md)
--   [**авить**](paste.md)
+-   [**вставка**](paste.md)
 -   [**отмен**](undo.md)
 
 ## <a name="miscellaneous"></a>Разное
@@ -188,7 +188,7 @@ ms.locfileid: "105674669"
 
 -   [**возможностями**](capability.md)
 -   [**контактные**](info.md)
--   [**числ**](list.md)
+-   [**list**](list.md)
 -   [**\_пармс ДГВ \_ сведения о \_ MCI**](/windows/desktop/api/Digitalv/ns-digitalv-mci_dgv_info_parmsa)
 -   [**MCI \_ ДГВ \_ List \_ пармс**](/windows/desktop/api/Digitalv/ns-digitalv-mci_dgv_list_parmsa)
 -   [**\_ \_ ПАРМС состояния MCI \_ ДГВ**](/windows/desktop/api/Digitalv/ns-digitalv-mci_dgv_status_parmsa)
@@ -203,7 +203,7 @@ ms.locfileid: "105674669"
 -   [**\_ПАРМС MCI сисинфо \_**](mci-sysinfo-parms.md)
 -   [**\_список видеомагнитофонов MCI \_ \_ пармс**](mci-vcr-list-parms.md)
 -   [**\_состояние ВИДЕОМАГНИТОФОНА \_ MCI \_ пармс**](mci-vcr-status-parms.md)
--   [**состояние**](status.md)
+-   [**status**](status.md)
 -   [сисинфо](sysinfo.md)
 
 ## <a name="saving"></a>Сохранение
@@ -216,7 +216,7 @@ ms.locfileid: "105674669"
 -   [**\_Сохранение MCI**](mci-save.md)
 -   [**\_пармс сохранить в MCI \_**](mci-save-parms.md)
 -   [**\_ \_ пармс записи видеомагнитофона \_ MCI**](mci-vcr-record-parms.md)
--   [**запись**](record.md)
+-   [**записать**](record.md)
 -   [**автоматически**](save.md)
 
 ## <a name="video-control"></a>Элемент управления видео
@@ -248,9 +248,9 @@ ms.locfileid: "105674669"
 -   [**\_окно MCI**](mci-window.md)
 -   [**PUT**](put.md)
 -   [**которому**](where.md)
--   [**окно**](window.md)
+-   [**window**](window.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

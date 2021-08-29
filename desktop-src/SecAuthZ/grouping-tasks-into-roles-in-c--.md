@@ -4,12 +4,12 @@ ms.assetid: d2671c52-8d34-45e2-9c49-4ed399f3c220
 title: Группирование задач в роли в C++
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: abb4952d9ece250ddfacc53d955bce3a107281a4
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 5c5e074fb4c83c906d688efa9f0fd4c85ed26d557b6e9c903d4ca814694d8aef
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105664311"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119671994"
 ---
 # <a name="grouping-tasks-into-roles-in-c"></a>Группирование задач в роли в C++
 

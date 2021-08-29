@@ -4,16 +4,16 @@ description: Иажентбаллун
 ms.assetid: b06ad924-66b6-42a6-8c97-5bc4c46f6e2d
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0b7a251471b0281661b087dbfb9b141c54ff9dc7
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: fabd35a43cba0485bbda1fae20b116316dec90832e42920d010b27586e972c5f
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "105710149"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119962334"
 ---
 # <a name="iagentballoongetforecolor"></a>Иажентбаллун::/ForeColor
 
-\[Microsoft Agent является устаревшим в Windows 7 и может быть недоступен в последующих версиях Windows.\]
+\[Microsoft Agent является устаревшим по отношению к Windows 7 и может быть недоступен в последующих версиях Windows.\]
 
 ``` syntax
 HRESULT GetForeColor(
@@ -41,9 +41,9 @@ HRESULT GetForeColor(
 [**Иажентбаллун:: Жетбаккколор**](iagentballoon--getbackcolor.md)
 
 
- 
+ 
 
- 
+ 
 
 
 

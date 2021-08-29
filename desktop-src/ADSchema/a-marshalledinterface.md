@@ -14,12 +14,12 @@ api_type:
 - Schema
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 018c0b001ee5d692785c393a07ffd2d26e33018d
-ms.sourcegitcommit: b77ace27b0432e7cd3863191b11926be032fbe2f
+ms.openlocfilehash: 865089e0ecb5f110dee63f173bdc2f689ca72ae3e9b1f4e60a8270ce9ab95a33
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "104493881"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119301174"
 ---
 # <a name="marshalled-interface-attribute"></a>Атрибут Marshalled-Interface
 

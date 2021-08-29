@@ -3,7 +3,7 @@ title: Список воспроизведения. Колумнсвисибле
 description: Атрибут Колумнсвисибле указывает или получает значение, указывающее, отображаются ли заголовки столбцов.
 ms.assetid: b0e3c5d2-1285-488c-b54c-7d0fcc65192c
 keywords:
-- Проигрыватель Windows Media Player. Колумнсвисибле
+- проигрыватель Windows Media списка воспроизведения. колумнсвисибле
 topic_type:
 - apiref
 api_name:
@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ce5fd2438384363f0ee4c77b12ae268764b1fbb0
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 629f53db0355b56c4989651f3f0faaca7ca864c1e0fe3d7097679cf4a9afa995
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105708515"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119054242"
 ---
 # <a name="playlistcolumnsvisible"></a>Список воспроизведения. Колумнсвисибле
 
@@ -35,24 +35,24 @@ ms.locfileid: "105708515"
 
 | Значение | Описание                        |
 |-------|------------------------------------|
-| true  | По умолчанию. Отображаются заголовки столбцов. |
+| Да  | По умолчанию. Отображаются заголовки столбцов. |
 | false | Заголовки столбцов не отображаются.      |
 
 
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 7,0 или более поздней<br/> |
+| Версия<br/> | проигрыватель Windows Media версии 7,0 или более поздней<br/> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
