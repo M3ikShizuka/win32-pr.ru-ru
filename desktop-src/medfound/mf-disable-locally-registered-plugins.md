@@ -4,12 +4,12 @@ ms.assetid: 67108955-1EDF-4AAB-8B9A-25926F8B5E62
 title: Атрибут MF_DISABLE_LOCALLY_REGISTERED_PLUGINS (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d7b5884d9e3ef128bbd27e82f2ec4cc96eb48ec6
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 802d36d8c342ba6d883f82a5492b67323ca45adedef9e78dc3e2938b487efd01
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104263629"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120013204"
 ---
 # <a name="mf_disable_locally_registered_plugins-attribute"></a>MF \_ Отключить \_ локально \_ зарегистрированный \_ атрибут подключаемых модулей
 
@@ -19,23 +19,23 @@ ms.locfileid: "104263629"
 
 **UINT32**
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Установите для этого атрибута **значение true** , чтобы загрузчик топологии MF не вставлял локально зарегистрированные преобразования.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 8\]<br/>                                         |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2012\]<br/>                               |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                         |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                               |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

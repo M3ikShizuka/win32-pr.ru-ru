@@ -5,12 +5,12 @@ ms.assetid: 9faa7759-cad5-4429-94b0-6cba145cfadb
 ms.tgt_platform: multiple
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: efed7720388e61b9d6131acafd4b9bda17694d29
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: cbf871f6aa1e36c3d93eb93853660d0aa9b083d89f4030446fedd8c883530694
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "105672335"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120128624"
 ---
 # <a name="objects-and-properties"></a>Объекты и свойства
 
@@ -33,12 +33,12 @@ ms.locfileid: "105672335"
 
 
 
- 
+ 
 
 > [!Note]  
-> Служба проверки подлинности в Интернете (IAS) переименовала сервер политики сети (NPS), начиная с Windows Server 2008.
+> служба проверки подлинности в интернете (IAS) переименовала сервер политики сети (NPS), начиная с Windows Server 2008.
 
- 
+ 
 
 ## <a name="collections"></a>Коллекции
 
@@ -48,7 +48,7 @@ ms.locfileid: "105672335"
 
 Тип данных для всех свойств, соответствующих коллекциям, — это VT \_ Dispatch.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -58,6 +58,6 @@ ms.locfileid: "105672335"
 [Поддерживаемые в SDO атрибуты](/windows/desktop/Nps/sdo-sdo-supported-attributes)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

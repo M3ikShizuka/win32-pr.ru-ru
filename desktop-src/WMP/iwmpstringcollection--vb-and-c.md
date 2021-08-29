@@ -3,8 +3,8 @@ title: Интерфейс Ивмпстрингколлектион (VB и C) (WM
 description: Предоставляет свойство и метод для доступа к коллекции строк по номеру индекса. Интерфейс Ивмпстрингколлектион предоставляет следующее свойство.
 ms.assetid: 03d163f9-40a5-4aff-b36e-b9c6a1d11905
 keywords:
-- Ивмпстрингколлектион (VB и C) интерфейс проигрывателя Windows Media
-- Ивмпстрингколлектион (VB и C) интерфейс проигрывателя Windows Media, описание
+- проигрыватель Windows Media интерфейса ивмпстрингколлектион (VB и C)
+- проигрыватель Windows Media интерфейса ивмпстрингколлектион (VB и C), описание
 topic_type:
 - apiref
 api_name:
@@ -15,12 +15,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5360d820804793ae164deba9eaeda1d66f62ad43
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 11bd88f462c3fa6f7a2ce878244efbdc95b8a2e9c2674c76e0f828284c655511
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105694892"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120003604"
 ---
 # <a name="iwmpstringcollection-vb-and-c-interface"></a>Интерфейс Ивмпстрингколлектион (VB и C#)
 
@@ -57,7 +57,7 @@ ms.locfileid: "105694892"
 
 | Свойство                                                                                    | Тип доступа          | Описание                                                   |
 |:--------------------------------------------------------------------------------------------|:---------------------|:--------------------------------------------------------------|
-| [**count**](wmplibiwmpstringcollection-iwmpstringcollection-count--vb-and-c.md)<br/> | Только для чтения<br/> | Возвращает число элементов в коллекции строк.<br/> |
+| [**расчета**](wmplibiwmpstringcollection-iwmpstringcollection-count--vb-and-c.md)<br/> | Только для чтения<br/> | Возвращает число элементов в коллекции строк.<br/> |
 
 
 
@@ -75,21 +75,21 @@ ms.locfileid: "105694892"
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|----------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>WMP. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>WMP. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
-[**Интерфейсы для Visual Basic .NET и C #**](interfaces-for-visual-basic--net-and-c.md)
+[**интерфейсы для Visual Basic .net и C #**](interfaces-for-visual-basic--net-and-c.md)
 </dt> <dt>
 
 [**Интерфейс IWMPStringCollection2 (VB и C#)**](iwmpstringcollection2--vb-and-c.md)

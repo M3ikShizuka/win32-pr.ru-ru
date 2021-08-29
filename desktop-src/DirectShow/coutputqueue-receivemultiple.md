@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: e17e0a8a4856b067907622ec3c8437f5e73a7e38
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 2bb893c0d77907832e160d54c73ee404ccddf6932d94a2ec75d0ecfc984f9014
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105674880"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119831814"
 ---
 # <a name="coutputqueuereceivemultiple-method"></a>Каутпуткуеуе. Рецеивемултипле, метод
 
@@ -80,7 +80,7 @@ HRESULT ReceiveMultiple(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если объект использует поток, этот метод помещает все образцы, переданные в массив, в очередь. В противном случае метод вызывает метод [**имеминпутпин:: рецеивемултипле**](/windows/desktop/api/Strmif/nf-strmif-imeminputpin-receivemultiple) для входного ПИН-кода.
 
@@ -90,7 +90,7 @@ HRESULT ReceiveMultiple(
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Аутпутк. h (включение Streams. h)</dt> </dl>                                                                                   |
+| Заголовок<br/>  | <dl> <dt>аутпутк. h (включает Потоки. h)</dt> </dl>                                                                                   |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 

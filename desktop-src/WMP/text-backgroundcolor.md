@@ -3,7 +3,7 @@ title: TEXT. backgroundColor
 description: Атрибут backgroundColor указывает или получает цвет фона для элемента управления "текст".
 ms.assetid: 0c16318f-bf57-4c5f-85c1-46641124d431
 keywords:
-- Проигрыватель Windows Media TEXT. backgroundColor
+- проигрыватель Windows Media TEXT. backgroundColor
 topic_type:
 - apiref
 api_name:
@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bff833fad0b5ad60b49479c57dc51cbe82f48dbd
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 65361f581a265b2fa65c8f64e3a05f165691d2c03276bd3412ecd86588f8ff73
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105717826"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119901054"
 ---
 # <a name="textbackgroundcolor"></a>TEXT. backgroundColor
 
@@ -31,7 +31,7 @@ ms.locfileid: "105717826"
 
 Этот атрибут является **строкой** для чтения и записи, содержащей любое значение цвета Microsoft Internet Explorer, или значение None. Он имеет значение по умолчанию «нет», что означает, что фон прозрачен.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Цвет фона задается для высоты и ширины элемента управления. Если высота и ширина не заданы, то цвет фона устанавливается равным высоте и ширине текста.
 
@@ -39,17 +39,17 @@ ms.locfileid: "105717826"
 
 См. атрибут [value](text-value.md) для примера, иллюстрирующий использование атрибутов **текстового** элемента.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 7,0 или более поздней<br/> |
+| Версия<br/> | проигрыватель Windows Media версии 7,0 или более поздней<br/> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

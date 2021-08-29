@@ -4,12 +4,12 @@ ms.assetid: bac101a0-389d-4d6a-ae92-ec20116971ee
 title: System. GPS. Лонгитуденумератор
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0b70ffba72d882774d208a86d38584c7c7017b4f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 9a3b9fd3228ef9a7321ce30e60d0e9aade854a73f6c54c3ac7d6bb8ce51752d0
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103819057"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119945494"
 ---
 # <a name="systemgpslongitudenumerator"></a>System. GPS. Лонгитуденумератор
 
@@ -30,11 +30,11 @@ propertyDescription
       type = Multivalue UInt32
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

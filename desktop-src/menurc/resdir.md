@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: b854a4af3367131f6a559e1fef5899fae8b81107
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: c9033e1f30e8f497b202fa8e3f84d4ecb582bb60c166f396a50ce194c9783075
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105691791"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119825584"
 ---
 # <a name="resdir-structure"></a>Структура РЕСДИР
 
@@ -110,7 +110,7 @@ typedef struct {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Одна или несколько структур **ресдир** сразу же следуют структуре [**невхеадер**](newheader.md) в RES – файле. Элемент **рескаунт** структуры **невхеадер** указывает количество структур **ресдир** . Обратите внимание, что структура **ресдир** состоит из структуры [**иконресдир**](iconresdir.md) или [**курсордир**](cursordir.md) , за которой следуют элементы **плоскости**, **биткаунт**, **битесинрес** и **иконкурсорид** . Если структура **ресдир** содержит сведения о курсоре, первые два **слова**, которые компилятор ресурсов записывает в ресурс [ \_ курсора RT](/windows/desktop/menurc/resource-types) , являются элементами **ксхотспот** и **ихотспот** структуры [**локалхеадер**](localheader.md) .
 

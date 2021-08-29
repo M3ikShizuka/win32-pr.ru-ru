@@ -14,19 +14,19 @@ api_location:
 api_name:
 - _allmul
 targetos: Windows
-ms.openlocfilehash: a82a4d56ecb657e19b9849d10c9b51521af6c262
-ms.sourcegitcommit: 1f6a1bfc1c4bb2641bc3ba44beb1f2727c94681b
+ms.openlocfilehash: 38795bf755574ecf1a21ddcdb3655b14a4751a51fc6eca61118734f42e0bc3e2
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "104069481"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119386864"
 ---
 # <a name="_allmul-routine"></a>\_подпрограммы аллмул
 
 Умножает два целых числа **лонглонг** или **улонглонг** .
 Например, чтобы умножить два значения Int64, компилятор может создать вызов подпрограммы **\_ аллмул** .
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Подпрограммы **\_ аллмул** — это вспомогательная подпрограммы для компилятора C.
 Будет ли компилятор использовать **\_ аллмул** , полностью зависит от набора оптимизации.

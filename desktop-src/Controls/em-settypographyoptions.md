@@ -3,7 +3,7 @@ title: Сообщение EM_SETTYPOGRAPHYOPTIONS (RichEdit. h)
 description: Задает текущее состояние типографских параметров для элемента управления Rich Edit.
 ms.assetid: 000e72a6-3f8c-4735-8190-3ac06a2206ac
 keywords:
-- Элементы управления Windows для EM_SETTYPOGRAPHYOPTIONS сообщений
+- элементы управления Windows сообщений EM_SETTYPOGRAPHYOPTIONS
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0528e19aacec394c5af6250536fdc4f693e60ece
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: aec3938e4322a13303ec2fc336b47d7e61a51eea58d49214001720a371f0326a
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103988820"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119437454"
 ---
 # <a name="em_settypographyoptions-message"></a>\_Сообщение СЕТТИПОГРАФЙОПТИОНС EM
 
@@ -58,7 +58,7 @@ ms.locfileid: "103988820"
 
 Возвращает **значение true** , если *wParam* является допустимым; в противном случае — **значение false**.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 При необходимости расширенное разбиение строк включается автоматически элементом управления Rich Editing, например для обработки сложных наборов символов, таких как арабский и иврит, а также для математики. Он также необходим для выравнивания абзацев, расстановки переносов и других типографских функций.
 
@@ -68,10 +68,10 @@ ms.locfileid: "103988820"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
 | Распространяемые компоненты<br/>          | Расширенное редактирование 3,0<br/>                                                              |
-| Header<br/>                   | <dl> <dt>RichEdit. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>RichEdit. h</dt> </dl> |
 
 
 

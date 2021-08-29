@@ -5,12 +5,12 @@ ms.assetid: 218c0123-8da9-4d73-9882-cbf7f205001f
 ms.topic: article
 ms.date: 05/31/2018
 ms.custom: seodec18
-ms.openlocfilehash: 552577283adfa9a440e94b7e04f4056bd6c3ecda
-ms.sourcegitcommit: db89157e3be911fdce2e543e99faa31fb2403bc8
+ms.openlocfilehash: f4f7407a32c7a8447b82695d98d7dc54bcd20b86e09006a8c1a996f6e0495019
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "103988056"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119824873"
 ---
 # <a name="compatible-a8-render-targets-overview"></a>Общие сведения о совместимых целевых объектах рендеринга A8
 
@@ -74,6 +74,6 @@ m_pRT->FillOpacityMask(
 pBitmap->Release();
 ```
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 [Справочник по Direct2D](reference.md)

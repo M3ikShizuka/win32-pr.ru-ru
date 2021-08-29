@@ -15,16 +15,16 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8005b88cb873f00708829672cdeb6563b606d42b
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: b532f96343ac0ced3598b8da9f74f1334e6a081e8217994ffce1d2314cadfc79
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104071722"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119973962"
 ---
 # <a name="ivmnetworkadaptercollection-interface"></a>Интерфейс Ивмнетворкадаптерколлектион
 
-\[Windows Virtual PC больше не доступна для использования в Windows 8. Вместо этого используйте [поставщик WMI Hyper-V (v2)](/windows/desktop/HyperV_v2/windows-virtualization-portal).\]
+\[Windows Virtual PC больше не доступен для использования в Windows 8. Вместо этого используйте [поставщик WMI Hyper-V (v2)](/windows/desktop/HyperV_v2/windows-virtualization-portal).\]
 
 Определяет коллекцию адаптеров виртуальных сетевых интерфейсов. Чтобы получить объект Ивмнетворкадаптерколлектион, используйте свойства [**ивмвиртуалмачине:: адаптера**](ivmvirtualmachine-networkadapters.md), [**Ивмвиртуалнетворк:: адаптера**](ivmvirtualnetwork-networkadapters.md)и [**ивмвиртуалпк:: унконнектеднетворкадаптерс**](ivmvirtualpc-unconnectednetworkadapters.md) .
 
@@ -34,7 +34,7 @@ ms.locfileid: "104071722"
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Интерфейс **ивмнетворкадаптерколлектион** имеет следующие свойства.
 
@@ -43,29 +43,29 @@ ms.locfileid: "104071722"
 | Свойство                                                             | Тип доступа          | Описание                                                                                                   |
 |:---------------------------------------------------------------------|:---------------------|:--------------------------------------------------------------------------------------------------------------|
 | [**\_NewEnum**](ivmnetworkadaptercollection--newenum.md)<br/> | Только для чтения<br/> | Перечислитель для коллекции.<br/>                                                                  |
-| [**Расчета**](ivmnetworkadaptercollection-count.md)<br/>        | Только для чтения<br/> | Число сетевых интерфейсов в этой коллекции.<br/>                                               |
-| [**Элемент**](ivmnetworkadaptercollection-item.md)<br/>          | Только для чтения<br/> | Объект [**ивмнетворкадаптер**](ivmnetworkadapter.md) , соответствующий указанному индексу.<br/> |
+| [**Count**](ivmnetworkadaptercollection-count.md)<br/>        | Только для чтения<br/> | Число сетевых интерфейсов в этой коллекции.<br/>                                               |
+| [**Компонент**](ivmnetworkadaptercollection-item.md)<br/>          | Только для чтения<br/> | Объект [**ивмнетворкадаптер**](ivmnetworkadapter.md) , соответствующий указанному индексу.<br/> |
 
 
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 7\]<br/>                                                     |
+| Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                                     |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                      |
 | Окончание поддержки клиента<br/>    | Windows 7<br/>                                                                           |
 | Продукт<br/>                  | Windows Virtual PC<br/>                                                                  |
-| Header<br/>                   | <dl> <dt>Впккоминтерфацес. h</dt> </dl>  |
+| Заголовок<br/>                   | <dl> <dt>Впккоминтерфацес. h</dt> </dl>  |
 | IID<br/>                      | IID \_ ивмнетворкадаптерколлектион определен как ebaeafe9-EBCD-47cf-866e-ad87d735e479<br/> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

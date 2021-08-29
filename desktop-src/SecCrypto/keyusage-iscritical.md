@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: b1829da9c9ddbcf5261f4cc595b72b8596193078
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: f1f383281d174b1a954566fb751fc3f3fa9f087648a60ede740f9efd5ec66007
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105685038"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119408884"
 ---
 # <a name="keyusageiscritical-property"></a>Свойство Кэйусаже. Critical
 

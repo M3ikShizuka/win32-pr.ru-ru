@@ -4,12 +4,12 @@ ms.assetid: 1b71dce1-8744-4114-9629-2a9d0afb7c43
 title: Свойство MFNETSOURCE_CONNECTIONBANDWIDTH (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a6b852b3eb8dbfe5d3abc85e2223e868c5be708c
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 2dd12a36db2529001d96729c2f019c017b333585c215106b4051a4deb7995a9d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104543202"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120113564"
 ---
 # <a name="mfnetsource_connectionbandwidth-property"></a>МФНЕТСАУРЦЕ \_ коннектионбандвидс, свойство
 
@@ -31,7 +31,7 @@ VT \_ I4
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Константа **мфнетсаурце \_ коннектионбандвидс** определяет идентификатор GUID для этого ключа свойства. Идентификатор свойства (PID) равен нулю.
 
@@ -43,9 +43,9 @@ VT \_ I4
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                     |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                               |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                               |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 

@@ -3,7 +3,7 @@ title: Сообщение TTM_GETMARGIN (Коммктрл. h)
 description: Извлекает верхнее, левое, нижнее и правое поля, заданные для окна подсказки. Поле — это расстояние (в пикселях) между границей окна подсказки и текстом, содержащимся в окне подсказки.
 ms.assetid: c33ee1de-5fbd-4c7e-a703-576c2ffd3052
 keywords:
-- Элементы управления Windows для TTM_GETMARGIN сообщений
+- элементы управления Windows сообщений TTM_GETMARGIN
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2bb3e795d8eac14522f0994a342c7f781b7112ce
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 6af1e7f460ad877c5c562f3a5aa47147a27606c54b9a4334eb8fb7b93716c33b
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103988676"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120060554"
 ---
 # <a name="ttm_getmargin-message"></a>Сообщение ТТМи о \_ прибыли
 
@@ -56,23 +56,23 @@ ms.locfileid: "103988676"
 
 Возвращаемое значение для этого сообщения не используется.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 При создании элемента управления ToolTip все четыре поля по умолчанию имеют нулевое значение.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

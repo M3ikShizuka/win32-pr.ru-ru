@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b20e1dcd8cd9700f961eb944c7be3168582b8c55
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: d363485db56634c39a4a12e153feb740b0c21a2b6a3ef9499754de753c6236f7
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103801793"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120011454"
 ---
 # <a name="execactionpath-property"></a>Ексекактион. Path, свойство
 
@@ -40,7 +40,7 @@ ExecAction.Path As String
 
 Путь к исполняемому файлу, запускаемому действием.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это действие выполняет операцию командной строки. Например, действие может выполнить сценарий или запустить исполняемый файл.
 
@@ -54,8 +54,8 @@ ExecAction.Path As String
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                          |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                    |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                          |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                    |
 | Библиотека типов<br/>             | <dl> <dt>Тасксчд. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Taskschd.dll</dt> </dl> |
 

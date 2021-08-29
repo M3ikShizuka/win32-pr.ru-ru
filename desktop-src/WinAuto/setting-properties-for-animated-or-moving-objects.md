@@ -4,12 +4,12 @@ description: Для элементов управления "анимация", 
 ms.assetid: 8c5ebbc3-4066-452b-8f37-2fb595adea53
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1551899305968471bf1425b5cc043be8329c2bd4
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 72dc4161145f46c6d376f9902d883512de317adc613099a6456634e60fceae16
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104068435"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119998074"
 ---
 # <a name="setting-properties-for-animated-or-moving-objects"></a>Задание свойств для анимированных или перемещаемых объектов
 
@@ -21,9 +21,9 @@ ms.locfileid: "104068435"
 
 Например, в окне, содержащем прямоугольную область, в которой отображается слово «Да!» При переходе на 8-восемь узоров [**роль**](role-property.md) является [**\_ \_ графиком системы роли**](object-roles.md), свойство [**value**](value-property.md) — это отображаемая строка, свойство [**Location**](/windows/desktop/api/Oleacc/nf-oleacc-iaccessible-acclocation) — ограничивающий прямоугольник вокруг текста, а установлен флаг [**\_ системного \_ атрибута State**](object-state-constants.md) . [**Описание**](description-property.md) : "слово" Да! " перемещается вокруг экрана в шаблоне «рисунок-8». Сервер создает только события [**\_ \_ STATECHANGE объекта события**](event-constants.md) , когда объект запускается или прекращает анимацию.
 
- 
+ 
 
- 
+ 
 
 
 

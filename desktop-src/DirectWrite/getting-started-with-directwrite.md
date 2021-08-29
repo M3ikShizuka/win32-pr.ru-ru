@@ -1,36 +1,36 @@
 ---
 title: Учебник начало работы с DirectWrite
-description: В этом документе показано, как использовать DirectWrite и Direct2D для создания простого текста, содержащего один формат, а затем текст, содержащий несколько форматов.
+description: в этом документе показано, как использовать DirectWrite и Direct2D для создания простого текста, содержащего один формат, а затем текст, содержащий несколько форматов.
 ms.assetid: cc2758d7-3f47-452a-8d81-3f777fe490ec
 keywords:
 - DirectWrite, учебник
 - DirectWrite, руководство по началу работы
 - DirectWrite, Direct2D
 - Direct2D
-- DirectWrite, интерфейс Идвритетекстлайаут
+- DirectWrite, интерфейс идвритетекстлайаут
 - Интерфейс Идвритетекстлайаут
-- DirectWrite, интерфейс Идвритетипографи
+- DirectWrite, интерфейс идвритетипографи
 - Интерфейс Идвритетипографи
-- DirectWrite, интерфейс Идвритетекстформат
+- DirectWrite, интерфейс идвритетекстформат
 - Интерфейс Идвритетекстформат
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 48fb385ff78650a16599a32d76d7c51ba575de47
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 5ab22f611ea4658870990002bf98ac3c2ab9ffec32405ed8e67c32b819406496
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104338444"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120083482"
 ---
 # <a name="tutorial-getting-started-with-directwrite"></a>Учебник. начало работы с DirectWrite
 
-В этом документе показано, как использовать [DirectWrite](direct-write-portal.md) и [Direct2D](rendering-by-using-direct2d.md) для создания простого текста, содержащего один формат, а затем текст, содержащий несколько форматов.
+в этом документе показано, как использовать [DirectWrite](direct-write-portal.md) и [Direct2D](rendering-by-using-direct2d.md) для создания простого текста, содержащего один формат, а затем текст, содержащий несколько форматов.
 
 Этот учебник содержит следующие компоненты.
 
 -   [Исходный код](#source-code)
 -   [Рисование простого текста](#drawing-simple-text)
-    -   [Часть 1. объявление ресурсов DirectWrite и Direct2D.](#part-1-declare-directwrite-and-direct2d-resources)
+    -   [часть 1. объявление ресурсов DirectWrite и Direct2D.](#part-1-declare-directwrite-and-direct2d-resources)
     -   [Часть 2. создание независимых ресурсов устройства.](#part-2-create-device-independent-resources)
     -   [Часть 3. Создание ресурсов Device-Dependent.](#part-3-create-device-dependent-resources)
     -   [Часть 4. Рисование текста с помощью метода Direct2D DrawText.](#part-4-draw-text-by-using-the-direct2d-drawtext-method)
@@ -43,7 +43,7 @@ ms.locfileid: "104338444"
 
 ## <a name="source-code"></a>Исходный код
 
-Исходный код, приведенный в этом обзоре, взят из [примера DirectWrite Hello World](/samples/browse/?redirectedfrom=MSDN-samples). Каждая часть реализуется в отдельном классе (Симплетекст и Мултиформаттедтекст) и отображается в отдельном дочернем окне. Каждый класс представляет окно Microsoft Win32. Помимо метода *WndProc* , каждый класс содержит следующие методы.
+исходный код, приведенный в этом обзоре, взят из [примера DirectWrite Hello World](/samples/browse/?redirectedfrom=MSDN-samples). Каждая часть реализуется в отдельном классе (Симплетекст и Мултиформаттедтекст) и отображается в отдельном дочернем окне. Каждый класс представляет окно Microsoft Win32. Помимо метода *WndProc* , каждый класс содержит следующие методы.
 
 
 
@@ -59,13 +59,13 @@ ms.locfileid: "104338444"
 
 
 
- 
+ 
 
-Вы можете использовать предоставленный образец или выполнить приведенные ниже инструкции, чтобы добавить [DirectWrite](direct-write-portal.md) и [Direct2D](rendering-by-using-direct2d.md) в собственное приложение Win32. Дополнительные сведения о примере и связанных файлах проекта см. в [примере директвритехелловорлд](/samples/browse/?redirectedfrom=MSDN-samples).
+вы можете использовать предоставленный образец или выполнить приведенные ниже инструкции, чтобы добавить [DirectWrite](direct-write-portal.md) и [Direct2D](rendering-by-using-direct2d.md) в собственное приложение Win32. Дополнительные сведения о примере и связанных файлах проекта см. в [примере директвритехелловорлд](/samples/browse/?redirectedfrom=MSDN-samples).
 
 ## <a name="drawing-simple-text"></a>Рисование простого текста
 
-В этом разделе показано, как использовать [DirectWrite](direct-write-portal.md) и [Direct2D](../direct2d/direct2d-portal.md) для отрисовки простого текста, имеющего один формат, как показано на следующем снимке экрана.
+в этом разделе показано, как использовать [DirectWrite](direct-write-portal.md) и [Direct2D](../direct2d/direct2d-portal.md) для отрисовки простого текста, имеющего один формат, как показано на следующем снимке экрана.
 
 ![снимок экрана "Hello World, использующий DirectWrite!" в одном формате](images/simplecropped.png)
 
@@ -88,11 +88,11 @@ ms.locfileid: "104338444"
 
 Для рисования текста, использующего оба процесса, описанных в этом документе, требуется интерфейс [**идвритетекстформат**](/windows/win32/api/dwrite/nn-dwrite-idwritetextformat) .
 
-Прежде чем можно будет создать объект [**идвритетекстформат**](/windows/win32/api/dwrite/nn-dwrite-idwritetextformat) или любой другой объект [DirectWrite](direct-write-portal.md) , необходим экземпляр [**идвритефактори**](/windows/win32/api/dwrite/nn-dwrite-idwritefactory) . **Идвритефактори** используется для создания экземпляров **идвритетекстформат** и других объектов DirectWrite. Чтобы получить экземпляр фабрики, используйте функцию [**двритекреатефактори**](/windows/win32/api/dwrite/nf-dwrite-dwritecreatefactory) .
+прежде чем можно будет создать объект [**идвритетекстформат**](/windows/win32/api/dwrite/nn-dwrite-idwritetextformat) или любой другой объект [DirectWrite](direct-write-portal.md) , необходим экземпляр [**идвритефактори**](/windows/win32/api/dwrite/nn-dwrite-idwritefactory) . **идвритефактори** используется для создания экземпляров **идвритетекстформат** и других объектов DirectWrite. Чтобы получить экземпляр фабрики, используйте функцию [**двритекреатефактори**](/windows/win32/api/dwrite/nf-dwrite-dwritecreatefactory) .
 
-### <a name="part-1-declare-directwrite-and-direct2d-resources"></a>Часть 1. объявление ресурсов DirectWrite и Direct2D.
+### <a name="part-1-declare-directwrite-and-direct2d-resources"></a>часть 1. объявление ресурсов DirectWrite и Direct2D.
 
-В этой части вы объявили объекты, которые будут использоваться позже для создания и отображения текста в качестве частных членов данных класса. Все интерфейсы, функции и типы данных для [DirectWrite](direct-write-portal.md) объявляются в файле заголовка *дврите. h* , а их [Direct2D](../direct2d/direct2d-portal.md) объявляются в *D2D1. h*; Если вы еще не сделали этого, включите эти заголовки в свой проект.
+В этой части вы объявили объекты, которые будут использоваться позже для создания и отображения текста в качестве частных членов данных класса. все интерфейсы, функции и типы данных для [DirectWrite](direct-write-portal.md) объявляются в файле заголовка *дврите. h* , а [Direct2D](../direct2d/direct2d-portal.md) объявляются в *d2d1. h*; Если вы еще не сделали этого, включите эти заголовки в свой проект.
 
 1.  В файле заголовка класса (Симплетекст. h) объявите указатели на [**идвритефактори**](/windows/win32/api/dwrite/nn-dwrite-idwritefactory) и [**идвритетекстформат**](/windows/win32/api/dwrite/nn-dwrite-idwritetextformat) интерфейсы как закрытые члены.
     ```C++
@@ -126,7 +126,7 @@ ms.locfileid: "104338444"
 
 [Direct2D](rendering-by-using-direct2d.md) предоставляет два типа ресурсов: ресурсы, зависящие от устройства, и ресурсы, независимые от устройств. Ресурсы, зависящие от устройства, связаны с устройством отрисовки и больше не работают, если это устройство удалено. С другой стороны, независимые от устройства ресурсы могут быть последними в области приложения.
 
-Ресурсы [DirectWrite](direct-write-portal.md) не зависят от устройства.
+[DirectWrite](direct-write-portal.md) ресурсы не зависят от устройства.
 
 В этом разделе вы создадите независимые от устройства ресурсы, используемые приложением. Эти ресурсы должны быть освобождены с помощью вызова метода **Release** интерфейса.
 
@@ -143,7 +143,7 @@ ms.locfileid: "104338444"
 
     
 
-2.  Вызовите функцию [**двритекреатефактори**](/windows/win32/api/dwrite/nf-dwrite-dwritecreatefactory) , чтобы создать интерфейс [**идвритефактори**](/windows/win32/api/dwrite/nn-dwrite-idwritefactory) , который является корневым интерфейсом фабрики для всех объектов [DirectWrite](direct-write-portal.md) . Вы используете ту же фабрику для создания экземпляров других ресурсов DirectWrite.
+2.  вызовите функцию [**двритекреатефактори**](/windows/win32/api/dwrite/nf-dwrite-dwritecreatefactory) , чтобы создать интерфейс [**идвритефактори**](/windows/win32/api/dwrite/nn-dwrite-idwritefactory) , который является корневым интерфейсом фабрики для всех [DirectWriteных](direct-write-portal.md) объектов. вы используете ту же фабрику для создания экземпляров других DirectWrite ресурсов.
     ```C++
     if (SUCCEEDED(hr))
     {
@@ -341,7 +341,7 @@ if (FAILED(hr))
 
 ## <a name="drawing-text-with-multiple-formats"></a>Рисование текста с несколькими форматами.
 
-В этом разделе показано, как использовать [DirectWrite](direct-write-portal.md) и [Direct2D](../direct2d/direct2d-portal.md) для отрисовки текста с несколькими форматами, как показано на следующем снимке экрана.
+в этом разделе показано, как использовать [DirectWrite](direct-write-portal.md) и [Direct2D](../direct2d/direct2d-portal.md) для отрисовки текста с несколькими форматами, как показано на следующем снимке экрана.
 
 ![снимок экрана: "Hello World, используя DirectWrite!", с некоторыми частями в различных стилях, размерах и форматах](images/multiformattedcropped.png)
 
@@ -351,7 +351,7 @@ if (FAILED(hr))
 
 [**Идвритетекстлайаут**](/windows/win32/api/dwrite/nn-dwrite-idwritetextlayout) также предоставляет методы проверки попадания. Метрики проверки попадания, возвращаемые этими методами, задаются относительно поля макета, заданного при создании объекта интерфейса **идвритетекстлайаут** с помощью метода [**креатетекстлайаут**](/windows/win32/api/dwrite/nf-dwrite-idwritefactory-createtextlayout) интерфейса [**идвритефактори**](/windows/win32/api/dwrite/nn-dwrite-idwritefactory) .
 
-Интерфейс [**идвритетипографи**](/windows/win32/api/dwrite/nn-dwrite-idwritetypography) используется для добавления дополнительных типографских функций [OpenType](../intl/opentype-font-format.md) в макет текста, таких как каллиграфические символы и альтернативные наборы стилистических текстовых наборов. Типографские функции можно добавлять к конкретному фрагменту текста в макете, вызывая метод [**аддфонтфеатуре**](/windows/win32/api/dwrite/nf-dwrite-idwritetypography-addfontfeature) интерфейса **идвритетипографи** . Этот метод получает структуру [**\_ \_ возможностей шрифта дврите**](/windows/win32/api/dwrite/ne-dwrite-dwrite_font_feature_tag) в качестве параметра, который содержит константу перечисления **\_ \_ \_ тега функции шрифта дврите** и параметр выполнения **UINT32** . Список зарегистрированных функций OpenType можно найти в [реестре тегов макета OpenType](https://www.microsoft.com/typography/otspec/features_ae.htm) на Microsoft.com. Эквивалентные константы перечисления DirectWrite см. в разделе **\_ \_ \_ тег функции шрифта дврите**.
+Интерфейс [**идвритетипографи**](/windows/win32/api/dwrite/nn-dwrite-idwritetypography) используется для добавления дополнительных типографских функций [OpenType](../intl/opentype-font-format.md) в макет текста, таких как каллиграфические символы и альтернативные наборы стилистических текстовых наборов. Типографские функции можно добавлять к конкретному фрагменту текста в макете, вызывая метод [**аддфонтфеатуре**](/windows/win32/api/dwrite/nf-dwrite-idwritetypography-addfontfeature) интерфейса **идвритетипографи** . Этот метод получает структуру [**\_ \_ возможностей шрифта дврите**](/windows/win32/api/dwrite/ne-dwrite-dwrite_font_feature_tag) в качестве параметра, который содержит константу перечисления **\_ \_ \_ тега функции шрифта дврите** и параметр выполнения **UINT32** . Список зарегистрированных функций OpenType можно найти в [реестре тегов макета OpenType](https://www.microsoft.com/typography/otspec/features_ae.htm) на Microsoft.com. эквивалентные константы перечисления DirectWrite см. в разделе **\_ \_ \_ тег функции шрифта дврите**.
 
 ### <a name="part-1-create-an-idwritetextlayout-interface"></a>Часть 1. Создание интерфейса Идвритетекстлайаут.
 
@@ -391,7 +391,7 @@ if (FAILED(hr))
 
 Форматирование, например размер шрифта, вес и подчеркивание, можно применить к подстрокам текста, отображаемым с помощью интерфейса [**идвритетекстлайаут**](/windows/win32/api/dwrite/nn-dwrite-idwritetextlayout) .
 
-1.  Установите размер шрифта для подстроки "Di" из "DirectWrite" в значение 100, объявив [**\_ \_ диапазон текста дврите**](/windows/win32/api/dwrite/ns-dwrite-dwrite_text_range) и вызвав метод [**идвритетекстлайаут:: сетфонтсизе**](/windows/win32/api/dwrite/nf-dwrite-idwritetextlayout-setfontsize) .
+1.  задайте размер шрифта для подстроки "Di" из "DirectWrite" равным 100, объявляя [**\_ текстовый \_ диапазон дврите**](/windows/win32/api/dwrite/ns-dwrite-dwrite_text_range) и вызывая метод [**идвритетекстлайаут:: сетфонтсизе**](/windows/win32/api/dwrite/nf-dwrite-idwritetextlayout-setfontsize) .
     ```C++
     // Format the "DirectWrite" substring to be of font size 100.
     if (SUCCEEDED(hr))
@@ -404,7 +404,7 @@ if (FAILED(hr))
 
     
 
-2.  Подчеркивание подстроки "DirectWrite" путем вызова метода [**идвритетекстлайаут:: сетундерлине**](/windows/win32/api/dwrite/nf-dwrite-idwritetextlayout-setunderline) .
+2.  подчеркивание подстроки "DirectWrite" путем вызова метода [**идвритетекстлайаут:: сетундерлине**](/windows/win32/api/dwrite/nf-dwrite-idwritetextlayout-setunderline) .
     ```C++
     // Format the word "DWrite" to be underlined.
     if (SUCCEEDED(hr))
@@ -418,7 +418,7 @@ if (FAILED(hr))
 
     
 
-3.  Установите жирный шрифт для подстроки "DirectWrite", вызвав метод [**идвритетекстлайаут:: сетфонтвеигхт**](/windows/win32/api/dwrite/nf-dwrite-idwritetextlayout-setfontweight) .
+3.  установите жирный шрифт для подстроки "DirectWrite", вызвав метод [**идвритетекстлайаут:: сетфонтвеигхт**](/windows/win32/api/dwrite/nf-dwrite-idwritetextlayout-setfontweight) .
     ```C++
     if (SUCCEEDED(hr))
     {
@@ -516,6 +516,6 @@ if (FAILED(hr))
 
 Класс Мултиформаттедтекст реализован в Мултиформаттедтекст. h и Мултиформаттедтекст. cpp.
 
- 
+ 
 
- 
+ 

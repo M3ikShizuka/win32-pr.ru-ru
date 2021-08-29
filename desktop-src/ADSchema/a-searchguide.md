@@ -14,12 +14,12 @@ api_type:
 - Schema
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 711202ebc39649e7e1aea2a4459c3a7147eb2ff6
-ms.sourcegitcommit: b77ace27b0432e7cd3863191b11926be032fbe2f
+ms.openlocfilehash: 1aedd7e97716766f9dc0bb264df6d82ecfdb18951df135c5329898b86ae866a5
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "105655059"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119836964"
 ---
 # <a name="search-guide-attribute"></a>Атрибут Search-Guide
 
@@ -67,7 +67,7 @@ ms.locfileid: "105655059"
 | Range-Upper            | \-                                                                                                                                                                                                                                                                        |
 | Search-Flags           | 0x00000000                                                                                                                                                                                                                                                                |
 | System-Flags           | 0x00000010                                                                                                                                                                                                                                                                |
-| Классы, используемые в        | [**Центр сертификации**](c-certificationauthority.md)<br/> [**Страна или регион**](c-country.md)<br/> [**Местонахождение**](c-locality.md)<br/> [**План**](c-organization.md)<br/> [**Организационная единица**](c-organizationalunit.md)<br/> |
+| Классы, используемые в        | [**Центр сертификации**](c-certificationauthority.md)<br/> [**Страна**](c-country.md)<br/> [**Расположение**](c-locality.md)<br/> [**Организация**](c-organization.md)<br/> [**Организационная единица**](c-organizationalunit.md)<br/> |
 
 
 
@@ -88,7 +88,7 @@ ms.locfileid: "105655059"
 | Range-Upper            | \-                                                                                                                                                                                                                                                                        |
 | Search-Flags           | 0x00000000                                                                                                                                                                                                                                                                |
 | System-Flags           | 0x00000010                                                                                                                                                                                                                                                                |
-| Классы, используемые в        | [**Центр сертификации**](c-certificationauthority.md)<br/> [**Страна или регион**](c-country.md)<br/> [**Местонахождение**](c-locality.md)<br/> [**План**](c-organization.md)<br/> [**Организационная единица**](c-organizationalunit.md)<br/> |
+| Классы, используемые в        | [**Центр сертификации**](c-certificationauthority.md)<br/> [**Страна**](c-country.md)<br/> [**Расположение**](c-locality.md)<br/> [**Организация**](c-organization.md)<br/> [**Организационная единица**](c-organizationalunit.md)<br/> |
 
 
 
@@ -109,7 +109,7 @@ ms.locfileid: "105655059"
 | Range-Upper            | \-                                                                                                                                                                                                 |
 | Search-Flags           | 0x00000000                                                                                                                                                                                         |
 | System-Flags           | 0x00000010                                                                                                                                                                                         |
-| Классы, используемые в        | [**Страна или регион**](c-country.md)<br/> [**Местонахождение**](c-locality.md)<br/> [**План**](c-organization.md)<br/> [**Организационная единица**](c-organizationalunit.md)<br/> |
+| Классы, используемые в        | [**Страна**](c-country.md)<br/> [**Расположение**](c-locality.md)<br/> [**Организация**](c-organization.md)<br/> [**Организационная единица**](c-organizationalunit.md)<br/> |
 
 
 
@@ -130,7 +130,7 @@ ms.locfileid: "105655059"
 | Range-Upper            | \-                                                                                                                                                                                                                                                                        |
 | Search-Flags           | 0x00000000                                                                                                                                                                                                                                                                |
 | System-Flags           | 0x00000010                                                                                                                                                                                                                                                                |
-| Классы, используемые в        | [**Центр сертификации**](c-certificationauthority.md)<br/> [**Страна или регион**](c-country.md)<br/> [**Местонахождение**](c-locality.md)<br/> [**План**](c-organization.md)<br/> [**Организационная единица**](c-organizationalunit.md)<br/> |
+| Классы, используемые в        | [**Центр сертификации**](c-certificationauthority.md)<br/> [**Страна**](c-country.md)<br/> [**Расположение**](c-locality.md)<br/> [**Организация**](c-organization.md)<br/> [**Организационная единица**](c-organizationalunit.md)<br/> |
 
 
 
@@ -151,7 +151,7 @@ ms.locfileid: "105655059"
 | Range-Upper            | \-                                                                                                                                                                                                                                                                        |
 | Search-Flags           | 0x00000000                                                                                                                                                                                                                                                                |
 | System-Flags           | 0x00000010                                                                                                                                                                                                                                                                |
-| Классы, используемые в        | [**Центр сертификации**](c-certificationauthority.md)<br/> [**Страна или регион**](c-country.md)<br/> [**Местонахождение**](c-locality.md)<br/> [**План**](c-organization.md)<br/> [**Организационная единица**](c-organizationalunit.md)<br/> |
+| Классы, используемые в        | [**Центр сертификации**](c-certificationauthority.md)<br/> [**Страна**](c-country.md)<br/> [**Расположение**](c-locality.md)<br/> [**Организация**](c-organization.md)<br/> [**Организационная единица**](c-organizationalunit.md)<br/> |
 
 
 
@@ -172,7 +172,7 @@ ms.locfileid: "105655059"
 | Range-Upper            | \-                                                                                                                                                                                                                                                                        |
 | Search-Flags           | 0x00000000                                                                                                                                                                                                                                                                |
 | System-Flags           | 0x00000010                                                                                                                                                                                                                                                                |
-| Классы, используемые в        | [**Центр сертификации**](c-certificationauthority.md)<br/> [**Страна или регион**](c-country.md)<br/> [**Местонахождение**](c-locality.md)<br/> [**План**](c-organization.md)<br/> [**Организационная единица**](c-organizationalunit.md)<br/> |
+| Классы, используемые в        | [**Центр сертификации**](c-certificationauthority.md)<br/> [**Страна**](c-country.md)<br/> [**Расположение**](c-locality.md)<br/> [**Организация**](c-organization.md)<br/> [**Организационная единица**](c-organizationalunit.md)<br/> |
 
 
 
@@ -193,7 +193,7 @@ ms.locfileid: "105655059"
 | Range-Upper            | \-                                                                                                                                                                                                                                                                        |
 | Search-Flags           | 0x00000000                                                                                                                                                                                                                                                                |
 | System-Flags           | 0x00000010                                                                                                                                                                                                                                                                |
-| Классы, используемые в        | [**Центр сертификации**](c-certificationauthority.md)<br/> [**Страна или регион**](c-country.md)<br/> [**Местонахождение**](c-locality.md)<br/> [**План**](c-organization.md)<br/> [**Организационная единица**](c-organizationalunit.md)<br/> |
+| Классы, используемые в        | [**Центр сертификации**](c-certificationauthority.md)<br/> [**Страна**](c-country.md)<br/> [**Расположение**](c-locality.md)<br/> [**Организация**](c-organization.md)<br/> [**Организационная единица**](c-organizationalunit.md)<br/> |
 
 
 

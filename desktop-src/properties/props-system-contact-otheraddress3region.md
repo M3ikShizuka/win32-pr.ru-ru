@@ -4,12 +4,12 @@ ms.assetid: c31a435d-2110-4147-ac28-deafa22e1030
 title: System. Contact. OtherAddress3Region
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5b0633af186bcb83641c925148398d65b921334f
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 71293814240e26b26e8c5df92fe23e6fc406d0f154e2283d1cc2afeda38e30a6
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108101354"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120011064"
 ---
 # <a name="systemcontactotheraddress3region"></a>System. Contact. OtherAddress3Region
 
@@ -32,7 +32,7 @@ propertyDescription
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

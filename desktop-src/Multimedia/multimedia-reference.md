@@ -3,18 +3,18 @@ title: Ссылка на мультимедиа
 description: Ссылка на мультимедиа
 ms.assetid: 71e31f62-6aad-4b39-ba74-285c0a633e41
 keywords:
-- Мультимедиа Windows, справочные материалы
+- Windows мультимедиа, справочные материалы
 - мультимедиа, справочные материалы
 - Справочник по мультимедиа, о программе
 - справочные материалы по мультимедиа, о
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5ea0987ca1c9453380ab633821da04a28117a13a
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: a85521039b1ca229f0baefaf8eac2b97d3cab7110fc82a02af9f8af765dd23d7
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104410916"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120038694"
 ---
 # <a name="multimedia-reference"></a>Ссылка на мультимедиа
 
@@ -30,9 +30,9 @@ ms.locfileid: "104410916"
 -   [Типы мультимедиа](multimedia-types.md)
 -   [Константы мультимедиа](multimedia-constants.md)
 
- 
+ 
 
- 
+ 
 
 
 

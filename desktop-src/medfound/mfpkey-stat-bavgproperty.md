@@ -4,12 +4,12 @@ ms.assetid: 96bf43c3-5a62-4157-a7bc-2302fd69c522
 title: Свойство MFPKEY_STAT_BAVG (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 106343b74985c85e962c591234cd319ab899b6be
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 58058dbb32fbec2c590f0032a0ec04847bc255c83a8ad732eedf3961bc35928f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105648942"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120113174"
 ---
 # <a name="mfpkey_stat_bavg-property"></a>МФПКЭЙ \_ stat \_ Бавг, свойство
 
@@ -23,22 +23,22 @@ ms.locfileid: "105648942"
 
 **VT \_ I4**
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Чтобы определить среднее окно буфера закодированного потока, прочтите это свойство в конце кодирования.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|-----------------------------------------------------------------------------------------|
 | Клиент<br/> | Windows XP, Windows Vista или Windows 7<br/>                                       |
-| Header<br/> | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

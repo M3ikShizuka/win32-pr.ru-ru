@@ -18,12 +18,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: a32a3ee275c32dde7d9f1484aa99dddeaf97a2e9
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 054cb165a7c59f91bf7df31561a8a5c24a25b2a0acda39d4cb5f35791f30ea25
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104140979"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119973384"
 ---
 # <a name="win32_logicaldisktopartition-class"></a>\_Класс Win32 логикалдисктопартитион
 
@@ -50,7 +50,7 @@ class Win32_LogicalDiskToPartition : CIM_LogicalDiskBasedOnPartition
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ логикалдисктопартитион** имеет следующие свойства.
 
@@ -122,7 +122,7 @@ class Win32_LogicalDiskToPartition : CIM_LogicalDiskBasedOnPartition
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **Win32 \_ логикалдисктопартитион** является производным от [**CIM \_ логикалдискбаседонпартитион**](cim-logicaldiskbasedonpartition.md).
 
@@ -450,7 +450,7 @@ BOOL wmi_close()
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -464,7 +464,7 @@ BOOL wmi_close()
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

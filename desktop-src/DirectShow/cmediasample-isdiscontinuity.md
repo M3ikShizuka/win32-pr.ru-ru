@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 4e222ea813793dd537c8623f74403baed9a320a8
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: db45e2921e04d798c9b2a155472843e7d82c25b90e582c5895dd3fa57962c801
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105665214"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119832254"
 ---
 # <a name="cmediasampleisdiscontinuity-method"></a>Кмедиасампле. Исдисконтинуити, метод
 
@@ -44,7 +44,7 @@ HRESULT IsDiscontinuity();
 
 Возвращает \_ значение ОК, если образец является перерывом в потоке данных, и \_ false в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значение этого свойства указывается в переменной члена [**кмедиасампле:: m \_ dwFlags**](cmediasample-m-dwflags.md) .
 
@@ -54,7 +54,7 @@ HRESULT IsDiscontinuity();
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Амфилтер. h (включение Streams. h)</dt> </dl>                                                                                  |
+| Заголовок<br/>  | <dl> <dt>амфилтер. h (включает Потоки. h)</dt> </dl>                                                                                  |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 

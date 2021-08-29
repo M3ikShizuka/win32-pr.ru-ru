@@ -13,16 +13,16 @@ api_type:
 - COM
 api_location:
 - Scardssp.dll
-ms.openlocfilehash: f44597ea087f7ccec191abc9dd03787780e88b2d
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: aec07516a44dc06489a627c690ec15dd2e0a80edef9fee49801c0ed23d64439f
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104265647"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120015264"
 ---
 # <a name="iscardcmdbuildcmd-method"></a>Метод Искардкмд:: Буилдкмд
 
-\[Метод **буилдкмд** доступен для использования в операционных системах, указанных в разделе требования. Он недоступен для использования в Windows Server 2003 с пакетом обновления 1 (SP1) и более поздней версии, Windows Vista, Windows Server 2008 и последующих версиях операционной системы. [Модули смарт-карт](/previous-versions/windows/desktop/secsmart/smart-card-modules) предоставляют аналогичные функции.\]
+\[Метод **буилдкмд** доступен для использования в операционных системах, указанных в разделе требования. он недоступен для использования в Windows Server 2003 с пакетом обновления 1 (SP1) и более поздних версий, Windows Vista, Windows Server 2008 и последующих версиях операционной системы. [Модули смарт-карт](/previous-versions/windows/desktop/secsmart/smart-card-modules) предоставляют аналогичные функции.\]
 
 Метод **буилдкмд** конструирует допустимую [*единицу данных протокола приложения*](../secgloss/a-gly.md) (категориях APDU) для передачи на [*смарт-карту*](../secgloss/s-gly.md).
 
@@ -105,7 +105,7 @@ HRESULT BuildCmd(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Чтобы инкапсулировать команду в другую команду, вызовите функцию [**Инкапсуляция**](iscardcmd-encapsulate.md).
 
@@ -137,24 +137,24 @@ if (FAILED(hr))
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                             |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                    |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                                                   |
 | Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Скарддат. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Скарддат. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Скарддат. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Scardssp.dll</dt> </dl> |
 | IID<br/>                      | IID \_ искардкмд определен как D5778AE3-43DE-11D0-9171-00AA00C18068<br/>            |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

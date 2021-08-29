@@ -4,12 +4,12 @@ ms.assetid: 82866b07-5043-433f-974a-0a301d4b5491
 title: Списки точек
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 57086a445209d9e60173910e07166a6149e0b8d2
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: f4cf0194c2083c2ebe6bb10741a6fdd41f92d12fface4ed9cbc9478e7a5a8fbc
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "103806233"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119406723"
 ---
 # <a name="point-lists"></a>Списки точек
 
@@ -56,7 +56,7 @@ d3dDevice->DrawPrimitive( D3DPT_POINTLIST, 0, 6 );
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

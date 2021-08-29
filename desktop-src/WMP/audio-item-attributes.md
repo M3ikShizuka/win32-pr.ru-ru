@@ -3,24 +3,24 @@ title: Атрибуты звукового элемента
 description: Атрибуты звукового элемента
 ms.assetid: fbaff235-47bb-4fa2-8961-53dac26142dd
 keywords:
-- Проигрыватель Windows Media, атрибуты звуковых элементов
-- Проигрыватель Windows Media Mobile, атрибуты звуковых элементов
-- Объектная модель проигрывателя Windows Media, атрибуты звукового элемента
+- проигрыватель Windows Media, атрибуты звукового элемента
+- проигрыватель Windows Media Мобильные устройства, атрибуты звуковых элементов
+- проигрыватель Windows Media объектной модели, атрибуты звукового элемента
 - Объектная модель, атрибуты звукового элемента
-- Элемент управления ActiveX, атрибуты звуковых элементов
-- Элемент управления ActiveX проигрывателя Windows Media, атрибуты звукового элемента
-- Элемент управления мобильными устройствами ActiveX проигрывателя Windows Media, атрибуты звукового элемента
+- ActiveX элемент управления, атрибуты звукового элемента
+- проигрыватель Windows Media ActiveX элемента управления, атрибуты звукового элемента
+- проигрыватель Windows Media мобильные ActiveX управления, атрибуты звуковых элементов
 - Справочник по объектной модели, атрибутам звукового элемента
 - атрибуты, звуковые элементы
 - атрибуты звукового элемента
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: dd7abdb134d24d79ffab6f671fd3280b21517ec0
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: dda5edbeb3303eedc06833eb23cc42fec41ecabd6121a0c01f162c1664703609
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104329448"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120004024"
 ---
 # <a name="audio-item-attributes"></a>Атрибуты звукового элемента
 
@@ -91,7 +91,7 @@ ms.locfileid: "104329448"
 -   [**Атрибут WM/Албумковерурл**](wm-albumcoverurl-attribute.md)
 -   [**Атрибут WM/Албумтитле**](wm-albumtitle-attribute.md)
 -   [**Атрибут WM/Category**](wm-category-attribute.md)
--   [**Атрибут WM/Composer**](wm-composer-attribute.md)
+-   [**атрибут WM/Composer**](wm-composer-attribute.md)
 -   [**Атрибут WM/проводника**](wm-conductor-attribute.md)
 -   [**Атрибут WM/Контентдистрибутор**](wm-contentdistributor-attribute.md)
 -   [**Атрибут WM/Контентграупдескриптион**](wm-contentgroupdescription-attribute.md)
@@ -111,7 +111,7 @@ ms.locfileid: "104329448"
 -   [**Атрибут WM/provider**](wm-provider-attribute.md)
 -   [**Атрибут WM/Провидерратинг**](wm-providerrating-attribute.md)
 -   [**Атрибут WM/Провидерстиле**](wm-providerstyle-attribute.md)
--   [**Атрибут WM/Publisher**](wm-publisher-attribute.md)
+-   [**атрибут WM/Publisher**](wm-publisher-attribute.md)
 -   [**Атрибут WM/Субскриптионконтентид**](wm-subscriptioncontentid-attribute.md)
 -   [**Атрибут WM/субтитр**](wm-subtitle-attribute.md)
 -   [**Атрибут WM/Траккнумбер**](wm-tracknumber-attribute.md)
@@ -122,16 +122,16 @@ ms.locfileid: "104329448"
 -   [**Атрибут WM/Writer**](wm-writer-attribute.md)
 -   [**Атрибут WM/year**](wm-year-attribute.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [**Ссылка на атрибут**](attribute-reference.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

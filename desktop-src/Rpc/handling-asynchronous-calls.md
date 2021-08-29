@@ -4,12 +4,12 @@ description: Подпрограммы диспетчера асинхронно�
 ms.assetid: 4f38b68b-0bea-4fa7-8c7e-dd09e7daf8bf
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7e04dc7feed0d7bee47f6fa51583cf8de3a8e42f
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 3bc05efd8c94a8b67ad68f2d19cacd6c46ed16e80ad6bbdf6df5b475b4dc68eb
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104411061"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120020844"
 ---
 # <a name="handling-asynchronous-calls"></a>Обработка асинхронных вызовов
 
@@ -19,9 +19,9 @@ ms.locfileid: "104411061"
 
 Пример асинхронной процедуры см. [в разделе Отправка асинхронного ответа](sending-the-asynchronous-reply.md).
 
- 
+ 
 
- 
+ 
 
 
 

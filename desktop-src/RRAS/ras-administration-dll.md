@@ -6,12 +6,12 @@ keywords:
 - Администрирование RAS, Библиотека DLL администрирования RAS
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1cb170e8cfa331ab9591aa509772c6f6a743fa49
-ms.sourcegitcommit: cba7f424a292fd7f3a8518947b9466439b455419
+ms.openlocfilehash: 59b6682a3ba16d5d96a0a6eb03cbe877d130b819c5054174388e4fe89764957f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/23/2019
-ms.locfileid: "104532915"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120036384"
 ---
 # <a name="about-ras-administration-dlls"></a>О библиотеках DLL администрирования RAS
 
@@ -43,7 +43,7 @@ ms.locfileid: "104532915"
 
 [**мпрадминконнектионхангупнотификатион**](/windows/desktop/api/Mprapi/nf-mprapi-mpradminconnectionhangupnotification)
 
-или
+или диспетчер конфигурации служб
 
 [**MprAdminAcceptNewConnection2**](/windows/desktop/api/Mprapi/nf-mprapi-mpradminacceptnewconnection2) и
 
@@ -79,9 +79,9 @@ ms.locfileid: "104532915"
 
 **Windows 2000/NT:** Несколько библиотек DLL администрирования не поддерживаются.
 
- 
+ 
 
- 
+ 
 
 
 

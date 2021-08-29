@@ -55,12 +55,12 @@ api_type:
 ms.topic: reference
 ms.custom: snippet-project
 ms.date: 05/31/2018
-ms.openlocfilehash: a1d0347938020ca8937f2764e3b2c62a38fc9273
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: d9633282fd6a504a48db81ce852fad7a2aca16a4ee26a1d14ce4f052b6447ce4
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105674965"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120080394"
 ---
 # <a name="task-scheduler-error-and-success-constants"></a>планировщик задач константы ошибок и успешности
 
@@ -632,15 +632,15 @@ XML-код задачи содержит слишком много узлов о
 
 </dt> </dl> </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>WinError. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>WinError. h</dt> </dl> |
 
 
 

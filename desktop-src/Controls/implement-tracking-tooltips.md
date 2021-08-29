@@ -4,12 +4,12 @@ description: Отслеживание всплывающих подсказок 
 ms.assetid: 4BE1F9E6-92B6-4CA7-B89A-F2162BC86366
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a614fef7ed69cd8c2763f9370ce0011d51eb0c82
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: a9b2aaf7475f6a4823e0628ab7010ae32bb8424ef0e90e52396ee20cbc7c7e35
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104067544"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120085602"
 ---
 # <a name="how-to-implement-tracking-tooltips"></a>Реализация подсказок отслеживания
 
@@ -24,16 +24,16 @@ ms.locfileid: "104067544"
 -   По умолчанию подсказка отображается рядом с соответствующим инструментом в положении, выбранном элементом управления. Выбранное расположение относится к координатам, которые вы указали с помощью этого сообщения.
 -   Если включить **\_ абсолютное значение TTF** в элемент структуры [**тулинфо**](/windows/win32/api/commctrl/ns-commctrl-tttoolinfoa) , подсказка отобразится в расположении пикселей, указанном в сообщении. В этом случае элемент управления не пытается изменить расположение окна подсказки из предоставленных координат.
 
-## <a name="what-you-need-to-know"></a>Что необходимо знать
+## <a name="what-you-need-to-know"></a>Это важно знать
 
 ### <a name="technologies"></a>Технологии
 
--   [Элементы управления Windows](window-controls.md)
+-   [Windows Элементы управления](window-controls.md)
 
-### <a name="prerequisites"></a>Предварительные условия
+### <a name="prerequisites"></a>Предварительные требования
 
 -   C/C++
--   Программирование пользовательского интерфейса Windows
+-   Windows Программирование пользовательского интерфейса
 
 ## <a name="instructions"></a>Инструкции
 
@@ -44,7 +44,7 @@ ms.locfileid: "104067544"
 > [!Note]  
 > `g_toolItem` является глобальной структурой [**тулинфо**](/windows/win32/api/commctrl/ns-commctrl-tttoolinfoa) .
 
- 
+ 
 
 В следующем примере показано, как создать элемент управления ToolTip для отслеживания. В примере в качестве средства указывается вся клиентская область главного окна.
 
@@ -158,16 +158,16 @@ case WM_MOUSEMOVE:
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Использование элементов управления ToolTip](using-tooltip-contro.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

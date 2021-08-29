@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Nmapi.dll
-ms.openlocfilehash: 3317c8e842c23daa08f260063a8310404c92aed5
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 5c706d47c6923de0c01f346430e8050eb94484782cf030186e1ef865f220cc18
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105673320"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120037144"
 ---
 # <a name="loadstringaddr-function"></a>Функция Лоадстрингаддр
 
@@ -60,7 +60,7 @@ BOOL LoadStringAddr(
 
 Если функция завершается неудачно, возвращается значение **false**.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 

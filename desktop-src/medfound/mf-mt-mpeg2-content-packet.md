@@ -4,12 +4,12 @@ ms.assetid: 527B965D-4330-4DCB-B6DA-32D6BCDF5515
 title: Атрибут MF_MT_MPEG2_CONTENT_PACKET (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: acb297081a150ab3aa5b842be9b5792d849e2457
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: fc650c28b6d02fdcbdedafcd2e173a501a763fbcfe4fa86a17c5cc98e0cdceba
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103911191"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120012914"
 ---
 # <a name="mf_mt_mpeg2_content_packet-attribute"></a>\_ \_ \_ Атрибут пакета содержимого MF MT MPEG2 \_
 
@@ -30,19 +30,19 @@ ms.locfileid: "103911191"
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 8 \|\]<br/>                                  |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2012 \|\]<br/>                        |
-| Header<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 8 \[ приложения UWP для классических приложений \|\]<br/>                                  |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ приложения UWP для классических приложений \|\]<br/>                        |
+| Заголовок<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 08823de30cfe13497a4bd42073688bc739d80acf
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 0d061f3731db5ad5f1bd72d2612cf1ec1002bdf97f25f7e81eec5dd58da9b3b0
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104540799"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119945474"
 ---
 # <a name="jet_rstinfolgposstop-property"></a>Свойство JET_RSTINFO. Лгпосстоп
 
@@ -64,7 +64,7 @@ public JET_LGPOS lgposStop { get; set; }
 
 Тип: [Microsoft.ISAM.ESENT.Interop.JET_LGPOS](./jet-lgpos-structure2.md)  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 #### <a name="reference"></a>Справочник
 

@@ -4,27 +4,27 @@ description: В этом разделе показано, как создать 
 ms.assetid: E4DBECA6-B3F2-405F-8D95-32FA2334114D
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d8427a5695c0b9c79c19d328f4abc2ab0ffb2e5a
-ms.sourcegitcommit: a716ca2a6a22a400f02c6b31699cf4da83ee3619
+ms.openlocfilehash: 308893b436760ad970025b93d49a368fa44b28c7913c433ff4febad105cc41b6
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "104134803"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120063114"
 ---
 # <a name="how-to-create-an-ip-address-control"></a>Создание элемента управления "IP-адрес"
 
 В этом разделе показано, как создать экземпляр элемента управления IP-адреса.
 
-## <a name="what-you-need-to-know"></a>Что необходимо знать
+## <a name="what-you-need-to-know"></a>Это важно знать
 
 ### <a name="technologies"></a>Технологии
 
--   [Элементы управления Windows](window-controls.md)
+-   [Windows Элементы управления](window-controls.md)
 
-### <a name="prerequisites"></a>Предварительные условия
+### <a name="prerequisites"></a>Предварительные требования
 
 -   C/C++
--   Программирование пользовательского интерфейса Windows
+-   Windows Программирование пользовательского интерфейса
 
 ## <a name="instructions"></a>Инструкции
 
@@ -73,7 +73,7 @@ HWND CreateIPAddressFld (HWND hwndParent, int xcoord, int ycoord)
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

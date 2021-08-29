@@ -3,7 +3,7 @@ title: Атрибут Усерсервицератинг
 description: Атрибут Усерсервицератинг зарезервирован для использования в будущем.
 ms.assetid: e6113474-725d-4eb1-9c05-cff7749f2010
 keywords:
-- Усерсервицератинг атрибут Windows Media Player
+- проигрыватель Windows Media атрибута усерсервицератинг
 topic_type:
 - apiref
 api_name:
@@ -12,24 +12,24 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 690a090aaa9d07ee850caee004242272368129f9
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: c1dc9b0f1131a02a4ce3fe05ebe2423116e7701e3bbb9ce7f5ea8faa1c1dce7a
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105704057"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120001594"
 ---
 # <a name="userservicerating-attribute"></a>Атрибут Усерсервицератинг
 
 Атрибут **усерсервицератинг** зарезервирован для использования в будущем.
 
-## <a name="applies-to"></a>Применение
+## <a name="applies-to"></a>Применяется к
 
 -   [Звуковые элементы](audio-item-attributes.md)
 -   [Списки воспроизведения](playlist-attributes-ref.md)
 -   [Элементы видео](video-item-attributes.md)
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Рейтинги пользователей представлены целыми значениями, как описано в следующей таблице. При указании значения используйте одно из значений в столбце запись значения. При извлечении значений можно использовать диапазоны в столбце значения для чтения, чтобы определить количество звезд.
 
@@ -58,7 +58,7 @@ ms.locfileid: "105704057"
 
 | Требование | Значение |
 |--------------------|---------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media 9 Series или более поздней версии<br/> |
+| Версия<br/> | проигрыватель Windows Media 9 Series или более поздней версии<br/> |
 
 
 

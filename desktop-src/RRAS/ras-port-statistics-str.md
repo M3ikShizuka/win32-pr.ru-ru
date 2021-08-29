@@ -15,16 +15,16 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 85e60fb001da3f8401e47c366eecc86aced22b77
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 8d6c2329f7b6423d24f81d421d3078aae5495992796d607c1a8f22d82d4b1e48
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105672679"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119995304"
 ---
 # <a name="ras_port_statistics-structure"></a>\_ \_ Структура статистики порта RAS
 
-\[Структура **\_ \_ статистики порта RAS** не поддерживается в Windows Vista.\]
+\[структура **\_ \_ статистики порта RAS** не поддерживается Windows Vista.\]
 
 Структура **\_ \_ статистики порта RAS** сообщает о статистике, которую сервер RAS собирает для подключенного порта. Сервер RAS сбрасывает различные статистические счетчики каждый раз при подключении порта. Вызовите функцию [**расадминпортклеарстатистикс**](rasadminportclearstatistics.md) , чтобы принудительно сбросить счетчики статистики на сервере удаленного доступа.
 
@@ -278,7 +278,7 @@ typedef struct _RAS_PORT_STATISTICS {
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                 |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                                                |
 | Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                       |
-| Header<br/>                   | <dl> <dt>Рассапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Рассапи. h</dt> </dl> |
 
 
 

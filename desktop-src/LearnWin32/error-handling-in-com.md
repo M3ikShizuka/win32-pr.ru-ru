@@ -1,17 +1,17 @@
 ---
-title: Обработка ошибок в COM (начало работы с Win32 и C++)
-description: Обработка ошибок в COM (начало работы с Win32 и C++)
+title: обработка ошибок в COM (Начало работы с Win32 и C++)
+description: обработка ошибок в COM (Начало работы с Win32 и C++)
 ms.assetid: 022ca652-59d2-4513-9d73-1c6d8688c478
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b69cf89170087469fa6ef8587fb5377e6374f6a8
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: bfe85dc381ac35e75a3ee2f2fb1926a6ba6cb60c576c3d8250f457079f8a3bb5
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108103922"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119897464"
 ---
-# <a name="error-handling-in-com-get-started-with-win32-and-c"></a>Обработка ошибок в COM (начало работы с Win32 и C++)
+# <a name="error-handling-in-com-get-started-with-win32-and-c"></a>обработка ошибок в COM (Начало работы с Win32 и C++)
 
 COM использует значения **HRESULT** для указания на успешное или неуспешное завершение метода или вызова функции. Различные заголовки SDK определяют различные константы **HRESULT** . Общий набор кодов на уровне системы определяется в файле WinError. h. В следующей таблице показаны некоторые коды возврата для всей системы.
 
@@ -19,7 +19,7 @@ COM использует значения **HRESULT** для указания н
 
 | Константа            | Числовое значение | Описание                                          |
 |---------------------|---------------|------------------------------------------------------|
-| **E \_ ACCESSDENIED** | 0x80070005    | Access denied. (Недопустимое значение {значение_утверждения} для утверждения {имя_утверждения}. Доступ запрещен.)                                       |
+| **E \_ ACCESSDENIED** | 0x80070005    | Доступ запрещен.                                       |
 | **\_Ошибка E**         | 0x80004005    | Незаданная ошибка.                                   |
 | **E \_ INVALIDARG**   | 0x80070057    | Недопустимое значение параметра.                             |
 | **E \_ OUTOFMEMORY**  | 0x8007000E    | Недостаточно памяти.                                       |
@@ -311,7 +311,7 @@ void ShowDialog()
 
 ## <a name="next"></a>Следующая
 
-[Модуль 3. Графика Windows](module-3---windows-graphics.md)
+[Модуль 3. Windows Рисунка](module-3---windows-graphics.md)
 
  
 

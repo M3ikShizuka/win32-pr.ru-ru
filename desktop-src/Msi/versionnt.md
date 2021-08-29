@@ -1,35 +1,35 @@
 ---
-description: Установщик задает для свойства Версионнт номер версии операционной системы, а не определен, если операционная система не является Windows NT, Windows 2000, Windows XP, Windows Vista, Windows Server 2008 или Windows 7.
+description: установщик задает для свойства версионнт номер версии операционной системы, не определен, если операционная система не Windows NT, Windows 2000, Windows XP, Windows Vista, Windows сервера 2008 или Windows 7.
 ms.assetid: 49005783-0bcb-458e-8266-56e6ea6afb43
 title: Версионнт, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 61ce8d7d5c738be3b2fd51f2ca3054b8800d4c40
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 73f2787f7b4914495bc257629e7b50765d7e93ec221cf1aa44d9c1f7e706d127
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105651942"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119995644"
 ---
 # <a name="versionnt-property"></a>Версионнт, свойство
 
-Установщик задает для свойства **версионнт** номер версии операционной системы, а не определен, если операционная система не является Windows NT, Windows 2000, Windows XP, Windows Vista, windows Server 2008 или Windows 7. Значение является целым числом: MajorVersion \* 100 + minorversion.
+установщик задает для свойства **версионнт** номер версии операционной системы, не определен, если операционная система не Windows NT, Windows 2000, Windows XP, Windows Vista, Windows сервера 2008 или Windows 7. Значение является целым числом: MajorVersion \* 100 + minorversion.
 
 Это свойство может использоваться в условных инструкциях, зависящих от операционной системы.
 
 См. также [значения свойств операционной системы](operating-system-property-values.md).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-Выражения условий могут протестировать Windows NT, Windows 2000 или Windows XP с помощью имени свойства или проверить версию с помощью оператора сравнения.
+выражения условий могут проверять Windows NT, Windows 2000 или Windows XP с помощью имени свойства или могут проверять версию с помощью оператора сравнения.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/> | Установщик Windows 5,0 в Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Установщик Windows 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Установщик Windows в Windows Server 2003 или Windows XP ознакомьтесь с [требованиями к установщик Windows Run-Time](windows-installer-portal.md) , чтобы получить сведения о минимальном пакете обновления Windows, который требуется для установщик Windows версии.<br/> |
+| Версия<br/> | Windows установщик 5,0 на Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Windows установщик 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Windows установщик на Windows Server 2003 или Windows XP ознакомьтесь с [требованиями к установщик Windows Run-Time](windows-installer-portal.md) для получения сведений о минимальном Windows пакете обновления, который требуется для установщик Windows версии.<br/> |
 
 
 

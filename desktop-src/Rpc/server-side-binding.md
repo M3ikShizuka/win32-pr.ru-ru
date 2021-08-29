@@ -4,12 +4,12 @@ description: В этом разделе рассматривается роль 
 ms.assetid: 3c9e69e8-9745-4e62-9ddc-1bc04b4bef59
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d82ce40f45be5f71619c42cf73c9e86c7687e2b2
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 058916868b2e70608893b7720fe251ec37c6630ee1b5260c51da9f3f29b8758a
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104331776"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120017724"
 ---
 # <a name="server-side-binding"></a>Привязка на стороне сервера
 
@@ -21,9 +21,9 @@ ms.locfileid: "104331776"
 -   [Реклама в интерфейсах сервера](advertising-server-interfaces.md)
 -   [Прослушивание удаленных вызовов процедур](listening-for-remote-procedure-calls.md)
 
- 
+ 
 
- 
+ 
 
 
 

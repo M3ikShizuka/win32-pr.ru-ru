@@ -14,16 +14,16 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a484bb5684fde974ce5fa704c0d0cca38c320851
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 03ee536eeb4d16cbfc2bbcfb7dc09cae8b0003bbd925945fa710e15cb1c4a96e
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103802788"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120035664"
 ---
 # <a name="rtmgetrouteage-function"></a>Функция Ртмжетраутеаже
 
-\[Этот API был заменен API [диспетчера таблиц маршрутизации версии 2](about-routing-table-manager-version-2.md) и не будет доступен за пределами Windows Server 2003. Приложения должны использовать API диспетчера таблиц маршрутизации версии 2.\]
+\[этот api был заменен api [диспетчера таблиц маршрутизации версии 2](about-routing-table-manager-version-2.md) и не будет доступен за пределами Windows Server 2003. Приложения должны использовать API диспетчера таблиц маршрутизации версии 2.\]
 
 Функция **ртмжетраутеаже** Возвращает возраст маршрута. Возраст — это время в секундах с момента создания или последнего обновления.
 
@@ -58,17 +58,17 @@ ULONG RtmGetRouteAge(
 | Значение                                                                                   | Описание                                                                                                                                                  |
 |-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <dl> <dt>**Маршрутизация**</dt> </dl> | Время в секундах с момента создания или последнего обновления маршрута.<br/>                                                                                    |
-| <dl> <dt>**INFINITE**</dt> </dl> | Недопустимое содержимое структуры маршрута. В этом случае вызов [**GetLastError**](/windows/win32/api/errhandlingapi/nf-errhandlingapi-getlasterror) возвращает ошибку " \_ Недопустимый \_ параметр".<br/> |
+| <dl> <dt>**БОЛЬШОГО**</dt> </dl> | Недопустимое содержимое структуры маршрута. В этом случае вызов [**GetLastError**](/windows/win32/api/errhandlingapi/nf-errhandlingapi-getlasterror) возвращает ошибку " \_ Недопустимый \_ параметр".<br/> |
 
 
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Срок действия маршрута вычисляются на основе \_ элемента метки времени RR структуры, на которую указывает параметр *Route* . Диспетчер таблиц маршрутизации задает значение этого элемента при добавлении или обновлении маршрута.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -77,13 +77,13 @@ ULONG RtmGetRouteAge(
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                          |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                               |
 | Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                     |
-| Header<br/>                   | <dl> <dt>RTM. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>RTM. h</dt> </dl>   |
 | Библиотека<br/>                  | <dl> <dt>RTM. lib</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Rtm.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

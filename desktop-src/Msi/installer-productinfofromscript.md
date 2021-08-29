@@ -15,12 +15,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: a4c8e29adb93f68228008770a95ad9fb9185e966
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 7b0319c83cc981f36bc4d744bb34e96a684adf8d203bdf4f4dc6ab8472033639
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105652224"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120129374"
 ---
 # <a name="installerproductinfofromscript-property"></a>Установщик::P свойство Родуктинфофромскрипт
 
@@ -43,7 +43,7 @@ Installer.ProductInfoFromScript = propVal
 
 Строковое или целочисленное значение, зависящее от запрошенного атрибута.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Свойство **продуктинфофромскрипт** использует функцию [**мсижетпродуктинфофромскрипт**](/windows/desktop/api/Msi/nf-msi-msigetproductinfofromscripta) .
 
@@ -77,20 +77,20 @@ MsgBox  installer.ProductInfoFromScript("c:\scratch\orca.aas", 3)
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/> | Установщик Windows 5,0 в Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Установщик Windows 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Установщик Windows 4,5 в Windows Server 2003 и Windows XP<br/> |
+| Версия<br/> | Windows установщик 5,0 на Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Windows установщик 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Windows установщик 4,5 на Windows Server 2003 и Windows XP<br/> |
 | DLL<br/>     | <dl> <dt>Msi.dll</dt> </dl>                                                                                                                                                                           |
 | IID<br/>     | IID \_ иинсталлер определен как 000C1090-0000-0000-C000-000000000046<br/>                                                                                                                                                                                |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
 [**Установщик**](installer-object.md)
 </dt> <dt>
 
-[Не поддерживается в установщик Windows 3,1 и более ранних версиях](not-supported-in-windows-installer-version-3-1.md)
+[не поддерживается в установщик Windows 3,1 и более ранних версиях](not-supported-in-windows-installer-version-3-1.md)
 </dt> </dl>
 
  

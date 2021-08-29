@@ -6,12 +6,12 @@ keywords:
 ms.topic: article
 ms.date: 05/17/2021
 ms.localizationpriority: low
-ms.openlocfilehash: 15e35f26b72ed8d685e8302f6222836507e5c6a3
-ms.sourcegitcommit: ae8c320a757558262167a4f4e385235b8d89035c
+ms.openlocfilehash: bac179764b253035e0e8f1ef422f07bffb58821b55390c9c87d985bde5d2cdf5
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "112765538"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120062534"
 ---
 # <a name="firewall-dynamic-keywords"></a>Динамические ключевые слова брандмауэра
 
@@ -68,9 +68,9 @@ API [**FwpmDynamicKeywordSubscribe0**](/windows/win32/api/fwpmu/nf-fwpmu-fwpmdyn
 
 ## <a name="code-examples"></a>Примеры кода
 
-Чтобы испытать каждый из этих примеров кода, сначала запустите Visual Studio и создайте новый проект на основе шаблона проекта **консольного приложения** . Можно просто заменить содержимое `main.cpp` на листинг кода.
+чтобы испытать каждый из этих примеров кода, сначала запустите Visual Studio и создайте новый проект на основе шаблона проекта **консольного приложения** . Можно просто заменить содержимое `main.cpp` на листинг кода.
 
-В большинстве примеров кода используются [библиотеки реализации Windows (будет)](https://github.com/Microsoft/wil). Удобный способ установки будет — перейти в Visual Studio, щелкнуть **проект** \> **Управление пакетами NuGet...** \> **Обзор**, ввести или вставить **Microsoft. Windows. имплементатионлибрари** в поле поиска, выбрать элемент в результатах поиска, а затем нажать кнопку **установить** , чтобы установить пакет для этого проекта.
+в большинстве примеров кода используются [библиотеки реализации Windows (будет)](https://github.com/Microsoft/wil). удобный способ установки будет — перейти к Visual Studio, щелкнуть **Project** \> **управление пакетами NuGet...** \> **обзор**, введите или вставьте **Microsoft. Windows. Имплементатионлибрари** в поле поиска выберите элемент в результатах поиска, а затем нажмите кнопку **установить** , чтобы установить пакет для этого проекта.
 
 > [!NOTE]
 > Типы указателей для бесплатных функций NetFw публикуются `NetFw.h` с помощью, но Библиотека статической компоновки не публикуется. Используйте шаблон [лоадлибрарексв](/windows/win32/api/libloaderapi/nf-libloaderapi-loadlibraryexw) / [GetProcAddress](/windows/win32/api/libloaderapi/nf-libloaderapi-getprocaddress) для вызова этих функций, как показано в этих примерах кода.

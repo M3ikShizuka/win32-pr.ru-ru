@@ -150,7 +150,7 @@
               items:
                 - name: Добавление клиента
                   href: sdo-adding-a-client.md
-                - name: Изменение параметров коммутируемого подключения
+                - name: изменение Параметры удаленного доступа
                   href: sdo-changing-dial-in-settings.md
                 - name: Создание политики запросов на подключение
                   href: sdo-creating-a-connection-request-policy.md
@@ -338,5 +338,5 @@
                       href: /windows/desktop/api/SdoIas/nf-sdoias-isdoservicecontrol-startservice
                     - name: Метод StopService
                       href: /windows/desktop/api/SdoIas/nf-sdoias-isdoservicecontrol-stopservice
-    - name: Программирование SQL
+    - name: SQL Программирования
       href: sql-programmability.md

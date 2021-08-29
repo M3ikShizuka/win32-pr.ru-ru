@@ -15,12 +15,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e1ccad9331cf3df12ea5752fdd7e5ac94bfbeba6
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 3521c45e0492507cba3dcf509b53b748d5068dd592c45ff7a17fa8766ff8ff85
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104534985"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120010944"
 ---
 # <a name="taskfolder-object"></a>Объект Таскфолдер
 
@@ -76,20 +76,20 @@ ms.locfileid: "104534985"
 
 Дополнительные сведения и примеры кода для этого объекта скрипта см. [пример триггера времени (сценарии)](time-trigger-example--scripting-.md), [пример триггера события (сценарии)](https://www.bing.com/search?q=Event+Trigger+Example+(Scripting)), [Пример ежедневного триггера (сценарии](daily-trigger-example--scripting-.md)), пример триггера [регистрации](registration-trigger-example--scripting-.md)(сценарии), пример триггера с [расписанием](weekly-trigger-example--scripting-.md)(скрипт), пример триггера [входа](logon-trigger-example--scripting-.md)(скрипт), пример триггера [загрузки](boot-trigger-example--scripting-.md)(сценарии), [а также имена и состояния задач (сценарии)](displaying-task-names-and-state--scripting-.md).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                          |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                    |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                          |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                    |
 | Библиотека типов<br/>             | <dl> <dt>Тасксчд. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Taskschd.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

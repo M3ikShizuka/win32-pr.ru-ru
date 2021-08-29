@@ -13,16 +13,16 @@ api_type:
 - COM
 api_location:
 - Scardssp.dll
-ms.openlocfilehash: 92bcf490a3cb1fc533bcf9a1046642d3c3e55b59
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: fa5137e10ddf9066b973e71265bdc73be1c7e37a2b3cd7d18e02b7e6fc9ebc4e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104541826"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120014724"
 ---
 # <a name="iscardcmdget_replystatussw1-method"></a>Метод Искардкмд:: Get \_ ReplyStatusSW1
 
-\[Метод **Get \_ ReplyStatusSW1** доступен для использования в операционных системах, указанных в разделе требования. Он недоступен для использования в Windows Server 2003 с пакетом обновления 1 (SP1) и более поздней версии, Windows Vista, Windows Server 2008 и последующих версиях операционной системы. [Модули смарт-карт](/previous-versions/windows/desktop/secsmart/smart-card-modules) предоставляют аналогичные функции.\]
+\[Метод **Get \_ ReplyStatusSW1** доступен для использования в операционных системах, указанных в разделе требования. он недоступен для использования в Windows Server 2003 с пакетом обновления 1 (SP1) и более поздних версий, Windows Vista, Windows Server 2008 и последующих версиях операционной системы. [Модули смарт-карт](/previous-versions/windows/desktop/secsmart/smart-card-modules) предоставляют аналогичные функции.\]
 
 Метод **Get \_ ReplyStatusSW1** извлекает байт состояния SW1 [*ответа апдус*](../secgloss/r-gly.md) .
 
@@ -65,7 +65,7 @@ HRESULT get_ReplyStatusSW1(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Байт состояния SW1 для [*ответа категориях APDU*](../secgloss/r-gly.md) доступен только для чтения.
 
@@ -101,11 +101,11 @@ if (FAILED(hr))
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                             |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                    |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                                                   |
 | Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Скарддат. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Скарддат. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Скарддат. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Scardssp.dll</dt> </dl> |
 | IID<br/>                      | IID \_ искардкмд определен как D5778AE3-43DE-11D0-9171-00AA00C18068<br/>            |

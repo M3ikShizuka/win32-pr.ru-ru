@@ -4,12 +4,12 @@ description: В следующей таблице содержится спис�
 ms.assetid: 16effe59-ebe2-48c3-b97a-90656b6d3b51
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 89e00b3cbb2d5fc5637b9414d6f009cfb2e4ade4
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: a821396f4ab4bdd29e999d334921a933d32516c4ec23ba89c364c013535fb43d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "105672015"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120023134"
 ---
 # <a name="binding-handle-functions"></a>Функции обработчика привязки
 
@@ -38,11 +38,11 @@ ms.locfileid: "105672015"
 
 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: a1f7cb9dd811c878eba258a6087e00a85d4c24a0
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 87632261cf43de912192596cd20046c715921b2c7b063e2fd02d247671591fa7
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108084872"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120083904"
 ---
 # <a name="ctransformoutputpinctransformoutputpin-constructor"></a>Ктрансформаутпутпин. Ктрансформаутпутпин, конструктор
 
@@ -77,13 +77,13 @@ CTransformOutputPin(
 
 Параметр *pName* указывает имя ПИН-кода, которое возвращается методом [**Ипин:: куерипининфо**](/windows/desktop/api/Strmif/nf-strmif-ipin-querypininfo) . Однако строка не используется для идентификатора ПИН-кода. Идентификатор ПИН-кода для этого класса всегда имеет значение "out". Дополнительные сведения см. в разделе [**QueryId**](ctransformoutputpin-queryid.md).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Трансфрм. h (включение Streams. h)</dt> </dl>                                                                                  |
+| Заголовок<br/>  | <dl> <dt>трансфрм. h (включает Потоки. h)</dt> </dl>                                                                                  |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 

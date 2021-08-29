@@ -4,12 +4,12 @@ ms.assetid: 0d9ea896-e0a9-411b-9a10-e366e3686a34
 title: Сбор сведений о Fine-Tuning
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 27d191f677acc9306202bce141ef8f6683b43c61
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 1a7148724473504631431780f320b1c1852f6de9fe5f8d29b38dca94882f37f1
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "105662015"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120084444"
 ---
 # <a name="collecting-fine-tuning-information"></a>Сбор сведений о Fine-Tuning
 
@@ -21,7 +21,7 @@ ms.locfileid: "105662015"
 2.  Вызовите метод [**иамтунер::p \_ UT**](/windows/desktop/api/Strmif/nf-strmif-iamtuner-put_channel) один раз для каждого индекса частоты в диапазоне.
 3.  Вызовите метод [**иамтвтунер:: стореаутотуне**](/windows/desktop/api/Strmif/nf-strmif-iamtvtuner-storeautotune) , чтобы сохранить сведения о точной настройке в реестре. Сведения хранятся в разделе реестра для текущего пространства настройки.
 
-В следующем коде показаны следующие шаги.
+Следующий код показывает эти действия.
 
 
 ```C++
@@ -83,7 +83,7 @@ HRESULT MyAutoTune(IAMTVTuner *pTuner, long lIndex, long *plFoundSignal)
 
 Старый формат реестра преобразуется в новый формат всякий раз, когда вызывается метод [**иамтвтунер:: стореаутотуне**](/windows/desktop/api/Strmif/nf-strmif-iamtvtuner-storeautotune) . Если приложение добавляет переопределения частоты, оно должно вызывать метод **стореаутотуне** для преобразования в новый формат реестра. Перед вызовом **стореаутотуне** не нужно сохранять сведения о точной настройке.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

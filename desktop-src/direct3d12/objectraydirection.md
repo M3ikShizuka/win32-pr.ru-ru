@@ -12,12 +12,12 @@ api_name:
 - ObjectRayDirection
 api_type:
 - NA
-ms.openlocfilehash: 1cc291a33f91bf7fc0565596bdd075a86e193246
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 780acd5edcf4b40167048b1d2a52c54b6e581b0e5ce23ee18eead46efdcb1d8a
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105710717"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119279914"
 ---
 # <a name="objectraydirection"></a>обжектрайдиректион
 
@@ -32,7 +32,7 @@ float3 ObjectRayDirection();
 
 
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Эту функцию можно вызывать из следующих типов шейдеров райтраЦинг:
 
@@ -44,7 +44,7 @@ float3 ObjectRayDirection();
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

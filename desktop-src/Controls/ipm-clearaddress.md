@@ -3,7 +3,7 @@ title: Сообщение IPM_CLEARADDRESS (Коммктрл. h)
 description: Очищает содержимое элемента управления "IP-адрес".
 ms.assetid: 7ac3ec31-ee34-44af-b012-a7dc4246a847
 keywords:
-- Элементы управления Windows для IPM_CLEARADDRESS сообщений
+- элементы управления Windows сообщений IPM_CLEARADDRESS
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8dde87ee16d21314e7ca1bad3fd9ee51abc34073
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 5d0cc04237887d52a4643c8a290d29f0f4cbaac789d33a944f9d7b776140c796
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104491184"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120085584"
 ---
 # <a name="ipm_clearaddress-message"></a>\_Сообщение IPM клеараддресс
 
@@ -39,15 +39,15 @@ ms.locfileid: "104491184"
 
 Возвращаемое значение не используется.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Offreg.dll
-ms.openlocfilehash: 47454169bee21012010fd7deacec6c1faf3a7d8d
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: b7eae388675cebe300a3dd84607d6bff56078a14addb29d42d6fe76d2b2f6427
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105649010"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120045313"
 ---
 # <a name="orcreatehive-function"></a>Функция Оркреатехиве
 
@@ -54,23 +54,23 @@ DWORD ORCreateHive(
 
 Если недостаточно памяти для создания куста реестра, функция возвращает ошибку \_ \_ недостаточно \_ памяти.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Функция **оркреатехиве** создает пустой куст автономного реестра в памяти. Используйте функции [**оркреатекэй**](orcreatekey.md) и [**орсетвалуе**](orsetvalue.md) , чтобы добавить ключи и задать их значения.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |----------------------------|---------------------------------------------------------------------------------------|
-| Распространяемые компоненты<br/> | Автономная библиотека реестра Windows версии 1,0 или более поздней<br/>                      |
-| Header<br/>          | <dl> <dt>Оффрег. h</dt> </dl>   |
+| Распространяемые компоненты<br/> | Windows Библиотека автономных разделов реестра версии 1,0 или более поздней<br/>                      |
+| Заголовок<br/>          | <dl> <dt>Оффрег. h</dt> </dl>   |
 | DLL<br/>             | <dl> <dt>Offreg.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

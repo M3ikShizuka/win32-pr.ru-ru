@@ -4,12 +4,12 @@ ms.assetid: ad3c8d2e-f074-4db0-bb72-fb2181cbf687
 title: Константы LINECALLHUBTRACKING_ (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9bfae61e36551a7d186408c2c87e0727503540a5
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 98d24b9641e7662871aef64f1358eeddfb58f5c9400b45aee405b8c6d8f134a9
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105675455"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119405194"
 ---
 # <a name="linecallhubtracking_-constants"></a>\_Константы линекаллхубтраккинг
 
@@ -47,7 +47,7 @@ ms.locfileid: "105675455"
 
 </dt> </dl> </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Без расширяемости. Все 32 бит зарезервированы.
 
@@ -60,7 +60,7 @@ ms.locfileid: "105675455"
 | Требование | Значение |
 |-------------------------|-----------------------------------------------------------------------------------|
 | Версия TAPI<br/> | Требуется TAPI 2,2<br/>                                                      |
-| Header<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
+| Заголовок<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
 
 
 

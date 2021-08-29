@@ -4,12 +4,12 @@ description: В следующей таблице приведена после�
 ms.assetid: d868218d-7939-45d1-9e2f-3415c40f1a62
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 08d35285bdf613cb8ec5966fa438742004a97c0a
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 910b1097b21c75788cd802b7316efe023bfb9b61bec3414fd5b35a344e97114c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "103793146"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120080914"
 ---
 # <a name="shutting-down-a-multicast-routing-protocol"></a>Завершение работы протокола многоадресной маршрутизации
 

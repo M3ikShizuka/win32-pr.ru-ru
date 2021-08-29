@@ -4,12 +4,12 @@ ms.assetid: a5d67f83-ac2c-4d6c-b370-654943670125
 title: System. DRM. Датеплайстартс
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d17d6254cce6d7486a3308ee8110ad13841c5d48
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 591514ee157f727500695f6b52c76462bcd0f299a63d109e9b54b70b94da3cce
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104347435"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120010474"
 ---
 # <a name="systemdrmdateplaystarts"></a>System. DRM. Датеплайстартс
 
@@ -31,11 +31,11 @@ propertyDescription
       IsInnate = true
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

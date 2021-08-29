@@ -4,16 +4,16 @@ ms.assetid: 68eefd24-c924-4dd1-8cb3-cc20106f9605
 title: Шифрование и расшифровка данных
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1dd7123544fb9c8fa59291be2eae2c5bf9a120f8
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 250212864ed7cdd9bcd0c7778ae0d0b9209169f5ab36e4fa25e8a336e8da79aa
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103999138"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119874474"
 ---
 # <a name="encrypting-and-decrypting-data"></a>Шифрование и расшифровка данных
 
-\[CAPICOM — это 32-разрядный компонент, доступный для использования в следующих операционных системах: Windows Server 2008, Windows Vista и Windows XP. Вместо этого используйте платформа .NET Framework для реализации функций безопасности. Дополнительные сведения см. [в разделе альтернативы использованию элемента CAPICOM](alternatives-to-using-capicom.md).\]
+\[CAPICOM — это 32-разрядный компонент, доступный для использования в следующих операционных системах: Windows Server 2008, Windows Vista и Windows XP. вместо этого используйте платформа .NET Framework для реализации функций безопасности. Дополнительные сведения см. [в разделе альтернативы использованию элемента CAPICOM](alternatives-to-using-capicom.md).\]
 
 Если документ или текст должен иметь конфиденциальность, защищенную одним пользователем, или если документ должен быть общим для небольшой группы людей, имеющих доступ к одному и тому же паролю секрета, можно выполнить простое шифрование и расшифровку. CAPICOM не поддерживает \# тип содержимого EncryptedData, но использует нестандартную структуру ASN для EncryptedData. Таким образом, только CAPICOM может расшифровать объект CAPICOM EncryptedData.
 
