@@ -4,12 +4,12 @@ ms.assetid: 1135b309-b158-4b70-9f76-5c93d0ad3250
 title: Написание выступающего Евр
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4e80c2c6397282b93aef1db0e5c491234e045472
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.openlocfilehash: f44839d8b48af0a6977bdc6a3af515190e15edef7f5db986bcb888fe69ded7da
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122474750"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119958429"
 ---
 # <a name="how-to-write-an-evr-presenter"></a>Написание выступающего Евр
 
@@ -426,9 +426,45 @@ done:
 
 
 
-
-| | | <a href="/windows/desktop/api/mfidl/nf-mfidl-imfclockstatesink-onclockstart"> <strong>Онклоккстарт</strong></a> | <ol><li>Установите состояние выступающего в значение Started.</li><li>Если <em>ллклоккстартоффсет</em> не <strong>PRESENTATION_CURRENT_POSITION</strong>, очистите очередь выступающих образцов. (Это эквивалентно получению сообщения <strong>MFVP_MESSAGE_FLUSH</strong> .)</li><li>Если предыдущий запрос шага кадра все еще находится в состоянии ожидания, обработайте запрос (см. раздел <a href="#frame-stepping">пошаговое выполнение</a>). В противном случае попробуйте обработать выходные данные микшера (см. раздел <a href="#processing-output">Обработка выходных данных</a>.</li></ol> | | <a href="/windows/desktop/api/mfidl/nf-mfidl-imfclockstatesink-onclockstop"> <strong>Онклоккстоп</strong></a> | <ol><li>Установите состояние выступающего в значение Stopped.</li><li>Очистка очереди выступающих образцов.</li><li>Отмените все ожидающие операции в кадрах.</li></ol> | | <a href="/windows/desktop/api/mfidl/nf-mfidl-imfclockstatesink-onclockpause"><strong>Онклоккпаусе</strong></a> | Установка состояния выступающего в состояние "приостановлено". | | <a href="/windows/desktop/api/mfidl/nf-mfidl-imfclockstatesink-onclockrestart"><strong>Онклоккрестарт</strong></a> | Обрабатываются так же, как <a href="/windows/desktop/api/mfidl/nf-mfidl-imfclockstatesink-onclockstart"><strong>онклоккстарт</strong></a> , но не удаляют очередь образцов. | | <a href="/windows/desktop/api/mfidl/nf-mfidl-imfclockstatesink-onclocksetrate"> <strong>Онклокксетрате</strong></a> | <ol><li>Если скорость меняется с нуля на ненулевой, отмените пошаговое выполнение кадра.</li><li>Хранить новую ставку часов. Частота представления зависят от часов. Дополнительные сведения см. в разделе <a href="#scheduling-samples">примеры планирования</a>.</li></ol> | 
-
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><a href="/windows/desktop/api/mfidl/nf-mfidl-imfclockstatesink-onclockstart"><strong>онклоккстарт</strong></a></td>
+<td><ol>
+<li>Установите состояние выступающего в значение Started.</li>
+<li>Если <em>ллклоккстартоффсет</em> не <strong>PRESENTATION_CURRENT_POSITION</strong>, очистите очередь выступающих образцов. (Это эквивалентно получению сообщения <strong>MFVP_MESSAGE_FLUSH</strong> .)</li>
+<li>Если предыдущий запрос шага кадра все еще находится в состоянии ожидания, обработайте запрос (см. раздел <a href="#frame-stepping">пошаговое выполнение</a>). В противном случае попробуйте обработать выходные данные микшера (см. раздел <a href="#processing-output">Обработка выходных данных</a>.</li>
+</ol></td>
+</tr>
+<tr class="even">
+<td><a href="/windows/desktop/api/mfidl/nf-mfidl-imfclockstatesink-onclockstop"><strong>онклоккстоп</strong></a></td>
+<td><ol>
+<li>Установите состояние выступающего в значение Stopped.</li>
+<li>Очистка очереди выступающих образцов.</li>
+<li>Отмените все ожидающие операции в кадрах.</li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td><a href="/windows/desktop/api/mfidl/nf-mfidl-imfclockstatesink-onclockpause"><strong>онклоккпаусе</strong></a></td>
+<td>Установка состояния выступающего в состояние "приостановлено".</td>
+</tr>
+<tr class="even">
+<td><a href="/windows/desktop/api/mfidl/nf-mfidl-imfclockstatesink-onclockrestart"><strong>онклоккрестарт</strong></a></td>
+<td>Обрабатываются так же, как <a href="/windows/desktop/api/mfidl/nf-mfidl-imfclockstatesink-onclockstart"><strong>онклоккстарт</strong></a> , но не удаляют очередь образцов.</td>
+</tr>
+<tr class="odd">
+<td><a href="/windows/desktop/api/mfidl/nf-mfidl-imfclockstatesink-onclocksetrate"><strong>онклокксетрате</strong></a></td>
+<td><ol>
+<li>Если скорость меняется с нуля на ненулевой, отмените пошаговое выполнение кадра.</li>
+<li>Хранить новую ставку часов. Частота представления зависят от часов. Дополнительные сведения см. в разделе <a href="#scheduling-samples">примеры планирования</a>.</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
 
 
 
@@ -563,17 +599,86 @@ done:
 
 
 
-
-| Событие | Описание | 
-|-------|-------------|
-| <a href="/windows/desktop/DirectShow/ec-complete"><strong>EC_COMPLETE</strong></a> | Выступающий завершил отрисовку всех кадров после сообщения MFVP_MESSAGE_ENDOFSTREAM.<br /><ul><li><em>Param1</em>: HRESULT, указывающий состояние операции.</li><li><em>Param2</em>: не используется.</li></ul>Дополнительные сведения см. в разделе <a href="#end-of-stream">конец потока</a>.<br /> | 
-| <a href="/windows/desktop/DirectShow/ec-display-changed"><strong>EC_DISPLAY_CHANGED</strong></a> | Устройство Direct3D изменилось.<br /><ul><li><em>Param1</em>: не используется.</li><li><em>Param2</em>: не используется.</li></ul>Дополнительные сведения см. <a href="#managing-the-direct3d-device">в разделе Управление устройством Direct3D</a>.<br /> | 
-| <a href="/windows/desktop/DirectShow/ec-errorabort"><strong>EC_ERRORABORT</strong></a> | Произошла ошибка, для которой требуется остановленная потоковая передача.<br /><ul><li><em>Param1</em>: <strong>HRESULT</strong> , указывающий возникшую ошибку.</li><li><em>Param2</em>: не используется.</li></ul> | 
-| <a href="/windows/desktop/DirectShow/ec-processing-latency"><strong>EC_PROCESSING_LATENCY</strong></a> | Указывает время, в течение которого выступающий готовится к просмотру каждого кадра. (Необязательно.)<br /><ul><li><em>Param1</em>: указатель на константное значение <strong>лонглонг</strong> , которое содержит количество времени для обработки кадра в единицах измерения 100-наносекундных.</li><li><em>Param2</em>: не используется.</li></ul>Дополнительные сведения см. в разделе <a href="#processing-output">Обработка выходных данных</a>.<br /> | 
-| <a href="/windows/desktop/DirectShow/ec-sample-latency"><strong>EC_SAMPLE_LATENCY</strong></a> | Указывает текущее время запаздывания в примерах отрисовки. Если значение положительное, выборка отстает от расписания. Если значение отрицательное, выборки выполняются заранее по расписанию. (Необязательно.)<br /><ul><li><em>Param1</em>: указатель на константное значение <strong>лонглонг</strong> , которое содержит время запаздывания в единицах измерения 100-наносекундных.</li><li><em>Param2</em>: не используется.</li></ul> | 
-| <a href="/windows/desktop/DirectShow/ec-scrub-time"><strong>EC_SCRUB_TIME</strong></a> | Отправляется сразу после <strong>EC_STEP_COMPLETE</strong> , если скорость воспроизведения равна нулю. Это событие содержит метку времени отображаемого кадра.<br /><ul><li><em>Param1</em>: младшие 32 бит метки времени.</li><li><em>Param2</em>: верхний 32 бит метки времени.</li></ul>Дополнительные сведения см. в разделе <a href="#frame-stepping">пошаговая отладка кадров</a>.<br /> | 
-| <a href="/windows/desktop/DirectShow/ec-step-complete"><strong>EC_STEP_COMPLETE</strong></a> | Выступающий завершил или отменил шаг кадра.<br /><ul><li><em>Param1</em>: не используется.</li><li><em>Param2</em>: не используется.</li></ul>Дополнительные сведения см. в разделе <a href="#frame-stepping">пошаговая отладка кадров</a>.<br /><blockquote>[!Note]<br />Предыдущая версия документации неправильно описывала параметр <em>param1</em> . Этот параметр не используется для этого события.</blockquote><br /> | 
-
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Событие</th>
+<th>Описание</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="/windows/desktop/DirectShow/ec-complete"><strong>EC_COMPLETE</strong></a></td>
+<td>Выступающий завершил отрисовку всех кадров после сообщения MFVP_MESSAGE_ENDOFSTREAM.<br/>
+<ul>
+<li><em>Param1</em>: HRESULT, указывающий состояние операции.</li>
+<li><em>Param2</em>: не используется.</li>
+</ul>
+Дополнительные сведения см. в разделе <a href="#end-of-stream">конец потока</a>.<br/></td>
+</tr>
+<tr class="even">
+<td><a href="/windows/desktop/DirectShow/ec-display-changed"><strong>EC_DISPLAY_CHANGED</strong></a></td>
+<td>Устройство Direct3D изменилось.<br/>
+<ul>
+<li><em>Param1</em>: не используется.</li>
+<li><em>Param2</em>: не используется.</li>
+</ul>
+Дополнительные сведения см. <a href="#managing-the-direct3d-device">в разделе Управление устройством Direct3D</a>.<br/></td>
+</tr>
+<tr class="odd">
+<td><a href="/windows/desktop/DirectShow/ec-errorabort"><strong>EC_ERRORABORT</strong></a></td>
+<td>Произошла ошибка, для которой требуется остановленная потоковая передача.<br/>
+<ul>
+<li><em>Param1</em>: <strong>HRESULT</strong> , указывающий возникшую ошибку.</li>
+<li><em>Param2</em>: не используется.</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><a href="/windows/desktop/DirectShow/ec-processing-latency"><strong>EC_PROCESSING_LATENCY</strong></a></td>
+<td>Указывает время, в течение которого выступающий готовится к просмотру каждого кадра. (Необязательно.)<br/>
+<ul>
+<li><em>Param1</em>: указатель на константное значение <strong>лонглонг</strong> , которое содержит количество времени для обработки кадра в единицах измерения 100-наносекундных.</li>
+<li><em>Param2</em>: не используется.</li>
+</ul>
+Дополнительные сведения см. в разделе <a href="#processing-output">Обработка выходных данных</a>.<br/></td>
+</tr>
+<tr class="odd">
+<td><a href="/windows/desktop/DirectShow/ec-sample-latency"><strong>EC_SAMPLE_LATENCY</strong></a></td>
+<td>Указывает текущее время запаздывания в примерах отрисовки. Если значение положительное, выборка отстает от расписания. Если значение отрицательное, выборки выполняются заранее по расписанию. (Необязательно.)<br/>
+<ul>
+<li><em>Param1</em>: указатель на константное значение <strong>лонглонг</strong> , которое содержит время запаздывания в единицах измерения 100-наносекундных.</li>
+<li><em>Param2</em>: не используется.</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><a href="/windows/desktop/DirectShow/ec-scrub-time"><strong>EC_SCRUB_TIME</strong></a></td>
+<td>Отправляется сразу после <strong>EC_STEP_COMPLETE</strong> , если скорость воспроизведения равна нулю. Это событие содержит метку времени отображаемого кадра.<br/>
+<ul>
+<li><em>Param1</em>: младшие 32 бит метки времени.</li>
+<li><em>Param2</em>: верхний 32 бит метки времени.</li>
+</ul>
+Дополнительные сведения см. в разделе <a href="#frame-stepping">пошаговая отладка кадров</a>.<br/></td>
+</tr>
+<tr class="odd">
+<td><a href="/windows/desktop/DirectShow/ec-step-complete"><strong>EC_STEP_COMPLETE</strong></a></td>
+<td>Выступающий завершил или отменил шаг кадра.<br/>
+<ul>
+<li><em>Param1</em>: не используется.</li>
+<li><em>Param2</em>: не используется.</li>
+</ul>
+Дополнительные сведения см. в разделе <a href="#frame-stepping">пошаговая отладка кадров</a>.<br/>
+<blockquote>
+[!Note]<br />
+Предыдущая версия документации неправильно описывала параметр <em>param1</em> . Этот параметр не используется для этого события.
+</blockquote>
+<br/></td>
+</tr>
+</tbody>
+</table>
 
 
 

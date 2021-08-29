@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: ae5a888e619f6bed9cda203ccd8a197b0b25c001
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: fb1289bd89771797be88220f49d8af6f468a11c54e9954c32786e3af72dc1956
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105665465"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119908094"
 ---
 # <a name="critcheckout-function"></a>Функция Критчеккаут
 
@@ -53,22 +53,22 @@ BOOL WINAPI CritCheckOut(
 
 В отладочных сборках возвращает **значение false** , если текущий поток является владельцем этой критической секции, или **true** в противном случае. В розничных сборках всегда возвращает **значение true**.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Эта функция является инверсией функции [**критчеккин**](critcheckin.md) . Если **критчеккин** возвращает **значение true**, **критчеккаут** возвращает **значение false** и наоборот.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Вксутил. h (включение Streams. h)</dt> </dl>                                                                                    |
+| Заголовок<br/>  | <dl> <dt>вксутил. h (включает Потоки. h)</dt> </dl>                                                                                    |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

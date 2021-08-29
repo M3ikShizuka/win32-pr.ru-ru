@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 28f1ee1ddb0193f9ccdaa4976e4963e748091f37
-ms.sourcegitcommit: fe03c5d92ca6a0d66a114b2303e99c0a19241ffb
+ms.openlocfilehash: c31305f70698ed59cbb0b6403547f5da51766b1a8859a453a8f6ab5cdfd56dc1
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "103987085"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119949474"
 ---
 # <a name="texm3x3vspec---ps"></a>texm3x3vspec-PS
 
@@ -29,14 +29,14 @@ ms.locfileid: "103987085"
 
 
 
- 
+ 
 
-где
+where
 
 -   DST — это регистр назначения.
 -   src является исходным регистром.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 
 
@@ -46,7 +46,7 @@ ms.locfileid: "103987085"
 
 
 
- 
+ 
 
 Эта инструкция выполняет последнюю строку операции умножения матрицы 3x3, интерпретирует полученный вектор в качестве обычного вектора для отражения вектора с глазами-Ray, а затем использует отраженный вектор в качестве адреса текстуры для поиска текстуры. Он работает так же, как [texm3x3spec-PS](texm3x3spec---ps.md), за исключением того, что вектор глаза-Ray взят из четвертого компонента координат текстуры. Матрица 3x3, как правило, полезна для ориентации обычного вектора на правильное пространство тангенса для отрисовки поверхности.
 
@@ -127,16 +127,16 @@ mov r0, t3            // Output the result
 -   Набор координат текстуры m + 2 назначается строке 3 матрицы 3X3. Этапу m + 2 назначается том или текстура текстуры Куба. Текстура предоставляет данные цвета (RGBA).
 -   В инструкции четвертого компонента (q) данных координат текстуры на этапах m, m + 1 и m + 2 передается элемент «глаз» вектора E.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Инструкции шейдера пикселей](dx9-graphics-reference-asm-ps-instructions.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

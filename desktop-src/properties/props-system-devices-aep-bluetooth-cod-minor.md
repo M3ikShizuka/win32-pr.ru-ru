@@ -1,19 +1,19 @@
 ---
-description: Класс дополнительного кода устройства Bluetooth.
+description: класс Bluetooth дополнительного кода устройства.
 ms.assetid: 56923491-8d03-418a-a0b5-c27206c3f8b0
-title: System. Devices. АЕП. Bluetooth. наложенный. Minor
+title: System. Devices. АЕП. Bluetooth. Наложенный на. дополнительный
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d928b34323ba8ca7d37035842234a011bb2b6c8e
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 9a312a9e2b0d2cefcc51632d29205091d55f5437991c20be74f97ec0c7c9e77d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104080727"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119946234"
 ---
-# <a name="systemdevicesaepbluetoothcodminor"></a>System. Devices. АЕП. Bluetooth. наложенный. Minor
+# <a name="systemdevicesaepbluetoothcodminor"></a>System. Devices. АЕП. Bluetooth. Наложенный на. дополнительный
 
-Класс дополнительного кода устройства Bluetooth.
+класс Bluetooth дополнительного кода устройства.
 
 ## <a name="windows-10-version-1703-windows-10-version-1607-windows-10-version-1511"></a>Windows 10, версия 1703, Windows 10, версия 1607, Windows 10, версия 1511
 
@@ -31,11 +31,11 @@ propertyDescription
       IsInnate = true
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

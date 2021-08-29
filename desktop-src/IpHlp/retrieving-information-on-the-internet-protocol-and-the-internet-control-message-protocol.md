@@ -4,12 +4,12 @@ ms.assetid: b50b3927-6c74-4282-b79b-c86d72d93ae3
 title: Получение сведений о протоколе Интернета и протоколе управляющих сообщений Интернета
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 09b2768ff591b53db79bbbfb38fc2c6c2596ca9c
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 9b5d009ea045e66a65cf585b2196c56ea13ea95c14938b838d1572c9d563a303
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103990868"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119897814"
 ---
 # <a name="retrieving-information-on-the-internet-protocol-and-the-internet-control-message-protocol"></a>Получение сведений о протоколе Интернета и протоколе управляющих сообщений Интернета
 

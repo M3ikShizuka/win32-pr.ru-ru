@@ -4,12 +4,12 @@ ms.assetid: 6830cadd-fa8d-41e1-ac11-a6c8f2795941
 title: Свойство MFPKEY_WMAAECMA_FEATR_CENTER_CLIP (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0936ddfe9e34664e55a20efea35a3c06dd6990e2
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: daf1e4b5760642b72f50c645306739592fe866eaeb8c424d08e2717d9835f839
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104263528"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119953544"
 ---
 # <a name="mfpkey_wmaaecma_featr_center_clip-property"></a>МФПКЭЙ \_ вмааекма \_ Феатр \_ , \_ свойство Clip
 
@@ -27,11 +27,11 @@ ms.locfileid: "104263528"
 
 ВАРИАНТ \_ true
 
-## <a name="applies-to"></a>Применение
+## <a name="applies-to"></a>Применяется к
 
 -   [DSP для записи речи](voicecapturedmo.md)
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Вырезание по центру — это процесс, который удаляет небольшие остатки эха, остающиеся после обработки AEC, в одноразговорных ситуациях (когда речь идет только на одном конце строки).
 
@@ -58,9 +58,9 @@ DSP использует это свойство только в том случ
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                          |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                    |
-| Header<br/>                   | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                          |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                    |
+| Заголовок<br/>                   | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
 
 
 

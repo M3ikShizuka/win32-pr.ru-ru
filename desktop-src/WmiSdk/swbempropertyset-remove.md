@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 5b6903ae05c801d5903754ef8df0bb02cad51204
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 7a79c99243cbbb18e761295980b98e56a6db926e3885de6ed2d0b53aafe084db
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104155826"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119897914"
 ---
 # <a name="swbempropertysetremove-method"></a>SWbemPropertySet. Remove, метод
 
@@ -118,7 +118,7 @@ SWbemPropertySet.Remove( _
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Невозможно удалить свойства из экземпляров класса или производных классов с унаследованными свойствами. Такие попытки удаления вызывают ошибку, и свойство не удаляется. свойство сбрасывается до значения по умолчанию.
 
@@ -136,7 +136,7 @@ SWbemPropertySet.Remove( _
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Wbemdisp. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_SWBEMPROPERTYSET CLSID<br/>                                                      |

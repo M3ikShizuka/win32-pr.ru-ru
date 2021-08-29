@@ -18,12 +18,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: b8179287686439ea31c19d700a785de7fff47659
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: da27b652058a6205cb7dcc6ffa6527beac066482eb331aefd79351a3ee1fc113
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104262673"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119924534"
 ---
 # <a name="cim_deviceconnection-class-cimwin32-wmi-providers"></a>Класс CIM_DeviceConnection (поставщики WMI CIMWin32)
 
@@ -55,7 +55,7 @@ class CIM_DeviceConnection : CIM_Dependency
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **CIM \_ девицеконнектион** имеет следующие свойства.
 
@@ -127,7 +127,7 @@ class CIM_DeviceConnection : CIM_Dependency
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **CIM \_ девицеконнектион** является производным от [**\_ зависимости CIM**](cim-dependency.md).
 

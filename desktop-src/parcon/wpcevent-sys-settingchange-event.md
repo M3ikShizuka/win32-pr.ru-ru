@@ -4,12 +4,12 @@ ms.assetid: 2540c3cc-96d0-4e01-a525-4da4a857cb58
 title: Событие WPCEVENT_SYS_SETTINGCHANGE (Впцевент. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4ea0efb4d68fabcb5f9216c4ccf3bb923ee0ff54
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 7771560de0424b3a03c937e8ad2a08fdb2f23cec77fd02b6c04b29aacf16b434
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105712853"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119951142"
 ---
 # <a name="wpcevent_sys_settingchange-event"></a>\_ \_ Событие сеттингчанже впцевент sys
 
@@ -68,7 +68,7 @@ const EVENT_DESCRIPTOR WPCEVENT_SYS_SETTINGCHANGE = {0x1, 0x0, 0x10, 0x4, 0x15, 
 
 </dd> <dt>
 
-*Необязательный* 
+*Необязательно* 
 </dt> <dd>
 
 Необязательное поле.
@@ -81,9 +81,9 @@ const EVENT_DESCRIPTOR WPCEVENT_SYS_SETTINGCHANGE = {0x1, 0x0, 0x10, 0x4, 0x15, 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                             |
-| Header<br/>                   | <dl> <dt>Впцевент. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Впцевент. h</dt> </dl> |
 
 
 

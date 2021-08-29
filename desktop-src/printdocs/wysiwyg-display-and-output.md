@@ -4,12 +4,12 @@ ms.assetid: 34a1f37c-0fbf-451b-bb55-80ad85bcd4de
 title: Отображение и вывод WYSIWYG
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 92c03e4fa653c0d8e891cb079a7a7e7a003f9ad1
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 36ee426665508bee1299c1fe2c84cbcdcd647fa3989c053744a339ba1f1ad109
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105712700"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119947181"
 ---
 # <a name="wysiwyg-display-and-output"></a>Отображение и вывод WYSIWYG
 

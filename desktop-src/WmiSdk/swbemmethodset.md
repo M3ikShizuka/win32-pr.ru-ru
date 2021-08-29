@@ -15,12 +15,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: d47c4dc8335077d6f8568be4b56200558942ac39
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 238df7081bab7324b187bde10c109e7ca15a717373f2ffa1ff7a831532007d75
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103910280"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119954934"
 ---
 # <a name="swbemmethodset-object"></a>Объект Свбеммесодсет
 
@@ -60,7 +60,7 @@ ms.locfileid: "103910280"
 
 | Свойство                                         | Тип доступа          | Описание                                       |
 |:-------------------------------------------------|:---------------------|:--------------------------------------------------|
-| [**Расчета**](swbemmethodset-count.md)<br/> | Только для чтения<br/> | Количество элементов в коллекции.<br/> |
+| [**Count**](swbemmethodset-count.md)<br/> | Только для чтения<br/> | Количество элементов в коллекции.<br/> |
 
 
 
@@ -74,7 +74,7 @@ ms.locfileid: "103910280"
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Wbemdisp. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_СВБЕММЕСОДСЕТ CLSID<br/>                                                        |

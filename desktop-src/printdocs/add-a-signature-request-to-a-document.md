@@ -4,12 +4,12 @@ ms.assetid: 95eb1887-8754-43e0-8886-1f23653bff26
 title: Добавление запроса подписи в документ XPS
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9db0d3a899dd49f141adf5cd23ea8c837c8b12d8
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 2c4ec1acf5d85ea20a1ba5908324a3645b3e944d28e3e6c7aa540d278ad88fa0
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105693421"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119950854"
 ---
 # <a name="add-a-signature-request-to-an-xps-document"></a>Добавление запроса подписи в документ XPS
 
@@ -82,7 +82,7 @@ AddSignatureRequestToDocument (
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

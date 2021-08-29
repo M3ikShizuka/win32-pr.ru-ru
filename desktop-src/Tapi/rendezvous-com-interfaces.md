@@ -4,16 +4,16 @@ ms.assetid: d9634586-8315-46d3-9ffc-bfa9a4d7738e
 title: Встречные COM-интерфейсы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c6df7fbdac45480ae7aa9d5968209f22fabe9a4a
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 05978b3536b2bb6d3cb384372c00f9052c2d602b51fb52e79f88d6f8eff2ca32
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105683410"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120080484"
 ---
 # <a name="rendezvous-com-interfaces"></a>Встречные COM-интерфейсы
 
-\[ В Windows Vista, Windows Server 2008 и последующих версиях операционной системы нельзя использовать встречные средства и элементы управления Конференц-телефонией и интерфейсы. API клиента RTC предоставляет аналогичные функциональные возможности.\]
+\[встречи и элементы управления встречными IP-телефонными соединениями недоступны для использования в Windows Vista, Windows Server 2008 и последующих версиях операционной системы. API клиента RTC предоставляет аналогичные функциональные возможности.\]
 
 В следующей таблице перечислены COM-объекты и интерфейсы, связанные с элементами управления встречными конференциями.
 

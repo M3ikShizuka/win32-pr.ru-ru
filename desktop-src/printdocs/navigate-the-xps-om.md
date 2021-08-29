@@ -4,12 +4,12 @@ ms.assetid: 90b726aa-29da-4cfb-9c69-f471c2acb678
 title: Навигация по OM XPS
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c0ec33543867f66dd4da65ef95aab0cdfd8cfe0f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 39c1ca083ead7cf6294fb4243dd477e2bcb9bdd2f2924a4039b6c22dbe825b27
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105684038"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119948364"
 ---
 # <a name="navigate-the-xps-om"></a>Навигация по OM XPS
 
@@ -177,7 +177,7 @@ ms.locfileid: "105684038"
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

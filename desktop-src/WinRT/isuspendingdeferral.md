@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Windows.ApplicationModel.h
-ms.openlocfilehash: e4f1801960f2d3b9183550e18fb76378bf4f17f3
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 16a9d61dc68d296d39ab5a76b634d136a8e88b8987ac4990696a43ab396b68e9
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105647170"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119898664"
 ---
 # <a name="isuspendingdeferral-interface"></a>Интерфейс Исуспендингдеферрал
 
@@ -44,20 +44,20 @@ ms.locfileid: "105647170"
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 8\]<br/>                                                              |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2012\]<br/>                                                    |
-| Header<br/>                   | <dl> <dt>Windows. ApplicationModel. h</dt> </dl>   |
+| Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                                              |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                                    |
+| Заголовок<br/>                   | <dl> <dt>Windows. ApplicationModel. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>Windows. ApplicationModel. idl</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

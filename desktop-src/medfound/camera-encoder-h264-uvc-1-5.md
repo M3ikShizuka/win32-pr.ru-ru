@@ -4,12 +4,12 @@ ms.assetid: B3D500DF-1FD4-4D7C-B6F8-8DE4B957ED5C
 title: H. 264 УВК 1,5 кодировщики камеры
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7e0bffc2380098600be9acb4786c6a6598a99aee
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 65a7ba895ae06e6f8cfa036bf890aa7a6b8d82c5e38c432951f44cb44899c580
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104072583"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119959174"
 ---
 # <a name="h264-uvc-15-camera-encoders"></a>H. 264 УВК 1,5 кодировщики камеры
 
@@ -39,9 +39,9 @@ ms.locfileid: "104072583"
 -   [\_ \_ Использование H264 Single bitrate MF \_ MT \_ поддерживается](mf-mt-h264-supported-usages.md)
 -   [Возможности сервера MF \_ MT \_ H264 Single bitrate \_ \_](mf-mt-h264-svc-capabilities.md)
 
-Сведения о разработке драйверов устройств для кодировщиков камеры H. 264 УВК 1,5 см. в статье [новые темы австреам для Windows 8](/windows-hardware/drivers/stream/new-windows-8-ddis).
+Сведения о разработке драйверов устройств для кодировщиков камеры H. 264 УВК 1,5 см. в разделе [новые темы австреам Windows 8](/windows-hardware/drivers/stream/new-windows-8-ddis).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

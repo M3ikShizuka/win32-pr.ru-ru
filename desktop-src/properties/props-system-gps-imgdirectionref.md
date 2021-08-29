@@ -4,12 +4,12 @@ ms.assetid: 81937ef2-af86-4434-8000-dd944ad14e9c
 title: System. GPS. Имгдиректионреф
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3463905d1c1781c753df7eda23ce24fced012ca1
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: f6be3ec9489d07ad550b2bc88c28de038a970b02e984df404019abdcd1714d91
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103999709"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119945704"
 ---
 # <a name="systemgpsimgdirectionref"></a>System. GPS. Имгдиректионреф
 
@@ -30,11 +30,11 @@ propertyDescription
       type = String
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

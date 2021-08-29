@@ -4,12 +4,12 @@ ms.assetid: 0149BD8B-8C9D-47FD-9EC1-BEBEE73BC73E
 title: Атрибут MF_DEVICESTREAM_MULTIPLEXED_MANAGER (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b495b4054337aaa709bee430ae78ff4bed658911
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 4b2c022f2bb74756ce1a6afe471c23911c90a208e2940e9919f275df10a78ff1
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105647240"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119956664"
 ---
 # <a name="mf_devicestream_multiplexed_manager-attribute"></a>\_Атрибут девицестреам \_ мультиплексированного \_ диспетчера MF
 
@@ -19,7 +19,7 @@ ms.locfileid: "105647240"
 
 **[**IUnknown**](/windows/win32/api/unknwn/nn-unknwn-iunknown)**
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Передайте это значение в [**имфаттрибутес:: Ununknown**](/windows/desktop/api/mfobjects/nf-mfobjects-imfattributes-getunknown) , чтобы определить, предоставляет ли источник мультимедиа мультиплексированные потоки, и, если это так, получите экземпляр [**имфмуксстреаматтрибутесманажер**](/windows/desktop/api/mfobjects/nn-mfobjects-imfmuxstreamattributesmanager).
 
@@ -29,9 +29,9 @@ ms.locfileid: "105647240"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только для настольных приложений Windows 10 версии 1703\]<br/>                          |
+| Минимальная версия клиента<br/> | Windows 10, только для \[ настольных приложений версии 1703\]<br/>                          |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 

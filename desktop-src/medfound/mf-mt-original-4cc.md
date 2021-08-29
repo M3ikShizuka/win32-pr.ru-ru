@@ -4,12 +4,12 @@ ms.assetid: 2e6ef198-5754-4ded-9fe3-61edd0742a17
 title: Атрибут MF_MT_ORIGINAL_4CC (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b374ba3ef74cb98925edcc5d809e1fd5e0b7fbcc
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: ff7f53ac5a7ca8bc55ad8958d79b67c291d9c263faf33706aa580b3d4b86cfb8
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103999172"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119955534"
 ---
 # <a name="mf_mt_original_4cc-attribute"></a>\_ \_ Исходный \_ атрибут 4CC MF
 
@@ -29,7 +29,7 @@ ms.locfileid: "103999172"
 
 [**имфмедиатипе**](/windows/desktop/api/mfobjects/nn-mfobjects-imfmediatype)
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 В зависимости от исходного файла источник AVI Media может установить этот атрибут для типов мультимедиа, которые он предлагает.
 
@@ -43,19 +43,19 @@ ms.locfileid: "103999172"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 7\]<br/>                                         |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2008 R2 \[\]<br/>                            |
-| Header<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
+| Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                         |
+| Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/>                            |
+| Заголовок<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

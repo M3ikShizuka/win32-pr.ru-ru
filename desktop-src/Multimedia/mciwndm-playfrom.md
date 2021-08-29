@@ -3,7 +3,7 @@ title: Сообщение MCIWNDM_PLAYFROM (VFW. h)
 description: Сообщение МЦИВНДМ \_ плайфром воспроизводит содержимое устройства mci из указанного расположения в конец содержимого или до тех пор, пока другая команда не останавливает воспроизведение. Это сообщение можно отправить явно или с помощью макроса МЦивндплайфром.
 ms.assetid: 1c47f8eb-2a1b-4671-a9f8-fd6d59a5c7c6
 keywords:
-- MCIWNDM_PLAYFROM сообщения Windows мультимедиа
+- сообщение MCIWNDM_PLAYFROM Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2c0fa1b3f4b3359e1609b3ba12009fe5879c304a
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 67f9f2885b67f82c2285bcaacb395c626dbe460800a2683f72dad0730999e843
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103988307"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120037994"
 ---
 # <a name="mciwndm_playfrom-message"></a>\_Сообщение мЦивндм плайфром
 
@@ -49,11 +49,11 @@ lParam = (LPARAM) (LONG) lPos;
 
 Возвращает нуль в случае успеха или ошибку в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Можно также указать начальное и конечное расположение для воспроизведения с помощью макроса [**мЦивндплайфромто**](/windows/desktop/api/Vfw/nf-vfw-mciwndplayfromto) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -65,7 +65,7 @@ lParam = (LPARAM) (LONG) lPos;
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

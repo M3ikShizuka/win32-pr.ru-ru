@@ -33,12 +33,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 49974b966e1378350e8e5475ef14bb092b3aaea1
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 13e487be4aaa8a9b1222429d2b78ff7b1b0ebdce854cbe9911e5a1b931299d3a
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104141701"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119923345"
 ---
 # <a name="cim_logicaldevice-class-cimwin32-wmi-providers"></a>Класс CIM_LogicalDevice (поставщики WMI CIMWin32)
 
@@ -304,7 +304,7 @@ class CIM_LogicalDevice : CIM_LogicalElement
 
 </dd> <dt>
 
-**Заголовок**
+**Caption**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -375,7 +375,7 @@ class CIM_LogicalDevice : CIM_LogicalElement
 
 <span id="The_driver_for_this_device_needs_a_resource_that_Windows_cannot_manage."></span><span id="the_driver_for_this_device_needs_a_resource_that_windows_cannot_manage."></span><span id="THE_DRIVER_FOR_THIS_DEVICE_NEEDS_A_RESOURCE_THAT_WINDOWS_CANNOT_MANAGE."></span>
 
-**Драйверу для этого устройства требуется ресурс, который Windows не может управлять.** (5)
+**драйверу для этого устройства нужен ресурс, который Windows не может управлять.** (5)
 
 
 </dt> <dd></dd> <dt>
@@ -515,14 +515,14 @@ class CIM_LogicalDevice : CIM_LogicalElement
 
 <span id="Windows_is_still_setting_up_this_device."></span><span id="windows_is_still_setting_up_this_device."></span><span id="WINDOWS_IS_STILL_SETTING_UP_THIS_DEVICE."></span>
 
-**Это устройство все еще настраивается Windows.** (25)
+**Windows все еще настраивает это устройство.** (25)
 
 
 </dt> <dd></dd> <dt>
 
 <span id="Windows_is_still_setting_up_this_device."></span><span id="windows_is_still_setting_up_this_device."></span><span id="WINDOWS_IS_STILL_SETTING_UP_THIS_DEVICE."></span>
 
-**Это устройство все еще настраивается Windows.** (26)
+**Windows все еще настраивает это устройство.** (26)
 
 
 </dt> <dd></dd> <dt>
@@ -557,7 +557,7 @@ class CIM_LogicalDevice : CIM_LogicalElement
 
 <span id="This_device_is_not_working_properly_because_Windows_cannot_load_the_drivers_required_for_this_device."></span><span id="this_device_is_not_working_properly_because_windows_cannot_load_the_drivers_required_for_this_device."></span><span id="THIS_DEVICE_IS_NOT_WORKING_PROPERLY_BECAUSE_WINDOWS_CANNOT_LOAD_THE_DRIVERS_REQUIRED_FOR_THIS_DEVICE."></span>
 
-**Это устройство работает неправильно, так как Windows не может загрузить драйверы, необходимые для этого устройства.** 1-31
+**это устройство работает неправильно, так как Windows не может загрузить драйверы, необходимые для этого устройства.** 1-31
 
 
 </dt> <dd></dd> </dl>
@@ -687,7 +687,7 @@ class CIM_LogicalDevice : CIM_LogicalElement
 
 </dd> <dt>
 
-**Name**
+**Имя**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1034,7 +1034,7 @@ class CIM_LogicalDevice : CIM_LogicalElement
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Характеристики логического устройства, которые управляют операцией или конфигурацией, содержатся в объекте **CIM \_** , или связываются с ним. Например, в качестве рабочих свойств принтера поддерживаются размеры бумаги или обнаруженные ошибки. Например, свойства конфигурации устройства датчика являются пороговыми значениями. Для логического устройства могут существовать различные конфигурации, которые содержатся в объектах [**\_ параметров CIM**](cim-setting.md) , связанных с логическим устройством.
 

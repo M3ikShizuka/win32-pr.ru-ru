@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2ae22df0061c893d3ea44f0850b9ce2c1e73490f
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 79bb42ba961dda1e6eec6dc7e8b190110988e12fa652713bb103501735cb482b
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105652263"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120081104"
 ---
 # <a name="router-management-data-types"></a>Типы данных управления маршрутизаторами
 
@@ -44,7 +44,7 @@ ms.locfileid: "105652263"
 
 
 
-Структура [**\_ PARAMS1 в \_ конфигурации \_ туннеля IKEV2**](/windows/desktop/api/mprapi/ns-mprapi-ikev2_tunnel_config_params1) поддерживается в Windows Server 2008 R2 и более ранних версиях.
+структура [**\_ PARAMS1 в \_ конфигурации \_ туннеля IKEV2**](/windows/desktop/api/mprapi/ns-mprapi-ikev2_tunnel_config_params1) поддерживается в Windows Server 2008 R2 и более ранних версиях.
 
 
 </dt> </dl> </dd> <dt>
@@ -54,7 +54,7 @@ ms.locfileid: "105652263"
 
 
 
-[**При поддержке \_ пользовательской \_ структуры \_ \_ CONFIG0**](/windows/desktop/api/mprapi/ns-mprapi-router_ikev2_if_custom_config0) в Windows Server 2012 поддерживается маршрутизатор IKEv2.
+Если в Windows Server 2012 поддерживается структура [**\_ \_ \_ Custom \_ CONFIG0, используется маршрутизатор IKEv2**](/windows/desktop/api/mprapi/ns-mprapi-router_ikev2_if_custom_config0) .
 
 
 </dt> </dl> </dd> <dt>
@@ -79,13 +79,13 @@ ms.locfileid: "105652263"
 
 </dt> </dl> </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|-------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Мпрапи. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Мпрапи. h</dt> </dl> |
 
 
 

@@ -3,7 +3,7 @@ title: Сообщение LB_SETTABSTOPS (Winuser. h)
 description: Задает позиции табуляции в поле со списком.
 ms.assetid: b96b974e-b1e6-4361-98bb-4dc21c752690
 keywords:
-- Элементы управления Windows для LB_SETTABSTOPS сообщений
+- элементы управления Windows сообщений LB_SETTABSTOPS
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f21927aaf82624242e8d42ef4a7459f1e36cdf74
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 6d842b0c7e2cdcc792227ecb390fa3bc2a4c9d210b7c028b266c867a0c473808
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103892457"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120085324"
 ---
 # <a name="lb_settabstops-message"></a>Сообщение сеттабстопс балансировки нагрузки \_
 
@@ -47,7 +47,7 @@ ms.locfileid: "103892457"
 
 Если заданы все указанные вкладки, возвращаемое значение равно **true**; в противном случае — **false**.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Чтобы ответить на сообщение **\_ Сеттабстопса балансировки нагрузки** , список должен быть создан с помощью стиля [**фунта \_ усетабстопс**](list-box-styles.md) .
 
@@ -57,21 +57,21 @@ ms.locfileid: "103892457"
 
 Значения, заданные параметром *lParam* , находятся в шаблонах диалоговых окон, которые являются аппаратно-независимыми устройствами, используемыми в шаблонах диалоговых окон. Чтобы преобразовать измерения из шаблона диалогового окна в единицы экрана (в пикселях), используйте функцию [**мапдиалогрект**](/windows/desktop/api/winuser/nf-winuser-mapdialogrect) .
 
-Windows 95, Windows 98/Windows Millennium Edition (Windows Me): буфер, на который указывает *lParam* , должен находиться в памяти, доступной для записи, несмотря на то, что сообщение не изменяет массив.
+Windows 95/Windows 98/Windows Millennium Edition (Windows Me). буфер, на который указывает *lParam* , должен находиться в памяти, доступной для записи, даже если сообщение не изменяет массив.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                                           |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включение Windows. h)</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                           |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

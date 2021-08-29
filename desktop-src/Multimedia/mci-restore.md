@@ -3,7 +3,7 @@ title: Команда MCI_RESTORE (Ммсистем. h)
 description: Команда MCI \_ RESTORE Копирует растровое изображение из файла в буфер кадров. Устройство Digital-Video распознает эту команду. Эта команда выполняет обратное действие \_ команды захвата MCI.
 ms.assetid: ed309cc6-72a3-4abb-aef2-40a55381d8b6
 keywords:
-- MCI_RESTORE команды мультимедиа Windows
+- команда MCI_RESTORE Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6b0c82db597a0e347f382c7cda55ce507f4e6dcc
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 4a51753dbb5ed265bc9d60d5aafed38a9618854cb63500c1bf58e4d20b87a1ed
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103803257"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120038894"
 ---
 # <a name="mci_restore-command"></a>\_Команда восстановления MCI
 
@@ -68,9 +68,9 @@ MCIERROR mciSendCommand(
 
 Возвращает нуль в случае успеха или ошибку в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-Реализация может распознать различные форматы изображений, но всегда принимается независимый от устройства точечный рисунок Windows (DIB).
+реализация может распознать различные форматы изображений, однако всегда принимается Windows независимый от устройства точечный рисунок (DIB).
 
 Следующие дополнительные флаги применяются к устройствам цифрового видео:
 
@@ -98,7 +98,7 @@ MCIERROR mciSendCommand(
 |-------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                                |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                      |
-| Заголовок<br/>                   | <dl> <dt>Ммсистем. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>ммсистем. h (включает Windows. h)</dt> </dl> |
 
 
 

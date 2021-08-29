@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Nmapi.dll
-ms.openlocfilehash: 37a75f946a5fc0ddb2b32d99334368a272fdf2e6
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 29be85c3181e9ae3ffeab9c6bf9ea3a8c2795b47b8a3e2c1f9afc8732ec7840c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105663455"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119910734"
 ---
 # <a name="getframetimestamp-function"></a>Функция Жетфраметиместамп
 
@@ -52,7 +52,7 @@ __int64 WINAPI GetFrameTimeStamp(
 
 Если функция завершилась неудачно, возвращаемое значение равно минус единице (-1).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Функция **жетфраметиместамп** возвращает метку времени, которая показывает время, прошедшее с начала процесса записи, и запись кадра.
 

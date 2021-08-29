@@ -25,12 +25,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: ee009570c3fd4e97cf5774ac401fab49c8b134e0
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: d2de6b6c18252ff983e7bee338c42aa7b91f7fd0e23433f1da9af3691383fbfa
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104263059"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120017284"
 ---
 # <a name="jet_dbidnil-property"></a>JET_DBID. Nil, свойство
 
@@ -59,7 +59,7 @@ public static JET_DBID Nil { get; }
 
 Тип: [Microsoft.ISAM.ESENT.Interop.JET_DBID](./jet-dbid-structure.md)  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 #### <a name="reference"></a>Справочник
 

@@ -4,12 +4,12 @@ ms.assetid: 4e1450aa-bf89-4d44-b463-4016660f5508
 title: МСИНОДИСАБЛЕМЕДИА, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 93510263cbe182c66305dcc08c10d908709e1259
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: dfd4179995de7d509699b642ea7314497206d300850c3a83915dcdbd9901d2a6
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105652056"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120082844"
 ---
 # <a name="msinodisablemedia-property"></a>МСИНОДИСАБЛЕМЕДИА, свойство
 
@@ -21,13 +21,13 @@ ms.locfileid: "105652056"
 
 Если [**дисаблемедиа**](-disablemedia.md) указан в свойстве [**Админпропертиес**](adminproperties.md) , установка **мсинодисаблемедиа** предотвращает установку **дисаблемедиа** во время административной установки. В этом случае установщик может зарегистрировать источник мультимедиа, и пользователь может выполнить переустановку из источника носителя, если исходный образ административной установки стал недоступным позже.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/> | Установщик Windows 5,0 в Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Установщик Windows 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Установщик Windows в Windows Server 2003, Windows XP и Windows 2000. Сведения о минимальном пакете обновления Windows, который требуется для установщик Windows версии, см. в [установщик Windows Run-Time требования](windows-installer-portal.md) .<br/> |
+| Версия<br/> | Windows установщик 5,0 на Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Windows установщик 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Windows установщик на Windows Server 2003, Windows XP и Windows 2000. сведения о минимальном Windows пакета обновления, который требуется для установщик Windows версии, см. в [установщик Windows требования к Run-Time](windows-installer-portal.md) .<br/> |
 
 
 

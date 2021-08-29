@@ -3,7 +3,7 @@ title: Структура MCI_OVLY_LOAD_PARMS (Ммсистем. h)
 description: '\_ \_ Структура ПАРМС загрузки MCI овли \_ содержит сведения для \_ команды MCI Load для устройств наложения видео.'
 ms.assetid: 701c27da-72bf-493d-a679-9e0bd210215d
 keywords:
-- MCI_OVLY_LOAD_PARMS структура мультимедиа Windows
+- структура MCI_OVLY_LOAD_PARMS Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2029e92f7991f1ae5d8d0bdbabc76eef456a36ec
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: dc966b51224246dbceda46927f605c214ba4809a1cca451813a1075811fa5225
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104071094"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120039104"
 ---
 # <a name="mci_ovly_load_parms-structure"></a>\_ \_ Структура ПАРМС загрузки MCI овли \_
 
@@ -59,15 +59,15 @@ typedef struct {
 **RC**
 </dt> <dd>
 
-Определяет область обновляемого буфера видео. Структуры [Rect](/previous-versions//ms536136(v=vs.85)) в MCI обрабатываются по-разному, чем в других частях Windows. в MCI, **RC. Right** содержит ширину прямоугольника и **RC. Bottom** содержит его высоту.
+Определяет область обновляемого буфера видео. Структуры [Rect](/previous-versions//ms536136(v=vs.85)) в MCI обрабатываются по-разному, чем в других частях Windows; в MCI, **RC. Right** содержит ширину прямоугольника и **RC. Bottom** содержит его высоту.
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 При назначении данных членам этой структуры установите соответствующие флаги в параметре *фдвкомманд* функции [**мЦисендкомманд**](/previous-versions//dd757160(v=vs.85)) , чтобы проверить элементы.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -79,7 +79,7 @@ typedef struct {
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

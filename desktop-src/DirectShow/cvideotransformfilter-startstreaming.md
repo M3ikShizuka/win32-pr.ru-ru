@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 5ae8d49401389830f9d5dbf0ec91e7f390c51ca6
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 53d448228a650718f8c57d6019dcfb1f3f23f03468e86a77fae167e6481e718c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105675035"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119998474"
 ---
 # <a name="cvideotransformfilterstartstreaming-method"></a>Квидеотрансформфилтер. Стартстреаминг, метод
 
@@ -44,7 +44,7 @@ virtual HRESULT StartStreaming();
 
 Возвращает значение S \_ ОК.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот метод сбрасывает всю статистику производительности.
 
@@ -54,7 +54,7 @@ virtual HRESULT StartStreaming();
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Втранс. h (включение Streams. h)</dt> </dl>                                                                                    |
+| Заголовок<br/>  | <dl> <dt>втранс. h (включает Потоки. h)</dt> </dl>                                                                                    |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 

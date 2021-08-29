@@ -4,12 +4,12 @@ ms.assetid: 34d7a2c8-8ac3-4900-9dd9-a7bb7e19b911
 title: Свойство Авенкмпвсканпаттерн (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9792ee945d70d1fc0181b964ed4f52977a6c6997
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 03662dd6fdac5abe38bc0de424ac570578f3c2c4734fb14e77e46e9a2067fbf1
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "104072146"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119999964"
 ---
 # <a name="avencmpvscanpattern-property"></a>Авенкмпвсканпаттерн, свойство
 
@@ -35,9 +35,9 @@ ms.locfileid: "104072146"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Приложения Windows 2000 Professional \[ классические приложения \| UWP\]<br/>                     |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows 2000 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 2000 Professional приложения \[ UWP для классических приложений \|\]<br/>                     |
+| Минимальная версия сервера<br/> | \[приложения UWP для классических приложений Windows 2000 \|\]<br/>                           |
+| Заголовок<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
 
 
 

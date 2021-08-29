@@ -4,12 +4,12 @@ description: В следующем примере кода показано, к�
 ms.assetid: 559459e9-8446-4f37-8123-7d01f8ed427b
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d56330ccc88904a173ae116ddd5513cd9c13d99a
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: f9c4240fd10b02ccd9459ffbe70d06eb6e3331d69d11eaf77944886552c50cee
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104410684"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120081004"
 ---
 # <a name="search-for-the-best-route"></a>Поиск лучшего маршрута
 
@@ -48,9 +48,9 @@ if (Status == NO_ERROR)
 
 
 
- 
+ 
 
- 
+ 
 
 
 

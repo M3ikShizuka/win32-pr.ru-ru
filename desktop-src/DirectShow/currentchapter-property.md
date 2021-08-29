@@ -4,17 +4,17 @@ ms.assetid: f810106b-a5da-44ac-87e6-1c21cf750d9f
 title: Куррентчаптер, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 06cd00536b2290c6e03dfe0d5778d1ad6f598763
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 358d62f6dc2a0f4600510ad62a8996ffcc641737ce3d2f58acff85c6febcc7ae
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "103805663"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119998824"
 ---
 # <a name="currentchapter-property"></a>Куррентчаптер, свойство
 
 > [!Note]  
-> Этот компонент доступен для использования в операционных системах Microsoft Windows 2000, Windows XP и Windows Server 2003. В последующих версиях он может быть изменен или недоступен.
+> этот компонент доступен для использования в операционных системах Microsoft Windows 2000, Windows XP и Windows Server 2003. В последующих версиях он может быть изменен или недоступен.
 
  
 
@@ -28,7 +28,7 @@ ms.locfileid: "103805663"
 
 Возвращает целочисленное значение, представляющее текущую главу в текущем заголовке.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это свойство доступно только для чтения и не имеет значения по умолчанию.
 

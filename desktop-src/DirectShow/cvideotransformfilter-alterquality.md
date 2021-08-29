@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 1de0985b8cb3a8db6f45c247e717042cf344655f
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 6cd2568bfc9518e2eeaf0399fa53796e305d246c511e5ee5bea1d3a1cacf7712
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105656847"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119998624"
 ---
 # <a name="cvideotransformfilteralterquality-method"></a>Квидеотрансформфилтер. Алтеркуалити, метод
 
@@ -53,7 +53,7 @@ virtual HRESULT AlterQuality(
 
 Возвращает значение E \_ Fail.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот метод вызывается, когда выходной ПИН-код получает качественное сообщение (с помощью метода [**икуалитиконтрол:: notify**](/windows/desktop/api/Strmif/nf-strmif-iqualitycontrol-notify) ).
 
@@ -65,7 +65,7 @@ virtual HRESULT AlterQuality(
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Втранс. h (включение Streams. h)</dt> </dl>                                                                                    |
+| Заголовок<br/>  | <dl> <dt>втранс. h (включает Потоки. h)</dt> </dl>                                                                                    |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 

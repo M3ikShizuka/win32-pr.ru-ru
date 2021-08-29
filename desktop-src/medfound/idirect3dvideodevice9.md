@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - dxva.h
-ms.openlocfilehash: 89afef6f39b3aa196d8b1013e3d8873e329ce6ef
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 7dca1db868b4b268e71175f8f44aa198a6ebb45c8a14f8bfc1bec7044d5545f0
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104155186"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119958214"
 ---
 # <a name="idirect3dvideodevice9-interface"></a>Интерфейс IDirect3DVideoDevice9
 
@@ -26,7 +26,7 @@ ms.locfileid: "104155186"
 
 ## <a name="when-to-use"></a>Назначение
 
-Этот интерфейс не предназначен для общего использования приложением. Фильтры декодера DirectShow должны использовать интерфейс [**иамвидеоакцелератор**](/previous-versions/windows/desktop/api/videoacc/nn-videoacc-iamvideoaccelerator) , а не **IDirect3DVideoDevice9**. Входные контакты фильтра формирователя микширования видео (VMR) и фильтра микшера наложения предоставляют **иамвидеоакцелератор**.
+Этот интерфейс не предназначен для общего использования приложением. DirectShow фильтры декодера должны использовать интерфейс [**иамвидеоакцелератор**](/previous-versions/windows/desktop/api/videoacc/nn-videoacc-iamvideoaccelerator) , а не **IDirect3DVideoDevice9**. входные контакты фильтра "микширование видео" (VMR) и Mixerного фильтра раскрывают **иамвидеоакцелератор**.
 
 ## <a name="members"></a>Элементы
 
@@ -53,7 +53,7 @@ ms.locfileid: "104155186"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Чтобы получить указатель на этот интерфейс, вызовите метод **QueryInterface** для указателя [**IDirect3DDevice9**](/windows/win32/api/d3d9helper/nn-d3d9helper-idirect3ddevice9) или [**IDirect3DDevice9Ex**](/windows/win32/api/d3d9/nn-d3d9-idirect3ddevice9ex) .
 
@@ -65,9 +65,9 @@ ms.locfileid: "104155186"
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                    |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                              |
-| Header<br/>                   | <dl> <dt>Дксва. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                    |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                              |
+| Заголовок<br/>                   | <dl> <dt>Дксва. h</dt> </dl> |
 
 
 

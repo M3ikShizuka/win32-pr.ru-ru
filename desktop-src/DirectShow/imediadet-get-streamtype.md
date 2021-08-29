@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 5834183229580c1aadbcbe80e54a30e9b9b60c03
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 1a027059854ba02e4a846660435731f140b6d04cb8d96f714fd63f1d24757ca1
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105689259"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120083724"
 ---
 # <a name="imediadetget_streamtype-method"></a>Метод Имедиадет:: Get \_ стреамтипе
 
@@ -56,7 +56,7 @@ HRESULT get_StreamType(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот метод извлекает элемент **мажортипе** структуры [**\_ \_ типа мультимедиа AM**](/windows/win32/api/strmif/ns-strmif-am_media_type) . Структура **\_ \_ типа мультимедиа AM** описывает формат потока, а элемент **мажортипе** — идентификатор GUID, указывающий общую категорию, например аудио или видео. Для потока видео GUID — это видео типа MEDIATYPE \_ . Для звукового сигнала используется параметр MEDIATYPE \_ Audio. Чтобы получить всю структуру **\_ \_ типа мультимедиа AM** , вызовите метод [**имедиадет:: Get \_ стреаммедиатипе**](imediadet-get-streammediatype.md) .
 
@@ -70,22 +70,22 @@ HRESULT get_StreamType(
  
 
 > [!Note]  
-> Чтобы получить Кедит. h, скачайте [обновление Microsoft Windows SDK для Windows Vista и платформа .NET Framework 3,0](https://msdn.microsoft.com/windowsvista/bb980924.aspx). Кедит. h недоступен в Microsoft Windows SDK для Windows 7 и платформа .NET Framework 3,5 с пакетом обновления 1 (SP1).
+> чтобы получить кедит. h, скачайте [обновление Microsoft Windows SDK для Windows Vista и платформа .NET Framework 3,0](https://msdn.microsoft.com/windowsvista/bb980924.aspx). кедит. h недоступен в Microsoft Windows SDK для Windows 7 и платформа .NET Framework 3,5 с пакетом обновления 1 (sp1).
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Кедит. h</dt> </dl>      |
+| Заголовок<br/>  | <dl> <dt>Кедит. h</dt> </dl>      |
 | Библиотека<br/> | <dl> <dt>Стрмиидс. lib</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

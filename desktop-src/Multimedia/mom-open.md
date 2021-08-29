@@ -3,7 +3,7 @@ title: Сообщение MOM_OPEN (Ммсистем. h)
 description: Сообщение о \_ открытом вызове MOM отправляется в функцию обратного вызова MIDI OUTPUT при открытии выходного устройства MIDI.
 ms.assetid: f3360482-7d16-419c-b5d1-0dd3a6e3c690
 keywords:
-- MOM_OPEN сообщения Windows мультимедиа
+- сообщение MOM_OPEN Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 24072aad6bff9ce192460c2c8525da4506f32746
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 650291df51382640da2c3b4fb21910da4271ca96ace2d5711558d43501080795
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103803671"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120038844"
 ---
 # <a name="mom_open-message"></a>\_Открытое сообщение MOM
 
@@ -56,7 +56,7 @@ dwParam2 = reserved
 
 Это сообщение не возвращает значение.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -64,11 +64,11 @@ dwParam2 = reserved
 |-------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                                |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                      |
-| Заголовок<br/>                   | <dl> <dt>Ммсистем. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>ммсистем. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

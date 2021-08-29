@@ -15,12 +15,12 @@ api_type:
 - DllExport
 api_location:
 - vmms.exe
-ms.openlocfilehash: cad5de9389b9cb1d5e7db0573f3a4e3fc271ba31
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: b24c99d4e4c066122dbc26c79433668cd965a2bdcce13e3ceb319fb23a954fdf
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103896834"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119899034"
 ---
 # <a name="msvm_virtualmachinetodisks-class"></a>\_Класс мсвм виртуалмачинетодискс
 
@@ -45,7 +45,7 @@ class Msvm_VirtualMachineToDisks
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **мсвм \_ виртуалмачинетодискс** имеет следующие свойства.
 
@@ -83,7 +83,7 @@ class Msvm_VirtualMachineToDisks
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ настольных приложений Windows 10\]<br/>                                                             |
+| Минимальная версия клиента<br/> | Windows 10 \[ только классические приложения\]<br/>                                                             |
 | Минимальная версия сервера<br/> | Windows Server 2016<br/>                                                                          |
 | Пространство имен<br/>                | Корневая \\ виртуализация \\ версии 2<br/>                                                                     |
 | MOF<br/>                      | <dl> <dt>Виндовсвиртуализатион. v2. mof</dt> </dl> |

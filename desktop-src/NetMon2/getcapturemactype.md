@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Nmapi.dll
-ms.openlocfilehash: 73569109db5b958e854135461a0e480178d0105a
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 4405d1b0c5618951360c8b22732796dffdffeb557849388159411c9a17924591
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103808722"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119910804"
 ---
 # <a name="getcapturemactype-function"></a>Функция Жеткаптуремактипе
 
@@ -67,7 +67,7 @@ DWORD WINAPI GetCaptureMacType(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Маркер записи может быть получен несколькими способами в зависимости от того, кто выполняет вызов. Для экспертов этот маркер указывается в элементе **хкаптуре** структуры [експертстартупинфо](expertstartupinfo.md) . Для средств синтаксического анализа можно получить маркер записи, вызвав функцию [жетфрамекаптурехандле](getframecapturehandle.md) .
 
