@@ -4,12 +4,12 @@ ms.assetid: 52947832-e634-4ecb-861e-c84a84a45fc0
 title: System. Проплист. всплывающая подсказка
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b43b51a7d785bfdf1b485db7c8aa56d164de23b7
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: a404f2ff685134b2f706f7a5a8f55c417a1febca1a60a021584a2d02fdfd5d0e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105702139"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118465609"
 ---
 # <a name="systemproplistinfotip"></a>System. Проплист. всплывающая подсказка
 
@@ -30,11 +30,11 @@ propertyDescription
       type = String
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

@@ -7,12 +7,12 @@ keywords:
 - API сервера HTTP, начальная страница
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d8f99045b24d0ef79c267615791c62da50ed8e40
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.openlocfilehash: 47a73d23ffc8f498f4135e07f2b933eddf2896866336a70e11bd9bbf360cacdc
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "104133858"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118950843"
 ---
 # <a name="http-server-api"></a>API сервера HTTP
 
@@ -26,7 +26,7 @@ API сервера HTTP позволяет приложениям взаимод
 
 ## <a name="run-time-requirements"></a>Требования к среде выполнения
 
-API сервера HTTP поддерживается в операционных системах Windows Server 2003 и Windows XP с пакетом обновления 2 (SP2). Имейте в виду, что Microsoft IIS 5, работающий в Windows XP с пакетом обновления 2 (SP2), не может использовать порт 80 совместно с другими приложениями HTTP, работающими одновременно.
+API сервера HTTP поддерживается в операционных системах Windows server 2003 и в Windows XP с пакетом обновления 2 (SP2). имейте в виду, что Microsoft IIS 5, работающий на Windows XP с пакетом обновления 2 (SP2), не может использовать порт 80 совместно с другими приложениями HTTP, работающими одновременно.
 
 ## <a name="in-this-section"></a>В этом разделе
 
@@ -43,11 +43,11 @@ API сервера HTTP поддерживается в операционных
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
-[Службы HTTP Windows (WinHTTP)](/windows/desktop/WinHttp/winhttp-start-page)
+[Windows Службы HTTP (WinHTTP)](/windows/desktop/WinHttp/winhttp-start-page)
 </dt> </dl>
 
  

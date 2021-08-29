@@ -3,22 +3,22 @@ title: Устранение неполадок приложений
 description: В этом разделе приводятся решения распространенных проблем.
 ms.assetid: dfdc5a97-aa0a-4011-8f61-6e405e28b6f8
 keywords:
-- Windows Touch, устранение неполадок приложений
-- Windows Touch, отклонение Palm
+- Windows Сенсорный ввод, устранение неполадок в приложениях
+- Windows Сенсорный ввод, отклонение Palm
 - отклонение Palm
-- Windows Touch, поддержка прежних версий
-- Устранение неполадок Windows Touch
+- Windows Поддержка поддержки прежних версий
+- устранение неполадок Windows Touch
 - инерция, устранение неполадок приложений
 - манипуляции, устранение неполадок приложений
 - жесты, устранение неполадок приложений
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 389d200cedc57b7f128a535355b12a9288c6e9eb
-ms.sourcegitcommit: 099ecdda1e83618b844387405da0db0ebda93a65
+ms.openlocfilehash: 166f8c02fde7a9f53d1303c3e79a4fc9910be309
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "111443154"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122881855"
 ---
 # <a name="troubleshooting-applications"></a>Устранение неполадок приложений
 
@@ -30,7 +30,7 @@ ms.locfileid: "111443154"
 
 | Категория | Описание |
 |----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Проблема    | Я использую Windows Server 2008, а функции касания Windows не работают.                                                                                                                                                                                                                                       |
+| Проблема    | я использую Windows Server 2008, и функции сенсорного Windows не работают.                                                                                                                                                                                                                                       |
 | Причина    | Вы не включили возможности рабочего стола.                                                                                                                                                                                                                                                                        |
 | Решение | Откройте средство администрирования диспетчер сервера: нажмите кнопку **Пуск**, выберите пункт **Администрирование**, а затем щелкните **Диспетчер сервера**. Щелкните элемент **компоненты** в левом столбце. Щелкните **Добавить компоненты** в разделе **компоненты** . Выберите **возможности рабочего стола**, нажмите кнопку **Далее**, а затем — **установить**. |
 
@@ -54,13 +54,13 @@ ms.locfileid: "111443154"
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col  />
+<col  />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td>Проблема</td>
-<td>Не удается различить входные данные мыши и сенсорный ввод Windows.</td>
+<td>я не могу различить ввод с помощью мыши и Windows сенсорный ввод.</td>
 </tr>
 <tr class="even">
 <td>Причина</td>
@@ -71,7 +71,7 @@ ms.locfileid: "111443154"
 <td>Вы можете вызвать <a href="/windows/win32/api/winuser/nf-winuser-getmessageextrainfo">жетмессажеекстраинфо</a> для <strong>WM_LBUTTONDOWN</strong> и <strong>WM_LBUTTONUP</strong> сообщений, чтобы определить источник. В следующем коде показано, как это можно сделать. <span data-codelanguage="ManagedCPlusPlus"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -104,9 +104,9 @@ if ((GetMessageExtraInfo() & MOUSEEVENTF_FROMTOUCH) == MOUSEEVENTF_FROMTOUCH) {
 
 | Категория | Описание |
 |----------|------------------------------------------------------------------------------------|
-| Проблема    | Разделы справки запускать приложения Microsoft Пикселсенсе в Windows 7?                       |
-| Причина    | Windows Touch и Microsoft Пикселсенсе несовместимы.                           |
-| Решение | Необходимо ориентироваться на платформу Windows 7 или платформу Microsoft Пикселсенсе. |
+| Проблема    | Разделы справки запускать приложения Microsoft PixelSense на Windows 7?                       |
+| Причина    | Windows технологии Touch и Microsoft PixelSense несовместимы.                           |
+| Решение | необходимо ориентироваться на платформу Windows 7 или платформу Microsoft PixelSense. |
 
 
 
@@ -120,7 +120,7 @@ if ((GetMessageExtraInfo() & MOUSEEVENTF_FROMTOUCH) == MOUSEEVENTF_FROMTOUCH) {
 |----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Проблема    | Мое приложение заморозить без причины. Я получаю нарушения прав доступа при инициализации интерфейсов объектов.                                                                                                                                          |
 | Причина    | Отсутствие вызова **CoInitialize** при использовании интерфейсов [**IManipulationProcessor**](/windows/desktop/api/manipulations/nn-manipulations-imanipulationprocessor) или [**IInertiaProcessor**](/windows/desktop/api/manipulations/nn-manipulations-iinertiaprocessor) .                                                                                 |
-| Решение | Это может быть вызвано созданием объектов модели COM Windows Touch без вызова CoInitialize. Это происходит иногда при преобразовании проектов из использования жестов в использование манипуляций или интерфейсов инерции. |
+| Решение | это может быть вызвано созданием Windows объектов модели объектов COM без вызова coinitialize. Это происходит иногда при преобразовании проектов из использования жестов в использование манипуляций или интерфейсов инерции. |
 
 
 
@@ -138,7 +138,7 @@ if ((GetMessageExtraInfo() & MOUSEEVENTF_FROMTOUCH) == MOUSEEVENTF_FROMTOUCH) {
 
  
 
-## <a name="troubleshooting-windows-touch-input"></a>Устранение неполадок сенсорного ввода Windows
+## <a name="troubleshooting-windows-touch-input"></a>устранение неполадок Windows сенсорного ввода
 
 
 
@@ -146,7 +146,7 @@ if ((GetMessageExtraInfo() & MOUSEEVENTF_FROMTOUCH) == MOUSEEVENTF_FROMTOUCH) {
 |----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Проблема    | После того как я обработал сообщение [**WM \_ Touch**](wm-touchdown.md) , я прекращаю получать отзывы о границе.                                                                                                                                                                                                                                        |
 | Причина    | Использование сообщения [**WM \_ Touch**](wm-touchdown.md) без его обработки.                                                                                                                                                                                                                                                           |
-| Решение | Возможно, вы используете Windows Touch, не пересылая его в **дефвиндовпрок**, что приведет к непредвиденному поведению. Чтобы получить дополнительные сведения о правильной обработке сообщений [**WM \_ Touch**](wm-touchdown.md) , проверьте [Начало работы с помощью сенсорных сообщений Windows](getting-started-with-multi-touch-messages.md) . |
+| Решение | вероятно, вы используете Windows сенсорного сообщения, не пересылая его в **дефвиндовпрок**, что приведет к непредвиденному поведению. дополнительные сведения о правильной обработке сообщений [**WM \_ touch**](wm-touchdown.md) см. в [начало работы с сообщениями Windows Touch](getting-started-with-multi-touch-messages.md) . |
 
 
 
@@ -156,8 +156,8 @@ if ((GetMessageExtraInfo() & MOUSEEVENTF_FROMTOUCH) == MOUSEEVENTF_FROMTOUCH) {
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col  />
+<col  />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -166,14 +166,14 @@ if ((GetMessageExtraInfo() & MOUSEEVENTF_FROMTOUCH) == MOUSEEVENTF_FROMTOUCH) {
 </tr>
 <tr class="even">
 <td>Причина</td>
-<td>Неправильная версия Windows в Targetver. h.</td>
+<td>неправильная версия Windows в Targetver. h.</td>
 </tr>
 <tr class="odd">
 <td>Решение</td>
-<td>В проекте не задана правильная версия Windows. Следующий код иллюстрирует правильную установку версий Windows для Windows 7. <span data-codelanguage="ManagedCPlusPlus"></span>
+<td>в проекте не задана правильная версия Windows. следующий код иллюстрирует правильную установку Windows версий для Windowsного касания в Windows 7. <span data-codelanguage="ManagedCPlusPlus"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -201,8 +201,8 @@ if ((GetMessageExtraInfo() & MOUSEEVENTF_FROMTOUCH) == MOUSEEVENTF_FROMTOUCH) {
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col  />
+<col  />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -218,7 +218,7 @@ if ((GetMessageExtraInfo() & MOUSEEVENTF_FROMTOUCH) == MOUSEEVENTF_FROMTOUCH) {
 <td>Убедитесь, что вызывается <a href="/windows/desktop/api/winuser/nf-winuser-touch_coord_to_pixel"><strong>TOUCH_COORD_TO_PIXEL</strong></a> и <a href="/windows/desktop/api/winuser/nf-winuser-screentoclient"><strong>скринтоклиент</strong></a>. В следующем примере кода показано, как это сделать: <span data-codelanguage="ManagedCPlusPlus"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -229,7 +229,7 @@ if ((GetMessageExtraInfo() & MOUSEEVENTF_FROMTOUCH) == MOUSEEVENTF_FROMTOUCH) {
 <tr class="odd">
 <td><pre><code>      POINT ptInput;
       if (GetTouchInputInfo((HTOUCHINPUT)lParam, cInputs, pInputs, sizeof(TOUCHINPUT))){
-        for (int i=0; i < static_cast<INT>(cInputs); i++){
+        for (int i=0; i < static_cast&lt;INT&gt;(cInputs); i++){
           TOUCHINPUT ti = pInputs[i];                       
           if (ti.dwID != 0){                
             // Do something with your touch input handle.
@@ -266,7 +266,7 @@ if ((GetMessageExtraInfo() & MOUSEEVENTF_FROMTOUCH) == MOUSEEVENTF_FROMTOUCH) {
 
 | Категория | Описание |
 |----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Проблема    | Я не вижу сообщений [**WM \_ Touch**](wm-touchdown.md) , но я знаю, что касание Windows работает, так как я вижу сообщения [**\_ жестов WM**](wm-gesture.md) .                                                             |
+| Проблема    | я не вижу сообщений [**wm \_ TOUCH**](wm-touchdown.md) , но я знаю, что Windows касание работает, так как я вижу сообщения [**\_ жестов wm**](wm-gesture.md) .                                                             |
 | Причина    | Отсутствует вызов [**регистертаучвиндов**](/windows/desktop/api/winuser/nf-winuser-registertouchwindow).                                                                                                                                                          |
 | Решение | [**WM \_ Сообщения жестов сенсорного ввода**](wm-touchdown.md) и [**WM \_**](wm-gesture.md) являются взаимоисключающими. Если не вызвать [**регистертаучвиндов**](/windows/desktop/api/winuser/nf-winuser-registertouchwindow), будут получены только сообщения **\_ жестов WM** . |
 
@@ -286,7 +286,7 @@ if ((GetMessageExtraInfo() & MOUSEEVENTF_FROMTOUCH) == MOUSEEVENTF_FROMTOUCH) {
 
  
 
-## <a name="troubleshooting-windows-touch-gestures"></a>Устранение неполадок сенсорных жестов Windows
+## <a name="troubleshooting-windows-touch-gestures"></a>устранение неполадок Windows сенсорных жестов
 
 
 
@@ -294,7 +294,7 @@ if ((GetMessageExtraInfo() & MOUSEEVENTF_FROMTOUCH) == MOUSEEVENTF_FROMTOUCH) {
 |----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Проблема    | После обработки сообщения [**\_ жеста WM**](wm-gesture.md) я прекращаю получать отзывы о границе. Или жест, который работал ранее, сейчас не работает.                                                                                                                                                                                                                         |
 | Причина    | Использование сообщения [**\_ жеста WM**](wm-gesture.md) без его обработки.                                                                                                                                                                                                                                                                                                    |
-| Решение | Возможно, вы используете Windows Touch, не пересылая его в [дефвиндовпрок](/windows/win32/api/winuser/nf-winuser-defwindowproca), что приведет к непредвиденному поведению. Дополнительные сведения о правильной обработке сообщений [**\_ жестов WM**](wm-gesture.md) см. в [Начало работы с помощью жестов Windows](getting-started-with-multi-touch-gestures.md) . |
+| Решение | вероятно, вы используете Windows сенсорного сообщения, не пересылая его в [дефвиндовпрок](/windows/win32/api/winuser/nf-winuser-defwindowproca), что приведет к непредвиденному поведению. чтобы получить дополнительные сведения о правильной обработке сообщений [**\_ жестов WM**](wm-gesture.md) , проверьте [начало работы с помощью жестов Windows](getting-started-with-multi-touch-gestures.md) . |
 
 
 
@@ -304,7 +304,7 @@ if ((GetMessageExtraInfo() & MOUSEEVENTF_FROMTOUCH) == MOUSEEVENTF_FROMTOUCH) {
 
 | Категория | Описание |
 |----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Проблема    | Я не вижу сообщения [**\_ жестов WM**](wm-gesture.md) , но я знаю, что касание Windows работает, так как я вижу сообщения [**WM \_ Touch**](wm-touchdown.md) .                                                      |
+| Проблема    | я не вижу сообщения [**\_ жестов WM**](wm-gesture.md) , но я знаю, что Windows касание работает, так как я вижу сообщения [**WM \_ Touch**](wm-touchdown.md) .                                                      |
 | Причина    | Вызов [**регистертаучвиндов**](/windows/desktop/api/winuser/nf-winuser-registertouchwindow).                                                                                                                                                             |
 | Решение | [**WM \_ Сообщения жестов сенсорного ввода**](wm-touchdown.md) и [**WM \_**](wm-gesture.md) являются взаимоисключающими. При вызове [**регистертаучвиндов**](/windows/desktop/api/winuser/nf-winuser-registertouchwindow)вы не получите сообщения **\_ жестов WM** . |
 
@@ -316,8 +316,8 @@ if ((GetMessageExtraInfo() & MOUSEEVENTF_FROMTOUCH) == MOUSEEVENTF_FROMTOUCH) {
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col  />
+<col  />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -333,7 +333,7 @@ if ((GetMessageExtraInfo() & MOUSEEVENTF_FROMTOUCH) == MOUSEEVENTF_FROMTOUCH) {
 <td>Необходимо вызвать <a href="/windows/desktop/api/winuser/nf-winuser-setgestureconfig"><strong>сетжестуреконфиг</strong></a> при получении сообщения <a href="wm-gesturenotify.md"><strong>WM_GESTURENOTIFY</strong></a> , как описано в справочнике по <strong>WM_GESTURENOTIFY</strong> , или необходимо добавить обработчик для сообщения <strong>WM_GESTURENOTIFY</strong> . В следующем коде показано, как можно реализовать обработчик, чтобы обеспечить поддержку вращения. <span data-codelanguage="ManagedCPlusPlus"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">

@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a7c397e96d4f3b0dbb172c6e10eba4e09ff96e37
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 08099eef88751377e3e905e4883a694d78df095472c4e8dc39ed7d0af5f64505
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104135319"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119138547"
 ---
 # <a name="imsrdpdrivev2-interface"></a>Интерфейс IMsRdpDriveV2
 
@@ -33,7 +33,7 @@ ms.locfileid: "104135319"
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Интерфейс **IMsRdpDriveV2** имеет следующие свойства.
 

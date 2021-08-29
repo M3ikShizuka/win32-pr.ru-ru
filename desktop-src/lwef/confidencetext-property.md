@@ -4,16 +4,16 @@ description: Конфиденцетекст, свойство
 ms.assetid: ff856af7-c5ad-4970-8778-b59a76c5e276
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: eb30b5ac481b6011d3575ab99dbc389f426b085d
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.openlocfilehash: 0b6612d4ade657748674fb4dd7391f447849691dcd756f2320f590c00ac33430
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "104412886"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119963154"
 ---
 # <a name="confidencetext-property"></a>Конфиденцетекст, свойство
 
-\[Microsoft Agent является устаревшим в Windows 7 и может быть недоступен в последующих версиях Windows.\]
+\[Microsoft Agent является устаревшим по отношению к Windows 7 и может быть недоступен в последующих версиях Windows.\]
 
 <dl> <dt>
 
@@ -27,24 +27,24 @@ ms.locfileid: "104412886"
 <span id="Syntax"></span><span id="syntax"></span><span id="SYNTAX"></span>**Syntax**
 </dt> <dd>
 
-* Агент ***. Символы ("*** чарактерид ***"). Команды ("*** имя ***")**.  \[ Конфиденцетекст  =  *строка*\]
+*Агент ***. Символы ("**_чарактерид_*_"). Команды ("_*_имя_*_")_*.  \[ Конфиденцетекст  =  *строка*\]
 
 
 
-| Отделение     | Описание                                                                                                           |
+| Часть     | Описание                                                                                                           |
 |----------|-----------------------------------------------------------------------------------------------------------------------|
-| *string* | Строковое выражение, результатом которого является текст для **Конфиденцетекст** [**команды**](/windows/desktop/lwef/the-command-object). |
+| *строка* | Строковое выражение, результатом которого является текст для **Конфиденцетекст** [**команды**](/windows/desktop/lwef/the-command-object). |
 
 
 
- 
+ 
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если возвращенное значение достоверности наилучшего соответствия (UserInput. достоверность) не превышает параметр [**достоверности**](confidence-property.md) , сервер отображает текст, указанный в **конфиденцетекст** , в подсказке прослушивания.
 
- 
+ 
 
- 
+ 

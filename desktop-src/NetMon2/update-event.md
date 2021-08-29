@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Netmon.h
-ms.openlocfilehash: 3da45020a68114182a71b25ff9bba380d3f89eee
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 51fda96f988a6420acd772182c3259a3de09a10b8a9c2ac8678025e26f5fa15a
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105673576"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119962814"
 ---
 # <a name="update_event-structure"></a>ОБНОВИТЬ \_ структуру событий
 
@@ -144,7 +144,7 @@ typedef struct _UPDATE_EVENT {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Пользователи C++ должны отметить, что объявление для этого обратного вызова должно находиться в открытой части файла заголовка:
 

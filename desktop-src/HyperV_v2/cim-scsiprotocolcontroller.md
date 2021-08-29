@@ -111,7 +111,7 @@ class CIM_SCSIProtocolController : CIM_ProtocolController
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

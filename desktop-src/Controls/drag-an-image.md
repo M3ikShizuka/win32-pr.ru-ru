@@ -4,27 +4,27 @@ description: В этом разделе показано, как перетащ�
 ms.assetid: 84AFA770-F495-4312-9631-3335BA8CC799
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: da495ef9ee0895c04a856f456fcda3e3125f2957
-ms.sourcegitcommit: 5f33645661bf8c825a7a2e73950b1f4ea0f1cd82
+ms.openlocfilehash: 9fdcbc5af1ad148dafc77a775e7ee901ce8c4d07221ab1e55fca251e51241fef
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "103794149"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120062944"
 ---
 # <a name="how-to-drag-an-image"></a>Как перетащить изображение
 
 В этом разделе показано, как перетащить изображение на экране. Перетаскивая функции перемещают изображение плавно, в цвете и без мигания курсора. Можно перетащить как маскированные, так и немаскированные изображения.
 
-## <a name="what-you-need-to-know"></a>Что необходимо знать
+## <a name="what-you-need-to-know"></a>Это важно знать
 
 ### <a name="technologies"></a>Технологии
 
--   [Элементы управления Windows](window-controls.md)
+-   [Windows Элементы управления](window-controls.md)
 
-### <a name="prerequisites"></a>Предварительные условия
+### <a name="prerequisites"></a>Предварительные требования
 
 -   C/C++
--   Программирование пользовательского интерфейса Windows
+-   Windows Программирование пользовательского интерфейса
 
 ## <a name="instructions"></a>Инструкции
 
@@ -151,7 +151,7 @@ BOOL StopDragging(HWND hwnd, HIMAGELIST himl, POINT ptCur)
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -164,6 +164,6 @@ BOOL StopDragging(HWND hwnd, HIMAGELIST himl, POINT ptCur)
 [Использование списков изображений](using-image-lists.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

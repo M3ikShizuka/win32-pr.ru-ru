@@ -4,12 +4,12 @@ description: В этом разделе описывается, как при в
 ms.assetid: 7302f0f3-f29d-43d7-8e25-4f36d5ef6a86
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 96865191ac64b14dd35ff1d22631c6bf11763aff
-ms.sourcegitcommit: 5f33645661bf8c825a7a2e73950b1f4ea0f1cd82
+ms.openlocfilehash: d12ac8f0998af2580615e7ab72de6350747aa32dc8e8008eb80caff180b9186b
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "104488385"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120063654"
 ---
 # <a name="button-states"></a>Состояния кнопок
 
@@ -67,6 +67,6 @@ ms.locfileid: "104488385"
 
 Приложение может определить состояние кнопки, отправив ей сообщение BM- [**\_ Check**](bm-getcheck.md) или BM- [**\_ State**](bm-getstate.md) ; приложение может установить состояние кнопки, отправив ему сообщение [**BM \_ сетчекк**](bm-setcheck.md) или [**BM \_ SETSTATE**](bm-setstate.md) .
 
- 
+ 
 
- 
+ 

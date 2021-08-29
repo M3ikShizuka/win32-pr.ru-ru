@@ -4,12 +4,12 @@ ms.assetid: 73f23aed-d1b9-4821-b1ca-0a07f02b6913
 title: Атрибут MF_TRANSCODE_DONOT_INSERT_ENCODER (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 92d3f8fc5dabfd3e4c55c6242ba9b8f52b6f5c2b
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 81217f23feeadf988d8969af3820330e08f5f9237ac2d747c832a70a49178737
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105692540"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "117690996"
 ---
 # <a name="mf_transcode_donot_insert_encoder-attribute"></a>MF \_ \_ не разграничения \_ Вставить \_ атрибут кодировщика
 
@@ -32,7 +32,7 @@ ms.locfileid: "105692540"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
@@ -42,13 +42,13 @@ ms.locfileid: "105692540"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 7\]<br/>                                         |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2008 R2 \[\]<br/>                            |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                         |
+| Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/>                            |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

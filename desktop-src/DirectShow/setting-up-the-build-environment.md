@@ -1,41 +1,41 @@
 ---
-description: Создание приложений DirectShow
+description: создание приложений DirectShow
 ms.assetid: 2fbdbe49-0d4d-4dce-afc3-7049c793ace0
-title: Создание приложений DirectShow
+title: создание приложений DirectShow
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 56c6ab8a0731e93eece734abd4380b092414ff5f
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 4e6c062c97d64373668ef8bfd7eaf02b5d514bd648c3bc5b67ac6803d1fd804f
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "105672933"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118951903"
 ---
-# <a name="building-directshow-applications"></a>Создание приложений DirectShow
+# <a name="building-directshow-applications"></a>создание приложений DirectShow
 
-В этом разделе описываются заголовки и библиотеки, необходимые для создания приложений DirectShow.
+в этом разделе описываются заголовки и библиотеки, необходимые для создания приложений DirectShow.
 
-В [Windows SDK](https://msdn.microsoft.com/windows/aa904949.aspx)доступны последние заголовки и библиотеки DirectShow.
+последние DirectShow заголовки и библиотеки доступны в [Windows SDK](https://msdn.microsoft.com/windows/aa904949.aspx).
 
 ## <a name="header-files"></a>Файлы заголовков
 
-Все приложения DirectShow используют файл заголовка, показанный в следующей таблице.
+все приложения DirectShow используют файл заголовка, показанный в следующей таблице.
 
 
 
 | Файл заголовка | Требуется для                 |
 |-------------|------------------------------|
-| DShow. h     | Все приложения DirectShow. |
+| DShow. h     | все DirectShow приложения. |
 
 
 
  
 
-Для некоторых интерфейсов DirectShow требуются дополнительные файлы заголовков. Эти требования указаны в справочнике по интерфейсу.
+для некоторых интерфейсов DirectShow требуются дополнительные файлы заголовков. Эти требования указаны в справочнике по интерфейсу.
 
 ## <a name="library-files"></a>Файлы библиотек
 
-DirectShow использует статические файлы библиотек, приведенные в следующей таблице.
+DirectShow использует статические файлы библиотеки, приведенные в следующей таблице.
 
 
 
@@ -52,13 +52,13 @@ DirectShow использует статические файлы библиот
 
 ## <a name="filter-base-classes"></a>Фильтровать базовые классы
 
-Windows SDK предоставляет набор классов C++, рекомендуемых при написании настраиваемого фильтра DirectShow. Эти классы предоставляются в виде образца кода, который можно скомпилировать в статическую библиотеку. Дополнительные сведения см. в разделе [базовые классы DirectShow](directshow-base-classes.md).
+Windows SDK предоставляет набор классов C++, которые рекомендуются при написании настраиваемого фильтра DirectShow. Эти классы предоставляются в виде образца кода, который можно скомпилировать в статическую библиотеку. дополнительные сведения см. в разделе [DirectShow базовых классов](directshow-base-classes.md).
 
 ## <a name="redistributable-dlls"></a>Распространяемые библиотеки DLL
 
-Приложения DirectShow, написанные для Windows XP с пакетом обновления 2 (SP2) и более поздних версий, не требуют повторного распространения DLL-библиотек DirectShow.
+DirectShow приложений, написанных для Windows XP с пакетом обновления 2 (sp2) и более поздних версий, не требуется распространять какие-либо DirectShow библиотеки dll.
 
-Для Windows XP с пакетом обновления 1 (SP1) и более ранних версий распространяемые DLL-библиотеки DirectShow доступны в пакете SDK для Microsoft DirectX. Последняя версия этих библиотек DLL — версия 9.0 c. Дальнейшая разработка распространяемых библиотек DLL не планируется. Windows XP с пакетом обновления 2 (SP2) содержит библиотеки DLL версии 9.0 c.
+для Windows XP с пакетом обновления 1 (SP1) и более ранними версиями, распространяемые DirectShow библиотеки dll доступны в пакете SDK для Microsoft DirectX. Последняя версия этих библиотек DLL — версия 9.0 c. Дальнейшая разработка распространяемых библиотек DLL не планируется. Windows XP с пакетом обновления 2 (SP2) содержит библиотеки DLL версии 9.0 c.
 
 Пакеты редстрибутабле содержат следующие библиотеки DLL:
 
@@ -112,11 +112,11 @@ Windows SDK предоставляет набор классов C++, реком
     -   wstcodec.sys
     -   wstdecod.dll
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
-[Создание фильтров DirectShow](building-directshow-filters.md)
+[создание фильтров DirectShow](building-directshow-filters.md)
 </dt> </dl>
 
  

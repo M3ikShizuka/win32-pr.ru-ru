@@ -4,12 +4,12 @@ ms.assetid: 7b1577c4-ec92-4c14-9bea-2c7d92819ff7
 title: System. photo. Фнумберденоминатор
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b5a7182a89719a7a24e6d384a9c15b9c4969bf8a
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: cf477f7fa63275251aa25b160dbca3b41693328fd971c44535695fd627eb71fe
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104545234"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119095946"
 ---
 # <a name="systemphotofnumberdenominator"></a>System. photo. Фнумберденоминатор
 
@@ -30,11 +30,11 @@ propertyDescription
       type = UInt32
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

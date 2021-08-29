@@ -1,6 +1,6 @@
 ---
 title: Класс Win32_RemoteAppChangeEvent
-description: Представляет изменение параметров удаленного рабочего стола Windows Server 2008 R2 на сервере узла сеансов удаленный рабочий стол (узел сеансов удаленных рабочих столов).
+description: представляет изменение параметров Windows server 2008 R2 RemoteApp на сервере узла сеансов удаленный рабочий стол (узел сеанса удаленных рабочих столов).
 ms.assetid: 3434ee4e-283e-4147-a73b-c131e8af6c57
 ms.tgt_platform: multiple
 keywords:
@@ -18,16 +18,16 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5355d057038e97e9f381646134ff6487541f67f6
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: f4adbb8fd609022256435e9145098fe7adcf82d0ef2e8ebb9e98c5146a263605
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104135895"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118848809"
 ---
 # <a name="win32_remoteappchangeevent-class"></a>\_Класс Win32 ремотеаппчанжеевент
 
-Представляет изменение параметров удаленного рабочего стола Windows Server 2008 R2 на сервере узла сеансов удаленный рабочий стол (узел сеансов удаленных рабочих столов).
+представляет изменение параметров Windows server 2008 R2 RemoteApp на сервере узла сеансов удаленный рабочий стол (узел сеанса удаленных рабочих столов).
 
 ## <a name="syntax"></a>Синтаксис
 
@@ -45,7 +45,7 @@ class Win32_RemoteAppChangeEvent : ExtrinsicEvent
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ ремотеаппчанжеевент** имеет следующие свойства.
 
@@ -79,9 +79,9 @@ class Win32_RemoteAppChangeEvent : ExtrinsicEvent
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-Чтобы подключиться к \\ \\ пространству имен root cimv2 терминалсервицес, уровень проверки подлинности должен включать в себя конфиденциальность пакетов. Для вызовов C/C++ это уровень проверки подлинности " **PKT" RPC \_ C \_ AUTHN \_ Level \_ \_**, который можно задать с помощью функции [**CoSetProxyBlanket**](/windows/win32/api/combaseapi/nf-combaseapi-cosetproxyblanket) com. Для Visual Basic и написания сценариев это уровень проверки подлинности **вбемаусентикатионлевелпктприваци** или "пктприваци" со значением 6. В следующем примере Visual Basic Scripting Edition (VBScript) показано, как подключиться к удаленному компьютеру с использованием конфиденциальности пакетов.
+Чтобы подключиться к \\ \\ пространству имен root cimv2 терминалсервицес, уровень проверки подлинности должен включать в себя конфиденциальность пакетов. Для вызовов C/C++ это уровень проверки подлинности " **PKT" RPC \_ C \_ AUTHN \_ Level \_ \_**, который можно задать с помощью функции [**CoSetProxyBlanket**](/windows/win32/api/combaseapi/nf-combaseapi-cosetproxyblanket) com. для Visual Basic и написания сценариев это уровень проверки подлинности **вбемаусентикатионлевелпктприваци** или "пктприваци" со значением 6. в следующем примере Visual Basic scripting Edition (VBScript) показано, как подключиться к удаленному компьютеру с использованием конфиденциальности пакетов.
 
 
 ```VB
@@ -92,9 +92,9 @@ Set objServices = GetObject( _
 
 
 
-Файлы MOF-файл (MOF) содержат определения для классов инструментарий управления Windows (WMI) (WMI). MOF-файлы не устанавливаются в составе пакета средств разработки программного обеспечения Microsoft Windows (SDK). Они устанавливаются на сервере при добавлении связанной роли с помощью диспетчер сервера. Дополнительные сведения о файлах MOF см. в разделе [MOF-файл (MOF)](/windows/desktop/WmiSdk/managed-object-format--mof-).
+файлы MOF-файл (MOF) содержат определения для классов инструментарий управления Windows (WMI) (WMI). файлы MOF не устанавливаются в составе пакета средств разработки программного обеспечения Microsoft Windows Software Development Kit (SDK). Они устанавливаются на сервере при добавлении связанной роли с помощью диспетчер сервера. Дополнительные сведения о файлах MOF см. в разделе [MOF-файл (MOF)](/windows/desktop/WmiSdk/managed-object-format--mof-).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 

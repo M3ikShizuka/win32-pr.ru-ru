@@ -4,16 +4,16 @@ ms.assetid: 01af2452-de2d-42ce-970d-82a83ae0b428
 title: Интерфейсы MSP Ипконф
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4edb3c04a93909d237ae25e06c3ed2e0fcc5db9e
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: d9d740ffad9cbb10df64599914234a1b6db97f3829e70d055958290ae55935ec
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104155890"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119061052"
 ---
 # <a name="ipconf-msp-interfaces"></a>Интерфейсы MSP Ипконф
 
-\[ Интерфейсы MSP Ипконф недоступны для использования в Windows Vista, Windows Server 2008 и последующих версиях операционной системы. API клиента RTC предоставляет аналогичные функциональные возможности.\]
+\[интерфейсы MSP ипконф недоступны для использования в Windows Vista, Windows Server 2008 и последующих версиях операционной системы. API клиента RTC предоставляет аналогичные функциональные возможности.\]
 
 В MSP-конференциях для управления участниками реализовано несколько интерфейсов, зависящих от поставщика. Эти интерфейсы предоставляются на объекте Call, если этот MSP связан с вызовом.
 

@@ -15,12 +15,12 @@ keywords:
 - интерфейсы, IWindowProvider
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b3c4f0d862a14fee35f8d1982c7870e2be031c61
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: c04e3434ff6e14496da58d035fa965c012adaa2c8348a23e1a98e8dac2aa01dc
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104332419"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120122054"
 ---
 # <a name="window-control-pattern"></a>Шаблон элемента управления Window
 
@@ -32,7 +32,7 @@ ms.locfileid: "104332419"
 
 -   [Правила и соглашения реализации](#implementation-guidelines-and-conventions)
 -   [Обязательные члены для **IWindowProvider**](#required-members-for-iwindowprovider)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="implementation-guidelines-and-conventions"></a>Правила и соглашения реализации
 
@@ -58,7 +58,7 @@ ms.locfileid: "104332419"
 | [**канмаксимизе**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iwindowprovider-get_canmaximize)                                   | Свойство    | Нет                                                                        |
 | [**канминимизе**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iwindowprovider-get_canminimize)                                   | Свойство    | Нет                                                                        |
 | [**виндоввисуалстате**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iwindowprovider-get_windowvisualstate)                       | Свойство    | Нет                                                                        |
-| [**Закрыть**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iwindowprovider-close)                                               | Метод      | Нет                                                                        |
+| [**Выхода**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iwindowprovider-close)                                               | Метод      | Нет                                                                        |
 | [**сетвисуалстате**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iwindowprovider-setvisualstate)                             | Метод      | Нет                                                                        |
 | [**ваитфоринпутидле**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iwindowprovider-waitforinputidle)                         | Метод      | Нет                                                                        |
 | [**\_Окно UIA \_ виндовклоседевентид**](uiauto-event-ids.md) | Событие       | Нет                                                                        |
@@ -66,9 +66,9 @@ ms.locfileid: "104332419"
 
 
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -84,9 +84,9 @@ ms.locfileid: "104332419"
 [Общие сведения о дереве модели автоматизации пользовательского интерфейса](uiauto-treeoverview.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

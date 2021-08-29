@@ -4,12 +4,12 @@ description: Последовательность протокола — это 
 ms.assetid: 9c788b9b-82c5-4a4b-86c6-e9a9df699da3
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3ac6b79f5f7a0829eea88eba77f2d022e8de2ca8
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: f3470c303737f44e7e2d0aa52393fa893efa4634b4a2a4aa5c1bba47a832ae6b
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104068426"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120127754"
 ---
 # <a name="selecting-a-protocol-sequence"></a>Выбор последовательности протокола
 
@@ -33,9 +33,9 @@ Microsoft RPC поддерживает три протокола RPC:
 
 После того, как клиентская программа имеет допустимую строку последовательности протокола, она может передать эту информацию функциям [**рпкстрингбиндингкомпосе**](/windows/desktop/api/Rpcdce/nf-rpcdce-rpcstringbindingcompose) и [**рпкбиндингфромстрингбиндинг**](/windows/desktop/api/Rpcdce/nf-rpcdce-rpcbindingfromstringbinding) , чтобы создать маркер привязки.
 
- 
+ 
 
- 
+ 
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: 6aa476b3-97ad-4289-836b-f46fe4d04280
 title: Свойства InkEdit
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b4e7fa3156ef38013ab099e6440b6796505f21d6
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 28c5feb78eb120d3a3758d130dc0cbac7e80f25f51577f6b717823802118e14d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105647415"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118717927"
 ---
 # <a name="inkedit-properties"></a>Свойства InkEdit
 
@@ -24,19 +24,19 @@ ms.locfileid: "105647415"
 | [**BorderStyle**](/windows/desktop/api/inked/nf-inked-iinkedit-get_borderstyle)               | Возвращает или задает значение, определяющее, имеет ли элемент управления [InkEdit](inkedit-control-reference.md) границу.<br/>                                                                             |
 | [**дисабленоскролл**](/windows/desktop/api/inked/nf-inked-iinkedit-get_disablenoscroll)       | Возвращает или задает значение, определяющее, отключены ли полосы прокрутки в элементе управления [InkEdit](inkedit-control-reference.md) .<br/>                                                              |
 | [**DrawingAttributes**](/windows/desktop/api/inked/nf-inked-iinkedit-get_drawingattributes)   | Возвращает или задает атрибуты рисования для рукописного ввода, который еще должен быть нарисован на элементе управления [InkEdit](inkedit-control-reference.md) .<br/>                                                                |
-| [**Активировано**](/windows/desktop/api/inked/nf-inked-iinkedit-get_enabled)                       | Возвращает или задает значение, определяющее, может ли элемент управления [InkEdit](inkedit-control-reference.md) отвечать на создаваемые пользователем события.<br/>                                                     |
+| [**Включен**](/windows/desktop/api/inked/nf-inked-iinkedit-get_enabled)                       | Возвращает или задает значение, определяющее, может ли элемент управления [InkEdit](inkedit-control-reference.md) отвечать на создаваемые пользователем события.<br/>                                                     |
 | [**фактоид**](/windows/desktop/api/inked/nf-inked-iinkedit-get_factoid)                       | Возвращает или задает константу [фактоид](factoid-constants.md) , используемую объектом [**иинкрекогнизер**](/windows/desktop/api/msinkaut/nn-msinkaut-iinkrecognizer) для ограничения поиска результата распознавания.<br/>                  |
-| [**Шрифт**](/windows/desktop/api/inked/nf-inked-iinkedit-get_font)                             | Возвращает или задает шрифт текста, отображаемого элементом управления [InkEdit](inkedit-control-reference.md) .<br/>                                                                                       |
+| [**Шрифтов**](/windows/desktop/api/inked/nf-inked-iinkedit-get_font)                             | Возвращает или задает шрифт текста, отображаемого элементом управления [InkEdit](inkedit-control-reference.md) .<br/>                                                                                       |
 | [**hWnd**](/windows/desktop/api/inked/nf-inked-iinkedit-get_hwnd)                             | Возвращает описатель окна, к которому привязан элемент управления [**инкдисп**](inkdisp-class.md) .<br/>                                                                                                      |
 | [**инкинсертмоде**](/windows/desktop/api/inked/nf-inked-iinkedit-get_inkinsertmode)           | Возвращает или задает значение, указывающее, как рукописный ввод вставляется в элемент управления [InkEdit](inkedit-control-reference.md) в виде текста или рукописного ввода.<br/>                                                |
 | [**инкмоде**](/windows/desktop/api/inked/nf-inked-iinkedit-get_inkmode)                       | Возвращает или задает значение, указывающее, отключена ли коллекция рукописных данных, выполняется сбор рукописных данных, а также выполняется сбор рукописных данных и жестов.<br/>                                                                |
-| [**Locked**](/windows/desktop/api/inked/nf-inked-iinkedit-get_locked)                         | Возвращает или задает значение, указывающее, доступен ли элемент управления [InkEdit](inkedit-control-reference.md) только для чтения или нет.<br/>                                                                       |
+| [**Заблокировано**](/windows/desktop/api/inked/nf-inked-iinkedit-get_locked)                         | Возвращает или задает значение, указывающее, доступен ли элемент управления [InkEdit](inkedit-control-reference.md) только для чтения или нет.<br/>                                                                       |
 | [**MaxLength**](/windows/desktop/api/inked/nf-inked-iinkedit-get_maxlength)                   | Возвращает или задает значение, указывающее, может ли элемент управления [InkEdit](inkedit-control-reference.md) содержать максимальное количество символов и, если это так, указывает максимальное число символов.<br/> |
 | [**маусеикон**](/windows/desktop/api/inked/nf-inked-iinkedit-get_mouseicon)                   | Возвращает или задает текущий пользовательский значок мыши.<br/>                                                                                                                                                 |
 | [**MousePointer**](/windows/desktop/api/inked/nf-inked-iinkedit-get_mousepointer)             | Возвращает или задает значение, указывающее тип указателя мыши, который появляется при наведении указателя мыши на определенную часть элемента управления [InkEdit](inkedit-control-reference.md) .<br/>                |
 | [**Нескольких**](/windows/desktop/api/inked/nf-inked-iinkedit-get_multiline)                   | Возвращает или задает значение, указывающее, является ли это многострочным элементом управления [InkEdit](inkedit-control-reference.md) .<br/>                                                                           |
 | [**рекогнитионтимеаут**](/windows/desktop/api/inked/nf-inked-iinkedit-get_recognitiontimeout)        | Возвращает или задает интервал времени (в миллисекундах) между последним сбором объекта [**иинкстрокедисп**](/windows/desktop/api/msinkaut/nn-msinkaut-iinkstrokedisp) и началом распознавания текста.<br/>                         |
-| [**Распознаватель**](/windows/desktop/api/inked/nf-inked-iinkedit-get_recognizer)                 | Возвращает или задает объект [**иинкрекогнизер**](/windows/desktop/api/msinkaut/nn-msinkaut-iinkrecognizer) , используемый для распознавания.<br/>                                                                                                    |
+| [**Распознавателя**](/windows/desktop/api/inked/nf-inked-iinkedit-get_recognizer)                 | Возвращает или задает объект [**иинкрекогнизер**](/windows/desktop/api/msinkaut/nn-msinkaut-iinkrecognizer) , используемый для распознавания.<br/>                                                                                                    |
 | [**ScrollBars**](/windows/desktop/api/inked/nf-inked-iinkedit-get_scrollbars)                 | Возвращает или задает тип полос прокрутки, отображаемых в элементе управления [InkEdit](inkedit-control-reference.md) .<br/>                                                                                   |
 | [**селалигнмент**](/windows/desktop/api/inked/nf-inked-iinkedit-get_selalignment)             | Возвращает или задает выравнивание, применяемое к текущему выделению или точке вставки (только во время выполнения).<br/>                                                                                            |
 | [**селболд**](/windows/desktop/api/inked/nf-inked-iinkedit-get_selbold)                       | Возвращает или задает значение, указывающее, является ли начертание шрифта выделенного в данный момент текста в элементе управления [InkEdit](inkedit-control-reference.md) полужирным (только во время выполнения).<br/>                  |

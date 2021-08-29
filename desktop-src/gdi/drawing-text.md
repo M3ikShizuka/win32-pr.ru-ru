@@ -1,17 +1,17 @@
 ---
 description: Рисование текста
 ms.assetid: 8a06f659-4e08-4738-b7a9-956b599c1344
-title: Рисование текста (Windows GDI)
+title: рисование текста (Windows GDI)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d7db44a756ff211bcae7605cb87bdac77005b34f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: e52508e5a0825a3f43a62f5cce7905a767513f007555eb430c26dbc2d914f372
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103811968"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120062274"
 ---
-# <a name="drawing-text-windows-gdi"></a>Рисование текста (Windows GDI)
+# <a name="drawing-text-windows-gdi"></a>рисование текста (Windows GDI)
 
 После того как приложение выберет подходящий шрифт, задает необходимые параметры форматирования текста и вычислит необходимые значения ширины и высоты символов для строки текста, он может начать рисовать символы и символы, вызвав любую из функций вывода текста:
 

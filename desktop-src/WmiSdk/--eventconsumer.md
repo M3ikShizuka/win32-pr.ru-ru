@@ -17,12 +17,12 @@ api_type:
 - Schema
 api_location:
 - All
-ms.openlocfilehash: b8478b76aebf293d562129d047330f33e52706b2
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: ba84549f1120f4f6d2045e9e9c999e56c38dd285e2ab25de5da1e1b12401f345
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103999656"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120120954"
 ---
 # <a name="__eventconsumer-class"></a>\_\_Класс Евентконсумер
 
@@ -48,7 +48,7 @@ class __EventConsumer : __IndicationRelated
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **\_ \_ евентконсумер** имеет следующие свойства.
 
@@ -76,7 +76,7 @@ class __EventConsumer : __IndicationRelated
 Тип доступа: только для чтения
 </dt> </dl>
 
-Имя компьютера, на который инструментарий управления Windows (WMI) (WMI) отправляет события.
+имя компьютера, на который инструментарий управления Windows (WMI) (WMI) отправляет события.
 
 </dd> <dt>
 
@@ -93,7 +93,7 @@ class __EventConsumer : __IndicationRelated
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **\_ \_ евентконсумер** является производным от [**\_ \_ индикатионрелатед**](--indicationrelated.md), у которого нет свойств.
 
@@ -111,7 +111,7 @@ class __EventConsumer : __IndicationRelated
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - Schema
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e35570de80433ed2c6ad52ff1773e34a07fa8f04
-ms.sourcegitcommit: b77ace27b0432e7cd3863191b11926be032fbe2f
+ms.openlocfilehash: 8ba0dfa0056393b44fdd6c843b0455113662f09c4045cf35a7bc3f839346810a
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "103805026"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118426767"
 ---
 # <a name="ms-ds-failed-interactive-logon-count-attribute"></a>MS-DS-Failed-Interactive-атрибут Count
 
@@ -54,16 +54,16 @@ ms.locfileid: "103805026"
 |------------------------|-----------------------------------|
 | Идентификатор ссылки                | \-                                |
 | MAPI-Id                | \-                                |
-| System-Only            | True                              |
-| Является однозначным       | True                              |
-| Индексируется             | Неверно                             |
-| В глобальном каталоге      | Неверно                             |
+| System-Only            | Верно                              |
+| Является однозначным       | Верно                              |
+| Индексируется             | Нет                             |
+| В глобальном каталоге      | Нет                             |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                      |
 | Range-Lower            | \-                                |
 | Range-Upper            | \-                                |
 | Search-Flags           | 0x00000000                        |
 | System-Flags           | 0x00000010                        |
-| Классы, используемые в        | [**Нажат**](c-user.md)<br/> |
+| Классы, используемые в        | [**Пользователь**](c-user.md)<br/> |
 
 
 
@@ -75,16 +75,16 @@ ms.locfileid: "103805026"
 |------------------------|-----------------------------------|
 | Идентификатор ссылки                | \-                                |
 | MAPI-Id                | \-                                |
-| System-Only            | True                              |
-| Является однозначным       | True                              |
-| Индексируется             | Неверно                             |
-| В глобальном каталоге      | Неверно                             |
+| System-Only            | Верно                              |
+| Является однозначным       | Верно                              |
+| Индексируется             | Нет                             |
+| В глобальном каталоге      | Нет                             |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                      |
 | Range-Lower            | \-                                |
 | Range-Upper            | \-                                |
 | Search-Flags           | 0x00000000                        |
 | System-Flags           | 0x00000010                        |
-| Классы, используемые в        | [**Нажат**](c-user.md)<br/> |
+| Классы, используемые в        | [**Пользователь**](c-user.md)<br/> |
 
 
 
@@ -96,10 +96,10 @@ ms.locfileid: "103805026"
 |------------------------|-----------------------------------|
 | Идентификатор ссылки                | \-                                |
 | MAPI-Id                | \-                                |
-| System-Only            | True                              |
-| Является однозначным       | True                              |
-| Индексируется             | Неверно                             |
-| В глобальном каталоге      | Неверно                             |
+| System-Only            | Верно                              |
+| Является однозначным       | Верно                              |
+| Индексируется             | Нет                             |
+| В глобальном каталоге      | Нет                             |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                      |
 | Range-Lower            | \-                                |
 | Range-Upper            | \-                                |

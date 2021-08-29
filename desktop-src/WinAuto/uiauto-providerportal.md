@@ -9,12 +9,12 @@ keywords:
 - поставщики, создание
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8da09b5bcef605dd4979a15433c708e04e49534d
-ms.sourcegitcommit: 305298a7727a428310fa138b45a933bcd7ef2532
+ms.openlocfilehash: cb0cdd1eae7f2c617fe3e09d456bdb063d3c416e07507cd16ca2ec732ec82f90
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "105691470"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118114727"
 ---
 # <a name="ui-automation-provider-programmers-guide"></a>Рекомендации программиста поставщика модели автоматизации пользовательского интерфейса
 
@@ -30,7 +30,7 @@ ms.locfileid: "105691470"
 -   [Поддержка типов элементов управления модели автоматизации пользовательского интерфейса](uiauto-supportinguiautocontroltypes.md)
 -   [Разделы руководства для поставщиков автоматизации пользовательского интерфейса](uiauto-howto-topics-for-uiautomation-providers.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -49,9 +49,9 @@ ms.locfileid: "105691470"
 [Пример поставщика содержимого документов модели автоматизации пользовательского интерфейса](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/411c271e537727d737a53fa2cbe99eaecac00cc0/Official%20Windows%20Platform%20Sample/UI%20Automation%20document%20content%20provider%20sample)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

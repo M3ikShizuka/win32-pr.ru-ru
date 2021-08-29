@@ -3,7 +3,7 @@ title: ЕКУАЛИЗЕРСЕТТИНГС. Куррентпресеттитле
 description: Атрибут Куррентпресеттитле извлекает заголовок текущей предустановки.
 ms.assetid: e4637863-d2f2-4e82-99ff-1e587848c4b8
 keywords:
-- Проигрыватель Windows Media ЕКУАЛИЗЕРСЕТТИНГС. Куррентпресеттитле
+- екуализерсеттингс. куррентпресеттитле проигрыватель Windows Media
 topic_type:
 - apiref
 api_name:
@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1f472828f4f7e12d45ac25323b4d816031757a2f
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 171da30962a58ab05921709289d2bb096b98eb5d040b813dcfc9c96a96f4a876
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105699162"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118838586"
 ---
 # <a name="equalizersettingscurrentpresettitle"></a>ЕКУАЛИЗЕРСЕТТИНГС. Куррентпресеттитле
 
@@ -37,7 +37,7 @@ ms.locfileid: "105699162"
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 7,0 или более поздней<br/> |
+| Версия<br/> | проигрыватель Windows Media версии 7,0 или более поздней<br/> |
 
 
 

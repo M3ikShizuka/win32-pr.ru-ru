@@ -4,9 +4,9 @@ description: Запрашивает удаленный компьютер, чт�
 ms.assetid: b86ec9b8-8fc4-4c3e-aca7-2f7d039749df
 ms.tgt_platform: multiple
 keywords:
-- Выявление служба удаленного управления Windows метода
-- Обнаружение служба удаленного управления Windows метода, объект Session
-- Объект Session служба удаленного управления Windows, метод Identify
+- выявление служба удаленного управления Windows метода
+- обнаружение служба удаленного управления Windows метода, объект Session
+- объект Session служба удаленного управления Windows, метод Identify
 topic_type:
 - apiref
 api_name:
@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 24f1caa5b1e44e4ca65082e33bca4d045e487c96
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: d9e897a82644fec7bf206e99ea87ae2df82793a9717259b76fd9ca9d264c74f5
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105710535"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119642554"
 ---
 # <a name="sessionidentify-method"></a>Метод Session. Identify
 
@@ -54,7 +54,7 @@ Session.Identify( _
 
 XML-строка, указывающая версию протокола WS-Management, поставщика операционной системы и, если запрос был отправлен с проверкой подлинности, версия операционной системы.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 **Сеанс. Identify** основан на операции [протокол WS-Management](ws-management-protocol.md) , определенной как всманидентити. Это указывается в пакете SOAP следующим образом:
 
@@ -79,7 +79,7 @@ WScript.Echo Session.Identify
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -87,18 +87,18 @@ WScript.Echo Session.Identify
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                 |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                           |
-| Header<br/>                   | <dl> <dt>Всмандисп. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Всмандисп. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>Всмандисп. idl</dt> </dl> |
 | Библиотека<br/>                  | <dl> <dt>Всмандисп. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>WSMAuto.dll</dt> </dl>   |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
-[**Session**](session.md)
+[**Сеанс**](session.md)
 </dt> <dt>
 
 [**IWSManSession:: Identify**](/windows/desktop/api/WSManDisp/nf-wsmandisp-iwsmansession-identify)

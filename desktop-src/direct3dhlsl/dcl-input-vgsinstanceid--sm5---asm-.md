@@ -4,12 +4,12 @@ description: Включите создание экземпляров шейде
 ms.assetid: 47B9BAD5-0FFF-4DB7-B34A-7811B8A4F792
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3134a9d372f1fde5457f26235fe9a6a5439c58c1
-ms.sourcegitcommit: fe03c5d92ca6a0d66a114b2303e99c0a19241ffb
+ms.openlocfilehash: 81d0ec89be2d75b591315bd4b38ff495426d98e5ce941b2eb6bc9028ba647620
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "104335643"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119950634"
 ---
 # <a name="dcl_input-vgsinstanceid-sm5---asm"></a>дкл \_ input вгсинстанцеид (SM5-ASM)
 
@@ -35,7 +35,7 @@ ms.locfileid: "104335643"
 
  
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Параметр *instanceCount* объявления указывает, сколько экземпляров шейдер геометрии должен выполнять для каждого входного примитива. Максимальное значение для *instanceCount* — 32.
 
@@ -75,7 +75,7 @@ ms.locfileid: "104335643"
 
 | Модель шейдера                                              | Поддерживается |
 |-----------------------------------------------------------|-----------|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | да       |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | Да       |
 | [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | Нет        |
 | [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | Нет        |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет        |
@@ -86,7 +86,7 @@ ms.locfileid: "104335643"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

@@ -5,12 +5,12 @@ ms.assetid: 97F6868B-26AF-43C7-9EC7-BFB521BCAF18
 ms.tgt_platform: multiple
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f774227f441dfff8bbef3f102485e48b12b9e00d
-ms.sourcegitcommit: 57758ecb246c84d65e6e0e4bd5570d9176fa39cd
+ms.openlocfilehash: bbd5c4ed1e7673082e3aa750ea79fd24a89422e0ef7ef65784e0e5a47b268f78
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "104411979"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119058912"
 ---
 # <a name="imsrdpextendedsettings-properties"></a>Свойства Имсрдпекстендедсеттингс
 
@@ -27,9 +27,9 @@ ms.locfileid: "104411979"
 
 </dd> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

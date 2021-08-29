@@ -3,9 +3,9 @@ title: IWMPControls3 Аудиолангуажекаунт, свойство
 description: Свойство Аудиолангуажекаунт возвращает число поддерживаемых аудио языков.
 ms.assetid: 92e2093f-435b-4427-9f85-8c8ae76e0e2d
 keywords:
-- Проигрыватель Windows Media для свойства Аудиолангуажекаунт
-- Аудиолангуажекаунт свойство проигрывателя Windows Media Player, интерфейс IWMPControls3
-- Интерфейс IWMPControls3 Windows Media Player, свойство Аудиолангуажекаунт
+- проигрыватель Windows Media свойства аудиолангуажекаунт
+- проигрыватель Windows Media свойства аудиолангуажекаунт, интерфейс IWMPControls3
+- проигрыватель Windows Media интерфейса IWMPControls3, свойство аудиолангуажекаунт
 topic_type:
 - apiref
 api_name:
@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bd397dec80a5ccb5f2085e3231782555efde8e39
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: ca39d5a9ac261f8cbc322ae2737260baec95544bb7e6956df2444fc7d0958634
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105689292"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118115891"
 ---
 # <a name="iwmpcontrols3audiolanguagecount-property"></a>Свойство IWMPControls3:: Аудиолангуажекаунт
 
@@ -48,23 +48,23 @@ Public ReadOnly Property audioLanguageCount As System.Int32
 
 Значение **System. Int32** , которое является числом поддерживаемых аудио языков.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-Для содержимого на основе Windows Media свойства и методы, связанные с выбором языка, поддерживают только один выход.
+для Windows содержимого на основе носителя свойства и методы, связанные с выбором языка, поддерживают только один выход.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |----------------------|------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/>   | Проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                      |
+| Версия<br/>   | проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                      |
 | Пространство имен<br/> | **вмплиб**<br/>                                                                                                  |
 | Сборка<br/>  | <dl> <dt>Interop.WMPLib.dll (Interop.WMPLib.dll.dll)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

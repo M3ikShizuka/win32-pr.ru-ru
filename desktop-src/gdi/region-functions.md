@@ -1,17 +1,17 @@
 ---
 description: В регионах используются следующие функции.
 ms.assetid: 3a42fc7a-4c07-4540-99a7-520f99532f33
-title: Функции Region (Windows GDI)
+title: функции Region (Windows GDI)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: de0f55549f978dd2868f231b9ff042f6f825459d
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 04e60239eae9f1a4de4d310e3a4288ab74b36d33c117314ee2e5356f4a7c0a5e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104984833"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119037662"
 ---
-# <a name="region-functions-windows-gdi"></a>Функции Region (Windows GDI)
+# <a name="region-functions-windows-gdi"></a>функции Region (Windows GDI)
 
 В регионах используются следующие функции.
 
