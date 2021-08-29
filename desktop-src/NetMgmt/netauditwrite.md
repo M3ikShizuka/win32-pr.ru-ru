@@ -14,17 +14,17 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 89b98f590ca3944704ae421356bf9e1fb18213fe
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: e8ffb8ed05c77e30166922331c1f679d8899caf3b7d125eb84f1dfce2f1fc9f9
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "105681702"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119911974"
 ---
 # <a name="netauditwrite"></a>нетаудитврите
 
 Функция **нетаудитврите** устарела. Он включен для обеспечения совместимости с 16-разрядными версиями Windows. Другие приложения должны использовать [ведение журнала событий](/windows/desktop/EventLog/event-logging).
 
- 
+ 
 
- 
+ 

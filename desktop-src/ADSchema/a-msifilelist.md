@@ -1,6 +1,6 @@
 ---
 title: MSI-файл-атрибут списка
-description: Этот атрибут содержит список файлов установщика Microsoft, таких как базовый MSI-файл (MSI) и файлы преобразования MST (. MST).
+description: Этот атрибут содержит список файлов установщика Microsoft, таких как базовый MSI-файл (.msi) и файлы преобразования MST (. MST).
 ms.assetid: 259a13a2-bb34-49aa-862e-4159e887310c
 ms.tgt_platform: multiple
 keywords:
@@ -14,16 +14,16 @@ api_type:
 - Schema
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a05608cdf443ab053549fde7db509ca79be08b3a
-ms.sourcegitcommit: b77ace27b0432e7cd3863191b11926be032fbe2f
+ms.openlocfilehash: 6d33b2ce85738abbec8bc19bdb06c652668b650b9c02aaf766bd53891914758d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "104138930"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119763174"
 ---
 # <a name="msi-file-list-attribute"></a>MSI-файл-атрибут списка
 
-Этот атрибут содержит список файлов установщика Microsoft, таких как базовый MSI-файл (MSI) и файлы преобразования MST (. MST).
+Этот атрибут содержит список файлов установщика Microsoft, таких как базовый MSI-файл (.msi) и файлы преобразования MST (. MST).
 
 
 

@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: f31d1506822f21977e2d60492248c2d70a51829c
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: df4e7897999dabd3ef7faff7d1e6f6b73c66f721256630e3ef91b154f4833b6f
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105711059"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119758674"
 ---
 # <a name="imemorybufferbyteaccessgetbuffer-method"></a>Метод Имеморибуффербитеакцесс:: with buffer
 
@@ -57,7 +57,7 @@ HRESULT GetBuffer(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 При вызове [**параметр memorybuffer:: Close**](/uwp/api/Windows.Foundation.MemoryBuffer?view=winrt-19041) код, использующий этот буфер, должен установить указатель на *значение* null.
 

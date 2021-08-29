@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: f214fdcfa83a09a97d710b401b070048516826e3
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 7933c63d6fad03492dfad83a0e6383c9735ca27e2785e630e6a8e93ad65c99b6
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105656107"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119729644"
 ---
 # <a name="jet_setcolumngrbit-property"></a>Свойство JET_SETCOLUMN. грбит
 
@@ -64,7 +64,7 @@ public SetColumnGrbit grbit { get; set; }
 
 Тип: [Microsoft. ISAM. ESENT. Interop. сетколумнгрбит](./setcolumngrbit-enumeration.md)  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 #### <a name="reference"></a>Справочник
 

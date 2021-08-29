@@ -46,12 +46,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6943913193b2ecc9ed6ab31728d0274fb9ddd231
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 1a0ec6cb80bfeb8433a364a6dd63a724752089b5237ad6004d6d029e89332074
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104490353"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119796471"
 ---
 # <a name="imsrdpclientadvancedsettingscleartextpassword-property"></a>Свойство Имсрдпклиентадванцедсеттингс:: Клеартекстпассворд
 
@@ -83,7 +83,7 @@ HRESULT put_ClearTextPassword(
 
 При успешном выполнении возвращает значение **\_ ОК** .
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Дополнительные сведения о веб-подключение к удаленному рабочему столу см. в разделе [требования для веб-подключение к удаленному рабочему столу](requirements-for-remote-desktop-web-connection.md).
 

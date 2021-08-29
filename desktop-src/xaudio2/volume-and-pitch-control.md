@@ -4,18 +4,18 @@ ms.assetid: 4f785970-b1fa-5250-dbc1-3e6faf9becd4
 title: Элемент управления "громкость и шаг"
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6ab6ae19e2ffbeb6cdd5ec890b4a89664fb4be6f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: b653195fad43cce0e6661bf2c3a5f945b8d3dd207ca03ea7ad4e75f87015213f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105719355"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119770804"
 ---
 # <a name="volume-and-pitch-control"></a>Элемент управления "громкость и шаг"
 
 Общие сведения об изменении тона и громкости голоса.
 
-## <a name="in-this-section"></a>в этом разделе
+## <a name="in-this-section"></a>В этом разделе
 
 <dl> <dt>
 
@@ -47,7 +47,7 @@ ms.locfileid: "105719355"
 
 </dd> </dl>
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

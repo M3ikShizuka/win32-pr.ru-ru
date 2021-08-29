@@ -4,12 +4,12 @@ ms.assetid: dd55c570-68b5-4dc5-9fd0-a6e3277c318b
 title: Структуры управления дисками
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b6521e116bf3002bc21d97136af2eaf3397ee82f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 3533e60e9199d3d3ed3d13aa79a689f9e90866c408d57220c5d53aa7edb5c86c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105664281"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119755104"
 ---
 # <a name="disk-management-structures"></a>Структуры управления дисками
 
@@ -84,7 +84,7 @@ ms.locfileid: "105664281"
 | [**\_ \_ дескриптор данных протокола \_ хранилища**](/windows/desktop/api/WinIoCtl/ns-winioctl-storage_protocol_data_descriptor)<br/>                | Эта структура используется совместно с [**\_ \_ \_ свойством запроса хранилища ioctl**](/windows/desktop/api/WinIoCtl/ni-winioctl-ioctl_storage_query_property) для возврата данных, относящихся к протоколу, от устройства хранения или адаптера. <br/>                                                                                    |
 | [**\_ \_ \_ тип данных NVME протокола \_ хранилища**](/windows/desktop/api/WinIoCtl/ne-winioctl-storage_protocol_nvme_data_type)<br/>                 | Описывает тип данных, характерных для протокола NVMe, которые должны запрашиваться во время запроса [**\_ \_ \_ Свойства запроса на хранение ioctl**](/windows/desktop/api/WinIoCtl/ni-winioctl-ioctl_storage_query_property) .<br/>                                                                                                         |
 | [**\_данные, относящиеся к протоколу хранилища \_ \_**](/windows/desktop/api/WinIoCtl/ns-winioctl-storage_protocol_specific_data)<br/>                    | Описывает данные устройства, относящиеся к протоколу, предоставляемые в буфере ввода и вывода запроса [**\_ \_ \_ Свойства запроса на хранение ioctl**](/windows/desktop/api/WinIoCtl/ni-winioctl-ioctl_storage_query_property) .<br/>                                                                                                   |
-| [**\_версия спецификации \_ хранилища**](/windows/desktop/api/WinIoCtl/ns-winioctl-storage_spec_version)<br/>                                         | Версия спецификации хранилища.<br/>                                                                                                                                                                                                                                            |
+| [**\_версия спецификации \_ хранилища**](/windows/desktop/api/WinIoCtl/ns-winioctl-storage_spec_version)<br/>                                         | версия спецификации служба хранилища.<br/>                                                                                                                                                                                                                                            |
 | [**\_ \_ дескриптор данных температуры \_ хранилища**](/windows/desktop/api/WinIoctl/ns-winioctl-storage_temperature_data_descriptor)<br/>          | Эта структура используется совместно с [**\_ \_ \_ свойством запроса хранилища ioctl**](/windows/desktop/api/WinIoCtl/ni-winioctl-ioctl_storage_query_property) для возврата данных о температуре с устройства или адаптера хранилища. <br/>                                                                                          |
 | [**\_ \_ сведения о температуре хранилища**](/windows/desktop/api/WinIoctl/ns-winioctl-storage_temperature_info)<br/>                                 | Описывает данные о температуре устройства. Возвращается как часть [**\_ \_ \_ дескриптора данных температуры хранилища**](/windows/desktop/api/WinIoctl/ns-winioctl-storage_temperature_data_descriptor) при запросе данных о температуре с помощью запроса [**\_ \_ \_ Свойства запроса хранилища ioctl**](/windows/desktop/api/WinIoCtl/ni-winioctl-ioctl_storage_query_property) . <br/> |
 | [**\_ \_ пороговое значение температуры хранилища**](/windows/desktop/api/WinIoctl/ns-winioctl-storage_temperature_threshold)<br/>                       | Эта структура используется для установки порогового значения чрезмерного или меньшего уровня температуры устройства хранения (через [**ioctl \_ \_ задается \_ \_ пороговое значение температуры**](/windows/desktop/api/WinIoctl/ni-winioctl-ioctl_storage_set_temperature_threshold)).<br/>                                                                           |

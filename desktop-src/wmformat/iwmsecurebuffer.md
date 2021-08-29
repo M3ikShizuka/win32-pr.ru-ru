@@ -14,12 +14,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 5bc4e33257bf52d6e0ea3897786232252b31fc01
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 99cf739172acdc47970d63c2709321c717e13d20d1f6789accb4813316ae7daf
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104070378"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119839544"
 ---
 # <a name="iwmsecurebuffer-interface"></a>Интерфейс Ивмсекуребуффер
 
@@ -46,7 +46,7 @@ ms.locfileid: "104070378"
 
  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

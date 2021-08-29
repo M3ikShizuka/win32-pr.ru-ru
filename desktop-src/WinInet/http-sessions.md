@@ -4,12 +4,12 @@ description: Доступ к ресурсам WWW осуществляется �
 ms.assetid: 0f307e28-9c38-41e7-9795-7eef08e99a3c
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 85b0b4d30bc86c588495a55ed4867a4084c43a09
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 4ab6e151a726b0d947636818fea9de7946f250ded5adfcd7f145df8945f07b5d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104134099"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119758964"
 ---
 # <a name="http-sessions"></a>HTTP-сеансы
 
@@ -47,7 +47,7 @@ WinINet позволяет получать доступ к ресурсам в 
 
 
 
- 
+ 
 
 ### <a name="initiating-a-connection-to-the-www"></a>Инициализация подключения к WWW
 
@@ -224,10 +224,10 @@ int WINAPI Dumper(HWND hX, int intCtrlID, HINTERNET hResource)
 
 
 > [!Note]  
-> WinINet не поддерживает реализации серверов. Кроме того, его не следует использовать из службы. Для серверных реализаций или служб используйте [службы Microsoft Windows HTTP Services (WinHTTP)](/windows/desktop/WinHttp/winhttp-start-page).
+> WinINet не поддерживает реализации серверов. Кроме того, его не следует использовать из службы. для серверных реализаций или служб используйте [Microsoft Windows HTTP services (WinHTTP)](/windows/desktop/WinHttp/winhttp-start-page).
 
- 
+ 
 
- 
+ 
 
- 
+ 

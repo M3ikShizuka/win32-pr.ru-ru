@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Windowscodecs.dll
 - Wincodec.lib
-ms.openlocfilehash: 6bf3f0d8aaf6cf95633fa4cce771bd7c7e8db85d
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: eaaf0abc2c32e7a5a4469a3959875e28bb29d840f9da43f9bbbcc88fe56df788
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105693760"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119812124"
 ---
 # <a name="iwicpixelformatinfo_getchannelcount_proxy-function"></a>Ивикпикселформатинфо \_ жетчаннелкаунт \_ -функция
 
@@ -44,16 +44,16 @@ HRESULT IWICPixelFormatInfo_GetChannelCount_Proxy(
 *Этот \_* \[ Вход в\]
 </dt> <dd>
 
-Тип: **[**ивикпикселформатинфо**](/windows/desktop/api/Wincodec/nn-wincodec-iwicpixelformatinfo) \** _
+Тип: **[ **ивикпикселформатинфо**](/windows/desktop/api/Wincodec/nn-wincodec-iwicpixelformatinfo)\***
 
-Указатель на этот объект [_ *ивикпикселформатинфо* *](/windows/desktop/api/Wincodec/nn-wincodec-iwicpixelformatinfo) .
+Указатель на этот объект [**ивикпикселформатинфо**](/windows/desktop/api/Wincodec/nn-wincodec-iwicpixelformatinfo) .
 
 </dd> <dt>
 
 *пуичаннелкаунт* \[ заполняет\]
 </dt> <dd>
 
-Тип: **uint \** _
+Тип: **uint \***
 
 Указатель, получающий число каналов.
 
@@ -61,7 +61,7 @@ HRESULT IWICPixelFormatInfo_GetChannelCount_Proxy(
 
 ## <a name="return-value"></a>Возвращаемое значение
 
-Тип: _ *HRESULT**
+Тип: **HRESULT**
 
 Если эта функция завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
@@ -73,8 +73,8 @@ HRESULT IWICPixelFormatInfo_GetChannelCount_Proxy(
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Windows XP с пакетом обновления 2 (SP2), \[ только классические приложения Windows Vista\]<br/>                                                                                              |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                                                                                             |
+| Минимальная версия клиента<br/> | Windows XP с пакетом обновления 2 (SP2), Windows \[ только классические приложения Vista\]<br/>                                                                                              |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                                                                                             |
 | DLL<br/>                      | <dl> <dt>Windowscodecs.dll; </dt> <dt>Винкодек. lib</dt> </dl> |
 
 

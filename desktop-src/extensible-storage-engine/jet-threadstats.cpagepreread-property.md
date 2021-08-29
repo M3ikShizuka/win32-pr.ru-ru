@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: bd004407fcc7474435b8b2e12dc7eff9555b0e62
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: bdbdcce28ecbe0cccb4739334cd9f5c2a2610875f2a6687aa71e9358f63bd065
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104266026"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119832644"
 ---
 # <a name="jet_threadstatscpagepreread-property"></a>Свойство JET_THREADSTATS. Кпажепререад
 
@@ -62,7 +62,7 @@ public int cPagePreread { get; internal set; }
 
 Тип: [System. Int32](/dotnet/api/system.int32)  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 #### <a name="reference"></a>Справочник
 

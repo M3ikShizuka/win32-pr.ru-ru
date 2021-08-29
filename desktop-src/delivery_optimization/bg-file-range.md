@@ -15,12 +15,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: cedabfb066a5905adb2ed8eac9996fd77c0e12be
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 048cef74eb5c375bf7c68a6c37184741a63140230e3d0ac36ac73c32ffd848ec
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104415968"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119755904"
 ---
 # <a name="bg_file_range-structure"></a>Структура BG_FILE_RANGE
 
@@ -56,7 +56,7 @@ typedef struct {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Диапазон должен существовать в файле или выдает ошибку **DO_E_INVALID_RANGE** .
 
@@ -66,9 +66,9 @@ typedef struct {
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только для настольных приложений Windows 10 версии 1709\]<br/>                                         |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server версии 1709\]<br/>                                     |
-| Header<br/>                   | <dl> <dt>Deliveryoptimization. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 10, только для \[ настольных приложений версии 1709\]<br/>                                         |
+| Минимальная версия сервера<br/> | Windows Server, только для \[ настольных приложений версии 1709\]<br/>                                     |
+| Заголовок<br/>                   | <dl> <dt>Deliveryoptimization. h</dt> </dl> |
 
 
 

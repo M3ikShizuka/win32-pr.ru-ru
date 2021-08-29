@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - checkbmi.h
-ms.openlocfilehash: c7242778a2ff16414b07f887dc1e71a1547a88e0
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: a23bbb322da1effdb2246ee797b353d1af36e3b87cbb37bd89039d1aced994e5
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105679984"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119755834"
 ---
 # <a name="validatebitmapinfoheader-function"></a>Функция Валидатебитмапинфохеадер
 
@@ -63,7 +63,7 @@ BOOL ValidateBitmapInfoHeader(
 
 Возвращает логическое значение. Если значение равно **false**, структура [**битмапинфохеадер**](/windows/win32/api/wingdi/ns-wingdi-bitmapinfoheader) недопустима.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Эта функция защищает от следующих ошибок:
 
@@ -80,7 +80,7 @@ BOOL ValidateBitmapInfoHeader(
 
 | Требование | Значение |
 |-------------------|---------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Чеккбми. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Чеккбми. h</dt> </dl> |
 
 
 

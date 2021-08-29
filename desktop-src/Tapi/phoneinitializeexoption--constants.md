@@ -4,12 +4,12 @@ ms.assetid: 7d8b122d-bebe-4904-abc8-d680b0899e25
 title: Константы PHONEINITIALIZEEXOPTION_ (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 023f6801f65910bedf7d2637079694b4c6b6d85e
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 53c1472c36e1608e344ea495578cb960a03eb75483a77512c14b6bb0e91f83bb
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105680103"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119796744"
 ---
 # <a name="phoneinitializeexoption_-constants"></a>\_Константы фонеинитиализиксоптион
 
@@ -47,7 +47,7 @@ ms.locfileid: "105680103"
 
 </dt> </dl> </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Дополнительные сведения о работе этих параметров см. в разделе [**фонеинитиализикс**](/windows/desktop/api/Tapi/nf-tapi-phoneinitializeexa) .
 
@@ -58,7 +58,7 @@ ms.locfileid: "105680103"
 | Требование | Значение |
 |-------------------------|-----------------------------------------------------------------------------------|
 | Версия TAPI<br/> | Требуется TAPI 2,0 или более поздней версии<br/>                                             |
-| Header<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
+| Заголовок<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
 
 
 

@@ -3,7 +3,7 @@ title: Объект Плайлистколлектион
 description: Объект Плайлистколлектион предоставляет способ организации списков воспроизведения.
 ms.assetid: 9ea61954-d185-4a77-9016-4d58340a96fc
 keywords:
-- Проигрыватель Windows Media Object Плайлистколлектион
+- проигрыватель Windows Media объекта плайлистколлектион
 topic_type:
 - apiref
 api_name:
@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 2266537e0df9fc0ba5527784c254b27313d636d3
-ms.sourcegitcommit: 57758ecb246c84d65e6e0e4bd5570d9176fa39cd
+ms.openlocfilehash: 73f1d9df153aea39880728619787e334430eeccf494b6757a59509ec2df2a6b0
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "105700739"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119862214"
 ---
 # <a name="playlistcollection-object"></a>Объект Плайлистколлектион
 
@@ -40,7 +40,7 @@ ms.locfileid: "105700739"
 
 
 
- 
+ 
 
 Доступ к объекту **плайлистколлектион** осуществляется через следующее свойство.
 
@@ -52,18 +52,18 @@ ms.locfileid: "105700739"
 
 
 
- 
+ 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
 [**Справочник по объектной модели для создания сценариев**](object-model-reference-for-scripting.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

@@ -3,20 +3,20 @@ title: Использование WCS 1.0
 description: Использование WCS 1.0
 ms.assetid: c69b2c35-b4ac-4b5a-a794-464db228491a
 keywords:
-- Цветовая система Windows (WCS), сведения
-- WCS (цветовая система Windows), сведения
-- Управление цветом изображений, цветовая система Windows (WCS)
-- Управление цветом, цветовая система Windows (WCS)
-- цвета, цветовая система Windows (WCS)
+- Windows Система цветов (WCS), сведения
+- WCS (Windows цветовая система), сведения
+- управление цветом изображений, Windows цветовая система (WCS)
+- управление цветом, цветовая система Windows (WCS)
+- цвета, Windows цветовая система (WCS)
 ms.localizationpriority: high
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 88476066e2620d603b4ef4217b1aa2a55c94a565
-ms.sourcegitcommit: 38954f8f0d70f44bff4a943784f468ebd7ef691a
+ms.openlocfilehash: 9b54a373edd023aab0af711937fd18fbb2d1fd3201c037f24edaca1e80f1470a
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "105719797"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119814394"
 ---
 # <a name="using-wcs-10"></a>Использование WCS 1.0
 

@@ -4,12 +4,12 @@ ms.assetid: 5d6fc86a-f205-4d14-bb7c-ecd71682e0fe
 title: Идентификаторы кодовых страниц
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 35fb0482247313e8d61d61d7d3178906536ab9e0
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 87595365d9f068d84939e464f4257b3e6136e46d9dec0512ce015568dec5d3c3
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104144677"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119765494"
 ---
 # <a name="code-page-identifiers"></a>Идентификаторы кодовых страниц
 
@@ -163,7 +163,7 @@ ms.locfileid: "104144677"
 | 51949      | euc-kr                  | EUC Корейская                                                                                          |
 | 51950      |                         | EUC Китайская традиционная                                                                             |
 | 52936      | Гц-GB-2312              | HZ-GB2312 Китайская упрощенная; Китайская, упрощенное письмо (Гц)                                               |
-| 54936      | GB18030                 | **Windows XP и более поздние версии:** GB18030-упрощенный китайский (4 байта); Китайская, упрощенное письмо (GB18030)         |
+| 54936      | GB18030                 | **Windows XP и более поздних версий:** GB18030-упрощенный китайский (4 байта); Китайская, упрощенное письмо (GB18030)         |
 | 57002      | x-ISCII-de              | ISCII — деванагари                                                                                    |
 | 57003      | x-ISCII-составлять              | ISCII бенгальский                                                                                        |
 | 57004      | x-ISCII-TA              | ISCII — тамильский                                                                                         |

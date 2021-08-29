@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55102333
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 924b8832a360491ef99cf999c681c2c7b5ded7cc
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 6c9fe018e71cbd6e99906ba04614e2458354bb0c4358b8725d2a529bb49740e1
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104556593"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119836374"
 ---
 # <a name="esentmustdisableloggingfordbupgradeexception-methods"></a>Методы EsentMustDisableLoggingForDbUpgradeException 
 
@@ -78,7 +78,7 @@ ms.locfileid: "104556593"
 
 Начало
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 #### <a name="reference"></a>Справочник
 

@@ -1,19 +1,19 @@
 ---
-description: 'MUI: образец параметров Application-Specific (до Windows Vista)'
+description: 'MUI: пример Параметры Application-Specific (до Windows Vista)'
 ms.assetid: 932aa981-ddd9-4a5b-9003-7dafd98e3ae4
-title: 'MUI: образец параметров Application-Specific (до Windows Vista)'
+title: 'MUI: пример Параметры Application-Specific (до Windows Vista)'
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0c2623c3d0b757f3266e56266a6e84a4d309ecf6
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: e2a95d616003b2158b2945b77a775884862f54f28a59b3f645139e1a3d40dd8f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103811297"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119765034"
 ---
-# <a name="mui-application-specific-settings-sample-pre-windows-vista"></a>MUI: образец параметров Application-Specific (до Windows Vista)
+# <a name="mui-application-specific-settings-sample-pre-windows-vista"></a>MUI: пример Параметры Application-Specific (до Windows Vista)
 
-Пример приложения, описанный в этом разделе, аналогичен показанному в [примере MUI: Application-Specific Settings (Windows Vista)](mui-application-specific-settings-sample-vista.md), за исключением того, что это приложение будет работать в Windows 2000 и более поздних версиях. Основное отличие от другого примера состоит в том, что откат языка должен быть настроен для работы в нескольких операционных системах.
+пример приложения, описанный в этом разделе, аналогичен показанному в [примере MUI: Application-Specific Параметры sample (Windows Vista)](mui-application-specific-settings-sample-vista.md), за исключением того, что это приложение будет выполняться на Windows 2000 и более поздних версиях. Основное отличие от другого примера состоит в том, что откат языка должен быть настроен для работы в нескольких операционных системах.
 
 Это приложение сначала анализирует список языков с разделителями в текстовом файле и преобразует его в список языков с несколькими строками, чтобы определить языковые параметры для конкретного приложения. В образце поддерживаются следующие разделители: ",", ";", ":" и "". После синтаксического анализа списка код находит и загружает ресурсы на определенном языке. В отличие от других примеров параметров приложения, этот код загружает и освобождает файлы ресурсов с помощью вызовов функций многоязыкового интерфейса пользователя [**лоадмуилибрари**](/windows/desktop/api/Muiload/nf-muiload-loadmuilibrarya) и [**фримуилибрари**](/windows/desktop/api/Muiload/nf-muiload-freemuilibrary).
 

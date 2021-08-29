@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 95dc8e16939c345b6f885980dd2f1194f180ac5e
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 4247b04c70cca8da8527d0d9f19ec872c35ec2ee610e3b0e98d88fbffbbfd3d5
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108103692"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119794404"
 ---
 # <a name="swbemservicesassociatorsof-method"></a>SWbemServices. АссоЦиаторсоф, метод
 
@@ -59,7 +59,7 @@ objWbemObjectSet = .AssociatorsOf( _
 *стробжектпас* 
 </dt> <dd>
 
-Обязательный элемент. Строка, содержащая путь к объекту исходного класса или экземпляра. Дополнительные сведения см. [в разделе Описание расположения объекта WMI](describing-the-location-of-a-wmi-object.md).
+Обязательный. Строка, содержащая путь к объекту исходного класса или экземпляра. Дополнительные сведения см. [в разделе Описание расположения объекта WMI](describing-the-location-of-a-wmi-object.md).
 
 </dd> <dt>
 
@@ -244,7 +244,7 @@ objWbemObjectSet = .AssociatorsOf( _
 
 Дополнительные сведения о СОЕДИНИТЕЛях WQL-запросов, исходных экземпляров и конечных точек см. в разделе [соединители оператора](associators-of-statement.md).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -252,7 +252,7 @@ objWbemObjectSet = .AssociatorsOf( _
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Wbemdisp. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_SWBEMSERVICES CLSID<br/>                                                         |

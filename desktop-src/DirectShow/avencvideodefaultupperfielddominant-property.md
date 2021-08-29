@@ -4,12 +4,12 @@ ms.assetid: c3ee4c1d-3d15-44a4-8e7e-acd5f9a51dfe
 title: Свойство Авенквидеодефаултупперфиелддоминант (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7b528449d184afdae41db87c4f030216a9f1b5a0
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: cf4e0983b920c7f817e11d1959edf260916cfdbc41c47490674afbcb529c48dd
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "105662006"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119910828"
 ---
 # <a name="avencvideodefaultupperfielddominant-property"></a>Авенквидеодефаултупперфиелддоминант, свойство
 
@@ -25,7 +25,7 @@ ms.locfileid: "105662006"
 
 **КОДЕКАПИ \_ авенквидеодефаултупперфиелддоминант**
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если значение равно **\_ true**, то первым отображается верхнее поле. В противном случае сначала отображается нижнее поле.
 
@@ -35,9 +35,9 @@ ms.locfileid: "105662006"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Приложения Windows 2000 Professional \[ классические приложения \| UWP\]<br/>                     |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows 2000 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 2000 Professional приложения \[ UWP для классических приложений \|\]<br/>                     |
+| Минимальная версия сервера<br/> | \[приложения UWP для классических приложений Windows 2000 \|\]<br/>                           |
+| Заголовок<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
 
 
 

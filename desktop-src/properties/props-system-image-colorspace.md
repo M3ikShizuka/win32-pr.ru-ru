@@ -4,12 +4,12 @@ ms.assetid: 2375e132-e400-419f-a0f9-cbb6f9acdf45
 title: System. Image. Колорспаце
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 024d99e0f88fd793d0a0f8207b43a52c7be47c30
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 17ef7d2ca0d2843a6297a135df6105b96edd5c4c83dfbeaa1657024b7569c3ba
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105702168"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119716844"
 ---
 # <a name="systemimagecolorspace"></a>System. Image. Колорспаце
 
@@ -69,11 +69,11 @@ propertyDescription
             defineName = IMAGE_COLORSPACE_UNCALIBRATED
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

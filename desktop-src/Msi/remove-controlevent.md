@@ -4,12 +4,12 @@ ms.assetid: dabe44f7-97dd-4037-80e5-f289bab6d4b3
 title: Удалить таблице ControlEvent событие
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9f214330fc16704fd4eef50bc8c75fc10fc2823d
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: d59a22ab4fc321ceaf661aed1ba37970806beb8afe87e90ee9dbc59fa52e8fae
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105663377"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119821384"
 ---
 # <a name="remove-controlevent"></a>Удалить таблице ControlEvent событие
 
@@ -31,7 +31,7 @@ ms.locfileid: "105663377"
 
 Эта таблице ControlEvent событие не выполняет никаких действий с подписчиками.
 
-## <a name="action-by-publisher-when-subscriber-activated"></a>Действие издателя при активации подписчика
+## <a name="action-by-publisher-when-subscriber-activated"></a>действие путем Publisher при активации подписчика
 
 Установщик сохраняет текущее диалоговое окно и уведомляет установщик.
 

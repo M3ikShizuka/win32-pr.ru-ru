@@ -3,33 +3,33 @@ title: Имя файла
 description: Имя файла
 ms.assetid: 88347a19-1d70-478d-9c99-a39226df3e52
 keywords:
-- Обложки Windows Media Player для мобильных устройств, точечные рисунки
+- проигрыватель Windows Media Обложки для мобильных устройств, точечные рисунки
 - обложки, точечные рисунки
 - Справочник по обложкам, точечным рисункам
 - точечные рисунки в обложках, имена файлов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3d984c6ed62299bef30bca3c08076f4d2f70a5aa
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 01dde5c362cb733eee78f2935efac049b2987a22c29ec52bf77cf9272c0bf535
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104331816"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119862734"
 ---
 # <a name="file-name"></a>Имя файла
 
-Это имя файла, содержащего образ. Путь не должен быть указан, и файл должен находиться в каталоге Skin. Расширение имени файла должно быть BMP или GIF.
+Это имя файла, содержащего образ. Путь не должен быть указан, и файл должен находиться в каталоге Skin. Расширение имени файла должно быть .bmp или .gif.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [**Растровые изображения**](bitmaps.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

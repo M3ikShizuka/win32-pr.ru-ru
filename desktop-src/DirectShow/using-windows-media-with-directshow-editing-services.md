@@ -1,33 +1,33 @@
 ---
-description: Использование Windows Media с службами редактирования DirectShow
+description: использование Windows Media с DirectShow служб редактирования
 ms.assetid: 26a88197-ec80-4443-9d50-e11df40dd1eb
-title: Использование Windows Media с службами редактирования DirectShow
+title: использование Windows Media с DirectShow служб редактирования
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 18fbfe715495834217b695f887305f1ecb21cb6f
-ms.sourcegitcommit: c16214e53680dc71d1c07111b51f72b82a4512d8
+ms.openlocfilehash: 8e8c2e73fd4593a5f078c78e1e8290303b3574a314a504c4a555c46929361813
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "105674527"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119755934"
 ---
-# <a name="using-windows-media-with-directshow-editing-services"></a>Использование Windows Media с службами редактирования DirectShow
+# <a name="using-windows-media-with-directshow-editing-services"></a>использование Windows Media с DirectShow служб редактирования
 
 \[Этот API не поддерживается и может быть изменен или недоступен в будущем.\]
 
-В этом разделе описывается использование содержимого на основе Windows Media в приложении [служб редактирования DirectShow](directshow-editing-services.md) (DES). Существует два основных сценария.
+в этом разделе описывается использование Windows содержимого на основе носителя в приложении [DirectShow editing Services](directshow-editing-services.md) (DES). Существует два основных сценария.
 
--   Исходные клипы. Проект DES может содержать аудио-и видеоклипы из файлов Windows Media.
--   Конечный формат. Windows Media — идеальный формат для окончательных выходных данных проекта редактирования видео.
+-   Исходные клипы. проект DES может содержать аудио-и видеоклипы из Windows файлов мультимедиа.
+-   Конечный формат. Windows Носитель — это идеальный формат для окончательных выходных данных проекта редактирования видео.
 
-Для работы с файлами Windows Media приложение должно предоставить сертификат программного обеспечения, который также называется ключом. Для этого реализуется объект поставщика ключа. Поставщик ключей — это COM-объект, предоставляющий интерфейс **IServiceProvider** . Сведения о реализации поставщика ключей см. в разделе [разблокировка пакета SDK Windows Media Format](unlocking-the-windows-media-format-sdk.md).
+для работы с Windows файлами мультимедиа приложение должно предоставить сертификат программного обеспечения, который также называется ключом. Для этого реализуется объект поставщика ключа. Поставщик ключей — это COM-объект, предоставляющий интерфейс **IServiceProvider** . дополнительные сведения о реализации поставщика ключей см. [в разделе разблокировка пакета SDK для Windows Media Format](unlocking-the-windows-media-format-sdk.md).
 
-Чтобы использовать DES с файлами Windows Media, для следующих объектов DES требуется программный ключ:
+чтобы использовать DES с Windows файлами мультимедиа, для следующих объектов des требуется программный ключ:
 
 -   Модуль подготовки отчетов для предварительного просмотра или записи файлов.
 -   Объект Медиадет для получения видеокадров или типов мультимедиа из файлов ASF.
 -   \[! Существенно\]  
-    > Не используйте интеллектуальный модуль визуализации для чтения или записи файлов Windows Media. Всегда используйте базовый механизм визуализации (CLSID \_ рендеренгине).
+    > не используйте интеллектуальный модуль визуализации для чтения или записи Windows файлов мультимедиа. Всегда используйте базовый механизм визуализации (CLSID \_ рендеренгине).
 
      
 
@@ -54,15 +54,15 @@ pKey->Release();
 
 
 
-Чтобы использовать клипы источника Windows Media в проекте DES, просто вызовите **IObjectWithSite:: SetSite** в подсистеме визуализации с указателем на ваш поставщик ключей.
+чтобы использовать Windows клипы источника мультимедиа в проекте DES, просто вызовите **IObjectWithSite:: SetSite** в подсистеме визуализации с указателем на ваш поставщик ключей.
 
-Сведения о создании файлов Windows Media см. [в разделе запись файла Windows Media в Des](writing-a-windows-media-file-in-des.md).
+сведения о записи Windows файлов мультимедиа см. [в разделе запись Windowsного файла мультимедиа в DES](writing-a-windows-media-file-in-des.md).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
-[Использование служб редактирования DirectShow](using-directshow-editing-services.md)
+[использование служб DirectShow editing Services](using-directshow-editing-services.md)
 </dt> </dl>
 
  

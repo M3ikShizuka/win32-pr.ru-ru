@@ -1,21 +1,21 @@
 ---
-description: В этом разделе описывается, как использовать API печати XPS для печати из приложения Windows.
+description: в этом разделе описывается, как использовать API печати XPS для печати из Windows приложения.
 ms.assetid: 3d7ab169-412c-434f-a865-4da4af370eaf
 title: Практические руководства. печать с помощью API печати XPS
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0b4be5f083fb31eccaf2dc4b555435bd15a7fb45
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 6c4261ab9e30f3413ca61c99590056f386d92f89e0ba5de9d1627f91a9a21062
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103912155"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119824814"
 ---
 # <a name="how-to-print-with-the-xps-print-api"></a>Практические руководства. печать с помощью API печати XPS
 
-В этом разделе описывается, как использовать [API печати XPS](xpsprint-api.md) для печати из приложения Windows.
+в этом разделе описывается, как использовать [API печати XPS](xpsprint-api.md) для печати из Windows приложения.
 
-[API печати XPS](xpsprint-api.md) позволяет собственным приложениям Windows печатать XPS-документы. Приложение может создать документ XPS с помощью [API документа XPS](/previous-versions/windows/desktop/dd316976(v=vs.85)). В разделе " [Общие задачи программирования документов XPS](/previous-versions/windows/desktop/dd316968(v=vs.85)) " описывается, как это сделать. После создания документа XPS приложение может использовать API печати XPS для его печати.
+[API печати xps](xpsprint-api.md) позволяет собственным Windowsным приложениям печатать XPS-документы. Приложение может создать документ XPS с помощью [API документа XPS](/previous-versions/windows/desktop/dd316976(v=vs.85)). В разделе " [Общие задачи программирования документов XPS](/previous-versions/windows/desktop/dd316968(v=vs.85)) " описывается, как это сделать. После создания документа XPS приложение может использовать API печати XPS для его печати.
 
 Использование [API печати XPS](xpsprint-api.md) для печати документа из приложения включает следующие шаги.
 

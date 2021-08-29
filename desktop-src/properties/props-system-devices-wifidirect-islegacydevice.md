@@ -4,12 +4,12 @@ ms.assetid: 1ec18626-3549-4206-b7ca-74f16130f557
 title: System. Devices. Вифидирект. Ислегацидевице
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 978d80b02aaa52137db98a37f2b1913db20686a3
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: cf641b1a4f92d41caca7e3930ad018282ff2ece68493a4e7fcfd45871fcacd27
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103816313"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119822754"
 ---
 # <a name="systemdeviceswifidirectislegacydevice"></a>System. Devices. Вифидирект. Ислегацидевице
 
@@ -31,11 +31,11 @@ propertyDescription
       IsInnate = true
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

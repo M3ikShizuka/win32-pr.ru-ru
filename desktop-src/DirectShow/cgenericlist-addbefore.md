@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: a79c0edb8938e3d3d5a89b4a84a418846b9f1986
-ms.sourcegitcommit: 168d11879cb9fd89d26f826482725c0a626be00f
+ms.openlocfilehash: b508cc6cacba3c2a6c5877c69797ce3f6d396296610910a15701c00e3dbbadf5
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "104000546"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119697473"
 ---
 # <a name="cgenericlistaddbefore-method-wxlisth---p-pobj-parameters"></a>Кженериклист. Аддбефоре, метод (Вкслист. h) — p, параметры Побж
 
@@ -61,14 +61,14 @@ POSITION AddBefore(
 
 Возвращает индикатор позиции для вставленного элемента.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 | Требование | Значение |
 |-|-|
-| Header | Вкслист. h (включение Streams. h) |
+| Заголовок | вкслист. h (включает Потоки. h) |
 | Библиотека| Стрмбасе. lib (розничные сборки); Стрмбасд. lib (отладочные сборки) |
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

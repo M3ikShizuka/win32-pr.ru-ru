@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 6493b9e1723d46ce290c7472bbcee7eb9ec34725
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: b1c492d1454f19d05126e18c39ab38a2e0b23b9080e286462a4a563015c26ed5
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105675497"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119627284"
 ---
 # <a name="stringlist-object"></a>Объект Стринглист
 
@@ -30,7 +30,7 @@ ms.locfileid: "105675497"
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Объект **стринглист** имеет следующие свойства.
 
@@ -38,30 +38,30 @@ ms.locfileid: "105675497"
 
 | Свойство                                     | Описание                                                          |
 |:---------------------------------------------|:---------------------------------------------------------------------|
-| [**Расчета**](stringlist-count.md)<br/> | Возвращает количество элементов в объекте **стринглист** .<br/> |
-| [**Элемент**](stringlist-item.md)<br/>   | Возвращает строку в коллекции объектов **стринглист** .<br/> |
+| [**Count**](stringlist-count.md)<br/> | Возвращает количество элементов в объекте **стринглист** .<br/> |
+| [**Компонент**](stringlist-item.md)<br/>   | Возвращает строку в коллекции объектов **стринглист** .<br/> |
 
 
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/> | Установщик Windows 5,0 в Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Установщик Windows 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. установщик Windows в Windows Server 2003 или Windows XP<br/> |
+| Версия<br/> | Windows установщик 5,0 на Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Windows установщик 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Windows установщик на Windows Server 2003 или Windows XP<br/> |
 | DLL<br/>     | <dl> <dt>Msi.dll</dt> </dl>                                                                                                                                                                      |
 | IID<br/>     | IID \_ истринглист определен как 000C1095-0000-0000-C000-000000000046<br/>                                                                                                                                                                          |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
-[Примеры сценариев установщик Windows](windows-installer-scripting-examples.md)
+[Windows Примеры сценариев для установщика](windows-installer-scripting-examples.md)
 </dt> </dl>
 
  

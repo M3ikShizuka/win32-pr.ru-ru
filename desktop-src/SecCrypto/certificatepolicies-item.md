@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: 4a41cfb88f5f3ad59a8dbf62c85eca2a13c69f34
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 001a0cd8e6bab9c6be998f78d467c5b446c639cff994a91865ed99c77ca71caa
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105689382"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119877924"
 ---
 # <a name="certificatepoliciesitem-property"></a>ЦертификатеполиЦиес. Item, свойство
 
@@ -43,7 +43,7 @@ CertificatePolicies.Item( _
 
 Объект [**полициинформатион**](policyinformation.md) , представляющий индексированную политику.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 

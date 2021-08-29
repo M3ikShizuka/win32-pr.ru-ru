@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Imeshare.dll
-ms.openlocfilehash: f54e62feae710dd51cae688d380ccf7da1eda4d6
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: a6d25483edb9aa09febccc0b375ee34152641aa75a4101b5ee34900e4df29031
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105648969"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119758644"
 ---
 # <a name="fboldimestyle-function"></a>Функция Фболдиместиле
 
@@ -50,7 +50,7 @@ BOOL FBoldIMEStyle(
 
 **Значение true** , если стиль имеет полужирный стиль.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Эта функция не имеет связанной библиотеки импорта или файла заголовка. его необходимо вызвать с помощью функций [**LoadLibrary**](/windows/win32/api/libloaderapi/nf-libloaderapi-loadlibrarya) и [**GetProcAddress**](/windows/win32/api/libloaderapi/nf-libloaderapi-getprocaddress) .
 

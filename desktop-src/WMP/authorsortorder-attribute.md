@@ -3,7 +3,7 @@ title: Атрибут Аусорсортордер
 description: Атрибут Аусорсортордер — это значение, используемое для сортировки столбца Author в библиотеке.
 ms.assetid: c8e15681-acca-408f-be52-1e980afddd0d
 keywords:
-- Аусорсортордер атрибут Windows Media Player
+- проигрыватель Windows Media атрибута аусорсортордер
 topic_type:
 - apiref
 api_name:
@@ -12,23 +12,23 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5755e1913916496a2f7de6f9f17007376eca7607
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 37e05b3556911fe48e7fcbbd5331634a15b2c9a232e6b07078c57c1d60c41ee0
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105699294"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119765294"
 ---
 # <a name="authorsortorder-attribute"></a>Атрибут Аусорсортордер
 
 Атрибут **аусорсортордер** — это значение, используемое для сортировки столбца **Author** в библиотеке.
 
-## <a name="applies-to"></a>Применение
+## <a name="applies-to"></a>Применяется к
 
 -   [Звуковые элементы](audio-item-attributes.md)
 -   [Элементы видео](video-item-attributes.md)
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот атрибут хранится только в библиотеке.
 
@@ -40,7 +40,7 @@ ms.locfileid: "105699294"
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------|
-| Версия<br/> | Только проигрыватель Windows Media 9 Series<br/> |
+| Версия<br/> | только проигрыватель Windows Media 9 Series<br/> |
 
 
 

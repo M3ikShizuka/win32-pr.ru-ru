@@ -21,12 +21,12 @@ api_type:
 - Schema
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 77e26f1738c046e446fa898c4fdff2f6e8855730
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 4a489f8a4d9e3d442d4157243594c187a799d20a1d07b3ccc68135e73ddce288
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104071900"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119815664"
 ---
 # <a name="microsoftdns_statistic-class"></a>\_Класс статистики микрософтднс
 
@@ -54,7 +54,7 @@ class MicrosoftDNS_Statistic
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **\_ статистики микрософтднс** имеет следующие свойства.
 
@@ -99,7 +99,7 @@ class MicrosoftDNS_Statistic
 
 </dd> <dt>
 
-**Name**
+**Имя**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -138,7 +138,7 @@ class MicrosoftDNS_Statistic
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -151,7 +151,7 @@ class MicrosoftDNS_Statistic
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

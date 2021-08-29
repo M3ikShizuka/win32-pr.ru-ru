@@ -3,18 +3,18 @@ title: Определение прямоугольников
 description: Определение прямоугольников
 ms.assetid: 62c8aedf-f868-4c05-ba6c-4b1846fd0d5e
 keywords:
-- Обложки мобильных устройств проигрывателя Windows Media, прямоугольники
+- проигрыватель Windows Media Обложки для мобильных устройств, прямоугольники
 - обложки, прямоугольники
 - Создание обложек, прямоугольников
 - прямоугольники в обложках
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f68db076e1ada91841dfafc8ec27752e394836bf
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 40d227b4adb0444e459c476fed084be4fe60dc129b872a10b99dffac22c9cc6e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103779442"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119863543"
 ---
 # <a name="define-the-rectangles"></a>Определение прямоугольников
 
@@ -28,16 +28,16 @@ ms.locfileid: "103779442"
 
 Теперь, когда прямоугольники определены, можно отключить слой эскиза.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [**Создание рисунка**](creating-the-art.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 08ba93d3716a8fb0e701cc783ec83abba40190d5
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 48cc560029400206d749ee7fc74fdf2330b02578ffd73fa4494d8d426951e5d1
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103801762"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119738244"
 ---
 # <a name="tasksettingscompatibility-property"></a>Тасксеттингс. Compatibility, свойство
 
@@ -52,9 +52,9 @@ TaskSettings.Compatibility As Integer
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-Совместимость задач, которая задается с помощью свойства [**Compatibility**](/windows/desktop/api/taskschd/nf-taskschd-itasksettings-get_compatibility) , должна быть установлена только для \_ обеспечения совместимости задач, если требуется \_ доступ к задаче или ее изменение с компьютера под управлением Windows XP, Windows Server 2003 или Windows 2000. В противном случае рекомендуется использовать совместимость с планировщик задач 2,0, так как задача будет иметь больше функций.
+совместимость задач, которая задается с помощью свойства [**compatibility**](/windows/desktop/api/taskschd/nf-taskschd-itasksettings-get_compatibility) , должна быть установлена только для обеспечения совместимости задач версии 1, \_ если требуется доступ к \_ задаче или ее изменение с компьютера Windows XP, Windows Server 2003 или Windows 2000. В противном случае рекомендуется использовать совместимость с планировщик задач 2,0, так как задача будет иметь больше функций.
 
 Задачи, совместимые с командой AT, могут иметь только один триггер времени.
 
@@ -68,8 +68,8 @@ TaskSettings.Compatibility As Integer
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                          |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                    |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                          |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                    |
 | Библиотека типов<br/>             | <dl> <dt>Тасксчд. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Taskschd.dll</dt> </dl> |
 

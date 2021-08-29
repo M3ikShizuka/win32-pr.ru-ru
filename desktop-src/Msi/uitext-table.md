@@ -4,12 +4,12 @@ ms.assetid: 2965e3a8-2cbf-4445-963b-ec2040692106
 title: Таблица Уитекст
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b5fe8bbdec694511103636508d229ab0d2e40afc
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 0d3ab939c9539b95528a574015e45e4f8aeae435b33405d054d8d7ff1756b580
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104143426"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119810334"
 ---
 # <a name="uitext-table"></a>Таблица Уитекст
 
@@ -21,8 +21,8 @@ ms.locfileid: "104143426"
 
 | Столбец | Type                         | Ключ | Допускает значения NULL |
 |--------|------------------------------|-----|----------|
-| Ключ    | [Идентификатор](identifier.md) | Да   | Нет        |
-| Текст   | [Text](text.md)             | Нет   | Да        |
+| Ключ    | [Идентификатор](identifier.md) | Д   | Нет        |
+| Текст   | [Text](text.md)             | Нет   | Д        |
 
 
 
@@ -46,7 +46,7 @@ ms.locfileid: "104143426"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Некоторые элементы управления используют таблицу Уитекст в качестве источника строк. Сведения о том, какие строки требуются в этой таблице для каждого конкретного элемента управления, см. в разделе отдельные элементы управления в [справочнике по пользовательскому интерфейсу](user-interface-reference.md).
 

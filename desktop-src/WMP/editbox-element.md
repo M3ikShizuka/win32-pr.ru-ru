@@ -3,19 +3,19 @@ title: EDITBOX, элемент
 description: EDITBOX, элемент
 ms.assetid: 9ad4abab-e448-4fcf-9451-2476a603e401
 keywords:
-- Обложки проигрывателя Windows Media, элемент EDITBOX
+- обложки проигрыватель Windows Media, элемент EDITBOX
 - обложки, элемент EDITBOX
 - EDITBOX, элемент
 - Справочник по обложкам, элементу EDITBOX
 - Elements, EDITBOX
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 572e6421c5c94643a1ea256a4660bdb97a765ef7
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 2b8832163b46c5c1f6a2b0e0369b44d885dc97822b0f8fab3b90326e56a8db21
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "105691193"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119863174"
 ---
 # <a name="editbox-element"></a>EDITBOX, элемент
 
@@ -43,7 +43,7 @@ ms.locfileid: "105691193"
 
 
 
- 
+ 
 
 Элемент **EDITBOX** поддерживает следующие методы.
 
@@ -61,25 +61,25 @@ ms.locfileid: "105691193"
 
 
 
- 
+ 
 
 Элемент **EDITBOX** поддерживает атрибуты окружения и может реализовывать все обработчики внешних событий, за исключением **OnClick**. Дополнительные сведения см. в разделе [атрибуты окружения](ambient-attributes.md) и [обработчики событий окружения](ambient-event-handlers.md).
 
 > [!Note]  
-> Для этого элемента требуется проигрыватель Windows Media для Windows XP или более поздней версии.
+> для этого элемента требуется проигрыватель Windows Media для Windows XP или более поздней версии.
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [**Справочник по программированию для обложки**](skin-programming-reference.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

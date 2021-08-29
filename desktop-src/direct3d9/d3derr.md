@@ -4,12 +4,12 @@ ms.assetid: 4a9daa05-74f3-4173-b63d-53767feea7e2
 title: D3DERR (D3d9. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5ab8bd5151664ffb05d89a901570dca251b3e478
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: 8aeac9c73848c744cd6e6cca18d76f512de6f874b616b648726d2dc93e743eff
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "104273735"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119857464"
 ---
 # <a name="d3derr"></a>D3DERR
 
@@ -64,7 +64,7 @@ ms.locfileid: "104273735"
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Ошибки представлены отрицательными значениями и не могут быть объединены.
 
@@ -91,7 +91,7 @@ ms.locfileid: "104273735"
 
 | Требование | Значение |
 |-------------------|-----------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3d9. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3d9. h</dt> </dl> |
 
 
 

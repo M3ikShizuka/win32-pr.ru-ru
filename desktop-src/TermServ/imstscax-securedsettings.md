@@ -54,12 +54,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6610448d822fe75082c225686dc6d809229a325f
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: d4f43a089092919124ed3031bafd12a70af1e1ffa0850bf058a91cc9dfd66125
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104135902"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119771094"
 ---
 # <a name="imstscaxsecuredsettings-property"></a>Свойство Имстскакс:: Секуредсеттингс
 
@@ -86,7 +86,7 @@ HRESULT get_SecuredSettings(
 
 В случае успеха возвратите значение **\_ ОК** .
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если элемент управления размещается на веб-странице, а текущая зона безопасности URL-адресов Internet Explorer не позволяет получить адрес интерфейса, этот метод возвращает значение **E \_ Fail**.
 

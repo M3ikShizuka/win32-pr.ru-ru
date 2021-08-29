@@ -4,12 +4,12 @@ description: Объекты, которые используют данные и
 ms.assetid: 286a1ecf-5255-4443-a17d-5ffa55ed0be1
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 49df9e6bb7d9b15192473b18114fe7fcd69ecedf
-ms.sourcegitcommit: 5f33645661bf8c825a7a2e73950b1f4ea0f1cd82
+ms.openlocfilehash: f5d90e9548e39fbfcbfcc6438b22f747bc0045e157de42451001df18bf76df4c
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "105700947"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119854634"
 ---
 # <a name="data-notification"></a>Уведомление об изменении данных
 
@@ -39,7 +39,7 @@ ms.locfileid: "105700947"
 
 При изменении данных в источнике объект данных вызывает [**иадвисесинк:: ондатачанже**](/windows/desktop/api/ObjIdl/nf-objidl-iadvisesink-ondatachange) для всех потребителей данных, зарегистрированных для получения уведомлений. Для наблюдения за лицензионными соединениями и управления отправкой уведомлений источники данных полагаются на объект, называемый *держательом рекомендаций по данным*. Вы можете создать собственный держатель для рекомендаций по данным, реализовав интерфейс [**идатаадвисехолдер**](/windows/desktop/api/ObjIdl/nn-objidl-idataadviseholder) . Вы также можете разрешить COM делать это за вас, вызвав вспомогательную функцию [**креатедатаадвисехолдер**](/windows/win32/api/ole2/nf-ole2-createdataadviseholder).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

@@ -14,23 +14,23 @@ keywords:
 - UIA_LocalizedControlTypePropertyId, свойство
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b504de2c8f0ae660a27b3b16fa4537630a468f5c
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: ef59d46e8f0ad00d2613bcec43ee914c71c9edbc1c8501cd2a714df2b883f63f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104533209"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119795484"
 ---
 # <a name="ui-automation-control-types-overview"></a>Общие сведения о типах элементов управления автоматизации пользовательского интерфейса
 
 Типы элементов управления Microsoft UI Automation — это свойства, которые служат известными идентификаторами, которые указывают тип элемента управления, представляемого определенным элементом пользовательского интерфейса, например поле со списком или кнопку. Клиентские приложения используют тип для определения возможностей элемента управления и для определения способа взаимодействия с ним.
 
-В этом разделе содержатся следующие подразделы.
+Этот раздел состоит из следующих подразделов.
 
 -   [Необходимые компоненты элементов управления автоматизации пользовательского интерфейса](#ui-automation-control-type-requisites)
 -   [Свойство Локализедконтролтипе](#the-localizedcontroltype-property)
 -   [Текущие типы элементов управления автоматизации пользовательского интерфейса](#current-ui-automation-control-types)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="ui-automation-control-type-requisites"></a>Необходимые компоненты элементов управления автоматизации пользовательского интерфейса
 
@@ -116,6 +116,6 @@ ms.locfileid: "104533209"
 [Основы модели автоматизации пользовательского интерфейса](entry-uiautocore-overview.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

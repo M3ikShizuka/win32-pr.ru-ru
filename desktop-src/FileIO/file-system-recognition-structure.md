@@ -12,12 +12,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: c542b2b9ee1cd1696c7c95797c7df20aa02180cf
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 5f18634e3f160347a841008ec24a22c9443e92c546d0637da791b5b4a9c81522
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104080549"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119696244"
 ---
 # <a name="file_system_recognition_structure-structure"></a>\_ \_ Структура распознавания файловой \_ системы
 
@@ -92,25 +92,25 @@ typedef struct _FILE_SYSTEM_RECOGNITION_STRUCTURE {
 
 </dd> <dt>
 
-**Вычислен**
+**Контрольная сумма**
 </dt> <dd>
 
 Двухбайтовое значение CHECKSUM, вычисленное для байтов, начиная с элемента данных **имя файловой системы** и заканчивая последним байтом этой структуры, за исключением элементов данных **Переход** и **CHECKSUM** .
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 7\]<br/>              |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2008 R2 \[\]<br/> |
+| Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>              |
+| Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

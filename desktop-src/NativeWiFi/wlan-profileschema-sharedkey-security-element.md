@@ -12,12 +12,12 @@ api_name:
 api_type:
 - Schema
 api_location: ''
-ms.openlocfilehash: bfd138044e4849e5b0a42ab396561331bea9a338
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 41677a57a51a98e5b9773ff3dda5b6f5084839c8e03f264567f9621f34ec4eb4
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105673897"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119912714"
 ---
 # <a name="sharedkey-security-element"></a>sharedKey (Security), элемент
 
@@ -68,35 +68,35 @@ ms.locfileid: "105673897"
 
 | Элемент                                                                 | Тип                                                              | Описание                                                                                                                                                                  |
 |-------------------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**keyMaterial**](wlan-profileschema-keymaterial-sharedkey-element.md) | [string](/dotnet/api/system.string)   | Содержит ключ сети или парольную фразу.<br/>                                                                                                                           |
+| [**keyMaterial**](wlan-profileschema-keymaterial-sharedkey-element.md) | [строка](/dotnet/api/system.string)   | Содержит ключ сети или парольную фразу.<br/>                                                                                                                           |
 | [**keyType**](wlan-profileschema-keytype-sharedkey-element.md)         |                                                                   | Тип ключа.<br/>                                                                                                                                                      |
 | [**protected**](wlan-profileschema-protected-sharedkey-element.md)     | [boolean](/dotnet/api/system.boolean) | Указывает, зашифрован ли ключ.<br/> **Windows XP с SP3 и API беспроводной локальной сети для Windows XP с пакетом обновления 2 (SP2):** Этот элемент должен иметь значение FALSE.<br/> |
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-Для Windows Vista и Windows Server 2008 данные, связанные с элементом **sharedKey** , шифруются перед сохранением в хранилище профилей.
+для Windows Vista и Windows Server 2008 данные, связанные с элементом **sharedKey** , шифруются перед сохранением в хранилище профилей.
 
-Для Windows XP с пакетом обновления 3 (SP3) и API беспроводной локальной сети для Windows XP с пакетом обновления 2 (SP2) данные не шифруются.
+для Windows XP с пакетом обновления 3 (SP3) и API беспроводной локальной сети для Windows XP с пакетом обновления 2 (SP2) данные не шифруются.
 
 ## <a name="examples"></a>Примеры
 
 Для просмотра образцов профилей, использующих элемент **sharedKey** , см. пример [профиля без широковещательной рассылки](non-broadcast-profile-sample.md), [пример профиля WPA-личное](wpa-personal-profile-sample.md)и [профиль WPA2-Personal](wpa2-personal-profile-sample.md).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista, Windows XP с пакетом обновления 3 (SP3), \[ только классические приложения\]<br/> |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                |
-| Распространяемые компоненты<br/>          | Интерфейс API беспроводной локальной сети для Windows XP с пакетом обновления 2 (SP2)<br/>                 |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                |
+| Распространяемые компоненты<br/>          | API беспроводной локальной сети для Windows XP с пакетом обновления 2 (SP2)<br/>                 |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 2d8cf5be-1252-4b58-89b1-f5c53ea17d0e
 title: Справочник по файлу AVI Metallica
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 83f28a7254ac9eb927381e313603ffd2bd0d050c
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 68cfe9cd0ef27f5aa7a02870392938e14f84caa1a041b0f7677ddbd703920bc5
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "104495663"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119794594"
 ---
 # <a name="avi-riff-file-reference"></a>Справочник по файлу AVI Metallica
 
@@ -170,7 +170,7 @@ RIFF ('AVI '
 
 Данные могут быть согласованы в файле AVI путем вставки нежелательных блоков по мере необходимости. Приложения должны игнорировать содержимое нежелательного фрагмента.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

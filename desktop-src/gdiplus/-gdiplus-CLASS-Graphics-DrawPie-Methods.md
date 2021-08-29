@@ -4,12 +4,12 @@ ms.assetid: 4c6b363f-ffe4-4572-98c0-55f84f789b1e
 title: Методы Graphics. Дравпие (Гдиплусграфикс. h)
 ms.date: 07/02/2019
 ms.topic: reference
-ms.openlocfilehash: 656bfe7f7a9b4ca2269e38ce18202a3d26435403
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: b9a04fc4a6c94b2176184520401cca6ffae42de4f855e0dc501a8c8b495b0fe9
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104987572"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119717644"
 ---
 # <a name="graphicsdrawpie-methods"></a>Методы Graphics. Дравпие
 
@@ -34,7 +34,7 @@ ms.locfileid: "104987572"
 
 | Требование | Значение |
 |-------------------|----------------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Гдиплусграфикс. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Гдиплусграфикс. h</dt> </dl> |
 
 
 

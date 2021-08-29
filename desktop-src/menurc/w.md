@@ -5,12 +5,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: 304a2e00-b21b-4813-b38f-914eb4df2c3c
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 930b87f7ca920ecfec013453da64f63c1da04418
-ms.sourcegitcommit: 8fa6614b715bddf14648cce36d2df22e5232801a
+ms.openlocfilehash: 742d558fa71c8fa74597c619c6fce4dceef9a9f5b242ea4872790eadfaab70da
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "104339985"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119720554"
 ---
 # <a name="w-menus-and-other-resources"></a>W (меню и другие ресурсы)
 
@@ -35,7 +35,7 @@ ms.locfileid: "104339985"
 <span id="tools.w_3_gly"></span><span id="TOOLS.W_3_GLY"></span>**Запись ресаурцетипеимажеланг: лангуажесизе: size**
 </dt> <dd>
 
-(V) компилятор ресурсов Microsoft Windows (RC) записывает указанный ресурс. *Тип* — тип ресурса. Может быть числом или строкой. *Изображение* может быть числом или строкой. *Язык* — это национальный язык ресурса. *Размер* — это десятичный размер ресурса в байтах.
+(V) компилятор Microsoft Windows ресурсов (RC) записывает указанный ресурс. *Тип* — тип ресурса. Может быть числом или строкой. *Изображение* может быть числом или строкой. *Язык* — это национальный язык ресурса. *Размер* — это десятичный размер ресурса в байтах.
 
 </dd> </dl>
 

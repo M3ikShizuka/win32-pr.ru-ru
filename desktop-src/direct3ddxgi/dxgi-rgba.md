@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - DXGItype.h
-ms.openlocfilehash: b0447d6470401d4136fbfd36f6d9c089e331b14b
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 2c1ef7bd65645fa68e699b6f70894e72452a707eac29ab0d35e56364a66604bd
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108114272"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119627424"
 ---
 # <a name="dxgi_rgba-structure"></a>\_Структура RGBA DXGI
 
@@ -91,13 +91,13 @@ typedef D3DCOLORVALUE DXGI_RGBA;
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Windows 8 и обновление платформы для приложений Windows 7 \[ классических приложений \| UWP\]<br/>                        |
-| Минимальная версия сервера<br/> | Windows Server 2012 и обновление платформы для приложений Windows Server 2008 R2 \[ Desktop приложения \| UWP\]<br/> |
-| Header<br/>                   | <dl> <dt>Дксгитипе. h</dt> </dl>                      |
+| Минимальная версия клиента<br/> | Windows 8 и обновление платформы для приложений Windows 7 для \[ настольных приложений \| UWP\]<br/>                        |
+| Минимальная версия сервера<br/> | Windows Server 2012 и обновление платформы для приложений Windows Server 2008 R2 \[ классических приложений \| UWP\]<br/> |
+| Заголовок<br/>                   | <dl> <dt>Дксгитипе. h</dt> </dl>                      |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

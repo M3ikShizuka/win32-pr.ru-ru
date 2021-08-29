@@ -15,12 +15,12 @@ api_type:
 - DllExport
 api_location:
 - vmms.exe
-ms.openlocfilehash: 77ee0f33f540bfd215ec10a24c3c574976189d07
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 2b800237d9af97867b102d23cff004cd84f5e451171781e9eb9e02a9dc509681
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103910400"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119695924"
 ---
 # <a name="cim_concretecomponent-class"></a>\_Класс CIM конкретекомпонент
 
@@ -43,7 +43,7 @@ class CIM_ConcreteComponent : CIM_Component
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **CIM \_ конкретекомпонент** имеет следующие свойства.
 
@@ -81,7 +81,7 @@ class CIM_ConcreteComponent : CIM_Component
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -95,7 +95,7 @@ class CIM_ConcreteComponent : CIM_Component
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

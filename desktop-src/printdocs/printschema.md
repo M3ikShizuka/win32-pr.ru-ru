@@ -1,19 +1,19 @@
 ---
-description: Схема печати и связанные технологии доступны в Microsoft .NET Framework 3,0 и более поздних версиях Microsoft .NET Framework, а также в Windows Vista и более поздних версиях Windows.
+description: схема печати и связанные технологии доступны в microsoft платформа .NET Framework 3,0 и более поздних версиях microsoft платформа .NET Framework, а также в Windows Vista и более поздних версиях Windows.
 ms.assetid: 98d5f8ec-54bd-4e88-b632-ed427b599cb6
 title: Схема печати
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ae3ac50b9a2f2aba9cda7dc73f183e1f3571cc9d
-ms.sourcegitcommit: de72a1294df274b0a71dc0fdc42d757e5f6df0f3
+ms.openlocfilehash: 403ada0b5acea0bd69441db10d688b7de587114704f81bb65e74567e8e0c7001
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "105684804"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119824754"
 ---
 # <a name="print-schema"></a>Схема печати
 
-Схема печати и связанные технологии доступны в Microsoft .NET Framework 3,0 и более поздних версиях Microsoft .NET Framework, а также в Windows Vista и более поздних версиях Windows. Документы XPS и объектная модель XPS могут использовать объекты билетов на печать, которые описаны в [спецификации схемы печати](https://download.microsoft.com/download/D/E/C/DECA6E6B-3E81-48E7-B7EF-6D92A547D03C/print-schema-spec-2-0.zip), чтобы задать параметры печати документа для принтеров и просмотра приложений.
+схема печати и связанные технологии доступны в microsoft платформа .NET Framework 3,0 и более поздних версиях microsoft платформа .NET Framework, а также в Windows Vista и более поздних версиях Windows. Документы XPS и объектная модель XPS могут использовать объекты билетов на печать, которые описаны в [спецификации схемы печати](https://download.microsoft.com/download/D/E/C/DECA6E6B-3E81-48E7-B7EF-6D92A547D03C/print-schema-spec-2-0.zip), чтобы задать параметры печати документа для принтеров и просмотра приложений.
 
 [Спецификация печати схемы](https://download.microsoft.com/download/D/E/C/DECA6E6B-3E81-48E7-B7EF-6D92A547D03C/print-schema-spec-2-0.zip) — это загружаемый документ, содержащий сведения о схеме печати и способах ее использования в документах и печати. Дополнительные сведения предоставляются только для вашей информации, в [устаревшей ссылке на схему печати](print-schema.md). Однако она может не точно отражать текущую версию [спецификации схемы печати](https://download.microsoft.com/download/D/E/C/DECA6E6B-3E81-48E7-B7EF-6D92A547D03C/print-schema-spec-2-0.zip). Актуальные сведения о проектировании см. в [спецификации схемы печати](https://download.microsoft.com/download/D/E/C/DECA6E6B-3E81-48E7-B7EF-6D92A547D03C/print-schema-spec-2-0.zip) .
 
@@ -23,7 +23,7 @@ ms.locfileid: "105684804"
 
 Технологии печатной схемы, называемые *PrintCapabilities* и *PrintTicket*, создаются с помощью ключевых слов схемы Print, как указано в платформе схемы печати. Спецификация печати схемы поддерживает расширения схемы сторонними производителями, поэтому пользователи схемы печати не ограничиваются экземплярами свойств, компонентов, параметров или Параметеринит, которые определены ключевыми словами схемы печати. К экземплярам элементов, определяемым ключевыми словами схемы Print, можно добавлять сторонние экземпляры элементов. Однако частные экземпляры свойств сторонних разработчиков должны принадлежать пространству имен, которое явно связано с третьим лицом, создавшим пространство имен.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -33,7 +33,7 @@ ms.locfileid: "105684804"
 [Ссылка на схему печати прежних версий](print-schema.md)
 </dt> <dt>
 
-[Двунаправленное взаимодействие с принтерами (центр разработки оборудования)](/windows-hardware/drivers/print/bidirectional-communication)
+[двунаправленное взаимодействие с принтерами (Центр разработки оборудования)](/windows-hardware/drivers/print/bidirectional-communication)
 </dt> </dl>
 
  
