@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: b44181f926f77ecc7cc22673622d4a0d3dcb7d26
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: c9f4a12c03e7e001845437f57f9799c7b0861f4f8f9b6cfac56aaa2bb80e51a6
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105657570"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119566924"
 ---
 # <a name="cfactorytemplatem_lpfninit-member"></a>Элемент Кфакторитемплате:: m \_ лпфнинит
 
@@ -36,25 +36,25 @@ LPFNInitRoutine m_lpfnInit;
 
 
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Тип указателя функции — [**лпфнинитраутине**](lpfninitroutine.md). При предоставлении этой функции в библиотеке DLL функция точки входа DLL вызывает ее со следующими параметрами:
 
 -   *блоадинг*: **true** при загрузке библиотеки DLL, **значение false** при выгрузке библиотеки DLL.
 -   *рклсид*: указатель на clisd инициализированного объекта, указанный в переменной члена [**\_ CLSID кфакторитемплате:: m**](cfactorytemplate-m-clsid.md) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Комбасе. h (включение Streams. h)</dt> </dl>                                                                                   |
+| Заголовок<br/>  | <dl> <dt>комбасе. h (включает Потоки. h)</dt> </dl>                                                                                   |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

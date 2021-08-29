@@ -3,7 +3,7 @@ title: Реализация Цечопроппаже Онинитдиалог
 description: Реализация Цечопроппаже Онинитдиалог
 ms.assetid: 568989b0-bc07-480f-8b5c-41bbada713f8
 keywords:
-- Подключаемые модули проигрывателя Windows Media, примеры страниц свойств Echo
+- проигрыватель Windows Media подключаемых модулей, эхо-образцов страниц свойств
 - страницы свойств "подключаемые модули", "Эхо-примеры"
 - подключаемые модули обработки цифровых сигналов, примеры страниц свойств
 - Подключаемые модули DSP, примеры страниц свойств
@@ -11,12 +11,12 @@ keywords:
 - Пример подключаемого модуля Echo DSP, метод Цечопроппаже Онинитдиалог
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0874c750914b5caecf86ffa61a0c42d38bb1c02e
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: aa7f525ad5279b1215d597a043d0c091d51ddd4bf9fca8546dbcb90317a525f3
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "105691166"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119135607"
 ---
 # <a name="implementing-cechoproppageoninitdialog"></a>Реализация Цечопроппаже:: Онинитдиалог
 
@@ -110,16 +110,16 @@ SetDlgItemText(IDC_WETMIX, szStr);
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [**Изменение страницы свойств «пример эха»**](modifying-the-echo-sample-property-page.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

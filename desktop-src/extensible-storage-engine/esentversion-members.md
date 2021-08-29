@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55103183
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: d16c54ec9efb7d332a5e4ca56e13a96fd595daeb
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: b303a0875a609889bc80b239888a857f420a465d55638616a589fd1b0e86bed0
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103819105"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119112783"
 ---
 # <a name="esentversion-members"></a>Элементы Есентверсион
 
@@ -42,7 +42,7 @@ ms.locfileid: "103819105"
 <tr class="even">
 <td><img src="../images/dn292128.pubproperty(exchg.10).gif" title="Открытое свойство" alt="Public property" /><img src="../images/dn292146.static(exchg.10).gif" title="Статический член" alt="Static member" /></td>
 <td><a href="dn350871(v=exchg.10).md">SupportsServer2003Features</a></td>
-<td>Возвращает значение, указывающее, поддерживает ли текущая версия ESENT функции, доступные в версии ESENT для Windows Server 2003.</td>
+<td>возвращает значение, указывающее, поддерживает ли текущая версия esent функции, доступные в Windows Server 2003 версии ESENT.</td>
 </tr>
 <tr class="odd">
 <td><img src="../images/dn292128.pubproperty(exchg.10).gif" title="Открытое свойство" alt="Public property" /><img src="../images/dn292146.static(exchg.10).gif" title="Статический член" alt="Static member" /></td>
@@ -52,17 +52,17 @@ ms.locfileid: "103819105"
 <tr class="even">
 <td><img src="../images/dn292128.pubproperty(exchg.10).gif" title="Открытое свойство" alt="Public property" /><img src="../images/dn292146.static(exchg.10).gif" title="Статический член" alt="Static member" /></td>
 <td><a href="dn350861(v=exchg.10).md">суппортсвистафеатурес</a></td>
-<td>Возвращает значение, указывающее, поддерживает ли текущая версия ESENT функции, доступные в версии ESENT Windows Vista.</td>
+<td>возвращает значение, указывающее, поддерживает ли текущая версия esent функции, доступные в Windows Vista версии ESENT.</td>
 </tr>
 <tr class="odd">
 <td><img src="../images/dn292128.pubproperty(exchg.10).gif" title="Открытое свойство" alt="Public property" /><img src="../images/dn292146.static(exchg.10).gif" title="Статический член" alt="Static member" /></td>
 <td><a href="dn350860(v=exchg.10).md">SupportsWindows7Features</a></td>
-<td>Возвращает значение, указывающее, поддерживает ли текущая версия ESENT функции, доступные в версии ESENT Windows 7.</td>
+<td>возвращает значение, указывающее, поддерживает ли текущая версия esent функции, доступные в версии Windows 7 esent.</td>
 </tr>
 <tr class="even">
 <td><img src="../images/dn292128.pubproperty(exchg.10).gif" title="Открытое свойство" alt="Public property" /><img src="../images/dn292146.static(exchg.10).gif" title="Статический член" alt="Static member" /></td>
 <td><a href="dn350863(v=exchg.10).md">SupportsWindows8Features</a></td>
-<td>Возвращает значение, указывающее, поддерживает ли текущая версия ESENT функции, доступные в версии ESENT Windows 8.</td>
+<td>возвращает значение, указывающее, поддерживает ли текущая версия esent функции, доступные в Windows 8 версии esent.</td>
 </tr>
 </tbody>
 </table>

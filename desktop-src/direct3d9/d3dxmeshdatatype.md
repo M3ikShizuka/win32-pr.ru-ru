@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3dx9anim.h
-ms.openlocfilehash: 9dea67984992e4bb26cd9e2613013169b1ff097d
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: d204390bcc1ab5ef3bb4325b3ce1fa5b1adb05b548329dc75d3d16a5e93e5b66
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "105694146"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119564654"
 ---
 # <a name="d3dxmeshdatatype-enumeration"></a>Перечисление D3DXMESHDATATYPE
 
@@ -62,17 +62,17 @@ typedef enum D3DXMESHDATATYPE {
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|----------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3dx9anim. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3dx9anim. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

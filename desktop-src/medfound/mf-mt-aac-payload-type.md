@@ -4,12 +4,12 @@ ms.assetid: a032fcf4-2584-4047-adbd-d94d4fc4e841
 title: Атрибут MF_MT_AAC_PAYLOAD_TYPE (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bd3edba98bdac54b12fb6e3e44fb67373f7fce6a
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 6c4c7852e5719f2293e21f7f37c761c39a14dca132113c6b9224038c640e3d2b
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105721013"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119940684"
 ---
 # <a name="mf_mt_aac_payload_type-attribute"></a>\_ \_ \_ Атрибут типа полезных данных MF MT AAC \_
 
@@ -40,11 +40,11 @@ ms.locfileid: "105721013"
 
 Чтобы задать этот атрибут, вызовите [**имфаттрибутес:: SetUINT32**](/windows/desktop/api/mfobjects/nf-mfobjects-imfattributes-setuint32).
 
-## <a name="applies-to"></a>Применение
+## <a name="applies-to"></a>Применяется к
 
 [**имфмедиатипе**](/windows/desktop/api/mfobjects/nn-mfobjects-imfmediatype)
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 \_ \_ \_ Тип полезных данных AAC MF MT \_ не является обязательным. Если этот атрибут не указан, используется значение по умолчанию 0, указывающее, что поток содержит только элементы необработанных \_ \_ блоков данных.
 
@@ -52,17 +52,17 @@ ms.locfileid: "105721013"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Мфапи. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Мфапи. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

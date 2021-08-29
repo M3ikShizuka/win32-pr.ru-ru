@@ -17,12 +17,12 @@ api_type:
 - DllExport
 api_location:
 - vmms.exe
-ms.openlocfilehash: 2772068ed011a2a61cdd4f5c1396e057838b7720
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: d68a156b4037e1c21321ef4662fa1e4a8cfdb0d81ceeea3d66ecf38897aef259
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105662803"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119561784"
 ---
 # <a name="cim_virtualsystemmanagementcapabilities-class"></a>\_Класс CIM виртуалсистемманажементкапабилитиес
 
@@ -47,7 +47,7 @@ class CIM_VirtualSystemManagementCapabilities : CIM_EnabledLogicalElementCapabil
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **CIM \_ виртуалсистемманажементкапабилитиес** имеет следующие свойства.
 
@@ -303,7 +303,7 @@ class CIM_VirtualSystemManagementCapabilities : CIM_EnabledLogicalElementCapabil
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -317,7 +317,7 @@ class CIM_VirtualSystemManagementCapabilities : CIM_EnabledLogicalElementCapabil
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

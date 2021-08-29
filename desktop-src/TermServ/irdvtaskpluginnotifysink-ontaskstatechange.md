@@ -16,12 +16,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: c3e3acf1a2d47b1721ef90554f7a11714c02e6df
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: b6e580a78ba14363b140d48896d63ddafaf27f5a2e64c9ff18045b007bcc8d9f
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105672863"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118129116"
 ---
 # <a name="irdvtaskpluginnotifysinkontaskstatechange-method"></a>Метод Ирдвтаскплугиннотифисинк:: Онтаскстатечанже
 
@@ -67,18 +67,18 @@ HRESULT OnTaskStateChange(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------|
-| Минимальная версия клиента<br/> | Windows 7 Корпоративная<br/>   |
+| Минимальная версия клиента<br/> | Windows 7 Корпоративная<br/>   |
 | Минимальная версия сервера<br/> | Windows Server 2008 R2<br/> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

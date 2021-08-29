@@ -3,9 +3,9 @@ title: Медиаколлектион. createQuery, метод
 description: Метод createQuery создает новый объект запроса.
 ms.assetid: f6360717-ea36-456c-8f3d-683ab6df012e
 keywords:
-- createQuery метод Windows Media Player
-- createQuery метод Windows Media Player, класс Медиаколлектион
-- Класс Медиаколлектион Windows Media Player, метод createQuery
+- проигрыватель Windows Media метода createQuery
+- проигрыватель Windows Media метода createQuery, класс медиаколлектион
+- класс медиаколлектион проигрыватель Windows Media, метод createQuery
 topic_type:
 - apiref
 api_name:
@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2dca590dcca3b11e7b6763272a51b86a62e100b2
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: d66c75de2479ce6426546fa58e51afa39d34cf72978e7812680682803d797651
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105698814"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119135076"
 ---
 # <a name="mediacollectioncreatequery-method"></a>Медиаколлектион. createQuery, метод
 
@@ -44,7 +44,7 @@ retVal = MediaCollection.createQuery()
 
 Этот метод возвращает новый пустой объект **запроса** .
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Создание нового объекта **запроса** — это первый шаг к созданию составного запроса.
 
@@ -54,7 +54,7 @@ retVal = MediaCollection.createQuery()
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media 11.<br/>                                                |
+| Версия<br/> | проигрыватель Windows Media 11.<br/>                                                |
 | DLL<br/>     | <dl> <dt>Wmp.dll</dt> </dl> |
 
 

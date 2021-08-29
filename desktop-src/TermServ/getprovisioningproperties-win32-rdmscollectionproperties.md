@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2ca58f82d2918441e5da3cf53d442497c1a6a2eb
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 4cd97ca6f3ec79320509881d79bc0ea24d73944a0ae3634d331073517c8bc0fe
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105681978"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118130449"
 ---
 # <a name="getprovisioningproperties-method-of-the-win32_rdmscollectionproperties-class"></a>Метод Жетпровисионингпропертиес \_ класса Win32 рдмсколлектионпропертиес
 
@@ -156,7 +156,7 @@ uint32 GetProvisioningProperties(
 
 Возвращает значение 0 при успешном выполнении, в противном случае возвращает код ошибки WMI.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -170,7 +170,7 @@ uint32 GetProvisioningProperties(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: b0a12620-4f8f-44d9-bc73-2c3ab30f80af
 title: Создание влияния (Direct3D 10)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0b630bae35b8e1390a4be77e5cb5e4aaa3f41d9c
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 75014688c62e6f8f0463c430b0b17aafd28e0ad3764d00b8a357a6613565d87d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105682336"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119567064"
 ---
 # <a name="create-an-effect-direct3d-10"></a>Создание влияния (Direct3D 10)
 
@@ -29,7 +29,7 @@ D3DX10CreateEffectFromFile( "BasicHLSL10.fx", NULL, NULL,
 
 Для чтения результата требуются те же параметры, что и при компиляции влияния, а также устройство и пул.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

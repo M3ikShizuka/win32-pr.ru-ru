@@ -4,12 +4,12 @@ description: Клиенты переходят от одного объекта 
 ms.assetid: c6bcd044-bf70-4eec-92ae-66f9bd836c33
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7e7645d5179015280fd40f6618722191e588c74a
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 80631c78e42d9a480992bb40f14d12c0fca8b7c0085ec259daa5550c834d200a
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103986373"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119133757"
 ---
 # <a name="object-navigation-properties-and-methods"></a>Свойства и методы навигации по объектам
 
@@ -21,9 +21,9 @@ ms.locfileid: "103986373"
 -   [Пространственное и логическое перемещение](spatial-and-logical-navigation.md)
 -   [Навигация с помощью проверки попадания и расположения на экране](navigation-through-hit-testing-and-screen-location.md)
 
- 
+ 
 
- 
+ 
 
 
 

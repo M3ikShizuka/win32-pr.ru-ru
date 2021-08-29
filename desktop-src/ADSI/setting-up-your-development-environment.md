@@ -7,27 +7,27 @@ keywords:
 - Настройка среды разработки Active Directory
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 067af0d311b0ea222ddb94c9a3509f4495b3eb93
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 36313618dd78f04b7665d16919360afc7b18366ceaf4d0d58f7aeead0fd9d2b8
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104067312"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119262164"
 ---
 # <a name="setting-up-your-development-environment"></a>Настройка среды разработки
 
-Вы можете получить доступ к интерфейсам ADSI с различных платформ разработки, таких как сценарии, ASP, Visual Basic системы разработки Майкрософт или Visual C++, или любой другой язык, совместимый с автоматизацией.
+вы можете получить доступ к интерфейсам ADSI с различных платформ разработки, таких как сценарии, ASP, Visual Basic системы разработки майкрософт или Visual C++, или любой другой язык, совместимый с автоматизацией.
 
 Дополнительные сведения о настройке среды разработки и создании базовых приложений ADSI см. в следующих статьях:
 
 -   [начало работы со сценариями для ADSI](getting-started-with-scripting-for-adsi.md)
 -   [начало работы с ASP для ADSI](getting-started-with-asp-for-adsi.md)
--   [Настройка Visual Basic 6,0 для разработки с интерфейсом ADSI](setting-up-visual-basic-for-adsi-development.md)
+-   [настройка Visual Basic 6,0 для разработки с интерфейсом ADSI](setting-up-visual-basic-for-adsi-development.md)
 -   [Настройка Visual C++ 6,0 для разработки с интерфейсом ADSI](setting-up-c---for-adsi-development.md)
 
- 
+ 
 
- 
+ 
 
 
 

@@ -19,12 +19,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: eb939a518ab1050d932349cd70c85bcd22edf3d4
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 308d8eef2a19ff9b92f7d860bb17662e84e4028eb21a5a228819b90b0af31ba3
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104492993"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118128174"
 ---
 # <a name="itssbsessionstate-property"></a>Свойство Итссбсессион:: State
 
@@ -51,7 +51,7 @@ HRESULT get_State(
 
 Значение перечисления [**\_ состояния тссессион**](/windows/desktop/api/SessDirPublicTypes/ne-sessdirpublictypes-tssession_state) , указывающее состояние сеанса.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -63,7 +63,7 @@ HRESULT get_State(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

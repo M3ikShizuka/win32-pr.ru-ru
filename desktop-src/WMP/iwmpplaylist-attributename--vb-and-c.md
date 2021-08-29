@@ -3,7 +3,7 @@ title: Ивмпплайлист. attributeName (VB и C)
 description: Свойство attributeName ( \_ метод Get AttributeName в C \) возвращает имя атрибута списка воспроизведения, указанного индексом.
 ms.assetid: bb436657-5156-437e-af58-6497ad3b311b
 keywords:
-- Проигрыватель Windows Media Ивмпплайлист. attributeName (VB и C)
+- ивмпплайлист. attributeName (VB и C) проигрыватель Windows Media
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - Assembly
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 727d58a0cf875ed29efe9235448c1d597e81656a
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 8b495554e4159214cbd5b1f7fa823dfeb373a11a1bfe2514d9ad07da497fa708
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105685075"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119135387"
 ---
 # <a name="iwmpplaylistattributename-vb-and-c"></a>Ивмпплайлист. attributeName (VB и C#)
 
@@ -55,9 +55,9 @@ System.String get_attributeName(
 
 **Строка System. String** , которая является именем атрибута списка воспроизведения.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-**Ивмпплайлист. AttributeName** — это свойство, доступное только для чтения, в Visual Basic, которое принимает параметр, тогда как в C# он называется методом **ивмпплайлист. Get \_ attributeName** .
+**ивмпплайлист. attributeName** — это свойство, доступное только для чтения, в Visual Basic, которое принимает параметр, тогда как в C# он называется методом **ивмпплайлист. get \_ attributeName** .
 
 Число атрибутов, связанных с списком воспроизведения, возвращается свойством **ивмпплайлист. аттрибутекаунт** .
 
@@ -65,7 +65,7 @@ System.String get_attributeName(
 
 Перед использованием этого свойства необходимо иметь доступ на чтение к библиотеке. Дополнительные сведения см. в разделе [доступ к библиотеке](library-access.md).
 
-Дополнительные сведения об атрибутах, поддерживаемых проигрывателем Windows Media, см. в [справочнике по атрибутам](attribute-reference.md).
+дополнительные сведения об атрибутах, поддерживаемых проигрыватель Windows Media, см. в [справочнике по атрибутам](attribute-reference.md).
 
 ## <a name="examples"></a>Примеры
 
@@ -77,7 +77,7 @@ System.String get_attributeName(
 
 | Требование | Значение |
 |----------------------|------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/>   | Проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                      |
+| Версия<br/>   | проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                      |
 | Пространство имен<br/> | **вмплиб**<br/>                                                                                                  |
 | Сборка<br/>  | <dl> <dt>Interop.WMPLib.dll (Interop.WMPLib.dll.dll)</dt> </dl> |
 

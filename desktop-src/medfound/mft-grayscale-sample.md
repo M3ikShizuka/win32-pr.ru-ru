@@ -4,12 +4,12 @@ ms.assetid: ad7d20bc-5eab-4390-a48b-5ea8e97ead7d
 title: Пример MFT_Grayscale
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 273c562eb5985d0a329c434a8e4aa44119744496
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: ff29705476869b25aeb42157ebe4878131397988cc56eccc842fcb81134fb8db
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104155355"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119102174"
 ---
 # <a name="mft_grayscale-sample"></a>\_Пример использования градаций серого в MFT
 
@@ -41,9 +41,9 @@ ms.locfileid: "104155355"
 
 ## <a name="downloading-the-sample"></a>Загрузка образца
 
-Этот пример доступен в [репозитории GitHub с классическими примерами Windows](https://github.com/Microsoft/Windows-classic-samples/tree/master/Samples/Win7Samples/multimedia/mediafoundation/mft_grayscale).
+этот пример доступен в [репозитории github для классических примеров Windows](https://github.com/Microsoft/Windows-classic-samples/tree/master/Samples/Win7Samples/multimedia/mediafoundation/mft_grayscale).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

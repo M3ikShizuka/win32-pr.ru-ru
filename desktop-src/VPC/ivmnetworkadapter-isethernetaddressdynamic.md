@@ -18,16 +18,16 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7b16074243094d410e8d39538b024120daa1871e
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 9b186eac69317d0e17bf3c50fbfdb63d5e3e0074a8531b63c635913c31db9c3b
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104071064"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119136647"
 ---
 # <a name="ivmnetworkadapterisethernetaddressdynamic-property"></a>Свойство Ивмнетворкадаптер:: Исесернетаддрессдинамик
 
-\[Windows Virtual PC больше не доступна для использования в Windows 8. Вместо этого используйте [поставщик WMI Hyper-V (v2)](/windows/desktop/HyperV_v2/windows-virtualization-portal).\]
+\[Windows Virtual PC больше не доступен для использования в Windows 8. Вместо этого используйте [поставщик WMI Hyper-V (v2)](/windows/desktop/HyperV_v2/windows-virtualization-portal).\]
 
 Определяет, создается ли адрес Ethernet динамически.
 
@@ -65,7 +65,7 @@ HRESULT get_IsEthernetAddressDynamic(
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Для большинства виртуальных сетевых интерфейсов этому свойству должно быть присвоено значение **true** (по умолчанию). Если для программного обеспечения в гостевой системе требуется статический Ethernet-адрес, это свойство должно иметь значение **false**.
 
@@ -75,7 +75,7 @@ HRESULT get_IsEthernetAddressDynamic(
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 7\]<br/>                                                    |
+| Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                                    |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                     |
 | Окончание поддержки клиента<br/>    | Windows 7<br/>                                                                          |
 | Продукт<br/>                  | Windows Virtual PC<br/>                                                                 |
