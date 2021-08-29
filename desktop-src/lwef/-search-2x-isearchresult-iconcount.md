@@ -3,9 +3,9 @@ title: Исеарчресулт Иконкаунт, метод
 description: Зарезервировано. | Исеарчресулт Иконкаунт, метод
 ms.assetid: b77d2cb7-426c-4570-a6eb-1c301c1632a9
 keywords:
-- Устаревшие функции среды Windows в методе Иконкаунт
-- Метод Иконкаунт устаревшие функции среды Windows, интерфейс Исеарчресулт
-- Интерфейс Исеарчресулт устаревшие функции среды Windows, метод Иконкаунт
+- устаревшие функции Windows метода иконкаунт
+- устаревшие функции Windows метода иконкаунт, интерфейс исеарчресулт
+- устаревшие функции Windows интерфейса исеарчресулт, метод иконкаунт
 ms.topic: reference
 ms.date: 05/31/2018
 topic_type:
@@ -13,12 +13,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: cb49bbdfeb2eea09790c7922ec4ca943270c5bad
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.openlocfilehash: 19cbf5c6f134e88de162ac93e66251c3b4f1d8d6d6ad12c3ac6a8ce4fada9daf
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "105693946"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119726514"
 ---
 # <a name="isearchresulticoncount-method"></a>Метод Исеарчресулт:: Иконкаунт
 

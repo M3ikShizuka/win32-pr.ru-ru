@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Offreg.dll
-ms.openlocfilehash: ff63a7d896964f486b5fcb168c08513f8d5703be
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 933bc37e8bc4a79191d781fa5981e8633939757482d6156a7a08f7da6a36cff2
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105665119"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119758434"
 ---
 # <a name="orsetkeysecurity-function"></a>Функция Орсеткэйсекурити
 
@@ -68,19 +68,19 @@ DWORD ORSetKeySecurity(
 
 Если функция завершается ошибкой, она возвращает ненулевой код ошибки, определенный в файле Winerror. h. [](/windows/win32/api/winbase/nf-winbase-formatmessage) \_ \_ \_ Для получения обобщенного описания ошибки можно использовать функцию FormatMessage с флагом формата Message от System.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |----------------------------|---------------------------------------------------------------------------------------|
-| Распространяемые компоненты<br/> | Автономная библиотека реестра Windows версии 1,0 или более поздней<br/>                      |
-| Header<br/>          | <dl> <dt>Оффрег. h</dt> </dl>   |
+| Распространяемые компоненты<br/> | Windows Библиотека автономных разделов реестра версии 1,0 или более поздней<br/>                      |
+| Заголовок<br/>          | <dl> <dt>Оффрег. h</dt> </dl>   |
 | DLL<br/>             | <dl> <dt>Offreg.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: b5dde0d0-940f-40ec-b24d-95a76325ff1b
 title: Пример профиля PEAP
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: db34a3a99305f3506e3b34fde48f41e5a4c72ac8
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 8a2529efb7db131d03807bc5b09c7599a66a7e49d5938edfdde9b98c07291b3f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105673653"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119800684"
 ---
 # <a name="peap-profile-sample"></a>Пример профиля PEAP
 
@@ -63,7 +63,7 @@ ms.locfileid: "105673653"
 </LANProfile>
 ```
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

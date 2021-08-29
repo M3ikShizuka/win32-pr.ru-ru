@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b446cf2a7a14e5909d2c99d41fd918147d23c6f1
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.openlocfilehash: 179d152aaa16420139036a5dc9705ad7cc7c8f240f5f93e51b0cee9a95dc911f
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "103890613"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "117806682"
 ---
 # <a name="optional-attribute"></a>optional - атрибут
 
@@ -66,7 +66,7 @@ return-type function-name([optional [, other-attributes]] parameter-type paramet
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 **\[ Необязательный \]** атрибут допустим только в том случае, если параметр относится к типу **Variant** или **Variant** в \* .
 
@@ -87,7 +87,7 @@ HRESULT MyFunc([in, optional] VARIANT Param1,
                [out, optional] VARIANT Param2)
 ```
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
@@ -109,6 +109,6 @@ HRESULT MyFunc([in, optional] VARIANT Param1,
 [**retval**](retval.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

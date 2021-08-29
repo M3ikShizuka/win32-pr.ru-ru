@@ -4,12 +4,12 @@ ms.assetid: 567d5542-fc7b-4d19-bc3c-b9d6e26e3387
 title: Политика метаданных фото для System. photo. Пеопленамес
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4118cc8242d6dfe8a91d0bcd2b6039095fdf180037f51205d3541b9aefa2cc0d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5540356001cdd33bb7c0d3340534f9c69e230a5d
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119087053"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122886447"
 ---
 # <a name="systemphotopeoplenames-photo-metadata-policy"></a>Политика метаданных фото для System. photo. Пеопленамес
 
@@ -45,9 +45,9 @@ VT \_ Векторная \| \_ LPWSTR
 
 
 
-| Номер | Путь                                                           | Формат диска |
+| Порядок | путь                                                           | Формат диска |
 |-------|----------------------------------------------------------------|-------------|
-| 1     | /КСМП/ <xmpstruct> MP: RegionInfo/ <xmpbag> МПРИ: регионы | ushort      |
+| 1     | /КСМП/ &lt; ксмпструкт &gt; MP: RegionInfo/ &lt; Ксмпбаг &gt; МПРИ: regions | ushort      |
 
 
 
@@ -61,9 +61,9 @@ VT \_ Векторная \| \_ LPWSTR
 
 
 
-| Номер | Путь                                |
+| Порядок | путь                                |
 |-------|-------------------------------------|
-| 1     | /КСМП/ <xmpstruct> MP: RegionInfo |
+| 1     | /КСМП/ &lt; ксмпструкт &gt; MP: RegionInfo |
 
 
 
@@ -75,9 +75,9 @@ VT \_ Векторная \| \_ LPWSTR
 
 
 
-| Номер | Путь                                                               | Формат диска |
+| Порядок | путь                                                               | Формат диска |
 |-------|--------------------------------------------------------------------|-------------|
-| 1     | /ИФД/КСМП/ <xmpstruct> MP: RegionInfo/ <xmpbag> МПРИ: регионы | ushort      |
+| 1     | /ИФД/КСМП/ &lt; ксмпструкт &gt; MP: RegionInfo/ &lt; Ксмпбаг &gt; МПРИ: regions | ushort      |
 
 
 
@@ -91,15 +91,15 @@ VT \_ Векторная \| \_ LPWSTR
 
 
 
-| Номер | Путь                                    |
+| Порядок | путь                                    |
 |-------|-----------------------------------------|
-| 1     | /ИФД/КСМП/ <xmpstruct> MP: RegionInfo |
+| 1     | /ИФД/КСМП/ &lt; ксмпструкт &gt; MP: RegionInfo |
 
 
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 ## <a name="related-topics"></a>Связанные темы
 
