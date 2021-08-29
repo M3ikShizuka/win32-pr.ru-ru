@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e12bba2b83f3956cf4b654c00b0650a6a0ce9a54
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: c19a455444459e78e2a98fde6386e733c9aa7f1848ed3bb7d2cd6bc22c3062cf
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105679894"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119698204"
 ---
 # <a name="d2dsampleinputatposition-function"></a>Функция D2DSampleInputAtPosition
 
@@ -56,7 +56,7 @@ float4 WINAPI D2DSampleInputAtPosition(
 
 Функция возвращает **float4** в формате текскурдн.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 В следующем примере показана функция, используемая в циклической оболочке.
 
@@ -73,18 +73,18 @@ D2D_PS_ENTRY(CircularWrapPS)
 }
 ```
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|----------------------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D2d1effecthelpers. hlsli</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D2d1effecthelpers. hlsli</dt> </dl> |
 | DLL<br/>    | <dl> <dt>D2d1.dll</dt> </dl>                |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

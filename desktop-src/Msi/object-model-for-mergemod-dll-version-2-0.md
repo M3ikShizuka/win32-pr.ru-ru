@@ -4,12 +4,12 @@ ms.assetid: 9b892eb5-879c-4ea5-9697-4fb21034b15c
 title: Объектная модель для Mergemod.dll версии 2,0
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 397774c93166455a97538cc1a2c5e851693d0586
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 17474b3edd36f35fe5069848b50a86e1ad379c78076514c95ad0a1ac09b42fef
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104561367"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119534492"
 ---
 # <a name="object-model-for-mergemoddll-version-20"></a>Объектная модель для Mergemod.dll версии 2,0
 

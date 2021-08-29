@@ -4,12 +4,12 @@ ms.assetid: b62a6ccc-a1ea-455c-9659-544d4bcaf6a2
 title: Состояния эффектов (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0eb7b00362520ed67203f5adf84f6c420e1e16fcb34dc741d2f3fdd303a2152d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b02cafd3bbd603716da99f5de613f06014a70f77
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119986014"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122468481"
 ---
 # <a name="effect-states-direct3d-9"></a>Состояния эффектов (Direct3D 9)
 
@@ -131,169 +131,9 @@ MaterialPower = 3.0f;
 
 
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Состояние визуализации</td>
-<td>Тип</td>
-<td>Значения</td>
-</tr>
-<tr class="even">
-<td>алфабленденабле</td>
-<td>bool</td>
-<td>Верно или неверно. Те же значения, что и D3DRS_ALPHABLENDENABLE в <a href="/windows/desktop/direct3d9/d3drenderstatetype"><strong>D3DRENDERSTATETYPE</strong></a>.</td>
-</tr>
-<tr class="odd">
-<td>алфафунк</td>
-<td>dword</td>
-<td>Те же значения, что и <a href="/windows/desktop/direct3d9/d3dcmpfunc"><strong>D3DCMPFUNC</strong></a> без префикса D3DCMP_. См. D3DRS_ALPHAFUNC.</td>
-</tr>
-<tr class="even">
-<td>алфареф</td>
-<td>dword</td>
-<td>Те же значения, что и D3DRS_ALPHAREF.</td>
-</tr>
-<tr class="odd">
-<td>алфатестенабле</td>
-<td>dword</td>
-<td>Верно или неверно. См. D3DRS_ALPHATESTENABLE.</td>
-</tr>
-<tr class="even">
-<td>блендоп</td>
-<td>dword</td>
-<td>Те же значения, что и <a href="/windows/desktop/direct3d9/d3dblendop"><strong>D3DBLENDOP</strong></a> без префикса D3DBLENDOP_.</td>
-</tr>
-<tr class="odd">
-<td>колорвритинабле</td>
-<td>dword</td>
-<td>Побитовое сочетание красного цвета | ЗЕЛЕНЫЙ | СИНИЙ | Буквы. См. D3DRS_COLORWRITEENABLE.</td>
-</tr>
-<tr class="even">
-<td>депсбиас</td>
-<td>FLOAT</td>
-<td>Те же значения, что и D3DRS_DEPTHBIAS.</td>
-</tr>
-<tr class="odd">
-<td>дестбленд</td>
-<td>dword</td>
-<td>Те же значения, что и <a href="/windows/desktop/direct3d9/d3dblend"><strong>D3DBLEND</strong></a> без префикса D3DBLEND_.</td>
-</tr>
-<tr class="even">
-<td>дисеренабле</td>
-<td>bool</td>
-<td>Верно или неверно. Те же значения, что и D3DRS_DITHERENABLE.</td>
-</tr>
-<tr class="odd">
-<td>филлмоде</td>
-<td>dword</td>
-<td>Те же значения, что и <a href="/windows/desktop/direct3d9/d3dfillmode"><strong>D3DFILLMODE</strong></a> без префикса D3DFILL_.</td>
-</tr>
-<tr class="even">
-<td>ластпиксел</td>
-<td>dword</td>
-<td>Верно или неверно. См. D3DRS_LASTPIXEL.</td>
-</tr>
-<tr class="odd">
-<td>шадемоде</td>
-<td>dword</td>
-<td>Те же значения, что и <a href="/windows/desktop/direct3d9/d3dshademode"><strong>D3DSHADEMODE</strong></a> без префикса D3DSHADE_.</td>
-</tr>
-<tr class="even">
-<td>слопескаледепсбиас</td>
-<td>FLOAT</td>
-<td>Те же значения, что и D3DRS_SLOPESCALEDEPTHBIAS.</td>
-</tr>
-<tr class="odd">
-<td>сркбленд</td>
-<td>dword</td>
-<td>Те же значения, что и <a href="/windows/desktop/direct3d9/d3dblend"><strong>D3DBLEND</strong></a> без префикса D3DBLEND_.</td>
-</tr>
-<tr class="even">
-<td>сргбвритинабле</td>
-<td>bool</td>
-<td>Верно или неверно. Те же значения, что и D3DRS_SRGBWRITEENABLE.</td>
-</tr>
-<tr class="odd">
-<td>стенЦиленабле</td>
-<td>bool</td>
-<td>Верно или неверно. Те же значения, что и D3DRS_STENCILENABLE.</td>
-</tr>
-<tr class="even">
-<td>стенЦилфаил</td>
-<td>dword</td>
-<td>Те же значения, что и <a href="d3dstencilcaps.md">D3DSTENCILCAPS</a> без префикса D3DSTENCILCAP_. См. D3DRS_STENCILFAIL.</td>
-</tr>
-<tr class="odd">
-<td>стенЦилфунк</td>
-<td>dword</td>
-<td>Те же значения, что и <a href="/windows/desktop/direct3d9/d3dcmpfunc"><strong>D3DCMPFUNC</strong></a> без префикса D3DCMP_. См. D3DRS_STENCILFUNC.</td>
-</tr>
-<tr class="even">
-<td>стенЦилмаск</td>
-<td>dword</td>
-<td>Те же значения, что и D3DRS_STENCILMASK.</td>
-</tr>
-<tr class="odd">
-<td>стенЦилпасс</td>
-<td>dword</td>
-<td>Те же значения, что и <a href="d3dstencilcaps.md">D3DSTENCILCAPS</a> без префикса D3DSTENCILCAP_. См. D3DRS_STENCILPASS.</td>
-</tr>
-<tr class="even">
-<td>стенЦилреф</td>
-<td>INT</td>
-<td>Те же значения, что и D3DRS_STENCILREF.</td>
-</tr>
-<tr class="odd">
-<td>стенЦилвритемаск</td>
-<td>dword</td>
-<td>Те же значения, что и D3DRS_STENCILWRITEMASK.</td>
-</tr>
-<tr class="even">
-<td>стенЦилзфаил</td>
-<td>dword</td>
-<td>Те же значения, что и <a href="d3dstencilcaps.md">D3DSTENCILCAPS</a> без префикса D3DSTENCILCAP_. См. D3DRS_STENCILZFAIL.</td>
-</tr>
-<tr class="odd">
-<td>текстурефактор</td>
-<td>dword</td>
-<td>Те же значения, что и <a href="d3dcolor.md"><strong>D3DCOLOR</strong></a>. Те же значения, что и D3DRS_TEXTUREFACTOR.</td>
-</tr>
-<tr class="even">
-<td>Wrap0 - Wrap15</td>
-<td>dword</td>
-<td>Значения совпадают со значениями, используемыми D3DRS_WRAP0. Допустимые значения:
-<ul>
-<li>COORD0 (соответствует D3DWRAPCOORD_0)</li>
-<li>COORD1 (соответствует D3DWRAPCOORD_1)</li>
-<li>COORD2 (соответствует D3DWRAPCOORD_2)</li>
-<li>COORD3 (соответствует D3DWRAPCOORD_3)</li>
-<li>U (соответствует D3DWRAP_U)</li>
-<li>V (соответствует D3DWRAP_V)</li>
-<li>W (соответствует D3DWRAP_W)</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>зенабле</td>
-<td>dword</td>
-<td>Те же значения, что и <a href="/windows/desktop/direct3d9/d3dzbuffertype"><strong>D3DZBUFFERTYPE</strong></a> без префикса D3DZB_.</td>
-</tr>
-<tr class="even">
-<td>зфунк</td>
-<td>dword</td>
-<td>Те же значения, что и <a href="/windows/desktop/direct3d9/d3dcmpfunc"><strong>D3DCMPFUNC</strong></a> без префикса D3DCMP_. См. D3DRS_ZFUNC.</td>
-</tr>
-<tr class="odd">
-<td>звритинабле</td>
-<td>bool</td>
-<td>Верно или неверно. См. D3DRS_ZWRITEENABLE.</td>
-</tr>
-</tbody>
-</table>
+
+| | | Состояние визуализации | Введите | Значения | | Алфабленденабле | bool | True или false. Те же значения, что и D3DRS_ALPHABLENDENABLE в <a href="/windows/desktop/direct3d9/d3drenderstatetype"><strong>D3DRENDERSTATETYPE</strong></a>. | | Алфафунк | DWORD | Те же значения, что и <a href="/windows/desktop/direct3d9/d3dcmpfunc"><strong>D3DCMPFUNC</strong></a> без префикса D3DCMP_. См. D3DRS_ALPHAFUNC. | | Алфареф | DWORD | Те же значения, что и D3DRS_ALPHAREF. | | Алфатестенабле | DWORD | True или false. См. D3DRS_ALPHATESTENABLE. | | Блендоп | DWORD | Те же значения, что и <a href="/windows/desktop/direct3d9/d3dblendop"><strong>D3DBLENDOP</strong></a> без префикса D3DBLENDOP_. | | Колорвритинабле | DWORD | Побитовое сочетание красного цвета | ЗЕЛЕНЫЙ | СИНИЙ | Буквы. См. D3DRS_COLORWRITEENABLE. | | Депсбиас | float | Те же значения, что и D3DRS_DEPTHBIAS. | | Дестбленд | DWORD | Те же значения, что и <a href="/windows/desktop/direct3d9/d3dblend"><strong>D3DBLEND</strong></a> без префикса D3DBLEND_. | | Дисеренабле | bool | True или false. Те же значения, что и D3DRS_DITHERENABLE. | | Филлмоде | DWORD | Те же значения, что и <a href="/windows/desktop/direct3d9/d3dfillmode"><strong>D3DFILLMODE</strong></a> без префикса D3DFILL_. | | Ластпиксел | DWORD | True или false. См. D3DRS_LASTPIXEL. | | Шадемоде | DWORD | Те же значения, что и <a href="/windows/desktop/direct3d9/d3dshademode"><strong>D3DSHADEMODE</strong></a> без префикса D3DSHADE_. | | Слопескаледепсбиас | float | Те же значения, что и D3DRS_SLOPESCALEDEPTHBIAS. | | Сркбленд | DWORD | Те же значения, что и <a href="/windows/desktop/direct3d9/d3dblend"><strong>D3DBLEND</strong></a> без префикса D3DBLEND_. | | Сргбвритинабле | bool | True или false. Те же значения, что и D3DRS_SRGBWRITEENABLE. | | СтенЦиленабле | bool | True или false. Те же значения, что и D3DRS_STENCILENABLE. | | СтенЦилфаил | DWORD | Те же значения, что и <a href="d3dstencilcaps.md">D3DSTENCILCAPS</a> без префикса D3DSTENCILCAP_. См. D3DRS_STENCILFAIL. | | СтенЦилфунк | DWORD | Те же значения, что и <a href="/windows/desktop/direct3d9/d3dcmpfunc"><strong>D3DCMPFUNC</strong></a> без префикса D3DCMP_. См. D3DRS_STENCILFUNC. | | СтенЦилмаск | DWORD | Те же значения, что и D3DRS_STENCILMASK. | | СтенЦилпасс | DWORD | Те же значения, что и <a href="d3dstencilcaps.md">D3DSTENCILCAPS</a> без префикса D3DSTENCILCAP_. См. D3DRS_STENCILPASS. | | СтенЦилреф | int | Те же значения, что и D3DRS_STENCILREF. | | СтенЦилвритемаск | DWORD | Те же значения, что и D3DRS_STENCILWRITEMASK. | | СтенЦилзфаил | DWORD | Те же значения, что и <a href="d3dstencilcaps.md">D3DSTENCILCAPS</a> без префикса D3DSTENCILCAP_. См. D3DRS_STENCILZFAIL. | | Текстурефактор | DWORD | Те же значения, что и <a href="d3dcolor.md"><strong>D3DCOLOR</strong></a>. Те же значения, что и D3DRS_TEXTUREFACTOR. | | Wrap0-Wrap15 | DWORD | Значения совпадают со значениями, используемыми D3DRS_WRAP0. Допустимые значения:<ul><li>COORD0 (соответствует D3DWRAPCOORD_0)</li><li>COORD1 (соответствует D3DWRAPCOORD_1)</li><li>COORD2 (соответствует D3DWRAPCOORD_2)</li><li>COORD3 (соответствует D3DWRAPCOORD_3)</li><li>U (соответствует D3DWRAP_U)</li><li>V (соответствует D3DWRAP_V)</li><li>W (соответствует D3DWRAP_W)</li></ul> | | Зенабле | DWORD | Те же значения, что и <a href="/windows/desktop/direct3d9/d3dzbuffertype"><strong>D3DZBUFFERTYPE</strong></a> без префикса D3DZB_. | | Зфунк | DWORD | Те же значения, что и <a href="/windows/desktop/direct3d9/d3dcmpfunc"><strong>D3DCMPFUNC</strong></a> без префикса D3DCMP_. См. D3DRS_ZFUNC. | | Звритинабле | bool | True или false. См. D3DRS_ZWRITEENABLE. | 
+
 
 
 

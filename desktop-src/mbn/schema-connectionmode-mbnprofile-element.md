@@ -11,12 +11,12 @@ api_name:
 - ConnectionMode
 api_type:
 - Schema
-ms.openlocfilehash: d9c92227e26bb8858aef28d2f030ac2f84bed06d
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: d0f2290928fba4be65d39129017a171fbd3d1e66e6ebab715f616e4edec9b13e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103991096"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119607144"
 ---
 # <a name="connectionmode-mbnprofile-element"></a>ConnectionMode (Мбнпрофиле), элемент
 
@@ -62,18 +62,18 @@ ms.locfileid: "103991096"
 
 Элемент **ConnectionMode** определяется элементом [**мбнпрофиле**](schema-mbnprofile-element.md) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 7 \|\]<br/> |
+| Минимальная версия клиента<br/> | \[приложения UWP для классических приложений Windows 7 \|\]<br/> |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                         |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

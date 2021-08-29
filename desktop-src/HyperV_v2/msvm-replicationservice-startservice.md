@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - vmms.exe
-ms.openlocfilehash: 8ee39eb4943ed80bae976050d3fdad7477043dce
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: e373baf8de3a61f87c227c1d30daee92bf6cfe4b77c4b28b170bd101d77f7c8e
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108118802"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119535694"
 ---
 # <a name="startservice-method-of-the-msvm_replicationservice-class"></a>Метод StartService \_ класса мсвм репликатионсервице
 
@@ -49,7 +49,7 @@ uint32 StartService();
 **Не поддерживается** (1)
 </dt> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 

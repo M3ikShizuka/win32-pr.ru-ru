@@ -4,17 +4,17 @@ ms.assetid: 84d2b5b7-b474-48a4-9058-ea9da8109398
 title: Метод Жетдвдтекстнумберофстрингс
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 18c9c4fadfd28d6cddc8b9013a6e426aebe9f816
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 5be6818d447ad244ec59be029f21119ef89024477edc7811de94372c3825fa25
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "105673079"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119537054"
 ---
 # <a name="getdvdtextnumberofstrings-method"></a>Метод Жетдвдтекстнумберофстрингс
 
 > [!Note]  
-> Этот компонент доступен для использования в операционных системах Microsoft Windows 2000, Windows XP и Windows Server 2003. В последующих версиях он может быть изменен или недоступен.
+> этот компонент доступен для использования в операционных системах Microsoft Windows 2000, Windows XP и Windows Server 2003. В последующих версиях он может быть изменен или недоступен.
 
  
 
@@ -39,7 +39,7 @@ ms.locfileid: "105673079"
 
 Возвращает целочисленное значение, указывающее, сколько строк содержит диск на указанном языке.
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

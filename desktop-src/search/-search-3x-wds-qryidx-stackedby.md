@@ -1,17 +1,17 @@
 ---
-description: Узнайте, как использовать аргумент стаккедби в поиске Windows. Этот аргумент задает столбец свойств, по которому должны быть упорядочены результаты по стеку.
+description: узнайте, как использовать аргумент стаккедби в поиске Windows. Этот аргумент задает столбец свойств, по которому должны быть упорядочены результаты по стеку.
 ms.assetid: 7563bf34-b790-4cb0-94fa-31e771f34455
-title: Аргумент СТАККЕДБИ (Поиск Windows)
+title: аргумент стаккедби (поиск Windows)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9844efb21849cad6c1d02f48f7adf793992aec08
-ms.sourcegitcommit: 5d4e99f4c8f42f5f543e52cb9beb9fb13ec56c5f
+ms.openlocfilehash: 2298c5a01d83c98bc9a43172c7637430a4d78906cef54a7cb1956dee30743e5f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112403717"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119352074"
 ---
-# <a name="stackedby-argument-windows-search"></a>Аргумент СТАККЕДБИ (Поиск Windows)
+# <a name="stackedby-argument-windows-search"></a>аргумент стаккедби (поиск Windows)
 
 Аргумент **стаккедби** указывает столбец свойств, по которому должны быть упорядочены результаты стека. Можно выполнить стек по любому допустимому свойству из системы свойств.
 

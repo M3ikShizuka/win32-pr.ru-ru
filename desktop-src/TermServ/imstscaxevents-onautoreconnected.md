@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e29f0e9a498a727614bdfda621c214199918e2ce
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.openlocfilehash: df16cbb2976bdbf5518a56bc90e4978772deb81608d5d24fba5516f9f538d6dc
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "105674611"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120125204"
 ---
 # <a name="imstscaxeventsonautoreconnected-method"></a>Метод Имстскаксевентс:: Онаутореконнектед
 
@@ -58,7 +58,7 @@ HRESULT OnAutoReconnected();
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: ae1f5ca8816763ef43f0687312bdf61bbeca9725
-ms.sourcegitcommit: 168d11879cb9fd89d26f826482725c0a626be00f
+ms.openlocfilehash: 39acbe329effb206b26685ac150ed8a5a8d310fc7698b2c4508e78b9ed7ed0c3
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "104987371"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119276344"
 ---
 # <a name="samplebiassamplebiassfloatfloatintfloat-function-for-texture2darray"></a>Функция Самплебиас:: Самплебиас (S, float, float, int, float) для Texture2DArray
 
@@ -97,7 +97,7 @@ DXGI_FORMAT SampleBias(
 | Texture1D, Texture1DArray     | INT            |
 | Texture2D, Texture2DArray     | int2           |
 | Texture3D                     | int3           |
-| Текстурекубе, Текстурекубеаррай | не поддерживается  |
+| Текстурекубе, Текстурекубеаррай | Не поддерживается  |
 
 
 

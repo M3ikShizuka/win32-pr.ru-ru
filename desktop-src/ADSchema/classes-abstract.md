@@ -5,12 +5,12 @@ ms.assetid: 0c837771-83fc-42a8-aadd-48e2a332c623
 ms.tgt_platform: multiple
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6ff139dc39ab59e0e1078db4c1ddbde7ecd76f7b
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 5fac725a2f6505d880e24ce198b5eddc57a262e5ae6e1f1c201263a4e0e2853d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104252875"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119533204"
 ---
 # <a name="abstract-classes"></a>Абстрактные классы
 
@@ -21,9 +21,9 @@ ms.locfileid: "104252875"
 <dl>
 
 [**Параметры приложения**](c-applicationsettings.md)  
-[**Приложение-сайт — параметры**](c-applicationsitesettings.md)  
+[**приложение — сайт — Параметры**](c-applicationsitesettings.md)  
 [**Точка соединения**](c-connectionpoint.md)  
-[**Страна или регион**](c-country.md)  
+[**Страна**](c-country.md)  
 [**Устройство**](c-device.md)  
 [**Домен**](c-domain.md)  
 [**Группы-имена**](c-groupofnames.md)  
@@ -41,7 +41,7 @@ ms.locfileid: "104252875"
 <dl>
 
 [**Параметры приложения**](c-applicationsettings.md)  
-[**Приложение-сайт — параметры**](c-applicationsitesettings.md)  
+[**приложение — сайт — Параметры**](c-applicationsitesettings.md)  
 [**Точка соединения**](c-connectionpoint.md)  
 [**Домен**](c-domain.md)  
 [**IPSec-Base**](c-ipsecbase.md)  
@@ -56,7 +56,7 @@ ms.locfileid: "104252875"
 <dl>
 
 [**Параметры приложения**](c-applicationsettings.md)  
-[**Приложение-сайт — параметры**](c-applicationsitesettings.md)  
+[**приложение — сайт — Параметры**](c-applicationsitesettings.md)  
 [**Домен**](c-domain.md)  
 [**Leaf**](c-leaf.md)  
 [**Вверх**](c-top.md)  
@@ -67,7 +67,7 @@ ms.locfileid: "104252875"
 <dl>
 
 [**Параметры приложения**](c-applicationsettings.md)  
-[**Приложение-сайт — параметры**](c-applicationsitesettings.md)  
+[**приложение — сайт — Параметры**](c-applicationsitesettings.md)  
 [**Точка соединения**](c-connectionpoint.md)  
 [**Домен**](c-domain.md)  
 [**IPSec-Base**](c-ipsecbase.md)  
@@ -82,7 +82,7 @@ ms.locfileid: "104252875"
 <dl>
 
 [**Параметры приложения**](c-applicationsettings.md)  
-[**Приложение-сайт — параметры**](c-applicationsitesettings.md)  
+[**приложение — сайт — Параметры**](c-applicationsitesettings.md)  
 [**Точка соединения**](c-connectionpoint.md)  
 [**Домен**](c-domain.md)  
 [**IPSec-Base**](c-ipsecbase.md)  
@@ -97,7 +97,7 @@ ms.locfileid: "104252875"
 <dl>
 
 [**Параметры приложения**](c-applicationsettings.md)  
-[**Приложение-сайт — параметры**](c-applicationsitesettings.md)  
+[**приложение — сайт — Параметры**](c-applicationsitesettings.md)  
 [**Точка соединения**](c-connectionpoint.md)  
 [**Домен**](c-domain.md)  
 [**IPSec-Base**](c-ipsecbase.md)  
@@ -112,7 +112,7 @@ ms.locfileid: "104252875"
 <dl>
 
 [**Параметры приложения**](c-applicationsettings.md)  
-[**Приложение-сайт — параметры**](c-applicationsitesettings.md)  
+[**приложение — сайт — Параметры**](c-applicationsitesettings.md)  
 [**Точка соединения**](c-connectionpoint.md)  
 [**Домен**](c-domain.md)  
 [**IPSec-Base**](c-ipsecbase.md)  
@@ -123,9 +123,9 @@ ms.locfileid: "104252875"
 [**Вверх**](c-top.md)  
 </dl>
 
- 
+ 
 
- 
+ 
 
 
 

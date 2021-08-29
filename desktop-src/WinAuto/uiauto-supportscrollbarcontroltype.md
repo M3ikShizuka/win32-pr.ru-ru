@@ -21,12 +21,12 @@ keywords:
 - типы элементов управления, ScrollBar
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1a25d0398ca8e094e1dbec5e06eb725f3e9d7edbb5c193fdc3699e166b118142
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 51e9da37ec8006eae0c710ed4dcd336caf76cf3a
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119413374"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122467791"
 ---
 # <a name="scrollbar-control-type"></a>Тип элемента управления ScrollBar
 
@@ -50,30 +50,11 @@ ms.locfileid: "119413374"
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Представление элемента управления</th>
-<th>Представление содержимого</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><ul>
-<li>ScrollBar
-<ul>
-<li>Кнопка (0, 2 или 4)</li>
-<li>Thumb (0 или 1)</li>
-</ul></li>
-</ul></td>
-<td>Неприменимо. (Элемент управления "полоса прокрутки" не имеет содержимого.)</td>
-</tr>
-</tbody>
-</table>
+
+| Представление элемента управления | Представление содержимого | 
+|--------------|--------------|
+| <ul><li>ScrollBar<ul><li>Кнопка (0, 2 или 4)</li><li>Thumb (0 или 1)</li></ul></li></ul> | Неприменимо. (Элемент управления "полоса прокрутки" не имеет содержимого.) | 
+
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: 02B6CA71-103C-4639-8D07-7EAF6A814679
 title: Атрибут MF_EVENT_STREAM_METADATA_SYSTEMID (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bbefc967ff0a82fd8387e0e6e8baa06f3a77ea27
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: b8b18616aa534042e5d487b47c3931aeddf9b87bdcc2077cd65e40eb8c5d83f0
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103998853"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119605894"
 ---
 # <a name="mf_event_stream_metadata_systemid-attribute"></a>\_ \_ \_ Атрибут SYSTEMID МЕТАДАННЫХ потока событий MF \_
 
@@ -19,19 +19,19 @@ ms.locfileid: "103998853"
 
 **ОБЪЕКТЕ**
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 8.1 \|\]<br/>                                |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2012 R2 \|\]<br/>                     |
-| Header<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 8.1 \[ приложения UWP для классических приложений \|\]<br/>                                |
+| Минимальная версия сервера<br/> | Windows Server 2012 Приложения универсального \[ приложения UWP для настольных приложений \|\]<br/>                     |
+| Заголовок<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

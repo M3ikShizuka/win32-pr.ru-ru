@@ -4,12 +4,12 @@ ms.assetid: 3b54dd65-b7db-4e6a-bc3d-1008fdabcfa9
 title: Инициализация обработчиков свойств
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4482af2a029a91049d421ee49eb0f439c5fd8d0e
-ms.sourcegitcommit: ecd0ba4732f5264aab9baa2839c11f7fea36318f
+ms.openlocfilehash: c54c7a1a5e28c5a66e28f8b2470c8f1643678af2a15025a925a5ed5e89336c6d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "113481909"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119353534"
 ---
 # <a name="initializing-property-handlers"></a>Инициализация обработчиков свойств
 
@@ -28,7 +28,7 @@ ms.locfileid: "113481909"
 -   [Запись обратных значений](#writing-back-values)
 -   [Реализация Ипропертисторекапабилитиес](#implementing-ipropertystorecapabilities)
 -   [Регистрация и распространение обработчиков свойств](#registering-and-distributing-property-handlers)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="property-handlers"></a>Обработчики свойств
 
@@ -457,13 +457,13 @@ HRESULT SerializePropVariantAsString(const PROPVARIANT *ppropvar, PWSTR *pszOut)
 
 
 
-| Возможности                                   | IFilter                      | ипропертисторе |
+| Возможность                                   | IFilter                      | ипропертисторе |
 |----------------------------------------------|------------------------------|----------------|
 | Разрешает ли обратную запись в файлы?                  | Нет                           | Да            |
 | Предоставляет сочетание содержимого и свойств?      | Да                          | Да            |
 | Многоязычных?                                | Да                          | Нет             |
 | MIME/Embedded?                               | Да                          | Нет             |
-| Границы текста?                             | Предложение, абзац, глава | Отсутствуют           |
+| Границы текста?                             | Предложение, абзац, глава | Нет           |
 | Реализация, поддерживаемая для SPS/SQL Server? | Да                          | Нет             |
 | Реализация                               | Complex                      | Простота         |
 

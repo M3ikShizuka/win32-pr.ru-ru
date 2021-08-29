@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 17466648078162bc8244219f77e3ecc0dc4cb4d7
-ms.sourcegitcommit: 773fa6257ead6c74154ad3cf46d21e49adc900aa
+ms.openlocfilehash: 6eb25e08816c27d2de147204d838b8655989ae8211c1ac506064fbb3b5534b70
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "104413988"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119534924"
 ---
 # <a name="wire_marshal-attribute"></a>атрибут проводного \_ маршалирования
 
@@ -95,7 +95,7 @@ void __RPC_USER  < userm-type >_UserFree(
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Каждый тип данных, относящийся к конкретному приложению, *усерм-Type,* имеет корреспонденцию "один к одному" с *типом связи* , который определяет сетевое представление типа. Необходимо предоставить подпрограммы для изменения размера данных для маршалирования, маршалирования и распаковки данных, а также для освобождения памяти. Обратите внимание, что при наличии в данных внедренных типов, которые также определены с помощью **\[ проводного \_ маршалирования \]** или **\[** [**пользовательского \_ маршалирования**](user-marshal.md) **\]** , необходимо также управлять обслуживанием этих внедренных типов. Дополнительные сведения об этих подоперациях см. [в описании атрибута Wired \_ Marshal](/windows/desktop/Rpc/the-wire-marshal-attribute).
 
@@ -151,7 +151,7 @@ void __RPC_USER FOUR_BYTE_DATA_UserFree(
     );
 ```
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
@@ -164,7 +164,7 @@ void __RPC_USER FOUR_BYTE_DATA_UserFree(
 [Базовые типы MIDL](midl-base-types.md)
 </dt> <dt>
 
-[**поддерживаем**](long.md)
+[**long**](long.md)
 </dt> <dt>
 
 [**ндржетусермаршалинфо**](/windows/desktop/api/rpcndr/nf-rpcndr-ndrgetusermarshalinfo)
@@ -182,6 +182,6 @@ void __RPC_USER FOUR_BYTE_DATA_UserFree(
 [**Пользовательская \_ Упаковка**](user-marshal.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

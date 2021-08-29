@@ -32,12 +32,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: f02937241066762b6d711d89e62e67cfed9f41f2
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 51e0174d977291a9811b498891cae3c5923dd4e57312d4941b603fb96ce78f55
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104263535"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119732164"
 ---
 # <a name="idlegrbit-enumeration"></a>Перечисление Идлегрбит
 
@@ -98,7 +98,7 @@ public enum IdleGrbit
 </table>
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 #### <a name="reference"></a>Справочник
 

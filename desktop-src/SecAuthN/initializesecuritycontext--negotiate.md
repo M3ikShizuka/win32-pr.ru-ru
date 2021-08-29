@@ -4,12 +4,12 @@ ms.assetid: 031b0e82-f246-4291-aed3-f443ab152e00
 title: Функция InitializeSecurityContext (Negotiate) (SSPI. h)
 ms.topic: reference
 ms.date: 07/25/2019
-ms.openlocfilehash: 8470e076b9bc15295071c5fc91d51a81b5ae5cb842f928b58eda2249d4f90b44
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3a43578b6f7f312657ae6b4f2aa7b6be463ded7e
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120015914"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122470529"
 ---
 # <a name="initializesecuritycontext-negotiate-function"></a>Функция InitializeSecurityContext (Negotiate)
 
@@ -73,8 +73,21 @@ SECURITY_STATUS SEC_Entry InitializeSecurityContext(
 
 
 
-<table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th>Значение</th><th>Значение</th></tr></thead><tbody><tr class="odd"><td><span id="ISC_REQ_ALLOCATE_MEMORY"></span><span id="isc_req_allocate_memory"></span><dl> <dt><strong>ISC_REQ_ALLOCATE_MEMORY</strong></dt> </dl></td><td>[*Пакет безопасности*](../secgloss/s-gly.md) выделяет выходные буферы. Завершив использование выходных буферов, освободите их, вызвав функцию [<strong>фриконтекстбуффер</strong>] (/Windows/Win32/API/SSPI/NF-SSPI-freecontextbuffer).<br/></td></tr><tr class="even"><td><span id="ISC_REQ_CONFIDENTIALITY"></span><span id="isc_req_confidentiality"></span><dl> <dt><strong>ISC_REQ_CONFIDENTIALITY</strong></dt> </dl></td><td>Шифрование сообщений с помощью функции [<strong>енкриптмессаже</strong>] (encryptmessage--General.md).<br/></td></tr><tr class="odd"><td><span id="ISC_REQ_CONNECTION"></span><span id="isc_req_connection"></span><dl> <dt><strong>ISC_REQ_CONNECTION</strong></dt> </dl></td><td>[*Контекст безопасности*](../secgloss/s-gly.md) не будет работать с сообщениями форматирования. Это значение по умолчанию.<br/></td></tr><tr class="even"><td><span id="ISC_REQ_DELEGATE"></span><span id="isc_req_delegate"></span><dl> <dt><strong>ISC_REQ_DELEGATE</strong></dt> </dl></td><td>Сервер может использовать контекст для проверки подлинности на других серверах в качестве клиента. Чтобы этот флаг работал, должен быть установлен флаг ISC_REQ_MUTUAL_AUTH. Допустимо для Kerberos. Игнорировать этот флаг для [*ограниченного делегирования*](../secgloss/c-gly.md).<br/></td></tr><tr class="odd"><td><span id="ISC_REQ_EXTENDED_ERROR"></span><span id="isc_req_extended_error"></span><dl> <dt><strong>ISC_REQ_EXTENDED_ERROR</strong></dt> </dl></td><td>При возникновении ошибок удаленная сторона будет уведомлена.<br/></td></tr><tr class="even"><td><span id="ISC_REQ_INTEGRITY"></span><span id="isc_req_integrity"></span><dl> <dt><strong>ISC_REQ_INTEGRITY</strong></dt> </dl></td><td>Подписывание сообщений и проверка подписей с помощью функций [<strong>енкриптмессаже</strong>] (encryptmessage--General.md) и [<strong>макесигнатуре</strong>] (makesignature.md).<br/></td></tr><tr class="odd"><td><span id="ISC_REQ_MUTUAL_AUTH"></span><span id="isc_req_mutual_auth"></span><dl> <dt><strong>ISC_REQ_MUTUAL_AUTH</strong></dt> </dl></td><td>Будет удовлетворена политика взаимной проверки подлинности службы.<br/><blockquote>[!Caution]<br />
-Это не обязательно означает, что выполняется взаимная проверка подлинности, удовлетворяющая только политика проверки подлинности службы. Чтобы обеспечить взаимную проверку подлинности, вызовите функцию [<strong>QueryContextAttributes (Negotiate)</strong>] (querycontextattributes--Negotiate.md).</blockquote><br/></td></tr><tr class="even"><td><span id="ISC_REQ_NO_INTEGRITY"></span><span id="isc_req_no_integrity"></span><dl> <dt><strong>ISC_REQ_NO_INTEGRITY</strong></dt> </dl></td><td>Если этот флаг установлен, флаг <strong>ISC_REQ_INTEGRITY</strong> игнорируется.<br/></td></tr><tr class="odd"><td><span id="ISC_REQ_REPLAY_DETECT"></span><span id="isc_req_replay_detect"></span><dl> <dt><strong>ISC_REQ_REPLAY_DETECT</strong></dt> </dl></td><td>Обнаружение воспроизводимых сообщений, закодированных с помощью функций [<strong>енкриптмессаже</strong>] (encryptmessage--General.md) или [<strong>макесигнатуре</strong>] (makesignature.md).<br/></td></tr><tr class="even"><td><span id="ISC_REQ_SEQUENCE_DETECT"></span><span id="isc_req_sequence_detect"></span><dl> <dt><strong>ISC_REQ_SEQUENCE_DETECT</strong></dt> </dl></td><td>Обнаружение сообщений, полученных за пределами последовательности.<br/></td></tr><tr class="odd"><td><span id="ISC_REQ_STREAM"></span><span id="isc_req_stream"></span><dl> <dt><strong>ISC_REQ_STREAM</strong></dt> </dl></td><td>Поддерживать соединение с потоковой ориентацией.<br/></td></tr></tbody></table>
+
+| Значение | Значение | 
+|-------|---------|
+| <span id="ISC_REQ_ALLOCATE_MEMORY"></span><span id="isc_req_allocate_memory"></span><dl><dt><strong>ISC_REQ_ALLOCATE_MEMORY</strong></dt></dl> | [*Пакет безопасности*](../secgloss/s-gly.md) выделяет выходные буферы. Завершив использование выходных буферов, освободите их, вызвав функцию [<strong>фриконтекстбуффер</strong>](/windows/win32/api/sspi/nf-sspi-freecontextbuffer) .<br /> | 
+| <span id="ISC_REQ_CONFIDENTIALITY"></span><span id="isc_req_confidentiality"></span><dl><dt><strong>ISC_REQ_CONFIDENTIALITY</strong></dt></dl> | Шифрование сообщений с помощью функции [<strong>енкриптмессаже</strong>](encryptmessage--general.md) .<br /> | 
+| <span id="ISC_REQ_CONNECTION"></span><span id="isc_req_connection"></span><dl><dt><strong>ISC_REQ_CONNECTION</strong></dt></dl> | [*Контекст безопасности*](../secgloss/s-gly.md) не будет работать с сообщениями форматирования. Это значение по умолчанию.<br /> | 
+| <span id="ISC_REQ_DELEGATE"></span><span id="isc_req_delegate"></span><dl><dt><strong>ISC_REQ_DELEGATE</strong></dt></dl> | Сервер может использовать контекст для проверки подлинности на других серверах в качестве клиента. Чтобы этот флаг работал, должен быть установлен флаг ISC_REQ_MUTUAL_AUTH. Допустимо для Kerberos. Игнорировать этот флаг для [*ограниченного делегирования*](../secgloss/c-gly.md).<br /> | 
+| <span id="ISC_REQ_EXTENDED_ERROR"></span><span id="isc_req_extended_error"></span><dl><dt><strong>ISC_REQ_EXTENDED_ERROR</strong></dt></dl> | При возникновении ошибок удаленная сторона будет уведомлена.<br /> | 
+| <span id="ISC_REQ_INTEGRITY"></span><span id="isc_req_integrity"></span><dl><dt><strong>ISC_REQ_INTEGRITY</strong></dt></dl> | Подписывание сообщений и проверка подписей с помощью функций [<strong>енкриптмессаже</strong>](encryptmessage--general.md) и [<strong>макесигнатуре</strong>](makesignature.md) .<br /> | 
+| <span id="ISC_REQ_MUTUAL_AUTH"></span><span id="isc_req_mutual_auth"></span><dl><dt><strong>ISC_REQ_MUTUAL_AUTH</strong></dt></dl> | Будет удовлетворена политика взаимной проверки подлинности службы.<br /><blockquote>[!Caution]<br />Это не обязательно означает, что выполняется взаимная проверка подлинности, удовлетворяющая только политика проверки подлинности службы. Чтобы обеспечить взаимную проверку подлинности, вызовите функцию [<strong>QueryContextAttributes (Negotiate)</strong>](querycontextattributes--negotiate.md) .</blockquote><br /> | 
+| <span id="ISC_REQ_NO_INTEGRITY"></span><span id="isc_req_no_integrity"></span><dl><dt><strong>ISC_REQ_NO_INTEGRITY</strong></dt></dl> | Если этот флаг установлен, флаг <strong>ISC_REQ_INTEGRITY</strong> игнорируется.<br /> | 
+| <span id="ISC_REQ_REPLAY_DETECT"></span><span id="isc_req_replay_detect"></span><dl><dt><strong>ISC_REQ_REPLAY_DETECT</strong></dt></dl> | Обнаружение воспроизводимых сообщений, закодированных с помощью функций [<strong>енкриптмессаже</strong>](encryptmessage--general.md) или [<strong>макесигнатуре</strong>](makesignature.md) .<br /> | 
+| <span id="ISC_REQ_SEQUENCE_DETECT"></span><span id="isc_req_sequence_detect"></span><dl><dt><strong>ISC_REQ_SEQUENCE_DETECT</strong></dt></dl> | Обнаружение сообщений, полученных за пределами последовательности.<br /> | 
+| <span id="ISC_REQ_STREAM"></span><span id="isc_req_stream"></span><dl><dt><strong>ISC_REQ_STREAM</strong></dt></dl> | Поддерживать соединение с потоковой ориентацией.<br /> | 
+
 
 
 
@@ -189,7 +202,7 @@ SECURITY_STATUS SEC_Entry InitializeSecurityContext(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Вызывающий объект отвечает за определение того, достаточно ли атрибутов последнего контекста. Если, например, была запрошена конфиденциальность, но ее не удалось установить, некоторые приложения могут немедленно завершить подключение.
 
@@ -234,7 +247,7 @@ SECURITY_STATUS SEC_Entry InitializeSecurityContext(
 
 Вызывающие объекты в режиме ядра имеют следующие отличия: имя целевого объекта — это строка в [*Юникоде*](../secgloss/u-gly.md) , которую необходимо выделить в виртуальной памяти с помощью [**VirtualAlloc**](/windows/win32/api/memoryapi/nf-memoryapi-virtualalloc); Он не должен выделяться из пула. Буферы, переданные и передаваемые в *пинпут* и *паутпут* , должны находиться в виртуальной памяти, а не в пуле.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

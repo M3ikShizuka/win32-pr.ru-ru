@@ -4,21 +4,21 @@ ms.assetid: 9be67cb2-4bf9-4758-af03-7d92dd04feaf
 title: Оптимизация печати через дескриптор принтера
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a247af3de037e220432c424c408b4055690ff861
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 3c2284e28e0a32c828af5204d08651c576149e9d2ecfb0980f3c41936bd36cb3
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104984445"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119612084"
 ---
 # <a name="optimizing-printing-by-providing-a-printer-handle"></a>Оптимизация печати через дескриптор принтера
 
-Один из конструкторов для класса [**Graphics**](/windows/win32/api/gdiplusgraphics/nl-gdiplusgraphics-graphics) получает маркер контекста устройства и маркер принтера. При отправке команд Windows GDI+ на определенные принтеры PostScript производительность будет выше, если вы создадите **графический** объект с этим конкретным конструктором.
+Один из конструкторов для класса [**Graphics**](/windows/win32/api/gdiplusgraphics/nl-gdiplusgraphics-graphics) получает маркер контекста устройства и маркер принтера. при отправке Windowsных GDI+ командам на определенные PostScript принтеры производительность будет выше, если вы создадите **графический** объект с этим конкретным конструктором.
 
 Следующее консольное приложение вызывает [жетдефаултпринтер](../printdocs/getdefaultprinter.md) , чтобы получить имя принтера по умолчанию. Код передает имя принтера в [креатедк](/windows/win32/api/wingdi/nf-wingdi-createdcw) , чтобы получить маркер контекста устройства для принтера. Код также передает имя принтера в [опенпринтер](../printdocs/openprinter.md) для получения маркера принтера. Маркер контекста устройства и маркер принтера передаются в конструктор [**Graphics**](/windows/win32/api/gdiplusgraphics/nl-gdiplusgraphics-graphics) . Затем на принтере рисуются две фигуры.
 
 > [!Note]  
-> Функция [жетдефаултпринтер](../printdocs/getdefaultprinter.md) поддерживается только в Windows 2000 и более поздних версиях.
+> функция [жетдефаултпринтер](../printdocs/getdefaultprinter.md) поддерживается только в Windows 2000 и более поздних версиях.
 
  
 

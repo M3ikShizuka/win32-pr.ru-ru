@@ -4,12 +4,12 @@ ms.assetid: 7fe1b52d-4b06-48cd-afe5-2bd5495bb55e
 title: Таблица Дупликатефиле
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 766f28b7984aedfc682a2bf23378d46ee0519c65
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 2ade1be4296e800bdf0c92e004aa359c1e27d41ddd83283f4e414c4b68b2b5b8
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104080921"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119692614"
 ---
 # <a name="duplicatefile-table"></a>Таблица Дупликатефиле
 
@@ -21,11 +21,11 @@ ms.locfileid: "104080921"
 
 | Столбец      | Type                         | Ключ | Допускает значения NULL |
 |-------------|------------------------------|-----|----------|
-| филекэй     | [Идентификатор](identifier.md) | Да   | Нет        |
+| филекэй     | [Идентификатор](identifier.md) | Д   | Нет        |
 | Компонент\_ | [Идентификатор](identifier.md) | Нет   | Нет        |
-| Файл\_      | [Идентификатор](identifier.md) | Нет   | Нет        |
-| дестнаме    | [Имя файла](filename.md)     | Нет   | Да        |
-| DestFolder  | [Идентификатор](identifier.md) | Нет   | Да        |
+| File\_      | [Идентификатор](identifier.md) | Нет   | Нет        |
+| дестнаме    | [Имя файла](filename.md)     | Нет   | Д        |
+| DestFolder  | [Идентификатор](identifier.md) | Нет   | Д        |
 
 
 
@@ -70,7 +70,7 @@ ms.locfileid: "104080921"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Таблица обрабатывается [действием дупликатефилес](duplicatefiles-action.md) и [действием ремоведупликатефилес](removeduplicatefiles-action.md).
 

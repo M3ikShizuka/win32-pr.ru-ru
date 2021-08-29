@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 32ef8a464b5a702530768a4317d431c5b8e52550
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: fb711e66671acb610a916dc74dc2b4ded3f99eed1bad70ac0a0d0d3f9d19b8b7
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104067922"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120125984"
 ---
 # <a name="task-scheduler-schema-complex-types"></a>планировщик задач сложные типы схемы
 
@@ -46,7 +46,7 @@ ms.locfileid: "104067922"
 -   [**нетворксеттингстипе**](taskschedulerschema-networksettingstype-complextype.md)
 -   [**намедвалуе**](schema-namedvalue-complextype.md)
 -   [**принЦипалстипе**](taskschedulerschema-principalstype-complextype.md)
--   [**principalType**](taskschedulerschema-principaltype-complextype.md)
+-   [**принЦипалтипе**](taskschedulerschema-principaltype-complextype.md)
 -   [**регистратионинфотипе**](taskschedulerschema-registrationinfotype-complextype.md)
 -   [**регистратионтригжертипе**](taskschedulerschema-registrationtriggertype-complextype.md)
 -   [**репетитионтипе**](taskschedulerschema-repetitiontype-complextype.md)
@@ -63,7 +63,7 @@ ms.locfileid: "104067922"
 -   [**виклисчедулетипе**](taskschedulerschema-weeklyscheduletype-complextype.md)
 -   [**викстипе**](taskschedulerschema-weekstype-complextype.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -73,9 +73,9 @@ ms.locfileid: "104067922"
 [Планировщик заданий](task-scheduler-start-page.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

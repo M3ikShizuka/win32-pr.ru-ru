@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Изменение наследования экземпляра
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6a35de3dcc37d91b318ab60fb5a520cb4da10e59
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 644b05368cdfe6fbe3e05d94704593544fc18e4408d0f64708021fa1e8c8ca37
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103910295"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119612594"
 ---
 # <a name="changing-the-inheritance-of-an-instance"></a>Изменение наследования экземпляра
 

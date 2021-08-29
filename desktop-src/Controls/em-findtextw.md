@@ -3,7 +3,7 @@ title: Сообщение EM_FINDTEXTW (RichEdit. h)
 description: EM_FINDTEXTW сообщение — находит текст в Юникоде в элементе управления Rich Edit.
 ms.assetid: 0c1579f5-3b37-4e28-86a2-f4e03e195f38
 keywords:
-- Элементы управления Windows для EM_FINDTEXTW сообщений
+- элементы управления Windows сообщений EM_FINDTEXTW
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 325ff948c4c8f03e8051248f15928d8e8c56e52f
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 80d7f84f299ad013051dc0f3e183b855f45c4203206d039cec8480a7dcac3bda
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108109802"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119697754"
 ---
 # <a name="em_findtextw-message"></a>\_Сообщение ФИНДТЕКСТВ EM
 
@@ -66,15 +66,15 @@ ms.locfileid: "108109802"
 
 **EM \_ ФИНДТЕКСТВ** использует структуру [**финдтекств**](/windows/win32/api/richedit/ns-richedit-findtexta) , а [**EM \_ финдтекстексв**](em-findtextexw.md) использует структуру [**финдтекстексв**](/windows/desktop/api/Richedit/ns-richedit-findtextexa) . Разница заключается в том, что **финдтекстексв** сообщает о найденном диапазоне текста.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>RichEdit. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>RichEdit. h</dt> </dl> |
 
 
 
