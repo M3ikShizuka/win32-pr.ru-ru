@@ -14,12 +14,12 @@ api_type:
 - Schema
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: afcd548a95ff4c8ca580692bb0eede947488a1ee
-ms.sourcegitcommit: b77ace27b0432e7cd3863191b11926be032fbe2f
+ms.openlocfilehash: 2babfd88b4d019d7ed3178229397e71af93c97e1ddb4a3d80054390b82b5b963
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "103893414"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119803134"
 ---
 # <a name="ms-pki-oid-localizedname-attribute"></a>атрибут MS-PKI-OID-LocalizedName
 
@@ -56,16 +56,16 @@ ms.locfileid: "103893414"
 |------------------------|--------------------------------------------------------------------|
 | Идентификатор ссылки                | \-                                                                 |
 | MAPI-Id                | \-                                                                 |
-| System-Only            | Неверно                                                              |
-| Является однозначным       | Неверно                                                              |
-| Индексируется             | Неверно                                                              |
-| В глобальном каталоге      | Неверно                                                              |
+| System-Only            | Нет                                                              |
+| Является однозначным       | Нет                                                              |
+| Индексируется             | Нет                                                              |
+| В глобальном каталоге      | Нет                                                              |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                       |
 | Range-Lower            | \-                                                                 |
 | Range-Upper            | \-                                                                 |
 | Search-Flags           | 0x00000000                                                         |
 | System-Flags           | 0x00000010                                                         |
-| Классы, используемые в        | [**MS-PKI-Enterprise-OID**](c-mspki-enterprise-oid.md)<br/> |
+| Классы, используемые в        | [**ms-PKI-Enterprise-Oid**](c-mspki-enterprise-oid.md)<br/> |
 
 
 
@@ -77,16 +77,16 @@ ms.locfileid: "103893414"
 |------------------------|--------------------------------------------------------------------|
 | Идентификатор ссылки                | \-                                                                 |
 | MAPI-Id                | \-                                                                 |
-| System-Only            | Неверно                                                              |
-| Является однозначным       | Неверно                                                              |
-| Индексируется             | Неверно                                                              |
-| В глобальном каталоге      | Неверно                                                              |
+| System-Only            | Нет                                                              |
+| Является однозначным       | Нет                                                              |
+| Индексируется             | Нет                                                              |
+| В глобальном каталоге      | Нет                                                              |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                       |
 | Range-Lower            | \-                                                                 |
 | Range-Upper            | \-                                                                 |
 | Search-Flags           | 0x00000000                                                         |
 | System-Flags           | 0x00000010                                                         |
-| Классы, используемые в        | [**MS-PKI-Enterprise-OID**](c-mspki-enterprise-oid.md)<br/> |
+| Классы, используемые в        | [**ms-PKI-Enterprise-Oid**](c-mspki-enterprise-oid.md)<br/> |
 
 
 
@@ -98,16 +98,16 @@ ms.locfileid: "103893414"
 |------------------------|--------------------------------------------------------------------|
 | Идентификатор ссылки                | \-                                                                 |
 | MAPI-Id                | \-                                                                 |
-| System-Only            | Неверно                                                              |
-| Является однозначным       | Неверно                                                              |
-| Индексируется             | Неверно                                                              |
-| В глобальном каталоге      | Неверно                                                              |
+| System-Only            | Нет                                                              |
+| Является однозначным       | Нет                                                              |
+| Индексируется             | Нет                                                              |
+| В глобальном каталоге      | Нет                                                              |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                       |
 | Range-Lower            | \-                                                                 |
 | Range-Upper            | \-                                                                 |
 | Search-Flags           | 0x00000000                                                         |
 | System-Flags           | 0x00000010                                                         |
-| Классы, используемые в        | [**MS-PKI-Enterprise-OID**](c-mspki-enterprise-oid.md)<br/> |
+| Классы, используемые в        | [**ms-PKI-Enterprise-Oid**](c-mspki-enterprise-oid.md)<br/> |
 
 
 
@@ -119,16 +119,16 @@ ms.locfileid: "103893414"
 |------------------------|--------------------------------------------------------------------|
 | Идентификатор ссылки                | \-                                                                 |
 | MAPI-Id                | \-                                                                 |
-| System-Only            | Неверно                                                              |
-| Является однозначным       | Неверно                                                              |
-| Индексируется             | Неверно                                                              |
-| В глобальном каталоге      | Неверно                                                              |
+| System-Only            | Нет                                                              |
+| Является однозначным       | Нет                                                              |
+| Индексируется             | Нет                                                              |
+| В глобальном каталоге      | Нет                                                              |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                       |
 | Range-Lower            | \-                                                                 |
 | Range-Upper            | \-                                                                 |
 | Search-Flags           | 0x00000000                                                         |
 | System-Flags           | 0x00000010                                                         |
-| Классы, используемые в        | [**MS-PKI-Enterprise-OID**](c-mspki-enterprise-oid.md)<br/> |
+| Классы, используемые в        | [**ms-PKI-Enterprise-Oid**](c-mspki-enterprise-oid.md)<br/> |
 
 
 
@@ -140,16 +140,16 @@ ms.locfileid: "103893414"
 |------------------------|--------------------------------------------------------------------|
 | Идентификатор ссылки                | \-                                                                 |
 | MAPI-Id                | \-                                                                 |
-| System-Only            | Неверно                                                              |
-| Является однозначным       | Неверно                                                              |
-| Индексируется             | Неверно                                                              |
-| В глобальном каталоге      | Неверно                                                              |
+| System-Only            | Нет                                                              |
+| Является однозначным       | Нет                                                              |
+| Индексируется             | Нет                                                              |
+| В глобальном каталоге      | Нет                                                              |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                       |
 | Range-Lower            | \-                                                                 |
 | Range-Upper            | \-                                                                 |
 | Search-Flags           | 0x00000000                                                         |
 | System-Flags           | 0x00000010                                                         |
-| Классы, используемые в        | [**MS-PKI-Enterprise-OID**](c-mspki-enterprise-oid.md)<br/> |
+| Классы, используемые в        | [**ms-PKI-Enterprise-Oid**](c-mspki-enterprise-oid.md)<br/> |
 
 
 

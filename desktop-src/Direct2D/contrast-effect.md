@@ -4,12 +4,12 @@ description: Увеличивает или уменьшает контрастн
 ms.assetid: c0cc0f86-f6d4-e951-0cdd-dbad488e0793
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a6f287b1309aceadc4709bae3b1c2101a06df32d
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: ad766b33f82a409395186f219321cf1035d49fe447c29fb3a95071c985c18397
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104071732"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119814929"
 ---
 # <a name="contrast-effect"></a>Контрастный результат
 
@@ -25,7 +25,7 @@ ms.locfileid: "104071732"
 -   [Образец кода](#sample-code)
 -   [Свойства эффектов](#effect-properties)
 -   [Требования](#requirements)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="example-images"></a>Примеры изображений
 
@@ -58,15 +58,15 @@ m_d2dContext->EndDraw();
 
 Свойства для эффектов контрастности определяются перечислением [**\_ \_ prop контрастности D2D1**](/windows/desktop/api/d2d1effects_2/ne-d2d1effects_2-d2d1_contrast_prop) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 | Требование | Значение |
 |--------------------------|---------------------------------------------------|
-| Минимальная версия клиента | Приложения для \[ магазина Windows для классических приложений Windows 10 \|\] |
-| Минимальная версия сервера | Приложения для \[ магазина Windows для классических приложений Windows 10 \|\] |
-| Header                   | d2d1effects \_ 2. h                                  |
+| Минимальная версия клиента | Windows 10 \[ классические приложения \| Windows приложения магазина\] |
+| Минимальная версия сервера | Windows 10 \[ классические приложения \| Windows приложения магазина\] |
+| Заголовок                   | d2d1effects \_ 2. h                                  |
 | Библиотека                  | D2D1. lib, дксгуид. lib                              |
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 * [Интерфейс ID2D1Effect](/windows/desktop/api/d2d1_1/nn-d2d1_1-id2d1effect)

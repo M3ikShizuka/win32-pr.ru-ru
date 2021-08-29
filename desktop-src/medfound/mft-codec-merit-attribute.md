@@ -4,12 +4,12 @@ ms.assetid: 1df40a42-4c02-473f-a87f-2ae2d42e4f4e
 title: Атрибут MFT_CODEC_MERIT_Attribute (Мфтрансформ. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 74745244824bc766d0f7c1e691cb5f176d1da6a8
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 3d6b79579b20eaee3fb933cb0eb430cf841b9242f411d79b8a3ba5134ba58790
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105656556"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119887514"
 ---
 # <a name="mft_codec_merit_attribute-attribute"></a>\_ \_ Атрибут атрибута «неуспешный кодек MFT» \_
 
@@ -25,7 +25,7 @@ ms.locfileid: "105656556"
 
 Чтобы задать этот атрибут, вызовите [**имфаттрибутес:: SetUINT32**](/windows/desktop/api/mfobjects/nf-mfobjects-imfattributes-setuint32).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот атрибут задается в объекте активации для Media Foundation преобразования (MFT), представляющего аппаратный кодек. Значением атрибута является значение «неуспешный» кодека.
 
@@ -37,19 +37,19 @@ ms.locfileid: "105656556"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 7 \|\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2008 R2 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Мфтрансформ. h</dt> </dl> |
+| Минимальная версия клиента<br/> | \[приложения UWP для классических приложений Windows 7 \|\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows \[Приложения UWP для настольных приложений Server 2008 R2 \|\]<br/>                           |
+| Заголовок<br/>                   | <dl> <dt>Мфтрансформ. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

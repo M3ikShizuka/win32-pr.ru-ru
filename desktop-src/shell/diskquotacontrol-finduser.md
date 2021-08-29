@@ -13,12 +13,12 @@ api_type:
 api_location:
 - Shell32.dll
 ms.assetid: e5767d28-4c0a-49bc-a1d3-ba809411456d
-ms.openlocfilehash: eab539a5ec5a360ae28fc87d5ffbb9dd4f9f1cc8
-ms.sourcegitcommit: 3caaa3c92dcb1ef12f84464d14ce6262e65e988e
+ms.openlocfilehash: 1f9478c064e424fc74778d89c22219966036d6388607dd4493b2330127543843
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109841525"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120009554"
 ---
 # <a name="diskquotacontrolfinduser-method"></a>Дисккуотаконтрол. Финдусер, метод
 
@@ -86,7 +86,7 @@ End Function
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

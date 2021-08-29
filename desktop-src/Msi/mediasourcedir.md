@@ -4,24 +4,24 @@ ms.assetid: 79c7c5eb-b212-4dbf-943a-00ebd6037ce1
 title: Медиасаурцедир, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4ae8ec79d11f8aaf5027ae0e68003532449c52ba
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 7d3346cc275fec22b555cd5408fb544bf22339e61dce46785622357e9c9b779c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105665484"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119926814"
 ---
 # <a name="mediasourcedir-property"></a>Медиасаурцедир, свойство
 
 Установщик задает для свойства **медиасаурцедир** значение 1, если при установке используется источник, расположенный на носителе, например компакт-диск. Это свойство не задано, если при установке используется источник, расположенный в сетевом расположении. Например, [элемент управления селектионтри](selectiontree-control.md) использует **медиасаурцедир** для определения того, выполняется ли установка из источника или выполняется из сетевого расположения.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/> | Установщик Windows 5,0 в Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Установщик Windows 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Установщик Windows в Windows Server 2003 или Windows XP. Сведения о минимальном пакете обновления Windows, который требуется для установщик Windows версии, см. в [установщик Windows Run-Time требования](windows-installer-portal.md) .<br/> |
+| Версия<br/> | Windows установщик 5,0 на Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Windows установщик 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Windows установщик на Windows Server 2003 или Windows XP. сведения о минимальном Windows пакета обновления, который требуется для установщик Windows версии, см. в [установщик Windows требования к Run-Time](windows-installer-portal.md) .<br/> |
 
 
 

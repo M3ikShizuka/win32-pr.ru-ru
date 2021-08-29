@@ -1,5 +1,5 @@
 ---
-description: Метод Екстракткаб объекта Merge извлекает из модуля внедренный CAB-файл и сохраняет его как указанный файл. Установщик создаст этот файл, если он еще не существует, и перезаписал его, если он существует.
+description: Метод Екстракткаб объекта Merge извлекает внедренный файл .cab из модуля и сохраняет его как указанный файл. Установщик создаст этот файл, если он еще не существует, и перезаписал его, если он существует.
 ms.assetid: a6fe8b69-8f4a-45f7-b7e6-7620a00500bb
 title: Метод Merge. Екстракткаб (Мержемод. h)
 ms.topic: reference
@@ -14,16 +14,16 @@ api_type:
 - COM
 api_location:
 - Mergemod.dll
-ms.openlocfilehash: d0bdc79fb0087456d035bf732faca384b35b2a9f
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: e14f1163c16d7b12ea223baa533f3953cd22d88ec6e3cc617f5ffe72adb5075c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105665192"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119926634"
 ---
 # <a name="mergeextractcab-method"></a>Метод Merge. Екстракткаб
 
-Метод **екстракткаб** объекта [**Merge**](merge-object.md) извлекает из модуля внедренный CAB-файл и сохраняет его как указанный файл. Установщик создаст этот файл, если он еще не существует, и перезаписал его, если он существует.
+Метод **екстракткаб** объекта [**Merge**](merge-object.md) извлекает внедренный файл .cab из модуля и сохраняет его как указанный файл. Установщик создаст этот файл, если он еще не существует, и перезаписал его, если он существует.
 
 ## <a name="syntax"></a>Синтаксис
 
@@ -55,14 +55,14 @@ Merge.ExtractCAB(
 
 См. раздел Функция [**екстракткаб**](/windows/win32/api/mergemod/nf-mergemod-imsmmerge-extractcab) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------------------------------------------------|
 | Версия<br/> | Mergemod.dll 1,0 или более поздней версии<br/>                                                    |
-| Header<br/>  | <dl> <dt>Мержемод. h</dt> </dl>   |
+| Заголовок<br/>  | <dl> <dt>Мержемод. h</dt> </dl>   |
 | DLL<br/>     | <dl> <dt>Mergemod.dll</dt> </dl> |
 
 

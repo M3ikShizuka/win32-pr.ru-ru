@@ -1,9 +1,9 @@
 ---
-title: Параметры. выкл.
+title: Параметры. без звука
 description: Свойство выкл. указывает и получает значение, указывающее, отключено ли звуковое сопровождение.
 ms.assetid: d6d4b46d-5631-4af7-bd99-21674f067121
 keywords:
-- Параметры. выключение проигрывателя Windows Media
+- Параметры. отключите проигрыватель Windows Media
 topic_type:
 - apiref
 api_name:
@@ -14,14 +14,14 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7061439e9e091b2ad1cf6be49873d7e3895132b0
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 26c3a6d510f2b5906ea604a783f59b6246ac8b302a2a77d8941237361ee888eb
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105704381"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120002394"
 ---
-# <a name="settingsmute"></a>Параметры. выкл.
+# <a name="settingsmute"></a>Параметры. без звука
 
 Свойство **выкл** . указывает и получает значение, указывающее, отключено ли звуковое сопровождение.
 
@@ -37,7 +37,7 @@ Player. Settings. выкл.
 
 | Значение | Описание                  |
 |-------|------------------------------|
-| true  | Звук отключен.              |
+| Да  | Звук отключен.              |
 | false | По умолчанию. Звук не отключен. |
 
 
@@ -61,22 +61,22 @@ Player. Settings. выкл.
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 7,0 или более поздней.<br/>                              |
+| Версия<br/> | проигрыватель Windows Media версии 7,0 или более поздней.<br/>                              |
 | DLL<br/>     | <dl> <dt>Wmp.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
-[**Объект параметров**](settings-object.md)
+[**Параметры Объектами**](settings-object.md)
 </dt> </dl>
 
  

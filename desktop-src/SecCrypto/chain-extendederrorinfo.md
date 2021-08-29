@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: f8a7840d0f54ea7e93ad9998d5e8772a2ae411f2
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 460e16fd99a8599927e80c2e737ed35c5eb1e138899f83c4450ae2220d67f7fa
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105688982"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119876935"
 ---
 # <a name="ichain2extendederrorinfo-method"></a>Метод IChain2:: Екстендедерроринфо
 
@@ -55,7 +55,7 @@ Chain.ExtendedErrorInfo( _
 
 Строка, содержащая расширенные сведения об ошибке.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -68,7 +68,7 @@ Chain.ExtendedErrorInfo( _
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

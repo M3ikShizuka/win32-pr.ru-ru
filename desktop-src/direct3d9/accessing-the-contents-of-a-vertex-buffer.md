@@ -4,12 +4,12 @@ ms.assetid: 63d255b7-fa7d-411b-9cdb-52113f30c933
 title: Доступ к содержимому буфера вершин (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e1b5e4a4986e064d3736f83567f5dd6d479d0dbc
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: a7f186a85ae0f025d274c50a62d2a83e943bc3b772b2907b5baa1bcac6e0b3bc
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105673131"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119987474"
 ---
 # <a name="accessing-the-contents-of-a-vertex-buffer-direct3d-9"></a>Доступ к содержимому буфера вершин (Direct3D 9)
 
@@ -67,7 +67,7 @@ g_pVB->Unlock();
 
 Сведения о буфере вершин можно получить, вызвав метод [**IDirect3DVertexBuffer9::-DESC**](/windows/desktop/api) . Этот метод заполняет члены структуры [**D3DVERTEXBUFFER \_ DESC**](d3dvertexbuffer-desc.md) сведениями о буфере вершин.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

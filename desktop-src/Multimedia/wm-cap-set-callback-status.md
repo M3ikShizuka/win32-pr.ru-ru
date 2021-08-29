@@ -3,7 +3,7 @@ title: Сообщение WM_CAP_SET_CALLBACK_STATUS (VFW. h)
 description: '\_ \_ \_ Сообщение о состоянии обратного вызова для установки крепления WM \_ устанавливает функцию обратного вызова состояния в приложении. Авикап вызывает эту процедуру при каждом изменении состояния окна записи. Это сообщение можно отправить явно или с помощью макроса Капсеткаллбакконстатус.'
 ms.assetid: 451ba9f9-7bfb-4c57-af6c-d5f691f39618
 keywords:
-- WM_CAP_SET_CALLBACK_STATUS сообщения Windows мультимедиа
+- сообщение WM_CAP_SET_CALLBACK_STATUS Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 493893a51d51b1ce61d43ff54461bb71c08a9f6a
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: f5a74c92f35f9cd504fdbf332315a3a4ad8ac336e61571d68cff8b4cee73c869
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104489384"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119891874"
 ---
 # <a name="wm_cap_set_callback_status-message"></a>\_ \_ \_ Сообщение о состоянии обратного вызова для установки крепления WM \_
 
@@ -49,7 +49,7 @@ lParam = (LPARAM) (LPVOID) (fpProc);
 
 Возвращает **значение true** в случае успеха или **false** , если выполняется захват потоковой передачи или однокадровый сеанс записи.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 При необходимости в приложениях можно задать функцию обратного вызова состояния. Если задано, Авикап вызывает эту процедуру в следующих ситуациях:
 
@@ -58,7 +58,7 @@ lParam = (LPARAM) (LPVOID) (fpProc);
 -   Создается оптимальная палитра.
 -   Отображается число захваченных кадров.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -70,7 +70,7 @@ lParam = (LPARAM) (LPVOID) (fpProc);
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -91,12 +91,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4e94bb4471db89dd66d560ae2da090f06367b8fa
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 0690f1695f6a52190e9e459e34d2e51b19c7429980ee05f30f1ffc4af388faa3
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104534751"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119859851"
 ---
 # <a name="control-pattern-property-identifiers"></a>Идентификаторы свойств шаблона элемента управления
 
@@ -189,19 +189,19 @@ ms.locfileid: "104534751"
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|-------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows XP \|\]<br/>                                              |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2003 \|\]<br/>                                     |
-| Header<br/>                   | <dl> <dt>UIAutomationClient. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Приложения UWP для классических приложений XP \|\]<br/>                                              |
+| Минимальная версия сервера<br/> | Windows \[Приложения UWP для классических приложений сервера 2003 \|\]<br/>                                     |
+| Заголовок<br/>                   | <dl> <dt>UIAutomationClient. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

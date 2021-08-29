@@ -20,12 +20,12 @@ keywords:
 - Функция обратного вызова Мидиаутпрок
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bccccd8e5fb052b89e8ca1804b89de6da26cd5b7
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.openlocfilehash: 727474e5323519cb5f70dbcaa71798c41a8c6f9433852718051a8584a2967e5c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "103790872"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119804694"
 ---
 # <a name="using-a-callback-function-to-manage-buffered-playback"></a>Использование функции обратного вызова для управления воспроизведением в буфере
 
@@ -43,12 +43,12 @@ ms.locfileid: "103790872"
 
 
 
- 
+ 
 
 Эти сообщения похожи на те, которые были отправлены в функции процедур Windows, но параметры различны. Обработчик открытого MIDI-устройства передается в качестве параметра функции обратного вызова вместе с даублеворд данных экземпляра, передаваемых с помощью **мидиаутопен**.
 
 После завершения работы драйвера с блоком данных можно очистить и освободить блок данных. Из-за предлагаемых ограничений функций обратного вызова лучше не делать это в функции обратного вызова.
 
- 
+ 
 
- 
+ 

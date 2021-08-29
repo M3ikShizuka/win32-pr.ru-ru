@@ -6,22 +6,22 @@ keywords:
 - Система доменных имен, поставщик WMI, использование
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b4867b1b679c669fb8c7466518aef9e60e24b5da
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 645f03689caf8fa6998fb27bb51f9a62e9cf7cb79ff575392be8acfb6c3bdaa7
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103778329"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119984534"
 ---
 # <a name="using-the-dns-wmi-provider"></a>Использование поставщика WMI для DNS
 
 Поставщик WMI для DNS определяет [*классы CIM*](c-gly.md) WMI, позволяющие приложению управлять DNS-сервером. В следующих разделах содержатся общие сведения, которые помогут приступить к работе с поставщиком WMI для DNS. Ссылки на примеры сценариев, демонстрирующие использование поставщика WMI для DNS.
 
-Дополнительные сведения об основных операциях WMI см. в разделе инструментарий управления Windows (WMI) (WMI) в пакете SDK для платформы.
+дополнительные сведения об основных операциях wmi см. в разделе инструментарий управления Windows (WMI) (WMI) в пакете sdk для платформы.
 
- 
+ 
 
- 
+ 
 
 
 

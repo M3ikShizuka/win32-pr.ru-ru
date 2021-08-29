@@ -6,12 +6,12 @@ keywords:
 - Удаленный вызов процедур RPC, ссылки, функции
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b8abaa00de5bae6b0381d67f82e5ca75cd528361
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 4a1eeb52119aa5b2df381f84da17adb787342a9478fa170bb00a531e581cb894
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "103987821"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120018434"
 ---
 # <a name="rpc-functions"></a>Функции RPC
 
@@ -207,6 +207,6 @@ ms.locfileid: "103987821"
 -   [**ууидиснил**](/windows/desktop/api/Rpcdce/nf-rpcdce-uuidisnil)
 -   [**ууидтостринг**](/windows/desktop/api/Rpcdce/nf-rpcdce-uuidtostring)
 
- 
+ 
 
- 
+ 

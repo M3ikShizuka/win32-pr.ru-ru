@@ -13,18 +13,18 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 5e31d6a7c3d2422111d0d8c3247e022fa35bdc43
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 9e30c0c5ad7efa727d00c46b84bcfa6dfb4285d59e4fe0d3c40d6a0128be01ca
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105651884"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120077932"
 ---
 # <a name="component-object"></a>Объект Component
 
 Объект Component представляет уникальный экземпляр компонента, доступного для перечисления.
 
-**[Установщик Windows 4,5 или более ранней версии](not-supported-in-windows-installer-4-5.md):** Не поддерживается. Этот объект доступен, начиная с установщик Windows 5,0.
+**[установщик Windows 4,5 или более ранней версии](not-supported-in-windows-installer-4-5.md):** Не поддерживается. этот объект доступен, начиная с установщик Windows 5,0.
 
 ## <a name="members"></a>Элементы
 
@@ -32,7 +32,7 @@ ms.locfileid: "105651884"
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Объект **компонента** имеет следующие свойства.
 
@@ -48,26 +48,26 @@ ms.locfileid: "105651884"
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------------------------------------|
-| Версия<br/> | Установщик Windows 5,0 или более поздней версии.<br/>                                         |
+| Версия<br/> | Windows Установщик 5,0 или более поздней версии.<br/>                                         |
 | DLL<br/>     | <dl> <dt>Msi.dll</dt> </dl> |
 | IID<br/>     | IID интерфейса \_ IComponent определяется как 000C1097-0000-0000-C000-000000000046<br/>      |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
 [Использование интерфейса автоматизации](using-the-automation-interface.md)
 </dt> <dt>
 
-[Примеры сценариев установщик Windows](windows-installer-scripting-examples.md)
+[Windows Примеры сценариев для установщика](windows-installer-scripting-examples.md)
 </dt> </dl>
 
  

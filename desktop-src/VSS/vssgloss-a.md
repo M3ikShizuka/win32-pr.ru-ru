@@ -5,12 +5,12 @@ ms.assetid: 928341a3-ed3a-4db0-9648-1a5efaff5435
 title: A (служба теневого копирования томов)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e654c0742c824ae7ad17d91e3a2ffa65c9e6bf77
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 05d858294c5647e62d1eb949b3fa336d3dcc513a9a374443e0fe9621f1721800
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105692362"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119986544"
 ---
 # <a name="a-volume-shadow-copy-service"></a>A (служба теневого копирования томов)
 
@@ -28,7 +28,7 @@ A [B](vssgloss-b.md) [C](vssgloss-c.md) [D](vssgloss-d.md) [E](vssgloss-e.md) [F
 <span id="base.vssgloss_active_directory"></span><span id="BASE.VSSGLOSS_ACTIVE_DIRECTORY"></span>**Active Directory**
 </dt> <dd>
 
-Служба Active Directory (ADSI) — это служба на основе COM, предоставляющая механизм для поиска, идентификации и доступа к пользователям и ресурсам, доступным в системе распределенной вычислительной среды. В частности, служба Active Directory используется для управления данными каталога предприятия для распространения сервером домена Windows.
+Служба Active Directory (ADSI) — это служба на основе COM, предоставляющая механизм для поиска, идентификации и доступа к пользователям и ресурсам, доступным в системе распределенной вычислительной среды. в частности, служба Active Directory используется для управления данными каталога предприятия для распространения сервером Windows домена.
 
 </dd> <dt>
 

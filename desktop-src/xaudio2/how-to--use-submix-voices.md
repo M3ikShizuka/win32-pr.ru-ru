@@ -4,12 +4,12 @@ ms.assetid: 76c1c138-4846-9c4f-7875-446867436ee9
 title: 'Руководство: использование субмикшированной речи'
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e7152c3224d6528ac52651f2ca2f433631b347c3
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 688a190bcf105945c3b596960083d850955d2b9f59bb6a991dfb6d120bd7b713
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104265269"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120005824"
 ---
 # <a name="how-to-use-submix-voices"></a>Руководство: использование субмикшированной речи
 
@@ -51,7 +51,7 @@ ms.locfileid: "104265269"
 
     
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

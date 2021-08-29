@@ -1,6 +1,6 @@
 ---
 title: Типы носителей (не рекомендуется)
-description: Текущую документацию по кодекам Windows Media и обработчикам цифровых сигналов см. в статье интерфейсы API аудио-и видеокодеков Windows Media и DSP. | Типы носителей
+description: текущую документацию по Windows кодеков мультимедиа и обработчикам цифровых сигналов см. в разделе Windows media Audio и Video кодек и DSP api. | Типы носителей
 ms.assetid: e56ed247-eb4d-42aa-914a-d4138ba45cfb
 keywords:
 - Типы носителей формат Windows Media
@@ -12,16 +12,16 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 825b35db69cbd653202cfb5a46da732a7138fed2
-ms.sourcegitcommit: 4570ac533e129ff88b23f2c2b69e0140ead3a4a4
+ms.openlocfilehash: b7bd80080d5fc02ee2e8ef953fc3cc6903430e13d176771417b703922d58dc58
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "105718185"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119929954"
 ---
 # <a name="media-types"></a>Типы носителей
 
-Текущую документацию по кодекам Windows Media и обработчикам цифровых сигналов см [. в статье интерфейсы API аудио-и видеокодеков Windows Media и DSP.](/previous-versions//dd464626(v=vs.85))
+текущую документацию по Windows кодеков мультимедиа и обработчикам цифровых сигналов см [. в разделе Windows media Audio и Video кодек и DSP api.](/previous-versions//dd464626(v=vs.85))
 
  
 

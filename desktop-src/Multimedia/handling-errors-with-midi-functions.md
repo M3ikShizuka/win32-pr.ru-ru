@@ -9,12 +9,12 @@ keywords:
 - Ошибки MIDI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a9689fe30b9c4f598cfc9bea892ff3d4fe15d3a9
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.openlocfilehash: 5831763157f34728c3ed3a94a2be14e227921a710fd17a3cd55d1a24bd00b07f
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "105650354"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119785084"
 ---
 # <a name="handling-errors-with-midi-functions"></a>Обработка ошибок с помощью функций MIDI
 
@@ -22,13 +22,13 @@ ms.locfileid: "105650354"
 
 Единственными функциями MIDI, которые не возвращают коды ошибок, являются функции [**мидиинжетнумдевс**](/windows/win32/api/mmeapi/nf-mmeapi-midiingetnumdevs) и [**мидиаутжетнумдевс**](/windows/win32/api/mmeapi/nf-mmeapi-midioutgetnumdevs) . Эти функции возвращают нулевое значение, если в системе нет устройств или если какая-либо ошибка обнаружена функцией.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Службы MIDI](midi-services.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

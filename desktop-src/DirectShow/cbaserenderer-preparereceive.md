@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 2b15f2a83d8cb20f7204e58dd12d5f94491904c4
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 4c5ff423945de7208de6b876d20d602589e4472671d26f709903b9c34cb7f35c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105658051"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119928644"
 ---
 # <a name="cbaserendererpreparereceive-method"></a>Кбасерендерер. Препаререцеиве, метод
 
@@ -66,7 +66,7 @@ virtual HRESULT PrepareReceive(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Фильтр вызывает этот метод из метода [**кбасерендерер:: Receive**](cbaserenderer-receive.md) перед отрисовкой примера. Если фильтр работает, этот метод планирует пример для подготовки к просмотру.
 
@@ -74,18 +74,18 @@ virtual HRESULT PrepareReceive(
 
 Если алгоритм планирования определяет, что этот пример следует удалить (см. раздел [**кбасерендерер:: счедулесампле**](cbaserenderer-schedulesample.md)), метод возвращает пример "VFW E", который был \_ \_ \_ отклонен. Однако метод [**имеминпутпин:: Receive**](/windows/desktop/api/Strmif/nf-strmif-imeminputpin-receive) входного контакта не передает этот код ошибки в вышестоящий фильтр, так как удаление образца не является ошибкой.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Ренбасе. h (включение Streams. h)</dt> </dl>                                                                                   |
+| Заголовок<br/>  | <dl> <dt>ренбасе. h (включает Потоки. h)</dt> </dl>                                                                                   |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

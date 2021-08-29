@@ -3,25 +3,25 @@ title: Перекодирование файлов (КАСФ)
 description: Перекодирование файлов (КАСФ)
 ms.assetid: c6dad6cf-4781-4204-883b-cdb33aff5e27
 keywords:
-- Windows Media Format SDK, перекодирование файлов (КАСФ)
-- Пакет SDK для Windows Media Format, DirectShow
+- Windows Пакет SDK для формата мультимедиа, файлы перекодирования (КАСФ)
+- Windows Пакет SDK для формата мультимедиа, DirectShow
 - Расширенный системный формат (ASF), файлы для перекодирования (КАСФ)
 - ASF (Расширенный системный формат), перекодирование файлов (КАСФ)
-- Расширенный системный формат (ASF), DirectShow
+- Расширенный формат систем (ASF), DirectShow
 - ASF (Расширенный системный формат), DirectShow
-- DirectShow, перекодирование файлов (КАСФ)
-- Windows Media Format SDK, КАСФ
+- DirectShow, перекодирование файлов (касф)
+- Windows Пакет SDK для формата мультимедиа, КАСФ
 - Расширенный системный формат (ASF), КАСФ
 - ASF (Расширенный системный формат), КАСФ
-- DirectShow, КАСФ
+- DirectShow, касф
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 14387a65538d411bcd41b4b907f2adbab2089f71
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: f7465c98edd39d173623f202dfdf7845dfeda648c52106f2241ea596d54caa00
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104555559"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119929172"
 ---
 # <a name="transcoding-files-qasf"></a>Перекодирование файлов (КАСФ)
 
@@ -33,9 +33,9 @@ ms.locfileid: "104555559"
 
 ![Типичные графы фильтра перекодировки](images/asf-transcode.png)
 
- 
+ 
 
- 
+ 
 
 
 

@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 1cd9cae29cfa608c9f3c0c36ebfe3ca7f903c809
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 48d37ff004f8b58591b6cf5457dab54f985d50be44b487c52bf63fa63da137c8
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104262726"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120002874"
 ---
 # <a name="win32_devicesettings-class"></a>\_Класс Win32 девицесеттингс
 
@@ -46,7 +46,7 @@ class Win32_DeviceSettings : CIM_ElementSetting
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ девицесеттингс** имеет следующие свойства.
 
@@ -84,7 +84,7 @@ class Win32_DeviceSettings : CIM_ElementSetting
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **Win32 \_ девицесеттингс** является производным от [**CIM \_ елементсеттинг**](cim-elementsetting.md).
 

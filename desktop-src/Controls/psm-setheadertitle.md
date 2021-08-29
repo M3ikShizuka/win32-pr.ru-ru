@@ -3,7 +3,7 @@ title: Сообщение PSM_SETHEADERTITLE (Пршт. h)
 description: Задает текст заголовка для заголовка внутренней страницы мастера. Это сообщение можно отправить явным образом или использовать макрос Пропшит \_ сесеадертитле.
 ms.assetid: 19d4badf-d99d-4a28-92d4-33bcf5d23944
 keywords:
-- Элементы управления Windows для PSM_SETHEADERTITLE сообщений
+- элементы управления Windows сообщений PSM_SETHEADERTITLE
 topic_type:
 - apiref
 api_name:
@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8140eef4aa09e9dd19d8baaf8193a836b105482e
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 743eda08070769c9fd603efc878e27672cc4bdfabac5af71c07566f710660818
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105654424"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119985444"
 ---
 # <a name="psm_setheadertitle-message"></a>\_Сообщение ПСМ сесеадертитле
 
@@ -49,7 +49,7 @@ ms.locfileid: "105654424"
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если указать текущую страницу, она будет немедленно перерисована для вывода нового заголовка.
 
@@ -59,9 +59,9 @@ ms.locfileid: "105654424"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                     |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                               |
-| Header<br/>                   | <dl> <dt>Пршт. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                               |
+| Заголовок<br/>                   | <dl> <dt>Пршт. h</dt> </dl> |
 | Имя в кодировке Юникод и ANSI<br/>   | **ПСМ \_ СЕСЕАДЕРТИТЛЕВ** (Юникод) и **ПСМ \_ сесеадертитлеа** (ANSI)<br/>  |
 
 

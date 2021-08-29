@@ -4,12 +4,12 @@ ms.assetid: 30e6ae97-0aa9-b8d5-ace3-47d98e889875
 title: Константы ФКСМАСТЕРИНГЛИМИТ (КСАПОФКС. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7a8c6e96cbea0e53dbb23091719aa176aeb1896b
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: dab681d003b4a9feca575fada1e88187255bf18a8cb9d63b41ef4a5e9ba0a939
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105698908"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119926504"
 ---
 # <a name="fxmasteringlimit-constants"></a>Константы ФКСМАСТЕРИНГЛИМИТ
 
@@ -28,23 +28,23 @@ ms.locfileid: "105698908"
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 ### <a name="platform-requirements"></a>Требования к платформе
 
-Windows 10 (Ксаудио 2.9); Windows 8, Windows Phone 8 (Ксаудио 2,8); Пакет SDK для DirectX (Ксаудио 2,7)
+Windows 10 (ксаудио 2.9); Windows 8, Windows Phone 8 (ксаудио 2,8); Пакет SDK для DirectX (Ксаудио 2,7)
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|-------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>КСАПОФКС. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>КСАПОФКС. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

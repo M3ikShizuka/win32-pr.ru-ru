@@ -3,8 +3,8 @@ title: Интерфейс Ивмперроритем (VB и C) (WMP. h)
 description: Предоставляет доступ к сведениям об ошибках.
 ms.assetid: 7f1571e1-4e3a-4f06-b9fa-9add34266537
 keywords:
-- Ивмперроритем (VB и C) интерфейс проигрывателя Windows Media
-- Ивмперроритем (VB и C) интерфейс проигрывателя Windows Media, описание
+- проигрыватель Windows Media интерфейса ивмперроритем (VB и C)
+- проигрыватель Windows Media интерфейса ивмперроритем (VB и C), описание
 topic_type:
 - apiref
 api_name:
@@ -15,12 +15,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 65864900e16cf1b4309677ba89e7d5f1eca84442
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 6cee0bbe4bd648e13db778387d9ab4a5cb1738409530a28e56310b71dfdd0e6c
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105688918"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120003614"
 ---
 # <a name="iwmperroritem-vb-and-c-interface"></a>Интерфейс Ивмперроритем (VB и C#)
 
@@ -58,21 +58,21 @@ ms.locfileid: "105688918"
 
 Интерфейс **ивмперроритем (VB и C#)** не определяет никаких членов.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|----------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>WMP. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>WMP. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
-[**Интерфейсы для Visual Basic .NET и C #**](interfaces-for-visual-basic--net-and-c.md)
+[**интерфейсы для Visual Basic .net и C #**](interfaces-for-visual-basic--net-and-c.md)
 </dt> <dt>
 
 [**Интерфейс IWMPErrorItem2 (VB и C#)**](iwmperroritem2--vb-and-c.md)

@@ -6,20 +6,20 @@ keywords:
 - Удаленный вызов процедур RPC, задачи, Поиск программы сервера
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 73b822dbca1a927e13f01d7c91aa7c78267db4d1
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 5d4732bb1b47efc2614c79d5f36426c7d9f2118e2c9026f5a76aaf4b11ce54fb
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "105672085"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120021224"
 ---
 # <a name="finding-the-server-program"></a>Поиск программы сервера
 
 После того как время выполнения RPC на стороне клиента подключается к системе узла сервера, запрошенной в маркере привязки, Библиотека времени выполнения RPC клиента находит серверный процесс. Для этого он запрашивает карту конечных точек в системе узла сервера. На карте конечных точек содержатся сведения о том, на какой конечной точке ожидает сервер.
 
- 
+ 
 
- 
+ 
 
 
 

@@ -4,12 +4,12 @@ description: Microsoft RPC поддерживает два разных спос
 ms.assetid: 10dd8e71-668a-46bf-ab5d-e4b1e0e56a46
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 367c4d052301ac1100d84cf18dc63e1540ed34b0
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 2ac09f29c4912228207e5c09d4551f408a76788d3d3ecf999aae2fcc1c63ded6
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104068427"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120018042"
 ---
 # <a name="security-methods"></a>Методы безопасности
 
@@ -22,9 +22,9 @@ Microsoft RPC поддерживает два разных способа доб
 -   [интерфейс поставщика поддержки безопасности (SSPI)](security-support-provider-interface-sspi-.md)
 -   [Безопасность транспорта](transport-security.md)
 
- 
+ 
 
- 
+ 
 
 
 

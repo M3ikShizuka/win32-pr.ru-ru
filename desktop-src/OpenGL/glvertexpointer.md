@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 422dd1a7938cc5adb183ff7e17c59a8f52eb4909
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 7526b553bcacfae421541dc3c695611d704a76ae960db61dab2795e80315d951
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104492120"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120035454"
 ---
 # <a name="glvertexpointer-function"></a>Функция Глвертекспоинтер
 
@@ -64,7 +64,7 @@ void WINAPI glVertexPointer(
 
 </dd> <dt>
 
-*указатель* 
+*вид* 
 </dt> <dd>
 
 Указатель на первую координату первой вершины в массиве.
@@ -89,7 +89,7 @@ void WINAPI glVertexPointer(
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Функция **глвертекспоинтер** задает расположение и данные массива координат вершин, используемых при подготовке к просмотру. Параметр *size* задает количество координат на вершину. Параметр *типа* задает тип данных для каждой координаты вершины. Параметр *stride* определяет смещение в байтах от одной вершины к следующей, позволяя упаковать вершин и атрибуты в одном массиве или хранилище в отдельных массивах. В некоторых реализациях хранение вершин и атрибутов в одном массиве может оказаться более эффективным, чем использование отдельных массивов (см. [**глинтерлеаведаррайс**](glinterleavedarrays.md)).
 
@@ -115,7 +115,7 @@ void WINAPI glVertexPointer(
 
 [**глисенаблед**](glisenabled.md) с аргументом " \_ массив вершин GL" \_
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -129,7 +129,7 @@ void WINAPI glVertexPointer(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

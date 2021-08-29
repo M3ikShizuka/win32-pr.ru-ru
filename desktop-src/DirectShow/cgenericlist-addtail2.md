@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 6695df796e54e85ba32dcd63cce2940e00a0199c
-ms.sourcegitcommit: 168d11879cb9fd89d26f826482725c0a626be00f
+ms.openlocfilehash: 1cf647fb70b6d2896991bda2e8558ad34407f3427a2eef2d2ce8cd4295c95486
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "105656827"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119814004"
 ---
 # <a name="cgenericlistaddtail-method-wxlisth---plist-parameter"></a>Кженериклист. AddTail, метод (Вкслист. h) — параметр pList
 
@@ -53,14 +53,14 @@ BOOL AddTail(
 
 Возвращает **значение true** , если успешно, или **false** в противном случае.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 | Требование | Значение |
 |-|-|
-| Header | Вкслист. h (включение Streams. h) |
+| Заголовок | вкслист. h (включает Потоки. h) |
 | Библиотека| Стрмбасе. lib (розничные сборки); Стрмбасд. lib (отладочные сборки) |
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

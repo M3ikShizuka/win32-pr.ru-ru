@@ -1,6 +1,6 @@
 ---
-title: Хранение сжатых носителей в AVI-файлах (Windows Media Format SDK 11)
-description: Текущую документацию по кодекам Windows Media и обработчикам цифровых сигналов см. в статье интерфейсы API аудио-и видеокодеков Windows Media и DSP. | Хранение сжатых носителей в AVI-файлах (Windows Media Format SDK 11)
+title: хранение сжатых носителей в AVI-файлах (Windows Media Format 11 SDK)
+description: текущую документацию по Windows кодеков мультимедиа и обработчикам цифровых сигналов см. в разделе Windows media Audio и Video кодек и DSP api. | хранение сжатых носителей в AVI-файлах (Windows Media Format 11 SDK)
 ms.assetid: f6bebf7b-df05-4f3b-b7ae-f9e40b5618d1
 keywords:
 - Хранение сжатых файлов мультимедиа в AVI Files Windows Media Format
@@ -12,16 +12,16 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 749e385ad6a4b8c673243a2d0c951944356162c3
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.openlocfilehash: 9876efd277bb76e4b4ed084a3127da1d7a2a7376361f483330eb9f23756ea77d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "104353795"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119929494"
 ---
-# <a name="storing-compressed-media-in-avi-files-windows-media-format-11-sdk"></a>Хранение сжатых носителей в AVI-файлах (Windows Media Format SDK 11)
+# <a name="storing-compressed-media-in-avi-files-windows-media-format-11-sdk"></a>хранение сжатых носителей в AVI-файлах (Windows Media Format 11 SDK)
 
-Текущую документацию по кодекам Windows Media и обработчикам цифровых сигналов см [. в статье интерфейсы API аудио-и видеокодеков Windows Media и DSP.](/previous-versions//dd464626(v=vs.85))
+текущую документацию по Windows кодеков мультимедиа и обработчикам цифровых сигналов см [. в разделе Windows media Audio и Video кодек и DSP api.](/previous-versions//dd464626(v=vs.85))
 
  
 

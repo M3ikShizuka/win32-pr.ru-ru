@@ -4,12 +4,12 @@ ms.assetid: 928ba485-f767-47df-8b57-7630c68068a7
 title: Константы политики управления производительностью процессора (WinNT. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9597750f37d9efda80d4bb2bfff7bc121982e7d8
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: d80b2a91e90047619e582c2e82f1c84d3003df960998bcc037677a8d6200b408
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104545503"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119886944"
 ---
 # <a name="processor-performance-control-policy-constants"></a>Константы политики управления производительностью процессора
 
@@ -26,15 +26,15 @@ ms.locfileid: "104545503"
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|--------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                                            |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                                   |
-| Header<br/>                   | <dl> <dt>Файл WinNT. h (включая Windows. h)</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                                            |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                   |
+| Заголовок<br/>                   | <dl> <dt>WinNT. h (включает Windows. h)</dt> </dl> |
 
 
 

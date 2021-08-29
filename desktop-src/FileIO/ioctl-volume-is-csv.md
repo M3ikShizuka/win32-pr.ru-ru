@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Ntddvol.h
-ms.openlocfilehash: 8121e1b89c88ad05a2c2be8537d7170bfabfc412
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: fe89e17688bb5566ade0530ce9a1710b5b2c52c7656bf335a89be63a2ca051d8
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104348542"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119927664"
 ---
 # <a name="ioctl_volume_is_csv-control-code"></a>\_Том ioctl \_ — это \_ управляющий код CSV
 
@@ -118,19 +118,19 @@ DeviceIoControl( (HANDLE) hDevice,              // handle to device
 
 Если операция завершается неудачно или ожидает выполнения, [**DeviceIoControl**](/windows/desktop/api/ioapiset/nf-ioapiset-deviceiocontrol) возвращает ноль (0). Дополнительные сведения об ошибке можно получить, вызвав [**GetLastError**](/windows/desktop/api/errhandlingapi/nf-errhandlingapi-getlasterror).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|--------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                            |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2012\]<br/>                                 |
-| Header<br/>                   | <dl> <dt>Нтддвол. h</dt> </dl> |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                 |
+| Заголовок<br/>                   | <dl> <dt>Нтддвол. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

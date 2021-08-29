@@ -17,12 +17,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b9b119fd601fbb6788f34640fde8c779c4a2bff9
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 917cf6fc56b15fc3bb07a76b6256499894a3af566e8c40ba61ca6759db7eac11
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104534151"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120035134"
 ---
 # <a name="winbio_ansi_381_img_acq-constants"></a>\_ \_ \_ Константы АКК IMG винбио ANSI 381 \_
 
@@ -31,19 +31,19 @@ ms.locfileid: "104534151"
 <dl> <span id="WINBIO_ANSI_381_IMG_ACQ_LEVEL_10"></span><span id="winbio_ansi_381_img_acq_level_10"></span>**Винбио \_ ANSI \_ 381 \_ img \_ АКК \_ Level \_ 10** <span id="WINBIO_ANSI_381_IMG_ACQ_LEVEL_20"></span> <span id="winbio_ansi_381_img_acq_level_20"></span> **винбио \_ ANSI \_ 381 \_ img \_ АКК \_ уровень \_ 20** <span id="WINBIO_ANSI_381_IMG_ACQ_LEVEL_30"></span> <span id="winbio_ansi_381_img_acq_level_30"></span> **винбио \_ ANSI \_ 381 \_ img \_ АКК \_ Level \_ 30** <span id="WINBIO_ANSI_381_IMG_ACQ_LEVEL_31"></span> <span id="winbio_ansi_381_img_acq_level_31"></span> **винбио \_ ANSI \_ 381 \_ img \_ АКК \_ уровень \_ 31** <span id="WINBIO_ANSI_381_IMG_ACQ_LEVEL_40"></span> <span id="winbio_ansi_381_img_acq_level_40"></span> **винбио \_ ANSI \_ 381 \_ img \_ АКК \_ уровень \_ 40** <span id="WINBIO_ANSI_381_IMG_ACQ_LEVEL_41"></span> <span id="winbio_ansi_381_img_acq_level_41"></span> **винбио \_ ANSI \_ 381 \_ img \_ АКК \_ Level \_ 41**  
 </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 7\]<br/>                                                                    |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2008 R2 \[\]<br/>                                                       |
-| Header<br/>                   | <dl> <dt>Винбио \_ types. h (include винбио. h)</dt> </dl> |
+| Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                                                    |
+| Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/>                                                       |
+| Заголовок<br/>                   | <dl> <dt>Винбио \_ types. h (include винбио. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

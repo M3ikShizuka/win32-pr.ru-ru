@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55102090
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 23ba7c70c8f7caa59a72c6abce77c3486f84e045
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 80dea953205040c7775ef4d6738431fb6bc9223db71861de025c4be1ddeaeb39
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104349482"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119782924"
 ---
 # <a name="esentlogdisabledduetorecoveryfailureexception-methods"></a>Методы EsentLogDisabledDueToRecoveryFailureException 
 
@@ -78,7 +78,7 @@ ms.locfileid: "104349482"
 
 Начало
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 #### <a name="reference"></a>Справочник
 

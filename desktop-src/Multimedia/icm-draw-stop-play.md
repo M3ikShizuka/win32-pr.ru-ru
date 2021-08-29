@@ -3,7 +3,7 @@ title: Сообщение ICM_DRAW_STOP_PLAY (VFW. h)
 description: '\_ \_ \_ При завершении операции воспроизведения выводится сообщение о том, что средство ICM Draw останавливает воспроизведение уведомляет драйвер подготовки. Это сообщение можно отправить явно или с помощью макроса Икдравстопплай.'
 ms.assetid: cfe2ee98-80d0-4554-bcbd-9873769da674
 keywords:
-- ICM_DRAW_STOP_PLAY сообщения Windows мультимедиа
+- сообщение ICM_DRAW_STOP_PLAY Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ea3964b623c93d452ab7bf9a32c6b9d9b1573fec
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: ddb5ed2d437a3abc0d24972ee739905a72d2333509e7213973bab9459c7c947a
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104137814"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119784984"
 ---
 # <a name="icm_draw_stop_play-message"></a>\_Сообщение о \_ зависании при прорисовке \_
 
@@ -38,7 +38,7 @@ lParam = 0;
 
 Это сообщение не возвращает значение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это сообщение используется по завершении операции воспроизведения. Используйте сообщение об ошибке [**ICM \_ Draw \_**](icm-draw-stop.md) для окончания времени.
 

@@ -1,19 +1,19 @@
 ---
 title: Служебные программы SNMP
-description: В следующей таблице перечислены служебные программы SNMP, доступные в комплекте Microsoft Windows Resource Kit.
+description: в следующей таблице перечислены служебные программы SNMP, доступные в наборе Microsoft Windows Resource Kit.
 ms.assetid: 8b7d279c-a453-46c3-a287-5b4e17b5a36a
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 901d96ad8947a9e69f4cdea61d3b4cb3e1a0a247
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 831a738c0b7d520ec87711210ce50e1e76d8e4b7576730382d16c77d9b4f9c49
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104070281"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119886344"
 ---
 # <a name="snmp-utilities"></a>Служебные программы SNMP
 
-В следующей таблице перечислены служебные программы SNMP, доступные в комплекте Microsoft Windows Resource Kit.
+в следующей таблице перечислены служебные программы SNMP, доступные в наборе Microsoft Windows Resource Kit.
 
 
 
@@ -26,10 +26,10 @@ ms.locfileid: "104070281"
 
 
 
- 
+ 
 
-Поставщик SNMP в пакете SDK для инструментарий управления Windows (WMI) (WMI) позволяет клиентским приложениям получать доступ к статическим и динамическим SNMP-данным через WMI. Дополнительные сведения см. в разделе [Поставщик SNMP](/windows/desktop/WmiSdk/snmp-provider) документации по пакету SDK для инструментария WMI.
+поставщик SNMP в пакете SDK для инструментарий управления Windows (WMI) (WMI) позволяет клиентским приложениям получать доступ к статическим и динамическим SNMP-данным через WMI. Дополнительные сведения см. в разделе [Поставщик SNMP](/windows/desktop/WmiSdk/snmp-provider) документации по пакету SDK для инструментария WMI.
 
- 
+ 
 
- 
+ 

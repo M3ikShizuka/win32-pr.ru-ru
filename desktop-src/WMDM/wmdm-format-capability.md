@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 14f8dbdd81aff63a819624cdb1c778cb9bec712b
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: c42c654bc07e6e47e5ead5b374f6cd16b20c2fc3e36433eb68006b1e270c1ca6
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105694601"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120004804"
 ---
 # <a name="wmdm_format_capability-structure"></a>\_ \_ Структура возможностей формата вмдм
 
@@ -55,7 +55,7 @@ typedef struct _WMDM_FORMAT_CAPABILITY {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Структура **\_ \_ возможностей формата вмдм** предоставляет гибкий механизм для выражения возможностей устройства в определенном формате.
 
@@ -115,7 +115,7 @@ void FreeFormatCapability(WMDM_FORMAT_CAPABILITY formatCap)
 
 | Требование | Значение |
 |-------------------|-------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Вмдм. idl</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Вмдм. idl</dt> </dl> |
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: e4552cbb-90f4-46f4-a271-3a91ccd5f806
 title: Функция CryptUIDlgViewSignerInfo
 ms.topic: reference
 ms.date: 05/29/2020
-ms.openlocfilehash: 7ae677692b9266893eabf1002039c5efbf0ca5c4
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: cca6f82e6effed7588e539ca596083b3cc90c7437093b4ace72be255259455e3
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103897078"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119875854"
 ---
 # <a name="cryptuidlgviewsignerinfo-function"></a>Функция CryptUIDlgViewSignerInfo
 
@@ -53,22 +53,22 @@ ms.locfileid: "103897078"
 | <dl> <dt>**E \_ INVALIDARG**</dt> </dl>  | Один или несколько аргументов недопустимы.<br/>  |
 | <dl> <dt>**E \_ OUTOFMEMORY**</dt> </dl> | Ошибка при выделении памяти.<br/> |
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                                 |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                        |
-| Дата окончания поддержки<br/> | \[Только классические приложения Windows 7\]<br/>                                                       |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                                 |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                        |
+| Дата окончания поддержки<br/> | только Windows 7 \[ настольных приложений\]<br/>                                                       |
 | Библиотека<br/>                  | <dl> <dt>Динамической компоновки Cryptui. lib</dt> </dl>      |
 | DLL<br/>                      | <dl> <dt>Cryptui.dll</dt> </dl>      |
 | Имя в кодировке Юникод и ANSI<br/>   | **Криптуидлгвиевсигнеринфов** (Юникод) и **криптуидлгвиевсигнеринфоа** (ANSI)<br/> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

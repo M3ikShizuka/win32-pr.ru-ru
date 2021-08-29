@@ -12,12 +12,12 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_name: ''
 api_location: ''
-ms.openlocfilehash: d5af5928a95f15880e5a110daaf231badb202c56
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.openlocfilehash: 8e5e85f3d4d75a6c4a5846095f8dfa43888aea7da75b234ede5340c960b7b291
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "104986573"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120022904"
 ---
 # <a name="texture2dmsarrayload-methods"></a>Методы Texture2DMSArray:: Load
 
@@ -35,7 +35,7 @@ ms.locfileid: "104986573"
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

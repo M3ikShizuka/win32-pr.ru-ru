@@ -4,12 +4,12 @@ description: Чтобы установить сеанс связи между к
 ms.assetid: c67c9b1a-084f-4b85-ac6c-8cf25a6b0cca
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 70c5fd8437fb5821c2b52240256a1938e8de31c3
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: a3f57fdc08a33c526d0bcc913a87d31d1e4a7c326bac4f17e92f53b7293e2477
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104068091"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120020833"
 ---
 # <a name="how-the-client-establishes-a-connection"></a>Как клиент устанавливает подключение
 
@@ -26,9 +26,9 @@ ms.locfileid: "104068091"
 -   [Поиск программы сервера](finding-the-server-program.md)
 -   [Отправка вызова в программу сервера](sending-the-call-to-the-server-program.md)
 
- 
+ 
 
- 
+ 
 
 
 

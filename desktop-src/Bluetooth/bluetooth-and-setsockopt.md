@@ -8,23 +8,23 @@ keywords:
 - Bluetooth и сетсоккопт
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 943839a49788b76e597596aee9cba65fa4b8d30d
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 70aef0914e13888f3bcb48bed5c7c90cd2585a5d22d60c27a35af605657f20c6
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104337753"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120004444"
 ---
 # <a name="bluetooth-and-setsockopt"></a>Bluetooth и сетсоккопт
 
-Bluetooth использует функцию [**сетсоккопт**](/windows/desktop/api/winsock/nf-winsock-setsockopt) для установки различных параметров, связанных с каналом сервера или соединением. Использование **сетсоккопт** с Bluetooth имеет следующие требования.
+Bluetooth использует функцию [**сетсоккопт**](/windows/desktop/api/winsock/nf-winsock-setsockopt) для установки различных параметров, связанных с каналом сервера или соединением. использование **сетсоккопт** с Bluetooth имеет следующие требования.
 
--   Параметр *s* параметра [**сетсоккопт**](/windows/desktop/api/winsock/nf-winsock-setsockopt) должен быть допустимым сокетом Bluetooth.
+-   параметр *s* параметра [**сетсоккопт**](/windows/desktop/api/winsock/nf-winsock-setsockopt) должен быть допустимым сокетом Bluetooth.
 -   Параметр *Level* параметра [**СЕТСОККОПТ**](/windows/desktop/api/winsock/nf-winsock-setsockopt) должен быть Sol \_ RFCOMM.
 
-Список доступных параметров сокетов Bluetooth см. в разделе [Параметры Bluetooth и сокета](bluetooth-and-socket-options.md).
+список доступных параметров сокета Bluetooth см. в разделе [Bluetooth и параметры сокета](bluetooth-and-socket-options.md).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -34,6 +34,6 @@ Bluetooth использует функцию [**сетсоккопт**](/window
 [**сетсоккопт**](/windows/desktop/api/winsock/nf-winsock-setsockopt)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

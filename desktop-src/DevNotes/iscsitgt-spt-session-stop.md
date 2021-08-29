@@ -12,16 +12,16 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: e4501fbe2d1bbf884448d6b6a9476ee4782d3da7
-ms.sourcegitcommit: 7b8f6151ebe247536304866459b2973276271d4d
+ms.openlocfilehash: dba4c54e6fbae3ef947ec5ac5f5c4b178434566d15cc0591104dd38a8e456fb7
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "103914291"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120001484"
 ---
 # <a name="iscsitgt_spt_session_stop-structure"></a>\_Структура искситгт СПТ \_ сеанса \_
 
-\[Следующая структура доступна для использования в Windows Server 2012 R2. В последующих версиях он может быть изменен или недоступен.\]
+\[следующая структура доступна для использования в Windows Server 2012 R2. В последующих версиях он может быть изменен или недоступен.\]
 
 Используется с управляющим кодом ioctl [**\_ SCSI \_ МИНИПОРТА**](/windows-hardware/drivers/ddi/ntddscsi/ni-ntddscsi-ioctl_scsi_miniport) IOCTL и ктлкоде \_ искситгт \_ СПТ \_ Session \_ End (0x101) для завершения сеанса.
 
@@ -62,7 +62,7 @@ typedef struct _ISCSITGT_SPT_SESSION_STOP {
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                               |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2012 R2 \[\]<br/> |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[Только классические приложения R2\]<br/> |
 | Окончание поддержки клиента<br/>    | Ни одна версия не поддерживается<br/>                               |
 | Поддержка конца сервера<br/>    | Windows Server 2012 R2<br/>                       |
 

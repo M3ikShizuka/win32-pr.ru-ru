@@ -4,12 +4,12 @@ ms.assetid: 4bdbc3be-58a6-4ff2-8a35-37aac266465b
 title: Справочник по управлению сетевыми ресурсами
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a1fcc37a189fa1218489ad9e596b6950d79e4e7d
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: a325035cdf465a21316c4af74cb8d2dd1a9c7ae4811aac24122443cc120ecec0
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105683512"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120036704"
 ---
 # <a name="network-share-management-reference"></a>Справочник по управлению сетевыми ресурсами
 

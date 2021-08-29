@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Cscmig.dll
-ms.openlocfilehash: 50b387a1ff99a95fcbe0fae8fe8ad93d14c335b9
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 99f3ed77dde867fecee6fd85b3a499fcd491f9fbef8b7a8aac0a5d7db5fe7550
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105657425"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119984424"
 ---
 # <a name="cscfindnextfilew-function"></a>Функция Кскфинднекстфилев
 
@@ -105,7 +105,7 @@ BOOL WINAPI CSCFindNextFileW(
 
 Эта функция возвращает **значение true** , если она выполнена. в противном случае возвращается **значение false**.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Эта функция не имеет связанной библиотеки импорта или файла заголовка. его необходимо вызвать с помощью функций [**LoadLibrary**](/windows/win32/api/libloaderapi/nf-libloaderapi-loadlibrarya) и [**GetProcAddress**](/windows/win32/api/libloaderapi/nf-libloaderapi-getprocaddress) .
 

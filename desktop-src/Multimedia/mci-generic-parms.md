@@ -3,7 +3,7 @@ title: Структура MCI_GENERIC_PARMS (МЦиапи. h)
 description: '\_Общая \_ Структура пармс MCI содержит маркер окна, принимающего сообщения уведомления. Эта структура используется для командных сообщений MCI с пустыми списками параметров.'
 ms.assetid: 706e406c-d263-4347-932c-e5f125acfe0f
 keywords:
-- MCI_GENERIC_PARMS структура мультимедиа Windows
+- структура MCI_GENERIC_PARMS Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a1f96482ed5ec7e27253f234031cd099600bf1b6
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 0e2da55b721c7567b5fbc52d965cf753f896ee28fa4d76e094c7867434a69791
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104490122"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119784314"
 ---
 # <a name="mci_generic_parms-structure"></a>\_Универсальная \_ Структура пармс MCI
 
@@ -47,7 +47,7 @@ typedef struct {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Пармс и MCI **\_ закрывают \_** структуры **\_ \_ пармс** , идентичные структурам **\_ универсального \_ пармс MCI** .
 

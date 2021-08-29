@@ -3,9 +3,9 @@ title: Ивмпметадататекст, свойство описания
 description: Свойство Description получает описание текста метаданных.
 ms.assetid: 80f9319e-057f-4976-a311-8283f073e5ee
 keywords:
-- Свойство Description проигрыватель Windows Media
-- Свойство Description проигрыватель Windows Media Player, интерфейс Ивмпметадататекст
-- Интерфейс Ивмпметадататекст Windows Media Player, свойство Description
+- проигрыватель Windows Media свойства описания
+- свойство Description проигрыватель Windows Media, интерфейс ивмпметадататекст
+- проигрыватель Windows Media интерфейса ивмпметадататекст, свойство Description
 topic_type:
 - apiref
 api_name:
@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1c453cb69a9a1f733a90054a368692c47fb852b4
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 5d82eb9ba0a00e6411e7f52421c665270f16f1fd7c530ec43f3eda03b87b1ccd
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105694685"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119861172"
 ---
 # <a name="iwmpmetadatatextdescription-property"></a>Ивмпметадататекст: свойство Описание:D
 
@@ -48,23 +48,23 @@ Public ReadOnly Property Description As System.String
 
 **Строка System. String** , которая является описанием.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Перед использованием этого свойства необходимо иметь доступ на чтение к библиотеке. Дополнительные сведения см. в разделе [доступ к библиотеке](library-access.md).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |----------------------|------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/>   | Проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                      |
+| Версия<br/>   | проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                      |
 | Пространство имен<br/> | **вмплиб**<br/>                                                                                                  |
 | Сборка<br/>  | <dl> <dt>Interop.WMPLib.dll (Interop.WMPLib.dll.dll)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

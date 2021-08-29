@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 67cd8f6af4a6baa2f36b66855cbe9faa2b0e5120
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.openlocfilehash: 88d74ced35b6b5a2f6c04004fbd2e161df7ba16ff5111577835b93363291c114
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "104412901"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119886772"
 ---
 # <a name="style-statement"></a>Оператор STYLE
 
@@ -36,8 +36,8 @@ STYLE style
 
 </dd> </dl>
 
-Список стилей окна см. в разделе [стили окон](/windows/desktop/winmsg/window-styles). Список стилей диалоговых окон см. в разделе [стили шаблонов диалоговых окон](../dlgbox/about-dialog-boxes.md). При использовании значений стиля окна или диалогового окна необходимо включить Windows. h.
+Список стилей окна см. в разделе [стили окон](/windows/desktop/winmsg/window-styles). Список стилей диалоговых окон см. в разделе [стили шаблонов диалоговых окон](../dlgbox/about-dialog-boxes.md). при использовании значений стиля окна или диалогового окна необходимо включить Windows. h.
 
- 
+ 
 
- 
+ 

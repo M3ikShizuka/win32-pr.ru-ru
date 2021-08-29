@@ -3,16 +3,16 @@ title: Запись видео с минимальным подходом
 description: Запись видео с минимальным подходом
 ms.assetid: e39ff590-69c0-4927-90c2-786c6082068f
 keywords:
-- Видео для Windows (VFW), запись видео
-- VFW (видео для Windows), запись видео
+- видео для Windows (VFW), записи видео
+- VFW (видео для Windows), видеозапись
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7a65d5d5bbdc00dfd947c5d917e514d72e3ac069
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.openlocfilehash: 1aab625117d6c887bee2febdbd693ee58116fbdfe127afd41ecf9cef7e9c83bf
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "103890524"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119804304"
 ---
 # <a name="video-capture-a-minimal-approach"></a>Видеозапись: минимальный подход
 
@@ -58,6 +58,6 @@ capCaptureSequence (hWndC);
 
 В приложении можно запретить потоковую передачу записанных данных в файл, отправив сообщение [**об \_ \_ окончании крепления WM**](wm-cap-stop.md) (или макрос [**капкаптурестоп**](/windows/desktop/api/Vfw/nf-vfw-capcapturestop) ) в окно записи. Можно также прервать операцию записи, отправив сообщение [**об \_ \_ отмене крепления WM**](wm-cap-abort.md) (или макрос [**капкаптуреаборт**](/windows/desktop/api/Vfw/nf-vfw-capcaptureabort) ) в окно записи.
 
- 
+ 
 
- 
+ 

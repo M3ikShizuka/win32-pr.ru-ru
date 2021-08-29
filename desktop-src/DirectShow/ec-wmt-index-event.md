@@ -1,19 +1,19 @@
 ---
-description: Отправляется, когда приложение использует фильтр модуля записи WM ASF для индексирования видеофайлов Windows Media.
+description: посылается, когда приложение использует фильтр модуля записи WM ASF для индексирования Windows мультимедийных видеофайлов.
 ms.assetid: e5f69aa1-f9b0-4403-acab-25d1f971a876
 title: EC_WMT_INDEX_EVENT (DShow. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: dc28e10b1d0e4a559bb10fbc521e232d08e08b54
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: f76518e72249eb325cb07626c66c66ad7668d772f4b4bc8fe2e0236ff4b37b44
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105675443"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119928414"
 ---
 # <a name="ec_wmt_index_event-dshowh"></a>EC_WMT_INDEX_EVENT (DShow. h)
 
-Отправляется, когда приложение использует фильтр [модуля записи WM ASF](wm-asf-writer-filter.md) для индексирования видеофайлов Windows Media.
+посылается, когда приложение использует фильтр [модуля записи WM ASF](wm-asf-writer-filter.md) для индексирования Windows мультимедийных видеофайлов.
 
 ## <a name="parameters"></a>Параметры
 
@@ -45,17 +45,17 @@ ms.locfileid: "105675443"
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>DShow. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>DShow. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

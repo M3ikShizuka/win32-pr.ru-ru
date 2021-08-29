@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 26d2c3efd1a31681520828b18d606d618d8c900a
-ms.sourcegitcommit: fe03c5d92ca6a0d66a114b2303e99c0a19241ffb
+ms.openlocfilehash: 17d3f04cd722664992911759ae1f5f6a4bd5947e0b46e37dc61b62b999ac8d47
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "104983853"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119892534"
 ---
 # <a name="texm3x2depth---ps"></a>texm3x2depth-PS
 
@@ -29,14 +29,14 @@ ms.locfileid: "104983853"
 
 
 
- 
+ 
 
-где
+where
 
 -   DST — это регистр назначения.
 -   src является исходным регистром.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 
 
@@ -46,7 +46,7 @@ ms.locfileid: "104983853"
 
 
 
- 
+ 
 
 Эта инструкция должна использоваться с инструкцией [texm3x2pad-PS](texm3x2pad---ps.md) .
 
@@ -96,16 +96,16 @@ else
 
 При использовании множественной выборки использование этой инструкции исключает большую часть преимуществ буфера глубины более высокого разрешения. Так как шейдер пикселей выполняется один раз для каждого пикселя, для каждого из сравниваемых тестов глубины должно использоваться одно значение глубины, полученное texm3x2depth или [тексдепс-PS](texdepth---ps.md) .
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Инструкции шейдера пикселей](dx9-graphics-reference-asm-ps-instructions.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

@@ -4,16 +4,16 @@ description: Интерфейс Ивмвиртуалпк предоставля�
 ms.assetid: 73029609-A520-4C41-8C37-A6E9EC4EF6B6
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 708c9bbeaf2a0ac4cfe376b45287624a68b748ff
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 0b15bd54c6ddb8d80189b1790a50439e0ac785b11a026735744bcb7a799986b1
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104533314"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120006694"
 ---
 # <a name="ivmvirtualpc-properties"></a>Свойства Ивмвиртуалпк
 
-\[Windows Virtual PC больше не доступна для использования в Windows 8. Вместо этого используйте [поставщик WMI Hyper-V (v2)](/windows/desktop/HyperV_v2/windows-virtualization-portal).\]
+\[Windows Virtual PC больше не доступен для использования в Windows 8. Вместо этого используйте [поставщик WMI Hyper-V (v2)](/windows/desktop/HyperV_v2/windows-virtualization-portal).\]
 
 Интерфейс [**ивмвиртуалпк**](ivmvirtualpc.md) предоставляет следующие свойства.
 
@@ -39,6 +39,6 @@ ms.locfileid: "104533314"
 -   [**VirtualMachines, свойство**](ivmvirtualpc-virtualmachines.md)
 -   [**VirtualNetworks, свойство**](ivmvirtualpc-virtualnetworks.md)
 
- 
+ 
 
- 
+ 
