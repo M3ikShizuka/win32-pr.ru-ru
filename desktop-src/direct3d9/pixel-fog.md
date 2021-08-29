@@ -4,12 +4,12 @@ ms.assetid: 6fcfb9fa-cacc-4dbc-bfc6-85d533dbfbf8
 title: Пиксельный туман (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4f62a597820fa009207d8dda7836d161cdf34c88
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 73606f585b78b0f8a1f92d669e936f503900d700c2a2f44cb654019d5315864a
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "103894086"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119628374"
 ---
 # <a name="pixel-fog-direct3d-9"></a>Пиксельный туман (Direct3D 9)
 
@@ -74,7 +74,7 @@ void SetupPixelFog(DWORD Color, DWORD Mode)
 
 Некоторые параметры тумана требуются в качестве значений с плавающей запятой, хотя метод [**IDirect3DDevice9:: сетрендерстате**](/windows/win32/api/d3d9helper/nf-d3d9helper-idirect3ddevice9-setrenderstate) принимает только значения типа DWORD во втором параметре. В предыдущем примере значения с плавающей запятой переводятся в **IDirect3DDevice9:: сетрендерстате** без преобразования данных путем приведения адресов переменных с плавающей запятой в виде УКАЗАТЕЛЕЙ типа DWORD и последующей разыменования их.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

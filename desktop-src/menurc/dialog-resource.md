@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cc7a1aef314406340c42c6a4aca40b76f91ac353
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.openlocfilehash: a821bb6890a9aee8dd74c5412556bf45ca0b739a6eb12cf5d582fbb91463c2f4
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "105674595"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119034352"
 ---
 # <a name="dialog-resource"></a>Ресурс ДИАЛОГового окна
 
@@ -70,7 +70,7 @@ nameID DIALOG x, y, width, height  [optional-statements] {control-statement  . .
 
 Для обратной совместимости также поддерживаются некоторые атрибуты. Дополнительные сведения см. в разделе [Общие атрибуты ресурсов](common-resource-attributes.md).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Функция [**жетдиалогбасеунитс**](/windows/win32/api/winuser/nf-winuser-getdialogbaseunits) Возвращает базовые единицы диалогового окна в пикселях. Точное значение координат зависит от стиля, определенного в выражении параметра [**Style**](style-statement.md) . Для диалоговых окон дочернего стиля координаты задаются относительно происхождения родительского окна, если только диалоговое окно не имеет стиль **DS \_ абсалигн**; в этом случае координаты отсчитываются относительно начала экрана отображения.
 
@@ -98,7 +98,7 @@ CAPTION "Error!"
 }
 ```
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
@@ -111,7 +111,7 @@ CAPTION "Error!"
 [**ПОКАЗАТЕЛИ**](characteristics-statement.md)
 </dt> <dt>
 
-[**CONTROL**](control-control.md)
+[**ЭЛЕМЕНТА**](control-control.md)
 </dt> <dt>
 
 [**креатедиалог**](/windows/win32/api/winuser/nf-winuser-createdialoga)
@@ -138,7 +138,7 @@ CAPTION "Error!"
 [**STRINGTABLE**](stringtable-resource.md)
 </dt> <dt>
 
-[**Версия**](version-statement.md)
+[**ВЕРСИЯ**](version-statement.md)
 </dt> </dl>
 
  

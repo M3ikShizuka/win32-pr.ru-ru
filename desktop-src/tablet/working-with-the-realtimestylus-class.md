@@ -4,12 +4,12 @@ ms.assetid: 6385c387-5b11-4719-a6ec-e0bebe875348
 title: Работа с классом RealTimeStylus
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 919c4de38cb0835996928c877ca4c42faf6a5f96
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: d11f61390c39284ccee235294612b621ac09c8d766fd1e7e18686d1bf479c553
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103810474"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119708234"
 ---
 # <a name="working-with-the-realtimestylus-class"></a>Работа с классом RealTimeStylus
 
@@ -84,7 +84,7 @@ ms.locfileid: "103810474"
 
 Чтобы получить массив объектов [пера](/previous-versions/ms824824(v=msdn.10)) , обнаруженных объектом [**RealTimeStylus**](realtimestylus-class.md) с момента последнего включения, используйте метод « [**пера**](/windows/desktop/api/RTSCom/nf-rtscom-irealtimestylus-getstyluses) » объекта **RealTimeStylus** .
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

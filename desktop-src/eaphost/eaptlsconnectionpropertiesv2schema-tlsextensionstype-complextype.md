@@ -4,12 +4,12 @@ description: Сведения о сложном типе Тлсекстенси�
 ms.assetid: 5e4f8ef8-1adb-4683-8001-ba7d2d392523
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 833a93b9ecb0ba32a95e4c85856ac015f5135fb5
-ms.sourcegitcommit: b0ebdefc3dcd5c04bede94091833aa1015a2f95c
+ms.openlocfilehash: f9ac12ad6d3b1229f4fcb75506a9e7ae7655db0287ad58fa9a8079ba12c14e99
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "103793897"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118984107"
 ---
 # <a name="tlsextensionstype-complex-type"></a>Сложный тип Тлсекстенсионстипе
 
@@ -31,11 +31,11 @@ ms.locfileid: "103793897"
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Элемент **тлсекстенсионстипе** является необязательным.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -54,9 +54,9 @@ ms.locfileid: "103793897"
 [**Тлсекстенсионс (Тлсекстенсионстипе)**](eaptlsconnectionpropertiesv2schema-performservervalidation-eaptype-element.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

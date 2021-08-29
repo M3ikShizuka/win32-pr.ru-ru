@@ -4,18 +4,18 @@ ms.assetid: f8bce153-cc5d-4087-896f-3f60afc80bc8
 title: Пример коллекции рукописных данных RealTimeStylus
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 24fe67ed59ea1a69f5d0d9a2656169f2df88a450
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 11065a40118c83be2451f9b2ac2431e5d7edb6cf31808030861d9f059774bf78
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105702682"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119708393"
 ---
 # <a name="realtimestylus-ink-collection-sample"></a>Пример коллекции рукописных данных RealTimeStylus
 
 Это приложение демонстрирует сбор и отрисовку рукописного ввода при использовании класса [**RealTimeStylus**](realtimestylus-class.md) .
 
-## <a name="the-inkcollection-project"></a>Проект Инкколлектион
+## <a name="the-inkcollection-project"></a>Project Инкколлектион
 
 Этот пример состоит из одного решения, которое содержит один проект, Инкколлектион. Приложение определяет `InkCollection` пространство имен, которое содержит один класс, также называемый `InkCollection` . Класс наследует от класса [Form](/dotnet/api/system.windows.forms.form?view=netcore-3.1) и реализует интерфейс [**истилусасинкплугин**](/windows/win32/api/rtscom/nn-rtscom-istylusasyncplugin) .
 
@@ -113,7 +113,7 @@ private void InkCollection_Load(object sender, System.EventArgs e)
 
 
 
-Помимо привязки к обработчикам меню для изменения цвета и размера рукописного ввода, перед реализацией интерфейса требуется один более короткий блок кода. Образец должен обрабатывать событие [рисования](/dotnet/api/system.windows.forms.control.paint?view=netcore-3.1) формы. В обработчике событий приложение должно быть Обновлено, `myDynamicRenderer` так как при возникновении события рисования может собираться объект [Stroke](/previous-versions/ms552692(v=vs.100)) . В этом случае необходимо перерисовать часть объекта Stroke, который уже был собран. Статический модуль [подготовки](/previous-versions/ms828481(v=msdn.10)) отчетов используется для повторного рисования объектов Stroke, которые уже были собраны. Эти штрихи находятся в объекте [рукописного ввода](/previous-versions/aa515768(v=msdn.10)) , так как они помещаются при рисовании, как показано в следующем разделе.
+Помимо привязки к обработчикам меню для изменения цвета и размера рукописного ввода, перед реализацией интерфейса требуется один более короткий блок кода. образец должен отреагировать на событие [Paint](/dotnet/api/system.windows.forms.control.paint?view=netcore-3.1) формы. в обработчике событий приложение должно быть обновлено, `myDynamicRenderer` так как при возникновении события Paint может быть собран объект [Stroke](/previous-versions/ms552692(v=vs.100)) . В этом случае необходимо перерисовать часть объекта Stroke, который уже был собран. Статический модуль [подготовки](/previous-versions/ms828481(v=msdn.10)) отчетов используется для повторного рисования объектов Stroke, которые уже были собраны. Эти штрихи находятся в объекте [рукописного ввода](/previous-versions/aa515768(v=msdn.10)) , так как они помещаются при рисовании, как показано в следующем разделе.
 
 
 ```C++
@@ -203,7 +203,7 @@ public void StylusUp(RealTimeStylus sender, StylusUpData data)
 
 Пример, в котором показано более надежное использование класса [**RealTimeStylus**](realtimestylus-class.md) , включая использование пользовательского подключаемого модуля, см. [в разделе Пример подключаемого модуля RealTimeStylus](realtimestylus-plug-in-sample.md).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

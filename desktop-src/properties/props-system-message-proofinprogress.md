@@ -4,12 +4,12 @@ ms.assetid: 0d2037bb-05eb-4c9f-8394-22f0785ee817
 title: System. Message. Пруфинпрогресс
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6863309d6d88b2237e701fde5378bbca0e35e981
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: f738ab8e2e490fbce73e062d41c3e565f6af677815ec9108e2da93b1b9ba3da2
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105702153"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118466092"
 ---
 # <a name="systemmessageproofinprogress"></a>System. Message. Пруфинпрогресс
 
@@ -30,11 +30,11 @@ propertyDescription
       type = Boolean
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

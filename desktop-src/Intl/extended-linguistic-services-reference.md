@@ -4,12 +4,12 @@ ms.assetid: a64334df-216f-4967-94fa-c439b809294d
 title: Расширенная ссылка на расширенные лингвистические службы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ca5de7543adb54ab2d9ebaabdb36cdc5d452a2ed
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 5ad13737e7a31238bfef9b2624a5f8c52d5a1283d696df3de5b54eca9b98fb48
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105650907"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120041494"
 ---
 # <a name="extended-linguistic-services-reference"></a>Расширенная ссылка на расширенные лингвистические службы
 

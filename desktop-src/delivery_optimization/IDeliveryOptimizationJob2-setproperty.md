@@ -16,12 +16,12 @@ api_type:
 ms.topic: reference
 ms.date: 01/18/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 41375ac3949dd4bcbdd22944f1f1a11d461fc3ad
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 8495b51f8e799cb2e05a65aae143207d07489bac050569258d4b3218ad1f807e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104415652"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118811155"
 ---
 # <a name="ideliveryoptimizationjob2setproperty-method"></a>Метод IDeliveryOptimizationJob2:: SetProperty
 
@@ -62,14 +62,14 @@ HRESULT SetProperty(
 
 | Требование | Значение |
 |---------------------------|----------------------------------------------------------------------------------|
-| Минимальная версия клиента  | \[Только для настольных приложений Windows 10 версии 1803\]                                   |
-| Минимальная версия сервера  | \[Только для настольных приложений Windows Server версии 1709\]                               |
-| Header                    | Deliveryoptimization. h                                                           |
+| Минимальная версия клиента  | Windows 10, только для \[ настольных приложений версии 1803\]                                   |
+| Минимальная версия сервера  | Windows Server, только для \[ настольных приложений версии 1709\]                               |
+| Заголовок                    | Deliveryoptimization. h                                                           |
 | IDL                       | DeliveryOptimization. idl                                                         |
 | Библиотека                   | Досвк. lib                                                                        |
 | DLL                       | Dosvc.dll                                                                        |
 | IID                       | IID_IDeliveryOptimizationJob2 определен как 18995A26-BF59-4ABE-9F8B-D5092D5A2405 |
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 [**IDeliveryOptimizationJob2**](ideliveryoptimizationjob2.md)

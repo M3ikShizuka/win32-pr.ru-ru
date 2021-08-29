@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Scanprofileui.h
-ms.openlocfilehash: c8791461db76c72de81216aef188886f63fde4f3
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 9afc030c485b1c4a873416c22217ce159601aad5e619f16ff799dcc68d5375e1
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105711254"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119706344"
 ---
 # <a name="iscanprofileui-interface"></a>Интерфейс Исканпрофилеуи
 
@@ -44,7 +44,7 @@ ms.locfileid: "105711254"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Диалоговое окно является модальным; пользователь не может переключиться на родительское окно, пока диалоговое окно не закроется.
 
@@ -54,9 +54,9 @@ ms.locfileid: "105711254"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                              |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                        |
-| Header<br/>                   | <dl> <dt>Сканпрофилеуи. h</dt> </dl>  |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                              |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                        |
+| Заголовок<br/>                   | <dl> <dt>Сканпрофилеуи. h</dt> </dl>  |
 | IDL<br/>                      | <dl> <dt>Сканпрофилес. idl</dt> </dl> |
 
 

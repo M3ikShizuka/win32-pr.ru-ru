@@ -4,12 +4,12 @@ ms.assetid: a085709e-1c61-4ae2-832e-fda59479cef6
 title: Константы политики разрядов (WinNT. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 052d07a5fe538543b66ec8d48c940f63fe82a682
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 6a05237b7555cc7281f132f02110a10cb5b58cd342d6872b16c1a6319773ea8d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105663126"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119961874"
 ---
 # <a name="discharge-policy-constants"></a>Константы политики разрядов
 
@@ -25,15 +25,15 @@ ms.locfileid: "105663126"
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|--------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                                            |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                                   |
-| Header<br/>                   | <dl> <dt>Файл WinNT. h (включая Windows. h)</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                                            |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                   |
+| Заголовок<br/>                   | <dl> <dt>WinNT. h (включает Windows. h)</dt> </dl> |
 
 
 

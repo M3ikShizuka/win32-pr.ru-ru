@@ -7,12 +7,12 @@ keywords:
 - Списки переменных привязки SNMP, SNMP
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 26719c7dc987e61542f38a0b86db78c573793f98
-ms.sourcegitcommit: 3e70ae762629e244028b437420ed50b5850db4e3
+ms.openlocfilehash: 35abc72501d1b3f93dcc6bf0004f5425e951e299f7948d239888ea010d295252
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "103788887"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119142723"
 ---
 # <a name="working-with-variable-binding-lists"></a>Работа с списками привязок переменных
 
@@ -31,13 +31,13 @@ ms.locfileid: "103788887"
 
 
 
- 
+ 
 
 Дополнительные сведения о привязках переменных и списках привязок переменных см. в разделе [RFC1905](https://www.ietf.org/rfc/rfc1905.txt), "операции протокола для версии 2 протокола простого сетевого управления (SNMPv2)" и [функции привязки переменной](winsnmp-functions.md)WinSNMP.
 
- 
+ 
 
- 
+ 
 
 
 

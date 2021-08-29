@@ -33,12 +33,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 2795e76c686e8f2bb4079aee376dae397b36f510
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 55177e5482e2e0c9b3a98ee02caea369b75571935d17c44de34e425ecfc4dd35
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103896022"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119923754"
 ---
 # <a name="cim_filesystem-class"></a>\_Класс файловой системы CIM
 
@@ -85,7 +85,7 @@ class CIM_FileSystem : CIM_LogicalElement
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **\_ файловой системы CIM** имеет следующие свойства.
 
@@ -127,7 +127,7 @@ class CIM_FileSystem : CIM_LogicalElement
 
 </dd> <dt>
 
-**Заголовок**
+**Caption**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -228,7 +228,7 @@ class CIM_FileSystem : CIM_LogicalElement
 
 <span id="Extended_UNIX_Code"></span><span id="extended_unix_code"></span><span id="EXTENDED_UNIX_CODE"></span>
 
-**Расширенный код UNIX** (6)
+**расширенный код UNIX** (6)
 
 
 </dt> <dd></dd> <dt>
@@ -396,7 +396,7 @@ class CIM_FileSystem : CIM_LogicalElement
 
 </dd> <dt>
 
-**Name**
+**Имя**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -554,7 +554,7 @@ class CIM_FileSystem : CIM_LogicalElement
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **\_ файловой системы CIM** является производным от [**CIM \_ логикалелемент**](cim-logicalelement.md).
 

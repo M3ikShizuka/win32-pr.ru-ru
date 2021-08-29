@@ -14,12 +14,12 @@ keywords:
 - Выбор формата для сохранения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 55df4cd89a04bf1d3dd34512c4014928b6d5d4fb
-ms.sourcegitcommit: cb844c9ab17577ce171fd7b03add668645867bc7
+ms.openlocfilehash: 65288e4a15712ec86bcf48a8f8088da9f6d5944f298119b21766be238168bf3b
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "104412629"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119805780"
 ---
 # <a name="producing-a-dialog-box-for-selecting-a-format-for-saving"></a>Создание диалогового окна для выбора формата для сохранения
 
@@ -27,9 +27,9 @@ ms.locfileid: "104412629"
 
 Аналогичным образом, чтобы вывести список допустимых форматов назначения для указанного формата, \_ Используйте \_ флаг ACM форматенумф CONVERT вместо \_ флага ACM форматенумф \_ предлагаю.
 
- 
+ 
 
- 
+ 
 
 
 

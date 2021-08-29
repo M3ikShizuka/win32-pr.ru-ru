@@ -4,12 +4,12 @@ ms.assetid: 0a5f4e92-e703-4487-91b0-15265744004e
 title: Фильтр VGA 16 с оттенокм
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 11d343843b002eb205e1d0718b282546bdc19907
-ms.sourcegitcommit: 63753fcfb0afbbe5ec283fb8316e62c2dc950f66
+ms.openlocfilehash: 36aed289a800a992bc061dc9822209bf4c2b5133647d995dfb675c7d5523bd76
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "107908682"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119071948"
 ---
 # <a name="vga-16-color-ditherer-filter"></a>Фильтр VGA 16 с оттенокм
 
@@ -38,7 +38,7 @@ ms.locfileid: "107908682"
 
 <dl> <dt>
 
-[Фильтры DirectShow](directshow-filters.md)
+[DirectShow Фильтрующ](directshow-filters.md)
 </dt> </dl>
 
  

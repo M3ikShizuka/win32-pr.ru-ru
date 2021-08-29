@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fc718a007035204f6e984eea87f1e21ba09ac8f0
-ms.sourcegitcommit: 7ef31bf778e76ce4196205d4c4c632fbdc649805
+ms.openlocfilehash: a6c60dc078f7755d00a330cea114663054329da445d537448ece8cc9d4f4fe9e
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "103913960"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119625344"
 ---
 # <a name="glfogi-function"></a>Функция Глфоги
 
@@ -88,7 +88,7 @@ void WINAPI glFogi(
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Вы включаете и отключаете туман с помощью [**гленабле**](glenable.md) и [**глдисабле**](gldisable.md), используя аргумент GL в виде \_ тумана. При включении туман влияет на растровую геометрию, точечные рисунки и блоки пикселей, но не на операции очистки буфера.
 

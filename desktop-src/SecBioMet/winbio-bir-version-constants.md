@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2da1e16c95e2b7dec5448c609a3d3689cc5f1c19
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 611be9539d5eac520a3b179d9b9de51a8b41a1ab67e39c29adb1933b38bb049b
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105661901"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119480314"
 ---
 # <a name="winbio_bir_version-constants"></a>\_ \_ Константы версии Бир винбио
 
@@ -33,14 +33,14 @@ ms.locfileid: "105661901"
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 7\]<br/>                                                                    |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2008 R2 \[\]<br/>                                                       |
+| Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                                                    |
+| Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/>                                                       |
 | Header<br/>                   | <dl> <dt>Винбио \_ types. h (include винбио. h)</dt> </dl> |
 
 

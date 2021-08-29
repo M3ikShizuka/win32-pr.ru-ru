@@ -67,7 +67,7 @@ interface ITablet3 : IUnknown
   
 ```
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: 323bff11-2107-42df-87da-435e440c94bc
 title: System. photo. Лигхтсаурце
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5f0f8c469c0f2c5e1588778b9f23219e3f9a3e1d
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 455bbf8703bb5b767d5217124d09cefdcd4dd90df1312bad09a2d71d6f6fccd3
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105702145"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "117682706"
 ---
 # <a name="systemphotolightsource"></a>System. photo. Лигхтсаурце
 
@@ -139,11 +139,11 @@ propertyDescription
             defineName = PHOTO_LIGHTSOURCE_D75
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

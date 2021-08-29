@@ -12,12 +12,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 9e1f356020df681e00f43c7a47ac16048764c0ab
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: db283c735e87fb88b489c3ad8367b37ab867c9627fffa7b6052706e0d260b54e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103806904"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119075948"
 ---
 # <a name="session-structure"></a>Структура сеанса
 
@@ -73,7 +73,7 @@ typedef struct {
 
 <dl> <dt>
 
-**ACT**
+**act**
 </dt> <dd>
 
 действие для выполнения. Этот элемент может быть одним из значений следующего перечислимого типа.
@@ -131,7 +131,7 @@ typedef enum {
 **кбселфекстрактсизе**
 </dt> <dd>
 
-Длина исполняемого фрагмента (exe) самораспаковывающегося CAB-файла.
+Длина исполняемого (.exe) фрагмента самораспаковывающегося CAB-файла.
 
 </dd> <dt>
 
@@ -167,7 +167,7 @@ typedef enum {
 
 </dd> <dt>
 
-**erf**
+**интегрирован**
 </dt> <dd>
 
 Структура ошибок FDI. См. раздел [**Фош**](/windows/win32/api/fdi_fci_types/ns-fdi_fci_types-erf).
@@ -221,7 +221,7 @@ typedef enum {
 **ачселф**
 </dt> <dd>
 
-Имя исполняемого файла (exe).
+Имя исполняемого файла (.exe).
 
 `#define cbFILE_NAME_MAX     256`
 
