@@ -7,12 +7,12 @@ MSHAttr:
 title: исаддитионалпдпконтекстпрофиле
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 888d199cb4ee76caa3e7fef3eb68c6606d6be560
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.openlocfilehash: 2ae27c3df672750b1c396d6da3b99a7309d3d2fb
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122884719"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122475150"
 ---
 # <a name="span-idwwan_profile_v3element_isadditionalpdpcontextprofilespanisadditionalpdpcontextprofile"></a><span id="WWAN_profile_v3.element_IsAdditionalPdpContextProfile"></span>исаддитионалпдпконтекстпрофиле
 
@@ -27,7 +27,7 @@ ms.locfileid: "122884719"
 
 ## <a name="element-hierarchy"></a>Иерархия элементов
 
-**&lt;исаддитионалпдпконтекстпрофиле&gt;**
+**<IsAdditionalPdpContextProfile>**
 
 ## <a name="syntax"></a>Синтаксис
 
