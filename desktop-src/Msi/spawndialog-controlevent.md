@@ -4,12 +4,12 @@ ms.assetid: 2a341039-60dd-4e6c-9ef3-bf482ca53917
 title: Спавндиалог таблице ControlEvent событие
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 71aec632332a87d047913b618aa2c39843849e5f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: a2b0dd281e4306fab7c62d218781c2ad932b82f22b335d662181fb65891eeb5f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105673207"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119628034"
 ---
 # <a name="spawndialog-controlevent"></a>Спавндиалог таблице ControlEvent событие
 
@@ -29,7 +29,7 @@ ms.locfileid: "105673207"
 
 ## <a name="action-on-subscribers"></a>Действие на подписчиках
 
-Нет.
+Отсутствует.
 
 ## <a name="typical-use"></a>Типичные случаи использования
 

@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9ef52eb510c71bfdb153b95a5d05e992359e39b6
-ms.sourcegitcommit: 57758ecb246c84d65e6e0e4bd5570d9176fa39cd
+ms.openlocfilehash: 80097cbfbb7bebae3b84b65c9c228dd29992821a5bafa61830961f752c452950
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "105650312"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119067494"
 ---
 # <a name="sal-switch"></a>/Сал, параметр
 
@@ -31,7 +31,7 @@ midl /sal
 
 Этот параметр не имеет параметров.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 MIDL помечает параметры указателя и массива с заметками, отражающими описание параметра в IDL-файле в соответствии с применением RPC и подсистемой маршалирования NDR. MIDL не создает аннотации для параметров в методах интерфейса, помеченных [**\[ локальным \]**](local.md)атрибутом, если в командной строке также отсутствует [**/Сал \_ Local**](-sal-local.md) . Чтобы переопределить созданную с помощью MIDL аннотацию, используйте атрибут [**\[ аннотации \]**](annotate.md) .
 
@@ -50,9 +50,9 @@ MIDL помечает параметры указателя и массива с
 [**\[комментировани\]**](annotate.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

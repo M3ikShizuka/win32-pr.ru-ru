@@ -4,12 +4,12 @@ description: Регистрация компонентов
 ms.assetid: d7fd231b-17ec-42ad-9144-df7ed5ffb17b
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5d683ae419466d62d764283cfa8706981de402a9
-ms.sourcegitcommit: 5f33645661bf8c825a7a2e73950b1f4ea0f1cd82
+ms.openlocfilehash: b58a987bba4ef7767cfc7346730f5f22e2c1eaab8ae3eed76cd33be0ad778902
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "104070661"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119992304"
 ---
 # <a name="registering-components"></a>Регистрация компонентов
 
@@ -30,13 +30,13 @@ ms.locfileid: "104070661"
 -   [**регделетекэй**](/windows/desktop/api/winreg/nf-winreg-regdeletekeya)
 -   [**Ошибка RegCloseKey**](/windows/desktop/api/winreg/nf-winreg-regclosekey)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Регистрация приложений COM](registering-com-applications.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

@@ -3,7 +3,7 @@ title: Сообщение MMIOM_OPEN (Ммсистем. h)
 description: Сообщение ММИОМ \_ Open отправляется в процедуру ввода-вывода с помощью функции ммиупен, чтобы запросить открытие или удаление файла.
 ms.assetid: 02b2cf22-21a3-4f49-b90e-7b44478c0168
 keywords:
-- MMIOM_OPEN сообщения Windows мультимедиа
+- сообщение MMIOM_OPEN Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d9ea2b5ddc0c79cb3efe00038a628373ce3665bf
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 74cb4c54a7f35fe426cf528d5eb9e076a44bf4b7e06744628ba65fe1bf7cb410
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105650402"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119065374"
 ---
 # <a name="mmiom_open-message"></a>ММИОМ \_ открытое сообщение
 
@@ -67,7 +67,7 @@ lParam2 = reserved
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Элемент **dwFlags** структуры [**ммиоинфо**](/previous-versions//dd757322(v=vs.85)) содержит флаги, передаваемые функции [**ммиупен**](/windows/win32/api/mmiscapi/nf-mmiscapi-mmioopen) .
 
@@ -83,7 +83,7 @@ lParam2 = reserved
 |-------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                                |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                      |
-| Заголовок<br/>                   | <dl> <dt>Ммсистем. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>ммсистем. h (включает Windows. h)</dt> </dl> |
 
 
 

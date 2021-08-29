@@ -4,16 +4,16 @@ description: Иаженткоммандс вставить
 ms.assetid: f450aae4-db6f-4326-ae14-ddb68ab0953a
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 65f15df0c24e16a7554881cf3d0e6c41c4ee42b2
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.openlocfilehash: d249a64e3c04d396cea263429cf4ee7b51d536ae8c691761e169a9a52415130d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "104412865"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120114694"
 ---
 # <a name="iagentcommandsinsert"></a>Иаженткоммандс:: INSERT
 
-\[Microsoft Agent является устаревшим в Windows 7 и может быть недоступен в последующих версиях Windows.\]
+\[Microsoft Agent является устаревшим по отношению к Windows 7 и может быть недоступен в последующих версиях Windows.\]
 
 ``` syntax
 HRESULT Insert(
@@ -82,11 +82,11 @@ HRESULT Insert(
 
 </dd> </dl>
 
-## <a name="see-also"></a>См. также:
+## <a name="see-also"></a>См. также
 
 [**Иаженткоммандс:: Add**](iagentcommands--add.md), [**иаженткоммандс:: Remove**](iagentcommands--remove.md), [**иаженткоммандс:: RemoveAll**](iagentcommands--removeall.md)
 
 
- 
+ 
 
- 
+ 

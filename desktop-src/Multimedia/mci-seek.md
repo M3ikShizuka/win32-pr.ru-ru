@@ -3,7 +3,7 @@ title: Команда MCI_SEEK (Ммсистем. h)
 description: Команда MCI \_ Seek изменяет текущую положение в содержимом как можно быстрее.
 ms.assetid: 5ffab964-a28d-4dc2-ac04-da501cd34d24
 keywords:
-- MCI_SEEK команды мультимедиа Windows
+- команда MCI_SEEK Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d0e34f6fa823092968e74515a885e7a40db9f2d7
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: d901bf92e3495dde9a16e7499dcaae850b5e50eab2b4df1af99ca39f290cc981
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104071313"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119430484"
 ---
 # <a name="mci_seek-command"></a>\_Команда MCI Seek
 
@@ -68,7 +68,7 @@ MCIERROR mciSendCommand(
 
 Возвращает нуль в случае успеха или ошибку в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если размер выборки данных для устройства превышает 1 байт (например, с стерео-аудио), эта команда перемещается в начало ближайшего примера, когда указанная координата не совпадает с началом образца.
 
@@ -135,7 +135,7 @@ MCIERROR mciSendCommand(
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -143,7 +143,7 @@ MCIERROR mciSendCommand(
 |-------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                                |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                      |
-| Заголовок<br/>                   | <dl> <dt>Ммсистем. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>ммсистем. h (включает Windows. h)</dt> </dl> |
 
 
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 72398bdc087e0f7a0845703a2cefea40b5465b21
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: ee3bffcfd86ba48d737066bd2ca56e6b124a59412704c5f30952e5a70ae71e24
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105721053"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119952044"
 ---
 # <a name="float2-structure"></a>Структура float2
 
@@ -35,7 +35,7 @@ ms.locfileid: "105721053"
 | `float2(float x, float y)` | Создает объект float2 с указанными значениями. |
 | `explicit float2(float value)` | Создает float2 со всеми компонентами, для которых задано указанное значение. |
 | `float2(Microsoft::Graphics::Canvas::Numerics::Vector2 const& value)` | Преобразует объект **Microsoft. Graphics. Холст. Numerics. Vector2** в float2. |
-| `float2(Windows::Foundation::Point const& value)` | Преобразует [**Windows. Foundation. Point**](/uwp/api/Windows.Foundation.Point) в float2. |
+| `float2(Windows::Foundation::Point const& value)` | Преобразует [**Windows. Foundation. Наведите указатель**](/uwp/api/Windows.Foundation.Point) на float2. |
 | `float2(Windows::Foundation::Size const& value)` | Преобразует [**Windows. Foundation. size**](/uwp/api/Windows.Foundation.Size) в float2. |
 
 ## <a name="functions"></a>Функции
@@ -94,18 +94,18 @@ ms.locfileid: "105721053"
 
 ## <a name="fields"></a>Поля
 
-| name | Описание |
+| Имя | Описание |
 |-|-|
 | `float x` | Компонент X вектора. |
 | `float y` | Компонент Y вектора. |
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 | Требование | Значение |
 |-|-|
-| Пространство имен | Windows:: Foundation:: numeric |
-| Header | <dl> <dt>Виндовснумерикс. h</dt> </dl> |
+| Пространство имен | Windows:: Foundation:: numerics |
+| Заголовок | <dl> <dt>Виндовснумерикс. h</dt> </dl> |
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 [API-интерфейсы виндовснумерикс. h](windowsnumerics-h-apis-portal.md)

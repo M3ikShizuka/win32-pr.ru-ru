@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 2ca60021c921e47de3c7afd5b8ee0bb2ea5e6d12
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 5f2a503cfac8e6cef8b32ee4e84cb8fa78f930d4e1126fcd0af488f3908c540f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104072355"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120077454"
 ---
 # <a name="rename-method-of-the-win32_computersystem-class"></a>Переименование метода \_ класса ComputerSystem Win32
 
@@ -77,11 +77,11 @@ uint32 Rename(
 **Другие** (1 4294967295)
 </dt> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Можно использовать метод **Rename** для переименования компьютера, если вы являетесь членом локальной группы администраторов. Однако этот метод нельзя использовать удаленно для компьютеров домена.
 
-Если указаны параметры *Password* и *username* , то соединение с WMI должно использовать уровень проверки подлинности **RPC \_ C \_ AUTHN \_ уровня \_ \_ безопасности PKT** (**вбемаусентикатионлевелпктприваци** для script и Visual Basic (VB)).
+если указаны параметры *Password* и *UserName* , то соединение с WMI должно использовать уровень проверки подлинности **RPC \_ C \_ AUTHN \_ уровня \_ \_ безопасности PKT** (**вбемаусентикатионлевелпктприваци** для script и Visual Basic (VB)).
 
 Чтобы подключиться к удаленному компьютеру и указать учетные данные, используйте соединение объектов локатора (Ивбемлокатор для C++) и SWbemLocator для script и VB. Не используйте моникер Connection.
 
@@ -405,7 +405,7 @@ return 0; // Program successfully completed.
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -419,7 +419,7 @@ return 0; // Program successfully completed.
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

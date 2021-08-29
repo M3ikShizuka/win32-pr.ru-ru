@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 381be34f9398147b323fa99093479da48adfd480
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 163fc00b63fcc29a1c9d7b2a9388db547509d7b24eada2caccbdfbf70d9a3287
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104415153"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119865994"
 ---
 # <a name="registervmmplugin-method-of-the-win32_sessiondirectoryvmmplugin-class"></a>Метод Регистервммплугин \_ класса Win32 сессиондиректоривммплугин
 
@@ -94,7 +94,7 @@ uint32 RegisterVMMPlugin(
 
 Возвращает значение 0 при успешном выполнении, в противном случае возвращает код ошибки WMI. Список этих значений см. в разделе [службы удаленных рабочих столов коды ошибок поставщика WMI](terminal-services-wmi-provider-error-codes.md) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -108,7 +108,7 @@ uint32 RegisterVMMPlugin(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

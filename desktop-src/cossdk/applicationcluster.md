@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: 00a54f5c79bcbaf4ef61b130db556fc27f264101
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 852f6f04147489336622a5c13e447bcb4fbfd7e20f580edcb5da8bdfadaa5e7a
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104141383"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119991950"
 ---
 # <a name="applicationcluster-collection"></a>Коллекция Аппликатионклустер
 
@@ -49,7 +49,7 @@ ms.locfileid: "104141383"
 
 Объект [**комадминкаталогобжект**](comadmincatalogobject.md) в коллекции поддерживает следующие свойства:
 
--   [Name](#name)
+-   [Имя](#name)
 
 ### <a name="name"></a>Имя
 
@@ -58,7 +58,7 @@ ms.locfileid: "104141383"
 | Ввод | Значение |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Описание    | Имя сервера. Лишние пробелы в начале и конце строки удаляются. Это свойство возвращается при вызове метода свойства [**Key**](/windows/desktop/api/ComAdmin/nf-comadmin-icatalogobject-get_key) или [**Name**](/windows/desktop/api/ComAdmin/nf-comadmin-icatalogobject-get_name) для объекта этой коллекции. |
-| Access         | Флагом writeonce                                                                                                                                                                                                                                                            |
+| Доступ         | Флагом writeonce                                                                                                                                                                                                                                                            |
 | Тип           | Строка                                                                                                                                                                                                                                                               |
 | По умолчанию        | "Новый компьютер"                                                                                                                                                                                                                                                       |
 | Минимальная система | Windows 2000                                                                                                                                                                                                                                                         |

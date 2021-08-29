@@ -4,12 +4,12 @@ ms.assetid: 6c74cc08-ae6a-4ef4-809f-9374e0ac5e91
 title: Назначение каналов САР Гонконг
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: eb35047875d630528b94ed46978fbb965ddbed6e
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: cfbb6cfd5426515d181eaeaf84f349bc1447d3a1eb85a8c5e2e71923e71a5c3f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "105650438"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119812484"
 ---
 # <a name="hong-kong-sar-channel-assignments"></a>Назначение каналов САР Гонконг
 
@@ -17,7 +17,7 @@ ms.locfileid: "105650438"
 
 Описание следующих таблиц см. в разделе [таблицы и назначения](tables-and-assignments.md).
 
-В Windows 7 появились следующие назначения каналов. Ранее была использована [Таблица частоты уникабле](unicable-frequency-table.md) .
+в Windows 7 появились следующие назначения каналов. Ранее была использована [Таблица частоты уникабле](unicable-frequency-table.md) .
 
 ## <a name="cable-assignments"></a>Назначения кабелей
 
@@ -134,7 +134,7 @@ ms.locfileid: "105650438"
        855250000L,      // 107 TV107
 ```
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

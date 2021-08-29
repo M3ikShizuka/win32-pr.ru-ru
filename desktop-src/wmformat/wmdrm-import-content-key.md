@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d616cfe856a19f4f8ffa5254254d3946b1544dc6
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: a7f7ced03d841d71e104384fff3f7abdfdd13890746f8052cf43264dacd22c03
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104414865"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119083798"
 ---
 # <a name="wmdrm_import_content_key-structure"></a>\_ \_ Структура ключа содержимого для импорта WMDRM \_
 
@@ -96,24 +96,24 @@ typedef struct WMDRM_IMPORT_CONTENT_KEY {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Эта структура, включая буфер, содержащий ключ сеанса, должна быть зашифрована с помощью ключа сеанса и включена в элемент **пбенкриптедкэймессаже** структуры [**\_ \_ \_ структуры импорта WMDRM**](/previous-versions/windows/desktop/api/wmsdkidl/ns-wmsdkidl-wmdrm_import_init_struct) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|-------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                               |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                      |
-| Версия<br/>                  | Пакет SDK для Windows Media Format 11<br/>                                                    |
-| Header<br/>                   | <dl> <dt>Дрмекстерналс. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                               |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                      |
+| Версия<br/>                  | Windows Пакет SDK для формата мультимедиа 11<br/>                                                    |
+| Заголовок<br/>                   | <dl> <dt>Дрмекстерналс. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

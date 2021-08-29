@@ -4,12 +4,12 @@ ms.assetid: 7c5e4157-13f6-40d7-a64a-076bd14aca0d
 title: Сообщение WM_MDIMAXIMIZE (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8372bcb25f35a52793292de4fd94a4a9dadafe6a
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: b187d4aed71d8582e4ea72686e30ee6339934a2bf6f5b4849fd8600c4a5552c8
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105710969"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119810514"
 ---
 # <a name="wm_mdimaximize-message"></a>\_Сообщение МДИМАКСИМИЗЕ WM
 
@@ -46,7 +46,7 @@ ms.locfileid: "105710969"
 
 Возвращаемое значение всегда равно нулю.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если клиентское MDI-окно получает сообщение, которое изменяет активацию своих дочерних окон, пока текущее активное дочернее окно MDI находится в развернутом состоянии, система восстанавливает активное дочернее окно и разворачивает вновь активированное дочернее окно.
 
@@ -58,7 +58,7 @@ ms.locfileid: "105710969"
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                               |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                     |
-| Заголовок<br/>                   | <dl> <dt>Winuser. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 

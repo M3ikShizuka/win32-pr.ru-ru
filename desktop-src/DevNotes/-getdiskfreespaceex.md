@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Msmdun80.dll
-ms.openlocfilehash: da4a8eefabf03f6330ac9c1f135482f27dd8aa18
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: e27dee6aaf1ad2a830882b1a1bef63ee0f10b4fb9810d936e6396881f857afa2
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105649020"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120053194"
 ---
 # <a name="_getdiskfreespaceex-function"></a>\_Функция Жетдискфриспацеекс
 
@@ -44,7 +44,7 @@ BOOL _GetDiskFreeSpaceEx(
 *...* 
 </dt> <dd></dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -54,7 +54,7 @@ BOOL _GetDiskFreeSpaceEx(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 0d27904d-9743-44bf-a7bc-132459351e01
 title: Сообщение LINE_GATHERDIGITS (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7f0c67c5a9bbd3f798a8f4343b36c311309633ed
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 0b430f19d2a06b14c3412989d860205d6fda0ca7a698b83ef559016b3f0ba798
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105675374"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119140157"
 ---
 # <a name="line_gatherdigits-message"></a>Строка \_ сообщения гасердигитс
 
@@ -57,7 +57,7 @@ ms.locfileid: "105675374"
 *dwParam3* 
 </dt> <dd>
 
-Число тактов (число миллисекунд с момента запуска Windows), с которых выполняется сбор цифр. Для TAPI версий более ранних, чем 2,0, этот параметр не используется.
+число тактов (число миллисекунд с момента запуска Windows), на которых выполняется сбор цифр. Для TAPI версий более ранних, чем 2,0, этот параметр не используется.
 
 </dd> </dl>
 
@@ -65,7 +65,7 @@ ms.locfileid: "105675374"
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Сообщение **Line \_ гасердигитс** отправляется в приложение, которое инициировало сбор цифр при вызове с помощью [**линегасердигитс**](/windows/desktop/api/Tapi/nf-tapi-linegatherdigits).
 
@@ -87,7 +87,7 @@ ms.locfileid: "105675374"
 | Требование | Значение |
 |-------------------------|-----------------------------------------------------------------------------------|
 | Версия TAPI<br/> | Требуется TAPI 2,0 или более поздней версии<br/>                                             |
-| Header<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
+| Заголовок<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
 
 
 

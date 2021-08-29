@@ -4,12 +4,12 @@ ms.assetid: 18d881ee-cf98-4dec-a561-333c2518935d
 title: Константы LINECALLSTATE_ (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d50301dfeca49513a919fba90cc960c7ccb572d1
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: edb16daf5875db637a255b626a6f90303ed7c7af69566b0b7db71695af4bc8b6
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105675675"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119140107"
 ---
 # <a name="linecallstate_-constants"></a>\_Константы линекаллстате
 
@@ -177,7 +177,7 @@ ms.locfileid: "105675675"
 
 </dt> </dl> </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Старшие 8 битов могут определять подсостояние конкретного устройства для любого из предопределенных состояний при условии, что также задан один из битов ЛИНЕКАЛЛСТАТЕ, \_ определенных выше. Младшие 24 бита зарезервированы для предопределенных состояний.
 
@@ -190,7 +190,7 @@ ms.locfileid: "105675675"
 | Требование | Значение |
 |-------------------------|-----------------------------------------------------------------------------------|
 | Версия TAPI<br/> | Требуется TAPI 2,0 или более поздней версии<br/>                                             |
-| Header<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
+| Заголовок<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
 
 
 

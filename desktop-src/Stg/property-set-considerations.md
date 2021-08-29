@@ -6,12 +6,12 @@ keywords:
 - Рекомендации по установке свойств
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8ddfd89140092b13d113122ffe1c1a2b576e654c
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 9f1ce6ba761922619c2e52d8a311249bf72ddf7d31ea157c11468f472fd88367
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103780096"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119992394"
 ---
 # <a name="property-set-considerations"></a>Рекомендации по установке свойств
 
@@ -19,16 +19,16 @@ ms.locfileid: "103780096"
 
 Для хранения больших фрагментов данных или в случаях, когда общий размер набора связанных свойств превышает рекомендуемый объем, настоятельно рекомендуется использовать непростые типы, такие как **VT \_ Stream** и **VT \_** . Они не хранятся в потоке набора свойств, поэтому они не влияют на изначальные издержки при первом доступе и записи свойства. Существует небольшая нагрузка, так как поток набора свойств содержит имя одноуровневого потока или свойства, возвращающего хранилище, и это занимает дополнительное небольшое время для обработки.
 
-Дополнительные сведения можно найти в разделе
+Дополнительные сведения см. в разделе:
 
 -   [Рекомендации по реализации IPropertySetStorage](ipropertysetstorage-implementation-considerations.md)
 -   [Хранение наборов свойств](storing-property-sets.md)
 -   [Характеристики производительности](performance-characteristics.md)
 -   [Реализация набора свойств сводных данных](implementing-the-summary-information-property-set.md)
 
- 
+ 
 
- 
+ 
 
 
 

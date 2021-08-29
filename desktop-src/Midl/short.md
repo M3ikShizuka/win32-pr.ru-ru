@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b993c830c631b5b95246a7a191388ce897dbaafb
-ms.sourcegitcommit: 57758ecb246c84d65e6e0e4bd5570d9176fa39cd
+ms.openlocfilehash: cbb107b818d2d89717535996d95b580df5a2d49ad0a72aef97de5d6111a0e90d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "104334283"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119066744"
 ---
 # <a name="short-attribute"></a>короткий атрибут
 
@@ -38,13 +38,13 @@ ms.locfileid: "104334283"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Ключевому слову **Short** может предшествовать либо ключевое слово signed [**, либо**](signed.md) ключевое слово [**без знака**](unsigned.md). Ключевое слово [**int**](int.md) является необязательным и может быть опущено. В компиляторе MIDL короткое целое подписывается по умолчанию и является синонимом **короткого типа со знаком**.
 
 **Короткий** целочисленный тип является одним из базовых типов языка IDL. **Короткий** целочисленный тип может отображаться в виде спецификатора типа в объявлениях [**const**](const.md) , объявлениях [**typedef**](typedef.md) , общих объявлениях и деклараторах функций (в виде спецификатора возвращаемого типа функции и описателя типа параметра). Контекст, в котором отображаются спецификаторы типов, см. в разделе [IDL-файл](interface-definition-idl-file.md).
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
@@ -57,7 +57,7 @@ ms.locfileid: "104334283"
 [**INT**](int.md)
 </dt> <dt>
 
-[**поддерживаем**](long.md)
+[**long**](long.md)
 </dt> <dt>
 
 [**входил**](signed.md)
@@ -69,9 +69,9 @@ ms.locfileid: "104334283"
 [**без знака**](unsigned.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

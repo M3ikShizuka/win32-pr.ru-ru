@@ -29,12 +29,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: eb003faf5e51c9da1f46f23c5f8d6b5ae977987c
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: a9fe777caf6d1308821fc74e4453839624bcf047811bcfe67275861586a85c9f
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104341125"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119868104"
 ---
 # <a name="win32_rdmspublishedapplication-class"></a>\_Класс Win32 рдмспублишедаппликатион
 
@@ -70,7 +70,7 @@ class Win32_RDMSPublishedApplication
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ рдмспублишедаппликатион** имеет следующие свойства.
 
@@ -291,7 +291,7 @@ class Win32_RDMSPublishedApplication
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -305,7 +305,7 @@ class Win32_RDMSPublishedApplication
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

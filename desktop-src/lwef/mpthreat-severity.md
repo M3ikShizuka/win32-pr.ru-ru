@@ -3,8 +3,8 @@ title: Перечисление MPTHREAT_SEVERITY (Мпклиент. h)
 description: Возможные угрозы угроз.
 ms.assetid: 7C50AC74-16CB-4198-ABB2-D6999429F2EA
 keywords:
-- MPTHREAT_SEVERITY перечисления устаревшие функции среды Windows
-- PMPTHREAT_SEVERITY указателя перечисления устаревшие функции среды Windows
+- MPTHREAT_SEVERITY перечисления устаревших Windows компонентов среды
+- PMPTHREAT_SEVERITYные компоненты среды Windows указателя перечисления
 topic_type:
 - apiref
 api_name:
@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2eec7bff3b23a89ce8187798d8a69a9968cbc2bf
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 7f7fe63df6e3d6d9be3e12a25138927e95bf45626ba40bd009f9a7660029f667
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105691818"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119665254"
 ---
 # <a name="mpthreat_severity-enumeration"></a>\_Перечисление серьезности мпсреат
 
@@ -64,15 +64,15 @@ typedef enum tagMPTHREAT_SEVERITY {
 <span id="MP_THREAT_SEVERITY_MAXVALUE"></span><span id="mp_threat_severity_maxvalue"></span>**\_ \_ степень серьезности угрозы пакета управления \_ MaxValue**
 </dt> <dd></dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 8\]<br/>                                            |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2012\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Мпклиент. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                            |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Мпклиент. h</dt> </dl> |
 
 
 

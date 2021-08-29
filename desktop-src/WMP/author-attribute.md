@@ -3,7 +3,7 @@ title: Атрибут Author
 description: Атрибут Author — это имя исполнителя или субъекта мультимедиа, связанного с содержимым.
 ms.assetid: 6621a955-dd6b-4725-9690-0cc96e73d94f
 keywords:
-- Атрибут автора Windows Media Player
+- проигрыватель Windows Media атрибута Author
 topic_type:
 - apiref
 api_name:
@@ -12,23 +12,23 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e94ef73679aa3869a9a3d87b926b7f38464b1001
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 28f7bd6acf39142f3947a4df623b4ce2450f3a872386f1f68ec8d7e600b831f2
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105698752"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119864884"
 ---
 # <a name="author-attribute"></a>Атрибут Author
 
 Атрибут **Author** — это имя исполнителя или субъекта мультимедиа, связанного с содержимым.
 
-## <a name="applies-to"></a>Применение
+## <a name="applies-to"></a>Применяется к
 
 -   [Звуковые элементы](audio-item-attributes.md)
 -   [Списки воспроизведения компакт-дисков](cd-playlist-attributes.md)
 -   [Дорожки компакт-диска](cd-track-attributes.md)
--   [Часто используемые файлы Windows Media](commonly-used-windows-media-file-attributes.md)
+-   [часто используемые Windows файлы мультимедиа](commonly-used-windows-media-file-attributes.md)
 -   [DVD-диски](dvd-attributes.md)
 -   [Media. Жетитеминфобитипе](media-getiteminfobytype.md)
 -   [Элементы фото](photo-item-attributes.md)
@@ -36,29 +36,29 @@ ms.locfileid: "105698752"
 -   [Элементы Радио](radio-item-attributes.md)
 -   [Элементы видео](video-item-attributes.md)
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот атрибут хранится как в библиотеке (или в кэше), так и в файле мультимедиа.
 
 Этот атрибут может иметь несколько значений. Чтобы получить все значения атрибута с несколькими значениями, необходимо использовать *носитель*. метод **жетитеминфобитипе** , а не *носитель*. метод **getItemInfo** .
 
-Константа Windows Media Format SDK для этого атрибута — g \_ всзвмаусор.
+константа пакета SDK Windows Media Format для этого атрибута — g \_ всзвмаусор.
 
 **Субъект** и **исполнитель** — это псевдонимы для этого атрибута.
 
 Чтобы определить, можно ли изменить значение этого атрибута, используйте метод [Media. исреадонлитем](media-isreadonlyitem.md) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|---------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media 9 Series или более поздней версии<br/> |
+| Версия<br/> | проигрыватель Windows Media 9 Series или более поздней версии<br/> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

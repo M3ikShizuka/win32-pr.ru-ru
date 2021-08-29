@@ -4,16 +4,16 @@ description: Событие Идлекомплете
 ms.assetid: 1d684f75-f23e-4ed8-a60a-5e6792332103
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 01782825dc880dc4d214a8d0e682d69a9f842e22
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 6e678f49bcf0479b2095a97e4bf3ac95a62862ac90741cc47e592e0cac716591
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104067235"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120114644"
 ---
 # <a name="idlecomplete-event"></a>Событие Идлекомплете
 
-\[Microsoft Agent является устаревшим в Windows 7 и может быть недоступен в последующих версиях Windows.\]
+\[Microsoft Agent является устаревшим по отношению к Windows 7 и может быть недоступен в последующих версиях Windows.\]
 
 <dl> <dt>
 
@@ -31,28 +31,28 @@ ms.locfileid: "104067235"
 
 
 
-| Отделение          | Описание                                         |
+| Часть          | Описание                                         |
 |---------------|-----------------------------------------------------|
 | *чарактерид* | Возвращает идентификатор состояние простоя символа в виде строки. |
 
 
 
- 
+ 
 
 </dd> </dl>
 
-### <a name="remarks"></a>Комментарии
+### <a name="remarks"></a>Remarks
 
 Сервер отправляет это событие всем клиентам символа.
 
-### <a name="see-also"></a>См. также:
+### <a name="see-also"></a>См. также
 
 [**Событие Идлестарт**](idlestart-event.md)
 
 
- 
+ 
 
- 
+ 
 
 
 

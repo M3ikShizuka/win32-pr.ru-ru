@@ -5,12 +5,12 @@ ms.assetid: f7bdebec-ecc3-4f28-9327-f0d2f169c142
 ms.tgt_platform: multiple
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7ce78331841a41502aa337de19e9879d42d85fe1
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 2898288ee60ea409e3220dc7295f9baa704d804ddea2af5ef344a595ccd01c57
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104329699"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119869784"
 ---
 # <a name="remote-desktop-services-virtual-channels"></a>Виртуальные каналы службы удаленных рабочих столов
 
@@ -54,11 +54,11 @@ ms.locfileid: "104329699"
 
 Дополнительные сведения см. [в статье использование службы удаленных рабочих столов виртуальных каналов](using-terminal-services-virtual-channels.md).
 
-Если вы включили приложение виртуальных каналов в развертывание службы удаленных рабочих столов, можно сделать приложение доступным для клиентских компьютеров, обращающихся к серверу узла сеансов удаленных рабочих столов с помощью удаленный рабочий стол элемента управления Microsoft ActiveX. Дополнительные сведения см. в статьях [виртуальные каналы с поддержкой скриптов](scriptable-virtual-channels.md) и [использование элемента управления ActiveX удаленный рабочий стол с виртуальными каналами](using-the-remote-desktop-activex-control-with-virtual-channels.md).
+если вы включили приложение виртуальных каналов в развертывание службы удаленных рабочих столов, можно сделать приложение доступным для клиентских компьютеров, обращающихся к серверу узла сеансов удаленных рабочих столов с помощью удаленный рабочий стол элемента управления Microsoft ActiveX. дополнительные сведения см. в статьях [виртуальные каналы](scriptable-virtual-channels.md) [с использованием скриптов и использование элемента управления удаленный рабочий стол ActiveX с виртуальными каналами](using-the-remote-desktop-activex-control-with-virtual-channels.md).
 
- 
+ 
 
- 
+ 
 
 
 

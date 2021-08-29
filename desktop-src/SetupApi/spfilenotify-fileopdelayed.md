@@ -4,12 +4,12 @@ ms.assetid: a0b38e2b-2390-49e5-b288-77c31636e696
 title: Сообщение SPFILENOTIFY_FILEOPDELAYED (Setupapi. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 38975506ff998ec09c4549ec95d9ddb620466cf2
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: b4c3034e7e3114bb3c55db48850cbe276c66702fc44cd67e54f0f1b47c93a2d3
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103908811"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119665104"
 ---
 # <a name="spfilenotify_fileopdelayed-message"></a>\_Сообщение спфиленотифи филеопделайед
 
@@ -79,15 +79,15 @@ SPFILENOTIFY_FILEOPDELAYED
 
 Возвращаемое значение игнорируется.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                           |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Setupapi. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                           |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Setupapi. h</dt> </dl> |
 
 
 
