@@ -3,7 +3,7 @@ title: Сообщение LVM_GETSELECTEDCOUNT (Коммктрл. h)
 description: Определяет число выбранных элементов в элементе управления "представление списка". Это сообщение можно отправить явно или с помощью \_ макроса Жетселектедкаунт ListView.
 ms.assetid: 38916227-e6ca-4efa-9821-13f0fdb29834
 keywords:
-- Элементы управления Windows для LVM_GETSELECTEDCOUNT сообщений
+- элементы управления Windows сообщений LVM_GETSELECTEDCOUNT
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b23f0e8d1d87e2cc7dd60d32ac3dd4943611a36f
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 33b85b83e8df1e29eedcfa5c9b5aac38d962d0787a497c03a901de943f5cbc91
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103892445"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120062444"
 ---
 # <a name="lvm_getselectedcount-message"></a>\_Сообщение LVM жетселектедкаунт
 
@@ -45,9 +45,9 @@ ms.locfileid: "103892445"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

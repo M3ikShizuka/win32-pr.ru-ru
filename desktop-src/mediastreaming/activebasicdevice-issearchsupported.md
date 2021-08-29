@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ff97b20697388b1e3079f6993b97b948fa12091e
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 37aa2d4ce01c058e899a1c15d5672b6578537604b910ac817376fcff49746e4e
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104416081"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120011934"
 ---
 # <a name="activebasicdeviceissearchsupported-property"></a>Свойство Активебасикдевице:: Иссеарчсуппортед
 
@@ -47,21 +47,21 @@ HRESULT get_IsSearchSupported(
 
 **значение true** , если устройство поддерживает поиск; в противном случае — **значение false**.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только Windows 8.1 Классические приложения\]<br/>                                                |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2012 R2 \[\]<br/>                                     |
-| Header<br/>                   | <dl> <dt>Плайтодевице. h</dt> </dl>   |
+| Минимальная версия клиента<br/> | Windows 8.1 \[ только классические приложения\]<br/>                                                |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[Только классические приложения R2\]<br/>                                     |
+| Заголовок<br/>                   | <dl> <dt>Плайтодевице. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>Плайтодевице. idl</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Playtodevice.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: b9e0564ab5b38943017e61bde171d0db3060ca0c
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.openlocfilehash: 104f0fcb0121d44c37372cc1b21b50e8ac7f3de0c8549381a5ff32cf3b9a232f
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "104273540"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119982044"
 ---
 # <a name="log---vs"></a>Сравнение журналов и
 
@@ -31,12 +31,12 @@ ms.locfileid: "104273540"
 
  
 
-где
+where
 
 -   DST — это регистр назначения.
 -   src является исходным регистром. Для исходного регистра требуется явное использование репликации свиззле, то есть только один из компонентов. x,. y,. z,. w свиззле (или. r,. g,. b,. a эквивалент) должен быть указан.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 
 
@@ -70,7 +70,7 @@ else
 
 Эта инструкция предоставляет 21 бит точности.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

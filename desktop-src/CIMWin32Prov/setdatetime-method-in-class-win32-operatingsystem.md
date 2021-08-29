@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 60316904d58ffec38aa912a1454082e7edfae5a8
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: bbab7d9e599fb33fe999ac56eaba5f180895f7658d718cd524bc9685109ae2af
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105655706"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119760144"
 ---
 # <a name="setdatetime-method-of-the-win32_operatingsystem-class"></a>Метод Сетдатетиме \_ класса операционной системы Win32
 
@@ -61,9 +61,9 @@ uint32 SetDateTime(
 **Другие** (1 4294967295)
 </dt> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-Вызывающий процесс должен иметь \_ \_ привилегию SE для имен SYSTEMTIME.
+вызывающий процесс должен иметь \_ \_ привилегию SE SYSTEMTIME NAME.
 
 ## <a name="requirements"></a>Требования
 

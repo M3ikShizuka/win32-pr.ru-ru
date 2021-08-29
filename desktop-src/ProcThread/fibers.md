@@ -4,12 +4,12 @@ ms.assetid: 6283f56b-23ae-4840-abd0-2478a50c670c
 title: Виде
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4ea0383e6d207a77c621f00f358c72bb8873ecb5
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 711fe8a23c8384f786cb60d6075e2289c403d272f0a899653738d031be09cdea
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103813769"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119886714"
 ---
 # <a name="fibers"></a>Виде
 
@@ -25,13 +25,13 @@ ms.locfileid: "103813769"
 
 Волокно может получить данные волокон, вызвав макрос [**жетфибердата**](/windows/win32/api/winnt/nf-winnt-getfiberdata) . Волокно может получить адрес волокон в любое время, вызвав макрос [**жеткуррентфибер**](/windows/win32/api/winnt/nf-winnt-getcurrentfiber) .
 
-## <a name="fiber-local-storage"></a>Локальное хранилище Fiber
+## <a name="fiber-local-storage"></a>локальные служба хранилища Fiber
 
 Волокно может использовать *Локальное хранилище волокон* (ФЛС), чтобы создать уникальную копию переменной для каждого волокна. Если переключение волокон не выполняется, ФЛС действует точно так же, как и [Локальное хранилище потока](thread-local-storage.md). Функции ФЛС ([**флсаллок**](/windows/win32/api/fibersapi/nf-fibersapi-flsalloc), [**флсфри**](/windows/win32/api/fibersapi/nf-fibersapi-flsfree), [**ФЛСЖЕТВАЛУЕ**](/windows/win32/api/fibersapi/nf-fibersapi-flsgetvalue)и [**флссетвалуе**](/windows/win32/api/fibersapi/nf-fibersapi-flssetvalue)) управляют ФЛС, связанным с текущим потоком. Если поток исполняет волокно, а волокно переключается, ФЛС также переключается.
 
 Чтобы очистить данные, связанные с волокно, вызовите функцию [**делетефибер**](/windows/desktop/api/WinBase/nf-winbase-deletefiber) . Эти данные включают стек, подмножество регистров и данные волокон. Если выполняемый в данный момент волокон вызывает **делетефибер**, его поток вызывает [**ExitThread**](/windows/win32/api/processthreadsapi/nf-processthreadsapi-exitthread) и завершает работу. Однако если выбранное волокно удалено с помощью волоконно-оптического потока в другом потоке, поток с удаленным волоком, скорее всего, завершится аварийно, так как стек волокон был освобожден.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: BE89E2E0-711F-4BD5-BB86-AA4CCA2D3E7F
 title: Использование модуля записи приемника
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fa4fa472bd1a5121454b3ffb06def7082508432b
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: b0585f52276e280d548e5180afc945ef99b046a7b6cd20c044c0e2262da3813b
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108110492"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120012244"
 ---
 # <a name="using-the-sink-writer"></a>Использование модуля записи приемника
 
@@ -56,7 +56,7 @@ ms.locfileid: "108110492"
 
 В случае с [**мфкреатесинквритерфроммедиасинк**](/windows/desktop/api/mfreadwrite/nf-mfreadwrite-mfcreatesinkwriterfrommediasink)тип файла определяется приемником мультимедиа.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

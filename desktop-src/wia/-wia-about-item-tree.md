@@ -4,12 +4,12 @@ ms.assetid: dda87bcc-2315-4f0d-87a0-d5a33d5d929a
 title: Сведения о дереве элементов IWiaItem2
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9ae342f5a85e61b6384604dae703881c6888e3e1cf8e61cc8a39a32ac77ad436
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 2df2b080b0945ea94a219e83874d82d685bab146
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119264437"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122476370"
 ---
 # <a name="about-the-iwiaitem2-item-tree"></a>Сведения о дереве элементов IWiaItem2
 
@@ -63,84 +63,15 @@ ms.locfileid: "119264437"
 
 
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Категория WIA</th>
-<th>Допустимые флаги элемента WIA</th>
-<th>Набор свойств WIA</th>
-<th>Элементы WIA</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>WIA_CATEGORY_AUTO</td>
-<td><ul>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипепрограммабледатасаурце</strong></a></li>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипеимаже</strong></a></li>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипетрансфер</strong></a></li>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипефиле</strong></a></li>
-</ul></td>
-<td>Набор свойств включает автоматические настроенные свойства сканера.</td>
-<td>Автоэлемент WIA, представляющий автоматическую настройку параметров сканирования сканера.</td>
-</tr>
-<tr class="even">
-<td>WIA_CATEGORY_FEEDER</td>
-<td><ul>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипепрограммабледатасаурце</strong></a></li>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипеимаже</strong></a></li>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипедокумент</strong></a></li>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипетрансфер</strong></a></li>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипефолдер</strong></a></li>
-</ul></td>
-<td>Набор свойств включает свойства элемента управления сканера веб-канала (обычно это набор свойств, связанных с изображениями и документами).</td>
-<td>Элементы податчика WIA, включая дочерние элементы, представляющие переднюю и заднюю страницы документа.</td>
-</tr>
-<tr class="odd">
-<td>WIA_CATEGORY_FILM</td>
-<td><ul>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипепрограммабледатасаурце</strong></a></li>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипеимаже</strong></a></li>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипетрансфер</strong></a></li>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипефолдер</strong></a></li>
-</ul></td>
-<td>Набор свойств включает свойства элемента управления "сканер пленки" (обычно это набор свойств Image и Document).</td>
-<td>Элементы пленки WIA, включая дочерние элементы, представляющие отдельные кадры сканирования.</td>
-</tr>
-<tr class="even">
-<td>WIA_CATEGORY_FINISHED_FILE</td>
-<td><ul>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипефолдер</strong></a></li>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипеимаже</strong></a></li>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипеаудио</strong></a></li>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипевидео</strong></a></li>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипедокумент</strong></a></li>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипетрансфер</strong></a></li>
-</ul></td>
-<td>Свойство, заданное для этого элемента, зависит от сообщаемого типа элемента. Например, <a href="-wia-wia-item-type-flags.md"><strong>виаитемтипеимаже</strong></a> должен включать некоторые свойства элементов изображения, например бит на пиксель и т. д.</td>
-<td>Элементы хранения WIA, включая дочерние элементы, представляющие завершенное содержимое файла (файлы данных, такие как JPEG, HTML, TXT и т. д.).</td>
-</tr>
-<tr class="odd">
-<td>WIA_CATEGORY_FLATBED</td>
-<td><ul>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипепрограммабледатасаурце</strong></a></li>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипеимаже</strong></a></li>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипедокумент</strong></a></li>
-<li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипетрансфер</strong></a></li>
-<li><a href="-wia-wia-item-type-flags.md"><strong>Виаитемтипефолдер</strong></a>— может присутствовать, если сканер поддерживает сканирование нескольких элементов.</li>
-<li><a href="-wia-wia-item-type-flags.md"><strong>Виаитемтипеженератед</strong></a>— может присутствовать, если приложение создает элемент WIA во время сеанса сканирования нескольких элементов.</li>
-</ul></td>
-<td>Набор свойств включает свойства элемента управления "планшетный сканер" (обычно это набор свойств, связанных с изображениями и документами).</td>
-<td>Планшетные элементы WIA, включая дочерние элементы, которые представляют регионы, сканируемые на планшете сканера Платен.</td>
-</tr>
-</tbody>
-</table>
+
+| Категория WIA | Допустимые флаги элемента WIA | Набор свойств WIA | Элементы WIA | 
+|--------------|----------------------|------------------|-----------|
+| WIA_CATEGORY_AUTO | <ul><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипепрограммабледатасаурце</strong></a></li><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипеимаже</strong></a></li><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипетрансфер</strong></a></li><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипефиле</strong></a></li></ul> | Набор свойств включает автоматические настроенные свойства сканера. | Автоэлемент WIA, представляющий автоматическую настройку параметров сканирования сканера. | 
+| WIA_CATEGORY_FEEDER | <ul><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипепрограммабледатасаурце</strong></a></li><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипеимаже</strong></a></li><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипедокумент</strong></a></li><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипетрансфер</strong></a></li><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипефолдер</strong></a></li></ul> | Набор свойств включает свойства элемента управления сканера веб-канала (обычно это набор свойств, связанных с изображениями и документами). | Элементы податчика WIA, включая дочерние элементы, представляющие переднюю и заднюю страницы документа. | 
+| WIA_CATEGORY_FILM | <ul><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипепрограммабледатасаурце</strong></a></li><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипеимаже</strong></a></li><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипетрансфер</strong></a></li><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипефолдер</strong></a></li></ul> | Набор свойств включает свойства элемента управления "сканер пленки" (обычно это набор свойств Image и Document). | Элементы пленки WIA, включая дочерние элементы, представляющие отдельные кадры сканирования. | 
+| WIA_CATEGORY_FINISHED_FILE | <ul><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипефолдер</strong></a></li><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипеимаже</strong></a></li><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипеаудио</strong></a></li><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипевидео</strong></a></li><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипедокумент</strong></a></li><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипетрансфер</strong></a></li></ul> | Свойство, заданное для этого элемента, зависит от сообщаемого типа элемента. Например, <a href="-wia-wia-item-type-flags.md"><strong>виаитемтипеимаже</strong></a> должен включать некоторые свойства элементов изображения, например бит на пиксель и т. д. | Элементы хранения WIA, включая дочерние элементы, представляющие завершенное содержимое файла (файлы данных, такие как JPEG, HTML, TXT и т. д.). | 
+| WIA_CATEGORY_FLATBED | <ul><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипепрограммабледатасаурце</strong></a></li><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипеимаже</strong></a></li><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипедокумент</strong></a></li><li><a href="-wia-wia-item-type-flags.md"><strong>виаитемтипетрансфер</strong></a></li><li><a href="-wia-wia-item-type-flags.md"><strong>Виаитемтипефолдер</strong></a>— может присутствовать, если сканер поддерживает сканирование нескольких элементов.</li><li><a href="-wia-wia-item-type-flags.md"><strong>Виаитемтипеженератед</strong></a>— может присутствовать, если приложение создает элемент WIA во время сеанса сканирования нескольких элементов.</li></ul> | Набор свойств включает свойства элемента управления "планшетный сканер" (обычно это набор свойств, связанных с изображениями и документами). | Планшетные элементы WIA, включая дочерние элементы, которые представляют регионы, сканируемые на планшете сканера Платен. | 
+
 
 
 

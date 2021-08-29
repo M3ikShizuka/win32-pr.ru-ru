@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Методы CIM_MemoryCheck
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fec74224fa15250bafe7774d136b3b03b8198097
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 18ddbcaf78024bb46d05440fa0990ff142ff3f54640dbc1895676373b0a76052
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104262733"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119821294"
 ---
 # <a name="cim_memorycheck-methods"></a>\_Методы МЕМОРИЧЕКК CIM
 

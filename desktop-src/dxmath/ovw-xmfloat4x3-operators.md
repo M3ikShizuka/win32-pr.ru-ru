@@ -4,12 +4,12 @@ ms.assetid: bcf2420c-cd66-4a50-9222-d74039867871
 title: Операторы XMFLOAT4X3
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 07c34539647de8b0971f2af8baf5c0890e618cdb
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 0e3cba1f6e2f1e01c511d11cff150ceae2638558051e1a4c5c43a1a73ad1a310
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104544130"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120022044"
 ---
 # <a name="xmfloat4x3-operators"></a>Операторы XMFLOAT4X3
 
@@ -33,7 +33,7 @@ ms.locfileid: "104544130"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

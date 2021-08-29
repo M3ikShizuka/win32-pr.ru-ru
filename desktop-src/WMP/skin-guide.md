@@ -3,23 +3,23 @@ title: Путеводитель по обложкам
 description: Путеводитель по обложкам
 ms.assetid: e8df7781-772d-4dd3-a6bc-f66ce6bab295
 keywords:
-- Проигрыватель Windows Media, обложки
-- Обложки Windows Media Player для мобильных устройств, создание руководств
+- проигрыватель Windows Media, обложки
+- проигрыватель Windows Media Обложки для мобильных устройств, руководством по созданию
 - обложки, руководством по созданию
 - Создание обложек, сведения
-- Создание обложек, проигрыватель Windows Media Mobile
+- создание обложек, проигрыватель Windows Media Mobile
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 40b550cf2d8478ea1ef926deb68b42cb51c44257
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: ed29580a477e6d0c00b026c2ce239f0028d9b40c71891da19d9db8d43c15a207
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104132838"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119763554"
 ---
 # <a name="skin-guide"></a>Путеводитель по обложкам
 
-В этом разделе описывается, как создать простую обложку с книжным режимом для проигрывателя Windows Media 9 для Windows Mobile 2003 или более поздней версии. Будут использованы следующие шаги:
+в этом разделе описано, как создать простую обложку в книжном режиме для серии проигрыватель Windows Media 9 для Windows Mobile 2003 или более поздней версии. Будут использованы следующие шаги:
 
 -   [Выбор функций](choosing-the-functions.md)
 -   [Проектирование интерфейса](designing-the-interface.md)
@@ -27,16 +27,16 @@ ms.locfileid: "104132838"
 -   [Написание кода](writing-the-code.md)
 -   [Установка обложки](installing-your-skin.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
-[**Обложки мобильных устройств проигрывателя Windows Media**](windows-media-player-mobile-skins.md)
+[**проигрыватель Windows Media Обложки для мобильных устройств**](windows-media-player-mobile-skins.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

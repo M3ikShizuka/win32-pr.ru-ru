@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: b463989ab84af4306d2170f50b27b499631d6609
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 3d317764d61666fd783de18acd046d48d11e88cf0f59ba6d1181017f76cea21e
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105712174"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120063994"
 ---
 # <a name="esentstopwatchreset-method"></a>Есентстопватч. Reset, метод
 
@@ -53,7 +53,7 @@ instance.Reset()
 public void Reset()
 ```
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 #### <a name="reference"></a>Справочник
 

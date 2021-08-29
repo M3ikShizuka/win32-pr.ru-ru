@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Ntdll.dll
 - ntoskrnl.exe
-ms.openlocfilehash: 7972d3d2e6b98f56829680dd77c4c0a97b51679ffb2d9cfef928d4a279f6b7f9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: af47ecbe69c4c0449cf6e3282e0992e8a513b5a0
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117792918"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122480880"
 ---
 # <a name="zwqueryinformationprocess-function"></a>Функция Звкуеринформатионпроцесс
 
@@ -60,48 +60,16 @@ NTSTATUS WINAPI ZwQueryInformationProcess(
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Значение</th>
-<th>Значение</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><span id="ProcessBasicInformation"></span><span id="processbasicinformation"></span><span id="PROCESSBASICINFORMATION"></span><dl> <dt><strong>ПроцессбасиЦинформатион</strong></dt> <dt>0</dt> </dl></td>
-<td>Получает указатель на структуру ПЕБ, которую можно использовать, чтобы определить, выполняется ли отладка указанного процесса, и уникальное значение, используемое системой для определения указанного процесса. <br/> Для получения этих сведений лучше использовать функции <a href="/windows/desktop/api/debugapi/nf-debugapi-checkremotedebuggerpresent"><strong>чеккремотедебугжерпресент</strong></a> и <a href="/windows/desktop/api/processthreadsapi/nf-processthreadsapi-getprocessid"><strong>GetProcessId</strong></a> .<br/></td>
-</tr>
-<tr class="even">
-<td><span id="ProcessDebugPort"></span><span id="processdebugport"></span><span id="PROCESSDEBUGPORT"></span><dl> <dt><strong>Процессдебугпорт</strong></dt> <dt>7</dt> </dl></td>
-<td>Извлекает <strong>DWORD_PTR</strong> значение, которое является номером порта отладчика для процесса. Ненулевое значение указывает, что процесс выполняется под управлением отладчика Ring 3.<br/> Лучше использовать функцию <a href="/windows/desktop/api/debugapi/nf-debugapi-checkremotedebuggerpresent"><strong>чеккремотедебугжерпресент</strong></a> или <a href="/windows/desktop/api/debugapi/nf-debugapi-isdebuggerpresent"><strong>исдебугжерпресент</strong></a> .<br/></td>
-</tr>
-<tr class="odd">
-<td><span id="ProcessWow64Information"></span><span id="processwow64information"></span><span id="PROCESSWOW64INFORMATION"></span><dl> <dt><strong>ProcessWow64Information</strong></dt> <dt>26</dt> </dl></td>
-<td>Определяет, выполняется ли процесс в среде WOW64 (WOW64 — эмулятор x86, позволяющий приложениям на основе Win32 работать на 64-разрядной Windows).<br/> Для получения этих сведений лучше использовать функцию <a href="/windows/desktop/api/wow64apiset/nf-wow64apiset-iswow64process"><strong>IsWow64Process</strong></a> .<br/></td>
-</tr>
-<tr class="even">
-<td><span id="ProcessImageFileName"></span><span id="processimagefilename"></span><span id="PROCESSIMAGEFILENAME"></span><dl> <dt><strong>Процессимажефиленаме</strong></dt> <dt>27</dt> </dl></td>
-<td>Извлекает значение <strong>UNICODE_STRING</strong> , содержащее имя файла изображения для процесса.<br/></td>
-</tr>
-<tr class="odd">
-<td><span id="ProcessBreakOnTermination"></span><span id="processbreakontermination"></span><span id="PROCESSBREAKONTERMINATION"></span><dl> <dt><strong>Процессбреаконтерминатион</strong></dt> <dt>29</dt> </dl></td>
-<td>Извлекает значение типа <strong>ulong</strong> , указывающее, считается ли процесс критическим.<br/>
-<blockquote>
-[!Note]<br />
-это значение можно использовать начиная с версии Windows XP с пакетом обновления 3 (SP3). начиная с Windows 8.1 вместо него следует использовать <a href="/windows/desktop/api/processthreadsapi/nf-processthreadsapi-isprocesscritical"><strong>испроцесскритикал</strong></a> .
-</blockquote>
-<br/></td>
-</tr><tr class="even">
-<td><span id="ProcessProtectionInformation"></span><span id="processprotectioninformation"></span><span id="PROCESSPROTECTIONINFORMATION"></span><dl> <dt><strong>Процесспротектионинформатион</strong></dt> <dt>61</dt> </dl></td>
-<td>Извлекает значение БАЙТа, указывающее тип защищенного процесса и подписанного процесса.<br/></td>
-</tr>
-</tbody>
-</table>
+
+| Значение | Значение | 
+|-------|---------|
+| <span id="ProcessBasicInformation"></span><span id="processbasicinformation"></span><span id="PROCESSBASICINFORMATION"></span><dl><dt><strong>ПроцессбасиЦинформатион</strong></dt><dt>0</dt></dl> | Получает указатель на структуру ПЕБ, которую можно использовать, чтобы определить, выполняется ли отладка указанного процесса, и уникальное значение, используемое системой для определения указанного процесса. <br /> Для получения этих сведений лучше использовать функции <a href="/windows/desktop/api/debugapi/nf-debugapi-checkremotedebuggerpresent"><strong>чеккремотедебугжерпресент</strong></a> и <a href="/windows/desktop/api/processthreadsapi/nf-processthreadsapi-getprocessid"><strong>GetProcessId</strong></a> .<br /> | 
+| <span id="ProcessDebugPort"></span><span id="processdebugport"></span><span id="PROCESSDEBUGPORT"></span><dl><dt><strong>Процессдебугпорт</strong></dt><dt>7</dt></dl> | Извлекает <strong>DWORD_PTR</strong> значение, которое является номером порта отладчика для процесса. Ненулевое значение указывает, что процесс выполняется под управлением отладчика Ring 3.<br /> Лучше использовать функцию <a href="/windows/desktop/api/debugapi/nf-debugapi-checkremotedebuggerpresent"><strong>чеккремотедебугжерпресент</strong></a> или <a href="/windows/desktop/api/debugapi/nf-debugapi-isdebuggerpresent"><strong>исдебугжерпресент</strong></a> .<br /> | 
+| <span id="ProcessWow64Information"></span><span id="processwow64information"></span><span id="PROCESSWOW64INFORMATION"></span><dl><dt><strong>ProcessWow64Information</strong></dt><dt>26</dt></dl> | Определяет, выполняется ли процесс в среде WOW64 (WOW64 — эмулятор x86, позволяющий приложениям на основе Win32 работать на 64-разрядной Windows).<br /> Для получения этих сведений лучше использовать функцию <a href="/windows/desktop/api/wow64apiset/nf-wow64apiset-iswow64process"><strong>IsWow64Process</strong></a> .<br /> | 
+| <span id="ProcessImageFileName"></span><span id="processimagefilename"></span><span id="PROCESSIMAGEFILENAME"></span><dl><dt><strong>Процессимажефиленаме</strong></dt><dt>27</dt></dl> | Извлекает значение <strong>UNICODE_STRING</strong> , содержащее имя файла изображения для процесса.<br /> | 
+| <span id="ProcessBreakOnTermination"></span><span id="processbreakontermination"></span><span id="PROCESSBREAKONTERMINATION"></span><dl><dt><strong>Процессбреаконтерминатион</strong></dt><dt>29</dt></dl> | Извлекает значение типа <strong>ulong</strong> , указывающее, считается ли процесс критическим.<br /><blockquote>[!Note]<br />это значение можно использовать начиная с версии Windows XP с пакетом обновления 3 (SP3). начиная с Windows 8.1 вместо него следует использовать <a href="/windows/desktop/api/processthreadsapi/nf-processthreadsapi-isprocesscritical"><strong>испроцесскритикал</strong></a> .</blockquote><br /> | 
+| <span id="ProcessProtectionInformation"></span><span id="processprotectioninformation"></span><span id="PROCESSPROTECTIONINFORMATION"></span><dl><dt><strong>Процесспротектионинформатион</strong></dt><dt>61</dt></dl> | Извлекает значение БАЙТа, указывающее тип защищенного процесса и подписанного процесса.<br /> | 
+
 
 
 
@@ -224,7 +192,7 @@ typedef enum _PS_PROTECTED_SIGNER {
 
 Формы и коды ошибок NTSTATUS перечислены в файле заголовка NTSTATUS. h, доступном в наборе DDK. они описаны в документации по DDK в разделе Kernel-Mode архитектура драйвера/руководство по проектированию/средства программирования драйверов/регистрация ошибок.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 функция **звкуеринформатионпроцесс** и возвращаемые ею структуры являются внутренними по отношению к операционной системе и могут изменяться от одного выпуска Windows к другому. Чтобы обеспечить совместимость приложения, лучше использовать общие функции, упомянутые в описании параметра *процессинформатионкласс* .
 
@@ -244,7 +212,7 @@ typedef enum _PS_PROTECTED_SIGNER {
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

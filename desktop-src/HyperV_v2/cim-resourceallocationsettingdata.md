@@ -32,12 +32,12 @@ api_type:
 - DllExport
 api_location:
 - vmms.exe
-ms.openlocfilehash: 22289511f454e0d3b128d0e73d32687924c7a7ae
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: b84ebb7c95b192f5461fe0f4abb99a6f1d17ead74960ff8058629c81fd9a8771
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105683430"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119981044"
 ---
 # <a name="cim_resourceallocationsettingdata-class"></a>\_Класс CIM ресаурцеаллокатионсеттингдата
 
@@ -77,7 +77,7 @@ class CIM_ResourceAllocationSettingData : CIM_SettingData
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **CIM \_ ресаурцеаллокатионсеттингдата** имеет следующие свойства.
 
@@ -540,7 +540,7 @@ class CIM_ResourceAllocationSettingData : CIM_SettingData
 
 <span id="Storage_Extent"></span><span id="storage_extent"></span><span id="STORAGE_EXTENT"></span>
 
-**Область хранения** (19)
+**экстент служба хранилища** (19)
 
 
 </dt> <dd></dd> <dt>
@@ -631,7 +631,7 @@ class CIM_ResourceAllocationSettingData : CIM_SettingData
 
 <span id="Storage_Volume"></span><span id="storage_volume"></span><span id="STORAGE_VOLUME"></span>
 
-**Том хранилища** (32)
+**служба хранилища том** (32)
 
 
 </dt> <dd></dd> <dt>

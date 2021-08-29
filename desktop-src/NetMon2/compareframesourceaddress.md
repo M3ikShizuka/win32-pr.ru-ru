@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Nmapi.dll
-ms.openlocfilehash: 4a100273c37e25a7b1deba86ed2704886dbfccc7
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 8738f1322f30baeb5152f5f453cc8d77c74405889caaf667a3d73413d9cdad96
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104265818"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119891104"
 ---
 # <a name="compareframesourceaddress-function"></a>Функция Компарефрамесаурцеаддресс
 
@@ -60,7 +60,7 @@ BOOL WINAPI CompareFrameSourceAddress(
 
 Если адреса не совпадают, возвращается значение **false**.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Чтобы функция **компарефрамесаурцеаддресс** была выполнена, тип адреса источника должен совпадать с типом адреса, указанным в параметре *лпаддресс* .
 
@@ -68,7 +68,7 @@ BOOL WINAPI CompareFrameSourceAddress(
 
 [*Эксперты*](e.md) и [*средства синтаксического анализа*](p.md) могут вызывать функцию **компарефрамесаурцеаддресс** .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -82,7 +82,7 @@ BOOL WINAPI CompareFrameSourceAddress(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 914dc34d-34e9-4283-be26-203da945d3e9
 title: System. photo. Фнумбер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f22498d498bdf606cb0562f93df9a7b4d40405ba
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 83045d392a05dbe5c3053e289527582d8b16f6f97136ff412723423922e84c93
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104264232"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119716234"
 ---
 # <a name="systemphotofnumber"></a>System. photo. Фнумбер
 
@@ -20,7 +20,7 @@ ms.locfileid: "104264232"
 -   1
 -   1.4
 -   2
--   2.8
+-   2,8
 -   4
 -   5.6
 -   8
@@ -60,11 +60,11 @@ propertyDescription
       IsInnate = true
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

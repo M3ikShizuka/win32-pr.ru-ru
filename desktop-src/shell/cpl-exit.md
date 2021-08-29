@@ -4,12 +4,12 @@ ms.assetid: 1afcb0d3-41a7-4fd8-9561-d96e1e8f0ddb
 title: Сообщение CPL_EXIT (CPL. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0adea6c4b05ee752829634f7478df2ac651e69f7
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 9007c05de134b32e3c4dfd7b256f2392f547d298b2d654dddc256b6ed711bb9e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104262914"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119715606"
 ---
 # <a name="cpl_exit-message"></a>\_Сообщение выхода CPL
 
@@ -29,7 +29,7 @@ ms.locfileid: "104262914"
 
 Если функция [**кплапплет**](/windows/win32/api/cpl/nc-cpl-applet_proc) успешно обрабатывает это сообщение, оно должно вернуть ноль.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Это сообщение отправляется после отправки последнего сообщения об ошибке [**CPL \_**](cpl-stop.md) .
 
@@ -41,7 +41,7 @@ ms.locfileid: "104262914"
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                      |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                      |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                             |
 | Заголовок<br/>                   | <dl> <dt>CPL. h</dt> </dl> |
 

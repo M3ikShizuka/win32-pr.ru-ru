@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 99974206f6487d90e1660f5a64c1d00904912c66
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: e64d4493e43e23b6826c81ac61ae90d64a236d7ffcace32bb29f53b5c0c039fe
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103990736"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120105064"
 ---
 # <a name="usercontrolservice-method-of-the-win32_systemdriver-class"></a>Метод Усерконтролсервице \_ класса Win32 SystemDriver
 
@@ -53,7 +53,7 @@ uint32 UserControlService(
 
 Возвращает значение 0 (ноль), если запрос **усерконтролсервице** был принят, 1 (один), если запрос не поддерживается, и любое другое число для указания ошибки.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -67,7 +67,7 @@ uint32 UserControlService(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

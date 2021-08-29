@@ -4,12 +4,12 @@ description: В этом примере извлекается строка тр
 ms.assetid: cd605c68-efaa-4ce7-9e44-59f516d85627
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e8b99f986692c3bfb1297a98e9afdcea65606446
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 207bbec1c7a33bb77ba7ed66729f9ef72e160785e1d454aa5205449ea47ae8ec
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103777267"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120011714"
 ---
 # <a name="cc-code-example-retrieving-trigger-strings"></a>Пример кода C/C++: получение строк триггера
 
@@ -134,16 +134,16 @@ int main(int argc, char **argv)
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Примеры планировщик задач 1,0](task-scheduler-1-0-examples.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

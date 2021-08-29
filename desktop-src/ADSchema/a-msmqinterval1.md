@@ -14,12 +14,12 @@ api_type:
 - Schema
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c42474db0ffa764c6fb3afd9f48591bd5880984f
-ms.sourcegitcommit: b77ace27b0432e7cd3863191b11926be032fbe2f
+ms.openlocfilehash: c47f93e7d97fe2b31b93bd425dd9e769c83a0804106a760f9015eda93d9e19a1
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "104493782"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119762624"
 ---
 # <a name="msmq-interval1-attribute"></a>Атрибут MSMQ-Interval1
 
@@ -58,7 +58,7 @@ ms.locfileid: "104493782"
 | Идентификатор ссылки                | \-                                                                                                        |
 | MAPI-Id                | \-                                                                                                        |
 | System-Only            | Неверно                                                                                                     |
-| Является однозначным       | True                                                                                                      |
+| Является однозначным       | Верно                                                                                                      |
 | Индексируется             | Неверно                                                                                                     |
 | В глобальном каталоге      | Неверно                                                                                                     |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                                                              |
@@ -66,7 +66,7 @@ ms.locfileid: "104493782"
 | Range-Upper            | \-                                                                                                        |
 | Search-Flags           | 0x00000000                                                                                                |
 | System-Flags           | 0x00000010                                                                                                |
-| Классы, используемые в        | [**MSMQ-Enterprise-параметры**](c-msmqenterprisesettings.md)<br/> [**Сайт**](c-site.md)<br/> |
+| Классы, используемые в        | [**MSMQ-Enterprise — Параметры**](c-msmqenterprisesettings.md)<br/> [**Сайт**](c-site.md)<br/> |
 
 
 
@@ -79,7 +79,7 @@ ms.locfileid: "104493782"
 | Идентификатор ссылки                | \-                                                                                                        |
 | MAPI-Id                | \-                                                                                                        |
 | System-Only            | Неверно                                                                                                     |
-| Является однозначным       | True                                                                                                      |
+| Является однозначным       | Верно                                                                                                      |
 | Индексируется             | Неверно                                                                                                     |
 | В глобальном каталоге      | Неверно                                                                                                     |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                                                              |
@@ -87,7 +87,7 @@ ms.locfileid: "104493782"
 | Range-Upper            | \-                                                                                                        |
 | Search-Flags           | 0x00000000                                                                                                |
 | System-Flags           | 0x00000010                                                                                                |
-| Классы, используемые в        | [**MSMQ-Enterprise-параметры**](c-msmqenterprisesettings.md)<br/> [**Сайт**](c-site.md)<br/> |
+| Классы, используемые в        | [**MSMQ-Enterprise — Параметры**](c-msmqenterprisesettings.md)<br/> [**Сайт**](c-site.md)<br/> |
 
 
 
@@ -100,7 +100,7 @@ ms.locfileid: "104493782"
 | Идентификатор ссылки                | \-                                                                                                        |
 | MAPI-Id                | \-                                                                                                        |
 | System-Only            | Неверно                                                                                                     |
-| Является однозначным       | True                                                                                                      |
+| Является однозначным       | Верно                                                                                                      |
 | Индексируется             | Неверно                                                                                                     |
 | В глобальном каталоге      | Неверно                                                                                                     |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                                                              |
@@ -108,7 +108,7 @@ ms.locfileid: "104493782"
 | Range-Upper            | \-                                                                                                        |
 | Search-Flags           | 0x00000000                                                                                                |
 | System-Flags           | 0x00000010                                                                                                |
-| Классы, используемые в        | [**MSMQ-Enterprise-параметры**](c-msmqenterprisesettings.md)<br/> [**Сайт**](c-site.md)<br/> |
+| Классы, используемые в        | [**MSMQ-Enterprise — Параметры**](c-msmqenterprisesettings.md)<br/> [**Сайт**](c-site.md)<br/> |
 
 
 
@@ -121,7 +121,7 @@ ms.locfileid: "104493782"
 | Идентификатор ссылки                | \-                                                                                                        |
 | MAPI-Id                | \-                                                                                                        |
 | System-Only            | Неверно                                                                                                     |
-| Является однозначным       | True                                                                                                      |
+| Является однозначным       | Верно                                                                                                      |
 | Индексируется             | Неверно                                                                                                     |
 | В глобальном каталоге      | Неверно                                                                                                     |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                                                              |
@@ -129,7 +129,7 @@ ms.locfileid: "104493782"
 | Range-Upper            | \-                                                                                                        |
 | Search-Flags           | 0x00000000                                                                                                |
 | System-Flags           | 0x00000010                                                                                                |
-| Классы, используемые в        | [**MSMQ-Enterprise-параметры**](c-msmqenterprisesettings.md)<br/> [**Сайт**](c-site.md)<br/> |
+| Классы, используемые в        | [**MSMQ-Enterprise — Параметры**](c-msmqenterprisesettings.md)<br/> [**Сайт**](c-site.md)<br/> |
 
 
 
@@ -142,7 +142,7 @@ ms.locfileid: "104493782"
 | Идентификатор ссылки                | \-                                                                                                        |
 | MAPI-Id                | \-                                                                                                        |
 | System-Only            | Неверно                                                                                                     |
-| Является однозначным       | True                                                                                                      |
+| Является однозначным       | Верно                                                                                                      |
 | Индексируется             | Неверно                                                                                                     |
 | В глобальном каталоге      | Неверно                                                                                                     |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                                                              |
@@ -150,7 +150,7 @@ ms.locfileid: "104493782"
 | Range-Upper            | \-                                                                                                        |
 | Search-Flags           | 0x00000000                                                                                                |
 | System-Flags           | 0x00000010                                                                                                |
-| Классы, используемые в        | [**MSMQ-Enterprise-параметры**](c-msmqenterprisesettings.md)<br/> [**Сайт**](c-site.md)<br/> |
+| Классы, используемые в        | [**MSMQ-Enterprise — Параметры**](c-msmqenterprisesettings.md)<br/> [**Сайт**](c-site.md)<br/> |
 
 
 
@@ -163,7 +163,7 @@ ms.locfileid: "104493782"
 | Идентификатор ссылки                | \-                                                                                                        |
 | MAPI-Id                | \-                                                                                                        |
 | System-Only            | Неверно                                                                                                     |
-| Является однозначным       | True                                                                                                      |
+| Является однозначным       | Верно                                                                                                      |
 | Индексируется             | Неверно                                                                                                     |
 | В глобальном каталоге      | Неверно                                                                                                     |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                                                              |
@@ -171,7 +171,7 @@ ms.locfileid: "104493782"
 | Range-Upper            | \-                                                                                                        |
 | Search-Flags           | 0x00000000                                                                                                |
 | System-Flags           | 0x00000010                                                                                                |
-| Классы, используемые в        | [**MSMQ-Enterprise-параметры**](c-msmqenterprisesettings.md)<br/> [**Сайт**](c-site.md)<br/> |
+| Классы, используемые в        | [**MSMQ-Enterprise — Параметры**](c-msmqenterprisesettings.md)<br/> [**Сайт**](c-site.md)<br/> |
 
 
 

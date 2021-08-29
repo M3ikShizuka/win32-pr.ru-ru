@@ -4,12 +4,12 @@ ms.assetid: f0ab0a9d-00fa-4c61-9f5a-727cf69ffa1c
 title: ГПРМАРРАЙ (Стрмиф. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 213c753be9725b9157eabbf0841b2cb4d4d7f8a8
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: f0d8b228f613c1aecbecdd0c185345dff42036b87c13e07b2acdf6d4cfe1f8c7
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105651907"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120102754"
 ---
 # <a name="gprmarray"></a>гпрмаррай
 
@@ -22,21 +22,21 @@ typedef DVD_REGISTER GPRMARRAY [16];
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|-------------------------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Стрмиф. h (включение DShow. h)</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Стрмиф. h (включение DShow. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
-[Типы данных DirectShow](directshow-data-types.md)
+[DirectShow Типы данных](directshow-data-types.md)
 </dt> <dt>
 
 [**регистрация DVD-диска \_**](dvd-register.md)

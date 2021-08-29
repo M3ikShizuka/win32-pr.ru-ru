@@ -4,16 +4,16 @@ description: Выбор файлов
 ms.assetid: dfa44a32-7d72-47f7-a872-33b823a34798
 keywords:
 - Создание обложек, выбор файлов
-- Обложки проигрывателя Windows Media, выбор файлов
+- обложки проигрыватель Windows Media, выбор файлов
 - обложки, выбор файлов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0098a37635c52ba3e48fb77f07a5868ceb957239
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 2ed90a5813880c87dbaf297808cc79c65ed066eb1585ba63ddd97d0305199230
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104258861"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119764254"
 ---
 # <a name="choosing-files"></a>Выбор файлов
 
@@ -34,16 +34,16 @@ ms.locfileid: "104258861"
 
 Аналогичный пример рабочего **опендиалог** см. в разделе примера пакета SDK.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [**Руководством по созданию обложки**](skin-creation-guide.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

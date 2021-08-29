@@ -12,12 +12,12 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_name: ''
 api_location: ''
-ms.openlocfilehash: 9f87e6ea6e839e90dc8d347b7e14e39daec556b2
-ms.sourcegitcommit: 57758ecb246c84d65e6e0e4bd5570d9176fa39cd
+ms.openlocfilehash: 25fbc27a2fecd07277e93197f61c43ca5b8a94806155deb8b12556b9dff17911
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "104334211"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120023064"
 ---
 # <a name="texture2dsample-methods"></a>Методы Texture2D:: Samples
 
@@ -35,11 +35,11 @@ ms.locfileid: "104334211"
 
 
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Ссылается на [объект текстуры](dx-graphics-hlsl-to-type.md).
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

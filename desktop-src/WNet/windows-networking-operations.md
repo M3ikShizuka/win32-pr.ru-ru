@@ -1,17 +1,17 @@
 ---
-title: Сетевые операции Windows
+title: Windows Сетевые операции
 description: Приложение может использовать функции Внет для просмотра, добавления или отмены сетевых подключений в любом месте иерархии сети.
 ms.assetid: 8f17af6c-e1b2-4b53-b3f0-698d42beb704
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e30326d9ad1299e577c65586cff3df3010c086f8
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: aa1763f7261dd17fa6f21355ef2f1de404c2b34ec13d6ad6e9769aee3be55283
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104337921"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119760344"
 ---
-# <a name="windows-networking-operations"></a>Сетевые операции Windows
+# <a name="windows-networking-operations"></a>Windows Сетевые операции
 
 Приложение может использовать функции Внет для просмотра, добавления или отмены сетевых подключений в любом месте иерархии сети.
 
@@ -21,6 +21,6 @@ ms.locfileid: "104337921"
 
 Помимо вызова функций Внет, процесс также может использовать маилслотс и именованные каналы для взаимодействия с другим процессом. Дополнительные сведения см. в разделе [маилслотс](/windows/desktop/ipc/mailslots) и [каналы](/windows/desktop/ipc/pipes).
 
- 
+ 
 
- 
+ 

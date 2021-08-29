@@ -4,12 +4,12 @@ ms.assetid: 507d350e-da0c-42d0-8a8d-77618ee5a1dd
 title: Атрибут MF_SOURCE_READER_D3D_MANAGER (Мфреадврите. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 43bf0d49bb2744ff8219f8d15a6316f11875455c
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: f19b4f90713d6eb0529e51657d3f5a649394c3458c61d6cce2974b2214d9a202
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103910196"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119955124"
 ---
 # <a name="mf_source_reader_d3d_manager-attribute"></a>\_ \_ \_ Атрибут диспетчера D3D чтения источника MF \_
 
@@ -17,15 +17,15 @@ ms.locfileid: "103910196"
 
 ## <a name="data-type"></a>Тип данных
 
-**IDirect3DDeviceManager9 \* или имфдксгидевицеманажер \*** хранятся как **IUnknown \** _
+**IDirect3DDeviceManager9 \* или имфдксгидевицеманажер \*** хранятся в **виде \* IUnknown** .
 
 ## <a name="getset"></a>Get/Set
 
-Чтобы получить этот атрибут, вызовите [_ *имфаттрибутес:: ununknown* *](/windows/desktop/api/mfobjects/nf-mfobjects-imfattributes-getunknown).
+Чтобы получить этот атрибут, вызовите [**имфаттрибутес:: ununknown**](/windows/desktop/api/mfobjects/nf-mfobjects-imfattributes-getunknown).
 
 Чтобы задать этот атрибут, вызовите [**имфаттрибутес:: сетункновн**](/windows/desktop/api/mfobjects/nf-mfobjects-imfattributes-setunknown).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значение этого атрибута может быть указателем на интерфейс [**IDirect3DDeviceManager9**](/windows/desktop/api/dxva2api/nn-dxva2api-idirect3ddevicemanager9) или [**имфдксгидевицеманажер**](/windows/desktop/api/mfobjects/nn-mfobjects-imfdxgidevicemanager).
 
@@ -50,9 +50,9 @@ ms.locfileid: "103910196"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 7 \|\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2008 R2 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Мфреадврите. h</dt> </dl> |
+| Минимальная версия клиента<br/> | \[приложения UWP для классических приложений Windows 7 \|\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows \[Приложения UWP для настольных приложений Server 2008 R2 \|\]<br/>                           |
+| Заголовок<br/>                   | <dl> <dt>Мфреадврите. h</dt> </dl> |
 
 
 

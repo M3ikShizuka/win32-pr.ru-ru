@@ -17,12 +17,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 0f97ab262d95b70a69b06e15202a78d5c1364f90
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 3599661e1801c65b0cfc3b8a1cae0f9e3e820ce0b2cdb6aab9266e8e67f70338
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103807924"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119816634"
 ---
 # <a name="win32_devicechangeevent-class"></a>\_Класс Win32 девицечанжеевент
 
@@ -48,7 +48,7 @@ class Win32_DeviceChangeEvent : __ExtrinsicEvent
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ девицечанжеевент** имеет следующие свойства.
 
@@ -130,11 +130,11 @@ class Win32_DeviceChangeEvent : __ExtrinsicEvent
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 **\_ Девицечанжеевент Win32** является абстрактным классом, производным от [**\_ \_ екстринсицевент**](/windows/desktop/WmiSdk/--extrinsicevent).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -148,7 +148,7 @@ class Win32_DeviceChangeEvent : __ExtrinsicEvent
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

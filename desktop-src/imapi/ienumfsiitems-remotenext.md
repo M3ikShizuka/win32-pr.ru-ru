@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8e29d3f75cd8e2f83fcd21236661d0d1fa0dabef
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.openlocfilehash: 9b63c2d0a5223dd2ae282804b2a6dc5e2872a5c108ed885bdca5a0db862a4b75
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "104547642"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120062545"
 ---
 # <a name="ienumfsiitemsremotenext-method"></a>Метод Иенумфсиитемс:: Ремотенекст
 
@@ -90,7 +90,7 @@ HRESULT RemoteNext(
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista, Windows XP с пакетом обновления 2 (SP2), \[ только классические приложения\]<br/>                     |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                    |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
 | IDL<br/>                      | <dl> <dt>Imapi2fs. idl</dt> </dl> |
 
 

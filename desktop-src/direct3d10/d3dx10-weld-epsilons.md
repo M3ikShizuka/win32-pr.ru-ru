@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3DX10.h
-ms.openlocfilehash: 720a10dbe4b22b69910d88d3c03cea9ded768f1b
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 072d33a6490f8103604eac899fe96eca8a135a9786c696fdb5fb5cf0f2ce8fa7
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108105432"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119852624"
 ---
 # <a name="d3dx10_weld_epsilons-structure"></a>\_ \_ Структура Эпсилон D3DX10ного шва
 
@@ -169,13 +169,13 @@ typedef D3DX_WELD_EPSILONS *LPD3DX_WELD_EPSILONS;
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|-------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3DX10. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3DX10. h</dt> </dl> |
 
 
 

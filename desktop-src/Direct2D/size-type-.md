@@ -14,14 +14,14 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cf2bac3b43cf083d4f2d3588fed41d55380a435cc10c56cdfdb5cae1929d12c3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 39d689d5f5c729e13385fc0d6d5b31baf96b141b
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119292784"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122886989"
 ---
-# <a name="sizetype-function"></a>Size, <Type> функция
+# <a name="sizelttypegt-function"></a>Тип size, &lt; &gt; функция
 
 Создает структуру размера, в которой хранятся значения ширины и высоты, используя указанный тип данных.
 
@@ -62,7 +62,7 @@ typename TypeTraits<Type>::Size Size(
 
 Размер, который содержит указанные ширину и высоту.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -32,12 +32,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 355e29929dc05a701a2beac0919a28aca573ca9c
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 329aadb0f0640cc0b4a4baa10a91b87b733b237d13c9930c116059cfe2b99511
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103990770"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119820224"
 ---
 # <a name="cim_process-class"></a>\_Класс процессов CIM
 
@@ -83,13 +83,13 @@ class CIM_Process : CIM_LogicalElement
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **\_ процесса CIM** имеет эти свойства.
 
 <dl> <dt>
 
-**Заголовок**
+**Caption**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -337,7 +337,7 @@ class CIM_Process : CIM_LogicalElement
 
 </dd> <dt>
 
-**Name**
+**Имя**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -561,7 +561,7 @@ class CIM_Process : CIM_LogicalElement
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **\_ процесса CIM** является производным от [**CIM \_ логикалелемент**](cim-logicalelement.md).
 
@@ -569,7 +569,7 @@ class CIM_Process : CIM_LogicalElement
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -583,7 +583,7 @@ class CIM_Process : CIM_LogicalElement
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

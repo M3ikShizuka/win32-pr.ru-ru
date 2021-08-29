@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cdd47ac3b44a1d74cb42113513a44c4b48689a93
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 60b7e998871dc64e21d0d63535228cc007cc923f6e3cc0f92e691f1f685fbe08
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105648674"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120110314"
 ---
 # <a name="iwmdrmsecuritygetcontentenablersforrevocations-method"></a>Метод Ивмдрмсекурити:: Жетконтентенаблерсфорревокатионс
 
@@ -74,7 +74,7 @@ HRESULT GetContentEnablersForRevocations(
 |-------------------------------|----------------------------------------------------------------|
 | \_приложение РЕВОКАТИОНТИПЕ \_ WMDRM    | Указывает сертификат приложения.                          |
 | \_устройство WMDRM ревокатионтипе \_ | Указывает сертификат устройства.                                |
-| \_КАРДЕА WMDRM ревокатионтипе \_ | Указывает сертификат Windows Media DRM для сетевых устройств. |
+| \_КАРДЕА WMDRM ревокатионтипе \_ | указывает Windows Media DRM для сертификата сетевых устройств. |
 
 
 
@@ -124,7 +124,7 @@ HRESULT GetContentEnablersForRevocations(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если вы используете интерфейс **имфконтентенаблер** для обновления отозванных компонентов, необходимо уточнить процесс для пользователя. Это уточнение необходимо, так как процесс обновления отправляет данные с клиентского компьютера на веб-сайт корпорации Майкрософт.
 
@@ -136,12 +136,12 @@ HRESULT GetContentEnablersForRevocations(
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Вмдрмсдк. h</dt> </dl>   |
+| Заголовок<br/>  | <dl> <dt>Вмдрмсдк. h</dt> </dl>   |
 | Библиотека<br/> | <dl> <dt>Вмдрмсдк. lib</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

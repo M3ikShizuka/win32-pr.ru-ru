@@ -3,7 +3,7 @@ title: Сообщение TTM_SETDELAYTIME (Коммктрл. h)
 description: Задает начальную, всплывающую и отображаемую длительность для элемента управления ToolTip.
 ms.assetid: 0a73def0-550c-4d01-9cb1-1eb1f4356fa3
 keywords:
-- Элементы управления Windows для TTM_SETDELAYTIME сообщений
+- элементы управления Windows сообщений TTM_SETDELAYTIME
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 43b633dc75baa0a8f385cf8cdb9bf7e9fa254809
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 2dd5b4f3d20cd99872adeeb66776d71a1e4125a066890a3bab4793caf04de8f2
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103988670"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119914074"
 ---
 # <a name="ttm_setdelaytime-message"></a>\_Сообщение ТТМ сетделайтиме
 
@@ -60,7 +60,7 @@ ms.locfileid: "103988670"
 
 Возвращаемое значение для этого сообщения не используется.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Время задержки по умолчанию зависит от времени двойного щелчка. Для времени двойного щелчка по умолчанию 500 мс, начальное, аутопопное и повторно отображаемое время задержки равно 500 мс, 5000ms и 100 мс соответственно. В следующем фрагменте кода функция [**жетдаублекликктиме**](/windows/desktop/api/winuser/nf-winuser-getdoubleclicktime) используется для определения трех значений времени задержки для любой системы.
 
@@ -75,19 +75,19 @@ reshow = GetDoubleClickTime() / 5;
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

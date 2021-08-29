@@ -1,5 +1,5 @@
 ---
-title: Ограничения вложенности управления потоком
+title: Flow Управление ограничениями вложенности
 description: Инструкции управления потоком шейдера вершин имеют два специальных ограничения.
 ms.assetid: c9f80a97-8245-4974-a284-7974e2d2e504
 ms.topic: article
@@ -9,21 +9,21 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 4ebb5b491e074c2275081aa3fe629a2486a24c6b
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: d50d0e438357374069df7e884379fba98d819968fea1298ab85466123d69cc03
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103780027"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119854594"
 ---
-# <a name="flow-control-nesting-limits"></a>Ограничения вложенности управления потоком
+# <a name="flow-control-nesting-limits"></a>Flow Управление ограничениями вложенности
 
 Инструкции управления потоком шейдера вершин имеют два специальных ограничения. Глубина вложения ограничивает количество инструкций, которые могут быть вызваны внутри друг друга. Кроме того, каждая инструкция имеет число слотов инструкций, которое применяется к максимальному числу инструкций, поддерживаемых шейдером.
 
 > [!Note]  
 > При использовании \* \_ \_ \_ профилей шейдера с 4 уровнями \_ 9 \_ x HLSL вы неявно используете профили [шейдера 2. x](dx-graphics-hlsl-sm2.md) для поддержки аппаратного обеспечения с поддержкой Direct3D 9. Профили Shader модели 2. x поддерживают более ограниченное поведение управления потоком, чем профили [шейдера 4. x](dx-graphics-hlsl-sm4.md) и более поздних версий.
 
- 
+ 
 
 ## <a name="depth-count-per-instruction-for-vs_2_0"></a>Количество уровней глубины каждой инструкции для VS \_ 2 \_ 0
 
@@ -53,7 +53,7 @@ ms.locfileid: "103780027"
 
 
 
- 
+ 
 
 ### <a name="nesting-depth"></a>Глубина вложения
 
@@ -71,7 +71,7 @@ ms.locfileid: "103780027"
 
 
 
- 
+ 
 
 ## <a name="depth-count-per-instruction-for-vs_2_x"></a>Количество уровней глубины каждой инструкции для VS \_ 2 \_ x
 
@@ -101,7 +101,7 @@ ms.locfileid: "103780027"
 
 
 
- 
+ 
 
 ### <a name="nesting-depth"></a>Глубина вложения
 
@@ -119,7 +119,7 @@ ms.locfileid: "103780027"
 
 
 
- 
+ 
 
 ## <a name="depth-count-per-instruction-for-vs_2_sw"></a>Число глубин на инструкцию для VS \_ 2 \_ SW
 
@@ -149,7 +149,7 @@ ms.locfileid: "103780027"
 
 
 
- 
+ 
 
 ### <a name="nesting-depth"></a>Глубина вложения
 
@@ -167,7 +167,7 @@ ms.locfileid: "103780027"
 
 
 
- 
+ 
 
 ## <a name="depth-count-per-instruction-for-vs_3_0"></a>Число глубин на инструкцию для VS \_ 3 \_ 0
 
@@ -197,7 +197,7 @@ ms.locfileid: "103780027"
 
 
 
- 
+ 
 
 ### <a name="nesting-depth"></a>Глубина вложения
 
@@ -215,7 +215,7 @@ ms.locfileid: "103780027"
 
 
 
- 
+ 
 
 ## <a name="depth-count-per-instruction-for-vs_3_sw"></a>Число глубин на инструкцию для VS \_ 3 \_ SW
 
@@ -245,7 +245,7 @@ ms.locfileid: "103780027"
 
 
 
- 
+ 
 
 ### <a name="nesting-depth"></a>Глубина вложения
 
@@ -263,18 +263,18 @@ ms.locfileid: "103780027"
 
 
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Инструкции шейдера вершин](dx9-graphics-reference-asm-vs-instructions.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

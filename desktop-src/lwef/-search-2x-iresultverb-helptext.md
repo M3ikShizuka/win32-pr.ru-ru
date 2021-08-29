@@ -3,9 +3,9 @@ title: Свойство HelpText Иресултверб (Вдсшаредидл.
 description: Это свойство возвращает указатель на локализованную строку справки для команды.
 ms.assetid: 14e91101-5ee2-459a-97d7-35c76d3ba990
 keywords:
-- Свойства HelpText устаревшие функции среды Windows
-- Свойства HelpText устаревшие функции среды Windows, интерфейс Иресултверб
-- Интерфейс Иресултверб устаревшие функции среды Windows, свойство HelpText
+- свойства HelpText устаревшие Windows функции среды
+- свойства HelpText устаревшие Windows функции среды, интерфейс иресултверб
+- интерфейс иресултверб устаревшие функции среды Windows, свойство HelpText
 topic_type:
 - apiref
 api_name:
@@ -17,17 +17,17 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3a0615ea9cc62f3a5f207e7be2c2c4e80987239c
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: d314e9cd84382449273ddbfb0ee54ae9b6c7aa1fdb528cc33db4a85abd5ce02d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103801925"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120014314"
 ---
 # <a name="iresultverbhelptext-property"></a>Свойство Иресултверб:: HelpText
 
 > [!NOTE]
-> Windows Desktop Search 2. x — это устаревшая технология, которая изначально была доступна в качестве надстройки для Windows XP и Windows Server 2003. В более поздних выпусках используйте [API поиска Windows](../search/-search-reference-entry-page.md) . 
+> Windows настольный поиск 2. x — это устаревшая технология, которая изначально была доступна в качестве надстройки для Windows XP и Windows Server 2003. в более поздних выпусках используйте вместо этого [API Windows поиска](../search/-search-reference-entry-page.md) . 
 
 Это свойство возвращает указатель на локализованную строку справки для команды.
 
@@ -54,10 +54,10 @@ HRESULT get_HelpText(
 
 | Требование | Значение |
 |-------------------------------------|-------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для настольных приложений Windows XP с пакетом обновления 2 \[\]<br/>                                      |
-| Минимальная версия сервера<br/> | Только для настольных приложений Windows Server 2003 с пакетом обновления 1 \[\]<br/>                             |
-| Распространяемые компоненты<br/>          | Windows Desktop Search (WDS) версии 2.6.5<br/>                                             |
-| Header<br/>                   | <dl> <dt>Вдсшаредидл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows XP с пакетом обновления 2 (SP2) \[ только классические приложения\]<br/>                                      |
+| Минимальная версия сервера<br/> | Windows Только для настольных приложений сервера 2003 с пакетом обновления 1 \[\]<br/>                             |
+| Распространяемые компоненты<br/>          | Windows Поиск на рабочем столе (WDS) 2.6.5<br/>                                             |
+| Заголовок<br/>                   | <dl> <dt>Вдсшаредидл. h</dt> </dl> |
 
 
 

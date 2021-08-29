@@ -21,12 +21,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 1ee38b827aed2dfffe1e7ef4f5049b16eee50791
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: f987ee23b3dd7b65ec391e88200e59c86055e49a5cda23be4c529500359e789c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103895946"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119759524"
 ---
 # <a name="win32_printercontroller-class"></a>\_Класс Win32 принтерконтроллер
 
@@ -55,7 +55,7 @@ class Win32_PrinterController : CIM_ControlledBy
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ принтерконтроллер** имеет следующие свойства.
 
@@ -94,13 +94,13 @@ class Win32_PrinterController : CIM_ControlledBy
 
 </dt> <dd>
 
-Активна
+Активен
 
 </dd> <dt>
 
 <span id="2"></span>
 
-<span id="2"></span>**открыт**
+<span id="2"></span>**2**
 
 
 </dt> <dd>
@@ -209,7 +209,7 @@ class Win32_PrinterController : CIM_ControlledBy
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **Win32 \_ принтерконтроллер** является производным от [**CIM \_ контролледби**](cim-controlledby.md).
 

@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: a6873a6aee9e31b1f28ba2755b1869cddb177306
-ms.sourcegitcommit: fe03c5d92ca6a0d66a114b2303e99c0a19241ffb
+ms.openlocfilehash: ec879ad172b5cfc615a67797dd91c1461d844444326df6485b120179f6ecb74e
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "103784923"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119853874"
 ---
 # <a name="rep---ps"></a>Представитель-PS
 
@@ -29,11 +29,11 @@ ms.locfileid: "103784923"
 
 
 
- 
+ 
 
 где i \# — это целочисленный регистр, указывающий число повторов в компоненте. x. См. раздел [Постоянный целочисленный регистр](dx9-graphics-reference-asm-ps-registers-constant-integer.md).
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 
 
@@ -43,15 +43,15 @@ ms.locfileid: "103784923"
 
 
 
- 
+ 
 
 -   i \# . x указывает число итераций. Допустимый диапазон: \[ 0, 255 \] . Обратите внимание, что эта инструкция не увеличивает или не уменьшает значение i \# . x.
 -   i \# . ИЗВ не используются в блоке REPEAT.
--   Блоки Repeat могут быть вложенными. См. раздел [ограничения управления потоком](dx9-graphics-reference-asm-ps-instructions-flow-control.md).
+-   Блоки Repeat могут быть вложенными. см. раздел [ограничения управления Flow](dx9-graphics-reference-asm-ps-instructions-flow-control.md).
 -   Блоки Repeat могут быть либо полностью внутри \* блока if, либо полностью окружающи ее. Помещается в недопустимый.
 -   Использование одного и того же i \# для различных или вложенных инструкций — Точная — каждый цикл выполняет итерацию в зависимости от указанного числа.
 
-## <a name="example"></a>Например, .
+## <a name="example"></a>Пример
 
 
 ```
@@ -62,16 +62,16 @@ endrep
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Инструкции шейдера пикселей](dx9-graphics-reference-asm-ps-instructions.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 
