@@ -4,12 +4,12 @@ ms.assetid: 9a158c2b-da8e-4ca9-b3c1-2185cf41eb7d
 title: Журналы изменений
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fb5052ec87830a822270071a6ee00f1c3f7cffdd
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 1a7556a080e0e85a428a502bb77afcbffc3975b5255d2efed5158c008f30d928
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103912872"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119534104"
 ---
 # <a name="change-journals"></a>Журналы изменений
 

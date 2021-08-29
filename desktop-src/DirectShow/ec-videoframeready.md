@@ -4,12 +4,12 @@ ms.assetid: af6198be-9656-49a6-9598-b1c040be5a1a
 title: EC_VIDEOFRAMEREADY (DShow. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 776ab80f5ba3a9e01bf274c46a26d383767f37fc
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 87e462f15b56c8d0ed1a28518ad45c9d3e495dbbbc362728a9db3e79e48ae6a7
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105675782"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119291634"
 ---
 # <a name="ec_videoframeready"></a>EC \_ видеофрамереади
 
@@ -39,7 +39,7 @@ ms.locfileid: "105675782"
 
 ## <a name="remarks"></a>Remarks
 
-Устаревший фильтр [источника Windows Media](windows-media-source-filter.md) отправляет это событие. Новые фильтры не должны отсылать это событие.
+фильтр [источника Windows носителя](windows-media-source-filter.md) прежних версий отправляет это событие. Новые фильтры не должны отсылать это событие.
 
 ## <a name="requirements"></a>Требования
 
@@ -47,11 +47,11 @@ ms.locfileid: "105675782"
 
 | Требование | Значение |
 |-------------------|------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>DShow. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>DShow. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

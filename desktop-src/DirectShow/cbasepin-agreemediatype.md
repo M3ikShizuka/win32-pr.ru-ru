@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 6e5cdea12cb8bca3319f908fe697251a3d4699d8
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 60eff5a0654f991969f4d03cb6c8c975dfcc2d894b45fbb54f70bfea2870fadf
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105669311"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119872534"
 ---
 # <a name="cbasepinagreemediatype-method"></a>Кбасепин. Агримедиатипе, метод
 
@@ -72,7 +72,7 @@ virtual HRESULT AgreeMediaType(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если параметр *ПЛТ* не равен **null** и полностью указывает тип носителя, этот метод пытается подключиться с помощью этого типа носителя. Если попытка не удалась, метод возвращает ошибку.
 
@@ -89,7 +89,7 @@ virtual HRESULT AgreeMediaType(
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Амфилтер. h (включение Streams. h)</dt> </dl>                                                                                  |
+| Заголовок<br/>  | <dl> <dt>амфилтер. h (включает Потоки. h)</dt> </dl>                                                                                  |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 

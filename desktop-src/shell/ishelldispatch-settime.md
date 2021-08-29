@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Shell32.dll
-ms.openlocfilehash: 9c9e687ea89cad4715aeacf72a2a33792fba9f7a
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: b3505b618e8ca5d9f0f2415137247ac9a3edd53371c07dfe5ec92b7b6b502700
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103897910"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119714154"
 ---
 # <a name="ishelldispatchsettime-method"></a>Ишеллдиспатч. SetTime, метод
 
@@ -55,15 +55,15 @@ IShellDispatch.SetTime()
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Этот метод реализован и доступен через метод [**Shell. setTime**](shell-settime.md) .
 
 ## <a name="examples"></a>Примеры
 
-В следующих примерах показано использование **setTime** в JScript, VBScript и Visual Basic.
+в следующих примерах показано использование **SetTime** в JScript, VBScript и Visual Basic.
 
-Присутствовал
+JScript:
 
 
 ```JScript
@@ -117,7 +117,7 @@ Private Sub fnShellSetTimeVB()
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ классических приложений Windows XP\]<br/>                                         |
+| Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ настольных приложений Windows XP\]<br/>                                         |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                           |
 | Заголовок<br/>                   | <dl> <dt>Шлдисп. h</dt> </dl>                           |
 | IDL<br/>                      | <dl> <dt>Шлдисп. idl</dt> </dl>                         |

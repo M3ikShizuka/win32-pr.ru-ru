@@ -1,6 +1,6 @@
 ---
 title: Метод ID3DX11ThreadPump Аддворкитем (D3DX11core. h)
-description: Обратите внимание, что библиотека служебной программы D3DX (D3DX 9, D3DX 10 и D3DX 11) является устаревшей для Windows 8 и не поддерживается для приложений Магазина Windows. Добавляет рабочий элемент в конвейер потока.
+description: обратите внимание, что библиотека служебной программы D3DX (D3DX 9, D3DX 10 и D3DX 11) является устаревшей для Windows 8 и не поддерживается для приложений магазина Windows. Добавляет рабочий элемент в конвейер потока.
 ms.assetid: 2578506c-6175-457a-bf10-94929bb3c0c4
 keywords:
 - Метод Аддворкитем Direct3D 11
@@ -17,17 +17,17 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ebf249405bd71287f93444ae8d23dab694027360
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: bbf0fda0ef2410ea7bd2e08a350d1e56e85c1beb999568ccfa4a653db1e22212
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "104354273"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120119664"
 ---
 # <a name="id3dx11threadpumpaddworkitem-method"></a>Метод ID3DX11ThreadPump:: Аддворкитем
 
 > [!Note]  
-> Библиотека служебной программы D3DX (D3DX 9, D3DX 10 и D3DX 11) является устаревшей для Windows 8 и не поддерживается для приложений Магазина Windows.
+> библиотека служебной программы D3DX (D3DX 9, D3DX 10 и D3DX 11) является устаревшей для Windows 8 и не поддерживается для приложений магазина Windows.
 
  
 
@@ -99,12 +99,12 @@ HRESULT AddWorkItem(
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3DX11core. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3DX11core. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3DX11. lib</dt> </dl>   |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

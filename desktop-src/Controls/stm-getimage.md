@@ -3,7 +3,7 @@ title: Сообщение STM_GETIMAGE (Winuser. h)
 description: Приложение отправляет сообщение STM- \_ Image для получения маркера изображения (значка или точечного рисунка), связанного со статическим элементом управления.
 ms.assetid: eb5fe67a-09be-4c13-89c6-0e2f23e8c081
 keywords:
-- Элементы управления Windows для STM_GETIMAGE сообщений
+- элементы управления Windows сообщений STM_GETIMAGE
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 77fe0c3d00a2a957530160a5ce5a21b8a1cf84e9
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: c4ed6103934db21916f35b3ba6099da2592afe6ed12143a33d3c43314ebbb251
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104071177"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119216912"
 ---
 # <a name="stm_getimage-message"></a>\_Сообщение STM
 
@@ -66,9 +66,9 @@ ms.locfileid: "104071177"
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                                           |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включение Windows. h)</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                           |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 

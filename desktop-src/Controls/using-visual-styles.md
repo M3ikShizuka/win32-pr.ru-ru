@@ -4,12 +4,12 @@ description: В этом разделе описывается использо�
 ms.assetid: 8b06f9ce-702c-48f8-8cf3-2718a09b8d77
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fe7025bdf7c589649ac62bed7a4ea4f55c418940
-ms.sourcegitcommit: 5f33645661bf8c825a7a2e73950b1f4ea0f1cd82
+ms.openlocfilehash: fab04bacb2abd72fabd1606de84aa7a594f4d8c35be1f2b81abb445c96aa233e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "104134670"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119077758"
 ---
 # <a name="using-visual-styles-with-custom-and-owner-drawn-controls"></a>Использование стилей оформления с пользовательскими и Owner-Drawn элементами управления
 
@@ -17,7 +17,7 @@ ms.locfileid: "104134670"
 
 -   [Рисование элементов управления с помощью визуальных стилей](#drawing-controls-with-visual-styles)
 -   [Реагирование на изменения темы](#responding-to-theme-changes)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="drawing-controls-with-visual-styles"></a>Рисование элементов управления с помощью визуальных стилей
 
@@ -153,7 +153,7 @@ case WM_THEMECHANGED:
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -163,6 +163,6 @@ case WM_THEMECHANGED:
 [Стили оформления](themes-overview.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

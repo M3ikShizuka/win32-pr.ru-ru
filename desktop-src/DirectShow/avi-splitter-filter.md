@@ -4,12 +4,12 @@ ms.assetid: df3c7d11-7ecc-499a-af36-b74437e21999
 title: Фильтр разделителя AVI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 24335511e9b7b866c85792c2036a4d4b6d089f2a
-ms.sourcegitcommit: 63753fcfb0afbbe5ec283fb8316e62c2dc950f66
+ms.openlocfilehash: 9c090fdf7eda5b785d0d4b05e622e3b31bd0f8a14c15d8bf6df100e5b391aa88
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "107909662"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119814404"
 ---
 # <a name="avi-splitter-filter"></a>Фильтр разделителя AVI
 
@@ -34,7 +34,7 @@ ms.locfileid: "107909662"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот фильтр обычно подключается к фильтру [асинхронного файла](file-source--async--filter.md) на его входном ПИН-коде. Он может подключаться к любому фильтру, чей выходной ПИН-код поддерживает [**иасинкреадер**](/windows/desktop/api/Strmif/nn-strmif-iasyncreader) и предоставляет правильный тип носителя для входного ПИН-кода фильтра разделителя AVI.
 
@@ -58,9 +58,9 @@ ms.locfileid: "107909662"
 
 ### <a name="seeking"></a>Нужна
 
-Если файл содержит поток видео, разделитель AVI поддерживает поиск по номеру кадра. Чтобы включить поиск на основе кадров, вызовите [**имедиасикинг:: сеттимеформат**](/windows/desktop/api/Strmif/nf-strmif-imediaseeking-settimeformat) в [диспетчере графов фильтров](filter-graph-manager.md) со значением **\_ \_ кадр формата времени**.
+Если файл содержит поток видео, разделитель AVI поддерживает поиск по номеру кадра. чтобы включить поиск на основе кадров, вызовите [**имедиасикинг:: сеттимеформат**](/windows/desktop/api/Strmif/nf-strmif-imediaseeking-settimeformat) в [фильтре Graph Manager](filter-graph-manager.md) с помощью **параметра \_ формат \_ времени** значения.
 
-Если файл содержит аудиопоток, разделитель AVI поддерживает поиск по образцу числа. Чтобы включить поиск на основе образца, вызовите [**сеттимеформат**](/windows/desktop/api/Strmif/nf-strmif-imediaseeking-settimeformat) в диспетчере графа фильтров со значением **\_ \_ пример формата времени**.
+Если файл содержит аудиопоток, разделитель AVI поддерживает поиск по образцу числа. чтобы включить поиск на основе образца, вызовите [**сеттимеформат**](/windows/desktop/api/Strmif/nf-strmif-imediaseeking-settimeformat) в фильтре Graph Manager с помощью **\_ \_ примера формат времени** значения.
 
 В обоих случаях выходной ПИН-код для этого потока должен быть подключен к фильтру модуля подготовки отчетов.
 
@@ -68,7 +68,7 @@ ms.locfileid: "107909662"
 
 <dl> <dt>
 
-[Фильтры DirectShow](directshow-filters.md)
+[DirectShow Фильтрующ](directshow-filters.md)
 </dt> </dl>
 
  

@@ -4,12 +4,12 @@ ms.assetid: 0bc6b65b-4502-4c6f-a0f2-82a2bd444d1d
 title: Использование IAMVideoAccelerator в декодерах
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 436768b3561a999f6708ef4f6438b816e0ad303b
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 12918383808cfb492f010c7a99704111229ea551f5b7efe9d641aebab5786c3c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "103989902"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120102744"
 ---
 # <a name="how-decoders-use-iamvideoaccelerator"></a>Использование IAMVideoAccelerator в декодерах
 
@@ -18,16 +18,16 @@ ms.locfileid: "103989902"
 В этом разделе описывается общий порядок операций, которым должен следовать любой декодер при использовании этого интерфейса. Дополнительные сведения об декодерах, поддерживающих DirectX, можно найти в подокне [сопоставление видео DirectX с иамвидеоакцелератор](mapping-directx-video-acceleration-to-iamvideoaccelerator.md).
 
 > [!Note]  
-> Этот интерфейс доступен в Windows 2000 и более поздних версиях.
+> этот интерфейс доступен в Windows 2000 и более поздних версий.
 
  
 
-Интерфейс [**иамвидеоакцелератор**](/previous-versions/windows/desktop/api/videoacc/nn-videoacc-iamvideoaccelerator) предоставляется во входном закрепления [микшера наложения](overlay-mixer-filter.md) или микширования видео (VMR). Интерфейс [**иамвидеоакцелераторнотифи**](/previous-versions/windows/desktop/api/videoacc/nn-videoacc-iamvideoacceleratornotify) предоставляется на выходном ПИН-коде декодера. Последовательность событий для соединения с контактами фильтра выглядит следующим образом:
+интерфейс [**иамвидеоакцелератор**](/previous-versions/windows/desktop/api/videoacc/nn-videoacc-iamvideoaccelerator) предоставляется во входном контакте [наложения Mixer](overlay-mixer-filter.md) или с помощью формирователя микширования видео (VMR). Интерфейс [**иамвидеоакцелераторнотифи**](/previous-versions/windows/desktop/api/videoacc/nn-videoacc-iamvideoacceleratornotify) предоставляется на выходном ПИН-коде декодера. Последовательность событий для соединения с контактами фильтра выглядит следующим образом:
 
-1.  Диспетчер графов фильтров вызывает [**Ипин:: Connect**](/windows/desktop/api/Strmif/nf-strmif-ipin-connect) на выходном ПИН-коде фильтра декодера. [**\_ \_ Тип носителя AM**](/windows/win32/api/strmif/ns-strmif-am_media_type) является необязательным параметром.
+1.  фильтр Graph Manager вызывает [**ипин:: Подключение**](/windows/desktop/api/Strmif/nf-strmif-ipin-connect) в закрепление вывода фильтра декодера. [**\_ \_ Тип носителя AM**](/windows/win32/api/strmif/ns-strmif-am_media_type) является необязательным параметром.
     -   [**AM \_ \_Тип носителя**](/windows/win32/api/strmif/ns-strmif-am_media_type) — это структура данных, описывающая тип носителя. Он содержит идентификатор GUID мажортипе (который в нашем случае должен быть видео типа MEDIATYPE \_ ), идентификатор GUID подтипа (который в нашем случае должен быть GUID ускорителя) и множество других вещей. Одно из этих действий — идентификатор GUID типа, содержащий сведения о носителе, в том числе в нашем примере ширина и высота несжатого видеоизображения, скорее всего, в структуре [**MPEG1VIDEOINFO**](/previous-versions/windows/desktop/api/amvideo/ns-amvideo-mpeg1videoinfo), [**видеоинфохеадер**](/previous-versions/windows/desktop/api/amvideo/ns-amvideo-videoinfoheader), [**MPEG2VIDEOINFO**](/previous-versions/windows/desktop/api/dvdmedia/ns-dvdmedia-mpeg2videoinfo)или [**VIDEOINFOHEADER2**](/previous-versions/windows/desktop/api/dvdmedia/ns-dvdmedia-videoinfoheader2) .
     -   Структура [**\_ \_ типа мультимедиа AM**](/windows/win32/api/strmif/ns-strmif-am_media_type) , если она есть, предписывает декодеру работать с использованием указанного типа носителя, который может быть "полностью указан" или "частично указан". Если параметр полностью указан, декодер обычно просто пытается работать с этим типом носителя. Если указано частичное значение, будет предпринята попытка найти "полностью заданный" режим работы, который можно использовать для подключения способом, согласованным с "частично указанным" типом носителя.
-    -   Обычным способом поиска "полностью определенного" типа носителя, используемого для соединения, является простое выполнение по списку всех "полностью определенных" типов носителей, поддерживаемых выходным закреплением, который совместим с "частично заданным" типом носителя и пытается подключиться к ним до тех пор, пока они не будут успешными. Как правило, процесс будет похож \_ \_ , если в вызове [**Ипин:: Connect**](/windows/desktop/api/Strmif/nf-strmif-ipin-connect) не содержится тип носителя am, но с выходным закреплением необходимо проверить все типы носителей.
+    -   Обычным способом поиска "полностью определенного" типа носителя, используемого для соединения, является простое выполнение по списку всех "полностью определенных" типов носителей, поддерживаемых выходным закреплением, который совместим с "частично заданным" типом носителя и пытается подключиться к ним до тех пор, пока они не будут успешными. как правило, процесс будет похож на \_ \_ метод, если в вызове [**ипин:: Подключение**](/windows/desktop/api/Strmif/nf-strmif-ipin-connect) не содержится тип носителя AM, но с выходным закреплением необходимо проверить все типы носителей.
 2.  Если декодеру требуется проверить, поддерживается ли указанный [**\_ \_ тип носителя AM**](/windows/win32/api/strmif/ns-strmif-am_media_type) (включая GUID ускорителя), с помощью последующего входного ПИН-кода, он может вызвать [**Ипин:: куерякцепт**](/windows/desktop/api/Strmif/nf-strmif-ipin-queryaccept) (с идентификатором GUID ускорителя в качестве подтипа для **\_ \_ типа носителя AM**), или же можно просто попытаться подключиться к этому ПИН-коду, как описано в элементе 5 ниже.
 3.  Если декодер не знает, какие идентификаторы GUID ускорителя входных данных поддерживаются, и не желает предложить только некоторый конкретный идентификатор GUID ускорителя видео путем вызова [**Ипин:: куерякцепт**](/windows/desktop/api/Strmif/nf-strmif-ipin-queryaccept), декодер может вызвать [**Иамвидеоакцелератор:: жетвидеоакцелераторгуидс**](/previous-versions/windows/desktop/api/videoacc/nf-videoacc-iamvideoaccelerator-getvideoacceleratorguids) , чтобы получить список идентификаторов GUID ускорителей, поддерживаемых ПИН-кодом.
 4.  Для некоторых определенных идентификаторов GUID ускорителя можно вызвать [**иамвидеоакцелератор:: жетункомпформатссуппортед**](/previous-versions/windows/desktop/api/videoacc/nf-videoacc-iamvideoaccelerator-getuncompformatssupported) , чтобы получить список форматов пикселей **ддпикселформат** , которые можно использовать для визуализации определенного идентификатора GUID ускорителя видео. Возвращаемый список должен рассматриваться в порядке убывания приоритета (т. е. с наиболее предпочтительным форматом, указанным первым).
@@ -94,7 +94,7 @@ ms.locfileid: "103989902"
 4.  Чтобы отобразить кадр, декодер вызывает [**иамвидеоакцелератор::D исплайфраме**](/previous-versions/windows/desktop/api/videoacc/nf-videoacc-iamvideoaccelerator-displayframe) с индексом отображаемого кадра и структурой [**имедиасампле**](/windows/desktop/api/Strmif/nn-strmif-imediasample) , содержащей метки времени начала и окончания и соответствующие флаги, такие как **двтипеспеЦификфлагс** в структуре [**\_ \_ свойств SAMPLE2**](/windows/win32/api/strmif/ns-strmif-am_sample2_properties) , и **двинтерлацефлагс** в структуре [**VIDEOINFOHEADER2**](/previous-versions/windows/desktop/api/dvdmedia/ns-dvdmedia-videoinfoheader2) . Декодер должен убедиться, что все операции распаковки, влияющие на содержимое кадра, завершены перед вызовом **дисплайфраме**.
 5.  Наконец, после завершения всей обработки декодер должен указывать на завершение всех оставшихся выходных кадров, вызывая [**иамвидеоакцелератор:: ендфраме**](/previous-versions/windows/desktop/api/videoacc/nf-videoacc-iamvideoaccelerator-endframe) и освобождая все заблокированные буферы путем вызова [**Иамвидеоакцелератор:: релеасебуффер**](/previous-versions/windows/desktop/api/videoacc/nf-videoacc-iamvideoaccelerator-releasebuffer) для каждого неосвобожденного буфера.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

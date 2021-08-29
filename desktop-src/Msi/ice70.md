@@ -4,12 +4,12 @@ ms.assetid: f8493622-867b-42e1-9fda-a7c3229bbb4e
 title: ICE70
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 616592a772dec6f95d81b92f03f0bffea6ce7bf1
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: ecd76d38b796650346a8651fe5a3817edfaa412dfe7772f2dba9c0295f7eebdd
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105663975"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119649274"
 ---
 # <a name="ice70"></a>ICE70
 
@@ -63,7 +63,7 @@ The value #xz34 is an invalid hexadecimal value for registry entry Reg2.
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 -   \#\[\]недопустимое MyProperty.
 -   \#\[Недопустимое MyProperty (отсутствует закрывающая скобка).
@@ -71,7 +71,7 @@ The value #xz34 is an invalid hexadecimal value for registry entry Reg2.
 -   \#\]\[недопустимое MyProperty
 -   Любое внедренное свойство в строке значения не может иметь \[ \] форму $compkey, \[ \# филекэй \] или \[ ! филекэй, \] так как они не являются числовыми. Однако существует одно исключение: \# \[ MyProperty \] \[ $compkey \] (или \[ \# филекэй \] или \[ ! филекэй \] ) является допустимым, так как, как и в предыдущем, \[ MyProperty \] может вычислять \# str.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

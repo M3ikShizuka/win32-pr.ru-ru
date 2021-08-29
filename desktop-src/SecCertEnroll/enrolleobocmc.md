@@ -4,12 +4,12 @@ ms.assetid: 14cc76c9-0e2b-498f-b058-244af6e9111e
 title: енроллеобокмк
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ca888d949054d695056d42045335f17dfca2f4d3
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 74a9dbcddf5495f5a58d161e5bf086c737691b52312827d3420ca13a47440822
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104542682"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119882994"
 ---
 # <a name="enrolleobocmc"></a>енроллеобокмк
 
@@ -17,7 +17,7 @@ ms.locfileid: "104542682"
 
 ## <a name="location"></a>Расположение
 
-При установке пакета средств разработки программного обеспечения (SDK) для Microsoft Windows этот образец устанавливается по умолчанию в папке *% ProgramFiles%* \\ Microsoft SDK \\ Windows \\ v 7.0 \\ Samples \\ Security SSL \\ Certificate \\ \\ енроллеобокмк.
+при установке пакета microsoft Windows Software Development Kit (SDK) образец устанавливается по умолчанию в папке *% ProgramFiles%* \\ Microsoft sdk \\ Windows \\ v 7.0 \\ samples \\ Security ssl \\ Certificate \\ \\ енроллеобокмк.
 
 ## <a name="discussion"></a>Разговор
 
@@ -26,7 +26,7 @@ ms.locfileid: "104542682"
 1.  Обрабатывает следующие аргументы командной строки:
     -   Имя шаблона сертификата.
     -   Имя пользователя, запросившего сертификат.
-    -   Имя файла обмена личной информацией (PFX), в котором необходимо сохранить запрос.
+    -   имя файла личных данных Exchange (PFX), в котором необходимо сохранить запрос.
     -   Пароль для использования с PFX-файлом.
     -   Необязательное имя шаблона агента регистрации. Шаблон используется для создания сертификата агента регистрации, если он отсутствует в хранилище сертификатов.
 2.  Создает объект [**IX509CertificateRequestCmc**](/windows/desktop/api/CertEnroll/nn-certenroll-ix509certificaterequestcmc) и инициализирует его с помощью шаблона сертификата, указанного в командной строке.
@@ -39,7 +39,7 @@ ms.locfileid: "104542682"
 9.  Удаляет сертификат из хранилища сертификатов. Функции, используемые в следующем примере кода, можно найти в документации по CryptoAPI.
 10. Удаляет закрытый ключ с компьютера.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

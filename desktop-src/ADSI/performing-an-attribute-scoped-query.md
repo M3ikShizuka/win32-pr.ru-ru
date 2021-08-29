@@ -8,12 +8,12 @@ keywords:
 - ADSI, поиск, IDirectorySearch, другие параметры поиска, запрос области атрибута
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b10f5b666028c5fd46e7394b52a1328370e317bc
-ms.sourcegitcommit: b0ebdefc3dcd5c04bede94091833aa1015a2f95c
+ms.openlocfilehash: b40251665f487919ce22b78057c6026324b49e33764545b55c38310265474484
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "105654363"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119637804"
 ---
 # <a name="performing-an-attribute-scope-query"></a>Выполнение запроса к области атрибута
 
@@ -154,6 +154,6 @@ HRESULT SearchGroupMembers(LPCWSTR pwszGroupDN)
 
 Обработка ошибок: результаты запроса области атрибута могут охватывать несколько серверов, и сервер может не вернуть все данные, запрошенные для всех возвращенных строк. В этом случае, когда последняя строка извлекается путем вызова [**GetNextRow**](/windows/desktop/api/Iads/nf-iads-idirectorysearch-getnextrow) или [**жетфирстров**](/windows/desktop/api/Iads/nf-iads-idirectorysearch-getfirstrow), ADSI возвращает **S \_ ADS \_ еррорсоккурред**, а не в **\_ объявлениях \_ \_ строки**.
 
- 
+ 
 
- 
+ 

@@ -62,12 +62,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: e8979b4e4842a4c84317b456802ed8f1beefea35
-ms.sourcegitcommit: 1d3c59a7066a75facc0565027251cad1ca1dd9c9
+ms.openlocfilehash: e14e1fc7011b0e897601dc2f3f053d9d4f1944ef57ebc7bbd1c0500b233c9338
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/18/2021
-ms.locfileid: "107594169"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119854844"
 ---
 # <a name="semantics"></a>Семантика
 
@@ -247,7 +247,7 @@ ms.locfileid: "107594169"
 |-|-|
 | \_Глубина SV | DEPTH |
 | \_Расположение SV | POSITION |
-| \_Цель ОКП | Цвет |
+| \_Цель ОКП | COLOR |
 
 > [!] Примечание для разработчиков Direct3D 9: для целевых объектов Direct3D 9 семантика шейдера должна соответствовать допустимой семантике Direct3D 9. Для обратной совместимости POSITION0 (и ее имена вариантов) рассматривается как значение ОКП \_ , а Color — как \_ Цель ОКП.
 
@@ -281,7 +281,7 @@ float4 psMainD3D10( float4 screenSpace : SV_Position ) : COLOR
 
 ### <a name="user-clip-planes-in-hlsl"></a>Пользовательские плоскости в HLSL
 
-Начиная с Windows 8, атрибут функции **клиппланес** можно использовать в [ОБЪЯВЛЕНии функции](dx-graphics-hlsl-function-syntax.md) HLSL, а не в SV \_ клипдистанце, чтобы сделать шейдер на [уровне функций](../direct3d11/overviews-direct3d-11-devices-downlevel-intro.md) 9 x, а \_ также на уровне функций 10 и выше. Дополнительные сведения см. [в статье пользовательские ролики на устройствах на уровне компонентов 9](./user-clip-planes-on-10level9.md).
+начиная с Windows 8 можно использовать атрибут функции **клиппланес** в [объявлении функции](dx-graphics-hlsl-function-syntax.md) HLSL, а не в SV \_ клипдистанце, чтобы сделать шейдер на [уровне функций](../direct3d11/overviews-direct3d-11-devices-downlevel-intro.md) 9 x, а \_ также на уровне функций 10 и выше. Дополнительные сведения см. [в статье пользовательские ролики на устройствах на уровне компонентов 9](./user-clip-planes-on-10level9.md).
 
 ## <a name="related-topics"></a>Связанные темы
 

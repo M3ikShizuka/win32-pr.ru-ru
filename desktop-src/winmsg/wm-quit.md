@@ -4,12 +4,12 @@ ms.assetid: a9bff5dc-cab8-4e08-838e-d92c87c265d6
 title: Сообщение WM_QUIT (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f8e0d7413d65e9a0fb451fe63504f2ed5be02064
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 26f6b999ff23d964c1998fe1cc2a9991e11ecfe71760800b1d678e2f71b89273
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104080817"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119881524"
 ---
 # <a name="wm_quit-message"></a>\_Сообщение о выходе WM
 
@@ -46,13 +46,13 @@ ms.locfileid: "104080817"
 
 Это сообщение не имеет возвращаемого значения, так как оно приводит к завершению цикла обработки сообщений перед отправкой сообщения в процедуру окна приложения.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Сообщение **WM \_ Quit** не связано с окном и, следовательно, никогда не будет получено с помощью оконной процедуры окна. Он извлекается только с помощью функций [**PeekMessage**](/windows/win32/api/winuser/nf-winuser-peekmessagea) или функции WITH [**Message**](/windows/win32/api/winuser/nf-winuser-getmessage) .
 
 Не перемещайте сообщение **WM \_ Quit** с помощью функции [**onmessage**](/windows/win32/api/winuser/nf-winuser-postmessagea) ; используйте [**посткуитмессаже**](/windows/win32/api/winuser/nf-winuser-postquitmessage).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -60,11 +60,11 @@ ms.locfileid: "104080817"
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                               |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                     |
-| Заголовок<br/>                   | <dl> <dt>Winuser. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

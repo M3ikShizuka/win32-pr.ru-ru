@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Ndisnpp.dll
 - Rmtnpp.dll
-ms.openlocfilehash: 7587c2fff56d305c0298948bdf8690fd801f3f3b
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 297efb0e4410e6b138d41436ee6b546aaebcce3ae65e6ef0a2dd211deb05ee16
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108113482"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119495054"
 ---
 # <a name="istatsquerystatus-method"></a>Метод Истатс:: QueryStatus
 
@@ -67,7 +67,7 @@ HRESULT STDMETHODCALLTYPE QueryStatus(
 
 Этот метод можно вызвать в любое время после вызова метода [креатенппинтерфаце](createnppinterface.md) . Его можно вызвать, чтобы узнать, подключен ли НПП к сети, узнать состояние текущего захвата и проверить, ожидают ли какие-либо триггеры. Однако перед вызовом этого метода необходимо выделить память, необходимую для структуры [NETWORKSTATUS](networkstatus.md) , и освободить эту память, когда структура больше не нужна.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 

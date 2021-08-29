@@ -3,7 +3,7 @@ title: удалить команду
 description: Команда DELETE удаляет сегмент данных из файла. Эта команда распознает цифровые видеоролики и звуковые устройства аудио-видео.
 ms.assetid: 9cf084f6-d64e-4487-9407-b68502b7cec9
 keywords:
-- Удаление команды мультимедиа Windows
+- команда delete Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e356d4972384e676f2e521bd2ca102bb21d7ef2c
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 9fad34059ec75b0077fdc409cee8cd35a5495699
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103892582"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122468791"
 ---
 # <a name="delete-command"></a>удалить команду
 
@@ -53,39 +53,12 @@ _stprintf_s(
 
 
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Значение</th>
-<th>Значение</th>
-<th>Значение</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>дигиталвидео</td>
-<td><ul>
-<li>в <em>прямоугольнике</em></li>
-<li><em>поток</em> аудиопотока</li>
-<li>от <em>расположения</em></li>
-</ul></td>
-<td><ul>
-<li>в <em>Расположение</em></li>
-<li><em>поток</em> видео поток</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>вавеаудио</td>
-<td>от <em>расположения</em></td>
-<td>в <em>Расположение</em></td>
-</tr>
-</tbody>
-</table>
+
+| Значение | Значение | Значение | 
+|-------|---------|---------|
+| дигиталвидео | <ul><li>в <em>прямоугольнике</em></li><li><em>поток</em> аудиопотока</li><li>от <em>расположения</em></li></ul> | <ul><li>в <em>Расположение</em></li><li><em>поток</em> видео поток</li></ul> | 
+| вавеаудио | от <em>расположения</em> | в <em>Расположение</em> | 
+
 
 
 
@@ -143,7 +116,7 @@ delete mysound from 1 to 900
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

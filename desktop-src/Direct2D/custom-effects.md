@@ -4,12 +4,12 @@ description: Описание процесса написания собстве
 ms.assetid: 5D22CA84-6465-4882-863D-81A632ACDD9C
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: eca6b15fe81ff4ccbd6cebbcee8c0d1955967056
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: e14067ebeb7e52a521d7d46d210b79e37cb4377b3f763cb99e63b9e426bf805e
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104134527"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119814962"
 ---
 # <a name="custom-effects"></a>Пользовательские эффекты
 
@@ -392,7 +392,7 @@ PCWSTR pszXml =
 
 
 
- 
+ 
 
 ### <a name="map-the-new-property-to-getter-and-setter-methods"></a>Сопоставьте новое свойство с методами getter и Set
 
@@ -775,7 +775,7 @@ private:
 
 ### <a name="creating-a-guid-for-the-pixel-shader"></a>Создание идентификатора GUID для шейдера пикселей
 
-Затем преобразование должно определить уникальный идентификатор GUID для самого построителя текстуры. Это используется, когда [Direct2D](./direct2d-portal.md) загружает шейдер в память, а также когда преобразование выбирает, какой шейдер пикселей использовать для выполнения. Такие средства, как guidgen.exe, включенные в Visual Studio, можно использовать для создания случайного идентификатора GUID.
+Затем преобразование должно определить уникальный идентификатор GUID для самого построителя текстуры. Это используется, когда [Direct2D](./direct2d-portal.md) загружает шейдер в память, а также когда преобразование выбирает, какой шейдер пикселей использовать для выполнения. такие средства, как guidgen.exe, включенные в Visual Studio, можно использовать для создания случайного идентификатора GUID.
 
 
 ```C++
@@ -793,7 +793,7 @@ DEFINE_GUID(GUID_SamplePixelShader, 0x00000000, 0x0000, 0x0000, 0x00, 0x00, 0x00
 
 Построитель текстуры необходимо загрузить в память, прежде чем его можно будет использовать в преобразовании.
 
-Чтобы загрузить шейдер пикселей в память, преобразование должно считать скомпилированный байтовый код шейдера из. Файл CSO, созданный Visual Studio (подробные сведения см. в документации по [Direct3D](/windows/desktop/direct3d11/atoc-dx-graphics-direct3d-11) ), в массив байтов. Этот метод подробно описан в [примере D2DCUSTOMEFFECTS SDK](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/D2DCustomEffects).
+Чтобы загрузить шейдер пикселей в память, преобразование должно считать скомпилированный байтовый код шейдера из. файл CSO, созданный Visual Studio (подробные сведения см. в документации по [Direct3D](/windows/desktop/direct3d11/atoc-dx-graphics-direct3d-11) ) в массив байтов. Этот метод подробно описан в [примере D2DCUSTOMEFFECTS SDK](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/D2DCustomEffects).
 
 После загрузки данных шейдера в массив байтов вызовите метод [**лоадпикселшадер**](/windows/win32/api/d2d1effectauthor/nf-d2d1effectauthor-id2d1effectcontext-loadpixelshader) объекта [**ID2D1EffectContext**](/windows/win32/api/d2d1effectauthor/nn-d2d1effectauthor-id2d1effectcontext) результата. [Direct2D](./direct2d-portal.md) игнорирует вызовы **лоадпикселшадер** , если уже загружен шейдер с таким же идентификатором GUID.
 
@@ -1389,13 +1389,13 @@ void main(
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Пример пакета SDK для D2DCustomEffects](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/D2DCustomEffects)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

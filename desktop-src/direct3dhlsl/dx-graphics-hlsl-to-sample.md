@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 2374063d222d06576f720fed2aa7fb714bcccf04
-ms.sourcegitcommit: adba238660d8a5f4fe98fc6f5d105d56aac3a400
+ms.openlocfilehash: 473a68c44f7e98f1a2d1e1e90711585804482e0d
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "111825751"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122624110"
 ---
 # <a name="sample-directx-hlsl-texture-object"></a>Пример (объект текстуры HLSL DirectX)
 
@@ -26,13 +26,13 @@ ms.locfileid: "111825751"
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col  />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
 <th>Элемент</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>
@@ -102,7 +102,7 @@ ms.locfileid: "111825751"
 </tr>
 <tr class="even">
 <td>Текстурекубе, Текстурекубеаррай </td>
-<td>не поддерживается</td>
+<td>Не поддерживается</td>
 </tr>
 </tbody>
 </table>

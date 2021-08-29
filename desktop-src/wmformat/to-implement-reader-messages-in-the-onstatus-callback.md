@@ -13,16 +13,16 @@ keywords:
 - Метод обратного вызова OnStatus, реализация сообщений читателя
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 384cf8df8628efa9bd2cc17920dc6b1303655691
-ms.sourcegitcommit: 48d1c892045445bcbd0f22bafa2fd3861ffaa6e7
+ms.openlocfilehash: 05865d07c94f34807b35e46c625a2c82d943aaca37da77b90a6d94b3d1cace84
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/19/2020
-ms.locfileid: "104069556"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119084061"
 ---
 # <a name="to-implement-reader-messages-in-the-onstatus-callback"></a>Реализация сообщений модуля чтения в обратном вызове OnStatus
 
-Чтобы использовать асинхронное средство чтения для доставки содержимого из ASF-файла, необходимо реализовать как минимум два метода обратного вызова — [**ивмстатускаллбакк:: OnStatus**](/previous-versions/windows/desktop/api/Wmsdkidl/nf-wmsdkidl-iwmstatuscallback-onstatus) и [**ивмреадеркаллбакк:: OnStatus**](/previous-versions/windows/desktop/api/Wmsdkidl/nf-wmsdkidl-iwmreadercallback-onsample). В этом разделе описывается, как реализовать **ивмстатускаллбакк:: OnStatus** для получения сообщений о состоянии, отправленных модулем чтения, и реагирования на них. **OnStatus** используется другими объектами в пакете SDK формата Windows Media. Общие сведения о **OnStatus** см. [в разделе Использование обратного вызова OnStatus](using-the-onstatus-callback.md).
+Чтобы использовать асинхронное средство чтения для доставки содержимого из ASF-файла, необходимо реализовать как минимум два метода обратного вызова — [**ивмстатускаллбакк:: OnStatus**](/previous-versions/windows/desktop/api/Wmsdkidl/nf-wmsdkidl-iwmstatuscallback-onstatus) и [**ивмреадеркаллбакк:: OnStatus**](/previous-versions/windows/desktop/api/Wmsdkidl/nf-wmsdkidl-iwmreadercallback-onsample). В этом разделе описывается, как реализовать **ивмстатускаллбакк:: OnStatus** для получения сообщений о состоянии, отправленных модулем чтения, и реагирования на них. **onstatus** используется другими объектами в пакете SDK для Windows Media Format. Общие сведения о **OnStatus** см. [в разделе Использование обратного вызова OnStatus](using-the-onstatus-callback.md).
 
 При использовании асинхронного модуля чтения необходимо выполнить перехват следующих сообщений в **ивмстатускаллбакк:: OnStatus**.
 
@@ -35,13 +35,13 @@ ms.locfileid: "104069556"
 
 
 
- 
+ 
 
 Для управления выполнением приложения чтения следует использовать перечисленные выше сообщения о состоянии. Например, необходимо дождаться получения открытого сообщения **ВМТ \_** для запуска средства чтения или вызвать другие методы, требующие готовности файла для чтения. Часто приложения, созданные с помощью асинхронного модуля чтения, используют событие для сигнализации о завершении асинхронных вызовов и продолжают обработку. Дополнительные сведения об использовании событий для сигнализации о завершении операций см. [в разделе Использование событий с асинхронными вызовами](using-events-with-asynchronous-calls.md).
 
 Многие другие сообщения отправляются в **OnStatus** объектом Reader, чтобы приложение отвечало на состояние операций чтения. Возможные значения сообщения о состоянии определены в типе перечисления [**\_ состояния ВМТ**](/previous-versions/windows/desktop/api/Wmsdkidl/ne-wmsdkidl-wmt_status) .
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -54,9 +54,9 @@ ms.locfileid: "104069556"
 [**Использование обратного вызова OnStatus**](using-the-onstatus-callback.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

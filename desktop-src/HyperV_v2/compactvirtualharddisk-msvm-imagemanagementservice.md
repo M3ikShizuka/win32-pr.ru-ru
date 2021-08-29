@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - vmms.exe
-ms.openlocfilehash: 8e8c148e51105d8c78021b58366e2f2df3913f57
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 74e27aa21693a18ce5cc65c8f878496e794fb8ada8aa32082c70d771cb8522ca
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105683761"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119532684"
 ---
 # <a name="compactvirtualharddisk-method-of-the-msvm_imagemanagementservice-class"></a>Метод Компактвиртуалхарддиск \_ класса) мсвм
 
@@ -153,7 +153,7 @@ uint32 CompactVirtualHardDisk(
 **Файл не найден** (32779)
 </dt> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 С этим методом можно использовать только следующие типы виртуальных жестких дисков:
 
@@ -213,21 +213,21 @@ public static void CompactVirtualHardDisk(string vhdPath, VirtualHardDiskCompact
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 8\]<br/>                                                              |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2012\]<br/>                                                    |
+| Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                                              |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                                    |
 | Пространство имен<br/>                | Корневая \\ виртуализация \\ версии 2<br/>                                                                     |
 | MOF<br/>                      | <dl> <dt>Виндовсвиртуализатион. v2. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Vmms.exe</dt> </dl>                     |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
