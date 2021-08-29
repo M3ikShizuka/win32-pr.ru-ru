@@ -4,12 +4,12 @@ ms.assetid: 8771a5f9-878b-43fd-8eaa-0bfc276194aa
 title: Свойство Авдекдддинамикранжескалехигх (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 521cd631d92db73f23c7018adeda9bd321d23c1a
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 725737b797d969d46293a9bf9e8f6d590e9fc51ac01d530fed6b8bc59c651629
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "104495462"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120103534"
 ---
 # <a name="avdecdddynamicrangescalehigh-property"></a>Авдекдддинамикранжескалехигх, свойство
 
@@ -40,7 +40,7 @@ ms.locfileid: "104495462"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это свойство применяется только в том случае, если свойство [**авдекддоператионалмоде**](avdecddoperationalmode-property.md) имеет значение еавдекддоператионалмоде \_ line.
 
@@ -50,13 +50,13 @@ ms.locfileid: "104495462"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Приложения Windows 2000 Professional \[ классические приложения \| UWP\]<br/>                     |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows 2000 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 2000 Professional приложения \[ UWP для классических приложений \|\]<br/>                     |
+| Минимальная версия сервера<br/> | \[приложения UWP для классических приложений Windows 2000 \|\]<br/>                           |
+| Заголовок<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

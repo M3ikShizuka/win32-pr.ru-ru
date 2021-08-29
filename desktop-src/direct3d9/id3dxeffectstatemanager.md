@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: fad9df739634625800c0a21fd9ba2a2823d70f8e
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: 38fa6affff27c77fcebc4f8417ca3fd4bd8165fb0597c09ea8d34af79ff4b7d4
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "104355230"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119893584"
 ---
 # <a name="id3dxeffectstatemanager-interface"></a>Интерфейс ID3DXEffectStateManager
 
@@ -67,7 +67,7 @@ ms.locfileid: "104355230"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Пользователь создает интерфейс ID3DXEffectStateManager, реализуя класс, производный от этого интерфейса, и реализуя все методы интерфейса. После создания интерфейса можно получить или задать диспетчер состояний в рамках действия с помощью [**ID3DXEffect:: жетстатеманажер**](id3dxeffect--getstatemanager.md) и [**ID3DXEffect:: сетстатеманажер**](id3dxeffect--setstatemanager.md).
 
@@ -81,18 +81,18 @@ typedef interface ID3DXEffectStateManager *LPD3DXEFFECTSTATEMANAGER;
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3DX9Effect. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3DX9Effect. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>     |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

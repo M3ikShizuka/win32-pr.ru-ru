@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 50f9eb201b1338dd4da9340519f88eab6c16c431
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 535fa1cb8ab4704a3b4d3d8df3baa43d1b092e56f53f31cd76e14bd67509cbfe
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104262540"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119547774"
 ---
 # <a name="compress-method-of-the-win32_codecfile-class"></a>Метод сжатия \_ класса Win32 кодекфиле
 
@@ -91,7 +91,7 @@ uint32 Compress();
 **12**
 </dt> <dd>
 
-Платформа не является Windows.
+Платформа не Windows.
 
 </dd> <dt>
 
@@ -137,7 +137,7 @@ uint32 Compress();
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -151,7 +151,7 @@ uint32 Compress();
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

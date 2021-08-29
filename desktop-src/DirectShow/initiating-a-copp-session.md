@@ -4,12 +4,12 @@ ms.assetid: c84a83b4-51b2-4b46-860f-d740b42323fa
 title: Запуск сеанса Копп
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 53d64ef848874aee95d3f928a5b8bb637323a92a
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 72e3d952e7e938eee3eef27663ea075b3a5b23d4e61ef9f9fd0ea9b5395708cf
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "104140375"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119748674"
 ---
 # <a name="initiating-a-copp-session"></a>Запуск сеанса Копп
 
@@ -172,7 +172,7 @@ if (SUCCEEDED(hr))
 
 Если этот метод завершился удачно, вы можете отправить драйверу команды Копп и запросы о состоянии.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 902325890b02416e796940388bca7a6548773be5
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 756166fe1e28ec3cd0eef3676caafd8c00c854f18b5f6d179dd12ded18dd4fa6
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108118132"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119750114"
 ---
 # <a name="d3dxmatrixrotationy-function-d3dx9mathh"></a>Функция D3DXMatrixRotationY (D3dx9math. h)
 
@@ -75,12 +75,12 @@ D3DXMATRIX* D3DXMatrixRotationY(
 
 | Требование | Значение |
 |--------------------|----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3dx9math. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3dx9math. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>   |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - Schema
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8554862d927e7011c616130b6cf4a4c298f2557a
-ms.sourcegitcommit: b77ace27b0432e7cd3863191b11926be032fbe2f
+ms.openlocfilehash: ff647a129bfcc0c534f223e32a078ad91b532f086e3c2087083758dd8a71404c
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "104262248"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119704894"
 ---
 # <a name="ms-kds-createtime-attribute"></a>атрибут MS-KDS-Креатетиме
 
@@ -36,7 +36,7 @@ ms.locfileid: "104262248"
 | Частота обновления  | \-                                   |
 | Attribute-Id      | 1.2.840.113556.1.4.2179              |
 | System-ID — GUID    | ae18119f-6390-0045-B32D-97dbc701aef7 |
-| Синтаксис            | [**Пределах**](s-interval.md)       |
+| Синтаксис            | [**Интервал**](s-interval.md)       |
 
 
 
@@ -53,7 +53,7 @@ ms.locfileid: "104262248"
 | Идентификатор ссылки                | \-                                                            |
 | MAPI-Id                | \-                                                            |
 | System-Only            | Неверно                                                         |
-| Является однозначным       | True                                                          |
+| Является однозначным       | Верно                                                          |
 | Индексируется             | Неверно                                                         |
 | В глобальном каталоге      | Неверно                                                         |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                  |

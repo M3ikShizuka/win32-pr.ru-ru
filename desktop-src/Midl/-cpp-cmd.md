@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1ad693f8dbf3ddc7acda6539b89930972ca81a87
-ms.sourcegitcommit: 57758ecb246c84d65e6e0e4bd5570d9176fa39cd
+ms.openlocfilehash: 2b4510f175de35bb67b5986878330866fe86445a3145a7f10d951afb03805cbe
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "103784233"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119896103"
 ---
 # <a name="cpp_cmd-switch"></a>/КПП \_ cmd Switch
 
@@ -38,7 +38,7 @@ midl /cpp_cmd "C_preprocessor_binary"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 *\_ \_ Двоичный аргумент препроцессора C* для параметра может указывать полный путь; суффикс exe и кавычки являются необязательными. Как правило, разработчики используют параметр, чтобы выбрать конкретную версию препроцессора Microsoft C/C++ или аналог в среде сборки. В этом случае нет необходимости использовать параметр [**/КПП \_ OPT**](-cpp-opt.md) с **/КПП \_ cmd**.
 
@@ -63,7 +63,7 @@ midl /cpp_cmd "C_preprocessor_binary"
 
 
 
- 
+ 
 
 ## <a name="examples"></a>Примеры
 
@@ -75,7 +75,7 @@ midl /cpp_cmd "C_preprocessor_binary"
 
 **MIDL/КПП \_ cmd "CL"/КПП \_ OPT "/e/ДФЛАГ = true/ИК: \\ Inc" имя_файла. idl**
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
@@ -94,9 +94,9 @@ midl /cpp_cmd "C_preprocessor_binary"
 [Требования к препроцессору C-препроцессор для MIDL](c-preprocessor-requirements-for-midl.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

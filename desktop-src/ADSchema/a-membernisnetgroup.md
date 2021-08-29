@@ -13,12 +13,12 @@ api_type:
 - Schema
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7dc5406ddbc942e240073124621990e9e559309e
-ms.sourcegitcommit: b77ace27b0432e7cd3863191b11926be032fbe2f
+ms.openlocfilehash: 484404f6c598d8e4852a2804aa0672c4244c0276151ed69ca1d011668b2d1ffe
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "104536059"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119300464"
 ---
 # <a name="membernisnetgroup-attribute"></a>атрибут Мемберниснетграуп
 

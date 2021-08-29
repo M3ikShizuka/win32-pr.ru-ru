@@ -17,18 +17,18 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 6d2e02f9d8ca5de72a612a2ac5e7049cd2719f71
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.openlocfilehash: a98da135b622c5e35b64892bdd2a2374d5973b52
+ms.sourcegitcommit: 4e94fc75fad7b2a0f3c92a26f97e89924e59b7a9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122628413"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "122786132"
 ---
 # <a name="span-idvspixengineiobjecttablerequestspaniobjecttablerequest-interface"></a><span id="vspixengine.iobjecttablerequest"></span>Интерфейс Иобжекттаблерекуест
 
 Запрос данных таблицы объектов.
 
-## <a name="members"></a>Участники
+## <a name="members"></a>Элементы
 
 Интерфейс **иобжекттаблерекуест** наследует от интерфейса [**IUnknown**](/windows/desktop/api/unknwn/nn-unknwn-iunknown) . **Иобжекттаблерекуест** также имеет следующие типы членов:
 
@@ -38,7 +38,7 @@ ms.locfileid: "122628413"
 
 Интерфейс **иобжекттаблерекуест** содержит следующие методы.
 
-<table><colgroup><col  /><col  /></colgroup><thead><tr class="header"><th style="text-align: left;">Метод</th><th style="text-align: left;">Описание</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><a href="/windows/desktop/direct3dtools/iobjecttablerequest-requestasync-dword-dword-dword-arr-iobjecttablecallback-ptr-dword-dword"><strong>рекуестасинк</strong></a></td><td style="text-align: left;"><p>Запрашивает получение указанных сведений из таблицы объектов для указанного события.</p></td></tr><tr class="even"><td style="text-align: left;"><a href="/windows/desktop/direct3dtools/iobjecttablerequest-requestsupportedcolumnsasync-iobjecttablecallback-ptr-dword"><strong>рекуестсуппортедколумнсасинк</strong></a></td><td style="text-align: left;"><p>Запросы на получение сведений о столбцах (полях), поддерживаемых типом запроса этой таблицы объектов.</p></td></tr></tbody></table>
+<table><colgroup><col  /><col  /></colgroup><thead><tr class="header"><th >Метод</th><th >Описание</th></tr></thead><tbody><tr class="odd"><td ><a href="/windows/desktop/direct3dtools/iobjecttablerequest-requestasync-dword-dword-dword-arr-iobjecttablecallback-ptr-dword-dword"><strong>рекуестасинк</strong></a></td><td ><p>Запрашивает получение указанных сведений из таблицы объектов для указанного события.</p></td></tr><tr class="even"><td ><a href="/windows/desktop/direct3dtools/iobjecttablerequest-requestsupportedcolumnsasync-iobjecttablecallback-ptr-dword"><strong>рекуестсуппортедколумнсасинк</strong></a></td><td ><p>Запросы на получение сведений о столбцах (полях), поддерживаемых типом запроса этой таблицы объектов.</p></td></tr></tbody></table>
 
  
 

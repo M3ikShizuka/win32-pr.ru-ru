@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 4a3704507405ebb2d310ed7341cd1db174e00588
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 31ef4494f9bd4f87ae32cc9e7c9220b3c4300678c44d5b4c834110e149357d43
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108097102"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119547404"
 ---
 # <a name="deleteex-method-of-the-cim_directory-class"></a>Метод Делетикс \_ класса каталога CIM
 
@@ -82,7 +82,7 @@ uint32 DeleteEx(
 
 2
 
-Access denied. (Недопустимое значение {значение_утверждения} для утверждения {имя_утверждения}. Доступ запрещен.)
+Доступ запрещен.
 
 </dd> <dt>
 
@@ -191,7 +191,7 @@ Access denied. (Недопустимое значение {значение_ут
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 

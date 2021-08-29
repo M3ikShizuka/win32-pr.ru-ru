@@ -17,18 +17,18 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: e4c56fea2c458076ff91c5acdca3f22dcdfc830e
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.openlocfilehash: 40d56b27c4c59e1931cf11ce2073c5a907f72398
+ms.sourcegitcommit: 4e94fc75fad7b2a0f3c92a26f97e89924e59b7a9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122631702"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "122786138"
 ---
 # <a name="span-idvspixengineiframelistrequestspaniframelistrequest-interface"></a><span id="vspixengine.iframelistrequest"></span>Интерфейс Ифрамелистрекуест
 
 Запрос списка кадров с идентификатором события и номером кадра.
 
-## <a name="members"></a>Участники
+## <a name="members"></a>Элементы
 
 Интерфейс **ифрамелистрекуест** наследует от интерфейса [**IUnknown**](/windows/desktop/api/unknwn/nn-unknwn-iunknown) . **Ифрамелистрекуест** также имеет следующие типы членов:
 
@@ -38,7 +38,7 @@ ms.locfileid: "122631702"
 
 Интерфейс **ифрамелистрекуест** содержит следующие методы.
 
-<table><colgroup><col  /><col  /></colgroup><thead><tr class="header"><th style="text-align: left;">Метод</th><th style="text-align: left;">Описание</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><a href="/windows/desktop/direct3dtools/iframelistrequest-requestasync-iframelistcallback-ptr-dword-dword"><strong>рекуестасинк</strong></a></td><td style="text-align: left;"><p>Асинхронный запрос на получение списка кадров, захваченных в журнале графики.</p></td></tr></tbody></table>
+<table><colgroup><col  /><col  /></colgroup><thead><tr class="header"><th >Метод</th><th >Описание</th></tr></thead><tbody><tr class="odd"><td ><a href="/windows/desktop/direct3dtools/iframelistrequest-requestasync-iframelistcallback-ptr-dword-dword"><strong>рекуестасинк</strong></a></td><td ><p>Асинхронный запрос на получение списка кадров, захваченных в журнале графики.</p></td></tr></tbody></table>
 
  
 

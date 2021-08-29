@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 3ec98f2d3db89418e0d9ec4c494d13b6e3d5dbba
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 54b801acebe4e86281a8f745f83418ae3ac770268919b874fbbdbe30c9a1fc0b
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108093120"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119747804"
 ---
 # <a name="id3dxprtcompbuffergetnumcoeffs-method"></a>Метод ID3DXPRTCompBuffer:: Жетнумкоеффс
 
@@ -50,12 +50,12 @@ UINT GetNumCoeffs();
 
 | Требование | Значение |
 |--------------------|----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3DX9Mesh. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3DX9Mesh. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>   |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

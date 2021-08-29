@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - IACom.dll
-ms.openlocfilehash: ba9bbcd029803e613fb27d351de554c013c02616
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: ac39338e2701011165bd3da476b9e664332e3abb134bdbf4eca64106effb3840
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104343715"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119596763"
 ---
 # <a name="iinkanalysisrecognizers-interface"></a>Интерфейс Иинканалисисрекогнизерс
 
@@ -45,26 +45,26 @@ ms.locfileid: "104343715"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Метод [**иинканализер:: Жетинканалисисрекогнизерсбиприорити метода**](iinkanalyzer-getinkanalysisrecognizersbypriority.md) [**Иинканализер**](iinkanalyzer.md) Возвращает коллекцию **иинканалисисрекогнизерс** , содержащую Распознаватели рукописного ввода, доступные на текущем планшетном ПК.
 
 Для распознавателя языка метод [**иинканалисисрекогнизер::**](iinkanalysisrecognizer-getlanguages.md) возвращает непустой массив. Для распознавателей жестов и распознавателей объектов метод **иинканалисисрекогнизер::** GetObject возвращает пустой массив.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только классические приложения Windows XP Tablet PC Edition \[\]<br/>                                                 |
+| Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                                                 |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                                     |
-| Header<br/>                   | <dl> <dt>Иаком. h (также требуется Иаком \_ i. c)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Иаком. h (также требуется Иаком \_ i. c)</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>IACom.dll</dt> </dl>                          |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3d9types.h
-ms.openlocfilehash: b49a589fa1702f61e5a5daef806a5b36d464d0ec
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: 230c750c36b9241f6aa4840daf6a4f3a512d42a5dcd899bc555b44a48cb3ac53
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "104273830"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119750924"
 ---
 # <a name="d3dpresentstats-structure"></a>Структура D3DPRESENTSTATS
 
@@ -98,7 +98,7 @@ typedef struct _D3DPRESENTSTATS {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Когда приложение 9Ex применяет режим перелистывания (D3DSWAPEFFECT \_ флипекс), приложения могут обнаруживать удаление кадров, вызывая жетпресентстатистикс в любой момент времени. Фактически они могут выполнять следующие действия.
 
@@ -163,7 +163,7 @@ typedef struct _D3DPRESENTSTATS {
 
 | Требование | Значение |
 |-------------------|----------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3d9types. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3d9types. h</dt> </dl> |
 
 
 

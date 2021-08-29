@@ -4,12 +4,12 @@ ms.assetid: 23002d02-cf8f-489b-a50f-4a18ac091825
 title: ХРЕКОГНИЗЕР и ХРЕКОКОНТЕКСТ
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 12af1bb5569a22a612f0a3ed667a55aac81da2c9
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 4ea6f9f4facae72186d1faba09b3e7d9d667983fea92b8397f53d5896d7de298
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105711153"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119597214"
 ---
 # <a name="hrecognizer-and-hrecocontext"></a>ХРЕКОГНИЗЕР и ХРЕКОКОНТЕКСТ
 
@@ -36,7 +36,7 @@ ms.locfileid: "105711153"
 
 Чтобы распознать новый рукописный ввод, создайте новый контекст. В качестве альтернативы можно использовать функцию [**клонеконтекст**](/windows/desktop/api/recapis/nf-recapis-clonecontext) для создания копии контекста, не имеющего рукописных данных и результатов, или функции [**ресетконтекст**](/windows/desktop/api/recapis/nf-recapis-resetcontext) для очистки контекста рукописного ввода и результатов. С помощью этих подходов приложение рукописного ввода может повторно использовать контекст.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

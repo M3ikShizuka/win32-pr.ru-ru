@@ -4,12 +4,12 @@ ms.assetid: 3d349c83-8b1a-4a5b-9625-be905d613b92
 title: Использование функций пула потоков
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bc4492913af54241c3480f6550af7e943e31495a
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 682d6c81f338861660a9b3be7bfb2d40ebd414c65faa040f7bcf3619f6256cf8
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104156507"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120101894"
 ---
 # <a name="using-the-thread-pool-functions"></a>Использование функций пула потоков
 
@@ -374,7 +374,7 @@ int main( void)
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

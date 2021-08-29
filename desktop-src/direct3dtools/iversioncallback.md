@@ -17,18 +17,18 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 905c6f085695ba20b7cdd3a363c3af5a833d598a
-ms.sourcegitcommit: 4e94fc75fad7b2a0f3c92a26f97e89924e59b7a9
+ms.openlocfilehash: bd256ac6114eedcb327cd4ad7afdddf148db6c60
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "122787490"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122629567"
 ---
 # <a name="span-idvspixengineiversioncallbackspaniversioncallback-interface"></a><span id="vspixengine.iversioncallback"></span>Интерфейс Иверсионкаллбакк
 
 Обратный вызов для возврата версий всех поддерживаемых интерфейсов. Это позволяет потребителю не синхронизироваться с подсистемой захвата.
 
-## <a name="members"></a>Элементы
+## <a name="members"></a>Участники
 
 Интерфейс **иверсионкаллбакк** наследует от интерфейса [**IUnknown**](/windows/desktop/api/unknwn/nn-unknwn-iunknown) . **Иверсионкаллбакк** также имеет следующие типы членов:
 
@@ -38,7 +38,7 @@ ms.locfileid: "122787490"
 
 Интерфейс **иверсионкаллбакк** содержит следующие методы.
 
-<table><colgroup><col  /><col  /></colgroup><thead><tr class="header"><th >Метод</th><th >Описание</th></tr></thead><tbody><tr class="odd"><td ><a href="/windows/desktop/direct3dtools/iversioncallback-versiontableready-guid-arr-uint"><strong>версионтаблереади</strong></a></td><td ><p>Функция обратного вызова, используемая для уведомления узла о том, какие интерфейсы поддерживаются.</p></td></tr></tbody></table>
+<table><colgroup><col  /><col  /></colgroup><thead><tr class="header"><th style="text-align: left;">Метод</th><th style="text-align: left;">Описание</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><a href="/windows/desktop/direct3dtools/iversioncallback-versiontableready-guid-arr-uint"><strong>версионтаблереади</strong></a></td><td style="text-align: left;"><p>Функция обратного вызова, используемая для уведомления узла о том, какие интерфейсы поддерживаются.</p></td></tr></tbody></table>
 
  
 

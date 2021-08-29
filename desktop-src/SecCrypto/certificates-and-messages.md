@@ -4,12 +4,12 @@ ms.assetid: c1fe8783-d687-4843-b79f-6649fab14731
 title: Сертификаты и сообщения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c79bcf21ebe5851ca6ccdb3d8c4543ac1d36bde0
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 9a764f004187841aae667dfad1a87c9df55ce59fe9a2c776ca8e8c801431807a
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104497625"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120101044"
 ---
 # <a name="certificates-and-messages"></a>Сертификаты и сообщения
 

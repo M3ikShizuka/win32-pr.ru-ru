@@ -4,12 +4,12 @@ ms.assetid: 0b6484f4-9a4a-4bf6-b0ee-161b50b44dc5
 title: System. Сторажепровидерфилеверсион
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 18badca3f963aa9910b09e3b4bd943fca83b6774
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 1c5600ec7fade010f30bfbcc80d7096cfa6c27ad398ea84d79512ea4f914f65f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105712222"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119597934"
 ---
 # <a name="systemstorageproviderfileversion"></a>System. Сторажепровидерфилеверсион
 
@@ -31,11 +31,11 @@ propertyDescription
       IsInnate = false
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

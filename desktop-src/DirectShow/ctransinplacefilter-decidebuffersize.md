@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: b3ffb3ec7b1ef59c6e7f3d49e39fbe69e8cc1c08
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 5ea1034db2965e736224348707bfc9c3d7dcd27fd37fa5c511d147635b9d51cb
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108094832"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119831374"
 ---
 # <a name="ctransinplacefilterdecidebuffersize-method"></a>Ктрансинплацефилтер. ДеЦидебуфферсизе, метод
 
@@ -65,7 +65,7 @@ HRESULT DecideBufferSize(
 
 | Код возврата                                                                            | Описание        |
 |----------------------------------------------------------------------------------------|--------------------|
-| <dl> <dt>**\_ОК**</dt> </dl>   | Успешное завершение<br/> |
+| <dl> <dt>**\_ОК**</dt> </dl>   | Success<br/> |
 | <dl> <dt>**\_Ошибка E**</dt> </dl> | Failure<br/> |
 
 
@@ -82,12 +82,12 @@ HRESULT DecideBufferSize(
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Трансип. h (включение Streams. h)</dt> </dl>                                                                                   |
+| Заголовок<br/>  | <dl> <dt>трансип. h (включает Потоки. h)</dt> </dl>                                                                                   |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: dea7c9aa-eba7-4b93-a4c5-9b2d36999780
 title: Сообщение WM_SHOWWINDOW (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cbca6cbb4c73ff1cad31754b1b581e0c892970e4
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: f9b1952cff3db2dad62d7b22484680c3e4c4ff6070a0331c3d891ff2f764a062
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104345572"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119931234"
 ---
 # <a name="wm_showwindow-message"></a>\_Сообщение об ошибке WM SHOWWINDOW
 
@@ -61,7 +61,7 @@ ms.locfileid: "104345572"
 
 Если приложение обрабатывает это сообщение, оно должно вернуть ноль.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Функция [**дефвиндовпрок**](/windows/desktop/api/winuser/nf-winuser-defwindowproca) скрывает или отображает окно, как указано в сообщении. Если окно имеет стиль " [**WS \_ Visible**](window-styles.md) " при его создании, окно получает это сообщение после его создания, но до его отображения. Окно также получает это сообщение, когда состояние видимости изменяется функцией [**ShowWindow**](/windows/win32/api/winuser/nf-winuser-showwindow) или [**шововнедпопупс**](/windows/win32/api/winuser/nf-winuser-showownedpopups) .
 
@@ -78,7 +78,7 @@ ms.locfileid: "104345572"
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                               |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                     |
-| Заголовок<br/>                   | <dl> <dt>Winuser. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 

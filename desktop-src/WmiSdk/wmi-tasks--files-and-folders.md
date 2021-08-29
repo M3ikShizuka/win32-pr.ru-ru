@@ -10,16 +10,16 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: b24d5f7708b88507cd08b73c0b08a83c94f6bb28
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 4b7ac3b02e0268d9357e00d91e21d878f78bf966
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105712889"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122629466"
 ---
 # <a name="wmi-tasks-files-and-folders"></a>Задачи WMI: файлы и папки
 
-Задачи WMI для файлов и папок изменяют свойства файла или папки с помощью WMI, включая создание общего ресурса или переименование файла. Чтобы скопировать файл или выполнить чтение и запись файла, проще всего использовать сервер сценариев Windows, [а не WMI](/previous-versions/visualstudio/visual-basic-6/aa242706(v=vs.60)) . Другие примеры см. в разделе [файлы и папки](/previous-versions/tn-archive/ee176985(v=technet.10)) раздела [TechNet скриптцентер](https://www.microsoft.com/technet/scriptcenter).
+Задачи WMI для файлов и папок изменяют свойства файла или папки с помощью WMI, включая создание общего ресурса или переименование файла. если вы хотите скопировать файл или прочитать и записать файл, проще всего использовать Windowsный сценарий [FileSystemObject](/previous-versions/visualstudio/visual-basic-6/aa242706(v=vs.60)) , а не WMI. Другие примеры см. в разделе [файлы и папки](/previous-versions/tn-archive/ee176985(v=technet.10)) раздела [TechNet скриптцентер](https://www.microsoft.com/technet/scriptcenter).
 
 [**Модель CIM \_ Файл**](/windows/desktop/CIMWin32Prov/cim-datafile) данных является одним из нескольких [классов CIM](cimclas.md) в инструментарии WMI, который реализован. Избегайте перечисления или запроса для всех экземпляров **\_ файла данных CIM** на компьютере, так как объем данных, скорее всего, повлияет на производительность или приводит к зависанию компьютера.
 
@@ -30,7 +30,7 @@ ms.locfileid: "105712889"
 
 **Запуск сценария**
 
-1.  Скопируйте код и сохраните его в файле с расширением vbs, например *filename.vbs*. Убедитесь, что текстовый редактор не добавляет расширение txt в файл.
+1.  Скопируйте код и сохраните его в файле с расширением vbs, например *filename.vbs*. Убедитесь, что текстовый редактор не добавляет к файлу расширение .txt.
 2.  Откройте окно командной строки и перейдите в каталог, в котором был сохранен файл.
 3.  Введите **cscript filename.vbs** в командной строке.
 4.  Если доступ к журналу событий невозможен, проверьте, выполняется ли в командной строке с повышенными привилегиями. Некоторые журналы событий, например журнал событий безопасности, могут быть защищены с помощью элементов управления доступом пользователей (UAC).
@@ -46,8 +46,8 @@ ms.locfileid: "105712889"
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col  />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -61,7 +61,7 @@ ms.locfileid: "105712889"
 <td>Используйте класс <a href="/windows/desktop/CIMWin32Prov/cim-datafile"><strong>CIM_DataFile</strong></a> . Убедитесь, что при вызове метода <a href="/windows/desktop/CIMWin32Prov/rename-method-in-class-cim-datafile"><strong>Rename</strong></a> передается полное имя пути, например &quot;C:\Scripts\Test.txt&quot; вместо &quot;Text.txt&quot; . Для PowerShell использование <strong>CIM_DataFile</strong> может оказаться неэффективным. Таким образом, вы можете просто использовать командлет Rename-Item.<br/> <span data-codelanguage="VisualBasic"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -82,7 +82,7 @@ Next</code></pre></td>
 <span data-codelanguage="PowerShell"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -98,13 +98,13 @@ Next</code></pre></td>
 </td>
 </tr>
 <tr class="even">
-<td>... Определите, есть ли у пользователей. Файлы MP3, хранящиеся на их компьютере?</td>
+<td>... Определение наличия у пользователей .MP3 файлов, хранящихся на компьютере?</td>
 <td><p>Используйте класс <a href="/windows/desktop/CIMWin32Prov/cim-datafile"><strong>CIM_DataFile</strong></a> и выберите файлы с помощью следующего предложения <a href="querying-with-wql.md"></a> <strong>WHERE</strong> WQL: где Extension = &quot; MP3 &quot; .</p>
 <div class="code">
 <span data-codelanguage="VisualBasic"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -126,7 +126,7 @@ Next</code></pre></td>
 <span data-codelanguage="PowerShell"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -150,7 +150,7 @@ Next</code></pre></td>
 <span data-codelanguage="VisualBasic"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -171,7 +171,7 @@ errReturn = objNewShare.Create(&quot;C:\Finance&quot;, &quot;FinanceShare&quot;,
 <span data-codelanguage="PowerShell"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -199,7 +199,7 @@ $Shares= [WMICLASS]&quot;Win32_Share&quot;
 <span data-codelanguage="VisualBasic"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -222,7 +222,7 @@ Next </code></pre></td>
 <span data-codelanguage="PowerShell"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -245,7 +245,7 @@ Next </code></pre></td>
 <span data-codelanguage="VisualBasic"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -270,7 +270,7 @@ Next</code></pre></td>
 <span data-codelanguage="PowerShell"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -293,7 +293,7 @@ Next</code></pre></td>
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

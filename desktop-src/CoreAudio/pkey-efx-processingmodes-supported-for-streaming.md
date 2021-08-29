@@ -4,12 +4,12 @@ ms.assetid: BB54E7D8-5486-44F6-A204-002027255CD8
 title: Свойство PKEY_EFX_ProcessingModes_Supported_For_Streaming (Аудиоенгинебасеапо. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 61c605606c1fdc87a02b77f44e096a297786d854
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 2508b761abffe10c3989b3cf45c72eba5d0e50b34613dac61be2375fecb4b7e8
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105647139"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119750644"
 ---
 # <a name="pkey_efx_processingmodes_supported_for_streaming-property"></a>\_Свойство PKEY ефкс \_ процессингмодес \_ поддерживается \_ для \_ потоковой передачи
 
@@ -17,7 +17,7 @@ ms.locfileid: "105647139"
 
 Тип пропвариант (VT): **VT \_ vector** \| **VT- \_ LPWSTR**
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот список включает только режимы обработки сигнала, в которых API фактически обрабатывает звуковой сигнал во время потоковой передачи.
 
@@ -29,9 +29,9 @@ ms.locfileid: "105647139"
 
 | Требование | Значение |
 |-------------------------------------|-------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только Windows 8.1 Классические приложения\]<br/>                                                    |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2012 R2 \[\]<br/>                                         |
-| Header<br/>                   | <dl> <dt>Аудиоенгинебасеапо. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 8.1 \[ только классические приложения\]<br/>                                                    |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[Только классические приложения R2\]<br/>                                         |
+| Заголовок<br/>                   | <dl> <dt>Аудиоенгинебасеапо. h</dt> </dl> |
 
 
 

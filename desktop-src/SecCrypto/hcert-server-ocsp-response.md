@@ -4,12 +4,12 @@ ms.assetid: baf173f1-99dc-49f9-9a17-fee79b393db7
 title: HCERT_SERVER_OCSP_RESPONSE (Винкрипт. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ceab319b5d8370dd15ef3dcd288124e4f2adf9ef
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: a694b6165a3fb5f067fd64170b4b0275c3a06dad21d508f616ee63d6b27e4a22
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103912032"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119006462"
 ---
 # <a name="hcert_server_ocsp_response"></a>\_ \_ ответ OCSP сервера \_ хцерт
 
@@ -29,15 +29,15 @@ typedef VOID* HCERT_SERVER_OCSP_RESPONSE;
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Винкрипт. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Винкрипт. h</dt> </dl> |
 
 
 

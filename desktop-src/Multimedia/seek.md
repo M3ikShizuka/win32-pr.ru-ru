@@ -3,7 +3,7 @@ title: Seek, команда
 description: Команда Seek перемещается в указанную положение и останавливается. Эта команда распознает аудио компакт-диск, цифровое видео, устройство MIDI Sequencer, ВИДЕОМАГНИТОФОН, видеодиск и волна-аудиоустройства.
 ms.assetid: e9e8ca14-d181-4f29-b4d3-c7f5b0301164
 keywords:
-- команда поиска мультимедиа Windows
+- команда seek Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d40f3467d328e161245e77217b4ce6edfa9665ee
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 131b8138f67ae02d9a3d8f1e80693b0735368e2a622d5d8a7fe7c5a481da5542
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104414800"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119892904"
 ---
 # <a name="seek-command"></a>Seek, команда
 
@@ -96,7 +96,7 @@ _stprintf_s(
 
 Возвращает нуль в случае успеха или ошибку в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Перед выполнением команд, использующих значения позиций, необходимо задать требуемый формат времени с помощью команды [Set](set.md) .
 
@@ -114,7 +114,7 @@ _stprintf_s(
 seek mysound to start
 ```
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -125,7 +125,7 @@ seek mysound to start
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

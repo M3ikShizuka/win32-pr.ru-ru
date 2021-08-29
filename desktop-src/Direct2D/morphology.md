@@ -8,12 +8,12 @@ keywords:
 - разрушить, результат
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f43cf41810ae0b16c9bc96dd37473a0231fc132c
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 0737c9153faad1f23337b20b6406f6c1a794a7e1efa25de154eb2f867a347b7f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104136598"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119385062"
 ---
 # <a name="morphology-effect"></a>Морфологи, результат
 
@@ -105,14 +105,14 @@ m_d2dContext->EndDraw();
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента | Windows 8 и обновление платформы для \[ классических приложений Windows 7 \| приложения для Магазина Windows\] |
-| Минимальная версия сервера | Windows 8 и обновление платформы для \[ классических приложений Windows 7 \| приложения для Магазина Windows\] |
+| Минимальная версия клиента | Windows 8 и обновление платформы для Windows 7 \[ классических приложений \| Windows приложения магазина\] |
+| Минимальная версия сервера | Windows 8 и обновление платформы для Windows 7 \[ классических приложений \| Windows приложения магазина\] |
 | Header                   | d2d1effects. h                                                                      |
 | Библиотека                  | D2D1. lib, дксгуид. lib                                                               |
 
@@ -120,7 +120,7 @@ m_d2dContext->EndDraw();
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

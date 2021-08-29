@@ -7,12 +7,12 @@ keywords:
 - API сервера HTTP версии 2,0, использование
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4fcdd50ab001f7889e10d9ea3637b5f12a168f08
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 1beb87462282591de0da035bb28281921898b16ff167a47c984bde504b9c91a8
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104410721"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119829764"
 ---
 # <a name="using-the-http-server-version-20-api"></a>Использование API сервера версии 2,0 HTTP
 
@@ -32,9 +32,9 @@ ms.locfileid: "104410721"
 -   [Настройка времени ожидания для конкретного приложения](configuring-the-application-specific-timeouts.md)
 -   [Кэш режима ядра в HTTP 2,0](kernel-mode-cache-in-http-2-0.md)
 
- 
+ 
 
- 
+ 
 
 
 

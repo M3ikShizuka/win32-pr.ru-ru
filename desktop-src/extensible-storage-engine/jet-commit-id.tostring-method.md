@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: c11aed3f92fbf3390a13f125afd3ad456f933778
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 5dc44b3174f7220e15539aea146fcd803f69016439e38aa50f4d00616659fade
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105711307"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119891408"
 ---
 # <a name="jet_commit_idtostring-method"></a>Метод JET_COMMIT_ID. ToString
 
@@ -59,7 +59,7 @@ public override string ToString()
 Тип: [System. String](/dotnet/api/system.string)  
 Структура в виде строки.  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 #### <a name="reference"></a>Справочник
 

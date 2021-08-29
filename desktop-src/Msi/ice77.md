@@ -4,12 +4,12 @@ ms.assetid: 291cf731-b7e6-44c2-a8ec-78e0e037d1f5
 title: ICE77
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 15e072692b76cfd63bf62c5fd23f612a445e5fd7
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 5910b814a9cee6da87a76594949f2ad3250bbdd55c3666d0f500ea3a64ae3730
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104154818"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119894984"
 ---
 # <a name="ice77"></a>ICE77
 
@@ -77,7 +77,7 @@ in the AdminExecuteSequence Sequence table.
 
 Чтобы устранить ошибки, поочередно заполните пользовательские действия в скрипте после действия Инсталлинитиализе и перед действием функции InstallFinalize. Действия Инсталлинитиализе и функции InstallFinalize должны присутствовать в таблице Инсталлексекутесекуенце и таблице Админексекутесекуенце.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
