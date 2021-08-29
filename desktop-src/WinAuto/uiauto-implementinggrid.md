@@ -15,12 +15,12 @@ keywords:
 - интерфейсы, IGridProvider
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 328d8536a367389a6d17422bd6f6476a3e82aa11
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: db3e40a99fcc6dc7dd76bd4445aa5a4deb919ec498fa21889c9a54fcbf957e6e
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104067737"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120098342"
 ---
 # <a name="grid-control-pattern"></a>Шаблон элемента управления Grid
 
@@ -32,7 +32,7 @@ ms.locfileid: "104067737"
 
 -   [Правила и соглашения реализации](#implementation-guidelines-and-conventions)
 -   [Обязательные члены для **IGridProvider**](#required-members-for-igridprovider)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="implementation-guidelines-and-conventions"></a>Правила и соглашения реализации
 
@@ -57,17 +57,17 @@ ms.locfileid: "104067737"
 
 | Обязательные члены                                        | Тип члена | Примечания |
 |---------------------------------------------------------|-------------|-------|
-| [**Количества**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-igridprovider-get_rowcount)       | Свойство    | Нет  |
+| [**RowCount**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-igridprovider-get_rowcount)       | Свойство    | Нет  |
 | [**Число**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-igridprovider-get_columncount) | Свойство    | Нет  |
 | [**GetItem**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-igridprovider-getitem)         | Метод      | Нет  |
 
 
 
- 
+ 
 
 Этот шаблон элемента управления не имеет связанных событий.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -83,9 +83,9 @@ ms.locfileid: "104067737"
 [Общие сведения о дереве модели автоматизации пользовательского интерфейса](uiauto-treeoverview.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

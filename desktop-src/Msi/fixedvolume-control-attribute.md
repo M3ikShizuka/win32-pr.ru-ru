@@ -4,12 +4,12 @@ ms.assetid: e0917a8c-f43a-412d-9b91-9d5f80779f41
 title: Атрибут элемента управления Фикседволуме
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c524bd228d19dbef823df00eff83e34df503a438
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 7d872c4bf891aaa3d93a755058b0047598cb80b0e07629cca7f8f8fc981af8ee
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103898318"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119828854"
 ---
 # <a name="fixedvolume-control-attribute"></a>Атрибут элемента управления Фикседволуме
 
@@ -39,7 +39,7 @@ ms.locfileid: "103898318"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Чтобы задать этот атрибут для элемента управления, включите бит Фикседволуме в столбец Attributes записи элемента управления в [таблице Control](control-table.md).
 

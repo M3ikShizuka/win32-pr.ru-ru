@@ -4,12 +4,12 @@ ms.assetid: e5602af2-5852-4c34-a792-6742e90b7d41
 title: Активация контекста
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a652615d6c1288887085c857817e32e3a3b4081c
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: ab785040e6cf28b609fe80d4160da90bd3fe640b2229cf982993c8573378e4bb
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104142001"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120096854"
 ---
 # <a name="context-activation"></a>Активация контекста
 
@@ -47,7 +47,7 @@ ms.locfileid: "104142001"
 
 Реализуя [**IObjectControl:: Activate**](/windows/desktop/api/ComSvcs/nf-comsvcs-iobjectcontrol-activate) и [**IObjectControl::D еактивате**](/windows/desktop/api/ComSvcs/nf-comsvcs-iobjectcontrol-deactivate), вы можете подключать активацию и деактивацию для выполнения специальной инициализации в новом контексте. Эти методы вызываются COM+ в определенных точках жизненного цикла объекта, когда объект настроен для использования JIT-активации или объединения объектов в пул. Дополнительные сведения см. [в статье JIT-активация com+](com--just-in-time-activation.md) и [группирование объектов COM+](com--object-pooling.md) .
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

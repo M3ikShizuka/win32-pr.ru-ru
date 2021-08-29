@@ -4,12 +4,12 @@ ms.assetid: 5db53dd4-606a-40b9-9159-b67a0ea1e400
 title: Константы PHONESTATE_ (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6346251f6947aebb2a5941389843e2abcec77c4a
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 675a68e252e32cba718f9e506e7d45c95210348c1b9951877d79a30dfae8a462
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105675136"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119773884"
 ---
 # <a name="phonestate_-constants"></a>\_Константы фонестате
 
@@ -152,7 +152,7 @@ ms.locfileid: "105675136"
 
 
 
-Phone — изменились элементы состояния, отличные от перечисленных ниже. Приложение должно проверить текущее состояние телефона, чтобы определить, какие элементы были изменены.
+Телефон — элементы состояния, отличные от перечисленных ниже, изменились. Приложение должно проверить текущее состояние телефона, чтобы определить, какие элементы были изменены.
 
 
 </dt> </dl> </dd> <dt>
@@ -257,22 +257,22 @@ Phone — изменились элементы состояния, отличн
 
 </dt> </dl> </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Без расширяемости. Все 32 бит зарезервированы.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------|-----------------------------------------------------------------------------------|
 | Версия TAPI<br/> | Требуется TAPI 2,0 или более поздней версии<br/>                                             |
-| Header<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
+| Заголовок<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

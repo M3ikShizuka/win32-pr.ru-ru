@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: e2758d5553e192357296868e2dbb62f7a6733ded
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 3915cc68ea3207936d8a55c21f4f1e9b0d1d092ec2c4ab80ba210ba6bbc10dd2
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104137554"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119846924"
 ---
 # <a name="vs_versioninfo-structure"></a>\_Структура VS versionInfo
 
@@ -134,9 +134,9 @@ typedef struct {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-Эта структура не является истинной структурой языка C, так как она содержит члены переменной длины. Эта структура была создана только для описания организации данных в ресурсе версии и не отображается ни в одном из файлов заголовков, поставляемых вместе с пакетом средств разработки программного обеспечения (SDK) для Windows.
+Эта структура не является истинной структурой языка C, так как она содержит члены переменной длины. эта структура была создана только для описания организации данных в ресурсе версии и не отображается ни в одном из файлов заголовков, поставляемых с Windows пакетом средств разработки программного обеспечения (SDK).
 
 ## <a name="requirements"></a>Требования
 

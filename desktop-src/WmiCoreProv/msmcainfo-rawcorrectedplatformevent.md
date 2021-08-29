@@ -1,5 +1,5 @@
 ---
-description: Содержит исправленное событие платформы (CPE). Этот класс доступен только в 64-разрядных системах Windows.
+description: Содержит исправленное событие платформы (CPE). этот класс доступен только в 64-разрядных Windows системах.
 ms.assetid: b24a390e-293d-4dd4-b747-33c298a5d45f
 title: Класс MSMCAInfo_RawCorrectedPlatformEvent
 ms.topic: reference
@@ -16,16 +16,16 @@ api_type:
 - DllExport
 api_location:
 - Wmiprov.dll
-ms.openlocfilehash: 906587ca9ee153eb93542c3e749e8164e6a5ee7e
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 9da5da0cbbde9f7319482e5f8574f62ac311535d277e08f3f7884134b1fa3475
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105712611"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120097414"
 ---
 # <a name="msmcainfo_rawcorrectedplatformevent-class"></a>\_Класс мсмкаинфо равкорректедплатформевент
 
-Класс **мсмкаинфо \_ Равкорректедплатформевент** содержит исправленное событие платформы (CPE). Этот класс доступен только в 64-разрядных системах Windows.
+Класс **мсмкаинфо \_ Равкорректедплатформевент** содержит исправленное событие платформы (CPE). этот класс доступен только в 64-разрядных Windows системах.
 
 Следующий синтаксис упрощен из кода MOF-файл (MOF) и включает все его унаследованные свойства. Свойства и методы имеют алфавитный порядок, а не порядок MOF.
 
@@ -46,7 +46,7 @@ class MSMCAInfo_RawCorrectedPlatformEvent : WMIEvent
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **мсмкаинфо \_ равкорректедплатформевент** имеет следующие свойства.
 
@@ -91,11 +91,11 @@ class MSMCAInfo_RawCorrectedPlatformEvent : WMIEvent
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **мсмкаинфо \_ равкорректедплатформевент** является производным от [**WMIEvent**](wmievent.md).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -109,7 +109,7 @@ class MSMCAInfo_RawCorrectedPlatformEvent : WMIEvent
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

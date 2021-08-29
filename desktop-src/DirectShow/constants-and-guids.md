@@ -4,12 +4,12 @@ ms.assetid: 2468107e-826c-4185-8562-c1001413b08e
 title: Константы и идентификаторы GUID
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 41ef2c12d4e5ff5278f464ffb7992a54e14565e9
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: d37796a94711362d4ae99e5b0b213e895812516b224a73a409a56b27a23faf93
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "103894846"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119915664"
 ---
 # <a name="constants-and-guids"></a>Константы и идентификаторы GUID
 
@@ -27,9 +27,9 @@ ms.locfileid: "103894846"
 
 ## <a name="see-also"></a>См. также:
 
--   Фильтровать идентификаторы классов (CLSID): см. раздел [фильтры DirectShow](directshow-filters.md).
--   Другие CLSID для компонентов: см. раздел [объекты DirectShow](directshow-objects.md).
--   Идентификаторы интерфейса (идентификаторов IID). Если не указано иное, все идентификаторов IID DirectShow имеют форму IID \_ interfacename. Например, IID для интерфейса [**играфбуилдер**](/windows/desktop/api/Strmif/nn-strmif-igraphbuilder) — IID \_ играфбуилдер.
+-   фильтровать идентификаторы классов (clsid): см. раздел [фильтры DirectShow](directshow-filters.md).
+-   другие clsid для компонентов: см. [DirectShow объекты](directshow-objects.md).
+-   идентификаторы интерфейсов (идентификаторов iid). кроме указанных мест, все DirectShow идентификаторов iid имеют форму IID \_ InterfaceName. Например, IID для интерфейса [**играфбуилдер**](/windows/desktop/api/Strmif/nn-strmif-igraphbuilder) — IID \_ играфбуилдер.
 
  
 

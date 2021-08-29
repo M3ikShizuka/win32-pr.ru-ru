@@ -7,20 +7,20 @@ keywords:
 - освещение OpenGL
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 62e7434a1341c29388b7ae4a393dba8544126a38
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 2f0f262ea690d97b88a1d2935e0133651719276ff16a9f34b592a10b9fc49983
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103986795"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119776654"
 ---
 # <a name="setting-lighting-and-coloring"></a>Настройка освещения и цветов
 
-Помимо выбора цветов и обычных векторов можно определить требуемые условия освещения с помощью [**\* Гллигхт**](gllight-functions.md) и [**гллигхтмодел \***](gllightmodel-functions.md), а также требуемые свойства материалов с [**глматериал \***](glmaterial-functions.md). Связанные функции для управления выполнением вычислений освещения включают [**глшадемодел**](glshademodel.md), [**глфронтфаце**](glfrontface.md)и [**глколорматериал**](glcolormaterial.md).
+Помимо выбора цветов и обычных векторов можно определить требуемые условия освещения с помощью [ * *гллигхт \** _](gllight-functions.md) и [_*гллигхтмодел \**_](gllightmodel-functions.md), а также требуемые свойства материалов с [_*глматериал \**_](glmaterial-functions.md). Связанные функции для управления выполнением вычислений освещения включают в себя [_ *глшадемодел* *](glshademodel.md), [**глфронтфаце**](glfrontface.md)и [**глколорматериал**](glcolormaterial.md).
 
- 
+ 
 
- 
+ 
 
 
 

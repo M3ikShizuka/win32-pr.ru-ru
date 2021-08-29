@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 83f756f6b6ab5864f14e797879be243f871fb9e1
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: 3eee242eb5a5c3b8d47468708bea994e7617934e354d732880239bbbc5b8bd94
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "105713674"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119986874"
 ---
 # <a name="d3dxgetdriverlevel-function"></a>Функция D3DXGetDriverLevel
 
@@ -63,18 +63,18 @@ UINT D3DXGetDriverLevel(
 -   800-драйвер уровня Direct3D 8
 -   900-Драйвер уровня Direct3D 9
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3dx9core. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3dx9core. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>   |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

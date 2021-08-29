@@ -8,12 +8,12 @@ keywords:
 - запись аудио звукового сигнала, сведения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0bc8d01ab6109caec0991fabb8df7427462ef34d
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 65c509b447145dbeb18e27ff0893c6f8b26040b1eee7d1d6f7e2f919777e3039
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104067455"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120037534"
 ---
 # <a name="recording-waveform-audio"></a>Запись звука звукозаписи
 
@@ -25,9 +25,9 @@ ms.locfileid: "104067455"
 -   [Управление записью Waveform-Audio](managing-waveform-audio-recording.md)
 -   [Использование оконных сообщений для управления записью Waveform-Audio](using-window-messages-to-manage-waveform-audio-recording.md)
 
- 
+ 
 
- 
+ 
 
 
 

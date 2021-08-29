@@ -4,27 +4,27 @@ description: Существует два сообщения с уведомле�
 ms.assetid: 77E80EB2-180B-4EDD-9FB5-9930E8886CA6
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 864a2b8942b1244be51f5c284e6ce07d973ed4db
-ms.sourcegitcommit: f0ca63c18dc52c357d3398af7be766d2bdd40be7
+ms.openlocfilehash: 2fb8a3c8f0f589e17e6fe413b8232876e131734aa053b9a091b83e7d94b14b7d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "105654275"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120132064"
 ---
 # <a name="how-to-use-syslink-notifications"></a>Как использовать уведомления SysLink
 
 С элементом управления SysLink связаны два сообщения уведомления: один для мыши ([NM \_ Click (Syslink)](nm-click-syslink.md)) и один для клавиатуры ([NM \_ return](nm-return.md)).
 
-## <a name="what-you-need-to-know"></a>Что необходимо знать
+## <a name="what-you-need-to-know"></a>Это важно знать
 
 ### <a name="technologies"></a>Технологии
 
--   [Элементы управления Windows](window-controls.md)
+-   [Windows Элементы управления](window-controls.md)
 
-### <a name="prerequisites"></a>Предварительные условия
+### <a name="prerequisites"></a>Предварительные требования
 
 -   C/C++
--   Программирование пользовательского интерфейса Windows
+-   Windows Программирование пользовательского интерфейса
 
 ## <a name="instructions"></a>Инструкции
 
@@ -66,19 +66,19 @@ case WM_NOTIFY:
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Использование элементов управления SysLink](using-syslink-controls.md)
 </dt> <dt>
 
-[Демонстрация стандартных элементов управления Windows (Кппвиндовскоммонконтролс)](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/OneCodeTeam/Windows%20common%20controls%20demo%20(CppWindowsCommonControls)/%5BC++%5D-Windows%20common%20controls%20demo%20(CppWindowsCommonControls)/C++/CppWindowsCommonControls)
+[демонстрация Windows стандартных элементов управления (кппвиндовскоммонконтролс)](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/OneCodeTeam/Windows%20common%20controls%20demo%20(CppWindowsCommonControls)/%5BC++%5D-Windows%20common%20controls%20demo%20(CppWindowsCommonControls)/C++/CppWindowsCommonControls)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

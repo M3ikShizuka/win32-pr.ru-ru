@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 883d483044a27e35848457e70e22888dd5ad6320
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.openlocfilehash: 4e68ea973edfbcdf3caa8bae0c5ff92693ac15ffccf5230bbf5dcf30d83a9bae
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "104986609"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120095034"
 ---
 # <a name="structuredbufferloadint-function"></a>Функция Структуредбуффер:: Load (int)
 
@@ -54,13 +54,13 @@ ms.locfileid: "104986609"
 
 Возвращаемый тип соответствует типу в объявлении для объекта [**структуредбуффер**](sm5-object-structuredbuffer.md) .
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Эта функция поддерживается для следующих типов шейдеров:
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Геометрия | Пиксель | Службы вычислений |
 |--------|------|--------|----------|-------|---------|
 |        |      |        |          | x     | x       |
 

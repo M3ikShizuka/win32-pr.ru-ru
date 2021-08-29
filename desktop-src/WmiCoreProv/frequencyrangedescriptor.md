@@ -26,12 +26,12 @@ api_type:
 - DllExport
 api_location:
 - WmiProv.dll
-ms.openlocfilehash: d18bee8a69fd8663ea54973d6e4e8219f5f74e27
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 287da7980da8e2837d44852b4cd2ecf2f098604a6478ab6c534104f82fb1fddf
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105692273"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120097454"
 ---
 # <a name="frequencyrangedescriptor-class"></a>Класс Фрекуенциранжедескриптор
 
@@ -64,7 +64,7 @@ class FrequencyRangeDescriptor
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **фрекуенциранжедескриптор** имеет следующие свойства.
 
@@ -226,7 +226,7 @@ class FrequencyRangeDescriptor
 
 </dd> <dt>
 
-**Лета**
+**Исходный домен**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **Uint8**
@@ -239,7 +239,7 @@ class FrequencyRangeDescriptor
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -253,7 +253,7 @@ class FrequencyRangeDescriptor
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

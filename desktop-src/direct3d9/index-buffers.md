@@ -4,12 +4,12 @@ ms.assetid: baa60cd1-a1f0-4dbe-b934-aeb1a5c6b784
 title: Буферы индексов (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7151fae6deb72a0c569d269c80e5b13bf946f9d0
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: d5e44ea8752948b3a6dbf9a32b950be1b5de28bc709abbe3dad89959315ace9d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "103894317"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119846614"
 ---
 # <a name="index-buffers-direct3d-9"></a>Буферы индексов (Direct3D 9)
 
@@ -127,7 +127,7 @@ m_pIndexBuffer->Unlock();
 
 Получите сведения о буфере индекса, вызвав метод [**IDirect3DIndexBuffer9:: DESC**](/windows/desktop/api) . Этот метод заполняет члены структуры [**D3DINDEXBUFFER \_ DESC**](d3dindexbuffer-desc.md) сведениями о буфере индекса.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

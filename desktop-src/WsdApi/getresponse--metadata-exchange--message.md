@@ -4,12 +4,12 @@ ms.assetid: aff05317-35db-4ea6-9692-1e09e4682fe7
 title: сообщение о выклике (метаданные Exchange)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 11bc76038a32d28f4ed773a937654e6d159ab75460e8cb6d6d5af60f614fa7e0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 47141228fec0ae528e33e41f1bdf65db8325e5c2
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118552405"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122626310"
 ---
 # <a name="getresponse-metadata-exchange-message"></a>сообщение о выклике (метаданные Exchange)
 
@@ -116,15 +116,15 @@ ms.locfileid: "118552405"
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col  />
+<col  />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
 <th>точка фокусировки;</th>
 <th>XML</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>

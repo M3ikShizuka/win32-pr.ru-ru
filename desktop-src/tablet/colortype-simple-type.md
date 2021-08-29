@@ -12,12 +12,12 @@ api_name:
 api_type:
 - Schema
 api_location: ''
-ms.openlocfilehash: 883c34f42f8d31f3581599445b398b93676d416b
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 92b4f8db5626ec34c66c769f86afe1eac9d37940dce0374b1340430d3e62939d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105701352"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120009084"
 ---
 # <a name="colortype-simple-type"></a>Простой тип Колортипе
 
@@ -31,7 +31,7 @@ ms.locfileid: "105701352"
 </xs:simpleType>
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Цвет может быть шестнадцатеричным значением RGB в формате \# RRGGBB. Оно должно соответствовать следующему регулярному выражению: \# \[ 0-9a-fA-F \] {6} . Например: " \# 4a79B5".
 
@@ -41,7 +41,7 @@ ms.locfileid: "105701352"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только классические приложения Windows XP Tablet PC Edition \[\]<br/> |
+| Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/> |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                     |
 
 

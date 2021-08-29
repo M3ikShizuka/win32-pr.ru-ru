@@ -4,12 +4,12 @@ ms.assetid: 7c2d3aca-9e05-44b7-a57b-51a34e9caae2
 title: Использование API таблиц распределенной маршрутизации
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 63eaf60681f9ea1e8be6319508ec7d5e77c2dd87
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 66d761a87e0320ddbf3b1fd40015a735174cda5cf6c8f8bb9714417262820d83
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105663279"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119775744"
 ---
 # <a name="using-the-distributed-routing-table-api"></a>Использование API таблиц распределенной маршрутизации
 
@@ -26,7 +26,7 @@ ms.locfileid: "105663279"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

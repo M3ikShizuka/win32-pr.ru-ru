@@ -11,12 +11,12 @@ keywords:
 - Библиотека Sphere
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 586974c5874aee73121e536cbadca4564a18c250
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: e842f18aa699ab3f719c7aefed765d84c60684dd2ab654325d9d1f5cbb93c03b
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104330640"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119776534"
 ---
 # <a name="the-iris-gl-sphere-library"></a>Библиотека сферы IRI GL
 
@@ -42,7 +42,7 @@ OpenGL не поддерживает библиотеку "Сфера" (IRI). В
 
 
 
- 
+ 
 
 Можно использовать один объект куадрик для всех куадрикс, которые требуется визуализировать подобным образом. В следующем примере кода используются два объекта куадрик для рисования четырех куадрикс, два из которых текстурированы.
 
@@ -71,9 +71,9 @@ gluSphere(plainQuad, 5.0, 20, 20);
 
 
 
- 
+ 
 
- 
+ 
 
 
 

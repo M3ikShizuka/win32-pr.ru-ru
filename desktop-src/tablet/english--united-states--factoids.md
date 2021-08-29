@@ -4,12 +4,12 @@ ms.assetid: 4c8dd376-2288-451c-bb16-cdb088e41046
 title: Английский (США) Фактоидс
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5222a1fa1ed00f2e08246aa0ac969158e55c63b7
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 4ba6682d668da92552906f4a6e9f2f995ee494f0
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103999525"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122627340"
 ---
 # <a name="english-united-states-factoids"></a>Английский (США) Фактоидс
 
@@ -19,9 +19,9 @@ ms.locfileid: "103999525"
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col  />
+<col  />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">

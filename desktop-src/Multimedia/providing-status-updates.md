@@ -10,12 +10,12 @@ keywords:
 - Макрос МЦивндсеттимерс
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3fd53c9580f3ae9be09817979178d10e60765ea3
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: a71ad60ce3970c21adec75af04f3c896eef4c933816002bc8b4c8c3acabcd5a7
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104410871"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120037584"
 ---
 # <a name="providing-status-updates"></a>Предоставление обновлений состояния
 
@@ -27,9 +27,9 @@ ms.locfileid: "104410871"
 
 В приложении можно одновременно задать период обновления для обоих таймеров с помощью макроса [**мЦивндсеттимерс**](/windows/desktop/api/Vfw/nf-vfw-mciwndsettimers) . Размер хранилища для значения периода обновления ограничен 16 битами. Если требуется большее количество для любого периода обновления, установите таймеры по отдельности.
 
- 
+ 
 
- 
+ 
 
 
 

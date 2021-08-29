@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5d886ade00289e655ae3323a70d01be96a09852b
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 8ba8b524618ebc0c5d40f9f4e9f0ad0871b7c8c39a0919d594a39248bc2d6dc6
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105694548"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120004774"
 ---
 # <a name="wmdm_storage_enum_mode-enumeration"></a>\_ \_ Перечисление режима перечисления вмдм в хранилище \_
 
@@ -81,7 +81,7 @@ typedef enum tagWMDM_STORAGE_ENUM_MODE {
 
 | Требование | Значение |
 |-------------------|-------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Вмдм. idl</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Вмдм. idl</dt> </dl> |
 
 
 

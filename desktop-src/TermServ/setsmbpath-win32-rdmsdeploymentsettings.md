@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d40598a3217ff1ca7c6082b3af09097352962309
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 3c91d64b589ed61e7cc9713636dcc0f0b090da749ca9d8e8d9ab7567e8500175
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103988935"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120008584"
 ---
 # <a name="setsmbpath-method-of-the-win32_rdmsdeploymentsettings-class"></a>Метод Сетсмбпас \_ класса Win32 рдмсдеплойментсеттингс
 
@@ -54,7 +54,7 @@ uint32 SetSMBPath(
 
 Возвращает значение 0 при успешном выполнении, в противном случае возвращает код ошибки WMI.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -68,7 +68,7 @@ uint32 SetSMBPath(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

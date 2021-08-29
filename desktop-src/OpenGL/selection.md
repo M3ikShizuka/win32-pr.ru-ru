@@ -8,12 +8,12 @@ keywords:
 - записи попаданий OpenGL
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 851fac28cda979a383d183a12c79656bfebcbb0f
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: c42c057014a4f5a1533e1f5c42683b93f08c31c287dc29f56ea797a5b360d545
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104330672"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119776744"
 ---
 # <a name="selection"></a>Выбор
 
@@ -22,13 +22,13 @@ ms.locfileid: "104330672"
 > [!Note]  
 > Вызовите [**глселектбуффер**](glselectbuffer.md) , прежде чем переводить OpenGL в режим выбора с помощью [**глрендермоде**](glrendermode.md). Все содержимое стека имен не гарантируется, пока вы не вызовите **глрендермоде** , чтобы извлечь из режима выбора OpenGL.
 
- 
+ 
 
 Управлять стеком имен с помощью [**глинитнамес**](glinitnames.md), [**гллоаднаме**](glloadname.md), [**глпушнаме**](glpushname.md)и [**глпопнаме**](glpopname.md). Для выбора можно также использовать [**глупиккматрикс**](glupickmatrix.md) .
 
- 
+ 
 
- 
+ 
 
 
 

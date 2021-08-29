@@ -20,12 +20,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 12f8fd8b4629ac11e7316caae0690982c210e4bc
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: ae510da16d3b0b53ddf0c5643cab17878dbc42344650d438ee1914f2b3e05ec4
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104984489"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119829804"
 ---
 # <a name="fileio_direnum-class"></a>\_Класс FileIo диренум
 
@@ -50,13 +50,13 @@ class FileIo_DirEnum : FileIo
 };
 ```
 
-## <a name="members"></a>Участники
+## <a name="members"></a>Члены
 
 Класс **FileIo \_ диренум** имеет следующие типы членов:
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **FileIo \_ диренум** имеет следующие свойства.
 
@@ -190,7 +190,7 @@ class FileIo_DirEnum : FileIo
 
 </dd> </dl>
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 События перечисления каталогов и уведомления каталога записываются при перечислении каталога или при отправке уведомлений об изменении каталога в зарегистрированные прослушиватели соответственно.
 
@@ -200,8 +200,8 @@ class FileIo_DirEnum : FileIo
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>       |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>       |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/> |
 
 
 

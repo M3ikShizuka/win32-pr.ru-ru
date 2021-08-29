@@ -20,12 +20,12 @@ ms.topic: article
 ms.date: 05/31/2018
 api_location: ''
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 973db6c56dda5bde8614dffa13f461761934fcde
-ms.sourcegitcommit: 9bf844f41bd6451b8508d93e722e88a43e913b56
+ms.openlocfilehash: 199348fc23282a104c66f153b5c1ea43027464e5aa2522db61c6658d3425bdc1
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "105719855"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120007694"
 ---
 # <a name="color-space-type-identifiers"></a>Идентификаторы типов цветового пространства
 
@@ -113,7 +113,7 @@ ms.locfileid: "105719855"
 
 </dt> </dl> </dd> </dl>
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

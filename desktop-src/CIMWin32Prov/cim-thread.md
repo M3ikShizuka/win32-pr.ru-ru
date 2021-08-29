@@ -31,12 +31,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: e0a69554ef50a82695d2904b11f4189c3aab11b7
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 9bcfe1b671f23b6ffeee77fc00afa8f9a1b857b7b6ee162cf356c641415e05b0
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105656086"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119918894"
 ---
 # <a name="cim_thread-class"></a>\_Класс потока CIM
 
@@ -81,13 +81,13 @@ class CIM_Thread : CIM_LogicalElement
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **\_ потока CIM** имеет следующие свойства.
 
 <dl> <dt>
 
-**Заголовок**
+**Caption**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -287,7 +287,7 @@ class CIM_Thread : CIM_LogicalElement
 
 </dd> <dt>
 
-**Name**
+**Имя**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -504,7 +504,7 @@ class CIM_Thread : CIM_LogicalElement
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **\_ потока CIM** является производным от [**CIM \_ логикалелемент**](cim-logicalelement.md).
 

@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3D9Types.h
-ms.openlocfilehash: 271a278f48c10a89fa6f552c3e1a7b4a83f274f2
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: f9a04cbc9281009ee0b270cc2dfd7b73e23a5378a2116362f63344c8d7475d7b
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "105713741"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119986344"
 ---
 # <a name="d3dzbuffertype-enumeration"></a>Перечисление D3DZBUFFERTYPE
 
@@ -70,7 +70,7 @@ typedef enum D3DZBUFFERTYPE {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Члены этого перечислимого типа используются с \_ состоянием отрисовки D3DRS зенабле.
 
@@ -80,7 +80,7 @@ typedef enum D3DZBUFFERTYPE {
 
 | Требование | Значение |
 |-------------------|----------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3D9Types. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3D9Types. h</dt> </dl> |
 
 
 

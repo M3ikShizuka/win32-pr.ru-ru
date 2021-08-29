@@ -1,6 +1,6 @@
 ---
 title: Функция Вмдрмкреатепровидер (Вмдрмсдк. h)
-description: Функция Вмдрмкреатепровидер создает фабрику класса, которая может создавать другие объекты расширенных API-интерфейсов клиента DRM Windows Media.
+description: функция вмдрмкреатепровидер создает фабрику класса, которая может создавать другие объекты расширенных api-интерфейсов клиента DRM Windows Media.
 ms.assetid: 25ec2fbf-136a-4f40-b2d3-f35b42178c60
 keywords:
 - Вмдрмкреатепровидер функция Windows Media Format
@@ -15,16 +15,16 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5cdf7a102d969ce916f8a5692d994c183305409a
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 82de65423d5bc6ad2fbd55e3d8e4c97e8f63f6f7d6b6203e092176a4afc0183c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105717821"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120006564"
 ---
 # <a name="wmdrmcreateprovider-function"></a>Функция Вмдрмкреатепровидер
 
-Функция **вмдрмкреатепровидер** создает фабрику класса, которая может создавать другие объекты расширенных API-интерфейсов клиента DRM Windows Media. Эта функция не требует наличия библиотеки-заглушки от корпорации Майкрософт и создает объекты, которые не поддерживают защищенные функции DRM.
+функция **вмдрмкреатепровидер** создает фабрику класса, которая может создавать другие объекты расширенных api-интерфейсов клиента DRM Windows Media. Эта функция не требует наличия библиотеки-заглушки от корпорации Майкрософт и создает объекты, которые не поддерживают защищенные функции DRM.
 
 ## <a name="syntax"></a>Синтаксис
 
@@ -62,19 +62,19 @@ HRESULT STDMETHODCALLTYPE WMDRMCreateProvider(
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Вмдрмсдк. h</dt> </dl>   |
+| Заголовок<br/>  | <dl> <dt>Вмдрмсдк. h</dt> </dl>   |
 | Библиотека<br/> | <dl> <dt>Вмдрмсдк. lib</dt> </dl> |
 | DLL<br/>     | <dl> <dt>Wmdrmsdk.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

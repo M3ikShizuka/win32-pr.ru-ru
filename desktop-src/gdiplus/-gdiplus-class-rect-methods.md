@@ -4,12 +4,12 @@ ms.assetid: fe6960fa-db73-4806-a2c2-675782eed41d
 title: Методы Rect
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ec31832fd6d7c509a231b39d98c6838e7a82eb4c
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 9098ed5500f154c9c1c21d5482dc5b908be18ae0e56af960d08ff3adf60ea83d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104997542"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119831174"
 ---
 # <a name="rect-methods"></a>Методы Rect
 
@@ -19,7 +19,7 @@ ms.locfileid: "104997542"
 -   [**Contains (точка&)**](/windows/win32/api/gdiplustypes/nf-gdiplustypes-rect-contains(inconstpoint_))
 -   [**Contains (Rect&)**](/windows/win32/api/gdiplustypes/nf-gdiplustypes-rect-contains(inrect_))
 -   [**Contains (INT, INT)**](/previous-versions//ms534986(v=vs.85))
--   [**Прошлом**](/windows/desktop/api/Gdiplustypes/nf-gdiplustypes-rect-equals)
+-   [**Равно**](/windows/desktop/api/Gdiplustypes/nf-gdiplustypes-rect-equals)
 -   [**По нижнему краю**](/windows/desktop/api/Gdiplustypes/nf-gdiplustypes-rect-getbottom)
 -   [**GetBounds**](/windows/desktop/api/Gdiplustypes/nf-gdiplustypes-rect-getbounds)
 -   [**GetLeft**](/windows/desktop/api/Gdiplustypes/nf-gdiplustypes-rect-getleft)

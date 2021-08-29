@@ -3,17 +3,17 @@ title: Интерполяция кадров
 description: Интерполяция кадров
 ms.assetid: 74dbe855-361c-42ba-b21b-322ccd1c91d0
 keywords:
-- Windows Media Format SDK, интерполяция кадров
+- Windows Пакет SDK для формата мультимедиа, интерполяция кадров
 - кодеки, интерполяция кадров
 - Интерполяция кадров
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5c62f95322920576eec0f10f3e4d61a279fdc4cf
-ms.sourcegitcommit: 48d1c892045445bcbd0f22bafa2fd3861ffaa6e7
+ms.openlocfilehash: 9b10691bd2a1f3e6257810efd1e243d099cd4cfa85f0b2522369786602792614
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/19/2020
-ms.locfileid: "104069570"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120007014"
 ---
 # <a name="frame-interpolation"></a>Интерполяция кадров
 
@@ -21,9 +21,9 @@ ms.locfileid: "104069570"
 
 Поскольку это функция декодирования, она не включает специальные параметры кодирования и не требует дополнительной нагрузки на содержимое. Интерполяция кадров указывается в качестве выходного параметра в объекте Reader.
 
-Только кодек Windows Media Video 9 поддерживает интерполяцию кадров.
+только Windows кодек Media Video 9 поддерживает интерполяцию кадров.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -36,9 +36,9 @@ ms.locfileid: "104069570"
 [**Параметры вывода**](output-settings.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

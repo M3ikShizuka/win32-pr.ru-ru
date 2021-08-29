@@ -4,12 +4,12 @@ ms.assetid: 23ebcb04-1571-4e93-a549-46ad6b9d4272
 title: Мониторинг событий связи
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b5eac453b7f864f4f0b5fc756b1ffc6a730e2769
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 7f9e3cb28e251450d5302227cbeaf9fa6aac6c8734ea0646757ac2b4291c8ff3
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105655855"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120131644"
 ---
 # <a name="monitoring-communications-events"></a>Мониторинг событий связи
 

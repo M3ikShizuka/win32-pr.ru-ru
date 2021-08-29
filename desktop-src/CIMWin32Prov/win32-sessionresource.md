@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - cimwin32.dll
-ms.openlocfilehash: 3962c8523863bb97710bf21be38906d3897beea3
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 399ee8af085459b4d0995e1399f0afcbb2d138735f9aa7f3f4992e177ac04839
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103807739"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119971534"
 ---
 # <a name="win32_sessionresource-class"></a>\_Класс Win32 сессионресаурце
 
@@ -46,7 +46,7 @@ class Win32_SessionResource : CIM_Dependency
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ сессионресаурце** имеет следующие свойства.
 

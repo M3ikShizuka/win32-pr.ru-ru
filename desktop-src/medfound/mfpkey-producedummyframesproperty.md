@@ -4,12 +4,12 @@ ms.assetid: dc09cecb-98c0-40bb-9e5d-f4661bf98522
 title: Свойство MFPKEY_PRODUCEDUMMYFRAMES (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1b40bdaa54b3dc14a2b4ef44235d7f87cab5b905
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 6cb8f186c885e9cc150ab194bdadd01403a37b423b30bf6009b173819d27dfa9
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104263980"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119939894"
 ---
 # <a name="mfpkey_producedummyframes-property"></a>МФПКЭЙ \_ продуцедуммифрамес, свойство
 
@@ -27,25 +27,25 @@ g \_ всзвмвкпродуцедуммифрамес
 
 ВАРИАНТ \_ false
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если это значение является ВАРИАНТным \_ false, кодек не будет поместит данные в поток битов для повторяющихся кадров.
 
 Фиктивные кадры могут быть важны в приложениях, где сохраняются номера кадров. Распространенным примером является то, что коды времени SMPTE поддерживаются для кодированного содержимого.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                             |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                    |
-| Header<br/>                   | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
+| Заголовок<br/>                   | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

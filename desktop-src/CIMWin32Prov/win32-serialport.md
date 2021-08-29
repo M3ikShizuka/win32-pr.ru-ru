@@ -1,5 +1,5 @@
 ---
-description: '\_Класс WMI "Win32 SerialPort" представляет последовательный порт в компьютерной системе под Windows.'
+description: '\_Класс WMI "Win32 SerialPort" представляет последовательный порт в компьютерной системе, где работает Windows.'
 ms.assetid: f2e5cc5a-a12b-4079-92e1-6bb62fe797a0
 ms.tgt_platform: multiple
 title: Класс Win32_SerialPort
@@ -63,16 +63,16 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: b7fc2f25bc88d880ba9b10f10b5efde284a62624
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: e0a1c653ce77f2171bffd87349b7e7efd2935312a223d328a9de62be1c933015
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104140978"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119917564"
 ---
 # <a name="win32_serialport-class"></a>\_Класс Win32 SerialPort
 
-[Класс WMI](../wmisdk/retrieving-a-class.md) " **Win32 \_ SerialPort** " представляет последовательный порт в компьютерной системе под Windows.
+[Класс WMI](../wmisdk/retrieving-a-class.md) " **Win32 \_ SerialPort** " представляет последовательный порт в компьютерной системе, где работает Windows.
 
 Следующий пример синтаксиса — упрощенный MOF-код, который включает все наследуемые свойства. Свойства перечислены в алфавитном порядке, а не в MOF.
 
@@ -375,7 +375,7 @@ class Win32_SerialPort : CIM_SerialController
 Квалификаторы: [**маппингстрингс**](../wmisdk/standard-qualifiers.md) (" \| структуры обмена данными Win32API \| [**DCB**](/windows/win32/api/winbase/ns-winbase-dcb) \| фбинари")
 </dt> </dl>
 
-Если задано **значение true**, то последовательный порт настроен для передачи двоичных данных. Так как API Windows не поддерживает передачу в режиме без двоичного режима, это свойство должно иметь **значение true**.
+Если задано **значение true**, то последовательный порт настроен для передачи двоичных данных. так как API Windows не поддерживает передачу в режиме без двоичного режима, это свойство должно иметь **значение TRUE**.
 
 </dd> <dt>
 
@@ -473,7 +473,7 @@ class Win32_SerialPort : CIM_SerialController
 
 </dd> <dt>
 
-**Заголовок**
+**Caption**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -562,12 +562,12 @@ class Win32_SerialPort : CIM_SerialController
 
 <span id="The_driver_for_this_device_needs_a_resource_that_Windows_cannot_manage."></span><span id="the_driver_for_this_device_needs_a_resource_that_windows_cannot_manage."></span><span id="THE_DRIVER_FOR_THIS_DEVICE_NEEDS_A_RESOURCE_THAT_WINDOWS_CANNOT_MANAGE."></span>
 
-<span id="the_driver_for_this_device_needs_a_resource_that_windows_cannot_manage."></span><span id="THE_DRIVER_FOR_THIS_DEVICE_NEEDS_A_RESOURCE_THAT_WINDOWS_CANNOT_MANAGE."></span>**Драйверу для этого устройства требуется ресурс, который Windows не может управлять.** (5)
+<span id="the_driver_for_this_device_needs_a_resource_that_windows_cannot_manage."></span><span id="THE_DRIVER_FOR_THIS_DEVICE_NEEDS_A_RESOURCE_THAT_WINDOWS_CANNOT_MANAGE."></span>**драйверу для этого устройства нужен ресурс, который Windows не может управлять.** (5)
 
 
 </dt> <dd>
 
-Драйверу для устройства требуется ресурс, который Windows не может управлять.
+драйверу для устройства требуется ресурс, который Windows не может управляться.
 
 </dd> <dt>
 
@@ -774,23 +774,23 @@ Windows не удается найти все ресурсы, используе
 
 <span id="Windows_is_still_setting_up_this_device."></span><span id="windows_is_still_setting_up_this_device."></span><span id="WINDOWS_IS_STILL_SETTING_UP_THIS_DEVICE."></span>
 
-<span id="windows_is_still_setting_up_this_device."></span><span id="WINDOWS_IS_STILL_SETTING_UP_THIS_DEVICE."></span>**Это устройство все еще настраивается Windows.** (25)
+<span id="windows_is_still_setting_up_this_device."></span><span id="WINDOWS_IS_STILL_SETTING_UP_THIS_DEVICE."></span>**Windows все еще настраивает это устройство.** (25)
 
 
 </dt> <dd>
 
-Устройство все еще настраивается.
+Windows все еще настраивает устройство.
 
 </dd> <dt>
 
 <span id="Windows_is_still_setting_up_this_device."></span><span id="windows_is_still_setting_up_this_device."></span><span id="WINDOWS_IS_STILL_SETTING_UP_THIS_DEVICE."></span>
 
-<span id="windows_is_still_setting_up_this_device."></span><span id="WINDOWS_IS_STILL_SETTING_UP_THIS_DEVICE."></span>**Это устройство все еще настраивается Windows.** (26)
+<span id="windows_is_still_setting_up_this_device."></span><span id="WINDOWS_IS_STILL_SETTING_UP_THIS_DEVICE."></span>**Windows все еще настраивает это устройство.** (26)
 
 
 </dt> <dd>
 
-Устройство все еще настраивается.
+Windows все еще настраивает устройство.
 
 </dd> <dt>
 
@@ -840,7 +840,7 @@ Windows не удается найти все ресурсы, используе
 
 <span id="This_device_is_not_working_properly_because_Windows_cannot_load_the_drivers_required_for_this_device."></span><span id="this_device_is_not_working_properly_because_windows_cannot_load_the_drivers_required_for_this_device."></span><span id="THIS_DEVICE_IS_NOT_WORKING_PROPERLY_BECAUSE_WINDOWS_CANNOT_LOAD_THE_DRIVERS_REQUIRED_FOR_THIS_DEVICE."></span>
 
-<span id="this_device_is_not_working_properly_because_windows_cannot_load_the_drivers_required_for_this_device."></span><span id="THIS_DEVICE_IS_NOT_WORKING_PROPERLY_BECAUSE_WINDOWS_CANNOT_LOAD_THE_DRIVERS_REQUIRED_FOR_THIS_DEVICE."></span>**Это устройство работает неправильно, так как Windows не может загрузить драйверы, необходимые для этого устройства.** 1-31
+<span id="this_device_is_not_working_properly_because_windows_cannot_load_the_drivers_required_for_this_device."></span><span id="THIS_DEVICE_IS_NOT_WORKING_PROPERLY_BECAUSE_WINDOWS_CANNOT_LOAD_THE_DRIVERS_REQUIRED_FOR_THIS_DEVICE."></span>**это устройство работает неправильно, так как Windows не может загрузить драйверы, необходимые для этого устройства.** 1-31
 
 
 </dt> <dd>
@@ -1054,7 +1054,7 @@ Windows не удается найти все ресурсы, используе
 
 </dd> <dt>
 
-**Name**
+**Имя**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1100,7 +1100,7 @@ Windows не удается найти все ресурсы, используе
 Квалификаторы: [**схема**](../wmisdk/standard-qualifiers.md) ("Win32")
 </dt> </dl>
 
-Идентификатор устройства Windows самонастраивающийся логического устройства.
+Windows Самонастраивающийся идентификатор устройства логического устройства.
 
 Это свойство наследуется [**от \_ CIM**](cim-logicaldevice.md)-унаследованной модели.
 
@@ -1326,7 +1326,7 @@ ATA или ATAPI
 
 <span id="SCSI_Serial_Storage_Architecture"></span><span id="scsi_serial_storage_architecture"></span><span id="SCSI_SERIAL_STORAGE_ARCHITECTURE"></span>
 
-<span id="SCSI_Serial_Storage_Architecture"></span><span id="scsi_serial_storage_architecture"></span><span id="SCSI_SERIAL_STORAGE_ARCHITECTURE"></span>**Архитектура последовательного хранилища SCSI** (13)
+<span id="SCSI_Serial_Storage_Architecture"></span><span id="scsi_serial_storage_architecture"></span><span id="SCSI_SERIAL_STORAGE_ARCHITECTURE"></span>**архитектура последовательного служба хранилища SCSI** (13)
 
 
 </dt> <dd></dd> <dt>
@@ -2168,13 +2168,13 @@ ATA или ATAPI
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **Win32 \_ SerialPort** является производным от [**CIM \_ сериалконтроллер**](cim-serialcontroller.md).
 
 ## <a name="examples"></a>Примеры
 
-Альтернативный способ получения сведений о последовательных портах (из реестра) см. в разделе [Enumerate ports](https://Gallery.TechNet.Microsoft.Com/scriptcenter/087b4d73-4a5e-4746-b365-ad682911360e) Visual Basic Sample.
+альтернативный способ получения сведений о последовательных портах (из реестра) см. в разделе [enumerate ports](https://Gallery.TechNet.Microsoft.Com/scriptcenter/087b4d73-4a5e-4746-b365-ad682911360e) Visual Basic sample.
 
 Пример PowerShell [Свойства последовательного порта](https://Gallery.TechNet.Microsoft.Com/42ff8eab-7d2b-4549-b178-835daecf4f12) возвращает сведения о последовательных портах, установленных на компьютере.
 

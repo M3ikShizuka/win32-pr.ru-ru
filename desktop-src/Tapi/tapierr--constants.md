@@ -4,12 +4,12 @@ ms.assetid: 6d1cf18b-efeb-4703-9b8e-fce59b61b63f
 title: Константы TAPIERR_ (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2e8a60e2a625ff456a4a8aa2730b80000e92ff54
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 40f84e8f5cbe840ba428575d3ea6aeff40242fdbd2b97440d7538893421eab7d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105675174"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119773044"
 ---
 # <a name="tapierr_-constants"></a>\_Константы тапиерр
 
@@ -217,7 +217,7 @@ ms.locfileid: "105675174"
 
 </dt> </dl> </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Все остальные \_ значения тапиерр являются устаревшими и не должны использоваться.
 
@@ -228,7 +228,7 @@ ms.locfileid: "105675174"
 | Требование | Значение |
 |-------------------------|-----------------------------------------------------------------------------------|
 | Версия TAPI<br/> | Требуется TAPI 2,0 или более поздней версии<br/>                                             |
-| Header<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
+| Заголовок<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
 
 
 

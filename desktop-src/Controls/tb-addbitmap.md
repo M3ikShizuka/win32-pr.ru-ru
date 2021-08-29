@@ -3,7 +3,7 @@ title: Сообщение TB_ADDBITMAP (Коммктрл. h)
 description: Добавляет одно или несколько изображений в список изображений кнопок, доступных для панели инструментов.
 ms.assetid: 9040ab84-a5f3-4e4b-bc90-590b2ceeaa5a
 keywords:
-- Элементы управления Windows для TB_ADDBITMAP сообщений
+- элементы управления Windows сообщений TB_ADDBITMAP
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d83cba4b4dec9b490a3e8f41db9cc7721dd23b08
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 61b024c224ab305c4a13942c62a2de8d769d2f23b82d21ef295e024bae82f563
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103804127"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119919234"
 ---
 # <a name="tb_addbitmap-message"></a>\_Сообщение АДДБИТМАП ТБ
 
@@ -47,7 +47,7 @@ ms.locfileid: "103804127"
 
 Возвращает индекс первого нового изображения, если выполнено успешно, или значение-1 в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если панель инструментов была создана с помощью функции [**CreateWindowEx**](/windows/desktop/api/winuser/nf-winuser-createwindowexa) , перед отправкой **\_ аддбитмап ТБ** необходимо отправить на панель инструментов сообщение [**\_ буттонструктсизе**](tb-buttonstructsize.md) ТБ.
 
@@ -74,15 +74,15 @@ int index = SendMessage (hWndToolbar, TB_ADDBITMAP, 0, (LPARAM)&tb);
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

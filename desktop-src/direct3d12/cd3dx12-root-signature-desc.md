@@ -15,12 +15,12 @@ api_type:
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7f89f9cd0f5ad9be08af1fa9c2556ebfbd4fcff1
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: 3fb68acfbe76c4a32e0549da97fbe9dc3c8daae23fe72fc4757f3b840421da22
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "105713967"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119988394"
 ---
 # <a name="cd3dx12_root_signature_desc-structure"></a>\_ \_ Структура описания корневой подписи CD3DX12 \_
 
@@ -130,7 +130,7 @@ UINT Нумпараметерс
 
 | Требование | Значение |
 |-------------------|-------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3dx12. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3dx12. h</dt> </dl> |
 
 
 

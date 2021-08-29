@@ -19,12 +19,12 @@ api_type:
 - Schema
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 58ded8a17cc4800e1aa2917ba7750c6c69434916
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: a007249038bf342bc5516fd66caa32e3a84971dab71512d9d744b3cc9ba1872b
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104415720"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120009454"
 ---
 # <a name="systemrestoreconfig-class"></a>Класс Системрестореконфиг
 
@@ -48,7 +48,7 @@ class SystemRestoreConfig
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **системрестореконфиг** имеет следующие свойства.
 
@@ -176,20 +176,20 @@ End If
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                       |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                       |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                         |
 | Пространство имен<br/>                | Корневой каталог \\ по умолчанию<br/>                                                          |
 | MOF<br/>                      | <dl> <dt>SR. mof</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

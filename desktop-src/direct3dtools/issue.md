@@ -17,12 +17,12 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 40eab8fa294a8b3843dfff471369a725c8875320
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.openlocfilehash: 3fb9e61138f458a9290653b8708e460b29edc1ae0a6fb008cad8a2d8abce121e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122622320"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119844864"
 ---
 # <a name="span-idvspixengineissuespanissue-structure"></a><span id="vspixengine.issue"></span>Структура проблемы
 
@@ -35,7 +35,7 @@ ms.locfileid: "122622320"
 } Issue;
 ```
 
-## <a name="members"></a>Участники
+## <a name="members"></a>Члены
 
 **Описание**  
 Строка COM, содержащая описание проблемы.
@@ -51,7 +51,7 @@ ms.locfileid: "122622320"
 
 ## <a name="requirements"></a>Требования
 
-<table><colgroup><col  /><col  /></colgroup><tbody><tr class="odd"><td><p>Заголовок</p></td><td>Вспиксенгине. h</td></tr></tbody></table>
+<table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td><p>Заголовок</p></td><td>Вспиксенгине. h</td></tr></tbody></table>
 
  
 

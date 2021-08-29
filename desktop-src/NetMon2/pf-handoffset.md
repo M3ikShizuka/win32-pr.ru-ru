@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Netmon.h
-ms.openlocfilehash: 1b5dc9620f3b1860b27af973432aa4218c05b63b
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 68e3f3608ac1aeff0f6d54ee7c94c39b76b0df08bb7dc41b05063f9cf53c48a2
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105663841"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120036844"
 ---
 # <a name="pf_handoffset-structure"></a>\_Структура PF хандоффсет
 
@@ -54,7 +54,7 @@ typedef struct _PF_HANDOFFSET {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Структура [PF \_ парсеринфо](pf-parserinfo.md) использует структуру **PF \_ хандоффсет** для перечисления следующих целей:
 
@@ -63,7 +63,7 @@ typedef struct _PF_HANDOFFSET {
 
 Структура **PF \_ хандоффсет** должна быть выделена с помощью **хеапаллок**.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -75,7 +75,7 @@ typedef struct _PF_HANDOFFSET {
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

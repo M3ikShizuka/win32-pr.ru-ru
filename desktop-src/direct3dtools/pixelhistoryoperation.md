@@ -17,12 +17,12 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 15cae4986b7dc109c08011d2cc23e1b6133de9e5
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.openlocfilehash: 5cac63ca36a168d0bba73ab8d9af86c353a617d5dc45ad673ef48e0deb759eaa
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122625190"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119980694"
 ---
 # <a name="span-idvspixenginepixelhistoryoperationspanpixelhistoryoperation-structure"></a><span id="vspixengine.pixelhistoryoperation"></span>Структура Пикселхисторйоператион
 
@@ -35,7 +35,7 @@ ms.locfileid: "122625190"
 } PixelHistoryOperation;
 ```
 
-## <a name="members"></a>Участники
+## <a name="members"></a>Члены
 
 **Аль**  
 Идентификатор события графики, связанного с этой операцией.
@@ -171,7 +171,7 @@ true, если пиксель имеет значение перекрыто; в
 
 ## <a name="requirements"></a>Требования
 
-<table><colgroup><col  /><col  /></colgroup><tbody><tr class="odd"><td><p>Заголовок</p></td><td>Вспиксенгине. h</td></tr></tbody></table>
+<table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td><p>Заголовок</p></td><td>Вспиксенгине. h</td></tr></tbody></table>
 
  
 
