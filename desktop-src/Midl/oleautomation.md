@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b827aba4cb0871f7130e658299c6d8836557a156
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.openlocfilehash: 3c7617faf06d6c6920a2096c2a44806ae2f5204906573205ca94bf9a32e327db
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "104069985"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119146377"
 ---
 # <a name="oleautomation-attribute"></a>oleautomation - атрибут
 
@@ -67,7 +67,7 @@ interface interface-name : base-interface
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Параметры и возвращаемые типы, указанные для членов интерфейса **\[ oleautomation \]** , должны быть совместимы с автоматизацией, как указано в следующей таблице.
 
@@ -86,19 +86,19 @@ interface interface-name : base-interface
 | **CURRENCY**                                    | 8-байтовое фиксированное число с плавающей запятой.                                                                                                                                                                          |
 | **DATE**                                        | 64-разр. дробное число дней с плавающей запятой с 30 декабря 1899 г.                                                                                                                                     |
 | **SCODE**                                       | Для 16-разрядных систем — встроенный тип ошибок, соответствующий \_ ошибке VT.                                                                                                                                         |
-| **Перечисление typedef** В  *менум*                      | Целое число со знаком, размер которого зависит от системы.                                                                                                                                                               |
-| **Интерфейс IDispatch \***                      | Указатель на интерфейс [**IDispatch**](/windows/win32/api/oaidl/nn-oaidl-idispatch) (VT \_ Dispatch).                                                                                                                |
-| **Интерфейс IUnknown \***                       | Указатель на интерфейс, который не является производным от [**IDispatch**](/windows/win32/api/oaidl/nn-oaidl-idispatch) (VT \_ Unknown). (Любой интерфейс OLE может быть представлен интерфейсом [**IUnknown**](/windows/win32/api/unknwn/nn-unknwn-iunknown) .) |
-| **диспетчерский интерфейс** В  *TypeName \**                | Указатель на интерфейс, производный от [**IDispatch**](/windows/win32/api/oaidl/nn-oaidl-idispatch) (VT \_ Dispatch).                                                                                                    |
-| **Coclass** В  *TypeName \**                      | Указатель на имя сокласса (VT \_ Unknown).                                                                                                                                                                      |
-| **\[ \] интерфейс oleautomation** в   *TypeName \** | Указатель на интерфейс, производный от [**IUnknown**](/windows/win32/api/unknwn/nn-unknwn-iunknown).                                                                                                                                      |
+| **Перечисление typedef** В *менум*                      | Целое число со знаком, размер которого зависит от системы.                                                                                                                                                               |
+| **Интерфейс IDispatch \** _                      | Указатель на интерфейс [_ *IDispatch* *](/windows/win32/api/oaidl/nn-oaidl-idispatch) (VT \_ Dispatch).                                                                                                                |
+| **Интерфейс IUnknown \** _                       | Указатель на интерфейс, который не является производным от [_ *IDispatch* *](/windows/win32/api/oaidl/nn-oaidl-idispatch) (VT \_ Unknown). (Любой интерфейс OLE может быть представлен интерфейсом [**IUnknown**](/windows/win32/api/unknwn/nn-unknwn-iunknown) .) |
+| **диспетчерский интерфейс** В *TypeName \**                | Указатель на интерфейс, производный от [**IDispatch**](/windows/win32/api/oaidl/nn-oaidl-idispatch) (VT \_ Dispatch).                                                                                                    |
+| **Coclass** В *TypeName \**                      | Указатель на имя сокласса (VT \_ Unknown).                                                                                                                                                                      |
+| **\[ \] интерфейс oleautomation** в *TypeName \** | Указатель на интерфейс, производный от [**IUnknown**](/windows/win32/api/unknwn/nn-unknwn-iunknown).                                                                                                                                      |
 | **SAFEARRAY**(*TypeName*)                       | *TypeName* — любой из приведенных выше типов. Массив этих типов.                                                                                                                                                   |
-| **Имени \***                                 | *TypeName* — любой из приведенных выше типов. Указатель на тип.                                                                                                                                                      |
+| **Имя \* типа* _                                 | _TypeName * — любой из перечисленных выше типов. Указатель на тип.                                                                                                                                                      |
 | **Десятичное число**                                     | 96-битовое целое число без знака, масштабируемое по переменной степени 10. Тип данных Decimal, предоставляющий размер и масштаб для числа (как в координатах).                                                       |
 
 
 
- 
+ 
 
 Параметр совместим с автоматизацией, если он имеет тип, совместимый с автоматизацией, указатель на тип, совместимый с автоматизацией, или SAFEARRAY типа, совместимого с автоматизацией.
 
@@ -156,9 +156,9 @@ library Hello
 [**/осф**](-osf.md)
 </dt> <dt>
 
-[**UUID**](uuid.md)
+[**uuid**](uuid.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

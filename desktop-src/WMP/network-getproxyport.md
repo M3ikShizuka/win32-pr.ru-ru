@@ -3,9 +3,9 @@ title: Метод Network. Жетпроксипорт
 description: Метод Жетпроксипорт извлекает используемый порт прокси-сервера.
 ms.assetid: 76771750-3763-4029-b194-d8567b5f365e
 keywords:
-- Жетпроксипорт метод Windows Media Player
-- Жетпроксипорт метод Windows Media Player, класс Network
-- Класс сети Windows Media Player, метод Жетпроксипорт
+- проигрыватель Windows Media метода жетпроксипорт
+- проигрыватель Windows Media метода жетпроксипорт, класс сети
+- класс проигрыватель Windows Media сети, метод жетпроксипорт
 topic_type:
 - apiref
 api_name:
@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3114b2188c0ccb0f6c260df33461fb117e7851e7
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 83937bcb5d8180085ab97bfd71a0cb1653a65e8bca8cead952e4bf24e10ee690
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105704237"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119054592"
 ---
 # <a name="networkgetproxyport-method"></a>Метод Network. Жетпроксипорт
 
@@ -53,15 +53,15 @@ retVal = Network.getProxyPort(
 
 Этот метод возвращает **число** (**Long**), содержащее используемый порт прокси-сервера. Возвращаемое значение имеет смысл только в том случае, если **жетпроксисеттингс** возвращает значение 2 (использовать параметры вручную).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот метод завершается ошибкой, если вызывающее приложение не выполняется на локальном компьютере или в интрасети.
 
-**Проигрыватель Windows Media 10 Mobile:** Этот метод не поддерживается.
+**проигрыватель Windows Media 10 Mobile:** Этот метод не поддерживается.
 
 ## <a name="examples"></a>Примеры
 
-В следующем примере JScript используется *Network*. **жетпроксипорт** для вывода текущих номеров портов прокси-сервера проигрывателя Windows Media для протоколов MMS и HTTP. Объект **Player** создан с идентификатором "Player".
+в следующем примере JScript используется *сеть*. **жетпроксипорт** для вывода текущих номеров портов прокси-сервера проигрыватель Windows Media для протоколов MMS и HTTP. Объект **Player** создан с идентификатором "Player".
 
 
 ```JScript
@@ -87,18 +87,18 @@ document.write("The current MMS proxy port is: " + proxyPortMMS);
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 7,0 или более поздней.<br/>                              |
+| Версия<br/> | проигрыватель Windows Media версии 7,0 или более поздней.<br/>                              |
 | DLL<br/>     | <dl> <dt>Wmp.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

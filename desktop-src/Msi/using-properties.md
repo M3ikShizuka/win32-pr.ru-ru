@@ -4,12 +4,12 @@ ms.assetid: 5a2f1cd4-2bbd-414a-a814-8b9fdab434b4
 title: Использование свойств
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: edab44953f6ccd210d5baa3c446363a1131dc745
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: d5d0fda0c3be64c6441a6de6c870838406dddd608fe6fa87665407e720c8d7d0
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104145316"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119499204"
 ---
 # <a name="using-properties"></a>Использование свойств
 
@@ -30,7 +30,7 @@ ms.locfileid: "104145316"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

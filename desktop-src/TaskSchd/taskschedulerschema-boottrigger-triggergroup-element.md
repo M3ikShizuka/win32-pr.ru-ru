@@ -14,12 +14,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: eb6ccf590893e19340662fd4c47e4aa68047b29d
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 1a9067c5e343db0e3bce0972dc89bfc9fd8857d34a3ff9bd9fd65909c019c2e9
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104340950"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119309574"
 ---
 # <a name="boottrigger-triggergroup-element"></a>Буттригжер (Тригжерграуп), элемент
 
@@ -64,11 +64,11 @@ ms.locfileid: "104340950"
 
 | Имя | Тип       | Описание                               |
 |------|------------|-------------------------------------------|
-| Идентификатор   | **string** | Идентификатор триггера.<br/> |
+| Идентификатор   | **строка** | Идентификатор триггера.<br/> |
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Для разработки скриптов триггер загрузки определяется объектом [**буттригжер**](boottrigger.md) .
 
@@ -84,8 +84,8 @@ ms.locfileid: "104340950"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>       |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>       |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/> |
 
 
 

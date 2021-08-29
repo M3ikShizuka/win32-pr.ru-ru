@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 7329ffbffe5ffd89ed64e5386246f39699618960
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 91e3a29daebcc41dbb1df022b8423a82810d5a660905474a4c6d5f14d9fc60d6
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108094172"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119791714"
 ---
 # <a name="d3dxmatrixaffinetransformation-function-d3dx9mathh"></a>Функция D3DXMatrixAffineTransformation (D3dx9math. h)
 
@@ -117,13 +117,13 @@ MT = матрица перевода (*птранслатион*)
 
 Для двумерных преобразований 2D используйте [**D3DXMatrixAffineTransformation2D**](d3dxmatrixaffinetransformation2d.md).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3dx9math. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3dx9math. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>   |
 
 

@@ -1,6 +1,6 @@
 ---
-title: Операции с пикселами
-description: Операции с пикселами
+title: Операции с пикселями
+description: Операции с пикселями
 ms.assetid: e60cc45b-867c-441a-b579-8c7dbd46ecd9
 keywords:
 - Точечные операции OpenGL
@@ -12,14 +12,14 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 45d36fc22ace4ee18303ce0eb16c5a10f901510f
-ms.sourcegitcommit: 63753fcfb0afbbe5ec283fb8316e62c2dc950f66
+ms.openlocfilehash: 62d64647ef68d9171c3dd52559dd87c963a40fe73d89c35c833bd3a8f1ad79d7
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "107908882"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119553874"
 ---
-# <a name="pixel-operations"></a>Операции с пикселами
+# <a name="pixel-operations"></a>Операции с пикселями
 
 <dl> <dt><span id="GL_SCISSOR_TEST"></span><span id="gl_scissor_test"></span>\_тест вырезание GL \_</dt> <dd> 
 

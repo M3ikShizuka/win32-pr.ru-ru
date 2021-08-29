@@ -4,12 +4,12 @@ ms.assetid: b377b93a-dac9-4908-bc21-a0dcab528321
 title: Назначения каналов Португалия
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 67a850ccf0da51c20b16a4ce7dc34bf5feeccbdf
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 0f367dd0f9544c438f372928161f8701f5dd0229575843763e1203c7820f4e49
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "104537838"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119583556"
 ---
 # <a name="portugal-channel-assignments"></a>Назначения каналов Португалия
 
@@ -17,7 +17,7 @@ ms.locfileid: "104537838"
 
 Описание следующих таблиц см. в разделе [таблицы и назначения](tables-and-assignments.md).
 
-В Windows 7 появились следующие назначения каналов. Ранее была использована [Таблица частоты уникабле](unicable-frequency-table.md) .
+в Windows 7 появились следующие назначения каналов. Ранее была использована [Таблица частоты уникабле](unicable-frequency-table.md) .
 
 ## <a name="cable-assignments"></a>Назначения кабелей
 
@@ -135,7 +135,7 @@ ms.locfileid: "104537838"
        855250000L,      // 108 K69
 ```
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

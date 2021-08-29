@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7ff222b7de0bfcd5fa50e9fa5f260e329c60c69d
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.openlocfilehash: ebda58b8ea92edd379274ff6afdeadaec773713e55e4564c43ad04895c0e53a5
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "105664883"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119144187"
 ---
 # <a name="glgettexenviv-function"></a>Функция Глжеттексенвив
 
@@ -91,7 +91,7 @@ void WINAPI glGetTexEnviv(
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Функция **глжеттексенв** возвращает в *параметре params* выбранные значения для среды текстуры, которая была указана с помощью [**глтексенв**](gltexenv-functions.md). *Целевой* параметр указывает среду текстуры. В настоящее время определена и поддерживается только одна Текстурная среда: текстура GL в виде \_ \_ env.
 

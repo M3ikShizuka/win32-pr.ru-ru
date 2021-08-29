@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Rwnh.dll
-ms.openlocfilehash: 8465e247807c4229821acef552e0786a5604a3b5
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 28bd569c287b00cf6b0a146022ade6ce7f7bf29d5ced9eb5ef62341c873059c6
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105648659"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119654664"
 ---
 # <a name="csharelocknhtryexclusivelock-method"></a>Метод Кшарелоккнх:: Трексклусивелокк
 
@@ -41,11 +41,11 @@ BOOL TryExclusiveLock();
 
 Возвращает **значение true** , если функция выполнена. в противном случае возвращается **значение false**.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Эта функция не имеет связанной библиотеки импорта или файла заголовка. его необходимо вызвать с помощью функций [**LoadLibrary**](/windows/win32/api/libloaderapi/nf-libloaderapi-loadlibrarya) и [**GetProcAddress**](/windows/win32/api/libloaderapi/nf-libloaderapi-getprocaddress) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 

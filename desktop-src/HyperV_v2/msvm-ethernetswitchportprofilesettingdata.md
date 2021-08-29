@@ -29,12 +29,12 @@ api_type:
 - DllExport
 api_location:
 - vmms.exe
-ms.openlocfilehash: 611fd40b14b961369a847d6bb7b7746ceec2bb85
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: d90106690346b98e466d35028eb09d67386b89e9a04e05642fe130ecac290164
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105684696"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119789934"
 ---
 # <a name="msvm_ethernetswitchportprofilesettingdata-class"></a>\_Класс мсвм есернетсвитчпортпрофилесеттингдата
 
@@ -73,13 +73,13 @@ class Msvm_EthernetSwitchPortProfileSettingData : Msvm_EthernetSwitchPortFeature
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **мсвм \_ есернетсвитчпортпрофилесеттингдата** имеет следующие свойства.
 
 <dl> <dt>
 
-**Заголовок**
+**Caption**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -88,7 +88,7 @@ class Msvm_EthernetSwitchPortProfileSettingData : Msvm_EthernetSwitchPortFeature
 Тип доступа: только для чтения
 </dt> </dl>
 
-Краткое описание объекта. Это свойство наследуется от [**CIM \_ манажеделемент**](/previous-versions/windows/desktop/iscsitarg/cim-managedelement)и всегда имеет значение "Параметры профиля порта коммутатора Ethernet".
+Краткое описание объекта. это свойство наследуется от [**CIM \_ манажеделемент**](/previous-versions/windows/desktop/iscsitarg/cim-managedelement)и всегда имеет значение "профиль порта коммутатора Ethernet Параметры".
 
 </dd> <dt>
 
@@ -104,7 +104,7 @@ class Msvm_EthernetSwitchPortProfileSettingData : Msvm_EthernetSwitchPortFeature
 Квалификаторы: **вмидатаид** (11), **интерфацеверсион** (1), **интерфацеревисион** (0)
 </dt> </dl>
 
-Идентификатор метки CDN.
+идентификатор метки CDN.
 
 </dd> <dt>
 
@@ -120,7 +120,7 @@ class Msvm_EthernetSwitchPortProfileSettingData : Msvm_EthernetSwitchPortFeature
 Квалификаторы: [**maxlen**](/windows/desktop/WmiSdk/standard-qualifiers) (127), **вмидатаид** (12), **Интерфацеверсион** (1), **интерфацеревисион** (0)
 </dt> </dl>
 
-Строка метки CDN.
+строка метки CDN.
 
 </dd> <dt>
 
@@ -146,7 +146,7 @@ class Msvm_EthernetSwitchPortProfileSettingData : Msvm_EthernetSwitchPortFeature
 Тип доступа: только для чтения
 </dt> </dl>
 
-Отображаемое имя объекта. Это свойство наследуется от [**CIM \_ манажеделемент**](/previous-versions/windows/desktop/iscsitarg/cim-managedelement)и всегда имеет значение "Параметры профиля порта коммутатора Ethernet".
+Отображаемое имя объекта. это свойство наследуется от [**CIM \_ манажеделемент**](/previous-versions/windows/desktop/iscsitarg/cim-managedelement)и всегда имеет значение "профиль порта коммутатора Ethernet Параметры".
 
 </dd> <dt>
 
@@ -310,7 +310,7 @@ class Msvm_EthernetSwitchPortProfileSettingData : Msvm_EthernetSwitchPortFeature
 
 </dd> <dt>
 
-**ИмяПоставщика**
+**VendorName**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -326,14 +326,14 @@ class Msvm_EthernetSwitchPortProfileSettingData : Msvm_EthernetSwitchPortFeature
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 8\]<br/>                                                              |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2012\]<br/>                                                    |
+| Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                                              |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                                    |
 | Пространство имен<br/>                | Корневая \\ виртуализация \\ версии 2<br/>                                                                     |
 | MOF<br/>                      | <dl> <dt>Виндовсвиртуализатион. v2. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Vmms.exe</dt> </dl>                     |

@@ -1,21 +1,21 @@
 ---
 description: В этом разделе описывается шаг 6 руководства воспроизведение аудио-и видеороликов в DirectShow.
 ms.assetid: febfe7fa-e5f1-4b37-942a-ed9f8c7c60c1
-title: Шаг 6. Работа с событиями графа
+title: шаг 6. обработку событий Graph
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a3660e270a542a060ed5e5eee79d5c78c107fea4
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 100d9fa4fab3b72144bcd18cafca1626d44f4868abef1a6d25e777f46749d707
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105674173"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119928174"
 ---
-# <a name="step-6-handle-graph-events"></a>Шаг 6. Работа с событиями графа
+# <a name="step-6-handle-graph-events"></a>шаг 6. обработку событий Graph
 
-В этом разделе описывается шаг 6 руководства [Воспроизведение аудио-и видеороликов в DirectShow](audio-video-playback-in-directshow.md). Полный код приведен в разделе [Пример воспроизведения DirectShow](directshow-playback-example.md).
+В этом разделе описывается шаг 6 руководства [Воспроизведение аудио-и видеороликов в DirectShow](audio-video-playback-in-directshow.md). полный код приведен в разделе [пример воспроизведения DirectShow](directshow-playback-example.md).
 
-Когда приложение создает новый экземпляр диспетчера графа фильтров, приложение вызывает [**имедиаевентекс:: сетнотифивиндов**](/windows/desktop/api/Control/nf-control-imediaeventex-setnotifywindow). Этот метод регистрирует окно приложения для получения событий из графа фильтра.
+когда приложение создает новый экземпляр фильтра Graph Manager, приложение вызывает [**имедиаевентекс:: сетнотифивиндов**](/windows/desktop/api/Control/nf-control-imediaeventex-setnotifywindow). Этот метод регистрирует окно приложения для получения событий из графа фильтра.
 
 
 ```C++
@@ -115,14 +115,14 @@ void CALLBACK OnGraphEvent(HWND hwnd, long evCode, LONG_PTR param1, LONG_PTR par
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Воспроизведение звука и видео в DirectShow](audio-video-playback-in-directshow.md)
 </dt> <dt>
 
-[Пример воспроизведения DirectShow](directshow-playback-example.md)
+[DirectShow Пример воспроизведения](directshow-playback-example.md)
 </dt> <dt>
 
 [Уведомление о событии в DirectShow](event-notification-in-directshow.md)

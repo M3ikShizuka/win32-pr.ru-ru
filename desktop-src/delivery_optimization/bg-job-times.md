@@ -15,12 +15,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 0a2d4e56bb616254537e26fc1ba0fdf5b9e251a4
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 4b0fe36c9994bc03a807ff4a575945d203b1f62391b498cca094ed8f264be684
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103801391"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119793405"
 ---
 # <a name="bg_job_times-structure"></a>Структура BG_JOB_TIMES
 
@@ -70,9 +70,9 @@ typedef struct _BG_JOB_TIMES {
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только для настольных приложений Windows 10 версии 1709\]<br/>                                         |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server версии 1709\]<br/>                                     |
-| Header<br/>                   | <dl> <dt>Deliveryoptimization. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 10, только для \[ настольных приложений версии 1709\]<br/>                                         |
+| Минимальная версия сервера<br/> | Windows Server, только для \[ настольных приложений версии 1709\]<br/>                                     |
+| Заголовок<br/>                   | <dl> <dt>Deliveryoptimization. h</dt> </dl> |
 
 
 

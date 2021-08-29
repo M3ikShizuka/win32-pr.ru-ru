@@ -4,12 +4,12 @@ ms.assetid: 0d508f21-c0dd-4efa-b426-6fe7e45c9b08
 title: System. Contact. Телекснумбер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c8eea335d505f45e2190807cf2a2652ecc8408fb
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: baf2dc0857331763f9a6bab292052546efc8ef209f77f6637641b43e27d78718
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103909343"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119554174"
 ---
 # <a name="systemcontacttelexnumber"></a>System. Contact. Телекснумбер
 
@@ -30,11 +30,11 @@ propertyDescription
       type = String
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

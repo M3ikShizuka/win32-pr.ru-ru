@@ -12,29 +12,29 @@ keywords:
 - миксерс, звуковые строки
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4a7720a178931f98415cafb38a92383037a4011e
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 7089ac3fdee1ec07309a9844a1be282b435b4858061c6defdbca9be84463d95a
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103986400"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119144813"
 ---
 # <a name="control-types"></a>Типы элементов управления
 
 Службы микшера включают следующие классы стандартных элементов управления для связи с звуковыми линиями:
 
--   [Пользовательские элементы управления для микшера звука](audio-mixer-custom-controls.md)
+-   [пользовательские элементы управления аудио Mixer](audio-mixer-custom-controls.md)
 -   [фадерс](faders.md)
 -   [Списки](lists.md)
 -   [Приборов](meters.md)
--   [С помощью чисел](numbers.md)
+-   [Числа](numbers.md)
 -   [Ползунки](sliders.md)
 -   [коммутаторы;](switches.md)
 -   [Элементы управления времени](time-controls.md)
 
- 
+ 
 
- 
+ 
 
 
 

@@ -13,12 +13,12 @@ keywords:
 - профили, Настройка ограниченного VBR
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 98d4e2a1bbea1b724fdde1cc820f19caf9dd77be
-ms.sourcegitcommit: ad672d3a10192c5ccac619ad2524407109266e93
+ms.openlocfilehash: 84d4f9546d67040bb5fb1aa5e43de34323679fe27aaf26826b57c3f0307c1181
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "104069692"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119929244"
 ---
 # <a name="to-configure-constrained-vbr"></a>Настройка ограниченного VBR
 
@@ -40,16 +40,16 @@ ms.locfileid: "104069692"
 8.  Сохраните профиль или передайте его в объект модуля записи.
 9.  Настройте модуль записи для выполнения этапа предварительной обработки.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
-[**Настройка потоков с VBR**](configuring-vbr-streams.md)
+[**настройка Потоки VBR**](configuring-vbr-streams.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

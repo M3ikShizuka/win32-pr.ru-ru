@@ -21,12 +21,12 @@ api_type:
 - HeaderDef
 api_location:
 - Ksmedia.h
-ms.openlocfilehash: eadae4fdd70fd80115ea4e8902ba1bb2aa7bf53b
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 76c201451a4f747190cf586fd51ba60ee43dbbf8c97e55a50da0fee4e9802a82
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105685296"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119791754"
 ---
 # <a name="ks-node-types"></a>Типы узлов KS
 
@@ -48,17 +48,17 @@ ms.locfileid: "105685296"
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|--------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Ксмедиа. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Ксмедиа. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

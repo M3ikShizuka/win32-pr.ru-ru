@@ -4,28 +4,28 @@ ms.assetid: b78c3757-d969-4684-84b9-b2acfd9f5c82
 title: ТРАНСФОРМСАТСАУРЦЕ, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6e8b0acf2e64976d66f04fbd16ec67a5bb38b7fa
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 58f48f34f52bf76a9aca07b7b41d18f666543b1afcc6332a227c951344dcf905
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105679932"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119500302"
 ---
 # <a name="transformsatsource-property"></a>ТРАНСФОРМСАТСАУРЦЕ, свойство
 
 Задание этого свойства аналогично установке политики [политики трансформсатсаурце](transformsatsource-policy.md) , за исключением того, что область отличается. Настройка политики Трансформсатсаурце применяется ко всем пакетам, установленным указанным пользователем. Установка свойства **трансформсатсаурце** применяется к пакету независимо от пользователей.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-Установщик Windows интерпретирует свойство **трансформсатсаурце** , как будто оно было свойством [**трансформссекуре**](transformssecure.md) . Если в свойстве [**TRANSFORMS**](transforms.md) передается флаг @, установщик Windows обрабатывает преобразования в списке как [преобразования с защитой по источнику](secure-at-source-transforms.md).
+Windows Установщик интерпретирует свойство **трансформсатсаурце** , как будто оно было свойством [**трансформссекуре**](transformssecure.md) . если в свойстве [**transforms**](transforms.md) передается флаг @, установщик Windows обрабатывает преобразования в списке как [преобразования с защитой по источнику](secure-at-source-transforms.md).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/> | Установщик Windows 5,0 в Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Установщик Windows 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Установщик Windows в Windows Server 2003 или Windows XP. Сведения о минимальном пакете обновления Windows, который требуется для установщик Windows версии, см. в [установщик Windows Run-Time требования](windows-installer-portal.md) .<br/> |
+| Версия<br/> | Windows установщик 5,0 на Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Windows установщик 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Windows установщик на Windows Server 2003 или Windows XP. сведения о минимальном Windows пакета обновления, который требуется для установщик Windows версии, см. в [установщик Windows требования к Run-Time](windows-installer-portal.md) .<br/> |
 
 
 

@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Npptools.dll
-ms.openlocfilehash: 66d1f28bd43747adaaecf7fad156d80095a71b5b
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 0e5afa7b95bbc34c1229c186474129142d192664ef3359e9bee6d36c0e2dc91a
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105674422"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119555364"
 ---
 # <a name="readblobfromfile-function"></a>Функция Реадблобфромфиле
 
@@ -60,7 +60,7 @@ DWORD ReadBlobFromFile(
 
 Если функция завершается неудачно, возвращается значение НМЕРР, указывающее на ошибку.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 

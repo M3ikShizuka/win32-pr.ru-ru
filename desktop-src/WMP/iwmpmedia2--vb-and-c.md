@@ -3,8 +3,8 @@ title: Интерфейс IWMPMedia2 (VB и C) (WMP. h)
 description: Предоставляет доступ к дополнительному свойству элемента мультимедиа.
 ms.assetid: 7d9f8304-ae26-4175-b9d4-9f272861ef87
 keywords:
-- IWMPMedia2 (VB и C) интерфейс проигрывателя Windows Media
-- IWMPMedia2 (VB и C) интерфейс проигрывателя Windows Media, описание
+- проигрыватель Windows Media интерфейса IWMPMedia2 (VB и C)
+- проигрыватель Windows Media интерфейса IWMPMedia2 (VB и C), описание
 topic_type:
 - apiref
 api_name:
@@ -15,12 +15,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bb1a77322e0e6649d9a286c920ccd9ddc77890f3
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: b0b12b7fe5c3598ff6b6e7f68dabefa93913881776fda4527fe0c0b31b2a94d1
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105685099"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119054812"
 ---
 # <a name="iwmpmedia2-vb-and-c-interface"></a>Интерфейс IWMPMedia2 (VB и C#)
 
@@ -56,21 +56,21 @@ ms.locfileid: "105685099"
 
 Интерфейс **IWMPMedia2 (VB и C#)** не определяет никаких членов.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|----------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>WMP. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>WMP. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
-[**Интерфейсы для Visual Basic .NET и C #**](interfaces-for-visual-basic--net-and-c.md)
+[**интерфейсы для Visual Basic .net и C #**](interfaces-for-visual-basic--net-and-c.md)
 </dt> <dt>
 
 [**Ивмперроритем (VB и C#)**](iwmperroritem--vb-and-c.md)

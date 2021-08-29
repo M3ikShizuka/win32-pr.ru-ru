@@ -4,12 +4,12 @@ ms.assetid: 29a9f133-6c21-40dc-84b5-095dd5d4526b
 title: Сведения об пространствах координат и преобразованиях
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 27ff441a01755e5ff7ddbffb887bd7364082e9ff
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: f4e3740a9362a6951a77f060c37be0f4dce4aa5d9c09497f09f82ce58634c6d9
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104155207"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119602844"
 ---
 # <a name="about-coordinate-spaces-and-transformations"></a>Сведения об пространствах координат и преобразованиях
 

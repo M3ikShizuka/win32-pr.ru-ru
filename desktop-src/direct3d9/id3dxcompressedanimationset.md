@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 33dd1017859be14924d8d40265696cfb552754ee
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: 2d0a86e00d216ab0e0b4080abfe4f96d412d06adc86cf50d5d57705bdbab9a1a
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "105674703"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120118800"
 ---
 # <a name="id3dxcompressedanimationset-interface"></a>Интерфейс ID3DXCompressedAnimationSet
 
@@ -49,7 +49,7 @@ ms.locfileid: "105674703"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Создайте набор анимации по ключевым кадрам из сжатого формата с помощью [**D3DXCreateCompressedAnimationSet**](d3dxcreatecompressedanimationset.md).
 
@@ -69,12 +69,12 @@ typedef interface ID3DXCompressedAnimationSet *LPD3DXCOMPRESSEDANIMATIONSET;
 
 | Требование | Значение |
 |--------------------|----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3dx9anim. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3dx9anim. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>   |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

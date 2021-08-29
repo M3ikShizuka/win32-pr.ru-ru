@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3dx9mesh.h
-ms.openlocfilehash: d6a663e983b339d79ec89bf1b4ddfe7b4eaa9f1e
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: 1e5953e81431878b293a554665ea2b1bac53e62d80ee3a6d20e55385a82b098d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "105713466"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120119064"
 ---
 # <a name="d3dxpatchmeshtype-enumeration"></a>Перечисление D3DXPATCHMESHTYPE
 
@@ -70,21 +70,21 @@ typedef enum D3DXPATCHMESHTYPE {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Обновления треугольников имеют три стороны и описаны в [**D3DTRIPATCH \_ info**](d3dtripatch-info.md). Обновления прямоугольников являются четырьмя и описаны в [**D3DRECTPATCH \_ info**](d3drectpatch-info.md).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|----------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3dx9mesh. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3dx9mesh. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

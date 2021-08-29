@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: ccad6813624d0a27a093ff4baa7fc8b9a6aa8b14
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.openlocfilehash: 42a8b3dfd91b879eec37040c314d15b8b3c802b2c4b674f7a573314659d5d51b
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "105694067"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120005814"
 ---
 # <a name="tasktype-complex-type"></a>Сложный тип TaskType
 
@@ -81,7 +81,7 @@ ms.locfileid: "105694067"
 | message   | [**стртаблереф**](eventmanifestschema-strtableref-simpletype.md) | Локализованное отображаемое имя для задачи. Строка сообщения ссылается на локализованную строку в разделе " [**STRINGTABLE**](eventmanifestschema-stringtable-resources-element.md) " манифеста. <br/>                                                                                                   |
 | name      | **QName**                                                         | Имя данной задачи.<br/>                                                                                                                                                                                                                                                                                 |
 | символ    | [**ксимболтипе**](eventmanifestschema-csymboltype-simpletype.md) | Символ, используемый для ссылки на задачу в приложении. [**Компилятор сообщений (MC.exe)**](message-compiler--mc-exe-.md) использует символ, чтобы создать константу для задачи в файле заголовка, создаваемом компилятором. Если не указать символ, компилятор создаст его.<br/> |
-| значение     | [**UInt16Type**](eventmanifestschema-hexint16type-simpletype.md) | Числовое значение, однозначно идентифицирующее эту задачу в списке задач, определяемых поставщиком. Значение должно находиться в диапазоне от 1 до 239.<br/>                                                                                                                                             |
+| Значение     | [**UInt16Type**](eventmanifestschema-hexint16type-simpletype.md) | Числовое значение, однозначно идентифицирующее эту задачу в списке задач, определяемых поставщиком. Значение должно находиться в диапазоне от 1 до 239.<br/>                                                                                                                                             |
 
 
 
@@ -112,14 +112,14 @@ ms.locfileid: "105694067"
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>       |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>       |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/> |
 
 
 

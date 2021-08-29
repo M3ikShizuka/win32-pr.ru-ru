@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2512e9100c4b3f68f644eb51c3d5d460787f49b5
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 3a534eb0eb87818fb77eaf1e0c46a760dc4ef71f446c00dbc9a24d5d6fef33e6
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103801642"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119493540"
 ---
 # <a name="glindexdv-function"></a>Функция Глиндексдв
 
@@ -51,7 +51,7 @@ void WINAPI glIndexdv(
 
 Эта функция не возвращает значение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Функция **глиндексдв** обновляет текущий (однозначный) цветовой индекс. Он принимает один аргумент: новое значение для текущего индекса цвета.
 
@@ -65,7 +65,7 @@ void WINAPI glIndexdv(
 
 [**глжет**](glgetbooleanv--glgetdoublev--glgetfloatv--glgetintegerv.md) с аргументом \_ текущий \_ индекс GL
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -79,7 +79,7 @@ void WINAPI glIndexdv(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

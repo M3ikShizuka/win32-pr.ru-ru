@@ -1,25 +1,25 @@
 ---
-description: Узнайте, как использовать Microsoft DirectShow для создания приложений для записи видео с помощью статей, связанных с этой статьей.
+description: узнайте, как использовать Microsoft DirectShow для создания приложений для записи видео с помощью статей, связанных с этой статьей.
 ms.assetid: 92051a84-5011-42ed-be68-e8841552ca1b
-title: Запись видео (DirectShow)
+title: Видеозапись (DirectShow)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b9d63da84f74152c11e1126d11f6dfc450d8547b
-ms.sourcegitcommit: 91530c19d26ba4c57a6af1f37b57f211f580464e
+ms.openlocfilehash: 61c856faede4aaae4f5f19f5c5b292da4e56ac1e1243bc57de22c55a8b77a7ff
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112396419"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119432134"
 ---
-# <a name="video-capture-directshow"></a>Запись видео (DirectShow)
+# <a name="video-capture-directshow"></a>Видеозапись (DirectShow)
 
-В этом разделе описывается, как с помощью Microsoft DirectShow создавать приложения для записи видео.
+в этом разделе описывается, как использовать Microsoft DirectShow для создания приложений для записи видео.
 
--   [Сведения о записи видео в DirectShow](about-video-capture-in-directshow.md)
+-   [Сведения о захвате видео в DirectShow](about-video-capture-in-directshow.md)
 -   [Выбор устройства записи](selecting-a-capture-device.md)
 -   [Предварительный просмотр видео](previewing-video.md)
 -   [Запись видео в файл](capturing-video-to-a-file.md)
--   [Управление графиком записи](controlling-a-capture-graph.md)
+-   [Управление Graph записи](controlling-a-capture-graph.md)
 -   [Задачи записи видео](video-capture-tasks.md)
 -   [Цифровое видео в DirectShow](digital-video-in-directshow.md)
 -   [Управление видеокамерой](controlling-a-dv-camcorder.md)

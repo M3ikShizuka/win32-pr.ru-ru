@@ -4,16 +4,16 @@ ms.assetid: 0f68628f-9d38-45ca-9487-95bf62075e00
 title: Событие PBT_APMQUERYSUSPENDFAILED (WinUser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1544cd5ed94ae0228c739e2ddb576b0bd77146eb
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 4151829d2c00fc8d4577fb8a7231111df09eb1326985f274d4dcc9e8986b2b86
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105673803"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119143367"
 ---
 # <a name="pbt_apmquerysuspendfailed-event"></a>\_Событие ПБТ апмкуерисуспендфаилед
 
-\[ПБТ \_ апмкуерисуспендфаилед доступен для использования в операционных системах, указанных в разделе требования. Поддержка этого события была удалена в Windows Vista. Вместо этого используйте [**SetThreadExecutionState**](/windows/desktop/api/Winbase/nf-winbase-setthreadexecutionstate) .\]
+\[ПБТ \_ апмкуерисуспендфаилед доступен для использования в операционных системах, указанных в разделе требования. поддержка этого события была удалена в Windows Vista. Вместо этого используйте [**SetThreadExecutionState**](/windows/desktop/api/Winbase/nf-winbase-setthreadexecutionstate) .\]
 
 Сообщает приложениям, что разрешение на приостановку компьютера было отклонено. Это событие является широковещательным, если какое-либо приложение или драйвер вернули **широковещательный \_ запрос \_** на предыдущее событие [ПБТ \_ апмкуерисуспенд](pbt-apmquerysuspend.md) .
 
@@ -73,7 +73,7 @@ WindowProc( HWND   hwnd,    // handle to window
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Приложения обычно реагируют на это событие путем возобновления нормальной работы.
 
@@ -83,11 +83,11 @@ WindowProc( HWND   hwnd,    // handle to window
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                                              |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                                     |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                                              |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                                                                    |
 | Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                                           |
-| Header<br/>                   | <dl> <dt>WinUser. h (включение Windows. h)</dt> </dl> |
+| Header<br/>                   | <dl> <dt>WinUser. h (включает Windows. h)</dt> </dl> |
 
 
 

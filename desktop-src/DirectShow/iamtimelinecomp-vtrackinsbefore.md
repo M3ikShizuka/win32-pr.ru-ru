@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: ff5356591db6ccd20de720efd898387240075f19
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: c84038dcaaed7fe56c06d195e269c4bb03f1c18a58b4ec4490dc8cae541b9a54
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105679785"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119928364"
 ---
 # <a name="iamtimelinecompvtrackinsbefore-method"></a>Метод Иамтимелинекомп:: Втраккинсбефоре
 
@@ -76,7 +76,7 @@ HRESULT VTrackInsBefore(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Каждая виртуальная дорожка в составе имеет уникальный уровень приоритета. Уровни приоритета находятся в диапазоне от 0 до *n* – 1, где *n* — число виртуальных дорожек в композиции. Для видеогрупп виртуальная дорожка скрывает все виртуальные дорожки с более низким уровнем приоритета, за исключением тех мест, где дорожка пуста или содержит переход. Виртуальные дорожки можно рассматривать как слои в окончательной композиции. Транспортер 1 размещается поверх записи 0, а на дорожке 2 — на уровне Track 1 и т. д.
 
@@ -92,22 +92,22 @@ HRESULT VTrackInsBefore(
  
 
 > [!Note]  
-> Чтобы получить Кедит. h, скачайте [обновление Microsoft Windows SDK для Windows Vista и платформа .NET Framework 3,0](https://msdn.microsoft.com/windowsvista/bb980924.aspx). Кедит. h недоступен в Microsoft Windows SDK для Windows 7 и платформа .NET Framework 3,5 с пакетом обновления 1 (SP1).
+> чтобы получить кедит. h, скачайте [обновление Microsoft Windows SDK для Windows Vista и платформа .NET Framework 3,0](https://msdn.microsoft.com/windowsvista/bb980924.aspx). кедит. h недоступен в Microsoft Windows SDK для Windows 7 и платформа .NET Framework 3,5 с пакетом обновления 1 (sp1).
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Кедит. h</dt> </dl>      |
+| Заголовок<br/>  | <dl> <dt>Кедит. h</dt> </dl>      |
 | Библиотека<br/> | <dl> <dt>Стрмиидс. lib</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

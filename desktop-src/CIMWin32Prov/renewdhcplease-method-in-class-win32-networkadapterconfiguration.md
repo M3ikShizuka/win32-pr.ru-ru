@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 4603f013c6b4c2c80edd555608b5f59325b6a6d9
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 08e3887f44fbd56b2f80c275b1cfacc26fd83dc50890f8162efec93d329f44c5
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104072548"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119218174"
 ---
 # <a name="renewdhcplease-method-of-the-win32_networkadapterconfiguration-class"></a>Метод RenewDHCPLease \_ класса Win32 NetworkAdapterConfiguration
 
@@ -316,7 +316,7 @@ IPX не включен на адаптере.
 
 </dd> <dt>
 
-**Нет памяти**
+**Недостаточно памяти**
 </dt> <dd>
 
 92
@@ -395,7 +395,7 @@ DHCP не включен на адаптере.
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Аренда IP-адреса, назначенного DHCP-сервером, имеет дату окончания срока действия, которую клиент должен продлить, если планируется продолжать использовать назначенный IP-адрес.
 

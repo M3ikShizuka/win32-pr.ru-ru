@@ -4,12 +4,12 @@ ms.assetid: f7a35bdf-ea6d-40ea-b3c0-c2a3ae2276c4
 title: Настройка Time-Out транзакций
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b002448ca21e97e2e4996679d87a4b6a7680161f
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 9c770796cc3236f59e4a40e3d647e0a4bfafeb2cc8e06dbd9e248bcb1538867c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104496590"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120029414"
 ---
 # <a name="setting-the-transaction-time-out"></a>Настройка Time-Out транзакций
 
@@ -23,7 +23,7 @@ ms.locfileid: "104496590"
 
 3.  В разделе время **ожидания транзакции** введите время ожидания транзакции в секундах. По умолчанию время ожидания составляет 60 секунд.
 
-4.  Нажмите кнопку **ОК**.
+4.  Нажмите **OK**.
 
 **Установка времени ожидания транзакции для компонента с помощью средства администрирования "службы компонентов"**
 
@@ -40,9 +40,9 @@ ms.locfileid: "104496590"
 
 4.  В разделе время **ожидания транзакции** введите время ожидания транзакции в секундах. По умолчанию время ожидания составляет 0 секунд, что означает, что компонент никогда не будет ждать истечения времени ожидания транзакции.
 
-5.  Нажмите кнопку **ОК**.
+5.  Нажмите **OK**.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
