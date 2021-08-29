@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 52780144a48cbb424ee037f71a56e238bb864311
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: b390e0aab0a95ce7eccd7f819fd1f1bd24940760802e342f189f06fde57a8af7
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103990434"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119923014"
 ---
 # <a name="cim_logicalidentity-class-cimwin32-wmi-providers"></a>Класс CIM_LogicalIdentity (поставщики WMI CIMWin32)
 
@@ -52,7 +52,7 @@ class CIM_LogicalIdentity
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **CIM \_ логикалидентити** имеет следующие свойства.
 
@@ -84,7 +84,7 @@ class CIM_LogicalIdentity
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Инструментарий WMI не реализует этот класс. Классы, производные от **CIM \_ логикалидентити**, см. в разделе [Классы Win32](win32-provider.md).
 

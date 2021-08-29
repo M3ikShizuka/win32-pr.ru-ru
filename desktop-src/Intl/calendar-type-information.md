@@ -4,12 +4,12 @@ ms.assetid: 33361a97-0f27-477a-a0ee-3d4d3aaeaacf
 title: Сведения о типе календаря
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 57d59229517143444aa00be9907b7419e0656147ad2fdaacf4aa5cec6e872caa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 719591e3c912b68dca08ab600b9fa479377b9ef0
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119147707"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122473730"
 ---
 # <a name="calendar-type-information"></a>Сведения о типе календаря
 
@@ -34,253 +34,67 @@ ms.locfileid: "119147707"
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Константа</th>
-<th>Описание</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>CAL_ICALINTVALUE</td>
-<td>Целочисленное значение, указывающее тип календаря для альтернативного календаря.</td>
-</tr>
-<tr class="even">
-<td>CAL_ITWODIGITYEARMAX</td>
-<td><strong>Windows Me/98, Windows 2000:</strong> Целочисленное значение, указывающее верхнюю границу диапазона из двух цифр года.</td>
-</tr>
-<tr class="odd">
-<td>CAL_IYEAROFFSETRANGE</td>
-<td>Одна или несколько строк, заканчивающихся нулем, которые задают смещения года для каждого диапазона эры. Последняя строка содержит дополнительный завершающий нуль символ. Это значение зависит от типа необязательного календаря.</td>
-</tr>
-<tr class="even">
-<td>CAL_SABBREVDAYNAME1</td>
-<td>Сокращенное собственное имя первого дня недели.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SABBREVDAYNAME2</td>
-<td>Сокращенное собственное имя второго дня недели.</td>
-</tr>
-<tr class="even">
-<td>CAL_SABBREVDAYNAME3</td>
-<td>Сокращенное собственное название третьего дня недели.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SABBREVDAYNAME4</td>
-<td>Сокращенное собственное имя четвертого дня недели.</td>
-</tr>
-<tr class="even">
-<td>CAL_SABBREVDAYNAME5</td>
-<td>Сокращенное машинное имя пятого дня недели.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SABBREVDAYNAME6</td>
-<td>Сокращенное собственное название шестого дня недели.</td>
-</tr>
-<tr class="even">
-<td>CAL_SABBREVDAYNAME7</td>
-<td>Сокращенное собственное имя седьмого дня недели.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SABBREVERASTRING</td>
-<td><strong>Windows 7 и более поздних версий:</strong> Сокращенное машинное имя эры. Полная эра представляется константой CAL_SERASTRING.</td>
-</tr>
-<tr class="even">
-<td>CAL_SABBREVMONTHNAME1</td>
-<td>Сокращенное собственное имя первого месяца года.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SABBREVMONTHNAME2</td>
-<td>Сокращенное собственное имя второго месяца года.</td>
-</tr>
-<tr class="even">
-<td>CAL_SABBREVMONTHNAME3</td>
-<td>Сокращенное собственное название третьего месяца года.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SABBREVMONTHNAME4</td>
-<td>Сокращенное собственное название четвертого месяца года.</td>
-</tr>
-<tr class="even">
-<td>CAL_SABBREVMONTHNAME5</td>
-<td>Сокращенное машинное имя пятого месяца года.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SABBREVMONTHNAME6</td>
-<td>Сокращенное собственное название шестого месяца года.</td>
-</tr>
-<tr class="even">
-<td>CAL_SABBREVMONTHNAME7</td>
-<td>Сокращенное собственное имя седьмого месяца года.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SABBREVMONTHNAME8</td>
-<td>Сокращенное собственное название восьмого месяца года.</td>
-</tr>
-<tr class="even">
-<td>CAL_SABBREVMONTHNAME9</td>
-<td>Сокращенное машинное имя девятого месяца года.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SABBREVMONTHNAME10</td>
-<td>Сокращенное собственное название десятого месяца года.</td>
-</tr>
-<tr class="even">
-<td>CAL_SABBREVMONTHNAME11</td>
-<td>Сокращенное имя в машинном номере одиннадцатого месяца года.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SABBREVMONTHNAME12</td>
-<td>Сокращенное собственное название двенадцатого месяца года.</td>
-</tr>
-<tr class="even">
-<td>CAL_SABBREVMONTHNAME13</td>
-<td>Сокращенное машинное имя тринадцатого месяца года, если оно существует.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SCALNAME</td>
-<td>Собственное имя альтернативного календаря.</td>
-</tr>
-<tr class="even">
-<td>CAL_SDAYNAME1</td>
-<td>Собственное имя первого дня недели.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SDAYNAME2</td>
-<td>Собственное имя второго дня недели.</td>
-</tr>
-<tr class="even">
-<td>CAL_SDAYNAME3</td>
-<td>Собственное название третьего дня недели.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SDAYNAME4</td>
-<td>Собственное название четвертого дня недели.</td>
-</tr>
-<tr class="even">
-<td>CAL_SDAYNAME5</td>
-<td>Собственное имя пятого дня недели.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SDAYNAME6</td>
-<td>Собственное название шестого дня недели.</td>
-</tr>
-<tr class="even">
-<td>CAL_SDAYNAME7</td>
-<td>Собственное название седьмого дня недели.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SERASTRING</td>
-<td>Одна или несколько строк, заканчивающихся нулем, которые задают каждую из кодовых позиций Юникода, указывающих эру, связанную с CAL_IYEAROFFSETRANGE. Последняя строка содержит дополнительный завершающий нуль символ. Это значение зависит от типа необязательного календаря.</td>
-</tr>
-<tr class="even">
-<td>CAL_SLONGDATE</td>
-<td>Длинные форматы даты для типа календаря.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SMONTHDAY</td>
-<td><strong>Windows 7 и более поздних версий:</strong> Формат месяца и дня для типа календаря. Форматирование аналогично форматированию для CAL_SLONGDATE. Например, если шаблон "месяц/день" представляет собой полное название месяца, за которым следует номер дня с начальными нулями, например, &quot; 03 сентября, &quot; то используется формат &quot; мммм дд &quot; . Одинарные кавычки можно использовать для вставки неформатированных символов, например de в испанском.
-<blockquote>
-[!Note]<br />
-Этот тип календаря поддерживает только один формат.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="even">
-<td>CAL_SMONTHNAME1</td>
-<td>Собственное имя первого месяца года.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SMONTHNAME2</td>
-<td>Собственное имя второго месяца года.</td>
-</tr>
-<tr class="even">
-<td>CAL_SMONTHNAME3</td>
-<td>Собственное название третьего месяца года.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SMONTHNAME4</td>
-<td>Собственное название четвертого месяца года.</td>
-</tr>
-<tr class="even">
-<td>CAL_SMONTHNAME5</td>
-<td>Собственное название пятого месяца года.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SMONTHNAME6</td>
-<td>Собственное название шестого месяца года.</td>
-</tr>
-<tr class="even">
-<td>CAL_SMONTHNAME7</td>
-<td>Собственное название седьмого месяца года.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SMONTHNAME8</td>
-<td>Собственное название восьмого месяца года.</td>
-</tr>
-<tr class="even">
-<td>CAL_SMONTHNAME9</td>
-<td>Собственное название девятого месяца года.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SMONTHNAME10</td>
-<td>Собственное название десятого месяца года.</td>
-</tr>
-<tr class="even">
-<td>CAL_SMONTHNAME11</td>
-<td>Собственное название одиннадцатого месяца года.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SMONTHNAME12</td>
-<td>Собственное название двенадцатого месяца года.</td>
-</tr>
-<tr class="even">
-<td>CAL_SMONTHNAME13</td>
-<td>Собственное имя тринадцатого месяца года, если оно существует.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SSHORTDATE</td>
-<td>Краткие форматы даты для типа календаря.</td>
-</tr>
-<tr class="even">
-<td>CAL_SSHORTESTDAYNAME1</td>
-<td><strong>Windows Vista и более поздних версий:</strong> Короткое собственное имя первого дня недели.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SSHORTESTDAYNAME2</td>
-<td><strong>Windows Vista и более поздних версий:</strong> Короткое собственное имя второго дня недели.</td>
-</tr>
-<tr class="even">
-<td>CAL_SSHORTESTDAYNAME3</td>
-<td><strong>Windows Vista и более поздних версий:</strong> Короткое машинное имя третьего дня недели.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SSHORTESTDAYNAME4</td>
-<td><strong>Windows Vista и более поздних версий:</strong> Короткое собственное имя четвертого дня недели.</td>
-</tr>
-<tr class="even">
-<td>CAL_SSHORTESTDAYNAME5</td>
-<td><strong>Windows Vista и более поздних версий:</strong> Короткое машинное имя пятого дня недели.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SSHORTESTDAYNAME6</td>
-<td><strong>Windows Vista и более поздних версий:</strong> Короткое машинное имя шестого дня недели.</td>
-</tr>
-<tr class="even">
-<td>CAL_SSHORTESTDAYNAME7</td>
-<td><strong>Windows Vista и более поздних версий:</strong> Короткое машинное имя седьмого дня недели.</td>
-</tr>
-<tr class="odd">
-<td>CAL_SYEARMONTH</td>
-<td><strong>Windows Me/98, Windows 2000:</strong> Форматы "год/месяц" для указанных календарей.</td>
-</tr>
-</tbody>
-</table>
+
+| Константа | Описание | 
+|----------|-------------|
+| CAL_ICALINTVALUE | Целочисленное значение, указывающее тип календаря для альтернативного календаря. | 
+| CAL_ITWODIGITYEARMAX | <strong>Windows Me/98, Windows 2000:</strong> Целочисленное значение, указывающее верхнюю границу диапазона из двух цифр года. | 
+| CAL_IYEAROFFSETRANGE | Одна или несколько строк, заканчивающихся нулем, которые задают смещения года для каждого диапазона эры. Последняя строка содержит дополнительный завершающий нуль символ. Это значение зависит от типа необязательного календаря. | 
+| CAL_SABBREVDAYNAME1 | Сокращенное собственное имя первого дня недели. | 
+| CAL_SABBREVDAYNAME2 | Сокращенное собственное имя второго дня недели. | 
+| CAL_SABBREVDAYNAME3 | Сокращенное собственное название третьего дня недели. | 
+| CAL_SABBREVDAYNAME4 | Сокращенное собственное имя четвертого дня недели. | 
+| CAL_SABBREVDAYNAME5 | Сокращенное машинное имя пятого дня недели. | 
+| CAL_SABBREVDAYNAME6 | Сокращенное собственное название шестого дня недели. | 
+| CAL_SABBREVDAYNAME7 | Сокращенное собственное имя седьмого дня недели. | 
+| CAL_SABBREVERASTRING | <strong>Windows 7 и более поздних версий:</strong> Сокращенное машинное имя эры. Полная эра представляется константой CAL_SERASTRING. | 
+| CAL_SABBREVMONTHNAME1 | Сокращенное собственное имя первого месяца года. | 
+| CAL_SABBREVMONTHNAME2 | Сокращенное собственное имя второго месяца года. | 
+| CAL_SABBREVMONTHNAME3 | Сокращенное собственное название третьего месяца года. | 
+| CAL_SABBREVMONTHNAME4 | Сокращенное собственное название четвертого месяца года. | 
+| CAL_SABBREVMONTHNAME5 | Сокращенное машинное имя пятого месяца года. | 
+| CAL_SABBREVMONTHNAME6 | Сокращенное собственное название шестого месяца года. | 
+| CAL_SABBREVMONTHNAME7 | Сокращенное собственное имя седьмого месяца года. | 
+| CAL_SABBREVMONTHNAME8 | Сокращенное собственное название восьмого месяца года. | 
+| CAL_SABBREVMONTHNAME9 | Сокращенное машинное имя девятого месяца года. | 
+| CAL_SABBREVMONTHNAME10 | Сокращенное собственное название десятого месяца года. | 
+| CAL_SABBREVMONTHNAME11 | Сокращенное имя в машинном номере одиннадцатого месяца года. | 
+| CAL_SABBREVMONTHNAME12 | Сокращенное собственное название двенадцатого месяца года. | 
+| CAL_SABBREVMONTHNAME13 | Сокращенное машинное имя тринадцатого месяца года, если оно существует. | 
+| CAL_SCALNAME | Собственное имя альтернативного календаря. | 
+| CAL_SDAYNAME1 | Собственное имя первого дня недели. | 
+| CAL_SDAYNAME2 | Собственное имя второго дня недели. | 
+| CAL_SDAYNAME3 | Собственное название третьего дня недели. | 
+| CAL_SDAYNAME4 | Собственное название четвертого дня недели. | 
+| CAL_SDAYNAME5 | Собственное имя пятого дня недели. | 
+| CAL_SDAYNAME6 | Собственное название шестого дня недели. | 
+| CAL_SDAYNAME7 | Собственное название седьмого дня недели. | 
+| CAL_SERASTRING | Одна или несколько строк, заканчивающихся нулем, которые задают каждую из кодовых позиций Юникода, указывающих эру, связанную с CAL_IYEAROFFSETRANGE. Последняя строка содержит дополнительный завершающий нуль символ. Это значение зависит от типа необязательного календаря. | 
+| CAL_SLONGDATE | Длинные форматы даты для типа календаря. | 
+| CAL_SMONTHDAY | <strong>Windows 7 и более поздних версий:</strong> Формат месяца и дня для типа календаря. Форматирование аналогично форматированию для CAL_SLONGDATE. Например, если шаблон "месяц/день" представляет собой полное название месяца, за которым следует номер дня с нулями в начале, например "Сентябрь 03", то используется формат "мммм дд". Одинарные кавычки можно использовать для вставки неформатированных символов, например de в испанском.<blockquote>[!Note]<br />Этот тип календаря поддерживает только один формат.</blockquote><br /> | 
+| CAL_SMONTHNAME1 | Собственное имя первого месяца года. | 
+| CAL_SMONTHNAME2 | Собственное имя второго месяца года. | 
+| CAL_SMONTHNAME3 | Собственное название третьего месяца года. | 
+| CAL_SMONTHNAME4 | Собственное название четвертого месяца года. | 
+| CAL_SMONTHNAME5 | Собственное название пятого месяца года. | 
+| CAL_SMONTHNAME6 | Собственное название шестого месяца года. | 
+| CAL_SMONTHNAME7 | Собственное название седьмого месяца года. | 
+| CAL_SMONTHNAME8 | Собственное название восьмого месяца года. | 
+| CAL_SMONTHNAME9 | Собственное название девятого месяца года. | 
+| CAL_SMONTHNAME10 | Собственное название десятого месяца года. | 
+| CAL_SMONTHNAME11 | Собственное название одиннадцатого месяца года. | 
+| CAL_SMONTHNAME12 | Собственное название двенадцатого месяца года. | 
+| CAL_SMONTHNAME13 | Собственное имя тринадцатого месяца года, если оно существует. | 
+| CAL_SSHORTDATE | Краткие форматы даты для типа календаря. | 
+| CAL_SSHORTESTDAYNAME1 | <strong>Windows Vista и более поздних версий:</strong> Короткое собственное имя первого дня недели. | 
+| CAL_SSHORTESTDAYNAME2 | <strong>Windows Vista и более поздних версий:</strong> Короткое собственное имя второго дня недели. | 
+| CAL_SSHORTESTDAYNAME3 | <strong>Windows Vista и более поздних версий:</strong> Короткое машинное имя третьего дня недели. | 
+| CAL_SSHORTESTDAYNAME4 | <strong>Windows Vista и более поздних версий:</strong> Короткое собственное имя четвертого дня недели. | 
+| CAL_SSHORTESTDAYNAME5 | <strong>Windows Vista и более поздних версий:</strong> Короткое машинное имя пятого дня недели. | 
+| CAL_SSHORTESTDAYNAME6 | <strong>Windows Vista и более поздних версий:</strong> Короткое машинное имя шестого дня недели. | 
+| CAL_SSHORTESTDAYNAME7 | <strong>Windows Vista и более поздних версий:</strong> Короткое машинное имя седьмого дня недели. | 
+| CAL_SYEARMONTH | <strong>Windows Me/98, Windows 2000:</strong> Форматы "год/месяц" для указанных календарей. | 
+
 
 
 

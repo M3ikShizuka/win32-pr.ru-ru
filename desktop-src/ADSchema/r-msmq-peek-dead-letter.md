@@ -13,12 +13,12 @@ api_type:
 - Schema
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e98fc4266154e84ab08adf1de274cee37055e1c8
-ms.sourcegitcommit: b77ace27b0432e7cd3863191b11926be032fbe2f
+ms.openlocfilehash: aadb1d1ae81fae92eb0a89bc76a4095beabcc563d45b448cc6b5ad5c917657eb
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "105655567"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119531610"
 ---
 # <a name="msmq-peek-dead-letter-extended-right"></a>очередь MSMQ-Просмотр-недоставленное письмо расширенное право
 

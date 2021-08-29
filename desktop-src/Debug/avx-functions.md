@@ -4,12 +4,12 @@ ms.assetid: 237f356a-9ee8-4c52-b08c-a6695c52713a
 title: Функции AVX
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0b0b56c83b6beb674bc284b139bb656441956705
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 16d4645fc9869931e094fa6fd84a8c5b79b1ff09a6fcfd65df3f3b043fe84573
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104262502"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119815614"
 ---
 # <a name="avx-functions"></a>Функции AVX
 

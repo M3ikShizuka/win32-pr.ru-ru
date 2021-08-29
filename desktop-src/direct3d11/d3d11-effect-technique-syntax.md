@@ -15,12 +15,12 @@ keywords:
 - Сетпикселшадер, Direct3D 11, результат
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 73fb668f308869ef9cca5cce99d522f18a287f3c
-ms.sourcegitcommit: fe03c5d92ca6a0d66a114b2303e99c0a19241ffb
+ms.openlocfilehash: 5b62876aea57864dfc495410e85ec2a9db24cbe1
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "104133342"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122625560"
 ---
 # <a name="effect-technique-syntax-direct3d-11"></a>Синтаксис методики влияния (Direct3D 11)
 
@@ -46,13 +46,13 @@ ms.locfileid: "104133342"
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col  />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
 <th>Элемент</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>
@@ -62,7 +62,7 @@ ms.locfileid: "104133342"
 </tr>
 <tr class="even">
 <td><span id="TechniqueName"></span><span id="techniquename"></span><span id="TECHNIQUENAME"></span><em>течникуенаме</em><br/></td>
-<td>Необязательный параметр. Строка ASCII, однозначно определяющая имя метода воздействия.<br/></td>
+<td>Необязательный элемент. Строка ASCII, однозначно определяющая имя метода воздействия.<br/></td>
 </tr>
 <tr class="odd">
 <td><span id="______________Annotations__"></span><span id="______________annotations__"></span><span id="______________ANNOTATIONS__"></span> <<em>Примечания</em> ><br/></td>
@@ -81,8 +81,8 @@ ms.locfileid: "104133342"
 <td>окне Задайте одну или несколько групп состояний, например: <br/> 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col  />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -96,7 +96,7 @@ ms.locfileid: "104133342"
 <td><span data-codelanguage=""></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -113,7 +113,7 @@ ms.locfileid: "104133342"
 <span data-codelanguage=""></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -131,7 +131,7 @@ ms.locfileid: "104133342"
 <span data-codelanguage=""></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -149,7 +149,7 @@ ms.locfileid: "104133342"
 <span data-codelanguage=""></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -165,7 +165,7 @@ ms.locfileid: "104133342"
 <span data-codelanguage=""></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -190,7 +190,7 @@ SetGeometryShader( ConstructGSWithSO( Shader, strStream0, strStream1, strStream2
 <span data-codelanguage=""></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -279,7 +279,7 @@ technique10 RenderSceneWithTexture1Light
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

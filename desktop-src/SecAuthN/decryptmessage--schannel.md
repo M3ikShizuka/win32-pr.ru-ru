@@ -4,12 +4,12 @@ ms.assetid: 5d7c8598-2d6b-4839-ae98-dff964bc962c
 title: Функция Декриптмессаже (Schannel)
 ms.topic: reference
 ms.date: 07/25/2019
-ms.openlocfilehash: feec97f9e989270d812458cd61ff34132d118d192108c3f2372b192f2e383464
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 75b2292e6058806e6e4cecbac9cb446207099fae
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119008482"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122480850"
 ---
 # <a name="decryptmessage-schannel-function"></a>Функция Декриптмессаже (Schannel)
 
@@ -60,8 +60,11 @@ SECURITY_STATUS SEC_Entry DecryptMessage(
 
 Этот параметр может иметь следующий флаг.
 
-<table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th>Значение</th><th>Значение</th></tr></thead><tbody><tr class="odd"><td><span id="SECQOP_WRAP_NO_ENCRYPT"></span><span id="secqop_wrap_no_encrypt"></span><dl> <dt><strong>SECQOP_WRAP_NO_ENCRYPT</strong></dt> </dl></td><td>Сообщение не было зашифровано, но был создан заголовок или трейлер.<br/><blockquote>[!Note]<br />
-KERB_WRAP_NO_ENCRYPT имеет то же значение и то же самое.</blockquote><br/></td></tr></tbody></table>
+
+| Значение | Значение | 
+|-------|---------|
+| <span id="SECQOP_WRAP_NO_ENCRYPT"></span><span id="secqop_wrap_no_encrypt"></span><dl><dt><strong>SECQOP_WRAP_NO_ENCRYPT</strong></dt></dl> | Сообщение не было зашифровано, но был создан заголовок или трейлер.<br /><blockquote>[!Note]<br />KERB_WRAP_NO_ENCRYPT имеет то же значение и то же самое.</blockquote><br /> | 
+
 
 ## <a name="return-value"></a>Возвращаемое значение
 
@@ -79,7 +82,7 @@ KERB_WRAP_NO_ENCRYPT имеет то же значение и то же само
 | **с повторного \_ \_ согласования**         | Для удаленной стороны требуется новая последовательность подтверждения или приложение только что инициировало завершение работы. Вернитесь к циклу согласования и вызовите [**AcceptSecurityContext (Schannel)**](acceptsecuritycontext--schannel.md) или [**InitializeSecurityContext (Schannel)**](initializesecuritycontext--schannel.md), передайте SECBUFFER_EXTRA, возвращенные из декриптмессаже (). Повторное согласование не поддерживается для режима ядра SChannel. Вызывающий объект должен либо игнорировать это возвращаемое значение, либо завершить соединение. Если значение не пропускается, клиент или сервер могут завершить подключение в результате. |
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Иногда приложение будет считывать данные от удаленной стороны, пытаться расшифровать их с помощью **декриптмессаже (Schannel)** и обнаружить, что **декриптмессаже (Schannel)** закончились, но выходные буферы пусты. Это нормальное поведение, и приложения должны уметь работать с ним.
 
@@ -91,7 +94,7 @@ KERB_WRAP_NO_ENCRYPT имеет то же значение и то же само
 Функция **декриптмессаже (Schannel)** Возвращает секунду, \_ \_ когда отправитель сообщения желает повторно согласовать соединение ([*контекст безопасности*](../secgloss/s-gly.md)). Приложение обрабатывает запрошенное повторное согласование путем вызова [**AcceptSecurityContext (Schannel)**](acceptsecuritycontext--schannel.md) (на стороне сервера) или [**InitializeSecurityContext (Schannel)**](initializesecuritycontext--schannel.md) (на стороне клиента) и передачи SECBUFFER_EXTRA возвращены из декриптмессаже (). После того как этот начальный вызов вернет значение, продолжайте, как будто приложение создает новое соединение. Дополнительные сведения см. в разделе [Создание контекста безопасности SChannel](creating-an-schannel-security-context.md).
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |--------------------------|-------------------------------------------|

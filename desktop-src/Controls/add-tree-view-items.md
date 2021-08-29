@@ -4,27 +4,27 @@ description: Вы добавляете элемент в элемент упра
 ms.assetid: CD6376F4-8B1A-489D-8538-6C1620E98F76
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 75a7da0846b57f422de83984b197df0770286882
-ms.sourcegitcommit: 3e70ae762629e244028b437420ed50b5850db4e3
+ms.openlocfilehash: 2b769e1b854651363a597e7e13cd27dfc49d582a76032458f593eb5b197d7c01
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "104412579"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119922074"
 ---
 # <a name="how-to-add-tree-view-items"></a>Добавление Tree-View элементов
 
 Вы добавляете элемент в элемент управления "дерево", отправляя сообщение [**TVM \_ INSERTITEM**](tvm-insertitem.md) в элемент управления. Сообщение включает адрес структуры [**твинсертструкт**](/windows/win32/api/commctrl/ns-commctrl-tvinsertstructa) , задавая родительский элемент, элемент, после которого вставляется новый элемент, и структуру [**твитем**](/windows/win32/api/commctrl/ns-commctrl-tvitema) , определяющую атрибуты элемента. Атрибуты включают метку элемента, его выбранные и невыбранные изображения, а также 32-разрядное значение, определяемое приложением.
 
-## <a name="what-you-need-to-know"></a>Что необходимо знать
+## <a name="what-you-need-to-know"></a>Это важно знать
 
 ### <a name="technologies"></a>Технологии
 
--   [Элементы управления Windows](window-controls.md)
+-   [Windows Элементы управления](window-controls.md)
 
-### <a name="prerequisites"></a>Предварительные условия
+### <a name="prerequisites"></a>Предварительные требования
 
 -   C/C++
--   Программирование пользовательского интерфейса Windows
+-   Windows Программирование пользовательского интерфейса
 
 ## <a name="instructions"></a>Инструкции
 
@@ -142,7 +142,7 @@ BOOL InitTreeViewItems(HWND hwndTV)
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -152,9 +152,9 @@ BOOL InitTreeViewItems(HWND hwndTV)
 [Пример Кустдтв иллюстрирует пользовательский вывод в элементе управления Tree-View](https://support.microsoft.com/default.aspx?scid=kb;EN-US;q248496)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

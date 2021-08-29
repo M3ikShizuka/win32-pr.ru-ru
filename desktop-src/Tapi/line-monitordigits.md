@@ -4,12 +4,12 @@ ms.assetid: 1c1a729c-a6bb-4432-9617-4a892c76cb8d
 title: Сообщение LINE_MONITORDIGITS (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5c6e85ed515d20c18c6e41cdb185b036312c54ff
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 49324bb90e774d15baaf58b873a7fdbfa9bfc938c8d86ea4be8514b02768bd70
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105675566"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119774234"
 ---
 # <a name="line_monitordigits-message"></a>Строка \_ сообщения монитордигитс
 
@@ -57,7 +57,7 @@ ms.locfileid: "105675566"
 *dwParam3* 
 </dt> <dd>
 
-Число тактов (число миллисекунд с момента запуска Windows), в которых была обнаружена указанная цифра. Для TAPI версий более ранних, чем 2,0, этот параметр не используется.
+число тактов (число миллисекунд с момента запуска Windows), в которых была обнаружена указанная цифра. Для TAPI версий более ранних, чем 2,0, этот параметр не используется.
 
 </dd> </dl>
 
@@ -65,7 +65,7 @@ ms.locfileid: "105675566"
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 **Строка \_ монитордигитс** отправляется в приложение с включенным отслеживанием цифр.
 
@@ -80,7 +80,7 @@ ms.locfileid: "105675566"
 | Требование | Значение |
 |-------------------------|-----------------------------------------------------------------------------------|
 | Версия TAPI<br/> | Требуется TAPI 2,0 или более поздней версии<br/>                                             |
-| Header<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
+| Заголовок<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
 
 
 

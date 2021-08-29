@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: b5aa27494931e8b6c528627fa8e96278a6d86b05
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: 1e135a31a61df40a12f8d7fa51340c439dd6dd62407c500cd335a82311fc5fac
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "104273961"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119372904"
 ---
 # <a name="id3dxanimationset-interface"></a>Интерфейс ID3DXAnimationSet
 
@@ -52,7 +52,7 @@ ms.locfileid: "104273961"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Набор анимации состоит из анимации для многих узлов в одной и той же анимации.
 
@@ -66,13 +66,13 @@ typedef interface ID3DXAnimationSet *LPD3DXANIMATIONSET;
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3dx9anim. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3dx9anim. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>   |
 
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: 5ad6ddc6ebc80c51e07b7ff0c887371fd45fd42b
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: baea07c840210a785e7bf54ad14bb4f6102e8ad2212c5845e52c3c6257439e51
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "105713711"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119634284"
 ---
 # <a name="id3dx10skininfogetboneinfluencecount-method"></a>Метод ID3DX10SkinInfo:: Жетбонеинфлуенцекаунт
 
@@ -61,7 +61,7 @@ UINT GetBoneInfluenceCount(
 
 | Требование | Значение |
 |--------------------|---------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3DX10. h</dt> </dl>   |
+| Заголовок<br/>  | <dl> <dt>D3DX10. h</dt> </dl>   |
 | Библиотека<br/> | <dl> <dt>D3DX10. lib</dt> </dl> |
 
 

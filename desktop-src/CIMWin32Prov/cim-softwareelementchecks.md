@@ -17,12 +17,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: ea6fcb02794174e825994f70270745741c9b7713
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 2912f17b35ce3134a7ba66df7fa8630720aa755ae75eb4923863e3f541fbf9a2
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103895609"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119919224"
 ---
 # <a name="cim_softwareelementchecks-class"></a>\_Класс CIM софтварилементчеккс
 
@@ -55,7 +55,7 @@ class CIM_SoftwareElementChecks
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **CIM \_ софтварилементчеккс** имеет следующие свойства.
 
@@ -122,13 +122,13 @@ class CIM_SoftwareElementChecks
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Инструментарий WMI не реализует этот класс. Классы WMI, производные от **CIM \_ софтварилементчеккс**, см. в разделе [Классы Win32](win32-provider.md).
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 

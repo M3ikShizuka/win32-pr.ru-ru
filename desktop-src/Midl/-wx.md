@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 04b502cea5f686de2951f6f21ab92fdbffef779b
-ms.sourcegitcommit: 57758ecb246c84d65e6e0e4bd5570d9176fa39cd
+ms.openlocfilehash: b5255b7256b82889f50b6bcffbc323e405f31d1423bb51a5b35b716dca170a25
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "103889739"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119913624"
 ---
 # <a name="wx-switch"></a>Параметр/WX
 
@@ -31,7 +31,7 @@ midl /WX
 
 Этот параметр не имеет параметров.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если указан параметр **/WX** и не указан параметр [**/w**](-w.md)*n* , все предупреждения на уровне по умолчанию (уровень 1) обрабатываются как ошибки.
 
@@ -47,7 +47,7 @@ midl /WX
 
 **MIDL/W3/WX filename. idl**
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
@@ -57,9 +57,9 @@ midl /WX
 [**/W**](-w.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

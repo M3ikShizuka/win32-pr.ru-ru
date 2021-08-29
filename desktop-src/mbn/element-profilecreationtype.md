@@ -7,12 +7,12 @@ MSHAttr:
 title: Профилекреатионтипе (в Мбнпрофиликст)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 652d406689219c8a535e0a75ae7123180c7530a6
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.openlocfilehash: 719e95406be13c6b47b6db32ec2c9f28fab0bde3
+ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 08/26/2021
-ms.locfileid: "122885402"
+ms.locfileid: "122986877"
 ---
 # <a name="span-idwwan_profile_v4element_profilecreationtypespanprofilecreationtype-in-mbnprofileext"></a><span id="WWAN_profile_v4.element_ProfileCreationType"></span>Профилекреатионтипе (в Мбнпрофиликст)
 
@@ -39,11 +39,11 @@ ms.locfileid: "122885402"
 
 ### <a name="span-idattributesspanspan-idattributesspanattributes"></a><span id="attributes"></span><span id="ATTRIBUTES"></span>Атрибуты
 
-Нет.
+Отсутствует.
 
 ### <a name="span-idchild_elementsspanspan-idchild_elementsspanspan-idchild_elementsspanchild-elements"></a><span id="Child_Elements"></span><span id="child_elements"></span><span id="CHILD_ELEMENTS"></span>Дочерние элементы
 
-Нет.
+Отсутствует.
 
 ### <a name="span-idparent_elementsspanspan-idparent_elementsspanparent-elements"></a><span id="parent_elements"></span><span id="PARENT_ELEMENTS"></span>Родительские элементы
 
@@ -64,7 +64,9 @@ ms.locfileid: "122885402"
 ## <a name="requirements"></a>Требования
 
 
-| | | <p>Пространство имен</p> | <p>https://www.microsoft.com/networking/WWAN/profile/v4</p> | 
+| Требование | Применение |
+|------------|----------|
+| <p>Пространство имен</p> | <p>https://www.microsoft.com/networking/WWAN/profile/v4</p> | 
 
 
  

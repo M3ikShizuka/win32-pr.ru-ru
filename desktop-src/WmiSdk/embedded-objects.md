@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Внедрение объектов в класс
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 39b94296a6869dddca7fd3df08739615a4a0c501
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 5bae37a6ce79638af4b508253ae8b61e03abb98e25aea095ab60f685279eefef
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105712547"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119679760"
 ---
 # <a name="embedding-objects-in-a-class"></a>Внедрение объектов в класс
 
@@ -21,7 +21,7 @@ ms.locfileid: "105712547"
 -   [Создание внедренных объектов](creating-embedded-objects.md)
 -   [Запрос внедренных объектов](querying-embedded-objects.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

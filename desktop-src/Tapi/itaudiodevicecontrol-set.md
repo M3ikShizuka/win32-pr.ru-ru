@@ -4,16 +4,16 @@ ms.assetid: 701cdfd4-9241-408c-8497-3983018e7da0
 title: 'Метод Итаудиодевицеконтрол:: Set (Ипмсп. h)'
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 25aa3a6013ce79bdcea5345dcc00f52c96c8a8fb
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 8e6fc99d5f6084ff2d5d2226847a395a21c3dcaeb6156d769c768768f10d186c
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105675060"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119775044"
 ---
 # <a name="itaudiodevicecontrolset-method"></a>Метод Итаудиодевицеконтрол:: Set
 
-\[ Этот метод недоступен для использования в Windows Vista, Windows Server 2008 и последующих версиях операционной системы. API клиента RTC предоставляет аналогичные функциональные возможности.\]
+\[этот метод недоступен для использования в Windows Vista, Windows Server 2008 и последующих версиях операционной системы. API клиента RTC предоставляет аналогичные функциональные возможности.\]
 
 Метод **Set** задает значение заданного [**Свойства звукового устройства**](audiodeviceproperty.md).
 
@@ -75,7 +75,7 @@ HRESULT get_Error(
 | Требование | Значение |
 |-------------------------|--------------------------------------------------------------------------------------|
 | Версия TAPI<br/> | Требуется TAPI 3,1<br/>                                                         |
-| Header<br/>       | <dl> <dt>Ипмсп. h</dt> </dl>   |
+| Заголовок<br/>       | <dl> <dt>Ипмсп. h</dt> </dl>   |
 | Библиотека<br/>      | <dl> <dt>UUID. lib</dt> </dl>  |
 | DLL<br/>          | <dl> <dt>Tapi3.dll</dt> </dl> |
 

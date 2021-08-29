@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - vmms.exe
-ms.openlocfilehash: 4921805ade9538a4e05a15331f707b9356411aa7
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: c2c6a3aa74937941bf9e30567c3a18a094ab5cf0a4013f62687680dece81c3aa
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104546823"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119014422"
 ---
 # <a name="removekvpitems-method-of-the-msvm_virtualsystemmanagementservice-class"></a>Метод Ремовеквпитемс \_ класса Виртуалсистемманажементсервице мсвм
 
@@ -115,7 +115,7 @@ uint32 RemoveKvpItems(
 **Недостаточно памяти** (32778)
 </dt> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Доступ к классу [**\_ виртуалсистемманажементсервице мсвм**](msvm-virtualsystemmanagementservice.md) может быть ограничен фильтром контроля учетных записей. Дополнительные сведения см. в разделе [Управление учетными записями пользователей и инструментарий WMI](/windows/desktop/WmiSdk/user-account-control-and-wmi).
 
@@ -184,7 +184,7 @@ public static void RemoveKvpItems(string vmName, string itemName)
 
 
 
-Следующий пример Visual Basic Scripting Edition (VBScript) удаляет пары "ключ-значение" из виртуальной машины.
+следующий пример Visual Basic scripting Edition (VBScript) удаляет пары "ключ-значение" из виртуальной машины.
 
 > [!IMPORTANT]
 > Для правильной работы на сервере узла виртуальной машины должен быть запущен следующий код, который должен быть запущен с правами администратора.
@@ -349,8 +349,8 @@ End Function
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 8\]<br/>                                                              |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2012\]<br/>                                                    |
+| Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                                              |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                                    |
 | Пространство имен<br/>                | Корневая \\ виртуализация \\ версии 2<br/>                                                                     |
 | MOF<br/>                      | <dl> <dt>Виндовсвиртуализатион. v2. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Vmms.exe</dt> </dl>                     |

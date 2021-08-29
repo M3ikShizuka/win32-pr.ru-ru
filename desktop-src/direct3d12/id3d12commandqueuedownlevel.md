@@ -1,6 +1,6 @@
 ---
 title: Интерфейс ID3D12CommandQueueDownlevel
-description: Предоставляет механизм присутствия, характерный для Windows 7.
+description: предоставляет Windowsный механизм, относящийся к -7.
 keywords:
 - Интерфейс ID3D12CommandQueueDownlevel
 topic_type:
@@ -14,16 +14,16 @@ api_type:
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 08/29/2019
-ms.openlocfilehash: 6f2aee6fd1b0f58469162c640d92aeb187bd9641
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: 61b41171d484797ff522cd32171e6ca168d586845c748de5a90e8c349bafdc1c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "105720868"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120069654"
 ---
 # <a name="id3d12commandqueuedownlevel-interface"></a>Интерфейс ID3D12CommandQueueDownlevel
 
-Доступ к этому интерфейсу можно получить через **QueryInterface** из [очереди команд Direct3D 12](/windows/desktop/api/d3d12/nn-d3d12-id3d12commandqueue) при использовании [Direct3D 12 в Windows 7](https://devblogs.microsoft.com/directx/porting-directx-12-games-to-windows-7/). Он предоставляет механизм присутствия, характерный для Windows 7.
+доступ к этому интерфейсу можно получить через **QueryInterface** из [очереди команд direct3d 12](/windows/desktop/api/d3d12/nn-d3d12-id3d12commandqueue) при использовании [Direct3D 12 в Windows 7](https://devblogs.microsoft.com/directx/porting-directx-12-games-to-windows-7/). он предоставляет Windowsный механизм, специфичный для -7.
 
 ### <a name="methods"></a>Методы
 
@@ -33,14 +33,14 @@ ms.locfileid: "105720868"
 |:-------|:------------|
 | [**Настоящее**](id3d12commandqueuedownlevel-present.md) | Копирует содержимое из ресурса D3D12 Texture2D в окно. |
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 | Требование | Значение |
 |--------|------------------|
-| Header | d3d12downlevel. h |
+| Заголовок | d3d12downlevel. h |
 | DLL    | D3D12.dll (только Windows 7) |
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 * [Интерфейсы Direct3D 12 в Windows 7](direct3d-12on7-interfaces.md)
-* [Справочник по Direct3D 12 в Windows 7 (d3d12downlevel. h)](direct3d-12on7-reference.md)
+* [справочник по Direct3D 12 на Windows 7 (d3d12downlevel. h)](direct3d-12on7-reference.md)
 * [Direct3D 12 в Windows 7](https://devblogs.microsoft.com/directx/porting-directx-12-games-to-windows-7/)

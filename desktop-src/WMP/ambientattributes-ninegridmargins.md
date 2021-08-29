@@ -3,7 +3,7 @@ title: Амбиентаттрибутес. Нинегридмаргинс
 description: Атрибут Нинегридмаргинс задает ширину полей для неравномерного масштабирования элемента обложки.
 ms.assetid: b8a7efd0-6c12-4436-9d53-0dcfa1600aa5
 keywords:
-- Проигрыватель Windows Media Амбиентаттрибутес. Нинегридмаргинс
+- амбиентаттрибутес. нинегридмаргинс проигрыватель Windows Media
 topic_type:
 - apiref
 api_name:
@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3cf77c1fcfdb64fb9e4b0dde8753572255c17eda
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 6d68e9e5ea8d90312d648e4b0af674a93eec84ddcd09ac7d2cb4bc6bc99ae158
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105694767"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119574004"
 ---
 # <a name="ambientattributesninegridmargins"></a>Амбиентаттрибутес. Нинегридмаргинс
 
@@ -31,7 +31,7 @@ ms.locfileid: "105694767"
 
 Этот атрибут является **строкой** для чтения и записи, которая содержит ширину полей в форме "*видслефт*,*видстоп*,*видсригхт*,*видсботтом*". Каждое значение ширины — это число, представляющее ширину (в пикселях) поля для девяти сеток.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 *Девять сеток* — это прием, используемый для разделения элементов пользовательского интерфейса на девять прямоугольных областей, расположенных в матрице размером 3 на 3. При изменении размера элемента девять областей сетки могут масштабироваться различными факторами.
 
@@ -39,17 +39,17 @@ ms.locfileid: "105694767"
 
 [Амбиентаттрибутес. ресизеимажес](ambientattributes-resizeimages.md) должно иметь значение true, чтобы этот атрибут работал.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media 11<br/> |
+| Версия<br/> | проигрыватель Windows Media 11<br/> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

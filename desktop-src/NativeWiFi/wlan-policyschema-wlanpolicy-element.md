@@ -12,12 +12,12 @@ api_name:
 api_type:
 - Schema
 api_location: ''
-ms.openlocfilehash: ec26a3cab15014deabca4e9332c1fbef7a788b17
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: e9e56e25e51a3c6e798242b390f5d8b7341d7306455f1b15eb9e450830d3c9b0
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104155279"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119064704"
 ---
 # <a name="wlanpolicy-element"></a>Вланполици, элемент
 
@@ -158,11 +158,11 @@ ms.locfileid: "104155279"
 | [**сети**](wlan-policyschema-network-blocklist-element.md)                                                             | [**нетворкитемтипе**](wlan-policyschema-networkitemtype-complextype.md) | Заблокированная сеть. <br/>                                                                                                       |
 | [**нетворкфилтер**](wlan-policyschema-networkfilter-wlanpolicy-element.md)                                                |                                                                          | Список разрешенных и запрещенных сетей.<br/>                                                                                  |
 | [**профилелист**](wlan-policyschema-profilelist-wlanpolicy-element.md)                                                    |                                                                          | Содержит список профилей, применяемых на уровне домена или компьютера. <br/>                                                |
-| [**шовдениеднетворк**](wlan-policyschema-showdeniednetwork-globalflags-element.md)                                       | Логическое                                                                  | Указывает, отображаются ли запрещенные сети в мастере **подключения к сети** . <br/>                                         |
+| [**шовдениеднетворк**](wlan-policyschema-showdeniednetwork-globalflags-element.md)                                       | Логическое                                                                  | указывает, отображаются ли запрещенные сети в мастере **Подключение сети** . <br/>                                         |
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Сведения о просмотре списка дочерних элементов в древовидной структуре см. в разделе [ \_ элементы схемы политики WLAN](wlan-policyschema-elements.md).
 
@@ -172,8 +172,8 @@ ms.locfileid: "104155279"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>       |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>       |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/> |
 
 
 

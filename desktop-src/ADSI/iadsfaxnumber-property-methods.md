@@ -21,12 +21,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 93e2d982aee794272f80e58385be34098a92a28e
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 1c1a740488c8f50dd90a0886b48b1c72f0e8e4560e50a741e8283b5a8ceb2360
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105654619"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119082458"
 ---
 # <a name="iadsfaxnumber-property-methods"></a>Методы свойств Иадсфакснумбер
 
@@ -94,7 +94,7 @@ HRESULT put_TelephoneNumber(
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -102,13 +102,13 @@ HRESULT put_TelephoneNumber(
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>IAds. h</dt> </dl>       |
+| Заголовок<br/>                   | <dl> <dt>IAds. h</dt> </dl>       |
 | DLL<br/>                      | <dl> <dt>Activeds.dll</dt> </dl> |
 | IID<br/>                      | IID \_ иадсфакснумбер определен как A910DEA9-4680-11D1-0A3B-00C04FB950DC<br/>        |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

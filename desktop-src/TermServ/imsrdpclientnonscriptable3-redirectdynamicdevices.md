@@ -44,12 +44,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 75224d26034e606a7a46943a02845280a092c3b5
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 989a45061c76368ff66dc7f3c946a7a3f844dd100c94fd079949e0ce6f0be07d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103801450"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119866484"
 ---
 # <a name="imsrdpclientnonscriptable3redirectdynamicdevices-property"></a>Свойство IMsRdpClientNonScriptable3:: Редиректдинамикдевицес
 
@@ -76,7 +76,7 @@ HRESULT get_RedirectDynamicDevices(
 
 Указывает, доступны ли для перенаправления динамически подключаемые устройства PnP, перечисленные в сеансе.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -90,7 +90,7 @@ HRESULT get_RedirectDynamicDevices(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -1,5 +1,5 @@
 ---
-description: '\_Класс СОПОСТАВЛЕНИЯ CIM сервицеакцессбисап представляет точки доступа для службы. Например, доступ к принтеру можно получить из NetWare, Macintosh или точек доступа к службам Windows (SAPs), которые могут размещаться в разных системах.'
+description: '\_Класс СОПОСТАВЛЕНИЯ CIM сервицеакцессбисап представляет точки доступа для службы. например, доступ к принтеру можно получить из NetWare, Macintosh или Windows точек доступа к службам (SAPs), которые могут размещаться в разных системах.'
 ms.assetid: 68311a56-b034-4a30-a885-74a745a738d8
 ms.tgt_platform: multiple
 title: Класс CIM_ServiceAccessBySAP
@@ -16,16 +16,16 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: e34b2af50a6475461ae4d39d156d26143fcb75f5
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 2fa927bdeb2a6554bf6b61822b1bf697984fb883857474e9a9890ac65af50a3c
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103990529"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119919634"
 ---
 # <a name="cim_serviceaccessbysap-class"></a>\_Класс CIM сервицеакцессбисап
 
-Класс сопоставления **CIM \_ сервицеакцессбисап** представляет точки доступа для службы. Например, доступ к принтеру можно получить из NetWare, Macintosh или точек доступа к службам Windows (SAPs), которые могут размещаться в разных системах.
+Класс сопоставления **CIM \_ сервицеакцессбисап** представляет точки доступа для службы. например, доступ к принтеру можно получить из NetWare, Macintosh или Windows точек доступа к службам (SAPs), которые могут размещаться в разных системах.
 
 > [!IMPORTANT]
 > Классы CIM (модель CIM) в DMTF (распределенная задача управления) являются родительскими классами, на которых строятся классы WMI. В настоящее время WMI поддерживает только [схемы версии CIM 2. x](https://dmtf.org/standards/cim/schemas).
@@ -51,7 +51,7 @@ class CIM_ServiceAccessBySAP : CIM_Dependency
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **CIM \_ сервицеакцессбисап** имеет следующие свойства.
 
@@ -89,7 +89,7 @@ class CIM_ServiceAccessBySAP : CIM_Dependency
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **CIM \_ сервицеакцессбисап** является производным от [**\_ зависимости CIM**](cim-dependency.md).
 
@@ -97,7 +97,7 @@ class CIM_ServiceAccessBySAP : CIM_Dependency
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -111,7 +111,7 @@ class CIM_ServiceAccessBySAP : CIM_Dependency
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -3,7 +3,7 @@ title: Функция обратного вызова Пксепровидерс
 description: Вызывается, когда служба WDS получает код управления службой.
 ms.assetid: 180ddcda-d111-4c81-9177-db99cbf1449f
 keywords:
-- Функция обратного вызова Пксепровидерсервицеконтрол службы развертывания Windows
+- функция обратного вызова пксепровидерсервицеконтрол Windows службах развертывания
 topic_type:
 - apiref
 api_name:
@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 8c8a2c71b7b386254622758efa5f3dc5269a131d
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 406152025518a7fb3bb50e0b44fea72bbd17b5cafbc6907912499b70eae1d5cd
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105701046"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119999594"
 ---
 # <a name="pxeproviderservicecontrol-callback-function"></a>Функция обратного вызова Пксепровидерсервицеконтрол
 
@@ -65,7 +65,7 @@ DWORD PXEAPI PxeProviderServiceControl(
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                          |
-| Минимальная версия сервера<br/> | Windows Server 2008, Windows Server 2003 с пакетом обновления 2 (SP2), \[ только классические приложения\]<br/> |
+| Минимальная версия сервера<br/> | Windows сервер 2008, Windows server 2003 с пакетом обновления 2 (SP2), \[ только классические приложения\]<br/> |
 
 
 
@@ -73,7 +73,7 @@ DWORD PXEAPI PxeProviderServiceControl(
 
 <dl> <dt>
 
-[Функции сервера служб развертывания Windows](windows-deployment-services-server-functions.md)
+[Windows Функции сервера служб развертывания](windows-deployment-services-server-functions.md)
 </dt> <dt>
 
 [**пксерегистеркаллбакк**](/windows/desktop/api/WdsPxe/nf-wdspxe-pxeregistercallback)

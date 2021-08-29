@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 841c68079572e1740f074034c1a8097ba6a86253
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 5bb37150aee923b63faf4eda54c66807d16b02f0e7a66183a2e5e55a29378307
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105654715"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119770414"
 ---
 # <a name="cbn_dblclk-notification-code"></a>\_Код уведомления КБН дблклк
 
@@ -53,7 +53,7 @@ CBN_DBLCLK
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот код уведомления имеет место только для полей со списком, [**имеющих \_ простой стиль CBS**](combo-box-styles.md) . В поле со списком, имеющем [**\_ раскрывающийся список CBS**](combo-box-styles.md) или стиль [**\_ DROPDOWNLIST**](combo-box-styles.md) , двойной щелчок не может произойти, поскольку один щелчок закрывает окно списка.
 
@@ -65,7 +65,7 @@ CBN_DBLCLK
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                                           |
 | Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включение Windows. h)</dt> </dl> |
 
 
 

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - windows.media.core.interop.h
-ms.openlocfilehash: eb61bce5132c2029b6f53fdd1159ca50984ba936
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 3d845cef0a4a9f6ee9d19b35705b20bd7e6bf2862a84ce4118acb92a5c66f37d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104145133"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119642124"
 ---
 # <a name="iaudioframenativegetdata-method"></a>Метод Иаудиофраменативе:: GetData
 
@@ -52,9 +52,9 @@ IID получаемого интерфейса.
 *ППВ* \[ заполняет\]
 </dt> <dd>
 
-Тип: **лпвоид \** _
+Тип: **лпвоид \***
 
-При успешном возврате этого метода содержит указатель интерфейса, запрошенный в параметре _riid *.
+При успешном возврате этого метода содержит указатель интерфейса, запрошенный в параметре *riid* .
 
 </dd> </dl>
 
@@ -64,7 +64,7 @@ IID получаемого интерфейса.
 
 Возвращает \_ ОК при успешном завершении. Возвращает E \_ Interface, если не удается найти запрошенный интерфейс.
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

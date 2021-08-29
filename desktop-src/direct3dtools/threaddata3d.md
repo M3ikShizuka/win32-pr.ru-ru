@@ -17,12 +17,12 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: a21aa98ff3e1f6d7c35f629ce72f9ff261b4586f8d2e1e622ba1d170d0556309
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5116edd4babc887c223da1c078beb8e26f97f4ae
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119844594"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122623730"
 ---
 # <a name="span-idvspixenginethreaddata3dspanthreaddata3d-structure"></a><span id="vspixengine.threaddata3d"></span>Структура ThreadData3D
 
@@ -35,7 +35,7 @@ ms.locfileid: "119844594"
 } ThreadData3D;
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 **X**  
 Индекс потока по оси X.
@@ -48,7 +48,7 @@ ms.locfileid: "119844594"
 
 ## <a name="requirements"></a>Требования
 
-<table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td><p>Заголовок</p></td><td>Вспиксенгине. h</td></tr></tbody></table>
+<table><colgroup><col  /><col  /></colgroup><tbody><tr class="odd"><td><p>Заголовок</p></td><td>Вспиксенгине. h</td></tr></tbody></table>
 
  
 

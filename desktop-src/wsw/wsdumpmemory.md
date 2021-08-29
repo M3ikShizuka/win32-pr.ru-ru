@@ -3,7 +3,7 @@ title: Функция Всдумпмемори (Вебсервицесдебуг
 description: Эта функция создает дамп всех выделений памяти для консоли.
 ms.assetid: 84a4f1e7-7d62-48c2-a8a3-ee4573bde5e4
 keywords:
-- Веб-службы Всдумпмемори Function для Windows
+- Веб-службы функции Всдумпмемори для Windows
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 70af8d34b3ee04a9db4128ce1063bd31e81306eb
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: b92941603b78c25db06415fec42524d978a90953d0c15eaea191a8874e6b34fb
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103989129"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119770894"
 ---
 # <a name="wsdumpmemory-function"></a>Функция Всдумпмемори
 
@@ -56,15 +56,15 @@ HRESULT WINAPI  WsDumpMemory(
 
 Если эта функция завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 7 \|\]<br/>                                             |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2008 R2 \|\]<br/>                                |
-| Header<br/>                   | <dl> <dt>Вебсервицесдебуг. h</dt> </dl> |
+| Минимальная версия клиента<br/> | \[приложения UWP для классических приложений Windows 7 \|\]<br/>                                             |
+| Минимальная версия сервера<br/> | Windows \[Приложения UWP для настольных приложений Server 2008 R2 \|\]<br/>                                |
+| Заголовок<br/>                   | <dl> <dt>Вебсервицесдебуг. h</dt> </dl> |
 
 
 

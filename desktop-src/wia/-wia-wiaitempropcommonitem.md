@@ -44,12 +44,12 @@ api_type:
 - HeaderDef
 api_location:
 - wiadef.h
-ms.openlocfilehash: 6cf9c102e5ba9732369604bea21876af66ca525b596736521e92e59e52ddf9e7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 674f32294fafccc9a78f57125b919c230793a3e5
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118207531"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122623340"
 ---
 # <a name="common-wia-item-property-constants"></a>Стандартные константы свойств элементов WIA
 
@@ -61,24 +61,24 @@ ms.locfileid: "118207531"
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col  />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
-<th style="text-align: left;">Константа/значение</th>
-<th style="text-align: left;">Описание</th>
+<th >Константа/значение</th>
+<th >Описание:</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;"><span id="WIA_IPA_ACCESS_RIGHTS"></span><span id="wia_ipa_access_rights"></span><dl> <dt><strong>WIA_IPA_ACCESS_RIGHTS</strong></dt> <dt>пиктуреакцессригхтс</dt> </dl></td>
-<td style="text-align: left;">Этот флаг управляет доступом к элементу, а также тем, удаляется ли элемент.<br/> Требуется для всех элементов WIA 2,0.<br/> Тип: <strong>VT_I4</strong>; Чтение, запись или чтение (только для чтения) в зависимости от способности элемента изменять права доступа; Допустимые значения: WIA_PROP_FLAG<br/> В следующей таблице приведены пять флагов, допустимых для этого свойства.<br/> 
+<td ><span id="WIA_IPA_ACCESS_RIGHTS"></span><span id="wia_ipa_access_rights"></span><dl> <dt><strong>WIA_IPA_ACCESS_RIGHTS</strong></dt> <dt>пиктуреакцессригхтс</dt> </dl></td>
+<td >Этот флаг управляет доступом к элементу, а также тем, удаляется ли элемент.<br/> Требуется для всех элементов WIA 2,0.<br/> Тип: <strong>VT_I4</strong>; Чтение, запись или чтение (только для чтения) в зависимости от способности элемента изменять права доступа; Допустимые значения: WIA_PROP_FLAG<br/> В следующей таблице приведены пять флагов, допустимых для этого свойства.<br/> 
 <table>
 <thead>
 <tr class="header">
 <th>Право доступа</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>
@@ -108,19 +108,19 @@ ms.locfileid: "118207531"
 <p> </p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><span id="WIA_IPA_APP_COLOR_MAPPING"></span><span id="wia_ipa_app_color_mapping"></span><dl> <dt><strong>WIA_IPA_APP_COLOR_MAPPING</strong></dt> <dt>пиктуреаппколормаппинг</dt> </dl></td>
-<td style="text-align: left;"><p>Это свойство зарезервировано для будущего использования и не реализовано в данный момент.</p>
+<td ><span id="WIA_IPA_APP_COLOR_MAPPING"></span><span id="wia_ipa_app_color_mapping"></span><dl> <dt><strong>WIA_IPA_APP_COLOR_MAPPING</strong></dt> <dt>пиктуреаппколормаппинг</dt> </dl></td>
+<td ><p>Это свойство зарезервировано для будущего использования и не реализовано в данный момент.</p>
 <p>Тип: <strong>VT_I4</strong>, доступ: только для чтения, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><span id="WIA_IPA_BITS_PER_CHANNEL"></span><span id="wia_ipa_bits_per_channel"></span><dl> <dt><strong>WIA_IPA_BITS_PER_CHANNEL</strong></dt> <dt>пиктуребитсперчаннел</dt> </dl></td>
-<td style="text-align: left;"><p>Содержит количество бит на канал для образа. Минидривер создает и поддерживает это свойство.</p>
+<td ><span id="WIA_IPA_BITS_PER_CHANNEL"></span><span id="wia_ipa_bits_per_channel"></span><dl> <dt><strong>WIA_IPA_BITS_PER_CHANNEL</strong></dt> <dt>пиктуребитсперчаннел</dt> </dl></td>
+<td ><p>Содержит количество бит на канал для образа. Минидривер создает и поддерживает это свойство.</p>
 <p>Требуется для всех элементов изображений, доступных для получения или сохранения в WIA 2,0.</p>
 <p>Тип: <strong>VT_I4</strong>, доступ: только для чтения, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><span id="WIA_IPA_BUFFER_SIZE"></span><span id="wia_ipa_buffer_size"></span><dl> <dt><strong>WIA_IPA_BUFFER_SIZE</strong></dt> <dt>пиктуребуфферсизе</dt> </dl></td>
-<td style="text-align: left;"><p>Содержит размер буфера (в байтах), используемого при переносе данных. Минидривер создает и поддерживает это свойство.</p>
+<td ><span id="WIA_IPA_BUFFER_SIZE"></span><span id="wia_ipa_buffer_size"></span><dl> <dt><strong>WIA_IPA_BUFFER_SIZE</strong></dt> <dt>пиктуребуфферсизе</dt> </dl></td>
+<td ><p>Содержит размер буфера (в байтах), используемого при переносе данных. Минидривер создает и поддерживает это свойство.</p>
 <p>Приложение может прочитать это свойство, чтобы определить размер буфера, заданный драйвером для передачи данных. Служба WIA также считывает это свойство для выделения памяти для минидривер во время обмена данными.</p>
 <p>Необязательно для всех элементов WIA 2,0, поддерживающих перемещение.</p>
 <p>Тип: <strong>VT_I4</strong>, доступ: только для чтения, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p>
@@ -135,25 +135,25 @@ ms.locfileid: "118207531"
 </div></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><span id="WIA_IPA_BYTES_PER_LINE"></span><span id="wia_ipa_bytes_per_line"></span><dl> <dt><strong>WIA_IPA_BYTES_PER_LINE</strong></dt> <dt>пиктуребитесперлине</dt> </dl></td>
-<td style="text-align: left;"><p>Содержит число байтов в одной строке просмотра изображения. Минидривер создает и поддерживает это свойство.</p>
+<td ><span id="WIA_IPA_BYTES_PER_LINE"></span><span id="wia_ipa_bytes_per_line"></span><dl> <dt><strong>WIA_IPA_BYTES_PER_LINE</strong></dt> <dt>пиктуребитесперлине</dt> </dl></td>
+<td ><p>Содержит число байтов в одной строке просмотра изображения. Минидривер создает и поддерживает это свойство.</p>
 <p>Необязательно для всех элементов WIA 2,0.</p>
 <p>Тип: <strong>VT_I4</strong>, доступ: только для чтения, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><span id="WIA_IPA_CHANNELS_PER_PIXEL"></span><span id="wia_ipa_channels_per_pixel"></span><dl> <dt><strong>WIA_IPA_CHANNELS_PER_PIXEL</strong></dt> <dt>пиктуречаннелсперпиксел</dt> </dl></td>
-<td style="text-align: left;"><p>Содержит число каналов на пиксель для образа. Минидривер создает и поддерживает это свойство.</p>
+<td ><span id="WIA_IPA_CHANNELS_PER_PIXEL"></span><span id="wia_ipa_channels_per_pixel"></span><dl> <dt><strong>WIA_IPA_CHANNELS_PER_PIXEL</strong></dt> <dt>пиктуречаннелсперпиксел</dt> </dl></td>
+<td ><p>Содержит число каналов на пиксель для образа. Минидривер создает и поддерживает это свойство.</p>
 <p>Требуется для всех элементов изображений, доступных для получения или сохранения в WIA 2,0.</p>
 <p>Тип: <strong>VT_I4</strong>, доступ: только для чтения, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><span id="WIA_IPA_COLOR_PROFILE"></span><span id="wia_ipa_color_profile"></span><dl> <dt><strong>WIA_IPA_COLOR_PROFILE</strong></dt> <dt>пиктуреколорпрофиле</dt> </dl></td>
-<td style="text-align: left;"><p>Это свойство зарезервировано для будущего использования и не реализовано в данный момент.</p>
+<td ><span id="WIA_IPA_COLOR_PROFILE"></span><span id="wia_ipa_color_profile"></span><dl> <dt><strong>WIA_IPA_COLOR_PROFILE</strong></dt> <dt>пиктуреколорпрофиле</dt> </dl></td>
+<td ><p>Это свойство зарезервировано для будущего использования и не реализовано в данный момент.</p>
 <p>Тип: <strong>VT_I4</strong>, доступ: только для чтения, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><span id="WIA_IPA_COMPRESSION"></span><span id="wia_ipa_compression"></span><dl> <dt><strong>WIA_IPA_COMPRESSION</strong></dt> <dt>пиктурекомпрессион</dt> </dl></td>
-<td style="text-align: left;"><p>Содержит текущий используемый тип сжатия. Минидривер создает и поддерживает это свойство.</p>
+<td ><span id="WIA_IPA_COMPRESSION"></span><span id="wia_ipa_compression"></span><dl> <dt><strong>WIA_IPA_COMPRESSION</strong></dt> <dt>пиктурекомпрессион</dt> </dl></td>
+<td ><p>Содержит текущий используемый тип сжатия. Минидривер создает и поддерживает это свойство.</p>
 <p>Приложение считывает это свойство для определения типа сжатия изображения или задает это свойство для настройки параметра сжатия.</p>
 <p>Тип: <strong>VT_I4</strong>, доступ: чтение и запись, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_LIST</a></p>
 <p>В следующей таблице приведены константы, допустимые для этого свойства. символ <strong>V</strong> указывает, что константа поддерживается только в Windows Vista и более поздних версиях. (Он доступен только через интерфейс <a href="-wia-iwiaitem2.md"><strong>IWiaItem2</strong></a> .)</p>
@@ -162,7 +162,7 @@ ms.locfileid: "118207531"
 <thead>
 <tr class="header">
 <th>Тип сжатия</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>
@@ -224,8 +224,8 @@ ms.locfileid: "118207531"
 </div></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><span id="WIA_IPA_DATATYPE"></span><span id="wia_ipa_datatype"></span><dl> <dt><strong>WIA_IPA_DATATYPE</strong></dt> <dt>пиктуредататипе</dt> </dl></td>
-<td style="text-align: left;"><p>Содержит текущий параметр типа данных для устройства. Минидривер создает и поддерживает это свойство.</p>
+<td ><span id="WIA_IPA_DATATYPE"></span><span id="wia_ipa_datatype"></span><dl> <dt><strong>WIA_IPA_DATATYPE</strong></dt> <dt>пиктуредататипе</dt> </dl></td>
+<td ><p>Содержит текущий параметр типа данных для устройства. Минидривер создает и поддерживает это свойство.</p>
 <p>Приложение считывает это свойство для определения типа данных изображения. Приложение записывает это свойство, чтобы задать текущий тип данных изображения, которое будет передано.</p>
 <p>Это свойство является обязательным для всех элементов WIA 2,0. Он должен быть доступен для чтения и записи для всех элементов с включенным приобретением WIA 2,0 и доступен только для чтения для элементов хранилища WIA 2,0.</p>
 <p>Тип: <strong>VT_I4</strong>; доступ к предварительным операционным системам Windows Vista: это свойство доступно только для чтения для камер и чтения и записи для сканеров. доступ для Windows Vista и более поздних версий: это свойство доступно только для чтения для WIA_CATEGORY_FOLDER и WIA_CATEGORY_FINISHED_FILE элементов, а для чтения и записи — для всех остальных категорий элементов WIA 2,0. Допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_LIST</a></p>
@@ -318,8 +318,8 @@ ms.locfileid: "118207531"
 <p> </p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><span id="WIA_IPA_DEPTH"></span><span id="wia_ipa_depth"></span><dl> <dt><strong>WIA_IPA_DEPTH</strong></dt> <dt>пиктуредепс</dt> </dl></td>
-<td style="text-align: left;"><p>WIA_IPA_DEPTH содержит значение битовой глубины изображения. Минидривер создает и поддерживает это свойство. Приложение считывает это свойство, чтобы определить битовую глубину изображения. Приложение может также иметь возможность задать для этого значения нужную глубину.</p>
+<td ><span id="WIA_IPA_DEPTH"></span><span id="wia_ipa_depth"></span><dl> <dt><strong>WIA_IPA_DEPTH</strong></dt> <dt>пиктуредепс</dt> </dl></td>
+<td ><p>WIA_IPA_DEPTH содержит значение битовой глубины изображения. Минидривер создает и поддерживает это свойство. Приложение считывает это свойство, чтобы определить битовую глубину изображения. Приложение может также иметь возможность задать для этого значения нужную глубину.</p>
 <p>Если для устройства можно задать только одно значение, создайте тип <a href="-wia-property-attributes.md">WIA_PROP_LIST</a> и поместите в него допустимое значение.</p>
 <p>Это свойство является обязательным для всех элементов WIA 2,0. Он должен быть доступен для чтения и записи для всех элементов с включенным приобретением WIA 2,0 и доступен только для чтения для элементов хранилища WIA 2,0.</p>
 <p>Тип: <strong>VT_I4</strong>; доступ к предварительным Windows операционным системам Vista: чтение и запись; доступ для Windows Vista и более поздних версий: это свойство доступно только для чтения для WIA_CATEGORY_FOLDER и WIA_CATEGORY_FINISHED_FILE элементов, а для чтения и записи — для всех остальных категорий элементов WIA 2,0. Допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_LIST</a></p>
@@ -327,8 +327,8 @@ ms.locfileid: "118207531"
 <p>WIA_DEPTH_AUTO является необязательным значением, но оно становится обязательным, если для WIA_IPA_DATATYPE поддерживается WIA_DATA_AUTO.</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><span id="WIA_IPA_FILENAME_EXTENSION"></span><span id="wia_ipa_filename_extension"></span><dl> <dt><strong>WIA_IPA_FILENAME_EXTENSION</strong></dt> <dt>пиктурефиленамикстенсион</dt> </dl></td>
-<td style="text-align: left;"><p>Содержит расширение имени файла для определенного формата файла. Минидривер создает и поддерживает это свойство.</p>
+<td ><span id="WIA_IPA_FILENAME_EXTENSION"></span><span id="wia_ipa_filename_extension"></span><dl> <dt><strong>WIA_IPA_FILENAME_EXTENSION</strong></dt> <dt>пиктурефиленамикстенсион</dt> </dl></td>
+<td ><p>Содержит расширение имени файла для определенного формата файла. Минидривер создает и поддерживает это свойство.</p>
 <p>Необязательно для всех элементов WIA 2,0, поддерживающих перемещение.</p>
 <p>Тип: <strong>VT_BSTR</strong>, доступ: только для чтения, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p>
 <p>Драйвер обновляет это свойство, чтобы отразить текущее значение свойства <a href="https://msdn.microsoft.com/library/ms796440.aspx">WIA_IPA_FORMAT</a> .</p>
@@ -345,8 +345,8 @@ ms.locfileid: "118207531"
 <p>Это свойство рекомендуется использовать для драйверов, которые поддерживают стандартные форматы и необходимы для драйверов, реализующих определенные пользователем форматы. Он информирует приложение о правильном расширении имени файла для использования во время перемещения файлов в частном формате. Например, если корпорация A. Datum создала драйвер WIA, который передавал файл в новом формате, компания может указать расширение &quot; ADC &quot; . Это позволяет приложениям передавать данные в этом формате в файл и создавать имя файла, например <em>MyFile. ADC</em>, которое полезно для других пользователей, которые понимают новое расширение.</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><span id="WIA_IPA_FORMAT"></span><span id="wia_ipa_format"></span><dl> <dt><strong>WIA_IPA_FORMAT</strong></dt> <dt>пиктуреформат</dt> </dl></td>
-<td style="text-align: left;"><p>Содержит текущий формат изображения, которое будет передано.</p>
+<td ><span id="WIA_IPA_FORMAT"></span><span id="wia_ipa_format"></span><dl> <dt><strong>WIA_IPA_FORMAT</strong></dt> <dt>пиктуреформат</dt> </dl></td>
+<td ><p>Содержит текущий формат изображения, которое будет передано.</p>
 <p>Приложение считывает это свойство, чтобы определить формат получаемого изображения. Приложение записывает это свойство для задания формата. Это свойство зависит от свойства <a href="https://msdn.microsoft.com/library/ms795488.aspx">WIA_IPA_TYMED</a> . Минидривер создает и поддерживает это свойство.</p>
 <p>Если для устройства можно задать только одно значение, создайте тип <a href="-wia-property-attributes.md">WIA_PROP_LIST</a> и поместите в него допустимое значение.</p>
 <p>Тип: <strong>CLSID</strong>, доступ: чтение и запись, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_LIST</a></p>
@@ -519,31 +519,31 @@ ms.locfileid: "118207531"
 </div></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><span id="WIA_IPA_FULL_ITEM_NAME"></span><span id="wia_ipa_full_item_name"></span><dl> <dt><strong>WIA_IPA_FULL_ITEM_NAME</strong></dt> <dt>пиктурефуллитемнаме</dt> </dl></td>
-<td style="text-align: left;"><p>Содержит полное имя элемента (имя элемента вместе со сведениями о пути). Полное имя элемента совпадает с параметром <em>бстрфуллитемнаме</em> функции служебной программы <a href="https://msdn.microsoft.com/library/ms794649.aspx">виаскреатедрвитем</a> Service. Приложение считывает это свойство, чтобы определить, какой элемент в настоящий момент используется, и где этот элемент находится в дереве элементов. Каждый элемент должен иметь уникальное имя. Приложения обычно используют полное имя элемента для поиска элементов в дереве элементов. Служба WIA создает и поддерживает это свойство.</p>
+<td ><span id="WIA_IPA_FULL_ITEM_NAME"></span><span id="wia_ipa_full_item_name"></span><dl> <dt><strong>WIA_IPA_FULL_ITEM_NAME</strong></dt> <dt>пиктурефуллитемнаме</dt> </dl></td>
+<td ><p>Содержит полное имя элемента (имя элемента вместе со сведениями о пути). Полное имя элемента совпадает с параметром <em>бстрфуллитемнаме</em> функции служебной программы <a href="https://msdn.microsoft.com/library/ms794649.aspx">виаскреатедрвитем</a> Service. Приложение считывает это свойство, чтобы определить, какой элемент в настоящий момент используется, и где этот элемент находится в дереве элементов. Каждый элемент должен иметь уникальное имя. Приложения обычно используют полное имя элемента для поиска элементов в дереве элементов. Служба WIA создает и поддерживает это свойство.</p>
 <p>Требуется для всех элементов WIA 2,0.</p>
 <p>Тип: <strong>VT_BSTR</strong>, доступ: только для чтения, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><span id="WIA_IPA_GAMMA_CURVES"></span><span id="wia_ipa_gamma_curves"></span><dl> <dt><strong>WIA_IPA_GAMMA_CURVES</strong></dt> <dt>пиктурегаммакурвес</dt> </dl></td>
-<td style="text-align: left;"><p>Это свойство зарезервировано для будущего использования и в настоящее время не реализовано.</p>
+<td ><span id="WIA_IPA_GAMMA_CURVES"></span><span id="wia_ipa_gamma_curves"></span><dl> <dt><strong>WIA_IPA_GAMMA_CURVES</strong></dt> <dt>пиктурегаммакурвес</dt> </dl></td>
+<td ><p>Это свойство зарезервировано для будущего использования и в настоящее время не реализовано.</p>
 <p>Тип: <strong>VT_I4</strong>, доступ: только для чтения, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><span id="WIA_IPA_ICM_PROFILE_NAME"></span><span id="wia_ipa_icm_profile_name"></span><dl> <dt><strong>WIA_IPA_ICM_PROFILE_NAME</strong></dt> <dt>пиктуреикмпрофиленаме</dt> </dl></td>
-<td style="text-align: left;"><p>Содержит имя профиля ICM, необходимое для правильного декодирования изображения. Приложение считывает это свойство, чтобы определить профиль ICM, используемый при обработке изображения. Служба WIA создает и поддерживает это свойство на основе записи Икмпрофилес в файле установки драйвера.</p>
+<td ><span id="WIA_IPA_ICM_PROFILE_NAME"></span><span id="wia_ipa_icm_profile_name"></span><dl> <dt><strong>WIA_IPA_ICM_PROFILE_NAME</strong></dt> <dt>пиктуреикмпрофиленаме</dt> </dl></td>
+<td ><p>Содержит имя профиля ICM, необходимое для правильного декодирования изображения. Приложение считывает это свойство, чтобы определить профиль ICM, используемый при обработке изображения. Служба WIA создает и поддерживает это свойство на основе записи Икмпрофилес в файле установки драйвера.</p>
 <p>Тип: <strong>VT_BSTR</strong>, доступ: только для чтения, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><span id="WIA_IPA_ITEM_CATEGORY"></span><span id="wia_ipa_item_category"></span><dl> <dt><strong>WIA_IPA_ITEM_CATEGORY</strong></dt> <dt>пиктуреитемкатегори</dt> </dl></td>
-<td style="text-align: left;"><p>поддерживается только в Windows Vista и более поздних версиях.</p>
+<td ><span id="WIA_IPA_ITEM_CATEGORY"></span><span id="wia_ipa_item_category"></span><dl> <dt><strong>WIA_IPA_ITEM_CATEGORY</strong></dt> <dt>пиктуреитемкатегори</dt> </dl></td>
+<td ><p>поддерживается только в Windows Vista и более поздних версиях.</p>
 <p>Элементы WIA 2,0 группируются по категориям, которые определяют способ обработки или использования <a href="-wia-iwiaitem2.md"><strong>IWiaItem2</strong></a> . Например, если элемент представляет устройство подачи, то приложение должно содержать необходимые свойства устройства подачи документов и действовать как устройство подачи документов. Если элемент представляет готовый файл, то приложение WIA 2,0 должно обрабатывать его таким образом, предполагая, что данные статичны и расположены на устройстве. (Правила для каждого элемента будут определены в отдельных документах спецификации.)</p>
 <p>Требуется для всех элементов WIA 2,0.</p>
 <p>Тип: <strong>VT_CLSID</strong>, доступ: только для чтения, допустимые значения: <a href="-wia-wia2-itemcategoryguids.md"><strong>идентификаторы GUID категорий элементов</strong></a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><span id="WIA_IPA_ITEM_FLAGS"></span><span id="wia_ipa_item_flags"></span><dl> <dt><strong>WIA_IPA_ITEM_FLAGS</strong></dt> <dt>пиктуреитемфлагс</dt> </dl></td>
-<td style="text-align: left;"><p>Содержит описательные флаги для элемента WIA. Флаги элемента те же, что и в параметре <em>лобжектфлагс</em> функции служебной программы <a href="https://msdn.microsoft.com/library/ms794649.aspx">виаскреатедрвитем</a> Service. Служба WIA создает и поддерживает это свойство.</p>
+<td ><span id="WIA_IPA_ITEM_FLAGS"></span><span id="wia_ipa_item_flags"></span><dl> <dt><strong>WIA_IPA_ITEM_FLAGS</strong></dt> <dt>пиктуреитемфлагс</dt> </dl></td>
+<td ><p>Содержит описательные флаги для элемента WIA. Флаги элемента те же, что и в параметре <em>лобжектфлагс</em> функции служебной программы <a href="https://msdn.microsoft.com/library/ms794649.aspx">виаскреатедрвитем</a> Service. Служба WIA создает и поддерживает это свойство.</p>
 <p>Приложение считывает это свойство для определения значений флагов элемента.</p>
 <p>Тип: <strong>VT_I4</strong> доступ: только для чтения, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p>
 <p>В следующей таблице приведены флаги, допустимые для этого свойства. звездочка * означает, что флаг не поддерживается в Windows Vista или более поздней версии. (Он доступен только через интерфейс <a href="/windows/desktop/api/wia_xp/nn-wia_xp-iwiaitem"><strong>ивиаитем</strong></a> .) двойная звездочка * * означает, что флаг не поддерживается ни в Windows Server 2003, ни Windows Vista или более поздней версии. символ <strong>V</strong> означает, что флаг поддерживается только в Windows Vista и более поздних версиях. (Он доступен только через интерфейс <a href="-wia-iwiaitem2.md"><strong>IWiaItem2</strong></a> .)</p>
@@ -551,7 +551,7 @@ ms.locfileid: "118207531"
 <table>
 <thead>
 <tr class="header">
-<th>Флаг</th>
+<th>Flag</th>
 <th>Определение</th>
 </tr>
 </thead>
@@ -696,51 +696,51 @@ ms.locfileid: "118207531"
 <p> </p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><span id="WIA_IPA_ITEM_NAME"></span><span id="wia_ipa_item_name"></span><dl> <dt><strong>WIA_IPA_ITEM_NAME</strong></dt> <dt>пиктуреитемнаме</dt> </dl></td>
-<td style="text-align: left;"><p>Содержит имя элемента. Приложение считывает это свойство, чтобы определить, какой элемент в данный момент используется. Каждый элемент имеет уникальное имя. Служба WIA создает и поддерживает это свойство.</p>
+<td ><span id="WIA_IPA_ITEM_NAME"></span><span id="wia_ipa_item_name"></span><dl> <dt><strong>WIA_IPA_ITEM_NAME</strong></dt> <dt>пиктуреитемнаме</dt> </dl></td>
+<td ><p>Содержит имя элемента. Приложение считывает это свойство, чтобы определить, какой элемент в данный момент используется. Каждый элемент имеет уникальное имя. Служба WIA создает и поддерживает это свойство.</p>
 <p>Требуется для всех элементов WIA 2,0.</p>
 <p>Тип: <strong>VT_BSTR</strong>, доступ: только для чтения, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><span id="WIA_IPA_ITEM_SIZE"></span><span id="wia_ipa_item_size"></span><dl> <dt><strong>WIA_IPA_ITEM_SIZE</strong></dt> <dt>пиктуреитемсизе</dt> </dl></td>
-<td style="text-align: left;"><p>Содержит текущий размер (в байтах) данных, связанных с элементом. Минидривер создает и поддерживает это свойство.</p>
+<td ><span id="WIA_IPA_ITEM_SIZE"></span><span id="wia_ipa_item_size"></span><dl> <dt><strong>WIA_IPA_ITEM_SIZE</strong></dt> <dt>пиктуреитемсизе</dt> </dl></td>
+<td ><p>Содержит текущий размер (в байтах) данных, связанных с элементом. Минидривер создает и поддерживает это свойство.</p>
 <p>Содержит общий размер передаваемых данных. Если это значение равно нулю, это означает, что минидривер не содержит сведений о точном размере данных. (Это распространено для сжатых данных.) Приложение считывает это значение, чтобы определить размер приобретения перед тем, как оно будет происходить. Служба WIA считывает это свойство для помощи при выделении памяти для передачи данных. Дополнительные сведения см. в разделе <a href="https://msdn.microsoft.com/library/ms792198.aspx">Передача данных в приложение WIA</a> , если свойство имеет значение 0, а тимед настроен для передачи файла, служба WIA не выделяет память для WIA-минидривер.</p>
 <p>Требуется для всех элементов WIA 2,0, поддерживающих перемещение.</p>
 <p>Тип: <strong>VT_I4</strong>, доступ: только для чтения, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><span id="WIA_IPA_ITEM_TIME"></span><span id="wia_ipa_item_time"></span><dl> <dt><strong>WIA_IPA_ITEM_TIME</strong></dt> <dt>пиктуреитемтиме</dt> </dl></td>
-<td style="text-align: left;"><p>Содержит время первоначальной записи образа. Минидривер создает и поддерживает это свойство. Это свойство должно быть представлено в виде вектора из восьми значений <strong>слов</strong> в виде структуры SYSTEMTIME (описывается в документации по Platform SDK).</p>
+<td ><span id="WIA_IPA_ITEM_TIME"></span><span id="wia_ipa_item_time"></span><dl> <dt><strong>WIA_IPA_ITEM_TIME</strong></dt> <dt>пиктуреитемтиме</dt> </dl></td>
+<td ><p>Содержит время первоначальной записи образа. Минидривер создает и поддерживает это свойство. Это свойство должно быть представлено в виде вектора из восьми значений <strong>слов</strong> в виде структуры SYSTEMTIME (описывается в документации по Platform SDK).</p>
 <p>Необязательно для всех элементов WIA 2,0.</p>
 <p>Тип: <strong>VT_UI2</strong>  |  <strong>VT_VECTOR</strong> доступ: только для чтения, записи или чтения, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><span id="WIA_IPA_ITEMS_STORED"></span><span id="wia_ipa_items_stored"></span><dl> <dt><strong>WIA_IPA_ITEMS_STORED</strong></dt> <dt>пиктуреитемитемссторед</dt> </dl></td>
-<td style="text-align: left;"><p>поддерживается только в Windows Vista и более поздних версиях.</p>
+<td ><span id="WIA_IPA_ITEMS_STORED"></span><span id="wia_ipa_items_stored"></span><dl> <dt><strong>WIA_IPA_ITEMS_STORED</strong></dt> <dt>пиктуреитемитемссторед</dt> </dl></td>
+<td ><p>поддерживается только в Windows Vista и более поздних версиях.</p>
 <p>Указывает, сколько элементов хранится в элементе WIA_CATEGORY_FOLDER.</p>
 <p>Тип: <strong>VT_I4</strong>, доступ: чтение и запись, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><span id="WIA_IPA_MIN_BUFFER_SIZE"></span><span id="wia_ipa_min_buffer_size"></span><dl> <dt><strong>WIA_IPA_MIN_BUFFER_SIZE</strong></dt> <dt>пиктуреминбуфферсизе</dt> </dl></td>
-<td style="text-align: left;"><p>Указывает минимальный размер буфера, используемого при передаче данных. Если перенос данных выполняется через механизм обратного вызова, значение свойства может быть меньше 64 КБ. Однако если перемещение выполняется в файл, значение свойства равно количеству байтов, необходимых для одновременного перемещения одной страницы данных. Минидривер создает и поддерживает это свойство WIA.</p>
+<td ><span id="WIA_IPA_MIN_BUFFER_SIZE"></span><span id="wia_ipa_min_buffer_size"></span><dl> <dt><strong>WIA_IPA_MIN_BUFFER_SIZE</strong></dt> <dt>пиктуреминбуфферсизе</dt> </dl></td>
+<td ><p>Указывает минимальный размер буфера, используемого при передаче данных. Если перенос данных выполняется через механизм обратного вызова, значение свойства может быть меньше 64 КБ. Однако если перемещение выполняется в файл, значение свойства равно количеству байтов, необходимых для одновременного перемещения одной страницы данных. Минидривер создает и поддерживает это свойство WIA.</p>
 <p>Необязательно для всех элементов WIA 2,0, поддерживающих перемещение.</p>
 <p>Тип: <strong>VT_I4</strong>, доступ: только для чтения, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><span id="WIA_IPA_NUMBER_OF_LINES"></span><span id="wia_ipa_number_of_lines"></span><dl> <dt><strong>WIA_IPA_NUMBER_OF_LINES</strong></dt> <dt>пиктуренумберофлинес</dt> </dl></td>
-<td style="text-align: left;"><p>Содержит число строк, содержащихся в изображении (вертикальная высота изображения в пикселях). Минидривер создает и поддерживает это свойство.</p>
+<td ><span id="WIA_IPA_NUMBER_OF_LINES"></span><span id="wia_ipa_number_of_lines"></span><dl> <dt><strong>WIA_IPA_NUMBER_OF_LINES</strong></dt> <dt>пиктуренумберофлинес</dt> </dl></td>
+<td ><p>Содержит число строк, содержащихся в изображении (вертикальная высота изображения в пикселях). Минидривер создает и поддерживает это свойство.</p>
 <p>Необязательно для всех элементов WIA 2,0.</p>
 <p>Тип: <strong>VT_I4</strong>, доступ: только для чтения, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><span id="WIA_IPA_PIXELS_PER_LINE"></span><span id="wia_ipa_pixels_per_line"></span><dl> <dt><strong>WIA_IPA_PIXELS_PER_LINE</strong></dt> <dt>пиктурепикселсперлине</dt> </dl></td>
-<td style="text-align: left;"><p>Содержит количество пикселей в каждой строке изображения (ширина изображения в пикселях). Минидривер создает и поддерживает это свойство.</p>
+<td ><span id="WIA_IPA_PIXELS_PER_LINE"></span><span id="wia_ipa_pixels_per_line"></span><dl> <dt><strong>WIA_IPA_PIXELS_PER_LINE</strong></dt> <dt>пиктурепикселсперлине</dt> </dl></td>
+<td ><p>Содержит количество пикселей в каждой строке изображения (ширина изображения в пикселях). Минидривер создает и поддерживает это свойство.</p>
 <p>Необязательно для всех элементов WIA 2,0.</p>
 <p>Тип: <strong>VT_I4</strong>, доступ: только для чтения, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><span id="WIA_IPA_PLANAR"></span><span id="wia_ipa_planar"></span><dl> <dt><strong>WIA_IPA_PLANAR</strong></dt> <dt>пиктурепланар</dt> </dl></td>
-<td style="text-align: left;"><p>это свойство не поддерживается в Windows Vista и более поздних версиях.</p>
+<td ><span id="WIA_IPA_PLANAR"></span><span id="wia_ipa_planar"></span><dl> <dt><strong>WIA_IPA_PLANAR</strong></dt> <dt>пиктурепланар</dt> </dl></td>
+<td ><p>это свойство не поддерживается в Windows Vista и более поздних версиях.</p>
 <p>Содержит параметры упаковки данных изображения. Минидривер создает и поддерживает это свойство.</p>
 <p>Приложение считывает это свойство для определения параметров упаковки изображения или задает параметры упаковки текущего изображения.</p>
 <p>Тип: <strong>VT_I4</strong>; Доступ: чтение и запись; Допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_LIST</a>. Если для устройства можно задать только одно значение, создайте тип WIA_PROP_LIST и поместите в него допустимое значение.</p>
@@ -768,14 +768,14 @@ ms.locfileid: "118207531"
 <p> </p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><span id="WIA_IPA_PREFERRED_FORMAT"></span><span id="wia_ipa_preferred_format"></span><dl> <dt><strong>WIA_IPA_PREFERRED_FORMAT</strong></dt> <dt>пиктурепреферредформат</dt> </dl></td>
-<td style="text-align: left;"><p>Содержит предпочтительный формат для изображений, которые передает этот минидривер. Минидривер создает и поддерживает это свойство.</p>
+<td ><span id="WIA_IPA_PREFERRED_FORMAT"></span><span id="wia_ipa_preferred_format"></span><dl> <dt><strong>WIA_IPA_PREFERRED_FORMAT</strong></dt> <dt>пиктурепреферредформат</dt> </dl></td>
+<td ><p>Содержит предпочтительный формат для изображений, которые передает этот минидривер. Минидривер создает и поддерживает это свойство.</p>
 <p>Требуется для всех элементов WIA 2,0, поддерживающих перемещение.</p>
 <p>Тип: <strong>CLSID</strong>, доступ: только для чтения, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><span id="WIA_IPA_PROP_STREAM_COMPAT_ID"></span><span id="wia_ipa_prop_stream_compat_id"></span><dl> <dt><strong>WIA_IPA_PROP_STREAM_COMPAT_ID</strong></dt> <dt>пиктурепропстреамкомпатид</dt> </dl></td>
-<td style="text-align: left;"><p>Указывает CLSID, представляющий набор значений свойств устройства. Если драйвер устройства реализует эту функцию, приложения используют это свойство, чтобы определить, поддерживает ли устройство набор значений.</p>
+<td ><span id="WIA_IPA_PROP_STREAM_COMPAT_ID"></span><span id="wia_ipa_prop_stream_compat_id"></span><dl> <dt><strong>WIA_IPA_PROP_STREAM_COMPAT_ID</strong></dt> <dt>пиктурепропстреамкомпатид</dt> </dl></td>
+<td ><p>Указывает CLSID, представляющий набор значений свойств устройства. Если драйвер устройства реализует эту функцию, приложения используют это свойство, чтобы определить, поддерживает ли устройство набор значений.</p>
 <p>Тип: <strong>CLSID</strong>, доступ: только для чтения, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_LIST</a></p>
 <p>В следующей таблице приведены 12 констант, допустимых для этого свойства.</p>
 
@@ -841,19 +841,19 @@ ms.locfileid: "118207531"
 <p> </p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><span id="WIA_IPA_RAW_BITS_PER_CHANNEL"></span><span id="wia_ipa_raw_bits_per_channel"></span><dl> <dt><strong>WIA_IPA_RAW_BITS_PER_CHANNEL</strong></dt> <dt>пиктуреравбитсперчаннел</dt> </dl></td>
-<td style="text-align: left;"><p>поддерживается только в Windows Vista и более поздних версиях.</p>
+<td ><span id="WIA_IPA_RAW_BITS_PER_CHANNEL"></span><span id="wia_ipa_raw_bits_per_channel"></span><dl> <dt><strong>WIA_IPA_RAW_BITS_PER_CHANNEL</strong></dt> <dt>пиктуреравбитсперчаннел</dt> </dl></td>
+<td ><p>поддерживается только в Windows Vista и более поздних версиях.</p>
 <p>Содержит количество битов в каждом канале. Это свойство должно быть представлено в виде вектора, равного количеству БАЙТОВ, так как есть каналы, где первый байт соответствует количеству битов в первом канале, второй байт — к числу битов во втором канале и т. д. Должно быть столько записей, сколько каналов в соответствии с WIA_IPA_CHANNELS_PER_PIXEL. Драйвер задает это свойство, когда приложение переключается на WiaImgFmt_RAW. Для хорошо известных подтипов существует столько же записей, сколько указано в таблице в разделе WIA_IPA_RAW_SUBTYPE.</p>
 <p>Тип: <strong>VT_UI1</strong> | <strong>VT_VECTOR</strong>, доступ: только для чтения, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><span id="WIA_IPA_REGION_TYPE"></span><span id="wia_ipa_region_type"></span><dl> <dt><strong>WIA_IPA_REGION_TYPE</strong></dt> <dt>пиктуререгионтипе</dt> </dl></td>
-<td style="text-align: left;"><p>Это свойство зарезервировано для будущего использования и не реализовано в данный момент.</p>
+<td ><span id="WIA_IPA_REGION_TYPE"></span><span id="wia_ipa_region_type"></span><dl> <dt><strong>WIA_IPA_REGION_TYPE</strong></dt> <dt>пиктуререгионтипе</dt> </dl></td>
+<td ><p>Это свойство зарезервировано для будущего использования и не реализовано в данный момент.</p>
 <p>Тип: <strong>VT_I4</strong>, доступ: только для чтения, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><span id="WIA_IPA_SUPPRESS_PROPERTY_PAGE"></span><span id="wia_ipa_suppress_property_page"></span><dl> <dt><strong>WIA_IPA_SUPPRESS_PROPERTY_PAGE</strong></dt> <dt>пиктуресуппресспропертипаже</dt> </dl></td>
-<td style="text-align: left;"><p>Указывает, следует ли подавлять Общие страницы свойств для элементов на устройстве.</p>
+<td ><span id="WIA_IPA_SUPPRESS_PROPERTY_PAGE"></span><span id="wia_ipa_suppress_property_page"></span><dl> <dt><strong>WIA_IPA_SUPPRESS_PROPERTY_PAGE</strong></dt> <dt>пиктуресуппресспропертипаже</dt> </dl></td>
+<td ><p>Указывает, следует ли подавлять Общие страницы свойств для элементов на устройстве.</p>
 <p>это свойство доступно в Windows XP и более поздних версиях.</p>
 <p>Тип: <strong>VT_I4</strong>, доступ: только для чтения, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p>
 <p>В следующей таблице приведены константы, допустимые для этого свойства. звездочка * указывает, что константа не является допустимой для Windows Vista и более поздних версий. (Он доступен только через интерфейс <a href="/windows/desktop/api/wia_xp/nn-wia_xp-iwiaitem"><strong>ивиаитем</strong></a> .)</p>
@@ -880,8 +880,8 @@ ms.locfileid: "118207531"
 <p> </p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><span id="WIA_IPA_TYMED"></span><span id="wia_ipa_tymed"></span><dl> <dt><strong>WIA_IPA_TYMED</strong></dt> <dt>пиктуретимед</dt> </dl></td>
-<td style="text-align: left;"><p>Это свойство содержит параметр метода перемещения. Минидривер создает и поддерживает это свойство.</p>
+<td ><span id="WIA_IPA_TYMED"></span><span id="wia_ipa_tymed"></span><dl> <dt><strong>WIA_IPA_TYMED</strong></dt> <dt>пиктуретимед</dt> </dl></td>
+<td ><p>Это свойство содержит параметр метода перемещения. Минидривер создает и поддерживает это свойство.</p>
 <p>Приложение считывает это свойство для определения метода перемещения данных минидривер.</p>
 <p>Требуется для всех элементов WIA 2,0, поддерживающих перемещение.</p>
 <p>Тип: <strong>VT_I4</strong>, доступ: чтение и запись, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_LIST</a></p>
@@ -891,7 +891,7 @@ ms.locfileid: "118207531"
 <thead>
 <tr class="header">
 <th>Тип переноса</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>
@@ -917,8 +917,8 @@ ms.locfileid: "118207531"
 <p> </p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><span id="WIA_IPA_UPLOAD_ITEM_SIZE"></span><span id="wia_ipa_upload_item_size"></span><dl> <dt><strong>WIA_IPA_UPLOAD_ITEM_SIZE</strong></dt> <dt>пиктуреитемуплоадитемсизе</dt> </dl></td>
-<td style="text-align: left;"><p>поддерживается только в Windows Vista и более поздних версиях.</p>
+<td ><span id="WIA_IPA_UPLOAD_ITEM_SIZE"></span><span id="wia_ipa_upload_item_size"></span><dl> <dt><strong>WIA_IPA_UPLOAD_ITEM_SIZE</strong></dt> <dt>пиктуреитемуплоадитемсизе</dt> </dl></td>
+<td ><p>поддерживается только в Windows Vista и более поздних версиях.</p>
 <p>Указывает число байтов для отправки для элемента.</p>
 <p>Тип: <strong>VT_I4</strong>, доступ: чтение и запись, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_NONE</a></p></td>
 </tr>
@@ -935,7 +935,7 @@ ms.locfileid: "118207531"
 |-------------------------------------|-------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                      |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                |
-| Header<br/>                   | <dl> <dt>Виадеф. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Виадеф. h</dt> </dl> |
 
 
 

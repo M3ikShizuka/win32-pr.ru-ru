@@ -4,12 +4,12 @@ ms.assetid: 3a107cd6-ef46-42ea-9238-434d0254a7bb
 title: Удаление компонента из приложения COM+
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 57680fef16db0ae2d93ddc432cc1c412b9044573
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 759cd12ad268bd251454e6032ad83e775b230877b435a8f0b4b495594f5c5f1b
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104539290"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119637064"
 ---
 # <a name="removing-a-component-from-a-com-application"></a>Удаление компонента из приложения COM+
 
@@ -32,7 +32,7 @@ ms.locfileid: "104539290"
 
 5.  Нажмите кнопку **Да** при появлении запроса на подтверждение действия.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

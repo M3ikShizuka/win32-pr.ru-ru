@@ -3,7 +3,7 @@ title: Список воспроизведения. itemCount
 description: Атрибут itemCount извлекает количество элементов, отображаемых в данный момент в элементе списка воспроизведения.
 ms.assetid: d090d95c-e3c3-41bc-951e-ffeb0a314a0c
 keywords:
-- Проигрыватель Windows Media Player. itemCount
+- проигрыватель Windows Media списка воспроизведения. itemCount
 topic_type:
 - apiref
 api_name:
@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cbde81ee6c2849a19c6400fee4ef7fa6514eaefe
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 9b2c831535a0d7ed5643558ddb5305419bab0f0a85b6359f1234f68e78a659ae
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105657949"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120003004"
 ---
 # <a name="playlistitemcount"></a>Список воспроизведения. itemCount
 
@@ -31,7 +31,7 @@ ms.locfileid: "105657949"
 
 Этот атрибут является **числом** только для чтения (**длинное целое**).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Свойство **ItemCount** будет считать общее число развернутых элементов. Например, если имеется два списка воспроизведения, каждый из которых содержит три элемента мультимедиа, **ItemCount** возвратит 2, если списки воспроизведения не развернуты. Если развернут только первый список воспроизведения, **ItemCount** возвратит 4. Если оба списка воспроизведения развернуты, **ItemCount** возвратит значение 6.
 
@@ -41,7 +41,7 @@ ms.locfileid: "105657949"
 
 | Требование | Значение |
 |--------------------|---------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media 9 Series или более поздней версии<br/> |
+| Версия<br/> | проигрыватель Windows Media 9 Series или более поздней версии<br/> |
 
 
 

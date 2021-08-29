@@ -4,12 +4,12 @@ ms.assetid: 8ef06f49-fda4-49e2-9b07-70453a2e897c
 title: Фильтр синтаксического анализатора с несколькими файлами
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d86663412400a4c1b116b6f831c80f72d66f88e648cf8f245be6581240d986bb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8a91196f9712dc05e64f1d70072d3af9d1c0a39f
+ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118152992"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122986476"
 ---
 # <a name="multi-file-parser-filter"></a>Фильтр синтаксического анализатора с несколькими файлами
 
@@ -28,64 +28,25 @@ https://server/share/captions.smi
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Интерфейсы фильтра</td>
-<td><a href="/windows/desktop/api/Strmif/nn-strmif-ibasefilter"><strong>ибасефилтер</strong></a></td>
-</tr>
-<tr class="even">
-<td>Типы носителей входных закрепления</td>
-<td><ul>
-<li>Основной тип: MEDIATYPE_Stream</li>
-<li>Подтип: CLSID_MultFile</li>
-<li>Тип формата: GUID_NULL</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Интерфейсы входных закрепления</td>
-<td><a href="/windows/desktop/api/Strmif/nn-strmif-ipin"><strong>Ипин</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-iqualitycontrol"> <strong>икуалитиконтрол</strong></a></td>
-</tr>
-<tr class="even">
-<td>Типы носителей для выходного ПИН-кода</td>
-<td><ul>
-<li>Основной тип: MEDIATYPE_File</li>
-<li>Подтип: GUID_NULL</li>
-<li>Тип формата: MEDIATYPE_File</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Интерфейсы выходного ПИН-кода</td>
-<td><a href="/windows/desktop/api/Strmif/nn-strmif-ipin"><strong>Ипин</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-iqualitycontrol"> <strong>икуалитиконтрол</strong></a></td>
-</tr>
-<tr class="even">
-<td>Фильтровать CLSID</td>
-<td>CLSID_MultFile</td>
-</tr>
-<tr class="odd">
-<td>Исполняемый объект</td>
-<td>Quartz.dll</td>
-</tr>
-<tr class="even">
-<td><a href="merit.md">Заслуживают</a></td>
-<td>MERIT_UNLIKELY</td>
-</tr>
-<tr class="odd">
-<td><a href="filter-categories.md">Категория фильтра</a></td>
-<td>CLSID_LegacyAmFilterCategory</td>
-</tr>
-</tbody>
-</table>
+
+| Метка | Применение |
+|--------|-------|
+| Интерфейсы фильтра | <a href="/windows/desktop/api/Strmif/nn-strmif-ibasefilter"><strong>ибасефилтер</strong></a> | 
+| Типы носителей входных закрепления | <ul><li>Основной тип: MEDIATYPE_Stream</li><li>Подтип: CLSID_MultFile</li><li>Тип формата: GUID_NULL</li></ul> | 
+| Интерфейсы входных закрепления | <a href="/windows/desktop/api/Strmif/nn-strmif-ipin"><strong>Ипин</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-iqualitycontrol"> <strong>икуалитиконтрол</strong></a> | 
+| Типы носителей для выходного ПИН-кода | <ul><li>Основной тип: MEDIATYPE_File</li><li>Подтип: GUID_NULL</li><li>Тип формата: MEDIATYPE_File</li></ul> | 
+| Интерфейсы выходного ПИН-кода | <a href="/windows/desktop/api/Strmif/nn-strmif-ipin"><strong>Ипин</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-iqualitycontrol"> <strong>икуалитиконтрол</strong></a> | 
+| Фильтровать CLSID | CLSID_MultFile | 
+| Исполняемый объект | Quartz.dll | 
+| <a href="merit.md">Заслуживают</a> | MERIT_UNLIKELY | 
+| <a href="filter-categories.md">Категория фильтра</a> | CLSID_LegacyAmFilterCategory | 
+
 
 
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Фильтр создает один выходной ПИН-код для каждого файла, указанного в исходном файле. Тип выходных данных — MEDIATYPE \_ File, а блок формата для выходного типа — это строка расширенных символов, содержащая имя файла. Каждый ПИН-код подключается к экземпляру фильтра модуля [подготовки к потоку файлов](file-stream-renderer-filter.md) . Фильтр модуля подготовки к потоку файлов создает один выходной ПИН-код, который предоставляет интерфейс [**истреамбуилдер**](/windows/desktop/api/Strmif/nn-strmif-istreambuilder) . Закрепление вывода подготавливает к просмотру указанный файл. Данные мультимедиа не передаются между средством синтаксического анализа нескольких файлов и модулем подготовки потока файлов.
 

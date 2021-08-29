@@ -22,12 +22,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 78f9aa79cfcc7b93d176859069d1b71f5adf450e
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 65ff4ce465582cece7ab3a445186bcee1ade3b7a3f1c739c25e3afc7ae1573ea
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104262671"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119923924"
 ---
 # <a name="cim_extracapacitygroup-class"></a>\_Класс CIM екстракапаЦитиграуп
 
@@ -63,13 +63,13 @@ class CIM_ExtraCapacityGroup : CIM_RedundancyGroup
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **CIM \_ екстракапаЦитиграуп** имеет следующие свойства.
 
 <dl> <dt>
 
-**Заголовок**
+**Caption**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -154,7 +154,7 @@ class CIM_ExtraCapacityGroup : CIM_RedundancyGroup
 
 </dd> <dt>
 
-**Name**
+**Имя**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -352,7 +352,7 @@ class CIM_ExtraCapacityGroup : CIM_RedundancyGroup
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **CIM \_ екстракапаЦитиграуп** является производным от [**CIM \_ редунданциграуп**](cim-redundancygroup.md).
 

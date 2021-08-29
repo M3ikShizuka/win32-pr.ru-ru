@@ -4,21 +4,21 @@ description: Теневой элемент VML
 ms.assetid: 3e7d3e8c-45f8-4db3-95f3-7d993b7c2ef7
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bd73bb7087c2736ba5bec75102ffcb4337407650
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 55440f47da0fb5b9b70c94c7df66cef941af5746c924a3a72cc5081ddbe627e8
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "103987549"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120099114"
 ---
 # <a name="vml-shadow-element"></a>Теневой элемент VML
 
-В этом разделе описывается функция VML, которая является устаревшей в Windows Internet Explorer 9. Веб-страницы и приложения, использующие VML, должны быть перенесены в формат SVG или другие широко поддерживаемые стандарты.
+в этом разделе описывается функция VML, которая является устаревшей по отношению к Windows Internet Explorer 9. Веб-страницы и приложения, использующие VML, должны быть перенесены в формат SVG или другие широко поддерживаемые стандарты.
 
 > [!Note]  
-> По состоянию на Декабрь 2011 этот раздел был архивирован. В результате он больше не поддерживается. Дополнительные сведения см. в разделе [архивированное содержимое](/previous-versions/windows/internet-explorer/ie-developer/). Сведения, рекомендации и рекомендации по текущей версии Windows Internet Explorer см. в [центре разработчиков Internet Explorer](https://msdn.microsoft.com/ie/).
+> По состоянию на Декабрь 2011 этот раздел был архивирован. В результате он больше не поддерживается. Дополнительные сведения см. в разделе [архивированное содержимое](/previous-versions/windows/internet-explorer/ie-developer/). сведения, рекомендации и рекомендации относительно текущей версии Windows Internet explorer см. в [центре разработчиков internet explorer](https://msdn.microsoft.com/ie/).
 
- 
+ 
 
 Определяет тень для фигуры.
 
@@ -37,12 +37,12 @@ ms.locfileid: "103987549"
 | [Offset2](msdn-online-vml-offset2-attribute.md)   | Определяет второе смещение.                           |
 | [On](on-attribute--shadow--vml.md) (Вкл.)                | Определяет, отображается ли тень.          |
 | [Непрозрачность](opacity-attribute--shadow--vml.md)      | Определяет прозрачность тени.           |
-| [Лета](origin-attribute--shadow--vml.md)        | Определяет центр тени.                  |
+| [Исходный домен](origin-attribute--shadow--vml.md)        | Определяет центр тени.                  |
 | [Тип](type-attribute--shadow--vml.md)            | Задает тип тени.                      |
 
 
 
- 
+ 
 
 **Замечания**
 
@@ -70,6 +70,6 @@ ms.locfileid: "103987549"
 -   [Пример простого тени](https://samples.msdn.microsoft.com/workshop/samples/vml/shape/shadow/t_shadow.md)
 -   [Пример динамической теневой копии](https://samples.msdn.microsoft.com/workshop/samples/vml/shape/shadow/x_shadow.md)
 
- 
+ 
 
- 
+ 

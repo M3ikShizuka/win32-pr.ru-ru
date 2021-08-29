@@ -4,12 +4,12 @@ description: В этом разделе описываются подпрогр�
 ms.assetid: 0ff38f83-5741-4c0e-a070-a8385f95eba3
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 78eea821a4c918078c6390e33fa7046de1452f76
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 352a56b15a376af3d378def6fd49f04775063f4928fb87444107f7671c9d51ce
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104330216"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119997664"
 ---
 # <a name="verification-routines"></a>Подпрограммы проверки
 
@@ -199,18 +199,18 @@ ms.locfileid: "104330216"
 
 
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Средство UI Accessibility Checker](ui-accessibility-checker.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Inetcfg.dll
-ms.openlocfilehash: 15267cd00940f0386c8a5d9c0c54b070f2cff509
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 066a00428993d2a1358740cf69d31094fc18b33192c9accf17ce4550b8473edc
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105669069"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120001864"
 ---
 # <a name="inetgetautodial-function"></a>Функция Инетжетаутодиал
 
@@ -81,11 +81,11 @@ HRESULT InetGetAutodial(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Эта функция не имеет связанной библиотеки импорта или файла заголовка. его необходимо вызвать с помощью функций [**LoadLibrary**](/windows/win32/api/libloaderapi/nf-libloaderapi-loadlibrarya) и [**GetProcAddress**](/windows/win32/api/libloaderapi/nf-libloaderapi-getprocaddress) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 

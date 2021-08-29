@@ -4,12 +4,12 @@ description: В этом разделе объясняется, как доба�
 ms.assetid: c03dc552-7919-4a35-8ff2-4cdd822bc0b7
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9460ccbd243aef390b7ade0deb41626173c927a0
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: af83192ed445494a87ecccb1fd579aa49ac099468482ff9feefacf2357293660
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "105710296"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120098494"
 ---
 # <a name="implementing-iaccessibleex-for-providers"></a>Реализация IAccessibleEx для поставщиков
 
@@ -179,6 +179,6 @@ HRESULT CListItemAccessibleObject::GetIAccessiblePair(
 
 Сервер [**IAccessibleEx**](/windows/desktop/api/UIAutomationCore/nn-uiautomationcore-iaccessibleex) может поддерживать свойства модели автоматизации пользовательского интерфейса (например, Лабеледби и исрекуиредфорформ), реализуя [**Иравелементпровидерсимпле:: жетпропертивалуе**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irawelementprovidersimple-getpropertyvalue) и предоставляя целое число PROPERTYID, идентифицирующее свойство как параметр. Этот метод применим только к свойствам модели автоматизации пользовательского интерфейса, которые не включены в интерфейс шаблона элемента управления. Свойства, связанные с интерфейсом шаблона элемента управления, доступны через метод интерфейса шаблона элемента управления. Например, свойство со свойством, которое было выбрано из шаблона элемента управления [SelectionItem](uiauto-implementingselectionitem.md) , было бы предоставлено с помощью [**иселектионитемпровидер:: Get \_**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iselectionitemprovider-get_isselected).
 
- 
+ 
 
- 
+ 

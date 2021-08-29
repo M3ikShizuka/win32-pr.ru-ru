@@ -17,12 +17,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: dd5a1c1c23d07020b45c1c5979a941f01baff0d0
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: aad8fb6ee174cd8619dea4243839f0dd8c555679f6ba176a09099e8a75e8a7df
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104262662"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119923334"
 ---
 # <a name="cim_location-class"></a>\_Класс расположения CIM
 
@@ -53,7 +53,7 @@ class CIM_Location
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **\_ расположения CIM** имеет следующие свойства.
 
@@ -75,7 +75,7 @@ class CIM_Location
 
 </dd> <dt>
 
-**Name**
+**Имя**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -107,7 +107,7 @@ class CIM_Location
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Инструментарий WMI не реализует этот класс. Классы, производные **от \_ расположения CIM**, см. в разделе [Классы Win32](win32-provider.md).
 

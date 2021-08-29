@@ -6,12 +6,12 @@ keywords:
 - Настройка и получение свойств браузера
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 418bf21620cf7b7c4426844c95a39ef1fde04e11
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: de9440af59efc763e034615f7919e94c4cfe9227
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "103890953"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122482490"
 ---
 # <a name="setting-and-retrieving-internet-options"></a>Настройка и получение свойств браузера
 
@@ -29,7 +29,7 @@ ms.locfileid: "103890953"
     -   [Полный пример](#complete-sample)
 -   [Настройка параметров соединения](#setting-connection-options)
 -   [Получение параметров соединения](#retrieving-connection-options)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="implementation-steps"></a>Шаги реализации
 
@@ -43,7 +43,7 @@ ms.locfileid: "103890953"
 
 Так как существует много параметров Интернета, важно выбрать правильный вариант. Многие свойства Интернета влияют на поведение функций WinINet и Internet Explorer.
 
-Например, администратор может сделать следующее:
+Например, вы можете:
 
 -   Обрабатывайте обычную проверку подлинности сервера и прокси, задав имена пользователей и пароли.
 -   Задайте или получите строку агента пользователя, используемую серверами для определения функций клиентского приложения или браузера.
@@ -79,105 +79,25 @@ ms.locfileid: "103890953"
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Тип обработчика</th>
-<th>Область</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><strong>NULL</strong></td>
-<td>Параметры по умолчанию для Internet Explorer.</td>
-</tr>
-<tr class="even">
-<td>INTERNET_HANDLE_TYPE_CONNECT_FTP</td>
-<td>Параметры для этого соединения с FTP-сервером. Эти параметры влияют на любые операции, инициированные этим обработчиком <a href="appendix-a-hinternet-handles.md"><strong>хинтернет</strong></a> , такие как файлы для загрузки.</td>
-</tr>
-<tr class="odd">
-<td>INTERNET_HANDLE_TYPE_CONNECT_GOPHER</td>
-<td>Параметры для этого подключения к серверу Gopher. Эти параметры влияют на любые операции, инициированные этим обработчиком <a href="appendix-a-hinternet-handles.md"><strong>хинтернет</strong></a> , такие как файлы для загрузки.
-<blockquote>
-[!Note]<br />
-Windows XP и Windows Server 2003 R2 и более ранних версий.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="even">
-<td>INTERNET_HANDLE_TYPE_CONNECT_HTTP</td>
-<td>Параметры для этого соединения с HTTP-сервером. Эти параметры влияют на любые операции, инициированные этим обработчиком <a href="appendix-a-hinternet-handles.md"><strong>хинтернет</strong></a> , такие как файлы для загрузки.</td>
-</tr>
-<tr class="odd">
-<td>INTERNET_HANDLE_TYPE_FILE_REQUEST</td>
-<td>Параметры, связанные с этим запросом файла.</td>
-</tr>
-<tr class="even">
-<td>INTERNET_HANDLE_TYPE_FTP_FILE</td>
-<td>Параметры, связанные с этим скачиванием FTP-ресурса.</td>
-</tr>
-<tr class="odd">
-<td>INTERNET_HANDLE_TYPE_FTP_FILE_HTML</td>
-<td>Параметры, связанные с этим FTP-ресурсом, загружаются в формате HTML.</td>
-</tr>
-<tr class="even">
-<td>INTERNET_HANDLE_TYPE_FTP_FIND</td>
-<td>Параметры, связанные с этим поиском файлов на FTP-сервере.</td>
-</tr>
-<tr class="odd">
-<td>INTERNET_HANDLE_TYPE_FTP_FIND_HTML</td>
-<td>Параметры, связанные с этим поиском файлов на FTP-сервере, отформатированном в формате HTML.</td>
-</tr>
-<tr class="even">
-<td>INTERNET_HANDLE_TYPE_GOPHER_FILE</td>
-<td>Параметры, связанные с этим скачиванием ресурса Gopher.
-<blockquote>
-[!Note]<br />
-Windows XP и Windows Server 2003 R2 и более ранних версий.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="odd">
-<td>INTERNET_HANDLE_TYPE_GOPHER_FILE_HTML</td>
-<td>Параметры, связанные с этим ресурсом Gopher, загружаются в формате HTML.
-<blockquote>
-[!Note]<br />
-Windows XP и Windows Server 2003 R2 и более ранних версий.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="even">
-<td>INTERNET_HANDLE_TYPE_GOPHER_FIND</td>
-<td>Параметры, связанные с этим поиском файлов на сервере Gopher.
-<blockquote>
-[!Note]<br />
-Windows XP и Windows Server 2003 R2 и более ранних версий.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="odd">
-<td>INTERNET_HANDLE_TYPE_GOPHER_FIND_HTML</td>
-<td>Параметры, связанные с этим поиском файлов на сервере Gopher в формате HTML.
-<blockquote>
-[!Note]<br />
-Windows XP и Windows Server 2003 R2 и более ранних версий.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="even">
-<td>INTERNET_HANDLE_TYPE_HTTP_REQUEST</td>
-<td>Параметры, связанные с этим HTTP-запросом.</td>
-</tr>
-<tr class="odd">
-<td>INTERNET_HANDLE_TYPE_INTERNET</td>
-<td>Параметры, связанные с этим экземпляром функций WinINet.</td>
-</tr>
-</tbody>
-</table>
+
+| Тип обработчика | Область | 
+|-------------|-------|
+| <strong>NULL</strong> | Параметры по умолчанию для Internet Explorer. | 
+| INTERNET_HANDLE_TYPE_CONNECT_FTP | Параметры для этого соединения с FTP-сервером. Эти параметры влияют на любые операции, инициированные этим обработчиком <a href="appendix-a-hinternet-handles.md"><strong>хинтернет</strong></a> , такие как файлы для загрузки. | 
+| INTERNET_HANDLE_TYPE_CONNECT_GOPHER | Параметры для этого подключения к серверу Gopher. Эти параметры влияют на любые операции, инициированные этим обработчиком <a href="appendix-a-hinternet-handles.md"><strong>хинтернет</strong></a> , такие как файлы для загрузки.<blockquote>[!Note]<br />Windows XP и Windows Server 2003 R2 и более ранних версий.</blockquote><br /> | 
+| INTERNET_HANDLE_TYPE_CONNECT_HTTP | Параметры для этого соединения с HTTP-сервером. Эти параметры влияют на любые операции, инициированные этим обработчиком <a href="appendix-a-hinternet-handles.md"><strong>хинтернет</strong></a> , такие как файлы для загрузки. | 
+| INTERNET_HANDLE_TYPE_FILE_REQUEST | Параметры, связанные с этим запросом файла. | 
+| INTERNET_HANDLE_TYPE_FTP_FILE | Параметры, связанные с этим скачиванием FTP-ресурса. | 
+| INTERNET_HANDLE_TYPE_FTP_FILE_HTML | Параметры, связанные с этим FTP-ресурсом, загружаются в формате HTML. | 
+| INTERNET_HANDLE_TYPE_FTP_FIND | Параметры, связанные с этим поиском файлов на FTP-сервере. | 
+| INTERNET_HANDLE_TYPE_FTP_FIND_HTML | Параметры, связанные с этим поиском файлов на FTP-сервере, отформатированном в формате HTML. | 
+| INTERNET_HANDLE_TYPE_GOPHER_FILE | Параметры, связанные с этим скачиванием ресурса Gopher.<blockquote>[!Note]<br />Windows XP и Windows Server 2003 R2 и более ранних версий.</blockquote><br /> | 
+| INTERNET_HANDLE_TYPE_GOPHER_FILE_HTML | Параметры, связанные с этим ресурсом Gopher, загружаются в формате HTML.<blockquote>[!Note]<br />Windows XP и Windows Server 2003 R2 и более ранних версий.</blockquote><br /> | 
+| INTERNET_HANDLE_TYPE_GOPHER_FIND | Параметры, связанные с этим поиском файлов на сервере Gopher.<blockquote>[!Note]<br />Windows XP и Windows Server 2003 R2 и более ранних версий.</blockquote><br /> | 
+| INTERNET_HANDLE_TYPE_GOPHER_FIND_HTML | Параметры, связанные с этим поиском файлов на сервере Gopher в формате HTML.<blockquote>[!Note]<br />Windows XP и Windows Server 2003 R2 и более ранних версий.</blockquote><br /> | 
+| INTERNET_HANDLE_TYPE_HTTP_REQUEST | Параметры, связанные с этим HTTP-запросом. | 
+| INTERNET_HANDLE_TYPE_INTERNET | Параметры, связанные с этим экземпляром функций WinINet. | 
+
 
 
 
@@ -359,11 +279,11 @@ BOOL SetConnectionOptions()
 6.  Освободите память, выделенную для хранения данных параметров, с помощью функции [**GlobalFree**](/windows/desktop/api/winbase/nf-winbase-globalfree) .
 
 > [!Note]  
-> WinINet не поддерживает реализации серверов. Кроме того, его не следует использовать из службы. Для серверных реализаций или служб используйте [службы Microsoft Windows HTTP Services (WinHTTP)](/windows/desktop/WinHttp/winhttp-start-page).
+> WinINet не поддерживает реализации серверов. Кроме того, его не следует использовать из службы. для серверных реализаций или служб используйте [Microsoft Windows HTTP services (WinHTTP)](/windows/desktop/WinHttp/winhttp-start-page).
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
