@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4dd104ae63378056babdc804a93564be4005246c
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: e80dfb312b51d48b8ad5f0b81141a21c4d4115ccab2b06541f76d40286686c6b
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105679901"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119067624"
 ---
 # <a name="metadata_dir-switch-mdmerge"></a>параметр/metadata_dir (МДМЕРЖЕ)
 
@@ -38,9 +38,9 @@ mdmerge /metadata_dir metadata_directory
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-Используйте этот параметр, чтобы указать расположение основного файла метаданных для Windows, который называется Windows. winmd.
+используйте этот параметр, чтобы указать расположение основного файла метаданных для Windows, который называется Windows. winmd.
 
 ## <a name="examples"></a>Примеры
 

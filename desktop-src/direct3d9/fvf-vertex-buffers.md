@@ -4,12 +4,12 @@ ms.assetid: 7cab559f-3e9d-46bd-b00f-439e0922aeeb
 title: Буферы вершин ФВФ (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a86201c3ddc1cab6d492539caccc61c1430b3a2c
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: c99267945970e48c9447ad592433b304bd43d33ec05a8ebcef3287d2f3e68fd9
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "105710581"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119564234"
 ---
 # <a name="fvf-vertex-buffers-direct3d-9"></a>Буферы вершин ФВФ (Direct3D 9)
 
@@ -23,7 +23,7 @@ ms.locfileid: "105710581"
 
 Наиболее важными моментами, связанными с производительностью вершин, является использование 32-байтовой вершины и обеспечение оптимального порядка кэширования.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

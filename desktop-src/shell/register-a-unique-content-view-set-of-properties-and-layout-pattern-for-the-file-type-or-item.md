@@ -4,12 +4,12 @@ ms.assetid: EA5A3ADA-4DFD-4F85-A176-93577D822815
 title: Регистрация набора свойств и шаблона макета представления содержимого для типа файла или элемента
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 13e84861a0761f2f5ebb9737f62409c8f72e00bd
-ms.sourcegitcommit: ee06501cc29132927ade9813e0888aaa4decc487
+ms.openlocfilehash: 70a3df2b65f0c977b5898e2fa35a28091052dde508c0d381379303119068ab3e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "104350802"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119820504"
 ---
 # <a name="how-to-register-a-unique-content-view-set-of-properties-and-layout-pattern-for-the-file-type-or-item"></a>Регистрация уникального набора свойств представления содержимого и шаблона макета для типа файла или элемента
 
@@ -49,7 +49,7 @@ ms.locfileid: "104350802"
 
 -   На следующем рисунке показан макет Alpha, когда элемент имеет менее 350 пикселей горизонтального пространства.
 
-    ![Снимок экрана, показывающий пример макета альфа в Microsoft Word.](images/content-view/layout2.png)
+    ![Снимок экрана, на котором показан пример макета Alpha в Microsoft Word.](images/content-view/layout2.png)
 
 -   На следующем рисунке показан макет Alpha, когда элемент имеет менее 350 пикселей горизонтального пространства.
 
@@ -173,9 +173,9 @@ ms.locfileid: "104350802"
 
     Возможные значения для (Контентвиевмодефорбровсе) включают следующее: Prop: ~ System. Итемнамедисплай; System. Author; System. Лайаутпаттерн. заполнителей; System. keywords; System. DateModified; ~ System. size
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

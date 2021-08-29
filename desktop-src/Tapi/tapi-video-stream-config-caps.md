@@ -4,16 +4,16 @@ ms.assetid: 8812755a-50e8-4d8e-ab67-7a3a4b2a4a67
 title: Структура TAPI_VIDEO_STREAM_CONFIG_CAPS (Ипмсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 525a35cb7c7332aa4e80fe8d5e2436e75e2d5c08
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 1d2bc7dc02570b2778f84aaa5f00685e57a54833ddc13c347b62e731e23181c7
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105679747"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119872904"
 ---
 # <a name="tapi_video_stream_config_caps-structure"></a>\_ \_ \_ Структура ограничений конфигурации потока видео TAPI \_
 
-\[ Эта структура недоступна для использования в Windows Vista, Windows Server 2008 и последующих версиях операционной системы. API клиента RTC предоставляет аналогичные функциональные возможности.\]
+\[эта структура недоступна для использования в Windows Vista, Windows Server 2008 и последующих версиях операционной системы. API клиента RTC предоставляет аналогичные функциональные возможности.\]
 
 Структура **\_ \_ \_ \_ Caps config для настройки потока видео TAPI** содержится в структуре [**" \_ \_ \_ заглушки" конфигурации потока TAPI**](tapi-stream-config-caps.md) , если для элемента **капстипе** задан элемент **видеокап** объединения [**стреамконфигкапстипе**](streamconfigcapstype.md) .
 
@@ -177,18 +177,18 @@ ms.locfileid: "105679747"
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------|------------------------------------------------------------------------------------|
 | Версия TAPI<br/> | Требуется TAPI 3,1<br/>                                                       |
-| Header<br/>       | <dl> <dt>Ипмсп. h</dt> </dl> |
+| Заголовок<br/>       | <dl> <dt>Ипмсп. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -12,12 +12,12 @@ api_name:
 api_type:
 - Schema
 api_location: ''
-ms.openlocfilehash: 4b3e3d91087a394efb7909d36d6244bfbf6115e7
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 2a0a58d4f06b30004620f7e222cdbf8a439c9bb57ab4f7ca97e3b86eaacb2e3e
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105663045"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119684874"
 ---
 # <a name="onex-element"></a>OneX, элемент
 
@@ -235,7 +235,7 @@ ms.locfileid: "105663045"
 | [**еапконфиг**](onexschema-eapconfig-onex-element.md)                             |         | Задает конфигурацию EAPHost.<br/>                                                                                                                                                                              |
 | [**хелдпериод**](onexschema-heldperiod-onex-element.md)                           |         | Указывает период времени в секундах, в течение которого клиент не будет повторно пытаться пройти проверку подлинности после неудачной попытки проверки подлинности.<br/>                                                                             |
 | [**максаусфаилурес**](onexschema-maxauthfailures-onex-element.md)                 |         | Указывает максимальное количество ошибок проверки подлинности, разрешенных для набора учетных данных.<br/>                                                                                                                         |
-| [**максделай**](onexschema-maxdelay-singlesignon-element.md)                       |         | Указывает максимальную задержку в секундах, по истечении которой попытка подключения единого входа завершится неудачей.<br/>                                                                                                                      |
+| [**maxDelay**](onexschema-maxdelay-singlesignon-element.md)                       |         | Указывает максимальную задержку в секундах, по истечении которой попытка подключения единого входа завершится неудачей.<br/>                                                                                                                      |
 | [**максстарт**](onexschema-maxstart-onex-element.md)                               |         | Указывает максимальное число отправленных сообщений EAPOL-Start.<br/>                                                                                                                                                        |
 | [**singleSignOn**](onexschema-singlesignon-onex-element.md)                       |         | Задает сведения о конфигурации сети для единого входа.<br/>                                                                                                                                                       |
 | [**стартпериод**](onexschema-startperiod-onex-element.md)                         |         | Указывает период времени (в секундах) ожидания перед отправкой EAPOL-Start.<br/>                                                                                                                                  |
@@ -245,19 +245,19 @@ ms.locfileid: "105663045"
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Сведения о просмотре списка дочерних элементов в древовидной структуре см. в разделе [элементы схемы OneX](onexschema-elements.md).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista, Windows XP с пакетом обновления 3 (SP3), \[ только классические приложения\]<br/> |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                |
-| Распространяемые компоненты<br/>          | Интерфейс API беспроводной локальной сети для Windows XP с пакетом обновления 2 (SP2)<br/>                 |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                |
+| Распространяемые компоненты<br/>          | API беспроводной локальной сети для Windows XP с пакетом обновления 2 (SP2)<br/>                 |
 
 
 

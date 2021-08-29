@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: bb9672ee434eb46c6881903d2916c1bec6e570fb
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 0ab5a8556706b833a1867065cf7446b53873b4193be07c901e9b13513ef5a84a
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105668712"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119007142"
 ---
 # <a name="extendedpropertypropid-property"></a>ExtendedProperty. PropID, свойство
 

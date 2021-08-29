@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55102224
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: dee5e7b44628d4a90c3f3f3729fa6e81e053a6a2
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: ca0e720e40a414ba430e53a3cf8c298e8a997b53c01dc234568f5a134adc2c3d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103812160"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119734524"
 ---
 # <a name="esentlogtornwriteduringhardrestoreexception-members"></a>Элементы Есентлогторнвритедурингхардресториксцептион
 
@@ -73,7 +73,7 @@ ms.locfileid: "103812160"
 </tr>
 <tr class="even">
 <td><img src="../images/dn292128.protproperty(exchg.10).gif" title="Защищенное свойство" alt="Protected property" /></td>
-<td><a href="/dotnet/api/system.exception.hresult#System_Exception_HResult">Состав</a></td>
+<td><a href="/dotnet/api/system.exception.hresult#System_Exception_HResult">HResult</a></td>
 <td>(Наследуется от <a href="/dotnet/api/system.exception">Exception</a>.)</td>
 </tr>
 <tr class="odd">
@@ -164,9 +164,9 @@ ms.locfileid: "103812160"
 
 Начало
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
-#### <a name="reference"></a>Справка
+#### <a name="reference"></a>Справочник
 
 [Класс Есентлогторнвритедурингхардресториксцептион](./esentlogtornwriteduringhardrestoreexception-class.md)
 

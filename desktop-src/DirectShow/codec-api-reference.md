@@ -4,12 +4,12 @@ ms.assetid: 82085fd5-2d31-48a0-b2ef-0eede4de60c8
 title: Справочник по API кодека
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 82182454d0a13a21a3f83031e0ca2f72f6300f9b
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 24dca44f0194525192d22945b0d30b5613e9072ac02adfb00a947f34634ba36f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "104139591"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119871794"
 ---
 # <a name="codec-api-reference"></a>Справочник по API кодека
 
@@ -18,7 +18,7 @@ ms.locfileid: "104139591"
 -   [Свойства кодека API](codec-api-properties.md)
 -   [Перечисления API кодеков](codec-api-enumerations.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

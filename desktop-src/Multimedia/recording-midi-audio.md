@@ -3,7 +3,7 @@ title: Запись звука MIDI
 description: Запись звука MIDI
 ms.assetid: eeafcd04-4aef-40bb-9d20-4fd9d7db8041
 keywords:
-- Мультимедиа Windows, запись звука MIDI
+- Windows мультимедиа, запись MIDI audio
 - мультимедиа, запись звука MIDI
 - мультимедиа, запись звука MIDI
 - звук, запись звука MIDI
@@ -12,12 +12,12 @@ keywords:
 - запись аудио MIDI, о программе
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 062cf0ee3bbe48e565b32089f825c700c2249749
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 607d9766eac295c6c4d199802906eab341ffd79c3e5e2dbcb22ba5c67f74d805
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104328603"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119805576"
 ---
 # <a name="recording-midi-audio"></a>Запись звука MIDI
 
@@ -31,9 +31,9 @@ ms.locfileid: "104328603"
 -   [Получение Time-Stamped сообщений MIDI](receiving-time-stamped-midi-messages.md)
 -   [Получение сообщений Running-Status](receiving-running-status-messages.md)
 
- 
+ 
 
- 
+ 
 
 
 

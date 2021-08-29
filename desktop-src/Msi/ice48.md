@@ -4,12 +4,12 @@ ms.assetid: 9dcc2475-23a3-4f77-8828-4d0a036670d4
 title: ICE48
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 04c9c9ace086d044109e5f9b91bbc471c37094de
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 6a638e29002d9b25128b8b2d432ae35d3e8f5996caed87ba6fe8b1e413f99491
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105663657"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119581004"
 ---
 # <a name="ice48"></a>ICE48
 
@@ -54,7 +54,7 @@ Directory 'Dir1' appears to be hardcoded in the property
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

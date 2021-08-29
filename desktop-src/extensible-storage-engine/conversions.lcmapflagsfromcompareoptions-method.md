@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 55c034bb0e4e48217c5294d83f65b48245a5e455
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: a13d74b94e6d0a3dcc74e43460a57126b3e9c8c7dd92e67409426374ea6ceaf2
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105711321"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119042302"
 ---
 # <a name="conversionslcmapflagsfromcompareoptions-method"></a>Метод преобразования. Лкмапфлагсфромкомпареоптионс
 
@@ -74,7 +74,7 @@ public static uint LCMapFlagsFromCompareOptions(
 Тип: [System. UInt32](/dotnet/api/system.uint32)  
 Флаги LCMapString завершилось ошибкой, соответствующие параметрам сравнения. Неподдерживаемые параметры игнорируются.  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 #### <a name="reference"></a>Справочник
 

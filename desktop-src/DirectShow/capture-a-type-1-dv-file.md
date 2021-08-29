@@ -4,12 +4,12 @@ ms.assetid: fba11e9b-4900-4b29-a0c9-702272cd7387
 title: Запись файла DV типа 1
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8098669f124bdd4c0168e3549cd8eed8e1825c47
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 3eb6621daab2721970cfc8651ff343ebcb4c4988aa88c1815466011de0f560db
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "104555053"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119652533"
 ---
 # <a name="capture-a-type-1-dv-file"></a>Запись файла DV типа 1
 
@@ -53,12 +53,12 @@ hr = pBuilder->RenderStream(&PIN_CATEGORY_PREVIEW, &MEDIATYPE_Interleaved,
 
 
 1.  Вызовите [**ICaptureGraphBuilder2:: сетаутпутфиленаме**](/windows/desktop/api/Strmif/nf-strmif-icapturegraphbuilder2-setoutputfilename) , чтобы подключить фильтр мультиплексора AVI к фильтру записи файлов.
-2.  Вызовите [**ICaptureGraphBuilder2:: RenderStream**](/windows/desktop/api/Strmif/nf-strmif-icapturegraphbuilder2-renderstream) с захватом категории ПИН-кода \_ \_ для отображения потока отслеживания. Построитель графов записи автоматически вставляет интеллектуальный фильтр Tee.
+2.  Вызовите [**ICaptureGraphBuilder2:: RenderStream**](/windows/desktop/api/Strmif/nf-strmif-icapturegraphbuilder2-renderstream) с захватом категории ПИН-кода \_ \_ для отображения потока отслеживания. построитель Graph отслеживания автоматически вставляет интеллектуальный фильтр Tee.
 3.  Вызовите RenderStream еще раз, но с помощью предварительной версии категории ПИН-кода \_ \_ для отображения предварительного просмотра потока. Пропустите этот вызов, если вы не хотите просматривать видео.
 
-Для обоих вызовов RenderStream типом носителя является носитель с \_ чередованием, что означает чередование DV-видео. В этом коде построитель диаграмм записи автоматически добавляет каждый необходимый фильтр, за исключением фильтра записи МСДВ.
+Для обоих вызовов RenderStream типом носителя является носитель с \_ чередованием, что означает чередование DV-видео. в этом коде построитель Graph отслеживания автоматически добавляет каждый необходимый фильтр, за исключением фильтра записи мсдв.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

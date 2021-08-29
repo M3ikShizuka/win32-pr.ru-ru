@@ -1,26 +1,26 @@
 ---
-title: Атрибуты (пакет SDK для Windows Media Format 11)
-description: Сведения об атрибутах в пакете SDK для Windows Media Format 11. Атрибут — это отдельный элемент метаданных.
+title: атрибуты (пакет SDK для Windows Media Format 11)
+description: сведения об атрибутах в пакете SDK для Windows Media Format 11. Атрибут — это отдельный элемент метаданных.
 ms.assetid: 1e9392b4-4fff-41ad-9d80-23c1c7f9e9a4
 keywords:
-- Windows Media Format SDK, атрибуты
+- Windows Пакет SDK для формата мультимедиа, атрибуты
 - Расширенный системный формат (ASF), атрибуты
 - ASF (Расширенный системный формат), атрибуты
 - атрибуты, сведения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 23738e20df2c6360b20b7c3da005cde6b3942d44
-ms.sourcegitcommit: d0eb44d0a95f5e5efbfec3d3e9c143f5cba25bc3
+ms.openlocfilehash: cf76a8235b3cb81d71a283b5e6c6e992300aaaa21ec840c3a3654e0777a644aa
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112262196"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119441234"
 ---
-# <a name="attributes-windows-media-format-11-sdk"></a>Атрибуты (пакет SDK для Windows Media Format 11)
+# <a name="attributes-windows-media-format-11-sdk"></a>атрибуты (пакет SDK для Windows Media Format 11)
 
 Атрибут — это отдельный элемент метаданных. Большая часть атрибутов может быть задана приложением и записывается в заголовок файла ASF.
 
-Некоторые предопределенные атрибуты являются запрограммированными атрибутами. Эти атрибуты не хранятся в заголовке ASF-файла, но вычисляются объектами пакета SDK Windows Media Format при загрузке файла. Поскольку закодированные атрибуты всегда вычисляются, они по сути являются доступны только для чтения.
+Некоторые предопределенные атрибуты являются запрограммированными атрибутами. эти атрибуты не хранятся в заголовке ASF-файла, но вычисляются объектами пакета SDK Windows Media Format при загрузке файла. Поскольку закодированные атрибуты всегда вычисляются, они по сути являются доступны только для чтения.
 
 Этот пакет SDK включает множество определений атрибутов, которые можно использовать. Вы также можете создавать собственные атрибуты для описания содержимого.
 

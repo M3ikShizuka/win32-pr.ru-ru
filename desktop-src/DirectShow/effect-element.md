@@ -4,12 +4,12 @@ ms.assetid: aedb4491-f1f0-44b3-ad88-3fac8c90144d
 title: Элемент Effect (Гдиплусеффектс. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d4c925e61578857415bb22248a9ad2b1df27cdac
-ms.sourcegitcommit: 63753fcfb0afbbe5ec283fb8316e62c2dc950f66
+ms.openlocfilehash: a780fbab91cd5071efd1135faa680e4707ca1f7327145cc372a5fe8a231a4e8c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "107908662"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119823664"
 ---
 # <a name="effect-element"></a>Элемент Effect
 
@@ -37,7 +37,7 @@ ms.locfileid: "107908662"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Атрибут **CLSID** задает подобъект, который создает результат.
 
@@ -50,7 +50,7 @@ ms.locfileid: "107908662"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -60,7 +60,7 @@ ms.locfileid: "107908662"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

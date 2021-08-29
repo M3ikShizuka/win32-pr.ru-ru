@@ -4,12 +4,12 @@ ms.assetid: 42738598-FF25-4E75-9B42-353EC991DDBC
 title: Интерфейсы проверки орфографии
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4f96ae22c34e9cd625d27a6f5c7c5404904ccdc0
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: a061e0e3e8cc3e73998f1c34f020b129dfa0ba406b9796e00b6eb3f533ca4f7d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104272808"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120130174"
 ---
 # <a name="spell-checking-interfaces"></a>Интерфейсы проверки орфографии
 
@@ -30,7 +30,7 @@ API проверки орфографии содержит следующие и
 [**иусердиктионариесрегистрар**](/windows/desktop/api/Spellcheck/nn-spellcheck-iuserdictionariesregistrar)  
 </dl>
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

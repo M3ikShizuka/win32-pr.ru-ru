@@ -4,12 +4,12 @@ description: Показывает, как объединить две геоме
 ms.assetid: c5413e59-ae73-4797-b4ad-3a78ad700634
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8332421c62f49b60bb2186118ac7f741922fdc7c
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 1d1baa10b78b1829da292656f44160c444e4441b5ef89b52b38a17efd375415b
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104070330"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119259584"
 ---
 # <a name="how-to-combine-geometries"></a>Объединение геометрических объектов
 
@@ -210,7 +210,7 @@ HRESULT DemoApp::CreateGeometryResources()
 
 ![Иллюстрация двух геометрических объектов и четырех режимов объединения геометрических объектов (Union, пересечения, XOR и Exclude)](images/combine-modes.png)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -226,6 +226,6 @@ HRESULT DemoApp::CreateGeometryResources()
 **ID2D1GeometrySink**
 </dt> </dl>
 
- 
+ 
 
- 
+ 

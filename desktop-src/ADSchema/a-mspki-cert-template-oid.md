@@ -14,12 +14,12 @@ api_type:
 - Schema
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: eadf0c2573dbdeac328a6de55fa8de69781bc28c
-ms.sourcegitcommit: b77ace27b0432e7cd3863191b11926be032fbe2f
+ms.openlocfilehash: 83e473c4668f386afd921bc55df22d94da763ae1a3a97f567cd2759425bcb057
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "105655384"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119582274"
 ---
 # <a name="ms-pki-cert-template-oid-attribute"></a>атрибут MS-PKI-CERT-Template-OID
 
@@ -56,16 +56,16 @@ ms.locfileid: "105655384"
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | Идентификатор ссылки                | \-                                                                                                                                         |
 | MAPI-Id                | \-                                                                                                                                         |
-| System-Only            | Неверно                                                                                                                                      |
-| Является однозначным       | True                                                                                                                                       |
-| Индексируется             | Неверно                                                                                                                                      |
-| В глобальном каталоге      | Неверно                                                                                                                                      |
+| System-Only            | Нет                                                                                                                                      |
+| Является однозначным       | Верно                                                                                                                                       |
+| Индексируется             | Нет                                                                                                                                      |
+| В глобальном каталоге      | Нет                                                                                                                                      |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                                                                                               |
 | Range-Lower            | \-                                                                                                                                         |
 | Range-Upper            | \-                                                                                                                                         |
 | Search-Flags           | 0x00000000                                                                                                                                 |
 | System-Flags           | 0x00000010                                                                                                                                 |
-| Классы, используемые в        | [**MS-PKI-Enterprise-OID**](c-mspki-enterprise-oid.md)<br/> [**PKI — шаблон сертификата**](c-pkicertificatetemplate.md)<br/> |
+| Классы, используемые в        | [**ms-PKI-Enterprise-Oid**](c-mspki-enterprise-oid.md)<br/> [**PKI — шаблон сертификата**](c-pkicertificatetemplate.md)<br/> |
 
 
 
@@ -77,16 +77,16 @@ ms.locfileid: "105655384"
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | Идентификатор ссылки                | \-                                                                                                                                         |
 | MAPI-Id                | \-                                                                                                                                         |
-| System-Only            | Неверно                                                                                                                                      |
-| Является однозначным       | True                                                                                                                                       |
-| Индексируется             | Неверно                                                                                                                                      |
-| В глобальном каталоге      | Неверно                                                                                                                                      |
+| System-Only            | Нет                                                                                                                                      |
+| Является однозначным       | Верно                                                                                                                                       |
+| Индексируется             | Нет                                                                                                                                      |
+| В глобальном каталоге      | Нет                                                                                                                                      |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                                                                                               |
 | Range-Lower            | \-                                                                                                                                         |
 | Range-Upper            | \-                                                                                                                                         |
 | Search-Flags           | 0x00000000                                                                                                                                 |
 | System-Flags           | 0x00000010                                                                                                                                 |
-| Классы, используемые в        | [**MS-PKI-Enterprise-OID**](c-mspki-enterprise-oid.md)<br/> [**PKI — шаблон сертификата**](c-pkicertificatetemplate.md)<br/> |
+| Классы, используемые в        | [**ms-PKI-Enterprise-Oid**](c-mspki-enterprise-oid.md)<br/> [**PKI — шаблон сертификата**](c-pkicertificatetemplate.md)<br/> |
 
 
 
@@ -98,16 +98,16 @@ ms.locfileid: "105655384"
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | Идентификатор ссылки                | \-                                                                                                                                         |
 | MAPI-Id                | \-                                                                                                                                         |
-| System-Only            | Неверно                                                                                                                                      |
-| Является однозначным       | True                                                                                                                                       |
-| Индексируется             | Неверно                                                                                                                                      |
-| В глобальном каталоге      | Неверно                                                                                                                                      |
+| System-Only            | Нет                                                                                                                                      |
+| Является однозначным       | Верно                                                                                                                                       |
+| Индексируется             | Нет                                                                                                                                      |
+| В глобальном каталоге      | Нет                                                                                                                                      |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                                                                                               |
 | Range-Lower            | \-                                                                                                                                         |
 | Range-Upper            | \-                                                                                                                                         |
 | Search-Flags           | 0x00000000                                                                                                                                 |
 | System-Flags           | 0x00000010                                                                                                                                 |
-| Классы, используемые в        | [**MS-PKI-Enterprise-OID**](c-mspki-enterprise-oid.md)<br/> [**PKI — шаблон сертификата**](c-pkicertificatetemplate.md)<br/> |
+| Классы, используемые в        | [**ms-PKI-Enterprise-Oid**](c-mspki-enterprise-oid.md)<br/> [**PKI — шаблон сертификата**](c-pkicertificatetemplate.md)<br/> |
 
 
 
@@ -119,16 +119,16 @@ ms.locfileid: "105655384"
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | Идентификатор ссылки                | \-                                                                                                                                         |
 | MAPI-Id                | \-                                                                                                                                         |
-| System-Only            | Неверно                                                                                                                                      |
-| Является однозначным       | True                                                                                                                                       |
-| Индексируется             | True                                                                                                                                       |
-| В глобальном каталоге      | Неверно                                                                                                                                      |
+| System-Only            | Нет                                                                                                                                      |
+| Является однозначным       | Верно                                                                                                                                       |
+| Индексируется             | Верно                                                                                                                                       |
+| В глобальном каталоге      | Нет                                                                                                                                      |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                                                                                               |
 | Range-Lower            | \-                                                                                                                                         |
 | Range-Upper            | \-                                                                                                                                         |
 | Search-Flags           | 0x00000001                                                                                                                                 |
 | System-Flags           | 0x00000010                                                                                                                                 |
-| Классы, используемые в        | [**MS-PKI-Enterprise-OID**](c-mspki-enterprise-oid.md)<br/> [**PKI — шаблон сертификата**](c-pkicertificatetemplate.md)<br/> |
+| Классы, используемые в        | [**ms-PKI-Enterprise-Oid**](c-mspki-enterprise-oid.md)<br/> [**PKI — шаблон сертификата**](c-pkicertificatetemplate.md)<br/> |
 
 
 
@@ -140,16 +140,16 @@ ms.locfileid: "105655384"
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | Идентификатор ссылки                | \-                                                                                                                                         |
 | MAPI-Id                | \-                                                                                                                                         |
-| System-Only            | Неверно                                                                                                                                      |
-| Является однозначным       | True                                                                                                                                       |
-| Индексируется             | True                                                                                                                                       |
-| В глобальном каталоге      | Неверно                                                                                                                                      |
+| System-Only            | Нет                                                                                                                                      |
+| Является однозначным       | Верно                                                                                                                                       |
+| Индексируется             | Верно                                                                                                                                       |
+| В глобальном каталоге      | Нет                                                                                                                                      |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                                                                                                                               |
 | Range-Lower            | \-                                                                                                                                         |
 | Range-Upper            | \-                                                                                                                                         |
 | Search-Flags           | 0x00000001                                                                                                                                 |
 | System-Flags           | 0x00000010                                                                                                                                 |
-| Классы, используемые в        | [**MS-PKI-Enterprise-OID**](c-mspki-enterprise-oid.md)<br/> [**PKI — шаблон сертификата**](c-pkicertificatetemplate.md)<br/> |
+| Классы, используемые в        | [**ms-PKI-Enterprise-Oid**](c-mspki-enterprise-oid.md)<br/> [**PKI — шаблон сертификата**](c-pkicertificatetemplate.md)<br/> |
 
 
 

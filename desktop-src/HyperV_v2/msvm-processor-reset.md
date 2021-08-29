@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - vmms.exe
-ms.openlocfilehash: eecd8f240f2d5c7dc1c2c1b98c0503f54a5c8050
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: dea7552e1419808b7814bbe8083c77703425a7e63d02078879b9641d04d30d21
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108111572"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120130454"
 ---
 # <a name="reset-method-of-the-msvm_processor-class"></a>Метод Reset \_ класса процессора мсвм
 

@@ -60,12 +60,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: bb8d1d37bd5d4db59942aaab7170119283c5cc7b
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: e52ae224aee9db09ffa42cf19b3550a5ff6362326b0058d87e4d2a8b2da1851e
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105657201"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119759414"
 ---
 # <a name="win32_process-class"></a>\_Класс процесса Win32
 
@@ -74,7 +74,7 @@ ms.locfileid: "105657201"
 Следующий пример синтаксиса — упрощенный MOF-код, который включает все наследуемые свойства.
 
 > [!NOTE]
-> Общие сведения о процессах и потоках в Windows см. в разделе [процессы и потоки](/ProcThread/processes-and-threads.md).
+> общие сведения о процессах и потоках в Windows см. в разделе [процессы и потоки](/ProcThread/processes-and-threads.md).
 
 ## <a name="syntax"></a>Синтаксис
 
@@ -146,8 +146,8 @@ class Win32_Process : CIM_Process
 | Метод                                                                   | Описание                                                                                                                                                                                                                                                                               |
 |:-------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**аттачдебугжер**](attachdebugger-method-in-class-win32-process.md)   | Запускает зарегистрированный в данный момент отладчик для процесса.<br/>                                                                                                                                                                                                                      |
-| [**Создать**](create-method-in-class-win32-process.md)                   | Создает новый процесс.<br/>                                                                                                                                                                                                                                                         |
-| [**жетаваилаблевиртуалсизе**](getavailablevirtualsize-win32-process.md) | Получает текущий размер (в байтах) свободного виртуального адресного пространства, доступного процессу.<br/> **Windows server 2012, Windows 8, Windows 7, Windows server 2008 и Windows Vista:** Этот метод не поддерживается до Windows 8.1 и Windows Server 2012 R2.<br/> |
+| [**Создание**](create-method-in-class-win32-process.md)                   | Создает новый процесс.<br/>                                                                                                                                                                                                                                                         |
+| [**жетаваилаблевиртуалсизе**](getavailablevirtualsize-win32-process.md) | Получает текущий размер (в байтах) свободного виртуального адресного пространства, доступного процессу.<br/> **Windows Server 2012, Windows 8, Windows 7, Windows Server 2008 и Windows Vista:** этот метод не поддерживается до Windows 8.1 и Windows Server 2012 R2.<br/> |
 | [**GetOwner**](getowner-method-in-class-win32-process.md)               | Возвращает имя пользователя и доменное имя, под которым выполняется процесс.<br/>                                                                                                                                                                                                    |
 | [**жетовнерсид**](getownersid-method-in-class-win32-process.md)         | Возвращает идентификатор безопасности (SID) для владельца процесса.<br/>                                                                                                                                                                                                            |
 | [**SetPriority**](setpriority-method-in-class-win32-process.md)         | Изменяет приоритет выполнения процесса.<br/>                                                                                                                                                                                                                                   |
@@ -163,7 +163,7 @@ class Win32_Process : CIM_Process
 
 <dl> <dt>
 
-**Заголовок**
+**Caption**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -301,7 +301,7 @@ class Win32_Process : CIM_Process
 
 Путь к исполняемому файлу процесса.
 
-Пример: "C: \\ Windows \\ System \\Explorer.Exe"
+пример: "C: \\ Windows \\ System \\Explorer.Exe"
 
 </dd> <dt>
 
@@ -341,7 +341,7 @@ class Win32_Process : CIM_Process
 
 </dt> <dd>
 
-Другое
+Другие
 
 </dd> <dt>
 
@@ -513,7 +513,7 @@ class Win32_Process : CIM_Process
 
 </dd> <dt>
 
-**Name**
+**Имя**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1074,10 +1074,10 @@ class Win32_Process : CIM_Process
 Тип доступа: только для чтения
 </dt> <dt>
 
-Квалификаторы: [**маппингстрингс**](../wmisdk/standard-qualifiers.md) (" \| процесс Win32API и функции потока \| Жетпроцессверсион"), [**DisplayName**](../wmisdk/standard-qualifiers.md) ("версия Windows")
+квалификаторы: [**маппингстрингс**](../wmisdk/standard-qualifiers.md) (" \| процесс Win32API и функции потока \| жетпроцессверсион"), [**DisplayName**](../wmisdk/standard-qualifiers.md) ("Windows версия")
 </dt> </dl>
 
-Версия Windows, в которой выполняется процесс.
+версия Windows, в которой выполняется процесс.
 
 Пример: 4,0
 
@@ -1139,9 +1139,9 @@ class Win32_Process : CIM_Process
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-Класс **\_ процесса Win32** является производным от [**\_ процесса CIM**](cim-process.md). Вызывающий процесс, использующий этот класс, должен иметь привилегию **SE \_ reside \_ Name** на компьютере, где размещается реестр. Дополнительные сведения см. в разделе [выполнение привилегированных операций](../wmisdk/executing-privileged-operations.md).
+Класс **\_ процесса Win32** является производным от [**\_ процесса CIM**](cim-process.md). вызывающий процесс, использующий этот класс, должен иметь привилегию **SE \_ reside \_ NAME** на компьютере, где размещается реестр. Дополнительные сведения см. в разделе [выполнение привилегированных операций](../wmisdk/executing-privileged-operations.md).
 
 ### <a name="overview"></a>Обзор
 
@@ -1161,7 +1161,7 @@ class Win32_Process : CIM_Process
 
 ## <a name="examples"></a>Примеры
 
-В [списке свойств классов WMI](https://Gallery.TechNet.Microsoft.Com/a7918bf3-bc03-4553-990f-aba13cf196b7) . пример кода PowerShell в коллекции TechNet описывается класс **\_ процесса Win32** и результаты выводятся в формате Excel.
+в [списке свойств классов WMI](https://Gallery.TechNet.Microsoft.Com/a7918bf3-bc03-4553-990f-aba13cf196b7) . пример кода PowerShell в коллекции TechNet описывается класс **\_ процесса Win32** и результаты выводятся в формате Excel.
 
 Процесс [завершения процесса на нескольких серверах](https://Gallery.TechNet.Microsoft.Com/698c2512-2bbd-40ee-b3bf-a9cebdad2faf) прерывает процесс, выполняющийся на одном или нескольких компьютерах.
 

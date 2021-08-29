@@ -4,12 +4,12 @@ description: В этом разделе перечислены операции,
 ms.assetid: 1CF42A18-B6EA-4BA9-BEDE-9A8CC083CBAF
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d45d051943816502fd0bafb77e67241026f31498
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 3dcc002a0724b6f545d72f0c1a7a348ce71f44c612289e0e079c85c7768f8a54
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104068398"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119045602"
 ---
 # <a name="operations-available-on-tiled-resources"></a>Операции, доступные для мозаичных ресурсов
 
@@ -22,16 +22,16 @@ ms.locfileid: "104068398"
 
 Элементы управления плиткой доступны в немедленных и отложенных контекстах (так же, как и обновления типичных ресурсов) и после выполнения влияют на последующие обращения к плиткам (но не ранее отправленные операции).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Создание мозаичных ресурсов](creating-tiled-resources.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

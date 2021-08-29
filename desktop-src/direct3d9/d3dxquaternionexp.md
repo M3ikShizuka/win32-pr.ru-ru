@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 30e48e21e2dc6af487f1fb076af3b3f2df57f9f3
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 2a69364e3cb294f088023d7e67973fb55f6e3396987ee9b63e9f9383dcf81917
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108094102"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119044750"
 ---
 # <a name="d3dxquaternionexp-function-d3dx9mathh"></a>Функция D3DXQuaternionExp (D3dx9math. h)
 
@@ -94,12 +94,12 @@ exp(Q) = (cos(theta), sin(theta) * v)
 
 | Требование | Значение |
 |--------------------|----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3dx9math. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3dx9math. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>   |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

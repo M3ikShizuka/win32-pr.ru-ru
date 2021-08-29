@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d38ab4b1bd6b5f9682b4d8753e7e84f1f2b58a09
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: e27b3679264d9b5830ebf7629e6dbca496123149a20e18ed5431502bde73b6de
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103801636"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119492664"
 ---
 # <a name="glprioritizetextures-function"></a>Функция Глприоритизетекстурес
 
@@ -80,7 +80,7 @@ void WINAPI glPrioritizeTextures(
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Функция **глприоритизетекстурес** назначает приоритеты текстуры *n* , указанные в параметре *приоритеты* , с текстурами *n* , названными в параметре *текстуры* . На компьютерах с ограниченным объемом памяти текстуры OpenGL устанавливает "Рабочий набор" текстур, которые находятся в памяти текстуры. Эти текстуры могут быть привязаны к цели текстуры гораздо эффективнее, чем нерезидентные текстуры.
 
@@ -103,7 +103,7 @@ void WINAPI glPrioritizeTextures(
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -117,7 +117,7 @@ void WINAPI glPrioritizeTextures(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

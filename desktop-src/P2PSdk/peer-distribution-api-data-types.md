@@ -4,12 +4,12 @@ ms.assetid: 5a378965-696c-4205-b9de-bdf93f00018f
 title: Типы данных API однорангового распространения
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5a7bff6fe75c8f4632248c92af37aea6e00c3052
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 2ecfb7a9a90cb5ef2d79a20356ea8ea39f708874e85c3119dd4407a0a3758146
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105663318"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119776084"
 ---
 # <a name="peer-distribution-api-data-types"></a>Типы данных API однорангового распространения
 
@@ -36,15 +36,15 @@ typedef HANDLE PEERDIST_STREAM_HANDLE;
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только для настольных приложений Windows 7 Профессиональная\]<br/>                               |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2008 R2 \[\]<br/>                               |
-| Header<br/>                   | <dl> <dt>В видеом для. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 7 Профессиональная \[ только классические приложения\]<br/>                               |
+| Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/>                               |
+| Заголовок<br/>                   | <dl> <dt>В видеом для. h</dt> </dl> |
 
 
 

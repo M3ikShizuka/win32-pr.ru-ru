@@ -1,9 +1,9 @@
 ---
 title: Сообщение DRV_EXITSESSION (Ммсистем. h)
-description: Уведомляет драйвер о том, что Windows готовится к выходу. Драйвер должен подготовиться к завершению.
+description: уведомляет драйвер о том, что Windows готовится к выходу. Драйвер должен подготовиться к завершению.
 ms.assetid: 8d200d64-b89b-47f1-ad21-ab86987efa4b
 keywords:
-- DRV_EXITSESSION сообщения Windows мультимедиа
+- сообщение DRV_EXITSESSION Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -14,16 +14,16 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 236da457541af2d594bc708caf5b5ed07e58cc04
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 03b8579c82392bf965474248730c62a520e16341965b7b7d4e91824e40675ff8
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104493041"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119691594"
 ---
 # <a name="drv_exitsession-message"></a>\_Екситсессион сообщение DRV
 
-Уведомляет драйвер о том, что Windows готовится к выходу. Драйвер должен подготовиться к завершению.
+уведомляет драйвер о том, что Windows готовится к выходу. Драйвер должен подготовиться к завершению.
 
 ## <a name="parameters"></a>Параметры
 
@@ -47,11 +47,11 @@ ms.locfileid: "104493041"
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Параметры *lParam1* и *lParam2* не используются.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -59,11 +59,11 @@ ms.locfileid: "104493041"
 |-------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                                |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                      |
-| Заголовок<br/>                   | <dl> <dt>Ммсистем. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>ммсистем. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

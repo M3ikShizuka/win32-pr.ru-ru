@@ -3,7 +3,7 @@ title: onfocus
 description: Обработчик событий onfocus обрабатывает событие, происходящее при получении элементом фокуса клавиатуры.
 ms.assetid: 02162494-cd80-4854-b75c-35b5e9891b0b
 keywords:
-- основной проигрыватель Windows Media
+- onfocus проигрыватель Windows Media
 topic_type:
 - apiref
 api_name:
@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 14b6dd9f2ad61e24e83c9e4300c9fdd4c91fa762
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: e794187a8aa1119200bc31e8849f3172fcd472736c9c3e9bfc08604f23b222ab
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105695119"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119647184"
 ---
 # <a name="onfocus"></a>onfocus
 
@@ -28,21 +28,21 @@ ms.locfileid: "105695119"
 onfocus
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Обработчик событий **onfocus** неприменим к элементу **Effects** или элементу **Popup** .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 70 или более поздней<br/> |
+| Версия<br/> | проигрыватель Windows Media версии 70 или более поздней<br/> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

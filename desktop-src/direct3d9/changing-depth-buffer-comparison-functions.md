@@ -4,18 +4,18 @@ ms.assetid: e9243c05-e943-4a42-ab73-e684900fc81d
 title: Изменение функций сравнения буферов глубины (D3D9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7589ea0035376c6e73bcb70a73fcca3b913c9ecc
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 11bdbb808b84fd95eb36e3ea66c4e6faf882826faf8a8c2ab3ed3b9b06f9da79
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103807948"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118989324"
 ---
 # <a name="changing-depth-buffer-comparison-functions-d3d9"></a>Изменение функций сравнения буферов глубины (D3D9)
 
 По умолчанию, когда в области отрисовки выполняется глубокое тестирование, система Direct3D обновляет поверхность целевого объекта рендеринга, если соответствующее значение глубины (z или w) для каждой точки меньше значения в буфере глубины. В приложении C++ вы изменяете, как система выполняет сравнения значений глубины, вызывая метод [**IDirect3DDevice9:: сетрендерстате**](/windows/desktop/api) с параметром *State* , имеющим значение D3DRS \_ зфунк. Параметру *value* должно быть присвоено значение в перечислимом типе [**D3DCMPFUNC**](./d3dcmpfunc.md) .
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

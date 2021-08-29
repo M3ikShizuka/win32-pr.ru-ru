@@ -13,12 +13,12 @@ api_type:
 - Schema
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: caf86243cfe1eaacb239eeaf31883f919cd76da9
-ms.sourcegitcommit: b77ace27b0432e7cd3863191b11926be032fbe2f
+ms.openlocfilehash: 71c4499e2804eb32418c39d6bb771fd1309abf19fc57c3a18cf29306c782842b
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "103989459"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119580234"
 ---
 # <a name="objectpresentation-address-syntax"></a>Синтаксис объекта (представление-адрес)
 
@@ -38,7 +38,7 @@ ms.locfileid: "103989459"
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

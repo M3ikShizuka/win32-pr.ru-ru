@@ -13,12 +13,12 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: ba4e1474d3b57465fa68446fd7ab787c9a62570b
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: d98bbfe9566aa5edeccb7d340de28b1fa4b249d26b8ad740a718ddc5e6bc6a68
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104998888"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119884824"
 ---
 # <a name="abm_setautohidebarex-message"></a>\_Сообщение АБМ сетаутохидебарекс
 
@@ -46,21 +46,21 @@ fSuccess = (BOOL) SHAppBarMessage(ABM_SETAUTOHIDEBAR, pabd);
 
 Возвращает **true** при успешном выполнении, или **false** , если возникла ошибка или если панель приложений автоматически был зарегистрирован для данного объекта на данном мониторе.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Система допускает только одно автоматическое скрытие панель приложений для каждого края каждого монитора. Монитор определяется членом **RC** , а ребро определяется членом **уедже** структуры [**аппбардата**](/windows/desktop/api/Shellapi/ns-shellapi-appbardata) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|---------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Шеллапи. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Шеллапи. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

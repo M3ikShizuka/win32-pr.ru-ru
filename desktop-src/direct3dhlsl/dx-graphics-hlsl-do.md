@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a1f019af77ef0021ad0574bf703ff2a2a52ac0f6
-ms.sourcegitcommit: b32433cc0394159c7263809ae67615ab5792d40d
+ms.openlocfilehash: c154255d4c134c8879df8b6373a522e08ec102c26f3e11bf0b5a6876444eaa4f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "113118789"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120024344"
 ---
 # <a name="do-statement"></a>Do, инструкция
 
@@ -66,7 +66,7 @@ ms.locfileid: "113118789"
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -80,7 +80,7 @@ ms.locfileid: "113118789"
 
 <dl> <dt>
 
-[Управление потоком](dx-graphics-hlsl-flow-control.md)
+[Flow Элемента](dx-graphics-hlsl-flow-control.md)
 </dt> </dl>
 
  

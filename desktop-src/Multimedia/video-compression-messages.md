@@ -3,16 +3,16 @@ title: Сообщения о сжатии видео
 description: Сообщения о сжатии видео
 ms.assetid: 1639d0c5-db1e-4fd0-8a19-c32aa991eecf
 keywords:
-- Видео для Windows (VFW), ВКМ сообщения
-- VFW (видео для Windows), ВКМ сообщения
+- видео для Windows (VFW), вкм сообщения
+- VFW (видео для Windows), сообщения вкм
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5b86c94d120031e273789fb8f27e37eed6804b61
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: dd02ff74d104f67d67ab2949d28763a603ada73a3f23fba5435a2c83aeaad4d9
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104252964"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119804284"
 ---
 # <a name="video-compression-messages"></a>Сообщения о сжатии видео
 
@@ -66,16 +66,16 @@ ms.locfileid: "104252964"
 -   [**ICM \_ сеткуалити**](icm-setquality.md)
 -   [**ICM \_ SETSTATE**](icm-setstate.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Справочник по диспетчеру сжатия видео](video-compression-manager-reference.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

@@ -15,12 +15,12 @@ api_type:
 - DllExport
 api_location:
 - Spoolss.dll
-ms.openlocfilehash: 46788d7ad810ef623cd77793a72ab6c046b73590
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 132e7225850899cb33ff815c2fce309fd70a9d288839da2bbf20a6e9f8aafc50
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103910487"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119776504"
 ---
 # <a name="openprinter2-function"></a>Функция OpenPrinter2
 
@@ -82,7 +82,7 @@ BOOL OpenPrinter2(
 
 Если функция выполняется неудачно, возвращается нулевое значение. Для получения расширенных сведений об ошибках вызовите [**GetLastError**](/windows/desktop/api/errhandlingapi/nf-errhandlingapi-getlasterror).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Не вызывайте этот метод в [**DllMain**](/windows/desktop/Dlls/dllmain).
 
@@ -154,9 +154,9 @@ if (printer)
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                                            |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                                      |
-| Header<br/>                   | <dl> <dt>Винспул. h (включение Windows. h)</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                            |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                                      |
+| Заголовок<br/>                   | <dl> <dt>винспул. h (включает Windows. h)</dt> </dl> |
 | Библиотека<br/>                  | <dl> <dt>Винспул. lib</dt> </dl>                   |
 | DLL<br/>                      | <dl> <dt>Spoolss.dll</dt> </dl>                    |
 | Имя в кодировке Юникод и ANSI<br/>   | **OpenPrinter2W** (Юникод) и **OpenPrinter2A** (ANSI)<br/>                                       |

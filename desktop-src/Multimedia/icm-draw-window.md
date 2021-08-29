@@ -3,7 +3,7 @@ title: Сообщение ICM_DRAW_WINDOW (VFW. h)
 description: Сообщение в \_ окне ICM Draw \_ уведомляет драйвер подготовки, что необходимо перерисовать окно, заданное для \_ \_ начала сообщения ICM Draw.
 ms.assetid: 4df1b9a7-8d61-4e79-8f43-1e7ee266375c
 keywords:
-- ICM_DRAW_WINDOW сообщения Windows мультимедиа
+- сообщение ICM_DRAW_WINDOW Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 290b123fadcaf46a315c42e3ce9a530c5d5d36c8
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 1a1f66ca5beefa3d7eb774174bccc9d9482aebddd4a82341e9c83bb265d7788e
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104490134"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119690926"
 ---
 # <a name="icm_draw_window-message"></a>\_ \_ Сообщение окна ICM Draw
 
@@ -49,13 +49,13 @@ lParam = 0;
 
 Возвращает ИЦЕРР \_ ОК в случае успеха или ошибку в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это сообщение поддерживается оборудованием, которое выполняет собственное асинхронное распаковка, время и рисование.
 
 Драйверы наложения видео это сообщение используется для рисования при скрытии или перемещении окна. Когда окно, заданное [**для \_ \_ начала отображения ICM**](icm-draw-begin.md) , полностью скрыто другими окнами, прямоугольник назначения пуст. При возникновении этого условия драйверы должны отключать оборудование наложения видео.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -67,7 +67,7 @@ lParam = 0;
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

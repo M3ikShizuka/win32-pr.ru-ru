@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 90f02c6cac5fb3ef1edeaa8e03f7bc54a03acb49
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 7f7e64b056715a9f67255b6c16f62c64b65361562489ef47a37dd63548dd6e30
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105658109"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119793744"
 ---
 # <a name="cbasecontrolwindowiscursorhidden-method"></a>Кбасеконтролвиндов. Искурсорхидден, метод
 
@@ -53,22 +53,22 @@ HRESULT IsCursorHidden(
 
 При вызове без параметра возвращает ОАТРУЕ, если курсор скрыт, или ОАФАЛСЕ, если курсор является видимым.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Внутренние объекты должны вызывать эту функцию члена без параметра *курсорхидден* , чтобы избежать блокировки критической секции. Внешние объекты обращаются к этой функции-члену с помощью параметра *курсорхидден* с помощью метода [**Ивидеовиндов:: искурсорхидден**](/windows/desktop/api/Control/nf-control-ivideowindow-iscursorhidden) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Ктлутил. h (включение Streams. h)</dt> </dl>                                                                                   |
+| Заголовок<br/>  | <dl> <dt>ктлутил. h (включает Потоки. h)</dt> </dl>                                                                                   |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

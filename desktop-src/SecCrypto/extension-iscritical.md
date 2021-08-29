@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: 61e53f869a7063e029cb629b8b2fff4cff025b31
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: f37f3c8549835da95949123aecc3a35b2aa896285bd3ec614228a6b851080468
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105665418"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119006882"
 ---
 # <a name="extensioniscritical-property"></a>Свойство Extension. «Critical»
 

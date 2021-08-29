@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3a168f25381b807cc8c0cd17f7ba6764c3591513
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: a1848165729b67a21ae65b506739ccf6d336f51afd51292bae7b66bcd067fdee
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105704475"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119808674"
 ---
 # <a name="iwmdrmlicensegetanalogvideorestrictionlevels-method"></a>Метод Ивмдрмлиценсе:: Жетаналогвидеорестриктионлевелс
 
@@ -72,22 +72,22 @@ HRESULT GetAnalogVideoRestrictionLevels(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Необходимо выделить память для массива ограничений. Чтобы сделать это, сначала вызовите метод с параметром *рганалогвидеорестриктионс* , которому присвоено значение **null**, которое задаст в параметре *пкрестриктионс* число обязательных элементов.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Вмдрмсдк. h</dt> </dl>   |
+| Заголовок<br/>  | <dl> <dt>Вмдрмсдк. h</dt> </dl>   |
 | Библиотека<br/> | <dl> <dt>Вмдрмсдк. lib</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3DX10Async.h
-ms.openlocfilehash: 14afdb899d99b7c0278d3042fbc9a108f446c692
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: d35c6b1c63265ace547880e6bddf42142e960fd94760547717c7e1e385a3d2ff
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "105703929"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119370794"
 ---
 # <a name="d3dx10createasyncshaderpreprocessprocessor-function"></a>Функция D3DX10CreateAsyncShaderPreprocessProcessor
 
@@ -110,7 +110,7 @@ HRESULT D3DX10CreateAsyncShaderPreprocessProcessor(
 
 | Требование | Значение |
 |-------------------|------------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3DX10Async. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3DX10Async. h</dt> </dl> |
 
 
 

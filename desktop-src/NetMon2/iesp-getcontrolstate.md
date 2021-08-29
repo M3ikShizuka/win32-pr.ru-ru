@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Ndisnpp.dll
 - Rmtnpp.dll
-ms.openlocfilehash: b007eb6824ee3e65cdf8195914bbff3a50c39b2c
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 8ef791d4d892713c9bd07a693b9aa57651e2e7cf75635a1c8642ceb4a45b0776
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108114682"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119779204"
 ---
 # <a name="iespgetcontrolstate-method"></a>Метод ИЕСП:: Жетконтролстате
 
@@ -65,8 +65,8 @@ HRESULT STDMETHODCALLTYPE GetControlState(
 
 | Код возврата                                                                                          | Описание                                                                                                                   |
 |------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| <dl> <dt>**НМЕРР \_ не \_ подключен**</dt> </dl> | НПП не подключен к сети. Вызовите [ИЕСП:: Connect](iesp-connect.md) , чтобы подключить НПП к сети.<br/> |
-| <dl> <dt>**НМЕРР \_ не \_ ESP**</dt> </dl>       | НПП подключается к сети, но не с методом [ИЕСП:: Connect](iesp-connect.md) .<br/>                     |
+| <dl> <dt>**НМЕРР \_ не \_ подключен**</dt> </dl> | НПП не подключен к сети. вызовите [иесп:: Подключение](iesp-connect.md) , чтобы подключить нпп к сети.<br/> |
+| <dl> <dt>**НМЕРР \_ не \_ ESP**</dt> </dl>       | нпп подключается к сети, но не с помощью метода [иесп:: Подключение](iesp-connect.md) .<br/>                     |
 
 
 
@@ -76,7 +76,7 @@ HRESULT STDMETHODCALLTYPE GetControlState(
 
 Этот метод можно вызвать при каждом подключении НПП к сети. Этот метод можно использовать для определения того, выполняется ли запись, если запись приостановлена или если запись была остановлена, но НПП все еще подключена.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -96,7 +96,7 @@ HRESULT STDMETHODCALLTYPE GetControlState(
 [иесп](iesp.md)
 </dt> <dt>
 
-[ИЕСП:: Connect](iesp-connect.md)
+[иесп:: Подключение](iesp-connect.md)
 </dt> <dt>
 
 [ИЕСП::P Аусе](iesp-pause.md)

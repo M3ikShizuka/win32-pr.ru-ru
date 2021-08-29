@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5dbfef19aa79ba634a13d92b8d11866b8016e893
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: c86ce3ba30dae836077189b79553e5e39b16f53f9846f41216697d110d1dfb20
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104136326"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119512254"
 ---
 # <a name="imstscaxeventsonmouseinputmodechanged-method"></a>Метод Имстскаксевентс:: Онмаусеинпутмодечанжед
 
@@ -54,11 +54,11 @@ void OnMouseInputModeChanged(
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Реализуйте этот метод в приемнике событий, чтобы получить уведомление о том, что режим ввода мыши изменился.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -72,7 +72,7 @@ void OnMouseInputModeChanged(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

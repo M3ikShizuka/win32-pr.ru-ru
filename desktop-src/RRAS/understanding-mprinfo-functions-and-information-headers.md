@@ -4,12 +4,12 @@ description: Для следующих функций необходимо, чт
 ms.assetid: 389002c9-2d24-4b35-ab5b-801fe2091db9
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 001c39bf28500d7261b3eb99abf0266470daf3d2
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: ac170b17b04bf9912636e9565e8fdf225c903fe5d6dcbf8ef02d619e5009d889
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103986539"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120025424"
 ---
 # <a name="understanding-mprinfo-functions-and-information-headers"></a>Основные сведения о функциях и заголовках Мпринфо
 
@@ -26,7 +26,7 @@ ms.locfileid: "103986539"
 
 
 
- 
+ 
 
 Аналогичным образом следующие функции возвращают заголовки данных.
 
@@ -39,7 +39,7 @@ ms.locfileid: "103986539"
 
 
 
- 
+ 
 
 Для транспортных функций заголовок Information содержит глобальные сведения для транспорта. Для функций клиента (Интерфацетранспорт) в заголовке содержатся сведения, относящиеся к администрированием клиента (например, OSPF).
 
@@ -47,9 +47,9 @@ ms.locfileid: "103986539"
 
 В таких функциях, как [**мпрадмининтерфацесетинфо**](/windows/desktop/api/Mprapi/nf-mprapi-mpradmininterfacesetinfo) , не требуется использовать функции мпринфо. Сведения, которые передаются и возвращаются с помощью этих функций, всегда находятся в виде [**структуры \_ интерфейса MPR**](/windows/desktop/api/Mprapi/ns-mprapi-mpr_interface_0) .
 
- 
+ 
 
- 
+ 
 
 
 

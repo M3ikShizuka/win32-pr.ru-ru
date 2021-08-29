@@ -8,12 +8,12 @@ keywords:
 - Сопоставитель MIDI, архитектура
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 951ad3cee4fb37de6ecbfdc4f81860afcb9f589d
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.openlocfilehash: 024a3ce675677df8fa1bfcf32f4fdf4e6bdcae921cc14c7ccb42d6fe832480e7
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "104069937"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119805122"
 ---
 # <a name="the-midi-mapper-and-windows"></a>Средство сопоставления MIDI и Windows
 
@@ -23,6 +23,6 @@ ms.locfileid: "104069937"
 
 С точки зрения приложения средство сопоставления MIDI выглядит как другое устройство вывода MIDI. Средство сопоставления MIDI получает сообщения, отправленные им с помощью функций вывода MIDI нижнего уровня [**мидиаутшортмсг**](/windows/win32/api/mmeapi/nf-mmeapi-midioutshortmsg) и [**мидиаутлонгмсг**](/windows/win32/api/mmeapi/nf-mmeapi-midioutlongmsg). Средство сопоставления MIDI изменяет эти сообщения и перенаправляет их на устройство вывода MIDI в соответствии с текущей картой установки MIDI. Текущая схема установки MIDI выбирается пользователем с помощью параметра панели управления MIDI. Только пользователь может выбрать текущую карту установки. приложения не могут изменить текущую схему установки.
 
- 
+ 
 
- 
+ 

@@ -64,11 +64,11 @@
       href: eaphost-development-frequently-asked-questions.md
       items:
         - name: Общие вопросы и ответы
-          href: general-frequently-asked-questions.md
+          href: general-frequently-asked-questions.yml
         - name: Часто задаваемые вопросы о запрашивающем сторона EAPHost
-          href: eaphost-supplicant-frequently-asked-questions.md
+          href: eaphost-supplicant-frequently-asked-questions.yml
         - name: Часто задаваемые вопросы о методе EAP
-          href: eap-method-frequently-asked-questions.md
+          href: eap-method-frequently-asked-questions.yml
     - name: Примеры кода EAPHost и схемы прежних версий
       href: eap-host-schemas.md
       items:

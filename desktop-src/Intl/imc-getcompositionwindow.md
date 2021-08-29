@@ -4,12 +4,12 @@ ms.assetid: d2c60974-a602-4a42-8a45-870ee39df001
 title: Команда IMC_GETCOMPOSITIONWINDOW (IMM. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b32b8f4414311d0727f622a1b552428cd31b0716
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 9dc32c183377967071b5f0cdea278a37a414a7eead422a5ed00750174a6667bc
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103810408"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119068094"
 ---
 # <a name="imc_getcompositionwindow-command"></a>ИМК \_ жеткомпоситионвиндов, команда
 
@@ -44,7 +44,7 @@ LRESULT IMC_GETCOMPOSITIONWINDOW
 
 Возвращает 0 в случае успеха или ненулевое значение в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Так как редактор IME может скорректировать расположение окна композиции, приложение использует эту команду для получения фактического расположения, чтобы решить, следует ли изменить расположение окна. Полученное расположение находится в координатах окна относительно окна, имеющего текущий фокус ввода.
 
@@ -56,7 +56,7 @@ LRESULT IMC_GETCOMPOSITIONWINDOW
 |-------------------------------------|------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                           |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                 |
-| Заголовок<br/>                   | <dl> <dt>IMM. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Imm. h (включает Windows. h)</dt> </dl> |
 
 
 

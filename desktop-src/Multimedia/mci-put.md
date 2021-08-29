@@ -3,7 +3,7 @@ title: Команда MCI_PUT (Ммсистем. h)
 description: Команда MCI « \_ разместить» задает прямоугольники источника, назначения и фрейма. Эта команда распознает цифровые видеоролики и устройства наложения видео.
 ms.assetid: 9d81682b-6546-4e6d-a6df-e2de8c013b66
 keywords:
-- MCI_PUT команды мультимедиа Windows
+- команда MCI_PUT Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c8fa4af30aa2b3aa6f7cdd50f453bc8edca83334
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 6c34250f59122eca942309b840c4b66521a08b3eecc8ca89dfd480d6e9a6869d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104137803"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119689914"
 ---
 # <a name="mci_put-command"></a>Команда MCI « \_ разместить»
 
@@ -68,7 +68,7 @@ MCIERROR mciSendCommand(
 
 Возвращает нуль в случае успеха или ошибку в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 С типом устройства **дигиталвидео** используются следующие дополнительные флаги:
 
@@ -168,7 +168,7 @@ MCIERROR mciSendCommand(
 
 Для устройств с наложением видео *лпдест* указывает на структуру [**MCI \_ овли \_ Rect \_ пармс**](mci-ovly-rect-parms.md) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -176,11 +176,11 @@ MCIERROR mciSendCommand(
 |-------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                                |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                      |
-| Заголовок<br/>                   | <dl> <dt>Ммсистем. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>ммсистем. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

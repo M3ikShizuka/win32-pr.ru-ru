@@ -4,19 +4,19 @@ description: Следующие перечислимые типы поддерж
 ms.assetid: 93ea8c4c-ae94-416c-8c7b-870c78eb55c3
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 09db21ca7fb150c9d79ef0e5fa184198f99b31ef
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 136b6df91a0d6bc6277da7dc6e503fe48708c36eb685696b8b7e480d9101fe57
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "105672145"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119686044"
 ---
 # <a name="nap-enumerated-types"></a>Перечислимые типы NAP
 
 > [!Note]  
 > Платформа защиты доступа к сети недоступна начиная с Windows 10
 
- 
+ 
 
 Следующие перечислимые типы поддерживают API NAP:
 
@@ -29,9 +29,9 @@ ms.locfileid: "105672145"
 -   [**ремотеконфигуратионтипе**](/windows/win32/api/naptypes/ne-naptypes-remoteconfigurationtype)
 -   [**сохаттрибутетипе**](sohattributetype-enum.md)
 
- 
+ 
 
- 
+ 
 
 
 

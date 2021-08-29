@@ -20,12 +20,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 5a5e1f5e6908f33d211c5a32a3b9d34e55098101
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 94e4f6c8297ef31425d7addc1ac48d1b619937de52fc6370eaa5ad5791f8fab7
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105712664"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119948034"
 ---
 # <a name="apijetgettableindexinfo-method-jet_sesid-jet_tableid-string-uint16-jet_idxinfo"></a>Метод API. Жетжеттаблеиндексинфо (JET_SESID, JET_TABLEID, String, UInt16, JET_IdxInfo)
 
@@ -103,7 +103,7 @@ public static void JetGetTableIndexInfo(
     
     Тип извлекаемых данных.
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 #### <a name="reference"></a>Справочник
 

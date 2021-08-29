@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f45311171dd3d71c9e699953c049e0813f2df361
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: f88c303e6a9471f0de38f891c7b376785d29b5052432ef234fa531861400841e
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105682100"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119488404"
 ---
 # <a name="gluunproject-function"></a>Функция Глуунпрожект
 
@@ -117,11 +117,11 @@ int WINAPI gluUnProject(
 
 Если функция завершается ошибкой, возвращается значение GL \_ false.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Функция **глуунпрожект** сопоставляет указанные координаты окна с координатами объекта с помощью *моделматрикс*, *прожматрикс* и *окна просмотра*. Результат сохраняется в *обжкс*, *обжи* и *обжз*.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -135,7 +135,7 @@ int WINAPI gluUnProject(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

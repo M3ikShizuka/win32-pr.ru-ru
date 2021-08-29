@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 1a78b277de7fb96782a562ca6fa7458bce417e4a
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 0b3eddff0abb6c49e4d9ada17e89cbac289c6234c6b4dbedeecdd5e91d6503f1
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104410579"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119139257"
 ---
 # <a name="task-scheduler-schema-elements"></a>планировщик задач элементы схемы
 
@@ -159,9 +159,9 @@ ms.locfileid: "104410579"
 -   [**Weeks (Монслидайофвиксчедулетипе)**](taskschedulerschema-weeks-monthlydayofweekscheduletype-element.md)
 -   [**WorkingDirectory (Ексектипе)**](taskschedulerschema-workingdirectory-exectype-element.md)
 
- 
+ 
 
- 
+ 
 
 
 
