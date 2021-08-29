@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Запрос состояния дополнительных функций
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9ecffe6ddbe9b860c6f49fe12d3fed500c169bef
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.openlocfilehash: a8a8cceccdfeec6f902a56e8903a1d41e504750e
+ms.sourcegitcommit: 4e94fc75fad7b2a0f3c92a26f97e89924e59b7a9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122476710"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "122786690"
 ---
 # <a name="querying-the-status-of-optional-features"></a>Запрос состояния дополнительных функций
 
@@ -20,7 +20,7 @@ ms.locfileid: "122476710"
 
 **Получение всех экземпляров дополнительных компонентов, имеющихся на компьютере**
 
--   <span codelanguage="PowerShell"></span>
+
     
 | PowerShell | 
 |------------|
@@ -31,7 +31,7 @@ ms.locfileid: "122476710"
 
 **Запрос дополнительных компонентов путем указания имени функции**
 
--   <span codelanguage="PowerShell"></span>
+
     
 | PowerShell | 
 |------------|
@@ -47,7 +47,7 @@ ms.locfileid: "122476710"
 
 **Запрос дополнительных компонентов путем указания состояния установки**
 
--   <span codelanguage="PowerShell"></span>
+
     
 | PowerShell | 
 |------------|

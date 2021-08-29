@@ -1,19 +1,19 @@
 ---
 title: Свойство Top (объект страница свойств)
-description: Сведения о свойстве Top (объект страница свойств). Microsoft Agent является устаревшим в Windows 7 и может быть недоступен в последующих версиях Windows.
+description: Сведения о свойстве Top (объект страница свойств). Microsoft Agent является устаревшим по отношению к Windows 7 и может быть недоступен в последующих версиях Windows.
 ms.assetid: 413374d8-3c7a-44b2-8b33-3a5cdef01aee
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1c79fe273e68241d05864962646259e97efd72f3
-ms.sourcegitcommit: 91530c19d26ba4c57a6af1f37b57f211f580464e
+ms.openlocfilehash: 9b923dcbfe002a8c6d81b1b52afe1d3e038f44a0689b3072afab20082eaa9109
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112396359"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119398914"
 ---
 # <a name="top-property-propertysheet-object"></a>Свойство Top (объект страница свойств)
 
-\[Microsoft Agent является устаревшим в Windows 7 и может быть недоступен в последующих версиях Windows.\]
+\[Microsoft Agent является устаревшим по отношению к Windows 7 и может быть недоступен в последующих версиях Windows.\]
 
 <dl> <dt>
 

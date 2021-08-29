@@ -12,12 +12,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 2ad873815cb5cea40c1a9d2f694eca8d0e90d11b
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 1a5245964cf6a87c6bb09be0f3f83aa30b1b9337a2a5238be873d90ade90ba91
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104984472"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119746534"
 ---
 # <a name="stackwalk-class"></a>Класс Стакквалк
 
@@ -34,11 +34,11 @@ class StackWalk : MSNT_SystemTrace
 };
 ```
 
-## <a name="members"></a>Участники
+## <a name="members"></a>Члены
 
 Класс **стакквалк** не определяет никаких членов.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Чтобы включить трассировку стека событий ядра, вызовите функцию [**трацесетинформатион**](/windows/win32/api/evntrace/nf-evntrace-tracesetinformation) и укажите события и типы ядра, для которых необходимо записать трассировку стека. Чтобы включить трассировку стека для других событий, установите для элемента **енаблепроперти** в [**\_ \_ параметре включить**](/windows/win32/api/evntrace/ns-evntrace-enable_trace_parameters) трассировку **\_ \_ \_ стека \_ свойства значение включено**.
 
@@ -60,8 +60,8 @@ class StackWalk : MSNT_SystemTrace
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 7\]<br/>              |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2008 R2 \[\]<br/> |
+| Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>              |
+| Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/> |
 
 
 

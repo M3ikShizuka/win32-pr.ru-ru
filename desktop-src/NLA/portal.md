@@ -4,16 +4,16 @@ description: Диспетчер списка сетей
 ms.assetid: a30741ff-5d9a-4ebb-8373-97e9116fc64b
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7ba4189838fcb491b884c5d524fab6bc3d10095f
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 34df836170d61e585c3ec5e832080fa80a1cf022dcd72dc247fbf970eb9d1f20
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108090772"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119801514"
 ---
 # <a name="network-list-manager"></a>Диспетчер списка сетей
 
-## <a name="purpose"></a>Цель
+## <a name="purpose"></a>Назначение
 
 API диспетчера списка сетей позволяет приложениям получать список доступных сетевых подключений. Приложения могут фильтровать сети на основе атрибутов и подписей, а также выбирать сети, которые лучше всего подходят для их задачи. Инфраструктура диспетчера списков сетей уведомляет приложения об изменениях в сетевой среде, что позволяет приложениям динамически обновлять сетевые подключения.
 

@@ -1,19 +1,19 @@
 ---
-description: В следующих примерах C# и Visual Basic Scripting Edition (VBScript) демонстрируется экспорт конфигурации виртуальной машины.
+description: в следующих примерах C# и Visual Basic scripting Edition (VBScript) демонстрируется экспорт конфигурации виртуальной машины.
 ms.assetid: 0B503B85-7EC0-409A-B610-E1C7FFBF3192
 title: Экспорт конфигурации виртуальной машины
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e74a9984490c74be907f96ab408c64aa233ed09b
-ms.sourcegitcommit: 3d9eb6638763fee8b87c378657458f814182e36c
+ms.openlocfilehash: 7f2a52c9d4cae1e590749bc1b9b6f0dc4ddcad3542faabe808edd64fb3b2aa2a
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "105684730"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119532544"
 ---
 # <a name="exporting-the-configuration-of-a-virtual-machine"></a>Экспорт конфигурации виртуальной машины
 
-В следующих примерах C# и Visual Basic Scripting Edition (VBScript) демонстрируется экспорт конфигурации виртуальной машины. Примеры, демонстрирующие экспорт виртуальной машины, можно найти в [**експортсистемдефинитион**](exportsystemdefinition-msvm-virtualsystemmanagementservice.md) и [экспортировать моментальный снимок разделов виртуальной машины](exporting-virtual-machines.md) .
+в следующих примерах C# и Visual Basic scripting Edition (VBScript) демонстрируется экспорт конфигурации виртуальной машины. Примеры, демонстрирующие экспорт виртуальной машины, можно найти в [**експортсистемдефинитион**](exportsystemdefinition-msvm-virtualsystemmanagementservice.md) и [экспортировать моментальный снимок разделов виртуальной машины](exporting-virtual-machines.md) .
 
 Упоминаемые служебные программы C# можно найти в [общих служебных программах для примеров виртуализации (v2)](common-utilities-for-the-virtualization-samples-v2.md).
 
@@ -279,7 +279,7 @@ End Function
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 [Экспорт моментального снимка виртуальной машины](exporting-virtual-machines.md)
 

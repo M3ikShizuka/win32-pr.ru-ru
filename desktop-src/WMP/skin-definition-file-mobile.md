@@ -3,19 +3,19 @@ title: Файл определения обложки (Mobile)
 description: Файл определения обложки (Mobile)
 ms.assetid: 76f5a17c-8126-4310-8cdf-72cdca98708b
 keywords:
-- Обложки мобильных приложений проигрывателя Windows Media, файлы определения обложки
+- проигрыватель Windows Media Обложки для мобильных устройств, файлы определения обложки
 - обложки, файлы определения обложки
 - файлы для обложек, определение обложки
 - файлы определения обложки, сведения
 - файлы определения обложки, проигрыватель Windows Media Mobile
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f04fbf35483db3f10fe900982726952fa1ba1895
-ms.sourcegitcommit: 8fa6614b715bddf14648cce36d2df22e5232801a
+ms.openlocfilehash: 623f084e4ff445d6971ca0efbde8efa53eb1a250d792421ca898d8081a632695
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "103800653"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119507904"
 ---
 # <a name="skin-definition-file-mobile"></a>Файл определения обложки (Mobile)
 
@@ -28,7 +28,7 @@ ms.locfileid: "103800653"
 -   [Правила для каждой строки](rules-for-each-line.md)
 -   [Обязательные элементы](required-elements.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

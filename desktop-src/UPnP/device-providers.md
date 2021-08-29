@@ -4,12 +4,12 @@ description: Поставщики устройств — это зарегист
 ms.assetid: 80c08993-0a8b-4ee9-93cd-bcc3c00e843b
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 67fac270342830045fc3bac9f0573f283d87dc6a
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 5cfb81f5fceacff490be47609973b897a5b9bd199122b24db39d12ada8ec7355
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104133986"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119867684"
 ---
 # <a name="device-providers"></a>Поставщики устройств
 
@@ -27,6 +27,6 @@ ms.locfileid: "104133986"
 
 Когда компьютер завершает работу, узел устройства вызывает метод [**иупнпдевицепровидер::**](/windows/desktop/api/Upnphost/nf-upnphost-iupnpdeviceprovider-stop) Terminate, указывающий, что поставщик устройства прекращает работу.
 
- 
+ 
 
- 
+ 

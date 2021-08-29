@@ -4,12 +4,12 @@ ms.assetid: 583f5736-f767-47c5-8fdc-b3645aed59f6
 title: Использование модуля чтения исходного кода для обработки данных мультимедиа
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5b19bce4d83298693825037aef92a220d78ed7c7
-ms.sourcegitcommit: c16214e53680dc71d1c07111b51f72b82a4512d8
+ms.openlocfilehash: ad5c8a21a2e547d005e4695a14fe9a6bd09d5d9a
+ms.sourcegitcommit: 0dec0044816af3f2b2e6403659e1cf11138c90cd
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "104351182"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "121812147"
 ---
 # <a name="using-the-source-reader-to-process-media-data"></a>Использование модуля чтения исходного кода для обработки данных мультимедиа
 
@@ -33,7 +33,7 @@ ms.locfileid: "104351182"
 -   [Нужна](#seeking)
 -   [Скорость воспроизведения](#playback-rate)
 -   [Аппаратное ускорение](#hardware-acceleration)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="creating-the-source-reader"></a>Создание модуля чтения исходного кода
 
@@ -138,27 +138,20 @@ HRESULT EnumerateTypesForStream(IMFSourceReader *pReader, DWORD dwStreamIndex)
 
 
 ```C++
-HRESULT EnumerateTypesForStream(IMFSourceReader *pReader, DWORD dwStreamIndex)
+HRESULT EnumerateMediaTypes(IMFSourceReader *pReader)
 {
     HRESULT hr = S_OK;
-    DWORD dwMediaTypeIndex = 0;
+    DWORD dwStreamIndex = 0;
 
     while (SUCCEEDED(hr))
     {
-        IMFMediaType *pType = NULL;
-        hr = pReader->GetNativeMediaType(dwStreamIndex, dwMediaTypeIndex, &pType);
-        if (hr == MF_E_NO_MORE_TYPES)
+        hr = EnumerateTypesForStream(pReader, dwStreamIndex);
+        if (hr == MF_E_INVALIDSTREAMNUMBER)
         {
             hr = S_OK;
             break;
         }
-        else if (SUCCEEDED(hr))
-        {
-            // Examine the media type. (Not shown.)
-
-            pType->Release();
-        }
-        ++dwMediaTypeIndex;
+        ++dwStreamIndex;
     }
     return hr;
 }
@@ -456,7 +449,7 @@ HRESULT GetSourceFlags(IMFSourceReader *pReader, ULONG *pulFlags)
 
 
 
-| Flag                                                                                                                                      | Описание                                                                                                                                                                                                |
+| Флаг                                                                                                                                      | Описание                                                                                                                                                                                                |
 |-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <span id="MFMEDIASOURCE_CAN_SEEK"></span><span id="mfmediasource_can_seek"></span>**МФМЕДИАСАУРЦЕ \_ может \_ Искать**<br/>                 | Источник может искать.<br/>                                                                                                                                                                            |
 | <span id="MFMEDIASOURCE_HAS_SLOW_SEEK"></span><span id="mfmediasource_has_slow_seek"></span>**МФМЕДИАСАУРЦЕ \_ имеет \_ низкую \_ Поиск**<br/> | Поиск может занять длительное время. Например, источнику может потребоваться загрузить весь файл, прежде чем он сможет выполнить поиск. (Нет никаких условий для возврата этого флага для источника.)<br/> |
@@ -529,11 +522,11 @@ HRESULT SetPosition(IMFSourceReader *pReader, const LONGLONG& hnsPosition)
 При предоставлении устройства Direct3D модуль чтения исходного кода выделяет видеоматериалы, совместимые с API обработчика видео ДКСВА. Вы можете использовать обработку видео ДКСВА для выполнения аппаратного чередования или смешения видео. Дополнительные сведения см. в разделе [Обработка видео дксва](dxva-video-processing.md). Кроме того, если декодер поддерживает ДКСВА 2,0, он будет использовать устройство Direct3D для выполнения декодирования с аппаратным ускорением.
 
 > [!IMPORTANT]
-> Начиная с Windows 8, вместо [**IDirect3DDeviceManager9**](/windows/desktop/api/dxva2api/nn-dxva2api-idirect3ddevicemanager9)можно использовать [**имфдксгидевицеманажер**](/windows/desktop/api/mfobjects/nn-mfobjects-imfdxgidevicemanager) . Для приложений Магазина Windows необходимо использовать **имфдксгидевицеманажер**. Дополнительные сведения см. в статье [API-интерфейсы видео Direct3D 11](direct3d-11-video-apis.md).
+> начиная с Windows 8 можно использовать [**имфдксгидевицеманажер**](/windows/desktop/api/mfobjects/nn-mfobjects-imfdxgidevicemanager) вместо [**IDirect3DDeviceManager9**](/windows/desktop/api/dxva2api/nn-dxva2api-idirect3ddevicemanager9). для приложений магазина Windows необходимо использовать **имфдксгидевицеманажер**. Дополнительные сведения см. в статье [API-интерфейсы видео Direct3D 11](direct3d-11-video-apis.md).
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

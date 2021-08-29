@@ -4,12 +4,12 @@ description: Запустите фазу соединения в шейдере 
 ms.assetid: C53889BE-B65F-4F5F-8B87-7C5263FAC800
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 54c45011209124d73fe866872772a3a787c538d2
-ms.sourcegitcommit: fe03c5d92ca6a0d66a114b2303e99c0a19241ffb
+ms.openlocfilehash: d25f0069d695d55568d05a3fcff9b0ce66b98fa377b3748d6f0ff7a377c478a5
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "104335576"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119119488"
 ---
 # <a name="hs_join_phase-sm5---asm"></a>\_фаза присоединения к HS \_ (SM5-ASM)
 
@@ -22,21 +22,21 @@ ms.locfileid: "104335576"
 
 
 
- 
+ 
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Эта инструкция применяется к следующим этапам шейдера:
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Геометрия | Пиксель | Службы вычислений |
 |--------|------|--------|----------|-------|---------|
 |        | X    |        |          |       |         |
 
 
 
- 
+ 
 
 ## <a name="minimum-shader-model"></a>Минимальная модель шейдера
 
@@ -46,7 +46,7 @@ ms.locfileid: "104335576"
 
 | Модель шейдера                                              | Поддерживается |
 |-----------------------------------------------------------|-----------|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | да       |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | Да       |
 | [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | Нет        |
 | [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | Нет        |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет        |
@@ -55,18 +55,18 @@ ms.locfileid: "104335576"
 
 
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Сборка Shader Model 5 (DirectX HLSL)](shader-model-5-assembly--directx-hlsl-.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

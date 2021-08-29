@@ -3,27 +3,27 @@ title: Тип кнопки
 description: Тип кнопки
 ms.assetid: 0c9e72d5-5cc4-4d6f-b184-2c8c8487e366
 keywords:
-- Обложки Windows Media Player для мобильных устройств, типы кнопок
+- проигрыватель Windows Media Обложки мобильных устройств, типы кнопок
 - обложки, типы кнопок
 - Справочник по обложкам, кнопкам
 - кнопки в обложках, типы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c58eeb7402a13730fd7f4030d2e4326fe7f18e63
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 1eeece7250242af0eb78d1938ad827b238f2de2337b6a8acc0eeeefec5f52acf
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103887919"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120123704"
 ---
 # <a name="button-type"></a>Тип кнопки
 
 Кнопки бывают двух общих типов: расположение и регион. Каждый общий тип имеет три конкретных типа, что делает шесть типов кнопок полностью.
 
 > [!Note]  
-> Типы кнопок являются устаревшими в обложках проигрывателя Windows Media 10 Mobile или более поздней версии.
+> типы кнопок являются устаревшими в обложках для проигрыватель Windows Media 10 Mobile или более поздней версии.
 
- 
+ 
 
 Типы кнопок расположения
 
@@ -39,7 +39,7 @@ ms.locfileid: "103887919"
 
 
 
- 
+ 
 
 Типы кнопок региона
 
@@ -55,18 +55,18 @@ ms.locfileid: "103887919"
 
 
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [**Кнопки**](buttons.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

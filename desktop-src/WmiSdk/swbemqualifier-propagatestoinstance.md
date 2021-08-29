@@ -17,12 +17,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: e5566d24ba1b8f76bfaa3812066f3f8e27f03d9f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 506662355091e76abb41dfc5e87ebd07f1c343f6ae3bcf20c59112216dac5d1a
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104263790"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119463714"
 ---
 # <a name="swbemqualifierpropagatestoinstance-property"></a>Свбемкуалифиер. Пропагатестоинстанце, свойство
 
@@ -43,7 +43,7 @@ SWbemQualifier.PropagatesToInstance As Boolean
 
 ## <a name="property-value"></a>Значение свойства
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 

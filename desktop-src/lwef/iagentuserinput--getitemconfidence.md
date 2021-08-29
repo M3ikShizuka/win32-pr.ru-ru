@@ -4,16 +4,16 @@ description: Иажентусеринпут Жетитемконфиденце
 ms.assetid: 7d1ca2f0-416c-43c3-99a8-9f287cb88de1
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 846e1fca9ea1245a62fc68330d68263b63fb7cfd
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: c68aec7e19c97161437dd4fd5d0e784a78ec7ebbe7e20edd8ff540c3ddeedb27
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104328200"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119716064"
 ---
 # <a name="iagentuserinputgetitemconfidence"></a>Иажентусеринпут:: Жетитемконфиденце
 
-\[Microsoft Agent является устаревшим в Windows 7 и может быть недоступен в последующих версиях Windows.\]
+\[Microsoft Agent является устаревшим по отношению к Windows 7 и может быть недоступен в последующих версиях Windows.\]
 
 ``` syntax
 HRESULT GetItemConfidence(
@@ -44,14 +44,14 @@ HRESULT GetItemConfidence(
 
 Если речевой ввод не является источником команды, например, если пользователь выбрал команду во всплывающем меню символа, сервер Microsoft Agent возвращает значение достоверности наилучшего соответствия, равное 100, и значения достоверности для всех остальных альтернатив в виде нуля (0).
 
-## <a name="see-also"></a>См. также:
+## <a name="see-also"></a>См. также
 
 [**Иажентусеринпут:: жетитемид**](iagentuserinput--getitemid.md), [**Иажентусеринпут:: жеталлитемдата**](iagentuserinput--getallitemdata.md), [**иажентусеринпут:: жетитемтекст**](iagentuserinput--getitemtext.md)
 
 
- 
+ 
 
- 
+ 
 
 
 

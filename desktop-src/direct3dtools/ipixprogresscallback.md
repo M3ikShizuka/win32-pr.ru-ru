@@ -17,18 +17,18 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 1af436e03f45c15324ef650f663a3668eedfc42b
-ms.sourcegitcommit: 4e94fc75fad7b2a0f3c92a26f97e89924e59b7a9
+ms.openlocfilehash: a922dbb24a1dfa1214fcfe6bfd95cd5be4e01fa5
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "122786100"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122628150"
 ---
 # <a name="span-idvspixengineipixprogresscallbackspanipixprogresscallback-interface"></a><span id="vspixengine.ipixprogresscallback"></span>Интерфейс Ипикспрогресскаллбакк
 
 Обратный вызов из обработчика для возврата хода выполнения.
 
-## <a name="members"></a>Элементы
+## <a name="members"></a>Участники
 
 Интерфейс **ипикспрогресскаллбакк** наследует от интерфейса [**IUnknown**](/windows/desktop/api/unknwn/nn-unknwn-iunknown) . **Ипикспрогресскаллбакк** также имеет следующие типы членов:
 
@@ -38,7 +38,7 @@ ms.locfileid: "122786100"
 
 Интерфейс **ипикспрогресскаллбакк** содержит следующие методы.
 
-<table><colgroup><col  /><col  /></colgroup><thead><tr class="header"><th >Метод</th><th >Описание</th></tr></thead><tbody><tr class="odd"><td ><a href="/windows/desktop/direct3dtools/ipixprogresscallback-progress-dword-dword"><strong>Ход выполнения</strong></a></td><td ><p>Обратный вызов, уведомляющий узел о ходе выполнения связанного запроса.</p></td></tr></tbody></table>
+<table><colgroup><col  /><col  /></colgroup><thead><tr class="header"><th style="text-align: left;">Метод</th><th style="text-align: left;">Описание</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><a href="/windows/desktop/direct3dtools/ipixprogresscallback-progress-dword-dword"><strong>Ход выполнения</strong></a></td><td style="text-align: left;"><p>Обратный вызов, уведомляющий узел о ходе выполнения связанного запроса.</p></td></tr></tbody></table>
 
  
 

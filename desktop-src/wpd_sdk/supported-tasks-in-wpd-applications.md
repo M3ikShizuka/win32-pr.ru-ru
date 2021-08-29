@@ -4,18 +4,18 @@ ms.assetid: 0c490e22-5d3d-4f64-961d-4c5455ce6b55
 title: Поддерживаемые задачи в приложениях WPD
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0f9412a4abc4d1836c23408d358e313a9f6af714
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: fee0665ed48eabbb0672a97ccfc8b443a3f2b1400940aebebaa2b7a29d861351
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103909895"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119806534"
 ---
 # <a name="supported-tasks-in-wpd-applications"></a>Поддерживаемые задачи в приложениях WPD
 
 Интерфейсы приложений WPD поддерживают следующие задачи:
 
--   Подключение к устройству
+-   Подключение на устройство
 -   Перечисление подключенных устройств
 -   Изучение возможностей устройства
 -   Просмотр содержимого устройства
@@ -25,9 +25,9 @@ ms.locfileid: "103909895"
 -   Управление устройством
 -   Мониторинг событий устройства
 
-Дополнительные сведения о каждой задаче, а также сведения о том, как программировать данную задачу, см. в [руководстве по программированию портативных устройств Windows](programming-guide.md).
+дополнительные сведения о каждой задаче, а также подробные сведения о том, как программировать данную задачу, см. в [руководстве по программированию Windows портативных устройств](programming-guide.md).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

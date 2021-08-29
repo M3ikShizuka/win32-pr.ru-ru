@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - PortableDevice.h
-ms.openlocfilehash: a2e1ccfd074ff1f5287af22c5a8ebb3c6b3c661d
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: a5b4ba0504f5407a49c04f84dd2ea3e152ee4de7bd78948a69046f257437eb75
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105717862"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120006224"
 ---
 # <a name="sms_message_types-enumeration"></a>\_ \_ Перечисление типов сообщений SMS
 
@@ -54,7 +54,7 @@ typedef enum SMS_MESSAGE_TYPES {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это перечисление используется [**командой "WPD" \_ \_ SMS \_ Send**](wpd-command-sms-send-command.md).
 
@@ -64,7 +64,7 @@ typedef enum SMS_MESSAGE_TYPES {
 
 | Требование | Значение |
 |-------------------|---------------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Портабледевице. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Портабледевице. h</dt> </dl> |
 
 
 

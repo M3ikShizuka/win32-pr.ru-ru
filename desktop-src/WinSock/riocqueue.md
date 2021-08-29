@@ -4,12 +4,12 @@ ms.assetid: 9196F8AF-3C48-445D-B2D5-E22A99759D92
 title: RIO_CQ (Mswsockdef.h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 69ca4376c5b130cccaefd7170f62878f31fd1457
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: e86aac301dbf9bc9432b3f6a686e69e521be017d0ab775ba9f7deb3bc1a4b29a
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105702093"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120121224"
 ---
 # <a name="rio_cq"></a>Рио \_ КК
 
@@ -31,7 +31,7 @@ typedef struct RIO_CQ_t* RIO_CQ, **PRIO_CQ;
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Объект **Рио \_ КК** используется для уведомления о завершении ввода-вывода запросов send и Receive по сетевым запросам, зарегистрированным расширениями ввода-вывода Winsock.
 
@@ -60,19 +60,19 @@ typedef struct RIO_CQ_t* RIO_CQ, **PRIO_CQ;
 
 Если несколько потоков пытаются получить доступ к одному **Рио \_ КК** с помощью [**риодекуеуекомплетион**](/windows/win32/api/mswsock/nc-mswsock-lpfn_riodequeuecompletion), доступ должен координироваться критической секцией, упрощенной блокировкой записи чтения или аналогичным механизмом взаимного исключения. Если очереди завершения не являются общими, взаимное исключение не требуется.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 8\]<br/>                                                                  |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2012\]<br/>                                                        |
-| Header<br/>                   | <dl> <dt>Мсвсоккдеф. h (включение Мсвсокк. h)</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                                                  |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                                        |
+| Заголовок<br/>                   | <dl> <dt>Мсвсоккдеф. h (включение Мсвсокк. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

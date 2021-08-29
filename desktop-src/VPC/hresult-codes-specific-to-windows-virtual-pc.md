@@ -1,6 +1,6 @@
 ---
-title: Коды HRESULT, характерные для Windows Virtual PC (Впккоминтерфацес. h)
-description: Коды HRESULT, характерные для Windows Virtual PC
+title: коды HRESULT, относящиеся к Windows Virtual PC (впккоминтерфацес. h)
+description: коды HRESULT, характерные для Windows Virtual PC
 ms.assetid: 9e3b534c-eb1e-42b1-bdae-b5af555e7de4
 topic_type:
 - apiref
@@ -68,16 +68,16 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 03e77464662a694ebf917ff69d5014e19e17a817
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 33c36147057a034e9abaeef456ab2aefbe2e49fd457f01c94b30923a7e3bdca0
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104137494"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120007404"
 ---
-# <a name="hresult-codes-specific-to-windows-virtual-pc"></a>Коды HRESULT, характерные для Windows Virtual PC
+# <a name="hresult-codes-specific-to-windows-virtual-pc"></a>коды HRESULT, характерные для Windows Virtual PC
 
-\[Windows Virtual PC больше не доступна для использования в Windows 8. Вместо этого используйте [поставщик WMI Hyper-V (v2)](/windows/desktop/HyperV_v2/windows-virtualization-portal).\]
+\[Windows Virtual PC больше не доступен для использования в Windows 8. Вместо этого используйте [поставщик WMI Hyper-V (v2)](/windows/desktop/HyperV_v2/windows-virtualization-portal).\]
 
 
 
@@ -138,7 +138,7 @@ ms.locfileid: "104137494"
 | <span id="VM_E_VM_RUNNING"></span><span id="vm_e_vm_running"></span><dl> <dt>**Виртуальная машина \_ \_Виртуальная машина E \_ с**</dt> <dt>0xA0040500</dt> </dl>                                                                               | Виртуальная машина уже запущена.<br/>                                                                                                                                                                                                                                                                                                                                                             |
 | <span id="VM_E_VM_RUNNING_OR_SAVED"></span><span id="vm_e_vm_running_or_saved"></span><dl> <dt>**Виртуальная машина \_ \_Виртуальная машина \_ с установленным \_ или \_ сохраненным**</dt> <dt>0xA004020B</dt> </dl>                                                  | Виртуальная машина находится в работающем или сохраненном состоянии.<br/>                                                                                                                                                                                                                                                                                                                                                 |
 | <span id="VM_E_VM_UNKNOWN"></span><span id="vm_e_vm_unknown"></span><dl> <dt>**Виртуальная машина \_ \_Неизвестный \_ 0xA0040207 виртуальной машины**</dt> <dt></dt> </dl>                                                                               | Конфигурация неизвестна.<br/>                                                                                                                                                                                                                                                                                                                                                          |
-| <span id="VM_E_VMVIRTUALPC_OLDER_VERSION"></span><span id="vm_e_vmvirtualpc_older_version"></span><dl> <dt>**Виртуальная машина \_ E \_ вмвиртуалпк \_ более старая \_ версия**</dt> <dt>0xA0040952</dt> </dl>                                 | Установлены виртуальные компьютеры 2007 и Windows Virtual PC.<br/>                                                                                                                                                                                                                                                                                                                             |
+| <span id="VM_E_VMVIRTUALPC_OLDER_VERSION"></span><span id="vm_e_vmvirtualpc_older_version"></span><dl> <dt>**Виртуальная машина \_ E \_ вмвиртуалпк \_ более старая \_ версия**</dt> <dt>0xA0040952</dt> </dl>                                 | установлены виртуальные компьютеры 2007 и Windows virtual pc.<br/>                                                                                                                                                                                                                                                                                                                             |
 | <span id="VM_E_WRONG_HD_IMAGE_TYPE"></span><span id="vm_e_wrong_hd_image_type"></span><dl> <dt>**Виртуальная машина \_ \_Неверный \_ \_ \_ тип**</dt> <dt>0xA004067Bного</dt> образа HD </dl>                                                  | Недопустимый тип образа виртуального жесткого диска.<br/>                                                                                                                                                                                                                                                                                                                               |
 
 
@@ -149,11 +149,11 @@ ms.locfileid: "104137494"
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 7\]<br/>                                                    |
+| Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                                    |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                     |
 | Окончание поддержки клиента<br/>    | Windows 7<br/>                                                                          |
 | Продукт<br/>                  | Windows Virtual PC<br/>                                                                 |
-| Header<br/>                   | <dl> <dt>Впккоминтерфацес. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Впккоминтерфацес. h</dt> </dl> |
 
 
 
@@ -161,7 +161,7 @@ ms.locfileid: "104137494"
 
 <dl> <dt>
 
-[Константы виртуальных ПК Windows](windows-virtual-pc-constants.md)
+[Windows Константы виртуальных ПК](windows-virtual-pc-constants.md)
 </dt> </dl>
 
  

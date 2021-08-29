@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 06e1261d632eecd5271ed2a7cc8d7b1dd37d369f
-ms.sourcegitcommit: 57758ecb246c84d65e6e0e4bd5570d9176fa39cd
+ms.openlocfilehash: afb7f6e2016bcc51b70812b0fe1eea27c419f66772e8c8a795796da183c19b12
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "104334915"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119584514"
 ---
 # <a name="wmlanguage"></a>WM/Language
 
@@ -31,7 +31,7 @@ g \_ всзвмлангуаже
 
 **\_Строка типа \_ ВМТ**
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Используемая языковая строка должна соответствовать RFC 1766. Дополнительные сведения см. в разделе [языковые строки](language-strings.md).
 
@@ -45,18 +45,18 @@ g \_ всзвмлангуаже
 
 
 
- 
+ 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
 [**Список атрибутов**](attribute-list.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

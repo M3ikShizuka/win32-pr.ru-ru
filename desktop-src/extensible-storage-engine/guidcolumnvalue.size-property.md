@@ -25,12 +25,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: b973638ac8caa4848ed5ecc65468c363ebd2f866
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 3d9d5aa86f848485c4ce8ee61054e73894992192086a11e2388ed4c7b052295d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105711451"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119039522"
 ---
 # <a name="guidcolumnvaluesize-property"></a>Гуидколумнвалуе. size, свойство
 
@@ -59,7 +59,7 @@ protected override int Size { get; }
 
 Тип: [System. Int32](/dotnet/api/system.int32)  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 #### <a name="reference"></a>Справочник
 

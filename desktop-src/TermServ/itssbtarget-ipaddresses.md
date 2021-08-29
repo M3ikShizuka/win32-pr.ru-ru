@@ -31,12 +31,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 21afd8d2349bfef37dcc39b684c3f5b837728f79
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.openlocfilehash: d9021a14977f532c176faa01362aa3b1910d2c9c
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122988277"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122482110"
 ---
 # <a name="itssbtargetipaddresses-property"></a>Свойство Итссбтаржет:: IpAddresses
 
@@ -78,17 +78,12 @@ HRESULT get_IpAddresses(
 
 
 
-| Требование | Применение |
-|--------|-------|
-| Минимальная версия клиента<br /> | Ни одна версия не поддерживается<br /> | 
-| Минимальная версия сервера<br /> | Windows Server 2012<br /> | 
-| IDL<br /> | <dl><dt>Сбтсв. idl</dt></dl> | 
-| IID<br /> | IID_ITsSbTarget определяется следующим образом:<ul><li>16616ECC-272D-411D-B324-126893033856</li><li>e85e10ea-db0b-4752-b456-5fd5840901c0 на сервере Windows 2008 R2</li></ul> | 
+| | | Минимальный поддерживаемый клиент<br /> | Нет поддерживаемых<br /> | | Минимальный поддерживаемый сервер<br /> | Windows Server 2012<br /> | | IDL<br /> | <dl><dt>Сбтсв. idl</dt></dl> | | IID<br /> | IID_ITsSbTarget определяется следующим образом:<ul><li>16616ECC-272D-411D-B324-126893033856</li><li>e85e10ea-db0b-4752-b456-5fd5840901c0 на сервере Windows 2008 R2</li></ul> | 
 
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

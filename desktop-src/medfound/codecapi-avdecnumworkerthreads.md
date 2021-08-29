@@ -4,12 +4,12 @@ ms.assetid: A1570BB5-62BC-46C0-B9C9-61F99AA13BBE
 title: Свойство CODECAPI_AVDecNumWorkerThreads (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c5d7c57d1b4176ad65313a5583a70f9ba4f7427a
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: e1a17584e9a6e3d6f8efcfcf129a89bc0f94cb2629c0f130549a73757c20368f
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105710844"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119035362"
 ---
 # <a name="codecapi_avdecnumworkerthreads-property"></a>КОДЕКАПИ \_ авдекнумворкерсреадс, свойство
 
@@ -23,7 +23,7 @@ ms.locfileid: "105710844"
 
 КОДЕКАПИ \_ авдекнумворкерсреадс
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если значение равно 1, декодер выбирает число потоков.
 
@@ -35,9 +35,9 @@ ms.locfileid: "105710844"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 8 \|\]<br/>                                     |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2012 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 8 \[ приложения UWP для классических приложений \|\]<br/>                                     |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ приложения UWP для классических приложений \|\]<br/>                           |
+| Заголовок<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
 
 
 

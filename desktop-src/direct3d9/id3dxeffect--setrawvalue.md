@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: cc3ce5eb547032ced5d0d79c533cefd1d2daab3a
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: 10ba7dd5729d67fdd34180d737e835e0a22dc10de2126df3c8b07c2176a78fe1
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "105703699"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119494054"
 ---
 # <a name="id3dxeffectsetrawvalue-method"></a>Метод ID3DXEffect:: Сетраввалуе
 
@@ -85,24 +85,24 @@ HRESULT SetRawValue(
 
 Если метод выполнен успешно, возвращается значение S \_ . В случае сбоя метода возвращаемое значение может быть одним из следующих: E \_ инвалидкалл.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Сетраввалуе — это очень быстрый способ установки констант эффектов, так как он выполняет копирование в памяти без выполнения проверки или преобразования данных (например, преобразование матрицы строкового типа в основную матрицу столбца). Используйте Сетраввалуе, чтобы задать ряд смежных констант эффектов. Например, можно задать массив из двадцати матриц с 20 вызовами в [**ID3DXBaseEffect:: сетматрикс**](id3dxbaseeffect--setmatrix.md) или с помощью одного сетраввалуе.
 
 Все значения должны быть либо matrix4x4s, либо float4s, а все матрицы должны быть в основном порядке столбцов. Значения int или float приводятся к типу float4; Поэтому настоятельно рекомендуется использовать Сетраввалуе только с данными float4 или matrix4x4.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3DX9Effect. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3DX9Effect. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>     |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

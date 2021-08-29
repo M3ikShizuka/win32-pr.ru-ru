@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 277727757daeaafe5ad11cfd2e4f5fb6ee726458
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.openlocfilehash: 5b0d09d577a829350cb7df5179dbbb85e867648ab809c84d66f4eafaecad1da5
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "104487620"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119663054"
 ---
 # <a name="exstyle-statement"></a>ОПЕРАТОРЕ EXSTYLE, инструкция
 
@@ -36,18 +36,18 @@ EXSTYLE extended-style
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Для элементов управления расширенные стили задаются после параметра *Style* в операторе Control Resource-Definition. Дополнительные сведения см. в описании инструкции Resource-Definition для отдельного элемента управления.
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
 [**Accelerator**](accelerators-resource.md)
 </dt> <dt>
 
-[**CONTROL**](control-control.md)
+[**ЭЛЕМЕНТА**](control-control.md)
 </dt> <dt>
 
 [**Откроется**](dialog-resource.md)
@@ -68,6 +68,6 @@ EXSTYLE extended-style
 [Определяемый пользователем ресурс](user-defined-resource.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

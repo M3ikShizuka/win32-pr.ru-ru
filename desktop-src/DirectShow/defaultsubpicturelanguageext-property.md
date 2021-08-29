@@ -4,17 +4,17 @@ ms.assetid: bd437844-6e5c-4237-a968-700a53e18635
 title: Дефаултсубпиктурелангуажеекст, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e37bba455a26df4eaa6676b77447c3faed408609
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 55dbf4bac4a5fb66e369c67e986c064112826c2184dcd5df1d858235632cba98
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "104536713"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120102994"
 ---
 # <a name="defaultsubpicturelanguageext-property"></a>Дефаултсубпиктурелангуажеекст, свойство
 
 > [!Note]  
-> Этот компонент доступен для использования в операционных системах Microsoft Windows 2000, Windows XP и Windows Server 2003. В последующих версиях он может быть изменен или недоступен.
+> этот компонент доступен для использования в операционных системах Microsoft Windows 2000, Windows XP и Windows Server 2003. В последующих версиях он может быть изменен или недоступен.
 
  
 
@@ -28,7 +28,7 @@ ms.locfileid: "104536713"
 
 Возвращает целочисленное значение, указывающее на расширение языка DVD с подизображением по умолчанию.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это свойство доступно только для чтения и не имеет значения по умолчанию. В следующей таблице приводятся возможные значения.
 
@@ -52,7 +52,7 @@ ms.locfileid: "104536713"
 
  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

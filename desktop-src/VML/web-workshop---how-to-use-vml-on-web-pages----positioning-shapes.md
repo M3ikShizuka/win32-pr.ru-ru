@@ -1,6 +1,6 @@
 ---
 title: Позиционирование фигур
-description: В этой статье описывается размещение фигур в VML, что является устаревшим компонентом Windows Internet Explorer 9.
+description: в этой статье описывается размещение фигур в формате VML, который является устаревшим в Windows Internet Explorer 9.
 ms.assetid: dbd68f54-201a-48dc-a3a9-a8dd42178c11
 keywords:
 - Веб-семинар, позиционирование фигур
@@ -36,19 +36,19 @@ keywords:
 - отразить стиль расположения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7c96a8de891ed1bbd1b9bfee9eff52ede946247b
-ms.sourcegitcommit: 5d4e99f4c8f42f5f543e52cb9beb9fb13ec56c5f
+ms.openlocfilehash: b4f9747ffafc5f4c4aa9f90cc880c83e7fbee7de35f5c419efc40062b47115a9
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112407717"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119512775"
 ---
 # <a name="positioning-shapes"></a>Позиционирование фигур
 
-В этом разделе описывается функция VML, которая является устаревшей в Windows Internet Explorer 9. Веб-страницы и приложения, использующие VML, должны быть перенесены в формат SVG или другие широко поддерживаемые стандарты.
+в этом разделе описывается функция VML, которая является устаревшей по отношению к Windows Internet Explorer 9. Веб-страницы и приложения, использующие VML, должны быть перенесены в формат SVG или другие широко поддерживаемые стандарты.
 
 > [!Note]  
-> По состоянию на Декабрь 2011 этот раздел был архивирован. В результате он больше не поддерживается. Дополнительные сведения см. в разделе [архивированное содержимое](/previous-versions/windows/internet-explorer/ie-developer/). Сведения, рекомендации и рекомендации по текущей версии Windows Internet Explorer см. в [центре разработчиков Internet Explorer](https://msdn.microsoft.com/ie/).
+> По состоянию на Декабрь 2011 этот раздел был архивирован. В результате он больше не поддерживается. Дополнительные сведения см. в разделе [архивированное содержимое](/previous-versions/windows/internet-explorer/ie-developer/). сведения, рекомендации и рекомендации относительно текущей версии Windows Internet explorer см. в [центре разработчиков internet explorer](https://msdn.microsoft.com/ie/).
 
  
 
@@ -229,7 +229,7 @@ End.
 
 [![назад ](images/top.gif) к началу](#top)
 
-## <a name="summary"></a>Итоги
+## <a name="summary"></a>Сводка
 
 В зависимости от того, что вы узнали, можно точно разместить фигуру на веб-странице, выполнив следующие действия.
 

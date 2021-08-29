@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 9e871d1f91d89d0eb0ddadee34b5ac215916d0af
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 476f618634ee42e1363a091f79c97410b3e3b765138696c5c12e8d3c3fcb5bdf
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "103792193"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119043112"
 ---
 # <a name="texcoord---ps"></a>текскурд-PS
 
@@ -29,13 +29,13 @@ ms.locfileid: "103792193"
 
 
 
- 
+ 
 
-где
+where
 
 -   DST — это регистр назначения.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 
 
@@ -45,7 +45,7 @@ ms.locfileid: "103792193"
 
 
 
- 
+ 
 
 Эта инструкция интерпретирует набор координат текстуры (UVW1), соответствующий номеру регистра назначения, как данные цвета (RGBA). Если набор координат текстуры содержит менее трех компонентов, отсутствующие компоненты имеют значение 0. Четвертый компонент всегда имеет значение 1. Все значения отправляются между 0 и 1.
 
@@ -119,13 +119,13 @@ static CUSTOMVERTEX g_Vertices[]=
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Инструкции шейдера пикселей](dx9-graphics-reference-asm-ps-instructions.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
