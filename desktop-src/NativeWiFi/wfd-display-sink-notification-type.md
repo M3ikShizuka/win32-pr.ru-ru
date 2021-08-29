@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - wfdsink.h
-ms.openlocfilehash: 25361b0f3529da0293f373117c7bf655635de852
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: ca16197da0137e40c25a75c139773b02674b6bf7c90bcae2b94ae0845d201e71
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105663035"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119800614"
 ---
 # <a name="wfd_display_sink_notification_type-enumeration"></a>\_ \_ \_ Перечисление типов уведомлений приемника для дисплея WFD \_
 
@@ -70,15 +70,15 @@ typedef enum _WFD_DISPLAY_SINK_NOTIFICATION_TYPE {
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|--------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только Windows 8.1 Классические приложения\]<br/>                                         |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2012 R2 \[\]<br/>                              |
-| Header<br/>                   | <dl> <dt>Вфдсинк. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 8.1 \[ только классические приложения\]<br/>                                         |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[Только классические приложения R2\]<br/>                              |
+| Заголовок<br/>                   | <dl> <dt>Вфдсинк. h</dt> </dl> |
 
 
 

@@ -16,12 +16,12 @@ api_location:
 - Ext-MS-Win-GDI-Internal-Desktop-L1-1-0.dll
 - GDI32.dll
 - GDI32Full.dll
-ms.openlocfilehash: f1705b5bf7ac5eddd1ac39e14f3b91b7fd3728cd
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 71edcfcc82922fb5070ffb3836afc8692cc4e076c59dcfac08ed8290e29cc0a1
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104141407"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118956593"
 ---
 # <a name="ntgdiddcreatemocomp-function"></a>Функция Нтгдиддкреатемокомп
 
@@ -74,11 +74,11 @@ HANDLE APIENTRY NtGdiDdCreateMoComp(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Дополнительные сведения см. в пакете средств разработки драйверов для Microsoft DirectX Video Acceleration Kit (DDK).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 

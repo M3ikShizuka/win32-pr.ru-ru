@@ -4,12 +4,12 @@ description: 'В этом разделе представлены сведени
 ms.assetid: 8917bb94-c9d8-49f2-8a09-bb9722a09cb8
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: acc7b96355d8907baf47f3eb20e846dfbc70e4cd
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 379397918926d23bd567a191a88293e657bd8aae7d3b94b6ee3672958dddf176
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105701593"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118965543"
 ---
 # <a name="wia-structures"></a>Структуры WIA
 

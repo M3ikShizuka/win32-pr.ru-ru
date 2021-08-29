@@ -4,12 +4,12 @@ ms.assetid: 112B9CC2-DC0E-4AA4-978F-604ACD807E9D
 title: Атрибут MF_MEDIA_ENGINE_SOURCE_RESOLVER_CONFIG_STORE
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e52ede590b4f7bd4af8f7bcf8eb670e009c7b611
-ms.sourcegitcommit: c16214e53680dc71d1c07111b51f72b82a4512d8
+ms.openlocfilehash: 1ddd4c654e12ed04866eb9244ce79813bf9ba561cd35b052c8793ff2a47093ab
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "104547306"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119956194"
 ---
 # <a name="mf_media_engine_source_resolver_config_store-attribute"></a>\_ \_ \_ \_ \_ Атрибут хранилища конфигурации сопоставителя источника для механизма передачи \_ мультимедиа MF
 
@@ -25,9 +25,9 @@ ms.locfileid: "104547306"
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 8 \|\]<br/>                                            |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2012 \|\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Мфмедиаенгине. idl</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 8 \[ приложения UWP для классических приложений \|\]<br/>                                            |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ приложения UWP для классических приложений \|\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Мфмедиаенгине. idl</dt> </dl> |
 
 
 

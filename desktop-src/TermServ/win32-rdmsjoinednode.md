@@ -29,12 +29,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cabf1cf7ff98b698624285b2877412c4323259b1
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: e82a515f556c7193ef376972c5a8786dd0aaaafd7bcec3a56bf43244ea72a739
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104414837"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119868134"
 ---
 # <a name="win32_rdmsjoinednode-class"></a>\_Класс Win32 рдмсжоинедноде
 
@@ -79,8 +79,8 @@ class Win32_RDMSJoinedNode
 
 | Метод                                                                | Описание                                                                                                                                                                                           |
 |:----------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**жетжоинеднодекаунт**](win32-rdmsjoinednode-getjoinednodecount.md) | **Windows server 2012 R2 и Windows server 2012:** Этот метод недоступен до выхода Windows Server 2016.<br/> Возвращает число серверов, на которых установлена указанная роль.<br/> |
-| [**Join**](join-win32-rdmsjoinednode.md)                             | Добавляет узел в RDMS.<br/>                                                                                                                                                                       |
+| [**жетжоинеднодекаунт**](win32-rdmsjoinednode-getjoinednodecount.md) | **Windows Server 2012 R2 и Windows Server 2012:** Этот метод недоступен до Windows Server 2016.<br/> Возвращает число серверов, на которых установлена указанная роль.<br/> |
+| [**Соединить**](join-win32-rdmsjoinednode.md)                             | Добавляет узел в RDMS.<br/>                                                                                                                                                                       |
 | [**Отсоединить**](unjoin-win32-rdmsjoinednode.md)                         | Удаляет узел из RDMS.<br/>                                                                                                                                                                  |
 
 
@@ -271,7 +271,7 @@ class Win32_RDMSJoinedNode
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -285,7 +285,7 @@ class Win32_RDMSJoinedNode
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

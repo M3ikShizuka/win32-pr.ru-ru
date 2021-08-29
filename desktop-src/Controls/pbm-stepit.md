@@ -3,7 +3,7 @@ title: Сообщение PBM_STEPIT (Коммктрл. h)
 description: Изменяет текущую позицию индикатора выполнения на шаг с шагом и перерисовывает линию, чтобы отразить новую позицию. Приложение задает шаг шага, отправляя \_ сообщение PBM сетстеп.
 ms.assetid: fd9947f6-7a48-4207-b691-b7db78eb8a85
 keywords:
-- Элементы управления Windows для PBM_STEPIT сообщений
+- элементы управления Windows сообщений PBM_STEPIT
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: aa0d4aee387e8f929aaaaf19d947422b95ca9528
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 71b43bb50390fff3813b4dd52fe7b2099d707a8636565b5efd4c99bcb8754511
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103988995"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119018752"
 ---
 # <a name="pbm_stepit-message"></a>\_Сообщение СТЕПИТ PBM
 
@@ -39,19 +39,19 @@ ms.locfileid: "103988995"
 
 Возвращает предыдущее расположение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если эта величина превышает максимальное значение диапазона, это сообщение сбрасывает текущее расположение, чтобы индикатор выполнения снова начинался с самого начала.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

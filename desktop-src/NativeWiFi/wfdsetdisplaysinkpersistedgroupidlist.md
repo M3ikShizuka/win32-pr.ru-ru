@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - wifidisplay.dll
-ms.openlocfilehash: 423360d7127f331fd1aa2de7f7370daebcc2b417
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: ce31b6e4bf6336baede3767d3457f44d92dde0e39f6418bcc3c2529b644fe24c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105662699"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119800394"
 ---
 # <a name="wfddisplaysinksetpersistedgroupidlist-function"></a>Функция Вфддисплайсинксетперсистедграупидлист
 
@@ -58,23 +58,23 @@ DWORD WINAPI WFDSetDisplaySinkPersistedGroupIDList(
 
 Если функция завершается успешно, возвращается значение ошибки \_ Success.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот метод всегда должен вызываться со всем списком, а не подмножеством. Этот метод можно вызывать с 0 профилями, если хранилище профиля пусто.
 
 Вызов повторного вызова для идентификатора группы, не входящего в предоставленный список, завершится ошибкой "Failed; неизвестная группа P2P "(состояние 8).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|--------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только Windows 8.1 Классические приложения\]<br/>                                               |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2012 R2 \[\]<br/>                                    |
-| Окончание поддержки клиента<br/>    | Windows 10<br/>                                                                      |
+| Минимальная версия клиента<br/> | Windows 8.1 \[ только классические приложения\]<br/>                                               |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[Только классические приложения R2\]<br/>                                    |
+| Окончание поддержки клиента<br/>    | Windows 10,<br/>                                                                      |
 | Поддержка конца сервера<br/>    | Windows Server 2016<br/>                                                             |
-| Header<br/>                   | <dl> <dt>Вфдсинк. h</dt> </dl>       |
+| Заголовок<br/>                   | <dl> <dt>Вфдсинк. h</dt> </dl>       |
 | Библиотека<br/>                  | <dl> <dt>Вифидисплай. lib</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wifidisplay.dll</dt> </dl> |
 

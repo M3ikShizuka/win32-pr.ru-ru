@@ -13,16 +13,16 @@ api_type:
 - COM
 api_location:
 - Pstorec.dll
-ms.openlocfilehash: 7ca2e250864889a5fda465e146287bf59a2b6346
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 668ed2b7177344004cb4b872ff47a5924fdcc1778cfbfbb3c6d3d447b624546c
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108089362"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118955963"
 ---
 # <a name="ienumpstoretypes-interface"></a>Интерфейс Иенумпсторетипес
 
-\[Защищенное хранилище (PStore) доступно для использования в Windows Server 2003 и Windows XP. Она доступна только для операций чтения в Windows Server 2008 и Windows Vista, но может быть недоступна в последующих версиях. PStore использует старую реализацию защиты данных. Разработчикам настоятельно рекомендуется использовать преимущества более надежной защиты данных, предоставляемые функциями [**CryptProtectData**](/windows/win32/api/dpapi/nf-dpapi-cryptprotectdata) и [**CryptUnprotectData**](/windows/win32/api/dpapi/nf-dpapi-cryptunprotectdata) .\]
+\[защищенные служба хранилища (Pstore) доступны для использования в Windows Server 2003 и Windows XP. она доступна только для операций чтения в Windows Server 2008 и Windows Vista, но может быть недоступна в последующих версиях. PStore использует старую реализацию защиты данных. Разработчикам настоятельно рекомендуется использовать преимущества более надежной защиты данных, предоставляемые функциями [**CryptProtectData**](/windows/win32/api/dpapi/nf-dpapi-cryptprotectdata) и [**CryptUnprotectData**](/windows/win32/api/dpapi/nf-dpapi-cryptunprotectdata) .\]
 
 Предоставляет стандартные методы перечисления COM для интерфейса [**ипсторе**](ipstore.md) .
 
@@ -40,10 +40,10 @@ ms.locfileid: "108089362"
 
 | Метод                                  | Описание                                                                                        |
 |:----------------------------------------|:---------------------------------------------------------------------------------------------------|
-| [**Clone (Клонировать)**](ienumpstoretypes-clone.md) | Создает другой перечислитель с тем же состоянием перечисления, что и текущий.<br/> |
+| [**Клонировать**](ienumpstoretypes-clone.md) | Создает другой перечислитель с тем же состоянием перечисления, что и текущий.<br/> |
 | [**Далее**](ienumpstoretypes-next.md)   | Возвращает следующий указанный тип поставщика в последовательности перечисления.<br/>                      |
-| [**Reset**](ienumpstoretypes-reset.md) | Выполняет сброс до начала последовательности перечисления.<br/>                                    |
-| [**Пропустить**](ienumpstoretypes-skip.md)   | Пропускает указанный тип поставщика в последовательности перечисления.<br/>                          |
+| [**Перезапуск**](ienumpstoretypes-reset.md) | Выполняет сброс до начала последовательности перечисления.<br/>                                    |
+| [**Сразу**](ienumpstoretypes-skip.md)   | Пропускает указанный тип поставщика в последовательности перечисления.<br/>                          |
 
 
 
@@ -53,13 +53,13 @@ ms.locfileid: "108089362"
 
 Объект перечислителя должен быть освобожден, если он больше не используется.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|----------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>PStore. h</dt> </dl>    |
+| Заголовок<br/> | <dl> <dt>PStore. h</dt> </dl>    |
 | DLL<br/>    | <dl> <dt>Pstorec.dll</dt> </dl> |
 
 

@@ -3,7 +3,7 @@ title: Сообщение EM_GETAUTOURLDETECT (RichEdit. h)
 description: Указывает, включено ли автоматическое обнаружение URL-адресов в элементе управления Rich Edit.
 ms.assetid: f723f15c-bf8f-41ab-aef0-bd8f2c0b9e5d
 keywords:
-- Элементы управления Windows для EM_GETAUTOURLDETECT сообщений
+- элементы управления Windows сообщений EM_GETAUTOURLDETECT
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6e68e4f2991c5f8780cb587594289674e07ec992
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: d60fc8efdc6e554e379a9381239920cf70ef07ffca22240e62cfc6892ca2e636
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104071709"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119019952"
 ---
 # <a name="em_getautourldetect-message"></a>\_Сообщение ЖЕТАУТАУРЛДЕТЕКТ EM
 
@@ -49,7 +49,7 @@ ms.locfileid: "104071709"
 
 Если автоматическое обнаружение URL-адресов неактивно, возвращается значение 0.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если включено автоматическое обнаружение URL-адресов, Microsoft Rich Edit постоянно проверяет вводимый текст на наличие допустимого URL-адреса. Расширенное редактирование распознает URL-адреса, которые начинаются с этих префиксов:
 
@@ -68,19 +68,19 @@ ms.locfileid: "104071709"
 
 Расширенное редактирование также распознает имена стандартных путей, начинающихся с \\ \\ . Когда форматируемый текст находит URL-адрес, он изменяет цвет текста URL-адреса, подчеркивает текст и уведомляет клиента по [ \_ ссылке EN](en-link.md).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>RichEdit. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>RichEdit. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

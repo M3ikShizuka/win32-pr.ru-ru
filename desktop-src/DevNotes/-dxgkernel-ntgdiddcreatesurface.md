@@ -16,12 +16,12 @@ api_location:
 - Ext-MS-Win-GDI-Internal-Desktop-L1-1-0.dll
 - GDI32.dll
 - GDI32Full.dll
-ms.openlocfilehash: bf8e13cff80ddea4e102c045c174565e7e835274
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 65ec9eb21637268989b181e7a8f7099651d2ae3b4d357aa570dddc9ee4c270ab
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108085782"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118956583"
 ---
 # <a name="ntgdiddcreatesurface-function"></a>Функция Нтгдиддкреатесурфаце
 
@@ -142,7 +142,7 @@ DWORD APIENTRY NtGdiDdCreateSurface(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

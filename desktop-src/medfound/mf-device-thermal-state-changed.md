@@ -4,12 +4,12 @@ ms.assetid: 7F656E64-CE72-4DF8-9094-1EBBAE3A81E5
 title: Атрибут MF_DEVICE_THERMAL_STATE_CHANGED (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 37906f8c59a8c0f22eeeb471ce2e882e8dd1aa91
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 748f8105012f7a796d9e460999f27cb4227f3daee88b65ed1f53e3a16bd6f271
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104263254"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119464234"
 ---
 # <a name="mf_device_thermal_state_changed-attribute"></a>\_ \_ \_ Атрибут изменения состояния температуры устройства MF \_
 
@@ -19,7 +19,7 @@ ms.locfileid: "104263254"
 
 **UINT32**
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значение этого атрибута указывает значение температуры устройства в процентах.
 
@@ -29,7 +29,7 @@ ms.locfileid: "104263254"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только для настольных приложений Windows 10 версии 1709\]<br/>                          |
+| Минимальная версия клиента<br/> | Windows 10, только для \[ настольных приложений версии 1709\]<br/>                          |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                          |
 | Header<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
 

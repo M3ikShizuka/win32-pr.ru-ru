@@ -3,7 +3,7 @@ title: Сообщение MCM_SETSELRANGE (Коммктрл. h)
 description: Задает для элемента управления "месячный календарь" определенный диапазон дат. Это сообщение можно отправить явным образом или с помощью \_ макроса монскал сетселранже.
 ms.assetid: 750b0c83-6baa-4caa-a738-feae8751a70e
 keywords:
-- Элементы управления Windows для MCM_SETSELRANGE сообщений
+- элементы управления Windows сообщений MCM_SETSELRANGE
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ad28966ab67a5e7c0d27dd8fc9c367ec30e4cd7b
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 1cdf6708aa382abfa92562aa55943c06180d0231cff568b74de380416e48731a
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104071185"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119018982"
 ---
 # <a name="mcm_setselrange-message"></a>\_Сообщение MCM сетселранже
 
@@ -43,19 +43,19 @@ ms.locfileid: "104071185"
 
 Возвращает ненулевое значение в случае успеха или ноль в противном случае. Это сообщение не будет выполнено, если применяется к элементу управления "месячный календарь", который не использует многоэлементный стиль [**MCS \_**](month-calendar-control-styles.md) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

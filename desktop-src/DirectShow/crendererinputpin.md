@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 7ec48b31170b2233f211e7e72de81d8792ae9160
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: c2cfeb61d075804d61ba515d86641e56bf3cd9e1ab6aa6de826a8bb7206be4fd
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105658005"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119908253"
 ---
 # <a name="crendererinputpin-class"></a>Класс Крендереринпутпин
 
@@ -39,7 +39,7 @@ ms.locfileid: "105658005"
 | [**бреакконнект**](crendererinputpin-breakconnect.md)           | Добавляет настраиваемый код при разрыве соединения.                                       |
 | [**комплетеконнект**](crendererinputpin-completeconnect.md)     | Завершает соединение.                                                              |
 | [**чеккмедиатипе**](crendererinputpin-checkmediatype.md)       | Определяет, может ли ПИН-код поддерживать конкретный тип носителя.                               |
-| [**Активна**](crendererinputpin-active.md)                       | Переключает ПИН-код в активный (приостановленный или запущенный) режим.                               |
+| [**Активен**](crendererinputpin-active.md)                       | Переключает ПИН-код в активный (приостановленный или запущенный) режим.                               |
 | [**Неактивно**](crendererinputpin-inactive.md)                   | Переключает ПИН-код в неактивное состояние и освобождает память распределителя.        |
 | [**сетмедиатипе**](crendererinputpin-setmediatype.md)           | Задает тип носителя для ПИН-кода.                                                        |
 | [**Выделен**](crendererinputpin-allocator.md)                 | Извлекает указатель на распределитель памяти по умолчанию.                                   |
@@ -55,13 +55,13 @@ ms.locfileid: "105658005"
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Ренбасе. h (включение Streams. h)</dt> </dl>                                                                                   |
+| Заголовок<br/>  | <dl> <dt>ренбасе. h (включает Потоки. h)</dt> </dl>                                                                                   |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 

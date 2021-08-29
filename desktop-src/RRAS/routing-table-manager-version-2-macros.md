@@ -7,12 +7,12 @@ keywords:
 - Диспетчер таблиц маршрутизации, версия 2 RRAS, макросы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f5a52ec6c2d161d8e2825c35e9e87eccb03df931
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: f71c815e178499234fedf4256cbc1801ffb4668aeba4a84120df591756f4c24c
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "105650288"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120026864"
 ---
 # <a name="routing-table-manager-version-2-macros"></a>Макросы диспетчера таблиц маршрутизации версии 2
 
@@ -40,9 +40,9 @@ RTMv2 использует следующие макросы.
 
 [**RTM \_ IPv4 \_ Set \_ addr \_ и \_ Mask**](/windows/desktop/api/Rtmv2/nf-rtmv2-rtm_ipv4_set_addr_and_mask)
 
- 
+ 
 
- 
+ 
 
 
 

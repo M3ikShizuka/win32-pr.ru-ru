@@ -24,12 +24,12 @@ api_type:
 - HeaderDef
 api_location:
 - iaguid.h
-ms.openlocfilehash: 8eb1034516c62e2121f835951d1f04db5710d275
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: d8e151103c17a7f19a648b39ba4d6dfdae387886e52af287a80530b5c3cf1b98
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103896538"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118967733"
 ---
 # <a name="context-node-properties"></a>Свойства узла контекста
 
@@ -56,7 +56,7 @@ ms.locfileid: "103896538"
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Эти идентификаторы GUID используются для обнаружения свойств, которые [**иинканализер**](iinkanalyzer.md) может установить в [**иконтекстноде**](icontextnode.md). Анализатор рукописного ввода задает некоторые данные свойств на основе типа узла контекста (см. раздел [**иконтекстноде:: GetType**](icontextnode-gettype.md)).
 
@@ -68,9 +68,9 @@ ms.locfileid: "103896538"
 
 | Требование | Значение |
 |-------------------------------------|-------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только классические приложения Windows XP Tablet PC Edition \[\]<br/>                       |
+| Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                       |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                           |
-| Header<br/>                   | <dl> <dt>Иагуид. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Иагуид. h</dt> </dl> |
 
 
 

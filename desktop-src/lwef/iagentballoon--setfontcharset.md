@@ -4,16 +4,16 @@ description: Иажентбаллун Сетфонтчарсет
 ms.assetid: ce1b152d-c8af-47ec-9e6b-5768dbcf3566
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 18cc462895ff9f19f7e722660608a268af13446f
-ms.sourcegitcommit: b32433cc0394159c7263809ae67615ab5792d40d
+ms.openlocfilehash: 178e2f6e2e086962456b6717dcb6866db9d607dd16136f839a127857d85cd58e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "113120209"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118751056"
 ---
 # <a name="iagentballoonsetfontcharset"></a>Иажентбаллун:: Сетфонтчарсет
 
-\[Microsoft Agent является устаревшим в Windows 7 и может быть недоступен в последующих версиях Windows.\]
+\[Microsoft Agent является устаревшим по отношению к Windows 7 и может быть недоступен в последующих версиях Windows.\]
 
 ``` syntax
 HRESULT SetFontCharSet(
@@ -36,13 +36,13 @@ HRESULT SetFontCharSet(
 
 | Значение    | Набор знаков                                                                                       |
 |-----|----------------------------------------------------------------------------------------|
-| 0   | Стандартные символы Windows (ANSI).                                                    |
+| 0   | стандартные символы Windows (ANSI).                                                    |
 | 1   | Набор символов по умолчанию.                                                                 |
 | 2   | Кодировка символов.                                                              |
 | 128 | Двухбайтовая кодировка (DBCS), уникальная для японской версии Windows.            |
 | 129 | Двухбайтовая кодировка (DBCS), уникальная для корейской версии Windows.              |
 | 134 | Двухбайтовая кодировка (DBCS), уникальная для упрощенной версии Windows.  |
-| 136 | Двухбайтовая кодировка (DBCS), уникальная для версии Windows для китайского языка (традиционное письмо). |
+| 136 | Двухбайтовая кодировка (DBCS), уникальная для версии Windows в традиционном китайском языке. |
 | 255 | Расширенные символы, обычно отображаемые приложениями MS-DOS.                          |
 
 

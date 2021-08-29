@@ -34,12 +34,12 @@ keywords:
 - Элемент управления ActiveX, сведения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1b530dde773299dfb874258676f18a06aa85b738
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 7aaec6c4a0ece144e8f817077b3f37691de3cc050c0a643c697b9909e8a1cc35
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104329096"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119956554"
 ---
 # <a name="about-the-windows-media-player-sdk"></a>Сведения о пакете SDK проигрывателя Windows Media
 
@@ -80,18 +80,18 @@ ms.locfileid: "104329096"
 
 
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [**Пакет SDK для проигрывателя Windows Media**](windows-media-player-sdk.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

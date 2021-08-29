@@ -4,12 +4,12 @@ ms.assetid: 7333307b-1857-48a7-bb9f-bdbd8530f093
 title: ХРЕКОВОРДЛИСТ (краткий обзор. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f5e5d33862cacb7040a26edc23d7db04c57206c7
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 7384873f562627f54326cfca78883c9f3a02351dad1df0bf45a23b61b03c167d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104542122"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118967564"
 ---
 # <a name="hrecowordlist-handle"></a>ХРЕКОВОРДЛИСТ, обработчик
 
@@ -22,7 +22,7 @@ typedef HANDLE HRECOWORDLIST;
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Следующая функция использует **хрековордлист**.
 
@@ -44,9 +44,9 @@ typedef HANDLE HRECOWORDLIST;
 
 | Требование | Значение |
 |-------------------------------------|--------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только классические приложения Windows XP Tablet PC Edition \[\]<br/>                        |
+| Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                        |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                            |
-| Header<br/>                   | <dl> <dt>Напомню. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Напомню. h</dt> </dl> |
 
 
 

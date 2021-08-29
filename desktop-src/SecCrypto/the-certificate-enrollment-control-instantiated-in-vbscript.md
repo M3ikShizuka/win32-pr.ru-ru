@@ -1,5 +1,5 @@
 ---
-description: Пример сценария VBScript, который использует тег OBJECT для создания экземпляра объекта управления регистрацией сертификатов. Visual Basic
+description: пример сценария vbscript, который использует тег object для создания экземпляра объекта управления регистрацией сертификатов. Visual Basic
 ms.assetid: 6e2a230e-81c1-4b63-9ad5-3edfc239ad7c
 title: Управление регистрацией сертификатов, созданное на языке VBScript
 ms.topic: article
@@ -9,16 +9,16 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 4da14c55a3c9005f820be8f8d60026bc31ac4920
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 68de4532e00f95156b0016a55d4ae7b6374936e82ef26ee04cfbf4dc0e4c72c1
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103991182"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118897315"
 ---
 # <a name="the-certificate-enrollment-control-instantiated-in-vbscript"></a>Управление регистрацией сертификатов, созданное на языке VBScript
 
-В следующем примере Visual Basic Scripting Edition (VBScript) используется тег OBJECT для создания экземпляра объекта управления регистрацией сертификатов. Объект освобождается из памяти, когда он выходит за пределы области.
+в следующем примере Visual Basic scripting Edition (VBScript) используется тег object для создания экземпляра объекта управления регистрацией сертификатов. Объект освобождается из памяти, когда он выходит за пределы области.
 
 
 ```VB

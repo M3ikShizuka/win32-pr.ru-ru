@@ -3,7 +3,7 @@ title: Функция обратного вызова Пксепровидерш
 description: Вызывается для завершения работы поставщика.
 ms.assetid: 436d7428-18f9-4b73-b346-79c9a0738c31
 keywords:
-- Функция обратного вызова Пксепровидершутдовн службы развертывания Windows
+- функция обратного вызова пксепровидершутдовн Windows службах развертывания
 topic_type:
 - apiref
 api_name:
@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 17698c5fa1f6ce6bd5443d0244ebc6ce6082ec33
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 5efc7267a5b5e1c15d185b96419210f31981c56c887dd5a8ab7f1068eb4f20ff
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105701045"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119860794"
 ---
 # <a name="pxeprovidershutdown-callback-function"></a>Функция обратного вызова Пксепровидершутдовн
 
@@ -50,22 +50,22 @@ DWORD PXEAPI PxeProviderShutdown(
 
 Если завершение работы поставщика завершается успешно, обратный вызов должен возвращать **ошибку \_ успешно**. В случае сбоя должен возвращаться соответствующий код ошибки.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                          |
-| Минимальная версия сервера<br/> | Windows Server 2008, Windows Server 2003 с пакетом обновления 2 (SP2), \[ только классические приложения\]<br/> |
+| Минимальная версия сервера<br/> | Windows сервер 2008, Windows server 2003 с пакетом обновления 2 (SP2), \[ только классические приложения\]<br/> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
-[Функции сервера служб развертывания Windows](windows-deployment-services-server-functions.md)
+[Windows Функции сервера служб развертывания](windows-deployment-services-server-functions.md)
 </dt> <dt>
 
 [*пксепровидеринитиализе*](pxeproviderinitialize.md)

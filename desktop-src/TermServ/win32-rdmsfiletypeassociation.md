@@ -25,12 +25,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 21a2e569077bf47a2b0eba63db39ae1e86c39feb
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: cb76c904164bcf005ccbbb8348c60d2ba91514f420ba1d62fcbb40301c8e71a7
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104414840"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119868204"
 ---
 # <a name="win32_rdmsfiletypeassociation-class"></a>\_Класс Win32 рдмсфилетипеассоЦиатион
 
@@ -62,7 +62,7 @@ class Win32_RDMSFileTypeAssociation
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ рдмсфилетипеассоЦиатион** имеет следующие свойства.
 
@@ -196,7 +196,7 @@ class Win32_RDMSFileTypeAssociation
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -210,7 +210,7 @@ class Win32_RDMSFileTypeAssociation
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

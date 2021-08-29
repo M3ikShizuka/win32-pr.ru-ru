@@ -1,26 +1,26 @@
 ---
-description: Следующий набор разделов содержит рекомендации по реализации форматов изображений Camera RAW, которые будут работать в инфраструктуре компонента Windows Imaging Component (WIC).
+description: в следующем наборе разделов содержатся рекомендации по реализации форматов изображений camera RAW, которые будут работать в инфраструктуре Windowsного компонента обработки изображений (WIC).
 ms.assetid: 145459fe-8ef4-41ba-b062-00f435c982e5
 title: Рекомендации по WIC для форматов необработанных изображений Camera
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f09405f0f57aaa075678127d5d08bafcd28ecc6e
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 9f3607b82b8844f48ebd9cbbcfe3e43e10fdddffcb47729f9225fdf84de3c289
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104265288"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118964643"
 ---
 # <a name="wic-guidelines-for-camera-raw-image-formats"></a>Рекомендации по WIC для форматов необработанных изображений Camera
 
-Следующий набор разделов содержит рекомендации по реализации форматов изображений Camera RAW, которые будут работать в инфраструктуре компонента Windows Imaging Component (WIC).
+в следующем наборе разделов содержатся рекомендации по реализации форматов изображений camera RAW, которые будут работать в инфраструктуре Windowsного компонента обработки изображений (WIC).
 
 <dl>
 
 [Введение](-wic-rawguidelines-intro.md)  
 <dl>
 
-[Форматы необработанных изображений в Windows Vista](-wic-rawguidelines-intro-vista.md)  
+[форматы необработанных изображений в Windows Vista](-wic-rawguidelines-intro-vista.md)  
 [Общие рекомендации по реализации необработанных кодеков](-wic-rawguidelines-intro-implement.md)  
 </dl> </dd> <a href="-wic-rawguidelines-feature-complete.md">Полнота компонентов: Рекомендуемые</a> [методы интерфейса интерфейсов](-wic-rawguidelines-iface-reqs.md)  
 [Поддержка метаданных](-wic-rawguidelines-metadata.md)  
@@ -28,7 +28,7 @@ ms.locfileid: "104265288"
 
 [Декодирование](-wic-rawguidelines-metadata-decoding.md)  
 [Кодирование](-wic-rawguidelines-metadata-encoding.md)  
-</dl> </dd> <a href="/windows/desktop/wic/-wic-rawguidelines-iwicdevelopraw">Поддержка Ивикдевелоправ</a> [рекомендаций по сериализации параметров ивикдевелоправ](-wic-rawguidelines-iwicdevelopraw-serializing.md)  
+</dl> </dd> <a href="/windows/desktop/wic/-wic-rawguidelines-iwicdevelopraw">поддержка ивикдевелоправ</a> [рекомендаций по сериализации ивикдевелоправ Параметры](-wic-rawguidelines-iwicdevelopraw-serializing.md)  
 [Производительность](-wic-rawguidelines-performance.md)  
 [Форматы пикселей с высоким динамическим диапазоном](-wic-rawguidelines-hdr-formats.md)  
 [Эскизы и предварительные версии](-wic-rawguidelines-thumbnail-previews.md)  
@@ -37,18 +37,18 @@ ms.locfileid: "104265288"
 <dl>
 
 [Обнаружение кодеков](-wic-rawguidelines-availability.md)  
-[Поддержка платформы Windows XP](-wic-rawguidelines-availability.md)  
-</dl> </dd> <a href="-wic-rawguidelines-win7.md">Требования к необработанным кодекам для Windows 7</a> [для получения дополнительных сведений](-wic-rawguidelines-moreinfo.md)  
+[Windows Поддержка платформы XP](-wic-rawguidelines-availability.md)  
+</dl> </dd> <a href="-wic-rawguidelines-win7.md">требования к необработанным кодекам для Windows 7</a> [для получения дополнительных сведений](-wic-rawguidelines-moreinfo.md)  
 </dl>
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 **Зрения**
 </dt> <dt>
 
-[Общие сведения о компоненте создания образов Windows](-wic-about-windows-imaging-codec.md)
+[Windows Общие сведения о компонентах обработки изображений](-wic-about-windows-imaging-codec.md)
 </dt> <dt>
 
 [Рекомендации по WIC для форматов необработанных изображений Camera](-wic-rawguidelines.md)

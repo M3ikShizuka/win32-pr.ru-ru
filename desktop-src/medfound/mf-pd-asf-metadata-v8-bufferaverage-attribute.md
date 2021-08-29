@@ -4,12 +4,12 @@ ms.assetid: 508d8670-5f5f-422b-9fa1-150115e2dbb8
 title: Атрибут MF_PD_ASF_METADATA_V8_BUFFERAVERAGE (Вмконтаинер. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d3f1efcb464ee62a1f3838c1a684e3c87dc58227
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 6ac9328d0b176df23b103c49890ffa7646ae8c02e7205df95fecc5a64e5eebc4
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105711301"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119955414"
 ---
 # <a name="mf_pd_asf_metadata_v8_bufferaverage-attribute"></a>MF \_ PD \_ ASF \_ метаданные \_ V8 \_ буфферавераже Attribute
 
@@ -19,14 +19,14 @@ ms.locfileid: "105711301"
 
 **UINT32**
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот атрибут применяется к дескрипторам представления для содержимого ASF.
 
 Метод [**имфасфконтентинфо:: женератепресентатиондескриптор**](/windows/desktop/api/wmcontainer/nf-wmcontainer-imfasfcontentinfo-generatepresentationdescriptor) создает этот атрибут, который применяется к дескриптору представления для содержимого ASF.
 
 > [!Note]  
-> Этот атрибут применяется только к файлам, созданным в версии 8 пакета SDK Windows Media Format. Он соответствует атрибуту **буфферавераже** в пакете SDK формата Windows Media.
+> этот атрибут применяется только к файлам, созданным в версии 8 пакета SDK Windows Media Format. он соответствует атрибуту **буфферавераже** в пакете SDK для Windows Media Format.
 
  
 
@@ -36,9 +36,9 @@ ms.locfileid: "105711301"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                           |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                     |
-| Header<br/>                   | <dl> <dt>Вмконтаинер. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                           |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                     |
+| Заголовок<br/>                   | <dl> <dt>Вмконтаинер. h</dt> </dl> |
 
 
 

@@ -4,12 +4,12 @@ description: Содержит список макросов-оболочек д�
 ms.assetid: 806F43F3-D376-4DBD-A4C5-B5F01E5D009D
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9dc28b3a35074089b1f5c613b041534b8b282423
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 0bad266f44dbd82c31ceea95eed2978c5634beb8a75830d073465ef11c1be331
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103779688"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118966483"
 ---
 # <a name="tracelogging-wrapper-macros"></a>Макросы оболочки Трацелоггинг
 
@@ -37,7 +37,7 @@ ms.locfileid: "103779688"
 >
 > -   [**трацелоггингоптионграуп**](/windows/desktop/api/traceloggingprovider/nf-traceloggingprovider-traceloggingoptiongroup)
 
- 
+ 
 
 Ниже приведены отдельные макросы-оболочки.
 
@@ -245,9 +245,9 @@ API Трацелоггинг также делает несколько макр
 
 -   TraceLoggingHexUInt16Array
 
- 
+ 
 
- 
+ 
 
 
 

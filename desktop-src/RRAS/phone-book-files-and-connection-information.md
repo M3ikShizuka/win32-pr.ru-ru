@@ -4,12 +4,12 @@ description: Вызов RasDial должен указывать сведения
 ms.assetid: bc3885a4-3c1e-47bc-b622-072b33ac3b51
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 11d352772eec057edd6ab8c9f53640c50ea0fc73
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 77a4bc7831673fb51a4c48177692674d6d2560ccec327dd3260dacb49e8ecfa7
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104134370"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120029124"
 ---
 # <a name="phone-book-files-and-connection-information"></a>Phone-Book файлы и сведения о подключении
 
@@ -21,6 +21,6 @@ ms.locfileid: "104134370"
 
 Чтобы установить соединение без использования записи телефонной книги, в вызове [**rasdial**](/windows/desktop/api/Ras/nf-ras-rasdiala) можно указать пустую строку для элемента **сзентринаме** структуры [**расдиалпарамс**](/previous-versions/windows/desktop/legacy/aa377238(v=vs.85)) . Элемент **расдиалпарамс. сзфоненумбер** должен содержать число для вызова. В этом случае диспетчер подключений удаленного доступа использует первый доступный порт модема и значения по умолчанию для всех остальных параметров.
 
- 
+ 
 
- 
+ 

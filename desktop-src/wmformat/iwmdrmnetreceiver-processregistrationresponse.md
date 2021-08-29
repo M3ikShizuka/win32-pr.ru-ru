@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a77b01f443d57825d82b7cf9556d7585745bb99e
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 4a0461bc19aa1f3de2751516aedc8e76a0201417fe017881fb0fbd8da8156b39
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105675048"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119930814"
 ---
 # <a name="iwmdrmnetreceiverprocessregistrationresponse-method"></a>Ивмдрмнетрецеивер: метод:P Роцессрегистратионреспонсе
 
@@ -79,7 +79,7 @@ HRESULT ProcessRegistrationResponse(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот метод выполняется асинхронно; После завершения обработки событие Мепроксимитикомплетед отправляется в интерфейс **имфмедиаевентженератор** .
 
@@ -89,7 +89,7 @@ HRESULT ProcessRegistrationResponse(
 
 | Требование | Значение |
 |-------------------|---------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Вмдрмсдк. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Вмдрмсдк. h</dt> </dl> |
 
 
 

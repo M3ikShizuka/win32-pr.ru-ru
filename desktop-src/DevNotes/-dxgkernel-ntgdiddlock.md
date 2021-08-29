@@ -16,12 +16,12 @@ api_location:
 - Ext-MS-Win-GDI-Internal-Desktop-L1-1-0.dll
 - GDI32.dll
 - GDI32Full.dll
-ms.openlocfilehash: 3ddf40ae992b6b463886396ba026ec08293bb027
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 8cd16008c01a5099b3bb85ecc97127edd5fb3f3941d469a2fbc7c4a11caccb49
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104495933"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118956323"
 ---
 # <a name="ntgdiddlock-function"></a>Функция Нтгдиддлокк
 
@@ -82,7 +82,7 @@ DWORD APIENTRY NtGdiDdLock(
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -94,7 +94,7 @@ DWORD APIENTRY NtGdiDdLock(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

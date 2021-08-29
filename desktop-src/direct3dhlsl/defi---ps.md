@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 3552d5cfe322dd384e1c6bd219e35af19b469a56
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 2d22301b3a6fced39741733cbc1371ed18bf95fcf00da0636e662fc8d977db18
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104134311"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118792664"
 ---
 # <a name="defi---ps"></a>дефи-PS
 
@@ -29,12 +29,12 @@ ms.locfileid: "104134311"
 
 
 
- 
+ 
 
 -   DST — это регистр назначения.
 -   Интежервалуе — это постоянное целочисленное значение.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 
 
@@ -44,7 +44,7 @@ ms.locfileid: "104134311"
 
 
 
- 
+ 
 
 Инструкция дефи определяет константу шейдера, значение которой загружается в любое время в качестве шейдера для устройства. Они называются прямыми константами. Немедленные константы имеют приоритет над константами, заданными методом API Сетпикселшадерконстантб.
 
@@ -56,13 +56,13 @@ ms.locfileid: "104134311"
     -   Используйте [**сетпикселшадерконстантф**](/windows/desktop/api/d3d9helper/nf-d3d9helper-idirect3ddevice9-setpixelshaderconstantf) для установки константы с плавающей запятой.
     -   Используйте [**сетпикселшадерконстанти**](/windows/desktop/api/d3d9helper/nf-d3d9helper-idirect3ddevice9-setpixelshaderconstanti) для установки целочисленной константы.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Инструкции шейдера пикселей](dx9-graphics-reference-asm-ps-instructions.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

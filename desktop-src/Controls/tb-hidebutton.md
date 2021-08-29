@@ -3,7 +3,7 @@ title: Сообщение TB_HIDEBUTTON (Коммктрл. h)
 description: Скрывает или отображает указанную кнопку на панели инструментов.
 ms.assetid: 57941a40-279a-426e-baf9-115429c62839
 keywords:
-- Элементы управления Windows для TB_HIDEBUTTON сообщений
+- элементы управления Windows сообщений TB_HIDEBUTTON
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e198a48ae65f13be699b76a20c9f423cdb0da197
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 08c5df2f402f1b2de476a3d4748a69a4bb954ff2122855299f49ea1ddba37f7f
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103988475"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119078278"
 ---
 # <a name="tb_hidebutton-message"></a>\_Сообщение ХИДЕБУТТОН ТБ
 
@@ -49,15 +49,15 @@ ms.locfileid: "103988475"
 
 Возвращает **значение true** , если успешно, или **false** в противном случае.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

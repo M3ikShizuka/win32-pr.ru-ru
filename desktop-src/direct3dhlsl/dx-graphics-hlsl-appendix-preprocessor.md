@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 8efdd996ddeb58c09d1c8250f174c21bb939f082
-ms.sourcegitcommit: cb87082135319cbdc5df541e3071eebb83a58972
+ms.openlocfilehash: a2f26a12cf551e71d390e7e8fd0d4ad44f812ac72595135d777f10b00cbb2fb6
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "111386833"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118792136"
 ---
 # <a name="preprocessor-directives-hlsl"></a>Директивы препроцессора (HLSL)
 
@@ -25,15 +25,15 @@ ms.locfileid: "111386833"
 Препроцессор HLSL распознает следующие директивы:
 
 -   [\#определенно](dx-graphics-hlsl-appendix-pre-define.md)
--   [\##elif](dx-graphics-hlsl-appendix-pre-if.md)
--   [\#Кроме](dx-graphics-hlsl-appendix-pre-if.md)
+-   [\#elif](dx-graphics-hlsl-appendix-pre-if.md)
+-   [\#else](dx-graphics-hlsl-appendix-pre-if.md)
 -   [\#endif](dx-graphics-hlsl-appendix-pre-if.md)
 -   [\#план](dx-graphics-hlsl-appendix-pre-error.md)
 -   [\#if](dx-graphics-hlsl-appendix-pre-if.md)
 -   [\#ifdef](dx-graphics-hlsl-appendix-pre-ifdef.md)
 -   [\#ifndef](dx-graphics-hlsl-appendix-pre-ifdef.md)
 -   [\#относится](dx-graphics-hlsl-appendix-pre-include.md)
--   [\#line](dx-graphics-hlsl-appendix-pre-line.md)
+-   [\#штрих](dx-graphics-hlsl-appendix-pre-line.md)
 -   [\#включают](dx-graphics-hlsl-appendix-pre-pragma.md)
 -   [\#undef](dx-graphics-hlsl-appendix-pre-undef.md)
 

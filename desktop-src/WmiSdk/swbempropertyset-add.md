@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 1ad5b40d31d162b287bdb1a387cd0602e0be1ce6
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 52ee45eeb711254c18e8d81cd76fe598b0589fdb9d0e29b507e560fc3dccd167
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105712895"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119897954"
 ---
 # <a name="swbempropertysetadd-method"></a>SWbemPropertySet. Add, метод
 
@@ -122,7 +122,7 @@ objProperty = .Add( _
 
 Пример кода, в котором используется этот метод, см. в разделе [**SWbemPropertySet**](swbempropertyset.md) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -130,7 +130,7 @@ objProperty = .Add( _
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Wbemdisp. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_SWBEMPROPERTYSET CLSID<br/>                                                      |
@@ -138,7 +138,7 @@ objProperty = .Add( _
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

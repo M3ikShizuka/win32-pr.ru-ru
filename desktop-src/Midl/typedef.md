@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ecfce98e5a83f8d2a5e2499a5ceceba755e68f2c
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.openlocfilehash: 999f0154de90f589f776a84bf030677c64a68f2471ebdd7a0d9838aa3074fa44
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "103790008"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119822044"
 ---
 # <a name="typedef-attribute"></a>typedef, атрибут
 
@@ -70,7 +70,7 @@ typedef [ acf-type-attribute-list ] typename;
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Объявление **TYPEDEF** IDL дополняется, позволяя связывать атрибуты типа с определенными типами. К допустимым атрибутам типа относятся **\[** [**Handle**](handle.md), **\]** **\[** [**Switch \_ Type**](switch-type.md) **\]** , **\[** [**передает \_ as**](transmit-as.md) **\]** ; атрибут указателя **\[** [**ref**](ref.md) **\]** , **\[** [**UNIQUE**](unique.md) **\]** или **\[** [**ptr**](ptr.md) **\]** ;, а также **\[** [**\_ маркер контекста**](context-handle.md)атрибутов использования **\]** , **\[** [**String**](string.md) **\]** и **\[** [**Ignore**](ignore.md) **\]** .
 
@@ -103,10 +103,10 @@ typedef [ acf-type-attribute-list ] typename;
 [**шифровать**](encode.md)
 </dt> <dt>
 
-[**перечисления**](enum.md)
+[**enum**](enum.md)
 </dt> <dt>
 
-[**справиться**](handle.md)
+[**handle**](handle.md)
 </dt> <dt>
 
 [Файл определения интерфейса (IDL)](interface-definition-idl-file.md)
@@ -115,7 +115,7 @@ typedef [ acf-type-attribute-list ] typename;
 [**обращать**](ignore.md)
 </dt> <dt>
 
-[**ptr**](ptr.md)
+[**указатель**](ptr.md)
 </dt> <dt>
 
 [**ref**](ref.md)
@@ -139,6 +139,6 @@ typedef [ acf-type-attribute-list ] typename;
 [**однозначно**](unique.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

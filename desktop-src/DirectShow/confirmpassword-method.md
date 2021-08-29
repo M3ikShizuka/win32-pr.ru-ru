@@ -4,17 +4,17 @@ ms.assetid: 4dddc28d-edf7-45a2-ae1f-1c37b5df2eea
 title: Метод ConfirmPassword (Segment. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 62817247ca661f92ceb5ba0e2bc9bb11381d73ff
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 5f14b3a40a37828bc978b5dd302a14b4f65053d982ac0da68d43284fe2ac3f3c
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105668655"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118954223"
 ---
 # <a name="confirmpassword-method"></a>Метод ConfirmPassword
 
 > [!Note]  
-> Этот компонент доступен для использования в операционных системах Microsoft Windows 2000, Windows XP и Windows Server 2003. В последующих версиях он может быть изменен или недоступен.
+> этот компонент доступен для использования в операционных системах Microsoft Windows 2000, Windows XP и Windows Server 2003. В последующих версиях он может быть изменен или недоступен.
 
  
 
@@ -46,21 +46,21 @@ ms.locfileid: "105668655"
 
 Возвращает значение true, если указанный пароль совпадает с существующим паролем, и false в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 В настоящее время параметр *сусернаме* игнорируется на этом и всех связанных методах.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|--------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Сегмент. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Сегмент. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

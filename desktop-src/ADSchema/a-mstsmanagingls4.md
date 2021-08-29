@@ -14,12 +14,12 @@ api_type:
 - Schema
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: eb2319b28b5502f2d84d17c893c20c1eef986a03
-ms.sourcegitcommit: b77ace27b0432e7cd3863191b11926be032fbe2f
+ms.openlocfilehash: 2139f589a1675c7bc33229f8d4bfe078a9e04f60dec74be5951f8e04f9770d92
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "104535945"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119802674"
 ---
 # <a name="ms-ts-managingls4-attribute"></a>Атрибут MS-TS-ManagingLS4
 
@@ -54,10 +54,10 @@ ms.locfileid: "104535945"
 |------------------------|--------------|
 | Идентификатор ссылки                | \-           |
 | MAPI-Id                | \-           |
-| System-Only            | Неверно        |
-| Является однозначным       | True         |
-| Индексируется             | True         |
-| В глобальном каталоге      | Неверно        |
+| System-Only            | Нет        |
+| Является однозначным       | Верно         |
+| Индексируется             | Верно         |
+| В глобальном каталоге      | Нет        |
 | NT-Security-дескриптор | О:БАГ: BAD: S: |
 | Range-Lower            | 0            |
 | Range-Upper            | 255          |
@@ -75,10 +75,10 @@ ms.locfileid: "104535945"
 |------------------------|--------------|
 | Идентификатор ссылки                | \-           |
 | MAPI-Id                | \-           |
-| System-Only            | Неверно        |
-| Является однозначным       | True         |
-| Индексируется             | True         |
-| В глобальном каталоге      | Неверно        |
+| System-Only            | Нет        |
+| Является однозначным       | Верно         |
+| Индексируется             | Верно         |
+| В глобальном каталоге      | Нет        |
 | NT-Security-дескриптор | О:БАГ: BAD: S: |
 | Range-Lower            | 0            |
 | Range-Upper            | 255          |
@@ -96,10 +96,10 @@ ms.locfileid: "104535945"
 |------------------------|--------------|
 | Идентификатор ссылки                | \-           |
 | MAPI-Id                | \-           |
-| System-Only            | Неверно        |
-| Является однозначным       | True         |
-| Индексируется             | True         |
-| В глобальном каталоге      | Неверно        |
+| System-Only            | Нет        |
+| Является однозначным       | Верно         |
+| Индексируется             | Верно         |
+| В глобальном каталоге      | Нет        |
 | NT-Security-дескриптор | О:БАГ: BAD: S: |
 | Range-Lower            | 0            |
 | Range-Upper            | 255          |

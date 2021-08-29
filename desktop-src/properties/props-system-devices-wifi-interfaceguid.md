@@ -4,12 +4,12 @@ ms.assetid: 21f3710e-5248-4e58-b8b8-6acfddb6a931
 title: System. Devices. WiFi. Интерфацегуид
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 86c46a611944491dc753f7abefbdfd24b7293c22
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 5e7433048c49a111454c559dd5b10e7cc2e7f01ef19d9461d11629f5b03d174c
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103813497"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118467224"
 ---
 # <a name="systemdeviceswifiinterfaceguid"></a>System. Devices. WiFi. Интерфацегуид
 
@@ -31,11 +31,11 @@ propertyDescription
       IsInnate = true
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

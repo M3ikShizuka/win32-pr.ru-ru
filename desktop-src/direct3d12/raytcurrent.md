@@ -12,12 +12,12 @@ api_name:
 - RayTCurrent
 api_type:
 - NA
-ms.openlocfilehash: 4f090bab88c6be671ca0614255fd7bdebb0d1549
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 5db5e01fc4af6c3d9304f7f8cf72893029ea34a54cf815310fd1fb3b4c13cbe4
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105701246"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120028154"
 ---
 # <a name="raytcurrent"></a>райткуррент
 
@@ -31,7 +31,7 @@ float RayTCurrent();
 ```
 
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 **Райткуррент** определяет текущую конечную точку луча в соответствии со следующей формулой: Origin + (направление * райткуррент).  *Источник* и *направление* могут находиться в мировом или объектном пространстве, что приводит к заполнению точки мира или объектного пространства.
 

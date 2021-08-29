@@ -29,12 +29,12 @@ api_type:
 - DllExport
 api_location:
 - vmms.exe
-ms.openlocfilehash: 410d580542421aee153b610726bed1f438efbcde
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: cdf896f03979770d31cdfcc5da7a2b324caf9936bb96114a2d1657e4b5a47e00
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104546031"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119695304"
 ---
 # <a name="cim_memory-class-hyper-v-management"></a>Класс CIM_Memory (Управление Hyper-V)
 
@@ -71,7 +71,7 @@ class CIM_Memory : CIM_StorageExtent
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **\_ памяти CIM** имеет следующие свойства.
 
@@ -481,7 +481,7 @@ class CIM_Memory : CIM_StorageExtent
 
 </dd> <dt>
 
-**Независимо**
+**Переменный**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **логический**
@@ -494,7 +494,7 @@ class CIM_Memory : CIM_StorageExtent
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -508,7 +508,7 @@ class CIM_Memory : CIM_StorageExtent
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

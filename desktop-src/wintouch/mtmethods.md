@@ -3,18 +3,18 @@ title: Методы (IManipulationProcessor)
 description: В этом разделе содержатся методы для интерфейса IManipulationProcessor.
 ms.assetid: 33736f79-cb61-449c-80b9-1358db2621e9
 keywords:
-- Windows Touch, интерфейс IManipulationProcessor
-- Касание Windows, методы интерфейса
+- Windows Сенсорный ввод, интерфейс IManipulationProcessor
+- Windows Сенсорный ввод, методы интерфейса
 - манипуляции, интерфейс IManipulationProcessor
 - Интерфейс IManipulationProcessor, методы
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 995a848e18b8308d46ceda717bf7eec291953505
-ms.sourcegitcommit: 8fa6614b715bddf14648cce36d2df22e5232801a
+ms.openlocfilehash: 161ac2fc0d30c70e0f305de55a3f65b2eb827a925615977ce726eaa200615806
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "104414564"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118964203"
 ---
 # <a name="methods-imanipulationprocessor"></a>Методы (IManipulationProcessor)
 
@@ -42,7 +42,7 @@ ms.locfileid: "104414564"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

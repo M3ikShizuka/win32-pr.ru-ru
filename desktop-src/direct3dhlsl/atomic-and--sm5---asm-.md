@@ -4,12 +4,12 @@ description: Атомарная операция и в память.
 ms.assetid: 5FA731E0-7D18-4416-9579-FCA01FF5FC38
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0ef21f2f9d49a05f1eeb828ee1ce54ad1f162d7a
-ms.sourcegitcommit: fe03c5d92ca6a0d66a114b2303e99c0a19241ffb
+ms.openlocfilehash: e5a54b8a77bbb30c42b78f0e04bd40aadecb81ef5249ae4386ea5bcd90bf8987
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "104983893"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118795186"
 ---
 # <a name="atomic_and-sm5---asm"></a>Atomic \_ и (SM5-ASM)
 
@@ -36,7 +36,7 @@ ms.locfileid: "104983893"
 
  
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Эта операция выполняет атомарную операцию с одним компонентом, 32-битным побитовым и операндом *src0* в *летнее* время в 32-бит на компонент, адрес *дстаддресс*.
 
@@ -58,7 +58,7 @@ ms.locfileid: "104983893"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Геометрия | Пиксель | Службы вычислений |
 |--------|------|--------|----------|-------|---------|
 |        |      |        |          | X     | X       |
 
@@ -70,7 +70,7 @@ ms.locfileid: "104983893"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Геометрия | Пиксель | Службы вычислений |
 |--------|------|--------|----------|-------|---------|
 | X      | X    | X      | X        | X     | X       |
 
@@ -86,7 +86,7 @@ ms.locfileid: "104983893"
 
 | Модель шейдера                                              | Поддерживается |
 |-----------------------------------------------------------|-----------|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | да       |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | Да       |
 | [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | Нет        |
 | [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | Нет        |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет        |
@@ -97,7 +97,7 @@ ms.locfileid: "104983893"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

@@ -6,12 +6,12 @@ keywords:
 - IDL-MIDL, атрибуты, производительность
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: afbfa518b400d237c9fd3789f61b7e74a0c38276
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: f784bc534fd1dd7f160eaccb87a2853d491237db915245d4f36823e1ceb559ff
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104068613"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119869464"
 ---
 # <a name="performance-attributes"></a>Атрибуты производительности
 
@@ -27,9 +27,9 @@ ms.locfileid: "104068613"
 
 
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -39,9 +39,9 @@ ms.locfileid: "104068613"
 [Атрибуты ACF для оптимизации заглушек](stub-optimization-acf-attributes.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

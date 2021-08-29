@@ -4,12 +4,12 @@ description: Панели инструментов поддерживают то
 ms.assetid: 7B4DACEF-96BB-447E-AE8F-F55401C665E9
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: eb8ae2189350b9ea2f4aaa0c3ea0b49727bd3415
-ms.sourcegitcommit: f0ca63c18dc52c357d3398af7be766d2bdd40be7
+ms.openlocfilehash: 6be124fd0759005344bab3338465b3e86f1b8afbded62755171be87a5a01682c
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "103890336"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119697422"
 ---
 # <a name="how-to-embed-nonbutton-controls-in-toolbars"></a>Внедрение элементов управления "некнопки" в панели инструментов
 
@@ -20,20 +20,20 @@ ms.locfileid: "103890336"
 > [!Note]  
 > Рассмотрите возможность использования [элементов управления "Главная](rebar-controls.md) панель" вместо размещения элементов управления на панелях инструментов.
 
- 
+ 
 
 Любой тип окна можно разместить на панели инструментов. В следующем примере кода элемент управления "поле ввода" добавляется в качестве дочернего элемента для окна элемента управления ToolBar. Так как панель инструментов создана, а затем добавлен элемент управления "поле ввода", необходимо указать пространство для элемента управления "поле ввода". Одним из способов сделать это является добавление разделителя в качестве заполнителя на панели инструментов, установка ширины разделителя в число пикселей, которое требуется зарезервировать.
 
-## <a name="what-you-need-to-know"></a>Что необходимо знать
+## <a name="what-you-need-to-know"></a>Это важно знать
 
 ### <a name="technologies"></a>Технологии
 
--   [Элементы управления Windows](window-controls.md)
+-   [Windows Элементы управления](window-controls.md)
 
-### <a name="prerequisites"></a>Предварительные условия
+### <a name="prerequisites"></a>Предварительные требования
 
 -   C/C++
--   Программирование пользовательского интерфейса Windows
+-   Windows Программирование пользовательского интерфейса
 
 ## <a name="instructions"></a>Инструкции
 
@@ -125,19 +125,19 @@ SetParent (hWndEdit, hWndToolbar);
 
 Уведомления переходят к исходному родителю. Таким образом, управляющие сообщения отправляются в родительский элемент панели инструментов, даже если окно редактирования находится в окне панели инструментов.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Использование элементов управления ToolBar](using-toolbar-controls.md)
 </dt> <dt>
 
-[Демонстрация стандартных элементов управления Windows (Кппвиндовскоммонконтролс)](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/OneCodeTeam/Windows%20common%20controls%20demo%20(CppWindowsCommonControls)/%5BC++%5D-Windows%20common%20controls%20demo%20(CppWindowsCommonControls)/C++/CppWindowsCommonControls)
+[демонстрация Windows стандартных элементов управления (кппвиндовскоммонконтролс)](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/OneCodeTeam/Windows%20common%20controls%20demo%20(CppWindowsCommonControls)/%5BC++%5D-Windows%20common%20controls%20demo%20(CppWindowsCommonControls)/C++/CppWindowsCommonControls)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

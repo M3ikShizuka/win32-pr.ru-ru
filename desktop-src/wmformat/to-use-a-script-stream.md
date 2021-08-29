@@ -3,18 +3,18 @@ title: Использование потока скрипта
 description: Использование потока скрипта
 ms.assetid: 502b1f66-213d-41d8-992a-9bef4f6209f9
 keywords:
-- Пакет Windows Media Format SDK, скриптовые потоки
+- Windows Пакет SDK для формата мультимедиа, потоки сценариев
 - Расширенный системный формат (ASF), скриптовые потоки
 - ASF (Расширенный системный формат), скриптовые потоки
 - потоки скриптов, сведения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 09782855bd3000d711f134c5889733e49e020c44
-ms.sourcegitcommit: 099ecdda1e83618b844387405da0db0ebda93a65
+ms.openlocfilehash: a4d8df991ae97cc6d9eb330f11cb8798f5f2eb2787b5947e1d997b3d276d15f5
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "111444735"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119929214"
 ---
 # <a name="to-use-a-script-stream"></a>Использование потока скрипта
 
@@ -28,7 +28,7 @@ ms.locfileid: "111444735"
 
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |   &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;  | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;  | &nbsp; |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| U   | R   | L   | &nbsp; | h   | t   | t   | p   | :   | /   | /   | w   | w   | w   | .   | а   | d   | а   | t   | u   | М   | .   | с   | o   | М   | &nbsp; |
+| U   | R   | L   | &nbsp; | h   | t   | t   | p   | :   | /   | /   | w   | w   | w   | .   | а   | d   | а   | t   | u   | m   | .   | с   | o   | m   | &nbsp; |
 
 
 

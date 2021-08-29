@@ -12,12 +12,12 @@ api_type:
 - DllExport
 ms.date: 07/02/2019
 ms.topic: reference
-ms.openlocfilehash: 7ef4c6148ae2dfc12225948890ce332ba2310b25
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 9be9fb342f45bc42edff59edad401897f67846363afcf26cc76dbc3e44b1aa8d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105675867"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119214465"
 ---
 # <a name="id2d1geometrygetbounds-methods"></a>Методы ID2D1Geometry:: DataBound
 
@@ -338,7 +338,7 @@ if (SUCCEEDED(hr))
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D2d1 \_ 1. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D2d1 \_ 1. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D2d1. lib</dt> </dl>  |
 | DLL<br/>     | <dl> <dt>D2d1.dll</dt> </dl>  |
 

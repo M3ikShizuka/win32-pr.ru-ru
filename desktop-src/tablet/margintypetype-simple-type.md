@@ -12,12 +12,12 @@ api_name:
 api_type:
 - Schema
 api_location: ''
-ms.openlocfilehash: 4e8a09e98611fabc54a029c9cac9cb37dfc1373f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: b1996b99729e177f7012db097644807a2bf7052f231e089052d5244b20d016ae
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104272308"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119031692"
 ---
 # <a name="margintypetype-simple-type"></a>Простой тип Маргинтипетипе
 
@@ -41,17 +41,17 @@ ms.locfileid: "104272308"
 
 -   `Left|Right`
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Допустимые значения для атрибута **Type** [элемента Margin](margin-element.md) : Left и right.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только классические приложения Windows XP Tablet PC Edition \[\]<br/> |
+| Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/> |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                     |
 
 

@@ -4,12 +4,12 @@ ms.assetid: b1ea4f21-55d1-47b0-b6d3-8951dce79f7c
 title: Как получить длительность воспроизведения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a21dd98a916109c8fb3d0ad3311643b1ffdc0a03
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 7c715ae82c63006ef8ad375fa9624cbd65ee5516be2d3e3379e5ca58a2fb5166
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105650612"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119958345"
 ---
 # <a name="how-to-get-the-playback-duration"></a>Как получить длительность воспроизведения
 
@@ -46,11 +46,11 @@ HRESULT GetPlaybackDuration(IMFPMediaItem *pItem, ULONGLONG *phnsDuration)
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
-Для Мфплай требуется Windows 7.
+для мфплай требуется Windows 7.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

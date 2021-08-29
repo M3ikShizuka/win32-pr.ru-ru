@@ -4,16 +4,16 @@ description: Уведомления элемента управления SysLin
 ms.assetid: 7acb0a88-3d0d-4ae7-9003-eb6aed8c63c6
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b82687f4f55e2a5326ef4e70f392b55483b8b22e
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.openlocfilehash: cd6a37a099717f34d11b89c0a0c6778562267b3fa65a2694ac26dd13734fba60
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "105651447"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120064044"
 ---
 # <a name="syslink-control-notifications"></a>Уведомления элемента управления SysLink
 
-## <a name="in-this-section"></a>в этом разделе
+## <a name="in-this-section"></a>В этом разделе
 
 -   [NM \_ Click (Syslink)](nm-click-syslink.md)
 

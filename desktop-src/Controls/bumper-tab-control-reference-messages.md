@@ -4,16 +4,16 @@ description: Управляющие сообщения вкладки
 ms.assetid: a2993604-ba9c-46ff-9cf5-287c03295b4e
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ddd2e0d3350d4b683ec93dcf59982cc1d5f33f6c
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.openlocfilehash: 4e238ac79d7b4a51dabb8d19e7162ebe076c8ac51ea762ece6a3ca5c6e94c562
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "104000192"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120063984"
 ---
 # <a name="tab-control-messages"></a>Управляющие сообщения вкладки
 
-## <a name="in-this-section"></a>в этом разделе
+## <a name="in-this-section"></a>В этом разделе
 
 -   [**\_АДЖУСТРЕКТ TCM**](tcm-adjustrect.md)
 -   [**\_ДЕЛЕТЕАЛЛИТЕМС TCM**](tcm-deleteallitems.md)

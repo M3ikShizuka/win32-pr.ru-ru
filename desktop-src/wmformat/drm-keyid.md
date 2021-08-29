@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 97a60afa330a7cf967b42a4d06009d9c921d8f56
-ms.sourcegitcommit: 48d1c892045445bcbd0f22bafa2fd3861ffaa6e7
+ms.openlocfilehash: c274123c04272fa4ba684a00f5d8f58fc395ce25e8b38bab534007d878c350e3
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/19/2020
-ms.locfileid: "104069600"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119027872"
 ---
 # <a name="drm_keyid"></a>\_KEYID DRM
 
@@ -31,7 +31,7 @@ g \_ всзвмдрм \_ KeyID
 
 **\_Строка типа \_ ВМТ**
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот атрибут имеется только для содержимого версии 7 DRM. Его можно задать с помощью [**ивмдрмвритер:: сетдрматтрибуте**](/previous-versions/windows/desktop/api/Wmsdkidl/nf-wmsdkidl-iwmdrmwriter-setdrmattribute) , и его можно получить при помощи [**Ивмдрмреадер:: жетдрмпроперти**](/previous-versions/windows/desktop/api/Wmsdkidl/nf-wmsdkidl-iwmdrmreader-getdrmproperty). Один и тот же атрибут файла можно получить с помощью [**\_ Дрмхеадер \_ KeyID DRM**](drm-drmheader-keyid.md).
 
@@ -48,9 +48,9 @@ g \_ всзвмдрм \_ KeyID
 [**Список атрибутов**](attribute-list.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

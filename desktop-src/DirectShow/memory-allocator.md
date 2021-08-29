@@ -4,12 +4,12 @@ ms.assetid: 2dc055a2-b77a-443d-b602-d9636cbe4db3
 title: Распределитель памяти
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4e2412adb78be18ac8c14eb4706624424f97ff13
-ms.sourcegitcommit: 63753fcfb0afbbe5ec283fb8316e62c2dc950f66
+ms.openlocfilehash: 9346cf35e9383ff79e3dc5dafe54c0857a3f6f8818d9d137ae92bd1e6f98977d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "107909425"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119584154"
 ---
 # <a name="memory-allocator"></a>Распределитель памяти
 
@@ -30,7 +30,7 @@ ms.locfileid: "107909425"
 
 <dl> <dt>
 
-[Объекты DirectShow](directshow-objects.md)
+[DirectShow Объект](directshow-objects.md)
 </dt> </dl>
 
  

@@ -6,12 +6,12 @@ keywords:
 - Администрирование удаленного доступа RRAS, администрирование сервера и порта
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4cb9d3cc520efa6bbb492e8d9e967d423548f96a
-ms.sourcegitcommit: cba7f424a292fd7f3a8518947b9466439b455419
+ms.openlocfilehash: 4842048c52460ef4f116d5f62458cd72293e6bef83820e969275667cb2ab2a90
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/23/2019
-ms.locfileid: "104487196"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120028774"
 ---
 # <a name="about-ras-server-and-port-administration"></a>Сведения об администрировании сервера удаленного доступа и порта
 
@@ -23,7 +23,7 @@ ms.locfileid: "104487196"
 
 -   Имя порта
 -   Сведения об устройстве, подключенном к порту
--   Является ли RAS-сервер, связанный с портом, сервером Windows NT или Windows 2000
+-   является ли RAS-сервер, связанный с портом, сервером Windows NT/Windows 2000
 -   Используется ли порт в данный момент, и, если это так, сведения о подключении
 
 Чтобы получить порты, используемые конкретным подключением, передайте [**мпрадминпортенум**](/windows/desktop/api/Mprapi/nf-mprapi-mpradminportenum) маркера в это соединение в параметре *хконнектион* . Чтобы получить маркер соединения, используйте функцию [**мпрадминконнектионенум**](/windows/desktop/api/Mprapi/nf-mprapi-mpradminconnectionenum) . Кроме того, если вы реализовали [библиотеку DLL администрирования RAS](ras-administration-dll.md), функции [**мпрадминакцептневконнектион**](/windows/desktop/api/Mprapi/nf-mprapi-mpradminacceptnewconnection) и [**MprAdminAcceptNewConnection2**](/windows/desktop/api/Mprapi/nf-mprapi-mpradminacceptnewconnection2) получают маркер для каждого нового подключения во время установки соединения.
@@ -34,9 +34,9 @@ ms.locfileid: "104487196"
 
 Используйте функцию [**мпрадминбуфферфри**](/windows/desktop/api/Mprapi/nf-mprapi-mpradminbufferfree) для освобождения памяти, выделенной функциями [**мпрадминпортенум**](/windows/desktop/api/Mprapi/nf-mprapi-mpradminportenum) и [**мпрадминпортжетинфо**](/windows/desktop/api/Mprapi/nf-mprapi-mpradminportgetinfo) . Используйте функцию [**мпрадминжетеррорстринг**](/windows/desktop/api/Mprapi/nf-mprapi-mpradmingeterrorstring) для получения строки, которая описывает код ошибки RAS, возвращенный одной из функций администрирования сервера RAS (расадмин).
 
- 
+ 
 
- 
+ 
 
 
 

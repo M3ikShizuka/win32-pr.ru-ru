@@ -4,12 +4,12 @@ ms.assetid: A2D0D6A0-30CB-435B-A5CD-A6FB001C46ED
 title: Свойство CODECAPI_VideoEncoderDisplayContentType (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c11c34549bea4682258ecdd2c2a1cf46bf2e8a84
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 9d48a4b95f8e80430a22f54a5665e7ed58046b0652a087b2710d98c750b6533f
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105692072"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119959044"
 ---
 # <a name="codecapi_videoencoderdisplaycontenttype-property"></a>КОДЕКАПИ \_ видеоенкодердисплайконтенттипе, свойство
 
@@ -27,23 +27,23 @@ ms.locfileid: "105692072"
 
 Если значение не равно нулю, содержимое будет полноэкранным видео. Если значение равно нулю, содержимое не является полноэкранным видео.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-В Windows 10 значение этого свойства не используется.
+в Windows 10 значение этого свойства не используется.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ настольных приложений Windows 10\]<br/>                                           |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2016\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 10 \[ только классические приложения\]<br/>                                           |
+| Минимальная версия сервера<br/> | Windows Server 2016 \[ только классические приложения\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

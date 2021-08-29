@@ -4,12 +4,12 @@ ms.assetid: 2eda6b4a-dc73-4999-9070-29cf78e13cde
 title: Задачи событий COM+
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f95d016c8c79422a53969780cbb8d1ab85a4d12a
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 6fe199076b1ee3b7442ec40848ef9c1189da8f452ee24f51c8e6a20d3bd20b5d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104142973"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120029544"
 ---
 # <a name="com-events-tasks"></a>Задачи событий COM+
 
@@ -23,13 +23,13 @@ ms.locfileid: "104142973"
 | [Регистрация подписки](registering-a-subscription.md)                     | Описание регистрации постоянной подписки в каталоге COM+. |
 | [Регистрация временной подписки](registering-a-transient-subscription.md) | Описывает, как зарегистрировать временную подписку.                      |
 | [Публикация события](publishing-an-event.md)                                   | Описывает, как опубликовать событие.                                       |
-| [Создание фильтра издателя](creating-a-publisher-filter.md)                   | Описывает, как создать фильтр издателя.                              |
+| [создание фильтра Publisher](creating-a-publisher-filter.md)                   | Описывает, как создать фильтр издателя.                              |
 
 
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

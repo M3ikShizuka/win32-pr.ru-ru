@@ -4,12 +4,12 @@ ms.assetid: 564324ad-6723-4676-ab5c-0b5d2957d201
 title: Пример профиля без широковещательной рассылки
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a09bfd9cf9eac724f882a9aa3cf16064f051fdf3
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: a8cab5a6ae274c90d1eeec40248ee73d04e610dba54e0024fca7eb3f463dabbc
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105673661"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119801024"
 ---
 # <a name="non-broadcast-profile-sample"></a>Пример профиля без широковещательной рассылки
 
@@ -55,7 +55,7 @@ ms.locfileid: "105673661"
 </sharedKey>
 ```
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

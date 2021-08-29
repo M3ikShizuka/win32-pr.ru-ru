@@ -13,12 +13,12 @@ api_type:
 api_location:
 - Wfext.h
 ms.assetid: 0e76bcc5-76c2-4ec0-8ddb-4042cb5ffa7d
-ms.openlocfilehash: efd1777704c775db84c7dabf54b9e06c81535fb4
-ms.sourcegitcommit: 3caaa3c92dcb1ef12f84464d14ce6262e65e988e
+ms.openlocfilehash: 8c2c2d476281c50f19d73c8af1572e1c2d8430149d8664efe14f0d5042c00542
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109842195"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119032652"
 ---
 # <a name="fms_load-structure"></a>\_Загрузка структуры FMS
 
@@ -98,7 +98,7 @@ typedef struct _FMS_LOAD {
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

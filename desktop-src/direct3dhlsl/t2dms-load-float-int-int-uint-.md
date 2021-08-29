@@ -84,7 +84,7 @@ ms.locfileid: "118506890"
 
 Возвращаемый тип соответствует типу в объявлении для объекта [**Texture2DMS**](sm5-object-texture2dms.md) .
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

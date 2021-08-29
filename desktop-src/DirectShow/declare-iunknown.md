@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 4823c1b4bd4832b1047a732bc503f04b4da65483
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 21ba606a5721635398cc9bcf48bba70978e00354188e1a62d83239c853a28b17
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105657711"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118953213"
 ---
 # <a name="declare_iunknown"></a>ОБЪЯВЛЕНИЕ \_ IUnknown
 
@@ -42,7 +42,7 @@ ms.locfileid: "105657711"
     };
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 При создании нового интерфейса он должен быть производным от **IUnknown**, который имеет три метода: **QueryInterface**, **AddRef** и **Release**. Этот макрос упрощает процесс объявления, объявляя каждый из этих методов для нового интерфейса.
 
@@ -54,7 +54,7 @@ ms.locfileid: "105657711"
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Комбасе. h (включение Streams. h)</dt> </dl>                                                                                   |
+| Заголовок<br/>  | <dl> <dt>комбасе. h (включает Потоки. h)</dt> </dl>                                                                                   |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 

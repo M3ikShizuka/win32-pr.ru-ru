@@ -3,8 +3,8 @@ title: Справочник по элементам API для WCS
 description: Сведения об элементах API, предоставляемых WCS, таких как функции, устаревшие функции WCS и перечисления.
 ms.assetid: fa40bf5a-6d07-43e7-b882-24e2244462fc
 keywords:
-- Цветовая система Windows (WCS), Справочник
-- WCS (цветовая система Windows), Справочник
+- Windows Система цветовой системы (WCS), Справочник
+- WCS (Windows цветовая система), ссылка
 - Управление цветом изображений, ссылка
 - Управление цветом, справочные материалы
 - цвета, справочные материалы
@@ -13,12 +13,12 @@ keywords:
 ms.localizationpriority: high
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 21270526de52cf0da17b9414fd5587fc12ed978c
-ms.sourcegitcommit: 0e611cdff84ff9f897c59e4e1d2b2d134bc4e133
+ms.openlocfilehash: 5b964d5454062cbe46d31dc6df0129a0d746a64d9333988d69e527aa0467d5ad
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106187913"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118965913"
 ---
 # <a name="api-elements-reference-for-wcs"></a>Справочник по элементам API для WCS
 

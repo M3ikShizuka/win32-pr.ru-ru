@@ -3,7 +3,7 @@ title: Сообщение TB_SETLISTGAP (Коммктрл. h)
 description: Задает расстояние между кнопками панели инструментов на определенной панели инструментов.
 ms.assetid: ca8ba6e4-cf70-41ca-ac61-cd13671d4010
 keywords:
-- Элементы управления Windows для TB_SETLISTGAP сообщений
+- элементы управления Windows сообщений TB_SETLISTGAP
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 224a709b7beefcfdf49ea7838f905977487aca8d
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 6192a002fcc2aec52c6c294b9eaad3fc55af3bfa3d01a092ae44f5c6d4087559
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103891405"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119078178"
 ---
 # <a name="tb_setlistgap-message"></a>\_Сообщение СЕТЛИСТГАП ТБ
 
@@ -47,19 +47,19 @@ ms.locfileid: "103891405"
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Разрыв между кнопками применяется только к окну элемента управления ToolBar, которое получает это сообщение. Получение этого сообщения запускает перерисовку панели инструментов, если панель инструментов видима в данный момент.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

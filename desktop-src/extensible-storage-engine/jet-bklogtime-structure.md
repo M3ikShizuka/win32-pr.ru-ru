@@ -15,12 +15,12 @@ api_type:
 - COM
 api_location: ''
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 2d6f8e3f77d905eb601441ad8ab3ca88bb08f59d
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.openlocfilehash: 0b54ba5bb6b4f5ed3f08b5d4cc950f77d199c525
+ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122478530"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122988247"
 ---
 # <a name="jet_bklogtime-structure"></a>Структура JET_BKLOGTIME
 
@@ -105,7 +105,7 @@ _**Применимо к:** Windows | Windows Сервером_
 Если это событие является резервной копией, этот флаг содержит одно из следующих возможных значений:
 
 
-| <p>Имя</p> | <p>Значение</p> | 
+| <p>Название</p> | <p>Значение</p> | 
 |-------------|--------------|
 | <p>Потоковая Архивация</p> | <p>0 (ноль)</p> | 
 | <p>Резервное копирование моментальных снимков</p> | <p>1</p> | 
@@ -123,7 +123,11 @@ _**Применимо к:** Windows | Windows Сервером_
 ### <a name="requirements"></a>Требования
 
 
-| | | <p><strong>Клиент</strong></p> | <p>требуется Windows Vista.</p> | | <p><strong>Сервер</strong></p> | <p>требуется Windows Server 2008.</p> | | <p><strong>Header</strong></p> | <p>Объявлено в ESENT. h.</p> | 
+| Требование | Применение |
+|------------|----------|
+| <p><strong>Клиент</strong></p> | <p>требуется Windows Vista.</p> | 
+| <p><strong>Server</strong></p> | <p>требуется Windows Server 2008.</p> | 
+| <p><strong>Header</strong></p> | <p>Объявлено в ESENT. h.</p> | 
 
 
 

@@ -6,12 +6,12 @@ keywords:
 - Код COM раздела реестра AppID
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b283a9cc47907cf418c2d7d6d613d151c7e5c5e6
-ms.sourcegitcommit: 5f33645661bf8c825a7a2e73950b1f4ea0f1cd82
+ms.openlocfilehash: da7eb6e15c858a2bf0ecbb1b71589a8d7c471f317ac5deca792f2d07b680bcf8
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "104413873"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119859714"
 ---
 # <a name="appid-key"></a>Ключ AppID
 
@@ -39,15 +39,15 @@ ms.locfileid: "104413873"
 | [**преферредсервербитнесс**](preferredserverbitness.md) | Задает предпочтительную архитектуру (32-бит или 64-бит) для этого COM-сервера.                                                                                                                                         |
 | [**ремотесервернаме**](remoteservername.md)             | Настраивает Клиент для запроса запуска объекта на определенном компьютере при вызове функции активации, для которой не указана структура [**косерверинфо**](/windows/win32/api/objidlbase/ns-objidlbase-coserverinfo) .              |
 | [**ротфлагс**](rotflags.md)                             | Управляет регистрацией сервера COM в работающей таблице объектов (ROT).                                                                                                                                    |
-| [**Запуск**](runas.md)                                   | Настраивает класс для запуска от имени определенной учетной записи пользователя при активации удаленным клиентом без записи в качестве приложения службы.                                                                       |
+| [**RunAs**](runas.md)                                   | Настраивает класс для запуска от имени определенной учетной записи пользователя при активации удаленным клиентом без записи в качестве приложения службы.                                                                       |
 | [**сервицепараметерс**](serviceparameters.md)           | Указывает параметры командной строки, передаваемые в объект, установленный для использования COM через значение реестра [**LocalService**](localservice.md) .                                                       |
 | [**срптрустлевел**](srptrustlevel.md)                   | Задает уровень доверия политики ограниченного использования программ (SRP) для приложений.                                                                                                                                        |
 
 
 
- 
+ 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Идентификаторы AppID сопоставлены с исполняемыми объектами и классами с помощью двух различных механизмов:
 
@@ -60,12 +60,12 @@ ms.locfileid: "104413873"
 
 ```
 HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AppID
-   {MyGuid}
-      AuthenticationLevel = 00000001
-   MyClient.exe
-      AppID = {MyGUID}
+   {MyGuid}
+      AuthenticationLevel = 00000001
+   MyClient.exe
+      AppID = {MyGUID}
 ```
 
- 
+ 
 
- 
+ 

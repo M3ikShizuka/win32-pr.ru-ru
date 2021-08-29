@@ -3,7 +3,7 @@ title: Код уведомления NM_CUSTOMDRAW (Коммктрл. h)
 description: Сообщает родительскому окну элемента управления о пользовательских операциях рисования. Этот код уведомления отправляется в виде \_ сообщения WM notify.
 ms.assetid: 2ca51ee0-4431-45c0-880c-a8b74318d8a9
 keywords:
-- NM_CUSTOMDRAW кода уведомления элементы управления Windows
+- NM_CUSTOMDRAW кода уведомления Windows элементы управления
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d5f91f5197c7ecaf0ae4356fe00c48221a83ebd7
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: ff8f1a7fe570d88ce583bc0d0aaa34576f8c440836060904d182559e46c3950a
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104489048"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119078918"
 ---
 # <a name="nm_customdraw-notification-code"></a>\_Код уведомления кустомдрав (NM)
 
@@ -65,11 +65,11 @@ NM_CUSTOMDRAW
 
 
 
-| Control                     | Пользовательская структура рисования                    |
+| Элемент                     | Пользовательская структура рисования                    |
 |-----------------------------|------------------------------------------|
 | Главная панель, линейка и заголовок | [**нмкустомдрав**](/windows/win32/api/commctrl/ns-commctrl-nmcustomdraw)     |
 | Представление списка                   | [**нмлвкустомдрав**](/windows/win32/api/commctrl/ns-commctrl-nmlvcustomdraw) |
-| Всплывающая подсказка                     | [**нмтткустомдрав**](/windows/win32/api/commctrl/ns-commctrl-nmttcustomdraw) |
+| Подсказка                     | [**нмтткустомдрав**](/windows/win32/api/commctrl/ns-commctrl-nmttcustomdraw) |
 | Представление в виде дерева                   | [**нмтвкустомдрав**](/windows/win32/api/commctrl/ns-commctrl-nmtvcustomdraw) |
 | Панель инструментов                     | [**нмтбкустомдрав**](/windows/desktop/api/Commctrl/ns-commctrl-nmtbcustomdraw) |
 
@@ -101,7 +101,7 @@ NM_CUSTOMDRAW
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 В настоящее время следующие элементы управления поддерживают пользовательскую функциональность рисования: заголовок, представление списка, панель инструментов, подсказка, TrackBar и представление в виде дерева. Пользовательская прорисовка также поддерживается для элементов управления "Кнопка", если имеется манифест приложения, чтобы гарантировать доступность Comctl32.dll версии 6.
 
@@ -113,8 +113,8 @@ NM_CUSTOMDRAW
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
 | Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
