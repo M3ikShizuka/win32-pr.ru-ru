@@ -4,12 +4,12 @@ ms.assetid: 882e03d4-5574-4b0f-b965-63ff9dbb7852
 title: Фильтр ТВ-звука
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 059898b0a342dd4a5bd02d2ced1fe9dd25402921
-ms.sourcegitcommit: 63753fcfb0afbbe5ec283fb8316e62c2dc950f66
+ms.openlocfilehash: 847d718222d6ff43a85c8671027ff640094d5b2838e1c549ffcef5b78dc75cff
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "107909212"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119329504"
 ---
 # <a name="tv-audio-filter"></a>Фильтр ТВ-звука
 
@@ -37,7 +37,7 @@ ms.locfileid: "107909212"
 
 <dl> <dt>
 
-[Фильтры DirectShow](directshow-filters.md)
+[DirectShow Фильтрующ](directshow-filters.md)
 </dt> </dl>
 
  

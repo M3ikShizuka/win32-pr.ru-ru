@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Nmapi.dll
-ms.openlocfilehash: 323e6334c90358dd8725f3f9092142275cfe491a
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 8a438327a6c1e160ea989434666ae535660d9b5ef26fc9289a3afa9d80d3f63e
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104542362"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120074364"
 ---
 # <a name="setccinstptr-function"></a>Функция СеткЦинстптр
 
@@ -54,7 +54,7 @@ VOID WINAPI SetCCInstPtr(
 
 Эта функция используется для сохранения указателя на блок, который был выделен с помощью функции **кчеапаллок** . Каждый синтаксический анализатор может устанавливать один экземпляр данных для записи.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -68,7 +68,7 @@ VOID WINAPI SetCCInstPtr(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

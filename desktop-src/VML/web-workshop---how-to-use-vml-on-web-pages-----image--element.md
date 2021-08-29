@@ -1,6 +1,6 @@
 ---
 title: Использование элемента Image
-description: В этой статье описывается использование элемента Image в VML — функции, которая является устаревшей в Windows Internet Explorer 9.
+description: в этой статье описывается использование элемента Image в VML, который является устаревшим в Windows Internet Explorer 9.
 ms.assetid: 444c0b21-35f0-4e2d-ab6d-87a88229d9d2
 keywords:
 - Веб-семинар, элемент Image
@@ -46,19 +46,19 @@ keywords:
 - атрибут свойства гаммы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 572acef76afc42e02f476ca1825ef2541f596380
-ms.sourcegitcommit: 5d4e99f4c8f42f5f543e52cb9beb9fb13ec56c5f
+ms.openlocfilehash: 76e770f4c639f75e683d4f8f612263bc06a0f5f09cef769dbaf241541605d598
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112407807"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119513003"
 ---
 # <a name="using-the-image-element"></a>Использование элемента Image
 
-В этом разделе описывается функция VML, которая является устаревшей в Windows Internet Explorer 9. Веб-страницы и приложения, использующие VML, должны быть перенесены в формат SVG или другие широко поддерживаемые стандарты.
+в этом разделе описывается функция VML, которая является устаревшей по отношению к Windows Internet Explorer 9. Веб-страницы и приложения, использующие VML, должны быть перенесены в формат SVG или другие широко поддерживаемые стандарты.
 
 > [!Note]  
-> По состоянию на Декабрь 2011 этот раздел был архивирован. В результате он больше не поддерживается. Дополнительные сведения см. в разделе [архивированное содержимое](/previous-versions/windows/internet-explorer/ie-developer/). Сведения, рекомендации и рекомендации по текущей версии Windows Internet Explorer см. в [центре разработчиков Internet Explorer](https://msdn.microsoft.com/ie/).
+> По состоянию на Декабрь 2011 этот раздел был архивирован. В результате он больше не поддерживается. Дополнительные сведения см. в разделе [архивированное содержимое](/previous-versions/windows/internet-explorer/ie-developer/). сведения, рекомендации и рекомендации относительно текущей версии Windows Internet explorer см. в [центре разработчиков internet explorer](https://msdn.microsoft.com/ie/).
 
  
 

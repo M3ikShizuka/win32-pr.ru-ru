@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Nmapi.dll
-ms.openlocfilehash: 39d51df93a04efa8631fcfbd583075d7e3500bff
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 283cab8580e3c456a3d75727ab55f2f61dc623d91b593559aa0eb2ec07e4b26e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105673199"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119890784"
 ---
 # <a name="formatpropertyinstance-function"></a>Функция Форматпропертинстанце
 
@@ -56,7 +56,7 @@ DWORD WINAPIV FormatPropertyInstance(
 
 Если функция не выполнена, возвращаемое значение является кодом ошибки из Нмерр. h.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Библиотека DLL средства синтаксического анализа косвенно вызывает функцию **форматпропертинстанце** , если универсальный модуль форматирования требуется для форматирования данных, отображаемых в области сведений пользовательского интерфейса сетевой монитор. Чтобы вызвать **форматпропертинстанце** , укажите его в элементе **инстанцедата** структуры [PROPERTYINFO](propertyinfo.md) при определении свойства.
 
@@ -67,7 +67,7 @@ DWORD WINAPIV FormatPropertyInstance(
 
 Дополнительные сведения и пример реализации [форматпропертиес](formatproperties.md)см. в разделе [Реализация форматпропертиес](implementing-formatproperties.md). Дополнительные сведения о форматировании универсального модуля форматирования для различных типов данных см. в разделе [Общие выходные данные модуля форматирования](generic-formatter-output.md).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -81,7 +81,7 @@ DWORD WINAPIV FormatPropertyInstance(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

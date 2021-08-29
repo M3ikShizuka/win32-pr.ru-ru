@@ -4,12 +4,12 @@ ms.assetid: c3bef3cd-5e3c-42c5-850f-b4cb00c414bd
 title: Создание групп и композиций
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d2808c2d096b52ad73da7d518d703bc25103751d
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: b6d0fa9812c3f7219882cc93be14f7ff4c0b1a8ae39f96d6798bdc93705cda8f
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "103895149"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119908534"
 ---
 # <a name="creating-groups-compositions-and-tracks"></a>Создание групп и композиций
 
@@ -64,7 +64,7 @@ pComp->VTrackInsBefore(pTrackObj, 0);
 
 Чтобы навсегда удалить объект из временной шкалы, вызовите [**иамтимелинеобж:: RemoveAll**](iamtimelineobj-removeall.md) для объекта. Этот метод удаляет объект и все его дочерние элементы. Чтобы удалить объект с целью его повторного добавления в другое место на временной шкале, вызовите метод [**иамтимелинеобж:: reinsert**](iamtimelineobj-remove.md) . В отличие от **RemoveAll**, этот метод не удаляет дочерние объекты объекта. Чтобы удалить все объекты с временной шкалы, вызовите [**иамтимелине:: клеараллграупс**](iamtimeline-clearallgroups.md).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

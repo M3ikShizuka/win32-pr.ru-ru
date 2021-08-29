@@ -4,12 +4,12 @@ ms.assetid: c328743c-a69b-431e-8a05-0e140aad9b4d
 title: Событие Мелиценсеаккуиситионстарт (Мфобжектс. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 914d2580c95cf40986a844a994c1e284c5ad9e22
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: ea326ff23c4d546f0b692a813ef92ccfce8e3cc97320a8129daa9cedc4867bfc
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105683132"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119228974"
 ---
 # <a name="melicenseacquisitionstart-event"></a>Событие Мелиценсеаккуиситионстарт
 
@@ -27,18 +27,18 @@ ms.locfileid: "105683132"
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 По завершении приобретения лицензии обработчик политики вызывает событие [мелиценсеаккуиситионкомплетед](melicenseacquisitioncompleted.md) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                                           |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                                     |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                           |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                                     |
 | Header<br/>                   | <dl> <dt>Мфобжектс. h (включение Мфидл. h)</dt> </dl> |
 
 

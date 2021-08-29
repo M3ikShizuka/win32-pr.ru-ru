@@ -17,12 +17,12 @@ api_type:
 api_location:
 - ESENT.DLL
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: f459d98ee2cc3c0bb1b57eb5cd4fb630d076836b
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.openlocfilehash: 867d96561459d009be8464f431307bfa373e8782
+ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122468981"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122983427"
 ---
 # <a name="jetgeterrorinfow-function"></a>Функция Жетжетерроринфов
 
@@ -99,5 +99,12 @@ JET_ERR JET_API JetGetErrorInfoW(
 ### <a name="requirements"></a>Требования
 
 
-| | | <p><strong>Клиент</strong></p> | <p>Требуется Windows 8.</p> | | <p><strong>Сервер</strong></p> | <p>требуется Windows 8 Server.</p> | | <p><strong>Header</strong></p> | <p>Объявлено в ESENT. h.</p> | | <p><strong>Библиотека</strong></p> | <p>Используйте ESENT. lib.</p> | | <p><strong>КОМПОНОВКИ</strong></p> | <p>Требуется ESENT.dll.</p> | | <p><strong>Юникод</strong></p> | <p>Примечание. реализуется только <strong>жетжетерроринфов</strong> (Unicode). Этот API не имеет версию A (ANSI).</p> | 
+| Требование | Применение |
+|------------|----------|
+| <p><strong>Клиент</strong></p> | <p>Требуется Windows 8.</p> | 
+| <p><strong>Server</strong></p> | <p>требуется Windows 8 Server.</p> | 
+| <p><strong>Header</strong></p> | <p>Объявлено в ESENT. h.</p> | 
+| <p><strong>Библиотека</strong></p> | <p>Используйте ESENT. lib.</p> | 
+| <p><strong>КОМПОНОВКИ</strong></p> | <p>Требуется ESENT.dll.</p> | 
+| <p><strong>Юникод</strong></p> | <p>Примечание. реализуется только <strong>жетжетерроринфов</strong> (Unicode). Этот API не имеет версию A (ANSI).</p> | 
 

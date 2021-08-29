@@ -4,12 +4,12 @@ ms.assetid: b58d0a6e-ecae-48a1-a3af-d4246caa272b
 title: Использование кэша учетных данных
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d512d0bab8f45f50a587e3c8eda2a73c4832685f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 603078c0dce4c3cd335a3efed57c9d698a372bca6d77e6b76631843be6307eb3
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105719420"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119034582"
 ---
 # <a name="using-the-credential-cache"></a>Использование кэша учетных данных
 
@@ -60,7 +60,7 @@ hr = MFCreateCredentialCache(&pCredentialCache);
 
     Чтобы удалить сведения из реестра, вызовите метод [**Credential**](/windows/desktop/api/mfidl/nf-mfidl-imfnetcredentialcache-getcredential) , чтобы получить объект учетных данных, а затем вызовите [**сетусероптион**](/windows/desktop/api/mfidl/nf-mfidl-imfnetcredentialcache-setuseroptions) и задайте для *двоптионсфлагс* мфнет \_ Credential \_ не \_ Cache.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

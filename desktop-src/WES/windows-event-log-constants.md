@@ -1,6 +1,6 @@
 ---
-title: Константы журнала событий Windows (Виневт. h)
-description: В журнале событий Windows определены следующие константы
+title: Windows Константы журнала событий (Виневт. h)
+description: Windows В журнале событий определены следующие константы.
 ms.assetid: d3a4a136-ca33-4dad-95ad-af1be6687843
 topic_type:
 - apiref
@@ -17,16 +17,16 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d592cea0eb1738f5ee04ce53faa9a5fa06c0d52a
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: a7fe5ecd134749e3420b43c621e506930ede982a271652083086175cea1549ea
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104415488"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119620164"
 ---
-# <a name="windows-event-log-constants"></a>Константы журнала событий Windows
+# <a name="windows-event-log-constants"></a>Windows Константы журнала событий
 
-В журнале событий Windows определены следующие константы:
+Windows В журнале событий определены следующие константы.
 
 <dl> <dt>
 
@@ -114,9 +114,9 @@ ms.locfileid: "104415488"
 
 | Требование | Значение |
 |-------------------------------------|-------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                      |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                |
-| Header<br/>                   | <dl> <dt>Виневт. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                      |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                |
+| Заголовок<br/>                   | <dl> <dt>Виневт. h</dt> </dl> |
 
 
 

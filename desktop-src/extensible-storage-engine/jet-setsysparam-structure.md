@@ -15,23 +15,23 @@ api_type:
 - COM
 api_location: ''
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 0e88795bb3ee966bf2ad7fa50cc7d2180d7264bf
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 7309d803421d4bf9221ba1d968d5034f940b016f
+ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104342992"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122983777"
 ---
 # <a name="jet_setsysparam-structure"></a>Структура JET_SETSYSPARAM
 
 
-_**Применимо к:** Windows | Windows Server_
+_**Применимо к:** Windows | Windows Сервером_
 
 ## <a name="jet_setsysparam-structure"></a>Структура JET_SETSYSPARAM
 
 Массив структур **JET_SETSYSPARAM** указывает конкретный набор глобальных системных параметров, которые задаются в качестве аргумента при использовании функции [жетенаблемултиинстанце](./jetenablemultiinstance-function.md) .
 
-**Windows XP:** Эта структура появилась в Windows XP.
+**Windows XP:** эта структура появилась в Windows XP.
 
 ```cpp
     typedef struct {
@@ -48,7 +48,7 @@ _**Применимо к:** Windows | Windows Server_
 
 Идентификатор системного параметра, который будет установлен.
 
-Полный список системных параметров и их свойств см. в разделе [расширяемые системные параметры](./extensible-storage-engine-system-parameters.md) подсистемы хранилища.
+полный список системных параметров и их свойств см. в разделе [расширенные параметры системы служба хранилища Engine](./extensible-storage-engine-system-parameters.md) .
 
 **lParam**
 
@@ -64,35 +64,19 @@ _**Применимо к:** Windows | Windows Server_
 
 ### <a name="requirements"></a>Требования
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>Клиент</strong></p></td>
-<td><p>Требуется Windows Vista, Windows XP или Windows 2000 Professional.</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Server</strong></p></td>
-<td><p>Требуется Windows Server 2008, Windows Server 2003 или Windows 2000 Server.</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Header</strong></p></td>
-<td><p>Объявлено в ESENT. h.</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Юникод</strong></p></td>
-<td><p>Реализуется как <strong>JET_ SETSYSPARAM_W</strong> (Юникод) и <strong>JET_ SETSYSPARAM_A</strong> (ANSI).</p></td>
-</tr>
-</tbody>
-</table>
+
+| Требование | Применение |
+|------------|----------|
+| <p><strong>Клиент</strong></p> | <p>требуется Windows Vista, Windows XP или Windows 2000 Professional.</p> | 
+| <p><strong>Server</strong></p> | <p>требуется Windows server 2008, Windows server 2003 или сервер Windows 2000.</p> | 
+| <p><strong>Header</strong></p> | <p>Объявлено в ESENT. h.</p> | 
+| <p><strong>Юникод</strong></p> | <p>Реализуется как <strong>JET_ SETSYSPARAM_W</strong> (Юникод) и <strong>JET_ SETSYSPARAM_A</strong> (ANSI).</p> | 
+
 
 
 ### <a name="see-also"></a>См. также:
 
-[Параметры расширяемой системы подсистемы хранилища](./extensible-storage-engine-system-parameters.md)  
+[расширяемые параметры системы служба хранилища Engine](./extensible-storage-engine-system-parameters.md)  
 [JET_API_PTR](./jet-api-ptr.md)  
 [JET_ERR](./jet-err.md)  
 [жетенаблемултиинстанце](./jetenablemultiinstance-function.md)  

@@ -14,16 +14,16 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 32e98a5deb0f925fbf3b27c21302060bbe4869b4
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: a12539e0e04422fca2f759d751c37e7a8d36828afe8017ba9a058bf0d850990d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104136370"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120073834"
 ---
 # <a name="rtmgetfirstroute-function"></a>Функция Ртмжетфирстрауте
 
-\[Этот API был заменен API [диспетчера таблиц маршрутизации версии 2](about-routing-table-manager-version-2.md) и не будет доступен за пределами Windows Server 2003. Приложения должны использовать API диспетчера таблиц маршрутизации версии 2.\]
+\[этот api был заменен api [диспетчера таблиц маршрутизации версии 2](about-routing-table-manager-version-2.md) и не будет доступен за пределами Windows Server 2003. Приложения должны использовать API диспетчера таблиц маршрутизации версии 2.\]
 
 Функция **ртмжетфирстрауте** возвращает первый маршрут из указанного подмножества маршрутов в таблице.
 
@@ -87,7 +87,7 @@ DWORD RtmGetFirstRoute(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Маршруты возвращаются в следующем порядке:
 
@@ -98,7 +98,7 @@ DWORD RtmGetFirstRoute(
 
 Эта функция менее эффективна, чем соответствующая функция-обработчик перечисления, [**ртменумератежетнекстрауте**](rtmenumerategetnextroute.md).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -107,13 +107,13 @@ DWORD RtmGetFirstRoute(
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                          |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                               |
 | Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                     |
-| Header<br/>                   | <dl> <dt>RTM. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>RTM. h</dt> </dl>   |
 | Библиотека<br/>                  | <dl> <dt>RTM. lib</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Rtm.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

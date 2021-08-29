@@ -3,7 +3,7 @@ title: Событие StatusChange объекта Аксвиндовсмедиа
 description: Событие StatusChange возникает при изменении значения свойства Status. | Событие StatusChange объекта Аксвиндовсмедиаплайер
 ms.assetid: 5295fccb-7be0-46d3-85ba-b481e575d393
 keywords:
-- Событие StatusChange в проигрывателе Windows Media объекта Аксвиндовсмедиаплайер
+- событие StatusChange объекта аксвиндовсмедиаплайер проигрыватель Windows Media
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - Assembly
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d3ef3224afadb1f98a3067913a8beb095d4e46e5
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 1a2c454948adba5c53fc6d0cfaf7ae922e1466bcce28d4ef583ac241c0877c85
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105695038"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119509324"
 ---
 # <a name="statuschange-event-of-the-axwindowsmediaplayer-object"></a>Событие StatusChange объекта Аксвиндовсмедиаплайер
 
@@ -43,19 +43,19 @@ Private Sub player_StatusChange(
 
 Это событие не содержит данных.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |----------------------|----------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/>   | Проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                          |
+| Версия<br/>   | проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                          |
 | Пространство имен<br/> | **аксвмплиб**<br/>                                                                                                    |
 | Сборка<br/>  | <dl> <dt>AxInterop.WMPLib.dll (AxInterop.WMPLib.dll.dll)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

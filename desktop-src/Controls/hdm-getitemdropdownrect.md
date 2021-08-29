@@ -3,7 +3,7 @@ title: Сообщение HDM_GETITEMDROPDOWNRECT (Коммктрл. h)
 description: Возвращает ограничивающий прямоугольник кнопки разворачивающегося элемента заголовка со стилем ХДФ \_ SPLITBUTTON. Отправляйте это сообщение явным образом или с помощью \_ макроса Жетитемдропдовнрект заголовка.
 ms.assetid: d7188dfb-4ffa-4641-b210-2c2ec480ca13
 keywords:
-- Элементы управления Windows для HDM_GETITEMDROPDOWNRECT сообщений
+- элементы управления Windows сообщений HDM_GETITEMDROPDOWNRECT
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b86f3df8de5224e79ca4e15ea18409e13972ca5d
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: f02fa02dd04720a130bf6303927fed64aadc53f4f90acc70a60e2c0cf7afd7ae
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104071656"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120047174"
 ---
 # <a name="hdm_getitemdropdownrect-message"></a>\_Сообщение ЖЕТИТЕМДРОПДОВНРЕКТ HDM
 
@@ -47,23 +47,23 @@ ms.locfileid: "104071656"
 
 Возвращает **значение true** , если успешно, или **false** в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Элемент заголовка должен иметь Style **ХДФ \_ SPLITBUTTON**.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

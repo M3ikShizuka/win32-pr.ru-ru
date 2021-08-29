@@ -1,6 +1,6 @@
 ---
-title: Типы данных сборщика событий Windows (Евколл. h)
-description: Типы данных для сборщика событий Windows используются как типы переменных объектов подписки на события, типы параметров функций и типы возвращаемых функций.
+title: Windows Типы данных сборщика событий (Евколл. h)
+description: типы данных для сборщика событий Windows используются как типы переменных объектов подписки на события, типы параметров функций и типы возвращаемых функций.
 ms.assetid: b78bdaf8-e034-40fe-acf8-632313e4fd94
 ms.tgt_platform: multiple
 keywords:
@@ -8,16 +8,16 @@ keywords:
 - EC_OBJECT_ARRAY_PROPERTY_HANDLE
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5ccec141317644aa091eac44033b87b9e4495ddc
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: a8d0a3a0887fccebbd5cfb45042eaa59895febfa1001af93eed1161e9d33f8b0
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105691759"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119620574"
 ---
-# <a name="windows-event-collector-data-types"></a>Типы данных сборщика событий Windows
+# <a name="windows-event-collector-data-types"></a>Windows Типы данных сборщика событий
 
-Типы данных для сборщика событий Windows используются как типы переменных объектов подписки на события, типы параметров функций и типы возвращаемых функций.
+типы данных для сборщика событий Windows используются как типы переменных объектов подписки на события, типы параметров функций и типы возвращаемых функций.
 
 
 ```C++
@@ -51,7 +51,7 @@ typedef HANDLE EC_OBJECT_ARRAY_PROPERTY_HANDLE;
 |-------------------------------------|-------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                            |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                      |
-| Header<br/>                   | <dl> <dt>Евколл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Евколл. h</dt> </dl> |
 
 
 

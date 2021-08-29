@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: a3f6be7d09149f651bce8d1042b7f3e3a5dc9307
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: f0b7830b63e92bea8fa077f6764c080e312c3b820a399129e34887ffe1f9c5c6
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108084582"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120076024"
 ---
 # <a name="cunknownm_cref-member"></a>Элемент cref Кункновн:: m \_
 
@@ -40,13 +40,13 @@ LONG m_cRef;
 
 Используйте эту переменную члена при переопределении метода [**нонделегатингаддреф**](cunknown-nondelegatingaddref.md) или [**нонделегатингрелеасе**](cunknown-nondelegatingrelease.md) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Комбасе. h (включение Streams. h)</dt> </dl>                                                                                   |
+| Заголовок<br/>  | <dl> <dt>комбасе. h (включает Потоки. h)</dt> </dl>                                                                                   |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 

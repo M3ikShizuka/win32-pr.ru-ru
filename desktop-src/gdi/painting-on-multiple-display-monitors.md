@@ -4,12 +4,12 @@ ms.assetid: 2f03f612-293a-4a42-a13b-1e08e49d9e54
 title: Рисование на нескольких мониторах монитора
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 09b6a3e3699000399c61e641137a951ed321fd9c
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 06e3763291eaa94fdc606e42ea2b3b6e5ead564a5e3bc39b246ad6ac5a206a26
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103811908"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119037702"
 ---
 # <a name="painting-on-multiple-display-monitors"></a>Рисование на нескольких мониторах монитора
 

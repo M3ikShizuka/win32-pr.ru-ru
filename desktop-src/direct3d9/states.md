@@ -4,12 +4,12 @@ ms.assetid: vs|directx_sdk|~\states.htm
 title: Состояния (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 646334654052ebe19d01ed4a20984966712a8b31
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 27a268c442e028d14133131fc691486dccfa84102a6d73be071e8b7d415ece0d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "104416504"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119856134"
 ---
 # <a name="states-direct3d-9"></a>Состояния (Direct3D 9)
 
@@ -17,7 +17,7 @@ ms.locfileid: "104416504"
 
 Блоки состояний — это удобный механизм для сохранения и восстановления состояния. См. раздел [State Blocks Save and Restore State (Direct3D 9)](state-blocks-save-and-restore-state.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

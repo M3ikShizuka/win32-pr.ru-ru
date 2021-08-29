@@ -4,12 +4,12 @@ ms.assetid: 9c4ed127-a88f-4946-9d7c-f77899152c31
 title: Получение контекста частного устройства просмотра
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ed679ecadd694cd8781d0de8b4409fde15d22b38
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 0ab21ced9c9c3beb1c4133d78271d24389b40f144156c60b1085679e922256ad
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103811921"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119469154"
 ---
 # <a name="obtaining-a-private-display-device-context"></a>Получение контекста частного устройства просмотра
 

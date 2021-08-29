@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: ba394fb13fd98793401b29e6343ef4fa9ff0194b7a86f22dda1e58439737b34b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 01e8fccbf461befd8016d813098a542a98cdc858
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119119868"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122887220"
 ---
 # <a name="load-directx-hlsl-texture-object"></a>Load (объект текстуры DirectX HLSL)
 
@@ -124,7 +124,7 @@ ms.locfileid: "119119868"
 
 ## <a name="return-value"></a>Возвращаемое значение
 
-Возвращаемый тип соответствует типу в объявлении *объекта* . Например, Объект Texture2D, объявленный как "Texture2d <uint4> митекстуре;", имеет возвращаемое значение типа **uint4**.
+Возвращаемый тип соответствует типу в объявлении *объекта* . Например, Объект Texture2D, объявленный как "Texture2d &lt; uint4 &gt; митекстуре;", имеет возвращаемое значение типа **uint4**.
 
 ## <a name="minimum-shader-model"></a>Минимальная модель шейдера
 

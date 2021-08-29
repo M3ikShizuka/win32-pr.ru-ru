@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Ошибки с 281 по 290
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d62318d46ccc6096cafcad30d3f66bd51afd5002
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: ce583fbc6817d0b4fee0b69345089f04c7adac0d
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104263930"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122887225"
 ---
 # <a name="errors-281-through-290"></a>Ошибки с 281 по 290
 
@@ -24,7 +24,7 @@ ms.locfileid: "104263930"
 
 <dl> <dt>
 
-<span id="_282__Fatal_____fileName___line____Syntax_error._Last_token_read_is__token__"></span><span id="_282__fatal_____filename___line____syntax_error._last_token_read_is__token__"></span><span id="_282__FATAL_____FILENAME___LINE____SYNTAX_ERROR._LAST_TOKEN_READ_IS__TOKEN__"></span>**<282, Неустранимая>: " <fileName> : <строка \#>: синтаксическая ошибка. Последний прочитанный токен — <token> "**
+<span id="_282__Fatal_____fileName___line____Syntax_error._Last_token_read_is__token__"></span><span id="_282__fatal_____filename___line____syntax_error._last_token_read_is__token__"></span><span id="_282__FATAL_____FILENAME___LINE____SYNTAX_ERROR._LAST_TOKEN_READ_IS__TOKEN__"></span>**<282, Неустранимая>: " &lt; имя_файла &gt; : <строка \#>: синтаксическая ошибка. Последний прочитанный токен является &lt; токеном &gt; "**
 </dt> <dd>
 
 Эта ошибка возникает, когда компилятор знает, что произошла синтаксическая ошибка, но не может предоставить более конкретные сведения о синтаксисе ошибки.
@@ -35,7 +35,7 @@ ms.locfileid: "104263930"
 
 <dl> <dt>
 
-<span id="_283__Fatal_____fileName___line_____Unrecognized_character__character__in_input_"></span><span id="_283__fatal_____filename___line_____unrecognized_character__character__in_input_"></span><span id="_283__FATAL_____FILENAME___LINE_____UNRECOGNIZED_CHARACTER__CHARACTER__IN_INPUT_"></span>**<283, Неустранимая>: " <fileName> : <line \# \#>: нераспознанный символ <character> во входных данных"**
+<span id="_283__Fatal_____fileName___line_____Unrecognized_character__character__in_input_"></span><span id="_283__fatal_____filename___line_____unrecognized_character__character__in_input_"></span><span id="_283__FATAL_____FILENAME___LINE_____UNRECOGNIZED_CHARACTER__CHARACTER__IN_INPUT_"></span>**<283, Неустранимая>: " &lt; имя файла &gt; : <строка \# \#>: нераспознанный символ &lt; &gt; во входных данных"**
 </dt> <dd>
 
 Во входных данных обнаружен нераспознанный символ. Как правило, нераспознанные символы пропускаются, и это сообщение об ошибке сообщает о первом нераспознанном символе.

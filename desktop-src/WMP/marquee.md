@@ -3,18 +3,18 @@ title: Marquee
 description: Marquee
 ms.assetid: 2715732a-25cc-4ba9-9aa6-181ebb9e1d1c
 keywords:
-- Обложки мобильных устройств проигрывателя Windows Media, области
+- проигрыватель Windows Media Обложки для мобильных устройств, области
 - обложки, области
 - Справочник по обложкам, бегущим строки
 - области в обложках, о
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7efa2db2c6079d47d207240b18a57ebbf7e41ae1
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: d13d733f0cbf76cf6acdb29e57ce78f783ffd99933455d360a34f79dff6d9143
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104411182"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119508452"
 ---
 # <a name="marquee"></a>Marquee
 
@@ -36,9 +36,9 @@ ms.locfileid: "104411182"
 
 
 > [!Note]  
-> Для обеспечения совместимости с версиями проигрывателя Windows Media Mobile, более ранними, чем проигрыватель Windows Media 10 Mobile, использование "Маркуис" в файле определения обложки по-прежнему считается действительным.
+> чтобы обеспечить совместимость с версиями проигрыватель Windows Media mobile старше, чем проигрыватель Windows Media 10 mobile, использование "маркуис" в файле определения обложки по-прежнему считается действительным.
 
- 
+ 
 
 Затем необходимо добавить одну или несколько строк, содержащих сведения о каждом из окон «бегущая строка» в обложке.
 
@@ -70,16 +70,16 @@ ms.locfileid: "104411182"
 
 Пример кода области см. в [разделе Sample Marquee](sample-marquee-section.md).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [**Справочник по обложкам**](skin-reference.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

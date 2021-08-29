@@ -13,19 +13,19 @@ api_type: ''
 api_location: ''
 topic_type:
 - kbArticle
-ms.openlocfilehash: bf3cf21886797a551ab61e0f259b482c08676933
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: a3197339b755db93ac36d6d0cd8ba163ee255a67c2473a1ab650c73b1667d0e5
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104541394"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119449894"
 ---
 # <a name="span-idwwan_profile_v4root_elementsspanmobile-broadband-profile-schema-v4-elements"></a><span id="WWAN_profile_v4.root_elements"></span>Элементы схемы профиля Mobile широкополосной сети v4
 
 В следующем списке перечислены допустимые иерархии для этой схемы, начиная с самого внешнего элемента (Document) в верхней части.
 
 -   [MBNProfileExt](element-mbnprofileext.md)
-    -   [имя](element-name.md);
+    -   [Имя](element-name.md)
     -   [Описание](element-description.md)
     -   [иконфилепас](element-iconfilepath.md)
     -   [IsDefault](element-isdefault.md)
@@ -65,7 +65,7 @@ ms.locfileid: "104541394"
         -   [MmscPort](element-mmscport.md)
         -   [MmsMaximumMessageSize](element-mmsmaximummessagesize.md)
 -   [ModemDMConfigProfile](element-modemdmconfigprofile.md)
-    -   [Name](element-1-name.md)
+    -   [Имя](element-1-name.md)
     -   [симикЦид](element-1-simiccid.md)
     -   [апнид](element-1-apnid.md)
     -   [оемконнектионид](element-oemconnectionid.md)

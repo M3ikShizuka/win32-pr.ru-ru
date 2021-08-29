@@ -1,19 +1,19 @@
 ---
-description: Задает режим кэша GATT Bluetooth для запроса.
+description: задает Bluetooth режим кэша Gatt для запроса.
 ms.assetid: 4dedc16b-c08d-4a61-88c9-67a3e50b21c7
 title: System. Devices. Аепсервице. Bluetooth. Гаттсервице. CacheMode
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 36fc5814361a866fe18fddbe78e2d2572c222ddf
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 225caaa1586acf9cea26f05e44ffb1ff1bb901b0751982879e6ba50659439b83
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104080962"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119885784"
 ---
 # <a name="systemdevicesaepservicebluetoothgattservicecachemode"></a>System. Devices. Аепсервице. Bluetooth. Гаттсервице. CacheMode
 
-Задает режим кэша GATT Bluetooth для запроса.
+задает Bluetooth режим кэша Gatt для запроса.
 
 ## <a name="windows-10-version-1511"></a>Windows 10 версии 1511
 
@@ -31,11 +31,11 @@ propertyDescription
       IsInnate = true
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

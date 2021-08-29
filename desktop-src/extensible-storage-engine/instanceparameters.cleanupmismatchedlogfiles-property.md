@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 0e80bb8877335e26cb233a09b2fa3ec3a6f12615
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: fe1b051819042728836f48edcdc46b01e800d34710f2d454480413a0aa19ac3a
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104155403"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119039442"
 ---
 # <a name="instanceparameterscleanupmismatchedlogfiles-property"></a>Инстанцепараметерс. Клеанупмисматчедлогфилес, свойство
 
@@ -64,7 +64,7 @@ public bool CleanupMismatchedLogFiles { get; set; }
 
 Тип: [System. Boolean](/dotnet/api/system.boolean)  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 #### <a name="reference"></a>Справочник
 

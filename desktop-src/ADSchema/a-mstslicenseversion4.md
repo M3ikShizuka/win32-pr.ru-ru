@@ -14,12 +14,12 @@ api_type:
 - Schema
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7ccc23b583370ef550686905cee5d05289e04ea4
-ms.sourcegitcommit: b77ace27b0432e7cd3863191b11926be032fbe2f
+ms.openlocfilehash: 61cfb9b23f90c26d7b6bbfa0c296c72475463b85dac66df107a9e005bcfec610
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "103893382"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119508294"
 ---
 # <a name="ms-ts-licenseversion4-attribute"></a>Атрибут MS-TS-LicenseVersion4
 
@@ -55,8 +55,8 @@ ms.locfileid: "103893382"
 | Идентификатор ссылки                | \-           |
 | MAPI-Id                | \-           |
 | System-Only            | Неверно        |
-| Является однозначным       | True         |
-| Индексируется             | True         |
+| Является однозначным       | Верно         |
+| Индексируется             | Верно         |
 | В глобальном каталоге      | Неверно        |
 | NT-Security-дескриптор | О:БАГ: BAD: S: |
 | Range-Lower            | 0            |
@@ -76,8 +76,8 @@ ms.locfileid: "103893382"
 | Идентификатор ссылки                | \-           |
 | MAPI-Id                | \-           |
 | System-Only            | Неверно        |
-| Является однозначным       | True         |
-| Индексируется             | True         |
+| Является однозначным       | Верно         |
+| Индексируется             | Верно         |
 | В глобальном каталоге      | Неверно        |
 | NT-Security-дескриптор | О:БАГ: BAD: S: |
 | Range-Lower            | 0            |
@@ -97,8 +97,8 @@ ms.locfileid: "103893382"
 | Идентификатор ссылки                | \-           |
 | MAPI-Id                | \-           |
 | System-Only            | Неверно        |
-| Является однозначным       | True         |
-| Индексируется             | True         |
+| Является однозначным       | Верно         |
+| Индексируется             | Верно         |
 | В глобальном каталоге      | Неверно        |
 | NT-Security-дескриптор | О:БАГ: BAD: S: |
 | Range-Lower            | 0            |

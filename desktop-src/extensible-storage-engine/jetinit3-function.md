@@ -20,12 +20,12 @@ api_type:
 api_location:
 - ESENT.DLL
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 0a0c73343550768a9ccd061c702fae89d562d095
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.openlocfilehash: d63cd0ed883862b727379b6fed3574d26f444eaf
+ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122477910"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122984517"
 ---
 # <a name="jetinit3-function"></a>Функция JetInit3
 
@@ -95,7 +95,14 @@ _**Применимо к:** Windows | Windows Сервером_
 #### <a name="requirements"></a>Требования
 
 
-| | | <p>Клиент</p> | <p>требуется Windows Vista.</p> | | <p>Сервер</p> | <p>требуется Windows Server 2008.</p> | | <p>Заголовок</p> | <p>Объявлено в ESENT. h.</p> | | <p>Библиотека</p> | <p>Использует ESENT. lib.</p> | | <p>DLL</p> | <p>Требуется ESENT.dll.</p> | | <p>Юникод</p> | <p>Реализуется как <strong>JetInit3W</strong> (Юникод) и <strong>JetInit3A</strong> (ANSI).</p> | 
+| Требование | Применение |
+|------------|----------|
+| <p>Клиент</p> | <p>требуется Windows Vista.</p> | 
+| <p>Сервер</p> | <p>требуется Windows Server 2008.</p> | 
+| <p>Заголовок</p> | <p>Объявлено в ESENT. h.</p> | 
+| <p>Библиотека</p> | <p>Использует ESENT. lib.</p> | 
+| <p>DLL</p> | <p>Требуется ESENT.dll.</p> | 
+| <p>Юникод</p> | <p>Реализуется как <strong>JetInit3W</strong> (Юникод) и <strong>JetInit3A</strong> (ANSI).</p> | 
 
 
 

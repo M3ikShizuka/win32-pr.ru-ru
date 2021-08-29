@@ -4,12 +4,12 @@ ms.assetid: d1a25f13-6b47-4be7-927b-814dd6ae81f8
 title: Цвета
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8b954ae5a4af9058bc64568679cf7a942f439fea
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 63648869681302068538a03a2ee261eceab99e3b1ca44f7edbd4c60f8effce87
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103812011"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119469764"
 ---
 # <a name="colors"></a>Цвета
 

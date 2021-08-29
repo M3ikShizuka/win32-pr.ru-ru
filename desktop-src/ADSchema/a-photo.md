@@ -13,12 +13,12 @@ api_type:
 - Schema
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f8003b4e9eacdc0dbe09246492495bc9ca502239
-ms.sourcegitcommit: b77ace27b0432e7cd3863191b11926be032fbe2f
+ms.openlocfilehash: f75ddee66f040a367c67e5707601453547f8448b239b9ee56457afa61da4d0c3
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "104072104"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119325314"
 ---
 # <a name="photo-attribute"></a>атрибут Photo
 
@@ -64,7 +64,7 @@ ms.locfileid: "104072104"
 | Range-Upper            | \-                                                                                    |
 | Search-Flags           | 0x00000000                                                                            |
 | System-Flags           | 0x00000000                                                                            |
-| Классы, используемые в        | [**inetOrgPerson**](c-inetorgperson.md)<br/> [**Нажат**](c-user.md)<br/> |
+| Классы, используемые в        | [**inetOrgPerson**](c-inetorgperson.md)<br/> [**Пользователь**](c-user.md)<br/> |
 
 
 
@@ -85,7 +85,7 @@ ms.locfileid: "104072104"
 | Range-Upper            | \-                                                                                    |
 | Search-Flags           | 0x00000000                                                                            |
 | System-Flags           | 0x00000000                                                                            |
-| Классы, используемые в        | [**inetOrgPerson**](c-inetorgperson.md)<br/> [**Нажат**](c-user.md)<br/> |
+| Классы, используемые в        | [**inetOrgPerson**](c-inetorgperson.md)<br/> [**Пользователь**](c-user.md)<br/> |
 
 
 
@@ -106,7 +106,7 @@ ms.locfileid: "104072104"
 | Range-Upper            | \-                                                                                    |
 | Search-Flags           | 0x00000000                                                                            |
 | System-Flags           | 0x00000000                                                                            |
-| Классы, используемые в        | [**inetOrgPerson**](c-inetorgperson.md)<br/> [**Нажат**](c-user.md)<br/> |
+| Классы, используемые в        | [**inetOrgPerson**](c-inetorgperson.md)<br/> [**Пользователь**](c-user.md)<br/> |
 
 
 
@@ -127,7 +127,7 @@ ms.locfileid: "104072104"
 | Range-Upper            | \-                                                                                    |
 | Search-Flags           | 0x00000000                                                                            |
 | System-Flags           | 0x00000000                                                                            |
-| Классы, используемые в        | [**inetOrgPerson**](c-inetorgperson.md)<br/> [**Нажат**](c-user.md)<br/> |
+| Классы, используемые в        | [**inetOrgPerson**](c-inetorgperson.md)<br/> [**Пользователь**](c-user.md)<br/> |
 
 
 

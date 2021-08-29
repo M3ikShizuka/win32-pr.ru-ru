@@ -4,12 +4,12 @@ description: Общие сведения об элементе управлен�
 ms.assetid: 041b1516-61f7-45d0-ba5d-1d23355b8461
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0d263c1657ebbddd0e1cd080cfecfa1c3c2f7dca
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.openlocfilehash: 4712ec1cfe62c0bf47ce4c00e75ca0ee6c7c8da3c464cb186fb799e8db880b40
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "104081792"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119970294"
 ---
 # <a name="rich-edit-control-overview"></a>Общие сведения об элементе управления Rich Edit
 

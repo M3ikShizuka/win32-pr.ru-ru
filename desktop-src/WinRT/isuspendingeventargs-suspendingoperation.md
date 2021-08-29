@@ -15,12 +15,12 @@ api_type:
 - COM
 api_location:
 - Windows.ApplicationModel.h
-ms.openlocfilehash: e12ccbb372d7c712585766bba8d7921fae57a617
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: a798f91c0fd9ec20da61685a29120106c0eaaa4804521bb5ec5f931291372c2e
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103897381"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120121554"
 ---
 # <a name="isuspendingeventargssuspendingoperation-property"></a>Свойство Исуспендинжевентаргс:: Суспендингоператион
 
@@ -53,12 +53,12 @@ HRESULT get_SuspendingOperation(
 |-------------------------------------|---------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8<br/>                                                                                    |
 | Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                                          |
-| Header<br/>                   | <dl> <dt>Windows. ApplicationModel. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Windows. ApplicationModel. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>Windows. ApplicationModel. idl</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

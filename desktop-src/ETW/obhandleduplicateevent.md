@@ -17,12 +17,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 0f81ff9d85c0c5de8469f563db21e2054fa065f3
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 939d3c1b1e21d32b69f18e07a051fa0f9d0ab07e2c793425a576a200187306e5
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104986004"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120075264"
 ---
 # <a name="obhandleduplicateevent-class"></a>Класс Обхандледупликативент
 
@@ -44,13 +44,13 @@ class ObHandleDuplicateEvent : ObTrace
 };
 ```
 
-## <a name="members"></a>Участники
+## <a name="members"></a>Члены
 
 Класс **обхандледупликативент** имеет следующие типы членов:
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **обхандледупликативент** имеет следующие свойства.
 
@@ -136,14 +136,14 @@ class ObHandleDuplicateEvent : ObTrace
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 8\]<br/>                                             |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2012\]<br/>                                   |
+| Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                             |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                   |
 | MOF<br/>                      | <dl> <dt>Вмикоре. mof</dt> </dl> |
 
 

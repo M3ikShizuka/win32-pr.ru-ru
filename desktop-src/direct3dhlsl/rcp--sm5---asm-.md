@@ -4,12 +4,12 @@ description: Обратная на уровне компонентов.
 ms.assetid: 499A14D6-36DB-4860-94D1-887D931E60D4
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: aa37499a981bae86333b071c2e96a37ccb8ac1a6
-ms.sourcegitcommit: b6fe9acffad983c14864b8fe0296f6025cb1f961
+ms.openlocfilehash: fd5d9dde852087d942b3b7afd7d067872a6a33ba6f683771fbf60909a36b451c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "107998251"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119672284"
 ---
 # <a name="rcp-sm5---asm"></a>rcp (SM5-ASM)
 
@@ -35,7 +35,7 @@ ms.locfileid: "107998251"
 
  
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Используйте эту инструкцию для обратной величины с низкой точностью, независимо от строгих требований деления.
 
@@ -57,7 +57,7 @@ ms.locfileid: "107998251"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Службы вычислений |
+| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | X      | X    | X      | X        | X     | X       |
 
@@ -73,7 +73,7 @@ ms.locfileid: "107998251"
 
 | Модель шейдера                                              | Поддерживается |
 |-----------------------------------------------------------|-----------|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | да       |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | Да       |
 | [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | Нет        |
 | [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | Нет        |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет        |

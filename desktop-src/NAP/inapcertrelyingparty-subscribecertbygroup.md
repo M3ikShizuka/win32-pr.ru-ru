@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 053c3c2dbf00e706003988bd5769cb2aa9201c41
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 5a8ed7f7dd97bf77e99e493a7c0521c62fcbcaaa776a364d0fe7e322e056de5d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105650380"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119891452"
 ---
 # <a name="inapcertrelyingpartysubscribecertbygroup-method"></a>Метод Инапцертрелингпарти:: Субскрибецертбиграуп
 
@@ -99,20 +99,20 @@ HRESULT SubscribeCertByGroup(
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                                     |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                               |
-| Header<br/>                   | <dl> <dt>Напцертрелингпарти. h</dt> </dl>   |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                     |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                               |
+| Заголовок<br/>                   | <dl> <dt>Напцертрелингпарти. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>Напцертрелингпарти. idl</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
