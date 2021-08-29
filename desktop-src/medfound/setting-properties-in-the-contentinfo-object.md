@@ -4,26 +4,26 @@ ms.assetid: 30e3c10b-1310-4194-8b83-221dfe73b03c
 title: Задание свойств в объекте Контентинфо
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e386d5eb33dd1893b195a870425b2336ab9c316f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: c17d82a05540512be34ba0d327ce006aa6215774da86a14ebfcf4339c85ab361
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104155319"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119101804"
 ---
 # <a name="setting-properties-in-the-contentinfo-object"></a>Задание свойств в объекте Контентинфо
 
 При создании файла ASF объекту Контентинфо необходимо получить сведения о характеристиках содержимого мультимедиа, чтобы различные объекты заголовков были заполнены правильными значениями.
 
--   [Параметры, связанные с содержимым, в объекте Контентинфо](#content-related-settings-in-the-contentinfo-object)
--   [Настройка объекта Контентинфо с помощью параметров кодировщика](#configuring-the-contentinfo-object-with-encoder-settings)
--   [См. также](#related-topics)
+-   [Параметры, связанные с содержимым, в объекте контентинфо](#content-related-settings-in-the-contentinfo-object)
+-   [настройка объекта контентинфо с помощью кодировщика Параметры](#configuring-the-contentinfo-object-with-encoder-settings)
+-   [Связанные темы](#related-topics)
 
-## <a name="content-related-settings-in-the-contentinfo-object"></a>Параметры, связанные с содержимым, в объекте Контентинфо
+## <a name="content-related-settings-in-the-contentinfo-object"></a>Параметры, связанные с содержимым, в объекте контентинфо
 
-Параметры конфигурации содержимого — это параметры потока, которые содержатся в профиле и указывают идентификатор потока, тип носителя и параметры контейнера с утечкой данных для приемника мультимедиа. После настройки профиля для объекта Контентинфо путем вызова [**имфасфконтентинфо:: сетпрофиле**](/windows/desktop/api/wmcontainer/nf-wmcontainer-imfasfcontentinfo-setprofile)эти значения отражаются в созданном ОБЪЕКТЕ заголовка ASF. Дополнительные сведения об этих параметрах см. в разделе [Создание и настройка потоков ASF](creating-and-configuring-asf-streams.md).
+Параметры конфигурации содержимого — это параметры потока, которые содержатся в профиле и указывают идентификатор потока, тип носителя и параметры контейнера с утечкой данных для приемника мультимедиа. После настройки профиля для объекта Контентинфо путем вызова [**имфасфконтентинфо:: сетпрофиле**](/windows/desktop/api/wmcontainer/nf-wmcontainer-imfasfcontentinfo-setprofile)эти значения отражаются в созданном ОБЪЕКТЕ заголовка ASF. дополнительные сведения об этих параметрах см. в разделе [создание и настройка ASF Потоки](creating-and-configuring-asf-streams.md).
 
-## <a name="configuring-the-contentinfo-object-with-encoder-settings"></a>Настройка объекта Контентинфо с помощью параметров кодировщика
+## <a name="configuring-the-contentinfo-object-with-encoder-settings"></a>настройка объекта контентинфо с помощью кодировщика Параметры
 
 Мультимедийные аудио-и видеоданные являются сложными и занимают большой объем памяти. В большинстве случаев звук и видео сжимаются с помощью кодировщиков перед добавлением в файл ASF. В Media Foundation кодировщики реализуются как [Media Foundation преобразования](media-foundation-transforms.md) (МФТС) с одним входом и одним выходом. Необходимо выбрать тип выходного носителя в зависимости от типа носителя входного потока и типа кодировки, выбранного для сжатия потока.
 
@@ -52,7 +52,7 @@ ms.locfileid: "104155319"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

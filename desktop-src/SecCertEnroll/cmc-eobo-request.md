@@ -4,12 +4,12 @@ ms.assetid: 05ec0b2c-56a5-4d9c-999b-23324134153b
 title: Запрос ЕОБО CMC
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cdd5e54fcfb20095af72729c0663dab12ccfa5b5
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: a0b0237b30bbf79a4f414d3f1a31fb9c5bed273641744251cbd2e2b888eb343a
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103815784"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118901857"
 ---
 # <a name="cmc-eobo-request"></a>Запрос ЕОБО CMC
 
@@ -615,7 +615,7 @@ No CRLs
 CertUtil: -dump command completed successfully.
 ```
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: Многие протоколы Интернета уровня п�
 ms.assetid: 7a2c9d8f-639a-4865-a62b-63330175f5f0
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cb145fa3a76da6574172ddd24888f3b5da7ad85e
-ms.sourcegitcommit: 5f33645661bf8c825a7a2e73950b1f4ea0f1cd82
+ms.openlocfilehash: a8d9e2694d7df89eeeef8c0a3e7217a88c3bac27da3e68c38aae2ceae24fa56f
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "104413849"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119130196"
 ---
 # <a name="media-type-negotiation"></a>Согласование Media-Type
 
@@ -36,15 +36,15 @@ fmtetc.cfFormat = RegisterClipboardFormat(CF_MIME_POSTSCRIPT);
 > [!Note]  
 > Если полученное содержимое имеет неизвестный тип носителя, клиент автоматически вызывает [**регистермедиатипес**](/previous-versions/windows/internet-explorer/ie-developer/platform-apis/ms775118(v=vs.85)) для регистрации нового типа.
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Моникеры URL-адресов](url-monikers.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

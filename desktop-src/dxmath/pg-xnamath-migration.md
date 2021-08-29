@@ -4,12 +4,12 @@ ms.assetid: ed8463f8-8a3d-e89e-89e2-8d72a7f45cd6
 title: Перенос кода из библиотеки XNA Math
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5dc7a48d30711a870c28b677e458a4f72c3b3c40
-ms.sourcegitcommit: b01ad017c152c6756f3638623fe335877644d414
+ms.openlocfilehash: 11afe17e4e8e63ed06b34aed5fe573951b4e5383a78eb3c2c68f5b742c6560a3
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "111549966"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119740124"
 ---
 # <a name="code-migration-from-the-xna-math-library"></a>Перенос кода из библиотеки XNA Math
 
@@ -28,7 +28,7 @@ ms.locfileid: "111549966"
 \_Версия кснамас (200, 201, 202, 203, 204 и т. д.) заменена диреккстмас \_ версией (300, 301, 302, 303 и т. д.).
 
 > [!NOTE]  
-> Директксмас 3,00 и 3,02 поставляются с предварительными версиями Windows SDK. Директксмас 3,03 в финальной версии пакета SDK для Windows 8.
+> директксмас 3,00 и 3,02 поставляются с предварительными версиями Windows SDK. директксмас 3,03 — это окончательная версия пакета SDK Windows 8.
 
 ## <a name="namespaces"></a>Пространства имен
 

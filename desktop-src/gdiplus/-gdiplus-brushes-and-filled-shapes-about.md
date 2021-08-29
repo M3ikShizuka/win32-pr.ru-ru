@@ -4,12 +4,12 @@ ms.assetid: 889558d5-9181-43ff-b862-e92966324208
 title: Кисти и закрашенные фигуры
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9eb772be88ce26325337fd9c88fc0319631895e8
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: c073809da21f032a7f4859528b6f982094f3f354ce36e8c4388ea4172a8dd4d2
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104563461"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118977724"
 ---
 # <a name="brushes-and-filled-shapes"></a>Кисти и закрашенные фигуры
 
@@ -52,7 +52,7 @@ HatchBrush myHatchBrush(
 
 
 
-Интерфейс GDI+ предоставляет более 50 стилей штриховки, указанных в [**хатчстиле**](/windows/win32/api/Gdiplusenums/ne-gdiplusenums-hatchstyle). На следующем рисунке показаны три стиля: горизонтальный, ForwardDiagonalный и перекрестный.
+GDI+ предоставляет более 50 стилей штриховки, указанных в [**хатчстиле**](/windows/win32/api/Gdiplusenums/ne-gdiplusenums-hatchstyle). На следующем рисунке показаны три стиля: горизонтальный, ForwardDiagonalный и перекрестный.
 
 ![Иллюстрация с тремя сине-окрашенными эллипсами с различными стилями штриховки](images/aboutgdip02-art18.png)
 

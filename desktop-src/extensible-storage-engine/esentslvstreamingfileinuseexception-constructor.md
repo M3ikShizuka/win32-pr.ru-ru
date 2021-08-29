@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 148e59a7b27d5cc25c9b38804cadf9435d32a666
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 382b5785f61c9ba5f3684335893a2b78a04df7719b6e386f7ccf45b6ffc5aaa1
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105701671"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119039748"
 ---
 # <a name="esentslvstreamingfileinuseexception-constructor"></a>Конструктор Есентслвстреамингфилеинусиксцептион
 
@@ -50,7 +50,7 @@ Dim instance As New EsentSLVStreamingFileInUseException()
 public EsentSLVStreamingFileInUseException()
 ```
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 #### <a name="reference"></a>Справочник
 

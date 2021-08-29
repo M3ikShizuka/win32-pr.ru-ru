@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 65437fa0e06c303c7c2c29151f33f74f1678296d
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: faf5532909e8f692aa2c438186a17cf9669170bb4a7d9666682d07ba8d4ea583
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104414969"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119139167"
 ---
 # <a name="source-registrationinfotype-element"></a>Элемент Source (Регистратионинфотипе)
 
@@ -43,7 +43,7 @@ ms.locfileid: "104414969"
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Для разработки сценариев источник задачи указывается с помощью свойства [**регистратионинфо. Source**](registrationinfo-source.md) .
 
@@ -55,8 +55,8 @@ ms.locfileid: "104414969"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>       |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>       |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/> |
 
 
 

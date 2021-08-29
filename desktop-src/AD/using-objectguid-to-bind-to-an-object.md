@@ -10,12 +10,12 @@ keywords:
 - Active Directory, использование, привязка, использование objectGUID для привязки к объекту
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 045c6194cf27b1697cc478b547105fb10335c219
-ms.sourcegitcommit: 803f3ccd65bdefe36bd851b9c6e7280be9489016
+ms.openlocfilehash: 72c310ad1041c072dc126a761fab5fa104fa00c4f98e4fa01d45ca7bc24c11b3
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "104069737"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119024492"
 ---
 # <a name="using-objectguid-to-bind-to-an-object"></a>Использование objectGUID для привязки к объекту
 
@@ -41,8 +41,8 @@ LDAP://servername/<GUID=XXXXX>
 Следующие методы **иадсконтаинер** не поддерживаются объектами, полученными при помощи привязки с использованием идентификатора GUID объекта:
 
 -   [**GetObject**](/windows/desktop/api/iads/nf-iads-iadscontainer-getobject)
--   [**Создать**](/windows/desktop/api/iads/nf-iads-iadscontainer-create)
--   [**Удалить**](/windows/desktop/api/iads/nf-iads-iadscontainer-delete)
+-   [**Создание**](/windows/desktop/api/iads/nf-iads-iadscontainer-create)
+-   [**Удален**](/windows/desktop/api/iads/nf-iads-iadscontainer-delete)
 -   [**копихере**](/windows/desktop/api/iads/nf-iads-iadscontainer-copyhere)
 -   [**мовехере**](/windows/desktop/api/iads/nf-iads-iadscontainer-movehere)
 
@@ -54,6 +54,6 @@ LDAP://servername/<GUID=XXXXX>
 -   Можно легко выполнить привязку к объекту с помощью идентификатора GUID объекта.
 -   Если объект переименовывается или перемещается, свойство **objectGUID** предоставляет единый идентификатор, который можно использовать для быстрого поиска и идентификации объекта, а не для создания запроса с условиями для всех свойств, которые определяли этот объект.
 
- 
+ 
 
- 
+ 

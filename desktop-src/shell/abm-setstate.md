@@ -1,5 +1,5 @@
 ---
-description: Задает состояния автоскрытия и Always On в верхней части панели задач Windows.
+description: задает состояния автоскрытия и always on в верхней части Windows панели задач.
 title: Сообщение ABM_SETSTATE (Шеллапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
@@ -13,16 +13,16 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 3cd21ca49d1a57d870c26e010420f978f1d9b88a
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 1a50671a750f8ca1800cea200c2c58828803bc8a45ae055082c5b6d78959dd12
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104984381"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119710874"
 ---
 # <a name="abm_setstate-message"></a>\_Сообщение АБМ SETSTATE
 
-Задает состояния автоскрытия и Always On в верхней части панели задач Windows.
+задает состояния автоскрытия и always on в верхней части Windows панели задач.
 
 
 ```C++
@@ -90,15 +90,15 @@ Always On-On — Автоскрытие отключено
 
 Всегда возвращает **значение true**.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                           |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Шеллапи. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                           |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Шеллапи. h</dt> </dl> |
 
 
 

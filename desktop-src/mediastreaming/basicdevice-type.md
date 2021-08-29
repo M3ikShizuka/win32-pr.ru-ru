@@ -15,12 +15,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 2f4a2a6e28b9a769b4b7752cee51a3c00aaca2e2
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.openlocfilehash: 2a7da0d140dde76da8b17425a42aa56fec497e5c607529ef75ff1f7cdd2ded77
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "105710265"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119100856"
 ---
 # <a name="basicdevicetype-property"></a>Басикдевице. Type, свойство
 
@@ -33,7 +33,7 @@ ms.locfileid: "105710265"
 
 ```C++
 HRESULT get_Type(
-  [out] DeviceTypes *value
+  [out] DeviceTypes *value
 );
 ```
 
@@ -50,6 +50,6 @@ HRESULT get_Type(
 [**басикдевице**](/previous-versions/windows/desktop/legacy/hh828813(v=vs.85))
 </dt> </dl>
 
- 
+ 
 
- 
+ 

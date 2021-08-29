@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: b7c96c371b36b8dcfc2e3e64a95798347ca3a6ea
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: 37aa3ae609e20f80f354b33efbe2d0c771dc2c37d9709f4ce15898a4cf99f7ac
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "104081944"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119121957"
 ---
 # <a name="id3dxbaseeffectgetparameter-method"></a>Метод ID3DXBaseEffect:: Parameter
 
@@ -71,7 +71,7 @@ D3DXHANDLE GetParameter(
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3DX9Shader. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3DX9Shader. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>     |
 
 

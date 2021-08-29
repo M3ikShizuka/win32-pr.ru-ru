@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8d7db971f359a9cead2aae6083a934086d42c481
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: b59ad120fee9faf9b6cc8eb62afacd61dcb73586f6a6314988ee7ff34be05732
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105694524"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119055552"
 ---
 # <a name="wmdm_enum_prop_valid_values_form-enumeration"></a>\_ \_ \_ Перечисление допустимых \_ значений свойства Prop enum вмдм \_
 
@@ -63,7 +63,7 @@ typedef enum _WMDM_ENUM_PROP_VALID_VALUES_FORM {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это перечисление используется в [**структуре \_ вмдм \_ prop**](wmdm-prop-desc.md) , чтобы указать форму допустимых значений для свойства.
 
@@ -73,7 +73,7 @@ typedef enum _WMDM_ENUM_PROP_VALID_VALUES_FORM {
 
 | Требование | Значение |
 |-------------------|-------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Вмдм. idl</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Вмдм. idl</dt> </dl> |
 
 
 

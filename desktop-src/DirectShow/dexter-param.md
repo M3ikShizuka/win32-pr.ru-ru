@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Qedit.h
-ms.openlocfilehash: 22b0f6ef0a91f9a6d9163a03c17f6e86ee8b5f4e
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 13bd14602b331e334cdec8cd1aedc7250b04c0ae4df2e5e4e9997c67c84d707d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105651996"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120051964"
 ---
 # <a name="dexter_param-structure"></a>\_Структура param Декстер
 
@@ -46,7 +46,7 @@ typedef struct {
 
 <dl> <dt>
 
-**Name**
+**Имя**
 </dt> <dd>
 
 Имя свойства.
@@ -67,7 +67,7 @@ typedef struct {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Объект должен поддерживать интерфейс **IDispatch** .
 
@@ -77,7 +77,7 @@ typedef struct {
 
 | Требование | Значение |
 |-------------------|------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Кедит. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Кедит. h</dt> </dl> |
 
 
 

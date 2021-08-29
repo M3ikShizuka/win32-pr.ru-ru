@@ -1,23 +1,23 @@
 ---
-description: Установщик Windows функции, таблицы и свойства, перечисленные на этой странице, не поддерживаются установщик Windows&\# 160; 3.1 и более ранних версий.
+description: установщик Windows функции, таблицы и свойства, перечисленные на этой странице, не поддерживаются установщик Windows&\# 160; 3.1 и более ранних версий.
 ms.assetid: fbf75dbe-3fa1-424b-83bb-cfd0b179107c
-title: Не поддерживается в установщик Windows 3,1
+title: не поддерживается в установщик Windows 3,1
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f3a221d80f56c5737cc5ae92a040a005ae42449e
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 3b33334133fafa5e37f8bd7dfe4edfd30962c4e605bf2a675661e9d57aca4184
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105674335"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119145587"
 ---
-# <a name="not-supported-in-windows-installer-31"></a>Не поддерживается в установщик Windows 3,1
+# <a name="not-supported-in-windows-installer-31"></a>не поддерживается в установщик Windows 3,1
 
-Установщик Windows функции, таблицы и свойства, перечисленные на этой странице, не поддерживаются в установщик Windows 3,1 и более ранних версиях. Отсутствие функции из этого списка не гарантирует, что эта функция поддерживается. Чтобы определить, какая версия установщик Windows требуется для конкретной функции, см. основную документацию. Сведения о других установщик Windows версиях см. [в разделе новые возможности установщик Windows](what-s-new-in-windows-installer.md).
+установщик Windows функции, таблицы и свойства, перечисленные на этой странице, не поддерживаются в установщик Windows 3,1 и более ранних версиях. Отсутствие функции из этого списка не гарантирует, что эта функция поддерживается. чтобы определить, какая версия установщик Windows требуется для конкретной функции, см. основную документацию. сведения о других установщик Windows версиях см. [в разделе новые возможности установщик Windows](what-s-new-in-windows-installer.md).
 
-Установщик Windows 3,1 доступна для Windows Server 2003, Windows XP или Windows 2000. Список всех установщик Windows версий и распространяемых компонентов см. в разделе [выпущенные версии установщик Windows](released-versions-of-windows-installer.md).
+Windows установщик 3,1 доступен для Windows Server 2003, Windows XP или Windows 2000. список всех установщик Windows версий и распространяемых компонентов см. в разделе [выпущенные версии установщик Windows](released-versions-of-windows-installer.md).
 
-Следующие функции не поддерживаются в установщик Windows 3,1 и более ранних версиях.
+следующие функции не поддерживаются в установщик Windows 3,1 и более ранних версиях.
 
 [Функции установщика](installer-functions.md)
 
@@ -69,7 +69,7 @@ ms.locfileid: "105674335"
 
 -   ИНСТАЛЛЛОГМОДЕ \_ рмфилесинусе
 
-[Установщик Windows в 64-разрядных операционных системах](windows-installer-on-64-bit-operating-systems.md)
+[Windows Установщик на 64-разрядных операционных системах](windows-installer-on-64-bit-operating-systems.md)
 
 -   атрибут **мсидбкомпонентаттрибутесдисаблерегистрирефлектион** в [таблице Component](component-table.md)
 
@@ -90,9 +90,9 @@ ms.locfileid: "105674335"
 
 ## <a name="notes"></a>Примечания
 
-Служба установщик Windows должна работать в Windows Vista, чтобы обеспечить возможность использования [диспетчера перезапуска](../rstmgr/restart-manager-portal.md), [*контроля учетных записей*](u-gly.md)и [исправлений контроля учетных записей (UAC)](user-account-control--uac--patching.md). Дополнительные сведения см. в статьях [использование установщик Windows с диспетчером перезапуска](using-windows-installer-with-restart-manager.md) и [Использование установщик Windows с контрольными записями контроля](using-windows-installer-with-uac.md) [учетных](user-account-control--uac--patching.md)записей.
+служба установщик Windows должна выполняться в Windows Vista, чтобы обеспечить использование [диспетчера перезапуска](../rstmgr/restart-manager-portal.md), [*контроля учетных записей*](u-gly.md)и [исправлений контроля учетных записей (UAC)](user-account-control--uac--patching.md). дополнительные сведения см. в статьях [использование установщик Windows с диспетчером перезапуска](using-windows-installer-with-restart-manager.md) и [использование установщик Windows с контрольными записями контроля](using-windows-installer-with-uac.md) [учетных](user-account-control--uac--patching.md)записей.
 
-Установщик Windows 3,1 поддерживает защиту файлов Windows (WFP) и не поддерживает защита ресурсов Windows (WRP). WRP в Windows Server 2008 и Windows Vista заменяет WFP в Windows Server 2003, Windows XP и Windows 2000. Сведения о установщик Windows и WFP см. [в разделе использование установщик Windows и защита ресурсов Windows](windows-resource-protection-on-windows-vista.md).
+Windows установщик 3,1 поддерживает защиту файлов Windows (WFP) и не поддерживает защита ресурсов Windows (WRP). WRP в Windows server 2008 и Windows Vista заменяет WFP в Windows Server 2003, Windows XP и Windows 2000. сведения о установщик Windows и WFP см. [в разделе использование установщик Windows и защита ресурсов Windows](windows-resource-protection-on-windows-vista.md).
 
  
 

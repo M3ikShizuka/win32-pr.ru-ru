@@ -3,7 +3,7 @@ title: Команда MCI_CLOSE (Ммсистем. h)
 description: Команда MCI \_ Close освобождает доступ к устройству или файлу. Все устройства распознают эту команду.
 ms.assetid: 62dadd90-e8fc-4bdd-9f8c-f9ea9ff5550f
 keywords:
-- MCI_CLOSE команды мультимедиа Windows
+- команда MCI_CLOSE Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 417129595405aeb6c9a2345eb9c3f03f1e2731e5
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 047bea34aab9130cc609904d56ff95ba593271670b27a5bc3d763180ccf50418
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104135678"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119784634"
 ---
 # <a name="mci_close-command"></a>\_Команда «закрыть» MCI
 
@@ -68,11 +68,11 @@ MCIERROR mciSendCommand(
 
 Возвращает нуль в случае успеха или ошибку в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Выход из приложения без закрытия всех открытых устройств MCI может привести к недоступности устройства. Приложение должно явным образом закрыть каждое устройство или файл после его завершения. MCI выгружает устройство при закрытии всех экземпляров устройства или всех связанных с ним файлов.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -80,11 +80,11 @@ MCIERROR mciSendCommand(
 |-------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                                |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                      |
-| Заголовок<br/>                   | <dl> <dt>Ммсистем. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>ммсистем. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

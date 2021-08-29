@@ -7,12 +7,12 @@ MSHAttr:
 title: MmscUrl
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 24bf6cee6ee20a9906238db851eb72f4dfe47d10
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.openlocfilehash: bf462d13571efefb38a1737e68eff0b601f66fe5
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122480270"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122882924"
 ---
 # <a name="span-idwwan_profile_v4element_mmscurlspanmmscurl"></a><span id="WWAN_profile_v4.element_MmscUrl"></span>ммскурл
 
@@ -20,9 +20,9 @@ ms.locfileid: "122480270"
 
 ## <a name="element-hierarchy"></a>Иерархия элементов
 
-[<MBNProfileExt>](element-mbnprofileext.md)  
-[<MmsConfiguration>](element-mmsconfiguration.md)  
-**<MmscUrl>**
+[&lt;MBNProfileExt&gt;](element-mbnprofileext.md)  
+[&lt;ммсконфигуратион&gt;](element-mmsconfiguration.md)  
+**&lt;MmscUrl&gt;**
 
 ## <a name="syntax"></a>Синтаксис
 

@@ -4,12 +4,12 @@ description: Реализует среду (EAP) конечного автома
 ms.assetid: 41e67c33-9220-464f-84ab-c61667a226ad
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7a2ff1c20e6e11fbc7c0188f3eb6b529b9c89c4e
-ms.sourcegitcommit: 8fa6614b715bddf14648cce36d2df22e5232801a
+ms.openlocfilehash: 896c6ea3e88b63892a51b0f9cd25063fc3274a5d1bbd86c5bc1bbb142702c81b
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "105710413"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119117734"
 ---
 # <a name="about-eaphost"></a>Об EAPHost
 
@@ -30,7 +30,7 @@ EAPHost поддерживает [защиту доступа к сети](/wind
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

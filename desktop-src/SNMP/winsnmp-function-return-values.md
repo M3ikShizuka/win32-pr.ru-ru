@@ -4,16 +4,16 @@ description: Возвращаемое значение вызова функци
 ms.assetid: f0723cc7-fa3b-4a72-93a0-49d40a1fedd5
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 48a8e42e7d27b1079398efb2970b385bfc4e732c
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: b0aee75d85bf2e9b48f0b3172332f4340b21271ec37a9bc1027d63750927710f
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104070498"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119142817"
 ---
 # <a name="winsnmp-function-return-values"></a>Возвращаемые значения функции WinSNMP
 
-\[Протокол SNMP доступен для использования в операционных системах, указанных в разделе требования. В последующих версиях он может быть изменен или недоступен. Вместо этого используйте [Служба удаленного управления Windows](/windows/desktop/WinRM/portal), который является реализацией Microsoft WS-Man.\]
+\[Протокол SNMP доступен для использования в операционных системах, указанных в разделе требования. В последующих версиях он может быть изменен или недоступен. вместо этого используйте [служба удаленного управления Windows](/windows/desktop/WinRM/portal), который является реализацией Microsoft WS-Man.\]
 
 Возвращаемое значение вызова функции WinSNMP может быть маркером для ресурса, который выделяется реализацией Microsoft WinSNMP для приложения WinSNMP.
 
@@ -31,7 +31,7 @@ ms.locfileid: "104070498"
 
 
 
- 
+ 
 
 Дополнительные сведения см. в разделе [объекты обработчика ресурсов](resource-handle-objects.md).
 
@@ -48,8 +48,8 @@ ms.locfileid: "104070498"
 
 
 
- 
+ 
 
- 
+ 
 
- 
+ 

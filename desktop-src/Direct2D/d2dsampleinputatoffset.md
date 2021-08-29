@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cc7718f8f48ddfd316d1312dbdff3a5da1f45dfb
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 1e316e4daf533f66bba9d34a6ac89c61094db536e19e710d1c5c235edb7d250c
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105657973"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119075308"
 ---
 # <a name="d2dsampleinputatoffset-function"></a>Функция D2DSampleInputAtOffset
 
@@ -56,7 +56,7 @@ float4 WINAPI D2DSampleInputAtOffset(
 
 Функция возвращает **float4** в формате текскурдн.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 В следующем примере показана функция, используемая как часть маски градиента выделения и тени.
 
@@ -81,18 +81,18 @@ D2D_PS_ENTRY(HighlightsAndShadowsGradientMask)
 }  
 ```
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|----------------------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D2d1effecthelpers. hlsli</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D2d1effecthelpers. hlsli</dt> </dl> |
 | DLL<br/>    | <dl> <dt>D2d1.dll</dt> </dl>                |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

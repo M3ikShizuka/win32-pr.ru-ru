@@ -4,16 +4,16 @@ description: Свойства элемента управления
 ms.assetid: 29c2cca3-9460-45d1-9591-026e8c18f26f
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4749a7a7e408f6cd58951a72207ed801e4104d65
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 3e5dcc0dc0b546228c20b07a7a176d33972c306e6c1f38c6355ad99087551333
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103889136"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119048462"
 ---
 # <a name="control-properties"></a>Свойства элемента управления
 
-Помимо свойств, определенных и реализованных самим элементом управления, технология элементов управления ActiveX также включает:
+помимо свойств, определенных и реализованных самим элементом управления, ActiveX технологии управления также входят:
 
 <dl> <dt>
 
@@ -37,16 +37,16 @@ ms.locfileid: "103889136"
 -   [Объект стандартного шрифта](standard-font-object.md)
 -   [Стандартный объект Picture](standard-picture-object.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Методы управления](control-methods.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

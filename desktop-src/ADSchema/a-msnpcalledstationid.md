@@ -13,12 +13,12 @@ api_type:
 - Schema
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2fcff4f7f066e08f92e2d31c9f4dc4a309d5d85f
-ms.sourcegitcommit: b77ace27b0432e7cd3863191b11926be032fbe2f
+ms.openlocfilehash: 9e477d141f36c87c5311d7af8e9f621f5119e84dc240493675a691905560fcd8
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "104138598"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120066490"
 ---
 # <a name="msnpcalledstationid-attribute"></a>атрибут Мснпкалледстатионид
 
@@ -174,7 +174,7 @@ ms.locfileid: "104138598"
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

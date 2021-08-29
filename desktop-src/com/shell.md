@@ -1,21 +1,21 @@
 ---
 title: Оболочка (COM)
-description: Предоставляет данные для печати оболочки Windows 3,1 и открытия файлов.
+description: обеспечивает Windowsную печать оболочки 3,1 и сведения о его открытии.
 ms.assetid: 15e329f2-ed64-4940-aa00-63edbd283b07
 keywords:
 - COM-сценарий раздела реестра оболочки
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1acf4a62d72892d1cd25a5f2276e71d52ab7f700
-ms.sourcegitcommit: 8fa6614b715bddf14648cce36d2df22e5232801a
+ms.openlocfilehash: 93ebbc83642896aa22f33b315e26097760f7311ec93d938cb0440a10e0aae049
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "103800659"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119129906"
 ---
 # <a name="shell-com"></a>Оболочка (COM)
 
-Предоставляет данные для печати оболочки Windows 3,1 и **открытия файлов** .
+обеспечивает Windowsную печать оболочки 3,1 и сведения о его **открытии** .
 
 ## <a name="registry-entry"></a>Запись реестра
 

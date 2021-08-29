@@ -4,12 +4,12 @@ ms.assetid: decbc92a-af56-4a3f-9e2f-c66f6cdd8880
 title: Свойство "Сводка последнего вывода"
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8060909a53bf56615f9df95b6ba573820755ae15
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: fc9079db9ce4f7d30f8f2bfb82513e442d7e27840a614232b52da3c73588844b
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105689089"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "117805595"
 ---
 # <a name="last-printed-summary-property"></a>Свойство "Сводка последнего вывода"
 
@@ -19,17 +19,17 @@ ms.locfileid: "105689089"
 
 В пакете исправлений это свойство должно иметь значение null.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/> | Установщик Windows 5,0 в Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Установщик Windows 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. установщик Windows в Windows Server 2003 или Windows XP<br/> |
+| Версия<br/> | Windows установщик 5,0 на Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Windows установщик 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Windows установщик на Windows Server 2003 или Windows XP<br/> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -1,19 +1,19 @@
 ---
-description: В этом разделе содержатся сведения о коде встроенного GIF, доступном через компонент Windows Imaging Component (WIC).
+description: в этом разделе содержатся сведения о коде встроенного GIF, доступном через компонент Windows imaging (WIC).
 ms.assetid: CAEC8F92-8971-42B4-BED8-A6A93522D11E
 title: Общие сведения о формате GIF
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ddf7e9924c921b7944de114f5fe667cb2aa33cae
-ms.sourcegitcommit: 099ecdda1e83618b844387405da0db0ebda93a65
+ms.openlocfilehash: 345f3856c01ff94ba51ce16ccc64bd299312d75777b1f269c0cf9a4e67c56a07
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "111444455"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118709503"
 ---
 # <a name="gif-format-overview"></a>Общие сведения о формате GIF
 
-В этом разделе содержатся сведения о коде встроенного GIF, доступном через компонент Windows Imaging Component (WIC).
+в этом разделе содержатся сведения о коде встроенного GIF, доступном через компонент Windows imaging (WIC).
 
 ## <a name="codec-identity"></a>Удостоверение кодека
 
@@ -36,7 +36,7 @@ ms.locfileid: "111444455"
 
 
 
-| Компонент        | Понятное имя            | Код GUID                                |
+| Компонент        | Понятное имя            | GUID                                |
 |------------------|--------------------------|-------------------------------------|
 | Формат контейнера | GUID \_ контаинерформатгиф | 1f8a5601-7d4d-4cbd-9c821bc8d4eeb9a5 |
 | Показан          | \_ВИКГИФДЕКОДЕР CLSID     | 381dda3c-9ce9-4834-a23e1f98f8fc52be |

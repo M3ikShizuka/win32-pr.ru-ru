@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 64ff13c069c6bba819720a9d1120a42c25af4b51
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.openlocfilehash: cd389d56dff242132c628beedaf9c70d697f1fead0286aa0b59cd492a5a1e882
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "104336985"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120040077"
 ---
 # <a name="import-attribute"></a>import - атрибут
 
@@ -38,7 +38,7 @@ import "filename" [[ , ... ]] ;
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 С помощью директивы **Import** все инструкции IDL в импортируемом файле, такие как typedef, объявления константы и определения интерфейса, становятся доступными для импорта. IDL-файл.
 
@@ -62,7 +62,7 @@ import "filename" [[ , ... ]] ;
 > [!Note]  
 > Поведение директивы **Import** не зависит от режима компилятора MIDL переключает [**/МС \_ ext**](-ms-ext.md) (по умолчанию), [**/ОСФ**](-osf.md)и [**/АПП \_ config**](-app-config.md). Однако режим компилятора (**/ОСФ** или **/МС \_ ext**) может повлиять на Декорирование атрибутов указателя на импортированных типах. Дополнительные сведения см. в разделе [наследование типа атрибута указателя](/windows/desktop/Rpc/pointer-attribute-type-inheritance).
 
- 
+ 
 
 ## <a name="examples"></a>Примеры
 
@@ -72,7 +72,7 @@ import "unknwn.idl";
 import "part1.idl", "part2.idl", "part3.idl"; 
 ```
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
@@ -100,6 +100,6 @@ import "part1.idl", "part2.idl", "part3.idl";
 [**/осф**](-osf.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

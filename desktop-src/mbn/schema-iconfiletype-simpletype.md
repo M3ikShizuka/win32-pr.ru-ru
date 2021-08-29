@@ -11,12 +11,12 @@ api_name:
 - iconFileType
 api_type:
 - Schema
-ms.openlocfilehash: 168c2709f8b3049270711e286a35fbbd11e1ffef
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: a4ad0c27c40c1b647a15a2c53ed67ffc1deee590006e7e9a514c11f6285c6bf7
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104144797"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118975253"
 ---
 # <a name="iconfiletype-simple-type"></a>Простой тип Иконфилетипе
 
@@ -43,7 +43,7 @@ ms.locfileid: "104144797"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 7 \|\]<br/> |
+| Минимальная версия клиента<br/> | \[приложения UWP для классических приложений Windows 7 \|\]<br/> |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                         |
 
 

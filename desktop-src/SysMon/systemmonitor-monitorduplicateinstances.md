@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6f6ae53d0a1dcf3f67a43dab7959bb42619ace6b
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: da6f8e9f85dcc865bb9a0733b7a1160582772754b5a2cabd1aa7b80452e6f42c
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104415329"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118881786"
 ---
 # <a name="systemmonitormonitorduplicateinstances-property"></a>Системмонитор. Монитордупликатеинстанцес, свойство
 
@@ -42,7 +42,7 @@ Property MonitorDuplicateInstances As Boolean
 
 Значение true указывает, что можно отслеживать несколько экземпляров счетчика (значение по умолчанию — true). Значение false указывает, что можно отслеживать только один экземпляр счетчика.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Системный монитор добавляет \# n к каждому имени экземпляра, кроме первого, если существует несколько экземпляров. Серийный номер n начинается с единицы и увеличивается на единицу для каждого нового экземпляра. Например, если указать " \\ процесс ( \* ) \\ % загруженности процессора", коллекция счетчиков должна содержать несколько экземпляров svchost. Первое вхождение — svchost, далее — svchost \# 1 и т. д.
 

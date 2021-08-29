@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: bbf53184dadc42145758ab387d15e8b0a1bfe09d
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: a2e5fb1a09fe089df7d90846e25870a2c1e42987c07361809d958d303f257fd1
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108085212"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119073358"
 ---
 # <a name="csourcestreamcsourcestream-destructor"></a>Деструктор Ксаурцестреам. ~ Ксаурцестреам
 
@@ -40,13 +40,13 @@ ms.locfileid: "108085212"
 
 Деструктор автоматически удаляет ПИН-код из фильтра владельца, вызывая [**ксаурце:: ремовепин**](csource-removepin.md).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Source. h (включение Streams. h)</dt> </dl>                                                                                    |
+| Заголовок<br/>  | <dl> <dt>Source. h (включает Потоки. h)</dt> </dl>                                                                                    |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 

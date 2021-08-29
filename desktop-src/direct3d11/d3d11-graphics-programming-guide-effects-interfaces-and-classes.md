@@ -4,12 +4,12 @@ description: Существует множество способов испол
 ms.assetid: 526d477b-fc1f-4bd0-a620-ce9b78147f68
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3b067b8e03b2d43ea44ccab6164424cbc84c7237
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: a0ccc64cba63263c98807968b3216a47c61442943892fd4a7d290ae2a1fb8c05
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104413166"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126125"
 ---
 # <a name="interfaces-and-classes-in-effects"></a>Интерфейсы и классы в эффектах
 
@@ -137,13 +137,13 @@ pPass->Apply( 0, pDeviceContext );
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Эффекты (Direct3D 11)](d3d11-graphics-programming-guide-effects.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

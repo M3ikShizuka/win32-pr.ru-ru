@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: c3dcaa5ac0c9c1531a1e1f0476d2ef13b4bac509
-ms.sourcegitcommit: cba7f424a292fd7f3a8518947b9466439b455419
+ms.openlocfilehash: eb8d1ee47b224103724ba61fa6c8763069acc0564758a9e531d5d5edb6e2a039
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/23/2019
-ms.locfileid: "104335691"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119119558"
 ---
 # <a name="temporary-register-hlsl-vs-reference"></a>Временный регистр (Справочник по HLSL VS)
 
@@ -37,13 +37,13 @@ ms.locfileid: "104335691"
 
 
 
- 
+ 
 
 Каждый временный регистр имеет доступ с одной записью и с тройным доступом на чтение. Таким образом, инструкция может иметь до трех временных регистров в наборе операндов источника входных данных.
 
 Не допускается использование значений во временном регистре, остающихся из предыдущих вызовов шейдера вершин. В шейдерах вершин, которые считывают значение из временного регистра перед записью в него, вызов API Direct3D для создания шейдера вершин будет невозможен.
 
-## <a name="example"></a>Например, .
+## <a name="example"></a>Пример
 
 Ниже приведен пример использования временного регистра.
 
@@ -71,18 +71,18 @@ mov r4.xz, r0        // xz
 
 
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Регистры шейдеров вершин](dx9-graphics-reference-asm-vs-registers.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: 70dbe346-790c-47e3-8e85-6154fc340982
 title: Методы изображений
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 259bc8b81179b81f7e48b3ab0751a34d5edcfd10
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: ec97ad09a520293f68ddb6d9dc98c269af3679ff8a189c914e8778539a315498
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104997566"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118977624"
 ---
 # <a name="image-methods"></a>Методы изображений
 

@@ -3,7 +3,7 @@ title: команда Where
 description: Команда Where извлекает прямоугольник, указывающий исходную или целевую область. Этот прямоугольник был указан с помощью команды размещения. Эта команда распознает цифровые видеоролики и устройства наложения видео.
 ms.assetid: 85c68ded-bd3e-4a48-9af7-58478615a7f0
 keywords:
-- размещение команд мультимедиа Windows
+- команда where Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 22c499eae8f0209c1ef93efb9677ae438dcf0e86
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 208ef15bf79d9d55e688a0988ab4c5f021ceb199acf5d0461619e275fc7b8bc6
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103989213"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119781454"
 ---
 # <a name="where-command"></a>команда Where
 

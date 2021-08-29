@@ -4,12 +4,12 @@ ms.assetid: b9d59b9d-52ba-4c71-9226-9cb5b93ec3d4
 title: Регистрация класса событий
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 89a5968b8cb5981db3eb39c446104e1801a18e2e
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 07cceddaf01cff9677bb36ecc5315c15c1fa59e2c21046c3b7cd2bb4f3749f69
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103807367"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119047302"
 ---
 # <a name="registering-an-event-class"></a>Регистрация класса событий
 
@@ -29,11 +29,11 @@ ms.locfileid: "103807367"
 
 5.  Введите путь к библиотеке DLL компонента класса событий.
 
-6.  Нажмите кнопку **ОК**.
+6.  Нажмите **OK**.
 
 Класс событий регистрируется в каталоге COM+ и может быть найден подписчиками, заинтересованными в получении сведений, предоставленных классом событий. Сведения о том, как зарегистрировать класс событий с помощью административных интерфейсов COM+, см. в разделе [**икомадминкаталог:: инсталлевенткласс**](/windows/desktop/api/ComAdmin/nf-comadmin-icomadmincatalog-installeventclass).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

@@ -4,17 +4,17 @@ ms.assetid: 62091aad-8a78-4543-a844-a4227aed81df
 title: Метод Стиллофф
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d8986b62585768b83fc5737012a924e6cf33daf5
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 3cf63409cb435e0e72cb9ebcb856df7956270dc92931366f575c1fb02df9315a
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105683774"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120050214"
 ---
 # <a name="stilloff-method"></a>Метод Стиллофф
 
 > [!Note]  
-> Этот компонент доступен для использования в операционных системах Microsoft Windows 2000, Windows XP и Windows Server 2003. В последующих версиях он может быть изменен или недоступен.
+> этот компонент доступен для использования в операционных системах Microsoft Windows 2000, Windows XP и Windows Server 2003. В последующих версиях он может быть изменен или недоступен.
 
  
 
@@ -28,7 +28,7 @@ MSWebDVD.StillOff()
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 [Навигатор DVD](dvd-navigator-filter.md) переходит в режим по-прежнему при обнаружении кадра, созданного на диске. Он уведомляет ваше приложение, отправляя \_ DVD-диск EC \_ \_ на событие. Режим по-прежнему отличается от навигатора DVD в приостановленном состоянии из-за пользовательской операции. Вызов `StillOff` возобновляет воспроизведение из-прежнему режима, но не перезапускает Навигатор DVD, когда он находится в приостановленном состоянии.
 

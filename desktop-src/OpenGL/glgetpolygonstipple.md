@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 643d0ea6b7583f26565ab7b9233f7df1dce9aead
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 566a2e112b4e9d64487292adafbd4fda016f3a4ceb695a473d958a374c0add8e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103891585"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119144197"
 ---
 # <a name="glgetpolygonstipple-function"></a>Функция Глжетполигонстиппле
 
@@ -40,7 +40,7 @@ void WINAPI glGetPolygonStipple(
 
 <dl> <dt>
 
-*виде* 
+*mask* 
 </dt> <dd>
 
 Возвращает шаблон стиппле.
@@ -63,7 +63,7 @@ void WINAPI glGetPolygonStipple(
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Функция **глжетполигонстиппле** Возвращает шаблон стиппле размером 32x32 многоугольника с помощью параметра *Mask* . Шаблон упаковывается в память, как если бы [**глреадпикселс**](glreadpixels.md) с *высотой* и *шириной* 32, *типом* \_ точечного рисунка GL и *форматом* индекса GL, \_ \_ а шаблон стиппле хранился во внутреннем буфере цветового индекса 32x32. Однако в отличие от **глреадпикселс**, операции перемещения пикселей (Shift, offset и Map) не применяются к возвращаемому изображению стиппле.
 

@@ -3,7 +3,7 @@ title: Сообщение EM_LIMITTEXT (Winuser. h)
 description: EM_LIMITTEXT сообщение — задает предельный размер текста для элемента управления "поле ввода".
 ms.assetid: 5a605de7-8dc7-4c54-8f18-e0b08c720856
 keywords:
-- Элементы управления Windows для EM_LIMITTEXT сообщений
+- элементы управления Windows сообщений EM_LIMITTEXT
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a80ce29d4ee5155f6b3c5c32609366982655a078
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 82797b0a7976296dfb71d217ccb52dd71358cfbcf1e59ed31421924e5a73e5d7
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108109792"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120048714"
 ---
 # <a name="em_limittext-message"></a>\_Сообщение ЛИМИТТЕКСТ EM
 
@@ -63,15 +63,15 @@ ms.locfileid: "108109792"
 
 **Расширенное редактирование:** Поддерживается в Microsoft Rich Edit 1,0 и более поздних версиях. Используйте сообщение [**EM \_ екслимиттекст**](em-exlimittext.md) для значений длины текста, превышающих 64 000. Дополнительные сведения о совместимости расширенных версий редактирования с различными версиями системы см. в разделе [Общие сведения об элементах управления редактированием](about-rich-edit-controls.md).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                                           |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включение Windows. h)</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                           |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 
@@ -79,7 +79,7 @@ ms.locfileid: "108109792"
 
 <dl> <dt>
 
-**Ссылка**
+**Ссылки**
 </dt> <dt>
 
 [**EM \_ екслимиттекст**](em-exlimittext.md)

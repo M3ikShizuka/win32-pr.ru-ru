@@ -6,16 +6,16 @@ keywords:
 - Microsoft Agent, Пользовательский интерфейс
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4eb20bf18c6031bf72e1faadae5b74979eaa13f9
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: b37c1aa9f96ce663395a6488f6ac82fad2fa815405618d5eeb55c3f1c26e5460
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "105700637"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118975574"
 ---
 # <a name="the-microsoft-agent-user-interface"></a>Пользовательский интерфейс Microsoft Agent
 
-\[Microsoft Agent является устаревшим в Windows 7 и может быть недоступен в последующих версиях Windows.\]
+\[Microsoft Agent является устаревшим по отношению к Windows 7 и может быть недоступен в последующих версиях Windows.\]
 
 Microsoft Agent позволяет веб-сайтам и традиционным приложениям включать улучшенную форму взаимодействия с пользователем. Он предоставляет несколько компонентов пользовательского интерфейса, которые позволяют пользователям обращаться к символу и взаимодействовать с ним, узнавать состояние символа и изменять глобальные параметры, влияющие на все символы.
 
@@ -29,9 +29,9 @@ Microsoft Agent позволяет веб-сайтам и традиционны
 -   [Окно "Дополнительные параметры символов"](the-advanced-character-options-window.md)
 -   [Окно "Свойства символа по умолчанию"](the-default-character-properties-window.md)
 
- 
+ 
 
- 
+ 
 
 
 

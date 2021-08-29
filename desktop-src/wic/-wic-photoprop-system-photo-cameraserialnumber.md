@@ -4,12 +4,12 @@ ms.assetid: 85f78f45-5e76-4d52-88a2-ac3c9e2b6a1e
 title: Политика метаданных фото для System. photo. Камерасериалнумбер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6c329cd4c56b49e39de5da97ac9d9f8b14bffb64
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 9a730df8041534a377262d9bb55a19c9b109b35ab03e47d1b7e8cb88014987b5
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105684290"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118710141"
 ---
 # <a name="systemphotocameraserialnumber-photo-metadata-policy"></a>Политика метаданных фото для System. photo. Камерасериалнумбер
 
@@ -45,7 +45,7 @@ VT \_ LPWSTR
 
 
 
-| Заказ | Путь                                   | Формат диска | Обязательно |
+| Номер | Путь                                   | Формат диска | Обязательно |
 |-------|----------------------------------------|-------------|----------|
 | 1     | /КСМП/микрософтфото: Камерасериалнумбер | Юникод     | Да      |
 
@@ -59,7 +59,7 @@ VT \_ LPWSTR
 
 
 
-| Заказ | Путь                                       | Формат диска | Обязательно |
+| Номер | Путь                                       | Формат диска | Обязательно |
 |-------|--------------------------------------------|-------------|----------|
 | 1     | /ИФД/КСМП/микрософтфото: Камерасериалнумбер | Юникод     | Да      |
 
@@ -67,9 +67,9 @@ VT \_ LPWSTR
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

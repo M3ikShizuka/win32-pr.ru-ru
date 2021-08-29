@@ -4,16 +4,16 @@ description: Функция Снмпжетластеррор может возв
 ms.assetid: c286750f-a542-4f61-a22c-d77debd45775
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: beee49aef651784b0b8dc05c0114b7bf906be113
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 37550478b37cdc75c2dea427e54b4d9d3d52dcc838273a09cf904cd4479baa4f
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104070338"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119142957"
 ---
 # <a name="winsnmp-common-error-codes"></a>Общие коды ошибок WinSNMP
 
-\[Протокол SNMP доступен для использования в операционных системах, указанных в разделе требования. В последующих версиях он может быть изменен или недоступен. Вместо этого используйте [Служба удаленного управления Windows](/windows/desktop/WinRM/portal), который является реализацией Microsoft WS-Man.\]
+\[Протокол SNMP доступен для использования в операционных системах, указанных в разделе требования. В последующих версиях он может быть изменен или недоступен. вместо этого используйте [служба удаленного управления Windows](/windows/desktop/WinRM/portal), который является реализацией Microsoft WS-Man.\]
 
 Функция [**снмпжетластеррор**](/windows/desktop/api/Winsnmp/nf-winsnmp-snmpgetlasterror) может возвращать общий код ошибки после сбоя функции WinSNMP. В следующей таблице перечислены распространенные коды ошибок WinSNMP.
 
@@ -28,10 +28,10 @@ ms.locfileid: "104070338"
 
 
 
- 
+ 
 
 Ошибки WinSNMP, которые содержат сведения, относящиеся к контексту, указаны на странице справки каждой функции.
 
- 
+ 
 
- 
+ 

@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 0defdf7bfaf365c99d84aeb8a8d28384975c94a8
-ms.sourcegitcommit: b0ebdefc3dcd5c04bede94091833aa1015a2f95c
+ms.openlocfilehash: c1a4515c17c50a2070389765f1d3ef1a29ca230f053f02da943aac769e3b60d2
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "104134598"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119117694"
 ---
 # <a name="baseeapconnectionpropertiesv1-schema-elements"></a>Элементы схемы baseeapconnectionpropertiesv1
 
@@ -24,7 +24,7 @@ ms.locfileid: "104134598"
 -   [**еаптипе**](baseeapconnectionpropertiesv1schema-eaptype-element.md)
 -   [**Тип (Басиаппараметерс)**](baseeapconnectionpropertiesv1schema-type-baseeapparameters-element.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -34,9 +34,9 @@ ms.locfileid: "104134598"
 [Схема baseeapconnectionpropertiesv1](baseeapconnectionpropertiesv1schema-schema.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

@@ -4,18 +4,18 @@ ms.assetid: 1788b496-ad19-427e-be07-4aa68543fced
 title: Шифрование сообщения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f7fcc987e17c37f9b2eb80289f257101b51f5f3c
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 3d7f1f0b2aab3f34a3d329e568f9de1fc1956ea7270fe177556363024d32107c
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103896750"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119008442"
 ---
 # <a name="encrypting-a-message"></a>Шифрование сообщения
 
 В следующем примере показано шифрование сообщения перед его отправкой на удаленный компьютер по безопасному соединению.
 
-В примере предполагается, что инициализируется переменная **сечандле** с именем `phContext` и **сокет** с именем `s` . Объявления и инициации этих переменных см. в разделе [Использование SSPI с клиентом сокетов Windows](using-sspi-with-a-windows-sockets-client.md) и [Использование SSPI с сервером Windows Sockets](using-sspi-with-a-windows-sockets-server.md). Этот пример включает вызовы функций в Secur32. lib, которые должны быть включены в библиотеки ссылок.
+В примере предполагается, что инициализируется переменная **сечандле** с именем `phContext` и **сокет** с именем `s` . объявления и инициации этих переменных см. в разделе [использование sspi с клиентом Windows sockets](using-sspi-with-a-windows-sockets-client.md) и [использование sspi с сервером сокетов Windows](using-sspi-with-a-windows-sockets-server.md). Этот пример включает вызовы функций в Secur32. lib, которые должны быть включены в библиотеки ссылок.
 
 
 ```C++

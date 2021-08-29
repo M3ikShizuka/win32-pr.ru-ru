@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 1631651932d5adbc49fb59d44291dccea55fd41f
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: e7db3ddf7336d1b10890a2af16aa218e983edb747ca860d52006837ecac6c00f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105657343"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120087044"
 ---
 # <a name="ctransformfilterfindpin-method"></a>Ктрансформфилтер. Финдпин, метод
 
@@ -74,25 +74,25 @@ HRESULT FindPin(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 > [!IMPORTANT]
 > Реализация этого метода не вызывает [**Ипин:: QueryId**](/windows/desktop/api/Strmif/nf-strmif-ipin-queryid) для сопоставления с идентификатором ПИН-кода. Вместо этого метод предполагает, что входной ПИН-код имеет имя in, а выходной ПИН-код имеет имя out. Если используется другой набор ПИН-кодов, Переопределите этот метод.
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Трансфрм. h (включение Streams. h)</dt> </dl>                                                                                  |
+| Заголовок<br/>  | <dl> <dt>трансфрм. h (включает Потоки. h)</dt> </dl>                                                                                  |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

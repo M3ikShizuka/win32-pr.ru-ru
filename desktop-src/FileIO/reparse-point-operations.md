@@ -4,12 +4,12 @@ ms.assetid: c7279203-2443-401e-b541-038954094266
 title: Операции с точкой повторного анализа
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0889120af50c8415ed255b8274b76f2d53e6a563
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 7990a402270beb2f85b2355f379d971e72cf7ecb82204ee4a04e5b306e3b57bf
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104081298"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119914384"
 ---
 # <a name="reparse-point-operations"></a>Операции с точкой повторного анализа
 

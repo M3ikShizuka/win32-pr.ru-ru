@@ -3,7 +3,7 @@ title: Команда MCI_CONFIGURE (Ммсистем. h)
 description: Команда MCI \_ Configure выводит диалоговое окно для настройки параметров операционной системы. Устройство Digital-Video распознает эту команду.
 ms.assetid: 92683579-e6af-42a7-8a0f-6b88b04441f2
 keywords:
-- MCI_CONFIGURE команды мультимедиа Windows
+- команда MCI_CONFIGURE Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f752f17ac0d0a5c04edf628edfb6c04a339783f5
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: fda6595e859cf41bfa916c74344c442703c4d3adcd7e1721854b0362bffadcd7
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104414857"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119784644"
 ---
 # <a name="mci_configure-command"></a>\_Команда настройки MCI
 
@@ -76,7 +76,7 @@ MCIERROR mciSendCommand(
 |-------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                                |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                      |
-| Заголовок<br/>                   | <dl> <dt>Ммсистем. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>ммсистем. h (включает Windows. h)</dt> </dl> |
 
 
 

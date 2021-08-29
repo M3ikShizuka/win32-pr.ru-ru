@@ -1,17 +1,17 @@
 ---
 description: Тип данных Version — это текстовая строка, содержащая допустимую строку версии.
 ms.assetid: 0b19a7fb-7390-47a7-83ca-6b86ab871197
-title: Версия (установщик Windows)
+title: версия (установщик Windows)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f92f7d5e8106f75a147de0ac05ac1434b3b81ae3
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 3a5898d6598f1ae17f66a90baab99bc8ef988bcd74ebcae6eba5c97bdba5aa64
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105650472"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120038884"
 ---
-# <a name="version-windows-installer"></a>Версия (установщик Windows)
+# <a name="version-windows-installer"></a>версия (установщик Windows)
 
 Тип данных Version — это текстовая строка, содержащая допустимую строку версии. Строка версии имеет формат
 

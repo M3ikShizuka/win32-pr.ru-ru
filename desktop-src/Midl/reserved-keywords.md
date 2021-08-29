@@ -7,12 +7,12 @@ keywords:
 - MIDL сериализации в смешанном режиме
 ms.topic: article
 ms.date: 02/05/2021
-ms.openlocfilehash: 90af58bce974b2987500fdf28bc7a87a2e683715
-ms.sourcegitcommit: af9983bab40fe0b042f177ce7ca79f2eb0f9d0e8
+ms.openlocfilehash: 1aa5162e898fa8832b0eec3f742384be74f2c725730123ab6871d9f53802451d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "104273181"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119146347"
 ---
 # <a name="reserved-keywords"></a>Зарезервированные ключевые слова
 В этом разделе перечислены зарезервированные ключевые слова в MIDL. Вы не можете использовать эти ключевые слова в именах классов и членов среды выполнения.
@@ -30,7 +30,7 @@ NULL
 
 SAFEARRAY
 
-true
+TRUE
 
 __alignof
 
@@ -164,7 +164,7 @@ FLOAT
 
 handle_t
 
-Hyper
+hyper
 
 импорт
 

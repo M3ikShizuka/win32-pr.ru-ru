@@ -1,22 +1,22 @@
 ---
-title: Атрибуты с несколькими значениями (пакет SDK для формата Windows Media 11)
-description: Сведения об атрибутах с несколькими значениями в пакете SDK для формата Windows Media 11. Некоторые атрибуты элемента мультимедиа могут иметь несколько значений.
+title: атрибуты с несколькими значениями (пакет SDK для Windows Media Format 11)
+description: сведения об атрибутах с несколькими значениями в пакете SDK для Windows Media Format 11. Некоторые атрибуты элемента мультимедиа могут иметь несколько значений.
 ms.assetid: 2e65c5d0-6f5e-45a4-8e13-9e49da007145
 keywords:
-- Windows Media Format SDK, атрибуты
+- Windows Пакет SDK для формата мультимедиа, атрибуты
 - Расширенный системный формат (ASF), атрибуты
 - ASF (Расширенный системный формат), атрибуты
 - атрибуты, несколько значений
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e9466cd3f993cc1b12f27bc162e5188e6d45404b
-ms.sourcegitcommit: d0eb44d0a95f5e5efbfec3d3e9c143f5cba25bc3
+ms.openlocfilehash: 80e87ff070b4714d7d9bc7eb5fcc7728bc4c39bc964a14d8545eff2023967a6e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112262696"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119709494"
 ---
-# <a name="attributes-with-multiple-values-windows-media-format-11-sdk"></a>Атрибуты с несколькими значениями (пакет SDK для формата Windows Media 11)
+# <a name="attributes-with-multiple-values-windows-media-format-11-sdk"></a>атрибуты с несколькими значениями (пакет SDK для Windows Media Format 11)
 
 Некоторым из предопределенных атрибутов может быть назначено несколько значений. Например, « **исполнитель** » — это атрибут, который может иметь несколько значений. Можно вызвать [**IWMHeaderInfo3:: аддаттрибуте**](/previous-versions/windows/desktop/api/Wmsdkidl/nf-wmsdkidl-iwmheaderinfo3-addattribute) несколько раз, чтобы добавить столько значений **исполнителей** , сколько требуется. При выполнении нескольких вызовов **аддаттрибуте** для атрибутов, которые не поддерживают несколько значений, метод может вернуть код ошибки или просто проигнорировать запрос.
 

@@ -4,17 +4,17 @@ ms.assetid: 005ec550-e04c-4dae-aa5d-d79afefe48ed
 title: Метод Селектатпоситион
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 97bc9feaa4855baac75fca0e776a26a6975b235a
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: e83cd45bc0d0a532531658a7cd55b6b1fa9a450726f1a00cf358c2db44b3e5f2
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "103805837"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119072658"
 ---
 # <a name="selectatposition-method"></a>Метод Селектатпоситион
 
 > [!Note]  
-> Этот компонент доступен для использования в операционных системах Microsoft Windows 2000, Windows XP и Windows Server 2003. В последующих версиях он может быть изменен или недоступен.
+> этот компонент доступен для использования в операционных системах Microsoft Windows 2000, Windows XP и Windows Server 2003. В последующих версиях он может быть изменен или недоступен.
 
  
 
@@ -46,13 +46,13 @@ MSWebDVD.SelectAtPosition(xPos, yPos)
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Используйте этот метод при реализации пользовательской обработки мыши после установки для [**дисаблеаутомаусепроцессинг**](disableautomouseprocessing-property.md) значения **true**.
 
 При выборе команды просто выделяется кнопка. Чтобы отправить команду, связанную с выбранной кнопкой, вызовите [**активатебуттон**](activatebutton-method.md).
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

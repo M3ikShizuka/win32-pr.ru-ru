@@ -6,12 +6,12 @@ keywords:
 - Иенумстатпропсетстг Стрктд STG, реализация составного файла
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9566af1a1956b3a951a996b6198f4a3161680042
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: ed34688f4967263649c828ab76b73b4d5150142ffa826e291fa4a0cfb7f50750
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104337740"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119663034"
 ---
 # <a name="ienumstatpropsetstg-compound-file-implementation"></a>Реализация файла IEnumSTATPROPSETSTG-Compound
 
@@ -21,7 +21,7 @@ ms.locfileid: "104337740"
 
 Вызывайте методы [**иенумстатпропсетстг**](/windows/win32/api/propidlbase/nn-propidlbase-ienumstatpropsetstg) для перечисления структур [**статпропсетстг**](/windows/win32/api/propidlbase/nn-propidlbase-ienumstatpropsetstg) , каждый из которых предоставляет данные о одном из наборов свойств, связанных с объектом хранилища составного файла.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 <dl> <dt>
 
@@ -36,7 +36,7 @@ ms.locfileid: "104337740"
 > [!Note]  
 > Если вы всегда создаете набор свойств с помощью [**IPropertySetStorage:: Create**](/windows/desktop/api/Propidl/nf-propidl-ipropertysetstorage-create), а затем, так как для имени хранилища создается "символьный GUID", [**Иенумстатпропсетстг:: Next**](/windows/win32/api/propidlbase/nn-propidlbase-ienumstatpropstg) вернет ненулевое, допустимое FMTID для свойства Set \[ статпропсетстг. FMTID \] .
 
- 
+ 
 
 -   Элемент СТАТПРОПСЕТСТГ. Грффлагс не обязательно отражает, имеет ли свойство значение ANSI. Если \_ задано значение пропсетфлаг ANSI, свойство устанавливается в определенном формате ANSI. Если ПРОПСЕТФЛАГ \_ ANSI является четким, набор свойств может быть либо в Юникоде, либо в формате, отличном от Юникода, так как невозможно определить, является ли он ANSI без открытия.
 -   Член СТАТПРОПСЕТСТГ. Грффлагс отражает, является ли набор свойств простым или нет, поэтому параметр \_ непростой флага пропсетфлаг всегда является допустимым.
@@ -66,6 +66,6 @@ ms.locfileid: "104337740"
 
 </dd> </dl>
 
- 
+ 
 
- 
+ 

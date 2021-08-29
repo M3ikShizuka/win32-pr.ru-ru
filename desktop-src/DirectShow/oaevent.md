@@ -1,19 +1,19 @@
 ---
-description: Тип данных ОАЕВЕНТ определяет обработчик событий, который может использоваться клиентами OLE Automation, например Microsoft Visual Basic 6,0.
+description: тип данных оаевент определяет обработчик событий, который может использоваться клиентами OLE Automation, например Microsoft Visual Basic 6,0.
 ms.assetid: 2c260592-98a9-4f85-accf-282bd5231d5c
 title: ОАЕВЕНТ (Control. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d24dbc2ed735c899d94e6024e84de189499627cc
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 9e38cab927e36c7e7508bf3ec7d21150585763226849380c880566846329cc04
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105689030"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120050854"
 ---
 # <a name="oaevent"></a>оаевент
 
-Тип данных **оаевент** определяет обработчик событий, который может использоваться клиентами OLE Automation, например Microsoft Visual Basic 6,0.
+тип данных **оаевент** определяет обработчик событий, который может использоваться клиентами OLE Automation, например Microsoft Visual Basic 6,0.
 
 
 ```C++
@@ -28,7 +28,7 @@ typedef LONG_PTR OAEVENT;
 
 | Требование | Значение |
 |-------------------|--------------------------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Control. h (включение DShow. h)</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Control. h (включение DShow. h)</dt> </dl> |
 
 
 
@@ -36,7 +36,7 @@ typedef LONG_PTR OAEVENT;
 
 <dl> <dt>
 
-[Типы данных DirectShow](directshow-data-types.md)
+[DirectShow Типы данных](directshow-data-types.md)
 </dt> <dt>
 
 [**Имедиаевент:: Жетевенсандле**](/windows/desktop/api/Control/nf-control-imediaevent-geteventhandle)

@@ -4,12 +4,12 @@ ms.assetid: abc21696-ea97-41ff-9341-6d9e9dcb19ec
 title: Атрибут MF_PD_DURATION (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ace7bd4f897de0220c2c449ce4fa891ac52eb200
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 9662e68c2380ad1ef9d009302a08d8798ab228fae0fe2b00528d37a4f7269c33
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105712324"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119664104"
 ---
 # <a name="mf_pd_duration-attribute"></a>\_ \_ Атрибут DURATION для MF PD
 
@@ -21,7 +21,7 @@ ms.locfileid: "105712324"
 
 Рассматривать как значение **лонглонг** .
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Источники мультимедиа могут установить этот атрибут для дескриптора презентации, чтобы указать длительность презентации.
 
@@ -53,19 +53,19 @@ HRESULT GetSourceDuration(IMFMediaSource *pSource, MFTIME *pDuration)
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows Vista \|\]<br/>                              |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2008 \|\]<br/>                        |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Приложения UWP для классических приложений Vista \|\]<br/>                              |
+| Минимальная версия сервера<br/> | Windows \[Приложения UWP для классических приложений сервера 2008 \|\]<br/>                        |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

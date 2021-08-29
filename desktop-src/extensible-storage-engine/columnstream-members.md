@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.colu
 ms:contentKeyID: 55101147
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 9f35c0e000329bc98e2f9fd5873cd724516271d2
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 4053991221a768e486862b3bb86c9cae193407f5815c662d723871a65654db2a
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104568760"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119738284"
 ---
 # <a name="columnstream-members"></a>Участники ColumnStream 
 

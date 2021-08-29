@@ -4,12 +4,12 @@ description: Как стороннее консоль управления SNMP 
 ms.assetid: 2edbf9ff-b9e3-4103-affc-a5c0f22b80a1
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 39d58943f0765b60f9c235094642d3fa759402db
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 1feb82b50a954ef96310b887b9fc6e73694242b639a354cd29a5c328c43daf5d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103986335"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119009472"
 ---
 # <a name="how-snmp-works"></a>Как работает SNMP
 
@@ -21,9 +21,9 @@ ms.locfileid: "103986335"
 4.  Служба SNMP выбирает соответствующий агент расширения и запрашивает получение агентом запрошенной информации.
 5.  Служба SNMP отправляет ответ в консольное приложение управления SNMP.
 
- 
+ 
 
- 
+ 
 
 
 

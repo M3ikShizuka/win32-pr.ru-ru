@@ -15,12 +15,12 @@ keywords:
 - Фрагмент Metallica
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: adca2cca96b45ecf0313f811b5df4e966be8fc0f
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.openlocfilehash: d01130a34759d8445913704a37406d93a1bbce0b8ad714f4467783e4b3a63b63
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "103890545"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119144737"
 ---
 # <a name="creating-a-riff-chunk"></a>Создание фрагмента Metallica
 
@@ -45,6 +45,6 @@ mmioCreateChunk(hmmio, &mmckinfo, MMIO_CREATERIFF);
 
 После создания фрагмента с помощью функции [**ммиокреатечунк**](/windows/win32/api/mmiscapi/nf-mmiscapi-mmiocreatechunk) в качестве расположения файла устанавливается значение поля данных фрагмента (8 байт с начала фрагмента). Если фрагмент является блоком "Metallica" или "LIST", позиция файла устанавливается в расположение, следующее за типом или типом списка (12 байт с начала фрагмента).
 
- 
+ 
 
- 
+ 

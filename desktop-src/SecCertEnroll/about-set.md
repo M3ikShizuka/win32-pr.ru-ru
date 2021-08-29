@@ -4,12 +4,12 @@ ms.assetid: 6bbe89da-1177-4cfa-9515-03b271e5ef6b
 title: SET
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 572114d754b5034babe81e3914599f48996867d2
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 95eb2b9df8097f716ef98d55d052d2dbc2ef09b1bfe57de0e793d2b063967710
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105663099"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118903683"
 ---
 # <a name="set"></a>SET
 
@@ -39,7 +39,7 @@ ms.locfileid: "105663099"
 
 Если **набор** содержит менее 128 байт, поле **length** TLV Triplet требует только одного байта для указания длины содержимого. Если его длина превышает 127 байт, в поле **length** в разряде 7 устанавливается значение 1, а для битов с 6 по 0 укажите число дополнительных байтов, используемых для определения длины содержимого. Дополнительные сведения см. в разделе [кодированная Длина и байты значений](about-encoded-length-and-value-bytes.md).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 00a00227-45fc-49a1-8ff5-aeccb172d16a
 title: Имена объектов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ee746150a41f335a4073cb4b5ba282d17ad706f9
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: d794871ef3f55a930a06a6cfc4cfc09451635d4883d97e128104b49998589229
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105663881"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118886273"
 ---
 # <a name="object-names"></a>Имена объектов
 
@@ -23,7 +23,7 @@ ms.locfileid: "105663881"
 
 Объекты синхронизации можно создавать в закрытом пространстве имен. Дополнительные сведения см. в разделе [пространства имен объектов](object-namespaces.md).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

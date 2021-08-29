@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a90b3f6bada75812b37df014cedadfb4e7ff2e83
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: ba52de0d70c6f7e45b268fd879542ce64ed4a3b6fbe26dd994ad6723fb819857
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105681864"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119137577"
 ---
 # <a name="brokenconnection-method-of-the-win32_tssessionsetting-class"></a>Метод Брокенконнектион \_ класса Win32 тссессионсеттинг
 
@@ -76,9 +76,9 @@ uint32 BrokenConnection(
 
 Возвращает значение 0 при успешном выполнении, в противном случае возвращает код ошибки WMI. Список этих значений см. в разделе [службы удаленных рабочих столов коды ошибок поставщика WMI](terminal-services-wmi-provider-error-codes.md) . Метод возвращает ошибку, если параметр находится в элементе управления групповая политика.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-Файлы MOF-файл (MOF) содержат определения для классов инструментарий управления Windows (WMI) (WMI). MOF-файлы не устанавливаются в составе пакета средств разработки программного обеспечения Microsoft Windows (SDK). Они устанавливаются на сервере при добавлении связанной роли с помощью диспетчер сервера. Дополнительные сведения о файлах MOF см. в разделе [MOF-файл (MOF)](/windows/desktop/WmiSdk/managed-object-format--mof-).
+файлы MOF-файл (MOF) содержат определения для классов инструментарий управления Windows (WMI) (WMI). файлы MOF не устанавливаются в составе пакета средств разработки программного обеспечения Microsoft Windows Software Development Kit (SDK). Они устанавливаются на сервере при добавлении связанной роли с помощью диспетчер сервера. Дополнительные сведения о файлах MOF см. в разделе [MOF-файл (MOF)](/windows/desktop/WmiSdk/managed-object-format--mof-).
 
 ## <a name="requirements"></a>Требования
 
@@ -89,7 +89,7 @@ uint32 BrokenConnection(
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                 |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                           |
 | Пространство имен<br/>                | Корневой \\ CIMv2 \\ терминалсервицес<br/>                                                 |
-| Header<br/>                   | <dl> <dt>Втспротокол. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Втспротокол. h</dt> </dl> |
 | MOF<br/>                      | <dl> <dt>Тскфгвми. mof</dt> </dl>  |
 | DLL<br/>                      | <dl> <dt>TSCfgWmi.dll</dt> </dl>  |
 

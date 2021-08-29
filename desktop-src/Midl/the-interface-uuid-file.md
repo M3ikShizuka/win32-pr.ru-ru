@@ -7,12 +7,12 @@ keywords:
 - файл UUID интерфейса MIDL
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0d9ff6e8a115f51aaff001749d29e1206716abc8
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 5d12986ee265fa50f440dd07812d222bb4e7549a6c32c93938803255480871f3
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103778992"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119146207"
 ---
 # <a name="the-interface-uuid-file"></a>Файл UUID интерфейса
 
@@ -20,9 +20,9 @@ ms.locfileid: "103778992"
 
 Имя по умолчанию для файла IID интерфейса, созданного из файла. idl — файл \_ i.c. Параметр компилятора [**/IID**](-iid.md) MIDL переопределяет имя файла UUID интерфейса по умолчанию.
 
- 
+ 
 
- 
+ 
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: 21b76829-01c4-4228-a714-6319e5eb1c61
 title: Намеспацедекларатионс, элемент
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3e98d9c0cf1556e21d92fe7ea1ba222e861f00ac
-ms.sourcegitcommit: b6fe9acffad983c14864b8fe0296f6025cb1f961
+ms.openlocfilehash: 76cb403e996dfec949668587740b06ce7ef01beffe9e8dbb77179ce1962da243
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "107994261"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119130686"
 ---
 # <a name="namespacedeclarations-element"></a>Намеспацедекларатионс, элемент
 
@@ -39,7 +39,7 @@ ms.locfileid: "107994261"
 
 
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 На таблицы пространств имен ссылаются таблицы типов и другой созданный код, поэтому этот элемент используется для создания включаемых файлов.
 

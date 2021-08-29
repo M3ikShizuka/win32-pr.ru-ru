@@ -4,12 +4,12 @@ ms.assetid: 4113956f-164e-4ff2-ba22-3a5651d6adec
 title: Атрибуты КСТЛ
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: eaf11e5a60b3fa104f2d6136fd35ff34c15d8afa
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: f42df235adea29b74fbc2cc4a8e9a5e9ab1b0ec26e86c3ee5adec2a43e8c77ff
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105664183"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120049004"
 ---
 # <a name="xtl-attributes"></a>Атрибуты КСТЛ
 
@@ -29,7 +29,7 @@ ms.locfileid: "105664183"
 -   [**дефаулттранс**](defaulttrans-attribute.md)
 -   [**енаблефкс**](enablefx-attribute.md)
 -   [**енаблетранс**](enabletrans-attribute.md)
--   [**framerate**](framerate-attribute.md)
+-   [**частота**](framerate-attribute.md)
 -   [**равно**](height-attribute.md)
 -   [**скрыть**](lock-attribute.md)
 -   [**мленгс**](mlength-attribute.md)
@@ -45,7 +45,7 @@ ms.locfileid: "105664183"
 -   [**вышестоящий**](stream-attribute.md)
 -   [**стретчмоде**](stretchmode-attribute.md)
 -   [**свапинпутс**](swapinputs-attribute.md)
--   [**time**](time-attribute.md)
+-   [**Таймаут**](time-attribute.md)
 -   [**Тип**](type-attribute.md)
 -   [**UserData**](userdata-attribute.md)
 -   [**UserID**](userid-attribute.md)

@@ -4,12 +4,12 @@ ms.assetid: 1c2f932d-11f4-406f-8874-2f247b53d70f
 title: Типы данных проверки подлинности
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 38873b3385817187469466bf67f350a7f0701d2b
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: b57f5023ede2624041e87bb81279ad768fdb4fd2161924d6c876b364ac91154e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104347315"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119141487"
 ---
 # <a name="authentication-data-types"></a>Типы данных проверки подлинности
 

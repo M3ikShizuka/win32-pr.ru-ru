@@ -20,12 +20,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: b587a07f33b066cfd7dbeebc44d7277b33c6bee8
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 4686ed24682f27358b9a7959d7bb91519674b9db295a6d9c2aa10df1d06a87f5
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108106312"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119069974"
 ---
 # <a name="process_v2_typegroup1-class"></a>\_ \_ Класс TypeGroup1 процесса v2
 
@@ -205,7 +205,7 @@ UserSID
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

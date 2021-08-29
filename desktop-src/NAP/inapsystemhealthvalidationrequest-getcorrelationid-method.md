@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f1095a2c3eec90ff33613b6d37b43f31fdabd107
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 9a890e6091a3803b2af984cf95c2559db2979dfeb674d0904496421e7d0ad710
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104490359"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119780814"
 ---
 # <a name="inapsystemhealthvalidationrequestgetcorrelationid-method"></a>Метод Инапсистемхеалсвалидатионрекуест:: Жеткоррелатионид
 
@@ -70,21 +70,21 @@ HRESULT GetCorrelationId(
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                                               |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                                    |
-| Header<br/>                   | <dl> <dt>Напсистемхеалсвалидатор. h</dt> </dl>   |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                                    |
+| Заголовок<br/>                   | <dl> <dt>Напсистемхеалсвалидатор. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>Напсистемхеалсвалидатор. idl</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Qshvhost.dll</dt> </dl>                 |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

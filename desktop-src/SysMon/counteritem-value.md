@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 62c0d6bd9e1751e34c980bc95f790314017eeb49
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 7399215d118e86ecfc1c58fab79b17866658a6d057d39b7df26199f86d7568ea
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105661920"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118883669"
 ---
 # <a name="counteritemvalue-property"></a>Каунтеритем. Value, свойство
 
@@ -42,7 +42,7 @@ Property Value As Double
 
 Последнее значение выборки счетчика. При возникновении ошибки значение-1.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это свойство по умолчанию объекта [**каунтеритем**](counteritem.md) .
 

@@ -11,12 +11,12 @@ api_name:
 - IgnorePassword
 api_type:
 - Schema
-ms.openlocfilehash: 40211a8f848d8d0551ed39297178bc985d9efba4
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 683fafb763e3f8613afa1b8dca99020856d67a03fdb44e993adf032ce166ceab
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105711161"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118975173"
 ---
 # <a name="ignorepassword-userlogoncred-element"></a>Игнорепассворд (Усерлогонкред), элемент
 
@@ -34,18 +34,18 @@ ms.locfileid: "105711161"
 
 Элемент **игнорепассворд** определяется элементом [**усерлогонкред**](schema-userlogoncred-contexttype-element.md) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 7 \|\]<br/> |
+| Минимальная версия клиента<br/> | \[приложения UWP для классических приложений Windows 7 \|\]<br/> |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                         |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

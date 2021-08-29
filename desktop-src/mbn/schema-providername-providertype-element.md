@@ -11,12 +11,12 @@ api_name:
 - ProviderName
 api_type:
 - Schema
-ms.openlocfilehash: 47929d508ad6d3a6567c1b52e720360f4e7cfbda
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 6d5e6bd95c5bea00cec90f27658c41e7f1a3a99f8ddce6870c60f54e9eaf1717
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105647189"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118975153"
 ---
 # <a name="providername-providertype-element"></a>Элемент ProviderName (providerType)
 
@@ -34,18 +34,18 @@ ms.locfileid: "105647189"
 
 Элемент **providerName** определяется сложным типом [**ProviderType**](schema-providertype-complextype.md) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 7 \|\]<br/> |
+| Минимальная версия клиента<br/> | \[приложения UWP для классических приложений Windows 7 \|\]<br/> |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                         |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

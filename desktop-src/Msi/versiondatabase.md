@@ -4,24 +4,24 @@ ms.assetid: e75185a5-1b47-470f-b780-fba30740f499
 title: Версиондатабасе, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 73eca7f9672f5fd9df72dffbc53ef8f50f66c253
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 4139a53ac00d84076ce6f1d4ad70dc49bf7be7ef5d02ea3a7bf4e463fa9f2cc7
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105652002"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120038834"
 ---
 # <a name="versiondatabase-property"></a>Версиондатабасе, свойство
 
 Значением свойства **версиондатабасе** является номер версии текущей установки базы данных.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/> | Установщик Windows 5,0 в Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Установщик Windows 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Установщик Windows в Windows Server 2003 или Windows XP ознакомьтесь с [требованиями к установщик Windows Run-Time](windows-installer-portal.md) , чтобы получить сведения о минимальном пакете обновления Windows, который требуется для установщик Windows версии.<br/> |
+| Версия<br/> | Windows установщик 5,0 на Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Windows установщик 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Windows установщик на Windows Server 2003 или Windows XP ознакомьтесь с [требованиями к установщик Windows Run-Time](windows-installer-portal.md) для получения сведений о минимальном Windows пакете обновления, который требуется для установщик Windows версии.<br/> |
 
 
 

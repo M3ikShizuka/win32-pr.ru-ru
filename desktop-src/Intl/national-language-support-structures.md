@@ -4,12 +4,12 @@ ms.assetid: 75382149-7d4e-4b3e-929e-ee39bf666110
 title: Структуры поддержки национальных языков
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6233c35f89e7bab7c1e5b55fdb0cf072416e9eca
-ms.sourcegitcommit: 3d718d8f69d3f86eaecf94c5705d761c5a9ef4a1
+ms.openlocfilehash: 0683c046608d07c56092d380ebcddf3097fb444e43a1ea4bec03e07a1735c124
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/20/2020
-ms.locfileid: "103891208"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120041074"
 ---
 # <a name="national-language-support-structures"></a>Структуры поддержки национальных языков
 
@@ -26,9 +26,9 @@ ms.locfileid: "103891208"
 [**нумберфмт**](/windows/desktop/api/Winnls/ns-winnls-numberfmta)  
 </dl>
 
- 
+ 
 
- 
+ 
 
 
 

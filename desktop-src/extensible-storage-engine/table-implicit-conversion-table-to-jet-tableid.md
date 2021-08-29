@@ -25,12 +25,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 886f5085ee09020730b36269255279836b31562a
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: e7ea10d0e09492c3f0f27a0d3538ccaf458cb761678c699032fc1b61f43d0eb7
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105719606"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119780234"
 ---
 # <a name="table-implicit-conversion-table-to-jet_tableid"></a>Неявное преобразование таблицы (таблица для JET_TABLEID)
 
@@ -71,7 +71,7 @@ public static implicit operator JET_TABLEID (
 Тип: [Microsoft.ISAM.ESENT.Interop.JET_TABLEID](./jet-tableid-structure.md)  
 JET_TABLEID таблицы.  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 #### <a name="reference"></a>Справочник
 

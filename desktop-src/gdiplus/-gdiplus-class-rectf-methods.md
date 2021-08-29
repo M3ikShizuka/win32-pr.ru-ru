@@ -4,12 +4,12 @@ ms.assetid: f14f1693-b0f3-4e68-8245-846aef1ed299
 title: Методы Ректф
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 849d8a00f1bc7edfb605f97fc0b063b52cc0288d
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: fbe274b1c284e69ac8b24b1a829aa4ec36118af60bc1ddb16820dc3e50556093
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104985233"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119037012"
 ---
 # <a name="rectf-methods"></a>Методы Ректф
 
@@ -19,7 +19,7 @@ ms.locfileid: "104985233"
 -   [**Contains (Ректф&)**](/windows/win32/api/gdiplustypes/nf-gdiplustypes-rectf-contains(inconstrectf_))
 -   [**Contains (PointF&)**](/windows/win32/api/gdiplustypes/nf-gdiplustypes-rectf-contains(inconstpointf_))
 -   [**Содержит (REAL, REAL)**](/previous-versions//ms534956(v=vs.85))
--   [**Прошлом**](/windows/desktop/api/Gdiplustypes/nf-gdiplustypes-rectf-equals)
+-   [**Равно**](/windows/desktop/api/Gdiplustypes/nf-gdiplustypes-rectf-equals)
 -   [**По нижнему краю**](/windows/desktop/api/Gdiplustypes/nf-gdiplustypes-rectf-getbottom)
 -   [**GetBounds**](/windows/desktop/api/Gdiplustypes/nf-gdiplustypes-rectf-getbounds)
 -   [**GetLeft**](/windows/desktop/api/Gdiplustypes/nf-gdiplustypes-rectf-getleft)

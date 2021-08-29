@@ -4,12 +4,12 @@ ms.assetid: 3ab67adb-311f-404c-a3ca-d274af53f91c
 title: Типы потоков распределителя ресурсов COM+
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 761d85edc3105785ded904fd2dc6083a9aea30cd
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: f20f9fc25dd1811b401dd15998ddb3f8fb9b21e5964277cc94d0ab1797eae622
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104423277"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119129056"
 ---
 # <a name="com-resource-dispenser-thread-types"></a>Типы потоков распределителя ресурсов COM+
 
@@ -25,7 +25,7 @@ ms.locfileid: "104423277"
 
 Возможно, более эффективно кэшировать эти прокси для каждого потока, сохранив карту из идентификатора потока в указатель прокси-сервера. Эта схема расширяется по мере использования новых потоков в процессе.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

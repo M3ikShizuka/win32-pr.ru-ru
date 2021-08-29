@@ -30,12 +30,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: be7eca852f8c0d111bbdd977f76406ec690088262be989bea6e45e0afc27e502
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9baf3dea6a5ba68044142aed023006ebfecc2d34
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119919264"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122884084"
 ---
 # <a name="cim_softwareelement-class-cimwin32-wmi-providers"></a>Класс CIM_SoftwareElement (поставщики WMI CIMWin32)
 
@@ -205,7 +205,7 @@ class CIM_SoftwareElement : CIM_LogicalElement
 
 </dd> <dt>
 
-**Производителя**
+**Изготовитель**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -221,7 +221,7 @@ class CIM_SoftwareElement : CIM_LogicalElement
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -993,12 +993,12 @@ Mac OS 9
 
 Версия операции должна быть в одной из следующих форм:
 
--   <major>.<minor>.<revision>
--   <major>.<minor><letter><revision>
+-   &lt;основной &gt; . &lt; дополнительный номер &gt; . &lt; редакции&gt;
+-   &lt;основной &gt; . &lt; Дополнительная &gt; &lt; буква &gt; &lt; версии&gt;
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **CIM \_ софтварилемент** является производным от [**CIM \_ логикалелемент**](cim-logicalelement.md).
 
@@ -1006,7 +1006,7 @@ Mac OS 9
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -1020,7 +1020,7 @@ Mac OS 9
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

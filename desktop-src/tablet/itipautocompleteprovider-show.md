@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - tiptsf.dll
-ms.openlocfilehash: 950358ae28d1cb68af803ed6b7f520f1bbad8c03
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 2afc5fc264df4d38e85dfa3374714b06908eee8ec1c5517b49dc32cbcbd44f99
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103818112"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118716455"
 ---
 # <a name="itipautocompleteprovidershow-method"></a>Метод Итипаутокомплетепровидер:: «показывать»
 
@@ -61,7 +61,7 @@ HRESULT Show(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот метод вызывается клиентом для отображения или скрытия списка автозавершения. Если список автозавершения не отображается и *фшов* имеет **значение false**, этот метод не выполняет никаких действий. Если отображается список автозавершения и *фшов* имеет **значение true**, этот метод ничего не делает.
 
@@ -71,7 +71,7 @@ HRESULT Show(
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только классические приложения Windows XP Tablet PC Edition \[\]<br/>                                                                   |
+| Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                                                                   |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                                                       |
 | Header<br/>                   | <dl> <dt>Типаутокомплете. h (также требуется Пенинпутпанел \_ i. c)</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Tiptsf.dll</dt> </dl>                                           |

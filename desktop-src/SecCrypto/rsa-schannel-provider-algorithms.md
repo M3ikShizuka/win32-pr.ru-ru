@@ -4,12 +4,12 @@ ms.assetid: 8793f0e8-a368-42be-8351-c60d99c34fb9
 title: Алгоритмы поставщика RSA/SChannel
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c9dc3293b0938e9c9e89e955b26eac2a40ac198b
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 688dd7f22e6353544690c14091d29af50fec94dc3b65d6733aefc2a9fa8387bb
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105662427"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118900518"
 ---
 # <a name="rsaschannel-provider-algorithms"></a>Алгоритмы поставщика RSA/SChannel
 

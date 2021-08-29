@@ -4,12 +4,12 @@ ms.assetid: 67d8f3c4-0295-4028-8b12-1a5e26979df5
 title: Конфигурация модема
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b7abd6c5319011b8821487b6adf0351dc799e61f
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: bf7cff4bff24816520c2477accef554b4e9990ff153f4b3c256b033265d00e51
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103896245"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119076208"
 ---
 # <a name="modem-configuration"></a>Конфигурация модема
 

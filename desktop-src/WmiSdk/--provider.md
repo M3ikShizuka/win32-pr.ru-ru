@@ -15,12 +15,12 @@ api_type:
 - Schema
 api_location:
 - All
-ms.openlocfilehash: 733323c106a5d682e7eddbe3a41bf9c156520c51
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 31f50f731942e056b201146abeccb038b32f2230c3bcd058f44279bc95bd326b
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105712123"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119132057"
 ---
 # <a name="__provider-class"></a>\_\_Класс поставщика
 
@@ -44,13 +44,13 @@ class __Provider : __SystemClass
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **\_ \_ поставщика** имеет следующие свойства.
 
 <dl> <dt>
 
-**Name**
+**Имя**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -72,7 +72,7 @@ class __Provider : __SystemClass
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **\_ \_ поставщика** является производным от [**\_ \_ системкласс**](--systemclass.md), у которого нет свойств.
 

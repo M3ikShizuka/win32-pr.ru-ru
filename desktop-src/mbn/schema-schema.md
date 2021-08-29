@@ -4,12 +4,12 @@ ms.assetid: bfec0a1d-de17-4ebd-b9fb-570e230da317
 title: Справочник по схеме профиля мобильного широкополосного подключения
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 425db1d38002e40969bb47c03952330dd6ccd26d
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 82fd085264747807578a260cb7cf0ed254dec7d55a375a77fe022f064e51e9e1
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105662410"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119035772"
 ---
 # <a name="mobile-broadband-profile-schema-reference"></a>Справочник по схеме профиля мобильного широкополосного подключения
 
@@ -17,7 +17,7 @@ ms.locfileid: "105662410"
 
 Профили хранят параметры конфигурации пользователя и сети, связанные с мобильным широкополосным подключением. Они также сохраняют настройки пользователя для подключения.
 
-Корневым элементом профиля мобильного широкополосного подключения является элемент [**мбнпрофиле**](schema-mbnprofile-element.md) . Каждый профиль имеет только один корневой элемент. Все элементы схемы профиля мобильной широкополосной связи, используемые Windows 7, находятся в пространстве имен, `https://www.microsoft.com/networking/WWAN/profile/v1` а элементы, используемые Windows 8, находятся в пространстве имен `https://www.microsoft.com/networking/WWAN/profile/v2` .
+Корневым элементом профиля мобильного широкополосного подключения является элемент [**мбнпрофиле**](schema-mbnprofile-element.md) . Каждый профиль имеет только один корневой элемент. все элементы схемы профиля мобильного широкополосного подключения, используемые Windows 7, находятся в пространстве имен, `https://www.microsoft.com/networking/WWAN/profile/v1` а элементы, используемые Windows 8, находятся в пространстве имен `https://www.microsoft.com/networking/WWAN/profile/v2` .
 
 Схема профиля мобильного широкополосного подключения строго обеспечивает порядок узлов. Узлы, указанные в профиле, должны соответствовать **схеме профиля мобильного широкополосного подключения** и отображаться в порядке, указанном в определении схемы. Например, [**усерлогонкред**](schema-userlogoncred-contexttype-element.md) должен быть указан сразу после [**акцессстринг**](schema-accessstring-contexttype-element.md).
 

@@ -15,12 +15,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 16cb0362b5c1b1d432d72bb959103adbb7315069
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 48e326c06c1cb9a17176e5fb71016c1cf23dde628eff9aed1f8e3b49d597786a
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104155811"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119050062"
 ---
 # <a name="iswbemsinkeventsoncompleted-event"></a>Событие Исвбемсинкевентс:: OnComplete
 
@@ -97,11 +97,11 @@ SWbemSink.OnCompleted( _
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Асинхронный обратный вызов позволяет пользователю без проверки подлинности предоставлять данные в приемник. Это создает угрозы безопасности для сценариев и приложений. Чтобы устранить риски, используйте семисинчронаус или синхронный обмен данными. Дополнительные сведения см. [в разделе вызов метода](calling-a-method.md).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -109,7 +109,7 @@ SWbemSink.OnCompleted( _
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>Wbemdisp. idl</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_СВБЕМСИНК CLSID<br/>                                                             |

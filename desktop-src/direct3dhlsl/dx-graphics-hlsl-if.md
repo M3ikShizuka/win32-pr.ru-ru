@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: df4a1f049526422f39c3529395481548943c7e84
-ms.sourcegitcommit: b32433cc0394159c7263809ae67615ab5792d40d
+ms.openlocfilehash: 66c04a2ac9c995d3eafa0f93171483c784c72814
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "113118959"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122473100"
 ---
 # <a name="if-statement"></a>Оператор if
 
@@ -41,33 +41,12 @@ ms.locfileid: "113118959"
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>attribute</th>
-<th>Описание</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>ветвь</td>
-<td>Оцените только одну сторону оператора if в зависимости от заданного условия.
-<blockquote>
-[!Note]<br />
-При использовании <a href="dx-graphics-hlsl-sm2.md">модели шейдеров 2. x</a> или <a href="dx-graphics-hlsl-sm3.md">Shader Model 3,0</a>каждый раз при использовании динамического ветвления используются ресурсы. Поэтому при чрезмерном использовании динамической ветви при выборе этих профилей могут возникнуть ошибки компиляции.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="even">
-<td>преобразовать в плоский формат</td>
-<td>Оцените обе стороны оператора if и выберите один из двух результирующих значений.</td>
-</tr>
-</tbody>
-</table>
+
+| attribute | Описание | 
+|-----------|-------------|
+| ветвь | Оцените только одну сторону оператора if в зависимости от заданного условия.<blockquote>[!Note]<br />При использовании <a href="dx-graphics-hlsl-sm2.md">модели шейдеров 2. x</a> или <a href="dx-graphics-hlsl-sm3.md">Shader Model 3,0</a>каждый раз при использовании динамического ветвления используются ресурсы. Поэтому при чрезмерном использовании динамической ветви при выборе этих профилей могут возникнуть ошибки компиляции.</blockquote><br /> | 
+| преобразовать в плоский формат | Оцените обе стороны оператора if и выберите один из двух результирующих значений. | 
+
 
 
 
@@ -89,7 +68,7 @@ ms.locfileid: "113118959"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если компилятор использует метод ветвления для компиляции оператора if, он создаст код, который будет оценивать только одну сторону оператора if в зависимости от заданного условия. Например, в операторе if:
 
@@ -125,7 +104,7 @@ ms.locfileid: "113118959"
 
 <dl> <dt>
 
-[Управление потоком](dx-graphics-hlsl-flow-control.md)
+[Flow Элемента](dx-graphics-hlsl-flow-control.md)
 </dt> </dl>
 
  

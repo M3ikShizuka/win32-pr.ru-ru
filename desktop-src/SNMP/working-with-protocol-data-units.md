@@ -7,12 +7,12 @@ keywords:
 - Протоколы единиц данных протокола SNMP, работа с
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c2e40f36fa28f7ff17974d79f4f8ac29b8b6130b
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: b61fff4aed06d548718df130801c5c64674ff0b10feaf52b8bfad208d441d4fb
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104068293"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119142767"
 ---
 # <a name="working-with-protocol-data-units"></a>Работа с единицами данных протокола
 
@@ -34,13 +34,13 @@ ms.locfileid: "104068293"
 
 
 
- 
+ 
 
 Дополнительные сведения см. в разделе [Работа с списками привязок переменных](working-with-variable-binding-lists.md) и [объектами обработчика ресурсов](resource-handle-objects.md).
 
- 
+ 
 
- 
+ 
 
 
 
