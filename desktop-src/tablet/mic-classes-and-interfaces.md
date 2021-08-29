@@ -4,18 +4,18 @@ ms.assetid: 1ea452f2-6831-4f0d-90f7-901194af83b1
 title: Классы и интерфейсы для ввода математических символов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7525592aa64bfcba40b3ef873cfb0c2ea3c789f2
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: fc298cb5898de38bb87d3850783ff79b67a7162b97befb551479c58d5dd01f4f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103912896"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119934804"
 ---
 # <a name="math-input-classes-and-interfaces"></a>Классы и интерфейсы для ввода математических символов
 
 В этом разделе содержатся классы и интерфейсы, используемые для элемента управления математическими данными.
 
-## <a name="in-this-section"></a>в этом разделе
+## <a name="in-this-section"></a>В этом разделе
 
 
 

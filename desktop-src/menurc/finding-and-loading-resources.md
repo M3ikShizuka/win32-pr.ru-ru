@@ -4,12 +4,12 @@ description: В этом разделе описывается загрузка 
 ms.assetid: 9e56cfdd-b365-4433-a507-a30220b4a92d
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ca9590927cad28772a6b4a5b761d74c9ebf101a6
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.openlocfilehash: 63b2a66628e5cdceb485df315dc27f0189fe23decbb6205e76d97f3afb77a380
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "104487576"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119886804"
 ---
 # <a name="finding-and-loading-resources"></a>Поиск и загрузка ресурсов
 
@@ -39,12 +39,12 @@ ms.locfileid: "104487576"
 
 
 
- 
+ 
 
 Обратите внимание на функции выпуска, приведенные в таблице выше. Перед завершением работы приложение должно освободить память, занятую таблицами ускорителя, точечными рисунками, курсорами, значками и меню, с помощью соответствующих функций.
 
 Память, связанная с ресурсами, загруженными с помощью [**FindResource**](/windows/desktop/api/Winbase/nf-winbase-findresourcea) и [**лоадресаурце**](/windows/win32/api/libloaderapi/nf-libloaderapi-loadresource) , будет освобождена после выгрузки модуля с помощью вызова [**FreeLibrary**](/windows/desktop/api/libloaderapi/nf-libloaderapi-freelibrary). Все ресурсы, которые остаются Выгруженными при завершении работы приложения, будут автоматически освобождены системой.
 
- 
+ 
 
- 
+ 

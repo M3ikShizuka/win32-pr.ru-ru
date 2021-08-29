@@ -4,12 +4,12 @@ ms.assetid: 9f029be5-4ce0-46ca-909b-adaa980398e7
 title: Вопросы производительности (Direct3D 10)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0ba2dbe00475efebdb6ff5d772b3eccd6cd4263a
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: c81247041ff5e4619445ab5a2455af708a9a545be38b8f321dc2d77696e9a83c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104072395"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120096683"
 ---
 # <a name="performance-considerations-direct3d-10"></a>Вопросы производительности (Direct3D 10)
 
@@ -21,7 +21,7 @@ ms.locfileid: "104072395"
 
 Вы указываете, является ли результат глобальным (регистром по умолчанию) или дочерним (путем предоставления флага [ \_ \_ \_ дочернего \_ эффекты Compile D3D10](d3d10-effect.md) ) при создании результата. Глобальный результат может служить пулом эффектов. дочерний результат не может быть пулом эффектов.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

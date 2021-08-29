@@ -4,12 +4,12 @@ ms.assetid: 4fc09b9c-7adb-4f5d-80e0-2d39bc10420e
 title: Представление нескольких представлений в оконном режиме (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 039b02c487e06c7464dc8163c719371dc2b23706
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: f43dbbbb300b8ec095593dc3eae1426487fd354a578460f03eb1025ee1a5568b
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "104538228"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120095594"
 ---
 # <a name="presenting-multiple-views-in-windowed-mode-direct3d-9"></a>Представление нескольких представлений в оконном режиме (Direct3D 9)
 
@@ -17,11 +17,11 @@ ms.locfileid: "104538228"
 
 Только одна цепочка подкачки одновременно может быть полноэкранной на каждом адаптере.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
-[Советы по программированию](programming-tips.md)
+[Советы программирования](programming-tips.md)
 </dt> </dl>
 
  

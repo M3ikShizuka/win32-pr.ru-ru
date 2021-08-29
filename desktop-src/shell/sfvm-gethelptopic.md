@@ -13,12 +13,12 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 7ebe078934f467407710f0ad493b6088b34d0c8c
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: c60749b69df30e89c3ffda7a8664b901ee57f9ff0cb586f13d61abd9ca66997e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103911396"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118968713"
 ---
 # <a name="sfvm_gethelptopic-message"></a>\_Сообщение сфвм жеселптопик
 
@@ -46,7 +46,7 @@ SFVM_GETHELPTOPIC
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 

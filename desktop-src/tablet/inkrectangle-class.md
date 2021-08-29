@@ -15,12 +15,12 @@ api_type:
 api_location:
 - InkObj.dll
 - InkObj.dll.dll
-ms.openlocfilehash: d643696fe19523bac93ebca71cf885cd93b8570a
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 808b04d7f7b7a50dc8a44ef87dccee38470509309c6e82bde5701b30049bd210
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105713066"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119938754"
 ---
 # <a name="inkrectangle-class"></a>Класс Инкректангле
 
@@ -69,17 +69,17 @@ ms.locfileid: "105713066"
 
 | Свойство                                         | Тип доступа           | Описание                                                        |
 |:-------------------------------------------------|:----------------------|:-------------------------------------------------------------------|
-| [**Нижнее**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_bottom)<br/> | Чтение/запись<br/> | Возвращает или задает нижнюю точку прямоугольника.<br/>      |
-| [**Data**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_data)<br/>     | Чтение/запись<br/> | Возвращает или задает доступ к структуре прямоугольника (только C++).<br/> |
-| [**Слева**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_left)<br/>     | Чтение/запись<br/> | Возвращает или задает левую точку прямоугольника.<br/>        |
-| [**Правильно**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_right)<br/>   | Чтение/запись<br/> | Возвращает или задает правую точку прямоугольника.<br/>       |
+| [**Последние**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_bottom)<br/> | Чтение/запись<br/> | Возвращает или задает нижнюю точку прямоугольника.<br/>      |
+| [**Данные**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_data)<br/>     | Чтение/запись<br/> | Возвращает или задает доступ к структуре прямоугольника (только C++).<br/> |
+| [**Левый**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_left)<br/>     | Чтение/запись<br/> | Возвращает или задает левую точку прямоугольника.<br/>        |
+| [**Правый**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_right)<br/>   | Чтение/запись<br/> | Возвращает или задает правую точку прямоугольника.<br/>       |
 | [**Вверх**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_top)<br/>       | Чтение/запись<br/> | Возвращает или задает верхнюю точку прямоугольника.<br/>         |
 
 
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 > [!Note]  
 > Точка находится внутри **инкректангле** , если она находится на [**левой**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_left) или [**верхней**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_top) стороне или находится внутри всех четырех сторон. Точка с [**правой**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_right) или [**нижней**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_bottom) стороны считается за пределами прямоугольника.
@@ -93,15 +93,15 @@ ms.locfileid: "105713066"
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только классические приложения Windows XP Tablet PC Edition \[\]<br/>                                                       |
+| Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                                                       |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                                           |
-| Header<br/>                   | <dl> <dt>Мсинкаут. h (также требуется Мсинкаут \_ i. c)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мсинкаут. h (также требуется Мсинкаут \_ i. c)</dt> </dl> |
 | Библиотека<br/>                  | <dl> <dt>InkObj.dll</dt> </dl>                               |
 
 

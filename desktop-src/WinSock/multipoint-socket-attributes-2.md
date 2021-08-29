@@ -1,15 +1,15 @@
 ---
-description: Атрибуты сокета MultiPoint в сокетах Windows (Winsock).
+description: атрибуты сокета Multipoint в сокетах Windows (Winsock).
 ms.assetid: f6e779c6-dd9d-470e-aad9-715b69ad8c5f
 title: Атрибуты сокета MultiPoint
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5da67fd40c7c3bc7f1e9dbff22a3fef6cdaee4d0
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 992f574420743ec8e6a339fe14a29accb68beff2c416de0dde19c0fafc707acb
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104263067"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119858154"
 ---
 # <a name="multipoint-socket-attributes"></a>Атрибуты сокета MultiPoint
 

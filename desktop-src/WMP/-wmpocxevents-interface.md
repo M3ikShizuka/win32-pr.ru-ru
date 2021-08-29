@@ -3,7 +3,7 @@ title: Интерфейс _WMPOCXEvents (WMP. h)
 description: '\_Интерфейс вмпокксевентс предоставляет те же события, что и интерфейсы ивмпевентс, IWMPEvents2, IWMPEvents3 и IWMPEvents4, но наследует от интерфейса IDispatch, а не IUnknown.'
 ms.assetid: 883d538e-19b6-417b-a32d-622c41c24b9c
 keywords:
-- Проигрыватель Windows Media _WMPOCXEvents интерфейса
+- интерфейс _WMPOCXEvents проигрыватель Windows Media
 topic_type:
 - apiref
 api_name:
@@ -14,28 +14,28 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 28ac0407545a63a399e1989ae71a08b4bd40cb5b
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 117ad150422d7c9a2ce54cdfd80addaa541d69bc99244212679834f1c22767d5
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105699125"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119903764"
 ---
 # <a name="_wmpocxevents-interface"></a>\_Интерфейс Вмпокксевентс
 
-Интерфейс **\_ вмпокксевентс** предоставляет те же события, что и интерфейсы **ивмпевентс**, **IWMPEvents2**, **IWMPEvents3** и **IWMPEvents4** , но наследует от **интерфейса IDispatch** , а не **IUnknown**. Это позволяет получать уведомления о событиях проигрывателя Windows Media через приемник событий **IDispatch** .
+Интерфейс **\_ вмпокксевентс** предоставляет те же события, что и интерфейсы **ивмпевентс**, **IWMPEvents2**, **IWMPEvents3** и **IWMPEvents4** , но наследует от **интерфейса IDispatch** , а не **IUnknown**. это позволяет получать проигрыватель Windows Media уведомления о событиях через приемник событий **IDispatch** .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|----------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>WMP. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>WMP. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

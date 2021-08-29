@@ -4,16 +4,16 @@ ms.assetid: 6a13f5eb-0fa1-48e2-a112-b2254ca28423
 title: Структуры VDS
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d8402765490a1ce44a19addce9356bbb023bb987
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 6dcf84203ece8ded8051b59f340816e945516436b6a887fff5820b7a521d08c5
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105693706"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119905534"
 ---
 # <a name="vds-structures"></a>Структуры VDS
 
-\[Начиная с Windows 8 и Windows Server 2012, интерфейс COM [службы виртуальных дисков](virtual-disk-service-portal.md) заменяется [API управления хранилищами Windows](/previous-versions/windows/desktop/stormgmt/windows-storage-management-api-portal).\]
+\[начиная с Windows 8 и Windows Server 2012, интерфейс COM [службы виртуальных дисков](virtual-disk-service-portal.md) заменяется [API Windows служба хранилища управления](/previous-versions/windows/desktop/stormgmt/windows-storage-management-api-portal).\]
 
 Служба VDS предоставляет структуры, определяющие свойства объектов, уведомления и другие сущности, представленные в [объектной модели VDS](vds-object-model.md).
 

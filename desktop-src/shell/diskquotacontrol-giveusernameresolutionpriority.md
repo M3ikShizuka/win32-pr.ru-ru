@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Shell32.dll
-ms.openlocfilehash: 1acf50e0cec59a7ee14fbd9d7760fb68b27c4de5
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: eb5dc2939ea0fbc2c8037dc22c5b690e93a5727ecad6b2249e99e4c337340710
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104540466"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119943104"
 ---
 # <a name="diskquotacontrolgiveusernameresolutionpriority-method"></a>Дисккуотаконтрол. Гивеусернамересолутионприорити, метод
 
@@ -52,13 +52,13 @@ DiskQuotaControl.GiveUserNameResolutionPriority(
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Если включено асинхронное разрешение имен, объекты пользователя помещаются в очередь. По умолчанию они обслуживаются в том порядке, в котором они размещены в очереди. Метод **гивеусернамересолутионприорити** перемещает объект на передний план, чтобы он находящихся рядом в строке для обслуживания.
 
 Чтобы включить асинхронное разрешение имен, используйте свойство [**усернамересолутион**](diskquotacontrol-usernameresolution.md) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -71,7 +71,7 @@ DiskQuotaControl.GiveUserNameResolutionPriority(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: Синхронизация обратного вызова
 ms.assetid: e8268f18-49e7-4e09-9006-77858b734bf4
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c274c35a6df176f65c505f2a3fecc9a53a20e5d9
-ms.sourcegitcommit: 5f33645661bf8c825a7a2e73950b1f4ea0f1cd82
+ms.openlocfilehash: 4f85f388a81b6568db502b4f9843cc7fb9135bfaa9f3529a301993aeac87c43c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "105710376"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119859644"
 ---
 # <a name="callback-synchronization"></a>Синхронизация обратного вызова
 
@@ -17,13 +17,13 @@ ms.locfileid: "105710376"
 
 Для асинхронной спецификации моникера требуется более точный контроль определения приоритетов и управления загрузкой, чем разрешено для WinSock или WinInet. Соответственно, моникер URL-адреса управляет всеми загружаемыми файлами для любого потока вызывающего объекта, используя (в рамках синхронизации) схему приоритета на основе спецификации [**ибиндинг**](/previous-versions/windows/internet-explorer/ie-developer/platform-apis/ms775071(v=vs.85)) .
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Моникеры URL-адресов](url-monikers.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

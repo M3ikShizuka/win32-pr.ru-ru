@@ -15,12 +15,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 90b4ed4a6402b8c7bfc1ee559bd0b43765a64cec
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.openlocfilehash: 847a910f537bc09d766c7e131824b276ed80dfed5490f425b82ae6632c93fc97
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "104412929"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119886934"
 ---
 # <a name="getpositioninformationoperationcompleted-property"></a>Жетпоситионинформатионоператион. Completed, свойство
 
@@ -33,11 +33,11 @@ ms.locfileid: "104412929"
 
 ```C++
 HRESULT put_Completed(
-  [in]  GetPositionInformationCompletedHandler *value
+  [in]  GetPositionInformationCompletedHandler *value
 );
 
 HRESULT get_Completed(
-  [out] GetPositionInformationCompletedHandler **value
+  [out] GetPositionInformationCompletedHandler **value
 );
 ```
 
@@ -47,13 +47,13 @@ HRESULT get_Completed(
 
 Обработчик событий.
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
 [**жетпоситионинформатионоператион**](getpositioninformationoperation.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

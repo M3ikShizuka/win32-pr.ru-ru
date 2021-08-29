@@ -4,16 +4,16 @@ ms.assetid: 64904CDB-7A15-4982-850C-2F1D37236382
 title: Разработка с использованием серверных технологий
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 44d2656271716f930b7575bdecef451e97278a26
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 364177c95508cf9d12c717f135f3cca8ccfe8107338c9455d13a35e052d70f26
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105692158"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119944114"
 ---
 # <a name="develop-with-server-technologies"></a>Разработка с использованием серверных технологий
 
-* [Службы каталогов, удостоверений и доступа](srvnodes/directory--identity--and-access-services.md)
+* [каталог, удостоверение и службы Access](srvnodes/directory--identity--and-access-services.md)
 * [Rights Management](srvnodes/rights-management.md)
 * [Администрирование системы](srvnodes/system-administration.md)
 * [Виртуализация](srvnodes/virtualization.md)

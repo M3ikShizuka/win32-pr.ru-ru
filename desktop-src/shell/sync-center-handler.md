@@ -1,6 +1,6 @@
 ---
-description: В этом разделе приводится пошаговое изучение требований для создания DLL-файла, который реализует обработчик, используемый в центре синхронизации. Эти сведения действительны для Windows Vista.
-title: Разработка обработчика Windows Sync Center
+description: В этом разделе приводится пошаговое изучение требований для создания DLL-файла, который реализует обработчик, используемый в центре синхронизации. эти сведения действительны в Windows Vista.
+title: разработка обработчика центра синхронизации Windows
 ms.topic: article
 ms.date: 05/31/2018
 ms.assetid: 66b40f81-9515-4190-8ced-44f20bb9df86
@@ -9,26 +9,26 @@ api_type: ''
 api_location: ''
 topic_type:
 - kbArticle
-ms.openlocfilehash: 11185aa5976c27b7af95787b081e1eaacd99c8e9
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 127426365ff0f2c7bbada34f87cc7e2aec8916a2dbe4038978835aa61b179cf6
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104985560"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "118967913"
 ---
-# <a name="developing-a-windows-sync-center-handler"></a>Разработка обработчика Windows Sync Center
+# <a name="developing-a-windows-sync-center-handler"></a>разработка обработчика центра синхронизации Windows
 
-В этом разделе приводится пошаговое изучение требований для создания DLL-файла, который реализует обработчик, используемый в центре синхронизации. Эти сведения действительны для Windows Vista.
+В этом разделе приводится пошаговое изучение требований для создания DLL-файла, который реализует обработчик, используемый в центре синхронизации. эти сведения действительны в Windows Vista.
 
--   [Процесс синхронизации Windows до Vista](#the-windows-synchronization-experience-before-vista)
+-   [процесс синхронизации Windows до Vista](#the-windows-synchronization-experience-before-vista)
 -   [API центра синхронизации](#sync-center-apis)
     -   [Нужные интерфейсы](#essential-interfaces)
 
-## <a name="the-windows-synchronization-experience-before-vista"></a>Процесс синхронизации Windows до Vista
+## <a name="the-windows-synchronization-experience-before-vista"></a>процесс синхронизации Windows до Vista
 
-В Windows XP был предоставлен [Диспетчер синхронизации](syncmgr-start-page.md) (mobsync.exe). Многие устройства, такие как MP3 Players, Сотовые телефоны и камеры, также предоставили собственные интерфейсы синхронизации вместо использования диспетчера синхронизации. Это привело к нестабильному и нецентрализованному интерфейсу пользователя.
+Windows В XP был предоставлен [Диспетчер синхронизации](syncmgr-start-page.md) (mobsync.exe). Многие устройства, такие как MP3 Players, Сотовые телефоны и камеры, также предоставили собственные интерфейсы синхронизации вместо использования диспетчера синхронизации. Это привело к нестабильному и нецентрализованному интерфейсу пользователя.
 
-Новый компонент центра синхронизации, предоставляемый в Windows Vista, имеет несколько преимуществ по сравнению с предыдущим диспетчером синхронизации.
+новый компонент центра синхронизации, предоставляемый в Windows Vista, имеет несколько преимуществ по сравнению с предыдущим диспетчером синхронизации.
 
 -   Улучшенная возможность обнаружения
 -   Меньше требуется для прямого вмешательства пользователя

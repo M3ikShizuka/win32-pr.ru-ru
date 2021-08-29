@@ -1,17 +1,17 @@
 ---
 description: В этом разделе показано использование функции точки входа библиотеки DLL для настройки индекса локального хранилища потока (TLS) для предоставления закрытого хранилища для каждого потока многопоточного процесса.
 ms.assetid: a300f223-b513-4a22-a7a4-5d98cf74d77d
-title: Использование локального хранилища потока в библиотеке Dynamic-Link
+title: использование локального служба хранилища потока в библиотеке Dynamic-Link
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 261ef7482520b4cb6e6c7b630f10ebb456231283
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: f44aaf4a4f5314539d788f4558548c110259bd49c40807a07603e432d3f468c6
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105683048"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119902324"
 ---
-# <a name="using-thread-local-storage-in-a-dynamic-link-library"></a>Использование локального хранилища потока в библиотеке Dynamic-Link
+# <a name="using-thread-local-storage-in-a-dynamic-link-library"></a>использование локального служба хранилища потока в библиотеке Dynamic-Link
 
 В этом разделе показано использование функции точки входа библиотеки DLL для настройки индекса локального хранилища потока (TLS) для предоставления закрытого хранилища для каждого потока многопоточного процесса.
 
@@ -248,7 +248,7 @@ VOID ErrorExit (LPSTR lpszMessage)
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: c9cdfe46-02bb-4ea9-ac58-7d63e03c26d8
 title: EC_STARVATION (DShow. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 988d550b93ecb9a3c2f78f2d07f50a3965be945d
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 3405bcf67db3e7dbfead0d841b542e155175bcabdd8283b5a5f76f4195cdd714
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105651628"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119905784"
 ---
 # <a name="ec_starvation"></a>нехватка ресурсов EC \_
 
@@ -37,21 +37,21 @@ ms.locfileid: "105651628"
 
 Событие не отправляется в приложение. Если граф фильтра выполняется, диспетчер графа фильтров приостанавливает граф и ждет завершения паузы. Затем он снова запускает граф. Фильтр, отправляющий событие, не должен завершать его работу до тех пор, пока не пойдет достаточно данных для возобновления. Если граф фильтра не работает, диспетчер графа фильтров игнорирует это событие.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Средство синтаксического анализа или фильтр источников может отправить это событие, если поступают слишком мало данных.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>DShow. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>DShow. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

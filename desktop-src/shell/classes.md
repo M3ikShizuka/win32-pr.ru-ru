@@ -1,19 +1,19 @@
 ---
-description: В этом разделе описываются классы оболочки Windows.
+description: в этом разделе описываются классы оболочки Windows.
 ms.assetid: 3b9d876c-32a9-429f-9605-efcc4a1c1570
 title: Классы оболочки
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 24bc306215d6ecdc9c60ff6aa5bc70e85ad27b2a
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 880d3cb609fb6c3ba551f7b144e51400171d86e705199218b9af360556e43be0
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104997234"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119937134"
 ---
 # <a name="shell-classes"></a>Классы оболочки
 
-В этом разделе описываются классы оболочки Windows.
+в этом разделе описываются классы оболочки Windows.
 
 ## <a name="in-this-section"></a>В этом разделе
 

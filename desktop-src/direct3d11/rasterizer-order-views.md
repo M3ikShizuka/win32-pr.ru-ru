@@ -4,12 +4,12 @@ description: В упорядоченных представлениях сред
 ms.assetid: 7FCFCD28-E68D-4594-8879-937F57245507
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d891701aeaadd6f4474aeed8303d9b0046d1b656
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 6f84ae8d51c0ae150866e8fafef24eb2460493d709309ccc730b50f051a193c9
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104134315"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120096184"
 ---
 # <a name="rasterizer-order-views"></a>Представления порядка программной прорисовки
 
@@ -17,8 +17,8 @@ ms.locfileid: "104134315"
 
 -   [Обзор](#overview)
 -   [Сведения о реализации](#implementation-details)
--   [Сводка по API](#api-summary)
--   [См. также](#related-topics)
+-   [Сводные данные API](#api-summary)
+-   [Связанные темы](#related-topics)
 
 ## <a name="overview"></a>Обзор
 
@@ -53,7 +53,7 @@ ms.locfileid: "104134315"
 -   [**D3D11 \_ FEATURE \_ Data \_ D3D11 \_ OPTIONS2**](/windows/desktop/api/D3D11/ns-d3d11-d3d11_feature_data_d3d11_options2) : структура, содержащая логическое значение `ROVsSupported` , обозначающее поддержку.
 -   [**ID3D11Device:: чеккфеатуресуппорт**](/windows/desktop/api/D3D11/nf-d3d11-id3d11device-checkfeaturesupport) : метод для доступа к поддерживаемым функциям.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -63,6 +63,6 @@ ms.locfileid: "104134315"
 [Модель шейдера 5,1](/windows/desktop/direct3dhlsl/shader-model-5-1)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

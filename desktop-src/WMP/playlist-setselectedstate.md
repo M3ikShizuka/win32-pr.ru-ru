@@ -3,7 +3,7 @@ title: Список воспроизведения. Сетселектедста
 description: Метод Сетселектедстате указывает, что в списке воспроизведения выбран индексированный элемент.
 ms.assetid: 61770053-733f-40b5-8b1f-92b6975d3ad3
 keywords:
-- Проигрыватель Windows Media Player. Сетселектедстате
+- проигрыватель Windows Media списка воспроизведения. сетселектедстате
 topic_type:
 - apiref
 api_name:
@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 09a7bb545330710ae4fe2c39eae4556207061203
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 1ba35f2030f4b2fb6e9acfde1a8310e6c9f1dac98b8ba8aa65d56cce206c8e00
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105708615"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119862244"
 ---
 # <a name="playlistsetselectedstate"></a>Список воспроизведения. Сетселектедстате
 
@@ -43,23 +43,23 @@ ms.locfileid: "105708615"
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Вы можете задать для всех элементов выбранное состояние, указав значение 1 в параметре *Item* .
 
 Этот метод был заменен **setSelectedState2**, который поддерживает вложенные списки воспроизведения.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 7,0 или более поздней<br/> |
+| Версия<br/> | проигрыватель Windows Media версии 7,0 или более поздней<br/> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

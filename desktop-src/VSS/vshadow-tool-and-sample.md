@@ -4,12 +4,12 @@ ms.assetid: 19109f92-b9da-4df7-8628-374e37a3f624
 title: Средство Вшадов и пример
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 306d759d10875b03cb0d2e4e2064a85614400ff5240800da3fc4c1ce94add8c7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9043c01d68983d14a0a65f93b993bca3cfe61fcb
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118998074"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122477319"
 ---
 # <a name="vshadow-tool-and-sample"></a>Средство Вшадов и пример
 
@@ -49,151 +49,29 @@ ms.locfileid: "118998074"
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Необязательное значение флага</th>
-<th>Описание</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><span id="-ad"></span><span id="-AD"></span><strong>-AD</strong><br/></td>
-<td>Этот необязательный флаг указывает разностное аппаратное теневое копирование. Этот флаг и флаг <strong>-AP</strong> являются взаимоисключающими.<br/>
-<blockquote>
-[!Note]<br />
-этот флаг поддерживается только в операционных системах Windows server.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="even">
-<td><span id="-ap"></span><span id="-AP"></span><strong>-AP</strong><br/></td>
-<td>Этот необязательный флаг указывает на плекс аппаратных теневых копий. Этот флаг и флаг <strong>-AD</strong> являются взаимоисключающими.<br/>
-<blockquote>
-[!Note]<br />
-этот флаг поддерживается только в операционных системах Windows server.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="odd">
-<td><span id="_-bc_File.xml"></span><span id="_-bc_file.xml"></span><span id="_-BC_FILE.XML"></span><strong></strong> <strong>-BC =</strong><em>файл</em> <strong>.xml</strong><br/></td>
-<td>Этот необязательный флаг задает непереносимые теневые копии и сохраняет документ компонентов резервного копирования в указанном файле. Этот файл можно использовать в последующей операции восстановления. Этот флаг и флаг <strong>-t</strong> являются взаимоисключающими.<br/>
-<blockquote>
-[!Note]<br />
-этот флаг поддерживается только в операционных системах Windows server.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="even">
-<td><span id="-exec_Command"></span><span id="-exec_command"></span><span id="-EXEC_COMMAND"></span><strong>-exec =</strong>-<em>команда</em><br/></td>
-<td>Этот необязательный флаг выполняет команду или сценарий после создания теневых копий, но перед завершением работы средства Вшадов. <em>Команда</em> может указать исполняемую команду оболочки или CMD-файл. Если он указывает команду оболочки, параметры команды указывать нельзя.<br/>
-<blockquote>
-[!Note]<br />
-По соображениям безопасности и для простоты реализации необязательный флаг <strong>-exec</strong> не принимает параметры, передаваемые команде или сценарию. Вся строка, передаваемая в необязательный флаг <strong>-exec</strong> , рассматривается как отдельный файл CMD или exe. Дополнительные сведения об этом ограничении см. в разделе исходный код Вшадов.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="odd">
-<td><span id="-forcerevert"></span><span id="-FORCEREVERT"></span><strong>-форцереверт</strong><br/></td>
-<td>Этот необязательный флаг указывает, что операция теневого копирования должна быть выполнена только в том случае, если все подписи диска можно восстановить.<br/>
-<blockquote>
-[!Note]<br />
-этот флаг поддерживается только в операционных системах Windows server.
-</blockquote>
-<br/> <strong>Windows Server 2003:</strong> Не поддерживается.<br/></td>
-</tr>
-<tr class="even">
-<td><span id="-mask"></span><span id="-MASK"></span><strong>-Mask</strong><br/></td>
-<td>Этот необязательный флаг указывает, что при разрыве набора теневых копий LUN теневой копии должен быть замаскирован с компьютера.<br/>
-<blockquote>
-[!Note]<br />
-этот флаг поддерживается только в операционных системах Windows server.
-</blockquote>
-<br/> <strong>Windows Server 2003:</strong> Не поддерживается.<br/></td>
-</tr>
-<tr class="odd">
-<td><span id="-nar"></span><span id="-NAR"></span><strong>-нар</strong><br/></td>
-<td>Этот необязательный флаг указывает теневые копии без автоматического восстановления. Дополнительные сведения об этом параметре см. в документации по флагу VSS_VOLSNAP_ATTR_NO_AUTORECOVERY перечисления <a href="/windows/desktop/api/Vss/ne-vss-vss_volume_snapshot_attributes"><strong>_VSS_VOLUME_SNAPSHOT_ATTRIBUTES</strong></a> .<br/></td>
-</tr>
-<tr class="even">
-<td><span id="-norevert"></span><span id="-NOREVERT"></span><strong>-невозвратно</strong><br/></td>
-<td>Этот необязательный флаг указывает, что не следует выполнять откат для подписей дисков.<br/>
-<blockquote>
-[!Note]<br />
-этот флаг поддерживается только в операционных системах Windows server.
-</blockquote>
-<br/> <strong>Windows Server 2003:</strong> Не поддерживается.<br/></td>
-</tr>
-<tr class="odd">
-<td><span id="-nw"></span><span id="-NW"></span><strong>-NW</strong><br/></td>
-<td>Этот необязательный флаг указывает теневые копии без участия в модулях записи. Дополнительные сведения о теневых копиях без участия в записи см. в разделе <a href="shadow-copy-creation-details.md">сведения о создании теневого копирования</a>. Этот флаг и флаги <strong>-Wi</strong> и <strong>-WX</strong> являются взаимоисключающими.<br/></td>
-</tr>
-<tr class="even">
-<td><span id="-p"></span><span id="-P"></span><strong>-p</strong><br/></td>
-<td>Этот необязательный флаг указывает <a href="vssgloss-p.md"><em>постоянные теневые копии</em></a>.<br/>
-<blockquote>
-[!Note]<br />
-этот флаг поддерживается только в операционных системах Windows server.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="odd">
-<td><span id="-rw"></span><span id="-RW"></span><strong>-RW</strong><br/></td>
-<td>Этот необязательный флаг указывает, что LUN теневой копии должен быть доступен для чтения и записи, если набор теневых копий поврежден.<br/>
-<blockquote>
-[!Note]<br />
-этот флаг поддерживается только в операционных системах Windows server.
-</blockquote>
-<br/> <strong>Windows Server 2003:</strong> Не поддерживается.<br/></td>
-</tr>
-<tr class="even">
-<td><span id="-scsf"></span><span id="-SCSF"></span><strong>-сксф</strong><br/></td>
-<td>Этот необязательный флаг указывает <a href="vssgloss-c.md"><em>теневые копии, доступные для клиента</em></a>.<br/>
-<blockquote>
-[!Note]<br />
-этот флаг поддерживается только в операционных системах Windows server.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="odd">
-<td><span id="-script_File.cmd"></span><span id="-script_file.cmd"></span><span id="-SCRIPT_FILE.CMD"></span><strong>-script =</strong><em>File</em><strong>. cmd</strong><br/></td>
-<td>Этот необязательный флаг создает CMD-файл, содержащий переменные среды, связанные с созданными теневыми копиями, такие как идентификаторы теневых копий и идентификаторы наборов теневых копий.<br/></td>
-</tr>
-<tr class="even">
-<td><span id="-t_File.xml"></span><span id="-t_file.xml"></span><span id="-T_FILE.XML"></span><strong>-t =</strong><em>файл</em> <strong>.xml</strong><br/></td>
-<td>Этот необязательный флаг определяет переносимые теневые копии и сохраняет документ компонентов резервного копирования в файл, указанный параметром <em>File.xml</em> . Этот файл можно использовать в последующих операциях импорта и (или) восстановления. Этот флаг и флаг <strong>-BC</strong> являются взаимоисключающими.<br/> <strong>Windows server 2003, выпуск Standard и Windows server 2003, Web Edition:</strong> Перепереносимые теневые копии не поддерживаются. все выпуски Windows Server 2003 с пакетом обновления 1 (SP1) поддерживают переносимые теневые копии.<br/></td>
-</tr>
-<tr class="odd">
-<td><span id="-tr"></span><span id="-TR"></span><strong>-TR</strong><br/></td>
-<td>Этот необязательный флаг указывает, что во время создания теневой копии необходимо принудительно выполнить восстановление TxF.<br/>
-<blockquote>
-[!Note]<br />
-этот флаг поддерживается только в операционных системах Windows server.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="even">
-<td><span id="-tracing"></span><span id="-TRACING"></span><strong>-Трассировка</strong><br/></td>
-<td>Этот необязательный флаг создает подробный вывод, который можно использовать для устранения неполадок.<br/></td>
-</tr>
-<tr class="odd">
-<td><span id="-wait"></span><span id="-WAIT"></span><strong>-Wait</strong><br/></td>
-<td>Этот необязательный флаг заставляет средство Вшадов ждать подтверждения пользователя перед выходом.<br/></td>
-</tr>
-<tr class="even">
-<td><span id="-wi_Writer"></span><span id="-wi_writer"></span><span id="-WI_WRITER"></span><strong>-Wi =</strong><em>модуль записи</em><br/></td>
-<td>Этот необязательный флаг проверяет, включен ли указанный модуль записи или компонент в теневую копию. <em>Модуль записи</em> может указывать путь к компоненту, имя модуля записи, идентификатор модуля записи или идентификатор экземпляра модуля записи. Этот флаг и флаг <strong>-NW</strong> являются взаимоисключающими.<br/></td>
-</tr>
-<tr class="odd">
-<td><span id="-wx_Writer"></span><span id="-wx_writer"></span><span id="-WX_WRITER"></span><strong>-WX =</strong><em>модуль записи</em><br/></td>
-<td>Этот необязательный флаг проверяет, исключен ли указанный модуль записи или компонент из теневой копии. <em>Модуль записи</em> может указывать путь к компоненту, имя модуля записи, идентификатор модуля записи или идентификатор экземпляра модуля записи. Этот флаг и флаг <strong>-NW</strong> являются взаимоисключающими.<br/></td>
-</tr>
-</tbody>
-</table>
+
+| Необязательное значение флага | Описание | 
+|---------------------|-------------|
+| <span id="-ad"></span><span id="-AD"></span><strong>-AD</strong><br /> | Этот необязательный флаг указывает разностное аппаратное теневое копирование. Этот флаг и флаг <strong>-AP</strong> являются взаимоисключающими.<br /><blockquote>[!Note]<br />этот флаг поддерживается только в операционных системах Windows server.</blockquote><br /> | 
+| <span id="-ap"></span><span id="-AP"></span><strong>-AP</strong><br /> | Этот необязательный флаг указывает на плекс аппаратных теневых копий. Этот флаг и флаг <strong>-AD</strong> являются взаимоисключающими.<br /><blockquote>[!Note]<br />этот флаг поддерживается только в операционных системах Windows server.</blockquote><br /> | 
+| <span id="_-bc_File.xml"></span><span id="_-bc_file.xml"></span><span id="_-BC_FILE.XML"></span><strong></strong><strong>-BC =</strong><em>файл</em> <strong>.xml</strong><br /> | Этот необязательный флаг задает непереносимые теневые копии и сохраняет документ компонентов резервного копирования в указанном файле. Этот файл можно использовать в последующей операции восстановления. Этот флаг и флаг <strong>-t</strong> являются взаимоисключающими.<br /><blockquote>[!Note]<br />этот флаг поддерживается только в операционных системах Windows server.</blockquote><br /> | 
+| <span id="-exec_Command"></span><span id="-exec_command"></span><span id="-EXEC_COMMAND"></span><strong>-exec =</strong>-<em>команда</em><br /> | Этот необязательный флаг выполняет команду или сценарий после создания теневых копий, но перед завершением работы средства Вшадов. <em>Команда</em> может указать исполняемую команду оболочки или CMD-файл. Если он указывает команду оболочки, параметры команды указывать нельзя.<br /><blockquote>[!Note]<br />По соображениям безопасности и для простоты реализации необязательный флаг <strong>-exec</strong> не принимает параметры, передаваемые команде или сценарию. Вся строка, передаваемая в необязательный флаг <strong>-exec</strong> , рассматривается как отдельный файл CMD или exe. Дополнительные сведения об этом ограничении см. в разделе исходный код Вшадов.</blockquote><br /> | 
+| <span id="-forcerevert"></span><span id="-FORCEREVERT"></span><strong>-форцереверт</strong><br /> | Этот необязательный флаг указывает, что операция теневого копирования должна быть выполнена только в том случае, если все подписи диска можно восстановить.<br /><blockquote>[!Note]<br />этот флаг поддерживается только в операционных системах Windows server.</blockquote><br /><strong>Windows Server 2003:</strong> Не поддерживается.<br /> | 
+| <span id="-mask"></span><span id="-MASK"></span><strong>-Mask</strong><br /> | Этот необязательный флаг указывает, что при разрыве набора теневых копий LUN теневой копии должен быть замаскирован с компьютера.<br /><blockquote>[!Note]<br />этот флаг поддерживается только в операционных системах Windows server.</blockquote><br /><strong>Windows Server 2003:</strong> Не поддерживается.<br /> | 
+| <span id="-nar"></span><span id="-NAR"></span><strong>-нар</strong><br /> | Этот необязательный флаг указывает теневые копии без автоматического восстановления. Дополнительные сведения об этом параметре см. в документации по флагу VSS_VOLSNAP_ATTR_NO_AUTORECOVERY перечисления <a href="/windows/desktop/api/Vss/ne-vss-vss_volume_snapshot_attributes"><strong>_VSS_VOLUME_SNAPSHOT_ATTRIBUTES</strong></a> .<br /> | 
+| <span id="-norevert"></span><span id="-NOREVERT"></span><strong>-невозвратно</strong><br /> | Этот необязательный флаг указывает, что не следует выполнять откат для подписей дисков.<br /><blockquote>[!Note]<br />этот флаг поддерживается только в операционных системах Windows server.</blockquote><br /><strong>Windows Server 2003:</strong> Не поддерживается.<br /> | 
+| <span id="-nw"></span><span id="-NW"></span><strong>-NW</strong><br /> | Этот необязательный флаг указывает теневые копии без участия в модулях записи. Дополнительные сведения о теневых копиях без участия в записи см. в разделе <a href="shadow-copy-creation-details.md">сведения о создании теневого копирования</a>. Этот флаг и флаги <strong>-Wi</strong> и <strong>-WX</strong> являются взаимоисключающими.<br /> | 
+| <span id="-p"></span><span id="-P"></span><strong>-p</strong><br /> | Этот необязательный флаг указывает <a href="vssgloss-p.md"><em>постоянные теневые копии</em></a>.<br /><blockquote>[!Note]<br />этот флаг поддерживается только в операционных системах Windows server.</blockquote><br /> | 
+| <span id="-rw"></span><span id="-RW"></span><strong>-RW</strong><br /> | Этот необязательный флаг указывает, что LUN теневой копии должен быть доступен для чтения и записи, если набор теневых копий поврежден.<br /><blockquote>[!Note]<br />этот флаг поддерживается только в операционных системах Windows server.</blockquote><br /><strong>Windows Server 2003:</strong> Не поддерживается.<br /> | 
+| <span id="-scsf"></span><span id="-SCSF"></span><strong>-сксф</strong><br /> | Этот необязательный флаг указывает <a href="vssgloss-c.md"><em>теневые копии, доступные для клиента</em></a>.<br /><blockquote>[!Note]<br />этот флаг поддерживается только в операционных системах Windows server.</blockquote><br /> | 
+| <span id="-script_File.cmd"></span><span id="-script_file.cmd"></span><span id="-SCRIPT_FILE.CMD"></span><strong>-script =</strong><em>File</em><strong>. cmd</strong><br /> | Этот необязательный флаг создает CMD-файл, содержащий переменные среды, связанные с созданными теневыми копиями, такие как идентификаторы теневых копий и идентификаторы наборов теневых копий.<br /> | 
+| <span id="-t_File.xml"></span><span id="-t_file.xml"></span><span id="-T_FILE.XML"></span><strong>-t =</strong><em>файл</em> <strong>.xml</strong><br /> | Этот необязательный флаг определяет переносимые теневые копии и сохраняет документ компонентов резервного копирования в файл, указанный параметром <em>File.xml</em> . Этот файл можно использовать в последующих операциях импорта и (или) восстановления. Этот флаг и флаг <strong>-BC</strong> являются взаимоисключающими.<br /><strong>Windows server 2003, выпуск Standard и Windows server 2003, Web Edition:</strong> Перепереносимые теневые копии не поддерживаются. все выпуски Windows Server 2003 с пакетом обновления 1 (SP1) поддерживают переносимые теневые копии.<br /> | 
+| <span id="-tr"></span><span id="-TR"></span><strong>-TR</strong><br /> | Этот необязательный флаг указывает, что во время создания теневой копии необходимо принудительно выполнить восстановление TxF.<br /><blockquote>[!Note]<br />этот флаг поддерживается только в операционных системах Windows server.</blockquote><br /> | 
+| <span id="-tracing"></span><span id="-TRACING"></span><strong>-Трассировка</strong><br /> | Этот необязательный флаг создает подробный вывод, который можно использовать для устранения неполадок.<br /> | 
+| <span id="-wait"></span><span id="-WAIT"></span><strong>-Wait</strong><br /> | Этот необязательный флаг заставляет средство Вшадов ждать подтверждения пользователя перед выходом.<br /> | 
+| <span id="-wi_Writer"></span><span id="-wi_writer"></span><span id="-WI_WRITER"></span><strong>-Wi =</strong><em>модуль записи</em><br /> | Этот необязательный флаг проверяет, включен ли указанный модуль записи или компонент в теневую копию. <em>Модуль записи</em> может указывать путь к компоненту, имя модуля записи, идентификатор модуля записи или идентификатор экземпляра модуля записи. Этот флаг и флаг <strong>-NW</strong> являются взаимоисключающими.<br /> | 
+| <span id="-wx_Writer"></span><span id="-wx_writer"></span><span id="-WX_WRITER"></span><strong>-WX =</strong><em>модуль записи</em><br /> | Этот необязательный флаг проверяет, исключен ли указанный модуль записи или компонент из теневой копии. <em>Модуль записи</em> может указывать путь к компоненту, имя модуля записи, идентификатор модуля записи или идентификатор экземпляра модуля записи. Этот флаг и флаг <strong>-NW</strong> являются взаимоисключающими.<br /> | 
+
 
 
 
@@ -469,38 +347,12 @@ ms.locfileid: "118998074"
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Необязательное значение флага</th>
-<th>Описание</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><span id="-revertsig"></span><span id="-REVERTSIG"></span><strong>-ревертсиг</strong><br/></td>
-<td>Этот необязательный флаг указывает, что после завершения операции подпись каждого целевого LUN должна быть идентична исходной LUN, использованной для создания теневой копии, а не LUN целевого тома.<br/>
-<blockquote>
-[!Note]<br />
-флаг <strong>-ревертсиг</strong> поддерживается только в операционных системах сервера Windows.
-</blockquote>
-<br/> <strong>Windows server 2008 и Windows server 2003:</strong> Не поддерживается.<br/></td>
-</tr>
-<tr class="even">
-<td><span id="-novolcheck"></span><span id="-NOVOLCHECK"></span><strong>-новолчекк</strong><br/></td>
-<td>Этот необязательный флаг указывает, что службе VSS не следует проверять наличие невыбранных томов, которые будут перезаписаны операцией повторной синхронизации LUN.<br/>
-<blockquote>
-[!Note]<br />
-флаг <strong>-новолчекк</strong> поддерживается только в операционных системах сервера Windows.
-</blockquote>
-<br/> <strong>Windows server 2008 и Windows server 2003:</strong> Не поддерживается.<br/></td>
-</tr>
-</tbody>
-</table>
+
+| Необязательное значение флага | Описание | 
+|---------------------|-------------|
+| <span id="-revertsig"></span><span id="-REVERTSIG"></span><strong>-ревертсиг</strong><br /> | Этот необязательный флаг указывает, что после завершения операции подпись каждого целевого LUN должна быть идентична исходной LUN, использованной для создания теневой копии, а не LUN целевого тома.<br /><blockquote>[!Note]<br />флаг <strong>-ревертсиг</strong> поддерживается только в операционных системах сервера Windows.</blockquote><br /><strong>Windows server 2008 и Windows server 2003:</strong> Не поддерживается.<br /> | 
+| <span id="-novolcheck"></span><span id="-NOVOLCHECK"></span><strong>-новолчекк</strong><br /> | Этот необязательный флаг указывает, что службе VSS не следует проверять наличие невыбранных томов, которые будут перезаписаны операцией повторной синхронизации LUN.<br /><blockquote>[!Note]<br />флаг <strong>-новолчекк</strong> поддерживается только в операционных системах сервера Windows.</blockquote><br /><strong>Windows server 2008 и Windows server 2003:</strong> Не поддерживается.<br /> | 
+
 
 
 

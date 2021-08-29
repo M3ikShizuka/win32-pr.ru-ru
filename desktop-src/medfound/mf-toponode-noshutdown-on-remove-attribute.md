@@ -4,12 +4,12 @@ ms.assetid: 53b4faba-860f-4d6c-a145-09ea4ae63b8b
 title: Атрибут MF_TOPONODE_NOSHUTDOWN_ON_REMOVE (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6bec06d2190491167d978250270503e5e6506d58
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 3bb7db9a883db80cc6154c72d2c4218b7815456b
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105701701"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122477100"
 ---
 # <a name="mf_toponode_noshutdown_on_remove-attribute"></a>MF \_ ТОПОНОДЕ \_ отключение \_ при \_ удалении атрибута
 
@@ -32,32 +32,12 @@ ms.locfileid: "105701701"
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Значение</th>
-<th>Описание</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><strong>TRUE</strong></td>
-<td>Когда сеанс мультимедиа переключается на новую топологию или очищает текущую топологию, он не завершает работу объекта, принадлежащего этому узлу топологии.</td>
-</tr>
-<tr class="even">
-<td><strong>FALSE</strong></td>
-<td>Когда сеанс мультимедиа переключается на новую топологию или очищает текущую топологию, он завершает работу объекта node следующим образом:
-<ul>
-<li>Выходные узлы. сеанс вызывает <a href="/windows/desktop/api/mfidl/nf-mfidl-imfmediasink-shutdown"><strong>имфмедиасинк:: Shutdown</strong></a> в приемнике носителя.</li>
-<li>Узлы преобразования. сеанс вызывает <a href="/windows/desktop/api/mfidl/nf-mfidl-imfshutdown-shutdown"><strong>имфшутдовн:: Shutdown</strong></a> в MFT.</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+
+| Значение | Описание | 
+|-------|-------------|
+| <strong>TRUE</strong> | Когда сеанс мультимедиа переключается на новую топологию или очищает текущую топологию, он не завершает работу объекта, принадлежащего этому узлу топологии. | 
+| <strong>FALSE</strong> | Когда сеанс мультимедиа переключается на новую топологию или очищает текущую топологию, он завершает работу объекта node следующим образом:<ul><li>Выходные узлы. сеанс вызывает <a href="/windows/desktop/api/mfidl/nf-mfidl-imfmediasink-shutdown"><strong>имфмедиасинк:: Shutdown</strong></a> в приемнике носителя.</li><li>Узлы преобразования. сеанс вызывает <a href="/windows/desktop/api/mfidl/nf-mfidl-imfshutdown-shutdown"><strong>имфшутдовн:: Shutdown</strong></a> в MFT.</li></ul> | 
+
 
 
 
@@ -77,13 +57,13 @@ ms.locfileid: "105701701"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                     |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                               |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                               |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
