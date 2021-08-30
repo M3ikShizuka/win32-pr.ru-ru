@@ -4,16 +4,16 @@ description: Перемещение мыши
 ms.assetid: 54366E9B-470A-4155-8A5F-425BAC8AC1A5
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 14176310882651cdeb2939d0db55368ff133ea11
-ms.sourcegitcommit: bf526e267d3991892733bdd229c66d5365cf244a
+ms.openlocfilehash: f15c5d6be5e7b018bc7e9c5d07f50871018ee20730d0a9b8a005294eded044a9
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "105684720"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119979823"
 ---
 # <a name="mouse-movement"></a>Перемещение мыши
 
-При перемещении мыши Windows отправляет сообщение [**WM \_ MOUSEMOVE**](/windows/desktop/inputdev/wm-mousemove) . По умолчанию **WM \_ MOUSEMOVE** перемещается в окно, содержащее курсор. Это поведение можно переопределить, *записывая* мышь, которая описана в следующем разделе.
+когда мышь перемещается, Windows отправляет сообщение [**WM \_ MOUSEMOVE**](/windows/desktop/inputdev/wm-mousemove) . По умолчанию **WM \_ MOUSEMOVE** перемещается в окно, содержащее курсор. Это поведение можно переопределить, *записывая* мышь, которая описана в следующем разделе.
 
 Сообщение [**WM \_ MOUSEMOVE**](/windows/desktop/inputdev/wm-mousemove) содержит те же параметры, что и сообщения для щелчков мыши. Младшие 16 бит *lParam* содержат координату x, а следующие 16 бит содержат координату y. Используйте макросы [**Get \_ X \_ lParam**](/windows/desktop/api/windowsx/nf-windowsx-get_x_lparam) и [**Get \_ Y \_ lParam**](/windows/desktop/api/windowsx/nf-windowsx-get_y_lparam) для распаковки координат из *lParam*. Параметр *wParam* содержит побитовое **или** для флагов, указывающих состояние других кнопок мыши, а также клавиши Shift и CTRL. Следующий код получает координаты мыши от *lParam*.
 

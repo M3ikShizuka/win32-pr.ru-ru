@@ -6,12 +6,12 @@ keywords:
 - ариаконтаинертабиндексеррорид
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4b6af684b401627181aaef656215240a312393f2
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 05ff7149a82ddf45abb50175202ba2ea2ef8be854eef307643b207e796ab26cf
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104411315"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119899584"
 ---
 # <a name="aria-container-tabindex-error"></a>Ошибка TabIndex контейнера ARIA
 
@@ -21,7 +21,7 @@ ms.locfileid: "104411315"
 
 ## <a name="type"></a>Тип
 
-Ошибка
+Error
 
 ## <a name="description"></a>Описание
 
@@ -44,16 +44,16 @@ ms.locfileid: "104411315"
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Роль контейнера ARIA (без активных потомков), ошибка TabIndex](aria-container--no-active-descendant--tabindex.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

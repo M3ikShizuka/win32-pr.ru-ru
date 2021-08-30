@@ -4,12 +4,12 @@ description: Текст интерфейса IDL содержит типы да�
 ms.assetid: b07524a7-b27e-4ea2-ae34-068c07d9a444
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 565cbe6493bd865030b77b5e9ef6275b444ca451
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 2a25f1e74a1c0e33d0f3bde1318a36e8825fc350c445ee079ad534b67af51c03
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "103792654"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120017064"
 ---
 # <a name="the-idl-interface-body"></a>Тело интерфейса IDL
 
@@ -50,6 +50,6 @@ interface cxhndl
 
 Дополнительные сведения см. в [справочнике по языку MIDL](/windows/desktop/Midl/midl-language-reference).
 
- 
+ 
 
- 
+ 

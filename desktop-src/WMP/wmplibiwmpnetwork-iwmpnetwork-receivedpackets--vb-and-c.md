@@ -3,9 +3,9 @@ title: Ивмпнетворк Рецеиведпаккетс, свойство
 description: Свойство Рецеиведпаккетс возвращает число полученных пакетов.
 ms.assetid: 2a79dc81-4c7a-45d6-bc2b-b19ff5704c3b
 keywords:
-- Проигрыватель Windows Media для свойства Рецеиведпаккетс
-- Рецеиведпаккетс свойство проигрывателя Windows Media Player, интерфейс Ивмпнетворк
-- Интерфейс Ивмпнетворк Windows Media Player, свойство Рецеиведпаккетс
+- проигрыватель Windows Media свойства рецеиведпаккетс
+- проигрыватель Windows Media свойства рецеиведпаккетс, интерфейс ивмпнетворк
+- проигрыватель Windows Media интерфейса ивмпнетворк, свойство рецеиведпаккетс
 topic_type:
 - apiref
 api_name:
@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 90c62b4d90039f07177e8fcdc971cb66e0044aee
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 405018dbd4f597f4affb7e3b2af826379054a8e66b48dd112a6bbe9f18273fb7
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105708598"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119956094"
 ---
 # <a name="iwmpnetworkreceivedpackets-property"></a>Свойство Ивмпнетворк:: Рецеиведпаккетс
 
@@ -48,7 +48,7 @@ Public ReadOnly Property receivedPackets As System.Int32
 
 Значение **System. Int32** , равное количеству полученных пакетов.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Каждый раз, когда воспроизведение останавливается и перезапускается, это свойство сбрасывается до нуля. Значение не сбрасывается, если воспроизведение приостановлено.
 
@@ -139,7 +139,7 @@ End Sub
 
 | Требование | Значение |
 |----------------------|------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/>   | Проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                      |
+| Версия<br/>   | проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                      |
 | Пространство имен<br/> | **вмплиб**<br/>                                                                                                  |
 | Сборка<br/>  | <dl> <dt>Interop.WMPLib.dll (Interop.WMPLib.dll.dll)</dt> </dl> |
 

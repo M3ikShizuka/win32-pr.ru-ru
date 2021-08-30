@@ -4,12 +4,12 @@ ms.assetid: A968914A-E4C5-4472-8776-C73F5910089A
 title: Декодер Dolby Audio
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2e4f1d8ca21cb3ab86f1fdbeddf03624aaaffb0b
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 1ae38516edd935def5d9b2b041c942a729c45c61
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103808098"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122479870"
 ---
 # <a name="dolby-audio-decoder"></a>Декодер Dolby Audio
 
@@ -19,7 +19,7 @@ ms.locfileid: "103808098"
 -   Dolby Digital Plus, также называемый расширенным AC-3 (E-AC-3)
 
 > [!IMPORTANT]
-> Для версий Windows, предшествовавших Windows 8, реализация технологий Dolby Digital в корпорации Майкрософт ограничена условиями программы цифрового лицензирования Dolby, используемой приложениями Майкрософт.
+> для версий Windows, выпущенных до Windows 8, реализация технологии dolby digital в корпорации майкрософт ограничена условиями программы цифрового лицензирования dolby, используемой приложениями майкрософт.
 
  
 
@@ -51,52 +51,15 @@ ms.locfileid: "103808098"
 
 
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>attribute</th>
-<th>Описание</th>
-<th>Remarks</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="mf-mt-major-type-attribute.md">MF_MT_MAJOR_TYPE</a></td>
-<td>Основной тип.</td>
-<td>Обязательный. Необходимо <strong>MFMediaType_Audio</strong>.</td>
-</tr>
-<tr class="even">
-<td><a href="mf-mt-subtype-attribute.md">MF_MT_SUBTYPE</a></td>
-<td>Подтип аудио.</td>
-<td>Обязательный. Дополнительные сведения см. в предыдущей таблице.</td>
-</tr>
-<tr class="odd">
-<td><a href="mf-mt-audio-samples-per-second-attribute.md">MF_MT_AUDIO_SAMPLES_PER_SECOND</a></td>
-<td>Частота выборки, в примерах в секунду.</td>
-<td>Необязательный элемент. Допустимые значения: 48000, 44100, 32000, 24000, 22050 и 16000. Если этот атрибут не задан, по умолчанию используется значение 48000. <br/>
-<blockquote>
-[!Note]<br />
-Потоки Dolby AC-3 ограничиваются тремя самыми высокими тарифами в этом списке.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="even">
-<td><a href="mf-mt-audio-num-channels-attribute.md">MF_MT_AUDIO_NUM_CHANNELS</a></td>
-<td>Количество каналов, включая канал с низкой частотой (НИЗКОЧАСТОТный), если он есть.</td>
-<td>Необязательный элемент. Допустимые значения находятся в диапазоне от 1 (моно) до 8 (Конфигурация канала 7,1). Если этот атрибут не задан, по умолчанию используется значение 2 (стерео).</td>
-</tr>
-<tr class="odd">
-<td><a href="mf-mt-audio-channel-mask-attribute.md">MF_MT_AUDIO_CHANNEL_MASK</a></td>
-<td>Указывает назначение звуковых каналов для позиционирования динамиков.</td>
-<td>Необязательный элемент. Если указано, значение должно соответствовать числу звуковых каналов. Если атрибут не задан, декодер использует маску канала по умолчанию на основе числа каналов.</td>
-</tr>
-</tbody>
-</table>
+
+| attribute | Описание | Remarks | 
+|-----------|-------------|---------|
+| <a href="mf-mt-major-type-attribute.md">MF_MT_MAJOR_TYPE</a> | Основной тип. | Обязательный. Необходимо <strong>MFMediaType_Audio</strong>. | 
+| <a href="mf-mt-subtype-attribute.md">MF_MT_SUBTYPE</a> | Подтип аудио. | Обязательный. Дополнительные сведения см. в предыдущей таблице. | 
+| <a href="mf-mt-audio-samples-per-second-attribute.md">MF_MT_AUDIO_SAMPLES_PER_SECOND</a> | Частота выборки, в примерах в секунду. | Необязательный элемент. Допустимые значения: 48000, 44100, 32000, 24000, 22050 и 16000. Если этот атрибут не задан, по умолчанию используется значение 48000. <br /><blockquote>[!Note]<br />Потоки Dolby AC-3 ограничиваются тремя самыми высокими тарифами в этом списке.</blockquote><br /> | 
+| <a href="mf-mt-audio-num-channels-attribute.md">MF_MT_AUDIO_NUM_CHANNELS</a> | Количество каналов, включая канал с низкой частотой (НИЗКОЧАСТОТный), если он есть. | Необязательный элемент. Допустимые значения находятся в диапазоне от 1 (моно) до 8 (Конфигурация канала 7,1). Если этот атрибут не задан, по умолчанию используется значение 2 (стерео). | 
+| <a href="mf-mt-audio-channel-mask-attribute.md">MF_MT_AUDIO_CHANNEL_MASK</a> | Указывает назначение звуковых каналов для позиционирования динамиков. | Необязательный элемент. Если указано, значение должно соответствовать числу звуковых каналов. Если атрибут не задан, декодер использует маску канала по умолчанию на основе числа каналов. | 
+
 
 
 
@@ -106,72 +69,19 @@ ms.locfileid: "103808098"
 
 
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Конфигурация канала</th>
-<th>Число каналов</th>
-<th>Маски каналов</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>1/0 (моно)</td>
-<td>1</td>
-<td>0x4 (<strong>SPEAKER_FRONT_CENTER</strong>)</td>
-</tr>
-<tr class="even">
-<td>2/0 (стерео) или 1 + 1 (два Mono)</td>
-<td>2</td>
-<td>0x3 (<strong>SPEAKER_FRONT_LEFT</strong>  |  <strong>SPEAKER_FRONT_RIGHT</strong>)</td>
-</tr>
-<tr class="odd">
-<td>3/0</td>
-<td>3</td>
-<td>0x7 (<strong>SPEAKER_FRONT_LEFT</strong>  |  <strong>SPEAKER_FRONT_RIGHT</strong> | SPEAKER_FRONT_CENTER)</td>
-</tr>
-<tr class="even">
-<td>2/1</td>
-<td>3</td>
-<td>0x103 (<strong>SPEAKER_FRONT_LEFT</strong>  |  <strong>SPEAKER_FRONT_RIGHT</strong>  |  <strong>SPEAKER_BACK_CENTER</strong>)</td>
-</tr>
-<tr class="odd">
-<td>3/1</td>
-<td>4</td>
-<td>0x107 (<strong>SPEAKER_FRONT_LEFT</strong>  |  <strong>SPEAKER_FRONT_RIGHT</strong>  |  <strong>SPEAKER_FRONT_CENTER</strong>  |  <strong>SPEAKER_BACK_CENTER</strong>)</td>
-</tr>
-<tr class="even">
-<td>2/2</td>
-<td>4</td>
-<td>0x33 (<strong>SPEAKER_FRONT_LEFT</strong>  |  <strong>SPEAKER_FRONT_RIGHT</strong>  |  <strong>SPEAKER_BACK_LEFT</strong>  |  <strong>SPEAKER_BACK_RIGHT</strong>)<br/> или<br/> 0x603 (<strong>SPEAKER_FRONT_LEFT</strong>  |  <strong>SPEAKER_FRONT_RIGHT</strong>  |  <strong>SPEAKER_SIDE_LEFT</strong>  |  <strong>SPEAKER_SIDE_RIGHT</strong>) <br/></td>
-</tr>
-<tr class="odd">
-<td>3/2</td>
-<td>5</td>
-<td>0x37 (<strong>SPEAKER_FRONT_LEFT</strong>  |  <strong>SPEAKER_FRONT_RIGHT</strong>  |  <strong>SPEAKER_FRONT_CENTER</strong>  |  <strong>SPEAKER_BACK_LEFT</strong>  |  <strong>SPEAKER_BACK_RIGHT</strong>)<br/> или<br/> 0x607 (<strong>SPEAKER_FRONT_LEFT</strong>  |  <strong>SPEAKER_FRONT_RIGHT</strong>  |  <strong>SPEAKER_FRONT_CENTER</strong>  |  <strong>SPEAKER_SIDE_LEFT</strong>  |  <strong>SPEAKER_SIDE_RIGHT</strong>) <br/></td>
-</tr>
-<tr class="even">
-<td>3/2 + НИЗКОЧАСТОТНЫЙ</td>
-<td>6</td>
-<td>0x3F (<strong>SPEAKER_FRONT_LEFT</strong>  |  <strong>SPEAKER_FRONT_RIGHT</strong>  |  <strong>SPEAKER_FRONT_CENTER</strong>  |  <strong>SPEAKER_LOW_FREQUENCY</strong>  |  <strong>SPEAKER_BACK_LEFT</strong>  |  <strong>SPEAKER_BACK_RIGHT</strong>)<br/> или<br/> 0x60F (<strong>SPEAKER_FRONT_LEFT</strong>  |  <strong>SPEAKER_FRONT_RIGHT</strong>  |  <strong>SPEAKER_FRONT_CENTER</strong>  |  <strong>SPEAKER_LOW_FREQUENCY</strong>  |  <strong>SPEAKER_SIDE_LEFT</strong>  |  <strong>SPEAKER_SIDE_RIGHT</strong>)<br/></td>
-</tr>
-<tr class="odd">
-<td>3/2/2 + НИЗКОЧАСТОТНЫЙ
-<blockquote>
-[!Note]<br />
-Только Dolby Digital Plus.
-</blockquote>
-<br/> <br/></td>
-<td>8</td>
-<td>0x63F (<strong>SPEAKER_FRONT_LEFT</strong>  |  <strong>SPEAKER_FRONT_RIGHT</strong>  |  <strong>SPEAKER_FRONT_CENTER</strong>  |  <strong>SPEAKER_LOW_FREQUENCY</strong>  |  <strong>SPEAKER_BACK_LEFT</strong>  |  <strong>SPEAKER_BACK_RIGHT</strong> | SPEAKER_SIDE_LEFT | SPEAKER_SIDE_RIGHT)</td>
-</tr>
-</tbody>
-</table>
+
+| Конфигурация канала | Число каналов | Маски каналов | 
+|-----------------------|--------------------|---------------|
+| 1/0 (моно) | 1 | 0x4 (<strong>SPEAKER_FRONT_CENTER</strong>) | 
+| 2/0 (стерео) или 1 + 1 (два Mono) | 2 | 0x3 (<strong>SPEAKER_FRONT_LEFT</strong> | <strong>SPEAKER_FRONT_RIGHT</strong>) | 
+| 3/0 | 3 | 0x7 (<strong>SPEAKER_FRONT_LEFT</strong> | <strong>SPEAKER_FRONT_RIGHT</strong> | SPEAKER_FRONT_CENTER) | 
+| 2/1 | 3 | 0x103 (<strong>SPEAKER_FRONT_LEFT</strong> | <strong>SPEAKER_FRONT_RIGHT</strong> | <strong>SPEAKER_BACK_CENTER</strong>) | 
+| 3/1 | 4 | 0x107 (<strong>SPEAKER_FRONT_LEFT</strong> | <strong>SPEAKER_FRONT_RIGHT</strong> | <strong>SPEAKER_FRONT_CENTER</strong> | <strong>SPEAKER_BACK_CENTER</strong>) | 
+| 2/2 | 4 | 0x33 (<strong>SPEAKER_FRONT_LEFT</strong> | <strong>SPEAKER_FRONT_RIGHT</strong> | <strong>SPEAKER_BACK_LEFT</strong> | <strong>SPEAKER_BACK_RIGHT</strong>)<br /> или<br /> 0x603 (<strong>SPEAKER_FRONT_LEFT</strong> | <strong>SPEAKER_FRONT_RIGHT</strong> | <strong>SPEAKER_SIDE_LEFT</strong> | <strong>SPEAKER_SIDE_RIGHT</strong>) <br /> | 
+| 3/2 | 5 | 0x37 (<strong>SPEAKER_FRONT_LEFT</strong> | <strong>SPEAKER_FRONT_RIGHT</strong> | <strong>SPEAKER_FRONT_CENTER</strong> | <strong>SPEAKER_BACK_LEFT</strong> | <strong>SPEAKER_BACK_RIGHT</strong>)<br /> или<br /> 0x607 (<strong>SPEAKER_FRONT_LEFT</strong> | <strong>SPEAKER_FRONT_RIGHT</strong> | <strong>SPEAKER_FRONT_CENTER</strong> | <strong>SPEAKER_SIDE_LEFT</strong> | <strong>SPEAKER_SIDE_RIGHT</strong>) <br /> | 
+| 3/2 + НИЗКОЧАСТОТНЫЙ | 6 | 0x3F (<strong>SPEAKER_FRONT_LEFT</strong> | <strong>SPEAKER_FRONT_RIGHT</strong> | <strong>SPEAKER_FRONT_CENTER</strong> | <strong>SPEAKER_LOW_FREQUENCY</strong> | <strong>SPEAKER_BACK_LEFT</strong> | <strong>SPEAKER_BACK_RIGHT</strong>)<br /> или<br /> 0x60F (<strong>SPEAKER_FRONT_LEFT</strong> | <strong>SPEAKER_FRONT_RIGHT</strong> | <strong>SPEAKER_FRONT_CENTER</strong> | <strong>SPEAKER_LOW_FREQUENCY</strong> | <strong>SPEAKER_SIDE_LEFT</strong> | <strong>SPEAKER_SIDE_RIGHT</strong>)<br /> | 
+| 3/2/2 + НИЗКОЧАСТОТНЫЙ<blockquote>[!Note]<br />Только Dolby Digital Plus.</blockquote><br /><br /> | 8 | 0x63F (<strong>SPEAKER_FRONT_LEFT</strong> | <strong>SPEAKER_FRONT_RIGHT</strong> | <strong>SPEAKER_FRONT_CENTER</strong> | <strong>SPEAKER_LOW_FREQUENCY</strong> | <strong>SPEAKER_BACK_LEFT</strong> | <strong>SPEAKER_BACK_RIGHT</strong> | SPEAKER_SIDE_LEFT | SPEAKER_SIDE_RIGHT) | 
+
 
 
 
@@ -200,78 +110,19 @@ ms.locfileid: "103808098"
 
 
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>attribute</th>
-<th>Описание</th>
-<th>Remarks</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="mf-mt-major-type-attribute.md">MF_MT_MAJOR_TYPE</a></td>
-<td>Основной тип.</td>
-<td>Обязательный. Необходимо <strong>MFMediaType_Audio</strong>.</td>
-</tr>
-<tr class="even">
-<td><a href="mf-mt-subtype-attribute.md">MF_MT_SUBTYPE</a></td>
-<td>Подтип аудио.</td>
-<td>Обязательный. Дополнительные сведения см. в предыдущей таблице.</td>
-</tr>
-<tr class="odd">
-<td><a href="mf-mt-audio-samples-per-second-attribute.md">MF_MT_AUDIO_SAMPLES_PER_SECOND</a></td>
-<td>Частота выборки, в примерах в секунду.</td>
-<td>Обязательный. Допустимые значения: 48000, 44100, 32000, 24000, 22050 и 16000. Частота выборки выходных данных должна совпадать с частотой выборки данных. Декодер не может изменить частоту выборки потока.</td>
-</tr>
-<tr class="even">
-<td><a href="mf-mt-audio-num-channels-attribute.md">MF_MT_AUDIO_NUM_CHANNELS</a></td>
-<td>Количество каналов, включая канал с низкой частотой (НИЗКОЧАСТОТный), если он есть.</td>
-<td>Требуется для выходных данных PCM. <br/> Не требуется для цифрового вывода. <br/> Если входной тип — моно, стерео или Dual-Mono (все без канала НИЗКОЧАСТОТного звучания), единственное допустимое значение — 2 для стерео Output. В противном случае значение может быть следующим: <br/>
-<ul>
-<li>2 для стерео довнмикс</li>
-<li>6 для конфигураций каналов 5,1</li>
-<li>8 для конфигураций каналов 7,1</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><a href="mf-mt-audio-channel-mask-attribute.md">MF_MT_AUDIO_CHANNEL_MASK</a></td>
-<td>Указывает назначение звуковых каналов для позиционирования динамиков.</td>
-<td>Требуется для вывода PCM, если число каналов больше 2. Значение должно быть следующим:<br/>
-<ul>
-<li>0x3 для стерео вывода</li>
-<li>0x3F для выходных данных канала 5,1</li>
-<li>0x63F для выходных данных канала 7,1</li>
-</ul>
-Не требуется для цифрового вывода. <br/></td>
-</tr>
-<tr class="even">
-<td><a href="mf-mt-audio-bits-per-sample-attribute.md">MF_MT_AUDIO_BITS_PER_SAMPLE</a></td>
-<td>Число битов на аудио выборка.</td>
-<td>Требуется для выходных данных PCM. Значение должно быть 32 для <strong>MFAudioFormat_Float</strong>и 16 для <strong>MFAudioFormat_PCM</strong>.<br/> Не требуется для цифрового вывода.<br/></td>
-</tr>
-<tr class="odd">
-<td><a href="mf-mt-audio-valid-bits-per-sample-attribute.md">MF_MT_AUDIO_VALID_BITS_PER_SAMPLE</a></td>
-<td>Количество допустимых битов звуковых данных в каждом звуковом примере.</td>
-<td>Необязательно для выходных данных PCM. Если значение задано, оно должно быть идентично значению <a href="mf-mt-audio-bits-per-sample-attribute.md">MF_MT_AUDIO_BITS_PER_SAMPLE</a>.<br/> Не требуется для подтипов цифровых выходных данных.<br/></td>
-</tr>
-<tr class="even">
-<td><a href="mf-mt-audio-block-alignment-attribute.md">MF_MT_AUDIO_BLOCK_ALIGNMENT</a></td>
-<td>Выравнивание блокировки в байтах.</td>
-<td>Необязательно для выходных данных PCM. Не требуется для цифрового вывода.</td>
-</tr>
-<tr class="odd">
-<td><a href="mf-mt-audio-avg-bytes-per-second-attribute.md">MF_MT_AUDIO_AVG_BYTES_PER_SECOND</a></td>
-<td>Среднее число байтов в секунду.</td>
-<td>Необязательно для выходных данных PCM. Не требуется для цифрового вывода.</td>
-</tr>
-</tbody>
-</table>
+
+| attribute | Описание | Remarks | 
+|-----------|-------------|---------|
+| <a href="mf-mt-major-type-attribute.md">MF_MT_MAJOR_TYPE</a> | Основной тип. | Обязательный. Необходимо <strong>MFMediaType_Audio</strong>. | 
+| <a href="mf-mt-subtype-attribute.md">MF_MT_SUBTYPE</a> | Подтип аудио. | Обязательный. Дополнительные сведения см. в предыдущей таблице. | 
+| <a href="mf-mt-audio-samples-per-second-attribute.md">MF_MT_AUDIO_SAMPLES_PER_SECOND</a> | Частота выборки, в примерах в секунду. | Обязательный. Допустимые значения: 48000, 44100, 32000, 24000, 22050 и 16000. Частота выборки выходных данных должна совпадать с частотой выборки данных. Декодер не может изменить частоту выборки потока. | 
+| <a href="mf-mt-audio-num-channels-attribute.md">MF_MT_AUDIO_NUM_CHANNELS</a> | Количество каналов, включая канал с низкой частотой (НИЗКОЧАСТОТный), если он есть. | Требуется для выходных данных PCM. <br /> Не требуется для цифрового вывода. <br /> Если входной тип — моно, стерео или Dual-Mono (все без канала НИЗКОЧАСТОТного звучания), единственное допустимое значение — 2 для стерео Output. В противном случае значение может быть следующим: <br /><ul><li>2 для стерео довнмикс</li><li>6 для конфигураций каналов 5,1</li><li>8 для конфигураций каналов 7,1</li></ul> | 
+| <a href="mf-mt-audio-channel-mask-attribute.md">MF_MT_AUDIO_CHANNEL_MASK</a> | Указывает назначение звуковых каналов для позиционирования динамиков. | Требуется для вывода PCM, если число каналов больше 2. Значение должно быть следующим:<br /><ul><li>0x3 для стерео вывода</li><li>0x3F для выходных данных канала 5,1</li><li>0x63F для выходных данных канала 7,1</li></ul>Не требуется для цифрового вывода. <br /> | 
+| <a href="mf-mt-audio-bits-per-sample-attribute.md">MF_MT_AUDIO_BITS_PER_SAMPLE</a> | Число битов на аудио выборка. | Требуется для выходных данных PCM. Значение должно быть 32 для <strong>MFAudioFormat_Float</strong>и 16 для <strong>MFAudioFormat_PCM</strong>.<br /> Не требуется для цифрового вывода.<br /> | 
+| <a href="mf-mt-audio-valid-bits-per-sample-attribute.md">MF_MT_AUDIO_VALID_BITS_PER_SAMPLE</a> | Количество допустимых битов звуковых данных в каждом звуковом примере. | Необязательно для выходных данных PCM. Если значение задано, оно должно быть идентично значению <a href="mf-mt-audio-bits-per-sample-attribute.md">MF_MT_AUDIO_BITS_PER_SAMPLE</a>.<br /> Не требуется для подтипов цифровых выходных данных.<br /> | 
+| <a href="mf-mt-audio-block-alignment-attribute.md">MF_MT_AUDIO_BLOCK_ALIGNMENT</a> | Выравнивание блокировки в байтах. | Необязательно для выходных данных PCM. Не требуется для цифрового вывода. | 
+| <a href="mf-mt-audio-avg-bytes-per-second-attribute.md">MF_MT_AUDIO_AVG_BYTES_PER_SECOND</a> | Среднее число байтов в секунду. | Необязательно для выходных данных PCM. Не требуется для цифрового вывода. | 
+
 
 
 
@@ -300,7 +151,7 @@ ms.locfileid: "103808098"
 
 ## <a name="remarks"></a>Комментарии
 
-Декодер принимает только необработанные потоки Dolby, как определено параметром/52B. Полезные данные, такие как Пакетированные потоковые простые потоки (PES), не поддерживаются. Для Dolby Digital Plus декодер декодировать до 5,1 каналов. В Windows 10 потоки каналов 7,1 декодированы без довнмикс. В предыдущих версиях ОС, если поток 7,1 каналов, будет декодирован только довнмикс-канал 5,1. Если поток — Dolby Digital Plus с более чем одним независимым подпотоком, декодирован только независимый подпоток 0. Декодер пропускает другие независимые подпотоки. Кроме того, декодер пропускает все зависимые подпотоки. Декодер поддерживает расшифровку и декодирование потоков, защищенных с помощью технологии Digital Rights Management (DRM).
+Декодер принимает только необработанные потоки Dolby, как определено параметром/52B. полезные данные, такие как пакетированные простые Потоки (PES), не поддерживаются. Для Dolby Digital Plus декодер декодировать до 5,1 каналов. в Windows 10 потоки каналов 7,1 декодированы без довнмикс. В предыдущих версиях ОС, если поток 7,1 каналов, будет декодирован только довнмикс-канал 5,1. Если поток — Dolby Digital Plus с более чем одним независимым подпотоком, декодирован только независимый подпоток 0. Декодер пропускает другие независимые подпотоки. Кроме того, декодер пропускает все зависимые подпотоки. Декодер поддерживает расшифровку и декодирование потоков, защищенных с помощью технологии Digital Rights Management (DRM).
 
 Если тип входного носителя имеет конфигурацию канала, отличную от Mono, стерео или Dual-Mono (без канала НИЗКОЧАСТОТного звучания), декодер предоставляет два варианта конфигураций выходного канала:
 
@@ -322,13 +173,13 @@ ms.locfileid: "103808098"
 
 | Требование | Значение |
 |-------------------------------------|--------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 8 \|\]<br/>                                          |
+| Минимальная версия клиента<br/> | Windows 8 \[ приложения UWP для классических приложений \|\]<br/>                                          |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                  |
 | DLL<br/>                      | <dl> <dt>Msauddecmft.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -6,12 +6,12 @@ keywords:
 - маршрутизаторы RRAS, инициализация
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6f4d45c10ef7b44b6dfe9d2d84149c77c81c5752
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: bf3cbb55e4488da750a0fb8e8f813a5a5116a1d9e1caadad81eaefe4e12a79eb
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103772584"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120081114"
 ---
 # <a name="router-initialization"></a>Инициализация маршрутизатора
 
@@ -25,9 +25,9 @@ DIM также получает глобальные сведения диспе
 
 На каждом этапе информация, передаваемая следующей сущности, непрозрачна для сущности, предшествующей ей. То есть, DIM не интерпретирует глобальные сведения для диспетчера IP-маршрутизаторов, помимо того факта, что информация предназначена для диспетчера IP-маршрутизаторов. Аналогичным образом диспетчер IP-маршрутизаторов не интерпретирует сведения, относящиеся к OSPF, помимо того факта, что это OSPF-информация.
 
- 
+ 
 
- 
+ 
 
 
 

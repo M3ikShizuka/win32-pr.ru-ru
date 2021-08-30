@@ -4,12 +4,12 @@ description: Управление Spy — это средство, помога�
 ms.assetid: 27483100-debb-4d82-ac24-b97f933a6942
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3630953cb924f1fd416c56d4d58024b9aaf29421
-ms.sourcegitcommit: 773fa6257ead6c74154ad3cf46d21e49adc900aa
+ms.openlocfilehash: d32ad668ff1ac5912db67f48a99b31de8df09dfd417f4058ee4ff2dacfb55421
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "104070788"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119920992"
 ---
 # <a name="control-spy-v20"></a>Управление Spy v 2.0
 
@@ -24,7 +24,7 @@ ms.locfileid: "104070788"
 -   [Сообщения](#messages)
 -   [Размер и цвет](#sizecolor)
 -   [Где получить управление Spy](#where-to-get-control-spy)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="overview"></a>Обзор
 
@@ -62,19 +62,19 @@ ms.locfileid: "104070788"
 
 Вы можете загрузить [элемент управления Spy 2,0](https://www.microsoft.com/download/details.aspx?id=4635) с сайта MSDN. Обе версии содержатся в скачивании.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 **Зрения**
 </dt> <dt>
 
-[Элементы управления Windows](window-controls.md)
+[Windows Элементы управления](window-controls.md)
 </dt> <dt>
 
 [Включение стилей оформления](cookbook-overview.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

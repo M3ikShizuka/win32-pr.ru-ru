@@ -1,19 +1,19 @@
 ---
-title: Открытие потоков в файле AVI и закрытие файла
-description: Открытие потоков в файле AVI и закрытие файла
+title: открытие Потоки в файле AVI и закрытие файла
+description: открытие Потоки в файле AVI и закрытие файла
 ms.assetid: 3c6afa04-3d95-48cd-b468-7167bac07d46
 keywords:
 - Функция Авифилежетстреам
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7ca06378862ec543e9da8f671eca50841c85d744
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 634d1e21bc324c85636bd607e14669d3577b2b4b0b3296881af62baefb0b0db3
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104253098"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120038304"
 ---
-# <a name="opening-streams-in-an-avi-file-and-closing-the-file"></a>Открытие потоков в файле AVI и закрытие файла
+# <a name="opening-streams-in-an-avi-file-and-closing-the-file"></a>открытие Потоки в файле AVI и закрытие файла
 
 Следующий пример открывает все потоки в файле AVI с помощью функции [**авифилежетстреам**](/windows/desktop/api/Vfw/nf-vfw-avifilegetstream) . Если возникает ошибка, файл закрывается.
 
@@ -63,9 +63,9 @@ void InsertAVIFile(PAVIFILE pfile, HWND hwnd, LPSTR lpszFile)
 
 
 
- 
+ 
 
- 
+ 
 
 
 

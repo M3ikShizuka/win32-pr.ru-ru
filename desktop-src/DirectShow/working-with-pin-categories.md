@@ -4,12 +4,12 @@ ms.assetid: 1ee648b3-8370-4e4d-b513-d998131512ee
 title: Работа с категориями ПИН-кодов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9ac58fff91821477cca51e0613772e3e5763d4d3
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: e65b8229c3a3b3cf60a2c0fe208af0b17992e97880a04f565017a026eb932e46
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105662667"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119964304"
 ---
 # <a name="working-with-pin-categories"></a>Работа с категориями ПИН-кодов
 
@@ -140,9 +140,9 @@ if (SUCCEEDED(hr))
 
 
 
-Дополнительные сведения о наборах свойств см. в документации по [комплекту драйверов Windows (WDK)](/windows-hardware/drivers/gettingstarted/) .
+дополнительные сведения о наборах свойств см. в документации по [Windows Driver Kit (WDK)](/windows-hardware/drivers/gettingstarted/) .
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -152,7 +152,7 @@ if (SUCCEEDED(hr))
 [Закрепить набор свойств](pin-property-set.md)
 </dt> <dt>
 
-[Фильтры захвата видео DirectShow](directshow-video-capture-filters.md)
+[DirectShow Фильтры записи видео](directshow-video-capture-filters.md)
 </dt> </dl>
 
  

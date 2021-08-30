@@ -1,45 +1,45 @@
 ---
-description: Целевой пиковый уровень громкости звукового файла Windows Media.
+description: целевой пиковый уровень громкости Windowsного звукового файла мультимедиа.
 ms.assetid: 73f4e763-dcb7-48cd-ab80-37635d973da0
 title: Атрибут MF_MT_AUDIO_WMADRC_PEAKTARGET (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 48391adfaa19dcc00ea4d7a30b909b4573f67222
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 806f81c0095481ab5e0694614a54e8374d8bd73445b825493253898ff6f6f0f6
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103999173"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119955854"
 ---
 # <a name="mf_mt_audio_wmadrc_peaktarget-attribute"></a>\_Атрибут MF \_ Audio \_ вмадрк \_ пеактаржет
 
-Целевой пиковый уровень громкости звукового файла Windows Media.
+целевой пиковый уровень громкости Windowsного звукового файла мультимедиа.
 
 ## <a name="data-type"></a>Тип данных
 
 **UINT32**
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-Этот атрибут применяется к типам звуковых носителей для аудиокодеков Windows Media. Он указывает целевой пиковый уровень содержимого. Декодер может использовать это значение для выполнения динамического управления диапазоном.
+этот атрибут применяется к типам аудио media для кодеков Windows media audio. Он указывает целевой пиковый уровень содержимого. Декодер может использовать это значение для выполнения динамического управления диапазоном.
 
-Метод [**имфасфконтентинфо::P арсехеадер**](/windows/desktop/api/wmcontainer/nf-wmcontainer-imfasfcontentinfo-parseheader) добавляет этот атрибут к типу мультимедиа, если заголовок ASF содержит атрибут [**WM/вмадркпеактаржет**](../wmformat/wm-wmadrcpeaktarget.md) . Этот атрибут описан в документации пакета SDK Windows Media Format.
+Метод [**имфасфконтентинфо::P арсехеадер**](/windows/desktop/api/wmcontainer/nf-wmcontainer-imfasfcontentinfo-parseheader) добавляет этот атрибут к типу мультимедиа, если заголовок ASF содержит атрибут [**WM/вмадркпеактаржет**](../wmformat/wm-wmadrcpeaktarget.md) . этот атрибут описан в документации по пакету SDK для Windows Media Format.
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows Vista \|\]<br/>                              |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2008 \|\]<br/>                        |
-| Header<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Приложения UWP для классических приложений Vista \|\]<br/>                              |
+| Минимальная версия сервера<br/> | Windows \[Приложения UWP для классических приложений сервера 2008 \|\]<br/>                        |
+| Заголовок<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

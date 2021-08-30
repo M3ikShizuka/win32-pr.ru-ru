@@ -1,6 +1,6 @@
 ---
 title: Свойства кодирования звука
-description: Текущую документацию по кодекам Windows Media и обработчикам цифровых сигналов см. в статье интерфейсы API аудио-и видеокодеков Windows Media и DSP. | Свойства кодирования звука
+description: текущую документацию по Windows кодеков мультимедиа и обработчикам цифровых сигналов см. в разделе Windows media Audio и Video кодек и DSP api. | Свойства кодирования звука
 ms.assetid: a80e4a0d-eac6-41a7-b8c0-6d26713fd787
 keywords:
 - Свойства кодирования звука Windows Media Format
@@ -12,16 +12,16 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 03f4f43f9f9a77dd473752620ff485d8e76ebb3d
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.openlocfilehash: 9ecc07f3448870093042a7807306d894f592b1afc6b68210d54aa93646a02144
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "105713415"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120055674"
 ---
 # <a name="audio-encoding-properties"></a>Свойства кодирования звука
 
-Текущую документацию по кодекам Windows Media и обработчикам цифровых сигналов см [. в статье интерфейсы API аудио-и видеокодеков Windows Media и DSP.](/previous-versions//dd464626(v=vs.85))
+текущую документацию по Windows кодеков мультимедиа и обработчикам цифровых сигналов см [. в разделе Windows media Audio и Video кодек и DSP api.](/previous-versions//dd464626(v=vs.85))
 
  
 

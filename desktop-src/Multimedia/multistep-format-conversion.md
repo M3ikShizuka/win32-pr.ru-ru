@@ -10,12 +10,12 @@ keywords:
 - Функция Акмформатсугжест
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c2e81ebd5bef17d6a97cb5735e15219c39d3116b
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: a7853579b7ff96a6ce9b9eaceb8ce34058be874b718659ba44c88a721a5385b4
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103986532"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120038464"
 ---
 # <a name="multistep-format-conversion"></a>Многошаговое преобразование формата
 
@@ -27,9 +27,9 @@ ms.locfileid: "103986532"
 
 Наиболее простые преобразования происходят, когда форматы источника и назначения являются форматами PCM. Если исходный или конечный формат не является PCM, для преобразования может потребоваться дополнительный шаг. Если форматы источника и назначения не являются PCM, то преобразование обычно требует более одного шага, и в некоторых случаях преобразование может быть невозможным.
 
- 
+ 
 
- 
+ 
 
 
 

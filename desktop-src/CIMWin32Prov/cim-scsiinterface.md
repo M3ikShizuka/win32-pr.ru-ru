@@ -23,12 +23,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 1211b142681f15aa8b4d5e61c1d2165a59f5a62c
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: f9015c68504eaeda9bf4ea89e306aaa4c0efe2808f5cf419bfcccbe93207ead7
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103807595"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119920014"
 ---
 # <a name="cim_scsiinterface-class"></a>\_Класс CIM сксиинтерфаце
 
@@ -65,7 +65,7 @@ class CIM_SCSIInterface : CIM_ControlledBy
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **CIM \_ сксиинтерфаце** имеет следующие свойства.
 
@@ -235,7 +235,7 @@ class CIM_SCSIInterface : CIM_ControlledBy
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **CIM \_ сксиинтерфаце** является производным от [**CIM \_ контролледби**](cim-controlledby.md).
 
@@ -243,7 +243,7 @@ class CIM_SCSIInterface : CIM_ControlledBy
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -257,7 +257,7 @@ class CIM_SCSIInterface : CIM_ControlledBy
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

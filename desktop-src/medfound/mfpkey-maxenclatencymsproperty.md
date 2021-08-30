@@ -4,12 +4,12 @@ ms.assetid: 58a5208a-385b-44fd-a97b-61bff4703393
 title: Свойство MFPKEY_MAXENCLATENCYMS (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ca5637e6a091885c755ef23b94fc86cf803f2a69
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: e5849ecc34388dd2b62436060a5828b0b873f89f3919441e35c4366a18c48929
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105692847"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119953934"
 ---
 # <a name="mfpkey_maxenclatencyms-property"></a>МФПКЭЙ \_ максенклатенцимс, свойство
 
@@ -23,19 +23,19 @@ ms.locfileid: "105692847"
 
 **VT \_ UI4**
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                          |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                    |
-| Header<br/>                   | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                          |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                    |
+| Заголовок<br/>                   | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

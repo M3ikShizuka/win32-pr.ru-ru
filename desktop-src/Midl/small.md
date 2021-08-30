@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a5a0f106f1be1ba6d0acabf877b5dbefab3eaff6
-ms.sourcegitcommit: 57758ecb246c84d65e6e0e4bd5570d9176fa39cd
+ms.openlocfilehash: ec627a083d5f5186a4ce8b6b25b0ebbc7bd56afd3e334e46dc4e4901dde34201
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "104411643"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119927404"
 ---
 # <a name="small-attribute"></a>маленький атрибут
 
@@ -38,7 +38,7 @@ small identifier-name;
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Ключевому слову **Small** может предшествовать либо ключевое слово signed [**, либо**](signed.md) ключевое слово [**без знака**](unsigned.md). Ключевое слово [**int**](int.md) является необязательным и может быть опущено. Для компилятора MIDL небольшое целое число **подписывается** по умолчанию и является синонимом **небольшого числа со знаком**.
 
@@ -46,7 +46,7 @@ small identifier-name;
 
 Знак **небольшого** типа можно изменить с помощью параметра компилятора MIDL [**/char**](-char.md). Чтобы избежать путаницы, укажите знак целочисленного типа с ключевыми словами " [**подписанные**](signed.md) " и " [**без знака**](unsigned.md)".
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
@@ -62,7 +62,7 @@ small identifier-name;
 [**INT**](int.md)
 </dt> <dt>
 
-[**поддерживаем**](long.md)
+[**long**](long.md)
 </dt> <dt>
 
 [**short**](short.md)
@@ -77,9 +77,9 @@ small identifier-name;
 [**определение**](typedef.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

@@ -7,18 +7,18 @@ keywords:
 - меню, сведения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c376aa1d2f55fa482ca7a2f98f57ae15236bf26b
-ms.sourcegitcommit: 8fa6614b715bddf14648cce36d2df22e5232801a
+ms.openlocfilehash: 67a61d0a0182957b6fa5b354f862fe6bd2a0133a
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "104414397"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122474740"
 ---
 # <a name="menus-menus-and-other-resources"></a>Меню (меню и другие ресурсы)
 
 В этом разделе описываются меню и объясняется, как их использовать.
 
-### <a name="in-this-section"></a>в этом разделе
+### <a name="in-this-section"></a>В этом разделе
 
 
 
@@ -64,7 +64,7 @@ ms.locfileid: "104414397"
 | [**хилитеменуитем**](/windows/desktop/api/Winuser/nf-winuser-hilitemenuitem)                         | Выделение или удаление выделения элемента в строке меню. <br/>                                                                                                                                                                                                                                                                                                                                |
 | [**инсертменуитем**](/windows/desktop/api/Winuser/nf-winuser-insertmenuitema)                         | Вставляет новый элемент меню в указанную позицию в меню.<br/>                                                                                                                                                                                                                                                                                                                                       |
 | [**Меню**](/windows/desktop/api/Winuser/nf-winuser-ismenu)                                         | Определяет, является ли маркер маркером меню. <br/>                                                                                                                                                                                                                                                                                                                                                     |
-| [**лоадмену**](/windows/desktop/api/Winuser/nf-winuser-loadmenua)                                     | Загружает указанный ресурс меню из исполняемого файла (exe), связанного с экземпляром приложения. <br/>                                                                                                                                                                                                                                                                                        |
+| [**лоадмену**](/windows/desktop/api/Winuser/nf-winuser-loadmenua)                                     | Загружает указанный ресурс меню из исполняемого файла (.exe), связанного с экземпляром приложения. <br/>                                                                                                                                                                                                                                                                                        |
 | [**лоадменуиндирект**](/windows/desktop/api/Winuser/nf-winuser-loadmenuindirecta)                     | Загружает указанный шаблон меню в память. <br/>                                                                                                                                                                                                                                                                                                                                                      |
 | [**менуитемфромпоинт**](/windows/desktop/api/Winuser/nf-winuser-menuitemfrompoint)                   | Определяет, какой элемент меню (если имеется) находится в указанном расположении.<br/>                                                                                                                                                                                                                                                                                                                                  |
 | [**модифимену**](/windows/desktop/api/Winuser/nf-winuser-modifymenua)                                 | Изменяет существующий элемент меню. Эта функция используется для указания содержимого, внешнего вида и поведения элемента меню. <br/>                                                                                                                                                                                                                                                                           |
@@ -85,29 +85,11 @@ ms.locfileid: "104414397"
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Имя</th>
-<th>Описание</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="/windows/desktop/api/Winuser/nf-winuser-insertmenua"><strong>инсертмену</strong></a></td>
-<td>Вставляет новый пункт меню в меню, перемещая другие элементы вниз по меню.
-<blockquote>
-[!Note]<br />
-Функция <a href="/windows/desktop/api/Winuser/nf-winuser-insertmenua"><strong>инсертмену</strong></a> была заменена функцией <a href="/windows/desktop/api/Winuser/nf-winuser-insertmenuitema"><strong>инсертменуитем</strong></a> . Однако вы по-прежнему можете использовать <strong>инсертмену</strong>, если вам не нужны какие-либо расширенные функции <strong>инсертменуитем</strong>.
-</blockquote>
-<br/> <br/></td>
-</tr>
-</tbody>
-</table>
+
+| Имя | Описание | 
+|------|-------------|
+| <a href="/windows/desktop/api/Winuser/nf-winuser-insertmenua"><strong>инсертмену</strong></a> | Вставляет новый пункт меню в меню, перемещая другие элементы вниз по меню.<blockquote>[!Note]<br />Функция <a href="/windows/desktop/api/Winuser/nf-winuser-insertmenua"><strong>инсертмену</strong></a> была заменена функцией <a href="/windows/desktop/api/Winuser/nf-winuser-insertmenuitema"><strong>инсертменуитем</strong></a> . Однако вы по-прежнему можете использовать <strong>инсертмену</strong>, если вам не нужны какие-либо расширенные функции <strong>инсертменуитем</strong>.</blockquote><br /><br /> | 
+
 
 
 

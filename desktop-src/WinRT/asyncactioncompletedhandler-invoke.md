@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Windows.Foundation.idl
-ms.openlocfilehash: 1cba9c48fa955b82fdc337ba641acbd4c62f6406
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: f106dca9d1d01b2da12ffb527f3556a0a44cf535167e5af79adbd69e4a097055
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104145148"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119898654"
 ---
 # <a name="asyncactioncompletedhandlerinvoke-method"></a>Метод Асинкактионкомплетедхандлер:: Invoke
 
@@ -42,7 +42,7 @@ HRESULT Invoke(
 *асинЦинфо* \[ окне\]
 </dt> <dd>
 
-Тип: **[**IAsyncAction**](/windows/win32/api/windows.foundation/nn-windows-foundation-iasyncaction) \** _
+Тип: **[ **IAsyncAction**](/windows/win32/api/windows.foundation/nn-windows-foundation-iasyncaction)\***
 
 Асинхронное действие, которое сообщает о завершении.
 
@@ -50,11 +50,11 @@ HRESULT Invoke(
 
 ## <a name="return-value"></a>Возвращаемое значение
 
-Тип: _ *HRESULT**
+Тип: **HRESULT**
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -62,11 +62,11 @@ HRESULT Invoke(
 |-------------------------------------|---------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8<br/>                                                                              |
 | Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                                    |
-| Header<br/>                   | <dl> <dt>Windows. Foundation. idl</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Windows. Foundation. idl</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

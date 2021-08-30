@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: cf9bf0ca0fabd00c27f4ef4b795af5271605fa8a
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 475d8b58decac9297b9e02ebf8116ea5c86d224fc534626937fbed7daf5b2c4f
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105688933"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119907843"
 ---
 # <a name="csourceseeking-class"></a>Класс Ксаурцесикинг
 
@@ -56,7 +56,7 @@ ms.locfileid: "105688933"
 | [**Длительное время**](csourceseeking-getduration.md)                   | Возвращает длительность потока.                                                       |
 | [**жетстоппоситион**](csourceseeking-getstopposition.md)           | Возвращает время, когда воспроизведение будет прервано относительно длительности потока. |
 | [**жеткуррентпоситион**](csourceseeking-getcurrentposition.md)     | Извлекает текущую координату относительно общей продолжительности потока.               |
-| [**Возможности**](csourceseeking-getcapabilities.md)           | Извлекает все возможности поиска в потоке.                                       |
+| [**GetCapabilities**](csourceseeking-getcapabilities.md)           | Извлекает все возможности поиска в потоке.                                       |
 | [**чекккапабилитиес**](csourceseeking-checkcapabilities.md)       | Запрашивает, имеет ли поток указанные возможности поиска.                              |
 | [**конверттимеформат**](csourceseeking-converttimeformat.md)       | Преобразует из одного формата времени в другой.                                                   |
 | [**сетпоситионс**](csourceseeking-setpositions.md)                 | Установка текущей позиции и позиции окончания.                                            |
@@ -70,7 +70,7 @@ ms.locfileid: "105688933"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 При изменении начальной позиции, позиции окончания или скорости воспроизведения объект **ксаурцесикинг** вызывает соответствующий чистый виртуальный метод:
 
@@ -127,7 +127,7 @@ HRESULT CMyStream::OnThreadStartPlay()
 -   [**Имедиасикинг:: Исусингтимеформат**](/windows/desktop/api/Strmif/nf-strmif-imediaseeking-isusingtimeformat)
 -   [**Имедиасикинг:: Сеттимеформат**](/windows/desktop/api/Strmif/nf-strmif-imediaseeking-settimeformat)
 
-Кроме того, переопределите оставшиеся методы [**имедиасикинг**](/windows/desktop/api/Strmif/nn-strmif-imediaseeking) , чтобы выполнить необходимые преобразования между форматами времени. После вызова метода [**сеттимеформат**](/windows/desktop/api/Strmif/nf-strmif-imediaseeking-settimeformat) все методы **имедиасикинг** должны обрабатывать входящие и исходящие параметры времени в новом формате времени. Например, если переменная *m \_ ртдуратион* представляет продолжительность в единицах времени ссылки, но текущий формат времени — frames [**, метод IsReference**](/windows/desktop/api/Strmif/nf-strmif-imediaseeking-getduration) должен возвращать значение *m \_ ртдуратион* , преобразованное в кадры. Пример:
+Кроме того, переопределите оставшиеся методы [**имедиасикинг**](/windows/desktop/api/Strmif/nn-strmif-imediaseeking) , чтобы выполнить необходимые преобразования между форматами времени. После вызова метода [**сеттимеформат**](/windows/desktop/api/Strmif/nf-strmif-imediaseeking-settimeformat) все методы **имедиасикинг** должны обрабатывать входящие и исходящие параметры времени в новом формате времени. Например, если переменная *m \_ ртдуратион* представляет продолжительность в единицах времени ссылки, но текущий формат времени — frames [**, метод IsReference**](/windows/desktop/api/Strmif/nf-strmif-imediaseeking-getduration) должен возвращать значение *m \_ ртдуратион* , преобразованное в кадры. Например:
 
 
 ```
@@ -150,18 +150,18 @@ STDMETHODIMP GetDuration(LONGLONG *pDuration)
 
 Кроме того, убедитесь в том, что в \_ \_ методе [**Имедиасикинг:: сетпоситионс**](/windows/desktop/api/Strmif/nf-strmif-imediaseeking-setpositions) установлен флаг "я искал ретурнтиме". Если этот флаг существует, при возврате значений позиций в вызывающий объект преобразуйте их в время ссылки.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Ктлутил. h (включение Streams. h)</dt> </dl>                                                                                   |
+| Заголовок<br/>  | <dl> <dt>ктлутил. h (включает Потоки. h)</dt> </dl>                                                                                   |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

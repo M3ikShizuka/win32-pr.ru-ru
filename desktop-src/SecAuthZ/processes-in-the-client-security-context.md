@@ -4,16 +4,16 @@ ms.assetid: bd416109-fe76-4d55-bc63-3ebbcf32b92a
 title: Процессы в контексте Client Security
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 29c9bafb576bd0d195ae762c69be885ac32f1071
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 7b3537f2f9dfa9129a84d0811d2e8c45ff91f5a987af0131d1f65ceedda6103d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105650566"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119907584"
 ---
 # <a name="processes-in-the-client-security-context"></a>Процессы в контексте Client Security
 
-Серверное приложение может вызвать функцию [**параметр CreateProcessAsUser**](/windows/desktop/api/processthreadsapi/nf-processthreadsapi-createprocessasusera) , чтобы создать новый процесс, выполняемый в [*контексте безопасности*](/windows/desktop/SecGloss/s-gly)клиента. При вызове с [*маркером доступа*](/windows/desktop/SecGloss/a-gly)клиента **параметр CreateProcessAsUser** требует \_ привилегий SE ассигнпримаритокен \_ Name и SE \_ увеличить \_ имя квоты \_ , которые хранятся в службах Windows, работающих в [учетной записи LocalSystem](/windows/desktop/Services/localsystem-account).
+Серверное приложение может вызвать функцию [**параметр CreateProcessAsUser**](/windows/desktop/api/processthreadsapi/nf-processthreadsapi-createprocessasusera) , чтобы создать новый процесс, выполняемый в [*контексте безопасности*](/windows/desktop/SecGloss/s-gly)клиента. при вызове с помощью [*маркера доступа*](/windows/desktop/SecGloss/a-gly)клиента **параметр createprocessasuser** требует SE \_ ассигнпримаритокен \_ name и SE \_ увеличить \_ права имени квоты \_ , которые удерживаются службами Windows, работающими в [учетной записи LocalSystem](/windows/desktop/Services/localsystem-account).
 
 Для функции [**параметр CreateProcessAsUser**](/windows/desktop/api/processthreadsapi/nf-processthreadsapi-createprocessasusera) также требуется [*основной маркер доступа*](/windows/desktop/SecGloss/p-gly). Сервер может получить основной маркер доступа для клиента либо путем [запуска сеанса входа](client-logon-sessions.md) для клиента, либо путем [олицетворения клиента](client-impersonation.md) и дублирования [*маркера олицетворения*](/windows/desktop/SecGloss/i-gly).
 

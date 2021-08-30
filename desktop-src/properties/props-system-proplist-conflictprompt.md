@@ -4,12 +4,12 @@ ms.assetid: 77285dbe-e15a-4314-961f-6f876df511a8
 title: System. Проплист. Конфликтпромпт
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3d718207fdeb792982778626ad49096a4db9a690
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 91400d9ca2915a29ffea949979b7fcc3562e6a21c4ddd8ba6b684b9a84e21f31
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105702142"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120058424"
 ---
 # <a name="systemproplistconflictprompt"></a>System. Проплист. Конфликтпромпт
 
@@ -30,11 +30,11 @@ propertyDescription
       type = String
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

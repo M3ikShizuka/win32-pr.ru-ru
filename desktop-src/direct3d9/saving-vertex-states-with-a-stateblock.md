@@ -4,12 +4,12 @@ ms.assetid: cb898228-dc45-4a2a-a82e-8d64523e9b85
 title: Сохранение состояний вершин с помощью Статеблокк (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 81c6bc7fd291a2609ef60709f05a04fe8d27f8eb
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: d8f3ebef7bda74e30d84ff193a80df6bc6ce7eae83a648f9b7e1d05b89bdb269
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "105691999"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120026114"
 ---
 # <a name="saving-vertex-states-with-a-stateblock-direct3d-9"></a>Сохранение состояний вершин с помощью Статеблокк (Direct3D 9)
 
@@ -63,7 +63,7 @@ ms.locfileid: "105691999"
 | D3DRS \_ поинтскале \_ B                    | 0                      |
 | D3DRS \_ поинтскале \_ C                    | 0                      |
 | D3DRS \_ мултисамплеантиалиас             | **TRUE**               |
-| D3DRS \_ мултисамплемаск                  | 0xFFFFFFFF             |
+| D3DRS \_ мултисамплемаск                  | 0xffffffff             |
 | D3DRS \_ патчеджестиле                   | \_Дискретный D3DPATCHEDGE |
 | D3DRS \_ POINTSIZE \_ Max                   | 1                      |
 | D3DRS \_ индекседвертексбленденабле         | **FALSE**              |
@@ -117,7 +117,7 @@ ms.locfileid: "105691999"
 
 D3DTSS \_ текскурдиндекс — это состояние обработки фиксированной вершины функции. Если используется программируемый шейдер вершин, это состояние игнорируется.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

@@ -1,15 +1,15 @@
 ---
-description: Сведения о установщик Windows основных понятиях, начинающихся с буквы I, например таблицы импорта адресов и уровня установки.
+description: сведения о установщик Windows основных понятиях, начинающихся с буквы I, например таблицы импорта адресов и уровня установки.
 ms.assetid: b8e0a14f-ebdc-4b8f-a884-f6276dccda49
 title: I (установщик Windows)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e33b5cfb9c4545a5482b214e0413ab3e3d981109
-ms.sourcegitcommit: 8f0a1d212dd154e8d94ab4c0e4ced053fa16823a
+ms.openlocfilehash: 3c8894b61907062c7b68cdb0a70e9b20e49729b8a3a04c76b9a59d82efbefdbb
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "112010657"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120129454"
 ---
 # <a name="i-windows-installer"></a>I (установщик Windows)
 
@@ -20,7 +20,7 @@ ms.locfileid: "112010657"
 <span id="_msi_.idt_file_gly"></span><span id="_MSI_.IDT_FILE_GLY"></span>**файл IDT**
 </dt> <dd>
 
-Таблица базы данных установщика экспортирована. Дополнительные сведения см. в разделе [Импорт и экспорт](importing-and-exporting.md) и [установщик Windows расширений файлов](windows-installer-file-extensions.md).
+Таблица базы данных установщика экспортирована. дополнительные сведения см. в разделе [импорт и экспорт](importing-and-exporting.md) и [установщик Windows расширений файлов](windows-installer-file-extensions.md).
 
 </dd> <dt>
 
@@ -62,7 +62,7 @@ ms.locfileid: "112010657"
 <span id="_msi_installer_gly"></span><span id="_MSI_INSTALLER_GLY"></span>**необходимость**
 </dt> <dd>
 
-[*Установщик Windows*](m-gly.md).
+[*установщик Windows*](m-gly.md).
 
 </dd> <dt>
 

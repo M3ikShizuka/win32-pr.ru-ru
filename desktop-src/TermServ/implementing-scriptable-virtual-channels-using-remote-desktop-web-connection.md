@@ -5,16 +5,16 @@ ms.assetid: a482b84d-96b6-4f42-8841-7039a1882789
 ms.tgt_platform: multiple
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 89a36f685de01312a93df67deb6be16ce031794c
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 6ba02fb745fb00d36d89011ce95255127caa9c9cf9c58873c5168df5114d72f7
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103777753"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119990704"
 ---
 # <a name="implementing-scriptable-virtual-channels-by-using-remote-desktop-web-connection"></a>Реализация виртуальных каналов с использованием скриптов с помощью веб-подключение к удаленному рабочему столу
 
-В приведенной ниже процедуре и примерах кода показаны шаги для реализации сценариев с использованием скриптов с веб-подключение к удаленному рабочему столу. Примеры написаны на Visual Basic Scripting Edition и предполагают, что удаленный рабочий стол элемент управления ActiveX называется "Мсрдпклиент".
+В приведенной ниже процедуре и примерах кода показаны шаги для реализации сценариев с использованием скриптов с веб-подключение к удаленному рабочему столу. примеры написаны на Visual Basic scripting Edition и предполагают, что удаленный рабочий стол элемент управления ActiveX имеет имя «мсрдпклиент».
 
 **Создание и развертывание виртуальных каналов, поддерживающих сценарии**
 
@@ -29,7 +29,7 @@ ms.locfileid: "103777753"
 
     Сведения об ограничениях именования виртуальных каналов см. в разделе [Регистрация клиента для виртуального канала](virtual-channel-client-registration.md).
 
-3.  Вызовите [**имстскакс:: Connect**](imstscax-connect.md) , чтобы создать подключение к службы удаленных рабочих столов.
+3.  вызовите [**имстскакс:: Подключение**](imstscax-connect.md) , чтобы создать подключение службы удаленных рабочих столов.
 
     ```VB
     MsRdpClient.connect
@@ -55,9 +55,9 @@ ms.locfileid: "103777753"
 
     
 
- 
+ 
 
- 
+ 
 
 
 

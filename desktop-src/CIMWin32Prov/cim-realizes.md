@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: b37b2f5f3fe9cfce78e16530df8b94e4333e9a33
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 89e9dd6850b93718c218b3d3f465b8f549a9a614b5e9f898a622b03ee2cfc340
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105655835"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119921054"
 ---
 # <a name="cim_realizes-class"></a>\_Класс CIM
 
@@ -51,7 +51,7 @@ class CIM_Realizes : CIM_Dependency
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Классы **CIM \_** имеют эти свойства.
 
@@ -89,7 +89,7 @@ class CIM_Realizes : CIM_Dependency
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **CIM \_** является производным от [**\_ зависимости CIM**](cim-dependency.md).
 
@@ -97,7 +97,7 @@ class CIM_Realizes : CIM_Dependency
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -111,7 +111,7 @@ class CIM_Realizes : CIM_Dependency
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

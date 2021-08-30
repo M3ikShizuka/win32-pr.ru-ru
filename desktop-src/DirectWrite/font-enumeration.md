@@ -4,12 +4,12 @@ description: В этом обзоре будет показано, как пер
 ms.assetid: c1ec7721-2a30-4de3-b986-932f098228a6
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a9db05deb6b367f1392151ac8c12f2792d6e34f0
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 6823ef48a596ffff941f61135a42f53f9dc351edd51f16325afb6288f85ac136
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104413249"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120048944"
 ---
 # <a name="how-to-enumerate-fonts"></a>Как перечислить шрифты
 
@@ -29,7 +29,7 @@ ms.locfileid: "104413249"
 
 ## <a name="step-1-get-the-system-font-collection"></a>Шаг 1. получение коллекции системных шрифтов.
 
-Используйте метод [**жетсистемфонтколлектион**](/windows/win32/api/dwrite/nf-dwrite-idwritefactory-getsystemfontcollection) , предоставленный фабрикой DirectWrite, чтобы вернуть [**идвритефонтколлектион**](/windows/win32/api/dwrite/nn-dwrite-idwritefontcollection) со всеми системными шрифтами в нем.
+используйте метод [**жетсистемфонтколлектион**](/windows/win32/api/dwrite/nf-dwrite-idwritefactory-getsystemfontcollection) , предоставленный фабрикой DirectWrite, чтобы вернуть [**идвритефонтколлектион**](/windows/win32/api/dwrite/nn-dwrite-idwritefontcollection) со всеми системными шрифтами в нем.
 
 
 ```C++
@@ -178,6 +178,6 @@ if (SUCCEEDED(hr))
 
 Полный исходный код для этого примера см. в [примере перечисления шрифтов](/samples/browse/?redirectedfrom=MSDN-samples).
 
- 
+ 
 
- 
+ 

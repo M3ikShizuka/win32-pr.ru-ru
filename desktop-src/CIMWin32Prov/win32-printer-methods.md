@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Методы Win32_Printer
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6dab55fc85411f486ffb8e09aa418ff8279e3475
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 2122b0ab1f20cc3f782b6809913f9259a9ca7a881cc981ac71f09c40ee1efa9f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105655875"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119759584"
 ---
 # <a name="win32_printer-methods"></a>\_Методы принтера Win32
 

@@ -4,16 +4,16 @@ ms.assetid: 3617adf2-ed7b-4788-abce-58bc22a14511
 title: Управление качеством видео
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 233ccd54cfcb98742abef9a91241e903c07ba549
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: d441178cd5b360bb9f8fb9bfc4d903fd9a5a3848
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103991412"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122479850"
 ---
 # <a name="video-quality-management"></a>Управление качеством видео
 
-В этом разделе описываются некоторые улучшения конвейера видео в Windows 7 для Microsoft Media Foundation и Microsoft DirectShow.
+в этом разделе описаны некоторые улучшения конвейера видео в Windows 7, как для Microsoft Media Foundation, так и для Microsoft DirectShow.
 
 В идеальном мире видео никогда не будет выгружаться, независимо от разрешения видео или загрузки ЦП или GPU. Безусловно, в реальности конвейер видео должен иметь возможность работать с ограниченными аппаратными ресурсами, и он должен адаптивно адаптировать воспроизведение в среде системы. Цели управления качеством видео:
 
@@ -25,7 +25,7 @@ ms.locfileid: "103991412"
 
 Некоторые из этих целей не связаны, особенно в низкоуровневых системах. Как правило, существует компромисс между скоростью и качеством. Сбой является более нежелательным, чем умеренное уменьшение качества визуального элемента. Относительная важность потребления энергии зависит от среды. на ноутбуке, работающем на питании от аккумулятора, очень важно.
 
-В Windows 7 Усовершенствованный модуль подготовки отчетов (Евр) обеспечивает улучшенную поддержку управления качеством видео. Как конвейер Media Foundation, так и конвейер DirectShow были обновлены, чтобы воспользоваться преимуществами этих возможностей. Используется существования такого двухаспектногой подход:
+в Windows 7 улучшенная визуализация видео (евр) обеспечивает улучшенную поддержку управления качеством видео. конвейер Media Foundation и конвейер DirectShow были обновлены, чтобы воспользоваться преимуществами этих возможностей. Используется существования такого двухаспектногой подход:
 
 -   Перед началом воспроизведения конвейер может выполнять статическую оптимизацию на основе параметров управления питанием пользователя и сведений об оборудовании.
 -   После начала воспроизведения конвейер может применять динамическую оптимизацию на основе производительности во время выполнения.
@@ -49,7 +49,7 @@ ms.locfileid: "103991412"
 
 Эти два атрибута помогают конвейеру рассчитать наиболее эффективный параметр для управления качеством.
 
-Динамическая оптимизация выполняется диспетчером качества. Для включения диспетчера качества ничего делать не нужно. Он включается автоматически. Диспетчер качества существовал в Windows Vista; в Windows 7 Евр может лучше реагировать на сообщения от диспетчера качества.
+Динамическая оптимизация выполняется диспетчером качества. Для включения диспетчера качества ничего делать не нужно. Он включается автоматически. диспетчер качества существовал в Windows Vista; в Windows 7 евр может лучше реагировать на сообщения от диспетчера качества.
 
 ## <a name="quality-management-in-directshow"></a>Управление качеством в DirectShow
 
@@ -66,10 +66,10 @@ DirectShow поддерживает статическую и динамичес
 
  
 
-Другие приложения DirectShow могут включить динамическую оптимизацию, вызвав метод [**иеврфилтерконфижекс:: сетконфигпрефс**](/windows/desktop/api/evr/nf-evr-ievrfilterconfigex-setconfigprefs) непосредственно в фильтре Евр. Укажите флаг **еврфилтерконфигпрефс \_ енаблекос** .
+другие DirectShow приложения могут включить динамическую оптимизацию, вызвав метод [**иеврфилтерконфижекс:: сетконфигпрефс**](/windows/desktop/api/evr/nf-evr-ievrfilterconfigex-setconfigprefs) непосредственно в фильтре евр. Укажите флаг **еврфилтерконфигпрефс \_ енаблекос** .
 
 > [!Note]  
-> Статическая оптимизация в DirectShow ограничена воспроизведением DVD.
+> статическая оптимизация в DirectShow ограничена воспроизведением DVD.
 
  
 
@@ -81,34 +81,12 @@ DirectShow поддерживает статическую и динамичес
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Флаги</th>
-<th>Описание</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><ul>
-<li><strong>MFVideoMixPrefs_ForceHalfInterlace</strong></li>
-<li><strong>MFVideoMixPrefs_AllowDropToHalfInterlace</strong></li>
-</ul></td>
-<td>Пропустите второе поле каждого кадра с чередованием.</td>
-</tr>
-<tr class="even">
-<td><ul>
-<li><strong>MFVideoMixPrefs_AllowDropToBob</strong></li>
-<li><strong>MFVideoMixPrefs_ForceBob</strong></li>
-</ul></td>
-<td>Используйте несамостоятельную разчересстрочную развертку Боба, даже если драйвер поддерживает режим с чередованием более высокого качества.</td>
-</tr>
-</tbody>
-</table>
+
+| Флаги | Описание | 
+|-------|-------------|
+| <ul><li><strong>MFVideoMixPrefs_ForceHalfInterlace</strong></li><li><strong>MFVideoMixPrefs_AllowDropToHalfInterlace</strong></li></ul> | Пропустите второе поле каждого кадра с чередованием. | 
+| <ul><li><strong>MFVideoMixPrefs_AllowDropToBob</strong></li><li><strong>MFVideoMixPrefs_ForceBob</strong></li></ul> | Используйте несамостоятельную разчересстрочную развертку Боба, даже если драйвер поддерживает режим с чередованием более высокого качества. | 
+
 
 
 
@@ -118,41 +96,13 @@ DirectShow поддерживает статическую и динамичес
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Флаги</th>
-<th>Описание</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><ul>
-<li><strong>MFVideoRenderPrefs_ForceOutputThrottling</strong></li>
-<li><strong>MFVideoRenderPrefs_AllowOutputThrottling</strong></li>
-</ul></td>
-<td>Регулирование выходных данных для соответствия пропускной способности GPU.</td>
-</tr>
-<tr class="even">
-<td><ul>
-<li><strong>MFVideoRenderPrefs_ForceBatching</strong></li>
-<li><strong>MFVideoRenderPrefs_AllowBatching</strong></li>
-</ul></td>
-<td>Вызовы пакетной службы Direct3D представлены в виде вызовов. Такая оптимизация позволяет системе переходить в состояние простоя чаще, что может снизить энергопотребление.</td>
-</tr>
-<tr class="odd">
-<td><ul>
-<li>MFVideoRenderPrefs_ForceScaling</li>
-<li>MFVideoRenderPrefs_AllowScaling</li>
-</ul></td>
-<td>Смешивание видео с помощью прямоугольника, размер которого меньше, чем прямоугольник вывода. Масштабировать результат до правильного размера выходных данных.</td>
-</tr>
-</tbody>
-</table>
+
+| Флаги | Описание | 
+|-------|-------------|
+| <ul><li><strong>MFVideoRenderPrefs_ForceOutputThrottling</strong></li><li><strong>MFVideoRenderPrefs_AllowOutputThrottling</strong></li></ul> | Регулирование выходных данных для соответствия пропускной способности GPU. | 
+| <ul><li><strong>MFVideoRenderPrefs_ForceBatching</strong></li><li><strong>MFVideoRenderPrefs_AllowBatching</strong></li></ul> | Вызовы пакетной службы Direct3D представлены в виде вызовов. Такая оптимизация позволяет системе переходить в состояние простоя чаще, что может снизить энергопотребление. | 
+| <ul><li>MFVideoRenderPrefs_ForceScaling</li><li>MFVideoRenderPrefs_AllowScaling</li></ul> | Смешивание видео с помощью прямоугольника, размер которого меньше, чем прямоугольник вывода. Масштабировать результат до правильного размера выходных данных. | 
+
 
 
 
@@ -173,7 +123,7 @@ DirectShow поддерживает статическую и динамичес
 
 Перед началом воспроизведения эти атрибуты можно задать непосредственно в приемнике носителей Евр в качестве альтернативы вызову методов [**IMFVideoMixerControl2**](/windows/desktop/api/evr/nn-evr-imfvideomixercontrol2) и [**имфвидеодисплайконтрол**](/windows/desktop/api/evr/nn-evr-imfvideodisplaycontrol) . Чтобы задать эти атрибуты, выполните запрос к приемнику Евр мультимедиа для [**имфаттрибутес**](/windows/desktop/api/mfobjects/nn-mfobjects-imfattributes).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

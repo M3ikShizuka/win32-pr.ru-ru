@@ -16,12 +16,12 @@ keywords:
 - Шаблоны динамических элементов управления
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 51abcfd316f5ab892155cf248d5473bd4e387227
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 59a993c6a17115fa27770e3adcfdc7ad62846082f618c24b07de92c7f0515208
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104134107"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119899574"
 ---
 # <a name="ui-automation-control-patterns-overview"></a>Общие сведения о шаблонах элементов управления модели автоматизации пользовательского интерфейса
 
@@ -32,15 +32,15 @@ ms.locfileid: "104134107"
 > [!Note]  
 > Агрегатный элемент управления создается с дочерними элементами управления, предоставляющими пользовательский интерфейс для функциональных возможностей, предоставляемых родительским элементом, и родитель должен реализовать все шаблоны элементов управления, которые обычно связаны с его дочерними элементами управления. В свою очередь те же шаблоны элементов управления не обязательно должны быть реализованы дочерними элементами управления.
 
- 
+ 
 
-В этом разделе содержатся следующие подразделы.
+Этот раздел состоит из следующих подразделов.
 
 -   [Компоненты шаблонов элементов управления модели автоматизации пользовательского интерфейса](#ui-automation-control-pattern-components)
 -   [Шаблоны элементов управления в поставщиках и клиентах](#control-patterns-in-providers-and-clients)
 -   [Динамические шаблоны элементов управления](#dynamic-control-patterns)
 -   [Шаблоны элементов управления и связанные интерфейсы](#control-patterns-and-related-interfaces)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="ui-automation-control-pattern-components"></a>Компоненты шаблонов элементов управления модели автоматизации пользовательского интерфейса
 
@@ -73,9 +73,9 @@ ms.locfileid: "104134107"
 | [Перетаскивание](/windows/desktop/WinAuto/uiauto-implementingdrag)                       | [**IDragProvider**](/windows/desktop/api/UIAutomationCore/nn-uiautomationcore-idragprovider)                           | [**иуиаутоматиондрагпаттерн**](/windows/desktop/api/UIAutomationClient/nn-uiautomationclient-iuiautomationdragpattern)                           | Используется для поддержки элементов управления с возможностью перетаскивания или элементов управления с перетаскиваемыми элементами.                                                                                                                                                           |
 | [DropTarget](/windows/desktop/WinAuto/uiauto-implementingdroptarget)           | [**IDropTargetProvider**](/windows/desktop/api/UIAutomationCore/nn-uiautomationcore-idroptargetprovider)               | [**иуиаутоматиондроптаржетпаттерн**](/windows/desktop/api/UIAutomationClient/nn-uiautomationclient-iuiautomationdroptargetpattern)               | Используется для поддержки элементов управления, которые могут быть целевыми объектами в операции перетаскивания.                                                                                                                                                   |
 | [ExpandCollapse](uiauto-implementingexpandcollapse.md)       | [**IExpandCollapseProvider**](/windows/desktop/api/UIAutomationCore/nn-uiautomationcore-iexpandcollapseprovider)       | [**иуиаутоматионекспандколлапсепаттерн**](/windows/desktop/api/UIAutomationClient/nn-uiautomationclient-iuiautomationexpandcollapsepattern)       | Используется для элементов управления, которые могут быть развернуты или свернуты, например, для пунктов меню в приложении, таких как меню «файл».                                                                                                          |
-| [Grid](uiauto-implementinggrid.md)                           | [**IGridProvider**](/windows/desktop/api/UIAutomationCore/nn-uiautomationcore-igridprovider)                           | [**иуиаутоматионгридпаттерн**](/windows/desktop/api/UIAutomationClient/nn-uiautomationclient-iuiautomationgridpattern)                           | Используется для элементов управления, поддерживающих функциональность сетки, таких как изменение размера и перемещение в указанную ячейку, например, представление крупных значков в проводнике Windows или простых таблиц в Microsoft Office Word.                               |
-| [GridItem](uiauto-implementinggriditem.md)                   | [**IGridItemProvider**](/windows/desktop/api/UIAutomationCore/nn-uiautomationcore-igriditemprovider)                   | [**иуиаутоматионгридитемпаттерн**](/windows/desktop/api/UIAutomationClient/nn-uiautomationclient-iuiautomationgriditempattern)                   | Используется для элементов управления, имеющих ячейки в сетках. Отдельные ячейки должны поддерживать шаблон GridItem, например, каждую ячейку в подробном представлении проводника Windows.                                                                   |
-| [Вызвать](uiauto-implementinginvoke.md)                       | [**IInvokeProvider**](/windows/desktop/api/UIAutomationCore/nn-uiautomationcore-iinvokeprovider)                       | [**иуиаутоматионинвокепаттерн**](/windows/desktop/api/UIAutomationClient/nn-uiautomationclient-iuiautomationinvokepattern)                       | Используется для элементов управления, которые могут быть вызваны, таких как кнопки.                                                                                                                                                                         |
+| [Сетка](uiauto-implementinggrid.md)                           | [**IGridProvider**](/windows/desktop/api/UIAutomationCore/nn-uiautomationcore-igridprovider)                           | [**иуиаутоматионгридпаттерн**](/windows/desktop/api/UIAutomationClient/nn-uiautomationclient-iuiautomationgridpattern)                           | используется для элементов управления, поддерживающих функциональность сетки, таких как изменение размера и перемещение в указанную ячейку, например, представление крупных значков в Windows Explorer или простые таблицы в Microsoft Office Word.                               |
+| [GridItem](uiauto-implementinggriditem.md)                   | [**IGridItemProvider**](/windows/desktop/api/UIAutomationCore/nn-uiautomationcore-igriditemprovider)                   | [**иуиаутоматионгридитемпаттерн**](/windows/desktop/api/UIAutomationClient/nn-uiautomationclient-iuiautomationgriditempattern)                   | Используется для элементов управления, имеющих ячейки в сетках. отдельные ячейки должны поддерживать шаблон GridItem, например, для каждой ячейки в подробном представлении Windows Explorer.                                                                   |
+| [Invoke](uiauto-implementinginvoke.md)                       | [**IInvokeProvider**](/windows/desktop/api/UIAutomationCore/nn-uiautomationcore-iinvokeprovider)                       | [**иуиаутоматионинвокепаттерн**](/windows/desktop/api/UIAutomationClient/nn-uiautomationclient-iuiautomationinvokepattern)                       | Используется для элементов управления, которые могут быть вызваны, таких как кнопки.                                                                                                                                                                         |
 | [ItemContainer](uiauto-implementingitemcontainer.md)         | [**IItemContainerProvider**](/windows/desktop/api/UIAutomationCore/nn-uiautomationcore-iitemcontainerprovider)         | [**иуиаутоматионитемконтаинерпаттерн**](/windows/desktop/api/UIAutomationClient/nn-uiautomationclient-iuiautomationitemcontainerpattern)         | Используется для элементов управления, которые могут содержать другие элементы.                                                                                                                                                                                 |
 | [легацииакцессибле](uiauto-implementinglegacyiaccessible.md) | [**илегацииакцессиблепровидер**](/windows/desktop/api/UIAutomationCore/nn-uiautomationcore-ilegacyiaccessibleprovider) | [**иуиаутоматионлегацииакцессиблепаттерн**](/windows/desktop/api/UIAutomationClient/nn-uiautomationclient-iuiautomationlegacyiaccessiblepattern) | Используется для предоставления свойств и методов Microsoft Active Accessibility клиентам автоматизации пользовательского интерфейса.                                                                                                                                  |
 | [MultipleView](uiauto-implementingmultipleview.md)           | [**IMultipleViewProvider**](/windows/desktop/api/UIAutomationCore/nn-uiautomationcore-imultipleviewprovider)           | [**иуиаутоматионмултиплевиевпаттерн**](/windows/desktop/api/UIAutomationClient/nn-uiautomationclient-iuiautomationmultipleviewpattern)           | Используется для элементов управления, которые могут переключаться между несколькими представлениями одного и того же набора сведений, данных или дочерних элементов, например элемента управления "представление списка", в котором данные доступны в представлениях эскизов, плиток, значков, списков или сведений. |
@@ -103,9 +103,9 @@ ms.locfileid: "104134107"
 
 
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -118,6 +118,6 @@ ms.locfileid: "104134107"
 [Сопоставление шаблона элемента управления для клиентов автоматизации пользовательского интерфейса](uiauto-controlpatternmapping.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

@@ -3,7 +3,7 @@ title: Сообщение TTM_POP (Коммктрл. h)
 description: Удаляет отображаемое окно всплывающей подсказки из представления.
 ms.assetid: 911f8e55-5b5a-46f8-9895-58b06cbf8828
 keywords:
-- Элементы управления Windows для TTM_POP сообщений
+- элементы управления Windows сообщений TTM_POP
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 02c0ea6fc4c45db1dbee51ef42d49165fddead35
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: f033350dad02d6c5e34488c7f06c4f9975d9c9e312fc367439bda4dd8d19116b
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104135931"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119967864"
 ---
 # <a name="ttm_pop-message"></a>\_Сообщение POP ТТМ
 
@@ -45,9 +45,9 @@ ms.locfileid: "104135931"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

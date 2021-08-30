@@ -1,21 +1,21 @@
 ---
-title: Изменения Microsoft Agent в Windows Vista
-description: Изменения Microsoft Agent в Windows Vista
+title: изменения в Microsoft Agent в Windows Vista
+description: изменения в Microsoft Agent в Windows Vista
 ms.assetid: 2498e8d5-2274-477c-a807-77443c76afb7
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 440fb8afb7acb0118c1e48669089c083e935db5b
-ms.sourcegitcommit: 967ba3a2a618e6088cb607164a2a924530278645
+ms.openlocfilehash: 14b9b4e1104152bb21a2ed120d749d92907c1f6be6f2392c299db639cd483bf0
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "113102153"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119961204"
 ---
-# <a name="microsoft-agent-changes-in-windows-vista"></a>Изменения Microsoft Agent в Windows Vista
+# <a name="microsoft-agent-changes-in-windows-vista"></a>изменения в Microsoft Agent в Windows Vista
 
-\[Microsoft Agent является устаревшим в Windows 7 и может быть недоступен в последующих версиях Windows.\]
+\[Microsoft Agent является устаревшим по отношению к Windows 7 и может быть недоступен в последующих версиях Windows.\]
 
-В Windows Vista появились некоторые изменения в способах взаимодействия распознавания речи и речи с Windows Vista.
+Windows в Vista появились некоторые изменения в способах взаимодействия распознавания речи и речи с Windows Vista.
 
 Теперь Microsoft Agent поддерживает компоненты преобразования текста в речь 5 и распознавания речи. Свойства Ттсмодеид и Срмодеид объекта Agent по-прежнему используются для определения выбранного голоса или распознавателя для агента и для изменения этого выбора. Режимы SAPI 4 отображаются как строки GUID, такие как "{ca141fd0-ac7f-11D1-97a3-006008273000}", а токены SAPI 5 (эквивалентно режимам) отображаются как обычные имена, например "Microsoft Анна". Как и в предыдущих выпусках, агент по умолчанию будет использовать механизмы TTS и SR. Если установлены ядра SAPI 5, они всегда будут предпочтительнее всех ядер SAPI 4, которые могут быть установлены. Модуль преобразования текста в речь по умолчанию, как указано на панели управления, используется, если его пол соответствует символу, в противном случае выбирается ядро SAPI 5 того же пола, если таковой имеется. Идентификаторы режима, указанные непосредственно в символе, игнорируются, если имеются обработчики SAPI 5. Параметры по умолчанию можно проверить, прочитав свойства Ттсмодеид и Срмодеид в начале скрипта.
 

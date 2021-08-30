@@ -1,35 +1,35 @@
 ---
-title: мачинеакцессрестриктион
+title: MachineAccessRestriction
 description: Задает политику ограничения на уровне компьютера для доступа к компоненту.
 ms.assetid: aeb37e49-6425-4058-968e-f9d00acf4fc2
 keywords:
 - COM-значение реестра Мачинеакцессрестриктион
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a9d99e747b8a38dbb41cb8a6a8adc0935d3f9fa8
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: ce78aa749618b93dfe8cbe62fad5ec0e51504f4bad0067b17628ac0226c24b2e
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "105691326"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119896194"
 ---
-# <a name="machineaccessrestriction"></a>мачинеакцессрестриктион
+# <a name="machineaccessrestriction"></a>MachineAccessRestriction
 
 Задает политику ограничения на уровне компьютера для доступа к компоненту.
 
 > [!Caution]  
 > Изменение этого значения повлияет на все серверные приложения COM и может препятствовать их правильной работе. Если существуют приложения COM-сервера с ограничениями, которые менее строгими по сравнению с ограничениями на уровне компьютера, уменьшение ограничений на уровне компьютера может предоставить этим приложениям нежелательный доступ. И наоборот, при увеличении ограничений на уровне компьютера некоторые серверные приложения COM могут быть недоступны при вызове приложений.
 
- 
+ 
 
 ## <a name="registry-entry"></a>Запись реестра
 
 ```
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole
-   MachineAccessRestriction = SECURITY_DESCRIPTOR
+   MachineAccessRestriction = SECURITY_DESCRIPTOR
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это **\_ двоичное значение reg** .
 
@@ -37,16 +37,16 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole
 
 По умолчанию члены группы «все» могут получать разрешения локального и удаленного доступа, а анонимные пользователи могут получать разрешения локального доступа.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Настройка безопасности для приложений COM](setting-security-for-com-applications.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

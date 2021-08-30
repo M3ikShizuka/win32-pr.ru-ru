@@ -4,12 +4,12 @@ ms.assetid: 56a98529-6ae9-4b71-bd7d-cf056a1e3683
 title: SCRIPT_CACHE (usp10. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ece29fe0ed610b4576263c36c50311ef57317579
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: e4376f0b69de8d9e963cae6a156eff8c3724ac375db3c18bce0a80855afd6f91
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105651114"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120130244"
 ---
 # <a name="script_cache"></a>\_кэш скриптов
 
@@ -22,7 +22,7 @@ typedef void* SCRIPT_CACHE;
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это непрозрачная структура. Приложение должно выделить и хранить одну \_ переменную кэша скрипта для каждого используемого стиля символов. Переменная должна быть инициализирована **значением NULL**.
 
@@ -62,7 +62,7 @@ if (hr == E_PENDING)
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

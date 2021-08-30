@@ -4,12 +4,12 @@ description: Целое число со знаком умножение и до�
 ms.assetid: 1C24AF49-AA32-4D3A-8478-C9BAC4FE7D77
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 90db4cb0a36b0d3951e8b0490bb3ca08db8d5354
-ms.sourcegitcommit: fe03c5d92ca6a0d66a114b2303e99c0a19241ffb
+ms.openlocfilehash: 00d8222e613b94481dd58bc6315ef4e7558ed5bad7b58ad5aca021b32f4fcf10
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "104996859"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119982414"
 ---
 # <a name="imad-sm4---asm"></a>Имад (SM4-ASM)
 
@@ -37,7 +37,7 @@ ms.locfileid: "104996859"
 
  
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Компонентно-ориентированное [imul](imul--sm4---asm-.md) для 32-разрядных операндов *src0* и *src1* (со знаком), сохраняя низкий 32-бит (на компонент) результата, за которым следует [IAdd](iadd--sm4---asm-.md) *src2*, создающий верный низкий 32-разрядный (на компонент) результат. 32-разрядные результаты помещаются в *dest*.
 
@@ -63,9 +63,9 @@ ms.locfileid: "104996859"
 
 | Модель шейдера                                              | Поддерживается |
 |-----------------------------------------------------------|-----------|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | да       |
-| [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | да       |
-| [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | да       |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | Да       |
+| [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | Да       |
+| [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | Да       |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет        |
 | [Модель шейдера 2 (DirectX HLSL)](dx-graphics-hlsl-sm2.md) | Нет        |
 | [Модель шейдера 1 (DirectX HLSL)](dx-graphics-hlsl-sm1.md) | Нет        |
@@ -74,7 +74,7 @@ ms.locfileid: "104996859"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

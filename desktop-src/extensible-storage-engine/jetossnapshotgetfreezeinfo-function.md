@@ -20,12 +20,12 @@ api_type:
 api_location:
 - ESENT.DLL
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: e737d6fe31dde43eeba7526e740ec096db20abc9
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.openlocfilehash: 56f2c5b4a7bcd2d81c75f90d723a59057ba5c8ce
+ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122466211"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122982377"
 ---
 # <a name="jetossnapshotgetfreezeinfo-function"></a>Функция Жетосснапшотжетфризеинфо
 
@@ -87,7 +87,14 @@ _**Применимо к:** Windows | Windows Сервером_
 #### <a name="requirements"></a>Требования
 
 
-| | | <p><strong>Клиент</strong></p> | <p>требуется Windows Vista.</p> | | <p><strong>Сервер</strong></p> | <p>требуется Windows Server 2008.</p> | | <p><strong>Header</strong></p> | <p>Объявлено в ESENT. h.</p> | | <p><strong>Библиотека</strong></p> | <p>Используйте ESENT. lib.</p> | | <p><strong>КОМПОНОВКИ</strong></p> | <p>Требуется ESENT.dll.</p> | | <p><strong>Юникод</strong></p> | <p>Реализуется как <strong>жетосснапшотжетфризеинфов</strong> (Юникод) и <strong>жетосснапшотжетфризеинфоа</strong> (ANSI).</p> | 
+| Требование | Применение |
+|------------|----------|
+| <p><strong>Клиент</strong></p> | <p>требуется Windows Vista.</p> | 
+| <p><strong>Server</strong></p> | <p>требуется Windows Server 2008.</p> | 
+| <p><strong>Header</strong></p> | <p>Объявлено в ESENT. h.</p> | 
+| <p><strong>Библиотека</strong></p> | <p>Используйте ESENT. lib.</p> | 
+| <p><strong>КОМПОНОВКИ</strong></p> | <p>Требуется ESENT.dll.</p> | 
+| <p><strong>Юникод</strong></p> | <p>Реализуется как <strong>жетосснапшотжетфризеинфов</strong> (Юникод) и <strong>жетосснапшотжетфризеинфоа</strong> (ANSI).</p> | 
 
 
 

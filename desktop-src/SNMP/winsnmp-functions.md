@@ -4,12 +4,12 @@ description: Функции, используемые с функцией WinSNM
 ms.assetid: ae95ac47-81ff-4715-b3e9-e19c07223712
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e29169e8cf86b7f21ebbc40ced2ac37a46668c727183a9b2970eb368c7e81d85
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ec1c355cb8da6a892614e7729d1db75ded3c3fb9
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119142807"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122476960"
 ---
 # <a name="winsnmp-functions"></a>Функции WinSNMP
 
@@ -31,77 +31,23 @@ ms.locfileid: "119142807"
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Функция</th>
-<th>Описание</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpcancelmsg"><strong>снмпканцелмсг</strong></a></td>
-<td>Запрашивает, что реализация Microsoft WinSNMP отменит попытки повторной передачи и уведомления о времени ожидания для сообщения запроса SNMP.</td>
-</tr>
-<tr class="even">
-<td><a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpcleanup"><strong>снмпклеануп</strong></a></td>
-<td>Информирует реализацию о том, что приложение отключается и больше не требует выделения ресурсов.</td>
-</tr>
-<tr class="odd">
-<td><a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpcleanupex"><strong>снмпклеанупекс</strong></a></td>
-<td>Выполняет очистку при отсутствии невыполненных успешных вызовов <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpstartup"><strong>снмпстартуп</strong></a> или <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpstartupex"><strong>Снмпстартупекс</strong></a> в приложении WinSNMP.</td>
-</tr>
-<tr class="even">
-<td><a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpclose"><strong>снмпклосе</strong></a></td>
-<td>Включает реализацию для освобождения ресурсов, связанных с сеансом, и для закрытия механизмов связи.</td>
-</tr>
-<tr class="odd">
-<td><a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpcreatesession"><strong>снмпкреатесессион</strong></a></td>
-<td>Запрашивает реализацию для открытия сеанса WinSNMP и выделения ресурсов и механизмов связи. При разработке новых приложений WinSNMP рекомендуется вызвать функцию <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpcreatesession"><strong>снмпкреатесессион</strong></a> , чтобы открыть объект WinSNMP Session вместо вызова функции <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpopen"><strong>снмпопен</strong></a> .</td>
-</tr>
-<tr class="even">
-<td><a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmplisten"><strong>снмплистен</strong></a></td>
-<td>Регистрирует или отменяет регистрацию приложения WinSNMP в качестве агента SNMP.</td>
-</tr>
-<tr class="odd">
-<td><a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpopen"><strong>снмпопен</strong></a></td>
-<td>Запрашивает реализацию для открытия сеанса WinSNMP и выделения ресурсов и механизмов связи. При разработке новых приложений WinSNMP рекомендуется вызвать функцию <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpcreatesession"><strong>снмпкреатесессион</strong></a> , чтобы открыть объект WinSNMP Session вместо вызова функции <strong>снмпопен</strong> .</td>
-</tr>
-<tr class="even">
-<td><a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmprecvmsg"><strong>снмпреквмсг</strong></a></td>
-<td>Возвращает сообщения SNMP и необработанные данные и уведомления о ловушках.</td>
-</tr>
-<tr class="odd">
-<td><a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpregister"><strong>снмпрегистер</strong></a></td>
-<td>Информирует реализацию, которую приложение должно зарегистрировать или отменить регистрацию для ловушек и уведомлений.</td>
-</tr>
-<tr class="even">
-<td><a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpsendmsg"><strong>снмпсендмсг</strong></a></td>
-<td>Запрашивает передачу блока данных протокола в реализации.</td>
-</tr>
-<tr class="odd">
-<td><a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpstartup"><strong>снмпстартуп</strong></a></td>
-<td>Уведомляет реализацию о необходимости выполнения процедур инициализации для приложения. Приложение должно успешно вызвать функцию <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpstartup"><strong>снмпстартуп</strong></a> перед вызовом любой другой функции WinSNMP.</td>
-</tr>
-<tr class="even">
-<td><a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpstartupex"><strong>снмпстартупекс</strong></a></td>
-<td>Уведомляет реализацию Microsoft WinSNMP, что приложению WinSNMP требуются службы реализации. <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpstartupex"><strong>Снмпстартупекс</strong></a> обеспечивает поддержку нескольких независимых программных модулей, использующих WinSNMP в одном приложении.</td>
-</tr>
-<tr class="odd">
-<td><a href="/windows/desktop/api/Winsnmp/nc-winsnmp-snmpapi_callback"><strong>SNMPAPI_CALLBACK</strong></a></td>
-<td>Уведомляет сеанс WinSNMP о том, что доступно сообщение SNMP или асинхронное событие.
-<blockquote>
-[!Note]<br />
-Эта функция обратного вызова применяется только к сеансам, открытым в результате вызова функции <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpcreatesession"><strong>снмпкреатесессион</strong></a> .
-</blockquote>
-<br/></td>
-</tr>
-</tbody>
-</table>
+
+| Компонент | Описание | 
+|----------|-------------|
+| <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpcancelmsg"><strong>снмпканцелмсг</strong></a> | Запрашивает, что реализация Microsoft WinSNMP отменит попытки повторной передачи и уведомления о времени ожидания для сообщения запроса SNMP. | 
+| <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpcleanup"><strong>снмпклеануп</strong></a> | Информирует реализацию о том, что приложение отключается и больше не требует выделения ресурсов. | 
+| <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpcleanupex"><strong>снмпклеанупекс</strong></a> | Выполняет очистку при отсутствии невыполненных успешных вызовов <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpstartup"><strong>снмпстартуп</strong></a> или <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpstartupex"><strong>Снмпстартупекс</strong></a> в приложении WinSNMP. | 
+| <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpclose"><strong>снмпклосе</strong></a> | Включает реализацию для освобождения ресурсов, связанных с сеансом, и для закрытия механизмов связи. | 
+| <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpcreatesession"><strong>снмпкреатесессион</strong></a> | Запрашивает реализацию для открытия сеанса WinSNMP и выделения ресурсов и механизмов связи. При разработке новых приложений WinSNMP рекомендуется вызвать функцию <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpcreatesession"><strong>снмпкреатесессион</strong></a> , чтобы открыть объект WinSNMP Session вместо вызова функции <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpopen"><strong>снмпопен</strong></a> . | 
+| <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmplisten"><strong>снмплистен</strong></a> | Регистрирует или отменяет регистрацию приложения WinSNMP в качестве агента SNMP. | 
+| <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpopen"><strong>снмпопен</strong></a> | Запрашивает реализацию для открытия сеанса WinSNMP и выделения ресурсов и механизмов связи. При разработке новых приложений WinSNMP рекомендуется вызвать функцию <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpcreatesession"><strong>снмпкреатесессион</strong></a> , чтобы открыть объект WinSNMP Session вместо вызова функции <strong>снмпопен</strong> . | 
+| <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmprecvmsg"><strong>снмпреквмсг</strong></a> | Возвращает сообщения SNMP и необработанные данные и уведомления о ловушках. | 
+| <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpregister"><strong>снмпрегистер</strong></a> | Информирует реализацию, которую приложение должно зарегистрировать или отменить регистрацию для ловушек и уведомлений. | 
+| <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpsendmsg"><strong>снмпсендмсг</strong></a> | Запрашивает передачу блока данных протокола в реализации. | 
+| <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpstartup"><strong>снмпстартуп</strong></a> | Уведомляет реализацию о необходимости выполнения процедур инициализации для приложения. Приложение должно успешно вызвать функцию <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpstartup"><strong>снмпстартуп</strong></a> перед вызовом любой другой функции WinSNMP. | 
+| <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpstartupex"><strong>снмпстартупекс</strong></a> | Уведомляет реализацию Microsoft WinSNMP, что приложению WinSNMP требуются службы реализации. <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpstartupex"><strong>Снмпстартупекс</strong></a> обеспечивает поддержку нескольких независимых программных модулей, использующих WinSNMP в одном приложении. | 
+| <a href="/windows/desktop/api/Winsnmp/nc-winsnmp-snmpapi_callback"><strong>SNMPAPI_CALLBACK</strong></a> | Уведомляет сеанс WinSNMP о том, что доступно сообщение SNMP или асинхронное событие.<blockquote>[!Note]<br />Эта функция обратного вызова применяется только к сеансам, открытым в результате вызова функции <a href="/windows/desktop/api/Winsnmp/nf-winsnmp-snmpcreatesession"><strong>снмпкреатесессион</strong></a> .</blockquote><br /> | 
+
 
 
 
@@ -113,7 +59,7 @@ ms.locfileid: "119142807"
 
 
 
-| Функция                                     | Описание                                                                                                            |
+| Компонент                                     | Описание                                                                                                            |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | [**снмпконтексттостр**](/windows/desktop/api/Winsnmp/nf-winsnmp-snmpcontexttostr) | Возвращает строку, определяющую контекст SNMP (набор ресурсов управляемого объекта).                                  |
 | [**снмпентититостр**](/windows/desktop/api/Winsnmp/nf-winsnmp-snmpentitytostr)   | Возвращает строку, идентифицирующую сущность управления SNMP.                                                            |
@@ -133,7 +79,7 @@ ms.locfileid: "119142807"
 
 
 
-| Функция                                               | Описание                                                                                           |
+| Компонент                                               | Описание                                                                                           |
 |--------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | [**снмпжетретрансмитмоде**](/windows/desktop/api/Winsnmp/nf-winsnmp-snmpgetretransmitmode) | Возвращает текущее значение режима повторной передачи.                                               |
 | [**снмпжетретри**](/windows/desktop/api/Winsnmp/nf-winsnmp-snmpgetretry)                   | Возвращает значение счетчика повторных попыток повторной передачи запросов сообщений SNMP.             |
@@ -155,7 +101,7 @@ ms.locfileid: "119142807"
 
 
 
-| Функция                                     | Описание                                                                                                                                                                       |
+| Компонент                                     | Описание                                                                                                                                                                       |
 |----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**снмпкреатепду**](/windows/desktop/api/Winsnmp/nf-winsnmp-snmpcreatepdu)       | Создает и инициализирует блок данных протокола SNMP.                                                                                                                               |
 | [**снмпдупликатепду**](/windows/desktop/api/Winsnmp/nf-winsnmp-snmpduplicatepdu) | Дублирует единицу данных протокола SNMP.                                                                                                                                            |
@@ -173,7 +119,7 @@ ms.locfileid: "119142807"
 
 
 
-| Функция                                         | Описание                                                                                                         |
+| Компонент                                         | Описание                                                                                                         |
 |--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | [**снмпдекодемсг**](/windows/desktop/api/Winsnmp/nf-winsnmp-snmpdecodemsg)           | Декодирует закодированное или сериализованное сообщение SNMP в составляющие его компоненты.                                      |
 | [**снмпенкодемсг**](/windows/desktop/api/Winsnmp/nf-winsnmp-snmpencodemsg)           | Создает закодированное сообщение SNMP.                                                                                    |
@@ -194,7 +140,7 @@ ms.locfileid: "119142807"
 
 
 
-| Функция                                     | Описание                                                                                                                                                                     |
+| Компонент                                     | Описание                                                                                                                                                                     |
 |----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**снмпкаунтвбл**](/windows/desktop/api/Winsnmp/nf-winsnmp-snmpcountvbl)         | Перечисляет записи привязки переменных в указанном списке привязок переменных.                                                                                                   |
 | [**снмпкреатевбл**](/windows/desktop/api/Winsnmp/nf-winsnmp-snmpcreatevbl)       | Создает новый список привязок переменных.                                                                                                                                            |

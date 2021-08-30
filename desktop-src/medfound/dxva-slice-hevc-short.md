@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - dxva.h
-ms.openlocfilehash: 0d0f88e1534ef3d901023ebdee8ce9c36a8c2cc9
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: b59008947e636e7d4252b678a79b28c128c4a7b122b97c9337fb41ddc062fd54
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104072567"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119958584"
 ---
 # <a name="dxva_slice_hevc_short-structure"></a>\_ \_ Короткая структура среза дксва HEVC \_
 
@@ -76,23 +76,23 @@ typedef struct _DXVA_Slice_HEVC_Short {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 **Дксва \_ Параметр срез \_ HEVC \_ Short** содержит данные элемента управления среза, которые передаются аппаратному ускорителю с хост-программного декодера.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только Windows 8.1 Классические приложения\]<br/>                                      |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2012 R2 \[\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Дксва. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 8.1 \[ только классические приложения\]<br/>                                      |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[Только классические приложения R2\]<br/>                           |
+| Заголовок<br/>                   | <dl> <dt>Дксва. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

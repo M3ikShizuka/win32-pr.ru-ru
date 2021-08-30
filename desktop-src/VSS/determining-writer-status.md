@@ -4,12 +4,12 @@ ms.assetid: 676d5cff-bd28-43f0-a402-d184c96f0061
 title: Определение состояния модуля записи
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 719322a18808748e92d412c48c7b7628fdac9d51
-ms.sourcegitcommit: 70f39ec77d19d3c32c376ee2831753d2cafae41a
+ms.openlocfilehash: d16c22364ed0f8eea6f73280e33083da3dcb06205d9a36a348644aa18d159f3d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "104273379"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120032754"
 ---
 # <a name="determining-writer-status"></a>Определение состояния модуля записи
 
@@ -21,7 +21,7 @@ ms.locfileid: "104273379"
     При обработке резервной копии инициатор запроса должен запрашивать модуль записи после завершения следующих методов. Запрашивающие стороны должны вызвать [**гасервритерстатус**](/windows/desktop/api/VsBackup/nf-vsbackup-ivssbackupcomponents-gatherwriterstatus) после вызова [**баккупкомплете**](/windows/desktop/api/VsBackup/nf-vsbackup-ivssbackupcomponents-backupcomplete) , чтобы задать для сеанса модуля записи завершенное состояние.
 
     > [!Note]  
-    > Это необходимо только в Windows Server 2008 с пакетом обновления 2 (SP2) и более ранних версий.
+    > это необходимо только для Windows Server 2008 с пакетом обновления 2 (sp2) и более ранних версий.
 
      
 

@@ -4,16 +4,16 @@ description: Иажентбаллун Жетфонтболд
 ms.assetid: 5a55f771-d68e-4f66-8001-47c141661b06
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 858f6f42964db1bdd7ae548d308c6f6668b05631
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 45dc48eeba39a889c5a7cbee9bc9caeef759571e98b904646c62cd903c444305
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104258587"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119962614"
 ---
 # <a name="iagentballoongetfontbold"></a>Иажентбаллун:: Жетфонтболд
 
-\[Microsoft Agent является устаревшим в Windows 7 и может быть недоступен в последующих версиях Windows.\]
+\[Microsoft Agent является устаревшим по отношению к Windows 7 и может быть недоступен в последующих версиях Windows.\]
 
 ``` syntax
 HRESULT GetFontBold(
@@ -36,9 +36,9 @@ HRESULT GetFontBold(
 
 Стиль шрифта, используемый в подсказке для символьного слова, определен в редакторе символов Microsoft Agent. Оно не может быть изменено приложением. Однако пользователь может переопределить параметры шрифта для всех символов на странице свойств Microsoft Agent.
 
- 
+ 
 
- 
+ 
 
 
 

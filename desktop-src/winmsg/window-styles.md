@@ -4,12 +4,12 @@ ms.assetid: vs|winui|~\winui\windowsuserinterface\windowing\windows\windowrefere
 title: Стили окна (Winuser. h)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ad646e73144bccdc0868967f58e42221bbb044af
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 6b6fdc465e6a1f50fe2b2acf00fe34dfc2af2452aafc5574b325bab107be95cf
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105647372"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119931924"
 ---
 # <a name="window-styles"></a>Стили окна
 
@@ -57,7 +57,7 @@ ms.locfileid: "105647372"
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                               |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                     |
-| Заголовок<br/>                   | <dl> <dt>Winuser. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 

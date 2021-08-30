@@ -5,12 +5,12 @@ Robots: noindex, nofollow
 ms.assetid: A6311538-D7CC-4A23-A145-14AF3BBFC4C4
 ms.topic: article
 ms.date: 02/11/2020
-ms.openlocfilehash: 8406c41a2666f9014bac27452572c6f88b84e6bf
-ms.sourcegitcommit: 01a4383738056cf3de4f45f36d98ef73d4dc694d
+ms.openlocfilehash: f4185e673b94f08449b44c6987c3b3c6e16ca193326b57f4f13d2bb77faae43a
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "104412461"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120070214"
 ---
 # <a name="device-access-glossary"></a>Глоссарий доступа к устройствам
 
@@ -28,7 +28,7 @@ ms.locfileid: "104412461"
 **Привязка**
 </dt> <dd>
 
-Связывание объекта доступа к устройству с определенным интерфейсом устройства. Если привязка прошла успешно, приложения Магазина Windows могут использовать объект доступа к устройству в качестве брокера для взаимодействия с драйвером устройства.
+Связывание объекта доступа к устройству с определенным интерфейсом устройства. если привязка выполнена успешно, Windows приложения магазина могут использовать объект доступа к устройству в качестве брокера для взаимодействия с драйвером устройства.
 
 </dd> <dt>
 

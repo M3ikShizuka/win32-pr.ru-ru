@@ -4,12 +4,12 @@ description: нуллпарент
 ms.assetid: F9563D73-66EF-4C66-8783-B034AA7A212E
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 765217f8d2d46645358d590c5a93310b04da01b5
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: f265f66eb4d0b0985d9f3979fc7ff4b9bb1812df1617cdaa4f6f50d7b357e067
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104329656"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119998154"
 ---
 # <a name="nullparent"></a>нуллпарент
 
@@ -19,7 +19,7 @@ ms.locfileid: "104329656"
 
 ## <a name="type"></a>Тип
 
-Ошибка
+Error
 
 ## <a name="description"></a>Описание
 
@@ -31,7 +31,7 @@ ms.locfileid: "104329656"
 
 Неправильная или недопустимая реализация MSAA.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -41,9 +41,9 @@ ms.locfileid: "104329656"
 [**IAccessible:: Get \_ аккпарент**](/windows/desktop/api/Oleacc/nf-oleacc-iaccessible-get_accparent)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

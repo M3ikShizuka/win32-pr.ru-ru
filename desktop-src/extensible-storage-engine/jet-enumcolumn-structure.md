@@ -15,12 +15,12 @@ api_type:
 - COM
 api_location: ''
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 6ac89a45e37631b554fc7b2dc28266c95cfae3fba54debb427abfd8db621ea3f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7f0fa6d326120355e43b29cd87e13d5c0ebbf68b
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118766092"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122474540"
 ---
 # <a name="jet_enumcolumn-structure"></a>Структура JET_ENUMCOLUMN
 
@@ -58,44 +58,16 @@ _**Применимо к:** Windows | Windows Сервером_
 
 Код состояния столбца, полученный в результате перечисления столбца.
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Коды ошибок</p></th>
-<th><p>Значение</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>JET_errBadColumnId</p></td>
-<td><p>Идентификатор столбца находится за пределами допустимых ограничений идентификатора столбца.</p></td>
-</tr>
-<tr class="even">
-<td><p>JET_errColumnNotFound</p></td>
-<td><p>Столбец, описываемый ИДЕНТИФИКАТОРом столбца, не существует в таблице.</p></td>
-</tr>
-<tr class="odd">
-<td><p>JET_wrnColumnNull</p></td>
-<td><p>Все значения для этого столбца равны NULL.</p></td>
-</tr>
-<tr class="even">
-<td><p>JET_wrnColumnPresent</p></td>
-<td><p>Указан JET_bitEnumeratePresenceOnly, и для этого столбца было возвращено по крайней мере одно значение столбца, отличное от NULL.</p></td>
-</tr>
-<tr class="odd">
-<td><p>JET_wrnColumnSingleValue</p></td>
-<td><p>Указан JET_bitEnumerateCompressOutput, и для этого столбца возвращено ровно одно значение столбца, отличное от NULL. В результате возвращается сжатая форма <strong>JET_ENUMCOLUMN</strong> . Дополнительные сведения см. в разделе <strong>JET_ENUMCOLUMN</strong> .</p></td>
-</tr>
-<tr class="even">
-<td><p>JET_wrnColumnSkipped</p></td>
-<td><p>Идентификатор столбца в структуре <a href="gg269251(v=exchg.10).md">JET_ENUMCOLUMNID</a> , соответствующей этой <strong>JET_ENUMCOLUMN</strong> структуре, равен нулю.</p></td>
-</tr>
-</tbody>
-</table>
+
+| <p>Коды ошибок</p> | <p>Значение</p> | 
+|--------------------|----------------|
+| <p>JET_errBadColumnId</p> | <p>Идентификатор столбца находится за пределами допустимых ограничений идентификатора столбца.</p> | 
+| <p>JET_errColumnNotFound</p> | <p>Столбец, описываемый ИДЕНТИФИКАТОРом столбца, не существует в таблице.</p> | 
+| <p>JET_wrnColumnNull</p> | <p>Все значения для этого столбца равны NULL.</p> | 
+| <p>JET_wrnColumnPresent</p> | <p>Указан JET_bitEnumeratePresenceOnly, и для этого столбца было возвращено по крайней мере одно значение столбца, отличное от NULL.</p> | 
+| <p>JET_wrnColumnSingleValue</p> | <p>Указан JET_bitEnumerateCompressOutput, и для этого столбца возвращено ровно одно значение столбца, отличное от NULL. В результате возвращается сжатая форма <strong>JET_ENUMCOLUMN</strong> . Дополнительные сведения см. в разделе <strong>JET_ENUMCOLUMN</strong> .</p> | 
+| <p>JET_wrnColumnSkipped</p> | <p>Идентификатор столбца в структуре <a href="gg269251(v=exchg.10).md">JET_ENUMCOLUMNID</a> , соответствующей этой <strong>JET_ENUMCOLUMN</strong> структуре, равен нулю.</p> | 
+
 
 
 **ценумколумнвалуе**
@@ -136,29 +108,12 @@ _**Применимо к:** Windows | Windows Сервером_
 
 ### <a name="requirements"></a>Требования
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>Клиент</strong></p></td>
-<td><p>требуется Windows Vista, Windows XP или Windows 2000 Professional.</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Сервер</strong></p></td>
-<td><p>требуется Windows server 2008, Windows server 2003 или сервер Windows 2000.</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Header</strong></p></td>
-<td><p>Объявлено в ESENT. h.</p></td>
-</tr>
-</tbody>
-</table>
+
+| | | <p><strong>Клиент</strong></p> | <p>требуется Windows Vista, Windows XP или Windows 2000 Professional.</p> | | <p><strong>Сервер</strong></p> | <p>требуется Windows server 2008, Windows server 2003 или сервер Windows 2000.</p> | | <p><strong>Header</strong></p> | <p>Объявлено в ESENT. h.</p> | 
 
 
-### <a name="see-also"></a>См. также
+
+### <a name="see-also"></a>См. также:
 
 [JET_COLUMNID](./jet-columnid.md)  
 [JET_ERR](./jet-err.md)  

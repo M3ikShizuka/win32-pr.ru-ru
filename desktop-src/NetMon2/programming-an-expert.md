@@ -4,12 +4,12 @@ ms.assetid: 6a3834b7-753f-42cc-986f-3d7e8bf79fd9
 title: Программирование эксперта
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: df633d971558f9b14374680b09a22771e10ea0d8
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 38de0a60c8224ce0912039ea5fbb06e2cdc958e317eccfb83d524ce632b0d539
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104156307"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119979184"
 ---
 # <a name="programming-an-expert"></a>Программирование эксперта
 

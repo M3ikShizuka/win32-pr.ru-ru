@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: a6edd0658eb80ec53d19b6c136a672cb78a2087b
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: d5f891a4e6e745fe2a6e215f3dd126c5b0faa11ba39b49ff2404c79c0cc12528
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "105703743"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120119164"
 ---
 # <a name="d3dxmatrixaffinetransformation2d-function-d3dx9mathh"></a>Функция D3DXMatrixAffineTransformation2D (D3dx9math. h)
 
@@ -95,7 +95,7 @@ D3DXMATRIX* D3DXMatrixAffineTransformation2D(
 
 Указатель на структуру [**D3DXMATRIX**](d3dxmatrix.md) , которая является матрицей аффинного преобразования.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Эта функция вычисляет матрицу аффинных преобразований с помощью следующей формулы, при этом сцепление матрицы вычисляется в порядке слева направо:
 
@@ -123,12 +123,12 @@ MT = матрица перевода (*птранслатион*)
 
 | Требование | Значение |
 |--------------------|----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3dx9math. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3dx9math. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>   |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

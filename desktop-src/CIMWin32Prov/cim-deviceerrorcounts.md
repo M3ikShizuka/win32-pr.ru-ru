@@ -26,12 +26,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 1602e68b7254811ba8c09726feda8baa7bf23d29
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 1e4f81531a281766d152174c77219b17dff60b626f58cbad0f9907129d9e379f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103990666"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119924544"
 ---
 # <a name="cim_deviceerrorcounts-class"></a>\_Класс CIM девицеерроркаунтс
 
@@ -92,7 +92,7 @@ class CIM_DeviceErrorCounts : CIM_StatisticalInformation
 
 <dl> <dt>
 
-**Заголовок**
+**Caption**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -223,7 +223,7 @@ class CIM_DeviceErrorCounts : CIM_StatisticalInformation
 
 </dd> <dt>
 
-**Name**
+**Имя**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -289,7 +289,7 @@ class CIM_DeviceErrorCounts : CIM_StatisticalInformation
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Инструментарий WMI не реализует этот класс.
 

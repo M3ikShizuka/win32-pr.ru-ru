@@ -7,12 +7,12 @@ keywords:
 - Серверные объекты данных SDO, о
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 60e78d384845b078f86affbdbe1e66021d25f33f
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 38597136b1ab8f21a136c0e355117e0bf5b22bbe73f6ff94eceb6219b163e9b6
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "105681673"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120128754"
 ---
 # <a name="about-server-data-objects"></a>Сведения об объектах данных сервера
 
@@ -21,6 +21,6 @@ ms.locfileid: "105681673"
 -   [Элементы API SDO](/windows/desktop/Nps/sdo-elements-of-the-sdo-api)
 -   [Порядок использования API SDO](/windows/desktop/Nps/sdo-order-in-which-to-use-the-sdo-api)
 
- 
+ 
 
- 
+ 

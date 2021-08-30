@@ -12,16 +12,16 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: fdb9ff99acff0c6d07dd943a729d182fb8405d74
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 13ac2a1195ba668a38e04a70d9130ff4255196c73be35d6e7ce01765fdc2d1a5
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104265840"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120130034"
 ---
 # <a name="locationdispdispcivicaddressreportpostalcode-property"></a>Локатиондисп. ДиспЦивикаддрессрепорт. PostalCode, свойство
 
-\[Объектная модель API расположения доступна для использования в операционных системах, указанных в разделе требования. В последующих версиях он может быть изменен или недоступен. Вместо этого для доступа к расположению с веб-сайта используйте [API географического расположения W3C](/previous-versions/windows/internet-explorer/ie-developer/samples/gg589513(v=vs.85)). Чтобы получить доступ к расположению из классического приложения, используйте API [**Windows. Devices. Географическое расположение**](/uwp/api/Windows.Devices.Geolocation) .\]
+\[Объектная модель API расположения доступна для использования в операционных системах, указанных в разделе требования. В последующих версиях он может быть изменен или недоступен. Вместо этого для доступа к расположению с веб-сайта используйте [API географического расположения W3C](/previous-versions/windows/internet-explorer/ie-developer/samples/gg589513(v=vs.85)). Чтобы получить доступ к расположению из классического приложения, используйте [**Windows. API Devices. Географическое расположение**](/uwp/api/Windows.Devices.Geolocation) .\]
 
 Почтовый индекс.
 
@@ -50,7 +50,7 @@ strPostalCode = LocationDisp.DispCivicAddressReport.PostalCode
 
 | Требование | Значение |
 |-------------------------------------|--------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 7\]<br/> |
+| Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/> |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                  |
 
 

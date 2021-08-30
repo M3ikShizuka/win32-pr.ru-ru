@@ -4,12 +4,12 @@ ms.assetid: ae5955f9-e52a-41d7-a199-800e37a3e936
 title: Автоматическое создание MIP-карты (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4fda5b765d42ffa10f8cc5998daa66ae36c2bc75
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 17db4ccc44ed46be514e4013f31f0ed63fd5ae58d900c32465277a7c978b59cd
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105701235"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119952614"
 ---
 # <a name="automatic-generation-of-mipmaps-direct3d-9"></a>Автоматическое создание MIP-карты (Direct3D 9)
 
@@ -33,7 +33,7 @@ ms.locfileid: "105701235"
 
 Чтобы проверить поддержку автоматического создания MIP-карты, убедитесь, что [D3DCAPS2 \_ канаутоженмипмап](d3dcaps2.md) установлен. Если это так, вызовите [**чеккдевицеформат**](/windows/win32/api/d3d9/nf-d3d9-idirect3d9-checkdeviceformat) с помощью [D3DUSAGE \_ аутоженмипмап](d3dusage.md). Если возвращаемое значение — D3D \_ ОК, MIP-карты гарантируется автоматически. Если возвращаемое значение — D3DOK \_ ноаутожен, это означает, что вызов Create будет выполнен, но MIP-карты не будет создан.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

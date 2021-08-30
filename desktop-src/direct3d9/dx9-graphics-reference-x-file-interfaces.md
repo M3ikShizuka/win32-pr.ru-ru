@@ -4,12 +4,12 @@ ms.assetid: 66e3476a-4ee8-48ac-aab8-6653793e0ef3
 title: Файловые интерфейсы X
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7a6e47325a4912faeb919cb60571de3cccbbe265
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 82bea0243c8c69aa1ac841177871e427fc17d8875b7d777effa831cf70ac0bf9
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "104537604"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120069203"
 ---
 # <a name="x-file-interfaces"></a>Файловые интерфейсы X
 
@@ -39,7 +39,7 @@ ms.locfileid: "104537604"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

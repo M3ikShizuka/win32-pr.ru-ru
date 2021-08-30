@@ -5,12 +5,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: d4c6d7ba-7bca-420d-a4dc-4daea816f99c
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2730cdbe3a13456aed0e613a614d43a0e56e6673
-ms.sourcegitcommit: 8fa6614b715bddf14648cce36d2df22e5232801a
+ms.openlocfilehash: d9a5ce6b99cb9c21ffa1eefa2d58462b4b15af235f9eda85ce34cc103f6c598e
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "104533668"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120033944"
 ---
 # <a name="t-task-scheduler"></a>T (планировщик задач)
 
@@ -50,7 +50,7 @@ A B C D [E](e.md) F G р [. J K](i.md) L M N O [P](p.md) Q R [S](s.md) T U V [W]
 <span id="_msb_tasks_gly"></span><span id="_MSB_TASKS_GLY"></span>**операции**
 </dt> <dd>
 
-Любой элемент, который может выполняться планировщик задач. Эти элементы могут включать любое из следующих элементов (как поддерживается операционной системой, в которой будет выполняться задача): Win32® приложениями, приложениями Win16, приложениями OS/2, приложениями MS-DOS®, пакетными файлами ( \* bat), командными файлами ( \* cmd) или любым надлежащим образом зарегистрированным типом файлов.
+Любой элемент, который может выполняться планировщик задач. Эти элементы могут включать любое из следующих элементов (как поддерживается операционной системой, в которой будет выполняться задача): Win32® приложениями, приложениями Win16, приложениями OS/2, приложениями MS-DOS®, пакетными файлами ( \*.bat), командными файлами ( \* . cmd) или любым надлежащим образом зарегистрированным типом файлов.
 
 </dd> <dt>
 

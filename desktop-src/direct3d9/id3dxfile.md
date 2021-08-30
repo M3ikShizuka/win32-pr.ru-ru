@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 45af79c4fb01c95b25803788f79588a3880fe264
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: 8abbfaf93250f6c80888d82b291f4294d893703a383552fbef94d50c6fc57f1e
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "105713777"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119893354"
 ---
 # <a name="id3dxfile-interface"></a>Интерфейс ID3DXFile
 
@@ -48,7 +48,7 @@ ms.locfileid: "105713777"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Объект ID3DXFile также содержит локальное хранилище шаблонов. Это локальное хранилище может быть добавлено только с методами [**ID3DXFile:: регистеренумтемплатес**](id3dxfile--registerenumtemplates.md) и [**ID3DXFile:: регистертемплатес**](id3dxfile--registertemplates.md) .
 
@@ -67,18 +67,18 @@ typedef interface ID3DXFile *LPD3DXFILE;
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|---------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3DX9Xof. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3DX9Xof. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>  |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

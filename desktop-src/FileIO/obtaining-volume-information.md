@@ -4,12 +4,12 @@ ms.assetid: 008e0cc4-bc12-47e8-a8b7-d4fa9395fceb
 title: Получение сведений о томе
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8fc5323c3f82db1115a81902f156e9366abad31e
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: b5fb7f30cac87e43ba5fb1675251fd18fe2ed042bd7950d192ab750c38eaf3f2
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104542751"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120130724"
 ---
 # <a name="obtaining-volume-information"></a>Получение сведений о томе
 
@@ -17,7 +17,7 @@ ms.locfileid: "104542751"
 
 Как правило, следует избегать использования статических буферов для имен файлов и путей. Вместо этого используйте значения, возвращенные [**жетволумеинформатион**](/windows/desktop/api/FileAPI/nf-fileapi-getvolumeinformationa) , для выделения буферов по мере необходимости. Если необходимо использовать статические буферы, зарезервируйте 256 символов в именах файлов и 260 символов для путей.
 
-Функции [**GetSystemDirectory**](/windows/desktop/api/sysinfoapi/nf-sysinfoapi-getsystemdirectorya) и [**жетвиндовсдиректори**](/windows/desktop/api/sysinfoapi/nf-sysinfoapi-getwindowsdirectorya) извлекают пути к системному каталогу и каталогу Windows соответственно.
+функции [**GetSystemDirectory**](/windows/desktop/api/sysinfoapi/nf-sysinfoapi-getsystemdirectorya) и [**жетвиндовсдиректори**](/windows/desktop/api/sysinfoapi/nf-sysinfoapi-getwindowsdirectorya) извлекают пути к системному каталогу и каталогу Windows соответственно.
 
 Функция [**жетдискфриспаце**](/windows/desktop/api/FileAPI/nf-fileapi-getdiskfreespacea) извлекает организационную информацию о томе, включая число байт на сектор, число секторов на кластер, количество свободных кластеров и общее количество кластеров. Однако **жетдискфриспаце** не может сообщать о размерах томов, превышающих 2 ГБ. Чтобы обеспечить работу приложения с жесткими дисками с большими возможностями, используйте функцию [**жетдискфриспацеекс**](/windows/desktop/api/FileAPI/nf-fileapi-getdiskfreespaceexa) .
 
@@ -25,7 +25,7 @@ ms.locfileid: "104542751"
 
 Функция [**жетлогикалдривес**](/windows/desktop/api/FileAPI/nf-fileapi-getlogicaldrives) определяет существующие тома. Функция [**жетлогикалдривестрингс**](/windows/desktop/api/FileAPI/nf-fileapi-getlogicaldrivestringsw) извлекает строку, завершающуюся нулем, для каждого присутствующего тома. Используйте эти строки всякий раз, когда требуется корневой каталог.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

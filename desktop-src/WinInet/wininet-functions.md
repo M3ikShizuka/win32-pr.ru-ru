@@ -4,12 +4,12 @@ description: В следующем списке перечислены все ф
 ms.assetid: 2e0da5c6-29e4-47b5-8ed2-8712c9ca2c97
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ed50afee0920a9a0d5012c830744d9bee6865050
-ms.sourcegitcommit: 8a31a21726d4a8ebfddfa71f02f1bfffea459277
+ms.openlocfilehash: e087fe0f83577924e8ad6b752e8ad4ed5d250d1c9da2a368273c5eb2af9e921c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/20/2021
-ms.locfileid: "110208695"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120071654"
 ---
 # <a name="wininet-functions"></a>Функции WinINet
 

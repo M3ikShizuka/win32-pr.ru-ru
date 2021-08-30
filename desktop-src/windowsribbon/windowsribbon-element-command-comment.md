@@ -3,7 +3,7 @@ title: Свойство Command. Comment
 description: Представляет комментарий или аннотацию для команды.
 ms.assetid: 4ac5c7d4-9627-4703-bd3c-594d9497ba24
 keywords:
-- Лента Windows для свойства Command. Comment
+- свойство Command. Comment Windows лента
 topic_type:
 - apiref
 api_name:
@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0f7df2131234623dd30fc90339634a932eca5bd9
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 4eef6b5366f61f15fda808ca60264de5d28322b8b41a2d6e986e36282a95fbd6
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104415993"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119931644"
 ---
 # <a name="commandcomment-property"></a>Свойство Command. Comment
 
@@ -43,11 +43,11 @@ ms.locfileid: "104415993"
 
 | Элемент                                                     |
 |-------------------------------------------------------------|
-| [**Get-Help**](windowsribbon-element-command.md)<br/> |
+| [**Команда**](windowsribbon-element-command.md)<br/> |
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Необязательный элемент.
 
@@ -91,8 +91,8 @@ ms.locfileid: "104415993"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 7\]<br/>              |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2008 R2 \[\]<br/> |
+| Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>              |
+| Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/> |
 
 
 

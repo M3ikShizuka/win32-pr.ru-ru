@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: b80b6ddcc2eebecf02416b09256d714bd2b8772f
-ms.sourcegitcommit: 168d11879cb9fd89d26f826482725c0a626be00f
+ms.openlocfilehash: 9bad18cb087bf18a779d371ee5daf78f03b707de1801d197d99b3ff590b343ee
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "104987287"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120023144"
 ---
 # <a name="samplegradsamplegradsfloatfloatfloatintfloatuint-function-for-texture3d"></a>Функция Самплеград:: Самплеград (S, float, float, float, int, float, uint) для Texture3D
 
@@ -90,7 +90,7 @@ DXGI_FORMAT SampleGrad(
 | Texture1D, Texture1DArray                | FLOAT          |
 | Texture2D, Texture2DArray                | float2         |
 | Texture3D, Текстурекубе, Текстурекубеаррай | float3         |
-| Texture2DMS, Texture2DMSArray            | не поддерживается  |
+| Texture2DMS, Texture2DMSArray            | Не поддерживается  |
 
 
 
@@ -112,7 +112,7 @@ DXGI_FORMAT SampleGrad(
 | Texture1D, Texture1DArray                | FLOAT          |
 | Texture2D, Texture2DArray                | float2         |
 | Texture3D, Текстурекубе, Текстурекубеаррай | float3         |
-| Texture2DMS, Texture2DMSArray            | не поддерживается  |
+| Texture2DMS, Texture2DMSArray            | Не поддерживается  |
 
 
 
@@ -134,7 +134,7 @@ DXGI_FORMAT SampleGrad(
 | Texture1D, Texture1DArray     | INT            |
 | Texture2D, Texture2DArray     | int2           |
 | Texture3D                     | int3           |
-| Текстурекубе, Текстурекубеаррай | не поддерживается  |
+| Текстурекубе, Текстурекубеаррай | Не поддерживается  |
 
 
 
@@ -166,7 +166,7 @@ DXGI_FORMAT SampleGrad(
 
 Формат текстуры, который является одним из типизированных значений, перечисленных в [**\_ формате DXGI**](/windows/desktop/api/dxgiformat/ne-dxgiformat-dxgi_format).
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

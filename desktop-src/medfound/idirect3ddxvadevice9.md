@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - dxva.h
-ms.openlocfilehash: 192f47b8161893f9517bc976452eb8836da4bb53
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: c210492de77daffe6f67056ccc888aff49e950a16f0440010f46a2c5136a0d60
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105711791"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119958224"
 ---
 # <a name="idirect3ddxvadevice9-interface"></a>Интерфейс IDirect3DDXVADevice9
 
@@ -47,7 +47,7 @@ ms.locfileid: "105711791"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Чтобы получить указатель на этот интерфейс, вызовите метод [**IDirect3DVideoDevice9:: креатедксвадевице**](idirect3dvideodevice9-createdxvadevice.md).
 
@@ -57,9 +57,9 @@ ms.locfileid: "105711791"
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                    |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                              |
-| Header<br/>                   | <dl> <dt>Дксва. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                    |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                              |
+| Заголовок<br/>                   | <dl> <dt>Дксва. h</dt> </dl> |
 
 
 

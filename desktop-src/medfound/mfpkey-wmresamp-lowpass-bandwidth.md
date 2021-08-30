@@ -4,12 +4,12 @@ ms.assetid: 7d9b5949-2d9e-436a-9e44-61c6fc86f973
 title: Свойство MFPKEY_WMRESAMP_LOWPASS_BANDWIDTH (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a419c713f7172aa61f828af416d4807435d87797
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 2f6121ac9c5e755bd1d7b4a3584c1cb1a363ee5a3606d1e565be7caff7b0247f
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105692796"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119953264"
 ---
 # <a name="mfpkey_wmresamp_lowpass_bandwidth-property"></a>МФПКЭЙ \_ вмресамп \_ ловпасс \_ пропускная способность
 
@@ -23,27 +23,27 @@ ms.locfileid: "105692796"
 
 VT \_ R4
 
-## <a name="applies-to"></a>Применение
+## <a name="applies-to"></a>Применяется к
 
 -   [DSP по интерполяции аудио](audioresampler.md)
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Допустимый диапазон значений этого свойства — от 0,0 до 1,0 включительно.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                             |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                    |
-| Header<br/>                   | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
+| Заголовок<br/>                   | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

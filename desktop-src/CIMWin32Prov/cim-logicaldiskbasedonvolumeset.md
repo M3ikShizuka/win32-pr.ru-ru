@@ -18,12 +18,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: f2af4c141fe0b64979c6fb6e5b7b0e6068d018d9
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 38ecbcf35ed46cb22a254289d617f9086780c087d932ba17a4cbd60bc1782f52
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104141087"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119923144"
 ---
 # <a name="cim_logicaldiskbasedonvolumeset-class"></a>\_Класс CIM логикалдискбаседонволумесет
 
@@ -55,7 +55,7 @@ class CIM_LogicalDiskBasedOnVolumeSet : CIM_BasedOn
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **CIM \_ логикалдискбаседонволумесет** имеет следующие свойства.
 
@@ -127,7 +127,7 @@ class CIM_LogicalDiskBasedOnVolumeSet : CIM_BasedOn
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **CIM \_ логикалдискбаседонволумесет** является производным от [**CIM \_ BasedOn**](cim-basedon.md).
 

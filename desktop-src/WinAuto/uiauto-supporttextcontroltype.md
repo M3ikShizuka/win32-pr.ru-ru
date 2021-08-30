@@ -21,12 +21,12 @@ keywords:
 - типы элементов управления, текст
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a7e5e7175ca0a394352076a463a63c799e47b871e48641296c51f9f76f7b623e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7bc109bfba35f995384447014bc6642dcf3cd7f4
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120098144"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122478800"
 ---
 # <a name="text-control-type"></a>Тип элемента управления "текст"
 
@@ -50,28 +50,11 @@ ms.locfileid: "120098144"
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Представление элемента управления</th>
-<th>Представление содержимого</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><ul>
-<li>Текст</li>
-</ul></td>
-<td><ul>
-<li>Text (если содержимое)</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+
+| Представление элемента управления | Представление содержимого | 
+|--------------|--------------|
+| <ul><li>текст</li></ul> | <ul><li>Text (если содержимое)</li></ul> | 
+
 
 
 

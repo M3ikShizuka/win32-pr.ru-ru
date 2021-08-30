@@ -15,12 +15,12 @@ api_type:
 - COM
 api_location: ''
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: f7427a28752384f6c30e050458e5844dcaedd1a7
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.openlocfilehash: 7664b34237da8c9c095ccd8940a0fa5f7034d384
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122989147"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122480490"
 ---
 # <a name="jet_pfnrealloc-callback-function"></a>Функция обратного вызова JET_PFNREALLOC
 
@@ -68,11 +68,7 @@ _**Применимо к:** Windows | Windows Сервером_
 ### <a name="requirements"></a>Требования
 
 
-| Требование | Применение |
-|------------|----------|
-| <p><strong>Клиент</strong></p> | <p>требуется Windows Vista, Windows XP или Windows 2000 Professional.</p> | 
-| <p><strong>Server</strong></p> | <p>требуется Windows server 2008, Windows server 2003 или сервер Windows 2000.</p> | 
-| <p><strong>Header</strong></p> | <p>Объявлено в ESENT. h.</p> | 
+| | | <p><strong>Клиент</strong></p> | <p>требуется Windows Vista, Windows XP или Windows 2000 Professional.</p> | | <p><strong>Сервер</strong></p> | <p>требуется Windows server 2008, Windows server 2003 или сервер Windows 2000.</p> | | <p><strong>Header</strong></p> | <p>Объявлено в ESENT. h.</p> | 
 
 
 

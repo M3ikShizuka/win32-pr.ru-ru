@@ -3,7 +3,7 @@ title: Сообщение MCIWNDM_GETINACTIVETIMER (VFW. h)
 description: Сообщение МЦИВНДМ \_ жетинактиветимер получает период обновления, используемый, когда окно мЦивнд является неактивным окном. Это сообщение можно отправить явно или с помощью макроса МЦивнджетинактиветимер.
 ms.assetid: 84e00d2f-2cf8-4b6b-a8cb-7eb320754783
 keywords:
-- MCIWNDM_GETINACTIVETIMER сообщения Windows мультимедиа
+- сообщение MCIWNDM_GETINACTIVETIMER Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a270aeffdee59b7749aa87a0e711204960d74d7f
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 0ec8de85796139b98e76d631a9386493752dad9942241069a7f1a5ab535fab72
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105672497"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120038084"
 ---
 # <a name="mciwndm_getinactivetimer-message"></a>\_Сообщение мЦивндм жетинактиветимер
 

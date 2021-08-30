@@ -4,12 +4,12 @@ ms.assetid: 8ef06f49-fda4-49e2-9b07-70453a2e897c
 title: Фильтр синтаксического анализатора с несколькими файлами
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8a91196f9712dc05e64f1d70072d3af9d1c0a39f
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.openlocfilehash: 444eebb6ff16b7b6d5568b47c939f687bb3207c8
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122986476"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122474630"
 ---
 # <a name="multi-file-parser-filter"></a>Фильтр синтаксического анализатора с несколькими файлами
 
@@ -29,17 +29,7 @@ https://server/share/captions.smi
 
 
 
-| Метка | Применение |
-|--------|-------|
-| Интерфейсы фильтра | <a href="/windows/desktop/api/Strmif/nn-strmif-ibasefilter"><strong>ибасефилтер</strong></a> | 
-| Типы носителей входных закрепления | <ul><li>Основной тип: MEDIATYPE_Stream</li><li>Подтип: CLSID_MultFile</li><li>Тип формата: GUID_NULL</li></ul> | 
-| Интерфейсы входных закрепления | <a href="/windows/desktop/api/Strmif/nn-strmif-ipin"><strong>Ипин</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-iqualitycontrol"> <strong>икуалитиконтрол</strong></a> | 
-| Типы носителей для выходного ПИН-кода | <ul><li>Основной тип: MEDIATYPE_File</li><li>Подтип: GUID_NULL</li><li>Тип формата: MEDIATYPE_File</li></ul> | 
-| Интерфейсы выходного ПИН-кода | <a href="/windows/desktop/api/Strmif/nn-strmif-ipin"><strong>Ипин</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-iqualitycontrol"> <strong>икуалитиконтрол</strong></a> | 
-| Фильтровать CLSID | CLSID_MultFile | 
-| Исполняемый объект | Quartz.dll | 
-| <a href="merit.md">Заслуживают</a> | MERIT_UNLIKELY | 
-| <a href="filter-categories.md">Категория фильтра</a> | CLSID_LegacyAmFilterCategory | 
+| | | Интерфейсы фильтра | <a href="/windows/desktop/api/Strmif/nn-strmif-ibasefilter"><strong>Ибасефилтер</strong></a> | | Типы входных закрепления <ul><li>Основной тип: MEDIATYPE_Stream</li><li>Подтип: CLSID_MultFile</li><li>Тип формата: GUID_NULL</li></ul> | | Интерфейсы входных закрепления | <a href="/windows/desktop/api/Strmif/nn-strmif-ipin"><strong>Ипин</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-iqualitycontrol"><strong>икуалитиконтрол</strong></a> | | Типы выходных закрепления <ul><li>Основной тип: MEDIATYPE_File</li><li>Подтип: GUID_NULL</li><li>Тип формата: MEDIATYPE_File</li></ul> | | Интерфейсы выходного ПИН-кода | <a href="/windows/desktop/api/Strmif/nn-strmif-ipin"><strong>Ипин</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-iqualitycontrol"><strong>икуалитиконтрол</strong></a> | | Фильтровать CLSID | CLSID_MultFile | | Исполняемый файл | Quartz.dll | | <a href="merit.md"></a> Кому | MERIT_UNLIKELY | | <a href="filter-categories.md">Категория фильтра</a> | CLSID_LegacyAmFilterCategory | 
 
 
 

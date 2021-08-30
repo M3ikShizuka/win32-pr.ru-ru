@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0859152ae2561fce70cc21a4dc1fe36e53524df0
-ms.sourcegitcommit: 57758ecb246c84d65e6e0e4bd5570d9176fa39cd
+ms.openlocfilehash: 0379ad61cdd0296ef672f62063b9c3ca7bdae250e5a3f6c1bf940aaa54cf7254
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "105672231"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120129734"
 ---
 # <a name="__int64-attribute"></a>\_\_Int64, атрибут
 
@@ -38,15 +38,15 @@ __int64 identifier-name;
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Обсуждение использования **\_ \_ Int64** см. в разделе [**Hyper**](hyper.md).
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
-[**Hyper**](hyper.md)
+[**hyper**](hyper.md)
 </dt> <dt>
 
 [Файл определения интерфейса (IDL)](interface-definition-idl-file.md)
@@ -55,9 +55,9 @@ __int64 identifier-name;
 [**int**](int.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

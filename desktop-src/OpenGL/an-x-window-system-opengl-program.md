@@ -1,6 +1,6 @@
 ---
 title: Программа X Window System OpenGL
-description: Следующая программа является программой X Window System OpenGL с тем же кодом OpenGL, который используется в АУКСЕДЕМО. Пример программы на языке C, предоставляемый с пакетом Microsoft Platform SDK. Сравните эту программу с программой Windows OpenGL в программе, перенесенной в Windows.
+description: Следующая программа является программой X Window System OpenGL с тем же кодом OpenGL, который используется в АУКСЕДЕМО. Пример программы на языке C, предоставляемый с пакетом Microsoft Platform SDK. сравните эту программу с программой Windows OpenGL в программе, перенесенной в Windows.
 ms.assetid: 8caab983-491f-46fa-b564-79191fa4a9ac
 keywords:
 - перенос в OpenGL, пример
@@ -8,16 +8,16 @@ keywords:
 - X Window System, пример
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ac03fdc0dac707f2a14d62d7955fa7533957f4de
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: a0fe7be4c09c27d0a4fceb591e52674a4bbdf54361e6e752e9306e6fc19b9280
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "105672058"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120128354"
 ---
 # <a name="an-x-window-system-opengl-program"></a>Программа X Window System OpenGL
 
-Следующая программа является программой X Window System OpenGL с тем же кодом OpenGL, который используется в АУКСЕДЕМО. Пример программы на языке C, предоставляемый с пакетом Microsoft Platform SDK. Сравните эту программу с программой Windows OpenGL в [программе, перенесенной в Windows](the-program-ported-to-win32.md).
+Следующая программа является программой X Window System OpenGL с тем же кодом OpenGL, который используется в АУКСЕДЕМО. Пример программы на языке C, предоставляемый с пакетом Microsoft Platform SDK. сравните эту программу с программой Windows OpenGL в [программе, перенесенной в Windows](the-program-ported-to-win32.md).
 
 
 ```C++
@@ -272,9 +272,9 @@ GLvoid drawScene(GLvoid)
 
 
 
- 
+ 
 
- 
+ 
 
 
 

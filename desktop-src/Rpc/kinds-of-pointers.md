@@ -4,12 +4,12 @@ description: MIDL позволяет приложениям удаленного
 ms.assetid: 370223e7-70e2-4018-9abb-6ce352410837
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0a2ede690a8c49eaa394ad79fea5c33190145945
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 612193770b0924f2f469ac5e02b81c1b71b9b5fb3029981d45530a6123654096
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104331792"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120020151"
 ---
 # <a name="kinds-of-pointers"></a>Виды указателей
 
@@ -19,9 +19,9 @@ MIDL позволяет приложениям RPC определять след
 -   [Уникальные указатели](unique-pointers.md)
 -   [Полные указатели](full-pointers.md)
 
- 
+ 
 
- 
+ 
 
 
 

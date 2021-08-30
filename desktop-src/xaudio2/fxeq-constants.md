@@ -4,12 +4,12 @@ ms.assetid: 2e77ac36-95e7-3a15-f5a6-6576e3c69d75
 title: Константы ФКСЕК (КСАПОФКС. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 833756caed0ab37cfbf500c2eefc2cdb408ec0fe
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: dfde203a339566cc93a36610fbb1cdabe5b954d02db1daeb2fbf20147aff5826
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105669296"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119926514"
 ---
 # <a name="fxeq-constants"></a>Константы ФКСЕК
 
@@ -36,23 +36,23 @@ ms.locfileid: "105669296"
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 ### <a name="platform-requirements"></a>Требования к платформе
 
-Windows 10 (Ксаудио 2.9); Windows 8, Windows Phone 8 (Ксаудио 2,8); Пакет SDK для DirectX (Ксаудио 2,7)
+Windows 10 (ксаудио 2.9); Windows 8, Windows Phone 8 (ксаудио 2,8); Пакет SDK для DirectX (Ксаудио 2,7)
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|-------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>КСАПОФКС. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>КСАПОФКС. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

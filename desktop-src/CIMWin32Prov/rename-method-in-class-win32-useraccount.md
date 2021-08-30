@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 27d495804fb68bc74eda269c2dd7921540f05f5b
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: b83b52078ce7d1202a08ffd9c6fe9bce63656ee26b58716d3aebae9f97bf9f4b
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104142322"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119929584"
 ---
 # <a name="rename-method-of-the-win32_useraccount-class"></a>Метод Rename класса Win32 \_ UserAccount
 
@@ -91,7 +91,7 @@ uint32 Rename(
 
 </dd> <dt>
 
-**Пользователь не найден**
+**Не удалось найти пользователя.**
 </dt> <dd>
 
 4
@@ -152,11 +152,11 @@ uint32 Rename(
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Эта функция реализуется как метод для предоставления отдельного контекста для нового имени, которое отличается от значения свойства ключа для имени, связанного с изменяемым экземпляром.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -170,7 +170,7 @@ uint32 Rename(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

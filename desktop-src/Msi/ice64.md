@@ -4,12 +4,12 @@ ms.assetid: d878bf4a-33c4-4c68-bd74-b7884d6680a5
 title: ICE64
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3d103498a56bea26415f4f841d5ec78b5dfe370f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 573be78a477aa36cbb562df988368045f0e959760684496c0b9bee6ba410c486
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104546138"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120043974"
 ---
 # <a name="ice64"></a>ICE64
 
@@ -59,7 +59,7 @@ The directory 'MyOtherFolder' is in the user profile but is not listed in the Re
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
