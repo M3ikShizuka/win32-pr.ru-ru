@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 42ae0aa6fab7bb567f67055f0398a74549e519b6
-ms.sourcegitcommit: 63753fcfb0afbbe5ec283fb8316e62c2dc950f66
+ms.openlocfilehash: 8e243a4a854eb9cac80f8ce94fd12c5b63f01b6a413167797a80804c9df66717
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "107908822"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120034824"
 ---
 # <a name="pixel-state-variables"></a>Переменные состояния пикселей
 
@@ -261,7 +261,7 @@ ms.locfileid: "107908822"
 |------------------|--------------------------------------------------------------------------------|
 | Описание.     | Коэффициент масштабирования по *оси x*                                                                |
 | Группа атрибутов: | пиксел                                                                          |
-| Начальное значение:   | 1,0                                                                            |
+| Начальное значение:   | 1.0                                                                            |
 | Команда Get:     | [**глжетфлоатв**](glgetbooleanv--glgetdoublev--glgetfloatv--glgetintegerv.md) |
 
 
@@ -274,7 +274,7 @@ ms.locfileid: "107908822"
 |------------------|--------------------------------------------------------------------------------|
 | Описание.     | Коэффициент масштабирования по *y*                                                                |
 | Группа атрибутов: | пиксел                                                                          |
-| Начальное значение:   | 1,0                                                                            |
+| Начальное значение:   | 1.0                                                                            |
 | Команда Get:     | [**глжетфлоатв**](glgetbooleanv--glgetdoublev--glgetfloatv--glgetintegerv.md) |
 
 

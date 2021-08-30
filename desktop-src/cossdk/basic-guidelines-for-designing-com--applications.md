@@ -4,12 +4,12 @@ ms.assetid: 2d08bd05-5b0c-480c-91fd-b2bf321fc21e
 title: Основные рекомендации по проектированию приложений COM+
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7b6552022c3a9c2f50172164d1ed60811c5272e0
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 9d33c8000a55c85737901eb242610a0391128bbc497d485fe3bcef017d86b9f7
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104142019"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120029804"
 ---
 # <a name="basic-guidelines-for-designing-com-applications"></a>Основные рекомендации по проектированию приложений COM+
 
@@ -23,7 +23,7 @@ ms.locfileid: "104142019"
 
 -   **Разверните компоненты в среде COM+, используя выбранные службы COM+.** После построения приложения можно развернуть приложение в сети или кластере серверов. Теперь можно принимать решения на основе доступных ресурсов, а также настраивать каждый компонент для достижения максимальной производительности.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -33,7 +33,7 @@ ms.locfileid: "104142019"
 [Проектирование приложения COM+ с помощью UML](designing-the-com--application-using-uml.md)
 </dt> <dt>
 
-[Общие рекомендации по проектированию для использования COM+](general-design-tips-for-using-com-.md)
+[общие Советы разработки для использования COM+](general-design-tips-for-using-com-.md)
 </dt> <dt>
 
 [Оптимизация взаимодействия с уровнем бизнес-логики COM+](optimizing-interactions-with-the-com--business-logic-tier.md)
