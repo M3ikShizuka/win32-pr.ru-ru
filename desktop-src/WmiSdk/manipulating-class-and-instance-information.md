@@ -10,16 +10,16 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 86e3e84deae73e206f41e9ea25e02b5d11373f3d
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 1074fd6bd6fd75cb838b3c399dcb1505c5644145522f552862e77e05da70a0c4
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105712771"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119996424"
 ---
 # <a name="manipulating-class-and-instance-information"></a>Управление сведениями о классе и экземпляре
 
-Инструментарий WMI предоставляет разнообразные методы для получения и управления сведениями о классе и экземпляре WMI, использовании Microsoft PowerShell, Visual Basic Scripting Edition (VBScript) и C++.
+инструментарий WMI предоставляет разнообразные методы для получения и управления сведениями о классе и экземпляре wmi, использовании Microsoft PowerShell, Visual Basic scripting Edition (VBScript) и C++.
 
 В следующей таблице перечислены разделы, в которых обсуждаются методы извлечения и управления сведениями о классе и экземпляре WMI.
 
@@ -42,7 +42,7 @@ ms.locfileid: "105712771"
 
 ## <a name="manipulating-data-using-vbscript"></a>Обработка данных с помощью VBScript
 
-Можно использовать прямой доступ для доступа к свойствам WMI класса или экземпляра WMI непосредственно в [**SWbemObject**](swbemobject.md), а не через [коллекцию](accessing-a-collection.md) свойств этого объекта. Можно также выполнить методы для этого объекта в собственном стиле языка программирования, а не использовать вызов [**SWbemServices.Exeкмесод**](swbemservices-execmethod.md) . Например, метод [**CREATE**](/windows/desktop/CIMWin32Prov/create-method-in-class-win32-process) в [**\_ процессе Win32**](/windows/desktop/CIMWin32Prov/win32-process) содержал три параметра в Windows 2000, но имеет четыре параметра в Windows Server 2003.
+Можно использовать прямой доступ для доступа к свойствам WMI класса или экземпляра WMI непосредственно в [**SWbemObject**](swbemobject.md), а не через [коллекцию](accessing-a-collection.md) свойств этого объекта. Можно также выполнить методы для этого объекта в собственном стиле языка программирования, а не использовать вызов [**SWbemServices.Exeкмесод**](swbemservices-execmethod.md) . например, метод [**Create**](/windows/desktop/CIMWin32Prov/create-method-in-class-win32-process) в [**\_ процессе Win32**](/windows/desktop/CIMWin32Prov/win32-process) содержал три параметра в Windows 2000, но имеет четыре параметра в Windows Server 2003.
 
 С помощью прямого доступа можно рассматривать свойства и методы WMI, как если бы они были свойствами автоматизации и методами [**SWbemObject**](swbemobject.md).
 

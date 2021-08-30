@@ -1,19 +1,19 @@
 ---
-description: <version>Элемент указывает версию содержимого этой библиотеки. Этот элемент не имеет атрибутов и не содержит дочерних элементов.
+description: '&lt;Элемент Version &gt; указывает версию содержимого этой библиотеки. Этот элемент не имеет атрибутов и не содержит дочерних элементов.'
 ms.assetid: 77FD5EF6-6B6F-48e1-973F-AC069F729613
 title: Элемент Version (схема библиотеки)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e7b16a6078a16f4ebbe5e995503114996572f1b8
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: ce1aeac399b5fa71b4a1ca57b63d8ecb95ede57f
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104984584"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122885460"
 ---
 # <a name="version-element-library-schema"></a>Элемент Version (схема библиотеки)
 
-<version>Элемент указывает версию содержимого этой библиотеки. Этот элемент не имеет атрибутов и не содержит дочерних элементов.
+&lt;Элемент Version &gt; указывает версию содержимого этой библиотеки. Этот элемент не имеет атрибутов и не содержит дочерних элементов.
 
 ## <a name="syntax"></a>Синтаксис
 
@@ -38,7 +38,7 @@ ms.locfileid: "104984584"
 
 Версия содержимого библиотеки отличается от версии в формате файла библиотеки ( \* . Library-MS). Версия формата файла библиотеки указывается в [пространстве имен](library-schema-entry.md).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

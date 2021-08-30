@@ -4,23 +4,23 @@ ms.assetid: 7d883638-5ddb-48b9-9d0b-104944a151e9
 title: Время и часы в DirectShow
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0217da32c0d4c1f695691bd732786afa91cfee35
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 65160def8c75ba6a47259fc0d3408186914f5234b60cd32cc7cab6e03130d073
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105684641"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120086804"
 ---
 # <a name="time-and-clocks-in-directshow"></a>Время и часы в DirectShow
 
-В этой статье приводятся общие сведения о времени и часах в архитектуре Microsoft DirectShow. В него входят следующие разделы.
+в этой статье приводятся общие сведения о времени и часах в архитектуре Microsoft DirectShow. В него входят следующие разделы.
 
 -   [Эталонные часы](reference-clocks.md)
 -   [Время суток](clock-times.md)
 -   [Метки времени](time-stamps.md)
 -   [Активные источники](live-sources.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

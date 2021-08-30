@@ -14,12 +14,12 @@ api_type:
 - Schema
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f022e89da19369a127b9198b6302ffa0486a573e
-ms.sourcegitcommit: b77ace27b0432e7cd3863191b11926be032fbe2f
+ms.openlocfilehash: 8128f1160c503c846fb59b3b69f2048f30db29541a92428e60e41263853c5c74
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "105654873"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120049964"
 ---
 # <a name="dhcp-ranges-attribute"></a>DHCP-атрибут Ranges
 

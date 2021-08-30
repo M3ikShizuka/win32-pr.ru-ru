@@ -7,12 +7,12 @@ keywords:
 - триггеры планировщик задач, структуры
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5bdb73620ccd92eed3ce8aea9bf5a17c5734d926
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: f47610012666d2d84b192235470674c2d34c700601fa581a2e948ec342dd5f93
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104252886"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120100104"
 ---
 # <a name="task-scheduler-structures-and-unions"></a>планировщик задач структур и объединений
 
@@ -33,11 +33,11 @@ ms.locfileid: "104252886"
 
 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8ae620321f9dca7a5c38decf7de661d713989c88
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: cbd43622c7755df2eb8bc2f02416396f55e59dcb5f82ffe6434a84e05a9358ab
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103802578"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120100424"
 ---
 # <a name="emailactionattachments-property"></a>Емаилактион. вложения, свойство
 
@@ -44,18 +44,18 @@ EmailAction.Attachments As String
 
 Массив вложений, отправляемых с сообщением электронной почты.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 В массиве вложений может быть не более восьми вложений.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                          |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                    |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                          |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                    |
 | Окончание поддержки клиента<br/>    | Windows 7<br/>                                                                    |
 | Поддержка конца сервера<br/>    | Windows Server 2008 R2<br/>                                                       |
 | Библиотека типов<br/>             | <dl> <dt>Тасксчд. tlb</dt> </dl> |
@@ -63,7 +63,7 @@ EmailAction.Attachments As String
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

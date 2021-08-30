@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: 0aad6cbcd21830ad127b9537749dfb1c05a4c9ac
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 1ca5e71de36503406e5cc45f136fc7e86eb3ec2cc0324d4a1a75d81cf1bc6fa4
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105685037"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120100784"
 ---
 # <a name="keyusageisdataenciphermentenabled-property"></a>Кэйусаже. ИсдатаенЦиферментенаблед, свойство
 
@@ -39,7 +39,7 @@ KeyUsage.IsDataEnciphermentEnabled As Boolean
 
 Если **значение равно true**, бит датаенЦифермент установлен.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -50,7 +50,7 @@ KeyUsage.IsDataEnciphermentEnabled As Boolean
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

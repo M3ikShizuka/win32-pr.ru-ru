@@ -7,12 +7,12 @@ MSHAttr:
 title: пурпосеграупгуид
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 73d772a79d1802c99cde571abc1c665c73ddd06c
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.openlocfilehash: 091ccd49a30e554806cea1472ca940042283472a
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122476080"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122883463"
 ---
 # <a name="span-idwwan_profile_v4element_purposegroupguidspanpurposegroupguid"></a><span id="WWAN_profile_v4.element_PurposeGroupGuid"></span>пурпосеграупгуид
 
@@ -22,9 +22,9 @@ ms.locfileid: "122476080"
 
 Определены четыре значения GUID, перечисленные в следующей таблице.
 
-| Целевая группа | GUID                                 |
+| Целевая группа | Код GUID                                 |
 |---------------|--------------------------------------|
-| Интернет      | 3E5545D2-1137-4DC8-A198-33F1C657515F |
+| Internet      | 3E5545D2-1137-4DC8-A198-33F1C657515F |
 | MMS           | 53E2C5D3-D13C-4068-AA38-9C48FF2E55A8 |
 | IMS           | 474D66ED-0E4B-476B-A455-19BB1239ED13 |
 | супл          | 6D42669F-52A9-408E-9493-1071DCC437BD |
@@ -33,9 +33,9 @@ ms.locfileid: "122476080"
 
 ## <a name="element-hierarchy"></a>Иерархия элементов
 
-[<MBNProfileExt>](element-mbnprofileext.md)  
-[<PurposeGroups>](element-purposegroups.md)  
-**<PurposeGroupGuid>**
+[&lt;MBNProfileExt&gt;](element-mbnprofileext.md)  
+[&lt;пурпосеграупс&gt;](element-purposegroups.md)  
+**&lt;пурпосеграупгуид&gt;**
 
 ## <a name="syntax"></a>Синтаксис
 

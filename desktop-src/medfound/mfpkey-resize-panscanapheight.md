@@ -4,12 +4,12 @@ ms.assetid: 11fda329-4adf-40e9-85b0-8d0999bbcfb8
 title: Свойство MFPKEY_RESIZE_PANSCANAPHEIGHT (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 96de8b5dd5f7ebe3e7671e513f2526254e690544
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: d17f79700e62661ad37009363582c7be6372bf587abf057433cdf5a0d3521611
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104263968"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120113224"
 ---
 # <a name="mfpkey_resize_panscanapheight-property"></a>МФПКЭЙ \_ изменить размер \_ пансканафеигхт
 
@@ -23,7 +23,7 @@ ms.locfileid: "104263968"
 
 VT \_ I4
 
-## <a name="applies-to"></a>Применение
+## <a name="applies-to"></a>Применяется к
 
 -   [DSP изменения видеоконтроллеров](videoresizer.md)
 
@@ -33,9 +33,9 @@ VT \_ I4
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                             |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                    |
-| Header<br/>                   | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
+| Заголовок<br/>                   | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
 
 
 

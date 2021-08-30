@@ -4,12 +4,12 @@ ms.assetid: 3302d164-81ad-4198-a116-f967e7a14147
 title: Интерфейсы документа OM модели XPS
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7bc191c4c0b8ec5571331022321a8ae829587022
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 31dff84f7be5ab27f3819f087ddd1da057cb51522dd6ef9f8f3e38b4f93087de
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105656587"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120112104"
 ---
 # <a name="xps-om-document-interfaces"></a>Интерфейсы документа OM модели XPS
 

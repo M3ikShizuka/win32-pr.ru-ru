@@ -3,7 +3,7 @@ title: Сообщение ICM_SETQUALITY (VFW. h)
 description: Сообщение ICM \_ сеткуалити предоставляет драйверу сжатия видео с уровнем качества, который будет использоваться во время сжатия.
 ms.assetid: 487ff1de-7178-440a-b38d-0b82a30d7297
 keywords:
-- ICM_SETQUALITY сообщения Windows мультимедиа
+- сообщение ICM_SETQUALITY Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0a1523996ad336e64d4b34143cc26cd8d0937d5c
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: adb840b3dc283d0cd81b4662322e0571b8e687bbdd4b6e7009a6fa1786e95920
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104416173"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119784914"
 ---
 # <a name="icm_setquality-message"></a>\_Сообщение ICM сеткуалити
 
@@ -49,7 +49,7 @@ lParam = 0;
 
 Возвращает ИЦЕРР \_ ОК, если драйвер поддерживает это сообщение или ИЦЕРР \_ не поддерживается в противном случае.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -61,7 +61,7 @@ lParam = 0;
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

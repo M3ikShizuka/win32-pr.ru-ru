@@ -20,12 +20,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: a3c6492ac4055b985194b3849090672d471390cb
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: d3343957dd19fc67d13fd46d5e64281c7d056993493d002691d08daa0f000664
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104154730"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120065304"
 ---
 # <a name="esentfragmentationexception-constructor-string-jet_err"></a>Конструктор Есентфрагментатионексцептион (String, JET_err)
 
@@ -59,7 +59,7 @@ protected EsentFragmentationException(
 
 #### <a name="parameters"></a>Параметры
 
-  - description;  
+  - description  
     Тип: [System. String](/dotnet/api/system.string)  
     
     Описание ошибки.
@@ -71,7 +71,7 @@ protected EsentFragmentationException(
     
     Код ошибки исключения.
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 #### <a name="reference"></a>Справочник
 

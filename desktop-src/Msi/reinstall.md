@@ -4,18 +4,18 @@ ms.assetid: 14346fef-7923-4f30-bca8-96a29c0f820d
 title: Переустановить свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5147b4120968991aa3cb6caf438b7565281fc6f7
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 4bcd434e27ddde10a8e6489022c3635fa0e608c280f91bacde4e9b1065549a0f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105651932"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120082634"
 ---
 # <a name="reinstall-property"></a>Переустановить свойство
 
 Значение свойства **переустановки** представляет собой список функций, разделенных запятыми, которые необходимо переустановить. Перечисленные компоненты должны присутствовать в столбце Feature таблицы [Features](feature-table.md) . Чтобы переустановить все компоненты, используйте команду REINSTALL = ALL в командной строке.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Обратите внимание, что в именах функций учитывается регистр.
 
@@ -41,13 +41,13 @@ ms.locfileid: "105651932"
 
 Установщик задает для свойства предварительно [**выбранных**](preselected.md) значений значение "1" во время возобновления приостановленной установки или при указании любого из указанных выше свойств в командной строке.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/> | Установщик Windows 5,0 в Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Установщик Windows 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Установщик Windows в Windows Server 2003 или Windows XP. Сведения о минимальном пакете обновления Windows, который требуется для установщик Windows версии, см. в [установщик Windows Run-Time требования](windows-installer-portal.md) .<br/> |
+| Версия<br/> | Windows установщик 5,0 на Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Windows установщик 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Windows установщик на Windows Server 2003 или Windows XP. сведения о минимальном Windows пакета обновления, который требуется для установщик Windows версии, см. в [установщик Windows требования к Run-Time](windows-installer-portal.md) .<br/> |
 
 
 

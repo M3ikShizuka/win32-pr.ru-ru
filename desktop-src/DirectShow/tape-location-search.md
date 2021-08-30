@@ -4,12 +4,12 @@ ms.assetid: 17fb4eba-4b2c-41c2-94e2-e58586f92e53
 title: Поиск расположения на ленте
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 33d1fb719f3b43374e5aa86f34c60e5b8f14d536
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 32dca3c2b52d1501207b5b86f4e30b148a57c3881a725284a21455f7c2789c69
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105684116"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120050064"
 ---
 # <a name="tape-location-search"></a>Поиск расположения на ленте
 
@@ -17,7 +17,7 @@ ms.locfileid: "105684116"
 
 Драйвер УВК поддерживает набор свойств для поиска по расположению ленты. Чтобы отправить команду поиска, используйте интерфейс **иксконтрол** и задайте \_ свойство пропсетид ext \_ Transport. Использование набора свойств является более безопасным, чем отправка необработанных команд AV/C на устройство, так как команды AV/C обходят фильтр и непосредственно переходят к драйверу устройства.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

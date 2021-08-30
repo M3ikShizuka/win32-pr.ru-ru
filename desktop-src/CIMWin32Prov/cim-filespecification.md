@@ -29,12 +29,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: de9661b63272328f74ea2634011973a5570d9f719ca8826565a432a0eee215ba
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f9148c30f14140edc89b8949b5731ea5c259e0fb
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119923784"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122886491"
 ---
 # <a name="cim_filespecification-class"></a>\_Класс CIM филеспеЦификатион
 
@@ -264,7 +264,7 @@ class CIM_FileSpecification : CIM_Check
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -888,7 +888,7 @@ Mac OS 9
 
 </dd> <dt>
 
-**Версия**
+**Version**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -904,14 +904,14 @@ Mac OS 9
 
 Версия операции должна быть в одной из следующих форм:
 
--   <major>.<minor>.<revision>
--   <major>.<minor><letter><revision>
+-   &lt;основной &gt; . &lt; дополнительный номер &gt; . &lt; редакции&gt;
+-   &lt;основной &gt; . &lt; Дополнительная &gt; &lt; буква &gt; &lt; версии&gt;
 
 Это свойство наследуется [**от \_ проверки CIM**](cim-check.md).
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Инструментарий WMI не реализует этот класс. Классы, производные от **CIM \_ филеспеЦификатион**, см. в разделе [Классы Win32](win32-provider.md).
 

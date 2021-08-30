@@ -1,5 +1,5 @@
 ---
-description: Отображает окно справки и поддержки Windows. Этот метод действует так же, как и при щелчке меню Пуск и выбрав пункт Справка и поддержка.
+description: отображает окно справки и поддержки Windows. этот метод имеет тот же результат, что и щелчок меню и выбор справки и поддержки.
 ms.assetid: 9460C87E-6703-4df6-A84C-8D394E0E6703
 title: Метод Ишеллдиспатч. Help (Шлдисп. h)
 ms.topic: reference
@@ -13,16 +13,16 @@ api_type:
 - COM
 api_location:
 - Shell32.dll
-ms.openlocfilehash: b58bcc97748cecf6ab4064ecccf3ba5bbe190b57
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 53b5476b89e4267415f1310d6e7cbf5507e953d643f61eec9ad8315febd56c41
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104984709"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120111534"
 ---
 # <a name="ishelldispatchhelp-method"></a>Ишеллдиспатч. Help, метод
 
-Отображает окно справки и поддержки Windows. Этот метод действует так же, как и при щелчке меню **Пуск** и выбрав пункт **Справка и поддержка**.
+отображает окно справки и поддержки Windows. Этот метод действует так же, как и при щелчке меню **Пуск** и выбрав пункт **Справка и поддержка**.
 
 ## <a name="syntax"></a>Синтаксис
 
@@ -55,15 +55,15 @@ IShellDispatch.Help()
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Этот метод реализован и доступен через метод [**Shell. Help**](shell-help.md) .
 
 ## <a name="examples"></a>Примеры
 
-В следующих примерах показано использование **справки** в JScript, VBScript и Visual Basic.
+в следующих примерах показано использование **справки** в JScript, VBScript и Visual Basic.
 
-Присутствовал
+JScript:
 
 
 ```JScript
@@ -119,7 +119,7 @@ End Sub
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ классических приложений Windows XP\]<br/>                                         |
+| Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ настольных приложений Windows XP\]<br/>                                         |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                           |
 | Заголовок<br/>                   | <dl> <dt>Шлдисп. h</dt> </dl>                           |
 | IDL<br/>                      | <dl> <dt>Шлдисп. idl</dt> </dl>                         |

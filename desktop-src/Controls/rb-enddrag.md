@@ -3,7 +3,7 @@ title: Сообщение RB_ENDDRAG (Коммктрл. h)
 description: Прерывает операцию перетаскивания элемента управления главной панели. Это сообщение не приводит к \_ отправке уведомления РБН енддраг.
 ms.assetid: 4991dda6-32ea-4d3e-9d39-17c2b6995f09
 keywords:
-- Элементы управления Windows для RB_ENDDRAG сообщений
+- элементы управления Windows сообщений RB_ENDDRAG
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4b6f201471b6f260555aacb9d89c1363492ed6bd
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: bacf910ff61cb0504883854313379a07096a9d5f1cd5e9cc2ac772ee6f6d7a43
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103988988"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120085114"
 ---
 # <a name="rb_enddrag-message"></a>\_Сообщение ЕНДДРАГ RB
 
@@ -39,19 +39,19 @@ ms.locfileid: "103988988"
 
 Возвращаемое значение для этого сообщения не используется.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

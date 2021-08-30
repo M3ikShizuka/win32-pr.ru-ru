@@ -4,16 +4,16 @@ ms.assetid: bd92a0f4-98d9-497a-99b9-0cf432347daf
 title: Операционная корреспонденция с драйвером устройства компенсации движения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5cca960ed8cbdae212bbe5e9f3b25316125a7456
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 703b9a76f0a49797210496825417a2326fff686c19b2eafa827b148f5fa62a81
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "104262347"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120051524"
 ---
 # <a name="operational-correspondence-with-motion-compensation-device-driver"></a>Операционная корреспонденция с драйвером устройства компенсации движения
 
-В этом разделе содержится описание стороны драйвера устройства компенсации движения для интерфейса DirectX ва. (Справочник: Windows 2000 DDK-Graphics Drivers-руководство по проектированию — 3,0 DirectDraw DDI-3,12 компенсация движения. Документацию по структурам в виде полужирного начертания см. в Windows DDK.)
+В этом разделе содержится описание стороны драйвера устройства компенсации движения для интерфейса DirectX ва. (ссылка: Windows 2000 DDK-графические драйверы-руководство по разработке — 3,0 DirectDraw — 3,12 компенсация движения. документацию по структурам, отображаемым жирным шрифтом, см. в Windows DDK.)
 
 Следующие элементы ссылаются на записи, доступные в структуре **DD \_ мотионкомпкаллбаккс** :
 

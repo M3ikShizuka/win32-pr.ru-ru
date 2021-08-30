@@ -4,12 +4,12 @@ ms.assetid: 1055CD55-4B25-4EEC-AF1B-C84C52287F8F
 title: Атрибут MF_SOURCE_READER_ENABLE_ADVANCED_VIDEO_PROCESSING (Мфреадврите. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6978239c5c1c466c78a310b38b5d10bd41f9e004
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: e873252dc67269124283b8e79760938d0f3302d348f21ea5506172cbe7b42ec3
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104541354"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120113724"
 ---
 # <a name="mf_source_reader_enable_advanced_video_processing-attribute"></a>MF \_ исходный \_ считыватель \_ включить \_ Расширенный \_ \_ атрибут обработки видео
 
@@ -19,7 +19,7 @@ ms.locfileid: "104541354"
 
 **Bool** , сохраненный как **UINT32**
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если этот атрибут имеет **значение true**, модуль чтения исходного кода может вставлять обработчик видео в конвейер обработки, что позволяет выполнять следующие типы преобразования форматов:
 
@@ -46,19 +46,19 @@ ms.locfileid: "104541354"
 -   Приложения могут регистрировать собственные преобразователи.
 -   Некоторые преобразования могут выполняться на оборудовании с помощью GPU.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 8 \|\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2012 \|\]<br/>                              |
-| Header<br/>                   | <dl> <dt>Мфреадврите. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 8 \[ приложения UWP для классических приложений \|\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ приложения UWP для классических приложений \|\]<br/>                              |
+| Заголовок<br/>                   | <dl> <dt>Мфреадврите. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

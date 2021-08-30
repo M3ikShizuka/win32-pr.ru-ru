@@ -4,17 +4,17 @@ ms.assetid: a08e079c-41be-475a-9e88-ee46d17fe938
 title: Использование разделителя MPEG-2
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f60505ef242c2ed9c1eab3031a005a2582b99608
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: e43ba5a45d20de7af5e996b8e2837971de08c0f486a880e01f9f28a45f8ab385
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105663756"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120049554"
 ---
 # <a name="using-the-mpeg-2-splitter"></a>Использование разделителя MPEG-2
 
 > [!Note]  
-> Начиная с Microsoft® Windows® XP, фильтр разделителя MPEG-2 является устаревшим. Вместо этого используйте [демультиплексор MPEG-2](mpeg-2-demultiplexer.md) .
+> начиная с Microsoft® Windows® XP, фильтр разделителя MPEG-2 является устаревшим. Вместо этого используйте [демультиплексор MPEG-2](mpeg-2-demultiplexer.md) .
 
  
 
@@ -47,7 +47,7 @@ ms.locfileid: "105663756"
 -   [**Иамстреамселект**](/windows/desktop/api/Strmif/nn-strmif-iamstreamselect). Только потоковая передача MPEG-2, только звуковые потоки.
 -   [**Имедиасикинг**](/windows/desktop/api/Strmif/nn-strmif-imediaseeking). Включает поиск в режиме Byte.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

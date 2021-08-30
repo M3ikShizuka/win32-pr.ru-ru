@@ -3,24 +3,24 @@ title: Настройки привязки безопасности
 description: Параметры привязки безопасности управляют способом получения или использования маркера безопасности.
 ms.assetid: 4bc03cb4-1ac2-4ad1-a45d-eae8f50f5355
 keywords:
-- Параметры привязки безопасности веб-службы для Windows
+- привязка безопасности Параметры веб-служб для Windows
 - ввсапи
 - WWS
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1c5a3d27627c3360560a38ef9cb85e3fb5ece434
-ms.sourcegitcommit: a716ca2a6a22a400f02c6b31699cf4da83ee3619
+ms.openlocfilehash: bea7a4d761a030636951ba1d637769c5daa907d20379cbe554e871aecb17736e
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "103797269"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120054644"
 ---
 # <a name="security-binding-settings"></a>Настройки привязки безопасности
 
 Параметры привязки безопасности управляют способом получения или использования маркера безопасности. Они представлены в виде коллекции пар "свойство-значение" с ключами свойств, определенными в [**\_ \_ \_ свойстве**](/windows/desktop/api/WebServices/ns-webservices-ws_security_binding_property)"перечисление WS Security Binding". Каждое свойство в коллекции имеет разумное значение по умолчанию. В результате можно определить и использовать описание безопасности без указания каких-либо параметров привязки безопасности.
 
 
-Сведения о параметрах безопасности для всего канала с помощью свойств, ключи которых определяются перечислением [**\_ \_ \_ идентификаторов свойств безопасности WS**](/windows/desktop/api/WebServices/ne-webservices-ws_security_property_id) , см. в разделе [Параметры канала безопасности](security-channel-settings.md).
+сведения о параметрах безопасности для всего канала и о свойствах, ключи которых определяются перечислением [**\_ \_ \_ идентификаторов свойств безопасности WS**](/windows/desktop/api/WebServices/ne-webservices-ws_security_property_id) , см. в разделе [security channel Параметры](security-channel-settings.md).
 
 Следующие элементы API используются с параметрами привязки безопасности.
 
@@ -36,7 +36,7 @@ ms.locfileid: "103797269"
 | [**\_ \_ тип ключа безопасности \_ WS**](/windows/desktop/api/WebServices/ne-webservices-ws_security_key_type)                              | Тип ключа маркера безопасности.                                                                                                                                 |
 | [**\_ \_ \_ режим ссылки на токен безопасности WS \_**](/windows/desktop/api/WebServices/ne-webservices-ws_security_token_reference_mode)     | механизм, используемый для ссылки на маркер безопасности из сигнатур, зашифрованные элементы и производные токены в контексте сообщений и привязок безопасности в смешанном режиме. |
 | [**\_версия доверия \_ WS**](/windows/desktop/api/WebServices/ne-webservices-ws_trust_version)                                       | Определяет версию спецификации WS-Trust, используемую для обеспечения безопасности сообщений и смешанного режима безопасности.                                                              |
-| [**\_ \_ встроенный \_ пакет проверки подлинности WS Windows \_**](/windows/desktop/api/WebServices/ne-webservices-ws_windows_integrated_auth_package) | Определяет конкретный пакет SSP, используемый для встроенной проверки подлинности Windows.                                                                                |
+| [**\_ \_ встроенный \_ пакет проверки подлинности WS Windows \_**](/windows/desktop/api/WebServices/ne-webservices-ws_windows_integrated_auth_package) | определяет конкретный пакет SSP, используемый для встроенной проверки подлинности Windows.                                                                                |
 
 
 

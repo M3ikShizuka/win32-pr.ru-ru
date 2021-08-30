@@ -4,12 +4,12 @@ description: Следующая процедура описывает шаги, 
 ms.assetid: 3598a28f-8ade-4b3f-9d31-4f2c84df2dd6
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6cb79b86645d77f0ee44ffd06b8ef6f403dbd8ac
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 95429383b3c13bfb0a02282425c004f77205ba494ac4026c8b066db0726b9966
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104411117"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120101724"
 ---
 # <a name="update-a-route-in-place-using-rtmupdateandunlockroute"></a>Обновление маршрута с помощью Ртмупдатеандунлоккрауте
 
@@ -22,7 +22,7 @@ ms.locfileid: "104411117"
     > [!Note]  
     > Если клиент добавляет сведения либо к членам **соседа** , либо **некссопслист** , клиент должен вызвать [**ртмреференцехандлес**](/windows/desktop/api/Rtmv2/nf-rtmv2-rtmreferencehandles) , чтобы явно увеличить число ссылок, которое диспетчер таблиц маршрутизации хранит на объекте следующего прыжка. Аналогичным образом, если клиент удаляет данные из члена **некссопслист** , клиент должен вызвать [**ртмрелеасенекссопс**](/windows/desktop/api/Rtmv2/nf-rtmv2-rtmreleasenexthops) , чтобы уменьшить число ссылок.
 
-     
+     
 
 3.  Вызовите [**ртмупдатеандунлоккрауте**](/windows/desktop/api/Rtmv2/nf-rtmv2-rtmupdateandunlockroute) , чтобы уведомить диспетчер таблиц маршрутизации о том, что было выполнено изменение. Диспетчер таблиц маршрутизации фиксирует изменения, обновляет назначение, отражая новые сведения, а затем разблокирует маршрут.
 
@@ -84,9 +84,9 @@ if (Status == NO_ERROR)
 
 
 
- 
+ 
 
- 
+ 
 
 
 

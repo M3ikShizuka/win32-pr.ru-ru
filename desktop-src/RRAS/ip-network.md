@@ -15,16 +15,16 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2541c493b1b2e3805e3705c71e890c6a6aaa98ee
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 5976211d0aea5936278353a9fb1b172585c0ee63531dde229ef4bf561c5dbb4e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103803010"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120029964"
 ---
 # <a name="ip_network-structure"></a>Структура IP- \_ сети
 
-\[Этот API был заменен API [диспетчера таблиц маршрутизации версии 2](about-routing-table-manager-version-2.md) и не будет доступен за пределами Windows Server 2003. Приложения должны использовать API диспетчера таблиц маршрутизации версии 2.\]
+\[этот api был заменен api [диспетчера таблиц маршрутизации версии 2](about-routing-table-manager-version-2.md) и не будет доступен за пределами Windows Server 2003. Приложения должны использовать API диспетчера таблиц маршрутизации версии 2.\]
 
 Структура **IP- \_ сети** описывает IP-адрес сети.
 
@@ -58,7 +58,7 @@ typedef struct _IP_NETWORK {
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -67,11 +67,11 @@ typedef struct _IP_NETWORK {
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                        |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                             |
 | Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                   |
-| Header<br/>                   | <dl> <dt>RTM. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>RTM. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

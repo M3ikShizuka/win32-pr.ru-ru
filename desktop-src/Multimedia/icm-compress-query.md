@@ -3,7 +3,7 @@ title: Сообщение ICM_COMPRESS_QUERY (VFW. h)
 description: В \_ сообщении о \_ запросе сжатия ICM запрашивается драйвер сжатия видео, чтобы определить, поддерживает ли он определенный входной формат, или же он может сжимать определенный входной формат в определенный выходной формат.
 ms.assetid: 6d0e735e-8252-4507-b8be-1ba87774f637
 keywords:
-- ICM_COMPRESS_QUERY сообщения Windows мультимедиа
+- сообщение ICM_COMPRESS_QUERY Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 00a00482cc39f21ef6ddfb241f0534924c503200
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 75a68bf93a3d3ea96447dd061d859ccbf4483124dc8955fbd6efc39c180d782c
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105672806"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119785024"
 ---
 # <a name="icm_compress_query-message"></a>\_Сообщение о \_ запросе сжатия ICM
 
@@ -56,11 +56,11 @@ lParam = (DWORD_PTR) (LPVOID) lpbiOutput;
 
 Возвращает ИЦЕРР \_ ОК, если указанное сжатие поддерживается или ицерр \_ бадформат в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Когда драйвер получает это сообщение, он должен проверить структуру [**битмапинфо**](/windows/win32/api/wingdi/ns-wingdi-bitmapinfo) , связанную с *лпбиинпут* , чтобы определить, может ли он сжимать входной формат.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -72,7 +72,7 @@ lParam = (DWORD_PTR) (LPVOID) lpbiOutput;
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
