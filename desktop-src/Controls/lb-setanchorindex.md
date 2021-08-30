@@ -3,7 +3,7 @@ title: Сообщение LB_SETANCHORINDEX (Winuser. h)
 description: Задает элемент привязки \ 8212;, т. е. элемент, из которого начинается выбор нескольких элементов. Множественный выбор охватывает все элементы из привязанного элемента в элемент курсора.
 ms.assetid: vs|controls|~\controls\listboxes\listboxreference\listboxmessages\lb_setanchorindex.htm
 keywords:
-- Элементы управления Windows для LB_SETANCHORINDEX сообщений
+- элементы управления Windows сообщений LB_SETANCHORINDEX
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ce3ac2aa8798d0e13d8191f630fef7f54f510ddc
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 15d8e1eba4168cfd6dd9a7e18a5b82b252c08908e9e49ce7059ed8fdef5ea95d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104137138"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120085354"
 ---
 # <a name="lb_setanchorindex-message"></a>Сообщение сетанчориндекс балансировки нагрузки \_
 
@@ -34,7 +34,7 @@ ms.locfileid: "104137138"
 
 Задает индекс нового элемента привязки.
 
-Windows 95, Windows 98/Windows Millennium Edition (Windows Me): параметр *wParam* ограничен 16-разрядными значениями. Это означает, что списки не могут содержать более 32 767 элементов. Хотя количество элементов ограничено, общий размер элементов в списке в байтах ограничен только доступной памятью.
+Windows 95/Windows 98/Windows Millennium Edition (Windows Me): параметр *wParam* ограничен 16-разрядными значениями. Это означает, что списки не могут содержать более 32 767 элементов. Хотя количество элементов ограничено, общий размер элементов в списке в байтах ограничен только доступной памятью.
 
 </dd> <dt>
 
@@ -51,19 +51,19 @@ Windows 95, Windows 98/Windows Millennium Edition (Windows Me): параметр
 
 Если сообщение не выполняется, возвращается значение фунтов \_ Err.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                                           |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включение Windows. h)</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                           |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

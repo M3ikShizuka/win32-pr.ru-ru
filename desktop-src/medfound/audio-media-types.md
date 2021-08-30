@@ -4,12 +4,12 @@ ms.assetid: 15aad4ea-7b4b-4a6f-bac7-18e0c281f2a6
 title: Типы звуковых носителей
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 786cbef5c4c151a0a97b445fa4bb4a7eec552cc0
-ms.sourcegitcommit: c16214e53680dc71d1c07111b51f72b82a4512d8
+ms.openlocfilehash: 7e51063a4ded0c65b8f21f1129ae8bd7da41c5eb231402633b695e4e47cc2004
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "105684743"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119959504"
 ---
 # <a name="audio-media-types"></a>Типы звуковых носителей
 
@@ -27,7 +27,7 @@ ms.locfileid: "105684743"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

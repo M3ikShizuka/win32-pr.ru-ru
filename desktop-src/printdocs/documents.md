@@ -4,12 +4,12 @@ ms.assetid: 14ae2c97-8596-46db-a55c-ef706d2cd00b
 title: XPS-документы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 625c2f04a43db9433fe125b52a4bbc08e37fb4f4
-ms.sourcegitcommit: b32433cc0394159c7263809ae67615ab5792d40d
+ms.openlocfilehash: 587f9b421c64287647e39d13d98a9f826f591d7be907ac14df21d649b3a66c80
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "113119989"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120092123"
 ---
 # <a name="xps-documents"></a>XPS-документы
 
@@ -27,45 +27,45 @@ ms.locfileid: "113119989"
 
 -   **XPS и Опенкспс**
 
-    XPS и Опенкспс поддерживаются в Windows 8 и более поздних версиях Windows. Чтобы определить правильный сценарий использования для XPS и Опенкспс, см. предыдущую схему. Дополнительные сведения об этих технологиях документов см. в [статье Спецификация Open XML Paper (опенкспс)](https://www.ecma-international.org/publications/standards/Ecma-388.htm).
+    в Windows 8 и более поздних версиях Windows поддерживаются XPS и опенкспс. Чтобы определить правильный сценарий использования для XPS и Опенкспс, см. предыдущую схему. Дополнительные сведения об этих технологиях документов см. в [статье Спецификация Open XML Paper (опенкспс)](https://www.ecma-international.org/publications/standards/Ecma-388.htm).
 
-    В случае использования Опенкспс с Windows 8 и Windows Server 2012 поддержка предоставляется только через [API документа XPS](documents-xps.md) .
+    в случае использования опенкспс с Windows 8 и Windows Server 2012, поддержка предоставляется только через [API документов XPS](documents-xps.md) .
 
-    Если необходимо выполнить преобразование между Microsoft XPS (МСКСПС) и Опенкспс, то корпорация Майкрософт предоставила средство (XPSConverter.exe), которое позволяет преобразовать документы МСКСПС в формат Опенкспс и наоборот. Средство входит в комплект Windows Driver Kit (WDK). Чтобы скачать WDK, см. статью [как получить WDK](/windows-hardware/drivers/download-the-wdk).
+    Если необходимо выполнить преобразование между Microsoft XPS (МСКСПС) и Опенкспс, то корпорация Майкрософт предоставила средство (XPSConverter.exe), которое позволяет преобразовать документы МСКСПС в формат Опенкспс и наоборот. средство входит в комплект Windows Driver Kit (WDK). Чтобы скачать WDK, см. статью [как получить WDK](/windows-hardware/drivers/download-the-wdk).
 
-    Дополнительные сведения о Опенкспс и Windows 8 см. в разделе [Поддержка опенкспс в Windows](/windows-hardware/drivers/print/driver-support-for-openxps).
+    дополнительные сведения о опенкспс и Windows 8 см. в разделе [поддержка опенкспс в Windows](/windows-hardware/drivers/print/driver-support-for-openxps).
 
 -   **API документов XPS**
 
-    API документов XPS — это собственный API Windows, поддерживающий OM-модель XPS. API документов XPS появился в Windows 7 и может использоваться в программах пользовательского режима и драйверах принтера XPSDrv.
+    api документов xps — это собственный интерфейс api Windows, поддерживающий OM-элемент xps. API документов XPS появился в Windows 7 и может использоваться в программах пользовательского режима и драйверах принтера XPSDrv.
 
     Дополнительные сведения см. в статье API документов XPS и [API цифровой подписи XPS](xps-digital-signatures.md).
 
-    \*API документов XPS также поддерживается в Windows Vista с пакетом обновления 2 (SP2) с обновлением платформы для Windows Vista и Windows Server 2008 с пакетом обновления 2 (SP2) с помощью обновления платформы для Windows Server 2008. Дополнительные сведения об обновлении платформы для Windows Vista или обновления платформы для Windows Server 2008 см. в [статье обновление платформы для Windows Vista](/windows/desktop/win7ip/platform-update-for-windows-vista-portal) .
+    \*API документов XPS также поддерживается в Windows Vista с пакетом обновления 2 (sp2) с обновлением платформы для Windows Vista и Windows Server 2008 с пакетом обновления 2 (sp2) с обновлением платформы для Windows server 2008. дополнительные сведения об обновлении платформы для Windows vista или обновления платформы для Windows Server 2008 см. в [статье обновление платформы для Windows vista](/windows/desktop/win7ip/platform-update-for-windows-vista-portal) .
 
 -   **.NET Framework**
 
-    Платформа .NET Framework обеспечивает поддержку документов XPS для программ, управляемых в пользовательском режиме.
+    платформа .NET Framework обеспечивает поддержку документов XPS для программ, управляемых в пользовательском режиме.
 
-    Платформа .NET Framework 3,0 поддерживается в Windows XP с пакетом обновления 2 (SP2) и более поздними версиями клиентских операционных систем Windows, а также на Windows Server 2003 с пакетом обновления 2 (SP2) и более поздних версиях операционных систем Windows Server.
+    платформа .NET Framework 3,0 поддерживается в Windows XP с пакетом обновления 2 (sp2) и более поздних версиях Windows клиентских операционных систем, а также на Windows server 2003 с пакетом обновления 2 (sp2) и более поздних версиях операционных систем Windows Server.
 
-    Платформа .NET Framework 3,5 поддерживается в версиях клиентских операционных систем Windows XP и в Windows Server 2003 и более поздних версиях операционных систем Windows Server.
+    платформа .NET Framework 3,5 поддерживается в Windows клиентских операционных системах Windows XP и в Windows server 2003 и более поздних версиях Windows серверных операционных систем.
 
     > [!Note]  
-    > Рекомендуется использовать платформа .NET Framework для создания документов XPS только в клиентских приложениях, а не в серверных приложениях, если приложение не будет периодически завершать работу, как если бы оно было клиентским приложением.
+    > рекомендуется использовать платформа .NET Framework для создания документов XPS только в клиентских приложениях, а не в серверных приложениях, если приложение не будет периодически завершать работу, как если бы оно было клиентским приложением.
 
      
 
-    Дополнительные сведения о поддержке документов в платформа .NET Framework см. в разделе [Windows Presentation Foundation документы](/previous-versions/dotnet/netframework-3.0/ms749165(v=vs.85)).
+    дополнительные сведения о поддержке документов в платформа .NET Framework см. в разделе [Windows Presentation Foundation документы](/previous-versions/dotnet/netframework-3.0/ms749165(v=vs.85)).
 
 > [!Note]  
-> Для работы с XPS-документами в программе Используйте собственный API документа XPS или платформа .NET Framework. одновременное использование обоих в одной программе не поддерживается.
+> для работы с XPS-документами в программе используйте собственный API документа xps или платформа .NET Framework. одновременное использование обоих в одной программе не поддерживается.
 
  
 
 ## <a name="in-this-section"></a>В этом разделе
 
-В этом разделе описаны собственные технологии документов Windows, поддерживаемые Microsoft Windows.
+в этом разделе описаны технологии документов машинного Windows, поддерживаемые Microsoft Windows.
 
 
 

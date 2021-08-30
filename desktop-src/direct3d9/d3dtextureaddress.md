@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3D9Types.h
-ms.openlocfilehash: 2cb1893541f80efb9bf85ea444b27bebba5dea29
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.openlocfilehash: 0ad5fad2699eac272c8abc173af47402130ecaafc918921cdef7717ccdab2095
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "104081850"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120069414"
 ---
 # <a name="d3dtextureaddress-enumeration"></a>Перечисление D3DTEXTUREADDRESS
 
@@ -92,7 +92,7 @@ typedef enum D3DTEXTUREADDRESS {
 
 | Требование | Значение |
 |-------------------|----------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3D9Types. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3D9Types. h</dt> </dl> |
 
 
 

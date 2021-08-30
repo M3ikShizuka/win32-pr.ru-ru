@@ -20,12 +20,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 22a93625b7becbe083a42fbd6fcc71ad801173ea
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 797f649ddd7a6634ecf3d42b7167e6d9d21587fdc09e24197a88fc239fb5fe3e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105703152"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119973834"
 ---
 # <a name="esentexception-constructor-string"></a>Конструктор Есентексцептион (String)
 
@@ -60,7 +60,7 @@ protected EsentException(
     
     Сообщение, описывающее ошибку.
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 #### <a name="reference"></a>Справочник
 

@@ -4,12 +4,12 @@ ms.assetid: 008bd1a8-d396-4f18-83cd-c68d57a7e8a7
 title: Японская Фактоидс
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f336f7cb9f7016a6b7408833fc8ef3c1bb5c464c62e4752f4237fc203feb8b5d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f7e0607e76ec53899f802a66c3fa59e46ca45124
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117857017"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122477820"
 ---
 # <a name="japanese-factoids"></a>Японская Фактоидс
 
@@ -45,26 +45,11 @@ ms.locfileid: "117857017"
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>фактоид</th>
-<th><strong>жапанесекоммон</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Описание<br/></td>
-<td>Все символы <strong>канжикоммон</strong>, <strong>хирагана</strong>и <strong>катакана</strong> . Кроме того, включены обычные алфавитно-цифровые символы, стандартные знаки пунктуации и символы.<br/><br />
-<strong>Жапанесекоммон</strong> фактоид полезен для обычной текстовой записи, где редко используемые символы не требуются.
-</td>
-</tr>
-</tbody>
-</table>
+
+| фактоид | <strong>жапанесекоммон</strong> | 
+|---------|---------------------------------|
+| Описание<br /> | Все символы <strong>канжикоммон</strong>, <strong>хирагана</strong>и <strong>катакана</strong> . Кроме того, включены обычные алфавитно-цифровые символы, стандартные знаки пунктуации и символы.<br /><br /><strong>Жапанесекоммон</strong> фактоид полезен для обычной текстовой записи, где редко используемые символы не требуются. | 
+
 
 
 

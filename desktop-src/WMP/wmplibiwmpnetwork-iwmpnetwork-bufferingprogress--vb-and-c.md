@@ -3,9 +3,9 @@ title: Ивмпнетворк Буфферингпрогресс, свойств
 description: Свойство Буфферингпрогресс Возвращает процент завершения буферизации.
 ms.assetid: 8dc9f31e-7c34-4714-a633-d92c3da3052b
 keywords:
-- Проигрыватель Windows Media для свойства Буфферингпрогресс
-- Буфферингпрогресс свойство проигрывателя Windows Media Player, интерфейс Ивмпнетворк
-- Интерфейс Ивмпнетворк Windows Media Player, свойство Буфферингпрогресс
+- проигрыватель Windows Media свойства буфферингпрогресс
+- проигрыватель Windows Media свойства буфферингпрогресс, интерфейс ивмпнетворк
+- проигрыватель Windows Media интерфейса ивмпнетворк, свойство буфферингпрогресс
 topic_type:
 - apiref
 api_name:
@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1da8a27ba41e5c4e201a5bdf0197992c30bce80b
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: f068f842a6e8e42f46a6fe8953aeeb667366b5925729594a2ccd60bd789c8afc
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105695113"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120000004"
 ---
 # <a name="iwmpnetworkbufferingprogress-property"></a>Свойство Ивмпнетворк:: Буфферингпрогресс
 
@@ -48,7 +48,7 @@ Public ReadOnly Property bufferingProgress As System.Int32
 
 Объект **System. Int32** , выполняющий буферизацию, выраженный в процентах.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Каждый раз, когда воспроизведение останавливается и перезапускается, это свойство сбрасывается до нуля. Если воспроизведение приостановлено, оно не сбрасывается.
 
@@ -132,19 +132,19 @@ End Sub
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |----------------------|------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/>   | Проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                      |
+| Версия<br/>   | проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                      |
 | Пространство имен<br/> | **вмплиб**<br/>                                                                                                  |
 | Сборка<br/>  | <dl> <dt>Interop.WMPLib.dll (Interop.WMPLib.dll.dll)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -1,19 +1,19 @@
 ---
-description: <libraryDescription>Элемент является контейнером верхнего уровня для определения библиотеки. Этот элемент является обязательным.
+description: '&lt;Элемент либраридескриптион &gt; является контейнером верхнего уровня для определения библиотеки. Этот элемент является обязательным.'
 ms.assetid: 62098944-E1B2-46e8-AC87-314C55F96B62
 title: Элемент Либраридескриптион (схема библиотеки)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a454321649746dc9408110e2fb96a616934977022ac80a4c0325494d354bfb46
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6f7fbd9dc23f80affab56396389362de9825b4c3
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119942064"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122885450"
 ---
 # <a name="librarydescription-element-library-schema"></a>Элемент Либраридескриптион (схема библиотеки)
 
-<libraryDescription>Элемент является контейнером верхнего уровня для определения библиотеки. Этот элемент является обязательным.
+&lt;Элемент либраридескриптион &gt; является контейнером верхнего уровня для определения библиотеки. Этот элемент является обязательным.
 
 ## <a name="syntax"></a>Синтаксис
 
@@ -81,11 +81,11 @@ ms.locfileid: "119942064"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
-каждая библиотека может содержать одно или несколько расположений, которые можно просматривать или искать пользователем с помощью обозревателя Windows. Расположения определяются соединителями поиска с помощью [<searchConnectorDescription>](schema-library-searchconnectordescription.md) элементов в [<searchConnectorDescriptionList>](schema-library-searchconnectordescriptionlist.md) элементе-контейнере.
+каждая библиотека может содержать одно или несколько расположений, которые можно просматривать или искать пользователем с помощью обозревателя Windows. Расположения определяются соединителями поиска с помощью элементов [ &lt; сеарчконнектордескриптион &gt; ](schema-library-searchconnectordescription.md) в элементе контейнера [ &lt; сеарчконнектордескриптионлист &gt; ](schema-library-searchconnectordescriptionlist.md) .
 
-Библиотека может иметь уникальный набор свойств, а расположения в библиотеке также могут иметь уникальные наборы свойств. Эти свойства определяются в [<property>](schema-library-property.md) [<propertyStore>](schema-library-propertystore.md) элементах внутри элемента Container.
+Библиотека может иметь уникальный набор свойств, а расположения в библиотеке также могут иметь уникальные наборы свойств. Эти свойства определяются в элементах [ &lt; свойств &gt; ](schema-library-property.md) в элементе контейнера [ &lt; пропертисторе &gt; ](schema-library-propertystore.md) .
 
 ## <a name="example"></a>Пример
 

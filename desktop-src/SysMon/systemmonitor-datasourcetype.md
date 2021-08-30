@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7a111d1e617745de1109f8359da158e642e93d17
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 79adffc396a581daee16218fc5d39a6480805f0f
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104071839"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122481860"
 ---
 # <a name="systemmonitordatasourcetype-property"></a>Системмонитор: свойство Атасаурцетипе:D
 
@@ -44,28 +44,11 @@ Property DataSourceType As DataSourceTypeConstants
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Тип исключения</th>
-<th>Условие</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><strong>System. ArgumentException</strong></td>
-<td>Это исключение может быть получено по одной из следующих причин:
-<ul>
-<li>Указано недопустимое значение источника данных.</li>
-<li>Если источником данных является файл журнала, СИСМОН не может найти один из указанных файлов. Значение Err. Number — 0xC0000BD1.</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+
+| Тип исключения | Условие | 
+|----------------|-----------|
+| <strong>System.ArgumentException</strong> | Это исключение может быть получено по одной из следующих причин:<ul><li>Указано недопустимое значение источника данных.</li><li>Если источником данных является файл журнала, СИСМОН не может найти один из указанных файлов. Значение Err. Number — 0xC0000BD1.</li></ul> | 
+
 
 
 
@@ -73,7 +56,7 @@ Property DataSourceType As DataSourceTypeConstants
 
 ## <a name="remarks"></a>Комментарии
 
-**До Windows Vista:** Невозможно добавить или удалить файлы журнала из [**коллекции файлов журнала**](systemmonitor-logfiles.md) , если для этого свойства задано значение сисмонлогфилес. Присвойте этому свойству значение Сисмонлогфилес после создания или изменения коллекции файлов журнала.
+**до Windows Vista:** Невозможно добавить или удалить файлы журнала из [**коллекции файлов журнала**](systemmonitor-logfiles.md) , если для этого свойства задано значение сисмонлогфилес. Присвойте этому свойству значение Сисмонлогфилес после создания или изменения коллекции файлов журнала.
 
 Кроме того, нельзя изменить свойства [**склдсннаме**](systemmonitor-sqldsnname.md) и [**скллогсетнаме**](systemmonitor-sqllogsetname.md) , если для этого свойства не должно быть задано значение сисмонскллог. Присвойте этому свойству значение Сисмонскллог после изменения имен сервера и базы данных.
 
@@ -89,7 +72,7 @@ Property DataSourceType As DataSourceTypeConstants
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

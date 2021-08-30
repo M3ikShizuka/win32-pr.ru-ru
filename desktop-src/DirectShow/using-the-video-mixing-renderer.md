@@ -4,16 +4,16 @@ ms.assetid: 3d0fdfac-ec7e-4e02-886b-2039c607dac7
 title: Использование модуля подготовки видео для микширования
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5baf7d559eed0d3111876924520952b55c6da2e6
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: b16bbce539d21d756a7a1a648aab09105434da26ae586163f5f8bfe0edba77b0
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105663754"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120049504"
 ---
 # <a name="using-the-video-mixing-renderer"></a>Использование модуля подготовки видео для микширования
 
-С точки зрения производительности и широты функций фильтр формирователя видео (VMR) представляет следующее поколение видео на платформе Windows. VMR заменяет [микшер наложения](overlay-mixer-filter.md) и модуль [подготовки видео](video-renderer-filter.md), а также добавляет множество новых функций смешивания.
+с точки зрения производительности и широты функций фильтр формирователя видео (VMR) представляет следующее поколение видео на платформе Windows. VMR заменяет [наложение Mixer](overlay-mixer-filter.md) и модуль [подготовки видео](video-renderer-filter.md), а также добавляет множество новых функций смешивания.
 
 Существует две версии VMR:
 
@@ -30,13 +30,13 @@ VMR-9 имеет собственный CLSID и собственный набо
 
 -   [О рендеринге видео](about-the-video-mixing-render.md)
 -   [Режимы VMR в операции](vmr-modes-of-operation.md)
--   [Создание графа фильтра VMR-9](building-a-vmr-9-filter-graph.md)
+-   [Создание фильтра VMR-9 Graph](building-a-vmr-9-filter-graph.md)
 -   [Использование режима смешения VMR](using-vmr-mixing-mode.md)
 -   [Настройка параметров чередования](setting-deinterlace-preferences.md)
--   [Использование VMR для разработчиков фильтров DirectShow](using-the-vmr-for-directshow-filter-developers.md)
+-   [использование VMR для разработчиков фильтров DirectShow](using-the-vmr-for-directshow-filter-developers.md)
 -   [Использование протокола сертифицированной выходной защиты (Копп)](using-certified-output-protection-protocol--copp.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

@@ -6,12 +6,12 @@ keywords:
 - API сервера HTTP, Настройка журналов ошибок
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a10479a1b2bd1ebf559213b6cd4b738f6c0b9ea63c142edcce3c10f64f877dda
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3b7864a4361ce0ae9e2726884e749fd0342f52a6
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118950893"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122467931"
 ---
 # <a name="configuring-http-server-api-error-logging"></a>Настройка ведения журнала ошибок API-сервера HTTP
 
@@ -53,42 +53,13 @@ HKEY_LOCAL_MACHINE
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Значение реестра</th>
-<th>Описание</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><span id="EnableErrorLogging"></span><span id="enableerrorlogging"></span><span id="ENABLEERRORLOGGING"></span>енаблиррорлоггинг<br/></td>
-<td><strong>Параметр DWORD</strong> , для которого можно задать <strong>значение true</strong> , чтобы включить ведение журнала ошибок, или <strong>false</strong> для отключения. Значение по умолчанию — <strong>true</strong>.<br/></td>
-</tr>
-<tr class="even">
-<td><span id="ErrorLogFileTruncateSize"></span><span id="errorlogfiletruncatesize"></span><span id="ERRORLOGFILETRUNCATESIZE"></span>еррорлогфилетрункатесизе<br/></td>
-<td>Значение <strong>типа DWORD</strong> , указывающее максимальный размер файла журнала ошибок в байтах. Значение по умолчанию — 1 МБ (0x100000).<br/>
-<blockquote>
-[!Note]<br />
-Указанное значение не может быть меньше значения по умолчанию.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="odd">
-<td><span id="ErrorLoggingDir"></span><span id="errorloggingdir"></span><span id="ERRORLOGGINGDIR"></span>еррорлоггингдир<br/></td>
-<td><strong>Строка</strong> , указывающая папку, в которой API-сервер HTTP помещает свои файлы журнала. <br/> API сервера HTTP создает вложенную папку с именем &quot; хттперр &quot; в указанной папке, в которую помещаются файлы журнала. Эта вложенная папка и файлы журналов получают те же параметры разрешений, что означает, что администраторы и учетные записи локальной системы имеют полный доступ, а другие пользователи не имеют доступа.<br/> Если папка не указана в реестре, папка по умолчанию имеет следующий адрес:<br/> &quot;%SystemRoot%\System32\LogFiles&quot;<br/>
-<blockquote>
-[!Note]<br />
-Значение строки Еррорлоггингдир должно быть полным путем, но может содержать &quot; % systemroot% &quot; .
-</blockquote>
-<br/> <br/></td>
-</tr>
-</tbody>
-</table>
+
+| Значение реестра | Описание | 
+|----------------|-------------|
+| <span id="EnableErrorLogging"></span><span id="enableerrorlogging"></span><span id="ENABLEERRORLOGGING"></span>енаблиррорлоггинг<br /> | <strong>Параметр DWORD</strong> , для которого можно задать <strong>значение true</strong> , чтобы включить ведение журнала ошибок, или <strong>false</strong> для отключения. Значение по умолчанию — <strong>true</strong>.<br /> | 
+| <span id="ErrorLogFileTruncateSize"></span><span id="errorlogfiletruncatesize"></span><span id="ERRORLOGFILETRUNCATESIZE"></span>еррорлогфилетрункатесизе<br /> | Значение <strong>типа DWORD</strong> , указывающее максимальный размер файла журнала ошибок в байтах. Значение по умолчанию — 1 МБ (0x100000).<br /><blockquote>[!Note]<br />Указанное значение не может быть меньше значения по умолчанию.</blockquote><br /> | 
+| <span id="ErrorLoggingDir"></span><span id="errorloggingdir"></span><span id="ERRORLOGGINGDIR"></span>еррорлоггингдир<br /> | <strong>Строка</strong> , указывающая папку, в которой API-сервер HTTP помещает свои файлы журнала. <br /> API сервера HTTP создает вложенную папку с именем «ХТТПЕРР» в указанной папке, в которую помещаются файлы журналов. Эта вложенная папка и файлы журналов получают те же параметры разрешений, что означает, что администраторы и учетные записи локальной системы имеют полный доступ, а другие пользователи не имеют доступа.<br /> Если папка не указана в реестре, папка по умолчанию имеет следующий адрес:<br /> "%SystemRoot%\System32\LogFiles"<br /><blockquote>[!Note]<br />Значение строки Еррорлоггингдир должно быть полным путем, но может содержать "% SystemRoot%".</blockquote><br /><br /> | 
+
 
 
 

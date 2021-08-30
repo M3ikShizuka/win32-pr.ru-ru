@@ -3,7 +3,7 @@ title: Сообщение TVM_SELECTITEM (Коммктрл. h)
 description: Выбирает указанный элемент представления дерева, прокручивает элемент в представлении или перерисовывает элемент в стиле, который используется для указания цели операции перетаскивания.
 ms.assetid: 8b943958-7b93-4e54-99de-200121cf0752
 keywords:
-- Элементы управления Windows для TVM_SELECTITEM сообщений
+- элементы управления Windows сообщений TVM_SELECTITEM
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 94862b64a02cd8972e3da38a75282d99bbc1cbc8
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 0ec7201358669fa49e6396508d371ca5e95d6fa1
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103891597"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122472960"
 ---
 # <a name="tvm_selectitem-message"></a>\_Сообщение TVM селектитем
 
@@ -36,41 +36,14 @@ ms.locfileid: "103891597"
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Значение</th>
-<th>Значение</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><span id="TVGN_CARET"></span><span id="tvgn_caret"></span><dl> <dt><strong>TVGN_CARET</strong></dt> </dl></td>
-<td>Задает выборку для указанного элемента. Родительское окно элемента управления представлением дерева получает <a href="tvn-selchanging.md">TVN_SELCHANGING</a> и <a href="tvn-selchanged.md">TVN_SELCHANGED</a> коды уведомления. <br/></td>
-</tr>
-<tr class="even">
-<td><span id="TVGN_DROPHILITE"></span><span id="tvgn_drophilite"></span><dl> <dt><strong>TVGN_DROPHILITE</strong></dt> </dl></td>
-<td>Перерисовывает указанный элемент в стиле, который используется для указания цели операции перетаскивания.<br/></td>
-</tr>
-<tr class="odd">
-<td><span id="TVGN_FIRSTVISIBLE"></span><span id="tvgn_firstvisible"></span><dl> <dt><strong>TVGN_FIRSTVISIBLE</strong></dt> </dl></td>
-<td>Гарантирует, что указанный элемент является видимым, и, если это возможно, отображает его в верхней части окна элемента управления. Элементы управления "дерево-представление" отображают столько элементов, сколько будет помещаться в окне. Если указанный элемент находится ближе к нижней части иерархии элементов управления, он может не стать первым видимым элементом в зависимости от того, сколько элементов умещается в окне.<br/></td>
-</tr>
-<tr class="even">
-<td><span id="TVSI_NOSINGLEEXPAND"></span><span id="tvsi_nosingleexpand"></span><dl> <dt><strong>TVSI_NOSINGLEEXPAND</strong></dt> </dl></td>
-<td>Если выбран один элемент, гарантирует, что TreeView не расширяет его дочерние элементы. Это допустимо, только если используется с флагом TVGN_CARET. <br/>
-<blockquote>
-[!Note]<br />
-Чтобы использовать этот флаг, необходимо указать манифест, задающий Comclt32.dll версии 6,0. Дополнительные сведения о манифестах см. в разделе <a href="cookbook-overview.md">Включение визуальных стилей</a>.
-</blockquote>
-<br/></td>
-</tr>
-</tbody>
-</table>
+
+| Значение | Значение | 
+|-------|---------|
+| <span id="TVGN_CARET"></span><span id="tvgn_caret"></span><dl><dt><strong>TVGN_CARET</strong></dt></dl> | Задает выборку для указанного элемента. Родительское окно элемента управления представлением дерева получает <a href="tvn-selchanging.md">TVN_SELCHANGING</a> и <a href="tvn-selchanged.md">TVN_SELCHANGED</a> коды уведомления. <br /> | 
+| <span id="TVGN_DROPHILITE"></span><span id="tvgn_drophilite"></span><dl><dt><strong>TVGN_DROPHILITE</strong></dt></dl> | Перерисовывает указанный элемент в стиле, который используется для указания цели операции перетаскивания.<br /> | 
+| <span id="TVGN_FIRSTVISIBLE"></span><span id="tvgn_firstvisible"></span><dl><dt><strong>TVGN_FIRSTVISIBLE</strong></dt></dl> | Гарантирует, что указанный элемент является видимым, и, если это возможно, отображает его в верхней части окна элемента управления. Элементы управления "дерево-представление" отображают столько элементов, сколько будет помещаться в окне. Если указанный элемент находится ближе к нижней части иерархии элементов управления, он может не стать первым видимым элементом в зависимости от того, сколько элементов умещается в окне.<br /> | 
+| <span id="TVSI_NOSINGLEEXPAND"></span><span id="tvsi_nosingleexpand"></span><dl><dt><strong>TVSI_NOSINGLEEXPAND</strong></dt></dl> | Если выбран один элемент, гарантирует, что TreeView не расширяет его дочерние элементы. Это допустимо, только если используется с флагом TVGN_CARET. <br /><blockquote>[!Note]<br />Чтобы использовать этот флаг, необходимо указать манифест, задающий Comclt32.dll версии 6,0. Дополнительные сведения о манифестах см. в разделе <a href="cookbook-overview.md">Включение визуальных стилей</a>.</blockquote><br /> | 
+
 
 
 
@@ -101,9 +74,9 @@ ms.locfileid: "103891597"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

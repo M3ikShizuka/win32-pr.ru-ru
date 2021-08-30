@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: f48c78f80f5f92f950795018f05a46c7883d9736
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 01b14fb95e77542ab48e535add548514af22829644934abffdc845c27d3d96b9
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "103987852"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120024304"
 ---
 # <a name="normalize"></a>нормализовать
 
@@ -49,7 +49,7 @@ ms.locfileid: "103987852"
 
 Нормализованный параметр *x* . Если длина параметра *x* равна 0, результат имеет неопределенное значение.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Встроенная функция **нормализации** HLSL использует следующую формулу: *x*  /  [**length**](dx-graphics-hlsl-length.md)(*x*).
 
@@ -59,8 +59,8 @@ ms.locfileid: "103987852"
 
 | Имя  | [**Тип шаблона**](dx-graphics-hlsl-intrinsic-functions.md)                       | [**Тип компонента**](dx-graphics-hlsl-intrinsic-functions.md) | Размер                           |
 |-------|-------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------|
-| *x*   | [**уязвимо**](dx-graphics-hlsl-intrinsic-functions.md) | [**float**](/windows/desktop/WinProg/windows-data-types)                        | any                            |
-| *обратно* | то же, что входные данные *x*                                                                   | [**float**](/windows/desktop/WinProg/windows-data-types)                        | те же измерения, что и входные *x* |
+| *x*   | [**уязвимо**](dx-graphics-hlsl-intrinsic-functions.md) | [**сделать**](/windows/desktop/WinProg/windows-data-types)                        | any                            |
+| *обратно* | то же, что входные данные *x*                                                                   | [**сделать**](/windows/desktop/WinProg/windows-data-types)                        | те же измерения, что и входные *x* |
 
 
 
@@ -74,14 +74,14 @@ ms.locfileid: "103987852"
 
 | Модель шейдера                                                                       | Поддерживается           |
 |------------------------------------------------------------------------------------|---------------------|
-| [Модели шейдеров 2 (DirectX HLSL)](dx-graphics-hlsl-sm2.md) и более поздние модели шейдеров | да                 |
+| [Модели шейдеров 2 (DirectX HLSL)](dx-graphics-hlsl-sm2.md) и более поздние модели шейдеров | Да                 |
 | [Модель шейдера 1 (DirectX HLSL)](dx-graphics-hlsl-sm1.md)                          | Да ( \_ только VS 1 1 \_ ) |
 
 
 
  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

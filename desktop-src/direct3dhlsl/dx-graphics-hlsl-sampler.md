@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: c0206f7030d3b3a05570e74273d9510bb9c2592c
-ms.sourcegitcommit: b32433cc0394159c7263809ae67615ab5792d40d
+ms.openlocfilehash: ccdc81b21ba18fe3983a44655d23c9d463045b18
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "113119579"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122625000"
 ---
 # <a name="sampler-type"></a>Тип образца
 
@@ -28,7 +28,7 @@ ms.locfileid: "113119579"
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -132,7 +132,7 @@ ComparisonFunc
 
 
 
-Правая часть каждого выражения — это значение, присваиваемое каждому состоянию. Возможные значения состояния для Direct3D 11 см. в разделе [**D3D11 \_ образец \_**](/windows/desktop/api/d3d11/ns-d3d11-d3d11_sampler_desc) в виде структуры. Между именами состояний и элементами структуры существует одна и одна связь. См. указанный ниже пример.
+Правая часть каждого выражения — это значение, присваиваемое каждому состоянию. Возможные значения состояния для Direct3D 11 см. в разделе [**D3D11 \_ образец \_**](/windows/desktop/api/d3d11/ns-d3d11-d3d11_sampler_desc) в виде структуры. Между именами состояний и элементами структуры существует одна и одна связь. См. следующий пример.
 
 </dd> </dl>
 
@@ -149,14 +149,14 @@ ComparisonFunc
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td>Различия между Direct3D 9 и Direct3D 10:<br/> Ниже приведен частичный пример образца Direct3D 9 из <a href="https://msdn.microsoft.com/library/Ee416223(v=VS.85).aspx">примера басичлсл</a>.<br/> <span data-codelanguage=""></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -177,7 +177,7 @@ sampler_state
 <span data-codelanguage=""></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <tbody>
 <tr class="odd">

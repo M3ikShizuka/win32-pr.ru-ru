@@ -5,12 +5,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: 9494758a-af8c-4056-991e-31e152c181f0
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 600cd9f77e56c0d64b17e0853b850244ab3c2564
-ms.sourcegitcommit: 8fa6614b715bddf14648cce36d2df22e5232801a
+ms.openlocfilehash: b9abed3641ca5bd3b4bec8924fd18366233ecc3e2955925346fc79ecbe3cb99e
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "104488847"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120080854"
 ---
 # <a name="i-rpc"></a>I (RPC)
 
@@ -46,7 +46,7 @@ ms.locfileid: "104488847"
 
 </dd> <dt>
 
-<span id="_rpc_ipx_glos"></span><span id="_RPC_IPX_GLOS"></span>**Сетевой обмен пакетами (IPX)**
+<span id="_rpc_ipx_glos"></span><span id="_RPC_IPX_GLOS"></span>**сетевой Exchange пакетов (IPX)**
 </dt> <dd>
 
 Протокол связи Novell NetWare, использующий сокеты [*датаграмм*](d-glos.md) для маршрутизации информационных пакетов по локальным сетям и глобальным сетям.

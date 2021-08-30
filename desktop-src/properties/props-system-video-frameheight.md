@@ -4,12 +4,12 @@ ms.assetid: 83c26a8a-7724-4566-bc3e-3a26a7cc9223
 title: System. Video. Фрамехеигхт
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 89d73bf249781e1003a8d35d15c04a94930787a1
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: cca01723735c6e1dd60a09f896ac3396744765f00f490a2d813ba4968f7b94eb
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104546066"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119944994"
 ---
 # <a name="systemvideoframeheight"></a>System. Video. Фрамехеигхт
 
@@ -46,11 +46,11 @@ propertyDescription
       IsInnate = true
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

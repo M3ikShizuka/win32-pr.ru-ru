@@ -19,12 +19,12 @@ api_type:
 - DllExport
 api_location:
 - vmms.exe
-ms.openlocfilehash: 570590221ee8568d78e150fec3c359365c8434cd
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 30f0cbbc6a8dd4be94d183e27b5d35fd57a7e2e3da97c3a44c08353515a83488
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103910143"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120046394"
 ---
 # <a name="msvm_referencepointcollection-class"></a>\_Класс мсвм референцепоинтколлектион
 
@@ -53,7 +53,7 @@ class Msvm_ReferencePointCollection : CIM_Collection
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **мсвм \_ референцепоинтколлектион** имеет следующие свойства.
 
@@ -225,13 +225,13 @@ class Msvm_ReferencePointCollection : CIM_Collection
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ настольных приложений Windows 10\]<br/>                                                             |
+| Минимальная версия клиента<br/> | Windows 10 \[ только классические приложения\]<br/>                                                             |
 | Минимальная версия сервера<br/> | Windows Server 2016<br/>                                                                          |
 | Пространство имен<br/>                | Корневая \\ виртуализация \\ версии 2<br/>                                                                     |
 | MOF<br/>                      | <dl> <dt>Виндовсвиртуализатион. v2. mof</dt> </dl> |
@@ -239,7 +239,7 @@ class Msvm_ReferencePointCollection : CIM_Collection
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -1,19 +1,19 @@
 ---
 title: Доступ к голосовым службам (интерфейс сервера агента Microsoft)
-description: Сведения о доступе к голосовым службам с помощью интерфейса сервера Microsoft Agent. Microsoft Agent является устаревшим в Windows 7.
+description: Сведения о доступе к голосовым службам с помощью интерфейса сервера Microsoft Agent. не рекомендуется использовать Microsoft Agent на Windows 7.
 ms.assetid: 99cf630d-3bd1-403a-833a-9173a84fe3c0
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1f87bf5cf88141344d5328592c9e823c7365c5d5
-ms.sourcegitcommit: d0eb44d0a95f5e5efbfec3d3e9c143f5cba25bc3
+ms.openlocfilehash: cbc481a72ee4693d4980104e10c76fdade1b9deee9171ce2e82643e21ce53c12
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112262706"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119963484"
 ---
 # <a name="accessing-speech-services-microsoft-agent-server-interface"></a>Доступ к голосовым службам (интерфейс сервера агента Microsoft)
 
-\[Microsoft Agent является устаревшим в Windows 7 и может быть недоступен в последующих версиях Windows.\]
+\[Microsoft Agent является устаревшим по отношению к Windows 7 и может быть недоступен в последующих версиях Windows.\]
 
 Несмотря на то, что службы Microsoft Agent включают поддержку речевого ввода, для доступа к службам речевого ввода агента должен быть установлен совместимый обработчик распознавания речи для команд и управления. Аналогичным образом, если вы хотите использовать речевые службы агента Майкрософт для поддержки синтезированного речевого вывода для символа, необходимо установить совместимый речевой механизм преобразования текста в речь для вашего символа. Так как речевые службы Microsoft Agent основаны на Microsoft Speech API (SAPI), можно использовать любые механизмы, совместимости поддержку требуемых речевых интерфейсов.
 

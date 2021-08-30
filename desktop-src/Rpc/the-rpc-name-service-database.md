@@ -6,12 +6,12 @@ keywords:
 - Удаленный вызов процедур RPC, описание, имя базы данных службы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 19ae37473bcf28ddf995ab0a657f300ce13aa83c
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 54bf350fbf028689bbe280cc3c7fb82befc8b5c909b9d274c7ada61f908201ac
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104486873"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120016714"
 ---
 # <a name="the-rpc-name-service-database"></a>База данных службы имен RPC
 
@@ -38,9 +38,9 @@ ms.locfileid: "104486873"
 -   [Использование службы каталогов ячеек (компакт-дисков)](using-the-cell-directory-service-cds-.md)
 -   [Синтаксис имени](name-syntax.md)
 
- 
+ 
 
- 
+ 
 
 
 

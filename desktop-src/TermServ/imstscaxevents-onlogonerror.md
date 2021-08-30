@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f45fe23c992f14a421c00a4feefd9c4ed95aff07
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 29e2b7e13b4471b476ae00ff4cd810a7955c4e3224744435d37f5a962db834cd
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103802740"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120125104"
 ---
 # <a name="imstscaxeventsonlogonerror-method"></a>Метод Имстскаксевентс:: Онлогонеррор
 
@@ -208,13 +208,13 @@ Winlogon отображает диалоговое окно **Повторное
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Реализуйте этот метод в приемнике событий, чтобы получить уведомление о том, что произошла ошибка входа в систему.
 
 Этот список кодов не является исчерпывающим.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -228,7 +228,7 @@ Winlogon отображает диалоговое окно **Повторное
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

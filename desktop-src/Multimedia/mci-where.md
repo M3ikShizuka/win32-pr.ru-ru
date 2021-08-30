@@ -3,7 +3,7 @@ title: Команда MCI_WHERE (Ммсистем. h)
 description: Команда MCI, \_ которая получает прямоугольник обрезки для видеоустройства.
 ms.assetid: f64a7e49-4ee1-4836-ba9a-0bbdc47626b3
 keywords:
-- MCI_WHERE команды мультимедиа Windows
+- команда MCI_WHERE Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f6619131319863d1159a3bdb8bb85d366243544a
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 922c68340cd776c8c23c0c1b60c3aa4de67e4e713d27e54510d2bf0f6978f442
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103988713"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119783744"
 ---
 # <a name="mci_where-command"></a>\_Команда MCI WHERE
 
@@ -68,7 +68,7 @@ MCIERROR mciSendCommand(
 
 Возвращает нуль в случае успеха или ошибку в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 С типом устройства **дигиталвидео** используются следующие дополнительные флаги:
 
@@ -155,7 +155,7 @@ MCIERROR mciSendCommand(
 
 Для устройств с наложением параметр *лпкуери* указывает на структуру [**MCI \_ овли \_ Rect \_ пармс**](mci-ovly-rect-parms.md) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -163,11 +163,11 @@ MCIERROR mciSendCommand(
 |-------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                                |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                      |
-| Заголовок<br/>                   | <dl> <dt>Ммсистем. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>ммсистем. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

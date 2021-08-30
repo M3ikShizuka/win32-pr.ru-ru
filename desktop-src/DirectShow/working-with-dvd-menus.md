@@ -4,12 +4,12 @@ ms.assetid: 8c5f8072-b74f-4e15-8991-73bcc4145fd2
 title: Работа с меню DVD
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 113647a37200762b5eaf0a9ac231dea74ad19925
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 936f1331dcf3851b31922472d3bc50d866912777075bf5aff8c640921e73206e
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105684710"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119964324"
 ---
 # <a name="working-with-dvd-menus"></a>Работа с меню DVD
 
@@ -29,7 +29,7 @@ ms.locfileid: "105684710"
 
 Помните, что при выборе кнопки просто выделяются ее границы. Чтобы запустить связанную команду, необходимо активировать кнопку. Программная активация кнопки может выполняться различными способами, но перед активацией эту кнопку всегда нужно выбрать.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

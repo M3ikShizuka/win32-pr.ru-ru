@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 85b1ed90b017828e13d387e1e6db440c1d781cb5
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: d6ed297ba30749d20d846055122f3ab12f77f8625450626a58fd15928172a207
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104491133"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120082054"
 ---
 # <a name="glclearindex-function"></a>Функция Глклеариндекс
 
@@ -63,7 +63,7 @@ void WINAPI glClearIndex(
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Функция **глклеариндекс** указывает индекс, используемый [**глклеар**](glclear.md) для очистки буферов цветового индекса. Параметр *c* не имеет фиксации. Вместо этого *c* преобразуется в значение с фиксированной запятой с неуказанной точностью справа от двоичной точки. Затем целая часть этого значения маскируется 2 <sup>м</sup>  -1, где *m* — число битов в индексе цвета, который хранится в буфера кадров.
 
@@ -73,7 +73,7 @@ void WINAPI glClearIndex(
 
 **глжет** с аргументом \_ биты индекса GL \_
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -87,7 +87,7 @@ void WINAPI glClearIndex(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: cd2c068a-dbbc-42c5-bc92-bbb73f0259d1
 title: Свойство MFPKEY_DECODERCOMPLEXITYREQUESTED (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7e017361d7e8267d33ecb2cfdbce2a6e79758fac
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 83330e3e413967d3b97d6531f8bbaf6ebd7809f732885849d0bf7b8f62d55ef5
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105692856"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119954234"
 ---
 # <a name="mfpkey_decodercomplexityrequested-property"></a>МФПКЭЙ \_ декодеркомплекситирекуестед, свойство
 
@@ -35,7 +35,7 @@ VT \_ BSTR
 
 МВ
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Кодек попытается закодировать содержимое с помощью шаблона соответствия устройства, указанного в этом значении. Фактический шаблон, которому можно получить закодированное содержимое, из свойства [мфпкэй \_ декодеркомплекситипрофиле](mfpkey-decodercomplexityprofileproperty.md) после кодировки.
 
@@ -59,9 +59,9 @@ VT \_ BSTR
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                             |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                    |
-| Header<br/>                   | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
+| Заголовок<br/>                   | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
 
 
 

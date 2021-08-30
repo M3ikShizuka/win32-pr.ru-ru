@@ -4,12 +4,12 @@ description: Реализация и активация обработчика �
 ms.assetid: 9d91260a-4cec-4a10-bb57-d02999efae47
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6866b40e1257a865aa5068ffd46611c411498877
-ms.sourcegitcommit: d39e82e232f6510f843fdb8d55d25b4e9e02e880
+ms.openlocfilehash: 81df2bcaf1b50a0727127c4008d9763b76e05e4f2a5d80bf4b282bbbe02e5bb5
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "103999803"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120070871"
 ---
 # <a name="implementing-and-activating-a-handler-with-no-extra-server-data"></a>Реализация и активация обработчика без дополнительных данных сервера
 
@@ -35,7 +35,7 @@ ms.locfileid: "103999803"
 
 Если два потока одновременно демаршалируются один и тот же объект в первый раз, можно временно создать два обработчика. Затем один из них будет освобожден.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

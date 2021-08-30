@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4270059d02aec10905ea8aed7754bfb3a34c6897
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.openlocfilehash: b1b6bc1edf52b77486bb25bc3459004916e3599c
+ms.sourcegitcommit: 4e94fc75fad7b2a0f3c92a26f97e89924e59b7a9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122479150"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "122786110"
 ---
 # <a name="id3dx11effect-interface"></a>Интерфейс ID3DX11Effect
 
@@ -62,7 +62,7 @@ ms.locfileid: "122479150"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Результат создается путем вызова [**D3DX11CreateEffectFromMemory**](d3dx11createeffectfrommemory.md).
 
@@ -77,7 +77,7 @@ ms.locfileid: "122479150"
 >
 > При вызове [**QueryInterface**](/windows/desktop/api/unknwn/nf-unknwn-iunknown-queryinterface(q)) для объекта **ID3DX11Effect** для получения интерфейса [**IUnknown**](/windows/desktop/api/unknwn/nn-unknwn-iunknown) функция **QueryInterface** возвращает E \_ неinterface. Чтобы обойти эту ошибку, используйте следующий код:
 >
-> <span codelanguage=""></span>
+> 
 >
 > 
 | | | <pre><code>    IUnknown* pIUnknown = (IUnknown*)pEffect;&gt;     pIUnknown-&gt;AddRef();</code></pre> | 

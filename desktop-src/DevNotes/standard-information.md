@@ -12,12 +12,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 4927553ac593475f8659932468227362ae19fe59
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: d0ddba05eee5d822020cfbb2e4b30976bb3c7570e1613f457ee3fd373494e0da
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104072337"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119984064"
 ---
 # <a name="standard_information-structure"></a>Стандартная \_ информационная структура
 
@@ -63,13 +63,13 @@ typedef struct _STANDARD_INFORMATION {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Обратите внимание, что для этой структуры нет связанного файла заголовка.
 
 Это определение структуры допустимо только для основной версии 3 и дополнительной версии 0 или 1, как сообщается [**фсктл \_ Получение \_ \_ \_ данных тома NTFS**](/windows/win32/api/winioctl/ni-winioctl-fsctl_get_ntfs_volume_data).
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

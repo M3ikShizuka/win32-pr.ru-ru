@@ -4,12 +4,12 @@ ms.assetid: 5a6553c2-f322-47e2-bbc8-44f6541f1288
 title: Компонент
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d3d35686674d08ea0ea4030648b06803919e5d07
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.openlocfilehash: 18509cb41581fc3f366185f61e5893d823141d3f
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122882493"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122472110"
 ---
 # <a name="feature"></a>Компонент
 
@@ -19,7 +19,7 @@ ms.locfileid: "122882493"
 
 ## <a name="element-tag"></a>Тег элемента
 
-&lt;Компонент&gt;
+<Feature>
 
 ## <a name="xml-attributes"></a>XML-атрибуты
 

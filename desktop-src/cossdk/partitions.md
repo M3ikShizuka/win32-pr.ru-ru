@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: 3badf52755a77557c200569c25610b5918cf8dd599d17a83bdebb5c4ddfa6801
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2f7ba43cbfd33736c9997adb4c312e044cf28e6e
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118305877"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122882525"
 ---
 # <a name="partitions-collection"></a>Коллекция partitions
 
@@ -33,7 +33,7 @@ ms.locfileid: "118305877"
 
 Можно переходить от этой коллекции к любой из следующих коллекций:
 
--   [**Приложений**](applications.md)
+-   [**Приложения**](applications.md)
 -   [**ErrorInfo**](errorinfo.md)
 -   [**PropertyInfo**](propertyinfo.md)
 -   [**релатедколлектионинфо**](relatedcollectioninfo.md)
@@ -41,7 +41,7 @@ ms.locfileid: "118305877"
 
 Вы можете переходить к этой коллекции из следующих коллекций:
 
--   [**Корневой**](root.md)
+-   [**Root**](root.md)
 
 ## <a name="properties"></a>Свойства
 
@@ -50,8 +50,8 @@ ms.locfileid: "118305877"
 -   [Поддержка изменений](#changeable)
 -   [Предусмотрено](#deleteable)
 -   [Описание](#description)
--   [Идентификатор](#partitions-collection)
--   [Имя](#name)
+-   [ID](#partitions-collection)
+-   [имя](#name);
 
 ### <a name="changeable"></a>Поддержка изменений
 
@@ -62,8 +62,8 @@ ms.locfileid: "118305877"
 | Описание    | Определяет, является ли секция изменяемой. |
 | Access         | ReadWrite                                        |
 | Тип           | Bool                                             |
-| Значение по умолчанию        | True                                             |
-| Минимальная система | Windows Server 2003                              |
+| По умолчанию        | Верно                                             |
+| Минимальная система | Windows Server 2003                              |
 
 
 
@@ -78,8 +78,8 @@ ms.locfileid: "118305877"
 | Описание    | Определяет, можно ли удалить эту секцию. |
 | Access         | ReadWrite                                         |
 | Тип           | Bool                                              |
-| Значение по умолчанию        | True                                              |
-| Минимальная система | Windows Server 2003                               |
+| По умолчанию        | Верно                                              |
+| Минимальная система | Windows Server 2003                               |
 
 
 
@@ -95,7 +95,7 @@ ms.locfileid: "118305877"
 | Access         | ReadWrite                                                           |
 | Тип           | Строка                                                              |
 | По умолчанию        | ""                                                                  |
-| Минимальная система | Windows Server 2003                                                 |
+| Минимальная система | Windows Server 2003                                                 |
 
 
 
@@ -110,8 +110,8 @@ ms.locfileid: "118305877"
 | Описание    | Идентификатор GUID, представляющий секцию. Это свойство возвращается при вызове метода свойства [**ключа**](/windows/desktop/api/ComAdmin/nf-comadmin-icatalogobject-get_key) для объекта этой коллекции. |
 | Access         | Флагом writeonce                                                                                                                                                          |
 | Тип           | Строка                                                                                                                                                             |
-| По умолчанию        | <Generated>                                                                                                                                                  |
-| Минимальная система | Windows Server 2003                                                                                                                                                |
+| По умолчанию        | &lt;Сформировано&gt;                                                                                                                                                  |
+| Минимальная система | Windows Server 2003                                                                                                                                                |
 
 
 
@@ -127,7 +127,7 @@ ms.locfileid: "118305877"
 | Access         | ReadWrite                                                                                                                                                                                                                              |
 | Тип           | Строка                                                                                                                                                                                                                                 |
 | По умолчанию        | "Создать секцию"                                                                                                                                                                                                                        |
-| Минимальная система | Windows Server 2003                                                                                                                                                                                                                    |
+| Минимальная система | Windows Server 2003                                                                                                                                                                                                                    |
 
 
 

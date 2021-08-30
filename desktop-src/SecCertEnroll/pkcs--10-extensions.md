@@ -4,12 +4,12 @@ ms.assetid: 26fa8476-a0ad-4114-a1e7-ed3d4fc9d30e
 title: '\#Расширения PKCS 10'
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9ba71f0a24f50503fd92b3b9670b787dea3b9ad2
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 3e6db808250b2c3c2a7e29980b115dae3a22f0f37b4912c74332433e2dcf4f2c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105664640"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119993284"
 ---
 # <a name="pkcs-10-extensions"></a>\#Расширения PKCS 10
 
@@ -39,7 +39,7 @@ Attribute ::= SEQUENCE
 2.  Создайте расширение с помощью любого из доступных интерфейсов, производных от интерфейса [**IX509Extension**](/windows/desktop/api/CertEnroll/nn-certenroll-ix509extension) .
 3.  Добавьте расширения, созданные на шаге 2, в коллекцию [**IX509Extensions**](/windows/desktop/api/CertEnroll/nn-certenroll-ix509extensions) , полученную на шаге 1.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

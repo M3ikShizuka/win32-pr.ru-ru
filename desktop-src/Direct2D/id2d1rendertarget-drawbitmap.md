@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_name: ''
-ms.openlocfilehash: d82bbf557d7e53f06f614afbba578de40c789953
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 46c4e163ebb7c5c17db743687fded2c0f32771a37c0fb4dfa8af9ce45ee2fb86
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105675128"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119874354"
 ---
 # <a name="id2d1rendertargetdrawbitmap-methods"></a>ID2D1RenderTarget: методы:D Равбитмап
 
@@ -36,7 +36,7 @@ ms.locfileid: "105675128"
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот метод не возвращает код ошибки в случае сбоя. Чтобы определить, не завершилась ли операция рисования (например, **дравбитмап**), проверьте результат, возвращенный методами [**ID2D1RenderTarget:: EndDraw**](/windows/win32/api/d2d1/nf-d2d1-id2d1rendertarget-enddraw) или [**ID2D1RenderTarget:: Flush**](/windows/win32/api/d2d1/nf-d2d1-id2d1rendertarget-flush) .
 
@@ -44,7 +44,7 @@ ms.locfileid: "105675128"
 
 Пример см. в разделе [Рисование растрового изображения](how-to-draw-a-bitmap.md). Пример загрузки точечного рисунка из ресурса или файла см. в разделе [Загрузка растрового](how-to-load-a-bitmap-from-a-resource.md) изображения из ресурса и [Загрузка растрового изображения из файла](how-to-load-a-direct2d-bitmap-from-a-file.md).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -55,7 +55,7 @@ ms.locfileid: "105675128"
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

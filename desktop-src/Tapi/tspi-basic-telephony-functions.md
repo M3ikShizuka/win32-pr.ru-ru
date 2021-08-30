@@ -4,12 +4,12 @@ ms.assetid: 4250f3a0-a66a-4a6e-8566-d71be7463179
 title: Базовые функции телефонии ТСПИ
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5308def0c94df9fa59f2022bf25c4dbb1843e2f8
-ms.sourcegitcommit: 8ebcf6cd36f67f8bcf78e76ae8923d65b8995c8a
+ms.openlocfilehash: 4f5b8b4b61da6462588115463bc56b7a573e6f81215d0f9a1189983762a21062
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/05/2021
-ms.locfileid: "111524158"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120034134"
 ---
 # <a name="tspi-basic-telephony-functions"></a>Базовые функции телефонии ТСПИ
 
@@ -23,7 +23,7 @@ ms.locfileid: "111524158"
 -   [Согласование версии строки](#line-version-negotiation)
 -   [Выполнение вызовов](#making-calls)
 -   [Открытие и закрытие линейных устройств](#opening-and-closing-line-devices)
--   [Согласование версии телефона](#phone-version-negotiation)
+-   [Телефон Согласование версий](#phone-version-negotiation)
 -   [Инициализация и завершение работы TSP](#tsp-initialization-and-shutdown)
 
 ## <a name="tsp-initialization-and-shutdown"></a>Инициализация и завершение работы TSP
@@ -43,7 +43,7 @@ ms.locfileid: "111524158"
 
  
 
-## <a name="phone-version-negotiation"></a>Согласование версии телефона
+## <a name="phone-version-negotiation"></a>Телефон Согласование версий
 
 
 

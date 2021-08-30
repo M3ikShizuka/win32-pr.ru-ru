@@ -4,12 +4,12 @@ ms.assetid: da957aca-1655-4e8d-9e7b-4da0f253293b
 title: пажеблаккженератионпроцессингундерколораддитионлевел
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e3b496fbe890f53d1da8d1054cc5a19fe6318811
-ms.sourcegitcommit: 5d4e99f4c8f42f5f543e52cb9beb9fb13ec56c5f
+ms.openlocfilehash: c3e29073e0c27d433b96137983b10aab4ac0969b1b90010178b4fdd796f2043d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112408417"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119948234"
 ---
 # <a name="pageblackgenerationprocessingundercoloradditionlevel"></a>пажеблаккженератионпроцессингундерколораддитионлевел
 

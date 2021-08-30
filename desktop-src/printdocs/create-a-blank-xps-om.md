@@ -4,12 +4,12 @@ ms.assetid: 5b6f12ba-9a41-4252-96c4-391bb8d75cd4
 title: Создание пустой объектной модели XPS
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0588fc11deb4b3d980e978dfe8a5370bc170d506
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 78a2d57810a9a8bb500c4d9392b362f4e41e12f7c1a7384c029953a48e77d9a9
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105702215"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119950344"
 ---
 # <a name="create-a-blank-xps-om"></a>Создание пустой объектной модели XPS
 
@@ -105,11 +105,11 @@ ms.locfileid: "105702215"
 
 
 
-## <a name="best-practices"></a>Рекомендации
+## <a name="best-practices"></a>Советы и рекомендации
 
 После того как вы использовали интерфейс [**иопкпартури**](/previous-versions/windows/desktop/api/msopc/nn-msopc-iopcparturi) для создания компонента (например, после вызова метода **CreateDocument** в примере кода), отпустите указатель на этот интерфейс, если это не требуется для другого вызова.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

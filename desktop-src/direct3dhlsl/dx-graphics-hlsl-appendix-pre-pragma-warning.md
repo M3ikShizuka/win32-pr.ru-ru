@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 56d741f0d91784f578377e5ee117cf0c3b4aabe5cb1177c7942fc6e8ab8f81d3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2d98e80ba691422b0a197b732dbc5fc762a25562
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119120358"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122631862"
 ---
 # <a name="warning-pragma-directive"></a>Warning pragma, директива
 
@@ -39,13 +39,13 @@ ms.locfileid: "119120358"
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col  />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
 <th>Элемент</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>
@@ -56,7 +56,7 @@ ms.locfileid: "119120358"
 <thead>
 <tr class="header">
 <th>Значение</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>
@@ -126,7 +126,7 @@ ms.locfileid: "119120358"
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

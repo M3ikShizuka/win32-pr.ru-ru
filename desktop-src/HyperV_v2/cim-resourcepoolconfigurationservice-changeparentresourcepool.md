@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - vmms.exe
-ms.openlocfilehash: 6ef852d6af8f0973b6b3f29fca5fcd90e9ce726a
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: b7030cb4ed9333ad5c56722954a24a1ee7bff351a15873423dbfe6e8dca1830d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105682814"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119980904"
 ---
 # <a name="changeparentresourcepool-method-of-the-cim_resourcepoolconfigurationservice-class"></a>Метод Чанжепарентресаурцепул \_ класса CIM ресаурцепулконфигуратионсервице
 
@@ -124,7 +124,7 @@ uint32 ChangeParentResourcePool(
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Windows 8.1<br/>                                                                                  |
+| Минимальная версия клиента<br/> | Windows 8.1<br/>                                                                                  |
 | Минимальная версия сервера<br/> | Windows Server 2012 R2<br/>                                                                       |
 | Пространство имен<br/>                | Корневая \\ виртуализация \\ версии 2<br/>                                                                     |
 | MOF<br/>                      | <dl> <dt>Виндовсвиртуализатион. v2. mof</dt> </dl> |

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - vmms.exe
-ms.openlocfilehash: c57ed7f9a88789d04a20de0fd199d460b47c1eb2
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: de7dafaccca7ba9290a8dc3b696bd6aa1acea1b9808b080ab75b9c62f79d65f0
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105662508"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119980054"
 ---
 # <a name="msvm_replicationserviceremovereplicationrelationshipex-method"></a>Мсвм \_ репликатионсервице:: ремоверепликатионрелатионшипекс, метод
 
@@ -110,7 +110,7 @@ uint32 RemoveReplicationRelationshipEx(
 **Файл не найден** (32779)
 </dt> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Для виртуальной машины реплики невозможно удалить первичную репликацию, если включена расширенная репликация.
 
@@ -120,8 +120,8 @@ uint32 RemoveReplicationRelationshipEx(
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только Windows 8.1 Классические приложения\]<br/>                                                            |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2012 R2 \[\]<br/>                                                 |
+| Минимальная версия клиента<br/> | Windows 8.1 \[ только классические приложения\]<br/>                                                            |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[Только классические приложения R2\]<br/>                                                 |
 | Пространство имен<br/>                | \\\\Корневая \\ виртуализация \\ версии 2<br/>                                                                 |
 | MOF<br/>                      | <dl> <dt>Виндовсвиртуализатион. v2. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Vmms.exe</dt> </dl>                     |
