@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 9718b6fb9d17d2d929c8ca74826003bf641e268e
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: ebdc214e4affbcaf76b632c13b979374bb07c3175ecb9a12ec19a57767b30404
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105669441"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120131374"
 ---
 # <a name="cdeferredcommandconfidence-method"></a>Метод Кдеферредкомманд. достоверность
 
@@ -53,7 +53,7 @@ HRESULT Confidence(
 
 Возвращает E \_ нотимпл.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Сведения о реализации этого метода см. в разделе [**идеферредкомманд:: достоверность**](/windows/desktop/api/Control/nf-control-ideferredcommand-confidence).
 
@@ -63,12 +63,12 @@ HRESULT Confidence(
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Ктлутил. h (включение Streams. h)</dt> </dl>                                                                                   |
+| Заголовок<br/>  | <dl> <dt>ктлутил. h (включает Потоки. h)</dt> </dl>                                                                                   |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

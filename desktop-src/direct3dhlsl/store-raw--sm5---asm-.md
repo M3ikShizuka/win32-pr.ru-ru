@@ -4,12 +4,12 @@ description: Произвольная запись в 1-4 32-разрядных 
 ms.assetid: D166116A-CF4E-4020-9F6A-F9CEEFCDAB21
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c44b4d22a576853fb8b7d2c43fcb6a2d7fc9a448
-ms.sourcegitcommit: fe03c5d92ca6a0d66a114b2303e99c0a19241ffb
+ms.openlocfilehash: d2452f5b48b410b0a62dbd394c7c0501d99d34ba15c8c78291c02db58d65d090
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "104412223"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120118204"
 ---
 # <a name="store_raw-sm5---asm"></a>хранилище \_ RAW (SM5-ASM)
 
@@ -36,7 +36,7 @@ ms.locfileid: "104412223"
 
  
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Эта инструкция выполняет 1-4 компонентов \* 32-bit, записанных из *src0* в *dst0* со смещением в *дстбитеоффсет*. Преобразование формата отсутствует.
 
@@ -111,7 +111,7 @@ CS \_ 4 \_ 0 и CS \_ 4 \_ 1 поддерживают эту инструкци�
 
 | Модель шейдера                                              | Поддерживается |
 |-----------------------------------------------------------|-----------|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | да       |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | Да       |
 | [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | Нет        |
 | [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | Нет        |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет        |
@@ -122,7 +122,7 @@ CS \_ 4 \_ 0 и CS \_ 4 \_ 1 поддерживают эту инструкци�
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

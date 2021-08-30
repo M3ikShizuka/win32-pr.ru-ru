@@ -17,18 +17,18 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: e075859bd8fdf6607ef0b66c3a571fa865e52e40
-ms.sourcegitcommit: 4e94fc75fad7b2a0f3c92a26f97e89924e59b7a9
+ms.openlocfilehash: d1be1e307e933970ea35540576ad0ce3349e069e
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "122786720"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122628170"
 ---
 # <a name="span-idvspixengineipixengine2spanipixengine2-interface"></a><span id="vspixengine.ipixengine2"></span>Интерфейс IPixEngine2
 
 Расширения для исходного интерфейса Ипиксенгине.
 
-## <a name="members"></a>Элементы
+## <a name="members"></a>Участники
 
 Интерфейс **IPixEngine2** наследует от интерфейса [**IUnknown**](/windows/desktop/api/unknwn/nn-unknwn-iunknown) . **IPixEngine2** также имеет следующие типы членов:
 
@@ -38,7 +38,7 @@ ms.locfileid: "122786720"
 
 Интерфейс **IPixEngine2** содержит следующие методы.
 
-<table><colgroup><col  /><col  /></colgroup><thead><tr class="header"><th >Метод</th><th >Описание</th></tr></thead><tbody><tr class="odd"><td ><a href="/windows/desktop/direct3dtools/ipixengine2-endexperiment-bstr-ifileiocallback-ptr"><strong>ендексперимент</strong></a></td><td ><p>Завершает експериемент и завершает работу с журналом графики.</p></td></tr><tr class="even"><td ><a href="/windows/desktop/direct3dtools/ipixengine2-getplaybackmachine-bstr-bool-ptr-bstr-ptr"><strong>жетплайбаккмачине</strong></a></td><td ><p>Возвращает сведения о текущем компьютере воспроизведения.</p></td></tr><tr class="odd"><td ><a href="/windows/desktop/direct3dtools/ipixengine2-onnewdataavailable-bool-bool-int64-int64-int32-byte-arr"><strong>онневдатааваилабле</strong></a></td><td ><p>Запросы, указывающие, что в журнале графики есть новые данные.</p></td></tr><tr class="even"><td ><a href="/windows/desktop/direct3dtools/ipixengine2-setplaybackmachine-bstr-bool-bstr"><strong>сетплайбаккмачине</strong></a></td><td ><p>Задает текущий компьютер воспроизведения для указанного журнала графики.</p></td></tr></tbody></table>
+<table><colgroup><col  /><col  /></colgroup><thead><tr class="header"><th style="text-align: left;">Метод</th><th style="text-align: left;">Описание</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><a href="/windows/desktop/direct3dtools/ipixengine2-endexperiment-bstr-ifileiocallback-ptr"><strong>ендексперимент</strong></a></td><td style="text-align: left;"><p>Завершает експериемент и завершает работу с журналом графики.</p></td></tr><tr class="even"><td style="text-align: left;"><a href="/windows/desktop/direct3dtools/ipixengine2-getplaybackmachine-bstr-bool-ptr-bstr-ptr"><strong>жетплайбаккмачине</strong></a></td><td style="text-align: left;"><p>Возвращает сведения о текущем компьютере воспроизведения.</p></td></tr><tr class="odd"><td style="text-align: left;"><a href="/windows/desktop/direct3dtools/ipixengine2-onnewdataavailable-bool-bool-int64-int64-int32-byte-arr"><strong>онневдатааваилабле</strong></a></td><td style="text-align: left;"><p>Запросы, указывающие, что в журнале графики есть новые данные.</p></td></tr><tr class="even"><td style="text-align: left;"><a href="/windows/desktop/direct3dtools/ipixengine2-setplaybackmachine-bstr-bool-bstr"><strong>сетплайбаккмачине</strong></a></td><td style="text-align: left;"><p>Задает текущий компьютер воспроизведения для указанного журнала графики.</p></td></tr></tbody></table>
 
  
 

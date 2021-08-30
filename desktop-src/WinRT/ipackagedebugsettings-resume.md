@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Shobjidl.idl
-ms.openlocfilehash: 2d36b11baffdc3f587924acd1732cbdfdb43d37f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 6871aea0fc18ce64939fa1bba06946f8a3a1c260e341b1dfa500a71f273a883b
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105711058"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120121584"
 ---
 # <a name="ipackagedebugsettingsresume-method"></a>Метод Ипаккажедебугсеттингс:: Resume
 
@@ -54,7 +54,7 @@ HRESULT Resume(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Каждый процесс получает событие [**возобновления**](/uwp/api/Windows.ApplicationModel.Core.CoreApplication?view=winrt-19041) . Он может быть полезен разработчикам для пошагового указания того, как приложения реагируют на это событие.
 
@@ -70,7 +70,7 @@ HRESULT Resume(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

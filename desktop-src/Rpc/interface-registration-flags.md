@@ -18,12 +18,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f33111bc7dc1acdf5ec12ba81b91b9ec37d7b9994c1af3821c0997562f49e81a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7ba4a94fe1100db3cb332d85593ea42617657119
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118928900"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122476980"
 ---
 # <a name="interface-registration-flags"></a>Флаги регистрации интерфейса
 
@@ -31,67 +31,18 @@ ms.locfileid: "118928900"
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Константа</th>
-<th style="text-align: left;">Описание</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;"><span id="0"></span><dl> <dt><strong>0,0</strong></dt> </dl></td>
-<td style="text-align: left;">Стандартная семантика интерфейса.<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="RPC_IF_ALLOW_CALLBACKS_WITH_NO_AUTH"></span><span id="rpc_if_allow_callbacks_with_no_auth"></span><dl> <dt><strong>RPC_IF_ALLOW_CALLBACKS_WITH_NO_AUTH</strong></dt> </dl></td>
-<td style="text-align: left;">При регистрации этого флага интерфейса Среда выполнения RPC вызывает зарегистрированный обратный вызов безопасности для всех вызовов, независимо от удостоверения, последовательности протокола или уровня проверки подлинности клиента.<br/>
-<blockquote>
-[!Note]<br />
-этот флаг доступен начиная с Windows XP с пакетом обновления 2 (SP2) и Windows Server 2003 с пакетом обновления 1. Если этот флаг не установлен, RPC автоматически фильтрует все вызовы, не прошедшие проверку подлинности, прежде чем они достигли обратного вызова безопасности.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="RPC_IF_ALLOW_LOCAL_ONLY"></span><span id="rpc_if_allow_local_only"></span><dl> <dt><strong>RPC_IF_ALLOW_LOCAL_ONLY</strong></dt> </dl></td>
-<td style="text-align: left;">Когда этот флаг интерфейса зарегистрирован, среда выполнения RPC отклоняет вызовы, выполняемые удаленными клиентами. Все локальные вызовы с использованием последовательностей протоколов ncadg_ * и ncacn_ * также отклоняются, за исключением ncacn_np. RPC разрешает ncacn_NP вызовы только в том случае, если вызов не получен из SRV. Вызовы из нкалрпк всегда обрабатываются.<br/>
-<blockquote>
-[!Note]<br />
-этот флаг доступен начиная с Windows XP с пакетом обновления 2 (SP2) и Windows Server 2003 с пакетом обновления 1.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="RPC_IF_AUTOLISTEN"></span><span id="rpc_if_autolisten"></span><dl> <dt><strong>RPC_IF_AUTOLISTEN</strong></dt> </dl></td>
-<td style="text-align: left;">Это интерфейс <strong>автоматического прослушивания</strong> . Время выполнения начинает ожидать вызовов сразу после регистрации первого интерфейса автопрослушивания и прекращает прослушивание при отмене регистрации последнего интерфейса автопрослушивания.<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="RPC_IF_OLE"></span><span id="rpc_if_ole"></span><dl> <dt><strong>RPC_IF_OLE</strong></dt> </dl></td>
-<td style="text-align: left;">Зарезервировано для OLE. Не используйте этот флаг.<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="RPC_IF_ALLOW_UNKNOWN_AUTHORITY"></span><span id="rpc_if_allow_unknown_authority"></span><dl> <dt><strong>RPC_IF_ALLOW_UNKNOWN_AUTHORITY</strong></dt> </dl></td>
-<td style="text-align: left;">В настоящий момент не реализовано.<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="RPC_IF_ALLOW_SECURE_ONLY"></span><span id="rpc_if_allow_secure_only"></span><dl> <dt><strong>RPC_IF_ALLOW_SECURE_ONLY</strong></dt> </dl></td>
-<td style="text-align: left;">Ограничивает соединения с клиентами, которые используют уровень авторизации выше RPC_C_AUTHN_LEVEL_NONE. Указание этого флага позволяет клиентам проходить через <strong>пустой</strong> сеанс. в Windows XP и Windows Server 2003 такие клиенты не разрешены. Клиенты, не прошедшие RPC_IF_ALLOW_SECURE_ONLY тест, получают ошибку RPC_S_ACCESS_DENIED. Использование флага RPC_IF_ALLOW_SECURE_ONLY не подразумевает или не гарантирует высокий уровень привилегий в части вызывающего пользователя. RPC проверяет наличие действительных учетных данных у пользователя. вызывающий пользователь может использовать учетную запись гостя или другие учетные записи с низкими привилегиями. Не представим высокий уровень привилегий при использовании RPC_IF_ALLOW_SECURE_ONLY.<br/> <strong>Windows NT 4,0 и Windows Me/98/95:</strong><br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="RPC_IF_SEC_NO_CACHE"></span><span id="rpc_if_sec_no_cache"></span><dl> <dt><strong>RPC_IF_SEC_NO_CACHE</strong></dt> </dl></td>
-<td style="text-align: left;">Отключает кэширование обратного вызова безопасности, принудительное применение обратного вызова безопасности для каждого вызова RPC для данного интерфейса.<br/>
-<blockquote>
-[!Note]<br />
-этот флаг доступен начиная с Windows XP с пакетом обновления 2 (SP2) и Windows Server 2003 с пакетом обновления 1.
-</blockquote>
-<br/></td>
-</tr>
-</tbody>
-</table>
+
+| Константа | Описание | 
+|----------|-------------|
+| <span id="0"></span><dl><dt><strong>0</strong></dt></dl> | Стандартная семантика интерфейса.<br /> | 
+| <span id="RPC_IF_ALLOW_CALLBACKS_WITH_NO_AUTH"></span><span id="rpc_if_allow_callbacks_with_no_auth"></span><dl><dt><strong>RPC_IF_ALLOW_CALLBACKS_WITH_NO_AUTH</strong></dt></dl> | При регистрации этого флага интерфейса Среда выполнения RPC вызывает зарегистрированный обратный вызов безопасности для всех вызовов, независимо от удостоверения, последовательности протокола или уровня проверки подлинности клиента.<br /><blockquote>[!Note]<br />этот флаг доступен начиная с Windows XP с пакетом обновления 2 (SP2) и Windows Server 2003 с пакетом обновления 1. Если этот флаг не установлен, RPC автоматически фильтрует все вызовы, не прошедшие проверку подлинности, прежде чем они достигли обратного вызова безопасности.</blockquote><br /> | 
+| <span id="RPC_IF_ALLOW_LOCAL_ONLY"></span><span id="rpc_if_allow_local_only"></span><dl><dt><strong>RPC_IF_ALLOW_LOCAL_ONLY</strong></dt></dl> | Когда этот флаг интерфейса зарегистрирован, среда выполнения RPC отклоняет вызовы, выполняемые удаленными клиентами. Все локальные вызовы с использованием последовательностей протоколов ncadg_ * и ncacn_ * также отклоняются, за исключением ncacn_np. RPC разрешает ncacn_NP вызовы только в том случае, если вызов не получен из SRV. Вызовы из нкалрпк всегда обрабатываются.<br /><blockquote>[!Note]<br />этот флаг доступен начиная с Windows XP с пакетом обновления 2 (SP2) и Windows Server 2003 с пакетом обновления 1.</blockquote><br /> | 
+| <span id="RPC_IF_AUTOLISTEN"></span><span id="rpc_if_autolisten"></span><dl><dt><strong>RPC_IF_AUTOLISTEN</strong></dt></dl> | Это интерфейс <strong>автоматического прослушивания</strong> . Время выполнения начинает ожидать вызовов сразу после регистрации первого интерфейса автопрослушивания и прекращает прослушивание при отмене регистрации последнего интерфейса автопрослушивания.<br /> | 
+| <span id="RPC_IF_OLE"></span><span id="rpc_if_ole"></span><dl><dt><strong>RPC_IF_OLE</strong></dt></dl> | Зарезервировано для OLE. Не используйте этот флаг.<br /> | 
+| <span id="RPC_IF_ALLOW_UNKNOWN_AUTHORITY"></span><span id="rpc_if_allow_unknown_authority"></span><dl><dt><strong>RPC_IF_ALLOW_UNKNOWN_AUTHORITY</strong></dt></dl> | В настоящий момент не реализовано.<br /> | 
+| <span id="RPC_IF_ALLOW_SECURE_ONLY"></span><span id="rpc_if_allow_secure_only"></span><dl><dt><strong>RPC_IF_ALLOW_SECURE_ONLY</strong></dt></dl> | Ограничивает соединения с клиентами, которые используют уровень авторизации выше RPC_C_AUTHN_LEVEL_NONE. Указание этого флага позволяет клиентам проходить через <strong>пустой</strong> сеанс. в Windows XP и Windows Server 2003 такие клиенты не разрешены. Клиенты, не прошедшие RPC_IF_ALLOW_SECURE_ONLY тест, получают ошибку RPC_S_ACCESS_DENIED. Использование флага RPC_IF_ALLOW_SECURE_ONLY не подразумевает или не гарантирует высокий уровень привилегий в части вызывающего пользователя. RPC проверяет наличие действительных учетных данных у пользователя. вызывающий пользователь может использовать учетную запись гостя или другие учетные записи с низкими привилегиями. Не представим высокий уровень привилегий при использовании RPC_IF_ALLOW_SECURE_ONLY.<br /><strong>Windows NT 4,0 и Windows Me/98/95:</strong><br /> | 
+| <span id="RPC_IF_SEC_NO_CACHE"></span><span id="rpc_if_sec_no_cache"></span><dl><dt><strong>RPC_IF_SEC_NO_CACHE</strong></dt></dl> | Отключает кэширование обратного вызова безопасности, принудительное применение обратного вызова безопасности для каждого вызова RPC для данного интерфейса.<br /><blockquote>[!Note]<br />этот флаг доступен начиная с Windows XP с пакетом обновления 2 (SP2) и Windows Server 2003 с пакетом обновления 1.</blockquote><br /> | 
+
 
 
 

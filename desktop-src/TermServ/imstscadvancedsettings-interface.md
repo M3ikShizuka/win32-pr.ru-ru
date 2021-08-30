@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2f1156f59178275ff9406299fc553afacd3ce99a0488497f836d147ec1d63547
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: edc379375456feb5de50abdc68ff2cc2da463fbe
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118606201"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122475350"
 ---
 # <a name="imstscadvancedsettings-interface"></a>Интерфейс Имстскадванцедсеттингс
 
@@ -41,78 +41,25 @@ ms.locfileid: "118606201"
 
 
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Свойство</th>
-<th style="text-align: left;">Тип доступа</th>
-<th style="text-align: left;">Описание</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;"><a href="imstscadvancedsettings-allowbackgroundinput.md"><strong>алловбаккграундинпут</strong></a><br/></td>
-<td style="text-align: left;">Чтение/запись<br/></td>
-<td style="text-align: left;">Указывает, включен ли режим фонового ввода.<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><a href="imstscadvancedsettings-bitmapperistence.md"><strong>битмапперистенце</strong></a><br/></td>
-<td style="text-align: left;">Чтение/запись<br/></td>
-<td style="text-align: left;">Указывает, включено ли кэширование растровых изображений.<br/>
-<blockquote>
-[!Note]<br />
-Орфографическая ошибка в имени свойства находится в выпущенной версии элемента управления.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><a href="imstscadvancedsettings-compress.md"><strong>Повторно</strong></a><br/></td>
-<td style="text-align: left;">Чтение/запись<br/></td>
-<td style="text-align: left;">Указывает, включено ли сжатие.<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><a href="imstscadvancedsettings-containerhandledfullscreen.md"><strong>контаинерхандледфуллскрин</strong></a><br/></td>
-<td style="text-align: left;">Чтение/запись<br/></td>
-<td style="text-align: left;">Указывает, включен ли полноэкранный режим, обрабатываемый контейнером.<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><a href="imstscadvancedsettings-disablerdpdr.md"><strong>дисаблердпдр</strong></a><br/></td>
-<td style="text-align: left;">Чтение/запись<br/></td>
-<td style="text-align: left;">Указывает, включено ли перенаправление принтеров и буферов обмена.<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><a href="imstscadvancedsettings-iconfile.md"><strong>иконфиле</strong></a><br/></td>
-<td style="text-align: left;">Только на запись<br/></td>
-<td style="text-align: left;">Указывает имя файла, содержащего данные значков, которые будут доступны при отображении клиента в полноэкранном режиме.<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><a href="imstscadvancedsettings-iconindex.md"><strong>икониндекс</strong></a><br/></td>
-<td style="text-align: left;">Только на запись<br/></td>
-<td style="text-align: left;">Задает индекс значка в текущем файле значка.<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><a href="imstscadvancedsettings-keyboardlayoutstr.md"><strong>кэйбоардлайаутстр</strong></a><br/></td>
-<td style="text-align: left;">Только на запись<br/></td>
-<td style="text-align: left;">Задает имя активного идентификатора языка ввода (прежнее название раскладки клавиатуры), используемого для соединения.<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><a href="imstscadvancedsettings-plugindlls.md"><strong>плугиндллс</strong></a><br/></td>
-<td style="text-align: left;">Только на запись<br/></td>
-<td style="text-align: left;">Указывает имена клиентских DLL-библиотек виртуальных каналов для загрузки.<br/></td>
-</tr>
-</tbody>
-</table>
+
+| Свойство | Тип доступа | Описание | 
+|----------|-------------|-------------|
+| <a href="imstscadvancedsettings-allowbackgroundinput.md"><strong>алловбаккграундинпут</strong></a><br /> | Чтение/запись<br /> | Указывает, включен ли режим фонового ввода.<br /> | 
+| <a href="imstscadvancedsettings-bitmapperistence.md"><strong>битмапперистенце</strong></a><br /> | Чтение/запись<br /> | Указывает, включено ли кэширование растровых изображений.<br /><blockquote>[!Note]<br />Орфографическая ошибка в имени свойства находится в выпущенной версии элемента управления.</blockquote><br /> | 
+| <a href="imstscadvancedsettings-compress.md"><strong>Повторно</strong></a><br /> | Чтение/запись<br /> | Указывает, включено ли сжатие.<br /> | 
+| <a href="imstscadvancedsettings-containerhandledfullscreen.md"><strong>контаинерхандледфуллскрин</strong></a><br /> | Чтение/запись<br /> | Указывает, включен ли полноэкранный режим, обрабатываемый контейнером.<br /> | 
+| <a href="imstscadvancedsettings-disablerdpdr.md"><strong>дисаблердпдр</strong></a><br /> | Чтение/запись<br /> | Указывает, включено ли перенаправление принтеров и буферов обмена.<br /> | 
+| <a href="imstscadvancedsettings-iconfile.md"><strong>иконфиле</strong></a><br /> | Только на запись<br /> | Указывает имя файла, содержащего данные значков, которые будут доступны при отображении клиента в полноэкранном режиме.<br /> | 
+| <a href="imstscadvancedsettings-iconindex.md"><strong>икониндекс</strong></a><br /> | Только на запись<br /> | Задает индекс значка в текущем файле значка.<br /> | 
+| <a href="imstscadvancedsettings-keyboardlayoutstr.md"><strong>кэйбоардлайаутстр</strong></a><br /> | Только на запись<br /> | Задает имя активного идентификатора языка ввода (прежнее название раскладки клавиатуры), используемого для соединения.<br /> | 
+| <a href="imstscadvancedsettings-plugindlls.md"><strong>плугиндллс</strong></a><br /> | Только на запись<br /> | Указывает имена клиентских DLL-библиотек виртуальных каналов для загрузки.<br /> | 
+
 
 
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот интерфейс расширен следующими интерфейсами, при этом каждый новый интерфейс наследует все методы и свойства предыдущих интерфейсов:
 
@@ -140,7 +87,7 @@ ms.locfileid: "118606201"
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

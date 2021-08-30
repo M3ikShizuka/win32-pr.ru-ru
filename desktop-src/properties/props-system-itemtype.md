@@ -4,12 +4,12 @@ ms.assetid: 530ba98a-09fd-438b-8872-9eee47f0cf54
 title: System. ItemType
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e0159a12e1cc3c6d85e461461cad20334a641fbc
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 784a72c46e92ac5956532994df4f36758d42f440
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104272340"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122880719"
 ---
 # <a name="systemitemtype"></a>System. ItemType
 
@@ -37,8 +37,8 @@ propertyDescription
 
 Значение System. ItemType предназначено для программного синтаксического анализа и может быть одним из следующих:
 
--   Расширение файла, которое указывает на значение ProgID ( \_ корень классов hKey \_ \\ <ProgID> ), содержащее отображаемое имя для типа.
--   Значение ProgID (HKEY \_ Classes \_ ррут \\ <ProgID> ), содержащее отображаемое имя для типа.
+-   Расширение файла, которое указывает на значение ProgID ( \_ \_ корневой идентификатор ProgID для классов hKey \\ &lt; &gt; ), содержащее отображаемое имя для типа.
+-   Значение ProgID (HKEY \_ Classes \_ ррут \\ &lt; ProgID &gt; ), содержащее отображаемое имя для типа.
 
 Элемент Фриендлитипенаме ProgID должен быть локализованной версией имени приложения ( @winword.dll -42), а значение по умолчанию для ключа ProgID — нелокализованным именем (Word.Docумент. 12).
 
@@ -53,7 +53,7 @@ propertyDescription
 
 
 
-| Путь                                   | ItemType         |
+| путь                                   | ItemType         |
 |----------------------------------------|------------------|
 | в. \\ \\ линейчатая диаграмма MyDir \\hello.txt              | .txt             |
 | \\\\\\Общая папка сервера \\ MyDir \\goodnews.doc | .doc             |
@@ -66,7 +66,7 @@ propertyDescription
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

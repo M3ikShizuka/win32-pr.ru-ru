@@ -25,12 +25,12 @@ api_type:
 - DllExport
 api_location:
 - vmms.exe
-ms.openlocfilehash: 6454b6080a4841ef261233ce304725ec4a08a1a793cfb657c87e20ef56592df0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b1557190cf6afef34d234e5f8e3c7fe3f051f2b4
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118647362"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122881800"
 ---
 # <a name="cim_softwareelement-class-hyper-v-management"></a>Класс CIM_SoftwareElement (Управление Hyper-V)
 
@@ -133,7 +133,7 @@ class CIM_SoftwareElement : CIM_LogicalElement
 
 </dd> <dt>
 
-**Производителя**
+**Изготовитель**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -149,7 +149,7 @@ class CIM_SoftwareElement : CIM_LogicalElement
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1062,7 +1062,7 @@ class CIM_SoftwareElement : CIM_LogicalElement
 
 </dd> <dt>
 
-**Версия**
+**Version**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1074,7 +1074,7 @@ class CIM_SoftwareElement : CIM_LogicalElement
 Квалификаторы: [**Key**](/windows/desktop/WmiSdk/key-qualifier), [**maxlen**](/windows/desktop/WmiSdk/standard-qualifiers) (64), [**маппингстрингс**](/windows/desktop/WmiSdk/standard-qualifiers) ("MIF. \|Подкомпонентное программное обеспечение DMTF \| 001,4 ")
 </dt> </dl>
 
-Версия программного обеспечения в формате *<Major>* . *<Minor>* .*<Revision>* или *<Major>* . *<Minor><letter><revision>* .
+Версия программного обеспечения в формате *&lt; основной &gt;*.*&lt; Дополнительный &gt; номер*. *&lt; Редакция &gt;* или *&lt; основной &gt;**. &lt; Дополнительная &gt; &lt; &gt; &lt; версия &gt; буквы*.
 
 </dd> </dl>
 
@@ -1085,7 +1085,7 @@ class CIM_SoftwareElement : CIM_LogicalElement
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8<br/>                                                                                    |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                                          |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                                          |
 | Пространство имен<br/>                | Корневая \\ виртуализация \\ версии 2<br/>                                                                     |
 | MOF<br/>                      | <dl> <dt>Виндовсвиртуализатион. v2. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Vmms.exe</dt> </dl>                     |

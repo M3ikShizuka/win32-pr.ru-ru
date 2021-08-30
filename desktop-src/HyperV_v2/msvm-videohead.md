@@ -68,12 +68,12 @@ api_type:
 - DllExport
 api_location:
 - vmms.exe
-ms.openlocfilehash: 9f40e0386fe42177484fc07296a2f4567f1ee47a
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 517a942d3945b76f5317694b6af70f3bdbdadca771a03d8fc4ef372ffc2f2915
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104155166"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120075314"
 ---
 # <a name="msvm_videohead-class"></a>\_Класс мсвм видеохеад
 
@@ -201,7 +201,7 @@ class Msvm_VideoHead : CIM_VideoHead
 
 | Значение                                                                        | Значение                   |
 |------------------------------------------------------------------------------|---------------------------|
-| <dl> <dt>6</dt> </dl> | Не применимо<br/> |
+| <dl> <dt>6</dt> </dl> | Н/Д<br/> |
 
 
 
@@ -222,7 +222,7 @@ class Msvm_VideoHead : CIM_VideoHead
 
 </dd> <dt>
 
-**Заголовок**
+**Caption**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -692,7 +692,7 @@ class Msvm_VideoHead : CIM_VideoHead
 
 </dd> <dt>
 
-**Name**
+**Имя**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -916,7 +916,7 @@ class Msvm_VideoHead : CIM_VideoHead
 
 | Значение                                                                         | Значение                   |
 |-------------------------------------------------------------------------------|---------------------------|
-| <dl> <dt>12</dt> </dl> | Не применимо<br/> |
+| <dl> <dt>12</dt> </dl> | Н/Д<br/> |
 
 
 
@@ -1030,7 +1030,7 @@ class Msvm_VideoHead : CIM_VideoHead
 
 | Значение                                                                         | Значение                   |
 |-------------------------------------------------------------------------------|---------------------------|
-| <dl> <dt>12</dt> </dl> | Не применимо<br/> |
+| <dl> <dt>12</dt> </dl> | Н/Д<br/> |
 
 
 
@@ -1038,25 +1038,25 @@ class Msvm_VideoHead : CIM_VideoHead
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Доступ к классу **\_ видеохеад мсвм** может быть ограничен фильтром контроля учетных записей. Дополнительные сведения см. в разделе [Управление учетными записями пользователей и инструментарий WMI](/windows/desktop/WmiSdk/user-account-control-and-wmi).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 8\]<br/>                                                              |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2012\]<br/>                                                    |
+| Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                                              |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                                    |
 | Пространство имен<br/>                | Корневая \\ виртуализация \\ версии 2<br/>                                                                     |
 | MOF<br/>                      | <dl> <dt>Виндовсвиртуализатион. v2. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Vmms.exe</dt> </dl>                     |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Windowscodecs.dll
 - Wincodec.lib
-ms.openlocfilehash: 6f498af72391aa0a7745ed79d06c6e1d55317393
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: f102a487e76667cc3a1cfb9c3bf0c2153d661199b36cbef86fec3f7f111d2f46
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103809586"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120090064"
 ---
 # <a name="iwicbitmapcodecinfo_doessupportlossless_proxy-function"></a>ИвикбитмапкодеЦинфо \_ доессуппортлосслесс \_ -функция
 
@@ -44,18 +44,18 @@ HRESULT IWICBitmapCodecInfo_DoesSupportLossless_Proxy(
 *Этот \_* \[ Вход в\]
 </dt> <dd>
 
-Тип: **[**ивикбитмапкодеЦинфо**](/windows/desktop/api/Wincodec/nn-wincodec-iwicbitmapcodecinfo) \** _
+Тип: **[ **ивикбитмапкодеЦинфо**](/windows/desktop/api/Wincodec/nn-wincodec-iwicbitmapcodecinfo)\***
 
-Указатель на этот объект [_ *ивикбитмапкодеЦинфо* *](/windows/desktop/api/Wincodec/nn-wincodec-iwicbitmapcodecinfo) .
+Указатель на этот объект [**ивикбитмапкодеЦинфо**](/windows/desktop/api/Wincodec/nn-wincodec-iwicbitmapcodecinfo) .
 
 </dd> <dt>
 
 *пфсуппортлосслесс* \[ заполняет\]
 </dt> <dd>
 
-Тип: **bool \** _
+Тип: **bool \*** .
 
-Указатель, получающий *значение _ true**, если кодек поддерживает форматы без потерь; в противном случае — **значение false**.
+Указатель, принимающий **значение true** , если кодек поддерживает форматы без потерь; в противном случае — **значение false**.
 
 </dd> </dl>
 
@@ -73,8 +73,8 @@ HRESULT IWICBitmapCodecInfo_DoesSupportLossless_Proxy(
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Windows XP с пакетом обновления 2 (SP2), \[ только классические приложения Windows Vista\]<br/>                                                                                              |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                                                                                             |
+| Минимальная версия клиента<br/> | Windows XP с пакетом обновления 2 (SP2), Windows \[ только классические приложения Vista\]<br/>                                                                                              |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                                                                                             |
 | DLL<br/>                      | <dl> <dt>Windowscodecs.dll; </dt> <dt>Винкодек. lib</dt> </dl> |
 
 

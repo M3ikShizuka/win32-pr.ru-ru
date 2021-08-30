@@ -3,7 +3,7 @@ title: Сообщение TB_SETPRESSEDIMAGELIST (Коммктрл. h)
 description: Задает список изображений, используемый панелью инструментов для отображения кнопок, которые находятся в состоянии нажатия.
 ms.assetid: d0e061ec-3a89-4c2d-b7f7-5f2061098428
 keywords:
-- Элементы управления Windows для TB_SETPRESSEDIMAGELIST сообщений
+- элементы управления Windows сообщений TB_SETPRESSEDIMAGELIST
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 79a3c6dafed6dbfdf2a654f4f95f1cef636ba762
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 118dcf5340b9fb60360657b1bd3ad9659ce265ef668fbd94e305e81342e0951e
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104535627"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120061354"
 ---
 # <a name="tb_setpressedimagelist-message"></a>\_Сообщение СЕТПРЕССЕДИМАЖЕЛИСТ ТБ
 
@@ -47,7 +47,7 @@ ms.locfileid: "104535627"
 
 Возвращает маркер списка изображений, который ранее использовался для отображения кнопок в состоянии их нажатия, или **значение NULL** , если такой список изображений не был задан ранее.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 > [!Note]  
 > Приложение несет ответственность за освобождение списка образов после уничтожения панели инструментов.
@@ -101,19 +101,19 @@ ms.locfileid: "104535627"
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

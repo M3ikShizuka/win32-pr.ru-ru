@@ -8,12 +8,12 @@ req.target-min-winverclnt: Windows Vista [desktop apps only]
 req.target-min-winversvr: Windows Server 2008 [desktop apps only]
 api_location:
 - mstcpip.h
-ms.openlocfilehash: 592301f0fcdbbb0d3d5babba446583d2e48db086
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 60dca8346d9a4cd11de4d53dd87611e79e01c45dba555f45907721fe529b352a
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103898573"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120097503"
 ---
 # <a name="sio_query_transport_setting-control-code"></a>Код элемента управления SIO_QUERY_TRANSPORT_SETTING
 
@@ -148,29 +148,29 @@ int WSPIoctl(
 | **всаенотсокк** | Дескриптор s не является сокетом. |
 | **всаеопнотсупп** | Указанная команда IOCTL не поддерживается. Эта ошибка возвращается, если **\_ \_ \_ параметр транспорта запросов SIO** не поддерживается поставщиком транспорта. |
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-**\_ \_ \_ Параметр транспорта запросов SIO** поддерживается в windows 8, Windows Server 2012 и более поздних версиях операционной системы.
+**\_ \_ \_ параметр транспорта запросов SIO** поддерживается в Windows 8, Windows Server 2012 и более поздних версиях операционной системы.
 
 **\_ \_ \_ Параметр передачи запросов SIO** — это универсальный запрос IOCTL, используемый для запроса параметров транспорта на сокете.
 Запрашиваемый параметр транспорта основан на [**TRANSPORT_SETTING_ID**](/windows/desktop/api/mstcpip/ns-mstcpip-transport_setting_id) , переданном в параметре *лпвинбуффер* .
 
 Единственным параметром транспорта, который сейчас определяет, является возможность получения **\_ \_ уведомлений \_ в режиме реального времени** на сокете TCP.
 
-Если в [**TRANSPORT_SETTING_ID**](/windows/desktop/api/mstcpip/ns-mstcpip-transport_setting_id) , переданном в параметре *лпвинбуффер* , для элемента GUID задана **\_ \_ \_ возможность уведомления в режиме реального времени**, это запрос на запрос параметров уведомлений в режиме реального времени для сокета TCP, используемого с [**Контролчаннелтригжер**](/uwp/api/Windows.Networking.Sockets.ControlChannelTrigger) , для получения фоновых сетевых уведомлений в приложении Магазина Windows.
+если в [**TRANSPORT_SETTING_ID**](/windows/desktop/api/mstcpip/ns-mstcpip-transport_setting_id) , переданном в параметре *лпвинбуффер* , для элемента Guid задана **\_ \_ \_ возможность уведомления в режиме реального времени**, это запрос на запрос параметров уведомлений в режиме реального времени для сокета TCP, используемого с [**контролчаннелтригжер**](/uwp/api/Windows.Networking.Sockets.ControlChannelTrigger) , для получения фоновых уведомлений в приложении магазина Windows.
 Параметр *лпвинбуффер* должен указывать на структуру [**TRANSPORT_SETTING_ID**](/windows/desktop/api/mstcpip/ns-mstcpip-transport_setting_id) .
 Параметр *лпваутбуффер* должен указывать на **\_ \_ \_ \_ выходную структуру параметра уведомления в режиме реального времени** .
 Этот параметр транспорта применяется только к сокетам TCP.
 Этот параметр транспорта предоставляет WinInet или подобным сетевым службам запрос на заданный TCP-сокет для определения состояния [**контролчаннелтригжер**](/uwp/api/Windows.Networking.Sockets.ControlChannelTrigger) .
-Приложение Магазина Windows не будет вызывать этот запрос IOCTL напрямую.
+приложение магазина Windows не будет вызывать этот запрос IOCTL напрямую.
 При успешном вызове [**всаиоктл**](/windows/desktop/api/winsock2/nf-winsock2-wsaioctl) или **ВСПИОКТЛ** этот запрос IOCTL возвращает **\_ \_ \_ \_ выходную структуру параметра уведомления в режиме реального времени** с текущим состоянием.
 
 **\_ \_ \_ Параметр передачи запросов SIO** позволяет службе WinInet или подобным сетевым службам запрашивать состояние параметра транспорта для данного TCP-сокета, чтобы определить, включен ли [**контролчаннелтригжер**](/uwp/api/Windows.Networking.Sockets.ControlChannelTrigger) на сокете.
-Приложение Магазина Windows не будет вызывать этот запрос IOCTL напрямую.
+приложение магазина Windows не будет вызывать этот запрос IOCTL напрямую.
 
 Этот запрос IOCTL применяется только к сокетам TCP.
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 [**CONTROL_CHANNEL_TRIGGER_STATUS**](/windows/desktop/api/mstcpip/ne-mstcpip-control_channel_trigger_status)
 

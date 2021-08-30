@@ -3,7 +3,7 @@ title: Сообщение TCM_GETITEMRECT (Коммктрл. h)
 description: Извлекает ограничивающий прямоугольник для вкладки в элементе управления "Вкладка". Это сообщение можно отправить явным образом или с помощью \_ макроса табктрл жетитемрект.
 ms.assetid: 6abd8cdf-5f19-4b7e-800e-970097bc891b
 keywords:
-- Элементы управления Windows для TCM_GETITEMRECT сообщений
+- элементы управления Windows сообщений TCM_GETITEMRECT
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: aa6c214efbeeaf58d1ff3def9f50f10011b41dfc
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 0a1a8a018cf63247831e07d0b4f1a64dd1469f96dd679409480e097712bb027d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103892533"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120060954"
 ---
 # <a name="tcm_getitemrect-message"></a>\_Сообщение ЖЕТИТЕМРЕКТ TCM
 
@@ -47,15 +47,15 @@ ms.locfileid: "103892533"
 
 Возвращает **значение true** , если успешно, или **false** в противном случае.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

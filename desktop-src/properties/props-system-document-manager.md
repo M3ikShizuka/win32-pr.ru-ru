@@ -4,12 +4,12 @@ ms.assetid: 21b75af5-b53a-430c-9f6c-9296159bec89
 title: System.Docумент. Configuration
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 42773462ea3f996f6020152fcc00abe9f07bae78
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 9fd4b3d50149709324ed42c4a5091c4e3ea2bed3f395aef5fa9a17925dcfb2eb
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108114812"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120059264"
 ---
 # <a name="systemdocumentmanager"></a>System.Docумент. Configuration
 
@@ -32,7 +32,7 @@ propertyDescription
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

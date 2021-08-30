@@ -1,35 +1,35 @@
 ---
-title: Размещение элемента управления ActiveX без окна модели автоматизации пользовательского интерфейса
-description: Узнайте, как создать контейнер элементов управления, который может размещать элементы управления Microsoft ActiveX без окон, реализующие автоматизацию пользовательского интерфейса Майкрософт.
+title: размещение элемента управления ActiveX без окна модели автоматизации пользовательского интерфейса
+description: узнайте, как создать контейнер элементов управления, который может размещать безоконные элементы управления microsoft ActiveX, реализующие автоматизацию пользовательского интерфейса майкрософт.
 ms.assetid: A0F82968-F434-4F5E-8052-CF7CE65DB120
 keywords:
-- Модель автоматизации пользовательского интерфейса, безоконный элемент управления ActiveX
-- Безоконный элемент управления ActiveX, модель автоматизации пользовательского интерфейса
+- модель автоматизации пользовательского интерфейса, безоконный элемент управления ActiveX
+- безоконный контроль ActiveX, автоматизация пользовательского интерфейса
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 77026d923ea6f0d2536cbd6a94966ec858443258
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: c8f39983bc5252aabb9eb58dfcfd117fe8e07297e5545f0596fec777ab6f2e64
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104337681"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120122174"
 ---
-# <a name="host-a-ui-automation-windowless-activex-control"></a>Размещение элемента управления ActiveX без окна модели автоматизации пользовательского интерфейса
+# <a name="host-a-ui-automation-windowless-activex-control"></a>размещение элемента управления ActiveX без окна модели автоматизации пользовательского интерфейса
 
-Узнайте, как создать контейнер элементов управления, который может размещать элементы управления Microsoft ActiveX без окон, реализующие автоматизацию пользовательского интерфейса Майкрософт. С помощью описанных здесь действий можно убедиться, что любые элементы управления без окон автоматизации пользовательского интерфейса, размещенные в контейнере управления, доступны для клиентских приложений с поддержкой специальных возможностей (AT).
+узнайте, как создать контейнер элементов управления, который может размещать безоконные элементы управления microsoft ActiveX, реализующие автоматизацию пользовательского интерфейса майкрософт. С помощью описанных здесь действий можно убедиться, что любые элементы управления без окон автоматизации пользовательского интерфейса, размещенные в контейнере управления, доступны для клиентских приложений с поддержкой специальных возможностей (AT).
 
-## <a name="what-you-need-to-know"></a>Что необходимо знать
+## <a name="what-you-need-to-know"></a>Это важно знать
 
 ### <a name="technologies"></a>Технологии
 
 -   [Элементы управления ActiveX](/windows/desktop/com/activex-controls)
 -   [Модель автоматизации пользовательского интерфейса](entry-uiauto-win32.md)
 
-### <a name="prerequisites"></a>Предварительные условия
+### <a name="prerequisites"></a>Предварительные требования
 
 -   C/C++
 -   Программирование Microsoft Win32 и объектной модели компонентов (COM)
--   Элементы управления ActiveX без окон
+-   безоконные элементы управления ActiveX
 -   Поставщики автоматизации пользовательского интерфейса
 
 ## <a name="instructions"></a>Инструкции
@@ -141,18 +141,18 @@ ms.locfileid: "104337681"
 
 ### <a name="step-3-optional-implement-the-irawelementproviderhostingaccessibles-interface"></a>Шаг 3. необязательно. Реализация интерфейса Иравелементпровидерхостингакцессиблес.
 
-Реализуйте интерфейс [**иравелементпровидерхостингакцессиблес**](/windows/desktop/api/uiautomationcore/nn-uiautomationcore-irawelementproviderhostingaccessibles) , если контейнер элемента управления имеет реализацию поставщика автоматизации пользовательского интерфейса, которая является корнем дерева специальных возможностей, включающего элементы управления ActiveX без окон, поддерживающие Microsoft Active Accessibility. Интерфейс **иравелементпровидерхостингакцессиблес** содержит один метод [**жетембеддедакцессиблес**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-irawelementproviderhostingaccessibles-getembeddedaccessibles), который получает указатели интерфейса [**IAccessible**](/windows/desktop/api/oleacc/nn-oleacc-iaccessible) всех безоконных элементов управления ActiveX, работающих в Microsoft Active Accessibility, размещенных в контейнере элементов управления.
+реализуйте интерфейс [**иравелементпровидерхостингакцессиблес**](/windows/desktop/api/uiautomationcore/nn-uiautomationcore-irawelementproviderhostingaccessibles) , если контейнер элемента управления имеет реализацию поставщика автоматизации пользовательского интерфейса, которая является корнем дерева специальных возможностей, включающего элементы управления ActiveX без окон, поддерживающие Microsoft Active Accessibility. интерфейс **иравелементпровидерхостингакцессиблес** содержит один метод [**жетембеддедакцессиблес**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-irawelementproviderhostingaccessibles-getembeddedaccessibles), который получает указатели на интерфейсы [**IAccessible**](/windows/desktop/api/oleacc/nn-oleacc-iaccessible) всех элементов управления ActiveX, работающих на основе Microsoft Active Accessibility, размещенных в контейнере элементов управления.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
-[Размещение элемента управления ActiveX без окна MSAA](host-an-msaa-windowless-activex-control.md)
+[размещение элемента управления ActiveX без окна MSAA](host-an-msaa-windowless-activex-control.md)
 </dt> <dt>
 
-[Специальные возможности элемента управления ActiveX без окон](windowless-activex-control-accessibility.md)
+[специальные возможности элемента управления ActiveX без окон](windowless-activex-control-accessibility.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: b5c17fe1dd9f3457a4104178e61af3589ba9f72d
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.openlocfilehash: 738eaca371055d8162df38bc3ed8bce669fdb3abede59c76b47223d03876aa12
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "104547562"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120118314"
 ---
 # <a name="processtritessfactorsmax-function"></a>Функция Процесстритессфакторсмакс
 
@@ -89,7 +89,7 @@ void ProcessTriTessFactorsMax(
 
 Эта функция не возвращает значение.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Формирует исправленные коэффициенты тесселяции для трехуровневого обновления, вычисляя внутренний фактор тесселяции в качестве максимального значения факторов тесселяции краев, которые затем масштабируются по Инсидескале. Затем результат округляется в зависимости от режима секционирования, но неокругленные результаты доступны с помощью параметра Унраундединсидетессфактор.
 
@@ -101,7 +101,7 @@ void ProcessTriTessFactorsMax(
 
 | Модель шейдера                                                                | Поддерживается |
 |-----------------------------------------------------------------------------|-----------|
-| [Модели шейдера 5](d3d11-graphics-reference-sm5.md) и более поздних моделей шейдеров | да       |
+| [Модели шейдера 5](d3d11-graphics-reference-sm5.md) и более поздних моделей шейдеров | Да       |
 
 
 
@@ -119,7 +119,7 @@ void ProcessTriTessFactorsMax(
 
  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

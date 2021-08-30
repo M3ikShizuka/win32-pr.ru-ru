@@ -18,12 +18,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3ad0e459a91e88573515128ca37033768f7839ee
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 81cf24e08b8d6c485d08341769391061261b388b7a69c8e887fa094dfd1f03b5
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104491634"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120125664"
 ---
 # <a name="imsrdpdevicev2isoptionaldevice-property"></a>Свойство IMsRdpDeviceV2:: Исоптионалдевице
 
@@ -60,7 +60,7 @@ HRESULT get_IsOptionalDevice(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

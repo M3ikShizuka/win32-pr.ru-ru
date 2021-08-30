@@ -4,12 +4,12 @@ ms.assetid: 0cc40312-2298-4611-b60f-e0222ef793c3
 title: System.Docумент. Бюллетеня
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a7295b73b947d4423f5eae2f4df6e8cfeea4b826
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 6f42915f8fdf456162bae6242d91fbe0d12bfcfcb63a66c7e72ac3ab65b2d349
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105711893"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120059184"
 ---
 # <a name="systemdocumentsecurity"></a>System.Docумент. Бюллетеня
 
@@ -31,11 +31,11 @@ propertyDescription
       IsInnate = true
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

@@ -5,12 +5,12 @@ ms.assetid: 76E76C85-128E-4F0E-9711-C72C4CF6C835
 ms.localizationpriority: low
 ms.topic: article
 ms.date: 09/19/2019
-ms.openlocfilehash: 31cac62c8dfa6b1126d8ff2a7c134490c0c58038
-ms.sourcegitcommit: 5a78723ad484955ac91a23cf282cf9c176c1eab6
+ms.openlocfilehash: b7991584cb72c147c65166622099b9d113d5f22f
+ms.sourcegitcommit: 0dec0044816af3f2b2e6403659e1cf11138c90cd
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114436229"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "121812925"
 ---
 # <a name="core-enumerations"></a>Базовые перечисления
 
@@ -95,6 +95,7 @@ ms.locfileid: "114436229"
 | [**D3D12_RAYTRACING_GEOMETRY_FLAGS**](/windows/win32/api/d3d12/ne-d3d12-d3d12_raytracing_geometry_flags). Задает флаги для райтраЦинг Geometry в структуре [**D3D12_RAYTRACING_GEOMETRY_DESC**](/windows/win32/api/d3d12/ns-d3d12-d3d12_raytracing_geometry_desc) . |
 | [**D3D12_RAYTRACING_GEOMETRY_TYPE**](/windows/win32/api/d3d12/ne-d3d12-d3d12_raytracing_geometry_type). Указывает тип геометрии, используемый для райтраЦинг. Используйте значение из этого перечисления, чтобы указать тип геометрии в [**D3D12_RAYTRACING_GEOMETRY_DESC**](/windows/win32/api/d3d12/ns-d3d12-d3d12_raytracing_geometry_desc). |
 | [**D3D12_RAYTRACING_INSTANCE_FLAGS**](/windows/win32/api/d3d12/ne-d3d12-d3d12_raytracing_instance_flags). Флаги для экземпляра структуры ускорения райтраЦинг. Эти флаги можно использовать для переопределения [**D3D12_RAYTRACING_GEOMETRY_FLAGS**](/windows/win32/api/d3d12/ne-d3d12-d3d12_raytracing_geometry_flags) для отдельных экземпляров. |
+| [**D3D12_RAYTRACING_PIPELINE_FLAGS**](/windows/win32/api/d3d12/ne-d3d12-d3d12_raytracing_pipeline_flags). Определяет константы, определяющие флаги конфигурации для конвейера райтраЦинг. |
 | [**D3D12_RAYTRACING_TIER**](/windows/win32/api/d3d12/ne-d3d12-d3d12_raytracing_tier). Задает уровень поддержки трассировки лучей на графическом устройстве. |
 | [**D3D12_RENDER_PASS_BEGINNING_ACCESS_TYPE**](/windows/win32/api/d3d12/ne-d3d12-d3d12_render_pass_beginning_access_type). Указывает тип доступа, присваиваемый приложению указанным ресурсам при переходе в проход визуализации. |
 | [**D3D12_RENDER_PASS_ENDING_ACCESS_TYPE**](/windows/win32/api/d3d12/ne-d3d12-d3d12_render_pass_ending_access_type). Указывает тип доступа, присваиваемый приложению указанным ресурсам при переходе с этапа прорисовки. |
@@ -114,6 +115,10 @@ ms.locfileid: "114436229"
 | [**D3D12_ROOT_SIGNATURE_FLAGS**](/windows/win32/api/d3d12/ne-d3d12-d3d12_root_signature_flags). Задает параметры для макета корневой подписи.  |
 | [**D3D12_RTV_DIMENSION**](/windows/win32/api/d3d12/ne-d3d12-d3d12_rtv_dimension). Определяет тип ресурса для просмотра в качестве целевого объекта отрисовки. |
 | [**D3D12_SAMPLER_FEEDBACK_TIER**](/windows/win32/api/d3d12/ne-d3d12-d3d12_sampler_feedback_tier). Определяет константы, определяющие поддержку отзывов по образцам. |
+| [**D3D12_SHADER_CACHE_CONTROL_FLAGS**](/windows/win32/api/d3d12/ne-d3d12-d3d12_shader_cache_control_flags). Определяет константы, определяющие параметры управления кэшем шейдера. |
+| [**D3D12_SHADER_CACHE_FLAGS**](/windows/win32/api/d3d12/ne-d3d12-d3d12_shader_cache_flags). Определяет константы, указывающие флаги кэша шейдера. |
+| [**D3D12_SHADER_CACHE_KIND_FLAGS**](/windows/win32/api/d3d12/ne-d3d12-d3d12_shader_cache_kind_flags). Определяет константы, указывающие разновидность кэша шейдера. |
+| [**D3D12_SHADER_CACHE_MODE**](/windows/win32/api/d3d12/ne-d3d12-d3d12_shader_cache_mode). Определяет константы, указывающие режим кэша шейдера. |
 | [**D3D12_SHADER_CACHE_SUPPORT_FLAGS**](/windows/win32/api/d3d12/ne-d3d12-d3d12_shader_cache_support_flags). Описывает уровень поддержки кэширования шейдеров в текущем графическом драйвере. |
 | [**D3D12_SHADER_COMPONENT_MAPPING**](/windows/win32/api/d3d12/ne-d3d12-d3d12_shader_component_mapping). Указывает, как направляется память с помощью представления ресурсов шейдера (SRV).  |
 | [**D3D12_SHADER_MIN_PRECISION_SUPPORT**](/windows/win32/api/d3d12/ne-d3d12-d3d12_shader_min_precision_support). Описывает параметры минимальной точности для шейдеров в текущем графическом драйвере.  |
@@ -135,7 +140,7 @@ ms.locfileid: "114436229"
 | [**D3D12_WAVE_MMA_TIER**](/windows/win32/api/d3d12/ne-d3d12-d3d12_wave_mma_tier). Определяет константы, которые задают уровень поддержки для операций Вавемма (wave_matrix). |
 | [**D3D12_WRITEBUFFERIMMEDIATE_MODE**](/windows/win32/api/d3d12/ne-d3d12-d3d12_writebufferimmediate_mode). Указывает режим, используемый операцией **вритебуффериммедиате** . |
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 * [Справочник по коду](direct3d-12-core-reference.md)
 * [Справочник по Direct3D 12](direct3d-12-reference.md)

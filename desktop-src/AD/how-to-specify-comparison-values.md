@@ -7,12 +7,12 @@ keywords:
 - Как задать значения для сравнения в AD
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b5babc7d9781895c9671594214e4e036a85ef951cdb4b97ba34d708d160dd8fc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b847f681be876ff768a51a9f5da875cb653faa51
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118188125"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122881391"
 ---
 # <a name="how-to-specify-comparison-values"></a>Как указать значения для сравнения
 
@@ -59,7 +59,7 @@ ms.locfileid: "118188125"
 
 
 
-" <attribute name> " является атрибутом **lDAPDisplayName** атрибута и "<value>"— значение, используемое для сравнения.
+" <attribute name> " является атрибутом **lDAPDisplayName** атрибута, а " &lt; value &gt; " — значением, используемым для сравнения.
 
 В следующем примере кода показан фильтр, который будет искать объекты, имеющие значение **groupType** , равное флагу **\_ \_ \_ универсальной \_ группы AD** (8), и флагу **\_ безопасности группы баннеров \_ \_ \_ Enabled** (0x80000000). Два флага объединены равными 0x80000008, которые преобразовываются в Decimal, — 2147483656.
 

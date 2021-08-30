@@ -17,12 +17,12 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 1407af6cd1b9d9f3580c0721c37e5b54811f813c
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 557349bd52ee08fefe38fdc883c5b46c76ec2acb
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "104495273"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122625920"
 ---
 # <a name="span-idvspixenginedescriptor_heap_columnsspandescriptor_heap_columns-enumeration"></a><span id="vspixengine.descriptor_heap_columns"></span>\_Перечисление столбцов КУЧИ дескрипторов \_
 
@@ -153,7 +153,7 @@ ms.locfileid: "104495273"
 
 ## <a name="requirements"></a>Требования
 
-<table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td><p>Header</p></td><td>Вспиксенгине. h</td></tr></tbody></table>
+<table><colgroup><col  /><col  /></colgroup><tbody><tr class="odd"><td><p>Заголовок</p></td><td>Вспиксенгине. h</td></tr></tbody></table>
 
  
 

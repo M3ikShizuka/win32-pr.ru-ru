@@ -13,12 +13,12 @@ api_type: ''
 api_location: ''
 topic_type:
 - kbArticle
-ms.openlocfilehash: 0a86fa7b14aaac5a8f2f0cd969d1958728acc090
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 09ee70089a2e3c064213cbed5506324b1683d937
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "103805722"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122623090"
 ---
 # <a name="span-idvspixenginevspixengine_referencespandirect3d-diagnostics-capture-interface-reference"></a><span id="vspixengine.vspixengine_reference"></span>Справочник по интерфейсу для захвата диагностики Direct3D
 
@@ -26,7 +26,7 @@ ms.locfileid: "103805722"
 
 ## <a name="span-idin_this_sectionspanin-this-section"></a><span id="in_this_section"></span>В этом разделе
 
-<table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th>Раздел</th><th>Описание</th></tr></thead><tbody><tr class="odd"><td><p><a href="vspixengine-interfaces.md">Интерфейсы интерфейса захвата диагностики Direct3D</a></p></td><td><p>Следующие интерфейсы объявляются в вспиксенгине. h.</p></td></tr><tr class="even"><td><p><a href="vspixengine-structures.md">Структуры интерфейса захвата диагностики Direct3D</a></p></td><td><p>Следующие структуры объявляются в вспиксенгине. h.</p></td></tr><tr class="odd"><td><p><a href="vspixengine-enumerations.md">Перечисления интерфейса записи диагностики Direct3D</a></p></td><td><p>Следующие перечисления объявляются в вспиксенгине. h.</p></td></tr></tbody></table>
+<table><colgroup><col  /><col  /></colgroup><thead><tr class="header"><th>Раздел</th><th>Описание</th></tr></thead><tbody><tr class="odd"><td><p><a href="vspixengine-interfaces.md">Интерфейсы интерфейса захвата диагностики Direct3D</a></p></td><td><p>Следующие интерфейсы объявляются в вспиксенгине. h.</p></td></tr><tr class="even"><td><p><a href="vspixengine-structures.md">Структуры интерфейса захвата диагностики Direct3D</a></p></td><td><p>Следующие структуры объявляются в вспиксенгине. h.</p></td></tr><tr class="odd"><td><p><a href="vspixengine-enumerations.md">Перечисления интерфейса записи диагностики Direct3D</a></p></td><td><p>Следующие перечисления объявляются в вспиксенгине. h.</p></td></tr></tbody></table>
 
  
 

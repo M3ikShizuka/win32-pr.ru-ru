@@ -4,12 +4,12 @@ ms.assetid: cbc449b1-9f1d-42a2-b39e-d5cd69c052df
 title: БЛИЖАЙШЕе условие
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4676ec8af80f674ca0b8124d8b4f941d0d6f4936
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: c43d6e3554722ebeb65d2789d07adb521177a986
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104342955"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122631822"
 ---
 # <a name="near-term"></a>БЛИЖАЙШЕе условие
 
@@ -40,9 +40,9 @@ ms.locfileid: "104342955"
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col  />
+<col  />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -58,7 +58,7 @@ ms.locfileid: "104342955"
 <td><span data-codelanguage=""></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -75,7 +75,7 @@ ms.locfileid: "104342955"
 <span data-codelanguage=""></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -93,7 +93,7 @@ ms.locfileid: "104342955"
 <span data-codelanguage=""></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <tbody>
 <tr class="odd">

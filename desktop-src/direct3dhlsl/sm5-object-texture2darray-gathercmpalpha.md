@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 42f11131ebf377ddc64be5309c3edf77214ddd4b
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.openlocfilehash: aa91a1e86cbcb8d9a931b6b761c544833dd027f7d8592e0827da060fea501bdf
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "104353762"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120067594"
 ---
 # <a name="texture2darraygathercmpalphasfloatfloatint-function"></a>Функция Texture2DArray:: Гасеркмпалфа (S, float, float, int)
 
@@ -81,7 +81,7 @@ float4 GatherCmpAlpha(
 
 Значение из четырех компонентов, каждый компонент которого является результатом сравнения каждого компонента.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Примеры текстур можно использовать для интерполяции билинейной.
 
@@ -97,7 +97,7 @@ float4 GatherCmpAlpha(
 
  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: d591af2e-d47d-4220-a4f6-968f2ac45284
 title: Атрибут EVRConfig_AllowDropToThrottle (UUIDs. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 97cbab6fae6644b3c0187d09edb59ab2538012e6
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: bab11159141e1e3ef0f019b0f56f884e02b329d40765bdf01e49962936513e75
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104072564"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120061604"
 ---
 # <a name="evrconfig_allowdroptothrottle-attribute"></a>Еврконфиг \_ алловдроптосроттле, атрибут
 
@@ -25,7 +25,7 @@ ms.locfileid: "104072564"
 
 Чтобы задать этот атрибут, вызовите [**имфаттрибутес:: SetUINT32**](/windows/desktop/api/mfobjects/nf-mfobjects-imfattributes-setuint32).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот атрибут можно задать в приемнике носителей Евр. Чтобы задать атрибут, используйте **QueryInterface** , чтобы запросить приемник мультимедиа Евр для интерфейса [**имфаттрибутес**](/windows/desktop/api/mfobjects/nn-mfobjects-imfattributes) .
 
@@ -33,19 +33,19 @@ ms.locfileid: "104072564"
 
 Константа GUID для этого атрибута экспортируется из стрмиидс. lib.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 7\]<br/>                                         |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2008 R2 \[\]<br/>                            |
-| Header<br/>                   | <dl> <dt>UUID. h</dt> </dl> |
+| Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                         |
+| Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/>                            |
+| Заголовок<br/>                   | <dl> <dt>UUID. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 05bd6cae-68b2-49ce-ad4f-e395ec88407a
 title: System. Link. Таржетпарсингпас
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d1414947b988422c0ff37afda4bd55c80ffc9832
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 69196ca35f197178a148b5a5c202df39ea1bdc200732b3e1e1979a57b9dc3e55
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105711875"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120090964"
 ---
 # <a name="systemlinktargetparsingpath"></a>System. Link. Таржетпарсингпас
 
@@ -31,13 +31,13 @@ propertyDescription
       IsInnate = true
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
 Этот путь можно передать в [**шпарседисплайнаме**](/windows/win32/api/shlobj_core/nf-shlobj_core-shparsedisplayname) , чтобы выполнить синтаксический анализ пути в соответствующую папку оболочки. Если целевой элемент является файлом, значение идентично значению [System. итемпасдисплай](./props-system-itempathdisplay.md). Если целевой элемент недоступен через пространство имен оболочки, это значение является VT \_ пустым.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

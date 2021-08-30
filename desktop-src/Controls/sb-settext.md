@@ -3,7 +3,7 @@ title: Сообщение SB_SETTEXT (Коммктрл. h)
 description: Задает текст в указанной части окна состояния.
 ms.assetid: 6039a61c-6ec6-42cd-94d5-5f1cf2998586
 keywords:
-- Элементы управления Windows для SB_SETTEXT сообщений
+- элементы управления Windows сообщений SB_SETTEXT
 topic_type:
 - apiref
 api_name:
@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a466187b4ccd00a974b992eacec11938f45001da
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: c8a8ddf0ee02f88b468b0911e64b5308cc2e8784
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104136823"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122479740"
 ---
 # <a name="sb_settext-message"></a>\_Сообщение SB SETTEXT
 
@@ -42,49 +42,16 @@ ms.locfileid: "104136823"
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Значение</th>
-<th>Значение</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><span id="0"></span><dl> <dt><strong>0,0</strong></dt> </dl></td>
-<td>Текст отображается с границей, которая отображается ниже плоскости окна.<br/></td>
-</tr>
-<tr class="even">
-<td><span id="SBT_NOBORDERS"></span><span id="sbt_noborders"></span><dl> <dt><strong>SBT_NOBORDERS</strong></dt> </dl></td>
-<td>Текст отображается без границ.<br/></td>
-</tr>
-<tr class="odd">
-<td><span id="SBT_OWNERDRAW"></span><span id="sbt_ownerdraw"></span><dl> <dt><strong>SBT_OWNERDRAW</strong></dt> </dl></td>
-<td>Текст рисуется родительским окном. <br/>
-<blockquote>
-[!Note]<br />
-Строка состояния простого режима не поддерживает рисование владельцем.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="even">
-<td><span id="SBT_POPOUT"></span><span id="sbt_popout"></span><dl> <dt><strong>SBT_POPOUT</strong></dt> </dl></td>
-<td>Текст отображается с границей, которая отображается выше плоскости окна.<br/></td>
-</tr>
-<tr class="odd">
-<td><span id="SBT_RTLREADING"></span><span id="sbt_rtlreading"></span><dl> <dt><strong>SBT_RTLREADING</strong></dt> </dl></td>
-<td>Текст будет отображаться в обратном направлении к тексту в родительском окне.<br/></td>
-</tr>
-<tr class="even">
-<td><span id="SBT_NOTABPARSING"></span><span id="sbt_notabparsing"></span><dl> <dt><strong>SBT_NOTABPARSING</strong></dt> </dl></td>
-<td>Символы табуляции игнорируются.<br/></td>
-</tr>
-</tbody>
-</table>
+
+| Значение | Значение | 
+|-------|---------|
+| <span id="0"></span><dl><dt><strong>0</strong></dt></dl> | Текст отображается с границей, которая отображается ниже плоскости окна.<br /> | 
+| <span id="SBT_NOBORDERS"></span><span id="sbt_noborders"></span><dl><dt><strong>SBT_NOBORDERS</strong></dt></dl> | Текст отображается без границ.<br /> | 
+| <span id="SBT_OWNERDRAW"></span><span id="sbt_ownerdraw"></span><dl><dt><strong>SBT_OWNERDRAW</strong></dt></dl> | Текст рисуется родительским окном. <br /><blockquote>[!Note]<br />Строка состояния простого режима не поддерживает рисование владельцем.</blockquote><br /> | 
+| <span id="SBT_POPOUT"></span><span id="sbt_popout"></span><dl><dt><strong>SBT_POPOUT</strong></dt></dl> | Текст отображается с границей, которая отображается выше плоскости окна.<br /> | 
+| <span id="SBT_RTLREADING"></span><span id="sbt_rtlreading"></span><dl><dt><strong>SBT_RTLREADING</strong></dt></dl> | Текст будет отображаться в обратном направлении к тексту в родительском окне.<br /> | 
+| <span id="SBT_NOTABPARSING"></span><span id="sbt_notabparsing"></span><dl><dt><strong>SBT_NOTABPARSING</strong></dt></dl> | Символы табуляции игнорируются.<br /> | 
+
 
 
 
@@ -107,7 +74,7 @@ ms.locfileid: "104136823"
 
 Сообщение сделает недействительным измененную часть окна, что привело бы к отображению нового текста, когда окно затем получит сообщение [**WM \_ Paint**](/windows/desktop/gdi/wm-paint) .
 
-Нормальный отображаемый текст Windows слева направо (LTR). Windows может быть *зеркальным* отображением таких языков, как иврит или арабский, которые читаются справа налево. Если задан параметр SBT \_ RTLREADING, строка *lParam* будет считаться в обратном направлении от текста в родительском окне.
+Нормальный отображаемый текст Windows слева направо (LTR). Windows могут быть *отражены* для отображения таких языков, как иврит или арабский, которые читаются справа налево. Если задан параметр SBT \_ RTLREADING, строка *lParam* будет считаться в обратном направлении от текста в родительском окне.
 
 ## <a name="requirements"></a>Требования
 
@@ -115,14 +82,14 @@ ms.locfileid: "104136823"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 | Имя в кодировке Юникод и ANSI<br/>   | **SB \_ СЕТТЕКСТВ** (Юникод) и **SB \_ сеттекста** (ANSI)<br/>                     |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

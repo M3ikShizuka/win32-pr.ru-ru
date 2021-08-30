@@ -17,18 +17,18 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 62c3d926bb6020931c90ce2abc6ed36c0015c31d
-ms.sourcegitcommit: 4e94fc75fad7b2a0f3c92a26f97e89924e59b7a9
+ms.openlocfilehash: abdf5aee2cbb2a381c25877ddfe778b666bcf3cb
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "122787280"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122627380"
 ---
 # <a name="span-idvspixengineisummarycallbackspanisummarycallback-interface"></a><span id="vspixengine.isummarycallback"></span>Интерфейс Исуммарикаллбакк
 
 Обратный вызов для возврата сводных данных (отображается в окне "Свойства").
 
-## <a name="members"></a>Элементы
+## <a name="members"></a>Участники
 
 Интерфейс **исуммарикаллбакк** наследует от интерфейса [**IUnknown**](/windows/desktop/api/unknwn/nn-unknwn-iunknown) . **Исуммарикаллбакк** также имеет следующие типы членов:
 
@@ -38,7 +38,7 @@ ms.locfileid: "122787280"
 
 Интерфейс **исуммарикаллбакк** содержит следующие методы.
 
-<table><colgroup><col  /><col  /></colgroup><thead><tr class="header"><th >Метод</th><th >Описание</th></tr></thead><tbody><tr class="odd"><td ><a href="/windows/desktop/direct3dtools/isummarycallback-resultcallback-dword-summaryitem-arr"><strong>ресулткаллбакк</strong></a></td><td ><p>Функция обратного вызова, используемая для уведомления узла о сводных данных журнала графики.</p></td></tr></tbody></table>
+<table><colgroup><col  /><col  /></colgroup><thead><tr class="header"><th style="text-align: left;">Метод</th><th style="text-align: left;">Описание</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><a href="/windows/desktop/direct3dtools/isummarycallback-resultcallback-dword-summaryitem-arr"><strong>ресулткаллбакк</strong></a></td><td style="text-align: left;"><p>Функция обратного вызова, используемая для уведомления узла о сводных данных журнала графики.</p></td></tr></tbody></table>
 
  
 

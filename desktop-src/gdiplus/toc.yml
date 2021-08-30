@@ -258,7 +258,7 @@
               href: '-gdiplus-displaying-a-print-dialog-box-use.md'
             - name: Оптимизация печати через дескриптор принтера
               href: '-gdiplus-optimizing-printing-by-providing-a-printer-handle-use.md'
-    - name: Справочник по GDI+
+    - name: GDI+ IsReference
       href: '-gdiplus-class-gdi-reference.md'
       items:
         - name: Обратный вызов Дебужевентпрок
@@ -438,7 +438,7 @@
                       href: /windows/win32/api/gdiplustypes/nf-gdiplustypes-characterrange-characterrange(int_int)
                 - name: operator=
                   href: /windows/win32/api/gdiplustypes/nf-gdiplustypes-characterrange-operator-assign
-            - name: Цвет
+            - name: Color
               href: /windows/win32/api/gdipluscolor/nl-gdipluscolor-color
               items:
                 - name: Конструктор с перегруженным цветом
@@ -1464,7 +1464,7 @@
                       href: /windows/win32/api/gdipluseffects/nf-gdipluseffects-huesaturationlightness-getparameters
                     - name: SetParameters
                       href: /windows/win32/api/gdipluseffects/nf-gdipluseffects-huesaturationlightness-setparameters
-            - name: "Образ\_—"
+            - name: Образ
               href: /windows/win32/api/gdiplusheaders/nl-gdiplusheaders-image
               items:
                 - name: Перегруженный конструктор изображения
@@ -2296,7 +2296,7 @@
                       href: /windows/win32/api/gdipluseffects/nf-gdipluseffects-redeyecorrection-getparameters
                     - name: SetParameters
                       href: /windows/win32/api/gdipluseffects/nf-gdipluseffects-redeyecorrection-setparameters
-            - name: Region
+            - name: Регион
               href: /windows/win32/api/gdiplusheaders/nl-gdiplusheaders-region
               items:
                 - name: Перегруженный конструктор Region
@@ -2784,7 +2784,7 @@
               href: /windows/win32/api/gdiplusenums/ne-gdiplusenums-stringtrimming
             - name: текстрендерингхинт
               href: /windows/win32/api/gdiplusenums/ne-gdiplusenums-textrenderinghint
-            - name: Unit
+            - name: Единица измерения
               href: /windows/win32/api/gdiplusenums/ne-gdiplusenums-unit
             - name: варпмоде
               href: /windows/win32/api/gdiplusenums/ne-gdiplusenums-warpmode

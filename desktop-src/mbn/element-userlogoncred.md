@@ -16,12 +16,12 @@ api_location: ''
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: d28c0d275b722dbba6ebc1be3363cfa3e2f6d300
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.openlocfilehash: af4fd0c97c47f210d0a6112ebd2a3394ab442959
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122985397"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122475120"
 ---
 # <a name="span-idwwan_profile_v4element_userlogoncredspanmbnprofileextuserlogoncred-v4"></a><span id="WWAN_profile_v4.element_UserLogonCred"></span>Мбнпрофиликст \/ ... \/ Усерлогонкред (v4)
 
@@ -52,7 +52,7 @@ ms.locfileid: "122985397"
 </UserLogonCred>
 ```
 
-### <a name="key"></a>Ключ
+### <a name="key"></a>Клавиши
 
 `?`   необязательно (ноль или один)
 
@@ -60,7 +60,7 @@ ms.locfileid: "122985397"
 
 ### <a name="span-idattributesspanspan-idattributesspanattributes"></a><span id="attributes"></span><span id="ATTRIBUTES"></span>Атрибуты
 
-Отсутствует.
+Нет.
 
 ### <a name="span-idchild_elementsspanspan-idchild_elementsspanspan-idchild_elementsspanchild-elements"></a><span id="Child_Elements"></span><span id="child_elements"></span><span id="CHILD_ELEMENTS"></span>Дочерние элементы
 
@@ -87,9 +87,7 @@ ms.locfileid: "122985397"
 ## <a name="requirements"></a>Требования
 
 
-| Требование | Применение |
-|------------|----------|
-| <p>Пространство имен</p> | <p>https://www.microsoft.com/networking/WWAN/profile/v4</p> | 
+| | | <p>Пространство имен</p> | <p>https://www.microsoft.com/networking/WWAN/profile/v4</p> | 
 
 
  

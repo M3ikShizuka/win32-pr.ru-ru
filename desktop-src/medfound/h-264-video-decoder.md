@@ -4,12 +4,12 @@ ms.assetid: 783a3618-981a-4573-9e9e-ebf5eeb75d06
 title: Декодер видео H. 264
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 75c4713b1a4e36d1ba085b2239c24ca0f6e4fae0
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 4488328fed3fe6a46feabb7eac99761ee673c3f4
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104496794"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122468851"
 ---
 # <a name="h264-video-decoder"></a>Декодер видео H. 264
 
@@ -52,41 +52,14 @@ ms.locfileid: "104496794"
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>attribute</th>
-<th>Описание</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="mf-mt-frame-rate-attribute.md"><strong>MF_MT_FRAME_RATE</strong></a></td>
-<td>Частота кадров.</td>
-</tr>
-<tr class="even">
-<td><a href="mf-mt-frame-size-attribute.md"><strong>MF_MT_FRAME_SIZE</strong></a></td>
-<td>Размеры рамки.</td>
-</tr>
-<tr class="odd">
-<td><a href="mf-mt-interlace-mode-attribute.md"><strong>MF_MT_INTERLACE_MODE</strong></a></td>
-<td>Режим чередования.
-<blockquote>
-[!Note]<br />
-В видео H. 264 структура чересстрочную развертки может динамически изменяться, поэтому рекомендуемое значение этого атрибута — <strong>MFVideoInterlace_MixedInterlaceOrProgressive</strong>. Сведения о развертке в потоке простейшего видео имеют приоритет над типом носителя. Дополнительные сведения см. в статье <a href="video-interlacing.md">чередование видео</a>.
-</blockquote>
-<br/> <br/></td>
-</tr>
-<tr class="even">
-<td><a href="mf-mt-pixel-aspect-ratio-attribute.md"><strong>MF_MT_PIXEL_ASPECT_RATIO</strong></a></td>
-<td>Пропорция в пикселях.</td>
-</tr>
-</tbody>
-</table>
+
+| attribute | Описание | 
+|-----------|-------------|
+| <a href="mf-mt-frame-rate-attribute.md"><strong>MF_MT_FRAME_RATE</strong></a> | Частота кадров. | 
+| <a href="mf-mt-frame-size-attribute.md"><strong>MF_MT_FRAME_SIZE</strong></a> | Размеры рамки. | 
+| <a href="mf-mt-interlace-mode-attribute.md"><strong>MF_MT_INTERLACE_MODE</strong></a> | Режим чередования.<blockquote>[!Note]<br />В видео H. 264 структура чересстрочную развертки может динамически изменяться, поэтому рекомендуемое значение этого атрибута — <strong>MFVideoInterlace_MixedInterlaceOrProgressive</strong>. Сведения о развертке в потоке простейшего видео имеют приоритет над типом носителя. Дополнительные сведения см. в статье <a href="video-interlacing.md">чередование видео</a>.</blockquote><br /><br /> | 
+| <a href="mf-mt-pixel-aspect-ratio-attribute.md"><strong>MF_MT_PIXEL_ASPECT_RATIO</strong></a> | Пропорция в пикселях. | 
+
 
 
 
@@ -122,7 +95,7 @@ ms.locfileid: "104496794"
 
  
 
-В Windows 8 декодер H. 264 также поддерживает следующие атрибуты.
+в Windows 8 декодер H. 264 также поддерживает следующие атрибуты.
 
 
 
@@ -139,7 +112,7 @@ ms.locfileid: "104496794"
 
  
 
-В Windows 8 декодер H. 264 поддерживает интерфейс [**икодекапи**](/windows/win32/api/strmif/nn-strmif-icodecapi) . Этот интерфейс предоставляет API алтернативате для установки следующих свойств кодека.
+в Windows 8 декодер H. 264 поддерживает интерфейс [**икодекапи**](/windows/win32/api/strmif/nn-strmif-icodecapi) . Этот интерфейс предоставляет API алтернативате для установки следующих свойств кодека.
 
 -   [КОДЕКАПИ \_ авдеквидеомакскодедвидс](codecapi-avdecvideomaxcodedwidth.md)
 -   [КОДЕКАПИ \_ авдеквидеоакцелератион \_ H264 Single bitrate](../directshow/avdecvideoacceleration-h264-property.md)
@@ -153,39 +126,9 @@ ms.locfileid: "104496794"
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Профили и уровни</td>
-<td>Базовый, основной и высокий профили, вплоть до уровня 5,1. (Дополнительные сведения см. в спецификации ITU-T H. 264.)</td>
-</tr>
-<tr class="even">
-<td>Форматы чрома</td>
-<td>4:2:0 чрома или монохромный</td>
-</tr>
-<tr class="odd">
-<td>Минимальное разрешение</td>
-<td>48 × 48 пикселей</td>
-</tr>
-<tr class="even">
-<td>Максимальное разрешение</td>
-<td>4096 × 2304 пикселей<br/> Максимальное гарантированное разрешение для ускорения ДКСВА — 1920 × 1088 пикселей; при более высоком разрешении Декодирование выполняется с помощью ДКСВА, если оно поддерживается базовым оборудованием, в противном случае Декодирование выполняется с помощью программного обеспечения.<br/>
-<blockquote>
-[!Note]<br />
-В Windows 7 максимальное поддерживаемое разрешение составляет 1920 × 1088 пикселей как для программного обеспечения, так и для декодирования ДКСВА.
-</blockquote>
-<br/> <br/></td>
-</tr>
-<tr class="odd">
-<td>дксва</td>
-<td>Декодер поддерживает ДКСВА версии 2, но не ДКСВА версии 1. Декодирование ДКСВА поддерживается только для основных параметров, совместимых с базовым, главным и высоким профилями битстреамс. (Базовые битстреамс, совместимые с main, определяются как <strong>profile_idc</strong>= 66 и <strong>constrained_set1_flag</strong>= 1.)</td>
-</tr>
-</tbody>
-</table>
+
+| | | Профили и уровни | Базовый, основной и высокий профили, вплоть до уровня 5,1. (Дополнительные сведения см. в спецификации ITU-T H. 264.) | | Форматы чрома | 4:2:0 чрома или монохромный | | Минимальное разрешение | 48 × 48 пикселей | | Максимальное разрешение | 4096 × 2304 пикселей<br /> Максимальное гарантированное разрешение для ускорения ДКСВА — 1920 × 1088 пикселей; при более высоком разрешении Декодирование выполняется с помощью ДКСВА, если оно поддерживается базовым оборудованием, в противном случае Декодирование выполняется с помощью программного обеспечения.<br /><blockquote>[!Note]<br />в Windows 7 максимальное поддерживаемое разрешение составляет 1920 × 1088 пикселей как для программного обеспечения, так и для декодирования дксва.</blockquote><br /><br /> | | ДКСВА | Декодер поддерживает ДКСВА версии 2, но не ДКСВА версии 1. Декодирование ДКСВА поддерживается только для основных параметров, совместимых с базовым, главным и высоким профилями битстреамс. (Базовые битстреамс, совместимые с main, определяются как <strong>profile_idc</strong>= 66 и <strong>constrained_set1_flag</strong>= 1.) | 
+
 
 
 
@@ -196,11 +139,11 @@ ms.locfileid: "104496794"
 Декодер не поддерживает технологию зернистой пленки.
 
 > [!Note]  
-> Предыдущая версия документации неправильно объявила, что декодер поддерживается в Windows Server 2008 R2.
+> предыдущая версия документации неправильно объявила, что декодер поддерживается на Windows Server 2008 R2.
 
  
 
-Если установлено обновление платформы для Windows Vista, видеодекодер H. 264 доступен в Windows Vista, но доступен только в Windows Vista с помощью [средства чтения исходного кода](source-reader.md).
+если установлено обновление платформы для Windows Vista, видеодекодер H. 264 доступен в Windows Vista, но доступен только в Windows Vista только с помощью [модуля чтения исходного кода](source-reader.md).
 
 ## <a name="requirements"></a>Требования
 
@@ -208,13 +151,13 @@ ms.locfileid: "104496794"
 
 | Требование | Значение |
 |-------------------------------------|--------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 7\]<br/>                                                 |
+| Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                                 |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                  |
 | DLL<br/>                      | <dl> <dt>Msmpeg2vdec.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

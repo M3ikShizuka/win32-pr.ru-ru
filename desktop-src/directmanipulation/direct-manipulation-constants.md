@@ -4,12 +4,12 @@ ms.assetid: 41A828F5-4AE3-4073-89EB-CC1279B9ECED
 title: Константы прямой манипуляции
 ms.topic: article
 ms.date: 02/03/2020
-ms.openlocfilehash: 5040191f22e92dcfb8c2ca26edd4080cd4cbb2be
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: c99a9423eb84d2889307c4433ea5e6b8d941435710894116da3201b71b71ee8d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "105719240"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120094684"
 ---
 # <a name="direct-manipulation-constants"></a>Константы прямой манипуляции
 
@@ -25,8 +25,8 @@ ms.locfileid: "105719240"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 8\]<br/>                                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2012\]<br/>                                              |
+| Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                                        |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                              |
 | IDL<br/>                      | <dl> <dt>Директманипулатион. idl</dt> </dl> |
 
 ## <a name="see-also"></a>См. также раздел

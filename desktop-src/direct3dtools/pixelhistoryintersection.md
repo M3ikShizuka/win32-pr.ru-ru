@@ -17,12 +17,12 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 735adc5396551a18b5e2e2dfba781b358289475e
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 58583e7d3a6d273163c28eed7a4edce08bb7d83f
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "105701153"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122624790"
 ---
 # <a name="span-idvspixenginepixelhistoryintersectionspanpixelhistoryintersection-structure"></a><span id="vspixengine.pixelhistoryintersection"></span>Структура Пикселхисторинтерсектион
 
@@ -35,7 +35,7 @@ ms.locfileid: "105701153"
 } PixelHistoryIntersection;
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 **фраменумбер**  
 Кадр графического события, связана с этой операцией.
@@ -109,12 +109,12 @@ ms.locfileid: "105701153"
 **пикселкиллреасон**  
 Указывает причину, по которой был уничтожен цветовой вклад пикселя.
 
-**Состав**  
+**HResult**  
 При возникновении ошибки содержит значение HRESULT, которое указывает на ошибку.
 
 ## <a name="requirements"></a>Требования
 
-<table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td><p>Header</p></td><td>Вспиксенгине. h</td></tr></tbody></table>
+<table><colgroup><col  /><col  /></colgroup><tbody><tr class="odd"><td><p>Заголовок</p></td><td>Вспиксенгине. h</td></tr></tbody></table>
 
  
 

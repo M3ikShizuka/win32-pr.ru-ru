@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: b6889b710b92d52a48884098e68c58286c400330
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: c73cb3067d143ca6da54d0bba4e12244332e4f91aad71efde1c281467bf863b5
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108107302"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120095874"
 ---
 # <a name="id3dxprtbuffergetnumsamples-method"></a>Метод ID3DXPRTBuffer:: Жетнумсамплес
 
@@ -44,13 +44,13 @@ UINT GetNumSamples();
 
 Возвращает число вершин (или пикселей текстуры) выборки.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3DX9Mesh. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3DX9Mesh. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>   |
 
 

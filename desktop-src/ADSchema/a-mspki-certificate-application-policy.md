@@ -14,12 +14,12 @@ api_type:
 - Schema
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9436415fb9361454fc5f872802516fa455ff980b
-ms.sourcegitcommit: b77ace27b0432e7cd3863191b11926be032fbe2f
+ms.openlocfilehash: ccedfe8ddd3916eb8d1146235e7ae4cd863cc994bc8fe78f9db6e8d7e18d7888
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "104416261"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120066454"
 ---
 # <a name="ms-pki-certificate-application-policy-attribute"></a>MS-PKI-Certificate-приложение-атрибут политики
 

@@ -1,19 +1,19 @@
 ---
 title: Ключ SA вручную
-description: В следующем примере кода показано, как создать сопоставления безопасности (SA) с помощью платформы фильтрации Windows.
+description: в следующем примере кода показано, как создать сопоставления безопасности (SA) с помощью платформы фильтрации Windows.
 ms.assetid: a929456e-e824-44d3-97f7-be75716a1ecd
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 91834e4aedbbe199e37f458832fb30d31f696ba5
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: d13987b3e37eb6ded20f6001247a14d62a00b00fe9ca2e8bd794db33a92fe20b
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104531817"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120075394"
 ---
 # <a name="manual-sa-keying"></a>Ключ SA вручную
 
-В следующем примере кода показано, как создать сопоставления безопасности (SA) с помощью платформы фильтрации Windows.
+в следующем примере кода показано, как создать сопоставления безопасности (SA) с помощью платформы фильтрации Windows.
 
 
 ```C++
@@ -283,9 +283,9 @@ CLEANUP:
 
 
 
- 
+ 
 
- 
+ 
 
 
 

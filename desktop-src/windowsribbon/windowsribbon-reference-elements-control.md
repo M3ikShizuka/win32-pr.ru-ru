@@ -1,19 +1,19 @@
 ---
-title: Элементы управления (Windows Ribbon Framework)
-description: Справочная документация по элементам управления разметки в платформе ленты Windows.
+title: элементы управления (платформа ленты Windows)
+description: справочная документация по элементам управления разметки в Windows платформе ленты.
 ms.assetid: 417bdf54-c241-4eda-a97b-82a6f0d74019
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b6d51f2446102cc01a8f2bad92c57fc0a5613ef5
-ms.sourcegitcommit: 8fa6614b715bddf14648cce36d2df22e5232801a
+ms.openlocfilehash: f53b21d38698b6b0903c1db81459152fa961dbf1ca9f53440477e3e235ae322d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "104488700"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120056404"
 ---
-# <a name="controls-windows-ribbon-framework"></a>Элементы управления (Windows Ribbon Framework)
+# <a name="controls-windows-ribbon-framework"></a>элементы управления (платформа ленты Windows)
 
-Справочная документация по элементам управления разметки в платформе ленты Windows.
+справочная документация по элементам управления разметки в Windows платформе ленты.
 
 
 
@@ -21,7 +21,7 @@ ms.locfileid: "104488700"
 |----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**аппликатионмену**](windowsribbon-element-applicationmenu.md)                                               | Представляет [меню приложения](windowsribbon-controls-applicationmenu.md).<br/>                                                                                                                                                                    |
 | [**Аппликатионмену. Рецентитемс**](windowsribbon-element-applicationmenu-recentitems.md)                       | Представляет контейнер для элемента управления " [недавние элементы](windowsribbon-controls-recentitems.md) " в [меню "приложение](windowsribbon-controls-applicationmenu.md)".<br/>                                                                              |
-| [**Переключатель**](windowsribbon-element-button.md)                                                                 | Представляет элемент управления ["Кнопка"](windowsribbon-controls-button.md) .<br/>                                                                                                                                                                                 |
+| [**Кнопка**](windowsribbon-element-button.md)                                                                 | Представляет элемент управления ["Кнопка"](windowsribbon-controls-button.md) .<br/>                                                                                                                                                                                 |
 | [**Установка**](windowsribbon-element-checkbox.md)                                                             | Представляет элемент управления ["флажок"](windowsribbon-controls-checkbox.md) .<br/>                                                                                                                                                                            |
 | [**ComboBox**](windowsribbon-element-combobox.md)                                                             | Представляет элемент управления["поле со списком"](windowsribbon-controls-combobox.md).<br/>                                                                                                                                                                              |
 | [**контекстмап**](windowsribbon-element-contextmap.md)                                                         | Представляет сопоставление [**ContextMenu**](windowsribbon-element-contextmenu.md) и [**минитулбар**](windowsribbon-element-minitoolbar.md) пары.<br/>                                                                                                  |
@@ -49,7 +49,7 @@ ms.locfileid: "104488700"
 | [**сплитбуттонгаллери**](windowsribbon-element-splitbuttongallery.md)                                         | Представляет элемент управления [коллекции разделенных кнопок](windowsribbon-controls-splitbuttongallery.md) с раскрывающимся меню на основе галереи.<br/>                                                                                                                  |
 | [**Сплитбуттонгаллери. Менуграупс**](windowsribbon-element-splitbuttongallery-menugroups.md)                   | Представляет контейнер для набора элементов раскрывающегося меню в элементе управления [**сплитбуттонгаллери**](windowsribbon-element-splitbuttongallery.md) . <br/>                                                                                                    |
 | [**Сплитбуттонгаллери. Менулайаут**](windowsribbon-element-splitbuttongallery-menulayout.md)                   | Представляет контейнер для макетов раскрывающегося меню [коллекции разделенных кнопок](windowsribbon-controls-splitbuttongallery.md) .<br/>                                                                                                                          |
-| [**TAB**](windowsribbon-element-tab.md)                                                                       | Представляет [базовую](windowsribbon-controls-tab.md) или [контекстную](windowsribbon-controls-tabgroup.md) вкладку.<br/>                                                                                                                                     |
+| [**Вкладка**](windowsribbon-element-tab.md)                                                                       | Представляет [базовую](windowsribbon-controls-tab.md) или [контекстную](windowsribbon-controls-tabgroup.md) вкладку.<br/>                                                                                                                                     |
 | [**TAB. Скалингполици**](windowsribbon-element-tab-scalingpolicy.md)                                           | Представляет контейнер для спецификаций масштабирования [табуляции](windowsribbon-controls-tab.md) .<br/>                                                                                                                                                          |
 | [**Группа вкладок**](windowsribbon-element-tabgroup.md)                                                             | Представляет контекстный набор элементов управления ["Вкладка"](windowsribbon-controls-tabgroup.md) .<br/>                                                                                                                                                               |
 | [**ToggleButton**](windowsribbon-element-togglebutton.md)                                                     | Представляет элемент управления ["выключатель"](windowsribbon-controls-togglebutton.md) .<br/>                                                                                                                                                                    |

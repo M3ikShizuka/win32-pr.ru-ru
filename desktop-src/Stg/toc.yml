@@ -1,36 +1,36 @@
-- name: Структурированное хранилище
+- name: структурированные служба хранилища
   href: structured-storage-start-page.md
   items:
-    - name: Сведения о структурированном хранилище
+    - name: сведения о структурированных служба хранилища
       href: about-structured-storage.md
       items:
-        - name: Преимущества структурированного хранилища
+        - name: преимущества структурированных служба хранилища
           href: benefits-of-structured-storage.md
           items:
             - name: Развитие файловых систем
               href: the-evolution-of-file-systems.md
-            - name: Хранилища и потоки
+            - name: хранилища и Потоки
               href: storages-and-streams.md
             - name: Составные файлы
               href: compound-files.md
-        - name: Основы структурированного хранилища
+        - name: структурированные служба хранилища основы
           href: structured-storage-fundamentals.md
           items:
-            - name: COM-объекты и структурированное хранилище
+            - name: COM-объекты и структурированные служба хранилища
               href: com-objects-and-structured-storage.md
-            - name: Соглашения об именовании объектов хранилища
+            - name: служба хранилища Соглашения об именовании объектов
               href: storage-object-naming-conventions.md
-            - name: Структурированные интерфейсы хранения
+            - name: структурированные интерфейсы служба хранилища
               href: structured-storage-interfaces.md
-            - name: Функции API структурированного хранилища
+            - name: структурированные служба хранилища функции API
               href: structured-storage-api-functions.md
               items:
-                - name: Структурированные режимы доступа к хранилищу
+                - name: структурированные служба хранилища режимы доступа
                   href: structured-storage-access-modes.md
                   items:
                     - name: Флаги транзакций
                       href: transaction-flags.md
-                    - name: Флаги создания хранилища
+                    - name: служба хранилища Флаги создания
                       href: storage-creation-flags.md
                     - name: Временные флаги создания
                       href: temporary-creation-flags.md
@@ -49,7 +49,7 @@
                   href: predefined-property-set-format-identifiers.md
                 - name: Свойства Документсуммаринформатион и Пользователяопределенные задают
                   href: the-documentsummaryinformation-and-userdefined-property-sets.md
-            - name: Структурированный формат набора свойств сериализованного хранилища
+            - name: структурированный служба хранилища сериализованный формат набора свойств
               href: structured-storage-serialized-property-set-format.md
               items:
                 - name: Заголовок набора свойств
@@ -88,18 +88,18 @@
                   items:
                     - name: Словарь отображаемого имени набора свойств
                       href: property-set-display-name-dictionary.md
-        - name: Асинхронное хранилище
+        - name: асинхронный служба хранилища
           href: asynchronous-storage.md
           items:
-            - name: Режимы хранения
+            - name: служба хранилища Иврите
               href: storage-modes.md
             - name: Асинхронные составные файлы
               href: asynchronous-compound-files.md
-            - name: Как работает асинхронная привязка и хранилище
+            - name: как работает асинхронная привязка и служба хранилища
               href: how-asynchronous-binding-and-storage-work.md
             - name: Оптимизация составных файлов
               href: compound-file-optimization.md
-    - name: Использование структурированного хранилища
+    - name: использование структурированных служба хранилища
       href: using-structured-storage.md
       items:
         - name: Создание образцов
@@ -115,10 +115,10 @@
               href: extracting-the-code-samples.md
             - name: Соглашения о стиле написания кода
               href: coding-style-conventions.md
-        - name: Примеры структурированного хранилища
+        - name: структурированные примеры служба хранилища
           href: structured-storage-samples.md
           items:
-            - name: Пример структурированного клиента хранилища (Стоклиен)
+            - name: пример структурированного служба хранилища клиента (стоклиен)
               href: structured-storage-client-sample--stoclien-.md
               items:
                 - name: Обзор Стоклиен
@@ -151,7 +151,7 @@
                           href: save-method---cpapfile.md
                         - name: Метод Load — Кпапфиле
                           href: load-method---cpapfile.md
-            - name: Пример структурированного сервера хранилища (Стосерве)
+            - name: пример структурированного служба хранилища Server (стосерве)
               href: structured-storage-server-sample--stoserve-.md
               items:
                 - name: Обзор Стосерве
@@ -179,7 +179,7 @@
         - name: Управление свойствами
           href: managing-properties.md
           items:
-            - name: Рекомендации по хранению свойств
+            - name: рекомендации по служба хранилища свойств
               href: property-storage-considerations.md
         - name: Управление наборами свойств
           href: managing-property-sets.md
@@ -195,7 +195,7 @@
                       items:
                         - name: Имена в IStorage
                           href: names-in-istorage.md
-                        - name: Объекты хранения и потока для набора свойств
+                        - name: служба хранилища и объекты потока для набора свойств
                           href: storage-vs--stream-for-a-property-set.md
                         - name: Установка идентификатора класса набора свойств
                           href: setting-the-property-set-class-identifier.md
@@ -215,7 +215,7 @@
                   href: performance-characteristics.md
                 - name: Реализация набора свойств сводных данных
                   href: implementing-the-summary-information-property-set.md
-    - name: Структурированная ссылка на хранилище
+    - name: ссылка на структурированный служба хранилища
       href: structured-storage-reference.md
       items:
         - name: Интерфейсы
@@ -335,14 +335,14 @@
               items:
                 - name: Памяти
                   href: imemoryallocator-allocate.md
-                - name: Бесплатный
+                - name: Free
                   href: imemoryallocator-free.md
             - name: IPropertySetStorage
               href: /windows/desktop/api/Propidl/nn-propidl-ipropertysetstorage
               items:
                 - name: Создание
                   href: /windows/desktop/api/Propidl/nf-propidl-ipropertysetstorage-create
-                - name: DELETE
+                - name: Удалить
                   href: /windows/desktop/api/Propidl/nf-propidl-ipropertysetstorage-delete
                 - name: Перечисление
                   href: /windows/desktop/api/Propidl/nf-propidl-ipropertysetstorage-enum

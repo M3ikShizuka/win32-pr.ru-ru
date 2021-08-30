@@ -20,12 +20,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 42162f699510c2ef99c6001532adc7574fe8c99e
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 485d79851dc25c0370e5c1f92ca0da19eae3a2fb7c0e2263b987bc535f0f5214
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104543455"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120067134"
 ---
 # <a name="apimakekey-method-jet_sesid-jet_tableid-int16-makekeygrbit"></a>Метод API. Макекэй (JET_SESID, JET_TABLEID, Int16, Макекэйгрбит)
 
@@ -89,7 +89,7 @@ public static void MakeKey(
     
     Ключевые параметры.
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 #### <a name="reference"></a>Справочник
 

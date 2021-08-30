@@ -5,12 +5,12 @@ ms.assetid: 38F41E05-FECB-41DE-8D30-09733FBEAC48
 ms.localizationpriority: high
 ms.topic: article
 ms.date: 12/05/2019
-ms.openlocfilehash: ec3ecc9e68fc4711def2c364793eca32804d8d04
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 0ab45610eee3a2199fc91af639cee8175cc13030
+ms.sourcegitcommit: 0dec0044816af3f2b2e6403659e1cf11138c90cd
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104548917"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "121813082"
 ---
 # <a name="whats-new-in-direct3d-12"></a>Новые возможности Direct3D 12
 
@@ -18,13 +18,13 @@ ms.locfileid: "104548917"
 
 Сведения о получении и установке Direct3D см. в разделе [Установка среды программирования Direct3D 12](./directx-12-programming-environment-set-up.md).
 
-## <a name="direct3d-12-on-windows-7"></a>Direct3D 12 в Windows 7
+## <a name="direct3d-12-on-windows-7"></a>Direct3D 12 на Windows 7
 
-- Теперь разработчики могут использовать [Direct3D 12 в Windows 7](https://devblogs.microsoft.com/directx/porting-directx-12-games-to-windows-7/) .
+- теперь разработчики могут использовать [Direct3D 12 на Windows 7](https://devblogs.microsoft.com/directx/porting-directx-12-games-to-windows-7/) .
 
 ## <a name="windows-10-may-2019-update"></a>Обновления Windows 10 за май 2019 г.
 
-Эти функции и API были добавлены или обновлены для Windows 10 версии 1903 (10,0; Сборка 18362) &mdash; , также известная как Windows 10, может обновить 2019.
+эти функции и api были добавлены или обновлены для Windows 10 версии 1903 (10,0; сборка 18362) &mdash; также называется обновление Windows 10 за май 2019 г..
 
 - [Заливка переменной скорости (ВРС)](./vrs.md). Позволяет выделять показатели производительности и мощности отрисовки по тарифам, которые зависят от готового образа.
 - [Модель шейдера HLSL 6,4](../direct3dhlsl/hlsl-shader-model-6-4-features-for-direct3d-12.md). Описывает встроенные функции машинного обучения, добавленные в модель шейдера HLSL 6,4.
@@ -47,14 +47,14 @@ ms.locfileid: "104548917"
 
 ## <a name="windows-10-version-1809"></a>Windows 10, версия 1809
 
-Эти функции и API были добавлены или обновлены для Windows 10 версии 1809 (10,0; Сборка 17763) &mdash; также называется обновлением Windows 10 октября 2018.
+эти функции и api были добавлены или обновлены для Windows 10, версия 1809 (10,0; сборка 17763) &mdash; также называется обновление Windows 10 за октябрь 2018 г..
 
-- [РайтраЦинг Direct3D 12](./direct3d-12-raytracing.md)
+- [Трассировка лучей Direct3D 12](./direct3d-12-raytracing.md)
 - [Проходы рендеринга Direct3D 12](./direct3d-12-render-passes.md)
 
 ## <a name="windows-10-version-1709"></a>Windows 10 версии 1709
 
-Эти интерфейсы были добавлены в документацию по Direct3D для Windows 10 версии 1709.
+эти интерфейсы были добавлены в документацию по Direct3D для Windows 10 версии 1709.
 
 -   [**ID3D12Fence1**](/windows/win32/api/d3d12/nn-d3d12-id3d12fence1) расширяет функциональные возможности создания ограждений, поддерживая извлечение флагов, переданных для создания ограждения.
 -   [**ID3D12GraphicsCommandList2**](/windows/win32/api/d3d12/nn-d3d12-id3d12graphicscommandlist2) расширяет список доступных графических команд путем поддержки записи непосредственных значений непосредственно в буфер.
@@ -66,7 +66,7 @@ ms.locfileid: "104548917"
 
 ## <a name="windows-10-version-1703"></a>Windows 10 версии 1703
 
-Эти разделы добавлены в документацию по Direct3D для Windows 10, версия 1703.
+эти разделы добавлены в документацию по Direct3D для Windows 10 версии 1703.
 
 -   Структура [**\_ \_ \_ потока \_ состояния конвейера**](/windows/win32/api/d3d12/ns-d3d12-d3d12_pipeline_state_stream_desc) [**ID3D12Device2:: креатепипелинестате**](/windows/win32/api/d3d12/nf-d3d12-id3d12device2-createpipelinestate) и D3D12 представляет новый и более надежный способ создания псос и объединяет реализовывать для создания графики и конвейеров вычислений.
 -   Метод [**ID3D12Device1:: CreatePipelineLibrary1**](https://www.bing.com/search?q=**ID3D12Device1::CreatePipelineLibrary1**) расширяет интерфейс библиотеки конвейера, чтобы принять псос, созданный с помощью новой структуры Streaming, унифицированной [**\_ \_ \_ потоковой \_ передачи состояния конвейера D3D12**](/windows/win32/api/d3d12/ns-d3d12-d3d12_pipeline_state_stream_desc) .
@@ -89,7 +89,7 @@ ms.locfileid: "104548917"
 
 -   Редакция примечаний для [**ID3D12GraphicsCommandList::D искардресаурце**](/windows/win32/api/d3d12/nf-d3d12-id3d12graphicscommandlist-discardresource).
 -   Уточнение "Decay" состояния (см. статью [использование барьеров ресурсов для синхронизации состояний ресурсов в Direct3D 12](using-resource-barriers-to-synchronize-resource-states-in-direct3d-12.md)).
--   Файл заголовка D3dx12. h, который называется в [вспомогательных структурах и функциях для D3D12](helper-structures-and-functions-for-d3d12.md), можно скачать непосредственно из [вспомогательной библиотеки D3D12](https://github.com/Microsoft/DirectX-Graphics-Samples/tree/master/Libraries/D3DX12).
+-   Файл заголовка D3dx12. h, который называется в [вспомогательных структурах и функциях для D3D12](helper-structures-and-functions-for-d3d12.md), можно скачать непосредственно из [вспомогательной библиотеки D3D12](https://github.com/microsoft/DirectX-Headers/blob/main/include/directx/d3dx12.h).
 
 ## <a name="august-2016-documentation-update-2"></a>Обновление 2 для документации 2016 августа
 
@@ -104,7 +104,7 @@ ms.locfileid: "104548917"
 
 ## <a name="windows-10-version-1607"></a>Windows 10, версия 1607
 
-Эти разделы добавлены в документацию по Direct3D для Windows 10, версия 1607.
+эти разделы добавлены в документацию по Direct3D для Windows 10 версии 1607.
 
 -   [Корневая сигнатура версии 1,1](root-signature-version-1-1.md) : Общие сведения об обновленных корневых сигнатурах, что позволяет приложениям указывать статические или временные дескрипторы и данные, что может помочь в оптимизации графических драйверов.
 -   Метод [**ID3D12Device1:: креатепипелинелибрари**](/windows/win32/api/d3d12/nf-d3d12-id3d12device1-createpipelinelibrary) описывает преимущества создания библиотеки конвейера.

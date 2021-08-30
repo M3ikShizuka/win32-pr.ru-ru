@@ -1,19 +1,19 @@
 ---
-description: В этом разделе содержатся сведения о интерфейсах компонента Windows Imaging Component (WIC).
+description: в этом разделе содержатся сведения о интерфейсах компонента обработки изображений Windows (WIC).
 ms.assetid: 542a6194-38fd-4592-bc25-5a41f5cd9cb7
-title: Интерфейсы для компонента обработки изображений Windows
+title: интерфейсы для компонента работы с образами Windows
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 36ea65fe097d7fa75dcf91ec1d3ba80f7259bbf2
-ms.sourcegitcommit: 0e611cdff84ff9f897c59e4e1d2b2d134bc4e133
+ms.openlocfilehash: b9d1f9ff285b3eea5c365da76684fc86a705431a6f5c7909991e267ece9ee449
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106187925"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120056794"
 ---
-# <a name="interfaces-for-windows-imaging-component"></a>Интерфейсы для компонента обработки изображений Windows
+# <a name="interfaces-for-windows-imaging-component"></a>интерфейсы для компонента работы с образами Windows
 
-В этом разделе содержатся сведения о интерфейсах компонента Windows Imaging Component (WIC).
+в этом разделе содержатся сведения о интерфейсах компонента обработки изображений Windows (WIC).
 
 ## <a name="in-this-section"></a>В этом разделе
 

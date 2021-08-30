@@ -4,14 +4,14 @@ description: Директива \ else помечает необязательн
 ms.assetid: 982466d9-ae77-4e1c-89f3-511335165da7
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 086acd9e6323f7be11a65951a33b2b11b680ad46
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: aade46f8d2af211d4ed09e596ec3a42fa57d141d3d533bdbe34be09d9e9988c3
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103776448"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120060204"
 ---
-# <a name="else"></a>\#else
+# <a name="else"></a>\#Кроме
 
 Директива **\# else** помечает необязательное предложение блока условной компиляции, определенного директивой **\# ifdef**, **\# ifndef** или **\# If** . Директива **\# else** должна быть последней директивой перед директивой **\# endif** .
 
@@ -33,16 +33,16 @@ ms.locfileid: "103776448"
 #endif
 ```
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Директивы препроцессора](preprocessor-directives.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

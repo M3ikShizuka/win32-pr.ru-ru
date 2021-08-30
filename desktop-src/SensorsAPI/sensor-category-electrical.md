@@ -4,12 +4,12 @@ ms.assetid: c4efa821-fb9f-4606-898a-5be103581f39
 title: SENSOR_CATEGORY_ELECTRICAL (sensors. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9b3487b779cfefc78a541fcc72d1f2c5c5e7c0db
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 155859dd82dbc9f43368d149c6d644bd42d4875661c87526b9fa66d7f20f0686
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105662267"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120126634"
 ---
 # <a name="sensor_category_electrical"></a>Категория датчика " \_ \_ Электрический"
 
@@ -63,9 +63,9 @@ ms.locfileid: "105662267"
 
 | Требование | Значение |
 |-------------------------------------|--------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 7\]<br/>                                           |
+| Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                           |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                            |
-| Header<br/>                   | <dl> <dt>Sensors. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Sensors. h</dt> </dl> |
 
 
 

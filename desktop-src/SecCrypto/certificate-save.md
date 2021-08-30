@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: 3427feb86c705f5558d083bc39673fdf77553f58
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: ab734b4e80c7809b03b00a39d8960a5a42c928c67af3260d363ba2c9e9dab5ee
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105685391"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120126894"
 ---
 # <a name="icertificate2save-method"></a>Метод ICertificate2:: Save
 
@@ -100,7 +100,7 @@ Certificate.Save( _
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот метод вызывает CAPICOM \_ E \_ не \_ разрешен при создании скрипта из веб-приложения.
 

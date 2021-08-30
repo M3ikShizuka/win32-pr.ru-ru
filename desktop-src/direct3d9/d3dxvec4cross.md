@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: e3630a486f6c8fcd456373445bd931d878fdc38e
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 40853dc748167e011bc81e5407a797c402837c0d1461a94a3e1534f1e45c756c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108097692"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120096044"
 ---
 # <a name="d3dxvec4cross-function-d3dx9mathh"></a>Функция D3DXVec4Cross (D3dx9math. h)
 
@@ -89,13 +89,13 @@ D3DXVECTOR4* D3DXVec4Cross(
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре *тоска* . Таким образом, функция **D3DXVec4Cross** может использоваться в качестве параметра для другой функции.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3dx9math. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3dx9math. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>   |
 
 

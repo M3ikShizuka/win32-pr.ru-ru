@@ -4,12 +4,12 @@ ms.assetid: 4C397139-6553-4707-B737-7C31C5D423BA
 title: Кодировщик аудио MP3
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7ea2b22d2fe8cd51f9a2990970493e0415f34d3c
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 757d070a2cef404780379c6652e6ced0af220dd4
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104080435"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122471690"
 ---
 # <a name="mp3-audio-encoder"></a>Кодировщик аудио MP3
 
@@ -29,61 +29,16 @@ ms.locfileid: "104080435"
 
 
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>attribute</th>
-<th>Описание</th>
-<th>Remarks</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="mf-mt-major-type-attribute.md"><strong>MF_MT_MAJOR_TYPE</strong></a></td>
-<td>Основной тип.</td>
-<td>Необходимо <strong>MFMediaType_Audio</strong>.</td>
-</tr>
-<tr class="even">
-<td><a href="mf-mt-subtype-attribute.md"><strong>MF_MT_SUBTYPE</strong></a></td>
-<td>Подтип аудио.</td>
-<td>Необходимо <strong>MFAudioFormat_MP3</strong>.</td>
-</tr>
-<tr class="odd">
-<td><a href="mf-mt-audio-avg-bytes-per-second-attribute.md"><strong>MF_MT_AUDIO_AVG_BYTES_PER_SECOND</strong></a></td>
-<td>Скорость потока в закодированном потоке MP3, в байтах в секунду.</td>
-<td>Кодировщик поддерживает все скорости, определенные стандартом (32, 40, 48, 56, 64, 80, 96, 112, 128, 160, 192, 224, 256 или 320 кбит/с).<br/> Скорость по умолчанию составляет 128 кбит/с для стерео и 320 кбит/с для стереосистемы.<br/> Используйте этот атрибут, чтобы указать закодированную скорость.<br/></td>
-</tr>
-<tr class="even">
-<td><a href="mf-mt-audio-num-channels-attribute.md"><strong>MF_MT_AUDIO_NUM_CHANNELS</strong></a></td>
-<td>Число каналов.</td>
-<td>Поддерживаются следующие значения.
-<ul>
-<li>1 (моно)</li>
-<li>2 (стерео)</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><a href="mf-mt-audio-samples-per-second-attribute.md"><strong>MF_MT_AUDIO_SAMPLES_PER_SECOND</strong></a></td>
-<td>Выборок в секунду.</td>
-<td>Поддерживаются следующие значения.
-<ul>
-<li>48000 (48 кГц)</li>
-<li>44100 (44,1 кГц)</li>
-<li>32000 (32 кГц)</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><a href="mf-mt-user-data-attribute.md">MF_MT_USER_DATA</a></td>
-<td>Дополнительные данные кодека.</td>
-<td>Этот атрибут содержит 12 байт структуры <a href="/windows/desktop/api/mmreg/ns-mmreg-mpeglayer3waveformat"><strong>MPEGLAYER3WAVEFORMAT</strong></a> , которые следуют за элементом <strong>вфкс</strong> этой структуры.</td>
-</tr>
-</tbody>
-</table>
+
+| attribute | Описание | Remarks | 
+|-----------|-------------|---------|
+| <a href="mf-mt-major-type-attribute.md"><strong>MF_MT_MAJOR_TYPE</strong></a> | Основной тип. | Необходимо <strong>MFMediaType_Audio</strong>. | 
+| <a href="mf-mt-subtype-attribute.md"><strong>MF_MT_SUBTYPE</strong></a> | Подтип аудио. | Необходимо <strong>MFAudioFormat_MP3</strong>. | 
+| <a href="mf-mt-audio-avg-bytes-per-second-attribute.md"><strong>MF_MT_AUDIO_AVG_BYTES_PER_SECOND</strong></a> | Скорость потока в закодированном потоке MP3, в байтах в секунду. | Кодировщик поддерживает все скорости, определенные стандартом (32, 40, 48, 56, 64, 80, 96, 112, 128, 160, 192, 224, 256 или 320 кбит/с).<br /> Скорость по умолчанию составляет 128 кбит/с для стерео и 320 кбит/с для стереосистемы.<br /> Используйте этот атрибут, чтобы указать закодированную скорость.<br /> | 
+| <a href="mf-mt-audio-num-channels-attribute.md"><strong>MF_MT_AUDIO_NUM_CHANNELS</strong></a> | Число каналов. | Поддерживаются следующие значения.<ul><li>1 (моно)</li><li>2 (стерео)</li></ul> | 
+| <a href="mf-mt-audio-samples-per-second-attribute.md"><strong>MF_MT_AUDIO_SAMPLES_PER_SECOND</strong></a> | Выборок в секунду. | Поддерживаются следующие значения.<ul><li>48000 (48 кГц)</li><li>44100 (44,1 кГц)</li><li>32000 (32 кГц)</li></ul> | 
+| <a href="mf-mt-user-data-attribute.md">MF_MT_USER_DATA</a> | Дополнительные данные кодека. | Этот атрибут содержит 12 байт структуры <a href="/windows/desktop/api/mmreg/ns-mmreg-mpeglayer3waveformat"><strong>MPEGLAYER3WAVEFORMAT</strong></a> , которые следуют за элементом <strong>вфкс</strong> этой структуры. | 
+
 
 
 
@@ -168,12 +123,12 @@ ms.locfileid: "104080435"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 8\]<br/>           |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2012\]<br/> |
+| Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>           |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

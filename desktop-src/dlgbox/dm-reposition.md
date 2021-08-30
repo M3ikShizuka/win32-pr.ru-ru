@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 19425d4d77a62117f3fadfdd98f0629b81bf334c
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 52fd3978df92e379f4750b4140c137b915d0d1ae21ac0a5124d3e9d87e62d5c8
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104071979"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120117814"
 ---
 # <a name="dm_reposition-message"></a>\_Сообщение о перемещении DM
 
@@ -55,7 +55,7 @@ ms.locfileid: "104071979"
 
 Это сообщение не имеет возвращаемого значения.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это сообщение не действует, если диалоговое окно является дочерним окном.
 
@@ -67,11 +67,11 @@ ms.locfileid: "104071979"
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                               |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                     |
-| Заголовок<br/>                   | <dl> <dt>Winuser. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

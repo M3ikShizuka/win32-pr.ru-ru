@@ -62,12 +62,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: e14e1fc7011b0e897601dc2f3f053d9d4f1944ef57ebc7bbd1c0500b233c9338
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5af63606dcdbc9fd355b739445f1b434b8903b21
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119854844"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122623690"
 ---
 # <a name="semantics"></a>Семантика
 
@@ -86,7 +86,7 @@ ms.locfileid: "119854844"
 
 Эти семантики имеют смысл при присоединении к параметру вершинного шейдера. Эти семантики поддерживаются как в Direct3D 9, так и в Direct3D 10 и более поздних версиях.
 
-| Входные данные | Описание | Тип |
+| Входные данные | Описание | Type |
 |-|-|-|
 | БИНОРМАЛ \[ n\] | бинормал | float4 |
 | БЛЕНДИНДИЦЕС \[ n\] | Индексы Blend | uint |
@@ -115,15 +115,15 @@ ms.locfileid: "119854844"
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col  />
+<col  />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
 <th>Входные данные</th>
 <th>Описание</th>
-<th>Тип</th>
+<th>Type</th>
 </tr>
 </thead>
 <tbody>

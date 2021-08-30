@@ -4,27 +4,27 @@ description: В этом разделе показано, как задать м
 ms.assetid: BDE17F4B-3A15-48BB-8160-036AD0DC3B41
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 616a9bb8a2c1707d903f0ebe2b6de86511dc6ce4
-ms.sourcegitcommit: a716ca2a6a22a400f02c6b31699cf4da83ee3619
+ms.openlocfilehash: d746bc74b816a6c14447a7f1e7d57a552bf1a08581cbcbba3e51f48a2143caab
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "103987999"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120132044"
 ---
 # <a name="how-to-use-tile-views"></a>Использование мозаичных представлений
 
 В этом разделе показано, как задать мозаичное представление для элемента управления "представление списка". В мозаичном представлении каждый элемент представлен крупным значком с одной или несколькими строками сопроводительного текста. Иллюстрации см. в разделе [About List-View Controls](list-view-controls-overview.md).
 
-## <a name="what-you-need-to-know"></a>Что необходимо знать
+## <a name="what-you-need-to-know"></a>Это важно знать
 
 ### <a name="technologies"></a>Технологии
 
--   [Элементы управления Windows](window-controls.md)
+-   [Windows Элементы управления](window-controls.md)
 
-### <a name="prerequisites"></a>Предварительные условия
+### <a name="prerequisites"></a>Предварительные требования
 
 -   C/C++
--   Программирование пользовательского интерфейса Windows
+-   Windows Программирование пользовательского интерфейса
 
 ## <a name="instructions"></a>Инструкции
 
@@ -59,7 +59,7 @@ ms.locfileid: "103987999"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

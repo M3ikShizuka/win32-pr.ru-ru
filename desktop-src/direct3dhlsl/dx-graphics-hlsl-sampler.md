@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: ccdc81b21ba18fe3983a44655d23c9d463045b18
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.openlocfilehash: 237880ab84bedc1671fdbf0eaa87e08ad0ba85ce
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122625000"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122880610"
 ---
 # <a name="sampler-type"></a>Тип образца
 
@@ -136,7 +136,7 @@ ComparisonFunc
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При реализации воздействия состояние выборки — это один из нескольких типов состояний, которые может потребоваться настроить в конвейере для подготовки к просмотру. Список всех возможных состояний, которые можно установить в результате, см. в следующих статьях:
 
@@ -163,7 +163,7 @@ ComparisonFunc
 <td><pre><code>sampler MeshTextureSampler = 
 sampler_state
 {
-    Texture = <g_MeshTexture>;
+    Texture = &lt;g_MeshTexture&gt;;
     MipFilter = LINEAR;
     MinFilter = LINEAR;
     MagFilter = LINEAR;
@@ -222,7 +222,7 @@ float fShadow = g_ShadowMap.SampleCmpLevelZero( ShadowSampler, vModProjUV.xy, vM
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

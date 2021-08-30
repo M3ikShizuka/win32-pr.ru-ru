@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e7e3780db9036e0fd7c87d91c769c3c6f5c6aaf9
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 22b03e544e89389a9836aa0d7b3dcb964791c7a50124946409481329fbbb122e
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104071800"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120131694"
 ---
 # <a name="createzone-method-of-the-microsoftdns_zone-class"></a>Метод Креатезоне \_ класса зоны микрософтднс
 
@@ -66,8 +66,8 @@ void CreateZone(
 |------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | <dl> <dt>1</dt> </dl> | Интегрированная служба AD.<br/>                                                                                           |
 | <dl> <dt>2</dt> </dl> | Дополнительная зона.<br/>                                                                                          |
-| <dl> <dt>3</dt> </dl> | Зона-заглушка.<br/> **Windows Server 2003:** Этот тип зоны появился в Windows Server 2003.<br/>      |
-| <dl> <dt>4</dt> </dl> | Сервер пересылки зоны.<br/> **Windows Server 2003:** Этот тип зоны появился в Windows Server 2003.<br/> |
+| <dl> <dt>3</dt> </dl> | Зона-заглушка.<br/> **Windows Server 2003:** этот тип зоны появился в Windows Server 2003.<br/>      |
+| <dl> <dt>4</dt> </dl> | Сервер пересылки зоны.<br/> **Windows Server 2003:** этот тип зоны появился в Windows Server 2003.<br/> |
 
 
 
@@ -127,7 +127,7 @@ RR типа **микрософтднс \_ Zone**.
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

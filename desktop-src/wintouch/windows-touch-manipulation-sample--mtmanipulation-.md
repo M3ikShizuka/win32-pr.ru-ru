@@ -1,29 +1,29 @@
 ---
-title: Пример управления касанием Windows (Мтманипулатион)
-description: В этом разделе описывается пример манипуляции с касанием Windows.
+title: Windows Пример сенсорного управления (Мтманипулатион)
+description: в этом разделе описан пример Windows сенсорной манипуляции.
 ms.assetid: 59b9279c-ffa3-42c3-a01f-3ea7aca8f235
 keywords:
-- Windows Touch, примеры кода
-- Windows Touch, пример кода
-- Касание Windows, манипуляции
-- Пример манипуляции с Windows Touch
+- Windows Сенсорный ввод, примеры кода
+- Windows Сенсорный ввод, пример кода
+- Windows Сенсорный ввод, манипуляции
+- Windows Сенсорный ввод, пример манипуляции
 - манипуляции, пример кода
 - манипуляции, примеры кода
 - Пример манипуляции
 ms.topic: article
 ms.date: 02/18/2020
-ms.openlocfilehash: b93ac4d7cd6724d5475c919c74b90eaf106d2803
-ms.sourcegitcommit: 48d1c892045445bcbd0f22bafa2fd3861ffaa6e7
+ms.openlocfilehash: 3ec730f8bedfce20ea27b4cadc02ef56a9c444790e7e4e4748d1974cb61d28a1
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/19/2020
-ms.locfileid: "104412500"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120055882"
 ---
-# <a name="windows-touch-manipulation-sample-mtmanipulation"></a>Пример управления касанием Windows (Мтманипулатион)
+# <a name="windows-touch-manipulation-sample-mtmanipulation"></a>Windows Пример сенсорного управления (Мтманипулатион)
 
-В этом разделе описывается пример манипуляции с касанием Windows.
+в этом разделе описан пример Windows сенсорной манипуляции.
 
-В образце манипулирования Windows показано, как преобразовать, повернуть и масштабировать объект с помощью интерфейса [**IManipulationProcessor**](/windows/desktop/api/manipulations/nn-manipulations-imanipulationprocessor) и реализации приемника событий [**_IManipulationEvents**](/windows/win32/api/manipulations/nn-manipulations-_imanipulationevents) . На следующем снимке экрана показано, как выглядит пример при его выполнении.
+в примере Windows сенсорный манипуляции показано, как преобразовать, повернуть и масштабировать объект с помощью интерфейса [**IManipulationProcessor**](/windows/desktop/api/manipulations/nn-manipulations-imanipulationprocessor) и реализовать [**_IManipulationEvents**](/windows/win32/api/manipulations/nn-manipulations-_imanipulationevents) приемника событий. На следующем снимке экрана показано, как выглядит пример при его выполнении.
 
 ![снимок экрана с примером "Сенсорная манипуляция Windows" с повернутым синим цветом прямоугольника с синей линией, нарисованными из противоположных углов](images/mtmanipulation.png)
 
@@ -263,6 +263,6 @@ void CDrawingObject::ApplyManipulationDelta(
 
 После обновления центральных точек **кдравингобжект**, коэффициента масштабирования и угла вращения объект будет рисовать сам.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
-[Приложение для управления несколькими касаниями](https://github.com/microsoft/Windows-classic-samples/tree/master/Samples/Win7Samples/Touch/MTManipulation/cpp), [пример манипуляции и инерции](https://github.com/microsoft/Windows-classic-samples/tree/master/Samples/Win7Samples/Touch/MTManipulationInertia/cpp), [примеры для Windows Touch](windows-touch-samples.md)
+пример [многофункциональной манипуляции](https://github.com/microsoft/Windows-classic-samples/tree/master/Samples/Win7Samples/Touch/MTManipulation/cpp), [манипулирования и инерции](https://github.com/microsoft/Windows-classic-samples/tree/master/Samples/Win7Samples/Touch/MTManipulationInertia/cpp), [Windows примеры сенсорного ввода](windows-touch-samples.md)
