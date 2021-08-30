@@ -4,12 +4,12 @@ description: Служба RAS поддерживает соединения, в 
 ms.assetid: 25f0e84d-8900-4efe-b07d-59f25186c976
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9aabe3bf5503f16d7d27e44e02dc19ccb2a6f2e5
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: b72d10285c6920befe7a508bf69ef1e5d21c19e8632534f94dd8ccb9a0ed1743
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "103793518"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120030434"
 ---
 # <a name="callback-connections"></a>Подключения обратного вызова
 
@@ -30,10 +30,10 @@ ms.locfileid: "103793518"
 > [!Note]  
 > Если приостановленные состояния не включены, то при **сзкаллбаккнумбер** указывает на звездочку в виде строки " \* ". В этом случае звездочка означает, что номер обратного вызова хранится в файле телефонной книги, указанном в вызове [**rasdial**](/windows/desktop/api/Ras/nf-ras-rasdiala) .
 
- 
+ 
 
 В случае обратного вызова вызов функции [**rasdial**](/windows/desktop/api/Ras/nf-ras-rasdiala) не возвращает значение до тех пор, пока сервер не выполнит обратный вызов клиента.
 
- 
+ 
 
- 
+ 

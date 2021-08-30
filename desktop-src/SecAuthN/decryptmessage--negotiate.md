@@ -4,12 +4,12 @@ ms.assetid: 188341ff-4e67-481e-af30-7f9913b1d24e
 title: Функция Декриптмессаже (Negotiate)
 ms.topic: reference
 ms.date: 07/25/2019
-ms.openlocfilehash: 7da05842fc5aba4dc9c19cd530b38e0d46b640aac10b4614981c30c8863d7e7b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5587b9faef4cbb44cfe8d30841de31ef1147e7ea
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119008522"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122468151"
 ---
 # <a name="decryptmessage-negotiate-function"></a>Функция Декриптмессаже (Negotiate)
 
@@ -49,8 +49,11 @@ SECURITY_STATUS SEC_Entry DecryptMessage(
 
 Этот параметр может иметь следующий флаг.
 
-<table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th>Значение</th><th>Значение</th></tr></thead><tbody><tr class="odd"><td><span id="SECQOP_WRAP_NO_ENCRYPT"></span><span id="secqop_wrap_no_encrypt"></span><dl> <dt><strong>SECQOP_WRAP_NO_ENCRYPT</strong></dt> </dl></td><td>Сообщение не было зашифровано, но был создан заголовок или трейлер.<br/><blockquote>[!Note]<br />
-KERB_WRAP_NO_ENCRYPT имеет то же значение и то же самое.</blockquote><br/></td></tr></tbody></table>
+
+| Значение | Значение | 
+|-------|---------|
+| <span id="SECQOP_WRAP_NO_ENCRYPT"></span><span id="secqop_wrap_no_encrypt"></span><dl><dt><strong>SECQOP_WRAP_NO_ENCRYPT</strong></dt></dl> | Сообщение не было зашифровано, но был создан заголовок или трейлер.<br /><blockquote>[!Note]<br />KERB_WRAP_NO_ENCRYPT имеет то же значение и то же самое.</blockquote><br /> | 
+
 
 ## <a name="return-value"></a>Возвращаемое значение
 
@@ -63,13 +66,13 @@ KERB_WRAP_NO_ENCRYPT имеет то же значение и то же само
 | **с \_ \_ неполным \_ сообщением электронной почты** | Данные во входном буфере неполны. Приложению необходимо прочитать больше данных с сервера и снова вызвать [**декриптмессаже (Negotiate)**](decryptmessage--negotiate.md) . |
 | **с \_ не \_ \_ по \_ порядку**   | Сообщение не было получено в правильной последовательности.                                                                                                                              |
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Иногда приложение будет считывать данные от удаленной стороны, пытаться расшифровать их с помощью **декриптмессаже (Negotiate)**, а также обнаружить, что **декриптмессаже (Negotiate)** закончились, но выходные буферы пусты. Это нормальное поведение, и приложения должны уметь работать с ним.
 
 **Windows XP:** Эта функция также называлась **унсеалмессаже**. Теперь приложения должны использовать только **декриптмессаже (Negotiate)** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |-------------------------------------|--------------------------------|

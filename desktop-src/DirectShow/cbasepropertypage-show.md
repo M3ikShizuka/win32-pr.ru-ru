@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 1dadd1c187773df3ca41ac0e1e4daf06fb54761b
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 4a05a04e1012824e1204318fc3bddaf3e0317c32f3e53fa0e6a5a46f7dd1b50a
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105668937"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120103194"
 ---
 # <a name="cbasepropertypageshow-method"></a>Кбасепропертипаже. отобразить метод
 
@@ -52,13 +52,13 @@ HRESULT Show(
 | <dl> <dt>**E \_ INVALIDARG**</dt> </dl> | Недопустимый аргумент.<br/>   |
 | <dl> <dt>**\_непредвиденная E**</dt> </dl> | Непредвиденный сбой.<br/> |
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header  | <dl> <dt>Кпроп. h (включение Streams. h)</dt> </dl>                                                                                     |
+| Заголовок  | <dl> <dt>кпроп. h (включает Потоки. h)</dt> </dl>                                                                                     |
 | Библиотека | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 [Класс Кбасепропертипаже](cbasepropertypage.md)

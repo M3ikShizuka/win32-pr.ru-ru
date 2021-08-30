@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - PortableDevice.h
-ms.openlocfilehash: ec6bfcaa3933bb70c3064f829e701509e3ff32f7
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 94caa345c0c7bee6c500109d6ebc6cbedd0aefae5254a254dbc5af907e0be737
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105718047"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120089594"
 ---
 # <a name="wpd_color_corrected_status_values-enumeration"></a>\_ \_ \_ Перечисление значений состояния ИСПРАВЛЕНного цвета WPD \_
 
@@ -62,21 +62,21 @@ typedef enum WPD_COLOR_CORRECTED_STATUS_VALUES {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Указывает состояние исправленного цвета изображения. Это перечисление используется свойством " [ \_ \_ \_ исправленное \_ состояние цветового изображения WPD](image-properties.md) ".
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|---------------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Портабледевице. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Портабледевице. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

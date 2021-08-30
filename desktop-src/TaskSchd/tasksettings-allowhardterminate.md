@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7c38e117ebc3d2175b952f01698987ccb65f7af5
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 9f6886a43a3c63df80c392b04dc35aa4f3331af52048c0bbe9e86aaf4005f638
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103802962"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120099764"
 ---
 # <a name="tasksettingsallowhardterminate-property"></a>Тасксеттингс. Алловхардтерминате, свойство
 
@@ -42,24 +42,24 @@ TaskSettings.AllowHardTerminate As Boolean
 
 Если значение — true, задача может быть прервана с помощью [**терминатепроцесс**](/windows/desktop/api/processthreadsapi/nf-processthreadsapi-terminateprocess). Если задано значение false, задача не может быть завершена с помощью **терминатепроцесс**.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 При чтении или записи XML для задачи этот параметр указывается в элементе [алловхардтерминате](taskschedulerschema-allowhardterminate-settingstype-element.md) схемы планировщик задач.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                          |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                    |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                          |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                    |
 | Библиотека типов<br/>             | <dl> <dt>Тасксчд. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Taskschd.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

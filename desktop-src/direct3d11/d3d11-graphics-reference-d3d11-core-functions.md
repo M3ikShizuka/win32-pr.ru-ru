@@ -6,12 +6,12 @@ keywords:
 - функции, Direct3D 11 Core
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 779b70da7e7d74ab0aa9b62d584dedee0d8bea7b
-ms.sourcegitcommit: cba7f424a292fd7f3a8518947b9466439b455419
+ms.openlocfilehash: 2713ddb382c49c04c432f25cbdac7c3b7f31751c8402c87ab440db8395981792
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/23/2019
-ms.locfileid: "104412257"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120028354"
 ---
 # <a name="direct3d-11-core-functions"></a>Основные функции Direct3D 11
 
@@ -30,7 +30,7 @@ ms.locfileid: "104412257"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

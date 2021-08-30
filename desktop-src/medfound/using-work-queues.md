@@ -4,12 +4,12 @@ ms.assetid: 6be05df7-e8ff-4110-8f73-a62eb31fd414
 title: Использование рабочих очередей
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2d7bb41b830742ca871d44cadac9bd26a9967aa1
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 80c288c6aad2d6d95e99362c8479a0d75cbb5699d448c984e9a3fef317c4d16b
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104263482"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120012194"
 ---
 # <a name="using-work-queues"></a>Использование рабочих очередей
 
@@ -19,7 +19,7 @@ ms.locfileid: "104263482"
 -   [Завершение работы рабочих очередей](#shutting-down-work-queues)
 -   [Использование запланированных рабочих элементов](#using-scheduled-work-items)
 -   [Использование периодических обратных вызовов](#using-periodic-callbacks)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="using-work-queues"></a>Использование рабочих очередей
 
@@ -102,7 +102,7 @@ if (SUCCEEDED(hr))
 
 Периодические обратные вызовы используют \_ \_ \_ рабочую очередь платформы таймера очереди ответного вызова мфасинк.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

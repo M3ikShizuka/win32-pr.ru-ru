@@ -3,7 +3,7 @@ title: Сообщение CB_SETHORIZONTALEXTENT (Winuser. h)
 description: Приложение отправляет \_ сообщение СЕСОРИЗОНТАЛЕКСТЕНТ CB, чтобы задать ширину (в пикселях), на которую окно списка можно прокручивать горизонтально (прокручиваемую ширину).
 ms.assetid: 85e8ff4f-ad9a-451c-b791-bd442b32d716
 keywords:
-- Элементы управления Windows для CB_SETHORIZONTALEXTENT сообщений
+- элементы управления Windows сообщений CB_SETHORIZONTALEXTENT
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f51e505f36f7cfd3fa47644a288db4a97ba89ca4
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: c8aac1fc0d10a38b292a4f37b3b170060d7e76ef5c8d303f39180b3f5063ffee
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104490521"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120089024"
 ---
 # <a name="cb_sethorizontalextent-message"></a>\_Сообщение СЕСОРИЗОНТАЛЕКСТЕНТ CB
 
@@ -43,19 +43,19 @@ ms.locfileid: "104490521"
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                                           |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включение Windows. h)</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                           |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

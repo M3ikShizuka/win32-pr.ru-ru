@@ -4,12 +4,12 @@ ms.assetid: 83df96ff-f3d6-43f8-88b2-6387914b3503
 title: Использование API-интерфейса authz
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4d86394c0df408307ae4c49377af4a1ae8cc1f17
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 58ec0f22b8818a9d9a04a3d75a53bba161e55c8292212096b8d7fb7816df3363
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104349705"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119960764"
 ---
 # <a name="using-authz-api"></a>Использование API-интерфейса authz
 

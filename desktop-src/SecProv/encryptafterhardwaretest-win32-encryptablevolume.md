@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Root\CIMV2\Security\MicrosoftVolumeEncryption
-ms.openlocfilehash: f5365bd9aca023d42d9f2ab1d9de5d242497b8b21842004b2bb508f362752bd5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6421c054080e250bca4e673a66dcc4096a541519
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119004502"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122466450"
 ---
 # <a name="encryptafterhardwaretest-method-of-the-win32_encryptablevolume-class"></a>Метод Енкриптафтерхардваретест \_ класса Win32 енкриптаблеволуме
 
@@ -105,84 +105,24 @@ uint32 EncryptAfterHardwareTest(
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Возвращаемый код и значение</th>
-<th>Описание</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><dl> <dt><strong>S_OK</strong></dt> <dt>0 (0x0)</dt> </dl></td>
-<td>Метод успешно выполнен.<br/></td>
-</tr>
-<tr class="even">
-<td><dl> <dt><strong>E_INVALIDARG</strong></dt> <dt>2147942487 (0x80070057)</dt> </dl></td>
-<td>Параметр <em>енкриптионмесод</em> предоставляется, но не находится в известном диапазоне или не соответствует текущему параметру групповая политика.<br/></td>
-</tr>
-<tr class="odd">
-<td><dl> <dt><strong>FVE_E_CANNOT_ENCRYPT_NO_KEY</strong></dt> <dt>2150694958 (0x8031002E)</dt> </dl></td>
-<td>Для тома не существует ключа шифрования.<br/> Отключите предохранители ключа с помощью метода <a href="disablekeyprotectors-win32-encryptablevolume.md"><strong>дисаблекэйпротекторс</strong></a> или используйте один из следующих методов, чтобы указать предохранители ключа для тома:
-<ul>
-<li><a href="protectkeywithexternalkey-win32-encryptablevolume.md"><strong>протекткэйвисекстерналкэй</strong></a></li>
-<li><a href="protectkeywithnumericalpassword-win32-encryptablevolume.md"><strong>протекткэйвиснумерикалпассворд</strong></a></li>
-<li><a href="protectkeywithtpm-win32-encryptablevolume.md"><strong>протекткэйвистпм</strong></a></li>
-<li><a href="protectkeywithtpmandpin-win32-encryptablevolume.md"><strong>протекткэйвистпмандпин</strong></a></li>
-<li><a href="protectkeywithtpmandpinandstartupkey-win32-encryptablevolume.md"><strong>протекткэйвистпмандпинандстартупкэй</strong></a></li>
-<li><a href="protectkeywithtpmandstartupkey-win32-encryptablevolume.md"><strong>протекткэйвистпмандстартупкэй</strong></a></li>
-</ul>
-<br/></td>
-</tr>
-<tr class="even">
-<td><dl> <dt><strong>FVE_E_CLUSTERING_NOT_SUPPORTED</strong></dt> <dt>2150694942 (0x8031001E)</dt> </dl></td>
-<td>Невозможно зашифровать том, так как этот компьютер настроен как часть кластера серверов.<br/></td>
-</tr>
-<tr class="odd">
-<td><dl> <dt><strong>FVE_E_NO_PROTECTORS_TO_TEST</strong></dt> <dt>2150694971 (0x8031003B)</dt> </dl></td>
-<td>Не удается найти предохранители ключа &quot; доверенного платформенного модуля &quot; , &quot; TPM и ПИН-кода &quot; , &quot; TPM, ПИН-код и ключ запуска &quot; , &quot; TPM и ключ запуска, а &quot; также &quot; внешний ключ &quot; . Проверка оборудования включает только предыдущие предохранители ключа.<br/> Если вы по-прежнему хотите выполнить тест оборудования, необходимо использовать один из следующих методов для указания предохранителей ключа для тома:
-<ul>
-<li><a href="protectkeywithexternalkey-win32-encryptablevolume.md"><strong>протекткэйвисекстерналкэй</strong></a></li>
-<li><a href="protectkeywithnumericalpassword-win32-encryptablevolume.md"><strong>протекткэйвиснумерикалпассворд</strong></a></li>
-<li><a href="protectkeywithtpm-win32-encryptablevolume.md"><strong>протекткэйвистпм</strong></a></li>
-<li><a href="protectkeywithtpmandpin-win32-encryptablevolume.md"><strong>протекткэйвистпмандпин</strong></a></li>
-<li><a href="protectkeywithtpmandpinandstartupkey-win32-encryptablevolume.md"><strong>протекткэйвистпмандпинандстартупкэй</strong></a></li>
-<li><a href="protectkeywithtpmandstartupkey-win32-encryptablevolume.md"><strong>протекткэйвистпмандстартупкэй</strong></a></li>
-</ul>
-<br/></td>
-</tr>
-<tr class="even">
-<td><dl> <dt><strong>FVE_E_NOT_DECRYPTED</strong></dt> <dt>2150694969 (0x80310039)</dt> </dl></td>
-<td>Том частично или полностью зашифрован.<br/> Проверка оборудования применяется перед шифрованием. Если вы по-прежнему хотите выполнить тест, сначала используйте метод <a href="decrypt-win32-encryptablevolume.md"><strong>дешифровки</strong></a> , а затем используйте один из следующих методов для добавления предохранителей ключа:
-<ul>
-<li><a href="protectkeywithexternalkey-win32-encryptablevolume.md"><strong>протекткэйвисекстерналкэй</strong></a></li>
-<li><a href="protectkeywithnumericalpassword-win32-encryptablevolume.md"><strong>протекткэйвиснумерикалпассворд</strong></a></li>
-<li><a href="protectkeywithtpm-win32-encryptablevolume.md"><strong>протекткэйвистпм</strong></a></li>
-<li><a href="protectkeywithtpmandpin-win32-encryptablevolume.md"><strong>протекткэйвистпмандпин</strong></a></li>
-<li><a href="protectkeywithtpmandstartupkey-win32-encryptablevolume.md"><strong>протекткэйвистпмандстартупкэй</strong></a></li>
-</ul>
-<br/></td>
-</tr>
-<tr class="odd">
-<td><dl> <dt><strong>FVE_E_NOT_OS_VOLUME</strong></dt> <dt>2150694952 (0x80310028)</dt> </dl></td>
-<td>Том является томом данных.<br/> Проверка оборудования применяется только к томам, которые могут запускать операционную систему. Запустите этот метод на том же томе операционной системы, в котором запущен.<br/></td>
-</tr>
-<tr class="even">
-<td><dl> <dt><strong>FVE_E_POLICY_PASSWORD_REQUIRED</strong></dt> <dt>2150694956 (0x8031002C)</dt> </dl></td>
-<td>Предохранители ключа для типа " &quot; числовой пароль" не &quot; указаны. Групповая политика требуется резервное копирование сведений о восстановлении в службы домен Active Directory. Чтобы добавить хотя бы один предохранитель ключа этого типа, используйте метод <a href="protectkeywithnumericalpassword-win32-encryptablevolume.md"><strong>протекткэйвиснумерикалпассворд</strong></a> .<br/></td>
-</tr>
-</tbody>
-</table>
+
+| Возвращаемый код и значение | Описание | 
+|-------------------|-------------|
+| <dl><dt><strong>S_OK</strong></dt><dt>0 (0x0)</dt></dl> | Метод успешно выполнен.<br /> | 
+| <dl><dt><strong>E_INVALIDARG</strong></dt><dt>2147942487 (0x80070057)</dt></dl> | Параметр <em>енкриптионмесод</em> предоставляется, но не находится в известном диапазоне или не соответствует текущему параметру групповая политика.<br /> | 
+| <dl><dt><strong>FVE_E_CANNOT_ENCRYPT_NO_KEY</strong></dt><dt>2150694958 (0x8031002E)</dt></dl> | Для тома не существует ключа шифрования.<br /> Отключите предохранители ключа с помощью метода <a href="disablekeyprotectors-win32-encryptablevolume.md"><strong>дисаблекэйпротекторс</strong></a> или используйте один из следующих методов, чтобы указать предохранители ключа для тома:<ul><li><a href="protectkeywithexternalkey-win32-encryptablevolume.md"><strong>протекткэйвисекстерналкэй</strong></a></li><li><a href="protectkeywithnumericalpassword-win32-encryptablevolume.md"><strong>протекткэйвиснумерикалпассворд</strong></a></li><li><a href="protectkeywithtpm-win32-encryptablevolume.md"><strong>протекткэйвистпм</strong></a></li><li><a href="protectkeywithtpmandpin-win32-encryptablevolume.md"><strong>протекткэйвистпмандпин</strong></a></li><li><a href="protectkeywithtpmandpinandstartupkey-win32-encryptablevolume.md"><strong>протекткэйвистпмандпинандстартупкэй</strong></a></li><li><a href="protectkeywithtpmandstartupkey-win32-encryptablevolume.md"><strong>протекткэйвистпмандстартупкэй</strong></a></li></ul><br /> | 
+| <dl><dt><strong>FVE_E_CLUSTERING_NOT_SUPPORTED</strong></dt><dt>2150694942 (0x8031001E)</dt></dl> | Невозможно зашифровать том, так как этот компьютер настроен как часть кластера серверов.<br /> | 
+| <dl><dt><strong>FVE_E_NO_PROTECTORS_TO_TEST</strong></dt><dt>2150694971 (0x8031003B)</dt></dl> | Не удается найти предохранители ключа типа "TPM", "TPM и ПИН-код", "TPM, ПИН-код и ключ запуска", "TPM, ключ запуска" или "внешний ключ". Проверка оборудования включает только предыдущие предохранители ключа.<br /> Если вы по-прежнему хотите выполнить тест оборудования, необходимо использовать один из следующих методов для указания предохранителей ключа для тома:<ul><li><a href="protectkeywithexternalkey-win32-encryptablevolume.md"><strong>протекткэйвисекстерналкэй</strong></a></li><li><a href="protectkeywithnumericalpassword-win32-encryptablevolume.md"><strong>протекткэйвиснумерикалпассворд</strong></a></li><li><a href="protectkeywithtpm-win32-encryptablevolume.md"><strong>протекткэйвистпм</strong></a></li><li><a href="protectkeywithtpmandpin-win32-encryptablevolume.md"><strong>протекткэйвистпмандпин</strong></a></li><li><a href="protectkeywithtpmandpinandstartupkey-win32-encryptablevolume.md"><strong>протекткэйвистпмандпинандстартупкэй</strong></a></li><li><a href="protectkeywithtpmandstartupkey-win32-encryptablevolume.md"><strong>протекткэйвистпмандстартупкэй</strong></a></li></ul><br /> | 
+| <dl><dt><strong>FVE_E_NOT_DECRYPTED</strong></dt><dt>2150694969 (0x80310039)</dt></dl> | Том частично или полностью зашифрован.<br /> Проверка оборудования применяется перед шифрованием. Если вы по-прежнему хотите выполнить тест, сначала используйте метод <a href="decrypt-win32-encryptablevolume.md"><strong>дешифровки</strong></a> , а затем используйте один из следующих методов для добавления предохранителей ключа:<ul><li><a href="protectkeywithexternalkey-win32-encryptablevolume.md"><strong>протекткэйвисекстерналкэй</strong></a></li><li><a href="protectkeywithnumericalpassword-win32-encryptablevolume.md"><strong>протекткэйвиснумерикалпассворд</strong></a></li><li><a href="protectkeywithtpm-win32-encryptablevolume.md"><strong>протекткэйвистпм</strong></a></li><li><a href="protectkeywithtpmandpin-win32-encryptablevolume.md"><strong>протекткэйвистпмандпин</strong></a></li><li><a href="protectkeywithtpmandstartupkey-win32-encryptablevolume.md"><strong>протекткэйвистпмандстартупкэй</strong></a></li></ul><br /> | 
+| <dl><dt><strong>FVE_E_NOT_OS_VOLUME</strong></dt><dt>2150694952 (0x80310028)</dt></dl> | Том является томом данных.<br /> Проверка оборудования применяется только к томам, которые могут запускать операционную систему. Запустите этот метод на том же томе операционной системы, в котором запущен.<br /> | 
+| <dl><dt><strong>FVE_E_POLICY_PASSWORD_REQUIRED</strong></dt><dt>2150694956 (0x8031002C)</dt></dl> | Не указаны предохранители ключа типа "числовой пароль". Групповая политика требуется резервное копирование сведений о восстановлении в службы домен Active Directory. Чтобы добавить хотя бы один предохранитель ключа этого типа, используйте метод <a href="protectkeywithnumericalpassword-win32-encryptablevolume.md"><strong>протекткэйвиснумерикалпассворд</strong></a> .<br /> | 
+
 
 
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 при использовании этого метода без второго параметра (в соответствии с определением Windows 7 и Windows Vista Enterprise) метод всегда запускает преобразование в полном режиме, чтобы обеспечить обратно совместимое поведение. таким образом, безопасность существующих приложений и скриптов не будет нарушена с добавлением второго необязательного параметра в Windows 8 и Windows Server 2012.
 
@@ -226,7 +166,7 @@ uint32 EncryptAfterHardwareTest(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Mergemod.dll
-ms.openlocfilehash: 53d2ac37f8864318a83c13672c081ed5dea42b0a
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 9d33b546bea909700cc1a737043947d980006764daa86771820740570adf7f80
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105651746"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120044604"
 ---
 # <a name="errormodulekeys-property"></a>Ошибка. Модулекэйс, свойство
 
@@ -38,7 +38,7 @@ propVal = Error.ModuleKeys
 
 ## <a name="property-value"></a>Значение свойства
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Клиент несет ответственность за освобождение коллекции строк, когда она больше не нужна.
 
@@ -48,14 +48,14 @@ propVal = Error.ModuleKeys
 
 См. раздел [**Получение функции \_ модулекэйс**](/windows/win32/api/mergemod/nf-mergemod-imsmerror-get_modulekeys) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------------------------------------------------|
 | Версия<br/> | Mergemod.dll 1,0 или более поздней версии<br/>                                                    |
-| Header<br/>  | <dl> <dt>Мержемод. h</dt> </dl>   |
+| Заголовок<br/>  | <dl> <dt>Мержемод. h</dt> </dl>   |
 | DLL<br/>     | <dl> <dt>Mergemod.dll</dt> </dl> |
 
 

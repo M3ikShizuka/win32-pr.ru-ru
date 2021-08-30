@@ -3,9 +3,9 @@ title: Ивмпконтролс следующий метод
 description: Следующий метод задает следующий элемент списка воспроизведения в качестве текущего элемента.
 ms.assetid: 3f82ef25-a1e0-4845-b0ed-dd6463719577
 keywords:
-- Следующий метод проигрывателя Windows Media
-- Следующий метод проигрывателя Windows Media Player, интерфейс Ивмпконтролс
-- Интерфейс Ивмпконтролс Windows Media Player, метод Next
+- следующий метод проигрыватель Windows Media
+- следующий метод проигрыватель Windows Media, интерфейс ивмпконтролс
+- интерфейс ивмпконтролс проигрыватель Windows Media, метод next
 topic_type:
 - apiref
 api_name:
@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f8444ba7d9209759cb64c4b582e1af9d074332ae
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: aa7b2fcb4a05078f1eefe90c266d636ec80cff219226246c622ce6040824c45d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105689299"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120031284"
 ---
 # <a name="iwmpcontrolsnext-method"></a>Метод Ивмпконтролс:: Next
 
@@ -53,7 +53,7 @@ Implements IWMPControls.next
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если список воспроизведения находится в последней записи при вызове **Next** , первая запись списка воспроизведения станет текущей.
 
@@ -104,19 +104,19 @@ End Sub
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |----------------------|------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/>   | Проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                      |
+| Версия<br/>   | проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                      |
 | Пространство имен<br/> | **вмплиб**<br/>                                                                                                  |
 | Сборка<br/>  | <dl> <dt>Interop.WMPLib.dll (Interop.WMPLib.dll.dll)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

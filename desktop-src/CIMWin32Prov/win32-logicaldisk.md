@@ -1,5 +1,5 @@
 ---
-description: Представляет источник данных, который разрешается в фактическое локальное запоминающее устройство в компьютерной системе под Windows.
+description: Представляет источник данных, который разрешается в фактическое локальное запоминающее устройство на компьютере, где работает Windows.
 ms.assetid: 134a90cc-b2c3-4ade-a317-b96c4aabe63d
 ms.tgt_platform: multiple
 title: Класс Win32_LogicalDisk
@@ -56,16 +56,16 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: ad1472f14e73d06c19ccc0808794a47f7588cf9b
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 6ccd719adf39bcd27ebdf8c22f5da6ac3d541b1127eb5c66fc9566ccb2a25434
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105655673"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119973404"
 ---
 # <a name="win32_logicaldisk-class"></a>\_Класс Win32 LogicalDisk
 
-[Класс WMI](/windows/desktop/WmiSdk/retrieving-a-class) для **Win32 \_ LogicalDisk** представляет источник данных, который разрешается в фактическое локальное запоминающее устройство в компьютерной системе под Windows.
+[Класс WMI](/windows/desktop/WmiSdk/retrieving-a-class) для **Win32 \_ LogicalDisk** представляет источник данных, который разрешается на фактическое локальное запоминающее устройство в компьютерной системе, на которой работает Windows.
 
 Следующий пример синтаксиса — упрощенный MOF-код, который включает все наследуемые свойства. Свойства перечислены в алфавитном порядке, а не в MOF.
 
@@ -432,7 +432,7 @@ class Win32_LogicalDisk : CIM_LogicalDisk
 
 </dd> <dt>
 
-**Заголовок**
+**Caption**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -478,7 +478,7 @@ class Win32_LogicalDisk : CIM_LogicalDisk
 Квалификаторы: [**схема**](/windows/desktop/WmiSdk/standard-qualifiers) ("Win32")
 </dt> </dl>
 
-Код ошибки Windows Configuration Manager.
+Windows Configuration Manager код ошибки.
 
 Это свойство наследуется [**от \_ CIM**](cim-logicaldevice.md)-унаследованной модели.
 
@@ -537,12 +537,12 @@ class Win32_LogicalDisk : CIM_LogicalDisk
 
 <span id="The_driver_for_this_device_needs_a_resource_that_Windows_cannot_manage."></span><span id="the_driver_for_this_device_needs_a_resource_that_windows_cannot_manage."></span><span id="THE_DRIVER_FOR_THIS_DEVICE_NEEDS_A_RESOURCE_THAT_WINDOWS_CANNOT_MANAGE."></span>
 
-<span id="the_driver_for_this_device_needs_a_resource_that_windows_cannot_manage."></span><span id="THE_DRIVER_FOR_THIS_DEVICE_NEEDS_A_RESOURCE_THAT_WINDOWS_CANNOT_MANAGE."></span>**Драйверу для этого устройства требуется ресурс, который Windows не может управлять.** (5)
+<span id="the_driver_for_this_device_needs_a_resource_that_windows_cannot_manage."></span><span id="THE_DRIVER_FOR_THIS_DEVICE_NEEDS_A_RESOURCE_THAT_WINDOWS_CANNOT_MANAGE."></span>**драйверу для этого устройства нужен ресурс, который Windows не может управлять.** (5)
 
 
 </dt> <dd>
 
-Драйверу для устройства требуется ресурс, который Windows не может управлять.
+драйверу для устройства требуется ресурс, который Windows не может управляться.
 
 </dd> <dt>
 
@@ -626,7 +626,7 @@ class Win32_LogicalDisk : CIM_LogicalDisk
 
 </dt> <dd>
 
-Windows не удается проверить ресурсы устройства.
+Windows не может проверить ресурсы устройства.
 
 </dd> <dt>
 
@@ -749,23 +749,23 @@ Windows не удается найти все ресурсы, используе
 
 <span id="Windows_is_still_setting_up_this_device."></span><span id="windows_is_still_setting_up_this_device."></span><span id="WINDOWS_IS_STILL_SETTING_UP_THIS_DEVICE."></span>
 
-<span id="windows_is_still_setting_up_this_device."></span><span id="WINDOWS_IS_STILL_SETTING_UP_THIS_DEVICE."></span>**Это устройство все еще настраивается Windows.** (25)
+<span id="windows_is_still_setting_up_this_device."></span><span id="WINDOWS_IS_STILL_SETTING_UP_THIS_DEVICE."></span>**Windows все еще настраивает это устройство.** (25)
 
 
 </dt> <dd>
 
-Устройство все еще настраивается.
+Windows все еще настраивает устройство.
 
 </dd> <dt>
 
 <span id="Windows_is_still_setting_up_this_device."></span><span id="windows_is_still_setting_up_this_device."></span><span id="WINDOWS_IS_STILL_SETTING_UP_THIS_DEVICE."></span>
 
-<span id="windows_is_still_setting_up_this_device."></span><span id="WINDOWS_IS_STILL_SETTING_UP_THIS_DEVICE."></span>**Это устройство все еще настраивается Windows.** (26)
+<span id="windows_is_still_setting_up_this_device."></span><span id="WINDOWS_IS_STILL_SETTING_UP_THIS_DEVICE."></span>**Windows все еще настраивает это устройство.** (26)
 
 
 </dt> <dd>
 
-Устройство все еще настраивается.
+Windows все еще настраивает устройство.
 
 </dd> <dt>
 
@@ -815,7 +815,7 @@ Windows не удается найти все ресурсы, используе
 
 <span id="This_device_is_not_working_properly_because_Windows_cannot_load_the_drivers_required_for_this_device."></span><span id="this_device_is_not_working_properly_because_windows_cannot_load_the_drivers_required_for_this_device."></span><span id="THIS_DEVICE_IS_NOT_WORKING_PROPERLY_BECAUSE_WINDOWS_CANNOT_LOAD_THE_DRIVERS_REQUIRED_FOR_THIS_DEVICE."></span>
 
-<span id="this_device_is_not_working_properly_because_windows_cannot_load_the_drivers_required_for_this_device."></span><span id="THIS_DEVICE_IS_NOT_WORKING_PROPERLY_BECAUSE_WINDOWS_CANNOT_LOAD_THE_DRIVERS_REQUIRED_FOR_THIS_DEVICE."></span>**Это устройство работает неправильно, так как Windows не может загрузить драйверы, необходимые для этого устройства.** 1-31
+<span id="this_device_is_not_working_properly_because_windows_cannot_load_the_drivers_required_for_this_device."></span><span id="THIS_DEVICE_IS_NOT_WORKING_PROPERLY_BECAUSE_WINDOWS_CANNOT_LOAD_THE_DRIVERS_REQUIRED_FOR_THIS_DEVICE."></span>**это устройство работает неправильно, так как Windows не может загрузить драйверы, необходимые для этого устройства.** 1-31
 
 
 </dt> <dd>
@@ -1095,7 +1095,7 @@ Windows не удается найти все ресурсы, используе
 Квалификаторы: [**маппингстрингс**](/windows/desktop/WmiSdk/standard-qualifiers) (" \| функции файловой системы Win32API [**жетволумеинформатион**](/windows/desktop/api/fileapi/nf-fileapi-getvolumeinformationa))
 </dt> </dl>
 
-Максимальная длина компонента имени файла, поддерживаемого диском Windows. Компонент filename — это часть имени файла между символами обратной косой черты. Значение можно использовать, чтобы указать, что в указанной файловой системе поддерживаются длинные имена. Например, для файловой системы FAT, поддерживающей длинные имена, функция сохраняет значение 255, а не предыдущий индикатор 8,3. Длинные имена также могут поддерживаться в системах, использующих файловую систему NTFS.
+максимальная длина компонента имени файла, поддерживаемого диском Windows. Компонент filename — это часть имени файла между символами обратной косой черты. Значение можно использовать, чтобы указать, что в указанной файловой системе поддерживаются длинные имена. Например, для файловой системы FAT, поддерживающей длинные имена, функция сохраняет значение 255, а не предыдущий индикатор 8,3. Длинные имена также могут поддерживаться в системах, использующих файловую систему NTFS.
 
 Пример: 255
 
@@ -1360,7 +1360,7 @@ Windows не удается найти все ресурсы, используе
 
 </dd> <dt>
 
-**Name**
+**Имя**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1410,7 +1410,7 @@ Windows не удается найти все ресурсы, используе
 Квалификаторы: [**схема**](/windows/desktop/WmiSdk/standard-qualifiers) ("Win32")
 </dt> </dl>
 
-Идентификатор устройства Windows самонастраивающийся логического устройства.
+Windows Самонастраивающийся идентификатор устройства логического устройства.
 
 Это свойство наследуется [**от \_ CIM**](cim-logicaldevice.md)-унаследованной модели.
 
@@ -1537,7 +1537,7 @@ Windows не удается найти все ресурсы, используе
 Тип доступа: только для чтения
 </dt> <dt>
 
-Квалификаторы: [**маппингстрингс**](/windows/desktop/WmiSdk/standard-qualifiers) ("Win32API \| сетевые функции Windows \| внетжетконнектион")
+квалификаторы: [**маппингстрингс**](/windows/desktop/WmiSdk/standard-qualifiers) ("Win32API \| Windows network functions \| внетжетконнектион")
 </dt> </dl>
 
 Сетевой путь к логическому устройству.
@@ -1900,7 +1900,7 @@ Windows не удается найти все ресурсы, используе
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **Win32 \_ LogicalDisk** является производным от [**CIM \_ LogicalDisk**](cim-logicaldisk.md) , который является производным от [**CIM \_ сторажеекстент**](cim-storageextent.md). Класс **CIM \_ сторажеекстент** является производным от [**CIM \_**](cim-logicaldevice.md)-класса.
 
@@ -1921,7 +1921,7 @@ Windows не удается найти все ресурсы, используе
 
 [Сведения о получении диска с помощью WMI/CIM...](https://Gallery.TechNet.Microsoft.Com/Get-Disk-info-using-wmicim-ff0bd352) Пример кода PowerShell в коллекции TechNet использует **Win32 \_ LogicalDisk** для извлечения **DeviceID**, **тома** и **размера** с целевого устройства. В частности, этот пример включает в себя строгую обработку исключений и возвращает один объект на компьютер, а не на диск.
 
-Сценарии предприятия часто используют настройку оборудования и программного обеспечения на удаленных компьютерах. в свою очередь, для этого необходимо заранее выяснить тип дисков, установленных на компьютере. Например, сценарий, устанавливающий приложение на диске E, работает только в том случае, если диск E является жестким диском. Если диск E представляет собой дискету или дисковод компакт-дисков, сценарий завершается ошибкой. Следующий код определяет диски и типы дисков, установленные на компьютере.
+Enterprise сценариев часто включает в себя настройку оборудования и программного обеспечения на удаленных компьютерах. в свою очередь, для этого необходимо заранее выяснить тип дисков, установленных на компьютере. Например, сценарий, устанавливающий приложение на диске E, работает только в том случае, если диск E является жестким диском. Если диск E представляет собой дискету или дисковод компакт-дисков, сценарий завершается ошибкой. Следующий код определяет диски и типы дисков, установленные на компьютере.
 
 
 ```VB
@@ -2076,7 +2076,7 @@ Get-WmiObject -Class Win32_LogicalDisk |
 
 
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -2090,7 +2090,7 @@ Get-WmiObject -Class Win32_LogicalDisk |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

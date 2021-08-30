@@ -4,12 +4,12 @@ description: Аедебуг определяет параметры удален
 ms.assetid: 0708a6e5-7bb0-4bbe-a4fd-efeaa9f4a701
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b43c9df4ab08b3b3884681ba117afc638d4bc32f
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 929b9a06d39f9cd9ed8b5fcdad17421f4cd29e7842b8796078b86175c70eb248
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "105710057"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120071224"
 ---
 # <a name="aedebug"></a>аедебуг
 
@@ -17,7 +17,7 @@ ms.locfileid: "105710057"
 
 ## <a name="registry-key"></a>Ключ реестра
 
-**HKEY \_ локальный \_ компьютер \\ программное обеспечение \\ Microsoft \\ Windows NT \\ CurrentVersion \\ дебугобжектрпценаблед \\ аедебуг**
+**HKEY \_ \_ \\ программное обеспечение на локальном компьютере \\ Microsoft \\ Windows NT \\ CurrentVersion \\ дебугобжектрпценаблед \\ аедебуг**
 
 
 
@@ -28,9 +28,9 @@ ms.locfileid: "105710057"
 
 
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -43,9 +43,9 @@ ms.locfileid: "105710057"
 [**ОРПК \_ dbg \_ ALL**](orpc-dbg-all.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: 833e9a15-10f8-4b1c-945f-bc02b506f627
 title: Продуктстате, свойство
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a51ea88058aa8bae6b67acaea96b506a7560c7a2
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 88b4be53a1764d2277aec2b9acc50ae2a62ee7cb6687752466529c7ceabc689d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105680120"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120074664"
 ---
 # <a name="productstate-property"></a>Продуктстате, свойство
 
@@ -19,7 +19,7 @@ ms.locfileid: "105680120"
 
 | INSTALLSTATE             | Числовое значение | Состояние установки продукта                   |
 |--------------------------|---------------|-------------------------------------------------|
-| INSTALLSTATE \_ неизвестный    | -1            | Продукт не объявлен или не установлен. |
+| INSTALLSTATE \_ неизвестный    | –1            | Продукт не объявлен или не установлен. |
 | INSTALLSTATE \_ объявлено | 1             | Продукт объявлен, но не установлен.    |
 | \_отсутствует InstallState     | 2             | Продукт устанавливается для другого пользователя.  |
 | INSTALLSTATE \_ по умолчанию    | 5             | Продукт установлен для текущего пользователя.  |
@@ -28,13 +28,13 @@ ms.locfileid: "105680120"
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/> | Установщик Windows 5,0 в Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Установщик Windows 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Установщик Windows в Windows Server 2003 или Windows XP. Сведения о минимальном пакете обновления Windows, который требуется для установщик Windows версии, см. в [установщик Windows Run-Time требования](windows-installer-portal.md) .<br/> |
+| Версия<br/> | Windows установщик 5,0 на Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Windows установщик 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Windows установщик на Windows Server 2003 или Windows XP. сведения о минимальном Windows пакета обновления, который требуется для установщик Windows версии, см. в [установщик Windows требования к Run-Time](windows-installer-portal.md) .<br/> |
 
 
 

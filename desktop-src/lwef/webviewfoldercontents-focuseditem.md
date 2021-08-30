@@ -3,9 +3,9 @@ title: Свойство Вебвиевфолдерконтентс. Фокусе
 description: Вебвиевфолдерконтентс. Фокуседитем Property — возвращает объект FolderItem, представляющий элемент, имеющий фокус ввода.
 ms.assetid: 84cf92ac-dadb-4741-8383-a8ae1d35d4e0
 keywords:
-- Свойства Фокуседитем устаревшие функции среды Windows
-- Свойства Фокуседитем устаревшие функции среды Windows, объект Вебвиевфолдерконтентс
-- Функции среды Windows для устаревшего объекта Вебвиевфолдерконтентс, свойство Фокуседитем
+- свойства фокуседитем устаревшей среды Windows
+- свойства фокуседитем устаревшей среды Windows, объект вебвиевфолдерконтентс
+- функции среды Windows вебвиевфолдерконтентс объектов прежних версий, свойство фокуседитем
 topic_type:
 - apiref
 api_name:
@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 724743b81f605dc9ba5794a4a796b8a0c4a2a03f
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 0a4d9a22ac1529fc7f8f3880f53666e9835fae1088d3c7548abfa38a5f400061
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108102732"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120114534"
 ---
 # <a name="webviewfoldercontentsfocuseditem-property"></a>Вебвиевфолдерконтентс. Фокуседитем, свойство
 
@@ -44,7 +44,7 @@ objFocusedItem = WebViewFolderContents.FocusedItem
 
 ## <a name="examples"></a>Примеры
 
-В следующем примере показано правильное использование этого свойства в JScript Embedded в HTML.
+в следующем примере показано правильное использование этого свойства в JScript, внедренном в HTML.
 
 
 ```HTML
@@ -84,7 +84,7 @@ objFocusedItem = WebViewFolderContents.FocusedItem
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ классических приложений Windows XP\]<br/>                                         |
+| Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ настольных приложений Windows XP\]<br/>                                         |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                           |
 | Заголовок<br/>                   | <dl> <dt>Шлдисп. h</dt> </dl>                           |
 | IDL<br/>                      | <dl> <dt>Шлдисп. idl</dt> </dl>                         |

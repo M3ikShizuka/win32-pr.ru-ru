@@ -4,12 +4,12 @@ ms.assetid: dc56fee3-e0df-4f8e-8a41-92460279280a
 title: Событие PBT_APMPOWERSTATUSCHANGE (WinUser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 18ed67f7ba064d44614196da4190ce18a996bd5f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: d92739182bdee624e54f11d4fe4b430e32c35e0a9f215e795081a713ea67b41f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104264505"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119961644"
 ---
 # <a name="pbt_apmpowerstatuschange-event"></a>\_Событие ПБТ апмповерстатусчанже
 
@@ -71,7 +71,7 @@ WindowProc( HWND hwnd,      // handle to window
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Приложение должно обработать это событие, вызвав функцию [**GetSystemPowerStatus**](/windows/desktop/api/Winbase/nf-winbase-getsystempowerstatus) для получения текущего состояния питания компьютера. В частности, приложение должно проверять члены **аклинестатус**, **баттерифлаг**, **Баттерилифетиме** и **баттерилифеперцент** структуры [**Power System \_ \_ Status**](/windows/desktop/api/Winbase/ns-winbase-system_power_status) для любых изменений. Это событие может возникать, когда время работы аккумулятора падает менее чем за 5 минут или когда процент времени работы батареи падает ниже 10% или если время работы батареи изменяется на 3 процента.
 
@@ -81,9 +81,9 @@ WindowProc( HWND hwnd,      // handle to window
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                                              |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>WinUser. h (включение Windows. h)</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                                              |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
+| Заголовок<br/>                   | <dl> <dt>WinUser. h (включает Windows. h)</dt> </dl> |
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: d3725796-f683-4ca1-a37f-22c40fff0b76
 title: Атрибут MF_MT_FRAME_RATE_RANGE_MIN (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9692927242eea7ec65b86572db455e610e30c711
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 11253444255e3bac36cb4563e632ebe04d1782b0ae8edadabc08e34cf1d38a99
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103912164"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120113794"
 ---
 # <a name="mf_mt_frame_rate_range_min-attribute"></a>\_ \_ \_ \_ Атрибут мин в диапазоне частоты кадров MF MT \_
 
@@ -25,7 +25,7 @@ ms.locfileid: "103912164"
 
 Чтобы задать этот атрибут, вызовите [**мфсетаттрибутератио**](/windows/desktop/api/mfapi/nf-mfapi-mfsetattributeratio).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Частота кадров выражается в виде коэффициента. Верхние 32 бит значения атрибута содержат числитель, а младшие 32 биты содержат знаменатель. Например, если частота кадров составляет 30 кадров в секунду (кадров/с), то соотношение составляет 30/1.
 
@@ -35,19 +35,19 @@ ms.locfileid: "103912164"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 7 \|\]<br/>                                  |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2008 R2 \|\]<br/>                     |
-| Header<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
+| Минимальная версия клиента<br/> | \[приложения UWP для классических приложений Windows 7 \|\]<br/>                                  |
+| Минимальная версия сервера<br/> | Windows \[Приложения UWP для настольных приложений Server 2008 R2 \|\]<br/>                     |
+| Заголовок<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

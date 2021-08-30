@@ -3,7 +3,7 @@ title: Код уведомления NM_DBLCLK (строка состояния)
 description: Сообщает родительскому окну элемента управления "строка состояния", что пользователь дважды щелкнул левую кнопку мыши в элементе управления. Этот код уведомления отправляется в виде \_ сообщения WM notify.
 ms.assetid: 4c02c76d-2bdb-48ef-aa8e-635d0e200eb1
 keywords:
-- Элементы управления Windows для кода уведомления NM_DBLCLK (строка состояния)
+- элементы управления Windows кода уведомления NM_DBLCLK (строка состояния)
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 28866effbc4143dc9d0d5a3800f88711c99f88db
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: de3704d2a8674233d0cd5dce04849db6b0f794bc7fe5032b149de15411a3c068
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103988194"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120088834"
 ---
 # <a name="nm_dblclk-status-bar-notification-code"></a>\_Код уведомления NM дблклк (строка состояния)
 
@@ -55,8 +55,8 @@ NM_DBLCLK
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
 | Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 

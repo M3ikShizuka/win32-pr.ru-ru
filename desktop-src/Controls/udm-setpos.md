@@ -3,7 +3,7 @@ title: Сообщение UDM_SETPOS (Коммктрл. h)
 description: Задает текущую точку для элемента управления "вверх/вниз" с 16-разрядной точностью.
 ms.assetid: e7c8b55f-3a4f-47e7-8c7d-e47509f27f1d
 keywords:
-- Элементы управления Windows для UDM_SETPOS сообщений
+- элементы управления Windows сообщений UDM_SETPOS
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b409f9e7468e3add89248b61b7b563ac592f0dcc
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: f1f87d079a7bbe454084785cba8ed3361193224edd3e781441f4fe614533b8dd
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104136619"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120088434"
 ---
 # <a name="udm_setpos-message"></a>\_Сообщение СЕТПОС UDM
 
@@ -43,23 +43,23 @@ ms.locfileid: "104136619"
 
 Возвращаемое значение является предыдущей позицией.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это сообщение поддерживает только 16-разрядные позиции. Если 32-разрядные значения включены для элемента управления "вверх/вниз" [**с \_ SETRANGE32 UDM**](udm-setrange32.md), [**Используйте \_ SETPOS32 UDM**](udm-setpos32.md).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

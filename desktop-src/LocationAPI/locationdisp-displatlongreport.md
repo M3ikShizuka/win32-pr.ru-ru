@@ -12,16 +12,16 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: 1b9629f22aee33670463b2a0832c12d520a9b8e2
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: af6d0df9dfa3bec9249cb2e55cb34dc552ce6a19be26495430a8d602a4427da1
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105684546"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120129874"
 ---
 # <a name="locationdispdisplatlongreport-object"></a>Локатиондисп. Дисплатлонгрепорт, объект
 
-\[Объектная модель API расположения доступна для использования в операционных системах, указанных в разделе требования. В последующих версиях он может быть изменен или недоступен. Вместо этого для доступа к расположению с веб-сайта используйте [API географического расположения W3C](/previous-versions/windows/internet-explorer/ie-developer/samples/gg589513(v=vs.85)). Чтобы получить доступ к расположению из классического приложения, используйте API [**Windows. Devices. Географическое расположение**](/uwp/api/Windows.Devices.Geolocation) .\]
+\[Объектная модель API расположения доступна для использования в операционных системах, указанных в разделе требования. В последующих версиях он может быть изменен или недоступен. Вместо этого для доступа к расположению с веб-сайта используйте [API географического расположения W3C](/previous-versions/windows/internet-explorer/ie-developer/samples/gg589513(v=vs.85)). Чтобы получить доступ к расположению из классического приложения, используйте [**Windows. API Devices. Географическое расположение**](/uwp/api/Windows.Devices.Geolocation) .\]
 
 Представляет отчет широты и долготы.
 
@@ -31,7 +31,7 @@ ms.locfileid: "105684546"
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Объект **локатиондисп. дисплатлонгрепорт** имеет следующие свойства.
 
@@ -43,14 +43,14 @@ ms.locfileid: "105684546"
 | [**алтитудиррор**](locationdisp-displatlongreport-altitudeerror.md)<br/> | Только для чтения<br/> | Ошибка высоты, в метрах.<br/>                                                                                                                                                             |
 | [**ерроррадиус**](locationdisp-displatlongreport-errorradius.md)<br/>     | Только для чтения<br/> | Расстояние от сообщаемого места в метрах. В сочетании с исходным расположением в качестве источника этот радиус описывает круг, в котором находится фактическое расположение проабли.<br/> |
 | [**Широта**](locationdisp-displatlongreport-latitude.md)<br/>           | Только для чтения<br/> | Текущая Широта в градусах.<br/>                                                                                                                                                          |
-| [**Долгот**](locationdisp-displatlongreport-longitude.md)<br/>         | Только для чтения<br/> | Текущая Долгота (в градусах).<br/>                                                                                                                                                         |
-| [**Отметка времени**](locationdisp-displatlongreport-timestamp.md)<br/>         | Только для чтения<br/> | Дата и время создания отчета.<br/>                                                                                                                                       |
+| [**Долгота**](locationdisp-displatlongreport-longitude.md)<br/>         | Только для чтения<br/> | Текущая Долгота (в градусах).<br/>                                                                                                                                                         |
+| [**Timestamp**](locationdisp-displatlongreport-timestamp.md)<br/>         | Только для чтения<br/> | Дата и время создания отчета.<br/>                                                                                                                                       |
 
 
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот объект можно получить с помощью свойства [**латлонгрепорт**](locationdisp-latlongreportfactory-latlongreport.md) объекта [**латлонгрепортфактори**](locationdisp-latlongreportfactory.md) . Этот объект можно получить с помощью события [**невлатлонгрепорт**](newlatlongreport.md) .
 
@@ -60,7 +60,7 @@ ms.locfileid: "105684546"
 
 | Требование | Значение |
 |-------------------------------------|--------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 7\]<br/> |
+| Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/> |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                  |
 
 

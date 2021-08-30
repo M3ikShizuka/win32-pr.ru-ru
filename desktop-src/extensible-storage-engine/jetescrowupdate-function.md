@@ -18,12 +18,12 @@ api_type:
 api_location:
 - ESENT.DLL
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: e9f037b8c26829d7b1f3a10b05e1d4bd83bd186a
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.openlocfilehash: e24b681aae85f510a5d20528b45eaaf59011ce66
+ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122469801"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122982985"
 ---
 # <a name="jetescrowupdate-function"></a>Функция JetEscrowUpdate
 
@@ -142,20 +142,20 @@ _**Применимо к:** Windows | Windows Сервером_
 
 | <p>Сеанс</p> | <p>Операция</p> | <p>Сохраненное значение</p> | <p>Возвращаемое значение</p> | 
 |----------------|------------------|---------------------|-----------------------|
-| <p>А</p> | <p><a href="gg294083(v=exchg.10).md">жетбегинтрансатион</a></p> | <p></p> | <p></p> | 
-| <p>А</p> | <p><a href="gg294083(v=exchg.10).md">жетбегинтрансатион</a></p> | <p></p> | <p>0</p> | 
-| <p>А</p> | <p><strong>Жетескровупдате</strong> (4)</p> | <p>4</p> | <p>0</p> | 
-| <p>А</p> | <p><a href="gg269198(v=exchg.10).md">жетретриевеколумн</a></p> | <p></p> | <p>4</p> | 
+| <p>Объект</p> | <p><a href="gg294083(v=exchg.10).md">жетбегинтрансатион</a></p> | <p></p> | <p></p> | 
+| <p>Объект</p> | <p><a href="gg294083(v=exchg.10).md">жетбегинтрансатион</a></p> | <p></p> | <p>0</p> | 
+| <p>Объект</p> | <p><strong>Жетескровупдате</strong> (4)</p> | <p>4</p> | <p>0</p> | 
+| <p>Объект</p> | <p><a href="gg269198(v=exchg.10).md">жетретриевеколумн</a></p> | <p></p> | <p>4</p> | 
 | <p>B</p> | <p><a href="gg294083(v=exchg.10).md">жетбегинтрансактион</a></p> | <p></p> | <p></p> | 
 | <p>B</p> | <p><a href="gg269198(v=exchg.10).md">жетретриевеколумн</a></p> | <p></p> | <p>0</p> | 
 | <p>B</p> | <p><strong>Жетескровупдате</strong> (3)</p> | <p>7</p> | <p>4</p> | 
 | <p>B</p> | <p><a href="gg269198(v=exchg.10).md">жетретриевеколумн</a></p> | <p></p> | <p>3</p> | 
 | <p>A</p> | <p><strong>Жетескровупдате</strong> (2)</p> | <p>9</p> | <p>7</p> | 
-| <p>А</p> | <p><strong>Жетескровупдате</strong> (-7)</p> | <p>2</p> | <p>9</p> | 
+| <p>Объект</p> | <p><strong>Жетескровупдате</strong> (-7)</p> | <p>2</p> | <p>9</p> | 
 | <p>B</p> | <p><a href="gg269198(v=exchg.10).md">жетретриевеколумн</a></p> | <p></p> | <p>3</p> | 
 | <p>A</p> | <p><a href="gg269198(v=exchg.10).md">жетретриевеколумн</a></p> | <p></p> | <p>-1</p> | 
 | <p>B</p> | <p><a href="gg269273(v=exchg.10).md">жетроллбакк</a></p> | <p>-1</p> | <p></p> | 
-| <p>А</p> | <p><a href="gg269198(v=exchg.10).md">жетретриевеколумн</a></p> | <p></p> | <p>-1</p> | 
+| <p>Объект</p> | <p><a href="gg269198(v=exchg.10).md">жетретриевеколумн</a></p> | <p></p> | <p>-1</p> | 
 
 
 
@@ -166,7 +166,13 @@ _**Применимо к:** Windows | Windows Сервером_
 #### <a name="requirements"></a>Требования
 
 
-| | | <p><strong>Клиент</strong></p> | <p>требуется Windows Vista, Windows XP или Windows 2000 Professional.</p> | | <p><strong>Сервер</strong></p> | <p>требуется Windows server 2008, Windows server 2003 или сервер Windows 2000.</p> | | <p><strong>Header</strong></p> | <p>Объявлено в ESENT. h.</p> | | <p><strong>Библиотека</strong></p> | <p>Используйте ESENT. lib.</p> | | <p><strong>КОМПОНОВКИ</strong></p> | <p>Требуется ESENT.dll.</p> | 
+| Требование | Применение |
+|------------|----------|
+| <p><strong>Клиент</strong></p> | <p>требуется Windows Vista, Windows XP или Windows 2000 Professional.</p> | 
+| <p><strong>Server</strong></p> | <p>требуется Windows server 2008, Windows server 2003 или сервер Windows 2000.</p> | 
+| <p><strong>Header</strong></p> | <p>Объявлено в ESENT. h.</p> | 
+| <p><strong>Библиотека</strong></p> | <p>Используйте ESENT. lib.</p> | 
+| <p><strong>КОМПОНОВКИ</strong></p> | <p>Требуется ESENT.dll.</p> | 
 
 
 

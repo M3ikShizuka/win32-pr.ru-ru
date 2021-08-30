@@ -138,12 +138,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5d5d1eaf0a86cfdb2cb1051e6ae18f149bcb7934e1de5730857eead42b14917f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f5c3823ed750637d595924eb47acc714403751eb
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118951243"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122467981"
 ---
 # <a name="filtering-condition-identifiers"></a>Фильтрация идентификаторов условий
 
@@ -158,189 +158,41 @@ ms.locfileid: "118951243"
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">условия, доступные для Windows 8 и Windows Server 2012</th>
-<th style="text-align: left;">Описание</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_INTERFACE_MAC_ADDRESS"></span><span id="fwpm_condition_interface_mac_address"></span><dl> <dt><strong>FWPM_CONDITION_INTERFACE_MAC_ADDRESS</strong></dt> </dl></td>
-<td style="text-align: left;">MAC-адрес определенного локального интерфейса.<br/> <strong>Тип данных:</strong> FWP_BYTE_ARRAY6_TYPE <br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_MAC_LOCAL_ADDRESS"></span><span id="fwpm_condition_mac_local_address"></span><dl> <dt><strong>FWPM_CONDITION_MAC_LOCAL_ADDRESS</strong></dt> </dl></td>
-<td style="text-align: left;">Адрес назначения входящего кадра или исходного адреса исходящего кадра.<br/> <strong>Тип данных:</strong> FWP_BYTE_ARRAY6_TYPE<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_MAC_REMOTE_ADDRESS"></span><span id="fwpm_condition_mac_remote_address"></span><dl> <dt><strong>FWPM_CONDITION_MAC_REMOTE_ADDRESS</strong></dt> </dl></td>
-<td style="text-align: left;">Исходный адрес входящего кадра или адрес назначения исходящего кадра.<br/> <strong>Тип данных:</strong> FWP_BYTE_ARRAY6_TYPE<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_ETHER_TYPE"></span><span id="fwpm_condition_ether_type"></span><dl> <dt><strong>FWPM_CONDITION_ETHER_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Тип полезных данных сети Ethernet v2. (См. ETHERNET_TYPE_IPV4 и т. д. в нетиодеф. h.)<br/> <strong>Тип данных:</strong> FWP_UINT16<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_VLAN_ID"></span><span id="fwpm_condition_vlan_id"></span><dl> <dt><strong>FWPM_CONDITION_VLAN_ID</strong></dt> </dl></td>
-<td style="text-align: left;">16-разрядный заголовок VLAN, включающий поля VID, КФИ и Priority в соответствии со стандартом 802.1 q (см. VLAN_TAG в нетиодеф. h для позиций битовых полей).<br/> <strong>Тип данных:</strong> FWP_UINT16<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_VSWITCH_TENANT_NETWORK_ID"></span><span id="fwpm_condition_vswitch_tenant_network_id"></span><dl> <dt><strong>FWPM_CONDITION_VSWITCH_TENANT_NETWORK_ID</strong></dt> </dl></td>
-<td style="text-align: left;">Уникальный идентификатор для сети vSwitch. Нельзя использовать в сочетании с VLAN_IDs.<br/> <strong>Тип данных:</strong> FWP_UINT16<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_NDIS_PORT"></span><span id="fwpm_condition_ndis_port"></span><dl> <dt><strong>FWPM_CONDITION_NDIS_PORT</strong></dt> </dl></td>
-<td style="text-align: left;">Номер порта NDIS.<br/> <strong>Тип данных:</strong> FWP_UINT32<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_NDIS_MEDIA_TYPE"></span><span id="fwpm_condition_ndis_media_type"></span><dl> <dt><strong>FWPM_CONDITION_NDIS_MEDIA_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Тип носителя для порта NDIS.<br/> <strong>Тип данных:</strong> FWP_UINT32<br/> <strong>Возможные значения:</strong> Любое из значений перечисления <strong>NDIS_MEDIUM</strong> . (См. нтддндис. h.) <br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_NDIS_PHYSICAL_MEDIA_TYPE"></span><span id="fwpm_condition_ndis_physical_media_type"></span><dl> <dt><strong>FWPM_CONDITION_NDIS_PHYSICAL_MEDIA_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Тип физического носителя для порта NDIS.<br/> <strong>Тип данных:</strong> FWP_UINT32<br/> <strong>Возможные значения:</strong> Любое из значений перечисления <strong>NDIS_PHYSICAL_MEDIUM</strong> . (См. нтддндис. h.) <br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_L2_FLAGS"></span><span id="fwpm_condition_l2_flags"></span><dl> <dt><strong>FWPM_CONDITION_L2_FLAGS</strong></dt> </dl></td>
-<td style="text-align: left;">Побитовое или для сочетания флагов условий фильтрации. <br/> <strong>Тип данных:</strong> FWP_UINT32<br/> <strong>Возможные значения:  </strong>
-<ul>
-<li>FWP_CONDITION_L2_IS_MOBILE_BROADBAND</li>
-<li>FWP_CONDITION_L2_IS_NATIVE_ETHERNET</li>
-<li>FWP_CONDITION_L2_IS_WIFI</li>
-<li>FWP_CONDITION_L2_IS_WIFI_DIRECT_DATA</li>
-</ul>
-<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_MAC_LOCAL_ADDRESS_TYPE"></span><span id="fwpm_condition_mac_local_address_type"></span><dl> <dt><strong>FWPM_CONDITION_MAC_LOCAL_ADDRESS_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Тип адреса физического локального адреса.<br/> <strong>Тип данных:</strong> FWP_UINT8<br/> <strong>Возможные значения:</strong> Любое из следующих <strong>DL_ADDRESS_TYPE</strong> значений перечисления.
-<ul>
-<li>длуникаст</li>
-<li>длмултикаст</li>
-<li>длброадкаст</li>
-</ul>
-<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_MAC_REMOTE_ADDRESS_TYPE"></span><span id="fwpm_condition_mac_remote_address_type"></span><dl> <dt><strong>FWPM_CONDITION_MAC_REMOTE_ADDRESS_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Тип адреса физического удаленного адреса.<br/> <strong>Тип данных:</strong> FWP_UINT8<br/> <strong>Возможные значения:</strong> Любое из следующих <strong>DL_ADDRESS_TYPE</strong> значений перечисления.
-<ul>
-<li>длуникаст</li>
-<li>длмултикаст</li>
-<li>длброадкаст</li>
-</ul>
-<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_MAC_SOURCE_ADDRESS"></span><span id="fwpm_condition_mac_source_address"></span><dl> <dt><strong>FWPM_CONDITION_MAC_SOURCE_ADDRESS</strong></dt> </dl></td>
-<td style="text-align: left;">Физический адрес источника кадра.<br/> <strong>Тип данных:</strong> FWP_BYTE_ARRAY6_TYPE<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_MAC_DESTINATION_ADDRESS"></span><span id="fwpm_condition_mac_destination_address"></span><dl> <dt><strong>FWPM_CONDITION_MAC_DESTINATION_ADDRESS</strong></dt> </dl></td>
-<td style="text-align: left;">Физический адрес назначения кадра.<br/> <strong>Тип данных:</strong> FWP_BYTE_ARRAY6_TYPE<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_MAC_SOURCE_ADDRESS_TYPE"></span><span id="fwpm_condition_mac_source_address_type"></span><dl> <dt><strong>FWPM_CONDITION_MAC_SOURCE_ADDRESS_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Тип адреса физического адреса назначения.<br/> <strong>Тип данных:</strong> FWP_UINT8<br/> <strong>Возможные значения:</strong> Любое из следующих <strong>DL_ADDRESS_TYPE</strong> значений перечисления.
-<ul>
-<li>длуникаст</li>
-<li>длмултикаст</li>
-<li>длброадкаст</li>
-</ul>
-<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_MAC_DESTINATION_ADDRESS_TYPE"></span><span id="fwpm_condition_mac_destination_address_type"></span><dl> <dt><strong>FWPM_CONDITION_MAC_DESTINATION_ADDRESS_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Тип адреса физического адреса назначения.<br/> <strong>Тип данных:</strong> FWP_UINT8<br/> <strong>Возможные значения:</strong> Любое из следующих <strong>DL_ADDRESS_TYPE</strong> значений перечисления.
-<ul>
-<li>длуникаст</li>
-<li>длмултикаст</li>
-<li>длброадкаст</li>
-</ul>
-<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_IP_SOURCE_PORT"></span><span id="fwpm_condition_ip_source_port"></span><dl> <dt><strong>FWPM_CONDITION_IP_SOURCE_PORT</strong></dt> </dl></td>
-<td style="text-align: left;">Исходный порт транспорта пакета.<br/> <strong>Тип данных:</strong> FWP_UINT16<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_VSWITCH_ICMP_TYPE"></span><span id="fwpm_condition_vswitch_icmp_type"></span><dl> <dt><strong>FWPM_CONDITION_VSWITCH_ICMP_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Поле типа ICMP, как указано в RFC 792.<br/> <strong>Тип данных:</strong> FWP_UINT16<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_IP_DESTINATION_PORT"></span><span id="fwpm_condition_ip_destination_port"></span><dl> <dt><strong>FWPM_CONDITION_IP_DESTINATION_PORT</strong></dt> </dl></td>
-<td style="text-align: left;">Порт назначения транспорта пакета.<br/> <strong>Тип данных:</strong> FWP_UINT16<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_VSWITCH_ICMP_CODE"></span><span id="fwpm_condition_vswitch_icmp_code"></span><dl> <dt><strong>FWPM_CONDITION_VSWITCH_ICMP_CODE</strong></dt> </dl></td>
-<td style="text-align: left;">Поле кода ICMP, как указано в RFC 792. <br/> <strong>Тип данных:</strong> FWP_UINT16<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_VSWITCH_ID"></span><span id="fwpm_condition_vswitch_id"></span><dl> <dt><strong>FWPM_CONDITION_VSWITCH_ID</strong></dt> </dl></td>
-<td style="text-align: left;">Уникальный идентификатор экземпляра vSwitch.<br/> <strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_VSWITCH_NETWORK_TYPE"></span><span id="fwpm_condition_vswitch_network_type"></span><dl> <dt><strong>FWPM_CONDITION_VSWITCH_NETWORK_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Указывает, является ли экземпляр vSwitch частью внешней, внутренней или частной виртуальной сети.<br/> <strong>Тип данных:</strong> FWP_UINT8<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_VSWITCH_SOURCE_INTERFACE_ID"></span><span id="fwpm_condition_vswitch_source_interface_id"></span><dl> <dt><strong>FWPM_CONDITION_VSWITCH_SOURCE_INTERFACE_ID</strong></dt> </dl></td>
-<td style="text-align: left;">Уникальный идентификатор источника текущего пакета. (Имя виртуальной машины — NIC, P-NIC или V-NIC.)<br/> <strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_VSWITCH_DESTINATION_INTERFACE_ID"></span><span id="fwpm_condition_vswitch_destination_interface_id"></span><dl> <dt><strong>FWPM_CONDITION_VSWITCH_DESTINATION_INTERFACE_ID</strong></dt> </dl></td>
-<td style="text-align: left;">Уникальный идентификатор назначения текущего пакета. (Имя виртуальной машины — NIC, P-NIC или V-NIC.)<br/> <strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_VSWITCH_SOURCE_VM_ID"></span><span id="fwpm_condition_vswitch_source_vm_id"></span><dl> <dt><strong>FWPM_CONDITION_VSWITCH_SOURCE_VM_ID</strong></dt> </dl></td>
-<td style="text-align: left;">Уникальный идентификатор исходной виртуальной машины vSwitch.<br/> <strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_VSWITCH_DESTINATION_VM_ID"></span><span id="fwpm_condition_vswitch_destination_vm_id"></span><dl> <dt><strong>FWPM_CONDITION_VSWITCH_DESTINATION_VM_ID</strong></dt> </dl></td>
-<td style="text-align: left;">Уникальный идентификатор целевой виртуальной машины vSwitch.<br/> <strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_VSWITCH_SOURCE_INTERFACE_TYPE"></span><span id="fwpm_condition_vswitch_source_interface_type"></span><dl> <dt><strong>FWPM_CONDITION_VSWITCH_SOURCE_INTERFACE_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Тип интерфейса источника текущего пакета.<br/> <strong>Тип данных:</strong> FWP_UINT8<br/> <strong>Возможные значения:  </strong>
-<ul>
-<li>Свитчниксинсетикник (если тип интерфейса — VM-NIC)</li>
-<li>Свитчницемулатедник (если тип интерфейса — VM-NIC)</li>
-<li>Свитчникфисикалник (если тип интерфейса — P-NIC)</li>
-<li>Свитчниквник (если тип интерфейса — V-NIC, подключенный к разделу узла)</li>
-</ul>
-<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_VSWITCH_DESTINATION_INTERFACE_TYPE"></span><span id="fwpm_condition_vswitch_destination_interface_type"></span><dl> <dt><strong>FWPM_CONDITION_VSWITCH_DESTINATION_INTERFACE_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Тип интерфейса назначения текущего пакета.<br/> <strong>Тип данных:</strong> FWP_UINT8<br/> <strong>Возможные значения:  </strong>
-<ul>
-<li>Свитчниксинсетикник (если тип интерфейса — VM-NIC)</li>
-<li>Свитчницемулатедник (если тип интерфейса — VM-NIC)</li>
-<li>Свитчникфисикалник (если тип интерфейса — P-NIC)</li>
-<li>Свитчниквник (если тип интерфейса — V-NIC, подключенный к разделу узла)</li>
-</ul>
-<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_INTERFACE"></span><span id="fwpm_condition_interface"></span><dl> <dt><strong>FWPM_CONDITION_INTERFACE</strong></dt> </dl></td>
-<td style="text-align: left;">LUID для сетевого интерфейса, связанного с локальным IP-адресом. <br/> <strong>Тип данных:</strong> FWP_UINT64<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_ALE_PACKAGE_ID"></span><span id="fwpm_condition_ale_package_id"></span><dl> <dt><strong>FWPM_CONDITION_ALE_PACKAGE_ID</strong></dt> </dl></td>
-<td style="text-align: left;">Идентификатор безопасности (SID) контейнера приложения.<br/> <strong>Тип данных:</strong> FWP_SID<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_ALE_ORIGINAL_APP_ID"></span><span id="fwpm_condition_ale_original_app_id"></span><dl> <dt><strong>FWPM_CONDITION_ALE_ORIGINAL_APP_ID</strong></dt> </dl></td>
-<td style="text-align: left;">Полный путь к устройству приложения, например &quot; \device0\hardiskvolume1\Program Files\Application.exe&quot; . Если подключение было перенаправлено, это будет идентификатор исходного приложения; в противном случае он будет таким же, как <strong>FWPM_CONDITION_ALE_APP_ID</strong>.<br/> <strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br/></td>
-</tr>
-</tbody>
-</table>
+
+| условия, доступные для Windows 8 и Windows Server 2012 | Описание | 
+|------------------------------------------------------------|-------------|
+| <span id="FWPM_CONDITION_INTERFACE_MAC_ADDRESS"></span><span id="fwpm_condition_interface_mac_address"></span><dl><dt><strong>FWPM_CONDITION_INTERFACE_MAC_ADDRESS</strong></dt></dl> | MAC-адрес определенного локального интерфейса.<br /><strong>Тип данных:</strong> FWP_BYTE_ARRAY6_TYPE <br /> | 
+| <span id="FWPM_CONDITION_MAC_LOCAL_ADDRESS"></span><span id="fwpm_condition_mac_local_address"></span><dl><dt><strong>FWPM_CONDITION_MAC_LOCAL_ADDRESS</strong></dt></dl> | Адрес назначения входящего кадра или исходного адреса исходящего кадра.<br /><strong>Тип данных:</strong> FWP_BYTE_ARRAY6_TYPE<br /> | 
+| <span id="FWPM_CONDITION_MAC_REMOTE_ADDRESS"></span><span id="fwpm_condition_mac_remote_address"></span><dl><dt><strong>FWPM_CONDITION_MAC_REMOTE_ADDRESS</strong></dt></dl> | Исходный адрес входящего кадра или адрес назначения исходящего кадра.<br /><strong>Тип данных:</strong> FWP_BYTE_ARRAY6_TYPE<br /> | 
+| <span id="FWPM_CONDITION_ETHER_TYPE"></span><span id="fwpm_condition_ether_type"></span><dl><dt><strong>FWPM_CONDITION_ETHER_TYPE</strong></dt></dl> | Тип полезных данных сети Ethernet v2. (См. ETHERNET_TYPE_IPV4 и т. д. в нетиодеф. h.)<br /><strong>Тип данных:</strong> FWP_UINT16<br /> | 
+| <span id="FWPM_CONDITION_VLAN_ID"></span><span id="fwpm_condition_vlan_id"></span><dl><dt><strong>FWPM_CONDITION_VLAN_ID</strong></dt></dl> | 16-разрядный заголовок VLAN, включающий поля VID, КФИ и Priority в соответствии со стандартом 802.1 q (см. VLAN_TAG в нетиодеф. h для позиций битовых полей).<br /><strong>Тип данных:</strong> FWP_UINT16<br /> | 
+| <span id="FWPM_CONDITION_VSWITCH_TENANT_NETWORK_ID"></span><span id="fwpm_condition_vswitch_tenant_network_id"></span><dl><dt><strong>FWPM_CONDITION_VSWITCH_TENANT_NETWORK_ID</strong></dt></dl> | Уникальный идентификатор для сети vSwitch. Нельзя использовать в сочетании с VLAN_IDs.<br /><strong>Тип данных:</strong> FWP_UINT16<br /> | 
+| <span id="FWPM_CONDITION_NDIS_PORT"></span><span id="fwpm_condition_ndis_port"></span><dl><dt><strong>FWPM_CONDITION_NDIS_PORT</strong></dt></dl> | Номер порта NDIS.<br /><strong>Тип данных:</strong> FWP_UINT32<br /> | 
+| <span id="FWPM_CONDITION_NDIS_MEDIA_TYPE"></span><span id="fwpm_condition_ndis_media_type"></span><dl><dt><strong>FWPM_CONDITION_NDIS_MEDIA_TYPE</strong></dt></dl> | Тип носителя для порта NDIS.<br /><strong>Тип данных:</strong> FWP_UINT32<br /><strong>Возможные значения:</strong> Любое из значений перечисления <strong>NDIS_MEDIUM</strong> . (См. нтддндис. h.) <br /> | 
+| <span id="FWPM_CONDITION_NDIS_PHYSICAL_MEDIA_TYPE"></span><span id="fwpm_condition_ndis_physical_media_type"></span><dl><dt><strong>FWPM_CONDITION_NDIS_PHYSICAL_MEDIA_TYPE</strong></dt></dl> | Тип физического носителя для порта NDIS.<br /><strong>Тип данных:</strong> FWP_UINT32<br /><strong>Возможные значения:</strong> Любое из значений перечисления <strong>NDIS_PHYSICAL_MEDIUM</strong> . (См. нтддндис. h.) <br /> | 
+| <span id="FWPM_CONDITION_L2_FLAGS"></span><span id="fwpm_condition_l2_flags"></span><dl><dt><strong>FWPM_CONDITION_L2_FLAGS</strong></dt></dl> | Побитовое или для сочетания флагов условий фильтрации. <br /><strong>Тип данных:</strong> FWP_UINT32<br /><strong>Возможные значения:  </strong><ul><li>FWP_CONDITION_L2_IS_MOBILE_BROADBAND</li><li>FWP_CONDITION_L2_IS_NATIVE_ETHERNET</li><li>FWP_CONDITION_L2_IS_WIFI</li><li>FWP_CONDITION_L2_IS_WIFI_DIRECT_DATA</li></ul><br /> | 
+| <span id="FWPM_CONDITION_MAC_LOCAL_ADDRESS_TYPE"></span><span id="fwpm_condition_mac_local_address_type"></span><dl><dt><strong>FWPM_CONDITION_MAC_LOCAL_ADDRESS_TYPE</strong></dt></dl> | Тип адреса физического локального адреса.<br /><strong>Тип данных:</strong> FWP_UINT8<br /><strong>Возможные значения:</strong> Любое из следующих <strong>DL_ADDRESS_TYPE</strong> значений перечисления.<ul><li>длуникаст</li><li>длмултикаст</li><li>длброадкаст</li></ul><br /> | 
+| <span id="FWPM_CONDITION_MAC_REMOTE_ADDRESS_TYPE"></span><span id="fwpm_condition_mac_remote_address_type"></span><dl><dt><strong>FWPM_CONDITION_MAC_REMOTE_ADDRESS_TYPE</strong></dt></dl> | Тип адреса физического удаленного адреса.<br /><strong>Тип данных:</strong> FWP_UINT8<br /><strong>Возможные значения:</strong> Любое из следующих <strong>DL_ADDRESS_TYPE</strong> значений перечисления.<ul><li>длуникаст</li><li>длмултикаст</li><li>длброадкаст</li></ul><br /> | 
+| <span id="FWPM_CONDITION_MAC_SOURCE_ADDRESS"></span><span id="fwpm_condition_mac_source_address"></span><dl><dt><strong>FWPM_CONDITION_MAC_SOURCE_ADDRESS</strong></dt></dl> | Физический адрес источника кадра.<br /><strong>Тип данных:</strong> FWP_BYTE_ARRAY6_TYPE<br /> | 
+| <span id="FWPM_CONDITION_MAC_DESTINATION_ADDRESS"></span><span id="fwpm_condition_mac_destination_address"></span><dl><dt><strong>FWPM_CONDITION_MAC_DESTINATION_ADDRESS</strong></dt></dl> | Физический адрес назначения кадра.<br /><strong>Тип данных:</strong> FWP_BYTE_ARRAY6_TYPE<br /> | 
+| <span id="FWPM_CONDITION_MAC_SOURCE_ADDRESS_TYPE"></span><span id="fwpm_condition_mac_source_address_type"></span><dl><dt><strong>FWPM_CONDITION_MAC_SOURCE_ADDRESS_TYPE</strong></dt></dl> | Тип адреса физического адреса назначения.<br /><strong>Тип данных:</strong> FWP_UINT8<br /><strong>Возможные значения:</strong> Любое из следующих <strong>DL_ADDRESS_TYPE</strong> значений перечисления.<ul><li>длуникаст</li><li>длмултикаст</li><li>длброадкаст</li></ul><br /> | 
+| <span id="FWPM_CONDITION_MAC_DESTINATION_ADDRESS_TYPE"></span><span id="fwpm_condition_mac_destination_address_type"></span><dl><dt><strong>FWPM_CONDITION_MAC_DESTINATION_ADDRESS_TYPE</strong></dt></dl> | Тип адреса физического адреса назначения.<br /><strong>Тип данных:</strong> FWP_UINT8<br /><strong>Возможные значения:</strong> Любое из следующих <strong>DL_ADDRESS_TYPE</strong> значений перечисления.<ul><li>длуникаст</li><li>длмултикаст</li><li>длброадкаст</li></ul><br /> | 
+| <span id="FWPM_CONDITION_IP_SOURCE_PORT"></span><span id="fwpm_condition_ip_source_port"></span><dl><dt><strong>FWPM_CONDITION_IP_SOURCE_PORT</strong></dt></dl> | Исходный порт транспорта пакета.<br /><strong>Тип данных:</strong> FWP_UINT16<br /> | 
+| <span id="FWPM_CONDITION_VSWITCH_ICMP_TYPE"></span><span id="fwpm_condition_vswitch_icmp_type"></span><dl><dt><strong>FWPM_CONDITION_VSWITCH_ICMP_TYPE</strong></dt></dl> | Поле типа ICMP, как указано в RFC 792.<br /><strong>Тип данных:</strong> FWP_UINT16<br /> | 
+| <span id="FWPM_CONDITION_IP_DESTINATION_PORT"></span><span id="fwpm_condition_ip_destination_port"></span><dl><dt><strong>FWPM_CONDITION_IP_DESTINATION_PORT</strong></dt></dl> | Порт назначения транспорта пакета.<br /><strong>Тип данных:</strong> FWP_UINT16<br /> | 
+| <span id="FWPM_CONDITION_VSWITCH_ICMP_CODE"></span><span id="fwpm_condition_vswitch_icmp_code"></span><dl><dt><strong>FWPM_CONDITION_VSWITCH_ICMP_CODE</strong></dt></dl> | Поле кода ICMP, как указано в RFC 792. <br /><strong>Тип данных:</strong> FWP_UINT16<br /> | 
+| <span id="FWPM_CONDITION_VSWITCH_ID"></span><span id="fwpm_condition_vswitch_id"></span><dl><dt><strong>FWPM_CONDITION_VSWITCH_ID</strong></dt></dl> | Уникальный идентификатор экземпляра vSwitch.<br /><strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br /> | 
+| <span id="FWPM_CONDITION_VSWITCH_NETWORK_TYPE"></span><span id="fwpm_condition_vswitch_network_type"></span><dl><dt><strong>FWPM_CONDITION_VSWITCH_NETWORK_TYPE</strong></dt></dl> | Указывает, является ли экземпляр vSwitch частью внешней, внутренней или частной виртуальной сети.<br /><strong>Тип данных:</strong> FWP_UINT8<br /> | 
+| <span id="FWPM_CONDITION_VSWITCH_SOURCE_INTERFACE_ID"></span><span id="fwpm_condition_vswitch_source_interface_id"></span><dl><dt><strong>FWPM_CONDITION_VSWITCH_SOURCE_INTERFACE_ID</strong></dt></dl> | Уникальный идентификатор источника текущего пакета. (Имя виртуальной машины — NIC, P-NIC или V-NIC.)<br /><strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br /> | 
+| <span id="FWPM_CONDITION_VSWITCH_DESTINATION_INTERFACE_ID"></span><span id="fwpm_condition_vswitch_destination_interface_id"></span><dl><dt><strong>FWPM_CONDITION_VSWITCH_DESTINATION_INTERFACE_ID</strong></dt></dl> | Уникальный идентификатор назначения текущего пакета. (Имя виртуальной машины — NIC, P-NIC или V-NIC.)<br /><strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br /> | 
+| <span id="FWPM_CONDITION_VSWITCH_SOURCE_VM_ID"></span><span id="fwpm_condition_vswitch_source_vm_id"></span><dl><dt><strong>FWPM_CONDITION_VSWITCH_SOURCE_VM_ID</strong></dt></dl> | Уникальный идентификатор исходной виртуальной машины vSwitch.<br /><strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br /> | 
+| <span id="FWPM_CONDITION_VSWITCH_DESTINATION_VM_ID"></span><span id="fwpm_condition_vswitch_destination_vm_id"></span><dl><dt><strong>FWPM_CONDITION_VSWITCH_DESTINATION_VM_ID</strong></dt></dl> | Уникальный идентификатор целевой виртуальной машины vSwitch.<br /><strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br /> | 
+| <span id="FWPM_CONDITION_VSWITCH_SOURCE_INTERFACE_TYPE"></span><span id="fwpm_condition_vswitch_source_interface_type"></span><dl><dt><strong>FWPM_CONDITION_VSWITCH_SOURCE_INTERFACE_TYPE</strong></dt></dl> | Тип интерфейса источника текущего пакета.<br /><strong>Тип данных:</strong> FWP_UINT8<br /><strong>Возможные значения:  </strong><ul><li>Свитчниксинсетикник (если тип интерфейса — VM-NIC)</li><li>Свитчницемулатедник (если тип интерфейса — VM-NIC)</li><li>Свитчникфисикалник (если тип интерфейса — P-NIC)</li><li>Свитчниквник (если тип интерфейса — V-NIC, подключенный к разделу узла)</li></ul><br /> | 
+| <span id="FWPM_CONDITION_VSWITCH_DESTINATION_INTERFACE_TYPE"></span><span id="fwpm_condition_vswitch_destination_interface_type"></span><dl><dt><strong>FWPM_CONDITION_VSWITCH_DESTINATION_INTERFACE_TYPE</strong></dt></dl> | Тип интерфейса назначения текущего пакета.<br /><strong>Тип данных:</strong> FWP_UINT8<br /><strong>Возможные значения:  </strong><ul><li>Свитчниксинсетикник (если тип интерфейса — VM-NIC)</li><li>Свитчницемулатедник (если тип интерфейса — VM-NIC)</li><li>Свитчникфисикалник (если тип интерфейса — P-NIC)</li><li>Свитчниквник (если тип интерфейса — V-NIC, подключенный к разделу узла)</li></ul><br /> | 
+| <span id="FWPM_CONDITION_INTERFACE"></span><span id="fwpm_condition_interface"></span><dl><dt><strong>FWPM_CONDITION_INTERFACE</strong></dt></dl> | LUID для сетевого интерфейса, связанного с локальным IP-адресом. <br /><strong>Тип данных:</strong> FWP_UINT64<br /> | 
+| <span id="FWPM_CONDITION_ALE_PACKAGE_ID"></span><span id="fwpm_condition_ale_package_id"></span><dl><dt><strong>FWPM_CONDITION_ALE_PACKAGE_ID</strong></dt></dl> | Идентификатор безопасности (SID) контейнера приложения.<br /><strong>Тип данных:</strong> FWP_SID<br /> | 
+| <span id="FWPM_CONDITION_ALE_ORIGINAL_APP_ID"></span><span id="fwpm_condition_ale_original_app_id"></span><dl><dt><strong>FWPM_CONDITION_ALE_ORIGINAL_APP_ID</strong></dt></dl> | Полный путь к устройству приложения, например "\device0\hardiskvolume1\Program Files\Application.exe". Если подключение было перенаправлено, это будет идентификатор исходного приложения; в противном случае он будет таким же, как <strong>FWPM_CONDITION_ALE_APP_ID</strong>.<br /><strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br /> | 
+
 
 
 
@@ -386,245 +238,45 @@ ms.locfileid: "118951243"
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">константы, доступные для Windows Vista и более поздних версий</th>
-<th style="text-align: left;">Описание</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_IP_LOCAL_ADDRESS"></span><span id="fwpm_condition_ip_local_address"></span><dl> <dt><strong>FWPM_CONDITION_IP_LOCAL_ADDRESS</strong></dt> </dl></td>
-<td style="text-align: left;">Локальный IP-адрес. <br/> <strong>Тип данных:</strong> Для IPv4-адреса
-<ul>
-<li>FWP_V4_ADDR_MASK или</li>
-<li>FWP_UINT32</li>
-</ul>
-<br/> <strong>Тип данных:</strong> Для IPv6-адреса
-<ul>
-<li>FWP_V6_ADDR_MASK или</li>
-<li>FWP_BYTE_ARRAY16_TYPE</li>
-</ul>
-<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_IP_REMOTE_ADDRESS"></span><span id="fwpm_condition_ip_remote_address"></span><dl> <dt><strong>FWPM_CONDITION_IP_REMOTE_ADDRESS</strong></dt> </dl></td>
-<td style="text-align: left;">Удаленный IP-адрес. <br/> <strong>Тип данных:</strong> Для IPv4-адреса
-<ul>
-<li>FWP_V4_ADDR_MASK или</li>
-<li>FWP_UINT32</li>
-</ul>
-<br/> <strong>Тип данных:</strong> Для IPv6-адреса
-<ul>
-<li>FWP_V6_ADDR_MASK или</li>
-<li>FWP_BYTE_ARRAY16_TYPE</li>
-</ul>
-<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_IP_SOURCE_ADDRESS"></span><span id="fwpm_condition_ip_source_address"></span><dl> <dt><strong>FWPM_CONDITION_IP_SOURCE_ADDRESS</strong></dt> </dl></td>
-<td style="text-align: left;">Исходный IP-адрес перенаправленных пакетов. <br/> <strong>Тип данных:</strong> Для IPv4-адреса
-<ul>
-<li>FWP_V4_ADDR_MASK или</li>
-<li>FWP_UINT32</li>
-</ul>
-<br/> <strong>Тип данных:</strong> Для IPv6-адреса
-<ul>
-<li>FWP_V6_ADDR_MASK или</li>
-<li>FWP_BYTE_ARRAY16_TYPE</li>
-</ul>
-<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_IP_DESTINATION_ADDRESS"></span><span id="fwpm_condition_ip_destination_address"></span><dl> <dt><strong>FWPM_CONDITION_IP_DESTINATION_ADDRESS</strong></dt> </dl></td>
-<td style="text-align: left;">Конечный IP-адрес перенаправленных пакетов. <br/> <strong>Тип данных:</strong> Для IPv4-адреса
-<ul>
-<li>FWP_V4_ADDR_MASK или</li>
-<li>FWP_UINT32</li>
-</ul>
-<br/> <strong>Тип данных:</strong> Для IPv6-адреса
-<ul>
-<li>FWP_V6_ADDR_MASK или</li>
-<li>FWP_BYTE_ARRAY16_TYPE</li>
-</ul>
-<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_IP_LOCAL_ADDRESS_TYPE"></span><span id="fwpm_condition_ip_local_address_type"></span><dl> <dt><strong>FWPM_CONDITION_IP_LOCAL_ADDRESS_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Тип локального IP-адреса. <br/> <strong>Возможные значения:</strong> Любое из следующих <a href="/windows/win32/api/nldef/ne-nldef-nl_address_type">NL_ADDRESS_TYPE</a> значений перечисления.
-<ul>
-<li>нлатунспеЦифиед</li>
-<li>нлатуникаст</li>
-<li>нлатаникаст</li>
-<li>нлатмултикаст</li>
-<li>нлатброадкаст</li>
-</ul>
-<br/> <strong>Тип данных:</strong> FWP_UINT8<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_IP_DESTINATION_ADDRESS_TYPE"></span><span id="fwpm_condition_ip_destination_address_type"></span><dl> <dt><strong>FWPM_CONDITION_IP_DESTINATION_ADDRESS_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Тип целевого IP-адреса для перенаправленных пакетов. <br/> <strong>Возможные значения:</strong> Любое из следующих <a href="/windows/win32/api/nldef/ne-nldef-nl_address_type">NL_ADDRESS_TYPE</a> значений перечисления.
-<ul>
-<li>нлатунспеЦифиед</li>
-<li>нлатуникаст</li>
-<li>нлатаникаст</li>
-<li>нлатмултикаст</li>
-<li>нлатброадкаст</li>
-</ul>
-<br/> <strong>Тип данных:</strong> FWP_UINT8<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_IP_LOCAL_INTERFACE"></span><span id="fwpm_condition_ip_local_interface"></span><dl> <dt><strong>FWPM_CONDITION_IP_LOCAL_INTERFACE</strong></dt> </dl></td>
-<td style="text-align: left;">LUID для сетевого интерфейса, связанного с локальным IP-адресом. <br/> <strong>Тип данных:</strong> FWP_UINT64<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_INTERFACE_TYPE"></span><span id="fwpm_condition_interface_type"></span><dl> <dt><strong>FWPM_CONDITION_INTERFACE_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Тип интерфейса, определяемый с помощью имени IANA (Internet Assigned Names Authority). Дополнительные сведения см. на веб-сайте [https://www.iana.org/assignments/ianaiftype-mib](https://www.iana.org/assignments/ianaiftype-mib). <br/> <strong>Возможные значения:</strong> Значения типа интерфейса, перечисленные в файле заголовка Ипифконс. h.<br/> <strong>Тип данных:</strong> FWP_UINT32<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_TUNNEL_TYPE"></span><span id="fwpm_condition_tunnel_type"></span><dl> <dt><strong>FWPM_CONDITION_TUNNEL_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Метод инкапсуляции, используемый туннелем, если член типа IF_TYPE_TUNNEL. Тип туннеля определяется с помощью имени IANA (Internet Assigned Names Authority). Дополнительные сведения см. на веб-сайте <a href="https://www.iana.org/assignments/ianaiftype-mib">https://www.iana.org/assignments/ianaiftype-mib</a>. <br/> <strong>Возможные значения:</strong> Значения типа перечисления TUNNEL_TYPE перечислены в файле заголовка ifdef. h.<br/> <strong>Тип данных:</strong> FWP_UINT32 <br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_IP_FORWARD_INTERFACE"></span><span id="fwpm_condition_ip_forward_interface"></span><dl> <dt><strong>FWPM_CONDITION_IP_FORWARD_INTERFACE</strong></dt> </dl></td>
-<td style="text-align: left;">LUID сетевого интерфейса, на который пересылается передаваемый пакет. <br/> <strong>Тип данных:</strong> FWP_UINT64<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_IP_PROTOCOL"></span><span id="fwpm_condition_ip_protocol"></span><dl> <dt><strong>FWPM_CONDITION_IP_PROTOCOL</strong></dt> </dl></td>
-<td style="text-align: left;">Номер протокола IP, как указано в RFC 1700. <br/> <strong>Тип данных:</strong> FWP_UINT8<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_IP_LOCAL_PORT"></span><span id="fwpm_condition_ip_local_port"></span><dl> <dt><strong>FWPM_CONDITION_IP_LOCAL_PORT</strong></dt> </dl></td>
-<td style="text-align: left;">Номер порта локального транспортного протокола.<br/> <strong>Тип данных:</strong> FWP_UINT16<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_ICMP_TYPE"></span><span id="fwpm_condition_icmp_type"></span><dl> <dt><strong>FWPM_CONDITION_ICMP_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Поле типа ICMP, как указано в RFC 792. <br/> <strong>Тип данных:</strong> FWP_UINT16<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_IP_REMOTE_PORT"></span><span id="fwpm_condition_ip_remote_port"></span><dl> <dt><strong>FWPM_CONDITION_IP_REMOTE_PORT</strong></dt> </dl></td>
-<td style="text-align: left;">Номер порта удаленного транспортного протокола. <br/> <strong>Тип данных:</strong> FWP_UINT16<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_ICMP_CODE"></span><span id="fwpm_condition_icmp_code"></span><dl> <dt><strong>FWPM_CONDITION_ICMP_CODE</strong></dt> </dl></td>
-<td style="text-align: left;">Поле кода ICMP, как указано в RFC 792. <br/> <strong>Тип данных:</strong> FWP_UINT16<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_EMBEDDED_LOCAL_ADDRESS_TYPE"></span><span id="fwpm_condition_embedded_local_address_type"></span><dl> <dt><strong>FWPM_CONDITION_EMBEDDED_LOCAL_ADDRESS_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Тип локального IP-адреса, внедренный в пакет ICMP.<br/> <strong>Возможные значения:</strong> Любое из следующих <a href="/windows/win32/api/nldef/ne-nldef-nl_address_type">NL_ADDRESS_TYPE</a> значений перечисления.
-<ul>
-<li>нлатунспеЦифиед</li>
-<li>нлатуникаст</li>
-<li>нлатаникаст</li>
-<li>нлатмултикаст</li>
-<li>нлатброадкаст</li>
-</ul>
-<br/> <strong>Тип данных:</strong> FWP_UINT8<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_EMBEDDED_REMOTE_ADDRESS"></span><span id="fwpm_condition_embedded_remote_address"></span><dl> <dt><strong>FWPM_CONDITION_EMBEDDED_REMOTE_ADDRESS</strong></dt> </dl></td>
-<td style="text-align: left;">Удаленный IP-адрес, внедренный в пакет ICMP. <br/> <strong>Тип данных:</strong> Для IPv4-адреса
-<ul>
-<li>FWP_V4_ADDR_MASK или</li>
-<li>FWP_UINT32</li>
-</ul>
-<br/> <strong>Тип данных:</strong> Для IPv6-адреса
-<ul>
-<li>FWP_V6_ADDR_MASK или</li>
-<li>FWP_BYTE_ARRAY16_TYPE</li>
-</ul>
-<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_EMBEDDED_PROTOCOL"></span><span id="fwpm_condition_embedded_protocol"></span><dl> <dt><strong>FWPM_CONDITION_EMBEDDED_PROTOCOL</strong></dt> </dl></td>
-<td style="text-align: left;">Номер протокола IP, внедренный в пакет ICMP, как указано в RFC 1700. <br/> <strong>Тип данных:</strong> FWP_UINT8<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_EMBEDDED_LOCAL_PORT"></span><span id="fwpm_condition_embedded_local_port"></span><dl> <dt><strong>FWPM_CONDITION_EMBEDDED_LOCAL_PORT</strong></dt> </dl></td>
-<td style="text-align: left;">Номер порта локального транспортного протокола, внедренный в пакет ICMP. <br/> <strong>Тип данных:</strong> FWP_UINT16<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_EMBEDDED_REMOTE_PORT"></span><span id="fwpm_condition_embedded_remote_port"></span><dl> <dt><strong>FWPM_CONDITION_EMBEDDED_REMOTE_PORT</strong></dt> </dl></td>
-<td style="text-align: left;">Номер порта удаленного транспортного протокола, внедренный в пакет ICMP. <br/> <strong>Тип данных:</strong> FWP_UINT16<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_FLAGS"></span><span id="fwpm_condition_flags"></span><dl> <dt><strong>FWPM_CONDITION_FLAGS</strong></dt> </dl></td>
-<td style="text-align: left;">Побитовое или для сочетания флагов условий фильтрации. <br/> <strong>Возможные значения:</strong> См. <a href="filtering-condition-flags-.md"> <strong>Флаги условий фильтрации</strong></a><br/> <strong>Тип данных:</strong> FWP_UINT32<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_DIRECTION"></span><span id="fwpm_condition_direction"></span><dl> <dt><strong>FWPM_CONDITION_DIRECTION</strong></dt> </dl></td>
-<td style="text-align: left;">Направление трафика или потока данных. <br/> <strong>Возможные значения:  </strong>
-<ul>
-<li>FWP_DIRECTION_INBOUND</li>
-<li>FWP_DIRECTION_OUTBOUND</li>
-</ul>
-<br/> Для слоев датаграмм (FWPM_LAYER_DATAGRAM_DATA_ *) и уровней потоковых пакетов (FWPM_LAYER_STREAM_PACKET_*) значение будет совпадать с направлением пакета. <br/> Для слоев потоков (FWPM_LAYER_STREAM_ *) и потоков, установленных на уровне (FWPM_LAYER_ALE_FLOW_ESTABLISHED_*), значение будет таким же, как и направление соединения. (Например, когда локальное приложение инициирует подключение, входящий пакет имеет <strong>FWPM_CONDITION_DIRECTION</strong> установлен в значение <strong>FWP_DIRECTION_OUTBOUND</strong>.) <br/> <strong>Тип данных:</strong> FWP_UINT32<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_INTERFACE_INDEX"></span><span id="fwpm_condition_interface_index"></span><dl> <dt><strong>FWPM_CONDITION_INTERFACE_INDEX</strong></dt> </dl></td>
-<td style="text-align: left;">Индекс сетевого интерфейса, перечисленный сетевым стеком. <br/> <strong>Тип данных:</strong> FWP_UINT32<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_SUB_INTERFACE_INDEX"></span><span id="fwpm_condition_sub_interface_index"></span><dl> <dt><strong>FWPM_CONDITION_SUB_INTERFACE_INDEX</strong></dt> </dl></td>
-<td style="text-align: left;">Индекс логического сетевого интерфейса, перечисленный сетевым стеком. <br/> <strong>Тип данных:</strong> FWP_UINT32<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_SOURCE_INTERFACE_INDEX"></span><span id="fwpm_condition_source_interface_index"></span><dl> <dt><strong>FWPM_CONDITION_SOURCE_INTERFACE_INDEX</strong></dt> </dl></td>
-<td style="text-align: left;">Индекс исходного сетевого интерфейса для перенаправленных пакетов, перечисленный сетевым стеком.<br/> <strong>Тип данных:</strong> FWP_UINT32<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_SOURCE_SUB_INTERFACE_INDEX"></span><span id="fwpm_condition_source_sub_interface_index"></span><dl> <dt><strong>FWPM_CONDITION_SOURCE_SUB_INTERFACE_INDEX</strong></dt> </dl></td>
-<td style="text-align: left;">Индекс исходного логического сетевого интерфейса для перенаправленных пакетов, перечисленный сетевым стеком. <br/> <strong>Тип данных:</strong> FWP_UINT32<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_DESTINATION_INTERFACE_INDEX"></span><span id="fwpm_condition_destination_interface_index"></span><dl> <dt><strong>FWPM_CONDITION_DESTINATION_INTERFACE_INDEX</strong></dt> </dl></td>
-<td style="text-align: left;">Индекс целевого сетевого интерфейса для перенаправленных пакетов, перечисленный сетевым стеком. <br/> <strong>Тип данных:</strong> FWP_UINT32<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_DESTINATION_SUB_INTERFACE_INDEX"></span><span id="fwpm_condition_destination_sub_interface_index"></span><dl> <dt><strong>FWPM_CONDITION_DESTINATION_SUB_INTERFACE_INDEX</strong></dt> </dl></td>
-<td style="text-align: left;">Индекс целевого логического сетевого интерфейса для перенаправленных пакетов, перечисленный сетевым стеком. <br/> <strong>Тип данных:</strong> FWP_UINT32<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_ALE_APP_ID"></span><span id="fwpm_condition_ale_app_id"></span><dl> <dt><strong>FWPM_CONDITION_ALE_APP_ID</strong></dt> </dl></td>
-<td style="text-align: left;">Полный путь к устройству приложения, возвращаемый функцией <a href="/windows/desktop/api/Fwpmu/nf-fwpmu-fwpmgetappidfromfilename0"><strong>FwpmGetAppIdFromFileName0</strong></a> . <br/> (Например, &quot; \device0\hardiskvolume1\Program Files\Application.exe&quot; .)<br/> <strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_ALE_USER_ID"></span><span id="fwpm_condition_ale_user_id"></span><dl> <dt><strong>FWPM_CONDITION_ALE_USER_ID</strong></dt> </dl></td>
-<td style="text-align: left;">Идентификация локального пользователя. <br/> <strong>Тип данных:</strong> FWP_SECURITY_DESCRIPTOR_TYPE<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_ALE_REMOTE_USER_ID"></span><span id="fwpm_condition_ale_remote_user_id"></span><dl> <dt><strong>FWPM_CONDITION_ALE_REMOTE_USER_ID</strong></dt> </dl></td>
-<td style="text-align: left;">Идентификация удаленного пользователя. <br/> <strong>Тип данных:</strong> FWP_SECURITY_DESCRIPTOR_TYPE<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_ALE_REMOTE_MACHINE_ID"></span><span id="fwpm_condition_ale_remote_machine_id"></span><dl> <dt><strong>FWPM_CONDITION_ALE_REMOTE_MACHINE_ID</strong></dt> </dl></td>
-<td style="text-align: left;">Идентификация удаленного компьютера. <br/> <strong>Тип данных:</strong> FWP_SECURITY_DESCRIPTOR_TYPE<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_ALE_PROMISCUOUS_MODE"></span><span id="fwpm_condition_ale_promiscuous_mode"></span><dl> <dt><strong>FWPM_CONDITION_ALE_PROMISCUOUS_MODE</strong></dt> </dl></td>
-<td style="text-align: left;">Режим необработанных сокетов, разрешенный или запрещенный.<br/> <strong>Возможные значения:  </strong>
-<ul>
-<li>SIO_RCVALL</li>
-<li>SIO_RCVALL_IGMPMCAST</li>
-<li>SIO_RCVALL_MCAST</li>
-</ul>
-Описание этих режимов необработанных сокетов см. в описании функции <a href="/windows/desktop/api/winsock2/nf-winsock2-wsaioctl"><strong>всаиоктл</strong></a> .<br/> <strong>Тип данных:</strong> FWP_UINT32<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_ALE_SIO_FIREWALL_SYSTEM_PORT"></span><span id="fwpm_condition_ale_sio_firewall_system_port"></span><dl> <dt><strong>FWPM_CONDITION_ALE_SIO_FIREWALL_SYSTEM_PORT</strong></dt> </dl></td>
-<td style="text-align: left;">Зарезервировано для внутреннего использования. <br/> <strong>Тип данных:</strong> FWP_UINT32<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_ALE_NAP_CONTEXT"></span><span id="fwpm_condition_ale_nap_context"></span><dl> <dt><strong>FWPM_CONDITION_ALE_NAP_CONTEXT</strong></dt> </dl></td>
-<td style="text-align: left;">Зарезервировано для внутреннего использования. <br/> <strong>Тип данных:</strong> FWP_UINT32<br/></td>
-</tr>
-</tbody>
-</table>
+
+| константы, доступные для Windows Vista и более поздних версий | Описание | 
+|-------------------------------------------------|-------------|
+| <span id="FWPM_CONDITION_IP_LOCAL_ADDRESS"></span><span id="fwpm_condition_ip_local_address"></span><dl><dt><strong>FWPM_CONDITION_IP_LOCAL_ADDRESS</strong></dt></dl> | Локальный IP-адрес. <br /><strong>Тип данных:</strong> Для IPv4-адреса<ul><li>FWP_V4_ADDR_MASK или</li><li>FWP_UINT32</li></ul><br /><strong>Тип данных:</strong> Для IPv6-адреса<ul><li>FWP_V6_ADDR_MASK или</li><li>FWP_BYTE_ARRAY16_TYPE</li></ul><br /> | 
+| <span id="FWPM_CONDITION_IP_REMOTE_ADDRESS"></span><span id="fwpm_condition_ip_remote_address"></span><dl><dt><strong>FWPM_CONDITION_IP_REMOTE_ADDRESS</strong></dt></dl> | Удаленный IP-адрес. <br /><strong>Тип данных:</strong> Для IPv4-адреса<ul><li>FWP_V4_ADDR_MASK или</li><li>FWP_UINT32</li></ul><br /><strong>Тип данных:</strong> Для IPv6-адреса<ul><li>FWP_V6_ADDR_MASK или</li><li>FWP_BYTE_ARRAY16_TYPE</li></ul><br /> | 
+| <span id="FWPM_CONDITION_IP_SOURCE_ADDRESS"></span><span id="fwpm_condition_ip_source_address"></span><dl><dt><strong>FWPM_CONDITION_IP_SOURCE_ADDRESS</strong></dt></dl> | Исходный IP-адрес перенаправленных пакетов. <br /><strong>Тип данных:</strong> Для IPv4-адреса<ul><li>FWP_V4_ADDR_MASK или</li><li>FWP_UINT32</li></ul><br /><strong>Тип данных:</strong> Для IPv6-адреса<ul><li>FWP_V6_ADDR_MASK или</li><li>FWP_BYTE_ARRAY16_TYPE</li></ul><br /> | 
+| <span id="FWPM_CONDITION_IP_DESTINATION_ADDRESS"></span><span id="fwpm_condition_ip_destination_address"></span><dl><dt><strong>FWPM_CONDITION_IP_DESTINATION_ADDRESS</strong></dt></dl> | Конечный IP-адрес перенаправленных пакетов. <br /><strong>Тип данных:</strong> Для IPv4-адреса<ul><li>FWP_V4_ADDR_MASK или</li><li>FWP_UINT32</li></ul><br /><strong>Тип данных:</strong> Для IPv6-адреса<ul><li>FWP_V6_ADDR_MASK или</li><li>FWP_BYTE_ARRAY16_TYPE</li></ul><br /> | 
+| <span id="FWPM_CONDITION_IP_LOCAL_ADDRESS_TYPE"></span><span id="fwpm_condition_ip_local_address_type"></span><dl><dt><strong>FWPM_CONDITION_IP_LOCAL_ADDRESS_TYPE</strong></dt></dl> | Тип локального IP-адреса. <br /><strong>Возможные значения:</strong> Любое из следующих <a href="/windows/win32/api/nldef/ne-nldef-nl_address_type">NL_ADDRESS_TYPE</a> значений перечисления.<ul><li>нлатунспеЦифиед</li><li>нлатуникаст</li><li>нлатаникаст</li><li>нлатмултикаст</li><li>нлатброадкаст</li></ul><br /><strong>Тип данных:</strong> FWP_UINT8<br /> | 
+| <span id="FWPM_CONDITION_IP_DESTINATION_ADDRESS_TYPE"></span><span id="fwpm_condition_ip_destination_address_type"></span><dl><dt><strong>FWPM_CONDITION_IP_DESTINATION_ADDRESS_TYPE</strong></dt></dl> | Тип целевого IP-адреса для перенаправленных пакетов. <br /><strong>Возможные значения:</strong> Любое из следующих <a href="/windows/win32/api/nldef/ne-nldef-nl_address_type">NL_ADDRESS_TYPE</a> значений перечисления.<ul><li>нлатунспеЦифиед</li><li>нлатуникаст</li><li>нлатаникаст</li><li>нлатмултикаст</li><li>нлатброадкаст</li></ul><br /><strong>Тип данных:</strong> FWP_UINT8<br /> | 
+| <span id="FWPM_CONDITION_IP_LOCAL_INTERFACE"></span><span id="fwpm_condition_ip_local_interface"></span><dl><dt><strong>FWPM_CONDITION_IP_LOCAL_INTERFACE</strong></dt></dl> | LUID для сетевого интерфейса, связанного с локальным IP-адресом. <br /><strong>Тип данных:</strong> FWP_UINT64<br /> | 
+| <span id="FWPM_CONDITION_INTERFACE_TYPE"></span><span id="fwpm_condition_interface_type"></span><dl><dt><strong>FWPM_CONDITION_INTERFACE_TYPE</strong></dt></dl> | Тип интерфейса, определяемый с помощью имени IANA (Internet Assigned Names Authority). Дополнительные сведения см. на веб-сайте [https://www.iana.org/assignments/ianaiftype-mib](https://www.iana.org/assignments/ianaiftype-mib). <br /><strong>Возможные значения:</strong> Значения типа интерфейса, перечисленные в файле заголовка Ипифконс. h.<br /><strong>Тип данных:</strong> FWP_UINT32<br /> | 
+| <span id="FWPM_CONDITION_TUNNEL_TYPE"></span><span id="fwpm_condition_tunnel_type"></span><dl><dt><strong>FWPM_CONDITION_TUNNEL_TYPE</strong></dt></dl> | Метод инкапсуляции, используемый туннелем, если член типа IF_TYPE_TUNNEL. Тип туннеля определяется с помощью имени IANA (Internet Assigned Names Authority). Дополнительные сведения см. на веб-сайте <a href="https://www.iana.org/assignments/ianaiftype-mib">https://www.iana.org/assignments/ianaiftype-mib</a>. <br /><strong>Возможные значения:</strong> Значения типа перечисления TUNNEL_TYPE перечислены в файле заголовка ifdef. h.<br /><strong>Тип данных:</strong> FWP_UINT32 <br /> | 
+| <span id="FWPM_CONDITION_IP_FORWARD_INTERFACE"></span><span id="fwpm_condition_ip_forward_interface"></span><dl><dt><strong>FWPM_CONDITION_IP_FORWARD_INTERFACE</strong></dt></dl> | LUID сетевого интерфейса, на который пересылается передаваемый пакет. <br /><strong>Тип данных:</strong> FWP_UINT64<br /> | 
+| <span id="FWPM_CONDITION_IP_PROTOCOL"></span><span id="fwpm_condition_ip_protocol"></span><dl><dt><strong>FWPM_CONDITION_IP_PROTOCOL</strong></dt></dl> | Номер протокола IP, как указано в RFC 1700. <br /><strong>Тип данных:</strong> FWP_UINT8<br /> | 
+| <span id="FWPM_CONDITION_IP_LOCAL_PORT"></span><span id="fwpm_condition_ip_local_port"></span><dl><dt><strong>FWPM_CONDITION_IP_LOCAL_PORT</strong></dt></dl> | Номер порта локального транспортного протокола.<br /><strong>Тип данных:</strong> FWP_UINT16<br /> | 
+| <span id="FWPM_CONDITION_ICMP_TYPE"></span><span id="fwpm_condition_icmp_type"></span><dl><dt><strong>FWPM_CONDITION_ICMP_TYPE</strong></dt></dl> | Поле типа ICMP, как указано в RFC 792. <br /><strong>Тип данных:</strong> FWP_UINT16<br /> | 
+| <span id="FWPM_CONDITION_IP_REMOTE_PORT"></span><span id="fwpm_condition_ip_remote_port"></span><dl><dt><strong>FWPM_CONDITION_IP_REMOTE_PORT</strong></dt></dl> | Номер порта удаленного транспортного протокола. <br /><strong>Тип данных:</strong> FWP_UINT16<br /> | 
+| <span id="FWPM_CONDITION_ICMP_CODE"></span><span id="fwpm_condition_icmp_code"></span><dl><dt><strong>FWPM_CONDITION_ICMP_CODE</strong></dt></dl> | Поле кода ICMP, как указано в RFC 792. <br /><strong>Тип данных:</strong> FWP_UINT16<br /> | 
+| <span id="FWPM_CONDITION_EMBEDDED_LOCAL_ADDRESS_TYPE"></span><span id="fwpm_condition_embedded_local_address_type"></span><dl><dt><strong>FWPM_CONDITION_EMBEDDED_LOCAL_ADDRESS_TYPE</strong></dt></dl> | Тип локального IP-адреса, внедренный в пакет ICMP.<br /><strong>Возможные значения:</strong> Любое из следующих <a href="/windows/win32/api/nldef/ne-nldef-nl_address_type">NL_ADDRESS_TYPE</a> значений перечисления.<ul><li>нлатунспеЦифиед</li><li>нлатуникаст</li><li>нлатаникаст</li><li>нлатмултикаст</li><li>нлатброадкаст</li></ul><br /><strong>Тип данных:</strong> FWP_UINT8<br /> | 
+| <span id="FWPM_CONDITION_EMBEDDED_REMOTE_ADDRESS"></span><span id="fwpm_condition_embedded_remote_address"></span><dl><dt><strong>FWPM_CONDITION_EMBEDDED_REMOTE_ADDRESS</strong></dt></dl> | Удаленный IP-адрес, внедренный в пакет ICMP. <br /><strong>Тип данных:</strong> Для IPv4-адреса<ul><li>FWP_V4_ADDR_MASK или</li><li>FWP_UINT32</li></ul><br /><strong>Тип данных:</strong> Для IPv6-адреса<ul><li>FWP_V6_ADDR_MASK или</li><li>FWP_BYTE_ARRAY16_TYPE</li></ul><br /> | 
+| <span id="FWPM_CONDITION_EMBEDDED_PROTOCOL"></span><span id="fwpm_condition_embedded_protocol"></span><dl><dt><strong>FWPM_CONDITION_EMBEDDED_PROTOCOL</strong></dt></dl> | Номер протокола IP, внедренный в пакет ICMP, как указано в RFC 1700. <br /><strong>Тип данных:</strong> FWP_UINT8<br /> | 
+| <span id="FWPM_CONDITION_EMBEDDED_LOCAL_PORT"></span><span id="fwpm_condition_embedded_local_port"></span><dl><dt><strong>FWPM_CONDITION_EMBEDDED_LOCAL_PORT</strong></dt></dl> | Номер порта локального транспортного протокола, внедренный в пакет ICMP. <br /><strong>Тип данных:</strong> FWP_UINT16<br /> | 
+| <span id="FWPM_CONDITION_EMBEDDED_REMOTE_PORT"></span><span id="fwpm_condition_embedded_remote_port"></span><dl><dt><strong>FWPM_CONDITION_EMBEDDED_REMOTE_PORT</strong></dt></dl> | Номер порта удаленного транспортного протокола, внедренный в пакет ICMP. <br /><strong>Тип данных:</strong> FWP_UINT16<br /> | 
+| <span id="FWPM_CONDITION_FLAGS"></span><span id="fwpm_condition_flags"></span><dl><dt><strong>FWPM_CONDITION_FLAGS</strong></dt></dl> | Побитовое или для сочетания флагов условий фильтрации. <br /><strong>Возможные значения:</strong> См. <a href="filtering-condition-flags-.md"> <strong>Флаги условий фильтрации</strong></a><br /><strong>Тип данных:</strong> FWP_UINT32<br /> | 
+| <span id="FWPM_CONDITION_DIRECTION"></span><span id="fwpm_condition_direction"></span><dl><dt><strong>FWPM_CONDITION_DIRECTION</strong></dt></dl> | Направление трафика или потока данных. <br /><strong>Возможные значения:  </strong><ul><li>FWP_DIRECTION_INBOUND</li><li>FWP_DIRECTION_OUTBOUND</li></ul><br /> Для слоев датаграмм (FWPM_LAYER_DATAGRAM_DATA_ *) и уровней потоковых пакетов (FWPM_LAYER_STREAM_PACKET_*) значение будет совпадать с направлением пакета. <br /> Для слоев потоков (FWPM_LAYER_STREAM_ *) и потоков, установленных на уровне (FWPM_LAYER_ALE_FLOW_ESTABLISHED_*), значение будет таким же, как и направление соединения. (Например, когда локальное приложение инициирует подключение, входящий пакет имеет <strong>FWPM_CONDITION_DIRECTION</strong> установлен в значение <strong>FWP_DIRECTION_OUTBOUND</strong>.) <br /><strong>Тип данных:</strong> FWP_UINT32<br /> | 
+| <span id="FWPM_CONDITION_INTERFACE_INDEX"></span><span id="fwpm_condition_interface_index"></span><dl><dt><strong>FWPM_CONDITION_INTERFACE_INDEX</strong></dt></dl> | Индекс сетевого интерфейса, перечисленный сетевым стеком. <br /><strong>Тип данных:</strong> FWP_UINT32<br /> | 
+| <span id="FWPM_CONDITION_SUB_INTERFACE_INDEX"></span><span id="fwpm_condition_sub_interface_index"></span><dl><dt><strong>FWPM_CONDITION_SUB_INTERFACE_INDEX</strong></dt></dl> | Индекс логического сетевого интерфейса, перечисленный сетевым стеком. <br /><strong>Тип данных:</strong> FWP_UINT32<br /> | 
+| <span id="FWPM_CONDITION_SOURCE_INTERFACE_INDEX"></span><span id="fwpm_condition_source_interface_index"></span><dl><dt><strong>FWPM_CONDITION_SOURCE_INTERFACE_INDEX</strong></dt></dl> | Индекс исходного сетевого интерфейса для перенаправленных пакетов, перечисленный сетевым стеком.<br /><strong>Тип данных:</strong> FWP_UINT32<br /> | 
+| <span id="FWPM_CONDITION_SOURCE_SUB_INTERFACE_INDEX"></span><span id="fwpm_condition_source_sub_interface_index"></span><dl><dt><strong>FWPM_CONDITION_SOURCE_SUB_INTERFACE_INDEX</strong></dt></dl> | Индекс исходного логического сетевого интерфейса для перенаправленных пакетов, перечисленный сетевым стеком. <br /><strong>Тип данных:</strong> FWP_UINT32<br /> | 
+| <span id="FWPM_CONDITION_DESTINATION_INTERFACE_INDEX"></span><span id="fwpm_condition_destination_interface_index"></span><dl><dt><strong>FWPM_CONDITION_DESTINATION_INTERFACE_INDEX</strong></dt></dl> | Индекс целевого сетевого интерфейса для перенаправленных пакетов, перечисленный сетевым стеком. <br /><strong>Тип данных:</strong> FWP_UINT32<br /> | 
+| <span id="FWPM_CONDITION_DESTINATION_SUB_INTERFACE_INDEX"></span><span id="fwpm_condition_destination_sub_interface_index"></span><dl><dt><strong>FWPM_CONDITION_DESTINATION_SUB_INTERFACE_INDEX</strong></dt></dl> | Индекс целевого логического сетевого интерфейса для перенаправленных пакетов, перечисленный сетевым стеком. <br /><strong>Тип данных:</strong> FWP_UINT32<br /> | 
+| <span id="FWPM_CONDITION_ALE_APP_ID"></span><span id="fwpm_condition_ale_app_id"></span><dl><dt><strong>FWPM_CONDITION_ALE_APP_ID</strong></dt></dl> | Полный путь к устройству приложения, возвращаемый функцией <a href="/windows/desktop/api/Fwpmu/nf-fwpmu-fwpmgetappidfromfilename0"><strong>FwpmGetAppIdFromFileName0</strong></a> . <br /> (Например, "\device0\hardiskvolume1\Program Files\Application.exe".)<br /><strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br /> | 
+| <span id="FWPM_CONDITION_ALE_USER_ID"></span><span id="fwpm_condition_ale_user_id"></span><dl><dt><strong>FWPM_CONDITION_ALE_USER_ID</strong></dt></dl> | Идентификация локального пользователя. <br /><strong>Тип данных:</strong> FWP_SECURITY_DESCRIPTOR_TYPE<br /> | 
+| <span id="FWPM_CONDITION_ALE_REMOTE_USER_ID"></span><span id="fwpm_condition_ale_remote_user_id"></span><dl><dt><strong>FWPM_CONDITION_ALE_REMOTE_USER_ID</strong></dt></dl> | Идентификация удаленного пользователя. <br /><strong>Тип данных:</strong> FWP_SECURITY_DESCRIPTOR_TYPE<br /> | 
+| <span id="FWPM_CONDITION_ALE_REMOTE_MACHINE_ID"></span><span id="fwpm_condition_ale_remote_machine_id"></span><dl><dt><strong>FWPM_CONDITION_ALE_REMOTE_MACHINE_ID</strong></dt></dl> | Идентификация удаленного компьютера. <br /><strong>Тип данных:</strong> FWP_SECURITY_DESCRIPTOR_TYPE<br /> | 
+| <span id="FWPM_CONDITION_ALE_PROMISCUOUS_MODE"></span><span id="fwpm_condition_ale_promiscuous_mode"></span><dl><dt><strong>FWPM_CONDITION_ALE_PROMISCUOUS_MODE</strong></dt></dl> | Режим необработанных сокетов, разрешенный или запрещенный.<br /><strong>Возможные значения:  </strong><ul><li>SIO_RCVALL</li><li>SIO_RCVALL_IGMPMCAST</li><li>SIO_RCVALL_MCAST</li></ul>Описание этих режимов необработанных сокетов см. в описании функции <a href="/windows/desktop/api/winsock2/nf-winsock2-wsaioctl"><strong>всаиоктл</strong></a> .<br /><strong>Тип данных:</strong> FWP_UINT32<br /> | 
+| <span id="FWPM_CONDITION_ALE_SIO_FIREWALL_SYSTEM_PORT"></span><span id="fwpm_condition_ale_sio_firewall_system_port"></span><dl><dt><strong>FWPM_CONDITION_ALE_SIO_FIREWALL_SYSTEM_PORT</strong></dt></dl> | Зарезервировано для внутреннего использования. <br /><strong>Тип данных:</strong> FWP_UINT32<br /> | 
+| <span id="FWPM_CONDITION_ALE_NAP_CONTEXT"></span><span id="fwpm_condition_ale_nap_context"></span><dl><dt><strong>FWPM_CONDITION_ALE_NAP_CONTEXT</strong></dt></dl> | Зарезервировано для внутреннего использования. <br /><strong>Тип данных:</strong> FWP_UINT32<br /> | 
+
 
 
 
@@ -640,211 +292,57 @@ ms.locfileid: "118951243"
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">условия режима пользователя, доступные для Windows 7, Windows Server 2008 R2 и более поздних версий</th>
-<th style="text-align: left;">Описание</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_KM_AUTH_NAP_CONTEXT"></span><span id="fwpm_condition_km_auth_nap_context"></span><dl> <dt><strong>FWPM_CONDITION_KM_AUTH_NAP_CONTEXT</strong></dt> </dl></td>
-<td style="text-align: left;">Зарезервировано для внутреннего использования.<br/> <strong>Тип данных:</strong> FWP_UINT32<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_PEER_NAME"></span><span id="fwpm_condition_peer_name"></span><dl> <dt><strong>FWPM_CONDITION_PEER_NAME</strong></dt> </dl></td>
-<td style="text-align: left;">Имя однорангового узла. Например, DNS-имя однорангового узла.<br/> <strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_REMOTE_ID"></span><span id="fwpm_condition_remote_id"></span><dl> <dt><strong>FWPM_CONDITION_REMOTE_ID</strong></dt> </dl></td>
-<td style="text-align: left;">Удостоверение участника удаленной проверки подлинности. <br/> <strong>Тип данных:</strong> FWP_SECURITY_DESCRIPTOR_TYPE<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_AUTHENTICATION_TYPE"></span><span id="fwpm_condition_authentication_type"></span><dl> <dt><strong>FWPM_CONDITION_AUTHENTICATION_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Тип метода проверки подлинности IKE, IKEv2 или AuthIP. <br/> <strong>Тип данных:</strong> IKEEXT_AUTHENTICATION_METHOD_TYPE<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_KM_TYPE"></span><span id="fwpm_condition_km_type"></span><dl> <dt><strong>FWPM_CONDITION_KM_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Тип модуля создания ключа.<br/> <strong>Тип данных:</strong> IKEEXT_KEY_MODULE_TYPE<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_KM_MODE"></span><span id="fwpm_condition_km_mode"></span><dl> <dt><strong>FWPM_CONDITION_KM_MODE</strong></dt> </dl></td>
-<td style="text-align: left;">Режим IPsec, в котором можно получить маркер.<br/> <strong>Тип данных:</strong> IPSEC_TOKEN_MODE<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_IPSEC_POLICY_KEY"></span><span id="fwpm_condition_ipsec_policy_key"></span><dl> <dt><strong>FWPM_CONDITION_IPSEC_POLICY_KEY</strong></dt> </dl></td>
-<td style="text-align: left;">Ключ контекста поставщика политики основного режима (MM) или быстрого режима (QM) для разрешения SA. Полезно для ограничения области действия правила авторизации до формата SAs, сформированного с помощью указанного ключа политики IPsec MM или QM.<br/> <strong>Тип данных:</strong> FWP_BYTE_ARRAY16_TYPE<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_AUTHENTICATION_TYPE"></span><span id="fwpm_condition_authentication_type"></span><dl> <dt><strong>FWPM_CONDITION_AUTHENTICATION_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Метод, используемый для проверки подлинности сопоставления безопасности.<br/>
-<blockquote>
-[!Note]<br />
-доступно только в Windows Server 2008 R2, Windows 7 и более поздних версиях.
-</blockquote>
-<br/> <strong>Тип данных:</strong> FWP_UINT32 <br/></td>
-</tr>
-</tbody>
-</table>
+
+| условия режима пользователя, доступные для Windows 7, Windows Server 2008 R2 и более поздних версий | Описание | 
+|---------------------------------------------------------------------------------|-------------|
+| <span id="FWPM_CONDITION_KM_AUTH_NAP_CONTEXT"></span><span id="fwpm_condition_km_auth_nap_context"></span><dl><dt><strong>FWPM_CONDITION_KM_AUTH_NAP_CONTEXT</strong></dt></dl> | Зарезервировано для внутреннего использования.<br /><strong>Тип данных:</strong> FWP_UINT32<br /> | 
+| <span id="FWPM_CONDITION_PEER_NAME"></span><span id="fwpm_condition_peer_name"></span><dl><dt><strong>FWPM_CONDITION_PEER_NAME</strong></dt></dl> | Имя однорангового узла. Например, DNS-имя однорангового узла.<br /><strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br /> | 
+| <span id="FWPM_CONDITION_REMOTE_ID"></span><span id="fwpm_condition_remote_id"></span><dl><dt><strong>FWPM_CONDITION_REMOTE_ID</strong></dt></dl> | Удостоверение участника удаленной проверки подлинности. <br /><strong>Тип данных:</strong> FWP_SECURITY_DESCRIPTOR_TYPE<br /> | 
+| <span id="FWPM_CONDITION_AUTHENTICATION_TYPE"></span><span id="fwpm_condition_authentication_type"></span><dl><dt><strong>FWPM_CONDITION_AUTHENTICATION_TYPE</strong></dt></dl> | Тип метода проверки подлинности IKE, IKEv2 или AuthIP. <br /><strong>Тип данных:</strong> IKEEXT_AUTHENTICATION_METHOD_TYPE<br /> | 
+| <span id="FWPM_CONDITION_KM_TYPE"></span><span id="fwpm_condition_km_type"></span><dl><dt><strong>FWPM_CONDITION_KM_TYPE</strong></dt></dl> | Тип модуля создания ключа.<br /><strong>Тип данных:</strong> IKEEXT_KEY_MODULE_TYPE<br /> | 
+| <span id="FWPM_CONDITION_KM_MODE"></span><span id="fwpm_condition_km_mode"></span><dl><dt><strong>FWPM_CONDITION_KM_MODE</strong></dt></dl> | Режим IPsec, в котором можно получить маркер.<br /><strong>Тип данных:</strong> IPSEC_TOKEN_MODE<br /> | 
+| <span id="FWPM_CONDITION_IPSEC_POLICY_KEY"></span><span id="fwpm_condition_ipsec_policy_key"></span><dl><dt><strong>FWPM_CONDITION_IPSEC_POLICY_KEY</strong></dt></dl> | Ключ контекста поставщика политики основного режима (MM) или быстрого режима (QM) для разрешения SA. Полезно для ограничения области действия правила авторизации до формата SAs, сформированного с помощью указанного ключа политики IPsec MM или QM.<br /><strong>Тип данных:</strong> FWP_BYTE_ARRAY16_TYPE<br /> | 
+| <span id="FWPM_CONDITION_AUTHENTICATION_TYPE"></span><span id="fwpm_condition_authentication_type"></span><dl><dt><strong>FWPM_CONDITION_AUTHENTICATION_TYPE</strong></dt></dl> | Метод, используемый для проверки подлинности сопоставления безопасности.<br /><blockquote>[!Note]<br />доступно только в Windows Server 2008 R2, Windows 7 и более поздних версиях.</blockquote><br /><strong>Тип данных:</strong> FWP_UINT32 <br /> | 
 
 
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">константы, доступные для Windows Vista и более поздних версий</th>
-<th style="text-align: left;">Описание</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_REMOTE_USER_TOKEN"></span><span id="fwpm_condition_remote_user_token"></span><dl> <dt><strong>FWPM_CONDITION_REMOTE_USER_TOKEN</strong></dt> </dl></td>
-<td style="text-align: left;">Идентификация удаленного пользователя.<br/> <strong>Тип данных:</strong> FWP_SECURITY_DESCRIPTOR_TYPE<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_RPC_IF_UUID"></span><span id="fwpm_condition_rpc_if_uuid"></span><dl> <dt><strong>FWPM_CONDITION_RPC_IF_UUID</strong></dt> </dl></td>
-<td style="text-align: left;">UUID интерфейса RPC. <br/> <strong>Тип данных:</strong> FWP_BYTE_ARRAY16_TYPE<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_RPC_IF_VERSION"></span><span id="fwpm_condition_rpc_if_version"></span><dl> <dt><strong>FWPM_CONDITION_RPC_IF_VERSION</strong></dt> </dl></td>
-<td style="text-align: left;">Версия интерфейса RPC. <br/> <strong>Тип данных:</strong> FWP_UINT16<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_RPC_IF_FLAG"></span><span id="fwpm_condition_rpc_if_flag"></span><dl> <dt><strong>FWPM_CONDITION_RPC_IF_FLAG</strong></dt> </dl></td>
-<td style="text-align: left;">Зарезервировано для внутреннего использования. <br/> <strong>Тип данных:</strong> FWP_UINT32<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_DCOM_APP_ID"></span><span id="fwpm_condition_dcom_app_id"></span><dl> <dt><strong>FWPM_CONDITION_DCOM_APP_ID</strong></dt> </dl></td>
-<td style="text-align: left;">Идентификация приложения COM.<br/> <strong>Тип данных:</strong> FWP_BYTE_ARRAY16_TYPE<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_IMAGE_NAME"></span><span id="fwpm_condition_image_name"></span><dl> <dt><strong>FWPM_CONDITION_IMAGE_NAME</strong></dt> </dl></td>
-<td style="text-align: left;">Имя приложения.<br/> <strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_RPC_PROTOCOL"></span><span id="fwpm_condition_rpc_protocol"></span><dl> <dt><strong>FWPM_CONDITION_RPC_PROTOCOL</strong></dt> </dl></td>
-<td style="text-align: left;">Протокол RPC. <br/> <strong>Возможные значения:  </strong>
-<ul>
-<li>RPC_PROTSEQ_TCP</li>
-<li>RPC_PROTSEQ_NMP</li>
-<li>RPC_PROTSEQ_LRPC</li>
-<li>RPC_PROTSEQ_HTTP</li>
-</ul>
-<br/> <strong>Тип данных:</strong> FWP_UINT8<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_RPC_AUTH_TYPE"></span><span id="fwpm_condition_rpc_auth_type"></span><dl> <dt><strong>FWPM_CONDITION_RPC_AUTH_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Тип службы проверки подлинности. Дополнительные сведения о типах служб проверки подлинности см. в разделе <a href="/windows/desktop/Rpc/authentication-service-constants"><strong>константы службы проверки подлинности</strong></a>. <br/> <strong>Тип данных:</strong> FWP_UINT8<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_RPC_AUTH_LEVEL"></span><span id="fwpm_condition_rpc_auth_level"></span><dl> <dt><strong>FWPM_CONDITION_RPC_AUTH_LEVEL</strong></dt> </dl></td>
-<td style="text-align: left;">Уровень обслуживания проверки подлинности. Дополнительные сведения об уровнях службы проверки подлинности см. в разделе <a href="/windows/desktop/Rpc/authentication-level-constants"><strong>константы уровня проверки подлинности</strong></a>. <br/> <strong>Тип данных:</strong> FWP_UINT8<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_SEC_ENCRYPT_ALGORITHM"></span><span id="fwpm_condition_sec_encrypt_algorithm"></span><dl> <dt><strong>FWPM_CONDITION_SEC_ENCRYPT_ALGORITHM</strong></dt> </dl></td>
-<td style="text-align: left;">Алгоритм шифрования с использованием интерфейса поставщика службы безопасности (SSPI).<br/> <strong>Тип данных:</strong> FWP_UINT32<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_SEC_KEY_SIZE"></span><span id="fwpm_condition_sec_key_size"></span><dl> <dt><strong>FWPM_CONDITION_SEC_KEY_SIZE</strong></dt> </dl></td>
-<td style="text-align: left;">Размер ключа шифрования SSPI на основе сертификата.<br/> <strong>Тип данных:</strong> FWP_UINT32<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_IP_LOCAL_ADDRESS_V4"></span><span id="fwpm_condition_ip_local_address_v4"></span><dl> <dt><strong>FWPM_CONDITION_IP_LOCAL_ADDRESS_V4</strong></dt> </dl></td>
-<td style="text-align: left;">Локальный IPv4-адрес. <br/> <strong>Тип данных:  </strong>
-<ul>
-<li>FWP_V4_ADDR_MASK или</li>
-<li>FWP_UINT32</li>
-</ul>
-<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_IP_LOCAL_ADDRESS_V6"></span><span id="fwpm_condition_ip_local_address_v6"></span><dl> <dt><strong>FWPM_CONDITION_IP_LOCAL_ADDRESS_V6</strong></dt> </dl></td>
-<td style="text-align: left;">Локальный IPv6-адрес. <br/> <strong>Тип данных:  </strong>
-<ul>
-<li>FWP_V6_ADDR_MASK или</li>
-<li>FWP_BYTE_ARRAY16_TYPE</li>
-</ul>
-<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_IP_REMOTE_ADDRESS_V4"></span><span id="fwpm_condition_ip_remote_address_v4"></span><dl> <dt><strong>FWPM_CONDITION_IP_REMOTE_ADDRESS_V4</strong></dt> </dl></td>
-<td style="text-align: left;">Удаленный IPv4-адрес. <br/> <strong>Тип данных:  </strong>
-<ul>
-<li>FWP_V4_ADDR_MASK или</li>
-<li>FWP_UINT32</li>
-</ul>
-<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_IP_REMOTE_ADDRESS_V6"></span><span id="fwpm_condition_ip_remote_address_v6"></span><dl> <dt><strong>FWPM_CONDITION_IP_REMOTE_ADDRESS_V6</strong></dt> </dl></td>
-<td style="text-align: left;">Удаленный IPv6-адрес. <br/> <strong>Тип данных:  </strong>
-<ul>
-<li>FWP_V6_ADDR_MASK или</li>
-<li>FWP_BYTE_ARRAY16_TYPE</li>
-</ul>
-<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_PIPE"></span><span id="fwpm_condition_pipe"></span><dl> <dt><strong>FWPM_CONDITION_PIPE</strong></dt> </dl></td>
-<td style="text-align: left;">Имя удаленного именованного канала.<br/> <strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_PROCESS_WITH_RPC_IF_UUID"></span><span id="fwpm_condition_process_with_rpc_if_uuid"></span><dl> <dt><strong>FWPM_CONDITION_PROCESS_WITH_RPC_IF_UUID</strong></dt> </dl></td>
-<td style="text-align: left;">UUID процесса с интерфейсом RPC.<br/> <strong>Тип данных:</strong> FWP_BYTE_ARRAY16_TYPE<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_RPC_EP_VALUE"></span><span id="fwpm_condition_rpc_ep_value"></span><dl> <dt><strong>FWPM_CONDITION_RPC_EP_VALUE</strong></dt> </dl></td>
-<td style="text-align: left;">Зарезервировано для внутреннего использования.<br/> <strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_RPC_EP_FLAGS"></span><span id="fwpm_condition_rpc_ep_flags"></span><dl> <dt><strong>FWPM_CONDITION_RPC_EP_FLAGS</strong></dt> </dl></td>
-<td style="text-align: left;">Зарезервировано для внутреннего использования.<br/> <strong>Тип данных:</strong> FWP_UINT32<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_CLIENT_TOKEN"></span><span id="fwpm_condition_client_token"></span><dl> <dt><strong>FWPM_CONDITION_CLIENT_TOKEN</strong></dt> </dl></td>
-<td style="text-align: left;">Идентификация клиента при использовании RpcProxy.<br/> <strong>Тип данных:</strong> FWP_SECURITY_DESCRIPTOR_TYPE<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_RPC_SERVER_NAME"></span><span id="fwpm_condition_rpc_server_name"></span><dl> <dt><strong>FWPM_CONDITION_RPC_SERVER_NAME</strong></dt> </dl></td>
-<td style="text-align: left;">Имя сервера RPC при использовании RpcProxy.<br/> <strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_RPC_SERVER_PORT"></span><span id="fwpm_condition_rpc_server_port"></span><dl> <dt><strong>FWPM_CONDITION_RPC_SERVER_PORT</strong></dt> </dl></td>
-<td style="text-align: left;">Порт на сервере RPC при использовании RpcProxy.<br/> <strong>Тип данных:</strong> FWP_UINT16<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_RPC_PROXY_AUTH_TYPE"></span><span id="fwpm_condition_rpc_proxy_auth_type"></span><dl> <dt><strong>FWPM_CONDITION_RPC_PROXY_AUTH_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Тип службы проверки подлинности прокси RPC.<br/> <strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_CLIENT_CERT_KEY_LENGTH"></span><span id="fwpm_condition_client_cert_key_length"></span><dl> <dt><strong>FWPM_CONDITION_CLIENT_CERT_KEY_LENGTH</strong></dt> </dl></td>
-<td style="text-align: left;">Длина ключа SSL в сертификате клиента.<br/> <strong>Тип данных:</strong> FWP_UINT32<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><span id="FWPM_CONDITION_CLIENT_CERT_OID"></span><span id="fwpm_condition_client_cert_oid"></span><dl> <dt><strong>FWPM_CONDITION_CLIENT_CERT_OID</strong></dt> </dl></td>
-<td style="text-align: left;">Идентификатор объекта в сертификате клиента.<br/> <strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><span id="FWPM_CONDITION_NET_EVENT_TYPE"></span><span id="fwpm_condition_net_event_type"></span><dl> <dt><strong>FWPM_CONDITION_NET_EVENT_TYPE</strong></dt> </dl></td>
-<td style="text-align: left;">Тип события NET.<br/> <strong>Тип данных:</strong> FWP_UINT32<br/></td>
-</tr>
-</tbody>
-</table>
+
+
+| константы, доступные для Windows Vista и более поздних версий | Описание | 
+|-------------------------------------------------|-------------|
+| <span id="FWPM_CONDITION_REMOTE_USER_TOKEN"></span><span id="fwpm_condition_remote_user_token"></span><dl><dt><strong>FWPM_CONDITION_REMOTE_USER_TOKEN</strong></dt></dl> | Идентификация удаленного пользователя.<br /><strong>Тип данных:</strong> FWP_SECURITY_DESCRIPTOR_TYPE<br /> | 
+| <span id="FWPM_CONDITION_RPC_IF_UUID"></span><span id="fwpm_condition_rpc_if_uuid"></span><dl><dt><strong>FWPM_CONDITION_RPC_IF_UUID</strong></dt></dl> | UUID интерфейса RPC. <br /><strong>Тип данных:</strong> FWP_BYTE_ARRAY16_TYPE<br /> | 
+| <span id="FWPM_CONDITION_RPC_IF_VERSION"></span><span id="fwpm_condition_rpc_if_version"></span><dl><dt><strong>FWPM_CONDITION_RPC_IF_VERSION</strong></dt></dl> | Версия интерфейса RPC. <br /><strong>Тип данных:</strong> FWP_UINT16<br /> | 
+| <span id="FWPM_CONDITION_RPC_IF_FLAG"></span><span id="fwpm_condition_rpc_if_flag"></span><dl><dt><strong>FWPM_CONDITION_RPC_IF_FLAG</strong></dt></dl> | Зарезервировано для внутреннего использования. <br /><strong>Тип данных:</strong> FWP_UINT32<br /> | 
+| <span id="FWPM_CONDITION_DCOM_APP_ID"></span><span id="fwpm_condition_dcom_app_id"></span><dl><dt><strong>FWPM_CONDITION_DCOM_APP_ID</strong></dt></dl> | Идентификация приложения COM.<br /><strong>Тип данных:</strong> FWP_BYTE_ARRAY16_TYPE<br /> | 
+| <span id="FWPM_CONDITION_IMAGE_NAME"></span><span id="fwpm_condition_image_name"></span><dl><dt><strong>FWPM_CONDITION_IMAGE_NAME</strong></dt></dl> | Имя приложения.<br /><strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br /> | 
+| <span id="FWPM_CONDITION_RPC_PROTOCOL"></span><span id="fwpm_condition_rpc_protocol"></span><dl><dt><strong>FWPM_CONDITION_RPC_PROTOCOL</strong></dt></dl> | Протокол RPC. <br /><strong>Возможные значения:  </strong><ul><li>RPC_PROTSEQ_TCP</li><li>RPC_PROTSEQ_NMP</li><li>RPC_PROTSEQ_LRPC</li><li>RPC_PROTSEQ_HTTP</li></ul><br /><strong>Тип данных:</strong> FWP_UINT8<br /> | 
+| <span id="FWPM_CONDITION_RPC_AUTH_TYPE"></span><span id="fwpm_condition_rpc_auth_type"></span><dl><dt><strong>FWPM_CONDITION_RPC_AUTH_TYPE</strong></dt></dl> | Тип службы проверки подлинности. Дополнительные сведения о типах служб проверки подлинности см. в разделе <a href="/windows/desktop/Rpc/authentication-service-constants"><strong>константы службы проверки подлинности</strong></a>. <br /><strong>Тип данных:</strong> FWP_UINT8<br /> | 
+| <span id="FWPM_CONDITION_RPC_AUTH_LEVEL"></span><span id="fwpm_condition_rpc_auth_level"></span><dl><dt><strong>FWPM_CONDITION_RPC_AUTH_LEVEL</strong></dt></dl> | Уровень обслуживания проверки подлинности. Дополнительные сведения об уровнях службы проверки подлинности см. в разделе <a href="/windows/desktop/Rpc/authentication-level-constants"><strong>константы уровня проверки подлинности</strong></a>. <br /><strong>Тип данных:</strong> FWP_UINT8<br /> | 
+| <span id="FWPM_CONDITION_SEC_ENCRYPT_ALGORITHM"></span><span id="fwpm_condition_sec_encrypt_algorithm"></span><dl><dt><strong>FWPM_CONDITION_SEC_ENCRYPT_ALGORITHM</strong></dt></dl> | Алгоритм шифрования с использованием интерфейса поставщика службы безопасности (SSPI).<br /><strong>Тип данных:</strong> FWP_UINT32<br /> | 
+| <span id="FWPM_CONDITION_SEC_KEY_SIZE"></span><span id="fwpm_condition_sec_key_size"></span><dl><dt><strong>FWPM_CONDITION_SEC_KEY_SIZE</strong></dt></dl> | Размер ключа шифрования SSPI на основе сертификата.<br /><strong>Тип данных:</strong> FWP_UINT32<br /> | 
+| <span id="FWPM_CONDITION_IP_LOCAL_ADDRESS_V4"></span><span id="fwpm_condition_ip_local_address_v4"></span><dl><dt><strong>FWPM_CONDITION_IP_LOCAL_ADDRESS_V4</strong></dt></dl> | Локальный IPv4-адрес. <br /><strong>Тип данных:  </strong><ul><li>FWP_V4_ADDR_MASK или</li><li>FWP_UINT32</li></ul><br /> | 
+| <span id="FWPM_CONDITION_IP_LOCAL_ADDRESS_V6"></span><span id="fwpm_condition_ip_local_address_v6"></span><dl><dt><strong>FWPM_CONDITION_IP_LOCAL_ADDRESS_V6</strong></dt></dl> | Локальный IPv6-адрес. <br /><strong>Тип данных:  </strong><ul><li>FWP_V6_ADDR_MASK или</li><li>FWP_BYTE_ARRAY16_TYPE</li></ul><br /> | 
+| <span id="FWPM_CONDITION_IP_REMOTE_ADDRESS_V4"></span><span id="fwpm_condition_ip_remote_address_v4"></span><dl><dt><strong>FWPM_CONDITION_IP_REMOTE_ADDRESS_V4</strong></dt></dl> | Удаленный IPv4-адрес. <br /><strong>Тип данных:  </strong><ul><li>FWP_V4_ADDR_MASK или</li><li>FWP_UINT32</li></ul><br /> | 
+| <span id="FWPM_CONDITION_IP_REMOTE_ADDRESS_V6"></span><span id="fwpm_condition_ip_remote_address_v6"></span><dl><dt><strong>FWPM_CONDITION_IP_REMOTE_ADDRESS_V6</strong></dt></dl> | Удаленный IPv6-адрес. <br /><strong>Тип данных:  </strong><ul><li>FWP_V6_ADDR_MASK или</li><li>FWP_BYTE_ARRAY16_TYPE</li></ul><br /> | 
+| <span id="FWPM_CONDITION_PIPE"></span><span id="fwpm_condition_pipe"></span><dl><dt><strong>FWPM_CONDITION_PIPE</strong></dt></dl> | Имя удаленного именованного канала.<br /><strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br /> | 
+| <span id="FWPM_CONDITION_PROCESS_WITH_RPC_IF_UUID"></span><span id="fwpm_condition_process_with_rpc_if_uuid"></span><dl><dt><strong>FWPM_CONDITION_PROCESS_WITH_RPC_IF_UUID</strong></dt></dl> | UUID процесса с интерфейсом RPC.<br /><strong>Тип данных:</strong> FWP_BYTE_ARRAY16_TYPE<br /> | 
+| <span id="FWPM_CONDITION_RPC_EP_VALUE"></span><span id="fwpm_condition_rpc_ep_value"></span><dl><dt><strong>FWPM_CONDITION_RPC_EP_VALUE</strong></dt></dl> | Зарезервировано для внутреннего использования.<br /><strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br /> | 
+| <span id="FWPM_CONDITION_RPC_EP_FLAGS"></span><span id="fwpm_condition_rpc_ep_flags"></span><dl><dt><strong>FWPM_CONDITION_RPC_EP_FLAGS</strong></dt></dl> | Зарезервировано для внутреннего использования.<br /><strong>Тип данных:</strong> FWP_UINT32<br /> | 
+| <span id="FWPM_CONDITION_CLIENT_TOKEN"></span><span id="fwpm_condition_client_token"></span><dl><dt><strong>FWPM_CONDITION_CLIENT_TOKEN</strong></dt></dl> | Идентификация клиента при использовании RpcProxy.<br /><strong>Тип данных:</strong> FWP_SECURITY_DESCRIPTOR_TYPE<br /> | 
+| <span id="FWPM_CONDITION_RPC_SERVER_NAME"></span><span id="fwpm_condition_rpc_server_name"></span><dl><dt><strong>FWPM_CONDITION_RPC_SERVER_NAME</strong></dt></dl> | Имя сервера RPC при использовании RpcProxy.<br /><strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br /> | 
+| <span id="FWPM_CONDITION_RPC_SERVER_PORT"></span><span id="fwpm_condition_rpc_server_port"></span><dl><dt><strong>FWPM_CONDITION_RPC_SERVER_PORT</strong></dt></dl> | Порт на сервере RPC при использовании RpcProxy.<br /><strong>Тип данных:</strong> FWP_UINT16<br /> | 
+| <span id="FWPM_CONDITION_RPC_PROXY_AUTH_TYPE"></span><span id="fwpm_condition_rpc_proxy_auth_type"></span><dl><dt><strong>FWPM_CONDITION_RPC_PROXY_AUTH_TYPE</strong></dt></dl> | Тип службы проверки подлинности прокси RPC.<br /><strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br /> | 
+| <span id="FWPM_CONDITION_CLIENT_CERT_KEY_LENGTH"></span><span id="fwpm_condition_client_cert_key_length"></span><dl><dt><strong>FWPM_CONDITION_CLIENT_CERT_KEY_LENGTH</strong></dt></dl> | Длина ключа SSL в сертификате клиента.<br /><strong>Тип данных:</strong> FWP_UINT32<br /> | 
+| <span id="FWPM_CONDITION_CLIENT_CERT_OID"></span><span id="fwpm_condition_client_cert_oid"></span><dl><dt><strong>FWPM_CONDITION_CLIENT_CERT_OID</strong></dt></dl> | Идентификатор объекта в сертификате клиента.<br /><strong>Тип данных:</strong> FWP_BYTE_BLOB_TYPE<br /> | 
+| <span id="FWPM_CONDITION_NET_EVENT_TYPE"></span><span id="fwpm_condition_net_event_type"></span><dl><dt><strong>FWPM_CONDITION_NET_EVENT_TYPE</strong></dt></dl> | Тип события NET.<br /><strong>Тип данных:</strong> FWP_UINT32<br /> | 
 
 
 
-## <a name="remarks"></a>Remarks
+
+## <a name="remarks"></a>Комментарии
 
 Если IP-адреса хранятся в \_ формате UINT32 FWP или если IP-порт хранится в формате FWP \_ UINT16, они хранятся в порядке размещения, а не в сетевом порядке.
 

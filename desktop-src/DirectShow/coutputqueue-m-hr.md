@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: b786afa24f974d5eab7e13062105f26386da1c30
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: e6ae9920589d93afe05d56654da6bf80e9ef09aaef6e787d23919f2ac48c09ba
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105665489"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120087224"
 ---
 # <a name="coutputqueuem_hr-member"></a>Каутпуткуеуе:: m \_ HR, элемент
 
@@ -36,22 +36,22 @@ HRESULT m_hr;
 
 
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Эта переменная-член используется для координации действий между потоками. Если перечислитель входных данных отклоняет выборку или если объект начинает запись на диск, то для него устанавливается значение S \_ false или код ошибки. Объект не будет доставлять выборки до завершения очистки или до вызова метода [**каутпуткуеуе:: Reset**](coutputqueue-reset.md) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Аутпутк. h (включение Streams. h)</dt> </dl>                                                                                   |
+| Заголовок<br/>  | <dl> <dt>аутпутк. h (включает Потоки. h)</dt> </dl>                                                                                   |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

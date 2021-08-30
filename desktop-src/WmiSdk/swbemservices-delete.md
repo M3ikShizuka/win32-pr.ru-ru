@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 690dc595471baa5514d7f1ab84a8f6def16ee5b0
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: fff97be43f5689acd51b811e81d72e053f4c7ae6b4df398329016304bf418535
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104497835"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119995654"
 ---
 # <a name="swbemservicesdelete-method"></a>SWbemServices. Delete, метод
 
@@ -123,7 +123,7 @@ SWbemServices.Delete( _
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Метод **SwbemServices. Delete** может использоваться, когда свойству ключа объекта не присвоено значение, так как для этого метода в качестве входных данных требуется только путь к объекту. Этот метод можно использовать в ситуациях, когда [**SWbemObject. Delete \_**](swbemobject-delete-.md) завершается неудачей для отсутствия значения ключа. Если объект зафиксирован в WMI с помощью [**SWbemObject. \_ постановки**](swbemobject-put-.md), объект [**свбемобжектпас**](swbemobjectpath.md) был получен через вызов.
 
@@ -179,7 +179,7 @@ Set objSWbemService = Nothing
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Wbemdisp. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_SWBEMSERVICES CLSID<br/>                                                         |

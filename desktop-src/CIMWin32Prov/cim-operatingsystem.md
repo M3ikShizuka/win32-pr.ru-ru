@@ -41,12 +41,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 76dc59331d3e4fed7c2b79dd95de4ecef02d67d26ab4c9aa66df5d9d7d5a7215
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fbdec7fce68231b59d1b2be3cea1c265e9daddea
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119020992"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122887108"
 ---
 # <a name="cim_operatingsystem-class"></a>\_Класс операционной системы CIM
 
@@ -110,8 +110,8 @@ class CIM_OperatingSystem : CIM_LogicalElement
 
 | Метод                                                           | Описание                                                                                                                            |
 |:-----------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|
-| [**Перезагрузка**](reboot-method-in-class-cim-operatingsystem.md)     | Метод класса, который завершает работу системы компьютера и перезапускает его. Не реализовано инструментарием WMI.<br/>                                 |
-| [**Завершение работы**](shutdown-method-in-class-cim-operatingsystem.md) | Метод класса, который выгружает программы и библиотеки DLL до точки, в которой можно отключить компьютер. Не реализовано инструментарием WMI.<br/> |
+| [**Выполните перезагрузку.**](reboot-method-in-class-cim-operatingsystem.md)     | Метод класса, который завершает работу системы компьютера и перезапускает его. Не реализовано инструментарием WMI.<br/>                                 |
+| [**Закрытия**](shutdown-method-in-class-cim-operatingsystem.md) | Метод класса, который выгружает программы и библиотеки DLL до точки, в которой можно отключить компьютер. Не реализовано инструментарием WMI.<br/> |
 
 
 
@@ -223,7 +223,7 @@ class CIM_OperatingSystem : CIM_LogicalElement
 
 </dd> <dt>
 
-**Распределенные**
+**Распределяемый**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **логический**
@@ -371,7 +371,7 @@ class CIM_OperatingSystem : CIM_LogicalElement
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1175,12 +1175,12 @@ Mac OS 9
 
 Версия операции должна быть в одной из следующих форм:
 
--   <major>.<minor>.<revision>
--   <major>.<minor><letter><revision>
+-   &lt;основной &gt; . &lt; дополнительный номер &gt; . &lt; редакции&gt;
+-   &lt;основной &gt; . &lt; Дополнительная &gt; &lt; буква &gt; &lt; версии&gt;
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **\_ операционной системы CIM** является производным от [**CIM \_ логикалелемент**](cim-logicalelement.md).
 
@@ -1188,7 +1188,7 @@ Mac OS 9
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -1202,7 +1202,7 @@ Mac OS 9
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

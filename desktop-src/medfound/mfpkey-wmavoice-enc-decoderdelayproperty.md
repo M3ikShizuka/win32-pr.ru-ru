@@ -4,12 +4,12 @@ ms.assetid: 7c08793b-78e8-4b80-a2e3-208d49e6f111
 title: Свойство MFPKEY_WMAVOICE_ENC_DecoderDelay (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 880817de41a4b796d8de4e3375d73e3a089d9651
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 8ca14177ec33ae49396649e9b4102591709a5cfc3c304455a4a254d53b22a2c0
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105695174"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120113134"
 ---
 # <a name="mfpkey_wmavoice_enc_decoderdelay-property"></a>МФПКЭЙ \_ вмавоице \_ ENC, \_ свойство декодерделай
 
@@ -23,22 +23,22 @@ ms.locfileid: "105695174"
 
 VT \_ I4
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Присвойте этому свойству значение 3, 4 или 5. При увеличении значения от 3 до 5 качество и задержка также увеличиваются.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------|-----------------------------------------------------------------------------------------|
 | Клиент<br/> | Windows XP, Windows Vista или Windows 7<br/>                                       |
-| Header<br/> | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

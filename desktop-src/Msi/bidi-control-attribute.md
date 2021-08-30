@@ -4,12 +4,12 @@ ms.assetid: 4eaec16f-ee1c-437b-8b76-7ebbdc4e2f71
 title: Атрибут управления BiDi
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 556195c1b3170983083473598f69acb99cdcfaf7
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: d5fd152bbff384961a51350d31759b35ea2b0b4444cac20c78df3dbc7af13bfd
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105650716"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120045264"
 ---
 # <a name="bidi-control-attribute"></a>Атрибут управления BiDi
 
@@ -67,7 +67,7 @@ ms.locfileid: "105650716"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Чтобы задать этот атрибут для элемента управления, включите двунаправленный бит в столбец Attributes записи элемента управления в [таблице Control](control-table.md).
 

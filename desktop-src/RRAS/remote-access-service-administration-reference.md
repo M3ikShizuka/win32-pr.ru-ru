@@ -7,12 +7,12 @@ keywords:
 - RRAS администрирования RAS, Справочник
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b7d00e08b9cdac7fbba07e5da92f36d7357d0183
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: d1dfbfbda18ee2fb231c2e8fd8ba5384e0757c2822fe791500a954057750705d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103888207"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120028284"
 ---
 # <a name="remote-access-service-administration-reference"></a>Справочник по администрированию службы удаленного доступа
 
@@ -22,9 +22,9 @@ ms.locfileid: "103888207"
 -   [Структуры администрирования службы RAS](ras-administration-structures.md)
 -   [Перечисления администрирования RAS](ras-administration-enumerations.md)
 
- 
+ 
 
- 
+ 
 
 
 

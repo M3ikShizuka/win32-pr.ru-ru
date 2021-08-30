@@ -4,12 +4,12 @@ description: Структуры управления
 ms.assetid: B0A43F13-51FD-40D3-A6F8-731626BC664F
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2db5781ec1e28fac6569f7876afd987d19f2eaff
-ms.sourcegitcommit: 013de6f5280f28a9b04c3cce9387e629b07d70fc
+ms.openlocfilehash: 4c52acb241469255789710c794fe3c269714e93755fc06daa42306f434b6d2a8
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "104412709"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120102154"
 ---
 # <a name="management-structures"></a>Структуры управления
 
@@ -81,9 +81,9 @@ ms.locfileid: "104412709"
 -   [**ФВПМ \_ VSWITCH \_ EVENT0**](/windows/desktop/api/Fwpmtypes/ns-fwpmtypes-fwpm_vswitch_event0)
 -   [**\_ \_ SUBSCRIPTION0 события фвпм \_ VSWITCH**](/windows/desktop/api/Fwpmtypes/ns-fwpmtypes-fwpm_vswitch_event_subscription0)
 
- 
+ 
 
- 
+ 
 
 
 

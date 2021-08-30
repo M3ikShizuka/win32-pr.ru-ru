@@ -4,12 +4,12 @@ ms.assetid: 37f25590-69c2-43bd-a5d4-2262457cb39d
 title: Свойство Авенкаудиодуалмоно (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b58cbd901079d8f4dede1efae140791ae99c7fed
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: c7255177290ebbe15104d0264a821e9c17ecdf90b605fbaab435f6d39c577548
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108096582"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120052824"
 ---
 # <a name="avencaudiodualmono-property"></a>Авенкаудиодуалмоно, свойство
 
@@ -33,15 +33,15 @@ ms.locfileid: "108096582"
 
 Это свойство не применяется к кодировщикам аудио в формате MPEG. Для звука MPEG используйте свойство [**авенкмпакодингмоде**](avencmpacodingmode-property.md) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Приложения Windows 2000 Professional \[ классические приложения \| UWP\]<br/>                     |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows 2000 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 2000 Professional приложения \[ UWP для классических приложений \|\]<br/>                     |
+| Минимальная версия сервера<br/> | \[приложения UWP для классических приложений Windows 2000 \|\]<br/>                           |
+| Заголовок<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
 
 
 

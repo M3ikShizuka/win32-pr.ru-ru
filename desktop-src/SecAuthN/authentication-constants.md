@@ -4,12 +4,12 @@ ms.assetid: 3e5b7fd8-01bf-4090-b68f-006b7e2228a9
 title: Константы проверки подлинности (проверка подлинности)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d671f356f11ccaf1f5aece1dc1168d3106d578c4
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 83345ffde59816a8c15276963cd9d60f2d2d24d179ed06acd2175aacb33ba2c9
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105647553"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120101394"
 ---
 # <a name="authentication-constants-authentication"></a>Константы проверки подлинности (проверка подлинности)
 
@@ -37,7 +37,7 @@ ms.locfileid: "105647553"
 Функции интерфейса [*GINA*](/windows/desktop/SecGloss/g-gly) и функции поддержки [*Winlogon*](/windows/desktop/SecGloss/w-gly) используют следующие определенные значения.
 
 > [!Note]  
-> Библиотеки DLL GINA не учитываются в Windows Vista.
+> библиотеки dll GINA не учитываются в Windows Vista.
 
  
 

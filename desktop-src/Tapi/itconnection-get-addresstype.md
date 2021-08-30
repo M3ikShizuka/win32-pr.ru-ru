@@ -4,16 +4,16 @@ ms.assetid: b2ff6303-6beb-429c-ad1a-2f729749e5db
 title: 'Метод Итконнектион:: get_AddressType (Сдпблб. h)'
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d015b0b395f0219fa9a7af2ca7002f242cfaa1b6
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 10fdfc4c46a84e2a859c0cfb73276fd34a54153ba8d36b235adbec2a1ca4ba09
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105675517"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119975824"
 ---
 # <a name="itconnectionget_addresstype-method"></a>Метод Итконнектион:: Get \_ addressType
 
-\[ В Windows Vista, Windows Server 2008 и последующих версиях операционной системы нельзя использовать встречные средства и элементы управления Конференц-телефонией и интерфейсы. API клиента RTC предоставляет аналогичные функциональные возможности.\]
+\[встречи и элементы управления встречными IP-телефонными соединениями недоступны для использования в Windows Vista, Windows Server 2008 и последующих версиях операционной системы. API клиента RTC предоставляет аналогичные функциональные возможности.\]
 
 Метод **Get \_ addressType** получает тип адреса.
 
@@ -57,24 +57,24 @@ HRESULT get_AddressType(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Приложение должно использовать [**сисфристринг**](/windows/win32/api/oleauto/nf-oleauto-sysfreestring) для освобождения памяти, выделенной для параметра *ппаддресстипе* .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------|---------------------------------------------------------------------------------------|
 | Версия TAPI<br/> | Требуется TAPI 3,0 или более поздней версии<br/>                                                 |
-| Header<br/>       | <dl> <dt>Сдпблб. h</dt> </dl>   |
+| Заголовок<br/>       | <dl> <dt>Сдпблб. h</dt> </dl>   |
 | Библиотека<br/>      | <dl> <dt>UUID. lib</dt> </dl>   |
 | DLL<br/>          | <dl> <dt>Sdpblb.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

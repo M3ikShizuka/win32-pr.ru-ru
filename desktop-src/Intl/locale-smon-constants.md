@@ -4,12 +4,12 @@ ms.assetid: df7f026b-2f2d-420f-8a14-656734409835
 title: Константы LOCALE_SMON *
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e932888360cc81e08a1cff1f45082b5fc1b91ead
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 252767648bd25d2c505ba8f20c87c75dd91102c284e0ec0ffddf40334d3100e0
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105662715"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120106054"
 ---
 # <a name="locale_smon-constants"></a>\_Константы СМОН языкового стандарта \*
 

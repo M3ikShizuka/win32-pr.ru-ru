@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - bdatypes.h
-ms.openlocfilehash: 5153f6f79c2807634149222a126a7256a65ffe8a
-ms.sourcegitcommit: 63753fcfb0afbbe5ec283fb8316e62c2dc950f66
+ms.openlocfilehash: eaea633aa543c4b8fa2ddaf95f0914b759eb5f75bf2352f55e5811766d4e001d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "107908492"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120051043"
 ---
 # <a name="mpeg2_transport_stride-structure"></a>\_ \_ Структура шага передачи MPEG2
 
@@ -78,7 +78,7 @@ typedef struct _MPEG2_TRANSPORT_STRIDE {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 На следующей схеме показаны связи между членами структуры.
 
@@ -112,7 +112,7 @@ typedef struct _MPEG2_TRANSPORT_STRIDE {
 
 <dl> <dt>
 
-[Структуры DirectShow](directshow-structures.md)
+[DirectShow Сотрудник](directshow-structures.md)
 </dt> <dt>
 
 [Типы мультимедиа MPEG-2](mpeg-2-media-types.md)

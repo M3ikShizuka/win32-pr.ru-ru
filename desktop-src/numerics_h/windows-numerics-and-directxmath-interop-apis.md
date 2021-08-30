@@ -1,9 +1,9 @@
 ---
-title: Числовые API-интерфейсы Windows и Директксмас Interop (Виндовснумерикс. h)
-description: Эти функции преобразуют типы Windows. Foundation. numeric в и из Директксмас SIMD Types КСМВЕКТОР и КСММАТРИКС.
+title: Windowsные числовые значения и api-интерфейсы взаимодействия директксмас (виндовснумерикс. h)
+description: Эти функции преобразуют Windows. Foundation. numeric типы для и из Директксмас SIMD Types КСМВЕКТОР and КСММАТРИКС.
 ms.assetid: 05851054-196E-4955-B9C5-85C2E33EF488
 keywords:
-- Функции numeric и Директксмас Interop API
+- Windows числовых интерфейсов api взаимодействия директксмас
 topic_type:
 - apiref
 api_name:
@@ -14,16 +14,16 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 02e39057c92eeed87c3f429acb56f0afa2468ded
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: f4b84a67dfa239647ae14530d8d1b4185f340df3df98afb36a0b65c52fc5c5da
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105721041"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120112844"
 ---
-# <a name="windows-numerics-and-directxmath-interop-apis"></a>Функции numeric и Директксмас Interop API
+# <a name="windows-numerics-and-directxmath-interop-apis"></a>Windows числовых интерфейсов api взаимодействия директксмас
 
-Эти функции преобразуют типы [**Windows. Foundation. numeric**](/uwp/api/Windows.Foundation.Numerics) в и из директксмас SIMD Types [ксмвектор](../dxmath/xmvector-data-type.md) и [ксмматрикс](/windows/win32/api/directxmath/ns-directxmath-xmmatrix).
+Эти функции преобразуют [**Windows. Foundation. numeric**](/uwp/api/Windows.Foundation.Numerics) типы для и из ДИРЕКТКСМАС SIMD Types [Ксмвектор](../dxmath/xmvector-data-type.md) and [ксмматрикс](/windows/win32/api/directxmath/ns-directxmath-xmmatrix).
 
 ## <a name="functions"></a>Функции
 
@@ -44,13 +44,13 @@ ms.locfileid: "105721041"
 | `void XMStorePlane(_Out_ plane* pDestination, _In_ FXMVECTOR value)` | Сохраняет Директксмас [ксмвектор](../dxmath/xmvector-data-type.md) в плоскости. |
 | `void XMStoreQuaternion(_Out_ quaternion* pDestination, _In_ FXMVECTOR value)` | Сохраняет Директксмас [ксмвектор](../dxmath/xmvector-data-type.md) в кватернион. |
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 | Требование | Значение |
 |-|-|
 | Пространство имен | DirectX |
-| Header | <dl> <dt>Виндовснумерикс. h</dt> </dl> |
+| Заголовок | <dl> <dt>Виндовснумерикс. h</dt> </dl> |
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 [API-интерфейсы виндовснумерикс. h](windowsnumerics-h-apis-portal.md)

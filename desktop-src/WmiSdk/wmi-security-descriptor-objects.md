@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Объекты дескрипторов безопасности WMI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ddc315e955c2d449d0dea0db97684cc352257cd6
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: edc6f843928e26dd6ac1e081441b60226f6dac885adf5df05021dc2dd7d17737
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104568000"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120030290"
 ---
 # <a name="wmi-security-descriptor-objects"></a>Объекты дескрипторов безопасности WMI
 
@@ -21,14 +21,14 @@ ms.locfileid: "104568000"
 -   [\_Объект Win32 SecurityDescriptor](/windows)
 -   [Списки DACL и SACL](#dacl-and-sacl)
 -   [\_ACE Win32, \_ доверенное лицо Win32, \_ идентификатор безопасности Win32](/windows)
--   [Пример: Проверка доступа к принтерам](#example-checking-who-has-access-to-printers)
--   [См. также](#related-topics)
+-   [Пример. Проверка наличия у Кто доступа к принтерам](#example-checking-who-has-access-to-printers)
+-   [Связанные темы](#related-topics)
 
 ## <a name="the-role-of-security-descriptors"></a>Роль дескрипторов безопасности
 
 Дескрипторы безопасности определяют атрибуты безопасности защищаемых объектов, таких как файлы, разделы реестра, пространства имен WMI, принтеры, службы или общие ресурсы. Дескриптор безопасности содержит сведения о владельце и основной группе объекта. Поставщик может сравнить дескриптор безопасности ресурса с удостоверением запрашивающего пользователя и определить, имеет ли пользователь право на доступ к ресурсу, запрашиваемому пользователем. Дополнительные сведения см. [в разделе доступ к защищаемым ОБЪЕКТАМ WMI](access-to-wmi-securable-objects.md).
 
-Некоторые методы WMI, например [**Получение**](--systemsecurity-getsd.md), возвращают дескриптор безопасности в двоичном формате байтового массива. Начиная с Windows Vista, используйте методы класса [**Win32 \_ секуритидескрипторхелпер**](/previous-versions/windows/desktop/secrcw32prov/win32-securitydescriptorhelper) для преобразования двоичного дескриптора безопасности в экземпляр [**Win32 \_ SecurityDescriptor**](/previous-versions/windows/desktop/secrcw32prov/win32-securitydescriptor), который можно легко манипулировать. Дополнительные сведения см. [в разделе Изменение параметров безопасности доступа к защищаемым объектам](changing-access-security-on-securable-objects.md).
+Некоторые методы WMI, например [**Получение**](--systemsecurity-getsd.md), возвращают дескриптор безопасности в двоичном формате байтового массива. начиная с Windows Vista, используйте методы класса [**Win32 \_ секуритидескрипторхелпер**](/previous-versions/windows/desktop/secrcw32prov/win32-securitydescriptorhelper) для преобразования двоичного дескриптора безопасности в экземпляр [**Win32 \_ SecurityDescriptor**](/previous-versions/windows/desktop/secrcw32prov/win32-securitydescriptor), который можно легко манипулировать. Дополнительные сведения см. [в разделе Изменение параметров безопасности доступа к защищаемым объектам](changing-access-security-on-securable-objects.md).
 
 ## <a name="access-control-and-wmi-security-objects"></a>Управление доступом и объекты безопасности WMI
 
@@ -89,7 +89,7 @@ ms.locfileid: "104568000"
 
 ![содержимое одного \- экземпляра ACE Win32](images/win32-ace.png)
 
-## <a name="example-checking-who-has-access-to-printers"></a>Пример: Проверка доступа к принтерам
+## <a name="example-checking-who-has-access-to-printers"></a>Пример. Проверка наличия у Кто доступа к принтерам
 
 В следующем примере кода VBScript показано, как использовать дескриптор безопасности принтера. Скрипт вызывает метод [**жетсекуритидескриптор**](/windows/desktop/CIMWin32Prov/getsecuritydescriptor-method-in-class-win32-printer) в классе [**\_ принтера Win32**](/windows/desktop/CIMWin32Prov/win32-printer) для получения дескриптора, а затем определяет, присутствует ли в дескрипторе безопасности список управления доступом на уровне пользователей (DACL). При наличии списка DACL сценарий получает список записей управления доступом (ACE) из списка DACL. Каждый элемент ACE представлен экземпляром [**\_ ACE Win32**](/previous-versions/windows/desktop/secrcw32prov/win32-ace). Сценарий проверяет каждый ACE, чтобы получить имя пользователя и определить, имеет ли пользователь доступ к принтеру. Пользователь представлен в экземпляре [**\_ доверенного лица Win32**](/previous-versions/windows/desktop/secrcw32prov/win32-trustee) , внедренного в экземпляр **\_ ACE Win32** .
 
@@ -136,7 +136,7 @@ Next
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

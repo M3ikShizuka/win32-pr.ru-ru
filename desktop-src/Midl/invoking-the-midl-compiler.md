@@ -6,12 +6,12 @@ keywords:
 - MIDL компилятора MIDL, вызов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3b7e03abc49007b823f509acb35bd34ce6e47d80
-ms.sourcegitcommit: 1e8e6e6f27c909900cfa8be58b042456331a82ad
+ms.openlocfilehash: 013dec774729a3567d321ae1394fb50b17134564bce50349977a95d2c669717d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "105650302"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120086384"
 ---
 # <a name="invoking-the-midl-compiler"></a>Вызов компилятора MIDL
 
@@ -19,9 +19,9 @@ ms.locfileid: "105650302"
 
 Запустите компилятор MIDL из командной строки с помощью следующей команды:
 
- *<  параметры >* MIDL **имя_файла. idl**
+**MIDL**  *<* **Параметры** _>_ **filename. idl**
 
-где *<  параметры >* представляют параметры командной строки, которые необходимо использовать, а filename. idl — имя файла MIDL для компиляции.
+Здесь **Параметры** * < * _>_ представляют параметры командной строки, которые необходимо использовать, а filename. idl — имя файла MIDL для компиляции.
 
 Полный список переключателей и параметров компилятора MIDL доступен при использовании компилятора MIDL [**/Help**](-help-.md) и/? аргументы. Параметры упорядочены по категориям. Дополнительные сведения см. в [справочнике по языку MIDL Command-Line](midl-command-line-reference.md).
 

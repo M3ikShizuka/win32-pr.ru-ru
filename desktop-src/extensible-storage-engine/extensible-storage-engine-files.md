@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/Gg294069(v=EXCHG.10)
 ms:contentKeyID: 32765684
 ms.date: 09/22/2016
 ms.topic: article
-ms.openlocfilehash: 1e6d0988966d1eb58a21668cad559308eadbd3eb
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.openlocfilehash: d06773526048ed819f0f855b44644e9d7738ca77
+ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122470001"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122983177"
 ---
 # <a name="extensible-storage-engine-files"></a>расширяемые файлы служба хранилища Engine
 
@@ -40,7 +40,9 @@ _**Применимо к:** Windows | Windows Сервером_
 В этой таблице содержится обзор имен файлов данных, управляемых ESE. для Windows Vista и более поздних версий параметр JET_paramLegacyNames влияет на используемые имена файлов.
 
 
-| | |  | 
+| Метка | Применение |
+|--------|-------|
+|  | 
 
 
 

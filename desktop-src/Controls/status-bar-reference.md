@@ -4,12 +4,12 @@ description: В этом разделе содержатся сведения о
 ms.assetid: 77923055-9d00-4528-bda7-b602a26b577f
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a1be3ea518b63118fc80b02b382943c40ba2fd13b15713488b351b5d6cc827e4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: eb8e1b4119754d524bccfbe4153e12783d9bd38d
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119696494"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122467091"
 ---
 # <a name="status-bar"></a>Status Bar
 
@@ -31,37 +31,13 @@ ms.locfileid: "119696494"
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Раздел</th>
-<th>Содержимое</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="/windows/desktop/api/Commctrl/nf-commctrl-createstatuswindowa"><strong>креатестатусвиндов</strong></a></td>
-<td>Создает окно состояния, которое обычно используется для вывода состояния приложения. Окно обычно отображается в нижней части родительского окна и содержит указанный текст.
-<blockquote>
-[!Note]<br />
-Эта функция является устаревшей. Вместо этого используйте <a href="/windows/desktop/api/winuser/nf-winuser-createwindowa"><strong>CreateWindow</strong></a> .
-</blockquote>
-<br/> <br/></td>
-</tr>
-<tr class="even">
-<td><a href="/windows/desktop/api/Commctrl/nf-commctrl-drawstatustexta"><strong>дравстатустекст</strong></a></td>
-<td>Функция <a href="/windows/desktop/api/Commctrl/nf-commctrl-drawstatustexta"><strong>дравстатустекст</strong></a> Рисует указанный текст в стиле окна состояния с границами.<br/></td>
-</tr>
-<tr class="odd">
-<td><a href="/windows/desktop/api/Commctrl/nf-commctrl-menuhelp"><strong>менухелп</strong></a></td>
-<td>Обрабатывает <a href="/windows/desktop/menurc/wm-menuselect"><strong>WM_MENUSELECT</strong></a> и <a href="/windows/desktop/menurc/wm-command"><strong>WM_COMMAND</strong></a> сообщения, а также отображает текст справки о текущем меню в указанном окне состояния.<br/></td>
-</tr>
-</tbody>
-</table>
+
+| Раздел | Содержимое | 
+|-------|----------|
+| <a href="/windows/desktop/api/Commctrl/nf-commctrl-createstatuswindowa"><strong>креатестатусвиндов</strong></a> | Создает окно состояния, которое обычно используется для вывода состояния приложения. Окно обычно отображается в нижней части родительского окна и содержит указанный текст.<blockquote>[!Note]<br />Эта функция является устаревшей. Вместо этого используйте <a href="/windows/desktop/api/winuser/nf-winuser-createwindowa"><strong>CreateWindow</strong></a> .</blockquote><br /><br /> | 
+| <a href="/windows/desktop/api/Commctrl/nf-commctrl-drawstatustexta"><strong>дравстатустекст</strong></a> | Функция <a href="/windows/desktop/api/Commctrl/nf-commctrl-drawstatustexta"><strong>дравстатустекст</strong></a> Рисует указанный текст в стиле окна состояния с границами.<br /> | 
+| <a href="/windows/desktop/api/Commctrl/nf-commctrl-menuhelp"><strong>менухелп</strong></a> | Обрабатывает <a href="/windows/desktop/menurc/wm-menuselect"><strong>WM_MENUSELECT</strong></a> и <a href="/windows/desktop/menurc/wm-command"><strong>WM_COMMAND</strong></a> сообщения, а также отображает текст справки о текущем меню в указанном окне состояния.<br /> | 
+
 
 
 

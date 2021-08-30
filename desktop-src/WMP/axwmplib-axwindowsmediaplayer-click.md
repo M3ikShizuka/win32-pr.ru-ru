@@ -1,9 +1,9 @@
 ---
 title: Событие Click объекта Аксвиндовсмедиаплайер
-description: Событие Click возникает, когда пользователь нажимает кнопку мыши в элементе управления проигрывателя Windows Media.
+description: событие Click возникает, когда пользователь нажимает кнопку мыши в элементе управления проигрыватель Windows Media.
 ms.assetid: 41a719a2-103a-46b5-806d-5c21c4a09e00
 keywords:
-- Событие Click объекта Аксвиндовсмедиаплайер проигрыватель Windows Media Player
+- щелкните событие объекта аксвиндовсмедиаплайер проигрыватель Windows Media
 topic_type:
 - apiref
 api_name:
@@ -14,16 +14,16 @@ api_type:
 - Assembly
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 53d316e5dc4c12e75d75dd0b292c1df6db974bc6
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: b47fb38f4397accbd1930a745427e32c6b10095d50ab4ccb475b7a74d2033588
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105694379"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120098864"
 ---
 # <a name="click-event-of-the-axwindowsmediaplayer-object"></a>Событие Click объекта Аксвиндовсмедиаплайер
 
-Событие Click возникает, когда пользователь нажимает кнопку мыши в элементе управления проигрывателя Windows Media.
+событие Click возникает, когда пользователь нажимает кнопку мыши в элементе управления проигрыватель Windows Media.
 
 ``` syntax
 [C#]
@@ -56,19 +56,19 @@ Private Sub player_OnClick(
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |----------------------|----------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/>   | Проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                          |
+| Версия<br/>   | проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                          |
 | Пространство имен<br/> | **аксвмплиб**<br/>                                                                                                    |
 | Сборка<br/>  | <dl> <dt>AxInterop.WMPLib.dll (AxInterop.WMPLib.dll.dll)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

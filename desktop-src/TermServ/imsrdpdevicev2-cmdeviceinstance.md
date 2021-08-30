@@ -18,12 +18,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ec036d5e2497f45fff389ec8af457a05fcc9fef9
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 28843563cef37e09a9901a6b78285bf3f30b100e7e578c25666259c62b9eeb60
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105681760"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120099374"
 ---
 # <a name="imsrdpdevicev2cmdeviceinstance-property"></a>Свойство IMsRdpDeviceV2:: Кмдевицеинстанце
 
@@ -46,7 +46,7 @@ HRESULT get_CmDeviceInstance(
 
 Экземпляр устройства Configuration Manager.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -60,7 +60,7 @@ HRESULT get_CmDeviceInstance(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

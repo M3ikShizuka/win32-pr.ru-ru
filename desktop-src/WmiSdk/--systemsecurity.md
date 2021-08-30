@@ -14,12 +14,12 @@ api_type:
 - Schema
 api_location:
 - All
-ms.openlocfilehash: 58de990b56518550705cda2f8360cd90a0381c27
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 141e659c0ddf15c0369323e5d18d6251c3334a47
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104156930"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122468531"
 ---
 # <a name="__systemsecurity-class"></a>\_\_Класс Системсекурити
 
@@ -52,58 +52,17 @@ class __SystemSecurity
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Метод</th>
-<th style="text-align: left;">Описание</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;"><a href="--systemsecurity-get9xuserlist.md"><strong>Get9XUserList</strong></a></td>
-<td style="text-align: left;">Возвращает список пользователей, которым разрешен удаленный доступ.<br/>
-<blockquote>
-[!Note]<br />
-Этот метод не работает в поддерживаемых версиях Windows. Вместо этого используйте <a href="--systemsecurity-getsd.md"><strong>возвращает</strong></a> .
-</blockquote>
-<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><a href="--systemsecurity-getcalleraccessrights.md"><strong>жеткаллеракцессригхтс</strong></a></td>
-<td style="text-align: left;">Возвращает маску для каждого бита, соответствующего право доступа.<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><a href="--systemsecurity-getsd.md"><strong>Получает</strong></a></td>
-<td style="text-align: left;">Возвращает <a href="/windows/desktop/api/winnt/ns-winnt-security_descriptor"><strong>SECURITY_DESCRIPTOR</strong></a> для пространства имен, к которому подключен пользователь.<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><a href="getsecuritydescriptor-method-in-class---systemsecurity-.md"><strong>жетсекуритидескриптор</strong></a></td>
-<td style="text-align: left;">Возвращает дескриптор безопасности, управляющий доступом к пространству имен WMI, связанному с экземпляром <strong>__SystemSecurity</strong>. Дескриптор безопасности возвращается как экземпляр<a href="--securitydescriptor.md"><strong>__SecurityDescriptor</strong></a>.<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><a href="--systemsecurity-set9xuserlist.md"><strong>Set9XUserList</strong></a></td>
-<td style="text-align: left;">Задает список пользователей, которым разрешен удаленный доступ.<br/>
-<blockquote>
-[!Note]<br />
-Этот метод не работает в поддерживаемых версиях Windows. Вместо этого используйте <a href="--systemsecurity-setsd.md"><strong>набор</strong></a> .
-</blockquote>
-<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><a href="--systemsecurity-setsd.md"><strong>Устанавливается</strong></a></td>
-<td style="text-align: left;">Задает дескриптор безопасности для пространства имен, к которому подключен пользователь.<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><a href="setsecuritydescriptor-method-in-class---systemsecurity.md"><strong>сетсекуритидескриптор</strong></a></td>
-<td style="text-align: left;">Записывает обновленную версию дескриптора безопасности, которая управляет доступом к принтеру. Дескриптор безопасности представлен экземпляром <a href="--securitydescriptor.md"><strong>__SecurityDescriptor</strong></a>.<br/></td>
-</tr>
-</tbody>
-</table>
+
+| Метод | Описание | 
+|--------|-------------|
+| <a href="--systemsecurity-get9xuserlist.md"><strong>Get9XUserList</strong></a> | Возвращает список пользователей, которым разрешен удаленный доступ.<br /><blockquote>[!Note]<br />Этот метод не работает в поддерживаемых версиях Windows. Вместо этого используйте <a href="--systemsecurity-getsd.md"><strong>возвращает</strong></a> .</blockquote><br /> | 
+| <a href="--systemsecurity-getcalleraccessrights.md"><strong>жеткаллеракцессригхтс</strong></a> | Возвращает маску для каждого бита, соответствующего право доступа.<br /> | 
+| <a href="--systemsecurity-getsd.md"><strong>Получает</strong></a> | Возвращает <a href="/windows/desktop/api/winnt/ns-winnt-security_descriptor"><strong>SECURITY_DESCRIPTOR</strong></a> для пространства имен, к которому подключен пользователь.<br /> | 
+| <a href="getsecuritydescriptor-method-in-class---systemsecurity-.md"><strong>жетсекуритидескриптор</strong></a> | Возвращает дескриптор безопасности, управляющий доступом к пространству имен WMI, связанному с экземпляром <strong>__SystemSecurity</strong>. Дескриптор безопасности возвращается как экземпляр<a href="--securitydescriptor.md"><strong>__SecurityDescriptor</strong></a>.<br /> | 
+| <a href="--systemsecurity-set9xuserlist.md"><strong>Set9XUserList</strong></a> | Задает список пользователей, которым разрешен удаленный доступ.<br /><blockquote>[!Note]<br />Этот метод не работает в поддерживаемых версиях Windows. Вместо этого используйте <a href="--systemsecurity-setsd.md"><strong>набор</strong></a> .</blockquote><br /> | 
+| <a href="--systemsecurity-setsd.md"><strong>Устанавливается</strong></a> | Задает дескриптор безопасности для пространства имен, к которому подключен пользователь.<br /> | 
+| <a href="setsecuritydescriptor-method-in-class---systemsecurity.md"><strong>сетсекуритидескриптор</strong></a> | Записывает обновленную версию дескриптора безопасности, которая управляет доступом к принтеру. Дескриптор безопасности представлен экземпляром <a href="--securitydescriptor.md"><strong>__SecurityDescriptor</strong></a>.<br /> | 
+
 
 
 
@@ -125,7 +84,7 @@ class __SystemSecurity
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

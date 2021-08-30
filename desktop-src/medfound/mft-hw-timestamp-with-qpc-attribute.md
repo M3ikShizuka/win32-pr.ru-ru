@@ -4,12 +4,12 @@ ms.assetid: 54cdfa13-955a-4e92-b337-f645d526a1b8
 title: Атрибут MFT_HW_TIMESTAMP_WITH_QPC_Attribute (Мфтрансформ. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 94f6f7d50db89e99e76e7b7ea509f444c3998bb6
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: af0081c384af4e0fb36da10d87979c1e2d9ad0256f474581f1be3d9fce213cc1
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105692790"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120012654"
 ---
 # <a name="mft_hw_timestamp_with_qpc_attribute-attribute"></a>\_ \_ Метка времени в MFT HW \_ с \_ \_ атрибутом атрибута QPC
 
@@ -25,9 +25,9 @@ ms.locfileid: "105692790"
 
 Чтобы задать этот атрибут, вызовите [**имфаттрибутес:: SetUINT32**](/windows/desktop/api/mfobjects/nf-mfobjects-imfattributes-setuint32).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-Если этот атрибут имеет **значение true**, источник устройства использует системное время, возвращаемое **QueryPerformanceCounter**, для меток времени. В противном случае источник устройства использует часы устройства. Значение по умолчанию — **false**.
+Если этот атрибут имеет **значение true**, источник устройства использует системное время, возвращаемое **QueryPerformanceCounter**, для меток времени. В противном случае источник устройства использует часы устройства. Значение по умолчанию — **FALSE**.
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
@@ -37,9 +37,9 @@ ms.locfileid: "105692790"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 7 \|\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2008 R2 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Мфтрансформ. h</dt> </dl> |
+| Минимальная версия клиента<br/> | \[приложения UWP для классических приложений Windows 7 \|\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows \[Приложения UWP для настольных приложений Server 2008 R2 \|\]<br/>                           |
+| Заголовок<br/>                   | <dl> <dt>Мфтрансформ. h</dt> </dl> |
 
 
 
