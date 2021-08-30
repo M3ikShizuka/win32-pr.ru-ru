@@ -4,12 +4,12 @@ ms.assetid: f2f09791-b17e-4f54-9d29-83a4189bffc1
 title: Перечисления API теневого копирования томов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d47ade0af4637e9c057c9743dfaf0778e86b3d81
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 451aec8bf8ef95f8ac86d6a0b496a3205c90d94215cecd044707af5502e50b79
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105692388"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119866184"
 ---
 # <a name="volume-shadow-copy-api-enumerations"></a>Перечисления API теневого копирования томов
 

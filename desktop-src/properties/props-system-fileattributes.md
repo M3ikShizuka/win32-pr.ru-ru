@@ -4,12 +4,12 @@ ms.assetid: 55b669e6-f8e1-4b31-8265-bb0621921563
 title: System. FileAttributes
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1856ac9af4104a1d61c117c0d0fb4b4ae3b84ec6
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 79c0a0a3b322dd1f25faaf6d87a1fe4494e33549dd355df2aca0eaa89453a92b
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103912940"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120091274"
 ---
 # <a name="systemfileattributes"></a>System. FileAttributes
 
@@ -31,11 +31,11 @@ propertyDescription
       IsInnate = true
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

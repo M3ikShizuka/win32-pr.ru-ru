@@ -5,12 +5,12 @@ ms.assetid: DBB96D6B-F5A5-4CAF-974F-44D76B9CBFB6
 ms.tgt_platform: multiple
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: eb89f63aea6b1904eb4319dcce541aeb4d15d34f
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: bdeb74788292bb9586bcae5490321acdc3478d5cc4f286a8b1d47ab404930e60
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104411440"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119866494"
 ---
 # <a name="iwtsprotocolconnection-methods"></a>Методы Ивтспротоколконнектион
 
@@ -44,9 +44,9 @@ ms.locfileid: "104411440"
 -   [**Метод Сессионарбитратионенумератион**](/windows/desktop/api/Wtsprotocol/nf-wtsprotocol-iwtsprotocolconnection-sessionarbitrationenumeration)
 -   [**SetErrorInfo - метод**](/windows/desktop/api/Wtsprotocol/nf-wtsprotocol-iwtsprotocolconnection-seterrorinfo)
 
- 
+ 
 
- 
+ 
 
 
 

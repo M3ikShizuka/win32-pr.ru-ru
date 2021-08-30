@@ -4,12 +4,12 @@ ms.assetid: 59237d2c-6dda-4edc-bbaf-39c6b4c221b9
 title: Ведение журнала запросов на перезагрузку
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a256f9042dc40633932a36e288ad18d8194f4739
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: ae5131d5662b4064538a9ae80936d6a02e74edbe44a725d5dd27754a9a2e845c
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104547002"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120043064"
 ---
 # <a name="logging-of-reboot-requests"></a>Ведение журнала запросов на перезагрузку
 

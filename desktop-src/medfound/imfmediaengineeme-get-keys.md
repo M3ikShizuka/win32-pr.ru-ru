@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - mfmediaengine.h
-ms.openlocfilehash: dcb06352065b28739a616a9f2216c20eedebb913
-ms.sourcegitcommit: c16214e53680dc71d1c07111b51f72b82a4512d8
+ms.openlocfilehash: 2df0be51eaf634879c2f8e90ae864b2e0dad5ce54271c55f5a81251141471843
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "105713296"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119942084"
 ---
 # <a name="imfmediaengineemeget_keys-method"></a>Метод Имфмедиаенгиниме:: Get \_ Keys
 
@@ -50,19 +50,19 @@ HRESULT get_Keys(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только Windows 8.1 Классические приложения\]<br/>                                                 |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2012 R2 \[\]<br/>                                      |
+| Минимальная версия клиента<br/> | Windows 8.1 \[ только классические приложения\]<br/>                                                 |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[Только классические приложения R2\]<br/>                                      |
 | IDL<br/>                      | <dl> <dt>Мфмедиаенгине. idl</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

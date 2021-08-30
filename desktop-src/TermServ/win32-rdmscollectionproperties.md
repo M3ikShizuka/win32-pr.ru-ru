@@ -26,12 +26,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bb7397ccc1afd350689ac1eeb984a62177140f50
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 5bdc939edcba5176fd93ad7828bf4f7ea5368fb80c9e97f646f3f1ca4122ad55
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104415324"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119868374"
 ---
 # <a name="win32_rdmscollectionproperties-class"></a>\_Класс Win32 рдмсколлектионпропертиес
 
@@ -214,11 +214,11 @@ class Win32_RDMSCollectionProperties
 Тип доступа: чтение и запись
 </dt> </dl>
 
-Возвращает и задает значение, указывающее, включено ли RemoteFX для главной виртуальной машины. **Значение true** , если RemoteFX включен. в противном случае — **значение false**. Значение этого свойства по умолчанию равно **false**.
+возвращает и задает значение, указывающее, включена ли RemoteFX для главной виртуальной машины. **значение TRUE** , если RemoteFX включен; в противном случае — **значение false**. Значение этого свойства по умолчанию равно **false**.
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -232,7 +232,7 @@ class Win32_RDMSCollectionProperties
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: c4fef6b9-b770-4e2d-a8f2-634206dccb2e
 title: Французский Фактоидс
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 417e19dd3237dcd0aa92bd615c6f931997f536af
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: a5eef204a20049902f52601d2ce007ba2c2090af
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104072787"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122622910"
 ---
 # <a name="french-factoids"></a>Французский Фактоидс
 
@@ -19,9 +19,9 @@ ms.locfileid: "104072787"
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col  />
+<col  />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -77,7 +77,7 @@ ms.locfileid: "104072787"
 <td>01 21 85 94 66<br/> 71 21 85 94 66/10<br/> 71 21 85 94 66 посте 10<br/> 71.34.56.78.90<br/> 71.34.56.78.90/10<br/> 71-34-56-78-90<br/> 71-34-56-78-90/10<br/> 12-34-56-78-90 посте 10<br/> 16 33 01 21 85 94 66<br/> 71 21 85 94 66/10<br/> 71 21 85 94 66 посте 10<br/> + 33 (0) 1 21 85 94 66<br/> + 33 (0) 1.21.85.94.66<br/> + 33 (0) 1-21-85-94-66<br/> + 33 (0) 1 21 85 94 66/11<br/> + 33 (0) 1 21 85 94 66 посте 10<br/> + 33 (0) 1.21.85.94.66/11<br/> + 33 (0) 1.21.85.94.66 посте 10<br/> + 33 (0) 1-21-85-94-66/11<br/> + 33 (0) 1-21-85-94-66 посте 10<br/> 0800 825 825<br/> 0800 82 58 25<br/></td>
 </tr>
 <tr class="even">
-<td><strong>Time</strong></td>
+<td><strong>Время</strong></td>
 <td>Время написано на французском языке.<br/></td>
 <td>15h20<br/> 16H30<br/> 2h39<br/> 10:30<br/> 12:05:25<br/> 16 h<br/> 17 ч<br/> 19h01<br/> 19:30 ч<br/> 22:05 ч<br/></td>
 </tr>

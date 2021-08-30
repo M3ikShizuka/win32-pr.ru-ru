@@ -3,7 +3,7 @@ title: Переменные для выполнения обработки
 description: Переменные для выполнения обработки
 ms.assetid: 02f194ea-cac0-410f-886f-2894dd6971c8
 keywords:
-- Подключаемые модули проигрывателя Windows Media, метод Echo Sample Допроцессаутпут
+- проигрыватель Windows Media подключаемые модули, метод Echo sample допроцессаутпут
 - подключаемые модули, метод Echo Sample Допроцессаутпут
 - подключаемые модули обработки цифровых сигналов, метод Echo Sample Допроцессаутпут
 - Подключаемые модули DSP, метод Echo Sample Допроцессаутпут
@@ -11,12 +11,12 @@ keywords:
 - Пример подключаемого модуля Echo DSP, обработка переменных
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e44f044aee6d893fba97cf921360444ec43db871
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: e2f856808c1e9a00602fe3d2fe03d4255fd79bcfeb44c2021f2434ea670706cf
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103776643"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120001344"
 ---
 # <a name="variables-to-perform-processing"></a>Переменные для выполнения обработки
 
@@ -47,16 +47,16 @@ BYTE * pbEOFDelayBuffer = (m_pbDelayBuffer + m_cbDelayBuffer - sizeof(BYTE));
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [**Реализация Цечо::D Опроцессаутпут**](implementing-cecho--doprocessoutput.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

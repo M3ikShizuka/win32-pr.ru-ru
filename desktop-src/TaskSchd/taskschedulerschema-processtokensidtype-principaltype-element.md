@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 1875da055f2719afca454d225c3bebd13b404b3a
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: b89da903ee3d0814f2c6d599e1418886efc414a129dd7197282fc66e9e7d78d4
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104136534"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120125724"
 ---
 # <a name="processtokensidtype-principaltype-element"></a>Процесстокенсидтипе (ПринЦипалтипе), элемент
 
@@ -40,11 +40,11 @@ ms.locfileid: "104136534"
 
 | Элемент                                                                  | Унаследован от                                                           | Описание                                                    |
 |--------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------|
-| [**Основного**](taskschedulerschema-principal-principaltype-element.md) | [**principalType**](taskschedulerschema-principaltype-complextype.md) | Указывает учетные данные безопасности для участника.<br/> |
+| [**Основной**](taskschedulerschema-principal-principaltype-element.md) | [**принЦипалтипе**](taskschedulerschema-principaltype-complextype.md) | Указывает учетные данные безопасности для участника.<br/> |
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Для разработки на C++ тип идентификатора безопасности процесса указывается с помощью свойства [**IPrincipal2::P роцесстокенсидтипе**](/windows/desktop/api/taskschd/nf-taskschd-iprincipal2-get_processtokensidtype) .
 
@@ -68,12 +68,12 @@ ms.locfileid: "104136534"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 7\]<br/>              |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2008 R2 \[\]<br/> |
+| Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>              |
+| Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

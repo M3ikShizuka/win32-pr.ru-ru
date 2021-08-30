@@ -4,12 +4,12 @@ ms.assetid: b1799372-8d2c-4774-995d-e7926a159d0a
 title: Регуляторы громкости
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 758fd25d4157030071a47ac8eec26dc0e4d50e4c
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: b10697a38410a60af912ceb77b13ae8584d47c8fa5e8ac49fedc81d14e05305f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103896057"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120088204"
 ---
 # <a name="volume-controls"></a>Регуляторы громкости
 
@@ -39,7 +39,7 @@ ms.locfileid: "103896057"
 -   [Регуляторы громкости звука](audio-tapered-volume-controls.md)
 -   [Пиковые показатели](peak-meters.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

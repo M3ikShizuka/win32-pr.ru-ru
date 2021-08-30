@@ -14,12 +14,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 6c8ee12cf201b9ee83d231bf1f5e499550aa3cd6
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: 875dcc39b1210e4dcc03271995c5014a4f20a123887899d4c8eabf845154eda1
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108106462"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120041734"
 ---
 # <a name="pagefault_transitionfault-class"></a>\_Класс PageFault транситионфаулт
 
@@ -82,7 +82,7 @@ class PageFault_TransitionFault : PageFault_V2
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 

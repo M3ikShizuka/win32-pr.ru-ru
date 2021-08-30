@@ -25,12 +25,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ba4ace510c1c26030542090eb1b00e76db803df6
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 109ab5f4f61215e559ae3b415bdef0dd5ec9db1b893f3ce44d942c849be10953
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104535111"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120127804"
 ---
 # <a name="authentication-service-constants"></a>Константы Authentication-Service
 
@@ -52,18 +52,18 @@ ms.locfileid: "104535111"
 | <span id="RPC_C_AUTHN_GSS_KERBEROS"></span><span id="rpc_c_authn_gss_kerberos"></span><dl> <dt>**RPC \_ C \_ AUTHN \_ GSS \_ Kerberos**</dt> <dt>16</dt> </dl>    | Используйте [Microsoft Kerberos SSP](/windows/desktop/SecAuthN/microsoft-kerberos).<br/>                                                                                                            |
 | <span id="RPC_C_AUTHN_DPA"></span><span id="rpc_c_authn_dpa"></span><dl> <dt>**RPC \_ C \_ AUTHN \_ DPA**</dt> <dt>17</dt> </dl>                                | Используйте распределенную проверку пароля (DPA).<br/>                                                                                                                            |
 | <span id="RPC_C_AUTHN_MSN"></span><span id="rpc_c_authn_msn"></span><dl> <dt>**RPC \_ C \_ AUTHN \_ MSN**</dt> <dt>18</dt> </dl>                                | SSP протокола проверки подлинности, используемый для сети Microsoft (MSN).<br/>                                                                                                         |
-| <span id="RPC_C_AUTHN_DIGEST"></span><span id="rpc_c_authn_digest"></span><dl> <dt>**RPC \_ C \_ AUTHN \_ Digest**</dt> <dt>21</dt> </dl>                       | Windows XP или более поздней версии: используйте [дайджест-поставщик Microsoft Digest](/windows/desktop/SecAuthN/microsoft-digest-ssp)<br/>                                                                                        |
+| <span id="RPC_C_AUTHN_DIGEST"></span><span id="rpc_c_authn_digest"></span><dl> <dt>**RPC \_ C \_ AUTHN \_ Digest**</dt> <dt>21</dt> </dl>                       | Windows XP или более поздней версии: использовать [дайджест-поставщик Microsoft Digest](/windows/desktop/SecAuthN/microsoft-digest-ssp)<br/>                                                                                        |
 | <span id="RPC_C_AUTHN_NEGO_EXTENDER"></span><span id="rpc_c_authn_nego_extender"></span><dl> <dt>**RPC \_ \_ \_ \_ Расширитель C AUTHN него**</dt> <dt>30</dt> </dl> | Windows 7 или более поздней версии: зарезервировано. Не использовать<br/>                                                                                                                                  |
 | <span id="RPC_C_AUTHN_MQ"></span><span id="rpc_c_authn_mq"></span><dl> <dt>**RPC \_ C \_ AUTHN \_ MQ**</dt> <dt>100</dt> </dl>                                  | Этот поставщик общих служб предоставляет совместимую с SSPI оболочку для протокола транспортного уровня очереди сообщений Майкрософт (MSMQ).<br/>                                                             |
 | <span id="RPC_C_AUTHN_DEFAULT"></span><span id="rpc_c_authn_default"></span><dl> <dt>**RPC \_ C \_ AUTHN \_ по умолчанию**</dt> <dt>0xFFFFFFFF</dt> </dl>            | Используйте службу проверки подлинности по умолчанию.<br/>                                                                                                                                   |
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Укажите RPC \_ C \_ AUTHN \_ None, чтобы отключить проверку подлинности для вызовов удаленных процедур, выполненных на основе маркера привязки. При указании RPC \_ c \_ AUTHN \_ по умолчанию библиотека времени выполнения RPC использует \_ \_ \_ службу проверки подлинности RPC c AUTHN WinNT для удаленных вызовов процедур, выполненных с помощью маркера привязки.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -75,7 +75,7 @@ ms.locfileid: "104535111"
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

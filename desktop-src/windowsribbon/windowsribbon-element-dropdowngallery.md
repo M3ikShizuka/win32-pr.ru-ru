@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 6926346ef8158930c72a004edf6bb414b9f2d4f2574712f5dd99945d08961cff
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5ca7371f172237df53870b5165698bd24302643a
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119393104"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122624600"
 ---
 # <a name="dropdowngallery-element"></a>Дропдовнгаллери, элемент
 
@@ -45,10 +45,10 @@ ms.locfileid: "119393104"
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col  />
+<col  />
+<col  />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -62,14 +62,14 @@ ms.locfileid: "119393104"
 <tr class="odd">
 <td><strong>аппликатионмодес</strong><br/></td>
 <td>xs:string<br/></td>
-<td>нет<br/></td>
+<td>Нет<br/></td>
 <td>Допустимо, только если <a href="windowsribbon-element-menugroup.md"><strong>менуграуп</strong></a> является родительским элементом.<br/> <br/>
 <dt><span></span><span></span><strong></strong> (xs: String)<br/> </dt> <dd> Строка, содержащая разделенный запятыми список целых чисел от 0 до 31.<br/> Пробелы допустимы и пропускаются.<br/> Максимальная длина: 250 символов. <br/> </dd> </dl></td>
 </tr>
 <tr class="even">
 <td><strong>CommandName</strong><br/></td>
 <td>xs: Поситивеинтежер или xs: String<br/></td>
-<td>нет<br/></td>
+<td>Нет<br/></td>
 <td>Связывает элемент с <a href="windowsribbon-element-command.md"><strong>командой</strong></a>.<br/> <br/>
 <dt><span></span><span></span><strong></strong> (xs: Поситивеинтежер или xs: String)<br/> </dt> <dd> Строка, целочисленное значение в диапазоне от 2 до 59999 включительно или шестнадцатеричное значение между 0x2 и 0xea5f включительно. <br/> Значение должно быть уникальным в XML-документе ленты. <br/> Максимальная длина: 100 символов. <br/> </dd> </dl></td>
 </tr>
@@ -88,26 +88,26 @@ ms.locfileid: "119393104"
 <tr class="even">
 <td><strong>итемхеигхт</strong><br/></td>
 <td>xs:integer<br/></td>
-<td>нет<br/></td>
+<td>Нет<br/></td>
 <td><dt><span></span><span></span><strong></strong> (xs: integer)<br/> </dt> <dd> Значение по умолчанию — -1. <br/> </dd> </dl></td>
 </tr>
 <tr class="odd">
 <td><strong>итемвидс</strong><br/></td>
 <td>xs:integer<br/></td>
-<td>нет<br/></td>
+<td>Нет<br/></td>
 <td><dt><span></span><span></span><strong></strong> (xs: integer)<br/> </dt> <dd> Значение по умолчанию — -1. <br/> </dd> </dl></td>
 </tr>
 <tr class="even">
 <td><strong>текстпоситион</strong><br/></td>
 <td>текстпоситионтипе<br/></td>
-<td>нет<br/></td>
+<td>Нет<br/></td>
 <td>Ограничено одним из следующих значений:<br/> <br/>
 <dt><span></span><span></span><strong></strong> Нижний<br/> </dt> <dd></dd> <dt><span></span><span></span><strong></strong> Ыть<br/> </dt> <dd></dd> <dt><span></span><span></span><strong></strong> Слева<br/> </dt> <dd></dd> <dt><span></span><span></span><strong></strong> Крывает<br/> </dt> <dd></dd> <dt><span></span><span></span><strong></strong> Справа<br/> </dt> <dd></dd> <dt><span></span><span></span><strong></strong> Лучшая<br/> </dt> <dd></dd> </dl></td>
 </tr>
 <tr class="odd">
 <td><strong>Тип</strong><br/></td>
 <td>xs:string<br/></td>
-<td>нет<br/></td>
+<td>Нет<br/></td>
 <td>Ограничено одним из следующих значений:<br/> <br/>
 <dt><span></span><span></span><strong></strong> Файлов<br/> </dt> <dd></dd> <dt><span></span><span></span><strong></strong> Меню<br/> </dt> <dd></dd> </dl></td>
 </tr>
@@ -137,8 +137,8 @@ ms.locfileid: "119393104"
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col  />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -247,7 +247,7 @@ Windows 8 и более поздних версий.
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

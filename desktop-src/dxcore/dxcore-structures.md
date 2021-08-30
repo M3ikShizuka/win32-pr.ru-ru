@@ -4,12 +4,12 @@ description: Следующие структуры объявляются в dxc
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 06/20/2019
-ms.openlocfilehash: 9bb31d549b8e8957eaa31be8c6d55aa4b604d013
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 7888f25c90cc309fb36705b87349707ba1220afa2bd844420743ff8e71f5b4f0
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104413392"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120117744"
 ---
 # <a name="dxcore-structures"></a>Структуры DXCore
 
@@ -23,7 +23,7 @@ ms.locfileid: "104413392"
 | [**Дкскореадаптермеморибуджетнодесегментграуп**](./dxcore_interface/ns-dxcore_interface-dxcoreadaptermemorybudgetnodesegmentgroup.md). Описывает группу сегментов памяти для адаптера. |
 | [**Дкскорехардвареид**](./dxcore_interface/ns-dxcore_interface-dxcorehardwareid.md). Представляет компоненты идентификатора оборудования PnP для адаптера. |
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 * [Справочник по Дкскоре](./dxcore-reference.md)
 * [Перечисление адаптеров с использованием DXCore](./dxcore-enum-adapters.md)

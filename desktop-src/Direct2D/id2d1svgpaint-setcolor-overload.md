@@ -12,12 +12,12 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_name: ''
 api_location: ''
-ms.openlocfilehash: 18643a9cac64e190157f8fde95d383a2e890877c
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 7b73e4528f0c242be8974dc9642d364b1e7f9b7cd5bddb70cb4a2a4ef247f6b7
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "105672337"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120076844"
 ---
 # <a name="id2d1svgpaintsetcolor-methods"></a>Методы ID2D1SvgPaint:: Сетколор
 
@@ -34,7 +34,7 @@ ms.locfileid: "105672337"
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

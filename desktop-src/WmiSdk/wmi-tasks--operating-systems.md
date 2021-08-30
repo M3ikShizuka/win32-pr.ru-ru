@@ -10,12 +10,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: a8d4dff83cebf5fd3336aeec2cc45ac4d8498cdb
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 8f242b413321ecd57a8d1f78d584adc4c4aed85f
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105656698"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122622520"
 ---
 # <a name="wmi-tasks-operating-systems"></a>Задачи WMI: операционные системы
 
@@ -28,7 +28,7 @@ ms.locfileid: "105656698"
 
 **Запуск сценария**
 
-1.  Скопируйте код и сохраните его в файле с расширением vbs, например *filename.vbs*. Убедитесь, что текстовый редактор не добавляет расширение txt в файл.
+1.  Скопируйте код и сохраните его в файле с расширением vbs, например *filename.vbs*. Убедитесь, что текстовый редактор не добавляет к файлу расширение .txt.
 2.  Откройте окно командной строки и перейдите в каталог, в котором был сохранен файл.
 3.  Введите **CScript filename.vbs** в командной строке.
 4.  Если доступ к журналу событий невозможен, проверьте, выполняется ли в командной строке с повышенными привилегиями. Некоторые журналы событий, например журнал событий безопасности, могут быть защищены с помощью элементов управления доступом пользователей (UAC).
@@ -44,8 +44,8 @@ ms.locfileid: "105656698"
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col  />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -59,7 +59,7 @@ ms.locfileid: "105656698"
 <td>Используйте класс <a href="/windows/desktop/CIMWin32Prov/win32-operatingsystem"><strong>Win32_OperatingSystem</strong></a> и проверьте значения свойств <strong>сервицепаккмажорверсион</strong> и <strong>сервицепаккминорверсион</strong> .<br/> <span data-codelanguage="VisualBasic"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -80,7 +80,7 @@ Next</code></pre></td>
 <span data-codelanguage="PowerShell"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -103,7 +103,7 @@ Next</code></pre></td>
 <span data-codelanguage="VisualBasic"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -124,7 +124,7 @@ Next</code></pre></td>
 <span data-codelanguage="PowerShell"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -147,7 +147,7 @@ Next</code></pre></td>
 <span data-codelanguage="VisualBasic"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -168,7 +168,7 @@ Next</code></pre></td>
 <span data-codelanguage="PowerShell"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -185,13 +185,13 @@ Next</code></pre></td>
 </div></td>
 </tr>
 <tr class="even">
-<td>... определение папки, в которой находится папка Windows (% windir%) на компьютере?</td>
+<td>... определить, какая папка является папкой Windows (% Windir%) на компьютере?</td>
 <td><p>Используйте класс <a href="/windows/desktop/CIMWin32Prov/win32-operatingsystem"><strong>Win32_OperatingSystem</strong></a> и проверьте значение свойства <strong>виндовсдиректори</strong> .</p>
 <div class="code">
 <span data-codelanguage="VisualBasic"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -212,7 +212,7 @@ Next</code></pre></td>
 <span data-codelanguage="PowerShell"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -235,7 +235,7 @@ Next</code></pre></td>
 <span data-codelanguage="VisualBasic"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -257,7 +257,7 @@ Next</code></pre></td>
 <span data-codelanguage="PowerShell"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -280,7 +280,7 @@ Next</code></pre></td>
 <span data-codelanguage="VisualBasic"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -303,7 +303,7 @@ Next</code></pre></td>
 <span data-codelanguage="PowerShell"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -327,7 +327,7 @@ Next</code></pre></td>
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

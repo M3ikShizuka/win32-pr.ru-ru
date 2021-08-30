@@ -1,9 +1,9 @@
 ---
 title: Сообщение MM_MIM_CLOSE (Ммсистем. h)
-description: '\_ \_ Сообщение закрытия mm MIM отправляется в окно при закрытии входного устройства MIDI.'
+description: сообщение о \_ \_ закрытии MIM MM отправляется в окно при закрытии входного устройства MIDI.
 ms.assetid: 261021aa-4df6-44d8-aad3-5f98b1213459
 keywords:
-- MM_MIM_CLOSE сообщения Windows мультимедиа
+- сообщение MM_MIM_CLOSE Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -14,16 +14,16 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d8ce511365b1faa49faefaf4ed25c5b8befb2288
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 87e1ee579f09fbd379f1fa353d602657194b0848d040210a713d0492a7e42311
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103988959"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119807394"
 ---
-# <a name="mm_mim_close-message"></a>\_Сообщение о закрытии "mm MIM" \_
+# <a name="mm_mim_close-message"></a>\_сообщение о \_ закрытии MIM MM
 
-Сообщение **\_ \_ закрытия mm MIM** отправляется в окно при закрытии входного устройства MIDI.
+сообщение **о \_ \_ закрытии MIM MM** отправляется в окно при закрытии входного устройства MIDI.
 
 
 ```C++
@@ -56,11 +56,11 @@ lParam = reserved
 
 Это сообщение не возвращает значение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 После отправки этого сообщения маркер устройства больше не действителен.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -68,11 +68,11 @@ lParam = reserved
 |-------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                                |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                      |
-| Заголовок<br/>                   | <dl> <dt>Ммсистем. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>ммсистем. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

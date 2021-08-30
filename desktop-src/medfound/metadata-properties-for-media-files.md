@@ -4,12 +4,12 @@ ms.assetid: 35187720-413a-45a0-8558-918f7c3161e1
 title: Свойства метаданных для файлов мультимедиа
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7cab541a480b03d7ef6bfb9a1a2036226b767774
-ms.sourcegitcommit: c16214e53680dc71d1c07111b51f72b82a4512d8
+ms.openlocfilehash: ff82faa4d98278e9809ac87538fd0fa587846ef39eb083754868714bdb1bed0b
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "105703434"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119827084"
 ---
 # <a name="metadata-properties-for-media-files"></a>Свойства метаданных для файлов мультимедиа
 
@@ -17,8 +17,8 @@ ms.locfileid: "105703434"
 
 -   [Общие свойства мультимедиа](#common-media-properties)
 -   [Свойства общего доступа к носителю](#media-sharing-properties)
--   [Сопоставления пакета SDK Windows Media Format](#windows-media-format-sdk-mappings)
--   [См. также](#related-topics)
+-   [Windows Сопоставления SDK формата носителя](#windows-media-format-sdk-mappings)
+-   [Связанные темы](#related-topics)
 
 ## <a name="common-media-properties"></a>Общие свойства мультимедиа
 
@@ -63,7 +63,7 @@ ms.locfileid: "105703434"
 | **\_Промотионурл носителя \_ PKEY**                                            | [System. Media. Промотионурл](../properties/props-system-media-promotionurl.md)                       | URL-адрес сайта, предлагающий продвижение, связанное с содержимым.                                                                                                                                             | VT \_ LPWSTR   |
 | **\_Провидерратинг носителя \_ PKEY**                                          | [System. Media. Провидерратинг](../properties/props-system-media-providerrating.md)                   | Оценка содержимого, назначенного поставщиком содержимого метаданных.                                                                                                                                       | VT \_ LPWSTR   |
 | **\_Провидерстиле носителя \_ PKEY**                                           | [System. Media. Провидерстиле](../properties/props-system-media-providerstyle.md)                     | Стиль или жанр содержимого, назначенный поставщиком содержимого метаданных.                                                                                                                               | VT \_ LPWSTR   |
-| **\_Издатель носителя \_ PKEY**                                               | [System. Media. Publisher](../properties/props-system-media-publisher.md)                             | Издатель.                                                                                                                                                                                                | VT \_ LPWSTR   |
+| **\_Publisher носителя \_ PKEY**                                               | [System. Media. Publisher](../properties/props-system-media-publisher.md)                             | Издатель.                                                                                                                                                                                                | VT \_ LPWSTR   |
 | **\_Подзаголовок носителя PKEY \_**                                                | [System. Media. подзаголовок](../properties/props-system-media-subtitle.md)                               | Подзаголовок.                                                                                                                                                                                                 | VT \_ LPWSTR   |
 | **\_Уникуефилеидентифиер носителя \_ PKEY**                                    | [System. Media. Уникуефилеидентифиер](../properties/props-system-media-uniquefileidentifier.md)       | Универсальная строка, которая может быть идентифицирована для файла.                                                                                                                                                        | VT \_ LPWSTR   |
 | **\_ \_ Модуль записи мультимедиа PKEY**                                                  | [System. Media. Writer](../properties/props-system-media-writer.md)                                   | Средство.                                                                                                                                                                                                   | VT \_ LPWSTR   |
@@ -72,7 +72,7 @@ ms.locfileid: "105703434"
 | **\_ \_ Албумтитленая музыка PKEY**                                              | [System. Music. Албумтитле](../properties/props-system-music-albumtitle.md)                           | Название альбома.                                                                                                                                                                                              | VT \_ LPWSTR   |
 | **" \_ Музыкальный \_ Исполнитель" PKEY**                                                  | [System. Music. исполнителя](../properties/props-system-music-artist.md)                                   | Исполнител.                                                                                                                                                                                                   | VT \_ LPWSTR   |
 | **\_ \_ Беатсперминутеная музыка PKEY**                                          | [System. Music. Беатсперминуте](../properties/props-system-music-beatsperminute.md)                   | Число неритмов в минуту.                                                                                                                                                                                         | VT \_ LPWSTR   |
-| **\_Композитор музыки для PKEY \_**                                                | [System. Music. Composer](../properties/props-system-music-composer.md)                               | Платформу.                                                                                                                                                                                                 | VT \_ LPWSTR   |
+| **\_Музыкальный \_ Composer PKEY**                                                | [System. Music. Composer](../properties/props-system-music-composer.md)                               | Composer.                                                                                                                                                                                                 | VT \_ LPWSTR   |
 | **\_Музыкальный \_ проводник PKEY**                                               | [System. Music. Проводник](../properties/props-system-music-conductor.md)                             | Выведен.                                                                                                                                                                                                | VT \_ LPWSTR   |
 | **\_ \_ Контентграупдескриптионная музыка PKEY**                                 | [System. Music. Контентграупдескриптион](../properties/props-system-music-contentgroupdescription.md) | Описание группы содержимого (например, упакованный набор или ряд).                                                                                                                                      | VT \_ LPWSTR   |
 | **\_Жанр для музыки на PKEY \_**                                                   | [System. Music. Жанр](../properties/props-system-music-genre.md)                                     | Название.                                                                                                                                                                                                    | VT \_ LPWSTR   |
@@ -131,7 +131,7 @@ ms.locfileid: "105703434"
 
 Свойства в **звуковой группе "PKEY" \_ \_ \* *применяются только к файлам с аудио-потоком, а свойства в* Видеогруппе _ \_ PKEY \_ \*** применяются только к файлам с видеопотоком.
 
-## <a name="windows-media-format-sdk-mappings"></a>Сопоставления пакета SDK Windows Media Format
+## <a name="windows-media-format-sdk-mappings"></a>Windows Сопоставления SDK формата носителя
 
 Источник мультимедиа ASF сопоставляет следующие ключи свойств с атрибутами заголовка ASF. В некоторых случаях типы данных различаются свойством Shell и атрибутом Format SDK.
 
@@ -143,7 +143,7 @@ ms.locfileid: "105703434"
 | **PKEY \_ Audio \_ пеаквалуе**               | [**пеаквалуе**](../wmformat/peakvalue.md)                                   |
 | **\_Автор PKEY**                         | [**Автор**](../wmformat/author.md)                                         |
 | **\_Комментарий PKEY**                        | [**Описание**](../wmformat/description.md)                               |
-| **\_Авторские права PKEY**                      | [**Информация**](../wmformat/copyright.md)                                   |
+| **\_Авторские права PKEY**                      | [**Copyright**](../wmformat/copyright.md)                                   |
 | **\_Защита управления правами на PKEY \_**               | [**\_Защищено**](../wmformat/is-protected.md)                            |
 | **\_Ключевые слова PKEY**                       | [**WM/Category**](../wmformat/wm-category.md)                               |
 | **\_Язык PKEY**                       | [**WM/Language**](../wmformat/wm-language.md)                               |
@@ -166,7 +166,7 @@ ms.locfileid: "105703434"
 | **\_Промотионурл носителя \_ PKEY**            | [**WM/Промотионурл**](../wmformat/wm-promotionurl.md)                       |
 | **\_Провидерратинг носителя \_ PKEY**          | [**WM/Провидерратинг**](../wmformat/wm-providerrating.md)                   |
 | **\_Провидерстиле носителя \_ PKEY**           | [**WM/Провидерстиле**](../wmformat/wm-providerstyle.md)                     |
-| **\_Издатель носителя \_ PKEY**               | [**WM/Publisher**](../wmformat/wm-publisher.md)                             |
+| **\_Publisher носителя \_ PKEY**               | [**WM/Publisher**](../wmformat/wm-publisher.md)                             |
 | **\_Подзаголовок носителя PKEY \_**                | [**WM/Субтитледескриптион**](../wmformat/wm-subtitledescription.md)         |
 | **\_Уникуефилеидентифиер носителя \_ PKEY**    | [**WM/Уникуефилеидентифиер**](../wmformat/wm-uniquefileidentifier.md)       |
 | **\_ \_ Модуль записи мультимедиа PKEY**                  | [**WM/Writer**](../wmformat/wm-writer.md)                                   |
@@ -175,7 +175,7 @@ ms.locfileid: "105703434"
 | **\_ \_ Албумтитленая музыка PKEY**              | [**WM/Албумтитле**](../wmformat/wm-albumtitle.md)                           |
 | **" \_ Музыкальный \_ Исполнитель" PKEY**                  | [**Автор**](../wmformat/author.md)                                         |
 | **\_ \_ Беатсперминутеная музыка PKEY**          | [**WM/Беатсперминуте**](../wmformat/wm-beatsperminute.md)                   |
-| **\_Композитор музыки для PKEY \_**                | [**WM/Composer**](../wmformat/wm-composer.md)                               |
+| **\_Музыкальный \_ Composer PKEY**                | [**WM/Composer**](../wmformat/wm-composer.md)                               |
 | **\_Музыкальный \_ проводник PKEY**               | [**WM/проводник**](../wmformat/wm-conductor.md)                             |
 | **\_ \_ Контентграупдескриптионная музыка PKEY** | [**WM/Контентграупдескриптион**](../wmformat/wm-contentgroupdescription.md) |
 | **\_Жанр для музыки на PKEY \_**                   | [**WM/жанр**](../wmformat/wm-genre.md)                                     |
@@ -190,14 +190,14 @@ ms.locfileid: "105703434"
 | **PKEY \_ паренталратингреасон**           | [**WM/Паренталратингреасон**](../wmformat/wm-parentalratingreason.md)       |
 | **\_Оценка PKEY**                         | [**WM/Шаредусерратинг**](../wmformat/wm-shareduserrating.md)               |
 | **PKEY \_ сумбнаилстреам**                | [**WM/Picture**](../wmformat/wmpicture.md)                       |
-| **\_Название PKEY**                          | [**Заголовок**](../wmformat/title.md)                                           |
+| **\_Название PKEY**                          | [**Название**](../wmformat/title.md)                                           |
 | **\_Директор видео \_ PKEY**                | [**WM/Director**](../wmformat/wm-director.md)                               |
 
 
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

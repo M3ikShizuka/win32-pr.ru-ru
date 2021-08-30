@@ -6,12 +6,12 @@ keywords:
 - COM-значение реестра Дефаултакцесспермиссион
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7e6c132096807b8c234259071758ebd361421f8f
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 95e41803dc70a894e2c230c5c6231a4b7ab7c166c7926a8fff900ebd183a41da
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "105700477"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119993414"
 ---
 # <a name="defaultaccesspermission"></a>дефаултакцесспермиссион
 
@@ -20,16 +20,16 @@ ms.locfileid: "105700477"
 > [!Caution]  
 > Не рекомендуется изменять это значение, так как это повлияет на все серверные приложения COM, не устанавливающие собственный уровень безопасности на уровне процесса, и может препятствовать их правильной работе. Если вы изменяете это значение, чтобы оно влияло на параметры безопасности для конкретного приложения COM, вместо этого следует изменить параметры безопасности для этого конкретного COM-приложения. Дополнительные сведения о настройке безопасности на уровне процесса см. в разделе [Настройка безопасности на уровне процесса](setting-processwide-security.md).
 
- 
+ 
 
 ## <a name="registry-entry"></a>Запись реестра
 
 ```
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole
-   DefaultAccessPermission = ACL
+   DefaultAccessPermission = ACL
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это **\_ двоичное значение reg** .
 
@@ -39,7 +39,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole
 
 Это значение обеспечивает простой уровень централизованного администрирования доступа к соединению по умолчанию для запуска объектов на компьютере.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -52,9 +52,9 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole
 [Настройка безопасности на уровне процесса](setting-processwide-security.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: d56021be-616b-41cd-8cf0-9e0d314f62cd
 title: Режим устройства
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4657fbb49e2619d75911c18185109805116b9647
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: fe1e73f77dcbda1caa670264a7fec4a21ba6bbe78414aaa59cb1416bdd0d0d6f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "104495780"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120075934"
 ---
 # <a name="device-mode"></a>Режим устройства
 
@@ -46,7 +46,7 @@ if (MyDevCap.bHasDevice)
 
 Так как видеоустройства USB могут переключать режимы без сброса, код, приведенный в предыдущих примерах, не может быть надежным для USB-устройств. Вместо этого [**используйте интерфейс,**](/previous-versions/windows/desktop/api/Vidcap/nn-vidcap-iselector) чтобы получить текущий режим. Этот интерфейс также можно использовать для переключения режимов программным способом, если устройство поддерживает его.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

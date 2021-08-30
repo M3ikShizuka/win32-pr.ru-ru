@@ -17,18 +17,18 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 7cd5e36c186972d52edbaf103ad9f1e2c125636a
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.openlocfilehash: b48373e18ec3c1ab15c1c0f93f157977deda81d8
+ms.sourcegitcommit: 4e94fc75fad7b2a0f3c92a26f97e89924e59b7a9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122624820"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "122787470"
 ---
 # <a name="span-idvspixengineisummaryrequestspanisummaryrequest-interface"></a><span id="vspixengine.isummaryrequest"></span>Интерфейс Исуммарирекуест
 
 Запрос сводных данных.
 
-## <a name="members"></a>Участники
+## <a name="members"></a>Элементы
 
 Интерфейс **исуммарирекуест** наследует от интерфейса [**IUnknown**](/windows/desktop/api/unknwn/nn-unknwn-iunknown) . **Исуммарирекуест** также имеет следующие типы членов:
 
@@ -38,7 +38,7 @@ ms.locfileid: "122624820"
 
 Интерфейс **исуммарирекуест** содержит следующие методы.
 
-<table><colgroup><col  /><col  /></colgroup><thead><tr class="header"><th style="text-align: left;">Метод</th><th style="text-align: left;">Описание</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><a href="/windows/desktop/direct3dtools/isummaryrequest-requestasync-isummarycallback-ptr-dword-dword"><strong>рекуестасинк</strong></a></td><td style="text-align: left;"><p>Асинхронный запрос для получения сводных сведений о журнале графики.</p></td></tr></tbody></table>
+<table><colgroup><col  /><col  /></colgroup><thead><tr class="header"><th >Метод</th><th >Описание</th></tr></thead><tbody><tr class="odd"><td ><a href="/windows/desktop/direct3dtools/isummaryrequest-requestasync-isummarycallback-ptr-dword-dword"><strong>рекуестасинк</strong></a></td><td ><p>Асинхронный запрос для получения сводных сведений о журнале графики.</p></td></tr></tbody></table>
 
  
 

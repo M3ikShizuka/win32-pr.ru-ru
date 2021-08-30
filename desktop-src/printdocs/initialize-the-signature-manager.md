@@ -4,12 +4,12 @@ ms.assetid: 4c4c6e8f-4ee0-4089-a283-1082baee5054
 title: Инициализация диспетчера сигнатур
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d2796838a9cd041859f0eb47bf4aeafb2a8d5356
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: dc9a9f960c639e20c6c7d4debbfd2276553d3ba90b7af083d39a97f887ee81ad
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105719708"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119948774"
 ---
 # <a name="initialize-the-signature-manager"></a>Инициализация диспетчера сигнатур
 
@@ -17,7 +17,7 @@ ms.locfileid: "105719708"
 
 Прежде чем использовать приведенные ниже примеры кода в программе, ознакомьтесь со сведениями об отказе в [типичных задачах программирования цифровых подписей](basic-digital-signature-programming-tasks.md).
 
-Чтобы использовать функции Windows 7 API шифрования, определите для параметра "шифрование **\_ OID" \_ \_ \_ Дополнительные \_ поля** следующим образом:
+чтобы использовать функции Windows 7 интерфейса API шифрования, определите для параметра " **шифрование \_ OID \_ " \_ \_ дополнительные \_ поля** следующим образом:
 
 
 ```C++
@@ -63,7 +63,7 @@ if (SUCCEEDED(hr)) {
 
 После создания экземпляра интерфейса [**икспссигнатуреманажер**](/windows/desktop/api/xpsdigitalsignature/nn-xpsdigitalsignature-ixpssignaturemanager) и загрузки XPS-документа диспетчер подписей готов к использованию.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

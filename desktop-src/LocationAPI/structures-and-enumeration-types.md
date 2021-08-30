@@ -4,16 +4,16 @@ ms.assetid: a1d9d274-2861-4818-8fa1-d8d66edf27b3
 title: Структуры и типы перечислений (API Location)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 67a73c27cb2ad6dc0dcd0c2b92f4e9ba52e98fb8
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 3e8cfea31e8822147cc33710239b31dcd4b982ca3b523dfb6f118d1969af703c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105674055"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120129814"
 ---
 # <a name="structures-and-enumeration-types-location-api"></a>Структуры и типы перечислений (API Location)
 
-\[API расположения Win32 доступен для использования в операционных системах, указанных в разделе требования. В последующих версиях он может быть изменен или недоступен. Вместо этого используйте API [**Windows. Devices. географического расположения**](/uwp/api/Windows.Devices.Geolocation) . \]
+\[API расположения Win32 доступен для использования в операционных системах, указанных в разделе требования. В последующих версиях он может быть изменен или недоступен. Вместо этого используйте [**Windows. API Devices. Географическое расположение**](/uwp/api/Windows.Devices.Geolocation) . \]
 
 API расположения определяет следующие типы перечислений.
 

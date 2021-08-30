@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d6c9203a782be34be66e84fa8238a678647a4359df8cde3408aa8de99e73fcce
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 96b9770607685dbd69e115f4f18d646b6d552fae
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118133773"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122884474"
 ---
 # <a name="inapsystemhealthagentcallbackgetsohrequest-method"></a>Метод Инапсистемхеалсаженткаллбакк:: Жетсохрекуест
 
@@ -69,11 +69,11 @@ HRESULT GetSoHRequest(
 
 Если ваша реализация возвращает любое возвращаемое значение (за исключением **HRESULT \_ из \_ Win32 ( \_ сервер RPC S \_ \_ недоступен)**), система защиты доступа к сети конструирует и возвращает [**сохрекуест**](/windows/win32/api/naptypes/ns-naptypes-soh) соответствующему SHV со следующими типами атрибутов и значениями:
 
--   [**сохаттрибутетипесистемхеалсид**](sohattributetype-enum.md)= <id>
+-   [](sohattributetype-enum.md) =  сохаттрибутетипесистемхеалсид &lt; удостоверения&gt;
 -   [**сохаттрибутетипефаилурекатегори**](sohattributetype-enum.md) =  [ **фаилурекатегориклиенткомпонент**](/windows/win32/api/naptypes/ne-naptypes-failurecategory)
--   [**сохаттрибутетипирроркодес**](sohattributetype-enum.md) = <ошибка — код>
+-   [](sohattributetype-enum.md)  =  сохаттрибутетипирроркодес &lt; код ошибки&gt;
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод обратного вызова объявляется системой защиты доступа к сети и реализуется модулем записи SHA.
 
@@ -83,7 +83,7 @@ HRESULT GetSoHRequest(
 
 Если агент SHA создаст состояние работоспособности, то в Напажент будет возвращено кэшированное состояние работоспособности. Если нет кэшированного состояния работоспособности для возврата, SHA должен немедленно вернуть SoH со следующими типами атрибутов и значениями:
 
--   [**сохаттрибутетипесистемхеалсид**](sohattributetype-enum.md)= <id>
+-   [](sohattributetype-enum.md) =  сохаттрибутетипесистемхеалсид &lt; удостоверения&gt;
 -   [**сохаттрибутетипефаилурекатегори**](sohattributetype-enum.md) =  [ **фаилурекатегориклиенткоммуникатион**](/windows/win32/api/naptypes/ne-naptypes-failurecategory)
 -   [**сохаттрибутетипирроркодес**](sohattributetype-enum.md)  =  [ **Защита доступа к сети \_ E \_ без \_ кэшированного \_ состояния работоспособности**](nap-error-constants.md)
 
@@ -95,11 +95,11 @@ HRESULT GetSoHRequest(
 
 Для несвязанных SHA, зарегистрированных в системе, система защиты доступа к сети конструирует и отправляет Сохрекуест в соответствующий SHV со следующими типами атрибутов и значениями:
 
--   [**сохаттрибутетипесистемхеалсид**](sohattributetype-enum.md)= <id>
+-   [](sohattributetype-enum.md) =  сохаттрибутетипесистемхеалсид &lt; удостоверения&gt;
 -   [**сохаттрибутетипефаилурекатегори**](sohattributetype-enum.md) =  [ **фаилурекатегориклиенткомпонент**](/windows/win32/api/naptypes/ne-naptypes-failurecategory)
 -   [**сохаттрибутетипирроркодес**](sohattributetype-enum.md)  =  [ **Защита доступа к сети \_ E \_ не \_ инициализирована**](nap-error-constants.md)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -112,7 +112,7 @@ HRESULT GetSoHRequest(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

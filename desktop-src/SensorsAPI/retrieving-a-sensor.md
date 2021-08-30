@@ -4,12 +4,12 @@ ms.assetid: 36631bae-f237-4951-9959-6ab6286bd1f7
 title: Получение объекта датчика
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 31cda6ea04d1a0580c38aef5a0b9c4186b908300
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 985829572476dd46fc235229c43b9d11585e0e0d62a3e8d805aa7cf8fd566601
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103991009"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120126644"
 ---
 # <a name="retrieving-a-sensor-object"></a>Получение объекта датчика
 
@@ -124,7 +124,7 @@ hr = pSensorManager->GetSensorByID(SAMPLE_SENSOR_TIME_ID, &pSensor);
 
 Можно также получить датчики, когда они станут доступны, получив событие от диспетчера датчиков. Дополнительные сведения см. в разделе [**исенсорманажер:: сетевентсинк**](/windows/win32/api/sensorsapi/nf-sensorsapi-isensormanager-seteventsink).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

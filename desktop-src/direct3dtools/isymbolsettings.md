@@ -17,18 +17,18 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 05cca9d8d61f8d90b6daf77b2ac8c34be432f8a1
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.openlocfilehash: 7e11fe8c10152460a9e049cb8c2d1bd78a162b5d
+ms.sourcegitcommit: 4e94fc75fad7b2a0f3c92a26f97e89924e59b7a9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122627880"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "122786790"
 ---
 # <a name="span-idvspixengineisymbolsettingsspanisymbolsettings-interface"></a><span id="vspixengine.isymbolsettings"></span>Интерфейс Исимболсеттингс
 
 Передает сведения о сервере символов в модуль записи рабочего стола.
 
-## <a name="members"></a>Участники
+## <a name="members"></a>Элементы
 
 Интерфейс **исимболсеттингс** наследует от интерфейса [**IUnknown**](/windows/desktop/api/unknwn/nn-unknwn-iunknown) . **Исимболсеттингс** также имеет следующие типы членов:
 
@@ -38,7 +38,7 @@ ms.locfileid: "122627880"
 
 Интерфейс **исимболсеттингс** содержит следующие методы.
 
-<table><colgroup><col  /><col  /></colgroup><thead><tr class="header"><th style="text-align: left;">Метод</th><th style="text-align: left;">Описание</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><a href="/windows/desktop/direct3dtools/isymbolsettings-updatesymbolsettings-symbolserverinfo"><strong>упдатесимболсеттингс</strong></a></td><td style="text-align: left;"><p>Запрос на отправку путей к символам отладки локальному (не удаленному) подсистеме.</p></td></tr></tbody></table>
+<table><colgroup><col  /><col  /></colgroup><thead><tr class="header"><th >Метод</th><th >Описание</th></tr></thead><tbody><tr class="odd"><td ><a href="/windows/desktop/direct3dtools/isymbolsettings-updatesymbolsettings-symbolserverinfo"><strong>упдатесимболсеттингс</strong></a></td><td ><p>Запрос на отправку путей к символам отладки локальному (не удаленному) подсистеме.</p></td></tr></tbody></table>
 
  
 

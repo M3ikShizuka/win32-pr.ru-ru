@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 065e1735ca0228046cfb08e2fb441d3cdc02af74
-ms.sourcegitcommit: 3bdf30edb314e0fcd17dc4ddbc70e4ec7d3596e6
+ms.openlocfilehash: 07e991b6431a4f1c1752f60f20c46d93e10803d4b2821da5d39162c2eebedfda
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "105664791"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120081482"
 ---
 # <a name="glpixelzoom-function"></a>Функция Глпикселзум
 
@@ -71,7 +71,7 @@ void WINAPI glPixelZoom(
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Функция **глпикселзум** задает значения для коэффициентов масштабирования *x* и *y* . При выполнении [**глдравпикселс**](gldrawpixels.md) или [**глкопипикселс**](glcopypixels.md), если (*x*<sub>r</sub> ,*y*<sub>r</sub> ) является текущей позицией в виде растрового изображения, а заданный элемент находится в *n*-ой строке и *м* ом столбце пиксельного прямоугольника, то пиксели, центры которых находятся в прямоугольнике с углами в
 
@@ -87,7 +87,7 @@ void WINAPI glPixelZoom(
 
 **глжет** с аргументом GL \_ Zoom \_ Y
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -101,7 +101,7 @@ void WINAPI glPixelZoom(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

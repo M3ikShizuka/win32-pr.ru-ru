@@ -4,12 +4,12 @@ ms.assetid: 584c087e-53f0-42d8-99ed-a0d013379363
 title: Видеоструктуры Direct3D 9
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f4ac8e03ff524f7f943c6adbee39b57785112a3b
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 7c4093ccc5b629441728f89d230276722527dbdb6ea80d8d77465a37ca14ca7e
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105692050"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119942634"
 ---
 # <a name="direct3d-9-video-structures"></a>Видеоструктуры Direct3D 9
 
@@ -60,7 +60,7 @@ ms.locfileid: "105692050"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

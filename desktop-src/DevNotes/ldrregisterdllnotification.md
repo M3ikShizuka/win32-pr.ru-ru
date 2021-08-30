@@ -13,16 +13,16 @@ api_type:
 - DllExport
 api_location:
 - ntdll.dll
-ms.openlocfilehash: 82ec05a24f4cccc89cece666b18cb63412a78259
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: a71798459f487724705b25db019a1f20d77f87ad5a2e4173b47282db062508ce
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104072361"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120079804"
 ---
 # <a name="ldrregisterdllnotification-function"></a>Функция Лдррегистердллнотификатион
 
-\[Эта функция может быть изменена или удалена из Windows без предварительного уведомления.\]
+\[эта функция может быть изменена или удалена из Windows без предварительного уведомления.\]
 
 Регистрируется для уведомления при первой загрузке библиотеки DLL. Это уведомление происходит до того, как будет выполнена динамическая компоновка.
 
@@ -78,23 +78,23 @@ NTSTATUS NTAPI LdrRegisterDllNotification(
 
 Формы и значения кодов ошибок **NTSTATUS** перечислены в файле заголовка NTSTATUS. h, доступном в WDK, и описаны в документации по WDK.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Эта функция не имеет связанного файла заголовка. Связанная библиотека импорта, NTDLL. lib, доступна в WDK. Можно также использовать функции [**LoadLibrary**](/windows/win32/api/libloaderapi/nf-libloaderapi-loadlibrarya) и [**GetProcAddress**](/windows/win32/api/libloaderapi/nf-libloaderapi-getprocaddress) для динамической привязки к Ntdll.dll.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|--------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                       |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                 |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                       |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                 |
 | DLL<br/>                      | <dl> <dt>Ntdll.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

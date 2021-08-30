@@ -1,17 +1,17 @@
 ---
-title: Справочник по API для проектируемой файловой системы Windows
+title: Windows Справочник по API проектируемой файловой системы
 description: Справочные сведения по интерфейсу программирования Прожфс.
 ms.assetid: <GUID-GOES-HERE>
 ms.date: 01/17/2020
 ms.topic: article
-ms.openlocfilehash: cf48523890aa767beeabf35c7dd8413a4b1c20ad
-ms.sourcegitcommit: 62e758931c610782807c7c9fad284921a6c56232
+ms.openlocfilehash: fd6faa744c71757a9072e2546ac86fd6fae3374db2c8332aab90dbdf061e724c
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/22/2020
-ms.locfileid: "104412367"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120030993"
 ---
-# <a name="windows-projected-file-system-projfs-api-reference"></a>Справочник по API проектируемой файловой системы Windows (Прожфс)
+# <a name="windows-projected-file-system-projfs-api-reference"></a>Windows Справочник по API проектируемой файловой системы (Прожфс)
 
 В этом разделе рассматриваются API-интерфейсы Прожфс, объявленные в прожектедфслиб. h, включая подписи обратного вызова.
 

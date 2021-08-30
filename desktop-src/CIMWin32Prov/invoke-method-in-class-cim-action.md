@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: e02e414fb05e0dd4ea97c3e3a4d87659fed4c963
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 383bfb17f2bb40ce063c86c56ad30afe0fc741742bf77939c6d56bbe4c816ac8
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103895709"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119760274"
 ---
 # <a name="invoke-method-of-the-cim_action-class"></a>Метод Invoke \_ класса действия CIM
 
@@ -49,13 +49,13 @@ uint32 Invoke();
 
 Возвращает значение 0 (нуль) при успешном выполнении, 1 (один), если метод не поддерживается, и любое другое число для указания ошибки.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 В настоящее время этот метод не реализован инструментарием WMI. Чтобы использовать этот метод, его необходимо реализовать в собственном поставщике.
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -69,7 +69,7 @@ uint32 Invoke();
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

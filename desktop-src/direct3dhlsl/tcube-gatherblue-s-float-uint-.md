@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 59378e3a5754dbd55298d6040b40076a9e54eb74
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.openlocfilehash: af0a43462bf8a33bf8415c03dceb0dccf18ecba6dc343ec9978131065ecabffd
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "104986608"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120118024"
 ---
 # <a name="texturecubegatherbluesfloatuint-function"></a>Функция Текстурекубе:: Гасерблуе (S, float, uint)
 
@@ -74,7 +74,7 @@ TemplateType GatherBlue(
 
 Значение из четырех компонентов, тип которого совпадает с типом шаблона.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Примеры текстур можно использовать для интерполяции билинейной.
 
@@ -90,7 +90,7 @@ TemplateType GatherBlue(
 
  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

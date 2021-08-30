@@ -4,12 +4,12 @@ ms.assetid: 6a3dbabe-6a14-4401-b46c-e8a0bd0cbe63
 title: Атрибут элемента управления Усерслангуаже
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: aff4109c5c0819b199343bb8ee38bfecc069ad4f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 120e39dfc9ba80c8d58910a3fbfcf144b4e8dec764abb12dc9df7933ba402914
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105673593"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119809124"
 ---
 # <a name="userslanguage-control-attribute"></a>Атрибут элемента управления Усерслангуаже
 
@@ -39,11 +39,11 @@ ms.locfileid: "105673593"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот атрибут элемента управления можно использовать для вывода текста, вводимых пользователем в элемент управления [Edit](edit-control.md) или [паседит](pathedit-control.md) .
 
-Элемент управления Edit, Паседит Control, [директорилист Control](directorylist-control.md) и [директорикомбо](directorycombo-control.md) всегда использует шрифты, созданные в пользовательской кодовой странице пользовательского интерфейса по умолчанию. Это может вызвать проблемы, если в операционной системе установлены дополнительные языки. В этом случае шрифты на компьютере не могут представлять все символы в добавленных языках. Чтобы определить, какие шрифты можно использовать, найдите значения в **hKey \_ Local \_ Machine \\ Software \\ Microsoft \\ Windows NT \\ CurrentVersion \\ фонтлинк \\ системлинк**.
+Элемент управления Edit, Паседит Control, [директорилист Control](directorylist-control.md) и [директорикомбо](directorycombo-control.md) всегда использует шрифты, созданные в пользовательской кодовой странице пользовательского интерфейса по умолчанию. Это может вызвать проблемы, если в операционной системе установлены дополнительные языки. В этом случае шрифты на компьютере не могут представлять все символы в добавленных языках. чтобы определить, какие шрифты можно использовать, найдите значения в списке **HKEY \_ LOCAL \_ MACHINE \\ SOFTWARE \\ Microsoft \\ Windows NT \\ CurrentVersion \\ фонтлинк \\ системлинк**.
 
 Дополнительные сведения см. в разделе [Управление атрибутами](control-attributes.md) и [элементами управления](controls.md).
 

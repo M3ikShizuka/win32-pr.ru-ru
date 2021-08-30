@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: d68ddc1adc0af335dcf2d4139cf7c1f0a381d986
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: f5574548781f4ab5b7ecbc1ead08aba10ec0bfaf8c0740e2e429303732e90e88
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103807253"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120077654"
 ---
 # <a name="evictnode-method-of-the-cim_clusteringservice-class"></a>Метод Евиктноде \_ класса CIM клустерингсервице
 
@@ -58,13 +58,13 @@ uint32 EvictNode(
 
 Возвращает 0 (нуль), если компьютерная система успешно удалена, 1 (один), если метод не поддерживается, и любое другое число, если произошла ошибка.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 В настоящее время этот метод не реализован инструментарием WMI. Чтобы использовать этот метод, его необходимо реализовать в собственном поставщике.
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -78,7 +78,7 @@ uint32 EvictNode(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

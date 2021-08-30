@@ -4,12 +4,12 @@ ms.assetid: BBE754E4-2AAD-4CFD-B53F-2B66693502EE
 title: Декодер видео H. 265/HEVC
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c0c20a83f82e106bd749deb8bf2350cc9e5a347a
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: c764353e04da0113b51c4efb0d39fad02c84b98859e154d24866229c3a524385
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104543623"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119777204"
 ---
 # <a name="h265--hevc-video-decoder"></a>Декодер видео H. 265/HEVC
 
@@ -112,7 +112,7 @@ ms.locfileid: "104543623"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ настольных приложений Windows 10\]<br/>                                              |
+| Минимальная версия клиента<br/> | Windows 10 \[ только классические приложения\]<br/>                                              |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                |
 | DLL<br/>                      | <dl> <dt>hevcdecoder.dll</dt> <dt>hevcdecoder_store.dll</dt> </dl> |
 

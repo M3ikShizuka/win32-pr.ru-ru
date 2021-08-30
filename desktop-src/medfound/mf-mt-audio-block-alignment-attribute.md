@@ -4,12 +4,12 @@ ms.assetid: 7d304826-ad81-4243-a675-2f55b668b348
 title: Атрибут MF_MT_AUDIO_BLOCK_ALIGNMENT (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 21efb14cbb89d1773fe9bc3b5ade8d0a50555a1c
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: d5985485313bda76221a9a45dc4a6aa9f257884766398dce8a9301401d49ea2f
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105702495"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120113894"
 ---
 # <a name="mf_mt_audio_block_alignment-attribute"></a>\_ \_ \_ Атрибут выравнивания звукового блока MF MT \_
 
@@ -19,7 +19,7 @@ ms.locfileid: "105702495"
 
 **UINT32**
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Для звуковых форматов PCM выравнивание блока равно числу звуковых каналов, умноженному на число байтов на каждый образец звука.
 
@@ -27,19 +27,19 @@ ms.locfileid: "105702495"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows Vista \|\]<br/>                              |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2008 \|\]<br/>                        |
-| Header<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Приложения UWP для классических приложений Vista \|\]<br/>                              |
+| Минимальная версия сервера<br/> | Windows \[Приложения UWP для классических приложений сервера 2008 \|\]<br/>                        |
+| Заголовок<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

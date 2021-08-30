@@ -3,23 +3,23 @@ title: Запуск процесса копирования
 description: Запуск процесса копирования
 ms.assetid: 82ffc114-ddad-41be-af80-6c1bd29cb0d4
 keywords:
-- Проигрыватель Windows Media, копирование компакт-дисков
-- Объектная модель проигрывателя Windows Media, копирование компакт-дисков
+- проигрыватель Windows Media, копирование компакт-дисков
+- проигрыватель Windows Mediaная модель объектов, копирование компакт-дисков
 - Объектная модель, копирование компакт-дисков
-- Элемент управления ActiveX проигрывателя Windows Media, копирование компакт-дисков
-- Элемент управления ActiveX, копирование компакт-дисков
-- Мобильный элемент управления ActiveX проигрывателя Windows Media, копирование компакт-дисков
-- Проигрыватель Windows Media Mobile, копирование компакт-дисков
+- проигрыватель Windows Media ActiveX управления, копирование компакт-дисков
+- ActiveX управления, копирование компакт-дисков
+- проигрыватель Windows Media мобильный ActiveX управление, копирование компакт-дисков
+- проигрыватель Windows Media Мобильные устройства, копирование компакт-дисков
 - Копирование компакт-дисков, запуск процесса копирования с диска
 - Копирование компакт-дисков, запуск процесса копирования
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2107b053abf8747d7add8fcedc26a2386ae5fd84
-ms.sourcegitcommit: 48d1c892045445bcbd0f22bafa2fd3861ffaa6e7
+ms.openlocfilehash: 47d6d4e7bac4de9fc82f26d7231020e002570553ecdd6447c55f981601e5830a
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/19/2020
-ms.locfileid: "105691444"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120002164"
 ---
 # <a name="starting-the-rip-process"></a>Запуск процесса копирования
 
@@ -45,7 +45,7 @@ HRESULT hr = m_spCdromRip->stopRip();
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -61,9 +61,9 @@ HRESULT hr = m_spCdromRip->stopRip();
 [**Выбор элементов для копирования**](selecting-items-for-ripping.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

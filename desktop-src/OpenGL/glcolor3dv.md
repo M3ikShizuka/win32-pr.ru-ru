@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9f1874f029d143d91b3ac5ccb9ba95d70e5606a7
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.openlocfilehash: 7e01264c9ee7aa320409628a4251a27429969984d8853a2b8e878b4b4d19bb1c
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "104000271"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120081934"
 ---
 # <a name="glcolor3dv-function"></a>Функция glColor3dv
 
@@ -51,7 +51,7 @@ void WINAPI glColor3dv(
 
 Эта функция не возвращает значение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 В GL хранится и текущий однозначный цветовой индекс, и текущий цвет RGBA с четырьмя значениями. **глколор** задает новый цвет RGBA с четырьмя значениями. **глколор** имеет два основных варианта: **glcolor3** и **glcolor4**. **glcolor3** варианты задают явно новые значения красного, зеленого и синего типа и устанавливают текущее значение альфа равным 1,0 (Полная интенсивность) неявно. **glcolor4** варианты указывают все четыре компонента цвета явным образом.
 
@@ -61,7 +61,7 @@ void WINAPI glColor3dv(
 
 Ни одно из целочисленных значений с плавающей запятой и со знаком не передается в диапазон \[ 0, 1 \] до обновления текущего цвета. Однако компоненты цвета отправляются в этот диапазон до того, как они интерполируются или записаны в буфер цвета.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -75,7 +75,7 @@ void WINAPI glColor3dv(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

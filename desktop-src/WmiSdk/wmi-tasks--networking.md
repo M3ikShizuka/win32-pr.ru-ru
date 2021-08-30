@@ -10,12 +10,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 31e8346a064fe2f6c7ab624897be8e789474f7b6
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: c2a0555d63ccc01086983789dae5226492e8aa41
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105711727"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122625600"
 ---
 # <a name="wmi-tasks-networking"></a>Задачи WMI: Сетевые подключения
 
@@ -28,7 +28,7 @@ ms.locfileid: "105711727"
 
 **Запуск сценария**
 
-1.  Скопируйте код и сохраните его в файле с расширением vbs, например *filename.vbs*. Убедитесь, что текстовый редактор не добавляет расширение txt в файл.
+1.  Скопируйте код и сохраните его в файле с расширением vbs, например *filename.vbs*. Убедитесь, что текстовый редактор не добавляет к файлу расширение .txt.
 2.  Откройте окно командной строки и перейдите в каталог, в котором был сохранен файл.
 3.  Введите **cscript filename.vbs** в командной строке.
 4.  Если доступ к журналу событий невозможен, проверьте, выполняется ли в командной строке с повышенными привилегиями. Некоторые журналы событий, например журнал событий безопасности, могут быть защищены с помощью элементов управления доступом пользователей (UAC).
@@ -44,8 +44,8 @@ ms.locfileid: "105711727"
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col  />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -59,7 +59,7 @@ ms.locfileid: "105711727"
 <td>Если вы используете DHCP, используйте <a href="/windows/desktop/CIMWin32Prov/win32-networkadapterconfiguration"><strong>Win32_NetworkAdapterConfiguration</strong></a> и метод <a href="/windows/desktop/CIMWin32Prov/releasedhcplease-method-in-class-win32-networkadapterconfiguration"><strong>ReleaseDHCPLease</strong></a> , чтобы освободить IP-адрес. Если DHCP не используется, вы не сможете отключить сетевое подключение с помощью инструментария WMI. Чтобы повторно включить сетевое подключение, используйте <a href="/windows/desktop/CIMWin32Prov/renewdhcplease-method-in-class-win32-networkadapterconfiguration"><strong>обжнеткард. RenewDHCPLease</strong></a>. Вы также можете освободить или обновить все аренды DHCP с помощью методов <a href="/windows/desktop/CIMWin32Prov/releasedhcpleaseall-method-in-class-win32-networkadapterconfiguration"><strong>ReleaseDHCPLeaseAll</strong></a> и <a href="/windows/desktop/CIMWin32Prov/renewdhcpleaseall-method-in-class-win32-networkadapterconfiguration"><strong>RenewDHCPLeaseAll</strong></a> .<br/> <span data-codelanguage="VisualBasic"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -83,7 +83,7 @@ Next</code></pre></td>
 <span data-codelanguage="PowerShell"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -115,7 +115,7 @@ foreach ($NetCard in $netenabled) {
 <span data-codelanguage="VisualBasic"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -155,7 +155,7 @@ Next</code></pre></td>
 <span data-codelanguage="VisualBasic"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -201,7 +201,7 @@ Next</code></pre></td>
 <span data-codelanguage="VisualBasic"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -230,7 +230,7 @@ Next</code></pre></td>
 <span data-codelanguage="PowerShell"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -267,7 +267,7 @@ else {&quot;$Count IP addresses found on this system&quot;}</code></pre></td>
 <span data-codelanguage="VisualBasic"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -299,7 +299,7 @@ Next</code></pre></td>
 <span data-codelanguage="VisualBasic"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -338,7 +338,7 @@ Next</code></pre></td>
 <span data-codelanguage="VisualBasic"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -376,7 +376,7 @@ Next</code></pre></td>
 <span data-codelanguage="VisualBasic"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -408,7 +408,7 @@ Next</code></pre></td>
 <span data-codelanguage="VisualBasic"></span>
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col  />
 </colgroup>
 <thead>
 <tr class="header">
@@ -445,7 +445,7 @@ End If
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

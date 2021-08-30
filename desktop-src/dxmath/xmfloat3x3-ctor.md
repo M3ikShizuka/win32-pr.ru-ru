@@ -11,12 +11,12 @@ api_name: ''
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: b1f8fd65b50beaa11565ef8c473e3ac7f5609ab5
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 275ddbfd4eff0c5f6e27ce5475db09edbe981d60
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105701847"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122471480"
 ---
 # <a name="xmfloat3x3-constructors"></a>Конструкторы XMFLOAT3X3
 
@@ -33,51 +33,17 @@ ms.locfileid: "105701847"
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Конструктор</th>
-<th style="text-align: left;">Описание</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;"><a href="/windows/desktop/api/directxmath/nf-directxmath-xmfloat3x3-xmfloat3x3"><strong>XMFLOAT3X3 ()</strong></a></td>
-<td style="text-align: left;">Конструктор по умолчанию для <code>XMFLOAT3X3</code><br/> Конструктор по умолчанию для <a href="/windows/desktop/api/directxmath/ns-directxmath-xmfloat3x3"> <strong>XMFLOAT3X3</strong></a><br/>
-<blockquote>
-[!Note]<br />
-Он доступен только для разработки на основе C++.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><a href="/windows/desktop/api/directxmath/nf-directxmath-xmfloat3x3-xmfloat3x3(constfloat)"><strong>XMFLOAT3X3 (const float *)</strong></a></td>
-<td style="text-align: left;">Инициализирует новый экземпляр <code>XMFLOAT3X3</code> структуры из девяти <code>float</code> массивов элементов. <br/> Инициализирует новый экземпляр структуры <a href="/windows/desktop/api/directxmath/ns-directxmath-xmfloat3x3"><strong>XMFLOAT3X3</strong></a> из девяти <code>float</code> массивов элементов. <br/>
-<blockquote>
-[!Note]<br />
-Этот конструктор доступен только в C++.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><a href="/windows/desktop/api/directxmath/nf-directxmath-xmfloat3x3-xmfloat3x3(float_float_float_float_float_float_float_float_float)"><strong>XMFLOAT3X3 (float, float, float, float, float, float, float, float, float)</strong></a></td>
-<td style="text-align: left;">Инициализирует новый экземпляр <code>XMFLOAT3X3</code> структуры из девяти скалярных <code>float</code> значений. <br/> Инициализирует новый экземпляр структуры <a href="/windows/desktop/api/directxmath/ns-directxmath-xmfloat3x3"><strong>XMFLOAT3X3</strong></a> из девяти скалярных <code>float</code> значений. <br/>
-<blockquote>
-[!Note]<br />
-Этот конструктор доступен только в C++.
-</blockquote>
-<br/></td>
-</tr>
-</tbody>
-</table>
+
+| Конструктор | Описание | 
+|-------------|-------------|
+| <a href="/windows/desktop/api/directxmath/nf-directxmath-xmfloat3x3-xmfloat3x3"><strong>XMFLOAT3X3 ()</strong></a> | Конструктор по умолчанию для <code>XMFLOAT3X3</code><br /> Конструктор по умолчанию для <a href="/windows/desktop/api/directxmath/ns-directxmath-xmfloat3x3"> <strong>XMFLOAT3X3</strong></a><br /><blockquote>[!Note]<br />Он доступен только для разработки на основе C++.</blockquote><br /> | 
+| <a href="/windows/desktop/api/directxmath/nf-directxmath-xmfloat3x3-xmfloat3x3(constfloat)"><strong>XMFLOAT3X3 (const float *)</strong></a> | Инициализирует новый экземпляр <code>XMFLOAT3X3</code> структуры из девяти <code>float</code> массивов элементов. <br /> Инициализирует новый экземпляр структуры <a href="/windows/desktop/api/directxmath/ns-directxmath-xmfloat3x3"><strong>XMFLOAT3X3</strong></a> из девяти <code>float</code> массивов элементов. <br /><blockquote>[!Note]<br />Этот конструктор доступен только в C++.</blockquote><br /> | 
+| <a href="/windows/desktop/api/directxmath/nf-directxmath-xmfloat3x3-xmfloat3x3(float_float_float_float_float_float_float_float_float)"><strong>XMFLOAT3X3 (float, float, float, float, float, float, float, float, float)</strong></a> | Инициализирует новый экземпляр <code>XMFLOAT3X3</code> структуры из девяти скалярных <code>float</code> значений. <br /> Инициализирует новый экземпляр структуры <a href="/windows/desktop/api/directxmath/ns-directxmath-xmfloat3x3"><strong>XMFLOAT3X3</strong></a> из девяти скалярных <code>float</code> значений. <br /><blockquote>[!Note]<br />Этот конструктор доступен только в C++.</blockquote><br /> | 
 
 
 
-## <a name="see-also"></a>См. также раздел
+
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

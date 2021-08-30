@@ -4,12 +4,12 @@ ms.assetid: 7c941454-7410-f3fb-d750-9007f672ed8c
 title: Функции геометрических векторов
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ea5f8a18001f20b16fe78bb6a861e6b37d3aa094
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 8c586ca75a7b56f53ddd8a11a1b32acb5caa7d07bbcc0406ab9e90aa50800ab7
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104544090"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120117534"
 ---
 # <a name="geometric-vector-functions"></a>Функции геометрических векторов
 
@@ -36,7 +36,7 @@ ms.locfileid: "104544090"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

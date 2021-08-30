@@ -4,12 +4,12 @@ ms.assetid: 3b106a81-99b6-4ac6-95be-537fc14e0510
 title: Ссылка на модуль слияния ICE
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: df445ad214808edfa40a47f036436877f5c0ba34
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 6936c8d67693e5468f44583d5bfced540a4214bcb27dcc6d10fcd84a4fc99262
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105674306"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120042964"
 ---
 # <a name="merge-module-ice-reference"></a>Ссылка на модуль слияния ICE
 
@@ -38,7 +38,7 @@ ms.locfileid: "105674306"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

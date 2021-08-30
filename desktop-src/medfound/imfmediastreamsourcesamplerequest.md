@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - mfidl.h
-ms.openlocfilehash: fa159727c6e13a894148391b9508afad4b8dacfc
-ms.sourcegitcommit: c16214e53680dc71d1c07111b51f72b82a4512d8
+ms.openlocfilehash: a0becbcef7e71f6859a9e4f09e81f98459911724127ade97e84de09e94a956f5
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "104351512"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119941924"
 ---
 # <a name="imfmediastreamsourcesamplerequest-interface"></a>Интерфейс Имфмедиастреамсаурцесамплерекуест
 
@@ -44,23 +44,23 @@ ms.locfileid: "104351512"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-**Мфмедиастреамсаурцесамплерекуест** реализуется классом среды выполнения [**Windows. Media. Core. медиастреамсаурцесамплерекуест**](/uwp/api/Windows.Media.Core.MediaStreamSourceSampleRequest?view=winrt-19041) .
+**Мфмедиастреамсаурцесамплерекуест** реализуется [**Windows. Класс среды выполнения Media. Core. Медиастреамсаурцесамплерекуест**](/uwp/api/Windows.Media.Core.MediaStreamSourceSampleRequest?view=winrt-19041) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|--------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 8.1 \|\]<br/>                                  |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2012 R2 \|\]<br/>                       |
+| Минимальная версия клиента<br/> | Windows 8.1 \[ приложения UWP для классических приложений \|\]<br/>                                  |
+| Минимальная версия сервера<br/> | Windows Server 2012 Приложения универсального \[ приложения UWP для настольных приложений \|\]<br/>                       |
 | IDL<br/>                      | <dl> <dt>Мфидл. idl</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

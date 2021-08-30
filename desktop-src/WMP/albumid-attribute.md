@@ -3,7 +3,7 @@ title: Атрибут Албумид
 description: Атрибут Албумид является уникальным идентификатором для альбома.
 ms.assetid: 0412d91a-11a7-434c-8717-a71d85655679
 keywords:
-- Албумид атрибут Windows Media Player
+- проигрыватель Windows Media атрибута албумид
 topic_type:
 - apiref
 api_name:
@@ -12,22 +12,22 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 339253c82554579fa549371e2ebe4cb2f1926cc5
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: f2690e4b6dd6bf6c8d795c8a06aca9c65c3f2c17513cf9b8ab8d55419b00d517
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105699257"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120124074"
 ---
 # <a name="albumid-attribute"></a>Атрибут Албумид
 
 Атрибут **албумид** является уникальным идентификатором для альбома.
 
-## <a name="applies-to"></a>Применение
+## <a name="applies-to"></a>Применяется к
 
 -   [Звуковые элементы](audio-item-attributes.md)
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот атрибут хранится только в библиотеке.
 
@@ -41,11 +41,11 @@ ms.locfileid: "105699257"
 
 | Требование | Значение |
 |--------------------|---------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media 9 Series или более поздней версии<br/> |
+| Версия<br/> | проигрыватель Windows Media 9 Series или более поздней версии<br/> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

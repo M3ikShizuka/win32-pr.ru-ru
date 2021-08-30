@@ -4,12 +4,12 @@ ms.assetid: 8c8e8af0-bf50-4a4b-945c-83bae1eff7dd
 title: Функции процессов и потоков
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2ebb1e281feb83b4a0da0c230792399d8e21684f
-ms.sourcegitcommit: b32433cc0394159c7263809ae67615ab5792d40d
+ms.openlocfilehash: f187244e65008e3b4e082578af56a734d7e7571747fa7e3a565b0aa99904de66
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "113121001"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120081404"
 ---
 # <a name="process-and-thread-functions"></a>Функции процессов и потоков
 
@@ -86,7 +86,7 @@ ms.locfileid: "113121001"
 | [**жетпроцессворкингсетсизикс**](/windows/win32/api/memoryapi/nf-memoryapi-getprocessworkingsetsizeex)         | Возвращает минимальный и максимальный размеры рабочего набора указанного процесса.                                                                                                                 |
 | [**жетпроцессорсистемциклетиме**](/windows/win32/api/sysinfoapi/nf-sysinfoapi-getprocessorsystemcycletime)       | Возвращает время цикла каждого процессора в указанной группе, затраченного на выполнение отложенных вызовов процедур (DPC) и процедур службы прерываний (ISR).                                         |
 | [**жетстартупинфо**](/windows/win32/api/processthreadsapi/nf-processthreadsapi-getstartupinfow)                                 | Извлекает содержимое структуры [**стартупинфо**](/windows/win32/api/processthreadsapi/ns-processthreadsapi-startupinfoa) , которая была указана при создании вызывающего процесса.                                                       |
-| [**исиммерсивепроцесс**](/windows/desktop/api/Winuser/nf-winuser-isimmersiveprocess)                         | Определяет, принадлежит ли процесс к приложению Магазина Windows.                                                                                                                                |
+| [**исиммерсивепроцесс**](/windows/desktop/api/Winuser/nf-winuser-isimmersiveprocess)                         | определяет, принадлежит ли процесс к приложению из магазина Windows.                                                                                                                                |
 | [**нидкуррентдиректорифорексепас**](/windows/win32/api/processenv/nf-processenv-needcurrentdirectoryforexepatha) | Определяет, следует ли включать текущий каталог в путь поиска для указанного исполняемого файла.                                                                                  |
 | [**OpenProcess**](/windows/win32/api/processthreadsapi/nf-processthreadsapi-openprocess)                                       | Открывает существующий локальный объект процесса.                                                                                                                                                       |
 | [**куерифуллпроцессимаженаме**](/windows/desktop/api/WinBase/nf-winbase-queryfullprocessimagenamea)           | Возвращает полное имя исполняемого образа для указанного процесса.                                                                                                                    |
@@ -99,7 +99,7 @@ ms.locfileid: "113121001"
 | [**сетпроцессинформатион**](/windows/win32/api/processthreadsapi/nf-processthreadsapi-setprocessinformation)                   | Задает сведения для указанного процесса.                                                                                                                                                   |
 | [**сетпроцессмитигатионполици**](/windows/desktop/api/Processthreadsapi/nf-processthreadsapi-setprocessmitigationpolicy)         | Задает политику устранения рисков для вызывающего процесса.                                                                                                                                           |
 | [**сетпроцессприоритибуст**](/windows/win32/api/processthreadsapi/nf-processthreadsapi-setprocesspriorityboost)               | Отключает возможность системы временно увеличивать приоритет потоков указанного процесса.                                                                                 |
-| [**сетпроцессрестриктионексемптион**](/windows/desktop/api/Winuser/nf-winuser-setprocessrestrictionexemption) | Исключает вызывающий процесс из ограничений, препятствующих взаимодействию рабочих процессов с средой приложения Магазина Windows. Эта функция используется средствами разработки и отладки. |
+| [**сетпроцессрестриктионексемптион**](/windows/desktop/api/Winuser/nf-winuser-setprocessrestrictionexemption) | исключает вызывающий процесс из ограничений, препятствующих взаимодействию рабочих процессов с средой приложения магазина Windows. Эта функция используется средствами разработки и отладки. |
 | [**сетпроцессшутдовнпараметерс**](/windows/win32/api/processthreadsapi/nf-processthreadsapi-setprocessshutdownparameters)     | Задает параметры завершения работы для текущего вызывающего процесса.                                                                                                                                   |
 | [**сетпроцессворкингсетсизе**](/windows/desktop/api/memoryapi/nf-memoryapi-setprocessworkingsetsize)             | Задает минимальный и максимальный размеры рабочего набора для указанного процесса.                                                                                                                     |
 | [**сетпроцессворкингсетсизикс**](/windows/win32/api/memoryapi/nf-memoryapi-setprocessworkingsetsizeex)         | Задает минимальный и максимальный размеры рабочего набора для указанного процесса.                                                                                                                     |

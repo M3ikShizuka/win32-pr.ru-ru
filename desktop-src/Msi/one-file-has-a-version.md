@@ -1,15 +1,15 @@
 ---
-description: Если только один из файлов имеет номер версии, установщик Windows использует логику, показанную на следующей схеме потока, чтобы определить, следует ли заменить все установленные файлы, принадлежащие компоненту.
+description: если только один из файлов имеет номер версии, установщик Windows использует логику, показанную на следующей схеме потока, чтобы определить, следует ли заменить все установленные файлы, принадлежащие компоненту.
 ms.assetid: 1eda5521-6e23-49b8-9870-f5370def487e
 title: Один файл имеет версию
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 417060119f8b13b1545161faa80552c79e8ca9aa
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 97e0dd1fd27dc5a0438e1cf5b6bbd787348d0971a378344536096ce7b99008fc
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104155130"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120129243"
 ---
 # <a name="one-file-has-a-version"></a>Один файл имеет версию
 

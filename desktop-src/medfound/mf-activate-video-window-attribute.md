@@ -4,12 +4,12 @@ ms.assetid: 883bc7cf-f52f-4cb5-a942-b42b429b17a9
 title: Атрибут MF_ACTIVATE_VIDEO_WINDOW (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2a23253c0cd1e4ae90659838acbb58056f770419
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 5249d98f7a3850d68e83be43cb851c4089253ba7fc782724631a2983285c9ce0
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105674014"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119826934"
 ---
 # <a name="mf_activate_video_window-attribute"></a>\_Порт MF \_ активировать \_ атрибут окна видео
 
@@ -21,25 +21,25 @@ ms.locfileid: "105674014"
 
 Рассматривать как **DWORD \_ ptr** (**HWND**).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот атрибут применяется к объекту активации расширенного обработчика видео (Евр). Значение задается автоматически при вызове [**мфкреатевидеорендерерактивате**](/windows/desktop/api/mfidl/nf-mfidl-mfcreatevideorendereractivate) для создания объекта активации Евр.
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                     |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                               |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                               |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

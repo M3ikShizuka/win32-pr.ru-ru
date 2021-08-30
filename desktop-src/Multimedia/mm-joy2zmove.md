@@ -3,7 +3,7 @@ title: Сообщение MM_JOY2ZMOVE (Ммсистем. h)
 description: '\_Сообщение JOY2ZMOVE мм уведомляет окно с захваченным джойстиком, JOYSTICKID2, что расположение джойстика на оси z изменилось.'
 ms.assetid: f09a1a11-8c97-4a03-a388-8bf9ab89a3db
 keywords:
-- MM_JOY2ZMOVE сообщения Windows мультимедиа
+- сообщение MM_JOY2ZMOVE Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0d899a4a1c93304075cb166ba805367ceed6ddd3
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: b9b59a22a4b8fcfa11384a7a89f61657586a9535e8248535641ad37d36dfb0fe
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105682161"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119807524"
 ---
 # <a name="mm_joy2zmove-message"></a>MM \_ JOY2ZMOVE, сообщение
 
@@ -65,7 +65,7 @@ Z-координата джойстика.
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -73,11 +73,11 @@ Z-координата джойстика.
 |-------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                                |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                      |
-| Заголовок<br/>                   | <dl> <dt>Ммсистем. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>ммсистем. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

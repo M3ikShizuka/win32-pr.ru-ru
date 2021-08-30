@@ -4,12 +4,12 @@ description: Чтобы узнать, какой поставщик сети в�
 ms.assetid: 4bddb55c-181d-4c6f-bd92-9c27d6b894bb
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bcf21e48be540f5307fc1ebd2359aea7ff03cbe0
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: b2bfe214e8a07f65dfb8e4bcdfc9152e5827570318e10789767426c52c98bad1
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104134202"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119999654"
 ---
 # <a name="retrieving-information-about-a-network-resource"></a>Получение сведений о сетевом ресурсе
 
@@ -76,6 +76,6 @@ CheckServer( LPTSTR pszServer )
 
 
 
- 
+ 
 
- 
+ 

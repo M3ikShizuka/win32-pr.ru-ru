@@ -17,18 +17,18 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 5f13e97596de9874c3983ce28535a07860c7fa42
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.openlocfilehash: 93e076a8e7df73f6cc504f84daa2b928daa4de96
+ms.sourcegitcommit: 4e94fc75fad7b2a0f3c92a26f97e89924e59b7a9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122624580"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "122786780"
 ---
 # <a name="span-idvspixengineidebugshadercallbackspanidebugshadercallback-interface"></a><span id="vspixengine.idebugshadercallback"></span>Интерфейс Идебугшадеркаллбакк
 
 Обратный вызов для возврата инструкций, созданных при создании трассировки шейдера.
 
-## <a name="members"></a>Участники
+## <a name="members"></a>Элементы
 
 Интерфейс **идебугшадеркаллбакк** наследует от интерфейса [**IUnknown**](/windows/desktop/api/unknwn/nn-unknwn-iunknown) . **Идебугшадеркаллбакк** также имеет следующие типы членов:
 
@@ -38,7 +38,7 @@ ms.locfileid: "122624580"
 
 Интерфейс **идебугшадеркаллбакк** содержит следующие методы.
 
-<table><colgroup><col  /><col  /></colgroup><thead><tr class="header"><th style="text-align: left;">Метод</th><th style="text-align: left;">Описание</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><a href="/windows/desktop/direct3dtools/idebugshadercallback-resultinstructions-dword-byte-arr"><strong>ресултинструктионс</strong></a></td><td style="text-align: left;"><p>Обратный вызов, уведомляющий узел о инструктрион данных, возвращаемых связанным запросом.</p></td></tr></tbody></table>
+<table><colgroup><col  /><col  /></colgroup><thead><tr class="header"><th >Метод</th><th >Описание</th></tr></thead><tbody><tr class="odd"><td ><a href="/windows/desktop/direct3dtools/idebugshadercallback-resultinstructions-dword-byte-arr"><strong>ресултинструктионс</strong></a></td><td ><p>Обратный вызов, уведомляющий узел о инструктрион данных, возвращаемых связанным запросом.</p></td></tr></tbody></table>
 
  
 

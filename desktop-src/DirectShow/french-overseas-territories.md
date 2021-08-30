@@ -4,12 +4,12 @@ ms.assetid: 19f178c5-46f7-4108-9a1a-e49a4eb51f27
 title: Заморские территории Франции
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 933ee833b57060d7f6b45e97267a64f9bc6fc7cb
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 01f0c773fefe9e224650f62bab5f4703eebecba6fb20d7210a80564facc7d4f0
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "103989931"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120079074"
 ---
 # <a name="french-overseas-territories"></a>Заморские территории Франции
 
@@ -51,7 +51,7 @@ ms.locfileid: "103989931"
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

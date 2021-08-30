@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 24e6d77698507f0d1673b66954db8e78466ac728
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.openlocfilehash: 261da0f97251b2758ee8a69825e18168b206172994fa672ffd03e002652cb8c3
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "103820628"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120117924"
 ---
 # <a name="texturecubearraysamplesfloatfloatuint-function"></a>Функция Текстурекубеаррай:: Sample (S, float, float, uint)
 
@@ -87,7 +87,7 @@ DXGI_FORMAT Sample(
 
 Формат текстуры, который является одним из типизированных значений, перечисленных в [**\_ формате DXGI**](/windows/desktop/api/dxgiformat/ne-dxgiformat-dxgi_format).
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

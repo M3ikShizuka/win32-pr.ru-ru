@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: 04d7bf8a337c1bcfa0a024b84304fe50c035f9dd
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: b1b2b974bc4f5f527ea41d68f3f643a07d4ed928cda832b4ab33c2c35aa5c4e6
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105665181"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119874654"
 ---
 # <a name="encrypteddataencrypt-method"></a>Метод EncryptedData. Encrypt
 
@@ -64,11 +64,11 @@ EncryptedData.Encrypt( _
 
 Строка, содержащая зашифрованные закодированные данные.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Перед вызовом метода **Encrypt** задайте свойство [**Content**](encrypteddata-content.md) и вызовите метод [**сетсекрет**](encrypteddata-setsecret.md) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -77,12 +77,12 @@ EncryptedData.Encrypt( _
 | Окончание поддержки клиента<br/> | Windows Vista<br/>                                                               |
 | Поддержка конца сервера<br/> | Windows Server 2008<br/>                                                         |
 | Распространяемые компоненты<br/>       | CAPICOM 2,0 или более поздней версии на Windows Server 2003 и Windows XP<br/>                  |
-| Header<br/>                | <dl> <dt>InfoCard. h</dt> </dl>  |
+| Заголовок<br/>                | <dl> <dt>InfoCard. h</dt> </dl>  |
 | DLL<br/>                   | <dl> <dt>Capicom.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
