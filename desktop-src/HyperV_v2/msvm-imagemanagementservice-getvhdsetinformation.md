@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - vmms.exe
-ms.openlocfilehash: 16cdcf4a354e6d6b47b6a67c071daf8883905f12
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 7777ef26c7c68de05e6488e7ffc80e80179e58dcd33793b078299959da17bd75
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105682847"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120046684"
 ---
 # <a name="getvhdsetinformation-method-of-the-msvm_imagemanagementservice-class"></a>Метод Жетвхдсетинформатион \_ класса) мсвм
 
@@ -139,13 +139,13 @@ uint32 GetVHDSetInformation(
 **Файл не найден** (32779)
 </dt> </dl>
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ настольных приложений Windows 10\]<br/>                                                             |
+| Минимальная версия клиента<br/> | Windows 10 \[ только классические приложения\]<br/>                                                             |
 | Минимальная версия сервера<br/> | Windows Server 2016<br/>                                                                          |
 | Пространство имен<br/>                | Корневая \\ виртуализация \\ версии 2<br/>                                                                     |
 | MOF<br/>                      | <dl> <dt>Виндовсвиртуализатион. v2. mof</dt> </dl> |
@@ -153,7 +153,7 @@ uint32 GetVHDSetInformation(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

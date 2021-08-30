@@ -1,6 +1,6 @@
 ---
 title: Интерфейс IMsRdpClientNonScriptable4
-description: Предоставляет доступ к необрабатываемым свойствам удаленного сеанса клиента на удаленный рабочий стол элементе управления ActiveX. Является производным от интерфейса IMsRdpClientNonScriptable3.
+description: предоставляет доступ к необрабатываемым свойствам удаленного сеанса клиента на удаленный рабочий стол элементе управления ActiveX. Является производным от интерфейса IMsRdpClientNonScriptable3.
 ms.assetid: 570a5722-94b9-4195-846a-10233d56002d
 ms.tgt_platform: multiple
 keywords:
@@ -16,16 +16,16 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: aedea56733a2a98db4b966bd91d9337e38e61d0d
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: a13f8c03bcb9570d6afa3cca94092d34ec739b25f4a3e4ac33a84ac6afc7a37b
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103989413"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119990164"
 ---
 # <a name="imsrdpclientnonscriptable4-interface"></a>Интерфейс IMsRdpClientNonScriptable4
 
-Предоставляет доступ к необрабатываемым свойствам удаленного сеанса клиента на удаленный рабочий стол элементе управления ActiveX. Является производным от интерфейса [**IMsRdpClientNonScriptable3**](imsrdpclientnonscriptable3.md) . Доступ к методам этого интерфейса возможен только через таблицу vtable; они недоступны для использования в сценариях клиентов.
+предоставляет доступ к необрабатываемым свойствам удаленного сеанса клиента на удаленный рабочий стол элементе управления ActiveX. Является производным от интерфейса [**IMsRdpClientNonScriptable3**](imsrdpclientnonscriptable3.md) . Доступ к методам этого интерфейса возможен только через таблицу vtable; они недоступны для использования в сценариях клиентов.
 
 ## <a name="members"></a>Элементы
 
@@ -33,7 +33,7 @@ ms.locfileid: "103989413"
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Интерфейс **IMsRdpClientNonScriptable4** имеет следующие свойства.
 
@@ -54,7 +54,7 @@ ms.locfileid: "103989413"
 
  
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -69,7 +69,7 @@ ms.locfileid: "103989413"
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

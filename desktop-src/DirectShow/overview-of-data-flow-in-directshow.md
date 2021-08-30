@@ -1,17 +1,17 @@
 ---
-description: Общие сведения о потоке данных в DirectShow
+description: общие сведения о Flow данных в DirectShow
 ms.assetid: a1b30592-5106-44f5-8ee0-577573670167
-title: Общие сведения о потоке данных в DirectShow
+title: общие сведения о Flow данных в DirectShow
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5b5a34444991d6cba62026935f5ec2d7aa4eba77
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 72b755b9472690913cf8a53d2c7a8575111e336e54a81835438aa8cc9e959ed5
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "104495447"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120107664"
 ---
-# <a name="overview-of-data-flow-in-directshow"></a>Общие сведения о потоке данных в DirectShow
+# <a name="overview-of-data-flow-in-directshow"></a>общие сведения о Flow данных в DirectShow
 
 В этом разделе содержится общий обзор работы потока данных в DirectShow. Подробные сведения можно найти в других разделах документации.
 
@@ -33,11 +33,11 @@ ms.locfileid: "104495447"
 
 Когда модуль подготовки к выпуску выдает свой пример, в нем возвращаются вызовы метода **buffer** . Затем декодер может декодировать сжатый видеокадр и выпустить пример, который он удерживает, тем самым разблокируя отложенный вызов **метода** noframes средства синтаксического анализа.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
-[Поток данных в графе фильтра](data-flow-in-the-filter-graph.md)
+[Flow данных в фильтре Graph](data-flow-in-the-filter-graph.md)
 </dt> </dl>
 
  

@@ -3,7 +3,7 @@ title: Функция Дравтекстекспривврап
 description: Рисует форматированный текст в указанном прямоугольнике. Эта функция заключает в оболочку вызов Дравтекстекс.
 ms.assetid: 3212282c-1adb-4f7e-b4d7-7d833b26ac60
 keywords:
-- Элементы управления Windows для функций Дравтекстекспривврап
+- элементы управления Windows функции дравтекстекспривврап
 topic_type:
 - apiref
 api_name:
@@ -14,16 +14,16 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: eba496a121af3ba88ed24ab6c9c7834c90153ec0
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 3381cd7aef94556cf80ddfc3ad828477e3a29c0fd57601ad27ff735d7b2f58f2
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103989376"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119916334"
 ---
 # <a name="drawtextexprivwrap-function"></a>Функция Дравтекстекспривврап
 
-\[**Дравтекстекспривврап** доступен в Windows XP с пакетом обновления 2 (SP2). Он может быть изменен или недоступен в последующих версиях. Вместо этого рекомендуется использовать [**дравтекстекс**](/windows/desktop/api/winuser/nf-winuser-drawtextexa) напрямую.\]
+\[**дравтекстекспривврап** доступен в Windows XP с пакетом обновления 2 (SP2). Он может быть изменен или недоступен в последующих версиях. Вместо этого рекомендуется использовать [**дравтекстекс**](/windows/desktop/api/winuser/nf-winuser-drawtextexa) напрямую.\]
 
 Рисует форматированный текст в указанном прямоугольнике. Эта функция заключает в оболочку вызов [**дравтекстекс**](/windows/desktop/api/winuser/nf-winuser-drawtextexa).
 
@@ -119,14 +119,14 @@ int WINAPI DrawTextExPrivWrap(
 
 Дополнительные замечания см. в разделе [**дравтекстекс**](/windows/desktop/api/winuser/nf-winuser-drawtextexa).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                                                 |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                                           |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                                 |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                           |
 | DLL<br/>                      | <dl> <dt>Comctl32.dll (версия 6,0 или более поздняя)</dt> </dl> |
 
 

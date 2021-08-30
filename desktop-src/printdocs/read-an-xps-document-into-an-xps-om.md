@@ -4,12 +4,12 @@ ms.assetid: 92a8d19f-1c9e-4e02-a3d4-f2869ec871df
 title: Чтение XPS-документа в объектную модель XPS
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c5c3b703de24be58db875618b575cebf9c1c0b27
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 0361f00d148f8f29ab36577683cecc0087ff91af81469e7de527de90a8b1a795
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104348222"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120112194"
 ---
 # <a name="read-an-xps-document-into-an-xps-om"></a>Чтение XPS-документа в объектную модель XPS
 
@@ -44,7 +44,7 @@ ms.locfileid: "104348222"
 
 Чтобы создать объект XPS из документа XPS, хранящегося в виде потока, вызовите [**икспсомобжектфактори:: креатепаккажефромстреам**](/windows/desktop/api/xpsobjectmodel/nf-xpsobjectmodel-ixpsomobjectfactory-createpackagefromstream).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если вы написали модуль XPS сразу же после считывания пакета XPS в него, часть исходного содержимого может быть утеряна или изменена.
 
@@ -62,7 +62,7 @@ ms.locfileid: "104348222"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

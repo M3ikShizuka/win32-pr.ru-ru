@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: df13e9a9fb0454d30ce855b3d272fa521e96e0f7
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: dd67cd554fce84edc61b1b48e8a539b58a330ec1163b87b17dd8847b31fb15e8
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105665073"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119993224"
 ---
 # <a name="certificatestatusresult-property"></a>Цертификатестатус. Result, свойство
 
@@ -39,7 +39,7 @@ CertificateStatus.Result As Boolean
 
 **Значение true** показывает, что сертификат действителен. Срок действия сертификата проверяется с использованием текущего значения свойства [**чеккфлаг**](certificatestatus-checkflag.md) и различных параметров политики.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 

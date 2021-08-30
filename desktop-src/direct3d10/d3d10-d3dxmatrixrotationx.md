@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: 53c4bf27a359bd6d131f8d6d9c685e929d1a9ec1
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: e338ba63a3c750c2d2b8064113039919b709ed94e282be17f7c042f93a08252d
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108108992"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119990304"
 ---
 # <a name="d3dxmatrixrotationx-function-d3dx10mathh"></a>Функция D3DXMatrixRotationX (D3DX10Math. h)
 
@@ -69,13 +69,13 @@ D3DXMATRIX* D3DXMatrixRotationX(
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре тоска. Таким образом, функция D3DXMatrixRotationX может использоваться в качестве параметра для другой функции.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3DX10Math. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3DX10Math. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3DX10. lib</dt> </dl>   |
 
 

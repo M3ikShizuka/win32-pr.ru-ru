@@ -19,12 +19,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 307f8bb4330caf4b84b8650c9ccc2551c94da76d
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: fc1ec332283c6eb68d915c7fa0aa92070af1fb34f572d7a27adb058fa40de433
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104490620"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119989894"
 ---
 # <a name="itssbsessioninitialprogram-property"></a>Свойство Итссбсессион:: Инитиалпрограм
 
@@ -51,7 +51,7 @@ HRESULT get_InitialProgram(
 
 Переменная **BSTR** , содержащая начальную программу.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -63,7 +63,7 @@ HRESULT get_InitialProgram(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 15c9963916c07f1df8cf3cfedb49b9e3fd66d0df
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: ee2764f8228f4ce6684d61bc8b40e9a3bded7abb723f7405cdbfa6e90035fbbe
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104534499"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119964104"
 ---
 # <a name="idwritecolorglyphrunenumeratormovenext-method"></a>Метод Идвритеколорглифруненумератор:: MoveNext
 
@@ -45,9 +45,9 @@ HRESULT MoveNext(
 *хаверун* \[ заполняет\]
 </dt> <dd>
 
-Тип: **bool \** _
+Тип: **bool \*** .
 
-Возвращает *значение _ true**, если выполняется следующий запуск глифа.
+Возвращает **значение true** , если выполняется следующий запуск глифа.
 
 </dd> </dl>
 
@@ -63,8 +63,8 @@ HRESULT MoveNext(
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 8.1 \|\]<br/>                                     |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2012 R2 \|\]<br/>                          |
+| Минимальная версия клиента<br/> | Windows 8.1 \[ приложения UWP для классических приложений \|\]<br/>                                     |
+| Минимальная версия сервера<br/> | Windows Server 2012 Приложения универсального \[ приложения UWP для настольных приложений \|\]<br/>                          |
 | Минимальный поддерживаемый телефон<br/>  | Windows Phone 8,1 \[ Windows Phone Silverlight 8,1 и среда выполнения Windows приложения\]<br/> |
 | Библиотека<br/>                  | <dl> <dt>Дврите. lib</dt> </dl>   |
 | DLL<br/>                      | <dl> <dt>Dwrite.dll</dt> </dl>   |

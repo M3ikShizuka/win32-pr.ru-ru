@@ -4,16 +4,16 @@ ms.assetid: 48dd9a58-078a-4189-a64f-5e8d343aed28
 title: Управление сетевой общей папкой
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 610b01a4c4ac8b2172bc571fbdc5eacfff8d0786
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: a0d5c22be827be7a2d9928ef4c9f74521943ea73ccc2d2aac7c395deb5fc51c4
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104081296"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119962624"
 ---
 # <a name="network-share-management"></a>Управление сетевой общей папкой
 
-Управление сетевыми ресурсами позволяет приложениям управлять взаимодействием между клиентами и серверами Windows с помощью протокола SMB.
+управление сетевыми ресурсами позволяет приложениям управлять обменом данными между клиентами Windows и серверами и отслеживать их с помощью протокола SMB.
 
 ## <a name="in-this-section"></a>Содержание раздела
 

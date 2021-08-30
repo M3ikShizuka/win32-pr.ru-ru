@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Ntdddisk.h
-ms.openlocfilehash: 4ba0994dd1c9030e84c22e24b1eb4583eba7e3d4
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 09aa5f228a1567cdccfac4faa67db8bd8209fc35ad68de174dcf9507c162d19a
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105664426"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120107464"
 ---
 # <a name="ioctl_disk_set_cluster_info-control-code"></a>\_ \_ \_ \_ Управляющий код для сведений о кластере для набора дисков ioctl
 
@@ -125,12 +125,12 @@ DeviceIoControl( (HANDLE)       hDevice,         // handle to device
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                             |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2012\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Нтдддиск. h</dt> </dl> |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Нтдддиск. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

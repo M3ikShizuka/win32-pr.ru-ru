@@ -13,12 +13,12 @@ api_type:
 - Schema
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 16e91310e4fad0cdc3d88c4b5af0c9aadb83a5ff
-ms.sourcegitcommit: b77ace27b0432e7cd3863191b11926be032fbe2f
+ms.openlocfilehash: d37db46bc3f2a952e0ea42bbab3480a2b8688a9ddeb16555c1c90b7dd22cb92a
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "104535747"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119922104"
 ---
 # <a name="recalculate-security-inheritance-extended-right"></a>Повторное вычисление — безопасность-наследование расширенное право
 

@@ -14,12 +14,12 @@ api_type:
 - Schema
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d2365f1a49925996e595dc1ef9926f7f5c3af22e
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.openlocfilehash: bff0acc15659566cf4e84e67e03f3bf311b1938591ff63b8c362a29d31b9f8e2
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "104000097"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120066404"
 ---
 # <a name="ms-radius-savedframedipv6prefix-attribute"></a>атрибут MS-RADIUS-SavedFramedIpv6Prefix
 
@@ -55,7 +55,7 @@ ms.locfileid: "104000097"
 | Идентификатор ссылки                | \-                                |
 | MAPI-Id                | \-                                |
 | System-Only            | Неверно                             |
-| Является однозначным       | True                              |
+| Является однозначным       | Верно                              |
 | Индексируется             | Неверно                             |
 | В глобальном каталоге      | Неверно                             |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                      |
@@ -63,7 +63,7 @@ ms.locfileid: "104000097"
 | Range-Upper            | \-                                |
 | Search-Flags           | 0x00000010                        |
 | System-Flags           | 0x00000010                        |
-| Классы, используемые в        | [**Нажат**](c-user.md)<br/> |
+| Классы, используемые в        | [**Пользователь**](c-user.md)<br/> |
 
 
 
@@ -76,7 +76,7 @@ ms.locfileid: "104000097"
 | Идентификатор ссылки                | \-                                |
 | MAPI-Id                | \-                                |
 | System-Only            | Неверно                             |
-| Является однозначным       | True                              |
+| Является однозначным       | Верно                              |
 | Индексируется             | Неверно                             |
 | В глобальном каталоге      | Неверно                             |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                      |
@@ -84,7 +84,7 @@ ms.locfileid: "104000097"
 | Range-Upper            | \-                                |
 | Search-Flags           | 0x00000010                        |
 | System-Flags           | 0x00000010                        |
-| Классы, используемые в        | [**Нажат**](c-user.md)<br/> |
+| Классы, используемые в        | [**Пользователь**](c-user.md)<br/> |
 
 
 
@@ -97,7 +97,7 @@ ms.locfileid: "104000097"
 | Идентификатор ссылки                | \-                                |
 | MAPI-Id                | \-                                |
 | System-Only            | Неверно                             |
-| Является однозначным       | True                              |
+| Является однозначным       | Верно                              |
 | Индексируется             | Неверно                             |
 | В глобальном каталоге      | Неверно                             |
 | NT-Security-дескриптор | О:БАГ: BAD: S:                      |

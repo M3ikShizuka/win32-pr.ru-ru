@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: d09cb957e06d8b075cff3d831a7f68fbbdf662a8
-ms.sourcegitcommit: 0e611cdff84ff9f897c59e4e1d2b2d134bc4e133
+ms.openlocfilehash: 9c7ed872807af0ad6b8512f842aa9c91b6706f9e430fabf2d9c16f03f47dd67a
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106187841"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120108064"
 ---
 # <a name="creftimeoperator-method-reftimeh---ll-parameter"></a>Крефтиме. operator = метод (Рефтиме. h) — параметр LL
 
@@ -53,13 +53,13 @@ CRefTime& operator=(
 
 Возвращает ссылку на объект.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Заголовок  | Рефтиме. h (включение Streams. h)                                                                                   |
+| Заголовок  | рефтиме. h (включает Потоки. h)                                                                                   |
 | Библиотека | Стрмбасе. lib (розничные сборки); Стрмбасд. lib (отладочные сборки) |
 
 

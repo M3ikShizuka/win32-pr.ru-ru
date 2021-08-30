@@ -47,12 +47,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 1927144484dbf427358735fc9d8ed66da56f3d8d
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: a6fccf35ec4cfc075d91daee4c2db6b6f23617d1cd2b8b4b6b249df6bfa5dec2
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103990696"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119971884"
 ---
 # <a name="win32_printerconfiguration-class"></a>\_Класс Win32 принтерконфигуратион
 
@@ -107,7 +107,7 @@ class Win32_PrinterConfiguration : CIM_Setting
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ принтерконфигуратион** имеет следующие свойства.
 
@@ -129,7 +129,7 @@ class Win32_PrinterConfiguration : CIM_Setting
 
 </dd> <dt>
 
-**Заголовок**
+**Caption**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -188,12 +188,12 @@ class Win32_PrinterConfiguration : CIM_Setting
 
 <span id="2"></span>
 
-<span id="2"></span>**открыт**
+<span id="2"></span>**2**
 
 
 </dt> <dd>
 
-Цвет
+Color
 
 </dd> </dl>
 
@@ -296,7 +296,7 @@ class Win32_PrinterConfiguration : CIM_Setting
 
 <span id="2"></span>
 
-<span id="2"></span>**открыт**
+<span id="2"></span>**2**
 
 
 </dt> <dd>
@@ -318,7 +318,7 @@ class Win32_PrinterConfiguration : CIM_Setting
 
 <span id="4"></span>
 
-<span id="4"></span>**четырех**
+<span id="4"></span>**4**
 
 
 </dt> <dd>
@@ -349,7 +349,7 @@ class Win32_PrinterConfiguration : CIM_Setting
 Тип доступа: только для чтения
 </dt> </dl>
 
-Номер версии драйвера принтера на основе Windows. Номера версий создаются и обслуживаются производителем драйвера.
+номер версии драйвера принтера на основе Windows. Номера версий создаются и обслуживаются производителем драйвера.
 
 </dd> <dt>
 
@@ -421,7 +421,7 @@ class Win32_PrinterConfiguration : CIM_Setting
 
 <span id="2"></span>
 
-<span id="2"></span>**открыт**
+<span id="2"></span>**2**
 
 
 </dt> <dd>
@@ -469,7 +469,7 @@ class Win32_PrinterConfiguration : CIM_Setting
 
 <span id="2"></span>
 
-<span id="2"></span>**открыт**
+<span id="2"></span>**2**
 
 
 </dt> <dd>
@@ -491,7 +491,7 @@ Windows
 
 <span id="4"></span>
 
-<span id="4"></span>**четырех**
+<span id="4"></span>**4**
 
 
 </dt> <dd>
@@ -544,7 +544,7 @@ Standard
 
 <span id="2"></span>
 
-<span id="2"></span>**открыт**
+<span id="2"></span>**2**
 
 
 </dt> <dd>
@@ -566,7 +566,7 @@ Standard
 
 </dd> <dt>
 
-**Name**
+**Имя**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -582,7 +582,7 @@ Standard
 
 </dd> <dt>
 
-**Ориентация**
+**Orientation**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **UInt32**
@@ -608,7 +608,7 @@ Standard
 
 <span id="2"></span>
 
-<span id="2"></span>**открыт**
+<span id="2"></span>**2**
 
 
 </dt> <dd>
@@ -804,7 +804,7 @@ Standard
 Тип доступа: только для чтения
 </dt> </dl>
 
-Номер версии данных инициализации для устройства, связанного с принтером на основе Windows.
+номер версии данных инициализации для устройства, связанного с принтером на основе Windows.
 
 </dd> <dt>
 
@@ -850,7 +850,7 @@ Standard
 
 </dt> <dd>
 
-Замещает шрифты устройства для шрифтов TrueType. Это действие по умолчанию для принтеров PostScript.
+Замещает шрифты устройства для шрифтов TrueType. это действие по умолчанию для PostScript принтеров.
 
 </dd> </dl>
 
@@ -904,7 +904,7 @@ Standard
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **Win32 \_ принтерконфигуратион** является производным от [**\_ параметра CIM**](cim-setting.md).
 

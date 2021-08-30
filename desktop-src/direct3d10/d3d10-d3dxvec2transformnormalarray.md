@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: b4e18fc2bb8c62bb86947b9eab35daae9d0242ba
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.openlocfilehash: b28c80d20297e0ff0d4c3027424940067e4c447b388a5294d7a40bd52a290af9
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108108282"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119989674"
 ---
 # <a name="d3dxvec2transformnormalarray-function-d3dx10mathh"></a>Функция D3DXVec2TransformNormalArray (D3DX10Math. h)
 
@@ -113,13 +113,13 @@ D3DXVECTOR2* D3DXVec2TransformNormalArray(
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре тоска. Таким образом, функция **D3DXVec2TransformNormalArray** может использоваться в качестве параметра для другой функции.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3DX10Math. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3DX10Math. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3DX10. lib</dt> </dl>   |
 
 

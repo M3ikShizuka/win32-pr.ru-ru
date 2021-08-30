@@ -4,27 +4,27 @@ description: Для динамического создания кнопок и�
 ms.assetid: A8C56D09-90A3-4C70-9907-61390521D1DA
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6dadc53f91f773e5fce9e29bdf1ae50cc59bfdfd
-ms.sourcegitcommit: a716ca2a6a22a400f02c6b31699cf4da83ee3619
+ms.openlocfilehash: c4940016eaab8f64cd82f18579b31b13f2835ab8a0de00752eabfe81da316d6d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "104070884"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119920924"
 ---
 # <a name="how-to-create-a-button"></a>Создание кнопки
 
 Для динамического создания кнопок используется функция [**CreateWindow**](/windows/desktop/api/winuser/nf-winuser-createwindowa) или [**CreateWindowEx**](/windows/desktop/api/winuser/nf-winuser-createwindowexa) . В этом разделе показано, как использовать функцию **CreateWindow** для создания кнопки отправки по умолчанию.
 
-## <a name="what-you-need-to-know"></a>Что необходимо знать
+## <a name="what-you-need-to-know"></a>Это важно знать
 
 ### <a name="technologies"></a>Технологии
 
--   [Элементы управления Windows](window-controls.md)
+-   [Windows Элементы управления](window-controls.md)
 
-### <a name="prerequisites"></a>Предварительные условия
+### <a name="prerequisites"></a>Предварительные требования
 
 -   C/C++
--   Программирование пользовательского интерфейса Windows
+-   Windows Программирование пользовательского интерфейса
 
 ## <a name="instructions"></a>Инструкции
 
@@ -51,7 +51,7 @@ HWND hwndButton = CreateWindow(
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

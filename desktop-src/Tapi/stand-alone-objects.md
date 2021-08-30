@@ -4,12 +4,12 @@ ms.assetid: 090fa8e5-58a5-46ee-89a3-bd97fcfbf0f0
 title: Stand-Alone объекты
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e71fdea9c7ed4b66f57c3c0fe35625f35656555e
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 0094f4409fc6f2ec52d505e29a2f09a2bcff872b159fbd3fafdf7c4ec56f8861
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103909620"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119991774"
 ---
 # <a name="stand-alone-objects"></a>Stand-Alone объекты
 
@@ -19,7 +19,7 @@ ms.locfileid: "103909620"
 
 | Интерфейс                                             | Описание                                                                                                                                                                                                   |
 |-------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**итколлектион**](/windows/desktop/api/tapi3if/nn-tapi3if-itcollection)                  | Предоставляет методы, позволяющие клиентским приложениям автоматизации, таким как Visual Basic, получать сведения о коллекции.                                                                                             |
+| [**итколлектион**](/windows/desktop/api/tapi3if/nn-tapi3if-itcollection)                  | предоставляет методы, позволяющие клиентским приложениям автоматизации, таким как Visual Basic, получать сведения о коллекции.                                                                                             |
 | [**ITCollection2**](/windows/desktop/api/Tapi3if/nn-tapi3if-itcollection2)                | Расширяет [**итколлектион**](/windows/desktop/api/tapi3if/nn-tapi3if-itcollection) , предоставляя дополнительные методы для изменения коллекций.                                                                                                       |
 | [**IDispatch**](/previous-versions/windows/desktop/automat/implementing-the-idispatch-interface) | Стандартный COM-интерфейс для реализации автоматизации.                                                                                                                                                           |
 | [**IUnknown**](/windows/win32/api/unknwn/nn-unknwn-iunknown)                         | Стандартный COM-интерфейс для получения указателей на интерфейсы объектов.                                                                                                                                             |

@@ -4,12 +4,12 @@ ms.assetid: e3da5962-a652-409e-b0ec-eb93671049b4
 title: Команда IMC_CLOSESTATUSWINDOW (IMM. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 207f04d53f269318f87ed11038cbd6817d5e607e
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 31393c57c01f8f90d042e9bde1fe5bc742d606e099064e13f8de5baefeb46f58
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103913880"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120107394"
 ---
 # <a name="imc_closestatuswindow-command"></a>ИМК \_ клосестатусвиндов, команда
 
@@ -44,7 +44,7 @@ LRESULT IMC_CLOSESTATUSWINDOW
 
 Возвращает 0 в случае успеха или ненулевое значение в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если окно состояния IME уже скрыто, команда не выполняет никаких действий. Хотя приложение может отправлять эту команду в окно IME, приложение не получает соответствующую команду [ИМН \_ клосестатусвиндов](imn-closestatuswindow.md) .
 
@@ -56,11 +56,11 @@ LRESULT IMC_CLOSESTATUSWINDOW
 |-------------------------------------|------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                           |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                 |
-| Заголовок<br/>                   | <dl> <dt>IMM. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Imm. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

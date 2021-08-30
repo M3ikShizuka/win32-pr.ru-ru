@@ -1,18 +1,18 @@
 ---
-title: Глоссарий по платформе ленты Windows
+title: Windows Глоссарий платформы ленты
 description: Страница глоссария
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: 6fb35475-3b65-43c8-acca-1ec6c36f01c0
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 81160b3e6e97fb3e8ccfb679bcd103ed97dc53eb
-ms.sourcegitcommit: fdd00b445ee88366e9cdd1eed0cb3e42e2a73eca
+ms.openlocfilehash: 40dab764b73f23844277fc950e340b709417ef5ead656527632b1edd3e4bfffd
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "104335971"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119933174"
 ---
-# <a name="windows-ribbon-framework-glossary"></a>Глоссарий по платформе ленты Windows
+# <a name="windows-ribbon-framework-glossary"></a>Windows Глоссарий платформы ленты
 
 ## <a name="g"></a>G
 
@@ -62,7 +62,7 @@ ms.locfileid: "104335971"
 
 <dl> <dt>
 
-**шаблон**
+**template**
 </dt> <dd>
 
 Набор подсказок макета, которые определяют размер и организацию элементов управления ленты на основе размера ленты.
@@ -76,7 +76,7 @@ ms.locfileid: "104335971"
 **Вид**
 </dt> <dd>
 
-Контейнер верхнего уровня, в котором размещаются элементы управления пользовательского интерфейса ленты Windows.
+контейнер верхнего уровня, в котором размещается Windows элементов управления пользовательского интерфейса ленты.
 
 </dd> </dl>
 
@@ -84,16 +84,16 @@ ms.locfileid: "104335971"
 
 <dl> <dt>
 
-**Платформа ленты Windows (лента)**
+**Windows Платформа ленты (лента)**
 </dt> <dd>
 
 Обширная система представления команд, предоставляющая основные функции приложения с помощью панели команд в верхней части окна приложения.
 
 </dd> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

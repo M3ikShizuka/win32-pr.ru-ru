@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bbbef54501e195c91bdcc0cec8045f2eec763820
-ms.sourcegitcommit: 57758ecb246c84d65e6e0e4bd5570d9176fa39cd
+ms.openlocfilehash: 33b5e36984783369c96b331af55adac0c97eb8cc2688829d87f7b6d2cea0d7df
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "105672195"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119895944"
 ---
 # <a name="os-switch"></a>Параметр/OS
 
@@ -31,7 +31,7 @@ midl /Os
 
 Этот параметр не имеет параметров.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Перед выбором метода для маршалирования кода необходимо учитывать важные моменты. Эти проблемы связаны с размером и производительностью. Компилятор MIDL предоставляет два метода для маршалирования кода: смешанный режим (**/OS**) и полную интерпретацию ([**/Oi**](-oi.md)). Полностью интерпретируемый метод маршалирует данные полностью в автономном режиме. Это значительно сокращает размер кода заглушки, но также приводит к снижению производительности.
 
@@ -45,7 +45,7 @@ MIDL обеспечивает полную поддержку многомерн
 
 **MIDL/OS filename. idl**
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
@@ -61,9 +61,9 @@ MIDL обеспечивает полную поддержку многомерн
 [**/но в \_ формате \_ OPT**](-no-format-opt.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

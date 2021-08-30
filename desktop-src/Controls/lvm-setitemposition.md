@@ -3,7 +3,7 @@ title: Сообщение LVM_SETITEMPOSITION (Коммктрл. h)
 description: Перемещает элемент в указанную позицию в элементе управления "представление списка" (должен быть в виде значка или маленького значка). Это сообщение можно отправить явно или с помощью \_ макроса Сетитемпоситион ListView.
 ms.assetid: dfb35af4-e6c3-40fc-9d7c-cf0d68a3ea01
 keywords:
-- Элементы управления Windows для LVM_SETITEMPOSITION сообщений
+- элементы управления Windows сообщений LVM_SETITEMPOSITION
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b95fcf2949f1e19677bd445c0f6c5f762db078d1
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 111f961b668e13fa10fdfb00cdf430aba1bc9d0b1c0b04295e5777a46f5cb9a3
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103892018"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119915254"
 ---
 # <a name="lvm_setitemposition-message"></a>\_Сообщение LVM сетитемпоситион
 
@@ -47,21 +47,21 @@ ms.locfileid: "103892018"
 
 Возвращает **значение true** , если успешно, или **false** в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если элемент управления "список" имеет стиль [**\_ автоупорядочивания LVS**](list-view-window-styles.md) , элементы в элементе управления "список" упорядочиваются после установки позиции элемента.
 
-В Windows Vista отправка этого сообщения в элемент управления "представление списка" с помощью [**стиля \_ авторазмещения LVS**](list-view-window-styles.md) ничего не делает, а возвращаемое значение равно **false**.
+в Windows Vista отправка этого сообщения в элемент управления "представление списка" с помощью [**стиля \_ автоупорядочивания LVS**](list-view-window-styles.md) ничего не делает, а возвращаемое значение равно **FALSE**.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

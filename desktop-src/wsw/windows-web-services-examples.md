@@ -1,19 +1,19 @@
 ---
-title: Примеры веб-служб Windows
-description: В следующих примерах показано, как использовать API веб-служб Windows.
+title: Windows Примеры веб-служб
+description: в следующих примерах показано, как использовать API веб-служб Windows.
 ms.assetid: 8a557ef0-a88a-4257-a181-57f2dca9022f
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e74aec03c4822fb9ba270076b5127dd37d145fb5
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 63e38dd32923336f63d5d5195fbae8c4ee8a3c20ce2d5568b8f7557aba34f340
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "105710043"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120109754"
 ---
-# <a name="windows-web-services-examples"></a>Примеры веб-служб Windows
+# <a name="windows-web-services-examples"></a>Windows Примеры веб-служб
 
-В следующих примерах показано, как использовать API веб-служб Windows.
+в следующих примерах показано, как использовать API веб-служб Windows.
 
 -   [Примеры модели службы](service-model-examples.md)
 -   [Примеры уровня TCP-канала](tcp-channel-layer-examples.md)
@@ -122,9 +122,9 @@ ms.locfileid: "105710043"
 
 ## <a name="security-channel-layer-examples"></a>Примеры уровней каналов безопасности
 
-Безопасность транспорта Windows через TCP: Клиент: [рекуестреплиткпклиентвисвиндовстранспортсекуритексампле](requestreplytcpclientwithwindowstransportsecurityexample.md), сервер: [рекуестреплиткпсервервисвиндовстранспортсекуритексампле](requestreplytcpserverwithwindowstransportsecurityexample.md).
+Windows безопасность транспорта по протоколу TCP: клиент: [рекуестреплиткпклиентвисвиндовстранспортсекуритексампле](requestreplytcpclientwithwindowstransportsecurityexample.md), сервер: [рекуестреплиткпсервервисвиндовстранспортсекуритексампле](requestreplytcpserverwithwindowstransportsecurityexample.md).
 
-Безопасность транспорта Windows через именованные каналы: Клиент: [рекуестреплинамедпипесклиентвисвиндовстранспортсекуритексампле](requestreplynamedpipesclientwithwindowstransportsecurityexample.md), сервер: [рекуестреплинамедпипессервервисвиндовстранспортсекуритексампле](requestreplynamedpipesserverwithwindowstransportsecurityexample.md).
+Windows безопасность транспорта по именованным каналам: клиент: [рекуестреплинамедпипесклиентвисвиндовстранспортсекуритексампле](requestreplynamedpipesclientwithwindowstransportsecurityexample.md), сервер: [рекуестреплинамедпипессервервисвиндовстранспортсекуритексампле](requestreplynamedpipesserverwithwindowstransportsecurityexample.md).
 
 Безопасность транспорта SSL: Клиент: [хттпклиентвиссслексампле](httpclientwithsslexample.md), сервер: [хттпсервервиссслексампле](httpserverwithsslexample.md).
 
@@ -138,7 +138,7 @@ ms.locfileid: "105710043"
 
 Имя пользователя в смешанном режиме безопасности SSL: [метадатаимпортвисусернамеоверсслексампле](metadataimportwithusernameoversslexample.md). Выданный маркер по безопасности смешанного режима SSL: [метадатаимпортвисиссуедтокеноверсслексампле](metadataimportwithissuedtokenoversslexample.md). Сертификат X509 в смешанном режиме безопасности SSL: [MetadataImportWithX509OverSslExample](metadataimportwithx509oversslexample.md).
 
-## <a name="ws-metadata-exchange-example"></a>Пример Exchange WS-Metadata
+## <a name="ws-metadata-exchange-example"></a>пример Exchange WS-Metadata
 
 В следующих примерах показано, как включить WS-MetadataExchange [на \_ \_ узле службы WS](ws-service-host.md).
 
@@ -156,15 +156,15 @@ ms.locfileid: "105710043"
 
 ## <a name="wcf-public-service-interoperation"></a>Взаимодействие общедоступной службы WCF
 
-Клиент веб-служб Windows взаимодействует с клиентом службы WCF: [вкфпубликсервицесампле](wcfpublicservicesample.md).
+клиент веб-служб Windows взаимодействует с клиентом службы WCF: [вкфпубликсервицесампле](wcfpublicservicesample.md).
 
 ## <a name="custom-http-proxy"></a>Пользовательский прокси-сервер HTTP
 
-Клиент веб-служб Windows взаимодействует со службой ASMX TerraService с помощью настраиваемого прокси-клиента: [асмкстеррасервицесамплевискустомпрокси](asmxterraservicesamplewithcustomproxy.md)
+клиент веб-служб Windows взаимодействует со службой ASMX TerraService с помощью настраиваемого прокси-клиента: [асмкстеррасервицесамплевискустомпрокси](asmxterraservicesamplewithcustomproxy.md)
 
- 
+ 
 
- 
+ 
 
 
 

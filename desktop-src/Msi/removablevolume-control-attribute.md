@@ -4,12 +4,12 @@ ms.assetid: fc16ca46-54a1-4b24-ba51-8b4d358268f4
 title: Атрибут элемента управления Ремоваблеволуме
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f5a91a464eb55ee965f12eae9885849eb2080996
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: b9da559935a6f325c9f47fdbd902fe7b586870327b8107b14b6ae421f472a659
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103809496"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119912784"
 ---
 # <a name="removablevolume-control-attribute"></a>Атрибут элемента управления Ремоваблеволуме
 
@@ -39,7 +39,7 @@ ms.locfileid: "103809496"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Чтобы задать этот атрибут для элемента управления, включите бит Ремоваблеволуме в столбец Attributes записи элемента управления в [таблице Control](control-table.md).
 

@@ -1,26 +1,26 @@
 ---
-title: Библиотека элементов управления платформы Windows ленты
-description: В разделах, содержащихся в этом разделе, описывается набор элементов управления, включенных в платформу Windows Ribbon. Перечисленные здесь элементы управления являются объектами пользовательского интерфейса на ленте, которые предоставляют функциональные возможности команды.
+title: Windows Библиотека элементов управления платформы ленты
+description: разделы, содержащиеся в этом разделе, описывают набор элементов управления, включенных в платформу ленты Windows. Перечисленные здесь элементы управления являются объектами пользовательского интерфейса на ленте, которые предоставляют функциональные возможности команды.
 ms.assetid: bda13e51-7e5f-4600-a6bd-9388bffd6ce2
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 840b07bafe0c43cb7ab148a4413657b9722c409b
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 065d69e52cee2300041eedd2d440d292a73e1dc46f5084545effc5e470bceee4
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "105672359"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119933354"
 ---
-# <a name="windows-ribbon-framework-control-library"></a>Библиотека элементов управления платформы Windows ленты
+# <a name="windows-ribbon-framework-control-library"></a>Windows Библиотека элементов управления платформы ленты
 
-В разделах, содержащихся в этом разделе, описывается набор элементов управления, включенных в платформу Windows Ribbon. Перечисленные здесь элементы управления являются объектами пользовательского интерфейса на ленте, которые предоставляют функциональные возможности команды.
+разделы, содержащиеся в этом разделе, описывают набор элементов управления, включенных в платформу ленты Windows. Перечисленные здесь элементы управления являются объектами пользовательского интерфейса на ленте, которые предоставляют функциональные возможности команды.
 
 -   [Введение](#introduction)
 -   [Элементы управления](#windows-ribbon-framework-control-library)
     -   [Основные элементы управления](#basic-controls)
     -   [Контейнерные элементы управления](#container-controls)
     -   [Специализированные элементы управления](#specialized-controls)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="introduction"></a>Введение
 
@@ -43,15 +43,15 @@ ms.locfileid: "105672359"
 > [!Note]  
 > [**Счетчик**](windowsribbon-element-spinner.md) является исключением, так как содержит элемент управления "поле ввода".
 
- 
+ 
 
 В следующей таблице перечислены основные элементы управления в платформе Ribbon.
 
 
 
-| Control                                                  | Элемент Markup                                             |
+| Элемент                                                  | Элемент Markup                                             |
 |----------------------------------------------------------|------------------------------------------------------------|
-| [Кнопка](windowsribbon-controls-button.md)              | [**Переключатель**](windowsribbon-element-button.md)             |
+| [Кнопка](windowsribbon-controls-button.md)              | [**Кнопка**](windowsribbon-element-button.md)             |
 | [Флажок](windowsribbon-controls-checkbox.md)         | [**Установка**](windowsribbon-element-checkbox.md)         |
 | [Кнопка "Справка"](windowsribbon-controls-helpbutton.md)     | [**хелпбуттон**](windowsribbon-element-helpbutton.md)     |
 | [Spinner](windowsribbon-controls-spinner.md)            | [**Spinner**](windowsribbon-element-spinner.md)           |
@@ -59,7 +59,7 @@ ms.locfileid: "105672359"
 
 
 
- 
+ 
 
 ### <a name="container-controls"></a>Контейнерные элементы управления
 
@@ -81,7 +81,7 @@ ms.locfileid: "105672359"
 
 
 
-| Control                                                        | Элемент Markup                                                   |
+| Элемент                                                        | Элемент Markup                                                   |
 |----------------------------------------------------------------|------------------------------------------------------------------|
 | [Меню приложения](windowsribbon-controls-applicationmenu.md) | [**аппликатионмену**](windowsribbon-element-applicationmenu.md) |
 | [Контекстное всплывающее окно](windowsribbon-controls-contextpopup.md)       | [**контекстпопуп**](windowsribbon-element-contextpopup.md)       |
@@ -89,12 +89,12 @@ ms.locfileid: "105672359"
 | [Группа](windowsribbon-controls-group.md)                      | [**Группа**](windowsribbon-element-group.md)                     |
 | [Группа меню](windowsribbon-controls-menugroup.md)             | [**менуграуп**](windowsribbon-element-menugroup.md)             |
 | [Разворачивающаяся кнопка](windowsribbon-controls-splitbutton.md)         | [**SplitButton**](windowsribbon-element-splitbutton.md)         |
-| [TAB](windowsribbon-controls-tab.md)                          | [**TAB**](windowsribbon-element-tab.md)                         |
+| [TAB](windowsribbon-controls-tab.md)                          | [**Вкладка**](windowsribbon-element-tab.md)                         |
 | [Группа вкладок](windowsribbon-controls-tabgroup.md)               | [**Группа вкладок**](windowsribbon-element-tabgroup.md)               |
 
 
 
- 
+ 
 
 ### <a name="dynamic-containers"></a>Динамические контейнеры
 
@@ -106,7 +106,7 @@ ms.locfileid: "105672359"
 
 
 
-| Control                                                               | Элемент Markup                                                         |
+| Элемент                                                               | Элемент Markup                                                         |
 |-----------------------------------------------------------------------|------------------------------------------------------------------------|
 | [Поле со списком](windowsribbon-controls-combobox.md)                      | [**ComboBox**](windowsribbon-element-combobox.md)                     |
 | [Раскрывающийся список](windowsribbon-controls-dropdowngallery.md)       | [**дропдовнгаллери**](windowsribbon-element-dropdowngallery.md)       |
@@ -117,7 +117,7 @@ ms.locfileid: "105672359"
 
 
 
- 
+ 
 
 ### <a name="specialized-controls"></a>Специализированные элементы управления
 
@@ -127,22 +127,22 @@ ms.locfileid: "105672359"
 
 
 
-| Control                                                                  | Элемент Markup                                                           |
+| Элемент                                                                  | Элемент Markup                                                           |
 |--------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | [Выбор цвета для раскрывающегося списка](windowsribbon-controls-dropdowncolorpicker.md) | [**дропдовнколорпиккер**](windowsribbon-element-dropdowncolorpicker.md) |
 | [Элемент управления шрифтами](windowsribbon-controls-fontcontrol.md)                   | [**фонтконтрол**](windowsribbon-element-fontcontrol.md)                 |
 
 
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Основные сведения о командах и элементах управления](windowsribbon-commandscontrols.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

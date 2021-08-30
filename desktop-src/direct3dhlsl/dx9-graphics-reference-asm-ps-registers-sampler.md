@@ -11,12 +11,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 77875eed0827ad6bcb6d89111b13b6a31232dd86
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: abf8887f229669273b26c9afeb036821842bf19311a752654ba1b5909d943090
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104070182"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119982844"
 ---
 # <a name="sampler-direct3d-9-asm-ps"></a>Образцы (Direct3D 9 ASM-PS)
 
@@ -32,7 +32,7 @@ ms.locfileid: "104070182"
 
 
 
- 
+ 
 
 Пробы являются псевдо-регистром, так как вы не можете напрямую считывать их или записывать.
 
@@ -46,13 +46,13 @@ ms.locfileid: "104070182"
 
 Выборка текстуры с более высоким измерением, чем имеется в координатах текстуры, недопустима. Выборка текстуры с меньшим измерением, чем есть в координатах текстуры, будет игнорировать дополнительные координаты текстуры.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Регистры](dx9-graphics-reference-asm-ps-registers.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

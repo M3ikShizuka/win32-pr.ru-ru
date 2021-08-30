@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: bc77e07231d086f15086662d60581d4c5992bf5b
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 85f3cf97175b28750408d28a6e164f8aaa5fe71ec18bb89fff8e5c4583fb85cb
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105668636"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120041944"
 ---
 # <a name="recordreadstream-method"></a>Метод Record. Реадстреам
 
@@ -79,19 +79,19 @@ Record.ReadStream(
 
 Этот метод возвращает строку, содержащую запрошенное число байтов, считанных из поля записи.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Возвращенное значение несуществующего поля является пустым значением. Если в потоке меньше байтов, запрошенных счетчиком, возвращаемая строка сокращается соответствующим образом.
 
 Пример этого метода см. [в разделе Копирование файла ANSI в поле базы данных](copy-ansi-file-into-a-database-field.md).
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/> | Установщик Windows 5,0 в Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Установщик Windows 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. установщик Windows в Windows Server 2003 или Windows XP<br/> |
+| Версия<br/> | Windows установщик 5,0 на Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Windows установщик 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Windows установщик на Windows Server 2003 или Windows XP<br/> |
 | DLL<br/>     | <dl> <dt>Msi.dll</dt> </dl>                                                                                                                                                                      |
 | IID<br/>     | IID \_ ирекорд определен как 000C1093-0000-0000-C000-000000000046<br/>                                                                                                                                                                              |
 

@@ -3,7 +3,7 @@ title: Сообщение SBM_SETRANGE (Winuser. h)
 description: Сообщение СБМ \_ SETRANGE отправляется для установки минимального и максимального значений позиций для элемента управления "полоса прокрутки".
 ms.assetid: 9cf84354-3944-4c10-9b59-39427b840868
 keywords:
-- Элементы управления Windows для SBM_SETRANGE сообщений
+- элементы управления Windows сообщений SBM_SETRANGE
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f7a720531ae58fdb0712b8f23fd1aef88b3e4caa
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: cfac02c2a902e890b56e1d14d9ec4b300257e340340d72c6cf80e17488afe3e1
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103892545"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119914324"
 ---
 # <a name="sbm_setrange-message"></a>\_Сообщение SETRANGE СБМ
 
@@ -51,25 +51,25 @@ ms.locfileid: "103892545"
 
 **ComCtl32.dll версии 6,0**: текущее расположение поля прокрутки, независимо от того, изменился ли он.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 По умолчанию минимальное и максимальное значения позиций равны нулю. Разница между значениями, заданными параметрами *wParam* и *lParam* , не должна превышать макслонг.
 
 Если минимальное и максимальное значения позиционирования равны, элемент управления "полоса прокрутки" скрыт и, по сути, отключен.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                                           |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включение Windows. h)</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                           |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

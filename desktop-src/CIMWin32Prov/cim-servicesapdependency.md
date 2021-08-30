@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: e47283c962b377b70bc14efe998752d9009796df
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 239af84466382d17c81edfae39378e384e8742138014f1429a59635be9633aa6
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104141427"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119919604"
 ---
 # <a name="cim_servicesapdependency-class-cimwin32-wmi-providers"></a>Класс CIM_ServiceSAPDependency (поставщики WMI CIMWin32)
 
@@ -51,7 +51,7 @@ class CIM_ServiceSAPDependency : CIM_Dependency
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **CIM \_ сервицесапдепенденци** имеет следующие свойства.
 
@@ -89,7 +89,7 @@ class CIM_ServiceSAPDependency : CIM_Dependency
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Инструментарий WMI не реализует этот класс.
 
@@ -97,7 +97,7 @@ class CIM_ServiceSAPDependency : CIM_Dependency
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
@@ -111,7 +111,7 @@ class CIM_ServiceSAPDependency : CIM_Dependency
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

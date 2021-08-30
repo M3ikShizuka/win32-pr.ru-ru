@@ -1,6 +1,6 @@
 ---
 description: Перечисляет содержимое списка недавно использовавшихся (MRU) списков. При необходимости извлекает элемент из перечисления.
-title: Функция Енуммрулиств
+title: Функция EnumMRUListW
 ms.topic: reference
 ms.date: 05/31/2018
 topic_type:
@@ -14,16 +14,16 @@ api_type:
 api_location:
 - Comctl32.dll
 ms.assetid: 630e5f27-96bf-4e88-b01a-127b301cc051
-ms.openlocfilehash: 1e6e4bd0820d35fec2a108a81eb1030567493e6a
-ms.sourcegitcommit: 3caaa3c92dcb1ef12f84464d14ce6262e65e988e
+ms.openlocfilehash: 668b92ad8e89c4b3a4082142c7eb8cdc722b8b2f4ce01827319c0480e0d2e997
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109843165"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119943004"
 ---
-# <a name="enummrulistw-function"></a>Функция Енуммрулиств
+# <a name="enummrulistw-function"></a>Функция EnumMRUListW
 
-\[Эта функция доступна в Windows XP с пакетом обновления 2 (SP2) и Windows Server 2003. Он может быть изменен или недоступен в последующих версиях Windows. \]
+\[эта функция доступна в Windows XP с пакетом обновления 2 (sp2) и Windows Server 2003. Он может быть изменен или недоступен в последующих версиях Windows. \]
 
 Перечисляет содержимое списка недавно использовавшихся (MRU) списков. При необходимости извлекает элемент из перечисления.
 
@@ -108,7 +108,7 @@ int EnumMRUListW(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

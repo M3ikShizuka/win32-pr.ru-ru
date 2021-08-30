@@ -4,12 +4,12 @@ ms.assetid: ff43e81c-ff39-466d-870a-54b75c2938a4
 title: Выберите терминал
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ac3d195e021f5937c733f3d7a0efce0cfee5eba9
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: b77ee3bb889f5372ae024b29867b6c9d418c5924b4e626be70aa5d49ad72c9c9
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105674465"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119991844"
 ---
 # <a name="select-a-terminal"></a>Выберите терминал
 
@@ -78,7 +78,7 @@ while ( S_OK == pEnumStreams->Next(1, &pStream, NULL) )
 }
 ```
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

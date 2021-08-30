@@ -1,35 +1,35 @@
 ---
-title: Комплект сертификации оборудования для Windows
-description: Комплект сертификации оборудования для Windows
+title: Windows Комплект сертификации оборудования
+description: Windows Комплект сертификации оборудования
 ms.assetid: 99BD2D7D-8F9D-445E-AE04-6A58FFF3DCE6
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: dba820d62d6766f74549ed23f7a5abdccbca258b
-ms.sourcegitcommit: ea4baf9953a78d2d6bd530b680601e39f3884541
+ms.openlocfilehash: 038e3bd113c6e8fd0285aa60af64d3574ff2129f05af6ed4608270a70c3f48aa
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "104070751"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119932114"
 ---
-# <a name="windows-hardware-certification-kit"></a>Комплект сертификации оборудования для Windows
+# <a name="windows-hardware-certification-kit"></a>Windows Комплект сертификации оборудования
 
 ## <a name="platforms"></a>Платформы
 
- **Клиенты** — Windows 7 \| Windows 8  
-**Серверы** — windows Server 2008 R2 \| Windows Server 2012  
-**Сервер и контроллер** — Windows Server 2008 R2  
+ **клиенты** — Windows 7 \| Windows 8  
+**серверы** — Windows Server 2008 R2 \| Windows Server 2012  
+**сервер/контроллер** — Windows server 2008 R2  
 
 
 ## <a name="description"></a>Описание
 
-Комплект сертификации оборудования для Windows позволяет разработчикам, поставщикам программных продуктов, независимым поставщикам оборудования и производителям вычислительных систем сертифицировать свои аппаратные устройства, системы и фильтровать драйверы для последних версий операционных систем Windows. Он содержит все средства и документацию, необходимые для сертификации оборудования и фильтрации драйверов для этих операционных систем:
+комплект сертификации Windows оборудования позволяет разработчикам, независимым поставщикам программного обеспечения, независимые поставщики оборудования и поставщикам вычислительной техники сертифицировать свои аппаратные устройства, системы и драйверы фильтрации для новейших операционных систем Windows. Он содержит все средства и документацию, необходимые для сертификации оборудования и фильтрации драйверов для этих операционных систем:
 
--   Windows 8
--   Windows Server 2012
+-   Windows 8
+-   Windows Server 2012
 -   Windows 7
--   Windows Server 2008 R2
+-   Windows Server 2008 R2
 
-Комплект сертификации оборудования для Windows заменяет комплект Windows Logo и является частью программы сертификации Windows.
+комплект сертификации Windows оборудования заменяет комплект средств для проверки совместимости с Windows и является частью программы сертификации Windows.
 
 ## <a name="usage-or-best-practices"></a>Использование или рекомендации
 
@@ -45,10 +45,10 @@ ms.locfileid: "104070751"
 
 ## <a name="resources"></a>Ресурсы
 
--   [Разработка оборудования Windows](https://msdn.microsoft.com/windows/hardware/)
+-   [Windows Разработка оборудования](https://msdn.microsoft.com/windows/hardware/)
 -   [Программа сертификации оборудования для Windows](/previous-versions/windows/hardware/hck/jj124227(v=vs.85))
 -   [Начало разработки оборудования для Windows](/previous-versions/gg507680(v=msdn.10))
 
- 
+ 
 
- 
+ 

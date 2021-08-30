@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: d95933c70a3ccfbde6ce49760da577f21ba26e48
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: f3d9f4f34101fab1e7c10e5b59844e5e8bc3240a856115c922ad0134e31b52e5
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105703225"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120065718"
 ---
 # <a name="esentdensityinvalidexception-constructor"></a>Конструктор Есентденситинвалидексцептион
 
@@ -52,7 +52,7 @@ Dim instance As New EsentDensityInvalidException()
 public EsentDensityInvalidException()
 ```
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 #### <a name="reference"></a>Справочник
 

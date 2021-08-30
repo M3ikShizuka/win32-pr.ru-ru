@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 18ba3f74378112c8e3f58958db8b22c970e8e099
-ms.sourcegitcommit: 57758ecb246c84d65e6e0e4bd5570d9176fa39cd
+ms.openlocfilehash: 8c0648cc82faae7a0bab9614761caef98c316fd73b5eb90550d14754386282f7
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "103986954"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120109934"
 ---
 # <a name="wmpicture"></a>WM/Picture
 
@@ -31,13 +31,13 @@ g \_ всзвмпиктуре
 
 [**WM \_ Рисунок**](/previous-versions/windows/desktop/api/wmsdkidl/ns-wmsdkidl-wm_picture) (**\_ \_ двоичный тип ВМТ**)
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот атрибут совместим с кадром ID3, APIC. Спецификация ID3 для кадра APIC подразумевает, что, хотя может существовать любое количество кадров APIC, связанных с файлом, только один из них может иметь тип 1, а только один может иметь тип 2. В спецификации также указывается, что описание изображения не может содержать более 64 символов, но может быть пустым.
 
-Атрибуты WM/Picture, добавленные с помощью объектов пакета SDK формата Windows Media, не проверяются автоматически в соответствии со спецификациями ID3. Необходимо добавить код в приложение для выполнения проверок, если требуется обеспечить полную совместимость с ID3.
+атрибуты WM/Picture, добавленные с помощью объектов пакета SDK для Windows Media Format, не проверяются автоматически в соответствии со спецификациями ID3. Необходимо добавить код в приложение для выполнения проверок, если требуется обеспечить полную совместимость с ID3.
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
@@ -47,9 +47,9 @@ g \_ всзвмпиктуре
 [**\_изображение WM**](/previous-versions/windows/desktop/api/wmsdkidl/ns-wmsdkidl-wm_picture)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

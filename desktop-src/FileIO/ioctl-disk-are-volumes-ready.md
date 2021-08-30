@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - ntdddisk.h
-ms.openlocfilehash: dc4457af2ce6e7759ef879900803504933a09978
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: cba83d8f850151e217460595f5f4fc8831b99ee5ee30fc0bb908c0ca04a9cdce
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105684366"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119981974"
 ---
 # <a name="ioctl_disk_are_volumes_ready-control-code"></a>\_Диск ioctl \_ — \_ это \_ готовые к использованию тома контрольные коды
 
@@ -124,9 +124,9 @@ DeviceIoControl( (HANDLE)       hDevice,         // handle to device
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 8\]<br/>                                            |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2012\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Нтдддиск. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                            |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Нтдддиск. h</dt> </dl> |
 
 
 

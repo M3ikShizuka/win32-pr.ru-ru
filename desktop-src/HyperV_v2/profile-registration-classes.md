@@ -4,12 +4,12 @@ ms.assetid: 666B2550-25B0-4951-ABAB-E32C43A0CA46
 title: Классы регистрации профилей
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 23eeba651a0a780bee25867ea632ef1ad5575821
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 8df5307a82fba96d4ddc70afcfda70812db0fe498bcd55a116ed310fc06ebdb6
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105682640"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119980364"
 ---
 # <a name="profile-registration-classes"></a>Классы регистрации профилей
 
@@ -25,12 +25,12 @@ ms.locfileid: "105682640"
 | [**Мсвм \_ хостедресаурцепул**](msvm-hostedresourcepool.md)<br/>                                   | Представляет специализацию связи системных компонентов, которая устанавливает, что пул ресурсов определяется в контексте системы.<br/>                      |
 | [**Мсвм \_ референцедпрофиле**](msvm-referencedprofile.md)<br/>                                     | Описывает профиль, на который ссылается другой зарегистрированный профиль.<br/>                                                                                                 |
 | [**Мсвм \_ регистередпрофиле**](msvm-registeredprofile.md)<br/>                                     | Описывает набор классов с обязательными свойствами и методами, необходимые для управления реальной сущностью или для поддержки сценария использования в среде с возможностью взаимодействия.<br/> |
-| [**Мсвм \_ ресаурцепулкомпонент**](msvm-resourcepoolcomponent.md)<br/>                             | Представляет элемент пула ресурсов платформы Microsoft Windows Hyper-V.<br/>                                                                                         |
+| [**Мсвм \_ ресаурцепулкомпонент**](msvm-resourcepoolcomponent.md)<br/>                             | представляет элемент пула ресурсов платформы Microsoft Windows Hyper-V.<br/>                                                                                         |
 | [**Мсвм \_ ресаурцепулрегистратион**](msvm-resourcepoolregistration.md)<br/>                       | Регистрирует службу, которая предоставляет объекты, связанные с пулом глобальных ресурсов.<br/>                                                                                               |
 | [**Мсвм \_ ресаурцетипедефинитион**](msvm-resourcetypedefinition.md)<br/>                           | Определяет сопоставление типа ресурса с его классами реализации.<br/>                                                                                                   |
-| [**Мсвм \_ виртуализатионкомпонент**](msvm-virtualizationcomponent.md)<br/>                         | Представляет службу платформы Hyper-V Microsoft Windows.<br/>                                                                                                       |
-| [**Мсвм \_ виртуализатионкомпонентрегистратион**](msvm-virtualizationcomponentregistration.md)<br/> | Представляет регистрацию службы на Microsoft Hyper-Vной платформе.<br/>                                                                                           |
-| [**Мсвм \_ виртуалсистемресаурцекомпонент**](msvm-virtualsystemresourcecomponent.md)<br/>           | Представляет службу виртуального устройства платформы Microsoft Windows Hyper-V.<br/>                                                                                        |
+| [**Мсвм \_ виртуализатионкомпонент**](msvm-virtualizationcomponent.md)<br/>                         | представляет службу платформы Hyper-V Microsoft Windows.<br/>                                                                                                       |
+| [**Мсвм \_ виртуализатионкомпонентрегистратион**](msvm-virtualizationcomponentregistration.md)<br/> | представляет регистрацию службы на Microsoft Hyper-Vной платформе.<br/>                                                                                           |
+| [**Мсвм \_ виртуалсистемресаурцекомпонент**](msvm-virtualsystemresourcecomponent.md)<br/>           | представляет службу виртуального устройства платформы Hyper-V Microsoft Windows.<br/>                                                                                        |
 | [**Мсвм \_ виртуалсистемресаурцерегистратион**](msvm-virtualsystemresourceregistration.md)<br/>     | Регистрирует службу, которая предоставляет объекты, относящиеся к ресурсам виртуальной машины.<br/>                                                                                  |
 
 

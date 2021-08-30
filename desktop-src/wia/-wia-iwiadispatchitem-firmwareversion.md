@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Wiascr.dll
-ms.openlocfilehash: da840cceab24faa5d541126d46a39f4203e0945b
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 4c98e4888ea012a408acdc08b3ec4ffd15fbdb638f04e95a1442365c434e9bcf
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105719366"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119931814"
 ---
 # <a name="itemfirmwareversion-property"></a>Свойство Item. Фирмвареверсион
 
@@ -45,8 +45,8 @@ propVal = Item.FirmwareVersion
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ классических приложений Windows XP\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                                          |
+| Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ настольных приложений Windows XP\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                          |
 | DLL<br/>                      | <dl> <dt>Wiascr.dll (версия 4,90 или более поздняя)</dt> </dl> |
 
 

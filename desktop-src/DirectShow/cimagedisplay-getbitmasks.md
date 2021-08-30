@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: a2defe5e80a0d7311adcd19dca67119019623993
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: dd8a3eac08a9e058f76e369a401429b69637f6438d60892d2632b88de0a0bb38
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105658002"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120108464"
 ---
 # <a name="cimagedisplaygetbitmasks-method"></a>Цимажедисплай..., метод
 
@@ -53,22 +53,22 @@ const DWORD* GetBitMasks(
 
 Возвращает массив из трех значений **типа DWORD** .
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если элемент **бикомпрессион** является BI \_ битовых полей, метод возвращает указатель на цветовую маску, переданную в элементе **двбитмаскс** . Если элемент **бикомпрессион** является BI \_ RGB, метод возвращает цветовые маски, соответствующие глубине цвета. Если метод завершается ошибкой (например, глубина разрядности меньше 16), метод возвращает массив {0,0,0} .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Винутил. h (включение Streams. h)</dt> </dl>                                                                                   |
+| Заголовок<br/>  | <dl> <dt>винутил. h (включает Потоки. h)</dt> </dl>                                                                                   |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

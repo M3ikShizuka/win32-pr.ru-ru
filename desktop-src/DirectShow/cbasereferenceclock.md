@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 1da55a57faac201a2dbf0ef4d8a9774157d9215d
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: ab737bb74b687854d0d45469a9e2784389c9e5a09dafedaab91c739415d448b7
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105668755"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120044111"
 ---
 # <a name="cbasereferenceclock-class"></a>Класс Кбасереференцеклокк
 
@@ -57,7 +57,7 @@ ms.locfileid: "105668755"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот класс реализует ссылочный таймер, который поддерживает интерфейсы [**иреференцеклокк**](/windows/desktop/api/Strmif/nn-strmif-ireferenceclock) и [**иреференцеклокктимерконтрол**](/windows/desktop/api/Strmif/nn-strmif-ireferenceclocktimercontrol) . Если фильтр может предоставить эталонный период для графа фильтра, например путем доступа к устройству, он может использовать этот класс для реализации часов.
 
@@ -90,7 +90,7 @@ GetTime:        105, 106, 106, 106, 106, 106, 107, 108
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Рефклокк. h (включение Streams. h)</dt> </dl>                                                                                  |
+| Заголовок<br/>  | <dl> <dt>рефклокк. h (включает Потоки. h)</dt> </dl>                                                                                  |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 

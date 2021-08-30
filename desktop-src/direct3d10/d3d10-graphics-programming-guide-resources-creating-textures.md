@@ -4,12 +4,12 @@ ms.assetid: 4c716be8-044e-4ed4-aeca-4379440826bd
 title: Создание ресурсов текстуры (Direct3D 10)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 81f2ca200b566d17b02af56c48cb1227c41106ad
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: eadee1af159d6a45624dfd1d7c17c61878b4eeedb69799010177fe879ad1d132
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103990605"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119895344"
 ---
 # <a name="creating-texture-resources-direct3d-10"></a>Создание ресурсов текстуры (Direct3D 10)
 
@@ -26,12 +26,12 @@ ms.locfileid: "103990605"
     -   [Подготовка к отображению текстуры](#rendering-to-a-texture)
     -   [Заполнение текстур вручную](#filling-textures-manually)
 -   [Несколько Рендертаржетс](#multiple-rendertargets)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="create-a-texture-from-a-file"></a>Создание текстуры из файла
 
 > [!Note]  
-> [Библиотека служебной программы D3DX](d3d10-graphics-reference-d3dx10.md) устарела для Windows 8 и не поддерживается для приложений Магазина Windows.
+> [библиотека служебной программы D3DX](d3d10-graphics-reference-d3dx10.md) устарела для Windows 8 и не поддерживается для приложений магазина Windows.
 
  
 
@@ -267,7 +267,7 @@ pTexture->Unmap( D3D10CalcSubresource(0, 0, 1) );
 
 Активным может быть только один буфер трафарета глубины, независимо от того, сколько активных объектов рендеринга активно. При использовании массивов текстуры в качестве целевых объектов рендеринга все измерения представления должны совпадать. Целевые объекты рендеринга не должны иметь одинаковый формат текстуры.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

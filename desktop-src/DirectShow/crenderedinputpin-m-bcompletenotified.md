@@ -1,5 +1,5 @@
 ---
-description: Переменная- \_ член m бкомплетенотифиед является логическим флагом, указывающим, отправил ли ПИН-код \_ событие завершения EC в Диспетчер графа фильтров.
+description: '\_переменная члена m бкомплетенотифиед является логическим флагом, указывающим, отправил ли пин-код \_ событие завершения EC в фильтр Graph Manager.'
 ms.assetid: c0ac19ee-68a4-4e93-97fb-a5298ec283c1
 title: 'Элемент Крендерединпутпин:: m_bCompleteNotified (Амекстра. h)'
 ms.topic: reference
@@ -16,16 +16,16 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 0fd86edf44a02902869c545d2536364ccbd98230
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.openlocfilehash: 99cd5f68ecb960c16828f35e1fc42e4f57525948e10f896e38a0930af58a2b81
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105657466"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120107914"
 ---
 # <a name="crenderedinputpinm_bcompletenotified-member"></a>Элемент Крендерединпутпин:: m \_ бкомплетенотифиед
 
-`m_bCompleteNotified`Переменная-член является логическим флагом, указывающим, отправил ли ПИН-код событие [**\_ завершения EC**](ec-complete.md) в Диспетчер графа фильтров.
+`m_bCompleteNotified`переменная-член является логическим флагом, указывающим, отправил ли пин-код событие [**\_ завершения EC**](ec-complete.md) в фильтр Graph Manager.
 
 ## <a name="syntax"></a>Синтаксис
 
@@ -42,12 +42,12 @@ BOOL m_bCompleteNotified;
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Амекстра. h (включение Streams. h)</dt> </dl>                                                                                   |
+| Заголовок<br/>  | <dl> <dt>амекстра. h (включает Потоки. h)</dt> </dl>                                                                                   |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

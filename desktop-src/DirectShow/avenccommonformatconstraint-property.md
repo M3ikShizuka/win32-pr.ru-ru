@@ -4,12 +4,12 @@ ms.assetid: 3d316561-352f-44f9-9978-01301a68e7b6
 title: Свойство Авенккоммонформатконстраинт (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 71e79536959aaaa0c50403bdd79d005bd48c729e
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: 2108255ca6f42596fe707c66b02e0e4dd38baa5b0f788073adff8cdb4677dd16
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "105662045"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120108689"
 ---
 # <a name="avenccommonformatconstraint-property"></a>Авенккоммонформатконстраинт, свойство
 
@@ -49,23 +49,23 @@ ms.locfileid: "105662045"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Приложения могут задать для этого свойства значение, определяющее целевой формат. Кодировщики также могут возвращать это свойство как возможность.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Приложения Windows 2000 Professional \[ классические приложения \| UWP\]<br/>                     |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows 2000 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 2000 Professional приложения \[ UWP для классических приложений \|\]<br/>                     |
+| Минимальная версия сервера<br/> | \[приложения UWP для классических приложений Windows 2000 \|\]<br/>                           |
+| Заголовок<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: Группа меню организует связанные ко�
 ms.assetid: 5454f2a3-275b-47f4-ae97-d10dd12da5ff
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9862e78cbedf84b92c7540bec4de58288af5c9ef
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 6f734b852df94bf953ccc8b89581da0253e070f33e9af6bec516dd4c923bd6f4
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "103987777"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119933302"
 ---
 # <a name="menu-group"></a>Группа меню
 
@@ -17,7 +17,7 @@ ms.locfileid: "103987777"
 
 -   [Введение](#introduction)
 -   [Свойства группы меню](#menu-group-properties)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="introduction"></a>Введение
 
@@ -115,7 +115,7 @@ ms.locfileid: "103987777"
 > [!Note]  
 > В некоторых случаях свойство можно получить с помощью метода [**иуифрамеворк:: жетуикоммандпроперти**](/windows/desktop/api/uiribbon/nf-uiribbon-iuiframework-getuicommandproperty) и задать с помощью метода [**Иуифрамеворк:: сетуикоммандпроперти**](/windows/desktop/api/uiribbon/nf-uiribbon-iuiframework-setuicommandproperty) .
 
- 
+ 
 
 В следующей таблице перечислены ключи свойств, связанные с элементом управления группы меню.
 
@@ -131,18 +131,18 @@ ms.locfileid: "103987777"
 
 
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
-[Библиотека элементов управления платформы Windows ленты](windowsribbon-controls-entry.md)
+[Windows Библиотека элементов управления платформы ленты](windowsribbon-controls-entry.md)
 </dt> <dt>
 
 [**Менуграуп, элемент разметки**](windowsribbon-element-menugroup.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

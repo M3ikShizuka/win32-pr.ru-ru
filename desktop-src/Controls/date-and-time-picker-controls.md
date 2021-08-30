@@ -4,12 +4,12 @@ description: Элемент управления "Выбор даты и вре�
 ms.assetid: 6749c3ae-2c52-4183-ac4e-68ca7ebf1e13
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 182381c40b636683255e95ba0680a1245ef0adf3
-ms.sourcegitcommit: 0f7a8198bacd5493ab1e78a9583c7a3578794765
+ms.openlocfilehash: 0f267d5cc5fdfe3000988ec7696442db736cc30d098b20d9514a098f6a26e42d
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "110424224"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119920503"
 ---
 # <a name="about-date-and-time-picker-controls"></a>Сведения об элементах управления "Выбор даты и времени"
 
@@ -24,7 +24,7 @@ ms.locfileid: "110424224"
     -   [Строки форматирования](#format-strings)
     -   [Поля обратного вызова](#callback-fields)
 -   [Сообщения об элементах управления средства выбора даты и времени](#date-and-time-picker-control-notification-messages)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 > [!Note]
 > Windows не поддерживает даты до 1601. Дополнительные сведения см. в разделе Структура [**fileTime**](/windows/desktop/api/minwinbase/ns-minwinbase-filetime) .

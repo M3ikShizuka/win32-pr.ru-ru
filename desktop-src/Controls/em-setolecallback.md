@@ -3,7 +3,7 @@ title: Сообщение EM_SETOLECALLBACK (RichEdit. h)
 description: Предоставляет форматируемый элемент управления "поле ввода", объект Иричедитолекаллбакк, используемый элементом управления для получения связанных с OLE ресурсов и информации от клиента.
 ms.assetid: bd1f8048-214c-4ac6-b826-bedabb1aaee5
 keywords:
-- Элементы управления Windows для EM_SETOLECALLBACK сообщений
+- элементы управления Windows сообщений EM_SETOLECALLBACK
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: edfc54db112bba42fc3d51b2e328fc7641990c7f
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 9a7b16494bf0e34606809d5b4670a05d4ae3c60a6ea49c8103688c6e09676c98
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103988824"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120048304"
 ---
 # <a name="em_setolecallback-message"></a>\_Сообщение СЕТОЛЕКАЛЛБАКК EM
 
@@ -49,15 +49,15 @@ ms.locfileid: "103988824"
 
 Если операция завершается ошибкой, возвращаемое значение равно нулю.
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>RichEdit. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>RichEdit. h</dt> </dl> |
 
 
 

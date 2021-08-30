@@ -1,15 +1,15 @@
 ---
-description: Во время установки установщик Windows установщик может выполнить поиск записи реестра и создать свойство, содержащее значение реестра.
+description: во время установки установщик Windows установщик может выполнить поиск записи реестра и создать свойство, содержащее значение реестра.
 ms.assetid: 3a663fc7-cdcf-4ac3-8251-836ba0d3cc11
 title: Поиск записи реестра и создание свойства, содержащего значение реестра
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 82bd7572c0176f4870eed199800715190d9bbbf9
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: 57a1d02c7c39b6de07ddc0e76d202420386ae2c55d3f70106cd88432a53ec854
+ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103896806"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120041124"
 ---
 # <a name="searching-for-a-registry-entry-and-creating-a-property-holding-the-value-of-the-registry"></a>Поиск записи реестра и создание свойства, содержащего значение реестра
 
