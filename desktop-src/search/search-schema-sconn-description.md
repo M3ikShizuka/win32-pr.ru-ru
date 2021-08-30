@@ -1,19 +1,19 @@
 ---
-description: Необязательный параметр <description> элемент задает описание для соединителя поиска. Этот элемент не имеет дочерних элементов и не имеет атрибутов.
+description: Необязательный &lt; &gt; элемент Description задает описание для этого соединителя поиска. Этот элемент не имеет дочерних элементов и не имеет атрибутов.
 ms.assetid: 0e9d806c-7dfd-4e7f-8843-15a4e22f317f
 title: Элемент Description (схема соединителя поиска)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8a9d82fd6ad3ae45c4a8c3700c4822387a81880d
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.openlocfilehash: b0fd7314f29fb6a402416d861069cf048ecfac0c
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104342922"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122882490"
 ---
 # <a name="description-element-search-connector-schema"></a>Элемент Description (схема соединителя поиска)
 
-Необязательный параметр <description> элемент задает описание для соединителя поиска. Этот элемент не имеет дочерних элементов и не имеет атрибутов.
+Необязательный &lt; &gt; элемент Description задает описание для этого соединителя поиска. Этот элемент не имеет дочерних элементов и не имеет атрибутов.
 
 ## <a name="syntax"></a>Синтаксис
 

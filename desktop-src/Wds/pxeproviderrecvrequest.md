@@ -3,7 +3,7 @@ title: Функция обратного вызова Пксепровидерр
 description: Вызывается при получении запроса от клиента.
 ms.assetid: 704972d5-177a-490e-881f-d2b3025babda
 keywords:
-- Функция обратного вызова Пксепровидеррекврекуест службы развертывания Windows
+- функция обратного вызова пксепровидеррекврекуест Windows службах развертывания
 topic_type:
 - apiref
 api_name:
@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: a173c6ba356d98dfd44beb64033f491b9c200d58
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 6dc2ef36c26e667e55870d38f450891e9e91134c297d09ba12157452e4d01442
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104415540"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120098654"
 ---
 # <a name="pxeproviderrecvrequest-callback-function"></a>Функция обратного вызова Пксепровидеррекврекуест
 
@@ -111,26 +111,26 @@ DWORD PXEAPI PxeProviderRecvRequest(
 
 Если поставщик успешно обработал запрос клиента, обратный вызов должен вернуть **ошибку, \_** а **\_ \_ действие загрузки PXE** , на которое указывает параметр *пактион* , содержит соответствующее действие загрузки для этого запроса. Если поставщик будет обрабатывать клиентский запрос асинхронно, обратный вызов должен возвращать **ошибку \_ ввода-вывода \_ в ожидании** и вызывать функцию [**пксеасинкреквдоне**](/windows/desktop/api/WdsPxe/nf-wdspxe-pxeasyncrecvdone) при обработке запроса клиента. В случае сбоя должен возвращаться соответствующий код ошибки, и система продолжит работу, как если бы было указано действие **PXE \_ BA « \_ отклонено** загрузка».
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Тип пакетов, отображаемых поставщиком, можно изменить с помощью функции [**пксепровидерсетаттрибуте**](/windows/desktop/api/WdsPxe/nf-wdspxe-pxeprovidersetattribute) .
 
-## <a name="requirements"></a>Требования
+## <a name="requirements"></a>Requirements (Требования)
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                          |
-| Минимальная версия сервера<br/> | Windows Server 2008, Windows Server 2003 с пакетом обновления 2 (SP2), \[ только классические приложения\]<br/> |
+| Минимальная версия сервера<br/> | Windows сервер 2008, Windows server 2003 с пакетом обновления 2 (SP2), \[ только классические приложения\]<br/> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
-[Функции сервера служб развертывания Windows](windows-deployment-services-server-functions.md)
+[Windows Функции сервера служб развертывания](windows-deployment-services-server-functions.md)
 </dt> <dt>
 
 [**пксерегистеркаллбакк**](/windows/desktop/api/WdsPxe/nf-wdspxe-pxeregistercallback)

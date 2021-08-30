@@ -4,12 +4,12 @@ ms.assetid: 036fb0ee-8165-41a3-b41a-2e9bf035a6a6
 title: Декодер AAC
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1b9990965092c04b6ddc9e7b6c7b4d26cf577937
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.openlocfilehash: 9daf50196029f484264ddb33c8e10a25e61cb0dc
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122483110"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122885383"
 ---
 # <a name="aac-decoder"></a>Декодер AAC
 
@@ -109,11 +109,11 @@ Microsoft Media Foundation декодер AAC — это [Media Foundation пр�
 
 Декодер поддерживает до 6 каналов звука. Для каждой конфигурации динамика декодер ожидает, чтобы AAC синтаксические элементы отображались в определенном порядке. В следующей таблице перечислены поддерживаемые конфигурации динамиков. В третьем столбце таблицы перечислены ожидаемые синтаксические элементы и их порядок, используя следующую нотацию:
 
--   <SCE1>: Single_channel_element (SCE), связанный с динамиком переднего плана.
--   <SCE2>: SCE, связанный с докладчиком центра.
--   <CPE1>: Channel_pair_element (CPE), связанный с передними динамиками.
--   <CPE2>: CPE, связанный с задними (или боковыми) динамиками
--   <LFE>: Lfe_channel_element (НИЗКОЧАСТОТный).
+-   &lt;SCE1 &gt; : single_channel_element (SCE), связанный с динамиком переднего плана.
+-   &lt;SCE2 &gt; : SCE, связанный с докладчиком центра.
+-   &lt;CPE1 &gt; : channel_pair_element (CPE), связанный с передними динамиками.
+-   &lt;CPE2 &gt; : CPE, связанный с динамиками сзади (или Side)
+-   &lt;НИЗКОЧАСТОТный &gt; : lfe_channel_element (низкочастотный).
 
 Дополнительные сведения об этих синтаксических элементах см. в статье ISO/IEC 13818-7.
 
@@ -121,14 +121,14 @@ Microsoft Media Foundation декодер AAC — это [Media Foundation пр�
 
 | Конфигурация       | Маска канала                                                                                                                                                              | AAC синтаксические элементы                          |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| Mono                | **SPEAKER_FRONT_CENTER**                                                                                                                                                | <SCE1>                                    |
-| Стерео или Dual Mono | **SPEAKER_FRONT_LEFT** \| **SPEAKER_FRONT_RIGHT**                                                                                                                     | <CPE1>                                    |
-| 2/1                 | **SPEAKER_FRONT_LEFT** \| **SPEAKER_FRONT_RIGHT** \| **SPEAKER_BACK_CENTER**                                                                                        | <CPE1><SCE1>                        |
-| 2/2                 | **SPEAKER_FRONT_LEFT** \| **SPEAKER_FRONT_RIGHT** \| **SPEAKER_BACK_LEFT** \| **SPEAKER_BACK_RIGHT**                                                              | <CPE1><CPE2>                        |
-| 3/0                 | **SPEAKER_FRONT_LEFT** \| **SPEAKER_FRONT_RIGHT** \| **SPEAKER_FRONT_CENTER**                                                                                       | <SCE1><CPE1>                        |
-| 3/1                 | **SPEAKER_FRONT_LEFT** \| **SPEAKER_FRONT_RIGHT** \| **SPEAKER_FRONT_CENTER** \| **SPEAKER_BACK_CENTER**                                                          | <SCE1><CPE1><SCE2>            |
-| 3/2                 | **SPEAKER_FRONT_LEFT** \| **SPEAKER_FRONT_RIGHT** \| **SPEAKER_FRONT_CENTER** \| **SPEAKER_BACK_LEFT** \| **SPEAKER_BACK_RIGHT**                                | <SCE1><CPE1><CPE2>            |
-| 3/2 + НИЗКОЧАСТОТНЫЙ           | **SPEAKER_FRONT_LEFT** \| **SPEAKER_FRONT_RIGHT** \| **SPEAKER_FRONT_CENTER** \| **SPEAKER_LOW_FREQUENCY** \| **SPEAKER_BACK_LEFT** \| **SPEAKER_BACK_RIGHT** | <SCE1><CPE1><CPE2><LFE> |
+| Mono                | **SPEAKER_FRONT_CENTER**                                                                                                                                                | &lt;SCE1&gt;                                    |
+| Стерео или Dual Mono | **SPEAKER_FRONT_LEFT** \| **SPEAKER_FRONT_RIGHT**                                                                                                                     | &lt;CPE1&gt;                                    |
+| 2/1                 | **SPEAKER_FRONT_LEFT** \| **SPEAKER_FRONT_RIGHT** \| **SPEAKER_BACK_CENTER**                                                                                        | &lt;CPE1 &gt; &lt; SCE1&gt;                        |
+| 2/2                 | **SPEAKER_FRONT_LEFT** \| **SPEAKER_FRONT_RIGHT** \| **SPEAKER_BACK_LEFT** \| **SPEAKER_BACK_RIGHT**                                                              | &lt;CPE1 &gt; &lt; CPE2&gt;                        |
+| 3/0                 | **SPEAKER_FRONT_LEFT** \| **SPEAKER_FRONT_RIGHT** \| **SPEAKER_FRONT_CENTER**                                                                                       | &lt;SCE1 &gt; &lt; CPE1&gt;                        |
+| 3/1                 | **SPEAKER_FRONT_LEFT** \| **SPEAKER_FRONT_RIGHT** \| **SPEAKER_FRONT_CENTER** \| **SPEAKER_BACK_CENTER**                                                          | &lt;SCE1 &gt; &lt; CPE1 &gt; &lt; SCE2&gt;            |
+| 3/2                 | **SPEAKER_FRONT_LEFT** \| **SPEAKER_FRONT_RIGHT** \| **SPEAKER_FRONT_CENTER** \| **SPEAKER_BACK_LEFT** \| **SPEAKER_BACK_RIGHT**                                | &lt;SCE1 &gt; &lt; CPE1 &gt; &lt; CPE2&gt;            |
+| 3/2 + НИЗКОЧАСТОТНЫЙ           | **SPEAKER_FRONT_LEFT** \| **SPEAKER_FRONT_RIGHT** \| **SPEAKER_FRONT_CENTER** \| **SPEAKER_LOW_FREQUENCY** \| **SPEAKER_BACK_LEFT** \| **SPEAKER_BACK_RIGHT** | &lt;SCE1 &gt; &lt; CPE1 &gt; &lt; CPE2 &gt; &lt; низкочастотный&gt; |
 
 
 
@@ -232,7 +232,7 @@ Microsoft Media Foundation декодер AAC — это [Media Foundation пр�
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

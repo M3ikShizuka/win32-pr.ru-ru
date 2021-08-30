@@ -8,12 +8,12 @@ keywords:
 - Применение анимации DirectComposition
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ecba1bde3c430acbb49f640dc7611452f0967746
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.openlocfilehash: 03142fbf536c13a3a47b93488779a71688e6b018
+ms.sourcegitcommit: 4e94fc75fad7b2a0f3c92a26f97e89924e59b7a9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122474230"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "122787190"
 ---
 # <a name="how-to-apply-animations"></a>Как применять анимацию
 
@@ -36,7 +36,7 @@ ms.locfileid: "122474230"
 -   Microsoft Win32
 -   Модель COM
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="step-1-initialize-directcomposition-objects"></a>Шаг 1. Инициализация объектов DirectComposition
 
@@ -94,7 +94,7 @@ hr = m_pDevice->CreateEffectGroup(&m_pEffectGroup);
 
 
 
-<span codelanguage="ManagedCPlusPlus"></span>
+
 
 
 | C++ | 
@@ -102,7 +102,7 @@ hr = m_pDevice->CreateEffectGroup(&m_pEffectGroup);
 | <pre><code>if (SUCCEEDED(hr)){    hr = m_pEffectGroup-&gt;SetOpacity(m_pFadeInAnimation);}</code></pre> | 
 
 
-<span codelanguage="ManagedCPlusPlus"></span>
+
 
 
 | C++ | 

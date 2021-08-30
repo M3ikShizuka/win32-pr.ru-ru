@@ -4,16 +4,16 @@ description: Определения некоторых типов перемен
 ms.assetid: 2d87aeee-6fcb-4837-b091-6a9def8a9acb
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d656add1b177b50e24b30a11d9fe008dcdfdf9bc
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: 9af0af150f60ba2f9ba3871dda44308105e857977cc43b472f6ce698761dbc8a
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "103792865"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120127614"
 ---
 # <a name="snmp-variable-types-and-request-pdu-types"></a>Типы переменных SNMP и запросы типов PDU
 
-\[Протокол SNMP доступен для использования в операционных системах, указанных в разделе требования. В последующих версиях он может быть изменен или недоступен. Вместо этого используйте [Служба удаленного управления Windows](/windows/desktop/WinRM/portal), который является реализацией Microsoft WS-Man.\]
+\[Протокол SNMP доступен для использования в операционных системах, указанных в разделе требования. В последующих версиях он может быть изменен или недоступен. вместо этого используйте [служба удаленного управления Windows](/windows/desktop/WinRM/portal), который является реализацией Microsoft WS-Man.\]
 
 Определения некоторых типов переменных SNMP и типов PDU запросов изменились. Файл SNMP. h сопоставляет старые типы с соответствующими новыми типами.
 
@@ -32,7 +32,7 @@ ms.locfileid: "103792865"
 
 
 
- 
+ 
 
 ## <a name="modified-snmp-pdu-request-types"></a>Измененные типы запросов PDU SNMP
 
@@ -48,8 +48,8 @@ ms.locfileid: "103792865"
 
 
 
- 
+ 
 
- 
+ 
 
- 
+ 

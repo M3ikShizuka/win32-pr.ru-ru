@@ -15,12 +15,12 @@ api_type:
 - COM
 api_location: ''
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 8c6854b23a7399abb12f8eebb37c03aacde9ef11
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.openlocfilehash: cdbdff7255b621eaab59cfbf38cb577a6e8c0331
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122983187"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122481780"
 ---
 # <a name="extensible-storage-engine-error-codes"></a>коды ошибок расширенного механизма служба хранилища
 
@@ -34,7 +34,7 @@ _**Применимо к:** Windows | Windows Сервером_
 Значение [JET_ERR](./jet-err.md) , равное нулю, должно интерпретироваться как Success.
 
 
-| <p>Успех</p> | <p>Описание</p> | 
+| <p>Успешное завершение</p> | <p>Описание</p> | 
 |----------------|--------------------|
 | <p>JET_errSuccess 0</p> | <p>Функция выполнена успешно.</p> | 
 
@@ -423,11 +423,7 @@ _**Применимо к:** Windows | Windows Сервером_
 ### <a name="requirements"></a>Требования
 
 
-| Требование | Применение |
-|------------|----------|
-| <p><strong>Клиент</strong></p> | <p>требуется Windows Vista, Windows XP или Windows 2000 Professional.</p> | 
-| <p><strong>Server</strong></p> | <p>требуется Windows server 2008, Windows server 2003 или сервер Windows 2000.</p> | 
-| <p><strong>Header</strong></p> | <p>Объявлено в ESENT. h.</p> | 
+| | | <p><strong>Клиент</strong></p> | <p>требуется Windows Vista, Windows XP или Windows 2000 Professional.</p> | | <p><strong>Сервер</strong></p> | <p>требуется Windows server 2008, Windows server 2003 или сервер Windows 2000.</p> | | <p><strong>Header</strong></p> | <p>Объявлено в ESENT. h.</p> | 
 
 
 

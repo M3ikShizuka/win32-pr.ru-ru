@@ -4,12 +4,12 @@ description: В этом разделе приводятся сведения о
 ms.assetid: 3ec8b5c2-01e6-4fbe-ada7-43898db63bbe
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f4781aeead4fc35988e28927dd434525a1add483a6e66a9b2fdf15cdcf474d70
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 9267005305fa001ff1c2867968048a1915c58120
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120096364"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122480780"
 ---
 # <a name="migrating-to-direct3d-11"></a>Переход на Direct3D 11
 
@@ -109,46 +109,14 @@ API Direct3D 11 основан на усовершенствованиях ин�
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>решение 10/10.1</th>
-<th>11 решение</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Интерфейсы API отражения HLSL (D3D10Compile *, D3DX10Compile*) и шейдер</td>
-<td>D3DCompiler (см. D3DCompiler. h)
-<blockquote>
-[!Note]<br />
-для приложений магазина Windows api- <a href="/windows/desktop/direct3dhlsl/dx-graphics-d3dcompiler-reference">интерфейсы D3DCompiler</a> поддерживаются только для разработки, но не для развертывания.
-</blockquote>
-<br/></td>
-</tr>
-<tr class="even">
-<td>Эффекты 10</td>
-<td><a href="https://github.com/Microsoft/FX11">Эффекты 11</a> доступны в качестве общего источника в сети.
-<blockquote>
-[!Note]<br />
-это решение не подходит для Windows приложений магазина, поскольку оно требует использования <a href="/windows/desktop/direct3dhlsl/dx-graphics-d3dcompiler-reference">api-интерфейсов D3DCompiler</a> во время выполнения (развертывание).
-</blockquote>
-<br/></td>
-</tr>
-<tr class="odd">
-<td>D3DX9/D3DX10 Math</td>
-<td><a href="/windows/desktop/dxmath/directxmath-portal">DirectXMath</a></td>
-</tr>
-<tr class="even">
-<td>D3DX10</td>
-<td>D3DX11 в устаревшей версии пакета SDK DirectX <a href="https://github.com/Microsoft/DirectXTex">директкстекс</a>, <a href="https://github.com/Microsoft/DirectXTK">директкстк</a>и <a href="https://github.com/Microsoft/DirectXMesh">директксмеш</a> предлагают альтернативы многим технологиям в устаревших библиотеках D3DX10 и D3DX11.<br/> <a href="/windows/desktop/Direct2D/direct2d-portal">Direct2D</a> и <a href="/windows/desktop/DirectWrite/direct-write-portal">DirectWrite</a> предлагают высококачественную поддержку для отрисовки линий и шрифтов в стиле.<br/></td>
-</tr>
-</tbody>
-</table>
+
+| решение 10/10.1 | 11 решение | 
+|------------------|-------------|
+| Интерфейсы API отражения HLSL (D3D10Compile *, D3DX10Compile*) и шейдер | D3DCompiler (см. D3DCompiler. h)<blockquote>[!Note]<br />для приложений магазина Windows api- <a href="/windows/desktop/direct3dhlsl/dx-graphics-d3dcompiler-reference">интерфейсы D3DCompiler</a> поддерживаются только для разработки, но не для развертывания.</blockquote><br /> | 
+| Эффекты 10 | <a href="https://github.com/Microsoft/FX11">Эффекты 11</a> доступны в качестве общего источника в сети.<blockquote>[!Note]<br />это решение не подходит для Windows приложений магазина, поскольку оно требует использования <a href="/windows/desktop/direct3dhlsl/dx-graphics-d3dcompiler-reference">api-интерфейсов D3DCompiler</a> во время выполнения (развертывание).</blockquote><br /> | 
+| D3DX9/D3DX10 Math | <a href="/windows/desktop/dxmath/directxmath-portal">DirectXMath</a> | 
+| D3DX10 | D3DX11 в устаревшей версии пакета SDK DirectX <a href="https://github.com/Microsoft/DirectXTex">директкстекс</a>, <a href="https://github.com/Microsoft/DirectXTK">директкстк</a>и <a href="https://github.com/Microsoft/DirectXMesh">директксмеш</a> предлагают альтернативы многим технологиям в устаревших библиотеках D3DX10 и D3DX11.<br /><a href="/windows/desktop/Direct2D/direct2d-portal">Direct2D</a> и <a href="/windows/desktop/DirectWrite/direct-write-portal">DirectWrite</a> предлагают высококачественную поддержку для отрисовки линий и шрифтов в стиле.<br /> | 
+
 
 
 

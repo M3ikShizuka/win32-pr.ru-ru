@@ -4,12 +4,12 @@ description: Эти функции задают режимы перемещен�
 ms.assetid: c14349c0-ff50-441f-b9fd-8b0f5114fd8a
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c3684adc58ab2be02eef03a56581593f22aa3294
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 752000a1c25ae46724aeb91a2c705226ac6ac4715e3c718dddc0e671d46d6d58
+ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104332203"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "120128054"
 ---
 # <a name="glpixeltransfer-functions"></a>Функции Глпикселтрансфер
 
@@ -18,9 +18,9 @@ ms.locfileid: "104332203"
 -   [**глпикселтрансферф**](glpixeltransferf.md)
 -   [**глпикселтрансфери**](glpixeltransferi.md)
 
- 
+ 
 
- 
+ 
 
 
 

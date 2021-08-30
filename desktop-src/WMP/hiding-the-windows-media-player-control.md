@@ -28,16 +28,16 @@ keywords:
 - скрытие элемента управления ActiveX проигрыватель Windows Media
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2fcb0b29bbbc1b2eb978c5bd9f29a58aa02bf629d5c6befe9f1dc68bbc92d280
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5cf7c25f75538f1e20a08ef252b20212df48a565
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118339185"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122882263"
 ---
 # <a name="hiding-the-windows-media-player-control"></a>скрытие элемента управления проигрыватель Windows Media
 
-объект проигрыватель Windows Media ActiveX внедряется на веб-страницу с помощью элемента object. в отличие от более ранних версий, элемент OBJECT, определяющий проигрыватель Windows Media, должен быть помещен в раздел BODY веб-страницы между <BODY> и </BODY> Тэги. размещение объекта проигрыватель Windows Media ActiveX в разделе HEAD веб-страницы для скрытия пользовательского интерфейса может привести к непредвиденным результатам.
+объект проигрыватель Windows Media ActiveX внедряется на веб-страницу с помощью элемента object. в отличие от более ранних версий, элемент OBJECT, определяющий проигрыватель Windows Media, должен быть помещен в раздел body веб-страницы между &lt; телом &gt; и </BODY> Тэги. размещение объекта проигрыватель Windows Media ActiveX в разделе HEAD веб-страницы для скрытия пользовательского интерфейса может привести к непредвиденным результатам.
 
 если вы поместили проигрыватель Windows Media ActiveX элемент управления в раздел BODY веб-страницы, отобразится пользовательский интерфейс элемента управления. Если вы не хотите, чтобы он отображался, и хотите создать собственный пользовательский интерфейс, установите атрибуты Height и Width элемента OBJECT равными нулю.
 

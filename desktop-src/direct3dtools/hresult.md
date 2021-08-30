@@ -17,12 +17,12 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 3d5419feb0acb5967132fbb804a9bbc11bfa4248
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.openlocfilehash: ac0d209a4f3890d7a0a2a0aad7232f9d19abf4e2
+ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "104537328"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "122622500"
 ---
 # <a name="span-idvspixenginehresultspanhresult-enumeration"></a><span id="vspixengine.hresult"></span>Перечисление HRESULT
 
@@ -71,7 +71,7 @@ ms.locfileid: "104537328"
 Пользовательское значение HRESULT, которое указывает, что DirectComposition используется (захват DirectComposition не поддерживается).
 
 <span id="PIX_E_USING_DIRECTWRITE"></span><span id="pix_e_using_directwrite"></span>**PIX \_ E \_ с использованием \_ DIRECTWRITE**  
-Пользовательское значение HRESULT, которое указывает, что DirectWrite используется (захват DirectWrite не поддерживается).
+пользовательское значение HRESULT, которое указывает, что DirectWrite используется (захват DirectWrite не поддерживается).
 
 <span id="PIX_E_USING_D3D9"></span><span id="pix_e_using_d3d9"></span>**PIX \_ E \_ с использованием \_ d3d9**  
 Пользовательское значение HRESULT, которое указывает, что Direct3D9 используется (захват Direct3D9 не поддерживается в Windows 10).
@@ -88,7 +88,7 @@ ms.locfileid: "104537328"
 <span id="PIX_E_DISABLE_SPY"></span><span id="pix_e_disable_spy"></span>**PIX \_ E \_ Отключить \_ Spy**  
 
 <span id="PIX_E_WIN8LOG_ON_WIN7"></span><span id="pix_e_win8log_on_win7"></span>**PIX \_ E \_ WIN8LOG \_ в \_ win7**  
-Пользовательское значение HRESULT, указывающее, что vsglog Windows 8 невозможно воспроизвести в Windows 7.
+пользовательское значение HRESULT, указывающее, что Windows 8 vsglog невозможно воспроизвести в Windows 7.
 
 <span id="PIX_E_BUILD_SHADER_TRACE"></span><span id="pix_e_build_shader_trace"></span>**\_ \_ \_ Трассировка шейдера сборки PIX E \_**  
 Пользовательское значение HRESULT, указывающее, что при построении трассировки шейдера произошла ошибка.
@@ -311,7 +311,7 @@ ms.locfileid: "104537328"
 
 ## <a name="requirements"></a>Требования
 
-<table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td><p>Header</p></td><td>Вспиксенгине. h</td></tr></tbody></table>
+<table><colgroup><col  /><col  /></colgroup><tbody><tr class="odd"><td><p>Заголовок</p></td><td>Вспиксенгине. h</td></tr></tbody></table>
 
  
 

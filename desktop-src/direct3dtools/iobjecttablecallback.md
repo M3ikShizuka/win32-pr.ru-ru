@@ -17,18 +17,18 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 81d5533e5015d532ea7186dbd81321d9d42bb418
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.openlocfilehash: 0af1f4332f97dd0a708d37611d7a9d1c111af734
+ms.sourcegitcommit: 4e94fc75fad7b2a0f3c92a26f97e89924e59b7a9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122622490"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "122786490"
 ---
 # <a name="span-idvspixengineiobjecttablecallbackspaniobjecttablecallback-interface"></a><span id="vspixengine.iobjecttablecallback"></span>Интерфейс Иобжекттаблекаллбакк
 
 Обратный вызов для возврата данных таблицы объектов.
 
-## <a name="members"></a>Участники
+## <a name="members"></a>Элементы
 
 Интерфейс **иобжекттаблекаллбакк** наследует от интерфейса [**IUnknown**](/windows/desktop/api/unknwn/nn-unknwn-iunknown) . **Иобжекттаблекаллбакк** также имеет следующие типы членов:
 
@@ -38,7 +38,7 @@ ms.locfileid: "122622490"
 
 Интерфейс **иобжекттаблекаллбакк** содержит следующие методы.
 
-<table><colgroup><col  /><col  /></colgroup><thead><tr class="header"><th style="text-align: left;">Метод</th><th style="text-align: left;">Описание</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><a href="/windows/desktop/direct3dtools/iobjecttablecallback-getsupportedcolumns-dword-objecttablecolumnid-arr-bstr-arr"><strong>жетсуппортедколумнс</strong></a></td><td style="text-align: left;"><p>Возвращает сведения о том, какие столбцы (типы данных объектов) поддерживаются таблицей объектов.</p></td></tr><tr class="even"><td style="text-align: left;"><a href="/windows/desktop/direct3dtools/iobjecttablecallback-resultcallback-dword-dword-dword-variant-arr"><strong>ресулткаллбакк</strong></a></td><td style="text-align: left;"><p>Функция обратного вызова, используемая для уведомления узла о данных таблицы объектов.</p></td></tr></tbody></table>
+<table><colgroup><col  /><col  /></colgroup><thead><tr class="header"><th >Метод</th><th >Описание</th></tr></thead><tbody><tr class="odd"><td ><a href="/windows/desktop/direct3dtools/iobjecttablecallback-getsupportedcolumns-dword-objecttablecolumnid-arr-bstr-arr"><strong>жетсуппортедколумнс</strong></a></td><td ><p>Возвращает сведения о том, какие столбцы (типы данных объектов) поддерживаются таблицей объектов.</p></td></tr><tr class="even"><td ><a href="/windows/desktop/direct3dtools/iobjecttablecallback-resultcallback-dword-dword-dword-variant-arr"><strong>ресулткаллбакк</strong></a></td><td ><p>Функция обратного вызова, используемая для уведомления узла о данных таблицы объектов.</p></td></tr></tbody></table>
 
  
 

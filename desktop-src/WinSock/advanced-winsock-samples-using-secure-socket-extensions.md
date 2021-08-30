@@ -4,12 +4,12 @@ ms.assetid: 9c429363-f9bb-4394-89be-f87507f5cbdd
 title: Расширенные примеры Winsock с использованием расширений SSL
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2ead38a7e62be527e91474ac921803327647ca6cefd1ec68778d03e1c68c1bf3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 477ae91194ef09469cfd857ac36aebabbd4d0f53
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119412174"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122886231"
 ---
 # <a name="advanced-winsock-samples-using-secure-socket-extensions"></a>Расширенные примеры Winsock с использованием расширений SSL
 
@@ -47,7 +47,7 @@ ms.locfileid: "119412174"
 
 Затем на компьютере а запустите TCP-клиент, выполнив в командной строке следующую команду:
 
-**stcpclient.exe <полное DNS-имя-для-Machine-B>**
+**stcpclient.exe &lt; полное DNS-имя-для-Machine-B&gt;**
 
 На этом этапе подключение должно быть установлено безопасно.
 

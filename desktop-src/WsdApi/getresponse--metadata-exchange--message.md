@@ -4,12 +4,12 @@ ms.assetid: aff05317-35db-4ea6-9692-1e09e4682fe7
 title: сообщение о выклике (метаданные Exchange)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 47141228fec0ae528e33e41f1bdf65db8325e5c2
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.openlocfilehash: 6b22782ae8b00530f6c857d867694be43b32e495
+ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122626310"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122883054"
 ---
 # <a name="getresponse-metadata-exchange-message"></a>сообщение о выклике (метаданные Exchange)
 
@@ -124,29 +124,29 @@ ms.locfileid: "122626310"
 <tr class="header">
 <th>точка фокусировки;</th>
 <th>XML</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>GetResponse</td>
-<td><pre class="syntax" data-space="preserve"><code><wsa:Action>
+<td><pre class="syntax" data-space="preserve"><code>&lt;wsa:Action&gt;
     https://schemas.xmlsoap.org/ws/2004/09/transfer/GetResponse
-</wsa:Action></code></pre></td>
+&lt;/wsa:Action&gt;</code></pre></td>
 <td>Действие SOAP GetResponse определяет сообщение как сообщение с ответом.</td>
 </tr>
 <tr class="even">
 <td>RelatesTo</td>
-<td><pre class="syntax" data-space="preserve"><code><wsa:RelatesTo>
+<td><pre class="syntax" data-space="preserve"><code>&lt;wsa:RelatesTo&gt;
     urn:uuid:027bec45-c37c-466c-936c-68f648abe2bb
-</wsa:RelatesTo></code></pre></td>
+&lt;/wsa:RelatesTo&gt;</code></pre></td>
 <td>Идентификатор сообщения, на которое отвечает устройство. Этот заголовок соответствует идентификатору MessageID в сообщении <a href="get--metadata-exchange--http-request-and-message.md">Get</a> .</td>
 </tr>
 <tr class="odd">
 <td>Адрес</td>
-<td><pre class="syntax" data-space="preserve"><code><wsa:Address>
+<td><pre class="syntax" data-space="preserve"><code>&lt;wsa:Address&gt;
     https://192.168.0.2:5357/37f86d35-e6ac-4241-964f-1d9ae46fb366
-</wsa:Address></code></pre></td>
+&lt;/wsa:Address&gt;</code></pre></td>
 <td>Содержит адрес конечной точки служб, размещенных на этом устройстве.</td>
 </tr>
 </tbody>

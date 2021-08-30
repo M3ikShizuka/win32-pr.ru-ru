@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 15cd4b8a4203e70873f2debdc6f6ef24bfa8c9d4d8876875c4938577c7d964b9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b703677bb4e99f70443c89a8f907fa7abfaaff11
+ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119855404"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122481270"
 ---
 # <a name="dcl_input_sv-sm4---asm"></a>дкл \_ входной \_ ОКП (SM4-ASM)
 
@@ -31,43 +31,13 @@ ms.locfileid: "119855404"
 
 
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Элемент</th>
-<th>Описание</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><span id="vN_.mask_"></span><span id="vn_.mask_"></span><span id="VN_.MASK_"></span>v<em>N [. Маска]</em><br/></td>
-<td>окне Регистр данных вершин. <br/>
-<ul>
-<li><em>N</em> — это целое число, определяющее номер регистра.</li>
-<li><em>[. Mask]</em> — это необязательная маска компонента (. ксизв), указывающая, какие компоненты регистров следует использовать.</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><span id="systemValueName"></span><span id="systemvaluename"></span><span id="SYSTEMVALUENAME"></span><em>системвалуенаме</em><br/></td>
-<td>окне Имя системного значения, являющееся строкой (см. раздел <a href="dx-graphics-hlsl-semantics.md">семантика системного значения</a>) без &quot; &quot; префикса SV_.<br/></td>
-</tr>
-<tr class="odd">
-<td><span id="interpolationMode"></span><span id="interpolationmode"></span><span id="INTERPOLATIONMODE"></span><em>интерполатионмоде</em><br/></td>
-<td>[в] Необязательно. Режим интерполяции, который влияет на способ вычисления значений во время растрирования; режим используется только в шейдере пикселей. Может иметь одно из следующих значений. <br/>
-<ul>
-<li>Константа — не выполнять интерполяцию между значениями регистров.</li>
-<li>линейная — линейная интерполяция между значениями регистра.</li>
-<li>Линеарцентроид — то же, что и линейный, но центроид при множественной выборке.</li>
-<li>Линеарноперспективе — то же, что и линейная, но без исправления перспективы.</li>
-<li>Линеарноперспективецентроид — то же, что и линейная, но без изменений перспективы и центроид при множественной выборки.</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+
+| Элемент | Описание | 
+|------|-------------|
+| <span id="vN_.mask_"></span><span id="vn_.mask_"></span><span id="VN_.MASK_"></span>v<em>N [. Маска]</em><br /> | окне Регистр данных вершин. <br /><ul><li><em>N</em> — это целое число, определяющее номер регистра.</li><li><em>[. Mask]</em> — это необязательная маска компонента (. ксизв), указывающая, какие компоненты регистров следует использовать.</li></ul> | 
+| <span id="systemValueName"></span><span id="systemvaluename"></span><span id="SYSTEMVALUENAME"></span><em>системвалуенаме</em><br /> | окне Имя системного значения, которое является строкой (см. раздел <a href="dx-graphics-hlsl-semantics.md">семантика системного значения</a>) без префикса "SV_".<br /> | 
+| <span id="interpolationMode"></span><span id="interpolationmode"></span><span id="INTERPOLATIONMODE"></span><em>интерполатионмоде</em><br /> | [в] Необязательно. Режим интерполяции, который влияет на способ вычисления значений во время растрирования; режим используется только в шейдере пикселей. Может иметь одно из следующих значений. <br /><ul><li>Константа — не выполнять интерполяцию между значениями регистров.</li><li>линейная — линейная интерполяция между значениями регистра.</li><li>Линеарцентроид — то же, что и линейный, но центроид при множественной выборке.</li><li>Линеарноперспективе — то же, что и линейная, но без исправления перспективы.</li><li>Линеарноперспективецентроид — то же, что и линейная, но без изменений перспективы и центроид при множественной выборки.</li></ul> | 
+
 
 
 
