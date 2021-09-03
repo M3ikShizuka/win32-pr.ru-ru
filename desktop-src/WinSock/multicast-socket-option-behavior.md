@@ -4,12 +4,12 @@ ms.assetid: a411e831-7b28-4ab5-a09a-650db99a7cd5
 title: Поведение параметра сокета многоадресной рассылки
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3367487d12a6c54c8aaf5ce623c717ed229a001875c68a6b782dde0739a328ba
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 460b13fb710e86ef81fb64b48b697f7e73ccf392
+ms.sourcegitcommit: 9942a888f172981e276def0c6b84fb0266fcb02d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118993664"
+ms.lasthandoff: 09/02/2021
+ms.locfileid: "123399770"
 ---
 # <a name="multicast-socket-option-behavior"></a>Поведение параметра сокета многоадресной рассылки
 
@@ -30,7 +30,7 @@ ms.locfileid: "118993664"
 </thead>
 <tbody>
 <tr class="odd">
-<td rowspan="4">IP_ADD_MEMBERSHIP $ {REMOVE} $<br />
+<td rowspan="4">IP_ADD_MEMBERSHIP<br />
 </td>
 <td>IP_ADD_MEMBERSHIP</td>
 <td>WSAEADDRNOTAVAIL</td>
@@ -61,7 +61,7 @@ ms.locfileid: "118993664"
 <td>Выполнение вызовов параметра сокета для группы или группы или исходной пары, не находящихся в списке включения (из-за удаления членства или других), приводит к ошибке.</td>
 </tr>
 <tr class="even">
-<td rowspan="3">IP_ADD_SOURCE_MEMBERSHIP $ {REMOVE} $<br />
+<td rowspan="3">IP_ADD_SOURCE_MEMBERSHIP<br />
 </td>
 <td>IP_ADD_MEMBERSHIP</td>
 <td>WSAEADDRNOTAVAIL</td>
@@ -80,7 +80,7 @@ ms.locfileid: "118993664"
 
 </tr>
 <tr class="odd">
-<td rowspan="2">IP_DROP_SOURCE_MEMBERSHIP $ {REMOVE} $<br />
+<td rowspan="2">IP_DROP_SOURCE_MEMBERSHIP<br />
 </td>
 <td>IP_UNBLOCK_SOURCE</td>
 <td>всаеинвал</td>
@@ -93,7 +93,7 @@ ms.locfileid: "118993664"
 
 </tr>
 <tr class="odd">
-<td rowspan="3">IP_BLOCK_SOURCE $ {REMOVE} $<br />
+<td rowspan="3">IP_BLOCK_SOURCE<br />
 </td>
 <td>IP_BLOCK_SOURCE</td>
 <td>WSAEADDRNOTAVAIL</td>
