@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c918ee81ddac31d697ff3885e04e8cb530cd31a98f842c109f9d281786ee2539
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 549c9328dad3bb04c7e4a46ead6a1aedbe04cfe6
+ms.sourcegitcommit: 8a211d404470a6a2790733ed2894cfaf92bddd70
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119825274"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "123464116"
 ---
 # <a name="float4x4-structure"></a>Структура float4x4
 
@@ -59,15 +59,15 @@ ms.locfileid: "119825274"
 | `float4x4 make_float4x4_rotation_z(float radians)` | Создает матрицу поворота оси z, центрированную по источнику. |
 | `float4x4 make_float4x4_rotation_z(float radians, float3 const& centerPoint)` | Создает матрицу поворота оси z, центрированную по указанной точке. |
 | `float4x4 make_float4x4_from_axis_angle(float3 const& axis, float angle)` | Создает матрицу, которая вращается вокруг произвольного вектора. |
-| `float4x4 make_float4x4_?perspective_field_of_view(float fieldOfView, float aspectRatio, float nearPlaneDistance, float farPlaneDistance)` | Создает матрицу перспективной проекции на основе поля представления с помощью правой правильной системы координат. |
+| `float4x4 make_float4x4_perspective_field_of_view(float fieldOfView, float aspectRatio, float nearPlaneDistance, float farPlaneDistance)` | Создает матрицу перспективной проекции на основе поля представления с помощью правой правильной системы координат. |
 | `float4x4 make_float4x4_perspective(float width, float height, float nearPlaneDistance, float farPlaneDistance)` | Создает матрицу перспективной проекции с использованием правой рукой системы координат. |
-| `float4x4 make_float4x4_?perspective_off_center(float left, float right, float bottom, float top, float nearPlaneDistance, float farPlaneDistance)` | Создает настраиваемую матрицу перспективной проекции с использованием правой рукой системы координат. |
+| `float4x4 make_float4x4_perspective_off_center(float left, float right, float bottom, float top, float nearPlaneDistance, float farPlaneDistance)` | Создает настраиваемую матрицу перспективной проекции с использованием правой рукой системы координат. |
 | `float4x4 make_float4x4_orthographic(float width, float height, float zNearPlane, float zFarPlane)` | Создает матрицу ортогональной проекции с использованием правой рукой системы координат. |
 | `float4x4 make_float4x4_?orthographic_off_center(float left, float right, float bottom, float top, float zNearPlane, float zFarPlane)` | Создает настраиваемую матрицу ортогональной проекции с использованием правой рукой системы координат. |
 | `float4x4 make_float4x4_look_at(float3 const& cameraPosition, float3 const& cameraTarget, float3 const& cameraUpVector)` | Создает матрицу представления с помощью правой правильной системы координат. |
 | `float4x4 make_float4x4_world(float3 const& position, float3 const& forward, float3 const& up)` | Создает матрицу мира с помощью правой правильной системы координат. Это можно использовать для размещения объектов в трехмерном пространстве. |
-| `float4x4 make_float4x4_?from_quaternion(quaternion const& quaternion)` | Создает матрицу вращения из кватерниона. |
-| `float4x4 make_float4x4_?from_yaw_pitch_roll(float yaw, float pitch, float roll)` | Создает матрицу вращения на основе указанного значения нутации, высоты и рулона. |
+| `float4x4 make_float4x4_from_quaternion(quaternion const& quaternion)` | Создает матрицу вращения из кватерниона. |
+| `float4x4 make_float4x4_from_yaw_pitch_roll(float yaw, float pitch, float roll)` | Создает матрицу вращения на основе указанного значения нутации, высоты и рулона. |
 | `float4x4 make_float4x4_shadow(float3 const& lightDirection, plane const& plane)` | Создает матрицу, которая создает проекцию геометрической фигуры на указанной плоскости подобно отбрасыванию тени от указанного источника света. |
 | `float4x4 make_float4x4_reflection(plane const& value)` | Создает матрицу, отражающую систему координат для указанной плоскости. |
 | `bool is_identity(float4x4 const& value)` | Проверяет, является ли это матрицей удостоверений. |
@@ -123,13 +123,13 @@ ms.locfileid: "119825274"
 | `float m43` | В строке 4, столбец 3 матрицы. |
 | `float m44` | В строке 4 столбца 4 матрицы. |
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |-|-|
 | Пространство имен | Windows:: Foundation:: numerics |
-| Заголовок | <dl> <dt>Виндовснумерикс. h</dt> </dl> |
+| Header | <dl> <dt>Виндовснумерикс. h</dt> </dl> |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 [API-интерфейсы виндовснумерикс. h](windowsnumerics-h-apis-portal.md)

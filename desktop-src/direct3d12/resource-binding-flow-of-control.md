@@ -1,27 +1,20 @@
 ---
 title: Общие сведения о привязке ресурсов
-description: Ключом к привязке ресурсов в DirectX 12 являются понятия дескриптора, таблиц дескрипторов, куч дескрипторов и корневой подписи.
+description: Ключами для понимания привязки ресурсов в DirectX 12 являются понятия дескрипторов, таблиц, куч дескрипторов и корневых подписей.
 ms.assetid: 92E100CA-822D-46B1-BD37-FF57C3FB703D
 ms.localizationpriority: high
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2bc7e78255c123777716eddb43d9443e19113b34
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.openlocfilehash: 657e380c58182fee8ad2c82f3af0c6fdd5ffec76
+ms.sourcegitcommit: 8a211d404470a6a2790733ed2894cfaf92bddd70
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "74104178"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "123464107"
 ---
 # <a name="resource-binding-overview"></a>Общие сведения о привязке ресурсов
 
-Ключом к привязке ресурсов в DirectX 12 являются понятия *дескриптора*, *таблиц дескрипторов*, *куч дескрипторов* и *корневой подписи*.
-
--   [Ресурсы и графический конвейер](#resources-and-the-graphics-pipeline)
--   [Типы ресурсов и представления](#resource-types-and-views)
--   [Поток привязки ресурсов элемента управления](#resource-binding-overview)
--   [Выделено](#suballocation)
--   [Освобождение ресурсов](#freeing-resources)
--   [Связанные темы](#related-topics)
+Ключами для понимания привязки ресурсов в DirectX 12 являются понятия дескрипторов, таблиц, куч дескрипторов и корневых подписей.
 
 ## <a name="resources-and-the-graphics-pipeline"></a>Ресурсы и графический конвейер
 
@@ -73,7 +66,7 @@ ms.locfileid: "74104178"
 
 Только первые четыре из этих представлений на самом деле видимы для шейдеров, см. [видимые кучи дескрипторов шейдеров](shader-visible-descriptor-heaps.md) и [видимые кучи дескрипторов без шейдера](non-shader-visible-descriptor-heaps.md).
 
-## <a name="resource-binding-flow-of-control"></a>Поток привязки ресурсов элемента управления
+## <a name="resource-binding-flow-of-control"></a>Поток привязки ресурсов — Управление
 
 Основное внимание уделяется только корневым сигнатурам, корневым дескрипторам, корневым константам, таблицам дескрипторов и кучам дескрипторов. поток логики отрисовки для приложения должен выглядеть следующим образом:
 
@@ -110,15 +103,4 @@ ms.locfileid: "74104178"
 
 ## <a name="related-topics"></a>Связанные темы
 
-<dl> <dt>
-
-[Привязка ресурсов](resource-binding.md)
-</dt> </dl>
-
- 
-
- 
-
-
-
-
+* [Привязка ресурсов](resource-binding.md)
