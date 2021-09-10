@@ -12,12 +12,12 @@ keywords:
 - элемент управления миллисекунд
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d79c93ccc3168fd012077bbd7a6545bd6171a02401bc8b42fc8530666aa10d20
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8099d764533b8e68bcdaa7b9c6f71472fc552aa3
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119804924"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372147"
 ---
 # <a name="time-controls"></a>Элементы управления времени
 
@@ -25,7 +25,7 @@ ms.locfileid: "119804924"
 
 
 
-| Элемент     | Описание                                                                                            |
+| Control     | Описание                                                                                            |
 |-------------|--------------------------------------------------------------------------------------------------------|
 | Микросекунда | Поддерживает данные о времени, выраженные в микросекундах. Диапазон допустимых значений — от 0 до (232 – 1). |
 | Миллисекунда | Поддерживает данные о времени, выраженные в миллисекундах. Диапазон допустимых значений — от 0 до (232 – 1). |

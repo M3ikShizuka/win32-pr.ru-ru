@@ -15,12 +15,12 @@ keywords:
 - Справочник по файлового ввода-вывода, сообщения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1aa543d976acf953512d800f2a5b183a7b1e73acd799920b6a72b48531d04161
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 006ba55a7ff3282abe18b0f4a363f2a58e9590df
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118136996"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372393"
 ---
 # <a name="multimedia-file-io-messages"></a>Сообщения файлового ввода-вывода мультимедиа
 
@@ -34,7 +34,7 @@ ms.locfileid: "118136996"
 -   [**ММИОМ \_ запись**](mmiom-write.md)
 -   [**ММИОМ \_ вритефлуш**](mmiom-writeflush.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

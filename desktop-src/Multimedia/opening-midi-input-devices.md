@@ -13,12 +13,12 @@ keywords:
 - Открытие устройств ввода MIDI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d260674194e7f066e5095e30a78c94b241a60b32304888aceb8db9ae06ccfea6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5d4c1271cee1e6a47c35f8c555932d87d1055065
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119806274"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370917"
 ---
 # <a name="opening-midi-input-devices"></a>Открытие устройств ввода MIDI
 
@@ -26,7 +26,7 @@ ms.locfileid: "119806274"
 
 если вы используете \_ флаг состояния ввода-вывода MIDI \_ с **мидиинопен**, система использует сообщение [**MIM \_ MOREDATA**](mim-moredata.md) , чтобы предупредить функцию обратного вызова приложения, если она не обрабатывает данные MIDI достаточно быстро, чтобы не допустить входного драйвера устройства. (сообщение [**MM \_ MIM \_ MOREDATA**](mm-mim-moredata.md) выполняет одно и то же задание с обратными вызовами окна. Однако по соображениям производительности большинство приложений будет использовать функции обратного вызова вместо обратных вызовов окна.) Если приложение обрабатывает данные MIDI в отдельном потоке, повышение приоритета потока может оказать значительное влияние на способность приложения поддерживать поток данных.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

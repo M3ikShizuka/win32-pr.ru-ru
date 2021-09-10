@@ -9,12 +9,12 @@ keywords:
 - неподключенные джойстики
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 86666645a4589d1ecd638b81541aab2954839ca08889ef567b69f4abda17d211
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2791f8da14107d50afe90d8efbdbfe79acba3093
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118140333"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372291"
 ---
 # <a name="joystick-notifications"></a>Уведомления джойстика
 

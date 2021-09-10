@@ -13,12 +13,12 @@ keywords:
 - Дравдиб, сжатые изображения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 18e03b41d5af776c39f7d100e9478bd408011d61d8e3d661cb80bd9ab52f08c7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 238f3e9ba822e16a7568775378b24f69bbca12de
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118942092"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371844"
 ---
 # <a name="about-the-drawdib-functions"></a>О функциях Дравдиб
 
@@ -37,7 +37,7 @@ ms.locfileid: "118942092"
 -   Сжатые изображения. Функции Дравдиб будут рисовать любой формат, для которого имеется декомпрессор, включая кодирование длины выполнения (RLE), Цинепак и 411 YUV. Windows включает декомпрессоры RLE и Цинепак, которые можно дополнительно установить.
 -   Кодек Indeo больше не поддерживается в Windows.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

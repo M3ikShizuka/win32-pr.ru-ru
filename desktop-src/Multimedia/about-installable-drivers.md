@@ -9,12 +9,12 @@ keywords:
 - драйверы мультимедийных устройств
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2c07cc0c6d3e4a2682c832115e26ea16dc5093089d7fad5da6dc6bac75bb01e9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d39c4900673c1efc0e8ebe9348fe56a991f8893d
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119065724"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370455"
 ---
 # <a name="about-installable-drivers"></a>Сведения об устанавливаемых драйверах
 

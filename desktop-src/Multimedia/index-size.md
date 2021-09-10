@@ -9,12 +9,12 @@ keywords:
 - макрос Капкаптуресетсетуп
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cd9742edb1aa73c7b77a56ef3ab2a29a5ea14a1e70351bec1ecb49507bbd0bc1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 86cd9e59c23376a7aa201673ef71743c8a192b60
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119784684"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372075"
 ---
 # <a name="index-size"></a>Размер индексов
 

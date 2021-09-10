@@ -7,12 +7,12 @@ keywords:
 - Функция Авижетфромклипбоард
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 579f7eeed3b5b7397e248bb1c9090bc086cb715c591ec436af5de7d885551c14
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cfe46f463f22aa2d015d4ffd8496eb95c37053a8
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119687844"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372018"
 ---
 # <a name="using-the-clipboard-with-avi-files"></a>Использование буфера обмена с файлами AVI
 

@@ -4,12 +4,12 @@ ms.assetid: a6d3a884-f181-46a5-b655-226c68792e08
 title: Ограничения размера элементов реестра
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5c76a11abc80f80a13e0643d7745d211168ecba8bcf06446af9ac842f8351567
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 262609a64e60536dcfc41f29e5d94ea499158861
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118885237"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371919"
 ---
 # <a name="registry-element-size-limits"></a>Ограничения размера элементов реестра
 

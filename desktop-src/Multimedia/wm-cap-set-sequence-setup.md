@@ -3,7 +3,7 @@ title: Сообщение WM_CAP_SET_SEQUENCE_SETUP (VFW. h)
 description: В \_ сообщении о настройке закрепления WM \_ Set \_ Sequence \_ устанавливаются параметры конфигурации, используемые для сбора потоковой передачи. Это сообщение можно отправить явно или с помощью макроса Капкаптуресетсетуп.
 ms.assetid: ba9adb26-6627-469b-a836-f4f277ddb7c4
 keywords:
-- WM_CAP_SET_SEQUENCE_SETUP сообщения Windows мультимедиа
+- сообщение WM_CAP_SET_SEQUENCE_SETUP Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 54a2129021f31694d9e601ecd97503e2a5f5c925
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104535339"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371502"
 ---
 # <a name="wm_cap_set_sequence_setup-message"></a>\_ \_ \_ Сообщение настройки установки последовательностей WM Cap \_
 
@@ -56,7 +56,7 @@ lParam = (LPARAM) (LPVOID) (LPCAPTUREPARMS) (psCapParms);
 
 Возвращает **значение true** в случае успеха или **false** в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Сведения о параметрах, используемых для управления потоковой передачей, см. в разделе Структура [**каптурепармс**](/windows/win32/api/vfw/ns-vfw-captureparms) .
 
@@ -72,7 +72,7 @@ lParam = (LPARAM) (LPVOID) (LPCAPTUREPARMS) (psCapParms);
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

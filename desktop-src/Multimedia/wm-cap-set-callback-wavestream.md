@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3e4a8ef585a3ceb35aa07fe4e31c5819ce3e56d20b0bfd2d6c5f588fc25c335b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d36abc7848de082e033cfc25d4f15d90c86cf3b2
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118622523"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371496"
 ---
 # <a name="wm_cap_set_callback_wavestream-message"></a>\_Сообщение о \_ \_ вавестреам обратного вызова Set крепления WM \_
 
@@ -67,7 +67,7 @@ lParam = (LPARAM) (LPVOID) (fpProc);
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

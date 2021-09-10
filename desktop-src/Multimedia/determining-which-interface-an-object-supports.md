@@ -4,12 +4,12 @@ description: Определение интерфейса, который под�
 ms.assetid: cf2aacb7-5315-4907-a49b-3eb3bbfd13d1
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5e5afffd2818c7a8f204363180e52fe9f94f16157aacd027582ce377b2f5211c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 066523503232926f5c031efa2cee5ad7a2b05d24
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119497263"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371691"
 ---
 # <a name="determining-which-interface-an-object-supports"></a>Определение интерфейса, который поддерживает объект
 

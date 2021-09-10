@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d74b8d0663e96f0dc700739c7b8b5f9304d478ed02bf9493f24d03a506c14a61
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ca7dda950eaa84f924f4845d99d5740e37d6b354
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119678714"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370473"
 ---
 # <a name="drv_load-message"></a>\_Сообщение о загрузке DRV
 
@@ -37,7 +37,7 @@ ms.locfileid: "119678714"
 
 Сообщение **о \_ загрузке DRV** всегда является первым сообщением, которое получает драйвер устройства.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

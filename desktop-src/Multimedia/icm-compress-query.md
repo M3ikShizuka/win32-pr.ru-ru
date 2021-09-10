@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 75a68bf93a3d3ea96447dd061d859ccbf4483124dc8955fbd6efc39c180d782c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 00a00482cc39f21ef6ddfb241f0534924c503200
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119785024"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370434"
 ---
 # <a name="icm_compress_query-message"></a>\_Сообщение о \_ запросе сжатия ICM
 
@@ -60,7 +60,7 @@ lParam = (DWORD_PTR) (LPVOID) lpbiOutput;
 
 Когда драйвер получает это сообщение, он должен проверить структуру [**битмапинфо**](/windows/win32/api/wingdi/ns-wingdi-bitmapinfo) , связанную с *лпбиинпут* , чтобы определить, может ли он сжимать входной формат.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

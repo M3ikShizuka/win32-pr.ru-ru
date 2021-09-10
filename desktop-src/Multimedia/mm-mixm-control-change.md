@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 44305a5a441e4d12a1b3f43029ae3a41f7642c13b15a50f74a1acab158c2ed58
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 12daa4d9e107a9ba687331731ee9fd7e6f0dc886
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119807184"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371172"
 ---
 # <a name="mm_mixm_control_change-message"></a>\_ \_ Сообщение об изменении элемента управления миксм mm \_
 
@@ -56,7 +56,7 @@ lParam = (LPARAM) dwControlID
 
 Приложение должно открыть микшер устройства и указать окно обратного вызова для получения сообщения об **\_ \_ \_ изменении элемента управления mm миксм** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

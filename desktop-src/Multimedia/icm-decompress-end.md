@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a0c877afac3db0e4cf4d7c476ca3806d2acd15bdf72764549b2958490574a4f6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e25155755b6bfbb893905e6facad890dbf98f175
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119691164"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370500"
 ---
 # <a name="icm_decompress_end-message"></a>\_Завершающее сообщение РАЗуплотнения ICM \_
 
@@ -44,7 +44,7 @@ lParam = 0;
 
 [**ICM \_ Конец СЖАТИЯ \_ Begin**](icm-decompress-begin.md) и **ICM \_ unуплотнение \_** не вложены. Если драйвер Получает подсистему **\_ распаковки ICM \_ Begin** до остановки распаковки **с \_ \_ окончанием распаковки ICM**, необходимо перезапустить распаковку с новыми параметрами.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

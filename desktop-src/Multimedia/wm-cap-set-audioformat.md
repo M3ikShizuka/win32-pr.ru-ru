@@ -3,7 +3,7 @@ title: Сообщение WM_CAP_SET_AUDIOFORMAT (VFW. h)
 description: '\_ \_ Сообщение аудиоформат, установленное с помощью WM Cap, \_ задает формат аудио, используемый при выполнении потоковой передачи или записи шага. Это сообщение можно отправить явно или с помощью макроса Капсетаудиоформат.'
 ms.assetid: 8bffa401-3d36-43bb-9f69-988ebc69b860
 keywords:
-- WM_CAP_SET_AUDIOFORMAT сообщения Windows мультимедиа
+- сообщение WM_CAP_SET_AUDIOFORMAT Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 8c519ed936d2e71d9eee88435a94acc8c567a9a9
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104136214"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371508"
 ---
 # <a name="wm_cap_set_audioformat-message"></a>\_ \_ Сообщение аудиоформат установки крепления WM \_
 
@@ -68,7 +68,7 @@ lParam = (LPARAM) (LPVOID) (LPWAVEFORMATEX) (psAudioFormat);
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

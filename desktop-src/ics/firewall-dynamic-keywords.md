@@ -6,12 +6,12 @@ keywords:
 ms.topic: article
 ms.date: 05/17/2021
 ms.localizationpriority: low
-ms.openlocfilehash: bac179764b253035e0e8f1ef422f07bffb58821b55390c9c87d985bde5d2cdf5
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 15e35f26b72ed8d685e8302f6222836507e5c6a3
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120062534"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "124361294"
 ---
 # <a name="firewall-dynamic-keywords"></a>Динамические ключевые слова брандмауэра
 
@@ -562,6 +562,6 @@ int main()
 }
 ```
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 * [Справочник по динамическим ключевым словам брандмауэра](firewall-dynamic-keywords-reference.md)

@@ -1,9 +1,9 @@
 ---
 title: Сообщение MM_MIM_LONGERROR (Ммсистем. h)
-description: Сообщение MM \_ MIM \_ лонжеррор отправляется в окно, когда получено недопустимое или неполное сообщение, исключающие MIDI.
+description: сообщение MM \_ MIM \_ лонжеррор отправляется в окно, когда получено недопустимое или неполное сообщение, исключающие MIDI.
 ms.assetid: 2de4c2f8-2ded-4994-934c-6e72c95637b2
 keywords:
-- MM_MIM_LONGERROR сообщения Windows мультимедиа
+- сообщение MM_MIM_LONGERROR Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,15 +15,15 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 7e274faca26a90a5cd3b3915a7e8e1ed27bcfd77
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105682052"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370899"
 ---
-# <a name="mm_mim_longerror-message"></a>\_Сообщение о \_ лонжерроре mm MIM
+# <a name="mm_mim_longerror-message"></a>MM \_ MIM \_ сообщение лонжеррор
 
-Сообщение **mm \_ MIM \_ лонжеррор** отправляется в окно, когда получено недопустимое или неполное сообщение, исключающие MIDI.
+сообщение **MM \_ MIM \_ лонжеррор** отправляется в окно, когда получено недопустимое или неполное сообщение, исключающие MIDI.
 
 
 ```C++
@@ -56,7 +56,7 @@ lParam = (LPARAM) lpMidiHdr
 
 Это сообщение не возвращает значение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Возвращенный буфер может быть незаполненным. Чтобы определить число байтов, записанных в возвращенный буфер, используйте элемент **двбитесрекордед** структуры [**мидихдр**](/windows/win32/api/mmeapi/ns-mmeapi-midihdr) , заданную параметром *лпмидихдр*.
 
@@ -68,11 +68,11 @@ lParam = (LPARAM) lpMidiHdr
 |-------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                                |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                      |
-| Заголовок<br/>                   | <dl> <dt>Ммсистем. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>ммсистем. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

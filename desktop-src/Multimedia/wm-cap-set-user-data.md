@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ea5b4a192b774572ea374b08d4a4128389281e44ee00614806841b0b007d978b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 542b8e49f740bfc265824947237841dede1f6065
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119803554"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371451"
 ---
 # <a name="wm_cap_set_user_data-message"></a>\_Сообщение о \_ задании \_ \_ данных пользователя с закреплениями WM
 
@@ -53,7 +53,7 @@ lParam = (LPARAM)lUser;
 
 Обычно это сообщение используется для указания на блок данных, связанных с окном записи.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

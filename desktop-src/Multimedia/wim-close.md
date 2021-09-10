@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7488ef0d8a6a0d36852faa93397f853efb4f76f41761b6f38dd544ddcbc398ad
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c6028ac6c45aa013138aab227e79d8d210ad70bb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119803894"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371256"
 ---
 # <a name="wim_close-message"></a>\_Сообщение о закрытии WIM
 
@@ -56,7 +56,7 @@ dwParam2 = reserved
 
 Это сообщение не возвращает значение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

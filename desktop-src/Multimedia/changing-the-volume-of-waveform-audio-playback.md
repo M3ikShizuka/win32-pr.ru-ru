@@ -10,12 +10,12 @@ keywords:
 - Изменение звукового тома воспроизведения аудио
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e59bca6dbc168d2c327c46e4d934d4abb3afa73cc8ef2cae8b1a6c283bd92c81
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 89f972b5bd8e6f0d4a0d7d5964f164429c5632b0
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119807994"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371214"
 ---
 # <a name="changing-the-volume-of-waveform-audio-playback"></a>Изменение объема Waveform-Audio воспроизведения
 

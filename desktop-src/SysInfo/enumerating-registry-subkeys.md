@@ -5,11 +5,11 @@ title: Перечисление подразделов реестра
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 81aa61dbcbfe487298725de0ac17e1367639da93
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105664713"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371934"
 ---
 # <a name="enumerating-registry-subkeys"></a>Перечисление подразделов реестра
 

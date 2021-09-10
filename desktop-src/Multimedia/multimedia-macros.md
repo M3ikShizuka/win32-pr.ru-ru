@@ -10,12 +10,12 @@ keywords:
 - мультимедийные макросы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d9cdad8be1acfb92db2f58762fb5debe834dd52f7b5519f3ed4ed4d43d55cbd8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: aef29d18fc53d46e96de2a13d6e9e39e75e4dc6b
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119806764"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370299"
 ---
 # <a name="multimedia-macros"></a>Мультимедийные макросы
 
@@ -137,7 +137,7 @@ ms.locfileid: "119806764"
 -   [**иккуерябаут**](/windows/desktop/api/Vfw/nf-vfw-icqueryabout)
 -   [**иккуериконфигуре**](/windows/desktop/api/Vfw/nf-vfw-icqueryconfigure)
 -   [**иксетстате**](/windows/desktop/api/Vfw/nf-vfw-icsetstate)
--   [**макс.**](max.md)
+-   [**max**](max.md)
 -   [**ХМс MCI, \_ \_ час**](mci-hms-hour.md)
 -   [**MCI \_ ХМс \_ минута**](mci-hms-minute.md)
 -   [**ХМс MCI, \_ \_ секунда**](mci-hms-second.md)
@@ -222,11 +222,11 @@ ms.locfileid: "119806764"
 -   [**мЦивндвалидатемедиа**](/windows/desktop/api/Vfw/nf-vfw-mciwndvalidatemedia)
 -   [**МЕВТ \_ евентпарм**](/windows/win32/api/mmeapi/nf-mmeapi-mevt_eventparm)
 -   [**МЕВТ \_ EVENTTYPE**](/windows/win32/api/mmeapi/nf-mmeapi-mevt_eventtype)
--   [**мин.**](min.md)
+-   [**min**](min.md)
 -   [**ммиофауркк**](/windows/win32/api/vfw/nf-vfw-mmiofourcc)
 -   [**сндалиас**](/previous-versions//dd798675(v=vs.85))
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

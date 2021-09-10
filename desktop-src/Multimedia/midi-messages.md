@@ -12,12 +12,12 @@ keywords:
 - Сообщения MIDI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c45c7c9f101c931591857d3957df0f0cfd00a4ecaff61c31f6f69ef24b36deff
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 63a49e918a4f06efbafd5d8f61848111d3331153
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119525134"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370776"
 ---
 # <a name="midi-messages"></a>Сообщения MIDI
 
@@ -46,7 +46,7 @@ ms.locfileid: "119525134"
 -   [**диспетчер MOM \_ открыт**](mom-open.md)
 -   [**MOM \_ поситионкб**](mom-positioncb.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

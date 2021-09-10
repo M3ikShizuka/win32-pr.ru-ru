@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 47cacaf635c9ce8c9f8d162951493ee3cf10d8ba335bdf591a2cf732c54ddb8c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ec8921f0ae76d05c429d6750944a26662c1276af
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117985595"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371151"
 ---
 # <a name="mm_joy2move-message"></a>MM \_ JOY2MOVE, сообщение
 

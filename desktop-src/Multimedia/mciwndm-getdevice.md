@@ -3,7 +3,7 @@ title: Сообщение MCIWNDM_GETDEVICE (VFW. h)
 description: Сообщение МЦИВНДМing \_ возвращает имя текущего открытого устройства MCI. Это сообщение можно отправить явно или с помощью макроса МЦивнджетдевице.
 ms.assetid: e69a73a6-a927-4536-98c7-ee7d5b16668a
 keywords:
-- MCIWNDM_GETDEVICE сообщения Windows мультимедиа
+- сообщение MCIWNDM_GETDEVICE Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 32664508a577db9d5a077e3cb4fd00aab34fbdf3
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104489426"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370638"
 ---
 # <a name="mciwndm_getdevice-message"></a>\_Сообщение мЦивндм
 
@@ -56,7 +56,7 @@ lParam = (LPARAM) (LPVOID) lp;
 
 Возвращает нуль в случае успеха или ненулевое значение в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если строка, заканчивающаяся символом NULL, содержащая имя устройства, длиннее, чем буфер, МЦивнд усекает его.
 

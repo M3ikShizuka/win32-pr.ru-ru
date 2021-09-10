@@ -14,12 +14,12 @@ keywords:
 - Сообщение MM_WIM_OPEN
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c709df27be25a8a3f4c5a9be6528e28b4e8bab9251b04b6c397a7ef3fc8efd9a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 70bb1cfe1ed0f7ba6052fc1eb6af8fca8355d87d
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118135656"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371304"
 ---
 # <a name="using-window-messages-to-manage-waveform-audio-recording"></a>Использование оконных сообщений для управления записью Waveform-Audio
 
@@ -43,7 +43,7 @@ ms.locfileid: "118135656"
 
 Функция обратного вызова для устройств ввода аудио-сигналов предоставляется приложением. Сведения об этой функции обратного вызова см. в описании функции [**вавеинпрок**](/previous-versions//dd743849(v=vs.85)) .
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 28a5066d5aa129ffad98aa82eb8d09ba91c0e42fca4edae501f8a7c1775d4be8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ccb02a1fbe334547b9679970ac7598df23237f12
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119526134"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370554"
 ---
 # <a name="icm_draw_renderbuffer-message"></a>\_Сообщение ICM Draw \_ рендербуффер
 
@@ -56,7 +56,7 @@ lParam = 0;
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

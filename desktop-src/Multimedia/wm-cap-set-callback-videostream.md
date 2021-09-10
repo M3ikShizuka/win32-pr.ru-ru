@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f2cdb4d7d18997fe437609b43a266242f04bd0bc2bb25429191d944240706244
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cde1d2b44ba3786f2d17934e6e92e0894d8d3bba
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118940722"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371493"
 ---
 # <a name="wm_cap_set_callback_videostream-message"></a>\_Сообщение о \_ \_ VIDEOSTREAM обратного вызова Set крепления WM \_
 

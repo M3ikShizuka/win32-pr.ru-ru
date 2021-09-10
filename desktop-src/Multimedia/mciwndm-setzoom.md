@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fbcdd40206332df442bbae32975b0d888bbe39bc377a189d40e215888e4a6d0f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 80ecb513735c4e62266892e8ad55c7bf5daca151
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119807584"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370692"
 ---
 # <a name="mciwndm_setzoom-message"></a>\_Сообщение мЦивндм сетзум
 
@@ -49,7 +49,7 @@ lParam = (LPARAM) (UINT) iZoom;
 
 Это сообщение не возвращает значение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

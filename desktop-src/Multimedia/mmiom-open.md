@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 74cb4c54a7f35fe426cf528d5eb9e076a44bf4b7e06744628ba65fe1bf7cb410
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d9ea2b5ddc0c79cb3efe00038a628373ce3665bf
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119065374"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371103"
 ---
 # <a name="mmiom_open-message"></a>ММИОМ \_ открытое сообщение
 

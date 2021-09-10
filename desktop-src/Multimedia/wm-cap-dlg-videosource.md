@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7a1f05d7e3dc421759229adffa4ecc4b78affc26f1b4244887b017614c2ab4d2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 38e8ae7e3d619964a547fbe0db4517fd1e7d277f
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119803884"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371403"
 ---
 # <a name="wm_cap_dlg_videosource-message"></a>\_ \_ Сообщение видеосаурце с диалогом WM Cap \_
 
@@ -42,7 +42,7 @@ lParam = 0L;
 
 Диалоговое окно Источник видео является уникальным для каждого драйвера записи. Некоторые драйверы записи могут не поддерживать диалоговое окно "источник видео". Приложения могут определить, поддерживает ли драйвер записи это сообщение, проверив элемент **фхасдлгвидеосаурце** структуры [**капдриверкапс**](/windows/win32/api/vfw/ns-vfw-capdrivercaps) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f85321483639135db31750cacf76cc5f0dc4ad42e96474efa1dc17ac84ba4a79
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b91c2f30ac0875e2f45592d3aa7e0a3ce9c296b7
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118369512"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371472"
 ---
 # <a name="wm_cap_set_callback_frame-message"></a>\_ \_ \_ Сообщение кадра обратного вызова Set крепления WM \_
 
@@ -65,7 +65,7 @@ lParam = (LPARAM) (LPVOID) (fpProc);
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

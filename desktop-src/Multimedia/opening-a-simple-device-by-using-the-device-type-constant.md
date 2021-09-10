@@ -6,12 +6,12 @@ keywords:
 - Функция МЦисендкомманд
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 810915331fc00f72f4ab705cd01c91ecabf5d190efca4f4a9c786a36d7880103
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ef65cf4546da2d7f7b6fdb5883232d0b1802f7b1
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119806334"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371724"
 ---
 # <a name="opening-a-simple-device-by-using-the-device-type-constant"></a>Открытие простого устройства с помощью Device-Typeной константы
 

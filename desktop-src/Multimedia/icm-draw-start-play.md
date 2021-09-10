@@ -3,7 +3,7 @@ title: Сообщение ICM_DRAW_START_PLAY (VFW. h)
 description: Сообщение ICM \_ Draw \_ Start \_ Play предоставляет время начала и окончания операции воспроизведения для драйвера подготовки к просмотру. Это сообщение можно отправить явно или с помощью макроса Икдравстартплай.
 ms.assetid: 27c4c06e-6510-43dc-a754-fe44144796f5
 keywords:
-- ICM_DRAW_START_PLAY сообщения Windows мультимедиа
+- сообщение ICM_DRAW_START_PLAY Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: eefea0f6344fb598fac1f0413bba5c377c5914e6
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104135683"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370569"
 ---
 # <a name="icm_draw_start_play-message"></a>\_Сообщение о запуске ICM Draw \_ начать \_ Воспроизведение
 
@@ -56,7 +56,7 @@ lParam = (DWORD_PTR) lTo;
 
 Это сообщение не возвращает значение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это сообщение предшествует всем данным кадра, отправляемым драйверу подготовки отчетов.
 
@@ -76,7 +76,7 @@ lParam = (DWORD_PTR) lTo;
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

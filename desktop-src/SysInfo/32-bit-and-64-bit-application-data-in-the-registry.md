@@ -4,12 +4,12 @@ ms.assetid: 08dc034c-15ce-41d9-8e74-a49b61ad40a6
 title: 32-разрядные и 64-битные данные приложения в реестре
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d87d5177eb48a5497e321b47bb0da96874a0e6522360f2dc519dc72df3dcdf89
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7bc82dfbf9b22cf90866e13109aeea2bcdb10e27
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117764988"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371871"
 ---
 # <a name="32-bit-and-64-bit-application-data-in-the-registry"></a>32-разрядные и 64-битные данные приложения в реестре
 
@@ -21,7 +21,7 @@ ms.locfileid: "117764988"
 
 Чтобы отключить и включить отражение реестра для определенного ключа, используйте функции [**регдисаблерефлектионкэй**](/windows/desktop/api/Winreg/nf-winreg-regdisablereflectionkey) и [**реженаблерефлектионкэй**](/windows/desktop/api/Winreg/nf-winreg-regenablereflectionkey) . Приложения должны отключать отражение только для разделов реестра, которые они создают, и не пытаться отключить отражение для стандартных ключей, таких как **hKey \_ локальный \_ компьютер** или **hKey \_ текущий \_ пользователь**. Чтобы определить, какие ключи находятся в списке отражения, используйте функцию [**регкуерирефлектионкэй**](/windows/desktop/api/WinReg/nf-winreg-regqueryreflectionkey) .
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

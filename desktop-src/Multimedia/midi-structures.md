@@ -12,12 +12,12 @@ keywords:
 - Структуры MIDI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9e418260ae9bdda69d4ba44e4206e470613274715da1593bd24cd4d45c9ff4c4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4d30f5d145aae2c553b18693c2465a8a9ac7b85c
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118137536"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372387"
 ---
 # <a name="midi-structures"></a>Структуры MIDI
 
@@ -31,7 +31,7 @@ ms.locfileid: "118137536"
 -   [**мидипроптимедив**](/windows/win32/api/mmeapi/ns-mmeapi-midiproptimediv)
 -   [**мидистрмбуффвер**](/windows/win32/api/mmeapi/ns-mmeapi-midistrmbuffver)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -12,12 +12,12 @@ keywords:
 - Функция Ммиосетинфо
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9e4ab9533f0f121d42f859961b60d405477856faacee8d8cf36a0dfb975e2587
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 57c89b2376f1bae68d55c76d7731b6ee78f6bf7d
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119808644"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371799"
 ---
 # <a name="accessing-a-file-io-buffer"></a>Доступ к буферу файлового ввода-вывода
 

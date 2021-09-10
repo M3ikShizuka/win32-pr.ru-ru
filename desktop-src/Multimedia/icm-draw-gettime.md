@@ -3,7 +3,7 @@ title: Сообщение ICM_DRAW_GETTIME (VFW. h)
 description: Сообщение ICM \_ Draw \_ запрашивает драйвер подготовки отчетов, который управляет временем рисования кадров, чтобы вернуть текущее значение его внутреннего времени. Это сообщение можно отправить явно или с помощью макроса Икдравжеттиме.
 ms.assetid: 77f0a322-c0bc-4cfe-a3d0-7633cf8d682a
 keywords:
-- ICM_DRAW_GETTIME сообщения Windows мультимедиа
+- сообщение ICM_DRAW_GETTIME Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: f756a76408d01cb72ee1762f14bb8a5eab19e475
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105672706"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370548"
 ---
 # <a name="icm_draw_gettime-message"></a>\_Сообщение о \_ выполнении ICM Draw
 
@@ -49,7 +49,7 @@ lParam = 0;
 
 Возвращает ИЦЕРР \_ ОК в случае успеха или ошибку в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это сообщение обычно поддерживается оборудованием, которое выполняет собственное асинхронное распаковка, время и рисование. Сообщение также может быть отправлено, если оборудование используется в качестве хозяина синхронизации.
 
@@ -65,7 +65,7 @@ lParam = 0;
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

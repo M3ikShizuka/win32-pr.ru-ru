@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 21a558dc7a2c3ece040790b2351ff39dc3054d660eb9368567ed7ce79d40c8a7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: abb9d70d269cb84e0d6ef0881618b67cfef11068
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119526214"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370464"
 ---
 # <a name="drv_free-message"></a>\_Свободное сообщение DRV
 
@@ -46,7 +46,7 @@ ms.locfileid: "119526214"
 
 Сообщение **DRV \_ Free** всегда является последним сообщением, которое получает драйвер устройства.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

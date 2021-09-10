@@ -3,7 +3,7 @@ title: Сообщение ICM_DECOMPRESS (VFW. h)
 description: Сообщение ICM \_ uncompression уведомляет драйвер распаковки видео о необходимости распаковки кадра данных в буфер, определенный приложением.
 ms.assetid: 666f2ebf-80a5-4846-861d-c79c3001c5a0
 keywords:
-- ICM_DECOMPRESS сообщения Windows мультимедиа
+- сообщение ICM_DECOMPRESS Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 0c890a8ca15202f57fdaa02922e364af75f7b952
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104071894"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370497"
 ---
 # <a name="icm_decompress-message"></a>\_Сообщение распаковки ICM
 
@@ -56,7 +56,7 @@ lParam = sizeof(ICDECOMPRESS);
 
 Возвращает ИЦЕРР \_ ОК в случае успеха или ошибку в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если требуется, чтобы драйвер распаковать данные непосредственно на экране, отправьте сообщение [**ICM \_ Draw**](icm-draw.md) .
 
@@ -74,7 +74,7 @@ lParam = sizeof(ICDECOMPRESS);
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

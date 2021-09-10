@@ -8,12 +8,12 @@ keywords:
 - Макрос МЦивндреализе
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 074dece2c1dac95e24a465413cae686acea5a8e9055913bfb832341efdb12c1a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d970e0e33c9dd03c7f1133576f371b713f7174df
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117801123"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372198"
 ---
 # <a name="using-mciwnd-palettes"></a>Использование палитр МЦивнд
 
@@ -28,7 +28,7 @@ ms.locfileid: "117801123"
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

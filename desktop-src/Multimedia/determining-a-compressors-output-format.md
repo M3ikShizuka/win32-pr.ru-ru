@@ -11,11 +11,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 6c4356870598dc08ad84c4073be5ffa3c2ddbd5b
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "104133866"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370386"
 ---
 # <a name="determining-a-compressors-output-format"></a>Определение формата выходных данных программы сжатия
 
@@ -74,6 +74,6 @@ lpOutput = (LPVOID)GlobalLock(h);
 
 
 
- 
+ 
 
- 
+ 

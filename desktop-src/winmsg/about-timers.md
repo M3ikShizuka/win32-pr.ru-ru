@@ -4,12 +4,12 @@ ms.assetid: 509a6fc4-ddee-4ff4-88a2-25dad4c48c2f
 title: О таймерах
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4fdcaa8c7e4a46f6d64aea17c84f9b137879a915489527e1b53cb391c1817560
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b3163dbfd5357de516e0202665cd76d017335593
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119028512"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370953"
 ---
 # <a name="about-timers"></a>О таймерах
 
@@ -20,7 +20,7 @@ ms.locfileid: "119028512"
 -   [Операции с таймером](#timer-operations)
 -   [Таймер с высоким разрешением](#high-resolution-timer)
 -   [Ожидающие объекты таймера](#waitable-timer-objects)
--   [Связанные темы](#related-topics)
+-   [Связанные разделы](#related-topics)
 
 ## <a name="timer-operations"></a>Операции с таймером
 
@@ -48,7 +48,7 @@ ms.locfileid: "119028512"
 
 Дополнительные сведения об использовании ожидающих объектов таймера для синхронизации потоков см. в разделе [ожидающие объекты таймера](/windows/desktop/Sync/waitable-timer-objects).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

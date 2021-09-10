@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e2e0467317725ba862d76c15735780dba1a32aea74722e945fa0c6dd8823075f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c7e96f6a069e9ed2c9c52dc2f07f1ab4c5210ecd
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117987826"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370515"
 ---
 # <a name="icm_decompressex_end-message"></a>\_ \_ Сообщение об окончании ICM декомпрессекс
 

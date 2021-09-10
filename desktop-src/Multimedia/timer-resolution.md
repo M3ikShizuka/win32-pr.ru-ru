@@ -16,12 +16,12 @@ keywords:
 - Функция Тиминдпериод
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 948e81228acec27e41d43d41de7393ad64345acce25a450e91c815b1bbbf5164
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 89e96f1b410f2e18203af794ea124bb6b83bccce
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119781834"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372504"
 ---
 # <a name="timer-resolution"></a>Разрешение таймера
 
@@ -31,7 +31,7 @@ ms.locfileid: "119781834"
 
 В [**тимебегинпериод**](/windows/desktop/api/TimeAPI/nf-timeapi-timebeginperiod) и [**тиминдпериод**](/windows/desktop/api/TimeAPI/nf-timeapi-timeendperiod)параметр *упериод* указывает минимальное разрешение таймера в миллисекундах. Можно указать любое значение разрешения таймера в диапазоне, поддерживаемом таймером.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

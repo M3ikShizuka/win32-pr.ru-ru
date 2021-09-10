@@ -4,12 +4,12 @@ description: Набор команд MIDI Sequencer
 ms.assetid: 8f5af706-0674-4ed1-855f-22f8d74361fd
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1a389c363d2efc58edf27f3174fa81d71e0aa5fac00b6efe70ef3c7fe8c1ceb4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0bac1f9ca26a8e7e7e636c19ffa92d05281e16bd
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119525084"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371580"
 ---
 # <a name="midi-sequencer-command-set"></a>Набор команд MIDI Sequencer
 
@@ -19,10 +19,10 @@ ms.locfileid: "119525084"
 
 | Форма строки                      | Форма сообщения                              |
 |----------------------------------|-------------------------------------------|
-| [**разбиени**](break.md)           | [**\_разрыв MCI**](mci-break.md)           |
+| [**break**](break.md)           | [**\_разрыв MCI**](mci-break.md)           |
 | [**возможностями**](capability.md) | [**\_ЖЕТДЕВКАПС MCI**](mci-getdevcaps.md) |
 | [**выхода**](close.md)           | [**\_закрытие MCI**](mci-close.md)           |
-| [**контактные**](info.md)             | [**\_сведения о MCI**](mci-info.md)             |
+| [**сведения**](info.md)             | [**\_сведения о MCI**](mci-info.md)             |
 | [**открыт**](open.md)             | [**MCI \_ открыт**](mci-open.md)             |
 | [**работу**](pause.md)           | [**Приостановка MCI \_**](mci-pause.md)           |
 | [**воспроизводит**](play.md)             | [**\_Воспроизведение MCI**](mci-play.md)             |

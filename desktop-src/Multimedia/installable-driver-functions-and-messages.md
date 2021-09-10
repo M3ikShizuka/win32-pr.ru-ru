@@ -13,11 +13,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: c66e6ebaac73bf8eb779119750cb390481152c3f
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "103987470"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372297"
 ---
 # <a name="installable-driver-functions-and-messages"></a>Функции и сообщения, устанавливаемые драйвером
 
@@ -32,10 +32,10 @@ ms.locfileid: "103987470"
 Можно использовать функции и сообщения устанавливаемого драйвера, чтобы открыть любой устанавливаемый драйвер и управлять им. Однако для открытия и управления устройствами мультимедиа рекомендуется сначала использовать стандартные службы (например, [**вавеаутопен**](/windows/win32/api/mmeapi/nf-mmeapi-waveoutopen), [**вавеаутмессаже**](/windows/win32/api/mmeapi/nf-mmeapi-waveoutmessage)и [**вавеаутклосе**](/windows/win32/api/mmeapi/nf-mmeapi-waveoutclose) для устройств вывода аудио), если они существуют. Если стандартные службы не существуют для драйвера мультимедиа, откройте драйвер и управляйте им с помощью функций и сообщений, устанавливаемых драйвером.
 
 > [!Note]  
-> Функции [**сенддривермессаже**](/windows/win32/api/mmiscapi/nf-mmiscapi-senddrivermessage) и [**жетдривермодулехандле**](/windows/win32/api/mmiscapi/nf-mmiscapi-getdrivermodulehandle) являются предпочтительными функциями, которые используются для отправки сообщений драйверу и для получения маркера к экземпляру модуля. Однако для обеспечения совместимости с предыдущими версиями операционной системы Windows включена старая функция [**дрвжетмодулехандле**](/windows/win32/api/mmiscapi/nf-mmiscapi-drvgetmodulehandle) .
+> Функции [**сенддривермессаже**](/windows/win32/api/mmiscapi/nf-mmiscapi-senddrivermessage) и [**жетдривермодулехандле**](/windows/win32/api/mmiscapi/nf-mmiscapi-getdrivermodulehandle) являются предпочтительными функциями, которые используются для отправки сообщений драйверу и для получения маркера к экземпляру модуля. для обеспечения совместимости с предыдущими версиями операционной системы Windows была включена старая функция [**дрвжетмодулехандле**](/windows/win32/api/mmiscapi/nf-mmiscapi-drvgetmodulehandle) .
 
- 
+ 
 
- 
+ 
 
- 
+ 

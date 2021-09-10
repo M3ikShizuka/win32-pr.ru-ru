@@ -6,12 +6,12 @@ keywords:
 - Функция Авистреаминфо
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 38c56e1bd34fb9b0555c4eb0ed86944be3b7603645865144ac053604cd515cb8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3cc7ecd606a33503557e7c7209bff68015756523
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118371654"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372480"
 ---
 # <a name="reading-from-a-stream"></a>Чтение из потока
 
@@ -29,7 +29,7 @@ ms.locfileid: "118371654"
 
 Функция [**авистреамреад**](/windows/desktop/api/Vfw/nf-vfw-avistreamread) не предоставляет службы распаковки. Сведения о сжатии и распаковке звуковых потоков см. в разделе [Диспетчер аудиосжатия](audio-compression-manager.md). Сведения о сжатии и распаковке видеопотоков см. в разделе [Диспетчер сжатия видео](video-compression-manager.md). Сведения о сжатии и распаковке отдельных кадров в видеопотоке см. в разделе [Работа с сжатыми видео-данными в потоке](working-with-compressed-video-data-in-a-stream.md).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

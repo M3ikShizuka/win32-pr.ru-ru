@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1a1f66ca5beefa3d7eb774174bccc9d9482aebddd4a82341e9c83bb265d7788e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 290b123fadcaf46a315c42e3ce9a530c5d5d36c8
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119690926"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370578"
 ---
 # <a name="icm_draw_window-message"></a>\_ \_ Сообщение окна ICM Draw
 
@@ -55,7 +55,7 @@ lParam = 0;
 
 Драйверы наложения видео это сообщение используется для рисования при скрытии или перемещении окна. Когда окно, заданное [**для \_ \_ начала отображения ICM**](icm-draw-begin.md) , полностью скрыто другими окнами, прямоугольник назначения пуст. При возникновении этого условия драйверы должны отключать оборудование наложения видео.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -7,12 +7,12 @@ keywords:
 - макрос Капфилесетинфочунк
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 907731452793a586954565bec31dd396be403199e462140d0c23ee327d12ba53
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6fdcf601b51c7fd825a6e6ca2d592a2ad566c6f1
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117988805"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371937"
 ---
 # <a name="embedding-information-chunks-in-an-avi-file"></a>Внедрение фрагментов сведений в файл AVI
 

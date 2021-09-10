@@ -16,12 +16,12 @@ keywords:
 - Секвенсор MIDI MCI, сведения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c4c8d21588754d0f66dbed97c74bbaabe4c005335059dace2997012691a24c8f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 00aaf582f625c4411a2400ee381ec5c17d4d8ae7
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119782984"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370863"
 ---
 # <a name="media-control-interface-mci"></a>Интерфейс управления мультимедиа (MCI)
 

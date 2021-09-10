@@ -9,12 +9,12 @@ keywords:
 - Функция Сенддривермессаже
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 60942b9814abd8e1f6317adb976198a5359df358a994035a15ccf0c59ab18dd0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1ad0ad16d719152dba0dc0b2ca6224122831a0ce
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119144937"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372099"
 ---
 # <a name="configuring-an-installable-driver"></a>Настройка устанавливаемого драйвера
 

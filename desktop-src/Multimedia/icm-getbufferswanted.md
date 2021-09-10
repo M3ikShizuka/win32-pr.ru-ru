@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c4bd5fae6e9f008649366cf922ef117f5b6f7560a7764c4f8d81552a255de48a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 06de8cc3bcfe463d0318651c8e2d51b269504769
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119495874"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370584"
 ---
 # <a name="icm_getbufferswanted-message"></a>\_Сообщение ICM жетбуфферсвантед
 
@@ -53,7 +53,7 @@ lParam = 0;
 
 Это сообщение используется драйверами, которые используют оборудование для визуализации данных и хотят обеспечить минимальную задержку, вызванную ожиданием прибытия буферов. Например, если драйвер управляет платой распаковки видео, которая может содержать 10 кадров видео, это сообщение может вернуть 10. Это означает, что приложения попытаются остаться в 10 кадрах до конца фрейма, который им необходим.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

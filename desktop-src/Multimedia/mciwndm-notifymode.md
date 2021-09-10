@@ -3,7 +3,7 @@ title: Сообщение MCIWNDM_NOTIFYMODE (VFW. h)
 description: Сообщение МЦИВНДМ \_ нотифимоде уведомляет родительское окно приложения о том, что режим работы устройства mci изменился.
 ms.assetid: 08adfa8b-4d88-4953-acd8-8a4728f9e1b6
 keywords:
-- MCIWNDM_NOTIFYMODE сообщения Windows мультимедиа
+- сообщение MCIWNDM_NOTIFYMODE Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 7fe75048a53023dab67bef4048d6149438ad54d2
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104071090"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370704"
 ---
 # <a name="mciwndm_notifymode-message"></a>\_Сообщение мЦивндм нотифимоде
 
@@ -52,7 +52,7 @@ lParam = (LPARAM) (LONG) mode;
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Вы можете включить уведомления об изменениях режима устройства MCI, указав \_ стиль окна мЦивндф нотифимоде.
 

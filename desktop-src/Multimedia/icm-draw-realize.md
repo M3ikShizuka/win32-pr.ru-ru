@@ -3,7 +3,7 @@ title: Сообщение ICM_DRAW_REALIZE (VFW. h)
 description: Сообщение ICM \_ Draw дает \_ уведомление драйверу подготовки отчетов о том, что во время рисования он реализует свою палитру рисования. Это сообщение можно отправить явно или с помощью макроса Икдравреализе.
 ms.assetid: 501540cd-41e2-4f80-abf8-2ec2179970a9
 keywords:
-- ICM_DRAW_REALIZE сообщения Windows мультимедиа
+- сообщение ICM_DRAW_REALIZE Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: dd054c16caae55cba25c30098337e54b0ec4b681
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104415361"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370557"
 ---
 # <a name="icm_draw_realize-message"></a>\_Сообщение о выводе ICM \_
 
@@ -56,7 +56,7 @@ lParam = (DWORD_PTR) (BOOL) fBackground;
 
 Возвращает ИЦЕРР \_ ОК, если палитра рисования реализована или ицерр не \_ поддерживается, если реализована палитра, связанная с распакованными данными.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Драйверы должны отвечать на это сообщение, только если палитра рисования отличается от сжатой палитры.
 
@@ -72,7 +72,7 @@ lParam = (DWORD_PTR) (BOOL) fBackground;
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

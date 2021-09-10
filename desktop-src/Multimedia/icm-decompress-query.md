@@ -3,7 +3,7 @@ title: Сообщение ICM_DECOMPRESS_QUERY (VFW. h)
 description: Сообщение с \_ запросом ICM распаковка \_ запрашивает драйвер распаковки видео, чтобы определить, поддерживает ли он определенный входной формат, или же он может распаковать определенный входной формат в определенный выходной формат.
 ms.assetid: 622dd1de-3f7a-4841-913c-282c2ad766f4
 keywords:
-- ICM_DECOMPRESS_QUERY сообщения Windows мультимедиа
+- сообщение ICM_DECOMPRESS_QUERY Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 838c946a38f9c2fda0c9178a36107af73f539a03
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105672800"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370533"
 ---
 # <a name="icm_decompress_query-message"></a>\_Сообщение о распаковке \_ запроса ICM
 
@@ -68,7 +68,7 @@ lParam = (DWORD_PTR) (LPVOID) lpbiOutput;
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

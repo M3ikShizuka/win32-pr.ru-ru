@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ed3bd1c122d5e0cf62aa39266da547cd3701e43e6afbf01b853c7d24040504d2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 92c4aa10d9934f8cf5f5747ecb4e4eb736af2655
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118373586"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371178"
 ---
 # <a name="mm_mixm_line_change-message"></a>\_ \_ \_ Сообщение об изменении миксм строки mm
 
@@ -68,7 +68,7 @@ lParam = (LPARAM) dwLineID
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

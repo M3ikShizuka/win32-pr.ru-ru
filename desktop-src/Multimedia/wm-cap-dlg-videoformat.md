@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fbaa58e99c6a07db9109a0b1a6dae25de8abd46fef2631eb539961de16455ec0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8d244c4c141845d4ede66804918514e091872e89
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118135403"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371400"
 ---
 # <a name="wm_cap_dlg_videoformat-message"></a>\_ \_ Сообщение видеоформат с диалогом WM Cap \_
 
@@ -44,7 +44,7 @@ lParam = 0L;
 
 Диалоговое окно Формат видео является уникальным для каждого драйвера записи. Некоторые драйверы записи могут не поддерживать диалоговое окно формата видео. Приложения могут определить, поддерживает ли драйвер записи это сообщение, проверив элемент **фхасдлгвидеоформат** в [**капдриверкапс**](/windows/win32/api/vfw/ns-vfw-capdrivercaps).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
