@@ -4,12 +4,12 @@ description: Чтение из одного потока и запись в др
 ms.assetid: 035a8862-9a0f-49d2-a060-5131ff2b7887
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 466b0cd6bb0622716de30b873ef93a96da2042babf43de26a3fceff15b4bb664
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 72b217dbfd0b88962b037c2822dbc7095bc87a83
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118371601"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369854"
 ---
 # <a name="reading-from-one-stream-and-writing-to-another"></a>Чтение из одного потока и запись в другой
 

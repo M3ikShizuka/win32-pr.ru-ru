@@ -6,12 +6,12 @@ keywords:
 - COM-значение реестра Акцесспермиссион
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 641512d34b963879ceb3d1a6266a017836879b224b228edb3ad62d61300fb03e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6e6210eba77f614b16c8fde59948b350ad150909
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118551348"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369533"
 ---
 # <a name="accesspermission"></a>акцесспермиссион
 
@@ -31,7 +31,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AppID
 
 Для приложений, которые не вызывают [**CoInitializeSecurity**](/windows/desktop/api/combaseapi/nf-combaseapi-coinitializesecurity) или не используют интерфейс [**Иглобалоптионс**](/windows/win32/api/objidlbase/nn-objidlbase-iglobaloptions) для указания AppID, исполняемый файл двоичного приложения должен быть сопоставлен с AppID приложения, как описано в [**AppID**](appid.md). Это необходимо для того, чтобы COM мог нахождение идентификатора AppID приложения.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

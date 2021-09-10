@@ -4,12 +4,12 @@ description: Создание глобальной таблицы интерфе
 ms.assetid: e8e46642-ef41-4322-97d0-8dd5b7c72992
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 836cc5507ac9b8e7cccd6e9dc8fd8c2d71e1a23419945ecc01d35b3978940124
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f792f9664da554f6522086796f94a00ccdf0dc07
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119793774"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369493"
 ---
 # <a name="creating-the-global-interface-table"></a>Создание глобальной таблицы интерфейса
 
@@ -44,7 +44,7 @@ if (hr != S_OK) {
 
 COM предоставляет стандартную реализацию интерфейса [**иглобалинтерфацетабле**](/windows/desktop/api/ObjIdl/nn-objidl-iglobalinterfacetable) . Настоятельно рекомендуется использовать эту стандартную реализацию, так как она предоставляет полноценные потокобезопасные функции.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

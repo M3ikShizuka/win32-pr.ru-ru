@@ -27,12 +27,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 14cf6f0ab42b03d028d52df8160cad286e8c37af3988d8ca3b9736dad538012e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1227d2accdf871c2e57a25661837d10089c983ce
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119993784"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369762"
 ---
 # <a name="authentication-service-constants"></a>Константы службы проверки подлинности
 
@@ -65,7 +65,7 @@ ms.locfileid: "119993784"
 
 Эти константы используются в [**единственной \_ \_ службе проверки подлинности**](/windows/win32/api/objidlbase/ns-objidlbase-sole_authentication_service) и в [**единственной структуре \_ \_ сведений о проверке подлинности**](/windows/win32/api/objidlbase/ns-objidlbase-sole_authentication_info) . **Единственная структура \_ \_ службы проверки подлинности** передается сервером функции [**CoInitializeSecurity**](/windows/desktop/api/combaseapi/nf-combaseapi-coinitializesecurity) и может быть получена функцией [**кокуеряусентикатионсервицес**](/windows/desktop/api/combaseapi/nf-combaseapi-coqueryauthenticationservices) . Указатель на **единственную структуру \_ \_ сведений о проверке подлинности** передается клиентом **CoInitializeSecurity**. Дополнительные сведения о пакетах безопасности, определенных этими значениями, например NTLMSSP и Kerberos, см. в разделе [com и пакеты безопасности](com-and-security-packages.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

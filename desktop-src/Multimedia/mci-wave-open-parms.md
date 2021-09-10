@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 470b00bc818fb184174f27a8ff281359788f235ec7e31b899b051dc90423426c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b5a4107c6283edab1ffeaf18297e2898a8b17761
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119783788"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370029"
 ---
 # <a name="mci_wave_open_parms-structure"></a>\_ \_ \_ Структура пармс для звукозаписи MCI
 
@@ -41,7 +41,7 @@ typedef struct {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -93,7 +93,7 @@ typedef struct {
 
 Если вы не используете расширенные элементы данных, можно использовать структуру [**MCI \_ Open \_ пармс**](mci-open-parms.md) , а не звукозапись **MCI \_ \_ Open \_ пармс** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

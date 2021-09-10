@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8569a278f697ed816085c4fc8f313502d2994215519fb2452f82e63ce31a80cc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d0b197acfa0e170a9ab199cd6d6c51a64e14c320
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119783924"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370110"
 ---
 # <a name="mci_vcr_status_parms-structure"></a>\_ \_ Структура пармс состояния видеомагнитофона MCI \_
 
@@ -40,7 +40,7 @@ typedef struct tagMCI_VCR_STATUS_PARMS {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -95,7 +95,7 @@ typedef struct tagMCI_VCR_STATUS_PARMS {
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

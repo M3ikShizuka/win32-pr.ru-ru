@@ -4,12 +4,12 @@ description: Модель COM разработана таким образом, 
 ms.assetid: dd4adafb-a7e4-44ba-ae4a-80585875ecb6
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d49d3d584ba6aa25a721276559a65ca2f9f9deded76616b93ff9953affce3553
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 9356ba2bcb9dd3a6a56ac16c354f3abcb752d717
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120070834"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369433"
 ---
 # <a name="inter-object-communication"></a>Связь Inter-Object
 
@@ -47,7 +47,7 @@ COM не указывает, как структурированы компон�
 -   [Канал](channel.md)
 -   [Microsoft RPC](microsoft-rpc.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

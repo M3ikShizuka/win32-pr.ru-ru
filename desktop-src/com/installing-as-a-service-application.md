@@ -5,11 +5,11 @@ ms.assetid: 0dd4b348-3d12-49ba-8098-4adb9df01a0e
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 3ed5c474d73c74b3be40bae773c3d51eadf6c69a
-ms.sourcegitcommit: 5f33645661bf8c825a7a2e73950b1f4ea0f1cd82
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "104070668"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369558"
 ---
 # <a name="installing-as-a-service-application"></a>Установка в качестве приложения службы
 
@@ -27,7 +27,7 @@ ms.locfileid: "104070668"
 
 Сервер, зарегистрированный с помощью **LocalService** или **runas** , может зарегистрировать объект в таблице выполняющегося объекта, чтобы разрешить любому клиенту подключаться к нему. Для этого в вызове [**ируннингобжекттабле:: Register**](/windows/desktop/api/ObjIdl/nf-objidl-irunningobjecttable-register) на сервере должен быть установлен \_ флаг ротфлагс аллованиклиент. Параметр сервера этот бит должен иметь имя исполняемого файла в разделе AppID реестра, который ссылается на AppID для исполняемого файла. Сервер, не зарегистрированный как **LocalService** или **runas**, может не зарегистрировать объект с этим флагом.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
@@ -43,6 +43,6 @@ ms.locfileid: "104070668"
 [Самостоятельная регистрация](self-registration.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

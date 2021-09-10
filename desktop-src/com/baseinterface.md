@@ -6,12 +6,12 @@ keywords:
 - COM-значение реестра BaseInterface
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ea2026df558dfddd27eddbadcb92f32a101d75227133f1daf99c8ee8807d2371
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 202c64b491d362c335a1fb6526fba308904a0410
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118550728"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369586"
 ---
 # <a name="baseinterface"></a>BaseInterface
 
@@ -29,7 +29,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Interface
 
 Это значение **reg \_ SZ** .
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: Для определенных категорий один кла�
 ms.assetid: 9c48615b-ab10-44e4-a032-49d5ee0c9b01
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e63eaa99d4f35c5a7f2451da2c5d9becb38e5af2dcf18aa71cf980e7446e1997
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 871c537535c57da0809effbe3ee8ec086a88fd5c
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119993424"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369689"
 ---
 # <a name="default-classes-and-associations"></a>Классы и ассоциации по умолчанию
 
@@ -26,7 +26,7 @@ HKEY_CLASSES_ROOT\CLSID
 
 Во время установки компонент может проверить наличие ключей класса по умолчанию для его категорий и предоставить пользователю возможность переопределения текущих параметров.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

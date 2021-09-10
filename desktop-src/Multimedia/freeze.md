@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 1261cc75575a5b59d200ff965a5325caef9fa966
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122481560"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369885"
 ---
 # <a name="freeze-command"></a>заморозить команду
 
@@ -95,7 +95,7 @@ _stprintf_s(
 
 Возвращает нуль в случае успеха или ошибку в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 При использовании с устройствами ВИДЕОМАГНИТОФОНА эта команда предназначена для карт, занятых кадрами.
 

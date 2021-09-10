@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4a51753dbb5ed265bc9d60d5aafed38a9618854cb63500c1bf58e4d20b87a1ed
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6b0c82db597a0e347f382c7cda55ce507f4e6dcc
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120038894"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370083"
 ---
 # <a name="mci_restore-command"></a>\_Команда восстановления MCI
 
@@ -102,7 +102,7 @@ MCIERROR mciSendCommand(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

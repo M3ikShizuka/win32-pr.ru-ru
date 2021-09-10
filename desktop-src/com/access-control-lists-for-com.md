@@ -4,12 +4,12 @@ description: Списки управления доступом для COM
 ms.assetid: ceb37563-7e7f-4704-b671-72ed65e3e102
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e50e1641691b1a2812e861a95c5bc0f7eac8f0f8af67d41b18287c07253b8d51
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 811b6cdbca36ef75bb5ee3f185b0261967d736d0
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118551358"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369525"
 ---
 # <a name="access-control-lists-for-com"></a>Списки управления доступом для COM
 
@@ -74,7 +74,7 @@ SACL:
 
 Чтобы исправить это, необходимо изменить первую запись ACE, чтобы предоставить \_ права com \_ в сочетании с одним из четырех прав доступа, или же второй и третий элементы ACE следует изменить, чтобы предоставить только \_ выполнение прав com \_ .
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

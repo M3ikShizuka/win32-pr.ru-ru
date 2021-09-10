@@ -6,12 +6,12 @@ keywords:
 - COM-значение реестра Инвалидсекуритидескрипторлоггинглевел
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0c2362b38c19acd8d895e5fa9640475fa401a7d5bd88c8016056df2d22c3a579
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 25ac333a7cb8b54f383f93a71131cbb0a9314466
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119854344"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369665"
 ---
 # <a name="invalidsecuritydescriptorlogginglevel"></a>инвалидсекуритидескрипторлоггинглевел
 
@@ -43,7 +43,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole
 
 Обратите внимание, что [**активатионфаилурелоггинглевел**](activationfailurelogginglevel.md) и [**каллфаилурелоггинглевел**](callfailurelogginglevel.md) не имеют возможности контролировать ведение журнала недопустимых ошибок дескриптора безопасности. Используйте **инвалидсекуритидескрипторлоггинглевел** для полного контроля над этими функциями.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

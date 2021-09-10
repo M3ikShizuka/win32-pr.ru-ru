@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2ff14bf6db2fee24b2cee426114b460dc5e4682bd00e14f7b68a91695bab1f66
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8eeae20495281640718f95066476f0f3ac89dc6f
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120038244"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369978"
 ---
 # <a name="mci_vcr_cue_parms-structure"></a>\_ \_ Структура Cue пармс для видеомагнитофона \_ MCI
 
@@ -38,7 +38,7 @@ typedef struct tagMCI_VCR_CUE_PARMS {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -79,7 +79,7 @@ typedef struct tagMCI_VCR_CUE_PARMS {
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

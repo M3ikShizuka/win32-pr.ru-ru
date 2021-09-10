@@ -3,7 +3,7 @@ title: Команда MCI_SET (Ммсистем. h)
 description: Команда MCI \_ Set задает сведения об устройстве. Эта команда распознает аудио компакт-диск, цифровое видео, устройство MIDI Sequencer, ВИДЕОМАГНИТОФОН, видеодиск, наложение видео и аудио-файлы.
 ms.assetid: c527f9d6-2119-4274-98b7-dc892e9b70f9
 keywords:
-- MCI_SET команды мультимедиа Windows
+- команда MCI_SET Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 4e1da0da94c0d970b607a29548c773fa9302d26d
-ms.sourcegitcommit: 8276af9231bdbf5a7334299f0d13fc8ff069a065
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "105674511"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369933"
 ---
 # <a name="mci_set-command"></a>\_Команда MCI Set
 
@@ -71,7 +71,7 @@ MCIERROR mciSendCommand(
 
 Возвращает нуль в случае успеха или ошибку в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Следующие дополнительные флаги применяются ко всем устройствам, поддерживающим MCI \_ .
 
@@ -752,11 +752,11 @@ RLE DIB Format.
 |-------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                                |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                      |
-| Заголовок<br/>                   | <dl> <dt>Ммсистем. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>ммсистем. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

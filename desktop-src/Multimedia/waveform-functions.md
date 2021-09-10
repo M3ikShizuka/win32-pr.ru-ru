@@ -10,12 +10,12 @@ keywords:
 - Справочник по вавефоре Audio, функциям
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7bf5b5f5fabbeeee50b3ecfa76a8540bd2f3ec96dda818eb3f7c77cbc4361f0e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1e9b6568bdf0f92409d8dca8d68cad3c97bfbc26
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119781484"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372567"
 ---
 # <a name="waveform-functions"></a>Функции волны
 
@@ -66,7 +66,7 @@ ms.locfileid: "119781484"
 -   [**вавеаутунпрепарехеадер**](/windows/win32/api/mmeapi/nf-mmeapi-waveoutunprepareheader)
 -   [**вавеаутврите**](/windows/win32/api/mmeapi/nf-mmeapi-waveoutwrite)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

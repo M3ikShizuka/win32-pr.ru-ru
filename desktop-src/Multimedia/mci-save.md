@@ -3,7 +3,7 @@ title: Команда MCI_SAVE (Ммсистем. h)
 description: Команда MCI \_ Save сохраняет текущий файл.
 ms.assetid: 286e6f31-cb93-443b-8191-8c363b366eae
 keywords:
-- MCI_SAVE команды мультимедиа Windows
+- команда MCI_SAVE Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: a241c0379731e870940cd676c33ae192efc5d297
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104489585"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370086"
 ---
 # <a name="mci_save-command"></a>Команда "Сохранить" MCI \_
 
@@ -68,7 +68,7 @@ MCIERROR mciSendCommand(
 
 Возвращает нуль в случае успеха или ошибку в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Эта команда поддерживается устройствами, которые возвращают **значение true** при вызове команды [MCI \_ ЖЕТДЕВКАПС](mci-getdevcaps.md) с \_ \_ флагом MCI жетдевкапс \_ .
 
@@ -131,11 +131,11 @@ MCIERROR mciSendCommand(
 |-------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                                |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                      |
-| Заголовок<br/>                   | <dl> <dt>Ммсистем. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>ммсистем. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -3,7 +3,7 @@ title: Структура MCI_SYSINFO_PARMS (МЦиапи. h)
 description: '\_ \_ Структура пармс MCI сисинфо содержит сведения для \_ команды MCI сисинфо.'
 ms.assetid: 433649ed-7c00-440d-84f3-164949e01cc4
 keywords:
-- MCI_SYSINFO_PARMS структура мультимедиа Windows
+- структура MCI_SYSINFO_PARMS Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: bf143bb0d895dc03df38bbb0a657467d506eac77
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105672461"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370179"
 ---
 # <a name="mci_sysinfo_parms-structure"></a>\_ \_ Структура пармс MCI сисинфо
 
@@ -40,7 +40,7 @@ typedef struct {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -79,7 +79,7 @@ typedef struct {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 При назначении данных членам этой структуры установите соответствующие флаги в параметре *фдвкомманд* функции [**мЦисендкомманд**](/previous-versions//dd757160(v=vs.85)) , чтобы проверить элементы.
 
@@ -95,7 +95,7 @@ typedef struct {
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

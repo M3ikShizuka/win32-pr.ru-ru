@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 21d12e6f4faa3151764cc1f68af5efec26fb40e0
-ms.sourcegitcommit: 8fa6614b715bddf14648cce36d2df22e5232801a
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "104340085"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369477"
 ---
 # <a name="insertable-progid-key"></a>Вставляемый (клавиша ProgID)
 
@@ -25,7 +25,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes
       Insertable
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это обязательная запись для объектов, которые вставляются в контейнеры OLE 2.
 

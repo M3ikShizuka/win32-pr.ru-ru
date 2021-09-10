@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 674b8b35c21fa54f1c2ecfc8b9dff531266c319b827d675da46be04e6c7abe8e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3fa4c3d1e3b90b9ab0c5bf5791dacd541c8a8bc0
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119805384"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370122"
 ---
 # <a name="setvideo-command"></a>Команда сетвидео
 
@@ -119,7 +119,7 @@ _stprintf_s(
 
 Для устройств ВИДЕОМАГНИТОФОНА, использующих сетвидео с флагом, который отключает отдельную дорожку ("Отслеживание *\_ номера* записи"), приложение может получить сообщение о состоянии, указывающее, что команда не может быть выполнена. Некоторые видеомагнитофоны могут отключать только комбинации дорожек, а не отдельные дорожки; Например, первая звуковая дорожка и видеозапись видеокассеты. В этом случае просто используйте [сетаудио](setaudio.md) и сетвидео, чтобы продолжить отключать другие дорожки, составляющие комбинацию. Драйвер отключит дорожки при получении команды для отключения последней дорожки в сочетании.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -161,7 +161,7 @@ _stprintf_s(
 [сетаудио](setaudio.md)
 </dt> <dt>
 
-[window](window.md)
+[окно](window.md)
 </dt> </dl>
 
  

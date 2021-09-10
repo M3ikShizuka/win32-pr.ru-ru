@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: bd209ed04e51671ce7d9c8a7ae88a79073836c2e
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122626119"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370149"
 ---
 # <a name="status-command"></a>Команда Status
 
@@ -874,7 +874,7 @@ status mysound mode
 [pause](pause.md)
 </dt> <dt>
 
-[вставка](paste.md)
+[авить](paste.md)
 </dt> <dt>
 
 [record](record.md)

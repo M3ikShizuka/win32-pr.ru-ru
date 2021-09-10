@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fc03ab0406542472871f35ca3ff619d4d9a6f35725b9322a4c11bc73bc29a5aa
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 96ee62c4a2b6e17bf5ad6d719dcb7d6e992a2f2e
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119807514"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369865"
 ---
 # <a name="mm_mcinotify-message"></a>MM \_ мЦинотифи, сообщение
 
@@ -79,7 +79,7 @@ lParam = (LONG) lDevID
 
 Когда приложение запрашивает уведомление для команды, проверьте ошибку, возвращаемую функциями [**mciSendString**](/previous-versions//dd757161(v=vs.85)) или [**мЦисендкомманд**](/previous-versions//dd757160(v=vs.85)) . Если эти функции обнаруживают ошибку и возвращают ненулевое значение, MCI не установит уведомление для команды.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

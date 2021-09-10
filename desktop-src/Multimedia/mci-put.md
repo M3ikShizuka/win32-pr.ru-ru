@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6c34250f59122eca942309b840c4b66521a08b3eecc8ca89dfd480d6e9a6869d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c8fa4af30aa2b3aa6f7cdd50f453bc8edca83334
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119689914"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369915"
 ---
 # <a name="mci_put-command"></a>Команда MCI « \_ разместить»
 
@@ -168,7 +168,7 @@ MCIERROR mciSendCommand(
 
 Для устройств с наложением видео *лпдест* указывает на структуру [**MCI \_ овли \_ Rect \_ пармс**](mci-ovly-rect-parms.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

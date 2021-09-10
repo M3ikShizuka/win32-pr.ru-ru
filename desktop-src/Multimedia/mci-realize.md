@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e81204fe679d543438a0d0dcc7ec333462cb6a3d0c30212706969dc22a143df1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 35f2e59bfe9bbe1443f55ae0fbcf8819b932bb1c
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119689834"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370077"
 ---
 # <a name="mci_realize-command"></a>\_Команда MCI
 
@@ -92,7 +92,7 @@ MCIERROR mciSendCommand(
 
 Для устройств с цифровыми видео параметр *лпреализе* указывает на структуру **MCI \_ \_ пармс** . Дополнительные сведения см. в разделе комментарии в структуре [**MCI \_ Generic \_ пармс**](mci-generic-parms.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -4,12 +4,12 @@ description: Реализация IClassFactory
 ms.assetid: 96466756-c135-4ee5-a48c-f31129878473
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 73b3d524bc65657e973771f2893d562f0ce0095cbfd7fb976ce82cce202794a1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b057657508b3060506c15c68308ea6a5332e5099
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119756274"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369514"
 ---
 # <a name="implementing-iclassfactory"></a>Реализация IClassFactory
 
@@ -24,7 +24,7 @@ ms.locfileid: "119756274"
 
 COM также предоставляет вспомогательные функции для реализации серверов вне процесса. Дополнительные сведения см. в разделе [вспомогательные методы реализации сервера](out-of-process-server-implementation-helpers.md).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a84c95df35ecd602c207daa716b62d90f6bdc79b0ede7f937d3a38e6d6a9373b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 14d8b33e70a2e061b54260aeffc6e69432c469f5
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119689984"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370020"
 ---
 # <a name="mci_open-command"></a>\_Команда MCI Open
 
@@ -202,7 +202,7 @@ MCIERROR mciSendCommand(
 
 Для устройств с аудио-волнами параметр *лпопен* указывает на структуру [**MCI \_ Wave \_ Open \_ пармс**](mci-wave-open-parms.md) . Драйвер МЦИВАВЕ требует наличия асинхронного устройства аудио-сигнала.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

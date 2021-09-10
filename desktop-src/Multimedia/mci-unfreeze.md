@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3011f3d2c05c304b37957c6f4cb78f2ada9389ab727a7af63a358fd4b5afdd3c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8736e27998330f9337bb21569e145a4395e90020
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119525574"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370185"
 ---
 # <a name="mci_unfreeze-command"></a>Команда "отменить \_ замораживание" MCI
 
@@ -109,7 +109,7 @@ MCI \_ ДГВ \_ Rect
 
 Для устройств с наложением параметр *лпунфризе* указывает на структуру [**MCI \_ овли \_ Rect \_ пармс**](mci-ovly-rect-parms.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

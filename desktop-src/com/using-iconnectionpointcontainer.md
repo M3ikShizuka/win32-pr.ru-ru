@@ -4,12 +4,12 @@ description: Использование IConnectionPointContainer
 ms.assetid: a87afb25-4d45-4ce2-9b27-840da5107bce
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9a8d53e9051796cafa4a8c7825d810b18784d58a4dd5d531eb38872b87cb32c4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d4d0b7c691e1ba6a8445af56978b43a2ccbf33e7
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119992034"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369810"
 ---
 # <a name="using-iconnectionpointcontainer"></a>Использование IConnectionPointContainer
 
@@ -23,7 +23,7 @@ ms.locfileid: "119992034"
 
 Поскольку перечислитель является отдельным объектом, клиент должен вызвать **иенумконнектионпоинтс:: Release** , если перечислитель больше не нужен. Кроме того, каждая точка соединения является объектом с отдельным числом ссылок из содержащего объекта, доступного для соединения. Таким образом, клиент должен также вызвать метод IConnectionPoint:: Release для каждой точки подключения, доступ к которой осуществляется через перечислитель или через [**финдконнектионпоинт**](/windows/desktop/api/OCIdl/nf-ocidl-iconnectionpointcontainer-findconnectionpoint).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
