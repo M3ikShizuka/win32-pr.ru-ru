@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: b3139d12864eb92cc153b919dc4b9b9a4059379d
-ms.sourcegitcommit: 5f33645661bf8c825a7a2e73950b1f4ea0f1cd82
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "105700939"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369713"
 ---
 # <a name="runas"></a>RunAs
 
@@ -21,18 +21,18 @@ ms.locfileid: "105700939"
 
 ```
 HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AppID
-   {AppID_GUID}
-      RunAs = value
+   {AppID_GUID}
+      RunAs = value
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-Значение указывает имя пользователя и должно быть либо в формате *username*, либо в *доменном ***\\*** имени* , либо в строке "Интерактивный пользователь". Можно также указать строки «NT Authority \\ LocalService» (для локальной службы) и «NT Authority \\ NetworkService» (для сетевой службы). \\Если {*AppID \_ GUID*} указывает на сервер COM, который уже запущен или имеет запись в таблице классов, можно также указать строку "NT Authority System". Тем не менее нельзя использовать «систему NT Authority \\ » с сервером COM, который еще не запущен. Пароль по умолчанию для "NT Authority \\ LocalService", "NT Authority \\ NetworkService" и "система NT Authority \\ " — "" (пустая строка).
+Значение указывает имя пользователя и должно иметь одно из двух значений: *имя* пользователя, *домен * **\\** _имя пользователя_ или строка "Интерактивный пользователь". Можно также указать строки «NT Authority \\ LocalService» (для локальной службы) и «NT Authority \\ NetworkService» (для сетевой службы). Кроме того, можно указать строку "NT Authority \\ System", если {* AppID \_ GUID *} ссылается на COM-сервер, который уже запущен или имеет запись в таблице классов. Тем не менее нельзя использовать «систему NT Authority \\ » с сервером COM, который еще не запущен. Пароль по умолчанию для "NT Authority \\ LocalService", "NT Authority \\ NetworkService" и "система NT Authority \\ " — "" (пустая строка).
 
 > [!Note]  
-> Начиная с Windows Vista, для настройки параметров запуска от имени «служба NT Authority» \\ , «NT Authority \\ NetworkService» и «система NT Authority» больше не \\  требуется пустой пароль.
+> начиная с Windows Vista, больше не требуется пустой пароль для настройки \\ параметров запуска от имени "локальная служба nt", "nt authority \\ networkservice" и "nt authority \\ system". 
 
- 
+ 
 
 Классы, настроенные для запуска от имени конкретного пользователя, могут не регистрироваться под другим удостоверением, поэтому вызовы [**CoRegisterClassObject**](/windows/desktop/api/combaseapi/nf-combaseapi-coregisterclassobject) с этим CLSID завершаются неудачей, если процесс не был запущен com от имени фактического запроса на активацию.
 
@@ -47,17 +47,17 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AppID
 Значение **runas** не используется для серверов, настроенных для запуска в качестве служб. Службы COM, которые должны выполняться под удостоверением, отличным от LocalSystem, должны устанавливать соответствующие имя пользователя и пароль с помощью приложения панели управления "службы" или функций контроллера служб. (Дополнительные сведения об этих функциях см. в разделе [службы](/windows/desktop/Services/services).)
 
 > [!Note]  
-> Начиная с Microsoft Windows Server 2003, класс AppID явно читается из **\_ \_ \\ классов программного обеспечения локального компьютера \\ hKey \\ AppID**, что, в отличие от большинства разделов реестра, не является взаимозаменяемым **с \_ \_ корневым \\ идентификатором классов hKey**.
+> на сервере Microsoft Windows Server 2003 класс appid явно читается из **\_ \_ \\ классов программного обеспечения локального компьютера HKEY \\ \\ appid**, что, в отличие от большинства разделов реестра, не является взаимозаменяемым с **\_ \_ корневым \\ идентификатором классов hkey**.
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
 [Регистрация серверов COM](registering-com-servers.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

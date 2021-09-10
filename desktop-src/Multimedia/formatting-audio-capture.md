@@ -6,12 +6,12 @@ keywords:
 - макрос Капсетаудиоформат
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 36acf1f98bcb6ea5d6786264406c28da78e909e3e57c5d796eac080139229f77
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a5f53553804aab401a9c2a4ada5dc9ee39170269
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119496384"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371373"
 ---
 # <a name="formatting-audio-capture"></a>Форматирование записи звука
 
@@ -35,7 +35,7 @@ capSetAudioFormat(hWndC, &wfex, sizeof(WAVEFORMATEX));
 
 
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

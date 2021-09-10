@@ -10,12 +10,12 @@ keywords:
 - мультимедийные интерфейсы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e8f78e967635aca888dcea4a92068f12f9b20ad0e6ea728642fa01ae2d153a9d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: aa309e43fed00ae69853f58af9fc568e60f2a922
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119806784"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370296"
 ---
 # <a name="multimedia-interfaces"></a>Мультимедийные интерфейсы
 
@@ -27,7 +27,7 @@ ms.locfileid: "119806784"
 -   [**иавистреаминг**](/windows/desktop/api/Vfw/nn-vfw-iavistreaming)
 -   [**ижетфраме**](/windows/desktop/api/Vfw/nn-vfw-igetframe)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

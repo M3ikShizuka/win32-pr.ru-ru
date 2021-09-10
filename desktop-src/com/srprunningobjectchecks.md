@@ -6,12 +6,12 @@ keywords:
 - COM-значение реестра Српруннингобжектчеккс
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c416b5f430540282873e37c5e74ef2cccc1c564f4a5b27842ba2a49e99cc8769
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0ad307856bcfdd30cfaa6c731551ac6570d2bec6
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119129796"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369645"
 ---
 # <a name="srprunningobjectchecks"></a>српруннингобжектчеккс
 
@@ -30,7 +30,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole
 
 Строковые значения {N, N, нет, нет, нет} указывает, что попытки подключения к работающим объектам не отображаются на экране для совместимых уровней безопасности SRP. Если для этого параметра реестра задано любое другое значение или оно не существует, то выполняющийся объект не может иметь менее строгий уровень доверия SRP, чем объект клиента. Например, выполняющийся объект не может иметь неразрешенный уровень доверия, если у клиентского объекта есть неограниченный уровень доверия.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -6,12 +6,12 @@ keywords:
 - COM раздела реестра Треатас
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bc0808242b0732521bdd45a7b8fcdb65783ae83e5293f6c7fac39e51d50e609a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cf4340b398d6a98b0445cee932da120e23355b71
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119639324"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369573"
 ---
 # <a name="treatas"></a>треатас
 
@@ -33,7 +33,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID
 
 DCOM просматривает локальный реестр для **треатас**, даже если вызвать функцию [**CoCreateInstance**](/windows/desktop/api/combaseapi/nf-combaseapi-cocreateinstance) и указать удаленный сервер. Это означает, что если имеется запись **треатас** для класса Class1, которую следует рассматривать как Class2 на локальном компьютере, но вы вызываете **CoCreateInstance** для создания экземпляра Class1 и указываете удаленный сервер, DCOM попытается создать экземпляр класса Class2 на удаленном сервере, даже если Class2 не зарегистрирован на удаленном сервере, что приведет к сбою вызова **CoCreateInstance** .
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 0b66ae6b1c7f267f48f24441c04e95eea75e4345
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103774969"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369642"
 ---
 # <a name="srpactivateasactivatorchecks"></a>српактиватеасактиваторчеккс
 
@@ -21,25 +21,25 @@ ms.locfileid: "103774969"
 
 ```
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole
-   SRPActivateAsActivatorChecks = value
+   SRPActivateAsActivatorChecks = value
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это значение **reg \_ SZ** .
 
 Строковые значения {N, N, нет, нет, нет} указывает, что серверный объект работает с уровнем доверия SRP объекта клиента, независимо от уровня доверия SRP, с которым оно было настроено. Если для этого параметра реестра задано любое другое значение или оно не существует, то уровень доверия SRP, настроенный для объекта сервера, сравнивается с уровнем доверия SRP объекта клиента и для запуска серверного объекта используется более строгий уровень доверия.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
 [срптрустлевел](srptrustlevel.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

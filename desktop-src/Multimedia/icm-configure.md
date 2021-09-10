@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7bc2d9176415c22a1b79a8dc08ee84db1c77fbd6665f89f615b38d3c60538d51
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9faae26fcf132abfa424b0db7a88670735d30727
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119785004"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370437"
 ---
 # <a name="icm_configure-message"></a>\_Сообщение настройки ICM
 
@@ -53,7 +53,7 @@ lParam = 0;
 
 Это сообщение отличается от сообщения конфигурации [**DRV \_**](drv-configure.md) , используемого для настройки оборудования. Диалоговое окно этого сообщения должно предоставить пользователю возможность задать и изменить внутреннее состояние, на которое ссылаются сообщения [**ICM \_**](icm-getstate.md) [**\_ SETSTATE и ICM**](icm-setstate.md) . Например, это диалоговое окно может изменять параметры пользователя, влияющие на уровень качества и другие аналогичные параметры сжатия.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

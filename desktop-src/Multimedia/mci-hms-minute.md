@@ -3,7 +3,7 @@ title: Макрос MCI_HMS_MINUTE (МЦиапи. h)
 description: Макрос MCI \_ ХМс \_ Minute извлекает компонент минут из параметра, содержащего Упакованные данные о часах/минутах/секундах (ХМс).
 ms.assetid: d083f769-9825-48cc-80f9-34ce3ef66ad6
 keywords:
-- MCI_HMS_MINUTE макросов Windows мультимедиа
+- MCI_HMS_MINUTE макрос Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 49c91d2dcb13ea6b206df2a0dbc0d6a2e7096e59
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104137586"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370197"
 ---
 # <a name="mci_hms_minute-macro"></a>\_Макрос MCI ХМс \_ Minute
 
@@ -51,7 +51,7 @@ BYTE MCI_HMS_MINUTE(
 
 Возвращает компонент минут указанной информации ХМС.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Время в формате ХМС выражается как значение **DWORD** с наименьшим значащим байтом, содержащим часы, следующий младший значащий байт, содержащий минуты, и следующий младший значащий байт, содержащий секунды. Наиболее значимый байт не используется.
 
@@ -76,7 +76,7 @@ BYTE MCI_HMS_MINUTE(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

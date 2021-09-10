@@ -13,12 +13,12 @@ keywords:
 - Элемент управления Ксаунд Pan
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6e902e3ead0416cb4b2a7d56d289f91779563109cb9494784635affc75069dfe
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4d1d7644255e2fa9ee6384cbb5102df81c2a1eb0
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119805354"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372135"
 ---
 # <a name="sliders-windows-multimedia"></a>ползунки (Windows мультимедийные)
 
@@ -26,7 +26,7 @@ ms.locfileid: "119805354"
 
 
 
-| Элемент    | Описание                                                                                                               |
+| Control    | Описание                                                                                                               |
 |------------|---------------------------------------------------------------------------------------------------------------------------|
 | Ползунок     | Имеет диапазон от – 32 768 до 32 767. Драйвер микшера определяет ограничения этого элемента управления.                               |
 | Сдвиг        | Имеет диапазон от – 32 768 до 32 767. Драйвер микшера определяет ограничения для этого элемента управления, значение 0 в качестве значения среднего. |

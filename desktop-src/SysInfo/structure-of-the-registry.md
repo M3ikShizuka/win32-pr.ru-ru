@@ -4,12 +4,12 @@ ms.assetid: 4ed60563-73d8-4134-8cb2-8388734fb18d
 title: Структура реестра
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f2eb63d49db37bc23eee56bb845c9c5dedf9df7ce4ce610ff8ade500e97cb88e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7bf104806b5e4e10b4be7387018e714a0db8bf37
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117763501"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371931"
 ---
 # <a name="structure-of-the-registry"></a>Структура реестра
 
@@ -29,7 +29,7 @@ ms.locfileid: "117763501"
 
 Дерево реестра может иметь глубину 512 уровней. С помощью одного вызова API реестра можно создать до 32 уровней за раз.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

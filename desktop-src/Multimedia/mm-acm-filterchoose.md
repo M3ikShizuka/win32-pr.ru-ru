@@ -3,7 +3,7 @@ title: Сообщение MM_ACM_FILTERCHOOSE (MSACM. h)
 description: Сообщение MM \_ ACM \_ филтерчусе уведомляет о функции-обработчике диалогового окна акмфилтерчусе перед добавлением элемента в один из трех раскрывающихся списков.
 ms.assetid: f3c68240-a9aa-4771-96b9-1cb3bb5ea906
 keywords:
-- MM_ACM_FILTERCHOOSE сообщения Windows мультимедиа
+- сообщение MM_ACM_FILTERCHOOSE Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 1df28ad7f950b8ce995fd308622db8c429393cb8
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104135271"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370314"
 ---
 # <a name="mm_acm_filterchoose-message"></a>\_Сообщение mm ACM \_ филтерчусе
 
@@ -71,7 +71,7 @@ ms.locfileid: "104135271"
 
 Возвращает **значение true** , если приложение обрабатывает это сообщение или **значение false** в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если приложение обрабатывает \_ операцию добавления фильтра филтерчусе \_ , размер буфера памяти, указанный в параметре *lParam* , будет определен из функции [**акмметрикс**](/windows/desktop/api/Msacm/nf-msacm-acmmetrics) .
 
@@ -89,7 +89,7 @@ ms.locfileid: "104135271"
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

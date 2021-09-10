@@ -7,12 +7,12 @@ keywords:
 - Справочник по MCI, макросы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: aabb60da73575f23c9fe15030335bd4593f4c53d65fbd7ae52b3816037ba9b28
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 28231e4b7082bdcf61578b787b4e7add2f9f2f8f
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117803664"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370194"
 ---
 # <a name="mci-macros"></a>Макросы MCI
 
@@ -32,7 +32,7 @@ ms.locfileid: "117803664"
 -   [**тмсф MCI, \_ \_ секунда**](mci-tmsf-second.md)
 -   [**\_средство MCI тмсф \_ Track**](mci-tmsf-track.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

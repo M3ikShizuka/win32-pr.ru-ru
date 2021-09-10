@@ -10,12 +10,12 @@ keywords:
 - Справочник по устанавливаемым драйверам, о
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d6dd2488f0b07805edbcdc90187309db2a04c9c0ced4f4b5b0af4e50bd983ca4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e90475063f9d9211e841902fe73d2f09dc6130d8
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120038644"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370458"
 ---
 # <a name="installable-driver-reference"></a>Справочник по устанавливаемому драйверу
 
@@ -53,7 +53,7 @@ ms.locfileid: "120038644"
 -   [дриверкаллбакк](/windows/win32/api/mmiscapi/nf-mmiscapi-drivercallback)
 -   [дриверпрок](/windows/win32/api/mmiscapi/nc-mmiscapi-driverproc)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

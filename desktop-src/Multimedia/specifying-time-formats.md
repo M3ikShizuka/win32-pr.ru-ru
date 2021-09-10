@@ -9,12 +9,12 @@ keywords:
 - Макрос МЦивндусефрамес
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 50c14303879a3d13d018be8691eb1947ee1ed67907df796ae38cffc3936bf2ae
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2e390e811bde4d797572c19f372923906f6b738b
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117801707"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372171"
 ---
 # <a name="specifying-time-formats"></a>Указание форматов времени
 

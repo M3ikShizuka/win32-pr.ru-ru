@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4309149c8b69fd4396de3a4e67ab18c49008dd7051ed52d4fe992867d1262fe4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d2a79a5a4ab6b0422705fe737ba3da4a6fd4f923
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119807384"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370893"
 ---
 # <a name="mm_mim_data-message"></a>\_сообщение MIM \_ данных MM
 
@@ -77,7 +77,7 @@ lParam = (LPARAM) (DWORD) lMidiMessage
 
 Это сообщение не отправляется, когда получено сообщение, исключающая систему MIDI. Нет отметки времени, доступной для этого сообщения. Для входных данных с отметкой времени необходимо использовать сообщения, отправленные в функции обратного вызова.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

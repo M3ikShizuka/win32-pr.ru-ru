@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3e9c17a131827459555ae51adc5d5bd48d98fabb88fc4c1f0dbbcd1eb3673466
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7bba3fa2e474a15dc23deb9cdc6d00d148b8cd3a
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119807563"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370767"
 ---
 # <a name="mciwndm_settimers-message"></a>\_Сообщение мЦивндм сеттимерс
 
@@ -56,7 +56,7 @@ lParam = (LPARAM) (UINT) inactive;
 
 Это сообщение не возвращает значение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

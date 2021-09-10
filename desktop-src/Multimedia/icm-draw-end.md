@@ -3,7 +3,7 @@ title: Сообщение ICM_DRAW_END (VFW. h)
 description: '\_ \_ Сообщение о ЗАВЕРШЕНии ICM выводит драйвер подготовки к распаковке текущего изображения на экран и освобождения ресурсов, выделенных для распаковки и рисования. Это сообщение можно отправить явно или с помощью макроса Икдравенд.'
 ms.assetid: 03910752-6122-4a5a-84ff-2cecf66cf439
 keywords:
-- ICM_DRAW_END сообщения Windows мультимедиа
+- сообщение ICM_DRAW_END Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: e420ac37791bc6c5aa7f660d71005be65fc87fff
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103802621"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370521"
 ---
 # <a name="icm_draw_end-message"></a>\_Сообщение окончания прорисовки ICM \_
 
@@ -38,7 +38,7 @@ lParam = 0;
 
 Возвращает ИЦЕРР \_ ОК в случае успеха или ошибку в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 [**\_ \_ Начало**](icm-draw-begin.md) и **\_ \_ конец** изображения ICM не вложены в сообщения. Если драйвер получает функцию **ICM \_ Draw \_** , то перед **\_ \_ завершением** распаковки с использованием ICM Draw необходимо перезапустить распаковку с новыми параметрами.
 
@@ -54,7 +54,7 @@ lParam = 0;
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

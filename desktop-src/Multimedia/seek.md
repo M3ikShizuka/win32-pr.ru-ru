@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 131b8138f67ae02d9a3d8f1e80693b0735368e2a622d5d8a7fe7c5a481da5542
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d40f3467d328e161245e77217b4ce6edfa9665ee
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119892904"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370107"
 ---
 # <a name="seek-command"></a>Seek, команда
 
@@ -114,7 +114,7 @@ _stprintf_s(
 seek mysound to start
 ```
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -135,7 +135,7 @@ seek mysound to start
 [Строки команд MCI](mci-command-strings.md)
 </dt> <dt>
 
-[cue](cue.md)
+[сказк](cue.md)
 </dt> <dt>
 
 [как](mark.md)

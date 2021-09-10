@@ -11,12 +11,12 @@ keywords:
 - Функция Дравдибчанжепалетте
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3db474a9e983c442f21fd479342ac8b0786719f36f1494e307154c6cc0a0bd50
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f5935831d8996c424a386f86082282f9cf7c1c12
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119893024"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372453"
 ---
 # <a name="palettes"></a>Палитр
 
@@ -37,7 +37,7 @@ ms.locfileid: "119893024"
 
 Функции [**дравдибенд**](/windows/desktop/api/Vfw/nf-vfw-drawdibend), [**дравдибклосе**](/windows/desktop/api/Vfw/nf-vfw-drawdibclose)и [**Дравдиббегин**](/windows/desktop/api/Vfw/nf-vfw-drawdibbegin) могут освободить палитру дравдиб. Однако эти функции следует использовать только в том случае, если эта палитра не была выбрана контроллером домена. Функция Дравдибдрав также может освободить палитру, если она использует тот же Дравдиб контроллер домена, но определяет различные параметры рисования (*лпби*, *дксдст*, *дидст*, *дкссрк* или *дисрк*) или другой формат.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

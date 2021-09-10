@@ -7,12 +7,12 @@ keywords:
 - VFW (видео для Windows), о программе
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 24c2a3f3f966bfcc810f5ee16c3d2025e8178c715718df4a7ca290ef09731b3f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 2debcfe05f5eaebf77660102fef88c460047ba57
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119687504"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371838"
 ---
 # <a name="video-for-windows"></a>Видео для Windows
 

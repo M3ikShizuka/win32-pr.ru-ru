@@ -6,12 +6,12 @@ keywords:
 - Раздел реестра интерфейса COM
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cda0cc29331521025a9274dca7b85080be2ddd5a9b631d2660eadaa13fe4941a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8ae31de7af534a58b4973629f2b889f3332047f6
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119048152"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369585"
 ---
 # <a name="interface-key"></a>Ключ интерфейса
 
@@ -38,7 +38,7 @@ ms.locfileid: "119048152"
 
 Ключ **\_ \_ \\ \\ классов программного обеспечения файла hKey на локальном компьютере** соответствует **\_ \_ корневому ключу classes** , который был сохранен для совместимости с предыдущими версиями com.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -6,12 +6,12 @@ keywords:
 - COM-значение реестра Активатионфаилурелоггинглевел
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a51d0f92dbf1b54d572de44e750fba20ca39954ced57b6276ecdc4b8c4e07960
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cfdd834be35a59dd5d8e207cd679dae68043d70c
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119855104"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369614"
 ---
 # <a name="activationfailurelogginglevel"></a>активатионфаилурелоггинглевел
 
@@ -42,7 +42,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole
 
 Если требуется приложение для управления ведением журнала событий, рекомендуется присвоить этому параметру значение 0 и написать клиентский код для его переопределения при необходимости. Настоятельно рекомендуется не задавать значение 2. Если ведение журнала событий отключено, трудно диагностировать проблемы. Для сбоев разрешений на компьютеры, где в COM нет битов КЛСКТКС, COM будет рассматривать значение 0 как 1.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

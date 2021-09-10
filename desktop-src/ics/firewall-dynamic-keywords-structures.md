@@ -6,12 +6,12 @@ keywords:
 ms.topic: article
 ms.date: 05/13/2021
 ms.localizationpriority: low
-ms.openlocfilehash: 6b6c79e4609fe71be4a883ded9bf6dbab0f4750642fd7324d6e88f3d2cd23f51
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b5ac4db0afd138261c211e21c9a20fe1a55d830c
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119727084"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "124361295"
 ---
 # <a name="firewall-dynamic-keywords-structures"></a>Структуры динамических ключевых слов брандмауэра
 
@@ -24,6 +24,6 @@ ms.locfileid: "119727084"
 | [**FW_DYNAMIC_KEYWORD_ADDRESS_DATA0**](/windows/win32/api/netfw/ns-netfw-fw_dynamic_keyword_address_data0) | Содержит данные, возвращаемые клиенту при вызове API **перечисления** . |
 | [**FW_DYNAMIC_KEYWORD_ADDRESS0**](/windows/win32/api/netfw/ns-netfw-fw_dynamic_keyword_address0) | Позволяет клиенту создать динамический адрес ключевого слова, содержащий список IP-адресов. |
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 * [Справочник по динамическим ключевым словам брандмауэра](firewall-dynamic-keywords-reference.md)

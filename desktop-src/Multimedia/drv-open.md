@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 537d3067c85cf3f92eaf2fae81cd392490ff9fa728ed8377d8241c7204cf64e1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 53c56e62cb85f09a3846c6d95d723b9fa05d95a7
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119691584"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370443"
 ---
 # <a name="drv_open-message"></a>DRV — \_ Открыть сообщение
 
@@ -65,7 +65,7 @@ ms.locfileid: "119691584"
 
 Если драйвер возвращает ненулевое значение, система использует это значение в качестве идентификатора драйвера (параметр *двдриверид* ) в сообщениях, которые он затем отправляет в экземпляр драйвера. Драйвер может возвращать любой тип значения в качестве идентификатора. Например, некоторые драйверы возвращают адреса памяти, указывающие на сведения, относящиеся к конкретному экземпляру. Использование этого метода для указания идентификаторов для экземпляра драйвера предоставляет драйверам доступ к информации во время обработки сообщений.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

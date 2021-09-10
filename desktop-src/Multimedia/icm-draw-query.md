@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e0d1ce01244f81383baab9e6a7efc0fbf658682c8bc070ca0c06eec04814a847
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 27266484cffa503583df32b60c6e8a0c04f344f4
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117987286"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370551"
 ---
 # <a name="icm_draw_query-message"></a>\_ \_ Сообщение запроса ICM Draw
 

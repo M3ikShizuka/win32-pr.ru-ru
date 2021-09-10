@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e0efb5689009fdd6928afd1d2f232bcb1bbeb2160aecf3d79ddb263ed6f315de
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 63cbe88df006f1f98854e42259074d82bbd87dc1
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119429234"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370677"
 ---
 # <a name="mciwndm_getstart-message"></a>Сообщение МЦИВНДМ о \_ запуске
 
@@ -42,7 +42,7 @@ lParam = 0;
 
 Как правило, возвращаемое значение равно нулю; но некоторые устройства используют ненулевое начальное расположение. При поиске в этом расположении устройство настраивается на начало носителя.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -54,7 +54,7 @@ lParam = 0;
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

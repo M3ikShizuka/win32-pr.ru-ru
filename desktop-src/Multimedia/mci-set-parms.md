@@ -3,7 +3,7 @@ title: Структура MCI_SET_PARMS (МЦиапи. h)
 description: '\_ \_ Структура ПАРМС набора MCI содержит сведения для \_ команды MCI Set.'
 ms.assetid: 58811a0f-dc89-4303-b2b2-c98933ebab80
 keywords:
-- MCI_SET_PARMS структура мультимедиа Windows
+- структура MCI_SET_PARMS Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 971affd319ecae817b9c1159ab0f307d0c2a5c91
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104071312"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369936"
 ---
 # <a name="mci_set_parms-structure"></a>\_ \_ Структура ПАРМС набора MCI
 
@@ -38,7 +38,7 @@ typedef struct {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -63,7 +63,7 @@ typedef struct {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 При назначении данных членам этой структуры установите соответствующие флаги в параметре *фдвкомманд* функции [**мЦисендкомманд**](/previous-versions//dd757160(v=vs.85)) , чтобы проверить элементы.
 
@@ -79,7 +79,7 @@ typedef struct {
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

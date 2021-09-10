@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9d0be5f2d75ae8ba1eed61f99d1387e1defec556b5e242f713b75eee0a3f70e4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 631c4fdcd31eef01d691aea80100427d116ae7d5
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117985747"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370887"
 ---
 # <a name="mim_longerror-message"></a>MIM \_ Сообщение ЛОНЖЕРРОР
 

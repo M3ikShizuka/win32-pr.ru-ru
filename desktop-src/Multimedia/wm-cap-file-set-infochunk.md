@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 06d64f88a87af63e5afc513e0e2cf2df53d64570bec099a2f8f2846d781fc0b0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 067ba00563a5ca511f13b23615fc4542090ba397
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119892074"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371442"
 ---
 # <a name="wm_cap_file_set_infochunk-message"></a>\_Сообщение о \_ \_ задании файла \_ ИНФОЧУНК с ограничением WM
 
@@ -55,7 +55,7 @@ lParam = (LPARAM) (LPCAPINFOCHUNK) (lpInfoChunk);
 
 В файл AVI можно добавить несколько блоков зарегистрированных данных. После установки информационного блока он добавляется в последующие файлы записи до тех пор, пока не будет снята запись или не будут удалены все записи фрагментов данных. Чтобы очистить одну запись, укажите фрагмент данных в элементе **фкЦинфоид** и **значение NULL** в элементе **лпдата** структуры [**капинфочунк**](/windows/win32/api/vfw/ns-vfw-capinfochunk) . Чтобы очистить все записи, укажите **значение NULL** в **фкЦинфоид**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

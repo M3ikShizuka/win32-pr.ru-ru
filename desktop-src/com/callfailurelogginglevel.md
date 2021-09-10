@@ -6,12 +6,12 @@ keywords:
 - COM-значение реестра Каллфаилурелоггинглевел
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 819d132a8cd0f1741eb3b825a17f02387b200e80f2dba6913821e77f9a0913cc
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4432f21f333d5aa5f8b3cebbd6f0fa339cf0f13a
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119793824"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369657"
 ---
 # <a name="callfailurelogginglevel"></a>каллфаилурелоггинглевел
 
@@ -39,7 +39,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

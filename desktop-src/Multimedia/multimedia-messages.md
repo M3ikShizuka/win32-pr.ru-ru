@@ -3,7 +3,7 @@ title: Мультимедийные сообщения
 description: Мультимедийные сообщения
 ms.assetid: cf02e26a-899b-4677-a84e-c0ec196a8cfb
 keywords:
-- Мультимедиа Windows, сообщения
+- Windows мультимедиа, сообщения
 - мультимедиа, сообщения
 - ссылки на мультимедиа, сообщения
 - Справочник по мультимедиа, сообщениям
@@ -11,11 +11,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 61faeed51ede5005746d50a204fa25a6dd46df17
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103986642"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370302"
 ---
 # <a name="multimedia-messages"></a>Мультимедийные сообщения
 
@@ -124,13 +124,13 @@ ms.locfileid: "103986642"
 -   [**МЦИВНДМ \_ сетволуме**](mciwndm-setvolume.md)
 -   [**МЦИВНДМ \_ сетзум**](mciwndm-setzoom.md)
 -   [**МЦИВНДМ \_ валидатемедиа**](mciwndm-validatemedia.md)
--   [**\_закрытие MIM**](mim-close.md)
--   [**\_данные MIM**](mim-data.md)
--   [**\_Ошибка MIM**](mim-error.md)
--   [**\_ЛОНГДАТА MIM**](mim-longdata.md)
--   [**\_ЛОНЖЕРРОР MIM**](mim-longerror.md)
--   [**\_MOREDATA MIM**](mim-moredata.md)
--   [**\_Запуск MIM**](mim-open.md)
+-   [**MIM \_ ВЫХОДА**](mim-close.md)
+-   [**MIM \_ DATA**](mim-data.md)
+-   [**MIM \_ ПЛАН**](mim-error.md)
+-   [**MIM \_ лонгдата**](mim-longdata.md)
+-   [**MIM \_ лонжеррор**](mim-longerror.md)
+-   [**MIM \_ MOREDATA**](mim-moredata.md)
+-   [**MIM \_ ОТКРЫТ**](mim-open.md)
 -   [**MM \_ ACM \_ филтерчусе**](mm-acm-filterchoose.md)
 -   [**MM \_ ACM \_ форматчусе**](mm-acm-formatchoose.md)
 -   [**\_JOY1BUTTONDOWN мм**](mm-joy1buttondown.md)
@@ -143,13 +143,13 @@ ms.locfileid: "103986642"
 -   [**\_JOY2ZMOVE мм**](mm-joy2zmove.md)
 -   [**\_МЦИНОТИФИ мм**](mm-mcinotify.md)
 -   [**\_МЦИСИГНАЛ мм**](mm-mcisignal.md)
--   [**MM \_ MIM, \_ закрытие**](mm-mim-close.md)
--   [**MM \_ MIM \_ Data**](mm-mim-data.md)
--   [**MM \_ , \_ Ошибка MIM**](mm-mim-error.md)
+-   [**MM \_ MIM \_ CLOSE**](mm-mim-close.md)
+-   [**\_MIM \_ данных MM**](mm-mim-data.md)
+-   [**\_ошибка MIM \_ MM**](mm-mim-error.md)
 -   [**MM \_ MIM \_ лонгдата**](mm-mim-longdata.md)
 -   [**MM \_ MIM \_ лонжеррор**](mm-mim-longerror.md)
 -   [**MM \_ MIM \_ MOREDATA**](mm-mim-moredata.md)
--   [**MM \_ MIM \_ Open**](mm-mim-open.md)
+-   [**\_открыт MIM \_ мм**](mm-mim-open.md)
 -   [**\_ \_ изменение элемента управления mm миксм \_**](mm-mixm-control-change.md)
 -   [**\_изменение миксм в \_ линии \_ mm**](mm-mixm-line-change.md)
 -   [**\_закрытие mm MOM \_**](mm-mom-close.md)
@@ -233,16 +233,16 @@ ms.locfileid: "103986642"
 -   [**ВОМ \_ Готово**](wom-done.md)
 -   [**ВОМ \_ Открыть**](wom-open.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
 [Ссылка на мультимедиа](multimedia-reference.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

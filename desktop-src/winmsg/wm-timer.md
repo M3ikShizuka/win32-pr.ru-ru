@@ -4,12 +4,12 @@ ms.assetid: 419e3f05-35ec-4e48-b24d-ab98df687b20
 title: Сообщение WM_TIMER (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0d770d640b801849eeebe1c4ec86df8c41642c6149b89e00d82261f4e090f56f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c7c99db67c9c9b3419e477ccd0a78133df453a7c
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119710034"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370947"
 ---
 # <a name="wm_timer-message"></a>\_Сообщение таймера WM
 
@@ -52,7 +52,7 @@ ms.locfileid: "119710034"
 
 Сообщение **\_ таймера WM** является сообщением с низким приоритетом. Функции [**PeekMessage**](/windows/win32/api/winuser/nf-winuser-peekmessagea) и [**Message**](/windows/win32/api/winuser/nf-winuser-getmessage) помещаются в это сообщение только в том случае, если в очереди сообщений потока отсутствуют другие сообщения с более высоким приоритетом.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -83,7 +83,7 @@ ms.locfileid: "119710034"
 [**тимерпрок**](/windows/win32/api/winuser/nc-winuser-timerproc)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Таймеры](timers.md)

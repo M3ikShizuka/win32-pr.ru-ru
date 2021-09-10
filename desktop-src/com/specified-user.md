@@ -4,12 +4,12 @@ description: Указанный пользователь
 ms.assetid: ec7684fb-a9f1-4ef2-a7d4-07caf24b6023
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bc199409eb7496d4e2bb23d09a3ea5396606641fdfe33045197a8cea7852c9d3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: acce63aa502a8966cd0eb53c90dcca3c4454e80b
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118104285"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369666"
 ---
 # <a name="specified-user"></a>Указанный пользователь
 
@@ -19,7 +19,7 @@ ms.locfileid: "118104285"
 
 Работа в качестве фиксированной учетной записи пользователя более безопасна, чем удостоверение интерактивного пользователя, поскольку это удостоверение может быть назначено приложению только тем, кто имеет пароль конкретного пользователя.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

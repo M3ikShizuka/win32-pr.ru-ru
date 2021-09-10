@@ -3,7 +3,7 @@ title: Сообщение ICM_DECOMPRESSEX_QUERY (VFW. h)
 description: Сообщение с \_ \_ запросом ICM декомпрессекс запрашивает драйвер сжатия видео, чтобы определить, поддерживает ли он определенный входной формат, или же он может распаковать определенный входной формат в определенный выходной формат.
 ms.assetid: 7778a52d-2ed8-495c-8656-c6beb1863499
 keywords:
-- ICM_DECOMPRESSEX_QUERY сообщения Windows мультимедиа
+- сообщение ICM_DECOMPRESSEX_QUERY Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 4e5b2ef5999b9e0619ccbd9ccabd9bc5223b3bf2
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103892421"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370524"
 ---
 # <a name="icm_decompressex_query-message"></a>\_ \_ Сообщение запроса ICM декомпрессекс
 
@@ -68,7 +68,7 @@ lParam = sizeof(ICDECOMPRESSEX);
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

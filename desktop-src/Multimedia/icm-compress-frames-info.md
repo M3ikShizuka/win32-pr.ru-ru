@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2382a930b0ce12e212adf78ddaf3c7e1b3300e47597b4671d0eae223cb536f73
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cbb6df0eab7706ebfc03a5e3069d4323be26ecdb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118140915"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370428"
 ---
 # <a name="icm_compress_frames_info-message"></a>\_ \_ Сообщение о сжатии кадров ICM \_
 
@@ -60,7 +60,7 @@ lParam = sizeof(ICCOMPRESSFRAMES);
 
 Программа сжатия может использовать это сообщение для определения объема пространства, выделяемого для каждого кадра при сжатии.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

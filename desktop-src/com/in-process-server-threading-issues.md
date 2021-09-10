@@ -4,12 +4,12 @@ description: Проблемы с потоком In-Process Server
 ms.assetid: 7bd6f62f-8c91-44bd-9a7f-d47988180eed
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 50239af2c0e254f8ccead8065573df2e3ece39540bbdf8e5a205fe33dfe4f956
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8a9d02af739eac11a6adae62de76be9078ee8e32
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119567864"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369458"
 ---
 # <a name="in-process-server-threading-issues"></a>Проблемы с потоком In-Process Server
 
@@ -46,7 +46,7 @@ COM помогает защитить доступ к объектам, пред
 
 Объект, предоставляемый внутрипроцессный библиотекой DLL, поддерживающей только свободную потоковую обработку, — это свободный потоковый объект. Он реализует собственную синхронизацию и может быть доступен нескольким клиентским потокам одновременно. Этот сервер не маршалирует интерфейсы между потоками, поэтому этот сервер можно создать и использовать напрямую (без прокси) только в многопоточных подразделениях клиента. Однопотоковые подразделения, которые их создают, будут обращаться к нему через прокси-сервер.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -6,12 +6,12 @@ keywords:
 - COM-значение реестра Легациимперсонатионлевел
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cd032e83290c18fc3a2588e382ade7730fa2ea39a7847e375b1e887cdbbb90f7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 74fa00494eb71e49c35bfa37b434afc5c999e73e
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119048082"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369638"
 ---
 # <a name="legacyimpersonationlevel"></a>легациимперсонатионлевел
 
@@ -48,7 +48,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole
 
 Если это значение реестра отсутствует, уровень олицетворения по умолчанию, установленный системой, — 2 (идентификатор RPC C, определяемый на \_ \_ \_ уровне Imp \_ ).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

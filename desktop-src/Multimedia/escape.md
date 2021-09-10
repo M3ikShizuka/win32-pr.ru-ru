@@ -3,7 +3,7 @@ title: Escape-команда
 description: Управляющая команда отправляет сведения об устройстве на устройство. Устройства видеодиск распознают эту команду.
 ms.assetid: 16e0e2b6-6d98-440a-86c1-eca8201ad61a
 keywords:
-- Экранирование команд Windows мультимедиа
+- escape-команда Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: b04f7a2ef6c2e91adc9b24a044d0a7e941843f9e
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105650362"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369882"
 ---
 # <a name="escape-command"></a>Escape-команда
 
@@ -83,7 +83,7 @@ escape videodisc SA
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: Прокси-сервер находится в адресном п
 ms.assetid: 6c82f655-ac46-4ed9-992b-0387b324a8f9
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c0478ce9ad1e08d343f1536fcd4bba63e59ae0fd229390be31c978bd20f737b4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a11257dd060f51bef118a4afc0cc35acf995c111
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119130014"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369802"
 ---
 # <a name="proxy"></a>Proxy (Прокси)
 
@@ -28,7 +28,7 @@ ms.locfileid: "119130014"
 
 ![Схема, на которой показана структура прокси-сервера.](images/4432d8d3-dfab-4635-90f8-408aecf70134.png)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

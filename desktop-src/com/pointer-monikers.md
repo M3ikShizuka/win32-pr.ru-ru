@@ -4,12 +4,12 @@ description: Моникер указателя определяет объект
 ms.assetid: 9895f03d-7110-41c1-a934-87010f9ad380
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4bcdf96497751b3f777c292c56d35b2c04432da84b352e20c4dd8b0917dedb16
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aebebfce908571b69a5b8ce05f589a4ca4b30977
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119047902"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369513"
 ---
 # <a name="pointer-monikers"></a>Моникеры указателей
 
@@ -21,7 +21,7 @@ ms.locfileid: "119047902"
 
 Моникеры указателей позволяют объектам, которые существуют только в активном или выполняющемся состоянии, участвовать в операциях моникера и использоваться клиентами моникера. Одно важное различие между моникерами указателя и другими классами моникеров заключается в том, что моникеры указателей не могут быть сохранены в постоянное хранилище. В этом случае вызов метода [**IMoniker:: Save**](/windows/desktop/api/ObjIdl/nf-objidl-ipersiststream-save) возвращает ошибку. Это означает, что моникеры указателей полезны только в специализированных ситуациях. Если необходимо использовать моникер указателя, можно использовать функцию [**креатепоинтермоникер**](/windows/desktop/api/Objbase/nf-objbase-createpointermoniker) .
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

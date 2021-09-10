@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1a6b9f3ddb2c0184337d2f53d73cdda8451a8d8df19229e505b08fedf685f40d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8113b7fe544bf36a35b6e516c7a98ae71082577d
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119496454"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370488"
 ---
 # <a name="drv_power-message"></a>DRV, \_ сообщение о питании
 
@@ -51,7 +51,7 @@ ms.locfileid: "119496454"
 
 Параметры *lParam1* и *lParam2* не используются.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

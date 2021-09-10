@@ -10,12 +10,12 @@ keywords:
 - строки команд мультимедиа
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 986a1fc9e2a97671b04d8ba8a4a5cd033e176a94f6a8e898b4f899b7a9c707a7
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ae4ec8f9b0efa783028850a6cd03cbc0bed20caf
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120038774"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370245"
 ---
 # <a name="multimedia-command-strings"></a>Строки команд мультимедиа
 
@@ -27,23 +27,23 @@ ms.locfileid: "120038774"
 -   [close](close.md)
 -   [выбрать](configure.md)
 -   [copy](copy.md)
--   [cue](cue.md)
+-   [сказк](cue.md)
 -   [бавьте](cut.md)
 -   [delete](delete.md)
 -   [выполняет](escape.md)
 -   [фиксировать](freeze.md)
 -   [index](./windows-multimedia-start-page.md)
--   [контактные](info.md)
+-   [сведения](info.md)
 -   [list](list.md)
 -   [загрузка](load.md)
 -   [как](mark.md)
 -   [слежен](monitor.md)
 -   [open](open.md)
--   [вставка](paste.md)
+-   [авить](paste.md)
 -   [pause](pause.md)
 -   [воспроизводит](play.md)
 -   [PUT](put.md)
--   [повышения](quality.md)
+-   [качество](quality.md)
 -   [повысить](realize.md)
 -   [record](record.md)
 -   [предназначен](reserve.md)
@@ -66,9 +66,9 @@ ms.locfileid: "120038774"
 -   [освободить](unfreeze.md)
 -   [update](update.md)
 -   [where](where.md)
--   [window](window.md)
+-   [окно](window.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

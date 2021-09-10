@@ -4,12 +4,12 @@ description: Регистрация объектов в таблице ROT
 ms.assetid: f479c2d1-0c55-4281-8f15-2f957fa03b70
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d77e7bc6fe8b0a4d5896bf33575df2f57fb0e583f78acd02653f6ccb014f34ff
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b452ead94a717791910ecceaa5082535bc1b233c
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118104819"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369702"
 ---
 # <a name="registering-objects-in-the-rot"></a>Регистрация объектов в таблице ROT
 
@@ -17,7 +17,7 @@ ms.locfileid: "118104819"
 
 Когда сервер вызывает [**креатефилемоникер**](/windows/desktop/api/Objbase/nf-objbase-createfilemoniker) для создания специального имени файла для регистрации в таблице ROT, серверы должны передавать локальные имена файлов, которые хранятся на диске, а не в формате UNC. Это гарантирует, что данные сравнения моникера, создаваемые вызовом регистрации ROT, будут соответствовать тому, что используется при поиске в таблице ROT для части удаленного клиента. Это происходит потому, что когда распределенная служба COM получает запрос на активацию файла, расположенного на локальном сервере, от удаленного клиента, файл преобразуется в путь на локальном диске.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

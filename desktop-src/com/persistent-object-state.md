@@ -4,12 +4,12 @@ description: Состояние постоянного объекта
 ms.assetid: 731fef03-d204-48e7-b33a-801e97a9d2c2
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1cbc3e7fa9f6750fa8ca527d91cdc31e7783608966977884fb468a90c1638e16
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2c08d4dd1175b5a7681f79fa9049772af245a031
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118105132"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369782"
 ---
 # <a name="persistent-object-state"></a>Состояние постоянного объекта
 
@@ -22,7 +22,7 @@ COM определяет стандарты, с помощью которых к
 -   [Постоянные интерфейсы объектов](persistent-object-interfaces.md)
 -   [Инициализация постоянных объектов](initializing-persistent-objects.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -6,12 +6,12 @@ keywords:
 - COM раздела реестра ToolBoxBitmap32
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d596c758cb6cc0cc34d4c4fc7b73dfe001345ef660f8d62e0268f65a69cfd0f4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d2ca6208586e961c0b6f8fa666c5731bab38faa6
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117917943"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369601"
 ---
 # <a name="toolboxbitmap32"></a>ToolBoxBitmap32
 

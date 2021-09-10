@@ -11,12 +11,12 @@ keywords:
 - Справочник по джойстику, сообщения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e04ec9bc942e735016c9c233a8957e05323819f0a71525d6e7c0d8bab3c77a4c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 01f53ec6c2414fad3e13fac129438be55426fb22
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119806744"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371136"
 ---
 # <a name="multimedia-joystick-messages"></a>Мультимедийные сообщения джойстика
 
@@ -31,7 +31,7 @@ ms.locfileid: "119806744"
 -   [**\_JOY2MOVE мм**](mm-joy2move.md)
 -   [**\_JOY2ZMOVE мм**](mm-joy2zmove.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

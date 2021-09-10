@@ -6,12 +6,12 @@ keywords:
 - COM-значение реестра Дефаултлаунчпермиссион
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ab2b1ad6515186015055a353aa0dc87992cea9fccfbde46332e1a5d96c0a889f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 599a0993a4a1238e57e357f428f7046331412cc0
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119993304"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369618"
 ---
 # <a name="defaultlaunchpermission"></a>DefaultLaunchPermission
 
@@ -43,7 +43,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole
 
 Это значение обеспечивает простой уровень централизованного администрирования по умолчанию для запуска доступа к неконтролируемым другим классам на компьютере. Например, администратор может использовать средство DCOMCNFG, чтобы настроить систему для разрешения доступа только для чтения для опытных пользователей. Таким образом, OLE ограничит запросы на запуск кода класса для членов группы опытных пользователей. Администратор может впоследствии настроить разрешения на запуск для отдельных классов, чтобы предоставить возможность запускать код класса для других групп или отдельных пользователей по мере необходимости.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

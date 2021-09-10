@@ -9,12 +9,12 @@ keywords:
 - Макрос Иккуериконфигуре
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c8905ea35d65fc3eda3ddee130039503d8e26555665aae9efa517cb399349475
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a38fbbeb852d09296e5be7929738c9d4d71f118e
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119144982"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372105"
 ---
 # <a name="compressor-and-decompressor-configuration"></a>Настройка программы сжатия и распаковки
 

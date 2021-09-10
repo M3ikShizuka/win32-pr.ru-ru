@@ -12,12 +12,12 @@ keywords:
 - Справочник по таймеру, сведения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8fb409c17686e675049c36c5c93b3231aaa711bda0d23676026e679d1c6d6fd6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d926f7a76e6f16b95eaf3308db5c8da7371a11fd
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119806704"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370971"
 ---
 # <a name="multimedia-timer-reference"></a>Справочник по таймеру мультимедиа
 
@@ -45,7 +45,7 @@ ms.locfileid: "119806704"
 -   [**тимебегинпериод**](/windows/desktop/api/TimeAPI/nf-timeapi-timebeginperiod)
 -   [**тиминдпериод**](/windows/desktop/api/TimeAPI/nf-timeapi-timeendperiod)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

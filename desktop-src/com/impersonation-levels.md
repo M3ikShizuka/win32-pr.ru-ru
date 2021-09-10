@@ -4,12 +4,12 @@ description: Если олицетворение завершилось успе
 ms.assetid: 7539bbee-063f-4788-aece-7b70684826c8
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fca691c89e7ff4a12e279ae0ecd0fd04cb31a951c8ac3f2671201fe99dd5900a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 85286e5fa880ea7620d6f6ccb6107bf139ec2005
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119756394"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369545"
 ---
 # <a name="impersonation-levels"></a>Уровни олицетворения
 
@@ -67,7 +67,7 @@ ms.locfileid: "119756394"
 
 Разные службы проверки подлинности поддерживают олицетворение на уровне делегата в различных экстентах. Например, поставщик NTLMSSP поддерживает олицетворение на уровне делегата между потоками и между процессами, но не между компьютерами. С другой стороны, протокол Kerberos поддерживает олицетворение на уровне делегата на границах компьютеров, а SChannel не поддерживает олицетворение на уровне делегата. Если у вас есть прокси-сервер на уровне олицетворения, и вы хотите задать для уровня олицетворения значение Delegate, следует вызвать [**сетбланкет**](/windows/win32/api/objidl/nf-objidl-iclientsecurity-setblanket) , используя константы по умолчанию для каждого параметра, кроме уровня олицетворения. COM выберет NTLM локально и протокол Kerberos удаленно (когда будет работать протокол Kerberos).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

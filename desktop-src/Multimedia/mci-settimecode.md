@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4f75a1722b1e1e26ece0bc7f3eac705bdd290f770a659cfebe46b603859a3918
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7df0727f4386bad46b3fde7f2d816ce951850b8d
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119430464"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370092"
 ---
 # <a name="mci_settimecode-command"></a>\_Команда MCI сеттимекоде
 
@@ -95,7 +95,7 @@ MCIERROR mciSendCommand(
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -107,7 +107,7 @@ MCIERROR mciSendCommand(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -6,12 +6,12 @@ keywords:
 - COM-значение реестра Аппидфлагс
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 44ecf7d0d112d2ceff913f3de6250c130e16455c1810cc6234db63a6aaf463fe
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cdad2b80625d6a60460d43f242d7897e0ae7eb40
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119048872"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369538"
 ---
 # <a name="appidflags"></a>аппидфлагс
 
@@ -81,7 +81,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AppID
 
 флаг **аппидрегфлагс \_ для \_ активации \_ RPC \_ AT \_ идентифицирован** поддерживается в Windows 7 и более поздних версиях Windows.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

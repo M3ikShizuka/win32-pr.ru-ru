@@ -6,12 +6,12 @@ keywords:
 - Функция Капкреатекаптуревиндов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 665a194759edbf4a690b1966c4cd0c175ba05b9cd099d80412e5c5353183bcab
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 084d035d44b8d0b46df31afa5c3235e59286121c
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119785784"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372144"
 ---
 # <a name="creating-an-avicap-capture-window"></a>Создание окна Авикап Capture
 

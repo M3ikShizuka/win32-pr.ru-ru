@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f6365366c6ea37b36734262d1d7a8412a7729406ff3fcc12e10ae9ba55d9ba84
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: acad628cc61bbb50c56f68fda91ac87be4feb728
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119803864"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371409"
 ---
 # <a name="wm_cap_driver_disconnect-message"></a>\_ \_ \_ Сообщение об отключении драйвера WM Cap
 
@@ -38,7 +38,7 @@ lParam = 0L;
 
 Возвращает **значение true** в случае успеха или **false** , если окно записи не подключено к драйверу записи.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

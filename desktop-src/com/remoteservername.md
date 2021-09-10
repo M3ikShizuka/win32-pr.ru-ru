@@ -6,12 +6,12 @@ keywords:
 - COM-значение реестра Ремотесервернаме
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0204b63e6b8d74eabd4f9e01f36aeea0deea9220a2d0ffacaa46f09d0d625426
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0634d858b04fbbdf5d3a6024dbd9fdea4ee06d99
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118104518"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369706"
 ---
 # <a name="remoteservername"></a>ремотесервернаме
 
@@ -31,7 +31,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AppID
 
 Как описано в документации по перечислению [**клскткс**](/windows/win32/api/wtypesbase/ne-wtypesbase-clsctx) и структуре [**косерверинфо**](/windows/win32/api/objidlbase/ns-objidlbase-coserverinfo) , один из параметров распределенной активации com является указателем на структуру **косерверинфо** . Если это значение не **равно NULL**, информация в структуре **косерверинфо** переопределяет значение ключа **ремотесервернаме** для вызова функции.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

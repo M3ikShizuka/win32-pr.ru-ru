@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f1d26a0ea99f089d558da639dfad99d4551237b180e595912973e0d22f634f5f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 59b8f55ebb5543c73e0d7a9c9ee800fabfc483d8
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119678354"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370503"
 ---
 # <a name="icm_decompress_begin-message"></a>\_Сообщение начала распаковки ICM \_
 
@@ -64,7 +64,7 @@ lParam = (DWORD_PTR) (LPVOID) lpbiOutput;
 
 Не вложены в сообщения End **\_ распаковки \_ Begin** и [**ICM \_ unуплотнение \_**](icm-decompress-end.md) . Если драйвер Получает подсистему **\_ распаковки ICM \_ Begin** до остановки распаковки **с \_ \_ окончанием распаковки ICM**, необходимо перезапустить распаковку с новыми параметрами.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

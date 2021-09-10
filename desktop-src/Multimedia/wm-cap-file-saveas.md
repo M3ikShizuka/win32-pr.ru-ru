@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a200b8e73d81072961ec4e6aa7c8e1dd989bf2d8c3e0480c75908a8761ee93b1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: aca099fefab7ca0f4ef391b1b65e89938a947a01
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119687014"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371433"
 ---
 # <a name="wm_cap_file_saveas-message"></a>\_Сообщение о \_ SAVEAS для файла ЗАкрепления WM \_
 
@@ -59,7 +59,7 @@ lParam = (LPARAM) (LPVOID) (LPSTR) (szName);
 
 Как правило, файл записи предварительно выделяется для самого крупного сегмента записи, и только его часть может использоваться для сбора данных. В этом сообщении копируется только часть файла, содержащего данные записи.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

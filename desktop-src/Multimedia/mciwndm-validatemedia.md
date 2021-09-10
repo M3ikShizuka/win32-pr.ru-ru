@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2db79f5714a9f48a2fdd73ff6eedecd0a14172e352e0a40ffbdccdd3aaaf4c2f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 43cb6e6a4a7c320d4eb6472c3c72da2843d0814c
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119428534"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370770"
 ---
 # <a name="mciwndm_validatemedia-message"></a>\_Сообщение мЦивндм валидатемедиа
 
@@ -42,7 +42,7 @@ lParam = 0;
 
 Как правило, использовать этот макрос не требуется. Однако, если приложение изменяет формат времени устройства без использования МЦивнд; начальное и конечное расположение содержимого, а также значение TrackBar, продолжайте использовать старый формат. Этот макрос можно использовать для обновления этих значений.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -54,7 +54,7 @@ lParam = 0;
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

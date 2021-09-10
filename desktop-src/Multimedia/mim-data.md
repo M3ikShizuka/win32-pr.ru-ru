@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bebbb9ca6016706605de8fed29e5fa5ebaf6055f4a730fb563323f306606b866
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a11d2701d488fe29ae6d0bc0742c32c803b28076
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118137293"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370788"
 ---
 # <a name="mim_data-message"></a>MIM \_ Сообщение данных
 
@@ -77,7 +77,7 @@ dwParam2 = dwTimestamp
 
 Это сообщение не отправляется, когда получено сообщение, исключающая систему MIDI.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

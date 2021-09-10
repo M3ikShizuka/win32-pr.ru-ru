@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7f25e79903a694b6537e88d1c58994d1f39ccf958ea95f40f571a267239a055e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a616b31500a2c814edb3dd443586131ed0ffae7d
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119783837"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370170"
 ---
 # <a name="mci_vcr_step_parms-structure"></a>\_ \_ Пармсная структура шага видеомагнитофона MCI \_
 
@@ -37,7 +37,7 @@ typedef struct tagMCI_VCR_STEP_PARMS {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -59,7 +59,7 @@ typedef struct tagMCI_VCR_STEP_PARMS {
 
 При назначении данных элементам этой структуры установите соответствующие флаги в параметре *Фдвкомманд* [**мЦисендкомманд**](/previous-versions//dd757160(v=vs.85)) , чтобы проверить элементы.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

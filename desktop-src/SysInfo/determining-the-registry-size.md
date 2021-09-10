@@ -4,12 +4,12 @@ ms.assetid: 87e7b9de-d571-41e4-817e-29023546e9bd
 title: Определение размера реестра
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 88e26fbeedf13ea66c93f7a13426819fb84df6ffa3f75c908462dcef8f8dcb54
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4434b519625cf21c9e0076dc7c21d71e27c01778
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117764506"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371901"
 ---
 # <a name="determining-the-registry-size"></a>Определение размера реестра
 

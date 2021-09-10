@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7c11adc5413844d46360e7abf63ec34a340efae470e2e71fef9ba80a89d60e4a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 61f131159d389577e3c717e5630633bb46558d40
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119144957"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369878"
 ---
 # <a name="configure-command"></a>Настройка команды
 
@@ -67,7 +67,7 @@ _stprintf_s(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

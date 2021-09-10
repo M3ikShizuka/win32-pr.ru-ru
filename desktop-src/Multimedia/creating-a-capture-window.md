@@ -6,12 +6,12 @@ keywords:
 - Функция Капкреатекаптуревиндов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 49d44e7701900d090a8d73b226039d468e2da817e9c0f9746fc10eaa13578d5f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 28375da063839d3120ca60bdabd5ca997fa31b02
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119144777"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371355"
 ---
 # <a name="creating-a-capture-window"></a>Создание окна записи
 
@@ -29,7 +29,7 @@ hWndC = capCreateCaptureWindow (
 
 
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

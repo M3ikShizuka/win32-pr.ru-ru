@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: aecc863234cddf64bece47896015fd01e97093d227951aef69363136e55cabe5
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 027e530be82c76afebc343ceebe4905daef9b126
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119687084"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371412"
 ---
 # <a name="wm_cap_driver_get_caps-message"></a>\_Сообщение о \_ \_ получении \_ политик крепления WM
 
@@ -60,7 +60,7 @@ lParam = (LPARAM) (LPVOID) (LPCAPDRIVERCAPS) (psCaps);
 
 Возможности, возвращаемые в [**капдриверкапс**](/windows/win32/api/vfw/ns-vfw-capdrivercaps) , являются постоянными для данного драйвера записи. Приложения должны получить эту информацию один раз при первом подключении драйвера записи к окну записи.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

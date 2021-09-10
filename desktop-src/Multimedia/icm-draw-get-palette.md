@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6ef07085bef92d6191cea69429a5b544d5d2f706e1771baa404741aa98a5812b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a03f3658d2a2653f940e18e9b82b7cc3d7690ad2
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117987394"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370545"
 ---
 # <a name="icm_draw_get_palette-message"></a>\_Сообщение о \_ получении \_ палитры ICM Draw
 

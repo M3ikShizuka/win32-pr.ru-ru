@@ -12,11 +12,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 905b0ce924f9aebce67f515fc0714fdc855cbe33
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "104487649"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371085"
 ---
 # <a name="using-midioutshortmsg-to-send-individual-midi-messages"></a>Использование Мидиаутшортмсг для отправки отдельных сообщений MIDI
 
@@ -49,8 +49,8 @@ UINT sendMIDIEvent(HMIDIOUT hmo, BYTE bStatus, BYTE bData1,
 > [!Note]  
 > Драйверы вывода MIDI не требуются для проверки данных перед их отправкой на порт вывода. Приложения должны обеспечивать отправку только допустимых данных.
 
- 
+ 
 
- 
+ 
 
- 
+ 

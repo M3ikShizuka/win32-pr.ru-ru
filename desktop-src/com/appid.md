@@ -6,12 +6,12 @@ keywords:
 - Значение реестра AppID (AppID) COM
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d1cf49a9f1148c9d89c793021a007827e418c68f6e9192e70e98c21e5037a882
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 183bc18e55ee157e42fc2b35ef1d0b278e2683f0
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119993944"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369534"
 ---
 # <a name="appid-appid-key"></a>AppID (ключ AppID)
 
@@ -29,7 +29,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AppID
 
 Это значение **reg \_ SZ** .
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

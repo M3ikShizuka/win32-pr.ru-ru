@@ -3,7 +3,7 @@ title: Команда MCI_PLAY (Ммсистем. h)
 description: Команда MCI \_ Play сообщает устройству о необходимости начать передачу выходных данных. Эта команда распознает аудио компакт-диск, цифровое видео, устройство MIDI Sequencer, видеодиск, ВИДЕОМАГНИТОФОН и волна-аудиоустройства.
 ms.assetid: d912ab49-63f0-40a9-aa4c-f9463782b54c
 keywords:
-- MCI_PLAY команды мультимедиа Windows
+- команда MCI_PLAY Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 2f985a8d5d6be7ad42702afc898b3aaf437ef320
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103892757"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369957"
 ---
 # <a name="mci_play-command"></a>\_Команда MCI Play
 
@@ -68,7 +68,7 @@ MCIERROR mciSendCommand(
 
 Возвращает нуль в случае успеха или ошибку в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Следующие дополнительные флаги применяются ко всем устройствам, поддерживающим MCI \_ Play:
 
@@ -153,7 +153,7 @@ MCIERROR mciSendCommand(
 
 <dl> <dt>
 
-<span id="MCI_VD_PLAY_FAST"></span><span id="mci_vd_play_fast"></span>\_ \_ быстрое воспроизведение MCI \_ VD
+<span id="MCI_VD_PLAY_FAST"></span><span id="mci_vd_play_fast"></span>\_ \_ fast воспроизведения MCI \_ VD
 </dt> <dd>
 
 Быстрое воспроизведение.
@@ -196,11 +196,11 @@ MCIERROR mciSendCommand(
 |-------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                                |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                      |
-| Заголовок<br/>                   | <dl> <dt>Ммсистем. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>ммсистем. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

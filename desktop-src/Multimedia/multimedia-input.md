@@ -8,12 +8,12 @@ keywords:
 - входные данные мультимедиа, о программе
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a9dfd00d276475a8ff378b3d7d46cc44bb2505eacd8d599414f76e331cc639f3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 9c8451db896c80592b27a4b70db13bccbb502e9b
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120038724"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371784"
 ---
 # <a name="multimedia-input"></a>Входные данные мультимедиа
 

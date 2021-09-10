@@ -6,12 +6,12 @@ keywords:
 - Значение реестра для конечных точек COM
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 48ee2444be55aaf32c028792100e3e6f0ed6989509b7c0af02c5d83bd739fa27
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a0addcd6c09b409629bb4a7157241d57476cafe3
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119048322"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369729"
 ---
 # <a name="endpoints"></a>Конечные точки
 

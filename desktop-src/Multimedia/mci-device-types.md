@@ -14,12 +14,12 @@ keywords:
 - Справочник по MCI, типы устройств
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 164ee826a02adade5bc6e28db4a7a5b6180c4c1634d551b1451a91009ec40e4a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5b618e396b146dce820ed011b351c49b0e47394e
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119784564"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370017"
 ---
 # <a name="mci-device-types"></a>Типы устройств MCI
 

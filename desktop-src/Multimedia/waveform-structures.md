@@ -10,12 +10,12 @@ keywords:
 - Справочник по вавефоре аудио, структурам
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ac6e760a84d22343abe0042a236132b3373bb2059c4d0f5d00f9e9e651ebba81
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3593594cb2637befb670bfffb4cf0c08eb7c3cee
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119687264"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372570"
 ---
 # <a name="waveform-structures"></a>Структуры волны
 
@@ -28,7 +28,7 @@ ms.locfileid: "119687264"
 -   [**вавеинкапс**](/windows/win32/api/mmeapi/ns-mmeapi-waveincaps)
 -   [**вавеауткапс**](/windows/win32/api/mmeapi/ns-mmeapi-waveoutcaps)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -3,7 +3,7 @@ title: Сообщение ICM_DECOMPRESSEX_BEGIN (VFW. h)
 description: Сообщение ICM \_ декомпрессекс \_ Begin уведомляет драйвер сжатия видео о подготовке к распаковке данных.
 ms.assetid: 35298274-91b5-4df0-b4b0-4a71d6a49990
 keywords:
-- ICM_DECOMPRESSEX_BEGIN сообщения Windows мультимедиа
+- сообщение ICM_DECOMPRESSEX_BEGIN Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 77ea082c91d48a9964348b762ce13631cd80af30
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103803365"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370512"
 ---
 # <a name="icm_decompressex_begin-message"></a>\_Сообщение о \_ начале ICM декомпрессекс
 
@@ -56,7 +56,7 @@ lParam = sizeof(ICDECOMPRESSEX);
 
 Возвращает ИЦЕРР \_ ОК, если указанное распаковка поддерживается или ицерр \_ бадформат в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Когда драйвер получает это сообщение, он должен выделить буферы и выполнить все длительные операции, чтобы они могли эффективно обрабатывать сообщения [**ICM \_ декомпрессекс**](icm-decompressex.md) .
 
@@ -76,7 +76,7 @@ lParam = sizeof(ICDECOMPRESSEX);
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

@@ -3,7 +3,7 @@ title: Сообщение MCIWNDM_GETFILENAME (VFW. h)
 description: Сообщение МЦИВНДМ \_ . filename извлекает имя файла, которое в настоящее время используется устройством MCI. Это сообщение можно отправить явно или с помощью макроса МЦивнджетфиленаме.
 ms.assetid: d61b1b6d-0fae-4732-993c-41e08a4e05be
 keywords:
-- MCIWNDM_GETFILENAME сообщения Windows мультимедиа
+- сообщение MCIWNDM_GETFILENAME Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 232a1d829b5cdd6da23e7dd3fb0294b95ca79f4b
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104533812"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370647"
 ---
 # <a name="mciwndm_getfilename-message"></a>Сообщение МЦИВНДМ. \_ имя_файла
 
@@ -56,7 +56,7 @@ lParam = (LPARAM) (LPVOID) lp;
 
 Возвращает нуль в случае успеха или 1 в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если строка с завершающим нулем, содержащая имя файла, длиннее, чем буфер, МЦивнд усекает имя файла.
 
@@ -72,7 +72,7 @@ lParam = (LPARAM) (LPVOID) lp;
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

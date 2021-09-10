@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 67f9f2885b67f82c2285bcaacb395c626dbe460800a2683f72dad0730999e843
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2c0fa1b3f4b3359e1609b3ba12009fe5879c304a
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120037994"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370719"
 ---
 # <a name="mciwndm_playfrom-message"></a>\_Сообщение мЦивндм плайфром
 
@@ -53,7 +53,7 @@ lParam = (LPARAM) (LONG) lPos;
 
 Можно также указать начальное и конечное расположение для воспроизведения с помощью макроса [**мЦивндплайфромто**](/windows/desktop/api/Vfw/nf-vfw-mciwndplayfromto) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

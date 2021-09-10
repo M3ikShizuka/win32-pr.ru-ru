@@ -4,12 +4,12 @@ description: параметры политики ограниченного ис
 ms.assetid: 44b4e448-f5b4-4483-b53b-506938b36857
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 23176b23be5fcf4dc45f040f53e5d8f9dfbcdf05a8aee87feabd125d05c5372d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e97bf42cd949127e9012580ec16379cf36a95353
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119129806"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369765"
 ---
 # <a name="software-restriction-policy"></a>Политика ограниченного использования программ
 

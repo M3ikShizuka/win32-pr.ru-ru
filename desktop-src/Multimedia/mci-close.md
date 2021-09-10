@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 047bea34aab9130cc609904d56ff95ba593271670b27a5bc3d763180ccf50418
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 417129595405aeb6c9a2345eb9c3f03f1e2731e5
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119784634"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369924"
 ---
 # <a name="mci_close-command"></a>\_Команда «закрыть» MCI
 
@@ -72,7 +72,7 @@ MCIERROR mciSendCommand(
 
 Выход из приложения без закрытия всех открытых устройств MCI может привести к недоступности устройства. Приложение должно явным образом закрыть каждое устройство или файл после его завершения. MCI выгружает устройство при закрытии всех экземпляров устройства или всех связанных с ним файлов.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 16afffbf1d3450670b99d26303627771aa4bd3399a252cd16a68bc690012f541
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 378d80923f9c0b7eda65fac83809e30626d53406
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119803874"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371397"
 ---
 # <a name="wm_cap_dlg_videodisplay-message"></a>\_ \_ Сообщение видеодисплай с диалогом WM Cap \_
 
@@ -44,7 +44,7 @@ lParam = 0L;
 
 Диалоговое окно «экран видео» является уникальным для каждого драйвера записи. Некоторые драйверы записи могут не поддерживать диалоговое окно "отображение видео". Приложения могут определить, поддерживает ли драйвер записи это сообщение, проверив элемент **фхасдлгвидеодисплай** структуры [**капдриверкапс**](/windows/win32/api/vfw/ns-vfw-capdrivercaps) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

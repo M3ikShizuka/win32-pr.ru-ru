@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 33a6ee9c080e2dfc7a779abd4ae2a788bbe136ddcab1ef529714639065553ad0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e358aa3ab589af0be1e4e490c141ed41baeb5874
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118140952"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370413"
 ---
 # <a name="icm_compress_begin-message"></a>\_ \_ Сообщение начала сжатия ICM
 
@@ -62,7 +62,7 @@ lParam = (DWORD_PTR) (LPVOID) lpbiOutput;
 
 ВКМ сохраняет параметры последнего сообщения о **\_ \_ начале сжатия ICM** . Сообщения **о \_ начале сжатия ICM \_ Begin** и [**ICM \_ сжимать \_**](icm-compress-end.md) не вложены. Если драйвер получает коэффициент **\_ сжатия ICM \_** , прежде чем сжатие будет остановлено с **\_ \_ окончанием сжатия ICM**, необходимо перезапустить сжатие с новыми параметрами.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7090a2a9b652d7c989aadd70d8843ece04bf467bbbe353c22c3f76fee8a9712b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3fa8512169d0e5b3d6892dd1bf615a220143e6d4
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118137955"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370230"
 ---
 # <a name="mci_tmsf_track-macro"></a>\_Макрос MCI тмсф \_ Track
 
@@ -64,7 +64,7 @@ BYTE MCI_TMSF_TRACK(
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

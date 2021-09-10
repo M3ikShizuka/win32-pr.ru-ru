@@ -4,12 +4,12 @@ description: Правила реализации QueryInterface
 ms.assetid: 6db17ed8-06e4-4bae-bc26-113176cc7e0e
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9c0d0df2d0382c670ed6f4a323f55dcdd1b187430282abe6699da186e574e390
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d0e40c743d5306e7dae79bd55ec2c43c01afe742
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119047872"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369781"
 ---
 # <a name="rules-for-implementing-queryinterface"></a>Правила реализации QueryInterface
 
@@ -68,7 +68,7 @@ hr = pA->QueryInterface(IID_IB, &pB);
 
 Если клиенту необходимо выяснить, что ресурсы были освобождены, то перед вызовом [**IUnknown:: Release**](/windows/win32/api/unknwn/nf-unknwn-iunknown-release)необходимо использовать метод в интерфейсе объекта с семантикой более высокого уровня.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

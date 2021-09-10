@@ -4,12 +4,12 @@ description: Набор команд CD Audio
 ms.assetid: f8b97449-d695-4ec9-874a-de81ed9b95dd
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0ca5eb37b738c5d8ae4d88926cb5674a8a1f966368a523b1c0c0d32985ed54db
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6c5f8723aca83111ff3ba3fa4dfa67cd649796cf
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118375280"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371574"
 ---
 # <a name="cd-audio-command-set"></a>Набор команд CD Audio
 
@@ -19,10 +19,10 @@ ms.locfileid: "118375280"
 
 | Форма строки                      | Форма сообщения                              |
 |----------------------------------|-------------------------------------------|
-| [**разбиени**](break.md)           | [**\_разрыв MCI**](mci-break.md)           |
+| [**break**](break.md)           | [**\_разрыв MCI**](mci-break.md)           |
 | [**возможностями**](capability.md) | [**\_ЖЕТДЕВКАПС MCI**](mci-getdevcaps.md) |
 | [**выхода**](close.md)           | [**\_закрытие MCI**](mci-close.md)           |
-| [**контактные**](info.md)             | [**\_сведения о MCI**](mci-info.md)             |
+| [**сведения**](info.md)             | [**\_сведения о MCI**](mci-info.md)             |
 | [**открыт**](open.md)             | [**MCI \_ открыт**](mci-open.md)             |
 | [**работу**](pause.md)           | [**Приостановка MCI \_**](mci-pause.md)           |
 | [**воспроизводит**](play.md)             | [**\_Воспроизведение MCI**](mci-play.md)             |

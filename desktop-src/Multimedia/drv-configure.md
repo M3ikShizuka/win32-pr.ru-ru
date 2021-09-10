@@ -3,7 +3,7 @@ title: Сообщение DRV_CONFIGURE (Ммсистем. h)
 description: Указывает, что устанавливаемый драйвер отображает диалоговое окно конфигурации и позволяет пользователю указать новые параметры для данного устанавливаемого экземпляра драйвера.
 ms.assetid: 0d99fad7-ce79-4574-9fd8-262f7e758866
 keywords:
-- DRV_CONFIGURE сообщения Windows мультимедиа
+- сообщение DRV_CONFIGURE Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 30a761e7bda7188e93b02e436f2e952bed61bee9
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103989356"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370440"
 ---
 # <a name="drv_configure-message"></a>DRV \_ Настройка сообщения
 
@@ -73,7 +73,7 @@ ms.locfileid: "103989356"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Некоторые устанавливаемые драйверы добавляют сведения о конфигурации к значению, назначенному значению реестра, связанному с драйвером.
 
@@ -87,11 +87,11 @@ ms.locfileid: "103989356"
 |-------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                                |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                      |
-| Заголовок<br/>                   | <dl> <dt>Ммсистем. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>ммсистем. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

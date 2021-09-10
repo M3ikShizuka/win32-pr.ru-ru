@@ -7,40 +7,40 @@ keywords:
 - Справочник по MCI, командные строки
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cc2934f8770c7a68db7f1706705424d554bbd5f4840a7e19b0c57b695a9bad90
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d7298a1ad4d571446532f7198e5bd41ae988194e
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119784614"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369825"
 ---
 # <a name="mci-command-strings"></a>Строки команд MCI
 
 В MCI используются следующие командные строки.
 
--   [**разбиени**](break.md)
+-   [**break**](break.md)
 -   [**возможностями**](capability.md)
 -   [**выделяем**](capture.md)
 -   [**выхода**](close.md)
 -   [**выбрать**](configure.md)
 -   [**копии**](copy.md)
--   [**cue**](cue.md)
+-   [**сказк**](cue.md)
 -   [**бавьте**](cut.md)
 -   [**удален**](delete.md)
 -   [выполняет](escape.md)
 -   [**фиксировать**](freeze.md)
--   [**номер**](./windows-multimedia-start-page.md)
--   [**контактные**](info.md)
--   [**list**](list.md)
+-   [**индекс**](./windows-multimedia-start-page.md)
+-   [**сведения**](info.md)
+-   [**числ**](list.md)
 -   [**загрузить**](load.md)
 -   [**как**](mark.md)
 -   [**слежен**](monitor.md)
 -   [**открыт**](open.md)
--   [**вставка**](paste.md)
+-   [**авить**](paste.md)
 -   [**работу**](pause.md)
 -   [**воспроизводит**](play.md)
 -   [**PUT**](put.md)
--   [**повышения**](quality.md)
+-   [**качество**](quality.md)
 -   [**повысить**](realize.md)
 -   [**записать**](record.md)
 -   [**предназначен**](reserve.md)
@@ -63,9 +63,9 @@ ms.locfileid: "119784614"
 -   [**освободить**](unfreeze.md)
 -   [**обновляют**](update.md)
 -   [**которому**](where.md)
--   [**window**](window.md)
+-   [**окно**](window.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

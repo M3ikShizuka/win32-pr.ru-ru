@@ -8,12 +8,12 @@ keywords:
 - Макрос МЦивндопенинтерфаце
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cb9e388e4b7998a932cb22545c05509277f1f7fa705a81fbde02d4d5fb35cdd6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ac4191f18409a1fb1f23ba3a2128b4aaed1b30e8
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119786272"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371958"
 ---
 # <a name="allowing-the-user-to-specify-devices-and-files"></a>Разрешение пользователю указывать устройства и файлы
 

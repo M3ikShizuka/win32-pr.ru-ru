@@ -12,12 +12,12 @@ keywords:
 - миксерс, звуковые строки
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7089ac3fdee1ec07309a9844a1be282b435b4858061c6defdbca9be84463d95a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4a7720a178931f98415cafb38a92383037a4011e
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119144813"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372114"
 ---
 # <a name="control-types"></a>Типы элементов управления
 
@@ -26,10 +26,10 @@ ms.locfileid: "119144813"
 -   [пользовательские элементы управления аудио Mixer](audio-mixer-custom-controls.md)
 -   [фадерс](faders.md)
 -   [Списки](lists.md)
--   [Приборов](meters.md)
--   [Числа](numbers.md)
+-   [Единицы измерения](meters.md)
+-   [Показатели](numbers.md)
 -   [Ползунки](sliders.md)
--   [коммутаторы;](switches.md)
+-   [Коммутаторы](switches.md)
 -   [Элементы управления времени](time-controls.md)
 
  

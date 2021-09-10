@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 73b93f042193c50a810ac23285224ddd234a23b2070f8db2d56d216fee037c37
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 482fd744d7e6e163059330148b6e3f081d435880
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118373219"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370152"
 ---
 # <a name="paste-command"></a>вставить команду
 
@@ -94,7 +94,7 @@ _stprintf_s(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

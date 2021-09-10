@@ -16,12 +16,12 @@ keywords:
 - Службы MIDI, блоки данных
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 137556c1344e6f2e8db8557d45a70c5981fa7bab99e7452cc1f756b4a8ee159b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 48b23a72dfd46035a3d23743faa7228e5fe85aaf
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119808494"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370839"
 ---
 # <a name="allocating-and-preparing-midi-data-blocks"></a>Выделение и подготовка блоков данных MIDI
 
@@ -46,7 +46,7 @@ Windows предоставляет следующие функции для по
 
 Перед передачей блока данных MIDI в драйвер устройства необходимо подготовить буфер, передав его в функцию [**мидиинпрепарехеадер**](/windows/win32/api/mmeapi/nf-mmeapi-midiinprepareheader) или [**мидиаутпрепарехеадер**](/windows/win32/api/mmeapi/nf-mmeapi-midioutprepareheader) . Когда драйвер устройства завершает работу с буфером и возвращает его, необходимо очистить эту подготовку, передав буфер в функцию [**мидиинунпрепарехеадер**](/windows/win32/api/mmeapi/nf-mmeapi-midiinunprepareheader) или [**мидиаутунпрепарехеадер**](/windows/win32/api/mmeapi/nf-mmeapi-midioutunprepareheader) , прежде чем можно будет освободить выделенную память.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

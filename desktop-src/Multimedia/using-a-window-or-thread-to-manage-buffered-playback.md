@@ -16,12 +16,12 @@ keywords:
 - Отправка сообщений MIDI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cbc0acb39090a640d60539542a439111287faef246adf64aef7ee12ced3ae09e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8c8c120504a4a25ddcf01474db341a367a2e9854
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117801258"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371025"
 ---
 # <a name="using-a-window-or-thread-to-manage-buffered-playback"></a>Использование окна или потока для управления воспроизведением в буфере
 

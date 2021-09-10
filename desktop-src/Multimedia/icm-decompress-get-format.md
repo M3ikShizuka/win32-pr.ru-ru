@@ -3,7 +3,7 @@ title: Сообщение ICM_DECOMPRESS_GET_FORMAT (VFW. h)
 description: '\_ \_ \_ Сообщение о формате ICM uncompression получает запрос к выходному формату распакованных данных из драйвера распаковки видео. Это сообщение можно отправить явно или с помощью макроса Икдекомпрессжетформат.'
 ms.assetid: 51753f47-758b-4d3e-9a53-9db284da2473
 keywords:
-- ICM_DECOMPRESS_GET_FORMAT сообщения Windows мультимедиа
+- сообщение ICM_DECOMPRESS_GET_FORMAT Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: fc7eefa655646deae8e67fa16a87bfdb81a8b936
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104071896"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370527"
 ---
 # <a name="icm_decompress_get_format-message"></a>Выводит \_ \_ сообщение о \_ форматировании ICM
 
@@ -58,7 +58,7 @@ lParam = (DWORD_PTR) (LPVOID) lpbiOutput;
 
 Если *лпбиаутпут* имеет ненулевое значение, функция ВОЗВРАЩАЕТ значение ицерр \_ ОК в случае успеха или ошибку в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если *лпбиаутпут* имеет ненулевое значение, драйвер должен заполнить структуру [**битмапинфо**](/windows/win32/api/wingdi/ns-wingdi-bitmapinfo) с выходным форматом по умолчанию, соответствующим формату входных данных, указанному для *лпбиинпут*. Если программа сжатия может создать несколько форматов, то форматом по умолчанию должен быть тот, который сохраняет максимальный объем информации.
 
@@ -74,7 +74,7 @@ lParam = (DWORD_PTR) (LPVOID) lpbiOutput;
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

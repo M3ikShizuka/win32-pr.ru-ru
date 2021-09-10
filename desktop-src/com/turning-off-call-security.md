@@ -4,12 +4,12 @@ description: Безопасность вызова определяет, име�
 ms.assetid: 7ce162d0-20e0-4385-ad9f-472f2c17b060
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b6d8d8f4a48baed00655761e89a12f0aa84846a0a2defdc0b2e444b2bee9103f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a838a9c7936c126a1fedeeafc977f55641b63c5b
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118550568"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369757"
 ---
 # <a name="turning-off-call-security"></a>Отключение безопасности вызовов
 
@@ -17,7 +17,7 @@ ms.locfileid: "118550568"
 
 -   [Отключение безопасности вызовов с помощью DCOMCNFG](#turning-off-call-security-using-dcomcnfg)
 -   [Отключение безопасности вызова программным способом](#turning-off-call-security-programmatically)
--   [Связанные темы](#related-topics)
+-   [Связанные разделы](#related-topics)
 
 ## <a name="turning-off-call-security-using-dcomcnfg"></a>Отключение безопасности вызовов с помощью DCOMCNFG
 
@@ -51,7 +51,7 @@ ms.locfileid: "118550568"
 
 Чтобы отключить безопасный вызов программным способом, клиент и сервер должны вызвать **CoInitializeSecurity**, установив уровень проверки подлинности в параметре *ДВАУСНЛЕВЕЛ* на \_ уровне RPC C \_ AUTHN \_ \_ None.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

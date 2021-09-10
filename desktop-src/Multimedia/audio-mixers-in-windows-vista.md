@@ -10,12 +10,12 @@ keywords:
 - Windows Windows Vista Audio миксерс
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: eb4299a7c4d1dcbc3fa5d92e4bb18042793976dafac4e836f80ac5c70ac53f09
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0610e9f16e13c19a253fbd9f6fac5ef452fa68ad
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117989603"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371988"
 ---
 # <a name="audio-mixers-in-windows-vista"></a>аудио миксерс в Windows Vista
 

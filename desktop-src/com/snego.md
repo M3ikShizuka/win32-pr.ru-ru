@@ -4,12 +4,12 @@ description: Снего, идентификатор службы проверк�
 ms.assetid: 2087a84c-d302-4511-9f02-2d20ee9e0d8e
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a82f8da58cc77ebfd4debd0763ad4af6e1c96d3e88d9ede69ff82a28e3d8a5ba
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 676b6428d6b7e79893214c2d234dcfc43992e190
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119129816"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369734"
 ---
 # <a name="snego"></a>снего
 
@@ -28,7 +28,7 @@ ms.locfileid: "119129816"
 
 Если используется снего, вызовы метода [**кокуерипроксибланкет**](/windows/desktop/api/combaseapi/nf-combaseapi-coqueryproxyblanket) или [**кокуериклиентбланкет**](/windows/desktop/api/combaseapi/nf-combaseapi-coqueryclientblanket) будут возвращать снего в качестве службы проверки подлинности, а не действующей службы проверки подлинности, которая снего выбрана для установления соединения.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -6,12 +6,12 @@ keywords:
 - Функция Авифилеинфо
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ab95186b1ec8913623b0ab02e0d2bc5556302d4dcd03f7737ac12c5872b9f2fb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ba1ffe866e454a898c5c3b91c7721c24f6a861ed
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118371709"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372015"
 ---
 # <a name="reading-from-a-file"></a>Чтение из файла
 

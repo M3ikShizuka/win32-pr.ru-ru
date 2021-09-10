@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 805befc3f83c79b157e040004dcf382dccaf07b240b3b846892b8fb035f826ac
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 58ef6590770e8a9ece3eb8abaffb4dbca0b1a4d4
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118135160"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371457"
 ---
 # <a name="wm_cap_get_status-message"></a>\_ \_ Получение \_ сообщения о состоянии крепления WM
 
@@ -60,7 +60,7 @@ lParam = (LPARAM) (LPVOID) (LPCAPSTATUS) (s);
 
 Структура [**капстатус**](/windows/win32/api/vfw/ns-vfw-capstatus) содержит текущее состояние окна сбора данных. Поскольку это состояние является динамическим и изменяется в ответ на различные сообщения, приложение должно инициализировать эту структуру после отправки сообщения [**\_ видеоформат WM \_ DLG \_**](wm-cap-dlg-videoformat.md) (или с помощью макроса [**капдлгвидеоформат**](/windows/desktop/api/Vfw/nf-vfw-capdlgvideoformat) ) и всякий раз, когда необходимо включить пункты меню или определить фактическое состояние окна.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

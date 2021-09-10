@@ -7,12 +7,12 @@ keywords:
 - мультимедиа, диспетчер сжатия видео (ВКМ)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 122114666713b3bf5d1e706db2206a3d4894f8a40dea94d33d3b12829fb02bfd
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6841446a5a0f22b8c05c2419448e65b035f90703
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119808724"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370311"
 ---
 # <a name="about-the-video-compression-manager"></a>О диспетчере сжатия видео
 
@@ -30,7 +30,7 @@ ms.locfileid: "119808724"
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -3,7 +3,7 @@ title: Сообщение ICM_DECOMPRESSEX (VFW. h)
 description: Сообщение ICM \_ декомпрессекс уведомляет драйвер сжатия видео о необходимости распаковать кадр данных непосредственно на экран, распаковать его со слоем DIB или распаковать изображения, описанные в исходных и целевых прямоугольниках.
 ms.assetid: ed253280-c246-4e86-91f1-ad1e1132d732
 keywords:
-- ICM_DECOMPRESSEX сообщения Windows мультимедиа
+- сообщение ICM_DECOMPRESSEX Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 3d33451547bc598250a97e73682712e157aa13a5
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104071893"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370509"
 ---
 # <a name="icm_decompressex-message"></a>\_Сообщение ICM декомпрессекс
 
@@ -56,7 +56,7 @@ lParam = sizeof(ICDECOMPRESSEX);
 
 Возвращает ИЦЕРР \_ ОК в случае успеха или ошибку в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это сообщение похоже на [**\_ распаковку ICM**](icm-decompress.md) , за исключением того, что в нем используется структура [**икдекомпрессекс**](/windows/desktop/api/Vfw/ns-vfw-icdecompressex) для определения сведений о распаковке.
 
@@ -76,7 +76,7 @@ lParam = sizeof(ICDECOMPRESSEX);
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

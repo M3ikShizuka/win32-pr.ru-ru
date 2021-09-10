@@ -10,12 +10,12 @@ keywords:
 - МЦивнд макросы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e67b950c7cf89462df4095c7a93357c98d40f96654ff0da6eedc4cf373f0e87d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 79addd5944a491e2e3fc946a0e8ccce65055d5ff
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119783404"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372363"
 ---
 # <a name="mciwnd-macros"></a>МЦивнд макросы
 
@@ -91,7 +91,7 @@ ms.locfileid: "119783404"
 -   [**мЦивндусетиме**](/windows/desktop/api/Vfw/nf-vfw-mciwndusetime)
 -   [**мЦивндвалидатемедиа**](/windows/desktop/api/Vfw/nf-vfw-mciwndvalidatemedia)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

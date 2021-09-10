@@ -6,12 +6,12 @@ keywords:
 - набор команд видеодиск
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a5ca5212d1fe121f2d5f8f3bb57772780b4b694f7c3069ff48fb19cbdd21f6ce
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: facea09cd84f55b2cf8acb2abf042e3232289573
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118135572"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371586"
 ---
 # <a name="videodisc-command-set"></a>Набор команд видеодиск
 
@@ -21,11 +21,11 @@ ms.locfileid: "118135572"
 
 | Форма строки                      | Форма сообщения                              |
 |----------------------------------|-------------------------------------------|
-| [**разбиени**](break.md)           | [**\_разрыв MCI**](mci-break.md)           |
+| [**break**](break.md)           | [**\_разрыв MCI**](mci-break.md)           |
 | [**возможностями**](capability.md) | [**\_ЖЕТДЕВКАПС MCI**](mci-getdevcaps.md) |
 | [**выхода**](close.md)           | [**\_закрытие MCI**](mci-close.md)           |
 | [выполняет](escape.md)             | [**\_escape-последовательность MCI**](mci-escape.md)         |
-| [**контактные**](info.md)             | [**\_сведения о MCI**](mci-info.md)             |
+| [**сведения**](info.md)             | [**\_сведения о MCI**](mci-info.md)             |
 | [**открыт**](open.md)             | [**MCI \_ открыт**](mci-open.md)             |
 | [**работу**](pause.md)           | [**Приостановка MCI \_**](mci-pause.md)           |
 | [**воспроизводит**](play.md)             | [**\_Воспроизведение MCI**](mci-play.md)             |

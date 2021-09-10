@@ -6,12 +6,12 @@ keywords:
 - COM-значение реестра Легацисекуререференцес
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ef3a4ab964d73fa4b194c734f28c23ff068239370088c090051464129b6caf14
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2776bf3661013f1e622bbc2e1c553f2551c62808
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117736551"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369653"
 ---
 # <a name="legacysecurereferences"></a>легацисекуререференцес
 
@@ -28,7 +28,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole
 
 Это значение **reg \_ SZ** . Значение "Y" или "y" указывает, что **AddRef** и **Release** защищены. Если это значение реестра отсутствует или имеет значение, отличное от "Y" или "y", **AddRef** и **Release** не защищаются. Включение защиты ссылок снижает производительность удаленных вызовов.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: fe517d88-7b03-4dc3-b3db-6a92665bca8e
 title: Кусты реестра
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 11920a7b70a8aeb78b08aee2c25b89c4de5457b5cb96a480fc1f75fff6c6a35a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 05f942a275855c710de53a0d93df0b4654dd596f
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117763631"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371892"
 ---
 # <a name="registry-hives"></a>Кусты реестра
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 645d7a660df8d22cb2adb70a775d5431eb31dc986b502bb4dbb36b1963ce06f8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5daefea2c550a1d0cf807ae03840c38ae8b2567c
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119429274"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370659"
 ---
 # <a name="mciwndm_getmode-message"></a>Сообщение МЦИВНДМ в \_ режиме
 
@@ -90,7 +90,7 @@ lParam = (LPARAM) (LPSTR) lp;
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

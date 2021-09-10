@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 673295aa92503c28ff7a285182fa9e5b1a71321dc59ab9a76536692adc836273
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b69a12c2622f3f97f04bdca89389c8ab9be7e948
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117986125"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370224"
 ---
 # <a name="mci_tmsf_minute-macro"></a>\_Макрос MCI тмсф \_ Minute
 

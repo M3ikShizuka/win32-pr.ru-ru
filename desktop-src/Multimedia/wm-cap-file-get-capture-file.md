@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 462f919458078129f6756782c2fde5322b3cd814c3108cb0ba8ee24e2f54c022
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7008e0b217f29ad9602afbdc41cc97f9cb7ecaa3
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118135322"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371430"
 ---
 # <a name="wm_cap_file_get_capture_file-message"></a>\_Сообщение о \_ \_ получении \_ файла записи \_ закрепления WM
 
@@ -60,7 +60,7 @@ lParam = (LPARAM) (LPVOID) (LPSTR) (szName);
 
 Имя файла для отслеживания по умолчанию — C: \\CAPTURE.AVI.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

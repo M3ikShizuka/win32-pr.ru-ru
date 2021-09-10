@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 922c68340cd776c8c23c0c1b60c3aa4de67e4e713d27e54510d2bf0f6978f442
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f6619131319863d1159a3bdb8bb85d366243544a
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119783744"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369921"
 ---
 # <a name="mci_where-command"></a>\_Команда MCI WHERE
 
@@ -155,7 +155,7 @@ MCIERROR mciSendCommand(
 
 Для устройств с наложением параметр *лпкуери* указывает на структуру [**MCI \_ овли \_ Rect \_ пармс**](mci-ovly-rect-parms.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -3,7 +3,7 @@ title: Сообщение ICM_COMPRESS_GET_SIZE (VFW. h)
 description: Сообщение ICM \_ \_ \_ Request Size получает запрос о том, что драйверу сжатия видео предоставлен максимальный размер одного кадра данных при сжатии в указанный формат вывода. Это сообщение можно отправить явно или с помощью макроса Иккомпрессжетсизе.
 ms.assetid: 6910e588-e60f-43b1-8fa6-113c2ec32a53
 keywords:
-- ICM_COMPRESS_GET_SIZE сообщения Windows мультимедиа
+- сообщение ICM_COMPRESS_GET_SIZE Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 38b0b61c78cc684de27d1e9a2747498e30eb3fe9
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103989161"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370431"
 ---
 # <a name="icm_compress_get_size-message"></a>\_Сообщение о сжатии \_ получения \_ размера ICM
 
@@ -56,7 +56,7 @@ lParam = (DWORD_PTR) (LPVOID) lpbiOutput;
 
 Возвращает максимальное число байтов, которое может занимать один сжатый кадр.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Как правило, приложения отправляют это сообщение, чтобы определить размер буфера, выделяемого для сжатого кадра.
 
@@ -74,7 +74,7 @@ lParam = (DWORD_PTR) (LPVOID) lpbiOutput;
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

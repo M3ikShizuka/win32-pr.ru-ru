@@ -7,12 +7,12 @@ keywords:
 - VFW (видео для Windows), функции вкм
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d6a6de915c837fbe7e7d8d73d655a2f0a58804ef2a45a23c0a3087a9cb2187c1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f0876b67c74ddac2d2f498583fe058dd9ea39436
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119804324"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372540"
 ---
 # <a name="video-compression-functions"></a>Функции сжатия видео
 
@@ -46,7 +46,7 @@ ms.locfileid: "119804324"
 -   [**иксетстатуспрок**](/windows/desktop/api/Vfw/nf-vfw-icsetstatusproc)
 -   [**мистатуспрок**](/previous-versions//dd743620(v=vs.85))
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -6,12 +6,12 @@ keywords:
 - Функция Авифилекреатестреам
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: baaedd4103d2141ecaccde78462b2290cf5d5d37813b224c20101eacbe580d70
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 370df08534bbdde870f6d28c828d47935abd80db
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119891764"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372483"
 ---
 # <a name="writing-streams-to-a-file"></a>запись Потоки в файл
 
@@ -27,7 +27,7 @@ ms.locfileid: "119891764"
 
 Вы можете закрыть поток после завершения записи в новый поток с помощью функции [**авистреамрелеасе**](/windows/desktop/api/Vfw/nf-vfw-avistreamrelease) . Эта функция очищает буферы, используемые при записи потоковых данных, и завершает и закрывает все неполные фрагменты данных в файле.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

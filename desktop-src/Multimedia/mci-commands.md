@@ -7,12 +7,12 @@ keywords:
 - Справочник по MCI, команды
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 88dcfde9629ce551068fef549b0b68665f06ea5ccd2631df99033bac12afc958
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1d6e082f7aecabb9b1f1dd5b0a6cdaf633f1a775
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117986844"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369909"
 ---
 # <a name="mci-commands"></a>Команды MCI
 

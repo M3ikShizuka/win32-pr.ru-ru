@@ -13,18 +13,18 @@ keywords:
 - запрос устройств ввода MIDI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 81340f767c1ef3acf3105f78d2cef000f7548361b387e6887ecc4136437dbe6e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7a92bec8733887e20c25f37d1de3dd493e555c8a
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118371936"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370914"
 ---
 # <a name="querying-midi-input-devices"></a>Запрос устройств ввода MIDI
 
 Перед записью звука MIDI следует использовать функцию [**мидиинжетдевкапс**](/windows/win32/api/mmeapi/nf-mmeapi-midiingetdevcaps) для определения возможностей входного устройства MIDI, присутствующего в системе. Эта функция принимает адрес структуры [**мидиинкапс**](/windows/win32/api/mmeapi/ns-mmeapi-midiincaps) , которая заполняется сведениями о возможностях данного устройства. Эти сведения включают в себя изготовителя и идентификаторы продуктов, название продукта для устройства и номер версии драйвера устройства.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

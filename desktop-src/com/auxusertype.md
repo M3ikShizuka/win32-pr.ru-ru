@@ -6,12 +6,12 @@ keywords:
 - COM раздела реестра Ауксусертипе
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f1dbec8e873e6f6cfcb5fdb29468c1f09c0a7a6935280054e129ddac0b49e282
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8c66fcfbcdc2886e93d08040659b39c42d47c291
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118550727"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369570"
 ---
 # <a name="auxusertype"></a>ауксусертипе
 
@@ -33,7 +33,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID
 
 *ApplicationName* должно содержать фактическое имя приложения (например, "Acme Draw 2,0"). Это имя используется в поле **результаты** диалогового окна Специальная **Вставка** .
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

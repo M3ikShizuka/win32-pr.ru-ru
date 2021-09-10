@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ee12db79a9e4808442618ca295694611aa9e098a87c8f72b25f04360e156c8a3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b95c9ba0be7a0abeb99c0590e255adb0bd442343
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118622239"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371499"
 ---
 # <a name="wm_cap_set_callback_yield-message"></a>\_Сообщение о \_ \_ выдает ответ обратного вызова Set крепления WM \_
 
@@ -71,7 +71,7 @@ lParam = (LPARAM) (LPVOID) (fpProc);
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

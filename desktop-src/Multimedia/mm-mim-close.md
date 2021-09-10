@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 87e1ee579f09fbd379f1fa353d602657194b0848d040210a713d0492a7e42311
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d8ce511365b1faa49faefaf4ed25c5b8befb2288
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119807394"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370890"
 ---
 # <a name="mm_mim_close-message"></a>\_сообщение о \_ закрытии MIM MM
 
@@ -60,7 +60,7 @@ lParam = reserved
 
 После отправки этого сообщения маркер устройства больше не действителен.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

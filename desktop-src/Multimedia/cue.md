@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: a6398d4773b6c92332e8a95996e4d81941a073fe
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122467861"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369830"
 ---
 # <a name="cue-command"></a>Команда подсказки
 
@@ -54,7 +54,7 @@ _stprintf_s(
 
 
 
-| Значение | Сказк | Сказк | 
+| Значение | Подсказки | Подсказки | 
 |-------|-----|-----|
 | дигиталвидео | <ul><li>input</li><li>не показывать</li></ul> | <ul><li>output</li><li>в <em>Расположение</em></li></ul> | 
 | видеомагнитофон | <ul><li>от <em>расположения</em></li><li>input</li><li>output</li></ul> | <ul><li>сделана предварительная проба</li><li>reverse</li><li>в <em>Расположение</em></li></ul> | 
@@ -96,7 +96,7 @@ _stprintf_s(
 
 Возвращает нуль в случае успеха или ошибку в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Хотя это необязательно, выдача команды подсказки перед воспроизведением или записью на некоторых устройствах может снизить задержку, прежде чем устройство запустит действие.
 

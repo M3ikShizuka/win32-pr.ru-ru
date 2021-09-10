@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e944273ff8519aefa52803b2072199760a480e0fcb2a76dd314b578dcbcfdf4d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bb81c21fc10846adaa113c02b6250bbb35cfff50
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119892084"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371421"
 ---
 # <a name="wm_cap_edit_copy-message"></a>\_ \_ Сообщение об изменении копии с КРЕПЛЕНИЯми WM \_
 
@@ -38,7 +38,7 @@ lParam = 0L;
 
 Возвращает **значение true** в случае успеха или **false** в противном случае.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -12,12 +12,12 @@ keywords:
 - внутренний буфер ввода-вывода
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 67f8e7c11dbc90f7090bc8fcee114ebfac79f9bd54d834203f4b8e7bf893f591
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d014ed765609dd43886cc7b33987f8fd5ac7e65a
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117989418"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372051"
 ---
 # <a name="buffered-services"></a>Буферизируемые службы
 

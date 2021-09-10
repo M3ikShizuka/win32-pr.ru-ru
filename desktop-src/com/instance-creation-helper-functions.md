@@ -4,12 +4,12 @@ description: Вспомогательные функции для создани
 ms.assetid: 0b9b7bcf-f0f0-42c4-945e-63a532640d4b
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e8bd8535d1dc90ac47210a7ec9b34b5fcced61a3a541b27b2aa5af2ba1cf8b27
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 84956f6040aaba13b46dea92bea611a49d5d8de3
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117918925"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369517"
 ---
 # <a name="instance-creation-helper-functions"></a>Вспомогательные функции для создания экземпляра
 
@@ -28,7 +28,7 @@ ms.locfileid: "117918925"
 
 Для создания объекта через [**кокреатеинстанцеекс**](/windows/desktop/api/combaseapi/nf-combaseapi-cocreateinstanceex) все равно требуется инициализировать объект с помощью вызова одного из интерфейсов инициализации (например, [**Иперсистстораже:: Load**](/windows/desktop/api/ObjIdl/nf-objidl-ipersiststorage-load)). Вспомогательные функции [**кожетинстанцефромфиле**](/windows/desktop/api/Objbase/nf-objbase-cogetinstancefromfile) и [**кожетинстанцефромистораже**](/windows/desktop/api/Objbase/nf-objbase-cogetinstancefromistorage) инкапсулируют возможности создания экземпляров **кокреатеинстанцеекс** и инициализации, первый из файлов и второй из хранилища.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

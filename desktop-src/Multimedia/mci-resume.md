@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4872162e4f4913d7165d9ec69e6cc1164b3be40919facacbfd1a94d569a46c89
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bd83b6d753cd223235b8b11f2d4b0be4c828ec28
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120038344"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370080"
 ---
 # <a name="mci_resume-command"></a>\_Команда возобновления работы с MCI
 
@@ -72,7 +72,7 @@ MCIERROR mciSendCommand(
 
 Эта команда возобновляет воспроизведение и запись, не изменяя текущий набор [ \_ записей](mci-record.md)с помощью [MCI \_ Play](mci-play.md) или MCI.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -4,12 +4,12 @@ description: Программа Dcomcnfg.exe предоставляет поль
 ms.assetid: 9aad6b71-47b8-4377-88e5-f463991d9e86
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9d6161cf7418e7eab705203df51710e789ad2ef7d6843051dd35399fb8388f27
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c01139584b715fccdad923bc5eb3d6a863a63ef8
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119678694"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369750"
 ---
 # <a name="enabling-com-security-using-dcomcnfg"></a>Включение безопасности COM с помощью DCOMCNFG
 
@@ -32,7 +32,7 @@ ms.locfileid: "119678694"
 -   [Настройка безопасности System-Wide с помощью DCOMCNFG](setting-machine-wide-security-using-dcomcnfg.md)
 -   [Настройка безопасности Процессвиде с помощью DCOMCNFG](setting-processwide-security-using-dcomcnfg.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

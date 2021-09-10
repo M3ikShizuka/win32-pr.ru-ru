@@ -13,12 +13,12 @@ keywords:
 - Функция Дравдибклосе
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5d331e2524c8b46c9e0781d1ff43a99b72a160a2b05acae7b853aabcbb9b8f0d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dc366287cdf481d70ef03aa82df5ea248673280b
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118941245"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372192"
 ---
 # <a name="drawdib-operations"></a>Операции Дравдиб
 
@@ -35,7 +35,7 @@ ms.locfileid: "118941245"
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a2f13d0e9f8a7a4b9f5477459286bc56b9c98b1f9564e8432329681aeaef66d3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4e64b864b4b0366421828960504aff3f5a83836b
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118138281"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370026"
 ---
 # <a name="mci_ovly_open_parms-structure"></a>\_Структура MCI овли \_ Open \_ пармс
 
@@ -42,7 +42,7 @@ typedef struct {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -101,7 +101,7 @@ typedef struct {
 
 Структуру [**\_ \_ пармс для MCI**](mci-open-parms.md) можно использовать вместо **MCI \_ овли \_ Open \_ пармс** , если вы не используете расширенные элементы данных.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

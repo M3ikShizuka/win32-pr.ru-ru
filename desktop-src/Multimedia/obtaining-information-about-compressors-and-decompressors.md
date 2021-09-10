@@ -8,12 +8,12 @@ keywords:
 - Функция Икжетинфо
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b023a8f82fa92aa78a2a2dcf47a8f6c9447f943ac0f68440c6d7aff3123fc84e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 874793233ef0aec4de5b372573fb8dcd79f5d875
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120038444"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370404"
 ---
 # <a name="obtaining-information-about-compressors-and-decompressors"></a>Получение сведений об упаковщиках и декомпрессорах
 

@@ -4,12 +4,12 @@ description: Набор команд ВИДЕОМАГНИТОФОНА
 ms.assetid: e17ec75d-a98f-46ea-8bef-7e45e1696f43
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 00fdc15ca4f8c151a8202642bcd11a650fa5481c979ab794552675fb109c75ce
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aa6f84b4542b6ea87b5d05ae8d1cda2374fcac2c
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118370260"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371583"
 ---
 # <a name="vcr-command-set"></a>Набор команд ВИДЕОМАГНИТОФОНА
 
@@ -19,13 +19,13 @@ ms.locfileid: "118370260"
 
 | Форма строки                        | Форма сообщения                                |
 |------------------------------------|---------------------------------------------|
-| [**разбиени**](break.md)             | [**\_разрыв MCI**](mci-break.md)             |
+| [**break**](break.md)             | [**\_разрыв MCI**](mci-break.md)             |
 | [**возможностями**](capability.md)   | [**\_ЖЕТДЕВКАПС MCI**](mci-getdevcaps.md)   |
-| [**cue**](cue.md)                 | [**\_Подсказка MCI**](mci-cue.md)                 |
+| [**сказк**](cue.md)                 | [**\_Подсказка MCI**](mci-cue.md)                 |
 | [**фиксировать**](freeze.md)           | [**\_замораживание MCI**](mci-freeze.md)           |
-| [**номер**](./windows-multimedia-start-page.md)             | [**\_указатель MCI**](mci-index.md)             |
-| [**контактные**](info.md)               | [**\_сведения о MCI**](mci-info.md)               |
-| [**list**](list.md)               | [**\_список MCI**](mci-list.md)               |
+| [**индекс**](./windows-multimedia-start-page.md)             | [**\_указатель MCI**](mci-index.md)             |
+| [**сведения**](info.md)               | [**\_сведения о MCI**](mci-info.md)               |
+| [**числ**](list.md)               | [**\_список MCI**](mci-list.md)               |
 | [**как**](mark.md)               | [**\_маркер MCI**](mci-mark.md)               |
 | [**работу**](pause.md)             | [**Приостановка MCI \_**](mci-pause.md)             |
 | [**воспроизводит**](play.md)               | [**\_Воспроизведение MCI**](mci-play.md)               |

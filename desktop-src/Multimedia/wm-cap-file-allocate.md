@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e76f0e88642d7d28771090b0690191eb4e4e72f5749dc74a9e42d90bfea87812
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1d36cec54e5775641118679b24b0d4b3b1767693
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119781404"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371424"
 ---
 # <a name="wm_cap_file_allocate-message"></a>\_Сообщение о \_ выделении файла крепления WM \_
 
@@ -55,7 +55,7 @@ lParam = (LPARAM) (DWORD) (dwSize);
 
 Производительность захвата потоковой передачи значительно повышается за счет предварительного выделения файла записи, достаточного для хранения всего видеоклипа и дефрагментации файла записи перед записью клипа.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

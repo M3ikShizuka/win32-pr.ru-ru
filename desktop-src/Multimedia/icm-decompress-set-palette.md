@@ -3,7 +3,7 @@ title: Сообщение ICM_DECOMPRESS_SET_PALETTE (VFW. h)
 description: Сообщение ICM \_ распаковка \_ Установка \_ палитры указывает палитру для драйвера распаковки видео, который будет использоваться при распаковке в формат, использующий палитру. Это сообщение можно отправить явно или с помощью макроса Икдекомпресссетпалетте.
 ms.assetid: 269d01f9-b7c8-40e4-abdb-24dd0c9cc18d
 keywords:
-- ICM_DECOMPRESS_SET_PALETTE сообщения Windows мультимедиа
+- сообщение ICM_DECOMPRESS_SET_PALETTE Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 5f2bbbf1b09b8c5954a2149edd16cb213a08fb3a
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105672799"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370536"
 ---
 # <a name="icm_decompress_set_palette-message"></a>\_Сообщение о настройке распаковки ICM \_ \_
 
@@ -49,7 +49,7 @@ lParam = 0;
 
 Возвращает ИЦЕРР \_ ОК, если драйвер распаковки может точно распаковать изображения в предлагаемую палитру, используя набор цветов, упорядоченных в палитре. \_В противном случае ВОЗВРАЩАЕТ ицерр.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это сообщение не должно влиять на уже выполняющееся распаковку; Вместо этого цвета, передаваемые с помощью этого сообщения, должны возвращаться в ответ на будущее [**ICM \_ unуплотнение \_ Get \_ Format**](icm-decompress-get-format.md) и [**ICM \_ unсжимать \_ Получение сообщений \_ палитры**](icm-decompress-get-palette.md) . Цвета отправляются обратно в драйвер распаковки в будущем сообщении [**о \_ \_ начале распаковки ICM**](icm-decompress-begin.md) .
 
@@ -67,7 +67,7 @@ lParam = 0;
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

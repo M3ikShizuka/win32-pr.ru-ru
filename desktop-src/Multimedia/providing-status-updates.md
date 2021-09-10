@@ -10,12 +10,12 @@ keywords:
 - Макрос МЦивндсеттимерс
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a71ad60ce3970c21adec75af04f3c896eef4c933816002bc8b4c8c3acabcd5a7
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3fd53c9580f3ae9be09817979178d10e60765ea3
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120037584"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372174"
 ---
 # <a name="providing-status-updates"></a>Предоставление обновлений состояния
 

@@ -6,12 +6,12 @@ keywords:
 - COM-значение реестра Легациаусентикатионлевел
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ae6be9f562a543e4750695ec2bf967b5a261209aae70d0bf91269bc2a074a9e8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f2d87d808287418f635629e15324f2f517619be6
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120096954"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369637"
 ---
 # <a name="legacyauthenticationlevel"></a>легациаусентикатионлевел
 
@@ -50,7 +50,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole
 
 Если это значение реестра отсутствует, уровень проверки подлинности по умолчанию, установленный системой, — 2 (RPC \_ C \_ AUTHN \_ Connect).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
