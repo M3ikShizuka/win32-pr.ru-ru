@@ -12,12 +12,12 @@ keywords:
 - Справочник по Дравдиб, сведения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bed8a2469b473efdebbe8a3fdd55d9ba7d735328185f1d9297ddf533e61b0f02
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: be359e2d0af6de28d6a054e60e0c5cac1de55c4a
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119678773"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371847"
 ---
 # <a name="drawdib-reference"></a>Справочник по Дравдиб
 

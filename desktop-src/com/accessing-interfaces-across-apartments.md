@@ -4,12 +4,12 @@ description: Доступ к интерфейсам в разных апарта
 ms.assetid: 4e0467b9-bbf1-410c-8aab-40450a7f963a
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e89e82fa29e768328e6c110349627d32e92ab010ce61fdf64141ad3ca7fe9a54
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 626707daf721aee3b440bb79ba2d1e084d154a98
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119048922"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369453"
 ---
 # <a name="accessing-interfaces-across-apartments"></a>Доступ к интерфейсам в разных апартаментах
 
@@ -33,7 +33,7 @@ COM позволяет любому подразделению в процесс
 -   [Создание глобальной таблицы интерфейса](creating-the-global-interface-table.md)
 -   [Когда следует использовать глобальную таблицу интерфейса](when-to-use-the-global-interface-table.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

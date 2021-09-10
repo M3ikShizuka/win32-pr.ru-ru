@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 79620aecba07b11ed63dfc43fd2d70b41728586b36649b4b13aace9d1364197c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bcec1f0db5accad93211bf1eb6f1c9297e2b9f33
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117802898"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370761"
 ---
 # <a name="mciwndm_settimeformat-message"></a>\_Сообщение мЦивндм сеттимеформат
 
@@ -67,7 +67,7 @@ lParam = (LPARAM) (LPSTR) lp;
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

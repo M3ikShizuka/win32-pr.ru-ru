@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 720d8c2f919d2b00955892a42ba8fca95b2b426c3cbb396aa4ac71a5cf912307
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 538659eb9878be819ee6ec1506403fcce314eb0b
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119690954"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370563"
 ---
 # <a name="icm_draw_start-message"></a>\_Сообщение о \_ запуске ICM Draw
 
@@ -46,7 +46,7 @@ lParam = 0;
 
 Сообщения об [**\_ \_ ошибке начала и разрисовки**](icm-draw-stop.md) ICM Draw не вложены. **\_ \_** Если драйвер получает изображение **ICM \_ \_ Start** , прежде чем подготовка к просмотру остановлена с помощью **ICM \_ \_ Draw**, необходимо перезапустить визуализацию с новыми параметрами.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

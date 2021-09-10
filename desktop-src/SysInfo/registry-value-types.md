@@ -4,12 +4,12 @@ ms.assetid: 5fd828d6-4d62-4823-a2f1-15782b5cd28c
 title: Типы значений реестра
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ed2bc73e03d9aab8d39bdda31ab308af1749f22315a262ceb4ae28ec743c8c69
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: adc653e69c514bc77323704485e88f0a57eebaae
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118885020"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371862"
 ---
 # <a name="registry-value-types"></a>Типы значений реестра
 

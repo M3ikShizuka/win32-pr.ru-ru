@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 526d5f69d0b0c02d977cc8fc73cd81a7a1bf06c3e55088f11d53c05cfa72c0c5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cd81b3ad0e1f10c14d68df12399045149f686a8c
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117986172"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370167"
 ---
 # <a name="mci_step-command"></a>\_Команда на шаге MCI
 

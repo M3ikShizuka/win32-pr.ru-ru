@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6ea6cd7aa0314520a30e293a8f029920c22b8baa58e995eed7ff9e5a96dd1b7b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 230e0aaf3752016efd276d7d55624ee2abb4f8e0
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119525814"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370491"
 ---
 # <a name="icm_setstate-message"></a>\_Сообщение ICM SETSTATE
 
@@ -60,7 +60,7 @@ lParam = (DWORD_PTR) cb;
 
 Сведения, используемые этим сообщением, являются частными и относятся к конкретному компрессору. Клиентские приложения должны использовать это сообщение только для восстановления сведений, ранее полученных с помощью сообщения [**ICM- \_ State**](icm-getstate.md) , и должны использовать параметр [**ICM \_ Configure**](icm-configure.md) для настройки драйвера сжатия видео.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

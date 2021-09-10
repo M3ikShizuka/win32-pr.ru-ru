@@ -9,12 +9,12 @@ keywords:
 - Справочник по МЦивнд, сведения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 03249d5e0f0a0f4fef8110d878021437f7aee667085a0720a86de77c8cbdfe49
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 76333f38a5dec3edaadcae69777703ebea61296f
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118374368"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370818"
 ---
 # <a name="mciwnd-reference"></a>Справочник по МЦивнд
 
@@ -140,7 +140,7 @@ ms.locfileid: "118374368"
 -   [**мЦивндретурнстринг**](/windows/desktop/api/Vfw/nf-vfw-mciwndreturnstring)
 -   [**мЦивндсендстринг**](/windows/desktop/api/Vfw/nf-vfw-mciwndsendstring)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 22c49ec54d1822bbc9ddc4d2606f8905a21c5193322a12df335549074dacdea3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 66780106fdd42364d247db534a838842f25dc16a
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119691574"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370476"
 ---
 # <a name="drv_queryconfigure-message"></a>\_Куериконфигуре сообщение DRV
 
@@ -51,7 +51,7 @@ ms.locfileid: "119691574"
 
 Параметры *lParam1* и *lParam2* не используются.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

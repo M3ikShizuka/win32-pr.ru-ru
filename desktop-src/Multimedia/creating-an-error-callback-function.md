@@ -6,12 +6,12 @@ keywords:
 - макрос Капсеткаллбакконеррор
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c86b2c3445bdd4d93db36307827e648fe804e82ac8dfb06011bd7a920ab7c8e2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4ac37c0e12b8f92520c4445c4c5ba3361974d836
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119144697"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371361"
 ---
 # <a name="creating-an-error-callback-function"></a>Создание функции обратного вызова ошибки
 
@@ -48,7 +48,7 @@ LRESULT PASCAL ErrorCallbackProc(HWND hWnd, int nErrID,
 
 
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d55d3b14ffb6a42e0c41cb820e066eee5c419b069e0d92ad614ffb51d577b963
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5bebb3a8facd6478c21888cf0cf5ca81e3735ff8
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119429003"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370707"
 ---
 # <a name="mciwndm_notifypos-message"></a>\_Сообщение мЦивндм нотифипос
 
@@ -56,7 +56,7 @@ lParam = (LPARAM) (LONG) pos;
 
 Вы можете включить уведомления об изменениях в положении окна МЦивнд, указав \_ стиль окна мЦивндф нотифипос.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4ef8bcbaf0909adeae5345448769c68e726456a4bbf4375f08d874e3502ab6a2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 85147182d06386efed73229fcdd6c75372244fd6
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119429404"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370671"
 ---
 # <a name="mciwndm_get_source-message"></a>МЦИВНДМ \_ Получение \_ исходного сообщения
 
@@ -49,7 +49,7 @@ lParam = (LPARAM) (LPRECT) prc;
 
 Возвращает нуль в случае успеха или ошибку в противном случае.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ lParam = (LPARAM) (LPRECT) prc;
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

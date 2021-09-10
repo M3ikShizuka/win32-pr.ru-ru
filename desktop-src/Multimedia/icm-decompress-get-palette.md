@@ -3,7 +3,7 @@ title: Сообщение ICM_DECOMPRESS_GET_PALETTE (VFW. h)
 description: Сообщение ICM \_ распаковка \_ Получение \_ палитры требует, чтобы драйвер распаковки видео предоставил таблицу цветов для выходной структуры битмапинфохеадер. Это сообщение можно отправить явно или с помощью макроса Икдекомпрессжетпалетте.
 ms.assetid: f9fae9ab-9f69-44b6-bedb-f56f43845229
 keywords:
-- ICM_DECOMPRESS_GET_PALETTE сообщения Windows мультимедиа
+- сообщение ICM_DECOMPRESS_GET_PALETTE Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: d6255ea99b9177819dee6d227c45d2229deab57f
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105672801"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370530"
 ---
 # <a name="icm_decompress_get_palette-message"></a>ICM \_ распаковка \_ Получение \_ сообщения палитры
 
@@ -56,7 +56,7 @@ lParam = (DWORD_PTR) (LPVOID) lpbiOutput;
 
 Возвращает ИЦЕРР \_ ОК в случае успеха или ошибку в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если *лпбиаутпут* имеет ненулевое значение, драйвер устанавливает для элемента **биклрусед** в [**битмапинфохеадер**](/previous-versions//dd183376(v=vs.85)) число цветов в таблице цветов. Драйвер заполняет элемент **бмиколорс** в [**битмапинфо**](/windows/win32/api/wingdi/ns-wingdi-bitmapinfo) на реальные цвета.
 
@@ -74,7 +74,7 @@ lParam = (DWORD_PTR) (LPVOID) lpbiOutput;
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

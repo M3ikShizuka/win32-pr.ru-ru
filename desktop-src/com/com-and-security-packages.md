@@ -4,12 +4,12 @@ description: Windows поддерживает NTLMSSP (поставщик под
 ms.assetid: a0c095a8-93b7-4350-aac6-a9a066cccffd
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 15ec80a1ea610725716da3640b6e38b2fd0f3282ce6ce778e632c6a5c8e72c8d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d6720ddd56869c5ce93ae70eb313fbe12c140b42
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119048722"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369742"
 ---
 # <a name="com-and-security-packages"></a>Пакеты безопасности и COM
 
@@ -37,7 +37,7 @@ Windows поддерживает NTLMSSP (поставщик поддержки 
 -   [Schannel](schannel.md)
 -   [снего](snego.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

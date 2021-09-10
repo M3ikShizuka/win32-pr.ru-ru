@@ -5,11 +5,11 @@ ms.assetid: 5a01912d-611c-4a6e-ab9d-0243cba331f1
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: e51407de908eaaf0f79eea452046f8e424ccf900
-ms.sourcegitcommit: 5f33645661bf8c825a7a2e73950b1f4ea0f1cd82
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "104070695"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369633"
 ---
 # <a name="security-blanket-negotiation"></a>Общий согласование безопасности
 
@@ -36,13 +36,13 @@ ms.locfileid: "104070695"
 
 После того как общий уровень безопасности по умолчанию будет вычислен, его значения будут назначены вновь созданному прокси-серверу. Клиент может переопределить параметры безопасности для прокси-сервера, вызвав [**иклиентсекурити:: сетбланкет**](/windows/win32/api/objidl/nf-objidl-iclientsecurity-setblanket). Значения, указанные для **сетбланкет** , не согласовываются. они просто назначаются указанному прокси-серверу. Однако, если параметры по умолчанию (такие как RPC \_ C \_ \_ \_ по умолчанию) передаются в **сетбланкет**, com использует ранее описанный алгоритм согласования безопасности контракта для расчета параметров по умолчанию.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
 [Безопасность в COM](security-in-com.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

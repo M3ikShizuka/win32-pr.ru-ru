@@ -6,12 +6,12 @@ keywords:
 - Справочник по MCI, сведения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6f2c8f91f779ca55d0915c31ac110d5aef77a5171fa4eed110e2911c5167c4df
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 27cc54f69e714960d189567e759cf4b254275807
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120039054"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369870"
 ---
 # <a name="mci-reference"></a>Справочник по MCI
 
@@ -58,10 +58,10 @@ ms.locfileid: "120039054"
 
 ## <a name="configuring-a-device"></a>Настройка устройства
 
--   [**разбиени**](break.md)
+-   [**break**](break.md)
 -   [**выбрать**](configure.md)
 -   [выполняет](escape.md)
--   [**номер**](./windows-multimedia-start-page.md)
+-   [**индекс**](./windows-multimedia-start-page.md)
 -   [**\_разрыв MCI**](mci-break.md)
 -   [**\_пармс прерываний MCI \_**](mci-break-parms.md)
 -   [**\_Настройка MCI**](mci-configure.md)
@@ -155,7 +155,7 @@ ms.locfileid: "120039054"
 -   [**\_Вставка MCI**](mci-paste.md)
 -   [**\_Отмена MCI**](mci-undo.md)
 -   [**\_пармс для \_ удаления \_ волны MCI**](mci-wave-delete-parms.md)
--   [**вставка**](paste.md)
+-   [**авить**](paste.md)
 -   [**отмен**](undo.md)
 
 ## <a name="miscellaneous"></a>Разное
@@ -187,8 +187,8 @@ ms.locfileid: "120039054"
 ## <a name="retrieving-information"></a>Извлечение сведений
 
 -   [**возможностями**](capability.md)
--   [**контактные**](info.md)
--   [**list**](list.md)
+-   [**сведения**](info.md)
+-   [**числ**](list.md)
 -   [**\_пармс ДГВ \_ сведения о \_ MCI**](/windows/desktop/api/Digitalv/ns-digitalv-mci_dgv_info_parmsa)
 -   [**MCI \_ ДГВ \_ List \_ пармс**](/windows/desktop/api/Digitalv/ns-digitalv-mci_dgv_list_parmsa)
 -   [**\_ \_ ПАРМС состояния MCI \_ ДГВ**](/windows/desktop/api/Digitalv/ns-digitalv-mci_dgv_status_parmsa)
@@ -232,7 +232,7 @@ ms.locfileid: "120039054"
 -   [**\_резервирование MCI**](mci-reserve.md)
 -   [**\_Восстановление MCI**](mci-restore.md)
 -   [**слежен**](monitor.md)
--   [**повышения**](quality.md)
+-   [**качество**](quality.md)
 -   [**предназначен**](reserve.md)
 -   [**восстановление**](restore.md)
 
@@ -248,9 +248,9 @@ ms.locfileid: "120039054"
 -   [**\_окно MCI**](mci-window.md)
 -   [**PUT**](put.md)
 -   [**которому**](where.md)
--   [**window**](window.md)
+-   [**окно**](window.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

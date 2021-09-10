@@ -11,12 +11,12 @@ keywords:
 - Циклическая волна-звук
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cf97321a72ab566bf622e725700dbf336ddba6d92b9b8e6df9150357492656f8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5373e703c7a02068094e312dee18690a797b330e
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118136122"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372489"
 ---
 # <a name="using-playsound-to-loop-sounds"></a>Использование функции PlaySound для цикла звуков
 

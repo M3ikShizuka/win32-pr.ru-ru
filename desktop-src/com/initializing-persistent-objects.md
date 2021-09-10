@@ -4,12 +4,12 @@ description: Инициализация постоянных объектов
 ms.assetid: 790cf133-ce86-4d02-b177-a538b4ee3f8b
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ee98b01c6c9eab28f8f96f98ea1a2980c9eb5d10988c2efbe495a920c98c51e1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e29bcb32bc049b5e0d5c2dab13e5ded6a743957e
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119756184"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369786"
 ---
 # <a name="initializing-persistent-objects"></a>Инициализация постоянных объектов
 
@@ -17,7 +17,7 @@ ms.locfileid: "119756184"
 
 Инициализация состояния объекта даже до состояния по умолчанию может быть операцией ресурсоемких вычислений или ресурсов. Разделив создание на основе инициализации, инициализацию можно выполнить только в том случае, если она действительно необходима, и клиенты могут избежать инициализации объектов до состояния по умолчанию только для немедленной загрузки ранее сохраненных данных.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

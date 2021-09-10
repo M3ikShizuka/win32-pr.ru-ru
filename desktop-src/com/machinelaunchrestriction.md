@@ -6,12 +6,12 @@ keywords:
 - COM-значение реестра Мачинелаунчрестриктион
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4d5cd235e2dd81e596448f25adfd72ad0b16c13d2da3860eb56fb95f93ef53cc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 14dfcfe5535871c6b5b0fe310c94b920c522f05a
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119048062"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369669"
 ---
 # <a name="machinelaunchrestriction"></a>MachineLaunchRestriction
 
@@ -37,7 +37,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole
 
 По умолчанию администраторы могут получать разрешения локального и удаленного запуска и активации, а члены группы «все» могут получить разрешения локальной активации и запуска.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

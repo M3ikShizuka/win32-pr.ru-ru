@@ -3,7 +3,7 @@ title: Сообщение WM_CAP_PAL_AUTOCREATE (VFW. h)
 description: Сообщение с \_ \_ \_ автоматическим созданием WM Cap PAL запрашивает в качестве примера видеодрайвера записи образец видеокадра и автоматическое создание новой палитры. Это сообщение можно отправить явно или с помощью макроса Каппалеттеауто.
 ms.assetid: b94d245d-adf4-4fe0-b053-87109ef5fd2f
 keywords:
-- WM_CAP_PAL_AUTOCREATE сообщения Windows мультимедиа
+- сообщение WM_CAP_PAL_AUTOCREATE Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 7ba70de46167121aa9a83959c6d9e202039f65cd
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105661863"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371466"
 ---
 # <a name="wm_cap_pal_autocreate-message"></a>\_Сообщение с \_ \_ автосозданием WM Cap PAL
 
@@ -58,7 +58,7 @@ lParam = (LPARAM) (DWORD) (iColors);
 
 Если возникает ошибка и функция обратного вызова ошибки устанавливается с помощью сообщения [**\_ \_ \_ \_ об ошибке обратного вызова**](wm-cap-set-callback-error.md) , то вызывается функция обратного вызова ошибки.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Последовательность видеороликов с выборкой должна включать все нужные цвета в палитре. Для получения оптимальной палитры может потребоваться выборка всей последовательности, а не ее части.
 
@@ -74,7 +74,7 @@ lParam = (LPARAM) (DWORD) (iColors);
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

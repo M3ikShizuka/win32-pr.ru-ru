@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ce92984e164e5aaf3b3cd0abbc4168ffb17f26d10accd19a6d2eac0f60798a94
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5a981f6fb9f156cecfa1b4b73046b1b3c654b32e
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117986584"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369905"
 ---
 # <a name="mci_getdevcaps_parms-structure"></a>\_ \_ Структура пармс MCI жетдевкапс
 
@@ -38,7 +38,7 @@ typedef struct {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 

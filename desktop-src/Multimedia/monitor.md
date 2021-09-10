@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bef9a47db68856196dc84aefb3c5f110941189dec80f62b369eae13c60932d71
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4ccbe1d8919c232ab88d04081dad242944868893
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120038814"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370116"
 ---
 # <a name="monitor-command"></a>Команда Monitor
 
@@ -80,7 +80,7 @@ _stprintf_s(
 
 Источник презентации автоматически переключается в рабочую область после завершения [воспроизведения](play.md), [шага](step.md), [приостановки](pause.md), [подсказки](cue.md) "Output" или команды [Seek](seek.md) . Команда [Record](record.md) не переключает источники представления автоматически, что дает приложению возможность не отображать видео во время записи.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -101,7 +101,7 @@ _stprintf_s(
 [Строки команд MCI](mci-command-strings.md)
 </dt> <dt>
 
-[cue](cue.md)
+[сказк](cue.md)
 </dt> <dt>
 
 [pause](pause.md)

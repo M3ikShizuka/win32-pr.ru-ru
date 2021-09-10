@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 7413f9d7c4d17e9498e80d19b70192fbb21911b6
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104068318"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369466"
 ---
 # <a name="localserver"></a>локалсервер
 
@@ -21,11 +21,11 @@ ms.locfileid: "104068318"
 
 ```
 HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID
-   {CLSID}
-      LocalServer = path
+   {CLSID}
+      LocalServer = path
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это значение **reg \_ SZ** , которое указывает полный путь и может содержать любые аргументы командной строки.
 
@@ -33,18 +33,18 @@ COM добавляет к строке флаг "-Встраивание", по�
 
 Чтобы запустить сервер COM Object Server в отдельной области памяти, измените значение **локалсервер** следующим образом:
 
-**cmd/c Start/сепарате** *путь * * *. exe**
+**cmd/c запуск/сепарате** *путь * * * .exe**
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
 [**LocalServer32**](localserver32.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

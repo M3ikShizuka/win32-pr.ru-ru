@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 10f2161f3c163fb5f6c411293770a2b2ba3907bef7eb03aad2d67b0e0637abbf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f197ae3a7df9ad1520b84cf27fd15a1c76524ab1
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118135096"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371517"
 ---
 # <a name="wm_cap_set_overlay-message"></a>\_ \_ \_ Сообщение наложения WM Cap Set
 
@@ -57,7 +57,7 @@ lParam = 0L;
 
 Включение режима наложения автоматически отключает режим предварительного просмотра.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

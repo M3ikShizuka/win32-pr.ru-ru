@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fa07d4cf8b88eb246019bf18dd1c1328413718a70b17ebb16e27606958473f5c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 143345f494f381054335d2dfec3b0c10222adca4
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117802962"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370074"
 ---
 # <a name="mci_vcr_setaudio_parms-structure"></a>\_Структура пармс видеомагнитофона MCI \_ сетаудио \_
 
@@ -39,7 +39,7 @@ typedef struct tagMCI_VCR_SETAUDIO_PARMS {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -75,7 +75,7 @@ typedef struct tagMCI_VCR_SETAUDIO_PARMS {
 
 При назначении данных членам этой структуры установите соответствующие флаги в параметре *фдвкомманд* функции [**мЦисендкомманд**](/previous-versions//dd757160(v=vs.85)) , чтобы проверить элементы.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b81c581ad7e3913640271b32b18791ebf7b48ed09cd365af82ed263449f05471
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5073cf5eae44f564d24cd1ebb67193d8738fd77b
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118622603"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371475"
 ---
 # <a name="wm_cap_grab_frame_nostop-message"></a>\_Сообщение о \_ \_ \_ неостановкой кадра захвата WM Cap
 
@@ -54,7 +54,7 @@ lParam = 0L;
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

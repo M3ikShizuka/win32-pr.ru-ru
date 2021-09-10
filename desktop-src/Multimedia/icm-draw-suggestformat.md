@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 843dd2d398f5be6476a148922f3244113e94ab3fe3c10bac9ee08caefb8c4828
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c97c8782b16336427b3832f36b5a06987399df1b
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119495954"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370575"
 ---
 # <a name="icm_draw_suggestformat-message"></a>\_Сообщение ICM Draw \_ сугжестформат
 
@@ -62,7 +62,7 @@ lParam = sizeof(ICDRAWSUGGEST);
 
 При необходимости драйвер может использовать установщик, который можно установить, переданный в члене **Хикдекомпрессор** [**икдравсугжест**](/windows/desktop/api/Vfw/ns-vfw-icdrawsuggest) , чтобы сделать более сложными выборки. Например, если входной формат имеет 24 бита данных в формате JPEG, модуль подготовки отчетов может запросить декомпрессор, чтобы выяснить, может ли он распаковать его в формат YUV (который может быть более эффективным), прежде чем выбирать нужный формат.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

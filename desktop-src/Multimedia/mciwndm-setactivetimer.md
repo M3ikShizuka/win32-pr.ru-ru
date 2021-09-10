@@ -3,7 +3,7 @@ title: Сообщение MCIWNDM_SETACTIVETIMER (VFW. h)
 description: Сообщение МЦИВНДМ \_ сетактиветимер задает период обновления, используемый мЦивнд для обновления TrackBar в окне мЦивнд, обновления сведений о положении в строке заголовка окна и отправки сообщений уведомления родительскому окну, когда окно мЦивнд активно. Это сообщение можно отправить явно или с помощью макроса МЦивндсетактиветимер.
 ms.assetid: a30c0091-d9bb-44a3-a7b0-d1be30adcd9c
 keywords:
-- MCIWNDM_SETACTIVETIMER сообщения Windows мультимедиа
+- сообщение MCIWNDM_SETACTIVETIMER Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 1924a991f0627009a8e622c8f8be086b2e045635
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104136587"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370740"
 ---
 # <a name="mciwndm_setactivetimer-message"></a>\_Сообщение мЦивндм сетактиветимер
 
@@ -61,7 +61,7 @@ lParam = 0L;
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

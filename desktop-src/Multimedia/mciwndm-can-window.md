@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 26db92a07437f10295c2670e035950be5a56813aa6bb4c6252cfe35ef502f77c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d638b61093483b6e834b57af1d5c892d77d0f1d4
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120038154"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370611"
 ---
 # <a name="mciwndm_can_window-message"></a>МЦИВНДМ \_ может \_ пооконное сообщение
 
@@ -38,7 +38,7 @@ lParam = 0;
 
 Возвращает **значение true** , если устройство поддерживает команды MCI, ориентированные на окна, или **false** в противном случае.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

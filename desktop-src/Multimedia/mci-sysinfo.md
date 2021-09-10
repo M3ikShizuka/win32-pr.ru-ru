@@ -3,7 +3,7 @@ title: Команда MCI_SYSINFO (Ммсистем. h)
 description: Команда MCI \_ сисинфо извлекает сведения об устройствах MCI.
 ms.assetid: 605efd25-8849-42aa-99fd-b36b6fd2c7b7
 keywords:
-- MCI_SYSINFO команды мультимедиа Windows
+- команда MCI_SYSINFO Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: e722625449893771726a83738c3b0d7bc8bc523c
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103988764"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370176"
 ---
 # <a name="mci_sysinfo-command"></a>\_Команда MCI сисинфо
 
@@ -96,7 +96,7 @@ MCIERROR mciSendCommand(
 
 Возвращает нуль в случае успеха или ошибку в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Элемент **вдевицетипе** структуры, идентифицируемой *лпсисинфо* , используется для указания типа устройства запроса. Если для параметра *вдевицеид* задано значение MCI \_ All \_ Device \_ ID, то переопределение значения **вдевицетипе**. Список типов устройств см. в разделе [типы устройств MCI](mci-device-types.md).
 
@@ -112,11 +112,11 @@ MCIERROR mciSendCommand(
 |-------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                                |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                      |
-| Заголовок<br/>                   | <dl> <dt>Ммсистем. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>ммсистем. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

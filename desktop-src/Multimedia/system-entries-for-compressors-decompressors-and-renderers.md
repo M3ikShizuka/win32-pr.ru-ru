@@ -7,12 +7,12 @@ keywords:
 - VFW (видео для Windows), системные записи программы сжатия
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d0afa453603eacffe0db1b3a904709a096e638dc284aa64aa388968a0e555c33
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b46d9c6fd8974511698bcb687c580e68be3757ee
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119892564"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372471"
 ---
 # <a name="system-entries-for-compressors-decompressors-and-renderers"></a>Системные записи для сжатия, декомпрессоров и модулей подготовки отчетов
 

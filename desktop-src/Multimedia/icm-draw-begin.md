@@ -3,7 +3,7 @@ title: Сообщение ICM_DRAW_BEGIN (VFW. h)
 description: '\_ \_ Сообщение о начале ICM Draw уведомляет драйвер подготовки, чтобы подготовиться к прорисовке данных.'
 ms.assetid: e5ecd7dd-376b-422c-bbb8-4e7c41e3cac8
 keywords:
-- ICM_DRAW_BEGIN сообщения Windows мультимедиа
+- сообщение ICM_DRAW_BEGIN Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: db7b9e20a0b0621038e1c7e092a871a6727566cf
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103989158"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370518"
 ---
 # <a name="icm_draw_begin-message"></a>\_Сообщение начала прорисовки ICM \_
 
@@ -67,7 +67,7 @@ lParam = sizeof(ICDRAW);
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если требуется, чтобы драйвер распаковать данные в буфер, отправьте сообщение [**\_ \_ Begin распаковки**](icm-decompress-begin.md) .
 
@@ -85,7 +85,7 @@ lParam = sizeof(ICDRAW);
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

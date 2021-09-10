@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7bd45269cd74d15d2326bf4c6528d5778ef7a5a35e40dfd2a74134afafdbcb8a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f207737d4eb93e280355d0e5041b6e7bfc1b3048
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117803475"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369966"
 ---
 # <a name="mci_play_parms-structure"></a>\_Структура MCI Play \_ пармс
 
@@ -38,7 +38,7 @@ typedef struct {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -79,7 +79,7 @@ typedef struct {
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

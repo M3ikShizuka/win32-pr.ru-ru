@@ -4,12 +4,12 @@ description: Олицетворение — это способность пот
 ms.assetid: b33ca3b0-0423-4338-b3d6-4bb3db3d3e1b
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 67654c3a894a985f5f3da7c25e2c2a2f095787fa659233d450165ccbdd5217c4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a735fa12e175ecec5dc2a7ed741843d713532e19
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117919246"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369549"
 ---
 # <a name="impersonation"></a>Олицетворение
 
@@ -23,7 +23,7 @@ ms.locfileid: "117919246"
 
 Для получения маркера основного маркера процесса можно использовать функцию [**OpenProcessToken**](/windows/desktop/api/processthreadsapi/nf-processthreadsapi-openprocesstoken) . Используйте функцию [**опенсреадтокен**](/windows/desktop/api/processthreadsapi/nf-processthreadsapi-openthreadtoken) , чтобы получить маркер для маркера олицетворения потока.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

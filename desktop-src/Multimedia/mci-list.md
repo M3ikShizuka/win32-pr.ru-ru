@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f9bd3aa35875791d6fa916d9d6831bdcb83a6db43be6e5859ce582243606f666
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 15d5a616085028132c83fd71c46f7d409bf48a14
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118138640"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370032"
 ---
 # <a name="mci_list-command"></a>\_Команда MCI List
 
@@ -210,7 +210,7 @@ MCIERROR mciSendCommand(
 
 Для устройств ВИДЕОМАГНИТОФОНА *лплист* указывает на структуру пармс в виде [**\_ \_ списка \_ видеомагнитофонов MCI**](mci-vcr-list-parms.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

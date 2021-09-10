@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b748aec6cf686ecf47baf8deae621514e620971f5e1da667f8e4f0aae708ab80
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5c2977bb079351824b48da21f4ba3cc2dc5afe7e
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118137725"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370650"
 ---
 # <a name="mciwndm_geterror-message"></a>\_Сообщение об ошибке мЦивндм
 
@@ -60,7 +60,7 @@ lParam = (LPARAM) (LPVOID) lp;
 
 Если *LP* является допустимым указателем, в его буфере возвращается строка, завершающаяся нулем, соответствующая ошибке. Если строка ошибки длиннее, чем буфер, МЦивнд усекает ее.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

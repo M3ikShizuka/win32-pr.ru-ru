@@ -9,12 +9,12 @@ keywords:
 - Команды воспроизведения MCI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 064f62e913c33bef0582efaa950ee376e31a5b06a54d0e70674192e31a679a9c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 465bcf7a7b6b5811de8413a1c89f7befcf81037f
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118139487"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370833"
 ---
 # <a name="limiting-the-playback-scope"></a>Ограничение области воспроизведения
 

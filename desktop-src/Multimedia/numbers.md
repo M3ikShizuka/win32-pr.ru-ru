@@ -16,12 +16,12 @@ keywords:
 - элемент управления без знака
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 21c9e1bacdea3f52129d78eea2f0bc7134df08b7077c83510bd8de824777e524
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f02c4ffd40f1058fae51af3798135840394be918
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119806624"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124372138"
 ---
 # <a name="numbers-windows-multimedia"></a>числа (Windows мультимедиа)
 
@@ -29,7 +29,7 @@ ms.locfileid: "119806624"
 
 
 
-| Элемент  | Описание                                                                                                                         |
+| Control  | Описание                                                                                                                         |
 |----------|-------------------------------------------------------------------------------------------------------------------------------------|
 | Со знаком   | Позволяет указать целочисленные значения в диапазоне от – 231 до (231 – 1).                                                               |
 | Без знака | Позволяет указать целочисленные значения в диапазоне от 0 до (232 – 1).                                                                   |

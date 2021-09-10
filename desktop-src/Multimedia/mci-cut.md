@@ -3,7 +3,7 @@ title: Команда MCI_CUT (Ммсистем. h)
 description: Команда MCI \_ Cut удаляет данные из файла и копирует их в буфер обмена. Устройство Digital-Video распознает эту команду.
 ms.assetid: 09bb505b-715a-4393-80f0-e9ba270a8ac1
 keywords:
-- MCI_CUT команды мультимедиа Windows
+- команда MCI_CUT Windows мультимедиа
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: c564451596f115daca8514785449abf001e224ef
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103988965"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369984"
 ---
 # <a name="mci_cut-command"></a>\_Команда MCI Cut
 
@@ -68,7 +68,7 @@ MCIERROR mciSendCommand(
 
 Возвращает нуль в случае успеха или ошибку в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Следующие дополнительные флаги применяются к устройствам цифрового видео:
 
@@ -117,11 +117,11 @@ MCIERROR mciSendCommand(
 |-------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                                |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                      |
-| Заголовок<br/>                   | <dl> <dt>Ммсистем. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>ммсистем. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 

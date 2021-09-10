@@ -4,12 +4,12 @@ description: Регистрация серверов COM
 ms.assetid: aaa09a1b-deb8-424f-a911-ae22d39919d3
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b0a26db770585afddb07630aecb60e1ae3f86d8ddb6ff112e36993454e9f4f82
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: eefaa47d159d776a3c931ca48de0dd3161c29913
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118104835"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124369442"
 ---
 # <a name="registering-com-servers"></a>Регистрация серверов COM
 
@@ -25,7 +25,7 @@ ms.locfileid: "118104835"
 -   [Самостоятельная регистрация](self-registration.md)
 -   [Установка в качестве приложения службы](installing-as-a-service-application.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

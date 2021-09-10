@@ -10,12 +10,12 @@ keywords:
 - Справочник по устанавливаемым драйверам, сообщениям
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 133905e79e8cef7097ea348b31af63b3bf40887cfca27da0e17bd1d39a7cd92d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c016992002bafeddfeacf381f4a604b7bd55476a
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117986908"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124370446"
 ---
 # <a name="installable-driver-messages"></a>Устанавливаемые сообщения драйверов
 
@@ -34,7 +34,7 @@ ms.locfileid: "117986908"
 -   [**DRV \_ куериконфигуре**](drv-queryconfigure.md)
 -   [**\_Удаление DRV**](drv-remove.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

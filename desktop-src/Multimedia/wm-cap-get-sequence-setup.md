@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 55122a98846f23c609eb371ab5698198729c39e967d7953295850b61764459af
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a5cd1585b165581f9c9646741b92c5dc841472ae
+ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118369542"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "124371448"
 ---
 # <a name="wm_cap_get_sequence_setup-message"></a>\_Сообщение о \_ \_ настройке получения последовательностей WM Cap \_
 
@@ -72,7 +72,7 @@ lParam = (LPARAM) (LPVOID) (LPCAPTUREPARMS) (s);
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 <dl> <dt>
 
