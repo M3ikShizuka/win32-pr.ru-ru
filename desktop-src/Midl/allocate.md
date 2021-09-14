@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 9ff902e34e07ebd34edcb73797baa131eec8b222
-ms.sourcegitcommit: 57758ecb246c84d65e6e0e4bd5570d9176fa39cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "103889507"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144049"
 ---
 # <a name="allocate-attribute"></a>выделить атрибут
 
@@ -52,7 +52,7 @@ typedef [allocate (allocate-option-list) [, type-attribute-list] ] type-name;
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Атрибут **\[ выделения \]** имеет следующие допустимые параметры.
 
@@ -67,7 +67,7 @@ typedef [allocate (allocate-option-list) [, type-attribute-list] ] type-name;
 
 
 
- 
+ 
 
 По умолчанию заглушки могут выделять хранилище для данных, на которые ссылается уникальный или полный указатель, путем вызова метода [**\_ пользовательского \_ выделения MIDL**](midl-user-allocate-1.md) и [**\_ \_ бесплатного пользователя MIDL**](midl-user-free-1.md) по отдельности для каждого указателя.
 
@@ -118,9 +118,9 @@ typedef [allocate(dont_free)] PTYPE3;
 [**определение**](typedef.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

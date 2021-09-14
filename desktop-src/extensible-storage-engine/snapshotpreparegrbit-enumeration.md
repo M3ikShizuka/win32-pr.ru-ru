@@ -30,12 +30,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 6a4eb56cd1c4ac9b38e4b7d372933497dea86f1486f93c55b2db32247ed291f6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 32c11c609f78cc96862f9c2f15d93266f40ae941
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118071264"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269619"
 ---
 # <a name="snapshotpreparegrbit-enumeration"></a>Перечисление Снапшотпрепарегрбит
 
@@ -61,7 +61,7 @@ Dim instance As SnapshotPrepareGrbit
 public enum SnapshotPrepareGrbit
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <table>
 <thead>
@@ -91,7 +91,7 @@ public enum SnapshotPrepareGrbit
 </table>
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 47ea9af3bfac85ff375f6d5433b4e9f3ed37d8f7
-ms.sourcegitcommit: 57758ecb246c84d65e6e0e4bd5570d9176fa39cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "103986925"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143686"
 ---
 # <a name="long-attribute"></a>Long, атрибут
 
@@ -38,7 +38,7 @@ ms.locfileid: "103986925"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Ключевому слову **Long** может предшествовать либо ключевое слово signed [**, либо**](signed.md) ключевое слово [**без знака**](unsigned.md). Ключевое слово [**int**](int.md) является необязательным и может быть опущено. В компиляторе MIDL длинное целое подписывается по умолчанию и является синонимом длинного целочисленного типа **со знаком**. На 32-разрядных платформах **Long** является синонимом **int**.
 
@@ -54,13 +54,13 @@ ms.locfileid: "103986925"
 [Базовые типы MIDL](midl-base-types.md)
 </dt> <dt>
 
-[**Hyper**](hyper.md)
+[**hyper**](hyper.md)
 </dt> <dt>
 
-[**INT**](int.md)
+[**int**](int.md)
 </dt> <dt>
 
-[**short**](short.md)
+[**промежуток**](short.md)
 </dt> <dt>
 
 [**входил**](signed.md)
@@ -75,9 +75,9 @@ ms.locfileid: "103986925"
 [**без знака**](unsigned.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

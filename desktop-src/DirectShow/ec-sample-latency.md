@@ -4,12 +4,12 @@ ms.assetid: 8bd202fb-3015-41a2-ad14-862f64cb252f
 title: EC_SAMPLE_LATENCY (DShow. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 612c553916dc19685224bb512f6627363dba439883553d82c59f153324f5eda7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ee90d42e6464eccc4bc93b1052e29392b74bb2d7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119686154"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147698"
 ---
 # <a name="ec_sample_latency"></a>\_пример \_ задержки для EC
 
@@ -43,7 +43,7 @@ ms.locfileid: "119686154"
 
 Самый простой способ вычислить *lParam1* : *QPC Now*   *QPC Target*, где *QPC Now* — это время, а *QPC целевой объект* — время презентации.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -53,7 +53,7 @@ ms.locfileid: "119686154"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

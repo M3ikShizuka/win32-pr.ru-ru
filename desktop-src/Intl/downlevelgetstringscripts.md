@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Idndl.dll
-ms.openlocfilehash: 23eca82d97ac1da2d0f179c6e670ed032a57410490dcc5a52cf3005d75d65b2e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: bc5a9fdaf3beb9e1c401943f923fa48bd9d4b44c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120041624"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127274696"
 ---
 # <a name="downlevelgetstringscripts-function"></a>Функция Довнлевелжетстрингскриптс
 
@@ -131,7 +131,7 @@ int DownlevelGetStringScripts(
 
 *лпскриптс*
 
-Сценарии
+Scripts
 
 Microsoft.com
 
@@ -211,7 +211,7 @@ ZZZZ
 
 Требуемый заголовочный файл и библиотека DLL являются частью скачивания веб- [API для Межязыкового доменного имени Майкрософт (IDN)](https://www.microsoft.com/downloads/details.aspx?FamilyID=AD6158D7-DDBA-416A-9109-07607425A815&displaylang=en%0A) , доступного в [центре загрузки MSDN](https://www.microsoft.com/?ref=go).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -225,7 +225,7 @@ ZZZZ
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: afc3bcc1044d3d14b7ebf77ce12027fb3b772185f62b917fce7b74fbb3fa7e87
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 72193e89f415aabebfea4288fcdb986ccf8d73bd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119689334"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147969"
 ---
 # <a name="cameventoperator-handle-method"></a>Камевент. operator HANDLE, метод
 
@@ -44,7 +44,7 @@ ms.locfileid: "119689334"
 
 Возвращает переменную члена [**камевент:: m \_ Хевент**](camevent-m-hevent.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ ms.locfileid: "119689334"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

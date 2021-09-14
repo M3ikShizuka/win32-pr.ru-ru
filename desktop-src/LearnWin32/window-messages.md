@@ -4,12 +4,12 @@ description: сообщения окна (Начало работы с Win32 и 
 ms.assetid: 90c20456-44ed-4f0f-a6d3-b6c5660f0bc7
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d0e3655ddbd053cf9f84b4298518c4616679e83fe1eb48fb60011e865ca8a605
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c00da564396e0f95947e33fb7d8db8b217ac5cdf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118387517"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144518"
 ---
 # <a name="window-messages-get-started-with-win32-and-c"></a>сообщения окна (Начало работы с Win32 и C++)
 
@@ -112,6 +112,6 @@ while (GetMessage(&msg, NULL, 0, 0) > 0)
 
 В настоящее отличие это не очень важно. Оконная процедура обрабатывает все сообщения. Однако некоторые сообщения обходят очередь и пройдут непосредственно в оконную процедуру. Однако это может повлиять на взаимодействие приложения между Windows. Более подробное описание этой проблемы см. в разделе [сообщения и очереди сообщений](/windows/desktop/winmsg/about-messages-and-message-queues).
 
-## <a name="next"></a>Следующая
+## <a name="next"></a>Следующий
 
 [Написание процедуры окна](writing-the-window-procedure.md)

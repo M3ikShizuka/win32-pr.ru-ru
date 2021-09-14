@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: e44d13bfc726830a8c3fb770b34d5563fde2684f5c8bdf3fea54dec2312af4d3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d43f17ef765feb5899c7dd4537a1770155b4aa59
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119982864"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264056"
 ---
 # <a name="ps_3_0-instructions"></a>\_ \_ инструкции по PS 3 0
 
@@ -33,7 +33,7 @@ ms.locfileid: "119982864"
 
 
 
-| Имя                                                             | Описание                                                                          | Слоты инструкций | Настройка | Арифметический | Текстура | Управление потоком | Оператор new |
+| Имя                                                             | Описание                                                                          | Слоты инструкций | Настройка | Арифметический | Текстура | Управление потоком | Создать |
 |------------------------------------------------------------------|--------------------------------------------------------------------------------------|-------------------|-------|------------|---------|--------------|-----|
 | [ABS-PS](abs---ps.md)                                         | Абсолютное значение                                                                       | 1                 |       | x          |         |              |     |
 | [Add-PS](add---ps.md)                                         | Добавление двух векторов                                                                      | 1                 |       | x          |         |              |     |
@@ -75,13 +75,13 @@ ms.locfileid: "119982864"
 | [m4x4-PS](m4x4---ps.md)                                       | 4x4 умножение                                                                         | 4                 |       | x          |         |              |     |
 | [Mad-PS](mad---ps.md)                                         | Умножение и добавление                                                                     | 1                 |       | x          |         |              |     |
 | [Max-PS](max---ps.md)                                         | Максимум                                                                              | 1                 |       | x          |         |              |     |
-| [min-PS](min---ps.md)                                         | Минимум                                                                              | 1                 |       | x          |         |              |     |
+| [min-PS](min---ps.md)                                         | Минимальные                                                                              | 1                 |       | x          |         |              |     |
 | [MOV-PS](mov---ps.md)                                         | Переместить                                                                                 | 1                 |       | x          |         |              |     |
 | [mul-PS](mul---ps.md)                                         | Multiply                                                                             | 1                 |       | x          |         |              |     |
 | [NOP-PS](nop---ps.md)                                         | Нет операций                                                                         | 1                 |       | x          |         |              |     |
 | [НРМ-PS](nrm---ps.md)                                         | Normalize                                                                            | 3                 |       | x          |         |              |     |
 | [Pow-PS](pow---ps.md)                                         | x<sup>y</sup>                                                                        | 3                 |       | x          |         |              |     |
-| [PS](ps---ps.md)                                                | Версия                                                                              | 0                 | x     |            |         |              |     |
+| [ps](ps---ps.md)                                                | Версия                                                                              | 0                 | x     |            |         |              |     |
 | [rcp-PS](rcp---ps.md)                                         | Участвующ                                                                           | 1                 |       | x          |         |              |     |
 | [Представитель-PS](rep---ps.md)                                         | Repeat                                                                               | 3                 |       |            |         | x            |     |
 | [RET-PS](ret---ps.md)                                         | Конец подпрограммы                                                                  | 1                 |       |            |         | x            |     |

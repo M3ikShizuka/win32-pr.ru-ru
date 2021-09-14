@@ -15,12 +15,12 @@ keywords:
 - интерфейсы, Испреадшититемпровидер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 58d5feaa32b5fe79635c6acc01e1e0b18b9ba77c382ba3f07c64f7cb3e921b06
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 88ba050c5a5c8b10c68695fdf1a05d845353e638
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118324374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058432"
 ---
 # <a name="spreadsheetitem-control-pattern"></a>Шаблон элемента управления Спреадшититем
 
@@ -49,7 +49,7 @@ ms.locfileid: "118324374"
 
 | Обязательные члены                                                                         | Тип члена | Примечания                                                                                                                                                                                                                                                                                  |
 |------------------------------------------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**Формула**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-ispreadsheetitemprovider-get_formula)                           | Свойство    | Реализовать отдельное свойство [**формулы**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-ispreadsheetitemprovider-get_formula) необходимо потому, что свойство [value](value-property.md) ячейки обычно возвращает вычисленное значение ячейки. Если формула не задана, свойство **формулы** должно иметь **значение NULL** . |
+| [**Формула**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-ispreadsheetitemprovider-get_formula)                           | Свойство.    | Реализовать отдельное свойство [**формулы**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-ispreadsheetitemprovider-get_formula) необходимо потому, что свойство [value](value-property.md) ячейки обычно возвращает вычисленное значение ячейки. Если формула не задана, свойство **формулы** должно иметь **значение NULL** . |
 | [**жетаннотатионобжектс**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-ispreadsheetitemprovider-getannotationobjects) | Метод      | Возвращает массив поставщиков элементов, которые ссылаются на заметки, связанные с этой ячейкой. Указатели в массиве могут иметь значение null, если в заметке отсутствует связанный поставщик.                                                                                                       |
 | [**жетаннотатионтипес**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-ispreadsheetitemprovider-getannotationtypes)     | Метод      | Возвращает массив идентификаторов типа аннотации, описывающих заметки в этой ячейке. Размер массива должен совпадать с размером массива, возвращаемого функцией [**жетаннотатионобжектс**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-ispreadsheetitemprovider-getannotationobjects).                                         |
 
@@ -63,7 +63,7 @@ ms.locfileid: "118324374"
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Типы элементов управления и поддерживаемые ими шаблоны элементов управления](uiauto-controlpatternmapping.md)

@@ -4,12 +4,12 @@ ms.assetid: ab2695ed-4ef3-4687-81b0-416ca7086e5f
 title: Запрос индекса с помощью протокола Search-MS
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: caf3431fabdc99eff94359563ec486fc174c03eb8cbe530fda14c1e120074f1e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c0d835b6db1c9b05b97d5d075b62158069d89029
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117681102"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127262584"
 ---
 # <a name="querying-the-index-with-the-search-ms-protocol"></a>Запрос индекса с помощью протокола Search-MS
 

@@ -29,11 +29,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 2aaceef2e4c72d88e2fbafb40012bb3d7b9a7a2c
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122882858"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145358"
 ---
 # <a name="cim_softwareelementversioncheck-class"></a>\_Класс CIM софтварилементверсиончекк
 
@@ -69,7 +69,7 @@ class CIM_SoftwareElementVersionCheck : CIM_Check
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ софтварилементверсиончекк** имеет следующие типы членов:
 
@@ -90,7 +90,7 @@ class CIM_SoftwareElementVersionCheck : CIM_Check
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **CIM \_ софтварилементверсиончекк** имеет следующие свойства.
 
@@ -1422,7 +1422,7 @@ Mac OS 9
 
 </dd> <dt>
 
-**Version**
+**Версия**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1445,7 +1445,7 @@ Mac OS 9
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Инструментарий WMI не реализует этот класс.
 

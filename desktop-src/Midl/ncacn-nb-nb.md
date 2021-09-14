@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 84a2ea48bc1472d69c2247f227b94193326927481838894e24efbce9e09afc87
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c562bb0acd546fd2c8f92a92074e599c8a505dc9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118642158"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143609"
 ---
 # <a name="ncacn_nb_nb-attribute"></a>\_ \_ атрибут NetBIOS нкакн
 

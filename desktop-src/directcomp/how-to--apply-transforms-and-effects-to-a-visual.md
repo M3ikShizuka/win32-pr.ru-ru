@@ -10,12 +10,12 @@ keywords:
 - Непрозрачность DirectComposition
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f85a3a06fa0650e43f8f1a1be299021cafd233cc59937359dc78bc7b6d25bbb7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 728496309f62aaa0027ca3751a6681384fb83c95
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118088818"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263811"
 ---
 # <a name="how-to-apply-effects"></a>Как применять эффекты
 
@@ -38,7 +38,7 @@ ms.locfileid: "118088818"
 -   Microsoft Win32
 -   Модель COM
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="step-1-initialize-directcomposition-objects"></a>Шаг 1. Инициализация объектов DirectComposition
 

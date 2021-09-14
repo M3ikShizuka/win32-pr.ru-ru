@@ -4,12 +4,12 @@ description: Windows позволяет приложениям задавать 
 ms.assetid: 9e53e28c-e0e5-438d-b624-27d7bd65e4a3
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9fe854b210e6b07f0777a492d5c952f502e2f7c2b6c1c4b40497bad3a9e8248a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0f24d4351f10a3b37f2bf63c952e81883d97b781
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119001816"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066861"
 ---
 # <a name="implementing-firewall-filters-for-teredo"></a>Реализация фильтров брандмауэра для Teredo
 

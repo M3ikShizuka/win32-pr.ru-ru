@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6b8c407bef0a9e610d21e7221eb9a06560f33300f4f1f388fa699ca9dfb18531
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c0aaab8d399c99e02b5393ee9f5258da53aea491
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118641957"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143521"
 ---
 # <a name="pipe-attribute"></a>атрибут pipe
 
@@ -93,7 +93,7 @@ typedef pipe SIMPLE_STRUCT SIMPLE_STRUCT_PIPE;
 [**шифровать**](encode.md)
 </dt> <dt>
 
-[**enum**](enum.md)
+[**перечисления**](enum.md)
 </dt> <dt>
 
 [**idempotent**](idempotent.md)
@@ -102,7 +102,7 @@ typedef pipe SIMPLE_STRUCT SIMPLE_STRUCT_PIPE;
 [**окне**](in.md)
 </dt> <dt>
 
-[**объектами**](object.md)
+[**object**](object.md)
 </dt> <dt>
 
 [**заполняет**](out-idl.md)

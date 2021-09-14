@@ -4,12 +4,12 @@ ms.assetid: e31174f6-1c2b-4d97-b6b6-e54825ff47f5
 title: О примерах и средствах
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b5eecd388323ae8a548fcfefbc116224125b4b137f85231c56ea66235b3233fc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6126ec5e07829cfd17c2b07313bb104140c6fee6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118890327"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067022"
 ---
 # <a name="about-the-samples-and-tools"></a>О примерах и средствах
 

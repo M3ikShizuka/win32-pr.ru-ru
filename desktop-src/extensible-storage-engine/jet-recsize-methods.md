@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.vist
 ms:contentKeyID: 39514154
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 3108fdb6fbc1965c60abb2af710453c009a1eafb95afa74f1268f1437ceb837d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8923abab88710c519bc6500d1794a6748093a62c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119107507"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065961"
 ---
 # <a name="jet_recsize-methods"></a>Методы JET_RECSIZE
 
@@ -34,7 +34,7 @@ ms.locfileid: "119107507"
 <tbody>
 <tr class="odd">
 <td><img src="../images/dn292146.pubmethod(exchg.10).gif" title="Открытый метод" alt="Public method" /><img src="../images/dn292146.static(exchg.10).gif" title="Статический член" alt="Static member" /></td>
-<td><a href="hh538879(v=exchg.10).md">Добавить</a></td>
+<td><a href="hh538879(v=exchg.10).md">Добавление</a></td>
 <td>Добавьте размеры в две структуры JET_RECSIZE.</td>
 </tr>
 <tr class="even">

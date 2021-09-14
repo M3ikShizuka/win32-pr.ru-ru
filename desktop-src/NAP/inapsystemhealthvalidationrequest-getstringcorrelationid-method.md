@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5818ebd219dd38633da92a269e63d5641f393371cfa67b6910844523c37929ee
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 554a5a31f0aa46f6bcbd7a750662d47ab2c78040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118939365"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147238"
 ---
 # <a name="inapsystemhealthvalidationrequestgetstringcorrelationid-method"></a>Метод Инапсистемхеалсвалидатионрекуест:: Жетстрингкоррелатионид
 
@@ -84,7 +84,7 @@ HRESULT GetStringCorrelationId(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

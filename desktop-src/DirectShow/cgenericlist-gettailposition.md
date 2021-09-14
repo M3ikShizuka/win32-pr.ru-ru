@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 90b84369688c065445f7d8a127219e707a20867776d1c5949b2927dd22e24868
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 66fc4e396fab558c79fb7333263442fac146e105
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120076274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058058"
 ---
 # <a name="cgenericlistgettailposition-method"></a>Кженериклист. Жеттаилпоситион, метод
 
@@ -44,7 +44,7 @@ POSITION GetTailPosition();
 
 Возвращает значение расположения или **значение NULL** , если список пуст.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ POSITION GetTailPosition();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

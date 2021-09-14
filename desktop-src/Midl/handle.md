@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: aacdb3611a12873a6e828c33606bb9c970747555c285f8612be2b43bc3f51adf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1d4560de53bf3f24238e9ff96e01c74716729749
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119895294"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143809"
 ---
 # <a name="handle-attribute"></a>атрибут Handle
 
@@ -67,7 +67,7 @@ handle_t __RPC_USER h_service_bind(h_service);
 void __RPC_USER h_service_unbind(h_service, handle_t);
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

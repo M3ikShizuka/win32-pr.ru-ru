@@ -4,12 +4,12 @@ ms.assetid: 58db9451-d152-439b-b7cf-39ddea84bcc9
 title: Целочисленный атрибут элемента управления
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b9311e0a665a8bb71c0cf672a7ca9b71ca0638c678eb5913cab51437f408a378
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6310f6348a533874ce4dc176043a489b595c28b8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119996504"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065482"
 ---
 # <a name="integer-control-attribute"></a>Целочисленный атрибут элемента управления
 

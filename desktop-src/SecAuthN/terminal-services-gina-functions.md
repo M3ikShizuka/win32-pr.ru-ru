@@ -4,12 +4,12 @@ ms.assetid: 70b55b99-b350-4638-84ba-e5580d9d992f
 title: Функции GINA служб терминалов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f0bdd81d66d88ae280c14d71d7d65385c0d5580b3e28cef9d0f26ed1963bded1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 19452fb73f00ef4ace0dd85083578334b6fb1038
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118916396"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146577"
 ---
 # <a name="terminal-services-gina-functions"></a>Функции GINA служб терминалов
 

@@ -4,12 +4,12 @@ ms.assetid: bd2dd544-eb1d-4b6c-862b-952c8edc7593
 title: SEQUENCE, свойство
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a6c938fe556bb8dfd0ff4c1a9c732f68ea28d93e7d01617e1e0bbba582d0bcc3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 55ba3e95e5ca7008c5654ebeec5e307002eb8582
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120040064"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127260920"
 ---
 # <a name="sequence-property"></a>SEQUENCE, свойство
 
@@ -19,7 +19,7 @@ ms.locfileid: "120040064"
 
 Действие SEQUENCE выполняет действия в таблице в порядке, указанном в столбце Sequence таблицы.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -12,12 +12,12 @@ api_name:
 api_type:
 - UserDefined
 api_location: ''
-ms.openlocfilehash: b04d8a144373ae493a956e2166ea6dab34d844c71504f303766e8de7915b9a70
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5bc4c9426f6a085c72f2fc3d872de4d7da59156b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119004872"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127259448"
 ---
 # <a name="scesvcattachmentupdate-callback-function"></a>Функция обратного вызова Сцесвкаттачментупдате
 

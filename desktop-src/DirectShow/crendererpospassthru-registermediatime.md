@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 69688bb011fc8a75b0ec52effaef3afd7972fb7a198a4cdedf20c07a40c4fa7f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3c829690572d55ea700d51124b99370f23e755a4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120054384"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145050"
 ---
 # <a name="crendererpospassthruregistermediatime-method-ctlutilh"></a>Крендерерпоспасссру. Регистермедиатиме, метод (Ктлутил. h)
 
@@ -70,7 +70,7 @@ HRESULT RegisterMediaTime(
 
 Фильтр должен вызывать этот метод для каждого получаемого примера. Метод перегружен, чтобы принять либо указатель на образец, либо сами значения меток времени.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

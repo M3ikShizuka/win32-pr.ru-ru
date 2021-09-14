@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ffd42e27be4768fc0817aa76bb366429e236b3a82c45d081a05485b8520a23a1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9d82d34a60ea736d10c8ec5ee8a001370c6b64c6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117807829"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144005"
 ---
 # <a name="byte_count-attribute"></a>\_атрибут числа байтов
 
@@ -91,7 +91,7 @@ HRESULT proc1([in] unsigned long length,
 proc1([byte_count(length)] pMyStruct);
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

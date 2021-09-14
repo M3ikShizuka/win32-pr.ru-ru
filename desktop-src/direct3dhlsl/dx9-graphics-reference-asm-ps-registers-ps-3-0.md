@@ -14,11 +14,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: e1cd0173beabc8fbe21ad15e88e23fc1b6e84892
-ms.sourcegitcommit: 5d4e99f4c8f42f5f543e52cb9beb9fb13ec56c5f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112405497"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263928"
 ---
 # <a name="ps_3_0-registers"></a>\_ \_ регистры PS 3 0
 
@@ -46,14 +46,14 @@ ms.locfileid: "112405497"
 
 
 
-| Зарегистрировать | Имя                                                                                      | Count | Чтение-запись | \# Чтение портов | \# Операций чтения и inst | Измерение | реладдр | Умолчания;   | Требуется ДКЛ |
+| Регистрация | Имя                                                                                      | Count | Чтение-запись | \# Чтение портов | \# Операций чтения и inst | Измерение | реладдр | Умолчания;   | Требуется ДКЛ |
 |----------|-------------------------------------------------------------------------------------------|-------|-----|---------------|---------------|-----------|---------|------------|--------------|
 | 3,3\#      | [Входной регистр](dx9-graphics-reference-asm-ps-registers-input-color.md)                 | 10    | R   | 1             | Неограниченно     | 4         | aL      | Нет       | Да          |
-| Cерверный\#      | [Временный регистр](dx9-graphics-reference-asm-ps-registers-temporary.md)               | 32    | Чтение-запись | 3             | Неограниченно     | 4         | нет      | None       | Нет           |
+| Cерверный\#      | [Временный регистр](dx9-graphics-reference-asm-ps-registers-temporary.md)               | 32    | Чтение-запись | 3             | Неограниченно     | 4         | нет      | Нет       | Нет           |
 | c\#      | [Регистр постоянного float](dx9-graphics-reference-asm-ps-registers-constant-float.md)     | 224   | R   | 1             | Неограниченно     | 4         | нет      | 0000       | Нет           |
 | сохранении\#      | [Постоянный целочисленный регистр](dx9-graphics-reference-asm-ps-registers-constant-integer.md) | 16    | R   | 1             | 1             | 4         | нет      | 0000       | Нет           |
 | b\#      | [Постоянный логический регистр](dx9-graphics-reference-asm-ps-registers-constant-boolean.md) | 16    | R   | 1             | 1             | 1         | Нет      | FALSE      | Нет           |
-| P0       | [Регистр предиката](dx9-graphics-reference-asm-ps-registers-predicate.md)               | 1     | R   | 1             | 1             | 1         | Нет      | None       | Нет           |
+| P0       | [Регистр предиката](dx9-graphics-reference-asm-ps-registers-predicate.md)               | 1     | R   | 1             | 1             | 1         | Нет      | Нет       | Нет           |
 | s\#      | [Образцы (Direct3D 9 ASM-PS)](dx9-graphics-reference-asm-ps-registers-sampler.md)        | 16    | R   | 1             | 1             | 4         | нет      | См. примечание 1 | Да          |
 | вфаце    | \_Регистрация лица                                                                            | 1     | R   | 1             | Неограниченно     | 1         | Нет      | None       | Да          |
 | впос     | \_Регистр позиций                                                                        | 1     | R   | 1             | Неограниченно     | 4         | нет      | None       | Да          |
@@ -73,10 +73,10 @@ ms.locfileid: "112405497"
 
 
 
-| Зарегистрировать | Имя                                                                              | Count                                                                             | Чтение-запись | Измерение | реладдр | Умолчания; | Требуется ДКЛ |
+| Регистрация | Имя                                                                              | Count                                                                             | Чтение-запись | Измерение | реладдр | Умолчания; | Требуется ДКЛ |
 |----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----|-----------|---------|----------|--------------|
 | даваемым #     | [Регистр цвета вывода](dx9-graphics-reference-asm-ps-registers-output-color.md) | См. раздел [текстуры с несколькими элементами (Direct3D 9)](/windows/desktop/direct3d9/multiple-element-textures) . | W   | 4         | нет      | None     | Нет           |
-| одепс   | [Регистр глубины выходных данных](dx9-graphics-reference-asm-ps-registers-output-depth.md) | 1                                                                                 | W   | 1         | Нет      | None     | Нет           |
+| одепс   | [Регистр глубины выходных данных](dx9-graphics-reference-asm-ps-registers-output-depth.md) | 1                                                                                 | W   | 1         | Нет      | Нет     | Нет           |
 
 
 

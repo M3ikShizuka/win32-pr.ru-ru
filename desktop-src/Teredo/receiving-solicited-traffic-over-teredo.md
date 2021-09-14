@@ -4,12 +4,12 @@ description: многие приложения, такие как microsoft Inte
 ms.assetid: bff5d65e-050d-4b09-9982-8024612ffa6e
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f003755f49d04113108f83c8d3eff67084364ad6dfcf8e9f40cf1bf7e142e0a2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 035d067afeb9c62795efb5acd0bb28adc3afcb16
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119001682"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066848"
 ---
 # <a name="receiving-solicited-traffic-over-teredo"></a>Получение запрошенного трафика через Teredo
 

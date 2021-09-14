@@ -25,11 +25,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 908f3e37b13d50c56923e566451730ffc9dd03cf
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122884095"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145401"
 ---
 # <a name="cim_createdirectoryaction-class"></a>\_Класс CIM креатедиректоряктион
 
@@ -61,7 +61,7 @@ class CIM_CreateDirectoryAction : CIM_DirectoryAction
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ креатедиректоряктион** имеет следующие типы членов:
 
@@ -82,7 +82,7 @@ class CIM_CreateDirectoryAction : CIM_DirectoryAction
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **CIM \_ креатедиректоряктион** имеет следующие свойства.
 
@@ -814,7 +814,7 @@ Mac OS 9
 
 </dd> <dt>
 
-**Version**
+**Версия**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -837,7 +837,7 @@ Mac OS 9
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **CIM \_ креатедиректоряктион** является производным от [**CIM \_ директоряктион**](cim-directoryaction.md).
 

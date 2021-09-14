@@ -10,12 +10,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: b0b7e7b1d1e79e64fb1eb83f17f3aa2d118a9eb53b23c19cbdfd624e2c501a84
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5bd1d329cd861fa45c99851707177322d0b9d12f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118992784"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058406"
 ---
 # <a name="monitoring-and-responding-to-events-with-standard-consumers"></a>Мониторинг событий и реагирование на них с помощью стандартных потребителей
 

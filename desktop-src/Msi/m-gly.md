@@ -5,12 +5,12 @@ ms.assetid: 34ee83c3-e790-4abb-9095-c85c7b12d75c
 title: M (установщик Windows)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4cdf8f33f81f45edf77aa94107df7b6d7f161c958f5275847dd438ebd14e1b6f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a25b7dd4ed2e29702959f264894a7d831a0ca0a2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118945589"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065390"
 ---
 # <a name="m-windows-installer"></a>M (установщик Windows)
 

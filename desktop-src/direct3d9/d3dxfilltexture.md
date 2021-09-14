@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 28df3b7396ea0c34c39a87d2285f565f25d6ff6dc89dcfb8613890e79c4c5cf7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 20790a9e4c1a9ce242a5e067dd617c7871a70b7c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119849774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066261"
 ---
 # <a name="d3dxfilltexture-function"></a>Функция D3DXFillTexture
 
@@ -98,7 +98,7 @@ if (FAILED (hr = D3DXFillTexture (m_pTexture, ColorFill, NULL)))
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -109,7 +109,7 @@ if (FAILED (hr = D3DXFillTexture (m_pTexture, ColorFill, NULL)))
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

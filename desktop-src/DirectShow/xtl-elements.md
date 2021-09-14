@@ -4,12 +4,12 @@ ms.assetid: d7131299-ad4c-4f0a-8898-d6f53abee521
 title: Элементы КСТЛ
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a22d5782f69d45438ad0bf1f30525e7f2d08a38653a90343ab14a151f1d4e4da
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4859520a728d1699cf2bd1b88939bb8ccec13958
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119964185"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127274928"
 ---
 # <a name="xtl-elements"></a>Элементы КСТЛ
 
@@ -29,11 +29,11 @@ ms.locfileid: "119964185"
 | [**составного**](composite-element.md)   | Определяет композицию.                                                         |
 | [**тень**](effect-element.md)         | Определяет действие.                                                             |
 | [**сгруппировать**](group-element.md)           | Определяет группу (аудио или видео).                                              |
-| [**линейной**](linear-element.md)         | Задает параметр на основе времени для элемента **param** .                        |
+| [**linear**](linear-element.md)         | Задает параметр на основе времени для элемента **param** .                        |
 | [**param**](param-element.md)           | Задает значение свойства для перехода, воздействия или другого подобъекта. |
 | [**графика**](timeline-element.md)     | Определяет временную шкалу.                                                          |
 | [**дорожк**](track-element.md)           | Определяет запись.                                                               |
-| [**Переход**](transition-element.md) | Определяет переход.                                                          |
+| [**режима**](transition-element.md) | Определяет переход.                                                          |
 
 
 

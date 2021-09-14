@@ -12,12 +12,12 @@ keywords:
 - страницы свойств
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fb80525fa4b32845608eebb32752871a038aa6e01088baeebce5bc5f8c84b4bb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 22d708d1256faf7096d15a7596a9635a33173d22
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117746742"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066699"
 ---
 # <a name="providing-a-user-interface"></a>Предоставление пользовательского интерфейса
 
@@ -33,7 +33,7 @@ ms.locfileid: "117746742"
 
 битовые изображения Microsoft Windows не сжаты.
 
-**Рисунок**
+**JPEG**
 
 Сжатый формат изображения, обычно используемый для веб-страниц. Файлы формата JPEG обычно имеют .jpg расширений имен файлов.
 

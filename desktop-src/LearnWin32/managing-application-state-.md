@@ -4,12 +4,12 @@ description: Оконная процедура — это просто функ�
 ms.assetid: 2f03961e-a886-4947-8f5d-62543c6b8815
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6b0cde27195ba0dfc16668da11beac243821902995a9d01daa337f8962944343
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e275833c30c612b5b40ab29d089d07ed7794b429
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119068072"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144609"
 ---
 # <a name="managing-application-state"></a>Управление состоянием приложения
 
@@ -327,7 +327,7 @@ LRESULT MainWindow::HandleMessage(UINT uMsg, WPARAM wParam, LPARAM lParam)
 
 многие из существующих Windows платформ программирования, таких как Microsoft Foundation Classes (MFC) и библиотека atl, используют подходы, похожие на показанные здесь. Конечно, полностью обобщенная платформа, такая как MFC, сложнее, чем этот сравнительно простой пример.
 
-## <a name="next"></a>Следующая
+## <a name="next"></a>Следующий
 
 [модуль 2. использование COM в программе Windows](module-2--using-com-in-your-windows-program.md)
 

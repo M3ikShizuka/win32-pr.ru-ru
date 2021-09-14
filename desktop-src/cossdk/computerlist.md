@@ -13,11 +13,11 @@ api_type:
 - COM
 api_location: ''
 ms.openlocfilehash: 379e5e07a86d06961de3f8f3936a260451bf43ae
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104496170"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145694"
 ---
 # <a name="computerlist-collection"></a>Коллекция Компутерлист
 
@@ -41,11 +41,11 @@ ms.locfileid: "104496170"
 
 -   [**Корневой**](root.md)
 
-## <a name="properties"></a>Свойства
+## <a name="properties"></a>Элемент Property
 
 Объект [**комадминкаталогобжект**](comadmincatalogobject.md) в коллекции поддерживает следующие свойства:
 
--   [Name](#name)
+-   [имя](#name);
 
 ### <a name="name"></a>Имя
 

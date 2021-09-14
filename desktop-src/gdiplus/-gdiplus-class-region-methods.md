@@ -4,23 +4,23 @@ ms.assetid: bbaa4027-94aa-497f-8efb-a82d251847af
 title: Методы регионов
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d83fd5cd279bc2e71a39c565d3fdfe615ce15d4e105b329ed56d73548e613334
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 060afdea5f625a1b5f8944a2c17ed1cf8b42f7ec
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118249114"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263512"
 ---
 # <a name="region-methods"></a>Методы регионов
 
 В этом разделе перечислены методы класса [**Region**](/windows/desktop/api/gdiplusheaders/nl-gdiplusheaders-region) . Полный список классов см. в разделе **Класс Region**.
 
--   [**Clone (Клонировать)**](/windows/desktop/api/Gdiplusheaders/nf-gdiplusheaders-region-clone)
+-   [**Клонировать**](/windows/desktop/api/Gdiplusheaders/nf-gdiplusheaders-region-clone)
 -   [**Дополнение (GraphicsPath \* )**](/windows/win32/api/gdiplusheaders/nf-gdiplusheaders-region-complement(inconstgraphicspath))
 -   [**Дополнение (регион \* )**](/windows/win32/api/gdiplusheaders/nf-gdiplusheaders-region-complement(inconstregion))
 -   [**Дополнение (& Rect)**](/previous-versions//ms534918(v=vs.85))
 -   [**Дополнение (Ректф&)**](/windows/win32/api/gdiplusheaders/nf-gdiplusheaders-region-complement(inconstrectf_))
--   [**Прошлом**](/windows/desktop/api/Gdiplusheaders/nf-gdiplusheaders-region-equals)
+-   [**Равно**](/windows/desktop/api/Gdiplusheaders/nf-gdiplusheaders-region-equals)
 -   [**Исключить (GraphicsPath \* )**](/windows/win32/api/gdiplusheaders/nf-gdiplusheaders-region-exclude(inconstgraphicspath))
 -   [**Исключить (Ректф&)**](/windows/win32/api/gdiplusheaders/nf-gdiplusheaders-region-exclude(inconstrectf_))
 -   [**Исключить (& Rect)**](/previous-versions//ms534825(v=vs.85))

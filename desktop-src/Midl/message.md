@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 964f8dfd8652547bdf5bef25d1abe9acde8189a2
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "104487632"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143669"
 ---
 # <a name="message-attribute"></a>атрибут сообщения
 
@@ -60,7 +60,7 @@ ms.locfileid: "104487632"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Как сообщения от клиента, удаленные вызовы процедур с атрибутом **\[ сообщения \]** доставляются на сервер асинхронно через транспорт очереди сообщений [**нкадг \_ MQ**](ncadg-mq.md) . Можно указать обмен сообщениями в синхронном режиме, указав транспортный протокол **нкадг \_ MQ** без использования атрибута **\[ \] Message** .
 
@@ -118,6 +118,6 @@ ms.locfileid: "104487632"
 [**void**](void.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

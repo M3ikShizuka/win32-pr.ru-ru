@@ -4,12 +4,12 @@ ms.assetid: d6217250-63ff-4dff-a357-ff4aaa764695
 title: Свойство Авенквидеоенкодедименсион (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6d99a0c14cbb3f67f7aa1c634a59c5f4cb9184dcd861bc8f14023c4afcebcefa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5f63d0a5c0d1c6af7c20620c315ad25c16eac528
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118159323"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127148253"
 ---
 # <a name="avencvideoencodedimension-property"></a>Авенквидеоенкодедименсион, свойство
 
@@ -39,7 +39,7 @@ ms.locfileid: "118159323"
 
 Для кодировщиков камер УВК 1,5 не поддерживается [авенквидеоенкодеоффсеторигин](avencvideoencodeoffsetorigin-property.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -51,7 +51,7 @@ ms.locfileid: "118159323"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ec627a083d5f5186a4ce8b6b25b0ebbc7bd56afd3e334e46dc4e4901dde34201
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a5a0f106f1be1ba6d0acabf877b5dbefab3eaff6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119927404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143437"
 ---
 # <a name="small-attribute"></a>маленький атрибут
 
@@ -46,7 +46,7 @@ small identifier-name;
 
 Знак **небольшого** типа можно изменить с помощью параметра компилятора MIDL [**/char**](-char.md). Чтобы избежать путаницы, укажите знак целочисленного типа с ключевыми словами " [**подписанные**](signed.md) " и " [**без знака**](unsigned.md)".
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -59,13 +59,13 @@ small identifier-name;
 [Файл определения интерфейса (IDL)](interface-definition-idl-file.md)
 </dt> <dt>
 
-[**INT**](int.md)
+[**int**](int.md)
 </dt> <dt>
 
-[**long**](long.md)
+[**поддерживаем**](long.md)
 </dt> <dt>
 
-[**short**](short.md)
+[**промежуток**](short.md)
 </dt> <dt>
 
 [**входил**](signed.md)

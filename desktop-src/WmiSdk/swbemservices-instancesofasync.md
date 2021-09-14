@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 0954f4518d81ea3763fbf4dab0e9e27fde68ab80042c0e192453ef0d5cf983ad
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c518cb38a0ecb221f4fcb0d0e7f9ce6dfc226ba9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117921416"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066516"
 ---
 # <a name="swbemservicesinstancesofasync-method"></a>SWbemServices. Инстанцесофасинк, метод
 
@@ -60,7 +60,7 @@ SWbemServices.InstancesOfAsync( _
 *стркласс* 
 </dt> <dd>
 
-Обязательный. Строка, содержащая имя класса для нужных экземпляров. Этот параметр не может быть пустым.
+Обязательный элемент. Строка, содержащая имя класса для нужных экземпляров. Этот параметр не может быть пустым.
 
 </dd> <dt>
 
@@ -209,7 +209,7 @@ SWbemServices.InstancesOfAsync( _
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

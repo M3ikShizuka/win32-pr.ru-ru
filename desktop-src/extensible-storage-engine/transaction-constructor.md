@@ -25,11 +25,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 1a8c3214ebe3d88ce8b50aff000d64270ec50a6f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104265711"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269611"
 ---
 # <a name="transaction-constructor"></a>Конструктор транзакций
 

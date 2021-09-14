@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 717d5234bd419fec7107a6d983ece026b4558935
-ms.sourcegitcommit: 57758ecb246c84d65e6e0e4bd5570d9176fa39cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "104411903"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144222"
 ---
 # <a name="app_config-switch"></a>\_параметр конфигурации/АПП
 
@@ -31,7 +31,7 @@ midl /app_config
 
 Этот параметр не имеет параметров.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Microsoft RPC поддерживает использование следующих атрибутов ACF в IDL-файле:
 
@@ -54,9 +54,9 @@ Microsoft RPC поддерживает использование следующ
 [Общий синтаксис командной строки MIDL](general-midl-command-line-syntax.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: c4552829482a604b368a6710c62d0fc0b26a94aa3bb33b67ef386f2785d6c90e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a0538229053b5d47ca1bdc8f30b38a0937e36cb5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120057514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058127"
 ---
 # <a name="cbaseallocatorgetfreecount-method"></a>Кбасеаллокатор. Жетфрикаунт, метод
 
@@ -57,7 +57,7 @@ HRESULT GetFreeCount(
 
 Этот метод реализует метод [**имемаллокаторкаллбакктемп:: жетфрикаунт**](/windows/desktop/api/Strmif/nf-strmif-imemallocatorcallbacktemp-getfreecount) . Распределитель не предоставляет интерфейс Имемаллокаторкаллбакктемп, если в конструкторе Кбасеаллокатор для флага *фенаблерелеасекаллбакк* не задано **значение true** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ HRESULT GetFreeCount(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: c88c35144cce5f71e87c51211e94b93a337639d545b64addec974c77909d8f81
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: faacc76eaa120467aa6cfb6c318aac0d9baec334
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119982664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261384"
 ---
 # <a name="idxtjpegput_bordercolor-method"></a>Идкстжпег::p \_ методу UT BorderColor
 

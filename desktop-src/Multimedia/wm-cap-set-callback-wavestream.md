@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: d36abc7848de082e033cfc25d4f15d90c86cf3b2
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124371496"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147338"
 ---
 # <a name="wm_cap_set_callback_wavestream-message"></a>\_Сообщение о \_ \_ вавестреам обратного вызова Set крепления WM \_
 
@@ -67,7 +67,7 @@ lParam = (LPARAM) (LPVOID) (fpProc);
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

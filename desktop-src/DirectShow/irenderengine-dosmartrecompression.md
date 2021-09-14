@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: e5b1d5ea00367ee29ec8f3165cd9115a00776fc7ccd2156bf83ab199fd6e3c25
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a3e13a51564b39ba2e954da38a5453e63c4036d2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120051434"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144953"
 ---
 # <a name="irenderenginedosmartrecompression-method"></a>Ирендеренгине: метод:D Осмартрекомпрессион
 

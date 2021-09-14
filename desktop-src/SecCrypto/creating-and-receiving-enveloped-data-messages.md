@@ -4,12 +4,12 @@ ms.assetid: caf86ec8-48b6-4017-95ad-7a21fcaed4cf
 title: Создание и получение сообщений с запечатанными данными
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a63abf31d582ae9ae184dc15d85d827a3741d317e3bad75c8b07cce25e457bc6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 81d973ded4656966d1b61ac0ae9779acf35eb578
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117768909"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127259536"
 ---
 # <a name="creating-and-receiving-enveloped-data-messages"></a>Создание и получение сообщений с запечатанными данными
 

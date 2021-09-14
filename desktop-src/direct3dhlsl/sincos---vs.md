@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: ca70a319852346c6e75ba544489d033a861d4c3b
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "104000244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263904"
 ---
 # <a name="sincos---vs"></a>синкос — VS
 
@@ -55,7 +55,7 @@ ms.locfileid: "104000244"
 -   DST — это регистр назначения, который должен быть [временным регистром](dx9-graphics-reference-asm-vs-registers-temporary.md) (r \# ). Регистр назначения должен иметь ровно одну из трех масок:. x \| . y \| . XY.
 -   src0 — это исходный регистр, который предоставляет угол ввода, который должен быть в пределах \[ -Pi, + PI \] . {x \| y \| z \| w} — это требуемая репликация свиззле.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 
 
@@ -151,7 +151,7 @@ mad r0.x, r0.x, c0.z, -c0.x
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

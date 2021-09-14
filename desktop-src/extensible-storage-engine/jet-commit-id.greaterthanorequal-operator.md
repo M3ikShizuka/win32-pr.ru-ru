@@ -25,12 +25,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 54c9500c34f095fcb8da65ea85712a7610c166444b70f7e80fb81af9633bf179
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3e531168d2c0656c465d8eace46d00181375bc4c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119968324"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058202"
 ---
 # <a name="jet_commit_idgreaterthanorequal-operator"></a>JET_COMMIT_ID. GreaterThanOrEqual, оператор
 
@@ -81,7 +81,7 @@ public static bool operator >=(
 Тип: [System. Boolean](/dotnet/api/system.boolean)  
 Значение true, если LHS предшествует или равен RHS.  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7ce85ad2014e1f0563e2c20af7abec3cc476fab330b38340162f28fd390a5f8d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5688bafe8343bdc1ab508a4e65984cc15c88b124
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119066644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143326"
 ---
 # <a name="uuid-attribute"></a>uuid - атрибут
 
@@ -76,7 +76,7 @@ uuid("6B29FC40-CA47-1067-B31D-00DD010662DA")
 [**Языковые**](local.md)
 </dt> <dt>
 
-[**объектами**](object.md)
+[**object**](object.md)
 </dt> <dt>
 
 [**/осф**](-osf.md)

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: f7293a97373a53d102887e5958c4296aff3dcfe3d392c80492ed773af62a8f11
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e83dd225da0c3673f9c7f423e0bf56da7431b097
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118158915"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145169"
 ---
 # <a name="camthreadm_hthread-member"></a>Элемент Камсреад:: m \_ хсреад
 
@@ -40,7 +40,7 @@ HANDLE m_hThread;
 
 Эта переменная инициализируется как **null**. Метод [**камсреад:: Create**](camthread-create.md) присваивает этой переменной значение обработчика потока. Чтобы определить, существует ли поток, вызовите метод [**камсреад:: среадексистс**](camthread-threadexists.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -51,7 +51,7 @@ HANDLE m_hThread;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

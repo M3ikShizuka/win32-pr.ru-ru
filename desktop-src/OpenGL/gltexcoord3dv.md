@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 02bc579a0ae8c9dc0c386ee7ce6757c7d6bbe11539561b0716cde8949b0cc23a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4007e6a524075fc7c091cfc3c6e01044aeae3c22
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120036354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127259947"
 ---
 # <a name="gltexcoord3dv-function"></a>Функция glTexCoord3dv
 

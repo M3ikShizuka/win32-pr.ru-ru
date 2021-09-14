@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: b9820008ead01930eff23a50408f4952d08e9190984432f65c3d9e5f4eedbef7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ef5ad479fe3107ed8fa79f0f86307254a9f33c4d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119658914"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127259283"
 ---
 # <a name="hidden-settingstype-element"></a>Hidden (Сеттингстипе), элемент
 
@@ -50,7 +50,7 @@ ms.locfileid: "119658914"
 
 Сведения о разработке сценариев см. в разделе [**тасксеттингс. Hidden**](tasksettings-hidden.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ ms.locfileid: "119658914"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

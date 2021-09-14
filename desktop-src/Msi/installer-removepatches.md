@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: bfa316b4ff01f6e5667b3fb2c5fce2333c4b4aaf34dc5a1dbb37feb61d1a9ce4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2130ae2958f03eb16b5145e5eb61e42f869ad775
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119894034"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065554"
 ---
 # <a name="installerremovepatches-method"></a>Метод Installer. Ремовепатчес
 
@@ -78,7 +78,7 @@ Installer.RemovePatches(
 
 Пример, демонстрирующий, как приложение может удалить исправление из всех доступных для пользователя продуктов, см. в разделе Удаление [исправлений](uninstalling-patches.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -90,7 +90,7 @@ Installer.RemovePatches(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

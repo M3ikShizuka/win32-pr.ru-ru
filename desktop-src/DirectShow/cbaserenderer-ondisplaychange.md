@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 3f7fc5d733d90ab88f1114558947b6e72958c1d8b18d507ce612c1865fc400e3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1e99a8626d523e8b14b013acc9d2ead462f48df3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119016882"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261467"
 ---
 # <a name="cbaserendererondisplaychange-method"></a>Кбасерендерер. Ондисплайчанже, метод
 
@@ -48,7 +48,7 @@ BOOL OnDisplayChange();
 
 Модули подготовки видео должны вызывать этот метод в ответ на \_ сообщения ДИСПЛАЙЧАНЖЕ WM. Если входной ПИН-код подключен, метод отправляет \_ \_ событие EC "изменение дисплея" в Диспетчер графа фильтров.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ BOOL OnDisplayChange();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

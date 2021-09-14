@@ -5,11 +5,11 @@ ms.assetid: 9ff14b2f-ae09-4839-b281-fba46addaf5f
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 364dccaf21927e2d0092fc744d501f47830c6eeb
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "105672361"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145810"
 ---
 # <a name="exposing-owner-drawn-combo-box-items"></a>Предоставление Owner-Drawn элементов поля со списком
 
@@ -27,6 +27,6 @@ ms.locfileid: "105672361"
 -   С помощью рисуемых владельцем переменных полей со списком, созданных с помощью **\_ овнердраввариаблеа CBS**, используйте глобальную переменную или другой механизм, чтобы отследить, когда **итемдата** элемент [меасуреитемструкт](/windows/win32/api/winuser/ns-winuser-measureitemstruct) является допустимым. Глобальная переменная является обязательной, так как система отправляет сообщение [WM \_ меасуреитем](../controls/wm-measureitem.md) сразу после добавления строки, но перед присоединением данных элемента, и на данном этапе элемент **итемдата** является недопустимым.
 -   Чтобы изменить строку для элемента в поле со списком с помощью стиля **CBS \_ хасстрингс** , удалите элемент с сообщением [ \_ делетестринг CB](../controls/cb-deletestring.md) и добавьте новую строку с сообщением [ \_ ADDSTRING CB](../controls/cb-addstring.md) .
 
- 
+ 
 
- 
+ 

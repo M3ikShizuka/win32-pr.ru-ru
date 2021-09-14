@@ -4,12 +4,12 @@ ms.assetid: d282de02-62f4-4a12-a77c-f602f6db0216
 description: 'Дополнительные сведения: DPI и Device-Independent пикселей'
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0c9b3aebca97ac466f5158b07d1d976994030b4ba2c83b361a5d7a6d88b572fc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8e6f04e1a056611fcdfe8b59ff65b38ecec99eaf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118388359"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144658"
 ---
 # <a name="dpi-and-device-independent-pixels"></a>DPI и Device-Independent пикселей
 
@@ -211,7 +211,7 @@ void MainWindow::CalculateLayout()
 
 Метод [**ID2D1RenderTarget:: resize**](/windows/desktop/api/d2d1/nf-d2d1-id2d1rendertarget-getsize) возвращает размер целевого объекта отрисовки в DIP (не в пикселях), который является подходящим блоком для вычисления макета. Существует тесно связанный метод [**ID2D1RenderTarget:: жетпикселсизе**](/windows/desktop/api/d2d1/nf-d2d1-id2d1rendertarget-getpixelsize), который возвращает размер в физических пикселях. Для целевого объекта прорисовки **HWND** это значение соответствует размеру, возвращенному [**жетклиентрект**](/windows/desktop/api/winuser/nf-winuser-getclientrect). Но помните, что рисование выполняется в DIP, а не в пикселях.
 
-## <a name="next"></a>Следующая
+## <a name="next"></a>Следующий
 
 [Использование цвета в Direct2D](using-color-in-direct2d.md)
 

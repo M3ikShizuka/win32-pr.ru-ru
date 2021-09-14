@@ -4,12 +4,12 @@ ms.assetid: b21db1cf-cac3-41d6-8189-6e01c8f91a7d
 title: Справочник по командам Копп
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ef1a706863464b6f303e05cb88e28a075dffbfba7b6bf54f8289a2699e66a76f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 50dfeebe42b877604ab880ef1855035242d6eca8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119565974"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147786"
 ---
 # <a name="copp-command-reference"></a>Справочник по командам Копп
 

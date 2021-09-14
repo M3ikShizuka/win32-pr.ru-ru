@@ -4,12 +4,12 @@ ms.assetid: 14b1cfff-5e47-4309-8e62-fb5c8da9ce97
 title: Перечисления управления файлами
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 33e9e75120046a63057ee70e6c92314ba5e90c0e53ae872dad7efd44fba96830
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d7b53d8f53bf9dbe16c15d21171e52ea3dd0015d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119927813"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057921"
 ---
 # <a name="file-management-enumerations"></a>Перечисления управления файлами
 

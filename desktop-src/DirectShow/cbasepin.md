@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 55f697d6ff1a2bd3ebac77a77d8ba98321f29d09a75181b52e8ef08b03eed682
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3ba7b3a85b512b2ad8d6e85aa38627a2abc68c21
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120056203"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145070"
 ---
 # <a name="cbasepin-class"></a>Класс Кбасепин
 
@@ -68,7 +68,7 @@ ms.locfileid: "120056203"
 | [**IsStopped**](cbasepin-isstopped.md)                                  | Определяет, остановлен ли фильтр, содержащий этот ПИН-код.                                              |
 | [**жетмедиатипеверсион**](cbasepin-getmediatypeversion.md)              | Возвращает номер версии для набора предпочтительных типов мультимедиа. Виртуализаци.                                  |
 | [**инкременттипеверсион**](cbasepin-incrementtypeversion.md)            | Увеличивает номер версии в наборе предпочтительных типов носителей.                                         |
-| [**Активен**](cbasepin-active.md)                                        | Уведомляет ПИН-код о том, что фильтр активен. Виртуализаци.                                                   |
+| [**Active**](cbasepin-active.md)                                        | Уведомляет ПИН-код о том, что фильтр активен. Виртуализаци.                                                   |
 | [**Неактивно**](cbasepin-inactive.md)                                    | Уведомляет ПИН-код о том, что фильтр больше не активен. Виртуализаци.                                             |
 | [**Выполнить**](cbasepin-run.md)                                              | Уведомляет ПИН-код о том, что теперь фильтр работает. Виртуализаци.                                                  |
 | [**сетмедиатипе**](cbasepin-setmediatype.md)                            | Задает тип носителя для соединения. Виртуализаци.                                                           |
@@ -79,7 +79,7 @@ ms.locfileid: "120056203"
 | [**куррентстоптиме**](cbasepin-currentstoptime.md)                      | Извлекает время окончания сегмента.                                                                           |
 | [**куррентстарттиме**](cbasepin-currentstarttime.md)                    | Получает время начала сегмента.                                                                          |
 | [**куррентрате**](cbasepin-currentrate.md)                              | Получает частоту сегментов.                                                                                |
-| [**Имя**](cbasepin-name.md)                                            | Извлекает идентификатор ПИН-кода.                                                                              |
+| [**Безымян**](cbasepin-name.md)                                            | Извлекает идентификатор ПИН-кода.                                                                              |
 | [**сетреконнектвхенактиве**](cbasepin-setreconnectwhenactive.md)        | Указывает, поддерживает ли ПИН динамическое повторное подключение.                                                  |
 | [**канреконнектвхенактиве**](cbasepin-canreconnectwhenactive.md)        | Запрашивает, поддерживает ли ПИН динамическое повторное подключение.                                                    |
 | Чистые виртуальные методы                                                     | Описание                                                                                                |
@@ -87,7 +87,7 @@ ms.locfileid: "120056203"
 | Методы Ипин                                                             | Описание                                                                                                |
 | [**Подключение**](cbasepin-connect.md)                                      | Подключает ПИН-код к другому ПИН-коду.                                                                           |
 | [**рецеивеконнектион**](cbasepin-receiveconnection.md)                  | Принимает подключение с другого ПИН-кода.                                                                     |
-| [**Отключение**](cbasepin-disconnect.md)                                | Прерывает текущее подключение к ПИН-коду.                                                                         |
+| [**Отключить**](cbasepin-disconnect.md)                                | Прерывает текущее подключение к ПИН-коду.                                                                         |
 | [**коннектедто**](cbasepin-connectedto.md)                              | Извлекает ПИН-код, подключенный к этому ПИН-коду.                                                                   |
 | [**коннектионмедиатипе**](cbasepin-connectionmediatype.md)              | Возвращает тип носителя для текущего соединения ПИН-кода, если таковой имеется.                                           |
 | [**куерипининфо**](cbasepin-querypininfo.md)                            | Извлекает сведения о ПИН-коде.                                                                       |
@@ -106,7 +106,7 @@ ms.locfileid: "120056203"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

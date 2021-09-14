@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: e6824bb785189213645197a630ed29150aa1a003c00c1710f1f8d25b46d926b9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 39add97c66da15eb9c99c7abdcc025c7c1ee5787
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120056544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147949"
 ---
 # <a name="cbasefilterm_pclock-member"></a>Элемент Кбасефилтер:: m \_ пклокк
 
@@ -47,7 +47,7 @@ IReferenceClock *m_pClock;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

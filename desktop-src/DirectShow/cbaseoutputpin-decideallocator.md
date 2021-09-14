@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 73d822450d635fe5f7620d59f39fcc7ed85fe1e2465f34af3ef561dfc2f3828f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4e587562341118b904803302f0fd7249ebf8e507
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119814214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261531"
 ---
 # <a name="cbaseoutputpindecideallocator-method"></a>Кбасеаутпутпин. ДеЦидеаллокатор, метод
 
@@ -70,7 +70,7 @@ virtual HRESULT DecideAllocator(
 3.  Вызывает метод класса [**кбасеаутпутпин::D еЦидебуфферсизе**](cbaseoutputpin-decidebuffersize.md) , который задает свойства распределителя. Это чистый виртуальный метод; производный класс должен реализовать его.
 4.  Вызывает метод [**имеминпутпин:: нотифяллокатор**](/windows/desktop/api/Strmif/nf-strmif-imeminputpin-notifyallocator) , который уведомляет входной ПИН-код распределителя, который используется.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -81,7 +81,7 @@ virtual HRESULT DecideAllocator(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

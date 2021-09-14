@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: a1c221d2fd032445587b52b0d0ae7f7744889254983fab82c7b282d06fee195e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 224550756f5935ce26c106ba01c9ef64f0767140
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118953783"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058001"
 ---
 # <a name="csourceaddpin-method"></a>Ксаурце. Аддпин, метод
 
@@ -57,7 +57,7 @@ HRESULT AddPin(
 
 | Код возврата                                                                                   | Описание                    |
 |-----------------------------------------------------------------------------------------------|--------------------------------|
-| <dl> <dt>**\_ОК**</dt> </dl>          | Success<br/>             |
+| <dl> <dt>**\_ОК**</dt> </dl>          | Успешное завершение<br/>             |
 | <dl> <dt>**E \_ OUTOFMEMORY**</dt> </dl> | Недостаточно памяти<br/> |
 
 

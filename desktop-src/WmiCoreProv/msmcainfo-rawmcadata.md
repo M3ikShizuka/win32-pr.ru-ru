@@ -17,12 +17,12 @@ api_type:
 - DllExport
 api_location:
 - Wmiprov.dll
-ms.openlocfilehash: 2b7ac9f8c474a1aee55d0dd70a5a838102aec66bc8b3ba3d867070430c38a3ee
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6cafc16ddbc91181cc2114def07a193941988228
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118821868"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066569"
 ---
 # <a name="msmcainfo_rawmcadata-class"></a>\_Класс мсмкаинфо равмкадата
 
@@ -42,7 +42,7 @@ class MSMCAInfo_RawMCAData : MSMCAInfo
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **мсмкаинфо \_ равмкадата** имеет следующие типы членов:
 
@@ -113,21 +113,21 @@ class MSMCAInfo_RawMCAData : MSMCAInfo
 
 Класс **мсмкаинфо \_ равмкадата** является производным от [**мсмкаинфо**](msmcainfo.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP<br/>                                                                  |
-| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                         |
+| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                         |
 | Пространство имен<br/>                | Корневой \\ инструментарий WMI<br/>                                                                   |
 | MOF<br/>                      | <dl> <dt>Вмикоре. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wmiprov.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 4d0e4f01-0530-4202-bc78-b6e52670b8e5
 title: Тип настраиваемого действия 34
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4173633e7912897a3327d6d4c9c556d33f38bbd7f45cca6d4a1d96ef916b08ec
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 76ba17c9a4dc5b35d8d03e9cca2707079cb15bf6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120077944"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142057"
 ---
 # <a name="custom-action-type-34"></a>Тип настраиваемого действия 34
 
@@ -33,7 +33,7 @@ ms.locfileid: "120077944"
 
  
 
-## <a name="target"></a>Целевой объект
+## <a name="target"></a>Назначение
 
 Целевой столбец таблицы [CustomAction](customaction-table.md) содержит полный путь и имя исполняемого файла, за которым следуют необязательные аргументы к исполняемому файлу. Требуется полный путь и имя исполняемого файла. Кавычки должны использоваться вокруг длинных имен файлов или путей. Значение рассматривается как [форматированный](formatted.md) текст и может содержать ссылки на свойства, файлы, каталоги или другие атрибуты форматированного текста.
 

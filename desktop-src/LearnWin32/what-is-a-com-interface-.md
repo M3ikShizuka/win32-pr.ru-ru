@@ -4,12 +4,12 @@ description: Что такое COM-интерфейс
 ms.assetid: 36f27a58-cc63-4b67-bdcb-8f9a19650c6a
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d4a6eac63fb6395e04f36c89826a392046c906a70105e19bb6b9514975d89197
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: da703569beae7a9aa2fc41bcea0214cc9aa488ad
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118387616"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144525"
 ---
 # <a name="what-is-a-com-interface"></a>Что такое COM-интерфейс?
 
@@ -125,6 +125,6 @@ class Bitmap : public IDrawable, public ISerializable
 
 В этом разделе рассматривалась концепция интерфейсов, но пока мы не видели фактический код COM. Начнем с первого, что должно сделать любое приложение COM: Инициализация библиотеки COM.
 
-## <a name="next"></a>Следующая
+## <a name="next"></a>Следующий
 
 [Инициализация библиотеки COM](initializing-the-com-library.md)

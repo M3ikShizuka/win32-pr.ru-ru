@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b02e404992e8fca98eba41f5ea85571160582827816a945d7ab8db505b28ba0c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c0d017b4eaf460b5d5b7ecb8a0bd79201ac8bdee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119067274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143858"
 ---
 # <a name="error_status_t-attribute"></a>\_атрибут состояния ошибки \_ t
 
@@ -73,7 +73,7 @@ ms.locfileid: "119067274"
 
 Тип **ошибки \_ \_ t** является одним из предопределенных типов языка определения интерфейса. Предопределенные типы могут отображаться в виде описателей типов в объявлениях [**typedef**](typedef.md) , в общих объявлениях и в деклараторах функций (как в функции-возвращаемом типе, так и в качестве описателей типа параметра).
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -86,7 +86,7 @@ ms.locfileid: "119067274"
 [Файл определения интерфейса (IDL)](interface-definition-idl-file.md)
 </dt> <dt>
 
-[**long**](long.md)
+[**поддерживаем**](long.md)
 </dt> <dt>
 
 [**заполняет**](out-idl.md)

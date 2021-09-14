@@ -14,12 +14,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 1bb3986c94837c7970d178a90341c97e9857c51d346ce0007a491a86f42e82e4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 221d272145670b9514cde5ffbe8b02e5ddcd6e0c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120125834"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127259256"
 ---
 # <a name="idletrigger-triggergroup-element"></a>Идлетригжер (Тригжерграуп), элемент
 
@@ -39,7 +39,7 @@ ms.locfileid: "120125834"
 
 | Элемент                                                           | Унаследован от                                                         | Описание                                            |
 |-------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------|
-| [**План**](taskschedulerschema-triggers-tasktype-element.md) | [**тригжерстипе**](taskschedulerschema-triggerstype-complextype.md) | Задает триггеры, которые запускают задачу.<br/> |
+| [**Триггеры**](taskschedulerschema-triggers-tasktype-element.md) | [**тригжерстипе**](taskschedulerschema-triggerstype-complextype.md) | Задает триггеры, которые запускают задачу.<br/> |
 
 
 
@@ -109,7 +109,7 @@ ms.locfileid: "120125834"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

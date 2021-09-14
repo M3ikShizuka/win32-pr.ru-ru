@@ -4,12 +4,12 @@ ms.assetid: 8bbbf42e-fb55-4e5d-a574-2c3aaa87a73a
 title: Мсисистемребутпендинг, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b6cab600ca7c0f1bbc240f8fb1a9d93f3da62914e8250863333b75f8973d6c1d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dec5db7550be3fa27b0ed272ff08d88a4cad915a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120042654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147654"
 ---
 # <a name="msisystemrebootpending-property"></a>Мсисистемребутпендинг, свойство
 
@@ -17,7 +17,7 @@ ms.locfileid: "120042654"
 
 Авторы пакетов могут основывать условие в [таблице лаунчкондитион](launchcondition-table.md) этого свойства, чтобы предотвратить установку пакета в случаях, когда имеется операция, ожидающая переименования файла. Это может быть сделано для предотвращения перезапуска операционной системы из-за переименования файла. Установщик не устанавливает свойство **мсисистемребутпендинг** во всех случаях, требующих перезапуска системы.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

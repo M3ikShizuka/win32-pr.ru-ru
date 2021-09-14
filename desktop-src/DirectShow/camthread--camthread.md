@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 884460b0c1af3b96a610a18b7475d2a144dc32bf308ea0e0191f0f526565726a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 84a40205fc93677f20256676ad09a18357d46acb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118662380"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145213"
 ---
 # <a name="camthreadcamthread-destructor"></a>Деструктор Камсреад. ~ Камсреад
 
@@ -40,7 +40,7 @@ virtual ~CAMThread();
 
 Деструктор вызывает метод [**камсреад:: Close**](camthread-close.md) , который ожидает выхода из потока.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

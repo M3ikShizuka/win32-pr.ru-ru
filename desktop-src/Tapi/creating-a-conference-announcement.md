@@ -4,12 +4,12 @@ ms.assetid: d8ae90f3-37b0-4fc7-abf0-429f2bd97d66
 title: Создание объявления конференции
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bc8ca0dff3cdb2da3b0a9ae012e3b7fd9e162cc052aea5700576e38115cb957e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f19deed2f002da5379cb8a44a02bd6543d4b36f0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117946157"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066965"
 ---
 # <a name="creating-a-conference-announcement"></a>Создание объявления конференции
 

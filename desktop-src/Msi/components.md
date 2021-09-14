@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 9e30c0c5ad7efa727d00c46b84bcfa6dfb4285d59e4fe0d3c40d6a0128be01ca
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5e31d6a7c3d2422111d0d8c3247e022fa35bdc43
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120077932"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142326"
 ---
 # <a name="component-object"></a>Объект Component
 
@@ -38,7 +38,7 @@ ms.locfileid: "120077932"
 
 
 
-| Свойство                                                    | Описание                                                                               |
+| Свойство.                                                    | Описание                                                                               |
 |:------------------------------------------------------------|:------------------------------------------------------------------------------------------|
 | [**компоненткоде**](component-componentcode.md)<br/> | Код компонента рассматриваемого компонента.<br/>                               |
 | [**Локального**](component-context.md)<br/>             | Контекст, который был определен как применимый к рассматриваемому компоненту.<br/> |
@@ -48,7 +48,7 @@ ms.locfileid: "120077932"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -60,7 +60,7 @@ ms.locfileid: "120077932"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

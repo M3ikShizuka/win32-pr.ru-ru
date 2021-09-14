@@ -13,11 +13,11 @@ api_type:
 - Schema
 api_location: ''
 ms.openlocfilehash: 4c7478f38ba7336738325bac6872866cd570288b
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108109202"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147010"
 ---
 # <a name="profilelist-wlanpolicy-element"></a>Профилелист (Вланполици), элемент
 
@@ -47,12 +47,12 @@ ms.locfileid: "108109202"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>       |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>       |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

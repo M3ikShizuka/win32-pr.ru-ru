@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 648897a4e2250e0b91544676a3469b2d29402c757bcc77b2285d0181ca2fa5f8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9b378cb4031acecb8e0018053c7547e1948cc3e6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118986214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066155"
 ---
 # <a name="samplesfloatintfloatuint-function-hlsl-reference"></a>Sample (S, float, int, float, uint), функция (Справочник по HLSL)
 

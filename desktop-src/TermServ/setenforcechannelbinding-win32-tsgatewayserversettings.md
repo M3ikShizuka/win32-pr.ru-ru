@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f1a2e076fb4ba439faa7cc22f30da1f815b0571ede0477b875e25176a7f0297e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b236341f0fdac31f80f7e7d77aa12a4b22eb9731
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119988034"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127259019"
 ---
 # <a name="setenforcechannelbinding-method-of-the-win32_tsgatewayserversettings-class"></a>Метод Сетенфорцечаннелбиндинг \_ класса Win32 тсгатевайсерверсеттингс
 
@@ -61,7 +61,7 @@ uint32 SetEnforceChannelBinding(
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                                |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                           |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                           |
 | Пространство имен<br/>                | Корневой \\ CIMv2 \\ терминалсервицес<br/>                                                 |
 | MOF<br/>                      | <dl> <dt>TSGateway. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>AagWmi.dll</dt> </dl>    |

@@ -4,12 +4,12 @@ ms.assetid: 460f1463-57a8-47eb-9957-17976757bd7f
 title: Константы WinHTTP
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f3f25ba011fdc97d55bae57c38a937a08177a6cefe2ecaaef3f85e2486e90956
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7e37b0e4de7aa3df5e155933bea2be25386c1637
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118114194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066614"
 ---
 # <a name="winhttp-constants"></a>Константы WinHTTP
 
@@ -19,7 +19,7 @@ WinHTTP использует следующие константы:
 
 <dt>
 
-[**Сообщения об ошибках**](error-messages.md)
+[**сообщения об ошибках**](error-messages.md)
 </dt> <dd>
 
 Сообщения об ошибках, относящиеся к функциям WinHTTP. эти функции также возвращают Windows сообщения об ошибках, если это уместно. Значение, соответствующее каждой константе, является значением константы для функций интерфейса прикладного программирования (API) и младшими 16 битами номера ошибки для объекта [**WinHttpRequest**](winhttprequest.md) .

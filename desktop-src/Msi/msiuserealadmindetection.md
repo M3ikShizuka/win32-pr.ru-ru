@@ -5,17 +5,17 @@ title: МСИУСЕРЕАЛАДМИНДЕТЕКТИОН, свойство
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 0a177d320aff25cf21b932ca25e691f145f94ad3
-ms.sourcegitcommit: 0dec0044816af3f2b2e6403659e1cf11138c90cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121812941"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147625"
 ---
 # <a name="msiuserealadmindetection-property"></a>МСИУСЕРЕАЛАДМИНДЕТЕКТИОН, свойство
 
 Присвойте свойству **мсиусереаладминдетектион** значение 1, чтобы запросить, что установщик использует фактические сведения о пользователе при задании свойства [**AdminUser**](adminuser.md) . при работе в Windows Vista [**привилегированные**](privileged.md) и **AdminUser** совпадают. Авторы должны использовать **привилегированное** свойство в новых пакетах. Устаревшие пакеты, для которых требуются разные свойства **privileged** и **AdminUser** , могут восстановить разницу, задав свойство **мсиусереаладминдетектион** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

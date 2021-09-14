@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 266e67bc0d177aef592024236c87ab49c26cb81ef2264b4dde234232a3509006
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6f97c89142e43691c91b2a4c0d04721d9112ed49
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119812774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145029"
 ---
 # <a name="ctransinplaceinputpinctransinplaceinputpin-constructor"></a>Ктрансинплацеинпутпин. Ктрансинплацеинпутпин, конструктор
 
@@ -77,7 +77,7 @@ CTransInPlaceInputPin(
 
 Параметр *pName* указывает имя ПИН-кода, которое возвращается методом [**Ипин:: куерипининфо**](/windows/desktop/api/Strmif/nf-strmif-ipin-querypininfo) . Однако эта строка не используется для идентификатора ПИН-кода. Идентификатор ПИН-кода для этого класса всегда находится в. Дополнительные сведения см. в разделе [**ктрансформинпутпин:: QueryId**](ctransforminputpin-queryid.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -88,7 +88,7 @@ CTransInPlaceInputPin(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

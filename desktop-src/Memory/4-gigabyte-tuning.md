@@ -4,12 +4,12 @@ ms.assetid: 991eb86f-9e6f-4084-8b6f-f979e42104b5
 title: '4-Гигабайтная настройка: BCDEdit и Boot.ini'
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 84c8cd7b824669abbe684af91d848f445fe287c333c04abc08c676f3e125d2b4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f997ae09748370d5ec8ec246da80b6440d7aaf45
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118386719"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144481"
 ---
 # <a name="4-gigabyte-tuning-bcdedit-and-bootini"></a>4-Гигабайтная настройка: BCDEdit и Boot.ini
 
@@ -21,7 +21,7 @@ ms.locfileid: "118386719"
 
 **Windows Server 2003 и более ранних версий:** Чтобы включить 4GT, добавьте параметр **/3gb** в файл Boot.ini. Параметр **/3gb** поддерживается в следующих системах:
 
--   Windows Server 2003
+-   Windows Server 2003
 -   Windows XP Professional
 
 Параметр **/3gb** позволяет приложениям полностью 3 ГБ виртуального адресного пространства, а также уменьшает объем, доступный системе, до 1 ГБ. на Windows Server 2003 доступное для приложений количество адресного пространства можно изменить, установив для параметра **/userva** в Boot.ini значение от 2048 до 3072, что увеличит объем адресного пространства, доступного системе. Это помогает поддерживать общую производительность системы, когда приложению требуется более 2 ГБ, но менее 3 ГБ адресного пространства.

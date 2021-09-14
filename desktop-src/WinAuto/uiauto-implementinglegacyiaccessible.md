@@ -16,11 +16,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 2cffbd205b072f6f900ea5b5eb5a9f6ddfb5ddc5
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103777711"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058452"
 ---
 # <a name="legacyiaccessible-control-pattern"></a>Шаблон элемента управления Легацииакцессибле
 
@@ -30,11 +30,11 @@ ms.locfileid: "103777711"
 
 Шаблон элемента управления **легацииакцессибле** предоставляет интерфейс [**иуиаутоматионлегацииакцессиблепаттерн**](/windows/desktop/api/UIAutomationClient/nn-uiautomationclient-iuiautomationlegacyiaccessiblepattern) клиентам автоматизации пользовательского интерфейса, что позволяет им получить доступ к базовой реализации [**IAccessible**](/windows/desktop/api/oleacc/nn-oleacc-iaccessible) для некоторых элементов пользовательского интерфейса. Однако **иуиаутоматионлегацииакцессиблепаттерн** не поддерживает методы, которые устарели или избыточны с помощью функций автоматизации пользовательского интерфейса.
 
-В этом разделе содержатся следующие подразделы.
+Этот раздел состоит из следующих подразделов.
 
 -   [Правила и соглашения реализации](#implementation-guidelines-and-conventions)
 -   [Элементы шаблона элемента управления **легацииакцессибле**](#members-of-the-legacyiaccessible-control-pattern)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="implementation-guidelines-and-conventions"></a>Правила и соглашения реализации
 
@@ -50,28 +50,28 @@ ms.locfileid: "103777711"
 
 | Элементы                                                                        | Тип члена | Примечания                                                                                                                                |
 |--------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| [**чилдид**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-get_childid)                   | Свойство    | Возвращает **чилдид \_ Self** (0) для дочернего объекта.                                                                                |
-| [**DefaultAction**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-get_defaultaction)       | Свойство    | Нет                                                                                                                                 |
-| [**Описание**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-get_description)           | Свойство    | Нет                                                                                                                                 |
-| [**Справка**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-get_help)                         | Свойство    | Нет                                                                                                                                 |
-| [**KeyboardShortcut**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-get_keyboardshortcut) | Свойство    | Нет                                                                                                                                 |
-| [**Имя**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-get_name)                         | Свойство    | Нет                                                                                                                                 |
-| [**Role**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-get_role)                         | Свойство    | Используйте функцию [**жетролетекст**](/windows/desktop/api/Oleacc/nf-oleacc-getroletexta) для получения локализованной строки.                                                    |
+| [**чилдид**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-get_childid)                   | Свойство.    | Возвращает **чилдид \_ Self** (0) для дочернего объекта.                                                                                |
+| [**DefaultAction**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-get_defaultaction)       | Свойство.    | Нет                                                                                                                                 |
+| [**Описание**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-get_description)           | Свойство.    | None                                                                                                                                 |
+| [**Справка**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-get_help)                         | Свойство.    | None                                                                                                                                 |
+| [**KeyboardShortcut**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-get_keyboardshortcut) | Свойство.    | Нет                                                                                                                                 |
+| [**Безымян**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-get_name)                         | Свойство.    | None                                                                                                                                 |
+| [**Role**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-get_role)                         | Свойство.    | Используйте функцию [**жетролетекст**](/windows/desktop/api/Oleacc/nf-oleacc-getroletexta) для получения локализованной строки.                                                    |
 | [**Выборка**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-getselection)         | Метод      | Извлекает указатель интерфейса [**иуиаутоматионелементаррай**](/windows/desktop/api/UIAutomationClient/nn-uiautomationclient-iuiautomationelementarray) .                                |
-| [**State**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-get_state)                       | Свойство    | Используйте функцию [**жетстатетекст**](/windows/desktop/api/Oleacc/nf-oleacc-getstatetexta) для получения локализованной строки.                                                  |
-| [**Значение**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-get_value)                       | Свойство    | Нет                                                                                                                                 |
-| [**додефаултактион**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-dodefaultaction)   | Метод      | Нет                                                                                                                                 |
-| [**жетиакцессибле**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-getiaccessible)     | Метод      | Нет                                                                                                                                 |
-| [**Метьте**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-select)                     | Метод      | Флаг выбора — это значение Microsoft Active Accessibility **селфлаг** . Дополнительные сведения см. в разделе [константы селфлаг](selflag.md). |
-| [**SetValue**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-setvalue)                 | Метод      | Нет                                                                                                                                 |
+| [**State**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-get_state)                       | Свойство.    | Используйте функцию [**жетстатетекст**](/windows/desktop/api/Oleacc/nf-oleacc-getstatetexta) для получения локализованной строки.                                                  |
+| [**Значение**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-get_value)                       | Свойство.    | Нет                                                                                                                                 |
+| [**DoDefaultAction**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-dodefaultaction)   | Метод      | None                                                                                                                                 |
+| [**жетиакцессибле**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-getiaccessible)     | Метод      | None                                                                                                                                 |
+| [**Выберите пункт**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-select)                     | Метод      | Флаг выбора — это значение Microsoft Active Accessibility **селфлаг** . Дополнительные сведения см. в разделе [константы селфлаг](selflag.md). |
+| [**SetValue**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ilegacyiaccessibleprovider-setvalue)                 | Метод      | None                                                                                                                                 |
 
 
 
- 
+ 
 
 Этот шаблон элемента управления не имеет связанных событий.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -84,9 +84,9 @@ ms.locfileid: "103777711"
 [Общие сведения о дереве модели автоматизации пользовательского интерфейса](uiauto-treeoverview.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

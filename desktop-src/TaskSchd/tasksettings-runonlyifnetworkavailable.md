@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 193d235276ffc37513c95b5ae0a4cef5a6e84cd0bc7d8bea7fab67a262110080
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8225d836e5bc87abd5ce9b6c311b4af527561d41
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118354851"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145882"
 ---
 # <a name="tasksettingsrunonlyifnetworkavailable-property"></a>Тасксеттингс. Рунонлифнетворкаваилабле, свойство
 
@@ -46,7 +46,7 @@ TaskSettings.RunOnlyIfNetworkAvailable As Boolean
 
 При чтении или записи XML для задачи этот параметр указывается в элементе [**рунонлифнетворкаваилабле**](taskschedulerschema-runonlyifnetworkavailable-settingstype-element.md) схемы планировщик задач.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ TaskSettings.RunOnlyIfNetworkAvailable As Boolean
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

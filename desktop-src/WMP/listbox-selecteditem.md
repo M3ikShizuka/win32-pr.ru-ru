@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bd236e288bf91d77cdf79b2b5f4f4cb2e8ebcf4b2bcb6eb876c6978dc2249335
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b6ec30032e62713436e85f3924f63344c96944ed
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119508500"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066725"
 ---
 # <a name="listboxselecteditem"></a>LISTBOX. selectedItem
 
@@ -35,7 +35,7 @@ ms.locfileid: "119508500"
 
 Это свойство будет выбирать одну строку в элементе управления "список". Выбор любой другой выбранной строки будет снят.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -45,7 +45,7 @@ ms.locfileid: "119508500"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

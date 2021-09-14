@@ -36,12 +36,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: a9c605b82dc0ee2721ca246166b7eb47ca011702f1746787bb1bb669781bb169
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4685f55899bf7b133a5039f40d77a2c6ca640d30
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118678964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058164"
 ---
 # <a name="cim_pcicontroller-class"></a>\_Класс CIM пЦиконтроллер
 
@@ -85,7 +85,7 @@ class CIM_PCIController : CIM_Controller
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ пЦиконтроллер** имеет следующие типы членов:
 
@@ -107,7 +107,7 @@ class CIM_PCIController : CIM_Controller
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **CIM \_ пЦиконтроллер** имеет следующие свойства.
 
@@ -893,7 +893,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1618,7 +1618,7 @@ Windows все еще настраивает устройство.
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -1632,7 +1632,7 @@ Windows все еще настраивает устройство.
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

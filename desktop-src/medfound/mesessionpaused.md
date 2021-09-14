@@ -4,12 +4,12 @@ ms.assetid: 72546082-83ec-4481-a24f-e82bd6c88859
 title: Событие Месессионпаусед (Мфобжектс. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cd4e48689b102621ee52961dd3489964f30940f341d68ac8907daf85825b3e87
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: dd3e8ef60426f83203cfffae3a75febfdf7032d6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120113994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263347"
 ---
 # <a name="mesessionpaused-event"></a>Событие Месессионпаусед
 
@@ -27,7 +27,7 @@ ms.locfileid: "120113994"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -39,7 +39,7 @@ ms.locfileid: "120113994"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

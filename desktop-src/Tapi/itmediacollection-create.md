@@ -4,12 +4,12 @@ ms.assetid: f0036556-d2e7-4589-8bb4-e2c5559902fe
 title: 'Метод Итмедиаколлектион:: Create (Сдпблб. h)'
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 68a2b11624b6a22a9bf1bff7b87538d3c7e915892a4ec7b816ee3d6c4d03821d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8033fb2f541f5451f918845858df756b32361f54
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119060872"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145997"
 ---
 # <a name="itmediacollectioncreate-method"></a>Метод Итмедиаколлектион:: Create
 

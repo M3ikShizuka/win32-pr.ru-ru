@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - ntmmapi.h
-ms.openlocfilehash: e3bd7d351e890a968f2fa01ddffa6c8e3be16164d78393894055f55660c516bd
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 66177f6b478264a10c1ce0e50297d943a16407c4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120040284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144482"
 ---
 # <a name="cfg_call_target_info-structure"></a>\_ \_ \_ Структура сведений о цели вызова cfg
 
@@ -36,7 +36,7 @@ typedef struct _CFG_CALL_TARGET_INFO {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -54,7 +54,7 @@ typedef struct _CFG_CALL_TARGET_INFO {
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

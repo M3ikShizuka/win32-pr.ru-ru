@@ -4,12 +4,12 @@ description: В этом разделе перечислены операции,
 ms.assetid: 69CF182B-9161-43B7-89A5-0468E1BBD6B7
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b5c72e15ebe9a8fd2f6725451268d3d03fb7b181442907248d0db44860560aff
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4a6c9ec58e6c9197f107f47cd7fe3513f43030c0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118098326"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145606"
 ---
 # <a name="operations-available-on-tile-pools"></a>Доступные операции с пулами плиток
 

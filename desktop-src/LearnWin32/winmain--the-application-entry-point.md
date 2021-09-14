@@ -1,7 +1,16 @@
 ---
-Title: WinMain описание точки входа приложения: WinMain: точка входа приложения MS. AssetID: 389da5d4-d0f9-4339-be6c-0f4fecc59316 MS. Topic: статья MS. Date: 05/31/2018
+title: WinMain точка входа приложения
+description: каждая программа Windows включает функцию точки входа, которая называется WinMain или wWinMain.
+ms.assetid: 389da5d4-d0f9-4339-be6c-0f4fecc59316
+ms.topic: article
+ms.date: 09/10/2021
+ms.openlocfilehash: 590dee4b9871853812f48f22b5cce568257cca16
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144505"
 ---
-
 # <a name="winmain-the-application-entry-point"></a>WinMain: точка входа приложения
 
 каждая программа Windows включает функцию точки входа, которая называется **WinMain** или **wWinMain**. Ниже приведена сигнатура для **wWinMain**.
@@ -31,7 +40,7 @@ int WINAPI wWinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, PWSTR pCmdLine
 > [!Note]  
 > CRT выполняет некоторую дополнительную работу внутри **Main**. Например, все статические инициализаторы вызываются до **wWinMain**. Несмотря на то, что компоновщик может использовать другую функцию точки входа, используйте значение по умолчанию при компоновке с CRT. В противном случае код инициализации CRT будет пропущен с непредсказуемыми результатами. (Например, глобальные объекты не будут инициализированы должным образом.)
 
- 
+ 
 
 Ниже приведена пустая функция **WinMain** .
 
@@ -48,10 +57,10 @@ INT WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
 
 Теперь, когда у вас есть точка входа и вы понимаете некоторые основные термины по терминологии и программированию, можно приступать к созданию полной программы Window.
 
-## <a name="next"></a>Следующая
+## <a name="next"></a>Следующий
 
 [Модуль 1. первая программа Windows](your-first-windows-program.md).
 
- 
+ 
 
- 
+ 

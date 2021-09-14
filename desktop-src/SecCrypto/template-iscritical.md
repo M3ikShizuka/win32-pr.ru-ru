@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: c86d03d0ebefe8c5e5c553b95843fd81343578d152e8abb5a3bf16dc07138b5f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 66f9dc90828cd474497478872f154adbd3fcd12a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117972105"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146085"
 ---
 # <a name="templateiscritical-property"></a>Свойство Template. «Critical»
 
@@ -50,7 +50,7 @@ Template.IsCritical As Boolean
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

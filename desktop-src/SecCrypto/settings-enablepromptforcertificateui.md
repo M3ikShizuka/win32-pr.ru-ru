@@ -1,7 +1,7 @@
 ---
 description: Задает или получает логическое значение, указывающее, можно ли использовать пользовательский интерфейс для идентификации лица или удостоверения отправителя.
 ms.assetid: b9765de4-0b94-4006-aaa8-9ad6858da1f4
-title: Свойство Settings. Енаблепромптфорцертификатеуи
+title: Параметры. Енаблепромптфорцертификатеуи, свойство
 ms.topic: reference
 ms.date: 05/31/2018
 topic_type:
@@ -14,13 +14,13 @@ api_type:
 api_location:
 - Capicom.dll
 ms.openlocfilehash: e494c98e2a828b512b0bb66dc2a44cba8c37792c
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105688962"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146133"
 ---
-# <a name="settingsenablepromptforcertificateui-property"></a>Свойство Settings. Енаблепромптфорцертификатеуи
+# <a name="settingsenablepromptforcertificateui-property"></a>Параметры. Енаблепромптфорцертификатеуи, свойство
 
 \[Свойство **енаблепромптфорцертификатеуи** доступно для использования в операционных системах, указанных в разделе требования.\]
 

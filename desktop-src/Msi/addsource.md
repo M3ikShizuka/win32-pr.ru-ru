@@ -4,12 +4,12 @@ ms.assetid: 7bc38b49-72d8-4b0c-bd71-284a638e7860
 title: АДДСАУРЦЕ, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 420ca53a96ddeb379a7e021db2c45157861acfb62d066cadfc7a163db7fbc307
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fd51d6f86060def1a7536134a0041f1e15178a91
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120078164"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143045"
 ---
 # <a name="addsource-property"></a>АДДСАУРЦЕ, свойство
 
@@ -41,7 +41,7 @@ ms.locfileid: "120078164"
 
 Установщик задает для предварительно [**выбранных**](preselected.md) свойств значение "1" во время возобновления приостановленной установки или если в командной строке указано любое из указанных выше свойств.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

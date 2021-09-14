@@ -4,12 +4,12 @@ ms.assetid: a21fe766-58a5-4851-a282-883374287e18
 title: EC_QUALITY_CHANGE (DShow. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7a9c2b540a5740812050532d4d4e6e45fb334eaff9927148471aada09ab1a434
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e5752db30c8ad6ed85655948cf2adb9ef7ac8078
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120043364"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147709"
 ---
 # <a name="ec_quality_change"></a>\_изменение качества \_ EC
 
@@ -41,7 +41,7 @@ ms.locfileid: "120043364"
 
 Фильтр отправляет это событие, если оно удаляет образцы в ответ на сообщение контроля качества. Он отправляет событие только в том случае, если он корректирует уровень качества, а не для каждого из выдаваемых им примеров. Дополнительные сведения см. в разделе [Управление качеством](quality-control-management.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -51,7 +51,7 @@ ms.locfileid: "120043364"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

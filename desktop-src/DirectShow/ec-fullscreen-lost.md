@@ -4,12 +4,12 @@ ms.assetid: f720a9b6-930a-4ed7-9798-1c72fa7a11ff
 title: EC_FULLSCREEN_LOST (DShow. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ebf9384bec15969c904636f37db21ab19674bd2468542c2984ce80aa1773c3c6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cf36b5652ea5f7cde26950a18de086af0862dac7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120079134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147778"
 ---
 # <a name="ec_fullscreen_lost"></a>неполноэкранный режим EC \_ \_
 
@@ -41,7 +41,7 @@ ms.locfileid: "120079134"
 
 Когда модуль [подготовки отчетов к просмотру](full-screen-renderer-filter.md) теряет активацию, он отправляет это событие. Когда модуль подготовки видео переключается из полноэкранного режима, диспетчер графа фильтров отправляет это событие в ответ на событие [**\_ активации EC**](ec-activate.md) из модуля подготовки отчетов.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -51,7 +51,7 @@ ms.locfileid: "120079134"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 26eb4f99-a8dc-43a2-abb9-9577518b6f2f
 title: Общие функции эксперта и средства синтаксического анализа
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8317f95f48c25476c2378ba067a5b763b54cc50e7fbadcc54de22f9cd594f3da
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a6776260610c2decb0ecf91b6373d301937d899b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117982598"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127260411"
 ---
 # <a name="expert-and-parser-common-functions"></a>Общие функции эксперта и средства синтаксического анализа
 

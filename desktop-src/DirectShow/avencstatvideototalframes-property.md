@@ -4,12 +4,12 @@ ms.assetid: 3de49105-3c74-4a52-9cac-465b4abfcbf5
 title: Свойство Авенкстатвидеототалфрамес (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 461708e9006db183992cf550bf7f98eeaeacbfe16c100675ab4992b54f0768d2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d76adda51e6d16676a2a957fd16a5aac2a15691e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118663445"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127148270"
 ---
 # <a name="avencstatvideototalframes-property"></a>Авенкстатвидеототалфрамес, свойство
 
@@ -31,7 +31,7 @@ ms.locfileid: "118663445"
 
 Значением этого свойства является общее число кадров, отправленных кодировщику, включая пропущенные кадры. Чтобы получить количество закодированных кадров, прочитайте свойство [**авенкстатвидеокодедфрамес**](avencstatvideocodedframes-property.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -39,7 +39,7 @@ ms.locfileid: "118663445"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional приложения \[ UWP для классических приложений \|\]<br/>                     |
 | Минимальная версия сервера<br/> | \[приложения UWP для классических приложений Windows 2000 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
 
 
 

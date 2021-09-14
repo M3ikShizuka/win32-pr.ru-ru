@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 9783703d711800b8002aa0372292349d83620eafb097be2256ffde6ab2c91c09
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5e86e0bc0155e527aa11c26531ae5608e6828362
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118662370"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145161"
 ---
 # <a name="camthreadreply-method"></a>Камсреад. Reply, метод
 
@@ -57,7 +57,7 @@ void Reply(
 
 Метод Каллворкер блокируется до вызова этого метода. Параметр *DW* предоставляет возвращаемое значение для каллворкер. Вызовите этот метод в процедуре потока после получения запроса, чтобы освободить поток запроса.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

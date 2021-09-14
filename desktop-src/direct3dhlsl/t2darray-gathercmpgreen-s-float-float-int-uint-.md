@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 9fc731cb37080a415dddcc1dc0d8ac8c9753557dd700f5dea4d69f7ca94b4510
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e3c5962b74ccbbc58825bf2a8f621c220cd3b786
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118788690"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066149"
 ---
 # <a name="texture2darraygathercmpgreensfloatfloatintuint-function"></a>Функция Texture2DArray:: Гасеркмпгрин (S, float, float, int, uint)
 
@@ -102,7 +102,7 @@ TemplateType GatherCmpGreen(
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Службы вычислений |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | x      | x    | x      | x        | x     | x       |
 

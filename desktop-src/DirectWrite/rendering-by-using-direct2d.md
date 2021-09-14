@@ -4,12 +4,12 @@ description: Direct2D предоставляет методы для отрис�
 ms.assetid: 4acd1aee-98bf-4ca3-b4dc-b73c96c6ca63
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9ad297a8fdf2078c966989baf5e81c69cf515427340f8de8d073035fcf98f434
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 58af17e15bcb9bd52461a2da3110982fb04e4c0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120048484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057936"
 ---
 # <a name="render-using-direct2d"></a>Прорисовка с помощью Direct2D
 

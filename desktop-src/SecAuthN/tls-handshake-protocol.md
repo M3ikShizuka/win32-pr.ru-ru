@@ -4,12 +4,12 @@ ms.assetid: 65fb4db3-e505-457a-9159-dba0b506ea0b
 title: Протокол подтверждения TLS
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3fe32e11127bf46088aa04e58dd6444620cea327c08d2609e01749efcb1e00df
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e0c7cfa9e9db54a6035abe147ce00bbde59bcc86
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118915822"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146513"
 ---
 # <a name="tls-handshake-protocol"></a>Протокол подтверждения TLS
 

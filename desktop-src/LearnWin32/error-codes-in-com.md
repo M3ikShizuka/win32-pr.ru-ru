@@ -4,12 +4,12 @@ description: Коды ошибок в COM
 ms.assetid: ed430863-f416-4611-81b4-0c31d819944a
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e6dd61208c9ae825999ec0dec024a8cc492b81cae426b1cc4143d694034204d9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 733cbe0799a22b0f0c01ee9cb226ad7e0b8660da
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118388292"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144641"
 ---
 # <a name="error-codes-in-com"></a>Коды ошибок в COM
 
@@ -62,7 +62,7 @@ else
 
 Далее в этом модуле мы рассмотрим некоторые практические советы по структурированию кода для устранения ошибок COM. (См. раздел [Обработка ошибок в com](error-handling-in-com.md).)
 
-## <a name="next"></a>Следующая
+## <a name="next"></a>Следующий
 
 [Создание объекта в COM](creating-an-object-in-com.md)
 

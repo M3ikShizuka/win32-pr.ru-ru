@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 00496739c9e51b5a735bf57788cdc47be0c41e177201ef445f58ea3748fb062f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e07af832837aaeb77759816c08cf68d04e14c255
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120042204"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147542"
 ---
 # <a name="productmediadisks-property"></a>Свойство Product. Медиадискс
 
@@ -41,7 +41,7 @@ propVal = Product.MediaDisks
 
 В каждой записи первое поле содержит идентификатор диска, второе поле содержит метку тома, а третье поле содержит приглашение диска, зарегистрированное для диска.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -53,7 +53,7 @@ propVal = Product.MediaDisks
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

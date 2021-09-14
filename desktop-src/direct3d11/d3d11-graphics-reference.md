@@ -4,12 +4,12 @@ description: В этом разделе описывается API-интерф�
 ms.assetid: c6ec864b-4565-45af-a95f-d1ed1e70a316
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fa87c6c20870e0a385bf41ca739f19492098d1da1c500fe8948949b1fb3d2fe5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fd135a17ebf09a4e1db1d431a2f5b69cba624db4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118537218"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066431"
 ---
 # <a name="direct3d-11-reference"></a>Справочник по Direct3D 11
 

@@ -5,11 +5,11 @@ ms.assetid: 00d3f5f2-02c6-4ff4-82a9-0726ad4a8cb3
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 0dec5f3834bf1f10027da2a3f3a8e22acdee742b
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104411237"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145598"
 ---
 # <a name="how-to-create-a-reference-device"></a>Как создать эталонное устройство
 
@@ -76,7 +76,7 @@ ms.locfileid: "104411237"
 
 Сведения об ограничениях, касающихся создания устройства-образца на определенных уровнях компонентов, см. в разделе [ограничения на создание искривленных и ссылочных устройств](overviews-direct3d-11-devices-limitations.md). [Использование Direct3D 11](how-to-use-direct3d-11.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -86,9 +86,9 @@ ms.locfileid: "104411237"
 [Использование Direct3D 11](how-to-use-direct3d-11.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

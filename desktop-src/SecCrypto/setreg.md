@@ -4,12 +4,12 @@ ms.assetid: 6c456a59-ee6c-420d-b075-7de8bd2fd8ff
 title: SetReg
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5267aa140cad713e550ddf8afd0281d489bdd90ac0b26a7f7a4781240ecac24c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 05da29d3eddf7e04ba5bd735e1032f388d9d204a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118900304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146158"
 ---
 # <a name="setreg"></a>SetReg
 

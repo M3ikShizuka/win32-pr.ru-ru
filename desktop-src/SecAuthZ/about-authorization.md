@@ -4,12 +4,12 @@ ms.assetid: 7c10f0cf-fdaf-41c4-ab0c-fc572a8337ed
 title: Об авторизации
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 844c7f96e72d4c80f31c5bc517f17a1bb0cedf976b520d4686155792619f043d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: eaf0376a0e4fb85ab8b14d6df884497fc1c15d0e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117785684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146398"
 ---
 # <a name="about-authorization"></a>Об авторизации
 
