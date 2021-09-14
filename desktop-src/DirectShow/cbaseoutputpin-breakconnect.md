@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 9ae03edb843a2b9c6f1cbc98a46c2464de0e76e2eecf5d77bc309efa2dd60fd6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 746783a73892bc34273da4b020446f2668a19cd9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119793224"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261544"
 ---
 # <a name="cbaseoutputpinbreakconnect-method"></a>Кбасеаутпутпин. Бреакконнект, метод
 
@@ -50,7 +50,7 @@ HRESULT BreakConnect();
 
 При переопределении этого метода вызовите метод базового класса из переопределяющего метода. В противном случае могут возникнуть утечки памяти.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ HRESULT BreakConnect();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

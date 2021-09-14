@@ -6,12 +6,12 @@ keywords:
 - Bluetooth, ссылки, функции
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 79e8d945355b0bc25df4d91a96c30a4d20491eb3b0e86c3542e30c0f2b470833
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ad5343f0d609185f3bb472570b8454931fc6a18b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119701414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261880"
 ---
 # <a name="bluetooth-functions"></a>Bluetooth Функции
 

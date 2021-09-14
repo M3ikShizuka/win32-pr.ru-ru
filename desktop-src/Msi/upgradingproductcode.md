@@ -4,18 +4,18 @@ ms.assetid: 903e4c22-e7ae-47bd-989b-d8c922de8d1a
 title: УПГРАДИНГПРОДУКТКОДЕ, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b4f5b0096878d06c4eb3880ab8d965265b04114bcf4e3d732d8243bb4fb02cc4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b7a256ade7f03275752ad4d176e64cd9d0fa12ae
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119809514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067750"
 ---
 # <a name="upgradingproductcode-property"></a>УПГРАДИНГПРОДУКТКОДЕ, свойство
 
 свойство **упградингпродукткоде** задается установщик Windows, когда обновление удаляет приложение. Установщик задает это свойство при выполнении [действия RemoveExistingProducts](removeexistingproducts-action.md). Это свойство не задается путем удаления приложения с помощью компонента "Установка и удаление программ" панели управления. Приложение определяет, будет ли оно удалено обновлением или компонентом Установка и удаление программ путем проверки **упградингпродукткоде**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

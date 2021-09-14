@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: b320ce72271bb7ee90ac85a376b103d868e6f740a2e853daf58bb478dc79ad6d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 355e7f4e64a5cb69ffc0371473cb0db1ac6313a7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118142160"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065542"
 ---
 # <a name="installerusefeature-method"></a>Метод Installer. Усефеатуре
 
@@ -70,7 +70,7 @@ Installer.UseFeature(
 
 Метод **усефеатуре** следует использовать только в тех функциях, которые опубликованы. Приложение должно определить состояние компонента, вызвав свойство [**феатурестате**](installer-featurestate.md) или [**функции**](installer-features.md) или их эквиваленты API.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -82,7 +82,7 @@ Installer.UseFeature(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

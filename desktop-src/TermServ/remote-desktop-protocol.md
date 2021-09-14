@@ -8,12 +8,12 @@ keywords:
 - RDP (см. протокол удаленного рабочего стола)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3a322e90bd036533e357925607fac6a78c364eababad5f353b4d53dfa51df735
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7895163a5ee92a6cc756dca9b097db8498d02e70
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117756175"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374681"
 ---
 # <a name="remote-desktop-protocol"></a>Протокол удаленного рабочего стола
 
@@ -32,7 +32,7 @@ ms.locfileid: "117756175"
 
 В удаленный рабочий стол сеансе все переменные среды, например переменные, определяющие глубину цвета и фоновый рисунок, определяются параметрами подключения RCP-Tcp. Это относится ко всем функциям и методам, которые задают переменные среды в [справочнике по веб-подключение к удаленному рабочему столу](remote-desktop-web-connection-reference.md) и [интерфейсе поставщика WMI службы удаленных рабочих столов](terminal-services-wmi-provider-reference.md).
 
-## <a name="features"></a>Функции
+## <a name="features"></a>Компоненты
 
 Microsoft RDP включает следующие функции и возможности:
 

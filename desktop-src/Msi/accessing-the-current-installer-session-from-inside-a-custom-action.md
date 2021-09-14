@@ -4,12 +4,12 @@ ms.assetid: cf70b0b3-ac81-47ab-a4c8-4db53ed9dc84
 title: Доступ к текущему сеансу установщика из пользовательского действия
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c3ee3214b8f8664b57f5216b28a7f5d5269d76049fe5c4dd24f7ab8d130d89a0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 29a870247f70742d408c0f5d1d0e67f20cef65d3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118640193"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143154"
 ---
 # <a name="accessing-the-current-installer-session-from-inside-a-custom-action"></a>Доступ к текущему сеансу установщика из пользовательского действия
 
@@ -30,7 +30,7 @@ UINT __stdcall CustomAction(MSIHANDLE hInstall)
 
 Для доступа только для чтения к текущей базе данных получите маркер базы данных путем вызова [**метод msigetactivedatabase**](/windows/desktop/api/Msiquery/nf-msiquery-msigetactivedatabase). Дополнительные сведения см. [в разделе Получение маркера базы данных](obtaining-a-database-handle.md).
 
-[Создание и запуск скриптов PowerShell из консоли Configuration Manager](scripts.md)
+[Scripts](scripts.md)
 
 настраиваемые действия, написанные на языке VBScript или JScript, могут получать доступ к текущему сеансу установки с помощью [**объекта session**](session-object.md). Установщик создает объект **сеанса** с именем Session, который ссылается на текущую установку. Для доступа только для чтения к текущей базе данных используйте свойство [**Database**](session-database.md) объекта **Session** .
 

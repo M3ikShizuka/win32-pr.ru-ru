@@ -6,12 +6,12 @@ keywords:
 - Язык MIDL MIDL, задачи, создание прокси-библиотеки DLL и библиотеки типов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 92e7bf2694b791007b0f1da303525217cf55d75d574e083c6d1756bc2784d0ef
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a81001bba7aeff416e765291d3e6660b705919a0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118384240"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143818"
 ---
 # <a name="generating-a-proxy-dll-and-a-type-library-from-a-single-idl-file"></a>Создание прокси-библиотеки DLL и библиотеки типов из одного файла IDL
 

@@ -4,12 +4,12 @@ ms.assetid: 277b875f-37f1-4f4d-98ae-7a18131de4f0
 title: Тип настраиваемого действия 1
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3437fcd8a9a0da84ecb03f2527d30b6644210b2feb2ccc6c5f6558c3667a0d9b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f72efd083b2cd547ff1dbd7f3bc81a617b5da88e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120044904"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142089"
 ---
 # <a name="custom-action-type-1"></a>Тип настраиваемого действия 1
 
@@ -35,7 +35,7 @@ ms.locfileid: "120044904"
 
  
 
-## <a name="target"></a>Целевой объект
+## <a name="target"></a>Назначение
 
 Библиотека DLL вызывается через точку входа с именем в поле Target [таблицы CustomAction](customaction-table.md), передавая один аргумент, который является обработчиком текущего сеанса установки. Имя точки входа, указанное в таблице, должно совпадать с именем, экспортированным из библиотеки DLL. Обратите внимание, что если функция записи не указана с помощью. DEF-файл или спецификация "/EXPORT: компоновщик" имя может содержать символ подчеркивания в начале и @4 суффикс "". Вызываемая функция должна задавать \_ \_ соглашение о вызовах STDCALL.
 

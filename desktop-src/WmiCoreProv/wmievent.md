@@ -16,11 +16,11 @@ api_type:
 api_location:
 - WmiProv.dll
 ms.openlocfilehash: 99f6804ef1dad4f37bd2727da2e91e801fb0ece2
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104081354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066557"
 ---
 # <a name="wmievent-class"></a>Класс WMIEvent
 
@@ -39,13 +39,13 @@ class WMIEvent : __ExtrinsicEvent
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **WMIEvent** имеет следующие типы членов:
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **WMIEvent** имеет следующие свойства.
 
@@ -79,7 +79,7 @@ class WMIEvent : __ExtrinsicEvent
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **WMIEvent** является производным от [**\_ \_ екстринсицевент**](/windows/desktop/WmiSdk/--extrinsicevent).
 
@@ -90,7 +90,7 @@ class WMIEvent : __ExtrinsicEvent
 | Требование | Значение |
 |-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                                                                              |
-| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                                                                                        |
+| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                                                                                        |
 | Пространство имен<br/>                | Корневой \\ инструментарий WMI<br/>                                                                                                                                  |
 | MOF<br/>                      | <dl> <dt>WMI. mof; </dt> <dt>Вмикоре. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>WmiProv.dll</dt> </dl>                                                                |

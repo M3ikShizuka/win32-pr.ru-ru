@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: b8621c1977c4553f610299695c2c68a72f5a9d6f2ecfcbe6df46b8646c379c2e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1572919d0ac0b5c18a6fc5084636c52b9b3ea1c6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118958962"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065800"
 ---
 # <a name="setsecuritydescriptor-method-of-the-win32_printer-class"></a>Метод Сетсекуритидескриптор \_ класса принтера Win32
 

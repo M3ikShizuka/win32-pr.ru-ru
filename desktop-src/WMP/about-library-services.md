@@ -21,12 +21,12 @@ keywords:
 - интерфейсы, службы библиотек
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5dc6f073fa4c361f114589e080145a3cb3bb0a8c78736ba2dd1464332a7f7adc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 743efc8ae5cb464aa38655314c52112bc9541de6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120004518"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264848"
 ---
 # <a name="about-library-services"></a>Сведения о службах библиотек
 

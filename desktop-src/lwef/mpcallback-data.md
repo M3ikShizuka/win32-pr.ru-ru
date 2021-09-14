@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1d1eb129101c341485a1e6b5763a0325cbf586a6e51e5e2875b4465696c39df8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9741ca479eeb9770a3ae8c2aedbc51a8a2643033
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117883656"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269475"
 ---
 # <a name="mpcallback_data-structure"></a>\_Структура данных мпкаллбакк
 
@@ -57,7 +57,7 @@ typedef struct tagMPCALLBACK_DATA {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -94,7 +94,7 @@ typedef struct tagMPCALLBACK_DATA {
 
 </dd> <dt>
 
-**Type**
+**Тип**
 </dt> <dd>
 
 Тип: **[ **мпкаллбакк \_ тип**](mpcallback-type.md)**
@@ -105,7 +105,7 @@ typedef struct tagMPCALLBACK_DATA {
 
 </dd> <dt>
 
-**Данные**
+**Data**
 </dt> <dd>
 
 Специальные данные обратного вызова. Указатель на соответствующую структуру зависит от значения **типа**.
@@ -277,7 +277,7 @@ typedef struct tagMPCALLBACK_DATA {
 
 </dd> </dl> </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -285,7 +285,7 @@ typedef struct tagMPCALLBACK_DATA {
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                            |
 | Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Мпклиент. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мпклиент. h</dt> </dl> |
 
 
 

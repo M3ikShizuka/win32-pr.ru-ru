@@ -4,12 +4,12 @@ description: Вы можете изменить указанный постав�
 ms.assetid: b499e40e-d38f-4e51-bbce-41af3ff12a7e
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 413d7654096b2a7eda74d28b019cac73afe1d0eb182d48d9c0eda601dd2c87c6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 14a5334436ce307030048a862f1375a91000b41e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118931609"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127265552"
 ---
 # <a name="configuring-the-microsoft-locator-name-service-provider"></a>Настройка поставщика службы имен локатора Майкрософт
 
@@ -33,7 +33,7 @@ ms.locfileid: "118931609"
 
      
 
-3.  Сохраните и закройте файл.
+3.  Сохраните файл и закройте его.
 
  
 

@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Настройка безопасности пространства имен с помощью элемента управления WMI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f97971e09897f8fa744f72d5ad0da59dc2292ebe7ceb88f6500e3c30e124db0e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3f8e8b6ed7c45b6b0d107f7f4e4b92f31f504900
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118992354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066520"
 ---
 # <a name="setting-namespace-security-with-the-wmi-control"></a>Настройка безопасности пространства имен с помощью элемента управления WMI
 

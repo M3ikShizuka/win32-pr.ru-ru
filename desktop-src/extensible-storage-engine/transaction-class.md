@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 9221f4bd980f5b9acc9ac4907de759f56054a988786ba6af55ff08eda64e7a65
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e155b8b11876c08574882e7c421088a82186b5c5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119356504"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269624"
 ---
 # <a name="transaction-class"></a>класс Transaction
 

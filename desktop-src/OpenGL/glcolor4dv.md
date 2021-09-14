@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d52339a43c844a01f3b07279b083afa423ede85748eb8f01d12085db9d9f5144
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: baea3d5ea38551a6bf2140bbf64e29e2bd66f33b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119061852"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146873"
 ---
 # <a name="glcolor4dv-function"></a>Функция glColor4dv
 
@@ -61,7 +61,7 @@ void WINAPI glColor3dv(
 
 Ни одно из целочисленных значений с плавающей запятой и со знаком не передается в диапазон \[ 0, 1 \] до обновления текущего цвета. Однако компоненты цвета отправляются в этот диапазон до того, как они интерполируются или записаны в буфер цвета.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -75,7 +75,7 @@ void WINAPI glColor3dv(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c7c20051451d95b4c93b3ca23120acec9302aa5bc2bf1362cad818c993d1105d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8e6746eaa9d6a7c3cfd82512a4b9f632c873bc9f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120009214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374556"
 ---
 # <a name="removeusergroupnames-method-of-the-win32_tsgatewayresourceauthorizationpolicy-class"></a>Метод Ремовеусерграупнамес \_ класса Win32 тсгатевайресаурцеаусоризатионполици
 

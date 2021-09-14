@@ -4,12 +4,12 @@ ms.assetid: fbcf1fdc-5aef-4431-93fe-3ed02748b5ff
 title: Действие Инсталлодбк
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a371aed67ec412c46946d7df7fd4775f0a0d4e20d91cbb60d69f894371f203ed
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e5ac9becd2a528646805f4201cfb415a6bc61bd8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118142228"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065498"
 ---
 # <a name="installodbc-action"></a>Действие Инсталлодбк
 

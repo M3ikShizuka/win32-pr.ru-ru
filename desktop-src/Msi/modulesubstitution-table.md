@@ -4,12 +4,12 @@ ms.assetid: 8e94c31f-b3a7-4f3a-aec4-32b0e1dd5400
 title: Таблица Модулесубститутион
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a66fbbb0898a254b181d02eca78f33709f8c0e037de140a37893ea3887af6390
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2e27789f723af87e228bada91b79a16d7dc4d2d4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118628594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261128"
 ---
 # <a name="modulesubstitution-table"></a>Таблица Модулесубститутион
 
@@ -31,10 +31,10 @@ ms.locfileid: "118628594"
 
 | Столбец | Type                         | Ключ | Допускает значения NULL |
 |--------|------------------------------|-----|----------|
-| Таблица  | [Идентификатор](identifier.md) | Д   | Нет        |
-| Строка    | [Text](text.md)             | Д   | Нет        |
-| Столбец | [Идентификатор](identifier.md) | Д   | Нет        |
-| Значение  | [Text](text.md)             | Нет   | Д        |
+| Таблица  | [Идентификатор](identifier.md) | Да   | Нет        |
+| Строка    | [Text](text.md)             | Да   | Нет        |
+| Столбец | [Идентификатор](identifier.md) | Да   | Нет        |
+| Значение  | [Text](text.md)             | Нет   | Да        |
 
 
 

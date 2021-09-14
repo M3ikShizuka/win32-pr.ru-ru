@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Mergemod.dll
-ms.openlocfilehash: fa0ade829cff2359e074a4c2faf9942e94aa5e063f0cce841a5a0f0a84a5f3e6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4436be457adcca37ba40f15bbe0ecd6b0445fb2f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118143733"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142257"
 ---
 # <a name="configurableitem-object"></a>Объект Конфигураблеитем
 
@@ -37,7 +37,7 @@ ms.locfileid: "118143733"
 
 
 
-| Свойство                                                         | Описание                                                                                                                               |
+| Свойство.                                                         | Описание                                                                                                                               |
 |:-----------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------|
 | [**Атрибуты**](configurableitem-attributes.md)<br/>     | Возвращает значение в поле Attributes записи этого объекта в таблице Модулеконфигуратион.<br/>                            |
 | [**Локального**](configurableitem-context.md)<br/>           | Возвращает значение в поле контекста записи этого объекта в таблице Модулеконфигуратион.<br/>                               |
@@ -47,7 +47,7 @@ ms.locfileid: "118143733"
 | [**Формат**](configurableitem-format.md)<br/>             | Возвращает значение в поле Format записи этого объекта в таблице Модулеконфигуратион.<br/>                                |
 | [**Данным**](configurableitem-helpkeyword.md)<br/>   | Возвращает значение в поле HelpKeyword записи этого объекта в таблице Модулеконфигуратион.<br/>                           |
 | [**HelpLocation**](configurableitem-helplocation.md)<br/> | Возвращает значение в поле HelpLocation записи этого объекта в таблице Модулеконфигуратион.<br/>                          |
-| [**Имя**](configurableitem-name.md)<br/>                 | Возвращает значение в поле Name записи этого объекта в [таблице модулеконфигуратион](moduleconfiguration-table.md).<br/> |
+| [**Безымян**](configurableitem-name.md)<br/>                 | Возвращает значение в поле Name записи этого объекта в [таблице модулеконфигуратион](moduleconfiguration-table.md).<br/> |
 | [**Тип**](configurableitem-type.md)<br/>                 | Возвращает значение в поле Type записи этого объекта в таблице Модулеконфигуратион.<br/>                                  |
 
 
@@ -70,7 +70,7 @@ ms.locfileid: "118143733"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

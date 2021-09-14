@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: da10c37bdebcf59fc6a19581dd5bd35f0b751349d447e05524e8c806e410b9a3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8a7431d1a6f41a6f87bb34fe1486c203168f2c3e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120124864"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066777"
 ---
 # <a name="iremotedesktopclienteventsonremotedesktopsizechanged-method"></a>Метод Иремотедесктопклиентевентс:: Онремотедесктопсизечанжед
 
@@ -61,14 +61,14 @@ void OnRemoteDesktopSizeChanged(
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8<br/>                                                                           |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                                 |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                                 |
 | Библиотека типов<br/>             | <dl> <dt>MsTscAx.dll</dt> </dl>         |
 | DLL<br/>                      | <dl> <dt>MsTscAx.dll</dt> </dl>         |
 | IID<br/>                      | ДИИД \_ иремотедесктопклиентевентс определяется как 079863B7-6D47-4105-8BFE-0CDCB360E67D<br/> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

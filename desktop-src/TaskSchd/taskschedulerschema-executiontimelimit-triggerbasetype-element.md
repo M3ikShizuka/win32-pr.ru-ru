@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 6e958c6a2b873bb78e66645ce2a2ae8100e2acbc
-ms.sourcegitcommit: 0dec0044816af3f2b2e6403659e1cf11138c90cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121812525"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127259376"
 ---
 # <a name="executiontimelimit-triggerbasetype-element"></a>Ексекутионтимелимит (Тригжербасетипе), элемент
 
@@ -50,11 +50,11 @@ ms.locfileid: "121812525"
 
 ## <a name="remarks"></a>Remarks
 
-Для разработки сценариев ограничение времени выполнения указывается с помощью свойства [**Trigger.Exeкутионтимелимит**](trigger-executiontimelimit.md) , наследуемого всеми объектами триггера.
+Для разработки сценариев ограничение времени выполнения указывается с помощью свойства [**Trigger. ексекутионтимелимит**](trigger-executiontimelimit.md) , наследуемого всеми объектами триггера.
 
 Для разработки на C++ ограничение времени выполнения задается с помощью свойства [**итригжер:: ексекутионтимелимит**](/windows/desktop/api/taskschd/nf-taskschd-itrigger-get_executiontimelimit) , наследуемого всеми интерфейсами триггера.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -65,7 +65,7 @@ ms.locfileid: "121812525"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

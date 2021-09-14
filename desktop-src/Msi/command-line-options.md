@@ -3,13 +3,13 @@ description: параметры командной строки для msiexec.e
 ms.assetid: a70d8cc8-af47-4472-aabc-97481d97080d
 title: Параметры командной строки
 ms.topic: article
-ms.date: 05/31/2018
-ms.openlocfilehash: d4a45d59922a6c2c1d6cd0b5f8cd61b393944e23
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.date: 09/10/2021
+ms.openlocfilehash: 164947ce7baee8df69758be70ab03d9630a3bdd0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122880631"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142426"
 ---
 # <a name="command-line-options"></a>Параметры командной строки
 
@@ -96,12 +96,12 @@ ms.locfileid: "122880631"
 <tr class="odd">
 <td><strong>/y</strong></td>
 <td><em>модуль</em></td>
-<td>Вызывает системную функцию <strong>DllRegisterServer</strong> для самостоятельной регистрации модулей, переданных в командной строке. Укажите полный путь к библиотеке DLL. Например, для MY_FILE.DLL в текущей папке можно использовать:<br/> <strong>msiexec/y .\MY_FILE.DLL</strong><br/> Этот параметр используется только для данных реестра, которые не могут быть добавлены с помощью таблиц реестра файла .msi.<br/></td>
+<td>Вызывает системную функцию <strong>DllRegisterServer</strong> для самостоятельной регистрации модулей, переданных в командной строке. Укажите полный путь к библиотеке DLL. Например, для MY_FILE.DLL в текущей папке можно использовать:<br/> <strong>msiexec/y. \MY_FILE.DLL</strong><br/> Этот параметр используется только для данных реестра, которые не могут быть добавлены с помощью таблиц реестра файла .msi.<br/></td>
 </tr>
 <tr class="even">
 <td><strong>/z</strong></td>
 <td><em>модуль</em></td>
-<td>Вызывает системную функцию <strong>DllUnRegisterServer</strong> для отмены регистрации модулей, переданных в командной строке. Укажите полный путь к библиотеке DLL. Например, для MY_FILE.DLL в текущей папке можно использовать: <br/> <strong>msiexec/z .\MY_FILE.DLL</strong><br/> Этот параметр используется только для данных реестра, которые не могут быть удалены с помощью таблиц реестра файла .msi.<br/></td>
+<td>Вызывает системную функцию <strong>DllUnRegisterServer</strong> для отмены регистрации модулей, переданных в командной строке. Укажите полный путь к библиотеке DLL. Например, для MY_FILE.DLL в текущей папке можно использовать: <br/> <strong>msiexec/z. \MY_FILE.DLL</strong><br/> Этот параметр используется только для данных реестра, которые не могут быть удалены с помощью таблиц реестра файла .msi.<br/></td>
 </tr>
 <tr class="odd">
 <td><strong>/c</strong></td>

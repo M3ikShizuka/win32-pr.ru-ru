@@ -4,12 +4,12 @@ ms.assetid: f36238dc-2152-4faf-835e-1027ef1af73b
 title: Свойство Авенквидеуутпутскантипе (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 31b2e5912b67a88249389987c5ac7e6796f611160d483527cdbb9e4165636180
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 908936c3277c429f7216c930b648083744793530
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119540584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127148133"
 ---
 # <a name="avencvideooutputscantype-property"></a>Авенквидеуутпутскантипе, свойство
 
@@ -29,7 +29,7 @@ ms.locfileid: "119540584"
 
 Значение этого свойства является членом перечисления [**еавенквидеуутпутскантипе**](/windows/win32/api/codecapi/ne-codecapi-eavencvideooutputscantype) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "119540584"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

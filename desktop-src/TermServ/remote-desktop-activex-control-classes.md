@@ -1,20 +1,20 @@
 ---
-title: удаленный рабочий стол классов элементов управления ActiveX
-description: Следующие классы реализуют удаленный рабочий стол элемент управления ActiveX.
+title: удаленный рабочий стол классы элементов управления ActiveX
+description: следующие классы реализуют элемент управления удаленный рабочий стол ActiveX.
 ms.assetid: 5680DFB3-63EC-4F34-B1A6-08E1521A1827
 ms.tgt_platform: multiple
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: fe04f54a377799ede752c0f7868f822faed044a1
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104252867"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374717"
 ---
-# <a name="remote-desktop-activex-control-classes"></a>удаленный рабочий стол классов элементов управления ActiveX
+# <a name="remote-desktop-activex-control-classes"></a>удаленный рабочий стол классы элементов управления ActiveX
 
-Следующие классы реализуют удаленный рабочий стол элемент управления ActiveX.
+следующие классы реализуют элемент управления удаленный рабочий стол ActiveX.
 
 ## <a name="in-this-section"></a>Содержание раздела
 
@@ -198,13 +198,13 @@ ms.locfileid: "104252867"
 [**ремотедесктопклиент**](remotedesktopclient.md)
 </dt> <dd>
 
-Реализует клиентский элемент управления для приложения Магазина Microsoft Windows удаленный рабочий стол версии 1
+реализует приложение Microsoft Windows Store для удаленный рабочий стол клиентского элемента управления — версия 1
 
 </dd> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

@@ -21,11 +21,11 @@ api_location:
 - ESENT.DLL
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: d63cd0ed883862b727379b6fed3574d26f444eaf
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122984517"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263571"
 ---
 # <a name="jetinit3-function"></a>Функция JetInit3
 
@@ -78,7 +78,7 @@ _**Применимо к:** Windows | Windows Сервером_
 Эта функция возвращает [JET_ERR](./jet-err.md) тип данных с одним из следующих кодов возврата. дополнительные сведения о служба хранилища возможных ошибках ESE см. в разделе [ошибки расширяемых](./extensible-storage-engine-errors.md) подсистемы служба хранилища и [параметры обработки ошибок](./error-handling-parameters.md).
 
 
-#### <a name="remarks"></a>Комментарии
+#### <a name="remarks"></a>Remarks
 
 Экземпляр должен быть инициализирован вызовом функции **JetInit3** до того, как он может использоваться любым другим, кроме функции [жетсетсистемпараметер](./jetsetsystemparameter-function.md) .
 
@@ -95,7 +95,7 @@ _**Применимо к:** Windows | Windows Сервером_
 #### <a name="requirements"></a>Требования
 
 
-| Требование | Применение |
+| Требование | Значение |
 |------------|----------|
 | <p>Клиент</p> | <p>требуется Windows Vista.</p> | 
 | <p>Сервер</p> | <p>требуется Windows Server 2008.</p> | 

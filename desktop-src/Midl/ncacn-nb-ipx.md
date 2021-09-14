@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3c8be67485d86a6094e2a41c01d5e0cf78cdabe5e251a3ab9ae046a47ed05d6d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 156b5c460c4cc8638640e7eb3500ec9a7a9fa0b0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118642228"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143618"
 ---
 # <a name="ncacn_nb_ipx-attribute"></a>\_ \_ атрибут IPX нкакн NetBIOS
 

@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: d461dd4e1ac6601b9d088b517ac0592f828782b9e48be2b5d08acd25657d7f48
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1d885c8c8e92ea661e06b46f338924355438ff9a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119699604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058146"
 ---
 # <a name="win32_implementedcategory-class"></a>\_Класс Win32 имплементедкатегори
 
@@ -40,7 +40,7 @@ class Win32_ImplementedCategory
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ имплементедкатегори** имеет следующие типы членов:
 
@@ -84,7 +84,7 @@ class Win32_ImplementedCategory
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -98,7 +98,7 @@ class Win32_ImplementedCategory
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: 34149fae8ac273565f98c3f39adb31b61b406ade
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "103791953"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374384"
 ---
 # <a name="event-schema-elements"></a>Элементы схемы событий
 
@@ -35,7 +35,7 @@ ms.locfileid: "103791953"
 | [**Датаитемнаме (Процессинжеррордататипе)**](eventschema-dataitemname-processingerrordatatype-element.md) | Содержит имя элемента данных события, вызвавшего ошибку при обработке данных события.<br/>                                                                                            |
 | [**Данные (Комплексдататипе)**](eventschema-data-complexdatatype-element.md)                                 | Список элементов данных в структуре. Список элементов находится в том же порядке, что и определено в шаблоне.<br/>                                                                                |
 | [**Данные (Евентдататипе)**](eventschema-data-eventdatatype-element.md)                                     | Элемент данных верхнего уровня, определенный в шаблоне для события.<br/>                                                                                                                        |
-| [**Дебугдата (EventType)**](eventschema-debugdata-eventtype-element.md)                                   | Содержит данные, которые могут быть зарегистрированы для событий препроцессора трассировки программного обеспечения Windows (WPP).<br/>                                                                                                  |
+| [**Дебугдата (EventType)**](eventschema-debugdata-eventtype-element.md)                                   | содержит данные, которые могут быть зарегистрированы для Windows событий препроцессора (WPP) трассировки программного обеспечения.<br/>                                                                                                  |
 | [**Код ошибки (Процессинжеррордататипе)**](eventschema-errorcode-processingerrordatatype-element.md)       | Содержит код ошибки, который был вызван, когда произошла ошибка при обработке данных события. <br/>                                                                                                     |
 | [**Событие**](eventschema-event-element.md)                                                                 | Это корневой узел данных соформируемого события.<br/>                                                                                                                                           |
 | [**EventData (EventType)**](eventschema-eventdata-eventtype-element.md)                                   | Содержит данные о событии.<br/>                                                                                                                                                                    |

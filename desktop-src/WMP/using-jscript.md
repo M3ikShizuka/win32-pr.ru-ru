@@ -10,12 +10,12 @@ keywords:
 - Написание кода для обложек, JScript
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f4b642a1af7a4634e04947ee57894886fe9a6899205669f002c18da788630fa0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5bf6b031d4a0828138e6c67767918a339b5df243
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118830822"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374288"
 ---
 # <a name="using-jscript"></a>Использование JScript
 

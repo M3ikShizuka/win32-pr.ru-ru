@@ -6,12 +6,12 @@ keywords:
 - Удаленный вызов процедур RPC, рекомендации, написание безопасного клиента или сервера
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b752d8dab216691105e428833c83bce28b974f121ddcc77861fbb6671d72dd22
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ac006f82a0db8abcd7184b2453a970521004145b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119010392"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067288"
 ---
 # <a name="writing-a-secure-rpc-client-or-server"></a>Создание безопасного клиента или сервера RPC
 

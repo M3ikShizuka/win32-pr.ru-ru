@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 450f15d2dd6b26d26b93cc9dfb844de41db446c1941a1bbb6a0703a330de6b70
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3549e02b99b70f0704cd716410123dd732b1e518
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118766208"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065977"
 ---
 # <a name="jet_dbinfomisclgposconsistent-property"></a>Свойство JET_DBINFOMISC. Лгпосконсистент
 

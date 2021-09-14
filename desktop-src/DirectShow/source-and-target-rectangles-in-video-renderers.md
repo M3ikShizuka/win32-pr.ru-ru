@@ -4,12 +4,12 @@ ms.assetid: fdddbffb-c44f-4364-9e2e-b721ba39c74f
 title: Исходные и целевые прямоугольники в модулях подготовки видео
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 020be0786a071c6bbdf33649405517ed3788789268052b61ee89d97a23f357f4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 556aea6aad22e5ea6df61c74ed0a46d2e3984d67
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119072548"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127275155"
 ---
 # <a name="source-and-target-rectangles-in-video-renderers"></a>Исходные и целевые прямоугольники в модулях подготовки видео
 

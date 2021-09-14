@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: b0f9ba435d5c413ea152c2bc9b492486ccc1be94
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "103890541"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144033"
 ---
 # <a name="array-and-sized-pointer-attributes"></a>Атрибуты массива и Sized-Pointer
 
@@ -31,7 +31,7 @@ MIDL предоставляет широкий набор функций для 
 
 
 
- 
+ 
 
 MIDL поддерживает три вида указателей: ссылочные указатели, уникальные указатели и полные указатели. Эти указатели указываются атрибутами указателей [**ref**](ref.md), [**UNIQUE**](unique.md)и [**ptr**](ptr.md).
 
@@ -67,6 +67,6 @@ MIDL поддерживает три вида указателей: ссылоч
 
 Обсуждение использования массивов и указателей MIDL в удаленных вызовах процедур см. в разделе [массивы и указатели](/windows/desktop/Rpc/arrays-and-pointers).
 
- 
+ 
 
- 
+ 

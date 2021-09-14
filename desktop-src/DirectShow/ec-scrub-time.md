@@ -4,12 +4,12 @@ ms.assetid: 2c2ef8b8-7bee-4cd8-ad87-b48d6a48aa0e
 title: EC_SCRUB_TIME (DShow. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3d4d3cc09d286f6955dda30aeb77288b75e90e8c66777a5f9f16246507f64b45
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 530362520f8e80ef06a769383f82dee1d60d66c2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119686094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147697"
 ---
 # <a name="ec_scrub_time"></a>\_время очистки \_ EC
 
@@ -41,7 +41,7 @@ ms.locfileid: "119686094"
 
 Выступающий для фильтра " [**Улучшенный обработчик видео**](enhanced-video-renderer-filter.md) " (Евр) отправляет это сообщение в Евр при завершении шага кадра.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -51,7 +51,7 @@ ms.locfileid: "119686094"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

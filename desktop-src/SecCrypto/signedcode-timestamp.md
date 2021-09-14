@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Capicom.dll
 ms.openlocfilehash: 1b0f4478e4ece5188a96257a8a1dcc9722caa140
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105688797"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146122"
 ---
 # <a name="signedcodetimestamp-method"></a>Сигнедкоде. timestamp, метод
 
@@ -52,7 +52,7 @@ SignedCode.Timestamp( _
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Отметка времени расширяет допустимость сертификата, проверяя, подписан ли исполняемый файл на время отметки времени.
 

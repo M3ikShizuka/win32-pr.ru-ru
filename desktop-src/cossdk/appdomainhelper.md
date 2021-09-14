@@ -11,12 +11,12 @@ api_name:
 - AppDomainHelper
 api_type:
 - COM
-ms.openlocfilehash: bab1ade7d97d3e911dbe0dc56cff69c5308d7d5e44baadb4641829c5f5a9d806
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6b4fbedbca631ec49dc2e416d939abdeb239e5b8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117917558"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066485"
 ---
 # <a name="appdomainhelper-class"></a>Класс Аппдомаинхелпер
 
@@ -60,7 +60,7 @@ ms.locfileid: "117917558"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

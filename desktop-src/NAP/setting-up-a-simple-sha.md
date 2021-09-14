@@ -4,12 +4,12 @@ description: В следующем примере настраивается п�
 ms.assetid: 7c96e1ca-f9b2-40e6-bd89-c8ef77b48dfa
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 94625e99f604fd282a5b1177992f6e9e413b30d35f61767ad7231315dddfab53
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ef60b7ab9e390289a9bc1a2c3a00dd81ccf46240
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119780744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147138"
 ---
 # <a name="setting-up-a-simple-sha"></a>Настройка простого SHA
 

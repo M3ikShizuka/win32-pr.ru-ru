@@ -10,12 +10,12 @@ keywords:
 - Расширенные API клиента, идентификаторы типов отзыва
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 379a9d8dcdfb05357825dc7fb094e865a17f5158c046756ad852ffa8c8f16e3c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d64790eaa58df2cde3cd09abaeb1c2eb7dd03a3e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119084481"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127262123"
 ---
 # <a name="revocation-type-identifiers"></a>Идентификаторы типов отзыва
 
@@ -40,7 +40,7 @@ ms.locfileid: "119084481"
 
 <dl> <dt>
 
-[**Постоянным**](constants.md)
+[**Константы**](constants.md)
 </dt> </dl>
 
  

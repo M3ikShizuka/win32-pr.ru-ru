@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3dx9mesh.h
-ms.openlocfilehash: 25b197503b4f709c376a80c1fde0a89f96656da330be6bd26a4b1ebc1c8f47a3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ffd31167d712a8270011c061cd6328aa9214352e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120119204"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066283"
 ---
 # <a name="d3dxeffectdefaulttype-enumeration"></a>Перечисление D3DXEFFECTDEFAULTTYPE
 
@@ -80,7 +80,7 @@ typedef enum D3DXEFFECTDEFAULTTYPE {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

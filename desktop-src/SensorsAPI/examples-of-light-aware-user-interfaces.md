@@ -4,12 +4,12 @@ ms.assetid: 13bcc087-bbe7-4352-b242-5a849cfe423d
 title: Примеры пользовательских интерфейсов Light-Aware
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 68f6b5865c79681eea63e78f9ce690ac90678e78a0dfdeac82b55b5193da9bd2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: faac7a83abd5f505cecf44fee17e34bf360a7b62
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119003820"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127265232"
 ---
 # <a name="examples-of-light-aware-user-interfaces"></a>Примеры пользовательских интерфейсов Light-Aware
 

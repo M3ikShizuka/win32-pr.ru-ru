@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 7095e29daf18dc111caf37038b06b0beff5245a8
-ms.sourcegitcommit: cb87082135319cbdc5df541e3071eebb83a58972
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "111387063"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143966"
 ---
 # <a name="const-attribute"></a>атрибут const
 
@@ -158,7 +158,7 @@ HRESULT GetName([out] wchar_t * const pszName );
 [Базовые типы MIDL](midl-base-types.md)
 </dt> <dt>
 
-[**Boolean**](boolean.md)
+[**Логическое**](boolean.md)
 </dt> <dt>
 
 [**двухбайтовых**](byte.md)
@@ -167,7 +167,7 @@ HRESULT GetName([out] wchar_t * const pszName );
 [**обратный вызов**](callback.md)
 </dt> <dt>
 
-[**типа**](char-idl.md)
+[**char**](char-idl.md)
 </dt> <dt>
 
 [**Контекстный \_ маркер**](context-handle.md)
@@ -197,7 +197,7 @@ HRESULT GetName([out] wchar_t * const pszName );
 [**ref**](ref.md)
 </dt> <dt>
 
-[**short**](short.md)
+[**промежуток**](short.md)
 </dt> <dt>
 
 [**входил**](signed.md)
@@ -212,10 +212,10 @@ HRESULT GetName([out] wchar_t * const pszName );
 [**struct**](struct.md)
 </dt> <dt>
 
-[**наборов**](union.md)
+[**union**](union.md)
 </dt> <dt>
 
-[**unique**](unique.md)
+[**однозначно**](unique.md)
 </dt> <dt>
 
 [**без знака**](unsigned.md)

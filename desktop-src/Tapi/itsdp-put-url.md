@@ -4,12 +4,12 @@ ms.assetid: 538bb1dd-c7ad-446d-9df7-23363b466263
 title: 'Итсдп: метод ut_Url:p (Сдпблб. h)'
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2f6023b9c1210dbd92159486e037e53c8270e53d128db19906fe39c6ec9f6358
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3b791d18b97851e6b0b27a4ba26d1dfdbce7dbb7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119660234"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066951"
 ---
 # <a name="itsdpput_url-method"></a>Итсдп: \_ метод URL-адреса:p UT
 
@@ -65,7 +65,7 @@ URL-адрес обычно используется для ссылки на в
 
 Эта функция может передавать данные по сети в незашифрованном виде; Таким образом, кто-то, кто прослушивает сеть, может прочитать данные. Прежде чем использовать этот метод, следует учесть угрозу безопасности при отправке данных в виде открытого текста.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,7 +78,7 @@ URL-адрес обычно используется для ссылки на в
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

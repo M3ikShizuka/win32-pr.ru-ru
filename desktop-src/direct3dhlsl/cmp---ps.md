@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: e7cafc386d56995eafee5541a02a6ec2d22201b7689a83f79a4e818b1741ed17
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: da3da1062d02e995876a1f67e5c4e19518774760
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119983284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264368"
 ---
 # <a name="cmp---ps"></a>CMP-PS
 
@@ -31,7 +31,7 @@ ms.locfileid: "119983284"
 
  
 
-where
+где
 
 -   DST — это регистр назначения.
 -   src0 является исходным регистром.

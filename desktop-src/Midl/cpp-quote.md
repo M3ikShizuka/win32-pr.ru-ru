@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: ae5b85f9a909e82395a0a75cf66fb2957c4b03d9
-ms.sourcegitcommit: 57758ecb246c84d65e6e0e4bd5570d9176fa39cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "104069122"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143958"
 ---
 # <a name="cpp_quote-attribute"></a>\_атрибут Quote в cpp
 
@@ -31,14 +31,14 @@ cpp_quote("string")
 
 <dl> <dt>
 
-*string* 
+*строка* 
 </dt> <dd>
 
 Указывает строку в кавычках, которая создается в созданном файле заголовка. Строка должна быть заключена в кавычки, чтобы не допустить расширения препроцессором C.
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Директивы предварительной обработки языка c, которые отображаются в IDL-файле, обрабатываются препроцессором компилятора C. Директивы **\# define** в IDL-файле доступны во время компиляции MIDL, но недоступны компилятору C.
 
@@ -65,12 +65,12 @@ cpp_quote("#define UNICODE")
 [**импортиру**](import.md)
 </dt> <dt>
 
-[**pragma**](pragma.md)
+[**включают**](pragma.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: 9dacd399-2cf3-40dd-9501-f26f0281500d
 title: Реализация обработчиков свойств
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5df4012168a0b6d1af5db727907e1c0fdc07231eac42abfbd3b96e8daab2f3f6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0aadfabf451d5a90ba88925d28f3f460aaeeb28f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118469130"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263008"
 ---
 # <a name="implementing-property-handlers"></a>Реализация обработчиков свойств
 

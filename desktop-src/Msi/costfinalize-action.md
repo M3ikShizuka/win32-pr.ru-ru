@@ -4,12 +4,12 @@ ms.assetid: ae69ad03-5acc-4a62-ba71-3a4e477d34ab
 title: Действие Костфинализе
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 24f6b8fb49218925d3f517a9d198a638bc9dff5a1184beef24a487de0112830f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 72a5423f1050f9c9d755d33e492b9b65cfcaa08b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118638358"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142185"
 ---
 # <a name="costfinalize-action"></a>Действие Костфинализе
 

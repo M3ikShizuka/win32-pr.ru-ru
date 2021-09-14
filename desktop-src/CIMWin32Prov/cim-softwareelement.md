@@ -31,11 +31,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 9baf3dea6a5ba68044142aed023006ebfecc2d34
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122884084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145370"
 ---
 # <a name="cim_softwareelement-class-cimwin32-wmi-providers"></a>Класс CIM_SoftwareElement (поставщики WMI CIMWin32)
 
@@ -75,7 +75,7 @@ class CIM_SoftwareElement : CIM_LogicalElement
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ софтварилемент** имеет следующие типы членов:
 
@@ -205,7 +205,7 @@ class CIM_SoftwareElement : CIM_LogicalElement
 
 </dd> <dt>
 
-**Изготовитель**
+**Производителя**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -977,7 +977,7 @@ Mac OS 9
 
 </dd> <dt>
 
-**Version**
+**Версия**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -998,7 +998,7 @@ Mac OS 9
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **CIM \_ софтварилемент** является производным от [**CIM \_ логикалелемент**](cim-logicalelement.md).
 

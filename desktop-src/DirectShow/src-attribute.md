@@ -4,12 +4,12 @@ ms.assetid: 45476826-bde5-43b7-8102-30c94260740f
 title: Атрибут src
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bfe12a804e5d89e963dadb95519faea4d44fb1a02d9151c67ada1e355a9c293a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3a64a801de0c7e04a68db5e474fb9f57a1dcf593
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119072538"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127275123"
 ---
 # <a name="src-attribute"></a>Атрибут src
 
@@ -28,7 +28,7 @@ ms.locfileid: "119072538"
 
 [**clip**](clip-element.md)
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

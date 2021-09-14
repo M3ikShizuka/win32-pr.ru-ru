@@ -4,12 +4,12 @@ ms.assetid: 41fe9366-4c17-43bb-91d6-934c7aa87a2d
 title: Расположения системных хранилищ
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d793d94bcb1c58bcc0d8c046b038df7e699d287b9ede3f14d6e2cb3c94ab781e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0863ffde8be5db67459908b1ec26ec73da029744
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118897436"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146086"
 ---
 # <a name="system-store-locations"></a>Расположения системных хранилищ
 
@@ -20,7 +20,7 @@ ms.locfileid: "118897436"
 -   MY
 -   Root
 -   Доверие
--   Целостности и доступности
+-   CA
 
 В \_ системном \_ хранилище CERT \_ текущий \_ пользователь также имеется предопределенное хранилище усердс. Для этого расположения планируется хранилище смарт-карт.
 
@@ -56,7 +56,7 @@ HKEY_CURRENT_USER
 | MY           | . Параметры                                                 |
 | Root         | . Default. LocalMachine<br/> . Карте<br/>   |
 | Доверие        | . Default. GroupPolicy<br/> . LocalMachine<br/> |
-| Целостности и доступности           | . Default. GroupPolicy<br/> . LocalMachine<br/> |
+| CA           | . Default. GroupPolicy<br/> . LocalMachine<br/> |
 | усердс       | . UserCertificate                                         |
 
 
@@ -83,7 +83,7 @@ HKEY_LOCAL_MACHINE
 | MY           | . Параметры                                                                                          |
 | Root         | . Default. Аусрут<br/> . GroupPolicy<br/> . Enterprise<br/> . Карте<br/> |
 | Доверие        | . Default. GroupPolicy<br/> . Enterprise<br/>                                            |
-| Целостности и доступности           | . Default. GroupPolicy<br/> . Enterprise <br/>                                           |
+| CA           | . Default. GroupPolicy<br/> . Enterprise <br/>                                           |
 
 
 
@@ -112,7 +112,7 @@ HKEY_LOCAL_MACHINE
 | MY           | . Параметры                         |
 | Root         | . Default. LocalMachine<br/> |
 | Доверие        | . Default. LocalMachine<br/> |
-| Целостности и доступности           | . Default. LocalMachine<br/> |
+| CA           | . Default. LocalMachine<br/> |
 
 
 
@@ -211,7 +211,7 @@ HKEY_LOCAL_MACHINE
 | MY           | . Параметры       |
 | Root         | . Параметры       |
 | Доверие        | . Параметры       |
-| Целостности и доступности           | . Параметры       |
+| CA           | . Параметры       |
 
 
 

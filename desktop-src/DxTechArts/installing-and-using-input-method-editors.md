@@ -4,12 +4,12 @@ description: в этой статье представлено руководс�
 ms.assetid: 0dc430ce-bed4-8d02-f45e-4eefb0ad0369
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7b45a0da52d0e917186831de8c84f39ecee3d2583ac4a267fa2501c643e2f75f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fd6018b3a387a12409f9e46d0392bbd60015af29
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118153666"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127274904"
 ---
 # <a name="installing-and-using-input-method-editors"></a>Установка и использование редакторов метода ввода
 
@@ -20,7 +20,7 @@ ms.locfileid: "118153666"
 -   [Китайский (традиционный) IME](#traditional-chinese-ime)
 -   [Редактор IME для японского языка](#japanese-ime)
 -   [Редактор IME для корейского языка](#korean-ime)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 
 ## <a name="installing-an-input-method-editor"></a>Установка редактора метода ввода
 
@@ -211,7 +211,7 @@ ms.locfileid: "118153666"
 
     ![два корейских символа успешно добавлены с помощью IME](images/ime-k8.png)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

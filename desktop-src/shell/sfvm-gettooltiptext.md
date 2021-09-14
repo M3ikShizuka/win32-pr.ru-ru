@@ -4,12 +4,12 @@ ms.assetid: 29849218-0d30-4412-86c8-5d320bc5dd26
 title: Сообщение SFVM_GETTOOLTIPTEXT (Шлобж. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3350d1f772cd78c97f7b57b47084c761808583dfe5396fafcdad336291a3a717
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9ffea70f6051ec435e14640ac70d2e9617b11305
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117858226"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127262491"
 ---
 # <a name="sfvm_gettooltiptext-message"></a>\_Сообщение сфвм жеттултиптекст
 

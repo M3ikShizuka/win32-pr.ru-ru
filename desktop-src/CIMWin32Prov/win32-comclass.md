@@ -20,11 +20,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 685b0b1f869d159df12dfcf12f3a61fed8d76ad8
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103990702"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145297"
 ---
 # <a name="win32_comclass-class"></a>\_Класс Win32 COMClass
 
@@ -46,19 +46,19 @@ class Win32_COMClass : CIM_LogicalElement
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ COMClass** имеет следующие типы членов:
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ COMClass** имеет следующие свойства.
 
 <dl> <dt>
 
-**Заголовок**
+**Caption**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -112,7 +112,7 @@ class Win32_COMClass : CIM_LogicalElement
 
 </dd> <dt>
 
-**Name**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -238,7 +238,7 @@ class Win32_COMClass : CIM_LogicalElement
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **Win32 \_ COMClass** является производным от [**CIM \_ логикалелемент**](cim-logicalelement.md).
 

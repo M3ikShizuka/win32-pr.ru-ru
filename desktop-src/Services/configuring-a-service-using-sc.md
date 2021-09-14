@@ -5,11 +5,11 @@ title: Настройка службы с помощью SC
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 7f65669a3a7daa7e0d02731e6423adfbb3806f11
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105662254"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127265083"
 ---
 # <a name="configuring-a-service-using-sc"></a>Настройка службы с помощью SC
 
@@ -33,7 +33,7 @@ Windows SDK содержит служебную программу команд�
 
 Одна из следующих команд:
 
-<dl> <dd>boot</dd> <dd>config</dd> <dd>create</dd> <dd>удалить</dd> <dd>description;</dd> <dd>енумдепенд</dd> <dd>ошибка</dd> <dd>фаилурефлаг</dd> <dd>Переdisplayname</dd> <dd>жеткэйнаме</dd> <dd>Блокировка</dd> <dd>qc</dd> <dd>кдескриптион</dd> <dd>кфаилуре</dd> <dd>кфаилурефлаг</dd> <dd>кпривс</dd> <dd>ксидтипе</dd> <dd>query</dd> <dd>QueryEx</dd> <dd>привс</dd> <dd>куерилокк</dd> <dd>sdset</dd> <dd>sdshow</dd> <dd>showsid</dd> <dd>Идентификатор типа безопасности</dd> </dl> </dd> <dt>
+<dl> <dd>boot</dd> <dd>config</dd> <dd>create</dd> <dd>удалить</dd> <dd>description</dd> <dd>енумдепенд</dd> <dd>ошибка</dd> <dd>фаилурефлаг</dd> <dd>Переdisplayname</dd> <dd>жеткэйнаме</dd> <dd>Блокировка</dd> <dd>qc</dd> <dd>кдескриптион</dd> <dd>кфаилуре</dd> <dd>кфаилурефлаг</dd> <dd>кпривс</dd> <dd>ксидтипе</dd> <dd>query</dd> <dd>QueryEx</dd> <dd>привс</dd> <dd>куерилокк</dd> <dd>sdset</dd> <dd>sdshow</dd> <dd>showsid</dd> <dd>Идентификатор типа безопасности</dd> </dl> </dd> <dt>
 
 <span id="ServiceName"></span><span id="servicename"></span><span id="SERVICENAME"></span>*Служба*
 </dt> <dd>
@@ -56,17 +56,17 @@ Windows SDK содержит служебную программу команд�
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Чтобы просмотреть полный синтаксис команды, используйте следующую команду:
 
  *команда* SC
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
-[Конфигурация службы](service-configuration.md)
+[Конфигурация службы.](service-configuration.md)
 </dt> <dt>
 
 [Установка, удаление и перечисление служб](service-installation-removal-and-enumeration.md)

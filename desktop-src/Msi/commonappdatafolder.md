@@ -4,12 +4,12 @@ ms.assetid: 4fc6e56a-20e7-4dd6-827b-ebb66c04a2b4
 title: Коммонаппдатафолдер, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: db9596e3b89a170c066d01e17e93aee92a3736a707755f5e29316690f7d8a063
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 80b82f54780ffdbda5e627cf67f3eab5b08e5d39
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118380127"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142406"
 ---
 # <a name="commonappdatafolder-property"></a>Коммонаппдатафолдер, свойство
 

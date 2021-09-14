@@ -15,11 +15,11 @@ api_location:
 - strmiids.lib
 - strmiids.dll
 ms.openlocfilehash: 6b3de498791a634ea651da46ba9c95557ca12b87
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105689415"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065653"
 ---
 # <a name="iamtimelinetransablegettransattime2-method"></a>Метод Иамтимелинетрансабле:: GetTransAtTime2
 
@@ -54,7 +54,7 @@ HRESULT GetTransAtTime2(
 
 </dd> <dt>
 
-*Time* 
+*Время* 
 </dt> <dd>
 
 Время начала поиска в секундах.
@@ -85,7 +85,7 @@ HRESULT GetTransAtTime2(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.
@@ -93,7 +93,7 @@ HRESULT GetTransAtTime2(
  
 
 > [!Note]  
-> Чтобы получить Кедит. h, скачайте [обновление Microsoft Windows SDK для Windows Vista и платформа .NET Framework 3,0](https://msdn.microsoft.com/windowsvista/bb980924.aspx). Кедит. h недоступен в Microsoft Windows SDK для Windows 7 и платформа .NET Framework 3,5 с пакетом обновления 1 (SP1).
+> чтобы получить кедит. h, скачайте [обновление Microsoft Windows SDK для Windows Vista и платформа .NET Framework 3,0](https://msdn.microsoft.com/windowsvista/bb980924.aspx). кедит. h недоступен в Microsoft Windows SDK для Windows 7 и платформа .NET Framework 3,5 с пакетом обновления 1 (sp1).
 
  
 
@@ -103,7 +103,7 @@ HRESULT GetTransAtTime2(
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Кедит. h</dt> </dl>      |
+| Заголовок<br/>  | <dl> <dt>Кедит. h</dt> </dl>      |
 | Библиотека<br/> | <dl> <dt>Стрмиидс. lib</dt> </dl> |
 
 
