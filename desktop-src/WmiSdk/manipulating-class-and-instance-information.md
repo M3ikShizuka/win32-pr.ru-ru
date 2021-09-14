@@ -10,12 +10,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 1074fd6bd6fd75cb838b3c399dcb1505c5644145522f552862e77e05da70a0c4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 86e3e84deae73e206f41e9ea25e02b5d11373f3d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119996424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967165"
 ---
 # <a name="manipulating-class-and-instance-information"></a>Управление сведениями о классе и экземпляре
 
@@ -42,7 +42,7 @@ ms.locfileid: "119996424"
 
 ## <a name="manipulating-data-using-vbscript"></a>Обработка данных с помощью VBScript
 
-Можно использовать прямой доступ для доступа к свойствам WMI класса или экземпляра WMI непосредственно в [**SWbemObject**](swbemobject.md), а не через [коллекцию](accessing-a-collection.md) свойств этого объекта. Можно также выполнить методы для этого объекта в собственном стиле языка программирования, а не использовать вызов [**SWbemServices.Exeкмесод**](swbemservices-execmethod.md) . например, метод [**Create**](/windows/desktop/CIMWin32Prov/create-method-in-class-win32-process) в [**\_ процессе Win32**](/windows/desktop/CIMWin32Prov/win32-process) содержал три параметра в Windows 2000, но имеет четыре параметра в Windows Server 2003.
+Можно использовать прямой доступ для доступа к свойствам WMI класса или экземпляра WMI непосредственно в [**SWbemObject**](swbemobject.md), а не через [коллекцию](accessing-a-collection.md) свойств этого объекта. Можно также выполнять методы для этого объекта в собственном стиле языка программирования вместо использования вызова [**SwbemServices. ExecMethod**](swbemservices-execmethod.md) . например, метод [**Create**](/windows/desktop/CIMWin32Prov/create-method-in-class-win32-process) в [**\_ процессе Win32**](/windows/desktop/CIMWin32Prov/win32-process) содержал три параметра в Windows 2000, но имеет четыре параметра в Windows Server 2003.
 
 С помощью прямого доступа можно рассматривать свойства и методы WMI, как если бы они были свойствами автоматизации и методами [**SWbemObject**](swbemobject.md).
 
@@ -84,9 +84,9 @@ valueOfElement = MyDisk.MyArrayProperty(3)
 
 
 
-В следующем примере кода VBScript показано, как создать экземпляр входных параметров в методе [**CREATE**](/windows/desktop/CIMWin32Prov/create-method-in-class-win32-process) в классе [**\_ процесса Win32**](/windows/desktop/CIMWin32Prov/win32-process) в качестве [**SWbemObject**](swbemobject.md), заполнить входные свойства, а затем выполнить метод **CREATE** с помощью [**SWbemServices.Exeкмесод**](swbemservices-execmethod.md).
+В следующем примере кода VBScript показано, как [**создать**](/windows/desktop/CIMWin32Prov/create-method-in-class-win32-process) экземпляр входных параметров в методе Create в классе [**\_ процесса Win32**](/windows/desktop/CIMWin32Prov/win32-process) в качестве [**SWbemObject**](swbemobject.md), заполнить входные свойства, а затем выполнить метод **CREATE** с помощью [**SwbemServices. ExecMethod**](swbemservices-execmethod.md).
 
-Свойство [**SWbemObject. Methods \_**](swbemobject-methods-.md) Возвращает коллекцию [**свбеммесодсет**](swbemmethodset.md) методов [**\_ процесса Win32**](/windows/desktop/CIMWin32Prov/win32-process) . Членами набора методов являются объекты [**свбеммесод**](swbemmethod.md) и [**свбеммесод. outs**](swbemmethod-inparameters.md) Возвращает входные параметры для метода [**CREATE**](/windows/desktop/CIMWin32Prov/create-method-in-class-win32-process) . Требуемый входной параметр *командной строки* имеет значение "calc.exe". Затем метод выполняется [**SWbemServices.Exeкмесод**](swbemservices-execmethod.md), что приводит к запуску calc.exe процесса.
+Свойство [**SWbemObject. Methods \_**](swbemobject-methods-.md) Возвращает коллекцию [**свбеммесодсет**](swbemmethodset.md) методов [**\_ процесса Win32**](/windows/desktop/CIMWin32Prov/win32-process) . Членами набора методов являются объекты [**свбеммесод**](swbemmethod.md) и [**свбеммесод. outs**](swbemmethod-inparameters.md) Возвращает входные параметры для метода [**CREATE**](/windows/desktop/CIMWin32Prov/create-method-in-class-win32-process) . Требуемый входной параметр *командной строки* имеет значение "calc.exe". Затем метод выполняется методом [**SwbemServices. ExecMethod**](swbemservices-execmethod.md), что приводит к запуску calc.exe процесса.
 
 
 ```VB

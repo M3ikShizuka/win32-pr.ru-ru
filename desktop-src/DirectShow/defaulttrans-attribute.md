@@ -4,12 +4,12 @@ ms.assetid: 94579bca-d519-47fa-a8b7-d3349a78d4b7
 title: Атрибут дефаулттранс
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5a7c813feadd15e16303869fc492cdb61fde0d274a13d08f37bacec11def11e9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f9c6545efdec88e996e066c5724093ffd53ce14c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120086854"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053493"
 ---
 # <a name="defaulttrans-attribute"></a>Атрибут дефаулттранс
 
@@ -28,7 +28,7 @@ ms.locfileid: "120086854"
 
 [**графика**](timeline-element.md)
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

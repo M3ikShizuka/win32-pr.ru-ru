@@ -15,11 +15,11 @@ api_location:
 - d3dx9.lib
 - d3dx9.dll
 ms.openlocfilehash: 44b3a738de31edf373deb65ea9991e1e1502f47c
-ms.sourcegitcommit: ca37395fd832e798375e81142b97cffcffabf184
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "110335608"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052978"
 ---
 # <a name="d3dxmatrixlookatrh-function-d3dx9mathh"></a>Функция D3DXMatrixLookAtRH (D3dx9math. h)
 
@@ -116,7 +116,7 @@ yaxis = cross(zaxis, xaxis)
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

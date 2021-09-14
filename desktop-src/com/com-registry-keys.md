@@ -5,11 +5,11 @@ ms.assetid: 08406092-eb77-4001-a4fa-659ce945e4d1
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 76b85bb84b0a6f2e6ccc233b68af2889f4cb11ab
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369565"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053187"
 ---
 # <a name="com-registry-keys"></a>Разделы реестра COM
 
@@ -31,7 +31,7 @@ ms.locfileid: "124369565"
 
  
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

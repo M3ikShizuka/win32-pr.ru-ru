@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: c1f63efa53cc8e8829aba825e831f95595b16faf97bdf29777918c599aadade1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9033474c71d23fed106205839071bad200df6a23
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119016792"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053998"
 ---
 # <a name="cbaserendererwaitforreceivetocomplete-method"></a>Кбасерендерер. Ваитфоррецеиветокомплете, метод
 
@@ -44,13 +44,13 @@ void WaitForReceiveToComplete();
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Методы [**кбасерендерер:: останавливают**](cbaserenderer-stop.md) и [**Кбасерендерер:: бегинфлуш**](cbaserenderer-beginflush.md) вызывают этот метод, чтобы синхронизировать изменение состояния с методом **Receive** .
 
 В частности, этот метод отправляет сообщения, пока он ожидает, пока флаг [**кбасерендерер:: m \_ бинрецеиве**](cbaserenderer-m-binreceive.md) не станет равным **false**. Флаг принимает **значение true** в методе [**Кбасерендерер::P репаререцеиве**](cbaserenderer-preparereceive.md) и возвращается в **значение false** после того, как метод **Receive** вызовет метод [**кбасерендерер::P репаререндер**](cbaserenderer-preparerender.md) . Производный класс может использовать **препаререндер** для установки палитры. Ожидание завершения **препаререндер** гарантирует, что сообщения о смене палитры будут отправлены, прежде чем произойдет изменение состояния. Это позволяет избежать возможной взаимоблокировки.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ void WaitForReceiveToComplete();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

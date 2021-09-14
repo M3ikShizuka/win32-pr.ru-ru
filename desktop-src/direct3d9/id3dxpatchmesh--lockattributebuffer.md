@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 9b3c550037e156ea5584b65af6d6adb1cb666614de257c590a8d4944283ebdfc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 71e50fdc27f3f50b560324c74f5a1609f900772d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119120768"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052787"
 ---
 # <a name="id3dxpatchmeshlockattributebuffer-method"></a>Метод ID3DXPatchMesh:: Локкаттрибутебуффер
 
@@ -72,7 +72,7 @@ HRESULT LockAttributeBuffer(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Буфер атрибутов обычно блокируется, записывается в, а затем разблокируется для чтения.
 

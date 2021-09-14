@@ -4,12 +4,12 @@ ms.assetid: f32706eb-7f97-433d-854a-17d57cc60190
 title: Караокеаудиопресентатионмоде, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: af634a3beaade7e497cdc6d158ccf1121ebb09542bdec92ceaae823b1b91ccdb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 429f15c99d58136d4c423c4f66b19d12c93802a9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118952383"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053295"
 ---
 # <a name="karaokeaudiopresentationmode-property"></a>Караокеаудиопресентатионмоде, свойство
 
@@ -28,7 +28,7 @@ ms.locfileid: "118952383"
 
 Возвращает целочисленное значение, содержащее набор битовых флагов, указывающих, как вспомогательные каналы караоке довнмиксед на левый и правый динамики.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство доступно для чтения и записи и имеет нулевое значение по умолчанию.
 

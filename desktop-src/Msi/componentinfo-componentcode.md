@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 6d6c6659498b2179c50b6a8a059128ce54e6a5b3e5fb63e992636329b90c1618
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a0a73602e30da1e2aebdf09bc18eaa1515be1470
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118144688"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142342"
 ---
 # <a name="componentinfocomponentcode-property"></a>Компонентинфо. Компоненткоде, свойство
 
@@ -30,7 +30,7 @@ ms.locfileid: "118144688"
 
 ## <a name="property-value"></a>Значение свойства
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

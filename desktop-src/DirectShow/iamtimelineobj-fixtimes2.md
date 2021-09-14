@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 74890c2b094172ac3ced0c9fd192a755d051b56df22301b4d64d9003eaa74e9c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 48b487d8dc17d6b815ea9dff79fc58af953b0bd8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118400909"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126892005"
 ---
 # <a name="iamtimelineobjfixtimes2-method"></a>Метод Иамтимелинеобж:: FixTimes2
 
@@ -64,7 +64,7 @@ HRESULT FixTimes2(
 
 Возвращает \_ ОК в случае успеха или E \_ нотинтри, если объект не является частью группы.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.

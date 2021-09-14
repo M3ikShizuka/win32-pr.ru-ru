@@ -4,12 +4,12 @@ ms.assetid: ea67d798-81db-44ad-b0fb-24e0c3be7388
 title: Коды ошибок вспомогательного приложения для получения данных о производительности
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 16367cb3cd2c0ed83c69067e82fe180a6930910b1c45e76d3e01b75a6832d89a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a1e24a5bb82aafa3e4a29bd24c087826bb5ead5e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120033814"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055138"
 ---
 # <a name="performance-data-helper-error-codes"></a>Коды ошибок вспомогательного приложения для получения данных о производительности
 

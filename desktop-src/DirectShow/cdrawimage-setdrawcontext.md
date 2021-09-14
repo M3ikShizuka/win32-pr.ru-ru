@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 58a10c9f1a485058ed460f4cd30cd4d3894b471415f131d7d4aa59ee757b87d6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1d329dd45d1a02afd2cbd0daf8d0da8390b0b395
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120055974"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053531"
 ---
 # <a name="cdrawimagesetdrawcontext-method"></a>Кдравимаже. Сетдравконтекст, метод
 
@@ -44,11 +44,11 @@ void SetDrawContext();
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод получает контексты окна и устройства памяти из объекта-владельца [**кбасевиндов**](cbasewindow.md) . Вызывайте этот метод после инициализации окна, но перед началом рисования.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ void SetDrawContext();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

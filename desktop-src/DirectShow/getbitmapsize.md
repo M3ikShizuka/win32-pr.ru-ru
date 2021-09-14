@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 5d736e0fa0766f1776fc53c39237242017de988050a469f4f16102d124d6f5f1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 004201cf3ff839aa1301dcfff0240a73a9128e50
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118000266"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053404"
 ---
 # <a name="getbitmapsize-function"></a>Функция Жетбитмапсизе
 
@@ -64,7 +64,7 @@ DWORD GetBitmapSize(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

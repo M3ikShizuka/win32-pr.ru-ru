@@ -4,12 +4,12 @@ ms.assetid: e36a88b8-7184-44a4-8e02-204440f651bc
 title: Метод Жеткараокечаннелконтент
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8ef0353ebda6469627b5f41209b780fc1403c51940705be72d6acaa139d8320f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: bd35705f1fba65eaf5c6f7c67ea55078c68e5036
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119812494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053370"
 ---
 # <a name="getkaraokechannelcontent-method"></a>Метод Жеткараокечаннелконтент
 
@@ -63,7 +63,7 @@ ms.locfileid: "119812494"
 
 Возвращает целочисленное значение, отдельные биты которого задают содержимое канала караоке.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Нумерация видеоканалов DVD отсчитывается от нуля, поэтому каналы 2, 3 и 4 являются вспомогательными каналами караоке. После возврата метода выполните операцию побитового и для *иконтент* , чтобы определить содержимое каждого канала. Так как на одном канале может быть записано несколько типов содержимого, следует проверить все возможные значения даже после обнаружения совпадения.
 

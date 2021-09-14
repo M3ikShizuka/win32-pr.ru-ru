@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 8ca767c6bc223c40d6013b93162de057aac9f4fb1b71303990f9128e4eca1ee6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 901cb98a9d75d08b6412d6fdca841d403064354b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118802157"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052808"
 ---
 # <a name="id3dxmeshlockattributebuffer-method"></a>Метод ID3DXMesh:: Локкаттрибутебуффер
 
@@ -72,7 +72,7 @@ HRESULT LockAttributeBuffer(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть D3DERR \_ инвалидкалл.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если был вызван [**ID3DXMesh:: optimize**](id3dxmesh--optimize.md) , в сетке также будет таблица атрибутов, доступ к которой можно получить с помощью метода [**ID3DXBaseMesh:: жетаттрибутетабле**](id3dxbasemesh--getattributetable.md) .
 

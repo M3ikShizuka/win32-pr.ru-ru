@@ -15,11 +15,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 44c86972d014da906b98ad8d3bd8e98d01f1cfcb
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104141034"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968777"
 ---
 # <a name="win32shutdowntracker-method-of-the-win32_operatingsystem-class"></a>Метод Win32ShutdownTracker \_ класса операционной системы Win32
 
@@ -88,7 +88,7 @@ uint32 Win32ShutdownTracker(
 1 (0x1)
 </dt> <dd>
 
-Завершить работу
+Shutdown
 
 </dd> <dt>
 
@@ -116,7 +116,7 @@ uint32 Win32ShutdownTracker(
 8 (0x8)
 </dt> <dd>
 
-Выключение питания
+Выключение
 
 </dd> <dt>
 
@@ -141,7 +141,7 @@ uint32 Win32ShutdownTracker(
 
 ## <a name="remarks"></a>Комментарии
 
-Вызывающий процесс должен иметь привилегию **SE \_ Shutdown \_ Name** .
+вызывающий процесс должен иметь привилегию **SEного \_ \_ имени завершения работы** .
 
 ## <a name="examples"></a>Примеры
 

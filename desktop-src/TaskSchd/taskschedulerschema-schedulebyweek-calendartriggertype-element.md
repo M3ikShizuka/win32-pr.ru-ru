@@ -14,12 +14,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: ddf37c6261ba28c4cb4f59c47ee8ebd8c09afc4e36c3d1aa218efe8caa81e8c2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2d5ab62a0c39c4c1d0102edcdb96d310e9315820
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119002282"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968677"
 ---
 # <a name="schedulebyweek-calendartriggertype-element"></a>Счедулебивик (Календартригжертипе), элемент
 
@@ -54,7 +54,7 @@ ms.locfileid: "119002282"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Перечисленные выше дочерние элементы определяются сложными типами элементов [**виклисчедулетипе**](taskschedulerschema-weeklyscheduletype-complextype.md) .
 
@@ -88,7 +88,7 @@ ms.locfileid: "119002282"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -99,7 +99,7 @@ ms.locfileid: "119002282"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

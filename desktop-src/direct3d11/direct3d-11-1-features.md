@@ -4,12 +4,12 @@ description: в Direct3D 11,1 добавлены следующие функци
 ms.assetid: 2203D2D2-ECF6-4753-90FA-12A52678DFBB
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1ee5f4721a9f7ef7727539387603e839f36690ed5d4b6762121ceddefa0672ae
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dece9ed6e0a40ade28857277c344be0e9f2e7ce1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118535975"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053092"
 ---
 # <a name="direct3d-111-features"></a>Функции Direct3D 11,1
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 20e427a9c8b146dc1398443df06cbb8a3fb58452e3bbabd0a6291428f960a79c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 23ada87e77d3c3441f489abed2e7af86a2a556ad
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120057334"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054038"
 ---
 # <a name="cbasecontrolvideocopyimage-method"></a>Кбасеконтролвидео. Копимаже, метод
 
@@ -85,11 +85,11 @@ HRESULT CopyImage(
 
 Если параметр *пвидеоимаже* имеет **значение NULL**, параметр *пбуфферсизе* заполняется числом байтов, необходимых выходному буферу для хранения изображения. Если переданный буфер слишком мал или функция-член не может выделить достаточно памяти, функция-член возвращает E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция члена получает изображение из примера и копирует его в выходной буфер. Раздел видео, скопированный в выходной буфер, отражает исходный прямоугольник, заданный через интерфейс [**ибасиквидео**](/windows/desktop/api/Control/nn-control-ibasicvideo) (хотя он не отражает конечный прямоугольник).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -100,7 +100,7 @@ HRESULT CopyImage(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

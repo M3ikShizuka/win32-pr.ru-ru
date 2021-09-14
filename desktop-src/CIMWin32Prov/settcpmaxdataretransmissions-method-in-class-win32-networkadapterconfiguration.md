@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 07484f07ab5c4a53da5b044f409a59c4ac37f07717875cd80f44eb625bdf2041
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 59998888eb2aed170b626fb4cb61780cbe0cb6e4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119439274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053744"
 ---
 # <a name="settcpmaxdataretransmissions-method-of-the-win32_networkadapterconfiguration-class"></a>Метод Сетткпмаксдатаретрансмиссионс \_ класса Win32 NetworkAdapterConfiguration
 
@@ -321,7 +321,7 @@ IPX не включен на адаптере.
 
 91
 
-Доступ запрещен.
+Access denied. (Недопустимое значение {значение_утверждения} для утверждения {имя_утверждения}. Доступ запрещен.)
 
 </dd> <dt>
 
@@ -404,7 +404,7 @@ DHCP не включен на адаптере.
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Время ожидания повторной передачи удваивается при каждой последующей повторной передаче соединения.
 
@@ -412,7 +412,7 @@ DHCP не включен на адаптере.
 
 Пример [изменения максимального допустимого числа передаваемых данных TCP](https://Gallery.TechNet.Microsoft.Com/8a581692-7950-412e-bd28-74f223b27827) в сценарии VBScript настраивает число попыток, которые TCP будет пытаться повторно передать отдельному сегменту данных, прежде чем отказаться от усилий.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

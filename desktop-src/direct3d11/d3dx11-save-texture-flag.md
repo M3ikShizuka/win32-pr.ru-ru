@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: dab94f1d895f229f89617c1e9024e65fba0feed673f727ffc2d9de0298680b85
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 25f944a99e2951fab54ec2e7d6a83ec82f9b664f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118989914"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053119"
 ---
 # <a name="d3dx11_save_texture_flag-enumeration"></a>\_ \_ \_ Перечисление флагов D3DX11 Save текстуры
 
@@ -52,7 +52,7 @@ typedef enum D3DX11_SAVE_TEXTURE_FLAG {
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -62,7 +62,7 @@ typedef enum D3DX11_SAVE_TEXTURE_FLAG {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

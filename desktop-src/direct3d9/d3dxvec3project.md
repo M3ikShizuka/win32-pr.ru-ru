@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 1bb0d7b962dd4595ec9246c036d4ff9e459e062f366b6e62f46cce1a5a3ebab9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a5a9abcb54c883d74bde831570b9df0b40fedfae
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118803816"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052929"
 ---
 # <a name="d3dxvec3project-function-d3dx9mathh"></a>Функция D3DXVec3Project (D3dx9math. h)
 
@@ -105,7 +105,7 @@ D3DXVECTOR3* D3DXVec3Project(
 
 Указатель на структуру [**D3DXVECTOR3**](d3dxvector3.md) , которая является вектором, проецируемым из пространства объекта в пространство экрана.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре *тоска* . Таким образом, функция **D3DXVec3Project** может использоваться в качестве параметра для другой функции.
 

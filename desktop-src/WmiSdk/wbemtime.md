@@ -15,12 +15,12 @@ api_type:
 api_location:
 - FrameDynOS.dll
 - FrameDyn.dll
-ms.openlocfilehash: 16b4e8933113386e877aec23313f74695b321f932c10f0e2730bcf5888675cc5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5d2f06b06db998dc18a876e0e5534e1d86c6ae89
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118553250"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967041"
 ---
 # <a name="wbemtime-class"></a>Класс Вбемтиме
 
@@ -57,7 +57,7 @@ ms.locfileid: "118553250"
 
 | Метод                                                           | Описание                                                                                                                            |
 |:-----------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|
-| [**Clear**](/windows/desktop/api/WbemTime/nf-wbemtime-wbemtime-clear)                                  | Устанавливает время в объекте **вбемтиме** на недопустимое время.<br/>                                                                |
+| [**Открытым**](/windows/desktop/api/WbemTime/nf-wbemtime-wbemtime-clear)                                  | Устанавливает время в объекте **вбемтиме** на недопустимое время.<br/>                                                                |
 | [**GetBSTR**](/windows/desktop/api/WbemTime/nf-wbemtime-wbemtime-getbstr)                              | Представляет время как значение **BSTR** .<br/>                                                                                      |
 | [**жетдмтф**](/windows/desktop/api/WbemTime/nf-wbemtime-wbemtime-getdmtf)                              | Возвращает время в виде значения **BSTR** в формате даты и времени CIM.<br/>                                                                   |
 | [**жетдмтфноннтфс**](/windows/desktop/api/WbemTime/nf-wbemtime-wbemtime-getdmtfnonntfs)                | Возвращает дату в формате DMTF на основе файловой системы FAT или [формата даты и времени](date-and-time-format.md) , где неизвестно время в формате UTC.<br/> |
@@ -101,7 +101,7 @@ ms.locfileid: "118553250"
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                                                                                      |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                                                                                                |
-| Header<br/>                   | <dl> <dt>Вбемтиме. h</dt> </dl>                                                                         |
+| Заголовок<br/>                   | <dl> <dt>Вбемтиме. h</dt> </dl>                                                                         |
 | DLL<br/>                      | <dl> <dt>FrameDynOS.dll; </dt> <dt>FrameDyn.dll</dt> </dl> |
 
 

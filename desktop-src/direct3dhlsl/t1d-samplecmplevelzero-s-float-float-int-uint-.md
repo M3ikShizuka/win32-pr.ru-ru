@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: a63644cff0bcc5a437ff4ae3e1dffba8f5a0676c
-ms.sourcegitcommit: 168d11879cb9fd89d26f826482725c0a626be00f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "104274001"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966506"
 ---
 # <a name="samplecmplevelzerosamplecmplevelzerosfloatfloatintuint-function-for-texture1d"></a>Функция Самплекмплевелзеро:: Самплекмплевелзеро (S, float, float, int, uint) для Texture1D
 
@@ -97,7 +97,7 @@ DXGI_FORMAT SampleCmpLevelZero(
 | Texture1D, Texture1DArray     | INT            |
 | Texture2D, Texture2DArray     | int2           |
 | Texture3D                     | int3           |
-| Текстурекубе, Текстурекубеаррай | не поддерживается  |
+| Текстурекубе, Текстурекубеаррай | Не поддерживается  |
 
 
 

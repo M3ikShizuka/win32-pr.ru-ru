@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: 1938965fa0cd104e7ba54c77701be63375bd62ac0a7d28ce53d4c5668c776ebc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 59545c66bdc2cf3cce6bd343b975431446b76342
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119791824"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053312"
 ---
 # <a name="ixml2dexreset-method"></a>Метод IXml2Dex:: Reset
 
@@ -45,7 +45,7 @@ HRESULT Reset();
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.
@@ -57,7 +57,7 @@ HRESULT Reset();
 
  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

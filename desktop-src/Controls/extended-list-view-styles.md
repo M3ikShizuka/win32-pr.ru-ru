@@ -41,12 +41,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8bd6d2736eeb03f1d6f0ffff05da0aa6cbd8058b714c1c7f7115637ed999eb21
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4659c901d149bb47d3f68022f2e1cc92ddcee416
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119436427"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054262"
 ---
 # <a name="extended-list-view-styles"></a>Расширенные стили List-View
 
@@ -89,7 +89,7 @@ ms.locfileid: "119436427"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Comctl32.dll версии 6 не является распространяемой, но включена в Windows. Чтобы использовать Comctl32.dll версии 6, укажите ее в манифесте. Дополнительные сведения о манифестах см. в разделе [Включение визуальных стилей](cookbook-overview.md).

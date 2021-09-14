@@ -15,18 +15,18 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: c750e81a3e41450e8cd32f37ccab6fee2f08439c6bc8fc8ae18bf0e4f106b551
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 055957bf2774fc1e5c2e1f0149b00ece7b0a1bea
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119732664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967130"
 ---
 # <a name="swbemmethod-object"></a>Объект Свбеммесод
 
 Можно использовать свойства объекта **свбеммесод** для проверки одного определения метода объекта WMI. Не удается создать этот объект с **помощью вызова функции** VBScript.
 
-Этот объект можно использовать для проверки определений методов. Для вызова методов следует использовать либо прямой доступ (см. раздел [Управление информацией о классах и экземплярах](manipulating-class-and-instance-information.md)) на [**SWbemObject**](swbemobject.md) (который является рекомендуемым механизмом), либо вызовом [**кмесодSWbemServices.Exe**](swbemservices-execmethod.md) .
+Этот объект можно использовать для проверки определений методов. Для вызова методов следует использовать либо прямой доступ (см. раздел [Управление информацией о классах и экземплярах](manipulating-class-and-instance-information.md)) в [**SWbemObject**](swbemobject.md) (который является рекомендуемым механизмом), либо вызов [**SwbemServices. ExecMethod**](swbemservices-execmethod.md) .
 
 > [!Note]  
 > В этой версии API доступ на запись к сведениям о методе не поддерживается. Если необходимо определить методы или изменить существующие определения методов, можно определить изменения метода в MOF-файле и отправить изменения с помощью [компилятора MOF](compiling-mof-files.md). Кроме того, можно использовать [API COM для WMI](com-api-for-wmi.md).

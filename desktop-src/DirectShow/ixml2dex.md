@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 3bc12c2305a8b92110d4aa17522184e9a3c5ee83b60ccd5a989468fa0a8c6e7f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ac15110aa1482c37a835ae874057a792e310fc2f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118952393"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053306"
 ---
 # <a name="ixml2dex-interface"></a>Интерфейс IXml2Dex
 
@@ -46,12 +46,12 @@ ms.locfileid: "118952393"
 |:------------------------------------------------------------|:---------------------------------------------------------------------------|
 | [**копиксмл**](ixml2dex-copyxml.md)                         | Не реализован.<br/>                                                |
 | [**креатеграффромфиле**](ixml2dex-creategraphfromfile.md) | Не реализован.<br/>                                                |
-| [**Удален**](ixml2dex-delete.md)                           | Не реализован.<br/>                                                |
+| [**DELETE**](ixml2dex-delete.md)                           | Не реализован.<br/>                                                |
 | [**пастексмл**](ixml2dex-pastexml.md)                       | Не реализован.<br/>                                                |
 | [**пастексмлфиле**](ixml2dex-pastexmlfile.md)               | Не реализован.<br/>                                                |
 | [**Метода**](ixml2dex-readxml.md)                         | Не реализован.<br/>                                                |
 | [**реадксмлфиле**](ixml2dex-readxmlfile.md)                 | Загружает файл XML-проекта.<br/>                                      |
-| [**Перезапуск**](ixml2dex-reset.md)                             | Не реализован.<br/>                                                |
+| [**Reset**](ixml2dex-reset.md)                             | Не реализован.<br/>                                                |
 | [**вритегрффиле**](ixml2dex-writegrffile.md)               | Записывает граф фильтра в файл в формате ГРФ.<br/>                 |
 | [**WriteXML**](ixml2dex-writexml.md)                       | Преобразует временную шкалу в XML-строку.<br/>                         |
 | [**вритексмлфиле**](ixml2dex-writexmlfile.md)               | Преобразует временную шкалу в XML и записывает XML-данные в файл.<br/> |
@@ -61,7 +61,7 @@ ms.locfileid: "118952393"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.

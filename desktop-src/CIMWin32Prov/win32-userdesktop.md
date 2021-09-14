@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 4e4a80954117f96e09f760b6d99343746479bb35d373d06eaa3ac89ac5980a1d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 39b45ee7859fea9f1068123041a87309cf40c2d2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119922634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126892440"
 ---
 # <a name="win32_userdesktop-class"></a>\_Класс Win32 усердесктоп
 
@@ -40,7 +40,7 @@ class Win32_UserDesktop : CIM_ElementSetting
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ усердесктоп** имеет следующие типы членов:
 
@@ -84,11 +84,11 @@ class Win32_UserDesktop : CIM_ElementSetting
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ усердесктоп** является производным от [**CIM \_ елементсеттинг**](cim-elementsetting.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -102,7 +102,7 @@ class Win32_UserDesktop : CIM_ElementSetting
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

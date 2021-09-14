@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 597d6483ef02f0c9f6f4e4459cd6780b91e04c39160c8057e88fc537fde3b173
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 40fdcf844cce09cf5c49085a9fcf08a38ad988ae
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119576344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054298"
 ---
 # <a name="em_streamin-message"></a>\_Сообщение о потоке EM
 
@@ -72,11 +72,11 @@ ms.locfileid: "119576344"
 
 Это сообщение возвращает число считанных символов.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При отправке сообщения с большим объемом **EM \_** элемент управления Rich Edit выполняет повторные вызовы функции [*Едитстреамкаллбакк*](/windows/desktop/api/Richedit/nc-richedit-editstreamcallback) , указанной элементом **пфнкаллбакк** структуры [**едитстреам**](/windows/desktop/api/Richedit/ns-richedit-editstream) . При каждом вызове функции обратного вызова она заполняет буфер данными для чтения в элементе управления. Это происходит до тех пор, пока функция обратного вызова не указывает, что потоковая операция была завершена или произошла ошибка.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -88,7 +88,7 @@ ms.locfileid: "119576344"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 78a0512f-456a-45b6-8717-13593461a765
 title: Дисаблескринсавер, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9bc714dbbdc3e9b144f2d49cb54871cdf09baad5df39f8e18b962d7fc415d44a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2d651026f2bf09f872655a0ef58accb3a6173dcb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117821132"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053928"
 ---
 # <a name="disablescreensaver-property"></a>Дисаблескринсавер, свойство
 
@@ -28,11 +28,11 @@ ms.locfileid: "117821132"
 
 Возвращает логическое значение, указывающее, отключены ли параметры экранной заставки для приложения проигрывателя DVD. значение true означает, что параметры отключены.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство доступно для чтения и записи со значением по умолчанию true. При просмотре DVD-Videoного диска пользователь обычно не использует мышь или клавиатуру в течение продолжительного периода времени. по умолчанию элемент управления® ActiveX мсвебдвд отключает экранную заставку. Объект
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

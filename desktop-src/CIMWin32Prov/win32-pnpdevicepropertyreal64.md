@@ -19,12 +19,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: f46aae626825e426cdfb717e18b48647a954c06b9cd96c5e31c929d6b7f2582b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f6659d6fdcae999681056a7468f5ba10006aa844
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117834143"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968781"
 ---
 # <a name="win32_pnpdevicepropertyreal64-class"></a>\_Класс Win32 PnPDevicePropertyReal64
 
@@ -45,7 +45,7 @@ class Win32_PnPDevicePropertyReal64 : Win32_PnPDeviceProperty
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ PnPDevicePropertyReal64** имеет следующие типы членов:
 
@@ -57,7 +57,7 @@ class Win32_PnPDevicePropertyReal64 : Win32_PnPDeviceProperty
 
 <dl> <dt>
 
-**Данные**
+**Data**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **real64**

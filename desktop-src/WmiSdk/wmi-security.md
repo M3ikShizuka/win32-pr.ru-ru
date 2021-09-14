@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Безопасность WMI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7ea20b598569350fb57e1901baccb6d45e9ed2842709e72f649717bf950349ae
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f41276628d1f22097f292d7deb264769406721d6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119757224"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966997"
 ---
 # <a name="wmi-security"></a>Безопасность WMI
 

@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.tabl
 ms:contentKeyID: 55104059
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 0ad05c36dce659580a598e633aa5f4aa2c7088dca0611dedc9e541bf6021fb59
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 776224e8c1b72a892ad6600d29adbcc881f6df09
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117702360"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969006"
 ---
 # <a name="table-methods"></a>Методы таблицы 
 
@@ -103,7 +103,7 @@ ms.locfileid: "117702360"
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

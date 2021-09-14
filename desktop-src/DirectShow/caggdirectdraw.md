@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: a9b58b1f4faabcb57f8138dba10bac08a2e6dc11f7ee3e332ea32d7e4cba0517
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aa7d60878a8331e6f7139b95a5ffb383fc25db15
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120057794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147994"
 ---
 # <a name="caggdirectdraw-class"></a>Класс Каггдиректдрав
 

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 3b29b224d4ebd9d1b7adabeda9bb0c078efebbe801582be59cd3b95485d25068
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7c2a4aa1c5ad71eb2d48e57b6a1c5ed16abcc793
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118144732"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142350"
 ---
 # <a name="componentusersid-property"></a>Свойство Component., то есть
 
@@ -30,7 +30,7 @@ ms.locfileid: "118144732"
 
 ## <a name="property-value"></a>Значение свойства
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

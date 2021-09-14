@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 4b6f52d8d8b30a28d942d4395a465b9c7c49d0a23020ad212c81eb170d20ca0f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8d95013b12d1ee41867ac73920ca1f9b1ca0bdca
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119073341"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053956"
 ---
 # <a name="csourceseekinggetpositions-method"></a>Метод Ксаурцесикинг. Disposition
 
@@ -61,11 +61,11 @@ HRESULT GetPositions(
 
 Возвращает значение S \_ ОК.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Для параметра *пкуррент* этот метод возвращает значение переменной члена [**ксаурцесикинг:: m \_ ртстарт**](csourceseeking-m-rtstart.md) , которая представляет последнее время поиска, а не текущее положение потоковой передачи. Однако когда приложение вызывает **имедиасикинг:: Disposition** через диспетчер графа фильтров, значения обычно берутся из фильтра модуля подготовки отчетов, а не из фильтра источника.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ HRESULT GetPositions(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

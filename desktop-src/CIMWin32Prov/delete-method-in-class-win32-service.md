@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 1d09109e753368f012c96da6d268acb43b14877f0a284291ff043c8dceb17132
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4031184e23e99fc54237ed0b0b4196fe6c075c5b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119080128"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053791"
 ---
 # <a name="delete-method-of-the-win32_service-class-cimwin32-wmi-providers"></a>Метод Delete класса Win32_Service (поставщики WMI CIMWin32)
 
@@ -221,7 +221,7 @@ uint32 Delete();
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 По мере изменения организации может быть решено удалить определенные службы с определенных компьютеров. Внутренние и сторонние службы можно удалить с помощью инструментария WMI, а службы операционной системы можно удалить с помощью Sysocmgr.exe.
 

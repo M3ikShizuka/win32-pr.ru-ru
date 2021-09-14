@@ -17,12 +17,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: a04a1b19a3d5a3f9f7b167f3e54883d7f39486a8ee4418179cc11aa0496b6de1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4bb7bb75358e9e93b010312c76e1b6aca33233bb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119639934"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967053"
 ---
 # <a name="swbemobjectpathserver-property"></a>Свбемобжектпас. Server, свойство
 
@@ -43,7 +43,7 @@ SWbemObjectPath.Server As String
 
 ## <a name="property-value"></a>Значение свойства
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

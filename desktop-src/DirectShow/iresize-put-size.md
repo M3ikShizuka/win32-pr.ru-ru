@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: d2da95cca7bf19182dd4c0f5f385715256ae9c5253c356094110c028fb1b016d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 579cee086798e64abd07b25cc4f7bb14405157dd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117818134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891733"
 ---
 # <a name="iresizeput_size-method"></a>Иресизе: метод:p UT \_ size
 
@@ -72,7 +72,7 @@ HRESULT put_Size(
 
 Возвращает значение **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 DES может вызывать этот метод до или после вызова метода **размещения \_ mediaType**. Если DES вызывает этот метод перед вызовом метода OUTPUT **\_ mediaType**, фильтр должен выбрать значение по умолчанию для битовой глубины и использовать значения размера для создания выходного типа носителя. Если DES вызывает этот метод после вызова метода OUTPUT **\_ mediaType**, фильтр должен изменить его текущий тип вывода на новые размеры.
 
@@ -97,7 +97,7 @@ DES может также вызывать этот метод после под
 | Требование | Значение |
 |--------------------|-----------------------------------------------------------------------------------------|
 | Версия<br/> | DirectX 9,0 или более поздней версии<br/>                                                         |
-| Header<br/>  | <dl> <dt>Кедит. h</dt> </dl>      |
+| Заголовок<br/>  | <dl> <dt>Кедит. h</dt> </dl>      |
 | Библиотека<br/> | <dl> <dt>Стрмиидс. lib</dt> </dl> |
 
 

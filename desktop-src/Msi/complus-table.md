@@ -4,12 +4,12 @@ ms.assetid: 0c9a7469-5959-45ad-b84d-6cfd3e169ff6
 title: Таблица ComPlus
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f77885688226689e5d81e074b1a9a28ef3801aaeba5febf51165377ac9ad9e65
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0a2ad5b7b96044025b78bfc774ee0767c2756aa8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118144975"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142373"
 ---
 # <a name="complus-table"></a>Таблица ComPlus
 
@@ -21,8 +21,8 @@ ms.locfileid: "118144975"
 
 | Столбец      | Type                         | Ключ | Допускает значения NULL |
 |-------------|------------------------------|-----|----------|
-| Компонент\_ | [Идентификатор](identifier.md) | Д   | Нет        |
-| експтипе     | [Integer](integer.md)       | Нет   | Д        |
+| См\_ | [Идентификатор](identifier.md) | Да   | Нет        |
+| експтипе     | [Integer](integer.md)       | Нет   | Да        |
 
 
 

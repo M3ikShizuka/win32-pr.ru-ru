@@ -4,12 +4,12 @@ ms.assetid: ccfdeb65-6188-4fea-bbef-2510271fbf1e
 title: Свойство Авенквидеоинпутколортрансферфунктион (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c601d1f4d56ada75b297742a533aa084e171a292f9e9b332d0b0f70f80ebee95
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8be732165bbd2be72ae637f54080420cb8ae243c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119342274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127148190"
 ---
 # <a name="avencvideoinputcolortransferfunction-property"></a>Авенквидеоинпутколортрансферфунктион, свойство
 

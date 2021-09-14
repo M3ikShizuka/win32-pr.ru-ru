@@ -4,12 +4,12 @@ ms.assetid: dc56fee3-e0df-4f8e-8a41-92460279280a
 title: Событие PBT_APMPOWERSTATUSCHANGE (WinUser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d92739182bdee624e54f11d4fe4b430e32c35e0a9f215e795081a713ea67b41f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 18ed67f7ba064d44614196da4190ce18a996bd5f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119961644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055096"
 ---
 # <a name="pbt_apmpowerstatuschange-event"></a>\_Событие ПБТ апмповерстатусчанже
 
@@ -71,7 +71,7 @@ WindowProc( HWND hwnd,      // handle to window
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Приложение должно обработать это событие, вызвав функцию [**GetSystemPowerStatus**](/windows/desktop/api/Winbase/nf-winbase-getsystempowerstatus) для получения текущего состояния питания компьютера. В частности, приложение должно проверять члены **аклинестатус**, **баттерифлаг**, **Баттерилифетиме** и **баттерилифеперцент** структуры [**Power System \_ \_ Status**](/windows/desktop/api/Winbase/ns-winbase-system_power_status) для любых изменений. Это событие может возникать, когда время работы аккумулятора падает менее чем за 5 минут или когда процент времени работы батареи падает ниже 10% или если время работы батареи изменяется на 3 процента.
 

@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 32d5292f9814b3ef62667d44582eab44a2f18ac6c274682d180dd26f1b7cdd9f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c71eec6b9dab4c649b11da5b24568eea816774ef
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120062584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054079"
 ---
 # <a name="lvm_getitemtext-message"></a>\_Сообщение LVM жетитемтекст
 
@@ -49,7 +49,7 @@ ms.locfileid: "120062584"
 
 Если сообщение отправляется явным образом, оно возвращает число символов в элементе **псзтекст** структуры [**лвитем**](/windows/win32/api/commctrl/ns-commctrl-lvitema) .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это сообщение можно также отправить, вызвав макрос [**\_ жетитемтекст ListView**](/windows/desktop/api/Commctrl/nf-commctrl-listview_getitemtext) . Однако этот макрос не возвращает длину строки.
 

@@ -4,12 +4,12 @@ ms.assetid: a085709e-1c61-4ae2-832e-fda59479cef6
 title: Константы политики разрядов (WinNT. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6a05237b7555cc7281f132f02110a10cb5b58cd342d6872b16c1a6319773ea8d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 052d07a5fe538543b66ec8d48c940f63fe82a682
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119961874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055117"
 ---
 # <a name="discharge-policy-constants"></a>Константы политики разрядов
 
@@ -25,7 +25,7 @@ ms.locfileid: "119961874"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 1f1b50b16a099c8698bbf5bef270173334f1c3ac2c3d2d67ff87778cffddf2ff
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fe01d33d7a7c1cb65bc0e2391af63e3519d9cce3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118955193"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053592"
 ---
 # <a name="cbasepingetmediatypeversion-method"></a>Кбасепин. Жетмедиатипеверсион, метод
 
@@ -44,13 +44,13 @@ virtual LONG GetMediaTypeVersion();
 
 Возвращает переменную члена [**кбасепин:: m \_ типеверсион**](cbasepin-m-typeversion.md) .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Конструктор **кбасепин** Инициализирует номер версии равным 1. В базовом классе это число никогда не изменяется. Если ПИН-код динамически изменяет свой список предпочтительных типов мультимедиа, он должен увеличивать номер версии при каждом изменении списка. Чтобы увеличить номер версии, вызовите метод [**кбасепин:: инкременттипеверсион**](cbasepin-incrementtypeversion.md) .
 
 Перечислитель типа мультимедиа, реализуемый классом [**ценуммедиатипес**](cenummediatypes.md) , использует номер версии для синхронизации с ПИН-кодом.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ virtual LONG GetMediaTypeVersion();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

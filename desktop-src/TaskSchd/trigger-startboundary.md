@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4b49fa865c215c3190b2d081390c98eec1336ffb00a4bf1e9dd9d94226105e96
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 141e7e4d80d090e92ecb951917f60f972587d4b5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119002082"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891437"
 ---
 # <a name="triggerstartboundary-property"></a>Свойство Trigger. Стартбаундари
 
@@ -40,7 +40,7 @@ Trigger.StartBoundary As String
 
 Дата и время активации триггера. Дата и время должны быть в следующем формате: гггг-мм-DDTHH: мм: СС (+-) чч: мм. Например, дата 11 октября 2005 по 1:21:17 в тихоокеанском часовом поясе будет записана как 2005-10-11T13:21:17-08:00. Раздел (+-) чч: мм в формате описывает часовой пояс как определенное число часов перед временем в формате UTC (время по Гринвичу).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При чтении или записи XML для задачи начальная граница триггера задается в элементе [**стартбаундари**](taskschedulerschema-startboundary-triggerbasetype-element.md) схемы планировщик задач.
 

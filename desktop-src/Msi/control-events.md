@@ -4,12 +4,12 @@ ms.assetid: 8768acaa-884b-428f-a14e-3f39f8ea4ad5
 title: события элемента управления (установщик Windows)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fdd72e93da7ed84c845b5993b2a021119c861b682ab5eb4645c69c723b17a404
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 221e8d9e6a8cea9a02b303040d06da346800912e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120075094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142225"
 ---
 # <a name="control-events-windows-installer"></a>события элемента управления (установщик Windows)
 
@@ -39,7 +39,7 @@ ms.locfileid: "120075094"
 | [невдиалог](newdialog-controlevent.md)                             | Уведомляет установщик о необходимости изменения модального диалогового окна в другое диалоговое окно.                                                                                                                                  |
 | [Переустановка](reinstall-controlevent.md)                             | Инициирует повторную установку компонентов.                                                                                                                                                                       |
 | [ReinstallMode](reinstallmode-controlevent.md)                     | Задает режим проверки во время повторной установки.                                                                                                                                                        |
-| [Remove](remove-controlevent.md)                                   | Уведомляет установщик о том, что функции выбраны для удаления.                                                                                                                                                |
+| [Удалить](remove-controlevent.md)                                   | Уведомляет установщик о том, что функции выбраны для удаления.                                                                                                                                                |
 | [Сброс](reset-controlevent.md)                                     | Сбрасывает все значения свойств до значений по умолчанию, используемых при создании диалогового окна.                                                                                                                    |
 | [рмшутдовнандрестарт](rmshutdownandrestart-controlevent.md)       | Используйте [Диспетчер перезапуска](/windows/desktop/RstMgr/restart-manager-portal) , чтобы завершить работу всех приложений, в которых используются файлы, и перезапустить их в конце установки.                                                              |
 | [скриптинпрогресс](scriptinprogress-controlevent.md)               | Отображает строку во время компиляции скрипта выполнения.                                                                                                                                                     |

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: d1ba935fc5476becaf5edd4001efe8e604a97fc5e3a3ee8e965b606568d01863
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6ccb364545df514e098811ff6135e0c8cf72a329
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120043744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054016"
 ---
 # <a name="cbaserenderersetmediatype-method"></a>Кбасерендерер. Сетмедиатипе, метод
 
@@ -53,7 +53,7 @@ virtual HRESULT SetMediaType(
 
 Возвращает значение S \_ ОК.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Входной ПИН-код вызывает этот метод из собственного метода [**крендереринпутпин:: сетмедиатипе**](crendererinputpin-setmediatype.md) . Этот метод не выполняет никаких действий в базовом классе.
 

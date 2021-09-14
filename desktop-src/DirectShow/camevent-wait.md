@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 3875647cb93619e8326066bc9af7a6f99f79a0b0a2df58f668b1e365fd39102b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0ab5bc2aabf77fb73739528e99cda7961ae87e9d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118662515"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147953"
 ---
 # <a name="cameventwait-method"></a>Камевент. Wait, метод
 
@@ -57,7 +57,7 @@ BOOL Wait(
 
 Для событий автоматического сброса событие сбрасывается в несигнальное состояние, когда этот метод возвращает значение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -4,12 +4,12 @@ description: ActiveX Рекомендации по контейнерам эле
 ms.assetid: fffb71bd-fcb3-49b0-9e12-a30d4cf96a00
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 00f3420dc0b43a04c203c80b2c97dac2a2f9d3764667e2fcd72a7b871c086ef3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 1bae1941403e0724015d156e40f9925eb381e204
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120097094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053203"
 ---
 # <a name="activex-control-and-control-container-guidelines"></a>ActiveX Рекомендации по контейнерам элементов управления и контроля
 

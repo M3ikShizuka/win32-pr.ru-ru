@@ -39,12 +39,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 3efe326ce7b67ca27250960cd3a072c9ca39f78dba36676944e24ee7ea698463
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 73e0ef7cbc71872d26f75311b6d72ac48bbfae8e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119917494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053726"
 ---
 # <a name="win32_sounddevice-class"></a>\_Класс Win32 саунддевице
 
@@ -84,7 +84,7 @@ class Win32_SoundDevice : CIM_LogicalDevice
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ саунддевице** имеет следующие типы членов:
 
@@ -882,7 +882,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1245,7 +1245,7 @@ Windows Самонастраивающийся идентификатор уст
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ саунддевице** является производным от [**CIM \_**](cim-logicaldevice.md)-класса.
 
@@ -1280,7 +1280,7 @@ Next
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -1294,7 +1294,7 @@ Next
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

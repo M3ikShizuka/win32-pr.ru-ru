@@ -15,11 +15,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 6066dfd4280f7c43c9804933fb1ed5fb931bfa08
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104262504"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054897"
 ---
 # <a name="renameprinter-method-of-the-win32_printer-class"></a>Метод Ренамепринтер \_ класса принтера Win32
 
@@ -118,7 +118,7 @@ Next
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

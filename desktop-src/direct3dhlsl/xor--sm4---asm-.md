@@ -4,12 +4,12 @@ description: Битовая операция XOR.
 ms.assetid: 6B949653-6DDA-402B-8ABE-B93858B68470
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9a4dae86a4c6ade427b749c2bb72974564b8a4b7a6baae6821edb3c0d63b2164
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e7a998bd1e95793f463d7f234b464a542bed4fc0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119892414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966410"
 ---
 # <a name="xor-sm4---asm"></a>XOR (SM4-ASM)
 
@@ -36,7 +36,7 @@ ms.locfileid: "119892414"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта инструкция выполняет покомпонентное Логическое исключающее XOR каждой пары 32-разрядных значений из *src0* и *src1*. 32-разрядные результаты помещаются в *dest*.
 
@@ -60,9 +60,9 @@ ms.locfileid: "119892414"
 
 | Модель шейдера                                              | Поддерживается |
 |-----------------------------------------------------------|-----------|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | Да       |
-| [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | Да       |
-| [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | Да       |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | yes       |
+| [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | yes       |
+| [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | yes       |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет        |
 | [Модель шейдера 2 (DirectX HLSL)](dx-graphics-hlsl-sm2.md) | Нет        |
 | [Модель шейдера 1 (DirectX HLSL)](dx-graphics-hlsl-sm1.md) | Нет        |

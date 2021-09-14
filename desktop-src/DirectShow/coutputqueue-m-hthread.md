@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 1148c7959d3ebaa35fe621c49d06928c9fc69a815633d7f291a38c32484acb88
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a041982c2bc83bc650c21252851cf07340e014af
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120087194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054702"
 ---
 # <a name="coutputqueuem_hthread-member"></a>Элемент Каутпуткуеуе:: m \_ хсреад
 
@@ -47,7 +47,7 @@ HANDLE m_hThread;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

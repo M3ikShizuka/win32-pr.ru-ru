@@ -4,12 +4,12 @@ ms.assetid: f901a88f-7e01-4e7f-a0f2-59f2a01b03cd
 title: размещенный элемент
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: afc3ea8dae3e705800cb4a1d2733bc86bcd491a25f2888ca258a47d6e765b796
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e3d281b5e058f8716c12c655ebcdb9a17bdfa4fb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117738424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966982"
 ---
 # <a name="hosted-element"></a>размещенный элемент
 
@@ -61,7 +61,7 @@ ms.locfileid: "117738424"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Каждая служба, предоставляемая узлом службы, должна иметь собственные сведения о **размещенном** элементе, чтобы обеспечить правильную публикацию службы в ответ на запросы метаданных.
 

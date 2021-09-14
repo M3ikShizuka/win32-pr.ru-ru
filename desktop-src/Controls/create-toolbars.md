@@ -4,12 +4,12 @@ description: Чтобы создать панель инструментов, и
 ms.assetid: 5D060291-6ACF-478C-97EC-CD8BD55D1FFF
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 24ea2751edf513aadf197199f92389a9fb4ad0e1ecd1048b945dd78802dc674b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a69cd40338eaebc0d9de852519dce34dc9bc8aa4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119542043"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126892405"
 ---
 # <a name="how-to-create-toolbars"></a>Создание панелей инструментов
 
@@ -21,12 +21,12 @@ ms.locfileid: "119542043"
 
 -   [Windows Элементы управления](window-controls.md)
 
-### <a name="prerequisites"></a>Необходимые компоненты
+### <a name="prerequisites"></a>Предварительные требования
 
 -   C/C++
 -   Windows Программирование пользовательского интерфейса
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="create-a-toolbar"></a>Создание панели инструментов
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 5d8f9d30b057c1c011dcbff1b7d8c88e9183d50ca1fc2b7dd046b79fe8279d37
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 01e83520943abafd814425b6ff3fb53f48775627
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118953962"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053966"
 ---
 # <a name="creftime-class"></a>Класс Крефтиме
 
@@ -50,7 +50,7 @@ ms.locfileid: "118953962"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Использование этого класса может привести к возникновению трудностей. Если применить оператор + = с объектом **крефтиме** в качестве левого операнда и переменной типа **Long** в качестве правого операнда, компилятор будет неявно приводить правый операнд к объекту **крефтиме** . Это приведение использует конструктор **крефтиме** , который преобразует миллисекунды в ссылочные \_ единицы времени; в результате правый операнд умножается на 10 000:
 

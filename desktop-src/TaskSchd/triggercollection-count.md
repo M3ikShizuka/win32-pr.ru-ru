@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4526f7b2e1fd40c19935662665b61eee669b1bc9c5b09fffbbbb79bdb735da5b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 53957f4d829780cc09e3b0818266903614c343a2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119002002"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891389"
 ---
 # <a name="triggercollectioncount-property"></a>Тригжерколлектион. Count, свойство
 

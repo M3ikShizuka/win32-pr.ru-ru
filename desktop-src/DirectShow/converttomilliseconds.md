@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 6e68b84482a437789c620efee7455144905fd33e7b1bdb651df207958ee6befc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 066f50856824a9bc7b5bbb8c4918c7cbfe5b9da5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119073747"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147805"
 ---
 # <a name="converttomilliseconds-function"></a>Функция Конверттомиллисекондс
 
@@ -53,7 +53,7 @@ LONGLONG ConvertToMilliseconds(
 
 Возвращает время ссылки, преобразованное в миллисекунды.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -64,7 +64,7 @@ LONGLONG ConvertToMilliseconds(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

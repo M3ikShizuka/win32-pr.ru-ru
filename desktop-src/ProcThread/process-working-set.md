@@ -4,12 +4,12 @@ ms.assetid: 6017ef59-d2e9-4245-a406-8965024dbb35
 title: Рабочий набор процесса
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a345df46f4d36e8400112c54492d7844c7a46b5d5ae125a3d9103db9cbcc18c7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aaded3d0b5f8c6ad552cc728c68ad0407391c343
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117793512"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055058"
 ---
 # <a name="process-working-set"></a>Рабочий набор процесса
 
@@ -23,7 +23,7 @@ ms.locfileid: "117793512"
 
 Чтобы получить текущий или пиковый размер рабочего набора для процесса, используйте функцию [**жетпроцессмеморинфо**](/windows/win32/api/psapi/nf-psapi-getprocessmemoryinfo) .
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

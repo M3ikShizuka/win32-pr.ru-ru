@@ -5,11 +5,11 @@ title: Фильтр мультиплексора AVI
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: d3250746a65aaaf075c28700c3531bf97b1faf23
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122986267"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127148098"
 ---
 # <a name="avi-mux-filter"></a>Фильтр мультиплексора AVI
 
@@ -20,7 +20,7 @@ ms.locfileid: "122986267"
 
 
 
-| Метка | Применение |
+| Метка | Значение |
 |--------|-------|
 | Интерфейсы фильтра | <a href="/windows/desktop/api/Strmif/nn-strmif-ibasefilter"><strong>Ибасефилтер</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-iconfigavimux"><strong>иконфигавимукс</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-iconfiginterleaving"><strong>иконфигинтерлеавинг</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-imediaseeking"><strong>имедиасикинг</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-ipersistmediapropertybag"><strong>иперсистмедиапропертибаг</strong></a>, ISpecifyPropertyPages | 
 | Типы носителей входных закрепления | Любой основной тип, соответствующий старому типу FOURCC или MEDIATYPE_AUXLine21Data. (Дополнительные сведения см. в разделе <a href="fourccmap.md"><strong>класс фаурккмап</strong></a>.)<ul><li>Если основной тип — MEDIATYPE_Audio, формат должен быть FORMAT_WaveFormatEx.</li><li>Если основной тип — MEDIATYPE_Video, формат должен быть FORMAT_VideoInfo или FORMAT_DvInfo.</li><li>Если основной тип — MEDIATYPE_Interleaved, формат должен быть FORMAT_DvInfo.</li></ul> | 
@@ -38,7 +38,7 @@ ms.locfileid: "122986267"
 
  
 
-### <a name="remarks"></a>Комментарии
+### <a name="remarks"></a>Remarks
 
 В следующих примечаниях описаны различные аспекты функциональности фильтра мультиплексора AVI.
 
@@ -52,7 +52,7 @@ ms.locfileid: "122986267"
 
 
 
-| Свойство | Описание                                                           |
+| Свойство. | Описание                                                           |
 |----------|-----------------------------------------------------------------------|
 | name     | Имя потока. Это свойство записывается как `'strn'` фрагмент. |
 

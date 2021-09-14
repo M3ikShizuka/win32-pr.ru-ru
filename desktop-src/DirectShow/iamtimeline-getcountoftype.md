@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 8e9eb896f00752c5d9369cf494e7b1426347f82a7ebe2aac74f7822a936c2ffb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f0636eac7c651ed003c618e258f7dbf2bdd60996
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118401065"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054579"
 ---
 # <a name="iamtimelinegetcountoftype-method"></a>Метод Иамтимелине:: Жеткаунтофтипе
 
@@ -92,7 +92,7 @@ HRESULT GetCountOfType(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Вызов этого метода эквивалентен вызову [**иамтимелинекомп:: жеткаунтофтипе**](iamtimelinecomp-getcountoftype.md) для указанной группы. Дополнительные сведения см. в разделе "Примечания" этого метода.
 

@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: b9faf923cf6c771e95a7dfb4f0b04f896c54d79c6b5548e97850d867057b065b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 927dd6b2664c92ff07e94407fdc59fdd917363dd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117834651"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053765"
 ---
 # <a name="joindomainorworkgroup-method-of-the-win32_computersystem-class"></a>Метод Жоиндомаинорворкграуп \_ класса ComputerSystem Win32
 
@@ -396,7 +396,7 @@ uint32 JoinDomainOrWorkgroup(
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При перемещении компьютера из домена в рабочую группу необходимо удалить компьютер из домена (с помощью вызова [**унжоиндомаинорворкграуп**](unjoindomainorworkgroup-method-in-class-win32-computersystem.md)) перед вызовом этого метода для приподключения к Рабочей группе (с вызовом **жоиндомаинорворкграуп**). После вызова этого метода перезагрузите затронутый компьютер, чтобы применить изменения.
 

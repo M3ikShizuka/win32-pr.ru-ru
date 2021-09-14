@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fcd367a828e7f431b6177a2ec99fe508fec3e48c4743d492277f00ed4965e001
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 591b57dbc5441e96c1c6d3963172864713ed939f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117831167"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054338"
 ---
 # <a name="em_setmodify-message"></a>\_Сообщение СЕТМОДИФИ EM
 
@@ -47,7 +47,7 @@ ms.locfileid: "117831167"
 
 Это сообщение не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При создании элемента управления система автоматически очищает флаг изменения до нуля. Если пользователь изменяет текст элемента управления, система устанавливает флаг в значение ненулевой. Чтобы получить текущее состояние флага, можно отправить сообщение [**EM \_**](em-getmodify.md) в элемент управления Edit.
 
@@ -63,7 +63,7 @@ ms.locfileid: "117831167"
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 

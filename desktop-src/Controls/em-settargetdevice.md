@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2d9a3cd4e59f3800b91fedee446e927ab0ec39988474752561a04dace5572ef0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8f82d6ee5df86572564cffcf192395ccee1fbd05
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119697594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054307"
 ---
 # <a name="em_settargetdevice-message"></a>\_Сообщение СЕТТАРЖЕТДЕВИЦЕ EM
 
@@ -47,7 +47,7 @@ HDC для целевого устройства.
 
 Возвращаемое значение равно нулю, если операция завершается с ошибкой, или ненулевой, если она завершается успешно.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Параметр HDC для принтера по умолчанию можно получить следующим образом.
 
@@ -66,7 +66,7 @@ if (PrintDlg(&pd))
 
 Если значение *lParam* равно нулю, разрывы строк не создаются.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

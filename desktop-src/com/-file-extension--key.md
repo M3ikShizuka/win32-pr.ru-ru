@@ -5,11 +5,11 @@ ms.assetid: 018998a8-c0da-43ea-bae2-3b184897eb9b
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: e602266f3c851975c2f8e008ced5dfc8e2d40b64
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369605"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967006"
 ---
 # <a name="file_extension-key"></a><\_> ключ расширения файла
 
@@ -22,13 +22,13 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes
    .ext = ProgID
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 сведения, содержащиеся в ключе расширения имени файла, используются как в обозревателе Windows, так и в моникерах файлов. [**Жетклассфиле**](/windows/desktop/api/Objbase/nf-objbase-getclassfile) использует ключ расширения имени файла для предоставления связанного идентификатора CLSID.
 
 Ключ **\_ \_ \\ \\ классов программного обеспечения файла hKey на локальном компьютере** соответствует **\_ \_ корневому ключу classes** , который был сохранен для совместимости с предыдущими версиями com.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

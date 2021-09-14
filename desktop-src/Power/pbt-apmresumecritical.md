@@ -4,12 +4,12 @@ ms.assetid: f2997905-26c9-4884-ae79-64df5ce6bc55
 title: Событие PBT_APMRESUMECRITICAL (WinUser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f13214a97e99954d0649df0647bdf6ee3823b91926c0f2f2dc1212fa780a7b6c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3ef4a76e163f2e61e723f4df6572254e8ef89b40
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119961713"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055091"
 ---
 # <a name="pbt_apmresumecritical-event"></a>\_Событие ПБТ апмресумекритикал
 
@@ -73,11 +73,11 @@ WindowProc( HWND   hwnd,    // handle to window
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Так как критическая приостановка происходит без предварительного уведомления, ранее доступные ресурсы и данные могут отсутствовать, когда приложение получит это событие. Приложение должно попытаться восстановить свое состояние до оптимальной способности. В критической приостановке система поддерживает состояние DRAM и локальные жесткие диски, но может не поддерживать сетевые подключения. Приложению может потребоваться принять меры относительно файлов, открытых в сети до критической приостановки.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -86,12 +86,12 @@ WindowProc( HWND   hwnd,    // handle to window
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                                              |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                                                                    |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                                           |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                                           |
 | Заголовок<br/>                   | <dl> <dt>WinUser. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

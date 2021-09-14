@@ -4,12 +4,12 @@ description: В этом разделе показано, как использ�
 ms.assetid: 11C0DB10-59BA-47C4-8687-101A2A85D660
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 926dc09e1e8cee85d230b0715684e084350c97c64b6f6cafb8228cc82cc61dc4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 03829990605271574a2030486ac5aba428867ec3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119920474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054466"
 ---
 # <a name="how-to-create-a-directory-listing-in-a-single-selection-listbox"></a>Создание списка каталогов в списке с одним выбором
 
@@ -28,7 +28,7 @@ ms.locfileid: "119920474"
 -   C/C++
 -   Windows Программирование пользовательского интерфейса
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 
 Приложение, содержащее список каталогов, должно выполнять следующие задачи, связанные со списком:

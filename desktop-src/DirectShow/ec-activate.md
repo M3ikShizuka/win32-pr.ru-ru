@@ -4,12 +4,12 @@ ms.assetid: 2e004899-bb2b-4127-b606-e2a979275836
 title: EC_ACTIVATE (DShow. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b14d9b0ad192045f179d9f0f366eed6a32efb0e6cc6f61b47255f118b7f55258
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 81e48adb3ae98af172664b807386c615d34b6b22
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119966064"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053457"
 ---
 # <a name="ec_activate"></a>\_Активация EC
 
@@ -37,7 +37,7 @@ ms.locfileid: "119966064"
 
 Диспетчер графов фильтров устанавливает фокус с помощью интерфейса [**метод IResourceManager**](/windows/desktop/api/Strmif/nn-strmif-iresourcemanager) . Он не отправляет уведомление о событии в приложение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Модуль обработки видео отправляет это событие всякий раз, когда окно активируется или деактивируется (то есть при получении сообщения WM \_ активатеапп). Активация или деактивация окна может быть вызвана тем, что окно получило или потеряло фокус, либо поскольку модуль подготовки отчетов переключен между полноэкранным режимом и оконным режимом.
 

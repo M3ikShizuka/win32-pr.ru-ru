@@ -4,12 +4,12 @@ ms.assetid: ce773140-7e50-4b72-8cb5-e34cba51644d
 title: Задание свойств для эффектов и переходов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1305eb7860b5519b14cfeebc349643c2662db3f133c0bf3424d1d71ccf85753c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c4ddd129eb9d4ab24ebef6f5c760a4211f26c9a6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119904264"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053843"
 ---
 # <a name="setting-properties-on-effects-and-transitions"></a>Задание свойств для эффектов и переходов
 

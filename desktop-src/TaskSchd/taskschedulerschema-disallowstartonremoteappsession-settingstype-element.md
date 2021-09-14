@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: d2f7834ecd57fa10aaaabfa21945f1e908834d535d50f94b4dd21e6ca45c0a62
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 11e3d0a367f2385e78cf1ec56231bbf7632fe05b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120010804"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891525"
 ---
 # <a name="disallowstartonremoteappsession-settingstype-element"></a>Дисалловстартонремотеаппсессион (Сеттингстипе), элемент
 
@@ -44,7 +44,7 @@ ms.locfileid: "120010804"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значение по умолчанию для этого элемента — false.
 

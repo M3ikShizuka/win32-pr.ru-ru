@@ -10,12 +10,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: edaafa00f792cf01b4166d525171cf15b7f781c8c0c943c17377b3bd9b3401dd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7cbf7c42b8523bcd12b19e9b474ecc50bd031939
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119020592"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054977"
 ---
 # <a name="create-method-of-the-win32_clustershare-class"></a>Метод Create \_ класса Win32 клустершаре
 
@@ -140,7 +140,7 @@ IPC
 *Пароль* \[ в необязательное\]
 </dt> <dd>
 
-Подлежит уточнению
+TBD
 
 </dd> <dt>
 
@@ -151,7 +151,7 @@ IPC
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -165,7 +165,7 @@ IPC
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

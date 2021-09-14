@@ -21,12 +21,12 @@ api_type:
 - Schema
 api_location:
 - All
-ms.openlocfilehash: ad6713cea39f02e59b49b69e2fa2a8a060cb7a6f78d3b6143bc2c2dbc0de1965
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ea2a765225145ce3d44e0aff89aeaca0a7563e0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119051112"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967193"
 ---
 # <a name="__ace-class"></a>\_\_Класс ACE
 
@@ -49,7 +49,7 @@ class  __ACE : __SecurityRelatedClass
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ \_ ACE** имеет следующие типы членов:
 
@@ -152,11 +152,11 @@ class  __ACE : __SecurityRelatedClass
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот класс предоставляет свойства, наследуемые классом [**\_ ACE Win32**](/previous-versions/windows/desktop/secrcw32prov/win32-ace) , который является членом класса [**Win32 \_ SecurityDescriptor**](/previous-versions/windows/desktop/secrcw32prov/win32-securitydescriptor) . Дополнительные сведения см. в разделе [объекты дескрипторов безопасности WMI](wmi-security-descriptor-objects.md) и [изменение параметров безопасности доступа для защищаемых объектов](changing-access-security-on-securable-objects.md). Дополнительные сведения об [элементах управления доступом](/windows/desktop/SecAuthZ/access-control-components)см. в разделе компоненты контроля доступа.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -168,7 +168,7 @@ class  __ACE : __SecurityRelatedClass
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

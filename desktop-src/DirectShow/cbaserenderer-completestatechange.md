@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 260cd5692e10fb6e6adaa3ed715944eb773064afaea68f5e0909fa08f45adfb9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d2465aeed3347f6ebc592dbe01bc3580a30983e0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119872364"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147909"
 ---
 # <a name="cbaserenderercompletestatechange-method"></a>Кбасерендерер. Комплетестатечанже, метод
 
@@ -57,7 +57,7 @@ virtual HRESULT CompleteStateChange(
 
 Метод [**кбасерендерер::P Аусе**](cbaserenderer-pause.md) вызывает этот метод для обновления состояния перехода состояния. Как правило, переход на приостановку не завершается до тех пор, пока фильтр не получит пример. Однако в некоторых ситуациях переход завершается немедленно: например, если фильтр не подключен или достигнут конец потока. Этот метод проверяет различные критерии, а затем вызывает метод [**кбасерендерер:: Ready**](cbaserenderer-ready.md) или метод [**Кбасерендерер:: NotReady**](cbaserenderer-notready.md) для обновления состояния перехода.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ virtual HRESULT CompleteStateChange(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

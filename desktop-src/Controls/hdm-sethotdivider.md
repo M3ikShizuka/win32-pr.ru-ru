@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: eedfca7a6f0d10651984efb63c4db63116c4a53d2b9f9b85905c93fc12e6ca16
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: feb894100878e9b3ee85e8e8367a4b81a022a0a5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119544754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054222"
 ---
 # <a name="hdm_sethotdivider-message"></a>\_Сообщение СЕСОТДИВИДЕР HDM
 
@@ -62,11 +62,11 @@ ms.locfileid: "119544754"
 
 Возвращает значение, равное индексу разделителя, выделенного элементом управления.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это сообщение создает действие, которое автоматически создается элементом управления "заголовок", если он имеет стиль [**HDS \_ DRAGDROP**](header-control-styles.md) . Сообщение **\_ сесотдивидер HDM** предназначено для использования, когда владелец элемента управления обрабатывает операции перетаскивания вручную.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

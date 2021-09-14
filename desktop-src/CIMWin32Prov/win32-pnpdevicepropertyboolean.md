@@ -19,12 +19,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 111cb3893f835483320b1875636c3715b756f9328d15e402e25ce5e3161ee9eb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b64ea80fe1304a0991e592a582ea16db76722b0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118417635"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968809"
 ---
 # <a name="win32_pnpdevicepropertyboolean-class"></a>\_Класс Win32 пнпдевицепропертибулеан
 
@@ -45,7 +45,7 @@ class Win32_PnPDevicePropertyBoolean : Win32_PnPDeviceProperty
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ пнпдевицепропертибулеан** имеет следующие типы членов:
 
@@ -57,7 +57,7 @@ class Win32_PnPDevicePropertyBoolean : Win32_PnPDeviceProperty
 
 <dl> <dt>
 
-**Данные**
+**Data**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **логический**

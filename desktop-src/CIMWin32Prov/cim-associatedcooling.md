@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 71f9c129a7883e5594affeefab8de9c20cf30ff092c5ce315471dbf5bc0a316a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: bb838129226b225f024917e8f8e77ddc92ddf2ff
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119218944"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055003"
 ---
 # <a name="cim_associatedcooling-class"></a>\_Класс CIM ассоЦиатедкулинг
 
@@ -40,7 +40,7 @@ class CIM_AssociatedCooling : CIM_Dependency
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ ассоЦиатедкулинг** имеет следующие типы членов:
 
@@ -84,7 +84,7 @@ class CIM_AssociatedCooling : CIM_Dependency
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **CIM \_ ассоЦиатедкулинг** является производным от [**\_ зависимости CIM**](cim-dependency.md).
 

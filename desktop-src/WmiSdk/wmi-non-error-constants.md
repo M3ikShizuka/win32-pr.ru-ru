@@ -6,11 +6,11 @@ title: Константы WMI, отличные от ошибок (Вбемкл�
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 0880c9fda00f03c1fa8b174242bfc84ed9d75ad8
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104263924"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967017"
 ---
 # <a name="wmi-non-error-constants"></a>Константы WMI, отличные от ошибок
 
@@ -23,7 +23,7 @@ ms.locfileid: "104263924"
 
  
 
-В C++ можно вызвать [**FormatMessage**](/windows/desktop/api/winbase/nf-winbase-formatmessage) и указать **C: \\ Windows \\ system32 \\ WBEM \\wmiutils.dll** в качестве модуля сообщения.
+в C++ можно вызвать [**FormatMessage**](/windows/desktop/api/winbase/nf-winbase-formatmessage) и указать **C: \\ Windows \\ System32 \\ wbem \\wmiutils.dll** в качестве модуля сообщения.
 
 <dl> <dt>
 
@@ -217,7 +217,7 @@ ms.locfileid: "104263924"
 |-------------------------------------|----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                               |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                         |
-| Header<br/>                   | <dl> <dt>Вбемкли. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Вбемкли. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>Вбемкли. idl</dt> </dl> |
 
 

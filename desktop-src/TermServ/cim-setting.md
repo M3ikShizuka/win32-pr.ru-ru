@@ -21,12 +21,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d53499c383c6fcf9ae2774427afcea2ea339408ff0292a3d4ce15286a4a75298
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 56d3a9517df9af92f428000ed064b2bb88b348a0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118131323"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891288"
 ---
 # <a name="cim_setting-class-remote-desktop-services"></a>Класс CIM_Setting (службы удаленных рабочих столов)
 
@@ -48,7 +48,7 @@ class CIM_Setting : CIM_ManagedSystemElement
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ параметров CIM** имеет следующие типы членов:
 
@@ -111,7 +111,7 @@ class CIM_Setting : CIM_ManagedSystemElement
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -202,7 +202,7 @@ class CIM_Setting : CIM_ManagedSystemElement
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -216,7 +216,7 @@ class CIM_Setting : CIM_ManagedSystemElement
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 03d2c7214f9cfb89b8efcb612f3bc07840448ff0eaf1b064556d2797b74d4822
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 74a7b9ca8c8016cca5a78f2e7fe753f00398193e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119918424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054957"
 ---
 # <a name="enablestatic-method-of-the-win32_networkadapterconfiguration-class"></a>Метод EnableStatic \_ класса Win32 NetworkAdapterConfiguration
 
@@ -333,7 +333,7 @@ IPX не включен на адаптере.
 
 91
 
-Доступ запрещен.
+Access denied. (Недопустимое значение {значение_утверждения} для утверждения {имя_утверждения}. Доступ запрещен.)
 
 </dd> <dt>
 
@@ -423,7 +423,7 @@ DHCP не включен на адаптере.
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При использовании **EnableStatic** для изменения IP-адреса удаленного компьютера при подключении через этот адаптер, скорее всего, будет недоступно подключение к удаленному компьютеру и получено сообщение об ОШИБКе RPC No Available. (Однако параметры изменены). Чтобы избежать такой ситуации, рассмотрите возможность изменения шлюза и/или параметров DNS перед установкой IP-адреса адаптера.
 
@@ -501,7 +501,7 @@ else
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -515,7 +515,7 @@ else
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

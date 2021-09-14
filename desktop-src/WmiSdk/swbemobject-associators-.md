@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 87458cec77a6b003a6dd35d0fc0f1a39fb785522401b46fa50a515f869760889
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1f9ff4536936661ece54b5bff29e500ce6e98d3f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119857434"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967066"
 ---
 # <a name="swbemobjectassociators_-method"></a>SWbemObject. методы сопоставления \_
 
@@ -216,7 +216,7 @@ objWbemObjectSet = .Associators_( _
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Дополнительные сведения о СОЕДИНИТЕЛях связанного WQL-запроса, исходных экземпляров и конечных точек см. в разделе [соединители оператора](associators-of-statement.md).
 

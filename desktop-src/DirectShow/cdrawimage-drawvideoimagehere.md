@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 8137c4e18708ce6a0402d1d34caf9560054f267d8de0280a6efb5c3dd36e6517
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 599dd82e282f2d14ac7e974363a62695e209c080
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119909814"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053541"
 ---
 # <a name="cdrawimagedrawvideoimagehere-method"></a>Кдравимаже. Драввидеоимажехере, метод
 
@@ -77,7 +77,7 @@ BOOL DrawVideoImageHere(
 
 Возвращает **значение true** в случае успеха.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -88,7 +88,7 @@ BOOL DrawVideoImageHere(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

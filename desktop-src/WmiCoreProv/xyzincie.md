@@ -15,12 +15,12 @@ api_type:
 - DllExport
 api_location:
 - WmiProv.dll
-ms.openlocfilehash: bc84f1550d2ba20daa0fb92dd3ce6f8d934207cff09de6d8b3e8b961bd341b6c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ba7f781a83f3e6ba5aa4683003386a0478d65088
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118110785"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967182"
 ---
 # <a name="xyzincie-class"></a>Класс КсизинЦие
 
@@ -36,7 +36,7 @@ class XYZinCIE : WmiMonitorColorCharacteristics
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **ксизинЦие** имеет следующие типы членов:
 
@@ -74,7 +74,7 @@ class XYZinCIE : WmiMonitorColorCharacteristics
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс [**вмимониторколорчарактеристикс**](wmimonitorcolorcharacteristics.md) содержит внедренные экземпляры класса **ксизинЦие** для описания цветовых характеристик монитора.
 
@@ -94,7 +94,7 @@ class XYZinCIE : WmiMonitorColorCharacteristics
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

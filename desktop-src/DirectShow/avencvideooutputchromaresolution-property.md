@@ -4,12 +4,12 @@ ms.assetid: b0614cdb-1eef-486d-85c1-d5644853fa94
 title: Свойство Авенквидеуутпутчромаресолутион (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 597b3422320087565c52817340a60bf16769606d2b3cfb20947af3d8535809a7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e83bcc7b5399cc1633ea50a9a917f55ec18c378b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119274964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127148169"
 ---
 # <a name="avencvideooutputchromaresolution-property"></a>Авенквидеуутпутчромаресолутион, свойство
 
@@ -29,7 +29,7 @@ ms.locfileid: "119274964"
 
 Значение этого свойства является членом перечисления [**еавенквидеочромаресолутион**](/windows/win32/api/codecapi/ne-codecapi-eavencvideochromaresolution) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -37,7 +37,7 @@ ms.locfileid: "119274964"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional приложения \[ UWP для классических приложений \|\]<br/>                     |
 | Минимальная версия сервера<br/> | \[приложения UWP для классических приложений Windows 2000 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
 
 
 

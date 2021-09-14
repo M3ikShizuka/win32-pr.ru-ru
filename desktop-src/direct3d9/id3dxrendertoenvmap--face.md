@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 1190e033f9aa83b13f327fcb8a8b530be17132bfd330c9be6b9cc6d87d5e35a0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 452933c0d85a7aad2987011796ff47eff41dc32b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118801223"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966654"
 ---
 # <a name="id3dxrendertoenvmapface-method"></a>Метод ID3DXRenderToEnvMap:: Face
 
@@ -65,7 +65,7 @@ HRESULT Face(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть D3DERR \_ инвалидкалл.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод должен вызываться один раз для каждого типа схемы среды. Единственным исключением является схема среды кубического типа, которая требует, чтобы этот метод вызывался шесть раз, один раз для каждого из граней в D3DCUBEMAP Face \_ . Дополнительные сведения см. в разделе [сопоставление среды (Direct3D 9)](environment-mapping.md).
 

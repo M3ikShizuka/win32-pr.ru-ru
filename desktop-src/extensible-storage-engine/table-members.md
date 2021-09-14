@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.tabl
 ms:contentKeyID: 55104054
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 047dd1605429c0a72c63fd609a8c08ccd65d333cbab82f24ad010b9f096e8122
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b4e5bd09cf1c450197978e3126dc63fe96ec6425
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117703207"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969010"
 ---
 # <a name="table-members"></a>Участники таблицы 
 
@@ -68,7 +68,7 @@ ms.locfileid: "117703207"
 </tr>
 <tr class="odd">
 <td><img src="../images/dn292128.pubproperty(exchg.10).gif" title="Открытое свойство" alt="Public property" /></td>
-<td><a href="dn351170(v=exchg.10).md">Имя</a></td>
+<td><a href="dn351170(v=exchg.10).md">имя</a>;</td>
 <td>Возвращает имя этой таблицы.</td>
 </tr>
 </tbody>
@@ -181,7 +181,7 @@ ms.locfileid: "117703207"
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

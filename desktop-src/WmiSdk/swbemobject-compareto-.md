@@ -17,11 +17,11 @@ api_type:
 api_location:
 - Wbemdisp.dll
 ms.openlocfilehash: f77bf9db9ee864e136ba695051445e543b466e69
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103812412"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967062"
 ---
 # <a name="swbemobjectcompareto_-method"></a>SWbemObject. CompareTo, \_ метод
 
@@ -48,7 +48,7 @@ bAreEqual = .CompareTo_( _
 *обжвбемобжект* \[ окне\]
 </dt> <dd>
 
-Обязательный. Этот параметр является объектом [**SWbemObject**](swbemobject.md) . Это объект, с которым сравнивается первый объект. Объект должен быть допустимым экземпляром **SWbemObject** .
+Обязательный элемент. Этот параметр является объектом [**SWbemObject**](swbemobject.md) . Это объект, с которым сравнивается первый объект. Объект должен быть допустимым экземпляром **SWbemObject** .
 
 </dd> <dt>
 
@@ -175,7 +175,7 @@ bAreEqual = .CompareTo_( _
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Wbemdisp. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_SWBEMOBJECT CLSID<br/>                                                           |

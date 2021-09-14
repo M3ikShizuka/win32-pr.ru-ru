@@ -4,12 +4,12 @@ ms.assetid: c627ac0f-96e8-48b5-9103-4316f487e173
 title: Группы процессоров
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fc5916faf3cf90bce7f8549834fe130f299f782d6b2534969c89d74df454ae9d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cebc5b9ab1b386847b6561a9f6322c2fca0e2ae5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119418674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055055"
 ---
 # <a name="processor-groups"></a>Группы процессоров
 
@@ -45,7 +45,7 @@ ms.locfileid: "119418674"
 
 Список новых функций и структур, поддерживающих группы процессоров, см. [в разделе новые возможности процессов и потоков](what-s-new-in-processes-and-threads.md).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

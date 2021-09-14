@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Защита клиентов и поставщиков C++
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4151440f9e85f7cd9e6590842ffd3d103242410b38f52287dba83ba3bb3faec5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ac93ee88f710bf17a2b6199b3a9b2e89279b4651
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118316163"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967133"
 ---
 # <a name="securing-c-clients-and-providers"></a>Защита клиентов и поставщиков C++
 

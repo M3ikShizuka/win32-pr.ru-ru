@@ -4,12 +4,12 @@ description: Кнопка — это элемент управления, кот
 ms.assetid: 849FFD6B-8CB6-44FA-92EB-35BFA537FB75
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b6a81e17b87c625fade08b9f872c4592ab05e48675b7a5fcf2c19ce95534cda2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3bf86b14893c9cf7c90138bcbd4219751d679b01
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119079457"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968770"
 ---
 # <a name="about-buttons"></a>О кнопках
 

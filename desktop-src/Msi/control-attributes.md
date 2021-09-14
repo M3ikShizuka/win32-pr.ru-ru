@@ -4,12 +4,12 @@ ms.assetid: 948ce3d3-e463-40de-8b5f-21ef18b1a0ce
 title: Атрибуты элемента управления
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: eb9d7412ce3893b785dccf067287c191f033bdf5a100628577260ff10f74ce1e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 61d026e84dadefa67ce9d6e00146c6e1c2017cb9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119500724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142229"
 ---
 # <a name="control-attributes"></a>Атрибуты элемента управления
 
@@ -30,7 +30,7 @@ ms.locfileid: "119500724"
 | attribute                                          | Decimal | Шестнадцатеричный | Константа                               |
 |----------------------------------------------------|---------|-------------|----------------------------------------|
 | [Письмо](bidi-control-attribute.md)                 | 224     | 0x000000E0  | **мсидбконтролаттрибутесбиди**         |
-| [Включен](enabled-control-attribute.md)           | 2       | 0x00000002  | **мсидбконтролаттрибутесенаблед**      |
+| [Enabled](enabled-control-attribute.md)           | 2       | 0x00000002  | **мсидбконтролаттрибутесенаблед**      |
 | [Косвенные](indirect-control-attribute.md)         | 8       | 0x00000008  | **мсидбконтролаттрибутесиндирект**     |
 | [Целочисленный элемент управления](integer-control-attribute.md)   | 16      | 0x00000010  | **мсидбконтролаттрибутесинтежер**      |
 | [лефтскролл](leftscroll-control-attribute.md)     | 128     | 0x00000080  | **мсидбконтролаттрибутеслефтскролл**   |
@@ -53,7 +53,7 @@ ms.locfileid: "119500724"
 | [Префикс не](noprefix-control-attribute.md)           | 131072  | 0x00020000  | **мсидбконтролаттрибутеснопрефикс**      |
 | [Не переносить](nowrap-control-attribute.md)               | 262144  | 0x00040000  | **мсидбконтролаттрибутесноврап**        |
 | [Пароль](password-control-attribute.md)           | 2097152 | 0x00200000  | **мсидбконтролаттрибутеспассвординпут** |
-| [Прозрачный](transparent-control-attribute.md)     | 65536   | 0x00010000  | **мсидбконтролаттрибутестранспарент**   |
+| [Прозрачное](transparent-control-attribute.md)     | 65536   | 0x00010000  | **мсидбконтролаттрибутестранспарент**   |
 | [усерслангуаже](userslanguage-control-attribute.md) | 1048576 | 0x00100000  | **мсидбконтролаттрибутесусерслангуаже** |
 
 

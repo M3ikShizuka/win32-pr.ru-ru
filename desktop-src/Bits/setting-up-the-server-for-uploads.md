@@ -4,12 +4,12 @@ description: Чтобы передать файлы на сервер с пом�
 ms.assetid: 2f3a2f99-b9de-41da-897f-a4d9c6d5e8c0
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e075478f6e0335c6bf601a9289d93d4d3fac2aefd9e4f1ef820e938a1bfc0ab7
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4c2ef81019f4c69157c267cd2438188f440299a4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120004724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053828"
 ---
 # <a name="setting-up-the-server-for-uploads"></a>Настройка сервера для отправки
 

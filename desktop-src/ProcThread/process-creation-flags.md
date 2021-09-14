@@ -5,12 +5,12 @@ title: Флаги создания процесса (Винбасе. h)
 ms.topic: reference
 ms.custom: snippet-project
 ms.date: 07/27/2020
-ms.openlocfilehash: 28ea49959e67e0d50c80c1787dcc08d2dbf5defd6da547c6869d2eb9224cbd62
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 560a6c5ca54a5767c0fb0c9b4b8659d608f46766
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120031784"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055067"
 ---
 # <a name="process-creation-flags"></a>Флаги создания процесса
 
@@ -62,11 +62,11 @@ ms.locfileid: "120031784"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 в 32-разрядных Windowsе 16-разрядные приложения моделируются ntvdm.exe, а не выполняются как отдельные процессы. Поэтому флаги создания процесса применяются к *ntvdm.exe*. Так как ntvdm.exe сохраняются после запуска первого 16-разрядного приложения, при запуске другого 16-разрядного приложения новые флаги создания не применяются, за исключением **создания \_ новой \_ консоли** и **создания отдельных приложений \_ \_ WOW \_ VDM**, которые создают новый ntvdm.exe.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

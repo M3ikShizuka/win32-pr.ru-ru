@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 76101812d3c74dd9d4769706d6b6e1bde9470d530c6d88f2a60331a8666bb3d5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8b35751633387f3db1d7dccbf13694f56717a1d3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118419454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053800"
 ---
 # <a name="delete-method-of-the-win32_pagefile-class"></a>Метод DELETE \_ класса файла подкачки Win32
 

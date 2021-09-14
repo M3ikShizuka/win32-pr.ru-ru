@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 5de058e31da605b96f7b013c03e9c0d020daa11ec676618b4a13f5ff92e701f7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dd8255c7744a155ff8328682005e2aacafaf2d13
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118154930"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891941"
 ---
 # <a name="iamtimelinesrcsetmediatimes-method"></a>Метод Иамтимелинесрк:: Сетмедиатимес
 
@@ -64,7 +64,7 @@ HRESULT SetMediaTimes(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Время работы со носителями — это время начала и окончания работы относительно исходного файла носителя. Всегда устанавливайте время носителя при добавлении источника видео или звука на временную шкалу. В противном случае могут возникнуть проблемы отрисовки. Время окончания должно быть больше времени начала.
 
@@ -84,7 +84,7 @@ HRESULT SetMediaTimes(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -95,7 +95,7 @@ HRESULT SetMediaTimes(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 13fed430-979b-40f7-91ba-aff2d811bd92
 title: динамическая сборка Graph
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f8c7296b95bc97461eb5a16ee577acb4bd267ee1a25f9be357a00fef7d4bdba5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 710bf5f648fc91e8db6bf62d81b41327f874ddf7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118652794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053464"
 ---
 # <a name="dynamic-graph-building"></a>динамическая сборка Graph
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: 5f52daf5174608985b18140d2e6efde849f0bd6292c00584ece3453cca33ebf0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9fd25158f2aa6ab0a22d6226e8e709c3b498b0e7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118520926"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052861"
 ---
 # <a name="id3dxeffectstatemanagersetvertexshader-method"></a>Метод ID3DXEffectStateManager:: Сетвертексшадер
 

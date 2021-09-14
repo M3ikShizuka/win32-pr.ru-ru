@@ -1,5 +1,5 @@
 ---
-description: Сценарии и Visual Basic приложения должны устанавливать безопасность DCOM, особенно для удаленного доступа, а также могут включать права доступа.
+description: сценарии и Visual Basic приложения должны устанавливать безопасность DCOM, особенно для удаленного доступа, а также могут включать права доступа.
 ms.assetid: 4816914d-a1cf-47d8-af20-2b22c53042d6
 ms.tgt_platform: multiple
 title: Защита клиентов скриптов
@@ -11,15 +11,15 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: c58a3dbade78b1dd81b0bf89eb867d8cd5c2f265
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104263807"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967129"
 ---
 # <a name="securing-scripting-clients"></a>Защита клиентов скриптов
 
-Сценарии и Visual Basic приложения должны устанавливать безопасность DCOM, особенно для удаленного доступа, а также могут включать права доступа.
+сценарии и Visual Basic приложения должны устанавливать безопасность DCOM, особенно для удаленного доступа, а также могут включать права доступа.
 
 ## <a name="default-access-permissions"></a>Разрешения на доступ по умолчанию
 
@@ -37,7 +37,7 @@ ms.locfileid: "104263807"
 
 ## <a name="securing-a-scripting-client"></a>Защита клиента скриптов
 
-Приложения для работы со скриптами и Visual Basicом WMI должны правильно задавать уровни безопасности DCOM для операционных систем, на которых они нацелены. Дополнительные сведения см. [в разделе Задание уровня безопасности процесса по умолчанию с помощью VBScript](setting-the-default-process-security-level-using-vbscript.md).
+приложения для работы со скриптами и Visual Basicом WMI должны правильно задавать уровни безопасности DCOM для операционных систем, на которых они нацелены. Дополнительные сведения см. [в разделе Задание уровня безопасности процесса по умолчанию с помощью VBScript](setting-the-default-process-security-level-using-vbscript.md).
 
 При подключении к удаленному компьютеру может потребоваться изменить службу (NTLM или Kerberos), которая обрабатывает проверку подлинности. Дополнительные сведения см. [в разделе Настройка службы проверки подлинности с помощью VBScript](setting-the-authentication-service-using-vbscript.md).
 

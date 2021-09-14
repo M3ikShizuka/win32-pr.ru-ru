@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: faf5532909e8f692aa2c438186a17cf9669170bb4a7d9666682d07ba8d4ea583
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 65437fa0e06c303c7c2c29151f33f74f1678296d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119139167"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968654"
 ---
 # <a name="source-registrationinfotype-element"></a>Элемент Source (Регистратионинфотипе)
 
@@ -43,7 +43,7 @@ ms.locfileid: "119139167"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Для разработки сценариев источник задачи указывается с помощью свойства [**регистратионинфо. Source**](registrationinfo-source.md) .
 

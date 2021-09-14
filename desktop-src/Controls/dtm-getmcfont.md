@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b2bf60f226e7fe5d309324bc517a7fd215abe4591fd5141ff149b14e162ac9be
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d799d5dbbe5e3a4cdf7eede871f9aeac451d17a4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119878134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126892328"
 ---
 # <a name="dtm_getmcfont-message"></a>\_Сообщение DTM жетмкфонт
 
@@ -39,7 +39,7 @@ ms.locfileid: "119878134"
 
 Возвращает значение ХФОНТ, которое является маркером текущего шрифта.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

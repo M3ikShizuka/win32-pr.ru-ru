@@ -4,12 +4,12 @@ ms.assetid: 4df3a7e7-1be4-4cc7-ad61-567f7f45811e
 title: Буттонсаваилабле, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a16e14675238711ef0b572477334fecba0311ca2bb54d67fc3fe012ae6d1ede9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 72cab4afdd9f6e23a376bb72885810b8464f180d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118955563"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147993"
 ---
 # <a name="buttonsavailable-property"></a>Буттонсаваилабле, свойство
 
@@ -34,7 +34,7 @@ ms.locfileid: "118955563"
 
 Вызовите этот метод, чтобы получить верхний предел диапазона допустимых номеров кнопок.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

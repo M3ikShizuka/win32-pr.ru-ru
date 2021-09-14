@@ -4,12 +4,12 @@ ms.assetid: a5e52080-35d4-47f5-9050-90889e3bf2f8
 title: Группировка потоков в пул
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9c581e416952e6bac14dbf12a8f87202925a5254879b7e220c7cb2d780699f9a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: bcf3565401dc57b077e333043861d42b683e810c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120081284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055031"
 ---
 # <a name="thread-pooling"></a>Группировка потоков в пул
 
@@ -29,7 +29,7 @@ ms.locfileid: "120081284"
 
 Для использования пула потоков рабочие элементы и все функции, которые они вызывают, должны быть надежными в пуле потоков. В защищенной функции не предполагается, что поток, выполняющий эту функцию, является выделенным или постоянным потоком. Как правило, следует избегать использования [локального хранилища потока](thread-local-storage.md) или асинхронного вызова, требующего постоянного потока, например функции [**регнотифичанжекэйвалуе**](/windows/win32/api/winreg/nf-winreg-regnotifychangekeyvalue) . Однако такие функции могут вызываться для выделенного потока (созданного приложением) или помещены в очередь постоянного рабочего потока (с помощью [**QueueUserWorkItem**](/windows/win32/api/threadpoollegacyapiset/nf-threadpoollegacyapiset-queueuserworkitem) с \_ параметром WT ексекутеинперсистентсреад).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

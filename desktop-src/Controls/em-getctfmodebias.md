@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 60d6e030e3080ec9bf3d801583b9ade182483ba8560b3eccb2fb9813be7d39cf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 109d5eabbddca1c13fefae99c29d8c550fbd274e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119019752"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054445"
 ---
 # <a name="em_getctfmodebias-message"></a>\_Сообщение ЖЕТКТФМОДЕБИАС EM
 
@@ -47,7 +47,7 @@ ms.locfileid: "119019752"
 
 Текущее значение смещения в режиме платформы текстовых служб.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы получить смещение режима IME, вызовите [**EM \_ жетимемодебиас**](em-getimemodebias.md).
 

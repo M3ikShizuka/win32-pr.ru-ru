@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3DX9Shader.h
-ms.openlocfilehash: 1a343930f55323016895007f858a7fe188418eeab24b16859c2d773e39c9e73b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 05b034a48635e3a5a6d1a3dbdfbabd0fe2933b5c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118524105"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052961"
 ---
 # <a name="d3dxtx_version"></a>\_Версия D3DXTX
 

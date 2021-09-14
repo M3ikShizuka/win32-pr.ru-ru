@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 5ffe3cdf95d5ab248956e670c04572140fa4621fff5b0cb5183f9a7cbd9b837e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 48c42ff02b22d30138fcad7d1e8af5e57a391b99
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117822725"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053581"
 ---
 # <a name="cbaserenderergetcurrentsample-method"></a>Кбасерендерер. Жеткуррентсампле, метод
 
@@ -44,11 +44,11 @@ virtual IMediaSample* GetCurrentSample();
 
 Возвращает указатель на интерфейс [**имедиасампле**](/windows/desktop/api/Strmif/nn-strmif-imediasample) образца или **значение NULL** , если образец недоступен.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если метод не возвращает **значение NULL**, метод вызывает **AddRef** для указателя [**имедиасампле**](/windows/desktop/api/Strmif/nn-strmif-imediasample) перед возвращением. Вызывающий объект должен освободить указатель. (Неявно, необходимо присвоить возвращаемое значение переменной, чтобы его можно было освободить позже.)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ virtual IMediaSample* GetCurrentSample();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

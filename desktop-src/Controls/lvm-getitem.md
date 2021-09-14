@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 05338abce0396c5cc527c8a1c04176b3b59243a684c66a263cb190d59ac68b98
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c19632567db5e37059b1b028a8ec1fc9385268cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120088904"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054082"
 ---
 # <a name="lvm_getitem-message"></a>\_Сообщение LVM
 
@@ -45,7 +45,7 @@ ms.locfileid: "120088904"
 
 Возвращает **значение true** , если успешно, или **false** в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При отправке сообщения **LVM- \_ Item** элементы **Член iItem** и **iSubItem** определяют элемент или подэлемент для получения сведений, а элемент **Mask** указывает, какие атрибуты следует извлечь. Список возможных значений см. в описании структуры [**лвитем**](/windows/win32/api/commctrl/ns-commctrl-lvitema) .
 
@@ -61,7 +61,7 @@ ms.locfileid: "120088904"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 | Имя в кодировке Юникод и ANSI<br/>   | **LVM \_ ЖЕТИТЕМВ** (Юникод) и **LVM- \_ элемент** a (ANSI)<br/>                   |
 
 

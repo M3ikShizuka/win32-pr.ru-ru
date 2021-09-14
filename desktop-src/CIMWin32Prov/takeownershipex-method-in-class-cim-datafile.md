@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: baf0ffe9d9eb961d07731ee9967b32e940dbdb3231935588387972433c61aa74
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 41124567e8743227f46c9cb3b84dcb0d1f788bc3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117834590"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054506"
 ---
 # <a name="takeownershipex-method-of-the-cim_datafile-class"></a>Метод Такеовнершипекс \_ класса CIM File
 
@@ -88,7 +88,7 @@ uint32 TakeOwnerShipEx(
 **2**
 </dt> <dd>
 
-Доступ запрещен.
+Access denied. (Недопустимое значение {значение_утверждения} для утверждения {имя_утверждения}. Доступ запрещен.)
 
 </dd> <dt>
 
@@ -169,7 +169,7 @@ uint32 TakeOwnerShipEx(
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод **такеовнершипекс** в [**\_ файле CIM**](cim-datafile.md) реализуется инструментарием WMI.
 

@@ -15,11 +15,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 158efe4d2390762433d66d170b774838c9e534d3
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104142523"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053739"
 ---
 # <a name="uncompressex-method-of-the-win32_pagefile-class"></a>Метод Ункомпрессекс \_ класса файла подкачки Win32
 
@@ -121,7 +121,7 @@ uint32 UncompressEx(
 **12**
 </dt> <dd>
 
-Платформа не является Windows.
+Платформа не Windows.
 
 </dd> <dt>
 

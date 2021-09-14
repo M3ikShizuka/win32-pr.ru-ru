@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ba6c583de68b8a92c8d93990bce84787fa061ec5422ea2c6b32a6a3942b766ef
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 101a25a8e2da09b9f4065a54fcff9896690adbb8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119877684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054776"
 ---
 # <a name="dtn_dropdown-notification-code"></a>\_Код уведомления раскрывающегося списка ДТН
 
@@ -49,13 +49,13 @@ DTN_DROPDOWN
 
 Возвращаемое значение для этого уведомления не используется.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Одной из задач, которые может потребоваться обработчику уведомлений, является настройка элемента управления "месячный месяц — календарь". Например, если вы не хотите "переходить на сегодня", необходимо задать стиль [**MCS \_ Today**](month-calendar-control-styles.md)  для элемента управления. Чтобы получить маркер элемента управления "месячный календарь", отправьте DTP элемент управления [**DTM \_ жетмонскал**](dtm-getmonthcal.md) Message. Затем можно использовать этот маркер и [**SetWindowLong**](/windows/desktop/api/winuser/nf-winuser-setwindowlonga) , чтобы установить нужный стиль "месяц-календарь".
 
 Элементы управления DTP не поддерживают статический элемент управления Calendar в виде вложенного месяца. Элемент управления DTP создает новый элемент управления "месячный календарь" перед отправкой этого кода уведомления. Кроме того, элемент управления DTP уничтожает дочерний элемент управления, когда он неактивен (видимый). Поэтому приложение не должно полагаться на статический обработчик окна для дочернего месяца элемента управления.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -67,7 +67,7 @@ DTN_DROPDOWN
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

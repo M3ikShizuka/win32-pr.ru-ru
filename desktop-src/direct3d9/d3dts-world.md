@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3d9types.h
-ms.openlocfilehash: 68b0a3435df2ec36fca34fb8a8e4f2638ae9d432a009870ce85cbbdf2a42f1ea
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c3c8f0ac30230a747fba34d9962791b4b331d647
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119850084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966777"
 ---
 # <a name="d3dts_world-macro"></a>\_Макрос D3DTS World
 
@@ -41,11 +41,11 @@ D3DTRANSFORMSTATETYPE D3DTS_WORLD(void);
 
 [**D3DTRANSFORMSTATETYPE**](./d3dtransformstatetype.md) , эквивалентный [**D3DTS \_ ворлдматрикс (0)**](./d3dts-worldmatrix.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот макрос предназначен для упрощения переноса существующих приложений на Direct3D 9.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ D3DTRANSFORMSTATETYPE D3DTS_WORLD(void);
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

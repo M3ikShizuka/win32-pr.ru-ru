@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 6c26878af6f091efd3c3f321cb073ce51a8e6236d4bafa326ab99f85f39e1a91
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aedaced5033c229131f548e298217e3c77ff70c8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117818205"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891741"
 ---
 # <a name="iresizeput_mediatype-method"></a>Иресизе: метод:p UT \_ mediaType
 
@@ -56,7 +56,7 @@ HRESULT put_MediaType(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Алгоритм DES вызывает этот метод перед подключением выходного ПИН-кода фильтра. Используйте тип носителя в качестве типа носителя выходного контакта. Верните этот тип мультимедиа в метод [**ктрансформфилтер:: жетмедиатипе**](ctransformfilter-getmediatype.md) и проверьте агсинт этот тип в методе [**Ктрансформфилтер:: чекктрансформ**](ctransformfilter-checktransform.md) . DES никогда не вызывает этот метод после подключения выходного контакта.
 
@@ -72,7 +72,7 @@ HRESULT put_MediaType(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -84,7 +84,7 @@ HRESULT put_MediaType(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

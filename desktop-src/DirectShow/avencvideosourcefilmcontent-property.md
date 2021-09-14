@@ -4,12 +4,12 @@ ms.assetid: 21b0449b-eed0-4879-a938-a7b01b349f22
 title: Свойство Авенквидеосаурцефилмконтент (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cfe76c04da1c6d2e1f0bb9dd4782eec1fe9a85f31011709300fb3ef3aac612c0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 859a547ca67b5ffbf476ae0eff04562c75dd7bfe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118663158"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127148117"
 ---
 # <a name="avencvideosourcefilmcontent-property"></a>Авенквидеосаурцефилмконтент, свойство
 
@@ -29,7 +29,7 @@ ms.locfileid: "118663158"
 
 Значение этого свойства является членом перечисления [**еавенквидеофилмконтент**](/windows/win32/api/codecapi/ne-codecapi-eavencvideofilmcontent) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -37,7 +37,7 @@ ms.locfileid: "118663158"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional приложения \[ UWP для классических приложений \|\]<br/>                     |
 | Минимальная версия сервера<br/> | \[приложения UWP для классических приложений Windows 2000 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
 
 
 

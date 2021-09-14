@@ -4,12 +4,12 @@ ms.assetid: f969be42-d541-4e8d-aec4-eb9508bcc7cf
 title: Точное профилирование вызовов API Direct3D (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6457e47da58a3614270f89eefa1cfa33fbf30cf26544c1013d010696a68e4602
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cdb6d60fcc1b3ace4112dbf7028d91e2c9c8b345
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118097496"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053044"
 ---
 # <a name="accurately-profiling-direct3d-api-calls-direct3d-9"></a>Точное профилирование вызовов API Direct3D (Direct3D 9)
 
@@ -173,7 +173,7 @@ Number of cycles for DrawPrimitive    : 950,500
 
 | Локальная переменная | Число тактов |
 |----------------|-----------------|
-| запуск          | 1792998845094   |
+| start          | 1792998845094   |
 | stop           | 1792998845102   |
 | FREQ           | 3579545         |
 
@@ -351,7 +351,7 @@ QueryPerformanceCounter(&stop);
 
 | Локальная переменная | Число тактов |
 |----------------|-----------------|
-| запуск          | 1792998845060   |
+| start          | 1792998845060   |
 | stop           | 1792998845090   |
 | FREQ           | 3579545         |
 
@@ -471,7 +471,7 @@ QueryPerformanceCounter(&stop);
 
 | Локальная переменная | Число ТИКС |
 |----------------|----------------|
-| запуск          | 1792998845000  |
+| start          | 1792998845000  |
 | stop           | 1792998847084  |
 | FREQ           | 3579545        |
 
@@ -550,7 +550,7 @@ for(int i = 0; i < 1500; i++)
 
 | Локальная переменная | Число ТИКС |
 |----------------|----------------|
-| запуск          | 1792998860000  |
+| start          | 1792998860000  |
 | stop           | 1792998870260  |
 | FREQ           | 3579545        |
 
@@ -649,7 +649,7 @@ for(int i = 0; i < 1500; i++)
 
 | Локальная переменная | Число тактов |
 |----------------|-----------------|
-| запуск          | 1792998845000   |
+| start          | 1792998845000   |
 | stop           | 1792998861740   |
 | FREQ           | 3579545         |
 
@@ -744,7 +744,7 @@ for(int i = 0; i < 1500; i++)
 
  
 
-или диспетчер конфигурации служб
+или
 
 
 

@@ -96,12 +96,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: e79cb842acd2063522f901d050c3fab6db3251a39a212a234f062935cc30b87c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6ec9634c5ee86d6819bf8f7a45dd521276565903
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119020112"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053737"
 ---
 # <a name="win32_potsmodem-class"></a>\_Класс Win32 потсмодем
 
@@ -198,7 +198,7 @@ class Win32_POTSModem : CIM_PotsModem
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ потсмодем** имеет следующие типы членов:
 
@@ -616,7 +616,7 @@ class Win32_POTSModem : CIM_PotsModem
 
 </dt> <dd>
 
-Другие
+Другое
 
 </dd> <dt>
 
@@ -1872,7 +1872,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -2119,7 +2119,7 @@ Modem (Модем)
 
 </dd> <dt>
 
-**Ритм**
+**Импульс**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -2724,11 +2724,11 @@ Modem (Модем)
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ потсмодем** является производным от [**CIM \_ потсмодем**](cim-potsmodem.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -2742,7 +2742,7 @@ Modem (Модем)
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

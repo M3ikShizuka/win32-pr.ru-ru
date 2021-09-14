@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8141b3a39c47966348dfd823b557c1b0af4cca84a90ba979a358d6ac0eaa4757
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: db5bfd085cd5cbaced0bf90b17e8862a6c0e159b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119079038"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054061"
 ---
 # <a name="lvm_gettileinfo-message"></a>\_Сообщение LVM жеттилеинфо
 
@@ -39,7 +39,7 @@ ms.locfileid: "119079038"
 
 Возвращаемое значение не используется.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Мозаичное представление — это новый способ упорядочения и отображения элементов в элементе управления "представление списка". К другим представлениям относятся значок, маленький значок, сведения и список.
 
@@ -56,7 +56,7 @@ ms.locfileid: "119079038"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

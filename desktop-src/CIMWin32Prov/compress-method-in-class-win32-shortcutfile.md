@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: fd8955e5408155076e886e420871e1b8df123ffe631fe19f4fd5a95fdecb90b1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 490f4d1a76844dc9ebad0449432f06833580d949
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119020692"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968861"
 ---
 # <a name="compress-method-of-the-win32_shortcutfile-class"></a>Метод сжатия \_ класса Win32 шорткутфиле
 

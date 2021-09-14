@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 2176d6787bd520517cccbf484bdf6642921d499aaeb97c2917d64fa148323b66
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e8c1638dc33be6457dd682f37e2ddd49e73a111a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120076424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053552"
 ---
 # <a name="cdeferredcommandgetresult-method"></a>Кдеферредкомманд. метод Result
 
@@ -44,7 +44,7 @@ VARIANT* GetResult();
 
 Возвращает указатель на **значение типа Variant** , содержащее список аргументов метода, если он существует.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ VARIANT* GetResult();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

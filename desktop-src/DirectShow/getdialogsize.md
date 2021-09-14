@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 7f1f2631e169549895a1f74ce571b2abfeeee8cd77ac7cb3c4dfc5aa6913a6d0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 34eff1882306c85446f7cc7708efea3b17fcf7e3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119564954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053390"
 ---
 # <a name="getdialogsize-function"></a>Функция Жетдиалогсизе
 
@@ -77,13 +77,13 @@ BOOL WINAPI GetDialogSize(
 
 Возвращает **значение true** , если ресурс диалогового окна был найден, или **значение false** в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Страницы свойств могут использовать эту функцию для возврата фактического требуемого размера отображения. Большинство страниц свойств — это диалоговые окна, которые имеют шаблоны диалоговых окон, хранящиеся в файлах ресурсов. Шаблоны используют единицы диалогового окна, которые не отображаются непосредственно на экранных точках. Однако функция [**жетпажеинфо**](cbasepropertypage-getpageinfo.md) страницы свойств должна возвращать реальный отображаемый размер в пикселях. Страница свойств может вызывать `GetDialogSize` для вычисления размера отображаемого значения.
 
 Эта функция создает временный экземпляр диалогового окна. Чтобы не отображать диалоговое окно на экране, шаблон диалогового окна в файле ресурсов не должен иметь \_ свойство WS Visible.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -94,7 +94,7 @@ BOOL WINAPI GetDialogSize(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: В этом разделе описывается создание 
 ms.assetid: BCF25606-5B49-43A5-8107-E7220BE3253C
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 26ddc06def47cef1a34849bbe31bc3871d4c098890bd3ef53830ae6fe7076520
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 944e8aa70b3367f1d3a12e4f50032e6677c5d706
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119916344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126892400"
 ---
 # <a name="creating-common-controls"></a>Создание стандартных элементов управления
 

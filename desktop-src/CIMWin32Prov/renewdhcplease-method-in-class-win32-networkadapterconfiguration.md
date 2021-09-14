@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 08e3887f44fbd56b2f80c275b1cfacc26fd83dc50890f8162efec93d329f44c5
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4603f013c6b4c2c80edd555608b5f59325b6a6d9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119218174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054894"
 ---
 # <a name="renewdhcplease-method-of-the-win32_networkadapterconfiguration-class"></a>Метод RenewDHCPLease \_ класса Win32 NetworkAdapterConfiguration
 
@@ -312,7 +312,7 @@ IPX не включен на адаптере.
 
 91
 
-Доступ запрещен.
+Access denied. (Недопустимое значение {значение_утверждения} для утверждения {имя_утверждения}. Доступ запрещен.)
 
 </dd> <dt>
 
@@ -395,7 +395,7 @@ DHCP не включен на адаптере.
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Аренда IP-адреса, назначенного DHCP-сервером, имеет дату окончания срока действия, которую клиент должен продлить, если планируется продолжать использовать назначенный IP-адрес.
 
@@ -419,7 +419,7 @@ DHCP не включен на адаптере.
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 0646a057fdc2fb96e5f72e7451b9b273191ced22f5092a14fab11a9042c5de25
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a3070883b167d26cf31f7d7f388f6bd3736a4bde
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118788113"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966449"
 ---
 # <a name="tex---ps"></a>Да-PS
 
@@ -31,11 +31,11 @@ ms.locfileid: "118788113"
 
  
 
-where
+где
 
 -   DST — это регистр назначения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 
 

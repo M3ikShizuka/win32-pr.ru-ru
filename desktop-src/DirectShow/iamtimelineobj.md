@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 4a987cfd0f08311a0e7a233ab479e5cdbe2fc649fd521ad4f4ed1b37b6df6d75
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e968ec01d937aeac9a5838b75462a6d23a632512
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119428164"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053880"
 ---
 # <a name="iamtimelineobj-interface"></a>Интерфейс Иамтимелинеобж
 
@@ -66,7 +66,7 @@ ms.locfileid: "119428164"
 | [**UserData**](iamtimelineobj-getuserdata.md)               | Извлекает определяемые приложением постоянные данные.<br/>                                                                          |
 | [**GetUserID**](iamtimelineobj-getuserid.md)                   | Извлекает определяемый приложением идентификатор объекта.<br/>                                                                      |
 | [**GetUserName**](iamtimelineobj-getusername.md)               | Извлекает определяемое приложением имя объекта.<br/>                                                                            |
-| [**Отменит**](iamtimelineobj-remove.md)                         | Удаляет этот объект с временной шкалы для повторной вставки в другое место.<br/>                                                           |
+| [**Удалить**](iamtimelineobj-remove.md)                         | Удаляет этот объект с временной шкалы для повторной вставки в другое место.<br/>                                                           |
 | [**RemoveAll**](iamtimelineobj-removeall.md)                   | Окончательно удаляет этот объект из временной шкалы, включая подобъекты и дочерние объекты.<br/>                                       |
 | [**сетдиртиранже**](iamtimelineobj-setdirtyrange.md)           | Не реализован.<br/>                                                                                                            |
 | [**SetDirtyRange2**](iamtimelineobj-setdirtyrange2.md)         | Не реализован.<br/>                                                                                                            |
@@ -87,7 +87,7 @@ ms.locfileid: "119428164"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.

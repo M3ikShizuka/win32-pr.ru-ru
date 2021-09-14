@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 0fca7d3ceee3f6eb6e4c7156d7c645429bc88f968bb69cb46abe667708819995
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3c703c971bfddcda5dbd28978f5743e07b2e6be7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118789048"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966470"
 ---
 # <a name="samplecmpsamplecmpsfloatfloatintfloat-function-for-texture1darray"></a>Функция Самплекмп:: Самплекмп (S, float, float, int, float) для Texture1DArray
 

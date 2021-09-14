@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - windows.ui.xaml.media.animation.h
-ms.openlocfilehash: f94dd76206aabbe39e443dac5ab277e499face91c94a6a69b3fe5ee29eb67c70
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 97e87dbbcfbcefb8968f6bbe43e9df94277e3d7a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118951673"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891669"
 ---
 # <a name="timeline-element"></a>Элемент Timeline
 
@@ -39,7 +39,7 @@ ms.locfileid: "118951673"
 
 | Метка | Значение |
 |----------|-------------------------------------------------------|
-| Parent   | Отсутствует. Этот элемент должен быть корневым узлом в файле. |
+| Parent   | Нет. Этот элемент должен быть корневым узлом в файле. |
 | Дети | [**сгруппировать**](group-element.md)                        |
 
 

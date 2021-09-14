@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 15d9142abb95998fce803c30c439632775cd8ff807f3b7d99653875d08e534e1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ea694c09e11e5801016a4ea85b9774448c542991
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119020672"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968862"
 ---
 # <a name="compress-method-of-the-win32_directory-class"></a>Метод сжатия \_ класса каталога Win32
 
@@ -137,7 +137,7 @@ uint32 Compress();
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сжатие позволяет освободить дополнительное пространство для хранения на диске без приобретения нового оборудования и без удаления файлов или папок. В зависимости от размера жесткого диска и типа файлов, хранящихся на этом диске, вы можете восстановить сотни мегабайт дискового пространства и, таким же, отказаться от приобретения нового жесткого диска и перевести компьютер в режим «вне сети», пока не будет установлен новый диск.
 

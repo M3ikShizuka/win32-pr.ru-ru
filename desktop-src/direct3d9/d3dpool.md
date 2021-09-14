@@ -14,11 +14,11 @@ api_type:
 api_location:
 - D3D9Types.h
 ms.openlocfilehash: dc1d69d094b2f810855f9ce2116c472ba8ab605e
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "105647851"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966774"
 ---
 # <a name="d3dpool-enumeration"></a>Перечисление D3DPOOL
 
@@ -136,7 +136,7 @@ typedef enum D3DPOOL {
 
 | Требование | Значение |
 |-------------------|----------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3D9Types. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3D9Types. h</dt> </dl> |
 
 
 

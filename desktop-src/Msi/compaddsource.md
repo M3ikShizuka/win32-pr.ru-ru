@@ -4,12 +4,12 @@ ms.assetid: ee1e0650-674d-4189-8ef7-3d2ece89cc28
 title: КОМПАДДСАУРЦЕ, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6f68e795a9092892212f41a073a8e5a80945f57be14224e576262c30bba92707
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3f59526196a75599dbd2a535db6dcda4fb733936
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118380056"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142386"
 ---
 # <a name="compaddsource-property"></a>КОМПАДДСАУРЦЕ, свойство
 

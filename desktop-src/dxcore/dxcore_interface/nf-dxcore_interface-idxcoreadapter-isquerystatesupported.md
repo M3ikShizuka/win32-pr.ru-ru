@@ -4,12 +4,12 @@ description: Определяет, будет ли этот объект ада�
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 06/20/2019
-ms.openlocfilehash: 8ae77c308cb251982947d91e23eaef8f6d828c1233df442cb013bf9737e3c57d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d154597f9b3ddbec24cff230317d881b9595bcde
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118279225"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966366"
 ---
 # <a name="idxcoreadapterisquerystatesupported-method"></a>Метод Идкскореадаптер:: Искуеристатесуппортед
 

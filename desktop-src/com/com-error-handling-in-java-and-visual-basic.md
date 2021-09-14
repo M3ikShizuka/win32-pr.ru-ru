@@ -4,12 +4,12 @@ description: Обработка ошибок COM в Java и Visual Basic
 ms.assetid: 1130a038-3c18-4530-a6d7-9f538352297f
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1ba8e179ca3e7a1d57fdae63e8ad20d14a6fff358fab1fff24bfe7ae8df185d7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 11c55c1c2414c69ff9398845858baadebd58cbf9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119048522"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053194"
 ---
 # <a name="com-error-handling-in-java-and-visual-basic"></a>Обработка ошибок COM в Java и Visual Basic
 

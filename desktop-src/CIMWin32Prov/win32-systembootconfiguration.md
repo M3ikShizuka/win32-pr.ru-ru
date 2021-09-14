@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: ad5b30d42e94391163a4a54836877f90415225d0ae697e719e6c088f432430cc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 863e4103f7e87681e25ccf53679bfe006ed3ff75
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118416757"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053718"
 ---
 # <a name="win32_systembootconfiguration-class"></a>\_Класс Win32 систембутконфигуратион
 
@@ -40,7 +40,7 @@ class Win32_SystemBootConfiguration : Win32_SystemSetting
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ систембутконфигуратион** имеет следующие типы членов:
 
@@ -84,7 +84,7 @@ class Win32_SystemBootConfiguration : Win32_SystemSetting
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ систембутконфигуратион** является производным от [**Win32 \_ системсеттинг**](win32-systemsetting.md).
 

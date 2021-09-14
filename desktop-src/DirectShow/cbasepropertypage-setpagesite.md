@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: d5b3a58775a984fe0d9be69d33a5eee0d0e2af1b6f1bd609f399614bf99cdc3f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a165ff60971cef3d2373e0f07b2abee554308279
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119916364"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054017"
 ---
 # <a name="cbasepropertypagesetpagesite-method"></a>Кбасепропертипаже. Сетпажесите, метод
 
@@ -64,11 +64,11 @@ HRESULT SetPageSite(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод сохраняет указатель *ппажесите* в переменной члена [**кбасепропертипаже:: m \_ ппажесите**](cbasepropertypage-m-ppagesite.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -79,7 +79,7 @@ HRESULT SetPageSite(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

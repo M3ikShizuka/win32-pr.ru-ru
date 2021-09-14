@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 17332ce5f10fa612d739598222e4973000961435fa525190a650adaa9aa9fc4c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ac40f2d1ef016ee76ab21ccf2dc4733d0ff427f3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119921424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968734"
 ---
 # <a name="bcm_setsplitinfo-message"></a>\_Сообщение СЕТСПЛИТИНФО BCM
 
@@ -47,7 +47,7 @@ ms.locfileid: "119921424"
 
 Возвращает **значение true** , если успешно, или **false** в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это сообщение используется только с стилями кнопки " [**BS \_**](button-styles.md) " и " [**BS \_ дефсплитбуттон**](button-styles.md) ".
 
@@ -73,7 +73,7 @@ ms.locfileid: "119921424"
 [Стили кнопок](button-styles.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Типы кнопок](button-types-and-styles.md)
