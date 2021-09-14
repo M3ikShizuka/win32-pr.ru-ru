@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3D9Types.h
-ms.openlocfilehash: a9a55632ee1f1b8f2e40b1be1272411c7c24b3b18c576563ff9c0de7c79bc413
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: bd6038e1b3d2b2f85e5766605583db9879427343
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120069374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963762"
 ---
 # <a name="d3dtexturefiltertype-enumeration"></a>Перечисление D3DTEXTUREFILTERTYPE
 
@@ -112,7 +112,7 @@ typedef enum D3DTEXTUREFILTERTYPE {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 D3DTEXTUREFILTERTYPE используется [**IDirect3DDevice9:: сетсамплерстате**](/windows/win32/api/d3d9helper/nf-d3d9helper-idirect3ddevice9-setsamplerstate) вместе с [**D3DSAMPLERSTATETYPE**](./d3dsamplerstatetype.md) для определения режимов фильтрации текстур для этапа текстуры.
 

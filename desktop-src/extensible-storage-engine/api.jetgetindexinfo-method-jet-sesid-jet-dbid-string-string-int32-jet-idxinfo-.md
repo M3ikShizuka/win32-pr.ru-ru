@@ -20,12 +20,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 5bbdbf14caebfa29c93d3aea8ea91eae1d52103bf2b19871de53c6c18a643013
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e8c9f7427388dc0f1da90297f05307c7afb5b1c0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119840924"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966258"
 ---
 # <a name="apijetgetindexinfo-method-jet_sesid-jet_dbid-string-string-int32-jet_idxinfo"></a>Метод API. Жетжетиндексинфо (JET_SESID, JET_DBID, String, String, Int32, JET_IdxInfo)
 
@@ -97,7 +97,7 @@ public static void JetGetIndexInfo(
 
 <!-- end list -->
 
-  - result  
+  - набор по  
     Тип: [System. Int32](/dotnet/api/system.int32)  
     
     Заполняется сведениями о индексах в таблице.

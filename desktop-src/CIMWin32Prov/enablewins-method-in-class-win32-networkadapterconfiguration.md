@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 1ce820e515bb72cbd2521521726f2b6962c49ee1b453781b5d17993c45e0d22d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 77f5ba32606ff228908e8b7a1559a73ae5139e9c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118676507"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054954"
 ---
 # <a name="enablewins-method-of-the-win32_networkadapterconfiguration-class"></a>Метод свойство enablewins \_ класса Win32 NetworkAdapterConfiguration
 
@@ -200,7 +200,7 @@ uint32 EnableWINS(
 
 Пример кода " [включить WINS для всех сетевых адаптеров](https://Gallery.TechNet.Microsoft.Com/64cae6dd-4155-4825-ab25-5727503edf5a) " в коллекции TechNet использует **свойство ENABLEWINS** для включения WINS на всех сетевых адаптерах, установленных на компьютере.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -214,7 +214,7 @@ uint32 EnableWINS(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

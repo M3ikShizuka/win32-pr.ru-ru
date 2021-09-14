@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: bbb9ced3fbf7e150cbe3b9bca7eb176e61cf6c8881def22a977ae37a2dbf4b1f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b133aa37b522156df73914eef66c4d3695a70ed7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119671094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888104"
 ---
 # <a name="waveprefixsum-function"></a>Функция WavePrefixSum 
 
@@ -42,7 +42,7 @@ ms.locfileid: "119671094"
 
 Сумма значений.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Порядок операций в этой подпрограммы не гарантируется. Таким образом, \[ точный флаг в \] нем игнорируется.
 
@@ -72,7 +72,7 @@ uint prefixSum = WavePrefixSum( numToSum );
 | 6          | active   | = 0 + 2 + 2 + 2 + 2   |
 | 7          | active   | = 0 + 2 + 2 + 2 + 2 + 2 |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 [Общие сведения о модели шейдеров 6](hlsl-shader-model-6-0-features-for-direct3d-12.md)
 

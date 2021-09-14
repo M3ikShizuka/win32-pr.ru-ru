@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: fa5382a30dcd434965c53e893d6818ab0f08a84c19ea0ddec53846c0c01c80f8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 56d9175342218e8b82698fe9b89d15937d6913e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118656684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053975"
 ---
 # <a name="cdynamicoutputpinm_blockstatelock-member"></a>Элемент Кдинамикаутпутпин:: m \_ блоккстателокк
 

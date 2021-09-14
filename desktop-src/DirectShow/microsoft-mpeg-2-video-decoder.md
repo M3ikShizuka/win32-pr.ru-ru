@@ -4,12 +4,12 @@ ms.assetid: d8195c3a-97ac-4ad1-a097-18878c8fda6f
 title: Видеодекодер Microsoft MPEG-2 (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b9fccfe5cf584dca639601b09d02957540d74cee
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.openlocfilehash: 4afdd9609124ba1057f597c4b7a907654c62a321
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122475730"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053272"
 ---
 # <a name="microsoft-mpeg-2-video-decoder"></a>Видеодекодер Microsoft MPEG-2 видео
 
@@ -136,7 +136,12 @@ msmpeg2vdec.dll
 
 
 
-| | | Профили и уровни | Любое сочетание следующих профилей и уровней:<br /><ul><li>Профили: простой, основной</li><li>Уровни: низкий, основной, высокий, высокий 1440</li></ul> | | Форматы чрома | 4:2:0 чрома | | Максимальное разрешение | 1920 × 1088 пикселей | | ДКСВА | Декодер поддерживает ускорение видео DirectX (ДКСВА) версии 1 и версии 2. | 
+| Метка | Значение |
+|--------|-------|
+| Профили и уровни | Любое сочетание следующих профилей и уровней:<br /><ul><li>Профили: простой, основной</li><li>Уровни: низкий, основной, высокий, высокий 1440</li></ul> | 
+| Форматы чрома | 4:2:0 чрома | 
+| Максимальное разрешение | 1920 × 1088 пикселей | 
+| дксва | Декодер поддерживает ускорение видео DirectX (ДКСВА) версии 1 и версии 2. | 
 
 
 
@@ -221,7 +226,7 @@ msmpeg2vdec.dll
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

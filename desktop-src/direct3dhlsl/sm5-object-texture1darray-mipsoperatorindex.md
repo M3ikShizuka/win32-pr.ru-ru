@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: f1c4397f60c03968d7c8dba034865aa283a50e8d70b9836aaee86cb910d612ad
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cbe2d1116839cede8dda69f1b0b8cf9a049595e9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117905325"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966542"
 ---
 # <a name="texture1darraymipsoperator----function"></a>Texture1DArray:: MIPS. Operator, функция
 
@@ -61,7 +61,7 @@ R mips.Operator[][](
 
 Переменная ресурса, доступная только для чтения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 ### <a name="usage-example"></a>Пример использования
 
@@ -80,7 +80,7 @@ float4 f = tex.mips[mip][pos_x_and_array];
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | x      | x    | x      | x        | x     | x       |
 

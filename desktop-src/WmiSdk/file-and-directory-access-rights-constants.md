@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Константы прав доступа к файлам и каталогам (Winnt. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8678627b0f7d9ce2ed7f9c8e7e39c49bdcd3b6c3a8313f7d7b3c517c379093d3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5c0ddca31034ffde79fa9d9ff902a364cf07e311
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119131386"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965294"
 ---
 # <a name="file-and-directory-access-rights-constants"></a>Константы прав доступа к файлам и каталогам
 

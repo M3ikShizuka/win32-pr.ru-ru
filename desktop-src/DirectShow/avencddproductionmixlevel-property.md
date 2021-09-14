@@ -4,12 +4,12 @@ ms.assetid: fcb16d02-af4f-4626-99ee-2831172e5280
 title: Свойство Авенкддпродуктионмикслевел (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f73f2c9db1a4ddf1b1354ec0354f77b8f87d8a81b3c98dec7a74a45025e67550
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f8a1726db6ab4841b4603a61bcfe39504742db42
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119873214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127161907"
 ---
 # <a name="avencddproductionmixlevel-property"></a>Авенкддпродуктионмикслевел, свойство
 
@@ -29,11 +29,11 @@ ms.locfileid: "119873214"
 
 Это свойство имеет линейный Диапазон значений. Чтобы получить поддерживаемый диапазон, вызовите метод [**икодекапи:: жетпараметерранже**](/windows/desktop/api/Strmif/nf-strmif-icodecapi-getparameterrange).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если это свойство задано, задайте для свойства [**авенкддпродуктионинфоексистс**](avencddproductioninfoexists-property.md) значение **true**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -45,7 +45,7 @@ ms.locfileid: "119873214"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

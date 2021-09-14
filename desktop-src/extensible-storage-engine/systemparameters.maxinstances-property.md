@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: a553300056ec5fe647a3a7ce01c4c2287d3c20602437a8cb1872da15345b4f4f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a2ae939cdec5332d1a5c422511a33bc8c214d466
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117702333"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965526"
 ---
 # <a name="systemparametersmaxinstances-property"></a>SystemParameters. Максинстанцес, свойство
 
@@ -63,7 +63,7 @@ public static int MaxInstances { get; set; }
 
 Тип: [System. Int32](/dotnet/api/system.int32)  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

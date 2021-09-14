@@ -4,12 +4,12 @@ description: Вы создаете и используете динамичес�
 ms.assetid: E73EA4B0-BD14-430C-89CA-4CFCF92C7548
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2d85933490d1e3bbbd09cc83720651c4fd634012f8e5aa70562396e87c096ebc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e41e00cda7236040679c7863454e4cc18d81106b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119633104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965041"
 ---
 # <a name="how-to-use-dynamic-resources"></a>Как использовать динамические ресурсы
 
@@ -33,7 +33,7 @@ ms.locfileid: "119633104"
 
 Предполагается, что вы знакомы с C++. Также вы должны быть знакомы с основными принципами программирования графики.
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="step-1-specify-dynamic-usage"></a>Шаг 1. Указание динамического использования
 
@@ -121,7 +121,7 @@ void TriangleRenderer::MapDoubleVertices()
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 ### <a name="using-dynamic-textures"></a>Использование динамических текстур
 

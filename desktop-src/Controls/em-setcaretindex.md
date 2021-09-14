@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 10/19/2018
-ms.openlocfilehash: 8b80202ed5294828441abcfa66a914514e31944902e52926de7fa3af92794b46
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ea0c49ebad91532e82dc7e96facb62f38b2abfa1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119799964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054380"
 ---
 # <a name="em_setcaretindex-message"></a>\_Сообщение СЕТКАРЕТИНДЕКС EM
 
@@ -43,11 +43,11 @@ ms.locfileid: "119799964"
 
 Это сообщение не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если индекс выходит за пределы диапазона текста в элементе управления "поле ввода", индекс будет настроен таким образом, чтобы он поместился внутри диапазона текста.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ ms.locfileid: "119799964"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

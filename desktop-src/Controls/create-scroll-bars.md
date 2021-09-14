@@ -4,12 +4,12 @@ description: При создании перекрытого, всплывающ�
 ms.assetid: 58353030-DCF5-4368-9658-BB282B8B5EF0
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: aec76c49d9f97e21626546a760d0e42a44b04c70db5790e0b80c08fcdee34412
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 06b27e3e6d9495492f46567633cc53b0f3f7c5bd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117831756"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053642"
 ---
 # <a name="how-to-create-scroll-bars"></a>Создание полос прокрутки
 
@@ -21,12 +21,12 @@ ms.locfileid: "117831756"
 
 -   [Windows Элементы управления](window-controls.md)
 
-### <a name="prerequisites"></a>Обязательные условия
+### <a name="prerequisites"></a>Предварительные требования
 
 -   C/C++
 -   Windows Программирование пользовательского интерфейса
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="create-a-scroll-bar"></a>Создание полосы прокрутки
 

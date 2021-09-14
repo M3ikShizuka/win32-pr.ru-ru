@@ -4,12 +4,12 @@ ms.assetid: 88924ba9-707b-41a7-9bca-c630b4a9c4c8
 title: EC_CODECAPI_EVENT (DShow. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5765c2a1156653e66c5d3685cacfdd551cd22032eea34463f5450dc6d4fbea3a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8c24ece20a0c729b251c56b50b5b44fc9f7fa98f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119965944"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053445"
 ---
 # <a name="ec_codecapi_event"></a>\_событие EC кодекапи \_
 

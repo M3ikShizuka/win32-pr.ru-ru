@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 2824fc76bc631802a759dc1d6281406a1c42cf4292e80dc2b80c2a1b33b502a9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9c484d7867745805e29bda88e2f8d49ca8bc21be
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119629884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052853"
 ---
 # <a name="id3dxfontonlostdevice-method"></a>Метод ID3DXFont:: Онлостдевице
 
@@ -44,7 +44,7 @@ HRESULT OnLostDevice();
 
 Если метод выполнен успешно, возвращается значение S \_ . В случае сбоя метода возвращаемое значение может быть D3DERR \_ инвалидкалл.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод должен вызываться при каждом потере устройства или до того, как пользователь вызывает [**Reset**](/windows/desktop/api). Даже если устройство не было потеряно, **онлостдевице** отвечает за освобождение статеблоккс и других ресурсов, которые, возможно, потребуется освободить перед сбросом устройства. В результате объект Font не может быть использован повторно перед вызовом **Reset** , а затем [**онресетдевице**](id3dxfont--onresetdevice.md).
 

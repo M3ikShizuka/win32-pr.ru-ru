@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 6ba9f8e202d7c98bfea5d7068fa63a8d889d88fb10b4c6a7cb3516fadbca7ebd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f01be304ec2b5f845ea61c9609808c6e2f39fca9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118954773"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054008"
 ---
 # <a name="cbaserenderersourcethreadcanwait-method"></a>Кбасерендерер. Саурцесреадканваит, метод
 
@@ -53,7 +53,7 @@ virtual HRESULT SourceThreadCanWait(
 
 Возвращает значение S \_ ОК.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Вызов `SourceThreadCanWait` метода со значением **false** приводит к тому, что фильтр возвращается из заблокированного вызова [**имеминпутпин:: Receive**](/windows/desktop/api/Strmif/nf-strmif-imeminputpin-receive) . Когда фильтр работает, он блокирует **Получение** вызовов до времени презентации в текущем примере. Если фильтр приостановлен, он блокирует **Получение** вызовов на неопределенное время. Это поведение регулирует поток данных в потоке. Однако если фильтр остановлен или сброшен, он не должен блокироваться.
 

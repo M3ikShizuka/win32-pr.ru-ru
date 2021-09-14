@@ -4,12 +4,12 @@ description: Использование пользовательского ин�
 ms.assetid: 461e5c6f-1a46-426b-bac9-c20cd49e4de0
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 36d72ebbadc6dc85085dbcc7fa34fadf18617f5fafea65f4153e8cd90947a37e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b304ad69fb1fcc97f9faf1c34a92a3d514b15e28
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118010450"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965513"
 ---
 # <a name="using-the-iis-ui-to-configure-the-virtual-directory"></a>Использование пользовательского интерфейса IIS для настройки виртуального каталога
 

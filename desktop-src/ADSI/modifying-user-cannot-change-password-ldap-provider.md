@@ -9,12 +9,12 @@ keywords:
 - Поставщик LDAP ADSI, примеры управления пользователями, пользователь должен сменить пароль при следующем входе в систему, изменить
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ec664f9a79e0de4ff0b75ae31abd8dc1532cd17c0d3d35a934e094da45eb3383
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9e1628b113c2f15278bc72e41aa79e4be03a98f2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118179022"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126887157"
 ---
 # <a name="modifying-user-cannot-change-password-ldap-provider"></a>Изменение пользователя не может изменить пароль (поставщик LDAP)
 
@@ -50,7 +50,7 @@ ms.locfileid: "118179022"
 | [**AccessMask**](iadsaccesscontrolentry-property-methods.md)          | **AD \_ , \_ права \_ \_ доступа к управлению DS**                                                                                                                                   |
 | [**AceType**](iadsaccesscontrolentry-property-methods.md)             | **Реклама \_ ACETYPE \_ отказ в доступе \_ \_** , если пользователь не может изменить пароль или **ADS \_ ACETYPE \_ доступ к \_ разрешенному \_ объекту** , если пользователь может изменить свой пароль. |
 | [**AceFlags**](iadsaccesscontrolentry-property-methods.md)            | 0                                                                                                                                                                     |
-| [**Метки**](iadsaccesscontrolentry-property-methods.md)               | **\_ \_ \_ имеется тип объекта флага ADS \_**                                                                                                                                  |
+| [**Флаги**](iadsaccesscontrolentry-property-methods.md)               | **\_ \_ \_ имеется тип объекта флага ADS \_**                                                                                                                                  |
 | [**ObjectType**](iadsaccesscontrolentry-property-methods.md)          | "{AB721A53-1E2F-11D0-9819-00AA0040529B}" — это идентификатор GUID изменения пароля в строковой форме.                                                                            |
 | [**инхеритедобжекттипе**](iadsaccesscontrolentry-property-methods.md) | Не используется                                                                                                                                                              |
 | [**Доверенное лицо**](iadsaccesscontrolentry-property-methods.md)             | Имя учетной записи для SID "S-1-1-0" (все).                                                                                                                            |

@@ -15,12 +15,12 @@ api_type:
 - LibDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 055fa070eb698298716abef11090a8c178cb4ef85f46bc6733df037a5778e4d6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2e10590c3db458a23bf4d52b6507146884630087
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118536823"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053110"
 ---
 # <a name="d3dx11compilefrommemory-function"></a>Функция D3DX11CompileFromMemory
 
@@ -188,7 +188,7 @@ Type: **[ **size \_ T**](/windows/desktop/WinProg/windows-data-types)**
 
 **D3DX11CompileFromMemory** возвращает E \_ INVALIDARG, если параметр *фресулт* предоставляет значение, отличное от **null** , при указании **значения NULL** для параметра *ппумп* . Дополнительные сведения об этой ситуации см. в разделе Примечания.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Дополнительные сведения о **D3DX11CompileFromMemory** см. в разделе [**D3DCompile**](/windows/desktop/direct3dhlsl/d3dcompile).
 

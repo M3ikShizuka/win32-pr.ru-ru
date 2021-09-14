@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fd6aa0f10b07092d9637d9e5a993848671ab6aa7e7eb610eca48c3df353c4a0d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b872fa5489c898ec4482ecdc094de7df6e3180be
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119019512"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054367"
 ---
 # <a name="em_setctfmodebias-message"></a>\_Сообщение СЕТКТФМОДЕБИАС EM
 
@@ -69,13 +69,13 @@ ms.locfileid: "119019512"
 
 В случае успеха возвращаемое значение является новым значением смещения режима TSF. В случае неудачи возвращаемое значение является старым значением смещения режима TSF.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если приложение Microsoft Rich Edit использует TSF, оно может выбрать смещение режима TSF. Это сообщение задает критерии, по которым в верхней части списка появляется альтернативный вариант выбора.
 
 Чтобы установить сдвиг режима для редактора метода ввода (IME), используйте [**EM \_ сетимемодебиас**](em-setimemodebias.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -87,7 +87,7 @@ ms.locfileid: "119019512"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

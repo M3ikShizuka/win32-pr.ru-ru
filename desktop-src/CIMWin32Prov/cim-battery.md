@@ -45,12 +45,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: f43e25e072ef645168d68e40283ee344e038d2502081b4a4a531fd26793159ce
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3719b2700c69cfa58921bed1242aa8a6de158466
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119080908"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053820"
 ---
 # <a name="cim_battery-class"></a>\_Класс аккумулятора CIM
 
@@ -103,7 +103,7 @@ class CIM_Battery : CIM_LogicalDevice
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ батареи CIM** имеет следующие типы членов:
 
@@ -118,7 +118,7 @@ class CIM_Battery : CIM_LogicalDevice
 
 | Метод                                                             | Описание                                                                                                                                |
 |:-------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
-| [**Перезапуск**](reset-method-in-class-cim-battery.md)                 | Запрашивает сброс логического устройства. Не реализовано инструментарием WMI.<br/>                                                                 |
+| [**Reset**](reset-method-in-class-cim-battery.md)                 | Запрашивает сброс логического устройства. Не реализовано инструментарием WMI.<br/>                                                                 |
 | [**SetPowerState**](setpowerstate-method-in-class-cim-battery.md) | Определяет требуемое состояние электропитания для логического устройства и когда устройство должно быть переведено в это состояние. Не реализовано инструментарием WMI.<br/> |
 
 
@@ -1086,7 +1086,7 @@ class CIM_Battery : CIM_LogicalDevice
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1493,7 +1493,7 @@ class CIM_Battery : CIM_LogicalDevice
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **\_ батареи CIM** является производным от [**CIM \_**](cim-logicaldevice.md)-класса.
 
@@ -1501,7 +1501,7 @@ class CIM_Battery : CIM_LogicalDevice
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -1515,7 +1515,7 @@ class CIM_Battery : CIM_LogicalDevice
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

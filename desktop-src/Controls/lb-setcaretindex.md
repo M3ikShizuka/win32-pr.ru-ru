@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 362a24dbaf27ed8a92a8df2ba85e26bb535ee73eed57d13e72d2670ce9f80b08
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 857e5c2637e5bcc90b2c60bfd8295a91ff297fb3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119433994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054121"
 ---
 # <a name="lb_setcaretindex-message"></a>Сообщение сеткаретиндекс балансировки нагрузки \_
 
@@ -49,11 +49,11 @@ Windows 95/Windows 98/Windows Millennium Edition (Windows Me): параметр 
 
 Если возникает ошибка, возвращается значение фунтов \_ Err (-1). В противном случае возвращается значение ПЛОТности \_ (0).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если это сообщение отправляется в список с единственным выбором, в котором не содержится выбранный элемент, то для индекса курсора задается элемент, указанный параметром *wParam* . Если список с одним выбором содержит выбранный элемент, список будет возвращать ошибку балансировки нагрузки \_ .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ Windows 95/Windows 98/Windows Millennium Edition (Windows Me): параметр 
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 

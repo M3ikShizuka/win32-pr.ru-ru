@@ -8,12 +8,12 @@ keywords:
 - ADSI поставщика LDAP, объект User, сопоставление свойств IADsUser и атрибутов Active Directory
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8e659c6325457b2654ad5cfeef964975949150232c4ae3376fac640c51c41aa8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 17b817a8c56e2c74c846e1343e0ed7803427f4a2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117839484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126887173"
 ---
 # <a name="mapping-between-iadsuser-properties-and-active-directory-attributes"></a>Сопоставление свойств IADsUser и атрибутов Active Directory
 
@@ -29,13 +29,13 @@ ms.locfileid: "117839484"
 | [**аккаунтекспиратиондате**](iadsuser-property-methods.md)  | [**accountExpires**](/windows/desktop/ADSchema/a-accountexpires)                                                             |
 | [**бадлогинаддресс**](iadsuser-property-methods.md)        | Не поддерживается.                                                                                              |
 | [**бадлогинкаунт**](iadsuser-property-methods.md)          | [**badPwdCount**](/windows/desktop/ADSchema/a-badpwdcount)                                                                   |
-| [**Отдел**](iadsuser-property-methods.md)             | [**Название**](/windows/desktop/ADSchema/a-department)                                                                     |
+| [**отдел;**](iadsuser-property-methods.md)             | [**Название**](/windows/desktop/ADSchema/a-department)                                                                     |
 | [**Описание**](iadsuser-property-methods.md)            | [**nописание**](/windows/desktop/ADSchema/a-description)                                                                   |
 | [**Отдел**](iadsuser-property-methods.md)               | [**Категория**](/windows/desktop/ADSchema/a-division)                                                                         |
 | [**EmailAddress**](iadsuser-property-methods.md)           | [**mail**](/windows/desktop/ADSchema/a-mail)                                                                                 |
-| [**EmployeeID**](iadsuser-property-methods.md)             | [**КодСотрудника**](/windows/desktop/ADSchema/a-employeeid)                                                                     |
-| [**факснумбер**](iadsuser-property-methods.md)              | [**факсимилетелефоненумбер**](/windows/desktop/ADSchema/a-facsimiletelephonenumber)                                         |
-| [**FirstName**](iadsuser-property-methods.md)              | [**givenName**](/windows/desktop/ADSchema/a-givenname)                                                                       |
+| [**КодСотрудника**](iadsuser-property-methods.md)             | [**КодСотрудника**](/windows/desktop/ADSchema/a-employeeid)                                                                     |
+| [**факснумбер**](iadsuser-property-methods.md)              | [**facsimileTelephoneNumber**](/windows/desktop/ADSchema/a-facsimiletelephonenumber)                                         |
+| [**Фамилия**](iadsuser-property-methods.md)              | [**givenName**](/windows/desktop/ADSchema/a-givenname)                                                                       |
 | [**FullName**](iadsuser-property-methods.md)               | [**displayName**](/windows/desktop/ADSchema/a-displayname)                                                                   |
 | [**грацелогинсалловед**](iadsuser-property-methods.md)     | Не поддерживается.                                                                                              |
 | [**грацелогинсремаининг**](iadsuser-property-methods.md)   | Не поддерживается.                                                                                              |
@@ -50,7 +50,7 @@ ms.locfileid: "117839484"
 | [**логинхаурс**](iadsuser-property-methods.md)             | [**логонхаурс**](/windows/desktop/ADSchema/a-logonhours)                                                                     |
 | [**логинскрипт**](iadsuser-property-methods.md)            | [**scriptPath**](/windows/desktop/ADSchema/a-scriptpath)                                                                     |
 | [**логинворкстатионс**](iadsuser-property-methods.md)      | [**усерворкстатионс**](/windows/desktop/ADSchema/a-userworkstations)                                                         |
-| [**Manager**](iadsuser-property-methods.md)                | [**Configuration**](/windows/desktop/ADSchema/a-manager)                                                                           |
+| [**Configuration**](iadsuser-property-methods.md)                | [**Configuration**](/windows/desktop/ADSchema/a-manager)                                                                           |
 | [**макслогинс**](iadsuser-property-methods.md)              | Не поддерживается.                                                                                              |
 | [**максстораже**](iadsuser-property-methods.md)             | [**максстораже**](/windows/desktop/ADSchema/a-maxstorage)                                                                     |
 | [**NamePrefix**](iadsuser-property-methods.md)             | [**персоналтитле**](/windows/desktop/ADSchema/a-personaltitle)                                                               |
@@ -71,7 +71,7 @@ ms.locfileid: "117839484"
 | [**телефонемобиле**](iadsuser-property-methods.md)        | [**сети**](/windows/desktop/ADSchema/a-mobile)                                                                             |
 | [**TelephoneNumber**](iadsuser-property-methods.md)        | [**TelephoneNumber**](/windows/desktop/ADSchema/a-telephonenumber)                                                           |
 | [**телефонепажер**](iadsuser-property-methods.md)         | [**расписан**](/windows/desktop/ADSchema/a-pager)                                                                               |
-| [**Название**](iadsuser-property-methods.md)                  | [**Титуль**](/windows/desktop/ADSchema/a-title)                                                                               |
+| [**Заголовок**](iadsuser-property-methods.md)                  | [**Титуль**](/windows/desktop/ADSchema/a-title)                                                                               |
 
 
 

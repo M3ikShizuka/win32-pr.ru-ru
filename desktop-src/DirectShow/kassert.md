@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Wxdebug.h
-ms.openlocfilehash: a1eb6738ea3e9d4535bf9f8291dc71349d67bb51d143b6bc73e83290f36657cb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f797e60a6175a86f2c1c9d675e9607a48a58c14a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117817061"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053293"
 ---
 # <a name="kassert-macro"></a>Макрос КАССЕРТ
 
@@ -50,7 +50,7 @@ void KASSERT(
 
 Этот макрос не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В отличие от макроса [**Assert**](assert.md) и [**Execute \_ Assert**](execute-assert.md) , этот макрос не отображает окно сообщения с запросом пользователя. В отладочных сборках, если выражение имеет **значение false**, макрос автоматически вызывает исключение точки останова.
 

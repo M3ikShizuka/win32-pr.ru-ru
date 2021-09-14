@@ -14,12 +14,12 @@ api_type:
 - Assembly
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ba161945edcda7409b842987ab97768c30a6e1f0ba011772cf7f3757d3f61c33
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9d9fac8902fe8700171d2c909e8140c74c8cc3c8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119765273"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889797"
 ---
 # <a name="cdromburnmediaerror-event-of-the-axwindowsmediaplayer-object"></a>Событие Кдромбурнмедиаеррор объекта Аксвиндовсмедиаплайер
 
@@ -54,11 +54,11 @@ Private Sub player_CdromBurnMediaError(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Для захвата общих ошибок обрабатывайте Аксвмплиб. \_ \_Событие вмпокксевентс кдромбурнеррор.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ Private Sub player_CdromBurnMediaError(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

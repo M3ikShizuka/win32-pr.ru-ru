@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: d5d732812daddeb2561cf1fbaa6d2cafb3b69445b086c8aec0f6f1a5ce0c27fc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ed49e626c979f7146b42078cf1f65fdd6716efc1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118521857"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888464"
 ---
 # <a name="id3dxconstanttablesetdefaults-method"></a>Метод ID3DXConstantTable:: SetDefaults
 
@@ -55,7 +55,7 @@ HRESULT SetDefaults(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть D3DERR \_ инвалидкалл.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -66,7 +66,7 @@ HRESULT SetDefaults(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

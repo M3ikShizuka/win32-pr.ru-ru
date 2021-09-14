@@ -102,12 +102,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 5f1a91ac90560343a38e546590005e8b984d13843eba8195381daa204e2d22cb
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 48fc170cb3e85d44dc3e01140fe2c881a7ec975b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120077314"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054496"
 ---
 # <a name="win32_printer-class"></a>\_Класс принтера Win32
 
@@ -209,7 +209,7 @@ class Win32_Printer : CIM_Printer
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ принтера Win32** имеет следующие типы членов:
 
@@ -344,7 +344,7 @@ class Win32_Printer : CIM_Printer
 
 </dt> <dd>
 
-Локальные
+Локальная
 
 Непосредственное подключение к компьютеру. Если заданы как локальные, так и сетевые биты, это указывает на сетевой принтер.
 
@@ -2766,7 +2766,7 @@ HPGL2
 
 </dd> <dt>
 
-**Direct**.
+**Direct**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **логический**
@@ -2906,7 +2906,7 @@ HPGL2
 1 (0x1)
 </dt> <dd>
 
-Другие
+Другое
 
 </dd> <dt>
 
@@ -3026,7 +3026,7 @@ HPGL2
 1 (0x1)
 </dt> <dd>
 
-Другие
+Другое
 
 </dd> <dt>
 
@@ -3082,7 +3082,7 @@ HPGL2
 9 (0x9)
 </dt> <dd>
 
-Error
+Ошибка
 
 </dd> <dt>
 
@@ -3935,7 +3935,7 @@ Error
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -3971,7 +3971,7 @@ Error
 
 </dd> <dt>
 
-**Сеть**
+**Network**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **логический**
@@ -4823,7 +4823,7 @@ Windows Самонастраивающийся идентификатор уст
 2
 </dt> <dd>
 
-Error
+Ошибка
 
 </dd> <dt>
 
@@ -5186,7 +5186,7 @@ Error
 
 </dd> <dt>
 
-**Сетев**
+**ShareName**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -5486,7 +5486,7 @@ Error
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **\_ принтера Win32** является производным от [**\_ принтера CIM**](cim-printer.md). перед вызовом [**SWbemObject. \_**](../wmisdk/swbemobject-put-.md) where или [**IWbemServices::P утинстанце**](/windows/win32/api/wbemcli/nf-wbemcli-iwbemservices-putinstance) для **экземпляра \_ принтера Win32** , необходимо включить привилегию **селоаддриверпривилеже** (**вбемпривилежелоаддривер** для Visual Basic и лоаддривер для моникеров скрипта). Дополнительные сведения см. в статьях [**константы прав**](../wmisdk/privilege-constants.md) и [выполнение привилегированных операций](../wmisdk/executing-privileged-operations.md). В следующем примере кода VBScript показано, как включить привилегию **сетлоаддриверпривилеже** в скрипте.
 
@@ -5593,7 +5593,7 @@ Next
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -5607,7 +5607,7 @@ Next
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

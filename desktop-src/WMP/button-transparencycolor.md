@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7d51e42b1636958edd772d27c4e5a29720fa0dd87a74784f28f3ffeb7891873c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 771249ddb070c596dc126b9b0c8c7d04a4b4268f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118840467"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889384"
 ---
 # <a name="buttontransparencycolor"></a>КНОПКА. Транспаренциколор
 
@@ -43,7 +43,7 @@ ms.locfileid: "118840467"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Прозрачный цвет в изображении позволяет отображать все, что находится за изображением, с помощью прозрачных областей. **Кнопка** по-прежнему будет принимать щелчки в прозрачной области.
 
@@ -63,7 +63,7 @@ ms.locfileid: "118840467"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

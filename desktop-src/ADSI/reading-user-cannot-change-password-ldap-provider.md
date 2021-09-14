@@ -9,12 +9,12 @@ keywords:
 - Поставщик LDAP ADSI, примеры управления пользователями, пользователь должен сменить пароль при следующем входе в систему, чтение
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4ebbccc3147ffb1e29c0081d6e19ef1a615b7020cdc7e246fea294df7d2d38c0
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b26818ee02d3876aa209dcd4990288ea1cfe96fc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119637584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054544"
 ---
 # <a name="reading-user-cannot-change-password-ldap-provider"></a>Чтение пользователя не может изменить пароль (поставщик LDAP)
 

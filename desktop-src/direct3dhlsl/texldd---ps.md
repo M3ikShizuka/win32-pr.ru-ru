@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 45bd755cdc0d183a6b06e42cbd9fb3934a5dc26a729e9982bc54fb9d2a2b01fb
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 72f3c4aaf9ac7e6beaad1343c024aa28bd2a85ab
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119561974"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966429"
 ---
 # <a name="texldd---ps"></a>текслдд-PS
 
@@ -39,7 +39,7 @@ ms.locfileid: "119561974"
 -   src2 — это регистр источника входных данных, указывающий градиентный x.
 -   src3 — это регистр источника входных данных, указывающий градиент по оси y.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 
 

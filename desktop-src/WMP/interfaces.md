@@ -14,12 +14,12 @@ keywords:
 - Справочник по объектной модели интерфейса
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7db8e5ebe29e38da9f92370f60a622fad70f36395b271eb7bd86ef49f49a3d49
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ffff5a4c609d13d84972989ac32dae1600f5f02d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120123504"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126885080"
 ---
 # <a name="wmp-sdk-interfaces"></a>SDK-интерфейсы WMP
 

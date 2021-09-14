@@ -4,12 +4,12 @@ ms.assetid: b7148ae8-45c7-4dbe-8295-0335c7fdeff0
 title: Формулы тумана (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ac92b6d00ff5f4d4ec03dbe7bb40365917f8b835fd121cdc934c470c45c38814
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 75150a00d491f1e3fc1ea1444209449c1c2a825d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120027010"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888560"
 ---
 # <a name="fog-formulas-direct3d-9"></a>Формулы тумана (Direct3D 9)
 
@@ -21,7 +21,7 @@ ms.locfileid: "120027010"
 
 ![уравнение линейного тумана Direct3D](images/fogliner.png)
 
-where
+где
 
 -   Начало — это расстояние, с которого начинается эффект тумана.
 -   конец — это расстояние, с которым эффекты тумана больше не увеличиваются.
@@ -35,7 +35,7 @@ where
 
 ![уравнение экспоненциального тумана Direct3D](images/fogexp.png)
 
-where
+где
 
 -   e — основание натуральных логарифмов (приблизительно 2,71828).
 -   плотность — это произвольная плотность тумана, которая может варьироваться от 0,0 до 1,0.
@@ -45,7 +45,7 @@ where
 
 ![уравнение экспоненциального тумана Direct3D 2](images/fogexp2.png)
 
-where
+где
 
 -   e — основание натуральных логарифмов, как указано выше.
 -   плотность — это произвольная плотность тумана, которая может варьироваться от 0,0 до 1,0, как указано выше.

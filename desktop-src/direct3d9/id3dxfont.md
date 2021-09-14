@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: f05322ef2d7898f0025154989e9ac09ab8355025d8ad1ed94034fb25da66592f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3b3919e4198feddbe4ac193f58f63d48753aa94d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119493656"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052844"
 ---
 # <a name="id3dxfont-interface"></a>Интерфейс ID3DXFont
 
@@ -55,7 +55,7 @@ ms.locfileid: "119493656"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Интерфейс **ID3DXFont** получается путем вызова [**D3DXCreateFont**](d3dxcreatefont.md) или [**D3DXCreateFontIndirect**](d3dxcreatefontindirect.md).
 
@@ -69,7 +69,7 @@ typedef interface ID3DXFont *LPD3DXFONT;
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -80,7 +80,7 @@ typedef interface ID3DXFont *LPD3DXFONT;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

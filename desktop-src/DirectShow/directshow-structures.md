@@ -4,12 +4,12 @@ ms.assetid: 378f6f43-5c05-4ae4-be24-956f9fc0cacf
 title: DirectShow Сотрудник
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fca0c1c877026b1df1b423f66c22cd9c5525927e3c693c5ee5afb93496e970d3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 61bf15858ea602d27b17c8853d0e911ebb37cfad
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119966344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054581"
 ---
 # <a name="directshow-structures"></a>DirectShow Сотрудник
 
@@ -89,7 +89,7 @@ ms.locfileid: "119966344"
 | [**ПЕРФИНФО \_ DSHOW \_ стреамтраце**](perfinfo-dshow-streamtrace.md)          | Данные для события трассировки типа GUID \_ стреамтраце.                                                                                                                                                                     |
 | [**\_схема PID**](pid-map.md)                                                 | Определяет содержимое идентификатора пакета транспортного потока MPEG-2.                                                                                                                                                      |
 | [**сведения о ПИН-коде \_**](/windows/win32/api/strmif/ns-strmif-pin_info)                                               | Содержит сведения о ПИН-коде.                                                                                                                                                                                     |
-| [**Качество**](/windows/win32/api/strmif/ns-strmif-quality)                                                  | Определяет сообщение контроля качества.                                                                                                                                                                                    |
+| [**Повышения**](/windows/win32/api/strmif/ns-strmif-quality)                                                  | Определяет сообщение контроля качества.                                                                                                                                                                                    |
 | [**REGFILTER2**](/windows/desktop/api/strmif/ns-strmif-regfilter2)                                            | Описывает фильтр для регистрации через интерфейс [**IFilterMapper2**](/windows/desktop/api/Strmif/nn-strmif-ifiltermapper2) .                                                                                                                   |
 | [**регфилтерпинс**](/windows/desktop/api/strmif/ns-strmif-regfilterpins)                                      | Содержит сведения о ПИН-коде для регистрации фильтра.                                                                                                                                                                    |
 | [**REGFILTERPINS2**](/windows/desktop/api/strmif/ns-strmif-regfilterpins2)                                    | Содержит сведения для регистрации фильтра через интерфейс [**IFilterMapper2**](/windows/desktop/api/Strmif/nn-strmif-ifiltermapper2) .                                                                                                         |

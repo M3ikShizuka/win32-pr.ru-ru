@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: 9d70f588c9f4ec54fd5889f8effb503c62235441fe425d38ea9dbed620fd3e8e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1d32bb312c97b793f492f7a29bebe11529b79cf9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119754164"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965090"
 ---
 # <a name="d3dxplaneintersectline-function-d3dx10mathh"></a>Функция D3DXPlaneIntersectLine (D3DX10Math. h)
 
@@ -85,7 +85,7 @@ D3DXVECTOR3* D3DXPlaneIntersectLine(
 
 Указатель на структуру D3DXVECTOR3, которая является пересечением между указанной плоскостью и линией.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если линия параллельна плоскости, возвращается **значение NULL** .
 

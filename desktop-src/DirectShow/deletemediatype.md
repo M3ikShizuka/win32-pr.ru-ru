@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 6035b65d6bf292f6ca35c4323ac5ad90c747b0cfd4bfa756b1f054d7b693d998
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: db0de399ab1be7808370a6d0da57c4c3ca7b8de1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119998394"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053491"
 ---
 # <a name="deletemediatype-function"></a>Функция Делетемедиатипе
 
@@ -53,7 +53,7 @@ void WINAPI DeleteMediaType(
 
 Эта функция не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция используется для освобождения любой структуры типа мультимедиа, выделенной с помощью инструкции [**CoTaskMemAlloc**](/windows/desktop/api/combaseapi/nf-combaseapi-cotaskmemalloc) или [**креатемедиатипе**](createmediatype.md).
 

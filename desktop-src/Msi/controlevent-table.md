@@ -4,12 +4,12 @@ ms.assetid: e34d17e9-cd6b-4a21-9abc-9562ee648c59
 title: Таблица таблице ControlEvent событие
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6fec4837fa7d98289495bbb0773ae7260f957485cd87214dabf1999b1e1a876c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 721dc7ac9a729b8df0623a2958a4d0fe32851307
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119693004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142209"
 ---
 # <a name="controlevent-table"></a>Таблица таблице ControlEvent событие
 
@@ -23,12 +23,12 @@ ms.locfileid: "119693004"
 
 | Столбец    | Type                         | Ключ | Допускает значения NULL |
 |-----------|------------------------------|-----|----------|
-| Диалог\_  | [Идентификатор](identifier.md) | Д   | Нет        |
-| элементом управления\_ | [Идентификатор](identifier.md) | Д   | Нет        |
-| Событие     | [Формате](formatted.md)   | Д   | Нет        |
-| Аргумент  | [Формате](formatted.md)   | Д   | Нет        |
+| Диалог\_  | [Идентификатор](identifier.md) | Да   | Нет        |
+| элементом управления\_ | [Идентификатор](identifier.md) | Да   | Нет        |
+| Событие     | [Формате](formatted.md)   | Да   | Нет        |
+| Аргумент  | [Формате](formatted.md)   | Да   | Нет        |
 | Условие | [Condition](condition.md)   | Да   | Да        |
-| Упорядочение  | [Integer](integer.md)       | Нет   | Д        |
+| Упорядочение  | [Integer](integer.md)       | Нет   | Да        |
 
 
 

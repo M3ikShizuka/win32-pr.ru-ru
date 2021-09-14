@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 8911c7261af0bf2e140a551b0146b7764cd541368898e6d3905f5dee2eaa4c53
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cd6167402abd36db8f436f6e27b18213642f010b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119813443"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054677"
 ---
 # <a name="coutputqueue-class"></a>Класс Каутпуткуеуе
 
@@ -88,7 +88,7 @@ ms.locfileid: "119813443"
 | [**невсегмент**](coutputqueue-newsegment.md)                | Доставляет новый сегмент для входного ПИН-кода.                                                                 |
 | [**Получать**](coutputqueue-receive.md)                      | Доставляет пример носителя для входного ПИН-кода.                                                                |
 | [**рецеивемултипле**](coutputqueue-receivemultiple.md)      | Доставляет пакет образцов мультимедиа во входной ПИН-код.                                                      |
-| [**Перезапуск**](coutputqueue-reset.md)                          | Сбрасывает объект, чтобы он мог получить больше данных.                                                      |
+| [**Reset**](coutputqueue-reset.md)                          | Сбрасывает объект, чтобы он мог получить больше данных.                                                      |
 | [**Idle**](coutputqueue-isidle.md)                        | Определяет, ожидает ли объект данных.                                                       |
 | [**сетпопевент**](coutputqueue-setpopevent.md)              | Указывает событие, сообщающее, когда объект удаляет образец из очереди.                 |
 
@@ -96,7 +96,7 @@ ms.locfileid: "119813443"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

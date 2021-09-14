@@ -12,12 +12,12 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_name: ''
 api_location: ''
-ms.openlocfilehash: 03b90e9b8eea0974de3d745da29ccfa90287e730de8060f784835f5e7a74a4e2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 37a33dbe654007d489e3a6e3ada5668d4373fec3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117722465"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963502"
 ---
 # <a name="texture2darraysamplecmplevelzero-methods"></a>Методы Texture2DArray:: Самплекмплевелзеро
 

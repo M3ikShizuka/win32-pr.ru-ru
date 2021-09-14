@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 6355876c2237ec62813366c0a4fa32ffaff3d3c745a11ffde83fca81356edb00
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 857dbdeee9a2add9ab77cae0ff97d69699d2dd2e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120055183"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054735"
 ---
 # <a name="cmediacontrolgettypeinfo-method"></a>Кмедиаконтрол. GetTypeInfo, метод
 
@@ -69,7 +69,7 @@ HRESULT GetTypeInfo(
 
 Возвращает указатель E, \_ Если *пптинфо* является недопустимым. Возвращает тип \_ E \_ елементнотфаунд, если *итинфо* не равен нулю. \_При успешном завершении возвращает значение S ОК. В противном случае возвращает **значение HRESULT** из одного из вызовов для получения типа.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -80,7 +80,7 @@ HRESULT GetTypeInfo(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 7829bd57cb2d813f71e17a4925d6e5fab7cc34330041461b691e00eae6ca5cad
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 72a6e0e1798bcb8e19807619e982f487b0f04e6b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117817685"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054550"
 ---
 # <a name="isamplegrabbersetoneshot-method"></a>Метод Исамплеграббер:: Сетонешот
 
@@ -67,7 +67,7 @@ HRESULT SetOneShot(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Используйте этот метод, чтобы получить один пример из потока следующим образом:
 

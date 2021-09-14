@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 478550432aa8c03a081e8de214cdd7e8337a46eca2676a0531b177a81ff20a54
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5d9745b870a310626a6cbbbddbef118a63c64479
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117831185"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054398"
 ---
 # <a name="em_replacesel-message"></a>\_Сообщение РЕПЛАЦЕСЕЛ EM
 
@@ -47,7 +47,7 @@ ms.locfileid: "117831185"
 
 Это сообщение не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Используйте сообщение **EM \_ реплацесел** , чтобы заменить только часть текста в элементе управления "поле ввода". Чтобы заменить весь текст, используйте сообщение [**WM \_ SETTEXT**](/windows/desktop/winmsg/wm-settext) .
 
@@ -65,7 +65,7 @@ ms.locfileid: "117831185"
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 

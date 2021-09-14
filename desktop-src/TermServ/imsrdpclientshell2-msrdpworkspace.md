@@ -18,12 +18,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6470f51ccae2efb6dc3d44a7b0a2a0310ad4230861d7d86262f34fd312fcfc5c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 91eadd3f1b422e3da96d5bcd3a5178a2a0b0eb52
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118854439"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886096"
 ---
 # <a name="imsrdpclientshell2msrdpworkspace-property"></a>Свойство IMsRdpClientShell2:: Мсрдпворкспаце
 
@@ -46,11 +46,11 @@ HRESULT get_MsRdpWorkspace(
 
 Адрес указателя на интерфейс [**имсрдпворкспаце**](imsrdpworkspace.md) .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Интерфейс [**имсрдпворкспаце**](imsrdpworkspace.md) не предоставляется как пользовательский интерфейс. Доступ к нему возможен только через методы [IDispatch](/windows/desktop/com/exposing-methods-through-idispatch) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -62,7 +62,7 @@ HRESULT get_MsRdpWorkspace(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

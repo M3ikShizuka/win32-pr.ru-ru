@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 8dff56bda802286ed76ba3b448478dfa57d005c13baf229612e190bbf163b25a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f27c2974360e7e77becfa67a27b4e96b529ad1e5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118838848"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126885245"
 ---
 # <a name="editboxgetselectionend"></a>EDITBOX. Жетселектионенд
 
@@ -36,7 +36,7 @@ ms.locfileid: "118838848"
 
 Этот метод возвращает **число** (**Long**).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если текст не выбран, этот метод возвращает позицию точки вставки.
 

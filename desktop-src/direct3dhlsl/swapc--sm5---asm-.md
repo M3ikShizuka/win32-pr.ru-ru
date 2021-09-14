@@ -4,12 +4,12 @@ description: Выполняет покомпонентную условную з
 ms.assetid: 3DFCEB82-076E-4AFA-915F-47390A355B7C
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9d09d52bd497c7819500c11c4464907e4a7854bb305ed0e31d53b897ba4cf7e7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 46d2ee674a1cb1067594b0e96c739ff8df73b152
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119486264"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966537"
 ---
 # <a name="swapc-sm5---asm"></a>свапк (SM5-ASM)
 
@@ -38,7 +38,7 @@ ms.locfileid: "119486264"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Кодировка этой инструкции пытается сжать несколько параллельных условных перестановок скалярных значений в регистрах 2 4 компонентов с незначительной гибкостью в порядке расположения пар чисел, участвующих в обмене данными.
 
@@ -74,7 +74,7 @@ ms.locfileid: "119486264"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | X      | X    | X      | X        | X     | X       |
 
@@ -90,7 +90,7 @@ ms.locfileid: "119486264"
 
 | Модель шейдера                                              | Поддерживается |
 |-----------------------------------------------------------|-----------|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | Да       |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | yes       |
 | [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | Нет        |
 | [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | Нет        |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет        |

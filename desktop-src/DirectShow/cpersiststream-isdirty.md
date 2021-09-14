@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 5e28285bd5660d6ba81fe77718cd9d38f325c51184a7bbd035cf3d7cb2ce6aa8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4f3bc57998b63ece5ca32543fc00d1d3b5b4389b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120108444"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054662"
 ---
 # <a name="cpersiststreamisdirty-method"></a>Кперсистстреам. IsDirty, метод
 
@@ -44,11 +44,11 @@ HRESULT IsDirty();
 
 Возвращает значение \_ ОК, если для фильтра требуется сохранение, и \_ false, если нет необходимости сохранять.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция члена реализует метод **IPersistStream:: IsDirty** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ HRESULT IsDirty();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

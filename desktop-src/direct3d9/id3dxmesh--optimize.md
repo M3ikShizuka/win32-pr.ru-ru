@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: e4ea03bcaaab492ec09dd24ec93c6a9c9ca393c1399b05e12096a8ba1f4f9aa3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: debec1c0ee54e612ab0de832dbc5c2481dcefad8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119493104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052807"
 ---
 # <a name="id3dxmeshoptimize-method"></a>Метод ID3DXMesh:: OPTIMIZE
 
@@ -105,13 +105,13 @@ HRESULT Optimize(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод создает новую сетку. Перед запуском optimize приложение должно создать буфер соседей путем вызова [**ID3DXBaseMesh:: женератеаджаценци**](id3dxbasemesh--generateadjacency.md). В буфере соседка содержатся смежные данные, например список краев и сторон, расположенных рядом друг с другом.
 
 Этот метод очень похож на метод [**ID3DXBaseMesh:: клонемеш**](id3dxbasemesh--clonemesh.md) , за исключением того, что он может выполнять оптимизацию при формировании нового клона сетки. Выходная сетка наследует все параметры создания входной сетки.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -122,7 +122,7 @@ HRESULT Optimize(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 84445c3d18fa38bbeff4085c6da1fda191bb6ca5bbe147c17f3f5f8769d2a63d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d1d59791859e0330415512db1551709729455d0d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119629204"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052779"
 ---
 # <a name="id3dxpatchmeshsetdisplaceparam-method"></a>Метод ID3DXPatchMesh:: Сетдисплацепарам
 
@@ -105,7 +105,7 @@ HRESULT SetDisplaceParam(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Карты смещения могут быть только 2D-текстурой. Функции текстурирования игнорируется для неадаптируемой тесселяции.
 

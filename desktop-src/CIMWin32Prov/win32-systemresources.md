@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 160be61ab1dc850cc84938be68f79c02ead0597727d330c5d2ea7d3494a923dc
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fe96467e4bc609fa9426edd3c977b5596ea95fe7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119827964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053683"
 ---
 # <a name="win32_systemresources-class"></a>\_Класс Win32 системресаурцес
 
@@ -40,7 +40,7 @@ class Win32_SystemResources : CIM_ComputerSystemResource
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ системресаурцес** имеет следующие типы членов:
 
@@ -84,7 +84,7 @@ class Win32_SystemResources : CIM_ComputerSystemResource
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ системресаурцес** является производным от [**CIM \_ компутерсистемресаурце**](cim-computersystemresource.md).
 

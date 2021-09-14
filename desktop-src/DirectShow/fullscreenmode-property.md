@@ -4,12 +4,12 @@ ms.assetid: e4682f50-080c-4f38-b2ca-ce4ca6b746d7
 title: Фуллскринмоде, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 103938afa6710b858329147eafadec4e06fd7d2ba244b896dd1ac39c74cd12c1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a96b3c0ca8261eb934e95eb7235b51e76e8c7579
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119015622"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053408"
 ---
 # <a name="fullscreenmode-property"></a>Фуллскринмоде, свойство
 
@@ -28,7 +28,7 @@ ms.locfileid: "119015622"
 
 Возвращает логическое значение, указывающее, следует ли включать или отключать полноэкранное воспроизведение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство доступно для чтения и записи со значением по умолчанию false.
 

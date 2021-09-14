@@ -4,12 +4,12 @@ description: Поставщик может определить список п�
 ms.assetid: d16b2410-a0de-42da-8f2a-98341c90ed87
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 19ddf3ebb45ba509356a38797682be2be5d5bf1867b81767ce4fe262d678517a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 62020adeb46bac96cada70cf5830e17213d69868
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117937216"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126885541"
 ---
 # <a name="defining-namevalue-mappings"></a>Определение сопоставлений имен и значений
 

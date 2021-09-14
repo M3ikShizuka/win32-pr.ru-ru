@@ -4,12 +4,12 @@ ms.assetid: 87ff447a-ced0-4079-b46d-239f0db37250
 title: элемент hostedService
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 08479e88214e5fe6d1fbbb6ff5a3fffb7bb2047e8b7ca08cde92d64dd7dd6b2e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e96c9f6e010989f4844d93299bb34f1ab8893236
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119130796"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966978"
 ---
 # <a name="hostedservice-element"></a>элемент hostedService
 
@@ -56,7 +56,7 @@ codeName(
 
 | Элемент                         | Описание                                                                  |
 |---------------------------------|------------------------------------------------------------------------------|
-| [**File**](file.md)<br/> | Спецификация выходного файла для генератора кода.<br/> <br/> |
+| [**файл**](file.md)<br/> | Спецификация выходного файла для генератора кода.<br/> <br/> |
 
 
 

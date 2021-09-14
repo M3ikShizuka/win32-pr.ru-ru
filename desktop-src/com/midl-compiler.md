@@ -4,12 +4,12 @@ description: Компилятор MIDL
 ms.assetid: ce3d40b7-49fd-4689-9100-fdbad4f0c557
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1db4afbbe8c7a82f4335855b40e578fe2eea046fa4c7f0560e3e297b559a67ef
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9fa57131e31e9c6273270a771f9ba862d73bc142
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117736433"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889029"
 ---
 # <a name="midl-compiler"></a>Компилятор MIDL
 

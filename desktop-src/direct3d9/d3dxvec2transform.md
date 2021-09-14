@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 2115b804dfda537508247785d897757a3f25263e8ee528fdacfb1a91b0515045
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9b9b0f5ae0e3fda05cd8bdd92ee73b826f81b970
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117730804"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052942"
 ---
 # <a name="d3dxvec2transform-function-d3dx9mathh"></a>Функция D3DXVec2Transform (D3dx9math. h)
 
@@ -75,7 +75,7 @@ D3DXVECTOR4* D3DXVec2Transform(
 
 Указатель на структуру [**D3DXVECTOR4**](d3dxvector4.md) , которая является преобразованным вектором.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция преобразует вектор *ПС* (x, y, 0, 1) на матрицу *PM*.
 

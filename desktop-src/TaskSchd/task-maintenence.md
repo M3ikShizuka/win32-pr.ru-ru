@@ -4,12 +4,12 @@ description: действие обслуживания относится к п�
 ms.assetid: 1D38341B-15AA-422F-AED1-647FCDE69E2E
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 43fe72159ac5fd14c2dcc80126e572fa1475ed52ffd5710b74621cf00ad40a39
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 456383eeb75c3b29bf575357d4b17d5f8a66234b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119139307"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886464"
 ---
 # <a name="automatic-maintenance"></a>Автоматическое обслуживание
 

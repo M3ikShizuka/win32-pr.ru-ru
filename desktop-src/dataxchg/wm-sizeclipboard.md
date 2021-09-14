@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 778caa6538992d927a0451518fcb28b82891773563614ba97c9d9df121fb69f9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 235de630b20757a571b1917a975d1425bee06cde
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118545323"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126884888"
 ---
 # <a name="wm_sizeclipboard-message"></a>\_Сообщение СИЗЕКЛИПБОАРД WM
 
@@ -54,7 +54,7 @@ ms.locfileid: "118545323"
 
 Если приложение обрабатывает это сообщение, оно должно вернуть ноль.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Когда окно средства просмотра буфера обмена собирается к уничтожению или изменению размера, сообщение **WM \_ сизеклипбоард** отправляется с пустым прямоугольником (0, 0, 0, 0) в качестве нового размера. Это позволяет владельцу буфера обмена освобождать ресурсы, отображаемые на экране.
 
@@ -76,7 +76,7 @@ ms.locfileid: "118545323"
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Буфер обмена](clipboard.md)

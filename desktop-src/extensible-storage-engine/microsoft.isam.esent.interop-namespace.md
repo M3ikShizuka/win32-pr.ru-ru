@@ -15,11 +15,11 @@ dev_langs:
 - VB
 - other
 ms.openlocfilehash: d66441e4db647e6f15c9434597a7e95a2006758a
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103998658"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964226"
 ---
 # <a name="microsoftisamesentinterop-namespace"></a>Пространство имен Microsoft. ISAM. ESENT. Interop
 
@@ -36,7 +36,7 @@ ms.locfileid: "103998658"
 <tbody>
 <tr class="odd">
 <td><img src="../images/dn292085.pubclass(EXCHG.10).gif" title="Открытый класс" alt="Public class" /></td>
-<td><a href="dn292211(v=exchg.10).md">API</a></td>
+<td><a href="dn292211(v=exchg.10).md">Api</a></td>
 <td>Управляемые версии API ESENT. Этот класс содержит статические методы, соответствующие неуправляемому API ESENT. Эти методы создают исключения при возвращении ошибок. Вспомогательные методы для API ESENT. Эти Жетмакекэй переносятся. Методы API только для внутреннего использования. Вспомогательные методы для API ESENT. Это преобразование данных для Жетмакекэй. Вспомогательные методы для API ESENT. Эти методы имеют дело с метаданными базы данных. Вспомогательные методы для API ESENT. Они не являются версиями API-интерфейса, но инкапсулируют очень распространенные способы использования функций. Члены API, помеченные как устаревшие. Вспомогательные методы для API ESENT. Они не являются версиями API-интерфейса, но инкапсулируют очень распространенные способы использования функций. Вспомогательные методы для API ESENT. Это преобразование данных для столбцов параметров.</td>
 </tr>
 <tr class="even">
@@ -77,7 +77,7 @@ ms.locfileid: "103998658"
 <tr class="odd">
 <td><img src="../images/dn292085.pubclass(EXCHG.10).gif" title="Открытый класс" alt="Public class" /></td>
 <td><a href="dn334230(v=exchg.10).md">Преобразования</a></td>
-<td>Предоставляют методы для преобразования данных и флагов между Win32 и платформа .NET Framework.</td>
+<td>предоставляют методы для преобразования данных и флагов между Win32 и платформа .NET Framework.</td>
 </tr>
 <tr class="even">
 <td><img src="../images/dn292085.pubclass(EXCHG.10).gif" title="Открытый класс" alt="Public class" /></td>
@@ -882,7 +882,7 @@ ms.locfileid: "103998658"
 <tr class="even">
 <td><img src="../images/dn292085.pubclass(EXCHG.10).gif" title="Открытый класс" alt="Public class" /></td>
 <td><a href="dn350503(v=exchg.10).md">есентинитинпрогрессексцептион</a></td>
-<td>Базовый класс для JET_err.Iniисключений Тинпрогресс.</td>
+<td>Базовый класс для JET_err. Исключения Инитинпрогресс.</td>
 </tr>
 <tr class="odd">
 <td><img src="../images/dn292085.pubclass(EXCHG.10).gif" title="Открытый класс" alt="Public class" /></td>
@@ -1992,12 +1992,12 @@ ms.locfileid: "103998658"
 <tr class="even">
 <td><img src="../images/dn292085.pubclass(EXCHG.10).gif" title="Открытый класс" alt="Public class" /></td>
 <td><a href="dn334938(v=exchg.10).md">есентсистемпарамсалреадисетексцептион</a></td>
-<td>Базовый класс для JET_err.Sysисключений Темпарамсалреадисет.</td>
+<td>Базовый класс для JET_err. Исключения Системпарамсалреадисет.</td>
 </tr>
 <tr class="odd">
 <td><img src="../images/dn292085.pubclass(EXCHG.10).gif" title="Открытый класс" alt="Public class" /></td>
 <td><a href="dn334943(v=exchg.10).md">есентсистемпасинусиксцептион</a></td>
-<td>Базовый класс для JET_err.Sysисключений Темпасинусе.</td>
+<td>Базовый класс для JET_err. Исключения Системпасинусе.</td>
 </tr>
 <tr class="even">
 <td><img src="../images/dn292085.pubclass(EXCHG.10).gif" title="Открытый класс" alt="Public class" /></td>
@@ -2277,7 +2277,7 @@ ms.locfileid: "103998658"
 <tr class="odd">
 <td><img src="../images/dn292085.pubclass(EXCHG.10).gif" title="Открытый класс" alt="Public class" /></td>
 <td><a href="dn335061(v=exchg.10).md">JET_CONVERT</a></td>
-<td><strong>Устарело.</strong> Параметры преобразования для <a href="dn292112(v=exchg.10).md">жеткомпакт (JET_SESID, String, String, JET_PFNSTATUS, JET_CONVERT, компактгрбит)</a>. Эта функция прекращена в Windows Server 2003.</td>
+<td><strong>Устарело.</strong> Параметры преобразования для <a href="dn292112(v=exchg.10).md">жеткомпакт (JET_SESID, String, String, JET_PFNSTATUS, JET_CONVERT, компактгрбит)</a>. эта функция прекращена в Windows Server 2003.</td>
 </tr>
 <tr class="even">
 <td><img src="../images/dn292085.pubclass(EXCHG.10).gif" title="Открытый класс" alt="Public class" /></td>
@@ -2367,7 +2367,7 @@ ms.locfileid: "103998658"
 <tr class="odd">
 <td><img src="../images/dn292085.pubclass(EXCHG.10).gif" title="Открытый класс" alt="Public class" /></td>
 <td><a href="dn351059(v=exchg.10).md">JET_SETINFO</a></td>
-<td>Параметры для Жетсетколумн.</td>
+<td>Параметры для жетсетколумн.</td>
 </tr>
 <tr class="even">
 <td><img src="../images/dn292085.pubclass(EXCHG.10).gif" title="Открытый класс" alt="Public class" /></td>

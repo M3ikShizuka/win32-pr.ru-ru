@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: e358aa3ab589af0be1e4e490c141ed41baeb5874
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124370413"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055156"
 ---
 # <a name="icm_compress_begin-message"></a>\_ \_ Сообщение начала сжатия ICM
 
@@ -56,7 +56,7 @@ lParam = (DWORD_PTR) (LPVOID) lpbiOutput;
 
 Возвращает ИЦЕРР \_ ОК, если драйвер поддерживает указанное сжатие или ицерр \_ бадформат, если формат входных или выходных данных не поддерживается.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Драйвер должен выделять и инициализировать любые таблицы или память, необходимые для сжатия форматов данных при получении сообщения [**\_ сжатия ICM**](icm-compress.md) .
 
@@ -74,7 +74,7 @@ lParam = (DWORD_PTR) (LPVOID) lpbiOutput;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 6d051bdd2757e37d3939616300ab0763ef2bebec727d48477f15a23e0f5178f0
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5fa15c84b9d9e0b686e17110c656b74161687705
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119983174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053988"
 ---
 # <a name="cdynamicoutputpincompleteconnect-method"></a>Кдинамикаутпутпин. Комплетеконнект, метод
 
@@ -53,7 +53,7 @@ virtual HRESULT CompleteConnect(
 
 Возвращает \_ значение ОК в случае успешного выполнения или **HRESULT** , указывающий на причину сбоя.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод переопределяет метод [**кбасеаутпутпин:: комплетеконнект**](cbaseoutputpin-completeconnect.md) . Для поддержки динамического повторного подключения этот метод фиксирует распределитель, если фильтр активен. В базовом классе соединения могут происходить только в том случае, если фильтр остановлен, поэтому распределитель всегда фиксируется в методе [**кбасеаутпутпин:: Active**](cbaseoutputpin-active.md) .
 

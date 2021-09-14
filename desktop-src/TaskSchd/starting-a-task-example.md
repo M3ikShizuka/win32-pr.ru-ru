@@ -4,12 +4,12 @@ description: Чтобы запустить задачу, вызовите мет
 ms.assetid: 90f197de-7a32-4e4b-b4c0-d3f706e47de1
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f4176bf793e72acd3930d6e1e5cbc3d73e91c1d558e342a5a9804aa8f87526cf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 325d8d990367a810351ec4eea8b03b7dc0240cd5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119139337"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886485"
 ---
 # <a name="starting-a-task-example"></a>Пример запуска задачи
 

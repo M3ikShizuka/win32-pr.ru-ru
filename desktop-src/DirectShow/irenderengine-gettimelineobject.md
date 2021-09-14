@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 0c21868dc705a5c9f3b40649540fcaadb1f9219a7443d58c59964606cb7ed7d0
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: aab8e9a5f77affc464763b1c5a5045eaa4fc042a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119823364"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054558"
 ---
 # <a name="irenderenginegettimelineobject-method"></a>Метод Ирендеренгине:: Жеттимелинеобжект
 
@@ -68,7 +68,7 @@ HRESULT GetTimelineObject(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При возврате, если значение *\* Пптимелине* не **равно NULL**, то интерфейс **иамтимелине** имеет необработанный счетчик ссылок. Не забудьте освободить интерфейс по завершении его использования.
 

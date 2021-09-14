@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 09fa09451bf323a9f30afeddf7b2d003183a1eba7b0999a79fb42c70e1417013
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 919bf906ce67793c4cd26f32892eae8acf441295
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119573574"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889680"
 ---
 # <a name="axwindowsmediaplayeropenstate-property"></a>Аксвиндовсмедиаплайер. Опенстате, свойство
 
@@ -50,7 +50,7 @@ Public ReadOnly Property openState As WMPOpenState
 
 Значение перечисления Вмплиб. Вмпопенстате.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 состояния проигрыватель Windows Media не гарантированно выполняются в каком бы то ни было определенном порядке. Кроме того, не все состояния должны происходить во время последовательности событий. Не следует писать код, зависящий от порядка состояний.
 

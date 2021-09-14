@@ -12,12 +12,12 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_name: ''
 api_location: ''
-ms.openlocfilehash: 217ce618acbc16382da17155245c1534cd043b7b9593aa00f79f5b4b9f9ff440
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7124d9bfa3aadd201604aef91b25ba06ad45ca79
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119742634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963489"
 ---
 # <a name="texturecubegathercmpblue-methods"></a>Методы Текстурекубе:: Гасеркмпблуе
 

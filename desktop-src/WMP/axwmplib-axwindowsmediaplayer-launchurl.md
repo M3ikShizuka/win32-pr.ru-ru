@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3b4f3ad10a6defe4e7db252a1703888550ff5a89fe2a0d0618dd9886fc5f74bf
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 27fe8e544bb14b119785b26b9cb5be5cdad48015
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120123994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889760"
 ---
 # <a name="axwindowsmediaplayerlaunchurl-method"></a>Аксвиндовсмедиаплайер. Лаунчурл, метод
 
@@ -63,7 +63,7 @@ Public Sub launchURL( _
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод открывает только веб-страницы с использованием протоколов HTTP или HTTPS.
 
@@ -107,7 +107,7 @@ End Sub
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

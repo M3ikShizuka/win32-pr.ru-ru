@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 1c8c055c260f4983622010ced5de652cf673391b7ae02a75b40fd28427a78827
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 90d979754a3d6f034c353229dbaa1b1dbaedea79
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119751884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054821"
 ---
 # <a name="stopservice-method-of-the-win32_service-class-sdoiash"></a>Метод «начало» класса Win32_Service (Сдоиас. h)
 
@@ -221,7 +221,7 @@ uint32 StopService();
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Определив, какие службы могут быть остановлены или приостановлены, можно использовать **методы "** [**PauseService**](pauseservice-method-in-class-win32-systemdriver.md) " и "приостановить" для остановки и приостановки служб. Решение о прекращении работы службы, а не приостановке или наоборот, зависит от нескольких факторов, включая следующие:
 
@@ -336,7 +336,7 @@ WScript.Echo "Return value: " & Return
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -351,7 +351,7 @@ WScript.Echo "Return value: " & Return
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 63236083c1964d29cb915e4bfc51303b30b730e01f76f2b186cc200d1dcfce6f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5cbdef51348593f8dbcfdb1ef579aca7dba6f96e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119019472"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054299"
 ---
 # <a name="em_streamout-message"></a>\_Сообщение о потоке EM
 
@@ -79,7 +79,7 @@ ms.locfileid: "119019472"
 
 Это сообщение возвращает число символов, записанных в поток данных.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При отправке сообщения **о \_ потоке EM** элемент управления Rich Edit выполняет повторяющиеся вызовы функции [*едитстреамкаллбакк*](/windows/desktop/api/Richedit/nc-richedit-editstreamcallback) , указанной членом **пфнкаллбакк** структуры [**едитстреам**](/windows/desktop/api/Richedit/ns-richedit-editstream) . Каждый раз при вызове функции обратного вызова элемент управления передает буфер, содержащий часть содержимого элемента управления. Этот процесс будет продолжен до тех пор, пока элемент управления не перейдет все содержимое в функцию обратного вызова или пока не произойдет ошибка.
 

@@ -5,11 +5,11 @@ title: D3DPRESENT (D3d9.h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 2f71c89304a82344b6217a44f3d625200b03a286
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122472786"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888688"
 ---
 # <a name="d3dpresent"></a>D3DPRESENT
 
@@ -47,7 +47,7 @@ ms.locfileid: "122472786"
 |-------------------|-----------------------------------------------------------------------------------|
 | Заголовок<br/> | <dl> <dt>D3d9. h</dt> </dl> |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

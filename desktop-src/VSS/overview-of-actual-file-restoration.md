@@ -4,12 +4,12 @@ ms.assetid: 15df39fa-1eb1-4e96-9e26-14470f391de4
 title: Общие сведения о фактическом восстановлении файлов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a2cc1b74f7beae7f5686dc36ce741428cad97ae62c62c8895122ec8a639e46f7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6527a10d0880b1e599377abb797449816019ab89
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118998244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126885637"
 ---
 # <a name="overview-of-actual-file-restoration"></a>Общие сведения о фактическом восстановлении файлов
 
@@ -21,11 +21,11 @@ ms.locfileid: "118998244"
 
 | Действие запросившего                                                                                                                                                                                                                                                                                                          | Событие | Действие записи |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|---------------|
-| Создание списка восстановления набора для файлов на носителе резервных копий.                                                                                                                                                                                                                                                                 | Нет  | Нет          |
-| Обрабатывает [*направленные целевые объекты*](vssgloss-d.md) или [*частичное восстановление файлов*](vssgloss-p.md) (см. раздел [**ивсскомпонент:: Жетдиректедтаржет**](/windows/desktop/api/VsWriter/nf-vswriter-ivsscomponent-getdirectedtarget), [**ивсскомпонент:: жетпартиалфиле**](/windows/desktop/api/VsWriter/nf-vswriter-ivsscomponent-getpartialfile)). | Нет  | Нет          |
-| При необходимости проигнорируйте все указанные расположения для восстановления и выполните восстановление в новое расположение, указанное в предыдущем вызове метода [**ивссбаккупкомпонентс:: аддневтаржет**](/windows/desktop/api/VsBackup/nf-vsbackup-ivssbackupcomponents-addnewtarget).                                                                                                                       | Нет  | Нет          |
-| Если восстановление является добавочным и требуется дальнейшее восстановление, укажите (см. раздел [**ивссбаккупкомпонентс:: сетаддитионалресторес**](/windows/desktop/api/VsBackup/nf-vsbackup-ivssbackupcomponents-setadditionalrestores) и [добавочные и разностные резервные копии](incremental-and-differential-backups.md)).                                                     | Нет  | Нет          |
-| Чтобы узнать, изменил ли модуль записи содержимое документа компонентов резервного копирования, вызовите метод [**ивссбаккупкомпонентс:: жетвритеркомпонентс**](/windows/desktop/api/VsBackup/nf-vsbackup-ivssbackupcomponents-getwritercomponents). Например, модуль записи мог изменить целевой объект восстановления.                                                                 | Нет  | Нет          |
+| Создание списка восстановления набора для файлов на носителе резервных копий.                                                                                                                                                                                                                                                                 | None  | None          |
+| Обрабатывает [*направленные целевые объекты*](vssgloss-d.md) или [*частичное восстановление файлов*](vssgloss-p.md) (см. раздел [**ивсскомпонент:: Жетдиректедтаржет**](/windows/desktop/api/VsWriter/nf-vswriter-ivsscomponent-getdirectedtarget), [**ивсскомпонент:: жетпартиалфиле**](/windows/desktop/api/VsWriter/nf-vswriter-ivsscomponent-getpartialfile)). | None  | None          |
+| При необходимости проигнорируйте все указанные расположения для восстановления и выполните восстановление в новое расположение, указанное в предыдущем вызове метода [**ивссбаккупкомпонентс:: аддневтаржет**](/windows/desktop/api/VsBackup/nf-vsbackup-ivssbackupcomponents-addnewtarget).                                                                                                                       | None  | None          |
+| Если восстановление является добавочным и требуется дальнейшее восстановление, укажите (см. раздел [**ивссбаккупкомпонентс:: сетаддитионалресторес**](/windows/desktop/api/VsBackup/nf-vsbackup-ivssbackupcomponents-setadditionalrestores) и [добавочные и разностные резервные копии](incremental-and-differential-backups.md)).                                                     | None  | None          |
+| Чтобы узнать, изменил ли модуль записи содержимое документа компонентов резервного копирования, вызовите метод [**ивссбаккупкомпонентс:: жетвритеркомпонентс**](/windows/desktop/api/VsBackup/nf-vsbackup-ivssbackupcomponents-getwritercomponents). Например, модуль записи мог изменить целевой объект восстановления.                                                                 | None  | None          |
 
 
 

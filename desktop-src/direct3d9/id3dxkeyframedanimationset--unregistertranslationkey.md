@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 6336e838c5ea2ff05c8d06b600efefe5722703d8d202039d880d58008d895f94
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 127aaa707c364e51815af09b8222d73102281b10
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118294889"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052840"
 ---
 # <a name="id3dxkeyframedanimationsetunregistertranslationkey-method"></a>Метод ID3DXKeyframedAnimationSet:: Унрегистертранслатионкэй
 
@@ -65,7 +65,7 @@ HRESULT UnregisterTranslationKey(
 
 Если метод выполнен успешно, возвращается значение S \_ . Если метод завершается с ошибкой, будет возвращено следующее значение: D3DERR \_ инвалидкалл.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод работает достаточно долго и не должен использоваться после начала воспроизведения анимации.
 

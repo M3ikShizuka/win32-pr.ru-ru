@@ -1,6 +1,6 @@
 ---
 title: кнопки (проигрыватель Windows Media SDK)
-description: через кнопки;
+description: Кнопки
 ms.assetid: 1212e2d9-e8f8-45d8-8c7f-20865c9c9c94
 keywords:
 - проигрыватель Windows Media Обложки для мобильных устройств, обзор кнопок
@@ -9,12 +9,12 @@ keywords:
 - кнопки в обложках, о
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e75f9de1c7d94c85eb911898aa3b7a105b2778866f224237d1b845d8a1fbb7f6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 96128c723c5b8bbac31c82a32060704bc892dfb7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119864284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889245"
 ---
 # <a name="buttons-windows-media-player-sdk"></a>кнопки (проигрыватель Windows Media SDK)
 
@@ -53,7 +53,7 @@ ms.locfileid: "119864284"
 
 
 
-Опять же, обратите внимание, что они должны быть введены в виде отдельных строк, первая начинается с символа "// <Function> " и заканчиваться на " &lt; Push 2 Image src &gt; ". Вторая строка начинается с "//----------" и заканчивается на "------------------."
+Опять же, обратите внимание, что они должны вводиться в виде отдельных строк, начинаться с "// &lt; &gt; " функции "и заканчиваться на" &lt; Push 2 Image src &gt; ". Вторая строка начинается с "//----------" и заканчивается на "------------------."
 
 Сведения о кнопке для каждой строки в разделе кнопки должны отображаться в следующем порядке. Требуются только первые шесть частей строки. Дополнительные образы не включаются, если они не нужны.
 

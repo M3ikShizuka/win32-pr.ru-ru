@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 16e3112e36a7b212c1d0968ca738472000fabbf3d26d4d94e36ea9f21d80fe57
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4aa3ca1335372b7a61c4dfcbc379c36e89ff933e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119799444"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054122"
 ---
 # <a name="lb_selitemrangeex-message"></a>Сообщение селитемранжеекс балансировки нагрузки \_
 
@@ -49,7 +49,7 @@ Windows 95/Windows 98/Windows Millennium Edition (Windows Me): параметр 
 
 Если возникает ошибка, возвращается значение фунтов \_ Err.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если параметр *wParam* меньше, чем параметр *lParam* , выбирается указанный диапазон элементов. Если параметр *wParam* больше или равен *lParam*, диапазон удаляется из указанного диапазона элементов. Чтобы выбрать только один элемент, выберите два элемента и отмените выбор нежелательного элемента.
 

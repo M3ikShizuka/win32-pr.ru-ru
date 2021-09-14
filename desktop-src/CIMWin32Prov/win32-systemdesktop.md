@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: a7158e42589018364b9d55b578941bc3e6897576c6633b2a9fa0b0d09e4fede9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3e14cab58a445fd645b9d59c1aea713bf6c40ac0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119751344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053710"
 ---
 # <a name="win32_systemdesktop-class"></a>\_Класс Win32 системдесктоп
 
@@ -40,7 +40,7 @@ class Win32_SystemDesktop : Win32_SystemSetting
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ системдесктоп** имеет следующие типы членов:
 
@@ -84,7 +84,7 @@ class Win32_SystemDesktop : Win32_SystemSetting
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ системдесктоп** является производным от [**Win32 \_ системсеттинг**](win32-systemsetting.md).
 

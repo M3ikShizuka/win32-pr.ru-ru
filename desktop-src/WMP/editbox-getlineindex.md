@@ -3,7 +3,7 @@ title: EDITBOX. Жетлинеиндекс
 description: Метод Жетлинеиндекс извлекает индекс символа первого символа в строке с указанным индексом строки.
 ms.assetid: 1298227a-d839-44fc-bacb-44c3c968bd94
 keywords:
-- Жетлинеиндекс Windows Media Player
+- EDITBOX. жетлинеиндекс проигрыватель Windows Media
 topic_type:
 - apiref
 api_name:
@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 5f55027bb7d577b7080ad2f006a5a006e718c2d5
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105699274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126885240"
 ---
 # <a name="editboxgetlineindex"></a>EDITBOX. Жетлинеиндекс
 
@@ -55,7 +55,7 @@ ms.locfileid: "105699274"
 
 | Требование | Значение |
 |--------------------|---------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media для Windows XP или более поздней версии<br/> |
+| Версия<br/> | проигрыватель Windows Media для Windows XP или более поздней версии<br/> |
 
 
 

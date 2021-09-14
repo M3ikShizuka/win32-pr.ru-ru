@@ -15,11 +15,11 @@ ms.localizationpriority: low
 ms.topic: reference
 ms.date: 07/29/2021
 ms.openlocfilehash: 87fe62c475e1d961258671355c4c9be133bf0a41
-ms.sourcegitcommit: 0dec0044816af3f2b2e6403659e1cf11138c90cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121813238"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966858"
 ---
 # <a name="cd3dx12_resource_desc1-structure"></a>Структура CD3DX12_RESOURCE_DESC1
 
@@ -95,7 +95,7 @@ inline bool operator==(const D3D12_RESOURCE_DESC1& l, const D3D12_RESOURCE_DESC1
 inline bool operator!=(const D3D12_RESOURCE_DESC1& l, const D3D12_RESOURCE_DESC1& r) noexcept;
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 `CD3DX12_RESOURCE_DESC1`
 
@@ -113,12 +113,12 @@ inline bool operator!=(const D3D12_RESOURCE_DESC1& l, const D3D12_RESOURCE_DESC1
 
 Статическая функция, которая конструирует и возвращает новый экземпляр **CD3DX12_RESOURCE_DESC1** , инициализированный этими значениями.
 
-|Элемент данных|Значение|
+|Элемент данных|value|
 |-|-|
 |Измерение|D3D12_RESOURCE_DIMENSION_BUFFER|
 |Выравнивание|*ресаллоЦинфо*. Выравнивание|
 |Ширина|*ресаллоЦинфо*. сизеинбитес|
-|Высота|1|
+|Высота:|1|
 |депсораррайсизе|1|
 |миплевелс|1|
 |Формат|DXGI_FORMAT_UNKNOWN|
@@ -134,12 +134,12 @@ inline bool operator!=(const D3D12_RESOURCE_DESC1& l, const D3D12_RESOURCE_DESC1
 
 Статическая функция, которая конструирует и возвращает новый экземпляр **CD3DX12_RESOURCE_DESC1** , инициализированный этими значениями.
 
-|Элемент данных|Значение|
+|Элемент данных|value|
 |-|-|
 |Измерение|D3D12_RESOURCE_DIMENSION_BUFFER|
 |Выравнивание|*Выравнивание*|
 |Ширина|*width*|
-|Высота|1|
+|Высота:|1|
 |депсораррайсизе|1|
 |миплевелс|1|
 |Формат|DXGI_FORMAT_UNKNOWN|
@@ -155,12 +155,12 @@ inline bool operator!=(const D3D12_RESOURCE_DESC1& l, const D3D12_RESOURCE_DESC1
 
 Статическая функция, которая конструирует и возвращает новый экземпляр **CD3DX12_RESOURCE_DESC1** , инициализированный этими значениями.
 
-|Элемент данных|Значение|
+|Элемент данных|value|
 |-|-|
 |Измерение|D3D12_RESOURCE_DIMENSION_TEXTURE1D|
 |Выравнивание|*Выравнивание*|
 |Ширина|*width*|
-|Высота|1|
+|Высота:|1|
 |депсораррайсизе|*Размера массива*|
 |миплевелс|*миплевелс*|
 |Формат|*format*|
@@ -176,12 +176,12 @@ inline bool operator!=(const D3D12_RESOURCE_DESC1& l, const D3D12_RESOURCE_DESC1
 
 Статическая функция, которая конструирует и возвращает новый экземпляр **CD3DX12_RESOURCE_DESC1** , инициализированный этими значениями.
 
-|Элемент данных|Значение|
+|Элемент данных|value|
 |-|-|
 |Измерение|D3D12_RESOURCE_DIMENSION_TEXTURE2D|
 |Выравнивание|*Выравнивание*|
 |Ширина|*width*|
-|Высота|*height*|
+|Высота:|*height*|
 |депсораррайсизе|*Размера массива*|
 |миплевелс|*миплевелс*|
 |Формат|*format*|
@@ -197,12 +197,12 @@ inline bool operator!=(const D3D12_RESOURCE_DESC1& l, const D3D12_RESOURCE_DESC1
 
 Статическая функция, которая конструирует и возвращает новый экземпляр **CD3DX12_RESOURCE_DESC1** , инициализированный этими значениями.
 
-|Элемент данных|Значение|
+|Элемент данных|value|
 |-|-|
 |Измерение|D3D12_RESOURCE_DIMENSION_TEXTURE3D|
 |Выравнивание|*Выравнивание*|
 |Ширина|*width*|
-|Высота|*height*|
+|Высота:|*height*|
 |депсораррайсизе|*Длина*|
 |миплевелс|*миплевелс*|
 |Формат|*format*|
@@ -242,13 +242,13 @@ inline bool operator!=(const D3D12_RESOURCE_DESC1& l, const D3D12_RESOURCE_DESC1
 
 Бесплатная функция, возвращающая значение, `true` Если два параметра являются одноэлементными и не равны. в противном случае — значение `false` .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |-------------------|-------------------------------------------------------------------------------------|
 | Заголовок | [D3dx12. h](https://github.com/microsoft/DirectX-Headers/blob/main/include/directx/d3dx12.h) |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 * [D3DX12_RESOURCE_DESC1](/windows/win32/api/d3d12/D3DX12_RESOURCE_DESC1/windows/win32/api/d3d12/ns-d3d12-d3d12_resource_desc1)
 * [Вспомогательные структуры для Direct3D 12](helper-structures-for-d3d12.md)

@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 15fef5786487a0e5dad6aa96f4061a2e7414773e2f269ea9834cc3dd17211e3d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 42c675f61fc8b42790aeb811ec275554b355a392
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120003854"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965430"
 ---
 # <a name="create-method-of-the-win32_process-class"></a>Метод Create \_ класса Process Win32
 
@@ -100,7 +100,7 @@ uint32 Create(
 **Другие** (22 4294967295)
 </dt> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы настроить процесс перед вызовом этого метода, можно создать экземпляр класса [**Win32 \_ процессстартуп**](win32-processstartup.md) .
 

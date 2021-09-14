@@ -4,12 +4,12 @@ description: MkTypLib — это приложение командной стр�
 ms.assetid: 883d380d-1d73-439b-9f11-ee89fc62fdfd
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b712ed8220dd609dd3ba189bdac6b5ee11d2805f26ff5a1f146c20f17c1f8ab9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: abc392351327124777c2d52d0bbe0653853dcb52
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119047942"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889005"
 ---
 # <a name="mktyplib-command-line-tool"></a>Средство Command-Line MkTypLib
 

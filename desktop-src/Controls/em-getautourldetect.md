@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d60fc8efdc6e554e379a9381239920cf70ef07ffca22240e62cfc6892ca2e636
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6e68e4f2991c5f8780cb587594289674e07ec992
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119019952"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054459"
 ---
 # <a name="em_getautourldetect-message"></a>\_Сообщение ЖЕТАУТАУРЛДЕТЕКТ EM
 
@@ -49,7 +49,7 @@ ms.locfileid: "119019952"
 
 Если автоматическое обнаружение URL-адресов неактивно, возвращается значение 0.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если включено автоматическое обнаружение URL-адресов, Microsoft Rich Edit постоянно проверяет вводимый текст на наличие допустимого URL-адреса. Расширенное редактирование распознает URL-адреса, которые начинаются с этих префиксов:
 
@@ -68,7 +68,7 @@ ms.locfileid: "119019952"
 
 Расширенное редактирование также распознает имена стандартных путей, начинающихся с \\ \\ . Когда форматируемый текст находит URL-адрес, он изменяет цвет текста URL-адреса, подчеркивает текст и уведомляет клиента по [ \_ ссылке EN](en-link.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -80,7 +80,7 @@ ms.locfileid: "119019952"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

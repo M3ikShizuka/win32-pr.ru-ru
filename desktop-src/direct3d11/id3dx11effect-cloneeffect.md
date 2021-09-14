@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9d9fa68fe05674573468eb684d8149d8dae45e540572f4d777bb860755c60e0a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b9dc7e47d1c50d0e41c29c90102afaaebdce8dda
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119124529"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966906"
 ---
 # <a name="id3dx11effectcloneeffect-method"></a>Метод ID3DX11Effect:: Клониффект
 
@@ -53,7 +53,7 @@ HRESULT CloneEffect(
 
 
 
-| Флаг                                    | Описание                                                                                                                                      |
+| Flag                                    | Описание                                                                                                                                      |
 |-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | D3DX11 \_ воздействие \_ клона в \_ \_ неодном | Игнорировать все "одиночные" квалификаторы в cbuffer. Все cbuffer будут иметь собственные [**ID3D11Buffer**](/windows/desktop/api/D3D11/nn-d3d11-id3d11buffer)s, созданные в клонированном результате. |
 
@@ -78,7 +78,7 @@ HRESULT CloneEffect(
 
 Возвращает один из следующих [кодов возврата Direct3D 11](d3d11-graphics-reference-returnvalues.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Пакет SDK для DirectX не предоставляет никаких скомпилированных двоичных файлов для эффектов. Для создания приложения типа Effects необходимо использовать исходный текст Effects 11. Дополнительные сведения об использовании источника Effects 11 см. в разделе [различия между эффектами 10 и эффекты 11](d3d11-graphics-programming-guide-effects-differences.md).

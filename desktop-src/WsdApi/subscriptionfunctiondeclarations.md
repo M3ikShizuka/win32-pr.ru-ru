@@ -4,12 +4,12 @@ ms.assetid: 0e5b2232-c9bf-4741-921d-bb3bce4ee293
 title: Субскриптионфунктиондекларатионс, элемент
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1326750ece2f8dceff171890d107a7efad5f7432be2c201bf182e4406cb7fe6b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fb7389b30ef7da17f9466fa8aefd24fa04f4c99f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120097104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965245"
 ---
 # <a name="subscriptionfunctiondeclarations-element"></a>Субскриптионфунктиондекларатионс, элемент
 
@@ -62,7 +62,7 @@ ms.locfileid: "120097104"
 
 | Элемент                         | Описание                                                    |
 |---------------------------------|----------------------------------------------------------------|
-| [**File**](file.md)<br/> | Выводит файл из генератора кода.<br/> <br/> |
+| [**файл**](file.md)<br/> | Выводит файл из генератора кода.<br/> <br/> |
 
 
 

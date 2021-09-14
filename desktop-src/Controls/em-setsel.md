@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 190d8a62b874d3449e0a9bf5d334a515000fb0436ba73753a8657936363071b0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4981fa179ae4bdd454ab0b0a6d7485185ed31d2c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120062894"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054310"
 ---
 # <a name="em_setsel-message"></a>\_Сообщение СЕТСЕЛ EM
 
@@ -47,7 +47,7 @@ ms.locfileid: "120062894"
 
 Это сообщение не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Начальное значение может быть больше, чем конечное значение. В нижней части этих двух значений задается символ позиции первого символа в выделенном фрагменте. Более высокое значение задает позиции первого символа после выбора.
 

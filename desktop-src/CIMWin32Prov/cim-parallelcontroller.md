@@ -39,12 +39,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: c1aea36930de2d084f5875a827a484d00852c31f2b26ff996375beb286c67dc7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bc21290de08b6e22c0bc69ec127f3c996ee5b65e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118679090"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965505"
 ---
 # <a name="cim_parallelcontroller-class"></a>\_Класс CIM параллелконтроллер
 
@@ -91,7 +91,7 @@ class CIM_ParallelController : CIM_Controller
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ параллелконтроллер** имеет следующие типы членов:
 
@@ -967,7 +967,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1672,7 +1672,7 @@ Windows все еще настраивает устройство.
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **CIM \_ параллелконтроллер** является производным от [**\_ контроллера CIM**](cim-controller.md).
 
@@ -1680,7 +1680,7 @@ Windows все еще настраивает устройство.
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -1694,7 +1694,7 @@ Windows все еще настраивает устройство.
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

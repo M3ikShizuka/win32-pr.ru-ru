@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: c2791d20b906f2a2adce31ce99b9e7498854c8fca00ade4507db0207e04b2cde
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d219eb82ab2cf1929605eee4045c2f278022ad98
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120043611"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053546"
 ---
 # <a name="cdrawimagedrawimage-method"></a>Кдравимаже. DrawImage, метод
 
@@ -53,7 +53,7 @@ BOOL DrawImage(
 
 Возвращает **значение true** в случае успеха или **false** в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод делегирует [**кдравимаже:: фастрендер**](cdrawimage-fastrender.md) или [**Кдравимаже:: словрендер**](cdrawimage-slowrender.md)в зависимости от того, владеет ли фильтр распределителем, который предоставил пример. Если фильтр владеет распределителем, пример гарантированно будет объектом [**Цимажесампле**](cimagesample.md) . В этом случае в примере используется общая память, выделенная GDI, а изображение можно изобразить с помощью **BitBlt** или **стретчблт**. В противном случае изображения должны быть выведены с помощью медленных функций **сетдибитстодевице** или **стретчдибитс** .
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: a4f044d3337a2da05eb78b027492b870f450e4309c94faa8c72db935437511dd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cc744536336a4a102bafeaeae3ba87bbad58eb97
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119853484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126884760"
 ---
 # <a name="d3dx10createmesh-function"></a>Функция D3DX10CreateMesh
 
@@ -125,7 +125,7 @@ Type: **const [**D3D10 \_ входного \_ элемента \_ DESC**](/windo
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, E \_ OUTOFMEMORY.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -136,7 +136,7 @@ Type: **const [**D3D10 \_ входного \_ элемента \_ DESC**](/windo
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

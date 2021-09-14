@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: ab89f833167a0a974e860113d342b4486b9649ef3a4cc862a82e345e5d9cd090
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7f9febbe20cfd5ab9a6577a6e00989c7d6fc4145
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118153960"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886720"
 ---
 # <a name="irenderenginescrapit-method"></a>Метод Ирендеренгине:: Скрапит
 
@@ -58,7 +58,7 @@ HRESULT ScrapIt();
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.
@@ -70,7 +70,7 @@ HRESULT ScrapIt();
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -81,7 +81,7 @@ HRESULT ScrapIt();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

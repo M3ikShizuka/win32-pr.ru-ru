@@ -12,12 +12,12 @@ api_name:
 - CallShader
 api_type:
 - NA
-ms.openlocfilehash: e411ef61c34eafcef71f3e68f6700651e4b3073423afd40451f139f02826e504
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8c5cdf4e0a71430d6375fd75ca553f92ca9539b9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119280354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966873"
 ---
 # <a name="callshader-function"></a>Функция CallShader
 
@@ -48,7 +48,7 @@ void CallShader(uint ShaderIndex, inout param_t Parameter);
 
 **void**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эту функцию можно вызывать из следующих типов шейдеров райтраЦинг:
 
@@ -59,7 +59,7 @@ void CallShader(uint ShaderIndex, inout param_t Parameter);
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1f15d0d5ab89e9917e2062fe0e46505416d2eb3e7c8ca1e0cb0412952a10b8c0
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b1f76bf3574b09b76d5f1010dcb59c8245555dc3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120085474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054125"
 ---
 # <a name="lb_gettextlen-message"></a>Сообщение жеттекстлен балансировки нагрузки \_
 
@@ -51,7 +51,7 @@ Windows 95/Windows 98/Windows Millennium Edition (Windows Me): параметр 
 
 Если параметр *wParam* не указывает допустимый индекс, возвращается значение фунтов \_ Err.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При определенных условиях возвращаемое значение больше фактической длины текста. Это происходит с определенными сочетаниями ANSI и Unicode и связано с тем, что операционная система допускает наличие в тексте символов двухбайтовой кодировки (DBCS). Однако возвращаемое значение всегда будет иметь размер по крайней мере такой же, как и фактическая длина текста. Таким же, вы всегда можете использовать его для выделения буфера. Такое поведение может возникать, если приложение использует как функции ANSI, так и общие диалоговые окна, использующие Юникод.
 
@@ -59,7 +59,7 @@ Windows 95/Windows 98/Windows Millennium Edition (Windows Me): параметр 
 
 Если список имеет стиль, рисуемый владельцем, но не хасстрингс в стиле [**фунта \_**](list-box-styles.md) , то возвращаемое значение всегда будет иметь размер в байтах типа **DWORD**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -71,7 +71,7 @@ Windows 95/Windows 98/Windows Millennium Edition (Windows Me): параметр 
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

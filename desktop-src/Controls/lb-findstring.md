@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c0a4eb2abbff27c6bde6a4bb44d0faa192ca75229be657bd787aa437b243cd59
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b528dbafbc386af05a091f24c8c28327739f5d40
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118671307"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054143"
 ---
 # <a name="lb_findstring-message"></a>Сообщение FINDSTRING балансировки нагрузки \_
 
@@ -49,11 +49,11 @@ Windows 95/Windows 98/Windows Millennium Edition (Windows Me): параметр 
 
 Возвращаемое значение — это индекс совпадающего элемента или ошибка балансировки нагрузки, \_ Если поиск завершился неудачно.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если список имеет стиль, рисуемый владельцем, но не хасстрингс в [**стиле \_ фунта**](list-box-styles.md) , действие, выполняемое методом **балансировки нагрузки \_ FINDSTRING** , зависит от того, используется ли стиль [**\_ сортировки фунтов**](list-box-styles.md) . Если **используется \_ Сортировка фунтов** , система отправляет сообщения [**WM \_ компареитем**](wm-compareitem.md) владельцу списка, чтобы определить, какой элемент соответствует заданной строке. В противном случае **Балансировка нагрузки \_ FINDSTRING** пытается найти элемент с длинным значением (предоставленным как параметр *lParam* сообщения [**\_ ADDSTRING**](lb-addstring.md) или [**\_ балансировки**](lb-insertstring.md) нагрузки), соответствующий параметру *lParam* .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ Windows 95/Windows 98/Windows Millennium Edition (Windows Me): параметр 
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 

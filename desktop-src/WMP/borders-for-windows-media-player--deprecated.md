@@ -9,12 +9,12 @@ keywords:
 - границы по сравнению с обложками
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c32e16fa6e334c5c47f24feadc777b82cee1a12477211bc4e613d22e8fdc4521
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8a48ff3ec17230002e9c6b4a1eb17e3024375a58
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120123854"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126885392"
 ---
 # <a name="borders-for-windows-media-player-deprecated"></a>границы для проигрыватель Windows Media (не рекомендуется)
 
@@ -46,7 +46,7 @@ ms.locfileid: "120123854"
 
 ## <a name="including-content-with-a-border"></a>Включение содержимого с границей
 
-можно включить содержимое с границей с помощью Windows файла скачивания носителя (с расширением имени файла. wmd). Выполните указанные ниже действия.
+можно включить содержимое с границей с помощью Windows файла скачивания носителя (с расширением имени файла. wmd). Выполните следующие действия.
 
 1.  Создайте границу. Постарайтесь создать его таким образом, чтобы изменение размера не насмарку композицию границы. Например, не включайте фоновый файл; сделать фон прозрачным, чтобы визуализация выполнялась на его основе.
 2.  сжатие содержимого обложки (изображений, JScript файлов и файла определения обложки) в файл с расширением wmz.

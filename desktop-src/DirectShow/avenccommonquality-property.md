@@ -4,12 +4,12 @@ ms.assetid: 2c7f3836-2392-47c6-9a56-d5a9b52560ff
 title: Свойство Авенккоммонкуалити (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 99202391e919fa1da9028a15a57154834feddd3039160b9b0562a713fe59ddaa
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 1a0e69d797f2e26e830158c969c8fcf4ec0b242a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120087674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127161991"
 ---
 # <a name="avenccommonquality-property"></a>Авенккоммонкуалити, свойство
 
@@ -31,7 +31,7 @@ ms.locfileid: "120087674"
 
 
 
-| Значение | Описание                           |
+| Значение | Описание:                           |
 |-------|---------------------------------------|
 | 0     | Минимальное качество, меньший размер выходных данных. |
 | 100   | Максимальное качество, больший размер вывода.  |
@@ -40,11 +40,11 @@ ms.locfileid: "120087674"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство управляет уровнем качества, если кодировщик не использует ограничение скорости. Свойство [**авенккоммонратеконтролмоде**](avenccommonratecontrolmode-property.md) определяет, ограничена ли скорость потока.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -56,7 +56,7 @@ ms.locfileid: "120087674"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

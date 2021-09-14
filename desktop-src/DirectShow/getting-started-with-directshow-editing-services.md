@@ -4,12 +4,12 @@ ms.assetid: 63148895-5233-41f3-865a-5e8f83077437
 title: начало работы с DirectShow служб редактирования
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b370fcefed0e37a5557b58102be5aeb40e84add77a40310db5f29d7623f4b5ab
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cc668fad63dbc7e450f23e8c10e2b6c3e19f0198
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119564845"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053349"
 ---
 # <a name="getting-started-with-directshow-editing-services"></a>начало работы с DirectShow служб редактирования
 

@@ -4,12 +4,12 @@ ms.assetid: 292b57ea-1c7e-49b6-876c-4ad307a2ec43
 title: Подготовка файла конфигурации ресурса
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7b862f48f15997300f079a39de0eb385c535758d9392dc452e1d338d86c8d59e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ac162ad7f6d20148e0ef60cb9dc15da41cc27186
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119147107"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055285"
 ---
 # <a name="preparing-a-resource-configuration-file"></a>Подготовка файла конфигурации ресурса
 
@@ -195,7 +195,7 @@ ms.locfileid: "119147107"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если включить в элемент Неутралресаурцес любой тип ресурса ICON (3), DIALOG (5), STRING (6) или VERSION (16), необходимо дублировать эту запись в элементе localizedResources. Это показано в приведенном выше примере, где тип ресурса 16 отображается в разделах как нейтральные, так и локализованные ресурсы.
 

@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: a9ca563c0c780b9c2f4d2171fdaa9e365b15a3b014ec4c4a42a28de7b43f3f3f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 957fa74f09a79f94e2e0feb35c418a711c91c1b0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118397565"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053308"
 ---
 # <a name="ixml2dexwritexmlpart-method"></a>Метод IXml2Dex:: Вритексмлпарт
 
@@ -78,7 +78,7 @@ HRESULT WriteXMLPart(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.

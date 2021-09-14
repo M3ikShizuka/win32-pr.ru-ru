@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: dfe2387b6cc071e9146176e6cf8b84da1870c0671572f184fea7e6cbadef03d8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9335817b9c954958c97294a88291f83bf0e967d1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118989844"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053076"
 ---
 # <a name="id3dx11effectdepthstencilvariablegetbackingstore-method"></a>Метод ID3DX11EffectDepthStencilVariable:: Жетбаккингсторе
 
@@ -68,7 +68,7 @@ HRESULT GetBackingStore(
 
 Возвращает один из следующих [кодов возврата Direct3D 11](d3d11-graphics-reference-returnvalues.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Переменные эффектов сохраняются в памяти в резервном хранилище; При применении метода значения в резервном хранилище копируются на устройство. Резервные копии данных хранилища могут использоваться для повторного создания переменной при необходимости.
 
@@ -77,7 +77,7 @@ HRESULT GetBackingStore(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -88,7 +88,7 @@ HRESULT GetBackingStore(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

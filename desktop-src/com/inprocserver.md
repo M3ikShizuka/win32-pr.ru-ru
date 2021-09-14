@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 5682693d711f734bbc60def8a711f11e2bad0ef9
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369465"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053159"
 ---
 # <a name="inprocserver"></a>инпроксервер
 
@@ -26,13 +26,13 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID
          (Default) = path
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Запись **инпроксервер** сравнительно редко используется для вставляемых классов.
 
 Внутрипроцессный сервер в настоящее время зарегистрирован с помощью записи реестра **инпроксервер** . 32-разрядные и 64-битные внутрипроцессный серверы должны использовать запись [**InprocServer32**](inprocserver32.md) . Если контейнер выполняет поиск в реестре внутрипроцессного сервера, 16-разрядная версия имеет приоритет с 16-разрядным контейнером, а 32-разрядная версия имеет приоритет с 32-битным контейнером.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

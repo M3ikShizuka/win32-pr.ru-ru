@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: cfdd834be35a59dd5d8e207cd679dae68043d70c
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369614"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053208"
 ---
 # <a name="activationfailurelogginglevel"></a>активатионфаилурелоггинглевел
 
@@ -24,7 +24,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole
    ActivationFailureLoggingLevel = value
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это значение **reg \_ DWORD** .
 
@@ -42,7 +42,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole
 
 Если требуется приложение для управления ведением журнала событий, рекомендуется присвоить этому параметру значение 0 и написать клиентский код для его переопределения при необходимости. Настоятельно рекомендуется не задавать значение 2. Если ведение журнала событий отключено, трудно диагностировать проблемы. Для сбоев разрешений на компьютеры, где в COM нет битов КЛСКТКС, COM будет рассматривать значение 0 как 1.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

@@ -20,12 +20,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: c8c750d2b05ecadc3cb900838b1b20b2c8f79e74ba61d50508dd7ae62dc66705
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5565e67cc0f91fd1c2edb0d9c0aa421211c57c2c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118253866"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965554"
 ---
 # <a name="jet_sesidtostring-method-string-iformatprovider"></a>JET_SESID. Метод ToString (String, IFormatProvider)
 

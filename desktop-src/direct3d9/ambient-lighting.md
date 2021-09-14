@@ -4,12 +4,12 @@ ms.assetid: 327095a7-f4e0-48c2-9e4d-bec8493fe37e
 title: Окружающее освещение (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0a1d1d890d2de0a9cb617759ac3a9bb6d57f81b13440049bfb54575aee7a6546
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e991981a9c1d7d24714e7014d08cefeaa94fe20f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120069453"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053033"
 ---
 # <a name="ambient-lighting-direct3d-9"></a>Окружающее освещение (Direct3D 9)
 
@@ -27,7 +27,7 @@ ms.locfileid: "120069453"
 | Gₐ                | (0,0,0,0)     | D3DCOLORVALUE | Глобальный внешний цвет                                                                                                           |
 | Аттен<sub>i</sub> | (0,0,0,0)     | D3DCOLORVALUE | Затухание света i. См. раздел " [ослабление и прожектор" (Direct3D 9)](attenuation-and-spotlight-factor.md). |
 | Точечная<sub>i</sub>  | (0,0,0,0)     | D3DVECTOR     | Коэффициент вспышки света i. См. раздел " [ослабление и прожектор" (Direct3D 9)](attenuation-and-spotlight-factor.md).  |
-| Sum               | Недоступно           | Недоступно           | Сумма внешнего освещения                                                                                                       |
+| Sum               | Н/Д           | Н/Д           | Сумма внешнего освещения                                                                                                       |
 | L<sub>AI</sub>    | (0,0,0,0)     | D3DVECTOR     | Внешний цвет света i                                                                                           |
 
 

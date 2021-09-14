@@ -15,12 +15,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: dd0bec0f21fb652ccc5c8d543f04816468fff9bc28db74a68a1d05c072a895a6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 93507b8aeefa9c0ea16f70f67e221ecc4218427f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119047252"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964014"
 ---
 # <a name="bg_file_progress-structure"></a>Структура BG_FILE_PROGRESS
 
@@ -39,7 +39,7 @@ typedef struct _BG_FILE_PROGRESS {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -66,13 +66,13 @@ typedef struct _BG_FILE_PROGRESS {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы определить, передавался ли файл, можно выполнить следующие действия.
 
 -   Сравните **BytesTransferred** с **битестотал**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -84,7 +84,7 @@ typedef struct _BG_FILE_PROGRESS {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

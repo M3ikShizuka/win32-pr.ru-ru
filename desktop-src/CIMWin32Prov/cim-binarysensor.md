@@ -37,12 +37,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 7cf4a2a8e681bcdaaed4b496c3ff6fcc198c71bf241da939a2feb12814668963
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f0d795f98473c09937571d415e34cf6fcb7f3486
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119701044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053818"
 ---
 # <a name="cim_binarysensor-class"></a>\_Класс CIM бинарисенсор
 
@@ -87,7 +87,7 @@ class CIM_BinarySensor : CIM_Sensor
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ бинарисенсор** имеет следующие типы членов:
 
@@ -102,7 +102,7 @@ class CIM_BinarySensor : CIM_Sensor
 
 | Метод                                                                  | Описание                                                                                                                                |
 |:------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
-| [**Перезапуск**](reset-method-in-class-cim-binarysensor.md)                 | Запрашивает сброс логического устройства. Не реализовано инструментарием WMI.<br/>                                                                 |
+| [**Reset**](reset-method-in-class-cim-binarysensor.md)                 | Запрашивает сброс логического устройства. Не реализовано инструментарием WMI.<br/>                                                                 |
 | [**SetPowerState**](setpowerstate-method-in-class-cim-binarysensor.md) | Определяет требуемое состояние электропитания для логического устройства и когда устройство должно быть переведено в это состояние. Не реализовано инструментарием WMI.<br/> |
 
 
@@ -769,7 +769,7 @@ class CIM_BinarySensor : CIM_Sensor
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1128,7 +1128,7 @@ class CIM_BinarySensor : CIM_Sensor
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **CIM \_ бинарисенсор** является производным от [**\_ датчика CIM**](cim-sensor.md).
 
@@ -1136,7 +1136,7 @@ class CIM_BinarySensor : CIM_Sensor
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -1150,7 +1150,7 @@ class CIM_BinarySensor : CIM_Sensor
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

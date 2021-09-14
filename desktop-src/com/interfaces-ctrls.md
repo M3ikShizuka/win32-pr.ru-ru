@@ -5,11 +5,11 @@ ms.assetid: f0d655b3-fa92-4553-ba21-617649a922a0
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: e143ab1793eaf0335bbcf04093707bdc359e868e
-ms.sourcegitcommit: 8fa6614b715bddf14648cce36d2df22e5232801a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "105710429"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965206"
 ---
 # <a name="interfaces-controls-and-property-pages"></a>Интерфейсы (элементы управления и страницы свойств)
 
@@ -19,7 +19,7 @@ ms.locfileid: "105710429"
 
 | Интерфейс                                             | Описание                                                                                                                                                                                                  |
 |-------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**IFont**](/windows/desktop/api/OCIdl/nn-ocidl-ifont)                                | Предоставляет оболочку для объекта шрифта Windows.                                                                                                                                                             |
+| [**IFont**](/windows/desktop/api/OCIdl/nn-ocidl-ifont)                                | предоставляет оболочку вокруг объекта Windows font.                                                                                                                                                             |
 | [**IFontDisp**](/windows/win32/api/ocidl/nn-ocidl-ifontdisp)                        | Предоставляет свойства объекта Font через автоматизацию. Он предоставляет подмножество методов [**IFont**](/windows/desktop/api/OCIdl/nn-ocidl-ifont) .                                                                                           |
 | [**Метод интерфейса IOleControl**](/windows/desktop/api/OCIdl/nn-ocidl-iolecontrol)                    | Предоставляет функции для поддержки назначенных клавиш, внешних свойств и событий в управляющих объектах.                                                                                                  |
 | [**IOleControlSite**](/windows/desktop/api/OCIdl/nn-ocidl-iolecontrolsite)            | Предоставляет методы, позволяющие объекту сайта управлять каждым внедренным элементом управления в контейнере.                                                                                                           |

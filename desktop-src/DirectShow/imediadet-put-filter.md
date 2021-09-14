@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: a118baae251bd4456dfe0097afa091e0084e41ad96d96c9847006b8ce9c58d82
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dd07ee3e2a18dcceae752e3923fd5fbdc88c0313
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118398121"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886845"
 ---
 # <a name="imediadetput_filter-method"></a>Имедиадет: \_ метод фильтрации:p UT
 
@@ -73,7 +73,7 @@ HRESULT put_Filter(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Для большинства приложений проще вызывать метод [**имедиадет::p UT \_ filename**](imediadet-put-filename.md) с именем исходного файла.
 

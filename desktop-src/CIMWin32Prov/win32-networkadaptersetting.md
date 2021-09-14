@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 8f7330e5b6a2b86508528bb1136acd58b308ca4b9c44b31b9b6e0777f4eccd19
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c51ef9ed790c902a6a662dc3ebc45df97fa29721
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119972677"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054809"
 ---
 # <a name="win32_networkadaptersetting-class"></a>\_Класс Win32 нетворкадаптерсеттинг
 
@@ -40,7 +40,7 @@ class Win32_NetworkAdapterSetting : Win32_DeviceSettings
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ нетворкадаптерсеттинг** имеет следующие типы членов:
 
@@ -84,7 +84,7 @@ class Win32_NetworkAdapterSetting : Win32_DeviceSettings
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ нетворкадаптерсеттинг** является производным от [**Win32 \_ девицесеттингс**](win32-devicesettings.md).
 
@@ -120,7 +120,7 @@ Next
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -134,7 +134,7 @@ Next
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

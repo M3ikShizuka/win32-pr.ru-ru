@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 941aceb8c8f91657c7f78aba3d83a627fc413ed20d71217c933c6fba9b6f39e2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f8f235fb054643623510ea23e73001aaeb070be3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120049354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054461"
 ---
 # <a name="em_formatrange-message"></a>\_Сообщение ФОРМАТРАНЖЕ EM
 
@@ -47,13 +47,13 @@ ms.locfileid: "120049354"
 
 Это сообщение возвращает индекс последнего символа, помещающийся в области, плюс 1.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это сообщение обычно используется для форматирования содержимого элемента управления Rich Edit для выходного устройства, такого как принтер.
 
 После использования этого сообщения для форматирования диапазона текста важно освободить кэшированные данные, отправив **EM \_ форматранже** еще раз, но с параметром *lParam* , имеющим значение **null**. в противном случае произойдет утечка памяти. Кроме того, после использования этого сообщения для одного устройства необходимо освободить кэшированные данные, прежде чем повторно использовать их для другого устройства.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -65,7 +65,7 @@ ms.locfileid: "120049354"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -75,7 +75,7 @@ ms.locfileid: "120049354"
 [**EM \_ дисплайбанд**](em-displayband.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Печать элементов управления Rich Edit](printing-rich-edit-controls.md)

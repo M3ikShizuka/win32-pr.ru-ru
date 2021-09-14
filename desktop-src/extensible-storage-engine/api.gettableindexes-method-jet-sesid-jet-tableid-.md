@@ -20,12 +20,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 7110ad8adaa9f6656a415410ea4e273984e5a0eecace21f0c8856316cbb2a14c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8708f285445b13ecb1c9d2cb306ec14c7976905b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118983814"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963409"
 ---
 # <a name="apigettableindexes-method-jet_sesid-jet_tableid"></a>Метод API. Жеттаблеиндексес (JET_SESID, JET_TABLEID)
 
@@ -77,7 +77,7 @@ public static IEnumerable<IndexInfo> GetTableIndexes(
 Тип: [System. Collections. Generic. IEnumerable](/dotnet/api/system.collections.generic.ienumerable-1)\<[IndexInfo](./indexinfo-class.md)\>  
 Итератор по Индексинфо для каждого индекса в таблице.  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

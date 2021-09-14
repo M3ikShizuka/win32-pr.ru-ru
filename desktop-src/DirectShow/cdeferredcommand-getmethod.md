@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 16d6f3ae7a116d59eef60b440a7423f57cf0012375e261a9943714523db9259f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2dcbf42f7216aa72faf578d80ec47b0877be78c8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119910074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053555"
 ---
 # <a name="cdeferredcommandgetmethod-method"></a>Кдеферредкомманд. метод метода
 
@@ -44,7 +44,7 @@ long GetMethod();
 
 Возвращает идентификатор DISPID метода для выполнения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ long GetMethod();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

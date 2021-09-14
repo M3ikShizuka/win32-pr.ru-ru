@@ -15,12 +15,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2baf3f0b5f2bc4f2e4d0bfa5ccddd717c913aa30f5e24b5559eb527c910bcaf7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9788dbd1b5910d655cbaa17055c76a0ae6d0280e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119135417"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126885013"
 ---
 # <a name="iwmpcontrols3-vb-and-c-interface"></a>Интерфейс IWMPControls3 (VB и C#)
 

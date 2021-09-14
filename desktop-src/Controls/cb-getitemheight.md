@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a6e3ad9636c32e40bfa95f1f3b2c209eab42023205e0a967cc91804ec314a103
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c4aac9d8f9a430c056f8b91a9306d77c182f4c96
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120089194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054784"
 ---
 # <a name="cb_getitemheight-message"></a>\_Сообщение GETITEMHEIGHT CB
 
@@ -47,7 +47,7 @@ ms.locfileid: "120089194"
 
 Возвращаемое значение — это высота (в пикселях) элементов списка в поле со списком. Если поле со списком имеет стиль [**CBS \_ овнердраввариабле**](combo-box-styles.md) , это высота элемента, заданного параметром *wParam* . Если параметр *wParam* равен-1, то возвращаемое значение является высотой элемента управления редактирования (или статического текста) в поле со списком. Если возникает ошибка, возвращается значение CB \_ Err.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ ms.locfileid: "120089194"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

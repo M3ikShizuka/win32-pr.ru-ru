@@ -4,12 +4,12 @@ ms.assetid: 2b6304c0-4b67-4723-94a0-7b1fff534f91
 title: как зарегистрировать фильтры DirectShow
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: be4f85924ef23250627a87c15e7a55baaf44f43d5e9330e68f9aece5100986c2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 301f26884115526e25e8875867f7cc2bdc628698
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119965434"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053905"
 ---
 # <a name="how-to-register-directshow-filters"></a>как зарегистрировать фильтры DirectShow
 

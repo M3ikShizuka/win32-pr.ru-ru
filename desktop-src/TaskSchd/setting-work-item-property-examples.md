@@ -6,12 +6,12 @@ keywords:
 - Настройка свойств рабочего элемента планировщик задач
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e6a29ff08c4f9129b8dc9ab749cd6db5807fd0c52449e48b64d5f3b36631fef6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e026ea3d2b3f6677a3d229e9289ab9b201e02b94
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119402544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886512"
 ---
 # <a name="setting-work-item-property-examples"></a>Примеры настройки свойств рабочих элементов
 

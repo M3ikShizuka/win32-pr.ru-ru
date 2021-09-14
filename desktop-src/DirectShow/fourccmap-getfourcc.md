@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 381625f5d0a585f212c8f7b076d1cd58ea5215958bf09025e1db864ce2f624b5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c76493ff172f7a5611367fd50aa3b7957cf5441b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119015722"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053918"
 ---
 # <a name="fourccmapgetfourcc-method"></a>Метод Фаурккмап:: Жетфауркк
 
@@ -44,7 +44,7 @@ DWORD GetFOURCC();
 
 Возвращает значение  **типа DWORD** . Обратите внимание, что при создании **идентификатора GUID** , который изначально не был производным от **FourCC**, возвращаемое значение будет фактически случайным.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ DWORD GetFOURCC();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

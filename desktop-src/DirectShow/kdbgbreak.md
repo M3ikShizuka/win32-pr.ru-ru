@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Wxdebug.h
 ms.openlocfilehash: 9631dc8d956652137810b25ae5923cc1c6927bee
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105685135"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053294"
 ---
 # <a name="kdbgbreak-macro"></a>Макрос Кдбгбреак
 
@@ -60,7 +60,7 @@ void KDbgBreak(
 
 | Требование | Значение |
 |-------------------|----------------------------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Вксдебуг. h (включение Streams. h)</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>вксдебуг. h (включает Потоки. h)</dt> </dl> |
 
 
 

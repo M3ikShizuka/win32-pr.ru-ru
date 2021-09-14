@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: c420419e49f7093e6fdf1fdc66880035f4844d03277db18b5c134d9ee69b10fc
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f0891a9446e09c56e3845c02217d39037aad38bf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119916534"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053603"
 ---
 # <a name="cbasepindisconnectinternal-method"></a>Кбасепин. Дисконнектинтернал, метод
 
@@ -56,11 +56,11 @@ HRESULT DisconnectInternal();
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод [**кбасепин::D метода соединения**](cbasepin-disconnect.md) делегирует процесс отключения этому методу. Этот метод вызывает метод [**кбасепин:: бреакконнект**](cbasepin-breakconnect.md) . Он также освобождает счетчик ссылок на другой ПИН-код, который удерживается переменной члена, [**\_ подключенной к кбасепин:: m**](cbasepin-m-connected.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -71,7 +71,7 @@ HRESULT DisconnectInternal();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

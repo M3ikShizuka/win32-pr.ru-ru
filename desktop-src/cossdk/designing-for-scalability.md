@@ -4,12 +4,12 @@ ms.assetid: 8249f1af-9c96-4545-ad6a-3736c6e63c6d
 title: Проектирование для масштабируемости
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 344e4ce9afcc5f55430550d3ec71c5b56f0f5a4e15b29ef5ea86cea407aeb750
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 54ab0aa9d67afaac14c6d8f59df34183bde36113
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118102287"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966938"
 ---
 # <a name="designing-for-scalability"></a>Проектирование для масштабируемости
 

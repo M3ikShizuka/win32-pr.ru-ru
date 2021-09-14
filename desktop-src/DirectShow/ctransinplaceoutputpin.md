@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 2462843f9ad42793a9e0666dd96aaf7387a1f5f0f1749f97cc4e2ca4d3ed051a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e41fbff07a9bdeb8990bbf3ddba6d9f7455d1bad
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120076162"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053492"
 ---
 # <a name="ctransinplaceoutputpin-class"></a>Класс Ктрансинплацеаутпутпин
 
@@ -49,7 +49,7 @@ ms.locfileid: "120076162"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

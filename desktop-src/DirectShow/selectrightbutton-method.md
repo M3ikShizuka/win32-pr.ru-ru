@@ -4,12 +4,12 @@ ms.assetid: 03e6034a-8db1-4724-9923-f19c4e835db7
 title: Метод Селектригхтбуттон (Segment. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7e04eb19addba14b285955daa6752fda497f657435cf7655e3071de3ee345edc
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 96adb93cb81e59fd43ec4aa4438ae17085ee1b51
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120078894"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886597"
 ---
 # <a name="selectrightbutton-method"></a>Метод Селектригхтбуттон
 
@@ -28,7 +28,7 @@ MSWebDVD.SelectRightButton()
 
 Нет возвращаемого значения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -38,7 +38,7 @@ MSWebDVD.SelectRightButton()
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

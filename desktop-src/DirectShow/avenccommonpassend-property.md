@@ -4,12 +4,12 @@ ms.assetid: 847f638f-9ab9-42ca-8e39-82c113cee92f
 title: Свойство Авенккоммонпассенд (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 02faeb9d78f10b962b7134fd316bda348b0f03e1a82ace210956c2243231df19
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 026b20cf0c13536403e7ccf32b160e8c6fc08141
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119873374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162000"
 ---
 # <a name="avenccommonpassend-property"></a>Авенккоммонпассенд, свойство
 
@@ -25,7 +25,7 @@ ms.locfileid: "119873374"
 
 **КОДЕКАПИ \_ авенккоммонпассенд**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Установка этого свойства в значение **Variant \_ true** завершает текущий проход кодирования. Присвоение этому свойству значения **Variant \_ false** завершает многопроходную кодировку.
 

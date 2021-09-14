@@ -18,12 +18,12 @@ api_type:
 - Schema
 api_location:
 - Root
-ms.openlocfilehash: 50d81fb8cfc5580ad0868df307771c493c0919e1bf2ce4de4b67d48db034a0d2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a8590a2a83cdbc9bd06575cf17ddbe65138a4a31
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118321114"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965302"
 ---
 # <a name="__cimomidentification-class"></a>\_\_Класс Цимомидентификатион
 
@@ -44,7 +44,7 @@ class __CIMOMIdentification : __SystemClass
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ \_ Цимомидентификатион** имеет следующие типы членов:
 
@@ -118,7 +118,7 @@ class __CIMOMIdentification : __SystemClass
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **\_ \_ Цимомидентификатион** является производным от [**\_ \_ системкласс**](--systemclass.md), у которого нет свойств.
 

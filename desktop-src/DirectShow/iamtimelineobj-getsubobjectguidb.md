@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 79cf7c6a0b3f162f3f3baee2a46cfc0c2c2b61271b19e57549c73b4faa0594bb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 903c6638eececd635af2facd964adabe26f0c106
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118155385"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053903"
 ---
 # <a name="iamtimelineobjgetsubobjectguidb-method"></a>Метод Иамтимелинеобж:: Жетсубобжектгуидб
 
@@ -56,7 +56,7 @@ HRESULT GetSubObjectGUIDB(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод выделяет память для строки. Приложение должно вызвать **сисфристринг** для освобождения памяти.
 
@@ -70,7 +70,7 @@ HRESULT GetSubObjectGUIDB(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -81,7 +81,7 @@ HRESULT GetSubObjectGUIDB(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

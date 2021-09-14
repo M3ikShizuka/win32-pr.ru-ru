@@ -4,12 +4,12 @@ ms.assetid: 0c01bd51-353d-4f48-b33c-796f740915e2
 title: Закрепить набор свойств
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d143d980de7f2a634deecb2c3f06509854ac5a50fbe120da279cce3ad97be1e7
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e53955ba1f075094c4fb2f6324ed143ca54f72c2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119316104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053268"
 ---
 # <a name="pin-property-set"></a>Закрепить набор свойств
 

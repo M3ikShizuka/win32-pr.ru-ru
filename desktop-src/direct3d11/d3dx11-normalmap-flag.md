@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: dbea7c787ac2e2aa7d988e052e2ca548a49a338c9b9f981ce73d51c40e0b4edd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 37f5d9669370e6df03d783ae1cb82a5eeb5a9142
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118300653"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053122"
 ---
 # <a name="d3dx11_normalmap_flag-enumeration"></a>\_ \_ Перечисление флагов нормалмап D3DX11
 
@@ -85,7 +85,7 @@ typedef enum D3DX11_NORMALMAP_FLAG {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эти флаги используются [**D3DX11ComputeNormalMap**](d3dx11computenormalmap.md).
 

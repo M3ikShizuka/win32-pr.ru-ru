@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: f69e5ac6d79307ae6479bd5fb3decbb5e653ebde02c5fe3706ac2272f25e61bd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 758f711dfa5aa40d9cdea6332de71be3a7708836
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120055894"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054755"
 ---
 # <a name="cdynamicoutputpinstopusingoutputpin-method"></a>Кдинамикаутпутпин. Стопусингаутпутпин, метод
 
@@ -40,7 +40,7 @@ virtual void StopUsingOutputPin();
 
 Этот метод не возвращает значение.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

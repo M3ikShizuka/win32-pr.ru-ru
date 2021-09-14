@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: bad87d62fddff6c4d76bb05a97fe0b7f97e713e70d0eba3ccfd36bb4aa31e813
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 510acfbde2f562493a454abe80a4f7788377e556
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117833962"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053699"
 ---
 # <a name="win32_systemloadordergroups-class"></a>\_Класс Win32 системлоадордерграупс
 
@@ -40,7 +40,7 @@ class Win32_SystemLoadOrderGroups : CIM_SystemComponent
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ системлоадордерграупс** имеет следующие типы членов:
 
@@ -84,7 +84,7 @@ class Win32_SystemLoadOrderGroups : CIM_SystemComponent
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ системлоадордерграупс** является производным от [**CIM \_ системкомпонент**](cim-systemcomponent.md).
 

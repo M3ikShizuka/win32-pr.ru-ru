@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: dcace4e501a27b1f82b148533f382f5c86bafb17d9bf34343f1e43a8893672c6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1db0a126ebf6ff90d4db7512eb7346d6dbca8b5f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120052404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053872"
 ---
 # <a name="iamtimelinesrcfixmediatimes-method"></a>Метод Иамтимелинесрк:: Фиксмедиатимес
 
@@ -64,7 +64,7 @@ HRESULT FixMediaTimes(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод аналогичен методу [**иамтимелинеобж:: фикстимес**](iamtimelineobj-fixtimes.md) , но сохраняет исходное соотношение времени и времени работы носителя. Простое округление времени до ближайшей границы фрейма может привести к искажению этого соотношения.
 
@@ -78,7 +78,7 @@ HRESULT FixMediaTimes(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -89,7 +89,7 @@ HRESULT FixMediaTimes(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

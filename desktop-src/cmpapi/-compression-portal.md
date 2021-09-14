@@ -4,12 +4,12 @@ ms.assetid: 3ef35cd0-3742-4fc2-9c06-e0485d3538f2
 title: API сжатия
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 61a3f145fbf4871098c7c57adc6541691e1f2e6b349382f8e1dd86ae64410b57
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7e088b37bbe2ba652379a2d90e6e1e21f87a2e68
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118105615"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966961"
 ---
 # <a name="compression-api"></a>API сжатия
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a97cd2d799d05afc638b60adc9203eaad80feb159f985df8b3813403bf5ca0d2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 9cfcfb23215aeffe15bec576075fd4d930790e47
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119877724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054779"
 ---
 # <a name="dtn_closeup-notification-code"></a>\_Код уведомления ДТН крупный план
 
@@ -49,11 +49,11 @@ DTN_CLOSEUP
 
 Возвращаемое значение для этого уведомления не используется.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Элементы управления DTP не поддерживают статический элемент управления Calendar в виде вложенного месяца. Элемент управления DTP уничтожает элемент управления Calendar в дочернем месяце перед отправкой этого кода уведомления. Поэтому приложение не должно полагаться на статический обработчик окна для дочернего месяца элемента управления.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -65,7 +65,7 @@ DTN_CLOSEUP
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

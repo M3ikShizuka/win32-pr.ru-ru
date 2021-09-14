@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 16bd95c675486b17f3071a279a01916e3db557c598830282f4d5b288dbc1f0fa
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 74f5e38392f6b4ac192f02b9d85421c8357a16ee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120026634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964885"
 ---
 # <a name="id3dxanimationcontrollerkeytrackweight-method"></a>Метод ID3DXAnimationController:: Кэйтракквеигхт
 
@@ -95,11 +95,11 @@ D3DXEVENTHANDLE KeyTrackWeight(
 
 Обработчик события с приоритетом события Blend. Если один или несколько входных параметров являются недопустимыми, возвращается **значение NULL** , а событие Free не доступно.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Вес используется в качестве множителя для определения того, какую часть этой дорожки следует объединить с другими дорожками.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -110,7 +110,7 @@ D3DXEVENTHANDLE KeyTrackWeight(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

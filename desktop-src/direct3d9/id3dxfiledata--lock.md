@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: c052f570b3206c5a0661a4cf4ab38b259fb476f4eda1322df80e709608d09bf5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 27ef18fcb12b00f0b778ee15d582610ffe52fe54
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118520711"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966738"
 ---
 # <a name="id3dxfiledatalock-method"></a>Метод ID3DXFileData:: Lock
 
@@ -65,7 +65,7 @@ Type: **[ **size \_ T**](../winprog/windows-data-types.md)\***
 
 Если метод выполнен успешно, возвращается значение S \_ . Если метод завершается с ошибкой, будет возвращено следующее значение: D3DXFERR \_ бадвалуе.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Указатель *ппдата* допустим только во время **ID3DXFileData:: Lock** ... Последовательность [**ID3DXFileData:: Unlock**](id3dxfiledata--unlock.md) . Можно выполнить несколько вызовов блокировок. Однако необходимо убедиться, что количество вызовов блокировок соответствует числу вызовов Unlock.
 

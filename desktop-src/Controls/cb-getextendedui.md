@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 05201b0986b114e97523716edacc6fe391908d3ed2841d36bf7578a6455f42a1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 94d90550bf341fc8586174c7ec57eb77fad08c59
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120089224"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054792"
 ---
 # <a name="cb_getextendedui-message"></a>\_Сообщение ЖЕТЕКСТЕНДЕДУИ CB
 
@@ -47,11 +47,11 @@ ms.locfileid: "120089224"
 
 Если поле со списком содержит расширенный пользовательский интерфейс, возвращаемое значение равно **true**; в противном случае — **false**.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 По умолчанию клавиша F4 открывает или закрывает список, а стрелка вниз изменяет текущее выделение. В поле со списком с расширенным пользовательским интерфейсом клавиша F4 отключена, а нажатие клавиши со стрелкой вниз открывает раскрывающийся список.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -63,7 +63,7 @@ ms.locfileid: "120089224"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -73,7 +73,7 @@ ms.locfileid: "120089224"
 [**\_СЕТЕКСТЕНДЕДУИ CB**](cb-setextendedui.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Возможности поля со списком](combo-box-features.md)

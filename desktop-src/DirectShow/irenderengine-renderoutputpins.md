@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: b81ea650d805c8ed2e42797f4dffdd9851eb3f072cff0abb05f54c4581684bea
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e7356df1bb79aa3b1901ee6d3de22510a6df1a9a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117818566"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886728"
 ---
 # <a name="irenderenginerenderoutputpins-method"></a>Метод Ирендеренгине:: Рендераутпутпинс
 
@@ -61,7 +61,7 @@ HRESULT RenderOutputPins();
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Перед вызовом этого метода вызовите [**ирендеренгине:: коннектфронтенд**](irenderengine-connectfrontend.md) , чтобы создать внешний интерфейс графа. Чтобы выполнить операцию, отличную от предварительной, не вызывайте этот метод. Вместо этого вызовите [**ирендеренгине:: жетграупаутпутпин**](irenderengine-getgroupoutputpin.md) , чтобы получить указатели на выходные данные.
 
@@ -79,7 +79,7 @@ HRESULT RenderOutputPins();
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -90,7 +90,7 @@ HRESULT RenderOutputPins();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

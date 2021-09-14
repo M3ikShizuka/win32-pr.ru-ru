@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: a0350127a26b0c65762e6c927ea38ca944101dcd646026713de231e33e987fb7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f5d6b0a3e83c0b1a5e511aba96df03b828b90c11
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119043842"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888352"
 ---
 # <a name="clamp"></a>фиксаци
 
@@ -51,7 +51,7 @@ ms.locfileid: "119043842"
 
 Значение среза для параметра *x* .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Для значений параметра-INF или INF будет вести себя так, как ожидалось. Однако для значений NaN результаты не определены.
 
@@ -78,14 +78,14 @@ ms.locfileid: "119043842"
 
 | Модель шейдера                                                                       | Поддерживается             |
 |------------------------------------------------------------------------------------|-----------------------|
-| [Модели шейдеров 2 (DirectX HLSL)](dx-graphics-hlsl-sm2.md) и более поздние модели шейдеров | Да                   |
+| [Модели шейдеров 2 (DirectX HLSL)](dx-graphics-hlsl-sm2.md) и более поздние модели шейдеров | yes                   |
 | [Модель шейдера 1 (DirectX HLSL)](dx-graphics-hlsl-sm1.md)                          | VS \_ 1 \_ 1 и PS \_ 1 \_ 4 |
 
 
 
  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

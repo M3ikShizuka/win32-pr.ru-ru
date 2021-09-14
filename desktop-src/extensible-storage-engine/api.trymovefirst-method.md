@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 53b4f126e93986ad0818e2d6e333d70b848a6653343e14ed9fdc010013ffc651
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 624fba29ab6fe653b7af674e32b907ea3934d643
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120066974"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126883768"
 ---
 # <a name="apitrymovefirst-method"></a>API. Тримовефирст, метод
 
@@ -81,7 +81,7 @@ public static bool TryMoveFirst(
 Тип: [System. Boolean](/dotnet/api/system.boolean)  
 Значение true, если перемещение прошло успешно.  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

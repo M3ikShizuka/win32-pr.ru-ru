@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 336732b927c7ee6170e777f2f7c1cd57eac6baa2c7706870e681f602e2309c37
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f7d36869283d863bef7b31187a002125c9cd79bc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120077284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054041"
 ---
 # <a name="lvm_setextendedlistviewstyle-message"></a>\_Сообщение LVM сетекстендедлиствиевстиле
 
@@ -47,7 +47,7 @@ ms.locfileid: "120077284"
 
 Возвращает значение **типа DWORD** , содержащее предыдущие стили элемента управления "список" расширенного представления списка.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Параметр *wParam* позволяет изменять один или несколько расширенных стилей без предварительного получения существующих стилей. Например, если передать [**LVS \_ ex \_ фуллровселект**](extended-list-view-styles.md) для *wParam* и 0 для *lParam*, то стиль **LVS \_ ex \_ фуллровселект** будет сброшен, но все остальные стили останутся прежними.
 
@@ -55,7 +55,7 @@ ms.locfileid: "120077284"
 
 Если это сообщение используется для установки [**\_ \_ флажка LVS ex**](extended-list-view-styles.md) , все ранее установленные индексы изображений состояния будут удалены. Все флажки будут инициализированы с непроверенным состоянием. Индекс изображения состояния содержится в битах 12 – 15 элемента **State** структуры [**лвитем**](/windows/win32/api/commctrl/ns-commctrl-lvitema) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

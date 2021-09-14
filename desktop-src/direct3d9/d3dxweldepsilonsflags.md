@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3dx9mesh.h
-ms.openlocfilehash: c206718cd55a05d67d0a38d90c254238b63e964fa1f26149e75b57e09db359e4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9e67c8b0f0bf93c9da181a5bba9a694525bd9819
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119044492"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963737"
 ---
 # <a name="d3dxweldepsilonsflags-enumeration"></a>Перечисление D3DXWELDEPSILONSFLAGS
 
@@ -71,7 +71,7 @@ enum _D3DXWELDEPSILONSFLAGS {
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -81,7 +81,7 @@ enum _D3DXWELDEPSILONSFLAGS {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

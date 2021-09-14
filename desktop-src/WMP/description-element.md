@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 78c3601abaf2a039b49318772eba1ed6e95d2aed06e2a91c72aabdadc3ffebd8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4318a7936f4713d3ff89a2fa73731eea0cdd97db
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118579604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126885256"
 ---
 # <a name="description-element"></a>Элемент Description
 
@@ -46,7 +46,7 @@ ms.locfileid: "118579604"
 | Иерархия       | Элемент         |
 |-----------------|-----------------|
 | Родительские элементы | **ServiceInfo** |
-| Дочерние элементы  | Нет            |
+| Дочерние элементы  | None            |
 
 
 

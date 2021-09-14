@@ -15,11 +15,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: e498dd16372503b23aa56471224faf4d5d0ff012
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105655642"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054925"
 ---
 # <a name="reboot-method-of-the-cim_operatingsystem-class"></a>Метод rereboot класса системы CIM \_
 

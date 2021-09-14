@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 8004ab6cecfec7ac17a0aee15e3b7869a2d35977901971f8b5dbf3790313c942
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e90562dd4f98a00cf848fb83a9e3051b387241e4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119828024"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053695"
 ---
 # <a name="win32_systemnetworkconnections-class"></a>\_Класс Win32 системнетворкконнектионс
 
@@ -40,7 +40,7 @@ class Win32_SystemNetworkConnections : CIM_SystemComponent
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ системнетворкконнектионс** имеет следующие типы членов:
 
@@ -84,11 +84,11 @@ class Win32_SystemNetworkConnections : CIM_SystemComponent
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ системнетворкконнектионс** является производным от [**CIM \_ системкомпонент**](cim-systemcomponent.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -102,7 +102,7 @@ class Win32_SystemNetworkConnections : CIM_SystemComponent
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

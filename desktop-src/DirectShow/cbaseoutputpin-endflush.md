@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: a85df585a570d7b35a0ac052c922b23dcb605cf4869b3a44cab880f9b6bef21d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 53153c6dbd941390c7ef616ee36c56e01214c341
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119910484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053622"
 ---
 # <a name="cbaseoutputpinendflush-method"></a>Кбасеаутпутпин. Ендфлуш, метод
 
@@ -44,7 +44,7 @@ HRESULT EndFlush();
 
 Возвращает \_ непредвиденное значение E.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод должен вызываться только на входных ПИН-кодах, поэтому реализация **кбасеаутпутпин** возвращает E \_ непредвиденное значение.
 

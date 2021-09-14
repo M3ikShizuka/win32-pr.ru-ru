@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: c33511d1f8a1b7ccf3657f31a0c3b997f7e1044f7425de9683f167d557b1dba9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 1a8ca556c24295e2c4b04ab851610ef35ec9b715
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119827984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053685"
 ---
 # <a name="win32_systemprogramgroups-class"></a>\_Класс Win32 системпрограмграупс
 
@@ -40,7 +40,7 @@ class Win32_SystemProgramGroups : Win32_SystemSetting
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ системпрограмграупс** имеет следующие типы членов:
 
@@ -84,11 +84,11 @@ class Win32_SystemProgramGroups : Win32_SystemSetting
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ системпрограмграупс** является производным от [**Win32 \_ системсеттинг**](win32-systemsetting.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -102,7 +102,7 @@ class Win32_SystemProgramGroups : Win32_SystemSetting
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

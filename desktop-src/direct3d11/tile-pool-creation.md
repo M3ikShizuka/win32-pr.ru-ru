@@ -4,12 +4,12 @@ description: Пул плиток создается через API ID3D11Device 
 ms.assetid: 751A64A6-C9B6-4797-BA1C-B3BEF655DF32
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ec98038f2c58de0feae7fa491c45945e9e2a30d112ee45a6c3116209f126222e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1f3b66a9a548d27382f8cbb4e447516beea6eca8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119124102"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966866"
 ---
 # <a name="tile-pool-creation"></a>Создание пула плиток
 

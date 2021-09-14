@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 9bf30b9d2aaad9f879baf5b0122589150ebff814a73f2f3c85c2ca72c6886308
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c1dc28ddae8d493f1b30234241bfc835e28e5521
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119908474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054640"
 ---
 # <a name="crendererinputpinallocator-method"></a>Крендереринпутпин. распределитель, метод
 
@@ -44,11 +44,11 @@ IMemAllocator* Allocator() const;
 
 Возвращает указатель на интерфейс [**имемаллокатор**](/windows/desktop/api/Strmif/nn-strmif-imemallocator) распределителя или **значение NULL**.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод возвращает переменную члена [**кбасеинпутпин:: m \_ паллокатор**](cbaseinputpin-m-pallocator.md) . Метод не увеличивает значение счетчика ссылок в интерфейсе. Этот метод является исключительно методом доступа.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ IMemAllocator* Allocator() const;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: Bluetooth может выполнять все операции ч�
 ms.assetid: 1445aa04-38ca-47be-9483-d4133edbf3f4
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 15bedb264ae17efe1c84ca7826229edf9e9dccb9880ce670ff81dc019909583c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c5a3a8c1d92b45d4b540899f5594de72cf19896e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118172939"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053826"
 ---
 # <a name="bluetooth-and-read-or-write-operations"></a>Bluetooth и операции чтения или записи
 

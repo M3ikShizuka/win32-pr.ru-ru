@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: 6d94820200cfc4cdc90c0a67562ac84efd57cd5cacb8e2a0ff37fcb91454db33
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 242b3c42976f9bfe4ad8ecad4d965c473839ffdd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118987794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964814"
 ---
 # <a name="id3dxbaseeffectgetmatrixarray-method"></a>Метод ID3DXBaseEffect:: Жетматриксаррай
 
@@ -75,7 +75,7 @@ HRESULT GetMatrixArray(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть D3DERR \_ инвалидкалл.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Матрица нонтранспосед содержит основные данные строки. то есть каждый вектор содержится в строке.
 
