@@ -4,12 +4,12 @@ ms.assetid: 1c1f7ac0-48a1-46d6-a131-fe281f2c86ba
 title: Свойство Авенкмпаемфасистипе (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: aa3da73e2708acde7a5b388d229a3a82c50a2dff04c4f2873551a992fe738189
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e00b424f8b70176a04385b52c6ca278cfc0a5c53
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119824234"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127148414"
 ---
 # <a name="avencmpaemphasistype-property"></a>Авенкмпаемфасистипе, свойство
 
@@ -29,7 +29,7 @@ ms.locfileid: "119824234"
 
 Значение этого свойства является членом перечисления [**еавенкмпаемфасистипе**](/windows/win32/api/codecapi/ne-codecapi-eavencmpaemphasistype) .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство задает биты выделения в заголовке фрейма.
 

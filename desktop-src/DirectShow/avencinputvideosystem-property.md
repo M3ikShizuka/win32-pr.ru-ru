@@ -4,12 +4,12 @@ ms.assetid: a4ad7ca2-bab0-42f7-a098-a5ff6853b109
 title: Свойство АвенЦинпутвидеосистем (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 28970a5f4312503fa6a2c5f1e81d29ef7028ea3e7c214ffe08bb9e6729af4fcc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8012b814a50f7c543b2b72682871fe29545d4b80
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119689794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127148421"
 ---
 # <a name="avencinputvideosystem-property"></a>АвенЦинпутвидеосистем, свойство
 
@@ -29,7 +29,7 @@ ms.locfileid: "119689794"
 
 Значение этого свойства является членом перечисления [**еавенЦинпутвидеосистем**](/windows/desktop/api/codecapi/ne-codecapi-eavencinputvideosystem) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "119689794"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

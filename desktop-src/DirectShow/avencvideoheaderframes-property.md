@@ -4,12 +4,12 @@ ms.assetid: 77b04001-f524-49c0-b2cf-be32ad16564b
 title: Свойство Авенквидеохеадерфрамес (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d20f90c50baed4278bf7c91a5838235e764ccf196dfb2575eac202d33fd88955
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8c49d31a4b399f9f3af7ecb85cba65aa8fe536ba
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119275701"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127148229"
 ---
 # <a name="avencvideoheaderframes-property"></a>Авенквидеохеадерфрамес, свойство
 
@@ -29,7 +29,7 @@ ms.locfileid: "119275701"
 
 Допустимый диапазон этого свойства зависит от частоты кадров.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -37,7 +37,7 @@ ms.locfileid: "119275701"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional приложения \[ UWP для классических приложений \|\]<br/>                     |
 | Минимальная версия сервера<br/> | \[приложения UWP для классических приложений Windows 2000 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
 
 
 

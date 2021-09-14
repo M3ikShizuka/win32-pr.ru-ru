@@ -3,13 +3,13 @@ description: список справочных материалов для Windo
 ms.assetid: 9CA123F9-92F1-4761-9468-266DA422F70E
 title: Указатель API Windows
 ms.topic: article
-ms.date: 05/31/2018
-ms.openlocfilehash: 07e61a3f738905e98ad9cd1db85dbaa1746d7c613b1cc5b628805bcc3ddbea74
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.date: 09/10/2021
+ms.openlocfilehash: 7cc551b70e8d5c5af77b5a5416bd184d5a6c21d9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117737641"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126792601"
 ---
 # <a name="windows-api-index"></a>Указатель API Windows
 
@@ -38,7 +38,7 @@ API Windows пользовательского интерфейса создае
     -   [Диалоговые окна](../dlgbox/dialog-box-reference.md)
     -   [Изменить элементы управления](../controls/bumper-edit-control-edit-control-reference.md)
     -   [Элементы управления "заголовок"](../controls/bumper-header-control-header-control-reference.md)
-    -   [Значки](../menurc/icon-reference.md)
+    -   [Icons](../menurc/icon-reference.md)
     -   [Сочетания клавиш](../menurc/keyboard-accelerator-reference.md)
     -   [Списки](../controls/bumper-list-box-list-box-control-reference.md)
     -   [Элементы управления "представление списка"](../controls/bumper-list-view-list-view-control-reference.md)
@@ -61,7 +61,7 @@ API Windows пользовательского интерфейса создае
 
 -   [Windows Система свойств](../properties/property-system-reference.md)
 -   [Windows Консоль](/previous-versions/windows/desktop/legacy/ff521731(v=vs.85))
--   [Поиск Windows](../search/-search-reference-entry-page.md)
+-   [Windows Search](../search/-search-reference-entry-page.md)
 -   [Консоли](/windows/console/console-reference)
 
 ## <a name="user-input-and-messaging"></a>Ввод пользователя и обмен сообщениями
@@ -115,7 +115,7 @@ API Windows пользовательского интерфейса создае
 -   [API библиотеки обнаружения iSCSI](/previous-versions/windows/desktop/iscsidisc/iscsi-discovery-library-reference)
 -   [Автономные файлы](/previous-versions/windows/desktop/offlinefiles/offline-files-reference)
 -   [Упаковка](/previous-versions/windows/desktop/opc/packaging-programming-reference)
--   [Протокол удаленного разностного сжатия](/previous-versions/windows/desktop/rdc/remote-differential-compression-reference)
+-   [удаленное разностное сжатие;](/previous-versions/windows/desktop/rdc/remote-differential-compression-reference)
 -   [Поддержка транзакций в NTFS](../fileio/transactional-ntfs-reference.md)
 -   [Управление томами](../fileio/volume-management-reference.md)
 -   [Виртуальный жесткий диск (VHD)](/previous-versions/windows/desktop/legacy/dd323700(v=vs.85))
@@ -132,7 +132,7 @@ API [диагностики](/previous-versions//bb648685(v=vs.85)) позвол
 -   [Восстановление приложений и перезагрузка](../recovery/application-recovery-and-restart-reference.md)
 -   [Отладка](../debug/debugging-reference.md)
 -   [Обработка ошибок](../debug/error-handling-reference.md)
--   [Ведение журнала событий](../eventlog/event-logging-reference.md)
+-   [Ведение журналов событий](../eventlog/event-logging-reference.md)
 -   [Трассировка событий](../etw/event-tracing-reference.md)
 -   [Профилирование счетчиков оборудования (HCP)](/previous-versions/windows/desktop/hcp/hcp-reference)
 -   [Инфраструктура диагностики сети (NDF)](../ndf/ndf-reference.md)
@@ -145,7 +145,7 @@ API [диагностики](/previous-versions//bb648685(v=vs.85)) позвол
 -   [Системный монитор](../sysmon/system-monitor-reference.md)
 -   [Ожидание обхода цепочки](../debug/wait-chain-traversal.md)
 -   [Отчеты об ошибках Windows (WER)](../wer/wer-reference.md)
--   [Журнал событий Windows](../wes/windows-event-log-reference.md)
+-   [Windows Журнал событий](../wes/windows-event-log-reference.md)
 -   [Windows Устранение неполадок платформы](/previous-versions/windows/desktop/wintt/windows-troubleshooting-reference)
 
 ## <a name="graphics-and-multimedia"></a>Графика и мультимедиа
@@ -288,7 +288,7 @@ API-интерфейсы [Graphics, мультимедиа,](/previous-versions/
 -   [Microsoft Virtual Server](/previous-versions/windows/desktop/msvs/microsoft-virtual-server-reference)
 -   [Поставщик балансировки сетевой нагрузки](/previous-versions/windows/desktop/wlbsprov/network-load-balancing-provider-reference)
 -   [Защитник Windows WMI v2](/previous-versions/windows/desktop/defender/windows-defender-wmiv2-apis-portal)
--   [Windows Службы развертывания](../wds/windows-deployment-services-portal.md)
+-   [Windows Deployment Services](../wds/windows-deployment-services-portal.md)
 -   [Windows Преимущество подлинности](/previous-versions/windows/desktop/wingen/windows-genuine-advantage-api-functions)
 -   [Windows Инфраструктура управления](/previous-versions/windows/desktop/wmi_v2/wmi-reference)
 -   [Инструментарий управления Windows (WMI)](../wmisdk/wmi-reference.md)

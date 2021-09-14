@@ -4,12 +4,12 @@ ms.assetid: caa17027-8f11-47d3-83da-7ca83b27c978
 title: Свойство Авенкмпвинтравлктабле (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 755928278cfd726cf5d963cb339ddf362b0372087289e32fc352894483467d40
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5391e143f7fe2a57b0a989d77246e46210c72a4c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119276124"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127148342"
 ---
 # <a name="avencmpvintravlctable-property"></a>Авенкмпвинтравлктабле, свойство
 
@@ -29,7 +29,7 @@ ms.locfileid: "119276124"
 
 Значение этого свойства является членом перечисления [**еавенкмпвинтравлктабле**](/windows/desktop/api/codecapi/ne-codecapi-eavencmpvintravlctable) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -37,7 +37,7 @@ ms.locfileid: "119276124"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional приложения \[ UWP для классических приложений \|\]<br/>                     |
 | Минимальная версия сервера<br/> | \[приложения UWP для классических приложений Windows 2000 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
 
 
 
