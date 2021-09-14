@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: cc6609e2b39c8e0e6b2c034d9220d78b3e28194ca1d92a383236411e77802164
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 2cfc7e1492505191a7912f23e5471f5fa72fdcd8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119481314"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171228"
 ---
 # <a name="iscardfileaccesscreate-method"></a>Метод Искардфилеакцесс:: Create
 
@@ -114,7 +114,7 @@ HRESULT Create(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Список всех методов, определенных этим интерфейсом, см. в разделе [**искардфилеакцесс**](iscardfileaccess.md).
 
@@ -129,7 +129,7 @@ HRESULT Create(
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>          |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/> |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                       |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                       |
 
 
 

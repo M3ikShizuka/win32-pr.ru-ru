@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Nmapi.dll
-ms.openlocfilehash: 1b92b81fa00834c3a4038a6a6bb9f295246a7c0b217c99779a5d2c569dbbf982
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9dbfb086ccc27ad2f4c35018c3384a4b81ef0528
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118366815"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171464"
 ---
 # <a name="getcapturecommentfromfilename-function"></a>Функция Жеткаптурекомментфромфиленаме
 
@@ -81,7 +81,7 @@ DWORD  WINAPI GetCaptureCommentFromFilename(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 [*Эксперты*](e.md) и [*средства синтаксического анализа*](p.md) могут вызывать функцию **жеткаптурекомментфромфиленаме** .
 

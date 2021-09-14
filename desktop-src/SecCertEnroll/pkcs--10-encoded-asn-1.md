@@ -4,12 +4,12 @@ ms.assetid: 5001d641-a121-421a-90bf-f2e6e5f88dc8
 title: Формат \# ASN. 1 в кодировке PKCS 10
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 21da0b55a9494bde480f00aea9d2b36f1ea0ecc6aebfa47d7d0268a90024c1cd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3e1699ce6b73fb22a38e74f570f848db70fabf38
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117774697"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171200"
 ---
 # <a name="pkcs-10-encoded-asn1"></a>Формат \# ASN. 1 в кодировке PKCS 10
 

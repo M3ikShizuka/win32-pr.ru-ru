@@ -4,12 +4,12 @@ description: Как правило, маршруты к удаленным се�
 ms.assetid: af2f2039-8131-4ca9-98bf-6aeb7a511034
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a0206190c86c75e4e50ce390cf3f084db956671de6efebe21022151879362ff4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a3faa8931e0fee5c75f598b920b7b97a1e0e829d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120127834"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171307"
 ---
 # <a name="static-and-autostatic-routes"></a>Статические и автостатические маршруты
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7a9790c43141ef836c1dec86304f260b0490854b593b7005b594d2a718332296
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ac88155424c0b1ecf6c91f398e7a9a2d437eff90
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120063324"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170095"
 ---
 # <a name="cb_setminvisible-message"></a>\_Сообщение СЕТМИНВИСИБЛЕ CB
 
@@ -55,7 +55,7 @@ ms.locfileid: "120063324"
 
 Чтобы использовать **CB \_ сетминвисибле**, приложение должно указать comctl32.dll версии 6 в манифесте. Дополнительные сведения см. в разделе [Включение визуальных стилей](cookbook-overview.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -67,11 +67,11 @@ ms.locfileid: "120063324"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**\_ЖЕТМИНВИСИБЛЕ CB**](cb-getminvisible.md)

@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Nmapi.dll
 ms.openlocfilehash: ca2d3dd3fdc91c54c49b12119a56180396df5ec5
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105662191"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171467"
 ---
 # <a name="getcapturecomment-function"></a>Функция Жеткаптурекоммент
 

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 15c628b95f6dab2d671e660c9783e071e1e4385c165363fdf9ad39abd571510e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b393f9a24b9d1ebeb82de86d26483f703d7854c5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118631071"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171655"
 ---
 # <a name="installerfeatureusagedate-property"></a>Свойство Installer. Феатуреусажедате
 
@@ -37,7 +37,7 @@ propVal = Installer.FeatureUsageDate
 
 ## <a name="property-value"></a>Значение свойства
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство задается с помощью методов [**усефеатуре**](installer-usefeature.md), [**провидекомпонент**](installer-providecomponent.md) или [**ПРОВИДЕКУАЛИФИЕДКОМПОНЕНТ**](installer-providequalifiedcomponent.md) или их эквивалентов API для указанного компонента.
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 8ef2ed7b088e54dd82b1cc99422e1488139199ffe034e810de8e0a0bdb242f46
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 9d973e716c598eaceaf7f75e6694a35691df4266
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120095694"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170447"
 ---
 # <a name="id3dxtexturegutterhelpergetguttermap-method"></a>Метод ID3DXTextureGutterHelper:: Жетгуттермап
 
@@ -81,7 +81,7 @@ texture width * texture height * sizeof(BYTE)
 
 Ширина и высота текстуры возвращаются [**ID3DXTextureGutterHelper:: полуширинные**](id3dxtexturegutterhelper--getwidth.md) и [**ID3DXTextureGutterHelper:: Height**](id3dxtexturegutterhelper--getheight.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -92,7 +92,7 @@ texture width * texture height * sizeof(BYTE)
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

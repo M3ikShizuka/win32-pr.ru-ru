@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Capicom.h
-ms.openlocfilehash: 2957bd644fdf405fec7e82a487bf83af2cbae35ae305f10b9b168628a30b0749
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4f3e64df1e706ef20a83f4da5c81cda2a08ed331
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117772479"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171176"
 ---
 # <a name="capicom_encryption_key_length-enumeration"></a>\_ \_ Перечисление длины ключей шифрования CAPICOM \_
 
@@ -39,7 +39,7 @@ ms.locfileid: "117772479"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Тип перечисления " **CAPICOM" \_ \_ \_ длины ключа шифрования** используется свойством [**Algorithm. keylength**](algorithm-keylength.md) .
 
@@ -50,7 +50,7 @@ ms.locfileid: "117772479"
 | Требование | Значение |
 |----------------------------|--------------------------------------------------------------------------------------|
 | Распространяемые компоненты<br/> | CAPICOM 2,0 или более поздней версии на Windows Server 2003 и Windows XP<br/>                |
-| Header<br/>          | <dl> <dt>CAPICOM. h</dt> </dl> |
+| Заголовок<br/>          | <dl> <dt>CAPICOM. h</dt> </dl> |
 
 
 

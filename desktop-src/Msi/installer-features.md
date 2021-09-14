@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: e31dfe2c487a151280a10c4fa7222c005f94c0eeb4ac4f3f5145d67ab600fe9f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4f63ce80249fb8bd24d70f92e72c44420a13d798
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118631476"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171660"
 ---
 # <a name="installerfeatures-property"></a>Свойство Installer. Features
 
@@ -39,7 +39,7 @@ propVal = Installer.Features
 
 Указывает код продукта.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы перечислить функции, приложение выполняет перебор объекта [**стринглист**](stringlist-object.md) , используя для каждой конструкции. Поскольку функции не упорядочены, каждая новая функция имеет произвольный индекс, то есть функция может возвращать функции в любом порядке.
 

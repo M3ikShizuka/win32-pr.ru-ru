@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Netmon.h
-ms.openlocfilehash: 692b9e925442920a67434f74c9e8a8ebd225fc417cbbf419b6eb568aa9eee2df
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7c04c7bc90fdd0f36beb6aed26a6b84c077eff5f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117981417"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171420"
 ---
 # <a name="handoffentry-structure"></a>Структура ХАНДОФФЕНТРИ
 
@@ -40,7 +40,7 @@ typedef struct _SESSIONSTATS {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -72,7 +72,7 @@ typedef struct _SESSIONSTATS {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта структура заполняется сетевой монитор когда сетевой монитор создает таблицу передачи.
 

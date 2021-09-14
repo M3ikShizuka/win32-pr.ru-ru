@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 989abe860848b943e77b02910e9760f8fcaecc97fd8a2634f8147605577613d9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cf6fe61899ea1daac37fd678e9f0e70dfcc3af69
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118631278"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171659"
 ---
 # <a name="installerfeaturestate-property"></a>Свойство Installer. Феатурестате
 
@@ -37,7 +37,7 @@ propVal = Installer.FeatureState
 
 ## <a name="property-value"></a>Значение свойства
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство возвращает одно из следующих значений.
 

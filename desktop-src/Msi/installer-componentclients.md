@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: c94a30247bbfc39675308308457c369785bd9a67413a5b0b62af143e17e2112b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2241babae283f367a15c8f742b51af280ed1a3b1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118632716"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171731"
 ---
 # <a name="installercomponentclients-property"></a>Свойство Installer. Компонентклиентс
 
@@ -39,7 +39,7 @@ propVal = Installer.ComponentClients
 
 Строковый идентификатор GUID, представляющий код компонента компонента. Коды компонентов указываются в столбце ComponentId [таблицы Component](component-table.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Для перечисления клиентов компонентов приложение может выполнить итерацию по объекту [**стринглист**](stringlist-object.md) , используя для каждой конструкции. Так как клиенты не упорядочиваются, все новые компоненты имеют произвольный индекс. Это означает, что функция может возвращать клиентов в любом порядке.
 

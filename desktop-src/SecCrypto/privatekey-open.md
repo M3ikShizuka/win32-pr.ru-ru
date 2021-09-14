@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Capicom.dll
 ms.openlocfilehash: 7e39738a6e28ebbaffbc867f3098270d5043887a
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105665441"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170907"
 ---
 # <a name="privatekeyopen-method"></a>PrivateKey. Open, метод
 
@@ -93,7 +93,7 @@ PrivateKey.Open( _
 | <span id="CAPICOM_PROV_RSA_SIG"></span><span id="capicom_prov_rsa_sig"></span><dl> <dt>**CAPICOM \_ Prov \_ RSA \_ SIG**</dt> </dl>                    | Подмножество CSP RSA, которое поддерживает только те функции и алгоритмы, которые необходимы для [*хэширования*](../secgloss/h-gly.md) и [*цифровых подписей*](../secgloss/d-gly.md).<br/>                                                                                                                                                                              |
 | <span id="CAPICOM_PROV_DSS"></span><span id="capicom_prov_dss"></span><dl> <dt>**CAPICOM \_ Prov \_ DSS**</dt> </dl>                                 | CSP [*стандарта цифровой подписи*](../secgloss/d-gly.md) (DSS). Этот тип поставщика поддерживает только хэши и Цифровые подписи. DSS использует [*алгоритм цифровых подписей*](../secgloss/d-gly.md) (DSA).<br/>                                                                                     |
 | <span id="CAPICOM_PROV_FORTEZZA"></span><span id="capicom_prov_fortezza"></span><dl> <dt>**CAPICOM \_ Prov \_ Fortezza**</dt> </dl>                  | CSP, содержащий криптографические протоколы и алгоритмы, принадлежащие [*национальным институтам стандартов и технологий*](../secgloss/n-gly.md) (NIST).<br/>                                                                                                                                                                          |
-| <span id="CAPICOM_PROV_MS_EXCHANGE"></span><span id="capicom_prov_ms_exchange"></span><dl> <dt>**CAPICOM \_ Prov \_ MS \_ Exchange**</dt> </dl>        | CSP, который поддерживает приложение Microsoft Exchange Mail и другие приложения, совместимые с Microsoft Mail.<br/>                                                                                                                                                                                                                                                                                                                               |
+| <span id="CAPICOM_PROV_MS_EXCHANGE"></span><span id="capicom_prov_ms_exchange"></span><dl> <dt>**CAPICOM \_ Prov \_ MS \_ Exchange**</dt> </dl>        | CSP, который поддерживает приложение microsoft Exchange mail и другие приложения, совместимые с microsoft mail.<br/>                                                                                                                                                                                                                                                                                                                               |
 | <span id="CAPICOM_PROV_SSL"></span><span id="capicom_prov_ssl"></span><dl> <dt>**CAPICOM \_ Prov \_ SSL**</dt> </dl>                                 | CSP, поддерживающий протокол [*SSL*](../secgloss/s-gly.md) (SSL).<br/>                                                                                                                                                                                                                                                                                  |
 | <span id="CAPICOM_PROV_RSA_SCHANNEL"></span><span id="capicom_prov_rsa_schannel"></span><dl> <dt>**CAPICOM \_ Prov \_ RSA \_ SChannel**</dt> </dl>     | CSP, поддерживающий протоколы RSA и [*SChannel*](../secgloss/s-gly.md) .<br/>                                                                                                                                                                                                                                                                                                                                    |
 | <span id="CAPICOM_PROV_DSS_DH"></span><span id="capicom_prov_dss_dh"></span><dl> <dt>**CAPICOM \_ Prov \_ DSS \_ DH**</dt> </dl>                       | CSP, поддерживающий протоколы DSS и [*Диффи-Хелмана*](../secgloss/d-gly.md) .<br/>                                                                                                                                                                                                                                                                                              |

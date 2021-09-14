@@ -1,7 +1,7 @@
 ---
 description: Метод Конфигурепродукт объекта Installer устанавливает или удаляет продукт.
 ms.assetid: 1215a03f-6c96-4416-881f-0071c1b3c5df
-title: Installer.Configметод Урепродукт
+title: Метод Installer. Конфигурепродукт
 ms.topic: reference
 ms.date: 05/31/2018
 topic_type:
@@ -13,14 +13,14 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 7fd64424105bc06364abf2b047ba4d986fdd5540d007109dfb9fdc087250c194
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 989855508215b2cd5d04bff7903628513314b9a5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118632161"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171699"
 ---
-# <a name="installerconfigureproduct-method"></a>Installer.Configметод Урепродукт
+# <a name="installerconfigureproduct-method"></a>Метод Installer. Конфигурепродукт
 
 Метод **конфигурепродукт** объекта [**Installer**](installer-object.md) устанавливает или удаляет продукт.
 
@@ -82,7 +82,7 @@ Installer.ConfigureProduct(
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод **конфигурепродукт** отображает пользовательский интерфейс, используя текущие параметры. Параметры пользовательского интерфейса можно изменить, изменив [**свойство duilevel (объект установщика)**](installer-uilevel.md) перед вызовом метода **конфигурепродукт** .
 

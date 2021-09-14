@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 7fe43028d856ca26b1c5e8fa21a88a3b77381670ccc044a79f10d3b922f38c21
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e9a4d2b956c7d325fabcda7d6950274249120a0e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118630917"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171652"
 ---
 # <a name="installerfileattributes-property"></a>Свойство Installer. FileAttributes
 
@@ -39,7 +39,7 @@ propVal = Installer.FileAttributes
 
 Требуемый путь к файлу или папке. Частичный путь предполагает наличие текущего каталога.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Свойство **FileAttributes** возвращает следующие значения.
 
@@ -68,7 +68,7 @@ propVal = Installer.FileAttributes
 | Требование | Значение |
 |--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Версия<br/> | Windows установщик 5,0 на Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Windows установщик 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Windows установщик на Windows Server 2003 или Windows XP<br/> |
-| Header<br/>  | <dl> <dt>Windows. storage. h</dt> </dl>                                                                                                                                                            |
+| Заголовок<br/>  | <dl> <dt>Windows. storage. h</dt> </dl>                                                                                                                                                            |
 | DLL<br/>     | <dl> <dt>Msi.dll</dt> </dl>                                                                                                                                                                      |
 | IID<br/>     | IID \_ иинсталлер определен как 000C1090-0000-0000-C000-000000000046<br/>                                                                                                                                                                           |
 

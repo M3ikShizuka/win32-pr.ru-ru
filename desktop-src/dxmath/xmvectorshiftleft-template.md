@@ -4,12 +4,12 @@ ms.assetid: m:microsoft.directx_sdk.template.xmvectorshiftleft(xmvector,xmvector
 title: Шаблон Ксмвекторшифтлефт (Директксмас. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1ab92e2fb64a101251a7531ca1d96b8b06f3e9af6e2b7dabe7958673a61bd8c2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 115604871d9e8402157a82bf3c420e5762b3a424
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118499283"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170403"
 ---
 # <a name="xmvectorshiftleft-template"></a>Шаблон Ксмвекторшифтлефт
 
@@ -61,7 +61,7 @@ template<uint32_t Elements> XMVECTOR XMVectorShiftLeft(
 
 Microsoft Visual Studio 2010 или Microsoft Visual Studio 2012 с Windows SDK для Windows 8. поддерживается для классических приложений Win32, приложений для магазина Windows и Windows Phone 8 приложений.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -71,7 +71,7 @@ Microsoft Visual Studio 2010 или Microsoft Visual Studio 2012 с Windows SDK 
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

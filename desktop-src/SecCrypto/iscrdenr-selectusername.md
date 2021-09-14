@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Scrdenrl.dll
-ms.openlocfilehash: b6414b78c07f9dff8761456f92b1088c5ed7eb6c23e7c7ed0eb2cd3980677dca
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 13059775abc8520c39a0ad3dea2d604fc8d65455
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119409424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170976"
 ---
 # <a name="iscrdenrselectusername-method"></a>Метод Искрденр:: Селектусернаме
 
@@ -67,13 +67,13 @@ SCrdEnr.selectUserName( _
 
 Если метод завершается с ошибкой, возвращается значение **HRESULT** , указывающее на ошибку. Список распространенных кодов ошибок см. в разделе [Общие значения HRESULT](common-hresult-values.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Используйте этот метод, чтобы выбрать имя пользователя. После выбора имени пользователя его значение можно получить, вызвав метод [**искрденр::-username**](iscrdenr-getusername.md) .
 
 Альтернативой использованию интерфейса "Выбор пользователя" является указание пользователя путем вызова метода [**искрденр:: сетусернаме**](iscrdenr-setusername.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

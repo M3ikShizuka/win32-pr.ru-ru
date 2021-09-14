@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Capicom.dll
 ms.openlocfilehash: dc5778e631abba9eb8cf122ddb99a4692c988f4b
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105665293"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170943"
 ---
 # <a name="privatekeydelete-method"></a>PrivateKey. Delete, метод
 

@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: faabacdcfb581f9b4fc7e9d9a42464dd61e152ca533865acfb7231a711f02317
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8b1e08184da71fe857cb412ef986c986a0c59baa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118747658"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170211"
 ---
 # <a name="mpreserved_data-structure"></a>\_Структура данных мпресервед
 
@@ -38,7 +38,7 @@ typedef struct tagMPRESERVED_DATA {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -72,7 +72,7 @@ typedef struct tagMPRESERVED_DATA {
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                            |
 | Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Мпклиент. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мпклиент. h</dt> </dl> |
 
 
 

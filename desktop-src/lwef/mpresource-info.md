@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c399beceba4551ba3269e86f5f3c30c6967f31b4dbc5f303225e8cbfc1667df4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dcac6552e0a0060df1bd6a0464fbb8f610395131
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118747427"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170207"
 ---
 # <a name="mpresource_info-structure"></a>\_Структура сведений о мпресаурце
 
@@ -39,7 +39,7 @@ typedef struct tagMPRESOURCE_INFO {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -98,7 +98,7 @@ typedef struct tagMPRESOURCE_INFO {
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                            |
 | Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Мпклиент. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мпклиент. h</dt> </dl> |
 
 
 

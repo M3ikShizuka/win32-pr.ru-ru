@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 8f24237da6c140ef0d38ff17591bf214698cfa6731bd4e8d3cfcaa613b335404
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3983eceecd8bc709bea4a094c61c9886c73def3a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118631690"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171671"
 ---
 # <a name="installerenvironment-property"></a>Свойство установщика. Environment
 
@@ -40,7 +40,7 @@ Installer.Environment = propVal
 
 Имя переменной среды, которая должна быть прочитана или записана. Это не учитывает регистр.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Установка переменной среды со свойством **Environment** влияет только на активный сеанс. Чтобы внести постоянные изменения в переменную среды, используйте [таблицу среда](environment-table.md).
 

@@ -4,12 +4,12 @@ ms.assetid: d0105363-1895-4e10-8a33-648a6fc4c20a
 title: Метрики системы с несколькими мониторами
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3143562116561bb220bc6f0b5ecfa4ad8f5103c3e4532cab639c4c2b37f59467
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 149f4da5c687df28817105e1ec3876ffd1ab5649
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119037712"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170300"
 ---
 # <a name="multiple-monitor-system-metrics"></a>Метрики системы с несколькими мониторами
 

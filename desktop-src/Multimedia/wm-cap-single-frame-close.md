@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: e35523476dde1c74c4a20447d7c46d5eafc5e529
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124371538"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171508"
 ---
 # <a name="wm_cap_single_frame_close-message"></a>\_Сообщение о \_ \_ \_ закрытии одиночного кадра WM Cap
 
@@ -38,7 +38,7 @@ lParam = 0L;
 
 Возвращает **значение true** в случае успеха или **false** в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Дополнительные сведения об установке функций обратного вызова см. в разделе [**\_ \_ \_ \_ ошибка обратного вызова Set крепления WM**](wm-cap-set-callback-error.md) , а также сообщения [**\_ \_ \_ \_ кадра обратного вызова Set крепления WM**](wm-cap-set-callback-frame.md) .
 
@@ -54,7 +54,7 @@ lParam = 0L;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

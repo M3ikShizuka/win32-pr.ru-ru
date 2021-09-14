@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d47f303db19438f1e7e2cd77df60ddace76bec791bb1789bed47e3f09d8a197c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 10cc76602662cefba42f62bd3ed85913ade40f15
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118759367"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170252"
 ---
 # <a name="wm_dpichanged_afterparent-message"></a>\_Сообщение WM DPICHANGED \_ афтерпарент
 
@@ -68,7 +68,7 @@ ms.locfileid: "118759367"
 |-------------------------------------|--------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 10, только для \[ настольных приложений версии 1703\]<br/>                            |
 | Минимальная версия сервера<br/> | Windows Server 2016 \[ только классические приложения\]<br/>                                 |
-| Header<br/>                   | <dl> <dt>Winuser. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h</dt> </dl> |
 
 
 

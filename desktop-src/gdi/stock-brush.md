@@ -4,12 +4,12 @@ ms.assetid: ddbc6d54-47f6-4810-9d3a-feede80f2bed
 title: Стандартная кисть
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b50bcd3b6bbd09e1e547d118161f8054fa6df3c6897a57f7928e053e82108d25
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 522337752c2d81a92302d4a6a8f025393db1ce15
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117698173"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170296"
 ---
 # <a name="stock-brush"></a>Стандартная кисть
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 32916e7d673e427ec3f753ee5e7ce0ea282efa3c0274de592c1e13835239f0fa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: da9add6b52ae79632f6fa4bb67e9a2d524d1dace
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118987593"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170452"
 ---
 # <a name="id3dxcompressedanimationsetgetnumcallbackkeys-method"></a>Метод ID3DXCompressedAnimationSet:: Жетнумкаллбакккэйс
 

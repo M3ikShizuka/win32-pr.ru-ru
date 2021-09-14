@@ -1,7 +1,7 @@
 ---
 description: Метод Конфигурефеатуре объекта Installer настраивает установленное состояние компонента продукта.
 ms.assetid: cc950951-3b43-4d86-9ff1-80aa2ccd11d5
-title: Installer.Configметод Урефеатуре
+title: Метод Installer. Конфигурефеатуре
 ms.topic: reference
 ms.date: 05/31/2018
 topic_type:
@@ -13,14 +13,14 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 522dfffcbafd546dce218956729f01133708833a4a4c2732af3ea0248f87bc71
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 737019f5c404beabef404751e617be975b946c04
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118632350"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171700"
 ---
-# <a name="installerconfigurefeature-method"></a>Installer.Configметод Урефеатуре
+# <a name="installerconfigurefeature-method"></a>Метод Installer. Конфигурефеатуре
 
 Метод **конфигурефеатуре** объекта [**Installer**](installer-object.md) настраивает установленное состояние компонента продукта.
 

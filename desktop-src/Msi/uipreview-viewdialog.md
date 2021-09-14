@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 40797da833576c0a829234d6036cb1d583464dea96dbe4e625dcd63c1c1bd4c9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d9ad3772ced2dba952a3d3b068aaa307d1c06398
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119893404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171624"
 ---
 # <a name="uipreviewviewdialog-method"></a>Уипревиев. Виевдиалог, метод
 
@@ -39,7 +39,7 @@ UIPreview.ViewDialog(
 
 <dl> <dt>
 
-*Откроется* 
+*диалог* 
 </dt> <dd>
 
 Обязательное имя диалогового окна, с учетом регистра и первичный ключ таблицы базы данных диалоговых окон.
@@ -50,7 +50,7 @@ UIPreview.ViewDialog(
 
 Этот метод не возвращает значение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

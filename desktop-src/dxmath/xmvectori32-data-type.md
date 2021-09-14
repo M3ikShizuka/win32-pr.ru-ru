@@ -4,12 +4,12 @@ ms.assetid: 6564030e-b6e9-0c4f-4e2a-4132e4264c94
 title: Тип данных XMVECTORI32 (Директксмас. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7b4bb03dffb4c77575aab8c2a2680ecd821fea627f49325c6748ede607ef81f3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7ac36caf97a62037223840e9220876f1c7a1f09a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119739763"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170419"
 ---
 # <a name="xmvectori32-data-type"></a>Тип данных XMVECTORI32
 
@@ -30,7 +30,7 @@ typedef XMVECTORI32 vectori32;
 
 Это необходимо для поддержки [**ксмвектор**](xmvector-data-type.md), так как сам по себе не поддерживает инициализаторы в целях обеспечения переносимости и оптимизации.
 
-Например:
+Пример:
 
 
 ```

@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 54a2129021f31694d9e601ecd97503e2a5f5c925
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124371502"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171524"
 ---
 # <a name="wm_cap_set_sequence_setup-message"></a>\_ \_ \_ Сообщение настройки установки последовательностей WM Cap \_
 
@@ -56,7 +56,7 @@ lParam = (LPARAM) (LPVOID) (LPCAPTUREPARMS) (psCapParms);
 
 Возвращает **значение true** в случае успеха или **false** в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сведения о параметрах, используемых для управления потоковой передачей, см. в разделе Структура [**каптурепармс**](/windows/win32/api/vfw/ns-vfw-captureparms) .
 
@@ -72,7 +72,7 @@ lParam = (LPARAM) (LPVOID) (LPCAPTUREPARMS) (psCapParms);
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

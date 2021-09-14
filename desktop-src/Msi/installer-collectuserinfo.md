@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 255f9c5bfbd9f7ed476314e8ac1c9ed58568c083b8f6ea7704bbe5cfef15b769
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d7286fdbc9fab6b3db6752284bf86db05f920bd7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118632921"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171736"
 ---
 # <a name="installercollectuserinfo-method"></a>Метод Installer. Коллектусеринфо
 
@@ -50,7 +50,7 @@ Installer.CollectUserInfo(
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Приложение должно вызывать метод **коллектусеринфо** при первом запуске. Метод **коллектусеринфо** открывает пакет установки продукта и вызывает последовательность мастера созданного пользовательского интерфейса, который собирает сведения о пользователе. После завершения последовательности мастера регистрируется собранная информация о пользователе. Свойству [**duilevel**](installer-uilevel.md) должно быть присвоено значение мсиуилевелфулл, так как этот API требует созданного пользовательского интерфейса.
 

@@ -4,12 +4,12 @@ ms.assetid: 15d4a05d-5888-4532-91fd-6cd94afe0b99
 title: Пример программы на языке C. Создание и хэширование ключа сеанса
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e3264e8b7d78506f2aed663d14a4bd8278059152ce085f460ddbbc8e75325d91
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dbfb1dae0f331a80a2b2c473f0446cf2a1623dda
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119007860"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171139"
 ---
 # <a name="example-c-program-creating-and-hashing-a-session-key"></a>Пример программы на языке C. Создание и хэширование ключа сеанса
 

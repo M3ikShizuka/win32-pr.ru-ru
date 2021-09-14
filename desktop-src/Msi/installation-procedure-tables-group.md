@@ -4,12 +4,12 @@ ms.assetid: dff7cf4a-89a2-47b0-9038-93b79c0d915a
 title: Группа таблиц процедур установки
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 98c66cc377fdf36969699f0e150fc30a02363ed24aa1848c4492917bffda7bc9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fbb3c5eb0306941d3cdd02bf7f994270ca0d6490
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118633589"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171771"
 ---
 # <a name="installation-procedure-tables-group"></a>Группа таблиц процедур установки
 

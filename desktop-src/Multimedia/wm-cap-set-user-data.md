@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 542b8e49f740bfc265824947237841dede1f6065
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124371451"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171512"
 ---
 # <a name="wm_cap_set_user_data-message"></a>\_Сообщение о \_ задании \_ \_ данных пользователя с закреплениями WM
 
@@ -49,7 +49,7 @@ lParam = (LPARAM)lUser;
 
 Возвращает **значение true** в случае успеха или **false** , если потоковая запись выполняется.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Обычно это сообщение используется для указания на блок данных, связанных с окном записи.
 
@@ -65,7 +65,7 @@ lParam = (LPARAM)lUser;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

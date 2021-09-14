@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 7a3792b279df9ac43fc09eaa02005cdaf3373e341bf2df40ce0a350d6c31bd47
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8f8e0f92079e1eb5d2690b61acafdefb2f777b2a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118633293"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171752"
 ---
 # <a name="installeradvertiseproduct-method"></a>Метод Installer:: Адвертисепродукт
 
@@ -104,7 +104,7 @@ ms.locfileid: "118633293"
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод **адвертисепродукт** использует функцию [**мсиадвертисепродуктекс**](/windows/desktop/api/Msi/nf-msi-msiadvertiseproductexa) .
 

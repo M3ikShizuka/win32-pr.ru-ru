@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 314372c0ce87ef5b75db24e4482d6b621422546abe0c71a34cc9821cb4391997
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 84fa7d130fcc300fc1ebe33d091253e33f2d1e03
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118614920"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171388"
 ---
 # <a name="glpolygonoffset-function"></a>Функция Глполигоноффсет
 
@@ -71,7 +71,7 @@ void WINAPI glPolygonOffset(
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если \_ включено смещение многоугольников GL \_ , то значение глубины каждого фрагмента будет смещено после интерполяции из значений глубины соответствующих вершин. Значение смещения равно *множителю* \* ? z + r \* , где? z — это измерение изменения глубины относительно области экрана многоугольника, а r — наименьшее значение, которое гарантированно создает разрешаемое смещение для данной реализации. Смещение добавляется перед выполнением теста глубины и перед записью значения в буфер глубины.
 

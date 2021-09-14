@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6ece20324fc06fb68a813b374a698b2e27264068c9051bb2a5fff328c7ad328d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 89f0c7e867918b6567279be7c41ce72e7e396576
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118476342"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170227"
 ---
 # <a name="mpclean_data-structure"></a>\_Структура данных мпклеан
 
@@ -40,7 +40,7 @@ typedef struct tagMPCLEAN_DATA {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -96,7 +96,7 @@ typedef struct tagMPCLEAN_DATA {
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                            |
 | Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Мпклиент. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мпклиент. h</dt> </dl> |
 
 
 

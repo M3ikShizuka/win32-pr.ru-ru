@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: 3d14f104fd40a10c4d17e3751b59245299e7c8f5b63508d6e73ef1140ec7e906
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 147456bd705eea3073f2e65cb375494187ca2473
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119008062"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171240"
 ---
 # <a name="iscardfileaccesschangedir-method"></a>Метод Искардфилеакцесс:: Чанжедир
 
@@ -83,7 +83,7 @@ HRESULT ChangeDir(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы получить абсолютный путь к текущему выбранному каталогу, вызовите [**жеткуррентдир**](iscardfileaccess-getcurrentdir.md).
 
@@ -91,7 +91,7 @@ HRESULT ChangeDir(
 
 Кроме приведенных выше кодов ошибок COM, этот интерфейс может возвращать код ошибки смарт-карты, если для завершения запроса была вызвана функция смарт-карты. Дополнительные сведения см. в статье [возвращаемые значения смарт-карты](authentication-return-values.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -100,11 +100,11 @@ HRESULT ChangeDir(
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>          |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/> |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                       |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                       |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

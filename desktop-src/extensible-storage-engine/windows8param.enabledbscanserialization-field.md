@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 3865bc2345278a3e5007289c5321508e85432f4481fb1a1d731197786c350d64
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2c92b0ab920354ea272e95d4aaf5bf68cf98be3b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119470734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170316"
 ---
 # <a name="windows8paramenabledbscanserialization-field"></a>Windows8Param. Енабледбскансериализатион, поле
 

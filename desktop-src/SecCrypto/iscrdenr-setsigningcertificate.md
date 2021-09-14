@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Scrdenrl.dll
-ms.openlocfilehash: 8b93e2b76e46ed75abcd6460f351dfc2780826c2ff5e7dc8d07e8d48ae617e4a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: dd00ba19872cb0ba2b21981c79e8f7be03aa4937
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119425734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170948"
 ---
 # <a name="iscrdenrsetsigningcertificate-method"></a>Метод Искрденр:: Сетсигнингцертификате
 
@@ -76,7 +76,7 @@ SCrdEnr.setSigningCertificate( _
 
 Если метод завершается с ошибкой, возвращается значение **HRESULT** , указывающее на ошибку. Список распространенных кодов ошибок см. в разделе [Общие значения HRESULT](common-hresult-values.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Перед регистрацией от имени пользователя сначала необходимо получить сертификат подписи. Сертификат для подписи можно получить с помощью оснастки MMC диспетчера сертификатов. Метод **сетсигнингцертификате** не получает сертификат для подписи, но информирует Управление регистрацией смарт-карты, которое ранее получило сертификат подписи для использования. Метод **сетсигнингцертификате** выполняет поиск последнего сертификата подписи в хранилище "My" вызывающего объекта, соответствующего шаблону сертификата, заданному параметром *бстрцерттемплатенаме*.
 
@@ -84,7 +84,7 @@ SCrdEnr.setSigningCertificate( _
 
 После установки сертификата для подписи его имя можно получить, вызвав [**искрденр:: жетсигнингцертификатенаме**](iscrdenr-getsigningcertificatename.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

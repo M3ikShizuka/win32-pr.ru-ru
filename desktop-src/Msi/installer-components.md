@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: b8538e594ed02a1bc355ed4cf57db1befb1443e58d7afe2038b16e08eb9e4659
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e6767be5182b15836c071bf8b00ed8441f6031dc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118632412"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171704"
 ---
 # <a name="installercomponents-property"></a>Свойство Installer. Components
 
@@ -37,7 +37,7 @@ propVal = Installer.Components
 
 ## <a name="property-value"></a>Значение свойства
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы перечислить компоненты, приложение может выполнить итерацию по объекту [**стринглист**](stringlist-object.md) , используя для каждой конструкции. Поскольку компоненты не упорядочены, все новые компоненты имеют произвольный индекс. Это означает, что функция может возвращать компоненты в любом порядке.
 

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: da9c6132b79706cca2135ffcea1bff09040e15a90af5b8b3b1b7175a41229dc7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8095e35a7e424a50448f1f0d948b9224bcdaa423
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118631915"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171695"
 ---
 # <a name="installercreaterecord-method"></a>Метод Installer. СоздатьЗапись
 
@@ -50,7 +50,7 @@ Installer.CreateRecord(
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Поле 0, а не одно из полей в *подсчете*, обычно используется для элементов, ориентированных на запись, таких как строки формата или Op-коды выполнения.
 

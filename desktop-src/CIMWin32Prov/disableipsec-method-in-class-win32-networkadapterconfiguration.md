@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 61fc210f02891755c04d170a4b329b1aa9e27c343bf2e2b6e973016ee84c530b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9b2a17bbfa0f10c08edb581b4a4bf51173facfea
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119020502"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170164"
 ---
 # <a name="disableipsec-method-of-the-win32_networkadapterconfiguration-class"></a>Метод Дисаблеипсек \_ класса Win32 NetworkAdapterConfiguration
 
@@ -312,7 +312,7 @@ IPX не включен на адаптере.
 
 91
 
-Доступ запрещен.
+Access denied. (Недопустимое значение {значение_утверждения} для утверждения {имя_утверждения}. Доступ запрещен.)
 
 </dd> <dt>
 
@@ -418,7 +418,7 @@ Next
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -432,7 +432,7 @@ Next
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

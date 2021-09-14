@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 8f0f8444909d07655949cd35d060eb455e5a153fc2b897e757c2fdde2d1d731d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fbacb6b6fd5dc4d31d7c727d719e1253969c0d43
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118631203"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171656"
 ---
 # <a name="installerfeatureusagecount-property"></a>Свойство Installer. Феатуреусажекаунт
 
@@ -37,7 +37,7 @@ propVal = Installer.FeatureUsageCount
 
 ## <a name="property-value"></a>Значение свойства
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Использование методов [**усефеатуре**](installer-usefeature.md), [**провидекомпонент**](installer-providecomponent.md) или [**ПРОВИДЕКУАЛИФИЕДКОМПОНЕНТ**](installer-providequalifiedcomponent.md) или их эквивалентов API для указанного компонента увеличивает это свойство.
 

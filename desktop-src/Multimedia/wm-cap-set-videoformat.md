@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 3ba6154ec1532bd83f482eb81a0e286795aa3341
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124371385"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171511"
 ---
 # <a name="wm_cap_set_videoformat-message"></a>\_ \_ Сообщение видеоформат установки крепления WM \_
 
@@ -56,7 +56,7 @@ lParam = (LPARAM) (LPVOID) (psVideoFormat);
 
 Возвращает **значение true** в случае успеха или **false** в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Так как форматы видео специфичны для конкретного устройства, приложения должны проверить возвращаемое значение этой функции, чтобы определить, принимается ли формат драйвером.
 
@@ -72,7 +72,7 @@ lParam = (LPARAM) (LPVOID) (psVideoFormat);
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 06492b94-9717-40e0-be96-f97f42ac34af
 title: ХКРИПТОИДФУНКАДДР (Винкрипт. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2fb36bdd98332842d89533c9c34a880aecdc8555cd64bb03888c0bd146cea3f8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c4f083d87234e598e8464491f2968868fa2b3c8a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119006552"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171019"
 ---
 # <a name="hcryptoidfuncaddr"></a>хкриптоидфункаддр
 

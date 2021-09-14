@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: b137419394f422dba08a4580d8e126361d97a78b747551e0305bb0a248312177
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: de94754004cc42bcc6914d9513588a71a1a593dd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118988684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170463"
 ---
 # <a name="d3dxcompileshaderfromresource-function"></a>Функция D3DXCompileShaderFromResource
 
@@ -150,7 +150,7 @@ HRESULT D3DXCompileShaderFromResource(
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, D3DXERR \_ INVALIDDATA, E \_ OUTOFMEMORY.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -161,7 +161,7 @@ HRESULT D3DXCompileShaderFromResource(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

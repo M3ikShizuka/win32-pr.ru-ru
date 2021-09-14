@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 08/23/2019
-ms.openlocfilehash: 55b26ae92889261e7a5fea3e57281d6407fc39fb03aad0124d00aa135f9ed438
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 521faefb2e2a76e94a0517c28a5fa812ef34ef5c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118757115"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170243"
 ---
 # <a name="wm_xbuttonup-message"></a>\_Сообщение КСБУТТОНУП WM
 
@@ -134,7 +134,7 @@ yPos = GET_Y_LPARAM(lParam);
 
 <dl> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**ПОЛУЧЕНИЕ \_ кэйстате \_ wParam**](/windows/win32/api/winuser/nf-winuser-get_keystate_wparam)
@@ -161,7 +161,7 @@ yPos = GET_Y_LPARAM(lParam);
 [**WM \_ ксбуттондовн**](wm-xbuttondown.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с помощью мыши](mouse-input.md)

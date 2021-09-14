@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: e7fda91354ef1f381bb9e695c82931648f400708744afbc218c6a99238376d86
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2a42e3f932b8294d9671b7901437151d9fbbe5a8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117978180"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170932"
 ---
 # <a name="privatekeyismachinekeyset-method"></a>PrivateKey. Исмачинекэйсет, метод
 
@@ -43,7 +43,7 @@ PrivateKey.IsMachineKeyset()
 
 Если значение — true, закрытый ключ принадлежит набору ключей компьютера.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращаемое значение этого метода зависит от используемого [*поставщика служб шифрования*](../secgloss/c-gly.md) (CSP). Этот метод возвращает надежное значение, если используется Microsoft CSP. Если CSP не является CSP Майкрософт, возвращаемое значение не может быть точным.
 
@@ -58,7 +58,7 @@ PrivateKey.IsMachineKeyset()
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

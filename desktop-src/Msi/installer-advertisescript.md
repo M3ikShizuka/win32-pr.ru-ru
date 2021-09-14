@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: f6a3ca8b4c07b4bd19b9f5d5066ed17dcc5aa7edb5828741e32ee05197a83777
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7e4ec5afae8d870511c6f91502f8b5844ce135bd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118633221"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171744"
 ---
 # <a name="installeradvertisescript-method"></a>Метод Installer:: Адвертисескрипт
 
@@ -84,7 +84,7 @@ ms.locfileid: "118633221"
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод **адвертисескрипт** использует функцию [**мсиадвертисескрипт**](/windows/desktop/api/Msi/nf-msi-msiadvertisescripta) . Использование метода **адвертисескрипт** требует, чтобы сценарий выполнялся в локальном системном процессе.
 

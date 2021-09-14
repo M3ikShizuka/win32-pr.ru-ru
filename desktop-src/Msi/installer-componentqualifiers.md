@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: ff11302b87c144d59129b7041ab75129477e7925b3dd98ce7c740f0c4eda62e1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0e6f58850974eaa2021578f0d56015ea0ef6d9e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118632608"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171712"
 ---
 # <a name="installercomponentqualifiers-property"></a>Свойство Installer. Компоненткуалифиерс
 
@@ -39,7 +39,7 @@ propVal = Installer.ComponentQualifiers
 
 Строковый идентификатор GUID, представляющий категорию [компонента](publishcomponent-table.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы перечислить квалификаторы, приложение выполняет итерацию объекта [**стринглист**](stringlist-object.md) , используя для каждой конструкции. Поскольку квалификаторы не упорядочены, каждый новый квалификатор имеет произвольный индекс, то есть функция может возвращать квалификаторы в любом порядке.
 

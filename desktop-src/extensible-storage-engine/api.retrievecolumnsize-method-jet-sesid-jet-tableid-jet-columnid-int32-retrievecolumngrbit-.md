@@ -20,12 +20,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 53265560bab9d348d9631b8163aeb651b63026ed3797de7d32a91d7c462c4b8f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: afd09ecca0362487d6c8e78f8e7c8d943f2f3269
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117717993"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170372"
 ---
 # <a name="apiretrievecolumnsize-method-jet_sesid-jet_tableid-jet_columnid-int32-retrievecolumngrbit"></a>Метод API. Ретриевеколумнсизе (JET_SESID, JET_TABLEID, JET_COLUMNID, Int32, Ретриевеколумнгрбит)
 

@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: a6f5b51d21dfea0a3bc29ed1bd47a5026618f3b373bdc70e8a99c3aa16ae7424
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a9c6b1a506310460d9131709092b739f68986e02
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119643083"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170172"
 ---
 # <a name="disable-method-of-the-win32_networkadapter-class"></a>Метод Disable \_ класса Win32 сетевого адаптера
 
@@ -42,7 +42,7 @@ uint32 Disable();
 
 Возвращает ноль (0), чтобы указать на успешное выполнение. Любое другое значение указывает на ошибку. Коды ошибок см. в разделе [**константы WMI Error**](/windows/desktop/WmiSdk/wmi-error-constants) или [**вбемерроренум**](/windows/desktop/api/wbemdisp/ne-wbemdisp-wbemerrorenum).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -56,7 +56,7 @@ uint32 Disable();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

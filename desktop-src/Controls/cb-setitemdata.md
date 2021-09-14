@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7abd50db9050178bc5d8d3b8ff556bce90f340fdb8d6692a514b0348aceeeab3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: bbb1603f9906ebf30a391b57bd812dc2002136c4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120089014"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170116"
 ---
 # <a name="cb_setitemdata-message"></a>\_Сообщение СЕТИТЕМДАТА CB
 
@@ -51,7 +51,7 @@ ms.locfileid: "120089014"
 
 Если указанный элемент находится в поле со списком, рисуемом владельцем, созданным без стиля [**\_ хасстрингс CBS**](combo-box-styles.md) , это сообщение заменяет значение параметра *lParam* сообщения [**CB \_ ADDSTRING**](cb-addstring.md) или [**CB \_ инсертстринг**](cb-insertstring.md) , которое добавляет элемент в поле со списком.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -63,7 +63,7 @@ ms.locfileid: "120089014"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

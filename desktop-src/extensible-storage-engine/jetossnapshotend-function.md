@@ -18,12 +18,12 @@ api_type:
 api_location:
 - ESENT.DLL
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 890114147950d74dcf2c9004a34cc2c0ab30f61c
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.openlocfilehash: b57528899b8d78ecee31f6dd54c2ac8decece383
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122471740"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170335"
 ---
 # <a name="jetossnapshotend-function"></a>Функция Жетосснапшотенд
 
@@ -80,7 +80,7 @@ _**Применимо к:** Windows | Windows Сервером_
 
 Если эта функция завершается ошибкой, возвращается код возврата JET_errOSSnapshotTimeOut и текущий сеанс моментального снимка завершается, но замораживание IOs в течение периода моментального снимка не учитывается внутренне. Для всех остальных ошибок состояние сеанса моментального снимка не изменится.
 
-#### <a name="remarks"></a>Комментарии
+#### <a name="remarks"></a>Remarks
 
 Эта функция вызывается, только если [жетосснапшотсав](./jetossnapshotthaw-function.md) был вызван с JET_bitContinueAfterThaw.
 
@@ -89,7 +89,13 @@ _**Применимо к:** Windows | Windows Сервером_
 #### <a name="requirements"></a>Требования
 
 
-| | | <p><strong>Клиент</strong></p> | <p>требуется Windows Vista.</p> | | <p><strong>Сервер</strong></p> | <p>требуется Windows Server 2008.</p> | | <p><strong>Header</strong></p> | <p>Объявлено в ESENT. h.</p> | | <p><strong>Библиотека</strong></p> | <p>Используйте ESENT. lib.</p> | | <p><strong>КОМПОНОВКИ</strong></p> | <p>Требуется ESENT.dll.</p> | 
+| Требование | Значение |
+|------------|----------|
+| <p><strong>Клиент</strong></p> | <p>требуется Windows Vista.</p> | 
+| <p><strong>Server</strong></p> | <p>требуется Windows Server 2008.</p> | 
+| <p><strong>Header</strong></p> | <p>Объявлено в ESENT. h.</p> | 
+| <p><strong>Библиотека</strong></p> | <p>Используйте ESENT. lib.</p> | 
+| <p><strong>DLL</strong></p> | <p>Требуется ESENT.dll.</p> | 
 
 
 

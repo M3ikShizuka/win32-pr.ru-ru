@@ -4,12 +4,12 @@ ms.assetid: 7493c1fe-2c3d-4eb6-bec1-02c066a70b9f
 title: Шаблон Ксмвекторротатеригхт (Директксмас. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 47017982af6bb61212129665010d403bd9db898c65056110c4d2f40a5f8a9362
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fa2c4e623a75015e8051a5a9ccf32f4715016b73
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118984494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170404"
 ---
 # <a name="xmvectorrotateright-template"></a>Шаблон Ксмвекторротатеригхт
 

@@ -7,12 +7,12 @@ keywords:
 - Active Directory примеры Active Directory, Добавление члена в группу
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f5cccccca0fa701b4f5bc1ce9b350ac1073c6da7614c7292724138b2d433ef2e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5a64a41fac871c6793ee4d0db1f4be79c9fbd0d1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118191297"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170204"
 ---
 # <a name="example-code-for-adding-a-member-to-a-group"></a>Пример кода для добавления члена в группу
 

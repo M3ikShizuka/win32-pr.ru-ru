@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 385cb5d7694818a0e0e03ab74bcc31b76d13f5d304c7415b1f70a0fd43e1b31b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 1b33c5245778481033bd97326c3d66a40bf03210
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119921664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170124"
 ---
 # <a name="bcm_getnotelength-message"></a>\_Сообщение ЖЕТНОТЕЛЕНГС BCM
 
@@ -53,7 +53,7 @@ ms.locfileid: "119921664"
 
 Сообщение **BCM \_ жетнотеленгс** работает только с стилями кнопки [**BS \_ коммандлинк**](button-styles.md) и [**BS \_ дефкоммандлинк**](button-styles.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -65,7 +65,7 @@ ms.locfileid: "119921664"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -75,7 +75,7 @@ ms.locfileid: "119921664"
 [Стили кнопок](button-styles.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Типы кнопок](button-types-and-styles.md)

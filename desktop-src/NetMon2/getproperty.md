@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Nmapi.dll
-ms.openlocfilehash: 07bd5a88017ee16f3bdb1773973283d9ad0f7bc6a942fa4441fb134b5f1930da
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 297d68d68731181ed56324a4e1d174467f622e13
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118365977"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171451"
 ---
 # <a name="getproperty-function"></a>Функция Property
 
@@ -60,7 +60,7 @@ HPROPERTY WINAPI GetProperty(
 
 Если функция завершилась неудачно, возвращается значение **null**.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функцию **Property** можно использовать для получения маркера свойства, необходимого для размещения экземпляров свойства. Функции, используемые для размещения экземпляров свойств, — это [финдпропертинстанце](findpropertyinstance.md) (который находит первый экземпляр) и [финдпропертинстанцерестарт](findpropertyinstancerestart.md) (который находит следующий экземпляр).
 

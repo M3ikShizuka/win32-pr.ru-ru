@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Npptools.dll
-ms.openlocfilehash: f54be7ac5d5b7a443f967d0f6aa1b4737f798a9459833fc87f07f50328f824c3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5758c53fe21231d300058a9168e556e9f9ceaa43
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119743894"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171452"
 ---
 # <a name="getnpppatternfilterfromblob-function"></a>Функция Жетнпппаттернфилтерфромблоб
 
@@ -68,7 +68,7 @@ DWORD GetNPPPatternFilterFromBlob(
 
 Если функция завершается неудачно, возвращается значение НМЕРР, указывающее на ошибку.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сведения о фильтре соответствия шаблону хранятся в категории **конфигурации** большого двоичного объекта.
 

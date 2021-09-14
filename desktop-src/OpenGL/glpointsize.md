@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 127618e483a300024201798f7c8728d9ab8c0c0807e6dcac07ba580798a1ea4d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0e6b9525e302cad1eb940184eb5eb83e11744bba
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118132825"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171408"
 ---
 # <a name="glpointsize-function"></a>Функция Глпоинтсизе
 
@@ -64,7 +64,7 @@ void WINAPI glPointSize(
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция **глпоинтсизе** задает растровый диаметр как псевдонимов, так и сглаженных точек. Использование кегля, отличного от 1,0, имеет различные эффекты в зависимости от того, включено ли сглаживание точек. Сглаживание точек управляется путем вызова [**гленабле**](glenable.md) и **глдисабле** с аргументом GL в виде \_ точки \_ .
 

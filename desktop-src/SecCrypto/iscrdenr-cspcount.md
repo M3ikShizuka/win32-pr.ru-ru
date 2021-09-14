@@ -15,12 +15,12 @@ api_type:
 - COM
 api_location:
 - Scrdenrl.dll
-ms.openlocfilehash: 5ae2a25bbdb6efb3eff9bd0a94049e0c5674e5ba7c32e3939500097f19959037
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b2aea22db3c804ae4808996002b68efdcb6cf9a7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119005242"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170987"
 ---
 # <a name="iscrdenrcspcount-property"></a>Свойство Искрденр:: Кспкаунт
 

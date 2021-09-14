@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3386a0f38187e375f9dae0e390a413a1e64565f15d39e1e9f1e436c9238bea99
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b95631e51247d7919307f36dd0af10c72621a612
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118759295"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170247"
 ---
 # <a name="wm_getdpiscaledsize-message"></a>\_Сообщение ЖЕТДПИСКАЛЕДСИЗЕ WM
 
@@ -76,7 +76,7 @@ LPARAM — это указатель в/out для структуры разме
 |-------------------------------------|--------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 10, только для \[ настольных приложений версии 1703\]<br/>                            |
 | Минимальная версия сервера<br/> | Windows Server 2016 \[ только классические приложения\]<br/>                                 |
-| Header<br/>                   | <dl> <dt>Winuser. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h</dt> </dl> |
 
 
 

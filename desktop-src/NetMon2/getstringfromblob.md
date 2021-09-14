@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Npptools.dll
 ms.openlocfilehash: 475600fb6128b5dbbaf9333f8c550351831f0a0f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104496995"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171424"
 ---
 # <a name="getstringfromblob-function"></a>Функция Жетстрингфромблоб
 

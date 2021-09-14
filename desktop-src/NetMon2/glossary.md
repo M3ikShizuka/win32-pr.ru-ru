@@ -5,11 +5,11 @@ title: Глоссарий (сетевой монитор)
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 8764b3e2c892fed6f16529b5fe1459450c4fbd2c
-ms.sourcegitcommit: b32433cc0394159c7263809ae67615ab5792d40d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "113120429"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171423"
 ---
 # <a name="glossary-network-monitor"></a>Глоссарий (сетевой монитор)
 

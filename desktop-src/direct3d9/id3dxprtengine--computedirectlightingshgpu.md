@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 14dc76cb8ac3875101c42beb581c7eb2b96eb7511c85e7f76cd034658afcca3d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e56dd807d28ba6952cd20c971b675b83687a3015
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119985584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170448"
 ---
 # <a name="id3dxprtenginecomputedirectlightingshgpu-method"></a>Метод ID3DXPRTEngine:: Компутедиректлигхтингшгпу
 
@@ -116,7 +116,7 @@ HRESULT ComputeDirectLightingSHGPU(
 
 Вызовите [**мултиплялбедо**](id3dxprtengine--multiplyalbedo.md) , чтобы умножить каждый предварительно вычисленный вектор перемещения РАДИАНЦЕ (PRT) на албедо.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -127,7 +127,7 @@ HRESULT ComputeDirectLightingSHGPU(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

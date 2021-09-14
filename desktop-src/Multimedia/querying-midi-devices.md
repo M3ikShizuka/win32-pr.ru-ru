@@ -10,11 +10,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 066648d6e9ce89e03b26940cb27f3b62b6a03c07
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124370935"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171579"
 ---
 # <a name="querying-midi-devices"></a>Запрос устройств MIDI
 
@@ -50,7 +50,7 @@ Windows предоставляет следующие функции для оп
 
 Каждая из этих функций имеет параметр, указывающий адрес структуры, которую функция заполняет данными о возможностях указанного устройства.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

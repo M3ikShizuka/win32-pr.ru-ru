@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Scrdenrl.dll
-ms.openlocfilehash: 312cc5fed863241c1af8c8f69acfd74277cb355f91291f702e976bea71eba2f6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a4ef3be0ef16797597f57c12e90736ba50109601
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120080664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170972"
 ---
 # <a name="iscrdenrselectsigningcertificate-method"></a>Метод Искрденр:: Селектсигнингцертификате
 
@@ -76,7 +76,7 @@ SCrdEnr.selectSigningCertificate( _
 
 Если метод завершается с ошибкой, возвращается значение **HRESULT** , указывающее на ошибку. Список распространенных кодов ошибок см. в разделе [Общие значения HRESULT](common-hresult-values.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Перед регистрацией от имени пользователя сначала необходимо получить сертификат подписи. Сертификат для подписи можно получить с помощью оснастки MMC диспетчера сертификатов. Метод **селектсигнингцертификате** не получает сертификат подписи, но отображает диалоговое окно ранее полученных сертификатов для подписи, позволяя выбрать сертификат, который будет использоваться для подписания запросов регистрации от имени.
 
@@ -84,7 +84,7 @@ SCrdEnr.selectSigningCertificate( _
 
 После выбора сертификата для подписи его имя можно получить, вызвав [**искрденр:: жетсигнингцертификатенаме**](iscrdenr-getsigningcertificatename.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -97,7 +97,7 @@ SCrdEnr.selectSigningCertificate( _
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

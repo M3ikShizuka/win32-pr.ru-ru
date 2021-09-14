@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2ea871d0054558e1522011d4fdb00fdd3c82a0dd1562fe3420d3295bbab89a01
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d6a7d809207c21c74a36c796a9035ed0e3772481
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120064414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170127"
 ---
 # <a name="bcm_gettextmargin-message"></a>\_Сообщение ЖЕТТЕКСТМАРГИН BCM
 
@@ -54,7 +54,7 @@ ms.locfileid: "120064414"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

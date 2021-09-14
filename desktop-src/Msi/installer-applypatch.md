@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: c4bcb1ba1dc988f3c28188b4b448dba611b83c6cffbe7f942710569ac089776f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cc1b7509ddb4c61fa84a4547dcd47f2c7637b913
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118633231"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171739"
 ---
 # <a name="installerapplypatch-method"></a>Метод Installer. Апплипатч
 
@@ -88,7 +88,7 @@ Installer.ApplyPatch(
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Так как разделителем списков для преобразований, источников и исправлений является точка с запятой, этот символ не следует использовать для имен файлов и путей.
 
