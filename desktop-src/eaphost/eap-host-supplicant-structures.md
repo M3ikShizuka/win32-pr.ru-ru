@@ -4,12 +4,12 @@ description: Сведения о структурах API-ответчика EAP
 ms.assetid: 77595f36-140d-4d8e-af8e-63e9de0031c4
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e6703070eabbc571927569f28c39109bbe1eda2f1c70b621982dde3ab4ac3a61
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7e7121e123fd790a54a95dafb59c080f435ca917
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117904621"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127252955"
 ---
 # <a name="eaphost-supplicant-structures"></a>Структуры запрашивающего сторона EAPHost
 

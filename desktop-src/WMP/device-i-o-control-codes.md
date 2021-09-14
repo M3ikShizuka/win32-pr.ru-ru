@@ -10,12 +10,12 @@ keywords:
 - управляющие коды
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 63d610b396125cf190764b53106ca6535a214e2c8166f4e69de884c113fd77ef
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 69c00e235ce0f0e68e98f4f0e37221eac0903682
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117935853"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056423"
 ---
 # <a name="device-io-control-codes"></a>Управляющие коды устройств ввода-вывода
 
@@ -32,13 +32,13 @@ ms.locfileid: "117935853"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эти управляющие коды определены в вмпдевицес. h.
 
 если устройство не поддерживает **IOCTL WMP, \_ \_ устройство \_ может \_ синхронизироваться**, проигрыватель Windows Media 10 или более поздней версии предполагает, что устройство поддерживает автоматическую синхронизацию. Обратите внимание, что хотя это значение может запретить автоматическую синхронизацию, существуют дополнительные условия, позволяющие определить, поддерживает ли устройство автоматическую синхронизацию.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -12,12 +12,12 @@ keywords:
 - Отключенные файлы в обложках
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d7b7d7c052ed0de1a3e231bc204b87a84f1e9e10262acfe43df310d76f76577b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9608c67ded6625d46126955ad42a24548a9d002c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118997363"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056421"
 ---
 # <a name="disabled-file"></a>Отключенный файл
 
@@ -31,7 +31,7 @@ ms.locfileid: "118997363"
 
 Обратите внимание, что фон изображения кнопки точно соответствует соответствующей области в фоновом файле. Это важно, так как если кнопка типа попадания недоступна, весь прямоугольник, определенный для отключенного изображения, заменит соответствующую область в фоновом файле. Убедитесь, что рисунок соответствует фоновому изображению, чтобы гарантировать, что только те части кнопки, которые должны быть разными, изменятся.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

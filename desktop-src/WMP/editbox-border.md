@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8cbd1c1ad8d2e75e886252147f4675bfa9ff901fe042a3b49a28a2a96ab2955a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ae6d36c9077665a95512bc5374a35275e690f903
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118340045"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056403"
 ---
 # <a name="editboxborder"></a>EDITBOX. Border
 
@@ -31,7 +31,7 @@ ms.locfileid: "118340045"
 
 Этот атрибут является **логическим** , заданным во время разработки, и затем доступен только для чтения. Он имеет значение по умолчанию true.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Граница отображается в виде утопленной границы в пределах двух пикселей вокруг элемента управления "поле ввода" с системными цветами.
 
@@ -45,7 +45,7 @@ ms.locfileid: "118340045"
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

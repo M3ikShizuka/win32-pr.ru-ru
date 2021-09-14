@@ -14,12 +14,12 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: a18922ef19bd828067ddb0153aa7c6369ecfeebd0446f5a6481f91fa64ca21b9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 690770091219e51b3ebb550a1a72e50f76b20542
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118274424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127252883"
 ---
 # <a name="eaphostusercredentials-element"></a>Еафостусеркредентиалс, элемент
 
@@ -63,7 +63,7 @@ ms.locfileid: "118274424"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Элементы [**Credential**](eaphostusercredentialsschema-credentials-eaphostusercredentials-element.md) и [**кредентиалсблоб**](eaphostusercredentialsschema-credentialsblob-eaphostusercredentials-element.md) нельзя одновременно использовать одновременно.
 

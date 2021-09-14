@@ -4,12 +4,12 @@ description: Самым очевидным изменением при пере�
 ms.assetid: 179efb69-3794-4a06-b770-2b3dc8409172
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: eef58f92bf87d877c2c55a73fe5f717b93c359119e5ca6aa73fc1aeee531d858
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4d3a9c2123d8b94f9fc6fe79d4ab48188830c7a1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119678394"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253150"
 ---
 # <a name="syntax-differences"></a>Синтаксические отличия
 

@@ -14,12 +14,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: be26fcbd88f7200e03136e8d1a4850f3560b8b44b351e9ff0ed60bf53eb70628
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 79ace3c7580526febe63f1c2868e2c3474e7f1cc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119064484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057343"
 ---
 # <a name="netconfigset"></a>нетконфигсет
 

@@ -13,12 +13,12 @@ api_type:
 - UserDefined
 api_location:
 - wfdsink.h
-ms.openlocfilehash: 7066f45b714c28b53747d0d0f1851bd94ac2ac902e5b4adba1d0746e8328b3b4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c576f88a5b7f97484647c4c06f44522a5c3c379f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118619979"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057383"
 ---
 # <a name="wfd_display_sink_notification_callback-callback-function"></a>\_ \_ \_ Функция обратного вызова для уведомлений о приемнике для дисплея WFD \_
 
@@ -70,7 +70,7 @@ DWORD CALLBACK WFD_DISPLAY_SINK_NOTIFICATION_CALLBACK(
 |-------------------------------------|--------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8.1 \[ только классические приложения\]<br/>                                         |
 | Минимальная версия сервера<br/> | Windows Server 2012 \[Только классические приложения R2\]<br/>                              |
-| Header<br/>                   | <dl> <dt>Вфдсинк. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Вфдсинк. h</dt> </dl> |
 
 
 

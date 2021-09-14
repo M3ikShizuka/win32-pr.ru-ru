@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9f8fd28cd616af56a9b51ecf4e709df5f07674c6d1f307320128645364f3bfc0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fd2061f9d910e67855cc0dcb6d64248067fcb9e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119253884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056619"
 ---
 # <a name="eventtriggervaluequeries-property"></a>Свойство EventTrigger. Валуекуериес
 
@@ -40,7 +40,7 @@ EventTrigger.ValueQueries As String
 
 Коллекция пар "имя-значение". Каждая пара «имя-значение» в коллекции определяет уникальное имя для значения свойства события, запускающего триггер события. Значение свойства события определяется как запрос события XPath. Дополнительные сведения о запросах событий XPath см. в разделе [Выбор события](/previous-versions//aa385231(v=vs.85)).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Имя запроса можно использовать в качестве переменной в следующих свойствах действия:
 
@@ -70,7 +70,7 @@ value: Event/UserData/MachineName
 
 Дополнительные сведения о записи строки запроса для определенных событий см. в разделе [Выбор событий](/previous-versions//aa385231(v=vs.85)) и [Подписка на события](../wes/subscribing-to-events.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -83,7 +83,7 @@ value: Event/UserData/MachineName
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

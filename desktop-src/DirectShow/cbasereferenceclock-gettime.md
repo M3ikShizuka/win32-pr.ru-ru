@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 5a1ffd021ac917a7aa1e12f3d3dc9c4a62ea1f883f126bca1d9c1300d335bdae
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a91f0015756d2ccfb545c4039d67434eb6d3c403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118954983"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362541"
 ---
 # <a name="cbasereferenceclockgettime-method"></a>Кбасереференцеклокк. метод времени
 
@@ -65,7 +65,7 @@ HRESULT GetTime(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод вызывает метод [**кбасереференцеклокк:: жетприватетиме**](cbasereferenceclock-getprivatetime.md) для определения реального времени. Если время, которое строго превышает предыдущее значение, `GetTime` использует время и возвращает значение S \_ ОК. В противном случае `GetTime` использует предыдущее значение и возвращает \_ значение S false. Таким образом, внутренние часы могут выполняться в течение короткого периода времени, не вызывая обратную ссылку на время выполнения. Вместо этого время ссылки будет занимать одно и то же значение до тех пор, пока не будут перехватываться внутренние часы.
 

@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8abbb67f916960d015b26337734ffcff6f8e6551ab664bd4f4cc0d7511630a7d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 99c3eb135f1d87050cd190fe47d0088fd1ab86f6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117790762"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253699"
 ---
 # <a name="ipx_next_hop_address-structure"></a>\_ \_ Структура адреса следующего ПРЫЖКа IPX \_
 
@@ -39,7 +39,7 @@ typedef struct _IPX_NEXT_HOP_ADDRESS {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -58,7 +58,7 @@ typedef struct _IPX_NEXT_HOP_ADDRESS {
 |-------------------------------------|----------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                        |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                             |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                   |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                   |
 | Заголовок<br/>                   | <dl> <dt>RTM. h</dt> </dl> |
 
 

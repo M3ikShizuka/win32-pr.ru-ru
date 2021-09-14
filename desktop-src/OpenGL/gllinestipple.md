@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 33f350611afa0621c1bf883e8f2ac7dc24e50362912296f15d1443e2c638b7bf
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b47202b25c0779a3daa0bd801900b1d29e0b37b6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119493024"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253807"
 ---
 # <a name="gllinestipple-function"></a>Функция Гллинестиппле
 
@@ -71,7 +71,7 @@ void WINAPI glLineStipple(
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция **гллинестиппле** указывает шаблон Line стиппле. Line стипплинг маскирует определенные фрагменты, созданные с помощью растрирования; Эти фрагменты не будут отображаться. Маскирование достигается с помощью трех параметров: 16-разрядный *шаблон стиппле Line,* *Коэффициент* числа повторов и целочисленный стиппле счетчиков *s*.
 
@@ -89,7 +89,7 @@ void WINAPI glLineStipple(
 
 [**глисенаблед**](glisenabled.md) с аргументом GL \_ Line \_ стиппле
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -103,7 +103,7 @@ void WINAPI glLineStipple(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

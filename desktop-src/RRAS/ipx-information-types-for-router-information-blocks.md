@@ -4,12 +4,12 @@ description: Следующие типы сведений перечислены
 ms.assetid: 6cbc8415-f5ba-4f84-a23f-dd4f4a54d118
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 959f83daa47a0e4573f11b5146fa6f4fdbbe0120ca0c4e8beb123ac6263a8a8a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ab4494da951c04433da2cf9b1da20db7ea5f3119
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117790857"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253720"
 ---
 # <a name="ipx-information-types-for-router-information-blocks"></a>Типы сведений IPX для блоков сведений маршрутизатора
 

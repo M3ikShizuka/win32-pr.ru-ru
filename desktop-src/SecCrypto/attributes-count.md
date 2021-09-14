@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: 7d7b1f2213fc6de3ec08a9c9b568222f5dd54a6de6f9bdb3adb27e052e8c088e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 34a750b34f483342966ed1fcb3831d08b8df8f39
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117773509"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253516"
 ---
 # <a name="attributescount-property"></a>Свойство Attributes. Count
 
@@ -41,7 +41,7 @@ Attributes.Count As Long
 
 Число объектов [**атрибутов**](attribute.md) в коллекции. Каждый объект **атрибута** представляет один атрибут в коллекции.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Свойство **Count** можно использовать для указания последнего объекта [**атрибута**](attribute.md) в коллекции при извлечении определенного объекта **атрибута** с помощью свойства [**Attributes. Item**](attributes-item.md) .
 

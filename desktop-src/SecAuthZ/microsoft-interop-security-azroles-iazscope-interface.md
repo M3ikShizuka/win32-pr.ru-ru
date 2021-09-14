@@ -116,11 +116,11 @@ api_type:
 api_location:
 - Microsoft.Interop.Security.Azroles.dll
 ms.openlocfilehash: b285de80da54f9c60e083fdf8f9e0129f459104a
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105669007"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057004"
 ---
 # <a name="microsoftinteropsecurityazrolesiazscope-interface"></a>Интерфейс Microsoft. Interop. Security. Азролес. Иазскопе
 

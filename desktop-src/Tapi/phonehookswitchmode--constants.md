@@ -4,12 +4,12 @@ ms.assetid: 532bf089-d5ca-4a04-847d-69e48990ff5c
 title: Константы PHONEHOOKSWITCHMODE_ (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ff8f25b7126056690b0b1953065caff3e475ac00cb073c68c8200d056c0114b2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b8028cb531d5b38185edf75ae58e4c3c855398f2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119404484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056690"
 ---
 # <a name="phonehookswitchmode_-constants"></a>\_Константы фонехуксвитчмоде
 
@@ -67,20 +67,20 @@ ms.locfileid: "119404484"
 
 </dt> </dl> </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Без расширяемости. Все 32 бит зарезервированы.
 
 Эти константы используются для предоставления индивидуального уровня контроля над компонентами микрофона и динамиков телефонного устройства.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------|-----------------------------------------------------------------------------------|
 | Версия TAPI<br/> | Требуется TAPI 2,0 или более поздней версии<br/>                                             |
-| Header<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
+| Заголовок<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
 
 
 

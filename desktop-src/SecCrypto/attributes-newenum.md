@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: e52428afa3a31c588417979b28d9c29ca23fcb446542cedc45c57127326507e6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9948c55943a8374665fe5e4883013742188665c1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119879824"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253498"
 ---
 # <a name="attributes_newenum-property"></a>Атрибуты. \_ Свойство NewEnum
 
@@ -39,11 +39,11 @@ Attributes._NewEnum As IUnknown
 
 Интерфейс [**IEnumVARIANT**](/windows/win32/api/oaidl/nn-oaidl-ienumvariant) объекта, который может использоваться для перечисления коллекции.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 это свойство автоматически используется для внутренних целей при использовании `For Each In` конструкции в Visual Basic scripting Edition (VBScript).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -56,7 +56,7 @@ Attributes._NewEnum As IUnknown
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

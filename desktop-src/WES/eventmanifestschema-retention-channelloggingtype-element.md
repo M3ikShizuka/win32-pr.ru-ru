@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: baff9701cff719c0b22e8dc6a09300073ce06cdf8da0b0490bb10b257087764d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 561b5d6926e49990e79aebe47c447aa63d35f0d6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118343394"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056486"
 ---
 # <a name="retention-channelloggingtype-element"></a>Элемент retention (Чаннеллоггингтипе)
 
@@ -32,7 +32,7 @@ ms.locfileid: "118343394"
 
 Элемент **retention** определяется сложным типом [**чаннеллоггингтипе**](eventmanifestschema-channelloggingtype-complextype.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ ms.locfileid: "118343394"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 3fcfd874-39bc-42d2-9fc9-2d8945ffa8e3
 title: Flow данных в фильтре Graph
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2febb5ea43ab4707d01c8fec1fa2bed090d78aef07343bc8bc70464436f07368
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a38e0e730dd78e3a42a1121e4a63a053e6016402
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118654444"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362453"
 ---
 # <a name="data-flow-in-the-filter-graph"></a>Flow данных в фильтре Graph
 
@@ -23,7 +23,7 @@ ms.locfileid: "118654444"
 -   [Фильтрация состояний](filter-states.md)
 -   [Модель опроса](pull-model.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

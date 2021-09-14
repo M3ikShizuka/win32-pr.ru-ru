@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cb01c28b7e8eebe476416934a4d89dee461e0ed5c2ccf6e968b4db0c38178e1d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: eecbdf6ceaf9938a1b5a607a67410ddc6d05438b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118882960"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056797"
 ---
 # <a name="systemmonitorbackcolor-property"></a>Системмонитор. BackColor, свойство
 
@@ -42,7 +42,7 @@ Property BackColor As stdole.OLE_COLOR
 
 Цвет фона для представлений диаграмм и отчетов.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это внешнее свойство. Значение этого свойства определяется контейнером. Установка значения этого свойства может повлиять на иллюзию элемента управления и контейнера на одно приложение.
 
@@ -58,7 +58,7 @@ Property BackColor As stdole.OLE_COLOR
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

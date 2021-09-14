@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4d99a9504a673d23d6923d5faf0e99770f20fe55e1cdd6b63d9adcbe68282584
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 149139bc11698469ce0667c2ecf77bc7ab239adb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119553714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057221"
 ---
 # <a name="state-variables-for-current-values-and-associated-data"></a>Переменные состояния для текущих значений и связанных данных
 

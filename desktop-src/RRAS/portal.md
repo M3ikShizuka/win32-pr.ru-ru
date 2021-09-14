@@ -4,12 +4,12 @@ description: Служба маршрутизации и удаленного д�
 ms.assetid: fa0a183a-0254-401e-8b78-441cb3f83e8b
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2d827150b84806afe4a9290436620def7675ee03163bf5f63c0c0d6556932a1b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 49d81e743f640e600588413f0c15c44e0410c5ea
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120029004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253690"
 ---
 # <a name="routing-and-remote-access-service"></a>Служба маршрутизации и удаленного доступа
 

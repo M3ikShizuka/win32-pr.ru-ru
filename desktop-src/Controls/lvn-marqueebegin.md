@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d8012981883564450603d11d0eb243375f48b46cdb14a14984a19415c84dab3a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8d46d399b8355bea0ddb2054340d52db59c3ad27
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120109534"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362573"
 ---
 # <a name="lvn_marqueebegin-notification-code"></a>\_Код уведомления ЛВН маркуибегин
 
@@ -49,7 +49,7 @@ LVN_MARQUEEBEGIN
 
 Чтобы принять код уведомления, возвратите нуль. Чтобы выйти из выделения ограничивающего прямоугольника, возвратите ненулевое значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 *Выделение ограничивающего прямоугольника* — это процесс щелчка клиентской области окна списка представлений и перетаскивания для одновременного выбора нескольких элементов.
 

@@ -162,12 +162,12 @@ api_type:
 - COM
 api_location:
 - Microsoft.Interop.Security.Azroles.dll
-ms.openlocfilehash: 76b44a4b37cd59edb3be6d38c234a8c72314e05f266516f52ee11ac99ff866e2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bee4241ce49a354bc72c5a11a17b111835a045e2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117781092"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057039"
 ---
 # <a name="microsoftinteropsecurityazrolesiazauthorizationstore3-interface"></a>Интерфейс Microsoft. Interop. Security. Азролес. IAzAuthorizationStore3
 
@@ -212,7 +212,7 @@ ms.locfileid: "117781092"
 | **Microsoft. Interop. Security. Азролес. IAzAuthorizationStore3. Делетепропертитем**                | [**Азаусоризатионсторе::D Елетепропертитем**](/windows/desktop/api/Azroles/nf-azroles-iazauthorizationstore-deletepropertyitem)<br/>                                   |
 | **Свойство Microsoft. Interop. Security. Азролес. IAzAuthorizationStore3..**                       | [**Азаусоризатионсторе:: Property**](/windows/desktop/api/Azroles/nf-azroles-iazauthorizationstore-getproperty)<br/>                                                 |
 | **Microsoft. Interop. Security. Азролес. IAzAuthorizationStore3. Жетсчемаверсион**                  | [**IAzAuthorizationStore3:: Жетсчемаверсион**](/windows/desktop/api/Azroles/nf-azroles-iazauthorizationstore3-getschemaversion)<br/>                            |
-| **Microsoft.Interop.Security.Azroles.IAzAuthorizationStore3.Iniтиализе**                        | [**Азаусоризатионсторе:: Initialize**](/windows/desktop/api/Azroles/nf-azroles-iazauthorizationstore-initialize)<br/>                                                   |
+| **Microsoft. Interop. Security. Азролес. IAzAuthorizationStore3. Initialize**                        | [**Азаусоризатионсторе:: Initialize**](/windows/desktop/api/Azroles/nf-azroles-iazauthorizationstore-initialize)<br/>                                                   |
 | **Microsoft. Interop. Security. Азролес. IAzAuthorizationStore3. Исфунктионаллевелупградесуппортед** | [**IAzAuthorizationStore3:: Исфунктионаллевелупградесуппортед**](/windows/desktop/api/Azroles/nf-azroles-iazauthorizationstore3-isfunctionallevelupgradesupported)<br/> |
 | **Microsoft. Interop. Security. Азролес. IAzAuthorizationStore3. Исупдатенидед**                    | [**IAzAuthorizationStore3:: Исупдатенидед**](/windows/desktop/api/Azroles/nf-azroles-iazauthorizationstore3-isupdateneeded)<br/>                                |
 | **Microsoft. Interop. Security. Азролес. IAzAuthorizationStore3. Опенаппликатион**                   | [**Азаусоризатионсторе:: Опенаппликатион**](/windows/desktop/api/Azroles/nf-azroles-iazauthorizationstore-openapplication)<br/>                                         |

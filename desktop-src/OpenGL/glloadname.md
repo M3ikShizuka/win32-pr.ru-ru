@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7f362862d2d4b57c43e12e522e2dac1767bbd36d88bda4ce3fb27f3c525fb3ca
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bb47a0389cda13523104ee429bca46838970e15a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119520394"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253780"
 ---
 # <a name="glloadname-function"></a>Функция Гллоаднаме
 
@@ -64,7 +64,7 @@ void WINAPI glLoadName(
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция **гллоаднаме** заставляет *имя* заменить значение в верхней части стека имен, которое изначально пустое. В режиме выбора используется стек имен, чтобы обеспечить уникальную идентификацию наборов команд отрисовки. Он состоит из упорядоченного набора целых чисел без знака.
 
@@ -76,7 +76,7 @@ void WINAPI glLoadName(
 
 **глжет** с аргументом \_ , \_ \_ глубина стека максимальных имен \_
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -90,7 +90,7 @@ void WINAPI glLoadName(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

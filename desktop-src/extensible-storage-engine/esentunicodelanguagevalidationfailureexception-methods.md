@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55103141
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: f650a559758a9dd2e544e3a3bdc70a95c7364f896111fc786b8ccc6c6e4ba0f9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4b84436989813c303f561cb9444919237e6dc6f9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119969484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127252736"
 ---
 # <a name="esentunicodelanguagevalidationfailureexception-methods"></a>Методы EsentUnicodeLanguageValidationFailureException 
 
@@ -80,7 +80,7 @@ ms.locfileid: "119969484"
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Есентуникоделангуажевалидатионфаилуриксцептион](./esentunicodelanguagevalidationfailureexception-class.md)
 

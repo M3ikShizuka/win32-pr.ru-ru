@@ -5,11 +5,11 @@ title: Собственные разрешения API WiFi
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: da56faac08b40ace46ef1e33c5d5644be87b45c6
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122480730"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057424"
 ---
 # <a name="native-wifi-api-permissions"></a>Собственные разрешения API WiFi
 
@@ -22,7 +22,7 @@ ms.locfileid: "122480730"
 
 
 
-| Компонент | Защищаемый объект | 
+| Функция | Защищаемый объект | 
 |----------|------------------|
 | <a href="/windows/desktop/api/wlanapi/nf-wlanapi-wlangetfilterlist"><strong>Вланжетфилтерлист</strong></a>, <a href="/windows/desktop/api/wlanapi/nf-wlanapi-wlansetfilterlist"> <strong>влансетфилтерлист</strong></a><br /> | <ul><li>wlan_secure_deny_list</li><li>wlan_secure_permit_list</li></ul> | 
 | <a href="/windows/desktop/api/wlanapi/nf-wlanapi-wlanihvcontrol"><strong>вланихвконтрол</strong></a><br /> | <ul><li>wlan_secure_ihv_control</li></ul> | 
@@ -44,7 +44,7 @@ ms.locfileid: "122480730"
 
 * * Windows XP с пакетом обновления 3 (SP3) и API беспроводной локальной сети для Windows XP с пакетом обновления 2 (SP2): * * функции [**вланжетсекуритисеттингс**](/windows/desktop/api/wlanapi/nf-wlanapi-wlangetsecuritysettings) и [**влансетсекуритисеттингс**](/windows/desktop/api/wlanapi/nf-wlanapi-wlansetsecuritysettings) не поддерживаются. Параметр *страллусерпрофилесекурити* не используется.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Nmapi.dll
 ms.openlocfilehash: 14fce9f56103803e575d295799a5c5971ed1c459
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103909416"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253915"
 ---
 # <a name="ccheapalloc-function"></a>Функция Кчеапаллок
 

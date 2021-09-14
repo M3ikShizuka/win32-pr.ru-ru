@@ -5,15 +5,15 @@ title: Перечисление Каллкуалитипроперти (Ипмс
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: f2ca3af31e0b85a443bb34ac1992b3d3b5c89bfa
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105675716"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056737"
 ---
 # <a name="callqualityproperty-enumeration"></a>Перечисление Каллкуалитипроперти
 
-\[ Это перечисление недоступно для использования в Windows Vista, Windows Server 2008 и последующих версиях операционной системы. API клиента RTC предоставляет аналогичные функциональные возможности.\]
+\[это перечисление недоступно для использования в Windows Vista, Windows Server 2008 и последующих версиях операционной системы. API клиента RTC предоставляет аналогичные функциональные возможности.\]
 
 Перечисление **каллкуалитипроперти** используется методами [**иткаллкуалитиконтрол::**](itcallqualitycontrol-getrange.md), [**Иткаллкуалитиконтрол:: Get**](itcallqualitycontrol-get.md)и [**иткаллкуалитиконтрол:: Set**](itcallqualitycontrol-set.md) для указания свойства качества вызова, для которого выполняется обращение.
 
@@ -93,11 +93,11 @@ ms.locfileid: "105675716"
 | Требование | Значение |
 |-------------------------|------------------------------------------------------------------------------------|
 | Версия TAPI<br/> | Требуется TAPI 3,1<br/>                                                       |
-| Header<br/>       | <dl> <dt>Ипмсп. h</dt> </dl> |
+| Заголовок<br/>       | <dl> <dt>Ипмсп. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

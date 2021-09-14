@@ -4,12 +4,12 @@ ms.assetid: 14f9cfa3-5ef6-419c-9196-2e4060549c03
 title: Flow данных в навигаторе DVD
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 56e649edfacf0a1fad56cfbe8e73a5e1e9aaf099b9c17463858bf776ab06605c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 29a981d2d7b528163abb53478e9e8f2ab88d46c0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118953363"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362456"
 ---
 # <a name="data-flow-in-the-dvd-navigator"></a>Flow данных в навигаторе DVD
 
@@ -62,7 +62,7 @@ ms.locfileid: "118953363"
 
 Чтобы точно найти указанное время на диске, вызовите [**имедиаконтрол:: Run**](/windows/desktop/api/Control/nf-control-imediacontrol-run). Затем вызовите [**IDvdControl2::P лайаттиме**](/windows/desktop/api/Strmif/nf-strmif-idvdcontrol2-playattime), указав время и настроив  \_ \_ Сброс флага dwFlags на DVD-диск \_ .
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

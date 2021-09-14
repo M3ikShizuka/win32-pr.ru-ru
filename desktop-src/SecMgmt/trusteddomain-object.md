@@ -4,12 +4,12 @@ ms.assetid: fab69367-2143-49ef-a1b9-9c1d846fd4e1
 title: Объект Трустеддомаин
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 50d3f5c2669cc45c067316aa960c7ced075b5a05a088f07987ea7dc27c6e82ac
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 837d8a9e56273a87b22b9697ef4e5917d73bcc81
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118893001"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056959"
 ---
 # <a name="trusteddomain-object"></a>Объект Трустеддомаин
 

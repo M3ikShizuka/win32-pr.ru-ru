@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Netmon.h
 ms.openlocfilehash: 3f3d40bf5d38c6b5151691a7d15bd93bef01eee5
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104264698"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253858"
 ---
 # <a name="configuredexpert-structure"></a>Структура КОНФИГУРЕДЕКСПЕРТ
 
@@ -37,7 +37,7 @@ typedef struct {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 

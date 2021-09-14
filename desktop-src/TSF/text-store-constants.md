@@ -13,11 +13,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 6d5115dcc5917acbc140048ee11901dab533504a
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104329923"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056769"
 ---
 # <a name="text-store-constants"></a>Константы хранилища текста
 
@@ -36,9 +36,9 @@ ms.locfileid: "104329923"
 -   [\_Константы сдвига служб терминалов \_ \*](ts-shift--constants.md)
 -   [\_ \_ \* Константы TS SS](ts-ss--constants.md)
 
- 
+ 
 
- 
+ 
 
 
 

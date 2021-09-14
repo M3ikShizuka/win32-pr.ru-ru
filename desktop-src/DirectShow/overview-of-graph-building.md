@@ -4,12 +4,12 @@ ms.assetid: 5753f06c-ecfd-48d7-a8e9-768b798e9279
 title: обзор Graph здания
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c16b943714e2e559286b805a8489152805d9b0e037a77603bacd00f8b0135cc9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f69ef9ea0f4f9e21d33372ad2a37a59b512d5dcc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118152950"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362357"
 ---
 # <a name="overview-of-graph-building"></a>обзор Graph здания
 
@@ -63,7 +63,7 @@ HRESULT hr = CoCreateInstance(CLSID_FilterGraph,
 
 В некоторых сценариях приложению может потребоваться построить граф, добавив и подключив каждый фильтр. В этом случае, возможно, вам известно, какие фильтры следует добавить к диаграмме. при таком подходе приложение добавляет каждый фильтр путем вызова **аддфилтер**, перечисляет контакты в фильтрах и подключает их, вызывая либо **Подключение** , либо **коннектдирект**.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

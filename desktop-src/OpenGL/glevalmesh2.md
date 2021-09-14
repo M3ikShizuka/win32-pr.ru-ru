@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 75d5f1a16b1ceda2c13f24a779032b0e920d364db46167a9dc02ca2b27277262
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 531e9f1f6288116d052c728654cd2cf03f38550a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118616110"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253804"
 ---
 # <a name="glevalmesh2-function"></a>Функция glEvalMesh2
 
@@ -65,7 +65,7 @@ void WINAPI glEvalMesh2(
 
 </dd> <dt>
 
-*J1* 
+*j1* 
 </dt> <dd>
 
 Первое целочисленное значение для переменной домена сетки j.
@@ -96,7 +96,7 @@ void WINAPI glEvalMesh2(
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Используйте [**глмапгрид**](glmapgrid-functions.md) и [**глевалмеш**](glevalmesh-functions.md) в сочетании для эффективного создания и вычисления ряда значений домена сопоставлений с равными пробелами. Функция **глевалмеш** выполняет шаг с целым доменом одномерной или двухмерной сетки, диапазон которого представляет собой домен карт оценки, заданных в [**glMap1**](glmap1.md) и [**glMap2**](glmap2.md). Параметр mode определяет, соединяются ли результирующие вершины как точки, линии или закрашенные многоугольники.
 

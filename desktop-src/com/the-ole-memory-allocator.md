@@ -5,11 +5,11 @@ ms.assetid: 026c62e5-c296-4059-b028-77c98fdb77ce
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: a64fedd610fd8fd6dab0bcd14deb37e04f6df74d
-ms.sourcegitcommit: 5f33645661bf8c825a7a2e73950b1f4ea0f1cd82
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "104134631"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253096"
 ---
 # <a name="the-ole-memory-allocator"></a>Распределитель памяти OLE
 
@@ -17,7 +17,7 @@ ms.locfileid: "104134631"
 
 Вызов функции API [**кожетмаллок**](/windows/desktop/api/combaseapi/nf-combaseapi-cogetmalloc) предоставляет указатель на распределитель OLE, который является реализацией [**интерфейса выделения**](/windows/win32/api/objidlbase/nn-objidlbase-imalloc) . Однако более эффективно вызывать вспомогательные функции [**CoTaskMemAlloc**](/windows/desktop/api/combaseapi/nf-combaseapi-cotaskmemalloc), [**котаскмемреаллок**](/windows/desktop/api/combaseapi/nf-combaseapi-cotaskmemrealloc)и [**CoTaskMemFree**](/windows/desktop/api/combaseapi/nf-combaseapi-cotaskmemfree), которые заключают указатель на распределитель памяти задачи, вызывая **соответствующий метод выделения** , а затем освобождая указатель на распределитель.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -27,6 +27,6 @@ ms.locfileid: "104134631"
 [Библиотека COM](the-com-library.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

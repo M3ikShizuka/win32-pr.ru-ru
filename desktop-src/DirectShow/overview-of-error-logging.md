@@ -4,12 +4,12 @@ ms.assetid: 1037f354-0415-4a5c-a96c-20ae714981af
 title: Общие сведения о ведении журнала ошибок
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bcde3e0366ffca12dfcb5674259273ba1bbf25c1feed9be3ead57fa64cc42dc4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4af82c35cdb34a238e280641015407c7a5d6f837
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119904634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362356"
 ---
 # <a name="overview-of-error-logging"></a>Общие сведения о ведении журнала ошибок
 
@@ -23,7 +23,7 @@ ms.locfileid: "119904634"
 
 Пример кода в этой статье определяет автономный класс C++, который реализует **IUnknown** и **иамеррорлог**. Результат не является истинным COM-объектом, так как он не поддерживает **CoCreateInstance**. Однако этот подход достаточно для целей примера.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

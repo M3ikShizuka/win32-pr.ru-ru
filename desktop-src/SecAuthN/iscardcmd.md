@@ -15,12 +15,12 @@ api_type:
 - COM
 api_location:
 - Scardssp.dll
-ms.openlocfilehash: e6bce160cfb326f0c44b2fca1c6676b895d9eeeec434826d7fc595fc178c47d3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f14291f3777dcdc8b661f96f94d987209100a365
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119008151"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057100"
 ---
 # <a name="iscardcmd-interface"></a>Интерфейс Искардкмд
 
@@ -59,7 +59,7 @@ ms.locfileid: "119008151"
 | Метод                                       | Описание                                                                                                |
 |:---------------------------------------------|:-----------------------------------------------------------------------------------------------------------|
 | [**буилдкмд**](iscardcmd-buildcmd.md)       | Конструирует допустимую команду КАТЕГОРИЯХ APDU для передачи на смарт-карту.<br/>                               |
-| [**Clear**](iscardcmd-clear.md)             | Очищает буферы сообщений КАТЕГОРИЯХ APDU и Reply КАТЕГОРИЯХ APDU.<br/>                                             |
+| [**Открытым**](iscardcmd-clear.md)             | Очищает буферы сообщений КАТЕГОРИЯХ APDU и Reply КАТЕГОРИЯХ APDU.<br/>                                             |
 | [**Инкапсулировать**](iscardcmd-encapsulate.md) | Инкапсулирует указанную команду КАТЕГОРИЯХ APDU в другую команду КАТЕГОРИЯХ APDU для передачи на смарт-карту.<br/> |
 
 
@@ -106,7 +106,7 @@ ms.locfileid: "119008151"
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                                                   |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
 | Заголовок<br/>                   | <dl> <dt>Скарддат. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Скарддат. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Scardssp.dll</dt> </dl> |

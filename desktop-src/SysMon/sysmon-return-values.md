@@ -4,12 +4,12 @@ description: Ниже приведен список возвращаемых з�
 ms.assetid: f1cc7668-4a6f-4b70-9591-62bd447fe8fb
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3ce526a64132cef51338a83b387aa8e9bfd58ce0ef0b99a1fb7db0dce4c15ef7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 13ce5678c20a1ab8df825a5e3bc5f725d255e459
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117956450"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056807"
 ---
 # <a name="sysmon-return-values"></a>Возвращаемые значения СИСМОН
 

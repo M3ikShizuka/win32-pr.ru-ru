@@ -3,7 +3,7 @@ title: Сообщение LVN_ODFINDITEM (Коммктрл. h)
 description: Отправляется виртуальным элементом управления "представление списка", когда ему требуется владелец для поиска конкретного элемента обратного вызова.
 ms.assetid: 5a3f9fed-0c57-46bf-b986-ea8b54290b5e
 keywords:
-- Элементы управления Windows для LVN_ODFINDITEM сообщений
+- элементы управления Windows сообщений LVN_ODFINDITEM
 topic_type:
 - apiref
 api_name:
@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 1a610f3de00e204bcdfbac51545553cebffe4c61
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104136654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362572"
 ---
 # <a name="lvn_odfinditem-message"></a>\_Сообщение ЛВН одфиндитем
 
@@ -61,9 +61,9 @@ LVN_ODFINDITEM
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 | Имя в кодировке Юникод и ANSI<br/>   | **ЛВН \_ ОДФИНДИТЕМВ** (Юникод) и **ЛВН \_ одфиндитема** (ANSI)<br/>             |
 
 

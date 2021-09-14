@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: c8b6ad22b67df863e699649f22f513a98ca1306751a1d449a683f306c9cc2938
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 58c3aee63005010b9ed7366cfb63a69fcc7348b9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119910394"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362548"
 ---
 # <a name="ccmdqueuenew-method"></a>Ккмдкуеуе. New, метод
 
@@ -133,7 +133,7 @@ virtual HRESULT New(
 
 \_При успешном выполнении возвращает значение ОК. Возвращает E \_ OUTOFMEMORY, если *ппкмд* возвращает из создания нового объекта [**кдеферредкомманд**](cdeferredcommand.md) со значением **null**. В противном случае возвращает **значение HRESULT** , указывающее на ошибку при попытке создать новый объект **кдеферредкомманд** . Если возникает ошибка, объект не помещается в очередь.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Новый объект [**кдеферредкомманд**](cdeferredcommand.md) будет инициализирован с параметрами и будет добавлен в очередь во время создания. Этот метод аналогичен методу **IDispatch:: Invoke** .
 
@@ -152,7 +152,7 @@ virtual HRESULT New(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -163,7 +163,7 @@ virtual HRESULT New(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

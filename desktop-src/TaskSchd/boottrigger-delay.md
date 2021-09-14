@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e286ce75fbcfab03f7e46cb6b58fda52343e3b9643f5d9eb462807d67b9c32c6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f6be91f00b79f2c2a47235a389b82ffb9255d586
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120034074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056640"
 ---
 # <a name="boottriggerdelay-property"></a>Буттригжер. Delay, свойство
 
@@ -40,11 +40,11 @@ BootTrigger.Delay As String
 
 Значение, указывающее промежуток времени между загрузкой системы и началом задачи. Формат этой строки — Пнинмндтнхнмнс, где Нью-то число лет, nM — это количество месяцев, а — число дней, равное, т. е. в качестве разделителя даты и времени, nH — это количество часов, а в качестве значения nS — количество секунд (например, PT5M указывает 5 минут, а P1M4DT2H5M — один месяц, четыре дня, два часа и пять минут).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При чтении или записи собственного XML-кода для задачи задержка загрузки указывается с помощью элемента [**delay**](taskschedulerschema-delay-boottriggertype-element.md) схемы планировщик задач.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -57,7 +57,7 @@ BootTrigger.Delay As String
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

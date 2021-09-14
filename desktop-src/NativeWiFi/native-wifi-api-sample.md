@@ -4,12 +4,12 @@ ms.assetid: 63af0b88-c20b-4b06-9db3-e8510fc80053
 title: Пример собственного API WiFi
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1ed28fadcd73eb4b3e632702078280ddba55d683c66decfdf03bc948182c52d1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 98ac72000363fcb91f013c3f55d4686335c0a59e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119801064"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057422"
 ---
 # <a name="native-wifi-api-sample"></a>Пример собственного API WiFi
 
@@ -39,7 +39,7 @@ ms.locfileid: "119801064"
 -   Получение, сохранение или удаление профиля. См. раздел [**вланжетпрофиле**](/windows/desktop/api/wlanapi/nf-wlanapi-wlangetprofile), [**влансетпрофиле**](/windows/desktop/api/wlanapi/nf-wlanapi-wlansetprofile)и [**вланделетепрофиле**](/windows/desktop/api/wlanapi/nf-wlanapi-wlandeleteprofile).
 -   Подключение или отключение от беспроводной сети. См. раздел [**вланконнект**](/windows/desktop/api/wlanapi/nf-wlanapi-wlanconnect) and [**вландисконнект**](/windows/desktop/api/wlanapi/nf-wlanapi-wlandisconnect).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

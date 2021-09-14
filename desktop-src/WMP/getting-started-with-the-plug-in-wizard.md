@@ -11,12 +11,12 @@ keywords:
 - Мастер подключаемых модулей
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2d2699d0316be93f6387bdc64c6671df868eaa70fb24a4ad3619026524106432
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8a4feb9cfa60c120bfc5bb675ea8a8078b95ad14
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118576583"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056390"
 ---
 # <a name="getting-started-with-the-plug-in-wizard"></a>начало работы с помощью мастера подключаемых модулей
 
@@ -86,7 +86,7 @@ ms.locfileid: "118576583"
 4.  Откройте папку, в которую вы установили Visual Studio. Разверните папку, чтобы просмотреть ее вложенные папки, и выберите папку с именем вкпрожектс.
 5.  Скопируйте три файла, перечисленные в шаге 2, в папку вкпрожектс. Теперь мастер установлен.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

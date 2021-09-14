@@ -8,13 +8,13 @@ keywords:
 - Разработка с помощью планировщик задач
 - Планировщик задач, страница портала
 ms.topic: article
-ms.date: 10/18/2019
-ms.openlocfilehash: 05edababae87c760f5506d8a40d18ef8dcc59ab35fa78b692cc76b5ad3b46579
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.date: 09/09/2021
+ms.openlocfilehash: cce9e1898be5de60517e4bb269df20e44f432b23
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118357747"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253399"
 ---
 # <a name="task-scheduler-for-developers"></a>планировщик задач для разработчиков
 

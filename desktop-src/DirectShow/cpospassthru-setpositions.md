@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 7d5ed5a25c5ceb4cbe96571ef83945fdf5edd1bbd373de875f7339c13c1b43dd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f8c61f24ab51ffe7fa161830ef9a0c8bdd167256
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119909194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362488"
 ---
 # <a name="cpospassthrusetpositions-method"></a>Кпоспасссру. Сетпоситионс, метод
 
@@ -77,7 +77,7 @@ HRESULT SetPositions(
 
 Возвращает значение **HRESULT** из подключенного ПИН-кода.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -88,7 +88,7 @@ HRESULT SetPositions(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

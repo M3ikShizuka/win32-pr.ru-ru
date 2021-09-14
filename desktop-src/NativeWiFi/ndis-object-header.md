@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - ntddndis.h
-ms.openlocfilehash: f9f4a4ef2a833081cde0c3c7ca4d395e59743944291a95d7680c241191988b35
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fe28a87eeb1457bace0b72a386bcb07667b24a64
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119065054"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057414"
 ---
 # <a name="ndis_object_header-structure"></a>\_ \_ Структура заголовка объекта NDIS
 
@@ -37,7 +37,7 @@ typedef struct _NDIS_OBJECT_HEADER {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -75,7 +75,7 @@ typedef struct _NDIS_OBJECT_HEADER {
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

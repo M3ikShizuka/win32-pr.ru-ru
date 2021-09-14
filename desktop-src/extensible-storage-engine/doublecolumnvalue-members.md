@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.doub
 ms:contentKeyID: 55100991
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 8751f252f45ba9019b815827eeff0c6f2f9229ef8b5135197c77d2aaf51b7063
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3bfb5ad97bc46b0fd98f3b49dcb04bf62d2b54fd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119623694"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127252856"
 ---
 # <a name="doublecolumnvalue-members"></a>Элементы Даублеколумнвалуе
 
@@ -164,9 +164,9 @@ ms.locfileid: "119623694"
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Даублеколумнвалуе](./doublecolumnvalue-class.md)
 

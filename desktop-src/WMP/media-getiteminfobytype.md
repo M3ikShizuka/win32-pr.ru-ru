@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: aa180834d70c8dd078beafc360400c931e7058994f1cc46d4e9abb011987d158
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bc2aff2bee7641075bbac1dd04526ee751ea077a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119135127"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056371"
 ---
 # <a name="mediagetiteminfobytype-method"></a>Метод Media. Жетитеминфобитипе
 
@@ -85,7 +85,7 @@ retVal = Media.getItemInfoByType(
 
 Для атрибутов, базовое значение которых является **логическим**, этот метод возвращает строку "true" или "false".
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод извлекает метаданные для отдельного элемента цифрового носителя или элемента мультимедиа, который является частью списка воспроизведения.
 
@@ -112,7 +112,7 @@ retVal = Media.getItemInfoByType(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

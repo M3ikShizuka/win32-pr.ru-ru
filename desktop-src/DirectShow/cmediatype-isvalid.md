@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 3611d36cfe19623840f102b820b2b312138b1e116d32fc399927da57e7f47300
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7d8e1731060021b61eb5037e1baeeda95021e8f5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119016270"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362529"
 ---
 # <a name="cmediatypeisvalid-method"></a>Кмедиатипе. IsValid, метод
 
@@ -44,7 +44,7 @@ BOOL IsValid() const;
 
 Возвращает **значение true** , если этому объекту был назначен основной тип. В противном случае возвращает **значение false**.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 По умолчанию объекты [**кмедиатипе**](cmediatype.md) инициализируются с помощью основного типа GUID \_ null. Вызовите этот метод, чтобы определить, правильно ли инициализирован объект.
 

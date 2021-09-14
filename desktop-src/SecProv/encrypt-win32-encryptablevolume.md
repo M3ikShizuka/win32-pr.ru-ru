@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Root\CIMV2\Security\MicrosoftVolumeEncryption
 ms.openlocfilehash: 968ff7f64a9a98a711210a4cfae64006c5a8f965
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122481030"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253429"
 ---
 # <a name="encrypt-method-of-the-win32_encryptablevolume-class"></a>Метод Encrypt \_ класса Win32 енкриптаблеволуме
 
@@ -138,7 +138,7 @@ uint32 Encrypt(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 8a7ba726-c2a6-4b7b-b664-3c6fcfbfb221
 title: Управление учетными записями пользователей (авторизация)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: da0092ed5d8de1c141ba4ee2ea31a498bd6954ba8401aafeb08e6a69b8d130f3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: be7f3cd8f31dda8f1b15145bc4003fc9ede8782c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119906834"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253645"
 ---
 # <a name="user-account-control-authorization"></a>Управление учетными записями пользователей (авторизация)
 

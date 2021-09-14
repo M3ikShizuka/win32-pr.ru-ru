@@ -4,12 +4,12 @@ ms.assetid: 395d7830-9a70-473a-8a89-4b4db48d5774
 title: Интерфейс Иенумтиме (Сдпблб. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1c79d780374bcf121dcb5010aef51725f9836e511bed4b86c855970bb47b838e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 2336f435ec322694847c776ac92ade93e8791207
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119992204"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056716"
 ---
 # <a name="ienumtime-interface"></a>Интерфейс Иенумтиме
 
@@ -34,7 +34,7 @@ ms.locfileid: "119992204"
 | [**Клонировать**](ienumtime-clone.md) | Создает другой перечислитель с тем же состоянием перечисления, что и текущий.<br/> |
 | [**Далее**](ienumtime-next.md)   | Возвращает указанное число следующих элементов в последовательности перечисления.<br/>                 |
 | [**Перезапуск**](ienumtime-reset.md) | Выполняет сброс до начала последовательности перечисления.<br/>                                    |
-| [**Сразу**](ienumtime-skip.md)   | Пропускает следующее заданное число элементов в последовательности перечисления.<br/>           |
+| [**Пропустить**](ienumtime-skip.md)   | Пропускает следующее заданное число элементов в последовательности перечисления.<br/>           |
 
 
 

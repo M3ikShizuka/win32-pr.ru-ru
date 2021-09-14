@@ -5,11 +5,11 @@ ms.assetid: 2087a84c-d302-4511-9f02-2d20ee9e0d8e
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 676b6428d6b7e79893214c2d234dcfc43992e190
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253207"
 ---
 # <a name="snego"></a>снего
 
@@ -28,7 +28,7 @@ ms.locfileid: "124369734"
 
 Если используется снего, вызовы метода [**кокуерипроксибланкет**](/windows/desktop/api/combaseapi/nf-combaseapi-coqueryproxyblanket) или [**кокуериклиентбланкет**](/windows/desktop/api/combaseapi/nf-combaseapi-coqueryclientblanket) будут возвращать снего в качестве службы проверки подлинности, а не действующей службы проверки подлинности, которая снего выбрана для установления соединения.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

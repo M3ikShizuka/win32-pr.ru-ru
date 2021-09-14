@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5deca3d7fa188c834f2ca952c9b6c4760a3a1b56c83eb8250e343257b8108de5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e67892f9e4cf6799f1b9311bb2cd47ec02744cb6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118883510"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056825"
 ---
 # <a name="counteritemwidth-property"></a>Каунтеритем. Width, свойство
 
@@ -56,7 +56,7 @@ Property Width As Long
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Ширина линии по умолчанию для первых 16 добавляемых счетчиков — 1. Ширина линии по умолчанию для следующих 16 счетчиков (счетчиков 17-32), которые вы добавили, равна 2. Ширина линии по умолчанию для следующих 16 счетчиков (счетчики 33 – 48), которые вы добавили, равна 3. После этого СИСМОН случайным образом выбирает толщину линии. Дополнительные сведения см. в разделе [**каунтеритем. Color**](counteritem-color.md).
 

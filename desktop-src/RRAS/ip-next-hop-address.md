@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 94f79b850c7d5f48e5f409e5380ad7345288187b8939b752b4f282b2274a99cd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1818a49e7977dbb4dfa31ebac1dae7651adb8d45
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117790968"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253729"
 ---
 # <a name="ip_next_hop_address-structure"></a>\_ \_ Структура адреса следующего ПРЫЖКа IP \_
 
@@ -40,7 +40,7 @@ typedef struct _IP_NEXT_HOP_ADDRESS {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -58,7 +58,7 @@ typedef struct _IP_NEXT_HOP_ADDRESS {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Структура **IP \_ - \_ \_ адреса следующего прыжка** является определением структуры [**IP- \_ сети**](ip-network.md) . Typedef находится в RTM. h.
 
@@ -70,7 +70,7 @@ typedef struct _IP_NEXT_HOP_ADDRESS {
 |-------------------------------------|----------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                        |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                             |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                   |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                   |
 | Заголовок<br/>                   | <dl> <dt>RTM. h</dt> </dl> |
 
 

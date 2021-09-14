@@ -4,12 +4,12 @@ description: В следующей таблице перечислены пре�
 ms.assetid: c09c14bd-61c4-4d4a-895c-0eaa26be0998
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3d18b4a69ce0bb017bc1528f9e66ba7aff43b24d535e1115973076882678b786
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3e68ecc782f7a30bc7e6019ca4ef08774e8974da
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117744970"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253231"
 ---
 # <a name="user-interface-element-reference"></a>Справочник по элементам пользовательского интерфейса
 
@@ -34,7 +34,7 @@ ms.locfileid: "117744970"
 | [**Элемент управления представления списка**](list-view-control.md)     | [**Элемент управления ToolTip**](tooltip-control.md)           |
 | [**Окно клиента MDI**](mdi-client-window.md)     | [**Заголовок окна**](title-bar.md)                       |
 | [**Строка меню**](menu-bar.md)                       | [**Элемент управления представлением в виде дерева**](tree-view-control.md)       |
-| [**Элемент меню**](menu-item.md)                     | [**Элемент управления "вверх/вниз"**](up-down-control.md)           |
+| [**Пункт меню**](menu-item.md)                     | [**Элемент управления "вверх/вниз"**](up-down-control.md)           |
 | [**Элемент управления "Календарь на месяц"**](calendar-control.md) | [**Окно**](window.md)                             |
 
 

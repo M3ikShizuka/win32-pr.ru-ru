@@ -13,11 +13,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 4b29596c5c39267181c6a2c301aede3f15ca7297
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104070251"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056760"
 ---
 # <a name="thread-manager"></a>Диспетчер потоков
 
@@ -37,7 +37,7 @@ ms.locfileid: "104070251"
 
 Диспетчер потоков также предоставляет клиентам уведомления о событиях. В TSF уведомления о событиях предоставляются с помощью приемника событий, который является COM-объектом. Чтобы получать уведомления от диспетчера потоков, клиент реализует объект [итфсреадмгревентсинк](/windows/desktop/api/Msctf/nn-msctf-itfthreadmgreventsink) и устанавливает приемник событий. Приемник событий устанавливается путем запроса диспетчера потоков для IID \_ итфсаурце и вызова [итфсаурце:: ADVISESINK](/windows/desktop/api/Msctf/nf-msctf-itfsource-advisesink) с IID \_ итфсреадмгревентсинк.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
@@ -56,6 +56,6 @@ ms.locfileid: "104070251"
 [Итфсаурце:: AdviseSink](/windows/desktop/api/Msctf/nf-msctf-itfsource-advisesink)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

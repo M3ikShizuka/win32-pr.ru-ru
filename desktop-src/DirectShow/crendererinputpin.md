@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: c2cfeb61d075804d61ba515d86641e56bf3cd9e1ab6aa6de826a8bb7206be4fd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7ec48b31170b2233f211e7e72de81d8792ae9160
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119908253"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362460"
 ---
 # <a name="crendererinputpin-class"></a>Класс Крендереринпутпин
 
@@ -39,7 +39,7 @@ ms.locfileid: "119908253"
 | [**бреакконнект**](crendererinputpin-breakconnect.md)           | Добавляет настраиваемый код при разрыве соединения.                                       |
 | [**комплетеконнект**](crendererinputpin-completeconnect.md)     | Завершает соединение.                                                              |
 | [**чеккмедиатипе**](crendererinputpin-checkmediatype.md)       | Определяет, может ли ПИН-код поддерживать конкретный тип носителя.                               |
-| [**Активен**](crendererinputpin-active.md)                       | Переключает ПИН-код в активный (приостановленный или запущенный) режим.                               |
+| [**Active**](crendererinputpin-active.md)                       | Переключает ПИН-код в активный (приостановленный или запущенный) режим.                               |
 | [**Неактивно**](crendererinputpin-inactive.md)                   | Переключает ПИН-код в неактивное состояние и освобождает память распределителя.        |
 | [**сетмедиатипе**](crendererinputpin-setmediatype.md)           | Задает тип носителя для ПИН-кода.                                                        |
 | [**Выделен**](crendererinputpin-allocator.md)                 | Извлекает указатель на распределитель памяти по умолчанию.                                   |
@@ -55,7 +55,7 @@ ms.locfileid: "119908253"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

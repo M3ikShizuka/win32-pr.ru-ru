@@ -4,12 +4,12 @@ ms.assetid: 50B95B7D-B860-44DF-8E78-1E7D2DC5A9B6
 title: Использование прямых функций Wi-Fi
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fa9a00a5474632ed54a84a7dc8cc5c64774e7cfe7547e6994acee599df2461ee
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8850f5b278a158e32f78118cf5d0d408c123192e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119684734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057385"
 ---
 # <a name="using-the-wi-fi-direct-functions"></a>Использование прямых функций Wi-Fi
 
@@ -43,7 +43,7 @@ ms.locfileid: "119684734"
 
 дополнительные сведения о Wi-Fi Direct для использования в приложениях для магазина Windows см. в разделе [**пирфиндер**](/uwp/api/Windows.Networking.Proximity.PeerFinder?view=winrt-19041) и связанные классы в [**Windows. Пространство имен Networking. близость**](/uwp/api/Windows.Networking.Proximity?view=winrt-19041) .
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

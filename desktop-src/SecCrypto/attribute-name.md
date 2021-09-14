@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: 3234d02e5e0f68817896f2d0c9d05be25b55bbe97f49fea4d34bafbab627b2c9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f71bb231941765dd073d44abd11c56152ea2d975
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117773658"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253534"
 ---
 # <a name="attributename-property"></a>Attribute.Name, свойство
 
@@ -53,7 +53,7 @@ Attribute.Name As CAPICOM_ATTRIBUTE
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Когда значение этого свойства сбрасывается прямо или косвенно, полное состояние объекта сбрасывается.
 

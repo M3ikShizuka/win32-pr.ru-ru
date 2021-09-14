@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: f1cc4056733dbd0e46639a921da65e5cb2a81f3601fa1ae00624be7d92ddc0e6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0f4ad88d10f4a2538cddbdc31fa90bc5496bc7f1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120051934"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362417"
 ---
 # <a name="idxtalphasetter-interface"></a>Интерфейс Идксталфасеттер
 
@@ -55,7 +55,7 @@ ms.locfileid: "120051934"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.

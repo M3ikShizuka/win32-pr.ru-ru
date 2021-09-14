@@ -4,12 +4,12 @@ ms.assetid: 1ebfb194-002f-40ac-9be5-267861b6687b
 title: Обзор систем MPEG-2
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d36b0ce6d98024187c9f194065520d388406f4feb95af6fd4df43b7a79e244e8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4206b36db7b3172c6e161745922e83490855c73c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119148557"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362345"
 ---
 # <a name="overview-of-mpeg-2-systems"></a>Обзор систем MPEG-2
 
@@ -57,7 +57,7 @@ ms.locfileid: "119148557"
 -   Таблицы условного доступа (CAT)
 -   Таблицы сетевых идентификаторов (NРЕКОМЕНДУЕТСЯ)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

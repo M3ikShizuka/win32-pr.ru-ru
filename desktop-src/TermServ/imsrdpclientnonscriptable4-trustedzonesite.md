@@ -37,11 +37,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: d791b5eff3346f61f999ea1f4f78bc41a5acea0e
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104415768"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056566"
 ---
 # <a name="imsrdpclientnonscriptable4trustedzonesite-property"></a>Свойство IMsRdpClientNonScriptable4:: Трустедзонесите
 
@@ -86,7 +86,7 @@ HRESULT get_TrustedZoneSite(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

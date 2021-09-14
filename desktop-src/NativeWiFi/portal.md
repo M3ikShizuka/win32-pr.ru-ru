@@ -4,12 +4,12 @@ ms.assetid: f257bd46-6077-4295-bb90-fbc0a63133f6
 title: Встроенный WiFi
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: de24ab117a366d494fd2ec2dbde21957ba5ed29d7ec0a71612b5b7645b716283
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3434ea26856d1baf785425739d076d9e1ed75b20
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119064984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057395"
 ---
 # <a name="native-wifi"></a>Встроенный WiFi
 
@@ -46,7 +46,7 @@ ms.locfileid: "119064984"
 
 дополнительные сведения о встроенном API Wifi в более ранних версиях Windows см. на [форуме Windows Vista wireless sdk](https://social.msdn.microsoft.com/Forums/b6bbd8f0-a921-480f-9b4b-845336462bc0/welcome-to-the-windows-vista-wireless-sdk-forum) или на [форуме по пакету sdk для беспроводных сетей Windows XP](https://social.msdn.microsoft.com/Forums/home?forum=xpwirelesssdk).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 06d8dd6f-7a8d-4da5-a99d-9c9d8fb90cfa
 title: Вспомогательные функции (API регистрации сертификатов)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c99282099f93482e3064a00eed146464a8d537e70d803b3b51389f92d9f93912
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e8ee272e7b11c3fccf7975c5356302a2961b32ba
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119669834"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056985"
 ---
 # <a name="helper-functions-certificate-enrollment-api"></a>Вспомогательные функции (API регистрации сертификатов)
 
@@ -27,7 +27,7 @@ ms.locfileid: "119669834"
 
 С помощью CertEnroll.dll можно вызвать метод [**стрингтовариантбитеаррай**](/windows/desktop/api/CertEnroll/nf-certenroll-ibinaryconverter-stringtovariantbytearray) в интерфейсе [**ибинариконвертер**](/windows/desktop/api/CertEnroll/nn-certenroll-ibinaryconverter) .
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 67482227-9df6-4e89-b16f-160a0bae6609
 title: Другие исходные объекты
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c8bbc1618cb7a76e87a4837fce3905a7c9ba7455b13297e779b8be8e80c40732
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b0c76c8f6cb104e87630f178a82d613675b96723
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119790914"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362373"
 ---
 # <a name="other-source-objects"></a>Другие исходные объекты
 
@@ -55,7 +55,7 @@ DES может использовать фильтр источника DirectSh
 
 Чтобы использовать настраиваемый источник, укажите идентификатор CLSID фильтра в качестве идентификатора GUID подобъекта исходного объекта. Дополнительные сведения см. в разделе [подобъекты](subobjects.md). Для поддержки пользовательских свойств реализуйте их как свойства "размещение" **IDispatch** . В исходных объектах поддерживаются только статические свойства. Динамические свойства не поддерживаются.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

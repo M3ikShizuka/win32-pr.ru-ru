@@ -4,12 +4,12 @@ ms.assetid: 3d3871ac-518c-45a1-9e64-031f344f4527
 title: фильтр оверлея Mixer 2
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d2a95303920b3894f668920c0012f9171a59222f
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.openlocfilehash: 9b51dceb2a7f82a91fe30275cacfaad4ad78eded
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122474960"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362372"
 ---
 # <a name="overlay-mixer-2-filter"></a>фильтр оверлея Mixer 2
 
@@ -25,7 +25,11 @@ ms.locfileid: "122474960"
 
 
 
-| | | Типы входных закрепления Тип формата: Format_VIDEOINFO2 | | Фильтровать CLSID | CLSID_OverlayMixer2 | | <a href="merit.md">Неуспешный</a> | <ul><li>MERIT_UNLIKELY</li><li>Windows Vista или более поздней версии: MERIT_DO_NOT_USE</li></ul> | 
+| Метка | Значение |
+|--------|-------|
+| Типы носителей входных закрепления | Тип формата: Format_VIDEOINFO2 | 
+| Фильтровать CLSID | CLSID_OverlayMixer2 | 
+| <a href="merit.md">Заслуживают</a> | <ul><li>MERIT_UNLIKELY</li><li>Windows Vista или более поздней версии: MERIT_DO_NOT_USE</li></ul> | 
 
 
 
@@ -34,7 +38,7 @@ ms.locfileid: "122474960"
 
 в Windows Vista и более поздних версиях фильтр оверлея Mixer 2 не \_ \_ \_ используется, так как новые модули подготовки видео (vmr-7, vmr-9 и евр) поддерживают форматы **VIDEOINFOHEADER2** , поэтому необязательно использовать наложение Mixer.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

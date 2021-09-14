@@ -5,11 +5,11 @@ ms.assetid: 2199258d-bde9-4fdb-b9c1-147616420fbe
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 7696755cd5f5cbe75de11d386cb238fa3bd5d35d
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104413484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057365"
 ---
 # <a name="group-functions"></a>Групповые функции
 
@@ -33,7 +33,7 @@ ms.locfileid: "104413484"
 
 
 
- 
+ 
 
 При вызове функции [**нетграупадд**](/windows/desktop/api/Lmaccess/nf-lmaccess-netgroupadd) для создания глобальной группы необходимо указать имя группы. Изначально новая группа не имеет членов.
 
@@ -58,6 +58,6 @@ ms.locfileid: "104413484"
 
 При программировании для Active Directory можно вызвать определенные методы интерфейса Active Directory (ADSI) для достижения тех же функций, которые можно достичь, вызвав функции группы управления сетью. Дополнительные сведения см. в разделе [**иадсграуп**](/windows/desktop/api/iads/nn-iads-iadsgroup).
 
- 
+ 
 
- 
+ 

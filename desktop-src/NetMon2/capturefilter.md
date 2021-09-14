@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Netmon.h
-ms.openlocfilehash: de5ab95ab395d50afb41223a458342706da1df7434d524f21c230436b3b9c7b6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 129575ba401aed0e78f52695a49139f4143c9c87
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117796364"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253918"
 ---
 # <a name="capturefilter-structure"></a>Структура КАПТУРЕФИЛТЕР
 
@@ -44,7 +44,7 @@ typedef struct _CAPTUREFILTER {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -135,7 +135,7 @@ typedef struct _CAPTUREFILTER {
 
 Сочетание флагов, значений и выражений определяет, какие кадры будут переданы драйвером, использующим эти данные структуры. Дополнительные сведения о реализации структуры **каптурефилтер** см. в разделе [фильтры записи](capture-filters.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

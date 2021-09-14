@@ -4,12 +4,12 @@ ms.assetid: 6afcbfec-b1df-45cd-8a43-221dfe5d8c33
 title: Приглашение однорангового узла в группу
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8760c2fb6023d5332da74402726669367fee4f5102c99269fa8e603653a1e2eb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 68b1e8852f58387d424944d4a8821f56b5e11e8d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118612654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057183"
 ---
 # <a name="inviting-a-peer-to-a-group"></a>Приглашение однорангового узла в группу
 

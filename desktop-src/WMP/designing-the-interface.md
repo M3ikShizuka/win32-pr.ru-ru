@@ -8,12 +8,12 @@ keywords:
 - Создание обложек, пользовательских интерфейсов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b6b11dee2a6236f2a279756644a88d69e267c5da93240b5e12c19c32d86e30a8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8070ef6fd4589f762624d7a0b5ee1d380a264066
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117749869"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056431"
 ---
 # <a name="designing-the-interface"></a>Проектирование интерфейса
 
@@ -36,7 +36,7 @@ ms.locfileid: "117749869"
 
 Вы можете запланировать эту первую и поэкспериментировать с размещением каждого элемента пользовательского интерфейса. Показанная здесь схема была выбрана для простоты и простоты использования.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

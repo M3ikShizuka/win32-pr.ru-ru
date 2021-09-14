@@ -14,12 +14,12 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 059ea8162241c61d88fc93f565fa0aa4ba8aee223212e6fab254ed9d5dec4eea
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cea2448111266696398d1581aaecdbec2fb5859e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119739174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127252940"
 ---
 # <a name="eapmethodtype-complex-type"></a>Сложный тип Еапмесодтипе
 
@@ -63,7 +63,7 @@ ms.locfileid: "119739174"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Элементы [**аусорид**](eapcommonschema-authorid-eapmethodtype-element.md) и [**VendorID**](eapcommonschema-vendorid-eapmethodtype-element.md) не обязательно должны быть одинаковыми для конкретного метода.
 

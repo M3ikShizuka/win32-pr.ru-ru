@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c27b7c6dbef585763ecfda1abdc7beadfa3d883476033424ff868a3d56c4bb96
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3d50d25488a05e6076c99802ce738edf02298ade
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118996304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056341"
 ---
 # <a name="mediacollectiongetattributestringcollection-method"></a>Медиаколлектион. Жетаттрибутестрингколлектион, метод
 
@@ -61,7 +61,7 @@ retVal = MediaCollection.getAttributeStringCollection(
 
 Этот метод возвращает объект **StringCollection** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы использовать этот метод, требуется доступ на чтение к библиотеке. Дополнительные сведения см. в разделе [доступ к библиотеке](library-access.md).
 
@@ -94,7 +94,7 @@ for (i = 0; i < all.count; i++){
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -105,7 +105,7 @@ for (i = 0; i < all.count; i++){
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

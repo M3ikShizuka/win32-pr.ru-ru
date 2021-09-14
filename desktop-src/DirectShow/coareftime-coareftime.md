@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: de2922805e43dd3d7c7e7c83336c8d33f8aafc87febbf690d5b54ee68a1ea250
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5874816d2a96809aaa27e547d6b1cb371b6ced7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119831834"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362492"
 ---
 # <a name="coareftimecoareftime-constructor-ctlutilh---no-parameters"></a>Коарефтиме. Коарефтиме-конструктор (Ктлутил. h) — нет параметров
 
@@ -40,7 +40,7 @@ COARefTime();
 
 Этот конструктор не имеет параметров.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 По умолчанию время ссылки равно нулю.
 

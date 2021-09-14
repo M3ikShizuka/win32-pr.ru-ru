@@ -25,11 +25,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 75a543c67f95aeb84e70b2f118b20e973e25aee5
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105684147"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127252745"
 ---
 # <a name="esenttoomanyindexesexception-constructor"></a>Конструктор Есенттуманиндексесексцептион
 
@@ -54,7 +54,7 @@ public EsentTooManyIndexesException()
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Есенттуманиндексесексцептион](./esenttoomanyindexesexception-class.md)
 

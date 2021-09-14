@@ -4,12 +4,12 @@ ms.assetid: 66efd5e5-e6c9-4179-b119-1b5b977b0f9f
 title: Резервное копирование и восстановление VSS для Active Directory
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9e8312e974d705cd193eaaecdaa163a2d408836aedfb14c21ff97f72486efbf7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d9d4441a05e06e67c23467887857a0f7bbcde73f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117751487"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056506"
 ---
 # <a name="vss-backup-and-restore-of-the-active-directory"></a>Резервное копирование и восстановление VSS для Active Directory
 

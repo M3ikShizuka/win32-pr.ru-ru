@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0bbb6faa0a2dc09b61817e214e7f5021e8de4e33223d7dc5fa20f3de48f3718a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d979fa4bfae882179248f6f4c81787b3b31ba17d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119738094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056607"
 ---
 # <a name="taskvariablessetoutput-method"></a>Тасквариаблес. Сетаутпут, метод
 
@@ -66,7 +66,7 @@ TaskVariables.SetOutput( _
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

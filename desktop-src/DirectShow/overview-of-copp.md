@@ -4,12 +4,12 @@ ms.assetid: 4421ab65-e44a-4d1f-8d9b-b187227429c6
 title: Общие сведения о Копп
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f0ce4c3ee838b5d3888f5c1071fd5a4659963f0e68b3d5447f0b563335bb7269
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 41fc83293c1914ed69700cabb9507841d03a7ad3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119633574"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362376"
 ---
 # <a name="overview-of-copp"></a>Общие сведения о Копп
 
@@ -39,7 +39,7 @@ ms.locfileid: "119633574"
 2.  Задайте требуемые уровни защиты, вызвав [**иамцертифиедаутпутпротектион::P ротектионкомманд**](/windows/desktop/api/Strmif/nf-strmif-iamcertifiedoutputprotection-protectioncommand).
 3.  Периодически запрашивает текущий локальный уровень защиты. Остановка воспроизведения при неожиданном изменении локального уровня защиты или обнаружении проблемы.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

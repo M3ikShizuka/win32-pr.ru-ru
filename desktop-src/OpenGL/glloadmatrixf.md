@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c3d822d784d6e24b15296a29da1c77b37b55af4211d2d9b5ce40a3c6a43c7fdf
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 1a0c54f4f7f7255b2dde724cf018d57fab6cf3e7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119492852"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253786"
 ---
 # <a name="glloadmatrixf-function"></a>Функция Гллоадматриксф
 
@@ -63,7 +63,7 @@ void WINAPI glLoadMatrixf(
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция **гллоадматрикс** заменяет текущую матрицу на ту, которая указана в *m*. Текущая матрица — матрица проекции, моделвиев матрица или Текстурная матрица, определяемая текущим режимом матрицы (см. [**глматриксмоде**](glmatrixmode.md)).
 
@@ -81,7 +81,7 @@ void WINAPI glLoadMatrixf(
 
 **глжет** с аргументом \_ \_ Матрица текстуры GL
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -95,7 +95,7 @@ void WINAPI glLoadMatrixf(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

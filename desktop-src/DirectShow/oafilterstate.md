@@ -4,12 +4,12 @@ ms.assetid: c0e5d581-a15a-4dd2-b38c-72285cfc2617
 title: Оафилтерстате (Control. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e3673b105c3000421bf604d356d1c99a73b1c9c323b7b12831b0c562a93c7462
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 75fbcb6b5c2ae67d851041bedd9b47ec18fa0401
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118152970"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362413"
 ---
 # <a name="oafilterstate"></a>оафилтерстате
 
@@ -22,7 +22,7 @@ typedef long OAFilterState;
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -32,7 +32,7 @@ typedef long OAFilterState;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

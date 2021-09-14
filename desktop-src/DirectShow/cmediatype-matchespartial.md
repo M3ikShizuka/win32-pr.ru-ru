@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: a6049ad4526d8776b25e81fe4d75b727196f8fa1251a1959662cca71b161fbc1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f4d2d4232b64857ca209e6b43cd7081a42495fee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119073978"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362528"
 ---
 # <a name="cmediatypematchespartial-method"></a>Кмедиатипе. Матчеспартиал, метод
 
@@ -53,11 +53,11 @@ BOOL MatchesPartial(
 
 Возвращает **значение true** , если типы мультимедиа совпадают. В противном случае возвращает **значение false**.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Тип носителя, заданный параметром *ппартиал* , может иметь значение GUID \_ null для основного типа, подтипа или типа формата. Все элементы со \_ значениями NULL GUID не проверяются. (По сути, GUID \_ NULL выступает в качестве подстановочного знака.) Элементы со значениями, отличными от GUID \_ null, должны соответствовать типу носителя.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ BOOL MatchesPartial(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

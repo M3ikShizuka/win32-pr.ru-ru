@@ -4,12 +4,12 @@ ms.assetid: 6BB5AABC-6281-4575-8189-477C57DF4F4F
 title: введение (Windows 7 и Windows Server 2008 R2 Quality Cookbook)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: dfb61f41644f74e22f8e4117854db90cc1bea025b3ff5399819eaa580eee39f7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4125c2bd122d239c155f089f06bef2f455ee121b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118994924"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253243"
 ---
 # <a name="introduction-windows-7-and-windows-server-2008-r2-application-quality-cookbook"></a>введение (Windows 7 и Windows Server 2008 R2 Quality Cookbook)
 

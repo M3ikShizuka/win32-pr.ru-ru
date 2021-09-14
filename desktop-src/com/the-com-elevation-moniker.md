@@ -5,11 +5,11 @@ ms.assetid: 1595ebb8-65af-4609-b3e7-a21209e64391
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: acc80774764cb99e63ed3334a8c0f9c8cedd2500
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369769"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253159"
 ---
 # <a name="the-com-elevation-moniker"></a>Специальное имя для повышения уровня COM
 
@@ -101,7 +101,7 @@ Elevation:Highest!new:{guid}
 Elevation:Administrator!clsid:{guid}
 ```
 
-## <a name="sample-code"></a>Пример кода
+## <a name="sample-code"></a>Образец кода
 
 В следующем примере кода показано, как использовать специальное имя для повышения прав. Предполагается, что уже инициализирован COM в текущем потоке.
 
@@ -325,7 +325,7 @@ ROTREGFLAGS_ALLOWANYCLIENT 0x1
 
 Эта запись предоставляет сервер "Активация в качестве активатора" с теми же функциональными возможностями, которые РОТФЛАГС \_ аллованиклиент предоставляет для сервера запуска от имени.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

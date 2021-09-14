@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 34abaa79431edc76ffc17488e8610e3b8c59b2c626d445d403bf2356d7f6982a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d3ddac3f456e1ab24574a4743983d20a828896e7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120054424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362469"
 ---
 # <a name="crendererinputpinreceive-method"></a>Крендереринпутпин. Receive, метод
 
@@ -53,11 +53,11 @@ HRESULT Receive(
 
 Возвращает значение **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод вызывает метод [**кбасерендерер:: Receive**](cbaserenderer-receive.md) фильтра, который обрабатывает отрисовку. В случае сбоя этого метода ПИН-код отправляет \_ событие EC еррораборт.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ HRESULT Receive(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Root\CIMV2\Security\MicrosoftVolumeEncryption
-ms.openlocfilehash: 79b9db0043e04d3ab6399677a9e103961d5f1a9b5c5214558bcf53359bedc61a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1de392c50f6665d793883582e2679cd502efbe37
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118892543"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253447"
 ---
 # <a name="disablekeyprotectors-method-of-the-win32_encryptablevolume-class"></a>Метод Дисаблекэйпротекторс \_ класса Win32 енкриптаблеволуме
 
@@ -65,11 +65,11 @@ uint32 DisableKeyProtectors(
 
  
 
-## <a name="security-considerations"></a>Соображения безопасности
+## <a name="security-considerations"></a>Вопросы безопасности
 
 Этот метод предоставляет ключ шифрования тома в открытом состоянии на жестком диске, отключив защиту тома. Мы советуем использовать пароль или ключ шифрования в виде открытого текста.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Новые предохранители ключа можно добавлять, даже если предохранители ключей отключены или приостановлены. Эти предохранители ключа останутся отключенными, если не будет вызван [**енаблекэйпротекторс**](enablekeyprotectors-win32-encryptablevolume.md) .
 

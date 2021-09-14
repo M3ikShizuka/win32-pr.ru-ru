@@ -11,12 +11,12 @@ keywords:
 - Пример подключаемого модуля Echo DSP, метод Цечо Финалконструкт
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bbeceeb9c0a7622ada62e98000ad4bfbc2e3faf08c22439039160810771cde8e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 876db9f2479644800c42354a041ad3b1909b526b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117748149"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056386"
 ---
 # <a name="implementing-cechofinalconstruct"></a>Реализация Цечо:: Финалконструкт
 
@@ -59,7 +59,7 @@ return S_OK;
 
 Обратите внимание, что значение DWORD для заданной позиции преобразуется в значение с плавающей запятой. Также обратите внимание, что код вычисляет правильное значение для m \_ фдримикс.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

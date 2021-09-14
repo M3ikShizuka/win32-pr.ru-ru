@@ -5,15 +5,15 @@ title: Интерфейс программирования приложений 
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 6b2a9d99a9e4319a1450ccbc72d3db32f6ec3d92
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122625640"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056661"
 ---
 # <a name="telephony-application-programming-interface-version-31"></a>Интерфейс программирования приложений телефонии, версия 3,1
 
-## <a name="purpose"></a>Цель
+## <a name="purpose"></a>Назначение
 
 Интерфейс программирования Microsoft телефонии (TAPI) 3,1 — это интерфейс API на основе модели COM, который выполняет слияние классической и IP-телефонии.
 
@@ -47,7 +47,7 @@ TAPI версии 3,1 позволяет разрабатывать коммун
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

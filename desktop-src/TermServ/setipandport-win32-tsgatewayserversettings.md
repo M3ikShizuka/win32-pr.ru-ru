@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: af40c52523869e07268a26d858e0e70b933431a6583998c9d0041f476678d243
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 88870cce628a94ca34b38ccf315edc87a1a734b3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119137977"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253357"
 ---
 # <a name="setipandport-method-of-the-win32_tsgatewayserversettings-class"></a>Метод Сетипандпорт \_ класса Win32 тсгатевайсерверсеттингс
 
@@ -106,7 +106,7 @@ uint32 SetIPAndPort(
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                                |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                           |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                           |
 | Пространство имен<br/>                | Корневой \\ CIMv2 \\ терминалсервицес<br/>                                                 |
 | MOF<br/>                      | <dl> <dt>TSGateway. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>AagWmi.dll</dt> </dl>    |

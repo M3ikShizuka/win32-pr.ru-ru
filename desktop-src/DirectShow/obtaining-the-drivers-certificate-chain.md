@@ -4,12 +4,12 @@ ms.assetid: bc7b346c-3382-4f2b-90b6-03f6a1a5a9ce
 title: Получение цепочки сертификатов драйверов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ea2641c27c3d24ab45a87b16e8c805228c316d9f89428cd29abbaff347b5aae0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0c3f46e395550ca4bcb02396fe09126c1232f2c2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119684564"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362388"
 ---
 # <a name="obtaining-the-drivers-certificate-chain"></a>Получение цепочки сертификатов драйверов
 
@@ -37,7 +37,7 @@ if (SUCCEEDED(hr))
 
 
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

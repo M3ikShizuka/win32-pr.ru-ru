@@ -19,12 +19,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f40e7d51ee0c92e50afca023629bb92de9f506b3e47ee9e520aa16c09640375b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c39635aee7b32430ace0ead0e3b007051a3c049d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119137467"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056508"
 ---
 # <a name="win32_tsvirtualdesktopserversettings-class"></a>\_Класс Win32 тсвиртуалдесктопсерверсеттингс
 
@@ -44,7 +44,7 @@ class Win32_TSVirtualDesktopServerSettings
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ тсвиртуалдесктопсерверсеттингс** имеет следующие типы членов:
 
@@ -102,7 +102,7 @@ class Win32_TSVirtualDesktopServerSettings
 | Требование | Значение |
 |-------------------------------------|--------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                                  |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                             |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                             |
 | Пространство имен<br/>                | Корневой \\ CIMV2 \\ терминалсервицес<br/>                                                   |
 | MOF<br/>                      | <dl> <dt>Тсвмхост. mof</dt> </dl>    |
 | DLL<br/>                      | <dl> <dt>TSVmHostWmi.dll</dt> </dl> |

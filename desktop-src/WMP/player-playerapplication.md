@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c47400fcba1cb1cd1679e747d4fdd49b155df921ec33a721f74df2ec25259600
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 401ebaae52efb746e7119419774d87d72c642fc4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118995854"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056312"
 ---
 # <a name="playerplayerapplication"></a>Player. Плайераппликатион
 
@@ -33,13 +33,13 @@ ms.locfileid: "118995854"
 
 Это свойство является объектом **плайераппликатион** , предназначенным только для чтения, или значением NULL.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 это свойство используется только при удаленном взаимодействии Windows Media плайерконтрол. если значение равно null, Windows Media плайерконтрол не внедряется в удаленном режиме.
 
 Это свойство доступно только в коде C++ или в коде скрипта в обложек через глобальную переменную Плайераппликатион.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -50,7 +50,7 @@ ms.locfileid: "118995854"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

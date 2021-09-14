@@ -149,12 +149,12 @@ api_type:
 - COM
 api_location:
 - Microsoft.Interop.Security.Azroles.dll
-ms.openlocfilehash: d16c72bb778029acdebb9fcf328d0d06a5e55c5b38f8f4b43520c2c8492ca064
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ff2b88b384107dbf202e39bf6243ed67461eb2e7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119907984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057059"
 ---
 # <a name="microsoftinteropsecurityazrolesiazauthorizationstore-interface"></a>Интерфейс Microsoft. Interop. Security. Азролес. Иазаусоризатионсторе
 
@@ -196,7 +196,7 @@ ms.locfileid: "119907984"
 | **Microsoft. Interop. Security. Азролес. Иазаусоризатионсторе. Делетеполициреадернаме**        | [**Иазаусоризатионсторе::D Елетеполициреадернаме**](/windows/desktop/api/Azroles/nf-azroles-iazauthorizationstore-deletepolicyreadername)<br/>               |
 | **Microsoft. Interop. Security. Азролес. Иазаусоризатионсторе. Делетепропертитем**            | [**Иазаусоризатионсторе::D Елетепропертитем**](/windows/desktop/api/Azroles/nf-azroles-iazauthorizationstore-deletepropertyitem)<br/>                       |
 | **Свойство Microsoft. Interop. Security. Азролес. Иазаусоризатионсторе..**                   | [**Иазаусоризатионсторе:: Property**](/windows/desktop/api/Azroles/nf-azroles-iazauthorizationstore-getproperty)<br/>                                     |
-| **Microsoft.Interop.Security.Azroles.IAzAuthorizationStore.Iniтиализе**                    | [**Иазаусоризатионсторе:: Initialize**](/windows/desktop/api/Azroles/nf-azroles-iazauthorizationstore-initialize)<br/>                                       |
+| **Microsoft. Interop. Security. Азролес. Иазаусоризатионсторе. Initialize**                    | [**Иазаусоризатионсторе:: Initialize**](/windows/desktop/api/Azroles/nf-azroles-iazauthorizationstore-initialize)<br/>                                       |
 | **Microsoft. Interop. Security. Азролес. Иазаусоризатионсторе. Опенаппликатион**               | [**Иазаусоризатионсторе:: Опенаппликатион**](/windows/desktop/api/Azroles/nf-azroles-iazauthorizationstore-openapplication)<br/>                             |
 | **Microsoft. Interop. Security. Азролес. Иазаусоризатионсторе. Опенаппликатионграуп**          | [**Иазаусоризатионсторе:: Опенаппликатионграуп**](/windows/desktop/api/Azroles/nf-azroles-iazauthorizationstore-openapplicationgroup)<br/>                   |
 | **Microsoft. Interop. Security. Азролес. Иазаусоризатионсторе. SetProperty**                   | [**Иазаусоризатионсторе:: SetProperty**](/windows/desktop/api/Azroles/nf-azroles-iazauthorizationstore-setproperty)<br/>                                     |
@@ -237,7 +237,7 @@ ms.locfileid: "119907984"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

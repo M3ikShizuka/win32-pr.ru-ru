@@ -5,11 +5,11 @@ title: Фильтр смешивания наложений
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 24b4134221efd43bdc2d72e864508440f7a105db
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122988307"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362377"
 ---
 # <a name="overlay-mixer-filter"></a>Фильтр смешивания наложений
 
@@ -34,7 +34,7 @@ ms.locfileid: "122988307"
 
 
 
-| Метка | Применение |
+| Метка | Значение |
 |--------|-------|
 | Интерфейсы фильтра | <a href="/windows/desktop/api/Strmif/nn-strmif-iamoverlayfx"><strong>Иамоверлайфкс</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-iamvideodecimationproperties"><strong>иамвидеодеЦиматионпропертиес</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-ibasefilter"><strong>ибасефилтер</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-iddrawexclmodevideo"><strong>иддравексклмодевидео</strong></a>, <a href="ikspropertyset.md"><strong>икспропертисет</strong></a>, <a href="/windows/desktop/api/Control/nn-control-imediaposition"><strong>IMediaPosition</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-imediaseeking"><strong>IMediaSeeking</strong></a>, <a href="/previous-versions/windows/desktop/api/Mixerocx/nn-mixerocx-imixerocx"><strong>IMixerOCX</strong></a>, <a href="/previous-versions/windows/desktop/api/Amvideo/nn-amvideo-iqualprop"><strong>IQualProp</strong></a>, <a href="/previous-versions/windows/desktop/api/Vpnotify/nn-vpnotify-ivpnotify"><strong>IVPNotify</strong></a>, <a href="/previous-versions/windows/desktop/api/vpnotify/nn-vpnotify-ivpnotify2"><strong>IVPNotify2</strong></a> | 
 | Типы носителей входных закрепления | Основной тип: MEDIATYPE_Video<br /> Подтипы<br /><ul><li>MEDIASUBTYPE_Overlay (только ПИН-код 0)</li><li>Форматы YUV для DirectDraw (только ПИН-код)</li><li>Форматы ускорения видео DirectDraw (только ПИН-код 0)</li><li>Форматы DirectDraw RGB (все входные ПИН-коды)</li></ul>Типы форматов:<br /><ul><li>Format_VIDEOINFO</li><li>Format_VIDEOINFO2</li></ul> | 
@@ -99,7 +99,7 @@ ms.locfileid: "122988307"
 
 можно также использовать монопольный режим DirectDraw для выполнения безоконной отрисовки (например, на веб-странице), но это не рекомендуется, поскольку наложение Mixer не выполняет смешанный режим в этом режиме. Это означает, что не удается отобразить данные из линии 21 или подизображения.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

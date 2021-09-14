@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 794cd84dd62518cc3089b8644f41b5545aeaf547b275c703a4cb87f5fec2b4a6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ed9a04df634fe54c82230ade679afb3259519173
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118883671"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056838"
 ---
 # <a name="counteritemscalefactor-property"></a>Каунтеритем. Скалефактор, свойство
 
@@ -44,7 +44,7 @@ Property ScaleFactor As Long
 
 **до Windows Vista:** Допустимы значения в диапазоне от-7 до 7 (значения соответствуют 0,0000001-1000000,0).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство следует задавать только в том случае, если требуется изменить коэффициент масштабирования по умолчанию счетчика (каждый счетчик определяет свой собственный коэффициент масштабирования). Значение этого свойства равно Integer. MaxValue, если счетчик использует коэффициент масштабирования по умолчанию для отображения значений.
 
@@ -60,7 +60,7 @@ Property ScaleFactor As Long
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

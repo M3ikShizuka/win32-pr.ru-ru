@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Root\CIMV2\Security\MicrosoftVolumeEncryption
-ms.openlocfilehash: c0d87eb21ea505b13ce3aacfe8be6ff1fa9d266ba2a781d6b8e6fc4d77dac10b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2a7772b1b65890fedbdbb8dcced1ad851f3845b3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119004362"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056941"
 ---
 # <a name="protectkeywithpassphrase-method-of-the-win32_encryptablevolume-class"></a>Метод Протекткэйвиспассфрасе \_ класса Win32 енкриптаблеволуме
 
@@ -109,7 +109,7 @@ uint32 ProtectKeyWithPassphrase(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 
