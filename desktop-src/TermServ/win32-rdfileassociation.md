@@ -23,11 +23,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: ac64cd38bdad748c64fe6f52cb7a6da8d8220cba
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103988518"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249739"
 ---
 # <a name="win32_rdfileassociation-class"></a>\_Класс Win32 рдфилеассоЦиатион
 
@@ -49,13 +49,13 @@ class Win32_RDFileAssociation
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ рдфилеассоЦиатион** имеет следующие типы членов:
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ рдфилеассоЦиатион** имеет следующие свойства.
 
@@ -73,7 +73,7 @@ class Win32_RDFileAssociation
 Квалификаторы: **ключ**
 </dt> </dl>
 
-Имя расширения имени файла, например TXT.
+Имя расширения имени файла, например .txt.
 
 </dd> <dt>
 
@@ -149,7 +149,7 @@ class Win32_RDFileAssociation
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                               |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                          |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                          |
 | Пространство имен<br/>                | Корневой \\ CIMV2 \\ терминалсервицес<br/>                                                |
 | MOF<br/>                      | <dl> <dt>Тсаллов. mof</dt> </dl>  |
 | DLL<br/>                      | <dl> <dt>TsPubWmi.dll</dt> </dl> |

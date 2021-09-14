@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55102265
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: cad7b525b6477c80eea86f829359ba517048f3f436e9957b5d514d211babcccb
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6c68d7c3db5881b3ca455e34f9cba53ed3d557e2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119851944"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249007"
 ---
 # <a name="esentmultivaluedduplicateexception-members"></a>Элементы Есентмултивалуеддупликатиксцептион
 
@@ -73,7 +73,7 @@ ms.locfileid: "119851944"
 </tr>
 <tr class="even">
 <td><img src="../images/dn292128.protproperty(exchg.10).gif" title="Защищенное свойство" alt="Protected property" /></td>
-<td><a href="/dotnet/api/system.exception.hresult#System_Exception_HResult">HResult</a></td>
+<td><a href="/dotnet/api/system.exception.hresult#System_Exception_HResult">Состав</a></td>
 <td>(Наследуется от <a href="/dotnet/api/system.exception">Exception</a>.)</td>
 </tr>
 <tr class="odd">
@@ -164,9 +164,9 @@ ms.locfileid: "119851944"
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Есентмултивалуеддупликатиксцептион](./esentmultivaluedduplicateexception-class.md)
 

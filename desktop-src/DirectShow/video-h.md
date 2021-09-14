@@ -4,12 +4,12 @@ ms.assetid: 5f7d5647-cdf0-4bb7-a4d5-09656c0ed702
 title: видео. h
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 107933fa85e9096adfa1910e517b5314cfa32bcba9d6d8d0a97b02c21398b0f7
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 654b413b39509dfd5ffcc31533470eb9d67c6295
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119964624"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127272952"
 ---
 # <a name="videoh"></a>видео. h
 

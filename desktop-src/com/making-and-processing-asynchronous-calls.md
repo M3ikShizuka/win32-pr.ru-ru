@@ -4,12 +4,12 @@ description: COM-объекты могут поддерживать асинхр
 ms.assetid: bf7f9f8e-66ce-41a4-854c-62dbe840a89e
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 173f33ea3a0d4ec59f994eeff259e776efa58ae5b0182ba97f77e1ba99dd0d82
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 059f55cc64a70f130e7fb654426803edbe8b7209
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119130206"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249232"
 ---
 # <a name="making-and-processing-asynchronous-calls"></a>Создание и обработка асинхронных вызовов
 

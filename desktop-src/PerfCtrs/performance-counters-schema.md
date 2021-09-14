@@ -4,12 +4,12 @@ ms.assetid: fa13d13a-f2e2-4732-8bf7-cb0a0f1d4ed7
 title: Схема счетчиков производительности
 ms.topic: article
 ms.date: 08/17/2020
-ms.openlocfilehash: 7e31aa6e42d185f95b142fac864dbaf725bbba456161c3484aba157c8afd6557
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5c41e9d54e259d6e53453a55cc97f7734ce793fe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119962374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250591"
 ---
 # <a name="performance-counters-schema"></a>Схема счетчиков производительности
 
@@ -34,7 +34,7 @@ ms.locfileid: "119962374"
 
 Если необходимо обновить набор счетчиков, удалите старый набор счетчиков с помощью [ средстваUnlodCtr.exe](/windows-server/administration/windows-commands/unlodctr_1) с `/G:` `/P:` параметрами или. После удаления старого CounterSet можно установить обновленный набор счетчиков.
 
-## <a name="schema"></a>Схема
+## <a name="schema"></a>схема
 
 Ниже приведена схема счетчиков производительности, которую можно использовать для проверки `counters` раздела манифеста. эта схема находится в Windows SDK как `counterman.xsd` . Дополнительные сведения о схеме, используемой для проверки раздела инструментирования в манифесте, см. в разделе [Евентманифест Schema](/windows/desktop/WES/eventmanifestschema-schema).
 

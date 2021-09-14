@@ -13,11 +13,11 @@ api_type:
 - Schema
 api_location: ''
 ms.openlocfilehash: 49a9cceffb308c64c8d1addf7c257b422751661f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105682601"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127272240"
 ---
 # <a name="oui-ouiheader-element"></a>Элемент OUI (Ауихеадер)
 
@@ -47,8 +47,8 @@ ms.locfileid: "105682601"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>       |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>       |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/> |
 
 
 

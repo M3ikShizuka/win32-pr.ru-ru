@@ -22,12 +22,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 41361959c56810036b8ca2e17d338e2ff1d3433c6e0384fd168a2d21d6e0e0f5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 65a0f1c9bf7905504ee3aa2ba6fff7e9804f4747
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119868454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249751"
 ---
 # <a name="win32_rdcentralpublishedfileassociation-class"></a>\_Класс Win32 рдцентралпублишедфилеассоЦиатион
 
@@ -50,7 +50,7 @@ class Win32_RDCentralPublishedFileAssociation
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ рдцентралпублишедфилеассоЦиатион** имеет следующие типы членов:
 
@@ -143,14 +143,14 @@ class Win32_RDCentralPublishedFileAssociation
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                                |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                           |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                           |
 | Пространство имен<br/>                | Корневой \\ CIMV2 \\ терминалсервицес<br/>                                                 |
 | MOF<br/>                      | <dl> <dt>Тскпуб. mof</dt> </dl>    |
 | DLL<br/>                      | <dl> <dt>TscPubWmi.dll</dt> </dl> |

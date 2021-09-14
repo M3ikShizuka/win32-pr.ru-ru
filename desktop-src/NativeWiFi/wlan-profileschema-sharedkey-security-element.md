@@ -12,12 +12,12 @@ api_name:
 api_type:
 - Schema
 api_location: ''
-ms.openlocfilehash: 41677a57a51a98e5b9773ff3dda5b6f5084839c8e03f264567f9621f34ec4eb4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: bfd138044e4849e5b0a42ab396561331bea9a338
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119912714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127272139"
 ---
 # <a name="sharedkey-security-element"></a>sharedKey (Security), элемент
 
@@ -74,7 +74,7 @@ ms.locfileid: "119912714"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 для Windows Vista и Windows Server 2008 данные, связанные с элементом **sharedKey** , шифруются перед сохранением в хранилище профилей.
 
@@ -84,7 +84,7 @@ ms.locfileid: "119912714"
 
 Для просмотра образцов профилей, использующих элемент **sharedKey** , см. пример [профиля без широковещательной рассылки](non-broadcast-profile-sample.md), [пример профиля WPA-личное](wpa-personal-profile-sample.md)и [профиль WPA2-Personal](wpa2-personal-profile-sample.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -96,7 +96,7 @@ ms.locfileid: "119912714"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

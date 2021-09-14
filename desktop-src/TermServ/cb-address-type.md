@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 50903baa9fe85685ef3390ee3d545dd7defff5288d0960d6a2d7ec6ebe2276ed
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9ecf17cea6ffc19743868b266236738839f9f917
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119001702"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249940"
 ---
 # <a name="cb_address_type-enumeration"></a>\_ \_ Перечисление типов адресов CB
 
@@ -71,7 +71,7 @@ typedef enum _CB_ADDRESS_TYPE {
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8<br/>                                                                  |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                        |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                        |
 | Заголовок<br/>                   | <dl> <dt>Кбклиент. h</dt> </dl> |
 
 

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: 7b5ba81aad49a33a987b2c16c072a6666776b665bf1bd936086a25d1ddd542f0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 30e0a532cd39f2150591a3eb74ed9bbba83a7080
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119408734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250321"
 ---
 # <a name="keyusageisnonrepudiationenabled-property"></a>Кэйусаже. Иснонрепудиатионенаблед, свойство
 
@@ -39,7 +39,7 @@ KeyUsage.IsNonRepudiationEnabled As Boolean
 
 Если **значение равно true**, бит нонрепудиатионенаблед установлен.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

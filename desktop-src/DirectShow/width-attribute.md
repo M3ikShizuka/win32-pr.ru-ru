@@ -4,12 +4,12 @@ ms.assetid: 3fcc28d8-b7ef-474b-8594-b31422974998
 title: Атрибут Width
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8249888c2016993879d3c27460efa035531a1ed1e7f7fcee3bf3aa94a3b584cf
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 1b7480f80fdd1f862f1018a2e1909e68c68526bd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119982274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127272672"
 ---
 # <a name="width-attribute"></a>Атрибут Width
 
@@ -28,7 +28,7 @@ ms.locfileid: "119982274"
 
 [**сгруппировать**](group-element.md)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Устанавливайте этот атрибут только в том случае, если атрибут **Type** имеет значение `video` .
 

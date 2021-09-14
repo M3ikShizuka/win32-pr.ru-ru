@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 040a0e4d16d49e358979b460e55e51451d041dfbdc13dcd7129fda1767d62d19
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6d81e2ac1cbf6645a3ce955f3045cfdf5c19b5d7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118332089"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249526"
 ---
 # <a name="wmmood-attribute"></a>Атрибут WM/настроение
 
@@ -28,7 +28,7 @@ ms.locfileid: "118332089"
 -   [Звуковые элементы](audio-item-attributes.md)
 -   [часто используемые Windows атрибуты файла мультимедиа](commonly-used-windows-media-file-attributes.md)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут хранится только в цифровом файле мультимедиа.
 

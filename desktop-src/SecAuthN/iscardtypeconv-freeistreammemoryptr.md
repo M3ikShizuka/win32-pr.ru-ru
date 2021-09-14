@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Scardssp.dll
-ms.openlocfilehash: 62e91f9d8fca06c812370091b407edb73fed433a4c576857a7e089db28d6d856
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 12912b8130ed6e1ccaa995f88069b59e96f57c09
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118922393"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250465"
 ---
 # <a name="iscardtypeconvfreeistreammemoryptr-method"></a>Метод Искардтипеконв:: Фриистреаммемориптр
 
@@ -73,7 +73,7 @@ HRESULT FreeIStreamMemoryPtr(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция полностью и четко освобождает указатель на байт, указывающий на блок памяти ХГЛОБАЛ, управляемый интерфейсом **IStream** . Указатель байтов запрашивается при вызове [**жетатистреаммемори**](iscardtypeconv-getatistreammemory.md).
 
@@ -86,7 +86,7 @@ HRESULT FreeIStreamMemoryPtr(
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                                                   |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
 | Заголовок<br/>                   | <dl> <dt>Скарддат. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Скарддат. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Scardssp.dll</dt> </dl> |

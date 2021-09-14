@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 6d14d59e801afcdf69bec2f1169d5c5b14469e8b13ac3f4c593955c7e235c7b4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e20cfebe0a3359a99770cbd242501649bf93f86e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119629144"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127272499"
 ---
 # <a name="sessionmessage-method"></a>Session. Message, метод
 
@@ -42,7 +42,7 @@ Session.Message(
 
 <dl> <dt>
 
-*особого* 
+*kind* 
 </dt> <dd>
 
 Параметр *Kind* должен иметь одно из следующих значений. Чтобы отобразить окно сообщения с кнопками и значками, Вычислите значение *типа* , добавив стандартные стили окна сообщения, используемые [**MessageBox**](/windows/win32/api/winuser/nf-winuser-messagebox) и [**мессажебоксекс**](/windows/win32/api/winuser/nf-winuser-messageboxexa) , в **мсимессажетипиррор**, **мсимессажетипеварнинг** или **мсимессажетипеусер**. Дополнительные сведения см. в разделе "Примечания" ниже.
@@ -83,7 +83,7 @@ Session.Message(
 
 | Константа                                                                                              | Значение         |
 |-------------------------------------------------------------------------------------------------------|---------------|
-| <dl> <dt>**мсимессажестатусеррор**</dt> </dl>  | –1<br/> |
+| <dl> <dt>**мсимессажестатусеррор**</dt> </dl>  | -1<br/> |
 | <dl> <dt>**мсимессажестатусноне**</dt> </dl>   | 0<br/>  |
 | <dl> <dt>**мсимессажестатусок**</dt> </dl>     | 1<br/>  |
 | <dl> <dt>**мсимессажестатусканцел**</dt> </dl> | 2<br/>  |
@@ -97,7 +97,7 @@ Session.Message(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 **Поля записей сообщений**
 

@@ -4,12 +4,12 @@ ms.assetid: 0dd18add-6c7e-40a8-8b39-10c65bdfb2e0
 title: 'Итмедиа: метод ut_MediaName:p (Сдпблб. h)'
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d77ffde28406b7fb527ed8679d1f65d6aba537e611b69d1ad31e8679f59fd0e9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 66dcbd4e29f59694d610fb4e6af9fd49aa53323d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119003342"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250267"
 ---
 # <a name="itmediaput_medianame-method"></a>Итмедиа::p UT \_ MediaName метод
 
@@ -57,13 +57,13 @@ HRESULT put_MediaName(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Приложение должно использовать [**сисаллокстринг**](/windows/win32/api/oleauto/nf-oleauto-sysallocstring) для выделения памяти для параметра *Пмедианаме* и использовать [**сисфристринг**](/windows/win32/api/oleauto/nf-oleauto-sysfreestring) для освобождения памяти, когда переменная больше не нужна.
 
 Эта функция может передавать данные по сети в незашифрованном виде; Таким образом, кто-то, кто прослушивает сеть, может прочитать данные. Прежде чем использовать этот метод, следует учесть угрозу безопасности при отправке данных в виде открытого текста.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ HRESULT put_MediaName(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

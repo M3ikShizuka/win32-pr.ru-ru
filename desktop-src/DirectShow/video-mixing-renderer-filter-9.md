@@ -5,11 +5,11 @@ title: Фильтр визуализации 9 для микшера видео
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 46e20418aad6b9648835665fff98f894eeed1386
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122986247"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127272931"
 ---
 # <a name="video-mixing-renderer-filter-9"></a>Фильтр визуализации 9 для микшера видео
 
@@ -24,15 +24,15 @@ VMR-9 поддерживает до 16 мониторов.
 
 
 
-| Метка | Применение |
+| Метка | Значение |
 |--------|-------|
 | Интерфейсы фильтра | VMR-9 поддерживает несколько различных режимов рендеринга. Он поддерживает другой набор интерфейсов в зависимости от режима рендеринга.<br /><ul><li>Все режимы: <a href="/windows/desktop/api/Strmif/nn-strmif-iamcertifiedoutputprotection"><strong>иамцертифиедаутпутпротектион</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-iamfiltermiscflags"><strong>иамфилтермискфлагс</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-ibasefilter"><strong>ибасефилтер</strong></a>, <a href="/windows/desktop/api/Control/nn-control-imediaposition"><strong>имедиапоситион</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-imediaseeking"><strong>имедиасикинг</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-iqualitycontrol"><strong>IQualityControl</strong></a>, <a href="/previous-versions/windows/desktop/api/Amvideo/nn-amvideo-iqualprop"><strong>IQualProp</strong></a>, <a href="/previous-versions/windows/desktop/api/Vmr9/nn-vmr9-ivmraspectratiocontrol9"><strong>IVMRAspectRatioControl9</strong></a>, <a href="/previous-versions/windows/desktop/api/Vmr9/nn-vmr9-ivmrdeinterlacecontrol9"><strong>IVMRDeinterlaceControl9</strong></a>, <a href="/previous-versions/windows/desktop/api/Vmr9/nn-vmr9-ivmrfilterconfig9"><strong>IVMRFilterConfig9</strong></a>, <a href="/previous-versions/windows/desktop/api/Vmr9/nn-vmr9-ivmrmixerbitmap9"><strong>IVMRMixerBitmap9</strong></a>, <a href="/previous-versions/windows/desktop/api/Vmr9/nn-vmr9-ivmrmixercontrol9"><strong>IVMRMixerControl9</strong></a></li><li>Режим безрендеринга: <a href="/previous-versions/windows/desktop/api/Vmr9/nn-vmr9-ivmrsurfaceallocatornotify9"> <strong>IVMRSurfaceAllocatorNotify9</strong></a></li><li>Оконный режим: <a href="/windows/desktop/api/Control/nn-control-ibasicvideo"><strong>ибасиквидео</strong></a>, <a href="/windows/desktop/api/Control/nn-control-ibasicvideo2"><strong>IBasicVideo2</strong></a>, <a href="/windows/desktop/api/Control/nn-control-ivideowindow"><strong>ивидеовиндов</strong></a>, <a href="/previous-versions/windows/desktop/api/Vmr9/nn-vmr9-ivmrmonitorconfig9"><strong>IVMRMonitorConfig9</strong></a></li><li>Режим без окон: <a href="/previous-versions/windows/desktop/api/Vmr9/nn-vmr9-ivmrmonitorconfig9"><strong>IVMRMonitorConfig9</strong></a>, <a href="/previous-versions/windows/desktop/api/Vmr9/nn-vmr9-ivmrwindowlesscontrol9"><strong>IVMRWindowlessControl9</strong></a></li></ul>Чтобы задать режим рендеринга, вызовите метод <a href="/previous-versions/windows/desktop/api/Vmr9/nf-vmr9-ivmrfilterconfig9-setrenderingmode"><strong>IVMRFilterConfig9:: сетрендерингмоде</strong></a>. Дополнительные сведения см. в статье <a href="vmr-modes-of-operation.md">режимы VMR в операции</a>.<br /> | 
 | Типы носителей входных закрепления | Входные контакты будут подключаться с любым типом, поддерживаемым базовым видеооборудованием. | 
 | Интерфейсы входных закрепления | <a href="/previous-versions/windows/desktop/api/videoacc/nn-videoacc-iamvideoaccelerator"><strong>Иамвидеоакцелератор</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-imeminputpin"><strong>имеминпутпин</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-ioverlay"><strong>иоверлай</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-iqualitycontrol"><strong>икуалитиконтрол</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-ipin"><strong>Ипин</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-ipinconnection"><strong>ипинконнектион</strong></a>, <a href="/previous-versions/windows/desktop/api/Vmr9/nn-vmr9-ivmrvideostreamcontrol9"><strong>IVMRVideoStreamControl9</strong></a> | 
-| Типы носителей для выходного ПИН-кода | Не применяется | 
-| Интерфейсы выходного ПИН-кода | Не применяется | 
+| Типы носителей для выходного ПИН-кода | Неприменимо. | 
+| Интерфейсы выходного ПИН-кода | Неприменимо. | 
 | Фильтровать CLSID | CLSID_VideoMixingRenderer9 | 
-| CLSID страницы свойств | Н/Д | 
+| CLSID страницы свойств | Недоступно | 
 | Исполняемый объект | Quartz.dll | 
 | <a href="merit.md">Заслуживают</a> | MERIT_DO_NOT_USE | 
 | <a href="filter-categories.md">Категория фильтра</a> | CLSID_LegacyAmFilterCategory | 

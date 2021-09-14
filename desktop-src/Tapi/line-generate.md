@@ -4,12 +4,12 @@ ms.assetid: 375823c5-22c2-4010-bfb4-5b8b46141c72
 title: Сообщение LINE_GENERATE (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bd3ab0d503d7515fec2cdbd1676eed235cced88e2adfa9fcc1dd354663929e95
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b916dc95d1a6343b0f8ebc0eef9e589b04aa2112
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119774244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250117"
 ---
 # <a name="line_generate-message"></a>\_Сообщение создания строки
 
@@ -65,7 +65,7 @@ ms.locfileid: "119774244"
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сообщение **о \_ формировании строки** отправляется приложению, которое запросило создание цифры или тона.
 

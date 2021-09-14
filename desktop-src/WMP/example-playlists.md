@@ -25,12 +25,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 6131e14f8bc6b0cbd93cd3e2aec853e5ec6b3629b4cda05862b6ec461d8e32cc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 59fa7266985d2d08234f2bfdcac8b1518e355a6d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119650224"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249673"
 ---
 # <a name="example-playlists"></a>Примеры списков воспроизведения
 
@@ -38,7 +38,7 @@ ms.locfileid: "119650224"
 
 
 
-| Пример списка воспроизведения                                                           | Описание                                               |
+| Пример списка воспроизведения                                                           | Описание:                                               |
 |----------------------------------------------------------------------------|-----------------------------------------------------------|
 | [Базовый список воспроизведения](a-basic-playlist.md)                                   | Простой список воспроизведения.                                        |
 | [Расширенный список воспроизведения](an-advanced-playlist.md)                           | Список воспроизведения с более полным набором элементов списка воспроизведения. |

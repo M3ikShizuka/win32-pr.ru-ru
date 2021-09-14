@@ -4,12 +4,12 @@ ms.assetid: 1b12f65f-8d77-4d38-aad9-92bb15cc0426
 title: Фильтр модуля записи WM ASF (DirectShow)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9281d09e609bd51bc0d0ab42291bd183e782df447e918d3c478e4e857063c21b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0bf09a99673b07e88198fd57b95a766ce821eb02
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118650825"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127272611"
 ---
 # <a name="wm-asf-writer-filter-directshow"></a>Фильтр модуля записи WM ASF (DirectShow)
 
@@ -36,7 +36,7 @@ ms.locfileid: "118650825"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 для этого фильтра требуется пакет средств разработки программного обеспечения (SDK) Windows Media Format и его зависимые компоненты.
 

@@ -4,12 +4,12 @@ ms.assetid: 6a58e77b-6ee2-4d2d-aca2-71b239f6a1dc
 title: Сообщение LINE_DEVSPECIFIC (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: aca1ba410ac3127ff917965e8eda7c579be68dab5150c6dcae63a1930a98d265
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 91907b10c0176258648fa165bbeb922a61a402ed
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119975674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250150"
 ---
 # <a name="line_devspecific-message"></a>Строка \_ сообщения девспеЦифик
 
@@ -65,7 +65,7 @@ ms.locfileid: "119975674"
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сообщение **Line \_ девспеЦифик** используется поставщиком услуг в сочетании с функцией [**линедевспеЦифик**](/windows/desktop/api/Tapi/nf-tapi-linedevspecific) . Его значение зависит от конкретного устройства.
 

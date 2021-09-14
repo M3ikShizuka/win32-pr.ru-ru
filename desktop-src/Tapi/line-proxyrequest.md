@@ -4,12 +4,12 @@ ms.assetid: 7f33de55-2482-4558-bd86-ee2ac1e31269
 title: Сообщение LINE_PROXYREQUEST (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 31986420cd21178cca8e6f0a1006e743c3250e726b4a1bf79513f6d57e380a01
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d536e85a9c773626bb5aacc4745d9d82817fe3c0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119003162"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250084"
 ---
 # <a name="line_proxyrequest-message"></a>Строка \_ сообщения проксирекуест
 
@@ -65,7 +65,7 @@ ms.locfileid: "119003162"
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сообщение **Line \_ проксирекуест** отправляется только первому приложению, зарегистрированному для обработки запросов прокси-сервера типа, для которого выполняется доставка.
 

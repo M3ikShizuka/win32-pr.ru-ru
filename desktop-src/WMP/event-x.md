@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a5e5ad77f05deff7d119c4dd4fe5409d53dba9deee51dd6eff05b73bce3c4c50
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cd2a00c0b898eaedbcd12827d5407f4783a845a8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119650344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249679"
 ---
 # <a name="eventx"></a>событие. x
 
@@ -31,7 +31,7 @@ event.x
 
 Этот атрибут является **числом** только для чтения (**длинное целое**).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ event.x
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

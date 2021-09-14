@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 08b9ea7e483f6580e3f896a6a3f54a65e9117597538564889df8a5afb2fe795f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2d2392f2240ca9ca61525b27993e16bcab979a97
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120033484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250630"
 ---
 # <a name="hexint32type-simple-type-performance-counters"></a>Простой тип HexInt32Type (счетчики производительности)
 
@@ -40,7 +40,7 @@ ms.locfileid: "120033484"
 
     Значение может содержать от одного до восьми шестнадцатеричных символов (например, 0xA или 0xac7bd361).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -8,12 +8,12 @@ keywords:
 - установка проигрыватель Windows Media обложек мобильных устройств
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 833db89aa902c88f0e6394c31e722dd7a35044a7f6b08b2c48f6ff0f8b71c261
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c9684e78cae2486acda6bad7c4816f3d9363ffd2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117747950"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249562"
 ---
 # <a name="installing-your-skin"></a>Установка обложки
 

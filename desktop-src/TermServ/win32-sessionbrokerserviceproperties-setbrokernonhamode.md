@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 34daa0817056975a6b15164dd29edcbcc86cd7cd9475f753e91500845ce089a7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0ef811bf8024f8e89f9739461dfa8499891077f3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119058413"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249727"
 ---
 # <a name="setbrokernonhamode-method-of-the-win32_sessionbrokerserviceproperties-class"></a>Метод Сетброкернонхамоде \_ класса Win32 сессионброкерсервицепропертиес
 
@@ -57,7 +57,7 @@ uint32 SetBrokerNonHAMode(
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                              |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                         |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                         |
 | Пространство имен<br/>                | Корневой \\ CIMv2 \\ терминалсервицес<br/>                                               |
 | MOF<br/>                      | <dl> <dt>Тссдвми. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>TssdWmi.dll</dt> </dl> |

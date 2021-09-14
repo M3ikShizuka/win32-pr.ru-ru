@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Оператор LIKE
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c2e5df500091fac8b15bcdcb448b7a97fc00dc62807ba854757e447f07e6f4e9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9091f44dd131d5d2c30d2d46aa4fc109dcdf02b7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118317873"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249358"
 ---
 # <a name="like-operator"></a>Оператор LIKE
 
@@ -39,7 +39,7 @@ ms.locfileid: "118317873"
 
 `SELECT * FROM meta_class WHERE __CLASS LIKE "%[_][_]%"`
 
-Оператор LIKE можно инвертировать с помощью оператора NOT; чтобы сделать это, не забудьте поместить не непосредственно перед именем поля. Пример.
+Оператор LIKE можно инвертировать с помощью оператора NOT; чтобы сделать это, не забудьте поместить не непосредственно перед именем поля. Пример:
 
 `  Get-WmiObject -computerName "." -query 'Select * FROM Win32_Printer WHERE Local="TRUE"      AND Network ="False" AND DriverName LIKE "%HP%"      AND NOT PortName LIKE "%10.%" AND NOT PortName LIKE "%\\%"'`
 

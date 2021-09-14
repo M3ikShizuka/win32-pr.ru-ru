@@ -5,12 +5,12 @@ ms.assetid: c3688319-dbe7-4be5-8895-622a8f8797d2
 ms.tgt_platform: multiple
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c19590d32db21ad08e1d31cbe02e0850bd0964282c8f709207837c3c2a638a12
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3b93169b248fb086b7ccad88aa57c0feae171f91
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118131293"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249967"
 ---
 # <a name="guidelines-for-background-tasks-in-remote-desktop-services"></a>Рекомендации для фоновых задач в службы удаленных рабочих столов
 

@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 42a57c6bc9d03f604043d87d3211feca3d7c441c118c72bf03bb5ad64c682a75
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d6e71909604368698606e812e422eeee07ad5530
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120033424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250570"
 ---
 # <a name="structs-counterset-element"></a>Элемент structs (CounterSet)
 
@@ -28,11 +28,11 @@ ms.locfileid: "120033424"
 
 Элемент **structs** определяется сложным типом [**счетчика**](performance-counters-counterset-complex-type.md) .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Используется только поставщиками режима ядра.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ ms.locfileid: "120033424"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

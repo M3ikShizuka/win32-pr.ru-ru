@@ -5,11 +5,11 @@ title: Сообщение LINE_CALLINFO (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: d6005ab5383816ead440f5a1a7d580bfaccb5c1f
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105688823"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250216"
 ---
 # <a name="line_callinfo-message"></a>Строка \_ сообщения каллинфо
 
@@ -85,7 +85,7 @@ ms.locfileid: "105688823"
 | Требование | Значение |
 |-------------------------|-----------------------------------------------------------------------------------|
 | Версия TAPI<br/> | Требуется TAPI 2,0 или более поздней версии<br/>                                             |
-| Header<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
+| Заголовок<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
 
 
 

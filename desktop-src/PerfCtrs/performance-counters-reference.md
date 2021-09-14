@@ -4,12 +4,12 @@ ms.assetid: 8600f48f-0ef5-4ac2-bdb9-6d9700cae306
 title: Справочник по счетчикам производительности
 ms.topic: article
 ms.date: 08/17/2020
-ms.openlocfilehash: ca2d7f0593aff143ab4612c5ed9489bb8a48c76e7726d2289f8387fcb38a257e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e716d44c08a847f7f64dc07bc4382faa9adf8f0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119775304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250594"
 ---
 # <a name="performance-counters-reference"></a>Справочник по счетчикам производительности
 

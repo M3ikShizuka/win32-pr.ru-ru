@@ -8,11 +8,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: ef1d67e98d9c5990d6cfc5e0a10dbd25cd59d089
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103986493"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249808"
 ---
 # <a name="whats-new-in-remote-desktop-services"></a>Новые возможности службы удаленных рабочих столов
 
@@ -29,24 +29,24 @@ ms.locfileid: "103986493"
 
 </dd> <dt>
 
-[Новые возможности Windows 7](what-s-new-in-windows-7.md)
+[новые возможности Windows 7](what-s-new-in-windows-7.md)
 </dt> <dd>
 
-В Windows 7 появились следующие новые программные элементы для службы удаленных рабочих столов.
+в Windows 7 появились следующие новые программные элементы для службы удаленных рабочих столов.
 
 </dd> <dt>
 
-[Новые возможности Windows Server 2008 R2](what-s-new-in-windows-server-2008-r2.md)
+[новые возможности Windows Server 2008 R2](what-s-new-in-windows-server-2008-r2.md)
 </dt> <dd>
 
-В Windows Server 2008 R2 появились следующие новые программные элементы для службы удаленных рабочих столов.
+Windows Сервер 2008 R2 предоставляет следующие новые программные элементы для службы удаленных рабочих столов.
 
 </dd> <dt>
 
-[Новые возможности Windows Server 2008](what-s-new-in-windows-server-2008.md)
+[новые возможности Windows Server 2008](what-s-new-in-windows-server-2008.md)
 </dt> <dd>
 
-В Windows Server 2008 появились следующие новые программные элементы для служб терминалов.
+Windows В сервере 2008 появились следующие новые программные элементы для служб терминалов.
 
 </dd> <dt>
 
@@ -57,9 +57,9 @@ ms.locfileid: "103986493"
 
 </dd> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

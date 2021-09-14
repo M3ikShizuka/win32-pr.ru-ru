@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Ncrypt.dll
-ms.openlocfilehash: bab1451ada84576ee33623dfdaa7d8dcad189e6d4ef8050b0b79fafaba11b49c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6fd5c10ce6385e377c72d21f4557d27d2345737d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118905653"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250345"
 ---
 # <a name="sslopenprivatekey-function"></a>Функция Сслопенприватекэй
 
@@ -82,7 +82,7 @@ SECURITY_STATUS WINAPI SslOpenPrivateKey(
 
 
 
-| Возвращаемый код и значение                                                                                                                                                       | Описание                                                              |
+| Возвращаемый код и значение                                                                                                                                                       | Описание:                                                              |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | <dl> Не <dt>**превышать \_ НЕТ \_**</dt> <dt>0x8009000EL</dt> памяти </dl>         | Недостаточно памяти для выделения необходимых буферов.<br/> |
 | <dl> Не <dt>**превышать \_ Недопустимый 0x80090026L \_ Handle**</dt> <dt></dt> </dl>    | Недопустимый маркер *хсслпровидер* .<br/>                       |
@@ -92,11 +92,11 @@ SECURITY_STATUS WINAPI SslOpenPrivateKey(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Полученный закрытый ключ является частью пары из [*открытого и закрытого ключей*](/windows/desktop/SecGloss/p-gly) в [*сертификате*](/windows/desktop/SecGloss/c-gly). Эта функция просто извлекает закрытый ключ из сертификата, указанного параметром *пцертконтекст* .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -104,7 +104,7 @@ SECURITY_STATUS WINAPI SslOpenPrivateKey(
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                     |
-| Header<br/>                   | <dl> <dt>Сслпровидер. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Сслпровидер. h</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Ncrypt.dll</dt> </dl>    |
 
 

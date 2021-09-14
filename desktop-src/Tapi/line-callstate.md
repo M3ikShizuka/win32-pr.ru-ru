@@ -4,12 +4,12 @@ ms.assetid: 7b24e3c3-bc69-488b-a698-cf17875bc3c5
 title: Сообщение LINE_CALLSTATE (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 90d82dfb5f0d5e306085ecd2d7f29270d19c2c9c101e30ac547fe246b7e6fddb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4159037c448307c99e759d8741ed19a14ab2562f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120012574"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250204"
 ---
 # <a name="line_callstate-message"></a>Строка \_ сообщения каллстате
 
@@ -89,7 +89,7 @@ ms.locfileid: "120012574"
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это сообщение отправляется в любое приложение, которое имеет обработчик для вызова. Сообщение **Line \_ каллстате** также уведомляет приложения, которые отслеживают вызовы в строке о существовании и состоянии исходящих вызовов, установленных другими приложениями, или вручную (например, на подключенном телефонном устройстве). Состояние вызова таких вызовов отражает фактическое состояние вызова, которое не является *предложением*. Изучив состояние вызова, приложение может определить, является ли вызов входящим вызовом, на который необходимо ответить.
 
@@ -101,7 +101,7 @@ ms.locfileid: "120012574"
 
 Невозможно отключить это сообщение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -112,7 +112,7 @@ ms.locfileid: "120012574"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

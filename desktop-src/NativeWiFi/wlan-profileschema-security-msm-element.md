@@ -12,12 +12,12 @@ api_name:
 api_type:
 - Schema
 api_location: ''
-ms.openlocfilehash: c885f330538177cddca40c47cf6a5ad910030c6c5f4c3429ca7bd92c3b437b20
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f6ea42a83d39c328db88e992555e5d593cc778b6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119912695"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127272160"
 ---
 # <a name="security-msm-element-lan_policy-for-wlan"></a>Элемент Security (MSM) (LAN_policy) для WLAN
 
@@ -242,7 +242,7 @@ ms.locfileid: "119912695"
 |------------------------------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**authEncryption**](wlan-profileschema-authencryption-security-element.md)       |                                                                   | Указывает пару для проверки подлинности и шифрования, которая будет использоваться для этого профиля.<br/>                                                                                                                                                                                                                                                                                                                                     |
 | [**идентификаци**](wlan-profileschema-authentication-authencryption-element.md) |                                                                   | Указывает пару для проверки подлинности и шифрования, которая будет использоваться для этого профиля.<br/>                                                                                                                                                                                                                                                                                                                                     |
-| [**ключ**](wlan-profileschema-encryption-authencryption-element.md)         |                                                                   | Задает шифрование данных, используемое для подключения к беспроводной локальной сети.<br/>                                                                                                                                                                                                                                                                                                                                                   |
+| [**шифрование**](wlan-profileschema-encryption-authencryption-element.md)         |                                                                   | Задает шифрование данных, используемое для подключения к беспроводной локальной сети.<br/>                                                                                                                                                                                                                                                                                                                                                   |
 | [**keyIndex**](wlan-profileschema-keyindex-security-element.md)                   |                                                                   | Указывает, какой индекс ключа должен использоваться для шифрования беспроводного трафика. Используется, только если параметр keyType имеет значение Нетворккэй.<br/>                                                                                                                                                                                                                                                                                          |
 | [**keyMaterial**](wlan-profileschema-keymaterial-sharedkey-element.md)            | [строка](/dotnet/api/system.string)   | Содержит ключ сети или парольную фразу.<br/>                                                                                                                                                                                                                                                                                                                                                                           |
 | [**keyType**](wlan-profileschema-keytype-sharedkey-element.md)                    |                                                                   | Тип ключа.<br/>                                                                                                                                                                                                                                                                                                                                                                                                      |
@@ -257,7 +257,7 @@ ms.locfileid: "119912695"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Элемент [**фипсмоде**](wlan-profileschema-fipsmode-authencryption-element.md) может быть вставлен как дочерний элемент элемента [**аусенкриптион**](wlan-profileschema-authencryption-security-element.md) . Элемент [**OneX**](onexschema-onex-element.md) может быть вставлен как дочерний элемент элемента **Security (MSM)** .
 
@@ -265,7 +265,7 @@ ms.locfileid: "119912695"
 
 Чтобы просмотреть образцы профилей, в которых используется элемент **Security** , см. раздел [образцы профилей беспроводной связи](wireless-profile-samples.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -277,7 +277,7 @@ ms.locfileid: "119912695"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -6,12 +6,12 @@ keywords:
 - RPC_IF_HANDLE
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4652fbd08c583ad0a33638e52face9569e6ff701cb6dc2b775c7060134b60437
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d9590973d5ae1e82d89d6151e224b771d9f55ecc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118926443"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250507"
 ---
 # <a name="rpc_if_handle"></a>RPC \_ if \_ Handle
 
@@ -24,7 +24,7 @@ typedef void __RPC_FAR* RPC_IF_HANDLE;
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Библиотека времени выполнения RPC использует дескрипторы интерфейса для доступа к структуре данных спецификации интерфейса. Компилятор MIDL автоматически создает структуру данных спецификации интерфейса из каждого IDL-файла и создает глобальную переменную типа RPC, \_ Если \_ Handle для спецификации интерфейса.
 
@@ -48,7 +48,7 @@ typedef void __RPC_FAR* RPC_IF_HANDLE;
 
 Так как \_ части имен "клиентифхандле" и " \_ серверифхандле" должны содержать 15 символов, Длина элемента *If-Name* не может превышать 16 символов.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

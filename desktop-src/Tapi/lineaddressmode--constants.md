@@ -4,12 +4,12 @@ ms.assetid: f0f132a0-2e8e-478f-909b-c100aa360daa
 title: Константы LINEADDRESSMODE_ (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4863b79c4527395f6ecb2d28c4d9ef718ff5a7fd99681185ba892bac2b4639ee
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5e5e926772c82a36865c7f3b95c1ca1321db5682
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117761866"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250024"
 ---
 # <a name="lineaddressmode_-constants"></a>\_Константы линеаддрессмоде
 
@@ -37,7 +37,7 @@ ms.locfileid: "117761866"
 
 </dt> </dl> </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Старшие 16 бит можно назначить для расширений для конкретных устройств. 16 младших разрядов зарезервированы.
 
@@ -50,7 +50,7 @@ ms.locfileid: "117761866"
 | Требование | Значение |
 |-------------------------|-----------------------------------------------------------------------------------|
 | Версия TAPI<br/> | Требуется TAPI 2,0 или более поздней версии<br/>                                             |
-| Header<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
+| Заголовок<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
 
 
 

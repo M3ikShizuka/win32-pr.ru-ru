@@ -7,12 +7,12 @@ keywords:
 - службы удаленных рабочих столов службы удаленных рабочих столов с помощью API
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0a1910521e9592310e68e4adaee5451ed2808dab32d4559789dacf7ba2db9fcc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 48b8c240ce8a86b4a333245032294cbd59809f2b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119868714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249850"
 ---
 # <a name="using-the-remote-desktop-services-api"></a>Использование API службы удаленных рабочих столов
 

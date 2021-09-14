@@ -12,12 +12,12 @@ api_name:
 api_type:
 - UserDefined
 api_location: ''
-ms.openlocfilehash: 5079b740d268174715b6c944787bb687cd9b8b1ecb12a27c04eeb26c79811034
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 82e100092dd7c59e9cc689aa8723365fae8bed29
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117784160"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250435"
 ---
 # <a name="authzaccesscheckcallback-callback-function"></a>Функция обратного вызова Аусзакцессчекккаллбакк
 
@@ -77,7 +77,7 @@ BOOL CALLBACK AuthzAccessCheckCallback(
 
 Если функция не может выполнить вычисление, она возвращает **значение false**. Используйте [**сетластеррор**](/windows/desktop/api/errhandlingapi/nf-errhandlingapi-setlasterror) , чтобы вернуть ошибку в функцию проверки доступа.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Переменные атрибутов безопасности должны присутствовать в контексте клиента, если они ссылаются на условное выражение, в противном случае термин условного выражения, ссылающийся на них, будет считаться неизвестным.
 

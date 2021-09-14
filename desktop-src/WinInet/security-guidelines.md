@@ -5,11 +5,11 @@ ms.assetid: f0c041fd-3cc5-491e-b088-6c93fcd61def
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 4b3d4214ba4582394ed555bafd58551e8b047493
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104134343"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249379"
 ---
 # <a name="security-guideline"></a>Рекомендации по безопасности
 
@@ -46,10 +46,10 @@ ms.locfileid: "104134343"
 Между функциями, которые сообщают об изменении безопасности соединения, относятся функция обратного вызова **интернетстатускаллбакк** и функция **интернетконфирмзонекроссинг** .
 
 > [!Note]  
-> WinINet не поддерживает реализации серверов. Кроме того, его не следует использовать из службы. Для серверных реализаций или служб используйте [службы Microsoft Windows HTTP Services (WinHTTP)](/windows/desktop/WinHttp/winhttp-start-page).
+> WinINet не поддерживает реализации серверов. Кроме того, его не следует использовать из службы. для серверных реализаций или служб используйте [Microsoft Windows HTTP services (WinHTTP)](/windows/desktop/WinHttp/winhttp-start-page).
 
- 
+ 
 
- 
+ 
 
- 
+ 

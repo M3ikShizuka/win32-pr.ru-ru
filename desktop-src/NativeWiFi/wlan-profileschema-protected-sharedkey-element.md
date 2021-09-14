@@ -13,11 +13,11 @@ api_type:
 - Schema
 api_location: ''
 ms.openlocfilehash: 0b48ef0e07e5502ea8577904facc52f9f7e69838
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105673237"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127272171"
 ---
 # <a name="protected-sharedkey-element"></a>protected (sharedKey), элемент
 
@@ -33,9 +33,9 @@ ms.locfileid: "105673237"
 
 ## <a name="remarks"></a>Комментарии
 
-Для Windows Vista и Windows Server 2008 параметр **protected** всегда имеет значение true, если профиль был получен из хранилища профилей (например, путем вызова [**вланжетпрофиле**](/windows/desktop/api/wlanapi/nf-wlanapi-wlangetprofile)).
+для Windows Vista и Windows Server 2008 параметр **protected** всегда имеет значение TRUE, если профиль был получен из хранилища профилей (например, путем вызова [**вланжетпрофиле**](/windows/desktop/api/wlanapi/nf-wlanapi-wlangetprofile)).
 
-Для профилей, предназначенных для использования в Windows XP с пакетом обновления 3 (SP3) или API беспроводной локальной сети для Windows XP с пакетом обновления 2 (SP2), **Защита** должна иметь значение false.
+для профилей, предназначенных для использования в Windows XP с пакетом обновления 3 (SP3) или API беспроводной локальной сети для Windows XP с пакетом обновления 2 (SP2), **защита** должна иметь значение FALSE.
 
 ## <a name="examples"></a>Примеры
 
@@ -48,8 +48,8 @@ ms.locfileid: "105673237"
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista, Windows XP с пакетом обновления 3 (SP3), \[ только классические приложения\]<br/> |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                |
-| Распространяемые компоненты<br/>          | Интерфейс API беспроводной локальной сети для Windows XP с пакетом обновления 2 (SP2)<br/>                 |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                |
+| Распространяемые компоненты<br/>          | API беспроводной локальной сети для Windows XP с пакетом обновления 2 (SP2)<br/>                 |
 
 
 

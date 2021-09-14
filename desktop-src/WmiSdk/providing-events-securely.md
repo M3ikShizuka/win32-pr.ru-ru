@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Безопасное предоставление событий
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 91e485f0c4d7610be9908155b6f20c315d53b8358f0e0c5c9baff244d2399b6f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d2c92ed1de08dde4891365440f559544a0b26de5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118992654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249334"
 ---
 # <a name="providing-events-securely"></a>Безопасное предоставление событий
 

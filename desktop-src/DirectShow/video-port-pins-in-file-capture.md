@@ -4,12 +4,12 @@ ms.assetid: 0fa6d88e-3c64-487f-b007-8c65bf47211d
 title: Контакты порта видео в записи файлов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cab348c7e378f4130b43eef45f2cf4ddd079b0e85a77397b767cadddde5a7d0b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f2361c5a7cdaa7640ece9724000963f39f3f77ed
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120049384"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127272912"
 ---
 # <a name="video-port-pins-in-file-capture"></a>Контакты порта видео в записи файлов
 

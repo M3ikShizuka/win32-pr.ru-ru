@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Ncrypt.dll
-ms.openlocfilehash: f328f5e4746d3a66f614e8ccbbfe66bbf3475b7f7a1a98a8a68c11df96412bf8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 452cb7b36b20697a95b2c2abae7d8cd3b4180050
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118906166"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250414"
 ---
 # <a name="sslgetciphersuiteprfhashalgorithm-function"></a>Функция СслжетЦиферсуитепрфхашалгорисм
 
@@ -107,11 +107,11 @@ SECURITY_STATUS WINAPI SslGetCipherSuitePRFHashAlgorithm(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция **сслжетЦиферсуитепрфхашалгорисм** вызывается для запросов TLS 1,2 или более поздних версий для запроса алгоритма хэширования, который будет использоваться в протоколе TLS PRF.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -119,7 +119,7 @@ SECURITY_STATUS WINAPI SslGetCipherSuitePRFHashAlgorithm(
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                               |
 | Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Сслпровидер. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Сслпровидер. h</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Ncrypt.dll</dt> </dl>    |
 
 

@@ -4,12 +4,12 @@ ms.assetid: 1cfba455-9a15-45f3-8d56-74b8348e080e
 title: Сообщение LINE_MONITORMEDIA (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9fec42f0e8aa630b518f989a9237762edc71281767b281f7af78eb54210138d2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e7b6e3d0d2928ab3256b844a27727657978dbe0f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119519024"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250114"
 ---
 # <a name="line_monitormedia-message"></a>Строка \_ сообщения монитормедиа
 
@@ -65,7 +65,7 @@ ms.locfileid: "119519024"
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сообщение **Line \_ монитормедиа** отправляется в приложение с включенным мониторингом мультимедиа для обнаруженного типа носителя.
 
@@ -73,7 +73,7 @@ ms.locfileid: "119519024"
 
 Если поставщик услуг не создает отметку времени (например, если она была создана с помощью более ранней версии TAPI), TAPI предоставляет метку времени в ближайшем к поставщику услуге, который создает событие, чтобы синтезированная метка времени максимально точна.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -84,7 +84,7 @@ ms.locfileid: "119519024"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

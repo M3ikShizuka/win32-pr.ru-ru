@@ -4,12 +4,12 @@ ms.assetid: d056b6d5-f4a4-480b-96a5-8e95dce23dfb
 title: Волумесаваилабле, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: eb0ab5b07f30e49f1bbe7655a2d66d9aaa683099df64cadf94b5dfffdd3b3af0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ccdcf32ba8b7bea3958ef469bc0f90f9d41ecc14
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118650941"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127272752"
 ---
 # <a name="volumesavailable-property"></a>Волумесаваилабле, свойство
 
@@ -28,7 +28,7 @@ ms.locfileid: "118650941"
 
 Возвращает количество томов в наборе в виде целого числа.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство доступно только для чтения и не имеет значения по умолчанию. Некоторые заголовки DVD могут быть выпущены в виде набора или ряда с несколькими дисками. Используйте этот метод, чтобы определить номер тома для текущего диска.
 

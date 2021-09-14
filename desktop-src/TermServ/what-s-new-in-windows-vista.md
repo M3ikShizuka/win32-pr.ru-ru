@@ -1,20 +1,20 @@
 ---
-title: Новые возможности Windows Vista для служб терминалов
-description: В Windows Vista появились следующие новые программные элементы для служб терминалов.
+title: новые возможности Windows Vista для служб терминалов
+description: Windows В Vista появились следующие новые программные элементы для служб терминалов.
 ms.assetid: f5c0311e-ae54-4871-acac-ed5dcbe353d7
 ms.tgt_platform: multiple
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 39dae6d3041c42eea7cd94fc76ab2d2771348379
-ms.sourcegitcommit: 168d11879cb9fd89d26f826482725c0a626be00f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "105674765"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249793"
 ---
-# <a name="whats-new-in-windows-vista-for-terminal-services"></a>Новые возможности Windows Vista для служб терминалов
+# <a name="whats-new-in-windows-vista-for-terminal-services"></a>новые возможности Windows Vista для служб терминалов
 
-В Windows Vista появились следующие новые программные элементы для служб терминалов.
+Windows В Vista появились следующие новые программные элементы для служб терминалов.
 
 -   [**IMsRdpClient5**](imsrdpclient5.md)
 -   [**IMsRdpClientAdvancedSettings5**](imsrdpclientadvancedsettings5.md)

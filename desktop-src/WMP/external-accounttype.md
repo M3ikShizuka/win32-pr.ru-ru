@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0bd19413d891f5a8008b162f6795af29a9d15e75a80d35bb82ff13f8e013da9f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 16fce659f38af19157536a4bf763362c35fc9dfa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119650044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249637"
 ---
 # <a name="externalaccounttype"></a>External. accountType
 
@@ -39,7 +39,7 @@ window.external.accountType
 
 Это свойство является **строкой** только для чтения, представляющей тип учетной записи. Строки, представляющие различные типы учетных записей, определяются Интернет-магазином.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство извлекает тип учетной записи путем вызова метода [ивмпконтентпартнер:: жетконтентпартнеринфо](/previous-versions/windows/desktop/api/contentpartner/nf-contentpartner-iwmpcontentpartner-getcontentpartnerinfo) , который реализуется подключаемым модулем Интернет-магазина. если текущий пользователь вошел в интернет-магазин или подключаемый модуль кэширует учетные данные пользователя, метод **жетконтентпартнеринфо** может определить тип учетной записи пользователя и вернуть его в проигрыватель Windows Media. тип учетной записи — это строка, которую проигрыватель Windows Media не интерпретирует. вместо этого проигрыватель Windows Media передает строку из подключаемого модуля интернет-магазина в скрипт на странице обнаружения в интернет-магазине.
 

@@ -5,11 +5,11 @@ title: Фильтр визуализации 7 для микширования �
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 988af74dc2e4abac06215f283a496bb719384891
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122989167"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127272947"
 ---
 # <a name="video-mixing-renderer-filter-7"></a>Фильтр визуализации 7 для микширования видео
 
@@ -36,15 +36,15 @@ ms.locfileid: "122989167"
 
 
 
-| Метка | Применение |
+| Метка | Значение |
 |--------|-------|
 | Интерфейсы фильтра | Все режимы:<ul><li><a href="/windows/desktop/api/Strmif/nn-strmif-iamcertifiedoutputprotection"><strong>иамцертифиедаутпутпротектион</strong></a></li><li><a href="/windows/desktop/api/Strmif/nn-strmif-iamfiltermiscflags"><strong>иамфилтермискфлагс</strong></a></li><li><a href="/windows/desktop/api/Strmif/nn-strmif-ibasefilter"><strong>ибасефилтер</strong></a></li><li><a href="ikspropertyset.md"><strong>икспропертисет</strong></a></li><li><a href="/windows/desktop/api/Control/nn-control-imediaposition"><strong>имедиапоситион</strong></a></li><li><a href="/windows/desktop/api/Strmif/nn-strmif-imediaseeking"><strong>имедиасикинг</strong></a></li><li><a href="/windows/desktop/api/Strmif/nn-strmif-iqualitycontrol"><strong>икуалитиконтрол</strong></a></li><li><a href="/previous-versions/windows/desktop/api/Amvideo/nn-amvideo-iqualprop"><strong>икуалпроп</strong></a></li><li><a href="/windows/desktop/api/Strmif/nn-strmif-ivmraspectratiocontrol"><strong>ивмраспектратиоконтрол</strong></a></li><li><a href="/windows/desktop/api/Strmif/nn-strmif-ivmrdeinterlacecontrol"><strong>ивмрдеинтерлацеконтрол</strong></a></li><li><a href="/windows/desktop/api/Strmif/nn-strmif-ivmrfilterconfig"><strong>ивмрфилтерконфиг</strong></a></li><li><a href="/windows/desktop/api/Strmif/nn-strmif-ivmrmixerbitmap"><strong>ивмрмиксербитмап</strong></a></li></ul>Режим с окнами:<br /><ul><li><a href="/windows/desktop/api/Control/nn-control-ibasicvideo"><strong>ибасиквидео</strong></a></li><li><a href="/windows/desktop/api/Control/nn-control-ibasicvideo2"><strong>IBasicVideo2</strong></a></li><li><a href="/windows/desktop/api/Control/nn-control-ivideowindow"><strong>ивидеовиндов</strong></a></li><li><a href="/windows/desktop/api/Strmif/nn-strmif-ivmrmonitorconfig"><strong>ивмрмониторконфиг</strong></a></li></ul>Режим без окон:<br /><ul><li><a href="/windows/desktop/api/Strmif/nn-strmif-ivmrwindowlesscontrol"><strong>ивмрвиндовлессконтрол</strong></a></li><li><a href="/windows/desktop/api/Strmif/nn-strmif-ivmrmonitorconfig"><strong>ивмрмониторконфиг</strong></a></li></ul>Режим безрендеринга:<br /><ul><li><a href="/windows/desktop/api/Strmif/nn-strmif-ivmrsurfaceallocatornotify"><strong>ивмрсурфацеаллокаторнотифи</strong></a></li></ul>режим Mixer:<br /><ul><li><a href="/windows/desktop/api/Strmif/nn-strmif-ivmrmixercontrol"><strong>ивмрмиксерконтрол</strong></a></li></ul>Сведения о различных режимах VMR-7 см. в разделе <a href="vmr-modes-of-operation.md">режимы VMR в операции</a>.<br /> | 
 | Типы носителей входных закрепления | Основной тип: MEDIATYPE_VideoSubtype: зависит от графического оборудования. Должно быть несжатым видео.<br /> | 
 | Интерфейсы входных закрепления | <ul><li><a href="/previous-versions/windows/desktop/api/videoacc/nn-videoacc-iamvideoaccelerator"><strong>иамвидеоакцелератор</strong></a></li><li><a href="/windows/desktop/api/Strmif/nn-strmif-imeminputpin"><strong>имеминпутпин</strong></a></li><li><a href="/windows/desktop/api/Strmif/nn-strmif-ioverlay"><strong>Иоверлай</strong></a> (см. примечания)</li><li><a href="/windows/desktop/api/Strmif/nn-strmif-ipin"><strong>ипин</strong></a></li><li><a href="/windows/desktop/api/Strmif/nn-strmif-ipinconnection"><strong>ипинконнектион</strong></a></li><li><a href="/windows/desktop/api/Strmif/nn-strmif-iqualitycontrol"><strong>икуалитиконтрол</strong></a></li><li><a href="/windows/desktop/api/Strmif/nn-strmif-ivmrvideostreamcontrol"><strong>ивмрвидеостреамконтрол</strong></a></li></ul> | 
-| Типы носителей для выходного ПИН-кода | Не применяется | 
-| Интерфейсы выходного ПИН-кода | Не применяется | 
+| Типы носителей для выходного ПИН-кода | Неприменимо. | 
+| Интерфейсы выходного ПИН-кода | Неприменимо. | 
 | Фильтровать CLSID | С этим фильтром связано два идентификатора CLSID:<ul><li>CLSID_VideoMixingRenderer: создает VMR-7. Если для создания VMR-7 недостаточно системных ресурсов, вызов <strong>CoCreateInstance</strong> завершается ошибкой.</li><li>CLSID_VideoRendererDefault: создает VMR-7, если доступны системные ресурсы, или, в противном случае, создает старый фильтр модуля <a href="video-renderer-filter.md">подготовки</a> отчетов.</li></ul>Используйте CLSID_VideoMixingRenderer, если требуются специальные возможности VMR-7. В противном случае используйте CLSID_VideoRendererDefault, который почти не может завершиться сбоем, так как он возвращается к старому фильтру модуля подготовки отчетов.<br /> | 
-| CLSID страницы свойств | Не применяется | 
+| CLSID страницы свойств | Неприменимо. | 
 | Исполняемый объект | Quartz.dll | 
 | <a href="merit.md">Заслуживают</a> | MERIT_PREFERRED + 1 | 
 | <a href="filter-categories.md">Категория фильтра</a> | CLSID_LegacyAmFilterCategory | 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 798f915536c491d32ccab7e7dbdc9b506d8b5df22b4459818472307e62356b71
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9c7cbdccc76fc57e660109851ae5b8f141704d04
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119071818"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127272683"
 ---
 # <a name="widestringfromresource-function"></a>Функция Видестрингфромресаурце
 
@@ -61,7 +61,7 @@ WCHAR* WINAPI WideStringFromResource(
 
 Возвращает ту же строку, что и *pBuffer*. Если функция не выполнена успешно, возвращает пустую строку.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Страницы свойств обычно вызываются через интерфейсы COM, которые используют строки расширенных символов независимо от того, как создается двоичный файл. Эта функция позволяет преобразовать строку ресурса в строку расширенных символов. Функция преобразует ресурс в строку расширенных символов (если она еще не одна) после ее загрузки.
 

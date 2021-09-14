@@ -15,12 +15,12 @@ api_type:
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 951c0de8468b0384ae1a474740f9b46c2aa68dfc23c3394f8dae6a8064d9319e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d408832e800413f94e251ee27a57e5b326378c36
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119751734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249184"
 ---
 # <a name="d3d12_rect"></a>D3D12 \_ Rect
 
@@ -30,7 +30,7 @@ D3D12 \_ Rect объявляется как Rect. Дополнительные �
 typedef RECT D3D12_RECT;
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта структура используется следующими методами.
 

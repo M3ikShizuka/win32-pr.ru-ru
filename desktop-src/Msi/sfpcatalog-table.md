@@ -4,12 +4,12 @@ ms.assetid: e9dc65a9-4ec9-4310-b03a-a2c38720ca8c
 title: Таблица Сфпкаталог
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 97498ff6437967a4a588be7b957aea130dad201699d55fad3abace6ff094b271
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 08fe887644faf6cf0a5cda626bbf757e9f448ef1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118624895"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127272336"
 ---
 # <a name="sfpcatalog-table"></a>Таблица Сфпкаталог
 
@@ -21,9 +21,9 @@ ms.locfileid: "118624895"
 
 | Столбец     | Type                       | Ключ | Допускает значения NULL |
 |------------|----------------------------|-----|----------|
-| сфпкаталог | [Имя файла](filename.md)   | Д   | Нет        |
+| сфпкаталог | [Имя файла](filename.md)   | Да   | Нет        |
 | Каталог    | [Двоичный](binary.md)       | Нет   | Нет        |
-| Зависимость | [Формате](formatted.md) | Нет   | Д        |
+| Зависимость | [Формате](formatted.md) | Нет   | Да        |
 
 
 
@@ -58,7 +58,7 @@ ms.locfileid: "118624895"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 [Действие инсталлсфпкаталогфиле](installsfpcatalogfile-action.md) запрашивает [таблицу компонентов](component-table.md), [таблицу файлов](file-table.md), таблицу [филесфпкаталог](filesfpcatalog-table.md) и таблицу сфпкаталог.
 

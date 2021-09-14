@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 26442633d1a4d5187b5e53ae53e0a898f759f91dc3719f09715b570108b701f1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9e509a081243f28293dc2d8abf8311f69eaf9a44
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119071908"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127272731"
 ---
 # <a name="waitdispatchingmessages-function"></a>Функция Ваитдиспатчингмессажес
 
@@ -85,7 +85,7 @@ DWORD WINAPI WaitDispatchingMessages(
 
 Возвращает значение из функции **WaitForMultipleObjects** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если объект владеет окном, он должен отправлять сообщения окна в ожидании. Эта функция позволяет объекту ожидать события, семафора или другого взаимоисключающего объекта во время диспетчеризации сообщений.
 

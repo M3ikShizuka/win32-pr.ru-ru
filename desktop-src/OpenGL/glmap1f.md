@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7547e465f940942333c3bcff3e543e77c404ced289471ccff08924da83bfc2af
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: eafcbfc40b3359cd8faa6f52f6635c1c86f03f17
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118359312"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127272091"
 ---
 # <a name="glmap1f-function"></a>Функция glMap1f
 
@@ -125,7 +125,7 @@ void WINAPI glMap1f(
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Оценивающие предоставляют способ использования сопоставлений полинома или рационального полинома для создания вершин, нормалй, координат текстуры и цветов. Значения, созданные средством оценки, отправляются на последующие этапы обработки OpenGL, как если бы они были представлены с помощью команд [**глвертекс**](glvertex-functions.md), [**глнормал**](glnormal-functions.md), [**глтекскурд**](gltexcoord-functions.md)и [**глколор**](glcolor-functions.md) , за исключением того, что созданные значения не обновляют текущие нормальные координаты текстуры или цвета.
 

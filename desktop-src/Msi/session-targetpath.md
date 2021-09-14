@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: bd265602e9a4d517ad01a07e79ace43722fcb6cfe0062091a5f0379a5ab264a7
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6c5917f845da0eec944e797d5f49f52d0ec26913
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119628754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127272435"
 ---
 # <a name="sessiontargetpath-property"></a>Свойство Session. TargetPath
 
@@ -40,7 +40,7 @@ Session.TargetPath = propVal
 
 Обязательное с учетом регистра имя свойства папки, заданное первичным ключом [таблицы Directory](directory-table.md). Если папка не существует, возникает ошибка.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Не пытайтесь настроить целевой путь, если компоненты, использующие эти пути, уже установлены для текущего пользователя или для другого пользователя. Проверьте свойство [**продуктстате**](productstate.md) , чтобы определить, установлен ли продукт, содержащий компонент.
 

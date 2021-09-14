@@ -4,12 +4,12 @@ ms.assetid: 5aca3f45-7db7-44a7-af3e-99c5bb570ceb
 title: Свойство Width (DirectShow)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b4c9292b086ea954318d6bdbe63c6b8c0c16a48acee688adabf7fc719333e16d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 997f8768329da79caa87ebdf8e8c052ba56bbe34
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119903224"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127272656"
 ---
 # <a name="width-property-directshow"></a>Свойство Width (DirectShow)
 
@@ -28,7 +28,7 @@ ms.locfileid: "119903224"
 
 Возвращает ширину (в пикселях) прямоугольника в виде целого числа.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство доступно для чтения и записи и не имеет значения по умолчанию.
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: e338ba63a3c750c2d2b8064113039919b709ed94e282be17f7c042f93a08252d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 53c4bf27a359bd6d131f8d6d9c685e929d1a9ec1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119990304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249214"
 ---
 # <a name="d3dxmatrixrotationx-function-d3dx10mathh"></a>Функция D3DXMatrixRotationX (D3DX10Math. h)
 
@@ -65,11 +65,11 @@ D3DXMATRIX* D3DXMatrixRotationX(
 
 Указатель на структуру D3DXMATRIX, повернутую вокруг оси x.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре тоска. Таким образом, функция D3DXMatrixRotationX может использоваться в качестве параметра для другой функции.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -80,7 +80,7 @@ D3DXMATRIX* D3DXMatrixRotationX(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

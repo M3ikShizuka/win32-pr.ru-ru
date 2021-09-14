@@ -4,12 +4,12 @@ ms.assetid: 6d1f9703-6dc9-4fdc-b52f-e6bb60a2fe8d
 title: AppInit_DLLs в Windows 7
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8741039952b0ea15d32b19bc48d4197ea13751bc492ff82fc8e67b1662d0b682
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4820fcb9840bbec139ff78f3c6cc082b2dca4eeb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120031074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249409"
 ---
 # <a name="appinit_dlls-in-windows-7-and-windows-server-2008-r2"></a>\_библиотеки dll библиотеки в Windows 7 и Windows Server 2008 R2
 

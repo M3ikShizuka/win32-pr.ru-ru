@@ -4,12 +4,12 @@ ms.assetid: 36122dfb-1ed6-459d-aa2b-69c86daaddd8
 title: Сообщение LINE_NEWCALL (Тспи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f541f7535e9b41dc66a83b8d033d3ff7adf4d51f6e78f275d2695cb5ae7a35b5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ed3e7380b2f328283e5f5cad9e84f5a1d0c450dc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117761910"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250090"
 ---
 # <a name="line_newcall-message"></a>Строка \_ сообщения невкалл
 
@@ -70,7 +70,7 @@ ms.locfileid: "117761910"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Поставщик услуг должен отправить [**строку \_ каллстате**](/previous-versions/windows/desktop/legacy/ms725219(v=vs.85)) сообщение в качестве следующего сообщения для этого вызова. Событие **Line \_ невкалл** нередко в том, что оно также передает значение обратно поставщику услуг.
 
@@ -87,7 +87,7 @@ ms.locfileid: "117761910"
 | Требование | Значение |
 |-------------------------|-----------------------------------------------------------------------------------|
 | Версия TAPI<br/> | Требуется TAPI 2,0 или более поздней версии<br/>                                             |
-| Header<br/>       | <dl> <dt>Тспи. h</dt> </dl> |
+| Заголовок<br/>       | <dl> <dt>Тспи. h</dt> </dl> |
 
 
 

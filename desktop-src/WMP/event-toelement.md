@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 565177e09804823eb7fb540f0ab9a2cf111af7e085b847c5992a4d63a5f37257
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 71e7690a2d585b3374bc6d7a375d8af307d0b66d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119650374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249682"
 ---
 # <a name="eventtoelement"></a>Event. Тоелемент
 
@@ -31,7 +31,7 @@ event.toElement
 
 Этот атрибут является объектом, предназначенным только для чтения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ event.toElement
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
