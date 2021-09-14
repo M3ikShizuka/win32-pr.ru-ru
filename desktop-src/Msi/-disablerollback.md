@@ -4,12 +4,12 @@ ms.assetid: c17d9663-af13-4e12-b496-64942f4379f5
 title: ДИСАБЛЕРОЛЛБАКК, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8ea5b7a30a72b8e9787f25a1b9444ee34e5531413bf1400061b6912fa831f77c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1fe80e87deb764cc5e5af95a97532885ae54beb1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119066584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143289"
 ---
 # <a name="disablerollback-property"></a>ДИСАБЛЕРОЛЛБАКК, свойство
 

@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Nmapi.dll
-ms.openlocfilehash: 173f744406ef2b360c0af7158e397c2001f146b9f2339bf6aaf3468b9a1465dd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0b35f9505758256750ae02d24d6c2a84ed0646b1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117796355"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127260539"
 ---
 # <a name="createprotocol-function"></a>Функция Креатепротокол
 
@@ -91,7 +91,7 @@ HPROTOCOL WINAPI CreateProtocol(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -105,7 +105,7 @@ HPROTOCOL WINAPI CreateProtocol(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

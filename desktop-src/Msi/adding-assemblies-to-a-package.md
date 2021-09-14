@@ -4,12 +4,12 @@ ms.assetid: 60687a4f-aaa4-4264-a3f7-0a16eb1fb336
 title: Добавление сборок в пакет
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 68a96c1b8c8d9b73fedf03fceeb82be62b8457556da02334ed7a224aefc2202a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ded0795003ae8faf1b7bb945671990767d3eefb7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119534874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143106"
 ---
 # <a name="adding-assemblies-to-a-package"></a>Добавление сборок в пакет
 

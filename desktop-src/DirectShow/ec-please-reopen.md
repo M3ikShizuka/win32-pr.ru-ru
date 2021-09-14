@@ -4,12 +4,12 @@ ms.assetid: f99df68f-d7e8-4dbf-b958-84fe3f0821f0
 title: EC_PLEASE_REOPEN (DShow. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: efafbcd441dc62b48612e325a3520f9b3cfbdeb9b3b4d5b11144e12f9f22acd4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d1c02b1a945a773717f1dd1f1cfe237b764faa09
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119686184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147730"
 ---
 # <a name="ec_please_reopen"></a>EC \_ \_ Повторное открытие
 
@@ -41,7 +41,7 @@ ms.locfileid: "119686184"
 
 фильтр [источника Windows носителя](windows-media-source-filter.md) прежних версий отправляет это событие. Новые фильтры не должны отсылать это событие.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -51,7 +51,7 @@ ms.locfileid: "119686184"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

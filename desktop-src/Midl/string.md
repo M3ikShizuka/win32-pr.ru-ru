@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f1537fe258315f379bbc7bee3284f5dcb06cdd140f2b85ac34f00e9ee4f77ec5
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ae2bd3c56bcf09d1c47343f903653e9d83113b1d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119382984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143425"
 ---
 # <a name="string-attribute"></a>string - атрибут
 
@@ -167,7 +167,7 @@ HRESULT Proc1([in, string] char * pszName);
 [**Контекстный \_ маркер**](context-handle.md)
 </dt> <dt>
 
-[**enum**](enum.md)
+[**перечисления**](enum.md)
 </dt> <dt>
 
 [**первый \_ —**](first-is.md)
@@ -215,7 +215,7 @@ HRESULT Proc1([in, string] char * pszName);
 [**передать \_ как**](transmit-as.md)
 </dt> <dt>
 
-[**наборов**](union.md)
+[**union**](union.md)
 </dt> <dt>
 
 [**однозначно**](unique.md)

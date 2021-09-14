@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cb021f9212f1034f0b3c235ad77d9ad270325af914887252494316f9ae1c41b9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9149cd7270c2e82e760c24b4af1fed54c2c08622
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118642775"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143630"
 ---
 # <a name="ncacn_at_dsp-attribute"></a>\_атрибут нкакн в \_ DSP
 

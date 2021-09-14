@@ -6,12 +6,12 @@ keywords:
 - типы данных MIDL, массивы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 19ed50ada64ae218d9097a1c188338762c7d20704dd4321d2b888ab5f7a5c7de
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 78c5ca08740084783f615d2cd34b46f0de4a4020
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119869654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143658"
 ---
 # <a name="midl-arrays"></a>Массивы MIDL
 
@@ -92,7 +92,7 @@ Microsoft RPC ориентирован на C. В соответствии с с
 
 Необязательный декларатор указателя может предшествовать декларатору массива.
 
-Если внедренные ссылочные указатели являются **\[** [](out-idl.md) **\]** параметрами только для использования, код Server Manager должен присвоить допустимые значения массиву ссылочных указателей. Например:
+Если внедренные ссылочные указатели являются **\[** [](out-idl.md) **\]** параметрами только для использования, код Server Manager должен присвоить допустимые значения массиву ссылочных указателей. Пример:
 
 ``` syntax
 typedef [ref] short * ARefPointer;

@@ -5,11 +5,11 @@ title: МСИАРПСЕТТИНГСИДЕНТИФИЕР, свойство
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: a32c979237e6443bec5451f36e36ef49ae4a1f59
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105669084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261075"
 ---
 # <a name="msiarpsettingsidentifier-property"></a>МСИАРПСЕТТИНГСИДЕНТИФИЕР, свойство
 
@@ -27,7 +27,7 @@ ms.locfileid: "105669084"
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/> | Установщик Windows 5,0 в Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Установщик Windows 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Установщик Windows 4,5 в Windows Server 2003 или Windows XP. Сведения о минимальном пакете обновления Windows, который требуется для установщик Windows версии, см. в [установщик Windows Run-Time требования](windows-installer-portal.md) .<br/> |
+| Версия<br/> | Windows установщик 5,0 на Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Windows установщик 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Windows установщик 4,5 на Windows Server 2003 или Windows XP. сведения о минимальном Windows пакета обновления, который требуется для установщик Windows версии, см. в [установщик Windows требования к Run-Time](windows-installer-portal.md) .<br/> |
 
 
 
@@ -38,7 +38,7 @@ ms.locfileid: "105669084"
 [Свойства](properties.md)
 </dt> <dt>
 
-[Не поддерживается в установщик Windows 3,1 и более ранних версиях](not-supported-in-windows-installer-version-3-1.md)
+[не поддерживается в установщик Windows 3,1 и более ранних версиях](not-supported-in-windows-installer-version-3-1.md)
 </dt> </dl>
 
  

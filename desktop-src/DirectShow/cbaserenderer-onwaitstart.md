@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: eaad14d0eec765a0ad12693c0a1eee67386bc9bb26344ee52c29224d129edf5c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c2f88f11e370c6d1962ae6076f4c8f5eecc31407
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117822651"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261411"
 ---
 # <a name="cbaserendereronwaitstart-method"></a>Кбасерендерер. Онваитстарт, метод
 
@@ -50,7 +50,7 @@ virtual void OnWaitStart();
 
 Если вы реализуете контроль качества, вы можете переопределить этот метод вместе с методом [**кбасерендерер:: онваитенд**](cbaserenderer-onwaitend.md) . Эти методы можно использовать для наблюдения за производительностью фильтра.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ virtual void OnWaitStart();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

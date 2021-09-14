@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Netmon.h
-ms.openlocfilehash: d66ba5dd3a977967d0020a00d5813c3f689142b1e58c631c99f9bd10fceba3ec
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fdefc6f1233f820321bae6795f457e345fb5d4b0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120074404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127260368"
 ---
 # <a name="set-structure"></a>ЗАДАТЬ структуру
 
@@ -49,7 +49,7 @@ typedef struct _SET {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -162,7 +162,7 @@ typedef struct _SET {
 
     Набор меток может быть основан на парах BYTE, WORD, DWORD, ЛАРЖЕИНТ, SYSTEMTIME и BIT меток.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -174,7 +174,7 @@ typedef struct _SET {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

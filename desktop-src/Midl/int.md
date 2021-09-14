@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 640eae8bfbadcba07f67d244edd78726269ede9eee2f14e9af06e851bb5cac92
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2f916c4f03023c756b71a2e3cbb38acd9f41f1e8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117807202"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143726"
 ---
 # <a name="int-attribute"></a>int, атрибут
 
@@ -70,14 +70,14 @@ typedef struct
 HRESULT MyFunc([in] long int lCount);
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
 [Базовые типы MIDL](midl-base-types.md)
 </dt> <dt>
 
-[**enum**](enum.md)
+[**перечисления**](enum.md)
 </dt> <dt>
 
 [**hyper**](hyper.md)
@@ -86,13 +86,13 @@ HRESULT MyFunc([in] long int lCount);
 [Файл определения интерфейса (IDL)](interface-definition-idl-file.md)
 </dt> <dt>
 
-[**long**](long.md)
+[**поддерживаем**](long.md)
 </dt> <dt>
 
 [**/осф**](-osf.md)
 </dt> <dt>
 
-[**short**](short.md)
+[**промежуток**](short.md)
 </dt> <dt>
 
 [**входил**](signed.md)
@@ -107,7 +107,7 @@ HRESULT MyFunc([in] long int lCount);
 [**определение**](typedef.md)
 </dt> <dt>
 
-[**наборов**](union.md)
+[**union**](union.md)
 </dt> </dl>
 
  

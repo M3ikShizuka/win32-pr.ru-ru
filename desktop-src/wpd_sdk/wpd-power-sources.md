@@ -14,11 +14,11 @@ api_type:
 api_location:
 - PortableDevice.h
 ms.openlocfilehash: bf9a153d4d41a64b639f796ea2ba0eeb9e567a32
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105648036"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127262043"
 ---
 # <a name="wpd_power_sources-enumeration"></a>\_ \_ Перечисление источников питания WPD
 
@@ -54,7 +54,7 @@ typedef enum WPD_POWER_SOURCES {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это перечисление используется свойством [ \_ \_ \_ источник питания устройства WPD](device-properties.md) .
 
@@ -64,7 +64,7 @@ typedef enum WPD_POWER_SOURCES {
 
 | Требование | Значение |
 |-------------------|---------------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Портабледевице. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Портабледевице. h</dt> </dl> |
 
 
 

@@ -8,12 +8,12 @@ keywords:
 - WWS
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: eb0bffecf49299b73863ddf32d758e4b62ceaa186b876d63e887d69c5b9ef94c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 787326197bc73d57945720c34773d33b613a4aab
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118026266"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127262019"
 ---
 # <a name="endpoint-address"></a>Адрес конечной точки
 

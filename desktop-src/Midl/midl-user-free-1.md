@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 53819035f700a948c9ca45c565310d7796516147
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "104337164"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143649"
 ---
 # <a name="midl_user_free-attribute"></a>\_свободный пользовательский \_ атрибут MIDL
 
@@ -38,7 +38,7 @@ void __RPC_API midl_user_free(void __RPC_FAR * p);
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Как клиентское приложение, так и серверное приложение должны реализовывать функцию **\_ пользовательского \_ освобождения MIDL** , если только компиляция не выполняется в режиме использование-Compatibility ([**/ОСФ**](-osf.md)). Функция **\_ \_ бесплатного пользователя MIDL** должна иметь возможность освободить все хранилище, выделенное [**пользователем MIDL \_ \_**](/windows/desktop/Rpc/the-midl-user-allocate-function).
 
@@ -89,6 +89,6 @@ void __RPC_API midl_user_free(void __RPC_FAR * p)
 [**однозначно**](unique.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

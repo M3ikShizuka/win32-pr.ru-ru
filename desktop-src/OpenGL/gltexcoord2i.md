@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b7c2ee5b7a1a1986f9d24a9650b97bc364e60b80f403f95d9e9ed15820a9f734
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fa4d710f49d55e8aa0379bfc83f79f877d3cc906
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119491254"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127259979"
 ---
 # <a name="gltexcoord2i-function"></a>Функция glTexCoord2i
 
@@ -65,7 +65,7 @@ void WINAPI glTexCoord2i(
 
 [**глжет**](glgetbooleanv--glgetdoublev--glgetfloatv--glgetintegerv.md) с аргументом в качестве \_ \_ координат текущей текстуры главной книги \_
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -79,7 +79,7 @@ void WINAPI glTexCoord2i(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

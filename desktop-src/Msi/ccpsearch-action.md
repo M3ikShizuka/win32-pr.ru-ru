@@ -4,12 +4,12 @@ ms.assetid: 0aa7bf8b-de76-464d-8e7b-3aa4f609fe19
 title: Действие Ккпсеарч
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 201af22dd557541825dcf2c47f06e7cf67cd8785fa85e0b78a28c25a570ffc89
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a8b1f01462ac0ba9dcf8838b9a043d95aef8cefe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118145697"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142557"
 ---
 # <a name="ccpsearch-action"></a>Действие Ккпсеарч
 

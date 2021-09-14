@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 852c29b2ba7b43e9d8b15863e60db8ad2fbde33f
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "103890508"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143717"
 ---
 # <a name="interface-attribute"></a>interface - атрибут
 
@@ -66,7 +66,7 @@ typedef interface interface-name declarator-list
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Имена интерфейсов в IDL-файле и ACF должны совпадать, за исключением случаев, когда используется параметр компилятора MIDL [**/АКФ**](-acf.md).
 
@@ -119,7 +119,7 @@ typedef interface IStorage *LPSTORAGE;
 [Файл конфигурации приложения (ACF)](application-configuration-file-acf-.md)
 </dt> <dt>
 
-[**endpoint**](endpoint.md)
+[**конечной**](endpoint.md)
 </dt> <dt>
 
 [Файл определения интерфейса (IDL)](interface-definition-idl-file.md)
@@ -128,7 +128,7 @@ typedef interface IStorage *LPSTORAGE;
 [**Языковые**](local.md)
 </dt> <dt>
 
-[**объектами**](object.md)
+[**object**](object.md)
 </dt> <dt>
 
 [**Указатель \_ по умолчанию**](pointer-default.md)
@@ -146,6 +146,6 @@ typedef interface IStorage *LPSTORAGE;
 [**Версия**](version.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

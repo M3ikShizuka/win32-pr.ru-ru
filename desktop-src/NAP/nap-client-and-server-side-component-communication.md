@@ -4,12 +4,12 @@ description: Взаимодействие клиента NAP и компонен
 ms.assetid: 7658cf0c-607b-44ba-b579-72082d0d1f51
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f2d3c390aa8bdc8cc80eec8834dd1c250d523737d63963b4b9370877ffa46329
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 07597ac80a1e02c4f8528b3c99050aefb5963988
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117799084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147206"
 ---
 # <a name="nap-client-and-server-side-component-communication"></a>Взаимодействие клиента NAP и компонентов на стороне сервера
 

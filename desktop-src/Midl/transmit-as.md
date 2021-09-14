@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 18d1b8e9aae9a147c929fade8030babbf6b02fd87c9170370252522001742e95
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4ec0cba27e994f7d77d441aef7bb783cad71cbad
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118382834"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143362"
 ---
 # <a name="transmit_as-attribute"></a>передать \_ как атрибут
 
@@ -159,7 +159,7 @@ void __RPC_USER TREE_TYPE_free_xmit(
 [**Контекстный \_ маркер**](context-handle.md)
 </dt> <dt>
 
-[**enum**](enum.md)
+[**перечисления**](enum.md)
 </dt> <dt>
 
 [**handle**](handle.md)
@@ -180,7 +180,7 @@ void __RPC_USER TREE_TYPE_free_xmit(
 [**ref**](ref.md)
 </dt> <dt>
 
-[**строка**](string.md)
+[**Строка**](string.md)
 </dt> <dt>
 
 [**struct**](struct.md)
@@ -192,7 +192,7 @@ void __RPC_USER TREE_TYPE_free_xmit(
 [**определение**](typedef.md)
 </dt> <dt>
 
-[**наборов**](union.md)
+[**union**](union.md)
 </dt> <dt>
 
 [**однозначно**](unique.md)

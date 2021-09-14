@@ -4,12 +4,12 @@ ms.assetid: a125aecc-57d9-4c8e-873e-d5315eaafa56
 title: Таблица Модулеинсталлуисекуенце
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8bb8f2868fbad03439758cd45a79a71febb5e2a9b0b863c2ee9ea0597f5b112f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9ca6771daa0b95acbc23e2d60eddda5420e417db
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118945369"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261136"
 ---
 # <a name="moduleinstalluisequence-table"></a>Таблица Модулеинсталлуисекуенце
 
@@ -21,11 +21,11 @@ ms.locfileid: "118945369"
 
 | Столбец     | Type                         | Ключ | Допускает значения NULL |
 |------------|------------------------------|-----|----------|
-| Действие     | [Идентификатор](identifier.md) | Д   | Нет        |
-| Последовательность   | [Integer](integer.md)       |     | Д        |
-| басеактион | [Идентификатор](identifier.md) |     | Д        |
-| После      | [Integer](integer.md)       |     | Д        |
-| Условие  | [Condition](condition.md)   |     | Д        |
+| Действие     | [Идентификатор](identifier.md) | Да   | Нет        |
+| Последовательность   | [Integer](integer.md)       |     | Да        |
+| басеактион | [Идентификатор](identifier.md) |     | Да        |
+| После      | [Integer](integer.md)       |     | Да        |
+| Условие  | [Condition](condition.md)   |     | Да        |
 
 
 

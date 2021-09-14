@@ -4,12 +4,12 @@ ms.assetid: 9cdcb25f-2c3d-411e-9aae-bdd52df38a97
 title: Исправления последовательности
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2f61a72c8122f9f3679cf691f88bc3d9bc952732b9d638ca838f9992068b1c24
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aa9cbd9aead596abfaeb50d972915bf4d618440d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120040013"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127260912"
 ---
 # <a name="sequencing-patches"></a>Исправления последовательности
 

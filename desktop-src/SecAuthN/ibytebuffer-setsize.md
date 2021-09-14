@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Scardssp.dll
-ms.openlocfilehash: e0d210d7868542bf02b544c91b6f33e3ba6e5381f25462f2cfedce555858cecb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 85a6abc11f3e007f3c8d1057cb5c8785c8519ebf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120016244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146661"
 ---
 # <a name="ibytebuffersetsize-method"></a>Метод Ибитебуффер:: SetSize
 
@@ -88,7 +88,7 @@ if (FAILED(hr))
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                                                   |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
 | Заголовок<br/>                   | <dl> <dt>Скардссп. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Скардссп. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Scardssp.dll</dt> </dl> |

@@ -4,12 +4,12 @@ ms.assetid: 9ba47bdc-90c8-444a-ba8b-71c723b54556
 title: Таблица MoveFile
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 49d90afe8a5fb950f2e6fdb96ba0f8af4f8969226a5dc219bc9cd0598481beb3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2340626e745627c3c6146998c851a076d21ab81a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118945099"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261091"
 ---
 # <a name="movefile-table"></a>Таблица MoveFile
 
@@ -21,11 +21,11 @@ ms.locfileid: "118945099"
 
 | Столбец       | Type                         | Ключ | Допускает значения NULL |
 |--------------|------------------------------|-----|----------|
-| филекэй      | [Идентификатор](identifier.md) | Д   | Нет        |
-| Компонент\_  | [Идентификатор](identifier.md) | Нет   | Нет        |
-| SourceName   | [Text](text.md)             | Нет   | Д        |
-| дестнаме     | [Имя файла](filename.md)     | Нет   | Д        |
-| SourceFolder | [Идентификатор](identifier.md) | Нет   | Д        |
+| филекэй      | [Идентификатор](identifier.md) | Да   | Нет        |
+| См\_  | [Идентификатор](identifier.md) | Нет   | Нет        |
+| SourceName   | [Text](text.md)             | Нет   | Да        |
+| дестнаме     | [Имя файла](filename.md)     | Нет   | Да        |
+| SourceFolder | [Идентификатор](identifier.md) | Нет   | Да        |
 | DestFolder   | [Идентификатор](identifier.md) | Нет   | Нет        |
 | Параметры      | [Integer](integer.md)       | Нет   | Нет        |
 

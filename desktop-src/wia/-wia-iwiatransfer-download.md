@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Wiaguid.lib
 - Wiaguid.dll
-ms.openlocfilehash: 039b7dd4579419bac744a07bbc6ddd55c4b0b2e2e713340bf256fdb95d8fc071
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2863915b850588d4db018693d9081ed2907d644a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119450214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127262283"
 ---
 # <a name="iwiatransferdownload-method"></a>Ивиатрансфер: метод:D гружать
 
@@ -69,7 +69,7 @@ HRESULT Download(
 
 При скачивании папки также переносятся все дочерние элементы этой папки. Каждый элемент передается в отдельном потоке.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -77,7 +77,7 @@ HRESULT Download(
 |-------------------------------------|----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                         |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                   |
-| Header<br/>                   | <dl> <dt>WIA. h</dt> </dl>       |
+| Заголовок<br/>                   | <dl> <dt>WIA. h</dt> </dl>       |
 | IDL<br/>                      | <dl> <dt>WIA. idl</dt> </dl>     |
 | Библиотека<br/>                  | <dl> <dt>Виагуид. lib</dt> </dl> |
 

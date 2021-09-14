@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6f3db15bc46d6d8ab3ec108c648d094ebf706d9286a8c4b0a823fa409e118e3d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 500b87c849f31082a036d605db0947650e914bed
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118641341"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143438"
 ---
 # <a name="signed-attribute"></a>атрибут со знаком
 
@@ -64,13 +64,13 @@ ms.locfileid: "118641341"
 [Файл определения интерфейса (IDL)](interface-definition-idl-file.md)
 </dt> <dt>
 
-[**INT**](int.md)
+[**int**](int.md)
 </dt> <dt>
 
-[**long**](long.md)
+[**поддерживаем**](long.md)
 </dt> <dt>
 
-[**short**](short.md)
+[**промежуток**](short.md)
 </dt> <dt>
 
 [**значительные**](small.md)

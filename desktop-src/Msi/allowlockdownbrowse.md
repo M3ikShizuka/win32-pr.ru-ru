@@ -4,12 +4,12 @@ ms.assetid: 1cf83f77-75a4-48c3-961e-339c76ba4306
 title: алловлоккдовнбровсе
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c9af9f2c5eb4c455c9eeb0cc2f24abb674a84647b5616752afdc3b277c73b1f0
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 187fe39a01e821b271050cdd8d6c8e96b6611d60
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119821974"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142974"
 ---
 # <a name="allowlockdownbrowse"></a>алловлоккдовнбровсе
 

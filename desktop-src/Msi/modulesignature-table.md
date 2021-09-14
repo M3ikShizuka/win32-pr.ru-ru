@@ -4,12 +4,12 @@ ms.assetid: 09802282-72ad-43f1-8cce-4cdc68b01e87
 title: Таблица ModuleSignature
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 92f269215fef06af5eeacc80f1356c2ad2226c20075c1d09f1e128c062438508
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d75e3bb013472c49d18fa44b840ce07b11728faf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118945342"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261131"
 ---
 # <a name="modulesignature-table"></a>Таблица ModuleSignature
 
@@ -23,9 +23,9 @@ ms.locfileid: "118945342"
 
 | Столбец   | Type                         | Ключ | Допускает значения NULL |
 |----------|------------------------------|-----|----------|
-| ModuleID | [Идентификатор](identifier.md) | Д   | Нет        |
-| Язык | [Integer](integer.md)       | Д   | Нет        |
-| Версия  | [Version](version.md)       |     | Нет        |
+| ModuleID | [Идентификатор](identifier.md) | Да   | Нет        |
+| Язык | [Integer](integer.md)       | Да   | Нет        |
+| Версия  | [Версия](version.md)       |     | Нет        |
 
 
 

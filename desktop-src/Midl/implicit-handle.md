@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 17c53ded4c7459be8f0c8eb98f3770d88ff88a9b7da20cb3482c1032a4f74e96
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 22f410fa048a27e1f7626690e6308de4c1a31c2a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119013812"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143754"
 ---
 # <a name="implicit_handle-attribute"></a>неявный \_ атрибут Handle
 
@@ -70,7 +70,7 @@ interface iface
 }
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

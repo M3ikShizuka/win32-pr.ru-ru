@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: a5c97ca9a2dbbfeddc5416b517e85e0926434c5d
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "105661713"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143417"
 ---
 # <a name="struct-attribute"></a>атрибут struct
 
@@ -63,7 +63,7 @@ struct [[ struct-tag ]]
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Спецификатор типа структуры IDL, **Структура**, отличается от спецификатора стандартного типа C следующим образом:
 
@@ -128,7 +128,7 @@ typedef struct _PITCHER_RECORD_TYPE
 [**/осф**](-osf.md)
 </dt> <dt>
 
-[**ptr**](ptr.md)
+[**указатель**](ptr.md)
 </dt> <dt>
 
 [**ref**](ref.md)
@@ -143,12 +143,12 @@ typedef struct _PITCHER_RECORD_TYPE
 [**Тип коммутатора \_**](switch-type.md)
 </dt> <dt>
 
-[**наборов**](union.md)
+[**union**](union.md)
 </dt> <dt>
 
 [**однозначно**](unique.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

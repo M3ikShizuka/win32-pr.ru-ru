@@ -4,12 +4,12 @@ description: Структуры NAP
 ms.assetid: 68048587-0f7e-48d4-9326-768a977ea3ee
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fd23e5f137592b24a2c1a1b15c4e2c969fa0e9b91ac9c80dcc7f8cb3fad3f2cd
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b31f217afc96a25a5f85166ebde4e13b483e4a0c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119802614"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147173"
 ---
 # <a name="nap-structures"></a>Структуры NAP
 
@@ -20,7 +20,7 @@ ms.locfileid: "119802614"
 
 API NAP поддерживают следующие структуры данных:
 
--   [**Соединение**](connections-struct.md)
+-   [**Соединения**](connections-struct.md)
 -   [**CorrelationId**](/windows/win32/api/naptypes/ns-naptypes-correlationid)
 -   [**каунтедстринг**](/windows/win32/api/naptypes/ns-naptypes-countedstring)
 -   [**фаилурекатегоримаппинг**](/windows/win32/api/naptypes/ns-naptypes-failurecategorymapping)

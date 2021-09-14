@@ -4,12 +4,12 @@ ms.assetid: 65d2f40e-c42c-4d71-b9b3-7662a8be0953
 title: EC_NOTIFY_WINDOW (DShow. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 355d4ec8b5b6bea55a2f32f01cc2f83aabeab84443b28e431e5b0d6155acc6d8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b3165247f05e2fb945f02fee43149b84480bd4b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117820116"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147742"
 ---
 # <a name="ec_notify_window"></a>\_окно уведомления \_ EC
 

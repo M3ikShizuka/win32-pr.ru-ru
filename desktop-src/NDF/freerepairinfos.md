@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 63bf6ab2154376302e4c9dd076ccaf83a0c565c7
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104135522"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147093"
 ---
 # <a name="freerepairinfos-function"></a>Функция Фрирепаиринфос
 
@@ -45,13 +45,13 @@ VOID FreeRepairInfos(
 *пинфо* \[ окне\]
 </dt> <dd>
 
-Тип: **[**репаиринфо**](/windows/win32/api/ndattrib/ns-ndattrib-repairinfo) \** _
+Тип: **[ **репаиринфо**](/windows/win32/api/ndattrib/ns-ndattrib-repairinfo)\***
 
 Массив структур. Выделенная память, на которую указывают эти структуры, будет освобождена.
 
 </dd> <dt>
 
-_RepairCount * 
+*репаиркаунт* 
 </dt> <dd>
 
 Тип: **ulong**
@@ -79,9 +79,9 @@ _RepairCount *
 
 | Требование | Значение |
 |-------------------------------------|--------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 8\]<br/>                                                 |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2012\]<br/>                                       |
-| Header<br/>                   | <dl> <dt>Ндаттрибутилс. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                                 |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                       |
+| Заголовок<br/>                   | <dl> <dt>Ндаттрибутилс. h</dt> </dl> |
 
 
 

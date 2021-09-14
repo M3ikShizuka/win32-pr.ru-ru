@@ -6,12 +6,12 @@ keywords:
 - type_free_inst
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e0dc71c8d3557c62eec39fe9a90855ef3ed057d29c21ec60a82ddc7fe04207f1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3754106cf8e0cc6e338f91d6c233181aa33038eb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118923713"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146734"
 ---
 # <a name="the-type_free_inst-function"></a>Функция типа \_ Free \_ inst
 

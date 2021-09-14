@@ -4,12 +4,12 @@ ms.assetid: e70eab94-4615-4a73-bccc-e16bd24551f6
 title: Создание полностью проверенной подписанной установки
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 11d105b06e3f063d8cbeb1fac579beb12258b20062bf5cbae2cc6d08e9be6e4d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b9e76bbfb77eab8b020cb1591847d2a36d09c96a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119066184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142777"
 ---
 # <a name="authoring-a-fully-verified-signed-installation"></a>Создание полностью проверенной подписанной установки
 

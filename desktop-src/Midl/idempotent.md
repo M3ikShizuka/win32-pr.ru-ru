@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 24a4135fdcb38fbad9e41b04a136f69420da7455f68d38a0c507135892e2a00f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 82364c6222f6b566ef6aacb5b71a72b49c213f5a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119895224"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143777"
 ---
 # <a name="idempotent-attribute"></a>атрибут идемпотентными
 
@@ -85,7 +85,7 @@ RPC поддерживает два типа семантики удаленно
 
 Чтобы обеспечить автоматическое повторное выполнение процедуры, если вызов не завершен, используйте атрибут **\[ идемпотентными \]** . Если атрибуты **\[ идемпотентными \]**, **\[** [**Broadcast**](broadcast.md) **\]** или может отсутствовать **\[** [](maybe.md) **\]** , процедура по умолчанию будет использовать семантику, отличную от идемпотентными. В этом случае операция выполняется только один раз.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

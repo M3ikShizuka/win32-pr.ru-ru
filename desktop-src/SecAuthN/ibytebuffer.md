@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Scardssp.dll
-ms.openlocfilehash: 8f0aa81106629142efeec7e22bdb495bea853c3c689d6b55887a62f896d89d62
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dfba15dee78134a9787bf7af994f1d4e2b064339
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119417414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146653"
 ---
 # <a name="ibytebuffer-interface"></a>Интерфейс Ибитебуффер
 
@@ -41,23 +41,23 @@ ms.locfileid: "119417414"
 | Метод                                           | Описание                                                                                               |
 |:-------------------------------------------------|:----------------------------------------------------------------------------------------------------------|
 | [**Клонировать**](ibytebuffer-clone.md)               | Создает точную копию объекта **ибитебуффер** .<br/>                                                              |
-| [**Фиксация**](ibytebuffer-commit.md)             | Фиксирует [*транзакцию*](/windows/desktop/SecGloss/t-gly).<br/> |
+| [**Commit**](ibytebuffer-commit.md)             | Фиксирует [*транзакцию*](/windows/desktop/SecGloss/t-gly).<br/> |
 | [**CopyTo**](ibytebuffer-copyto.md)             | Копирует байты в другой объект.<br/>                                                                |
 | [**Инициализация**](ibytebuffer-initialize.md)     | Инициализирует объект **ибитебуффер** .<br/>                                                        |
 | [**LockRegion**](ibytebuffer-lockregion.md)     | Разрешает доступ к диапазону байтов.<br/>                                                          |
 | [**Чтение**](ibytebuffer-read.md)                 | Считывает байты в память.<br/>                                                                       |
-| [**Отменить**](ibytebuffer-revert.md)             | Отклоняет изменения с момента последнего вызова [**фиксации**](ibytebuffer-commit.md) .<br/>                     |
+| [**Переход к предыдущей версии**](ibytebuffer-revert.md)             | Отклоняет изменения с момента последнего вызова [**фиксации**](ibytebuffer-commit.md) .<br/>                     |
 | [**Seek**](ibytebuffer-seek.md)                 | Изменяет указатель поиска.<br/>                                                                      |
 | [**SetSize**](ibytebuffer-setsize.md)           | Изменяет размер объекта-потока.<br/>                                                         |
 | [**STAT**](ibytebuffer-stat.md)                 | Получает статистические сведения о потоке.<br/>                                              |
 | [**UnlockRegion**](ibytebuffer-unlockregion.md) | Удаляет ограничение доступа, установленное ранее [**LockRegion**](ibytebuffer-lockregion.md).<br/>     |
-| [**Запись**](ibytebuffer-write.md)               | Записывает байты в поток.<br/>                                                                    |
+| [**запись**](ibytebuffer-write.md)               | Записывает байты в поток.<br/>                                                                    |
 
 
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -66,8 +66,8 @@ ms.locfileid: "119417414"
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                                                   |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Скардссп. h</dt> </dl>   |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
+| Заголовок<br/>                   | <dl> <dt>Скардссп. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Скардссп. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Scardssp.dll</dt> </dl> |
 | IID<br/>                      | IID \_ ибитебуффер определен как E126F8FE-A7AF-11D0-B88A-00C04FD424B9<br/>          |

@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1ac2d874f6138bcc1fbc97952d4464e56e05b0a497c7b0ff98e9c05e8c8434e3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f59c4c342f693038040f374bbdbcdb8ab226f74d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118133459"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147213"
 ---
 # <a name="initializenapagentnotifier-function"></a>Функция Инитиализенапажентнотифиер
 
@@ -83,7 +83,7 @@ NAPAPI HRESULT WINAPI InitializeNapAgentNotifier(
 
 Когда процесс не требует дальнейших уведомлений, процесс должен вызвать [**унинитиализенапажентнотифиер**](uninitializenapagentnotifier.md) для указанного *типа*.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -96,7 +96,7 @@ NAPAPI HRESULT WINAPI InitializeNapAgentNotifier(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

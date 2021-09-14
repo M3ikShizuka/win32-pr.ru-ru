@@ -4,12 +4,12 @@ ms.assetid: 83c4e7f6-fced-447f-bfa2-847dce660139
 title: ДИСАБЛЕМЕДИА, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d56e6e50bdfe8a6ead05ad467caa355a7b6051715b65ec624e3cec6eea2affcb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ffc1cad17269541fdb60573ae11065d485af9bda
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118640459"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143293"
 ---
 # <a name="disablemedia-property"></a>ДИСАБЛЕМЕДИА, свойство
 

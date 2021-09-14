@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: 2657fea53c4e7021e17df4b74cc210bd8547180566ff579524f85b7663a0c247
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4da3db21947de6d35ef5e848499efc7f22633f7f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118226567"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127262555"
 ---
 # <a name="iitempropertybag-interface"></a>Интерфейс Иитемпропертибаг
 
@@ -40,7 +40,7 @@ ms.locfileid: "118226567"
 | [**каунтпропертиес**](/previous-versions/windows/desktop/legacy/ff684387(v=vs.85)) | Возвращает количество свойств в контейнере свойств.<br/>                     |
 | [**GetPropertyInfo**](iitempropertybag-getpropertyinfo.md) | Возвращает сведения, необходимые для чтения или сохранения свойств в контейнере свойств.<br/> |
 | [**Чтение**](iitempropertybag-read.md)                       | Вызывает считывание одного или нескольких свойств из контейнера свойств.<br/>                   |
-| [**Запись**](iitempropertybag-write.md)                     | Вызывает сохранение одного или нескольких свойств в контейнере свойств.<br/>                  |
+| [**запись**](iitempropertybag-write.md)                     | Вызывает сохранение одного или нескольких свойств в контейнере свойств.<br/>                  |
 
 
 

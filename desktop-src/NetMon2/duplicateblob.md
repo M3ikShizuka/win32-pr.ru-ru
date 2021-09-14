@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Npptools.dll
 ms.openlocfilehash: df0fc00f0bd51e89da432e6f3b0143ce6092cedb
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105650997"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127260435"
 ---
 # <a name="duplicateblob-function"></a>Функция Дупликатеблоб
 

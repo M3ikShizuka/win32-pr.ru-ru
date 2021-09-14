@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: af190261af4cd7f317e6e90fa6bce2e4e001731863cdf1c24f52877f5ba87207
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 00ce7ef80805a8214de3c4a90f157886c7def25b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118617436"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146898"
 ---
 # <a name="glcolor3usv-function"></a>Функция glColor3usv
 

@@ -4,12 +4,12 @@ ms.assetid: 44161f12-8418-409e-b925-e6d8447a9fe9
 title: PIDKEY, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 939eb8101ced8f39e5b12eba77a5088da219f7576ed1b52e1ffb9d25290e0f86
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f11d4af8807cc57596abbed6dd526275ae164ad0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119534454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147589"
 ---
 # <a name="pidkey-property"></a>PIDKEY, свойство
 
@@ -17,7 +17,7 @@ ms.locfileid: "119534454"
 
 Свойство **PIDKEY** можно задать в командной строке или с помощью пользовательского интерфейса. Это свойство содержит только часть идентификатора продукта, вводимых пользователем.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

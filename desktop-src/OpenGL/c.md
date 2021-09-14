@@ -21,12 +21,12 @@ keywords:
 - Текущая растровая размещается
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 39007e4719e1f4507555bf5aafa3187a897756d1d33580e9facc8fa0f6d8fa3e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 73c9534052533745b1037aa80f26f435a163ee46
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119675994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146942"
 ---
 # <a name="c-opengl"></a>C (OpenGL)
 

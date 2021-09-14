@@ -5,11 +5,11 @@ title: Таблица AppId
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 1d9a121e6252c6054d5ac2765a9649e345035dde
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122882221"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142934"
 ---
 # <a name="appid-table"></a>Таблица AppId
 
@@ -29,7 +29,7 @@ ms.locfileid: "122882221"
 | Столбец               | Type                       | Ключ | Допускает значения NULL |
 |----------------------|----------------------------|-----|----------|
 | AppId                | [GUID](guid.md)           | Да   | Нет        |
-| ремотесервернаме     | [Формате](formatted.md) | N   | Да        |
+| ремотесервернаме     | [Формате](formatted.md) | Нет   | Да        |
 | локальная служба.         | [Text](text.md)           | Нет   | Да        |
 | сервицепараметерс    | [Text](text.md)           | Нет   | Да        |
 | дллсуррогате         | [Text](text.md)           | Нет   | Да        |
@@ -93,7 +93,7 @@ ms.locfileid: "122882221"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Эта таблица используется действием [регистерклассинфо](registerclassinfo-action.md) и [унрегистерклассинфо](unregisterclassinfo-action.md).
 

@@ -4,12 +4,12 @@ ms.assetid: cc871d84-fad0-4b18-b9ad-6f3b24b0b751
 title: System. photo. Фокалпланэйресолутионденоминатор
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 72b876fe0a4618b07923642206cb09699fc99f14a61d71961df343c40c515d4e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 916c6e12a7e16c13410c777b740148c4bf503537
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118229088"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127262595"
 ---
 # <a name="systemphotofocalplaneyresolutiondenominator"></a>System. photo. Фокалпланэйресолутионденоминатор
 

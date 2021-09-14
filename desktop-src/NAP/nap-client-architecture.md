@@ -4,12 +4,12 @@ description: клиент NAP — это компьютер под управл�
 ms.assetid: 163c33c9-b18b-49f9-a2a1-fd90a1dc0826
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: be876cf7f0cf53c1c3c5885d94c43f45c1f79759d80490a0647d5e7d7678fba9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 15862eaa6ae4f4c1f79c53cf9d540aedec295e8a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120037622"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147197"
 ---
 # <a name="nap-client-architecture"></a>Архитектура клиента NAP
 

@@ -4,12 +4,12 @@ ms.assetid: 53ed2eb4-2c29-48fd-b7fa-0c27bf155758
 title: Форматы имен пользователей
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 57c2d4a31904e1cdc6c08da596e2db24054389387ef90142001e7f0e6e520567
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c1fb99a9e6064cd3883a8d71c1e76ca853d88661
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118915549"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146489"
 ---
 # <a name="user-name-formats"></a>Форматы имен пользователей
 

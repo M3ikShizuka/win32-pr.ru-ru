@@ -6,12 +6,12 @@ keywords:
 - типы данных MIDL, со знаком и без знака
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4e9f65931720e80de6575d8b7125e6b5082a32e510e1be07e620e6592d30e485
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e2a3ed3c9f7022123f162fe0240ae190cdb4c8f8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119066754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143445"
 ---
 # <a name="signed-and-unsigned-types-midl"></a>Подписанные и неподписанные типы (MIDL)
 

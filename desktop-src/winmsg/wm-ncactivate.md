@@ -4,12 +4,12 @@ ms.assetid: d25732b9-b9ab-4754-a4cf-002d32e3945e
 title: Сообщение WM_NCACTIVATE (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 095f0cc7f555b4daf80a67a2394e29286f32a49dcba687780e8747f5d1b193fb
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6a23cc5e0495d6679efea805eab80290b209906d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120056004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127262227"
 ---
 # <a name="wm_ncactivate-message"></a>\_Сообщение НКАКТИВАТЕ WM
 
@@ -56,7 +56,7 @@ ms.locfileid: "120056004"
 
 Функция [**дефвиндовпрок**](/windows/desktop/api/winuser/nf-winuser-defwindowproca) рисует строку заголовка или заголовок значка в его активных цветах, когда параметр *wParam* имеет **значение true** , а неактивные цвета *— в случае* **false**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ ms.locfileid: "120056004"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -78,7 +78,7 @@ ms.locfileid: "120056004"
 [**дефвиндовпрок**](/windows/desktop/api/winuser/nf-winuser-defwindowproca)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Windows](windows.md)

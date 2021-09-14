@@ -4,12 +4,12 @@ ms.assetid: 5d452b24-ae04-4c45-8b3b-48e81f13a21e
 title: Таблица MIME
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a9e8a8f83499e286b63bf24dffa8858329231e74eec1f641588230da51578007
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ca11c8596e8f3735872c88668211953fc2b18b52
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119913374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261248"
 ---
 # <a name="mime-table"></a>Таблица MIME
 
@@ -21,9 +21,9 @@ ms.locfileid: "119913374"
 
 | Столбец      | Type             | Ключ | Допускает значения NULL |
 |-------------|------------------|-----|----------|
-| ContentType | [Text](text.md) | Д   | Нет        |
+| ContentType | [Text](text.md) | Да   | Нет        |
 | Расширение\_ | [Text](text.md) | Нет   | Нет        |
-| CLSID       | [GUID](guid.md) | Нет   | Д        |
+| CLSID       | [GUID](guid.md) | Нет   | Да        |
 
 
 

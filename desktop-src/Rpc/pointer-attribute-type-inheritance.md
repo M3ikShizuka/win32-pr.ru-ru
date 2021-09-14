@@ -4,12 +4,12 @@ description: В соответствии со спецификацией DCE к�
 ms.assetid: ab8821ce-d52a-42bf-aa5e-582bb24adf93
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bcf0b365cecf2880fa2746536c3f1d80505f5d7534b95017f8abb18ceecd9d09
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 182b7d46774484a9520424fd82bcff2d7103aa3c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120019264"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146753"
 ---
 # <a name="pointer-attribute-type-inheritance"></a>Наследование типа Pointer-Attribute
 

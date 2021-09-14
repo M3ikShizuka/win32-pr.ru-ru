@@ -4,12 +4,12 @@ ms.assetid: 81688d31-e560-4dd0-8d84-efb50206c76e
 title: Таблица Сервицеинсталл
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3850b957df4dd0af662354c14f82717e4b86ad597f151c6a45bb8dc1bebea5af
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b502583802a26c10bfd9572375149720c7c597f4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120039964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127260899"
 ---
 # <a name="serviceinstall-table"></a>Таблица Сервицеинсталл
 
@@ -19,19 +19,19 @@ ms.locfileid: "120039964"
 
 | Столбец         | Type                               | Ключ | Допускает значения NULL |
 |----------------|------------------------------------|-----|----------|
-| сервицеинсталл | [Идентификатор](identifier.md)       | Д   | Нет        |
+| сервицеинсталл | [Идентификатор](identifier.md)       | Да   | Нет        |
 | Имя           | [Формате](formatted.md)         | Нет   | Нет        |
-| DisplayName    | [Формате](formatted.md)         | Нет   | Д        |
+| DisplayName    | [Формате](formatted.md)         | Нет   | Да        |
 | ServiceType    | [даублеинтежер](doubleinteger.md) | Нет   | Нет        |
 | StartType      | [даублеинтежер](doubleinteger.md) | Нет   | Нет        |
 | ErrorControl   | [даублеинтежер](doubleinteger.md) | Нет   | Нет        |
-| LoadOrderGroup | [Формате](formatted.md)         | Нет   | Д        |
-| Зависимости   | [Формате](formatted.md)         | Нет   | Д        |
-| StartName      | [Формате](formatted.md)         | Нет   | Д        |
-| Пароль       | [Формате](formatted.md)         | Нет   | Д        |
-| Аргументы      | [Формате](formatted.md)         | Нет   | Д        |
-| Компонент\_    | [Идентификатор](identifier.md)       | Нет   | Нет        |
-| Описание    | [Формате](formatted.md)         | Нет   | Д        |
+| LoadOrderGroup | [Формате](formatted.md)         | Нет   | Да        |
+| Зависимости   | [Формате](formatted.md)         | Нет   | Да        |
+| StartName      | [Формате](formatted.md)         | Нет   | Да        |
+| Пароль       | [Формате](formatted.md)         | Нет   | Да        |
+| Аргументы      | [Формате](formatted.md)         | Нет   | Да        |
+| См\_    | [Идентификатор](identifier.md)       | Нет   | Нет        |
+| Описание    | [Формате](formatted.md)         | Нет   | Да        |
 
 
 

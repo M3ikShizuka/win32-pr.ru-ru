@@ -3,16 +3,16 @@ description: узнайте о комплектах шифров TLS в Windows 
 title: комплекты шифров TLS в Windows 10 v1803
 ms.topic: article
 ms.date: 10/09/2018
-ms.openlocfilehash: 3656ae05209b040385b512bf738cc9d01e4a5af2a3c3b0319f40e4c10400f63d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a86bb7b4d1ab3b104d8336ffab598686efcd99c4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118916153"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146542"
 ---
 # <a name="tls-cipher-suites-in-windows-10-v1803"></a>комплекты шифров TLS в Windows 10 v1803
 
-\[Некоторые сведения относятся к предварительно выпущенному продукту, который может быть значительно изменен перед коммерческой выпуском. Корпорация Майкрософт не предоставляет никаких гарантий, явных или подразумеваемых, относительно предоставленной здесь информации.\]
+\[Некоторые сведения относятся к предварительно выпущенному продукту, который может быть значительно изменен перед коммерческой выпуском. Майкрософт не предоставляет никаких гарантий, явных или подразумеваемых, относительно приведенных здесь сведений.\]
 
 Комплекты шифров можно согласовать только для тех версий TLS, которые их поддерживают. Наивысшая поддерживаемая версия TLS всегда является предпочтительной в подтверждении TLS.
 
@@ -55,8 +55,8 @@ ms.locfileid: "118916153"
 | TLS \_ RSA \_ с \_ AES \_ 256 \_ CBC \_ SHA<br/>                                                       | Да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
 | TLS \_ RSA \_ с \_ AES \_ 128 \_ CBC \_ SHA<br/>                                                       | Да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
 | TLS \_ RSA \_ с \_ 3DES \_ еде \_ CBC \_ SHA<br/>                                                      | Да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
-| TLS \_ RSA \_ с \_ нулевым \_ SHA256 <br/> Используется только при явном запросе приложения.<br/> | нет<br/>                       | TLS 1.2<br/>                            |
-| TLS \_ RSA \_ с \_ нулевым \_ SHA <br/> Используется только при явном запросе приложения.<br/>    | нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
+| TLS \_ RSA \_ с \_ нулевым \_ SHA256 <br/> Используется только при явном запросе приложения.<br/> | Нет<br/>                       | TLS 1.2<br/>                            |
+| TLS \_ RSA \_ с \_ нулевым \_ SHA <br/> Используется только при явном запросе приложения.<br/>    | Нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
 
 
 
@@ -75,15 +75,15 @@ ms.locfileid: "118916153"
 | TLS \_ дхе \_ DSS \_ с \_ AES \_ 256 \_ CBC \_ SHA<br/>                                                | Да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
 | TLS \_ дхе \_ DSS \_ с \_ AES \_ 128 \_ CBC \_ SHA<br/>                                                | Да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
 | TLS \_ дхе \_ DSS \_ с \_ 3DES \_ еде \_ CBC \_ SHA<br/>                                               | Да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
-| Алгоритм \_ TLS \_ RSA \_ с \_ \_ алгоритмом SHA 128<br/>                                                          | нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
+| Алгоритм \_ TLS \_ RSA \_ с \_ \_ алгоритмом SHA 128<br/>                                                          | Нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
 | Алгоритм TLS \_ RSA \_ с \_ RC4 \_ 128 \_ MD5<br/>                                                          | Нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
-| TLS \_ RSA \_ с \_ Des \_ CBC \_ SHA<br/>                                                          | нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
-| TLS \_ дхе \_ DSS \_ с \_ Des \_ CBC \_ SHA<br/>                                                     | нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
-| TLS \_ дхе \_ DSS \_ EXPORT1024 \_ с \_ DES \_ CBC \_ SHA No tls 1,2, tls 1,1, TLS 1,0, SSL 3,0<br/>   | нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
-| TLS \_ RSA \_ с \_ неопределенным \_ MD5 <br/> Используется только при явном запросе приложения. <br/> | нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
-| TLS \_ RSA \_ EXPORT1024 \_ с \_ \_ \_ алгоритмом SHA 56<br/>                                               | нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
-| \_Экспорт RSA \_ TLS \_ с \_ помощью \_ \_ алгоритма MD5 40<br/>                                                   | нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
-| TLS \_ RSA \_ EXPORT1024 \_ с \_ Des \_ CBC \_ SHA<br/>                                              | нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
+| TLS \_ RSA \_ с \_ Des \_ CBC \_ SHA<br/>                                                          | Нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
+| TLS \_ дхе \_ DSS \_ с \_ Des \_ CBC \_ SHA<br/>                                                     | Нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
+| TLS \_ дхе \_ DSS \_ EXPORT1024 \_ с \_ DES \_ CBC \_ SHA No tls 1,2, tls 1,1, TLS 1,0, SSL 3,0<br/>   | Нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
+| TLS \_ RSA \_ с \_ неопределенным \_ MD5 <br/> Используется только при явном запросе приложения. <br/> | Нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
+| TLS \_ RSA \_ EXPORT1024 \_ с \_ \_ \_ алгоритмом SHA 56<br/>                                               | Нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
+| \_Экспорт RSA \_ TLS \_ с \_ помощью \_ \_ алгоритма MD5 40<br/>                                                   | Нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
+| TLS \_ RSA \_ EXPORT1024 \_ с \_ Des \_ CBC \_ SHA<br/>                                              | Нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
 
 
 
@@ -100,7 +100,7 @@ ms.locfileid: "118916153"
 | TLS \_ PSK \_ с \_ AES \_ 256 \_ CBC \_ SHA384<br/> | Да<br/>                      | TLS 1.2<br/>        |
 | TLS \_ PSK \_ с \_ AES \_ 128 \_ CBC \_ SHA256<br/> | Да<br/>                      | TLS 1.2<br/>        |
 | TLS \_ PSK \_ с \_ нулевым \_ SHA384<br/>          | Нет<br/>                       | TLS 1.2<br/>        |
-| TLS \_ PSK \_ с \_ нулевым \_ SHA256<br/>          | нет<br/>                       | TLS 1.2<br/>        |
+| TLS \_ PSK \_ с \_ нулевым \_ SHA256<br/>          | Нет<br/>                       | TLS 1.2<br/>        |
 
 
 

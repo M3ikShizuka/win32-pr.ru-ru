@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7b6349683c3a3c591752036d9a5e2995d368460a049a79d2e1cf4123beb2b0ea
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9e24c39511df9637c352245b98b237fe8fd451eb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119066954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143569"
 ---
 # <a name="nonbrowsable-attribute"></a>nonbrowsable - атрибут
 
@@ -45,7 +45,7 @@ ms.locfileid: "119066954"
 
 </dd> <dt>
 
-*имя свойства* 
+*property-name* 
 </dt> <dd>
 
 Имя свойства или метода.
@@ -85,7 +85,7 @@ interface IDynaset:IDispatch
 }
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

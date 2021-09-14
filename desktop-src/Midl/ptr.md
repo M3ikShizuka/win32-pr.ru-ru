@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 53e9b85be5e9073a272dafd63a2a01ba64f440f90cc5d9c41f44260f235f9ab5
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b2d8b2ee2e3ea4daccd1c4fa37ff1c1f1899dd3c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119927424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143485"
 ---
 # <a name="ptr-attribute"></a>ptr - атрибут
 
@@ -165,7 +165,7 @@ typedef [ptr, string] unsigned char * MY_STRING_TYPE;
 [ptr] char * MyFunction([in, out, unique] long * plNumber);
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -190,7 +190,7 @@ typedef [ptr, string] unsigned char * MY_STRING_TYPE;
 [**Контекстный \_ маркер**](context-handle.md)
 </dt> <dt>
 
-[**enum**](enum.md)
+[**перечисления**](enum.md)
 </dt> <dt>
 
 [**первый \_ —**](first-is.md)
@@ -238,7 +238,7 @@ typedef [ptr, string] unsigned char * MY_STRING_TYPE;
 [**передать \_ как**](transmit-as.md)
 </dt> <dt>
 
-[**наборов**](union.md)
+[**union**](union.md)
 </dt> <dt>
 
 [**однозначно**](unique.md)

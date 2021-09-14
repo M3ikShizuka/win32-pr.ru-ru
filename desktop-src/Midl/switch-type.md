@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8695a17c60f9785d7782d77db839499306a9577755e8a6838540f5a0fc2cea48
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 14184c5838d9f671f75536714d73c3f6ebf00a0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119146237"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143405"
 ---
 # <a name="switch_type-attribute"></a>\_атрибут типа Switch
 
@@ -77,13 +77,13 @@ typedef struct _WINNER_TYPE
 [Инкапсулированные объединения](encapsulated-unions.md)
 </dt> <dt>
 
-[**enum**](enum.md)
+[**перечисления**](enum.md)
 </dt> <dt>
 
 [Файл определения интерфейса (IDL)](interface-definition-idl-file.md)
 </dt> <dt>
 
-[**INT**](int.md)
+[**int**](int.md)
 </dt> <dt>
 
 [Неинкапсулированные объединения](nonencapsulated-unions.md)
@@ -92,7 +92,7 @@ typedef struct _WINNER_TYPE
 [**параметр \_ имеет**](switch-is.md)
 </dt> <dt>
 
-[**наборов**](union.md)
+[**union**](union.md)
 </dt> </dl>
 
  

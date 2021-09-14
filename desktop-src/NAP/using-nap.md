@@ -4,12 +4,12 @@ description: Описание распространенных программ�
 ms.assetid: d02ecc8f-9e7d-431f-a833-8a51111ed1c0
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6586b6d22246f29d977199306a6363ddc337284cdb90d012a39ccba9c295a35a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 01111613ba57c77985231cc87ba98e171c53f0c8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117798994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147133"
 ---
 # <a name="using-nap"></a>Использование NAP
 

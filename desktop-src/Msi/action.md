@@ -4,12 +4,12 @@ ms.assetid: f2c436b6-ebd9-4ac4-8609-f54129023ca7
 title: Свойство ACTION
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 14b4f17c7bd08b2e366fa23a55ad2b8044ce845ac4df04d0164ba34ad6dff32b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 901061f953ffaed030ff6d3a94f440eada25fc59
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119145997"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143145"
 ---
 # <a name="action-property"></a>Свойство ACTION
 

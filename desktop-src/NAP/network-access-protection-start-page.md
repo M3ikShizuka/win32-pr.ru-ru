@@ -7,12 +7,12 @@ keywords:
 - Защита доступа к сети, начальная страница
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fc1e5b5121566c3626ee7a9f2ba5d85efc1bf6cff17b412cd99874ae9b346780
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7b99348428a867be5bf846fd40b030b844460cdc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118939132"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147150"
 ---
 # <a name="network-access-protection"></a>Защита доступа к сети
 

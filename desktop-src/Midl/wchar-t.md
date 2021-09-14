@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: e0be9af276a8f87fe5ee7a4dfeb499b864de92f4
-ms.sourcegitcommit: 686cb805bed0e89573fc68d145809f50c6b0e6d5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/13/2020
-ms.locfileid: "104069660"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143306"
 ---
 # <a name="wchar_t-attribute"></a>\_атрибут WCHAR t
 
@@ -38,7 +38,7 @@ wchar_t identifier-name;
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Тип **WCHAR \_ t** определяется MIDL как [**неподписанный**](unsigned.md) [**короткий**](short.md) (16-разрядный) объект данных.
 
@@ -66,7 +66,7 @@ wchar_t identifier-name;
 [Файл определения интерфейса (IDL)](interface-definition-idl-file.md)
 </dt> <dt>
 
-[**short**](short.md)
+[**промежуток**](short.md)
 </dt> <dt>
 
 [**определение**](typedef.md)
@@ -75,9 +75,9 @@ wchar_t identifier-name;
 [**без знака**](unsigned.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

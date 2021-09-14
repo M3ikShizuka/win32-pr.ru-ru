@@ -8,12 +8,12 @@ keywords:
 - Язык MIDL MIDL, описание, IDL
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e3a4e024497b42d94db227d60f5b5e2fa94e23d659857229c1d421f105069307
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: def08676ddfdf207ac4cc7056befec80537b9326
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120075194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143774"
 ---
 # <a name="idl-attributes"></a>Атрибуты IDL
 

@@ -13,12 +13,12 @@ api_type:
 - UserDefined
 api_location:
 - process.h
-ms.openlocfilehash: 5df58ef86971fcf60e79fbae8e92313dbd0b0371e2311cc30b494950e4f37dd1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1db69d51f3a46bbe219ef7f7bdea67e8e8970e4d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119890844"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127260443"
 ---
 # <a name="dllmain-parser-callback-function"></a>Функция обратного вызова средства синтаксического анализа DllMain
 
@@ -95,7 +95,7 @@ BOOL WINAPI DllMain(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -107,7 +107,7 @@ BOOL WINAPI DllMain(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

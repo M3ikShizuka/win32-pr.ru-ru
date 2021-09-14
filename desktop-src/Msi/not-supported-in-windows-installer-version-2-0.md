@@ -4,12 +4,12 @@ ms.assetid: 850b598a-338e-4f84-8336-01e962256a08
 title: не поддерживается в установщик Windows 2,0
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7d244dc962e65bb017dbd5fb56c7fda644b46524df7890ede7b71bf0bdf8ad66
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 35ee09133af9ef611a93c2511d7b130b2175561b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120074864"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147626"
 ---
 # <a name="not-supported-in-windows-installer-20"></a>не поддерживается в установщик Windows 2,0
 

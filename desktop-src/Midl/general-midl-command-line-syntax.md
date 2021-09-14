@@ -6,12 +6,12 @@ keywords:
 - Справочник по командной строке MIDL, общий синтаксис
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: aa3d3ded263237dffa425cebe3dea49b169e3494045cfc8b0d27cc249c5ebed1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 14baa145c7be03467a24bd4298cf2f502d93b6ba
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118384267"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143826"
 ---
 # <a name="general-midl-command-line-syntax"></a>Общий синтаксис командной строки MIDL
 

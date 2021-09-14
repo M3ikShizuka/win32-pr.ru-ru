@@ -4,12 +4,12 @@ ms.assetid: e393041b-f10c-4053-bc6c-65a89f40e74f
 title: API управления учетными данными
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5a290cf9d7e5a2d527368c2fd7350fa1bb9549af862c7da7c3845ceae9efc8aa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1f3cae5054d0a32f42616f2845dcf18ab71ad0fd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119008842"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146669"
 ---
 # <a name="credential-management-api"></a>API управления учетными данными
 

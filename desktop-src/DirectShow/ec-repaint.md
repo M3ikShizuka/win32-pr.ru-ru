@@ -4,12 +4,12 @@ ms.assetid: 2e756dea-366c-4024-8fc8-6feabaef1954
 title: EC_REPAINT (DShow. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7edd498d84aaace460a10c88d5579c2f5a87bba42e1a5f393786134bbe727af3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ba86b54d6d465330ec1635ed7301ce774ef7cb27
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120102794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147706"
 ---
 # <a name="ec_repaint"></a>\_ПЕРЕрисовка EC
 
@@ -59,7 +59,7 @@ ms.locfileid: "120102794"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

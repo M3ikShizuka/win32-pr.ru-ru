@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Wiascr.dll
-ms.openlocfilehash: 65eb5493370cb3a226fc3507a9af19a620f65e471e9ca7717bee4f7fa7e43428
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5d0c232788e7e57aa7f82a66921527466b4cc5bd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118440619"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127262312"
 ---
 # <a name="itemfullname-property"></a>Свойство Item. FullName
 

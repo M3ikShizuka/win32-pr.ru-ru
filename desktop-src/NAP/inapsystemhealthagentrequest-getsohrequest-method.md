@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3c784ec520180f3524f49fa95644b03fa5f982651bd4c2322542dc46cc3f85a7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ab52e52c952c2dc1f891098e10c3ecb688052295
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118133523"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147274"
 ---
 # <a name="inapsystemhealthagentrequestgetsohrequest-method"></a>Метод Инапсистемхеалсажентрекуест:: Жетсохрекуест
 

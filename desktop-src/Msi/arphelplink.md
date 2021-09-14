@@ -4,12 +4,12 @@ ms.assetid: 1f657f62-9e7d-466e-8f3e-084093c0e675
 title: АРФЕЛПЛИНК, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 41b456504e08b8764af36baaef151dbdcf3c5e07a5c5205094d5a52ba05eebde
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1f12de88f98f25f73b322fd6406b305a0644751d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119066214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142849"
 ---
 # <a name="arphelplink-property"></a>АРФЕЛПЛИНК, свойство
 

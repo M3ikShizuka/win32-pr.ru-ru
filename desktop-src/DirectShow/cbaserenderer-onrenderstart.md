@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 626dc1dbcb82aeec94ebe514e686d197cb17bbdd7807ac38057412617182bf55
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a7838b0ba43c1e570b745541882a2f2f815dd948
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118157657"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261451"
 ---
 # <a name="cbaserendereronrenderstart-method"></a>Кбасерендерер. Онрендерстарт, метод
 
@@ -57,7 +57,7 @@ virtual void OnRenderStart(
 
 Метод [**кбасерендерер:: Render**](cbaserenderer-render.md) вызывает этот метод. Он не выполняет никаких действий в базовом классе, но производный класс может его переопределить. Например, для накопления данных контроля качества.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ virtual void OnRenderStart(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

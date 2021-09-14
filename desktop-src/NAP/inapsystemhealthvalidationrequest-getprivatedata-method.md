@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 43ea94e3f03b3816cfb62f51263d5a5f9c67cf903b7e24991fa7a0f5d06427a2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d78cceba42cd503ef8a875ece8f4ed196eaeff8c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119780764"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147257"
 ---
 # <a name="inapsystemhealthvalidationrequestgetprivatedata-method"></a>Метод Инапсистемхеалсвалидатионрекуест:: Жетприватедата
 

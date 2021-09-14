@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Netmon.h
 ms.openlocfilehash: 3eebee878cd907ee20674224a969c82038f4ac6b
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103990919"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127260427"
 ---
 # <a name="entrypoints-structure"></a>Структура ENTRYPOINT
 
@@ -39,7 +39,7 @@ typedef struct __ENTRYPOINTS {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -78,7 +78,7 @@ typedef struct __ENTRYPOINTS {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Функция **креатепротокол** использует структуру **EntryPoint** для предоставления указателей на сетевой монитор. Указатели должны быть указаны в порядке, указанном в разделе предыдущие элементы.
 
@@ -88,7 +88,7 @@ typedef struct __ENTRYPOINTS {
 
 | Для получения информации о                                        | См.                                                     |
 |-----------------------------------------------------------|---------------------------------------------------------|
-| Какие анализаторы и как они работают с сетевой монитор. | [Анализаторы](parsers.md)                                  |
+| Какие анализаторы и как они работают с сетевой монитор. | [Средства синтаксического анализа](parsers.md)                                  |
 | Реализация функции **DllMain**  включает пример.        | [Реализация DllMain](implementing-dllmain-parser.md) |
 
 

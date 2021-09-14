@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 435dcfcf620bd33043d8c8c7d948bccd74eb4e77
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "104337057"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143814"
 ---
 # <a name="handle_t-attribute"></a>Handle \_ t, атрибут
 
@@ -31,7 +31,7 @@ typedef RPC_BINDING_HANDLE handle_t;
 
 Этот атрибут не имеет параметров.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Тип **« \_ Handle** » является одним из предопределенных типов языка определения интерфейса (IDL). Он может использоваться в качестве спецификатора типа в объявлениях [**typedef**](typedef.md) , общих объявлениях и деклараторах функций (в качестве спецификатора возвращаемого типа функции и описателя типа параметра). Контекст, в котором отображаются спецификаторы типов, см. в разделе [IDL-файл](interface-definition-idl-file.md).
 
@@ -58,12 +58,12 @@ typedef RPC_BINDING_HANDLE handle_t;
 [**определение**](typedef.md)
 </dt> <dt>
 
-[**ptr**](ptr.md)
+[**указатель**](ptr.md)
 </dt> <dt>
 
 [**однозначно**](unique.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

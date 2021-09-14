@@ -4,12 +4,12 @@ ms.assetid: f5999d41-b334-49be-8883-d9b9042d20dc
 title: Использование пакетов безопасности
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d9253ee2ac4cec98e3c68a1f3dab80a71b216e6235af78722864ee0e0958897c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: df24bba0f910ba74a633e8a43f961cee4fb505db
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118915197"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146466"
 ---
 # <a name="using-security-packages"></a>Использование пакетов безопасности
 

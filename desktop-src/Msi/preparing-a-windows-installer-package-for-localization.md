@@ -4,12 +4,12 @@ ms.assetid: f00b44b4-e8ec-46d2-b329-00728a83275b
 title: подготовка пакета установщик Windows для локализации
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a4e9a1ce06e74197dc8844622861a1f42252deae8b96d3ce57ea852673818de3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fa46af5259b880398aa84dc817eb201bd63456eb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120129164"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147582"
 ---
 # <a name="preparing-a-windows-installer-package-for-localization"></a>подготовка пакета установщик Windows для локализации
 

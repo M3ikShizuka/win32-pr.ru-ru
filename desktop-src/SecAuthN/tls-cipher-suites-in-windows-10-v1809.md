@@ -3,12 +3,12 @@ description: узнайте о комплектах шифров TLS в Windows 
 title: комплекты шифров TLS в Windows 10 v1809
 ms.topic: article
 ms.date: 10/09/2018
-ms.openlocfilehash: a9dc28faa3599305188b86effdb1d168c3b9defdd39c25aa15a75e8cfd7ebbe6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d69d62dc57212865ab1020288c47c3abcddd4f19
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117786173"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146537"
 ---
 # <a name="tls-cipher-suites-in-windows-10-v1809"></a>комплекты шифров TLS в Windows 10 v1809
 

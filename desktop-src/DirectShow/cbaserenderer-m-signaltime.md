@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 6b8fca6274cd12d601dd205d657a34118c579dc65715e9f52e072edf20101436
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b61e5715c96c9233d5d8d25d14b62de093e87bea
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120103174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261504"
 ---
 # <a name="cbaserendererm_signaltime-member"></a>Элемент Кбасерендерер:: m \_ сигналтиме
 
@@ -47,7 +47,7 @@ REFERENCE_TIME m_SignalTime;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 2cbb60ff-dd41-4699-82a4-77b217dc1228
 title: Сведения о настраиваемых действиях
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6c2570549c67878f9ba193e18aa76c8e862154aeac2dc6080f99a16c96da6ab1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1bb38310bb4cf6485d65ae036a06e4f8ffe99804
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118640301"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143210"
 ---
 # <a name="about-custom-actions"></a>Сведения о настраиваемых действиях
 
@@ -31,7 +31,7 @@ ms.locfileid: "118640301"
 
 [Библиотеки динамической компоновки](dynamic-link-libraries.md)
 
-[Создание и запуск скриптов PowerShell из консоли Configuration Manager](scripts.md)
+[Scripts](scripts.md)
 
 [Настраиваемые действия форматированного текста](formatted-text-custom-actions.md)
 

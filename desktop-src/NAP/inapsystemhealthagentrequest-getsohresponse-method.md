@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1d78b67c38f54cfe1e7d342212be897ba1825b619324e6fc4cb5ab9ae4f5c4a7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d593ff897e69b86b554365561e43308adead5250
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118621165"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147273"
 ---
 # <a name="inapsystemhealthagentrequestgetsohresponse-method"></a>Метод Инапсистемхеалсажентрекуест:: Жетсохреспонсе
 
@@ -96,7 +96,7 @@ HRESULT GetSoHResponse(
 |-------------------------------------|-----------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                      |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                                |
-| Header<br/>                   | <dl> <dt>Напсистемхеалсажент. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Напсистемхеалсажент. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>Напсистемхеалсажент. idl</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Qagentrt.dll</dt> </dl>             |
 

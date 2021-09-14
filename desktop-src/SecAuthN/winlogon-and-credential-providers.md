@@ -4,12 +4,12 @@ ms.assetid: 6721367b-e200-4297-897b-4772226203b0
 title: Winlogon и поставщики учетных данных
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d5a110c741289de9fdd08f1f5d5c820e9695f057b1d74db2e56f014f5da28eb5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ce72e533f7cee6bc89bc2f995b94b7881448734d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117785774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146438"
 ---
 # <a name="winlogon-and-credential-providers"></a>Winlogon и поставщики учетных данных
 

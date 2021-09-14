@@ -4,18 +4,18 @@ ms.assetid: DFCC07A6-BED5-41A8-86DC-130082AE665A
 title: Включение приложения в диалоговое окно «Открыть с помощью»
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2ad3d75d0eaf5ed60f2b9b6f4c468225e620c8d0bfbc8e14ed794a28f8f7098f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 218dcbfe6dc34770208c017f0e13cfda7686430c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119714984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127262544"
 ---
 # <a name="how-to-include-an-application-in-the-open-with-dialog-box"></a>Включение приложения в диалоговое окно «Открыть с помощью»
 
 показано, как убедиться, что приложение отображается в меню **открыть с помощью** и в диалоговом окне для классических приложений и доступно в качестве приложения магазина Windows по умолчанию для указанных типов файлов.
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="for-each-file-type-add-your-application-to-the-openwithprogids-registry-subkey"></a>Для каждого типа файлов добавьте приложение в подраздел реестра Опенвиспрогидс.
 

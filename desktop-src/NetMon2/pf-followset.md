@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Netmon.h
-ms.openlocfilehash: d404e602e78452a38343a6e62fce8c5b16941270eaa2825de8339f583c064a8b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f5c286d3b137df24f7da7f0fc5ae269a7a3d946d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120036834"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146950"
 ---
 # <a name="pf_followset-structure"></a>Общая папка PF, \_ Структура
 
@@ -36,7 +36,7 @@ typedef struct _PF_FOLLOWSET {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -60,7 +60,7 @@ typedef struct _PF_FOLLOWSET {
 
 Сетевой монитор использует сведения в структуре " **Общая \_ Папка** " для обновления следующих наборов конкретных анализаторов. Структура **\_ следов PF** должна быть выделена с помощью **хеапаллок**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -72,7 +72,7 @@ typedef struct _PF_FOLLOWSET {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

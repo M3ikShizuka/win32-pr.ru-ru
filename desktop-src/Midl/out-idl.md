@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 32bdbd18c6412f943a124a62badb9c154fa9aeb64573919970ffc1dc4af17798
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4b590cadeb12a77cff859991efb6356393072823
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119066804"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143526"
 ---
 # <a name="out-attribute"></a>out - атрибут
 
@@ -111,7 +111,7 @@ HRESULT MyFunction([out] short * pcount);
 [**Контекстный \_ маркер**](context-handle.md)
 </dt> <dt>
 
-[**enum**](enum.md)
+[**перечисления**](enum.md)
 </dt> <dt>
 
 [**первый \_ —**](first-is.md)
@@ -153,7 +153,7 @@ HRESULT MyFunction([out] short * pcount);
 [**Тип коммутатора \_**](switch-type.md)
 </dt> <dt>
 
-[**наборов**](union.md)
+[**union**](union.md)
 </dt> <dt>
 
 [**однозначно**](unique.md)

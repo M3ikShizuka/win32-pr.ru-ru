@@ -4,12 +4,12 @@ ms.assetid: b2f2907d-6966-4b63-9589-c1580f8db574
 title: Таблица _Storages
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ee16db075df86e5c5a9c794d3320b49052cf746023bd70e02305d6ce079dbbf9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 27995dd61c7d25100fc0e1ae2297695e361f44f4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119146077"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143273"
 ---
 # <a name="_storages-table"></a>\_Таблица хранилищ
 
@@ -19,8 +19,8 @@ ms.locfileid: "119146077"
 
 | Столбец | Type                 | Ключ | Допускает значения NULL |
 |--------|----------------------|-----|----------|
-| Имя   | [Text](text.md)     | Д   | Нет        |
-| Данные   | [Двоичный](binary.md) | Нет   | Д        |
+| Имя   | [Text](text.md)     | Да   | Нет        |
+| Данные   | [Двоичный](binary.md) | Нет   | Да        |
 
 
 

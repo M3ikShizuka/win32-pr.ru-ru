@@ -4,12 +4,12 @@ ms.assetid: b4f63642-9282-4e11-b40c-eec406b2dd2b
 title: Предоставление билета службой Exchange
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a691235b3e7f0faed68f38f0663c7792e381666f441399397f7e653bbb550080
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d3b227ee551d762abd145ca56c6cced110b6a2dd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117786572"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146573"
 ---
 # <a name="ticket-granting-service-exchange"></a>Предоставление билета службой Exchange
 

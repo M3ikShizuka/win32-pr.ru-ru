@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: a40b1842bf637d3b7fcaab7a0c13319def1d1663
-ms.sourcegitcommit: 57758ecb246c84d65e6e0e4bd5570d9176fa39cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "105661661"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143689"
 ---
 # <a name="local-attribute"></a>local - атрибут
 
@@ -83,7 +83,7 @@ interface interface-name
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 **\[ Локальный \]** атрибут может применяться к отдельным функциям или к интерфейсу в целом.
 
@@ -147,7 +147,7 @@ interface mixed_procs
 [**Контекстный \_ маркер**](context-handle.md)
 </dt> <dt>
 
-[**endpoint**](endpoint.md)
+[**конечной**](endpoint.md)
 </dt> <dt>
 
 [Файл определения интерфейса (IDL)](interface-definition-idl-file.md)
@@ -162,13 +162,13 @@ interface mixed_procs
 [**/осф**](-osf.md)
 </dt> <dt>
 
-[**объектами**](object.md)
+[**object**](object.md)
 </dt> <dt>
 
 [**Указатель \_ по умолчанию**](pointer-default.md)
 </dt> <dt>
 
-[**ptr**](ptr.md)
+[**указатель**](ptr.md)
 </dt> <dt>
 
 [**ref**](ref.md)
@@ -186,9 +186,9 @@ interface mixed_procs
 [**Версия**](version.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

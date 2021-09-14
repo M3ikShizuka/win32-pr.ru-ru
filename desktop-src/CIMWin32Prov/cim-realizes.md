@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 89e9dd6850b93718c218b3d3f465b8f549a9a614b5e9f898a622b03ee2cfc340
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b37b2f5f3fe9cfce78e16530df8b94e4333e9a33
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119921054"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261696"
 ---
 # <a name="cim_realizes-class"></a>\_Класс CIM
 
@@ -45,7 +45,7 @@ class CIM_Realizes : CIM_Dependency
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Классы **CIM \_** имеют следующие типы членов:
 
@@ -97,7 +97,7 @@ class CIM_Realizes : CIM_Dependency
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -111,7 +111,7 @@ class CIM_Realizes : CIM_Dependency
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

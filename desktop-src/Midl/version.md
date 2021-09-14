@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9c72cc825183740d856c20b9e5c76ece472f82db405d9560e6502f6e32985b60
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: bacbf7478ebfb745e5fc9b5e50959d0f1587dedf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119252114"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143314"
 ---
 # <a name="version-attribute"></a>атрибут version
 
@@ -95,10 +95,10 @@ version ( major-value[[. minor-value]] )
 [**взаимодействия**](interface.md)
 </dt> <dt>
 
-[**объектами**](object.md)
+[**object**](object.md)
 </dt> <dt>
 
-[**uuid**](uuid.md)
+[**UUID**](uuid.md)
 </dt> </dl>
 
  

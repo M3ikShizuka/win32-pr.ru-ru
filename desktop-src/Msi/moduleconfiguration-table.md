@@ -4,12 +4,12 @@ ms.assetid: 3b77cc23-c104-4adc-868c-3aa2b5794bc7
 title: Таблица Модулеконфигуратион
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c499e313633d1668db81c91654800d1d5824192839329316f55040fd3bc7bad2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fa187c10b5d3376a9bec78eb897b4982445ff01f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119963064"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261168"
 ---
 # <a name="moduleconfiguration-table"></a>Таблица Модулеконфигуратион
 
@@ -21,16 +21,16 @@ ms.locfileid: "119963064"
 
 | Столбец       | Type                         | Ключ | Допускает значения NULL |
 |--------------|------------------------------|-----|----------|
-| Имя         | [Идентификатор](identifier.md) | Д   | Нет        |
+| Имя         | [Идентификатор](identifier.md) | Да   | Нет        |
 | Формат       | [Integer](integer.md)       | Нет   | Нет        |
-| Тип         | [Text](text.md)             | Нет   | Д        |
-| контекстдата  | [Text](text.md)             | Нет   | Д        |
-| DefaultValue | [Text](text.md)             | Нет   | Д        |
-| Атрибуты   | [Integer](integer.md)       | Нет   | Д        |
-| DisplayName  | [Text](text.md)             | Нет   | Д        |
-| Описание  | [Text](text.md)             | Нет   | Д        |
-| HelpLocation | [Text](text.md)             | Нет   | Д        |
-| Данным  | [Text](text.md)             | Нет   | Д        |
+| Тип         | [Text](text.md)             | Нет   | Да        |
+| контекстдата  | [Text](text.md)             | Нет   | Да        |
+| DefaultValue | [Text](text.md)             | Нет   | Да        |
+| Атрибуты   | [Integer](integer.md)       | Нет   | Да        |
+| DisplayName  | [Text](text.md)             | Нет   | Да        |
+| Описание  | [Text](text.md)             | Нет   | Да        |
+| HelpLocation | [Text](text.md)             | Нет   | Да        |
+| Данным  | [Text](text.md)             | Нет   | Да        |
 
 
 

@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 383a8fc0379ca81abb9ad0a88edab8750661bdfa429e32e7e91d193aa0fd2938
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 329d638f1b5be97e5b441aa4e84825fe59a4a3f0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119146177"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143334"
 ---
 # <a name="unsigned-attribute"></a>неподписанный атрибут
 
@@ -67,13 +67,13 @@ ms.locfileid: "119146177"
 [Файл определения интерфейса (IDL)](interface-definition-idl-file.md)
 </dt> <dt>
 
-[**INT**](int.md)
+[**int**](int.md)
 </dt> <dt>
 
-[**long**](long.md)
+[**поддерживаем**](long.md)
 </dt> <dt>
 
-[**short**](short.md)
+[**промежуток**](short.md)
 </dt> <dt>
 
 [**входил**](signed.md)

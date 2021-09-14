@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 12cb0a9c2e3b7d3a6d78b0e4feda46357f60773b16d67c1d38f57049df3a4d29
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 09d27cc746df906ff6b1a3290e41d860c76dc362
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119067074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143601"
 ---
 # <a name="ncacn_spx-attribute"></a>\_атрибут нкакн SPX
 

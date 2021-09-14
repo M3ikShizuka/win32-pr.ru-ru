@@ -4,12 +4,12 @@ ms.assetid: 24881078-1610-4a37-a52d-fcabd78e1738
 title: Политика Трансформсатсаурце
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8ab909fd728ce1cebba894dd8598879fa055ce762ed027cd8842cc7236a0f24e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 91be9c56f2e68a27d904acf98088204dc4012b4f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118623484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127260872"
 ---
 # <a name="transformsatsource-policy"></a>Политика Трансформсатсаурце
 

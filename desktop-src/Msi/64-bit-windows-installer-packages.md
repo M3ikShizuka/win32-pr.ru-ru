@@ -4,12 +4,12 @@ ms.assetid: 615a5534-7c9e-4240-9a23-35f224122d0e
 title: 64-разрядные пакеты установщик Windows
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 540ef7afc5c70eeba2bb24eb376eae8e52b8e55cec2c8622ccdcf18a804b6f91
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 16b34c8ff7ce4809dc44932cc8a5daa978b6ff66
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119559544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143245"
 ---
 # <a name="64-bit-windows-installer-packages"></a>64-разрядные пакеты установщик Windows
 

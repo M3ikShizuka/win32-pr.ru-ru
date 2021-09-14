@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Nmapi.dll
-ms.openlocfilehash: 28c70a95a9f735e37b16ae786623a805ccc06ed6020aa00781576a1e064faa11
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: baedae22e948b38d9ff162942269ac4529896826
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117982848"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127260467"
 ---
 # <a name="destroypropertydatabase-function"></a>Функция Дестройпропертидатабасе
 
@@ -93,7 +93,7 @@ DWORD WINAPI DestroyPropertyDatabase(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

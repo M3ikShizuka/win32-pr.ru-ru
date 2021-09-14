@@ -6,12 +6,12 @@ keywords:
 - IDL-MIDL, атрибуты, тип указателя
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6cb8355a71428c957804596531ea428fb99a779478b677eaa2094cc4db323c45
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 71371fff80d541242fcdc41d6c8adcc93dcdb754
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119013732"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143513"
 ---
 # <a name="pointer-type-attributes"></a>Атрибуты типа указателя
 

@@ -4,18 +4,18 @@ ms.assetid: 09c739d1-ddf4-4a59-9dd0-7ea5e94a40d7
 title: Мсиуипрогрессонли, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d3e709c8b4870aef0df206ee95c48521293deac97015c0429f15f82f5d66f5c1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cc0dab30cc096fa348b8fa9390591d62d87288b9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118943964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147637"
 ---
 # <a name="msiuiprogressonly-property"></a>Мсиуипрогрессонли, свойство
 
 Установщик задает для свойства **мсиуипрогрессонли** значение 1, если для внутреннего уровня установки задано включение инсталлуилевел \_ Прогрессонли с функцией [**Мсисетинтерналуи**](/windows/desktop/api/Msi/nf-msi-msisetinternalui) или [свойством duilevel](installer-uilevel.md) объекта [**установщика**](installer-object.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

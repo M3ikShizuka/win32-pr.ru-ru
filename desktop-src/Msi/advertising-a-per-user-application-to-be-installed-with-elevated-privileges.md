@@ -4,12 +4,12 @@ ms.assetid: 0d2bd2d9-0eac-4519-862c-15f0ee5cbc40
 title: Объявление приложения Per-User для установки с повышенными привилегиями
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bdced246f90a345b5b2cc599541119a26e29e4d9a1d708be1ee8299d55d3c28d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: de7d9888714f28282e060b3a1e7eea0291b4e0e9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120082964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143005"
 ---
 # <a name="advertising-a-per-user-application-to-be-installed-with-elevated-privileges"></a>Объявление приложения Per-User для установки с повышенными привилегиями
 

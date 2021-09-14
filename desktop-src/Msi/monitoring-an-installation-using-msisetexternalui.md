@@ -4,12 +4,12 @@ ms.assetid: 0aa8a2d6-f519-4d87-a28f-a11cb546bff5
 title: Мониторинг установки с помощью Мсисетекстерналуи
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9660b1454d7e4f3437da6dce41707a1516207d853510e8475837f31e60090b78
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 06cc461845a6db1fab4ede22581093c46c0e76e9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118628575"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261120"
 ---
 # <a name="monitoring-an-installation-using-msisetexternalui"></a>Мониторинг установки с помощью Мсисетекстерналуи
 

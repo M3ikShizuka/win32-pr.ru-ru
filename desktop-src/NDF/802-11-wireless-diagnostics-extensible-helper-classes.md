@@ -4,12 +4,12 @@ description: Встроенная инфраструктура диагност�
 ms.assetid: b54f836d-4fae-4e71-bf7b-af5a6e9e615c
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a3b7ac72cb42b12a96e5c57db0897a13d49d76370126e119ac2f5ed457d55c9f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2bde49561c68044157c9d518571b8241c49dcf25
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118133449"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147130"
 ---
 # <a name="80211-wireless-diagnostics-extensible-helper-classes"></a>Расширяемые вспомогательные классы диагностики беспроводной сети 802,11
 

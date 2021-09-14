@@ -4,12 +4,12 @@ description: Вы указываете многоугольник (возмож�
 ms.assetid: 23e56d3e-c26c-4158-b0ce-cf8fcea22927
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 502fe86d8ee7fb8ccf74b5dcdb3c78f2b2f710bdb9c928402777a3ab4a1e80ec
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ff36b74f9484a76f938a7a24847c218f5c4e8dbc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119888044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146814"
 ---
 # <a name="specifying-the-polygon-to-be-tessellated"></a>Указание многоугольника для тесселяции
 
