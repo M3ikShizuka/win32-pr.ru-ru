@@ -15,11 +15,11 @@ api_location:
 - d3dx9.lib
 - d3dx9.dll
 ms.openlocfilehash: 6230b0736cb3bc623b0413f7b5a1cb9635f00e07
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108107172"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888424"
 ---
 # <a name="id3dxtextureshadersetfloat-method"></a>Метод ID3DXTextureShader:: SetFloat
 
@@ -71,12 +71,12 @@ HRESULT SetFloat(
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3DX9Shader. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3DX9Shader. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>     |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

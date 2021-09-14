@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 11573dc84c46149073ca3a7e192ed8541d9cfd4a78494a43f6130a7999534880
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 39cea5692e29ead74ba20c4a35ab8d43a1b19d42
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118508680"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888181"
 ---
 # <a name="texture1darray"></a>Texture1DArray
 
@@ -32,7 +32,7 @@ ms.locfileid: "118508680"
 | [**Загрузить**](texture1darray-load.md)                                          | Считывает данные текстуры.                                                                        |
 | [**MIPS. Станции\[\]\[\]**](sm5-object-texture1darray-mipsoperatorindex.md) | Возвращает переменную ресурса, доступную только для чтения.                                                        |
 | [**Оператор\[\]**](sm5-object-texture1darray-operatorindex.md)              | Возвращает переменную ресурса, доступную только для чтения.                                                        |
-| [**Следующий**](texture1darray-sample.md)                                      | Выбор текстуры.                                                                         |
+| [**Образец**](texture1darray-sample.md)                                      | Выбор текстуры.                                                                         |
 | [**самплебиас**](texture1darray-samplebias.md)                              | Выбор текстуры после применения значения смещения к уровню mipmap.                      |
 | [**самплекмп**](texture1darray-samplecmp.md)                                | Выбор текстуры с использованием значения сравнения для отклонения выборок.                             |
 | [**SampleCmpLevelZero**](texture1darray-samplecmplevelzero.md)              | Производит выборку текстуры (только mipmap уровень 0), используя значение сравнения для отклонения выборок.       |
@@ -51,7 +51,7 @@ ms.locfileid: "118508680"
 
 | Модель шейдера                                                                | Поддерживается |
 |-----------------------------------------------------------------------------|-----------|
-| [Модели шейдера 5](d3d11-graphics-reference-sm5.md) и более поздних моделей шейдеров | Да       |
+| [Модели шейдера 5](d3d11-graphics-reference-sm5.md) и более поздних моделей шейдеров | yes       |
 
 
 
@@ -61,7 +61,7 @@ ms.locfileid: "118508680"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | x      | x    | x      | x        | x     | x       |
 
@@ -69,7 +69,7 @@ ms.locfileid: "118508680"
 
  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

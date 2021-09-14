@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 2545e820fc462c84ff691eb73ee113cd67c8f13bf9c8735d1076ac400fb53ef4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d27e48a6d9ae237e4e58d1fd30afbac3b2b40d3d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120024414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888304"
 ---
 # <a name="ddy"></a>дди
 
@@ -74,9 +74,9 @@ ms.locfileid: "120024414"
 
 | Модель шейдера                                                                | Поддерживается                                 |
 |-----------------------------------------------------------------------------|-------------------------------------------|
-| [Модели шейдера 5](d3d11-graphics-reference-sm5.md) и более поздних моделей шейдеров | Да                                       |
-| [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                                  | Да                                       |
-| [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md)                   | Да                                       |
+| [Модели шейдера 5](d3d11-graphics-reference-sm5.md) и более поздних моделей шейдеров | yes                                       |
+| [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                                  | yes                                       |
+| [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md)                   | yes                                       |
 | [Модель шейдера 2 (DirectX HLSL)](dx-graphics-hlsl-sm2.md)                   | Да в PS \_ 2 \_ x; не поддерживается в PS \_ 2 \_ 0. |
 | [Модель шейдера 1 (DirectX HLSL)](dx-graphics-hlsl-sm1.md)                   | Нет                                        |
 
@@ -88,7 +88,7 @@ ms.locfileid: "120024414"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 |        |      |        |          | x     |         |
 
@@ -96,7 +96,7 @@ ms.locfileid: "120024414"
 
  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

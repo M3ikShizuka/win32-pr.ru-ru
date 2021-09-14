@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 163d2e7fde310f33aad53365f4bc581a111b3038afd468f76c4402b4605961fe
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c967ffd1a6601144787621628ed1b019e775eddd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120095974"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888469"
 ---
 # <a name="id3dxconstanttablesetboolarray-method"></a>Метод ID3DXConstantTable:: Сетбуларрай
 
@@ -85,7 +85,7 @@ HRESULT SetBoolArray(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть D3DERR \_ инвалидкалл.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -96,7 +96,7 @@ HRESULT SetBoolArray(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

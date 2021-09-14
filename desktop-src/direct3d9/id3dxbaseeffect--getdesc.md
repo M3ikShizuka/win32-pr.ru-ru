@@ -15,11 +15,11 @@ api_location:
 - D3dx9.lib
 - D3dx9.dll
 ms.openlocfilehash: 35fcb62e9461d419e6643c99c1879efa28fa78c1
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "105694321"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888512"
 ---
 # <a name="id3dxbaseeffectgetdesc-method"></a>Метод ID3DXBaseEffect:: DESC
 
@@ -61,7 +61,7 @@ HRESULT GetDesc(
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3DX9Effect. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3DX9Effect. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>     |
 
 

@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3D9Types.h
-ms.openlocfilehash: fc8a1e2995a9353a02df120b109eb32ad0914821e5690440c7228fbc8e7b6c8a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e77ab0e6ee164eadae862ed03df5652c21ba7040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119676404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888661"
 ---
 # <a name="d3draster_status-structure"></a>\_Структура состояния D3DRASTER
 
@@ -36,7 +36,7 @@ typedef struct D3DRASTER_STATUS {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -64,7 +64,7 @@ typedef struct D3DRASTER_STATUS {
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -74,7 +74,7 @@ typedef struct D3DRASTER_STATUS {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

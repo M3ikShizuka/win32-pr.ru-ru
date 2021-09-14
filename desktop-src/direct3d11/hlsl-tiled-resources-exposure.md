@@ -4,12 +4,12 @@ description: Новый синтаксис языка шейдера высок�
 ms.assetid: B6CE51E6-1BA9-4D15-9654-86FE9BAAF585
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c66ded502bebefc1061028115a12026f67c26cad89ddc57f98a5ae6fee923591
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b2b266b98045b38645e1e8d24ed0014a5f448a38
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119633334"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888752"
 ---
 # <a name="hlsl-tiled-resources-exposure"></a>Уязвимость мозаичных ресурсов HLSL
 
@@ -46,7 +46,7 @@ ms.locfileid: "119633334"
 | [Объекты HLSL](/windows/desktop/direct3dhlsl/d3d11-graphics-reference-sm5-objects)                                                                                                                                                                                                                                | Встроенные методы с параметром Feedback ( \* ) также имеют параметр среза                                                                                                                                                                  |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | \[RW \] Texture2D<br/> \[RW \] Texture2DArray<br/> TextureCUBE<br/> TextureCUBEArray<br/>                                                                                                                                                                                    | Gather<br/> GatherRed<br/> GatherGreen<br/> GatherBlue<br/> GatherAlpha<br/> GatherCmp<br/> GatherCmpRed<br/> GatherCmpGreen<br/> GatherCmpBlue<br/> GatherCmpAlpha<br/> |
-| \[RW \] Texture1D<br/> \[RW \] Texture1DArray<br/> \[RW \] Texture2D<br/> \[RW \] Texture2DArray<br/> \[RW \] Texture3D<br/> TextureCUBE<br/> TextureCUBEArray<br/>                                                                                              | Следующий\*<br/> самплебиас\*<br/> самплекмп\*<br/> SampleCmpLevelZero<br/> самплеград\*<br/> SampleLevel<br/>                                                                                      |
+| \[RW \] Texture1D<br/> \[RW \] Texture1DArray<br/> \[RW \] Texture2D<br/> \[RW \] Texture2DArray<br/> \[RW \] Texture3D<br/> TextureCUBE<br/> TextureCUBEArray<br/>                                                                                              | Образец\*<br/> самплебиас\*<br/> самплекмп\*<br/> SampleCmpLevelZero<br/> самплеград\*<br/> SampleLevel<br/>                                                                                      |
 | \[RW \] Texture1D<br/> \[RW \] Texture1DArray<br/> \[RW \] Texture2D<br/> Texture2DMS<br/> \[RW \] Texture2DArray<br/> Texture2DArrayMS<br/> \[RW \] Texture3D<br/> \[RW \] буфер<br/> \[RW \] битеаддрессбуффер<br/> \[RW \] структуредбуффер<br/> | Загрузить                                                                                                                                                                                                                                 |
 
 

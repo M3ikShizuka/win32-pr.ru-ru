@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: 62b056b80b5722ce9173a7ca30200ba208cf88cf51c18d52b2a895d975121671
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 11b15f8bc1e4103503b183672ebd31e92b4daea7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117736043"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888813"
 ---
 # <a name="id3dx10meshbufferunmap-method"></a>Метод ID3DX10MeshBuffer:: unотмена
 
@@ -44,7 +44,7 @@ HRESULT Unmap();
 
 Возвращаемое значение является одним из значений, перечисленных в [кодах возврата Direct3D 10](d3d10-graphics-reference-returnvalues.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 
 

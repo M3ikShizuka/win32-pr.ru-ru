@@ -4,12 +4,12 @@ ms.assetid: 860f3de2-beaf-4df1-82d0-a4b7508156c2
 title: Типы устройств (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 11c0ba90ffe4e80a99805f10e77246f1c8e11dec39f3ff1160577fbb2e2d9628
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c84efe80c022403c36e760860893f3619e1c9356
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119952204"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888640"
 ---
 # <a name="device-types-direct3d-9"></a>Типы устройств (Direct3D 9)
 
