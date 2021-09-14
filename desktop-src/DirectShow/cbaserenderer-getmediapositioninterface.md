@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 12e15b297f78b3386ae9ad31e749858bad14b87e59e938ac02a3cf3a9ca002a9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3d41d777b88f0e18ae1510c32b7e89024ea7bdd9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119872334"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053579"
 ---
 # <a name="cbaserenderergetmediapositioninterface-method"></a>Кбасерендерер. Жетмедиапоситионинтерфаце, метод
 
@@ -73,13 +73,13 @@ virtual HRESULT GetMediaPositionInterface(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Фильтр делегирует все команды поиска объекту [**крендерерпоспасссру**](crendererpospassthru.md) , который передает их восходящий поток. Этот метод создает объект **крендерерпоспасссру** , если он еще не существует, и запрашивает его для запрошенного интерфейса.
 
 В переменной-члене [**кбасерендерер:: m \_ ппоситион**](cbaserenderer-m-pposition.md) хранится указатель на объект **крендерерпоспасссру** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -90,7 +90,7 @@ virtual HRESULT GetMediaPositionInterface(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

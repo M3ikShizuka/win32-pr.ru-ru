@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cbd6d5ecbd4914864d812125143b1c5b6c0ae0d470b2c3951c060aacd3627ff2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d397c65c1cfd7f4adb040cc94e208a66c6c42d1b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119378184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889624"
 ---
 # <a name="axwindowsmediaplayerplaystate-property"></a>Аксвиндовсмедиаплайер. Плайстате, свойство
 
@@ -50,7 +50,7 @@ Public ReadOnly Property playState As WMPPlayState
 
 Значение перечисления Вмплиб. Вмпплайстате.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 состояния проигрыватель Windows Media не гарантированно выполняются в каком бы то ни было определенном порядке. Кроме того, не все состояния должны происходить во время последовательности событий. Не следует писать код, зависящий от порядка состояний.
 
@@ -90,7 +90,7 @@ End If
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

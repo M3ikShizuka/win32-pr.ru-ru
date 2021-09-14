@@ -4,12 +4,12 @@ ms.assetid: 93832835-db08-492e-a6bc-0340e2e66d8e
 title: Свойство Авенкмпвженератехеадерсекекст (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2e4b9ae41a8da3bd05118f7ffea4c932a770b8fafefedad17132579e726df1ed
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2a27c46a2cb1f696d7aecf8747dfcd4f65789b9d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119689624"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127148373"
 ---
 # <a name="avencmpvgenerateheaderseqext-property"></a>Авенкмпвженератехеадерсекекст, свойство
 
@@ -29,7 +29,7 @@ ms.locfileid: "119689624"
 
 Если значение является **вариантным \_ true**, кодировщик создает заголовки расширений последовательностей.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "119689624"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

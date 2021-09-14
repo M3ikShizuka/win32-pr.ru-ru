@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 16513cd202d8ad1973a6aa4d2bfd69f8372cb9b611e1dc070e265685db2d2682
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5b09049bc443991dabe07a7626ffc42097feceee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119910104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053559"
 ---
 # <a name="cdeferredcommandgethresult-method"></a>Кдеферредкомманд. метод HResult
 
@@ -53,7 +53,7 @@ HRESULT GetHResult(
 
 Возвращает "E \_ Abort", если **m \_ Пкуеуе** имеет **значение NULL**. В противном случае возвращается значение S \_ ОК.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция члена реализует метод [**идеферредкомманд:: и HRESULT**](/windows/desktop/api/Control/nf-control-ideferredcommand-gethresult) .
 

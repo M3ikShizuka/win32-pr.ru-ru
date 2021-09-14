@@ -14,12 +14,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: b2a6b2ffa9168e870aeb405badb6ff71b0a4a59b23d76947e56a9c085ed0107a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f314be4b8da98ff80bd7404c270479855e13fb6e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119726554"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964686"
 ---
 # <a name="shader-constants-hlsl"></a>Константы шейдера (HLSL)
 
@@ -87,7 +87,7 @@ ms.locfileid: "119726554"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Буферы констант уменьшают пропускную способность, необходимую для обновления констант шейдера, позволяя сгруппировать и обработать их одновременно, без отдельных вызовов для обработки каждой константы.
 

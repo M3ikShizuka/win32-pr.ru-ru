@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: 4ba3f6422c373c63a9b147ded8f288f642dcd880805cbd1d8b638b3f0e7f8f8f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b48ffa8707a3f78e76555d57225c11f89160fdd7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119951704"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964777"
 ---
 # <a name="id3dxeffectvalidatetechnique-method"></a>Метод ID3DXEffect:: Валидатетечникуе
 
@@ -55,7 +55,7 @@ HRESULT ValidateTechnique(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, D3DERR \_ КОНФЛИКТИНГРЕНДЕРСТАТЕ, D3DERR \_ конфликтингтекстурефилтер, D3DERR \_ девицелост, D3DERR \_ ДРИВЕРИНТЕРНАЛЕРРОР, D3DERR \_ TOOMANYOPERATIONS, D3DERR \_ UNSUPPORTEDALPHAARG, D3DERR \_ UNSUPPORTEDALPHAOPERATION, D3DERR \_ UNSUPPORTEDCOLORARG, D3DERR \_ UNSUPPORTEDCOLOROPERATION, D3DERR \_ UNSUPPORTEDFACTORVALUE, D3DERR \_ UNSUPPORTEDTEXTUREFILTER и D3DERR \_ WRONGTEXTUREFORMAT.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -66,7 +66,7 @@ HRESULT ValidateTechnique(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

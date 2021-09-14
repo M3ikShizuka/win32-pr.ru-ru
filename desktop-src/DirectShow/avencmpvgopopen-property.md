@@ -4,12 +4,12 @@ ms.assetid: 424751cd-65d2-4cab-9f7b-cad50c09c767
 title: Свойство Авенкмпвгопопен (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c6be085bde5588fecd5a2274d442f38d4198702475f3ed13c7bb3a5569687375
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6dd971a6cc9926245b97794868f58758af814803
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119540904"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127148350"
 ---
 # <a name="avencmpvgopopen-property"></a>Авенкмпвгопопен, свойство
 
@@ -42,7 +42,7 @@ ms.locfileid: "119540904"
 
 Открытый GOP содержит разностные кадры, которые ссылаются на кадры из предыдущего GOP. Закрытый GOP не содержит никаких разностных кадров, ссылающихся на предыдущий GOP.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -54,7 +54,7 @@ ms.locfileid: "119540904"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

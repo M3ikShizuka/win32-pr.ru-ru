@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: bcc16fa8136332e2a5d1a87956e1d4cc6a2a562b7e4e3531efbcc09f1314978b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e1cd9ec56ff5df3bff293ade0669b4cd7c8dad5d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119121977"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964833"
 ---
 # <a name="id3dxbaseeffectgetfunctionbyname-method"></a>Метод ID3DXBaseEffect:: Жетфунктионбинаме
 

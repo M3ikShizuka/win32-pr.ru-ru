@@ -4,12 +4,12 @@ ms.assetid: c3ee4c1d-3d15-44a4-8e7e-acd5f9a51dfe
 title: Свойство Авенквидеодефаултупперфиелддоминант (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cf4e0983b920c7f817e11d1959edf260916cfdbc41c47490674afbcb529c48dd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7b528449d184afdae41db87c4f030216a9f1b5a0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119910828"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127148258"
 ---
 # <a name="avencvideodefaultupperfielddominant-property"></a>Авенквидеодефаултупперфиелддоминант, свойство
 

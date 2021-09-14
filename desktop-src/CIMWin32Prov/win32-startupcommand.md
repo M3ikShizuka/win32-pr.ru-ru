@@ -23,11 +23,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 1c38ec84b9df38687a32211f3294258fd58efb96
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103896349"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053722"
 ---
 # <a name="win32_startupcommand-class"></a>\_Класс Win32 стартупкомманд
 
@@ -52,19 +52,19 @@ class Win32_StartupCommand : CIM_Setting
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ стартупкомманд** имеет следующие типы членов:
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ стартупкомманд** имеет следующие свойства.
 
 <dl> <dt>
 
-**Заголовок**
+**Caption**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -82,7 +82,7 @@ class Win32_StartupCommand : CIM_Setting
 
 </dd> <dt>
 
-**Команда**
+**Command**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -91,16 +91,16 @@ class Win32_StartupCommand : CIM_Setting
 Тип доступа: только для чтения
 </dt> <dt>
 
-Квалификаторы: [**Key**](../wmisdk/key-qualifier.md), [**Маппингстрингс**](../wmisdk/standard-qualifiers.md) («Win32Registry \| Software \\ \\ Microsoft \\ \\ Windows \\ \\ CurrentVersion \\ \\ Run»)
+квалификаторы: [**key**](../wmisdk/key-qualifier.md), [**маппингстрингс**](../wmisdk/standard-qualifiers.md) («Win32Registry \| SOFTWARE \\ \\ Microsoft \\ \\ Windows \\ \\ CurrentVersion \\ \\ Run»)
 </dt> </dl>
 
 Команда, выполняемая командой Startup.
 
 Инструментарий WMI получает эти данные из раздела реестра
 
-**HKey \_ По на локальном \_ компьютере** \\  \\  \\ Запуск Microsoft **Windows** \\ **CurrentVersion** \\ 
+**HKey \_ \_** \\ **программное обеспечение** локального компьютера \\ **Microsoft** \\ **Windows** \\ **CurrentVersion** \\ **Run**
 
-Пример: "C: \\ Windows \\notepad.exe myfile.txt"
+пример: "C: \\ Windows \\notepad.exe myfile.txt"
 
 </dd> <dt>
 
@@ -128,12 +128,12 @@ class Win32_StartupCommand : CIM_Setting
 Тип доступа: только для чтения
 </dt> <dt>
 
-Квалификаторы: [**Key**](../wmisdk/key-qualifier.md), [**маппингстрингс**](../wmisdk/standard-qualifiers.md) ("Win32Registry \| \\ \\ Software \\ \\ Microsoft \\ \\ Windows \\ \\ CURRENTVERSION \\ \\ Windows")
+квалификаторы: [**key**](../wmisdk/key-qualifier.md), [**маппингстрингс**](../wmisdk/standard-qualifiers.md) ("Win32Registry \| \\ \\ SOFTWARE \\ \\ MICROSOFT \\ \\ WINDOWS \\ \\ CURRENTVERSION \\ \\ Windows")
 </dt> </dl>
 
 Путь, по которому команда запуска находится на дисковой файловой системе.
 
-Например: HKLM \\ Software \\ Microsoft \\ Windows \\ CurrentVersion \\ Run
+например: HKLM \\ SOFTWARE \\ Microsoft \\ Windows \\ CurrentVersion \\ Run
 
 <dt>
 
@@ -153,21 +153,21 @@ class Win32_StartupCommand : CIM_Setting
 
 <span id="HKLM__SOFTWARE__Microsoft__Windows__CurrentVersion__Run"></span><span id="hklm__software__microsoft__windows__currentversion__run"></span><span id="HKLM__SOFTWARE__MICROSOFT__WINDOWS__CURRENTVERSION__RUN"></span>
 
-**\\ HKLM \\ Программное обеспечение \\ \\ Microsoft \\ \\ Windows \\ \\ CurrentVersion \\ \\ Run** («HKLM \\ \\ Software \\ \\ Microsoft \\ \\ Windows \\ \\ CurrentVersion \\ \\ Run»)
+**\\ HKLM \\ запуск программного обеспечения \\ \\ microsoft \\ \\ Windows \\ \\ CurrentVersion \\ \\** ("HKLM \\ \\ SOFTWARE \\ \\ Microsoft \\ \\ Windows \\ \\ CurrentVersion \\ \\ run")
 
 
 </dt> <dd></dd> <dt>
 
 <span id="HKLM__SOFTWARE__Microsoft__Windows__CurrentVersion__RunServices"></span><span id="hklm__software__microsoft__windows__currentversion__runservices"></span><span id="HKLM__SOFTWARE__MICROSOFT__WINDOWS__CURRENTVERSION__RUNSERVICES"></span>
 
-**\\ HKLM \\ Программное обеспечение \\ \\ Microsoft \\ \\ Windows \\ \\ CurrentVersion \\ \\ рунсервицес** ("HKLM \\ \\ Software \\ \\ Microsoft \\ \\ Windows \\ \\ CurrentVersion \\ \\ рунсервицес")
+**\\ HKLM \\ программное обеспечение \\ \\ Microsoft \\ \\ Windows \\ \\ CurrentVersion \\ \\ рунсервицес** ("HKLM \\ \\ SOFTWARE \\ \\ Microsoft \\ \\ Windows \\ \\ CurrentVersion \\ \\ рунсервицес")
 
 
 </dt> <dd></dd> </dl>
 
 </dd> <dt>
 
-**Name**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -243,11 +243,11 @@ class Win32_StartupCommand : CIM_Setting
 
 Класс **Win32 \_ стартупкомманд** является производным от [**\_ параметра CIM**](cim-setting.md).
 
-Запуск компьютера не заканчивается после загрузки операционной системы. Вместо этого можно настроить операционную систему Windows таким образом, чтобы команды запуска запускались при каждом запуске Windows. Команды запуска хранятся в реестре или в составе профиля пользователя и используются для автоматического запуска определенных сценариев или приложений при каждой загрузке Windows.
+Запуск компьютера не заканчивается после загрузки операционной системы. вместо этого Windows операционная система может быть настроена таким образом, чтобы команды запуска запускались при каждом запуске Windows. команды запуска хранятся в реестре или в составе профиля пользователя и используются для автоматического запуска определенных сценариев или приложений каждый раз, когда Windows загружается.
 
-В большинстве случаев программы автозапуска полезны. они гарантируют, что определенные приложения, такие как антивирусные программы, автоматически запускаются и запускаются при каждой загрузке Windows. Однако программы автозапуска также могут отвечать за такие проблемы, как:
+В большинстве случаев программы автозапуска полезны. они гарантируют, что определенные приложения, такие как антивирусные программы, автоматически запускаются и запускаются каждый раз, Windows загружается. Однако программы автозапуска также могут отвечать за такие проблемы, как:
 
--   Компьютеры, которые занимают много времени на запуск. Это может быть результатом большого количества приложений, которые должны запускаться при каждом запуске Windows.
+-   Компьютеры, которые занимают много времени на запуск. это может быть результатом большого количества приложений, которые должны запускаться каждый раз Windows запуске.
 -   Приложения, представленные на панели задач или в диспетчере задач, даже если пользователь не запустил их. Хотя эти приложения не обязательно вызывают проблемы, они могут привести к вызовам службы поддержки от пользователей, которые путают с тем, откуда поступают эти программы и почему они работают.
 -   Компьютеры, на которых возникают проблемы, даже если они находятся в состоянии простоя. Эти проблемы часто отслеживаются с командами запуска, которые выполняются, когда никто не знает, что они работают.
 
@@ -255,15 +255,15 @@ class Win32_StartupCommand : CIM_Setting
 
 -   HKLM \\ Software \\ Microsoft \\ Windows \\ CurrentVersion \\ Run
 -   HKLM \\ Software \\ Microsoft \\ Windows \\ CurrentVersion \\ RunOnce
--   Раздел HKCU \\ Software \\ Microsoft \\ Windows \\ CurrentVersion \\ Run
--   HKCU \\ программное обеспечение \\ Microsoft \\ Windows \\ CurrentVersion \\ RunOnce
+-   раздел HKCU \\ Software \\ Microsoft \\ Windows \\ CurrentVersion \\ Run
+-   HKCU \\ Software \\ Microsoft \\ Windows \\ CurrentVersion \\ RunOnce
 -   HKU \\ ProgID \\ программное обеспечение \\ Microsoft \\ Windows \\ CurrentVersion \\ Run
--   systemdrive \\ Documents and Settings \\ All Users \\ Start Program Menus \\ \\ Startup
--   \\загрузить документы и параметры \\ имя пользователя в \\ меню "Пуск" запуск \\ программ \\
+-   в папке systemdrive находятся \\ документы и Параметры \\ все пользователи \\ запускают меню запуск \\ программ \\
+-   документы на systemdrive \\ и Параметры \\ имя_пользователя \\ меню "пуск" \\ \\ запуск программ
 
 Класс WMI Win32 стартупкомманд можно использовать \_ для перечисления программ автозапуска независимо от того, где хранится информация.
 
-Вызывающий процесс, использующий этот класс, должен иметь привилегию **SE \_ reside \_ Name** на компьютере, где размещается реестр. Например, если перечислить этот класс на локальном компьютере, учетная запись, под которой выполняется приложение, должна иметь эту привилегию. Дополнительные сведения см. в разделе [выполнение привилегированных операций](../wmisdk/executing-privileged-operations.md).
+вызывающий процесс, использующий этот класс, должен иметь привилегию **SE \_ reside \_ NAME** на компьютере, где размещается реестр. Например, если перечислить этот класс на локальном компьютере, учетная запись, под которой выполняется приложение, должна иметь эту привилегию. Дополнительные сведения см. в разделе [выполнение привилегированных операций](../wmisdk/executing-privileged-operations.md).
 
 Вы можете изменить значения реестра, в которых **Win32 \_ стартупкомманд** получает данные, вызывая методы [поставщика системного реестра](/previous-versions/windows/desktop/regprov/system-registry-provider) WMI в скрипте или в C++. Дополнительные сведения см. [в разделе изменение системного реестра](../wmisdk/modifying-the-system-registry.md).
 

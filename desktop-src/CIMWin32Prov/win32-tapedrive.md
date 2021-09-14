@@ -56,12 +56,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 515651c4e9d82bc88053187ae8ed3517662fb53a81080e54cd54097b7243a225
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6c7e7d3b754a0399acb152dba043da269f67a06f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119020102"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053671"
 ---
 # <a name="win32_tapedrive-class"></a>\_Класс Win32 TapeDrive
 
@@ -118,7 +118,7 @@ class Win32_TapeDrive : CIM_TapeDrive
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ TapeDrive** имеет следующие типы членов:
 
@@ -1333,7 +1333,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1770,7 +1770,7 @@ TRUE
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ TapeDrive** является производным от [**CIM \_ TapeDrive**](cim-tapedrive.md).
 

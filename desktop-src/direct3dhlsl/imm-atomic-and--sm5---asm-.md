@@ -4,12 +4,12 @@ description: Немедленная атомарная операция и в п
 ms.assetid: DA2A70C3-57BD-41F0-865C-235AA4DF1A52
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 53992096dccf4d4f0c4e8e98cbafd08f65ce852e28389c8c725f7f2594c7ec4a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 1567d3b4eb16a46b1be9badb8db7b39cc03b4b32
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119672804"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964641"
 ---
 # <a name="imm_atomic_and-sm5---asm"></a>IMM \_ Atomic \_ и (SM5-ASM)
 
@@ -37,7 +37,7 @@ ms.locfileid: "119672804"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта инструкция выполняет один компонент 32-bit битовый и операнда *src0* с *dst1* в 32-бит на компонент, адрес *дстаддресс*.
 
@@ -61,7 +61,7 @@ ms.locfileid: "119672804"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 |        |      |        |          | X     | X       |
 
@@ -73,7 +73,7 @@ ms.locfileid: "119672804"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | X      | X    | X      | X        | X     | X       |
 
@@ -89,7 +89,7 @@ ms.locfileid: "119672804"
 
 | Модель шейдера                                              | Поддерживается |
 |-----------------------------------------------------------|-----------|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | Да       |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | yes       |
 | [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | Нет        |
 | [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | Нет        |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет        |

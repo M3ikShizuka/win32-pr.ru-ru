@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: d1f20b17dd6c917a9b2a2f965922b7a9493c966dd9527bb9efbca01c0c4dfce8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 47d8bba0ee43da81a18baaeaffca0e3c917e460d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119120338"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888301"
 ---
 # <a name="degrees"></a>градусы
 
@@ -70,7 +70,7 @@ ms.locfileid: "119120338"
 
 | Модель шейдера                                                                       | Поддерживается |
 |------------------------------------------------------------------------------------|-----------|
-| [Модели шейдеров 2 (DirectX HLSL)](dx-graphics-hlsl-sm2.md) и более поздние модели шейдеров | Да       |
+| [Модели шейдеров 2 (DirectX HLSL)](dx-graphics-hlsl-sm2.md) и более поздние модели шейдеров | yes       |
 | [Модель шейдера 1 (DirectX HLSL)](dx-graphics-hlsl-sm1.md)                          | VS \_ 1 \_ 1  |
 
 

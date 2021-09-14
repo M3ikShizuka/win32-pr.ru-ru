@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: b6eed363a10be0f56fa72146e5029ac60e68dd77d596d5fbc58bb7261d18b179
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 46ad2ffcd768603d90c86a8d4751e76268a9e919
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119080108"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053785"
 ---
 # <a name="delete-method-of-the-win32_shortcutfile-class"></a>Метод DELETE \_ класса Шорткутфиле Win32
 

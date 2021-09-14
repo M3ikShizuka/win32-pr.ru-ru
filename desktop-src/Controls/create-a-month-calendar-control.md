@@ -4,12 +4,12 @@ description: В этом разделе показано, как динамич�
 ms.assetid: 35ADDA85-5D7D-46F4-A637-99FEE4592B3B
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 22f0fbc819a79b05842db75c1871e8150b311444e6055d076a9831b0bc42486b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 82f3824618e9801b68eb67b13c64c638a5057481
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117831820"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053648"
 ---
 # <a name="how-to-create-a-month-calendar-control"></a>Создание элемента управления "месячный календарь"
 
@@ -21,12 +21,12 @@ ms.locfileid: "117831820"
 
 -   [Windows Элементы управления](window-controls.md)
 
-### <a name="prerequisites"></a>Обязательные условия
+### <a name="prerequisites"></a>Предварительные требования
 
 -   C/C++
 -   Windows Программирование пользовательского интерфейса
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 
 Чтобы создать элемент управления "месячный календарь", используйте функцию [**CreateWindowEx**](/windows/desktop/api/winuser/nf-winuser-createwindowexa) , указав [**\_ класс монскал**](common-control-window-classes.md) в качестве класса Window. Сначала необходимо зарегистрировать класс окна, вызвав функцию [**InitCommonControlsEx**](/windows/desktop/api/Commctrl/nf-commctrl-initcommoncontrolsex) , указав бит ICC для **\_ \_ классов даты** в сопутствующей структуре [**InitCommonControlsEx**](/windows/win32/api/commctrl/ns-commctrl-initcommoncontrolsex) .

@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ff20aebda01b24dc14eb7d5298ee0d663d903bedcb7ef6ef8b05b6211af8b567
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 23f48b0e2ac0f4bf02f87d90bb0bd504478beb52
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119764474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889344"
 ---
 # <a name="buttonelementdown"></a>БУТТОНЕЛЕМЕНТ.
 
@@ -42,13 +42,13 @@ ms.locfileid: "119764474"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы элемент Button оставался в положении вниз, необходимо установить для параметра **закрепить** значение true. По умолчанию **закрепление** имеет значение false, и любая попытка **установить значение** true будет пропущена.
 
 Если указано недопустимое значение, сохраняется предыдущее состояние.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -58,7 +58,7 @@ ms.locfileid: "119764474"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

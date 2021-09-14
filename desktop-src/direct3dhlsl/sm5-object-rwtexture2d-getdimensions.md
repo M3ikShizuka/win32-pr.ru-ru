@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 79d967fc1952242c4e656574c8b6ff7a1299fd5b1af180a79b23e5befc60b143
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 19a6711e8f04afdb2f5ec66ff33c8aaf1d59b40c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117905754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888189"
 ---
 # <a name="rwtexture2dgetdimensions-function"></a>Функция RWTexture2D:: Dimension
 
@@ -59,7 +59,7 @@ void GetDimensions(
 
 Эта функция не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это список перегруженных версий этого метода.
 
@@ -78,7 +78,7 @@ void GetDimensions(out float Width,
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 |        |      |        |          | x     | x       |
 
@@ -86,7 +86,7 @@ void GetDimensions(out float Width,
 
  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

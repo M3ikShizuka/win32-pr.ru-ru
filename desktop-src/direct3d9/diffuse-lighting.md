@@ -4,12 +4,12 @@ ms.assetid: 29280a02-1c26-4b54-8468-707dd96dea1d
 title: Рассеянное освещение (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9906742b47b959336fd882748388a2f10776b6adb06eb98bc23effb6576793be
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f51e45093786348aaa115ec38c420acec471f718
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119675779"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888613"
 ---
 # <a name="diffuse-lighting-direct3d-9"></a>Рассеянное освещение (Direct3D 9)
 
@@ -26,10 +26,10 @@ ms.locfileid: "119675779"
 | Sum             | Недоступно           | Недоступно           | Совокупность рассеянных компонентов каждого источника света.                                                                  |
 | C<sub>d</sub>   | (0,0,0,0)     | D3DCOLORVALUE | Рассеянный цвет.                                                                                                |
 | L<sub>d</sub>   | (0,0,0,0)     | D3DCOLORVALUE | Рассеянный цвет источника света.                                                                                          |
-| Нет               | н/д           | D3DVECTOR     | Нормаль вершины                                                                                                 |
-| L<sub>dir</sub> | н/д           | D3DVECTOR     | Вектор направления от вершины объекта к источнику света.                                                             |
-| Atten           | н/д           | FLOAT         | Затухание света. См. раздел " [ослабление и прожектор" (Direct3D 9)](attenuation-and-spotlight-factor.md). |
-| Немедленная оплата.            | н/д           | FLOAT         | Коэффициент узкой направленности света. См. раздел " [ослабление и прожектор" (Direct3D 9)](attenuation-and-spotlight-factor.md).  |
+| Нет               | Недоступно           | D3DVECTOR     | Нормаль вершины                                                                                                 |
+| L<sub>dir</sub> | Недоступно           | D3DVECTOR     | Вектор направления от вершины объекта к источнику света.                                                             |
+| Atten           | Недоступно           | FLOAT         | Затухание света. См. раздел " [ослабление и прожектор" (Direct3D 9)](attenuation-and-spotlight-factor.md). |
+| Немедленная оплата.            | Недоступно           | FLOAT         | Коэффициент узкой направленности света. См. раздел " [ослабление и прожектор" (Direct3D 9)](attenuation-and-spotlight-factor.md).  |
 
 
 

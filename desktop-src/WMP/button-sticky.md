@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ec9c6a2cf1523cf2384142bd6ffd47cb5e42e7851dc96b6e236343c5ba670aa1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d8de9b4e1a8e4bab04e5729cb45662164e2dfa2e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118342750"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889397"
 ---
 # <a name="buttonsticky"></a>КНОПКА. прикрепленная
 
@@ -42,11 +42,11 @@ ms.locfileid: "118342750"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если параметру **закрепления** присвоено значение true, **кнопка** будет переходить в состояние down при щелчке и останется в этом состоянии до повторного нажатия. Если **кнопка** находится в состоянии Down, атрибут **Down** будет иметь значение true, а будет отображено **довнимаже** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -56,7 +56,7 @@ ms.locfileid: "118342750"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

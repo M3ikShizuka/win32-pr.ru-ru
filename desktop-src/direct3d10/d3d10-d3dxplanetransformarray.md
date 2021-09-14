@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: 04cda233d777f05dec44b4fc93537cc33b0369d14d95c104773f0f33ef03498d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d8b02b64fd13e7466980340056fceccc1da784cf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120070044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888864"
 ---
 # <a name="d3dxplanetransformarray-function-d3dx10mathh"></a>Функция D3DXPlaneTransformArray (D3DX10Math. h)
 
@@ -105,7 +105,7 @@ D3DXPLANE* D3DXPlaneTransformArray(
 
 Указатель на структуру D3DXPLANE, представляющую преобразованную плоскость. Это то же значение, которое возвращается в параметре тоска, чтобы эту функцию можно было использовать в качестве параметра для другой функции.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот пример преобразует одну плоскость, применяя неоднородный масштаб.
 
@@ -135,7 +135,7 @@ D3DXPlaneTransformArray( &planeNew, sizeof (D3DXPLANE), &plane,
 
 Параметр pM содержит обратную перестановку матрицы преобразования. Обратная перестановка необходима этому методу, чтобы правильно преобразовать стандартный вектор преобразованной плоскости.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -146,7 +146,7 @@ D3DXPlaneTransformArray( &planeNew, sizeof (D3DXPLANE), &plane,
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

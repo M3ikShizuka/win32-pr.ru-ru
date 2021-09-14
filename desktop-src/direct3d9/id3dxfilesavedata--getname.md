@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: 7aa6ef69a5296830b2f3bb992fb24ac23fa58adeeea629fd0e1bdeacf6173344
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 00fa8c60f423343d3d4c594d31141a2f192802d3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119856653"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888456"
 ---
 # <a name="id3dxfilesavedatagetname-method"></a>Метод ID3DXFileSaveData:: Name
 
@@ -65,7 +65,7 @@ Type: **[ **size \_ T**](../winprog/windows-data-types.md)\***
 
 Если метод выполнен успешно, возвращается значение S \_ . Если метод завершается с ошибкой, будет возвращено следующее значение: D3DXFERR \_ бадвалуе.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы этот метод был выполнен, параметр *szName* или *Пуисизе* должен иметь значение, отличное от **null**.
 

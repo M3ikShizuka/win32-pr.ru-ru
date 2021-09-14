@@ -40,12 +40,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 0b2af9bfd69f81b518eba42f435a457c9baaa0d0ce8ddbac1424b997329a3ef0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ad43dcecf65fdc9fb8dd53bdf686a077e6bdfa8a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119832684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126887312"
 ---
 # <a name="jet_tblinfo-enumeration"></a>Перечисление JET_TblInfo
 
@@ -67,7 +67,7 @@ Dim instance As JET_TblInfo
 public enum JET_TblInfo
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <table>
 <thead>
@@ -122,7 +122,7 @@ public enum JET_TblInfo
 </table>
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

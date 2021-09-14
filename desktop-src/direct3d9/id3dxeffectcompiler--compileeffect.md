@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: f3769f3f7433aadc55e766d68ecc152a4e26444cf506344f80e3f11a0bca8fcf
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6552d0216cd05c40c122657270c02e0886438da1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119951664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964770"
 ---
 # <a name="id3dxeffectcompilercompileeffect-method"></a>Метод ID3DXEffectCompiler:: Компилиффект
 
@@ -79,7 +79,7 @@ HRESULT CompileEffect(
 
 Если метод завершается с ошибкой, возвращается значение E \_ Failed.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -90,7 +90,7 @@ HRESULT CompileEffect(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

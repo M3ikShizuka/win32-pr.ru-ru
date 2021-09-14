@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 6264be0712f5ac7f30a9882efde5c66e1e75404634e77d6b72d2313ba016fd6e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ecbd5cbb94355af9c1e51e6c7e8fc31a862b03be
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118299259"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888656"
 ---
 # <a name="d3dxcreatetexture-function"></a>Функция D3DXCreateTexture
 
@@ -125,7 +125,7 @@ HRESULT D3DXCreateTexture(
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, D3DERR \_ NOTAVAILABLE, D3DERR \_ аутофвидеомемори, E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 На внутреннем уровне D3DXCreateTexture использует [**D3DXCheckTextureRequirements**](d3dxchecktexturerequirements.md) для настройки параметров вызова. Таким образом, вызовы D3DXCreateTexture часто завершаются успешно, когда вызовы [**креатетекстуре**](/windows/win32/api/d3d9helper/nf-d3d9helper-idirect3ddevice9-createtexture) завершатся сбоем.
 

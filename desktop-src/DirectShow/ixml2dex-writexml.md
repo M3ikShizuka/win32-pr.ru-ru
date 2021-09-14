@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: a5285faad36f83dbab693c63a0c96ca2b1d2b6a25220bb601a9527aac9dc5ac1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4ab8a4421244f2c2ee21c5243923f5d0827317e8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120051294"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053309"
 ---
 # <a name="ixml2dexwritexml-method"></a>Метод IXml2Dex:: WriteXML
 
@@ -64,7 +64,7 @@ HRESULT WriteXML(
 
 \_При успешном выполнении возвращает значение ОК. При нехватке памяти для преобразования возвращает E \_ OUTOFMEMORY. В противном случае возвращает другой код ошибки.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод выделяет память для строки. Приложение должно вызвать **сисфристринг** для освобождения памяти.
 

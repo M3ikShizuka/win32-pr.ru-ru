@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 41e821d853a8a8f981f1174d654f17475c0363cdcc97bb537e308ccd72e38190
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 68de2a77b9d27391c57ec299ceb87d29166ee248
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118987204"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052804"
 ---
 # <a name="id3dxpatchmeshgenerateadjacency-method"></a>Метод ID3DXPatchMesh:: Женератеаджаценци
 
@@ -55,11 +55,11 @@ HRESULT GenerateAdjacency(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 После того как приложение создаст сведения о смежности для сетки, данные сетки можно оптимизировать для повышения производительности рисования. Этот метод определяет, какие исправления являются смежными (в пределах указанного допуска). Эта информация используется внутренним образом для оптимизации тесселяции.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ HRESULT GenerateAdjacency(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

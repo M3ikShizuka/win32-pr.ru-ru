@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: 98f3194ce2b57f533ab04e21a3b0e184ad9fe96af66704705880c08dd52b8e85
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c5f3709a31067b82e9752a9e97db6f3a2a323a19
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119893714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964802"
 ---
 # <a name="id3dxbaseeffectgetmatrixtransposearray-method"></a>Метод ID3DXBaseEffect:: Жетматрикстранспосеаррай
 
@@ -75,13 +75,13 @@ HRESULT GetMatrixTransposeArray(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть D3DERR \_ инвалидкалл.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Переданная матрица содержит основные данные столбца. то есть каждый вектор содержится в столбце.
 
 Если целевые матрицы больше, чем исходные матрицы, будут заполнены только верхние левые компоненты каждой целевой матрицы, а остальные компоненты матрицы назначения будут иметь нулевое значение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -92,7 +92,7 @@ HRESULT GetMatrixTransposeArray(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

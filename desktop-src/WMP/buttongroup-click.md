@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c082db33fa639bba26142c6637166ba5e925c94a5976bf27abae8d076be8f659
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 59bc9400d70fc6b6e40cc34d5284d0ca76454062
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119135927"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889293"
 ---
 # <a name="buttongroupclick"></a>BUTTONGROUP. Щелкните
 
@@ -42,7 +42,7 @@ ms.locfileid: "119135927"
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод используется для предоставления альтернативного способа выполнения кода, связанного с кнопкой, содержащейся в **BUTTONGROUP**.
 

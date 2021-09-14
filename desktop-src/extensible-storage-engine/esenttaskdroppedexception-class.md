@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: b81d04ace73775fdbcf268ac740e131f279d3b6d52bd077c149467ef51b3cd8a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4770f405ff7ca8875e3e2a960dea846e2f34ff6a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119721514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964377"
 ---
 # <a name="esenttaskdroppedexception-class"></a>Класс Есенттаскдроппедексцептион
 
@@ -68,7 +68,7 @@ public sealed class EsentTaskDroppedException : EsentResourceException
 
 Любые общедоступные статичные (общие в Visual Basic) члены этого типа являются потокобезопасными. Потокобезопасная работа с членами экземпляров типа не гарантируется.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

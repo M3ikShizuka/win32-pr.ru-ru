@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: f7733f37ae5db4bfdaf504f5e0925b89cea7a8f2e54f4546feb4141fddd246ae
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 17d59700d8752526f3f4c48efeaf7f3e6bd985bb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120118864"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964818"
 ---
 # <a name="id3dxbaseeffectgetmatrix-method"></a>Метод ID3DXBaseEffect:: Matrix
 
@@ -65,7 +65,7 @@ HRESULT GetMatrix(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть D3DERR \_ инвалидкалл.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Матрица нонтранспосед содержит основные данные строки. то есть каждый вектор содержится в строке.
 
@@ -82,7 +82,7 @@ HRESULT GetMatrix(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

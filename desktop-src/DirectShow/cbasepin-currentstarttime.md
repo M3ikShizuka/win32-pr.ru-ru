@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: c92355b397736b713fcf5fd09a61a130761a0cb954331b606ec1367fd65e6e20
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5f413419992d66f8de3a28bb7e39368564ce0803
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119916744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053610"
 ---
 # <a name="cbasepincurrentstarttime-method"></a>Кбасепин. Куррентстарттиме, метод
 
@@ -44,7 +44,7 @@ REFERENCE_TIME CurrentStartTime();
 
 Возвращает значение [**кбасепин:: m \_ тстарт**](cbasepin-m-tstart.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ REFERENCE_TIME CurrentStartTime();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

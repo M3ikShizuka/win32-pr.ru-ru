@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: 7f640481c664c51614a45ff10250a4c40d769a27d793868c4bec316c2cab9ded
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8531d70e301b0583309817ac23a36762cacf563f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117914350"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888808"
 ---
 # <a name="id3dx10skininfoaddboneinfluences-method"></a>Метод ID3DX10SkinInfo:: Аддбонеинфлуенцес
 

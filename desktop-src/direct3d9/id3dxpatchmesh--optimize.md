@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 245f3ddb2c85f5de6ae2acc040f929387d522c12d65eeb4d4307f162b8532af8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6fa66aadd0ef1f9f9f65747694fc311f80172449
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119120728"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052784"
 ---
 # <a name="id3dxpatchmeshoptimize-method"></a>Метод ID3DXPatchMesh:: OPTIMIZE
 
@@ -55,7 +55,7 @@ HRESULT Optimize(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, D3DXERR \_ каннотаттрсорт.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 После того как приложение создаст сведения о смежности для сетки, данные сетки могут быть оптимизированы (переупорядочены) для повышения производительности рисования. Этот метод определяет, какие исправления являются смежными (в пределах указанного допуска).
 

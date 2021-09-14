@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: a8e47fa0c908901a1bc46cf3ba4f74bae7dac87c2ef824de51bc98c8f38acd31
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 9a17d8f186fc1baf62dda3652372c4e73a5de141
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119893344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052777"
 ---
 # <a name="id3dxprtbufferunlockbuffer-method"></a>Метод ID3DXPRTBuffer:: Унлоккбуффер
 
@@ -44,7 +44,7 @@ HRESULT UnlockBuffer();
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ HRESULT UnlockBuffer();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

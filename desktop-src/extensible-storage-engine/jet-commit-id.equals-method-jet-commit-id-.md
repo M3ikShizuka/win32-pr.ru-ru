@@ -20,12 +20,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 31b0d257455cb1549cf849b4791bf596488bb67cde99926378e75b218330c5f4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c833b137b1e5df9f6d70e206b2f517977375e29b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119968354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964333"
 ---
 # <a name="jet_commit_idequals-method-jet_commit_id"></a>Метод JET_COMMIT_ID. Equals (JET_COMMIT_ID)
 
@@ -57,7 +57,7 @@ public bool Equals(
 
 #### <a name="parameters"></a>Параметры
 
-  - др.  
+  - иное  
     Тип: [Microsoft.ISAM.ESENT.Interop.Windows8.JET_COMMIT_ID](./jet-commit-id-class.md)  
     
     Объект для сравнения с данным экземпляром.

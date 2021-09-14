@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: a22be2caf5a66447c9c772861918f1a5dcfe7bc2c81bfdba4f1fefb59f89565a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9ffabd57d85437911c323ee458d3758ee725d45a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118154430"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886928"
 ---
 # <a name="imediadetget_framerate-method"></a>Метод Имедиадет:: Get \_ частоты кадров
 
@@ -70,7 +70,7 @@ HRESULT get_FrameRate(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод не может получить частоту кадров из ASF – файла.
 
@@ -88,7 +88,7 @@ HRESULT get_FrameRate(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -99,7 +99,7 @@ HRESULT get_FrameRate(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

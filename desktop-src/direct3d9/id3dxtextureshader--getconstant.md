@@ -15,11 +15,11 @@ api_location:
 - d3dx9.lib
 - d3dx9.dll
 ms.openlocfilehash: edcc4b6a7f34c12be7013f2ae1e0b2e6d991a5d6
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108117672"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964753"
 ---
 # <a name="id3dxtextureshadergetconstant-method"></a>Метод ID3DXTextureShader:: with Constant
 
@@ -65,7 +65,7 @@ D3DXHANDLE GetConstant(
 
 Возвращает уникальный идентификатор для константы.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы получить константу из массива констант, используйте [**ID3DXTextureShader:: жетконстантелемент**](id3dxtextureshader--getconstantelement.md).
 
@@ -75,12 +75,12 @@ D3DXHANDLE GetConstant(
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3DX9Shader. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3DX9Shader. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>     |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

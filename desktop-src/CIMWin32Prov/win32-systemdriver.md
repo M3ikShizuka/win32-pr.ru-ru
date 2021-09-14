@@ -36,12 +36,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: b7533e5d1e842e6794a9f9c386103b781afa0404ee181354c420770358f7e8a2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 15be9b176680e8abb259d3d011da9d6cec0c2fa8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119751224"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053703"
 ---
 # <a name="win32_systemdriver-class"></a>\_Класс Win32 SystemDriver
 
@@ -80,7 +80,7 @@ class Win32_SystemDriver : Win32_BaseService
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ SystemDriver** имеет следующие типы членов:
 
@@ -95,10 +95,10 @@ class Win32_SystemDriver : Win32_BaseService
 
 | Метод                                                                              | Описание                                                                                     |
 |:------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------|
-| [**Изменение**](change-method-in-class-win32-systemdriver.md)                         | Метод класса, который изменяет службу.<br/>                                                |
+| [**Change**](change-method-in-class-win32-systemdriver.md)                         | Метод класса, который изменяет службу.<br/>                                                |
 | [**чанжестартмоде**](changestartmode-method-in-class-win32-systemdriver.md)       | Метод класса, который изменяет режим запуска службы.<br/>                              |
 | [**Создание**](create-method-in-class-win32-systemdriver.md)                         | Метод класса, который создает новую службу.<br/>                                             |
-| [**Удален**](delete-method-in-class-win32-systemdriver.md)                         | Метод класса, который удаляет существующую службу.<br/>                                       |
+| [**DELETE**](delete-method-in-class-win32-systemdriver.md)                         | Метод класса, который удаляет существующую службу.<br/>                                       |
 | [**интеррогатесервице**](interrogateservice-method-in-class-win32-systemdriver.md) | Метод класса, запрашивающий обновление состояния службы до Service Manager.<br/> |
 | [**PauseService**](pauseservice-method-in-class-win32-systemdriver.md)             | Метод класса, который пытается перевести службу в приостановленное состояние.<br/>                 |
 | [**ResumeService**](resumeservice-method-in-class-win32-systemdriver.md)           | Метод класса, который пытается перевести службу в состояние возобновления.<br/>                |
@@ -357,7 +357,7 @@ Windows код ошибки, определяющий проблемы при з
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -484,7 +484,7 @@ Windows код ошибки, определяющий проблемы при з
 
 </dd> <dt>
 
-**Запуск**
+**Начинать**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **логический**
@@ -839,7 +839,7 @@ Windows код ошибки, определяющий проблемы при з
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ SystemDriver** является производным от [**Win32 \_ басесервице**](win32-baseservice.md).
 

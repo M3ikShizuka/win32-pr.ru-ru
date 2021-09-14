@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.serv
 ms:contentKeyID: 55104091
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: be0b495b8854d9cba9bf3bded07cb77d109c2fc5ba4a988794ff3489634fac54
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e80e429c5df6cee90e843fc2ff96102677a3b940
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119780334"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126887189"
 ---
 # <a name="server2003api-members"></a>Элементы Server2003Api
 
@@ -50,7 +50,7 @@ api-интерфейсы, добавленные в Windows Server 2003 верс
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

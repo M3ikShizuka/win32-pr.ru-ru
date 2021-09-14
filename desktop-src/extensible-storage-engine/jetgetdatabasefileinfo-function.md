@@ -21,11 +21,11 @@ api_location:
 - ESENT.DLL
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: b19d783480a8d82485bce32689b8d49e046b0285
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122623510"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126887293"
 ---
 # <a name="jetgetdatabasefileinfo-function"></a>Функция Жетжетдатабасефилеинфо
 
@@ -226,7 +226,7 @@ _**Применимо к:** Windows | Windows Сервером_
 <td><p>требуется Windows Vista, Windows XP или Windows 2000 Professional.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Сервер</strong></p></td>
+<td><p><strong>Server</strong></p></td>
 <td><p>требуется Windows server 2008, Windows server 2003 или сервер Windows 2000.</p></td>
 </tr>
 <tr class="odd">
@@ -238,7 +238,7 @@ _**Применимо к:** Windows | Windows Сервером_
 <td><p>Используйте ESENT. lib.</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>КОМПОНОВКИ</strong></p></td>
+<td><p><strong>DLL</strong></p></td>
 <td><p>Требуется ESENT.dll.</p></td>
 </tr>
 <tr class="even">
