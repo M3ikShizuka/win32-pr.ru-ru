@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: ed4feb55420ebf9d3bc43496fe3004a4d1b55e1ae8add4e3d5b40ec2ac4ba4ef
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1ab2a24a20fd65fad9622b775bedc59cfa28301a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117973894"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347907"
 ---
 # <a name="signeddatacosign-method"></a>Сигнеддата. кознаковый метод
 
@@ -91,7 +91,7 @@ SignedData.CoSign( _
 -   если параметр- *подписывающий* имеет **значение NULL** и [**Параметры. Свойство Енаблепромптфорцертификатеуи**](settings-enablepromptforcertificateui.md) имеет значение false, метод завершается ошибкой.
 -   Если параметр- *подписывающий* имеет **значение NULL** и в хранилище текущего пользователя нет сертификата \_ с доступным закрытым ключом, метод завершается ошибкой.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -102,7 +102,7 @@ SignedData.CoSign( _
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

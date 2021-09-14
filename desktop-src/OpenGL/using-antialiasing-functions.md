@@ -10,12 +10,12 @@ keywords:
 - сглаживание
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ab36f41e3b639447b4f246d706e11c134d8f920528cde1e946d26af057a95951
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 896d02dec050c72e59762ff5ee139b0bd091d9a8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117980350"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348222"
 ---
 # <a name="using-antialiasing-functions"></a>Использование функций сглаживания
 

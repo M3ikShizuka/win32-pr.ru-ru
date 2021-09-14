@@ -4,12 +4,12 @@ description: Серверное приложение может вызвать �
 ms.assetid: ac7d7a50-a788-40a9-b57d-1f528bdbd7df
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1757c2cac82b672504fc5aed5fe55a06d973a247c76d42e6f2a9debf1837d598
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 50b8b48ef2796dab071ac705edf0ffca5156e235
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118927122"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348074"
 ---
 # <a name="receiving-cancellations"></a>Получение отмен
 

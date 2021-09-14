@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7d2a5db54a78dd393d9d9507860e68fb8f9f405d76930b730798454c521c20ae
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 163a7c3b679c979e5c800d2aa41ba2abb00e11f4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120081644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348394"
 ---
 # <a name="gldisableclientstate-function"></a>Функция Глдисаблеклиентстате
 
@@ -89,7 +89,7 @@ void WINAPI glDisableClientState(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -103,7 +103,7 @@ void WINAPI glDisableClientState(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

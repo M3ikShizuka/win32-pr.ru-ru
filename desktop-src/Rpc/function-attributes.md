@@ -4,12 +4,12 @@ description: Атрибуты \ callback \ и \ Local \ могут примен�
 ms.assetid: 05e19164-072c-4a5a-878d-845273975854
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: be36cac561a10ae2e1177c29dfc0e1219f650daf26af8154c47cdbd7e3d2bd57
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 75ef199b937d5a3e9a8444be9ed65749da007ced
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120021025"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348118"
 ---
 # <a name="function-attributes"></a>Атрибуты функций
 

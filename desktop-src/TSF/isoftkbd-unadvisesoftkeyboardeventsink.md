@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 90552c09e47d8a51f413f0588b12c8da5d44e665a6a5a51a79dc31717c6d56c8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2a77129d1b5df024964af4ab19318963708d4b3d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118877114"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347847"
 ---
 # <a name="isoftkbdunadvisesoftkeyboardeventsink-method"></a>Метод Исофткбд:: Унадвисесофткэйбоардевентсинк
 
@@ -65,7 +65,7 @@ HRESULT UnadviseSoftKeyboardEventSink(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -74,7 +74,7 @@ HRESULT UnadviseSoftKeyboardEventSink(
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                             |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                   |
 | Распространяемые компоненты<br/>          | TSF 1,0 на Windows 2000 Professional<br/>                                        |
-| Header<br/>                   | <dl> <dt>Софткбдк. h</dt> </dl>  |
+| Заголовок<br/>                   | <dl> <dt>Софткбдк. h</dt> </dl>  |
 | IDL<br/>                      | <dl> <dt>Софткбд. idl</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Softkbd.dll</dt> </dl> |
 

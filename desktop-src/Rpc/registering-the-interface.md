@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: d34a12de37b39c719de246ceb79a92d6a51fc361
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104252748"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348054"
 ---
 # <a name="registering-the-interface"></a>Регистрация интерфейса
 
@@ -32,11 +32,11 @@ status = RpcServerRegisterIf(MyInterface_v1_0_s_ifspec, NULL, NULL);
 > [!Note]  
 > MIDL создает две очень похожие структуры: одну для клиента и одну для сервера. Структура, передаваемая функции [**рпксерверрегистериф**](/windows/desktop/api/Rpcdce/nf-rpcdce-rpcserverregisterif) , является серверной версией структуры, созданной с помощью MIDL.
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

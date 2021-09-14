@@ -24,12 +24,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 72c28486bfa3981870ac331ae83f0cbb532bba4d27c44062ce902823e4e3c259
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7e2dd716cdd969040f5315ef05200912acc54878
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118927141"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348091"
 ---
 # <a name="protocol-sequence-constants"></a>Константы последовательности протоколов
 

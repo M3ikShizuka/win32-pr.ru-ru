@@ -8,12 +8,12 @@ keywords:
 - OpenGL, Справочник по примитивам
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d2e637bd4ed7243f13e62fcbf626f1d3ee70a24de7c3666b4fdaec247aefc409
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 77c81727995b44afec170c5d3dfe34fe42a4fdc8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119485363"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348307"
 ---
 # <a name="primitives-reference"></a>Справочник по примитивам
 

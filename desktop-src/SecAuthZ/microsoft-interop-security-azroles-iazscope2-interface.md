@@ -135,12 +135,12 @@ api_type:
 - COM
 api_location:
 - Microsoft.Interop.Security.Azroles.dll
-ms.openlocfilehash: 737456ea9c0528dc7a18dd756f4b8bb6ccc461f1e34773129ff1ec9a4c73951a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: be1e7bbe744ef334ab80a47a48c0f6db296a09fa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117780586"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347939"
 ---
 # <a name="microsoftinteropsecurityazrolesiazscope2-interface"></a>Интерфейс Microsoft. Interop. Security. Азролес. IAzScope2
 
@@ -194,13 +194,13 @@ ms.locfileid: "117780586"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Интерфейс **Microsoft. Interop. Security. азролес. IAzScope2** имеет следующие свойства.
 
 
 
-| Свойство                                                                             | Тип доступа           | Описание                                                                                           |
+| Свойство.                                                                             | Тип доступа           | Описание                                                                                           |
 |:-------------------------------------------------------------------------------------|:----------------------|:------------------------------------------------------------------------------------------------------|
 | **Microsoft. Interop. Security. Азролес. IAzScope2. ApplicationData**<br/>          | Чтение/запись<br/> | [**Свойство ApplicationData объекта Иазскопе**](/windows/desktop/api/Azroles/nf-azroles-iazscope-get_applicationdata)<br/>                   |
 | **Microsoft. Interop. Security. Азролес. IAzScope2. Аппликатионграупс**<br/>        | Только для чтения<br/>  | [**Свойство Аппликатионграупс объекта Иазскопе**](/windows/desktop/api/Azroles/nf-azroles-iazscope-get_applicationgroups)<br/>               |

@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e9b21d0cb2fac6573ab2999eb96b2af8b1ecb670f4e51d1ffd2ad91ba001c9ee
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5866f3c06ef6969c95eeef4b23fff7a4e7852eb0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119675304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348363"
 ---
 # <a name="glulookat-function"></a>Функция Глулукат
 
@@ -121,7 +121,7 @@ void WINAPI gluLookAt(
 
 Матрица, созданная с помощью **глулукат** , умножает текущую матрицу.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -135,7 +135,7 @@ void WINAPI gluLookAt(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

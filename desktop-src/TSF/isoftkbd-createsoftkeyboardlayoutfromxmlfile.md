@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 9252db845c5e1cc732adc295e1989fee83d4ac6e
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105682002"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347871"
 ---
 # <a name="isoftkbdcreatesoftkeyboardlayoutfromxmlfile-method"></a>Метод Исофткбд:: Креатесофткэйбоардлайаутфромксмлфиле
 
@@ -88,8 +88,8 @@ HRESULT CreateSoftKeyboardLayoutFromXMLFile(
 |-------------------------------------|----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                             |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                   |
-| Распространяемые компоненты<br/>          | TSF 1,0 в Windows 2000 профессиональная<br/>                                        |
-| Header<br/>                   | <dl> <dt>Софткбдк. h</dt> </dl>  |
+| Распространяемые компоненты<br/>          | TSF 1,0 на Windows 2000 Professional<br/>                                        |
+| Заголовок<br/>                   | <dl> <dt>Софткбдк. h</dt> </dl>  |
 | IDL<br/>                      | <dl> <dt>Софткбд. idl</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Softkbd.dll</dt> </dl> |
 

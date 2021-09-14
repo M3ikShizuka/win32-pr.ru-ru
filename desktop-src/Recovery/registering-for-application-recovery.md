@@ -4,12 +4,12 @@ ms.assetid: 2940b1b2-a0ca-4f81-a576-ae6d53ffd4a8
 description: Дополнительные сведения см. в статье регистрация для восстановления приложений.
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3ce2a67a36b26895fdc16652dd271b3b244d0860c14c268144c1357fa3cf51c0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 056232bc2a8a10857ff07900ce261d95ed719b81
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120024593"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348179"
 ---
 # <a name="registering-for-application-recovery"></a>Регистрация для восстановления приложения
 

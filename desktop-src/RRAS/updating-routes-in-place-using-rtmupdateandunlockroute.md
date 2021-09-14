@@ -4,12 +4,12 @@ description: Обновление на месте, как правило, бол
 ms.assetid: d4b0b14e-957a-43d5-bacc-8eee4512e2ab
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5dfcfdc7abd355cd70bb1295af6ce8b4fb4749dfed6c55af4d1fd06ca8257170
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 77d76d2af5d60172b890eefa1041a08d47a5221b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120073704"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348207"
 ---
 # <a name="updating-routes-in-place-using-rtmupdateandunlockroute"></a>Обновление маршрутов на месте с помощью Ртмупдатеандунлоккрауте
 

@@ -4,12 +4,12 @@ ms.assetid: a531532f-afba-46a1-8576-90d4ff881b94
 title: Строки SID
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bd97a5ead18e1a41fa0350e4f04835981e82d205add47b75de4aa5aec05a80a9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6a949a4aec81b24f431b656a9b3a3d4be5666874
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119413414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347931"
 ---
 # <a name="sid-strings"></a>Строки SID
 
@@ -89,7 +89,7 @@ ms.locfileid: "119413414"
 | ВС<br/> | \_Служба SDDL<br/>                         | Пользователь с правами на вход в службу. Это идентификатор группы, добавляемый в маркер процесса, когда он был зарегистрирован в качестве службы. Соответствующий тип входа — LOGON32 \_ logon \_ Service. Соответствующий RID — это \_ RID службы безопасности \_ .<br/>                       |
 | SY<br/> | \_Локальная \_ система SDDL<br/>                   | Локальная система. Соответствующий RID — это \_ RID локальной \_ системы безопасности \_ .<br/>                                                                                                                                                                            |
 | ОБНОВЛЕНИЯ      | \_драйверы пользовательского \_ режима \_ SDDL                  | Драйвер пользовательского режима. Соответствующий RID — SECURITY \_ усермодедриверхост \_ ID \_ Base \_ RID. **Windows server 2008 R2, Windows 7, Windows server 2008, Windows Vista и Windows server 2003:** Недоступно.                                            |
-| WD<br/> | SDDL для \_ всех<br/>                        | Все Соответствующий RID — это \_ RID в сфере безопасности \_ .<br/>                                                                                                                                                                                        |
+| WD<br/> | SDDL для \_ всех<br/>                        | Сотрудников. Соответствующий RID — это \_ RID в сфере безопасности \_ .<br/>                                                                                                                                                                                        |
 | WR      | \_код, \_ ограниченный ЗАПИСЬю SDDL \_              | Запись ограниченного кода. Соответствующий RID — это \_ \_ код RID с ограничением на запись в систему безопасности \_ \_ . *Windows Server 2003:** недоступно.                                                                                                                       |
 
 

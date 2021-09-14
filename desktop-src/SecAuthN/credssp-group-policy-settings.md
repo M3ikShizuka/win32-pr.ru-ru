@@ -4,12 +4,12 @@ ms.assetid: 15ed9a62-2eee-4f29-92c5-ccf2754cdf13
 title: групповая политика CredSSP Параметры
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a8efaaab1b49efba89c9fa5788f60df372991f388c474d531eff8f59205af441
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4a159b7a162df3eda692462a3d3972159e61797e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119008702"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347998"
 ---
 # <a name="credssp-group-policy-settings"></a>групповая политика CredSSP Параметры
 

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Scardssp.dll
-ms.openlocfilehash: d4c3385313fb5b9c9c7ba72957244bd81757b0cd1e79bcec906e740c69b66292
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1e30dbb06373907c5cea07e45d4f7a390b773349
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118922994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347962"
 ---
 # <a name="iscardiso7816internalauthenticate-method"></a>Метод ISCardISO7816:: Интерналаусентикате
 
@@ -71,7 +71,7 @@ HRESULT InternalAuthenticate(
 | <span id="Global_ref"></span><span id="global_ref"></span><span id="GLOBAL_REF"></span><dl> <dt>**Глобальная ссылка**</dt> </dl>         | Битовое расположение: 0------- <br/> Глобальные эталонные данные (ключ, определяемый протоколом MF).<br/>                                                                                       |
 | <span id="Specific_ref"></span><span id="specific_ref"></span><span id="SPECIFIC_REF"></span><dl> <dt>**Конкретная ссылка**</dt> </dl> | Битовое расположение: 1-------<br/> Конкретные ссылочные данные (ключ, определяемый DF).<br/>                                                                                       |
 | <span id="RFU"></span><span id="rfu"></span><dl> <dt>**рфу**</dt> </dl>                                                           | Разрядное расположение:-XX-----<br/> 00 (другие значения — РФУ).<br/>                                                                                                         |
-| <span id="Secret"></span><span id="secret"></span><span id="SECRET"></span><dl> <dt>**Владел**</dt> </dl>                         | Разрядное расположение:---XXXXX<br/> Номер секрета.<br/>                                                                                                              |
+| <span id="Secret"></span><span id="secret"></span><span id="SECRET"></span><dl> <dt>**Секрет**</dt> </dl>                         | Разрядное расположение:---XXXXX<br/> Номер секрета.<br/>                                                                                                              |
 
 
 
@@ -131,7 +131,7 @@ HRESULT InternalAuthenticate(
 
 Кроме приведенных выше кодов ошибок COM, этот интерфейс может возвращать код ошибки смарт-карты, если для завершения запроса была вызвана функция смарт-карты. Дополнительные сведения см. в статье [возвращаемые значения смарт-карты](authentication-return-values.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -140,8 +140,8 @@ HRESULT InternalAuthenticate(
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                                                   |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Скардссп. h</dt> </dl>   |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
+| Заголовок<br/>                   | <dl> <dt>Скардссп. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Скардсрв. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Scardssp.dll</dt> </dl> |
 | IID<br/>                      | IID \_ ISCardISO7816 определен как 53B6AA68-3F56-11D0-916B-00AA00C18068<br/>        |

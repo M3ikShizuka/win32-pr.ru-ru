@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6ec0ffac68119f6f2080ef6ca96ec63fbd35176d3541464a89b6c31f4941b4c7
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c11ae41273cba5bd050a62ea330cef9da0647769
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120081664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348411"
 ---
 # <a name="gldeletelists-function"></a>Функция Глделетелистс
 
@@ -78,7 +78,7 @@ void WINAPI glDeleteLists(
 
 Освобождаются все места хранения, выделенные для указанных списков дисплеев, и имена, доступные для повторного использования, можно использовать позднее. Имена в диапазоне, не имеющие связанного списка отображений, игнорируются. Если *Range* равен нулю, ничего не происходит.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -92,7 +92,7 @@ void WINAPI glDeleteLists(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

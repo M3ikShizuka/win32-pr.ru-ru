@@ -4,12 +4,12 @@ description: Регистрация интерфейса удаленного в
 ms.assetid: c22e3fa8-98be-461a-b06d-292d3f655ffc
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 91a4a6b3c5762a2f9ae74aef5440a5be072f6686b795016df6e9324c240baea4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 30ea9e851e8c9663c8f66d983d3400b1ee398a9d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120018844"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348055"
 ---
 # <a name="registering-interfaces"></a>Регистрация интерфейсов
 
@@ -299,7 +299,7 @@ ms.locfileid: "120018844"
 
 | Значение                             | Значение                      |
 |-----------------------------------|------------------------------|
-| RPC \_ S \_ OK                        | Success                      |
+| RPC \_ S \_ OK                        | Успешное завершение                      |
 | \_тип RPC \_ S \_ уже \_ зарегистрирован | UUID типа уже зарегистрирован |
 
 

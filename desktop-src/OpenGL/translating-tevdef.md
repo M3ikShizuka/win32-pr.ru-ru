@@ -15,12 +15,12 @@ keywords:
 - тевдеф
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7feef33c2aa725c6e5bb91782fe43fdc6a84d23db8aa412f02c07b6ec588f719
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dac2610d1467adb6faa1ea105fc8e8734bfb9c4d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119887884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348243"
 ---
 # <a name="translating-tevdef"></a>Преобразование тевдеф
 
