@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Доступ к квалификатору WMI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 45601de8e7b3f8ef7054742812c24f9a81dcedf5417f7b7ba501f2471adedc58
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6c88a5826255046bc0898dae43b9aa25ec5c7648
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118820622"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458036"
 ---
 # <a name="accessing-a-wmi-qualifier"></a>Доступ к квалификатору WMI
 
@@ -43,7 +43,7 @@ ms.locfileid: "118820622"
 
 Чтобы получить квалификаторы на экземпляре WMI в C#, сначала нужно получить объект, а затем изучить квалификаторы как коллекцию.
 
-**Извлечение квалификатора с помощью C# (Microsoft.SysTEM. MMC**
+**Извлечение квалификатора с помощью C# (Microsoft. System. Management)**
 
 1.  Получите класс, квалификаторы которого нужно просмотреть, создав объект CimInstance с использованием указанного имени класса и пространства имен.
 

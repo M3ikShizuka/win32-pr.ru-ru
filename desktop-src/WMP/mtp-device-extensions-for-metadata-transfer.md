@@ -18,12 +18,12 @@ keywords:
 - Расширения устройств MTP для обмена метаданными
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c56f633d7cd4ca44a90d311c1e4c1c2e6d213e1d2ad1a43b802e4795a59a7d47
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f64ff16fd97f135d7f8c902af823b967079408fb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119572444"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342814"
 ---
 # <a name="mtp-device-extensions-for-metadata-transfer"></a>Расширения устройств MTP для обмена метаданными
 

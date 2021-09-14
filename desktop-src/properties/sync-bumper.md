@@ -1,17 +1,17 @@
 ---
-description: Синхронизация
+description: Sync
 ms.assetid: c69e4deb-2e18-4637-88ca-6d72ae41f95f
-title: Синхронизация
+title: Sync
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 928b1e6832a4fe1d583083be7caee6aee6fadb5cce7c9195edc787d9d0d44fb4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6f4e66ac593282badb9c86770cdb5157ca86a329
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119095321"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460578"
 ---
-# <a name="sync"></a>Синхронизация
+# <a name="sync"></a>Sync
 
 ## <a name="in-this-section"></a>В этом разделе
 

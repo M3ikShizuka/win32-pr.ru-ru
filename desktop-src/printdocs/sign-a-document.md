@@ -4,12 +4,12 @@ ms.assetid: fbe64aed-6b07-49de-910c-18be68cb65a2
 title: Подписать документ
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ef544b2c34af19282d697676d22903948355d23e18e1c646df691c720052cc4f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6a4ad07323a26d21f9010c3fd54c708880b90173
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119033882"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268339"
 ---
 # <a name="sign-a-document"></a>Подписать документ
 

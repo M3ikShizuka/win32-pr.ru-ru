@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: d76208c74df5f939a7ff06ec3ac4b4da0f91f5c52db6ac2625e8cb6dce94a9ee
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c342ebb19f4e051d7650e905506a5bb32a9de890
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118460837"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460546"
 ---
 # <a name="cfolderitems-class"></a>Класс Кфолдеритемс
 

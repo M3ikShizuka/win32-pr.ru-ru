@@ -4,12 +4,12 @@ ms.assetid: 1F2B8275-9D4C-4732-9905-8ADE4CFD7496
 title: Атрибут MF_USER_DATA_PAYLOAD (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f05c962bc0e36cd80a40fbac04606b86d933f7ba0f9286955c28b3fb494307f2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c01355fd5ca58e174d843652e077fb363522ca8f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119604604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363877"
 ---
 # <a name="mf_user_data_payload-attribute"></a>\_ \_ Атрибут полезных данных пользователя MF \_
 
@@ -25,7 +25,7 @@ ms.locfileid: "119604604"
 
 Данные пользователя передаются без декодирования.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -37,7 +37,7 @@ ms.locfileid: "119604604"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

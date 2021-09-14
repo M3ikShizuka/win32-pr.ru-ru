@@ -4,18 +4,18 @@ ms.assetid: ADF27BFD-CC96-43F9-9EBB-DEBE0DEA7B92
 title: Реализация обработчиков наложения значков
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8745d0d5c0cf9c69f28f0235ecc82acb07a14f1e3408d7fa7d65cf729e01403f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e22c1057f65c50b31c6627846ec77103827a0283
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117859701"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460445"
 ---
 # <a name="how-to-implement-icon-overlay-handlers"></a>Реализация обработчиков наложения значков
 
 Обработчики наложения значков являются внутрипроцессного COM-объектами, реализованными в виде библиотек DLL. В дополнение к [**IUnknown**](/windows/win32/api/unknwn/nn-unknwn-iunknown): [**ишелликоноверлайидентифиер**](/windows/desktop/api/shobjidl_core/nn-shobjidl_core-ishelliconoverlayidentifier), они экспортируют один интерфейс. Этот интерфейс имеет три метода: [**ишелликоноверлайидентифиер:: жетоверлайинфо**](/windows/desktop/api/shobjidl_core/nf-shobjidl_core-ishelliconoverlayidentifier-getoverlayinfo), [**Ишелликоноверлайидентифиер:: предшествовал**](/windows/desktop/api/shobjidl_core/nf-shobjidl_core-ishelliconoverlayidentifier-getpriority)и [**ишелликоноверлайидентифиер:: IsMemberOf**](/windows/desktop/api/shobjidl_core/nf-shobjidl_core-ishelliconoverlayidentifier-ismemberof).
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="step-1-implementing-getoverlayinfo"></a>Шаг 1. Реализация Жетоверлайинфо
 

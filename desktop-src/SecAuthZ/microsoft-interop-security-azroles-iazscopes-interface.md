@@ -23,12 +23,12 @@ api_type:
 - COM
 api_location:
 - Microsoft.Interop.Security.Azroles.dll
-ms.openlocfilehash: 8c81db0964820a7c5034ec4cb5417a58396bdc9a361f1d3a403cfaf80abbf7d4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 44fffcd99c0e48c0b6cda19fd76ad7bbc12929ed
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118912552"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347938"
 ---
 # <a name="microsoftinteropsecurityazrolesiazscopes-interface"></a>Интерфейс Microsoft. Interop. Security. Азролес. Иазскопес
 
@@ -55,13 +55,13 @@ ms.locfileid: "118912552"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Интерфейс **Microsoft. Interop. Security. азролес. иазскопес** имеет следующие свойства.
 
 
 
-| Свойство                                                          | Тип доступа          | Описание                                                       |
+| Свойство.                                                          | Тип доступа          | Описание                                                       |
 |:------------------------------------------------------------------|:---------------------|:------------------------------------------------------------------|
 | **Microsoft. Interop. Security. Азролес. Иазскопес. Count**<br/> | Только для чтения<br/> | [**Свойство Count объекта Иазскопес**](/windows/desktop/api/Azroles/nf-azroles-iazscopes-get_count)<br/> |
 | **Microsoft. Interop. Security. Азролес. Иазскопес. Item**<br/>  | Только для чтения<br/> | [**Свойство Item объекта Иазскопес**](/windows/desktop/api/Azroles/nf-azroles-iazscopes-get_item)<br/>   |

@@ -15,12 +15,12 @@ keywords:
 - интерфейсы, Итаблепровидер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fb484245ee7c2f982ca6c5624ad108a0c75a4721ba7f6cbdf7a8af8ee2d91881
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9879d1589985df0257a1dd7805f474c013b93732
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118324142"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458248"
 ---
 # <a name="table-control-pattern"></a>Шаблон элемента управления Table
 
@@ -64,9 +64,9 @@ ms.locfileid: "118324142"
 
 | Обязательные члены                                                   | Тип члена | Примечания |
 |--------------------------------------------------------------------|-------------|-------|
-| [**роворколумнмажор**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itableprovider-get_roworcolumnmajor) | Свойство    | Нет  |
-| [**жетколумнхеадерс**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itableprovider-getcolumnheaders) | Метод      | Нет  |
-| [**жетровхеадерс**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itableprovider-getrowheaders)       | Метод      | Нет  |
+| [**роворколумнмажор**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itableprovider-get_roworcolumnmajor) | Свойство.    | None  |
+| [**жетколумнхеадерс**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itableprovider-getcolumnheaders) | Метод      | None  |
+| [**жетровхеадерс**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itableprovider-getrowheaders)       | Метод      | None  |
 
 
 
@@ -78,7 +78,7 @@ ms.locfileid: "118324142"
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Типы элементов управления и поддерживаемые ими шаблоны элементов управления](uiauto-controlpatternmapping.md)

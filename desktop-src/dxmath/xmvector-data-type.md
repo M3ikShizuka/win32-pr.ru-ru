@@ -4,12 +4,12 @@ ms.assetid: 1a044094-444d-e787-fa6a-76e88531aef1
 title: Тип данных КСМВЕКТОР (Директксмас. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f0a65c7da346163c3cbfaab7c68982f56eb6c424b7f74a3ec01c754eb4104a5e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c62cab01098cd95f904ac2e2ee33d420309e8e99
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120094484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342438"
 ---
 # <a name="xmvector-data-type"></a>Тип данных КСМВЕКТОР
 
@@ -35,7 +35,7 @@ ms.locfileid: "120094484"
 
 Файл заголовка Директксмас. h использует Псевдонимы для `XMVECTOR` объекта, в частности **Кксмвектор** и **фксмвектор**. Заголовок использует эти псевдонимы для обеспечения соответствия оптимальным соглашениям о встроенном вызове различных компиляторов. Для большинства проектов, использующих Директксмас, достаточно обрабатывать эти типы как точный псевдоним для `XMVECTOR` .
 
-Например:
+Пример:
 
 
 ```

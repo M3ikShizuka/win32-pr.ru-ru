@@ -15,12 +15,12 @@ api_type:
 api_location:
 - InkObj.dll
 - InkObj.dll.dll
-ms.openlocfilehash: f03b65a1ce009313b996fc7bede03f8c7425ff589fd29506c243f3161a851583
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5d29448e2f8ae98c4e15d6c3a51747257d20c62b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119938724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460241"
 ---
 # <a name="inkrenderer-class"></a>Класс Инкрендерер
 
@@ -61,10 +61,10 @@ ms.locfileid: "119938724"
 | [**инкспацетопикселфромпоинтс**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrenderer-inkspacetopixelfrompoints) | Преобразует массив точек в координатах рукописного пространства в пиксельное пространство.<br/>                                                                          |
 | [**Мера**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrenderer-measure)                                     | Вычисляет прямоугольник в контексте устройства, который будет содержать коллекцию штрихов, если они были выведены с помощью объекта **инкрендерер** .<br/> |
 | [**меасурестроке**](/windows/win32/api/msinkaut/nf-msinkaut-iinkrenderer-measurestroke)                         | Вычисляет прямоугольник в контексте устройства, который будет содержать штрих, если они были выведены с помощью объекта **инкрендерер** .<br/>                |
-| [**Переместить**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrenderer-move)                                           | Применяет перевод к преобразованию представления в координатах рукописного ввода.<br/>                                                                         |
+| [**Поместить**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrenderer-move)                                           | Применяет перевод к преобразованию представления в координатах рукописного ввода.<br/>                                                                         |
 | [**пикселтоинкспаце**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrenderer-pixeltoinkspace)                     | Преобразует положение в координатах пикселей в виде рукописного ввода.<br/>                                                                                  |
 | [**пикселтоинкспацефромпоинтс**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrenderer-pixeltoinkspacefrompoints) | Преобразует массив точек в координатах пиксельного пространства в область рукописного ввода.<br/>                                                                          |
-| [**Поворот**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrenderer-rotate)                                       | Применяет поворот к преобразованию представления.<br/>                                                                                                     |
+| [**Rotate**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrenderer-rotate)                                       | Применяет поворот к преобразованию представления.<br/>                                                                                                     |
 | [**ScaleTransform**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrenderer-scaletransform)                       | Масштабирует преобразование представления в измерении X и Y.<br/>                                                                                           |
 | [**сетобжекттрансформ**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrenderer-setobjecttransform)               | Задает преобразование объекта, используемое для отрисовки рукописного ввода.<br/>                                                                                         |
 | [**сетвиевтрансформ**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrenderer-setviewtransform)                   | Задает преобразование представления, используемое для визуализации рукописного ввода.<br/>                                                                                           |
@@ -79,7 +79,7 @@ ms.locfileid: "119938724"
 
 Для создания экземпляра этого объекта можно вызвать метод [**CoCreateInstance**](/windows/desktop/api/combaseapi/nf-combaseapi-cocreateinstance) в C++.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -92,7 +92,7 @@ ms.locfileid: "119938724"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

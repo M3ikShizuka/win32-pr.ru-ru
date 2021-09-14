@@ -4,12 +4,12 @@ ms.assetid: a966020c-a0bd-467c-b6d3-e09267cf5574
 title: Безопасность библиотечных приложений
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4f9fa2d03f21707af42fa108cb9c4ecbce6d2a352ea03714961a0eef4f028119
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1d2885173f3798d33ed26a5b447fde4429b9bf96
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118813523"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347619"
 ---
 # <a name="library-application-security"></a>Безопасность библиотечных приложений
 

@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: af01c5c7a1bbe16826457d7e1f8700df01876827c522a36db41f6c3843101d6d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7f690670606cd7ee307ba945fc2daabe92953e81
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118882339"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374821"
 ---
 # <a name="logfilesadd-method"></a>Файл журнала. Add, метод
 
@@ -53,9 +53,9 @@ LogFiles.Add( _
 
 Для создания файлов журналов, добавляемых в эту коллекцию, необходимо использовать средство Logman.exe или оснастку MMC Perfmon. msc. Для Perfmon. msc журналы счетчиков находятся в папке **журналы и оповещения производительности**. Дополнительные сведения об использовании Logman.exe или Perfmon. msc см. в подокне **центра справки и поддержки**, которое можно найти по программе Logman.
 
-**до Windows Vista:** Невозможно добавить файлы журнала в [**коллекцию файлов журнала**](systemmonitor-logfiles.md) , если для [**системмонитор. DataSourceType**](systemmonitor-datasourcetype.md) задано значение [**DataSourceTypeConstants.sysмонлогфилес**](/windows/desktop/api/ISysmon/ne-isysmon-datasourcetypeconstants). Сначала задайте **системмонитор. DataSourceType** для **DataSourceTypeConstants.sysмоннуллдатасаурце**, добавьте файлы журнала и счетчики, а затем установите **Системмонитор. DataSourceType** в **DataSourceTypeConstants.sysмонлогфилес**.
+**до Windows Vista:** Невозможно добавить файлы журнала в [**коллекцию файлов журнала**](systemmonitor-logfiles.md) , если для [**системмонитор. DataSourceType**](systemmonitor-datasourcetype.md) задано значение [**датасаурцетипеконстантс. сисмонлогфилес**](/windows/desktop/api/ISysmon/ne-isysmon-datasourcetypeconstants). Сначала установите **системмонитор. DataSourceType** в **датасаурцетипеконстантс. сисмоннуллдатасаурце**, добавьте файлы журнала и счетчики, а затем задайте **системмонитор. DataSourceType** в **датасаурцетипеконстантс. sysmonLogFiles**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -67,7 +67,7 @@ LogFiles.Add( _
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

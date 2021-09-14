@@ -25,15 +25,15 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 9c258cf0eae196d727f141b52434d1d3fc87d922
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105701757"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458117"
 ---
 # <a name="windows8idxinfo-class"></a>Класс Windows8IdxInfo
 
-Уровни сведений о столбцах, добавленные в версию ESENT для Windows 8.
+уровни сведений о столбцах, добавленные в Windows 8ную версию ESENT.
 
 ## <a name="inheritance-hierarchy"></a>Иерархия наследования
 

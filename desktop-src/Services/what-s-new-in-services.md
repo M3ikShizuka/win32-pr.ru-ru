@@ -1,19 +1,19 @@
 ---
-description: Windows 7 и Windows Server 2008 R2 включают в себя следующие новые и обновленные программные элементы для служб.
+description: Windows 7 и Windows Server 2008 R2 включают следующие новые и обновленные программные элементы для служб.
 ms.assetid: 4be7e244-ad4c-440d-b04e-23afb4c7ddf2
-title: Новые возможности служб для Windows 7
+title: новые возможности служб для Windows 7
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 51bd2e8bfa5426447e24485ed026f27e90fdcaa1
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105664459"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347882"
 ---
-# <a name="whats-new-in-services-for-windows-7"></a>Новые возможности служб для Windows 7
+# <a name="whats-new-in-services-for-windows-7"></a>новые возможности служб для Windows 7
 
-Windows 7 и Windows Server 2008 R2 включают в себя следующие новые и обновленные программные элементы для служб.
+Windows 7 и Windows Server 2008 R2 включают следующие новые и обновленные программные элементы для служб.
 
 ## <a name="new-capabilities"></a>Новые возможности
 

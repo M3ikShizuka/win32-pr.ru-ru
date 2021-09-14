@@ -5,11 +5,11 @@ title: Поиск секций во время активации
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 58e8912c8277d79c1a20300a1a880644801d0bcb
-ms.sourcegitcommit: bf526e267d3991892733bdd229c66d5365cf244a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "104557394"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347611"
 ---
 # <a name="locating-partitions-during-activation"></a>Поиск секций во время активации
 
@@ -69,7 +69,7 @@ HRESULT hr = CoGetObject(
 
 
 
-В Visual Basic коде синтаксис для моникера секции выглядит следующим образом:
+в Visual Basic коде синтаксис для моникера секции выглядит следующим образом:
 
 
 ```VB
@@ -78,7 +78,7 @@ GetObject("partition:partitionGUID/new:CLSID") As Object
 
 
 
-В следующем примере показан фрагмент кода Visual Basic, в котором моникер секции используется в качестве аргумента функции **GetObject** :
+в следующем примере показан фрагмент кода Visual Basic, в котором моникер секции используется в качестве аргумента функции **getobject** :
 
 
 ```VB
@@ -124,7 +124,7 @@ Set objCLSID1 = GetObject( _
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

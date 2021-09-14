@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 88661c40ea0824d643909f688a7d86251c434e0e3dcc88d8a3aec97dcb6b40c0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fc6c0eb4d5286081de9abe0c7c6d58092d111573
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118952733"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127375209"
 ---
 # <a name="idxtalphasetterput_alpharamp-method"></a>Идксталфасеттер::p UT \_ алфарамп метод
 

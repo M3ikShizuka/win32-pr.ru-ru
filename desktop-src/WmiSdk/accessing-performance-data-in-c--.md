@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Доступ к данным о производительности в C++
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8e566fb5803e598e42fac06d8f04fe3e71935008668e397a47d0226a96560eec
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b076e1ab15b934f347ee491711d7d3d1b8fbbe0f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118820331"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241480"
 ---
 # <a name="accessing-performance-data-in-c"></a>Доступ к данным о производительности в C++
 

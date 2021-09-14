@@ -4,12 +4,12 @@ ms.assetid: 9c9631b2-4c0e-44ee-9df7-5eefcc2c6b95
 title: System. photo. Ориентатионтекст
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fcda4cfd43e69c0abfca81ca31de14a24cc0b36edc57d225a451d092cea6770a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6ecdcb8e9ab8a2c4577fec8392a22081fc439f17
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117682490"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460627"
 ---
 # <a name="systemphotoorientationtext"></a>System. photo. Ориентатионтекст
 

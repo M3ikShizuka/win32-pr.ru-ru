@@ -29,11 +29,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: d301ef801a5685057a9e33beb794f3b6cf13e646
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103999543"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342410"
 ---
 # <a name="escrowupdategrbit-enumeration"></a>Перечисление Ескровупдатегрбит
 
@@ -59,7 +59,7 @@ Dim instance As EscrowUpdateGrbit
 public enum EscrowUpdateGrbit
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <table>
 <thead>
@@ -72,7 +72,7 @@ public enum EscrowUpdateGrbit
 <tbody>
 <tr class="odd">
 <td></td>
-<td>Нет</td>
+<td>None</td>
 <td>Параметры по умолчанию.</td>
 </tr>
 <tr class="even">

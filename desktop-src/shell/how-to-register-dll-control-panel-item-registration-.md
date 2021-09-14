@@ -3,12 +3,12 @@ description: Элементы панели управления, реализо�
 title: Регистрация элементов панели управления DLL
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b25fffb3b06f93640c5ca8623fb24ffb53c6fd3ecae0b9e23cabafacdceba8f3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 37b82225dcb40487c60210752b2c15af23f95bd1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119593194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460441"
 ---
 # <a name="how-to-register-dll-control-panel-items"></a>Регистрация элементов панели управления DLL
 
@@ -24,7 +24,7 @@ ms.locfileid: "119593194"
 
 В следующих двух примерах регистрируется элемент панели управления *микплапп* . Библиотека DLL называется MyCpl.cpl и находится в каталоге приложения *MyCorp \\ MyApp* . В первом примере демонстрируется регистрация на компьютере.
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="step-1"></a>Шаг 1.
 

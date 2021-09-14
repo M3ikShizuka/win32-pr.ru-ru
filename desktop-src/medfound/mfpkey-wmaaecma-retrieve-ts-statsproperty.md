@@ -4,12 +4,12 @@ ms.assetid: c44462be-ccdf-4a49-bb77-6e816def4849
 title: Свойство MFPKEY_WMAAECMA_RETRIEVE_TS_STATS (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c28f9812bb5f1324fcb1153b84f5a6704c7481c8356073fd02b8d95b57a8e497
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cb8e4efad8def035c7282e3ade8045bdbfd7e34d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119953504"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363788"
 ---
 # <a name="mfpkey_wmaaecma_retrieve_ts_stats-property"></a>МФПКЭЙ \_ вмааекма \_ Получение \_ \_ Свойства статистики TS
 
@@ -41,7 +41,7 @@ ms.locfileid: "119953504"
 
 Значение этого свойства по умолчанию — VARIANT \_ false. DSP использует это свойство только в том случае, если включена обработка AEC.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -53,7 +53,7 @@ ms.locfileid: "119953504"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

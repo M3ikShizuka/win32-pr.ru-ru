@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - mfidl.h
-ms.openlocfilehash: 885c3e9c34fa787a6877fd37eef81f470be395225594b90b2f5516a8e773eb88
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 604fee61ae4b6a34d876de8c2863ee6dddad73d0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118244142"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363880"
 ---
 # <a name="mf_video_processor_algorithm_type-enumeration"></a>\_ \_ \_ Перечисление типов алгоритмов ВИДЕОпроцессора MF \_
 
@@ -66,7 +66,7 @@ typedef enum _MF_VIDEO_PROCESSOR_ALGORITHM_TYPE {
 
 
 
-## <a name="see-also"></a>См. также статью
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

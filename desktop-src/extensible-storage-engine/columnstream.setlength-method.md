@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 5394341f097ad142398afa9ef40b848ee1ac5a33ecbe3d12bcf26b06e8022dfe
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fccf32d6494427811c3db8a2d2f4b71a2909a733
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119670014"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457985"
 ---
 # <a name="columnstreamsetlength-method"></a>Колумнстреам. SetLength, метод
 
@@ -60,12 +60,12 @@ public override void SetLength(
 
 #### <a name="parameters"></a>Параметры
 
-  - Значение  
+  - value  
     Тип: [System. Int64](/dotnet/api/system.int64)  
     
     Требуемая длина в байтах.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

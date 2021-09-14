@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: 165f1b8fa6adce4ffba079eff025ed1a3d8ce61e
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "104352862"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342271"
 ---
 # <a name="nrm---ps"></a>НРМ-PS
 
@@ -36,7 +36,7 @@ ms.locfileid: "104352862"
 -   DST — это регистр назначения.
 -   src является исходным регистром.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 
 
@@ -82,7 +82,7 @@ dest.w = src0.w*f;
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

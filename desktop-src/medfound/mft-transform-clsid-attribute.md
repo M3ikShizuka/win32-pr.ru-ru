@@ -4,12 +4,12 @@ ms.assetid: 99ee6f50-1de7-41ea-be5b-135730138d5d
 title: Атрибут MFT_TRANSFORM_CLSID_Attribute (Мфтрансформ. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c0122b783d8b321aa2a5c7788a589e19625b6a2bde8e37b0b659b0a1192f8c7a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4b5ca1aa6a9d7691200761509e1a5e407a6c7db6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118240202"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363741"
 ---
 # <a name="mft_transform_clsid_attribute-attribute"></a>\_ \_ Атрибут атрибута CLSID преобразования MFT \_
 
@@ -43,11 +43,11 @@ ms.locfileid: "118240202"
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | \[приложения UWP для классических приложений Windows 7 \|\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows \[Приложения UWP для настольных приложений Server 2008 R2 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Мфтрансформ. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфтрансформ. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также статью
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

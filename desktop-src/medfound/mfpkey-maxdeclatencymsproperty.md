@@ -4,12 +4,12 @@ ms.assetid: c4452c29-2d06-4c71-b960-26c805c29227
 title: Свойство MFPKEY_MAXDECLATENCYMS (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b1b5aa867df416c91b7fe747a0177d92d278ab02e191a542b7ee21fdf814e103
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2330278788736e7ca71538b583346f11c817a85f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118737884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268976"
 ---
 # <a name="mfpkey_maxdeclatencyms-property"></a>МФПКЭЙ \_ максдеклатенцимс, свойство
 
@@ -23,7 +23,7 @@ ms.locfileid: "118737884"
 
 **VT \_ UI4**
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -31,7 +31,7 @@ ms.locfileid: "118737884"
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                          |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                    |
-| Header<br/>                   | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
 
 
 

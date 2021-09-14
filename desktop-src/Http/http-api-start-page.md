@@ -7,12 +7,12 @@ keywords:
 - API сервера HTTP, начальная страница
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 47a73d23ffc8f498f4135e07f2b933eddf2896866336a70e11bd9bbf360cacdc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d8f99045b24d0ef79c267615791c62da50ed8e40
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118950843"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266296"
 ---
 # <a name="http-server-api"></a>API сервера HTTP
 

@@ -4,12 +4,12 @@ ms.assetid: 8ed6bfa8-5515-430d-8a50-ad9668dc3aea
 title: Свойство MFPKEY_STAT_RAVG (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d99b56dbd8ddc38fb69302698f103e96c513c2aaaf308f5069cd706b4ff5b411
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: acd8493cf55251b3ceb67d280ba57ead86f9363f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119713824"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363808"
 ---
 # <a name="mfpkey_stat_ravg-property"></a>МФПКЭЙ \_ stat \_ Равг, свойство
 

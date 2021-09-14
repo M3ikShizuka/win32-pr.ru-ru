@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 4b046111e3a7e22fcf9e380fae09bb2d2007a583e49c0507b8e214142505fe02
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 866ca7164fdaef5a93679da000779c51fb4ddb24
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118661706"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347115"
 ---
 # <a name="cautolock-class"></a>Класс Каутолокк
 
@@ -49,10 +49,10 @@ CCritSec csMyLock;  // Critical section is not locked yet.
 
 
 
-| Защищенные переменные членов                 | Описание:                                                      |
+| Защищенные переменные членов                 | Описание                                                      |
 |--------------------------------------------|------------------------------------------------------------------|
 | [**m \_ плокк**](cautolock-m-plock.md)      | Критическая секция для этой блокировки.                                  |
-| Открытые методы                             | Описание:                                                      |
+| Открытые методы                             | Описание                                                      |
 | [**каутолокк**](cautolock-cautolock.md)   | Метод конструктора. Блокирует указанный объект критической секции. |
 | [**~ Каутолокк**](cautolock--cautolock.md) | Метод деструктора. Разблокирует объект критической секции.          |
 
@@ -60,7 +60,7 @@ CCritSec csMyLock;  // Critical section is not locked yet.
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

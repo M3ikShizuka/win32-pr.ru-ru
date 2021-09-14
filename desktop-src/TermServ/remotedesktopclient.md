@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cad76c8c189854a28709765c5677d047590216ae8ab6271d44c595f7b24fdd88
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fb10b23f52f53e2d89fd5a81449818a8fe374116
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119865903"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374629"
 ---
 # <a name="remotedesktopclient-class"></a>Класс Ремотедесктопклиент
 
@@ -46,10 +46,10 @@ ms.locfileid: "119865903"
 | Метод                                                                                      | Описание                                                                                                                                                        |
 |:--------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**attachEvent**](/windows/win32/api/rdpappcontainerclient/nf-rdpappcontainerclient-iremotedesktopclient-attachevent)                                     | Присоединяет обработчик событий к событию.<br/>                                                                                                                  |
-| [**Подключение**](/windows/win32/api/rdpappcontainerclient/nf-rdpappcontainerclient-iremotedesktopclient-connect)                                             | Инициирует соединение с использованием свойств, заданных в данный момент в контейнере клиентского приложения протокол удаленного рабочего стола (RDP).<br/>                         |
+| [**Подключить**](/windows/win32/api/rdpappcontainerclient/nf-rdpappcontainerclient-iremotedesktopclient-connect)                                             | Инициирует соединение с использованием свойств, заданных в данный момент в контейнере клиентского приложения протокол удаленного рабочего стола (RDP).<br/>                         |
 | [**делетесаведкредентиалс**](/windows/win32/api/rdpappcontainerclient/nf-rdpappcontainerclient-iremotedesktopclient-deletesavedcredentials)               | Удаляет сохраненные учетные данные для указанного удаленного компьютера.<br/>                                                                                            |
 | [**детачевент**](/windows/win32/api/rdpappcontainerclient/nf-rdpappcontainerclient-iremotedesktopclient-detachevent)                                     | Отсоединяет обработчик событий от события.<br/>                                                                                                                |
-| [**Отключение**](/windows/win32/api/rdpappcontainerclient/nf-rdpappcontainerclient-iremotedesktopclient-disconnect)                                       | Отключает активное подключение.<br/>                                                                                                                      |
+| [**Отключить**](/windows/win32/api/rdpappcontainerclient/nf-rdpappcontainerclient-iremotedesktopclient-disconnect)                                       | Отключает активное подключение.<br/>                                                                                                                      |
 | [**онадминмессажерецеивед**](iremotedesktopclientevents-onadminmessagereceived.md)         | Вызывается, когда клиентский элемент управления получает административное сообщение.<br/>                                                                                      |
 | [**онаутореконнектед**](iremotedesktopclientevents-onautoreconnected.md)                   | Вызывается при автоматическом повторном подключении клиентского элемента управления к удаленному сеансу.<br/>                                                                       |
 | [**онаутореконнектинг**](iremotedesktopclientevents-onautoreconnecting.md)                 | Вызывается, когда клиентский элемент управления пытается автоматически восстановить соединение с удаленным сеансом.<br/>                                                  |
@@ -71,13 +71,13 @@ ms.locfileid: "119865903"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **ремотедесктопклиент** имеет следующие свойства.
 
 
 
-| Свойство                                                             | Тип доступа          | Описание                                                                                                                                                            |
+| Свойство.                                                             | Тип доступа          | Описание                                                                                                                                                            |
 |:---------------------------------------------------------------------|:---------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**Действия**](/windows/win32/api/rdpappcontainerclient/nf-rdpappcontainerclient-iremotedesktopclient-get_actions)<br/>           | Только для чтения<br/> | Извлекает объект действий для клиента контейнера приложения протокол удаленного рабочего стола (RDP).<br/>                                                                    |
 | [**Параметры**](iremotedesktopclient-settings.md)<br/>         | Только для чтения<br/> | Извлекает объект параметров для клиента контейнера приложения протокол удаленного рабочего стола (RDP).<br/>                                                                   |
@@ -87,21 +87,21 @@ ms.locfileid: "119865903"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8<br/>                                                                     |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                           |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                           |
 | Библиотека типов<br/>             | <dl> <dt>MsTscAx.dll</dt> </dl>   |
 | DLL<br/>                      | <dl> <dt>MsTscAx.dll</dt> </dl>   |
 | CLSID<br/>                    | \_РЕМОТЕДЕСКТОПКЛИЕНТ CLSID определен как EAB16C5D-EED1-4E95-868B-0FBA1B42C092<br/> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

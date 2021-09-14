@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Shell32.dll
-ms.openlocfilehash: a30c29e30ca3cfb63cd2080476d84e21bee7495c8e2f7fa99efadfaeeb8038d2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0703b9403dfe9ff6600de68aaa710cd5a55c225a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118050026"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363096"
 ---
 # <a name="folderitemverbdoit-method"></a>Фолдеритемверб. доит, метод
 

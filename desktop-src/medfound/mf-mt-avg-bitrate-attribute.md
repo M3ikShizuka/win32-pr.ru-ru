@@ -4,12 +4,12 @@ ms.assetid: cf9374a7-3688-4a6c-8339-d68c267c9bed
 title: Атрибут MF_MT_AVG_BITRATE (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b88ae74eafa9542e42a6def6f25c8bb0fbf3675c320b3e0760c17a40388885ce
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 0e4497c58abf8587e72dea47d4f8ac222a1b0692
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119664274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127364057"
 ---
 # <a name="mf_mt_avg_bitrate-attribute"></a>\_Атрибут с \_ средним скоростью MF MT \_
 
@@ -25,7 +25,7 @@ ms.locfileid: "119664274"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -37,7 +37,7 @@ ms.locfileid: "119664274"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -5,16 +5,16 @@ ms.tgt_platform: multiple
 title: Построение объектов с параметрами
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0bc13a51687954331a050337fe785bab29b23ee9c72785ffde78d4f8a8e0d198
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fbf9a351caec1ca7af3113bead4078670c88a5f3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119131586"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458148"
 ---
 # <a name="constructing-inparameters-objects"></a>Построение объектов с параметрами
 
-Объект [**параметров**](swbemmethod-inparameters.md) содержит список параметров для вызова методов поставщика при использовании типа вызова **ExecMethod** . Для [**всех методов \_SWbemObject.Exeкмесод**](swbemobject-execmethod-.md), [**SWbemObject.Exeкмесодасинк \_**](swbemobject-execmethodasync-.md), [**SWbemServices.Exeкмесод**](swbemservices-execmethod.md)и [**SWbemServices.Exeкмесодасинк**](swbemservices-execmethodasync.md) требуется объект с **параметрами** .
+Объект [**параметров**](swbemmethod-inparameters.md) содержит список параметров для вызова методов поставщика при использовании типа вызова **ExecMethod** . Для всех методов [**SWbemObject \_ . ExecMethod**](swbemobject-execmethod-.md), [**SWbemObject \_ . ексекмесодасинк**](swbemobject-execmethodasync-.md), [**SwbemServices. ExecMethod**](swbemservices-execmethod.md)и [**SwbemServices. ексекмесодасинк**](swbemservices-execmethodasync.md) требуется объект с **параметрами** .
 
 Следующая процедура описывает, как создать объект с [**параметрами**](swbemmethod-inparameters.md) .
 

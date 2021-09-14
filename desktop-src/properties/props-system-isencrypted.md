@@ -4,12 +4,12 @@ ms.assetid: fd93f915-6af3-4bde-982e-6774a1ca83af
 title: System. с шифрованием
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 30d78250ac4b190e4a20d1fcbb9d59d9d65f24bd7aa58b00fe7beea0b990a930
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d05f6f1d31838f885820938e9be38ef161c168ff
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118232117"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363460"
 ---
 # <a name="systemisencrypted"></a>System. с шифрованием
 

@@ -14,12 +14,12 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 4ae3abf23b19badb123f8eb49097c6b3e9d7ac6d26fc0132f34b84de5ac24c01
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f3bfb9f6c833900967525467202421cf94166405
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118086958"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241324"
 ---
 # <a name="baseeapparameters-complex-type---connection-properties"></a>Сложный тип Басиаппараметерс — свойства соединения
 
@@ -55,7 +55,7 @@ ms.locfileid: "118086958"
 
 В **басиаппараметерс** метод может определять составные элементы. Метод также выполняет проверку схемы для элементов в **басиаппараметерс**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -66,7 +66,7 @@ ms.locfileid: "118086958"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

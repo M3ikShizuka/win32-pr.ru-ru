@@ -4,12 +4,12 @@ ms.assetid: 931fc69a-1f7a-492c-8158-0691cd2fe57a
 title: Значения диапазона Юникода для жестов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b1f96c1f59ea9e53d63999c01db73c45080f205bccf043e26463563b0f1f6af3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6b66b9b4ee511e9eeadd79e0dff2675391ceee6d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118449227"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346262"
 ---
 # <a name="unicode-range-values-of-gestures"></a>Значения диапазона Юникода для жестов
 

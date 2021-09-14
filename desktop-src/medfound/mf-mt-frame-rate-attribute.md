@@ -4,12 +4,12 @@ ms.assetid: 8336559c-06f1-478e-b921-e9eae7425230
 title: Атрибут MF_MT_FRAME_RATE (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7bb49da7667286c17bfa500a8a90a9f7083e786483120e40ba2d635710668a4d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e8df2ef4268bd643d9f65eb16c3f7257bcaceb1d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120113814"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127364013"
 ---
 # <a name="mf_mt_frame_rate-attribute"></a>\_ \_ Атрибут частоты кадров MF MT \_
 
@@ -73,7 +73,7 @@ inline HRESULT GetFrameRate(
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -85,7 +85,7 @@ inline HRESULT GetFrameRate(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

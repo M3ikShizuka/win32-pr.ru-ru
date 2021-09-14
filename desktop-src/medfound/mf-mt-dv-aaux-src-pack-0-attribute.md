@@ -4,12 +4,12 @@ ms.assetid: a37d9371-0d9f-44a8-b8b3-9fbfcfad1a51
 title: Атрибут MF_MT_DV_AAUX_SRC_PACK_0 (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 34161ac9c5fbc21249fc15c4f97de6390e62581666b28001acc2fd621f5377e3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 19f37f7f6110f6a04f025864e95488782b855128
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119035222"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127364033"
 ---
 # <a name="mf_mt_dv_aaux_src_pack_0-attribute"></a>% \_ MF \_ DV \_ ааукс \_ src \_ , \_ атрибут Pack 0
 
@@ -25,7 +25,7 @@ ms.locfileid: "119035222"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -37,7 +37,7 @@ ms.locfileid: "119035222"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

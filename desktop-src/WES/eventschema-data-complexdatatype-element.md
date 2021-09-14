@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 8425b4ec69fc596e510554c589c58247837476389d1b7dbb9ab39de2dfbc7ff8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 34481c7cc784a20cb59a146c5f23cf21d8c51b3e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120124244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242605"
 ---
 # <a name="data-complexdatatype-element"></a>Элемент Data (Комплексдататипе)
 
@@ -43,7 +43,7 @@ ms.locfileid: "120124244"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

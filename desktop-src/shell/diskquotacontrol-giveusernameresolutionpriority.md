@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Shell32.dll
-ms.openlocfilehash: eb5dc2939ea0fbc2c8037dc22c5b690e93a5727ecad6b2249e99e4c337340710
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1acf50e0cec59a7ee14fbd9d7760fb68b27c4de5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119943104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363165"
 ---
 # <a name="diskquotacontrolgiveusernameresolutionpriority-method"></a>Дисккуотаконтрол. Гивеусернамересолутионприорити, метод
 
@@ -58,7 +58,7 @@ DiskQuotaControl.GiveUserNameResolutionPriority(
 
 Чтобы включить асинхронное разрешение имен, используйте свойство [**усернамересолутион**](diskquotacontrol-usernameresolution.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -71,7 +71,7 @@ DiskQuotaControl.GiveUserNameResolutionPriority(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

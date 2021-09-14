@@ -4,12 +4,12 @@ ms.assetid: 8bb64686-8f02-4e0d-a664-aeee1744fc8e
 title: Свойство MFPKEY_WMAAECMA_FEATR_NOISE_FILL (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ec3f2f6780157da97263bd6e68ac5f38c9448a5633fafe6481b082ed033331dc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ea0c0af2b47767a7798d9b583ac55ad5112ddf1f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119035122"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363789"
 ---
 # <a name="mfpkey_wmaaecma_featr_noise_fill-property"></a>МФПКЭЙ \_ вмааекма \_ Феатр \_ , \_ свойство заливки шума
 
@@ -52,7 +52,7 @@ ms.locfileid: "119035122"
 
 DSP использует это свойство только в том случае, если включена обработка AEC.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -64,7 +64,7 @@ DSP использует это свойство только в том случ
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

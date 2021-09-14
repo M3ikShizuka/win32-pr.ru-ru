@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3ff4c45449c8de2062aa53ce9bda89c8d634dd30bc1ac8c03f091e8b97e9ce60
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 83d371818e8166b536543246eeecf0090509e62b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118572807"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342362"
 ---
 # <a name="playerplaylistchange-event"></a>Событие Player. Плайлистчанже
 
@@ -63,7 +63,7 @@ Player.PlaylistChange(
 | 1      | Clear         |
 | 2      | инфочанже    |
 | 3      | Переместить          |
-| 4      | DELETE        |
+| 4      | Удалить        |
 | 5      | Вставить        |
 | 6      | Добавление        |
 | 7      | Не поддерживается |

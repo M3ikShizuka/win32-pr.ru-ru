@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 70fd983e9a5921d96ba487f7eb8d6f631b000019e8ff566eb1ecc79e05ce4fb8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 1c20370e0fa8bcf746d1b835ee45725f76158fb2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120081674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348422"
 ---
 # <a name="glcullface-function"></a>Функция Глкуллфаце
 
@@ -78,7 +78,7 @@ void WINAPI glCullFace(
 
 [**глисенаблед**](glisenabled.md) с аргументом " \_ отбор, \_ лицо"
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -92,7 +92,7 @@ void WINAPI glCullFace(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 6fc350fa-9597-484a-bd6d-7a343ba58eca
 title: System. фото. Event
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 28bbe096a59beb96e8b0c3e93ec977ca5d35a2ec760be456b248496b3c91267e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 040ae10d9ff3bc445d81fdb6463ad183a65aba19
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118723899"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460661"
 ---
 # <a name="systemphotoevent"></a>System. фото. Event
 

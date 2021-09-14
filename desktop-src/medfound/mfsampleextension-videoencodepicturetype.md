@@ -4,12 +4,12 @@ ms.assetid: 18A47033-3EAC-46C3-94AB-6ED20732F63C
 title: Атрибут MFSampleExtension_VideoEncodePictureType (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3be87284be3b605e3af70d64df98e5d762aa7cc353bb83b5f61a110d1242ae1d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5bfe0df0e4f3163e7c8c0581c5c7c2a854555eec
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118973173"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363761"
 ---
 # <a name="mfsampleextension_videoencodepicturetype-attribute"></a>Мфсампликстенсион \_ видеоенкодепиктуретипе, атрибут
 

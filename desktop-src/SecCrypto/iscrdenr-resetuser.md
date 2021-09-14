@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Scrdenrl.dll
-ms.openlocfilehash: 873872b17684aac3874b82f0570dfac93988356743055088c1916ef3cb41f4a8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e3b00721229890f82b00e7e7a41ccb8796a81b98
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119867904"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374896"
 ---
 # <a name="iscrdenrresetuser-method"></a>Метод Искрденр:: Ресетусер
 
@@ -42,7 +42,7 @@ HRESULT resetUser();
 
 Этот метод очищает все существующие имя пользователя и ранее зарегистрированный сертификат из памяти. Однако ранее зарегистрированный сертификат не удаляется со смарт-карты.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ HRESULT resetUser();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

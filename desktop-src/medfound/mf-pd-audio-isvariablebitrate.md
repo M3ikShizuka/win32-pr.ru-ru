@@ -4,12 +4,12 @@ ms.assetid: 2bd7eee1-5a93-4bde-8b58-80b6395a094e
 title: Атрибут MF_PD_AUDIO_ISVARIABLEBITRATE (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fb5c8c15c12bcd867342fb11f5e753c196f9954aea0393b2a461e1804f411339
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4a34d3dd64f9100050dc9aae37e811d00c9d58af
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119664194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363925"
 ---
 # <a name="mf_pd_audio_isvariablebitrate-attribute"></a>\_ \_ Атрибут аудиоподсистемы MF PD Audio \_ исвариаблебитрате
 
@@ -35,7 +35,7 @@ ms.locfileid: "119664194"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -47,7 +47,7 @@ ms.locfileid: "119664194"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

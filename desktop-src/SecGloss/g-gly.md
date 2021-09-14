@@ -6,11 +6,11 @@ title: G (глоссарий по безопасности)
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 07cf3c047f6bfb1192c4049a408d98e3197bd743
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103911256"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347899"
 ---
 # <a name="g-security-glossary"></a>G (глоссарий по безопасности)
 
@@ -35,7 +35,7 @@ ms.locfileid: "103911256"
 <span id="_security_graphics_device_interface_gly"></span><span id="_SECURITY_GRAPHICS_DEVICE_INTERFACE_GLY"></span>**интерфейс графических устройств**
 </dt> <dd>
 
-Исполняемая программа, обрабатывающая графические вызовы функций из приложения на основе Windows и передающая эти вызовы соответствующему драйверу устройства, который выполняет функции конкретного оборудования, которые формируют выходные данные.
+исполняемая программа, обрабатывающая графические вызовы функций из приложения на основе Windows и передающая эти вызовы соответствующему драйверу устройства, который выполняет функции конкретного оборудования, генерирующие выходные данные.
 
 </dd> </dl>
 

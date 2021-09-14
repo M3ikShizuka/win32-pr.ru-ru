@@ -22,12 +22,12 @@ keywords:
 - Перелистывание URL-адресов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a4471045506447b93621578f27e2f156bb214016b3fa8ec114a689b919314d10
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 141fdd6b4a7ffc57288a08ffa2f6760cfb029847
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119134527"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458044"
 ---
 # <a name="url-flipping"></a>Перелистывание URL-адресов
 
@@ -50,7 +50,7 @@ ms.locfileid: "119134527"
 
 
 
-Затем создайте файл player.html, указанный в наборе фреймов, с помощью следующего кода (предполагается, что файл Video. wmv находится в том же каталоге, что и файлы HTML):
+Затем создайте файл player.html, на который ссылается набор фреймов, с помощью следующего кода (предполагается, что файл Video. wmv существует в том же каталоге, что и файлы HTML):
 
 
 ```HTML

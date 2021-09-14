@@ -4,12 +4,12 @@ description: Поиск систем узлов сервера с помощью
 ms.assetid: 4aadda88-2109-481f-aa4b-b1983d81dec5
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 180e2e43c0350f55defb74762d6ab1b6b656dafbc1468bcc7f077ed9780a2e98
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d2357fcafa35d4f64cfb4f6841c0b56e1e94b7aa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118929993"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348142"
 ---
 # <a name="finding-server-host-systems"></a>Поиск систем узлов сервера
 

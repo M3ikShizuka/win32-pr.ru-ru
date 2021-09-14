@@ -9,12 +9,12 @@ keywords:
 - Ползунки в обложках, о
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1eb311994ccdfb48eb1ea9e010b268cdef13fd1fc8a2154d491f6e4103a91ec3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cb7b64f7bada6f927b25aeecb71d584aa1ec2a68
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119762674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458076"
 ---
 # <a name="trackbars"></a>Линейки воспроизведения
 

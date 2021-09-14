@@ -8,12 +8,12 @@ ms.topic: article
 ms.date: 12/06/2019
 manager: dcscontentpm
 ms.custom: CSSTroubleshooting
-ms.openlocfilehash: 56cc7035f2e5a152ad90205257fb86ddaef8bf565f8459cb5067874280946db9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6ef1aba7d1cb018bb3fa4f32d868828ef2ac4d1b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118968043"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460279"
 ---
 # <a name="restore-points"></a>Точки восстановления
 
@@ -62,7 +62,7 @@ ms.locfileid: "118968043"
 
 в этом случае Windows восстанавливает файлы каталога и помещает файлы драйверов (.sys), которые будут восстановлены при перезагрузке компьютера. однако после перезагрузки компьютера Windows загружает существующие драйверы перед восстановлением более поздних версий драйверов. Так как версии драйверов не соответствуют версиям восстановленных файлов каталога, процесс перезапуска останавливается.
 
-### <a name="workaround"></a>Возможное решение
+### <a name="workaround"></a>Обходной путь
 
 **Восстановление после сбоя перезагрузки и продолжение процесса восстановления**
 

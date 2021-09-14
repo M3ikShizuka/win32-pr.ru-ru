@@ -4,12 +4,12 @@ ms.assetid: 905fbba5-0a04-4048-80bd-f8707c4879da
 title: Пример Вавсаурце
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ffba8ab5bfd5ae1ccfb4df4c90b447c412e9e835a403d496834224f012f8bad7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 050edb9df75032384f93c6e1f37c52e89f14a748
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118972543"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363612"
 ---
 # <a name="wavsource-sample"></a>Пример Вавсаурце
 

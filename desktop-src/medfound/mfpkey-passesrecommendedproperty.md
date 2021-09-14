@@ -4,12 +4,12 @@ ms.assetid: 7e21cd0f-f13f-4321-b246-f1adaa5c6094
 title: Свойство MFPKEY_PASSESRECOMMENDED (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: af869c6acca584547083b3de245913a35680306b47feabaf2a602a3c1c15e87e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 433e0a0d254c09965976e5659bacfacf3be06643
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119826364"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268848"
 ---
 # <a name="mfpkey_passesrecommended-property"></a>МФПКЭЙ \_ пассесрекоммендед, свойство
 
@@ -27,7 +27,7 @@ VT \_ I4
 
 Можно получить значение этого свойства, вызвав [ивмкодекпропс:: жеткодекпроп](/windows/desktop/api/wmcodecdsp/nf-wmcodecdsp-iwmcodecprops-getcodecprop). При использовании **ипропертибаг** необходимо сначала задать значение FOURCC нужного сжатого формата с помощью свойства [мфпкэй \_ FourCC](mfpkey-fourccproperty.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -39,7 +39,7 @@ VT \_ I4
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

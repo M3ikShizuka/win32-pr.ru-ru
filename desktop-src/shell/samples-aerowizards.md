@@ -9,12 +9,12 @@ api_type: ''
 api_location: ''
 topic_type:
 - kbArticle
-ms.openlocfilehash: 831dae379d1e37cb59f63517ef178bb888ffe5794abce4bc948b89cf78d0abb5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 62c50ac6a8f053039e819e8aacfcbb2c8ef4d47d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117677922"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460371"
 ---
 # <a name="aero-wizards-sample"></a>Пример: мастеры Aero
 
@@ -22,7 +22,7 @@ ms.locfileid: "117677922"
 
 В этом разделе содержатся следующие подразделы.
 
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Загрузка образца](#downloading-the-sample)
 -   [Создание примера](#building-the-sample)
 -   [Запуск примера](#running-the-sample)

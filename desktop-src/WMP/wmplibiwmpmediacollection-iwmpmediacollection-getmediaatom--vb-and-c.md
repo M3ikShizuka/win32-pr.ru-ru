@@ -3,9 +3,9 @@ title: Ивмпмедиаколлектион Жетмедиаатом, мето
 description: Метод Жетмедиаатом возвращает индекс указанного атрибута в наборе доступных атрибутов.
 ms.assetid: 01e3d073-677b-4939-96d3-63ae96eaa25d
 keywords:
-- Жетмедиаатом метод Windows Media Player
-- Жетмедиаатом метод проигрывателя Windows Media Player, интерфейс Ивмпмедиаколлектион
-- Интерфейс Ивмпмедиаколлектион Windows Media Player, метод Жетмедиаатом
+- проигрыватель Windows Media метода жетмедиаатом
+- проигрыватель Windows Media метода жетмедиаатом, интерфейс ивмпмедиаколлектион
+- проигрыватель Windows Media интерфейса ивмпмедиаколлектион, метод жетмедиаатом
 topic_type:
 - apiref
 api_name:
@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 08487cf60c351ff4f8e0741209655cb78c30c3f4
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105699199"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342775"
 ---
 # <a name="iwmpmediacollectiongetmediaatom-method"></a>Метод Ивмпмедиаколлектион:: Жетмедиаатом
 
@@ -64,7 +64,7 @@ Implements IWMPMediaCollection.getMediaAtom
 
 Значение **System. Int32** , которое является индексом.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Номер индекса, полученный с помощью этого метода, может быть передан в **ивмпмедиа. жетитеминфобятом** для доступа к значениям атрибута. Эта методика обычно более эффективна при работе с большими списками воспроизведения, чем доступ к значению атрибута по имени с помощью **ивмпмедиа. getItemInfo**.
 
@@ -76,7 +76,7 @@ Implements IWMPMediaCollection.getMediaAtom
 
 | Требование | Значение |
 |----------------------|------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/>   | Проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                      |
+| Версия<br/>   | проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                      |
 | Пространство имен<br/> | **вмплиб**<br/>                                                                                                  |
 | Сборка<br/>  | <dl> <dt>Interop.WMPLib.dll (Interop.WMPLib.dll.dll)</dt> </dl> |
 

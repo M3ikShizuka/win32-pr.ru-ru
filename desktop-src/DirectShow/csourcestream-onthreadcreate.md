@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 6e263f0ae72838504ab6d219c71d7841291a3edd2a7d6b719d112c74fb30c23b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a5ae3c210ca81eafa1951fc51301eaf50491357f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119907714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346954"
 ---
 # <a name="csourcestreamonthreadcreate-method"></a>Ксаурцестреам. Онсреадкреате, метод
 
@@ -48,7 +48,7 @@ virtual HRESULT OnThreadCreate();
 
 Процедура потока, [**ксаурцестреам:: среадпрок**](csourcestream-threadproc.md), вызывает этот метод при первом получении запроса [**Ксаурцестреам:: init**](csourcestream-init.md) . Метод не выполняет никаких действий в базовом классе. Производный класс может переопределить этот метод для выполнения инициализации потока. Если производный класс возвращает код ошибки, то поток завершается с ошибкой.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ virtual HRESULT OnThreadCreate();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

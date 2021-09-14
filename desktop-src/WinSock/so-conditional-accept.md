@@ -4,12 +4,12 @@ ms.assetid: 964683eb-5dfc-4441-abb7-315be8b89a19
 title: Параметр SO_CONDITIONAL_ACCEPT Socket (Ws2def. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8c1c9105e82bf70be4c62df09eaea5e132a5e540e7e57721dd649dd156cc7af0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: badfdd1f8aac49ae05fa6b77dadb2561ba5ea02f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118111244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342475"
 ---
 # <a name="so_conditional_accept-socket-option"></a>Поэтому \_ Условный \_ вариант принятия сокета
 
@@ -127,7 +127,7 @@ int setsockopt(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

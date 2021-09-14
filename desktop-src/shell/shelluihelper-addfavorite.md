@@ -14,11 +14,11 @@ api_location:
 - Shell32.dll
 ms.assetid: b30e776e-642c-4599-b83f-ef15bc0b23d2
 ms.openlocfilehash: 2ce6fa0a71bb2ab995e510f06b4403c78bebcc60
-ms.sourcegitcommit: 3caaa3c92dcb1ef12f84464d14ce6262e65e988e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109842455"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346311"
 ---
 # <a name="shelluihelperaddfavorite-method"></a>Шеллуихелпер. Аддфаворите, метод
 
@@ -60,9 +60,9 @@ iRetVal = ShellUIHelper.AddFavorite(
 
 ## <a name="examples"></a>Примеры
 
-В следующем примере показано правильное использование этого метода для JScript Embedded в HTML и Visual Basic.
+в следующем примере показано правильное использование этого метода для JScript, внедренного в HTML и Visual Basic.
 
-Присутствовал
+JScript:
 
 
 ```JScript
@@ -107,13 +107,13 @@ End Sub
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ классических приложений Windows XP\]<br/>                                         |
+| Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ настольных приложений Windows XP\]<br/>                                         |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                           |
 | Заголовок<br/>                   | <dl> <dt>Ексдисп. h</dt> </dl>                            |
 | DLL<br/>                      | <dl> <dt>Shell32.dll (версия 4,71 или более поздняя)</dt> </dl> |

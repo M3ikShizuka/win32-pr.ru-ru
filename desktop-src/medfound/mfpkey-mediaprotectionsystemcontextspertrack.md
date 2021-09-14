@@ -4,12 +4,12 @@ ms.assetid: 76911293-CEB3-4D0E-A021-70A2D1303ED1
 title: Свойство MFPKEY_MediaProtectionSystemContextsPerTrack (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 578f9a3e18f420eec01db8ac8ad3ce6df4a74029217b13e54a3ed1ab00263913
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: af5df5d233281a3fc437eed85cddc82297409a9a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119953924"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268936"
 ---
 # <a name="mfpkey_mediaprotectionsystemcontextspertrack-property"></a>МФПКЭЙ \_ медиапротектионсистемконтекстспертракк, свойство
 
@@ -33,7 +33,7 @@ VT \_ Unknown, указывающий на IMap<HString, IInspectable\*>
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -45,7 +45,7 @@ VT \_ Unknown, указывающий на IMap<HString, IInspectable\*>
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

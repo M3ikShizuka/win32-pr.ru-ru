@@ -12,12 +12,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f0354710d5857d8250419fe9c8f0f4b0154051f62dc31b1e2649ce800350c8a8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6452305342fcebf802183c5de2d1992aa0bfbcde
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119768704"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242113"
 ---
 # <a name="ui_animation_repeat_indefinitely_conclude_at_end"></a>Анимация пользовательского интерфейса \_ \_ повторяется \_ \_ \_ на \_ завершающем этапе
 
