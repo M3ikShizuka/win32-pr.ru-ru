@@ -4,12 +4,12 @@ ms.assetid: 4726b39b-cd10-4630-8f38-8671db4f432b
 title: 'Метод Итмедиа:: Сетпортинфо (Сдпблб. h)'
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0db052c631fee1427b4d31c9149a2ef68f8819d8cacb24b632dc9b2f61d198c3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c605c1768316871f6c3c9ec10f991f21c1643794
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119140317"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145998"
 ---
 # <a name="itmediasetportinfo-method"></a>Метод Итмедиа:: Сетпортинфо
 

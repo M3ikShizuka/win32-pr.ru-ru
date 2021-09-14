@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6b51c621f5a484c23a2f7d0677fe20d1b62bfb4d2ec94228e003adc2ebc841cf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4107eb1ad302415715b573b55d2dee1d7155128d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119760774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264656"
 ---
 # <a name="iwmpplaylistattributecount-property"></a>Свойство Ивмпплайлист:: Аттрибутекаунт
 

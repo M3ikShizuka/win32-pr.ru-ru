@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 826ec98e291c5394a587441c264f0dc690daad76b988c86d765c8b6ca6163947
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 00f05d7fbd1883aa38ba972eba1eb14767349357
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120100374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066912"
 ---
 # <a name="emailactioncc-property"></a>EmailAction.Cc, свойство
 
@@ -44,7 +44,7 @@ EmailAction.Cc As String
 
 Адрес электронной почты или адреса, которые вы хотите отправить в сообщении электронной почты.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ EmailAction.Cc As String
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -20,12 +20,12 @@ api_type:
 - DllExport
 api_location:
 - WmiProv.dll
-ms.openlocfilehash: 958eb9134062d5380a2afda77eeaad3034a2da7430d2f6a3094916ceae211e4f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e457757a3542bbfc8ded7536396458ef3e592714
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117926786"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066553"
 ---
 # <a name="wmimonitorbasicdisplayparams-class"></a>Класс Вмимониторбасикдисплайпарамс
 
@@ -46,7 +46,7 @@ class WmiMonitorBasicDisplayParams : MSMonitorClass
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **вмимониторбасикдисплайпарамс** имеет следующие типы членов:
 

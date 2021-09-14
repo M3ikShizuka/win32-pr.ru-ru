@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cf1aad39115e1bdb68208a9ccbb0d83eea934ef2ff8c6521a0602e081c7ed811
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a407fc6cad7077586539f119dd65be59a507cacd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119636244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145654"
 ---
 # <a name="wm_dde_ack-message"></a>\_Сообщение WM DDE \_ ACK
 
@@ -146,7 +146,7 @@ ms.locfileid: "119636244"
 [**WM \_ DDE \_ unadvise**](wm-dde-unadvise.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Сведения о платформа динамических данных Exchange](about-dynamic-data-exchange.md)

@@ -20,12 +20,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: a08fae12ee7928f40df4ea6244e2666af3f629d21ad35a1bb21314eeec664767
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ab4ea5df734b626e54a70bc690301e755013ae59
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119617124"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145442"
 ---
 # <a name="jet_handleequals-method-jet_handle"></a>JET_HANDLE. Метод Equals (JET_HANDLE)
 
@@ -57,7 +57,7 @@ public bool Equals(
 
 #### <a name="parameters"></a>Параметры
 
-  - др.  
+  - иное  
     Тип: [Microsoft.ISAM.ESENT.Interop.JET_HANDLE](./jet-handle-structure.md)  
     
     Экземпляр, сравниваемый с этим экземпляром.
@@ -71,7 +71,7 @@ public bool Equals(
 
 [IEquatable \<T\> . Equals (T)](/dotnet/api/system.iequatable-1.equals#System_IEquatable_1_Equals__0_)  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

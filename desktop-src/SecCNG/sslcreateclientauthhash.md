@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Ncrypt.dll
-ms.openlocfilehash: 96f1e7fa0de86439f89bf5c4c610bf5b46640533071260852c47321c5a1c6673
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4ac83d6d8aeea8429812d80b7bf66de7c87062a5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118907091"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067099"
 ---
 # <a name="sslcreateclientauthhash-function"></a>Функция Сслкреатеклиентаусхаш
 
@@ -112,7 +112,7 @@ SECURITY_STATUS WINAPI SslCreateClientAuthHash(
 
 Функция **сслкреатеклиентаусхаш** вызывается для [*протокола*](/windows/desktop/SecGloss/t-gly) TLS 1,2 или более поздней версии для создания хэш-объектов, используемых для хэширования сообщений подтверждения. Он вызывается один раз для каждого возможного [*алгоритма хэширования*](/windows/desktop/SecGloss/h-gly) , который может использоваться в сигнатуре проверки подлинности клиента.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -120,7 +120,7 @@ SECURITY_STATUS WINAPI SslCreateClientAuthHash(
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                               |
 | Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Сслпровидер. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Сслпровидер. h</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Ncrypt.dll</dt> </dl>    |
 
 

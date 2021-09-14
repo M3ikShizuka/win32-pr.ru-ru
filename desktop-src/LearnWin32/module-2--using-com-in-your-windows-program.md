@@ -4,12 +4,12 @@ description: В модуле 1 этой серии показано, как со
 ms.assetid: 6e867618-4d02-4c17-b7ea-dc7290507689
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2180d47bd0dd12c0184a2f9241ec5656c7fe711150e1d5163ca2fec9e0b28fd9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c8c03f16937846c4479a70e16141f1b50bde3efc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119068034"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144598"
 ---
 # <a name="module-2-using-com-in-your-windows-based-program"></a>Модуль 2. Использование COM в программе Windows-Based
 

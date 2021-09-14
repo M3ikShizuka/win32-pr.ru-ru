@@ -13,12 +13,12 @@ keywords:
 - Объект Клоседкаптион
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6a9cd538f06550524b16ba1cb16fb202cfd64010208ff4360ff096641d68eef3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 575eddb906e7bcbdc7d307ddb52b4394fbb960a8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118583931"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264811"
 ---
 # <a name="about-the-closedcaption-object"></a>Сведения об объекте Клоседкаптион
 

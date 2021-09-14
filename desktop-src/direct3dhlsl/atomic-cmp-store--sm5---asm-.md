@@ -4,12 +4,12 @@ description: Атомарное сравнение и запись в памят
 ms.assetid: 1B97E983-11A9-47E4-B274-E94083837C6E
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7dbc57b14b4279b9bd4844d89492852ae915d9d900ed04421eeeccc367979a63
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 26a5292d65b32988017044a2ec52680848dffbef
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118795166"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264400"
 ---
 # <a name="atomic_cmp_store-sm5---asm"></a>атомарное \_ \_ хранилище CMP (SM5-ASM)
 
@@ -63,7 +63,7 @@ ms.locfileid: "118795166"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Службы вычислений |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 |        |      |        |          | X     | X       |
 
@@ -75,7 +75,7 @@ ms.locfileid: "118795166"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Службы вычислений |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | X      | X    | X      | X        | X     | X       |
 

@@ -20,11 +20,11 @@ api_type:
 api_location:
 - WmiProv.dll
 ms.openlocfilehash: 9fbb7d56e56519576d257b077311a144e923d6bb
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104346505"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066542"
 ---
 # <a name="wmimonitorcolorcharacteristics-class"></a>Класс Вмимониторколорчарактеристикс
 
@@ -44,13 +44,13 @@ class WmiMonitorColorCharacteristics : MSMonitorClass
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **вмимониторколорчарактеристикс** имеет следующие типы членов:
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **вмимониторколорчарактеристикс** имеет следующие свойства.
 
@@ -137,7 +137,7 @@ class WmiMonitorColorCharacteristics : MSMonitorClass
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения «Цветность» и «белая точка» выражаются в виде дробных чисел в формате кодировки. Этот формат является точным для тысячового расположения, длина которого равна 10 битам. Самый значащий бит (старший) представляет 2 ^-1, а наименьший значащий бит (ЛСБ) представляет 2 ^-10 коэффициенты соответственно. Точность сохраненных значений в структуре E-EDID v1. x должна быть точной до +/-0,005 фактического значения.
 

@@ -4,12 +4,12 @@ description: диспетчер окон рабочего стола
 ms.assetid: 79250d49-dad5-46c6-892d-b92dac14b417
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b99585a75bf2b25b086f09a17a0d8d93391b1f94f5018c5d4f83f90937fde620
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4fca8550134ba0c1cdafe0bd5c349061ef900a9e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119896893"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144538"
 ---
 # <a name="the-desktop-window-manager"></a>диспетчер окон рабочего стола
 
@@ -33,7 +33,7 @@ DWM предоставляет несколько преимуществ по с
 
 Однако обратите внимание, что не гарантируется, что DWM будет включен. Графическая карта может не поддерживать системные требования DWM, и пользователи могут отключить DWM с помощью панели управления " **Свойства системы** ". Это означает, что программа не должна полагаться на поведение DWM в перерисовки. Протестируйте программу с помощью DWM Disabled, чтобы убедиться, что она правильно перерисовывается.
 
-## <a name="next"></a>Следующая
+## <a name="next"></a>Следующий
 
 [Режим сохраняемости и режим интерпретации](retained-mode-versus-immediate-mode.md)
 

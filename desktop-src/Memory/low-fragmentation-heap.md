@@ -4,12 +4,12 @@ ms.assetid: d10abf82-423c-4942-b05e-55de3a5c4219
 title: Куча с низкой фрагментацией
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3d4cc6f7f0e2427a20532f5e32cc1460f9b6601d1e6dddf0de603757895005e6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8ad14a97fa6d95b663f63b21f0982332ba0de01e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119067744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144373"
 ---
 # <a name="low-fragmentation-heap"></a>Куча с низкой фрагментацией
 

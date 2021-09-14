@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 358a1a890c98e5d7bdc69ed0b0000667d5c33edba51d23d7fa3bc35e30575518
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d6fc9387499f675dd011dbceecbaf1aecdd287ef
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119756034"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144974"
 ---
 # <a name="iamtimelinesrcgetstreamnumber-method"></a>Метод Иамтимелинесрк:: Жетстреамнумбер
 

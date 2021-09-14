@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bfc9c400f3596d380f5e671eaa04f4e4340bde385230f331e3e2fdc7ee1a92f2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f53260a07e544d5f69a9575851614f694b778619
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119045832"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145626"
 ---
 # <a name="id3dx11effectsamplervariablegetsampler-method"></a>Метод ID3DX11EffectSamplerVariable:: Sample
 
@@ -75,7 +75,7 @@ HRESULT GetSampler(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -86,7 +86,7 @@ HRESULT GetSampler(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

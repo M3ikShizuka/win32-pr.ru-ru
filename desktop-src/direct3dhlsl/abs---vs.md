@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 59ba7ad170df49b252140b14452862bdf14c2b713ac457548c8f085a0fb50881
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 612ed14fb538a419a0e7f0b1cf07904d654bb010
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120025094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264424"
 ---
 # <a name="abs---vs"></a>ABS-VS
 
@@ -24,7 +24,7 @@ ms.locfileid: "120025094"
 
 **ABS DST, src**
 
-where
+где
 
 - DST — это регистр назначения.
 - src является исходным регистром.

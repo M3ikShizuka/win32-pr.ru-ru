@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 94ec260f0e4e5475cc834c786bc1ba7249b30fabd087030caf3426273adc3012
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 52225c4db8eaa31c17d12a25590b918cf94b4c3b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119493314"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067491"
 ---
 # <a name="gllighti-function"></a>Функция Гллигхти
 
@@ -109,7 +109,7 @@ void WINAPI glLighti(
 
 [**глисенаблед**](glisenabled.md) с аргументом \_ освещение GL
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -123,7 +123,7 @@ void WINAPI glLighti(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

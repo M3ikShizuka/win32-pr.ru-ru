@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 5c92a6375f0724a1910fc0f09b47e1593614f9f1
-ms.sourcegitcommit: adba238660d8a5f4fe98fc6f5d105d56aac3a400
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "111826083"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264128"
 ---
 # <a name="packoffset"></a>паккоффсет
 

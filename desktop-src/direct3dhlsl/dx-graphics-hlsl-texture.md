@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 78e508c72faf61a1a1167fda4fbfba621f4c5255021b6196b8b30a6b86c13fdb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 89568dc5cf24af38f916375795eea052c8b39200
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119846004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264155"
 ---
 # <a name="texture-type"></a>Тип текстуры
 
@@ -62,6 +62,6 @@ Direct3D 9 использует [встроенные функции текст�
 
 <code>Output.RGBColor = g_MeshTexture.Sample(MeshTextureSampler, In.TextureUV) * In.Diffuse;</code>
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 [Типы данных (DirectX HLSL)](dx-graphics-hlsl-data-types.md)

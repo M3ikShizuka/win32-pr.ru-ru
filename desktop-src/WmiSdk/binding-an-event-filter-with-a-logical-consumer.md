@@ -6,11 +6,11 @@ title: Привязка фильтра событий к логическому 
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: e99f44c4b64b98877231b73543d8753c765c3219
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103912407"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066530"
 ---
 # <a name="binding-an-event-filter-with-a-logical-consumer"></a>Привязка фильтра событий к логическому потребителю
 
@@ -57,9 +57,9 @@ instance of __FilterToConsumerBinding
 
 **:** Когда администратор создает подписку, ее идентификатор безопасности не используется для свойства **креаторсид** , но вместо него используется идентификатор безопасности локальной группы администраторов. Таким образом, экземпляры могут создаваться разными администраторами, и подписка по-прежнему будет работать. Дополнительные сведения см. в статье [безопасное получение событий](receiving-events-securely.md).
 
-Если фильтр привязан к логическому потребителю, событие записывается с помощью [трассировки событий](/windows/desktop/ETW/event-tracing-portal) для Windows (ETW). Дополнительные сведения см. в разделе [Трассировка действия WMI](tracing-wmi-activity.md).
+если фильтр привязан к логическому потребителю, событие записывается [трассировкой событий](/windows/desktop/ETW/event-tracing-portal) для Windows (ETW). Дополнительные сведения см. в разделе [Трассировка действия WMI](tracing-wmi-activity.md).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

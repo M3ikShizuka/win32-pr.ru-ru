@@ -4,12 +4,12 @@ ms.assetid: 97f70742-8f5a-43bd-aef4-a28f1cc94bb2
 title: Константы LINEQUEUESTATUS_ (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1cec8159ff836bd8eee76b74d2b8ac2808d188da84d2b6742cb5ddde10f405f1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 22da21ddfb07cee57e45a271e9573c591b4334ec
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119660014"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066932"
 ---
 # <a name="linequeuestatus_-constants"></a>\_Константы линекуеуестатус
 
@@ -47,7 +47,7 @@ ms.locfileid: "119660014"
 
 </dt> </dl> </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

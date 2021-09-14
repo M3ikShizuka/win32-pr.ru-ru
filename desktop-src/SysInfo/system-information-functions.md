@@ -4,12 +4,12 @@ ms.assetid: aa7deebf-7dce-4147-8a15-1d7411aea0fa
 title: Сведения о системе Функции
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 675c2e5dfc9df9029a8ca7f5d4dc9468dd16a9d65cbd9ffa91edf6dc618e0e11
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1c88c9a3e01a526ab3947aba8b4b7a312b9c1235
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117763463"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146002"
 ---
 # <a name="system-information-functions"></a>Сведения о системе Функции
 

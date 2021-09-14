@@ -40,12 +40,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 4aa3a60b68902bbcf7728866d24e5cedd831eac35ba629a3e2516a885a28efaf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5f263a888ce9dea80444023faff57998bc3f2c1c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118418245"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145337"
 ---
 # <a name="win32_classiccomclasssetting-class"></a>\_Класс Win32 классиккомкласссеттинг
 
@@ -88,7 +88,7 @@ class Win32_ClassicCOMClassSetting : Win32_COMSetting
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ классиккомкласссеттинг** имеет следующие типы членов:
 

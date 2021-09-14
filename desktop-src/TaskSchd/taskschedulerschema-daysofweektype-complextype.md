@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 0b4a1b5e6aeaa77c0bdfe12b1d5b68fde018f236
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104341335"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066882"
 ---
 # <a name="daysofweektype-complex-type"></a>Сложный тип Дайсофвиктипе
 
@@ -72,13 +72,13 @@ ms.locfileid: "104341335"
 
 | Элемент                                                                   | Тип | Описание                         |
 |---------------------------------------------------------------------------|------|-------------------------------------|
-| [**Пятница**](taskschedulerschema-friday-daysofweektype-element.md)       | Н/Д  | Задача выполняется в пятницу. <br/>    |
-| [**Понедельник**](taskschedulerschema-monday-daysofweektype-element.md)       | Н/Д  | Задача выполняется в понедельник.<br/>     |
-| [**Суббота**](taskschedulerschema-saturday-daysofweektype-element.md)   | Н/Д  | Задача выполняется в субботу. <br/>  |
-| [**Воскресенье**](taskschedulerschema-sunday-daysofweektype-element.md)       | Н/Д  | Задача выполняется в воскресенье. <br/>    |
-| [**Четверг**](taskschedulerschema-thursday-daysofweektype-element.md)   | Н/Д  | Задача выполняется в четверг <br/>   |
-| [**Вторник**](taskschedulerschema-tuesday-daysofweektype-element.md)     | Н/Д  | Задача выполняется во вторник. <br/>   |
-| [**Среда**](taskschedulerschema-wednesday-daysofweektype-element.md) | Н/Д  | Задача выполняется в среду. <br/> |
+| [**Пятница**](taskschedulerschema-friday-daysofweektype-element.md)       | Недоступно  | Задача выполняется в пятницу. <br/>    |
+| [**Понедельник**](taskschedulerschema-monday-daysofweektype-element.md)       | Недоступно  | Задача выполняется в понедельник.<br/>     |
+| [**Сегодня**](taskschedulerschema-saturday-daysofweektype-element.md)   | Недоступно  | Задача выполняется в субботу. <br/>  |
+| [**Воскресенье**](taskschedulerschema-sunday-daysofweektype-element.md)       | Недоступно  | Задача выполняется в воскресенье. <br/>    |
+| [**Четверг**](taskschedulerschema-thursday-daysofweektype-element.md)   | Недоступно  | Задача выполняется в четверг <br/>   |
+| [**Вторник**](taskschedulerschema-tuesday-daysofweektype-element.md)     | Недоступно  | Задача выполняется во вторник. <br/>   |
+| [**Среда**](taskschedulerschema-wednesday-daysofweektype-element.md) | Недоступно  | Задача выполняется в среду. <br/> |
 
 
 
@@ -88,8 +88,8 @@ ms.locfileid: "104341335"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>       |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>       |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/> |
 
 
 

@@ -4,12 +4,12 @@ description: Давайте создадим первую Direct2D програ�
 ms.assetid: 940cc5e4-2952-4714-bf32-c611a965f819
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3cb7b9b4a81b9e3767f9d53d0c5872b170772c1cb60b4a74c599401de342ee05
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d445f98c5dc6a6e5d1aa91d913010cb406a67992
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119754394"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144494"
 ---
 # <a name="your-first-direct2d-program"></a>Первая программа Direct2D
 
@@ -216,7 +216,7 @@ LRESULT MainWindow::HandleMessage(UINT uMsg, WPARAM wParam, LPARAM lParam)
 
 В этом модуле вы увидите примеры пространства имен **D2D1** .
 
-## <a name="next"></a>Следующая
+## <a name="next"></a>Следующий
 
 [Отрисовка целевых объектов, устройств и ресурсов](render-targets--devices--and-resources.md)
 

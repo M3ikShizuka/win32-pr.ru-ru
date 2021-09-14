@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 180bc764d31aaeadba7b42d31cff02cdbefc0220499572160873dc43b58005ab
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7d10a06cbf123b71e1308b45c747ac8a840a5fe1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119070734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144849"
 ---
 # <a name="idwritetextlayout3getlinemetrics-method"></a>Метод IDWriteTextLayout3:: Жетлинеметрикс
 

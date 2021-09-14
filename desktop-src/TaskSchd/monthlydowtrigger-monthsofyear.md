@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7f8dc9752cf241218a95a9816824bc6ccf560f47c3445df9e5f40406381de3b5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c345cd3de12d7dba3450f62bdb18bfdcee496b13
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119253824"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066892"
 ---
 # <a name="monthlydowtriggermonthsofyear-property"></a>Монслидовтригжер. Монссофеар, свойство
 
@@ -67,7 +67,7 @@ MonthlyDOWTrigger.MonthsOfYear As short
 
 При чтении или записи XML для задачи месяцы года месячного дня недели задаются элементом [**months**](taskschedulerschema-months-monthlydayofweekscheduletype-element.md) схемы планировщик задач.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

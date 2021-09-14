@@ -4,12 +4,12 @@ ms.assetid: 8984d608-0fad-4979-9c58-ac2fb7926796
 title: 'Итсдп: метод ut_SessionVersion:p (Сдпблб. h)'
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 30f76ccf38b6d8df2a52b48777b49efbe2507b6be24dafd8c5f8874c45f0a9da
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a096117f894a2ff33f127c683b84ba50e88308e4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119405674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066952"
 ---
 # <a name="itsdpput_sessionversion-method"></a>Итсдп::p UT \_ сессионверсион метод
 

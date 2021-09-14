@@ -9,12 +9,12 @@ keywords:
 - Перенос по стандарту OpenGL из IRI GL, получение функций
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fdfe9159e0207198fa94959729bd0c95439bb91b5dd55a8a1f9adf3b048d7bb1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 594b12bb1738846b98d33137dd8b623f0405ec40
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119485564"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067483"
 ---
 # <a name="porting-iris-gl-get-functions"></a>Перенос функций получения для ДИАФРАГМы в ГК
 

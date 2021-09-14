@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: bf364bc9d8feac199235319639ab5be8b851de4b
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122626960"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264147"
 ---
 # <a name="gather-directx-hlsl-texture-object"></a>Сбор данных (объект текстуры DirectX HLSL)
 
@@ -38,7 +38,7 @@ ms.locfileid: "122626960"
 <thead>
 <tr class="header">
 <th>Элемент</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>

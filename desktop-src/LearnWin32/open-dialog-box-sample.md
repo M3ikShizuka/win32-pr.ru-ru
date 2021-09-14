@@ -4,12 +4,12 @@ description: в этом примере приложения показано, �
 ms.assetid: 7ff18d1f-a953-4a0e-8295-4d5e1df937e5
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 67914f39ce6a2c1b5c1a805b44551b2c28e0d8f459b0139f220f08e647604f4c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6b8831554d9a2e6fd925aff2c603e1dbfe19d3aa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119913714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144577"
 ---
 # <a name="open-dialog-box-sample"></a>Открыть образец диалогового окна
 

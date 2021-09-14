@@ -4,12 +4,12 @@ ms.assetid: 13950da1-b04f-4346-b216-9713cbdcd5b5
 title: Определение групп пользователей в C++
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3fde349dcf5a877490d85917247cf7fba3480143d87d92afb1b8eb2017030e71
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2e1b4931d3b35658539284305e98096d7ecfc891
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118914040"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067171"
 ---
 # <a name="defining-groups-of-users-in-c"></a>Определение групп пользователей в C++
 

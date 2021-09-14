@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Winhttp.dll
-ms.openlocfilehash: 92fdcb9c6eff502dc5f19cb62d92af5d4db60e15890667c894f96cfb55a9e5ff
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 907e94a731b2ec150a331347480c461d0d0fa319
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119132917"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066594"
 ---
 # <a name="winhttprequest-object"></a>Объект WinHttpRequest
 
@@ -83,11 +83,11 @@ var WinHttpReq = new ActiveXObject("WinHttp.WinHttpRequest.5.1");
 
 | Метод                                                                 | Описание                                                                                                                                                |
 |:-----------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**Рвал**](iwinhttprequest-abort.md)                                 | Прерывает метод Send [WinHTTP](about-winhttp.md) [](iwinhttprequest-send.md) .<br/>                                                              |
+| [**Прерывание**](iwinhttprequest-abort.md)                                 | Прерывает метод Send [WinHTTP](about-winhttp.md) [](iwinhttprequest-send.md) .<br/>                                                              |
 | [**жеталлреспонсехеадерс**](iwinhttprequest-getallresponseheaders.md) | Извлекает все заголовки ответа HTTP.<br/>                                                                                                            |
 | [**жетреспонсехеадер**](iwinhttprequest-getresponseheader.md)         | Извлекает заголовки HTTP-ответа.<br/>                                                                                                            |
 | [**Открыть**](iwinhttprequest-open.md)                                   | Открывает HTTP-соединение с HTTP-ресурсом.<br/>                                                                                                   |
-| [**Отправить**](iwinhttprequest-send.md)                                   | Отправляет HTTP-запрос на сервер HTTP.<br/>                                                                                                        |
+| [**Отправка**](iwinhttprequest-send.md)                                   | Отправляет HTTP-запрос на сервер HTTP.<br/>                                                                                                        |
 | [**сетаутологонполици**](iwinhttprequest-setautologonpolicy.md)       | Задает текущую [политику автоматического входа в систему](authentication-in-winhttp.md).<br/>                                                |
 | [**сетклиентцертификате**](iwinhttprequest-setclientcertificate.md)   | Выбирает сертификат клиента для отправки на HTTPS-сервер.<br/>                                                    |
 | [**сеткредентиалс**](iwinhttprequest-setcredentials.md)               | Задает учетные данные для использования с HTTP-сервером либо исходным, либо прокси-сервером.<br/>                                                             |
@@ -100,13 +100,13 @@ var WinHttpReq = new ActiveXObject("WinHttp.WinHttpRequest.5.1");
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Объект **WinHttpRequest** имеет следующие свойства.
 
 
 
-| Свойство                                                            | Тип доступа           | Описание                                                                     |
+| Свойство.                                                            | Тип доступа           | Описание                                                                     |
 |:--------------------------------------------------------------------|:----------------------|:--------------------------------------------------------------------------------|
 | [**Параметр**](iwinhttprequest-option.md)<br/>                 | Чтение/запись<br/> | Задает или получает значение параметра WinHTTP.<br/>                            |
 | [**ResponseBody**](iwinhttprequest-responsebody.md)<br/>     | Только для чтения<br/>  | Извлекает тело объекта ответа в виде массива байтов без знака.<br/>    |

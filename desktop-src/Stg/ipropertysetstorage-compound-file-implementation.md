@@ -6,12 +6,12 @@ keywords:
 - IPropertySetStorage Стрктд STG, реализации, составной файл
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ec3bc0d423b304b6d456ccddab158a48ba0b6d5f3f310d293c6aed0dedb2a556
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9053a7cf6bf1ae7e4230b15eb0117c428acb08da
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119662664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067017"
 ---
 # <a name="ipropertysetstorage-compound-file-implementation"></a>Реализация файла IPropertySetStorage-Compound
 

@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: ec3f71a231fe137413cd6ebfebf11e2d9775f58c12525c25c74eca3de4231d2f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fb9c190157742aeca7c1ba6008a784005d054ca6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118172385"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145333"
 ---
 # <a name="win32_classiccomclasssettings-class"></a>\_Класс Win32 классиккомкласссеттингс
 
@@ -40,7 +40,7 @@ class Win32_ClassicCOMClassSettings : CIM_ElementSetting
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ классиккомкласссеттингс** имеет следующие типы членов:
 
@@ -102,7 +102,7 @@ class Win32_ClassicCOMClassSettings : CIM_ElementSetting
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

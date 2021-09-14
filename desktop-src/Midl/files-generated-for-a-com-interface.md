@@ -8,11 +8,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: c9ea38ef85baa03890e323b4ba9d5eae4f295429
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "103987434"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143850"
 ---
 # <a name="files-generated-for-a-com-interface"></a>Файлы, созданные для COM-интерфейса
 
@@ -27,6 +27,6 @@ ms.locfileid: "103987434"
 
 Дополнительные сведения см. в статьях [файл конфигурации приложения (ACF)](application-configuration-file-acf-.md), конфигурация [**/АПП \_**](-app-config.md), [файл определения интерфейса (IDL)](interface-definition-idl-file.md), а затем [Сборка и регистрация библиотеки DLL прокси-сервера](../com/building-and-registering-a-proxy-dll.md).
 
- 
+ 
 
- 
+ 

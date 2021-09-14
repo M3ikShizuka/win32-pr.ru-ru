@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 83a784cadf470fa312a82e473f3934dbda1a2b6dce20d2ae34c7074c309398cf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 39fd7b4d9d9bf7a595415e55de778a419d91051c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117808238"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144029"
 ---
 # <a name="async_uuid-attribute"></a>асинхронный \_ атрибут UUID
 
@@ -108,7 +108,7 @@ interface IMyInterface : IUnknown
 }
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -130,7 +130,7 @@ interface IMyInterface : IUnknown
 [**Языковые**](local.md)
 </dt> <dt>
 
-[**объектами**](object.md)
+[**object**](object.md)
 </dt> <dt>
 
 [**заполняет**](out-idl.md)

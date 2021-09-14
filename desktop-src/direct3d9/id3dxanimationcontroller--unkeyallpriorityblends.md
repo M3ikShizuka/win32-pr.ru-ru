@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 765321a2e657dcc6b3fc1e6949509cab70c968d61c22638c8e5ebb505494feff
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c39ddd36843b52ca3bb7bf504d3de766f3e1be21
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118296790"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145554"
 ---
 # <a name="id3dxanimationcontrollerunkeyallpriorityblends-method"></a>Метод ID3DXAnimationController:: Ункэйаллприоритиблендс
 

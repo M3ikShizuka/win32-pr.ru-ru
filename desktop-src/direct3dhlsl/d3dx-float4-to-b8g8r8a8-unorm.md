@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: ddec0922218b9770d7a0c4cb4877f6144eded900
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "104986870"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264299"
 ---
 # <a name="d3dx_float4_to_b8g8r8a8_unorm-function"></a>D3DX \_ FLOAT4 \_ to \_ B8G8R8A8 \_ UNORM Function
 
@@ -54,7 +54,7 @@ UINT D3DX_FLOAT4_to_B8G8R8A8_UNORM(
 
 | Требование | Значение |
 |-------------------|--------------------------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3DX \_ дксгиформатконверт. inl</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3DX \_ дксгиформатконверт. inl</dt> </dl> |
 
 
 

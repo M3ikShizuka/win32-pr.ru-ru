@@ -5,11 +5,11 @@ title: Владелец нового объекта
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 32f16124d84e17a075c78c676465ad753fcc12db
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105663825"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127265475"
 ---
 # <a name="owner-of-a-new-object"></a>Владелец нового объекта
 
@@ -17,7 +17,7 @@ ms.locfileid: "105663825"
 
 Владелец нового объекта является [*идентификатором безопасности*](/windows/desktop/SecGloss/s-gly) (SID) по умолчанию, [*исходя из основного*](/windows/desktop/SecGloss/p-gly) [*маркера или токена олицетворения*](/windows/desktop/SecGloss/i-gly) создаваемого [*процесса*](/windows/desktop/SecGloss/p-gly). Чтобы получить или задать владельца по умолчанию в [*маркере доступа*](/windows/desktop/SecGloss/a-gly), вызовите функцию [**GetTokenInformation**](/windows/win32/api/securitybaseapi/nf-securitybaseapi-gettokeninformation) или [**Сеттокенинформатион**](/windows/win32/api/securitybaseapi/nf-securitybaseapi-settokeninformation) с помощью структуры [**\_ владельца маркера**](/windows/desktop/api/Winnt/ns-winnt-token_owner) . Система не позволяет задать для владельца маркера по умолчанию недопустимый идентификатор безопасности, например идентификатор безопасности учетной записи другого пользователя.
 
-Процесс с \_ \_ включенным привилегией на владение SE может быть задан владельцем объекта. Процесс, имеющий \_ разрешение SE Restore \_ Name или с \_ доступом владельца записи к объекту, может задать любой допустимый идентификатор безопасности пользователя или группы в качестве владельца объекта.
+процесс, использующий \_ SE \_ привилегий на владение, может быть задан владельцем объекта. процесс с \_ \_ включенным привилегией SE restore NAME или с \_ доступом владельца записи к объекту может задать любой допустимый идентификатор безопасности пользователя или группы в качестве владельца объекта.
 
  
 

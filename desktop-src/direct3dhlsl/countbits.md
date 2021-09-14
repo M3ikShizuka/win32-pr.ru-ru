@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 5f3816152b91fd03348e64c7a36dd41e8b620bd5e5ef8f4463538c44ef974485
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 357aceca6e2aea261a9e94212b58ff6308c99560
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118793972"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264355"
 ---
 # <a name="countbits-function"></a>countbits - функция
 
@@ -80,7 +80,7 @@ uint4 count_bits(uint4 value);
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Службы вычислений |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | x      | x    | x      | x        | x     | x       |
 

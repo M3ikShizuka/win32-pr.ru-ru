@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2478e0baf788fd3d03448ce024b1f42961513c8a65920274807dabadc668e5b3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7a8b9f93cb7e22b729702f80a2e6f057311ff8df
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118581147"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066739"
 ---
 # <a name="cameramanufacturer-attribute"></a>Атрибут Камерамануфактурер
 

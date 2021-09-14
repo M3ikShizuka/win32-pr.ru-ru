@@ -13,12 +13,12 @@ api_type:
 - UserDefined
 api_location:
 - Netmon.h
-ms.openlocfilehash: 6bb0bc74a52569edbb922aa93edd27b53106073ffdafa3a6cacc5808aab71eef
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 61707b49fa88490e1aa22ac89f33dfd97ec20cbd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119012252"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067620"
 ---
 # <a name="formatproperties-callback-function"></a>Функция обратного вызова Форматпропертиес
 
@@ -103,7 +103,7 @@ DWORD FormatProperties(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -115,7 +115,7 @@ DWORD FormatProperties(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

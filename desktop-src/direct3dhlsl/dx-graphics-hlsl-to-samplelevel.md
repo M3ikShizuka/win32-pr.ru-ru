@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: 4249d094f142af8a9015f4e8a3b32d4e39cd42fb
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122629557"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264136"
 ---
 # <a name="samplelevel-directx-hlsl-texture-object"></a>Самплелевел (объект текстуры DirectX HLSL)
 
@@ -40,7 +40,7 @@ ms.locfileid: "122629557"
 <thead>
 <tr class="header">
 <th>Элемент</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>

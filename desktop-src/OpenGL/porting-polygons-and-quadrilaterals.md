@@ -17,12 +17,12 @@ keywords:
 - многоугольники, перенос из IRI GL
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 90cc911c8649815ea7d232d1e6e9c6a24ff495d551c7e70032392c0c045b0d87
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7900b44051cab9590be11198c8b01af0b7c10244
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118132370"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067460"
 ---
 # <a name="porting-polygons-and-quadrilaterals"></a>Перенос многоугольников и Куадрилатералс
 

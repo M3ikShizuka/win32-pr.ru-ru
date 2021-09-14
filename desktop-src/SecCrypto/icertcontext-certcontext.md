@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: 5c517384bdffd8723c1e9e0d96683cc4bd4918361acdf19df77286bfbac962b1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 38bd1c704ca709fc1e4b6072bb68c2105dc5db9c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119006372"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127265315"
 ---
 # <a name="icertcontextcertcontext-property"></a>Свойство Ицертконтекст:: Цертконтекст
 
@@ -56,7 +56,7 @@ CertContext.CertContext As Long
 
 Если задано свойство **цертконтекст** , состояние всего объекта [**сертификата**](certificate.md) сбрасывается.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -67,7 +67,7 @@ CertContext.CertContext As Long
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

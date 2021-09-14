@@ -4,12 +4,12 @@ ms.assetid: 1aec2414-cc93-4a86-955d-2433360c9125
 title: Расширение физических адресов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f2fd9193a19d228f26a09865086c59b65c0019b3cee42142dfd27188eff30169
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5cd313c1025eaaf4859436aebef90288c6d3fe49
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119979724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144310"
 ---
 # <a name="physical-address-extension"></a>Расширение физических адресов
 

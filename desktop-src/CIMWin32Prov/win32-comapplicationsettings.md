@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 0a1126563b00861ab8b8168832f72189c3a3828378f5d89c4b74e49f68b09bd4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8f2fd5953d770d541e704b7dc7fe8580e98b3066
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118417914"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145298"
 ---
 # <a name="win32_comapplicationsettings-class"></a>\_Класс Win32 комаппликатионсеттингс
 
@@ -40,7 +40,7 @@ class Win32_COMApplicationSettings : CIM_ElementSetting
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ комаппликатионсеттингс** имеет следующие типы членов:
 

@@ -4,12 +4,12 @@ ms.assetid: de09c8af-0ed8-4fd4-b8e8-2c921aafe6f2
 title: Предельный объем памяти для выпусков Windows и Windows Server
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c8d2b11b636fcbcd3338986aa4ce88388f3b722045eee895e4acb1b62d5920eb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d09db7d303468247794807629d3a56e786c4ada6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117992756"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144370"
 ---
 # <a name="memory-limits-for-windows-and-windows-server-releases"></a>Предельный объем памяти для выпусков Windows и Windows Server
 
@@ -67,7 +67,7 @@ ms.locfileid: "117992756"
 
 | Версия               | Ограничение на x86    | Ограничение в x64     |
 |-----------------------|-----------------|------------------|
-| Windows 10 Корпоративная | 4 ГБ<br/> | 6 TБ<br/>   |
+| Windows 10 Корпоративная | 4 ГБ<br/> | 6 TБ<br/>   |
 | Windows 10 для образовательных учреждений  | 4 ГБ<br/> | 2 ТБ<br/>   |
 | Windows 10 Pro для рабочих станций  | 4 ГБ<br/> | 6 TБ<br/>   |
 | Windows 10 Pro        | 4 ГБ<br/> | 2 ТБ<br/>   |
@@ -139,9 +139,9 @@ ms.locfileid: "117992756"
 | Windows 7 Максимальная     | 4 ГБ<br/> | 192 ГБ<br/> |
 | Windows 7 Корпоративная   | 4 ГБ<br/> | 192 ГБ<br/> |
 | Windows 7 Профессиональная | 4 ГБ<br/> | 192 ГБ<br/> |
-| Windows 7 Домашняя расширенная | 4 ГБ<br/> | 16 ГБ<br/>  |
+| Windows 7 Домашняя расширенная | 4 ГБ<br/> | 16 Гб<br/>  |
 | Windows 7 Домашняя базовая   | 4 Гб<br/> | 8 Гб<br/>   |
-| Windows 7 Начальная      | 2 ГБ<br/> | н/д<br/>    |
+| Windows 7 Начальная      | 2 ГБ<br/> | Недоступно<br/>    |
 
 
 
@@ -198,9 +198,9 @@ ms.locfileid: "117992756"
 | Windows Vista Ultimate     | 4 ГБ<br/> | 128 ГБ<br/> |
 | Windows Vista Enterprise   | 4 ГБ<br/> | 128 ГБ<br/> |
 | Windows Vista Business     | 4 ГБ<br/> | 128 ГБ<br/> |
-| Windows Vista Home Premium | 4 ГБ<br/> | 16 ГБ<br/>  |
+| Windows Vista Home Premium | 4 ГБ<br/> | 16 Гб<br/>  |
 | Windows Vista Home Basic   | 4 Гб<br/> | 8 Гб<br/>   |
-| Windows Vista Starter      | 1 ГБ<br/> |                   |
+| Windows Vista Starter      | 1 ГБ<br/> |                   |
 
 
 

@@ -39,12 +39,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: d78295e2621f5563f403daac3f0e3a6ed68e6102fa2146536b6f78cfc21d2e30
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7aac44fb8e2b0a91ca3794f234a31cd4c25a4b5b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119878664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145278"
 ---
 # <a name="win32_floppycontroller-class"></a>\_Класс Win32 флоппиконтроллер
 
@@ -86,7 +86,7 @@ class Win32_FloppyController : CIM_Controller
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ флоппиконтроллер** имеет следующие типы членов:
 
@@ -108,7 +108,7 @@ class Win32_FloppyController : CIM_Controller
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ флоппиконтроллер** имеет следующие свойства.
 
@@ -874,7 +874,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1585,7 +1585,7 @@ Windows Самонастраивающийся идентификатор уст
 
 Класс **Win32 \_ флоппиконтроллер** является производным от [**\_ контроллера CIM**](cim-controller.md) , который является производным от CIM-класса. [**\_**](cim-logicaldevice.md)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -1593,7 +1593,7 @@ Windows Самонастраивающийся идентификатор уст
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Окончание поддержки клиента<br/>    | Windows 8.1<br/>                                                                  |
+| Окончание поддержки клиента<br/>    | Windows 8.1<br/>                                                                  |
 | Поддержка конца сервера<br/>    | Windows Server 2012 R2<br/>                                                       |
 | Пространство имен<br/>                | Корневой \\ CIMV2<br/>                                                                  |
 | MOF<br/>                      | <dl> <dt>CIMWin32. mof</dt> </dl> |
@@ -1601,7 +1601,7 @@ Windows Самонастраивающийся идентификатор уст
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

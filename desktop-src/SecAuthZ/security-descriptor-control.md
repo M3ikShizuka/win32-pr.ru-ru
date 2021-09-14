@@ -4,12 +4,12 @@ ms.assetid: 9a4ef57e-c374-4ef6-99dc-1a8dd250f2c2
 title: SECURITY_DESCRIPTOR_CONTROL (Winnt. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1da495f90337cd84b57c991c4c195d4d4ff971b8d15f012f724eeb1662e74a71
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b3def788407093d0a487640d1ad0e445b61fe20e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119907404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127265456"
 ---
 # <a name="security_descriptor_control"></a>\_элемент управления дескриптора безопасности \_
 
@@ -53,7 +53,7 @@ typedef WORD SECURITY_DESCRIPTOR_CONTROL, *PSECURITY_DESCRIPTOR_CONTROL;
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -65,7 +65,7 @@ typedef WORD SECURITY_DESCRIPTOR_CONTROL, *PSECURITY_DESCRIPTOR_CONTROL;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

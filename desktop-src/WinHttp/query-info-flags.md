@@ -4,12 +4,12 @@ ms.assetid: c26dac1d-9a75-440a-a0ef-a2029f138f3b
 title: Флаги сведений о запросе (Winhttp.h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c66fd75ad1258123c3047dee4cafa4e57cb4dadd6675eb02deaa307085acbd55
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5b3d8a7f95f0e093f175901e4bed30f4055a04b8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119051962"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066624"
 ---
 # <a name="query-info-flags-winhttph"></a>Флаги сведений о запросе (Winhttp.h)
 
@@ -821,7 +821,7 @@ ms.locfileid: "119051962"
 
 </dt> </dl> </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |-------------------------------------|--------------------------------------------------------------------------------------|
@@ -829,6 +829,6 @@ ms.locfileid: "119051962"
 | Минимальная версия сервера | Windows сервер 2003, Windows 2000 server с пакетом обновления 3 (SP3), \[ только классические приложения\]   |
 | Заголовок                   | <dl> <dt>WinHTTP. h</dt> </dl> |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 * [Версии WinHTTP](winhttp-versions.md)

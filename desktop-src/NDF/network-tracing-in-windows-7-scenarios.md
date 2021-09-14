@@ -4,12 +4,12 @@ description: В этом разделе приведены некоторые п
 ms.assetid: a124811a-99b1-46bd-8657-fdcb024e16c8
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 768dfedc7bf57c36daaacdcbf0a731a18173b96a0a019c866b58bf4c1fd74ddb
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: baa41515fa6b0564fbdada9fcf4fa9eb401884ab
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119801944"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067672"
 ---
 # <a name="network-tracing-in-windows-7-scenarios"></a>трассировка сети в Windows 7: сценарии
 

@@ -1,19 +1,19 @@
 ---
-description: Модель безопасности Windows позволяет управлять доступом к объектам сопоставления файлов. Дополнительные сведения см. в разделе Модель Access-Control.
+description: модель безопасности Windows позволяет управлять доступом к объектам сопоставления файлов. Дополнительные сведения см. в разделе Модель Access-Control.
 ms.assetid: 8bbf7c98-ff83-4ed9-8b82-f08dcd31295c
 title: Безопасность и права доступа для сопоставления файлов
 ms.topic: article
 ms.date: 10/06/2018
 ms.openlocfilehash: 65d520e12d1b555e7c633f0d1e0ba5142c330ce8
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105673263"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144409"
 ---
 # <a name="file-mapping-security-and-access-rights"></a>Безопасность и права доступа для сопоставления файлов
 
-Модель безопасности Windows позволяет управлять доступом к объектам сопоставления файлов. Дополнительные сведения см. в разделе [модель управления доступом](../secauthz/access-control-model.md).
+модель безопасности Windows позволяет управлять доступом к объектам сопоставления файлов. Дополнительные сведения см. в разделе [модель управления доступом](../secauthz/access-control-model.md).
 
 При вызове функции [**CreateFileMapping**](/windows/desktop/api/WinBase/nf-winbase-createfilemappinga) можно указать [дескриптор безопасности](../secauthz/security-descriptors.md) для объекта сопоставления файлов. Если указано **значение NULL**, то объект получает дескриптор безопасности по умолчанию. Списки управления доступом в дескрипторе безопасности по умолчанию для объекта сопоставления файлов берутся из основного маркера или токена олицетворения создателя.
 

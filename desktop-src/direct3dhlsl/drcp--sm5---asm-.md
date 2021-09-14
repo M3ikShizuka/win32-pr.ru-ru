@@ -4,12 +4,12 @@ description: Вычисление взаимной точности с двой�
 ms.assetid: 499A14D6-36DB-4860-94D1-887D931E60D4
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9539a53b27840b51d0a1d2e9904c744aa3f5c3e60bd9dc21a6bf72ba9291efa4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 770159f5007b08f5482ba8b58634b44e7f3e6ef0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118515346"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264195"
 ---
 # <a name="drcp-sm5---asm"></a>дркп (SM5-ASM)
 
@@ -63,7 +63,7 @@ ms.locfileid: "118515346"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | X      | X    | X      | X        | X     | X       |
 

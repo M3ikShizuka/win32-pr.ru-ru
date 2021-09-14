@@ -4,12 +4,12 @@ ms.assetid: a7e7a07d-239e-432e-9984-7763f11c59ce
 title: Интерфейс Итмедиаколлектион (Сдпблб. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2425ae89f376d5cb2d7cc23e70abd33f87750d3d1b5343a17c8ecb05d7de760d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 21305e1d1729437b53c380b7712feee3827b3ba8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120034614"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145966"
 ---
 # <a name="itmediacollection-interface"></a>Интерфейс Итмедиаколлектион
 
@@ -36,8 +36,8 @@ ms.locfileid: "120034614"
 
 | Метод                                                            | Описание                                                            |
 |:------------------------------------------------------------------|:-----------------------------------------------------------------------|
-| [**Создания**](itmediacollection-create.md)                        | Создает новый носитель со свойствами по умолчанию и возвращает его.<br/> |
-| [**Удален**](itmediacollection-delete.md)                        | Удаляет носитель, соответствующий указанному индексу.<br/>     |
+| [**Создать**](itmediacollection-create.md)                        | Создает новый носитель со свойствами по умолчанию и возвращает его.<br/> |
+| [**Удаление**](itmediacollection-delete.md)                        | Удаляет носитель, соответствующий указанному индексу.<br/>     |
 | [**получить \_ \_ NewEnum**](itmediacollection-get--newenum.md)          | Возвращает перечислитель для коллекции.<br/>                   |
 | [**получить \_ число**](itmediacollection-get-count.md)                 | Возвращает количество носителей в сеансе.<br/>                    |
 | [**получить \_ енумератиониф**](itmediacollection-get-enumerationif.md) | Возвращает указатель на интерфейс перечисления.<br/>                      |
@@ -47,7 +47,7 @@ ms.locfileid: "120034614"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

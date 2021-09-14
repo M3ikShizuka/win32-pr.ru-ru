@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d117e0a942c0d9e24e1a9c40d3d66e605ab8d5cf26bbad0e287e9b03a9b25780
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4a63dfe85fb637636fbabbce5fa139699fd09a65
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118304497"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145653"
 ---
 # <a name="wm_cut-message"></a>\_Вырезание сообщения WM
 
@@ -78,7 +78,7 @@ ms.locfileid: "118304497"
 
 <dl> <dt>
 
-**Ссылка**
+**Ссылки**
 </dt> <dt>
 
 [**WM \_ clear**](wm-clear.md)
@@ -93,7 +93,7 @@ ms.locfileid: "118304497"
 [**\_Отмена изменений WM**](/windows/desktop/Controls/wm-undo)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Буфер обмена](clipboard.md)

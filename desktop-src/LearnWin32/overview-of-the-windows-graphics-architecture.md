@@ -4,12 +4,12 @@ description: Описание API графики C++/COM в Windows.
 ms.assetid: 9654b18b-d615-455d-a92a-6fc2ccda469e
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 82137f978c017c347ea94f9538e32c9a2273952fd52776dd9275415002a178fa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4f45ba44f54b947d923b888d51080ff0335119a1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119897122"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144565"
 ---
 # <a name="overview-of-the-windows-graphics-architecture"></a>обзор архитектуры графики Windows
 
@@ -58,7 +58,7 @@ GDI не поддерживает сглаживание при рисовани
 
 Direct2D поддерживает *векторную графику*. В векторной графике математические формулы используются для представления линий и кривых. Эти формулы не зависят от разрешения экрана, поэтому их можно масштабировать до произвольных измерений. Векторная графика особенно полезна, когда изображение необходимо масштабировать для поддержки различных размеров монитора или разрешений экрана.
 
-## <a name="next"></a>Следующая
+## <a name="next"></a>Следующий
 
 [диспетчер окон рабочего стола](the-desktop-window-manager.md)
 

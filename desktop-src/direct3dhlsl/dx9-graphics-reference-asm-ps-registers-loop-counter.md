@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: b2a2f7f42c83308fa72ceae2875c35c600dfd7db
-ms.sourcegitcommit: 5d4e99f4c8f42f5f543e52cb9beb9fb13ec56c5f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112405517"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264016"
 ---
 # <a name="loop-counter-register-hlsl-ps-reference"></a>Регистр счетчиков циклов (Справочник по HLSL PS)
 

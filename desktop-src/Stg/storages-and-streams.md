@@ -4,12 +4,12 @@ description: Объект хранилища аналогичен каталог
 ms.assetid: 57b2a66d-e912-4879-b778-75f8461d211f
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e7f39b6c8f664f74b1137f2889df9f864ffcc4b3c25c54c641489b7e6c8da5fe
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ebc44a22779b4ae63ee7c39b55888d2ea23579f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117960125"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066995"
 ---
 # <a name="storages-and-streams"></a>хранилища и Потоки
 

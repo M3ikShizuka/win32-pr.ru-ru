@@ -4,12 +4,12 @@ description: Объявите входные данные ресурса шей�
 ms.assetid: ECBA9DAB-F217-47FB-9588-F35866004E72
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b228ccc8bba795e700135bfe9ba54ea311536745b7e12eea03a8963d16e73285
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8dd6ccc5990e34990772a072086d9e080cde67b4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118793089"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264259"
 ---
 # <a name="dcl_resource-raw-sm5---asm"></a>дкл \_ ресурс необработанных ресурсов (SM5-ASM)
 
@@ -48,7 +48,7 @@ ms.locfileid: "118793089"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Службы вычислений |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | X      | X    | X      | X        | X     | X       |
 

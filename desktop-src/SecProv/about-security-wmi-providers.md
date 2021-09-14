@@ -4,12 +4,12 @@ ms.assetid: acd1bc8e-3311-47f9-88b1-739f224e40e9
 title: Сведения о поставщиках WMI для системы безопасности
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 67735088334f7239d757c90c212a93c672784d7e14554021725e3a1bcb5540c2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ed75cebf14ee3eb419578111b7de15608661d91e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118892972"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127265291"
 ---
 # <a name="about-security-wmi-providers"></a>Сведения о поставщиках WMI для системы безопасности
 

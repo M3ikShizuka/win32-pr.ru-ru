@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 2e20090b920c75e2fcfef94e9971d447ceb86c50c1d1b6a0d513d3fa2704c3cb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 54092caf19a486b68b92ef63d992f11289a51c93
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117909267"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264411"
 ---
 # <a name="add---ps"></a>Add-PS
 
@@ -31,7 +31,7 @@ ms.locfileid: "117909267"
 
  
 
-where
+где
 
 -   DST — это регистр назначения.
 -   src0 является исходным регистром.

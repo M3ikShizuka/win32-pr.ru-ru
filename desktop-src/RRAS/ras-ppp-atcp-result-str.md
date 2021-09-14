@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: faa3122026613ba5012f950a98a615dbb8c9ef34133a2a24249fca545eaa2060
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 66f3f950af9d5bdde8feef085457a895212ad04b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117789638"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067332"
 ---
 # <a name="ras_ppp_atcp_result-structure"></a>\_ \_ \_ Результирующая структура RAS PPP
 
@@ -39,7 +39,7 @@ typedef struct _RAS_PPP_ATCP_RESULT {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -66,7 +66,7 @@ typedef struct _RAS_PPP_ATCP_RESULT {
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                           |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                 |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                                                |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                       |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                       |
 | Заголовок<br/>                   | <dl> <dt>Рассапи. h</dt> </dl> |
 
 

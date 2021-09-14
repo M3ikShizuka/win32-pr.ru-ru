@@ -18,11 +18,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: c632a6bdc5fc5c4a128941d8a6c8b4379ddf9629
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104492762"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066781"
 ---
 # <a name="provisioningjobexecute-method-of-the-win32_rdmsvirtualdesktopcollection-class"></a>Метод Провисионингжобексекуте \_ класса Win32 рдмсвиртуалдесктопколлектион
 
@@ -69,7 +69,7 @@ uint32 ProvisioningJobExecute(
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                                   |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                              |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                              |
 | Пространство имен<br/>                | Корневой \\ \\ rdms CIMv2<br/>                                                                |
 | MOF<br/>                      | <dl> <dt>Рдманажемент. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>RDMS.dll</dt> </dl>         |

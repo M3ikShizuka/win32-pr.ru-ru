@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 093591ffe07ecbe662ca85306b74c34c670e1adbe51e2605b1f21faa20696c3f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 470fe3915c9f672c4663971159386e529ea60db4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120024774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067301"
 ---
 # <a name="wm_rasdialevent-message"></a>\_Сообщение РАСДИАЛЕВЕНТ WM
 
@@ -61,7 +61,7 @@ dwError = (DWORD) lParam;
 
 Если приложение обрабатывает это сообщение, оно должно возвращать **значение true**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -73,7 +73,7 @@ dwError = (DWORD) lParam;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

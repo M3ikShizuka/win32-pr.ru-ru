@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1519e6208e8bccae0288d6e0b31d7897faba4e1c9c7add8987f5dd493f4f5f3b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 681244c9d852c25d8e63ad389b03f16e6db8148c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118384493"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143865"
 ---
 # <a name="enum-attribute"></a>Enum, атрибут
 
@@ -35,7 +35,7 @@ enum [tag ]
 
 <dl> <dt>
 
-*тег* 
+*тегами* 
 </dt> <dd>
 
 Задает необязательный тег для перечисляемого типа.
@@ -83,10 +83,10 @@ typedef enum {Clemens=21, Palmer=22, Ryan=34} pitchers;
 [Файл определения интерфейса (IDL)](interface-definition-idl-file.md)
 </dt> <dt>
 
-[**INT**](int.md)
+[**int**](int.md)
 </dt> <dt>
 
-[**short**](short.md)
+[**промежуток**](short.md)
 </dt> <dt>
 
 [**определение**](typedef.md)

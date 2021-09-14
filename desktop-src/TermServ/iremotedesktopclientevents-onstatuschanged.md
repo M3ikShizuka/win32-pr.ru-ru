@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d08b15eb2b8112afcef6c98a841a249672df2ae3fbb7f36ceea513d53a5b0478
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8b17e42e75072033f952c7ef790365d6a363a5b5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118351626"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066776"
 ---
 # <a name="iremotedesktopclienteventsonstatuschanged-method"></a>Метод Иремотедесктопклиентевентс:: Онстатусчанжед
 
@@ -62,14 +62,14 @@ void OnStatusChanged(
 
 Этот метод не возвращает значение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8<br/>                                                                           |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                                 |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                                 |
 | Заголовок<br/>                   | <dl> <dt>Локатионапи. h</dt> </dl>       |
 | Библиотека типов<br/>             | <dl> <dt>MsTscAx.dll</dt> </dl>         |
 | DLL<br/>                      | <dl> <dt>MsTscAx.dll</dt> </dl>         |
@@ -77,7 +77,7 @@ void OnStatusChanged(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: a2a4b3fc716ba0865a010155e2f1e8a592cab396f5efb0c2d4afa3264da4a337
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fa6e9cbb69da504a929e23722068583489063b9d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119756044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144981"
 ---
 # <a name="iamtimelinesrcgetmediatimes-method"></a>Метод Иамтимелинесрк:: Жетмедиатимес
 

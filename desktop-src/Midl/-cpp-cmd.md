@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2b4510f175de35bb67b5986878330866fe86445a3145a7f10d951afb03805cbe
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1ad693f8dbf3ddc7acda6539b89930972ca81a87
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119896103"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144206"
 ---
 # <a name="cpp_cmd-switch"></a>/КПП \_ cmd Switch
 
@@ -75,7 +75,7 @@ midl /cpp_cmd "C_preprocessor_binary"
 
 **MIDL/КПП \_ cmd "CL"/КПП \_ OPT "/e/ДФЛАГ = true/ИК: \\ Inc" имя_файла. idl**
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

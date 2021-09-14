@@ -4,12 +4,12 @@ ms.assetid: a8d3228a-5f8b-4850-9e47-5dfb2335e655
 title: Общие требования для разработки приложений (API-интерфейс датчика)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 148057cd837e8eef26e73ff9cdef07ca01c70cb4a107e5f6e77f9ca43487407d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 31ec328f659bb51eddf93cc69beb2fe6236113ee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119003782"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127265224"
 ---
 # <a name="general-requirements-for-application-development-sensor-api"></a>Общие требования для разработки приложений (API-интерфейс датчика)
 

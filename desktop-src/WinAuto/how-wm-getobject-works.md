@@ -4,12 +4,12 @@ description: Microsoft Active Accessibility отправляет сообщен�
 ms.assetid: 53f7b3db-97e4-4ff2-9f7a-4555ec7956ea
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 24309b304baede0c7b93c9e609b469991e737ca819e8014effa03a4f39b8772c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 11fe287bca68c925cb7be95ff52d2dac547ed097
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119795764"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145777"
 ---
 # <a name="how-wm_getobject-works"></a>Как \_ работает WM GetObject
 

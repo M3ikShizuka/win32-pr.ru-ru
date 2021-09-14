@@ -5,11 +5,11 @@ title: Объекты GDI
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: c0d57d4a1cfa99c392783dec23a090e7ccf09eb0
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104081634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066985"
 ---
 # <a name="gdi-objects"></a>Объекты GDI
 
@@ -21,7 +21,7 @@ ms.locfileid: "104081634"
 
 Существует также ограничение по умолчанию для обработки дескрипторов GDI. Чтобы изменить это ограничение, задайте следующее значение реестра:
 
-**HKey \_ \_** \\ **Программное обеспечение** локального компьютера \\ **Microsoft** \\ **Windows NT** \\ **CurrentVersion** \\ **Windows** \\ **гдипроцесшандлекуота**
+**HKey \_ \_** \\ **программное обеспечение** локального компьютера \\ **Microsoft** \\ **Windows NT** \\ **CurrentVersion** \\ **Windows** \\ **гдипроцесшандлекуота**
 
 Для этого значения можно задать число от 256 до 65 536.
 

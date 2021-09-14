@@ -4,12 +4,12 @@ description: В следующем примере показано, как вы�
 ms.assetid: ce57fecb-8b14-4514-a3fd-45d7ef6eee89
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 90a881d452c6aa9eac5eea85d4ef0e9ddce83524f001294d2a6d6d6307f5ff1f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c50c0d46e9ac2e520f7be15812b2f541fd3e588f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118566897"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066629"
 ---
 # <a name="determining-the-location-of-a-share"></a>Определение расположения общей папки
 

@@ -4,12 +4,12 @@ description: Вы создали окно. Теперь нужно отобра�
 ms.assetid: db97a4c9-7592-42d1-a5de-9c468169eefc
 ms.topic: article
 ms.date: 08/16/2019
-ms.openlocfilehash: 93d0cb0234975b61ee7ffc05a680b5e1e6b1e01b9d4de7235fc4239ec5573f29
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f0f9d5c2759ea1735e370eb258743364980daee8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119897022"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144561"
 ---
 # <a name="painting-the-window"></a>Рисование окна
 
@@ -74,6 +74,6 @@ FillRect(hdc, &ps.rcPaint, (HBRUSH) (COLOR_WINDOW+1));
 
 Завершив рисование, вызовите функцию [**ендпаинт**](/windows/desktop/api/winuser/nf-winuser-endpaint) . эта функция очищает регион обновления, который сигнализирует, Windows, что окно завершило свою прорисовку.
 
-## <a name="next"></a>Следующая
+## <a name="next"></a>Следующий
 
 [Закрытие окна](closing-the-window.md)

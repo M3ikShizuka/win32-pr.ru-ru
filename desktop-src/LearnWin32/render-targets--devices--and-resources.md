@@ -4,12 +4,12 @@ description: Отрисовка целевых объектов, устройс�
 ms.assetid: cf48c2ce-16ad-4e61-8900-501c7c27da23
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 381d6e696cc9dce47cc8dad05b0e546371d50c51012daba725eb08f20d247eae
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: eeddd84e12c52e0fd0ae82dab8b5e8741a2e0891
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118387646"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144557"
 ---
 # <a name="render-targets-devices-and-resources"></a>Отрисовка целевых объектов, устройств и ресурсов
 
@@ -143,7 +143,7 @@ HRESULT MainWindow::CreateGraphicsResources()
 
 Кроме того, обратите внимание, что если целевой объект прорисовки уже существует, `CreateGraphicsResources` метод возвращает значение **S \_ ОК** без выполнения каких-либо действий. Причина этого проекта станет очевидной в следующем разделе.
 
-## <a name="next"></a>Следующая
+## <a name="next"></a>Следующий
 
 [Рисование с использованием Direct2D](drawing-with-direct2d.md)
 

@@ -109,11 +109,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: d43fcaba7f0404ad002d2a94ac8291c95b0f7440
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104137751"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066587"
 ---
 # <a name="error-messages-winineth"></a>Сообщения об ошибках (WinInet. h)
 
@@ -346,7 +346,7 @@ ms.locfileid: "104137751"
 Для HTTP-файла cookie требуется подтверждение.
 
 > [!Note]  
-> Windows Vista и Windows Server 2008 и более ранние версии.
+> Windows Vista и Windows Server 2008 и более ранних версий.
 
  
 
@@ -819,7 +819,7 @@ WinINet не смог выполнить декодирование содерж
 Для запроса требуется вставить компакт-диск на устройство чтения компакт-дисков, чтобы указать требуемый ресурс.
 
 > [!Note]  
-> Windows Vista и Windows Server 2008 и более ранние версии.
+> Windows Vista и Windows Server 2008 и более ранних версий.
 
  
 
@@ -993,7 +993,7 @@ WinINet не смог выполнить декодирование содерж
 Запрошен пользовательский интерфейс или другая операция блокировки.
 
 > [!Note]  
-> Windows Vista и Windows Server 2008 и более ранние версии.
+> Windows Vista и Windows Server 2008 и более ранних версий.
 
  
 
@@ -1438,10 +1438,10 @@ More data is available.
 
 </dt> </dl> </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 > [!Note]  
-> WinINet не поддерживает реализации серверов. Кроме того, его не следует использовать из службы. Для серверных реализаций или служб используйте [службы Microsoft Windows HTTP Services (WinHTTP)](/windows/desktop/WinHttp/winhttp-start-page).
+> WinINet не поддерживает реализации серверов. Кроме того, его не следует использовать из службы. для серверных реализаций или служб используйте [Microsoft Windows HTTP services (WinHTTP)](/windows/desktop/WinHttp/winhttp-start-page).
 
  
 

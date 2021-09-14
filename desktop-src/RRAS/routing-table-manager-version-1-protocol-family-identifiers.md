@@ -7,12 +7,12 @@ keywords:
 - Диспетчер таблиц маршрутизации, версия 1 RRAS, идентификаторы семейства протоколов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9bb5187c66a5caaf2c36b1bd1cbd886b1f80cf826444f1d4137c6b45c3e72397
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fc0b297bc0b5d1b6f669df19e069c08216cdb998
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119740983"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067308"
 ---
 # <a name="routing-table-manager-version-1-protocol-family-identifiers"></a>Идентификаторы семейства протоколов версии 1 диспетчера таблиц маршрутизации
 

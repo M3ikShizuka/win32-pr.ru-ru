@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: b671b32069f97e498ea9b369ecf8d305055880d4b06bb04ab4eeb6121fef6ee2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7a76f058e2f9c07a344453db87046704e26280a1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119793214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145081"
 ---
 # <a name="cbaseoutputpindecidebuffersize-method"></a>Кбасеаутпутпин. ДеЦидебуфферсизе, метод
 
@@ -65,7 +65,7 @@ virtual HRESULT DecideBufferSize(
 
 Переопределите этот метод в производном классе. Вызовите метод [**имемаллокатор:: SetProperties**](/windows/desktop/api/Strmif/nf-strmif-imemallocator-setproperties) , чтобы указать требования к буферу. Как правило, производный класс будет учитывать требования к буферу входного контакта, но это не обязательно.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ virtual HRESULT DecideBufferSize(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

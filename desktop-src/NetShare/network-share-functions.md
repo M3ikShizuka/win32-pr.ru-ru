@@ -5,11 +5,11 @@ title: Функции сетевой папки
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 640dc877c9b482cb8ebdcef0d36e6dff562fcd8c
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105683270"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067526"
 ---
 # <a name="network-share-functions"></a>Функции сетевой папки
 

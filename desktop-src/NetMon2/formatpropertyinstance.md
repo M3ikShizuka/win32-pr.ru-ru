@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Nmapi.dll
-ms.openlocfilehash: 283cab8580e3c456a3d75727ab55f2f61dc623d91b593559aa0eb2ec07e4b26e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 39d51df93a04efa8631fcfbd583075d7e3500bff
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119890784"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067619"
 ---
 # <a name="formatpropertyinstance-function"></a>Функция Форматпропертинстанце
 
@@ -67,7 +67,7 @@ DWORD WINAPIV FormatPropertyInstance(
 
 Дополнительные сведения и пример реализации [форматпропертиес](formatproperties.md)см. в разделе [Реализация форматпропертиес](implementing-formatproperties.md). Дополнительные сведения о форматировании универсального модуля форматирования для различных типов данных см. в разделе [Общие выходные данные модуля форматирования](generic-formatter-output.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -81,7 +81,7 @@ DWORD WINAPIV FormatPropertyInstance(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

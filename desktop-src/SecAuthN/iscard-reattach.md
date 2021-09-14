@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Scardssp.dll
-ms.openlocfilehash: f28caee7a40574bf7f31fdc4fb55ddd81ea9e22cca12f1664950c96922d50902
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3f5ff4cd46b2b523b0031e1389b96d9c2c3973a1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119482114"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067252"
 ---
 # <a name="iscardreattach-method"></a>Метод карточки:: reattach
 
@@ -118,7 +118,7 @@ if (FAILED(hr))
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -127,8 +127,8 @@ if (FAILED(hr))
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                                                   |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Скардмгр. h</dt> </dl>   |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
+| Заголовок<br/>                   | <dl> <dt>Скардмгр. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Скардмгр. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Scardssp.dll</dt> </dl> |
 | IID<br/>                      | Идентификатор IID \_ -карты определен как 1461AAC3-6810-11D0-918F-00AA00C18068<br/>               |

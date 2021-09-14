@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 719f66d6849a21d67d9349a9e9fd728defb4a0663e4436701d06f20209f4d5b9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dd4952d03a80dbbffb135043d024b0c0eb18966f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118384708"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143969"
 ---
 # <a name="comm_status-attribute"></a>\_атрибут состояния связи
 

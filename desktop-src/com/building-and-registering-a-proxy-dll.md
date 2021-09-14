@@ -5,11 +5,11 @@ ms.assetid: 939e6eed-2a2d-4d90-8fbb-c07142e7ba70
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 37d4cafbe2be56d9e9a02a451e3daf905496c424
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369441"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264560"
 ---
 # <a name="building-and-registering-a-proxy-dll"></a>Создание и регистрация библиотеки DLL прокси-сервера
 
@@ -72,7 +72,7 @@ HKEY_CLASSES_ROOT
          InprocServer32 = proxstub.dll
 ```
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

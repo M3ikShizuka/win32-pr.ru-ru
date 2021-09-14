@@ -4,12 +4,12 @@ ms.assetid: ad218357-82c8-4fcb-b71b-ba17564a5ca5
 title: 'Метод Итмедиаколлектион:: get_Item (Сдпблб. h)'
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3546c74201e5c1c886c6c024deb9d133072d962ca25e16dcba26fdd35972e0c8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8c68f3571dbd1f66e325dd7fa1bb30dfe6d6bc35
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119774874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145969"
 ---
 # <a name="itmediacollectionget_item-method"></a>Метод Итмедиаколлектион:: Get \_ Item
 
@@ -70,7 +70,7 @@ HRESULT get_Item(
 
 большинство списков C и C++ основаны на 0, но этот индекс основан на 1 для Visual Basic совместимости, то есть первый элемент имеет номер индекса 1.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -83,7 +83,7 @@ HRESULT get_Item(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

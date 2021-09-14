@@ -13,12 +13,12 @@ api_type:
 - UserDefined
 api_location:
 - Netmon.h
-ms.openlocfilehash: 3c6c69b66f3ff92905333a28c5dadfd79290033f0abb68cb2a790f07c6e34412
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7702ae8aad5ae24acf3835451b7b8eff3a26ceb4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119063755"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067575"
 ---
 # <a name="parserautoinstallinfo-callback-function"></a>Функция обратного вызова Парсераутоинсталлинфо
 

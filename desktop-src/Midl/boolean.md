@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: c68959cabcef1f439ffb6df30b77aeee7056f4fc
-ms.sourcegitcommit: 57758ecb246c84d65e6e0e4bd5570d9176fa39cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "104411865"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144013"
 ---
 # <a name="boolean-attribute"></a>логический атрибут
 
@@ -38,14 +38,14 @@ boolean identifier-name;
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 **Логический** тип является одним из базовых типов языка IDL. **Логический** тип может использоваться в качестве спецификатора типа в объявлениях [**const**](const.md) , объявлениях [**typedef**](typedef.md) , общих объявлениях и деклараторах функций (в виде спецификатора возвращаемого типа функции и в качестве описателя типа параметра). Контекст, в котором отображаются спецификаторы типов, см. в разделе [IDL-файл](interface-definition-idl-file.md).
 
 > [!Note]  
 > Базовый тип **Boolean** несовместим с атрибутом [**oleautomation**](oleautomation.md) . Используйте вариант \_ bool в интерфейсах, совместимых с автоматизацией.
 
- 
+ 
 
 ## <a name="see-also"></a>См. также раздел
 
@@ -66,9 +66,9 @@ boolean identifier-name;
 [**определение**](typedef.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

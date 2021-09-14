@@ -6,12 +6,12 @@ keywords:
 - IDL MIDL, атрибуты MIDL, присвоение псевдонимов и маршалирование
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0c6880dbda605c4541b8708897d67fa3561f29619fa537b09ad0ad1fe1094299
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 68ac66aa04210a878c67ee6bcf1a50ff21fa1d1d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117808463"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144050"
 ---
 # <a name="aliasing-and-marshaling-attributes"></a>Атрибуты присвоения псевдонимов и маршалирования
 

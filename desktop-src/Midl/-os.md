@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 33b5e36984783369c96b331af55adac0c97eb8cc2688829d87f7b6d2cea0d7df
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bbbef54501e195c91bdcc0cec8045f2eec763820
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119895944"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144125"
 ---
 # <a name="os-switch"></a>Параметр/OS
 
@@ -45,7 +45,7 @@ MIDL обеспечивает полную поддержку многомерн
 
 **MIDL/OS filename. idl**
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

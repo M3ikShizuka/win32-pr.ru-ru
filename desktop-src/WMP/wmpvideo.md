@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 65560b9a5633020f2bbc37209af6ce5146027323fab7e422e6feac5536d0d84d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7a918af8548ae7bc82cd4b1de1a81c685c1b5562
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119899754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066634"
 ---
 # <a name="wmpvideo"></a>вмпвидео
 
@@ -36,7 +36,7 @@ verticalAlignment="stretch"
 
 Все свойства этого элемента **Video** можно переопределить, явно указав их.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -46,7 +46,7 @@ verticalAlignment="stretch"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: ccf7c98b-8b1a-431d-b417-83f79734f691
 title: Включение JIT-активации для компонента
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9beac51cd4f97a451b372d8eeee8ef419ead3140a672ca85dcdc3740d8c52de4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7f61cc5c79270a926bb50e3408766df63f4484c8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119637704"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145678"
 ---
 # <a name="enabling-jit-activation-for-a-component"></a>Включение JIT-активации для компонента
 
@@ -30,7 +30,7 @@ ms.locfileid: "119637704"
 
 3.  Чтобы включить JIT-активацию для компонента, установите флажок **включить JIT** -активацию.
 
-4.  Нажмите **OK**.
+4.  Нажмите кнопку **ОК**.
 
 При включении JIT-активации для компонента можно включить функцию автоматического завершения для любого метода, предоставляемого этим компонентом. Дополнительные сведения см. [в разделе Включение автоматического завершения для метода](enabling-auto-done-for-a-method.md) .
 

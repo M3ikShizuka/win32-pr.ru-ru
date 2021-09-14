@@ -3,13 +3,13 @@ title: Создание окна
 description: Создание окна
 ms.assetid: e036519f-26b5-436c-b909-bb280d758e81
 ms.topic: article
-ms.date: 05/31/2018
-ms.openlocfilehash: 253eb68747ce7511c11aeeba27343d7dd56c7d0a6f78f316d72aab83d11ddd92
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.date: 09/10/2021
+ms.openlocfilehash: d05536183a2e5a2504a096a22e11bea2098f08ce
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119870034"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144666"
 ---
 # <a name="creating-a-window"></a>Создание окна
 
@@ -19,7 +19,7 @@ ms.locfileid: "119870034"
 
 Каждое окно должно быть связано с классом окна, даже если программа создает только один экземпляр этого класса. Важно понимать, что класс окна не является "классом" в смысле C++. Вместо этого это структура данных, используемая внутри операционной системы. Классы окон регистрируются в системе во время выполнения. Чтобы зарегистрировать новый класс окна, начните с заполнения структуры [**вндкласс**](/windows/win32/api/winuser/ns-winuser-wndclassa) :
 
-```C++
+```cpp
 // Register the window class.
 const wchar_t CLASS_NAME[]  = L"Sample Window Class";
 
@@ -38,11 +38,11 @@ wc.lpszClassName = CLASS_NAME;
 
 Имена классов являются локальными для текущего процесса, поэтому имя должно быть уникальным только в пределах процесса. однако стандартные элементы управления Windows также имеют классы. При использовании любого из этих элементов управления необходимо выбрать имена классов, которые не конфликтуют с именами классов элементов управления. Например, класс окна для элемента управления Button называется "Button".
 
-Структура [**вндкласс**](/windows/win32/api/winuser/ns-winuser-wndclassa) содержит другие элементы, не показанные здесь. Можно задать для них нулевое значение, как показано в этом примере, или заполнить их в. Эта структура подробно описана в документации MSDN.
+Структура [**вндкласс**](/windows/win32/api/winuser/ns-winuser-wndclassa) содержит другие элементы, не показанные здесь. Можно задать для них нулевое значение, как показано в этом примере, или заполнить их в. Эта структура подробно описана в документации по [**вндкласс**](/windows/win32/api/winuser/ns-winuser-wndclassa) .
 
 Затем передайте адрес структуры [**вндкласс**](/windows/win32/api/winuser/ns-winuser-wndclassa) в функцию [**registerClass**](/windows/desktop/api/winuser/nf-winuser-registerclassa) . Эта функция регистрирует класс окна в операционной системе.
 
-```C++
+```cpp
 RegisterClass(&wc);
 ```
 
@@ -50,7 +50,7 @@ RegisterClass(&wc);
 
 Чтобы создать новый экземпляр окна, вызовите функцию [**CreateWindowEx**](/windows/desktop/api/winuser/nf-winuser-createwindowexa) :
 
-```C++
+```cpp
 HWND hwnd = CreateWindowEx(
     0,                              // Optional window styles.
     CLASS_NAME,                     // Window class
@@ -72,7 +72,7 @@ if (hwnd == NULL)
 }
 ```
 
-Вы можете ознакомиться с подробными описаниями параметров в MSDN, но вот краткий обзор:
+Подробное описание параметров можно прочитать в документации по функции [**CreateWindowEx**](/windows/desktop/api/winuser/nf-winuser-createwindowexa) , но вот краткий обзор:
 
 - Первый параметр позволяет указать некоторые необязательные поведения для окна (например, прозрачные окна). Присвойте этому параметру значение 0 для поведения по умолчанию.
 - `CLASS_NAME` имя класса окна. Определяет тип создаваемого окна.
@@ -86,7 +86,7 @@ if (hwnd == NULL)
 
 [**CreateWindowEx**](/windows/desktop/api/winuser/nf-winuser-createwindowexa) возвращает маркер в новое окно или нуль, если функция завершается ошибкой. Чтобы отобразить окно, т. е. сделать окно видимым, передайте в функцию [**ShowWindow**](/windows/desktop/api/winuser/nf-winuser-showwindow) маркер окна:
 
-```C++
+```cpp
 ShowWindow(hwnd, nCmdShow);
 ```
 
@@ -94,7 +94,7 @@ ShowWindow(hwnd, nCmdShow);
 
 Ниже приведен полный код для создания окна. Помните, что `WindowProc` все еще является прямым объявлением функции.
 
-```C++
+```cpp
 // Register the window class.
 const wchar_t CLASS_NAME[]  = L"Sample Window Class";
 
@@ -133,6 +133,6 @@ ShowWindow(hwnd, nCmdShow);
 
 Поздравляем, вы создали окно! Сейчас окно не содержит никакого содержимого или взаимодействует с пользователем. В реальном приложении GUI окно будет реагировать на события пользователя и операционной системы. В следующем разделе описывается, как сообщения в окне предоставляют такую сортировку.
 
-### <a name="next"></a>Следующая
+### <a name="next"></a>Следующий
 
 [Сообщения окна](window-messages.md)

@@ -10,12 +10,12 @@ keywords:
 - Источник изображения для обложек, кнопок
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 37045da71b8417856ec72ac7e57a6a787426ba486993b9fef03910b4d32e663d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6de50f72c8af34fa4f3e44507e172cae6890dc47
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119861834"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066692"
 ---
 # <a name="pushed-secondary-image-source"></a>Источник отправленного дополнительного образа
 

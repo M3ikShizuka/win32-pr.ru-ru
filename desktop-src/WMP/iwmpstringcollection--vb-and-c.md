@@ -15,12 +15,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 11bd88f462c3fa6f7a2ce878244efbdc95b8a2e9c2674c76e0f828284c655511
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5360d820804793ae164deba9eaeda1d66f62ad43
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120003604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066731"
 ---
 # <a name="iwmpstringcollection-vb-and-c-interface"></a>Интерфейс Ивмпстрингколлектион (VB и C#)
 
@@ -43,19 +43,19 @@ ms.locfileid: "120003604"
 
 | Метод                                                                         | Описание                                           |
 |:-------------------------------------------------------------------------------|:------------------------------------------------------|
-| [**Item**](wmplibiwmpstringcollection-iwmpstringcollection-item--vb-and-c.md) | Возвращает строку по указанному индексу.<br/> |
+| [**Элемент**](wmplibiwmpstringcollection-iwmpstringcollection-item--vb-and-c.md) | Возвращает строку по указанному индексу.<br/> |
 
 
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Интерфейс **ивмпстрингколлектион (VB и C#)** имеет следующие свойства.
 
 
 
-| Свойство                                                                                    | Тип доступа          | Описание                                                   |
+| Свойство.                                                                                    | Тип доступа          | Описание                                                   |
 |:--------------------------------------------------------------------------------------------|:---------------------|:--------------------------------------------------------------|
 | [**расчета**](wmplibiwmpstringcollection-iwmpstringcollection-count--vb-and-c.md)<br/> | Только для чтения<br/> | Возвращает число элементов в коллекции строк.<br/> |
 
@@ -75,7 +75,7 @@ ms.locfileid: "120003604"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -85,7 +85,7 @@ ms.locfileid: "120003604"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

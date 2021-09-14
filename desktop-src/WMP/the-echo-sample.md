@@ -12,12 +12,12 @@ keywords:
 - Пример подключаемого модуля Echo DSP, сведения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 103054e82157d83085713937759de8aa9ed250a5491146ebe0c71559ab1ca338
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 498f2dfe6a59257b8a16dc31a5b4cb751d649cd6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119762794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264739"
 ---
 # <a name="the-echo-sample"></a>Пример эха
 

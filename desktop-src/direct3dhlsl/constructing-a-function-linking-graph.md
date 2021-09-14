@@ -4,12 +4,12 @@ description: В этой статье мы покажем, как создава
 ms.assetid: 82C3109E-8571-49D2-A8BF-298E30E1281B
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f58aa9f942d31e0321924a28ec9e9ea5d5e177d1631e38cfa9f14427de38212c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c037e7ea111d11d24df173ffba7e56c8f486af82
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117909220"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264363"
 ---
 # <a name="constructing-a-function-linking-graph-and-linking-it-to-compiled-code"></a>Создание графа связывания функций и связывание его с скомпилированным кодом
 
@@ -17,7 +17,7 @@ ms.locfileid: "117909220"
 
 **Цель:** Для создания графа связывания функций и связывания его с скомпилированным кодом.
 
-## <a name="prerequisites"></a>Необходимые компоненты
+## <a name="prerequisites"></a>Предварительные требования
 
 Предполагается, что вы знакомы с C++. Также вы должны быть знакомы с основными принципами программирования графики.
 
@@ -25,7 +25,7 @@ ms.locfileid: "117909220"
 
 **Время на выполнение:** 30 минут.
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="1-construct-a-function-linking-graph-for-the-vertex-shader"></a>1. создайте граф связывания функций для шейдера вершин.
 

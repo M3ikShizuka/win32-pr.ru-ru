@@ -4,12 +4,12 @@ description: Предыдущие модули изучили создание �
 ms.assetid: C35FBC18-201B-4175-8977-9DAF3914E515
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fe0613fa8774e5465dc83349fd4cbadd06b54acfa871950e91477f7a525ae141
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9f5dff1d7e6b572326fa75662dc855279b1a1c93
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118388041"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144585"
 ---
 # <a name="module-4-user-input"></a>Модуль 4. Ввод данных пользователем
 

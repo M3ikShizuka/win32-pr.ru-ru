@@ -6,12 +6,12 @@ keywords:
 - скачивание битов, заголовок HTTP
 ms.topic: article
 ms.date: 10/04/2018
-ms.openlocfilehash: 92e9fe2c1671d26854da119938b426bc662324fe701d7f24d1885ff7b88e2df1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 0b7858d5b2467f52681b325e2bfbe65b96889e0d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119528533"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145410"
 ---
 # <a name="how-to-get-the-last-set-of-http-headers-received-for-each-file-in-a-bits-download-job"></a>Получение последнего набора заголовков HTTP, полученных для каждого файла в задании загрузки BITS
 
@@ -25,7 +25,7 @@ ms.locfileid: "119528533"
 
 -   Microsoft Visual Studio;
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="step-1-include-the-required-bits-header-files"></a>Шаг 1. Включение необходимых файлов заголовков BITS
 

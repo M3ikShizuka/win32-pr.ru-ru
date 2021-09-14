@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Ncrypt.dll
-ms.openlocfilehash: ff8bd1d23315894a3e858a536d10883f2fedcced792575157de824c02f3217ad
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5539ef2529a4f3af86d34ae0e9d44cd31a8f4289
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118907184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067106"
 ---
 # <a name="sslchangenotify-function"></a>Функция Сслчанженотифи
 
@@ -58,7 +58,7 @@ SECURITY_STATUS WINAPI SslChangeNotify(
 
 Возвращает значение " **\_ не \_ поддерживается**".
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -66,7 +66,7 @@ SECURITY_STATUS WINAPI SslChangeNotify(
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                     |
-| Header<br/>                   | <dl> <dt>Сслпровидер. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Сслпровидер. h</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Ncrypt.dll</dt> </dl>    |
 
 

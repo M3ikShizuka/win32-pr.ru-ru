@@ -4,12 +4,12 @@ description: В этом разделе описывается использо�
 ms.assetid: b864269f-c1f7-4253-888d-04d1ed3e6587
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 673397d6974d2191acc1f5e30ccf8cae8b5b5f4b0ab5cae305360fef3e7186f5
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e77214e917d4d74b0e1eebcc3de245d136157976
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119894474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145597"
 ---
 # <a name="compute-shaders-on-downlevel-hardware"></a>Вычисление шейдеров на низкоуровневых устройствах
 

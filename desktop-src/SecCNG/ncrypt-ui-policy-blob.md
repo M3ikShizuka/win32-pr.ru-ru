@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Ncrypt_provider.h
-ms.openlocfilehash: 21f9f6c0f6956ffa89da45c9dcd23727c0b3cea2d4f31131713f9ed5a0c3a2fd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c45b53e051f021ab3dcce6dab4e2317572338624
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118907604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067119"
 ---
 # <a name="ncrypt_ui_policy_blob-structure"></a>\_ \_ \_ Структура большого двоичного объекта политики пользовательского интерфейса NCRYPT
 
@@ -39,7 +39,7 @@ typedef struct __NCRYPT_UI_POLICY_BLOB {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -93,7 +93,7 @@ typedef struct __NCRYPT_UI_POLICY_BLOB {
 
 Эта структура содержится в \_ заголовке NCrypt provider. h. чтобы использовать структуру, необходимо загрузить [пакет средств разработки поставщика служб шифрования](/collaborate/connect-redirect?InvitationID=CSDK-GYTG-R2PX&ProgramID=7264) из Microsoft Подключение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -101,7 +101,7 @@ typedef struct __NCRYPT_UI_POLICY_BLOB {
 |-------------------------------------|-----------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                          |
-| Header<br/>                   | <dl> <dt>NCrypt \_ provider. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>NCrypt \_ provider. h</dt> </dl> |
 
 
 

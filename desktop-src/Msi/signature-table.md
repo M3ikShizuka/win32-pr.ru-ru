@@ -4,12 +4,12 @@ ms.assetid: 4780356f-e02a-45d9-883c-4f84867dbdea
 title: Таблица сигнатур
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a5ddda5c501b24e12498f356c10a1aa2a3549426daca5e4cc3c19c1f62ed04cc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: efb75155c4c7b8ddf4a82706bc38f09d0af75260
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118624651"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067751"
 ---
 # <a name="signature-table"></a>Таблица сигнатур
 
@@ -21,15 +21,15 @@ ms.locfileid: "118624651"
 
 | Столбец     | Type                               | Ключ | Допускает значения NULL |
 |------------|------------------------------------|-----|----------|
-| Подпись  | [Идентификатор](identifier.md)       | Д   | Нет        |
+| Подпись  | [Идентификатор](identifier.md)       | Да   | Нет        |
 | FileName   | [Text](text.md)                   | Нет   | Нет        |
-| MinVersion | [Text](text.md)                   | Нет   | Д        |
-| MaxVersion | [Text](text.md)                   | Нет   | Д        |
-| MinSize    | [даублеинтежер](doubleinteger.md) | Нет   | Д        |
-| MaxSize    | [даублеинтежер](doubleinteger.md) | Нет   | Д        |
-| MinDate    | [даублеинтежер](doubleinteger.md) | Нет   | Д        |
-| MaxDate    | [даублеинтежер](doubleinteger.md) | Нет   | Д        |
-| Языки  | [Text](text.md)                   | Нет   | Д        |
+| MinVersion | [Text](text.md)                   | Нет   | Да        |
+| MaxVersion | [Text](text.md)                   | Нет   | Да        |
+| MinSize    | [даублеинтежер](doubleinteger.md) | Нет   | Да        |
+| MaxSize    | [даублеинтежер](doubleinteger.md) | Нет   | Да        |
+| MinDate    | [даублеинтежер](doubleinteger.md) | Нет   | Да        |
+| MaxDate    | [даублеинтежер](doubleinteger.md) | Нет   | Да        |
+| Языки  | [Text](text.md)                   | Нет   | Да        |
 
 
 
@@ -129,7 +129,7 @@ ms.locfileid: "118624651"
 
 
 
-| Свойство | Образец\_ |
+| Свойство. | Образец\_ |
 |----------|-------------|
 | ВЕРСИЮ MSIDLL   | Версию msidll      |
 
@@ -159,7 +159,7 @@ ms.locfileid: "118624651"
 
 
 
-| Bits | Content                                             |
+| Bits | Содержимое                                             |
 |------|-----------------------------------------------------|
 | 0 – 4  | День месяца (1-31)                             |
 | 5-8  | Месяц (1 = Январь, 2 = Февраль и т. д.)        |
@@ -173,7 +173,7 @@ ms.locfileid: "118624651"
 
 
 
-| Bits  | Content                     |
+| Bits  | Содержимое                     |
 |-------|-----------------------------|
 | 0 – 4   | Секунды, разделенные на 2        |
 | 5-10  | Мин (0-59)              |

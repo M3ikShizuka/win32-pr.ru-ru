@@ -4,12 +4,12 @@ description: Трехмерная векторная точка — произв
 ms.assetid: 8E6EA6CD-B5BB-4D64-8846-F7B9F7135582
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fe7e74d0e1cb623377c63de6717e546b5c0ba74c2609ace8d0f01de252f28f25
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2598053abed93675107f15af762e0844d4938fbf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119625544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264203"
 ---
 # <a name="dp3-sm4---asm"></a>DP3 (SM4-ASM)
 

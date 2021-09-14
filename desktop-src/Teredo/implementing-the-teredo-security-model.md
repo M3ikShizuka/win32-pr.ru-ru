@@ -4,12 +4,12 @@ description: модель безопасности Teredo основана на 
 ms.assetid: ee81e5f1-e3e0-440e-a53f-2accced476bc
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 43cad78b7c1512e0f1c632ecd27d0bb9580ac3796d6d36001a1cd19fb72c7b22
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a39668f8e1c86e0cd5b12056df5eb9a5fd9cd3ee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119001752"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066858"
 ---
 # <a name="implementing-the-teredo-security-model"></a>Реализация модели безопасности Teredo
 

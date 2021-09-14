@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a60c85920d647f99ed8ba8478da51183c3ba63efa733c0bc627c16b040b70965
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cd1adac5f4aa8b1f58c023a556af04b8eae4bd8e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117745915"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264696"
 ---
 # <a name="iwmpnetworklostpackets-property"></a>Свойство Ивмпнетворк:: Лостпаккетс
 

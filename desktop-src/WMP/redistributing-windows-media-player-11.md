@@ -4,12 +4,12 @@ description: распространение проигрыватель Windows M
 ms.assetid: 3348821f-6d72-40c2-954b-0046ce502401
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ec17042165ed891370d1543fad303150c4b21d1f1db7f9da38de9f75d02876a5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 674da0298196f0749a549670bf9bd7c4095b6e7a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117746563"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066680"
 ---
 # <a name="redistributing-windows-media-player-11"></a>распространение проигрыватель Windows Media 11
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: f7ffee6a55191f8f41d7121f3801a4a6392f9869803ded40ed891817146828f1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7410fbee4ece729d1579f525731bddaceded1153
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118955403"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145210"
 ---
 # <a name="camthreadcallworker-method"></a>Камсреад. Каллворкер, метод
 
@@ -61,7 +61,7 @@ DWORD CallWorker(
 
 Этот метод удерживает блокировку [**камсреад:: m \_ акцесслокк**](camthread-m-accesslock.md) для сериализации запросов. Поэтому Вызывайте этот метод из самого потока или из любой функции члена, которая выполняется в контексте потока.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -72,7 +72,7 @@ DWORD CallWorker(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

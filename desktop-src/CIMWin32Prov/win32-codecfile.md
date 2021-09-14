@@ -48,12 +48,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 1d9f41178c69f40513b26de5221af6eb7b5e425acf5c4893f2de87fb18211291
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fc7a6073ab2841fde4492cd59ae1696aeca9f6a7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120079914"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145313"
 ---
 # <a name="win32_codecfile-class"></a>\_Класс Win32 кодекфиле
 
@@ -104,7 +104,7 @@ class Win32_CodecFile : CIM_DataFile
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ кодекфиле** имеет следующие типы членов:
 
@@ -125,10 +125,10 @@ class Win32_CodecFile : CIM_DataFile
 | [**компрессекс**](compressex-method-in-class-win32-codecfile.md)                                   | Сжимает логический файл (или каталог), указанный в пути объекта.<br/>                                                                                                                                    |
 | [**Копировать**](copy-method-in-class-win32-codecfile.md)                                               | Копирует логический файл или каталог, указанный в пути к объекту, в расположение, указанное входным параметром.<br/>                                                                                         |
 | [**копекс**](copyex-method-in-class-win32-codecfile.md)                                           | Метод класса, копирующий логический файл или каталог, указанный в пути к объекту, в расположение, указанное параметром FileName.<br/>                                                                    |
-| [**Удален**](delete-method-in-class-win32-codecfile.md)                                           | Удаляет логический файл (или каталог), указанный в пути объекта.<br/>                                                                                                                                       |
+| [**Удаление**](delete-method-in-class-win32-codecfile.md)                                           | Удаляет логический файл (или каталог), указанный в пути объекта.<br/>                                                                                                                                       |
 | [**делетикс**](deleteex-method-in-class-win32-codecfile.md)                                       | Удаляет логический файл (или каталог), указанный в пути объекта.<br/>                                                                                                                                       |
 | [**жетеффективепермиссион**](geteffectivepermission-method-in-class-win32-codecfile.md)           | Определяет, имеет ли вызывающий объект агрегированные разрешения, заданные аргументом **разрешения** , не только для объекта File, но и для общего ресурса, в котором находится файл или каталог (если он находится в общей папке).<br/> |
-| [**Имени**](rename-method-in-class-win32-codecfile.md)                                           | Метод класса, который переименовывает логический файл (или каталог), указанный в пути к объекту.<br/>                                                                                                                     |
+| [**Переименовать**](rename-method-in-class-win32-codecfile.md)                                           | Метод класса, который переименовывает логический файл (или каталог), указанный в пути к объекту.<br/>                                                                                                                     |
 | [**такеовнершип**](takeownership-method-in-class-win32-codecfile.md)                             | Получает владение логическим файлом, указанным в пути объекта.<br/>                                                                                                                                         |
 | [**такеовнершипекс**](takeownershipex-method-in-class-win32-codecfile.md)                         | Метод класса, который получает владение логическим файлом, указанным в пути объекта.<br/>                                                                                                                       |
 | [**Распаковать**](uncompress-method-in-class-win32-codecfile.md)                                   | Распаковывает логический файл (или каталог), указанный в пути объекта.<br/>                                                                                                                                  |
@@ -138,7 +138,7 @@ class Win32_CodecFile : CIM_DataFile
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ кодекфиле** имеет следующие свойства.
 
@@ -767,7 +767,7 @@ class Win32_CodecFile : CIM_DataFile
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -949,7 +949,7 @@ class Win32_CodecFile : CIM_DataFile
 
 </dd> <dt>
 
-**Version**
+**Версия**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -989,7 +989,7 @@ class Win32_CodecFile : CIM_DataFile
 
 Класс **Win32 \_ кодекфиле** является производным от [**CIM- \_ файла**](cim-datafile.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -1003,7 +1003,7 @@ class Win32_CodecFile : CIM_DataFile
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

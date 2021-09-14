@@ -4,12 +4,12 @@ ms.assetid: 9d085a34-9a49-4447-8d11-56d71a2a3592
 title: 'Метод Итмедиаколлектион:: get_Count (Сдпблб. h)'
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9ef5e1c2c204f31d9e2ba18b6b0ba04a8c8d988455b9e587f86f33655ecc5a13
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a1f5a4fb6d7f1b942f37aae1356c7b49e0e60f77
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119003282"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145978"
 ---
 # <a name="itmediacollectionget_count-method"></a>Метод Итмедиаколлектион:: Get \_ Count
 

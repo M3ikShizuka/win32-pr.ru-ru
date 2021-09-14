@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Ncrypt.dll
-ms.openlocfilehash: 3a9d7a25e5dd2035bd0b060ae11904e351489309b3a5e3c65c0e1582dce77500
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cf8e20008d2a77cae3a47728f4e38fff8ae0b09b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118906176"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127265411"
 ---
 # <a name="sslgeneratesessionkeys-function"></a>Функция Сслженератесессионкэйс
 
@@ -106,7 +106,7 @@ SECURITY_STATUS WINAPI SslGenerateSessionKeys(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -114,7 +114,7 @@ SECURITY_STATUS WINAPI SslGenerateSessionKeys(
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                     |
-| Header<br/>                   | <dl> <dt>Сслпровидер. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Сслпровидер. h</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Ncrypt.dll</dt> </dl>    |
 
 

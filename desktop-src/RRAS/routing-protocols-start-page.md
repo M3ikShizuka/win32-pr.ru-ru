@@ -4,12 +4,12 @@ description: Протоколы маршрутизации
 ms.assetid: 85302ad2-77f9-474e-a20f-ae64bfd3b45c
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6e0e330e12e30328326b3ae55f8983ebb0bdeb27fdd001082d172d60f960e6d0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 836c6bcaddafc22243367a4dec98a0faac886ee6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119672684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067323"
 ---
 # <a name="routing-protocols"></a>Протоколы маршрутизации
 

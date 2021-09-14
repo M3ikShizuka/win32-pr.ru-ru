@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 33911ba5ff55ef5e3dd377613dd98532ecd97486
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "105681604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144017"
 ---
 # <a name="bindable-attribute"></a>bindable - атрибут
 
@@ -79,7 +79,7 @@ interface | dispinterface interface-name
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Благодаря поддержке привязки данных атрибут **\[ BIND \]** позволяет клиенту получать уведомления при каждом изменении значения свойства. (Если требуется, чтобы клиент получал уведомления об ожидающих изменениях свойства, используйте атрибут [**\[ рекуестедит \]**](requestedit.md) .)
 
@@ -160,6 +160,6 @@ dispinterface MyObject
 [**vararg**](vararg.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

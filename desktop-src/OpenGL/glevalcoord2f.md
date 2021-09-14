@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a0147890cab18fc8e3c3f32fa44d0967bfb059bf952bc2019f471162dddef842
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3e586991b319e047957ae53362534c1bb0c90590
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119061735"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067511"
 ---
 # <a name="glevalcoord2f-function"></a>Функция glEvalCoord2f
 
@@ -115,7 +115,7 @@ OpenGL использует вычисленные значения вместо
 
 [**глисенаблед**](glisenabled.md) с аргументом \_ " \_ Обычная настройка"
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -129,7 +129,7 @@ OpenGL использует вычисленные значения вместо
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

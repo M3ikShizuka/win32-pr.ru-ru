@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f176b03f9d33ee1bbe1d0e805dfc109de477b7499f8fd624ba7732709dc61a10
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 72c2bbb724fc292a5e3942bf2b6de61b5631cdc0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118385240"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144006"
 ---
 # <a name="broadcast-attribute"></a>атрибут Broadcast
 
@@ -87,7 +87,7 @@ interface interface-name
 
 Если удаленная процедура передает свой вызов всем узлам в локальной сети, он должен использовать последовательность протокола [**нкадг \_ IP \_ UDP**](ncadg-ip-udp.md) или [**нкадг \_ IPX**](ncadg-ipx.md) . Обратите внимание, что размер **\[ широковещательного \]** пакета определяется используемой службой датаграмм.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

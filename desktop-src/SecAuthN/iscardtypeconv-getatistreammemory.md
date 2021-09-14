@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Scardssp.dll
-ms.openlocfilehash: 6520b9af0cf8f322045dfbe92ffc66ef624eadfa7b1beef0f528c6b299d1c2bd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bdd828921f18c3d06edd2d41da189260a4ed4394
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118922403"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067245"
 ---
 # <a name="iscardtypeconvgetatistreammemory-method"></a>Метод Искардтипеконв:: Жетатистреаммемори
 
@@ -79,7 +79,7 @@ HRESULT GetAtIStreamMemory(
 
 Счетчик ссылок **IStream** будет увеличиваться для каждого полученного указателя *ппмем* .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -88,8 +88,8 @@ HRESULT GetAtIStreamMemory(
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                                                   |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Скарддат. h</dt> </dl>   |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
+| Заголовок<br/>                   | <dl> <dt>Скарддат. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Скарддат. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Scardssp.dll</dt> </dl> |
 | IID<br/>                      | IID \_ искардтипеконв определен как 53B6AA63-3F56-11D0-916B-00AA00C18068<br/>       |

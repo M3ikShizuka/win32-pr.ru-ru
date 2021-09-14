@@ -4,12 +4,12 @@ description: Ввод с помощью мыши
 ms.assetid: EB074CB6-2BB3-4593-A843-8EE25CA028BE
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 28ff39b798b1438bca33bc9ab9b077333dca351e32a5945b939beba2c13f5894
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d71a560baf110892ba1b8f277c55fc124888b62b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119897052"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144581"
 ---
 # <a name="mouse-input-get-started-with-win32-and-c"></a>ввод с помощью мыши (Начало работы с Win32 и C++)
 
@@ -27,7 +27,7 @@ Windows поддерживает мыши до пяти кнопок: left, бл
 
 В документации MSDN для обозначения *основной* и *дополнительной* кнопок используется *кнопка вправо* и *левая кнопка* . Эта терминология согласуется с именами оконных сообщений для ввода с помощью мыши. Просто помните, что физическая левая и правая кнопки могут быть заменены.
 
-## <a name="next"></a>Следующая
+## <a name="next"></a>Следующий
 
 [Реагирование на щелчки мыши](mouse-clicks.md)
 

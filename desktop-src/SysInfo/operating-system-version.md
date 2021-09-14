@@ -4,12 +4,12 @@ ms.assetid: 1a70b1d9-ed66-4201-9921-4e26e4001020
 title: Версия операционной системы
 ms.topic: article
 ms.date: 09/15/2020
-ms.openlocfilehash: ae90f4eac5546fccd7513d781234896fbbbda93ff3723a9ac1db438321ecf214
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 73eb9a81880f29f9292713af46c5c79a7e9eb2de
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117763956"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066974"
 ---
 # <a name="operating-system-version"></a>Версия операционной системы
 
@@ -19,19 +19,19 @@ ms.locfileid: "117763956"
 
 | Операционная система | номер версии; |
 |------------------|----------------|
-| Windows 10,       | 10,0\*         |
-| Windows Server 2019 | 10,0\*      |
+| Windows 10       | 10,0\*         |
+| Windows Server 2019 | 10,0\*      |
 | Windows Server 2016 | 10,0\*      |
-| Windows 8.1      | 6.3\*          |
+| Windows 8.1      | 6.3\*          |
 | Windows Server 2012 R2 | 6.3\*    |
 | Windows 8        | 6.2            |
-| Windows Server 2012 | 6.2         |
+| Windows Server 2012 | 6.2         |
 | Windows 7        | 6.1            |
 | Windows Server 2008 R2 | 6.1      |
-| Windows Server 2008 | 6,0         |
-| Windows Vista    | 6,0            |
+| Windows Server 2008 | 6.0         |
+| Windows Vista    | 6.0            |
 | Windows Server 2003 R2 | 5,2      |
-| Windows Server 2003 | 5,2         |
+| Windows Server 2003 | 5,2         |
 | Windows XP 64-bit Edition | 5,2   |
 | Windows XP | 5.1                  |
 | Windows 2000     | 5.0            |

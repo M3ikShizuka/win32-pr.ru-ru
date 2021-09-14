@@ -13,11 +13,11 @@ api_type:
 - COM
 api_location: ''
 ms.openlocfilehash: 9953bc1119d7e203936ca7e78048a4083a996ec2
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122881046"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145670"
 ---
 # <a name="errorinfo-collection"></a>Коллекция ErrorInfo
 
@@ -42,7 +42,7 @@ ms.locfileid: "122881046"
 
 Можно переходить к этой коллекции из каждой коллекции, за исключением **errorInfo**, [**инпроксерверс**](inprocservers.md), [**PropertyInfo**](propertyinfo.md), [**релатедколлектионинфо**](relatedcollectioninfo.md), [**root**](root.md)и [**вовинпроксерверс**](wowinprocservers.md).
 
-## <a name="properties"></a>Свойства
+## <a name="properties"></a>Элемент Property
 
 Объект [**комадминкаталогобжект**](comadmincatalogobject.md) в коллекции поддерживает следующие свойства:
 

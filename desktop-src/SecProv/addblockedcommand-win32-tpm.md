@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Win32_tpm.dll
-ms.openlocfilehash: c2ea7c975b1e3bb14fa2a2b826a8a64108a4b4b6dae3ac36c9340d2bb34ed3f0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a8f7d01369d14578cfb88467bfc428a7051bcbf8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119004672"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127265259"
 ---
 # <a name="addblockedcommand-method-of-the-win32_tpm-class"></a>Метод Аддблоккедкомманд \_ класса TPM Win32
 
@@ -205,7 +205,7 @@ uint32 AddBlockedCommand(
 
  
 
-## <a name="security-considerations"></a>Соображения безопасности
+## <a name="security-considerations"></a>Вопросы безопасности
 
 Внесение изменений в список заблокированных команд по умолчанию может представлять угрозу безопасности и конфиденциальности компьютера.
 

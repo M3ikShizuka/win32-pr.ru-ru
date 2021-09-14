@@ -4,12 +4,12 @@ ms.assetid: 663b6b3b-2a50-4586-9506-600a59869abe
 title: Фильтр захвата VFW
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 679f8e736564534948d05fe25ecb1bc18bbb787df370aca0f9a3752960f719ef
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1eadc2c8a22ed6e00ff76d79a0b7ce2db012abb4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119071958"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144853"
 ---
 # <a name="vfw-capture-filter"></a>Фильтр захвата VFW
 

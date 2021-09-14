@@ -1,7 +1,7 @@
 ---
 description: Метод Инитиалсреадпрок вызывает основную процедуру потока.
 ms.assetid: 1546c214-7ea9-4484-974b-dbd4b2b3e296
-title: CAMThread.Iniметод Тиалсреадпрок (Вксутил. h)
+title: Камсреад. Инитиалсреадпрок, метод (Вксутил. h)
 ms.topic: reference
 ms.date: 05/31/2018
 topic_type:
@@ -16,14 +16,14 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: d12e8d41ac0c6e1fd2af06c21accbb5c62e4eb25f2fc3f6c36988101a9b64d89
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cd7fd0aa12d0659776db7e39fb223095762fc209
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119540304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145173"
 ---
-# <a name="camthreadinitialthreadproc-method"></a>CAMThread.Iniметод Тиалсреадпрок
+# <a name="camthreadinitialthreadproc-method"></a>Камсреад. Инитиалсреадпрок, метод
 
 `InitialThreadProc`Метод вызывает основную процедуру потока.
 
@@ -59,7 +59,7 @@ DWORD InitialThreadProc(
 
 Этот метод вызывает метод [**камсреад:: коинитиализехелпер**](camthread-coinitializehelper.md) , а затем среадпрок.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ DWORD InitialThreadProc(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

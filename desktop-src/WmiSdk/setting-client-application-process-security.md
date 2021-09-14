@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Настройка безопасности процесса клиентского приложения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7be6b3f6e632ade53700bbe81afc7698a06fe2ff038e0c57c1b4a7eed44afa68
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8bfa0a42390ffa433cff01300b0976d40553665c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117739478"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066523"
 ---
 # <a name="setting-client-application-process-security"></a>Настройка безопасности процесса клиентского приложения
 

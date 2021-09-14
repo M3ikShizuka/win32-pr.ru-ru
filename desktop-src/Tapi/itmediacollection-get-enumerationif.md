@@ -4,12 +4,12 @@ ms.assetid: d5f1e10f-e5ad-45e6-a5ec-024905603012
 title: 'Метод Итмедиаколлектион:: get_EnumerationIf (Сдпблб. h)'
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: dfe14475e216b5143b599aab50d12d1d0c548b5f64dd8e44edd2e6aab249905c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 28a7e7d85c1f7a433a31360fabc8b5dac71e68ad
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119060862"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145973"
 ---
 # <a name="itmediacollectionget_enumerationif-method"></a>Метод Итмедиаколлектион:: Get \_ енумератиониф
 
@@ -63,7 +63,7 @@ HRESULT get_EnumerationIf(
 
 TAPI вызывает метод **AddRef** в интерфейсе [**иенуммедиа**](ienummedia.md) , возвращенном методом **итмедиаколлектион:: Get \_ енумератионлф**. Приложение должно вызвать **выпуск** в интерфейсе **иенуммедиа** , чтобы освободить ресурсы, связанные с ним.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ TAPI вызывает метод **AddRef** в интерфейсе [**иену�
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

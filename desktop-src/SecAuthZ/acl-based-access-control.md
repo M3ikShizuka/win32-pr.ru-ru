@@ -4,12 +4,12 @@ ms.assetid: d6219438-711a-4eda-a893-9095bce3a07d
 title: Управление доступом на основе ACL
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 52867b78114474e1b7827bddf8fd17cd2f3fd71cd88b62cff25397e8bab9b4ae
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6b477f998b7866c66860b94c3ff1266392f49373
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117785169"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067194"
 ---
 # <a name="acl-based-access-control"></a>Управление доступом на основе ACL
 

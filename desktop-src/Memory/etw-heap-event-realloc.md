@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - ntwmi.h
-ms.openlocfilehash: 705f31eaf403c4edd608c0b3347713e43ec3c81746b5efde90e14b7213425963
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7aec225793967c38b97fecae88d28141e48a3cfd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119067874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144410"
 ---
 # <a name="etw_heap_event_realloc-event"></a>\_ \_ \_ Событие перераспределения события кучи ETW
 
@@ -100,7 +100,7 @@ typedef struct ETW_HEAP_EVENT_REALLOC
 
 Событие **\_ \_ \_ перераспределения события кучи ETW** регистрируется во всех перераспределениях кучи.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -112,7 +112,7 @@ typedef struct ETW_HEAP_EVENT_REALLOC
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

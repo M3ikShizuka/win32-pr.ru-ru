@@ -7,12 +7,12 @@ keywords:
 - имена функций OpenGL
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a7729ca1f8a092c261a2ae87a835b51ea253ff2d09de710a830458c0825642bb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7e06d04d1acde3ddf9baebd4c5ab44b4f55cb126
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118936884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127265619"
 ---
 # <a name="opengl-function-names"></a>Имена функций OpenGL
 

@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 67891ccd65aaa56fc41dd077ae46bd4bf61f816cdc02afeb65964886cbaf9562
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 80d66725415d86aea44138f23fb3748e3187820f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119673134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067343"
 ---
 # <a name="ras_port_0-structure"></a>\_Структура порта \_ 0 RAS
 
@@ -49,7 +49,7 @@ typedef struct _RAS_PORT_0 {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -147,7 +147,7 @@ typedef struct _RAS_PORT_0 {
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -156,12 +156,12 @@ typedef struct _RAS_PORT_0 {
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                           |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                 |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                                                |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                       |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                       |
 | Заголовок<br/>                   | <dl> <dt>Рассапи. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

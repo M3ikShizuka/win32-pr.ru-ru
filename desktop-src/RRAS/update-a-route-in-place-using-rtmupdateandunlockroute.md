@@ -4,12 +4,12 @@ description: Следующая процедура описывает шаги, 
 ms.assetid: 3598a28f-8ade-4b3f-9d31-4f2c84df2dd6
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 95429383b3c13bfb0a02282425c004f77205ba494ac4026c8b066db0726b9966
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6cb79b86645d77f0ee44ffd06b8ef6f403dbd8ac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120101724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127265563"
 ---
 # <a name="update-a-route-in-place-using-rtmupdateandunlockroute"></a>Обновление маршрута с помощью Ртмупдатеандунлоккрауте
 

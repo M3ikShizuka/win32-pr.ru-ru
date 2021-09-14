@@ -4,12 +4,12 @@ description: Узнайте, как управлять жизненным цик
 ms.assetid: 0e522ded-8976-4cdd-9a61-eae7834c896b
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 776a10ec4e7a873c5e8b86c3d2bfe91fd1531051d599831151d3dbec5ed3d70b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 495e657863150612e5b8efa21fff0b00c7a936b9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119897443"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144606"
 ---
 # <a name="managing-the-lifetime-of-an-object"></a>Управление жизненным циклом объекта
 
@@ -19,7 +19,7 @@ ms.locfileid: "119897443"
 
 -   [**QueryInterface**](/windows/desktop/api/unknwn/nf-unknwn-iunknown-queryinterface(q))
 -   [**AddRef**](/windows/desktop/api/unknwn/nf-unknwn-iunknown-addref)
--   [**Release**](/windows/desktop/api/unknwn/nf-unknwn-iunknown-release)
+-   [**Выпуск**](/windows/desktop/api/unknwn/nf-unknwn-iunknown-release)
 
 Метод [**QueryInterface**](/windows/desktop/api/unknwn/nf-unknwn-iunknown-queryinterface(q)) позволяет программе запрашивать возможности объекта во время выполнения. Мы будем говорить подробнее об этом в следующем разделе, [запросив объект для интерфейса](asking-an-object-for-an-interface.md). Методы [**AddRef**](/windows/desktop/api/unknwn/nf-unknwn-iunknown-addref) и [**Release**](/windows/desktop/api/unknwn/nf-unknwn-iunknown-release) используются для управления временем существования объекта. Это тема этого раздела.
 
@@ -119,6 +119,6 @@ if (SUCCEEDED(hr))
 
 Обратите внимание, что в обоих случаях вызов [**выпуска**](/windows/desktop/api/unknwn/nf-unknwn-iunknown-release) является последним, который происходит перед тем, как указатель выходит из области действия. Также обратите внимание, что метод **Release** вызывается только после проверки **значения HRESULT** на успешное выполнение. Например, если вызов [**CoCreateInstance**](/windows/desktop/api/combaseapi/nf-combaseapi-cocreateinstance) завершается ошибкой, то указатель *пфилеопен* является недопустимым. Поэтому вызов метода **Release** с указателем будет ошибкой.
 
-## <a name="next"></a>Следующая
+## <a name="next"></a>Следующий
 
 [Запрос объекта для интерфейса](asking-an-object-for-an-interface.md)

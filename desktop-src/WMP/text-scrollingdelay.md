@@ -3,7 +3,7 @@ title: TEXT. Скроллингделай
 description: Атрибут Скроллингделай указывает или получает временную задержку между перемещениями с прокруткой.
 ms.assetid: b965fe8f-c809-431f-b8fe-f7c3060068ac
 keywords:
-- Проигрыватель Windows Media TEXT. Скроллингделай
+- проигрыватель Windows Media TEXT. скроллингделай
 topic_type:
 - apiref
 api_name:
@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: e81259ca84c62327bea67ae70d3f9ec3363450fb
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105675607"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145833"
 ---
 # <a name="textscrollingdelay"></a>TEXT. Скроллингделай
 
@@ -31,7 +31,7 @@ ms.locfileid: "105675607"
 
 Этот атрибут является **числом** для чтения и записи (**int**), задающим задержку в миллисекундах. Он имеет минимальное значение 30, а значение по умолчанию — 85. Если указано значение, меньшее минимального значения, используется значение по умолчанию.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если для **прокрутки** задано значение false, **скроллингделай** игнорируется.
 
@@ -43,7 +43,7 @@ ms.locfileid: "105675607"
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 7,0 или более поздней<br/> |
+| Версия<br/> | проигрыватель Windows Media версии 7,0 или более поздней<br/> |
 
 
 

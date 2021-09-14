@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0b29c97438c0db1a60d94a8ae88ed99f73c33ea16a820d1aec5ca7a6be737e5d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d688f17957170c6f3a8887030ea2c67140c0ff8c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119014102"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144113"
 ---
 # <a name="out-switch"></a>/out - параметр
 
@@ -54,7 +54,7 @@ midl /out path-specification
 
 **MIDL/out \\ MyDir \\ мисубдир \\ другое filename. idl**
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

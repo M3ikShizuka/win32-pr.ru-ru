@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Netmon.h
-ms.openlocfilehash: 68e3f3608ac1aeff0f6d54ee7c94c39b76b0df08bb7dc41b05063f9cf53c48a2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 1b5dc9620f3b1860b27af973432aa4218c05b63b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120036844"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067560"
 ---
 # <a name="pf_handoffset-structure"></a>\_Структура PF хандоффсет
 
@@ -36,7 +36,7 @@ typedef struct _PF_HANDOFFSET {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -63,7 +63,7 @@ typedef struct _PF_HANDOFFSET {
 
 Структура **PF \_ хандоффсет** должна быть выделена с помощью **хеапаллок**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -75,7 +75,7 @@ typedef struct _PF_HANDOFFSET {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3d9types.h
-ms.openlocfilehash: 5e1900bf0d400971786eb37dd5138154913562982e1a1e3221c8002ac51fbf2a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 62a34e94fbdc6c47ed034a46bdae6e9b32a7c95d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118300318"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145565"
 ---
 # <a name="d3dcolor_ayuv-macro"></a>\_Макрос D3DCOLOR айув
 

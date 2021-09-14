@@ -4,12 +4,12 @@ ms.assetid: e1567393-162e-48d4-8e6b-7620e351136c
 title: Структуры WinHTTP
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d873be1e8cde929419d65b5b931178f7189426335767977a58fbb7763594be87
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f7ecf91702a2f49e2c0a754fcc69d9d34febf229
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118114069"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066597"
 ---
 # <a name="winhttp-structures"></a>Структуры WinHTTP
 

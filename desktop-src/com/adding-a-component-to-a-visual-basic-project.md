@@ -4,12 +4,12 @@ description: добавление компонента в Visual Basic Project
 ms.assetid: 7e78853a-b134-46d7-a230-3ee8d80d05c0
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: dcc5adc18570fbe729ed89b5943f8a1d3c3b6c6cb64f1ff54cc72f519f48b7ff
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cd64b8367b33590b972adc2439af3a2479ee920e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119994074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264619"
 ---
 # <a name="adding-a-component-to-a-visual-basic-project"></a>добавление компонента в Visual Basic Project
 
@@ -21,7 +21,7 @@ ms.locfileid: "119994074"
 
 1.  в меню **Project** выберите пункт **компоненты**.
 2.  Установите флажок рядом с компонентом, который нужно добавить. Если компонент отсутствует в списке, найдите .dll или OCX-файл с помощью **кнопки Обзор**.
-3.  Нажмите **OK**.
+3.  Нажмите кнопку **ОК**.
 
 Компонент теперь является частью проекта и отображается на панели инструментов объекта. Приложение может создавать экземпляры элемента управления, перетаскивая элемент управления с панели инструментов и оттащив его на форму или диалоговое окно.
 

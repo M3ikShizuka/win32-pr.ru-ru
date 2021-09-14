@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c651144b4f09cf53f07c0f1860625cab8277e5c8a9532ee864b9ec1b1c927323
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 832c6991169b71955c0ab21b59d2b55b0b54fc9a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119636224"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145649"
 ---
 # <a name="wm_dde_advise-message"></a>\_ \_ Сообщение об исходе DDE WM
 
@@ -92,7 +92,7 @@ ms.locfileid: "119636224"
 
 <dl> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**ддеадвисе**](/windows/desktop/api/Dde/ns-dde-ddeadvise)
@@ -131,7 +131,7 @@ ms.locfileid: "119636224"
 [**\_запрос DDE \_ WM**](wm-dde-request.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Сведения о платформа динамических данных Exchange](about-dynamic-data-exchange.md)

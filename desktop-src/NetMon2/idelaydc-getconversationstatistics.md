@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Ndisnpp.dll
 - Rmtnpp.dll
-ms.openlocfilehash: 60fc768a1b93a752a91d431e79fb3e875416ac2b82b2bad5603e3d4cddaccbaf
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d4d4c1bb1ad7ecb45b640c16322e297f9f640ef1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119910574"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067600"
 ---
 # <a name="idelaydcgetconversationstatistics-method"></a>Метод Иделайдк:: Жетконверсатионстатистикс
 
@@ -104,7 +104,7 @@ HRESULT STDMETHODCALLTYPE GetConversationStatistics(
 
 Чтобы получить другие типы статистики, вызовите метод [иделайдк:: жеттоталстатистикс](idelaydc-gettotalstatistics.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -117,7 +117,7 @@ HRESULT STDMETHODCALLTYPE GetConversationStatistics(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

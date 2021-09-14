@@ -4,12 +4,12 @@ description: Выделение памяти в COM
 ms.assetid: b3c318d2-1273-430e-8aca-5bd5c95c138e
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3a38477f0db860cf768493417470f2da3395e814bc106cf85f975ed11ba2c0b4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 82cb9913da55fab82f699ac05dae3998f7582224
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119979984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144601"
 ---
 # <a name="memory-allocation-in-com"></a>Выделение памяти в COM
 
@@ -39,7 +39,7 @@ if (SUCCEEDED(hr))
 
 Еще один вопрос заключается в том, что COM является *двоичным* стандартом, поэтому он не привязан к конкретному языку программирования. Таким образом, COM не может полагаться на любые специфические для конкретного языка формы выделения памяти.
 
-## <a name="next"></a>Следующая
+## <a name="next"></a>Следующий
 
 [Методики программирования COM](com-coding-practices.md)
 

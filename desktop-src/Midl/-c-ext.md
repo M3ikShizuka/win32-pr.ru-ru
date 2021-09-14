@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bb0f63a2dcf53716ea7b8825791fb723fbc768f5c8d237ac1b75e78ddc31bc0f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b8b3f179c2ce56b8e8ab6802b2d4bf5dd96c458e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119388264"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144221"
 ---
 # <a name="c_ext-switch"></a>/c \_ внешний коммутатор
 

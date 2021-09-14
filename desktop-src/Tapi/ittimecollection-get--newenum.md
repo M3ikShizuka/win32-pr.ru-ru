@@ -4,12 +4,12 @@ ms.assetid: 0c2d739d-736d-4773-9747-1107546a973c
 title: 'Метод Иттимеколлектион:: get__NewEnum (Сдпблб. h)'
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4ba76f1d10e2cb9ee937ec688af3e87e0bb9310df9fc39afaef64e60ea55b1dc
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: acfc9d616efb58c6173f2c9c6e5913d27776958c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119991904"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066934"
 ---
 # <a name="ittimecollectionget__newenum-method"></a>Метод Иттимеколлектион:: Get \_ \_ NewEnum
 
@@ -65,7 +65,7 @@ HRESULT get__NewEnum(
 
 Этот метод является взаимозаменяемым с [**Get \_ енумератиониф**](ittimecollection-get-enumerationif.md) , за исключением того, что он возвращает **IUnknown** вместо [**иенумтиме**](ienumtime.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,7 +78,7 @@ HRESULT get__NewEnum(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

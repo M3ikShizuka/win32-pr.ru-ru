@@ -5,11 +5,11 @@ title: Операции и задачи
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: a198d8844a9f34030b8b6a40eba759eed4057119
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105663826"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067147"
 ---
 # <a name="operations-and-tasks"></a>Операции и задачи
 
@@ -21,7 +21,7 @@ ms.locfileid: "105663826"
 
 Объект [**иазтаск**](/windows/desktop/api/Azroles/nn-azroles-iaztask) также может представлять определение роли, присвоив свойству [**исроледефинитион**](/windows/desktop/api/Azroles/nf-azroles-iaztask-get_isroledefinition) **значение true**. Затем пользовательский интерфейс оснастки MMC **диспетчера авторизации** отображает этот объект **иазтаск** в качестве роли. Дополнительные сведения об определениях ролей см. в разделе [roles](roles.md).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

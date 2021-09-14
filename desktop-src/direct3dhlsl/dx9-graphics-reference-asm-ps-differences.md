@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: 9a74b5cc7588220fdc5173c470f7852ee9ef763d
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104413149"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264083"
 ---
 # <a name="pixel-shader-differences"></a>Различия шейдера пикселей
 
@@ -24,7 +24,7 @@ ms.locfileid: "104413149"
 
 
 
-| Version  | Максимальное число слотов инструкций                                                                                   |
+| Версия  | Максимальное число слотов инструкций                                                                                   |
 |----------|-----------------------------------------------------------------------------------------------------------------------|
 | PS \_ 1 \_ 1 | 4. текстура + 8 арифметических операций                                                                                              |
 | PS \_ 1 \_ 2 | 4. текстура + 8 арифметических операций                                                                                              |
@@ -36,13 +36,13 @@ ms.locfileid: "104413149"
 
 
 
- 
+ 
 
 Сведения об ограничениях шейдеров программного обеспечения см. в разделе [программные шейдеры](dx9-graphics-reference-asm-software-shaders.md).
 
-## <a name="flow-control-nesting-limits"></a>Ограничения вложенности управления потоком
+## <a name="flow-control-nesting-limits"></a>Flow Управление ограничениями вложенности
 
--   См. раздел [ограничения управления потоком](dx9-graphics-reference-asm-ps-instructions-flow-control.md).
+-   см. раздел [ограничения управления Flow](dx9-graphics-reference-asm-ps-instructions-flow-control.md).
 
 ## <a name="ps_1_x-features"></a>\_функции PS 1 \_ x
 
@@ -120,13 +120,13 @@ ms.locfileid: "104413149"
 -   [Регистр позиций](dx9-graphics-reference-asm-ps-registers-ps-3-0.md) (впос)
 -   [Регистр лиц](dx9-graphics-reference-asm-ps-registers-ps-3-0.md) (вфаце)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Шейдеры пикселей](dx9-graphics-reference-asm-ps.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

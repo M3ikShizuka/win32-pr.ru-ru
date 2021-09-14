@@ -14,11 +14,11 @@ api_type:
 api_location:
 - ntwmi.h
 ms.openlocfilehash: fd30eccb5848917d752441df79881078dc14d36e
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103897194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144414"
 ---
 # <a name="etw_heap_event_free-event"></a>\_ \_ Событие освобождения события кучи ETW \_
 
@@ -73,7 +73,7 @@ typedef struct ETW_HEAP_EVENT_FREE
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Событие **\_ \_ \_ освобождения события кучи ETW** регистрируется во всех операциях освобождения кучи.
 
@@ -83,9 +83,9 @@ typedef struct ETW_HEAP_EVENT_FREE
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 7\]<br/>                                         |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2008 R2 \[\]<br/>                            |
-| Header<br/>                   | <dl> <dt>Нтвми. h</dt> </dl> |
+| Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                         |
+| Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/>                            |
+| Заголовок<br/>                   | <dl> <dt>Нтвми. h</dt> </dl> |
 
 
 

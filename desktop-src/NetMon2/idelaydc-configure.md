@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Ndisnpp.dll
 - Rmtnpp.dll
-ms.openlocfilehash: a8d1bacb5629f03eb472f730f5df7ee00c5a4e469702f617d5b33c673606c76b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0fa91c5b46d2eb7ca21ba14aa00b274d52e77eb1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117981336"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067604"
 ---
 # <a name="idelaydcconfigure-method"></a>Метод Иделайдк:: Configure
 
@@ -94,7 +94,7 @@ BLOB-объект ошибки, возвращенный *херрорблоб* 
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

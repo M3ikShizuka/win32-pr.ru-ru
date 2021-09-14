@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3df65adc3bfa486907df0465f2fca5a1427f6d0b1eb89b5c02e6f199be71e9e8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2f7cc2b6087b53ff81aa7270a209266dd8248884
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118384671"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143902"
 ---
 # <a name="dispinterface-attribute"></a>dispinterface - атрибут
 
@@ -109,7 +109,7 @@ dispinterface dispinterface-name
 
 Свойства можно объявлять в списках свойств или методов. Объявление свойств в списке свойств не указывает тип доступа, который поддерживает свойство (т. е. Get, WHERE или путреф). Укажите атрибут \[ [**ReadOnly**](readonly.md) \] для свойств, которые не поддерживают размещение или путреф. При объявлении функций свойств в списке методов функции для одного свойства имеют одинаковый идентификатор.
 
-При использовании первого синтаксиса требуются Теги Properties: и. Атрибут \[ [**ID**](id.md) \] также требуется для каждого элемента. Например:
+При использовании первого синтаксиса требуются Теги Properties: и. Атрибут \[ [**ID**](id.md) \] также требуется для каждого элемента. Пример:
 
 ``` syntax
 properties: 
@@ -238,10 +238,10 @@ dispinterface MyObject
 [**зона**](restricted.md)
 </dt> <dt>
 
-[**строка**](string.md)
+[**Строка**](string.md)
 </dt> <dt>
 
-[**uuid**](uuid.md)
+[**UUID**](uuid.md)
 </dt> <dt>
 
 [**vararg**](vararg.md)

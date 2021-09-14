@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3237cedc1daeffa3fd47fd50b9b19d79ebad3acbf53bdd7929b70dad4093a7a1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8fdb2ba206e0a026aef118b06d66097ade9ba9ac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119493404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067502"
 ---
 # <a name="glisenabled-function"></a>Функция Глисенаблед
 
@@ -126,7 +126,7 @@ GLboolean WINAPI glIsEnabled(
 
 Функция **гллсенаблед** ВОЗВРАЩАЕТ значение GL \_ true, если *Cap* является включенной возможностью и возвращает \_ значение GL false в противном случае.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -140,7 +140,7 @@ GLboolean WINAPI glIsEnabled(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

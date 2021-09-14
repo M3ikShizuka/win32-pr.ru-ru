@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4576522c1b6d6834ded5e100a2618dcb45204f887420968a5828fdc5c9bd0fef
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2bb760dae213f28d44fbc707b4430cb151cfe578
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118330908"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066631"
 ---
 # <a name="iwmpstringcollection2isidentical-method"></a>Метод IWMPStringCollection2:: одинаковы
 
