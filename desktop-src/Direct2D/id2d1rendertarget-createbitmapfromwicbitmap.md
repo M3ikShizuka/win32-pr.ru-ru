@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_name: ''
-ms.openlocfilehash: 3d023db69afdc3cc69535d310cb21fb841c2f1bbe981df98e0aaa22074a46db0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 23ad055beab9f24c39f032a3e28456c231480c68
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119304344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162851"
 ---
 # <a name="id2d1rendertargetcreatebitmapfromwicbitmap-methods"></a>Методы ID2D1RenderTarget:: Креатебитмапфромвикбитмап
 
@@ -36,7 +36,7 @@ ms.locfileid: "119304344"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Прежде чем Direct2D сможет загрузить образ WIC, его необходимо преобразовать в поддерживаемый формат пикселей и альфа-режим. Список поддерживаемых форматов пикселей и альфа-режимов см. в разделе [Поддерживаемые форматы пикселей и альфа-режимы](supported-pixel-formats-and-alpha-modes.md).
 
@@ -44,7 +44,7 @@ ms.locfileid: "119304344"
 
 Примеры см. в разделе [Загрузка растрового изображения из файла](how-to-load-a-direct2d-bitmap-from-a-file.md) и [Загрузка растрового изображения из ресурса](how-to-load-a-bitmap-from-a-resource.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

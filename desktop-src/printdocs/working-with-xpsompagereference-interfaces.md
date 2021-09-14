@@ -4,12 +4,12 @@ ms.assetid: bb227536-3b29-4221-b2d5-bab5e9d91448
 title: Работа с интерфейсами Икспсомпажереференце
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ee38856075a967fbf0f66255c922e181961dc42f1214f75e05da7d4062d6c4a2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9f4526e6c561a962b77fa3f2fc62d56431359aa6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119098686"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127252301"
 ---
 # <a name="working-with-ixpsompagereference-interfaces"></a>Работа с интерфейсами Икспсомпажереференце
 
@@ -20,8 +20,8 @@ ms.locfileid: "119098686"
 | Имя интерфейса                                                  | Логические дочерние интерфейсы                    | Описание                                                                                                                                                                                                                                                                                                                                                      |
 |-----------------------------------------------------------------|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**икспсомпажереференце**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsompagereference)<br/>   | [**икспсомпаже**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsompage)<br/> | Виртуализация содержимого страницы документа. <br/> Ссылка на страницу содержит основные сведения о странице, некоторые свойства страницы и ссылку на содержимое страницы. Интерфейс [**икспсомпаже**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsompage) , который состоит из содержимого страницы, возвращается методом [**Икспсомпажереференце::-Page**](/windows/desktop/api/xpsobjectmodel/nf-xpsobjectmodel-ixpsompagereference-getpage) .<br/> |
-| [**икспсомнамеколлектион**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsomnamecollection)<br/> | Нет<br/>                             | Содержит список элементов страницы, которые являются объектами гиперссылок. Список возвращается методом [**икспсомпажереференце:: коллектлинктаржетс**](/windows/desktop/api/xpsobjectmodel/nf-xpsobjectmodel-ixpsompagereference-collectlinktargets) .<br/>                                                                                                                                                               |
-| [**икспсомпартресаурцес**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsompartresources)<br/>   | Нет<br/>                             | Содержит список ресурсов на основе части, связанных со страницей. Этот список возвращается методом [**икспсомпажереференце:: коллектпартресаурцес**](/windows/desktop/api/xpsobjectmodel/nf-xpsobjectmodel-ixpsompagereference-collectpartresources) .<br/>                                                                                                                                     |
+| [**икспсомнамеколлектион**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsomnamecollection)<br/> | None<br/>                             | Содержит список элементов страницы, которые являются объектами гиперссылок. Список возвращается методом [**икспсомпажереференце:: коллектлинктаржетс**](/windows/desktop/api/xpsobjectmodel/nf-xpsobjectmodel-ixpsompagereference-collectlinktargets) .<br/>                                                                                                                                                               |
+| [**икспсомпартресаурцес**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsompartresources)<br/>   | None<br/>                             | Содержит список ресурсов на основе части, связанных со страницей. Этот список возвращается методом [**икспсомпажереференце:: коллектпартресаурцес**](/windows/desktop/api/xpsobjectmodel/nf-xpsobjectmodel-ixpsompagereference-collectpartresources) .<br/>                                                                                                                                     |
 
 
 

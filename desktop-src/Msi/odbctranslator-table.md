@@ -4,12 +4,12 @@ ms.assetid: fecb7454-29bb-4ddf-b4d5-2e56c20ff2dc
 title: Таблица Одбктранслатор
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bd59c535963b3c42e94c8c904d448540072913b56bedb58c3e0bddc72dd6c6c9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e9fdf85f73b649e18c0980508e234bf7599e69c5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118942895"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251059"
 ---
 # <a name="odbctranslator-table"></a>Таблица Одбктранслатор
 
@@ -21,11 +21,11 @@ ms.locfileid: "118942895"
 
 | Столбец      | Type                         | Ключ | Допускает значения NULL |
 |-------------|------------------------------|-----|----------|
-| Переводчик  | [Идентификатор](identifier.md) | Д   | Нет        |
-| Компонент\_ | [Идентификатор](identifier.md) | Нет   | Нет        |
+| Переводчик  | [Идентификатор](identifier.md) | Да   | Нет        |
+| См\_ | [Идентификатор](identifier.md) | Нет   | Нет        |
 | Описание | [Text](text.md)             | Нет   | Нет        |
 | File\_      | [Идентификатор](identifier.md) | Нет   | Нет        |
-| \_Настройка файла | [Идентификатор](identifier.md) | Нет   | Д        |
+| \_Настройка файла | [Идентификатор](identifier.md) | Нет   | Да        |
 
 
 

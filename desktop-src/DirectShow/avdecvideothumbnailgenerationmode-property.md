@@ -4,12 +4,12 @@ ms.assetid: c640d915-585b-481d-aa49-0d4a559d291c
 title: Свойство Авдеквидеосумбнаилженератионмоде (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3eb10b4996a88c8d2e62180edcbfaba8f71b6738d7dc7e3019a0b8ee4b44462d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5aa2a9c8b095c0fdb0d44a5a12fdfe954b89ba49
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118159995"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162079"
 ---
 # <a name="avdecvideothumbnailgenerationmode-property"></a>Авдеквидеосумбнаилженератионмоде, свойство
 
@@ -25,11 +25,11 @@ ms.locfileid: "118159995"
 
 **КОДЕКАПИ \_ авдеквидеосумбнаилженератионмоде**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если значение является **вариантным \_ true**, декодер использует параметр, оптимизированный для быстрого создания эскизов изображений. (Например, он может пропустить кадры B или P.) В противном случае, если значение является **вариантным \_ false**, декодер использует стандартные параметры декодирования.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "118159995"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

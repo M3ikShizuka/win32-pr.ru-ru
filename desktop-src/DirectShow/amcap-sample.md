@@ -5,11 +5,11 @@ title: Пример Амкап
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 1179e573d0e0162d8e5d2a37d13b6eb1fe8a0504
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "105655585"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162332"
 ---
 # <a name="amcap-sample"></a>Пример Амкап
 
@@ -26,19 +26,19 @@ ms.locfileid: "105655585"
 -   Перечисление устройств
 -   Потоковый элемент управления
 
-Амкап поддерживает входные потоковые данные MPEG-2, например от аналоговых ТЕЛЕВИЗИОНных тюнеров, которые потокируют содержимое MPEG-2. Для декодирования потоков требуется декодер MPEG-2, совместимый с DirectShow.
+Амкап поддерживает входные потоковые данные MPEG-2, например от аналоговых ТЕЛЕВИЗИОНных тюнеров, которые потокируют содержимое MPEG-2. для декодирования потоков требуется декодер MPEG-2, совместимый с DirectShow.
 
 ## <a name="downloading-the-sample"></a>Загрузка образца
 
-Чтобы скачать примеры пакета SDK для DirectShow, установите последнюю версию [Windows SDK](https://msdn.microsoft.com/windowsvista/bb980924.aspx).
+чтобы скачать примеры пакета SDK для DirectShow, установите последнюю версию [Windows SDK](https://msdn.microsoft.com/windowsvista/bb980924.aspx).
 
-Этот пример устанавливается по следующему пути: \[ *корневые* \] \\ примеры SDK \\ мультимедиа \\ DirectShow \\ Capture \\ амкап.
+этот пример устанавливается по следующему пути: \[ *корневые* \] \\ примеры SDK \\ мультимедиа \\ DirectShow \\ Capture \\ амкап.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
-[Примеры DirectShow](directshow-samples.md)
+[DirectShow Регистрируют](directshow-samples.md)
 </dt> </dl>
 
  

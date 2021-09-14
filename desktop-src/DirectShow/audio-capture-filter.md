@@ -5,11 +5,11 @@ title: Фильтр записи звука
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: e2a630452565fafad3c4a4420154efd8fe6b282f
-ms.sourcegitcommit: 63753fcfb0afbbe5ec283fb8316e62c2dc950f66
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "107910212"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162220"
 ---
 # <a name="audio-capture-filter"></a>Фильтр записи звука
 
@@ -38,13 +38,13 @@ ms.locfileid: "107910212"
 
 ## <a name="remarks"></a>Комментарии
 
-Входные сигналы представляют собой физические подключения оборудования и никогда не подключаются к другим фильтрам в DirectShow.
+Входные сигналы представляют физические подключения оборудования и никогда не подключаются к другим фильтрам в DirectShow.
 
 ## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
-[Фильтры DirectShow](directshow-filters.md)
+[DirectShow Фильтрующ](directshow-filters.md)
 </dt> <dt>
 
 [Запись звука](audio-capture.md)

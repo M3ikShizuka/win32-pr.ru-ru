@@ -5,17 +5,17 @@ title: Обработка видео ДКСВА
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: bcf5058d93ddd7c506a501eb6ca07c4661755fc8
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104539560"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127252496"
 ---
 # <a name="dxva-video-processing"></a>Обработка видео ДКСВА
 
 ДКСВА обработка видео включает функции графического оборудования, предназначенные для обработки несжатых видеоизображений. Службы обработки видео включают в себя дечередование и смешение видео.
 
-В этом разделе содержатся следующие подразделы.
+Этот раздел состоит из следующих подразделов.
 
 -   [Обзор](#overview)
 -   [Создание устройства обработки видео](#creating-a-video-processing-device)
@@ -40,7 +40,7 @@ ms.locfileid: "104539560"
     -   [Пример 2](#example-2-stretching-substream-images)
     -   [Пример 3](#example-3-mismatched-stream-heights)
     -   [Пример 4](#example-4-target-rectangle-smaller-than-destination-surface)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="overview"></a>Обзор
 
@@ -49,7 +49,7 @@ ms.locfileid: "104539560"
 -   Дечередование и обратная чересстрочности
 -   Смешивание подпотоков видео на основном видеоизображении
 -   Настройка цвета (в cAmp) и фильтрация изображений
--   Масштабирование изображения
+-   Масштабирование изображений
 -   Преобразование цветового пространства
 -   Альфа-смешение
 
@@ -646,7 +646,7 @@ HRESULT GetVideoProcessorService(
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

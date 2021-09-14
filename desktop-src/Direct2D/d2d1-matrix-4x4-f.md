@@ -6,12 +6,12 @@ keywords:
 - D2D1_MATRIX_4X4_F
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3b164731a7ff3acfb0a3603e0bd5205a28a8ea59a4c54d4b0de1f9b37f0d54c1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 535c7e38b77d8c33d79ae189b4090a18fae42a04
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119569824"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163515"
 ---
 # <a name="d2d1_matrix_4x4_f"></a>\_Матрица D2D1 \_ 4x4 \_ F
 
@@ -24,11 +24,11 @@ typedef D2D_MATRIX_4X4_F D2D1_MATRIX_4X4_F;
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 **D2D1 \_ МАТРИЦа \_ 4x4** — это новое имя для [**структуры \_ матрицы D2D \_ 4x4 \_ F**](/windows/desktop/api/dcommon/ns-dcommon-d2d_matrix_4x4_f) . Список полей, предоставляемых матрицей, см. в **разделе \_ Матрица D2D \_ 4x4 \_ F**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ typedef D2D_MATRIX_4X4_F D2D1_MATRIX_4X4_F;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

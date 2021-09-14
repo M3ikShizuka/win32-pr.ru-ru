@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Shldisp.h
-ms.openlocfilehash: c5bcf40a77c2f464d5277ac4823ed74a3f3c2bdd6a2114d2431684cc8b319f66
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1fbaf53db11fda577e9e9c5384af5f7c62fe1944
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118967753"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127252061"
 ---
 # <a name="webwizardhost-object"></a>Объект Вебвизардхост
 
@@ -49,22 +49,22 @@ ms.locfileid: "118967753"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Объект **вебвизардхост** имеет следующие свойства.
 
 
 
-| Свойство                                               | Тип доступа           | Описание                                              |
+| Свойство.                                               | Тип доступа           | Описание                                              |
 |:-------------------------------------------------------|:----------------------|:---------------------------------------------------------|
 | [**Caption**](iwebwizardhost-caption.md)<br/>   | Чтение/запись<br/> | Не реализован.<br/>                              |
-| [**Свойство**](iwebwizardhost-property.md)<br/> | Чтение/запись<br/> | Задает или получает текущее значение свойства.<br/> |
+| [**Свойство.**](iwebwizardhost-property.md)<br/> | Чтение/запись<br/> | Задает или получает текущее значение свойства.<br/> |
 
 
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

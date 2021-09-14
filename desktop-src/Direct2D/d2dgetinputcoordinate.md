@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5a3fe0d825dea70c8e5211b8c13f1e850fa513670bbc93de98f1f8e2b87ef046
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d5d9ee759de12bb8b017d582026dd5b5ca8c3fb3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119075298"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163464"
 ---
 # <a name="d2dgetinputcoordinate-function"></a>Функция D2DGetInputCoordinate
 
@@ -48,7 +48,7 @@ float4 WINAPI D2DGetInputCoordinate(
 
 Функция возвращает **float4** в формате текскурдн.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Координата, возвращаемая этой функцией, находится в шаг текселя пространстве. Шейдер не должен зависеть от того, как вычисляется это значение. Он должен использовать его только для выборки входных шейдеров пикселей. Дополнительные сведения см. в разделе [Добавление шейдера пикселей к пользовательскому преобразованию](./custom-effects.md#adding-a-pixel-shader-to-a-custom-transform).
 
@@ -68,7 +68,7 @@ D2D_PS_ENTRY(DisplacementMapBilinear)
 }  
 ```
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -79,7 +79,7 @@ D2D_PS_ENTRY(DisplacementMapBilinear)
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

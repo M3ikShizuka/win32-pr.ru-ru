@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - IACom.dll
-ms.openlocfilehash: 515ade35baed591060e76818d2b3e00a3654a89a9d42dda21d170ee54b2773ef
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: eccfcc8be51ff951c1bcd6de55bd3a0f89cdc201
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118967443"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251989"
 ---
 # <a name="icontextnodeaddcontextlink-method"></a>Метод Иконтекстноде:: Аддконтекстлинк
 
@@ -75,7 +75,7 @@ HRESULT AddContextLink(
 
 Этот объект [**иконтекстноде**](icontextnode.md) является исходным узлом (см. [**Иконтекстлинк:: жетсаурценоде**](icontextlink-getsourcenode.md)) для нового объекта [**иконтекстлинк**](icontextlink.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -88,7 +88,7 @@ HRESULT AddContextLink(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

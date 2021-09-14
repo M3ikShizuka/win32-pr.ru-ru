@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9c887221ade413b63456ecb3c4a91c7a5b480858b04e1f34e89506fdcf071dfd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5929e9c113e5fa9a7c8a72003357b280a810e49e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119075278"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163455"
 ---
 # <a name="d2dsampleinput-function"></a>Функция D2DSampleInput
 
@@ -56,7 +56,7 @@ float4 WINAPI D2DSampleInput(
 
 Функция возвращает **float4** в формате текскурдн.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В следующем примере показана функция, используемая для вычисления нормалей поверхности.
 

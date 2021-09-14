@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - combase.h
-ms.openlocfilehash: fe50295f87e2932d3eb0fe53aac4896343a31441f8fa832bbaa69d5256846414
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 55a225185733a822591d8f93c2eca3674d51a340
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117824794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162311"
 ---
 # <a name="amoviesetup_filter-structure"></a>\_Структура фильтра амовиесетуп
 
@@ -39,7 +39,7 @@ typedef struct _AMOVIESETUP_FILTER {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -78,7 +78,7 @@ typedef struct _AMOVIESETUP_FILTER {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 сведения об использовании этой структуры см. [в разделе регистрация DirectShow фильтров](how-to-register-directshow-filters.md). Используйте эту структуру только для фильтров, зарегистрированных в категории фильтра по умолчанию (CLSID \_ легациамфилтеркатегори). Чтобы зарегистрировать фильтр в другой категории, используйте метод [**IFilterMapper2:: регистерфилтер**](/windows/desktop/api/Strmif/nf-strmif-ifiltermapper2-registerfilter) , как описано в разделе [Реализация DllRegisterServer](implementing-dllregisterserver.md).
 

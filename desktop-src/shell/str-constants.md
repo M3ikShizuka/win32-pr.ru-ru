@@ -50,11 +50,11 @@ topic_type:
 - APIRef
 - kbSyntax
 ms.openlocfilehash: 6d19b33492ce01945176311967ed16119d29b2f1
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122470940"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127252109"
 ---
 # <a name="bind-context-string-keys"></a>Ключи строк контекста привязки
 
@@ -106,7 +106,7 @@ ms.locfileid: "122470940"
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Контексты привязки используются для передачи необязательных параметров функциям с \* параметром IBindCtx. Эти параметры выражаются в виде COM-объектов и могут реализовывать интерфейсы, используемые для моделирования данных параметров. Некоторые контексты привязки представляют логическое значение, где **true** означает объект, реализующий только [**IUnknown**](/windows/win32/api/unknwn/nn-unknwn-iunknown) , и false указывает, что объект отсутствует.
 

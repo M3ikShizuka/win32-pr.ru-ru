@@ -4,12 +4,12 @@ description: Преобразовывает изображение с испол
 ms.assetid: 4e0b26ed-ba71-5f8f-db1e-f1b4e28fbd11
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 03b74e553074b3ee0c9ad4e0d5121b9b084884ddb030c75308eb9964531fc6b7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e0dc3cb6a807d282649a2826713cdf48fa966d9f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119075344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163247"
 ---
 # <a name="grayscale-effect"></a>Эффекты оттенков серого
 
@@ -23,7 +23,7 @@ ms.locfileid: "119075344"
 
 -   [Пример изображения](#example-image)
 -   [Свойства эффектов](#effect-properties)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example-image"></a>Пример изображения
@@ -34,7 +34,7 @@ ms.locfileid: "119075344"
 
 У этого действия нет свойств.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

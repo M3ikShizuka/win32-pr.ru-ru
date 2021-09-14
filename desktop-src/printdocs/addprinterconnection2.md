@@ -14,12 +14,12 @@ api_type:
 - DllExport
 api_location:
 - Winspool.drv
-ms.openlocfilehash: f54cdafc2bc5c957f21ed4f9a14355d6a70f7df817e975c1fe701e2b20af35a0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b24d5ddb25a43fae8576a042c4be6da8fd7cfef7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117868972"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127252340"
 ---
 # <a name="addprinterconnection2-function"></a>Функция AddPrinterConnection2
 
@@ -94,7 +94,7 @@ BOOL AddPrinterConnection2(
 
 Версия ANSI этой функции, **AddPrinterConnection2A**, не поддерживается и возвращает **ошибку \_ не \_ поддерживается**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -109,7 +109,7 @@ BOOL AddPrinterConnection2(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -5,22 +5,22 @@ title: Аналоговый телевизор
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: c9413789302275c47557ae8b40eccdf17f02f4f3
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "104537823"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162291"
 ---
 # <a name="analog-television-audio"></a>Аналоговый телевизор
 
 При использовании аналогового телевидения звук поступает из ТВ-тюнера. Разные платы тюнера должны быть настроены по-разному. Некоторые карты используют внешний соединитель для исправления аудио в строку звуковой карты в. Другие используют внутренний соединитель для исправления звукового сигнала на компакт-диске звуковой платы.
 
-В следующих разделах описывается предварительный просмотр и запись ТЕЛЕВИЗИОНных аудио в DirectShow.
+В следующих разделах описывается предварительный просмотр и запись ТВ-аудио в DirectShow.
 
 -   [Предварительный просмотр ТВ-звука](previewing-tv-audio.md)
 -   [Запись ТВ-звука](capturing-tv-audio.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

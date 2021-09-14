@@ -1,17 +1,17 @@
 ---
-description: System.Docумент. ClientID
+description: System. Document. ClientID
 ms.assetid: 67a70bbc-3f4f-43ac-b886-88fc312b1aa1
-title: System.Docумент. ClientID
+title: System. Document. ClientID
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 68fb152dde2c14d9208a3c7e850983e55128c9c253d890c772ffb476b071925a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 046d58edc250f0b3f64a967342cbd250139f969c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118053787"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127252163"
 ---
-# <a name="systemdocumentclientid"></a>System.Docумент. ClientID
+# <a name="systemdocumentclientid"></a>System. Document. ClientID
 
 ## <a name="windows-10-version-1703-windows-10-version-1607-windows-10-version-1511-windows-10-version-1507-windows-81-windows-8-windows-7-windows-vista"></a>Windows 10, версия 1703, Windows 10, версия 1607, Windows 10, версия 1511, Windows 10, версия 1507, Windows 8.1, Windows 8, Windows 7, Windows Vista
 

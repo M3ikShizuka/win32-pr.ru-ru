@@ -7,12 +7,12 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.custom: seodec18
-ms.openlocfilehash: d3f8cd7420325fd876897d538ea9e01a5c0adb64b2d0c55437514773904d6013
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cb97b0737bfad391fb9ba2501793a970fcbd9886
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117825865"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163368"
 ---
 # <a name="geometries-overview"></a>Обзор геометрий 
 
@@ -220,7 +220,7 @@ m_pRenderTarget->DrawGeometry(m_pTransformedGeometry, m_pBlackBrush, 1);
 | Сравнение                                                  | [**компаревисжеометри**](id2d1geometry-comparewithgeometry.md)                                                                                                           |
 | Упрощение (удаление дуг и квадратичных кривых Безье)   | [**Целях**](id2d1geometry-simplify.md)                                                                                                                                 |
 | Тесселяция                                                | [**Проводить тесселяцию**](id2d1geometry-tessellate.md)                                                                                                                             |
-| Структура (удалить пересечение)                               | [**Контур**](id2d1geometry-outline.md)                                                                                                                                   |
+| Структура (удалить пересечение)                               | [**Обзор**](id2d1geometry-outline.md)                                                                                                                                   |
 | Вычисление области или длины геометрии                  | [**Компутеареа**](id2d1geometry-computearea.md), [**компутеленгс**](id2d1geometry-computelength.md), [**компутепоинтатленгс**](id2d1geometry-computepointatlength.md) |
 
 

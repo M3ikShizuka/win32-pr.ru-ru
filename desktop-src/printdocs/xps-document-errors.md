@@ -5,11 +5,11 @@ title: Ошибки документа XPS (Кспсобжектмодел. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 37f15f1cc5a1908010d7a46dca9c63b12218e53b
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122471610"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127252292"
 ---
 # <a name="xps-document-errors"></a>Ошибки документа XPS
 
@@ -101,7 +101,7 @@ ms.locfileid: "122471610"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Некоторые методы API документа XPS выполняют вызовы к API [упаковки](/previous-versions/windows/desktop/opc/packaging) . Дополнительные сведения о возвращаемых значениях API упаковки см. в разделе [ошибки упаковки](/previous-versions/windows/desktop/opc/packaging-errors).
 
@@ -118,7 +118,7 @@ ms.locfileid: "122471610"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

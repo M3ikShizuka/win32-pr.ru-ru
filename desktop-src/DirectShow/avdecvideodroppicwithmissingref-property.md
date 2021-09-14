@@ -4,12 +4,12 @@ ms.assetid: 9007d5a8-f498-4394-a4e6-02a7616f3e2a
 title: Свойство Авдеквидеодроппиквисмиссингреф (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a2ac5e8c02c63c977d8d5a8e47bb5d6f878c538364ac2fe5b65c1e691c84ca23
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8e0c3e435ab685fca2f23fa9d0268a5e48d5387e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120000324"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162104"
 ---
 # <a name="avdecvideodroppicwithmissingref-property"></a>Авдеквидеодроппиквисмиссингреф, свойство
 
@@ -25,11 +25,11 @@ ms.locfileid: "120000324"
 
 **КОДЕКАПИ \_ авдеквидеодроппиквисмиссингреф**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если битовый поток поврежден, в кадре могут отсутствовать кадры ссылок. Если это свойство имеет значение **Variant \_ true**, декодер удаляет кадр. Если значение является **вариантным \_ false**, декодер пытается декодировать кадр, используя один или несколько ближайших кадров в качестве ссылочных кадров. Результирующий декодированный кадр будет блокировать артефакты.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "120000324"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -15,12 +15,12 @@ api_type:
 - DllExport
 api_location:
 - Winspool.drv
-ms.openlocfilehash: de99b0866e8cd7ec8486d2a3f15f95194b4350008a43fe4db8ae82d970684c39
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ab21b98036975934c00e28d0be1d5670d4c0742c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119950754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127252364"
 ---
 # <a name="addjob-function"></a>Функция AddJob
 
@@ -97,7 +97,7 @@ BOOL AddJob(
 
 Можно вызвать функцию [**CreateFile**](/windows/desktop/api/fileapi/nf-fileapi-createfilea) , чтобы открыть файл очереди, заданный элементом **path** структуры [**ADDJOB \_ info \_ 1**](addjob-info-1.md) , а затем вызвать функцию [**WriteFile**](/windows/desktop/api/fileapi/nf-fileapi-writefile) для записи в него данных задания печати. После этого вызовите функцию [**ScheduleJob**](schedulejob.md) , чтобы уведомить Диспетчер очереди печати о том, что задание печати может быть запланировано с помощью диспетчера очереди печати.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -112,7 +112,7 @@ BOOL AddJob(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -5,11 +5,11 @@ title: Фильтр оболочки ACM
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 7f0688150ab417c6ebb71313a438f72ef7839042
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122985357"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162412"
 ---
 # <a name="acm-wrapper-filter"></a>Фильтр оболочки ACM
 
@@ -22,7 +22,7 @@ ms.locfileid: "122985357"
 
 
 
-| Метка | Применение |
+| Метка | Значение |
 |--------|-------|
 | Интерфейсы фильтра | <a href="/windows/desktop/api/Strmif/nn-strmif-ibasefilter"><strong>Ибасефилтер</strong></a>, IPersist, IPersistPropertyBag | 
 | Типы носителей входных закрепления | MEDIATYPE_Audio, MEDIASUBTYPE_NULL FORMAT_WaveFormatEx | 

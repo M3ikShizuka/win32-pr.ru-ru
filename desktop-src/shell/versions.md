@@ -9,12 +9,12 @@ api_type: ''
 api_location: ''
 topic_type:
 - kbArticle
-ms.openlocfilehash: 6d74371478b30037e75b1c168dc235735ba6bd219fa461245262ff55a508ae5d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 49fb1767b7074da6480a47c52eb1384fb935317b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118967843"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127252070"
 ---
 # <a name="shell-and-shlwapi-dll-versions"></a>Версии оболочки и Shlwapi DLL 
 
@@ -41,7 +41,7 @@ Shell32.dll версии 4,0 находятся в исходных версия
 | 4,71    | Microsoft Internet Explorer 4,0. См. примечание 1.                                |
 | 4,72    | Internet Explorer 4,01 и Windows 98. См. примечание 1.                          |
 | 5.0     | Windows 2000 и Windows Millennium Edition (Windows Me). См. Примечание 2.       |
-| 6,0     | Windows XP                                                                  |
+| 6.0     | Windows XP                                                                  |
 | 6.0.1   | Windows Vista                                                               |
 | 6.1     | Windows 7                                                                   |
 
@@ -55,7 +55,7 @@ Shell32.dll версии 4,0 находятся в исходных версия
 | 4,7     | Internet Explorer 3. x                                                       |
 | 5.0     | Microsoft Internet Explorer 5 и Windows 98 SE. См. Примечание 2.                |
 | 5.5     | Microsoft Internet Explorer 5,5 и Windows Millennium Edition (Windows Me) |
-| 6,0     | Windows XP и Windows Vista                                                |
+| 6.0     | Windows XP и Windows Vista                                                |
 
 
 

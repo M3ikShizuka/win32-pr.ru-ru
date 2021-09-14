@@ -4,12 +4,12 @@ ms.assetid: e815854f-a379-497a-ae37-b13de39dd516
 title: Открытие модуля слияния Multiple-Language на определенном языке
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cc4dd46009f0cbe4f8c0f2cfd8b4f5dcd2caf91c7987ece7b3b032f61d9161ad
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4b552c41d7696b29a86987d027e00ef4cb19bbb6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118942875"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251020"
 ---
 # <a name="opening-a-multiple-language-merge-module-in-a-specific-language"></a>Открытие модуля слияния Multiple-Language на определенном языке
 

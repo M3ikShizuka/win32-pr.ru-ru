@@ -13,11 +13,11 @@ ms.date: 05/31/2018
 api_name: ''
 api_location: ''
 ms.openlocfilehash: 6086aeef2ee36da9bd3b917ffdae07f3eb6312bc
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "103792031"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163096"
 ---
 # <a name="id2d1devicecontextcreatebitmap-methods"></a>Методы ID2D1DeviceContext:: Креатебитмап
 

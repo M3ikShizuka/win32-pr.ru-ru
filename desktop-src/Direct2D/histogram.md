@@ -6,12 +6,12 @@ keywords:
 - Гистограмма
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 08477a832b2dbf758d26a16e78905f8530d4d4525205cbc85e9d138f8b3bded7
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b654ffb2b830914b00a59490ceb429b5de9c51cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120044422"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163227"
 ---
 # <a name="histogram-effect"></a>Гистограмма
 
@@ -24,7 +24,7 @@ ms.locfileid: "120044422"
 -   [Селекторы каналов](#channel-selectors)
 -   [Выходные данные](#data-output)
 -   [Замечания](#remarks)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example"></a>Пример
@@ -105,14 +105,14 @@ hr = histogramEffect->GetValue(D2D1_HISTOGRAM_PROP_HISTOGRAM_OUTPUT,
 
 Этот результат выводит число с плавающей запятой \[ \] с количеством элементов, соответствующим количеству указанных ячеек. Каждый элемент в FLOAT \[ \] имеет тип float. Значение элемента соответствует количеству элементов в этой ячейке.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Метод [**креатиффект**](/windows/win32/api/d2d1_1/nf-d2d1_1-id2d1devicecontext-createeffect) завершается ошибкой, если устройство не поддерживает DirectCompute и возвращает HRESULT = D2DERR \_ недостаточные \_ \_ возможности устройства. Все карточки DirectX11 и карты DirectX10, поддерживающие DirectCompute, могут использовать этот результат.
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

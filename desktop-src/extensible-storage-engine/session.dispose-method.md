@@ -14,12 +14,12 @@ dev_langs:
 - JScript
 - VB
 - other
-ms.openlocfilehash: 4cd8282b960ce5b52b488628ff716c5d8a467f65f3d65add77739926bbb7f8db
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e491bf693bb71fcda9a07dde4509828acd20e784
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119727874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127252676"
 ---
 # <a name="sessiondispose-method"></a>Session. Dispose, метод
 
@@ -53,9 +53,9 @@ ms.locfileid: "119727874"
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Session class](./session-class.md)
 

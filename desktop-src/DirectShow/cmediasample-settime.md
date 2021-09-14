@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: be9028db35cb6d74623bde77fac21e32793de436ea2f80d2f513687c15d1b64c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 935c4f3aa565b291e459d36e067805944b4fd6b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118156516"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251128"
 ---
 # <a name="cmediasamplesettime-method"></a>Кмедиасампле. SetTime, метод
 
@@ -67,7 +67,7 @@ HRESULT SetTime(
 
 Дополнительные сведения о метках времени см. [в разделе время и часы в DirectShow](time-and-clocks-in-directshow.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,7 +78,7 @@ HRESULT SetTime(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -60,12 +60,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: c64fd25df2d81f7debf78fd0a50f69656b16c2c5309b1955e1aa0e96e6dde403
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0b7a7add96c523dae6b683d597ba36953c605d28
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119284554"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127273520"
 ---
 # <a name="cim_cachememory-class"></a>\_Класс CIM качемемори
 
@@ -140,7 +140,7 @@ class CIM_CacheMemory : CIM_Memory
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ качемемори** имеет следующие типы членов:
 
@@ -1523,7 +1523,7 @@ class CIM_CacheMemory : CIM_Memory
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -2244,7 +2244,7 @@ class CIM_CacheMemory : CIM_Memory
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **CIM \_ качемемори** является производным от [**\_ памяти CIM**](cim-memory.md).
 
@@ -2252,7 +2252,7 @@ class CIM_CacheMemory : CIM_Memory
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -2266,7 +2266,7 @@ class CIM_CacheMemory : CIM_Memory
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

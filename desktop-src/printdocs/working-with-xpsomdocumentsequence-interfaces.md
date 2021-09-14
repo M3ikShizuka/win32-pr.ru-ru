@@ -4,12 +4,12 @@ ms.assetid: e7d01f21-0b5d-4385-89e8-14021800e234
 title: Работа с интерфейсами Икспсомдокументсекуенце
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: edac74809de63c1ae4e688bb99214d11b091ee4e877c921e9280abc9c6868121
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f108cbadf735b334f758102915abbda239a4e974
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119098666"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127252313"
 ---
 # <a name="working-with-ixpsomdocumentsequence-interfaces"></a>Работа с интерфейсами Икспсомдокументсекуенце
 
@@ -20,7 +20,7 @@ ms.locfileid: "119098666"
 | Имя интерфейса                                                          | Логические дочерние интерфейсы                            | Описание                                                              |
 |-------------------------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------------------------|
 | [**икспсомдокументсекуенце**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsomdocumentsequence)<br/>     | [**икспсомдокумент**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsomdocument)<br/> | Группирует набор Фикседдокументс в упорядоченный список.<br/>          |
-| [**икспсомдокументколлектион**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsomdocumentcollection)<br/> | Нет<br/>                                     | Коллекция Фикседдокументс в последовательности документов XPS.<br/> |
+| [**икспсомдокументколлектион**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsomdocumentcollection)<br/> | None<br/>                                     | Коллекция Фикседдокументс в последовательности документов XPS.<br/> |
 
 
 

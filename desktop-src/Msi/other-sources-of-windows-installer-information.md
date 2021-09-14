@@ -4,12 +4,12 @@ ms.assetid: 30b1600c-60b0-4442-a9a4-1d597fcf9264
 title: другие источники сведений о установщик Windows
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3fdcc4b34ca9c5f9b28ee6a318550d3e279892e2b74c7efa9e62c2e1e9bb4819
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2f319bccc2a4bd51ef49c87faa50a4b6bd2801bb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119145517"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250978"
 ---
 # <a name="other-sources-of-windows-installer-information"></a>другие источники сведений о установщик Windows
 

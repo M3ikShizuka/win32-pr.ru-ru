@@ -6,12 +6,12 @@ keywords:
 - D2D1_MATRIX_3X2_F
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6d4e8a50e17c4c740c427d21df27e3c1d9cf8226df5edc1b98f15cbe920c401c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: beb252e35508c48570c96f251205fc8a54755687
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119260494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163523"
 ---
 # <a name="d2d1_matrix_3x2_f"></a>D2D1 \_ Матрица \_ 3X2 \_ F
 
@@ -24,7 +24,7 @@ typedef D2D_MATRIX_3X2_F D2D1_MATRIX_3X2_F;
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 **D2D1 \_ MATRIX \_ 3X2** — это новое имя для структуры [**\_ матрицы D2D \_ 3X2 \_ F**](/windows/desktop/api/dcommon/ns-dcommon-d2d_matrix_3x2_f) . Список полей, предоставляемых матрицей, см. в [**разделе \_ Таблица D2D \_ 3X2 \_ F**](/windows/desktop/api/dcommon/ns-dcommon-d2d_matrix_3x2_f).
 
@@ -70,7 +70,7 @@ typedef D2D_MATRIX_3X2_F D2D1_MATRIX_3X2_F;
 
 В этом примере код пропущен. Дополнительные сведения о преобразованиях см. в разделе [Общие сведения о преобразованиях](direct2d-transforms-overview.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -79,7 +79,7 @@ typedef D2D_MATRIX_3X2_F D2D1_MATRIX_3X2_F;
 | Минимальная версия клиента<br/> | Windows 7, Windows Vista с пакетом обновления 2 (SP2) и обновлением платформы для приложений для \[ классических приложений Windows Vista \|\]<br/>                          |
 | Минимальная версия сервера<br/> | Windows сервер 2008 R2, Windows Server 2008 с пакетом обновления 2 (SP2) и обновлением платформы для Windows Server 2008 приложения \[ UWP для классических приложений \|\]<br/> |
 | Минимальный поддерживаемый телефон<br/>  | Windows Phone 8,1 \[ Windows Phone Silverlight 8,1 и среда выполнения Windows приложения\]<br/>                                                  |
-| Header<br/>                   | <dl> <dt>D2d1. h</dt> </dl>                                                        |
+| Заголовок<br/>                   | <dl> <dt>D2d1. h</dt> </dl>                                                        |
 
 
 

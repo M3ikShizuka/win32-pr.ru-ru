@@ -5,19 +5,19 @@ title: Пакет управления версиями ААУКС (ASC)
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: eab942ccff1cf38e6962d508c9c9bfc99ea9fed6
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "103806538"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162492"
 ---
 # <a name="aaux-source-control-asc-pack"></a>Пакет управления версиями ААУКС (ASC)
 
 В следующих таблицах перечислены значения, используемые драйвером МСДВ для заполнения **двдваауксктл** и
 
-**dwDVAAuxCtl1** члены структуры [**двинфо**](/windows/desktop/api/strmif/ns-strmif-dvinfo) . Дополнительные сведения см. [в разделе Параметры полей двинфо в драйвере мсдв](dvinfo-field-settings-in-the-msdv-driver.md).
+**dwDVAAuxCtl1** члены структуры [**двинфо**](/windows/desktop/api/strmif/ns-strmif-dvinfo) . дополнительные сведения см. [в разделе двинфо Field Параметры в драйвере мсдв](dvinfo-field-settings-in-the-msdv-driver.md).
 
-Параметры ДВКР
+двкр Параметры
 
 
 
@@ -175,7 +175,7 @@ ASC Pack (оба звуковых блока)\*
 
  
 
-Параметры ДВКР 25 и DVCPRO 50 (запланированные)
+двкр 25 и DVCPRO 50 Параметры (запланированный)
 
 
 
@@ -325,7 +325,7 @@ ASC Pack (оба звуковых блока)\*
 
 \* Структура *двинфо* содержит два ааукс как пакеты, для звуковых блоков 1 и 2. DV50 содержит четыре звуковых блока; блоки 3 и 4 не представлены в структуре *двинфо* .
 
-Параметры ДВКР 100 (запланированные)
+двкр 100 Параметры (запланированная)
 
 
 
@@ -469,14 +469,14 @@ ASC Pack (оба звуковых блока)\*
     -   111:1000 = нормальная скорость, 525-60
     -   110:0100 = нормальная скорость, 625-50
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Цифровое видео в DirectShow](digital-video-in-directshow.md)
 </dt> <dt>
 
-[Параметры полей ДВИНФО в драйвере МСДВ](dvinfo-field-settings-in-the-msdv-driver.md)
+[Параметры поля двинфо в драйвере мсдв](dvinfo-field-settings-in-the-msdv-driver.md)
 </dt> </dl>
 
  

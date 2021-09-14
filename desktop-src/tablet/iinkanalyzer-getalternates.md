@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - IACom.dll
-ms.openlocfilehash: deb430c7573abc4e0964e83d508b98813e29e90d0185c6a9ff9a49bc529d1f39
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 37219226e651e286a6d1d63accbd7e548b3b7807
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118043731"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251962"
 ---
 # <a name="iinkanalyzergetalternates-method"></a>Метод Иинканализер:: Alternate
 
@@ -72,7 +72,7 @@ HRESULT GetAlternates(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

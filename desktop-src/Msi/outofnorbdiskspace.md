@@ -4,12 +4,12 @@ ms.assetid: 910d6c1d-38d3-4680-b256-2bf30689ce11
 title: Аутофнорбдискспаце, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 275eec4c78a1fe0074fe8e91f7dcab3b660cade46eb8810aa992edf6a45fb989
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8fa9cdd7c1d444e141103ca148344dd26ea1d2a5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118942774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250966"
 ---
 # <a name="outofnorbdiskspace-property"></a>Аутофнорбдискспаце, свойство
 
@@ -19,7 +19,7 @@ ms.locfileid: "118942774"
 
 Свойство **аутофнорбдискспаце** является допустимым в любой момент после выполнения [действия костфинализе](costfinalize-action.md) . Состояние свойства **аутофнорбдискспаце** динамически обновляется каждый раз, когда общая стоимость установки пересчитывается (например, при каждом изменении состояния установки любой из компонентов с помощью [диалогового окна выбора](selection-dialog.md)). Действия по разрешению выбора используйте это значение для отмены установки и создания диалогового окна.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

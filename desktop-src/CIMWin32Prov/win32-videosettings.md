@@ -17,11 +17,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 38e949b6b6501dc51b39448d72e6bf61f37fbecb
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105655744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251260"
 ---
 # <a name="win32_videosettings-class"></a>\_Класс Win32 видеосеттингс
 
@@ -40,13 +40,13 @@ class Win32_VideoSettings : CIM_VideoSetting
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ видеосеттингс** имеет следующие типы членов:
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ видеосеттингс** имеет следующие свойства.
 
@@ -84,7 +84,7 @@ class Win32_VideoSettings : CIM_VideoSetting
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **Win32 \_ видеосеттингс** является производным от [**CIM \_ видеосеттинг**](cim-videosetting.md).
 

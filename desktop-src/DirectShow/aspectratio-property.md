@@ -4,12 +4,12 @@ ms.assetid: c341538e-0b33-4173-a5ca-56b3f7305022
 title: Аспектратио, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ce010e686d596426a8b96de5dc3a37d2469568e67a7ce7979c53b620708c476f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 874a0656f73ddbb987e8e7f1cc4631f85987a8ce
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117824423"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162251"
 ---
 # <a name="aspectratio-property"></a>Аспектратио, свойство
 
@@ -28,7 +28,7 @@ ms.locfileid: "117824423"
 
 Возвращает число, представляющее пропорции текущего видео-потока, созданного на диске (1,33 для соотношения 4:3 или 1,78 для пропорций 16:9).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство доступно только для чтения и не имеет значения по умолчанию.
 

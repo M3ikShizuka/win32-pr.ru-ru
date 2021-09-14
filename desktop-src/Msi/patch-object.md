@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: e9e337af735a39312cb5aa740283cb8b4d8b508be33f28c302788a1207f89472
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f6fa55d6ced2afdc53ef8050732f5dee5d6c1f3d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120074844"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250888"
 ---
 # <a name="patch-object"></a>Объект Patch
 
@@ -52,13 +52,13 @@ ms.locfileid: "120074844"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Объект **Patch** имеет эти свойства.
 
 
 
-| Свойство                                                  | Описание                                                                                                |
+| Свойство.                                                  | Описание                                                                                                |
 |:----------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------|
 | [**Контекст**](patch-context.md)<br/>               | Контекстом этого экземпляра Patch является значение МСИИНСТАЛЛКОНТЕКСТ.<br/>                                   |
 | [**медиадискс**](patch-mediadisks.md)<br/>         | Перечисление всех дисков мультимедиа для данного экземпляра исправления.<br/>                                         |
@@ -74,7 +74,7 @@ ms.locfileid: "120074844"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -86,7 +86,7 @@ ms.locfileid: "120074844"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

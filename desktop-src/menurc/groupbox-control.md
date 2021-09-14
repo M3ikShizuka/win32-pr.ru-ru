@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 05fb8e795cfe483d16406f07fffd2a26df14cebc3c38a07fbef7f2cb78cc245a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a4f77461099362e4f100924f82d95dffa09a94fa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119602084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127252397"
 ---
 # <a name="groupbox-control"></a>Элемент управления GROUPBOX
 
@@ -54,7 +54,7 @@ GROUPBOX text, id, x, y, width, height [, style [, extended-style]]
 GROUPBOX "Options", 101, 10, 10, 100, 100
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

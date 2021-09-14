@@ -5,11 +5,11 @@ ms.assetid: 05ff1771-8058-4c86-8f45-735bf41dc128
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: b06e516aa06465c67966cc076a0ca524d4ae4003
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "103890992"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250711"
 ---
 # <a name="requirements-for-network-management-functions-on-servers-and-workstations"></a>Требования к функциям управления сетью на серверах и рабочих станциях
 
@@ -47,6 +47,6 @@ TITLE: использование значения реестра RestrictAnonym
 
 Дополнительные сведения об управлении доступом к защищаемым объектам см. в разделе [Управление доступом](/windows/desktop/SecAuthZ/access-control), [права](/windows/desktop/SecAuthZ/privileges)доступа и [защищаемые объекты](/windows/desktop/SecAuthZ/securable-objects). Дополнительные сведения о вызове функций, требующих прав администратора, см. [в разделе Запуск с особыми привилегиями](/windows/desktop/SecBP/running-with-special-privileges).
 
- 
+ 
 
- 
+ 

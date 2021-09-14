@@ -14,11 +14,11 @@ api_type:
 api_location:
 - IACom.dll
 ms.openlocfilehash: fc45e1ebe519e5988ad73e1481c68e9e9811ba04
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104497589"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251983"
 ---
 # <a name="icontextnodecontainspropertydata-method"></a>Метод Иконтекстноде:: Контаинспропертидата
 
@@ -58,7 +58,7 @@ HRESULT ContainsPropertyData(
 
 Описание возвращаемых значений см. в разделе [классы и интерфейсы — анализ рукописного ввода](classes-and-interfaces---ink-analysis.md).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Кроме данных, относящихся к конкретному приложению, этот метод можно использовать для определения того, содержит ли [**иконтекстноде**](icontextnode.md) другие внутренние данные (см. раздел свойства указания по [анализу](analysis-hint-properties.md) и [Свойства узла контекста](context-node-properties.md)).
 
@@ -68,9 +68,9 @@ HRESULT ContainsPropertyData(
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только классические приложения Windows XP Tablet PC Edition \[\]<br/>                                                 |
+| Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                                                 |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                                     |
-| Header<br/>                   | <dl> <dt>Иаком. h (также требуется Иаком \_ i. c)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Иаком. h (также требуется Иаком \_ i. c)</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>IACom.dll</dt> </dl>                          |
 
 

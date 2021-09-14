@@ -6,12 +6,12 @@ keywords:
 - D2D1_SIZE_U
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2b60627021e55e088a35692dffb8292d5c57fcf0932de255c19f4380ee29e8a4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c78b5c317a98169957402dd125c054b8f6e0bc69
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119967104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163483"
 ---
 # <a name="d2d1_size_u"></a>D2D1 \_ размер \_ U
 
@@ -24,7 +24,7 @@ typedef D2D_SIZE_U D2D1_SIZE_U;
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Как и точки, размеры являются еще одной важной концепцией графики. В Direct2D размеры представлены структурами D2D1 размера **\_ \_ U** или D2D1, [**\_ равными \_ F**](d2d1-size-f.md) . Они содержат упорядоченную пару чисел. Структура **D2D1 \_ size \_ U** содержит упорядоченную пару значений **UINT32** , а структура **D2D1 \_ size \_ F** содержит упорядоченную пару значений **float** .
 
@@ -54,7 +54,7 @@ typedef D2D_SIZE_U D2D1_SIZE_U;
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -67,7 +67,7 @@ typedef D2D_SIZE_U D2D1_SIZE_U;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

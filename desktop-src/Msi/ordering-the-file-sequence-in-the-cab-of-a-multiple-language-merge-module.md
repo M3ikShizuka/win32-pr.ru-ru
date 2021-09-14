@@ -4,12 +4,12 @@ ms.assetid: c6ddf5fc-a7c5-49c1-899b-ff9fdff9c028
 title: Упорядочивание последовательности файлов в CAB-файле модуля слияния с несколькими языками
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 96e0d7d5efc3c4599f7a3f0eecce2101d1a7db034be6e0f80eda30245a95204d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 01bdd00d8b09c0605b7ddcf656d87d41e3f53776
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118942811"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251002"
 ---
 # <a name="ordering-the-file-sequence-in-the-cab-of-a-multiple-language-merge-module"></a>Упорядочивание последовательности файлов в CAB-файле модуля слияния с несколькими языками
 
@@ -21,7 +21,7 @@ ms.locfileid: "118942811"
 
 
 
-| File        | Последовательность |
+| Файл        | Последовательность |
 |-------------|----------|
 | Code.Dll    | 1        |
 | Английский. dat | 2        |
@@ -38,7 +38,7 @@ ms.locfileid: "118942811"
 
 
 
-| File        | Последовательность |
+| Файл        | Последовательность |
 |-------------|----------|
 | Code.Dll    | 1        |
 | Английский. dat | 2        |
@@ -51,7 +51,7 @@ ms.locfileid: "118942811"
 
 
 
-| File       | Последовательность |
+| Файл       | Последовательность |
 |------------|----------|
 | Code.Dll   | 1        |
 | Немецкий. dat | 3        |
@@ -64,7 +64,7 @@ ms.locfileid: "118942811"
 
 
 
-| File       | Последовательность |
+| Файл       | Последовательность |
 |------------|----------|
 | Code.Dll   | 1        |
 | Французский. dat | 4        |

@@ -24,12 +24,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 02716e784b8bcc4a0bfbe7c00d2a6a9c5b836d869399187b1128118a5ea2228a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d32a8fdfe61e02e6ffe3a8dd2f115e57f338aec6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119439214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127273523"
 ---
 # <a name="cim_bootservice-class"></a>\_Класс CIM бутсервице
 
@@ -61,7 +61,7 @@ class CIM_BootService : CIM_Service
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ бутсервице** имеет следующие типы членов:
 
@@ -161,7 +161,7 @@ class CIM_BootService : CIM_Service
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -179,7 +179,7 @@ class CIM_BootService : CIM_Service
 
 </dd> <dt>
 
-**Запуск**
+**Начинать**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **логический**
@@ -375,7 +375,7 @@ class CIM_BootService : CIM_Service
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **CIM \_ бутсервице** является производным от [**\_ службы CIM**](cim-service.md).
 
@@ -383,7 +383,7 @@ class CIM_BootService : CIM_Service
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

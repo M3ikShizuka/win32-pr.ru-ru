@@ -4,12 +4,12 @@ ms.assetid: 3518b370-0652-4b54-8057-9871365d5e8c
 title: Таблица Одбкдривер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9a1eb0da3217d7466fc0beef90933c8a6af32e3d0551ecc6975a31ac55ed2730
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3257f3eec5b60191df727d156572293489aa1956
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118943125"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251062"
 ---
 # <a name="odbcdriver-table"></a>Таблица Одбкдривер
 
@@ -21,11 +21,11 @@ ms.locfileid: "118943125"
 
 | Столбец      | Type                         | Ключ | Допускает значения NULL |
 |-------------|------------------------------|-----|----------|
-| Драйвер      | [Идентификатор](identifier.md) | Д   | Нет        |
-| Компонент\_ | [Идентификатор](identifier.md) | Нет   | Нет        |
+| Драйвер      | [Идентификатор](identifier.md) | Да   | Нет        |
+| См\_ | [Идентификатор](identifier.md) | Нет   | Нет        |
 | Описание | [Text](text.md)             | Нет   | Нет        |
 | File\_      | [Идентификатор](identifier.md) | Нет   | Нет        |
-| \_Настройка файла | [Идентификатор](identifier.md) | Нет   | Д        |
+| \_Настройка файла | [Идентификатор](identifier.md) | Нет   | Да        |
 
 
 

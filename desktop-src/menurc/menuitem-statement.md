@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 45bca50025e1c9136c22166d6d3f758c5c9b5819a9328d33d375195285f1d4f7
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: da2051b326b2f2f37c9e24e03bcb5e5116cf290a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120092194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127252388"
 ---
 # <a name="menuitem-statement"></a>MENUITEM, инструкция
 
@@ -85,7 +85,7 @@ MENUITEM SEPARATOR
 MENUITEM "&Blackletter", 301
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: Преобразует чрома данные Икбкр в фор
 ms.assetid: E4492996-54DA-4C5F-B44C-8FBE97C8DD7D
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d5302300cc539571fabb1c3d786686ffc514636133391e706fc5963002656764
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c581effbadecc19c39161d2a2ec4af051d4195d6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119636094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162499"
 ---
 # <a name="ycbcr-effect"></a>Икбкр, результат
 
@@ -21,7 +21,7 @@ ms.locfileid: "119636094"
 -   [Режимы подвыборки](#subsampling-modes)
 -   [Режимы интерполяции](#interpolation-modes)
 -   [Битовая карта вывода](#output-bitmap)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="effect-properties"></a>Свойства эффектов
@@ -77,7 +77,7 @@ ms.locfileid: "119636094"
 
 Этот результат выполняет операцию преобразования, а затем применяет ограничивающий прямоугольник вокруг результата. Битовая карта выходных данных — это размер ограничивающего прямоугольника.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

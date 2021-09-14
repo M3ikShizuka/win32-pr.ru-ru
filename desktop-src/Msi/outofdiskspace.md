@@ -4,12 +4,12 @@ ms.assetid: fb1e3be7-12dd-4036-b657-b91b480fca4a
 title: Аутофдискспаце, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8a99146d08722038bbc2d9b1e0d7b32fd8b587126b0fc942e14823909a2aef79
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b3a438661e931547b0025f2bf85a2ccc03899f5a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120042584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250972"
 ---
 # <a name="outofdiskspace-property"></a>Аутофдискспаце, свойство
 
@@ -21,7 +21,7 @@ ms.locfileid: "120042584"
 
 Любое диалоговое окно, использующее свойство **аутофдискспаце** для определения, должен ли открыться диалоговое окно, должно установить [бит стиля диалогового окна траккдискспаце](trackdiskspace-dialog-style-bit.md) для диалогового окна, чтобы динамически обновлять пространство на целевых томах.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

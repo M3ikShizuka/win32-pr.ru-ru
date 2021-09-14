@@ -4,12 +4,12 @@ ms.assetid: 6c77c8f6-289e-4130-b56a-e1f0bcc40f3e
 title: DSP для записи голоса (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2d05eb6d3f97f748d5c82d8fa566ee25a3a01ce225ab76e84d73f0a86b132afb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6e48c3b3194873008f45ef80ef3a21dad416158b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118972553"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127252490"
 ---
 # <a name="voice-capture-dsp"></a>DSP для записи речи
 
@@ -28,7 +28,7 @@ ms.locfileid: "118972553"
 
 
 
-| Свойство                                                                                     | Описание                                                                                       |
+| Свойство.                                                                                     | Описание                                                                                       |
 |----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | [\_ \_ индексы устройств мфпкэй вмааекма \_](mfpkey-wmaaecma-device-indexesproperty.md)              | указывает, какие звуковые устройства DMO использовать для записи и подготовки к просмотру звука.                     |
 | [МФПКЭЙ \_ вмааекма \_ девицепаир \_ GUID](mfpkey-wmaaecma-devicepair-guidproperty.md)            | Определяет комбинацию звуковых устройств, которые в настоящее время используются приложением.              |
@@ -153,7 +153,7 @@ if (SUCCEEDED(hr))
 3.  передайте [**структуру \_ \_ \_ буфера выходных данных DMO**](/previous-versions/windows/desktop/api/mediaobj/ns-mediaobj-dmo_output_data_buffer) в метод [**имедиаобжект::P роцессаутпут**](/previous-versions/windows/desktop/api/mediaobj/nf-mediaobj-imediaobject-processoutput) .
 4.  продолжайте вызывать этот метод до тех пор, пока у DMO есть выходные данные. DSP сообщает о том, что у него больше выходных данных, установив флаг **DMO \_ output \_ DATA \_ буфферф \_ неполный** в элементе **dwstatus устанавливается** структуры [**\_ \_ \_ буфера выходных данных DMO**](/previous-versions/windows/desktop/api/mediaobj/ns-mediaobj-dmo_output_data_buffer) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -166,7 +166,7 @@ if (SUCCEEDED(hr))
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

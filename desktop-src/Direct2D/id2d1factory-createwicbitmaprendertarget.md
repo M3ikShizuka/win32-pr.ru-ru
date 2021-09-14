@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_name: ''
-ms.openlocfilehash: 177f5459d8245292e2962e502882bb86643f3f8b777efd8a336fde5f8c671897
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4025028582c254e7a5724a575ef0d7f1c7d91570
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119698184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163007"
 ---
 # <a name="id2d1factorycreatewicbitmaprendertarget-methods"></a>Методы ID2D1Factory:: Креатевикбитмапрендертаржет
 
@@ -35,13 +35,13 @@ ms.locfileid: "119698184"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Приложение должно создавать целевые объекты рендеринга один раз и удерживать их на протяжении всего жизненного цикла приложения или до тех пор, пока не будет получено сообщение об ошибке [**\_ повторного создания \_ D2DERR**](direct2d-error-codes.md) . При возникновении этой ошибки необходимо повторно создать целевой объект рендеринга (и все созданные им ресурсы).
 
 **Примечание** .   этот метод не поддерживается в Windows Phone и будет неудачным при вызове на устройстве с кодом ошибки 0x8899000b (для этой операции отсутствует устройство для отрисовки оборудования). так как Emulator Windows Phone поддерживает рендеринг деформации, этот метод завершится ошибкой при вызове в эмуляторе с другим кодом ошибки, 0x88982f80 (винкодек \_ err \_ унсуппортедпикселформат).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -52,7 +52,7 @@ ms.locfileid: "119698184"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: e4ebba4d72b7bc79f2aaefccfa2d71e57abd82aa06efb09abc2e83cebdb513f4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0771bb1dffc006abf8e02e6c391278f7d0b03f11
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120033534"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250651"
 ---
 # <a name="csymboltype-simple-type-performance-counters"></a>Простой тип Ксимболтипе (счетчики производительности)
 
@@ -40,7 +40,7 @@ ms.locfileid: "120033534"
 
     Имя символа может быть пустым или содержать буквы, цифры и символы подчеркивания. Если указано имя, имя должно начинаться с символа подчеркивания ( \_ ) или алфавитного знака.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

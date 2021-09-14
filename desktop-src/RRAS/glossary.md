@@ -6,12 +6,12 @@ keywords:
 - RRAS, глоссарий
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 267df34f4e0e5dd1eb81547714f917c55c770b659471b5cecae8c5e3cfdd35f7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0bc73cab4d3f8be9f14e09a49ee89c6f5a800f79
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117791467"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127273656"
 ---
 # <a name="glossary-rras"></a>Глоссарий (RRAS)
 

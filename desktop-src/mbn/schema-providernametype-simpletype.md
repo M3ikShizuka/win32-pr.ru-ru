@@ -11,12 +11,12 @@ api_name:
 - providerNameType
 api_type:
 - Schema
-ms.openlocfilehash: e0a1a0c999eebe8d4ac9922564a28f3b8abce90397fbbda3556bf7726c7355cd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: df61473358a9ed4453bc28f1b5c7974082e515bb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118744397"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127252553"
 ---
 # <a name="providernametype-simple-type"></a>Простой тип Провидернаметипе
 

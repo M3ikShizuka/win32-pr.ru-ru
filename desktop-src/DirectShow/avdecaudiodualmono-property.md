@@ -4,12 +4,12 @@ ms.assetid: 96cb9e17-588c-4a1a-a7ba-7f8439d5b79a
 title: Свойство Авдекаудиодуалмоно (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7a26bd6685cb9c9f326babbc01120019c93760fd7e1f9bf33f2a540d488300ad
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: adc84e19d41840b358e3e79576152dbc8527e2bb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119873394"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162159"
 ---
 # <a name="avdecaudiodualmono-property"></a>Авдекаудиодуалмоно, свойство
 
@@ -29,7 +29,7 @@ ms.locfileid: "119873394"
 
 Значение этого свойства является членом перечисления [**еавдекаудиодуалмоно**](/windows/desktop/api/codecapi/ne-codecapi-eavdecaudiodualmono) .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство применяется только в том случае, если входной поток битов декодера содержит Двухканальный звук. Двухканальный аудиопоток может быть закодирован как стерео или как двойной Моно. Если звук является двойным моно, можно задать свойство [**авдекаудиодуалмонорепромоде**](avdecaudiodualmonorepromode-property.md) , чтобы настроить способ воспроизведения звука декодером.
 

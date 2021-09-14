@@ -12,12 +12,12 @@ api_type:
 - DllExport
 ms.date: 07/02/2019
 ms.topic: reference
-ms.openlocfilehash: 3ce76db0608ccd79ecd8ea1be716f8cbdf4313f95bfdda9cfac7b63474e3f412
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d7e6d59f1c4cbffcde74ecb7b5adb5b12eff06bd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119873994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162776"
 ---
 # <a name="id2d1rendertargetpushaxisalignedclip-methods"></a>ID2D1RenderTarget: методы:P Ушаксисалигнедклип
 
@@ -34,7 +34,7 @@ ms.locfileid: "119873994"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Пара [**пушаксисалигнедклип**](/windows/win32/api/d2d1/nf-d2d1-id2d1rendertarget-pushaxisalignedclip(constd2d1_rect_f__d2d1_antialias_mode)) и [**попаксисалигнедклип**](/windows/win32/api/d2d1/nf-d2d1-id2d1rendertarget-popaxisalignedclip) может возникать или внутри [**пушлайер**](/windows/win32/api/d2d1/nf-d2d1-id2d1rendertarget-pushlayer(constd2d1_layer_parameters__id2d1layer)) и [**поплайер**](/windows/win32/api/d2d1/nf-d2d1-id2d1rendertarget-poplayer), но не может перекрываться. Например, последовательность **пушаксисалигнедклип**, [**пушлайер**](/windows/win32/api/d2d1/nf-d2d1-id2d1rendertarget-pushlayer(constd2d1_layer_parameters__id2d1layer)), **поплайер**, **Попаксисалигнедклип** является допустимой, но последовательность **пушаксисалигнедклип**, **пушлайер**, **PopAxisAlignedClip**, **PopLayer** недопустима.
 

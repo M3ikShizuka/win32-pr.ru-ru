@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 118d144a70c422204f1c2603c6d6d65d13a970d15c676d4a00a090f4aa3f7d42
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 64fb794d5ab38417d0ecd4ddabba9a28b33c28db
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120033604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250702"
 ---
 # <a name="counterattributes-counter-element"></a>Элемент Каунтераттрибутес (Counter)
 
@@ -28,7 +28,7 @@ ms.locfileid: "120033604"
 
 Элемент **каунтераттрибутес** определяется сложным типом [**счетчика**](performance-counters-counter-complex-type.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -39,7 +39,7 @@ ms.locfileid: "120033604"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 9399a06e-7305-41e8-aefe-3d158052a8ed
 title: о построителе Graph записи
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8d6ef82a160ada6e53fe6d2db830efa85118eb699074630905cd41f0b5412ca2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ae321665e0eae65a1d464bf87a12ac33e935d7ac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118664526"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162456"
 ---
 # <a name="about-the-capture-graph-builder"></a>о построителе Graph записи
 

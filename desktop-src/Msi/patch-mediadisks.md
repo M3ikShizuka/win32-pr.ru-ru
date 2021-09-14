@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 462d5b267670804bf2974cf59c848c2684f9e25a07b60488d3a9c0566d89e862
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 40353ecce95cb0c4eb69228b004623bbb87c904e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119558744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250891"
 ---
 # <a name="patchmediadisks-property"></a>Свойство patch. Медиадискс
 
@@ -41,7 +41,7 @@ propVal = Patch.MediaDisks
 
 В каждой записи первое поле содержит идентификатор диска, второе поле содержит метку тома, а третье поле содержит запрос диска, зарегистрированный для диска.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -53,17 +53,17 @@ propVal = Patch.MediaDisks
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
-[**Обновление**](patch-object.md)
+[**Защиты**](patch-object.md)
 </dt> <dt>
 
 [**мсисаурцелистенуммедиадискс**](/windows/desktop/api/Msi/nf-msi-msisourcelistenummediadisksa)
 </dt> <dt>
 
-[**Record**](record-object.md)
+[**Запись**](record-object.md)
 </dt> <dt>
 
 [не поддерживается в установщик Windows 2,0 и более ранних версиях](not-supported-in-windows-installer-version-2-0.md)

@@ -4,12 +4,12 @@ ms.assetid: 00198aec-d05d-4aaf-b63e-1625d8befe06
 title: Contact
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 024f8330e2aa5402fac76192928afd8064b4ff456fd37adab5d8e0e7d3d785d3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4d170b94a8a1b6a33345ff06eb051740e179aaca
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119460144"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127252265"
 ---
 # <a name="contact"></a>Contact
 
@@ -103,7 +103,7 @@ ms.locfileid: "119460144"
 | [System. Contact. Хомефакснумбер](./props-system-contact-homefaxnumber.md)<br/>                                | Номер домашнего факса контакта.<br/>                                                                     |
 | [System. Contact. Хометелефоне](./props-system-contact-hometelephone.md)<br/>                                | Номер домашнего телефона контакта.<br/>                                                               |
 | [System. Contact. a](./props-system-contact-imaddress.md)<br/>                                        | Адрес обмена мгновенными сообщениями контакта.<br/>                                                           |
-| [System.Contact.Iniтиалс](./props-system-contact-initials.md)<br/>                                          | Инициалы контакта.<br/>                                                                            |
+| [System. Contact. инициалы](./props-system-contact-initials.md)<br/>                                          | Инициалы контакта.<br/>                                                                            |
 | [System. Contact. JA. Компанинамефонетик](./props-system-contact-ja-companynamephonetic.md)<br/>              | Произношения названия компании контакта. <br/>                                                      |
 | [System. Contact. JA. Фирстнамефонетик](./props-system-contact-ja-firstnamephonetic.md)<br/>                  | Произношения имени.<br/>                                                                   |
 | [System. Contact. JA. Ластнамефонетик](./props-system-contact-ja-lastnamephonetic.md)<br/>                    | Произношения последнего имени.<br/>                                                                    |

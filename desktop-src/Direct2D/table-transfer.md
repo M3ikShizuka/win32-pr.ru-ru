@@ -6,12 +6,12 @@ keywords:
 - действие перемещения таблицы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d8c533b55fd55c983b976633b766a6d8d273631d6111de9e2e36387f711f5f14
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a4d590e7f232ac3d4cecd434786353dfc5b8ea80
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118665018"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162559"
 ---
 # <a name="table-transfer-effect"></a>Действие перемещения таблицы
 
@@ -21,7 +21,7 @@ ms.locfileid: "118665018"
 
 -   [Пример изображения](#example-image)
 -   [Свойства эффектов](#effect-properties)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example-image"></a>Пример изображения
@@ -104,7 +104,7 @@ m_d2dContext->EndDraw();
 |--------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента | Windows 8 и обновление платформы для Windows 7 \[ классических приложений \| Windows приложения магазина\] |
 | Минимальная версия сервера | Windows 8 и обновление платформы для Windows 7 \[ классических приложений \| Windows приложения магазина\] |
-| Header                   | d2d1effects. h                                                                      |
+| Заголовок                   | d2d1effects. h                                                                      |
 | Библиотека                  | D2D1. lib, дксгуид. lib                                                               |
 
 

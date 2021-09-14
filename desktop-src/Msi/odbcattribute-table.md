@@ -4,12 +4,12 @@ ms.assetid: 82fd83d4-22dd-4641-807b-d2b263918e4c
 title: Таблица Одбкаттрибуте
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8e31e67cde1625812d1c5b8af7dc3bd24347891d3a769e24deeb02db7cc44396
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a7e76a52dd63bdc8eb969324f7891e7359be7caf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118943182"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251074"
 ---
 # <a name="odbcattribute-table"></a>Таблица Одбкаттрибуте
 
@@ -21,9 +21,9 @@ ms.locfileid: "118943182"
 
 | Столбец    | Type                         | Ключ | Допускает значения NULL |
 |-----------|------------------------------|-----|----------|
-| Драйвер\_  | [Идентификатор](identifier.md) | Д   | Нет        |
-| attribute | [Text](text.md)             | Д   | Нет        |
-| Значение     | [Формате](formatted.md)   | Нет   | Д        |
+| Драйвер\_  | [Идентификатор](identifier.md) | Да   | Нет        |
+| attribute | [Text](text.md)             | Да   | Нет        |
+| Значение     | [Формате](formatted.md)   | Нет   | Да        |
 
 
 

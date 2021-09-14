@@ -4,12 +4,12 @@ ms.assetid: fe82392f-33e2-432a-a6e3-710e475547b3
 title: Добавление эффектов и объектов перехода
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 929678759d55a51b022cd7b870ddfa7cc5abb72279bcabe1694b5cc4eef211b7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1e6d33ed27faa0c69a755a17c72d9c5b136a4670
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118160065"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162399"
 ---
 # <a name="adding-effect-and-transition-objects"></a>Добавление эффектов и объектов перехода
 

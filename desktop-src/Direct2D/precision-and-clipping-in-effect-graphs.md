@@ -4,12 +4,12 @@ description: Приложения, которые визуализируют э�
 ms.assetid: 6fd1d77f-e613-534f-3205-bad11fa24c30
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 24f2af6fdee4561caa60ea22a0c700593f2333727e6c5a63c5346fdc78bbdb40
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 90628661ec8cd3f16ff6a6149aecbb7e8be3e5a9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118160508"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162643"
 ---
 # <a name="precision-and-numerical-clipping-in-effect-graphs"></a>Точность и числовое обрезание на диаграммах эффектов
 

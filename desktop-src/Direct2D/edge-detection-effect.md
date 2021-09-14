@@ -4,12 +4,12 @@ description: Отфильтровывает содержимое изображ�
 ms.assetid: d22868cf-95fe-690e-66ac-268d7e116aee
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f7067243c19ed65bcdc23f1654999ff10ad3b80bafa641d0d3da940719db7bcd
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b47239bede77dc5d32582c6e83c8101e5c9bbf2a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119967073"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163300"
 ---
 # <a name="edge-detection-effect"></a>Воздействие на обнаружение границ
 
@@ -20,14 +20,14 @@ ms.locfileid: "119967073"
 -   [Пример изображения](#example-image)
 -   [Образец кода](#sample-code)
 -   [Свойства эффектов](#effect-properties)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example-image"></a>Пример изображения
 
 ![Пример выходных данных эффектов](images/edge-detection-effect.png)
 
-## <a name="sample-code"></a>Пример кода
+## <a name="sample-code"></a>Образец кода
 
 ```cpp
 ComPtr<ID2D1Effect> edgeDetectionEffect;

@@ -4,12 +4,12 @@ ms.assetid: 3cf26f46-e8ac-448a-a031-800915cad1ef
 title: Свойство Авенккоммонмеанбитратеинтервал (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c5cbd463ea67e281183dccde937f16978634e4103670b0e82b90b96139da5296
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2ffee31b0ac54d195051f1cc973d2fdcb058f202
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118159813"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162011"
 ---
 # <a name="avenccommonmeanbitrateinterval-property"></a>Авенккоммонмеанбитратеинтервал, свойство
 
@@ -29,11 +29,11 @@ ms.locfileid: "118159813"
 
 Это свойство имеет линейный Диапазон значений. Чтобы получить поддерживаемый диапазон, вызовите метод [**икодекапи:: жетпараметерранже**](/windows/desktop/api/Strmif/nf-strmif-icodecapi-getparameterrange).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Для кодирования с переменной скоростью с двумя проходами (VBR) нулевое значение указывает, что интервал времени является всей длительностью содержимого. Для кодировки постоянной однопроходной скорости (CBR) значение ноль указывает, что кодировщик выбирает интервал (обычно 0,5 секунд).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -45,7 +45,7 @@ ms.locfileid: "118159813"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

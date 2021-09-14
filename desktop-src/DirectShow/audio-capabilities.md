@@ -4,12 +4,12 @@ ms.assetid: de96f6ee-b526-4ac2-93ac-a731f86ef5d5
 title: Возможности работы с аудио
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bd12f3e151a73c2a297d10fec4233ac0e931e11d8bf16e1068f6335c781ed6da
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9c2cf02927b69d807f400c4185a7d4ddbdd14322
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117824234"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162227"
 ---
 # <a name="audio-capabilities"></a>Возможности работы с аудио
 

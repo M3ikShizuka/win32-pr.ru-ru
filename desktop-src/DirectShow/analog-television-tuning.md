@@ -5,11 +5,11 @@ title: Настройка аналогового телевидения
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 1b85d0826340b913df88cb20dc538bc85943949b
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "105655605"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162288"
 ---
 # <a name="analog-television-tuning"></a>Настройка аналогового телевидения
 
@@ -78,7 +78,7 @@ if (SUCCEEDED(hr) && (lModes & AMTUNER_MODE_FM_RADIO))
 
 После просмотра всех частот вызовите метод [**иамтвтунер:: стореаутотуне**](/windows/desktop/api/Strmif/nf-strmif-iamtvtuner-storeautotune) , чтобы записать обновленные значения в реестр. Обновленные значения хранятся в записи реестра для текущего пространства настройки.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
