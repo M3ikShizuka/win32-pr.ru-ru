@@ -4,12 +4,12 @@ ms.assetid: e1bcdd59-8cbc-46f7-b908-c8cbc2ea0539
 title: Действие Форцеребут
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c41af6b656222a31ab75c9df3f2fa9f94af415f94d6d0b50010c0b25c5742502
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 807bab474f1faacfbc7684797b7a0b7b74f354d9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118636075"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068222"
 ---
 # <a name="forcereboot-action"></a>Действие Форцеребут
 

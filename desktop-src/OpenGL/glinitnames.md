@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0a567242431fc90be3b60d8ae08875b585ff6a81794899a6c9eb69e7a0a03daa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c9ebdb9d19f6c88340fd53162febe694e3566408
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119012122"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067503"
 ---
 # <a name="glinitnames-function"></a>Функция Глинитнамес
 
@@ -66,7 +66,7 @@ void WINAPI glInitNames(void);
 
 **глжет** с аргументом \_ , \_ \_ глубина стека максимальных имен \_
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -80,7 +80,7 @@ void WINAPI glInitNames(void);
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

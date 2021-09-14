@@ -21,11 +21,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: f1875353e8a5b4a23302a5f008af2cfa42a89b11
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104349585"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066095"
 ---
 # <a name="apijetupdate-method-jet_sesid-jet_tableid"></a>Метод API. Жетупдате (JET_SESID, JET_TABLEID)
 
@@ -68,7 +68,7 @@ public static void JetUpdate(
     
     Обновляемый курсор. Необходимо подготовить обновление.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Жетупдате является последним шагом в выполнении вставки или обновления. Обновление начинается с вызова [жетпрепареупдате (JET_SESID, JET_TABLEID, JET_prep)](./api.jetprepareupdate-method.md) , а затем путем вызова [жетсетколумн (JET_SESID, JET_TABLEID, JET_COLUMNID, \[ \] , Int32, сетколумнгрбит, JET_SETINFO)](./api.jetsetcolumn-method-jet-sesid-jet-tableid-jet-columnid-byte-int32-setcolumngrbit-jet-setinfo-.md) один или несколько раз для задания состояния записи. Наконец, для завершения операции обновления вызывается [жетупдате (JET_SESID, JET_TABLEID, \[ \] , Int32, Int32)](./api.jetupdate-method-jet-sesid-jet-tableid-byte-int32-int32-.md) . Индексы обновляются только в Жетупдате или, а не во время Жетсетколумн.
 

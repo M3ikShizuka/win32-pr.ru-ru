@@ -4,12 +4,12 @@ description: Когда поставщики безопасности регис
 ms.assetid: c8db8973-6d47-47b4-b927-72cfb464e9f0
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bdcaee5f017b27610834949f7debcd027e605eed41bf1f809ea0135ec716c0e3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 453a60c800d377dc122de561b87c41a5ec635328
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120022494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064885"
 ---
 # <a name="common-mistake-assuming-rpcserverregisterauthinfo-prevents-unauthorized-users-from-calling-your-server"></a>Распространенная ошибка: допущение Рпксерверрегистераусинфо предотвращает вызов сервера неавторизованными пользователями
 

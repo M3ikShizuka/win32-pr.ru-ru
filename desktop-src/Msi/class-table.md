@@ -4,12 +4,12 @@ ms.assetid: 0fa00a3f-2a5d-411d-9fc6-9486a600f018
 title: Таблица классов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 48985bd2d7e9670c89df53993e7170dc3e0e43a2b6e60f63d29e9f43e8d2ab3e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 29e7584fcb0440b8754179d8e274158cc64e3b74
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119066044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142493"
 ---
 # <a name="class-table"></a>Таблица классов
 
@@ -21,19 +21,19 @@ ms.locfileid: "119066044"
 
 | Столбец           | Type                         | Ключ | Допускает значения NULL |
 |------------------|------------------------------|-----|----------|
-| CLSID            | [GUID](guid.md)             | Д   | Нет        |
-| Контекст          | [Идентификатор](identifier.md) | Д   | Нет        |
-| Компонент\_      | [Идентификатор](identifier.md) | Д   | Нет        |
-| ProgId \_ по умолчанию  | [Text](text.md)             | Нет   | Д        |
-| Описание      | [Text](text.md)             | Нет   | Д        |
-| ИД\_          | [GUID](guid.md)             | Нет   | Д        |
-| филетипемаск     | [Text](text.md)             | Нет   | Д        |
-| Значок\_           | [Идентификатор](identifier.md) | Нет   | Д        |
-| икониндекс        | [Integer](integer.md)       | Нет   | Д        |
-| дефинпрочандлер | [Имя файла](filename.md)     | Нет   | Д        |
-| Аргумент         | [Формате](formatted.md)   | Нет   | Д        |
+| CLSID            | [GUID](guid.md)             | Да   | Нет        |
+| Контекст          | [Идентификатор](identifier.md) | Да   | Нет        |
+| См\_      | [Идентификатор](identifier.md) | Да   | Нет        |
+| ProgId \_ по умолчанию  | [Text](text.md)             | Нет   | Да        |
+| Описание      | [Text](text.md)             | Нет   | Да        |
+| AppId\_          | [GUID](guid.md)             | Нет   | Да        |
+| филетипемаск     | [Text](text.md)             | Нет   | Да        |
+| Значок\_           | [Идентификатор](identifier.md) | Нет   | Да        |
+| икониндекс        | [Integer](integer.md)       | Нет   | Да        |
+| дефинпрочандлер | [Имя файла](filename.md)     | Нет   | Да        |
+| Аргумент         | [Формате](formatted.md)   | Нет   | Да        |
 | Компонент\_        | [Идентификатор](identifier.md) | Нет   | Нет        |
-| Атрибуты       | [Integer](integer.md)       | Нет   | Д        |
+| Атрибуты       | [Integer](integer.md)       | Нет   | Да        |
 
 
 

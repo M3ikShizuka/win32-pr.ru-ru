@@ -4,12 +4,12 @@ description: Дескрипторы привязки могут быть авт�
 ms.assetid: 7f026199-6045-4f60-9002-543636cf6275
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c1a3db77f01bf0228623efe9d3dca5fbeb023d97fbe00e5da4d4ba070f323ba5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 60a09b858dfc677d06cf5885dc7a5f7a6ba599eb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119011081"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064853"
 ---
 # <a name="types-of-binding-handles"></a>Типы дескрипторов привязки
 

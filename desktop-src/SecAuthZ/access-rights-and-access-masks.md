@@ -4,12 +4,12 @@ ms.assetid: da67c486-d2e7-4632-ac7a-c18aabc3f21d
 title: Права доступа и маски доступа
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e1238766e2e4c8629b6c3a508b30d1e8832314d2e8ddd5ffdf4a1b93085f3c64
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 32f06cdf447f9d91c1553ea5fb6b3b7d1f324dc3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118914361"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067210"
 ---
 # <a name="access-rights-and-access-masks"></a>Права доступа и маски доступа
 

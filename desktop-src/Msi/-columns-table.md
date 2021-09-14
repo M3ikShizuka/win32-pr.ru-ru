@@ -4,12 +4,12 @@ ms.assetid: 1ddde4e2-90a9-4dd8-a4f9-b6802d0b11cf
 title: Таблица _Columns
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f7cbb603c077d7873cdfbea88070e555902883ba579b422627b2581aca04745b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3d896f330e5fc2e13b5f172581341eb11a09617d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118640479"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143294"
 ---
 # <a name="_columns-table"></a>\_Таблица Columns
 
@@ -21,8 +21,8 @@ ms.locfileid: "118640479"
 
 | Столбец | Type                   | Ключ | Допускает значения NULL |
 |--------|------------------------|-----|----------|
-| Таблица  | [Text](text.md)       | Д   | Нет        |
-| Число | [Integer](integer.md) | Д   | Нет        |
+| Таблица  | [Text](text.md)       | Да   | Нет        |
+| Число | [Integer](integer.md) | Да   | Нет        |
 | Имя   | [Text](text.md)       | Нет   | Нет        |
 
 

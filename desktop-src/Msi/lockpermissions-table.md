@@ -4,12 +4,12 @@ ms.assetid: 7c20e211-7704-49c2-a0c5-aaa695a09764
 title: Таблица Локкпермиссионс
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6724f9559f8bf4b5c0aac4581dab6ad7496e2c0e8e023636e621214760c26c99
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2c07402b80caec7beff68083567f2ff2fb9bf5eb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120043144"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065399"
 ---
 # <a name="lockpermissions-table"></a>Таблица Локкпермиссионс
 
@@ -23,11 +23,11 @@ ms.locfileid: "120043144"
 
 | Столбец     | Type                               | Ключ | Допускает значения NULL |
 |------------|------------------------------------|-----|----------|
-| LockObject | [Идентификатор](identifier.md)       | Д   | Нет        |
-| Таблица      | [Text](text.md)                   | Д   | Нет        |
+| LockObject | [Идентификатор](identifier.md)       | Да   | Нет        |
+| Таблица      | [Text](text.md)                   | Да   | Нет        |
 | Домен     | [Формате](formatted.md)         | Да   | Да        |
-| Пользователь       | [Формате](formatted.md)         | Д   | Нет        |
-| Разрешение | [даублеинтежер](doubleinteger.md) | Нет   | Д        |
+| Пользователь       | [Формате](formatted.md)         | Да   | Нет        |
+| Разрешение | [даублеинтежер](doubleinteger.md) | Нет   | Да        |
 
 
 

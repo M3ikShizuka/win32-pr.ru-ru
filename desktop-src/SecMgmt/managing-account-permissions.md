@@ -4,12 +4,12 @@ ms.assetid: c28c03f0-4638-42ed-8dad-1e934cf99273
 title: Управление разрешениями учетной записи
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0f5424d43424b067bc4771bd687c287e05e195f3e807a2db64bebaed4ece049d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d4dc22a4088986abbdaa98d8cdde43415af84905
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118894074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067081"
 ---
 # <a name="managing-account-permissions"></a>Управление разрешениями учетной записи
 

@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: 7e84eadbc7489ddd91c34c0c9494515e89205849829625e850ad31dce3e92fc1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 58290ec9d36d8e8428000422d0e1014335870149
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119142007"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064812"
 ---
 # <a name="microsoftwindowsactctx-object"></a>NNTP. Windows. Объект Акткткс
 
@@ -47,13 +47,13 @@ ms.locfileid: "119142007"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 **Microsoft. Windows. Объект Акткткс** имеет эти свойства.
 
 
 
-| Свойство                                | Тип доступа          | Описание                                    |
+| Свойство.                                | Тип доступа          | Описание                                    |
 |:----------------------------------------|:---------------------|:-----------------------------------------------|
 | [**Явление**](manifest.md)<br/> | Только для чтения<br/> | Возвращает активный контекст активации.<br/> |
 

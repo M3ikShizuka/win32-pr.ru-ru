@@ -5,11 +5,11 @@ title: Общие сведения об управлении сетевым ре
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 882b8d9ac423b8088f8979a48573793e3167fd50
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105664733"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067528"
 ---
 # <a name="about-network-share-management"></a>Общие сведения об управлении сетевым ресурсом
 
@@ -17,7 +17,7 @@ ms.locfileid: "105664733"
 
 ## <a name="in-this-section"></a>Содержание раздела
 
--   [Новые возможности управления сетевыми ресурсами в Windows Server 2008 R2 и Windows 7](what-s-new-in-network-share-management-in-windows-server-2008-r2-and-windows-7.md)
+-   [новые возможности управления сетевыми ресурсами в Windows Server 2008 R2 и Windows 7](what-s-new-in-network-share-management-in-windows-server-2008-r2-and-windows-7.md)
 -   [Функции Нетфиле](netfile-functions.md)
 -   [Функции сетевой папки](network-share-functions.md)
 -   [Функции сеанса](session-functions.md)

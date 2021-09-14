@@ -12,11 +12,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 7804e4d92d30d666d4d28c253a1a44572a707daa
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124372108"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067732"
 ---
 # <a name="configuration-windows-multimedia"></a>конфигурация (Windows мультимедиа)
 

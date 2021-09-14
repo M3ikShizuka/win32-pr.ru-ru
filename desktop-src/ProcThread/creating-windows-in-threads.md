@@ -4,12 +4,12 @@ ms.assetid: 27f04f9f-52d9-46d6-8e06-9b032682b7c7
 title: создание Windows в потоках
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d2084536ff43ea4c52efb179177fe6f6c803c49b9f580b2d298b73e9b528f1a3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aebcde45ca37696b6dbc90e639f630a689498b04
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119143097"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067348"
 ---
 # <a name="creating-windows-in-threads"></a>создание Windows в потоках
 

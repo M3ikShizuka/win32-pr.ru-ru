@@ -4,12 +4,12 @@ ms.assetid: 5857b788-f1dd-41d0-b0ee-0872494e3c2c
 title: Добавление функции конфигурации модуля в средство слияния
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cb20645d4a66b09ffa95e34f04e9057bd0a8c57e645be652d8ea8cd595ddd6cb
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ba04d297ad93cffc553670c648577f650cd21407
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119252104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143081"
 ---
 # <a name="adding-module-configuration-capability-to-a-merge-tool"></a>Добавление функции конфигурации модуля в средство слияния
 

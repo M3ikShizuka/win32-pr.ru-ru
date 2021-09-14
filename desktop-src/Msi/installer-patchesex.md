@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: a3d5a2413b61d7f54ed26eefcf17e1a4cd7a98b9bc4dc485b11daf349343f0e9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e615a9d17dbf1a40332afc5b49b3c0c5446963ee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120043664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065591"
 ---
 # <a name="installerpatchesex-property"></a>Свойство Installer. Патчесекс
 
@@ -37,7 +37,7 @@ propVal = Installer.PatchesEx
 
 ## <a name="property-value"></a>Значение свойства
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -49,7 +49,7 @@ propVal = Installer.PatchesEx
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -59,7 +59,7 @@ propVal = Installer.PatchesEx
 [**мсиенумпатчесекс**](/windows/desktop/api/Msi/nf-msi-msienumpatchesexa)
 </dt> <dt>
 
-[**Обновление**](patch-object.md)
+[**Защиты**](patch-object.md)
 </dt> <dt>
 
 [не поддерживается в установщик Windows 2,0 и более ранних версиях](not-supported-in-windows-installer-version-2-0.md)

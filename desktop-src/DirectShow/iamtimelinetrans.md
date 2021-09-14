@@ -1,5 +1,5 @@
 ---
-description: Интерфейс Иамтимелинетранс предоставляет методы для управления переходами в службах редактирования DirectShow (DES).
+description: интерфейс иамтимелинетранс предоставляет методы для манипулирования переходами в службах DirectShow editing Services (DES).
 ms.assetid: e29ff0cc-0e48-4a72-8a1b-051ed62c8130
 title: Интерфейс Иамтимелинетранс (Кедит. h)
 ms.topic: reference
@@ -15,11 +15,11 @@ api_location:
 - strmiids.lib
 - strmiids.dll
 ms.openlocfilehash: cd3c39d0a5434befdd5607b340fef936644bf48e
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105689420"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065656"
 ---
 # <a name="iamtimelinetrans-interface"></a>Интерфейс Иамтимелинетранс
 
@@ -28,7 +28,7 @@ ms.locfileid: "105689420"
 
  
 
-`IAMTimelineTrans`Интерфейс предоставляет методы для управления переходами в [службах редактирования DirectShow](directshow-editing-services.md) (DES). Переход — это ход выполнения между одним видеослоем и визуализированным совмещением всех слоев видео с более низким приоритетом. Переход можно добавить к любому объекту временной шкалы, предоставляющему интерфейс [**иамтимелинетрансабле**](iamtimelinetransable.md) . Чтобы задать свойства перехода, используйте интерфейс [**ипропертисеттер**](ipropertysetter.md) .
+`IAMTimelineTrans`интерфейс предоставляет методы для управления переходами в [службах DirectShow editing Services](directshow-editing-services.md) (DES). Переход — это ход выполнения между одним видеослоем и визуализированным совмещением всех слоев видео с более низким приоритетом. Переход можно добавить к любому объекту временной шкалы, предоставляющему интерфейс [**иамтимелинетрансабле**](iamtimelinetransable.md) . Чтобы задать свойства перехода, используйте интерфейс [**ипропертисеттер**](ipropertysetter.md) .
 
 Объект перехода DES на самом деле является оболочкой для объекта преобразования DirectX. Любой из двух входных объектов DirectX Transform можно использовать для реализации визуального влияния перехода. Корпорация Майкрософт больше не поддерживает разработку объектов преобразования DirectX сторонних производителей. Чтобы указать объект преобразования DirectX для перехода, вызовите метод [**иамтимелинеобж:: сетсубобжектгуид**](iamtimelineobj-setsubobjectguid.md) .
 
@@ -61,7 +61,7 @@ ms.locfileid: "105689420"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.
@@ -69,7 +69,7 @@ ms.locfileid: "105689420"
  
 
 > [!Note]  
-> Чтобы получить Кедит. h, скачайте [обновление Microsoft Windows SDK для Windows Vista и платформа .NET Framework 3,0](https://msdn.microsoft.com/windowsvista/bb980924.aspx). Кедит. h недоступен в Microsoft Windows SDK для Windows 7 и платформа .NET Framework 3,5 с пакетом обновления 1 (SP1).
+> чтобы получить кедит. h, скачайте [обновление Microsoft Windows SDK для Windows Vista и платформа .NET Framework 3,0](https://msdn.microsoft.com/windowsvista/bb980924.aspx). кедит. h недоступен в Microsoft Windows SDK для Windows 7 и платформа .NET Framework 3,5 с пакетом обновления 1 (sp1).
 
  
 
@@ -79,7 +79,7 @@ ms.locfileid: "105689420"
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Кедит. h</dt> </dl>      |
+| Заголовок<br/>  | <dl> <dt>Кедит. h</dt> </dl>      |
 | Библиотека<br/> | <dl> <dt>Стрмиидс. lib</dt> </dl> |
 
 

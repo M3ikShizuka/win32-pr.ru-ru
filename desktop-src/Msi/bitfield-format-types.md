@@ -4,12 +4,12 @@ ms.assetid: 3b05392e-4276-4970-ae43-9ee00bc9f476
 title: Типы битового формата
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: dd6f4052df6780d88397aa26da66ac9db3755e80cffd70efb642cc5873d216d3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b443f7ee363d1a2b48eb580623018264df8d50be
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119145737"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142617"
 ---
 # <a name="bitfield-format-types"></a>Типы битового формата
 

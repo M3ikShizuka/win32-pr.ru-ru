@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: e750b32023af8746e175944c640cdf929979edebfae17d317ff145755d777285
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1c8e028ecdc6456521b7aaa671cb4f5199e8751e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119977474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066103"
 ---
 # <a name="apijetterm-method"></a>API. Жеттерм, метод
 
@@ -57,7 +57,7 @@ public static void JetTerm(
 
 #### <a name="parameters"></a>Параметры
 
-  - экземпляр  
+  - instance  
     Тип: [Microsoft.ISAM.ESENT.Interop.JET_INSTANCE](./jet-instance-structure.md)  
     
     Экземпляр для завершения.

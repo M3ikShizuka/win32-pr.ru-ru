@@ -16,12 +16,12 @@ keywords:
 - режим двойной матрицы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 83716cead9134ba7823f4206fb6479d323bd35bddee480e9353a7ceb9aad38ae
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1b8c62f93fa8e027dd1c91ca0bd40bc8e6ffaf9f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118132393"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067471"
 ---
 # <a name="porting-msingle-mode-code"></a>Перенос кода режима МСИНГЛЕ
 

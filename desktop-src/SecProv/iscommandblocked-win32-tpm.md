@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Win32_tpm.dll
-ms.openlocfilehash: 25feef7de3d23a843983d9a0ef6dd6d828fe14784fe5e25883d3ff1b4e6ef783
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2811b7daad23b60692039683b117e2a3d51489ea
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118891895"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067058"
 ---
 # <a name="iscommandblocked-method-of-the-win32_tpm-class"></a>Метод Искоммандблоккед \_ класса TPM Win32
 

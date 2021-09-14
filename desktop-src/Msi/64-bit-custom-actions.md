@@ -4,12 +4,12 @@ ms.assetid: fc370ab4-93f3-4e1e-9468-3454d4fee0be
 title: 64-разрядные пользовательские действия
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c9bc3c3e664d8cfb4a94e089eef403255b2b4b18ad9729342bd9aedbe68f5710
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 77fcd804152abd010f985aab3b92c0de73a2744f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119066544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143246"
 ---
 # <a name="64-bit-custom-actions"></a>64-разрядные пользовательские действия
 

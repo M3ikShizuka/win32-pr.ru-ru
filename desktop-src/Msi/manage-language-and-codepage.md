@@ -4,12 +4,12 @@ ms.assetid: 319e9ffd-ff9f-4b4c-913e-2c571f2ec9ee
 title: Управление языком и кодовой страницей
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7a14f2dbc596245a64f11b010726a3be017952334efcedc684812e27063bce92
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3cbfb96f04d75ed79f32c8a49fe58b8dcc86f184
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117805146"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065384"
 ---
 # <a name="manage-language-and-codepage"></a>Управление языком и кодовой страницей
 

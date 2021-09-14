@@ -4,12 +4,12 @@ ms.assetid: 9f3d967b-2dd9-4cdc-917a-20dc5ebd0cf3
 title: Фаворитесфолдер, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a34e7bd466af38c21afca75ca05eb819df75b903e53766fb283d2feaa1275749
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 0e483f1840e20c6962594e42541c122c717bebac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120129514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141490"
 ---
 # <a name="favoritesfolder-property"></a>Фаворитесфолдер, свойство
 

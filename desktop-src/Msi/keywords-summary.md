@@ -4,12 +4,12 @@ ms.assetid: e19dc495-e4d4-465f-8464-c60af8985334
 title: Свойство сводки ключевых слов
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6a572161e440b440010d43f598e2baa453dbca514d71aa6f0f672deb7c726fa2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3828146fef861cd993331045d6a1380d84c2bbc4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119680314"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065456"
 ---
 # <a name="keywords-summary-property"></a>Свойство сводки ключевых слов
 

@@ -12,12 +12,12 @@ api_name:
 api_type:
 - Schema
 api_location: ''
-ms.openlocfilehash: 5d58ed866e79269e604fe49ad8afe65d557f27a90d0be03904b8d27da5ac5c2c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 644a4afbd10fbfff870007befda964fc9babd593
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118619061"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067648"
 ---
 # <a name="ssid-ssidconfig-element"></a>SSID (Ссидконфиг), элемент
 
@@ -82,8 +82,8 @@ ms.locfileid: "118619061"
 
 | Элемент                                              | Тип | Описание                                                           |
 |------------------------------------------------------|------|-----------------------------------------------------------------------|
-| [**hex**](wlan-profileschema-hex-ssid-element.md)   |      | Содержит идентификатор SSID беспроводной локальной сети в шестнадцатеричном формате.<br/> |
-| [**name**](wlan-profileschema-name-ssid-element.md) |      | Содержит идентификатор SSID для беспроводной локальной сети.<br/>                      |
+| [**Hex**](wlan-profileschema-hex-ssid-element.md)   |      | Содержит идентификатор SSID беспроводной локальной сети в шестнадцатеричном формате.<br/> |
+| [**безымян**](wlan-profileschema-name-ssid-element.md) |      | Содержит идентификатор SSID для беспроводной локальной сети.<br/>                      |
 
 
 

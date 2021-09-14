@@ -4,12 +4,12 @@ ms.assetid: e23e43ce-942f-4f6b-b5fd-cf366f7a7fe5
 title: ICE55
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 044b9993c6c50dce32c04f98d8e000f0faae4280d244c4656d7b0cbed7b49749
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 239093e3502a1731c3248918750c18aa1b3e1f18
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118635145"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068045"
 ---
 # <a name="ice55"></a>ICE55
 
@@ -36,8 +36,8 @@ Could not find item 'File3' in table 'File' which is referenced
 
 | LockObject | Таблица | Домен | Пользователь  | Разрешение |
 |------------|-------|--------|-------|------------|
-| Файл1      | File  |        | guest |            |
-| Файл3      | File  |        | guest | 1          |
+| Файл1      | Файл  |        | guest |            |
+| Файл3      | Файл  |        | guest | 1          |
 
 
 
@@ -47,7 +47,7 @@ Could not find item 'File3' in table 'File' which is referenced
 
 
 
-| File  | Версия | Язык |
+| Файл  | Версия | Язык |
 |-------|---------|----------|
 | Файл1 | Файл2   |          |
 | Файл2 | 1.0.0.0 | 1033     |

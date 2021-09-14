@@ -4,12 +4,12 @@ ms.assetid: 91dd58cf-6c8c-4d20-a829-c43301a30d7f
 title: Админпропертиес, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 30f59d2452e244bd22110ab918dff61279bf9d27f3c8735f37474aea894d0d02
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 739a0e29526ac7c6d9c094bc492cde1d04cdd0f8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120078134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143021"
 ---
 # <a name="adminproperties-property"></a>Админпропертиес, свойство
 
@@ -21,7 +21,7 @@ ms.locfileid: "120078134"
 
 Это свойство не должно заканчиваться точкой с запятой.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

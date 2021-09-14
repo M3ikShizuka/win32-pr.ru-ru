@@ -4,12 +4,12 @@ ms.assetid: e2f22838-102e-432c-9c82-06a3e0741374
 title: Перечисления авторизации
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6dade6bad12da6decb352e127f279b0f573ae16b6031089dcf92b51fde3813da
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c9363ca8039c326a81ad2e08a9136f5f65363146
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117784332"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064665"
 ---
 # <a name="authorization-enumerations"></a>Перечисления авторизации
 

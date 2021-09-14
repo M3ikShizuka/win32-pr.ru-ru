@@ -12,12 +12,12 @@ api_name:
 api_type:
 - UserDefined
 api_location: ''
-ms.openlocfilehash: 3cce78e261892fede79fb8fc76bc5b0d009342db3e0bf672be2854cb8492bcec
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7d8942acbc67f122ea79f0b9e98793628b5f21f8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117783768"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064661"
 ---
 # <a name="authzfreegroupscallback-callback-function"></a>Функция обратного вызова Аусзфриграупскаллбакк
 

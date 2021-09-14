@@ -1,20 +1,20 @@
 ---
-title: Составление и регистрация имен участников-служб для службы сокетов Windows на основе SCP
+title: составление и регистрация имен участников-служб для службы Windows сокетов на основе SCP
 description: В следующем примере кода показано, как создать и зарегистрировать имена участников-служб для службы. Вызовите этот код из установщика службы после вызова CreateService и создания точки подключения службы (SCP) службы.
 ms.assetid: 3957af10-974a-415f-b8fb-d9b52ac5a82d
 ms.tgt_platform: multiple
 keywords:
-- имена субъектов-служб AD, составление и регистрация имен участников-служб для службы сокетов Windows на основе SCP
+- имена субъектов-служб AD, составление и регистрация имен участников-служб для службы Windows сокетов на основе SCP
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: d754d51c0ad34b1623bdc84fc8178b04d33515ed
-ms.sourcegitcommit: 803f3ccd65bdefe36bd851b9c6e7280be9489016
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "103789613"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065830"
 ---
-# <a name="composing-and-registering-spns-for-scp-based-windows-sockets-service"></a>Составление и регистрация имен участников-служб для службы сокетов Windows на основе SCP
+# <a name="composing-and-registering-spns-for-scp-based-windows-sockets-service"></a>составление и регистрация имен участников-служб для службы Windows сокетов на основе SCP
 
 В следующем примере кода показано, как создать и зарегистрировать имена участников-служб для службы. Вызовите этот код из установщика службы после вызова [**CreateService**](/windows/desktop/api/winsvc/nf-winsvc-createservicea) и создания точки подключения службы (SCP) службы.
 
@@ -57,6 +57,6 @@ DsFreeSpnArray(ulSpn, pspn);
 
 Аналогичный код можно использовать для отмены регистрации имен участников-служб при удалении службы. Укажите имя **субъекта-службы DS \_ \_ DELETE \_ SPN \_** вместо имени субъекта-службы **DS \_ \_ Add \_ SPN \_**.
 
- 
+ 
 
- 
+ 

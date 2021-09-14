@@ -4,12 +4,12 @@ ms.assetid: 91d81fb2-3a41-477a-85c2-e68bfe482b9c
 title: Формат файла архива
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e72c7fe21b547bb5469af00dc9202d90dba3873a7ed86a6db6261a4228097a50
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aaf39383b961c305bf621793784332342f369a30
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119145837"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142862"
 ---
 # <a name="archive-file-format"></a>Формат файла архива
 

@@ -14,12 +14,12 @@ dev_langs:
 - JScript
 - VB
 - other
-ms.openlocfilehash: 070652336c264af1d4e091889ed7159b89411010347ae0042ecaca8633afc24c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3c4523385ecf425fe63a0b1b6235182d917bbc94
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118979284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065947"
 ---
 # <a name="jet_snprogequals-method"></a>JET_SNPROG. Метод Equals
 

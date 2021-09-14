@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 254b140e801f4d4440c9b292999e5c8f91175a30750b08bfd30abd6afd84f73d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 932b457bd1ddd870fd84facdb540e31188825504
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120062094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065761"
 ---
 # <a name="mcm_getcolor-message"></a>\_Сообщение MCM Color
 
@@ -58,7 +58,7 @@ ms.locfileid: "120062094"
 
 Возвращает значение **COLORREF** , представляющее параметр цвета для указанной части элемента управления "месячный календарь" в случае успеха. В противном случае это сообщение возвращает значение-1.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

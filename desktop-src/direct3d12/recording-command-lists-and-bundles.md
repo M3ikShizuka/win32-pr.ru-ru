@@ -5,12 +5,12 @@ ms.assetid: 0074B796-33A4-4AA1-A4E7-48A2A63F25B7
 ms.localizationpriority: high
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 480819cbd421b30cbf54a58578c02056d37d7e36bf2ead845c19e438df54cbb7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a928f50aea0f5e9046fa6752b9b68435f3214d2f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119850719"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066360"
 ---
 # <a name="creating-and-recording-command-lists-and-bundles"></a>Создание и запись списков команд и пакетов
 
@@ -52,7 +52,7 @@ ms.locfileid: "119850719"
 
 ## <a name="recording-command-lists"></a>Запись списков команд
 
-Сразу после создания списки команд находятся в состоянии записи. Можно также повторно использовать существующий список команд, вызвав I [**D3D12GraphicsCommandList:: Reset**](/windows/win32/api/d3d12/nf-d3d12-id3d12graphicscommandlist-reset), который также оставляет список команд в состоянии записи. В отличие от [**ID3D12CommandAllocator:: Reset**](/windows/win32/api/d3d12/nf-d3d12-id3d12commandallocator-reset), можно вызвать **Reset** , пока список команд еще выполняется. Типичный шаблон — отправить список команд и сразу же сбросить его, чтобы повторно использовать выделенную память для другого списка команд. Обратите внимание, что один список команд, связанный с каждым распределителем команд, может находиться в состоянии записи одновременно.
+Сразу после создания списки команд находятся в состоянии записи. Можно также повторно использовать существующий список команд путем вызова [**ID3D12GraphicsCommandList:: Reset**](/windows/win32/api/d3d12/nf-d3d12-id3d12graphicscommandlist-reset), который также оставляет список команд в состоянии записи. В отличие от [**ID3D12CommandAllocator:: Reset**](/windows/win32/api/d3d12/nf-d3d12-id3d12commandallocator-reset), можно вызвать **Reset** , пока список команд еще выполняется. Типичный шаблон — отправить список команд и сразу же сбросить его, чтобы повторно использовать выделенную память для другого списка команд. Обратите внимание, что один список команд, связанный с каждым распределителем команд, может находиться в состоянии записи одновременно.
 
 Когда список команд находится в состоянии записи, просто вызывайте методы интерфейса [**ID3D12GraphicsCommandList**](/windows/win32/api/d3d12/nn-d3d12-id3d12graphicscommandlist) , чтобы добавить команды в список. Многие из этих методов позволяют реализовать общие функции Direct3D, которые будут знакомы разработчикам Microsoft Direct3D 11; другие интерфейсы API являются новыми для Direct3D 12.
 

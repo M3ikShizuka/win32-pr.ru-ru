@@ -15,11 +15,11 @@ api_location:
 - Ndisnpp.dll
 - Rmtnpp.dll
 ms.openlocfilehash: 5287f472b2a0641eb29e4f1b37b6fe4e089dfa86
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105682464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067585"
 ---
 # <a name="iespquerystations-method"></a>Метод ИЕСП:: Куеристатионс
 
@@ -65,7 +65,7 @@ HRESULT STDMETHODCALLTYPE QueryStations(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот метод можно вызвать в любое время после вызова метода [креатенппинтерфаце](createnppinterface.md) . Вызов этого метода является синхронным вызовом, выполнение которого может занять несколько секунд, так как сетевой монитор ожидает ответа удаленных компьютеров на запрос. Можно запрашивать только компьютеры в локальной подсети.
 

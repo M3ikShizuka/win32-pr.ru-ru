@@ -4,12 +4,12 @@ ms.assetid: 874aa12b-e213-4857-9600-698c28dfda37
 title: Инициализация Winlogon
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fff33740b77b23577cd7749b8cc745cd06a55e18675e35b817e405a71679b482
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 768983d308228e73316c797fb67b035d491a1582
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119482396"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064748"
 ---
 # <a name="initializing-winlogon"></a>Инициализация Winlogon
 

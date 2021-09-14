@@ -4,12 +4,12 @@ ms.assetid: b330f9c3-3297-45cf-915c-5fbb291b8afb
 title: ШОРТФИЛЕНАМЕС, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cb64d9f2078a1455aa79bfec077e6108f4a8a5bd9ced7d246c5fe588919b33d8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e347e5ec400a1593858f0cac558f33528e25396e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119628414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067758"
 ---
 # <a name="shortfilenames-property"></a>ШОРТФИЛЕНАМЕС, свойство
 

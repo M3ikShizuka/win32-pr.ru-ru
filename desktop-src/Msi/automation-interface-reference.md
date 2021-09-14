@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 7e06aebad00f5288dacd03b2cd956b2c7bef17cd56e105243925517782b03aa5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6f616d24cd1bf389c3062865359b73ebeee8e6f6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119145797"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142686"
 ---
 # <a name="automation-interface-reference"></a>Справочник по интерфейсу автоматизации
 

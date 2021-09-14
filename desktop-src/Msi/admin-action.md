@@ -4,12 +4,12 @@ ms.assetid: 9925a645-5909-42c7-9de8-f908a5e42be9
 title: Действие администратора
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 785bd69a8de7da1df9a812f7e89d589b6e939b3eedd6b3cecb66bf86407636cc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 00106c9ab7877918e122f1ec9bd201fe30bb68b1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119145937"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143042"
 ---
 # <a name="admin-action"></a>Действие администратора
 

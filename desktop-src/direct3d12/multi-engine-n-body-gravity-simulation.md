@@ -5,12 +5,12 @@ ms.assetid: B20C5575-0616-43F7-9AC9-5F802E5597B5
 ms.localizationpriority: high
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: da14e34bfc881e000eb4f4557a0dddef3cee3d0ab55343a9e5597a483af39adc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e60782519de6f655882717c4ea657668129a6ce3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119632052"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066401"
 ---
 # <a name="multi-engine-n-body-gravity-simulation"></a>Моделирование гравитации для нескольких тел в нескольких движках
 

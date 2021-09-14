@@ -4,12 +4,12 @@ ms.assetid: ec774f31-7712-4a70-8c69-1cc731009049
 title: Атрибут элемента управления Bitmap
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e2cd7ea8186d1ed16de71ae9974bb67a082142ed3e921d023ad905d4f47bbc98
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9bda78231c1689c4c5faebeab98fbf6566c7e667
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118638743"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142614"
 ---
 # <a name="bitmap-control-attribute"></a>Атрибут элемента управления Bitmap
 

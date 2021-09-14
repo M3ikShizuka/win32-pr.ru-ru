@@ -5,12 +5,12 @@ ms.assetid: 399F5E91-B017-4F5E-9037-DC055407D96F
 ms.localizationpriority: high
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c17645dd55a145a54bed2652624e90e76ab6763a94ca624ed604cca1a7570112
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2dad0da9f84d68fc1acbf53332d1cae4075f0faa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117912210"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066333"
 ---
 # <a name="specifying-root-signatures-in-hlsl"></a>Определение корневых подписей в HLSL
 
@@ -34,7 +34,7 @@ ms.locfileid: "117912210"
 
 ## <a name="an-example-hlsl-root-signature"></a>Пример корневой подписи HLSL
 
-Корневая подпись может быть указана в HLSL в виде строки. Строка содержит коллекцию предложений с разделителями-запятыми, описывающих компоненты, составляющие корневую подпись. Корневая подпись должна быть идентичной в шейдере для любого объекта состояния конвейера (PSO). Пример:
+Корневая подпись может быть указана в HLSL в виде строки. Строка содержит коллекцию предложений с разделителями-запятыми, описывающих компоненты, составляющие корневую подпись. Корневая подпись должна быть идентичной в шейдере для любого объекта состояния конвейера (PSO). Например:
 
 ### <a name="root-signature-version-10"></a>Корневая подпись версии 1,0
 

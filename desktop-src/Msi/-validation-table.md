@@ -4,12 +4,12 @@ ms.assetid: 52b1c537-efb6-4bb8-9e7f-b4848be52a71
 title: Таблица _Validation
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 81a42fbe2a2f8da4abceb04912eee2a12edd708ff88d979fbf45f7de8051dc80
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 666f00ccccda11706dce6a8d7e04e0efea91b7cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118640449"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143253"
 ---
 # <a name="_validation-table"></a>\_Таблица проверки
 
@@ -21,16 +21,16 @@ ms.locfileid: "118640449"
 
 | Столбец      | Type                               | Ключ | Допускает значения NULL |
 |-------------|------------------------------------|-----|----------|
-| Таблица       | [Идентификатор](identifier.md)       | Д   | Нет        |
-| Столбец      | [Идентификатор](identifier.md)       | Д   | Нет        |
+| Таблица       | [Идентификатор](identifier.md)       | Да   | Нет        |
+| Столбец      | [Идентификатор](identifier.md)       | Да   | Нет        |
 | Допускает значения NULL    | [Text](text.md)                   | Нет   | Нет        |
-| MinValue    | [даублеинтежер](doubleinteger.md) | Нет   | Д        |
-| MaxValue    | [даублеинтежер](doubleinteger.md) | Нет   | Д        |
-| кэйтабле    | [Идентификатор](identifier.md)       | Нет   | Д        |
-| KeyColumn   | [Integer](integer.md)             | Нет   | Д        |
-| Категория    | [Text](text.md)                   | Нет   | Д        |
-| Присвойте параметру         | [Text](text.md)                   | Нет   | Д        |
-| Описание | [Text](text.md)                   | Нет   | Д        |
+| MinValue    | [даублеинтежер](doubleinteger.md) | Нет   | Да        |
+| MaxValue    | [даублеинтежер](doubleinteger.md) | Нет   | Да        |
+| кэйтабле    | [Идентификатор](identifier.md)       | Нет   | Да        |
+| KeyColumn   | [Integer](integer.md)             | Нет   | Да        |
+| Категория    | [Text](text.md)                   | Нет   | Да        |
+| Присвойте параметру         | [Text](text.md)                   | Нет   | Да        |
+| Описание | [Text](text.md)                   | Нет   | Да        |
 
 
 
@@ -65,7 +65,7 @@ ms.locfileid: "118640449"
 
 | Строка | Значение                                   |
 |--------|-------------------------------------------|
-| Д      | Да, столбец может иметь значение null.    |
+| Да      | Да, столбец может иметь значение null.    |
 | Нет      | Нет, столбец не может иметь значение null. |
 
 

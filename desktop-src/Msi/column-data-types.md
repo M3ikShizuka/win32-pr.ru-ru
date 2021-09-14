@@ -4,19 +4,19 @@ ms.assetid: 19f58237-9cad-4feb-b439-77b183d14dcf
 title: Типы данных столбцов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c47a30d7d7c1f07bd7e651939bf1e7931284febab9f3b70168afdbf26dcba3f3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 894596e7b9226ee0efc202bb11f236619b808d0c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120078024"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142437"
 ---
 # <a name="column-data-types"></a>Типы данных столбцов
 
 Столбцы таблиц базы данных форматируются в одном из следующих типов данных:
 
 -   [Text](text.md)
--   [UpperCase](uppercase.md)
+-   [Верхний регистр](uppercase.md)
 -   [Пишут](lowercase.md)
 -   [Integer](integer.md)
 -   [даублеинтежер](doubleinteger.md)
@@ -35,7 +35,7 @@ ms.locfileid: "120078024"
 -   [Шаблон](template.md)
 -   [Condition](condition.md)
 -   [GUID](guid.md)
--   [Version](version.md)
+-   [Версия](version.md)
 -   [Язык](language.md)
 -   [Двоичный](binary.md)
 -   [кустомсаурце](customsource.md)

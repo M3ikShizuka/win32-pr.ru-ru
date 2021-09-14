@@ -17,12 +17,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 07a498aef2a9dcfd108733b45526bd876817d8d5075323d0edd95c7cbf3de8df
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d49a040bb5656ae6ef6d926a45b31808623e399b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119755324"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066443"
 ---
 # <a name="ibackgroundcopyjobgetprogress-method"></a>Метод использованием метода ibackgroundcopyjob:: Progress
 

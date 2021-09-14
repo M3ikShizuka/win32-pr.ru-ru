@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Nmapi.dll
-ms.openlocfilehash: edc4d1a9e33139372d0f397053d233a28c9e2445ba270a47e7dbfe97090eb6a1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cc26056a3ec3e8820c363d97f92c7eb382cd0622
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119890833"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067622"
 ---
 # <a name="expertfreememory-function"></a>Функция Експертфримемори
 
@@ -64,7 +64,7 @@ SIZE_T WINAPI ExpertFreeMemory(
 
 Важно отметить, что эксперт должен использовать сетевой монитор функции выделения памяти для управления памятью. Если во время выполнения эксперт не работает, использование этих функций позволит сетевой монитор освободить выделенную память.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

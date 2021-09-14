@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Mergemod.dll
-ms.openlocfilehash: 075fba028dd045c831adb84a7133fd524398fc74037b7e3c31116b76a4c95a1c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c0de387c0101e7b79e64486089abcbd49f5d60d9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120086044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141621"
 ---
 # <a name="errordatabasekeys-property"></a>Ошибка. Датабасекэйс, свойство
 
@@ -48,7 +48,7 @@ propVal = Error.DatabaseKeys
 
 См. раздел [**Получение функции \_ датабасекэйс**](/windows/win32/api/mergemod/nf-mergemod-imsmerror-get_databasekeys) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

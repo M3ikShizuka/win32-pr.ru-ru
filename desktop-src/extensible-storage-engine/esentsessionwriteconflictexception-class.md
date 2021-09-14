@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 7cc03d51b955f50baa5dbd0fe9566f0076ce6cc97b1de8544ec9d8656e8865f2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f0725bc2d1215e4e71e0e68b2fa7e0d4246a96b5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118260158"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066024"
 ---
 # <a name="esentsessionwriteconflictexception-class"></a>Класс Есентсессионвритеконфликтексцептион
 

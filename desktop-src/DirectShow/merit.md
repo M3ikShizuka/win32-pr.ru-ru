@@ -4,12 +4,12 @@ ms.assetid: 9e026675-e0a9-4c82-9b57-ab0e7d9592ea
 title: О-в (DShow. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3a55c112f1a08d63e45d5385f525371ae9642c1b01a1b4af5d7747b042efffe2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 947a13d78f58c12c236ec31f0eeee1dc6d44f1d0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119073018"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065624"
 ---
 # <a name="merit"></a>Заслуживают
 
@@ -24,7 +24,7 @@ ms.locfileid: "119073018"
 
 Фильтр, который никогда не должен учитываться при обычном воспроизведении, должен **быть \_ \_ не \_ использован** или меньше. Фильтры могут быть зарегистрированы с промежуточными значениями, не определенными этим перечислением, например с недопустимым **\_ нормальным** + 1.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -34,7 +34,7 @@ ms.locfileid: "119073018"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

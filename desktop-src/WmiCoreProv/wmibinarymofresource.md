@@ -18,11 +18,11 @@ api_type:
 api_location:
 - Root\WMI
 ms.openlocfilehash: 715436ef19308c811e5486926b3cd7e59ee9de0f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103898098"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066560"
 ---
 # <a name="wmibinarymofresource-class"></a>Класс Вмибинаримофресаурце
 
@@ -40,13 +40,13 @@ class WMIBinaryMofResource
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **вмибинаримофресаурце** имеет следующие типы членов:
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **вмибинаримофресаурце** имеет следующие свойства.
 
@@ -97,7 +97,7 @@ class WMIBinaryMofResource
 
 </dd> <dt>
 
-**Name**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -113,7 +113,7 @@ class WMIBinaryMofResource
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Поставщик классов WDM создает экземпляр **вмибинаримофресаурце** для каждого драйвера WDM, который предоставляет двоичный MOF-файл.
 
@@ -126,7 +126,7 @@ class WMIBinaryMofResource
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP<br/>                                                              |
-| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                     |
+| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                     |
 | Пространство имен<br/>                | Корневой \\ инструментарий WMI<br/>                                                               |
 | MOF<br/>                      | <dl> <dt>WMI. mof</dt> </dl> |
 

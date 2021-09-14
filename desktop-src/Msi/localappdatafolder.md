@@ -4,12 +4,12 @@ ms.assetid: 7862581a-1805-4bb9-8de5-d42d809f3fc7
 title: Локалаппдатафолдер, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e9c7863a4ced894ba1663ee7b3635e295d47b00da3d1f1ab8fa41bda1ce8de3e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 14d5cdce1163b4dd09a75107f7b6c454d139d07f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118629727"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065410"
 ---
 # <a name="localappdatafolder-property"></a>Локалаппдатафолдер, свойство
 

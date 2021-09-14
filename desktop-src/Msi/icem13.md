@@ -4,12 +4,12 @@ ms.assetid: 1281ee21-a154-4275-a9e6-6e92fff548ed
 title: ICEM13
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 678b89e14cb699bb6207be5c2e14473de2a743494b47ff5ae5e0ccda2a9cc9cc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3286906cf162f24dce7105835544c3a387993ac6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119894284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067933"
 ---
 # <a name="icem13"></a>ICEM13
 

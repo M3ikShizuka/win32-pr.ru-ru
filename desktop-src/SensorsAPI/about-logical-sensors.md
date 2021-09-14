@@ -4,12 +4,12 @@ ms.assetid: fb0f0324-d72e-4759-9f4d-deedf8848e21
 title: О логических датчиках
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 655bb7a6e67223bb959b155e55f6cc059ffd8280bc8c08fb00d4d88cb2c8b0a9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: be6f8687575aaedbb006eb2ad6ebaad9cf8d3ab6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119003900"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067029"
 ---
 # <a name="about-logical-sensors"></a>О логических датчиках
 
@@ -30,9 +30,9 @@ ms.locfileid: "119003900"
 
 [**Илогикалсенсорманажер**](/previous-versions/windows/desktop/legacy/dd318934(v=vs.85)) имеет следующие методы:
 
--   [**Подключение**](/previous-versions/windows/desktop/legacy/dd374029(v=vs.85))
--   [**Отключение**](/previous-versions/windows/desktop/legacy/dd374030(v=vs.85))
--   [**Удалить**](/previous-versions/windows/desktop/legacy/dd374031(v=vs.85))
+-   [**Подключить**](/previous-versions/windows/desktop/legacy/dd374029(v=vs.85))
+-   [**Отключить**](/previous-versions/windows/desktop/legacy/dd374030(v=vs.85))
+-   [**Удаление**](/previous-versions/windows/desktop/legacy/dd374031(v=vs.85))
 
 при вызове [**Подключение**](/previous-versions/windows/desktop/legacy/dd374029(v=vs.85))API-интерфейс датчика создает экземпляр драйвера датчика, если он еще не существует, а затем подключает логический датчик к платформе. Это означает, что логический датчик отображается с другими датчиками в панели управления **расположение и другие датчики** . При вызове функции [**Disconnect**](/previous-versions/windows/desktop/legacy/dd374030(v=vs.85))API-интерфейс датчика отключает логический датчик и удаляет его из панели управления. Вызов метода **Disconnect** не приводит к удалению логического датчика из **Диспетчер устройств**. поэтому будущие вызовы **Подключение** приведут к значительному ускорению подключения к логическому датчику.
 

@@ -4,12 +4,12 @@ ms.assetid: 40622282-e190-40d0-80d4-cab9eddc2091
 title: Шифрование данных с помощью CNG
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b264518c2a0ccfe0f626c869ba3062c0429941234ca0c286f9e7801961485b74
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a8f161cd23ec6863bee7f5ffd5b696fa99880e3b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118907742"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067125"
 ---
 # <a name="encrypting-data-with-cng"></a>Шифрование данных с помощью CNG
 

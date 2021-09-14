@@ -4,12 +4,12 @@ ms.assetid: 28416230-d0c2-4f6a-9908-45851a5664c5
 title: Исполняемые файлы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 83ef271b898f75beb19499f45e4d821ebb62fddfdb331133f9e5557086fae4ca
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d2e552b4efea05faa6c8975f270966ab22d2a040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118143024"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141545"
 ---
 # <a name="executable-files"></a>Исполняемые файлы
 

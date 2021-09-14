@@ -4,12 +4,12 @@ ms.assetid: c236f335-b5de-4e8b-851d-45e008791271
 title: Функции авторизации (авторизация)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 70bc8637fc9e17e8de4c26ae484d909fffcb2386b58eb189e6ba3a113a03e474
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7995db6e003c043d1b8163f391a9950b92c2e182
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118914260"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064666"
 ---
 # <a name="authorization-functions-authorization"></a>Функции авторизации (авторизация)
 

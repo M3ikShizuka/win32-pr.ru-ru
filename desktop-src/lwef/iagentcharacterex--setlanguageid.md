@@ -4,12 +4,12 @@ description: Иажентчарактерекс Сетлангуажеид
 ms.assetid: 064f4c3c-1871-4372-9796-5b53f05c6d9a
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 85eecd54f7642a0f82cef5fc8846c10b562f0474aa166beee7056e62782e780c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 036e1d41878adaae878a5961b45d190971d790af
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118477860"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065832"
 ---
 # <a name="iagentcharacterexsetlanguageid"></a>Иажентчарактерекс:: Сетлангуажеид
 
@@ -74,7 +74,7 @@ HRESULT SetLanguageID(
 
  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 [**Иажентчарактерекс: жетлангуажеид**](iagentcharacterex--getlanguageid.md), [**Иажентчарактерекс:: жетсрмодеид**](iagentcharacterex--getsrmodeid.md), [**иажентчарактерекс:: GetTTSModeID**](iagentcharacterex--getttsmodeid.md)
 

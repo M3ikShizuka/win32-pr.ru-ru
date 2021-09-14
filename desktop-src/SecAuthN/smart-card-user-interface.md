@@ -4,12 +4,12 @@ ms.assetid: a64a617a-b2ae-471f-a88f-a73f0fc3a791
 title: Пользовательский интерфейс смарт-карты
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b3b94a82889d196b01f8a1d1ca6af7b4788398d9508accc2d5ca245f7929d9d0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fc558446516149529e9a98d28aa9fe94f80b2777
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118917334"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064676"
 ---
 # <a name="smart-card-user-interface"></a>Пользовательский интерфейс смарт-карты
 

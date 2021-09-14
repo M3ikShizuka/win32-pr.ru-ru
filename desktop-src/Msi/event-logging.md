@@ -4,12 +4,12 @@ ms.assetid: 1f28cbce-b759-4293-8af2-15f86f23228c
 title: ведение журнала событий (установщик Windows)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 08c1aa4808727a220ec104cb3e7bfdff2741dcb2366ca1468288a082baab813b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ce7fdaf29ec0c638d3c85b82c74cca2bbede63c4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118636928"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141565"
 ---
 # <a name="event-logging-windows-installer"></a>ведение журнала событий (установщик Windows)
 
@@ -33,7 +33,7 @@ ms.locfileid: "118636928"
 <thead>
 <tr class="header">
 <th>Идентификатор события</th>
-<th>Message</th>
+<th>Сообщение</th>
 <th>Remarks</th>
 </tr>
 </thead>

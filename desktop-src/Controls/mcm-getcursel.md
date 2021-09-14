@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b40ed6797cd7f40eb68e40a9eac90eb250badd461011e5490c0f4c8473571bb3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7dece95c65e900119c7043c0d5eda22bf473e6c6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118170211"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065760"
 ---
 # <a name="mcm_getcursel-message"></a>MCM \_ сообщение
 
@@ -43,7 +43,7 @@ ms.locfileid: "118170211"
 
 Возвращает ненулевое значение в случае успеха или ноль в противном случае. Это сообщение всегда будет завершаться ошибкой при применении к элементам управления "Календарь на месяц", для которых задан стиль "Многоэлементный [**\_ Выбор MCS**](month-calendar-control-styles.md) ".
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ ms.locfileid: "118170211"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

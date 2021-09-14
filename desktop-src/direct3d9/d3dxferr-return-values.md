@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3dx9xof.h
-ms.openlocfilehash: b6e106fc7163ed4ff66e74332336cc85b2a95afdc0fa6b712b00f3b32e2af248
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cab1cc5e70b6204c832fd9fe5b0fecac4276f578
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118096069"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066265"
 ---
 # <a name="d3dxferr-return-values"></a>Возвращаемые значения D3DXFERR
 
@@ -174,7 +174,7 @@ ms.locfileid: "118096069"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

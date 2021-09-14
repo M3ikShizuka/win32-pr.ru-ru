@@ -4,12 +4,12 @@ ms.assetid: 79af4bb0-1e0f-4df3-ae25-d2798842adb6
 title: Атрибут элемента управления Комболист
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 71e0a53357d91c5c5a016f65e8e1e0fb341b15cae1ea2c6cf480e536fa109067
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f2dcb1c51e8eccaba03c3b4d905b0501e8a3f97a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118145383"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142429"
 ---
 # <a name="combolist-control-attribute"></a>Атрибут элемента управления Комболист
 

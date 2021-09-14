@@ -4,12 +4,12 @@ ms.assetid: 2ab31a32-6d33-46b7-a295-199560efa7fb
 title: Таблица Ббконтрол
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 70198167c866195204ec6cbcf644b92f3489a4ff44e14e719efbf5c6647e30c2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: dfebbdbc474ef88cbf26f34555deb4874840d005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119754374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142658"
 ---
 # <a name="bbcontrol-table"></a>Таблица Ббконтрол
 
@@ -21,15 +21,15 @@ ms.locfileid: "119754374"
 
 | Столбец      | Type                               | Ключ | Допускает значения NULL |
 |-------------|------------------------------------|-----|----------|
-| Печат\_ | [Идентификатор](identifier.md)       | Д   | Нет        |
-| ббконтрол   | [Идентификатор](identifier.md)       | Д   | Нет        |
+| Печат\_ | [Идентификатор](identifier.md)       | Да   | Нет        |
+| ббконтрол   | [Идентификатор](identifier.md)       | Да   | Нет        |
 | Тип        | [Идентификатор](identifier.md)       | Нет   | Нет        |
 | X           | [Integer](integer.md)             | Нет   | Нет        |
-| Д           | [Integer](integer.md)             | Нет   | Нет        |
+| Да           | [Integer](integer.md)             | Нет   | Нет        |
 | Ширина       | [Integer](integer.md)             | Нет   | Нет        |
-| Высота      | [Integer](integer.md)             | Нет   | Нет        |
-| Атрибуты  | [даублеинтежер](doubleinteger.md) | Нет   | Д        |
-| Текст        | [Text](text.md)                   | Нет   | Д        |
+| Высота:      | [Integer](integer.md)             | Нет   | Нет        |
+| Атрибуты  | [даублеинтежер](doubleinteger.md) | Нет   | Да        |
+| Текст        | [Text](text.md)                   | Нет   | Да        |
 
 
 

@@ -4,12 +4,12 @@ description: В этом разделе обсуждаются различны�
 ms.assetid: 82278f4b-1273-45e8-9078-ad919a4711f0
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c0946b83aae296f7b908babca9135c35a0afe8dbe7588a8292ad66bc19dc6488
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 82b0b43f996cc0a165076f1d7aab1b69e6fb9b73
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118928073"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064875"
 ---
 # <a name="miscellaneous-rpc-performance-tips"></a>прочие Советы производительности RPC
 

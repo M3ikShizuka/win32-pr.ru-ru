@@ -5,12 +5,12 @@ title: Свойство ALLUSERS
 ms.topic: reference
 ms.custom: snippet-project
 ms.date: 07/27/2020
-ms.openlocfilehash: b6412707d6ef46b55d1f8add3de56a24e6f970dc9fa7f0353dce6ec9efa9f531
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f4e490216a16b6ef36cdb90efebbbf24a7b1b9cf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119581884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142970"
 ---
 # <a name="allusers-property"></a>Свойство ALLUSERS
 
@@ -50,7 +50,7 @@ ms.locfileid: "119581884"
 
 [Контекст установки](installation-context.md) определяет значения свойств [**DesktopFolder**](desktopfolder.md), [**программенуфолдер**](programmenufolder.md), [**programmenufolder**](startmenufolder.md), [**стартупфолдер**](startupfolder.md), [**темплатефолдер**](templatefolder.md), [**админтулсфолдер**](admintoolsfolder.md), [**ProgramFilesFolder**](programfilesfolder.md), [**коммонфилесфолдер**](commonfilesfolder.md), [**ProgramFiles64Folder**](programfiles64folder.md)и [**CommonFiles64Folder**](commonfiles64folder.md) . Контекст установки определяет части реестра, в которых записи в [таблице реестра](registry-table.md) и [таблице ремоверегистри](removeregistry-table.md)с параметром-1 в корневом столбце, записываются или удаляются.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

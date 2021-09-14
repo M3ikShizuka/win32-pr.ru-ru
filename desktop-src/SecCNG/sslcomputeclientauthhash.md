@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Ncrypt.dll
-ms.openlocfilehash: 59d1a4d8491175acb0f833cbafb430faae9b36b38a179970b7a99d6b0077591d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: faea1699657efd92049068e48ff361c48242e9c1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118907165"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067104"
 ---
 # <a name="sslcomputeclientauthhash-function"></a>Функция Сслкомпутеклиентаусхаш
 
@@ -126,7 +126,7 @@ SECURITY_STATUS WINAPI SslComputeClientAuthHash(
 
 Способ вычисления хэша зависит от используемого протокола и набора шифров. Кроме того, хэш зависит от типа используемого ключа проверки подлинности клиента. параметр *псзалгид* указывает тип ключа, используемого для проверки подлинности клиента.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

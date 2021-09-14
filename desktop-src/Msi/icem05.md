@@ -4,12 +4,12 @@ ms.assetid: 1bf4041e-b198-4897-8719-8505fd8180ec
 title: ICEM05
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4ee34dbc16b9cf3aeaa16aec9b5d62671cd51036c563bfb8561815ad3c21d0ec
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e62ca481ef836c2675c381817fe2242e37384818
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119996784"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067946"
 ---
 # <a name="icem05"></a>ICEM05
 
@@ -40,7 +40,7 @@ ModuleComponents table.
 
 | ModuleID         | Язык | Версия |
 |------------------|----------|---------|
-| MyModule. *GUID1* | 1033     | 1.0     |
+| MyModule. *GUID1* | 1033     | 1,0     |
 
 
 

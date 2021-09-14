@@ -12,12 +12,12 @@ api_name:
 api_type:
 - Schema
 api_location: ''
-ms.openlocfilehash: 961f1b6be52da97ada2c230579ac281652a07fcbae67ac32d2399eb2968b1946
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cb327be4006e8da0074815a74e49d3ccdc5d3c84
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119912574"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067640"
 ---
 # <a name="useonex-authencryption-element"></a>Усеонекс (Аусенкриптион), элемент
 
@@ -36,7 +36,7 @@ ms.locfileid: "119912574"
 
 Чтобы просмотреть образцы профилей, использующих элемент **усеонекс** , см. раздел [образцы профиля беспроводной связи](wireless-profile-samples.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -48,7 +48,7 @@ ms.locfileid: "119912574"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

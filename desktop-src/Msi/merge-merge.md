@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Mergemod.dll
-ms.openlocfilehash: 43644f8ef19b81331f9f2d88d4dac03d654379d51174a50e994d3642cb86eabc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f33a0ba8218ae38d8fb31cefb6910f5b2c16484d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117804734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067848"
 ---
 # <a name="mergemerge-method"></a>Merge. Merge, метод
 
@@ -75,7 +75,7 @@ Merge.Merge(
 
 См. раздел Функция [**Merge**](/windows/win32/api/mergemod/nf-mergemod-imsmmerge-merge) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

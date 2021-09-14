@@ -4,12 +4,12 @@ ms.assetid: 9b1b25b5-b190-47c2-8d43-fa3964e87a6f
 title: ICE94
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1dd203fe35b6bedc7d36f3e5a5c18fc6a235d3e65924b41909803e67ab79337e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d8ce52e88a31e246eb4d69defba77b64c2955eb8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119894894"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067966"
 ---
 # <a name="ice94"></a>ICE94
 
@@ -41,7 +41,7 @@ The non-advertised shortcut 'shortcut1' points to an assembly file in the global
 
 
 
-| Сочетание клавиш  | Компонент\_ | Целевой объект    |
+| Сочетание клавиш  | См\_ | Назначение    |
 |-----------|-------------|-----------|
 | shortcut1 | c1          | \[file1\] |
 | shortcut2 | c2          | Feature1  |
@@ -67,7 +67,7 @@ The non-advertised shortcut 'shortcut1' points to an assembly file in the global
 
 
 
-| Компонент\_ | \_Приложение файла |
+| См\_ | \_Приложение файла |
 |-------------|-------------------|
 | c1          |                   |
 | c2          |                   |

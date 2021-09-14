@@ -7,12 +7,12 @@ keywords:
 - Запрос комментариев, протоколы маршрутизации
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: dca1cb772b3e2e3f37a643ac73b2bd855820e238a54c4090d79377868dd9c546
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3a3d3acb6e269c10a128a2b9519b892cd373ad4f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120027264"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067320"
 ---
 # <a name="routing-protocols-request-for-comments"></a>Протоколы маршрутизации запрос комментариев
 

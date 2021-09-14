@@ -4,12 +4,12 @@ ms.assetid: e6e3ea44-a1d4-451a-b326-e8fb7ed4adeb
 title: ICE25
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e2715ce629ad22b872b8d38d0c6848236b9f1af9378a0a652b702e7b72cbd7dd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e0d966c4c374d6e61e30b44a41ad88bed8bf907f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119528954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068100"
 ---
 # <a name="ice25"></a>ICE25
 
@@ -38,7 +38,7 @@ Module ModuleB@1033 v1.0 is excluded.
 | ModuleID | Язык | Версия |
 |----------|----------|---------|
 | Модуль а  | 0        | 1.0     |
-| модулеб  | 1033     | 1.0     |
+| модулеб  | 1033     | 1,0     |
 
 
 

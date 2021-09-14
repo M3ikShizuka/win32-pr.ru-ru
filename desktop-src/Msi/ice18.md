@@ -4,12 +4,12 @@ ms.assetid: de31b893-831b-4a6d-809a-c4a3056b8a66
 title: ICE18
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4ca102e8fdec5e30283cd879ddb5677a2bba79f90ba5a9a790ea50923e0aeedb
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a60a3032a285604197e4c0bfda4225d519b0b744
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119581144"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068117"
 ---
 # <a name="ice18"></a>ICE18
 

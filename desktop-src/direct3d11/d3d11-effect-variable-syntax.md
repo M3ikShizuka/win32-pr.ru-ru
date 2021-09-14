@@ -4,12 +4,12 @@ description: Переменная Effect объявляется с помощь�
 ms.assetid: c0cfc9dd-2df3-4f38-a0e4-2e494456b3c9
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 25057f3cd2535a0b48072616c3dd59393f90a24fe044c1cdad8acea677a541ea
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 67710642060ffea642434ba2d23a77cec2fb8bc3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118538397"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066437"
 ---
 # <a name="effect-variable-syntax-direct3d-11"></a>Синтаксис переменной Effect (Direct3D 11)
 

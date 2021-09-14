@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: dd6af5bc48629c71964f1d6845bb25de556ad49c9ab0fa408835e04aad4ef707
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b09dd92b97166b8d973328ec95e466abbda116bd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120053914"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065718"
 ---
 # <a name="csourceseekingsetpositions-method"></a>Ксаурцесикинг. Сетпоситионс, метод
 
@@ -81,7 +81,7 @@ HRESULT SetPositions(
 
 | Код возврата                                                                                  | Описание                          |
 |----------------------------------------------------------------------------------------------|--------------------------------------|
-| <dl> <dt>**\_ОК**</dt> </dl>         | Success<br/>                   |
+| <dl> <dt>**\_ОК**</dt> </dl>         | Успешное завершение<br/>                   |
 | <dl> <dt>**E \_ INVALIDARG**</dt> </dl> | Недопустимые флаги<br/>             |
 | <dl> <dt>**\_указатель E**</dt> </dl>    | **Пустой** аргумент указателя<br/> |
 
@@ -102,7 +102,7 @@ HRESULT SetPositions(
 
 Этот метод обновляет значения переменных членов [**ксаурцесикинг:: m \_ Ртстарт**](csourceseeking-m-rtstart.md) и [**ксаурцесикинг:: m \_ ртстоп**](csourceseeking-m-rtstop.md) , а затем вызывает чистые виртуальные методы [**ксаурцесикинг:: чанжестарт**](csourceseeking-changestart.md) и [**ксаурцесикинг:: ChangeStop**](csourceseeking-changestop.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -113,7 +113,7 @@ HRESULT SetPositions(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

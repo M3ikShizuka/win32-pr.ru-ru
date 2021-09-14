@@ -9,12 +9,12 @@ keywords:
 - Перенос содержимого OpenGL, контексты отрисовки
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1f4fcb6a70f6858ac9c11258c681345ee88a8807c91230f8d3d35fc579ab3371
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 43e72839d04838b3173d772fbbf29a903a295cfd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118358344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067458"
 ---
 # <a name="porting-rendering-contexts"></a>Перенос контекстов рендеринга
 

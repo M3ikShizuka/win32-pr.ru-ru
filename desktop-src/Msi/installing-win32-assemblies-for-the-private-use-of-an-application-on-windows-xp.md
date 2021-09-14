@@ -4,12 +4,12 @@ ms.assetid: 2d4bc2be-cce6-45e6-b6a7-7ff96d28eb96
 title: установка сборок Win32 для частного использования приложения в Windows XP
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f478bddeb04ca9112610bd88338437002082204cc62078bde200539a8a18b6bb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e807e22c9c5dea67ece5ead0ded95f06ab203689
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119893814"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065499"
 ---
 # <a name="installing-win32-assemblies-for-the-private-use-of-an-application-on-windows-xp"></a>установка сборок Win32 для частного использования приложения в Windows XP
 

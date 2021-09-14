@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Netmon.h
-ms.openlocfilehash: 8fd7452a4db6318df0d4c23ea405d2cd4afcf6575c7abac34749a66bc88c2084
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f93ec4784fc8d0f92f68fdff3914e230ffd3cdce
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119063734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067564"
 ---
 # <a name="pf_followentry-structure"></a>\_Структура PF фолловентри
 
@@ -35,7 +35,7 @@ typedef struct _PF_FOLLOWENTRY {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 

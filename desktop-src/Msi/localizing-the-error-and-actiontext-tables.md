@@ -4,12 +4,12 @@ ms.assetid: 2e3a6e73-5b06-452d-9f87-18eb6914b961
 title: Локализация таблиц ошибок и Актионтекст
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b1839141b80afd1d28aa9e9317da10d79aea41232f9e7ebde0db7971d22f5141
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c45428d9f0d3c4b8dcafbf489f7316225a83f032
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118629469"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065405"
 ---
 # <a name="localizing-the-error-and-actiontext-tables"></a>Локализация таблиц ошибок и Актионтекст
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6e89db641bc17e8c3d9d548bdf502e077c88dfc6c7452f8059b085c3432d23bd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bd69fb463e71523fcbd4eeb65a6a718d27847c09
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119019072"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065768"
 ---
 # <a name="lvn_linkclick-notification-code"></a>\_Код уведомления ЛВН линккликк
 
@@ -77,7 +77,7 @@ case LVN_LINKCLICK:
 }
 ```
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
