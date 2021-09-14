@@ -4,12 +4,12 @@ ms.assetid: f5fda405-8a09-495e-aa8c-b808a2f02b0f
 title: Обновление таблицы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ab3085de7bb834e907ce7b5f1edbee388f5e48b5f72489954aacf3d9e85c2de3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6b48ce49f0f931209ccf472cd74b352c270353a2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120039194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254134"
 ---
 # <a name="upgrade-table"></a>Обновление таблицы
 
@@ -21,12 +21,12 @@ ms.locfileid: "120039194"
 
 | Столбец         | Type                         | Ключ | Допускает значения NULL |
 |----------------|------------------------------|-----|----------|
-| UpgradeCode    | [GUID](guid.md)             | Д   | Нет        |
+| UpgradeCode    | [GUID](guid.md)             | Да   | Нет        |
 | версионмин     | [Text](text.md)             | Да   | Да        |
 | версионмакс     | [Text](text.md)             | Да   | Да        |
 | Язык       | [Text](text.md)             | Да   | Да        |
-| Атрибуты     | [Integer](integer.md)       | Д   | Нет        |
-| Удалить         | [Формате](formatted.md)   | Нет   | Д        |
+| Атрибуты     | [Integer](integer.md)       | Да   | Нет        |
+| Удалить         | [Формате](formatted.md)   | Нет   | Да        |
 | актионпроперти | [Идентификатор](identifier.md) | Нет   | Нет        |
 
 

@@ -60,12 +60,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: e52ae224aee9db09ffa42cf19b3550a5ff6362326b0058d87e4d2a8b2da1851e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: bb8d1d37bd5d4db59942aaab7170119283c5cc7b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119759414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174372"
 ---
 # <a name="win32_process-class"></a>\_Класс процесса Win32
 
@@ -130,7 +130,7 @@ class Win32_Process : CIM_Process
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ процесса Win32** имеет следующие типы членов:
 
@@ -146,7 +146,7 @@ class Win32_Process : CIM_Process
 | Метод                                                                   | Описание                                                                                                                                                                                                                                                                               |
 |:-------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**аттачдебугжер**](attachdebugger-method-in-class-win32-process.md)   | Запускает зарегистрированный в данный момент отладчик для процесса.<br/>                                                                                                                                                                                                                      |
-| [**Создание**](create-method-in-class-win32-process.md)                   | Создает новый процесс.<br/>                                                                                                                                                                                                                                                         |
+| [**Создания**](create-method-in-class-win32-process.md)                   | Создает новый процесс.<br/>                                                                                                                                                                                                                                                         |
 | [**жетаваилаблевиртуалсизе**](getavailablevirtualsize-win32-process.md) | Получает текущий размер (в байтах) свободного виртуального адресного пространства, доступного процессу.<br/> **Windows Server 2012, Windows 8, Windows 7, Windows Server 2008 и Windows Vista:** этот метод не поддерживается до Windows 8.1 и Windows Server 2012 R2.<br/> |
 | [**GetOwner**](getowner-method-in-class-win32-process.md)               | Возвращает имя пользователя и доменное имя, под которым выполняется процесс.<br/>                                                                                                                                                                                                    |
 | [**жетовнерсид**](getownersid-method-in-class-win32-process.md)         | Возвращает идентификатор безопасности (SID) для владельца процесса.<br/>                                                                                                                                                                                                            |
@@ -157,7 +157,7 @@ class Win32_Process : CIM_Process
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **\_ процесса Win32** имеет следующие свойства.
 
@@ -341,7 +341,7 @@ class Win32_Process : CIM_Process
 
 </dt> <dd>
 
-Другие
+Другое
 
 </dd> <dt>
 
@@ -513,7 +513,7 @@ class Win32_Process : CIM_Process
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -641,7 +641,7 @@ class Win32_Process : CIM_Process
 
 </dd> <dt>
 
-**парентпроцессид**
+**ParentProcessId**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **UInt32**

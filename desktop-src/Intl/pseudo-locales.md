@@ -4,12 +4,12 @@ ms.assetid: 8ec3038e-da18-47fc-a689-dd9162a41faa
 title: Pseudo-Locales
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e099ee2af283c38aff3de7813fec64b5d43c6ac5873549856b27fd224c3e0d61
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bad7d4b161440cade65f24fb0157d42958c64d19
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118390418"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171976"
 ---
 # <a name="pseudo-locales"></a>Pseudo-Locales
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d9364ef5013ef692adda76f96752f11691d5f4cc87c857386914105d16decb11
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0f402cbd16cd61a829a2221600bd3c548829f348
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117832292"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170091"
 ---
 # <a name="cb_settopindex-message"></a>\_Сообщение СЕТТОПИНДЕКС CB
 
@@ -57,7 +57,7 @@ ms.locfileid: "117832292"
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 

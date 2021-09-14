@@ -19,12 +19,12 @@ api_type:
 - HeaderDef
 api_location:
 - Wbemcli.h
-ms.openlocfilehash: 6c23bcde9d085a6668fd5c57ee0ff51a7db61784de44d79080e2b2d2d1ee051f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 469e036b7cd385fa2ac2bae23e0da081288b536b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118992754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172567"
 ---
 # <a name="namespace-access-rights-constants"></a>Константы прав доступа к пространству имен
 
@@ -118,7 +118,7 @@ WMI содержит константы безопасности, использ
 |-------------------------------------|--------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                             |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                       |
-| Header<br/>                   | <dl> <dt>Вбемкли. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Вбемкли. h</dt> </dl> |
 
 
 

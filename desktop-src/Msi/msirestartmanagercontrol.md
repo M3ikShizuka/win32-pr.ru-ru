@@ -4,12 +4,12 @@ ms.assetid: fefff18b-892a-440e-9f57-d23aeb99af74
 title: МСИРЕСТАРТМАНАЖЕРКОНТРОЛ, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 912f529187560aa5fffff90407573e5438139d2b2d26345645752c8d30416f60
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b8d965f1b814ce2969a6253ba227672c54769791
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119065964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169756"
 ---
 # <a name="msirestartmanagercontrol-property"></a>МСИРЕСТАРТМАНАЖЕРКОНТРОЛ, свойство
 

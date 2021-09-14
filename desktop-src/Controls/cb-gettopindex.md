@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2360b07c86d6d5bcbb8296d705e8ef65b3a81481a8fc647a362aedc729f38b42
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 59d5d6834dd954261822c8b1cb1a449d16398284
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120089114"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174184"
 ---
 # <a name="cb_gettopindex-message"></a>\_Сообщение ЖЕТТОПИНДЕКС CB
 
@@ -49,7 +49,7 @@ ms.locfileid: "120089114"
 
 Если сообщение не выполняется, возвращается значение CB \_ Err.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ ms.locfileid: "120089114"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: efd2469c0f3adeeb56062cd1cd889df9aa70fe94dc4266045d8957fbd82f5311
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 660610563676276bb3387fcbb8e9b5959df03067
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119782664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174655"
 ---
 # <a name="esentmustcommitdistributedtransactiontolevel0exception-class"></a>Класс EsentMustCommitDistributedTransactionToLevel0Exception
 

@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 37ecee55fa76f6e86ccc60921851eca6cb922bec8fb6b00de01c3e410ca19940
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 10ed2f7c2e2b46e63e2cc02cc8e6ce09ab2688e0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119020872"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174539"
 ---
 # <a name="cim_todirectoryaction-class"></a>\_Класс CIM тодиректоряктион
 
@@ -45,7 +45,7 @@ class CIM_ToDirectoryAction
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ тодиректоряктион** имеет следующие типы членов:
 

@@ -4,12 +4,12 @@ ms.assetid: 8b96a83a-2bfa-47b7-bde0-896bdcc97d29
 title: Таблица UpgradedFiles_OptionalData (Patchwiz.dll)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 08eb766f8db9d295546670c80627284991da1ff8dccb5a0c2900be74bd785dab
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a2a648623e2a0cde11af34a3b948b4f2ac6fba59
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119012842"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254101"
 ---
 # <a name="upgradedfiles_optionaldata-table-patchwizdll"></a>\_Таблица Оптионалдата упградедфилес (Patchwiz.dll)
 
@@ -21,11 +21,11 @@ ms.locfileid: "119012842"
 
 | Столбец                  | Type    | Ключ | Допускает значения NULL |
 |-------------------------|---------|-----|----------|
-| Обновлено                | text    | Д   | Нет        |
-| фтк                     | text    | Д   | Нет        |
-| симболпасс             | text    |     | Д        |
-| алловигнореонпатчеррор | Целое число |     | Д        |
-| инклудевхолефиле        | Целое число |     | Д        |
+| Обновлено                | текст    | Да   | Нет        |
+| фтк                     | текст    | Да   | Нет        |
+| симболпасс             | текст    |     | Да        |
+| алловигнореонпатчеррор | Целое число |     | Да        |
+| инклудевхолефиле        | Целое число |     | Да        |
 
 
 

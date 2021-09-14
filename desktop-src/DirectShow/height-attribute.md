@@ -4,12 +4,12 @@ ms.assetid: 8dbae3e2-31bb-4ab0-bba8-b79061338ea4
 title: Атрибут height
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b5036cd5e38ad4f90827c3ee8c79ebb677992b5ad4fdc038dca5eaccab7c3085
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2875a7b14dfa887f200baf07463a96ce27238e27
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119564614"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169939"
 ---
 # <a name="height-attribute"></a>Атрибут height
 
@@ -32,7 +32,7 @@ ms.locfileid: "119564614"
 
 Устанавливайте этот атрибут только в том случае, если атрибут **Type** имеет значение `video` .
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

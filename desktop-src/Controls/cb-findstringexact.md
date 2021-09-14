@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 95010548601350b666ee65da4bd048127917dc9c1e80ac26ead844d8597a7a18
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7f99d85c7dddb95bdfb168443d6f977c22273a87
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119079148"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173967"
 ---
 # <a name="cb_findstringexact-message"></a>\_Сообщение ФИНДСТРИНЖЕКСАКТ CB
 
@@ -61,7 +61,7 @@ ms.locfileid: "119079148"
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 

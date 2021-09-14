@@ -5,11 +5,11 @@ title: Таблица Мсипатчметадата
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 0ee71e25bf04a39d8d360c5977fad7ec72a8924b
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122469171"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169788"
 ---
 # <a name="msipatchmetadata-table"></a>Таблица Мсипатчметадата
 
@@ -21,10 +21,10 @@ ms.locfileid: "122469171"
 
 
 
-| Столбец   | Type                         | Клавиши | Допускает значения NULL |
+| Столбец   | Type                         | Ключ | Допускает значения NULL |
 |----------|------------------------------|-----|----------|
 | Company  | [Идентификатор](identifier.md) | Да   | Да        |
-| Свойство | [Идентификатор](identifier.md) | Да   | Нет        |
+| Свойство. | [Идентификатор](identifier.md) | Да   | Нет        |
 | Значение    | [Text](text.md)             | Нет   | Нет        |
 
 
@@ -58,7 +58,7 @@ ms.locfileid: "122469171"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 доступно в установщик Windows 3,0 и более поздних версиях.
 
@@ -67,7 +67,7 @@ ms.locfileid: "122469171"
 
 
 
-| Свойство | Описание | 
+| Свойство. | Описание | 
 |----------|-------------|
 | алловремовал | Указывает, является ли исправление <a href="uninstallable-patches.md">неудаляемым</a>. Если поле значения содержит значение 0 (ноль), исправление не может быть удалено. Если поле значения содержит одно (1), исправление является неудаляемым. это свойство зарегистрировано, и его значение можно получить с помощью функции <a href="/windows/desktop/api/Msi/nf-msi-msigetpatchinfoexa"><strong>мсижетпатчинфоекс</strong></a> . <br /> | 
 | ManufacturerName | Имя производителя приложения. | 

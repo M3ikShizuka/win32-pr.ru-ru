@@ -15,12 +15,12 @@ api_type:
 - DllExport
 api_location:
 - Nddeapi.dll
-ms.openlocfilehash: f7b70d3e33f67c8c0a457f85df91e83e374a3ef4d0f0b1a0af1c5c41ea81c2ca
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fb990830583f6684502438f132c1c98f5741a0ad
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119611134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172291"
 ---
 # <a name="nddeisvalidapptopiclist-function"></a>Функция Нддеисвалидапптопиклист
 
@@ -56,11 +56,11 @@ BOOL NDdeIsValidAppTopicList(
 
 Если функция выполняется неудачно, возвращается нулевое значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция также вызывается [**нддешареадд**](nddeshareadd.md) при создании общего ресурса DDE.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -75,7 +75,7 @@ BOOL NDdeIsValidAppTopicList(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: ebb1a217-fce6-43f0-9139-c0f4422c8fc4
 title: Обновление свойств для обновления
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 99d340f56eaf78c585e28a52dc7b310bf1af047d7530e61b841267bc0b83251a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 750c30a75650ff4009dda799b0542f41f535481f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120039184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254152"
 ---
 # <a name="updating-properties-for-an-upgrade"></a>Обновление свойств для обновления
 
@@ -25,7 +25,7 @@ ms.locfileid: "120039184"
 
 
 
-| Свойство                                         | Значение                                     |
+| Свойство.                                         | Значение                                     |
 |--------------------------------------------------|-------------------------------------------|
 | [**арфелплинк**](arphelplink.md)               | https://www.microsoft.com/management       |
 | BannerBitmap                                     | баннрбмп                                  |
@@ -68,7 +68,7 @@ ms.locfileid: "120039184"
 | [**ProductVersion**](productversion.md)         | 01.50.0000                                |
 | Progress1                                        | Установка                                |
 | Progress2                                        | installs                                  |
-| [**промптроллбакккост**](promptrollbackcost.md) | С                                         |
+| [**промптроллбакккост**](promptrollbackcost.md) | P                                         |
 | ремовеикон                                       | ремовико                                  |
 | репаирикон                                       | восстановление                                  |
 | Настройка                                            | Настройка                                     |

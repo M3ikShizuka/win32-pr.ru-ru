@@ -5,11 +5,11 @@ title: Таблица Упградедфилестоигноре (Patchwiz.dll)
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 4b3af0a4a8c3385c2d028cdb66ad276d3f480ca8
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122884499"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254095"
 ---
 # <a name="upgradedfilestoignore-table-patchwizdll"></a>Таблица Упградедфилестоигноре (Patchwiz.dll)
 
@@ -21,8 +21,8 @@ ms.locfileid: "122884499"
 
 | Столбец   | Type | Ключ | Допускает значения NULL |
 |----------|------|-----|----------|
-| Обновлено | text | Да   | Нет        |
-| фтк      | text | Да   | Нет        |
+| Обновлено | текст | Да   | Нет        |
+| фтк      | текст | Да   | Нет        |
 
 
 

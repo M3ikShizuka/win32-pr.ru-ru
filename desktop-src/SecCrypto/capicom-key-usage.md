@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Capicom.h
-ms.openlocfilehash: bb477ee12b33c3d32fd2c48a56831dc2f56244b1e8a564cd2d0482e6e4a5d5bb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1d44c7f3ecf35ddeb55dd96e5513261691010990
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117772429"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171140"
 ---
 # <a name="capicom_key_usage-enumeration"></a>\_ \_ Перечисление использования CAPICOM Key
 
@@ -50,7 +50,7 @@ ms.locfileid: "117772429"
 | Требование | Значение |
 |----------------------------|--------------------------------------------------------------------------------------|
 | Распространяемые компоненты<br/> | CAPICOM 2,0 или более поздней версии на Windows Server 2003 и Windows XP<br/>                |
-| Header<br/>          | <dl> <dt>CAPICOM. h</dt> </dl> |
+| Заголовок<br/>          | <dl> <dt>CAPICOM. h</dt> </dl> |
 
 
 

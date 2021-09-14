@@ -16,14 +16,14 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 9fa3d9c7e343dcbc8c6959a1ead025cafb3e4722382d7fd61c085bcff05347ec
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 0b698551789deb0c3775bd4ac722136e1abc9d38
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120107685"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254263"
 ---
-# <a name="name"></a>ИМЯ
+# <a name="name"></a>NAME
 
 Макрос **Name** создает строку только для отладки.
 
@@ -64,7 +64,7 @@ pObject = new CBaseObject(NAME("My Object"));
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -43,12 +43,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 07052c0366b32904ef6bf6f52b15f3ea98022ba8385120ec60cdefe5714e2c4d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 065d069b261472e3347a115cfbbff652812b6622
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119079698"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174323"
 ---
 # <a name="win32_serialportconfiguration-class"></a>\_Класс Win32 сериалпортконфигуратион
 
@@ -94,7 +94,7 @@ class Win32_SerialPortConfiguration : CIM_Setting
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ сериалпортконфигуратион** имеет следующие типы членов:
 
@@ -412,7 +412,7 @@ class Win32_SerialPortConfiguration : CIM_Setting
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**

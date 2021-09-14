@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - dxva.h
-ms.openlocfilehash: b59008947e636e7d4252b678a79b28c128c4a7b122b97c9337fb41ddc062fd54
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0d0f88e1534ef3d901023ebdee8ce9c36a8c2cc9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119958584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172215"
 ---
 # <a name="dxva_slice_hevc_short-structure"></a>\_ \_ Короткая структура среза дксва HEVC \_
 
@@ -37,7 +37,7 @@ typedef struct _DXVA_Slice_HEVC_Short {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -76,11 +76,11 @@ typedef struct _DXVA_Slice_HEVC_Short {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 **Дксва \_ Параметр срез \_ HEVC \_ Short** содержит данные элемента управления среза, которые передаются аппаратному ускорителю с хост-программного декодера.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -92,7 +92,7 @@ typedef struct _DXVA_Slice_HEVC_Short {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

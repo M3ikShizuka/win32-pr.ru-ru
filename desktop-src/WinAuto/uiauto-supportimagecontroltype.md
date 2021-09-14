@@ -21,12 +21,12 @@ keywords:
 - типы элементов управления, изображение
 ms.topic: article
 ms.date: 10/08/2019
-ms.openlocfilehash: 868db06a1ede025171e7a6cb9ef0d076267e095c9e17ed0ee7c65eb362f87590
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b91d55bf8e21813e180476146625172e3eab1a6d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120122044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172631"
 ---
 # <a name="image-control-type"></a>Тип элемента управления Image
 
@@ -50,7 +50,7 @@ ms.locfileid: "120122044"
 
 | Представление элемента управления | Представление содержимого |
 | ------------ | ------------ |
-| Образ | Изображение (зависит от того, содержит ли изображение информацию, основанное на значении свойства [идентификаторов свойств элементов автоматизации](uiauto-automation-element-propids.md) ). |
+| Образ — | Изображение (зависит от того, содержит ли изображение информацию, основанное на значении свойства [идентификаторов свойств элементов автоматизации](uiauto-automation-element-propids.md) ). |
 
 ## <a name="relevant-properties"></a>Соответствующие свойства
 
@@ -96,7 +96,7 @@ ms.locfileid: "120122044"
 | [**UIA \_**](uiauto-automation-element-propids.md) Событие изменения свойства намепропертид.                           |                                                                                                                            |
 | [**UIA \_ структуречанжедевентид**](uiauto-event-ids.md)                                                  |                                                                                                                            |
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Консорциум W3C (W3C) определяет декоративный рисунок, который не добавляет сведения в содержимое страницы. Дополнительные сведения см. в разделе консорциума W3C по [декоративным изображениям](https://www.w3.org/WAI/tutorials/images/decorative/).
 

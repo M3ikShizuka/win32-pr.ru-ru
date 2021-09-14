@@ -5,11 +5,11 @@ ms.assetid: 2d2358fb-b17d-48a9-8def-15ae8bad9162
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 136310a3718f17900f604287bf78186f7c927259
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122625720"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174004"
 ---
 # <a name="button-messages"></a>Сообщения кнопки 
 
@@ -52,7 +52,7 @@ ms.locfileid: "122625720"
 
 
 
-| Код уведомления                                                        | Описание:                                            |
+| Код уведомления                                                        | Описание                                            |
 |--------------------------------------------------------------------------|--------------------------------------------------------|
 | [\_ХОТИТЕМЧАНЖЕ BCN](bcn-hotitemchange.md)                              | Мышь, которая была нажата или оставлена в клиентской области кнопки. |
 | [\_щелчок млрд долл](bn-clicked.md)                                            | Пользователь щелкнул кнопку.                             |

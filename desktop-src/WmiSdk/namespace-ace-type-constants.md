@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 api_location:
 - Winnt.h
-ms.openlocfilehash: 99eb4f19cd4e669e7bb5f791b1e45246bf3e29d9ef20df003cefe21284f5ac63
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0c9f1f7e05f663782c0d748ddb296ca36ecbe29c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118818000"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172559"
 ---
 # <a name="namespace-ace-type-constants"></a>Константы типа ACE пространства имен
 
@@ -64,7 +64,7 @@ ACE запрещает доступ к пространству имен.
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

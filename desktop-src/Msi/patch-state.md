@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: b28eee03cfc74537c8be7669124a4f70db40ca88196678889553978232c934c1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f903ec66c2d55567fee9ccbc123e018e1dc7bacb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118942294"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173679"
 ---
 # <a name="patchstate-property"></a>Свойство patch. State
 
@@ -71,7 +71,7 @@ propVal = Patch.State
 
 <dl> <dt>
 
-[**Обновление**](patch-object.md)
+[**Защиты**](patch-object.md)
 </dt> <dt>
 
 [**мсижетпатчинфоекс**](/windows/desktop/api/Msi/nf-msi-msigetpatchinfoexa)

@@ -4,12 +4,12 @@ ms.assetid: f2863e4a-d22a-4ff0-91d8-052eeaade14e
 title: 'Пример программы на языке C: отправка и получение подписанного и зашифрованного сообщения'
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ac7bdfdfd664d278fe72d81743e7116eb64a11099ef37b43200d55378472c383
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c7c2ce7c5ba04d6fb57afbb0c15e32c115dcbd5b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119007542"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171067"
 ---
 # <a name="example-c-program-sending-and-receiving-a-signed-and-encrypted-message"></a>Пример программы на языке C: отправка и получение подписанного и зашифрованного сообщения
 

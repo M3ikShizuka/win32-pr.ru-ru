@@ -5,11 +5,11 @@ title: Поведение параметра сокета многоадресн
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 460b13fb710e86ef81fb64b48b697f7e73ccf392
-ms.sourcegitcommit: 9942a888f172981e276def0c6b84fb0266fcb02d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "123399770"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172584"
 ---
 # <a name="multicast-socket-option-behavior"></a>Поведение параметра сокета многоадресной рассылки
 
@@ -25,7 +25,7 @@ ms.locfileid: "123399770"
 <th>Начальный параметр сокета</th>
 <th>Конфликт последующего параметра сокета</th>
 <th>Возвращена ошибка</th>
-<th>Remarks</th>
+<th>Комментарии</th>
 </tr>
 </thead>
 <tbody>

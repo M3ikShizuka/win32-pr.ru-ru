@@ -7,12 +7,12 @@ keywords:
 - ADSI поставщика LDAP, объект User, установка паролей
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: efbbd0439a011575fbc9278dbe506d46db2210ce03d807ea74097499cb764b43
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5488146de271ac1108a904cd85163fad9d7dd205
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118690529"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172132"
 ---
 # <a name="setting-and-changing-user-passwords-with-the-ldap-provider"></a>Настройка и изменение паролей пользователей с помощью поставщика LDAP
 

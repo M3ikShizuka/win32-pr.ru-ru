@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Scrdenrl.dll
-ms.openlocfilehash: 11742525d616aecc8d83871ae2a59025d1034513ae99d8a7253d16d9e0f64dd6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c23df2f74cdf3791f1280e38cbff8ddd48f924b8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119005222"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170983"
 ---
 # <a name="iscrdenrenumcaname-method"></a>Метод Искрденр:: Енумканаме
 
@@ -96,7 +96,7 @@ SCrdEnr.enumCAName( _
 
 Строка, представляющая имя центра сертификации.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -109,7 +109,7 @@ SCrdEnr.enumCAName( _
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

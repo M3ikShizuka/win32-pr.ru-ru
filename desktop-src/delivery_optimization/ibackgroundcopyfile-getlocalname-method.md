@@ -17,12 +17,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 0d8c3f3e6a722c7d98fffd5904b398a9573b7a809225e35ae89b5910eb965f5e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e1c3a957e64701242d9c698a014ec2ab4028cd85
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119953604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174863"
 ---
 # <a name="ibackgroundcopyfilegetlocalname-method"></a>Метод Ибаккграундкопифиле:: Жетлокалнаме
 
@@ -54,7 +54,7 @@ HRESULT GetLocalName(
 
 Этот метод возвращает **S_OK** при успешном или одном из стандартных значений **HRESULT** com при ошибке.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ HRESULT GetLocalName(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

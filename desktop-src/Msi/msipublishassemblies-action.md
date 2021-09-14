@@ -4,12 +4,12 @@ ms.assetid: 4bc67f43-7a7e-4bd3-aa83-610b46a54e11
 title: Действие Мсипублишассемблиес
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 524175a957249a48f7c72409ad7b4c55b31f642753db11875a9567ef35a2acf8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c24e1787aeb87cf00eb82aefab375771c7c1ddc1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117804194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169759"
 ---
 # <a name="msipublishassemblies-action"></a>Действие Мсипублишассемблиес
 

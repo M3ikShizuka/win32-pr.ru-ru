@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 1ac4f7448b27e1780e2d44a512693f3a59113055d66f1b46a85038f04f87f045
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fa14fb933c89da0b0b6d2eebfab480b5508a3666
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118158146"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254485"
 ---
 # <a name="cbasepinqueryid-method"></a>Кбасепин. QueryId, метод
 
@@ -69,7 +69,7 @@ HRESULT QueryId(
 
 Этот метод возвращает копию переменной-члена [**кбасепин:: m \_ pName**](cbasepin-m-pname.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -80,7 +80,7 @@ HRESULT QueryId(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

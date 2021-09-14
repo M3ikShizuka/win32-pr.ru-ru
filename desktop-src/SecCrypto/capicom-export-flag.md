@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Capicom.h
-ms.openlocfilehash: d6be9953640eeb2eb1d6c7fad812f5efe2d2da2f6888a01b4450c638ab68bfca
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fe99b1123ae35083e5c59df37234821efd2db208
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117772469"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171160"
 ---
 # <a name="capicom_export_flag-enumeration"></a>\_ \_ Перечисление флагов CAPICOM Export
 
@@ -35,7 +35,7 @@ ms.locfileid: "117772469"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 \_ \_ Тип перечисления флагов CAPICOM Export используется следующим методом:
 
@@ -48,7 +48,7 @@ ms.locfileid: "117772469"
 | Требование | Значение |
 |----------------------------|--------------------------------------------------------------------------------------|
 | Распространяемые компоненты<br/> | CAPICOM 2,0 или более поздней версии на Windows Server 2003 и Windows XP<br/>                |
-| Header<br/>          | <dl> <dt>CAPICOM. h</dt> </dl> |
+| Заголовок<br/>          | <dl> <dt>CAPICOM. h</dt> </dl> |
 
 
 

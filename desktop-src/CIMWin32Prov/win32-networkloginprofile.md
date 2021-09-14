@@ -46,12 +46,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 4fb71b27093cb1011b9aebaadf0a6760124b64f9e13ae7b5ef46f5ffc478cce4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3b138ce4bc92088896286f4a21a039b068e2206e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119972654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174411"
 ---
 # <a name="win32_networkloginprofile-class"></a>\_Класс Win32 нетворклогинпрофиле
 
@@ -100,7 +100,7 @@ class Win32_NetworkLoginProfile : CIM_Setting
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ нетворклогинпрофиле** имеет следующие типы членов:
 
@@ -296,7 +296,7 @@ class Win32_NetworkLoginProfile : CIM_Setting
 1 (0x1)
 </dt> <dd>
 
-Сценарий
+Скрипт
 
 Выполнен сценарий входа. Это значение должно быть установлено для LAN Manager 2,0.
 
@@ -611,7 +611,7 @@ class Win32_NetworkLoginProfile : CIM_Setting
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**

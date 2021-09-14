@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: ebfb5bf4aa7a93ee493cafdd1feea8095293f84561cfd33e12af7fc69d6eb7a8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 906b45c7a4249de8dbd761b96d499d2f17e3af17
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120079444"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254515"
 ---
 # <a name="cbaseinputpinm_pallocator-member"></a>Элемент Кбасеинпутпин:: m \_ паллокатор
 
@@ -47,7 +47,7 @@ IMemAllocator *m_pAllocator;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

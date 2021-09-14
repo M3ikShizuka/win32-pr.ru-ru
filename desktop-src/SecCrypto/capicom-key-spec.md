@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Capicom.h
-ms.openlocfilehash: 211830b57d37240edf0df97524ef3865ebe600b33e814353f3a0d021b1b0d88c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 153f0431d78ff595b4d568fd7a677abea0d28be7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117772449"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171147"
 ---
 # <a name="capicom_key_spec-enumeration"></a>\_ \_ Перечисление СПЕЦИФИКАЦИй CAPICOM
 
@@ -35,7 +35,7 @@ ms.locfileid: "117772449"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Перечисление **\_ ключевых \_ спецификаций CAPICOM** используется следующими методами и свойствами:
 
@@ -49,7 +49,7 @@ ms.locfileid: "117772449"
 | Требование | Значение |
 |----------------------------|--------------------------------------------------------------------------------------|
 | Распространяемые компоненты<br/> | CAPICOM 2,0 или более поздней версии на Windows Server 2003 и Windows XP<br/>                |
-| Header<br/>          | <dl> <dt>CAPICOM. h</dt> </dl> |
+| Заголовок<br/>          | <dl> <dt>CAPICOM. h</dt> </dl> |
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: 77b00937-ac63-4b23-b546-c0896b3c57ba
 title: Кодек преобразователя цветового пространства МСЮВ
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 189ff787ee5b28311dd0357c245c7a6ca251d207f2448fc08a88fb856d7c2fce
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 838e7cd749042b2fb97adaf0b2b4cd0378a81c07
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120075744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254335"
 ---
 # <a name="msyuv-color-space-converter-codec"></a>Кодек преобразователя цветового пространства МСЮВ
 
@@ -28,7 +28,7 @@ ms.locfileid: "120075744"
 
 Кодек преобразователя цветового пространства МСЮВ — это кодек ВКМ (Video Compression Manager). он используется в DirectShow в фильтре [распаковки AVI](avi-decompressor-filter.md) . Для более общего универсального преобразователя используйте [**конвертер для цветов DSP**](../medfound/colorconverter.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -38,7 +38,7 @@ ms.locfileid: "120075744"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: 927d35f73cec1f9e9032c326097a642349d6faa7e02d533330303016184a4bbb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2ec61da301dc1819c899a7da23da9a10efd81ae0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119007052"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171039"
 ---
 # <a name="extendedproperty-object"></a>Объект ExtendedProperty
 
@@ -54,7 +54,7 @@ ms.locfileid: "119007052"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Объект **ExtendedProperty** используется коллекцией [**расширенных свойств**](extendedproperties.md) .
 

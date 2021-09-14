@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 9057d1ff733c30da3b3b0d7e960607eadd033dcee0b26994478c6da9156a183e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b3a88f0c1dae54cb5d9be1e4e9ad3e9677bdd958
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118954793"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254452"
 ---
 # <a name="cbaserenderersendrepaint-method"></a>Кбасерендерер. Сендрепаинт, метод
 
@@ -56,7 +56,7 @@ void SendRepaint();
 
 В зависимости от состояния графа \_ событие ПЕРЕрисовки EC может вызвать повторную отправку примера в вышестоящем фильтре; граф фильтра для поиска в текущем расположении или диспетчер графа фильтров для приостановки на мгновение. (См. раздел [**\_ перерисовка EC**](ec-repaint.md).) Это событие потенциально неэффективно, поэтому его следует использовать с осторожностью. Однако модули подготовки отчетов иногда нуждаются в обновлении экрана.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -67,7 +67,7 @@ void SendRepaint();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

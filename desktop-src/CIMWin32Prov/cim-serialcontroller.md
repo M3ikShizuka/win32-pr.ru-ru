@@ -39,12 +39,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 10a2f8b9d51da08ccf92759fd4ecffe6050492b5067977a6708a5b34f21919dc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e23c9183dabb9b4d9ea25f5f92bd4c8ec6667c04
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119919914"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172052"
 ---
 # <a name="cim_serialcontroller-class-cimwin32-wmi-providers"></a>Класс CIM_SerialController (поставщики WMI CIMWin32)
 
@@ -91,7 +91,7 @@ class CIM_SerialController : CIM_Controller
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ сериалконтроллер** имеет следующие типы членов:
 
@@ -106,7 +106,7 @@ class CIM_SerialController : CIM_Controller
 
 | Метод                                                                      | Описание                                                                                                                              |
 |:----------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
-| [**Перезапуск**](reset-method-in-class-cim-serialcontroller.md)                 | Запрашивает сброс логического устройства. Не реализовано инструментарием WMI.<br/>                                                               |
+| [**Reset**](reset-method-in-class-cim-serialcontroller.md)                 | Запрашивает сброс логического устройства. Не реализовано инструментарием WMI.<br/>                                                               |
 | [**SetPowerState**](setpowerstate-method-in-class-cim-serialcontroller.md) | Определяет требуемое состояние электропитания для логического устройства, а также когда устройство должно быть переведено в это состояние. Не реализовано инструментарием WMI.<br/> |
 
 
@@ -960,7 +960,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1663,7 +1663,7 @@ Windows все еще настраивает устройство.
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **CIM \_ сериалконтроллер** является производным от [**\_ контроллера CIM**](cim-controller.md).
 
@@ -1671,7 +1671,7 @@ Windows все еще настраивает устройство.
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -1685,7 +1685,7 @@ Windows все еще настраивает устройство.
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

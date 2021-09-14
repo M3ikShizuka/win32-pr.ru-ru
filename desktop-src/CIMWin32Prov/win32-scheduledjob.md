@@ -34,11 +34,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 50162221e7ca18e07e3599deca2dba67b18ba708
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104072377"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174331"
 ---
 # <a name="win32_scheduledjob-class"></a>\_Класс Win32 ScheduledJob
 
@@ -79,7 +79,7 @@ class Win32_ScheduledJob : CIM_Job
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ ScheduledJob** имеет следующие типы членов:
 
@@ -95,19 +95,19 @@ class Win32_ScheduledJob : CIM_Job
 | Метод                                                      | Описание                                                                                                           |
 |:------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|
 | [**Создания**](create-method-in-class-win32-scheduledjob.md) | Метод класса, который отправляет задание в операционную систему для выполнения в указанное будущее время и дату.<br/> |
-| [**Удалить**](delete-method-in-class-win32-scheduledjob.md) | Метод класса, который удаляет запланированное задание.<br/>                                                                 |
+| [**Удален**](delete-method-in-class-win32-scheduledjob.md) | Метод класса, который удаляет запланированное задание.<br/>                                                                 |
 
 
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ ScheduledJob** имеет следующие свойства.
 
 <dl> <dt>
 
-**Заголовок**
+**Caption**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -125,7 +125,7 @@ class Win32_ScheduledJob : CIM_Job
 
 </dd> <dt>
 
-**Команда**
+**Command**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -684,7 +684,7 @@ class Win32_ScheduledJob : CIM_Job
 
 </dd> <dt>
 
-**Name**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -921,7 +921,7 @@ class Win32_ScheduledJob : CIM_Job
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Каждое задание, запланированное для службы расписания, хранится постоянно (планировщик может запустить задание после перезагрузки) и выполняется в указанное время и день недели или месяца. Если компьютер неактивен или запланированная служба не запущена в указанное время, служба расписаний запускает указанное задание в следующий день в указанное время.
 
@@ -934,7 +934,7 @@ class Win32_ScheduledJob : CIM_Job
 
 Класс **Win32 \_ ScheduledJob** является производным от [**\_ задания CIM**](cim-job.md). Для создания запланированного задания с помощью этого класса необходимо быть членом группы "Администраторы".
 
-Класс **Win32 \_ ScheduledJob** внутренне использует протокол AT, который привязан к устаревшим данным, начиная с Windows 8 и Windows Server 2012. В качестве первого шага по умолчанию протокол AT отключен. Если протокол отключен, например вызов метода [**CREATE**](create-method-in-class-win32-scheduledjob.md) для объекта **Win32 \_ ScheduledJob** , произойдет сбой с ошибкой 0x8. Можно включить по протоколу обратно, добавив следующую запись реестра:
+класс **Win32 \_ ScheduledJob** внутренне использует протокол AT, который привязан к устаревшим параметрам, начиная с Windows 8 и Windows Server 2012. В качестве первого шага по умолчанию протокол AT отключен. Если протокол отключен, например вызов метода [**CREATE**](create-method-in-class-win32-scheduledjob.md) для объекта **Win32 \_ ScheduledJob** , произойдет сбой с ошибкой 0x8. Можно включить по протоколу обратно, добавив следующую запись реестра:
 
 ``` syntax
 Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\Configuration 

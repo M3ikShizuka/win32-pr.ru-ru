@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Методы Win32_ShortcutFile
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bfccfbbc78df21789af63c37b1f145cff71462dd99a39602d3eb05beba71e923
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: abc6b58b47bb2a45c0f610cc92ab50c6b4065cf9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119971512"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174307"
 ---
 # <a name="win32_shortcutfile-methods"></a>\_Методы шорткутфиле Win32
 

@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: f036d4772c98392881f254e07e192c970a2cb407727294c7f196c9c15cb9e11f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bce6271927e74e31f25b3ac86783b35899bbd862
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120011324"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172932"
 ---
 # <a name="registration-trigger-example-scripting"></a>Пример триггера регистрации (сценарии)
 

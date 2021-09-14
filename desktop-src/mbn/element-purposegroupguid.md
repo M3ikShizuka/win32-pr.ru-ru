@@ -7,12 +7,12 @@ MSHAttr:
 title: пурпосеграупгуид
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 091ccd49a30e554806cea1472ca940042283472a
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.openlocfilehash: a704d035371d6d7febc2f2d86e4d67736ab02ad2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122883463"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168184"
 ---
 # <a name="span-idwwan_profile_v4element_purposegroupguidspanpurposegroupguid"></a><span id="WWAN_profile_v4.element_PurposeGroupGuid"></span>пурпосеграупгуид
 
@@ -22,9 +22,9 @@ ms.locfileid: "122883463"
 
 Определены четыре значения GUID, перечисленные в следующей таблице.
 
-| Целевая группа | Код GUID                                 |
+| Целевая группа | GUID                                 |
 |---------------|--------------------------------------|
-| Internet      | 3E5545D2-1137-4DC8-A198-33F1C657515F |
+| Интернет      | 3E5545D2-1137-4DC8-A198-33F1C657515F |
 | MMS           | 53E2C5D3-D13C-4068-AA38-9C48FF2E55A8 |
 | IMS           | 474D66ED-0E4B-476B-A455-19BB1239ED13 |
 | супл          | 6D42669F-52A9-408E-9493-1071DCC437BD |
@@ -70,7 +70,9 @@ ms.locfileid: "122883463"
 ## <a name="requirements"></a>Требования
 
 
-| | | <p>Пространство имен</p> | <p>https://www.microsoft.com/networking/WWAN/profile/v4</p> | 
+| Требование | Значение |
+|------------|----------|
+| <p>Пространство имен</p> | <p>https://www.microsoft.com/networking/WWAN/profile/v4</p> | 
 
 
  

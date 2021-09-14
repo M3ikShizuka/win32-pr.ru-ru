@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 168f1ef4176db691576f31726eb8c8caab055df9a584b41c3195f7b5b4afeee3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 21d38a3734f9d98f3bd61143d4fe58bd606c7508
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117883018"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168275"
 ---
 # <a name="mpthreatquery-function"></a>Функция Мпсреаткуери
 
@@ -100,7 +100,7 @@ HRESULT WINAPI MpThreatQuery(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

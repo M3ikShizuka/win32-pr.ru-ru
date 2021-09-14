@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Wxdebug.h
-ms.openlocfilehash: f20739093692977b2560de465b916cac12aeb67e2dbf9a6b9488ef8cd61f544f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e7c955f31cf9e0bf1050c52b680dfc9b32741bb2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119072128"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169879"
 ---
 # <a name="validatewriteptr-macro"></a>Макрос Валидатевритептр
 
@@ -67,7 +67,7 @@ void ValidateWritePtr(
 
 этот макрос игнорируется, если \_ при включении файла заголовка DirectShow базового класса не определена отладка, отладка или вфвробуст. Этот макрос может существенно постоить в производительности.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -77,7 +77,7 @@ void ValidateWritePtr(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

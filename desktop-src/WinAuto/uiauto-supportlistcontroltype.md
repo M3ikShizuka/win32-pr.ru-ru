@@ -22,11 +22,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: d08b052811e2ebf61214ce8b146740943f4e3d14
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122471179"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172627"
 ---
 # <a name="list-control-type"></a>Тип элемента управления List
 
@@ -151,7 +151,7 @@ ms.locfileid: "122471179"
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Общие сведения о типах элементов управления автоматизации пользовательского интерфейса](uiauto-controltypesoverview.md)

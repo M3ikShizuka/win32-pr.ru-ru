@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 78c82b00b8b719b03d096ac0f83e43c8471ea98d56eab7bf67d28b0adae852f0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7327d25aafa6f6673b7ed70b658f675a9dab8f4d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118157039"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173804"
 ---
 # <a name="cbasevideorendereronrenderstart-method"></a>Кбасевидеорендерер. Онрендерстарт, метод
 
@@ -59,7 +59,7 @@ void OnRenderStart(
 
 Эта функция члена переопределяет [**кбасерендерер:: онрендерстарт**](cbaserenderer-onrenderstart.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ void OnRenderStart(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

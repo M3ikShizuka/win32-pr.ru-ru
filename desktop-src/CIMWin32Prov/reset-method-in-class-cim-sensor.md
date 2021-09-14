@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 5418484c7beba9e03090903e995d29766a7eafdabac764fbd27887ee0f19c97f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9a17599216226f2420504ee07fccd2174d7eff4e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118418585"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174499"
 ---
 # <a name="reset-method-of-the-cim_sensor-class"></a>Метод Reset \_ класса датчика CIM
 

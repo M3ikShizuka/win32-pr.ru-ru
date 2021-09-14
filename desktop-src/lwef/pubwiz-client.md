@@ -11,12 +11,12 @@ keywords:
 - Мастер заказа отпечатков в сети, проект на стороне клиента
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c40aafc7a08820125df222c1c6d911b0d2b4d0a1fb625b7c62fc6d4be8bebd7c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f92f794ee5f576077e0523f9a21101205ec789d4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119665084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168239"
 ---
 # <a name="client-side-design"></a>Разработка Client-Side
 
@@ -39,7 +39,7 @@ ms.locfileid: "119665084"
 -   [**сесеадертекст**](/windows/desktop/shell/iwebwizardhost-setheadertext)
 -   [**сетвизардбуттонс**](/windows/desktop/shell/iwebwizardhost-setwizardbuttons)
 -   [**Caption**](/previous-versions/windows/desktop/legacy/bb774352(v=vs.85))
--   [**Свойство**](/windows/desktop/shell/iwebwizardhost-property)
+-   [**Свойство.**](/windows/desktop/shell/iwebwizardhost-property)
 
 Скрипт страницы на стороне сервера вызывает эти методы для уведомления клиента о событиях во время процедуры публикации. Давайте рассмотрим [**финалбакк**](/windows/desktop/shell/iwebwizardhost-finalback) в качестве примера. Когда в мастере отображается первая страница HTML на стороне сервера, она делает то же самое с знанием дескрипторов для страниц мастера ранее и после размещенных HTML-страниц. На этом этапе в нашем примере пользователь, расположенный на первой HTML-странице, нажимает кнопку « **назад** ». Мастер отправляет уведомление об этом событии на сервер. При получении этого сообщения сценарий на стороне сервера ссылается на обработчик **onback** для этого события, который, как это первая HTML-страница, вызывает метод **финалбакк** . Это приводит к тому, что мастер переходит на страницу мастера, отображаемую перед вводом пользовательского интерфейса на стороне сервера.
 

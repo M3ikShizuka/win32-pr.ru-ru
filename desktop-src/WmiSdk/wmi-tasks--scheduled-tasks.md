@@ -11,11 +11,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: 37a1d44a07feea7beb07984c383620fd2f166cdb
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122626160"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172532"
 ---
 # <a name="wmi-tasks-scheduled-tasks"></a>Задачи WMI: запланированные задачи
 
@@ -26,7 +26,7 @@ ms.locfileid: "122626160"
 
 В следующей процедуре описывается выполнение скрипта.
 
-**Запуск сценария**
+**Выполнение скрипта**
 
 1.  Скопируйте код и сохраните его в файле с расширением vbs, например *filename.vbs*. Убедитесь, что текстовый редактор не добавляет к файлу расширение .txt.
 2.  Откройте окно командной строки и перейдите в каталог, в котором был сохранен файл.

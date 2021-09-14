@@ -17,12 +17,12 @@ keywords:
 - предоставление внедренных объектов
 ms.topic: article
 ms.date: 08/31/2019
-ms.openlocfilehash: 2cb5a571d61353d2c8458b42fb65eac19eab0fb228f1e157539470075e392b8d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8e9e0a8b9f70677778238908f8faf04e21ed9619
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119899362"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172596"
 ---
 # <a name="how-ui-automation-exposes-embedded-objects"></a>Как модель автоматизации пользовательского интерфейса предоставляет внедренные объекты
 
@@ -59,7 +59,7 @@ ms.locfileid: "119899362"
 - DataGrid
 - Документ
 - Изменить
-- Группа
+- Group
 - Заголовок
 - HeaderItem
 - Список
@@ -259,7 +259,7 @@ ms.locfileid: "119899362"
 | Ячейка с изображением                                            | Ячейка с текстом |
 |------------------------------------------------------------|----------------|
 | ![Иллюстрация списка выбора](images/shuttle.jpg)           | X              |
-| ![Иллюстрация пространства и области действия](images/space.jpg) | Д              |
+| ![Иллюстрация пространства и области действия](images/space.jpg) | Да              |
 | ![Иллюстрация микрообласти](images/microscope.jpg)     | Z              |
 
 Вызов методов [**иуиаутоматионгридпаттерн::**](/windows/desktop/api/UIAutomationClient/nf-uiautomationclient-iuiautomationgridpattern-getitem)иуиаутоматионтекстпаттерн: [**: ранжефромчилд**](/windows/desktop/api/UIAutomationClient/nf-uiautomationclient-iuiautomationtextpattern-rangefromchild)и [**иуиаутоматионтекстранже:: GetEnclosingElement**](/windows/desktop/api/UIAutomationClient/nf-uiautomationclient-iuiautomationtextrange-getenclosingelement) приводит к поведению, описанному в следующей таблице.

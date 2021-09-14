@@ -4,12 +4,12 @@ ms.assetid: ac7d7b1c-3c9a-4693-87ea-0a10a8ab915c
 title: Обработка изменений формата из модуля подготовки видео
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fc1dd0ec2f87a8604d3b03aa6c2f334161d218f4d7fb45c76aad1015f071d947
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d731ac4b9d6985cf5ad92f642b6d8262209fa91d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119905304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169951"
 ---
 # <a name="handling-format-changes-from-the-video-renderer"></a>Обработка изменений формата из модуля подготовки видео
 

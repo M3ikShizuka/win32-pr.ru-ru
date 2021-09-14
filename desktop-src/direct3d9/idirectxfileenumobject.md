@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dxof.lib
 - d3dxof.dll
-ms.openlocfilehash: 448751cf7160dd9f5bd44f8f7460f30acc731ddf783c840654c3634e80f66540
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f9220f6e0a406cb4143798787276d7aa6cb5f5d1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119491754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174731"
 ---
 # <a name="idirectxfileenumobject-interface"></a>Интерфейс Идиректксфилинумобжект
 
@@ -60,7 +60,7 @@ typedef interface IDirectXFileEnumObject *LPDIRECTXFILEENUMOBJECT;
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -71,7 +71,7 @@ typedef interface IDirectXFileEnumObject *LPDIRECTXFILEENUMOBJECT;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

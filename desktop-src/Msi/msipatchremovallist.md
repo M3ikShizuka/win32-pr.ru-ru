@@ -4,12 +4,12 @@ ms.assetid: 6e0b391a-d840-4f01-af12-4708ce6c9ce8
 title: MsiPatchRemovalList, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 93df2cdfc658875526c049ca7503e66a5c318df896a604a82c18751ac3358285
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f2af522d9570297f2ff911b501bc543cf4b5971c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119065984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169771"
 ---
 # <a name="msipatchremovallist-property"></a>MsiPatchRemovalList, свойство
 

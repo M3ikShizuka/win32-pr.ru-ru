@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 6d69db4bbf0d5edcaed6ed6fbcaef724b6ef72d606a89c40c5a309713680606f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1ff86af88342a1b8f0147ecd9721765794faf39e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119920334"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172067"
 ---
 # <a name="cim_runningos-class"></a>\_Класс CIM руннингос
 
@@ -45,7 +45,7 @@ class CIM_RunningOS : CIM_Dependency
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ руннингос** имеет следующие типы членов:
 
@@ -89,7 +89,7 @@ class CIM_RunningOS : CIM_Dependency
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **CIM \_ руннингос** является производным от [**\_ зависимости CIM**](cim-dependency.md).
 
@@ -97,7 +97,7 @@ class CIM_RunningOS : CIM_Dependency
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -111,7 +111,7 @@ class CIM_RunningOS : CIM_Dependency
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

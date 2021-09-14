@@ -4,12 +4,12 @@ ms.assetid: 77d4f4fc-76ec-4996-8f25-05ad8840d49f
 title: Сингапур. назначения каналов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fe915305fd5aaaace3599cafae6281774f4bf35c501bb587fe82e8d9752fd556
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ccf7ae41242244ace47cc457950eedd0c82a0f5a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119683594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169900"
 ---
 # <a name="singapore-channel-assignments"></a>Сингапур. назначения каналов
 

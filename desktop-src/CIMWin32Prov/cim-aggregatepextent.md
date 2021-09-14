@@ -39,11 +39,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: a2f1b2b5b7e08876317888d02d4830cd72659bc0
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104539080"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174123"
 ---
 # <a name="cim_aggregatepextent-class"></a>\_Класс CIM аггрегатепекстент
 
@@ -91,7 +91,7 @@ class CIM_AggregatePExtent : CIM_StorageExtent
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ аггрегатепекстент** имеет следующие типы членов:
 
@@ -106,14 +106,14 @@ class CIM_AggregatePExtent : CIM_StorageExtent
 
 | Метод                                                                      | Описание                                                                                                                                |
 |:----------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
-| [**Перезапуск**](reset-method-in-class-cim-aggregatepextent.md)                 | Запрашивает сброс логического устройства. Не реализовано инструментарием WMI.<br/>                                                                 |
+| [**Reset**](reset-method-in-class-cim-aggregatepextent.md)                 | Запрашивает сброс логического устройства. Не реализовано инструментарием WMI.<br/>                                                                 |
 | [**SetPowerState**](setpowerstate-method-in-class-cim-aggregatepextent.md) | Определяет требуемое состояние электропитания для логического устройства и когда устройство должно быть переведено в это состояние. Не реализовано инструментарием WMI.<br/> |
 
 
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **CIM \_ аггрегатепекстент** имеет следующие свойства.
 
@@ -390,7 +390,7 @@ class CIM_AggregatePExtent : CIM_StorageExtent
 
 </dd> <dt>
 
-**Заголовок**
+**Caption**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -463,7 +463,7 @@ class CIM_AggregatePExtent : CIM_StorageExtent
 
 <span id="The_driver_for_this_device_needs_a_resource_that_Windows_cannot_manage."></span><span id="the_driver_for_this_device_needs_a_resource_that_windows_cannot_manage."></span><span id="THE_DRIVER_FOR_THIS_DEVICE_NEEDS_A_RESOURCE_THAT_WINDOWS_CANNOT_MANAGE."></span>
 
-**Драйверу для этого устройства требуется ресурс, который Windows не может управлять.** (5)
+**драйверу для этого устройства нужен ресурс, который Windows не может управлять.** (5)
 
 
 </dt> <dd></dd> <dt>
@@ -603,14 +603,14 @@ class CIM_AggregatePExtent : CIM_StorageExtent
 
 <span id="Windows_is_still_setting_up_this_device."></span><span id="windows_is_still_setting_up_this_device."></span><span id="WINDOWS_IS_STILL_SETTING_UP_THIS_DEVICE."></span>
 
-**Это устройство все еще настраивается Windows.** (25)
+**Windows все еще настраивает это устройство.** (25)
 
 
 </dt> <dd></dd> <dt>
 
 <span id="Windows_is_still_setting_up_this_device."></span><span id="windows_is_still_setting_up_this_device."></span><span id="WINDOWS_IS_STILL_SETTING_UP_THIS_DEVICE."></span>
 
-**Это устройство все еще настраивается Windows.** (26)
+**Windows все еще настраивает это устройство.** (26)
 
 
 </dt> <dd></dd> <dt>
@@ -645,7 +645,7 @@ class CIM_AggregatePExtent : CIM_StorageExtent
 
 <span id="This_device_is_not_working_properly_because_Windows_cannot_load_the_drivers_required_for_this_device."></span><span id="this_device_is_not_working_properly_because_windows_cannot_load_the_drivers_required_for_this_device."></span><span id="THIS_DEVICE_IS_NOT_WORKING_PROPERLY_BECAUSE_WINDOWS_CANNOT_LOAD_THE_DRIVERS_REQUIRED_FOR_THIS_DEVICE."></span>
 
-**Это устройство работает неправильно, так как Windows не может загрузить драйверы, необходимые для этого устройства.** 1-31
+**это устройство работает неправильно, так как Windows не может загрузить драйверы, необходимые для этого устройства.** 1-31
 
 
 </dt> <dd></dd> </dl>
@@ -802,7 +802,7 @@ class CIM_AggregatePExtent : CIM_StorageExtent
 
 </dd> <dt>
 
-**Name**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1192,7 +1192,7 @@ class CIM_AggregatePExtent : CIM_StorageExtent
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **CIM \_ аггрегатепекстент** является производным от [**CIM \_ сторажеекстент**](cim-storageextent.md).
 

@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Wxdebug.h
-ms.openlocfilehash: ec4d1c0440d0747024efadaa441ca062da512283f5a01f29be12b19c0f7c0567
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b551f3c72a2480ea1f160b2b384fe87dbede51f2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119755664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169895"
 ---
 # <a name="validatereadwriteptr-macro"></a>Макрос Валидатереадвритептр
 

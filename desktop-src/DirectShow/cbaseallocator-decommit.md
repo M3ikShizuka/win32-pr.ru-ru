@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 614986a912f08d918d4fbbaf6b3eeeb0d3b2c3eabc47748351934a08b8280cca
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 613af805f1c04a7bf375755ff8f3adba7b70be18
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119017552"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172016"
 ---
 # <a name="cbaseallocatordecommit-method"></a>Кбасеаллокатор. uncommit, метод
 
@@ -44,13 +44,13 @@ HRESULT Decommit();
 
 Возвращает значение S \_ ОК.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 После вызова этого метода вызовы метода [**кбасеаллокатор::-buffer**](cbaseallocator-getbuffer.md) завершатся ошибкой. После выпуска образцов они возвращаются в бесплатный список. Когда возвращается последняя выборка, распределитель вызывает метод [**кбасеаллокатор:: Free**](cbaseallocator-free.md) , который освобождает выделенную память. (В базовом классе **Free** является чисто виртуальным методом.)
 
 Кроме того, этот метод освобождает все потоки, заблокированные в вызовах метода **buffer** . Вызовы метода " **buffer** " завершаются ошибкой.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ HRESULT Decommit();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

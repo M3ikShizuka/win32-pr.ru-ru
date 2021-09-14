@@ -29,11 +29,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 0d4f2c98a5fc2ae2cecb8af0135034434adaba12
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103803454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172668"
 ---
 # <a name="style-identifiers"></a>Идентификаторы стилей
 
@@ -268,9 +268,9 @@ ms.locfileid: "103803454"
 
 | Требование | Значение |
 |-------------------------------------|-------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 8\]<br/>                                                      |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2012\]<br/>                                            |
-| Header<br/>                   | <dl> <dt>UIAutomationClient. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                                      |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                            |
+| Заголовок<br/>                   | <dl> <dt>UIAutomationClient. h</dt> </dl> |
 
 
 

@@ -17,11 +17,11 @@ api_location:
 - Strmbasd.lib
 - Strmbasd.dll
 ms.openlocfilehash: 57463a7025ea816b6fe6bcaa8b964231458903de
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105657542"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170032"
 ---
 # <a name="cimageallocatorcreateimagesample-method"></a>Цимажеаллокатор. Креатеимажесампле, метод
 
@@ -61,7 +61,7 @@ virtual CImageSample* CreateImageSample(
 
 Возвращает объект [**Цимажесампле**](cimagesample.md) .
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот метод создает образец носителя, реализованный как объект **Цимажесампле** . Метод [**имедиасампле::-Point**](/windows/desktop/api/Strmif/nf-strmif-imediasample-getpointer) в примере возвращает указатель на буфер, указанный в параметре *pData* .
 
@@ -73,7 +73,7 @@ virtual CImageSample* CreateImageSample(
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Винутил. h (включение Streams. h)</dt> </dl>                                                                                   |
+| Заголовок<br/>  | <dl> <dt>винутил. h (включает Потоки. h)</dt> </dl>                                                                                   |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 

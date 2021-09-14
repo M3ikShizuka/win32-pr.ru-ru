@@ -4,12 +4,12 @@ ms.assetid: 041f5bab-cb13-4e17-8465-484bcd3c6957
 title: Обновление таблицы обновления для обновления
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ba65db43019c09e27824c54265244c65b900e4f3c94dacd24405e7fac2e0272a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fc1b4c2cc2b650d49fb4ba40f97d69ed84911273
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119809754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254137"
 ---
 # <a name="updating-upgrade-table-for-an-upgrade"></a>Обновление таблицы обновления для обновления
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: fe728b8e88dabada460907c58a6e31501633378745f71212c6b08e421ca1e487
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0cc8195d0c67307fdcea5f0e591831f387d8332e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118157818"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173819"
 ---
 # <a name="cbaserendererm_dwadvise-member"></a>Элемент Кбасерендерер:: m \_ двадвисе
 
@@ -47,7 +47,7 @@ DWORD_PTR m_dwAdvise;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,16 +4,16 @@ description: Сообщения списка
 ms.assetid: 6594bfd1-550f-47ba-9b92-551f2a5c08a6
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 71bdcbac0af6473d872e8260946280c25d24dc424a5b6a5c66013788157e5dd5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 344e08b3fa34969d1602f730e41400bc02ef19ab
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117833396"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174251"
 ---
 # <a name="list-box-messages"></a>Сообщения списка
 
-## <a name="in-this-section"></a>В этом разделе
+## <a name="in-this-section"></a>в этом разделе
 
 -   [**ADDFILE балансировки нагрузки \_**](lb-addfile.md)
 -   [**ADDSTRING балансировки нагрузки \_**](lb-addstring.md)

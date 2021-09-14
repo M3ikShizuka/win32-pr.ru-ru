@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 3769b7cd510b21d91a0b855fa0551cf698b91812e5aab3fc53bda32bb4ce82cb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7e2ebfaa3d12b5f582b4b67014280fa0a0d5299d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120056234"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254482"
 ---
 # <a name="cbasepinquerydirection-method"></a>Кбасепин. Куеридиректион, метод
 
@@ -53,7 +53,7 @@ HRESULT QueryDirection(
 
 Возвращает значение S \_ (ОК) или \_ указатель E.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -64,7 +64,7 @@ HRESULT QueryDirection(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

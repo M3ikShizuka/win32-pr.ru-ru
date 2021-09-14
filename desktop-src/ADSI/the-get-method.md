@@ -8,12 +8,12 @@ keywords:
 - ADSI ADSI, использование с помощью метода IADs Get
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 386c3fe6e50a9f7357ec161b1e6bd8731cf8d0a74eed4b4a765adc3315c1045d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 11590fda2cfd207315453323fa3d0999f298103d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117838634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172184"
 ---
 # <a name="the-get-method"></a>Метод Get
 

@@ -4,12 +4,12 @@ description: Сведения о свойстве Name объекта Characters
 ms.assetid: vs|msagent|~\pacontrol_2bxm.htm
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e08509d5d2a349c56548259db4846203da6f632ff76c86309db87e6aa90583a5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7365550d5d4d4071cf4292e505f16e7047628cf1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119608654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168260"
 ---
 # <a name="name-property-characters-object"></a>Свойство Name (объект characters)
 

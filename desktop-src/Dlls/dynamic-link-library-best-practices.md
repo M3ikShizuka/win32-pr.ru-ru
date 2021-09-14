@@ -4,12 +4,12 @@ ms.assetid: 44EFC4B5-7A2F-43A6-914E-D4EB7446AC35
 title: Рекомендации по использованию библиотеки Dynamic-Link
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 95d02314b15a13de7658c0b87ba7cd998f48a0a3d9f2f2682b36539bd9f5bde3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 88aba0999f3d0825c6d2f4df3afe09d766a82232
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119696593"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173743"
 ---
 # <a name="dynamic-link-library-best-practices"></a>Рекомендации по использованию библиотеки Dynamic-Link
 

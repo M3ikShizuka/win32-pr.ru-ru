@@ -4,12 +4,12 @@ description: При указании \_ стиля подсказок тбсти
 ms.assetid: 0383DB63-A10E-4235-A974-AB21551E086B
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f169c6cc9324c98ed085b38f14802fcaa3c5cfbc8bd7ee9aa29af62ef41a6adc
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: bb37de7c21c904673a1f656533497130d50bd8f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119320004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174164"
 ---
 # <a name="how-to-display-tooltips-for-buttons"></a>Отображение подсказок для кнопок
 
@@ -37,7 +37,7 @@ ms.locfileid: "119320004"
 -   C/C++
 -   Windows Программирование пользовательского интерфейса
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="display-a-tooltip-for-a-button"></a>Отображение всплывающей подсказки для кнопки
 

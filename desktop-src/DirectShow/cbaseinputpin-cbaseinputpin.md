@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 526c10dc0cda2f9b4d4cee6a955620f2aa1aae697522aaf3e14e57c3317ca325
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 95a6dca29a9bdcaf978a54587035b34959d81719
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119017072"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173823"
 ---
 # <a name="cbaseinputpincbaseinputpin-constructor"></a>Кбасеинпутпин. Кбасеинпутпин, конструктор
 
@@ -85,7 +85,7 @@ CBaseInputPin(
 
 Все параметры передаются непосредственно в конструктор [**кбасепин**](cbasepin-cbasepin.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -96,7 +96,7 @@ CBaseInputPin(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

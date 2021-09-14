@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: ec67a00b55510aecb980fd8bd8a5b2fa4ad6c73e
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122885643"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173031"
 ---
 # <a name="principallogontype-property"></a>Свойство Principal. LogonType
 
@@ -56,7 +56,7 @@ Principal.LogonType As Integer
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это свойство допустимо, только если идентификатор пользователя задан свойством [**UserID**](principal-userid.md) .
 

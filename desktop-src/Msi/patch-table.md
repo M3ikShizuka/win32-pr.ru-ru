@@ -4,12 +4,12 @@ ms.assetid: 1b624702-de25-4b1a-9dac-21f359ee97f7
 title: Таблица исправлений
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a9e5f41f206557589bf0b90d9ffb125a80d05d39ce809dc01a8e687a21045475
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 061b2082f88a8c7c3967652900bb6bf6e1c29802
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119558464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173672"
 ---
 # <a name="patch-table"></a>Таблица исправлений
 
@@ -21,12 +21,12 @@ ms.locfileid: "119558464"
 
 | Столбец      | Type                               | Ключ | Допускает значения NULL |
 |-------------|------------------------------------|-----|----------|
-| File\_      | [Идентификатор](identifier.md)       | Д   | Нет        |
-| Последовательность    | [Integer](integer.md)             | Д   | Нет        |
+| File\_      | [Идентификатор](identifier.md)       | Да   | Нет        |
+| Последовательность    | [Integer](integer.md)             | Да   | Нет        |
 | патчсизе   | [даублеинтежер](doubleinteger.md) | Нет   | Нет        |
 | Атрибуты  | [Integer](integer.md)             | Нет   | Нет        |
-| Заголовок      | [Двоичный](binary.md)               | Нет   | Д        |
-| стреамреф\_ | [Идентификатор](identifier.md)       | Нет   | Д        |
+| Заголовок      | [Двоичный](binary.md)               | Нет   | Да        |
+| стреамреф\_ | [Идентификатор](identifier.md)       | Нет   | Да        |
 
 
 

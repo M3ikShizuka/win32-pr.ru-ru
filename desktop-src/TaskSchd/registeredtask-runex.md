@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ecea66d57bf473b5000e84c707e652f1c49431a840da5cc50e43f9e091c3eefb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1d88eb8bb651929c905f080f97a9eaefd3b4dace
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117943396"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172971"
 ---
 # <a name="registeredtaskrunex-method"></a>Регистередтаск. Рунекс, метод
 
@@ -95,7 +95,7 @@ RegisteredTask.RunEx( _
 
 Этот метод будет возвращать значение без ошибок, но задача не будет выполняться, если для зарегистрированной задачи свойство [**тасксеттингс. алловдемандстарт**](tasksettings-allowdemandstart.md) имеет значение false.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -108,7 +108,7 @@ RegisteredTask.RunEx( _
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

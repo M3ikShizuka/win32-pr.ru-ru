@@ -4,12 +4,12 @@ ms.assetid: 50794113-067a-4614-bea8-300e6e49dff6
 title: Атрибут name
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0750921508734ead3202ff4b7e396ece164fa1d378e37a383fe6c6a243177aaf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a62c37cb2fe41d9b24b9cba72d38757b6afea05c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119790994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254266"
 ---
 # <a name="name-attribute"></a>Атрибут name
 
@@ -34,7 +34,7 @@ ms.locfileid: "119790994"
 
 Для элемента **param** этот атрибут указывает имя свойства.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

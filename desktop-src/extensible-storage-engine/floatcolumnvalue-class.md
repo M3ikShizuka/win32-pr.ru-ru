@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: bb42fd6aae84bea83202efbe6badceaa1d66694fb77bd1fda73500460cca9f52
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 54d6c21fe623e7ee7544098c7487523f2c5f86e7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119968824"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172415"
 ---
 # <a name="floatcolumnvalue-class"></a>Класс Флоатколумнвалуе
 
@@ -65,7 +65,7 @@ public class FloatColumnValue : ColumnValueOfStruct<float>
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Элементы Флоатколумнвалуе](./floatcolumnvalue-members.md)
 

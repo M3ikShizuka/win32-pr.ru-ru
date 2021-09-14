@@ -12,12 +12,12 @@ api_name:
 - WorldRayOrigin
 api_type:
 - NA
-ms.openlocfilehash: c5c1de535e7efc73f633c5656a5c799db34161e06d07df012d4bfccb94012c7c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 456d93bf36ceeaac0627d90ed9355453265969b6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120119444"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174844"
 ---
 # <a name="worldrayorigin"></a>ворлдрайоригин
 
@@ -44,7 +44,7 @@ float3 WorldRayOrigin();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

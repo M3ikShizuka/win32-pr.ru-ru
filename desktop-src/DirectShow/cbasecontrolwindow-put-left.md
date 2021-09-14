@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 70d0e582e358f988ea1ecd72cac0b9c62a88eaed474a413c47331b59b9fb1126
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e1dcd56bc10e60d263ce385246a6ea01aee721bf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119793724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173859"
 ---
 # <a name="cbasecontrolwindowput_left-method"></a>Кбасеконтролвиндов. размещение \_ Left, метод
 
@@ -59,7 +59,7 @@ HRESULT put_Left(
 
 Установка координат Left или Top перемещает окно влево или вверх соответственно; Эти координаты не влияют на ширину и высоту окна. Аналогично, установка ширины и высоты не влияет на координаты левой и верхней точек.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ HRESULT put_Left(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

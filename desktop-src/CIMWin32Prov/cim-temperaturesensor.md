@@ -49,12 +49,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: b325795c0a144fb9bb15724986c95ba35710b6ce86b59af4393b18d5bb2d8052
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f48988db3cb213c06013b7ebac61095dbc365daa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119918964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174559"
 ---
 # <a name="cim_temperaturesensor-class"></a>\_Класс CIM датчик температуры
 
@@ -111,7 +111,7 @@ class CIM_TemperatureSensor : CIM_NumericSensor
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ датчик температуры** имеет следующие типы членов:
 
@@ -126,14 +126,14 @@ class CIM_TemperatureSensor : CIM_NumericSensor
 
 | Метод                                                                       | Описание                                                                                                                              |
 |:-----------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
-| [**Перезапуск**](reset-method-in-class-cim-temperaturesensor.md)                 | Запрашивает сброс логического устройства. Не реализовано инструментарием WMI.<br/>                                                               |
+| [**Reset**](reset-method-in-class-cim-temperaturesensor.md)                 | Запрашивает сброс логического устройства. Не реализовано инструментарием WMI.<br/>                                                               |
 | [**SetPowerState**](setpowerstate-method-in-class-cim-temperaturesensor.md) | Определяет требуемое состояние электропитания для логического устройства, а также когда устройство должно быть переведено в это состояние. Не реализовано инструментарием WMI.<br/> |
 
 
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **CIM \_ датчик температуры** имеет следующие свойства.
 
@@ -996,7 +996,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**

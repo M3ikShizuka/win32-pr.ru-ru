@@ -4,12 +4,12 @@ description: Событие Рекуесткомплете
 ms.assetid: 543b79d1-f09d-4061-a1a8-8c8ab496bceb
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bcf5202cc6aee6e8727651279fd216d5f0e5676025584c9cb66c4c6ad958da54
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 551aecdcfbeab76ab45e6211affef794ff37d876
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118746561"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168223"
 ---
 # <a name="requestcomplete-event"></a>Событие Рекуесткомплете
 
@@ -95,7 +95,7 @@ ms.locfileid: "118746561"
 
  
 
-### <a name="see-also"></a>См. также
+### <a name="see-also"></a>См. также:
 
 [**Событие Рекуестстарт**](requeststart-event.md)
 

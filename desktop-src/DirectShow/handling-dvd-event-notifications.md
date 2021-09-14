@@ -4,12 +4,12 @@ ms.assetid: 7a12aa36-f709-4ee2-aac6-45ab273ad3f9
 title: Обработка уведомлений о событиях DVD
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7a4b6c4f9b2f8487b5b16012c0bc7b9e40ea249ce6e856f6ceab03b0ea08f818
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8212f3eb9f868c494aa008602713c1750a6c6dc9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117999827"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169952"
 ---
 # <a name="handling-dvd-event-notifications"></a>Обработка уведомлений о событиях DVD
 

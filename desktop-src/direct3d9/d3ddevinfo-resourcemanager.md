@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3D9Types.h
-ms.openlocfilehash: d45d920383e9ed95a9fe50f2ce87bd6cf26d040d45aecc9e7891a5c08f4232cc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b0a9fc461564280e4e36dde6bf73e68a78cf1609
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119850284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174824"
 ---
 # <a name="d3ddevinfo_resourcemanager-structure"></a>\_Структура RESOURCEMANAGER D3DDEVINFO
 
@@ -36,11 +36,11 @@ typedef struct _D3DDEVINFO_RESOURCEMANAGER {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
-**stats**
+**Статистика**
 </dt> <dd>
 
 Тип: **[ **D3DRESOURCESTATS**](d3dresourcestats.md)**
@@ -55,7 +55,7 @@ typedef struct _D3DDEVINFO_RESOURCEMANAGER {
 
 D3DRTYPECOUNT относится к числу перечислений в [**D3DRESOURCETYPE**](./d3dresourcetype.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -65,7 +65,7 @@ D3DRTYPECOUNT относится к числу перечислений в [**D3
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

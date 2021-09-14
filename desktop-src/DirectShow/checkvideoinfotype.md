@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - checkbmi.h
-ms.openlocfilehash: 4463a1edb2002f64e983a38eb4a0ace5b5289b4d47ac43c8ea27bf165138ff95
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7c3a3c9603f974458ed3012dc651815abd432645
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119539544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172012"
 ---
 # <a name="checkvideoinfotype-function"></a>Функция Чекквидеоинфотипе
 
@@ -67,11 +67,11 @@ HRESULT CheckVideoInfoType(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция вызывает [**валидатебитмапинфохеадер**](validatebitmapinfoheader.md) для проверки структуры [**битмапинфохеадер**](/windows/win32/api/wingdi/ns-wingdi-bitmapinfoheader) в типе мультимедиа. Если тип формата отличается от FORMAT \_ видеоинфо, функция возвращает \_ тип VFW E \_ \_ не \_ принято.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -81,7 +81,7 @@ HRESULT CheckVideoInfoType(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

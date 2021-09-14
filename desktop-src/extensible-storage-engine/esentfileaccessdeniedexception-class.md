@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 6e5a04f48103adf96116893a00c15715b9ab2e81ff1c0181463ba6317cb87461
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: afb92cc5fad314763ef2d679035b727f38b8305a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118778329"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174680"
 ---
 # <a name="esentfileaccessdeniedexception-class"></a>Класс Есентфилеакцессдениедексцептион
 

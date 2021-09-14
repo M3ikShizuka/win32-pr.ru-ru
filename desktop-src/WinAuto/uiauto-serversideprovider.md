@@ -19,12 +19,12 @@ keywords:
 - реализация поставщиков
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 583b9a5f91bb8be53a3e8b0e356ce558978b8ea28d5b726b56f52420cd7bff37
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e7fafbb9d03a25eb2e4713330c0622c25d17f9ff
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119413444"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172675"
 ---
 # <a name="implement-a-server-side-ui-automation-provider"></a>Реализация поставщика автоматизации пользовательского интерфейса Server-Side
 
@@ -82,7 +82,7 @@ ms.locfileid: "119413444"
 
 
 
-| функциональное назначение;                                              | Реализация                                                                                                                                                                                                                                                                                                |
+| Функциональность                                              | Реализация                                                                                                                                                                                                                                                                                                |
 |------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Предоставьте поставщику модель автоматизации пользовательского интерфейса.                      | В ответ на сообщение [**WM \_ GetObject**](wm-getobject.md) , отправленное в окно управления, возвращается объект, реализующий [**иравелементпровидерсимпле**](/windows/desktop/api/UIAutomationCore/nn-uiautomationcore-irawelementprovidersimple). Для фрагментов это должен быть поставщик для корневого фрагмента.                                           |
 | Укажите значения свойств.                                   | Реализуйте [**иравелементпровидерсимпле:: жетпропертивалуе**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irawelementprovidersimple-getpropertyvalue) для предоставления или переопределения значений.                                                                                                                                                             |

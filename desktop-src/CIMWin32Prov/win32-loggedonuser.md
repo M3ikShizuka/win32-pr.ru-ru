@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 73cb34246f7b31393527aef053c0cb8cbd12702217dd7113d5714ac022bc3716
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 0f851c85563095a66197b0dde8e6cbddc9581f07
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119973449"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254563"
 ---
 # <a name="win32_loggedonuser-class"></a>\_Класс Win32 логжедонусер
 
@@ -40,7 +40,7 @@ class Win32_LoggedOnUser : CIM_Dependency
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ логжедонусер** имеет следующие типы членов:
 
@@ -92,7 +92,7 @@ class Win32_LoggedOnUser : CIM_Dependency
 
 Пример [функции Get-логжедонусер](https://Gallery.TechNet.Microsoft.Com/scriptcenter/0e43993a-895a-4afe-a2b2-045a5146048a) PowerShell получает пользователей, вошедших в систему на локальном или удаленном компьютере, со сведениями о сеансе.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -106,7 +106,7 @@ class Win32_LoggedOnUser : CIM_Dependency
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

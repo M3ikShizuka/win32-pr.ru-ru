@@ -19,12 +19,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b6f9740e0de413649b67cc8231d31425d212d2571dbc9a1b703f9f95c35e4981
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 2d24e7543e4e843fc70e0ccacdab670e18e46cf3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120085764"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174171"
 ---
 # <a name="date-and-time-picker-control-styles"></a>Стили элемента управления выбора даты и времени
 
@@ -49,7 +49,7 @@ ms.locfileid: "120085764"
 
 \_Стили КСКСКСФОРМАТ DTS, определяющие формат вывода, не могут быть объединены. Если ни один из стилей форматирования не подходит, используйте сообщение [**DTM \_ сетформат**](dtm-setformat.md) для определения пользовательского формата.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Требования к пути к объектам WMI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8d278ece21840c019ae9747926dcd513f0fd1a2fcd59c408ecd8614fc19efeed
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e2b46195eae3e8351c9c611a34c28cc9d5dd58d6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117921122"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172539"
 ---
 # <a name="wmi-object-path-requirements"></a>Требования к пути к объектам WMI
 

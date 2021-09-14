@@ -4,12 +4,12 @@ ms.assetid: bd3d0259-f0e8-460e-9f18-95d2492da3d8
 title: 'Пример программы на языке C: Создание запроса на сертификат'
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0c4417eca6a6cc7537b4c284cfc5d37aeb6d0ed69d9d0a00bd6cb06efe6cb387
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d6e02d9faa51d405f02bb46729621f65d43c7ab2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119140897"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171080"
 ---
 # <a name="example-c-program-making-a-certificate-request"></a>Пример программы на языке C: Создание запроса на сертификат
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: f7d3afe8155eb33a37b30abcfc96aae83c0a96461c1ee2dd6118a671701cfed6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0ad8b4cefe0b368cbf81de4ddc030f32cda8fb17
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118800323"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172503"
 ---
 # <a name="id3dxtexturegutterhelperresampletex-method"></a>Метод ID3DXTextureGutterHelper:: Ресамплетекс
 
@@ -95,7 +95,7 @@ HRESULT ResampleTex(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Параметризация в случае этой функции представляет собой набор координат текстуры, который сопоставляет треугольники сетки с треугольниками на текстуре. Новая параметризация — это набор координат текстуры, содержащихся в вспомогательном интерфейсе переплета, а исходная параметризация — это набор координат текстуры, содержащихся во входной сетке.
 

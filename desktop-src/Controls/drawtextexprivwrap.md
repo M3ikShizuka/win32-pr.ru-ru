@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3381cd7aef94556cf80ddfc3ad828477e3a29c0fd57601ad27ff735d7b2f58f2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: eba496a121af3ba88ed24ab6c9c7834c90153ec0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119916334"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174131"
 ---
 # <a name="drawtextexprivwrap-function"></a>Функция Дравтекстекспривврап
 
@@ -119,7 +119,7 @@ int WINAPI DrawTextExPrivWrap(
 
 Дополнительные замечания см. в разделе [**дравтекстекс**](/windows/desktop/api/winuser/nf-winuser-drawtextexa).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

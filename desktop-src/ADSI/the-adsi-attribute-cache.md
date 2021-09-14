@@ -9,12 +9,12 @@ keywords:
 - атрибуты ADSI, кэширование атрибутов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4d5940d431fc476fdecd8397875bf06a04ed82ea30ab4ed2e98b94ccef98f0e9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: df3062ed5862f11e9db5dadd83b80ac624218c81
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119930053"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172108"
 ---
 # <a name="the-adsi-attribute-cache"></a>Кэш атрибутов ADSI
 

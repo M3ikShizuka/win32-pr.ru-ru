@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3dx9math.h
-ms.openlocfilehash: 28f170814988317cd1cdf3300e4cbb3c2a97fa0fac7a43b2231767914a9b103a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 58b02abc49b695169674a2579b73dc2359801a73
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118988724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174811"
 ---
 # <a name="d3dxcolor-structure-d3dx9mathh"></a>Структура D3DXCOLOR (D3dx9math. h)
 
@@ -38,7 +38,7 @@ typedef struct D3DXCOLOR {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -90,7 +90,7 @@ typedef struct D3DXCOLOR {
 
 Программисты C++ могут воспользоваться преимуществами перегрузки операторов и приведения типов с [**расширениями D3DXCOLOR**](d3dxcolor-extensions.md), которые реализуют перегруженные конструкторы, а также операторы присваивания, унарные и бинарные (включая равенство).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -100,7 +100,7 @@ typedef struct D3DXCOLOR {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

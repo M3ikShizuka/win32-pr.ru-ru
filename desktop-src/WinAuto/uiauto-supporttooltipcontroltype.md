@@ -22,11 +22,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: a627114afcdeeb9b6e156572476462fa7ecde75a
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122472860"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172604"
 ---
 # <a name="tooltip-control-type"></a>Тип элемента управления ToolTip
 
@@ -75,7 +75,7 @@ ms.locfileid: "122472860"
 | [**UIA \_ кликкаблепоинтпропертид**](uiauto-automation-element-propids.md)             | См. примечания.  | Щелчок точки должен быть частью подсказки, которая закрывает элемент управления. Некоторые подсказки не имеют этой возможности и не будут иметь точки, которую нельзя щелкнуть.                                                                                                                                                                                                  |
 | [**UIA \_ контролтипепропертид**](uiauto-automation-element-propids.md)                   | **ToolTip** |                                                                                                                                                                                                                                                                                                                                                                |
 | [**UIA \_ исконтентелементпропертид**](uiauto-automation-element-propids.md)         | Зависит     | Если элемент управления ToolTip может получать фокус клавиатуры, он должен отображаться в представлении содержимого дерева. Если это только текст, он доступен как свойство [**иуиаутоматионелемент:: курренселптекст**](/windows/desktop/api/UIAutomationClient/nf-uiautomationclient-iuiautomationelement-get_currenthelptext) (или [**качедхелптекст**](/windows/desktop/api/UIAutomationClient/nf-uiautomationclient-iuiautomationelement-get_cachedhelptext)) из элемента управления, который его вызвал. |
-| [**UIA \_ исконтролелементпропертид**](uiauto-automation-element-propids.md)         | True        | Элемент управления ToolTip всегда включается в представление элемента управления дерева модели автоматизации пользовательского интерфейса.                                                                                                                                                                                                                                                                          |
+| [**UIA \_ исконтролелементпропертид**](uiauto-automation-element-propids.md)         | Верно        | Элемент управления ToolTip всегда включается в представление элемента управления дерева модели автоматизации пользовательского интерфейса.                                                                                                                                                                                                                                                                          |
 | [**UIA \_ искэйбоардфокусаблепропертид**](uiauto-automation-element-propids.md)   | См. примечания.  | Если элемент управления может получать фокус клавиатуры, он должен поддерживать это свойство.                                                                                                                                                                                                                                                                                      |
 | [**UIA \_ лабеледбипропертид**](uiauto-automation-element-propids.md)                       | NULL        | Элементы управления ToolTip всегда снабжены их содержимым.                                                                                                                                                                                                                                                                                                    |
 | [**UIA \_ локализедконтролтипепропертид**](uiauto-automation-element-propids.md) | См. примечания.  | Локализованная строка, соответствующая типу элемента управления ToolTip. Значение по умолчанию — "ToolTip" для en-US или English (США).                                                                                                                                                                                                                               |
@@ -131,7 +131,7 @@ ms.locfileid: "122472860"
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Общие сведения о типах элементов управления автоматизации пользовательского интерфейса](uiauto-controltypesoverview.md)

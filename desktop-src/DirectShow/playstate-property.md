@@ -4,12 +4,12 @@ ms.assetid: ffe71c3f-f8c2-45cc-84bf-e937cfbbe7b9
 title: Плайстате, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4b66ae0ddfb1a8ceb296ec647a0149a42de68f635ffd198d6ba6609ff11e4888
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 9d8c699ce3f232f9afc14472f0308fa65adc6abb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120102354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171987"
 ---
 # <a name="playstate-property"></a>Плайстате, свойство
 
@@ -32,17 +32,17 @@ ms.locfileid: "120102354"
 
 | Код возврата | Описание   |
 |-------------|---------------|
-| –2          | Не определено.     |
-| –1          | Не инициализировано |
+| -2          | Не определено.     |
+| -1          | Не инициализировано |
 | 0           | Остановлена       |
 | 1           | Пауза        |
-| 2           | Выполнение       |
+| 2           | Запущен       |
 
 
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство доступно только для чтения и не имеет значения по умолчанию.
 

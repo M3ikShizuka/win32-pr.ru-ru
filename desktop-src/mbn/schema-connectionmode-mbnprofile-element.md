@@ -11,12 +11,12 @@ api_name:
 - ConnectionMode
 api_type:
 - Schema
-ms.openlocfilehash: d0f2290928fba4be65d39129017a171fbd3d1e66e6ebab715f616e4edec9b13e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d9c92227e26bb8858aef28d2f030ac2f84bed06d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119607144"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168148"
 ---
 # <a name="connectionmode-mbnprofile-element"></a>ConnectionMode (Мбнпрофиле), элемент
 
@@ -62,7 +62,7 @@ ms.locfileid: "119607144"
 
 Элемент **ConnectionMode** определяется элементом [**мбнпрофиле**](schema-mbnprofile-element.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -73,7 +73,7 @@ ms.locfileid: "119607144"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

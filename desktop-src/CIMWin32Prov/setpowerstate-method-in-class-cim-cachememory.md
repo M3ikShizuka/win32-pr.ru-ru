@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 99f89317636a94447a43630622a419e407ae7ecba44a81479da1f0c03e2b81d2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8617014750dfeaa8f597e5877d2ce0f553de7841
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119439674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174027"
 ---
 # <a name="setpowerstate-method-of-the-cim_cachememory-class"></a>Метод SetPowerState \_ класса CIM качемемори
 
@@ -112,7 +112,7 @@ uint32 SetPowerState(
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

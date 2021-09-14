@@ -22,11 +22,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 7bc109bfba35f995384447014bc6642dcf3cd7f4
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122478800"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172612"
 ---
 # <a name="text-control-type"></a>Тип элемента управления "текст"
 
@@ -53,7 +53,7 @@ ms.locfileid: "122478800"
 
 | Представление элемента управления | Представление содержимого | 
 |--------------|--------------|
-| <ul><li>текст</li></ul> | <ul><li>Text (если содержимое)</li></ul> | 
+| <ul><li>Текст</li></ul> | <ul><li>Text (если содержимое)</li></ul> | 
 
 
 
@@ -132,7 +132,7 @@ ms.locfileid: "122478800"
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Общие сведения о типах элементов управления автоматизации пользовательского интерфейса](uiauto-controltypesoverview.md)

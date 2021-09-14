@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 19fc62179337236edbac2d5136cbcbff8152b46292ae666ae2836fd4b3c8d2d3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 564f122242407f4d6f5dd28da9fd4d151ab6b47f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119439964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174087"
 ---
 # <a name="setipusezerobroadcast-method-of-the-win32_networkadapterconfiguration-class"></a>Метод Сетипусезероброадкаст \_ класса Win32 NetworkAdapterConfiguration
 
@@ -321,7 +321,7 @@ IPX не включен на адаптере.
 
 91
 
-Доступ запрещен.
+Access denied. (Недопустимое значение {значение_утверждения} для утверждения {имя_утверждения}. Доступ запрещен.)
 
 </dd> <dt>
 
@@ -412,7 +412,7 @@ DHCP не включен на адаптере.
 
 Пример [изменения Zero-Broadcast использования для всех сетевых адаптеров](https://Gallery.TechNet.Microsoft.Com/3d1ec74a-bf96-41cf-bb90-f98cd6494fb3) VBScript настраивает компьютер для использования нулевых широковещательных рассылок (0.0.0.0), а не широковещательных (255.255.255.255).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

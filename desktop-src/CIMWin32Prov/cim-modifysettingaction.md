@@ -29,11 +29,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: bf794bfb3ed60dfdc4c6beeb57e33108889105eb
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122884257"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254638"
 ---
 # <a name="cim_modifysettingaction-class"></a>\_Класс CIM модифисеттингактион
 
@@ -69,7 +69,7 @@ class CIM_ModifySettingAction : CIM_Action
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ модифисеттингактион** имеет следующие типы членов:
 
@@ -90,7 +90,7 @@ class CIM_ModifySettingAction : CIM_Action
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **CIM \_ модифисеттингактион** имеет следующие свойства.
 
@@ -924,7 +924,7 @@ Mac OS 9
 
 </dd> <dt>
 
-**Version**
+**Версия**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -947,7 +947,7 @@ Mac OS 9
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **CIM \_ модифисеттингактион** является производным от [**\_ действия CIM**](cim-action.md).
 

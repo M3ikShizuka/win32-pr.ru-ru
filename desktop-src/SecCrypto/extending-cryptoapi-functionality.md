@@ -4,12 +4,12 @@ ms.assetid: 41c1758d-1213-47a6-81d5-7755b41c3007
 title: Расширение функциональности CryptoAPI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: af1c2d45ec9e0262843bb8e0ff7d7d727785a63c2d37467b321e7cc5664388cf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8ec079a9ba81d7b264d317664f3c6e971d521090
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119007032"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171028"
 ---
 # <a name="extending-cryptoapi-functionality"></a>Расширение функциональности CryptoAPI
 

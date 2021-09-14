@@ -4,12 +4,12 @@ ms.assetid: 36477775-c937-44df-a5e3-20b389f665db
 title: HCRYPTPROV_LEGACY (Винкрипт. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5a108c0106ac4e57d4276e28e3c8bd64d30dbe2a15f19426f9b8626084bab031
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4fff215ce08456fa52c8b04dd5e5a23e4c9b9a54
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119006402"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171016"
 ---
 # <a name="hcryptprov_legacy"></a>ХКРИПТПРОВ, \_ устаревший
 
@@ -22,7 +22,7 @@ typedef ULONG_PTR HCRYPTPROV_LEGACY;
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

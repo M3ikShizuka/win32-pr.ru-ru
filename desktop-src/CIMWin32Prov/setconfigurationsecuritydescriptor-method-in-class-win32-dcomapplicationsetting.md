@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: aef263d3d0dc1f16c908d3f586b78d7ca4cfb0679a86fba2c9896404d81b03cb
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8556e49d2e87e12763e3f0699bcff1f786ac1e72
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119760164"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174495"
 ---
 # <a name="setconfigurationsecuritydescriptor-method-of-the-win32_dcomapplicationsetting-class"></a>Метод Сетконфигуратионсекуритидескриптор \_ класса Win32 дкомаппликатионсеттинг
 

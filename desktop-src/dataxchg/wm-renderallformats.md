@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 77dae9b44cb379ed62c99c601d308fdec500440a9ebad0ffeaffad16ec780dfe
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6cdd3ce1fabdea4cdcae93b5243b89c53def0afa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119636064"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172516"
 ---
 # <a name="wm_renderallformats-message"></a>\_Сообщение РЕНДЕРАЛЛФОРМАТС WM
 
@@ -56,7 +56,7 @@ ms.locfileid: "119636064"
 
 Если приложение обрабатывает это сообщение, оно должно вернуть ноль.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При ответе на **сообщение WM \_ рендераллформатс** приложение должно вызвать функцию [**опенклипбоард**](/windows/win32/api/winuser/nf-winuser-openclipboard) , а затем проверить, что он по-прежнему является владельцем буфера обмена, вызвав функцию [**жетклипбоардовнер**](/windows/win32/api/winuser/nf-winuser-getclipboardowner) перед вызовом [**сетклипбоарддата**](/windows/win32/api/winuser/nf-winuser-setclipboarddata).
 
@@ -97,7 +97,7 @@ ms.locfileid: "119636064"
 [**WM \_ RENDERFORMAT**](wm-renderformat.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Буфер обмена](clipboard.md)

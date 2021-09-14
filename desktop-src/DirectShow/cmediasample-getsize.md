@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: f3559f972f35a01738c60f32414ab0b42a079032ac5bc6b3ab0e5b7212900d61
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ff4146b66ca62905fe54eeb88d1e38ccf56ceea9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118156755"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254437"
 ---
 # <a name="cmediasamplegetsize-method"></a>Кмедиасампле. DataSize, метод
 
@@ -44,7 +44,7 @@ LONG GetSize();
 
 Возвращает размер буфера в байтах.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ LONG GetSize();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

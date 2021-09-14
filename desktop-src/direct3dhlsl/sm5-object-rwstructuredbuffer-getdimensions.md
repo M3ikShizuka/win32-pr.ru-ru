@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 760a546d7d60afbb41438416a9602ab55981834acd9969bc535c9a82df6e5e50
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0e3868f33e372472999c29bffdd8e12bc8ef09b7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118789930"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174711"
 ---
 # <a name="rwstructuredbuffergetdimensions-function"></a>Функция Рвструктуредбуффер:: Dimension
 
@@ -65,7 +65,7 @@ void GetDimensions(
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Службы вычислений |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 |        |      |        |          | x     | x       |
 

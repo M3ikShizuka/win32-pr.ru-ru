@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3d9types.h
-ms.openlocfilehash: a227d8aa23e7f070cebb1c73092bd0af170927eda582e417839375512e891df7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b2d834927d21c59ed5c70dcf3a001d100340405d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117879748"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172223"
 ---
 # <a name="d3dauthenticatedquery_unrestrictedprotectedsharedresourcecount"></a>D3DAUTHENTICATEDQUERY \_ унрестриктедпротектедшаредресаурцекаунт
 
@@ -36,11 +36,11 @@ ms.locfileid: "117879748"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Единственным типом канала, поддерживающим этот запрос, является **D3DAUTHENTICATEDCHANNEL \_ Driver \_ Software**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -52,7 +52,7 @@ ms.locfileid: "117879748"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

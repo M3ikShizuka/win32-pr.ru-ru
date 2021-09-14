@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Scrdenrl.dll
-ms.openlocfilehash: 7a1b5b443807dfe7fa737cdfc5eb4da678845e53b555ffe6eebf1529583fdb35
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 363f2f9120d3b0a202335d0e8e450464cbc1f118
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119005232"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170984"
 ---
 # <a name="iscrdenrcspname-property"></a>Свойство Искрденр:: CSPName
 
@@ -54,7 +54,7 @@ HRESULT get_CSPName(
 
 Если метод завершается с ошибкой, возвращается значение **HRESULT** , указывающее на ошибку. Список распространенных кодов ошибок см. в разделе [Общие значения HRESULT](common-hresult-values.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Задайте это свойство, чтобы указать имя CSP, используемого для управления регистрацией смарт-карты. Получите это свойство, чтобы получить имя указанного CSP. Если значение для этого свойства не указано, свойство **CSPName** по умолчанию имеет имя, указанное в списке доступных CSP.
 

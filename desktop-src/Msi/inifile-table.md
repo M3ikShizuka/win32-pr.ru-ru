@@ -4,12 +4,12 @@ ms.assetid: fdb1a627-da6b-4da1-87a7-7f1c94d3836e
 title: Таблица Инифиле
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e4cd12c02fa0123ac9e1a763b4e725681e6c6b1d51a331a1efea9916b5ac4cbd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0d63ae37f7c8ed5c50b9b425b0462b445f7acb5b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118946571"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171820"
 ---
 # <a name="inifile-table"></a>Таблица Инифиле
 
@@ -21,14 +21,14 @@ ms.locfileid: "118946571"
 
 | Столбец      | Type                         | Ключ | Допускает значения NULL |
 |-------------|------------------------------|-----|----------|
-| инифиле     | [Идентификатор](identifier.md) | Д   | Нет        |
+| инифиле     | [Идентификатор](identifier.md) | Да   | Нет        |
 | FileName    | [FileName](text.md)         | Нет   | Нет        |
-| дирпроперти | [Идентификатор](identifier.md) | Нет   | Д        |
+| дирпроперти | [Идентификатор](identifier.md) | Нет   | Да        |
 | Section     | [Формате](formatted.md)   | Нет   | Нет        |
 | Ключ         | [Формате](formatted.md)   | Нет   | Нет        |
 | Значение       | [Формате](formatted.md)   | Нет   | Нет        |
 | Действие      | [Integer](integer.md)       | Нет   | Нет        |
-| Компонент\_ | [Идентификатор](identifier.md) | Нет   | Нет        |
+| См\_ | [Идентификатор](identifier.md) | Нет   | Нет        |
 
 
 
@@ -106,7 +106,7 @@ ms.locfileid: "118946571"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сведения о файле .ini записываются, когда соответствующий компонент был выбран для установки в качестве локального или запуска из источника.
 

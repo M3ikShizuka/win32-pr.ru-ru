@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c81ddcd8123f28317726f412255f440d47f53310aa035ab34d25190658550163
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 866f51df0083c4cd72c3f34bb3ce045e0f577a24
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120089274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173947"
 ---
 # <a name="cb_getcuebanner-message"></a>\_Сообщение ЖЕТКУЕБАННЕР CB
 
@@ -49,7 +49,7 @@ ms.locfileid: "120089274"
 
 Если текст объявления подсказки отсутствует, возвращается значение 0. Если вызывающему приложению не удается выделить буфер или задать параметр *lParam* перед отправкой этого сообщения, может возникнуть неопределенное поведение, и возвращаемое значение может быть ненадежным.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ ms.locfileid: "120089274"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

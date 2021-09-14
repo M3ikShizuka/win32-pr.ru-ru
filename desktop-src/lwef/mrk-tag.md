@@ -4,12 +4,12 @@ description: Тег МРК
 ms.assetid: 1bc04853-f919-4f6f-90c2-21ac836bb1e4
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: eb91ed828073ca059a291350fdd7d8f5c3056cd9bfa04b61976b9d71386441e8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 805a66b9ce5863bda7b7b95317bcab9cf1d80f32
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118475894"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168263"
 ---
 # <a name="mrk-tag"></a>Тег МРК
 

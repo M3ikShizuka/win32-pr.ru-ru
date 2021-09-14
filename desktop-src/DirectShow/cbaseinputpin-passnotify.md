@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 760ec066a9d4876dd6ef754783c41ae12765db10c1595d08aef0a73258de087f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 36316815ae1d9fde1a18fb36029da92ae6263f20
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119017002"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254494"
 ---
 # <a name="cbaseinputpinpassnotify-method"></a>Кбасеинпутпин. Пасснотифи, метод
 
@@ -71,7 +71,7 @@ HRESULT PassNotify(
 -   Внешний диспетчер контроля качества, если был вызван метод [**икуалитиконтрол:: сетсинк**](/windows/desktop/api/Strmif/nf-strmif-iqualitycontrol-setsink) .
 -   Закрепление вышестоящего выходного потока.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -82,7 +82,7 @@ HRESULT PassNotify(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

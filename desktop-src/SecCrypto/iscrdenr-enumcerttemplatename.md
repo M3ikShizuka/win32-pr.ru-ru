@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Scrdenrl.dll
-ms.openlocfilehash: aab979e77e9e3e61b9d35125accbdf01934764d5a09daf161480646cdec28e3c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a0a4850143cac48ef9b9b853f99153d4daeb4366
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119005202"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170980"
 ---
 # <a name="iscrdenrenumcerttemplatename-method"></a>Метод Искрденр:: Енумцерттемплатенаме
 

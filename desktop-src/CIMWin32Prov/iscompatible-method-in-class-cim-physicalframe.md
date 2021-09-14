@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 283be65511fb82c29dd21ff17cfd864739232ef081b738e0622f2b89a96d47ed
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 121405e66a9361e832f6accb24ca6e303bb8e280
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120064482"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174508"
 ---
 # <a name="iscompatible-method-of-the-cim_physicalframe-class"></a>Метод, совместимый с \_ классом CIM фисикалфраме
 
@@ -64,7 +64,7 @@ uint32 IsCompatible(
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,7 +78,7 @@ uint32 IsCompatible(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

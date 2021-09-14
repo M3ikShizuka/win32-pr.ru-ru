@@ -4,12 +4,12 @@ description: Чтобы создать элемент управления пр�
 ms.assetid: FEC3BF62-3085-47D4-B82E-7BD7B34B397D
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5c217ed9d1ea29d1c563ee1bc4246b43528182383b6f8d1dd78dd4f73a220e9f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 136ec22cc4f3f88e57266a4c2ac88df542a39429
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119920664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254557"
 ---
 # <a name="how-to-create-a-tree-view-control"></a>Создание элемента управления Tree-View
 
@@ -26,7 +26,7 @@ ms.locfileid: "119920664"
 -   C/C++
 -   Windows Программирование пользовательского интерфейса
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="create-an-instance-of-a-tree-view-control"></a>Создание экземпляра элемента управления Tree-View
 

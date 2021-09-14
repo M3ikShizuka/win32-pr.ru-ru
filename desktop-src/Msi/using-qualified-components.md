@@ -4,12 +4,12 @@ ms.assetid: 45a05ab2-d951-415d-bdb8-cb0a73eb9967
 title: Использование полных компонентов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 46c92d165bc06640efea4b8678eeaefa5eb04c36f1b47b6c965faeea00c66adb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d11233a91e8883d1a4151957d3e73d18ebdcff25
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118622950"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254017"
 ---
 # <a name="using-qualified-components"></a>Использование полных компонентов
 
@@ -32,7 +32,7 @@ ms.locfileid: "118622950"
 
 
 
-| ComponentId                  | Квалификатор | AppData             | Компонент\_   | Компонент\_    |
+| ComponentId                  | Квалификатор | AppData             | Компонент\_   | См\_    |
 |------------------------------|-----------|---------------------|-------------|----------------|
 | {GUID категории шаблона ФАКСа} | 1033      | Шаблон для английского языка (США) | факстемплате | факстемплатину |
 |                              | 1041      | Японский шаблон   | факстемплате | факстемплатежпн |

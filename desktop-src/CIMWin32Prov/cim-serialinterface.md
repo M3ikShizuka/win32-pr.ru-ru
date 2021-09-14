@@ -24,12 +24,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 6c6b704c8af9e6907150ed4d09caacaafb0229902005fdbc63453dc315a3401a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1df787ff64798f412035a72e6db6d7b01b4b9b0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119919834"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172028"
 ---
 # <a name="cim_serialinterface-class"></a>\_Класс CIM сериалинтерфаце
 
@@ -61,7 +61,7 @@ class CIM_SerialInterface : CIM_ControlledBy
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ сериалинтерфаце** имеет следующие типы членов:
 
@@ -331,7 +331,7 @@ class CIM_SerialInterface : CIM_ControlledBy
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **CIM \_ сериалинтерфаце** является производным от [**CIM \_ контролледби**](cim-controlledby.md).
 
@@ -339,7 +339,7 @@ class CIM_SerialInterface : CIM_ControlledBy
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -353,7 +353,7 @@ class CIM_SerialInterface : CIM_ControlledBy
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

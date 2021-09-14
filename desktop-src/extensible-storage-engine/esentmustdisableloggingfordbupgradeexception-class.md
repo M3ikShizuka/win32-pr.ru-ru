@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 246bc2ca97dc70bbe4a9a44f3a1da8fd1f73963a97499033641d36933e121aa2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5c176dfbd9165f28225c4223ea3e47fdc24bb22c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119971524"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172460"
 ---
 # <a name="esentmustdisableloggingfordbupgradeexception-class"></a>Класс Есентмустдисаблелоггингфордбупградиксцептион
 
@@ -68,9 +68,9 @@ public sealed class EsentMustDisableLoggingForDbUpgradeException : EsentObsolete
 
 Любые общедоступные статичные (общие в Visual Basic) члены этого типа являются потокобезопасными. Потокобезопасная работа с членами экземпляров типа не гарантируется.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Элементы Есентмустдисаблелоггингфордбупградиксцептион](./esentmustdisableloggingfordbupgradeexception-members.md)
 

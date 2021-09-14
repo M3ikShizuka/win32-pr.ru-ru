@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 79ff96f30a13705028a18199780da69948633c0c3381d87896f1c7137ae06041
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ec67cf68109d32d6e1ad714f91a97987f9a3734d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120085774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173896"
 ---
 # <a name="cbn_closeup-notification-code"></a>\_Код уведомления КБН крупный план
 
@@ -61,7 +61,7 @@ CBN_CLOSEUP
 
 Этот код уведомления не отправляется в поле со списком, имеющее [**\_ простой стиль CBS**](combo-box-styles.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -73,7 +73,7 @@ CBN_CLOSEUP
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

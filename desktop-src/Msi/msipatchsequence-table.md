@@ -4,12 +4,12 @@ ms.assetid: ae8319ad-8136-4201-9fcf-ea58ce05f88b
 title: Таблица Мсипатчсекуенце
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cc529c0f7d1a4cdd1bab568f64507922d6e28f539636600f88dea603c4fe1a52
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a1e63252b98156a5eac1ebdc5ed5d94c7a42ec93
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119519804"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169764"
 ---
 # <a name="msipatchsequence-table"></a>Таблица Мсипатчсекуенце
 
@@ -21,10 +21,10 @@ ms.locfileid: "119519804"
 
 | Столбец      | Type                         | Ключ | Допускает значения NULL |
 |-------------|------------------------------|-----|----------|
-| патчфамили | [Идентификатор](identifier.md) | Д   | Нет        |
+| патчфамили | [Идентификатор](identifier.md) | Да   | Нет        |
 | ProductCode | [GUID](guid.md)             | Да   | Да        |
-| Последовательность    | [Version](version.md)       | Нет   | Нет        |
-| Атрибуты  | [Integer](integer.md)       | Нет   | Д        |
+| Последовательность    | [Версия](version.md)       | Нет   | Нет        |
+| Атрибуты  | [Integer](integer.md)       | Нет   | Да        |
 
 
 

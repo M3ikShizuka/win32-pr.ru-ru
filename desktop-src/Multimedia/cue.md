@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: a6398d4773b6c92332e8a95996e4d81941a073fe
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369830"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173667"
 ---
 # <a name="cue-command"></a>Команда подсказки
 
@@ -125,7 +125,7 @@ cue mysound input
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

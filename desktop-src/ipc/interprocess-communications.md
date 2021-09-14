@@ -4,12 +4,12 @@ ms.assetid: ad3fb0d9-d0ab-479e-b9a6-22a463b6728c
 title: Обмен данными между процессами
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5632443187ba9e50ed6c7f1adb31e8a02a280735c99dd8ee5455d2f067ef263e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5ca9789da756ae5449e77237c1140386a6f5cfd9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118756323"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172324"
 ---
 # <a name="interprocess-communications"></a>Обмен данными между процессами
 

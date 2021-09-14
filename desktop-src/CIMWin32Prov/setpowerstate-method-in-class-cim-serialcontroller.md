@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 88e94d103cb5be4156d64091c4a51865b740b82586a759f4e8abeaa5423cd8ec
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 96d13c3818e09f97f95c103087c9cf26a8c3dca7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119700344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174440"
 ---
 # <a name="setpowerstate-method-of-the-cim_serialcontroller-class"></a>Метод SetPowerState \_ класса CIM сериалконтроллер
 
@@ -112,7 +112,7 @@ uint32 SetPowerState(
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -126,7 +126,7 @@ uint32 SetPowerState(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

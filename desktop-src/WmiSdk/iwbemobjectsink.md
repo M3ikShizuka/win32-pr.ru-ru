@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Fastprox.dll
-ms.openlocfilehash: 6bfce21edca92c95276f382d16007f8b319b9f3b80fc5c3c721f7232ea0b4618
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 980865605eadfd5e4cb61a511317dec7838b8e47
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119996544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172571"
 ---
 # <a name="iwbemobjectsink-interface"></a>Интерфейс Ивбемобжектсинк
 
@@ -60,7 +60,7 @@ ms.locfileid: "119996544"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При реализации приемника подписки на события (**ивбемобжектсинк** или [**ивбемевентсинк**](iwbemeventsink.md)) не следует вызывать WMI из методов [**указания**](/windows/desktop/api/Wbemcli/nf-wbemcli-iwbemobjectsink-indicate) или [**SetStatus**](/windows/desktop/api/Wbemcli/nf-wbemcli-iwbemobjectsink-setstatus) объекта приемника. Например, вызов [**IWbemServices:: канцеласинккалл**](/windows/desktop/api/WbemCli/nf-wbemcli-iwbemservices-cancelasynccall) для отмены приемника из реализации [**индикации**](/windows/desktop/api/Wbemcli/nf-wbemcli-iwbemobjectsink-indicate) может повлиять на состояние WMI. Чтобы отменить подписку на события, установите флаг и вызовите **IWbemServices:: канцеласинккалл** из другого потока или объекта. Для реализаций, которые не связаны с приемником событий, например объектом, перечислением и получением запросов, можно выполнить обратный вызов к инструментарию WMI.
 
@@ -160,7 +160,7 @@ HRESULT QuerySink::SetStatus(
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -174,7 +174,7 @@ HRESULT QuerySink::SetStatus(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

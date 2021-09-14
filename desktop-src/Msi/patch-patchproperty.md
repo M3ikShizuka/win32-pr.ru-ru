@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Msi.dll
 ms.openlocfilehash: 2ffabcfbfd7e8e97bef97e4e04fbe95fc720eea1
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105652022"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173720"
 ---
 # <a name="patchpatchproperty-method"></a>Метод PATCH. Патчпроперти
 
@@ -66,7 +66,7 @@ Patch.PatchProperty(
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот метод может возвращать ошибку \_ неизвестное \_ исправление, если объект [**Patch**](patch-object.md) инициализируется пустой строкой для *ProductCode*.
 
@@ -76,7 +76,7 @@ Patch.PatchProperty(
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/> | Установщик Windows 5,0 в Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Установщик Windows 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Установщик Windows 3,0 или более поздней версии в Windows Server 2003, Windows XP и Windows 2000<br/> |
+| Версия<br/> | Windows установщик 5,0 на Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Windows установщик 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Windows установщик 3,0 или более поздней версии на Windows Server 2003, Windows XP и Windows 2000<br/> |
 | DLL<br/>     | <dl> <dt>Msi.dll</dt> </dl>                                                                                                                                                                                                   |
 | IID<br/>     | IID \_ ипатч определен как 000C10A1-0000-0000-C000-000000000046<br/>                                                                                                                                                                                                            |
 
@@ -95,7 +95,7 @@ Patch.PatchProperty(
 [**мсижетпатчинфоекс**](/windows/desktop/api/Msi/nf-msi-msigetpatchinfoexa)
 </dt> <dt>
 
-[Не поддерживается в установщик Windows 2,0 и более ранних версиях](not-supported-in-windows-installer-version-2-0.md)
+[не поддерживается в установщик Windows 2,0 и более ранних версиях](not-supported-in-windows-installer-version-2-0.md)
 </dt> </dl>
 
  

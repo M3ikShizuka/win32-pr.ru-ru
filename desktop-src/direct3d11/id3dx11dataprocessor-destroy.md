@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0a0968ff090f01a27cb18d3fff0e6dbd499c05c95cd558a2eba805dd91a153c7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: af92f8b3a22ba9a62258e8b24589a662eda22592
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119632934"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172511"
 ---
 # <a name="id3dx11dataprocessordestroy-method"></a>ID3DX11DataProcessor: метод:D естрой
 
@@ -52,7 +52,7 @@ HRESULT Destroy();
 
 Возвращаемое значение является одним из значений, перечисленных в [кодах возврата Direct3D 11](d3d11-graphics-reference-returnvalues.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод используется [**интерфейсом ID3DX11ThreadPump**](id3dx11threadpump.md).
 

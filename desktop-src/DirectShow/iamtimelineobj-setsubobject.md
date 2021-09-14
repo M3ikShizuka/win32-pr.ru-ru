@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: c3eecf184519c079a3f0d3c4fbdb8202881e8b15ba4c687bca57126cceeb1a36
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4b93d95f2381f4f894cbda1edbff5d9262b7be93
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119915124"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254395"
 ---
 # <a name="iamtimelineobjsetsubobject-method"></a>Метод Иамтимелинеобж:: Сетсубобжект
 
@@ -68,7 +68,7 @@ HRESULT SetSubObject(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -79,7 +79,7 @@ HRESULT SetSubObject(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

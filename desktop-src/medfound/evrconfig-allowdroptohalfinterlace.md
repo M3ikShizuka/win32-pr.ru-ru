@@ -4,12 +4,12 @@ ms.assetid: de7efc6a-19ae-4f3a-8675-38fda3c979e2
 title: Атрибут EVRConfig_AllowDropToHalfInterlace (UUIDs. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5cfae2bf47e71d1c6cb7dbed60069a79f56cee3249c362acf6c0efc99dc06f55
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7c9989fe833ea763166ba870c331add5c18bcb45
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119828154"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172211"
 ---
 # <a name="evrconfig_allowdroptohalfinterlace-attribute"></a>Еврконфиг \_ алловдроптохалфинтерлаце, атрибут
 
@@ -25,7 +25,7 @@ ms.locfileid: "119828154"
 
 Чтобы задать этот атрибут, вызовите [**имфаттрибутес:: SetUINT32**](/windows/desktop/api/mfobjects/nf-mfobjects-imfattributes-setuint32).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут можно задать в приемнике носителей Евр. Чтобы задать атрибут, используйте **QueryInterface** , чтобы запросить приемник мультимедиа Евр для интерфейса [**имфаттрибутес**](/windows/desktop/api/mfobjects/nn-mfobjects-imfattributes) .
 
@@ -33,7 +33,7 @@ ms.locfileid: "119828154"
 
 Константа GUID для этого атрибута экспортируется из стрмиидс. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -45,7 +45,7 @@ ms.locfileid: "119828154"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

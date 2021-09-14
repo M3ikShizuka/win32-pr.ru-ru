@@ -7,12 +7,12 @@ MSHAttr:
 title: Роамаппликабилити (v4)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d81607e57c41b4618f4aab8eaf7c8656a47acc4b
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.openlocfilehash: 0e38bff2d9ec50c78c3d2e2497b732719eff61a0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122476090"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172247"
 ---
 # <a name="span-idwwan_profile_v4element_1_roamapplicabilityspanmodemdmconfigprofileroamapplicability-v4"></a><span id="WWAN_profile_v4.element_1_RoamApplicability"></span>Модемдмконфигпрофиле \/ роамаппликабилити (v4)
 
@@ -60,7 +60,9 @@ ms.locfileid: "122476090"
 ## <a name="requirements"></a>Требования
 
 
-| | | <p>Пространство имен</p> | <p>https://www.microsoft.com/networking/WWAN/profile/v4</p> | 
+| Требование | Значение |
+|------------|----------|
+| <p>Пространство имен</p> | <p>https://www.microsoft.com/networking/WWAN/profile/v4</p> | 
 
 
  

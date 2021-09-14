@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: a853bd8a1159d2e02ffe1c8d81d0100ee9977da78ef3eafc40f3124648e740d6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 0582f8fd034dd576a4caebf040f29125cb7f4f6c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119913214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173723"
 ---
 # <a name="patchpatchcode-property"></a>Свойство patch. Патчкоде
 
@@ -37,7 +37,7 @@ propVal = Patch.PatchCode
 
 ## <a name="property-value"></a>Значение свойства
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -49,11 +49,11 @@ propVal = Patch.PatchCode
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
-[**Обновление**](patch-object.md)
+[**Защиты**](patch-object.md)
 </dt> <dt>
 
 [не поддерживается в установщик Windows 2,0 и более ранних версиях](not-supported-in-windows-installer-version-2-0.md)

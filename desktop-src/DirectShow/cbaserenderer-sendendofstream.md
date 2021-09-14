@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 344783d8e8aac755d157f125b02827c9f362ca96271dccb84134f451b31d1bc3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f04e4c8c90796aafb64870a9d59d38b0a33e7435
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118954823"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254458"
 ---
 # <a name="cbaserenderersendendofstream-method"></a>Кбасерендерер. Сендендофстреам, метод
 

@@ -10,12 +10,12 @@ keywords:
 - сценарии, мастера публикации
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 075e5a18b2150e504b6424fae2591ed83fdf707a6a20231b8f1186ddb6f3a67b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 20b3b218bbca297be446016335d90fe717a88bba
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119555814"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168224"
 ---
 # <a name="server-side-design"></a>Разработка Server-Side
 
@@ -65,10 +65,10 @@ ms.locfileid: "119555814"
 -   [**сетвизардбуттонс**](/windows/desktop/shell/iwebwizardhost-setwizardbuttons)
 -   [**пасспортаусентикате**](/windows/desktop/shell/inewwdevents-passportauthenticate)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 -   [**Caption**](/previous-versions/windows/desktop/legacy/bb774352(v=vs.85))
--   [**Свойство**](/windows/desktop/shell/iwebwizardhost-property)
+-   [**Свойство.**](/windows/desktop/shell/iwebwizardhost-property)
 
 В следующем примере кода показан код на стороне сервера для простой страницы мастера, которая реализует страницу ошибки веб-службы.
 

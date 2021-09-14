@@ -5,11 +5,11 @@ title: Фильтр видеодекодера MPEG-1
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: e5dc10284b7f0c75ce408c39dbcea642e9423d76
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122982167"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254380"
 ---
 # <a name="mpeg-1-video-decoder-filter"></a>Фильтр видеодекодера MPEG-1
 
@@ -18,7 +18,7 @@ ms.locfileid: "122982167"
 
 
 
-| Метка | Применение |
+| Метка | Значение |
 |--------|-------|
 | Интерфейсы фильтра | <a href="/windows/desktop/api/Strmif/nn-strmif-ibasefilter"><strong>Ибасефилтер</strong></a>, <strong>испеЦифипропертипажес</strong> | 
 | Типы носителей входных закрепления | MEDIATYPE_Video, FORMAT_MPEGVideo<br /> Допустимы следующие подтипы:<br /><ul><li><strong>MEDIASUBTYPE_MPEG1Packet</strong></li><li><strong>MEDIASUBTYPE_MPEG1Payload</strong></li></ul> | 
@@ -36,7 +36,7 @@ ms.locfileid: "122982167"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот фильтр может декодировать в поверхность DirectDraw. Фильтр использует технологию MMX, если компьютер поддерживает технологию MMX.
 

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: ae7de8c0a830000b3100e84cacbf088fefb592ddaa912a7737a35ea009a3cfe1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 31d7bceac706715099778cf84af2c3b2ec323880
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118942304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173704"
 ---
 # <a name="patchsourcelistclearall-method"></a>Метод PATCH. Саурцелистклеаралл
 
@@ -50,7 +50,7 @@ Patch.SourceListClearAll(
 
 Этот метод не возвращает значение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -62,11 +62,11 @@ Patch.SourceListClearAll(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
-[**Обновление**](patch-object.md)
+[**Защиты**](patch-object.md)
 </dt> <dt>
 
 [**мсисаурцелистклеараллекс**](/windows/desktop/api/Msi/nf-msi-msisourcelistclearallexa)

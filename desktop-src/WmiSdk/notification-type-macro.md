@@ -6,11 +6,11 @@ title: Макрос типа уведомления
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: ab2ff7695d7ca36eeaf01115d47df496d52d68ff
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105647219"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172555"
 ---
 # <a name="notification-type-macro"></a>Макрос типа уведомления
 

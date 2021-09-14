@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 88651dc7c9f048929eecfcde33127ecb38197580cc17e458a86f8c28c6ab6065
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ab10f7c31184c44fabdffd4f611847e550b62cc7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120088994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174147"
 ---
 # <a name="dl_canceldrag-notification-code"></a>\_Код уведомления канцелдраг списка рассылки
 
@@ -53,7 +53,7 @@ DL_CANCELDRAG
 
 Обрабатывая \_ код уведомления канцелдраг списка рассылки, приложение может сбросить свое внутреннее состояние, чтобы указать, что перетаскивание не действует.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4ce6227df0031c01b15892daa14eea9cc8d25bd2c7eede68af275063d7201505
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: bd7052ef4feca8a8704258c7c34d6516c7cd6cd4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120089294"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173960"
 ---
 # <a name="cb_getcomboboxinfo-message"></a>\_Сообщение ЖЕТКОМБОБОКСИНФО CB
 
@@ -53,7 +53,7 @@ ms.locfileid: "120089294"
 
 Это сообщение эквивалентно [**жеткомбобоксинфо**](/windows/desktop/api/Winuser/nf-winuser-getcomboboxinfo).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -65,7 +65,7 @@ ms.locfileid: "120089294"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

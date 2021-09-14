@@ -18,12 +18,12 @@ api_location:
 - Ext-MS-Win-printer-Winspool-l1-1-1.dll
 - Ext-MS-Win-Printer-WinSpool-l1-1-2.dll
 - Ext-MS-Win-Printer-WinSpool-L1-1-3.dll
-ms.openlocfilehash: ea85726220f94baeee02298246caffc70de4e688984ccd6fac3a4ac87ae11d52
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bd21268b86a07357065d4f33b60d1af4b05fa019
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119720124"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168115"
 ---
 # <a name="closeprinter-function"></a>Функция Клосепринтер
 
@@ -70,7 +70,7 @@ BOOL ClosePrinter(
 
 Пример программы, использующей эту функцию, см. в разделе [инструкции. печать с помощью API печати GDI](how-to--print-using-the-gdi-print-api.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -84,7 +84,7 @@ BOOL ClosePrinter(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

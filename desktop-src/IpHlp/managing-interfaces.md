@@ -4,12 +4,12 @@ ms.assetid: 598bbe67-30df-4c02-8f30-2ccf15b5c494
 title: Управление интерфейсами
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7bb46ecba6f1c5780960f6d8e363db9ec04d0cc3611da1caf023ec95bf5a99a6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 024d79d46ec1ba7606cbc7e79b4312432984239a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119146697"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171855"
 ---
 # <a name="managing-interfaces"></a>Управление интерфейсами
 

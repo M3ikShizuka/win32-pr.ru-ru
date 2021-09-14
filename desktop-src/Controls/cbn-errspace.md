@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ba62469480ec4aee97670ec4346a97ba2db91ae6e57b54e0fb766f3e78dd9591
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d74e46e4435a03a0233ce6591d3c36cefb4d880a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119699064"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173884"
 ---
 # <a name="cbn_errspace-notification-code"></a>\_Код уведомления КБН еррспаце
 
@@ -53,7 +53,7 @@ CBN_ERRSPACE
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -65,7 +65,7 @@ CBN_ERRSPACE
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

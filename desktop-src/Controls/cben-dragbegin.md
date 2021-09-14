@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 626ad4d6abbcaaeb6f647aa94657ee1a681801a3ce13a9b5539216b1b67565a4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 910e6ac494b49f685a55e77b432e96b4fb22bd29
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118414064"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173923"
 ---
 # <a name="cben_dragbegin-notification-code"></a>\_Код уведомления кбен драгбегин
 
@@ -63,7 +63,7 @@ CBEN_DRAGBEGIN
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 | Имя в кодировке Юникод и ANSI<br/>   | **Кбен \_ ДРАГБЕГИНВ** (Юникод) и **кбен \_ драгбегина** (ANSI)<br/>             |
 
 

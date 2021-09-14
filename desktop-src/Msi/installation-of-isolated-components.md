@@ -4,12 +4,12 @@ ms.assetid: fbc5dd86-5d38-4ce8-ab38-03c84cc77e80
 title: Установка изолированных компонентов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 82f842f626775dce436abedace96549fd55079c577885aad81492df861cd1a68
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f3c1b9a7e21c212474701409e887d0afd5517774
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118634129"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171779"
 ---
 # <a name="installation-of-isolated-components"></a>Установка изолированных компонентов
 

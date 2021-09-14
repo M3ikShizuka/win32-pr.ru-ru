@@ -4,12 +4,12 @@ ms.assetid: 9fb368c9-a0d7-4c5f-9a38-7ef8f7283354
 title: 'Пример программы на C: Настройка и получение свойств хранилища сертификатов'
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 59d65eeb0ee667b1dbce5a1df6c9c73d1849ef2524ecc3d0674d6fa7a5225fdd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7337027c265376f9145ef7b68f359250223d20f1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119007532"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171063"
 ---
 # <a name="example-c-program-setting-and-getting-certificate-store-properties"></a>Пример программы на C: Настройка и получение свойств хранилища сертификатов
 

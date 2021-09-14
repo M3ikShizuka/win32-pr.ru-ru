@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: 69bca43f627c6912b5633ac72f5346881cf013c2
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103778317"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174723"
 ---
 # <a name="vertex-shader-instructions"></a>Инструкции шейдера вершин
 
@@ -26,18 +26,18 @@ ms.locfileid: "103778317"
 <!-- -->
 
 -   [Модификаторы регистра для шейдера вершин](dx9-graphics-reference-asm-vs-registers-modifiers.md)
--   [Ограничения вложенности управления потоком](dx9-graphics-reference-asm-vs-instructions-flow-control.md)
+-   [Flow Управление ограничениями вложенности](dx9-graphics-reference-asm-vs-instructions-flow-control.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Шейдеры вершин](dx9-graphics-reference-asm-vs.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

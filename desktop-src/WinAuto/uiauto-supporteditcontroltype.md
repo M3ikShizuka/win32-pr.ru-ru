@@ -22,11 +22,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: f5eea05d463f191483cb53f7cbfceef83058093f
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122476139"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172636"
 ---
 # <a name="edit-control-type"></a>Изменить тип элемента управления
 
@@ -100,11 +100,11 @@ ms.locfileid: "122476139"
 | [**Максимум**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_maximum)         | См. примечания.    | Это свойство должно быть самым большим значением, в которое может быть установлено содержимое элемента управления "поле ввода".                                                                                                                                                                                                                                                                                                                      |
 | [**SmallChange**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_smallchange) | См. примечания.    | Это свойство должно указывать количество десятичных разрядов, которое может быть в значении. Если элемент управления "поле ввода" принимает только целые числа, значение свойства **SmallChange** должно быть равно 1. Если элемент управления "поле ввода" принимает диапазон от 1,0 до 2,0, значение свойства **SmallChange** должно быть равно 0,1. Если элемент управления "поле ввода" принимает диапазон от 1,00 до 2,00, то значение свойства **SmallChange** должно быть равно 0,001.                   |
 | [**LargeChange**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_largechange) | **NULL**      | Это свойство не обязательно предоставлять в элементе управления "Поле ввода".                                                                                                                                                                                                                                                                                                                                                      |
-| [**Значений**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_value)             | См. примечания.    | Это свойство указывает числовое содержимое элемента управления "поле ввода". Если клиент автоматизации пользовательского интерфейса задается более точным значением в пределах диапазонов, указанных в свойствах [**Minimum**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_minimum) и [**Maximum**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_maximum) , свойство [**value**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_value) автоматически округляется до ближайшего допустимого значения. |
+| [**Значение**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_value)             | См. примечания.    | Это свойство указывает числовое содержимое элемента управления "поле ввода". Если клиент автоматизации пользовательского интерфейса задается более точным значением в пределах диапазонов, указанных в свойствах [**Minimum**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_minimum) и [**Maximum**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_maximum) , свойство [**value**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_value) автоматически округляется до ближайшего допустимого значения. |
 | [**ITextProvider**](/windows/desktop/api/UIAutomationCore/nn-uiautomationcore-itextprovider)                 | Обязательно      | Все элементы управления "поле ввода" должны поддерживать шаблон элемента управления [Text](uiauto-implementingtextandtextrange.md) , поскольку подробные сведения всегда должны быть доступны для клиентов вспомогательных технологий.                                                                                                                                                                                                                     |
 | [**IValueProvider**](/windows/desktop/api/UIAutomationCore/nn-uiautomationcore-ivalueprovider)               | Зависит       | Все элементы управления "поле ввода", которые принимают строку, должны предоставлять шаблон элемента управления [value](uiauto-implementingvalue.md) .                                                                                                                                                                                                                                                                                                        |
 | [**IsReadOnly**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ivalueprovider-get_isreadonly)        | См. примечания.    | Это свойство должно быть установлено, чтобы указать, может ли элемент управления иметь значение программно или может быть изменен пользователем.                                                                                                                                                                                                                                                                                |
-| [**Значений**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ivalueprovider-get_value)                  | См. примечания.    | Это свойство содержит текстовое содержимое элемента управления "поле ввода". Если свойство [**UIA \_ испассвордпропертид**](uiauto-automation-element-propids.md) имеет значение **true**, то запрос свойства [**value**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ivalueprovider-get_value) должен возвращать ошибку.                                                                                                                      |
+| [**Значение**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ivalueprovider-get_value)                  | См. примечания.    | Это свойство содержит текстовое содержимое элемента управления "поле ввода". Если свойство [**UIA \_ испассвордпропертид**](uiauto-automation-element-propids.md) имеет значение **true**, то запрос свойства [**value**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ivalueprovider-get_value) должен возвращать ошибку.                                                                                                                      |
 
 
 
@@ -149,7 +149,7 @@ ms.locfileid: "122476139"
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Общие сведения о типах элементов управления автоматизации пользовательского интерфейса](uiauto-controltypesoverview.md)

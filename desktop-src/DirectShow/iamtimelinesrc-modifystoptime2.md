@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: fa2ec7a019200f91c9fb2a894c978ce93896926024f55efb229c7e5fde6fbe85
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 42ca3c9c1f8fa47abc7a9c21a44458540007939f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118952813"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254383"
 ---
 # <a name="iamtimelinesrcmodifystoptime2-method"></a>Метод Иамтимелинесрк:: ModifyStopTime2
 

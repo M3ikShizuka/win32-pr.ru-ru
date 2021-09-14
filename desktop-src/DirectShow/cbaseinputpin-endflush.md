@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: fba4c82679ebe96827cd45c9045080fb354cdab25eb562523869e97d533c5f2a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 403ee5aa100309084090dc241724067f9dd3aa5c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120056354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173831"
 ---
 # <a name="cbaseinputpinendflush-method"></a>Кбасеинпутпин. Ендфлуш, метод
 
@@ -55,7 +55,7 @@ HRESULT EndFlush();
 3.  Вызовите метод базового класса.
 4.  Вызовите [**Ипин:: ендфлуш**](/windows/desktop/api/Strmif/nf-strmif-ipin-endflush) на нижестоящих входных контактах. Если ПИН-код еще не доставил никаких образцов мультимедиа, этот шаг можно пропустить. Если выходные контакты являются производными от класса [**кбасеаутпутпин**](cbaseoutputpin.md) , можно вызвать метод [**Кбасеаутпутпин::D еливерендфлуш**](cbaseoutputpin-deliverendflush.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -66,7 +66,7 @@ HRESULT EndFlush();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

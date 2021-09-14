@@ -3,7 +3,7 @@ title: Сообщение WM_HSCROLLCLIPBOARD (Winuser. h)
 description: Отправляется в окно просмотра владельцу буфера обмена.
 ms.assetid: 73558de6-a822-40f7-9eb2-47ea5afd4e6e
 keywords:
-- Обмен данными с сообщениями WM_HSCROLLCLIPBOARD
+- WM_HSCROLLCLIPBOARD Exchange данных сообщений
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: a34ee33709601b483258ae0aec4873c47fa69a00
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104492195"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174871"
 ---
 # <a name="wm_hscrollclipboard-message"></a>\_Сообщение ХСКРОЛЛКЛИПБОАРД WM
 
@@ -71,7 +71,7 @@ ms.locfileid: "104492195"
 
 Если приложение обрабатывает это сообщение, оно должно вернуть ноль.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Владелец буфера обмена может использовать функцию [**скроллвиндов**](https://msdn.microsoft.com/library/Cc410994(v=MSDN.10).aspx) для прокрутки изображения в окне средства просмотра буфера обмена и сделать недействительным соответствующий регион.
 
@@ -83,7 +83,7 @@ ms.locfileid: "104492195"
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                               |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                     |
-| Заголовок<br/>                   | <dl> <dt>Winuser. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 
@@ -100,7 +100,7 @@ ms.locfileid: "104492195"
 [**ловорд**](/previous-versions/windows/desktop/legacy/ms632659(v=vs.85))
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Буфер обмена](clipboard.md)

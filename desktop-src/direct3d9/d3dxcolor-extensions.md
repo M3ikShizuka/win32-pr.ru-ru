@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3dx9math.h
-ms.openlocfilehash: 7a07d697192d838298f76205aeb3010fda7bf6a08f58f39fe58893444f604231
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7f457332f371b2c452a465c5b831774488301c6f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120096294"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174812"
 ---
 # <a name="d3dxcolor-extensions"></a>Расширения D3DXCOLOR
 
@@ -89,7 +89,7 @@ public:
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -99,7 +99,7 @@ public:
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

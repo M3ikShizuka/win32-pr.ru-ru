@@ -15,11 +15,11 @@ api_location:
 - d3dx9.lib
 - d3dx9.dll
 ms.openlocfilehash: 9dc9bb79d1ebbe536661347d76d13846dead6aa8
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108115882"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174808"
 ---
 # <a name="d3dxcoloradjustcontrast-function-d3dx9mathh"></a>Функция D3DXColorAdjustContrast (D3dx9math. h)
 
@@ -98,12 +98,12 @@ pOut->r = 0.5f + c * (pC->r - 0.5f);
 
 | Требование | Значение |
 |--------------------|----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3dx9math. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3dx9math. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>   |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

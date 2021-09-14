@@ -11,12 +11,12 @@ api_name:
 - nameType
 api_type:
 - Schema
-ms.openlocfilehash: 9b07bfb62e23b0c82ef69bc924147675caad10d61258a5c49edc906c4b6bf2a8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d8c6032e17eaf2d067dc23030a7a6279bd41eafa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117881408"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168132"
 ---
 # <a name="nametype-simple-type-mobile-broadband"></a>простой тип Наметипе (мобильное широкополосное подключение)
 

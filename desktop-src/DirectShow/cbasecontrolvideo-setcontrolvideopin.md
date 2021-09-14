@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 6169b5d2ec71148cd868e340c5a2f4e206355044ce55e0905c20787ddb3a263e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a4cf47469800a4d1ecd8abe373d6f3c1fd53ece5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118660789"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172015"
 ---
 # <a name="cbasecontrolvideosetcontrolvideopin-method"></a>Кбасеконтролвидео. Сетконтролвидеопин, метод
 
@@ -53,11 +53,11 @@ void SetControlVideoPin(
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Интерфейс можно вызывать только после успешного подключения фильтра. Объект передается через этот метод в ПИН-код, с которым он синхронизирован; в большинстве случаев он определяет, подключен ли ПИН-код при вызове метода интерфейса, и при сбое возвращает VFW \_ E \_ Not \_ Connected.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

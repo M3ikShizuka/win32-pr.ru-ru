@@ -4,12 +4,12 @@ ms.assetid: c17b3b58-65ab-4e83-91f2-54a995f22ddf
 title: Фильтровать цепочки
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f4650c49dd796ff3aa7ddecbd21076a4e217def9bfb6504149fdb740c2810b48
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d22ee33f7bc24495bc5099d0abeca7b8c70bc6d4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119685493"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169979"
 ---
 # <a name="filter-chains"></a>Фильтровать цепочки
 

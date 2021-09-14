@@ -4,12 +4,12 @@ ms.assetid: efbf11f2-38ab-4509-aa01-23fa8cfdaa60
 title: Мсирестартманажерсессионкэй, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f48fe8d2ce4b287afc5c222acdc1f71eec393ff9a1ab1773a822e30405e6a317
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 489095e0af617c7ae403811f0eab800c5502e3bd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118944542"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169752"
 ---
 # <a name="msirestartmanagersessionkey-property"></a>Мсирестартманажерсессионкэй, свойство
 
@@ -19,7 +19,7 @@ ms.locfileid: "118944542"
 
 Установщик задает значение свойства **мсирестартманажерсессионкэй** при инициализации, а затем очищает значение во время действия [инсталлвалидате](installvalidate-action.md) . Пользовательские действия, которым требуется значение свойства **мсирестартманажерсессионкэй** , должны следовать перед действием инсталлвалидате в последовательности действий.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

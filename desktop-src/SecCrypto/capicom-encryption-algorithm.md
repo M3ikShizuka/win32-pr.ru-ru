@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Capicom.h
-ms.openlocfilehash: d0f66c1e8ec59819f4f01c5f46989e1f904930f3699f978b26c6ab7c5107154c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 19626ba560ead406005612db3ed90cabc61d98ee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119879344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127171179"
 ---
 # <a name="capicom_encryption_algorithm-enumeration"></a>\_ \_ Перечисление АЛГОРИТМа CAPICOM
 
@@ -38,11 +38,11 @@ ms.locfileid: "119879344"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Тип перечисления для **\_ \_ алгоритма CAPICOM-шифрования** используется свойством [**Algorithm.Name**](algorithm-name.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

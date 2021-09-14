@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: f9bc3b895f27490377fd5de188b7cea8ccd429c55d36a5cdd0fea4ce025bac29
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d4fab7e1a1f24c3d00f46018db9478990be71666
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119502604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173784"
 ---
 # <a name="cbasevideorendereronwaitstart-method"></a>Кбасевидеорендерер. Онваитстарт, метод
 
@@ -48,7 +48,7 @@ void OnWaitStart();
 
 Эта функция-член вызывается, когда начинается ожидание события отрисовки. Он используется только для измерения производительности.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ void OnWaitStart();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

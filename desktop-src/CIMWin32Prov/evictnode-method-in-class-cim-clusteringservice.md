@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: f5574548781f4ab5b7ecbc1ead08aba10ec0bfaf8c0740e2e429303732e90e88
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d68ddc1adc0af335dcf2d4139cf7c1f0a381d986
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120077654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174519"
 ---
 # <a name="evictnode-method-of-the-cim_clusteringservice-class"></a>Метод Евиктноде \_ класса CIM клустерингсервице
 
@@ -64,7 +64,7 @@ uint32 EvictNode(
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,7 +78,7 @@ uint32 EvictNode(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -13,11 +13,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 21a5b2c890e64e397887d89eb5d632b6c4b63689
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124371127"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127253960"
 ---
 # <a name="about-joysticks"></a>О джойстиках
 

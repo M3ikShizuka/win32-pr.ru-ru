@@ -4,12 +4,12 @@ ms.assetid: a3c1e7fb-5f97-41db-bdc8-bd3ddb695c42
 title: Таблица Мсипатчолдассемблифиле
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c4570b862773d2dc1d5b9c7458dbc1ccd8825ce77bf504d5e0fb2bf116d7a095
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c995e4f6d6622dd3d7d1c96c9ef1297a787b66d6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119559084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169787"
 ---
 # <a name="msipatcholdassemblyfile-table"></a>Таблица Мсипатчолдассемблифиле
 
@@ -21,8 +21,8 @@ ms.locfileid: "119559084"
 
 | Столбец     | Type                         | Ключ | Допускает значения NULL |
 |------------|------------------------------|-----|----------|
-| File\_     | [Идентификатор](identifier.md) | Д   | Нет        |
-| Сборка\_ | [Идентификатор](identifier.md) | Д   | Нет        |
+| File\_     | [Идентификатор](identifier.md) | Да   | Нет        |
+| Сборок\_ | [Идентификатор](identifier.md) | Да   | Нет        |
 
 
 

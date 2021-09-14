@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - WinSpool.drv
-ms.openlocfilehash: 90c5907f86f7586710e8a65e60874587491674f2dc4d73d0632279f8b1b3c119
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fa90cb1344e7c087a601a74991598e509daed226
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119950504"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168099"
 ---
 # <a name="commitspooldata-function"></a>Функция Коммитспулдата
 
@@ -76,7 +76,7 @@ HANDLE CommitSpoolData(
 
 Перед вызовом **коммитспулдата** приложения должны установить указатель файла на расположение, в котором оно было до того, как оно записало данные в файл. В процессе подготовки к просмотру данных в файле диспетчера очереди печати он переместит указатель файла очереди *кбкоммит* байт из текущего значения указателя файла.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -90,7 +90,7 @@ HANDLE CommitSpoolData(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

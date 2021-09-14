@@ -33,12 +33,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 7265b56be29666a01bacca5953fe70234ade82fad0029a1e3687e100b73a02f8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3cf0afb62eccfa289418e3ffeb22ea3a976ce7e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119920094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172063"
 ---
 # <a name="cim_scanner-class"></a>\_Класс сканера CIM
 
@@ -79,7 +79,7 @@ class CIM_Scanner : CIM_LogicalDevice
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **" \_ сканер CIM** " имеет следующие типы членов:
 
@@ -94,7 +94,7 @@ class CIM_Scanner : CIM_LogicalDevice
 
 | Метод                                                             | Описание                                                                                                                              |
 |:-------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
-| [**Перезапуск**](reset-method-in-class-cim-scanner.md)                 | Запрашивает сброс логического устройства. Не реализовано инструментарием WMI.<br/>                                                               |
+| [**Reset**](reset-method-in-class-cim-scanner.md)                 | Запрашивает сброс логического устройства. Не реализовано инструментарием WMI.<br/>                                                               |
 | [**SetPowerState**](setpowerstate-method-in-class-cim-scanner.md) | Определяет требуемое состояние электропитания для логического устройства, а также когда устройство должно быть переведено в это состояние. Не реализовано инструментарием WMI.<br/> |
 
 
@@ -819,7 +819,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1158,7 +1158,7 @@ Windows все еще настраивает устройство.
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **\_ сканера CIM** является производным от [**CIM- \_**](cim-logicaldevice.md)класса.
 

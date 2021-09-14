@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: d9184d5e8a0e0ad6c0242ec1dc4b7590f1bc0d39a0a9cd6a09b2676563a2796e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9f8010dcfe490363903ff455bedb61254b69b825
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120055474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170000"
 ---
 # <a name="cimagedisplayrefreshdisplaytype-method"></a>Цимажедисплай. Рефрешдисплайтипе, метод
 
@@ -59,7 +59,7 @@ HRESULT RefreshDisplayType(
 
 Этот метод следует вызывать каждый раз при \_ получении сообщения ДИСПЛАЙЧАНЖЕД WM или при указании дополнительного устройства вывода.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ HRESULT RefreshDisplayType(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

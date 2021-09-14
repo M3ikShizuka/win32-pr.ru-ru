@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 614a2f26349834c01f0a3e7587eae28c41e546a0585ef603af0265ea35c187d9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2f1e7cd3d8758107b9529114a75b3a90527937c6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120055614"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172019"
 ---
 # <a name="cgenericlistaddtail-method-wxlisth---pobj-parameter"></a>Кженериклист. AddTail, метод (Вкслист. h) — параметр Побж
 
@@ -53,14 +53,14 @@ POSITION AddTail(
 
 Возвращает значение позиции для новой позиции хвоста. Если метод завершается с ошибкой, возвращается **значение NULL**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |-|-|
 | Заголовок | вкслист. h (включает Потоки. h) |
 | Библиотека| Стрмбасе. lib (розничные сборки); Стрмбасд. lib (отладочные сборки) |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

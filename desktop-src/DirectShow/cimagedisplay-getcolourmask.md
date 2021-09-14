@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 018bdaf96e5b6508e13893290449d77041c453b3b28bb4c4d794cc5cc85fb945
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 499b3677cd68444b58514d692d87cd4f631350b6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118655945"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170027"
 ---
 # <a name="cimagedisplaygetcolourmask-method"></a>Цимажедисплай. Жетколаурмаск, метод
 

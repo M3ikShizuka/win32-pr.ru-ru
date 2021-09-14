@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 2b4956ad2b20040b0d22903d2ffaa2c7b460af9250fe057d106db545173d53a9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 727ab16604df5b908085208e1d127e5dffad92fc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118157501"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254455"
 ---
 # <a name="cbaserenderersendnotifywindow-method"></a>Кбасерендерер. Сенднотифивиндов, метод
 
@@ -67,7 +67,7 @@ void SendNotifyWindow(
 
 Модули подготовки видео могут переопределять методы [**кбасерендерер:: комплетеконнект**](cbaserenderer-completeconnect.md) для вызова этого метода. Он предоставляет механизм для формирования вышестоящего фильтра маркера окна. В этом случае Переопределите метод [**кбасерендерер:: бреакконнект**](cbaserenderer-breakconnect.md) и вызовите `SendNotifyWindow` его с помощью маркера **null** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,7 +78,7 @@ void SendNotifyWindow(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

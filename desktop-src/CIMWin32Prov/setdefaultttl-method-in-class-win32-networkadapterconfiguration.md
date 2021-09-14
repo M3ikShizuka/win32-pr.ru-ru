@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: a8433da88d2055f996b895d6234eb73369cbd431277b8cfd67b640bb3cc6c279
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 253048b44a836f92646124fb972fe32c135e3b9a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119759964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174476"
 ---
 # <a name="setdefaultttl-method-of-the-win32_networkadapterconfiguration-class"></a>Метод Сетдефаултттл \_ класса Win32 NetworkAdapterConfiguration
 
@@ -321,7 +321,7 @@ IPX не включен на адаптере.
 
 91
 
-Доступ запрещен.
+Access denied. (Недопустимое значение {значение_утверждения} для утверждения {имя_утверждения}. Доступ запрещен.)
 
 </dd> <dt>
 
