@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: b80e034f6b77f869207ecb785edbb935841eed2dba6bde73ad88c441dabf15cf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 237b38890283769e9aac20c9b3a3703ff4b72d3a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119055942"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967886"
 ---
 # <a name="leveltype-complex-type"></a>Сложный тип Левелтипе
 
@@ -62,11 +62,11 @@ ms.locfileid: "119055942"
 | message | [**стртаблереф**](eventmanifestschema-strtableref-simpletype.md) | Локализованное отображаемое имя для уровня. Строка сообщения ссылается на локализованную строку в разделе " [**STRINGTABLE**](eventmanifestschema-stringtable-resources-element.md) " манифеста. <br/>                                                                                                    |
 | name    | **QName**                                                         | Имя, присваиваемое этому уровню. Это имя должно быть уникальным в пределах области действия поставщика.<br/>                                                                                                                                                                                                            |
 | символ  | [**ксимболтипе**](eventmanifestschema-csymboltype-simpletype.md) | Символ, используемый для ссылки на уровень в приложении. [**Компилятор сообщений (MC.exe)**](message-compiler--mc-exe-.md) использует символ для создания константы для уровня в файле заголовка, создаваемого компилятором. Если не указать символ, компилятор создаст его.<br/> |
-| Значение   | [**UInt8Type**](eventmanifestschema-hexint8type-simpletype.md)   | Значение уровня. Можно указать значения в диапазоне от 16 до 255. Стандартные значения уровней см. в разделе Примечания.<br/>                                                                                                                                                                                               |
+| value   | [**UInt8Type**](eventmanifestschema-hexint8type-simpletype.md)   | Значение уровня. Можно указать значения в диапазоне от 16 до 255. Стандартные значения уровней см. в разделе Примечания.<br/>                                                                                                                                                                                               |
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Ниже приведены стандартные значения уровня, которые можно использовать. эти значения определяются в Winmeta.xml файле, включенном в Windows SDK.
 
@@ -86,7 +86,7 @@ ms.locfileid: "119055942"
 
 Более высокие значения предполагают, что вы получаете и более низкие уровни. Например, при указании Win: Warning вы получаете все предупреждения, ошибки и критические события.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

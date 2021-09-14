@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c6ea371b2e2593ccf9b16d555c60a150ddb6229a2fd884b894d7be41eb61830c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a9096e378a328f43147a0a94d97034c8e566b611
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119135727"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967681"
 ---
 # <a name="controlsplayitem-method"></a>Controls. Плайитем, метод
 
@@ -53,7 +53,7 @@ Controls.playItem(
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 элемент мультимедиа будет загружаться и воспроизводиться автоматически независимо от значения *Параметры*. свойство " **Автозапуск** ". чтобы загрузить элемент без автоматического воспроизведения, задайте *Параметры*. **Автозапуск** в значение false и назначение значения *проигрывателю*. **URL-адрес**, после которого можно вызвать **Воспроизведение** , чтобы начать воспроизведение элемента.
 

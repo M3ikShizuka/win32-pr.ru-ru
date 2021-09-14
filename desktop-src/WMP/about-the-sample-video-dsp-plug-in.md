@@ -15,12 +15,12 @@ keywords:
 - подключаемые модули DSP видео, примеры
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: dbb771bb87ffb53cf46022fc17ee2588e7cdac0b6b2c821f98fe6cf86799434c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ede2eda82c834cefad0e31009805f24941cd4a6e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119470254"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967777"
 ---
 # <a name="about-the-sample-video-dsp-plug-in"></a>О примере подключаемого модуля DSP видео
 

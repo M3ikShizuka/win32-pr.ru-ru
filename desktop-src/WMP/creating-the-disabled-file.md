@@ -3,18 +3,18 @@ title: Создание отключенного файла
 description: Создание отключенного файла
 ms.assetid: 22db4942-b1f1-46d1-b869-48c6854bfb30
 keywords:
-- Обложки Windows Media Player для мобильных устройств, отключенные файлы
+- проигрыватель Windows Media Обложки для мобильных устройств, отключенные файлы
 - обложки, отключенные файлы
 - Создание обложек, отключенных файлов
 - Отключенные файлы в обложках
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 2a2aab6a07e5d003a7e36a4da4a106a85d321f6c
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104067413"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967633"
 ---
 # <a name="creating-the-disabled-file"></a>Создание отключенного файла
 
@@ -26,16 +26,16 @@ ms.locfileid: "104067413"
 
 Обратите внимание, что такие файлы можно обрезать по правому и нижнему краям. Фактический размер точечного рисунка не важен, поэтому элементы выстроятся с помощью битовой карты региона для проверки нажатия, как измеряется в верхних левых углах (включая смещения).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [**Создание рисунка**](creating-the-art.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

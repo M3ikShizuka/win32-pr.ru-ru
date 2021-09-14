@@ -26,11 +26,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 4f3e0c060311205d1f5d47bc4678c6ff9458b589
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105674447"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126882928"
 ---
 # <a name="jet_lgposgreaterthan-operator"></a>JET_LGPOS. Оператор GreaterThan
 
@@ -81,7 +81,7 @@ public static bool operator >(
 Тип: [System. Boolean](/dotnet/api/system.boolean)  
 Значение true, если LHS поступает после RHS.  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 802cd4741f4ea30f378492075f69dfa21dfce54688fbc7ff9e72b957689d7c7d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2761567c724abf129ac881188bc468b228d7fd11
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117755645"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967941"
 ---
 # <a name="settimezoneredirection-method-of-the-win32_terminalservicesetting-class"></a>Метод Сеттимезонередиректион \_ класса Win32 терминалсервицесеттинг
 
@@ -76,7 +76,7 @@ uint32 SetTimeZoneRedirection(
 
 Возвращает значение 0 в случае успешного выполнения; в противном случае возвращает код ошибки WMI. Список этих значений см. в разделе [службы удаленных рабочих столов коды ошибок поставщика WMI](terminal-services-wmi-provider-error-codes.md) .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 По умолчанию часовой пояс для сеанса службы удаленных рабочих столов совпадает с часовым поясом для сервера узла сеансов удаленный рабочий стол. Клиентские компьютеры не могут перенаправить сведения о часовом поясе.
 

@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 64c0e7b16e5b90b928f59cbf7374377a9c0e6645ba0a38c30fb6b6b9a45277c9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 18440c3ed520d83b6c0029e73b3e1790e694e997
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119647064"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967346"
 ---
 # <a name="onkeypress"></a>OnKeyPress
 
@@ -28,11 +28,11 @@ ms.locfileid: "119647064"
 onkeypress
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот обработчик событий неприменим к элементу **списка воспроизведения** , элементу **Effects** или элементу **Video** при *видео*. **безоконное** значение — false.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -42,7 +42,7 @@ onkeypress
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

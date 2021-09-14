@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b5955a0f638f9d71557736c5c834978710e36f046ff9b66a9f38d4ddd6e2d171
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5bc502bc147c160dd8dd65cc1eb3c26bba0b1e1e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119135227"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967574"
 ---
 # <a name="location-attribute"></a>Атрибут Location
 
@@ -27,7 +27,7 @@ ms.locfileid: "119135227"
 
 -   [Элементы Радио](radio-item-attributes.md)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут хранится только в библиотеке.
 

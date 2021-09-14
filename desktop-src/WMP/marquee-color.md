@@ -10,12 +10,12 @@ keywords:
 - Справочник по цвету для обложек
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 57035f5087ccd35ed711e59d625bd76dafe50e699e72e834c62836ecd2639d84
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 23a748daef7988ad01edf736e8dddc7312962808
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118996334"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967534"
 ---
 # <a name="marquee-color"></a>Цвет бегущей строки
 

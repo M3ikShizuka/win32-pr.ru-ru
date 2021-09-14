@@ -9,12 +9,12 @@ keywords:
 - Навигация по типу 2 Интернет-магазинов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ff1b2cb120ac161fd92bf8d35826b9dc096c95c37d916f19eb2aeb7362aabe7e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1a8456954d5a7197a054098320b35fb38409ba62
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118574437"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967453"
 ---
 # <a name="navigating-to-other-online-stores"></a>Переход к другим Интернет-магазинам
 

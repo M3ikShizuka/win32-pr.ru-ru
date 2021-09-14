@@ -20,12 +20,12 @@ keywords:
 - имена входа
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 698385f2d5a618899bd4fe440db5a552859c7647ceb2ae11e02b773c96479d52
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 633042692ab9193f46ab83415df13237d3a279e8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119135177"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967550"
 ---
 # <a name="managing-login"></a>Управление именем входа
 

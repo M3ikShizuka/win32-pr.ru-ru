@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 66dc0ad047213e0fbba7dbdd7336e67b8d015e39aba510ac37bd3701462413ec
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 81658665cb6f31acd327f5050a733a2fc3c70371
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118997555"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967709"
 ---
 # <a name="controlscurrentitem"></a>Controls. currentItem
 
@@ -34,7 +34,7 @@ player.controls.currentItem
 
 Это свойство является объектом **мультимедиа** для чтения и записи.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод работает только с элементами в *проигрывателе*. **куррентплайлист**. Вызов **currentItem** со ссылкой на сохраненный элемент мультимедиа не поддерживается.
 
@@ -60,7 +60,7 @@ player.controls.currentItem
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -71,7 +71,7 @@ player.controls.currentItem
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

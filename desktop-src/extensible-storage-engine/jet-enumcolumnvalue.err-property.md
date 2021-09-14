@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: e87abbb77cb472048725f9ee0d797a565625cb0872aed6066ff9e5bfb7aaaf0c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f797d82ad09b75d961be24f2382b0895880427f4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120116134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126882973"
 ---
 # <a name="jet_enumcolumnvalueerr-property"></a>Свойство JET_ENUMCOLUMNVALUE. ERR
 
@@ -62,7 +62,7 @@ public JET_wrn err { get; internal set; }
 
 Тип: [Microsoft.ISAM.ESENT.Interop.JET_wrn](./jet-wrn-enumeration.md)  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

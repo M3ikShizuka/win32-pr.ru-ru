@@ -4,12 +4,12 @@ ms.assetid: a92bc4d2-257a-478a-b10d-4fada4323c9b
 title: Уровни трассировки Winsock
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0e1dbc746b90d77353d19b381c8eceed82eceec0d878b347bb3aa309a0df939b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b225558015fb823cd02028a1ae1433d3d0549896
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119733154"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967213"
 ---
 # <a name="winsock-tracing-levels"></a>Уровни трассировки Winsock
 
@@ -17,7 +17,7 @@ ms.locfileid: "119733154"
 
 В трассировке Winsock возможны два уровня ведения журнала:
 
--   Информация
+-   Сведения
 -   Подробный
 
 Информационный уровень отслеживает события создания и закрытия сокета, а также любые ошибки, возникающие на сокете.

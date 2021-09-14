@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ffc8d2707cd5fc24129363d53f9ee58fedf7b15c5da4eb5b80f032524ee66c09
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 605d7d08b346c5cc279176098b2a6d593a2fb925
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119901724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967418"
 ---
 # <a name="networkdownloadprogress"></a>Network. Довнлоадпрогресс
 
@@ -33,7 +33,7 @@ ms.locfileid: "119901724"
 
 Это свойство является **числом** только для чтения (**длинное целое**).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 когда элемент управления проигрыватель Windows Media подключается к файлу мультимедиа, который можно воспроизвести и скачать одновременно, свойство **довнлоадпрогресс** возвращает процент общего файла, который был скачан. В настоящее время эта функция поддерживается только на веб-серверах. Следующие форматы файлов можно скачать и воспроизвести одновременно:
 
@@ -81,7 +81,7 @@ function UpdateDP(){
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -92,7 +92,7 @@ function UpdateDP(){
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -21,12 +21,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 3a7627426a094d8c335032363b3213aeca19e400d5761d23ede8b7cecf0dcab5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9bf72c92a4ae23ac7750cdd52914e86f5dbcdd01
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118007264"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126892464"
 ---
 # <a name="win32_usbcontrollerdevice-class"></a>\_Класс Win32 усбконтроллердевице
 
@@ -50,7 +50,7 @@ class Win32_USBControllerDevice : CIM_ControlledBy
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ усбконтроллердевице** имеет следующие типы членов:
 
@@ -200,7 +200,7 @@ class Win32_USBControllerDevice : CIM_ControlledBy
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ усбконтроллердевице** является производным от [**CIM \_ контролледби**](cim-controlledby.md).
 

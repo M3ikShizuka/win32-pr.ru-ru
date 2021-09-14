@@ -4,12 +4,12 @@ ms.assetid: 96bacf00-d1ea-4ba7-adf4-9078568ac44b
 title: Структуры Winsock
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6fdd96d492b28bc0be2d8e4cbc24863af194c2b0c6c9faa30ef2858e9f970e66
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 627fed267944787dde754dce4690e350ec0bd9e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118321718"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967233"
 ---
 # <a name="winsock-structures"></a>Структуры Winsock
 

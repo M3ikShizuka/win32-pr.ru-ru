@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c0bcff91d41ce77003219336431433ee511ff144dfcb8be7880526994689a929
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c68c9c9a0bc47dcbea25158bb1f25db6cd084075
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119055662"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967817"
 ---
 # <a name="iwmdrmdevice2getpartialsynclist-method"></a>Метод IWMDRMDevice2:: Жетпартиалсинклист
 
@@ -116,7 +116,7 @@ HRESULT GetPartialSyncList(
 
 Расширенный список возможных кодов ошибок см. в разделе [коды ошибок](error-codes.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -127,7 +127,7 @@ HRESULT GetPartialSyncList(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: b2d76079422d2d09016d42752c742a5e6da761bed5cc69f4ca0be632212194ba
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0bc2c16b85924a1e4e4dc7d985eeec40214d82e3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118763986"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126882872"
 ---
 # <a name="jet_recposcentriestotal-property"></a>Свойство JET_RECPOS. Центриестотал
 
@@ -64,7 +64,7 @@ public long centriesTotal { get; set; }
 
 Тип: [System. Int64](/dotnet/api/system.int64)  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

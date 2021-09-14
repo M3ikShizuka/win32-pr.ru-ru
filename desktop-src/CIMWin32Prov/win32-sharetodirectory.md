@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: d041209dcdbd1d9a39d08acb75180ec9cf292f01934c21762418571d44a32460
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f02e5e1ce125a2c8495327a08c14c94ac9f48567
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119917544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126892477"
 ---
 # <a name="win32_sharetodirectory-class"></a>\_Класс Win32 шаретодиректори
 
@@ -40,7 +40,7 @@ class Win32_ShareToDirectory
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ шаретодиректори** имеет следующие типы членов:
 

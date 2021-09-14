@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 4f23cea94bfbc6e57807df26512423b530c826411aadd2cd8466b54230d9c23b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: faa89e7a4497500076bea8a31d7b803dff9a379e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118996134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967461"
 ---
 # <a name="mutebutton"></a>мутебуттон
 
@@ -32,11 +32,11 @@ down="wmpprop:player.settings.mute"
 sticky="true"
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При этом создается элемент управления **"Кнопка"** , который будет выгружать звук и без звука. Всплывающие подсказки локализованы. Все свойства этой **кнопки** можно переопределить, явно указав их.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -46,7 +46,7 @@ sticky="true"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

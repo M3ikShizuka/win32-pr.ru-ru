@@ -43,11 +43,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 7839e0223eb9dd773ca9a5d10b5210b10b0a944a
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104350415"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126882672"
 ---
 # <a name="jetrelop-enumeration"></a>Перечисление Жетрелоп
 
@@ -69,7 +69,7 @@ Dim instance As JetRelop
 public enum JetRelop
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <table>
 <thead>
@@ -129,7 +129,7 @@ public enum JetRelop
 </table>
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

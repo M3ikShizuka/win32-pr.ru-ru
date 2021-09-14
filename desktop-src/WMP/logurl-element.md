@@ -1,9 +1,9 @@
 ---
 title: ЛОГУРЛ, элемент
-description: Элемент ЛОГУРЛ указывает проигрывателю Windows Media отправлять любые данные журнала по указанному URL-адресу.
+description: элемент логурл указывает проигрыватель Windows Media отправить данные журнала по указанному URL-адресу.
 ms.assetid: fc1895af-c9d7-43ca-9839-7e884cc219f4
 keywords:
-- Проигрыватель Windows Media, элемент ЛОГУРЛ
+- проигрыватель Windows Media элемента логурл
 topic_type:
 - apiref
 api_name:
@@ -14,15 +14,15 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 0f5fc4a5259f009e7298c0609fc4e6fa8c533b94
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105704412"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967569"
 ---
 # <a name="logurl-element"></a>ЛОГУРЛ, элемент
 
-Элемент **логурл** указывает проигрывателю Windows Media отправлять любые данные журнала по указанному URL-адресу.
+элемент **логурл** указывает проигрыватель Windows Media отправить данные журнала по указанному URL-адресу.
 
 ``` syntax
 <LOGURL
@@ -110,7 +110,7 @@ https://www.proseware.com/some/arbitrary/path/My_WMS_Logging_Page.asp?PubPoint=F
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 70 или более поздней<br/> |
+| Версия<br/> | проигрыватель Windows Media версии 70 или более поздней<br/> |
 
 
 
@@ -118,10 +118,10 @@ https://www.proseware.com/some/arbitrary/path/My_WMS_Logging_Page.asp?PubPoint=F
 
 <dl> <dt>
 
-[**Справочник по элементам метафайлов Windows Media**](windows-media-metafile-elements-reference.md)
+[**Windows Справочник по элементам метафайлов мультимедиа**](windows-media-metafile-elements-reference.md)
 </dt> <dt>
 
-[**Справочник по метафайлу Windows Media**](windows-media-metafile-reference.md)
+[**Windows Ссылка на метафайл мультимедиа**](windows-media-metafile-reference.md)
 </dt> </dl>
 
  

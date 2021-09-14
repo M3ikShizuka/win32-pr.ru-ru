@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f64da1eae1eeacaf5e1941cde531c32c7fdbaddceef61dd0fb6f6dc3a8f7282e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b62ed4bdaf25bfaf7603becbb13444d3a3b23cd9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117756347"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968018"
 ---
 # <a name="mstscax-class"></a>Класс Мстскакс
 
@@ -111,7 +111,7 @@ ms.locfileid: "117756347"
 | [**Циферстренгс**](imstscax-cipherstrength.md)<br/>                         | Только для чтения<br/>  | Максимальная стойкость шифрования текущего элемента управления.<br/>                                                                                                        |
 | [**клеартекстпассворд**](imstscnonscriptable-cleartextpassword.md)<br/>        | Только на запись<br/> | пароль удаленный рабочий стол ActiveX управления в текстовом формате.<br/>                                                                                              |
 | [**Clientareawidth**](imsrdpclient-colordepth.md)<br/>                             | Чтение/запись<br/> | Глубина цвета текущего элемента управления.<br/>                                                                                                                            |
-| [**Подключен**](imstscax-connected.md)<br/>                                   | Только для чтения<br/>  | Состояние соединения текущего элемента управления.<br/>                                                                                                                   |
+| [**Организован**](imstscax-connected.md)<br/>                                   | Только для чтения<br/>  | Состояние соединения текущего элемента управления.<br/>                                                                                                                   |
 | [**коннектингтекст**](imstscax-connectingtext.md)<br/>                         | Чтение/запись<br/> | Текст, отображаемый по центру элемента управления во время подключения элемента управления.<br/>                                                                                 |
 | [**десктофеигхт**](imstscax-desktopheight.md)<br/>                           | Чтение/запись<br/> | Высота текущего элемента управления (в пикселях) на начальном удаленном рабочем столе.<br/>                                                                                        |
 | [**десктопвидс**](imstscax-desktopwidth.md)<br/>                             | Чтение/запись<br/> | Ширина текущего элемента управления (в пикселях) на начальном удаленном рабочем столе.<br/>                                                                                         |
@@ -126,10 +126,10 @@ ms.locfileid: "117756347"
 | [**секуредсеттингс**](imstscax-securedsettings.md)<br/>                       | Только для чтения<br/>  | Указатель интерфейса [**имстсксекуредсеттингс**](imstscsecuredsettings-interface.md) .<br/>                                                                          |
 | [**SecuredSettings2**](imsrdpclient-securedsettings2.md)<br/>                 | Только для чтения<br/>  | Указатель на интерфейс [**имсрдпклиентсекуредсеттингс**](imsrdpclientsecuredsettings-interface.md) , используемый для задания защищенных параметров клиентского элемента управления.<br/>    |
 | [**секуредсеттингсенаблед**](imstscax-securedsettingsenabled.md)<br/>         | Только для чтения<br/>  | Указывает, доступен ли интерфейс [**имстсксекуредсеттингс**](imstscsecuredsettings-interface.md) .<br/>                                                 |
-| [**Сервер**](imstscax-server.md)<br/>                                         | Чтение/запись<br/> | Имя сервера, к которому подключен текущий элемент управления.<br/>                                                                                              |
+| [**Сервером**](imstscax-server.md)<br/>                                         | Чтение/запись<br/> | Имя сервера, к которому подключен текущий элемент управления.<br/>                                                                                              |
 | [**стартконнектед**](imstscax-startconnected.md)<br/>                         | Чтение/запись<br/> | Указывает, будет ли элемент управления устанавливать соединение с сервером узла сеансов удаленных рабочих столов сразу после запуска.<br/>                                                   |
 | [**Имен**](imstscax-username.md)<br/>                                     | Чтение/запись<br/> | Учетные данные имени пользователя для входа.<br/>                                                                                                                                |
-| [**Version**](imstscax-version.md)<br/>                                       | Только для чтения<br/>  | Номер версии текущего элемента управления.<br/>                                                                                                                     |
+| [**Версия**](imstscax-version.md)<br/>                                       | Только для чтения<br/>  | Номер версии текущего элемента управления.<br/>                                                                                                                     |
 | [**вертикалскроллбарвисибле**](imstscax-verticalscrollbarvisible.md)<br/>     | Только для чтения<br/>  | Указывает, отображает ли элемент управления вертикальную полосу прокрутки.<br/>                                                                                                  |
 
 

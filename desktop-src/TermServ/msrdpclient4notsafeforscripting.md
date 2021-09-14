@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6711daec454a6278f10a5ecbad6e7dd93501c39d5e7540f201f9ba69ff5d2c75
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 394eec402ba7882160c6b36a835c5a2b901465cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118852667"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968062"
 ---
 # <a name="msrdpclient4notsafeforscripting-class"></a>Класс MsRdpClient4NotSafeForScripting
 
@@ -120,7 +120,7 @@ ms.locfileid: "118852667"
 | [**Циферстренгс**](imstscax-cipherstrength.md)<br/>                               | Только для чтения<br/>  | Максимальная стойкость шифрования текущего элемента управления.<br/>                                                                                                                                           |
 | [**клеартекстпассворд**](imstscnonscriptable-cleartextpassword.md)<br/>              | Только на запись<br/> | пароль удаленный рабочий стол ActiveX управления в текстовом формате.<br/>                                                                                                                                 |
 | [**Clientareawidth**](imsrdpclient-colordepth.md)<br/>                                   | Чтение/запись<br/> | Глубина цвета текущего элемента управления.<br/>                                                                                                                                                               |
-| [**Подключен**](imstscax-connected.md)<br/>                                         | Только для чтения<br/>  | Состояние соединения текущего элемента управления.<br/>                                                                                                                                                      |
+| [**Организован**](imstscax-connected.md)<br/>                                         | Только для чтения<br/>  | Состояние соединения текущего элемента управления.<br/>                                                                                                                                                      |
 | [**коннектедстатустекст**](imsrdpclient2-connectedstatustext.md)<br/>                | Чтение/запись<br/> | Текст, отображаемый в клиентской области элемента управления, когда элемент управления находится в состоянии Connected.<br/>                                                                                             |
 | [**коннектингтекст**](imstscax-connectingtext.md)<br/>                               | Чтение/запись<br/> | Текст, отображаемый по центру элемента управления во время подключения элемента управления.<br/>                                                                                                                    |
 | [**десктофеигхт**](imstscax-desktopheight.md)<br/>                                 | Чтение/запись<br/> | Высота текущего элемента управления (в пикселях) на начальном удаленном рабочем столе.<br/>                                                                                                                           |
@@ -137,7 +137,7 @@ ms.locfileid: "118852667"
 | [**секуредсеттингс**](imstscax-securedsettings.md)<br/>                             | Только для чтения<br/>  | Указатель интерфейса [**имстсксекуредсеттингс**](imstscsecuredsettings-interface.md) .<br/>                                                                                                             |
 | [**SecuredSettings2**](imsrdpclient-securedsettings2.md)<br/>                       | Только для чтения<br/>  | Указатель на интерфейс [**имсрдпклиентсекуредсеттингс**](imsrdpclientsecuredsettings-interface.md) , используемый для задания защищенных параметров клиентского элемента управления.<br/>                                       |
 | [**секуредсеттингсенаблед**](imstscax-securedsettingsenabled.md)<br/>               | Только для чтения<br/>  | Указывает, доступен ли интерфейс [**имстсксекуредсеттингс**](imstscsecuredsettings-interface.md) .<br/>                                                                                    |
-| [**Сервер**](imstscax-server.md)<br/>                                               | Чтение/запись<br/> | Имя сервера, к которому подключен текущий элемент управления.<br/>                                                                                                                                 |
+| [**Сервером**](imstscax-server.md)<br/>                                               | Чтение/запись<br/> | Имя сервера, к которому подключен текущий элемент управления.<br/>                                                                                                                                 |
 | [**стартконнектед**](imstscax-startconnected.md)<br/>                               | Чтение/запись<br/> | Указывает, будет ли элемент управления устанавливать соединение с сервером узла сеансов удаленных рабочих столов сразу после запуска.<br/>                                                                                      |
 | [**TransportSettings**](imsrdpclient5-transportsettings.md)<br/>                    | Только для чтения<br/>  | Параметр шлюза клиентских удаленных рабочих столов.<br/>                                                                                                                                                                    |
 | [**уипарентвиндовхандле**](imsrdpclientnonscriptable2-uiparentwindowhandle.md)<br/> | Чтение/запись<br/> | Маркер окна, который будет родительским окном для элемента управления. Это позволяет корректно модальным окнам, отображаемым элементом управления, по отношению к любым окнам, отображаемым родительским приложением.<br/> |
@@ -163,7 +163,7 @@ ms.locfileid: "118852667"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

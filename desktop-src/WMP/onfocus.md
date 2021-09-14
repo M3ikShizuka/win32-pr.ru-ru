@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: e794187a8aa1119200bc31e8849f3172fcd472736c9c3e9bfc08604f23b222ab
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 14b6dd9f2ad61e24e83c9e4300c9fdd4c91fa762
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119647184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967353"
 ---
 # <a name="onfocus"></a>onfocus
 
@@ -28,11 +28,11 @@ ms.locfileid: "119647184"
 onfocus
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Обработчик событий **onfocus** неприменим к элементу **Effects** или элементу **Popup** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -42,7 +42,7 @@ onfocus
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

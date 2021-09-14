@@ -25,11 +25,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 8b0c92c2eefce484635941f99636dbeeca55daa8
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105693732"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126882856"
 ---
 # <a name="jet_recpostostring-method"></a>JET_RECPOS. Метод ToString
 
@@ -59,7 +59,7 @@ public override string ToString()
 Тип: [System. String](/dotnet/api/system.string)  
 Структура в виде строки.  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

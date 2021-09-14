@@ -3,7 +3,7 @@ title: Нормальный источник третьего образа
 description: Нормальный источник третьего образа
 ms.assetid: ce0b009a-b008-4e8b-875b-b2ff3c1c0b81
 keywords:
-- Обложки мобильных устройств проигрывателя Windows Media, источник изображения кнопки
+- проигрыватель Windows Media Обложки мобильных устройств, источник изображения кнопки
 - обложки, источник изображения кнопки
 - Справочник по обложкам, кнопкам
 - кнопки в обложках, источник изображения
@@ -11,11 +11,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 109509914c498e950f148caf7c260ef814c1074f
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104411243"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967394"
 ---
 # <a name="normal-tertiary-image-source"></a>Нормальный источник третьего образа
 
@@ -35,16 +35,16 @@ Pushed @ 286,0
 
 В третичных состояниях не может быть отключенного образа. Предполагается, что для третьего и дополнительного образов используются одинаковые значения ширины и высоты.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [**Кнопки**](buttons.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

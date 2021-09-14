@@ -11,12 +11,12 @@ keywords:
 - Пример подключаемого модуля "Echo DSP", ресурс диалогового окна
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d37dc88fe2c1b85dfc08727a00e744f1c5c16a2f25a4c5d429b2ab13898b0fcb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 09caa800376a7962a11912bc582a091f0de52c16
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118996144"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967469"
 ---
 # <a name="modifying-the-echo-dialog-resource"></a>Изменение ресурса диалогового окна Echo
 

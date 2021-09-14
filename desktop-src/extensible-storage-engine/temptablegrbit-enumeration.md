@@ -40,12 +40,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: b97f8b736ff924254e7508b29b0841b48174b46526977f32a4f544181da09ccd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 79247bac6e8d3bda9d1aeac4d19b7af894201a57
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118070849"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126882616"
 ---
 # <a name="temptablegrbit-enumeration"></a>Перечисление Темптаблегрбит
 
@@ -71,7 +71,7 @@ Dim instance As TempTableGrbit
 public enum TempTableGrbit
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <table>
 <thead>
@@ -84,7 +84,7 @@ public enum TempTableGrbit
 <tbody>
 <tr class="odd">
 <td></td>
-<td>Нет</td>
+<td>None</td>
 <td>Параметры по умолчанию.</td>
 </tr>
 <tr class="even">
@@ -126,7 +126,7 @@ public enum TempTableGrbit
 </table>
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

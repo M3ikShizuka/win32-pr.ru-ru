@@ -13,12 +13,12 @@ keywords:
 - объект Параметры
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b74b8bd9db946a2915486647fa5831158198bef6115a34b6bb9fb81177f433de
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b20dae51d42e6c67a59ddc23dca19bc7f4180001
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118583676"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967770"
 ---
 # <a name="about-the-settings-object"></a>об объекте Параметры
 

@@ -17,12 +17,12 @@ keywords:
 - заголовочные файлы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 72628d2f8582e7d729e27d7745ff1716c376d475afcaa48e52099f6cf63d2d4c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b987d389216a3349c6797517b48c03bbb4d0f1eb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119903934"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967785"
 ---
 # <a name="required-libraries-and-headers-for-a-service-provider"></a>Необходимые библиотеки и заголовки для поставщика услуг
 

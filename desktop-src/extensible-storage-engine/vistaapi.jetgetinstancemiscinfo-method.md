@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: f0e8532d46556bb2d36bff822ce1e68ffe48ab633df925ae26b2ba24e9023417
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 204beee343a717d5b45d8003e123bbbe186437d0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119471274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126882613"
 ---
 # <a name="vistaapijetgetinstancemiscinfo-method"></a>Вистаапи. ЖетжетинстанцемисЦинфо, метод
 
@@ -64,7 +64,7 @@ public static void JetGetInstanceMiscInfo(
 
 #### <a name="parameters"></a>Параметры
 
-  - экземпляр  
+  - instance  
     Тип: [Microsoft.ISAM.ESENT.Interop.JET_INSTANCE](./jet-instance-structure.md)  
     
     Экземпляр, сведения о котором необходимо получить.
@@ -83,7 +83,7 @@ public static void JetGetInstanceMiscInfo(
     
     Тип извлекаемых данных.
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

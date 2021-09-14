@@ -39,12 +39,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 2a1061e0799d82612e42b7e3a4cfd29641fb945edba6c0f505283d0d7e9ff5c1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 10dead29f626fb946527a0d0036d5e15f840bc18
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119922844"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126892469"
 ---
 # <a name="win32_usbcontroller-class"></a>\_Класс Win32 усбконтроллер
 
@@ -84,7 +84,7 @@ class Win32_USBController : CIM_USBController
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ усбконтроллер** имеет следующие типы членов:
 
@@ -868,7 +868,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1581,7 +1581,7 @@ ATA или ATAPI
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ усбконтроллер** является производным от [**CIM \_ усбконтроллер**](cim-usbcontroller.md).
 

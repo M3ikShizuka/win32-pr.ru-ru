@@ -20,12 +20,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 6880e7fa1520f55f4cf1dd8300c4f7b75002a84e164cd80e1be341a0548bd9fd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 66f85c08c1fccc58702d4ac4cf170d6b0493ab8a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119470894"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126882592"
 ---
 # <a name="windows7apijetprereadkeys-method-jet_sesid-jet_tableid-byte-int32--int32-int32-prereadkeysgrbit"></a>Метод Windows7Api. жетпререадкэйс (JET_SESID, JET_TABLEID, Byte \[ \] \[ \] , Int32, Int32, Int32, пререадкэйсгрбит)
 
@@ -120,7 +120,7 @@ public static void JetPrereadKeys(
     
     Параметры для чтения. Используется для указания направления выполнения перед чтением.
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

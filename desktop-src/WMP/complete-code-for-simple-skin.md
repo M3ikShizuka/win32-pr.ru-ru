@@ -13,12 +13,12 @@ keywords:
 - файлы определения обложки, примеры
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6a3b4d4380c6d7fb44290e8faff26bf5cb84dae552d09fe13594402dbe434ab0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3682e6143c751d1c72cd8799f849fef7c9c27adb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119135797"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967749"
 ---
 # <a name="complete-code-for-simple-skin"></a>Полный код для простой обложки
 

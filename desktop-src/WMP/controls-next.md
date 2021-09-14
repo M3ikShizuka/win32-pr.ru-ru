@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 83a40c063163b0dadaa3db2d0d6281ace64312f68ee999763e6b27d4bd98f84d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8f58e6d11eafe38b4ab26e0275bd5c986cd4e4a4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118997474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967697"
 ---
 # <a name="controlsnext-method"></a>Метод Controls. Next
 
@@ -44,7 +44,7 @@ Controls.next()
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если список воспроизведения находится в последней записи при вызове **Next** , первая запись списка воспроизведения станет текущей.
 

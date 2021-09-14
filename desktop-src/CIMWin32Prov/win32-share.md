@@ -24,12 +24,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 258116c3d6f01db938033056069aa036a3eaad23e44b31d80838ad26f570faa7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e871880da5aa9819de4a9eaaf3c6f074bd198d23
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117834157"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126892472"
 ---
 # <a name="win32_share-class"></a>\_Класс общего ресурса Win32
 
@@ -56,7 +56,7 @@ class Win32_Share : CIM_LogicalElement
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ общего ресурса Win32** имеет следующие типы членов:
 
@@ -71,8 +71,8 @@ class Win32_Share : CIM_LogicalElement
 
 | Метод                                                             | Описание                                                                                                                                                                                                         |
 |:-------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**Создания**](create-method-in-class-win32-share.md)               | Метод класса, инициирующий совместное использование ресурса сервера.<br/>                                                                                                                                               |
-| [**Удален**](delete-method-in-class-win32-share.md)               | Метод класса, который удаляет имя общего ресурса из списка общих ресурсов сервера, отключая подключения к общему ресурсу.<br/>                                                                       |
+| [**Создать**](create-method-in-class-win32-share.md)               | Метод класса, инициирующий совместное использование ресурса сервера.<br/>                                                                                                                                               |
+| [**DELETE**](delete-method-in-class-win32-share.md)               | Метод класса, который удаляет имя общего ресурса из списка общих ресурсов сервера, отключая подключения к общему ресурсу.<br/>                                                                       |
 | [**жетакцессмаск**](getaccessmask-method-in-class-win32-share.md) | Возвращает права доступа к общей папке, удерживаемой пользователем или группой, от имени которой возвращается экземпляр. Этот метод следует использовать вместо свойства **AccessMask** , которое всегда имеет **значение NULL**.<br/> |
 | [**сетшареинфо**](setshareinfo-method-in-class-win32-share.md)   | Метод класса, который задает параметры общего ресурса.<br/>                                                                                                                                              |
 
@@ -188,7 +188,7 @@ class Win32_Share : CIM_LogicalElement
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -406,7 +406,7 @@ Windows 2008 пример: " \\ SERVER01 \\ public"-Windows Server 2008 необ
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **\_ общего ресурса Win32** является производным от [**CIM \_ логикалелемент**](cim-logicalelement.md).
 

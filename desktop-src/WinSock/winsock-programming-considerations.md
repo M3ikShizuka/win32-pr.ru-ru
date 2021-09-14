@@ -4,12 +4,12 @@ ms.assetid: 26bfb614-5700-44d3-b4fb-1002d757d15e
 title: Вопросы программирования Winsock
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8451601f92f0fbf7b85532fc5a63479fe2bec26adc1984c74fc1cd7d750a04aa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cfaee2cd04f03afe050ca539190b51e66c0abff9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117739863"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967226"
 ---
 # <a name="winsock-programming-considerations"></a>Вопросы программирования Winsock
 

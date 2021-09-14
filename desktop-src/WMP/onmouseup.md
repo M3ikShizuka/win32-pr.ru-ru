@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 08059a66646834aac55c03c65ad9c80f6e1a60309a15c1867ef616c48036036d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: baa1713b828fc2d2c3dea885ec9a642c53710260
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119572204"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967314"
 ---
 # <a name="onmouseup"></a>OnMouseUp
 
@@ -28,11 +28,11 @@ ms.locfileid: "119572204"
 onmouseup
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот обработчик событий неприменим к элементу **списка воспроизведения** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -42,7 +42,7 @@ onmouseup
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 9db8cd6755d0fe2e1199cca16350451273c2bd7618f35b597687b5fbc35c70fb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 490dc249a042487f348937b5ee00804578293381
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119647224"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967382"
 ---
 # <a name="onblur"></a>onblurие
 
@@ -28,11 +28,11 @@ ms.locfileid: "119647224"
 onblur
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Обработчик событий **onblurия** неприменим к элементу **Effects** или элементу **Popup** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -42,7 +42,7 @@ onblur
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

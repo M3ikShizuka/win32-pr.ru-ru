@@ -27,11 +27,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 438d6f095b96c341d95dba584eff78b8ba73eb28
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105702620"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126882765"
 ---
 # <a name="jet_tablecreatecindexes-property"></a>Свойство JET_TABLECREATE. Циндексес
 
@@ -64,7 +64,7 @@ public int cIndexes { get; set; }
 
 Тип: [System. Int32](/dotnet/api/system.int32)  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

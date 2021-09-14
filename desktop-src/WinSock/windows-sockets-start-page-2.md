@@ -4,12 +4,12 @@ ms.assetid: 1ec8758a-40fd-4c98-b839-c2409ef712d6
 title: Windows Сокеты 2
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1db6acd422e5a1aec90b454a9fce71bfd1ec5d071759edfdffd7aa3a8d02f1b4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: df253572d2fca117dbc8b45b451f8c3bacc2f360
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118111126"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967273"
 ---
 # <a name="windows-sockets-2"></a>Windows Сокеты 2
 

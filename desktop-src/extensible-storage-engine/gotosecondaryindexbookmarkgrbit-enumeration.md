@@ -28,12 +28,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 733647a8cf53fa93c9779674890005de4ead1aa57f15853c255c5ac5a8e13904
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f38b5f26abc4dfafb95d5560b3ff1def4267527c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118487984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126883080"
 ---
 # <a name="gotosecondaryindexbookmarkgrbit-enumeration"></a>Перечисление Готосекондариндексбукмаркгрбит
 
@@ -59,7 +59,7 @@ Dim instance As GotoSecondaryIndexBookmarkGrbit
 public enum GotoSecondaryIndexBookmarkGrbit
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <table>
 <thead>
@@ -72,7 +72,7 @@ public enum GotoSecondaryIndexBookmarkGrbit
 <tbody>
 <tr class="odd">
 <td></td>
-<td>Нет</td>
+<td>None</td>
 <td>Параметры по умолчанию.</td>
 </tr>
 <tr class="even">
@@ -84,7 +84,7 @@ public enum GotoSecondaryIndexBookmarkGrbit
 </table>
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

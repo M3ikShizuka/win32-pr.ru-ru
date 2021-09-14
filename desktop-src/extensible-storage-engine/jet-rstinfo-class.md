@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 002c54dd1631a8e9edbf5397c69ea7d7dc684dd7507b2fb6c3c0961d51b228a7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 964f1cb335fd0adf1a38759c4ec0aa243f1df506
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119473484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126882824"
 ---
 # <a name="jet_rstinfo-class"></a>Класс JET_RSTINFO
 
@@ -64,7 +64,7 @@ public class JET_RSTINFO : IContentEquatable<JET_RSTINFO>,
 
 Любые общедоступные статичные (общие в Visual Basic) члены этого типа являются потокобезопасными. Потокобезопасная работа с членами экземпляров типа не гарантируется.
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

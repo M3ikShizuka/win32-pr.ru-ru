@@ -4,12 +4,12 @@ ms.assetid: 6a63c2c9-4e09-4a62-b39f-3ccb26287da8
 title: IOCTL Winsock (Winsock2.h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d8d9c47e68433747e341bbc0a082b5d40af76403b473caabe3423f5a186f499f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: eadf4a0e2799d6123bf81069fe65ea16313af444
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117739954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967258"
 ---
 # <a name="winsock-ioctls"></a>Winsock IOCTL
 
@@ -538,7 +538,7 @@ typedef struct _WSA_COMPATIBILITY_MODE {
 
 Дополнительные сведения см. в [**статье \_ \_ о SIO TCP**](/previous-versions/windows/desktop/legacy/mt823415(v=vs.85)). **Суперконтроллер ввода/вывода \_ \_сведения TCP** поддерживаются в Windows 10, версии 1703, Windows Server 2016 и более поздних версиях.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Winsock ioctl определяются в нескольких файлах заголовков. В их число входят файлы заголовков *Winsock2. h*, *мсвсокк. h* и *мсткпип. h* .
 

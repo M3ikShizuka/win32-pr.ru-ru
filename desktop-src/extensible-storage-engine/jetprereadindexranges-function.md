@@ -19,12 +19,12 @@ api_type:
 api_location:
 - ESENT.DLL
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: fba09bc0bfb806a8785ea1c009f2bfbb7eb5105c
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.openlocfilehash: 0ff2d9e7c538e8aa8cc862fe9a72c0308e497fd4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122479000"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126882693"
 ---
 # <a name="jetprereadindexranges-function"></a>Функция Жетпререадиндексранжес
 
@@ -110,10 +110,16 @@ JET_ERR JetPrereadIndexRanges(
 #### <a name="requirements"></a>Требования
 
 
-| | | <p><strong>Клиент</strong></p> | <p>Требуется Windows 8.</p> | | <p><strong>Сервер</strong></p> | <p>Требуется Windows Server 2012.</p> | | <p><strong>Header</strong></p> | <p>Объявлено в ESENT. h.</p> | | <p><strong>Библиотека</strong></p> | <p>Используйте ESENT. lib.</p> | | <p><strong>КОМПОНОВКИ</strong></p> | <p>Требуется ESENT.dll.</p> | 
+| Требование | Значение |
+|------------|----------|
+| <p><strong>Клиент</strong></p> | <p>Требуется Windows 8.</p> | 
+| <p><strong>Server</strong></p> | <p>Требуется Windows Server 2012.</p> | 
+| <p><strong>Header</strong></p> | <p>Объявлено в ESENT. h.</p> | 
+| <p><strong>Библиотека</strong></p> | <p>Используйте ESENT. lib.</p> | 
+| <p><strong>DLL</strong></p> | <p>Требуется ESENT.dll.</p> | 
 
 
 
-#### <a name="see-also"></a>См. также
+#### <a name="see-also"></a>См. также:
 
 [JET_ERR](./jet-err.md)

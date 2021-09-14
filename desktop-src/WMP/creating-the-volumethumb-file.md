@@ -10,12 +10,12 @@ keywords:
 - Thumb, Волумесумб Files
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d07f929c377cb4ab52856c9061db45252f7461e257e341b0c1fcc0aa06c91585
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 82ebe8a591ed7591b55679e6bdb81a361dd24efe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119863783"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967594"
 ---
 # <a name="creating-the-volumethumb-file"></a>Создание файла Волумесумб
 

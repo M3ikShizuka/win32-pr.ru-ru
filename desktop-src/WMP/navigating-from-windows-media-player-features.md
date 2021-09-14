@@ -1,47 +1,47 @@
 ---
-title: Переход от функций проигрывателя Windows Media
-description: Переход от функций проигрывателя Windows Media
+title: переход от проигрыватель Windows Media функций
+description: переход от проигрыватель Windows Media функций
 ms.assetid: 7c608b34-5263-4a4b-aff6-2e9f6fef1aca
 keywords:
-- Интернет-магазины проигрывателя Windows Media, Навигация
+- проигрыватель Windows Media интернет-магазинов, навигация
 - Интернет-магазины, Навигация
 - Тип 2 Интернет-магазинов, Навигация
-- Интернет-магазины проигрывателя Windows Media, области задач службы
+- проигрыватель Windows Media интернет-магазинов, областей задач службы
 - Интернет-магазины, области задач службы
 - Введите 2 Интернет-магазина, области задач службы
-- Интернет-магазины проигрывателя Windows Media, области задач
+- проигрыватель Windows Media интернет-магазинов, областей задач
 - Интернет-магазины, области задач
 - Введите 2 Интернет-магазина, области задач
 - Навигация по типу 2 Интернет-магазинов
-- Проигрыватель Windows Media, области задач службы
-- Проигрыватель Windows Media, области задач
+- проигрыватель Windows Media, области задач службы
+- проигрыватель Windows Media, области задач
 - области задач службы
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: c7a1dbe89cc38748bf4b217efff8ed417a86e2be
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103986060"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967458"
 ---
-# <a name="navigating-from-windows-media-player-features"></a>Переход от функций проигрывателя Windows Media
+# <a name="navigating-from-windows-media-player-features"></a>переход от проигрыватель Windows Media функций
 
 Если вы предоставляете музыкальный Интернет-магазин, вы можете выполнять навигацию из представления центра информации, сведений о альбоме и Хтмлвиев страниц в области задач службы. Процесс выполняется точно так же, как описано в разделе [Переход между панелями задач службы](navigating-between-service-task-panes.md). Разница заключается в том, что можно переходить от компонента к области задач службы, но не из области задач службы в компонент.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
-[**Отображение веб-страниц в проигрывателе Windows Media**](displaying-web-pages-in-windows-media-player.md)
+[**отображение веб-страниц в проигрыватель Windows Media**](displaying-web-pages-in-windows-media-player.md)
 </dt> <dt>
 
 [**Навигация для Интернет-магазинов типа 2**](navigation-for-type-2-online-stores.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

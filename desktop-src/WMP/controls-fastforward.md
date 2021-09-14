@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a8b35c2a31c26259a12638d09c968b90ea42f93c692bf4c24af9dc987a6df3bf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 20d033b8b025955e57a9c3ebed00a6d7a92a666e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118341820"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967702"
 ---
 # <a name="controlsfastforward-method"></a>Controls. Фастфорвард, метод
 
@@ -44,7 +44,7 @@ Controls.fastForward()
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод **фастфорвард** воспроизводит клип назад в пять раз подряд с обычной скоростью. при вызове **фастфорвард** изменяется *Параметры*. Свойство **Rate** до 5,0. если **ставка** впоследствии изменилась или вызывается **play** или **остановка** , проигрыватель Windows Media прекращает быструю пересылку.
 

@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 5e51438a49a45c167b247882f0976b27a4ad8d4da048437f385ccff545663b4a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e0c8c17a9f4bb7e86b573d60187ffffd55c6cb96
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118589897"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967918"
 ---
 # <a name="csymboltype-simple-type-windows-event-log"></a>простой тип ксимболтипе (журнал событий Windows)
 
@@ -44,7 +44,7 @@ ms.locfileid: "118589897"
 
     Имя символа может быть пустым или содержать буквы, цифры и символы подчеркивания. Если имя пустое, компилятор сообщений создаст имя символа. Если указано имя, имя должно начинаться с символа подчеркивания ( \_ ) или алфавитного знака.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если имя символа пустое, компилятор сообщений использует атрибут **Name** элемента, который вы определяете для создания имени символа. Компилятор заменяет любые символы, отличные от алфавитно-цифровых, и начальные цифры символами подчеркивания. например, если атрибуту **имени** канала является Microsoft-Windows-самплепровидер/эксплуатация, компилятор будет использовать microsoft \_ Windows \_ самплепровидер \_ в качестве имени символа.
 

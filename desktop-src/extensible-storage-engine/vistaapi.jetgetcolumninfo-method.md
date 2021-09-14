@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: ac828df40b25d7dd8e8e8260bd69ac449eef112778fb82f0955b61e42010f3f4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3ae090fa5279b9ec60a3be88b4ebda393322b1f2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117701459"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126882608"
 ---
 # <a name="vistaapijetgetcolumninfo-method"></a>Вистаапи. Жетжетколумнинфо, метод
 
@@ -103,7 +103,7 @@ public static void JetGetColumnInfo(
     
     Заполняется сведениями о столбцах в таблице.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 
