@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 50b92be11400d1dbb223115f11334e2a596e94e9df1fd018ce16e4a646c84825
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2e7de57cde928760c15dd671010880e824c8979f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119516104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968645"
 ---
 # <a name="stopifgoingonbatteries-settingstype-element"></a>Стопифгоингонбаттериес (Сеттингстипе), элемент
 
@@ -44,7 +44,7 @@ ms.locfileid: "119516104"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значение по умолчанию для этого элемента — false. Обратите внимание, что значение по умолчанию изменилось по сравнению с предыдущими версиями планировщик задач.
 
@@ -65,7 +65,7 @@ ms.locfileid: "119516104"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ ms.locfileid: "119516104"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

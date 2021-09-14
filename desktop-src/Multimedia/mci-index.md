@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: d1e93890b8c3db1150bc7224b0fd8b6ee7475ced
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369930"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057478"
 ---
 # <a name="mci_index-command"></a>\_Команда указателя MCI
 
@@ -68,7 +68,7 @@ MCIERROR mciSendCommand(
 
 Возвращает нуль в случае успеха или ошибку в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сведения, представленные на экране экрана, контролируются \_ \_ флагом индекса набора видеомагнитофона MCI \_ в команде [MCI \_ Set](mci-set.md) .
 
@@ -102,7 +102,7 @@ MCIERROR mciSendCommand(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

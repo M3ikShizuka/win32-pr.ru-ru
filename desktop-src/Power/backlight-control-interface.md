@@ -4,12 +4,12 @@ ms.assetid: edf2b7ed-2676-483a-80ba-f148951e0e58
 title: Интерфейс управления подсветкой
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 18a6a82cede03d18f9d237bab09a590f9bcdc0da86651dacd0912357c32d36ac
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5ecbcc3d635d120c1049f8ec586d7296a953dfac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119143727"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057137"
 ---
 # <a name="backlight-control-interface"></a>Интерфейс управления подсветкой
 
@@ -21,7 +21,7 @@ ms.locfileid: "119143727"
 
 Чтобы изменить яркость экрана, используйте управляющий код для [**\_ \_ настройки \_ \_ яркости экрана**](ioctl-video-set-display-brightness.md) с помощью ioctl. Можно задать яркость AC, яркость контроллера домена или и то, и другое.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

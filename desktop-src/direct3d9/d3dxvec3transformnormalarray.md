@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: f90521b51c9c939d459fb10bcf2badd7e551b80e5e9f134d5dfd38b5ec8e18aa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 74da959002bfbd0c488e630f09c89e848708b1b1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117730823"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055975"
 ---
 # <a name="d3dxvec3transformnormalarray-function-d3dx9mathh"></a>Функция D3DXVec3TransformNormalArray (D3dx9math. h)
 
@@ -105,7 +105,7 @@ D3DXVECTOR3* D3DXVec3TransformNormalArray(
 
 Указатель на массив [**D3DXVECTOR3**](d3dxvector3.md) , который является преобразованным массивом.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция преобразует вектор (*ПС*->x, *PV*->y, *PV*->z, 0) матрице, на которую указывает *PM*.
 
@@ -124,7 +124,7 @@ D3DXVECTOR3* D3DXVec3TransformNormalArray(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

@@ -177,12 +177,12 @@ api_type:
 - COM
 api_location:
 - Microsoft.Interop.Security.Azroles.dll
-ms.openlocfilehash: 6e2105be6cbcfab98b71f4986285eed2d6a21a997f9821bd681718f57380f820
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3bf3493efe82c944cc269688f2d2fb08523746db
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117781102"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057056"
 ---
 # <a name="microsoftinteropsecurityazrolesiazapplication2-interface"></a>Интерфейс Microsoft. Interop. Security. Азролес. IAzApplication2
 
@@ -228,11 +228,11 @@ ms.locfileid: "117781102"
 | **Microsoft. Interop. Security. Азролес. IAzApplication2. Делетескопе**                          | [**Иазаппликатион::D Елетескопе**](/windows/desktop/api/Azroles/nf-azroles-iazapplication-deletescope)<br/>                                                   |
 | **Microsoft. Interop. Security. Азролес. IAzApplication2. Делететаск**                           | [**Иазаппликатион::D Елететаск**](/windows/desktop/api/Azroles/nf-azroles-iazapplication-deletetask)<br/>                                                     |
 | **Свойство Microsoft. Interop. Security. Азролес. IAzApplication2..**                          | [**Иазаппликатион:: Property**](/windows/desktop/api/Azroles/nf-azroles-iazapplication-getproperty)<br/>                                                   |
-| **Microsoft.Interop.Security.Azroles.IAzApplication2.InitializeClientContext2**             | [**IAzApplication2::InitializeClientContext2**](/windows/desktop/api/Azroles/nf-azroles-iazapplication2-initializeclientcontext2)<br/>                       |
-| **Microsoft.Interop.Security.Azroles.IAzApplication2.IniТиализеклиентконтекстфромнаме**      | [**Иазаппликатион:: Инитиализеклиентконтекстфромнаме**](/windows/desktop/api/Azroles/nf-azroles-iazapplication-initializeclientcontextfromname)<br/>           |
-| **Microsoft.Interop.Security.Azroles.IAzApplication2.IniТиализеклиентконтекстфромстрингсид** | [**Иазаппликатион:: Инитиализеклиентконтекстфромстрингсид**](/windows/desktop/api/Azroles/nf-azroles-iazapplication-initializeclientcontextfromstringsid)<br/> |
-| **Microsoft.Interop.Security.Azroles.IAzApplication2.IniТиализеклиентконтекстфромтокен**     | [**Иазаппликатион:: Инитиализеклиентконтекстфромтокен**](/windows/desktop/api/Azroles/nf-azroles-iazapplication-initializeclientcontextfromtoken)<br/>         |
-| **Microsoft.Interop.Security.Azroles.IAzApplication2.InitializeClientContextFromToken2**    | [**IAzApplication2::InitializeClientContextFromToken2**](/windows/desktop/api/Azroles/nf-azroles-iazapplication2-initializeclientcontextfromtoken2)<br/>     |
+| **Microsoft. Interop. Security. Азролес. IAzApplication2. InitializeClientContext2**             | [**IAzApplication2::InitializeClientContext2**](/windows/desktop/api/Azroles/nf-azroles-iazapplication2-initializeclientcontext2)<br/>                       |
+| **Microsoft. Interop. Security. Азролес. IAzApplication2. Инитиализеклиентконтекстфромнаме**      | [**Иазаппликатион:: Инитиализеклиентконтекстфромнаме**](/windows/desktop/api/Azroles/nf-azroles-iazapplication-initializeclientcontextfromname)<br/>           |
+| **Microsoft. Interop. Security. Азролес. IAzApplication2. Инитиализеклиентконтекстфромстрингсид** | [**Иазаппликатион:: Инитиализеклиентконтекстфромстрингсид**](/windows/desktop/api/Azroles/nf-azroles-iazapplication-initializeclientcontextfromstringsid)<br/> |
+| **Microsoft. Interop. Security. Азролес. IAzApplication2. Инитиализеклиентконтекстфромтокен**     | [**Иазаппликатион:: Инитиализеклиентконтекстфромтокен**](/windows/desktop/api/Azroles/nf-azroles-iazapplication-initializeclientcontextfromtoken)<br/>         |
+| **Microsoft. Interop. Security. Азролес. IAzApplication2. InitializeClientContextFromToken2**    | [**IAzApplication2::InitializeClientContextFromToken2**](/windows/desktop/api/Azroles/nf-azroles-iazapplication2-initializeclientcontextfromtoken2)<br/>     |
 | **Microsoft. Interop. Security. Азролес. IAzApplication2. Опенаппликатионграуп**                 | [**Иазаппликатион:: Опенаппликатионграуп**](/windows/desktop/api/Azroles/nf-azroles-iazapplication-openapplicationgroup)<br/>                                 |
 | **Microsoft. Interop. Security. Азролес. IAzApplication2. Опеноператион**                        | [**Иазаппликатион:: Опеноператион**](/windows/desktop/api/Azroles/nf-azroles-iazapplication-openoperation)<br/>                                               |
 | **Microsoft. Interop. Security. Азролес. IAzApplication2. Опенроле**                             | [**Иазаппликатион:: Опенроле**](/windows/desktop/api/Azroles/nf-azroles-iazapplication-openrole)<br/>                                                         |

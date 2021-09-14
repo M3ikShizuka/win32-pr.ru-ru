@@ -20,12 +20,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 6188db63795513d0fb207621a15ca9dd11798e619c5d9c5b7bb0d915e59ace77
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 25e8430931cbf45c84d65fb68ae877ed96e7cea8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118983294"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969489"
 ---
 # <a name="apijetgetsystemparameter-method-jet_instance-jet_sesid-jet_param-intptr-string-int32"></a>Метод API. Жетжетсистемпараметер (JET_INSTANCE, JET_SESID, JET_param, IntPtr, String, Int32)
 
@@ -73,7 +73,7 @@ public static JET_wrn JetGetSystemParameter(
 
 #### <a name="parameters"></a>Параметры
 
-  - экземпляр  
+  - instance  
     Тип: [Microsoft.ISAM.ESENT.Interop.JET_INSTANCE](./jet-instance-structure.md)  
     
     Экземпляр, из которого извлекаются параметры.
@@ -118,11 +118,11 @@ public static JET_wrn JetGetSystemParameter(
 Тип: [Microsoft.ISAM.ESENT.Interop.JET_wrn](./jet-wrn-enumeration.md)  
 Код предупреждения ESENT.  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 [Еррортостринг](./jet-param-enumeration.md) передает номер ошибки в paramValue, поэтому он является параметром ref, а не параметром out.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

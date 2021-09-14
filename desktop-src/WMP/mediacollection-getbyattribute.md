@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f942f0718202d6c3e509b177c34c4c4be20c058b1e74991fa0ae89955d7711d8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 533823127364416f8f4492c82381e682173c5c78
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118996313"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056331"
 ---
 # <a name="mediacollectiongetbyattribute-method"></a>Медиаколлектион. Жетбяттрибуте, метод
 
@@ -61,7 +61,7 @@ retVal = MediaCollection.getByAttribute(
 
 Этот метод возвращает объект **списка воспроизведения** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод можно использовать для создания универсального запроса для элементов мультимедиа, которые соответствуют значению атрибута в базе данных. Это полезно в случае определяемых пользователем атрибутов. Если атрибут не существует, возникнет ошибка.
 
@@ -76,7 +76,7 @@ retVal = MediaCollection.getByAttribute(
 | radio    | Элементы радиостанции. не используется проигрыватель Windows Media 10.  |
 | видео    | Элементы видео.                                               |
 | фотография    | Элементы фото. требуется проигрыватель Windows Media 10.             |
-| др.    | Другие элементы, такие как файлы ASF или URL-адреса для потокового мультимедиа. |
+| иное    | Другие элементы, такие как файлы ASF или URL-адреса для потокового мультимедиа. |
 
 
 
@@ -115,7 +115,7 @@ Player.controls.play();
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

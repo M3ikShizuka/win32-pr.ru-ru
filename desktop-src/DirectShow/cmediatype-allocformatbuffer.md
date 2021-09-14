@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 2c53e739237f2d61a6c59c7fac96e1b97e6343fa6dd209bcf72700cefab7d599
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d6a9314fd06734adcc367b7be34dc8d6d1b9d996
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119073988"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246850"
 ---
 # <a name="cmediatypeallocformatbuffer-method"></a>Кмедиатипе. Аллокформатбуффер, метод
 
@@ -59,7 +59,7 @@ BYTE* AllocFormatBuffer(
 
 Метод обновляет члены **кбформат** и **пбформат** структуры **\_ \_ типа мультимедиа AM** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ BYTE* AllocFormatBuffer(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

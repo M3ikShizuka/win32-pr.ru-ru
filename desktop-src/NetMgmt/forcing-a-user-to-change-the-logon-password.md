@@ -5,15 +5,15 @@ ms.assetid: 828f5d72-3e19-4b65-a1db-ac702fd4cfde
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: c9f3d0910f77c2553a55a53f1393aae5c9535982
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103888555"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057371"
 ---
 # <a name="forcing-a-user-to-change-the-logon-password"></a>Принудительное изменение пароля для входа пользователем
 
-В этом примере кода показано, как заставить пользователя изменить пароль для входа при следующем входе с помощью функций [**нетусержетинфо**](/windows/desktop/api/Lmaccess/nf-lmaccess-netusergetinfo) и [**Нетусерсетинфо**](/windows/desktop/api/Lmaccess/nf-lmaccess-netusersetinfo) и структуры [**user \_ info \_ 3**](/windows/desktop/api/Lmaccess/ns-lmaccess-user_info_3) . Обратите внимание, что начиная с Windows XP вместо этого рекомендуется использовать структуру [**user \_ info \_ 4**](/windows/desktop/api/Lmaccess/ns-lmaccess-user_info_4) .
+В этом примере кода показано, как заставить пользователя изменить пароль для входа при следующем входе с помощью функций [**нетусержетинфо**](/windows/desktop/api/Lmaccess/nf-lmaccess-netusergetinfo) и [**Нетусерсетинфо**](/windows/desktop/api/Lmaccess/nf-lmaccess-netusersetinfo) и структуры [**user \_ info \_ 3**](/windows/desktop/api/Lmaccess/ns-lmaccess-user_info_3) . обратите внимание, что начиная с Windows XP рекомендуется вместо этого использовать структуру [**USER \_ INFO \_ 4**](/windows/desktop/api/Lmaccess/ns-lmaccess-user_info_4) .
 
 Задайте ненулевое значение для члена **usri3 \_ Password с \_ истекшим сроком действия** структуры **пользователя \_ \_ 3** , используя следующий фрагмент кода:
 
@@ -74,9 +74,9 @@ void main( void )
 
 
 
- 
+ 
 
- 
+ 
 
 
 

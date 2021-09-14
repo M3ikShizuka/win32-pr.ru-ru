@@ -1,6 +1,6 @@
 ---
 title: Метод ID3DX11ThreadPump Жетворкитемкаунт (D3DX11core. h)
-description: Обратите внимание, что библиотека служебной программы D3DX (D3DX 9, D3DX 10 и D3DX 11) является устаревшей для Windows 8 и не поддерживается для приложений Магазина Windows. Возвращает количество рабочих элементов в конвейере потока.
+description: обратите внимание, что библиотека служебной программы D3DX (D3DX 9, D3DX 10 и D3DX 11) является устаревшей для Windows 8 и не поддерживается для приложений магазина Windows. Возвращает количество рабочих элементов в конвейере потока.
 ms.assetid: 04883b25-64dc-41a3-849f-710a59e9d3da
 keywords:
 - Метод Жетворкитемкаунт Direct3D 11
@@ -18,16 +18,16 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: a29668e66dd3d8c6d29cbfc69a4ef12a2fdfd18b
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "104986903"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056020"
 ---
 # <a name="id3dx11threadpumpgetworkitemcount-method"></a>Метод ID3DX11ThreadPump:: Жетворкитемкаунт
 
 > [!Note]  
-> Библиотека служебной программы D3DX (D3DX 9, D3DX 10 и D3DX 11) является устаревшей для Windows 8 и не поддерживается для приложений Магазина Windows.
+> библиотека служебной программы D3DX (D3DX 9, D3DX 10 и D3DX 11) является устаревшей для Windows 8 и не поддерживается для приложений магазина Windows.
 
  
 
@@ -58,12 +58,12 @@ UINT GetWorkItemCount();
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3DX11core. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3DX11core. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3DX11. lib</dt> </dl>   |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

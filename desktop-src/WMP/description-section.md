@@ -3,7 +3,7 @@ title: Раздел описания
 description: Раздел описания
 ms.assetid: 280a9a4d-935f-440d-a606-94aeba0007db
 keywords:
-- Обложки мобильных устройств проигрывателя Windows Media, раздел описания
+- проигрыватель Windows Media Обложки мобильных устройств, раздел описания
 - обложки, раздел описания
 - Создание обложек, раздел описания
 - Написание кода для обложек, раздел описания
@@ -12,15 +12,15 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: ce9518b6b1de128457dc3e6b3738ddab9be2a873
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103889032"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056441"
 ---
 # <a name="description-section"></a>Раздел описания
 
-Далее необходимо предоставить раздел, описывающий размер и ориентацию обложки при создании обложки для проигрывателя Windows Media 9 для Windows Mobile 2003 и более поздних версий.
+далее необходимо предоставить раздел, описывающий размер и ориентацию обложки при создании обложки для проигрыватель Windows Media 9 Series для Windows Mobile 2003 и более поздних версий:
 
 
 ```C++
@@ -43,16 +43,16 @@ ms.locfileid: "103889032"
 
 Дополнительные сведения см. в разделе [Описание](description.md) в справочнике по обложкам.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
 [**Написание кода**](writing-the-code.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

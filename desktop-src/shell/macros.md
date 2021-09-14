@@ -1,5 +1,5 @@
 ---
-description: В этом разделе описываются макросы служебной программы оболочки Windows.
+description: в этом разделе описываются макросы служебной программы Windows Shell.
 title: Макросы оболочки
 ms.topic: article
 ms.date: 05/31/2018
@@ -10,15 +10,15 @@ api_location: ''
 topic_type:
 - kbArticle
 ms.openlocfilehash: 085bca918cfa6ca1441272c3c9181226ef603ac7
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103998762"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256981"
 ---
 # <a name="shell-macros"></a>Макросы оболочки
 
-В этом разделе описываются макросы служебной программы оболочки Windows.
+в этом разделе описываются макросы служебной программы Windows Shell.
 
 ## <a name="in-this-section"></a>В этом разделе
 

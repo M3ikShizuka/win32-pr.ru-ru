@@ -1,17 +1,17 @@
 ---
-description: Загрузка файла проекта
+description: загрузка файла Project
 ms.assetid: f8d142bd-e51d-4714-893b-8e3d02506891
-title: Загрузка файла проекта
+title: загрузка файла Project
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 8f9a710795a29481740bf85390cc7122cc801a22
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "104262380"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055444"
 ---
-# <a name="loading-a-project-file"></a>Загрузка файла проекта
+# <a name="loading-a-project-file"></a>загрузка файла Project
 
 \[Этот API не поддерживается и может быть изменен или недоступен в будущем.\]
 
@@ -40,11 +40,11 @@ pXML->Release();
 
 Если метод **ReadXml** успешно выполнен, он возвращает код успешного выполнения. В противном случае возвращается код ошибки, такой как VFW \_ E \_ Недопустимый \_ \_ Формат файла. Всегда проверяйте возвращаемое значение, чтобы правильно обработать состояние ошибки. Опять же, для краткости пример кода не проверяет наличие ошибок.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
-[Загрузка и предварительный просмотр проекта](loading-and-previewing-a-project.md)
+[Загрузка и предварительный просмотр Project](loading-and-previewing-a-project.md)
 </dt> </dl>
 
  

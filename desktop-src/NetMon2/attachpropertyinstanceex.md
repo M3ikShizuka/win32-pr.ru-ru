@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Nmapi.dll
-ms.openlocfilehash: e184ec0b874d55d149c9d049b8c6b2cafd716fe82c66410e2d3e1550b397c366
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 1e0841c49e54d10d38a56d6206bc255b0aa7c49a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119911284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057311"
 ---
 # <a name="attachpropertyinstanceex-function"></a>Функция Аттачпропертинстанцеекс
 
@@ -132,7 +132,7 @@ BOOL WINAPI AttachPropertyInstanceEx(
 
 Если функция завершается неудачно, возвращается значение **false**.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция **аттачпропертинстанцеекс** вызывается во время реализации функции экспорта [**аттачпропертиес**](attachproperties.md) . При присоединении свойства к данным с помощью Аттачпропертинстанцеекс сетевой монитор создает структуру [**пропертинст**](propertyinst.md) , которая определяет экземпляр присоединенного свойства и структуру [**пропертинстекс**](propertyinstex.md) , определяющую Расширенные данные.
 

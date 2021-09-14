@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 474213b35a4a3847e3c34b6d5bff53ae431084028869f2a5357e9a9a772f9e07
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 743a944da52bc6d2ae13b045f854d95b4751712d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117732035"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969806"
 ---
 # <a name="d3dxcreatetexturefromfileinmemory-function"></a>Функция D3DXCreateTextureFromFileInMemory
 
@@ -85,7 +85,7 @@ HRESULT D3DXCreateTextureFromFileInMemory(
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может быть одним из следующих: D3DERR \_ NOTAVAILABLE, D3DERR \_ АУТОФВИДЕОМЕМОРИ, D3DERR \_ инвалидкалл, D3DXERR \_ INVALIDDATA, E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция эквивалентна D3DXCreateTextureFromFileInMemoryEx (Пдевице, Псркдата, Сркдатасизе, D3DX \_ Default, D3DX \_ по умолчанию, D3DX \_ по умолчанию, 0, D3DFMT \_ Unknown, D3DPOOL \_ управляемые, D3DX \_ Default, D3DX \_ по умолчанию, 0, **null**, **null**, пптекстуре).
 

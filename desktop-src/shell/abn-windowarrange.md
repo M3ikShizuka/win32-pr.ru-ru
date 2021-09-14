@@ -13,12 +13,12 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 27c679b7ccdb5eb92ebe87676cd136c71adcda862472f6f300056511001a683a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9e7d19c7233b235a1a73e160eeacb3c51415d0bf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118225025"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257089"
 ---
 # <a name="abn_windowarrange-message"></a>\_Сообщение АБН виндоварранже
 
@@ -50,7 +50,7 @@ ABN_WINDOWARRANGE
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Система отправляет это сообщение с уведомлением дважды, если параметру *lParam* присвоено значение **true** , а параметру *lParam* присвоено значение **false**. Первое уведомление отправляется до каскадного или мозаичного разбиения окон, а второе отправляется после выполнения операции Cascade или плитки.
 

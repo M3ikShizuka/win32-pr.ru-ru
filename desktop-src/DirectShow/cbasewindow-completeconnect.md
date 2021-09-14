@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 5e04e0adf1d11a4878d860dd5c8a1eea9395095c71d8b5c86d6023a24ccdb28c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 15d5719ab78c3e95cd0128d4075797221af1f4c2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119016712"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971802"
 ---
 # <a name="cbasewindowcompleteconnect-method"></a>Кбасевиндов. Комплетеконнект, метод
 
@@ -44,11 +44,11 @@ HRESULT CompleteConnect();
 
 Возвращает значение S \_ ОК.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод сбрасывает флаг активации окна ([**кбасевиндов:: m \_ бактиватед**](cbasewindow-m-bactivated.md)) в **значение false**. Когда модуль подготовки видео завершает соединение с закреплением, он может вызвать метод [**кбасевиндов:: активатевиндов**](cbasewindow-activatewindow.md) , чтобы задать размер и расположение окна. Чтобы принудительно выполнить **активатевиндов** для повторного вычисления этих атрибутов, сначала вызовите `CompleteConnect` метод.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ HRESULT CompleteConnect();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

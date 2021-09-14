@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Win32_tpm.dll
-ms.openlocfilehash: b319811585ad3948f4fe25d55874ca22c1c8e9166120823ae2e8434830f39e2e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6b42d3b5256aa9db1fd41ee4d4c41e358c045c32
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119004322"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056935"
 ---
 # <a name="removeblockedcommand-method-of-the-win32_tpm-class"></a>Метод Ремовеблоккедкомманд \_ класса TPM Win32
 
@@ -207,11 +207,11 @@ uint32 RemoveBlockedCommand(
 
  
 
-## <a name="security-considerations"></a>Соображения безопасности
+## <a name="security-considerations"></a>Вопросы безопасности
 
 Внесение изменений в список заблокированных команд по умолчанию может представлять угрозу безопасности и конфиденциальности компьютера.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 файлы MOF-файл (MOF) содержат определения для классов инструментарий управления Windows (WMI) (WMI). MOF-файлы не устанавливаются в составе Windows SDK. Они устанавливаются на сервере при добавлении связанной роли с помощью диспетчер сервера. Дополнительные сведения о файлах MOF см. в разделе [MOF-файл (MOF)](../wmisdk/managed-object-format--mof-.md).
 
@@ -229,7 +229,7 @@ uint32 RemoveBlockedCommand(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

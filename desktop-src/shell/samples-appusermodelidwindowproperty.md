@@ -9,12 +9,12 @@ api_type: ''
 api_location: ''
 topic_type:
 - kbArticle
-ms.openlocfilehash: a6a4b0daca8b6bd4147c1e36d921b58b3802d975e678e49a9b9153761e61820d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 42544992248143c95ae905db39fe854b27751862
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118219884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256930"
 ---
 # <a name="application-user-model-id-appid-window-property-sample"></a>Пример свойства окна идентификатора модели пользователя приложения (AppID)
 
@@ -23,7 +23,7 @@ ms.locfileid: "118219884"
 В этом разделе содержатся следующие подразделы.
 
 -   [Описание](#description)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Загрузка образца](#downloading-the-sample)
 -   [Создание примера](#building-the-sample)
 -   [Запуск примера](#running-the-sample)
@@ -33,7 +33,7 @@ ms.locfileid: "118219884"
 
 В этом примере показано, как задать свойство [System.AppUserModel.ID](../properties/props-system-appusermodel-id.md) с помощью реализации [**ипропертисторе**](/windows/win32/api/propsys/nn-propsys-ipropertystore) окна, полученной с помощью [**шжетпропертисторефорвиндов**](/windows/win32/api/shellapi/nf-shellapi-shgetpropertystoreforwindow).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

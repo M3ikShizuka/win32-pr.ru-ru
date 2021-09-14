@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3DX10Math.h
-ms.openlocfilehash: 00e8c2325b395a929af42abda4218a2458a8d964116a04f28ebac1ff72a877f8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bc38f0ef634763d9a5be85795a897b483431aede
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117914697"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056084"
 ---
 # <a name="d3dxvec3transformarray-function-d3dx10mathh"></a>Функция D3DXVec3TransformArray (D3DX10Math. h)
 
@@ -104,7 +104,7 @@ D3DXVECTOR4* D3DXVec3TransformArray(
 
 Указатель на преобразованный массив [**D3DXVECTOR4**](d3d10-d3dxvector4.md) .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция преобразует массив ПС (x, y, z, 1) матрицей pM.
 
@@ -120,7 +120,7 @@ D3DXVECTOR4* D3DXVec3TransformArray(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

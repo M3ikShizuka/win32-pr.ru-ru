@@ -4,12 +4,12 @@ ms.assetid: 08347831-7100-4220-a83b-693bb7b98ccb
 title: Масштабирование цветов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7877db07ff1a11dcb985f8b0ca8ec3cc017f25fe45f00e989c9108891f8ff1ca
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 370155306f7b1a177358d7cf28d329ebb0d75f8c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119036372"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248662"
 ---
 # <a name="scaling-colors"></a>Масштабирование цветов
 
@@ -71,7 +71,7 @@ graphics.DrawImage(
 
 
 
-| Исходное значение           | Масштабировать             |
+| До преобразования           | Масштабировать             |
 |--------------------|--------------------|
 | (0.4, 0.4, 0.4, 1) | (0.4, 0.4, 0.8, 1) |
 | (0.4, 0.2, 0.2, 1) | (0.4, 0.2, 0.4, 1) |
@@ -125,7 +125,7 @@ graphics.DrawImage(
 
 
 
-| Исходное значение           | Масштабировать               |
+| До преобразования           | Масштабировать               |
 |--------------------|----------------------|
 | (0.6, 0.6, 0.6, 1) | (0.45, 0.39, 0.3, 1) |
 | (0, 1, 1, 1)       | (0, 0.65, 0.5, 1)    |

@@ -11,12 +11,12 @@ keywords:
 - выходные числа и форматы, сведения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 274e5b4980ef14126006d3f19fe0717aa9eb6fd5c1a8f7baaf91e35084faeacb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2d089a645838a295e07eb740927d75238473cc4f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118697728"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247171"
 ---
 # <a name="working-with-outputs"></a>Работа с выходами
 

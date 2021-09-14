@@ -4,12 +4,12 @@ ms.assetid: 00427337-8f5a-41c9-a303-378a37be1913
 title: Свойство MFPKEY_DYN_ALLOW_PCMRANGELIMITING (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: da5f6d44b9e75188ba3611b2af78c6c35bf8f40f98a587891a1e9c9206d72ebf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 40c9c3e9dbae3bf0637614602832cf9b08e23a58
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118738227"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257560"
 ---
 # <a name="mfpkey_dyn_allow_pcmrangelimiting-property"></a>МФПКЭЙ \_ Дин \_ Разрешить \_ свойство пкмранжелимитинг
 
@@ -23,14 +23,14 @@ ms.locfileid: "118738227"
 
 **Логическое значение VT \_**
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------|-----------------------------------------------------------------------------------------|
 | Клиент<br/> | Windows Vista или Windows 7<br/>                                                   |
-| Header<br/> | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
 
 
 

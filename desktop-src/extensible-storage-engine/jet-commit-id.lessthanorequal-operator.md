@@ -26,11 +26,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 872ded299fc36295ea56500605f23af37feb0962
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103815616"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055738"
 ---
 # <a name="jet_commit_idlessthanorequal-operator"></a>JET_COMMIT_ID. LessThanOrEqual, оператор
 
@@ -81,7 +81,7 @@ public static bool operator <=(
 Тип: [System. Boolean](/dotnet/api/system.boolean)  
 Значение true, если LHS предшествует или равен RHS.  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

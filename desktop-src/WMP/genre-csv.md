@@ -3,18 +3,18 @@ title: genre.csv
 description: genre.csv
 ms.assetid: e05517f4-a69b-4db7-943d-3490253b92f3
 keywords:
-- Интернет-магазины проигрывателя Windows Media, genre.csv
+- проигрыватель Windows Media интернет-магазинов, genre.csv
 - Интернет-магазины, genre.csv
 - Введите 1 Интернет-магазины, genre.csv
 - genre.csv
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 3a077cadccc0b2da318e60ca2e0636d96319e5b0
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103986686"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056389"
 ---
 # <a name="genrecsv"></a>genre.csv
 

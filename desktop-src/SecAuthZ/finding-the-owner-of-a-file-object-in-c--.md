@@ -4,12 +4,12 @@ ms.assetid: b0dbc785-58a7-4f39-ab39-b96abece5b93
 title: Поиск владельца объекта файла в C++
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2fa4b63de3f16629d3de2102521477ff8ed90e2ca5af8e858ebed63038be7cfd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5518617db099d3580ce0e82b5376df5f4f3eaf58
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117781669"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057077"
 ---
 # <a name="finding-the-owner-of-a-file-object-in-c"></a>Поиск владельца объекта файла в C++
 

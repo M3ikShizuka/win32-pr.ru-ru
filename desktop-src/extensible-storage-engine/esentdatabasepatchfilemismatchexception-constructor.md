@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 42f410ef2de07a5427d7234ff40c179ecbfb1842ad4b150d73b263d71b7a3d3f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1bf1e1888838cff0567a92c535c17c4ffa207e9e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119116174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249031"
 ---
 # <a name="esentdatabasepatchfilemismatchexception-constructor"></a>Конструктор Есентдатабасепатчфилемисматчексцептион
 
@@ -54,7 +54,7 @@ public EsentDatabasePatchFileMismatchException()
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Есентдатабасепатчфилемисматчексцептион](./esentdatabasepatchfilemismatchexception-class.md)
 

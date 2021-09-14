@@ -9,12 +9,12 @@ api_type: ''
 api_location: ''
 topic_type:
 - kbArticle
-ms.openlocfilehash: 3698a89566b65a8a263d39b3957285d4ffde07fda1ff754792b545959b987d85
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: af4b1f13daf9cd0ec99dce542195d5e5e374a6d7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117858263"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256891"
 ---
 # <a name="shell-storage-sample"></a>Пример: сохранение данных с помощью оболочки
 
@@ -22,7 +22,7 @@ ms.locfileid: "117858263"
 
 В этом разделе содержатся следующие подразделы.
 
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Загрузка образца](#downloading-the-sample)
 -   [Создание примера](#building-the-sample)
 -   [Запуск примера](#running-the-sample)

@@ -4,12 +4,12 @@ ms.assetid: c088c15b-0eef-4a92-bb65-e7fe871afbfe
 title: новые возможности установщик Windows 5,0
 ms.topic: article
 ms.date: 11/08/2019
-ms.openlocfilehash: 82c6ae3bf5c6781ba84d18b366998c74deedd4ca0fa4c61ac452b1d0ec409850
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ae7986cec60341127ab00ad08a3032aad80209bc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119145227"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057542"
 ---
 # <a name="whats-new-in-windows-installer-50"></a>новые возможности установщик Windows 5,0
 

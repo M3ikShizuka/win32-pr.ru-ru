@@ -4,12 +4,12 @@ description: Компьютеры могут быть организованы �
 ms.assetid: 296ecfd0-1b65-482c-bee1-eff2130cc14e
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 434bdff00483b38ef12355af4dcda4a48d60bf849a8fd5d6829640ae8907e426
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3cb2daa6bc2bc7d7255e961537c641a999d5a0bb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119012522"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057360"
 ---
 # <a name="looking-up-a-users-full-name"></a>Поиск полного имени пользователя
 

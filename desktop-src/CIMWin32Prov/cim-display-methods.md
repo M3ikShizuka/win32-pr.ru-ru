@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Методы CIM_Display
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3ee33c9bf1e8620b7e95a84d8b79b68bb1aaab14fa35221683ec3cc651ebd8fe
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ad365a4664f2493776a186d190387c53a188229c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119924134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972313"
 ---
 # <a name="cim_display-methods"></a>\_Методы вывода CIM
 

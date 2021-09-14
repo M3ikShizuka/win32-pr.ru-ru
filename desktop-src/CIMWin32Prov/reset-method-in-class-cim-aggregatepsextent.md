@@ -15,11 +15,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 376ac4f0180e92f1b67a13e4fbf98a2912ee4ade
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103896509"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054888"
 ---
 # <a name="reset-method-of-the-cim_aggregatepsextent-class"></a>Метод Reset \_ класса CIM аггрегатепсекстент
 
@@ -67,7 +67,7 @@ uint32 Reset();
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

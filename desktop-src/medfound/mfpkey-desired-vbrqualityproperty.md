@@ -4,12 +4,12 @@ ms.assetid: 0bbb4f51-78c3-4455-bd96-9a6d80110220
 title: Свойство MFPKEY_DESIRED_VBRQUALITY (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4f52ab8cc791a5309b5df6537d133bce68e49d66a15ab79c12beeb7411cece8e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8aa0f2cf86db076fa211f9c850db15de730a3a14
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119939951"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257579"
 ---
 # <a name="mfpkey_desired_vbrquality-property"></a>МФПКЭЙ \_ нужное \_ вбркуалити свойство
 
@@ -27,7 +27,7 @@ ms.locfileid: "119939951"
 
 0
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это значение может быть от 0 до 100, где 100 — максимальное качество. Значение 0 указывает, что метод кодирования VBR с учетом качества не должен использоваться.
 
@@ -37,7 +37,7 @@ ms.locfileid: "119939951"
 -   Установите для параметра [**мфпкэй \_ ограничение \_ перечисления \_ вбркуалити**](mfpkey-constrain-enumerated-vbrqualityproperty.md) значение **Variant \_ true**.
 -   Задайте требуемое качество для **мфпкэй \_ \_ вбркуалити** . Для режимов без потерь задайте нужное качество равным 100.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -49,7 +49,7 @@ ms.locfileid: "119939951"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 6cc0a601ee1adbff9254baeff029c26d0cea359c7b2770b4d518bad916aca09f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6b10e9dfd43f3ad98adf8f6abb0eb7c2223d5970
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119074288"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053511"
 ---
 # <a name="cdynamicoutputpinblock-method"></a>Метод Кдинамикаутпутпин. Block
 
@@ -79,7 +79,7 @@ HRESULT Block(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Дополнительные сведения об этом методе см. в разделе [**ипинфловконтрол:: Block**](/windows/desktop/api/Strmif/nf-strmif-ipinflowcontrol-block). На внутреннем уровне этот метод вызывает один из следующих защищенных методов:
 
@@ -89,7 +89,7 @@ HRESULT Block(
 
 Разблокировка всегда выполняется синхронно.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -100,7 +100,7 @@ HRESULT Block(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

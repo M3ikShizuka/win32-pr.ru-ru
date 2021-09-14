@@ -10,12 +10,12 @@ keywords:
 - элементы, BUTTONGROUP
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6021d29322b98fe4cea96a67998aaf82fbd11e1abe397578a9b0f8999179ee1f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a4de489e779b5e20214778b56fd8d19c7627e444
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118120048"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056446"
 ---
 # <a name="buttongroup-element"></a>BUTTONGROUP, элемент
 
@@ -60,7 +60,7 @@ ms.locfileid: "118120048"
 
 Элемент **BUTTONGROUP** поддерживает атрибуты окружения и может реализовывать обработчики событий окружения. Дополнительные сведения см. в разделе [атрибуты окружения](ambient-attributes.md) и [обработчики событий окружения](ambient-event-handlers.md).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

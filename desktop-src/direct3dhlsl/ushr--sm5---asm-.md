@@ -4,12 +4,12 @@ description: Сдвиг вправо. | ушр (SM5-ASM)
 ms.assetid: C695CB6C-A6C9-4DC8-8EBE-70A0CFFC4981
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7b4f0cacaa785b34eb8910f12ecfe3578bd47781e41110adc71f4a7a7d52858a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f33c627ec4aa985b5ac8a27cf0babd6219c9247c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118283050"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055922"
 ---
 # <a name="ushr-sm5---asm"></a>ушр (SM5-ASM)
 
@@ -69,7 +69,7 @@ ms.locfileid: "118283050"
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

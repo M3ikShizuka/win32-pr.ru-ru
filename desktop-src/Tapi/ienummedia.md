@@ -4,12 +4,12 @@ ms.assetid: 827f8866-2445-4b7c-88fe-eed19f48c93b
 title: Интерфейс Иенуммедиа (Сдпблб. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6e180e861e452d841153127f6476ed5d8f5924480877eac78c4634e86437189f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a7127e7d1d751ee487ad5b86326602cfcfe5aae0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119660754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056717"
 ---
 # <a name="ienummedia-interface"></a>Интерфейс Иенуммедиа
 
@@ -34,13 +34,13 @@ ms.locfileid: "119660754"
 | [**Клонировать**](ienummedia-clone.md) | Создает другой перечислитель с тем же состоянием перечисления, что и текущий.<br/> |
 | [**Далее**](ienummedia-next.md)   | Возвращает указанное число следующих элементов в последовательности перечисления.<br/>                 |
 | [**Перезапуск**](ienummedia-reset.md) | Выполняет сброс до начала последовательности перечисления.<br/>                                    |
-| [**Сразу**](ienummedia-skip.md)   | Пропускает следующее заданное число элементов в последовательности перечисления.<br/>           |
+| [**Пропустить**](ienummedia-skip.md)   | Пропускает следующее заданное число элементов в последовательности перечисления.<br/>           |
 
 
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

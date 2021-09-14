@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 299233ff4344f44535933221141534ab2b0173ba54e47c9cc340020a2f462eb3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f9ceecca32f2455d73ca1dce76a4f8a17613a1ee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119619824"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056467"
 ---
 # <a name="iwmdrmdevicegetdevicecertificate-method"></a>Метод Ивмдрмдевице:: Жетдевицецертификате
 
@@ -75,7 +75,7 @@ HRESULT GetDeviceCertificate(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

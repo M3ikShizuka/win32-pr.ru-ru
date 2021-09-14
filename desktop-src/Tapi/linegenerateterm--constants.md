@@ -4,12 +4,12 @@ ms.assetid: 5cdc43c0-2349-4ffc-9bf7-3b498b35db95
 title: Константы LINEGENERATETERM_ (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1c34d119f503c677e5c251bb494c5ea991dbd0fccf0bfbdb3affecf4c4ff1914
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6804b09879471a77780a95ca4ed35b7aaa5b6e1a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119518974"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056701"
 ---
 # <a name="linegenerateterm_-constants"></a>\_Константы линеженератетерм
 
@@ -37,11 +37,11 @@ ms.locfileid: "119518974"
 
 </dt> </dl> </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Без расширяемости. Все 32 бит зарезервированы.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

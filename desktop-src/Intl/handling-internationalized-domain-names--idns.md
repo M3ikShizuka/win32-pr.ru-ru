@@ -4,12 +4,12 @@ ms.assetid: e0ca356e-f8c1-4845-ae1e-ce2ae8987515
 title: Обработка международных доменных имен (IDNs)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6310cf74e39758dc6974a1247fe9a5b506276f5c3da55d546d6bc6c2b5a8c992
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 95e853f0ea3f62fc3e5ee848431417cc031eaa5a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119898593"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055380"
 ---
 # <a name="handling-internationalized-domain-names-idns"></a>Обработка международных доменных имен (IDNs)
 
@@ -74,7 +74,7 @@ IDNs не может содержать неназначенные кодовы�
 
 В [примере преобразования NLS: международного доменного имени (IDN)](nls--internationalized-domain-name--idn--conversion-sample.md) демонстрируется использование функций преобразования IDN. В [примере защиты NLS: международного доменного имени (IDN)](nls--internationalized-domain-name--idn--mitigation-sample.md) показано использование функций предотвращения использования IDN.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

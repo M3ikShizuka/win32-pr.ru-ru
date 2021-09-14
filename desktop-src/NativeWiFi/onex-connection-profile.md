@@ -12,12 +12,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 500e714b6f0728104987f53ff0a8c0e7083c1af5996679a78a986b5674d54514
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 21e02a1f09d3439c64fb8124cd0cfc8140732be9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119684894"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057412"
 ---
 # <a name="onex_connection_profile-structure"></a>\_ \_ Структура профиля подключения ONEX
 
@@ -59,7 +59,7 @@ typedef struct _ONEX_CONNECTION_PROFILE {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -275,7 +275,7 @@ typedef struct _ONEX_CONNECTION_PROFILE {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 структура **\_ \_ профиля подключения ONEX** используется модулем 802.1 x, новым компонентом настройки беспроводной связи, поддерживаемым в Windows Vista и более поздних версиях.
 
@@ -285,7 +285,7 @@ typedef struct _ONEX_CONNECTION_PROFILE {
 
 Структура **\_ \_ профиля подключения ONEX** не определена в файле общедоступного заголовка.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -296,7 +296,7 @@ typedef struct _ONEX_CONNECTION_PROFILE {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

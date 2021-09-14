@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f5c48a21a1bba0c6dd1af3fd567ea853dc922591c553ea11a935fb705ad65bf6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b55d5b1d781e7749df97bd0c9f7782f56545dbee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118411398"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054088"
 ---
 # <a name="lvm_getgroupinfo-message"></a>\_Сообщение LVM жетграупинфо
 
@@ -39,7 +39,7 @@ ms.locfileid: "118411398"
 
 Возвращает идентификатор группы в случае успеха или значение-1 в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Прежде чем пытаться получить заголовок для группы, сначала убедитесь, что у группы нет \_ стиля лбгс.
 
@@ -56,7 +56,7 @@ ms.locfileid: "118411398"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

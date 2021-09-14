@@ -4,12 +4,12 @@ ms.assetid: 054e445e-fc71-4d4f-9e9f-f5ff71f0b4ee
 title: Свойство MFPKEY_CONSTRAINDECLATENCY (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: aa96418b3709bdf1d9672c8753f1c968279e1c395492843b4b71560512a04342
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 343bcc9bd365b9f1321b200baa203fc27784594c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117690426"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257691"
 ---
 # <a name="mfpkey_constraindeclatency-property"></a>МФПКЭЙ \_ констраиндеклатенци, свойство
 
@@ -27,7 +27,7 @@ ms.locfileid: "117690426"
 
 **ВАРИАНТ \_ false**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если оставить это свойство по умолчанию со значением **Variant \_ false**, кодировщик перечислит набор режимов по умолчанию примерно 1500 миллисекунд для задержки декодера. Если для этого свойства задать значение **\_ true**, необходимо также указать максимальную задержку декодера, задав свойство [**мфпкэй \_ максдеклатенцимс**](mfpkey-maxdeclatencymsproperty.md) . В этом случае кодировщик создает режимы, которые отвечают требованиям к задержке, и перечисляет только эти режимы. Кодировщик гарантирует, что преддостаточные требования (размер буфера декодера) меньше или равны **мфпкэй \_ максдеклатенцимс**.
 
@@ -43,7 +43,7 @@ ms.locfileid: "117690426"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

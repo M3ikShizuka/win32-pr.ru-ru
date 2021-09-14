@@ -8,12 +8,12 @@ keywords:
 - Имя субъекта-службы AD, составление имен субъектов-служб для службы с SCP
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9e48175bc5fa3d686aab104f8e025d66d7900162235292ed5b853c3284285cd9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d0a9c44bc603372af35e874acfea4c1e12a2433d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118022224"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970417"
 ---
 # <a name="composing-the-spns-for-a-service-with-an-scp"></a>Составление имен участников-служб для службы с SCP
 

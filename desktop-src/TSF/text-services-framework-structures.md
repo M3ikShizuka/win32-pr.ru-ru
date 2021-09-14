@@ -11,12 +11,12 @@ keywords:
 - Приложения с поддержкой TSF, структуры
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f8bebda3e8cc8d6e5648ea3ee2861a1e35183833ff00227c87cde11531ffb43e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7fa79f9ba539a9d8997b515821799bf66a293915
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118874814"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056776"
 ---
 # <a name="text-services-framework-structures"></a>Структуры платформы текстовых служб
 

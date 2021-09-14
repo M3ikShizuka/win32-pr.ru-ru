@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1ff38ee7634f31da7717bfca015ebaacd88796d9c8186faef155704a449bbb07
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0472f90f94b5c4ba56948848476b6585502427c7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118838629"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241021"
 ---
 # <a name="equalizersettingscrossfade"></a>ЕКУАЛИЗЕРСЕТТИНГС. плавный переход
 
@@ -42,7 +42,7 @@ ms.locfileid: "118838629"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Перекрестное выцветание — это функция обработки звука, которая постепенно уменьшает объем одного элемента мультимедиа рядом с концом его воспроизведения, одновременно запуская воспроизведение следующего элемента мультимедиа на минимальном Томе и постепенно увеличивая его до обычного тома. Перекрытие между началом второго элемента мультимедиа и концом первого элемента мультимедиа задается атрибутом **кроссфадевиндов** .
 

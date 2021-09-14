@@ -4,12 +4,12 @@ ms.assetid: 8985fee5-7b63-46ab-b229-046e2f0ee004
 title: Событие InkEdit. MouseDown (с. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2a1adb35b6d431007fb4bdc259d72ddce25e3bc480a6596d2c4658cd19a3789e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 78e684fe2d75e5eaaf2b0064e8c7c78cbfe281a5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118717954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256705"
 ---
 # <a name="inkeditmousedown-event"></a>InkEdit. MouseDown, событие
 
@@ -33,7 +33,7 @@ HRESULT MouseDown(
 
 <dl> <dt>
 
-*Кнопка* 
+*Button* 
 </dt> <dd>
 
 Элемент перечисления [**маусебуттон**](/windows/desktop/api/inked/ne-inked-mousebutton) , указывающий, какие кнопки мыши были нажаты.
@@ -90,7 +90,7 @@ HRESULT MouseDown(
 
 Если это событие завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При нажатии кнопки мыши в тот момент, когда указатель наведен на элемент управления [InkEdit](inkedit-control-reference.md) , этот элемент управления захватывает мышь и получает все события мыши вплоть до последнего события [**MouseUp**](inkedit-mouseup.md) . Это означает, что координаты указателя мыши (x, y), возвращаемые событием мыши, могут не всегда находиться во внутренней области объекта, получающего их.
 
@@ -106,7 +106,7 @@ HRESULT MouseDown(
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                                                 |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                                     |
-| Header<br/>                   | <dl> <dt>«С». h (также требует \_ ввода i. c)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>«С». h (также требует \_ ввода i. c)</dt> </dl> |
 | Библиотека<br/>                  | <dl> <dt>InkEd.dll</dt> </dl>                          |
 
 

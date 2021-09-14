@@ -15,16 +15,16 @@ api_type:
 - NA
 api_location: ''
 ms.openlocfilehash: 2ecc5d185a3fd0a1db0ce80c11edd57019d6a4d9
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "105672357"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057340"
 ---
 # <a name="neterrorlogclear"></a>нетеррорлогклеар
 
 Функция **нетеррорлогклеар** устарела. Он включен для обеспечения совместимости с 16-разрядными версиями Windows. Другие приложения должны использовать [ведение журнала событий](/windows/desktop/EventLog/event-logging).
 
- 
+ 
 
- 
+ 

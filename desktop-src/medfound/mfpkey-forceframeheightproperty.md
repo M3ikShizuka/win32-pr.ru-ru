@@ -4,12 +4,12 @@ ms.assetid: 7382ec31-6d59-4e8c-94eb-804786074038
 title: Свойство MFPKEY_FORCEFRAMEHEIGHT (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d6e3d423fe96173829b31a889764d5423db88b5c882d853b3e0f770d17dd4691
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c8e4662ce56ea4c20d44abdd05641219bc6b94ee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119463454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257536"
 ---
 # <a name="mfpkey_forceframeheight-property"></a>МФПКЭЙ \_ форцефрамехеигхт, свойство
 
@@ -23,7 +23,7 @@ g \_ всзвмвкфорцефрамехеигхт
 
 VT \_ I4
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Вы можете задать это значение и свойство [мфпкэй \_ форцефрамевидс](mfpkey-forceframewidthproperty.md) , чтобы заставить кодировщик кодировать видеопоток размером кадра, размер которого меньше, чем размер кадра ввода или вывода. При декодировании видео будет изменено до исходного разрешения ввода.
 

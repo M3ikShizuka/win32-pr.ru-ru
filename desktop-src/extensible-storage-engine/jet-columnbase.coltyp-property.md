@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 2e222063abe920d03b29174d21ee6367f3f160f1df61c56ba3fb46f622db0ad7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d50a9ea77b7c466b26668c564f7ec251cb3ca8af
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119731454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055744"
 ---
 # <a name="jet_columnbasecoltyp-property"></a>Свойство JET_COLUMNBASE. колтип
 
@@ -62,7 +62,7 @@ public JET_coltyp coltyp { get; internal set; }
 
 Тип: [Microsoft.ISAM.ESENT.Interop.JET_coltyp](./jet-coltyp-enumeration.md)  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

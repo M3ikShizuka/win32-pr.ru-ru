@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - dvdevcode.h
-ms.openlocfilehash: 6911d4ad044e0b2080007f9751bd7090b182d8474673da98d35dd91544947e03
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c98d32960e2ab6a21633899164b3ff84525f2aaf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119997924"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971538"
 ---
 # <a name="ec_dvd_disc_inserted"></a>\_вставлен DVD- \_ диск \_ EC
 
@@ -42,7 +42,7 @@ ms.locfileid: "119997924"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Воспроизведение начинается автоматически при вставке диска. Приложению не нужно предпринимать никаких специальных действий в ответ на это событие.
 

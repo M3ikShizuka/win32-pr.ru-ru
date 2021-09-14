@@ -4,12 +4,12 @@ ms.assetid: 949dddec-840e-4f5a-9ab8-e1962a10b599
 title: Завершение кода сервера Winsock
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bdfa5714369f7b9565502ee086eae2ce83db47100402571dad6c5a308de86d0e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4f1521bc8cdfc47ad64aff38a696cc01a867404a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118112537"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056255"
 ---
 # <a name="complete-winsock-server-code"></a>Завершение кода сервера Winsock
 
@@ -160,7 +160,7 @@ int __cdecl main(void)
 
 
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

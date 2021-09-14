@@ -9,12 +9,12 @@ api_type: ''
 api_location: ''
 topic_type:
 - kbArticle
-ms.openlocfilehash: d2cb9a1a89f122d41066de75002ea0ed2c575a6208a06f0be99b5c7c7bfd2b97
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 42dc86cb1e777f3580a7f6fb349310621b703913
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117858587"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256906"
 ---
 # <a name="common-file-dialog-sample"></a>Пример: стандартное диалоговое окно выбора файла
 
@@ -22,13 +22,13 @@ ms.locfileid: "117858587"
 
 В этом разделе содержатся следующие подразделы.
 
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Загрузка образца](#downloading-the-sample)
 -   [Создание примера](#building-the-sample)
 -   [Запуск примера](#running-the-sample)
 -   [Связанные темы](#related-topics)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

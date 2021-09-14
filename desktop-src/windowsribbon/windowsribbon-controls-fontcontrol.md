@@ -5,11 +5,11 @@ ms.assetid: 6052f2e3-2c9e-432e-9ed6-c1e3a50843d9
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 106163c03c506e438ffcffa261ebd7e3a2115e2a
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122470730"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256450"
 ---
 # <a name="font-control"></a>Элемент управления шрифтами
 
@@ -424,7 +424,7 @@ ms.locfileid: "122470730"
 
 | Дополнительный элемент управления | Keytip | 
 |-------------|--------|
-| Семейство шрифтов | C | 
+| Семейство шрифтов | F | 
 | Стиль шрифта | T | 
 | Размер шрифта | S | 
 | Увеличить шрифт | G | 
@@ -434,7 +434,7 @@ ms.locfileid: "122470730"
 | Underline | U | 
 | Зачеркнутый | X | 
 | Надстрочный | Y или Z<blockquote>[!Note]<br />Если атрибут <em>KeyTip</em> не объявлен в разметке, keytip по умолчанию имеет значение Y; в противном случае KeyTip по умолчанию — <em>KeyTip</em> + Z.</blockquote><br /> | 
-| Подстрочный | А | 
+| Подстрочный | Объект | 
 | Цвет шрифта | C | 
 | Выделение шрифта | H | 
 
@@ -535,7 +535,7 @@ FCSAMPLE_RIBBON    UIFILE    "Debug\\FCSample.bml"
 | **Сжать шрифт**          | [\_ \_ Размер фонтпропертиес пользовательского интерфейса PKEY \_](windowsribbon-reference-properties-uipkey-fontproperties-size.md)                                                                                                                                                                    | См. **Размер шрифта**.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | **Полужирный**                 | [Пользовательский интерфейс \_ PKEY \_ фонтпропертиес \_ Bold](windowsribbon-reference-properties-uipkey-fontproperties-bold.md)                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **Наклонный**               | [Пользовательский интерфейс \_ PKEY \_ фонтпропертиес \_ курсивом](windowsribbon-reference-properties-uipkey-fontproperties-italic.md)                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| **Underline**            | [Подчеркивание пользовательского интерфейса \_ PKEY \_ фонтпропертиес \_](windowsribbon-reference-properties-uipkey-fontproperties-underline.md)                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Начертан**            | [Подчеркивание пользовательского интерфейса \_ PKEY \_ фонтпропертиес \_](windowsribbon-reference-properties-uipkey-fontproperties-underline.md)                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **Зачеркнутый**        | [Пользовательский интерфейс \_ PKEY \_ фонтпропертиес \_ Зачеркнутый](windowsribbon-reference-properties-uipkey-fontproperties-strikethrough.md)                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **Индекс**            | [UI \_ PKEY \_ фонтпропертиес \_ вертикалпоситионинг](windowsribbon-reference-properties-uipkey-fontproperties-verticalpositioning.md)                                                                                                                                      | Если задана кнопка « **индекс** », то **Надстрочный индекс** также не может быть установлен.                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | **Надстрочный**          | [UI \_ PKEY \_ фонтпропертиес \_ вертикалпоситионинг](windowsribbon-reference-properties-uipkey-fontproperties-verticalpositioning.md)                                                                                                                                      | Если задана кнопка **надстрочного скрипта** , то этот **индекс** также не может быть установлен.                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |

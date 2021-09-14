@@ -4,12 +4,12 @@ ms.assetid: 8eaeacb3-43db-4a57-8548-e5b81213269c
 title: О веб-службах на устройствах
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3c7facef3bfed004a834e151db0c58c83a1576e515ed89fa0d690813bc4c18bd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dca7f7dc97dabd3dde7af12f3cece992b4f0ef6d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118552524"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249328"
 ---
 # <a name="about-web-services-on-devices"></a>О веб-службах на устройствах
 
