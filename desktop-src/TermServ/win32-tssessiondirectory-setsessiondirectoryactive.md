@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3ae44c471c653a3fcdfbab33ab70178b53c95715cce7cfba63defa9c96c1ab23
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9ca8709028ee90db549c7cdeb053b04dc88b52ab
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119769354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243421"
 ---
 # <a name="setsessiondirectoryactive-method-of-the-win32_tssessiondirectory-class"></a>Метод Сетсессиондиректоряктиве \_ класса Win32 тссессиондиректори
 

@@ -4,12 +4,12 @@ ms.assetid: 3f5e9952-945e-42b8-8536-b52a0c833282
 title: Константы LINETRANSLATEOPTION_ (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 095d1cc9f3d7798dda9dd5bb69817ccfac64ae88fbc45fccccd59563cc24614d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ac1e103f2a93d30be5260b27c7bf5c0e97f3ce7a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120073024"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374773"
 ---
 # <a name="linetranslateoption_-constants"></a>\_Константы линетранслатеоптион
 
@@ -61,7 +61,7 @@ ms.locfileid: "120073024"
 
 Без расширяемости. Все 32 бит зарезервированы.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -72,7 +72,7 @@ ms.locfileid: "120073024"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

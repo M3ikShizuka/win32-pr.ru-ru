@@ -4,12 +4,12 @@ ms.assetid: 674c08df-7e91-4f19-9d65-4bc6e7af117b
 title: 'Метод Итсдп:: Сетфоненумберс (Сдпблб. h)'
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 733dfbe4752281abf4063f308a05aec73203d361e3c9c5dcebf413eb4ba2af72
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 30ec2820d8d033ac2eed9d9287c3ca52c9deb316
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119140217"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243559"
 ---
 # <a name="itsdpsetphonenumbers-method"></a>Метод Итсдп:: Сетфоненумберс
 

@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9911619e54247c633d4b3cecc69327f92da6a7f27c3cebf9231ec86ad0f0a20d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d15c532659811c7e499369e7798c4b1ceaf842bc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119061572"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244915"
 ---
 # <a name="glupwlcurve-function"></a>Функция Глупвлкурве
 
@@ -89,7 +89,7 @@ void WINAPI gluPwlCurve(
 
 Если *тип* — Glu \_ «Карта1» \_ Trim \_ 2, он описывает кривую в двухмерном пространстве параметров (*u* и *v*). Если это GLU \_ «Карта1» \_ Trim \_ 3, то он описывает кривую в двухмерном одномерном пространстве параметров (*u*, *v* и *w*). Дополнительные сведения об усечении кривых см. в разделе [**глубегинтрим**](glubegintrim.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -103,7 +103,7 @@ void WINAPI gluPwlCurve(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

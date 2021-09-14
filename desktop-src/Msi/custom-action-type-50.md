@@ -4,12 +4,12 @@ ms.assetid: fc8a875d-21e3-452a-8455-80835b52b256
 title: Тип настраиваемого действия 50
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d4b17c6b512e53bb085c23f6ad0e8af412f6f9de44da3cc70c7153dbef7fb99e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c5f3a80de730eb727c40c871070ab9e5b2470f98
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119263254"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142033"
 ---
 # <a name="custom-action-type-50"></a>Тип настраиваемого действия 50
 
@@ -35,7 +35,7 @@ ms.locfileid: "119263254"
 
  
 
-## <a name="target"></a>Target
+## <a name="target"></a>Назначение
 
 Целевой столбец [таблицы CustomAction](customaction-table.md) содержит строку командной строки для исполняемого файла, указанного в исходном столбце.
 

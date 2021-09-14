@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Mergemod.dll
-ms.openlocfilehash: ac5786dcf3d4818fdfb3f0458cbfa85c923e5200ae69b5cb93d38330c322abf6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 24b215b67d22d27639f3e002590e7d08dd54b0c6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118378893"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141870"
 ---
 # <a name="dependency-object"></a>Объект зависимости
 
@@ -70,7 +70,7 @@ ms.locfileid: "118378893"
 | Требование | Значение |
 |--------------------|-----------------------------------------------------------------------------------------|
 | Версия<br/> | Mergemod.dll 1,0 или более поздней версии<br/>                                                    |
-| Header<br/>  | <dl> <dt>Мержемод. h</dt> </dl>   |
+| Заголовок<br/>  | <dl> <dt>Мержемод. h</dt> </dl>   |
 | DLL<br/>     | <dl> <dt>Mergemod.dll</dt> </dl> |
 
 

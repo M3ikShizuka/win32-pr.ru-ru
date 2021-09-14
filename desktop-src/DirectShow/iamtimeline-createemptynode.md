@@ -15,11 +15,11 @@ api_location:
 - strmiids.lib
 - strmiids.dll
 ms.openlocfilehash: 894126bea8f40537602aa1fe8898038245215914
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105675292"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266347"
 ---
 # <a name="iamtimelinecreateemptynode-method"></a>Метод Иамтимелине:: Креатимптиноде
 
@@ -66,7 +66,7 @@ HRESULT CreateEmptyNode(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Не добавляйте новый объект в другой экземпляр временной шкалы. Каждый объект на временной шкале должен быть создан этой временной шкалой.
 
@@ -78,7 +78,7 @@ HRESULT CreateEmptyNode(
  
 
 > [!Note]  
-> Чтобы получить Кедит. h, скачайте [обновление Microsoft Windows SDK для Windows Vista и платформа .NET Framework 3,0](https://msdn.microsoft.com/windowsvista/bb980924.aspx). Кедит. h недоступен в Microsoft Windows SDK для Windows 7 и платформа .NET Framework 3,5 с пакетом обновления 1 (SP1).
+> чтобы получить кедит. h, скачайте [обновление Microsoft Windows SDK для Windows Vista и платформа .NET Framework 3,0](https://msdn.microsoft.com/windowsvista/bb980924.aspx). кедит. h недоступен в Microsoft Windows SDK для Windows 7 и платформа .NET Framework 3,5 с пакетом обновления 1 (sp1).
 
  
 
@@ -88,7 +88,7 @@ HRESULT CreateEmptyNode(
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Кедит. h</dt> </dl>      |
+| Заголовок<br/>  | <dl> <dt>Кедит. h</dt> </dl>      |
 | Библиотека<br/> | <dl> <dt>Стрмиидс. lib</dt> </dl> |
 
 

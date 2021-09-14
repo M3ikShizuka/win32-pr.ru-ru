@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fc2268147511a40aaf70a928c77b177f76870e65a7f40da4f2c6bf9428f67db8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f6d6404c9b219b8a27dd3d422bfb85cd45ac8cac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118358574"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127375069"
 ---
 # <a name="glpixeltransferf-function"></a>Функция Глпикселтрансферф
 
@@ -52,9 +52,9 @@ void WINAPI glPixelTransferf(
 |-------------------|---------|----------------|--------------|
 | \_цвет схемы \_ GL    | Логическое | false          | true/false   |
 | \_трафарет схемы \_ GL  | Логическое | false          | true/false   |
-| \_сдвиг индекса \_ GL  | целое число | 0              | (8, 8)        |
-| \_смещение индекса \_ GL | целое число | 0              | (8, 8)        |
-| \_Красная \_ ШКАЛа GL    | Целое число | 1.0            | (8, 8)        |
+| \_сдвиг индекса \_ GL  | Целое число | 0              | (8, 8)        |
+| \_смещение индекса \_ GL | Целое число | 0              | (8, 8)        |
+| \_Красная \_ ШКАЛа GL    | Целое число | 1,0            | (8, 8)        |
 | \_зеленый \_ масштаб GL  | FLOAT   | 1,0            | (8, 8)        |
 | \_синяя \_ ШКАЛа GL   | FLOAT   | 1,0            | (8, 8)        |
 | \_шкала альфа-канала GL \_  | FLOAT   | 1,0            | (8, 8)        |

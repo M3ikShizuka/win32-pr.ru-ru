@@ -15,12 +15,12 @@ keywords:
 - Элементы PARAM в элементе OBJECT
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7da684a39739703038793abb2f4fdd32b924f35cdffc0c0f9d796fb7dbb5532b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3f0fc5b9f64fa462386ec037eba34ed4e0659bb1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119054432"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243220"
 ---
 # <a name="param-elements-in-an-object-element"></a>Элементы PARAM в элементе OBJECT
 

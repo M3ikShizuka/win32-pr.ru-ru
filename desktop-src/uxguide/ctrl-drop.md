@@ -5,11 +5,11 @@ ms.assetid: dbe88cf1-7946-4343-bc16-ce12be7ce205
 ms.topic: article
 ms.date: 10/20/2020
 ms.openlocfilehash: 79a50f4033223030fd135bb0fcfa247e07f0693d
-ms.sourcegitcommit: 0ab75073bbeec7ca2899f8051626a8b772073f82
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "122401007"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267528"
 ---
 # <a name="drop-down-lists--combo-boxes"></a>Раскрывающиеся списки & поля со списком
 

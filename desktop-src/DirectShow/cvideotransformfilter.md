@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: a1e1a1b717aeb2814b469fc34a9e038052abb6720dde0ed75982f27716978de5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 360f46eb7242de01d5e734c5efa17399f23adf7d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119907013"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266435"
 ---
 # <a name="cvideotransformfilter-class"></a>Класс Квидеотрансформфилтер
 
@@ -42,7 +42,7 @@ ms.locfileid: "119907013"
 | Защищенные методы                                                               | Описание                                                                                    |
 | [**абортплайбакк**](cvideotransformfilter-abortplayback.md)                    | Используется для сигнализации об ошибке потоковой передачи.                                                              |
 | [**алтеркуалити**](cvideotransformfilter-alterquality.md)                      | Уведомляет фильтр о запросе изменения качества.                                        |
-| [**Получать**](cvideotransformfilter-receive.md)                                | Получает пример носителя, обрабатывает его и доставляет образец вывода для подчиненного фильтра. |
+| [**Получить**](cvideotransformfilter-receive.md)                                | Получает пример носителя, обрабатывает его и доставляет образец вывода для подчиненного фильтра. |
 | [**шаулдскипфраме**](cvideotransformfilter-shouldskipframe.md)                | Определяет, должен ли фильтр удалять указанный образец.                                  |
 | [**стартстреаминг**](cvideotransformfilter-startstreaming.md)                  | Вызывается, когда фильтр переключается в состояние паузы.                                           |
 | Открытые методы                                                                  | Описание                                                                                    |

@@ -4,12 +4,12 @@ ms.assetid: 32b10271-44b1-4c5d-9c8b-eed1b4cd31e2
 title: Тип настраиваемого действия 5
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a7e5d6ea37d8efcc5a5d9517b36fb3ae5620830ae1a84173cb9a5488c57cc24e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 85460c9a41dca060ca2634c013999c2c340ddfa1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120086224"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142038"
 ---
 # <a name="custom-action-type-5"></a>Тип настраиваемого действия 5
 
@@ -47,7 +47,7 @@ Windows Установщик может использовать 64-разряд
 
  
 
-## <a name="target"></a>Целевой объект
+## <a name="target"></a>Назначение
 
 Целевое поле [таблицы CustomAction](customaction-table.md) содержит необязательную функцию скрипта. Сначала обработка отправляет скрипт для синтаксического анализа, а затем вызывает необязательную функцию скрипта.
 

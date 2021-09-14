@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: dffac6c3a912cd85d1a23ef43cb348e0231d6309
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103892089"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243838"
 ---
 # <a name="systemmonitoryaxislabel-property"></a>Системмонитор. Яксислабел, свойство
 
@@ -42,7 +42,7 @@ Property YAxisLabel As String
 
 Метка вертикальной оси (Y) диаграммы. Максимальная длина заголовка — 128 символов. Если заголовок превышает 128 символов, заголовок усекается.
 
-**Windows XP и windows 2000:** Длина заголовка не ограничена.
+**Windows XP и Windows 2000:** Длина заголовка не ограничена.
 
 ## <a name="requirements"></a>Требования
 

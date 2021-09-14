@@ -4,12 +4,12 @@ ms.assetid: 5ebc8c4c-acee-4658-8d36-30fbb17b1ef1
 title: Удаление служб UDDI с серверной операционной системы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 530c6aadbe4e1dce32f3cc2e212af823eb565b85b67c5f7f29b77015f75bc899
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 960a4063d990a3b2cdac45cd933a1e7dfef41f88
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118329003"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242950"
 ---
 # <a name="removal-of-uddi-services-from-server-operating-system"></a>Удаление служб UDDI с серверной операционной системы
 

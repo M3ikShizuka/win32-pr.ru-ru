@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 36ce32bf041a59f272b18ebe17916963c4e5fd8d208da9d739468c88b9286dfc
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7c0c92e3cd4e723b59ee9060c5e2f33b710e7f69
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119488794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244909"
 ---
 # <a name="gluquadriccallback-function"></a>Функция Глукуадриккаллбакк
 
@@ -81,7 +81,7 @@ void WINAPI gluQuadricCallback(
 
 Используйте **глукуадриккаллбакк** для определения нового обратного вызова, который будет использоваться объектом куадрик. Если указанный обратный вызов уже определен, он заменяется. Если *fn* имеет **значение NULL**, любой существующий обратный вызов удаляется.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -95,7 +95,7 @@ void WINAPI gluQuadricCallback(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

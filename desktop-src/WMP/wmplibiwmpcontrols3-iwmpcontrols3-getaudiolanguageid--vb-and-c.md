@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2e853d5a13c40316341c0759899e06e7292c006c00068a1b527e5035ff10422b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fb8112eafec018b12012d20b37bfe30f7b464377
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119506214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242968"
 ---
 # <a name="iwmpcontrols3getaudiolanguageid-method"></a>Метод IWMPControls3:: Жетаудиолангуажеид
 
@@ -72,7 +72,7 @@ Implements IWMPControls3.getAudioLanguageID
 
 Используйте свойство **аудиолангуажекаунт** , чтобы получить количество поддерживаемых аудио языков, а затем получите доступ к звуковому языку по отдельности с помощью индекса, основанного на единицах.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -84,7 +84,7 @@ Implements IWMPControls3.getAudioLanguageID
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - PortableDevice.h
-ms.openlocfilehash: eb37cdd32673c385617d9c0c0ae8616c8dae0ab711d1253391ae2c1e6b2f8789
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f59d6a2f1cabbbe7b072a87caa3e5d74d012fc49
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119703774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266792"
 ---
 # <a name="wpd_focus_metering_modes-enumeration"></a>\_ \_ Перечисление режимов метрик ФОКУСа WPD \_
 
@@ -66,7 +66,7 @@ typedef enum WPD_FOCUS_METERING_MODES {
 
 Это перечисление задается свойством " [ \_ \_ \_ \_ \_ режим отслеживания фокуса" для неподвижных изображений WPD](still-image-properties.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ typedef enum WPD_FOCUS_METERING_MODES {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

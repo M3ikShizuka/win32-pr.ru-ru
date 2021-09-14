@@ -4,12 +4,12 @@ description: Используйте следующее сообщение, чт�
 ms.assetid: bf2ebdeb-e980-446c-90e8-158c7690674f
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0d1c41e9ee3db84a3762003df820546387ff6c0ebd331f1fa430fbd7f207ea27
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e9053c73eec6ca798d78469857050a7188dc3e0b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117788380"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244744"
 ---
 # <a name="remote-access-service-messages"></a>Сообщения службы удаленного доступа
 

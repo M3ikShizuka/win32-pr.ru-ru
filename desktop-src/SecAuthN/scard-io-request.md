@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Winsmcrd.h
-ms.openlocfilehash: 9a377643e794b679be593bb99b8750698c92dd3aa8abacd79bfdb1c478c9c7b3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fe3205311789ee51bb9b96b3b425b735e1fdf887
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118918890"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374976"
 ---
 # <a name="scard_io_request-structure"></a>\_Структура запроса ввода-вывода бросить \_
 
@@ -36,7 +36,7 @@ typedef struct {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -54,7 +54,7 @@ typedef struct {
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -66,7 +66,7 @@ typedef struct {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

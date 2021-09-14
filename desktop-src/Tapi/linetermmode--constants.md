@@ -4,12 +4,12 @@ ms.assetid: 60af1687-8958-4918-be21-a13780c60974
 title: Константы LINETERMMODE_ (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 411c1dd633ff1bef49e08eb127f4145f81f3d6785d07f3566431fe7b5d7e8fee
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3e689e2e4e432d6cf804e64babd462e749e7e9e2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119518814"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374793"
 ---
 # <a name="linetermmode_-constants"></a>\_Константы линетерммоде
 
@@ -103,7 +103,7 @@ ms.locfileid: "119518814"
 
 Эти константы описывают классы элементов управления и информационных потоков, которые могут направляться напрямую между линейным устройством и устройством терминала (например, набором телефонов).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

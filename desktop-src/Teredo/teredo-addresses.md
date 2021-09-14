@@ -4,12 +4,12 @@ ms.assetid: e2e185c2-e53d-471d-aedb-54d75f9db0bb
 description: 'Дополнительные сведения: адреса Teredo'
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 08a8b283d2bab6c9ba091ecc3b37c6218fadb0face78e04b807be03d68b814d0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bc08a53da2f710423d948e9479df2aeb08f20178
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118354140"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243526"
 ---
 # <a name="teredo-addresses"></a>Адреса Teredo
 

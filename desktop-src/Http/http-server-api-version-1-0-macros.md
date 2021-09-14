@@ -4,12 +4,12 @@ description: API сервера HTTP определяет определенны
 ms.assetid: 9c5fb0a4-fda8-4489-8a1e-c232079bd501
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e9eeee26516049e307bd07e35e542281245e715a67c45f881068783ecbc93d12
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c027455eb1eaa2672685a2c2ef2458589b71c211
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118950783"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266264"
 ---
 # <a name="http-server-api-version-10-macros"></a>Макросы HTTP-сервера API версии 1,0
 

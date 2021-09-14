@@ -24,12 +24,12 @@ keywords:
 - версии проигрыватель Windows Media, новые функции в версии 11
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b69f9ffdeb3325b7b993e3c2a1826567ebd5507f4d0290248ad4c570b788e137
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 12aa728aa1552ac0e65f5825cad62d8e9e0c7300
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120001274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243025"
 ---
 # <a name="what-was-new-in-windows-media-player-11"></a>Что нового в проигрывателе Windows Media 11
 

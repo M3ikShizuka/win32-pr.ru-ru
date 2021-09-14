@@ -5,11 +5,11 @@ title: Политика метаданных фото для System. photo. Пе
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 5540356001cdd33bb7c0d3340534f9c69e230a5d
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122886447"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267344"
 ---
 # <a name="systemphotopeoplenames-photo-metadata-policy"></a>Политика метаданных фото для System. photo. Пеопленамес
 
@@ -45,7 +45,7 @@ VT \_ Векторная \| \_ LPWSTR
 
 
 
-| Порядок | путь                                                           | Формат диска |
+| Порядок | Путь                                                           | Формат диска |
 |-------|----------------------------------------------------------------|-------------|
 | 1     | /КСМП/ &lt; ксмпструкт &gt; MP: RegionInfo/ &lt; Ксмпбаг &gt; МПРИ: regions | ushort      |
 
@@ -61,7 +61,7 @@ VT \_ Векторная \| \_ LPWSTR
 
 
 
-| Порядок | путь                                |
+| Порядок | Путь                                |
 |-------|-------------------------------------|
 | 1     | /КСМП/ &lt; ксмпструкт &gt; MP: RegionInfo |
 
@@ -75,7 +75,7 @@ VT \_ Векторная \| \_ LPWSTR
 
 
 
-| Порядок | путь                                                               | Формат диска |
+| Порядок | Путь                                                               | Формат диска |
 |-------|--------------------------------------------------------------------|-------------|
 | 1     | /ИФД/КСМП/ &lt; ксмпструкт &gt; MP: RegionInfo/ &lt; Ксмпбаг &gt; МПРИ: regions | ushort      |
 
@@ -91,7 +91,7 @@ VT \_ Векторная \| \_ LPWSTR
 
 
 
-| Порядок | путь                                    |
+| Порядок | Путь                                    |
 |-------|-----------------------------------------|
 | 1     | /ИФД/КСМП/ &lt; ксмпструкт &gt; MP: RegionInfo |
 
@@ -99,7 +99,7 @@ VT \_ Векторная \| \_ LPWSTR
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 ## <a name="related-topics"></a>Связанные темы
 

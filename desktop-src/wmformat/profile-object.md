@@ -3,7 +3,7 @@ title: Объект Profile
 description: Объект Profile
 ms.assetid: ec42889e-580e-4a65-9fe6-4a5f15c97eb0
 keywords:
-- Пакет SDK для Windows Media Format, объекты профилирования
+- Windows Пакет SDK для формата мультимедиа, объекты профилирования
 - Расширенный системный формат (ASF), объекты профилирования
 - ASF (Расширенный системный формат), объекты профилирования
 - объекты, объекты профилирования
@@ -11,11 +11,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 1d6763d098819bde7d5db404aeffef3cd333d9b1
-ms.sourcegitcommit: ad672d3a10192c5ccac619ad2524407109266e93
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "103890315"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266944"
 ---
 # <a name="profile-object"></a>Объект Profile
 
@@ -38,7 +38,7 @@ ms.locfileid: "103890315"
 
 
 
- 
+ 
 
 Все методы в приведенной выше таблице устанавливают указатель на интерфейс **ивмпрофиле** . Другие интерфейсы объекта Profile можно получить, вызвав метод **QueryInterface** .
 
@@ -57,9 +57,9 @@ ms.locfileid: "103890315"
 
 
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -72,9 +72,9 @@ ms.locfileid: "103890315"
 [**Профили**](profiles.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

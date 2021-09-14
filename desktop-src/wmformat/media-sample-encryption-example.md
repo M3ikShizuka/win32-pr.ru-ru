@@ -3,9 +3,9 @@ title: Пример шифрования мультимедиа
 description: Пример шифрования мультимедиа
 ms.assetid: f57f9ffc-47fd-47fb-b553-07b9cd6abb70
 keywords:
-- Windows Media Format SDK, пример шифрования мультимедиа
-- Windows Media Format SDK, пример кода
-- Windows Media Format SDK, примеры кода
+- Windows Пакет SDK для формата мультимедиа, пример шифрования носителя
+- Windows Пакет SDK для формата мультимедиа, пример кода
+- Windows Пакет SDK для формата мультимедиа, примеры кода
 - Управление цифровыми правами (DRM), пример шифрования мультимедиа
 - DRM (Управление цифровыми правами), пример шифрования мультимедиа
 - Управление цифровыми правами (DRM), пример кода
@@ -21,11 +21,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 4a669ab957aa7510cdd57daca798ec3e3ac3bf73
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104068570"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267024"
 ---
 # <a name="media-sample-encryption-example"></a>Пример шифрования мультимедиа
 
@@ -71,16 +71,16 @@ EXIT:
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [**Примеры импорта DRM**](drm-import-examples.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

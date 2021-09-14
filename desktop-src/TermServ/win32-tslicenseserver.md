@@ -31,12 +31,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0f7c73c1d1a48bbc76b4988afca8a07fd9ce505d0633c74f67306901259d9f89
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 31951b943723e620414b2f714327db8c786f9ab9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118126514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243484"
 ---
 # <a name="win32_tslicenseserver-class"></a>\_Класс Win32 тслиценсесервер
 
@@ -66,7 +66,7 @@ class Win32_TSLicenseServer
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ тслиценсесервер** имеет следующие типы членов:
 
@@ -112,7 +112,7 @@ class Win32_TSLicenseServer
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ тслиценсесервер** имеет следующие свойства.
 
@@ -310,7 +310,7 @@ class Win32_TSLicenseServer
 
 </dd> <dt>
 
-**Version**
+**Версия**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**

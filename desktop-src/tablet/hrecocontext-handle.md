@@ -4,12 +4,12 @@ ms.assetid: 509188e2-28af-4915-bc76-ee451133398f
 title: ХРЕКОКОНТЕКСТ (краткий обзор. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b9be012cc624553ae9573dc361c364d4ef61ec4c6d72fbf7c3eb2168c3ccb290
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 13ef2b6f629587de84f831fd32a31f42a208c024
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119935544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267704"
 ---
 # <a name="hrecocontext-handle"></a>ХРЕКОКОНТЕКСТ, обработчик
 
@@ -64,7 +64,7 @@ typedef HANDLE HRECOCONTEXT;
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

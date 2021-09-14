@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c44d955c7547a308086ea365681a5991012fe65e390ebe296f031f0c0ef99856
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d6241664b6e56c3d387673b6a1cc50e43b413336
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119058622"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374581"
 ---
 # <a name="removeprogram-method-of-the-win32_tsvirtualip-class"></a>Метод Ремовепрограм \_ класса Win32 тсвиртуалип
 

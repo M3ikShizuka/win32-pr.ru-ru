@@ -6,11 +6,11 @@ ms.tgt_platform: multiple
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 9ce87b274cad1451867dbfbdfb89cec0d0c57010
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104329472"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374636"
 ---
 # <a name="remoteapp-and-desktop-connection-management-service-structures"></a>Структуры служб управление подключениями к удаленным рабочим столам и приложениям RemoteApp
 
@@ -41,7 +41,7 @@ API службы управление подключениями к удален
 
 </dd> </dl>
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -51,9 +51,9 @@ API службы управление подключениями к удален
 [Интерфейсы служб управление подключениями к удаленным рабочим столам и приложениям RemoteApp](remoteapp-and-desktop-connection-management-service-interfaces.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

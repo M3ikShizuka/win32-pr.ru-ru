@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f0eae9da797ee22f85234383e2e54d97f4cb1045bcdd0216e70899b294b42378
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 06a6a654dd815770da8913660b22215dfbecc36b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119894554"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242878"
 ---
 # <a name="id3dx11effectvariablegettype-method"></a>Метод ID3DX11EffectVariable:: GetType
 
@@ -54,7 +54,7 @@ ID3DX11EffectType* GetType();
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -65,7 +65,7 @@ ID3DX11EffectType* GetType();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

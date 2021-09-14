@@ -4,12 +4,12 @@ ms.assetid: 997600C9-5264-44EC-BAEC-CB5CEEA0BD14
 title: Как зарегистрировать тип файла для нового приложения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9de165d378d27c6891b681f95da7242b026844bd7734709ebd272c06edf40e3b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 728cc48075ab1c2631f0a950059da65ae326ae79
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117859664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267888"
 ---
 # <a name="how-to-register-a-file-type-for-a-new-application"></a>Как зарегистрировать тип файла для нового приложения
 
@@ -17,7 +17,7 @@ ms.locfileid: "117859664"
 
 Чтобы создать идентификатор ProgID для каждого уникального типа файла, обрабатываемого приложением, выполните следующие действия.
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="step-1"></a>Шаг 1.
 

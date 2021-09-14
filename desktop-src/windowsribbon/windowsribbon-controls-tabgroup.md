@@ -4,12 +4,12 @@ description: Группа вкладок — это контекстный эл�
 ms.assetid: 5b74ff46-2543-43f3-ab42-dab1bc67a75e
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 56ddf1c34903f0660f6f5ead5eb76cd17934ac5cc987358f24c32bc127c73706
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 253c803a07c0d27692442ddb7a291930a261a2ae
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117851260"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267296"
 ---
 # <a name="tab-group"></a>Группа вкладок
 

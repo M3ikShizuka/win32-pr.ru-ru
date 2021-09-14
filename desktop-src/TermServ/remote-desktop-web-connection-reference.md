@@ -8,12 +8,12 @@ keywords:
 - Протокол удаленного рабочего стола (RDP) службы удаленных рабочих столов, интерфейсы
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: feac7c2ab5d836191f5321d87fafc50350f1d5713bf18cb27dbb879aff127271
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a80c80dcf9799efe2eb5609f54142fd0780cfe54
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119988674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374653"
 ---
 # <a name="remote-desktop-activex-control-interfaces"></a>интерфейсы удаленный рабочий стол ActiveX элементов управления
 

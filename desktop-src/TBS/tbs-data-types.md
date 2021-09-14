@@ -9,12 +9,12 @@ keywords:
 - TBS_OWNERAUTH_TYPE
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ba0f63fe2a8b42c365e9f97f1794879214b5d352d8268bea648f2cf058530710
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8b6ee71287ee377e5ea301e92636f47d0bd80bea
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118880688"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243784"
 ---
 # <a name="tbs-data-types"></a>Типы данных TBS
 
@@ -31,7 +31,7 @@ TBS определяет следующие типы данных.
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 73652b1eda6fb05c9e058a47bb988ab3098e451facc898d55bcd89257bec958b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a729b2b917f38e12639fb1acda8eeb36808be990
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118118244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243070"
 ---
 # <a name="textscrollingdirection"></a>TEXT. Скроллингдиректион
 

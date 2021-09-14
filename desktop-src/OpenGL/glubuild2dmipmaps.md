@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f27dcf3d0e95b0b52d5b7f4c4ce0e5692f3fc856b81d9c1d82c9661a70e2f818
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 92402792e41701711e99f469ead67410d6a8c1b5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119489654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244975"
 ---
 # <a name="glubuild2dmipmaps-function"></a>Функция gluBuild2DMipmaps
 
@@ -107,7 +107,7 @@ void WINAPI gluBuild2DMipmaps(
 
 Описание допустимых значений параметра *Format* см. в разделе **glTexImage2D**. Описание допустимых значений для *типа* см. в разделе [**глдравпикселс**](gldrawpixels.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -121,7 +121,7 @@ void WINAPI gluBuild2DMipmaps(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

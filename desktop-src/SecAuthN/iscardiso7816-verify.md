@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Scardssp.dll
-ms.openlocfilehash: f0d01fe47133ddeaf7bba32a91711d76783bdfbb0a28762d7ddb7f9054d0108d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c44bf65bfcebe6e76ce1ee955205b9c9163efcee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120014444"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244258"
 ---
 # <a name="iscardiso7816verify-method"></a>Метод ISCardISO7816:: Verify
 
@@ -107,7 +107,7 @@ HRESULT Verify(
 
 Кроме приведенных выше кодов ошибок COM, этот интерфейс может возвращать код ошибки смарт-карты, если для завершения запроса была вызвана функция смарт-карты. Дополнительные сведения см. в статье [возвращаемые значения смарт-карты](authentication-return-values.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -116,7 +116,7 @@ HRESULT Verify(
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                                                   |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
 | Заголовок<br/>                   | <dl> <dt>Скардссп. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Скардсрв. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Scardssp.dll</dt> </dl> |
@@ -124,7 +124,7 @@ HRESULT Verify(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

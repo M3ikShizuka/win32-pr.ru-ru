@@ -33,12 +33,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: f1edce18d0dc8283a134972e8f0e2f79ce0ff98148bf6333d4048adbc14f2d88
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 0c2b36ff17931133d0dc4529e34f31ac24e00653
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120077344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127375277"
 ---
 # <a name="win32_dmachannel-class"></a>\_Класс Win32 канал DMA
 
@@ -74,7 +74,7 @@ class Win32_DMAChannel : CIM_DMA
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ канал DMA** имеет следующие типы членов:
 
@@ -482,7 +482,7 @@ class Win32_DMAChannel : CIM_DMA
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -500,7 +500,7 @@ class Win32_DMAChannel : CIM_DMA
 
 </dd> <dt>
 
-**Порт**
+**порт**.
 </dt> <dd> <dl> <dt>
 
 Тип данных: **UInt32**
@@ -801,7 +801,7 @@ class Win32_DMAChannel : CIM_DMA
 
 Класс **Win32 \_ канал DMA** является производным от [**\_ канала DMA CIM**](cim-dma.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -815,7 +815,7 @@ class Win32_DMAChannel : CIM_DMA
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

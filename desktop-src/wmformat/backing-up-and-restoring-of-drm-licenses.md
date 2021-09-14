@@ -32,12 +32,12 @@ keywords:
 - обнаружение мошенничества
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 019163a42312b14b7d7b7e15cea68be1996a976e42b31491f62486a43d37b8bf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a7718f03170077f7db624f8a99b8262239a79ca9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119028152"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267179"
 ---
 # <a name="backing-up-and-restoring-of-drm-licenses"></a>Резервное копирование и восстановление лицензий DRM
 

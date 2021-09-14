@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Scardssp.dll
-ms.openlocfilehash: aa2c8b6ede97c9fede5984645fd298877da22153f9f0bf3aaf8789281b11889c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 05fe18ad73de6c7c3ea30f986c7bb3420bc465b9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119481127"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244312"
 ---
 # <a name="iscardiso7816getchallenge-method"></a>Метод ISCardISO7816:: Challenge
 
@@ -83,7 +83,7 @@ HRESULT GetChallenge(
 
 Кроме приведенных выше кодов ошибок COM, этот интерфейс может возвращать код ошибки смарт-карты, если для завершения запроса была вызвана функция смарт-карты. Дополнительные сведения см. в статье [возвращаемые значения смарт-карты](authentication-return-values.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -92,8 +92,8 @@ HRESULT GetChallenge(
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                                                   |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Скардссп. h</dt> </dl>   |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
+| Заголовок<br/>                   | <dl> <dt>Скардссп. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Скардсрв. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Scardssp.dll</dt> </dl> |
 | IID<br/>                      | IID \_ ISCardISO7816 определен как 53B6AA68-3F56-11D0-916B-00AA00C18068<br/>        |

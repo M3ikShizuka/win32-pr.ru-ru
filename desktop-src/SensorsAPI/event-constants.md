@@ -4,12 +4,12 @@ ms.assetid: ca61c912-bce5-4e41-ab48-40615d5b93ba
 title: Константы событий (sensors. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f1b16be770777c8e679e74123ce1c40c385893afee11ff3792dd58df007ae4c3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bc9fb3ced92c1fe263538f2ce27c3fc65fdd7676
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118890232"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374860"
 ---
 # <a name="event-constants-sensorsh"></a>Константы событий (sensors. h)
 
@@ -65,7 +65,7 @@ ms.locfileid: "118890232"
 |-------------------------------------|--------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                           |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                            |
-| Header<br/>                   | <dl> <dt>Sensors. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Sensors. h</dt> </dl> |
 
 
 

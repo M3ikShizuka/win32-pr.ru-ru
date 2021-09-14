@@ -8,11 +8,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 189d047e6cf969887e390ac7dad1cfc8cdbfa4f9
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103986525"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243760"
 ---
 # <a name="using-tbs"></a>Использование TBS
 
@@ -27,35 +27,35 @@ ms.locfileid: "103986525"
 
 Сущность создает контекст перед тем, как сначала обращается к TBS, и сохраняет контекст, пока не завершит выполнение доступа к TBS. Например, в случае Тсс функция TCG Core Services (TCS) в Тсс создаст контекст TBS при запуске и сохранит этот контекст активным, пока не завершится.
 
-Для Windows Server 2008 и Windows Vista TBS разрешает доступ к API TBS для учетных записей администратора, службы NT AUTHORITY \\ LocalService и NT Authority \\ NetworkService. По умолчанию эти учетные записи являются только теми, которые могут подключаться к TBS и создавать контексты. Ограничения доступа можно изменить, **создав ключ реестра** с именем String (**reg \_ SZ**) имя значения реестра **SecurityDescriptor** <dl> <dt>
+для Windows Server 2008 и Windows Vista TBS разрешает доступ к API TBS для учетных записей администратора, службы nt authority \\ LocalService и nt authority \\ NetworkService. По умолчанию эти учетные записи являются только теми, которые могут подключаться к TBS и создавать контексты. Ограничения доступа можно изменить, **создав ключ реестра** с именем String (**reg \_ SZ**) имя значения реестра **SecurityDescriptor** <dl> <dt>
 
 Тип данных
 </dt> <dd>REG_SZ</dd> </dl> under it as follows:
 
 ```
 HKEY_LOCAL_MACHINE
-   Software
-      Microsoft
-         TPM
-            Access
-               SecurityDescriptor = SecurityDescriptor
+   Software
+      Microsoft
+         TPM
+            Access
+               SecurityDescriptor = SecurityDescriptor
 ```
 
-Пример.
+Пример
 
 **О:БАГ: ОШИБКА: (A;; 0 x00000001;;; BA) (A;; 0 x00000001;;; NS) (A;; 0 x00000001;;; Местоположение**
 
 По умолчанию максимальное число контекстов, поддерживаемых TBS, равно 25. Это число можно изменить путем создания или изменения значения реестра **DWORD** с именем **максконтекстс** в разделе **hKey \_ Local \_ Machine** \\ **Software** \\ **Microsoft** \\ **TPM**. Использование контекста TBS в режиме реального времени можно наблюдать с помощью средства "системный монитор" для отслеживания количества контекстов TBS.
 
-Для Windows 8, Windows Server 2012 и более поздних версий TBS предоставляет доступ к стандартным пользователям и администраторам. Разделы реестра **SecurityDescriptor** и **максконтекстс** стали устаревшими. Для Windows 8, Windows Server 2012 и более поздних версий TBS разрешает доступ к определенным командам с помощью блокировки команд.
+для Windows 8 Windows Server 2012 и более поздних версий TBS предоставляет доступ к стандартным пользователям и администраторам. Разделы реестра **SecurityDescriptor** и **максконтекстс** стали устаревшими. для Windows 8 Windows Server 2012 и более поздних версиях TBS разрешает доступ к определенным командам с помощью блокировки команд.
 
-Для Windows 10 версии 1607 TBS разрешает доступ из приложений AppContainer. Для каждой версии TPM ключи **блоккедаппконтаинеркоммандс** и **AllowedW8AppContainerCommands** были добавлены с соответствующими списками заблокированных и разрешенных команд TPM соответственно.
+для Windows 10 версии 1607 TBS разрешает доступ из приложений AppContainer. Для каждой версии TPM ключи **блоккедаппконтаинеркоммандс** и **AllowedW8AppContainerCommands** были добавлены с соответствующими списками заблокированных и разрешенных команд TPM соответственно.
 
-В Windows 1803 10 разделы реестра в разделе **AllowedW8AppContainerCommands** больше не поддерживаются.
+для Windows 10 версии 1803 разделы реестра в разделе **AllowedW8AppContainerCommands** больше не поддерживаются.
 
- 
+ 
 
- 
+ 
 
 
 

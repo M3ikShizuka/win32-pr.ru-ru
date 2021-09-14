@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Scardssp.dll
-ms.openlocfilehash: 46f7bbc66d76fd9d07390e6d78f25cc96111801cea8f715d84b81e704518cbbc
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d9651189cab228eaa5dacc9c2f5963201bbc65c8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119577014"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244270"
 ---
 # <a name="iscardiso7816updatebinary-method"></a>Метод ISCardISO7816:: Упдатебинари
 
@@ -103,7 +103,7 @@ HRESULT UpdateBinary(
 
 Кроме приведенных выше кодов ошибок COM, этот интерфейс может возвращать код ошибки смарт-карты, если для завершения запроса была вызвана функция смарт-карты. Дополнительные сведения см. в статье [возвращаемые значения смарт-карты](authentication-return-values.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -112,7 +112,7 @@ HRESULT UpdateBinary(
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                                                   |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
 | Заголовок<br/>                   | <dl> <dt>Скардссп. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Скардсрв. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Scardssp.dll</dt> </dl> |
@@ -120,7 +120,7 @@ HRESULT UpdateBinary(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

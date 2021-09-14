@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bb9867cb6476ab0a2838903c906f662032e14dfb0d4fa0547b045672e03b6ce8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a6f48ae389090840e085c90b0bc5444e7cd6784e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119930104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267120"
 ---
 # <a name="iwmsecurebufferdecrypt-method"></a>Ивмсекуребуффер: метод:D екрипт
 
@@ -66,9 +66,9 @@ HRESULT Decrypt(
 
 ## <a name="remarks"></a>Remarks
 
-Отсутствует.
+Нет.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -79,11 +79,11 @@ HRESULT Decrypt(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
-[**Шифрование**](iwmsecurebuffer-encrypt.md)
+[**Шифрования**](iwmsecurebuffer-encrypt.md)
 </dt> <dt>
 
 [**Интерфейс Ивмсекуребуффер**](iwmsecurebuffer.md)

@@ -15,12 +15,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 8ae90099b69494425344ff65b73090cce574b843cd1589572203a4786b38ff6c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2072363978cb0e70d64a09d855ed2861341e9cf0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117755780"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374397"
 ---
 # <a name="tsmf_support_data_in-structure"></a>\_Данные поддержки \_ тсмф \_ в структуре
 
@@ -39,7 +39,7 @@ typedef struct tagTSMF_SUPPORT_DATA_IN {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 

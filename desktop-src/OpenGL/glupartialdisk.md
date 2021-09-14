@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 687738cce6bb311d7e8223877b716abdaef180340ab570f430659ee2e98458ce
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 36e35a6ea905f20e1cb30eddc5b270786614403b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119519444"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244930"
 ---
 # <a name="glupartialdisk-function"></a>Функция Глупартиалдиск
 
@@ -109,7 +109,7 @@ void WINAPI gluPartialDisk(
 
 Если вы включили текстурирование (с [**глукуадриктекстуре**](gluquadrictexture.md)), **глупартиалдиск** создает координаты текстуры линейно, например, где *r*  =  *аутеррадиус*, значение в (*r*, 0, 0) равно (1, 0,5); в (0, *r*, 0) это (0,5, 1); в (*r*, 0, 0) это (0, 0,5), а в (0, *r*, 0) — (0,5, 0).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -123,7 +123,7 @@ void WINAPI gluPartialDisk(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

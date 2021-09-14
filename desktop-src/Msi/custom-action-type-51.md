@@ -4,12 +4,12 @@ ms.assetid: cdad16ad-426c-4e04-8003-b32c67be7329
 title: Тип настраиваемого действия 51
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e780c1a38b60c855f4bfe665f5f68a3f6a037a078f4a2875d1a2ea57c5e7e8dc
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ef3224add3a425131ee3308bc4f610b086cd99a2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120075054"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142029"
 ---
 # <a name="custom-action-type-51"></a>Тип настраиваемого действия 51
 
@@ -35,7 +35,7 @@ ms.locfileid: "120075054"
 
  
 
-## <a name="target"></a>Целевой объект
+## <a name="target"></a>Назначение
 
 Целевой столбец [таблицы CustomAction](customaction-table.md) содержит текстовую строку, отформатированную с помощью функций, указанных в [**мсиформатрекорд**](/windows/desktop/api/Msiquery/nf-msiquery-msiformatrecorda) (без описателей числовых полей). Заменяемые параметры заключаются в квадратные скобки,.. \[ . \] и могут быть свойствами, переменными среды (% prefix), путями к файлам ( \# префиксом) или путями к каталогам компонентов ($ prefix).
 

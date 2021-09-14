@@ -6,12 +6,12 @@ keywords:
 - WS_XML_READER
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0a603ab3870abb015b6fdef05da27dbbbe807d9a23f0713f3f672b4823256554
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5199399a496d38ff0b2ae4a067d4b75fc2664282
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119707224"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266704"
 ---
 # <a name="ws_xml_reader"></a>\_ \_ модуль чтения XML WS
 

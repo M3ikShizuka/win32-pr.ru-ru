@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a3090889207e0631fbc2f35613398b4c979f4c907cfe240e9f0a7374c74b00b7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2dd6937ffa556817a80f0b21dfaed6d270c2e351
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118581514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243346"
 ---
 # <a name="axwindowsmediaplayerstretchtofit-property"></a>Аксвиндовсмедиаплайер. Стретчтофит, свойство
 
@@ -46,7 +46,7 @@ Public Property stretchToFit As System.Boolean
 
 ## <a name="property-value"></a>Значение свойства
 
-Значение System. Boolean, указывающее, будет ли видео растягиваться в соответствии с размерами окна. Значение по умолчанию — false.
+Значение System. Boolean, указывающее, будет ли видео растягиваться в соответствии с размерами окна. Значением по умолчанию является false.
 
 ## <a name="remarks"></a>Remarks
 

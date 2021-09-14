@@ -6,12 +6,12 @@ keywords:
 - WS_SERVICE_HOST
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3ae60e8096ea7c3cfec1e1391c7e30838f2b241cfacc9b79f8ffb776cc135750
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3b846fe1b57b1d77756503d4dc041970795466cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118962773"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266720"
 ---
 # <a name="ws_service_host"></a>\_узел службы \_ WS
 
@@ -28,7 +28,7 @@ typedef struct _WS_SERVICE_HOST WS_SERVICE_HOST;
 
 Этот объект является потокобезопасным. Дополнительные сведения см. в статье [безопасность потоков](thread-safety.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -40,7 +40,7 @@ typedef struct _WS_SERVICE_HOST WS_SERVICE_HOST;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

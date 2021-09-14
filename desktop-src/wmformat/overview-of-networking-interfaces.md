@@ -11,12 +11,12 @@ keywords:
 - ASF (Расширенный системный формат), список интерфейсов для сетевых функций
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0b87da220f5ac61b7b722e79939a1fd617af46ab6608d4d92e8905f466bb98e1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ebd1c235e7e8b36964993bb24ce30977446d9af8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118700266"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266952"
 ---
 # <a name="overview-of-networking-interfaces"></a>Обзор сетевых интерфейсов
 

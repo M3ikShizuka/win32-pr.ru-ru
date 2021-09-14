@@ -4,12 +4,12 @@ description: Разработчики сервера могут проектир
 ms.assetid: d9453fb0-9b4a-4103-81e3-1255091255a0
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 183a7024f546aa3e982b632430dad88c89ae79082ac3d91da97e56c821fde62c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b32a086b977a1737a17206261aaaa94faa754d93
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119133877"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174916"
 ---
 # <a name="custom-user-interface-elements"></a>Пользовательские элементы пользовательского интерфейса
 

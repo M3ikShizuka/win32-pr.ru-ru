@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3233dd57327734669631fc57b31bfb85578621991f34c1b1c414a69697b82048
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d494a5861ff9c0d2c076abe2bdad749d21653500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118882430"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374836"
 ---
 # <a name="systemmonitorgetlogviewrange-method"></a>Системмонитор. Жетлогвиевранже, метод
 

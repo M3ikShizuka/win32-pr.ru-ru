@@ -15,11 +15,11 @@ api_location:
 - Ntdll.dll
 - ntoskrnl.exe
 ms.openlocfilehash: af47ecbe69c4c0449cf6e3282e0992e8a513b5a0
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122480880"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127375005"
 ---
 # <a name="zwqueryinformationprocess-function"></a>Функция Звкуеринформатионпроцесс
 
@@ -192,7 +192,7 @@ typedef enum _PS_PROTECTED_SIGNER {
 
 Формы и коды ошибок NTSTATUS перечислены в файле заголовка NTSTATUS. h, доступном в наборе DDK. они описаны в документации по DDK в разделе Kernel-Mode архитектура драйвера/руководство по проектированию/средства программирования драйверов/регистрация ошибок.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 функция **звкуеринформатионпроцесс** и возвращаемые ею структуры являются внутренними по отношению к операционной системе и могут изменяться от одного выпуска Windows к другому. Чтобы обеспечить совместимость приложения, лучше использовать общие функции, упомянутые в описании параметра *процессинформатионкласс* .
 
@@ -212,7 +212,7 @@ typedef enum _PS_PROTECTED_SIGNER {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: С помощью кнопки пользователи начин�
 ms.assetid: 0e2ff31a-657b-4e4c-afee-2a6bd742f46c
 ms.topic: article
 ms.date: 10/20/2020
-ms.openlocfilehash: d73e9104edb9e02746660e9e2052e756c5ad7be382e3504ac1f101e7c712a7b9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 97b452964066ce061a71a74f547305ba7d9d5794
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119091895"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267563"
 ---
 # <a name="command-buttons"></a>Кнопки команд
 

@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 0bfc3db28af21f26224433faf299200f4b262cd7583a1cafb27e0e700fdc1d36
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ac1b2edd671f06d88c8c51b49c16f759fd05e087
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119055792"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374356"
 ---
 # <a name="eventid-systempropertiestype-element"></a>Элемент EventID (Системпропертиестипе)
 
@@ -38,7 +38,7 @@ ms.locfileid: "119055792"
 
 Элемент **EventID** определяется сложным типом [**системпропертиестипе**](eventschema-systempropertiestype-complextype.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -49,7 +49,7 @@ ms.locfileid: "119055792"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

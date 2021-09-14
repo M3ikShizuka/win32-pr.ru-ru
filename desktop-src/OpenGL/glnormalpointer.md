@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4f188a65a0a2bff0438188ae7521615de45341147b138a849d2fd375ed8a959b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2c2f3abbfbd989351af647557ec64f8ee3172dc5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118938413"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127375113"
 ---
 # <a name="glnormalpointer-function"></a>Функция Глнормалпоинтер
 
@@ -104,7 +104,7 @@ void WINAPI glNormalPointer(
 
 [**глисенаблед**](glisenabled.md) с аргументом \_ обычного \_ массива GL
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -118,7 +118,7 @@ void WINAPI glNormalPointer(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

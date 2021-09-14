@@ -4,12 +4,12 @@ ms.assetid: 3444d022-8225-4956-89a1-721b4662d557
 title: Константы LINETERMDEV_ (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8c4c47e9b00d2c3281189ab5eae6bea79b422a86b263a7a33dbcd7d8d6785884
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 661bf56cd7a81fb73e7f8e8fd2ebfe0983ac3cda
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119002942"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374797"
 ---
 # <a name="linetermdev_-constants"></a>\_Константы линетермдев
 
@@ -53,7 +53,7 @@ ms.locfileid: "119002942"
 
 Эти константы используются для определения устройства терминала линии и помогают приложению определить природу устройства терминала.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -18,12 +18,12 @@ api_type:
 - Schema
 api_location:
 - All
-ms.openlocfilehash: fffc8508eff24181201792207a151f5effd28a3022fec56506953b55d3e59deb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e644db16b6638bbc87006819e186540a9ce1874e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118557761"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174903"
 ---
 # <a name="__instancemodificationevent-class"></a>\_\_Класс Инстанцемодификатионевент
 
@@ -43,7 +43,7 @@ class __InstanceModificationEvent : __InstanceOperationEvent
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ \_ инстанцемодификатионевент** имеет следующие типы членов:
 

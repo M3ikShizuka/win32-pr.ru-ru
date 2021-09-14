@@ -5,11 +5,11 @@ title: LSA_HANDLE (Нтсекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 07bd71a14666dde7bb92e439159a55dd71706612
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104080843"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374869"
 ---
 # <a name="lsa_handle"></a>LSA \_ Handle
 
@@ -22,7 +22,7 @@ typedef PVOID LSA_HANDLE, *PLSA_HANDLE;
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Прежде чем использовать интерфейс локальной политики API, приложение должно открыть обработчик для объекта [**политики**](policy-object.md) . Для этого вызовите [**лсаопенполици**](/windows/desktop/api/ntsecapi/nf-ntsecapi-lsaopenpolicy). Эта функция возвращает маркер, который приложение может указать в последующих вызовах функции политики LSA.
 
@@ -34,9 +34,9 @@ typedef PVOID LSA_HANDLE, *PLSA_HANDLE;
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                           |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Нтсекапи. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                           |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Нтсекапи. h</dt> </dl> |
 
 
 

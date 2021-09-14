@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1001d5c723642357263a6029c3569eaa861f7dcf3689cc7d06b42e04ef461aa2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 138f6d91ed428caabf8da69e3d958675f879dd15
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119987504"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374404"
 ---
 # <a name="setstringproperty-method-of-the-win32_rdmsdeploymentsettings-class"></a>Метод Сетстрингпроперти \_ класса Win32 рдмсдеплойментсеттингс
 
@@ -58,14 +58,14 @@ uint32 SetStringProperty(
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                                   |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                              |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                              |
 | Пространство имен<br/>                | Корневой \\ \\ rdms CIMv2<br/>                                                                |
 | Заголовок<br/>                   | <dl> <dt>Цертенролл. h</dt> </dl>     |
 | MOF<br/>                      | <dl> <dt>Рдманажемент. mof</dt> </dl> |
@@ -73,7 +73,7 @@ uint32 SetStringProperty(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

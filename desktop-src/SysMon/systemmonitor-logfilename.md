@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: cf9d6168f416d1bdab47a4c2952ac60ee7e67397
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104415580"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374829"
 ---
 # <a name="systemmonitorlogfilename-property"></a>Системмонитор. LogFileName, свойство
 
@@ -45,7 +45,7 @@ Property LogFileName As String
 
 ## <a name="property-value"></a>Значение свойства
 
-Путь к файлу журнала. Можно указать абсолютный, относительный или UNC-путь. Имя файла журнала должно иметь расширение CSV, TSV или BLG.
+Путь к файлу журнала. Можно указать абсолютный, относительный или UNC-путь. Имя файла журнала должно быть либо .csv, TSV, либо. blg.
 
 ## <a name="exceptions"></a>Исключения
 
@@ -54,13 +54,13 @@ Property LogFileName As String
 | Тип исключения                                  | Условие                                                              |
 |-------------------------------------------------|------------------------------------------------------------------------|
 | **System. Runtime. InteropServices. COMException** | Не удалось найти указанный файл. Значение Err. Number — 0xC0000BD1. |
-| **System. ArgumentException**                    | Нельзя задавать пустую строку.                                    |
+| **System.ArgumentException**                    | Нельзя задавать пустую строку.                                    |
 
 
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это свойство возвращает имя файла журнала из первого члена коллекции файлов [**журнала**](systemmonitor-logfiles.md) .
 

@@ -4,12 +4,12 @@ description: С помощью ссылки пользователи могут 
 ms.assetid: a23748e4-b2dd-4b9f-9a7c-ff6533922c8c
 ms.topic: article
 ms.date: 10/20/2020
-ms.openlocfilehash: 985e266428a57bae88cf30090bff97f45787faa1a116993958086547339d465c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 161313008612d04b5009942f82f662888d1ffd35
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118040179"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267512"
 ---
 # <a name="links"></a>Ссылки
 
@@ -211,7 +211,7 @@ ms.locfileid: "118040179"
 
     Запуск
 
-    Stop
+    Остановить
 
     **Неправильно**:
 

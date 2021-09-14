@@ -4,12 +4,12 @@ ms.assetid: 22c1f9b4-f6c9-4d57-8457-53bb045e2a4d
 title: Date, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bf76df99c5567351ddd4d36d1aaad56c8a4d1f385f21ca977a4d54916ce99a4b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cf1e4e5cfc7d9236228b9e8b419bbbca48052769
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120129634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141914"
 ---
 # <a name="date-property"></a>Date, свойство
 

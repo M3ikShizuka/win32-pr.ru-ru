@@ -4,12 +4,12 @@ description: Интерфейс IAccessible предоставляет опис�
 ms.assetid: e6c1d1a3-417d-4aea-abac-f84a55f666b7
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d7073d44478d3e7236a56828898346499922ab5e16e401489e54a41b61d7637e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 271dc920034802b87afd4c76ab7ede6bb9476d99
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119860644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242926"
 ---
 # <a name="content-of-descriptive-properties"></a>Содержимое описательных свойств
 

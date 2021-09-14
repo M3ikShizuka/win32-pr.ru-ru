@@ -4,12 +4,12 @@ ms.assetid: fd88a5a0-c79d-44df-b575-21c439cf369f
 title: Одноранговая инфраструктура
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6a2d157e1ab8126abfcdf065afbe60a7474968dec2a5f6bcaf6c043d15ba9d90
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 555c4c1e50fb395641724feaddcfc835b7151698
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117794427"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244816"
 ---
 # <a name="peer-infrastructure"></a>Одноранговая инфраструктура
 

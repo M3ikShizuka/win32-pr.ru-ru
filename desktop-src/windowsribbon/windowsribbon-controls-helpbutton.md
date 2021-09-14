@@ -4,12 +4,12 @@ description: Кнопка Справка — это элемент управл�
 ms.assetid: 5f08a8b2-bc83-4256-bcc4-aecfbd07ea51
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 295b3c7feae2aecada128dadbccd093f654c6a6660a68f4790975aee060aaf61
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7afc44c9f9a03561f1627067849272509838d7a5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119933392"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267299"
 ---
 # <a name="help-button"></a>Кнопка "Справка"
 

@@ -4,12 +4,12 @@ ms.assetid: 7c62357c-427f-40f9-a9d2-c4e1a8400e97
 title: 'Метод Итсдп:: get_ProtocolVersion (Сдпблб. h)'
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b54bd664a2a1147b341d46a83c4a2fa72c66585a11fc8eaef154aa213cab8945
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 652c6c3d6723a10cfe474376cf8b9f1342321db8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119774494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243586"
 ---
 # <a name="itsdpget_protocolversion-method"></a>Метод Итсдп:: Get \_ протоколверсион
 
@@ -57,7 +57,7 @@ HRESULT get_ProtocolVersion(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ HRESULT get_ProtocolVersion(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

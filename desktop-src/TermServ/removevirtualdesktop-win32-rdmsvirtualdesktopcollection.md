@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b3deefa38d7c7fcfc3f7942eb809b2ca14e96ea14ee4f2e014cdf3e0069a6ab9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a468de22d571fa52d37c2ad51d40d492af35384a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120009184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374553"
 ---
 # <a name="removevirtualdesktop-method-of-the-win32_rdmsvirtualdesktopcollection-class"></a>Метод Ремовевиртуалдесктоп \_ класса Win32 рдмсвиртуалдесктопколлектион
 
@@ -54,21 +54,21 @@ uint32 RemoveVirtualDesktop(
 
 Возвращает значение 0 при успешном выполнении, в противном случае возвращает код ошибки WMI.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                                   |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                              |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                              |
 | Пространство имен<br/>                | Корневой \\ \\ rdms CIMv2<br/>                                                                |
 | MOF<br/>                      | <dl> <dt>Рдманажемент. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>RDMS.dll</dt> </dl>         |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: c6b1fbacd450c05b8ff71521dacfa6e95c7efc70fc7d8909ca66f3390bf22295
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3486601153f8e9dd7dac14f83800dae00a79a9f8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120010874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374757"
 ---
 # <a name="body-showmessagetype-element"></a>Элемент Body (Шовмессажетипе)
 
@@ -48,7 +48,7 @@ ms.locfileid: "120010874"
 
 Сведения о разработке сценариев см. в разделе [**шовмессажеактион. MessageBody**](showmessageaction-messagebody.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

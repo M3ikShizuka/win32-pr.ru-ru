@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: c464f2d514a59754b5dc4d9d98f745a4802843c3cfafa3df16057c53456221c5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 266b6a0d2a4027fe85f1f5539b970a44fc21bbee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120014164"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244219"
 ---
 # <a name="iscardmanageattachbyhandle-method"></a>Метод Искардманаже:: Аттачбихандле
 
@@ -75,7 +75,7 @@ HRESULT AttachByHandle(
 
 Кроме приведенных выше кодов ошибок COM, этот интерфейс может возвращать код ошибки смарт-карты, если для завершения запроса была вызвана функция смарт-карты. Дополнительные сведения о кодах ошибок смарт-карт см. в статье [возвращаемые значения смарт-карты](authentication-return-values.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -84,18 +84,18 @@ HRESULT AttachByHandle(
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>          |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/> |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                       |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                       |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
 [**аттачбифд**](iscardmanage-attachbyifd.md)
 </dt> <dt>
 
-[**Detach**](iscardmanage-detach.md)
+[**Соединил**](iscardmanage-detach.md)
 </dt> <dt>
 
 [**искардманаже**](iscardmanage.md)

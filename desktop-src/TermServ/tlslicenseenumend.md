@@ -15,12 +15,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2c0518b9c27b01484b7fb92dd254ae6f1ccdf01d36ef602541209b9f38abd205
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8bbd494ec539ee78008fa3df274282da1e9db6c3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119869214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243490"
 ---
 # <a name="tlslicenseenumend-function"></a>Функция Тлслиценсинуменд
 
@@ -103,7 +103,7 @@ DWORD WINAPI TLSLicenseEnumEnd(
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -115,7 +115,7 @@ DWORD WINAPI TLSLicenseEnumEnd(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fb29eb42f0f1d13ff1bf234c6fb41b8f414317a4b723af9a6d215cf25fa2ec95
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7d9585e3d13ea1f02115506741c153d62c33fcc8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119865514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374532"
 ---
 # <a name="schedulepatch-method-of-the-win32_rdmsvirtualdesktopcollection-class"></a>Метод Счедулепатч \_ класса Win32 рдмсвиртуалдесктопколлектион
 
@@ -75,21 +75,21 @@ uint32 SchedulePatch(
 
 Возвращает значение 0 при успешном выполнении, в противном случае возвращает код ошибки WMI.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                                   |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                              |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                              |
 | Пространство имен<br/>                | Корневой \\ \\ rdms CIMv2<br/>                                                                |
 | MOF<br/>                      | <dl> <dt>Рдманажемент. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>RDMS.dll</dt> </dl>         |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

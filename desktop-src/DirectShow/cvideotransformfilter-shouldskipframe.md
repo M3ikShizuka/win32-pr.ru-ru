@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 26a0c35be9914641abfa053cd1ee00f46bb09222aecbebc55d45900331a2ee81
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7f845ac7ae52537bfadfb6c913537b32e4d44171
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120075944"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266440"
 ---
 # <a name="cvideotransformfiltershouldskipframe-method"></a>Квидеотрансформфилтер. Шаулдскипфраме, метод
 
@@ -70,7 +70,7 @@ BOOL ShouldSkipFrame(
 
 После того как фильтр удалит кадр, он по-своему будет удалять кадры, пока не достигнет следующего ключевого кадра. если этот метод возвращает **значение TRUE**, он также отправляет [**событие \_ \_ изменения качества EC**](ec-quality-change.md) в фильтр Graph Manager.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -81,7 +81,7 @@ BOOL ShouldSkipFrame(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

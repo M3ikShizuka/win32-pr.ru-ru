@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5189a6dbd332b08f0fb8b949933d4b2b92561cd6b3151829f1a321e7f47261d2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b019b1e26e7a98f49a25de96dc8e8e45a6f7bd3d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118116577"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374276"
 ---
 # <a name="wmwmshadowfilesourcedrmtype-windows-media-player-sdk"></a>WM/вмшадовфилесаурцедрмтипе (пакет SDK для проигрыватель Windows Media)
 
@@ -29,7 +29,7 @@ ms.locfileid: "118116577"
 
 Теневой файл указывается с помощью атрибута [шадовфилепас](shadowfilepath-attribute.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -39,7 +39,7 @@ ms.locfileid: "118116577"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

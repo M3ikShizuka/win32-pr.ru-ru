@@ -4,12 +4,12 @@ ms.assetid: c530e723-2d40-4022-a259-dfc650604e44
 title: Наследование (процессы и потоки)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2f50b191ee24783f7213ac15f61c435ebd696175a3042d79e2f359ef61097fe0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4713fe398360b510fab3c66f5cf74dc07b642dac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120032594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127375064"
 ---
 # <a name="inheritance"></a>Наследование
 

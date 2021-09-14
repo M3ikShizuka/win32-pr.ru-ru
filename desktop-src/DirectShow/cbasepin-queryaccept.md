@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 74a179fd1a7f59dcf4e4d22eadf509db9b00cbe482d55e6a6755d7207de8079d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d2c4a982f583d1780dbab37d982fd9a54601e141
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119689004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127375268"
 ---
 # <a name="cbasepinqueryaccept-method"></a>Кбасепин. Куерякцепт, метод
 
@@ -59,7 +59,7 @@ HRESULT QueryAccept(
 
 Этот метод не удерживает критическую секцию закрепления ([**кбасепин:: m \_ плокк**](cbasepin-m-plock.md)). Если производный класс динамически изменяет набор допустимых типов мультимедиа, следует переопределить этот метод для хранения критической секции.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ HRESULT QueryAccept(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

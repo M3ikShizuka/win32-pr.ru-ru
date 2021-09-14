@@ -10,11 +10,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: bcfe58474c5f2a7e104f3e96626fffc685e68021
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104330616"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243745"
 ---
 # <a name="about-text-services-framework"></a>Сведения о платформе текстовых служб
 
@@ -27,9 +27,9 @@ Microsoft Windows Text Services Framework (TSF) — это прикладной 
 -   [Архитектура](architecture.md)
 -   [Как настроить платформу текстовых служб](how-to-set-up-tsf.md)
 
- 
+ 
 
- 
+ 
 
 
 

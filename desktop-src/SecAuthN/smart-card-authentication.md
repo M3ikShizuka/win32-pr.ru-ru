@@ -4,12 +4,12 @@ ms.assetid: cb5c80ea-c15e-4f68-a94b-b458d69ff474
 title: Проверка подлинности смарт-карты
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 78bccfa9e762c137e332c26b5375584658c22718d336800b6dc73cf056ebde1f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6241d323f4c5e982fee96f44002da316d5d645d8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118918014"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374953"
 ---
 # <a name="smart-card-authentication"></a>Проверка подлинности смарт-карты
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 6bce69d5f14a522f403eed54b56a340ab02316507766c0cc6d60ff897ec73541
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: bdc33773a31a7c9ddfd7adb0f3fb20f8fcf6d520
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119998514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266448"
 ---
 # <a name="cvideotransformfilterreceive-method"></a>Квидеотрансформфилтер. Receive, метод
 
@@ -74,7 +74,7 @@ HRESULT Receive(
 
 Кроме того, этот метод проверяет изменения формата во входном или выходном примере путем вызова [**имедиасампле:: жетмедиатипе**](/windows/desktop/api/Strmif/nf-strmif-imediasample-getmediatype). При изменении формата метод задает тип соединения для соответствующего ПИН-кода. Прежде чем задается новый тип, он вызывает **стопстреаминг**. После установки нового типа он вызывает **стартстреаминг**. Производный класс может использовать эти методы для обновления своего внутреннего состояния. Производному классу также может потребоваться проверить новый формат в его методе **Transform** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -85,7 +85,7 @@ HRESULT Receive(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: Вкладки предоставляют способ предст
 ms.assetid: d90228ce-aa95-4359-be8e-ea2014d71ae6
 ms.topic: article
 ms.date: 10/20/2020
-ms.openlocfilehash: 167b74bab228398eb0334452a5eacd359578d5bfc01efecb52ccafbcd90d376d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d6922865abcaa060cc2e4b13e4768d57bcd17aa8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119819021"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267451"
 ---
 # <a name="tabs"></a>Вкладки
 

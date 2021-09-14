@@ -4,12 +4,12 @@ ms.assetid: 0f47abc1-4e06-4ddc-9ea1-9afb9f27d499
 title: Таблица CustomAction
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 725ac6ad72b1f84da2c43c94a91cd4a466bd02a5af19261b4b07dfd1c496ae76
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 75c8cbfa6500743e2a2ad89627447da1907f6f48
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118947868"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142006"
 ---
 # <a name="customaction-table"></a>Таблица CustomAction
 
@@ -21,11 +21,11 @@ ms.locfileid: "118947868"
 
 | Столбец       | Type                               | Ключ | Допускает значения NULL |
 |--------------|------------------------------------|-----|----------|
-| Действие       | [Идентификатор](identifier.md)       | Д   | Нет        |
+| Действие       | [Идентификатор](identifier.md)       | Да   | Нет        |
 | Тип         | [Integer](integer.md)             | Нет   | Нет        |
-| Источник       | [кустомсаурце](customsource.md)   | Нет   | Д        |
-| Целевой объект       | [Формате](formatted.md)         | Нет   | Д        |
-| ExtendedType | [даублеинтежер](doubleinteger.md) | Нет   | Д        |
+| Источник       | [кустомсаурце](customsource.md)   | Нет   | Да        |
+| Назначение       | [Формате](formatted.md)         | Нет   | Да        |
+| ExtendedType | [даублеинтежер](doubleinteger.md) | Нет   | Да        |
 
 
 
@@ -73,7 +73,7 @@ ms.locfileid: "118947868"
 
 
 
-| Целевой объект                                    | Пользовательское действие                         |
+| Назначение                                    | Пользовательское действие                         |
 |-------------------------------------------|---------------------------------------|
 | Точка входа (обязательно)                    | Вызов библиотеки DLL.                        |
 | Имя исполняемого файла с аргументами (обязательно) | Вызов существующего исполняемого файла.       |

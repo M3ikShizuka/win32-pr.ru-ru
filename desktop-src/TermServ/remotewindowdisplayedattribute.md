@@ -15,12 +15,12 @@ api_type:
 - LibDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5d249e088028f7b8b8238dcc2aa65410931bf0d359037cbb9e637dc5f84a6473
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a137d0ba0b6b692c949ab6c2a0c7b59b0d1fb341
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119988534"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374596"
 ---
 # <a name="remotewindowdisplayedattribute-enumeration"></a>Перечисление Ремотевиндовдисплайедаттрибуте
 
@@ -59,7 +59,7 @@ typedef enum  {
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8<br/>                                                                   |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                         |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                         |
 | Библиотека типов<br/>             | <dl> <dt>MsTscAx.dll</dt> </dl> |
 
 

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 5c07e7483a43ea4f69eac473c76747447932fba57e53e22f79fa0663d4babc86
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5f7fca94c0765722dc2d0b21524c15265f99e7b0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120129654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141954"
 ---
 # <a name="databasegeneratetransform-method"></a>Database. GenerateTransform, метод
 
@@ -52,7 +52,7 @@ Database.GenerateTransform(
 *storage* 
 </dt> <dd>
 
-Имя созданного файла преобразования. Это необязательно.
+Имя созданного файла преобразования. Водить описание не обязательно.
 
 </dd> </dl>
 
@@ -80,7 +80,7 @@ Database.GenerateTransform(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

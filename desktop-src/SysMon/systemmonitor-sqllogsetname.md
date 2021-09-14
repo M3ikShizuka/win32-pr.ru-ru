@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: be20ccc561eb3e9292b4a95dcc654ed7bac00ba7
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104071079"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243859"
 ---
 # <a name="systemmonitorsqllogsetname-property"></a>Свойство Системмонитор:: Скллогсетнаме
 
@@ -38,11 +38,11 @@ Property SqlLogSetName As String
 
 ## <a name="property-value"></a>Значение свойства
 
-Понятное имя набора журналов, которое соответствует одному файлу журнала, содержащему двоичные или текстовые данные в базе данных SQL.
+понятное имя набора журналов, которое соответствует единственному файлу журнала, содержащему двоичные или текстовые данные в базе данных SQL.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-**До Windows Vista:** Невозможно изменить это свойство, если для [**системмонитор. DataSourceType**](systemmonitor-datasourcetype.md) задано значение сисмонскллог.
+**до Windows Vista:** Невозможно изменить это свойство, если для [**системмонитор. DataSourceType**](systemmonitor-datasourcetype.md) задано значение сисмонскллог.
 
 ## <a name="requirements"></a>Требования
 

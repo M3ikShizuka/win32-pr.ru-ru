@@ -4,12 +4,12 @@ ms.assetid: c0c1c1e4-de5b-405d-abe8-33a985ce98e5
 title: Реализация Сцесвкаттачментконфиг
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d2eef460184773b4b09bed3ae36c88ae5854bc001cb9437aaaccce66231838eb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6e98eb519e6422e3036ddfb203811322befd2713
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117969312"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374888"
 ---
 # <a name="implementing-scesvcattachmentconfig"></a>Реализация Сцесвкаттачментконфиг
 

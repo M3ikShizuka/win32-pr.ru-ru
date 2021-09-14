@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ff79de8bc1740e659b8f0398c0fa84958c1bfcffda505f1a26322da442dcc19b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0fb73cd62c5ab5c343f44f24bbbd8de7f6343a21
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119059572"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374733"
 ---
 # <a name="gettstolsconnectivitystatus-method-of-the-win32_terminalservicesetting-class"></a>Метод Жеттстолсконнективитистатус \_ класса Win32 терминалсервицесеттинг
 

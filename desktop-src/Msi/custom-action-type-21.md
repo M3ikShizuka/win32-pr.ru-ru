@@ -4,12 +4,12 @@ ms.assetid: 0b28ad22-4e3a-49f2-8eed-2341a91eb67c
 title: Тип настраиваемого действия 21
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cc6184455b15b1bcea1c53532ef53ef526b7af159d81322994220186d6cd187e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3c5bb7482c2f7c7b6cbd85af7a6f01cc83edbb89
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120105264"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142069"
 ---
 # <a name="custom-action-type-21"></a>Тип настраиваемого действия 21
 
@@ -45,7 +45,7 @@ Windows Установщик может использовать [64-разря�
 
  
 
-## <a name="target"></a>Целевой объект
+## <a name="target"></a>Назначение
 
 Целевое поле [таблицы CustomAction](customaction-table.md) содержит необязательную функцию скрипта. Сначала обработка отправляет скрипт для синтаксического анализа, а затем вызывает необязательную функцию скрипта.
 

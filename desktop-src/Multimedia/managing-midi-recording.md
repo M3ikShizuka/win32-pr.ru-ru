@@ -10,11 +10,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 0edfb81976e1f5333798c9705640e7676281968a
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124370866"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127375197"
 ---
 # <a name="managing-midi-recording"></a>Управление записью MIDI
 
@@ -41,7 +41,7 @@ ms.locfileid: "124370866"
 
 Для записи безсистемных сообщений с приложениями, которые не используют буферы потоков, необходимо предоставить драйверу устройства буферы. Эти буферы указываются с помощью структуры [**мидихдр**](/windows/win32/api/mmeapi/ns-mmeapi-midihdr) .
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

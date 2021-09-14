@@ -5,11 +5,11 @@ title: Поддержка NUMA
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 503b64f6f18779fb66a87fc3c45b682fcb97248c
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122479430"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127375017"
 ---
 # <a name="numa-support"></a>Поддержка NUMA
 
@@ -180,7 +180,7 @@ for (ProcessorIndex = 0; ProcessorIndex < ProcessorCount; ProcessorIndex += 1) {
 
 
 
-| Компонент                                                                     | Описание                                                                                                                                                                                                                     |
+| Функция                                                                     | Описание                                                                                                                                                                                                                     |
 |------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**аллокатеусерфисикалпажеснума**](/windows/win32/api/memoryapi/nf-memoryapi-allocateuserphysicalpagesnuma)      | Выделяет страницы физической памяти для сопоставления и несоответствия в любом регионе [расширений](../memory/address-windowing-extensions.md) AWE указанного процесса и указывает узел NUMA для физической памяти. |
 | [**креатефилемаппингнума**](/windows/win32/api/memoryapi/nf-memoryapi-createfilemappingnumaw)                      | Создает или открывает именованный или безымянный объект сопоставления файлов для указанного файла и указывает узел NUMA для физической памяти.                                                                                              |

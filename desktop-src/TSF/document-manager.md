@@ -11,11 +11,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: dc2182782218ad6a8aa0a70f296f639560307249
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103774450"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243667"
 ---
 # <a name="document-manager"></a>Диспетчер документов
 
@@ -29,7 +29,7 @@ ms.locfileid: "103774450"
 
 Служба текстового ввода также может использовать диспетчер документов для создания собственного контекста и добавления и удаления из стека контекста. Обычно это делается, когда текстовая служба должна отображать некоторый модальный пользовательский интерфейс, например, когда отображается список слов, позволяющий пользователю выбрать слово. При отображении списка служба текста помещает собственный контекст в стек. Когда список слов закрывается, служба текстового ввода удаляет его контекст из стека.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -42,9 +42,9 @@ ms.locfileid: "103774450"
 [ITfThreadMgr:: Focus](/windows/desktop/api/Msctf/nf-msctf-itfthreadmgr-getfocus)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

@@ -4,12 +4,12 @@ description: в Windows 7 включены новые и улучшенные ф
 ms.assetid: c3f19338-8ada-4ded-82a9-ca0869ad469d
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7c421256c23042ad1ea4bad57a616047e43276449bd93f771543d4eb41286c7b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 87a3b317f2fe0c7d42559245108bae6a5dbf0e6f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119329744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267323"
 ---
 # <a name="security-windows-7-developer-guide"></a>безопасность (руководством для разработчиков Windows 7)
 

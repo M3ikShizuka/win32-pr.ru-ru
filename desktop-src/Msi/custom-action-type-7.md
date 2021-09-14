@@ -4,12 +4,12 @@ ms.assetid: 4a8f35f9-58a8-417e-b72e-159f4af7d83f
 title: Тип настраиваемого действия 7
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f6735546b4db55bc8f9875fa2cd267eb0877a52c92e0a0073a942165dc413055
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f2d3cc1c68fae098c6ef70797ed87df887ff898a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118947915"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142013"
 ---
 # <a name="custom-action-type-7"></a>Тип настраиваемого действия 7
 
@@ -33,7 +33,7 @@ ms.locfileid: "118947915"
 
  
 
-## <a name="target"></a>Целевой объект
+## <a name="target"></a>Назначение
 
 Целевое поле [таблицы CustomAction](customaction-table.md) содержит параметры свойств, которые должны быть переданы в параллельную установку. Эти параметры свойств могут задавать функции.
 

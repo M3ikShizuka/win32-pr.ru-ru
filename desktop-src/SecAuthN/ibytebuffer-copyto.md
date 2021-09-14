@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Scardssp.dll
-ms.openlocfilehash: 4c4dc3861120d56dd5bff13fe1e77fd97e1fc32efed9622f18ee51b5160d1c35
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9f6b35a2cfa2de459bb5e7acfcb9853e83ae0a55
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119417644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244372"
 ---
 # <a name="ibytebuffercopyto-method"></a>Метод Ибитебуффер:: CopyTo
 
@@ -80,7 +80,7 @@ HRESULT CopyTo(
 
 Этот метод копирует указанные байты из одного потока в другой. Его также можно использовать для копирования потока в себя. Указатель поиска в каждом экземпляре потока корректируется на количество считанных или записанных байтов.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -89,8 +89,8 @@ HRESULT CopyTo(
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                                                   |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Скардссп. h</dt> </dl>   |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
+| Заголовок<br/>                   | <dl> <dt>Скардссп. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Скардссп. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Scardssp.dll</dt> </dl> |
 | IID<br/>                      | IID \_ ибитебуффер определен как E126F8FE-A7AF-11D0-B88A-00C04FD424B9<br/>          |

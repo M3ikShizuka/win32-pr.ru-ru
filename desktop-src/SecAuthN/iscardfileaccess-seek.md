@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: 5f4059eb2943411cfa5a3fb2b2ae247cd0fda7dd735cc1f1f61d516181976b6d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c0d23925ba1c38a05e15bea5e6ee63b3a1c87125
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118923163"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244342"
 ---
 # <a name="iscardfileaccessseek-method"></a>Метод Искардфилеакцесс:: Seek
 
@@ -99,7 +99,7 @@ HRESULT Seek(
 
 Кроме приведенных выше кодов ошибок COM, этот интерфейс может возвращать код ошибки смарт-карты, если для завершения запроса была вызвана функция смарт-карты. Дополнительные сведения см. в статье [возвращаемые значения смарт-карты](authentication-return-values.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -108,7 +108,7 @@ HRESULT Seek(
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>          |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/> |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                       |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                       |
 
 
 
@@ -119,10 +119,10 @@ HRESULT Seek(
 [**искардфилеакцесс**](iscardfileaccess.md)
 </dt> <dt>
 
-[**Чтение**](iscardfileaccess-read.md)
+[**Просмотр**](iscardfileaccess-read.md)
 </dt> <dt>
 
-[**Запись**](iscardfileaccess-write.md)
+[**Будет**](iscardfileaccess-write.md)
 </dt> </dl>
 
  

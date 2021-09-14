@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 51f1d716d36aafbd3625ae1144e0adde1abf0898bee4cbe6831d627cea97bb9b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 33edcf6bdff9e1587269df9eb49c3729099d091e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119618774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243328"
 ---
 # <a name="axwindowsmediaplayeruimode-property"></a>Аксвиндовсмедиаплайер. uiMode, свойство
 
@@ -56,7 +56,7 @@ Public Property uiMode As System.String
 | нет      | проигрыватель Windows Media внедряется без элементов управления и только с отображением окна видео или визуализации.                                                                                                   | ![UIMODE = "нет" с аудио](images/uimode-none-audio-v11.png) | ![UIMODE = "нет" с видео](images/uimode-none-video-v11.png) |
 | Mini      | проигрыватель Windows Media внедряется в окно состояния, воспроизведение/пауза, остановка, отключение звука и элементы управления громкостью, отображаемые в дополнение к окну видео или визуализации.                                                    | ![UIMODE = ' Мини ' с аудио](images/uimode-mini-audio-v11.png) | ![UIMODE = ' Мини ' с видео](images/uimode-mini-video-v11.png) |
 | переполненные      | По умолчанию. в дополнение к окну видео или визуализации проигрыватель Windows Media внедряется в окно состояния, строку поиска, воспроизведение/пауза, остановить, выключить звук, далее, назад, вперед, назад, а также элементы управления громкостью. | ![UIMODE = ' Full ' с аудио](images/uimode-full-audio-v11.png) | ![UIMODE = ' Full ' с видео](images/uimode-full-video-v11.png) |
-| пользовательский    | проигрыватель Windows Media внедряется с настраиваемым пользовательским интерфейсом. Может использоваться только в программах на C++.                                                                                                                | (Отображается настраиваемый пользовательский интерфейс.)                           | (Отображается настраиваемый пользовательский интерфейс.)                           |
+| custom    | проигрыватель Windows Media внедряется с настраиваемым пользовательским интерфейсом. Может использоваться только в программах на C++.                                                                                                                | (Отображается настраиваемый пользовательский интерфейс.)                           | (Отображается настраиваемый пользовательский интерфейс.)                           |
 
 
 
@@ -125,7 +125,7 @@ End Sub
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -137,7 +137,7 @@ End Sub
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

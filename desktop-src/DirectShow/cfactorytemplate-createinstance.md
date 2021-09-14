@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 816d690a7e57df83b3f521f4591c3334269d0fccebbaeac480e7aacb46253273
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0f67ba528943bc2a468419fc84db44359745d4a7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119074208"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266603"
 ---
 # <a name="cfactorytemplatecreateinstance-method"></a>Кфакторитемплате. CreateInstance, метод
 
@@ -65,7 +65,7 @@ CUnknown* CreateInstance(
 
 Метод **IClassFactory:: CreateInstance** вызывает этот метод класса. Этот метод вызывает функцию, на которую указывает переменная члена [**кфакторитемплате:: m \_ лпфннев**](cfactorytemplate-m-lpfnnew.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ CUnknown* CreateInstance(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

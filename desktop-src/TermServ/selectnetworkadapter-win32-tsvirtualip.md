@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7d27df38f8314720c4ed16d675cdbd06424611d2ccd127a45069586875c82d77
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a3a362bea1a5cacbfd727f23504f19164c79ce65
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119865524"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374517"
 ---
 # <a name="selectnetworkadapter-method-of-the-win32_tsvirtualip-class"></a>Метод Селектнетворкадаптер \_ класса Win32 тсвиртуалип
 
@@ -62,7 +62,7 @@ uint32 SelectNetworkAdapter(
 
 Метод возвращает ошибку, если параметр находится в разделе Управление групповой политикой.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ uint32 SelectNetworkAdapter(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

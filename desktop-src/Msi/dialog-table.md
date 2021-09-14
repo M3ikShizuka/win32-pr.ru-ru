@@ -4,12 +4,12 @@ ms.assetid: 981386dd-4fee-4003-8c62-16933cc5bd14
 title: Таблица диалоговых окон
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 554bc551b41a7ebeaa8b63b2a0d1b74a0f55cfb1d7a087936a394a060286caba
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 09a210ad051eec950dcff8f8f940a1df11bf74c3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119692844"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141830"
 ---
 # <a name="dialog-table"></a>Таблица диалоговых окон
 
@@ -21,16 +21,16 @@ ms.locfileid: "119692844"
 
 | Столбец           | Type                               | Ключ | Допускает значения NULL |
 |------------------|------------------------------------|-----|----------|
-| Диалог           | [Идентификатор](identifier.md)       | Д   | Нет        |
+| Диалог           | [Идентификатор](identifier.md)       | Да   | Нет        |
 | хцентеринг       | [Integer](integer.md)             | Нет   | Нет        |
 | VCentering       | [Integer](integer.md)             | Нет   | Нет        |
 | Ширина            | [Integer](integer.md)             | Нет   | Нет        |
-| Высота           | [Integer](integer.md)             | Нет   | Нет        |
-| Атрибуты       | [даублеинтежер](doubleinteger.md) | Нет   | Д        |
-| Название            | [Формате](formatted.md)         | Нет   | Д        |
+| Высота:           | [Integer](integer.md)             | Нет   | Нет        |
+| Атрибуты       | [даублеинтежер](doubleinteger.md) | Нет   | Да        |
+| Заголовок            | [Формате](formatted.md)         | Нет   | Да        |
 | Сначала элемент управления \_   | [Идентификатор](identifier.md)       | Нет   | Нет        |
-| Элемент управления \_ по умолчанию | [Идентификатор](identifier.md)       | Нет   | Д        |
-| \_Отмена управления  | [Идентификатор](identifier.md)       | Нет   | Д        |
+| Элемент управления \_ по умолчанию | [Идентификатор](identifier.md)       | Нет   | Да        |
+| \_Отмена управления  | [Идентификатор](identifier.md)       | Нет   | Да        |
 
 
 

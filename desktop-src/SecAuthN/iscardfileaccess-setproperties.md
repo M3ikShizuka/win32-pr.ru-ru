@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: b56ae58db754de7b7182bc11bded164da525d649d77d98656adebabfa9922f96
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b54c2193ec17bca9f9b3ba00b2c2bc133707dbb2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119007932"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244336"
 ---
 # <a name="iscardfileaccesssetproperties-method"></a>Метод Искардфилеакцесс:: SetProperties
 
@@ -65,7 +65,7 @@ HRESULT SetProperties(
 *бстрпасспек* \[ окне\]
 </dt> <dd>
 
-File.
+Файл.
 
 </dd> <dt>
 
@@ -109,7 +109,7 @@ File.
 
 Кроме приведенных выше кодов ошибок COM, этот интерфейс может возвращать код ошибки [*смарт-карты*](../secgloss/s-gly.md) , если для завершения запроса была вызвана функция смарт-карты. Дополнительные сведения см. в статье [возвращаемые значения смарт-карты](authentication-return-values.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -118,11 +118,11 @@ File.
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>          |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/> |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                       |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                       |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

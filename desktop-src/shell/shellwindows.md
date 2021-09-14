@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Shell32.dll
-ms.openlocfilehash: b558bf4df33e84fabae7e70c1722d78647514a52df8f62d05f8ecba8916c488a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6a3a782dd4e29d56f5edc7a869004ac7b3fb7ccd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117857093"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267752"
 ---
 # <a name="shellwindows-object"></a>Объект Шеллвиндовс
 
@@ -46,13 +46,13 @@ ms.locfileid: "117857093"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Объект **шеллвиндовс** имеет следующие свойства.
 
 
 
-| Свойство                                       | Тип доступа          | Описание                                                |
+| Свойство.                                       | Тип доступа          | Описание                                                |
 |:-----------------------------------------------|:---------------------|:-----------------------------------------------------------|
 | [**Count**](shellwindows-count.md)<br/> | Только для чтения<br/> | Содержит число элементов в коллекции.<br/> |
 

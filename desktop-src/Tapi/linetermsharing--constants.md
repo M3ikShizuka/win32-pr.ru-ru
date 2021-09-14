@@ -5,11 +5,11 @@ title: Константы LINETERMSHARING_ (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: a2587621b6362195a610339ba5620b32f1d4f761
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105685374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374792"
 ---
 # <a name="linetermsharing_-constants"></a>\_Константы линетермшаринг
 
@@ -47,7 +47,7 @@ ms.locfileid: "105685374"
 
 </dt> </dl> </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Без расширяемости. Все 32 бит зарезервированы.
 
@@ -60,7 +60,7 @@ ms.locfileid: "105685374"
 | Требование | Значение |
 |-------------------------|-----------------------------------------------------------------------------------|
 | Версия TAPI<br/> | Требуется TAPI 2,0 или более поздней версии<br/>                                             |
-| Header<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
+| Заголовок<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
 
 
 

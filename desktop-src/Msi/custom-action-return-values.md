@@ -4,12 +4,12 @@ ms.assetid: 56c2d639-eef8-47cd-9d47-9a4781b9be36
 title: Возвращаемые значения настраиваемого действия
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f3853cfeafba22cb2d479feb1e699c29bcf4b0ab7a08402245f30958cb593df6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7c01ba6273aea6cf950edb56ef3c2a94ab9a272d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120045004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142101"
 ---
 # <a name="custom-action-return-values"></a>Возвращаемые значения настраиваемого действия
 

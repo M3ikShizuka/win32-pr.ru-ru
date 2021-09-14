@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7a873ed4f4ceaff4aa3dad678dbb4c1fd7a635b0ce41d7a9480af84278c8360c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d8a1b44b7894ea9762b450c5a5d6c2b022c5e02f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119061562"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244900"
 ---
 # <a name="gluquadricdrawstyle-function"></a>Функция Глукуадрикдравстиле
 

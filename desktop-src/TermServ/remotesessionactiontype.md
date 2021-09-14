@@ -15,12 +15,12 @@ api_type:
 - LibDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a107ee44f058d776a906fef37b2e384ed6d8970224c44a6846b257c5f336c515
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 291bb9fdd2cadfef3881bc27a47f9fc1bb1bce68
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119865714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374597"
 ---
 # <a name="remotesessionactiontype-enumeration"></a>Перечисление Ремотесессионактионтипе
 
@@ -90,19 +90,19 @@ typedef enum _RemoteSessionActionType {
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8<br/>                                                                   |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                         |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                         |
 | Библиотека типов<br/>             | <dl> <dt>MsTscAx.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

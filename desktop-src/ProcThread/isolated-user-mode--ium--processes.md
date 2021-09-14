@@ -4,12 +4,12 @@ ms.assetid: 58374CC4-593F-4B91-A5E4-85E29C44F8B4
 title: Процессы с изолированным пользовательским режимом (ИУМ)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 982d9924f60d02a74aa7237e5c3bb16e787f1d3a0cc07e9693e9cd47335cedc5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 81a176421174a58abe4ab595bb37ab75434edade
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120032551"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127375061"
 ---
 # <a name="isolated-user-mode-ium-processes"></a>Процессы с изолированным пользовательским режимом (ИУМ)
 

@@ -6,11 +6,11 @@ ms.assetid: 7541c6af-c8a7-407e-b121-c64a7ccfaebb
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: efbc57c7e2b8ff9cd6e6b7b29f1832b30b7f80a5
-ms.sourcegitcommit: 8fa6614b715bddf14648cce36d2df22e5232801a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "105661813"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243757"
 ---
 # <a name="a-text-services-framework"></a>A (платформа текстовых служб)
 

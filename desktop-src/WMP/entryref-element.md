@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 61fa3403fc56c6a02f97330b3c2f62d1c3e3c723f50672520ea42fb4a2018705
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 520a4262baf17badb136b55e7b2e216bf89d7edf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118996674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243283"
 ---
 # <a name="entryref-element"></a>ЕНТРИРЕФ, элемент
 
@@ -47,7 +47,7 @@ URL-адрес метафайла, на который указывает ссы
 | Иерархия       | Элементы                       |
 |-----------------|--------------------------------|
 | Родительские элементы | **ASX**, **событие**, **Повтор** |
-| Дочерние элементы  | Нет                           |
+| Дочерние элементы  | None                           |
 
 
 

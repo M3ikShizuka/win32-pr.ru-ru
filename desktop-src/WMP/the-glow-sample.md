@@ -10,12 +10,12 @@ keywords:
 - Пример визуализации с свечением
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7551caabcb5b4cf9f52353156609857a66ccde004513f8beaf05079b6b0a3f92
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d553334e2cc145f291c61bf8dd79c430601947e7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119762784"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243061"
 ---
 # <a name="the-glow-sample"></a>Пример свечения
 

@@ -4,12 +4,12 @@ ms.assetid: 1c1e4f4f-1ccb-444c-940a-a1963d97714d
 title: Тип настраиваемого действия 37
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b1595279d2c8f66e1b899ad88ad6a9d5c164c2727b5c905ce66700479ed32446
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 30a42d4837af6fe2878f33624251d9c06550855b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119996823"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142049"
 ---
 # <a name="custom-action-type-37"></a>Тип настраиваемого действия 37
 
@@ -45,7 +45,7 @@ Windows Установщик может использовать 64-разряд
 
  
 
-## <a name="target"></a>Целевой объект
+## <a name="target"></a>Назначение
 
 Целевое поле [таблицы CustomAction](customaction-table.md) содержит код скрипта для настраиваемого действия в виде строки литерального текста скрипта.
 

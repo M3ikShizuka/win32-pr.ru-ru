@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - PortableDevice.h
-ms.openlocfilehash: 5f2c6f8a5707780bae6c8a135e3ca940fb4a77408c3df835b321b5b190644fcc
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a636bc95fd3d25de20c2df413576a504c4fa1b96
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119703724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266776"
 ---
 # <a name="wpd_video_scan_types-enumeration"></a>\_ \_ Перечисление типов сканирования видеороликов WPD \_
 
@@ -146,7 +146,7 @@ typedef enum WPD_VIDEO_SCAN_TYPES {
 
 ...
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -156,7 +156,7 @@ typedef enum WPD_VIDEO_SCAN_TYPES {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

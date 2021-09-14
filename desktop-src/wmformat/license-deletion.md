@@ -16,12 +16,12 @@ keywords:
 - лицензии, удаление
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8dd1e20c0e98fd2129b807cf11f27f5975701d851d9301eda894ccb24015360a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0f297db679ac2c8afe2c836d032fa045d6955665
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119808304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267096"
 ---
 # <a name="license-deletion"></a>Удаление лицензий
 

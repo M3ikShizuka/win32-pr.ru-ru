@@ -4,12 +4,12 @@ ms.assetid: a7169938-1c72-4c4c-881a-cb08ad6182c7
 title: Служба планировщика классов мультимедиа
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cf0744883180c361d5656cf7c182f538d93617be7f6bbdc6a05ff93efa732b53
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 80656276af30495c084d0964534a04e11896bcd2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120032444"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127375045"
 ---
 # <a name="multimedia-class-scheduler-service"></a>Служба планировщика классов мультимедиа
 

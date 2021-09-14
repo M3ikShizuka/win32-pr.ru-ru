@@ -4,12 +4,12 @@ ms.assetid: 594183ce-ef13-47f6-a4ae-37ba09c06cbd
 title: Дефаултуифонт, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 46bf4c432a0e75c933136cc11e1dd8a55cc6a4cdf2f09c923804132b743e88c9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e3791219dcef84253280fec3c797f2035afd239f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119289584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141901"
 ---
 # <a name="defaultuifont-property"></a>Дефаултуифонт, свойство
 
@@ -21,7 +21,7 @@ ms.locfileid: "119289584"
 
 Текст и стиль шрифта элемента управления можно задать, как описано в разделе [Добавление элементов управления и текста](adding-controls-and-text.md). Если символьная строка, указанная в столбце text [таблицы управления](control-table.md) или [ббконтрол](bbcontrol-table.md) , не указывает стиль шрифта, элемент управления использует значение свойства **дефаултуифонт** в качестве стиля шрифта.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -6,12 +6,12 @@ keywords:
 - раскадровки Windows анимация, планирование
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 013adc114fd09f518c34bc15ca2e7799381b6cee3dfeeedaf3b26fcae6d506e6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3feae253804d20711c9bbd8ed50895f43272a3f4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120008174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243385"
 ---
 # <a name="schedule-a-storyboard"></a>Планирование раскадровки
 

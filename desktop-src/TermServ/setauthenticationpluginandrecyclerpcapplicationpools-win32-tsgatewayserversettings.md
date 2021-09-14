@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a839f13069b296385264b8173b2e7f4a39d47fa190e826e226d1bfa407acaeb5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b234e04c349d20ea178de12f050190b30193d444
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119138017"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374497"
 ---
 # <a name="setauthenticationpluginandrecyclerpcapplicationpools-method-of-the-win32_tsgatewayserversettings-class"></a>Метод Сетаусентикатионплугинандрециклерпкаппликатионпулс \_ класса Win32 тсгатевайсерверсеттингс
 

@@ -4,12 +4,12 @@ description: Определяет \_ \_ \_ свойство подчеркива
 ms.assetid: 88492558-ab19-4606-8fe0-5f100677b88a
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b75142e08549c2084ebcd37e82943ed63fdfb5b278faef01c4ad79441fa36915
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 066027e5f62416667619937eea7dbe493a3ff279
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118706728"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267264"
 ---
 # <a name="ui_pkey_fontproperties_underline"></a>Подчеркивание пользовательского интерфейса \_ PKEY \_ фонтпропертиес \_
 
@@ -41,7 +41,7 @@ propertyDescription
 
 
 
-|      Свойство                   |       Результат пользовательского интерфейса                                                          |
+|      Свойство.                   |       Результат пользовательского интерфейса                                                          |
 |---------------------------------|--------------------------------------------------------------------------|
 | `UI_FONTUNDERLINE_NOTAVAILABLE` | Кнопка **подчеркивания** отключена и может быть задана только приложением. |
 | `UI_FONTUNDERLINE_NOTSET`       | Кнопка **подчеркивания** не выбрана.                                    |

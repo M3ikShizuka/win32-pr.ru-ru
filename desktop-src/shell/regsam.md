@@ -22,12 +22,12 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: e202e615561ce0c51f44fc39726d8ab864afc2b5e1bcbbe5612edbb74c476c29
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2700e278f86db046d532b91b64bf5a2d00582e14
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119820424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267835"
 ---
 # <a name="regsam"></a>регсам
 
@@ -54,7 +54,7 @@ ms.locfileid: "119820424"
 
 Значение **регсам** может быть одним или несколькими перечисляемыми значениями.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -7,12 +7,12 @@ keywords:
 - Запрос комментариев, удаленный доступ
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4fb84dace29ab2924eec2f9071a1aedda08cc96705e2cc9ff2da06e7b3e0bdda
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7636f148570e9e1f3f488dad7b23043cec5e7c03
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117788569"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244750"
 ---
 # <a name="remote-access-request-for-comments"></a>Запрос на удаленный доступ для комментариев
 

@@ -6,12 +6,12 @@ keywords:
 - WS_XML_BUFFER
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 576c901434bb1d05aecbadc52ce51b163023b99e3c7c8959f0169e2e9b0badad
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 22f84bc755d24d07e8e2ed9bacf91b644c883871
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118962763"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266707"
 ---
 # <a name="ws_xml_buffer"></a>\_XML- \_ буфер WS
 
@@ -28,7 +28,7 @@ typedef struct _WS_XML_BUFFER WS_XML_BUFFER;
 
 Этот объект не является потокобезопасным. Дополнительные сведения см. в статье [безопасность потоков](thread-safety.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -40,7 +40,7 @@ typedef struct _WS_XML_BUFFER WS_XML_BUFFER;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cc18dd0bf72ac63216e71e1a7db6a133d6a97f79d3a62876f8a9c9458007e25d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0f7a43e737b39b9bea18ee3925b5c3f55440d2a6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119138037"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374480"
 ---
 # <a name="setcertificateacl-method-of-the-win32_tsgatewayserversettings-class"></a>Метод Сетцертификатеакл \_ класса Win32 тсгатевайсерверсеттингс
 

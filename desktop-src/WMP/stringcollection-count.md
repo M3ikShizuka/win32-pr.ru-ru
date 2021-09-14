@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ac93b14cf79aadc6622f00e9d3867d3dfdb50955799f1185db80d2fb1e8b271d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ce3e0a755411228d8a71de1cdc781c360050ee94
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119571784"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243082"
 ---
 # <a name="stringcollectioncount"></a>StringCollection. Count
 
@@ -37,7 +37,7 @@ ms.locfileid: "119571784"
 
 Чтобы получить значение этого свойства, требуется доступ на чтение к библиотеке. Дополнительные сведения см. в разделе [доступ к библиотеке](library-access.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -48,7 +48,7 @@ ms.locfileid: "119571784"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

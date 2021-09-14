@@ -14,12 +14,12 @@ api_type:
 - Assembly
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0ceeba7942be4180d02a44ff19d63c10f9bc9df0bba745fdf69bcf10e97c3052
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5182352f7f18727a1c11e9a0ef49e8141000d299
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119764663"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243343"
 ---
 # <a name="stringcollectionchange-event-of-the-axwindowsmediaplayer-object"></a>Событие Стрингколлектиончанже объекта Аксвиндовсмедиаплайер
 
@@ -45,7 +45,7 @@ Private Sub player_StringCollectionChange(
 
 
 
-| Свойство              | Описание                                                                                                                           |
+| Свойство.              | Описание                                                                                                                           |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 | пдиспстрингколлектион | Измененный элемент коллекции строк System. Обжектсе. Это можно привести к интерфейсу Ивмпстрингколлектион для доступа к нему.<br/> |
 | лколлектиониндекс      | Индекс System. Int32The элемента коллекции строк, который был изменен.<br/>                                                          |
@@ -55,7 +55,7 @@ Private Sub player_StringCollectionChange(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -67,7 +67,7 @@ Private Sub player_StringCollectionChange(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

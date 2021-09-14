@@ -4,12 +4,12 @@ ms.assetid: 6b20ab30-2cd9-4f2e-a26b-316980c4bc78
 title: Билеты сеансов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d7b514abc76eabcbe70f00c1e879b9389c83ad333d7b5c10d4150478f03db6a6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 762223311dd71f8bded5e021372d3a281f711eda
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118918073"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244120"
 ---
 # <a name="session-tickets"></a>Билеты сеансов
 

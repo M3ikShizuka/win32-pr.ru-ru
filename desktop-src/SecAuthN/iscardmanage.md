@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: c027ae9004a8437f3d182fdef3335c8fbbad67abaab5c15e351520f2ae592818
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cce31ea21701c098b09a0bd96360afb374a9bccc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118922653"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244150"
 ---
 # <a name="iscardmanage-interface"></a>Интерфейс Искардманаже
 
@@ -57,7 +57,7 @@ ms.locfileid: "118922653"
 | [**креатечверификатион**](iscardmanage-createchverification.md) | Позволяет создавать интерфейс [**искардверифи**](iscardverify.md) .<br/>                                                                                                                                                                                        |
 | [**креатефилеакцесс**](iscardmanage-createfileaccess.md)         | Позволяет создавать интерфейс [**искардфилеакцесс**](iscardfileaccess.md) .<br/>                                                                                                                                                                                |
 | [**креатеинтерфаце**](iscardmanage-createinterface.md)           | Разрешает создание интерфейса.<br/>                                                                                                                                                                                                                            |
-| [**Detach**](iscardmanage-detach.md)                             | Освобождает вложение на конкретную смарт-карту или модуль чтения, выделенный [**аттачбихандле**](iscardmanage-attachbyhandle.md) или [**аттачбифд**](iscardmanage-attachbyifd.md) соответственно.<br/>                                                                |
+| [**Соединил**](iscardmanage-detach.md)                             | Освобождает вложение на конкретную смарт-карту или модуль чтения, выделенный [**аттачбихандле**](iscardmanage-attachbyhandle.md) или [**аттачбифд**](iscardmanage-attachbyifd.md) соответственно.<br/>                                                                |
 | [**Повтор соединения**](iscardmanage-reconnect.md)                       | Позволяет приложению повторно подключаться к смарт-карте или модулю чтения без необходимости выдавать [**отсоединение**](iscardmanage-detach.md) , за которым следует [**аттачбихандле**](iscardmanage-attachbyhandle.md) или [**аттачбифд**](iscardmanage-attachbyifd.md) соответственно.<br/> |
 | [**скардлокк**](iscardmanage-scardlock.md)                       | Блокирует подключенную смарт-карту или модуль чтения для монопольного использования.<br/>                                                                                                                                                                                                       |
 | [**скардунлокк**](iscardmanage-scardunlock.md)                   | Снимает эксклюзивное использование подключенной смарт-карты или модуля чтения.<br/>                                                                                                                                                                                                   |
@@ -67,7 +67,7 @@ ms.locfileid: "118922653"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
