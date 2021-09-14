@@ -4,12 +4,12 @@ ms.assetid: 16337b77-23c5-4b7a-a344-66a02ee0e8a8
 title: Управление доступом низкого уровня
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e45a0a2e64055a249c1b743ae4159ee3de7f7dbd5a1cfce63dad4289b27bf941
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b10ae3187348e395372030dfe9add31b7690c534
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117781558"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057065"
 ---
 # <a name="low-level-access-control"></a>Управление доступом низкого уровня
 

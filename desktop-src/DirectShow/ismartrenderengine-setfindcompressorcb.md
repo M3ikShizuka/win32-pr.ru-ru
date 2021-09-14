@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: 6c2c3407e3b18f66784a560ac6c57c7dd1aa2ece0a637600a33125345809d237
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aba7de54e02433762c63bc7bc8addea5b94b48e2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117817398"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055484"
 ---
 # <a name="ismartrenderenginesetfindcompressorcb-method"></a>Метод Исмартрендеренгине:: Сетфиндкомпрессоркб
 
@@ -54,7 +54,7 @@ HRESULT SetFindCompressorCB(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.
@@ -66,7 +66,7 @@ HRESULT SetFindCompressorCB(
 
  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

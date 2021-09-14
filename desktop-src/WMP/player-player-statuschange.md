@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a4643db91003418c8523de31e73c1a4ec8c9f0efa181c16d705ccd4a4db96ff5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6c11aaa81c8bfe45c986ba3b3c5dd2524130694e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118337914"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056314"
 ---
 # <a name="playerstatuschange-event"></a>Событие Player. StatusChange
 
@@ -44,7 +44,7 @@ Player.StatusChange()
 
 Это событие не возвращает значение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ Player.StatusChange()
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

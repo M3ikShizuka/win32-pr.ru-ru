@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d133038c0adad2fe7eaa1ae98cf638fe6bd13fad82df3b3d2d1ac384a30e1a80
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a0c29b5815da5569059ba80c007d6af39d1e389f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119576644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054427"
 ---
 # <a name="em_getundoname-message"></a>\_Сообщение ЖЕТУНДОНАМЕ EM
 
@@ -51,11 +51,11 @@ Microsoft Rich Edit 1,0: это сообщение не поддерживает
 
 Если нет действий, которые можно отменить, или тип следующего действия отмены неизвестен, возвращаемое значение равно нулю.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Типы действий, которые могут быть отменены или повторно выполнены, включают операции ввода, удаления, перетаскивания, удаления, вырезания и вставки. Эти сведения могут быть полезны для приложений, которые предоставляют расширенный пользовательский интерфейс для операций отмены и повтора, например раскрывающийся список действий, которые могут быть отменены.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -67,7 +67,7 @@ Microsoft Rich Edit 1,0: это сообщение не поддерживает
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

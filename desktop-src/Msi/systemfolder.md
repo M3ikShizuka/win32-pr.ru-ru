@@ -4,18 +4,18 @@ ms.assetid: 23883638-8d3d-4c2a-8ebf-0c306cf01e05
 title: Системфолдер, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1567942e981af161654d41988ef797b64116af5cdb25e07a3d4f1465fc4ce975
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2abce6e4aa91289ef17134ab3cb878a665d3097c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118142012"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057583"
 ---
 # <a name="systemfolder-property"></a>Системфолдер, свойство
 
 Установщик задает для свойства **системфолдер** полный путь к системной папке.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Установщик задает это свойство. например, в 32-бит Windows значением может быть C: \\ Windows \\ System32. в 64-разрядной Windows значением может быть C: \\ Windows \\ SysWow64.
 
@@ -23,7 +23,7 @@ ms.locfileid: "118142012"
 
 Эта папка является локальной, даже если она настроена для общего Windows.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

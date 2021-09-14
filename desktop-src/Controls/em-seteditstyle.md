@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 06789b1d1fedfc76af205ac46aac7d3ea4bb882f2460676df96cd018d5a216b8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 14c7b7e1d3990a00fb6931ed39bbd28aa6f8c2ce
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120048594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054364"
 ---
 # <a name="em_seteditstyle-message"></a>\_Сообщение СЕТЕДИТСТИЛЕ EM
 
@@ -47,7 +47,7 @@ ms.locfileid: "120048594"
 
 Возвращаемое значение является состоянием флагов стиля правки после того, как элемент управления Rich Edit попытается применить изменения стиля редактирования. Флаги редактирования стиля представляют собой набор флагов, указывающих текущий стиль редактирования.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -60,7 +60,7 @@ ms.locfileid: "120048594"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

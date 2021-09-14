@@ -4,12 +4,12 @@ ms.assetid: f1e2e864-fa10-4058-ba56-faa0ba7363a1
 title: Вариабли структуры данных
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 182e349079abbce93f533b1b6cd299ab7e0e883d71e9b845dfdaf52bf0275ce0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 873fcbaa1e4e3bda772d92ad2de9b1f6258363cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117760199"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056659"
 ---
 # <a name="variably-sized-data-structures"></a>Вариабли структуры данных
 

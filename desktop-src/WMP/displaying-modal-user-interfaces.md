@@ -9,12 +9,12 @@ keywords:
 - Подключаемые модули пользовательского интерфейса, отображение диалоговых окон и сообщений
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: addacfe2a309808f949c59a8ec11498417cb05a17cd6ab160ca1c08d2017a0bb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6d96387ca46864064c7b6ff7b9cd3dba8187eed0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118997244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056406"
 ---
 # <a name="displaying-modal-user-interfaces"></a>Отображение модальных пользовательских интерфейсов
 
@@ -26,7 +26,7 @@ ms.locfileid: "118997244"
 2.  Отправьте сообщение окна, зарегистрированное в окне подключаемого модуля пользовательского интерфейса, используя **сообщение**.
 3.  Отображение диалогового окна или сообщения из обработчика сообщений для нового сообщения окна.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -7,12 +7,12 @@ keywords:
 - Перечисление задач планировщик задач, описание
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a2340dee7b90d9e6e24bf2c7aefcd081295f708d662023109720ede8a26264f7
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 81dda98cf40bc1ea360d20bcf13084faa692aa22
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119959634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056622"
 ---
 # <a name="enumerating-tasks"></a>Перечисление задач
 
@@ -37,11 +37,11 @@ ms.locfileid: "119959634"
 
 Пример перечисления задач в папке «запланированные задания» см. в разделе [Пример перечисления задач](enumerating-tasks-example.md).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Сведения о задаче планировщик задач 1,0](task-scheduler-1-0-task-informatation.md)

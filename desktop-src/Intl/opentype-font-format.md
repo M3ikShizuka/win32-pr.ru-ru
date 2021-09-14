@@ -4,12 +4,12 @@ ms.assetid: 0d67481a-79ff-448c-b77c-a55bf935a22a
 title: Формат шрифта OpenType
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 18324f3a9c84553da81c9f9723a2ecd67c03539b4dd39c7a80afc4be5cdcda66
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7a907f0a0480c92a35b299540e3bed240ebc3b6b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119147097"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055288"
 ---
 # <a name="opentype-font-format"></a>Формат шрифта OpenType
 

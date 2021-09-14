@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Nmapi.dll
-ms.openlocfilehash: f9f40e339b450496ec4b0aff1f3e951c4d7468fa22f7b2ff3dd2f84de6b92354
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ac707a774b667b96a4d612e9eaf7da2c779c0327
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119012272"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057302"
 ---
 # <a name="expertindicatestatus-function"></a>Функция Експертиндикатестатус
 
@@ -103,7 +103,7 @@ DWORD WINAPI ExpertIndicateStatus(
 
 Если функция завершается неудачно, возвращается значение НМЕРР Expert ( \_ эксперт). \_ эксперт должен немедленно очистить и вернуться, не выполняя захват.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция **експертиндикатестатус** может вызываться экспертами, реализующими функцию [запуска](run.md) или [настройки](configure.md) экспорта.
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 2c07765eabc87fe56b7ddfd69635d2cec087bd68f48167bac4f3262484ae44fd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8673c16364f005f4169a940ddb6fee8b304fafbb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117822098"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053551"
 ---
 # <a name="cdeferredcommandgettime-method"></a>Кдеферредкомманд. метод времени
 

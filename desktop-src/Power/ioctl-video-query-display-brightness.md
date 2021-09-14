@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Ntddvdeo.h
-ms.openlocfilehash: 673930fbde301c031049316255c9bcee40fd4e6a4f3c362977caf6e0569c5f5b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 547501a28492aecfe06f63f95b0e007fc80d3d02
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119143417"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055102"
 ---
 # <a name="ioctl_video_query_display_brightness-control-code"></a>\_ \_ \_ \_ Код управления яркостью экрана запроса видео ioctl
 

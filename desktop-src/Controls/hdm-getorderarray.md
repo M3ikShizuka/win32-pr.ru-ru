@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f374424fe3f1d84c4919c26948486a9bae1660072975556aecaac4b08b85b33b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e334b0023ad3441c20048273e9bc58c1b25622b9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120062834"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054240"
 ---
 # <a name="hdm_getorderarray-message"></a>\_Сообщение ЖЕТОРДЕРАРРАЙ HDM
 
@@ -47,7 +47,7 @@ ms.locfileid: "120062834"
 
 Возвращает ненулевое значение в случае успеха, и буфер в *lParam* получает номер элемента для каждого элемента в элементе управления "заголовок" в том порядке, в котором они отображаются слева направо. В противном случае сообщение возвращает ноль.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Число элементов в параметре *lParam* указывается в параметре *wParam* и должно быть равно числу элементов в элементе управления. Например, следующий фрагмент кода зарезервирует достаточно памяти для хранения значений индекса.
 

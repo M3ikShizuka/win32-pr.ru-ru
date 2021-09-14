@@ -7,12 +7,12 @@ keywords:
 - Windows анимация Windows анимации диспетчера анимации
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f2e6a8f81fbef55525eff04df52a31f8ee942707c354697658ee0ba01647d082
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d274b9f2d5e386fbe01c2caeb9e1e65ddbdc73f3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117755618"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056507"
 ---
 # <a name="windows-animation-manager"></a>Windows Диспетчер анимации
 
@@ -56,6 +56,6 @@ Windows Анимация предназначена для использова�
 -   [анимация Windows — дополнительные разделы](https://channel9.msdn.com/posts/yochay/Windows-Animation-Advance-Topics/) (видео)
 -   [Windows Пример кода для диспетчера анимации](https://github.com/microsoft/Windows-classic-samples/tree/master/Samples/DirectCompositionWindowsAnimationManager)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 [общие сведения об анимации (платформа .NET Framework)](/dotnet/framework/wpf/graphics-multimedia/animation-overview)

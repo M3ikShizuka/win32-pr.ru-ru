@@ -12,12 +12,12 @@ api_name:
 api_type:
 - Schema
 api_location: ''
-ms.openlocfilehash: e9e56e25e51a3c6e798242b390f5d8b7341d7306455f1b15eb9e450830d3c9b0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ec26a3cab15014deabca4e9332c1fbef7a788b17
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119064704"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057378"
 ---
 # <a name="wlanpolicy-element"></a>Вланполици, элемент
 
@@ -150,7 +150,7 @@ ms.locfileid: "119064704"
 | [**Списка блокировки**](wlan-policyschema-blocklist-networkfilter-element.md)                                                     |                                                                          | Список беспроводных ЛОКАЛЬНЫХ сетей, к которым компьютер не должен подключаться.<br/>                                                    |
 | [**деняллесс**](wlan-policyschema-denyalless-networkfilter-element.md)                                                   | Логическое                                                                  | Указывает, заблокирован ли доступ ко всем сетям инфраструктуры. <br/>                                                           |
 | [**деняллибсс**](wlan-policyschema-denyallibss-networkfilter-element.md)                                                 | Логическое                                                                  | Указывает, заблокирован ли доступ ко всем компьютерным сетям. <br/>                                                                   |
-| [**nописание**](wlan-policyschema-description-wlanpolicy-element.md)                                                    | [**наметипе**](wlan-policyschema-nametype-simpletype.md)                | Описание политики беспроводной локальной сети. <br/>                                                                                |
+| [**description**](wlan-policyschema-description-wlanpolicy-element.md)                                                    | [**наметипе**](wlan-policyschema-nametype-simpletype.md)                | Описание политики беспроводной локальной сети. <br/>                                                                                |
 | [**енаблеаутоконфиг**](wlan-policyschema-enableautoconfig-globalflags-element.md)                                         | Логическое                                                                  | Указывает, используют ли компьютеры встроенную службу автоматической настройки (автоконфигурации) для управления беспроводными подключениями. <br/> |
 | [**глобалфлагс**](wlan-policyschema-globalflags-wlanpolicy-element.md)                                                    |                                                                          | Содержит глобальные параметры для модуля автоматической настройки (ACM). <br/>                                                    |
 | [**безымян**](wlan-policyschema-name-wlanpolicy-element.md)                                                                  | [**наметипе**](wlan-policyschema-nametype-simpletype.md)                | Имя политики беспроводной локальной сети. <br/>                                                                                       |
@@ -162,7 +162,7 @@ ms.locfileid: "119064704"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сведения о просмотре списка дочерних элементов в древовидной структуре см. в разделе [ \_ элементы схемы политики WLAN](wlan-policyschema-elements.md).
 

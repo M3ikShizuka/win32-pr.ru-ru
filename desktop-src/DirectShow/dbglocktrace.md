@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: b55736b2efb8fd4cfbca40710caa930c200c84e1ceec9c8c4f7439468c1add1f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8daf3c33b43bda95bb1d54145e9e5aebc6f89c2f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118654074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055536"
 ---
 # <a name="dbglocktrace-function"></a>Функция Дбглокктраце
 
@@ -61,7 +61,7 @@ void WINAPI DbgLockTrace(
 
 Эта функция не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция используется для трассировки определенной критической секции. По умолчанию ведение журнала отладки критических разделов отключено из-за большого количества критических разделов.
 

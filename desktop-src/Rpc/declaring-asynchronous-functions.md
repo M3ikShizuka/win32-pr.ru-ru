@@ -6,12 +6,12 @@ keywords:
 - Удаленный вызов процедур RPC, задачи, объявление асинхронных функций
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1fc0978156fe91291b91937082690258550b7f02f1d7b6e5334dd0741a9f0211
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3fafc1208d53763835d72f527723d00816f38db9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118931052"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057117"
 ---
 # <a name="declaring-asynchronous-functions"></a>Объявление асинхронных функций
 

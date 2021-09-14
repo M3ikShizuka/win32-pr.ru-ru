@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 90b377e0fd3a439737fea9efbc403d2ccc64d6cf78eab1c7e31feeffd6c4b0f1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7fade63ac94007bedbf58642dc7a9451eb158fc3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119019912"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054458"
 ---
 # <a name="em_getbidioptions-message"></a>\_Сообщение ЖЕТБИДИОПТИОНС EM
 
@@ -47,11 +47,11 @@ ms.locfileid: "119019912"
 
 Это сообщение не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это сообщение устанавливает для элементов **вмаск** и **веффектс** значения текущего состояния двунаправленных параметров в элементе управления Rich Edit.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -64,7 +64,7 @@ ms.locfileid: "119019912"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: cc202c3b6dbc570d063ef74619b266c2faa20cb74322b29e61626418412e2cb9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 186f2eddbedf4eb0565a4ca66ff4ed7e5b080090
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120044084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053595"
 ---
 # <a name="cbasepingetmediatype-method"></a>Кбасепин. Жетмедиатипе, метод
 
@@ -74,13 +74,13 @@ virtual HRESULT GetMediaType(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В списке предпочтительных типов мультимедиа для ПИН-кода этот метод возвращает тип со значением индекса *интерфейс*. Класс [**ценуммедиатипес**](cenummediatypes.md) вызывает этот метод для перечисления предпочтительных типов мультимедиа.
 
 Базовый класс возвращает E \_ непредвиденное значение. Переопределите этот метод в производном классе.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -91,7 +91,7 @@ virtual HRESULT GetMediaType(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

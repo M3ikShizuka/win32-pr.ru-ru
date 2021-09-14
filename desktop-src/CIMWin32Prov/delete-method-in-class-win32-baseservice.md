@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 8dab8d11ab6d30cf6d3e8dd2de41913e72bd0a67990275dff61f0794b33ce7b5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4683887aa8844e682a572126d3ad134315273c6b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119547424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053801"
 ---
 # <a name="delete-method-of-the-win32_baseservice-class"></a>Метод DELETE \_ класса Басесервице Win32
 
@@ -278,7 +278,7 @@ uint32 Delete();
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -292,7 +292,7 @@ uint32 Delete();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

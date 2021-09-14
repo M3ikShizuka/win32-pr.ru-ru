@@ -4,12 +4,12 @@ ms.assetid: 841dd1b3-249c-49e1-b462-82da65b4b023
 title: Темпфолдер, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d5ded141982c12204eb5267357cedded6521eccb7cc47a3bf000b026faf9aed4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fbf042086d8bb174a02a7b421ced1133a70016e8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119626512"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057572"
 ---
 # <a name="tempfolder-property"></a>Темпфолдер, свойство
 
@@ -17,7 +17,7 @@ ms.locfileid: "119626512"
 
 Авторам не нужно задавать свойство **темпфолдер** . Windows Установщик использует функцию [**жеттемппас**](/windows/win32/api/fileapi/nf-fileapi-gettemppatha) для получения пути к каталогу, предназначенному для временных файлов, и для задания этого свойства.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Общее значение для этого свойства — C: \\ TEMP.
 

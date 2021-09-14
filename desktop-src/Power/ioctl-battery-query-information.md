@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Poclass.h
 - BatClass.h
-ms.openlocfilehash: a48514b81ddf5d8f7c0d84d4404eb01752413e73ade43db089fbb6dade673bc1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ee4010e055686c0df2987c34b48b133975b434ce
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119143543"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055113"
 ---
 # <a name="ioctl_battery_query_information-control-code"></a>\_ \_ \_ Код управления сведениями о запросе к батарее ioctl
 
@@ -143,7 +143,7 @@ BOOL DeviceIoControl(
 
 Все запросы сведений о батарее будут завершены с состоянием " **\_ файл ошибки \_ не \_ найден** ", если элемент **баттеритаг** запроса не соответствует значению текущего тега батареи. Это гарантирует, что возвращенные сведения о батарее соответствуют запрошенному аккумулятору. (Дополнительные сведения см. в разделе " [теги батареи](battery-information.md) ".)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот параметр аккумулятора IOCTL получает разнообразные сведения о батарее. Структура входного параметра, [**\_ \_ сведения о запросе аккумулятора**](battery-query-information-str.md), указывает тип возвращаемых данных и сведения о батарее. Тип данных и содержимое выходного буфера зависят от запрошенных данных.
 

@@ -4,12 +4,12 @@ description: Функции управления сетью Add и Сетинф�
 ms.assetid: d4ea51f8-ff0b-4ebd-ab8c-467d07e0f880
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6cc861f960d445a7cf7bd857733af65486d4cfb96a2c7b6341e6a8bab2d6b470
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: aa031147ecd460bc9d1f6d5206ee66394b27404c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119745004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057316"
 ---
 # <a name="parameter-error-reporting"></a>Отчеты об ошибках параметров
 

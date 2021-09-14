@@ -4,12 +4,12 @@ ms.assetid: ba5d0672-ba56-454c-a3f7-987060b3bc3a
 title: Использование собственного WiFi
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 79f9398370058c44c964b2c1536b9435de9d8b2e4d939593781f492b2b058245
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d290f392df0dcb43696e4a274297b7c35030f5e6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117984694"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057386"
 ---
 # <a name="using-native-wifi"></a>Использование собственного WiFi
 
@@ -40,7 +40,7 @@ ms.locfileid: "117984694"
 -   [Примеры проводных профилей](wired-profile-samples.md)
 -   [Образцы профиля беспроводной связи](wireless-profile-samples.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -91,12 +91,12 @@ api_type:
 - COM
 api_location:
 - Microsoft.Interop.Security.Azroles.dll
-ms.openlocfilehash: 50cebe2143d4018bc42f0e15d0a5f7af4dd51c3082c65cf1d0e435a885ec9c73
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 30469bf1fc9367ea23616afd68084e3af543b011
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117781072"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057024"
 ---
 # <a name="microsoftinteropsecurityazrolesiazclientcontext3-interface"></a>Интерфейс Microsoft. Interop. Security. Азролес. IAzClientContext3
 

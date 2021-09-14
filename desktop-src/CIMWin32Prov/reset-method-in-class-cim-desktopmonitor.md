@@ -15,11 +15,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 9b59367e616b5320974075352ef4c845265dff61
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104140850"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054870"
 ---
 # <a name="reset-method-of-the-cim_desktopmonitor-class"></a>Метод Reset \_ класса CIM десктопмонитор
 

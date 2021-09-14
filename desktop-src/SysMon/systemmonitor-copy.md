@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9ef8e7f76231dc65dcf27d898e9b4f2b9aa5187253e8ccc081657221bbca7cbb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 34f6346fd6c594c98b6eb23c37e371b878ddd3b4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118882620"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056783"
 ---
 # <a name="systemmonitorcopy-method"></a>Метод Системмонитор:: Copy
 
@@ -44,7 +44,7 @@ Sub Copy()
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В буфере обмена может существовать только одна копия.
 
@@ -60,7 +60,7 @@ Sub Copy()
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

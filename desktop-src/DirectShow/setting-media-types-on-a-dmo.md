@@ -4,12 +4,12 @@ ms.assetid: 9ff1542d-6a67-414d-8336-aae80c74d5d0
 title: Настройка типов мультимедиа на DMO
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 85fd437ae54d2e5baec35eb415dd8d04e4d3a3fe5992b8ba73f6d25c77f0475a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d8d657977079a75bf5f1eeccc389da6ad67f63b5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119904254"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053849"
 ---
 # <a name="setting-media-types-on-a-dmo"></a>Настройка типов мультимедиа на DMO
 

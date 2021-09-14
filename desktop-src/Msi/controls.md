@@ -4,12 +4,12 @@ ms.assetid: ed9fa158-9dad-4d2d-8153-78122b19a34e
 title: элементы управления (установщик Windows)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 47755cafc3d4d3d04ed443410571a9c4fc2cf215a3efb3584265dcbeb2f9d520
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0ec286adf25c0642ae044bfd0b89e66182ef6839
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118143368"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142198"
 ---
 # <a name="controls-windows-installer"></a>элементы управления (установщик Windows)
 
@@ -32,21 +32,21 @@ ms.locfileid: "118143368"
 | [директорикомбо](directorycombo-control.md)       | Да                 | Выберите все, кроме последнего сегмента пути.                                                                                                                                       |
 | [директорилист](directorylist-control.md)         | Да                 | Отображает папки под основной частью пути.                                                                                                                                         |
 | [Правка](edit-control.md)                           | Да                 | Обычное поле редактирования для любой строки или целого числа.                                                                                                                                       |
-| [GroupBox](groupbox-control.md)                   | нет                  | Отображает прямоугольник, который объединяет другие элементы управления.                                                                                                                             |
-| [Гиперссылка](hyperlink-control.md)                 | нет                  | Отображает ссылку HTML на адрес, который открывается в браузере по умолчанию. **[установщик Windows 4,5 и более ранних версий](not-supported-in-windows-installer-4-5.md):** Не поддерживается.<br/> |
-| [Значок](icon-control.md):                           | нет                  | Отображает статическое изображение значка.                                                                                                                                                 |
+| [GroupBox](groupbox-control.md)                   | Нет                  | Отображает прямоугольник, который объединяет другие элементы управления.                                                                                                                             |
+| [Гиперссылка](hyperlink-control.md)                 | Нет                  | Отображает ссылку HTML на адрес, который открывается в браузере по умолчанию. **[установщик Windows 4,5 и более ранних версий](not-supported-in-windows-installer-4-5.md):** Не поддерживается.<br/> |
+| [Значок](icon-control.md):                           | Нет                  | Отображает статическое изображение значка.                                                                                                                                                 |
 | [Линия](line-control.md)                           | Нет                  | Отображает горизонтальную линию.                                                                                                                                                           |
 | [ListBox](listbox-control.md)                     | Да                 | Раскрывающийся список без поля редактирования.                                                                                                                                               |
 | [ListView](listview-control.md)                   | Да                 | Отображает столбец значений со значками для выбора.                                                                                                                                 |
 | [MaskedEdit](maskededit-control.md)               | Да                 | Поле редактирования с маской в текстовом поле.                                                                                                                                          |
 | [паседит](pathedit-control.md)                   | Да                 | Отображает имя папки или полный путь в поле редактирования.                                                                                                                                 |
-| [Элемент управления ProgressBar](progressbar-control.md)     | нет                  | Линейчатая диаграмма, которая изменяет длину при получении сообщений о ходе выполнения.                                                                                                                       |
-| [PushButton](pushbutton-control.md)               | нет                  | Отображает базовую кнопку "Отправить".                                                                                                                                                         |
+| [Элемент управления ProgressBar](progressbar-control.md)     | Нет                  | Линейчатая диаграмма, которая изменяет длину при получении сообщений о ходе выполнения.                                                                                                                       |
+| [PushButton](pushbutton-control.md)               | Нет                  | Отображает базовую кнопку "Отправить".                                                                                                                                                         |
 | [радиобуттонграуп](radiobuttongroup-control.md)   | Да                 | Группа переключателей.                                                                                                                                                             |
 | [скроллаблетекст](scrollabletext-control.md)       | Нет                  | Отображает длинную строку текста.                                                                                                                                                       |
 | [селектионтри](selectiontree-control.md)         | Да                 | Отображает сведения из таблицы компонентов и позволяет пользователю изменить состояние выбора.                                                                                     |
-| [Text](text-control.md)                           | нет                  | Отображает статический текст.                                                                                                                                                                 |
-| [волумекостлист](volumecostlist-control.md)       | нет                  | Отображает сведения о затратах на различных томах.                                                                                                                                    |
+| [Text](text-control.md)                           | Нет                  | Отображает статический текст.                                                                                                                                                                 |
+| [волумекостлист](volumecostlist-control.md)       | Нет                  | Отображает сведения о затратах на различных томах.                                                                                                                                    |
 | [волумеселекткомбо](volumeselectcombo-control.md) | Да                 | Выбирает том из алфавитного списка.                                                                                                                                             |
 
 

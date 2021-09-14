@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fe873244358bf171c3fcedc994facd36e194edf38e0ee0442f12556cc4342514
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 28216705dd0446aeb11adad9d45f9e604171e62c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119544274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054124"
 ---
 # <a name="lb_initstorage-message"></a>Сообщение инитстораже балансировки нагрузки \_
 
@@ -53,11 +53,11 @@ Windows 95/Windows 98/Windows Millennium Edition (Windows Me): параметр 
 
 Microsoft Windows NT 4,0: это сообщение не выделяет указанный объем памяти; Однако он всегда возвращает значение, указанное в параметре *wParam* .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сообщение **\_ инитстораже балансировки нагрузки** помогает ускорить инициализацию списков с большим количеством элементов (более 100). Он резервирует указанный объем памяти, чтобы последующие [**\_ ADDSTRING нагрузки**](lb-addstring.md), [**балансировки нагрузки \_ инсертстринг**](lb-insertstring.md), [**балансировки \_**](lb-dir.md)нагрузки и [**балансировки \_**](lb-addfile.md) нагрузки занимают максимально короткие сроки. Для параметров *wParam* и *lParam* можно использовать оценки. При чрезмерной оценке выделяется дополнительный объем памяти. Если недооценивать, то для элементов, превышающих запрошенный объем, используется нормальное выделение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -69,7 +69,7 @@ Microsoft Windows NT 4,0: это сообщение не выделяет ука
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 94524636-c7f2-4de2-b35e-644c0c171193
 title: Свойство "значение"
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b26185c886117b39355241151ffef6d8615bd5f8d10a7f50bd5937a301f7b398
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 49fab01b3f87c654a306bfe3633adf0973ed58aa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119809164"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057561"
 ---
 # <a name="usersid-property"></a>Свойство "значение"
 
@@ -25,7 +25,7 @@ ms.locfileid: "119809164"
 
 Обратите внимание, что это свойство имеет специальный атрибут, который можно получить из отложенного настраиваемого действия. Пользовательское действие, выполняемое с повышенными привилегиями **, по-** прежнему может возвращать идентификатор SID пользователя в свойстве "скользящее". Дополнительные сведения см. в разделе [Получение контекстных сведений для отложенного выполнения настраиваемых действий](obtaining-context-information-for-deferred-execution-custom-actions.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

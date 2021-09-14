@@ -4,12 +4,12 @@ ms.assetid: 2622e2b3-b952-4666-a440-85d73d11c5e0
 title: Работа с пользовательскими языками
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8a969681e685a7044f9c583c907515a51559866d28d997cf43fa639127eee27f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1ab0e59446496ae2985860c0fd6b1bd5bddde084
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119680934"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057762"
 ---
 # <a name="working-with-custom-locales"></a>Работа с пользовательскими языками
 
@@ -48,7 +48,7 @@ ms.locfileid: "119680934"
 
 NLS не предоставляет механизм локализации сведений о языковых стандартах. Таким образом, постоянный [языковой стандарт \_ Слангуаже](locale-slanguage.md) или [locale \_ слокализедлангуаженаме](locale-slocalized-constants.md) , используемый в качестве идентификатора локали для пользовательского языкового стандарта, всегда получает значения, связанные с [языковым стандартом \_ снативелангнаме](locale-snative-constants.md) или [языковыми \_ снативелангуаженаме](locale-snative-constants.md).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

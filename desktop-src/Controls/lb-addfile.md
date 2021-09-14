@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8077bda3015fef36d6383f37f272ddaf25469fcb6930bb38bd0fa8122efc5b55
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 18b3d66c6a6c8495c67df2078370911ca9cd31df
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119434484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054145"
 ---
 # <a name="lb_addfile-message"></a>Сообщение ADDFILE балансировки нагрузки \_
 
@@ -47,7 +47,7 @@ ms.locfileid: "119434484"
 
 Возвращаемое значение — это Отсчитываемый от нуля индекс добавленного файла или \_ при возникновении ошибки в процессе балансировки нагрузки Err.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Список, к которому добавляется *lParam* , должен быть заполнен функцией [**длгдирлист**](/windows/desktop/api/Winuser/nf-winuser-dlgdirlista) .
 
@@ -55,7 +55,7 @@ ms.locfileid: "119434484"
 
 Для приложения ANSI система преобразует текст в поле со списком в Юникод с помощью команды CP \_ ACP. Это может вызвать проблемы. например, символы латиницы с диакритическими знаками в списке не в юникоде в японском Windows будут выступать из неискаженных символов. Чтобы устранить эту проблему, либо скомпилируйте приложение как Юникод, либо используйте список, рисуемый владельцем.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -63,15 +63,15 @@ ms.locfileid: "119434484"
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 
-**Ссылка**
+**Ссылки**
 </dt> <dt>
 
 [**длгдирлист**](/windows/desktop/api/Winuser/nf-winuser-dlgdirlista)

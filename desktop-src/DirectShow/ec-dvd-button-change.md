@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - dvdevcode.h
-ms.openlocfilehash: 61e74a967df18d5ba105eda1609a72c0db9770868bbd967c7a90f5e920dc954d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8647c1100e5cca6897e2068b2a20119a8f047396
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118652750"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053426"
 ---
 # <a name="ec_dvd_button_change"></a>\_ \_ изменение кнопки DVD \_ EC
 
@@ -42,7 +42,7 @@ ms.locfileid: "118652750"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Номера кнопок находятся в диапазоне от 1 до 36.
 

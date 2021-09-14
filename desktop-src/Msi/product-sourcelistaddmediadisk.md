@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 9e3f6df653abeefd57f8311eed0d9e578f6a525c1a0dc915f4b629d367bb79fd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4cf5fac906b048930b47a07acb2c04c7243d5bbf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120042134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057745"
 ---
 # <a name="productsourcelistaddmediadisk-method"></a>Метод Product. Саурцелистаддмедиадиск
 
@@ -78,7 +78,7 @@ Product.SourceListAddMediaDisk(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

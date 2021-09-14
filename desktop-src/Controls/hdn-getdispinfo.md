@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fc6e6cbc9559cda3312ecdca341aa7c7ad2b44dc5cc29e50690ddf10b2729a39
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c45fe753b610fae69956b89caadade394566d0dd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119435454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054187"
 ---
 # <a name="hdn_getdispinfo-notification-code"></a>\_Код уведомления ХДН жетдиспинфо
 
@@ -51,7 +51,7 @@ HDN_GETDISPINFO
 
 Возвращает LRESULT.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Заполните соответствующие члены структуры, чтобы вернуть запрошенные сведения в элемент управления "заголовок". Если обработчик сообщений устанавливает для элемента **маски** структуры [**нмхддиспинфо**](/windows/win32/api/commctrl/ns-commctrl-nmhddispinfoa) значение HDi \_ di \_ сетитем, то элемент управления "заголовок" сохраняет информацию и не запрашивает их снова.
 

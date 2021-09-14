@@ -4,12 +4,12 @@ description: В этом разделе показано, как использ�
 ms.assetid: 4B19F929-B306-4EBF-B82F-6539FAA42BA6
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5fbabd3ea6e0694448e4bd8c01e53161333b2df3904cf1578252bdbe150d3d5b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6c11f7d8f519f98f3293d5be29fac0e0a40dd704
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118170765"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054166"
 ---
 # <a name="how-to-control-the-avi-clip"></a>Управление роликом AVI
 
@@ -21,13 +21,13 @@ ms.locfileid: "118170765"
 
 -   [Windows Элементы управления](window-controls.md)
 
-### <a name="prerequisites"></a>Необходимые компоненты
+### <a name="prerequisites"></a>Предварительные требования
 
 -   C/C++
 -   Windows Программирование пользовательского интерфейса
 -   Файлы AVI
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 
 Создайте функцию, которая принимает в качестве параметров маркер для элемента управления анимации и флаг, указывающий действие, выполняемое над связанным роликом AVI.

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Root\CIMV2\Security\MicrosoftVolumeEncryption
-ms.openlocfilehash: f7e9c2c424ea84436292158753de29294bbce3a5516b5ab0a9149892640963ad
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0369e44d96a4f1dcacf33dbf1b1da6ad6d37eed2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119667174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056942"
 ---
 # <a name="protectkeywithtpm-method-of-the-win32_encryptablevolume-class"></a>Метод Протекткэйвистпм \_ класса Win32 енкриптаблеволуме
 
@@ -136,13 +136,13 @@ uint32 ProtectKeyWithTPM(
 
  
 
-## <a name="security-considerations"></a>Соображения безопасности
+## <a name="security-considerations"></a>Вопросы безопасности
 
 Для обеспечения безопасности компьютера рекомендуется использовать профиль по умолчанию. Для дополнительной защиты от изменений в конфигурации с ранним запуском используйте профиль PCRs 0, 1, 2, 3, 4, 5, 8, 9, 10, 11.
 
 Изменение профиля по умолчанию влияет на безопасность или удобство использования компьютера.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В любой момент времени может существовать не более одного предохранителя ключа типа "TPM" для тома. Если вы хотите изменить отображаемое имя или профиль проверки платформы, используемый существующим предохранителем ключа "TPM", необходимо сначала удалить существующий предохранитель ключа, а затем вызвать **протекткэйвистпм** , чтобы создать новый.
 
@@ -152,7 +152,7 @@ uint32 ProtectKeyWithTPM(
 
 файлы MOF-файл (MOF) содержат определения для классов инструментарий управления Windows (WMI) (WMI). MOF-файлы не устанавливаются в составе Windows SDK. Они устанавливаются на сервере при добавлении связанной роли с помощью диспетчер сервера. Дополнительные сведения о файлах MOF см. в разделе [MOF-файл (MOF)](../wmisdk/managed-object-format--mof-.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -165,7 +165,7 @@ uint32 ProtectKeyWithTPM(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Root\CIMV2\Security\MicrosoftVolumeEncryption
-ms.openlocfilehash: e96667af5e9c16097e951f3162082a6fb06b13d0504da3e8582b9f1b7ebfd4cc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d61a0bd0d31c14f13edd9ef610e8f6d3ed20f037
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119004462"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056954"
 ---
 # <a name="protectkeywithcertificatefile-method-of-the-win32_encryptablevolume-class"></a>Метод Протекткэйвисцертификатефиле \_ класса Win32 енкриптаблеволуме
 
@@ -91,11 +91,11 @@ uint32 ProtectKeyWithCertificateFile(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если OID не совпадает с идентификатором, связанным с контроллером службы в реестре, этот метод завершается ошибкой. Это не дает пользователю вручную настраивать предохранители агента восстановления данных (DRA) на томе. Службы агентов DRA должны быть установлены только службой.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -108,7 +108,7 @@ uint32 ProtectKeyWithCertificateFile(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

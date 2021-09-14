@@ -70,11 +70,11 @@ api_type:
 api_location:
 - Microsoft.Interop.Security.Azroles.dll
 ms.openlocfilehash: b9e3c4f75eb17b2a5a7dc86b4d6997298a8de8fe
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105665371"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057025"
 ---
 # <a name="microsoftinteropsecurityazrolesiazclientcontext2-interface"></a>Интерфейс Microsoft. Interop. Security. Азролес. IAzClientContext2
 

@@ -4,12 +4,12 @@ ms.assetid: aa565e34-f89d-4d26-945d-67b439586523
 title: Поиск неработающей функции или компонента
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1fa17fc66fdf0bda0a04df9a5917d4e79671b32f453ead921d4f43f89bbd47dd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8398d084a543ee4c9491242faa287c60d83a5f7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120041244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057603"
 ---
 # <a name="searching-for-a-broken-feature-or-component"></a>Поиск неработающей функции или компонента
 

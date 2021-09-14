@@ -7,12 +7,12 @@ keywords:
 - GLU (служебная программа OpenGL), указание функций обратного вызова
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9e57a5f961a980f20451f594fa59885eda99d1e2de94a55fbfd2abd4b8301b4d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6086448cf6f4a71ea6a49359d5656f12f613d760
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119553784"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057223"
 ---
 # <a name="specifying-callbacks"></a>Указание обратных вызовов
 

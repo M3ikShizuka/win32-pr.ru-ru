@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4dc6b5068c1e72c05d7a1b85ee02e57b788cf417f732fe3c2bab8c66d0dcf383
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: dc4d730d15ca8631e6d663e3d4f971f115d5c268
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119541094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054460"
 ---
 # <a name="em_getautocorrectproc-message"></a>\_Сообщение ЖЕТАУТОКОРРЕКТПРОК EM
 
@@ -47,7 +47,7 @@ ms.locfileid: "119541094"
 
 Возвращает указатель на определяемую приложением функцию [*аутокорректпрок*](/windows/desktop/api/Richedit/nc-richedit-autocorrectproc) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ ms.locfileid: "119541094"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

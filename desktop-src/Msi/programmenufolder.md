@@ -4,18 +4,18 @@ ms.assetid: b3ccaac2-8376-4c26-b827-73dc69f50f26
 title: Программенуфолдер, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 668d8185f3a6ce848a19deb6bb20569a83dfdd7a2eea8749dad8c49ddde73e32
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 105eb777fbfd92c541857cf6b65e199c0073aaa2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120074654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057716"
 ---
 # <a name="programmenufolder-property"></a>Программенуфолдер, свойство
 
 Установщик задает для свойства **программенуфолдер** полный путь к папке меню программы для текущего пользователя. Если существует профиль "все пользователи" и задано свойство [**ALLUSERS**](allusers.md) , то для этого свойства задается папка в профиле "все пользователи".
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: 6af23f2d-b22a-470d-b979-da32776e0007
 title: ProductID, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5e0e737f5c6c2b007709ed21c5950e93f9f3cb7b08315fbf7871d1a8855ee075
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6cf616e2bc34ce70deb5f6b63dba7287002d4fb2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120074704"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057725"
 ---
 # <a name="productid-property"></a>ProductID, свойство
 
@@ -21,7 +21,7 @@ ms.locfileid: "120074704"
 
 Обратите внимание, что для конкретного примера пользовательского интерфейса, предоставляемого с помощью пакета SDK AS Uisample.msi, требуется значение для **ProductID**. Если вы используете этот пользовательский интерфейс, но не хотите использовать **ProductID** для проверки идентификаторов продукта, установите для свойства **ProductID** значение «нет» в [таблице свойств](property-table.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

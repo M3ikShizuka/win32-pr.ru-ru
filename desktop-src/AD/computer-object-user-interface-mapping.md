@@ -6,11 +6,11 @@ ms.tgt_platform: multiple
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: de2a2b3ed4ec8cbf3c1af59e024fc5e04bc68ae8
-ms.sourcegitcommit: 803f3ccd65bdefe36bd851b9c6e7280be9489016
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "103789612"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053838"
 ---
 # <a name="computer-object-user-interface-mapping"></a>Сопоставление пользовательского интерфейса объекта "компьютер"
 
@@ -24,7 +24,7 @@ ms.locfileid: "103789612"
 
 | Метка пользовательского интерфейса                         | Атрибут домен Active Directory Services | Комментарии                                         |
 |----------------------------------|--------------------------------------------|--------------------------------------------------|
-| Имя компьютера (пред-Windows 2000) | sAMAccountName                             |                                                  |
+| имя компьютера (до Windows 2000) | sAMAccountName                             |                                                  |
 | DNS-имя                         | dNSHostName                                |                                                  |
 | Роль                             | userAccountControl                         | Переключает бит битовой маски userAccountControl. |
 | Описание                      | description                                |                                                  |
@@ -32,7 +32,7 @@ ms.locfileid: "103789612"
 
 
 
- 
+ 
 
 ## <a name="location-property-sheet"></a>Страница свойств "расположение"
 
@@ -46,7 +46,7 @@ ms.locfileid: "103789612"
 
 
 
- 
+ 
 
 ## <a name="member-of-property-sheet"></a>Элемент вкладки свойств
 
@@ -61,7 +61,7 @@ ms.locfileid: "103789612"
 
 
 
- 
+ 
 
 ## <a name="operating-system-property-sheet"></a>Страница свойств операционной системы
 
@@ -77,8 +77,8 @@ ms.locfileid: "103789612"
 
 
 
- 
+ 
 
- 
+ 
 
- 
+ 

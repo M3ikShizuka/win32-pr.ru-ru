@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 1f89f7e9c39123cd7bf55c8bc48ff69d007d150c086714c82c37619c477dd25b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 077ed95095150e81ad9a3d7412d1940dcb1b33e2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117797963"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057391"
 ---
 # <a name="single-sign-on-profile-sample"></a>Пример профиля с одним Sign-On
 
@@ -95,7 +95,7 @@ ms.locfileid: "117797963"
 </WLANProfile>
 ```
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

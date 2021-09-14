@@ -4,12 +4,12 @@ ms.assetid: 3f5af891-4f5d-4523-8fe6-47fc6ff13b35
 title: Функции API однорангового распределения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a594313300c6bf39a2ea4f08efba89d1ed757ba4b8a50eda074466b94433e1e0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b2532ad8bf5cbb14e18bd16a14bb1be2d79c1791
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118612325"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057172"
 ---
 # <a name="peer-distribution-api-functions"></a>Функции API однорангового распределения
 
