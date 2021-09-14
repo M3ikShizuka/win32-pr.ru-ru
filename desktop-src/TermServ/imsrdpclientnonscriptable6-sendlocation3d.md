@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 12/16/2020
 ms.openlocfilehash: c63e779b6d6d090544af40a7ee6d9c05f8c49494
-ms.sourcegitcommit: 04e801237156e90b48111d60bddf437f87f5cdfe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/19/2020
-ms.locfileid: "104494145"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968269"
 ---
 # <a name="imsrdpclientnonscriptable6sendlocation3d-method"></a>Метод IMsRdpClientNonScriptable6:: SendLocation3D
 

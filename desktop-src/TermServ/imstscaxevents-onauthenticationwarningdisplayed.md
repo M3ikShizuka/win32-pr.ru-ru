@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: df2de56a612c748db720e485d9f1e6e5750c9fc3281500dfddd751f41aed1641
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 33307adf103536cce5841effe2843a7c48fda357
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118854012"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968213"
 ---
 # <a name="imstscaxeventsonauthenticationwarningdisplayed-method"></a>Метод Имстскаксевентс:: Онаусентикатионварнингдисплайед
 
@@ -45,7 +45,7 @@ void OnAuthenticationWarningDisplayed();
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При необходимости можно использовать свойство [**уипарентвиндовхандле**](imsrdpclientnonscriptable2-uiparentwindowhandle.md) интерфейса [**IMsRdpClientNonScriptable2**](imsrdpclientnonscriptable2.md) , чтобы убедиться, что модальное диалоговое окно проверки подлинности будет дочерним по отношению к указанному окну (это может потребоваться, чтобы запретить пользователям использовать другие диалоговые окна во время отображения диалогового окна проверки подлинности). по умолчанию родительским элементом является окно управления ActiveX.
 

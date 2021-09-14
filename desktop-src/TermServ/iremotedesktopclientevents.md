@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8bae11edf7e6c603c534afb75fe5c90bcc868f1e359f1d78748dd94b18b5627e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e7533ee7fea7c522b6129bda06891630c3e5ad15
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119657074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968206"
 ---
 # <a name="iremotedesktopclientevents-interface"></a>Интерфейс Иремотедесктопклиентевентс
 
@@ -60,14 +60,14 @@ ms.locfileid: "119657074"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8<br/>                                                                           |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                                 |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                                 |
 | Библиотека типов<br/>             | <dl> <dt>MsTscAx.dll</dt> </dl>         |
 | DLL<br/>                      | <dl> <dt>MsTscAx.dll</dt> </dl>         |
 | CLSID<br/>                    | \_РЕМОТЕДЕСКТОПКЛИЕНТ CLSID определен как EAB16C5D-EED1-4E95-868B-0FBA1B42C092<br/>       |
@@ -75,7 +75,7 @@ ms.locfileid: "119657074"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

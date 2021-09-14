@@ -64,12 +64,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 498098b57ef5ecb19958f6ef0e082022a92f15bab7f1fbfc74bef62d928e8726
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: faf95c02de10fe8db38a53b75d4d20cf796020f8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120125434"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968257"
 ---
 # <a name="imstscaxdomain-property"></a>Имстскакс: свойство омаин:D
 
@@ -100,7 +100,7 @@ HRESULT get_Domain(
 
 В случае успеха возвратите значение **\_ ОК** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Задание свойства **домена** является необязательным. если оно не задано, пользователь может выбрать домен, когда во время подключения появится диалоговое окно входа Windows.
 
@@ -124,7 +124,7 @@ HRESULT get_Domain(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -155,7 +155,7 @@ HRESULT get_Domain(
 [**IMsRdpClient9**](imsrdpclient9.md)
 </dt> <dt>
 
-[**Подключен**](imstscax-connected.md)
+[**Организован**](imstscax-connected.md)
 </dt> <dt>
 
 [**имстскакс**](imstscax-interface.md)
