@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 8bac5bc971f67c7678d2160cadb452995165638db4bb44d2ed1c89b3ab08f882
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e5c583b06a9c25126a611736002c455a2c93ed90
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119526844"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246856"
 ---
 # <a name="cbasepingetconnected-method"></a>Кбасепин. соединенный метод
 
@@ -66,7 +66,7 @@ if (m_MyPin->IsConnected())
 
 Этот шаблон программирования очень удобен; но, как показано в примере, необходимо избегать разыменования **пустого** указателя, если ПИН-код не подключен.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -77,7 +77,7 @@ if (m_MyPin->IsConnected())
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

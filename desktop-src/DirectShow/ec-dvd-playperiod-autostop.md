@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - dvdevcode.h
-ms.openlocfilehash: 4a44495f40608580268cdc162e26dc47b45ffa452a8017a5faff4d672b388704
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c2081c8a5b7e5b6bd2165781af9552722ed9ddee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119928434"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246553"
 ---
 # <a name="ec_dvd_playperiod_autostop"></a>\_автозавершение плайпериод для диска EC DVD \_ \_
 
@@ -48,7 +48,7 @@ ms.locfileid: "119928434"
 
 Это событие также отправляется, когда воспроизведение отменяется до того, как навигатор завершает воспроизведение указанного сегмента.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -58,7 +58,7 @@ ms.locfileid: "119928434"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

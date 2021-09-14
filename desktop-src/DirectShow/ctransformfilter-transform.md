@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: a03b32006aecfb79f90a5f5aefeff542c53341b205031352974341926ed8eb26
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8498a9a6ce266e0646dbbdcb4f322c093d6e0cc3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119907504"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246634"
 ---
 # <a name="ctransformfiltertransform-method"></a>Ктрансформфилтер. Transform, метод
 
@@ -82,7 +82,7 @@ virtual HRESULT Transform(
 
 Если фильтр не должен доставлять этот пример (например, для поддержки контроля качества), метод должен вернуть \_ значение false.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -93,7 +93,7 @@ virtual HRESULT Transform(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

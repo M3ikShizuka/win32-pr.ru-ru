@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - dvdevcode.h
-ms.openlocfilehash: 4ae4a68263b8a2f85186f62c40708871ba6d7563acd50f78f701f1e2d6da597f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: eefd45ac1d147a0409417f215e56a4db490dfdbe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119792674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246523"
 ---
 # <a name="ec_dvd_program_chain_change"></a>\_ \_ \_ изменение цепочки DVD-дисков EC \_
 

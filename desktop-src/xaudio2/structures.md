@@ -4,12 +4,12 @@ description: В этом разделе содержатся сведения о
 ms.assetid: 3656aaf9-7a3a-2a5b-50f5-d279ce8a9e6c
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 59dcbdf454f282ca696a040aa7c1a3fe84c372ca4e0607c0a60f18b59d5f5e42
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b3b67e0312c5ac6b753881d895dff3972564f2c0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118962593"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246988"
 ---
 # <a name="xaudio2-structures"></a>Структуры XAudio2
 

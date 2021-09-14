@@ -1,7 +1,7 @@
 ---
 description: Метод Инитиализеаутпутсампле извлекает новый образец вывода и инициализирует его.
 ms.assetid: a4f8f514-cf1a-4f8f-ac17-17378705c2ea
-title: CTransformFilter.Iniметод Тиализеаутпутсампле (Трансфрм. h)
+title: Ктрансформфилтер. Инитиализеаутпутсампле, метод (Трансфрм. h)
 ms.topic: reference
 ms.date: 05/31/2018
 topic_type:
@@ -16,14 +16,14 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 083867f2ef6b2e40462112036dbbb000c25bc3ad2bb443f011235e36bf245ab2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: efe7e62936c6feb1984a339a67783cdbc1e4f124
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118953623"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246679"
 ---
-# <a name="ctransformfilterinitializeoutputsample-method"></a>CTransformFilter.Iniметод Тиализеаутпутсампле
+# <a name="ctransformfilterinitializeoutputsample-method"></a>Ктрансформфилтер. Инитиализеаутпутсампле, метод
 
 `InitializeOutputSample`Метод получает новый выходной пример и инициализирует его.
 
@@ -67,7 +67,7 @@ HRESULT InitializeOutputSample(
 
 Этот метод получает новый пример из распределителя выходного контакта. Затем он копирует примеры свойств из примера входных данных в образец Output. Примеры свойств определяются в структуре [**\_ \_ свойств SAMPLE2**](/windows/win32/api/strmif/ns-strmif-am_sample2_properties) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,7 +78,7 @@ HRESULT InitializeOutputSample(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
