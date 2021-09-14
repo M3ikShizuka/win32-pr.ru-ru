@@ -4,12 +4,12 @@ ms.assetid: 1ded909c-311b-49e3-ba23-b22cd7a77bc6
 title: Коды ошибок кодека
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8fb8f3911516f11c4a0614461786d6f94eaf00e038e53babb47d4df595797bdb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dd502ca1866114e2b471059bc9d9af1b0f96309f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118207263"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362796"
 ---
 # <a name="codec-error-codes"></a>Коды ошибок кодека
 

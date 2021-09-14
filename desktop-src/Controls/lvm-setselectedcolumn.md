@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6f6564e1fda50d11b3d4c520f85184439b0465f1cf5767e7926e6e1c9476f786
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 827c41fabaea722bb2372c6bd3f7c3a54bee92f9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119019175"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362672"
 ---
 # <a name="lvm_setselectedcolumn-message"></a>\_Сообщение LVM сетселектедколумн
 
@@ -39,7 +39,7 @@ ms.locfileid: "119019175"
 
 Возвращаемое значение не используется.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Индексы столбцов хранятся в массиве **типа int** . См. элемент **пуколумнс** элемента [**лвитем**](/windows/win32/api/commctrl/ns-commctrl-lvitema).
 

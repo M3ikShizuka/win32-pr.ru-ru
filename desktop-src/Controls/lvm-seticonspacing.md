@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5897b0ca6aec7763cc24a0ea538f336e7a2f737f2ddc0e7cb52a2145e570db47
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 972435190ec21bb50db90640a589cef1e394318c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119019182"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362728"
 ---
 # <a name="lvm_seticonspacing-message"></a>\_Сообщение LVM сетиконспаЦинг
 
@@ -47,7 +47,7 @@ ms.locfileid: "119019182"
 
 Возвращает значение **типа DWORD** , которое содержит предыдущее расстояние по оси x в нижнем слове и предыдущее расстояние по оси y в верхнем слове.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значения для *lParam* задаются относительно левого верхнего угла точечного рисунка значка. Таким образом, чтобы задать интервал между значками, которые не перекрываются, значения *lParam* должны включать размер значка, а также объем пустого пространства, необходимого между значками. Значения, которые не включают ширину значка, приводят к перекрытию.
 

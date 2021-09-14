@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: eff54c8ac48c9e6e998e720815a9a3529f5484f8a089e8ea510559d2e7cfa488
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3b990f8ba842f313449b6f24f4e2ce59787f7841
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119921414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254650"
 ---
 # <a name="cim_memorywithmedia-class"></a>\_Класс CIM меморивисмедиа
 
@@ -45,7 +45,7 @@ class CIM_MemoryWithMedia : CIM_Dependency
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ меморивисмедиа** имеет следующие типы членов:
 

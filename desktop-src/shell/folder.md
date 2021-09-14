@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Shldisp.h
-ms.openlocfilehash: baf180149419178b489f3ba00042c561268b36e7b7ed7b0e2afab54b68f78466
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d37966b13a182161c1a6248c93eabaf5dfa3597c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119032622"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363140"
 ---
 # <a name="folder-object"></a>Объект Folder
 
@@ -50,18 +50,18 @@ ms.locfileid: "119032622"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Объект **Folder** имеет эти свойства.
 
 
 
-| Свойство                                               | Тип доступа          | Описание                                          |
+| Свойство.                                               | Тип доступа          | Описание                                          |
 |:-------------------------------------------------------|:---------------------|:-----------------------------------------------------|
 | [**Приложение**](folder-application.md)<br/>   | Только для чтения<br/> | Содержит объект приложения папки.<br/> |
 | [**Parent**](folder-parent.md)<br/>             | Только для чтения<br/> | Не реализован.<br/>                          |
 | [**парентфолдер**](folder-parentfolder.md)<br/> | Только для чтения<br/> | Содержит объект родительской **папки** .<br/>    |
-| [**Название**](folder-title.md)<br/>               | Только для чтения<br/> | Содержит заголовок папки.<br/>         |
+| [**Титуль**](folder-title.md)<br/>               | Только для чтения<br/> | Содержит заголовок папки.<br/>         |
 
 
 
@@ -74,7 +74,7 @@ ms.locfileid: "119032622"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

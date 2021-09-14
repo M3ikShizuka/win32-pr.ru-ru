@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8f7477230913ec5efd0827bc48e1a6021619aa4cdbbad252426d1af364b5b36b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c2b4552456a575e2f03e02b2bfb78f7fcc1d8ca1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117830445"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362596"
 ---
 # <a name="lvn_getinfotip-notification-code"></a>\_Код уведомления ЛВН жетинфотип
 
@@ -51,11 +51,11 @@ LVN_GETINFOTIP
 
 Возвращаемое значение для этого уведомления не используется.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот код уведомления отправляется только элементами управления "представление списка", у которых есть расширенный стиль [**\_ \_ подсказки LVS ex**](extended-list-view-styles.md) . \_Код уведомления ЛВН жетинфотип отправляется только для подэлемента 0.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -5,11 +5,11 @@ title: Вертикальный элемент
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: f6f05ab8a2160dbf6b987177957e8285385fe4db
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122479510"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362909"
 ---
 # <a name="vertical-element"></a>Вертикальный элемент
 
@@ -36,7 +36,7 @@ ms.locfileid: "122479510"
 
 | attribute | Тип | Обязательно | Описание | Возможные значения | 
 |-----------|------|----------|-------------|-----------------|
-| <strong>Стиль</strong> | <a href="linelayoutstyletype-simple-type.md"><strong>Линелайаутстилетипе</strong></a> simpleType | Обязательно | Указывает тип рисуемой линии. | <ul><li>None</li><li>Сплошная</li><li>Штрих</li><li>Точки</li><li>DashDot</li><li>DashDotDot</li><li>Тип Double</li></ul> | 
+| <strong>Стиль</strong> | <a href="linelayoutstyletype-simple-type.md"><strong>Линелайаутстилетипе</strong></a> simpleType | Обязательно | Указывает тип рисуемой линии. | <ul><li>Нет</li><li>Сплошная</li><li>Штрих</li><li>Точки</li><li>DashDot</li><li>DashDotDot</li><li>Double</li></ul> | 
 | <strong>Цвет</strong> | <a href="colortype-simple-type.md"><strong>Колортипе</strong></a> simpleType | Необязательно | Цвет элемента. | Шестнадцатеричное значение RGB. Соответствует следующему регулярному выражению: # [0-9a-zA-Z] {6} . Например, #4a79B5.<br /> | 
 | <strong>спаЦингбефоре</strong> | <strong>xs:nonNegativeInteger</strong> | Необязательно | Отступ перед элементом. | Любое неотрицательное целое число. | 
 | <strong>спаЦингбетвин</strong> | <strong>xs:nonNegativeInteger</strong> | Необязательно | Интервал между этим элементом и окружающими его элементами. | Любое неотрицательное целое число. | 

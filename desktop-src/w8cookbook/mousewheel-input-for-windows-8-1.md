@@ -4,12 +4,12 @@ description: Входные данные маусевхил для Windows 8.1
 ms.assetid: A178E86C-16A6-4DF5-9880-CF83F62AAF04
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d2285d2a0456376b01289ac7a4c2607117441384ebd13b0aaf0a162eac50fdfb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cd9480280bf5526c8cd63c0703705c7ef742bff4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118211387"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362824"
 ---
 # <a name="mousewheel-input-for-windows-81"></a>Входные данные маусевхил для Windows 8.1
 

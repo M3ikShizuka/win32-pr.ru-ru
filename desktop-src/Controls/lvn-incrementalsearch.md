@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0ec3207fbb16bca23bf44ac61fee58bb6e4fad1ff74c38d7b56910ed52997f39
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e4784ed8f2a9df664b203f776dc1102702d2861e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119826124"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362592"
 ---
 # <a name="lvn_incrementalsearch-notification-code"></a>\_Код уведомления ЛВН INCREMENTALSEARCH
 
@@ -51,7 +51,7 @@ LVN_INCREMENTALSEARCH
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Получатель уведомлений выполняет приведение *lParam* для получения структуры [**нмлвфиндитем**](/windows/win32/api/commctrl/ns-commctrl-nmlvfinditema) . Параметр *wParam* содержит идентификатор элемента управления, который отправляет этот код уведомления.
 

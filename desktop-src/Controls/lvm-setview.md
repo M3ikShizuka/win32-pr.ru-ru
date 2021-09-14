@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: dd8d07b636a14624632d0e41ebcf6db66f420b9df4f8ca852e55ab2f3e1578e6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a159710b3086bcba5298a5a88f9cab15f76e0d89
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119656204"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362648"
 ---
 # <a name="lvm_setview-message"></a>\_Сообщение LVM сетвиев
 
@@ -39,7 +39,7 @@ ms.locfileid: "119656204"
 
 Возвращает 1, если успешно, или-1 в противном случае. Например, если представление недопустимо, возвращается значение-1.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Ниже приведены значения для представлений.
 
@@ -54,7 +54,7 @@ ms.locfileid: "119656204"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

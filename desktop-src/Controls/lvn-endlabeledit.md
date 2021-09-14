@@ -3,7 +3,7 @@ title: Код уведомления LVN_ENDLABELEDIT (Коммктрл. h)
 description: Сообщает родительскому окну элемента управления "представление списка" об окончании редактирования метки для элемента. Этот код уведомления отправляется в виде \_ сообщения WM notify.
 ms.assetid: 03129fef-abf1-4374-b4b8-503c46ef7115
 keywords:
-- LVN_ENDLABELEDIT кода уведомления элементы управления Windows
+- LVN_ENDLABELEDIT кода уведомления Windows элементы управления
 topic_type:
 - apiref
 api_name:
@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 1a33ab69a04202aeb3817d3eeadf01fb6f1fcaac
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105654736"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362608"
 ---
 # <a name="lvn_endlabeledit-notification-code"></a>\_Код уведомления ЛВН ендлабеледит
 
@@ -65,9 +65,9 @@ LVN_ENDLABELEDIT
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 | Имя в кодировке Юникод и ANSI<br/>   | **ЛВН \_ ЕНДЛАБЕЛЕДИТВ** (Юникод) и **ЛВН \_ ендлабеледита** (ANSI)<br/>         |
 
 

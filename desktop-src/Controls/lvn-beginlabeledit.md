@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ab5b5ecfed8fdc15ec2779e204d01b0375c7da702e2a2e9fe8a3cdc3b178b0fb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f77550b474534cee096b610a0805bce547d9b429
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117830655"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362616"
 ---
 # <a name="lvn_beginlabeledit-notification-code"></a>\_Код уведомления ЛВН бегинлабеледит
 
@@ -53,7 +53,7 @@ LVN_BEGINLABELEDIT
 
 Чтобы запретить пользователю изменять метку, возвратите **значение true**.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При начале редактирования метки создается, размещается и инициализируется элемент управления Edit. Перед отображением элемент управления "представление списка" отправляет родительскому окну \_ код уведомления ЛВН бегинлабеледит.
 
@@ -69,7 +69,7 @@ LVN_BEGINLABELEDIT
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 | Имя в кодировке Юникод и ANSI<br/>   | **ЛВН \_ БЕГИНЛАБЕЛЕДИТВ** (Юникод) и **ЛВН \_ бегинлабеледита** (ANSI)<br/>     |
 
 

@@ -9,12 +9,12 @@ api_type: ''
 api_location: ''
 topic_type:
 - kbArticle
-ms.openlocfilehash: 6ef4db6bbd1cb2924de97907f04781cceccaf1554f3815483a8cbc82473053b4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f48fc719525d290cc3f43965762e748569ef86b5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118051085"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363181"
 ---
 # <a name="supporting-shell-applications"></a>Поддержка приложений оболочки
 

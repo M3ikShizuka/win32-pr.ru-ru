@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b8e9fb40ba03006056b485911e96316a5cce1b325400c12795b02d82d11f2fc9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 792d29268548d95a7f3e70b05d9d2de368a03cd6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118170333"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362612"
 ---
 # <a name="lvn_columndropdown-notification-code"></a>\_Код уведомления ЛВН колумндропдовн
 
@@ -51,13 +51,13 @@ LVN_COLUMNDROPDOWN
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Получатель уведомлений выполняет приведение *lParam* для получения структуры [**нмлиствиев**](/windows/win32/api/commctrl/ns-commctrl-nmlistview) . Параметр *wParam* содержит идентификатор элемента управления, который отправляет код уведомления.
 
 Если элемент управления "заголовок" является дочерним по отношению к представлению списка, элемент управления "заголовок" должен отправить этот код уведомлений в элемент управления "представление списка", когда элемент управления "заголовок" получит код уведомления [ \_ раскрывающегося списка ХДН](hdn-dropdown.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

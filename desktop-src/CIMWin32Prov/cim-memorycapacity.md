@@ -20,12 +20,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: c7e15d5ff6e381b2e87aaa1b15ade624ac598a0880b1ff736a6f46ba6aa66bb6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: aa63d06187c76c5add433502d012cdb63905795a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119506874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254686"
 ---
 # <a name="cim_memorycapacity-class"></a>\_Класс CIM меморикапаЦити
 
@@ -53,7 +53,7 @@ class CIM_MemoryCapacity : CIM_PhysicalCapacity
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ меморикапаЦити** имеет следующие типы членов:
 
@@ -306,7 +306,7 @@ class CIM_MemoryCapacity : CIM_PhysicalCapacity
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -328,7 +328,7 @@ class CIM_MemoryCapacity : CIM_PhysicalCapacity
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -342,7 +342,7 @@ class CIM_MemoryCapacity : CIM_PhysicalCapacity
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

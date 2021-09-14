@@ -14,11 +14,11 @@ api_type:
 api_location:
 - search.h
 ms.openlocfilehash: c6407f1307b4860960c5202af13de736c7921139
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104342932"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363200"
 ---
 # <a name="iwordsinkputbreak-method"></a>Ивордсинк: метод:P Утбреак
 
@@ -60,7 +60,7 @@ HRESULT PutBreak(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Методы [**ивордсинкпутворд**](iwordsink-putword.md) и [**Ивордсинк::P уталтворд**](iwordsink-putaltword.md) автоматически вставляют разрыв конца слова (Еов, обозначенный \_ элементом вордреп Break \_ Еов в перечислимом типе [**вордреп \_ \_ break**](/previous-versions/windows/desktop/legacy/ff819130(v=vs.85)) ) после каждого слова. Вызовите метод **путбреак** , чтобы вставить тип разрыва, отличный от конца слова. Этот метод не изменяет исходный текстовый буфер (*псаурцетекст*) или не увеличивает число символов (*КВК*). Однако он увеличивает текущую позиции в индексе и влияет на результаты запроса.
 

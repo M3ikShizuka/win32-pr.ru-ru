@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4151f7d6e3736e6fe28faa28bc258fb4f85bfb57622b1ec77c02ed83ea187941
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 779d31fd781a72dbdfbc4738e091482ca4a08528
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119919964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362717"
 ---
 # <a name="lvm_setimagelist-message"></a>\_Сообщение LVM сетимажелист
 
@@ -60,11 +60,11 @@ ms.locfileid: "119919964"
 
 Возвращает маркер для списка изображений, который ранее был связан с элементом управления в случае успеха, или **значение NULL** в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Текущий список изображений будет уничтожен при уничтожении элемента управления "список-представление", если не задан стиль [**LVS \_ шареимажелистс**](list-view-window-styles.md) . Если вы используете это сообщение для замены одного списка изображений другим, приложение должно явным образом уничтожить все списки изображений, кроме текущего.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: c753dddb-57ed-40e6-8e49-ba5b6425fdd5
 title: Предикаты Full-Text
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 916ed56873d2cb870be196aef0183585d3c228c76ff8f3883d7ee4df13fcca83
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3db6a80908a6b7b206a427701a5e276a8ce916e7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119885204"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363209"
 ---
 # <a name="full-text-predicates"></a>Предикаты Full-Text
 
@@ -33,7 +33,7 @@ ms.locfileid: "119885204"
 [Предикаты областей и каталогов](-search-sql-folderdepth.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Неполнотекстовые предикаты](-search-sql-nonfulltextpredicates.md)

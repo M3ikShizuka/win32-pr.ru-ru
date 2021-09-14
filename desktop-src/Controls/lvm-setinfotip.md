@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ef739535e399550911adfbe86d7376d3efeb77cd797ba807b24ee682d1f3fe3d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 90827766a6f1218dbbd631ed4eaf6b2989257944
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119919904"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362709"
 ---
 # <a name="lvm_setinfotip-message"></a>\_Сообщение LVM сетинфотип
 
@@ -39,7 +39,7 @@ ms.locfileid: "119919904"
 
 Возвращает **значение true** , если текст подсказки установлен успешно, или **false** в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сообщение **LVM \_ сетинфотип** позволяет приложению вычислить инфотипс в фоновом режиме, выполнив следующие действия:
 
@@ -54,7 +54,7 @@ ms.locfileid: "119919904"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

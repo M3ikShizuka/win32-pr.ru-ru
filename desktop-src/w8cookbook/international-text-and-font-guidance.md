@@ -4,12 +4,12 @@ description: Международные правила для текста и ш
 ms.assetid: 0540C9AD-8774-4F0F-B013-48C3EAE59BF2
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 76eeeeaf59f777610603787c3b8e6ed248f36810d34fc2026466b72ca57a1883
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b2f9d94c53e4db45666d28a7c23a0e883043ba27
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119935404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362848"
 ---
 # <a name="international-text-and-font-guidance"></a>Международные правила для текста и шрифтов
 
@@ -25,7 +25,7 @@ ms.locfileid: "119935404"
 
 Обратите внимание, что поддержка сценария может потребовать внесения определенных изменений в компоненты стека текста, а также изменения шрифтов. Windows операционная система имеет множество компонентов стека текста: DirectWrite, GDI, Uniscribe, GDI+, WPF, RichEdit, ComCtl32 и др. Предоставленные сведения относятся в основном к GDI и DirectWrite. он также применяется к платформам пользовательского интерфейса, таким как RichEdit или агенту подготовки отчетов MSHTML, используемому для Windows 8 приложений магазина и для отрисовки веб-содержимого, хотя эти компоненты могут демонстрировать определенные различия.
 
-## <a name="best-practices"></a>Советы и рекомендации
+## <a name="best-practices"></a>Рекомендации
 
 **Типографские рекомендации для разработчиков**
 

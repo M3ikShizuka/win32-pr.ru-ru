@@ -24,12 +24,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: e1231279446d5117793f19ba59e7bd3683615b6610768809067962de59622b45
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 28ce4d60a6bba10e857afae7cc93d2e94c69b29f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119021062"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254653"
 ---
 # <a name="cim_memorymappedio-class"></a>\_Класс CIM меморимаппедио
 
@@ -61,7 +61,7 @@ class CIM_MemoryMappedIO : CIM_SystemResource
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ меморимаппедио** имеет следующие типы членов:
 
@@ -193,7 +193,7 @@ class CIM_MemoryMappedIO : CIM_SystemResource
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -345,7 +345,7 @@ class CIM_MemoryMappedIO : CIM_SystemResource
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -359,7 +359,7 @@ class CIM_MemoryMappedIO : CIM_SystemResource
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

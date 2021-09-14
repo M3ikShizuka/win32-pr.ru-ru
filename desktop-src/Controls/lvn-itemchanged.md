@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bea129a1b62b442b0fb545f29a57e9eab0d6d1bae057996df5bc269d9a4296d0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c856292e9b94590b50593a6c3c5f145497f47f28
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117830388"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362588"
 ---
 # <a name="lvn_itemchanged-notification-code"></a>\_Код уведомления ЛВН итемчанжед
 
@@ -49,11 +49,11 @@ LVN_ITEMCHANGED
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если элемент управления "список" имеет стиль [**LVS \_ овнердата**](list-view-window-styles.md) , и пользователь выбирает диапазон элементов, удерживая клавишу Shift и щелкая мышью, \_ коды уведомлений ЛВН итемчанжед не отправляются для каждого выбранного или снятого элемента. Вместо этого вы получите один код уведомления [ЛВН \_ одстатечанжед](lvn-odstatechanged.md) , указывающий, что диапазон элементов изменил состояние.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

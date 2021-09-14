@@ -4,12 +4,12 @@ description: Введение
 ms.assetid: FB806D96-EFE6-4D96-857B-C6DD92482BAB
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fc5c88f02ff8021b24a28563ddb2a8166e022935591291b6c8d1c285360147f0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 56c10acd85d5f34e6901d99666dcb8b919a5ddd2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119935134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362836"
 ---
 # <a name="introduction-compatibility-cookbook-for-windows"></a>Введение (совместимость Cookbook для Windows)
 
@@ -19,7 +19,7 @@ ms.locfileid: "119935134"
 
 этот *Cookbook* делится на три основных раздела: Windows 10, Windows 8.1 и Windows 8.
 
--   Windows 10,
+-   Windows 10
 -   Windows 8.1 и Windows Server 2012 R2
 -   Windows 8 или Windows Server 2012
 

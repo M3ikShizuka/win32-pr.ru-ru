@@ -4,12 +4,12 @@ ms.assetid: 557c3e9a-1756-4abb-8465-b12195ecbc91
 title: Общие сведения о разметке пользователей
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 66a262acd70474f75689e99a3bcd1087cd0117ae3602b78a90357aa932fdd7fc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e64f2080e51d4d340474e0610fcce9512fc72429
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118205712"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362781"
 ---
 # <a name="people-tagging-overview"></a>Общие сведения о разметке пользователей
 
@@ -27,7 +27,7 @@ ms.locfileid: "118205712"
     -   [Схема Microsoft Photo RegionInfo](#microsoft-photo-regioninfo-schema)
     -   [Схема области фотографии (Майкрософт)](#microsoft-photo-regioninfo-schema)
     -   [Образцы метаданных](#sample-metadata)
--   [Связанные темы](#related-topics)
+-   [Связанные разделы](#related-topics)
 
 ## <a name="prerequisites"></a>Предварительные требования
 
@@ -272,11 +272,11 @@ if(SUCCEEDED(hr))
 </MPRI:Regions> </rdf:Description> </MP:RegionInfo> </rdf:Description>
 ```
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Windows Общие сведения о компонентах обработки изображений](-wic-about-windows-imaging-codec.md)

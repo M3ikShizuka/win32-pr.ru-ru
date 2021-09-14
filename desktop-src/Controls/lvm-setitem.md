@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 83ccc47c27ff05e75ba2633e18363c3e26e844c359b54d009101512fc837b668
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 623339c3d1ecc7a74cf20b5e52fb621666391bd5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119019162"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362708"
 ---
 # <a name="lvm_setitem-message"></a>\_Сообщение LVM сетитем
 
@@ -45,7 +45,7 @@ ms.locfileid: "119019162"
 
 Возвращает **значение true** , если успешно, или **false** в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы задать атрибуты элемента списка, установите для элемента **Член iItem** структуры [**лвитем**](/windows/win32/api/commctrl/ns-commctrl-lvitema) индекс элемента и установите для элемента **iSubItem** значение Zero. Для элемента можно задать элементы **State**, **псзтекст**, **иимаже** и **lParam** структуры **лвитем** .
 

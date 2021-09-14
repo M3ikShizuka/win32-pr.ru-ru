@@ -4,12 +4,12 @@ ms.assetid: 9f4f0f96-68a3-447d-a239-599c9fd3e343
 title: Работа с изображениями
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ad6e3331d384f30084082e8ef29c5a3a5b44232843bc834a8282bf1786a088d8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: af3a90c0d18253eaf4aea60eafc48bd1c24fcc3e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118449185"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362880"
 ---
 # <a name="working-with-pictures"></a>Работа с изображениями
 

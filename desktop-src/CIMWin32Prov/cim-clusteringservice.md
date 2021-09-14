@@ -24,12 +24,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: dc31c760ea41761db06da5e1048d3ae1cc248c5fdde7f387e0cfeda209bb716a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 40dc0ebd8daebb79c323d54591fc16126e0ef97a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119700934"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127362776"
 ---
 # <a name="cim_clusteringservice-class"></a>\_Класс CIM клустерингсервице
 
@@ -61,7 +61,7 @@ class CIM_ClusteringService : CIM_Service
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ клустерингсервице** имеет следующие типы членов:
 
@@ -163,7 +163,7 @@ class CIM_ClusteringService : CIM_Service
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -181,7 +181,7 @@ class CIM_ClusteringService : CIM_Service
 
 </dd> <dt>
 
-**Запуск**
+**Начинать**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **логический**
@@ -377,7 +377,7 @@ class CIM_ClusteringService : CIM_Service
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **CIM \_ клустерингсервице** является производным от [**\_ службы CIM**](cim-service.md).
 
@@ -385,7 +385,7 @@ class CIM_ClusteringService : CIM_Service
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -399,7 +399,7 @@ class CIM_ClusteringService : CIM_Service
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

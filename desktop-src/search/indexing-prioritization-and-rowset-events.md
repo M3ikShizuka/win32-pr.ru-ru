@@ -4,12 +4,12 @@ ms.assetid: 6cdfb7d3-f849-432c-960f-912e5024c583
 title: определение приоритетов индексирования и событий набора строк в Windows 7
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 92491300127c60ebdf2a265583fca77e77a09907b7f42b471f6d3d047a7f6aa4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e6610500a3c2fcd359f346e5239507fb15ad896d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117680505"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363208"
 ---
 # <a name="indexing-prioritization-and-rowset-events-in-windows-7"></a>определение приоритетов индексирования и событий набора строк в Windows 7
 
