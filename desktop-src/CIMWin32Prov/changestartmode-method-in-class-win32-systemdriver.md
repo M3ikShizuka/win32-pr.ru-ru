@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 2e2067ae7da8a6f112671237ebc7f77dd26644c5e0b2fa0b77a443c160468581
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: edb6dfc9d745f5e408871246b581e6fab7eb72d3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118959133"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055005"
 ---
 # <a name="changestartmode-method-of-the-win32_systemdriver-class"></a>Метод Чанжестартмоде \_ класса Win32 SystemDriver
 
@@ -188,7 +188,7 @@ uint32 ChangeStartMode(
 **Другие** (25 4294967295)
 </dt> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

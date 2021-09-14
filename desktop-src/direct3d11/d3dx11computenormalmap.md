@@ -15,12 +15,12 @@ api_type:
 - LibDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 747b8b01834126beb12e42d2fa26e15ea99c7471935af8ad74d078d15e9233ab
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4399282c325fde0ea46679da9e9b84331b8c125b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119124919"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053108"
 ---
 # <a name="d3dx11computenormalmap-function"></a>Функция D3DX11ComputeNormalMap
 
@@ -116,7 +116,7 @@ HRESULT D3DX11ComputeNormalMap(
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может иметь следующее значение: D3DERR \_ инвалидкалл.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод рассчитывает нормальную работу, используя Центральное различие с размером ядра 3X3. Каналы RGB в назначении содержат смещенные компоненты (x, y, z) нормали. Центральный разностный знаменатель жестко закодирован в 2,0.
 

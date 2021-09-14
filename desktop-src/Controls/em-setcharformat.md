@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 100cfb1d322cde2d411a0298ee86c224899669defc585826b16bf96751bb4639
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ba8f37960659f29dd33d5b8f27f0b5a2e3d35eb0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118673134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054378"
 ---
 # <a name="em_setcharformat-message"></a>\_Сообщение СЕТЧАРФОРМАТ EM
 
@@ -74,7 +74,7 @@ Microsoft Rich Edit 2,0 и более поздние версии: этот па
 
 Если операция завершается ошибкой, возвращаемое значение равно нулю.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если это сообщение отправляется несколько раз с теми же параметрами, то его воздействие на текст переключается. То есть Отправка сообщения после того, как выдает результат, отправляя сообщение дважды, отменяет результат и т. д.
 
@@ -86,7 +86,7 @@ Microsoft Rich Edit 2,0 и более поздние версии: этот па
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>RichEdit. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>RichEdit. h</dt> </dl> |
 
 
 

@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: d5546ef4c67a6c9fa23f723f45725b19999770e11771608e197d6b759ca61de8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7654feea410564137e98861c4c0b5de2b5e7192e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119504544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054939"
 ---
 # <a name="pauseservice-method-of-the-win32_service-class-cimwin32-wmi-providers"></a>Метод PauseService класса Win32_Service (поставщики WMI CIMWin32)
 
@@ -221,7 +221,7 @@ uint32 PauseService();
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Определив, какие службы могут быть остановлены или приостановлены, можно использовать [**методы "**](stopservice-method-in-class-win32-service.md) [**PauseService**](pauseservice-method-in-class-win32-systemdriver.md) " и "приостановить" для остановки и приостановки служб. Решение о прекращении работы службы, а не приостановке или наоборот, зависит от нескольких факторов, включая следующие:
 
@@ -318,7 +318,7 @@ else
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -332,7 +332,7 @@ else
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

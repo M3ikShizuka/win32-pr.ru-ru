@@ -21,11 +21,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: b7052eb922ec40aca214600f9389e76e5aec4609
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104072370"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053732"
 ---
 # <a name="win32_session-class"></a>\_Класс сеанса Win32
 
@@ -48,19 +48,19 @@ class Win32_Session : CIM_logicalElement
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ сеанса Win32** имеет следующие типы членов:
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **\_ сеанса Win32** имеет следующие свойства.
 
 <dl> <dt>
 
-**Заголовок**
+**Caption**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -114,7 +114,7 @@ class Win32_Session : CIM_logicalElement
 
 </dd> <dt>
 
-**Name**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**

@@ -4,12 +4,12 @@ ms.assetid: 48609c55-9e82-4407-ae28-41b07b1e1161
 title: Предоставление обратных вызовов для служб ELS Services
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ec6704bcf11d2619431aa1b855cd711f82e75e71fc4a762c0e8cf2cb35082341
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a1d22091f666649aab43c66f3d532f8e8f971d49
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120040494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055283"
 ---
 # <a name="providing-callbacks-for-els-services"></a>Предоставление обратных вызовов для служб ELS Services
 

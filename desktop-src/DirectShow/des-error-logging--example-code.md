@@ -4,12 +4,12 @@ ms.assetid: e734daed-9230-4376-839f-7e09da7bc275
 title: 'Ведение журнала ошибок DES: пример кода'
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2919e8214a247be77c5d706bbbf5a043751791b26ecb59f95e2e1bc69ce9f070
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6a9e0d47535e1d4035669a0e672a30fb2520c676
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118952963"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053476"
 ---
 # <a name="des-error-logging-example-code"></a>Ведение журнала ошибок DES: пример кода
 

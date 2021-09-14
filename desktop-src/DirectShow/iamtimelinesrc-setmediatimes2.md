@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 5d94515f2e810f74e788f5d8909ddee377bebee29525cc3d0c12b0463635043e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4aa4f68a6fb93c329507edceea4e9665bfecd5f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118154906"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891933"
 ---
 # <a name="iamtimelinesrcsetmediatimes2-method"></a>Метод Иамтимелинесрк:: SetMediaTimes2
 
@@ -64,7 +64,7 @@ HRESULT SetMediaTimes2(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.
@@ -76,7 +76,7 @@ HRESULT SetMediaTimes2(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -87,7 +87,7 @@ HRESULT SetMediaTimes2(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

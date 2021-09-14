@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: d37158d71a74726e9bf27e76ffedb076f99b7380ffcca4edfa95928767eedbf4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 75e2e6bd7fa05480603f30e68eeaf0487918ae7f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119073638"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054678"
 ---
 # <a name="coutputqueuethreadproc-method"></a>Каутпуткуеуе. Среадпрок, метод
 
@@ -44,7 +44,7 @@ DWORD ThreadProc();
 
 Возвращает ноль.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод [**каутпуткуеуе:: инитиалсреадпрок**](coutputqueue-initialthreadproc.md) вызывает этот метод, который реализует главный цикл потока. В цикле метод выполняет следующие действия:
 

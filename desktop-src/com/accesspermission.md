@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 6e6210eba77f614b16c8fde59948b350ad150909
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369533"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053213"
 ---
 # <a name="accesspermission"></a>акцесспермиссион
 
@@ -25,13 +25,13 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AppID
       AccessPermission = ACL
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это **\_ двоичное значение reg** . Он содержит данные, описывающие список управления доступом (ACL) участников, которые могут обращаться к экземплярам этого класса. При получении запроса на подключение к существующему объекту этого класса ACL проверяется с помощью вызываемого приложения при олицетворении вызывающего. Если проверка доступа завершается сбоем, подключение запрещено. Если это именованное значение не существует, список ACL [**дефаултакцесспермиссион**](defaultaccesspermission.md) проверяется, чтобы определить, должно ли быть разрешено подключение.
 
 Для приложений, которые не вызывают [**CoInitializeSecurity**](/windows/desktop/api/combaseapi/nf-combaseapi-coinitializesecurity) или не используют интерфейс [**Иглобалоптионс**](/windows/win32/api/objidlbase/nn-objidlbase-iglobaloptions) для указания AppID, исполняемый файл двоичного приложения должен быть сопоставлен с AppID приложения, как описано в [**AppID**](appid.md). Это необходимо для того, чтобы COM мог нахождение идентификатора AppID приложения.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 747ca8d7fd839321a9dbf4403c503652b932403e49bb964ae6148da2f49c5ac5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b9fe4971fd9ede0f695fe06a4102da8243e7c720
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117818215"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891749"
 ---
 # <a name="iresizeget_size-method"></a>Метод Иресизе:: Get \_ size
 
@@ -72,7 +72,7 @@ HRESULT get_Size(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если тип выходных данных не задан, фильтр должен вернуть значения по умолчанию. Эти значения можно произвольно выбрать во время разработки.
 
@@ -86,7 +86,7 @@ HRESULT get_Size(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -98,7 +98,7 @@ HRESULT get_Size(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

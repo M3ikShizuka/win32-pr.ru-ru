@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 482553400348951139b2faa8a3c8bbd6b240e4b476c7ddaacfb4f354f8df8379
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 074106cac238e7e8e718dd7654b8dc4771052205
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118997844"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889376"
 ---
 # <a name="buttonuptooltip"></a>КНОПКА. иссказка
 
@@ -31,7 +31,7 @@ ms.locfileid: "118997844"
 
 Этот атрибут является **строкой** для чтения и записи со значением по умолчанию "" (пустая строка) и максимальной длиной 1024 символов.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если для этого атрибута задано значение "" (пустая строка), подсказка не отображается.
 

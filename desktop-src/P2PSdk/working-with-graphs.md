@@ -4,12 +4,12 @@ ms.assetid: cb4f48d0-d1e2-4a4b-bd5a-6e8f66d03806
 title: Работа с диаграммами
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fcdb4a40f1c086ada772239798990c3dfb24326b3e70bd768a95eacc35ee384b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b4328b7a0109139421cf03c72a7228a3dc17e375
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120034034"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055150"
 ---
 # <a name="working-with-graphs"></a>Работа с диаграммами
 

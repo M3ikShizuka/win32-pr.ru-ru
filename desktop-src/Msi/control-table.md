@@ -4,12 +4,12 @@ ms.assetid: cbe7acd6-b916-45f3-b694-d2345c5a892a
 title: Таблица управления
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d2e1832a2cb600e8d7a27b43bc28c94836396d74a50a90b44d0e5013bde973c1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8ced41fcaf020a043962b16cf12d9c339901b415
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118638536"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142222"
 ---
 # <a name="control-table"></a>Таблица управления
 
@@ -21,18 +21,18 @@ ms.locfileid: "118638536"
 
 | Столбец        | Type                               | Ключ | Допускает значения NULL |
 |---------------|------------------------------------|-----|----------|
-| Диалог\_      | [Идентификатор](identifier.md)       | Д   | Нет        |
-| Элемент       | [Идентификатор](identifier.md)       | Д   | Нет        |
+| Диалог\_      | [Идентификатор](identifier.md)       | Да   | Нет        |
+| Control       | [Идентификатор](identifier.md)       | Да   | Нет        |
 | Тип          | [Идентификатор](identifier.md)       | Нет   | Нет        |
 | X             | [Integer](integer.md)             | Нет   | Нет        |
-| Д             | [Integer](integer.md)             | Нет   | Нет        |
+| Да             | [Integer](integer.md)             | Нет   | Нет        |
 | Ширина         | [Integer](integer.md)             | Нет   | Нет        |
-| Высота        | [Integer](integer.md)             | Нет   | Нет        |
-| Атрибуты    | [даублеинтежер](doubleinteger.md) | Нет   | Д        |
-| Свойство      | [Идентификатор](identifier.md)       | Нет   | Д        |
-| Текст          | [Формате](formatted.md)         | Нет   | Д        |
-| Управление \_ следующим | [Идентификатор](identifier.md)       | Нет   | Д        |
-| Справка          | [Text](text.md)                   | Нет   | Д        |
+| Высота:        | [Integer](integer.md)             | Нет   | Нет        |
+| Атрибуты    | [даублеинтежер](doubleinteger.md) | Нет   | Да        |
+| Свойство.      | [Идентификатор](identifier.md)       | Нет   | Да        |
+| Текст          | [Формате](formatted.md)         | Нет   | Да        |
+| Управление \_ следующим | [Идентификатор](identifier.md)       | Нет   | Да        |
+| Справка          | [Text](text.md)                   | Нет   | Да        |
 
 
 

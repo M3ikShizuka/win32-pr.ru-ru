@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: a9bb2f88e1312a3a8640147d9ced7ebc1c2157a0633aeed969f36c43236b6052
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8df74249f061321ccd710822b8c2e0b76d5c3582
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118154970"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053888"
 ---
 # <a name="iamtimelineobjsetsubobjectguidb-method"></a>Метод Иамтимелинеобж:: Сетсубобжектгуидб
 
@@ -56,7 +56,7 @@ HRESULT SetSubObjectGUIDB(
 
 Возвращает \_ значение ОК в случае успешного выполнения или **HRESULT** , указывающий на причину ошибки.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.
@@ -68,7 +68,7 @@ HRESULT SetSubObjectGUIDB(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -79,7 +79,7 @@ HRESULT SetSubObjectGUIDB(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 761cef53ac975c17bd41af54d82b71dfb1b64b68c0cc19a6e843759235c76429
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2f02e7db36e5ea61e3c738b4c2d92678674bfcec
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118400845"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126887000"
 ---
 # <a name="iamtimelinegroupgetoutputfps-method"></a>Метод Иамтимелинеграуп:: Жетаутпутфпс
 
@@ -56,7 +56,7 @@ HRESULT GetOutputFPS(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.

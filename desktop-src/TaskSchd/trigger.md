@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3b27427bf77465be119fc678cb4babf85254fa437b350c54d4409c0cd5b28024
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0f4a7edc6eff0bb04c81ba3bff3bb86ec0455b25
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119002012"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891397"
 ---
 # <a name="trigger-object"></a>Объект триггера
 
@@ -53,7 +53,7 @@ ms.locfileid: "119002012"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Планировщик задач предоставляет следующие отдельные объекты для различных триггеров, которые может использовать задача.
 

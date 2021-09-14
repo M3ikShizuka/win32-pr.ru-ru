@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.custom: snippet-project
 ms.date: 05/31/2018
-ms.openlocfilehash: 0da33bf63d999ddad42f58dfa15a1c36571a664855ac20e48ef43bfd7aecd55b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1c9ba2c13053a8c550128f5d66623b5eed3a9dec
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119139387"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886536"
 ---
 # <a name="schtasksexe"></a>Schtasks.exe
 
@@ -283,7 +283,7 @@ schtasks /Create
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 при создании задачи на удаленном компьютере, работающем под управлением операционной системы Windows XP, Windows Server 2003 или Windows 2000, используйте параметр/V1.
 

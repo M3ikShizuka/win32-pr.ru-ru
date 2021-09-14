@@ -4,12 +4,12 @@ ms.assetid: 534869f6-bde5-4767-a332-26a05e07c56a
 title: Свойство Авенкддчаннелбвловпассфилтер (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3ad926d3e269a4a4100cbf62771524d634c7c1febeddbc43866d9fbbb574b7a4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8dc45abf04a62609988c0da87016d21e8858b7ef
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120108693"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127161960"
 ---
 # <a name="avencddchannelbwlowpassfilter-property"></a>Авенкддчаннелбвловпассфилтер, свойство
 
@@ -25,7 +25,7 @@ ms.locfileid: "120108693"
 
 **КОДЕКАПИ \_ авенкддчаннелбвловпассфилтер**
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -37,7 +37,7 @@ ms.locfileid: "120108693"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

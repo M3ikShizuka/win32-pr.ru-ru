@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 32a697dfe0292df3d4866551c2c65f4dd4cab4beeac82a9447b57cff4b11d4b9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fe521b743dab6c9c4922014ff82785d303f83f7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119675244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052823"
 ---
 # <a name="id3dxlinegetgllines-method"></a>Метод ID3DXLine:: Жетгллинес
 
@@ -44,7 +44,7 @@ BOOL GetGLLines();
 
 Возвращает **значение true** , если линии в стиле OpenGL включены, и **значение false** , если линии в стиле Direct3D включены.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ BOOL GetGLLines();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

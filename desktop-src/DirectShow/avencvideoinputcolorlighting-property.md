@@ -4,12 +4,12 @@ ms.assetid: 718a6d56-c869-4340-bbb8-cac5b231c37e
 title: Свойство Авенквидеоинпутколорлигхтинг (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c505c8dabc938811f8e672a6247f7b689323d07ab40fabc5b9f4bd911b88cdb4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a447642a2f622480240ec653520ef40021e22437
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119275374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127148214"
 ---
 # <a name="avencvideoinputcolorlighting-property"></a>Авенквидеоинпутколорлигхтинг, свойство
 
@@ -29,7 +29,7 @@ ms.locfileid: "119275374"
 
 Значение этого свойства является членом перечисления [**еавенквидеоколорлигхтинг**](/windows/desktop/api/codecapi/ne-codecapi-eavencvideocolorlighting) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -37,7 +37,7 @@ ms.locfileid: "119275374"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional приложения \[ UWP для классических приложений \|\]<br/>                     |
 | Минимальная версия сервера<br/> | \[приложения UWP для классических приложений Windows 2000 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
 
 
 

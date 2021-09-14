@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c716ecb36c0d27b445446a30eb0a026edf3fd88641f469e50daef1763cd6ca66
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: de1f99b9ea05d037b5c00562a24bda1e434ce08d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120047384"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054263"
 ---
 # <a name="en_vscroll-notification-code"></a>\_Код уведомления EN VSCROLL
 
@@ -53,7 +53,7 @@ EN_VSCROLL
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это сообщение отправляется для следующих событий мыши на вертикальной полосе прокрутки: нажатием кнопки со стрелкой или нажатием кнопки со стрелкой и бегунком. Однако при щелчке мышью на панели прокрутки сообщение не отправляется. Сообщение также отправляется, когда событие клавиатуры вызывает изменение в области просмотра элемента управления "поле ввода", например, при нажатии клавиш домой, конец, страница вверх, страница вниз, стрелка вверх или стрелка вниз.
 
@@ -61,7 +61,7 @@ EN_VSCROLL
 
 **Расширенное редактирование:** Поддерживается в Microsoft Rich Edit 1,0 и более поздних версиях. Чтобы получить \_ коды уведомлений EN VSCROLL, укажите [**енм \_ прокрутку**](rich-edit-control-event-mask-flags.md) в маске, отправленной с сообщением [**\_ SETEVENTMASK EM**](em-seteventmask.md) . Дополнительные сведения о совместимости расширенных версий редактирования с различными версиями системы см. в разделе [Общие сведения об элементах управления редактированием](about-rich-edit-controls.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -73,7 +73,7 @@ EN_VSCROLL
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -83,7 +83,7 @@ EN_VSCROLL
 [EN \_ HSCROLL](en-hscroll.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Использование элементов управления Edit](using-edit-controls.md)

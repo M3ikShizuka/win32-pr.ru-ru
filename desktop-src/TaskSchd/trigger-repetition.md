@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 46e14b8dc23b329d9646647fdcc1c5bcb3166c5bf885886a5308c329e186dc51
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 611c7e42a14de06a8777333a6dc640781943ba06
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119002112"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891445"
 ---
 # <a name="triggerrepetition-property"></a>Свойство Trigger. повторения
 
@@ -40,7 +40,7 @@ Trigger.Repetition As RepetitionPattern
 
 Объект [**репетитионпаттерн**](repetitionpattern.md) , который определяет, как часто выполняется задача и как долго шаблон повторения повторяется после запуска задачи.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При чтении или записи собственного XML-кода для задачи шаблон повторения для триггера указывается в элементе [**повторения**](taskschedulerschema-repetition-triggerbasetype-element.md) схемы планировщик задач.
 

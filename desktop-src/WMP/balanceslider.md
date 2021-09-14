@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 5294a1139ffe3884c38b741faf84aae652e72146c4fb81ca79079494bfc4af71
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 0de083f0b34b32f9f837791719a6fedec3e4b2ec
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119573474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889613"
 ---
 # <a name="balanceslider"></a>баланцеслидер
 
@@ -32,11 +32,11 @@ value="wmpprop:player.settings.balance"
 value_onchange="jscript:player.settings.balance=value;"
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При этом создается элемент управления " **ползунок** ", который задает баланс звука. Всплывающие подсказки локализованы. Все свойства этого **ползунка** можно переопределить, явно указав их.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -46,7 +46,7 @@ value_onchange="jscript:player.settings.balance=value;"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Ntddvdeo.h
-ms.openlocfilehash: ec4bb5200378f9f530913f26d33bfbd485d81ae184c7b478a51c90bca18d95da
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a0c679f352012eea66b80335bc3ad1547501dd92
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119961854"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055100"
 ---
 # <a name="ioctl_video_set_display_brightness-control-code"></a>\_ \_ \_ \_ Код управления яркостью дисплея ioctl Video Set
 
@@ -129,7 +129,7 @@ BOOL DeviceIoControl(
   CTL_CODE(FILE_DEVICE_VIDEO, 0x127, METHOD_BUFFERED, FILE_ANY_ACCESS)
 ```
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -141,7 +141,7 @@ BOOL DeviceIoControl(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

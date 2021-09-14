@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 23fc89761d3a240d41a87bce70e07fb8d35259ac243fb504898789d80936fa12
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5520a6b2d0960c1d4258b19f8cd4d600c9b8fe34
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118172949"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054921"
 ---
 # <a name="releasedhcplease-method-of-the-win32_networkadapterconfiguration-class"></a>Метод ReleaseDHCPLease \_ класса Win32 NetworkAdapterConfiguration
 
@@ -312,7 +312,7 @@ IPX не включен на адаптере.
 
 91
 
-Доступ запрещен.
+Access denied. (Недопустимое значение {значение_утверждения} для утверждения {имя_утверждения}. Доступ запрещен.)
 
 </dd> <dt>
 
@@ -395,7 +395,7 @@ DHCP не включен на адаптере.
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Caution]  
 > Если DHCP включен на локальном компьютере, параметр отключает TCP/IP для этого конкретного сетевого адаптера. Если нет альтернативного пути к целевой системе, то есть другим связанным с TCP/IP сетевым адаптером, все связи TCP/IP будут потеряны.
@@ -440,7 +440,7 @@ Next
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

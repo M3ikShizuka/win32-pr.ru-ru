@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 497eaf85f1884da3817564d06f2a1989f5e33fec99f5aae50cd435cff76dce0c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d47444a95d8497e67c72fa399308ff7d8e815f46
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119871535"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054699"
 ---
 # <a name="coutputqueuem_pinputpin-member"></a>Элемент Каутпуткуеуе:: m \_ пинпутпин
 
@@ -47,7 +47,7 @@ IMemInputPin *m_pInputPin;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

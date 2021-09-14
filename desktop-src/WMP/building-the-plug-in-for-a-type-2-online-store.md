@@ -20,12 +20,12 @@ keywords:
 - Создание подключаемых модулей, тип 2 Интернет-магазинов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7f4462e6a29c694428a70cd4d3720f7df3036f371a641d9c183d5ef64824994c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d6911813fcdba56c9e1c5ee6fa9c072b4d610ef8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119573353"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889525"
 ---
 # <a name="building-the-plug-in-for-a-type-2-online-store"></a>Создание подключаемого модуля для Интернет-магазина типа 2
 

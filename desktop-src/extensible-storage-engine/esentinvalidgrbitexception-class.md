@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 73601839de9d76ee424945cc5291f30111dbb0052ba7713aa3ffc3b27b41bbb9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 11946c1dc7904ad2933d59e0ce95fddc3c4e4363
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119735114"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966193"
 ---
 # <a name="esentinvalidgrbitexception-class"></a>Класс Есентинвалидгрбитексцептион
 
@@ -68,7 +68,7 @@ public sealed class EsentInvalidGrbitException : EsentUsageException
 
 Любые общедоступные статичные (общие в Visual Basic) члены этого типа являются потокобезопасными. Потокобезопасная работа с членами экземпляров типа не гарантируется.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

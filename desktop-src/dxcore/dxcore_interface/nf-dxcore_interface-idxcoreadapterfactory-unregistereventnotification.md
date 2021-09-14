@@ -4,12 +4,12 @@ description: Отменяет регистрацию в уведомлении, 
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 06/20/2019
-ms.openlocfilehash: 64fb54226f1fad0d1d36f8f4260c9c9172b105dc6239ea5cb805c32b57a938ad
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6bb12126769a914680ea17ac9e6060346001c795
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118278885"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966333"
 ---
 # <a name="idxcoreadapterfactoryunregistereventnotification-method"></a>Метод Идкскореадаптерфактори:: Унрегистеревентнотификатион
 
@@ -40,7 +40,7 @@ virtual HRESULT STDMETHODCALLTYPE UnregisterEventNotification(
 |-|-|
 |E_INVALIDARG|Значение *евенткукие* не является допустимым файлом cookie, представляющим прошлую регистрацию.|
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 **Унрегистеревентнотификатион** возвращает только после завершения всех обратных вызовов и ожидающих выполнения для этой регистрации. Дкскоре гарантирует, что для этой регистрации не будут выполняться новые обратные вызовы после возвращения **унрегистеревентнотификатион** . Однако во избежание взаимоблокировки при вызове **унрегистеревентнотификатион** из функции обратного вызова **унрегистеревентнотификатион** не ждет завершения активного обратного вызова.
 

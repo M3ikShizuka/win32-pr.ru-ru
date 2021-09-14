@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 215f5a73d18599484b80b9d29d7dffcbb8be20ef3743ddb6fc0cdf7f70e974b7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bc2a72f6d638c7a4daa8db1849a790bdd76556b9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119044620"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052940"
 ---
 # <a name="d3dxvec3catmullrom-function-d3dx9mathh"></a>Функция D3DXVec3CatmullRom (D3dx9math. h)
 
@@ -105,7 +105,7 @@ D3DXVECTOR3* D3DXVec3CatmullRom(
 
 Указатель на структуру [**D3DXVECTOR3**](d3dxvector3.md) , которая является результатом интерполяции Catmull-Rom.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Учитывая четыре точки (P1, P2, P3, P4), найдите функцию Q (с) таким образом:
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: db45027b1136e37d39caea2cfcd3fb4434362a73ab63c47f72da0b6c8fadaeea
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0527427752b5621e626add17d61e60a675958f42
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118006093"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054205"
 ---
 # <a name="hdn_beginfilteredit-notification-code"></a>\_Код уведомления ХДН бегинфилтередит
 
@@ -57,7 +57,7 @@ HDN_BEGINFILTEREDIT
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

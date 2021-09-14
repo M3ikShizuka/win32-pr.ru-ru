@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6d68e9e5ea8d90312d648e4b0af674a93eec84ddcd09ac7d2cb4bc6bc99ae158
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3cf77c1fcfdb64fb9e4b0dde8753572255c17eda
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119574004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889936"
 ---
 # <a name="ambientattributesninegridmargins"></a>Амбиентаттрибутес. Нинегридмаргинс
 
@@ -31,7 +31,7 @@ ms.locfileid: "119574004"
 
 Этот атрибут является **строкой** для чтения и записи, которая содержит ширину полей в форме "*видслефт*,*видстоп*,*видсригхт*,*видсботтом*". Каждое значение ширины — это число, представляющее ширину (в пикселях) поля для девяти сеток.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 *Девять сеток* — это прием, используемый для разделения элементов пользовательского интерфейса на девять прямоугольных областей, расположенных в матрице размером 3 на 3. При изменении размера элемента девять областей сетки могут масштабироваться различными факторами.
 
@@ -39,7 +39,7 @@ ms.locfileid: "119574004"
 
 [Амбиентаттрибутес. ресизеимажес](ambientattributes-resizeimages.md) должно иметь значение true, чтобы этот атрибут работал.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -49,7 +49,7 @@ ms.locfileid: "119574004"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e91ac5049740d360ae0c5f53959b3d952188bfa2a569c58a9e7cf86ae0c22577
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 06a71f04a5837f09575a2f4bccf4b17e34e30d63
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118584553"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126885397"
 ---
 # <a name="iwmdrmdeviceappgeneratemeterchallenge-method"></a>Метод Ивмдрмдевицеапп:: Женератеметерчалленже
 
@@ -96,7 +96,7 @@ URL-адрес, по которому должны отправляться да
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Перед вызовом этого метода приложение должно вызвать [**ивмдрмдевицеапп:: куеридевицестатус**](iwmdrmdeviceapp-querydevicestatus.md) или [**IWMDRMDeviceApp2:: QueryDeviceStatus2**](iwmdrmdeviceapp2-querydevicestatus2.md) , чтобы убедиться, что все компоненты DRM устройства обновлены. этот метод может быть вызван только на устройстве, которое поддерживает Windows Media DRM 10 для переносных устройств.
 

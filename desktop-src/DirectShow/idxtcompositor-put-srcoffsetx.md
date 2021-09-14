@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 86f7bbe79be4b19e6e9da03837ec55d010fb1d990e9a65e018913d481b2b48ed
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a23cf2a07a209509cf55129ecd77ee8e035f5341
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120051874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891832"
 ---
 # <a name="idxtcompositorput_srcoffsetx-method"></a>Идксткомпоситор::p UT \_ сркоффсеткс метод
 
@@ -56,7 +56,7 @@ HRESULT put_SrcOffsetX(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.
@@ -68,7 +68,7 @@ HRESULT put_SrcOffsetX(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -79,7 +79,7 @@ HRESULT put_SrcOffsetX(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

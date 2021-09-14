@@ -4,12 +4,12 @@ ms.assetid: a17cdad7-4fbe-bf83-472f-1b99603b7fec
 title: Геометрические функции двухмерной векторной библиотеки Директксмас
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9496e65f41a90bfc52d94fa04f16034275fec544baed90753ecc193b64cb83d6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5fc5149f152c288c6c592f627dea23ef2c47add5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119740214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966274"
 ---
 # <a name="directxmath-library-2d-vector-geometric-functions"></a>Геометрические функции двухмерной векторной библиотеки Директксмас
 

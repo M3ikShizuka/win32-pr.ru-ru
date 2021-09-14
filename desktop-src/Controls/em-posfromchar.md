@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b0e1d9d2dccb6ccf1bd80b44b2221f8628f13e595ee514074956e7869447d513
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d98968873ad006b2e91cf3add2429bf7630fae1c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119437884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054400"
 ---
 # <a name="em_posfromchar-message"></a>\_Сообщение ПОСФРОМЧАР EM
 
@@ -53,7 +53,7 @@ ms.locfileid: "119437884"
 
 **Изменение элементов управления и форматированное изменение 2,0:** Возвращаемое значение содержит координаты клиентской области символа. [**Ловорд**](/previous-versions/windows/desktop/legacy/ms632659(v=vs.85)) содержит горизонтальную координату, а [**HIWORD**](/previous-versions/windows/desktop/legacy/ms632657(v=vs.85)) содержит вертикальную координату.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращаемая координата может быть отрицательным значением, если указанный символ не отображается в клиентской области элемента управления "поле ввода". Координаты усекаются до целых значений.
 
@@ -63,7 +63,7 @@ ms.locfileid: "119437884"
 
 **Расширенное редактирование:** Поддерживается в Microsoft Rich Edit 1,0 и более поздних версиях. Дополнительные сведения о совместимости расширенных версий редактирования с различными версиями системы см. в разделе [Общие сведения об элементах управления редактированием](about-rich-edit-controls.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -71,7 +71,7 @@ ms.locfileid: "119437884"
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 
@@ -79,7 +79,7 @@ ms.locfileid: "119437884"
 
 <dl> <dt>
 
-**Ссылка**
+**Ссылки**
 </dt> <dt>
 
 [**EM \_ чарфромпос**](em-charfrompos.md)

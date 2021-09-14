@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: af7faf7e3a0538d8b021cc5be353bd6918b7539570457e3a2486d1b8ead11404
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 0380207124e4a446b6303dbb377d116b8ae058ad
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119895624"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888888"
 ---
 # <a name="d3dxmatrixlookatrh-function-d3dx10mathh"></a>Функция D3DXMatrixLookAtRH (D3DX10Math. h)
 
@@ -85,7 +85,7 @@ D3DXMATRIX* D3DXMatrixLookAtRH(
 
 Указатель на структуру D3DXMATRIX, которая является правой рукой и выглядит в матрице.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре тоска. Таким образом, функция D3DXMatrixLookAtRH может использоваться в качестве параметра для другой функции.
 
@@ -105,7 +105,7 @@ dot(xaxis, eye)  -dot(yaxis, eye)  -dot(zaxis, eye)  1
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -116,7 +116,7 @@ dot(xaxis, eye)  -dot(yaxis, eye)  -dot(zaxis, eye)  1
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

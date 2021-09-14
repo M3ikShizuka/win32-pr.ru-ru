@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 03dc0c9763bdea75569f9447becb749bf284ae2ad7d77427f6dfc2f0aac58382
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 85e30820afdca865f438ac40521a9be540fd4a1d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117818063"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891728"
 ---
 # <a name="isamplegrabbergetconnectedmediatype-method"></a>Метод Исамплеграббер:: Жетконнектедмедиатипе
 
@@ -68,7 +68,7 @@ HRESULT GetConnectedMediaType(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод копирует тип носителя в структуру **AM \_ Media \_ Type** , заданную параметром *птипе*. Вызывающий объект должен освободить блок формата типа мультимедиа. Можно использовать функцию **CoTaskMemFree** или функцию [**фримедиатипе**](freemediatype.md) в библиотеке базового класса.
 

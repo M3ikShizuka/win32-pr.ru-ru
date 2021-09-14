@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8ce43cebee93516f929f9a763c14dd51d9d486470eeb93818b9605c3f23a1914
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 64a11a4dec91a7a2f1d200c4c86c6989d846604a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118674128"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054485"
 ---
 # <a name="bn_doubleclicked-notification-code"></a>\_Код уведомления млрд долл даублекликкед
 
@@ -55,11 +55,11 @@ BN_DOUBLECLICKED
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 МЛРД долл \_ даублекликкед совпадает с кодом уведомления [млрд долл \_ дблклк](bn-dblclk.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -67,7 +67,7 @@ BN_DOUBLECLICKED
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 

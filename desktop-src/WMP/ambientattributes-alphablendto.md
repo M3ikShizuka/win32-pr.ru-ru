@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: a8e0e29df897d070cd4d337e27a7f5f7f7e3a86c7f44a784afadb5bc203674ed
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 16b21e78de3510e2e4a58c7214995f7888f778c1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119055232"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890040"
 ---
 # <a name="ambientattributesalphablendto"></a>Амбиентаттрибутес. Алфаблендто
 
@@ -50,7 +50,7 @@ ms.locfileid: "119055232"
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод полезен для постепенного отображения или исчезновения элементов.
 
@@ -61,7 +61,7 @@ ms.locfileid: "119055232"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -71,7 +71,7 @@ ms.locfileid: "119055232"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 10/19/2018
-ms.openlocfilehash: 5990b247757fc8e3cd39ab38edf5b88ca8ac62f74e402aac3899d51e3156231f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5ee7c500ba3818cad0f5ee74e9994ed8af049ea0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119437594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054363"
 ---
 # <a name="em_setendofline-message"></a>\_Сообщение СЕТЕНДОФЛИНЕ EM
 
@@ -57,7 +57,7 @@ ms.locfileid: "119437594"
 
 Если операция завершается ошибкой, возвращаемое значение равно нулю.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если кодировка конца строки равна **EC \_ ендофлине \_ детектфромконтент**, элемент управления "поле ввода" будет обнаруживать только символы конца строки, поддерживаемые в соответствии с его расширенным стилем окна. см. раздел [Правка Управление расширенными стилями](edit-control-window-extended-styles.md).
 

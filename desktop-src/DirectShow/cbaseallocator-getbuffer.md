@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: a183079e954b3a0d8b07fc1d7daf039db8fcc840243a6ea421b2390ce02a3625
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f965885d4a7a12e09c8875f71032ce2fded61bd2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118661686"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054036"
 ---
 # <a name="cbaseallocatorgetbuffer-method"></a>Кбасеаллокатор. @ buffer, метод
 
@@ -99,7 +99,7 @@ HRESULT GetBuffer(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если вызывающий объект не задает флаг **AM \_ \_ гбф** в *dwFlags*, этот метод блокируется до тех пор, пока не будет доступен следующий образец.
 
@@ -109,7 +109,7 @@ HRESULT GetBuffer(
 
 Если метод должен ожидать выборки, он увеличивает число ожидающих объектов ([**кбасеаллокатор:: m \_ lCount**](cbaseallocator-m-lcount.md)) и вызывает функцию [**WaitForSingleObject**](/windows/desktop/api/synchapi/nf-synchapi-waitforsingleobject) для семафора ([**кбасеаллокатор:: m \_ хсем**](cbaseallocator-m-hsem.md)). Когда образец становится доступным, он вызывает метод [**кбасеаллокатор:: релеасебуффер**](cbaseallocator-releasebuffer.md) для распределителя, который увеличивает число семафоров на **m \_ lCount** (таким образом освобождает ожидающие потоки) и устанавливает **m \_ lCount** обратно в нулевое значение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

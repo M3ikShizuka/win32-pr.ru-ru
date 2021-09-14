@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: fb0bc04ae000f1f1aaeb24ed9db0d8f426da5f9bf047925291e0e724aac51880
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8ae84639cdcd0205c00c5412bac5f3c55b17b96f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119722374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965937"
 ---
 # <a name="esentquerynotsupportedexception-constructor"></a>Конструктор Есенткуеринотсуппортедексцептион
 
@@ -52,7 +52,7 @@ Dim instance As New EsentQueryNotSupportedException()
 public EsentQueryNotSupportedException()
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

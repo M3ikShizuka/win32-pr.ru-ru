@@ -4,12 +4,12 @@ ms.assetid: a3ed4d8a-170b-4708-afc2-03d2a5b665a3
 title: Атрибут элемента управления Контролшовроллбакккост
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 68a888df328062a81637b36dc3fcfbe178d6e49bd4aee01c65b2d2e3524fb321
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7947777a356933ab74051163b6b9b023736dbb2b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118379929"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142197"
 ---
 # <a name="controlshowrollbackcost-control-attribute"></a>Атрибут элемента управления Контролшовроллбакккост
 

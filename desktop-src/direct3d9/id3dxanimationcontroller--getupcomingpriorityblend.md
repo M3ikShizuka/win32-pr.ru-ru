@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 4c58bf5e2a8736db98e0461988f984709e756d269d09c74dd673356676702ff9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 72f9b8854041094d43d9e8250ab61b5f59a67848
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119849084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964914"
 ---
 # <a name="id3dxanimationcontrollergetupcomingpriorityblend-method"></a>Метод ID3DXAnimationController:: Жетупкомингприоритибленд
 
@@ -55,7 +55,7 @@ D3DXEVENTHANDLE GetUpcomingPriorityBlend(
 
 Обработчик события для следующего запланированного события смешения приоритета. Если не запланировано новое событие смешения приоритета, возвращается **значение NULL** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод можно использовать итеративно для нахождения требуемого события смешения приоритета путем многократной передачи **значения NULL** для Хевент.
 
@@ -64,7 +64,7 @@ D3DXEVENTHANDLE GetUpcomingPriorityBlend(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -75,7 +75,7 @@ D3DXEVENTHANDLE GetUpcomingPriorityBlend(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

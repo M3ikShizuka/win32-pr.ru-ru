@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: f4c67b2be996654841168f7883a01103adf06a2a79921e14e7856e3384d4ec66
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 23485bbdc2292e0d341e3fef0646fb68616698c4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120052794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126892229"
 ---
 # <a name="iamtimelinesetinterestrange-method"></a>Метод Иамтимелине:: Сетинтерестранже
 
@@ -64,7 +64,7 @@ HRESULT SetInterestRange(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.
@@ -76,7 +76,7 @@ HRESULT SetInterestRange(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -87,7 +87,7 @@ HRESULT SetInterestRange(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

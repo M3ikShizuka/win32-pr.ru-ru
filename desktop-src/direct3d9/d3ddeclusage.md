@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3D9Types.h
-ms.openlocfilehash: 707a5b7b886ac9366733e1b17322ac61c7d9703cb6ef8ac1e095cf1300fd508d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f3997aa38a7a97455b9f36d8afbee896ca9ae937
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119857514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963786"
 ---
 # <a name="d3ddeclusage-enumeration"></a>Перечисление D3DDECLUSAGE
 
@@ -150,7 +150,7 @@ typedef enum D3DDECLUSAGE {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Данные вершин объявляются с помощью массива структур [**D3DVERTEXELEMENT9**](d3dvertexelement9.md) . Каждый элемент массива содержит тип использования.
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8283f2f9ea033439ef9ad7ec0ce40b08bb6396db8f5ebc7a9b1d513f29c209a1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5e4abdf926cdd337760b5cf151c3f8ee08cb418b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119437144"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054289"
 ---
 # <a name="em_takefocus-message"></a>\_Сообщение ТАКЕФОКУС EM
 
@@ -49,17 +49,17 @@ ms.locfileid: "119437144"
 
 Возвращаемое значение не используется.
 
-## <a name="security-considerations"></a>Соображения безопасности
+## <a name="security-considerations"></a>Вопросы безопасности
 
 Использование этого сообщения может нарушить безопасность программы.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это сообщение пропускается, если элемент управления "поле ввода" не является элементом управления "поле ввода" с одной строкой.
 
 Если в элементе управления "поле ввода" ранее было получено сообщение [**EM \_ носетфокус**](em-nosetfocus.md) , элемент управления "поле ввода" получит фокус, не имея его на самом деле; в противном случае элемент управления "поле ввода" получит фокус.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -67,7 +67,7 @@ ms.locfileid: "119437144"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 
@@ -75,7 +75,7 @@ ms.locfileid: "119437144"
 
 <dl> <dt>
 
-**Ссылка**
+**Ссылки**
 </dt> <dt>
 
 [**Изменить \_ такефокус**](/windows/desktop/api/Commctrl/nf-commctrl-edit_takefocus)

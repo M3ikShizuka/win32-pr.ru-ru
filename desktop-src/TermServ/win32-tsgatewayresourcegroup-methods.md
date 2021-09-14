@@ -6,11 +6,11 @@ ms.tgt_platform: multiple
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 5744be87166d2c3e86abb83493dff548c87b3894
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "105672009"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890597"
 ---
 # <a name="win32_tsgatewayresourcegroup-methods"></a>\_Методы тсгатевайресаурцеграуп Win32
 
@@ -25,11 +25,11 @@ ms.locfileid: "105672009"
 -   [**Метод SetDescription**](setdescription-win32-tsgatewayresourcegroup.md)
 -   [**Метод SetName**](setname-win32-tsgatewayresourcegroup.md)
 -   [**Метод Сетресаурцес**](setresources-win32-tsgatewayresourcegroup.md)
--   [**Метод Update**](update-win32-tsgatewayresourcegroup.md)
+-   [**Update - метод**](update-win32-tsgatewayresourcegroup.md)
 
- 
+ 
 
- 
+ 
 
 
 

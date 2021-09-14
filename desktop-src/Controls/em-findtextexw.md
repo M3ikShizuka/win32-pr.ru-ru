@@ -3,7 +3,7 @@ title: Сообщение EM_FINDTEXTEXW (RichEdit. h)
 description: EM_FINDTEXTEXW сообщение — находит текст в Юникоде в элементе управления Rich Edit.
 ms.assetid: 7b90ef06-0395-430e-8b5d-b392481a5f70
 keywords:
-- Элементы управления Windows для EM_FINDTEXTEXW сообщений
+- элементы управления Windows сообщений EM_FINDTEXTEXW
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 5278726ca4d3e4748e96d8095a411bcebd5637ba
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108109812"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126892312"
 ---
 # <a name="em_findtextexw-message"></a>\_Сообщение ФИНДТЕКСТЕКСВ EM
 
@@ -62,7 +62,7 @@ ms.locfileid: "108109812"
 
 Если целевая строка найдена, возвращаемое значение является Отсчитываемая от нуля позицией первого символа совпадения. Если целевой объект не найден, возвращается значение-1.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это сообщение используется для поиска строк в Юникоде. Для ANSI; используйте [**EM \_ финдтекстекс**](em-findtextex.md).
 
@@ -78,13 +78,13 @@ ms.locfileid: "108109812"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>RichEdit. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>RichEdit. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: В этом разделе содержатся сведения о
 ms.assetid: vs|controls|~\controls\hotkey\reflist.htm
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: de661c39ca784a22d1aecca44e69656cb3f49a220274f21c86b06bfee89a82da
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cf2c8d69add1c2eb2ce67675c7306805324eaf6c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119544604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054168"
 ---
 # <a name="hot-key"></a>Горячая клавиша
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 5f230b5c3869ba30c90c64cfbeb903d586f65f85b3424b376609866c85cbc4e9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0e143b16e5cdc1e193760c0b97846be07eb72c0e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120052324"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891864"
 ---
 # <a name="iamtimelinetrackgetsourcescount-method"></a>Метод Иамтимелинетракк:: Жетсаурцескаунт
 
@@ -56,7 +56,7 @@ HRESULT GetSourcesCount(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.

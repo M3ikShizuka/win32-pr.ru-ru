@@ -21,12 +21,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d1e16dcf974658bb780ece5671291107ef72827c88e458fdbce35c9da9f957c7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 23b242369df24724fdcc31ce925a229dba5bb515
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118609927"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891293"
 ---
 # <a name="cim_managedsystemelement-class-remote-desktop-services"></a>Класс CIM_ManagedSystemElement (службы удаленных рабочих столов)
 
@@ -50,7 +50,7 @@ class CIM_ManagedSystemElement
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ манажедсистемелемент** имеет следующие типы членов:
 
@@ -107,7 +107,7 @@ class CIM_ManagedSystemElement
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**

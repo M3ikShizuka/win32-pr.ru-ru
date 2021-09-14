@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 95c79071030b2f40613138e526abd1f965d3b5aeb7b233c2c53be57b65f97da7
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c68fe1ab83724149dcd2fb58a60e9c6950d887ca
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119916404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053598"
 ---
 # <a name="cbasepinenummediatypes-method"></a>Кбасепин. Енуммедиатипес, метод
 
@@ -65,7 +65,7 @@ HRESULT EnumMediaTypes(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Входные сигналы не требуются для перечисления каких-либо предпочтительных типов. Выходные контакты должны перечислить по крайней мере один предпочтительный тип. В противном случае у обоих ПИН-кодов может не быть предпочтительного типа, что делает соединение невозможным.
 
@@ -73,7 +73,7 @@ HRESULT EnumMediaTypes(
 
 Базовый класс [**ценуммедиатипес**](cenummediatypes.md) реализует **иенуммедиатипес**. Он вызывает метод [**кбасепин:: жетмедиатипе**](cbasepin-getmediatype.md) ПИН-кода для перечисления типов мультимедиа.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -84,7 +84,7 @@ HRESULT EnumMediaTypes(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

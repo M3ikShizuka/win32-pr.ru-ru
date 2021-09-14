@@ -20,12 +20,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 37c22a805ccf1a2cf77cecd134e6c2743a89f59c9b5d8936a9199d80eeb23815
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9564b0eb2dc8a5bee2e65b729164f39a19d349fd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118983304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966250"
 ---
 # <a name="apijetgetobjectinfo-method-jet_sesid-jet_dbid-jet_objectlist"></a>Метод API. Жетжетобжектинфо (JET_SESID, JET_DBID, JET_OBJECTLIST)
 
@@ -79,7 +79,7 @@ public static void JetGetObjectInfo(
     
     Заполняется сведениями об объектах в базе данных.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

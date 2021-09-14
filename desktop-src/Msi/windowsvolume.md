@@ -4,18 +4,18 @@ ms.assetid: 56b78c88-ef58-4474-92ad-b42fe49a2f30
 title: Виндовсволуме, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ec3e0632fa981e9ea511be5017d02411bb6bb18355187c818ac3cd6c39e4f670
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6220a9844120e061eb680c76a32ce00dbc517f26
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117989938"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055261"
 ---
 # <a name="windowsvolume-property"></a>Виндовсволуме, свойство
 
 Установщик задает для свойства **виндовсволуме** значение Volume папки Windows. Свойство всегда заканчивается обратной косой чертой. это можно использовать для установки расположения по умолчанию на том, на котором находится папка Windows, так как свойство [**рутдриве**](rootdrive.md) не обязательно равно этому диску.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Не используйте свойство **виндовсволуме** в столбце Directory таблицы [Directory](directory-table.md) . свойство [**виндовсфолдер**](windowsfolder.md) содержит путь к папке Windows.
 

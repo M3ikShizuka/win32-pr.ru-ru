@@ -4,12 +4,12 @@ ms.assetid: 3ef4f267-4dc2-421b-ade4-6b1efa364733
 title: Монопольный режим DirectDraw
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 09199e04a221299676c21fbc2876af4b8149943a743101d34893d5563ed42482
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0e5b04bae9c3221a4acee9900c5f19ba4e9b0d54
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119016183"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053949"
 ---
 # <a name="directdraw-exclusive-mode"></a>Монопольный режим DirectDraw
 

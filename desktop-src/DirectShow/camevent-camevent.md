@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: f0fd5895ada4bbbd1bf4ad24710f7782fdfb9c932f2d9446ff0d992335437da9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cdd37ba72d9467c16d46b2aec3ec40c206466eaf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119540562"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147978"
 ---
 # <a name="cameventcamevent-constructor"></a>Камевент. Камевент, конструктор
 
@@ -65,7 +65,7 @@ CAMEvent(
 
 При использовании события автоматического сброса метод [**камевент:: wait**](camevent-wait.md) сбрасывает событие в несигнальное состояние при возврате из метода. С событием ручного сброса событие остается сигнальным до тех пор, пока не будет вызван метод [**камевент:: Reset**](camevent-reset.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ CAMEvent(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
