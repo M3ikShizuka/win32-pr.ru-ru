@@ -3,7 +3,7 @@ title: External. Усерлогжедин
 description: Обратите внимание, что в этом разделе описываются функции, предназначенные для использования в Интернет-магазинах. | External. Усерлогжедин
 ms.assetid: d02d9486-c692-4f46-bc29-f0aaa45cad0f
 keywords:
-- Внешний Усерлогжедин проигрыватель Windows Media
+- External. усерлогжедин проигрыватель Windows Media
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 9a5454dd9d2fa2d771005448a4157c33b5634a30
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105695058"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241804"
 ---
 # <a name="externaluserloggedin"></a>External. Усерлогжедин
 
@@ -46,7 +46,7 @@ window.external.userLoggedIn
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media 11.<br/>                                                |
+| Версия<br/> | проигрыватель Windows Media 11.<br/>                                                |
 | DLL<br/>     | <dl> <dt>Wmp.dll</dt> </dl> |
 
 

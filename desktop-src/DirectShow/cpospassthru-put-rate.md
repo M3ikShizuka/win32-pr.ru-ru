@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 90c89c9730ee057bea3bc776f551061c0e828385fe3c6ae054f4161bdb705ab1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 21e7e654233f78adcda2addf73b87a178654872e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119565506"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058019"
 ---
 # <a name="cpospassthruput_rate-method"></a>Кпоспасссру. помещает \_ метод Rate
 
@@ -57,7 +57,7 @@ HRESULT put_Rate(
 
 Отрицательные тарифы указывают на обратную игру. Не все носители будут поддерживать обратную воспроизведение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ HRESULT put_Rate(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

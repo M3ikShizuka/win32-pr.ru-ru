@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b5fde18fe30e9d944e547305094e7ea69e6745d4e1e112d8697367cd82833588
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c4cb05b05ba2686d755c5fa34adcff0016433346
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119919474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167076"
 ---
 # <a name="sbm_getscrollinfo-message"></a>\_Сообщение СБМ жетскроллинфо
 
@@ -71,7 +71,7 @@ ms.locfileid: "119919474"
 
 Чтобы получить 32-разрядную точку прокрутки (Thumb) во время выполнения \_ кода запроса SB сумбтракк [**\_ HSCROLL**](wm-hscroll.md) или [**WM \_ VSCROLL**](wm-vscroll.md) , отправьте **СБМ \_ жетскроллинфо** со \_ значением SIF траккпос в **фмаск** -члене структуры [**скроллинфо**](/windows/win32/api/winuser/ns-winuser-scrollinfo) . Сообщение возвращает точку отслеживания ползунка в элементе **нтраккпос** структуры **скроллинфо** . Это позволяет получить расположение поля прокрутки при его перемещении пользователем. Кроме того, можно использовать функцию [**жетскроллинфо**](/windows/desktop/api/Winuser/nf-winuser-getscrollinfo) для получения той же информации.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -83,11 +83,11 @@ ms.locfileid: "119919474"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**жетскроллинфо**](/windows/desktop/api/Winuser/nf-winuser-getscrollinfo)

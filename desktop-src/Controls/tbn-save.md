@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7f9d4fb40d0e5beafcd720b4de52a8cf09d17c3e4c6f7b4dcfa8da78e00e97ef
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 81cd28cb9d5fa1804caa3fe0ca89823305725ddd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119876594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166308"
 ---
 # <a name="tbn_save-notification-code"></a>ТБН \_ сохранить код уведомления
 
@@ -53,7 +53,7 @@ TBN_SAVE
 
 Приложение получит этот код уведомления один раз в начале процесса сохранения и один раз для каждой кнопки. Этот код уведомления позволяет добавлять в оболочку собственные сведения, сохраненные с помощью оболочки. Если вы не хотите добавлять сведения, пропустите код уведомления. Дополнительные сведения об обработке ТБН Save см. в статье [Настройка панелей инструментов](toolbar-controls-overview.md) \_ .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -65,7 +65,7 @@ TBN_SAVE
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

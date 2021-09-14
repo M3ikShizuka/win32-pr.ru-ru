@@ -3,7 +3,7 @@ title: Объект агента отзыва лицензий
 description: Объект агента отзыва лицензий
 ms.assetid: 19b0e697-1648-40e3-b6ef-c726905a47a2
 keywords:
-- Пакет SDK для Windows Media Format, объекты агента отзыва лицензий
+- Windows Пакет SDK для формата мультимедиа, объекты агента отзыва лицензий
 - Расширенный формат систем (ASF), объекты агента отзыва лицензий
 - ASF (Расширенный системный формат), объекты агента отзыва лицензий
 - объекты, объекты агента отзыва лицензий
@@ -11,11 +11,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 11a02e07c0f5e2f25c90b39ffcf21e15048e55dc
-ms.sourcegitcommit: 48d1c892045445bcbd0f22bafa2fd3861ffaa6e7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/19/2020
-ms.locfileid: "104412485"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267088"
 ---
 # <a name="license-revocation-agent-object"></a>Объект агента отзыва лицензий
 
@@ -23,16 +23,16 @@ ms.locfileid: "104412485"
 
 Объект агента отзыва лицензий создается функцией [**вмкреателиценсеревокатионажент**](/previous-versions/windows/desktop/api/Wmsdkidl/nf-wmsdkidl-wmcreatelicenserevocationagent) , которая устанавливает указатель на интерфейс [**ивмлиценсеревокатионажент**](/previous-versions/windows/desktop/api/wmsdkidl/nn-wmsdkidl-iwmlicenserevocationagent) . **IUnknown** и **ивмлиценсеревокатионажент** — это единственные интерфейсы, поддерживаемые этим объектом.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [**Объекты**](objects.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f6e3ad30db7ec43bcc0ee6c1470dc608ccf1625390486d9fcd0fd4bf018affdd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aaafb97f836135aa9dd112372b1931c8561cb40b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118338109"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342802"
 ---
 # <a name="playernewmedia-method"></a>Метод Player. Невмедиа
 
@@ -57,7 +57,7 @@ retVal = Player.newMedia(
 
 Параметр *URL-адреса* не должен быть пустой строкой или иметь значение null.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ retVal = Player.newMedia(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

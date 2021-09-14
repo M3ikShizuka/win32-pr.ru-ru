@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Wia.h
-ms.openlocfilehash: bc22904f593e0d7f9c2ff3a32bbf1fa0bc202950929e5d4a00de7fae4cb00e6f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1ac2cc1f12cf6fd59111d0159684459c2500a854
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117669490"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345490"
 ---
 # <a name="iwiapreviewclear-method"></a>Метод Ивиапревиев:: Clear
 

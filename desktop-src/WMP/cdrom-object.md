@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 60c4e1081dec3e44107778e45fd911e0c4bb673d27b5e19874508ddbacb270ad
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 17c2de88749b4dd4a0ab756b77866c16e8878486
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118342647"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242554"
 ---
 # <a name="cdrom-object"></a>Объект CDROM
 
@@ -28,7 +28,7 @@ ms.locfileid: "118342647"
 
 
 
-| Свойство                                   | Описание                                                                                                                                             |
+| Свойство.                                   | Описание                                                                                                                                             |
 |--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [дривеспеЦифиер](cdrom-drivespecifier.md) | Возвращает букву компакт-диска или DVD-дисковода.                                                                                                                   |
 | [списком](cdrom-playlist.md)             | Извлекает объект [списка воспроизведения](playlist-object.md) , который представляет дорожки на компакт-диске в данный момент в ДИСКОВОДе компакт-дисков или записи заголовка корневого уровня для DVD. |
@@ -63,7 +63,7 @@ ms.locfileid: "118342647"
 
 В целях иллюстрации в разделах синтаксиса Reference используется проигрыватель. Кдромколлектион. Item (*индекс*).
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

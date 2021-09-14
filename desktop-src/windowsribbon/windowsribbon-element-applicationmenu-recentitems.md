@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: f6cfb5152cd1d9cc4d27abfa3432666f06880d8e
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122630379"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345479"
 ---
 # <a name="applicationmenurecentitems-property"></a>Аппликатионмену. Рецентитемс, свойство
 
@@ -87,7 +87,7 @@ ms.locfileid: "122630379"
 
 ## <a name="remarks"></a>Remarks
 
-Необязательный элемент.
+Необязательный параметр.
 
 Может встречаться не более одного раза для каждого элемента [**аппликатионмену**](windowsribbon-element-applicationmenu.md) .
 
@@ -132,7 +132,7 @@ ms.locfileid: "122630379"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

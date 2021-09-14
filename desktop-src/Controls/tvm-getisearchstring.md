@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 79838b2b0d2f109216caf970d33d51b4a3c1369da7b1fc47f5a53e45c3ee82fb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aa968d78a1a99dd3b1eb90055cf2c1d2de51db86
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120060244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165744"
 ---
 # <a name="tvm_getisearchstring-message"></a>\_Сообщение TVM жетисеарчстринг
 
@@ -51,7 +51,7 @@ ms.locfileid: "120060244"
 
 Если элемент управления "дерево-представление" не находится в режиме добавочного поиска, возвращаемое значение равно нулю.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e5403bb85e1b2747d1ab6081d33c25ec20a3b2099fc83b2b15e66b014f558584
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b6f94f26a0893416847df052ff47731391a86f5f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119876584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166263"
 ---
 # <a name="tcm_getitem-message"></a>Сообщение для TCM \_ Item
 
@@ -53,7 +53,7 @@ ms.locfileid: "119876584"
 
 Если в элементе \_ **Mask** структуры [**тЦитем**](/windows/win32/api/commctrl/ns-commctrl-tcitema) задан флаг тЦиф Text, элемент управления может изменить элемент **псзтекст** структуры так, чтобы он указывал на новый текст вместо заполнения буфера запрошенным текстом. Элемент управления может установить для элемента **Псзтекст** **значение NULL** , чтобы указать, что с элементом не связана ни один текст.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

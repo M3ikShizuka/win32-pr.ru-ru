@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ae3e750a8544c050e735671b7fd2df6980d53b1200e2f67493b46ad7a2e0b017
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5b918989b41b43c3f54d8ec3133223716e839e58
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119888734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346667"
 ---
 # <a name="wm_mousewheel-message"></a>\_Сообщение МАУСЕВХИЛ WM
 
@@ -113,7 +113,7 @@ yPos = GET_Y_LPARAM(lParam);
 
 Приложение пересылает **МШ \_ маусевхил** всем внедренным объектам или элементам управления. Приложение необходимо для отправки сообщения в активное внедренное приложение OLE. Необязательно, чтобы приложение отправляло его в элемент управления с поддержкой колеса с фокусом. Если приложение отправляет сообщение в элемент управления, оно может проверить возвращаемое значение, чтобы проверить, было ли сообщение обработано. Элементы управления должны возвращать значение **true** , если они обрабатывают сообщение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -125,7 +125,7 @@ yPos = GET_Y_LPARAM(lParam);
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -153,7 +153,7 @@ yPos = GET_Y_LPARAM(lParam);
 [**\_событие мыши**](/windows/win32/api/winuser/nf-winuser-mouse_event)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с помощью мыши](mouse-input.md)

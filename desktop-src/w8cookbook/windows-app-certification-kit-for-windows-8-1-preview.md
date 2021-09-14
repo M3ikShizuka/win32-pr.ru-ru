@@ -4,12 +4,12 @@ description: Комплект сертификации приложений дл
 ms.assetid: 576A7200-99ED-43FC-8B0C-72F63D2C7000
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 380e5d26c9bab56e7884bd7d636986b38138393d173ef72526b0ae997fecaf65
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 42b163461d555697e1fcb1728248aa93f6ae1bbc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119935034"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346218"
 ---
 # <a name="windows-app-certification-kit"></a>Комплект сертификации приложений для Windows
 

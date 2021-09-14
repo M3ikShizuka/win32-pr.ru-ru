@@ -5,11 +5,11 @@ ms.assetid: 8c390e19-3c17-4e02-ade8-cd5c1ed9E938
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 58495c48f6f355e7cc2a42b58ac0e32f88958361
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104067449"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058470"
 ---
 # <a name="how-to-enable-navigation-in-a-ui-automation-fragment-provider"></a>Как включить навигацию в поставщике фрагментов автоматизации пользовательского интерфейса
 
@@ -54,11 +54,11 @@ HRESULT STDMETHODCALLTYPE ListItemProvider::Navigate(NavigateDirection direction
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Реализация поставщика автоматизации пользовательского интерфейса Server-Side](uiauto-serversideprovider.md)
@@ -67,9 +67,9 @@ HRESULT STDMETHODCALLTYPE ListItemProvider::Navigate(NavigateDirection direction
 [Разделы руководства для поставщиков автоматизации пользовательского интерфейса](uiauto-howto-topics-for-uiautomation-providers.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

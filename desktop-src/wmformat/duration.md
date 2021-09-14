@@ -1,5 +1,5 @@
 ---
-title: Duration
+title: Длительность
 description: Атрибут Duration содержит длительность воспроизведения файла в единицах 100-наносекундных.
 ms.assetid: 1d72f826-4087-45f5-a5b9-f31c4e98e9b1
 keywords:
@@ -12,14 +12,14 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 22fc6b32d34249fbbe94e629b9fea6ae40d9627d100d3c337efd74d5a2d2773f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 12ea9763bf505394f231ebe7d50943f4336e244c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119085866"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345438"
 ---
-# <a name="duration"></a>Duration
+# <a name="duration"></a>Длительность
 
 Атрибут **Duration** содержит длительность воспроизведения файла в единицах 100-наносекундных.
 

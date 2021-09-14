@@ -4,12 +4,12 @@ description: Подготовка к просмотру на поверхнос�
 ms.assetid: a6096ff5-1e6e-4edb-b455-ea5d205072ff
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 20df241e379e9a133cb662ea141fa27c86a4bb486c8ffba311423cb9afd83fbf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1ff292feb2250a4dd81abeb62d8ee48ebfb4488b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120048494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057938"
 ---
 # <a name="render-to-a-gdi-surface"></a>Подготовка к просмотру на поверхности GDI
 

@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Shell32.dll
 ms.openlocfilehash: a121e4f87be1163429156f22dfe7bd55f1345f43
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104985545"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346314"
 ---
 # <a name="shellparent-property"></a>Свойство Shell. Parent
 
@@ -49,9 +49,9 @@ Property Parent As Object
 
 ## <a name="examples"></a>Примеры
 
-В следующем примере показано правильное использование **родителя** для JScript, VBScript и Visual Basic.
+в следующем примере показано правильное использование **родителя** для JScript, VBScript и Visual Basic.
 
-Присутствовал
+JScript:
 
 
 ```JScript
@@ -126,7 +126,7 @@ End Sub
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ классических приложений Windows XP\]<br/>                                         |
+| Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ настольных приложений Windows XP\]<br/>                                         |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                           |
 | Заголовок<br/>                   | <dl> <dt>Шлдисп. h</dt> </dl>                           |
 | IDL<br/>                      | <dl> <dt>Шлдисп. idl</dt> </dl>                         |

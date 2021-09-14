@@ -4,12 +4,12 @@ ms.assetid: 478340b4-5ee8-4ae6-b2d4-f53afbf098d9
 title: Начальная загрузка со скачиванием из Интернета
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7975259419e9f81a605103113bb05df1ef2d0b42f5ebf168fe68d14ce1c20bc6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 44e051382d425c0e4f99d30e5fa224967127cfff
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118946031"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065467"
 ---
 # <a name="internet-download-bootstrapping"></a>Начальная загрузка со скачиванием из Интернета
 

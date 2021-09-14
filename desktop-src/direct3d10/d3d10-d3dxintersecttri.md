@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: 29f0ae90c8a6fee1f675a6128fce1b2b8276490f61e93e707e5471f734449b94
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c8bf502cca48701a7d71a083e515f9988cafe303
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119853394"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241639"
 ---
 # <a name="d3dxintersecttri-function-d3dx10mathh"></a>Функция D3DXIntersectTri (D3DX10math. h)
 
@@ -133,7 +133,7 @@ BOOL D3DXIntersectTri(
 
 Координаты барицентрик определяют точку внутри треугольника с точки зрения вершин треугольника. Более подробное описание координат барицентрик см. в разделе [Описание координат Барицентрик MathWorld](https://mathworld.wolfram.com/BarycentricCoordinates.html).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -144,7 +144,7 @@ BOOL D3DXIntersectTri(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

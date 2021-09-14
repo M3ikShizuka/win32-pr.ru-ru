@@ -4,12 +4,12 @@ description: В этом разделе содержатся сведения о
 ms.assetid: ee942d66-fbbe-4da0-af5f-4fbc5854c58d
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bb9cd9952cb49c91b54965238ffba30a02021ae449df368137361a21c24cd371
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 84413b9bd25f57f88b2151ce1851a9519bbe6834
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119797514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165967"
 ---
 # <a name="tree-view"></a>Вид дерева
 

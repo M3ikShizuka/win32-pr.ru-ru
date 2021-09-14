@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 969ae3c7c240c38a6643682321c14e5744f2d2c2eec188004d1c3b2e6f2b3835
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 353cde946944bda7dc8d285f863d976e29353996
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119876244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166188"
 ---
 # <a name="tcm_setpadding-message"></a>\_Сообщение СЕТПАДДИНГ TCM
 
@@ -40,7 +40,7 @@ ms.locfileid: "119876244"
 
 Нет возвращаемого значения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

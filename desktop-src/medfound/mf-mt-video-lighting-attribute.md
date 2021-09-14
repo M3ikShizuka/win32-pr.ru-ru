@@ -5,11 +5,11 @@ title: Атрибут MF_MT_VIDEO_LIGHTING (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 5c29a3f344ed4a48da21185a7d221f1e399ac7ce
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103912967"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269131"
 ---
 # <a name="mf_mt_video_lighting-attribute"></a>\_ \_ Атрибут освещения видео в MF \_
 
@@ -19,7 +19,7 @@ ms.locfileid: "103912967"
 
 **UINT32**
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значение этого атрибута является членом перечисления [**мфвидеолигхтинг**](/windows/desktop/api/mfobjects/ne-mfobjects-mfvideolighting) .
 
@@ -31,9 +31,9 @@ ms.locfileid: "103912967"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows Vista \|\]<br/>                              |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2008 \|\]<br/>                        |
-| Header<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Приложения UWP для классических приложений Vista \|\]<br/>                              |
+| Минимальная версия сервера<br/> | Windows \[Приложения UWP для классических приложений сервера 2008 \|\]<br/>                        |
+| Заголовок<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
 
 
 

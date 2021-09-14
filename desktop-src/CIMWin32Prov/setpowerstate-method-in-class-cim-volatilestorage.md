@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: c47c9ba54fbc5fb906d6ac4484e298e6cc1fac15cb4083bbb7856c02af4910ea
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3c72cba61a41a76b604554fe3a36e463d6c3e35d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118958954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065811"
 ---
 # <a name="setpowerstate-method-of-the-cim_volatilestorage-class"></a>Метод SetPowerState \_ класса CIM волатилестораже
 

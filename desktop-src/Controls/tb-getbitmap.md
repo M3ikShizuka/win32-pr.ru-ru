@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ebb976d206de0cdbd0234763f92ac0417cc974355a3371d04476d7969e1f763c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 771073b67b1421a5d9bda9d162bc234400c85885
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118957913"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166864"
 ---
 # <a name="tb_getbitmap-message"></a>(ТБ) \_ сообщение с изображением
 
@@ -43,7 +43,7 @@ ms.locfileid: "118957913"
 
 Возвращает индекс битовой карты в случае успеха или ноль в противном случае.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

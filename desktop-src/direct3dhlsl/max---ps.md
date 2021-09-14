@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: da2c6a21b7d3c415d4ae5339349bf929cbe6818795e2ea22de449aa0bbb237f2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c6186f0bd57acd4862a62a4c0a30ae92118b75ce
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118986384"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241414"
 ---
 # <a name="max---ps"></a>Max-PS
 
@@ -31,7 +31,7 @@ ms.locfileid: "118986384"
 
  
 
-where
+где
 
 -   DST — это регистр назначения.
 -   src0 является исходным регистром.
@@ -43,7 +43,7 @@ where
 
 | Версии шейдеров пикселей | 1\_1 | 1\_2 | 1 \_ 3 | 1\_4 | 2 \_ 0 | 2 \_ x | 2 \_ SW | 3 \_ 0 | 3 \_ SW |
 |-----------------------|------|------|------|------|------|------|-------|------|-------|
-| макс.                   |      |      |      |      | x    | x    | x     | x    | x     |
+| max                   |      |      |      |      | x    | x    | x     | x    | x     |
 
 
 

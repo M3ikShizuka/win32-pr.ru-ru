@@ -16,11 +16,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: aeadbb845dc115b1faff858fe3a6ba0064eb425e
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105708573"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346151"
 ---
 # <a name="drm_output_protection_ex-structure"></a>\_Структура для \_ защиты \_ вывода DRM
 
@@ -39,7 +39,7 @@ typedef struct DRM_OUTPUT_PROTECTION_EX {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -64,7 +64,7 @@ typedef struct DRM_OUTPUT_PROTECTION_EX {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 **DRM \_ Защита звука с аудио \_ и \_ \_** защитой, например, в инструкциях **typedef** определяется как **\_ \_ Защита выходных данных DRM** . **\_ \_ \_ \_**
 
@@ -74,7 +74,7 @@ typedef struct DRM_OUTPUT_PROTECTION_EX {
 
 | Требование | Значение |
 |-------------------|---------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Вмдрмсдк. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Вмдрмсдк. h</dt> </dl> |
 
 
 

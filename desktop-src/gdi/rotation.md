@@ -4,12 +4,12 @@ ms.assetid: 85d8fe2c-5ad9-4e98-b6ff-ca0a78abeee5
 title: Поворот
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6aa6552411e2e018d04ff55cbeeb430d185fe62d61dc59d421d08dbe6e0d7174
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 17be42f2826cbad09333b2c37b607dc50c7c9d0c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119602704"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065916"
 ---
 # <a name="rotation"></a>Поворот
 

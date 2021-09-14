@@ -4,12 +4,12 @@ description: Если элемент управления выполняет п�
 ms.assetid: 7f558674-c8b2-4461-96ba-e139416b7a1c
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2f2e338deca61c4aac07fca431e77492f53f168540cfbbcf7596b8540ba5369f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2c013ee317ddeee6ff80dc4a26982d40d7117950
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118168584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166971"
 ---
 # <a name="subclassing-controls"></a>Подклассировать элементы управления
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 644e214a3edbc420a7aed3d4ba5bc688e6b7af1ed097be325006bb9481e00620
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 9b2da73ebb3bf0355f50bc08a08f0b35de97576b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120104504"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166103"
 ---
 # <a name="tdm_update_icon-message"></a>\_ \_ Сообщение значка обновления TDM
 
@@ -83,7 +83,7 @@ ms.locfileid: "120104504"
 
 Если диалоговое окно задачи создается без нижнего колонтитула (то есть соответствующие элементы в структуре [**таскдиалогконфиг**](/windows/desktop/api/Commctrl/ns-commctrl-taskdialogconfig) , используемой для создания диалогового окна задачи имеют **значение NULL**) и сообщение отправляется, нижний колонтитул не добавляется динамически в диалоговое окно задачи. То же самое справедливо для отправки этого сообщения для обновления значка заголовка при создании диалогового окна задачи без заголовка. Чтобы добавить верхний или нижний колонтитул во время выполнения, используйте функцию [**TDM \_ навигации \_ Page**](tdm-navigate-page.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

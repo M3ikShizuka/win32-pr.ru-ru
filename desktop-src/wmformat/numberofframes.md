@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3874f492c60b4362a79a5452ef83ecccbccc9873b86432a6d22873839efe51d3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5a0a73e1892c2d6de63bb92e54435d4328b95c19
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117654486"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266992"
 ---
 # <a name="numberofframes"></a>NumberOfFrames
 
@@ -35,7 +35,7 @@ g \_ всзвмнумбероффрамес
 
 Модуль записи добавляет это значение в поток видео во время кодирования. **Нумбероффрамес** не предназначен только для чтения. Однако это значение следует изменять только в том случае, если вы изменяете файл, изменяя число кадров в потоке видео.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

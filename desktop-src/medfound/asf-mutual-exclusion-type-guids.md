@@ -4,12 +4,12 @@ ms.assetid: 3db8eebd-2e26-4c77-8f66-7d08436c9e42
 title: Идентификаторы GUID типов взаимного исключения ASF (Вмконтаинер. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9fc035248610c8f58928347093dad4470f58f9818dc99fee1d88ac3fc0d13d88
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2a6fedc766e26c35bb967054a704b732ca03e8a8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119035542"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346630"
 ---
 # <a name="asf-mutual-exclusion-type-guids"></a>Идентификаторы GUID типов взаимного исключения ASF
 
@@ -26,7 +26,7 @@ ms.locfileid: "119035542"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -38,7 +38,7 @@ ms.locfileid: "119035542"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

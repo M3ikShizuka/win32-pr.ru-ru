@@ -14,11 +14,11 @@ api_type:
 api_location:
 - D3d9types.h
 ms.openlocfilehash: c5047f29a9afbe5bb18db213f90e559b5e11d273
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "105647831"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066296"
 ---
 # <a name="d3dcolor_rgba-macro"></a>\_Макрос D3DCOLOR RGBA
 
@@ -80,7 +80,7 @@ D3DCOLOR D3DCOLOR_RGBA(
 
 | Требование | Значение |
 |-------------------|----------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3d9types. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3d9types. h</dt> </dl> |
 
 
 

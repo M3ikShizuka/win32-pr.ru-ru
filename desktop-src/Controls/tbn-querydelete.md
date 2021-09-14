@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a01d1322ce8461c5cdb53fc76cfc220bbb5d292dedbe589d8b6ada5a48756d55
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a416545ecf7ad8562c1327160d683a109eccb3b5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119077888"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166327"
 ---
 # <a name="tbn_querydelete-notification-code"></a>\_Код уведомления ТБН куериделете
 
@@ -49,7 +49,7 @@ TBN_QUERYDELETE
 
 Возвращает **значение true** , чтобы разрешить удаление кнопки, или **значение false** , чтобы предотвратить удаление кнопки.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: dafa7a8c27b5c274a981e43edc5c55ec0cade67cac08a1d09a898916d792795c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 854df2cd367a852a2e6a0e638b470187efabe58c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118169057"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167163"
 ---
 # <a name="sb_getborders-message"></a>Сообщение SB с \_ ВЫграничными границами
 
@@ -47,7 +47,7 @@ ms.locfileid: "118169057"
 
 Границы определяют интервал между внешним краями окна и прямоугольниками в окне, содержащими текст. Кроме того, границы определяют интервал между прямоугольниками.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

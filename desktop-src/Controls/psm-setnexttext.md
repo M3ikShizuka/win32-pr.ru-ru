@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3d177acb2f2c96e12f5dc4b460ee88149ad81f9b4f79cc3505f776d8f1f92551
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d781a8d76fca5c1e74bcda452b6ab7e03a32aacc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118410084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167479"
 ---
 # <a name="psm_setnexttext-message"></a>\_Сообщение ПСМ сетнексттекст
 
@@ -56,7 +56,7 @@ ms.locfileid: "118410084"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                               |
-| Header<br/>                   | <dl> <dt>Пршт. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Пршт. h</dt> </dl> |
 | Имя в кодировке Юникод и ANSI<br/>   | **ПСМ \_ СЕТНЕКСТТЕКСТВ** (Юникод)<br/>                                         |
 
 

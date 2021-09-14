@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 54d94da64bd01b17addeb8f65def177e7e7e5d7daccbafb1629d1158f8c6636d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d17ebb6caa2c33282dccbb117980fc970cd45477
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119875914"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166112"
 ---
 # <a name="tdm_set_progress_bar_range-message"></a>TDM \_ задать \_ \_ \_ сообщение диапазона индикатора выполнения
 
@@ -47,7 +47,7 @@ ms.locfileid: "119875914"
 
 Возвращает предыдущие минимальные и максимальные значения, если они успешно, или ноль в противном случае. [**Ловорд**](/previous-versions/windows/desktop/legacy/ms632659(v=vs.85)) содержит минимальное значение, а [**HIWORD**](/previous-versions/windows/desktop/legacy/ms632657(v=vs.85)) содержит максимальное значение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

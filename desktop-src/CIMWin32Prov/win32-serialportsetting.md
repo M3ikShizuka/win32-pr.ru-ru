@@ -17,11 +17,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 713cdb57b5ed7135529959d3c17f7453924ce1dc
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103990386"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266635"
 ---
 # <a name="win32_serialportsetting-class"></a>\_Класс Win32 сериалпортсеттинг
 
@@ -40,13 +40,13 @@ class Win32_SerialPortSetting : Win32_DeviceSettings
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ сериалпортсеттинг** имеет следующие типы членов:
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ сериалпортсеттинг** имеет следующие свойства.
 
@@ -84,7 +84,7 @@ class Win32_SerialPortSetting : Win32_DeviceSettings
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **Win32 \_ сериалпортсеттинг** является производным от [**Win32 \_ девицесеттингс**](win32-devicesettings.md).
 

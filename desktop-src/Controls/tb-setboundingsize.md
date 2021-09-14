@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7d409769e08e489d922dbdc2361779953555000dca784a6f7b977bbbcd3a5e65
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 419595da16148f7382da5053d3187e9cce9e00a0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118167747"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166655"
 ---
 # <a name="tb_setboundingsize-message"></a>\_Сообщение СЕТБАУНДИНГСИЗЕ ТБ
 
@@ -49,7 +49,7 @@ ms.locfileid: "118167747"
 
 Возвращаемое значение не используется.
 
-## <a name="security-considerations"></a>Соображения безопасности
+## <a name="security-considerations"></a>Вопросы безопасности
 
 Использование этого сообщения может нарушить безопасность программы.
 
@@ -57,7 +57,7 @@ ms.locfileid: "118167747"
 
 Ограничивающий размер управляет тем, как кнопки организованы в столбцы. Если элемент управления "панель инструментов" не имеет стиля [**тбстиле \_ ex \_ Column**](toolbar-extended-styles.md) , это сообщение не действует.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

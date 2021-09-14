@@ -4,12 +4,12 @@ ms.assetid: 1dc4d04f-7e7c-42a1-bd71-4549f83a806e
 title: System. Calendar. в сети
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 05632fa37ce07be617b106665f1d0e9b0d05ede486634efc1358159c3b7fba61
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 22cd1682ba43ff22ca4b89a2524eaf242e787d86
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118055724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127262795"
 ---
 # <a name="systemcalendarisonline"></a>System. Calendar. в сети
 

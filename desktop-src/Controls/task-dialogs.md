@@ -4,12 +4,12 @@ description: В этом разделе содержатся сведения о
 ms.assetid: vs|controls|~\controls\taskdialogs\taskdialogs.htm
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6797314b75fff46ddf8a4f64638fefb5ea0181d2353bd1a1d3caa57325d28e7d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a4f115531b9f872c824e9d1822be07777b2bc439
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118168554"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166919"
 ---
 # <a name="task-dialog"></a>Диалоговое окно задачи
 

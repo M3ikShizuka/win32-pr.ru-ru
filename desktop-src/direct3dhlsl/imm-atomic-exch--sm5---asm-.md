@@ -5,11 +5,11 @@ ms.assetid: D06AE57E-52A4-4579-84FF-7DE9E713A5E3
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: fb38cd696af079c5ae7dc896db619b95dd1d1d6c
-ms.sourcegitcommit: fe03c5d92ca6a0d66a114b2303e99c0a19241ffb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "104133330"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066169"
 ---
 # <a name="imm_atomic_exch-sm5---asm"></a>IMM \_ Atomic для \_ валюты (SM5-ASM)
 
@@ -37,7 +37,7 @@ ms.locfileid: "104133330"
 
  
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Эта инструкция выполняет однокомпонентное 32-разрядное значение записи операнда *src0* в *dst1* с 32-бит на компонент, адрес *дстаддресс*.
 
@@ -61,7 +61,7 @@ ms.locfileid: "104133330"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 |        |      |        |          | X     | X       |
 
@@ -73,7 +73,7 @@ ms.locfileid: "104133330"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | X      | X    | X      | X        | X     | X       |
 
@@ -89,7 +89,7 @@ ms.locfileid: "104133330"
 
 | Модель шейдера                                              | Поддерживается |
 |-----------------------------------------------------------|-----------|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | да       |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | Да       |
 | [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | Нет        |
 | [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | Нет        |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет        |
@@ -100,7 +100,7 @@ ms.locfileid: "104133330"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

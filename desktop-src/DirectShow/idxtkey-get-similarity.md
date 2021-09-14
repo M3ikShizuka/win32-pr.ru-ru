@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: dda31145fe28f0b428189eafd3105ae56120fbc19e0c611ad0df8d9f511130a3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e53898a1f9c5175fdf7a42ba6de68e3173f02afe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118399144"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346934"
 ---
 # <a name="idxtkeyget_similarity-method"></a>Метод Идксткэй:: Get \_ подобия
 

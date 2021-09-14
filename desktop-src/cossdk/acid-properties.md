@@ -4,12 +4,12 @@ ms.assetid: 857d145c-710d-4097-8ed6-df11e8d52228
 title: Свойства ACID
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4588e7ed38901dd71af11bd3dcdf9890c8f5d94319b1c67b4d896ace10540852
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cd2e725cae75b4aa80d25f2959d474e8baa05f70
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118103374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066488"
 ---
 # <a name="acid-properties"></a>Свойства ACID
 

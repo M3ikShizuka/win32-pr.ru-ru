@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2014b6e36a0ab883155d786760ef54f02c89ee0d17192d6082d40ad19eec95a3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3d8c9eebbc0aa91651a01de1fe193544f0c8afcf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117830195"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167707"
 ---
 # <a name="pgm_getbuttonstate-message"></a>\_Сообщение ЖЕТБУТТОНСТАТЕ PGM
 
@@ -68,7 +68,7 @@ ms.locfileid: "117830195"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: CA333C46-3C5A-40AC-9885-454E380428A7
 title: MFPKEY_MediaProtectionSystemIdMapping, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ea69a30bbd7e49fbf0efcd3ee4a409d52fe237c5ec9fcbdbb2efd80e0948899b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d6a8aef8840e29ef5651cf584589fa7dee57700d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117873298"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268923"
 ---
 # <a name="mfpkey_mediaprotectionsystemidmapping-property"></a>МФПКЭЙ \_ медиапротектионсистемидмаппинг, свойство
 
@@ -45,7 +45,7 @@ VT \_ Unknown
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

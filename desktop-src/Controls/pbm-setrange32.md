@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f8e29022b4b3cb1c42c8e661e8366324ac10ae9853f104f31722dae8852edf71
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 55fcf91c794ec9ae3880d67f8df947f87fec413d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118169860"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167740"
 ---
 # <a name="pbm_setrange32-message"></a>\_Сообщение SETRANGE32 PBM
 
@@ -51,7 +51,7 @@ ms.locfileid: "118169860"
 
 Чтобы получить все высокие и младшие 32-битные значения, используйте сообщение [**PBM- \_ Range**](pbm-getrange.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

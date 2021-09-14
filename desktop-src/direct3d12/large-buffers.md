@@ -5,12 +5,12 @@ ms.assetid: 359E377A-8E16-4BB5-9055-09617335AB57
 ms.localizationpriority: high
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 63175bdb8b3937a01abe3ffc57032db78ea978768ee19e2c31d0c50db4103573
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d64944cb11507b8dc437d075938fad419f333433
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119123817"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066417"
 ---
 # <a name="suballocation-within-buffers"></a>Подраспределение в буферах
 

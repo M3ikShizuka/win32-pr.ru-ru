@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 57060f3b0436422c34ba947c0025cc6796d534e16ff64be029e68ab140faa4af
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c62a4282f7a43ba3d7ba35daf81530f8b246be32
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120079354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058041"
 ---
 # <a name="coareftimeoperator-method"></a>Коарефтиме. operator, \* метод
 
@@ -53,7 +53,7 @@ COARefTime operator*(
 
 Возвращает новый объект **коарефтиме** , равный продукту этого объекта и **l**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -64,7 +64,7 @@ COARefTime operator*(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

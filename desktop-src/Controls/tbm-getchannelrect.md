@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: af2c9932782a150635365c1cdcb74b624f6863b27180136bc9483e8d0de3ba1f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 02982e9ce417b9fcf3e16d0e14d061e3ffd97a8a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119078108"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166528"
 ---
 # <a name="tbm_getchannelrect-message"></a>\_Сообщение ТБМ жетчаннелрект
 
@@ -43,7 +43,7 @@ ms.locfileid: "119078108"
 
 Нет возвращаемого значения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

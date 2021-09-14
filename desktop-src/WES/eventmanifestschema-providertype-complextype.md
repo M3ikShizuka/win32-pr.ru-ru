@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: e48edd19d6ff9a547ce1698f81c89f780ffaa48f6312a656ef18664b39e78410
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c258b3ff48cdd2f00f632fdce770b58182a531c7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119511274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242743"
 ---
 # <a name="providertype-complex-type"></a>Сложный тип ProviderType
 
@@ -135,12 +135,12 @@ ms.locfileid: "119511274"
 | [**каналов**](eventmanifestschema-channels-providertype-element.md)         | [**чаннеллисттипе**](eventmanifestschema-channellisttype-complextype.md)   | Определяет список каналов, к которым поставщики могут регистрировать события.<br/>                                                                                                                                                                                      |
 | [**событиях**](eventmanifestschema-events-providertype-element.md)             | [**дефинитионтипе**](eventmanifestschema-definitiontype-complextype.md)     | Определяет список определений событий событий, которые поставщик может заносить в журнал.<br/>                                                                                                                                                                       |
 | **фильтрующ**                                                                   | [**филтерлисттипе**](eventmanifestschema-filterlisttype-complextype.md)     | Определяет список фильтров, поддерживаемых поставщиком. Можно использовать фильтры, как и ключевые слова, чтобы определить, нужно ли создавать событие. <br/> **Windows Server 2008 и Windows Vista:** не поддерживается до Windows 7.<br/> |
-| [**keywords**](eventmanifestschema-keywords-providertype-element.md)         | [**кэйвордлисттипе**](eventmanifestschema-keywordlisttype-complextype.md)   | Определяет список ключевых слов, которые классифицируют события.<br/>                                                                                                                                                                                                 |
+| [**словами**](eventmanifestschema-keywords-providertype-element.md)         | [**кэйвордлисттипе**](eventmanifestschema-keywordlisttype-complextype.md)   | Определяет список ключевых слов, которые классифицируют события.<br/>                                                                                                                                                                                                 |
 | [**Выравнивание**](eventmanifestschema-levels-providertype-element.md)             | [**левеллисттипе**](eventmanifestschema-levellisttype-complextype.md)       | Определяет список уровней, указывающих серьезность события.<br/>                                                                                                                                                                                    |
 | [**указания**](eventmanifestschema-maps-providertype-element.md)                 | [**MapType**](eventmanifestschema-maptype-complextype.md)                   | Определяет список пар "имя-значение", на которые можно ссылаться в разделе шаблона манифеста.<br/>                                                                                                                                                 |
 | [**намедкуериес**](eventmanifestschema-namedqueries-providertype-element.md) | [**намедкуеритипе**](eventmanifestschema-namedquerytype-complextype.md)     | Не используется. Определяет список именованных запросов, которые запрашивают строку сообщения о событии для значения и выполняют указанное действие, если оно найдено.<br/>                                                                                                                 |
 | [**коды операций**](eventmanifestschema-opcodes-providertype-element.md)           | [**опкоделисттипе**](eventmanifestschema-opcodelisttype-complextype.md)     | Определяет список кодов операций, которые можно использовать для группирования событий в задаче.<br/>                                                                                                                                                                          |
-| [**задачи**](eventmanifestschema-tasks-providertype-element.md)               | [**тасклисттипе**](eventmanifestschema-tasklisttype-complextype.md)         | Определяет список задач, которые поставщик может использовать для группирования событий. Как правило, задачи используются для группирования событий для компонента или компонента поставщика.<br/>                                                                                              |
+| [**операции**](eventmanifestschema-tasks-providertype-element.md)               | [**тасклисттипе**](eventmanifestschema-tasklisttype-complextype.md)         | Определяет список задач, которые поставщик может использовать для группирования событий. Как правило, задачи используются для группирования событий для компонента или компонента поставщика.<br/>                                                                                              |
 | [**см**](eventmanifestschema-templates-providertype-element.md)       | [**темплателисттипе**](eventmanifestschema-templatelisttype-complextype.md) | Определяет список шаблонов, указывающих данные, включаемые в события.<br/>                                                                                                                                                                      |
 
 
@@ -172,7 +172,7 @@ Windows Просмотр событий (Eventvwr.exe) будет использ
 
 Строка сообщения события может содержать строки вставки и строки параметров. Строка вставки имеет форму%*n*, где *n* — это Отсчитываемый от единицы индекс, определяющий элемент данных из шаблона данных события, который необходимо вставить в сообщение. Строка параметра (см. атрибут **параметерфиленаме** ) имеет вид%%*n*, где n — это идентификатор сообщения в таблице сообщений. Если строка сообщения события содержит "%1% %11 = %2% %12", а значения элементов данных для %1 и %2 — 8 и 2, соответственно, а строки параметров для% %11 и %12 были "кварты" и "галлоны" соответственно, отформатированная строка будет иметь значение "8 кварт = 2 галлоны".
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

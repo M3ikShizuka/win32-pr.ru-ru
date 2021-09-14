@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: a0d84c982fe3a3e7834210741f5bd20cc52615197756653c743f5cd67d0b59dc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 59d1d16a21996937357d0358625772a4b6712019
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118084933"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058277"
 ---
 # <a name="apijetsetcolumns-method"></a>API. Жетсетколумнс, метод
 
@@ -103,7 +103,7 @@ public static JET_wrn JetSetColumns(
 Тип: [Microsoft.ISAM.ESENT.Interop.JET_wrn](./jet-wrn-enumeration.md)  
 Предупреждение. Если последний набор столбцов содержит предупреждение, это предупреждение будет возвращаться из самого Жетсетколумнс.  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

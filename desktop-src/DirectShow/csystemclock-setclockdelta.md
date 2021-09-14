@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: c98ccf35e41886594a3aab8c3abec6737128d8d7e22f6dfb75d0ac88ac3b7a02
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cc1027081cc8713cffd2979e20627c037d0799f9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119538664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057967"
 ---
 # <a name="csystemclocksetclockdelta-method"></a>Ксистемклокк. Сетклоккделта, метод
 
@@ -59,7 +59,7 @@ HRESULT SetClockDelta(
 
 Значения времени, возвращаемые функцией [**иреференцеклокк:: OnTime**](/windows/desktop/api/Strmif/nf-strmif-ireferenceclock-gettime) , монотонно увеличиваются. Если вы установили часы обратно, **время** будет продолжать сообщать о старом времени до тех пор, пока внутренняя синхронизация не завершится.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

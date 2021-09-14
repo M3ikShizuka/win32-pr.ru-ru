@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: fa9e60b93b8c2f3db0166e840eb07aa3fb46ffec681854406ff001ee46fe2f94
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: baa514e1f5558152b6f6314e6ef9f6c70207f85b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119041912"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066063"
 ---
 # <a name="esentcolumndoesnotfitexception-constructor"></a>Конструктор Есентколумндоеснотфитексцептион
 
@@ -52,7 +52,7 @@ Dim instance As New EsentColumnDoesNotFitException()
 public EsentColumnDoesNotFitException()
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

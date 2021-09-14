@@ -4,12 +4,12 @@ description: Определяет свойство UI \_ PKEY \_ ларжехи�
 ms.assetid: a703f75a-5eb0-4075-a388-d0ab7398d424
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3dbf320a5d6c650beb95cd0562c0bbee17d43422ae818c39c0be0e0e8d2495b7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 62070aa3a7e395917426be66073f91c7ac7ca072
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117850244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267243"
 ---
 # <a name="ui_pkey_largehighcontrastimage"></a>UI \_ PKEY \_ ларжехигхконтрастимаже
 

@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: decd5892d480e4f236ae9d7acdc1a25c018557166535c963eb35dc3f6f62ffa1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5bf08057ec075448d9912e37c33b6087c381f97d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118675573"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065801"
 ---
 # <a name="setpriority-method-of-the-win32_process-class"></a>Метод SetPriority \_ класса процесса Win32
 

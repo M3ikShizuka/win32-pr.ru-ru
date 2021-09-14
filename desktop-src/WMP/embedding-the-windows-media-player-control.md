@@ -13,12 +13,12 @@ keywords:
 - внедрение, о программе
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f1b74a5bd0b682be116d888a88620b7fd309daddc5614f0bcf5941ea0bb2347f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4c42191069676e6fce0f2bdff119fe83667e4292
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118578516"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241990"
 ---
 # <a name="embedding-the-windows-media-player-control"></a>внедрение элемента управления проигрыватель Windows Media
 

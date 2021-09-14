@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 6f51ed86569d29488f93a661999821c3f27bd5f17ed9ba2e552a2604f804c305
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7fadad95e8e72691a0e030ed89eedc745de2be43
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118987224"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342283"
 ---
 # <a name="id3dxmatrixstacktranslate-method-d3dx9mathh"></a>Метод ID3DXMATRIXStack:: сдвиг (D3dx9math. h)
 

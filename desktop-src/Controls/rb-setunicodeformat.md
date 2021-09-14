@@ -3,7 +3,7 @@ title: Сообщение RB_SETUNICODEFORMAT (Коммктрл. h)
 description: RB_SETUNICODEFORMAT сообщение — задает флаг формата символов Юникода для элемента управления. Это сообщение позволяет изменить кодировку, используемую элементом управления во время выполнения, вместо того, чтобы повторно создавать элемент управления.
 ms.assetid: 769b74e0-c1f0-4068-80c4-075f1db2058a
 keywords:
-- Элементы управления Windows для RB_SETUNICODEFORMAT сообщений
+- элементы управления Windows сообщений RB_SETUNICODEFORMAT
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: ce9c168ee298d28d59010491031f7d94ebcaa650
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108090972"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167256"
 ---
 # <a name="rb_setunicodeformat-message"></a>\_Сообщение СЕТУНИКОДЕФОРМАТ RB
 
@@ -53,13 +53,13 @@ ms.locfileid: "108090972"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: decbc92a-af56-4a3f-9e2f-c66f6cdd8880
 title: Свойство "Сводка последнего вывода"
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fc9079db9ce4f7d30f8f2bfb82513e442d7e27840a614232b52da3c73588844b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8060909a53bf56615f9df95b6ba573820755ae15
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117805595"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065446"
 ---
 # <a name="last-printed-summary-property"></a>Свойство "Сводка последнего вывода"
 
@@ -19,7 +19,7 @@ ms.locfileid: "117805595"
 
 В пакете исправлений это свойство должно иметь значение null.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -29,7 +29,7 @@ ms.locfileid: "117805595"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

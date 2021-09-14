@@ -14,11 +14,11 @@ topic_type:
 - APIRef
 - kbSyntax
 ms.openlocfilehash: f766ee74463dd820c0b55d501d5002a3378a97b7
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104265311"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267768"
 ---
 # <a name="sfvm_getnotify-message"></a>\_Сообщение сфвм
 
@@ -64,7 +64,7 @@ SFVM_GETNOTIFY
 
 Пропускается, но должно возвращать S \_ ОК.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Если это сообщение обратного вызова не возвращает ненулевое значение для IDList или маски событий, представление не будет зарегистрировано для уведомлений об изменениях.
 

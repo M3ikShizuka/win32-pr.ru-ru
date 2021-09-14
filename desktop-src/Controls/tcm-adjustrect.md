@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ba09a88f12a25b87f507d70961a816412f2679da0fb9e1cb6ed6c760ecca320e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c9c1612a4f6c2fc436f858807fca59112c376a35
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120105014"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166292"
 ---
 # <a name="tcm_adjustrect-message"></a>\_Сообщение АДЖУСТРЕКТ TCM
 
@@ -51,7 +51,7 @@ ms.locfileid: "120105014"
 
 Это сообщение относится только к элементам управления "Вкладка", расположенным вверху. Он не применяется к элементам управления "Вкладка", находящиеся на сторонах или внизу.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

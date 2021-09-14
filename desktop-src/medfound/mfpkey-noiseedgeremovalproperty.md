@@ -4,12 +4,12 @@ ms.assetid: fdb4f3a8-1447-4e1e-a208-0f9b717f7626
 title: Свойство MFPKEY_NOISEEDGEREMOVAL (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 128ab89cd12c31186cf99e0c01454986bfe950a3d0a68b6196db6df205dea02a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 30acd92bae7693d0714e42d6b4f832a521557bf2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118242561"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268891"
 ---
 # <a name="mfpkey_noiseedgeremoval-property"></a>МФПКЭЙ \_ ноисиджеремовал, свойство
 
@@ -41,11 +41,11 @@ FALSE
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
-| Header<br/>                   | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также статью
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

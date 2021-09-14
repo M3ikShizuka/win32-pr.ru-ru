@@ -1,19 +1,19 @@
 ---
-description: Первым шагом при использовании служб получения изображений Windows (WIA) является получение указателя на интерфейс Ивиадевмгр (при программировании для Windows XP или более ранней версии) или указателя на интерфейс IWiaDevMgr2 (при программировании для Windows Vista или более поздней версии).
+description: первым шагом в использовании служб Windowsного получения изображений (WIA) является получение указателя на интерфейс ивиадевмгр (при программировании для Windows XP или более ранней версии) или указателя на интерфейс IWiaDevMgr2 (при программировании для Windows Vista или более поздней версии).
 ms.assetid: 8f20c64a-db79-4c3c-a544-685ed82143bb
 title: Создание диспетчер устройств WIA
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 35e315939566eea6fe8a4acabeb5fd8afe247c30
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105693083"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345514"
 ---
 # <a name="creating-a-wia-device-manager"></a>Создание диспетчер устройств WIA
 
-Первым шагом при использовании служб получения изображений Windows (WIA) является получение указателя на интерфейс [**ивиадевмгр**](/windows/desktop/api/wia_xp/nn-wia_xp-iwiadevmgr) (при программировании для Windows XP или более ранней версии) или указателя на интерфейс [**IWiaDevMgr2**](-wia-iwiadevmgr2.md) (при программировании для Windows Vista или более поздней версии). Для этого вызовите [CoCreateInstance](/windows/win32/api/combaseapi/nf-combaseapi-cocreateinstance) с соответствующими параметрами. Пример приложения Виассамп создает диспетчер устройств в глобальной функции, реализованной с помощью следующего кода:
+первым шагом в использовании служб Windowsного получения изображений (WIA) является получение указателя на интерфейс [**ивиадевмгр**](/windows/desktop/api/wia_xp/nn-wia_xp-iwiadevmgr) (при программировании для Windows XP или более ранней версии) или указателя на интерфейс [**IWiaDevMgr2**](-wia-iwiadevmgr2.md) (при программировании для Windows Vista или более поздней версии). Для этого вызовите [CoCreateInstance](/windows/win32/api/combaseapi/nf-combaseapi-cocreateinstance) с соответствующими параметрами. Пример приложения Виассамп создает диспетчер устройств в глобальной функции, реализованной с помощью следующего кода:
 
 
 ```

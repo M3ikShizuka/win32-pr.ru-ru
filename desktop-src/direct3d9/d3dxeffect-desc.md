@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3dx9effect.h
-ms.openlocfilehash: 0b30ad0348a5c799690d668e036724d30808c2998eee9d762fa2ad3fc8106c91
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c8e7a3a2adf19514e2e4d1c6f61dbea888ce033d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118298597"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066285"
 ---
 # <a name="d3dxeffect_desc-structure"></a>\_Структура D3DXEFFECT DESC
 
@@ -38,7 +38,7 @@ typedef struct D3DXEFFECT_DESC {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 

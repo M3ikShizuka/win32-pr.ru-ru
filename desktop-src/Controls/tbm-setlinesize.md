@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bb340b69f8e7ebba1da1ade7869308b2caacc29f37125c9ab5075a6401e89bc6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ec898ed09b20f15023ef04a399f5644df746e495
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120046154"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166463"
 ---
 # <a name="tbm_setlinesize-message"></a>\_Сообщение ТБМ сетлинесизе
 
@@ -49,7 +49,7 @@ ms.locfileid: "120046154"
 
 Эта линейка также отправляет сообщение [**WM \_ HSCROLL**](wm-hscroll.md) или [**WM \_ VSCROLL**](wm-vscroll.md) с \_ кодами уведомлений ТБ и ТБ \_ линедовн в родительское окно, когда пользователь нажимает клавиши со стрелками.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ ms.locfileid: "120046154"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
