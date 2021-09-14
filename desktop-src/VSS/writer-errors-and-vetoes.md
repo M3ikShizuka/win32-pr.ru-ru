@@ -4,12 +4,12 @@ ms.assetid: 50eced73-3917-4d7e-96cc-2d793b448738
 title: Ошибки и запреты модуля записи
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0835775aec21da9aa69e81b4f7af63f98d765b5c72763cb52af706c4e7a720e6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7c24c15ad10766fc6ec395ed058ab3cb72a689d9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120124464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242020"
 ---
 # <a name="writer-errors-and-vetoes"></a>Ошибки и запреты модуля записи
 

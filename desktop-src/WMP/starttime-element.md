@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 9138b05b949098c59996c69143059de5cb5b25cafcd8da7d922de120d586b356
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8a882da6c07ec76a94c8e214fe1da11c71680b0c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118568796"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241732"
 ---
 # <a name="starttime-element"></a>STARTTIME, элемент
 
@@ -43,7 +43,7 @@ ms.locfileid: "118568796"
 | Иерархия       | Элементы           |
 |-----------------|--------------------|
 | Родительские элементы | **entry**, **ref** |
-| Дочерние элементы  | Нет               |
+| Дочерние элементы  | None               |
 
 
 

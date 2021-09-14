@@ -4,16 +4,16 @@ description: Справочник по меню
 ms.assetid: 4b613ab7-ea82-43d0-9f63-6c8e78055400
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: de53f082c64d54ca9cca1aa51e7b36d3107373f42be209f89945c319f361ac8c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 27c8bfff26b7eae0b8fc63e6fb3ce15e1ba519e3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118734250"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268515"
 ---
 # <a name="menu-reference"></a>Справочник по меню
 
-## <a name="in-this-section"></a>В этом разделе
+## <a name="in-this-section"></a>в этом разделе
 
 -   [Функции меню](menu-functions.md)
 -   [Уведомления меню](menu-notifications.md)

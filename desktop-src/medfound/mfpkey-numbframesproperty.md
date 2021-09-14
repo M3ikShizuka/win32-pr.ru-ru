@@ -4,12 +4,12 @@ ms.assetid: 8bd95baa-c130-4616-8ab7-7d902162e4ed
 title: Свойство MFPKEY_NUMBFRAMES (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: dfcf103da1d629c90209aef4badd604651d73af3e9101cac0f613b47c82883e3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: dc3b0655a4a5e24b92f9699b198f10232de8edf8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119555423"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268888"
 ---
 # <a name="mfpkey_numbframes-property"></a>МФПКЭЙ \_ нумбфрамес, свойство
 
@@ -39,7 +39,7 @@ VT-I4
 
 Допустимый диапазон значений для этого свойства — от 0 до 7.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -51,7 +51,7 @@ VT-I4
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

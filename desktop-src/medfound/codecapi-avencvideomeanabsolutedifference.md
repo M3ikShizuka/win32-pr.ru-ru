@@ -4,12 +4,12 @@ ms.assetid: 61C0F431-FBF5-4B17-8F3A-0F6AD2BA33B7
 title: Свойство CODECAPI_AVEncVideoMeanAbsoluteDifference (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8eb0d2e515187961b020ef4896f4e6669d378dbed2ca4ddb487cf271db684591
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f58a7bc0da9fce88c0b8137d800d527d4717801c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118064755"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269256"
 ---
 # <a name="codecapi_avencvideomeanabsolutedifference-property"></a>КОДЕКАПИ \_ авенквидеомеанабсолутедифференце, свойство
 
@@ -43,7 +43,7 @@ ms.locfileid: "118064755"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

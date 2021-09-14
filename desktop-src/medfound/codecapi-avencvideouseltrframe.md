@@ -5,11 +5,11 @@ title: Свойство CODECAPI_AVEncVideoUseLTRFrame (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 5c438a4e6e2656c5e952062d9e3c1c0000899f2c
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122473160"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269200"
 ---
 # <a name="codecapi_avencvideouseltrframe-property"></a>КОДЕКАПИ \_ авенквидеауселтрфраме, свойство
 
@@ -40,7 +40,7 @@ ms.locfileid: "122473160"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 **Кодировщики H. 264/AVC:**
 
@@ -62,7 +62,7 @@ ms.locfileid: "122473160"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

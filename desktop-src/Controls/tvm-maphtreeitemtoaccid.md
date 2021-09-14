@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2c957f67841d71cfbc3d0737e82774fc0fba4798af7f48a88e018b05ef845704
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ad6267c2040583917283fc444db74ddacbdabd69
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119816304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165676"
 ---
 # <a name="tvm_maphtreeitemtoaccid-message"></a>\_Сообщение TVM мафтриитемтоакЦид
 
@@ -48,7 +48,7 @@ ms.locfileid: "119816304"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -60,7 +60,7 @@ ms.locfileid: "119816304"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

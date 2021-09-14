@@ -4,12 +4,12 @@ ms.assetid: f82d92dc-fbce-4274-a10f-72fa8dd776cc
 title: Идентификаторы классов для средства синтаксического анализа оглавлений (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 12c340ec32b8de4ce42619d57f6e44da9d77d0eead4940dc94d90baec4d349ab
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e5108855c687085e77ce36aa14b3424732e25572
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119664694"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269360"
 ---
 # <a name="class-identifiers-for-table-of-contents-parser"></a>Идентификаторы классов для средства синтаксического анализа оглавления
 
@@ -73,7 +73,7 @@ __uuidof(CTocGeneratorDmo)
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -86,7 +86,7 @@ __uuidof(CTocGeneratorDmo)
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 40566ff8-0a83-4834-8c27-2794ef5fc0c0
 title: System. Contact. Примаряддресскаунтри
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e419ac526e6b969e22eca44ee875bad7d09528ba02bcc2c3230ca6e4ba94047c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 31adf66f6ef81ddc3001ab27077eba836bc36f9a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119717513"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268155"
 ---
 # <a name="systemcontactprimaryaddresscountry"></a>System. Contact. Примаряддресскаунтри
 

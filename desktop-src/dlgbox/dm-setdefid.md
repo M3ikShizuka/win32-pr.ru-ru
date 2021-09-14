@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 92749cc7eca569b57d239a36bb6559e59a6a7ebc31c63787a93d0720b334d1ea
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 73ceda9ac9e8fd399604e9c55431b8fcd74646f1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119741754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241366"
 ---
 # <a name="dm_setdefid-message"></a>\_Сообщение СЕТДЕФИД DM
 
@@ -89,7 +89,7 @@ ms.locfileid: "119741754"
 [**WM \_ жетдлгкоде**](wm-getdlgcode.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Диалоговые окна](dialog-boxes.md)

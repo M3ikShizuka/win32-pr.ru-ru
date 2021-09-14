@@ -4,12 +4,12 @@ ms.assetid: 7b2b809e-aae4-401c-816a-626fb88f5f87
 title: Атрибут MF_MT_VIDEO_NOMINAL_RANGE (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7b294ea3c63f845b51c9636f78ee78f04135e17929ae6e64d92ab85720f3c7e0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4539b06281655e079d9ff6ca4000e0ed75462b9b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117876724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269128"
 ---
 # <a name="mf_mt_video_nominal_range-attribute"></a>\_ \_ \_ Атрибут диапазона номинального видео MF MT \_
 
@@ -33,7 +33,7 @@ ms.locfileid: "117876724"
 
 H. 264/AVC-кодировщик должен отклонить тип выходного \_ носителя \_ \_ , если Номинальный диапазон для видео MF MT \_ имеет значение **мфноминалранже \_ 48 \_ 208**, **мфноминалранже \_ 64 \_ 127** или любые другие значения, не определенные в [**мфноминалранже**](/windows/desktop/api/mfobjects/ne-mfobjects-mfnominalrange).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -45,7 +45,7 @@ H. 264/AVC-кодировщик должен отклонить тип выхо�
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 2de870526b694b847beb3913f92d2d784810ee6d
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104341085"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242086"
 ---
 # <a name="ui_animation_repeat_indefinitely"></a>\_ \_ время бездействия анимации пользовательского интерфейса \_
 
@@ -39,7 +39,7 @@ ms.locfileid: "104341085"
 |-------------------------------------|-------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 7, Windows Vista и обновление платформы \[ только для настольных приложений Windows Vista\]<br/> |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                       |
-| Header<br/>                   | <dl> <dt>Уианиматион. h</dt> </dl>        |
+| Заголовок<br/>                   | <dl> <dt>Уианиматион. h</dt> </dl>        |
 | IDL<br/>                      | <dl> <dt>Уианиматион. idl</dt> </dl>      |
 
 

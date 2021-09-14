@@ -12,11 +12,11 @@ api_type:
 - NA
 api_location: ''
 ms.openlocfilehash: 13280fd5da109012ac90ff55a778f8f5cd6a5b95
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122627731"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241612"
 ---
 # <a name="operator--operators"></a>operator \* = операторы
 
@@ -34,7 +34,7 @@ ms.locfileid: "122627731"
 <thead>
 <tr class="header">
 <th >Оператор</th>
-<th >Описание:</th>
+<th >Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -61,7 +61,7 @@ ms.locfileid: "122627731"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

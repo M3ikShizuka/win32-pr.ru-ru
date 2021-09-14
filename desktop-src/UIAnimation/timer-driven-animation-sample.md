@@ -4,12 +4,12 @@ description: показывает, как использовать анимац�
 ms.assetid: c50a4bfb-855b-4837-a117-84f412943b14
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c8071d51906ba2d0d7b59acb7b1b5531fcb5c577fbbf0d47ab5039d3f43e2eab
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ec145b087a112c7482de3a749c690a1824195ea3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120008164"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242125"
 ---
 # <a name="timer-driven-animation-sample"></a>Пример анимации Timer-Driven
 
@@ -57,7 +57,7 @@ ms.locfileid: "120008164"
 
 ## <a name="running-the-sample"></a>Запуск примера
 
-Для выполнения образца:
+Запуск примера:
 
 1.  перейдите в каталог, содержащий новый исполняемый файл, используя командную строку или проводник Windows.
 

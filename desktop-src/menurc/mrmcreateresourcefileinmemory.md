@@ -14,16 +14,16 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ff34ddaab25f47f537c1270ad3a70719a43e2e1efa978fbad19cbe9ae77ba937
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 17bbe36a55b5be18f9f4005b4e0ae24d3d610bd5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119886754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268483"
 ---
 # <a name="mrmcreateresourcefileinmemory-function"></a>Функция Мрмкреатересаурцефилеинмемори
 
-\[Некоторые сведения относятся к предварительно выпущенному продукту, который может быть значительно изменен перед коммерческой выпуском. Корпорация Майкрософт не предоставляет никаких гарантий, явных или подразумеваемых, относительно предоставленной здесь информации.\]
+\[Некоторые сведения относятся к предварительно выпущенному продукту, который может быть значительно изменен перед коммерческой выпуском. Майкрософт не предоставляет никаких гарантий, явных или подразумеваемых, относительно приведенных здесь сведений.\]
 
 Создает сведения PRI в виде большого двоичного объекта в памяти, а не в виде файла на диске. Функция выделяет память и возвращает указатель на эту память в *аутпутпридата*. Вызовите [**мрмфримемори**](mrmfreememory.md) с тем же указателем, чтобы освободить эту память. Дополнительные сведения и пошаговые руководства по использованию этих API см. в разделе [пакетные API индексирования ресурсов (PRI) и пользовательские системы сборки](/windows/uwp/app-resources/pri-apis-custom-build-systems).
 
@@ -101,7 +101,7 @@ HRESULT HRESULT MrmCreateResourceFileInMemory(
 
 Если вы передадите *аутпутпридата* в [**мрмкреатересаурцеиндексерфромпревиауспридата**](mrmcreateresourceindexerfrompreviouspridata-.md), не освобождайте память до тех пор, пока не завершите использование индексатора ресурсов.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -115,7 +115,7 @@ HRESULT HRESULT MrmCreateResourceFileInMemory(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

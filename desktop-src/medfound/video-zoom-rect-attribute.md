@@ -4,12 +4,12 @@ ms.assetid: 4364ff87-816e-4b64-b5e9-c53dd6c9bb33
 title: Атрибут VIDEO_ZOOM_RECT (Евр. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c2e6ce19c808545d400f53b9c0091cdbcc20c8efbc13372ae5386e419d244143
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dda4efca5beab844baf3b3f53074d6b3012e8621
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118737149"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268603"
 ---
 # <a name="video_zoom_rect-attribute"></a>\_ \_ Атрибут Rect масштаба видео
 
@@ -61,7 +61,7 @@ HRESULT SetMixerSourceRect(IMFTransform *pMixer, const MFVideoNormalizedRect& nr
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -69,7 +69,7 @@ HRESULT SetMixerSourceRect(IMFTransform *pMixer, const MFVideoNormalizedRect& nr
 |-------------------------------------|----------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                   |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                             |
-| Header<br/>                   | <dl> <dt>Евр. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Евр. h</dt> </dl> |
 
 
 

@@ -4,12 +4,12 @@ description: Ттсмодеид, свойство
 ms.assetid: 9205c37e-e006-466a-9b33-b98408c01ed7
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d1a720b06362b77418434669146a0d89dea8afd37d7a44c4079b2e12c24fcd2e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c6852f203f5df716df6cfc5962f9cfa911d8fc1a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119607964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241219"
 ---
 # <a name="ttsmodeid-property"></a>Ттсмодеид, свойство
 

@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 185d1ee79d7001be49116ba9d980552eca57f082e68e650dc66f4f3aa0dbdb97
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 34880ec0a59f6456a969755da9f0b5f81b3db2c4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119861163"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242380"
 ---
 # <a name="iwmpmetadatapicturepicturetype-property"></a>Ивмпметадатапиктуре: свойство Иктуретипе:p
 
@@ -52,7 +52,7 @@ Public ReadOnly Property pictureType As System.String
 
 Перед использованием этого свойства необходимо иметь доступ на чтение к библиотеке. Дополнительные сведения см. в разделе [доступ к библиотеке](library-access.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -64,7 +64,7 @@ Public ReadOnly Property pictureType As System.String
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

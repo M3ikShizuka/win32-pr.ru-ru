@@ -4,12 +4,12 @@ ms.assetid: 7EB33215-8F8B-4EA4-87E6-A98F0D014548
 title: новые возможности семейной безопасности Windows 8
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e67714618f691a61490900c8d7d35bf3cc462d8f7c86cdeccb9120aa3c519554
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2123ec7f0d9c3af66528c6c203a3e8ea64bd0384
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119951684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268443"
 ---
 # <a name="whats-new-in-windows-8-family-safety"></a>новые возможности Windows 8 семейной безопасности
 

@@ -4,12 +4,12 @@ ms.assetid: 9e9259a2-6fb7-4a24-8d14-841f2cc8c3ef
 title: Атрибут MF_SD_ASF_EXTSTRMPROP_AVG_BUFFERSIZE (Вмконтаинер. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3c7a01aa579e1e271d8d6c3297b76ceec653690ecb67b88f7dc8d314e085f111
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 07c3fc186c2c07ccff1993f1db07d89150a98541
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119955204"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269091"
 ---
 # <a name="mf_sd_asf_extstrmprop_avg_buffersize-attribute"></a>% MF \_ SD \_ ASF екстстрмпроп, \_ \_ \_ атрибут AVG BUFFERSIZE
 

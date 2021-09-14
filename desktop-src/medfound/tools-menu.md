@@ -5,11 +5,11 @@ title: Меню «Сервис»
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 71397ed72536157a66fa9f46ff76de2a2178e6c6
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122482240"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268744"
 ---
 # <a name="tools-menu"></a>Меню «Сервис»
 

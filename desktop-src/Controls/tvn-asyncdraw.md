@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5e4d929977e1a14a5ada96232fa054c2689d27f1eaa026b64c974d51f5a2c38c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 25a8b04db2e4efbd78d6176214ecd9088f1bc30c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120060104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165588"
 ---
 # <a name="tvn_asyncdraw-notification-code"></a>\_Код уведомления ТВН асинкдрав
 
@@ -81,7 +81,7 @@ case TVN_ASYNCDRAW:
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

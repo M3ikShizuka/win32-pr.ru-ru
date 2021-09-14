@@ -3,7 +3,7 @@ title: Цвет состояния
 description: Цвет состояния
 ms.assetid: de734590-f535-4e69-bc37-9e8c60fa69a6
 keywords:
-- Обложки мобильных устройств проигрывателя Windows Media, отображение состояния
+- проигрыватель Windows Media Обложки для мобильных устройств, отображение состояния
 - обложки, отображение состояния
 - Справочник по обложкам, отображению состояния
 - Отображение состояния в обложках, цветах
@@ -11,26 +11,26 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: ec9519cbfc50280cde8065c4474b64df1fc179ba
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104067538"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241717"
 ---
 # <a name="status-color"></a>Цвет состояния
 
 Необходимо указать значение цвета для отображаемого текста состояния. Значение должно быть трех положительных целых чисел, разделенных запятыми. Значения представляют собой значение красного, зеленого и синего цвета текста, а также диапазон от 0 до 255.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [**Состояние**](status.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

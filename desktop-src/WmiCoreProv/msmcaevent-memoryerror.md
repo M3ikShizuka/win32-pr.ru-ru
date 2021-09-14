@@ -39,12 +39,12 @@ api_type:
 - DllExport
 api_location:
 - Wmiprov.dll
-ms.openlocfilehash: f93ac9ddda978a56ceb0e258766c2e60703acc94e92c551e673a9294e2cb984c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8dce82b8fa7a87676c34a9c6f26f43e4db10e227
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120120984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241675"
 ---
 # <a name="msmcaevent_memoryerror-class"></a>\_Класс мсмкаевент мемореррор
 
@@ -86,7 +86,7 @@ class MSMCAEvent_MemoryError : WMIEvent
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **мсмкаевент \_ мемореррор** имеет следующие типы членов:
 
@@ -167,7 +167,7 @@ class MSMCAEvent_MemoryError : WMIEvent
 
 | Значение                                                                                                | Значение                |
 |------------------------------------------------------------------------------------------------------|------------------------|
-| <span id="0"></span><dl> <dt>**0**</dt> </dl> | Восстанавливается<br/> |
+| <span id="0"></span><dl> <dt>**0,0**</dt> </dl> | Восстанавливается<br/> |
 | <span id="1"></span><dl> <dt>**1**</dt> </dl> | Аварий<br/>       |
 | <span id="2"></span><dl> <dt>**2**</dt> </dl> | Исправимая<br/> |
 
@@ -511,14 +511,14 @@ class MSMCAEvent_MemoryError : WMIEvent
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP<br/>                                                                  |
-| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                         |
+| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                         |
 | Пространство имен<br/>                | Корневой \\ инструментарий WMI<br/>                                                                   |
 | MOF<br/>                      | <dl> <dt>Вмикоре. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wmiprov.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

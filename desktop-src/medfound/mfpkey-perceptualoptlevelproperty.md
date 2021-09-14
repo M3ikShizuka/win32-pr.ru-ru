@@ -4,12 +4,12 @@ ms.assetid: f44fd932-d8f8-46c7-b17c-27e6141408ab
 title: Свойство MFPKEY_PERCEPTUALOPTLEVEL (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8f9eb74ae025dbddbdea7f76c2af8b15e912cf80ebd06e810a5214bf9798d1bd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d86857ca9d7e4205afc0baf9c212e92606511ffc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119953854"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268840"
 ---
 # <a name="mfpkey_perceptualoptlevel-property"></a>МФПКЭЙ \_ перцептуалоптлевел, свойство
 
@@ -35,7 +35,7 @@ VT \_ I4
 
 Результаты оптимизации будут зависеть от типа закодированного видео. Эта функция может быть хорошо подходит для кодирования с низкими и низким уровнем разрешений (например, веб-потоковой передачи), но ее, возможно, следует избегать, когда надежде для архивирования качества видео.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -47,7 +47,7 @@ VT \_ I4
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

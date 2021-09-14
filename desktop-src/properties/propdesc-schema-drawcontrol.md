@@ -5,11 +5,11 @@ title: дравконтрол
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 58a330854f19005f7f2863c337451b1dcc56cea3
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122632052"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268275"
 ---
 # <a name="drawcontrol"></a>дравконтрол
 
@@ -53,7 +53,7 @@ ms.locfileid: "122632052"
 
 | Родительский элемент                                   | Дочерние элементы |
 |--------------------------------------------------|----------------|
-| [displayInfo](./propdesc-schema-displayinfo.md) | None           |
+| [displayInfo](./propdesc-schema-displayinfo.md) | Нет           |
 
 
 
@@ -71,7 +71,7 @@ ms.locfileid: "122632052"
 <thead>
 <tr class="header">
 <th>Атрибут</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>

@@ -15,12 +15,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6a537efcd9b39f993705244020e579b9d667164180fd5cd70ab05fc692bed8fa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: db911cc6d18ba40777e77a803480c7fcab4ff8ad
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118996474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241750"
 ---
 # <a name="iwmpsettings-vb-and-c-interface"></a>Интерфейс Ивмпсеттингс (VB и C#)
 
@@ -50,13 +50,13 @@ ms.locfileid: "118996474"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Интерфейс **ивмпсеттингс (VB и C#)** имеет следующие свойства.
 
 
 
-| Свойство                                                                                              | Тип доступа           | Описание                                                                                                                                  |
+| Свойство.                                                                                              | Тип доступа           | Описание                                                                                                                                  |
 |:------------------------------------------------------------------------------------------------------|:----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|
 | [**Автозапуска**](wmplibiwmpsettings-iwmpsettings-autostart--vb-and-c.md)<br/>                   | Чтение/запись<br/> | Возвращает или задает значение, указывающее, начинается ли воспроизведение текущего элемента мультимедиа автоматически. <br/>                                     |
 | [**между**](wmplibiwmpsettings-iwmpsettings-balance--vb-and-c.md)<br/>                       | Чтение/запись<br/> | Возвращает или задает текущее значение стерео баланса.<br/>                                                                                          |

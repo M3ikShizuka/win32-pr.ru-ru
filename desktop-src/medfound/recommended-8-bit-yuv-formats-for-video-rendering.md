@@ -4,12 +4,12 @@ ms.assetid: 675d4c60-4c58-4f15-9bae-ffb0c389c608
 title: Рекомендуемые 8-разрядные форматы YUV для отрисовки видео
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cc6e30f33c59bedf9a2e842d2d33328bd97d8078d21bda90ae84af9af00ec113
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4505eb17f833040e0148ac98912f16af860b55b7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119722132"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268760"
 ---
 # <a name="recommended-8-bit-yuv-formats-for-video-rendering"></a>Рекомендуемые 8-разрядные форматы YUV для отрисовки видео
 
@@ -227,7 +227,7 @@ U = clip3(0, (2^M)-1, floor(2^(M-8) * (112*(B-L) / ((1-Kb)*S) + 128) + 0.5))
 V = clip3(0, (2^M)-1, floor(2^(M-8) * (112*(R-L) / ((1-Kr)*S) + 128) + 0.5))
 ```
 
-where
+где
 
 -   M — это число битов на каждый пример YUV (M >= 8).
 -   Z — это переменная Черного уровня. Для компьютера RGB Z равно 0. Для Video видео RGB Z равно 16 \* 2 ^ (N-8), где N — это число битов на пример RGB (n >= 8).
@@ -378,7 +378,7 @@ DWORD fccYUY2 = MAKEFOURCC('Y','U','Y','2');
 DWORD fccYUY2 = FCC('YUY2');
 ```
 
-Кроме того, можно объявить код FOURCC непосредственно в виде строкового литерала, просто отменив порядок символов. Например:
+Кроме того, можно объявить код FOURCC непосредственно в виде строкового литерала, просто отменив порядок символов. Пример:
 
 ``` syntax
 DWORD fccYUY2 = '2YUY';  // Declares the FOURCC 'YUY2'

@@ -4,12 +4,12 @@ ms.assetid: 395a356a-5f58-46b4-b2ff-47f98106f487
 title: Свойство MFPKEY_LOOPFILTER (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: dd157f6f473a40107d4a9a0958407795762df555946f08c030cc4f9ce4f36417
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1fbb723c4145f9769cc157d5db8eb7893d89b389
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117689905"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268984"
 ---
 # <a name="mfpkey_loopfilter-property"></a>МФПКЭЙ \_ лупфилтер, свойство
 
@@ -43,7 +43,7 @@ g \_ всзвмвклупфилтер
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

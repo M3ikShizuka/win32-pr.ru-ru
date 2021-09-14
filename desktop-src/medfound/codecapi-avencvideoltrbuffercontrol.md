@@ -5,11 +5,11 @@ title: Свойство CODECAPI_AVEncVideoLTRBufferControl (Кодекапи. h
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 8cca2e24e8295969609ba325a2abf24be76fb07c
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122481930"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269272"
 ---
 # <a name="codecapi_avencvideoltrbuffercontrol-property"></a>КОДЕКАПИ \_ авенквидеолтрбуфферконтрол, свойство
 
@@ -40,7 +40,7 @@ ms.locfileid: "122481930"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это статический API.
 
@@ -58,7 +58,7 @@ ms.locfileid: "122481930"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

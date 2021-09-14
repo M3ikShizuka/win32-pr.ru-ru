@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 355304109bf985abc22c8000f5c253570cd1d427ad1c8f5a75ba09dd752f6451
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7fc6b64b4122234106ee61fa76574d4cd88d1013
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119055832"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242659"
 ---
 # <a name="channel-renderinginfotype-element"></a>Элемент Channel (Рендерингинфотипе)
 
@@ -32,7 +32,7 @@ ms.locfileid: "119055832"
 
 Элемент **Channel** определяется сложным типом [**рендерингинфотипе**](eventschema-renderingtype-complextype.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ ms.locfileid: "119055832"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

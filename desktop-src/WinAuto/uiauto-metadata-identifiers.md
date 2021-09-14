@@ -12,12 +12,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fa3942fa4001390fec952744279f687234b70244cf9b6226a6595f6d5d41784a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d2e55f919635303d28819d79e1491478904733f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117745044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242353"
 ---
 # <a name="metadata-identifiers"></a>Идентификаторы метаданных
 

@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: f1758ee390c75708ea1f0acd5fb75af4e8db8c6128b1b7b39c8e4f2ea71ed28d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e47604ad3a9a9372fa1432db96777e85ef901176
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119055862"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242737"
 ---
 # <a name="publishing-channeltype-element"></a>Publishing (Чаннелтипе), элемент
 
@@ -32,7 +32,7 @@ ms.locfileid: "119055862"
 
 Элемент **Publish** определяется сложным типом [**чаннелтипе**](eventmanifestschema-channeltype-complextype.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ ms.locfileid: "119055862"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

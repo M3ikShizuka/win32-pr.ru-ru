@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: eae4ca15d4d7035fc342fa20263220560570d902e28b9245a6458ac59c40a4f5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 029c8bb860443ed026737c7413be2bed8862c6d2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119648754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241894"
 ---
 # <a name="externaloncolorchange-event"></a>Внешнее событие Онколорчанже
 
@@ -46,7 +46,7 @@ window.external.OnColorChange = FunctionName
 
 пользователи могут изменять цвет пользовательского интерфейса проигрыватель Windows Media. Это событие можно использовать для настройки внешнего вида размещенной веб-страницы в соответствии с проигрывателем.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -57,7 +57,7 @@ window.external.OnColorChange = FunctionName
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

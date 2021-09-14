@@ -4,12 +4,12 @@ ms.assetid: C9004A40-ECC9-45C3-BBDE-0A179B838AFE
 title: Свойство CODECAPI_AVEncVideoMinQP (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f7c54694552e41c45830e3f16b77d0d1b4d671c478409b651bdacaa396cd52ac
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 778371bf271a5efa1c3d302493b8e3f10254285e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119606284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269251"
 ---
 # <a name="codecapi_avencvideominqp-property"></a>КОДЕКАПИ \_ авенквидеоминкп, свойство
 
@@ -27,7 +27,7 @@ ms.locfileid: "119606284"
 
 Значение — это минимальный элемент QP, который используется в кодировке переменной-QP.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -39,7 +39,7 @@ ms.locfileid: "119606284"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

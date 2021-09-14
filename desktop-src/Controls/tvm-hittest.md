@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e564b6d82c04c0d007784aac39284db13b3776267d524d2f615353ede50eb945
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 50b91a11892a2bb904d2cd7d82b5b08cea18331b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120060154"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165684"
 ---
 # <a name="tvm_hittest-message"></a>\_Сообщение TVM HITTEST
 
@@ -43,7 +43,7 @@ ms.locfileid: "120060154"
 
 Возвращает маркер элемента представления дерева, который занимает указанную точку, или **значение NULL** , если элемент не занимает точку.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

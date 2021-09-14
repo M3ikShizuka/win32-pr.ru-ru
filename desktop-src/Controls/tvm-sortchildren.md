@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f975814fadc5271c562e4e8e420c35dbb3450142bed797af83af73fdf81a55d5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 341591c31accb4aab0b49f611359a93ec99c0cab
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119913804"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165599"
 ---
 # <a name="tvm_sortchildren-message"></a>\_Сообщение TVM сортчилдрен
 
@@ -51,7 +51,7 @@ ms.locfileid: "119913804"
 
 Это сообщение алфабетизес элементы дерева с помощью [**лстркмпи**](/windows/desktop/api/winbase/nf-winbase-lstrcmpia) в имени элемента. Чтобы настроить поведение при упорядочении, можно использовать сообщение [**TVM \_ сортчилдренкб**](tvm-sortchildrencb.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

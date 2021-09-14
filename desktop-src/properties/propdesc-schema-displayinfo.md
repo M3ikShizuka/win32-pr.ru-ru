@@ -5,11 +5,11 @@ title: displayInfo
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 9b0bbc3cf0f17d24672e30a110d95341c1cb902d
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122622090"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268283"
 ---
 # <a name="displayinfo"></a>displayInfo
 
@@ -292,7 +292,7 @@ ms.locfileid: "122622090"
 <thead>
 <tr class="header">
 <th>Атрибут</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -302,7 +302,7 @@ ms.locfileid: "122622090"
 </tr>
 <tr class="even">
 <td>дисплайтипе</td>
-<td>Общедоступный. Необязательный элемент. Значение по умолчанию — &quot; String &quot; . Указывает тип отображаемой строки. После установки здесь значения связанных <strong>PROPDESC_DISPLAYTYPE</strong> извлекаются с помощью <a href="/windows/win32/api/propsys/nf-propsys-ipropertydescription-getdisplaytype"><strong>Ипропертидескриптион:: жетдисплайтипе</strong></a>. Ниже приведены допустимые типы. 
+<td>Общедоступный. Необязательный параметр. Значение по умолчанию — &quot; String &quot; . Указывает тип отображаемой строки. После установки здесь значения связанных <strong>PROPDESC_DISPLAYTYPE</strong> извлекаются с помощью <a href="/windows/win32/api/propsys/nf-propsys-ipropertydescription-getdisplaytype"><strong>Ипропертидескриптион:: жетдисплайтипе</strong></a>. Ниже приведены допустимые типы. 
 <table>
 <thead>
 <tr class="header">
@@ -316,7 +316,7 @@ ms.locfileid: "122622090"
 <td>По умолчанию. Значение отображается в виде строки. Используйте &quot; StringFormat &quot; для форматирования. Метод возвращает PDDT_STRING.</td>
 </tr>
 <tr class="even">
-<td>Number</td>
+<td>Число</td>
 <td>Значение по умолчанию для числовых свойств. Значение отображается как число. Используйте &quot; NumberFormat &quot; для форматирования. Метод возвращает PDDT_NUMBER.</td>
 </tr>
 <tr class="odd">
@@ -400,7 +400,7 @@ ms.locfileid: "122622090"
 <td>Использует &quot; более короткий интервал &quot;  /  &quot; &quot;  /  &quot; времени&quot;</td>
 </tr>
 <tr class="odd">
-<td>Duration</td>
+<td>Длительность</td>
 <td>Использует &quot; более короткий интервал &quot;  /  &quot; &quot;  /  &quot; времени&quot;</td>
 </tr>
 <tr class="even">

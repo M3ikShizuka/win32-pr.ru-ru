@@ -10,12 +10,12 @@ keywords:
 - параметры реестра для расширения имени файла
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d4acea080c59b4f78d4b4053f6ae67e5d1eb2c820d68b4e4702485130d8f33a1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c526e38ae1b2b76b942e0646df6f8aaa3b8e3417
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118996634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241774"
 ---
 # <a name="file-name-extension-registry-settings"></a>Параметры реестра расширения имени файла
 

@@ -4,12 +4,12 @@ ms.assetid: 3D4C1A81-A9BA-427F-93DB-F522A0616EAB
 title: Атрибут MF_MT_MPEG2_STANDARD (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ba3c773fbf453bba77cb3f0472894e251e56f48b0cebe2a09cb9bf3ea6288c35
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0650a68975f449ea938b41872005e11d79922393
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119035142"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269144"
 ---
 # <a name="mf_mt_mpeg2_standard-attribute"></a>\_ \_ Стандартный атрибут MF MT MPEG2 \_
 
@@ -23,7 +23,7 @@ ms.locfileid: "119035142"
 
 | Значение                                                                                                | Значение                                                                    |
 |------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| <span id="0"></span><dl> <dt>**0**</dt> </dl> | Стандартные MPEG-2 PS или TS.<br/>                                       |
+| <span id="0"></span><dl> <dt>**0,0**</dt> </dl> | Стандартные MPEG-2 PS или TS.<br/>                                       |
 | <span id="1"></span><dl> <dt>**1**</dt> </dl> | Стандарт Advanced телевидение Systems Комитет (ATSC).<br/>          |
 | <span id="2"></span><dl> <dt>**2**</dt> </dl> | Стандарт Digital Video широковещания (DVB).<br/>                      |
 | <span id="3"></span><dl> <dt>**3**</dt> </dl> | Ассоциация коммерческих отраслей (АРИБ) Standard.<br/> |
@@ -32,7 +32,7 @@ ms.locfileid: "119035142"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -44,7 +44,7 @@ ms.locfileid: "119035142"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

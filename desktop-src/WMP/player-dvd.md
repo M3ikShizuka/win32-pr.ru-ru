@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 52904e6e495c9546384bffb80d98fd8a9795e2bfc53d007c19a68999478f2a46
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fee4dbec18a83a5716f3ff0923a08d0c8f58cb5b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119901234"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242416"
 ---
 # <a name="playerdvd"></a>Player. DVD
 
@@ -33,7 +33,7 @@ ms.locfileid: "119901234"
 
 Это свойство является объектом DVD, предназначенным только для чтения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -44,7 +44,7 @@ ms.locfileid: "119901234"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

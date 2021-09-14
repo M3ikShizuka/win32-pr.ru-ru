@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e61f155394ecf91b73b0f6056f3c1aaed53b87f3202928e86d10db1298a430b9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b79602e1cdf8d4cc2ceda6ca217b81a7f899c6cc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117745992"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242377"
 ---
 # <a name="iwmpmetadatapicturemimetype-property"></a>Свойство Ивмпметадатапиктуре:: mimeType
 

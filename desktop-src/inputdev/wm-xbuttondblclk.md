@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 48f15ed64871cee3b5a97ad8067e883d7ad31206896f6b20150acdb490a2f44c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ed0612c2850f784901f01313935145fc9d3d7910
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118757153"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241555"
 ---
 # <a name="wm_xbuttondblclk-message"></a>\_Сообщение КСБУТТОНДБЛКЛК WM
 
@@ -136,7 +136,7 @@ yPos = GET_Y_LPARAM(lParam);
 
 <dl> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**дефвиндовпрок**](/windows/desktop/api/winuser/nf-winuser-defwindowproca)
@@ -169,7 +169,7 @@ yPos = GET_Y_LPARAM(lParam);
 [**WM \_ ксбуттонуп**](wm-xbuttonup.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с помощью мыши](mouse-input.md)

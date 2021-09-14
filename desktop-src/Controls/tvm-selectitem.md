@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 0ec7201358669fa49e6396508d371ca5e95d6fa1
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122472960"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165672"
 ---
 # <a name="tvm_selectitem-message"></a>\_Сообщение TVM селектитем
 
@@ -62,7 +62,7 @@ ms.locfileid: "122472960"
 
 Возвращает **значение true** , если успешно, или **false** в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если указанный элемент является дочерним по отношению к свернутому родительскому элементу, то родительский список дочерних элементов разворачивается для отображения указанного элемента. В этом случае родительское окно элемента управления получает коды уведомлений [ТВН \_ Итемекспандинг](tvn-itemexpanding.md) и [ТВН \_ итемекспандед](tvn-itemexpanded.md) .
 

@@ -4,12 +4,12 @@ ms.assetid: 45e80314-90b1-4fcf-9c8f-c9840ae1775b
 title: Событие WPCEVENT_IM_FEATURE (Впцевент. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8046e755540a2282e84ea25c5278cf0c0b113264e78a3db31b6bd8a42de599cf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ee28f004560ed287bc3cb94cbee1bda876355834
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119951450"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268400"
 ---
 # <a name="wpcevent_im_feature-event"></a>\_Событие компонента обмена мгновенными сообщениями впцевент \_
 
@@ -89,7 +89,7 @@ const EVENT_DESCRIPTOR WPCEVENT_IM_FEATURE = {0xb, 0x0, 0x10, 0x4, 0x16, 0xb, 0x
 
 </dd> <dt>
 
-*сендерип* 
+*SenderIP* 
 </dt> <dd>
 
 IP-адрес компьютера отправителя.
@@ -103,7 +103,7 @@ IP-адрес компьютера отправителя.
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -115,7 +115,7 @@ IP-адрес компьютера отправителя.
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

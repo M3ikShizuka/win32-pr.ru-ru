@@ -4,12 +4,12 @@ description: Сведения о свойстве объекта команды 
 ms.assetid: d9dcbdf0-ba35-4ebd-b6f2-f3c8bdfc0431
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0a3d8b77833da20c4a0b4254d4ce3432ff20d2f9b18a1da877adc9664bbff6c4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1dc0c65d5cfa0438fe9d61eac0c59e916731e057
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119726064"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241261"
 ---
 # <a name="enabled-property-command-object"></a>Свойство Enabled (объект Command)
 
@@ -33,7 +33,7 @@ ms.locfileid: "119726064"
 
 | Часть      | Описание                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *boolean* | Логическое выражение, указывающее, включена ли **команда** .<br/> <dl> <dt><span id="True"></span><span id="true"></span><span id="TRUE"></span>**Верно**</dt> <dd> **Команда** включена.<br/> </dd> <dt><span id="False"></span><span id="false"></span><span id="FALSE"></span>**Нет**</dt> <dd> **Команда** отключена.<br/> </dd> </dl> |
+| *boolean* | Логическое выражение, указывающее, включена ли **команда** .<br/> <dl> <dt><span id="True"></span><span id="true"></span><span id="TRUE"></span>**Верно**</dt> <dd> **Команда** включена.<br/> </dd> <dt><span id="False"></span><span id="false"></span><span id="FALSE"></span>**Неверно**</dt> <dd> **Команда** отключена.<br/> </dd> </dl> |
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: 4ed594a0-2cc2-40d2-9b5c-dee59916fa1b
 title: Успешный кодек
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b56112942aa8378b2016616d0e090e17eb7225ca27b363c96e37eb7cccb6286e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3ecd177c3c32084a030ce75c15cecd5d4c04fc3f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118065131"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269352"
 ---
 # <a name="codec-merit"></a>Успешный кодек
 

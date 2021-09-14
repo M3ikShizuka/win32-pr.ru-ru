@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 07604eed3d3ece140d33bb9c612a2f898f6de02785f2c9916332de60358693fe
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 1927d21741b109c5f00aa964b058dc0c34732529
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119698664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165691"
 ---
 # <a name="tvm_getvisiblecount-message"></a>\_Сообщение TVM жетвисиблекаунт
 
@@ -45,7 +45,7 @@ ms.locfileid: "119698664"
 
 Обратите внимание, что возвращаемое значение — это количество элементов, которые могут быть *полностью* видимы. Если вы видите все 20 элементов и часть одного элемента, возвращаемое значение равно 20.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

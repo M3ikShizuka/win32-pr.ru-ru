@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4e35a0267d29e473a3c2e5a6a00a0635a466f46c2917b913c3950aa6567e3cd9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2139c11558eccc3fb3b225f0cc1a87bcf6fb084d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119829864"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241564"
 ---
 # <a name="wm_syskeyup-message"></a>\_Сообщение СИСКЭЙУП WM
 
@@ -82,7 +82,7 @@ ms.locfileid: "119829864"
 
 
 
-| Message                           | Код виртуального ключа |
+| Сообщение                           | Код виртуального ключа |
 |-----------------------------------|------------------|
 | [**WM \_ KeyDown**](wm-keydown.md) | **\_элемент управления VK**  |
 | [**WM \_ KeyDown**](wm-keydown.md) | **\_меню VK**     |
@@ -93,7 +93,7 @@ ms.locfileid: "119829864"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -105,11 +105,11 @@ ms.locfileid: "119829864"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**дефвиндовпрок**](/windows/desktop/api/winuser/nf-winuser-defwindowproca)
@@ -124,7 +124,7 @@ ms.locfileid: "119829864"
 [**WM \_ сискэйдовн**](wm-syskeydown.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с клавиатуры](keyboard-input.md)

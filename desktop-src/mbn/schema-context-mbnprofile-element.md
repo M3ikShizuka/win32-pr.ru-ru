@@ -12,11 +12,11 @@ api_name:
 api_type:
 - Schema
 ms.openlocfilehash: dac98101dade85fbbaa63275933885241ef206fc
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105692464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241204"
 ---
 # <a name="context-mbnprofile-element"></a>Элемент context (Мбнпрофиле)
 
@@ -45,7 +45,7 @@ ms.locfileid: "105692464"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 7 \|\]<br/> |
+| Минимальная версия клиента<br/> | \[приложения UWP для классических приложений Windows 7 \|\]<br/> |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                         |
 
 

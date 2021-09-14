@@ -20,12 +20,12 @@ keywords:
 - Windows Списки воспроизведения метафайлов мультимедиа, авто
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 645b3bd9ca9ddeebcce9fd6cbb905caa54717e87876be6e449ebd4d3ab64a11a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 083ee2029eec2cfee7510766790f4ca7eb6468e5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118568786"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241723"
 ---
 # <a name="static-and-auto-playlists"></a>Статические и автоматические списки воспроизведения
 

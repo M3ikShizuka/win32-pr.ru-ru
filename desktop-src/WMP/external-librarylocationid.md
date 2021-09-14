@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 65119db42e8a4d6a06414f1c7790fb8716c0f9423391ed0a58f74a6913cb3b8e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 89f411ad8575bc7419cf9300d1aab46073ee869c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119649134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241942"
 ---
 # <a name="externallibrarylocationid"></a>External. Либрарилокатионид
 
@@ -45,7 +45,7 @@ window.external.libraryLocationID
 
 некоторые представления в проигрыватель Windows Media связаны с определенным элементом мультимедиа. Например, если текущее представление представляет отдельный альбом, **либрарилокатионтипе** равен кпалбумид, а **либрарилокатионид** — идентификатору альбома. Другие представления не связаны с определенными элементами мультимедиа. Например, если текущее представление представляет все альбомы, **либрарилокатионтипе** равно аллкпалбумидс, но нет осмысленного значения, которое можно было бы назначить **либрарилокатионид**. В случаях, когда свойство **либрарилокатионид** не имеет осмысленного значения, оно равно пустой строке.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -56,7 +56,7 @@ window.external.libraryLocationID
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

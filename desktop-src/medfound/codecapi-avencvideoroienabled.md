@@ -5,11 +5,11 @@ title: Свойство CODECAPI_AVEncVideoROIEnabled (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 345e6ba27a983be910f0dc0ea5d3db34191bdcb1
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104342555"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269224"
 ---
 # <a name="codecapi_avencvideoroienabled-property"></a>КОДЕКАПИ \_ авенквидеороиенаблед, свойство
 
@@ -23,7 +23,7 @@ ms.locfileid: "104342555"
 
 **КОДЕКАПИ \_ авенквидеороиенаблед**
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 По умолчанию установлено значение 0.
 
@@ -35,9 +35,9 @@ ms.locfileid: "104342555"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 8.1 \|\]<br/>                                   |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2012 R2 \|\]<br/>                        |
-| Header<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 8.1 \[ приложения UWP для классических приложений \|\]<br/>                                   |
+| Минимальная версия сервера<br/> | Windows Server 2012 Приложения универсального \[ приложения UWP для настольных приложений \|\]<br/>                        |
+| Заголовок<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
 
 
 
