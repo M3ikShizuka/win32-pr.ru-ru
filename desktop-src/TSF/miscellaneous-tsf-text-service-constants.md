@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bd4d9cdd73cd42512fe667b84867328c65f13fafa7281341eca7ba6379eef7d8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d7ebd7d22f9cfbd59f95ee3dcfe68229536503b0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119476774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170735"
 ---
 # <a name="miscellaneous-tsf-text-service-constants"></a>Различные константы службы текстового ввода TSF
 
@@ -42,7 +42,7 @@ ms.locfileid: "119476774"
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                             |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                   |
 | Распространяемые компоненты<br/>          | TSF 1,0 на Windows 2000 Professional<br/>                                        |
-| Header<br/>                   | <dl> <dt>Ктффунк. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Ктффунк. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>Ктффунк. idl</dt> </dl> |
 
 

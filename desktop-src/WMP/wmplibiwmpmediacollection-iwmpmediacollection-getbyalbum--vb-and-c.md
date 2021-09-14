@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 07137068961447b9f311dbdb765d34fbf2689ca80fd2035e8a60ebe27e4037bf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c455e9bd61038a4d72bb6537d7c62b30a5d0b733
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117929767"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172707"
 ---
 # <a name="iwmpmediacollectiongetbyalbum-method"></a>Метод Ивмпмедиаколлектион:: Жетбялбум
 

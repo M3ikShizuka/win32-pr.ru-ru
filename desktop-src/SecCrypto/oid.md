@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Capicom.dll
 ms.openlocfilehash: a524bfd8d2eb2edcf3c97919129dd694414d5ace
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105669456"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173148"
 ---
 # <a name="oid-object"></a>OID, объект
 
@@ -39,13 +39,13 @@ ms.locfileid: "105669456"
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Объект **OID** имеет эти свойства.
 
 
 
-| Свойство                                            | Тип доступа           | Описание                                                                                      |
+| Свойство.                                            | Тип доступа           | Описание                                                                                      |
 |:----------------------------------------------------|:----------------------|:-------------------------------------------------------------------------------------------------|
 | [**FriendlyName**](oid-friendlyname.md)<br/> | Чтение/запись<br/> | Задает или получает отображаемое имя для OID.<br/>                                       |
 | [**Имя**](oid-name.md)<br/>                 | Чтение/запись<br/> | Задает или получает имя объекта, определенное с помощью элемента CAPICOM. Это свойство по умолчанию.<br/> |
@@ -55,7 +55,7 @@ ms.locfileid: "105669456"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Объект **OID** может быть создан и защищен для создания скриптов. ProgID для объекта **OID** — CAPICOM. OID. 1.
 

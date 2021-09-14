@@ -4,12 +4,12 @@ ms.assetid: b9d13024-0e53-4930-9962-a2a0d0cb88de
 title: Пример программы на языке C. Создание контейнера ключей и создание ключей
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1c2d879e71f137ce92d04e92ca499a628d20dc002388b10884664a55d857ad93
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d1e389df22cb4e745cf1c1a65542a17eeabe9b41
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119873754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173227"
 ---
 # <a name="example-c-program-creating-a-key-container-and-generating-keys"></a>Пример программы на языке C. Создание контейнера ключей и создание ключей
 

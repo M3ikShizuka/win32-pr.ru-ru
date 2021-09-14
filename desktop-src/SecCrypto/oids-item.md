@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Capicom.dll
 ms.openlocfilehash: dfdf65f013c5e5e1a031c03c19af9d08b8fc72c1
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105685182"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173139"
 ---
 # <a name="oidsitem-property"></a>OID. Item, свойство
 
@@ -56,7 +56,7 @@ OIDs.Item( _
 
 <dl> <dt>
 
-[**OID**](oids.md)
+[**Идентификаторы OID**](oids.md)
 </dt> </dl>
 
  

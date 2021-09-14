@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: c5ce8f906628df06ef506a0f57c33db4bed7c5980bb78ab2e0094d0443b5646b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0aa5dbaeeebe2daaf925b5d5f3aa82b36053fc39
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117773668"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173304"
 ---
 # <a name="algorithmkeylength-property"></a>Свойство Algorithm. KeyLength
 

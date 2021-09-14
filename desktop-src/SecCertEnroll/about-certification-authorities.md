@@ -4,12 +4,12 @@ ms.assetid: c8ddce19-299c-45ca-9992-865928098dc3
 title: Центры сертификации
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 11b5f48c897c74e5f0bf7d4d3b1e21b8f89d33e72cdfa46aefe726f714fbc267
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aedcbac1310c3bcc584f6f1572091044ae0d6aad
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118904503"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173347"
 ---
 # <a name="certification-authorities"></a>Центры сертификации
 

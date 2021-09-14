@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: 4d9860e9a3f04f2f17ebcda08a4ec2610c5af3cbb5fbb5e7afa98227264992b3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 35ff147d8db7fb409787fa938a951dfc0a2320e3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119880154"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173300"
 ---
 # <a name="algorithmname-property"></a>Algorithm.Name, свойство
 
@@ -59,7 +59,7 @@ Algorithm.Name As CAPICOM_ENCRYPTION_ALGORITHM
 
 Когда значение этого свойства сбрасывается прямо или косвенно, полное состояние объекта сбрасывается.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

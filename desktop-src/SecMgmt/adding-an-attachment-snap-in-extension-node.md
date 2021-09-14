@@ -5,11 +5,11 @@ title: Добавление узла расширения оснастки «в�
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 2604a58284af7bc55ff57ae114bc77d8f0cd42ed
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103815737"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170824"
 ---
 # <a name="adding-an-attachment-snap-in-extension-node"></a>Добавление узла расширения оснастки «вложение»
 

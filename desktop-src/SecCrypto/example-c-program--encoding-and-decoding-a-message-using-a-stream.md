@@ -1,15 +1,15 @@
 ---
-description: Демонстрирует использование функций Криптмсгопентоенкоде, Криптмсгопентодекоде и Криптмсгупдате с \_ \_ структурой сведений о потоке КМСГ для кодирования и декодирования сообщения с помощью функций потоковой передачи этих функций.
+description: Демонстрирует использование функций Криптмсгопентоенкоде, Криптмсгопентодекоде и Криптмсгупдате с структурой CMSG_STREAM_INFO для кодирования и декодирования сообщения с помощью функций потоковой передачи этих функций.
 ms.assetid: 6c9c0509-1ad9-42cd-9589-e77752df6739
 title: 'Пример программы на языке C: кодирование и декодирование сообщения с помощью потока'
 ms.topic: article
-ms.date: 05/31/2018
-ms.openlocfilehash: eef428d7c6c0b175623bfa4811c4043bcd7bdaef3e05afea24a288f6629b8e0c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.date: 09/10/2021
+ms.openlocfilehash: 3c776dba6ac38f3167dad0e40c84f3b9ccef6bd7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117765656"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173260"
 ---
 # <a name="example-c-program-encoding-and-decoding-a-message-using-a-stream"></a>Пример программы на языке C: кодирование и декодирование сообщения с помощью потока
 

@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a0c33f619089bb407f4943464be2a086244f7b51aa0979a3aceede8501af03a1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 19a1cfade6ae6bf443b2bb1cde14bc6ab666cf3d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119975111"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172819"
 ---
 # <a name="runningtaskpath-property"></a>Руннингтаск. Path, свойство
 
@@ -40,7 +40,7 @@ RunningTask.Path As string
 
 Путь, по которому хранится задача.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -53,7 +53,7 @@ RunningTask.Path As string
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

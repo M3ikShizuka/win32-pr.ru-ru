@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Netmon.h
-ms.openlocfilehash: caaafeb9883ad514366f91f3834354fbd5ac0850400e61594a5307c4533e0960
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ab4a3673c567a72cb5d0284a07d5603913e77550
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119962854"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173575"
 ---
 # <a name="pf_parserdllinfo-structure"></a>\_Структура PF парсердллинфо
 
@@ -36,7 +36,7 @@ typedef struct _PF_PARSERDLLINFO {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 

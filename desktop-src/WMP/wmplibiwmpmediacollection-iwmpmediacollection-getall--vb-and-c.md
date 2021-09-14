@@ -3,9 +3,9 @@ title: Ивмпмедиаколлектион Жеталл, метод
 description: Метод Жеталл возвращает интерфейс Ивмпплайлист, соответствующий списку воспроизведения, содержащему все элементы мультимедиа в библиотеке.
 ms.assetid: f2bbb4a4-7397-4c97-afd9-e8ee380af9da
 keywords:
-- Жеталл метод Windows Media Player
-- Жеталл метод проигрывателя Windows Media Player, интерфейс Ивмпмедиаколлектион
-- Интерфейс Ивмпмедиаколлектион Windows Media Player, метод Жеталл
+- проигрыватель Windows Media метода жеталл
+- проигрыватель Windows Media метода жеталл, интерфейс ивмпмедиаколлектион
+- проигрыватель Windows Media интерфейса ивмпмедиаколлектион, метод жеталл
 topic_type:
 - apiref
 api_name:
@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: be08548ae29db12ded788f34563ef5e319c27d61
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105665101"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172711"
 ---
 # <a name="iwmpmediacollectiongetall-method"></a>Метод Ивмпмедиаколлектион:: Жеталл
 
@@ -53,7 +53,7 @@ Implements IWMPMediaCollection.getAll
 
 Интерфейс **вмплиб. ивмпплайлист** для списка воспроизведения, который содержит все запрошенные элементы мультимедиа.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Перед вызовом этого метода необходимо иметь доступ на чтение к библиотеке. Дополнительные сведения см. в разделе [доступ к библиотеке](library-access.md).
 
@@ -110,7 +110,7 @@ player.Ctlcontrols.play()
 
 | Требование | Значение |
 |----------------------|------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/>   | Проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                      |
+| Версия<br/>   | проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                      |
 | Пространство имен<br/> | **вмплиб**<br/>                                                                                                  |
 | Сборка<br/>  | <dl> <dt>Interop.WMPLib.dll (Interop.WMPLib.dll.dll)</dt> </dl> |
 

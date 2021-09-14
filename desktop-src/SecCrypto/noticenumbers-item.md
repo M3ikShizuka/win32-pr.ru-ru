@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Capicom.dll
 ms.openlocfilehash: a797db5869e11bfc441ce3b1e3642b83e84e6714
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105669167"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173180"
 ---
 # <a name="noticenumbersitem-property"></a>Нотиценумберс. Item, свойство
 

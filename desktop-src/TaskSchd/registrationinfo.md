@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f85bb423ae27a3d0b0b15f7b04d287a749f4fe23f3a4b58f7c2462b487b8a705
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7b7eb50da6b69622f6101fdbae4ad098d88f0366
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120072654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172884"
 ---
 # <a name="registrationinfo-object"></a>Объект Регистратионинфо
 
@@ -39,12 +39,12 @@ ms.locfileid: "120072654"
 
 
 
-| Свойство                                                                     | Тип доступа           | Описание                                                                                                                                |
+| Свойство.                                                                     | Тип доступа           | Описание                                                                                                                                |
 |:-----------------------------------------------------------------------------|:----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
 | [**Автор**](registrationinfo-author.md)<br/>                         | Чтение/запись<br/> | Возвращает или задает автора задачи.<br/>                                                                                            |
 | [**Дата**](registrationinfo-date.md)<br/>                             | Чтение/запись<br/> | Возвращает или задает дату и время регистрации задачи.<br/>                                                                     |
 | [**Описание**](registrationinfo-description.md)<br/>               | Чтение/запись<br/> | Возвращает или задает описание задачи.<br/>                                                                                       |
-| [**По**](registrationinfo-documentation.md)<br/>           | Чтение/запись<br/> | Возвращает или задает любую дополнительную документацию для задачи.<br/>                                                                         |
+| [**Документация**](registrationinfo-documentation.md)<br/>           | Чтение/запись<br/> | Возвращает или задает любую дополнительную документацию для задачи.<br/>                                                                         |
 | [**SecurityDescriptor**](registrationinfo-securitydescriptor.md)<br/> |                       | Возвращает или задает дескриптор безопасности задачи.<br/>                                                                               |
 | [**Источник**](registrationinfo-source.md)<br/>                         | Чтение/запись<br/> | Возвращает или задает, откуда поступила задача. Например, задача может исходить из компонента, службы, приложения или пользователя.<br/> |
 | [**URI**](registrationinfo-uri.md)<br/>                               | Чтение/запись<br/> | Возвращает или задает универсальный код ресурса (URI) задачи.<br/>                                                                                               |
@@ -65,7 +65,7 @@ ms.locfileid: "120072654"
 
 Дополнительные сведения и примеры кода для этого объекта скрипта см. в разделе [пример триггера времени (сценарии)](time-trigger-example--scripting-.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

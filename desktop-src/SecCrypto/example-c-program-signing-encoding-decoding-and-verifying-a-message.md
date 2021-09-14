@@ -4,12 +4,12 @@ ms.assetid: 2cad11a8-75ad-4726-a7bb-82870b71c721
 title: 'Пример программы на языке C: подписывание, кодирование, декодирование и проверка сообщения'
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d8b274c8db1bc36c32616c84c4771d95a144f965effc7a849e77dde9d276950b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 128b4368a75d5f7636394fdf9a3b1b2694f45176
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119007472"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173223"
 ---
 # <a name="example-c-program-signing-encoding-decoding-and-verifying-a-message"></a>Пример программы на языке C: подписывание, кодирование, декодирование и проверка сообщения
 

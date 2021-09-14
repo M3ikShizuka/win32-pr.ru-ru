@@ -5,11 +5,11 @@ ms.assetid: af937eba-6b70-447a-af76-a8e27f5754e3
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 9a35e54d9f86228cb4c957f53411c105e20e2109
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122468171"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173564"
 ---
 # <a name="asynchronous-pipe-state"></a>Состояние асинхронного канала
 
@@ -44,7 +44,7 @@ ms.locfileid: "122468171"
 | D | Dispatch | Вызов отправляется средой выполнения RPC к P<br /> Неустранимая ошибка (при выполнении в потоке RPC): вызов исключения; к концу<br /> Для корректного сбоя: перейдите на<br /> | 
 | P | По запросу | Сделать запрос на вытягивание<ul><li>При сбое переходит в конец</li><li>При успешном выполнении и синхронном завершении с чтением ненулевых байтов перейдите к P</li><li>При успешном выполнении и синхронном завершении с нулевым количеством считанных байтов (по запросу null) переход к Comp</li><li>При успешном выполнении и асинхронном завершении (возвращается ERROR_IO_PENDING) перейдите к WP.</li></ul>Сбой: перейдите на<br /> | 
 | WP | Ожидание запроса на вытягивание | Ожидание уведомления<ul><li>При сбое для получения завершения перейдите к</li><li>Если <a href="/windows/desktop/api/Rpcasync/ne-rpcasync-rpc_async_event"><strong>рпкрецеивекомплете</strong></a> сбоя получен, перейдите к</li><li>Если получено <a href="/windows/desktop/api/Rpcasync/ne-rpcasync-rpc_async_event"><strong>рпкрецеивекомплете</strong></a> об успешном выполнении с чтением ненулевых байтов, перейдите к P</li><li>Если получено сообщение об успешном <a href="/windows/desktop/api/Rpcasync/ne-rpcasync-rpc_async_event"><strong>рпкрецеивекомплете</strong></a> с нулевым количеством считанных байтов (по запросу null), перейдите в раздел "Comp"</li><li>При получении ошибки перейдите к</li></ul>Сбой: перейдите на<br /> | 
-| А | Прервать вызов | Вызов <a href="/windows/desktop/api/Rpcasync/nf-rpcasync-rpcasyncabortcall"><strong>рпкасинкаборткалл</strong></a>к концу<br /> | 
+| Объект | Прервать вызов | Вызов <a href="/windows/desktop/api/Rpcasync/nf-rpcasync-rpcasyncabortcall"><strong>рпкасинкаборткалл</strong></a>к концу<br /> | 
 | Соответствовал | Completion | Вызов <a href="/windows/desktop/api/Rpcasync/nf-rpcasync-rpcasynccompletecall"><strong>рпкасинккомплетекалл</strong></a>к концу<br /> | 
 | Конец | 
 
@@ -83,7 +83,7 @@ ms.locfileid: "122468171"
 | WP | Ожидание принудительной отправки | Ожидание уведомления<ul><li>При сбое для получения завершения перейдите к</li><li>Если получено сообщение об успешном <a href="/windows/desktop/api/Rpcasync/ne-rpcasync-rpc_async_event"><strong>рпксендкомплетее</strong></a> и требуется отправить дополнительные данные, перейдите на страницу P</li><li>Если получено сообщение об успешном <a href="/windows/desktop/api/Rpcasync/ne-rpcasync-rpc_async_event"><strong>рпксендкомплетее</strong></a> и больше не нужно отправлять данные, перейдите на страницу NP</li><li>Если ошибка получена, переходите к следующему.</li></ul>Сбой: перейдите на<br /> | 
 | NP | Push-уведомления null | Отправить 0 байт<ul><li>При успешном переходе на WNP</li><li>при сбое перейдите в раздел Comp</li></ul>Сбой: перейдите на<br /> | 
 | WNP | Ожидание принудительной отправки null | Ожидание уведомления<ul><li>При сбое для получения завершения перейдите к</li><li>Если ошибка получена, переходите к следующему.</li><li>Если получено сообщение об успешном выполнении Go</li></ul> | 
-| А | Прервать вызов | Вызовите <a href="/windows/desktop/api/Rpcasync/nf-rpcasync-rpcasyncabortcall"><strong>рпкасинкаборткалл</strong></a>; к концу | 
+| Объект | Прервать вызов | Вызовите <a href="/windows/desktop/api/Rpcasync/nf-rpcasync-rpcasyncabortcall"><strong>рпкасинкаборткалл</strong></a>; к концу | 
 | Соответствовал | Completion | Ошибка <a href="/windows/desktop/api/Rpcasync/nf-rpcasync-rpcasynccompletecall"><strong>рпкасинккомплетекалл</strong></a>; к концу | 
 | Конец | 
 
@@ -127,7 +127,7 @@ ms.locfileid: "122468171"
 | Информационный | Ожидание принудительной отправки | Ожидание уведомления<ul><li>При сбое для получения завершения перейдите к</li><li>Если получено сообщение об успешном <a href="/windows/desktop/api/Rpcasync/ne-rpcasync-rpc_async_event"><strong>рпксендкомплетее</strong></a> и требуется отправить дополнительные данные, перейдите в PS</li><li>Если получено сообщение об успешном <a href="/windows/desktop/api/Rpcasync/ne-rpcasync-rpc_async_event"><strong>рпксендкомплетее</strong></a> и больше не нужно отправлять данные, перейдите на страницу NP</li><li>Если ошибка получена, переходите к следующему.</li></ul>Сбой: перейдите на<br /> | 
 | NP | Push-уведомления null | Отправить 0 байт<ul><li>При успешном переходе на WNP</li><li>при сбое перейдите в раздел Comp</li></ul>Сбой: перейдите на<br /> | 
 | WNP | Ожидание принудительной отправки null | Ожидание уведомления<ul><li>При сбое для получения завершения перейдите к</li><li>Если ошибка получена, переходите к следующему.</li><li>Если получено сообщение об успешном выполнении Go</li></ul><br /> | 
-| А | Прервать вызов | Вызовите <a href="/windows/desktop/api/Rpcasync/nf-rpcasync-rpcasyncabortcall"><strong>рпкасинкаборткалл</strong></a>; к концу | 
+| Объект | Прервать вызов | Вызовите <a href="/windows/desktop/api/Rpcasync/nf-rpcasync-rpcasyncabortcall"><strong>рпкасинкаборткалл</strong></a>; к концу | 
 | Соответствовал | Completion | Ошибка <a href="/windows/desktop/api/Rpcasync/nf-rpcasync-rpcasynccompletecall"><strong>рпкасинккомплетекалл</strong></a>; к концу | 
 | Конец | 
 

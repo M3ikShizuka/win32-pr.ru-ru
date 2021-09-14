@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Capicom.dll
 ms.openlocfilehash: 628d176595031f2b87b9fcb5f58ff81838d49be8
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105685209"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173115"
 ---
 # <a name="signedcodedescriptionurl-property"></a>Сигнедкоде. Дескриптионурл, свойство
 
@@ -39,7 +39,7 @@ SignedCode.DescriptionURL As String
 
 URL-адрес описания подписанного исполняемого файла.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 **Дескриптионурл** — это URL-адрес, по которому отображается [**Описание**](signedcode-description.md) в диалоговых окнах проверки Authenticode. Если это свойство имеет **значение NULL**, **Описание** не работает как ссылка.
 

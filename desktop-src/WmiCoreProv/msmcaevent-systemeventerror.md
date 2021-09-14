@@ -35,12 +35,12 @@ api_type:
 - DllExport
 api_location:
 - Wmiprov.dll
-ms.openlocfilehash: 4ff5d05cb1b9db7430f2f91a0f2a5ad3a97a56557c3fc5ae832eecc85d13128c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f20f95fb5e1b1bf07b0f70c25d54122642b13569
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119051252"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170531"
 ---
 # <a name="msmcaevent_systemeventerror-class"></a>\_Класс мсмкаевент системевентеррор
 
@@ -78,7 +78,7 @@ class MSMCAEvent_SystemEventError : WMIEvent
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **мсмкаевент \_ системевентеррор** имеет следующие типы членов:
 
@@ -144,7 +144,7 @@ class MSMCAEvent_SystemEventError : WMIEvent
 
 | Значение                                                                                                | Значение                |
 |------------------------------------------------------------------------------------------------------|------------------------|
-| <span id="0"></span><dl> <dt>**0**</dt> </dl> | Восстанавливается<br/> |
+| <span id="0"></span><dl> <dt>**0,0**</dt> </dl> | Восстанавливается<br/> |
 | <span id="1"></span><dl> <dt>**1**</dt> </dl> | Аварий<br/>       |
 | <span id="2"></span><dl> <dt>**2**</dt> </dl> | Исправимая<br/> |
 
@@ -420,21 +420,21 @@ class MSMCAEvent_SystemEventError : WMIEvent
 
 Класс **мсмкаевент \_ системевентеррор** является производным от [**WMIEvent**](wmievent.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP<br/>                                                                  |
-| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                         |
+| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                         |
 | Пространство имен<br/>                | Корневой \\ инструментарий WMI<br/>                                                                   |
 | MOF<br/>                      | <dl> <dt>Вмикоре. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wmiprov.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

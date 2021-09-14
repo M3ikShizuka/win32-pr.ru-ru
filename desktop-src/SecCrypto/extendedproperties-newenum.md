@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: d9b941ddb087890c4a2533d21ce10378973aaf9b4daa6dfab707c62936e8a8fc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 62f07fe7a1a193f93fc0d3bf4c04fbfc5d76ecf9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119007212"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173203"
 ---
 # <a name="extendedproperties_newenum-property"></a>Расширенных свойств. \_ Свойство NewEnum
 
@@ -43,7 +43,7 @@ ExtendedProperties._NewEnum As IUnknown
 
 это свойство автоматически используется для внутренних целей при использовании `For Each In` конструкции в Visual Basic scripting Edition (VBScript).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

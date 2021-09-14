@@ -13,12 +13,12 @@ keywords:
 - параметры реестра портов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 140f55a4008a03c2b3bc4184e2eca92129a5e30dc69f0871da856b4555daec73
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e231732e8d62efce575ae3fdee5edc63975f23c9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118576771"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170587"
 ---
 # <a name="firewall-port-registry-settings"></a>Параметры реестра портов брандмауэра
 

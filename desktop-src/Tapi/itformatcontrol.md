@@ -4,12 +4,12 @@ ms.assetid: a3d15561-229e-4eb6-a0ac-2d69f170bced
 title: Интерфейс Итформатконтрол (Ипмсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ab42a9cacdf7986a652fff4e15195fec5f6b1aa319f06b631ee992541db40b82
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b0735e7bfaf5222948cef5e047530a35cb19a125
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119406054"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170699"
 ---
 # <a name="itformatcontrol-interface"></a>Интерфейс Итформатконтрол
 

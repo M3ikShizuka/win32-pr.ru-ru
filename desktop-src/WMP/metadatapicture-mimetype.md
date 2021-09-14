@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7e9cfc6607bc121b18b7d8550576b84d251dd7f2812094a51464265e4135fa0c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 010bf93172f43f47faed08ac6cc8b178944d3bfe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119647704"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170567"
 ---
 # <a name="metadatapicturemimetype"></a>Метадатапиктуре. mimeType
 
@@ -39,7 +39,7 @@ ms.locfileid: "119647704"
 
 **проигрыватель Windows Media 10 Mobile:** Это свойство не поддерживается.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -50,7 +50,7 @@ ms.locfileid: "119647704"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

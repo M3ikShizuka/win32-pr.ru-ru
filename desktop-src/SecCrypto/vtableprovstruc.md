@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 api_location:
 - Cspdk.h
-ms.openlocfilehash: 2815d12735023cd0f7ac60fc2ed9f60fc56e32d0f54610f295a2e6b0544e589c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 99b9344c6951dc93972315d9b4f60752f1484d68
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117970870"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170828"
 ---
 # <a name="vtableprovstruc-structure"></a>Структура Втаблепровструк
 
@@ -42,7 +42,7 @@ typedef struct VTableProvStruc {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -131,7 +131,7 @@ typedef struct VTableProvStruc {
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                               |
-| Header<br/>                   | <dl> <dt>Кспдк. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Кспдк. h</dt> </dl> |
 | Имя в кодировке Юникод и ANSI<br/>   | **Втаблепровструкв** (Юникод)<br/>                                          |
 
 

@@ -6,12 +6,12 @@ keywords:
 - Получение строк триггера планировщик задач
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 68a05f95f19aaa68927059c87f7a73f162266454137fbe088923b25dce7ed3ca
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f44708fdbb4025f5d99409297dda65504a909aec
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119002382"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172848"
 ---
 # <a name="retrieving-trigger-strings-example"></a>Пример получения строк триггера
 

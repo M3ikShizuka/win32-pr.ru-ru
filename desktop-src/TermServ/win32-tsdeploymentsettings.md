@@ -39,12 +39,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5a3f5b5cde779cbd9b8120fa648138611236935080f3517a28a6f19dcee8864b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0f254363968099ab73c5f3f14f1f15ab8554f62a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118349312"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172780"
 ---
 # <a name="win32_tsdeploymentsettings-class"></a>\_Класс Win32 тсдеплойментсеттингс
 
@@ -81,7 +81,7 @@ class Win32_TSDeploymentSettings : CIM_LogicalElement
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ тсдеплойментсеттингс** имеет следующие типы членов:
 
@@ -379,7 +379,7 @@ class Win32_TSDeploymentSettings : CIM_LogicalElement
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -394,7 +394,7 @@ class Win32_TSDeploymentSettings : CIM_LogicalElement
 
 </dd> <dt>
 
-**Порт**
+**порт**.
 </dt> <dd> <dl> <dt>
 
 Тип данных: **Sint32**
@@ -602,7 +602,7 @@ Set objServices = GetObject( _
 
 файлы MOF-файл (MOF) содержат определения для классов инструментарий управления Windows (WMI) (WMI). Они устанавливаются на компьютере при добавлении связанной роли. Дополнительные сведения о файлах MOF см. в разделе [MOF-файл (MOF)](/windows/desktop/WmiSdk/managed-object-format--mof-).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

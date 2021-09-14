@@ -5,15 +5,15 @@ title: 'Метод Итформатконтрол:: Реордеркапабил
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 4d6f7800e4a04dbd70c5b270778cd7eb0ff540b4
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105675778"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170700"
 ---
 # <a name="itformatcontrolreordercapabilities-method"></a>Метод Итформатконтрол:: Реордеркапабилитиес
 
-\[ Этот метод недоступен для использования в Windows Vista, Windows Server 2008 и последующих версиях операционной системы. API клиента RTC предоставляет аналогичные функциональные возможности.\]
+\[этот метод недоступен для использования в Windows Vista, Windows Server 2008 и последующих версиях операционной системы. API клиента RTC предоставляет аналогичные функциональные возможности.\]
 
 Метод **реордеркапабилитиес** задает новый порядок для возможностей форматирования.
 
@@ -78,7 +78,7 @@ HRESULT ReOrderCapabilities(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Перед использованием этого метода необходимо вызвать метод [**жетнумберофкапабилитиес**](itformatcontrol-getnumberofcapabilities.md) .
 
@@ -89,7 +89,7 @@ HRESULT ReOrderCapabilities(
 | Требование | Значение |
 |-------------------------|--------------------------------------------------------------------------------------|
 | Версия TAPI<br/> | Требуется TAPI 3,1<br/>                                                         |
-| Header<br/>       | <dl> <dt>Ипмсп. h</dt> </dl>   |
+| Заголовок<br/>       | <dl> <dt>Ипмсп. h</dt> </dl>   |
 | Библиотека<br/>      | <dl> <dt>UUID. lib</dt> </dl>  |
 | DLL<br/>          | <dl> <dt>Tapi3.dll</dt> </dl> |
 

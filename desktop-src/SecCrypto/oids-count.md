@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Capicom.dll
 ms.openlocfilehash: 602ef914dbeb5fe0664f517b85fbb6935a0b4e1d
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105685184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173140"
 ---
 # <a name="oidscount-property"></a>Свойство Oid. Count
 
@@ -54,7 +54,7 @@ OIDs.Count As Long
 
 <dl> <dt>
 
-[**OID**](oids.md)
+[**Идентификаторы OID**](oids.md)
 </dt> </dl>
 
  

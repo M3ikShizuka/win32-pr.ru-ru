@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: b52054c170cd8072bde1b742d0446732fa0b89d2be0dfc2efc66d557cdf98fdb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f564efe9df3122951969a45443d58ace60e9db30
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119880164"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173299"
 ---
 # <a name="algorithm-object"></a>Объект Algorithm
 
@@ -50,7 +50,7 @@ ms.locfileid: "119880164"
 
 
 
-| Свойство                                            | Тип доступа           | Описание                                                                                                                       |
+| Свойство.                                            | Тип доступа           | Описание                                                                                                                       |
 |:----------------------------------------------------|:----------------------|:----------------------------------------------------------------------------------------------------------------------------------|
 | [**KeyLength**](algorithm-keylength.md)<br/> | Чтение/запись<br/> | Задает или получает длину ключа.<br/>                                                                               |
 | [**Имя**](algorithm-name.md)<br/>           | Чтение/запись<br/> | Задает или получает алгоритм, используемый для подписывания, запечатывание и шифрования операций. Это свойство по умолчанию.<br/> |
@@ -63,7 +63,7 @@ ms.locfileid: "119880164"
 
 Не удается создать объект **алгоритма** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -77,7 +77,7 @@ ms.locfileid: "119880164"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

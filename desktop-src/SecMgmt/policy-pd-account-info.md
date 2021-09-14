@@ -4,12 +4,12 @@ ms.assetid: 856136be-c89a-477b-bdf9-f2b98891dfe3
 title: POLICY_PD_ACCOUNT_INFO
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 59717added1c7683955753ea0d1cd1565bf81ec8c48c17439af242f115515bb1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2599045524882c920e9500889533b6871dd7983c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118893920"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170820"
 ---
 # <a name="policy_pd_account_info"></a>\_ \_ сведения об учетной записи политики PD \_
 

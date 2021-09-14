@@ -4,12 +4,12 @@ ms.assetid: E2BF8041-DF2F-4282-A3CC-A15FF2D7F4A2
 title: Ограничения, касающихся регистрации и установки пакета безопасности
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: dce9f2d81a0a724d232e39c6e6fd7565b946ca319ba9f134041f6865b4bb2450
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5dd10cd8e2e98d4dccfc3a6230c3daecaeb8fec0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118918910"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146622"
 ---
 # <a name="restrictions-around-registering-and-installing-a-security-package"></a>Ограничения, касающихся регистрации и установки пакета безопасности
 

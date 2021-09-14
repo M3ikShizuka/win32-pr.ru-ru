@@ -4,12 +4,12 @@ ms.assetid: e7870e72-1386-4818-bf6f-73430ae942a8
 title: Microsoft Kerberos
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 680a55581394d9d36da5b54cb2365d07384893069e26f9787163209daf2eabd5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a03787bcc65959838ea02c49958d9ca4e0405649
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118921796"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173471"
 ---
 # <a name="microsoft-kerberos"></a>Microsoft Kerberos
 

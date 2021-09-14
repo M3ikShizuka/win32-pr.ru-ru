@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: e0310db88b29fea18756ecaf7a2dc142097c3a6e53dfff5892acdaf4030b9b00
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2e3deb127ec8b19d9ec5c625f07cfaa2685b776c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118897929"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170860"
 ---
 # <a name="storeclose-method"></a>Метод Store. Close
 
@@ -62,7 +62,7 @@ Store.Close()
 
 <dl> <dt>
 
-[**Сообщений**](store.md)
+[**Хранение**](store.md)
 </dt> <dt>
 
 [**Криптографические объекты**](cryptography-objects.md)

@@ -4,12 +4,12 @@ ms.assetid: ee4a9908-7ba8-4701-84a4-c50b6b989e82
 title: Получение учетных данных SChannel
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 216965d5b6fb1b21c36425242f54150112b2dcfb00dd7184c828aba865bbb5a9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a34e5a5b82b3ed76e905c967009da52d17bff0f0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118921202"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173395"
 ---
 # <a name="obtaining-schannel-credentials"></a>Получение учетных данных SChannel
 

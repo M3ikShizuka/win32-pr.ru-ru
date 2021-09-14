@@ -13,12 +13,12 @@ keywords:
 - параметры реестра для мониторинга папки файлов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ac3e5e99c633c58a68b3579c55d38e6ad5b2415d9faac8d6c3438251c5a83459
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 233076d1fc807dd5cdd79e9b4985ef752fba0815
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117748445"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170579"
 ---
 # <a name="folder-monitoring-registry-settings"></a>Параметры реестра мониторинга папок
 

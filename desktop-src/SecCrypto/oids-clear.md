@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Capicom.dll
 ms.openlocfilehash: f89fcc813e5b02dcc9f4d3973feb8f7b41581813
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105685185"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173143"
 ---
 # <a name="oidsclear-method"></a>Метод OID. Clear
 

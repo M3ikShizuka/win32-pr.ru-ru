@@ -1,5 +1,5 @@
 ---
-description: '\_Свойство NewEnum объекта нотиценумберс Извлекает интерфейс IEnumVARIANT для объекта, который можно использовать для перечисления коллекции. Это свойство скрыто в Visual Basic Scripting Edition (VBScript).'
+description: '\_Свойство NewEnum объекта нотиценумберс Извлекает интерфейс IEnumVARIANT для объекта, который можно использовать для перечисления коллекции. это свойство скрыто в Visual Basic scripting Edition (VBScript).'
 ms.assetid: 21c19edd-b060-46cd-ad44-efd3a77b327c
 title: NoticeNumbers._NewEnum, свойство
 ms.topic: reference
@@ -14,17 +14,17 @@ api_type:
 api_location:
 - Capicom.dll
 ms.openlocfilehash: a9a09031e5b06d89bfdd9e03b09574f567f8ef93
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105689228"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173179"
 ---
 # <a name="noticenumbers_newenum-property"></a>Нотиценумберс. \_ Свойство NewEnum
 
 \[Свойство **\_ NewEnum** доступно для использования в операционных системах, указанных в разделе требования. Дополнительные сведения см. в разделе [**квалификатор**](qualifier.md).\]
 
-Свойство **\_ NewEnum** Извлекает интерфейс [**IEnumVARIANT**](/windows/win32/api/oaidl/nn-oaidl-ienumvariant) для объекта, который можно использовать для перечисления коллекции. Это свойство скрыто в Visual Basic Scripting Edition (VBScript).
+Свойство **\_ NewEnum** Извлекает интерфейс [**IEnumVARIANT**](/windows/win32/api/oaidl/nn-oaidl-ienumvariant) для объекта, который можно использовать для перечисления коллекции. это свойство скрыто в Visual Basic scripting Edition (VBScript).
 
 ## <a name="syntax"></a>Синтаксис
 

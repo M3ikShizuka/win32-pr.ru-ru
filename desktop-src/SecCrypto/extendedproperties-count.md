@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: c34aa63da5276c573d5c3f260d5d7a5956045813695991756ede6c9f69be29ab
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d4370f7ce5fc215d18b0940d3dbc2edc221af536
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119007272"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173208"
 ---
 # <a name="extendedpropertiescount-property"></a>Расширенных свойств. Count, свойство
 
@@ -39,7 +39,7 @@ ExtendedProperties.Count As Long
 
 Число объектов [**ExtendedProperty**](extendedproperty.md) в коллекции.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

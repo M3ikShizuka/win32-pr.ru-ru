@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 6c7c3d6698bd97429c1871b17f06f9e49f711355
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104258828"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170659"
 ---
 # <a name="starting-an-executable-weekly"></a>Запуск исполняемого файла еженедельно
 
@@ -23,22 +23,22 @@ ms.locfileid: "104258828"
 
 ## <a name="weekly-trigger-examples"></a>Примеры еженедельных триггеров
 
-В следующих примерах показано, как создавать задачи, запускаемые в блокноте еженедельно.
+в следующих примерах показано, как создавать задачи, запускаемые Блокнот еженедельно.
 
 -   [Пример еженедельного триггера (скрипт)](weekly-trigger-example--scripting-.md)
 -   [Пример еженедельного триггера (C++)](weekly-trigger-example--c---.md)
 -   [Пример еженедельного триггера (XML)](weekly-trigger-example--xml-.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Использование планировщик задач](using-the-task-scheduler.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

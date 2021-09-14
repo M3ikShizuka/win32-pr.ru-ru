@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: d70c6410d0ecb8edb91aa722bcf6f35cb9536c3ed2b7f03c2d5cb141937aeb69
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ef4ffe89a4b726ecfa33fb95d213d809cae2487b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118897813"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170855"
 ---
 # <a name="storeopen-method"></a>Метод Store. Open
 
@@ -150,7 +150,7 @@ Store.Open( _
 
 <dl> <dt>
 
-[**Сообщений**](store.md)
+[**Хранение**](store.md)
 </dt> <dt>
 
 [**Криптографические объекты**](cryptography-objects.md)

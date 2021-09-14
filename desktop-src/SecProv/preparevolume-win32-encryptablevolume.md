@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Root\CIMV2\Security\MicrosoftVolumeEncryption
-ms.openlocfilehash: 67b36703883825d4144037c54ffb55c00308ed1cfb8ee3e4b074d75d63bf7390
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 918e4289f8f2c38af2a4a51bfe92f82a74b30b22
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118891550"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173096"
 ---
 # <a name="preparevolume-method-of-the-win32_encryptablevolume-class"></a>Метод Препареволуме \_ класса Win32 енкриптаблеволуме
 
@@ -47,7 +47,7 @@ uint32 PrepareVolume(
 | Значение               | Значение                                                            |
 |---------------------|--------------------------------------------------------------------|
 | **&lt;None&gt;**    | Нет тома обнаружения. Это значение создает собственный том BitLocker. |
-| **&lt;default&gt;** | Это значение является поведением по умолчанию.                                |
+| **&lt;значение по умолчанию&gt;** | Это значение является поведением по умолчанию.                                |
 | **FAT32**           | Это значение создает том обнаружения FAT32.                       |
 
 </dd> <dt>

@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c921eb977597147713f1251b94bb36ed3aa5678bde1e27881af4dc930dd957fb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 398a027d28970b28b4a1e7db37b5fbfee06e881e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117755790"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170604"
 ---
 # <a name="tsgstoreadminmsg-method-of-the-win32_tsgatewayserversettings-class"></a>Метод Тсгстореадминмсг \_ класса Win32 тсгатевайсерверсеттингс
 
