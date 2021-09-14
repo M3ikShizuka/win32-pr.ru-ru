@@ -4,12 +4,12 @@ ms.assetid: B2FA1151-08D3-46F9-A38D-AC8908EFA6A2
 title: Атрибут MF_TOPONODE_WORKQUEUE_ITEM_PRIORITY (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1ff67e48bda6ac00baeab9418b80d366c23808713b4689a013949b364f09b6e0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ec5f7df6630e41a32eeb069c2a07b8030da79929
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118739838"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363900"
 ---
 # <a name="mf_toponode_workqueue_item_priority-attribute"></a>\_ \_ \_ Атрибут приоритета элемента MF топоноде ворккуеуе \_
 
@@ -27,7 +27,7 @@ ms.locfileid: "118739838"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -35,7 +35,7 @@ ms.locfileid: "118739838"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                         |
 | Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                               |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 

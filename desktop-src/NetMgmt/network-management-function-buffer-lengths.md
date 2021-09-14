@@ -4,12 +4,12 @@ description: В этом разделе обсуждаются требован�
 ms.assetid: 08599966-68a1-420b-bbc7-6daac833d08f
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 858b01de7b0b4cecb9eaea9f93bb541cb95fe9b394e74616427910abe3b33403
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a5003f739d235a099adb9f4f403c15c67bd9169e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119911744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127245422"
 ---
 # <a name="network-management-function-buffer-lengths"></a>Длина буфера функции управления сетью
 

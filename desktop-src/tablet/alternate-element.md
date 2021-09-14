@@ -1,15 +1,15 @@
 ---
 description: Содержит альтернативный вариант распознавания для Инкворд. Альтернативные варианты упорядочены по достоверности распознавателя в альтернативном порядке.
 ms.assetid: 6ec78ac9-c10c-4227-bead-5ddfc48ce27e
-title: Альтернативный элемент (Вингди. h)
+title: Элемент Alternate (Wingdi.h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 306371c1f2eff41629c115261fecb0d807652a598458be79bbabf8d7c7cc7587
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 55dfb629aadea988a6aeec1cba1020c8ab47c994
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119884023"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247882"
 ---
 # <a name="alternate-element"></a>Альтернативный элемент
 
@@ -47,7 +47,7 @@ ms.locfileid: "119884023"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

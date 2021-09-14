@@ -15,12 +15,12 @@ keywords:
 - интерфейсы, Ивалуепровидер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 28b30d8c84bc5f998d55ee17d7699bb37f33b7e19c52a2694578c3d11ef1d888
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 40633a21fdd6b59a2aa35c34258037582a647f05
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119997813"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342763"
 ---
 # <a name="value-control-pattern"></a>Шаблон элемента управления Value
 
@@ -59,9 +59,9 @@ ms.locfileid: "119997813"
 
 | Обязательные члены                                       | Тип члена | Примечания |
 |--------------------------------------------------------|-------------|-------|
-| [**IsReadOnly**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ivalueprovider-get_isreadonly) | Свойство    | Нет  |
-| [**Значение**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ivalueprovider-get_value)           | Свойство    | Нет  |
-| [**SetValue**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ivalueprovider-setvalue)     | Метод      | Нет  |
+| [**IsReadOnly**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ivalueprovider-get_isreadonly) | Свойство.    | None  |
+| [**Значение**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ivalueprovider-get_value)           | Свойство.    | None  |
+| [**SetValue**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ivalueprovider-setvalue)     | Метод      | None  |
 
 
 

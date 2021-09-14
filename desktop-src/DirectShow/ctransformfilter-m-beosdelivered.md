@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 38d27fabb9dd3ed2a37ed5d836bfdfb1036f4255e6af48580ab6e0678abad74b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f24b87f9808c53b5f64f66031a8ee2a4e9449089
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118655108"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246673"
 ---
 # <a name="ctransformfilterm_beosdelivered-member"></a>Элемент Ктрансформфилтер:: m \_ беосделиверед
 

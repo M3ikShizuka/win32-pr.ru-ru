@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - PortableDevice.h
-ms.openlocfilehash: 3c2bc25fdbc040bd849d60f1e16e5d86d1916ced17eb6670ceb3bc6a75108772
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1746ab6a798c74974708ac10b9c4d137bf6c1d42
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118696487"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247039"
 ---
 # <a name="wpd_operation_states-enumeration"></a>\_ \_ Перечисление состояний операций WPD
 

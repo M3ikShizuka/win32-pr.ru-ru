@@ -1,5 +1,5 @@
 ---
-title: О вводе с клавиатуры
+title: Сведения о вводе с клавиатуры
 description: В этом разделе рассматривается ввод с клавиатуры.
 ms.assetid: de34727e-e8c7-481d-982d-0e42a02704db
 keywords:
@@ -16,14 +16,14 @@ keywords:
 - сообщения недоставленных символов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: eec8c9bf3c200ecf24ba3c114807a2bc6db1e0fbee44ef9c7a884c7059759fd8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0de85794901be3fef37156bde29520039f85702b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118482946"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248653"
 ---
-# <a name="about-keyboard-input"></a>О вводе с клавиатуры
+# <a name="about-keyboard-input"></a>Сведения о вводе с клавиатуры
 
 Приложения должны принимать ввод пользователя с клавиатуры и с помощью мыши. Приложение получает ввод с клавиатуры в форме сообщений, размещенных в своих окнах.
 

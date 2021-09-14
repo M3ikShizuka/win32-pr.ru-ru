@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: e48ab32894ad1bf4c2f992ab4fff5953b3d98de4afd5e044de0119e056ee8133
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d4b0a34eb5b4c3ab20a57a5089de1d6d1ebbdf51
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118295184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345963"
 ---
 # <a name="id3dxinclude-interface"></a>Интерфейс ID3DXInclude
 
@@ -43,8 +43,8 @@ ID3DXInclude — это реализованный пользователем и
 
 | Метод                               | Описание                                                                                           |
 |:-------------------------------------|:------------------------------------------------------------------------------------------------------|
-| [**Закрыть**](id3dxinclude--close.md) | Реализованный пользователем метод для закрытия файла включения шейдера \# .<br/>                             |
-| [**Открыт**](id3dxinclude--open.md)   | Реализованный пользователем метод для открытия и чтения содержимого \# включаемого файла шейдера.<br/> |
+| [**Выхода**](id3dxinclude--close.md) | Реализованный пользователем метод для закрытия файла включения шейдера \# .<br/>                             |
+| [**Открыть**](id3dxinclude--open.md)   | Реализованный пользователем метод для открытия и чтения содержимого \# включаемого файла шейдера.<br/> |
 
 
 

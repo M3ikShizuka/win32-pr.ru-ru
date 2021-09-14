@@ -25,12 +25,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 66a01437e1e05ebc25a6b246e93785cf3cd6616049b3d08f9d0ab9e56b2d43c1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ed7313f66bd25653a66ebd8567a21c0ad5431ec7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117702829"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248719"
 ---
 # <a name="stringcolumnvaluelength-property"></a>Стрингколумнвалуе. length, свойство
 
@@ -60,9 +60,9 @@ public override int Length { get; }
 
 Тип: [System. Int32](/dotnet/api/system.int32)  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Стрингколумнвалуе](./stringcolumnvalue-class.md)
 

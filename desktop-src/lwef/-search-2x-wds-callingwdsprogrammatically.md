@@ -4,12 +4,12 @@ description: Microsoft Windows Desktop Search (WDS) 2. x можно запраш
 ms.assetid: 38426f63-2039-410e-8c70-ebd9fc269d74
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b8879001bcf284affd03ff472ac9327445b799acd44465b5bae9a8cb2d819b7d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0dc76264b7939311273fbda334292dfb255cde8f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118976904"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342379"
 ---
 # <a name="calling-wds-programmatically"></a>Программный вызов WDS
 
@@ -42,7 +42,7 @@ Microsoft Windows Desktop Search (WDS) 2. x можно запрашивать п
 
 ## <a name="sql-queries"></a>Запросы SQL
 
-Метод **ISearchDesktop.Exeкутесклкуери** используется для отправки прямых запросов к базе данных WDS. синтаксис для запросов подобен тому, который использовался для SharePoint Server, а также возможность использовать предложения GROUP BY в стиле монарх SQL. Запрос выполняется для индекса точно так же, как он передается без дополнительной обработки расширенного синтаксиса запросов, как это делает API ExecuteQuery.
+Метод **исеарчдесктоп. ексекутесклкуери** используется для отправки прямых запросов к базе данных WDS. синтаксис для запросов подобен тому, который использовался для SharePoint Server, а также возможность использовать предложения GROUP BY в стиле монарх SQL. Запрос выполняется для индекса точно так же, как он передается без дополнительной обработки расширенного синтаксиса запросов, как это делает API ExecuteQuery.
 
 https://msdn.microsoft.com/library/default.asp?url=/library/spssdk/html/\_tahoe\_search\_sql\_syntax.asp
 
@@ -72,7 +72,7 @@ https://msdn.microsoft.com/library/default.asp?url=/library/spssdk/html/\_tahoe\
 >
 > ЭТОТ КОД И ИНФОРМАЦИЯ ПРЕДОСТАВЛЯЮТСЯ "КАК ЕСТЬ" БЕЗ КАКИХ-ЛИБО ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ ГАРАНТИЙ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ ПОДРАЗУМЕВАЕМЫМИ ГАРАНТИЯМИ ПРИГОДНОСТИ И (ИЛИ) ПРИГОДНОСТИ ДЛЯ КОНКРЕТНОЙ ЦЕЛИ.
 >
-> (C) корпорация Майкрософт (Microsoft Corporation). All rights reserved.
+> (C) корпорация Майкрософт (Microsoft Corporation). Все права защищены.
 
  
 

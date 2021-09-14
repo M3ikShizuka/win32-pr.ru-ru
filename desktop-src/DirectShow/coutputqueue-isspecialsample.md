@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: c192196869f86e8d78da2f6b38a661373e115753d99e554f4b7a868eb0b484fc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cc57847d6a977c740bbf50bae220a89b0ed6fab1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119688224"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246766"
 ---
 # <a name="coutputqueueisspecialsample-method"></a>Каутпуткуеуе. ИсспеЦиалсампле, метод
 
@@ -57,7 +57,7 @@ BOOL IsSpecialSample(
 
 Метод [**каутпуткуеуе:: QueueSample**](coutputqueue-queuesample.md) может получать управляющие сообщения в дополнение к примерам мультимедиа. Управляющее сообщение — это определенная константа (приведение к \_ типу Long PTR), которая указывает потоку выполнить действие. Управляющие сообщения не содержат данных мультимедиа. Дополнительные сведения см. в разделе **каутпуткуеуе:: QueueSample**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ BOOL IsSpecialSample(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: асинхронные и синхронные служба хра�
 ms.assetid: de8c50f8-1733-439f-ab53-f98ac21a1fae
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1a5662f5d9291de19fb39f044731ed72fd1db2cb04fe29d76eb785981ddeb8a9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 884b8613bebf8ef401f76e4761f48fa0ddd831c2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120071094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346007"
 ---
 # <a name="asynchronous-and-synchronous-storage"></a>асинхронные и синхронные служба хранилища
 

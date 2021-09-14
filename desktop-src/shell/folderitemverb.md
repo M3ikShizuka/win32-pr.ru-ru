@@ -13,12 +13,12 @@ api_type:
 api_location:
 - Shell32.dll
 ms.assetid: 22f52e3f-875e-4dde-8875-3228639bc7f1
-ms.openlocfilehash: 4f6eb78486516448c65ecbd67b88249251c4d215b65df6f1c6af2e8af003c7c2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 167fe7b48d68622b108aeb0caf0302c0cabce9f6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119032582"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363093"
 ---
 # <a name="folderitemverb-object"></a>Объект Фолдеритемверб
 
@@ -45,23 +45,23 @@ ms.locfileid: "119032582"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Объект **фолдеритемверб** имеет следующие свойства.
 
 
 
-| Свойство                                                     | Тип доступа          | Описание                          |
+| Свойство.                                                     | Тип доступа          | Описание                          |
 |:-------------------------------------------------------------|:---------------------|:-------------------------------------|
 | [**Приложение**](folderitemverb-application.md)<br/> | Только для чтения<br/> | Не реализован.<br/>          |
-| [**Имя**](folderitemverb-name.md)<br/>               | Только для чтения<br/> | Содержит имя команды.<br/> |
+| [**Безымян**](folderitemverb-name.md)<br/>               | Только для чтения<br/> | Содержит имя команды.<br/> |
 | [**Parent**](folderitemverb-parent.md)<br/>           | Только для чтения<br/> | Не реализован.<br/>          |
 
 
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

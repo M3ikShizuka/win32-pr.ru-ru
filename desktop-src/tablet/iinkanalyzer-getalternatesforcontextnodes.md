@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - IACom.dll
-ms.openlocfilehash: bc282906bae70a28f612a8c1fd0a5a67ea1343c73f5ededf0d6c85a8bfd60aa0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 71c53e4a8e0989d836d63db5c5cae8c89d56fcf8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119939863"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344259"
 ---
 # <a name="iinkanalyzergetalternatesforcontextnodes-method"></a>Метод Иинканализер:: Жеталтернатесфорконтекстнодес
 
@@ -79,7 +79,7 @@ Top [**ианалисисалтернате**](ianalysisalternate.md) возвр
 
 Для каждой подсказки по анализу в узлах [**иинканализер**](iinkanalyzer.md) возвращает только верхний альтернативный вариант.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -92,7 +92,7 @@ Top [**ианалисисалтернате**](ianalysisalternate.md) возвр
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

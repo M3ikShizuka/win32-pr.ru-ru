@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - dvdevcode.h
-ms.openlocfilehash: f990e8441cd6585d30a9876204f07099345f22f49895d4d429655405d498ed63
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f6e1dbcbcb285f33b6ea2b99c59c5c82dae0ae03
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120102934"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246562"
 ---
 # <a name="ec_dvd_parental_level_change"></a>\_изменение на \_ уровне родительского DVD-диска EC \_ \_
 
@@ -46,7 +46,7 @@ ms.locfileid: "120102934"
 
 Фильтр " [Навигатор DVD](dvd-navigator-filter.md) " не поддерживает изменения родительского уровня во время потоковой передачи в ответ на команды сеттмппмл на DVD-диске.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -56,7 +56,7 @@ ms.locfileid: "120102934"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

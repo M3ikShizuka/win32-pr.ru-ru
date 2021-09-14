@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: cfa809585bf4f1d61b0e2a136fb561af287d817e1f6c77480c9590ab663c6eb9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 830de4661c482aa2571af378db064e2c196cc77b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119968364"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248854"
 ---
 # <a name="jet_columnlistcolumnidgrbit-property"></a>Свойство JET_COLUMNLIST. колумнидгрбит
 
@@ -62,9 +62,9 @@ public JET_COLUMNID columnidgrbit { get; internal set; }
 
 Тип: [Microsoft.ISAM.ESENT.Interop.JET_COLUMNID](./jet-columnid-structure.md)  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс JET_COLUMNLIST](./jet-columnlist-class.md)
 

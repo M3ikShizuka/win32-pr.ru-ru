@@ -16,11 +16,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 07b8d87fbf7e8b2d1d46acf55fe96bfdfef472b4
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "105700923"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344083"
 ---
 # <a name="iconfigasfwriterconfigurefilterusingprofile-method"></a>Метод Иконфигасфвритер:: Конфигурефилтерусингпрофиле
 
@@ -64,9 +64,9 @@ HRESULT ConfigureFilterUsingProfile(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-В случае успеха этот метод приведет к отправке приложению события **\_ \_ изменения в диаграмме EC** . Этот метод используется для настройки модуля записи с помощью настраиваемого профиля серии Windows Media 9, созданного (или загруженного из существующего пркс-файла) с использованием методов пакета SDK формата Windows Media.
+В случае успеха этот метод приведет к отправке приложению события **\_ \_ изменения в диаграмме EC** . этот метод используется для настройки модуля записи с помощью настраиваемого профиля ряда Windows Media 9, созданного (или загруженного из существующего пркс-файла) с помощью методов пакета SDK Windowsного формата мультимедиа.
 
 ## <a name="see-also"></a>См. также раздел
 

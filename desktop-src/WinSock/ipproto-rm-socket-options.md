@@ -4,12 +4,12 @@ ms.assetid: cb99960e-428b-4ef1-a6a5-e4bdb497c771
 title: Параметры сокета IPPROTO_RM (ДСР. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ec1710b1135d2c645f5ff55de12b2feb2d62cfbe2b257e3f28367a66a81d5171
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2144efec9b0a92c1da3f612e707bcb44366a38c1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119051492"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342327"
 ---
 # <a name="ipproto_rm-socket-options"></a>\_Параметры сокета иппрото RM
 
@@ -76,7 +76,7 @@ ms.locfileid: "119051492"
 
 **Иппрото \_ RM** или константа **\_ PGM иппрото** можно использовать, чтобы указать параметр *протокола* для функции [**сокета**](/windows/desktop/api/Winsock2/nf-winsock2-socket) , чтобы использовать параметры сокета RM. в пакете Microsoft Windows Software Development Kit (SDK), выпущенном для Windows Vista и более поздних версий, константа **\_ PGM иппрото** определяется в файле заголовка *Ws2def. h* тем же значением, что и константа **иппрото \_ RM** , определенная в файле заголовка *Wsrm. h* .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

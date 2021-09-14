@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b7979d82363b21b58563a606c31a99d069a60a3bc5b2da162a7339513c2867bd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 79212d19d7dbf4a66e2b72dcbdeba9262a9aeddd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119084711"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247273"
 ---
 # <a name="iwmdrmnonsilentlicenseaquisitiongeturl-method"></a>Метод Ивмдрмнонсилентлиценсеакуиситион:: GetURL
 

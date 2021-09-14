@@ -14,12 +14,12 @@ api_type:
 api_location:
 - PortableDeviceGUIDs.lib
 - PortableDeviceGUIDs.dll
-ms.openlocfilehash: d0ca7f2350fee8ba5d7cea85eb19c874eb5893f86f0e17fa1b4f0e97087e7c34
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7deb73d10f2e2daa5d06d6cb4394c43778af2ad4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120055194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344643"
 ---
 # <a name="iportabledevicevaluesgetiportabledevicepropvariantcollectionvalue-method"></a>Метод Ипортабледевицевалуес:: Жетипортабледевицепропвариантколлектионвалуе
 
@@ -71,7 +71,7 @@ HRESULT GetIPortableDevicePropVariantCollectionValue(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -82,7 +82,7 @@ HRESULT GetIPortableDevicePropVariantCollectionValue(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

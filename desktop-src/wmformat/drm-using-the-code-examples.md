@@ -12,12 +12,12 @@ keywords:
 - DRM (Управление цифровыми правами), пример кода
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3e14ef7e1d003dec8270bb4cfb63d5b4ead7f11751eb94dd09cd771ebd34b3ce
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 054d1ed804873c8aca104203ee1f235ecb3856f5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118704217"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247342"
 ---
 # <a name="using-the-microsoft-windows-media-drm-client-code-examples"></a>примеры кода клиента DRM Microsoft Windows Media
 

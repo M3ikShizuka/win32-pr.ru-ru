@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 35e41f1dfdc24af9a2442796461e987567e794b592d7428ce9bfcd44707f5b2f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0824d46f488625f57e30577801e31a39a8838db1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118775576"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342831"
 ---
 # <a name="esentmultivaluedcolumnmustbetaggedexception-constructor"></a>Конструктор Есентмултивалуедколумнмустбетагжедексцептион
 

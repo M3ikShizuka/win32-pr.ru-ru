@@ -5,11 +5,11 @@ ms.assetid: ddcf3669-4ad0-4a4e-80a6-eb78058cff09
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 57b692502ba44519a2c51a661ef62a51e133ac04
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369510"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343954"
 ---
 # <a name="item-monikers"></a>Моникеры элементов
 
@@ -25,7 +25,7 @@ ms.locfileid: "124369510"
 
 Чтобы создать объект моникера элемента и вернуть его указатель на поставщика моникера, OLE предоставляет вспомогательную функцию [**креатеитеммоникер**](/windows/desktop/api/Objbase/nf-objbase-createitemmoniker). Эта функция создает объект моникера элемента и возвращает его указатель на поставщик.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

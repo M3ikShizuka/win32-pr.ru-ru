@@ -3,9 +3,9 @@ title: Событие Player. MouseDown
 description: Событие MouseDown возникает, когда пользователь нажимает кнопку мыши. | Событие Player. MouseDown
 ms.assetid: cc2fd2ca-c974-4683-98ca-2202c4d5b240
 keywords:
-- Кнопка MouseDown Windows Media Player
-- Кнопка MouseDown проигрыватель Windows Media Player, класс Player
-- Класс проигрывателя Windows Media Player, событие MouseDown
+- проигрыватель Windows Media события MouseDown
+- проигрыватель Windows Media событий MouseDown, класс Player
+- класс Player проигрыватель Windows Media, событие MouseDown
 topic_type:
 - apiref
 api_name:
@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 29eb0c8aa5f6731f94d0e4c3b4ff967cb7819f42
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105704457"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344599"
 ---
 # <a name="playermousedown-event"></a>Событие Player. MouseDown
 
@@ -79,9 +79,9 @@ Player.MouseDown(
 
 ## <a name="remarks"></a>Комментарии
 
-Значение параметров события указывается проигрывателем Windows Media, доступ к которому можно получить или передать в метод в импортированном файле JScript с использованием имени параметра. Имя этого параметра должно быть введено в точности так, как показано, включая прописные буквы.
+значение параметров события задается проигрыватель Windows Media, и к нему можно получить доступ или передать в метод в импортированном JScriptном файле, используя имя параметра. Имя этого параметра должно быть введено в точности так, как показано, включая прописные буквы.
 
-**Проигрыватель Windows Media 10 Mobile:** Это событие не поддерживается.
+**проигрыватель Windows Media 10 Mobile:** Это событие не поддерживается.
 
 ## <a name="requirements"></a>Требования
 
@@ -89,7 +89,7 @@ Player.MouseDown(
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media 9 Series или более поздней версии.<br/>                                 |
+| Версия<br/> | проигрыватель Windows Media 9 Series или более поздней версии.<br/>                                 |
 | DLL<br/>     | <dl> <dt>Wmp.dll</dt> </dl> |
 
 

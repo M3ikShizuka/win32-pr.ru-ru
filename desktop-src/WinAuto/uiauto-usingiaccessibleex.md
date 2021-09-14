@@ -17,12 +17,12 @@ keywords:
 - Реализация IAccessibleEx
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9bb313205a69f6b69d07a377b006365837ee2a1410c51962000ea4ccff8b9037
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5f45311deb8d3ec20fb8102285cddea1339373f0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118823899"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342702"
 ---
 # <a name="adding-ui-automation-functionality-to-active-accessibility-servers"></a>Добавление функций автоматизации пользовательского интерфейса на серверы Active Accessibility
 

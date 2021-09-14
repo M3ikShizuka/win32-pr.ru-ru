@@ -9,12 +9,12 @@ api_type: ''
 api_location: ''
 topic_type:
 - kbArticle
-ms.openlocfilehash: 0e6cdc5df1d8ba07664f1ca06114dbf138d7a7e7dde7b78cb588d4c446072a3c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0dab735425c800e143bc2808b247fa89d1c23094
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117858476"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248041"
 ---
 # <a name="common-file-dialog-modes-sample"></a>Пример: режимы стандартного диалогового окна выбора файла
 
@@ -22,7 +22,7 @@ ms.locfileid: "117858476"
 
 В этом разделе содержатся следующие подразделы.
 
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Загрузка образца](#downloading-the-sample)
 -   [Создание примера](#building-the-sample)
 -   [Запуск примера](#running-the-sample)

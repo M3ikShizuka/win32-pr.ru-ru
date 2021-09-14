@@ -4,12 +4,12 @@ ms.assetid: ff345670-5a75-40d3-a228-8bc22aa76708
 title: О фильтре записи звука
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9127cd0e93e7b5aed09674474d502f16c47f03e3317e437fdea9c4f7b2d3d8b2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cf5e28bef37ca52f0a33fc95b6d2a387cbbe2fb3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118002435"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162459"
 ---
 # <a name="about-the-audio-capture-filter"></a>О фильтре записи звука
 

@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: f43b10805f98e12796cbc192d925d2c53ae0dae4b6a32366d10263e71d624e3a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c7bf8da47b64ea65965d02d99f15ab181c5bafcc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118494829"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342619"
 ---
 # <a name="esentinternalerrorexception-class"></a>Класс Есентинтерналеррорексцептион
 
@@ -69,7 +69,7 @@ public sealed class EsentInternalErrorException : EsentOperationException
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Элементы Есентинтерналеррорексцептион](./esentinternalerrorexception-members.md)
 

@@ -4,12 +4,12 @@ ms.assetid: e16e8187-75b6-4104-a53c-928a56fcee6b
 title: Ограниченные открытые свойства
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: af09200f10261e50564ae79dbad961474d23d8a6354cee7344aa107c8b73fb57
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 0e4f08be7f625cd45cdb48373eb0107ade708949
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119979304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246385"
 ---
 # <a name="restricted-public-properties"></a>Ограниченные открытые свойства
 
@@ -38,13 +38,13 @@ ms.locfileid: "119979304"
 -   [**мсиинстанцегуид**](msiinstanceguid.md)
 -   [**мсиневинстанце**](msinewinstance.md)
 -   [**мсипатчремове**](msipatchremove.md)
--   [**ЗАЩИТЫ**](patch.md)
+-   [**PATCH**](patch.md)
 -   [**примарифолдер**](primaryfolder.md)
 -   [**промптроллбакккост**](promptrollbackcost.md)
 -   [**ОБНОВИТ**](reboot.md)
 -   [**КАКОМУ**](reinstall.md)
 -   [**REINSTALLMODE**](reinstallmode.md)
--   [**ВЫХОД**](resume.md)
+-   [**RESUME**](resume.md)
 -   [**ВИРТУАЛИЗИРОВАН**](sequence.md)
 -   [**шортфиленамес**](shortfilenames.md)
 -   [**ПРЕОБРАЗОВАНИЯ**](transforms.md)

@@ -4,12 +4,12 @@ ms.assetid: 64d32c78-8bee-4d3c-a770-5a097cb71b13
 title: Атрибут MFT_SUPPORT_DYNAMIC_FORMAT_CHANGE (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3286d9bfd2185006975cf128cc60f2b774eba6ba74229b3e290c743c4cde3930
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d8224e9b7f0f05f430afac464e61900c7ce879fd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120012614"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363745"
 ---
 # <a name="mft_support_dynamic_format_change-attribute"></a>Основная таблица MFT \_ поддерживает \_ \_ \_ атрибут изменения динамического формата
 
@@ -46,7 +46,7 @@ ms.locfileid: "120012614"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -58,7 +58,7 @@ ms.locfileid: "120012614"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

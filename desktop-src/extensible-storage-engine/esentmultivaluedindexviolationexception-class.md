@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 13a49ebdc4036ec4d263304a918de63c3d4a33a1bc54f94bb58630e49333520c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cafb4ce44f3b0600997e9d715f882e95869f65b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118264021"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249001"
 ---
 # <a name="esentmultivaluedindexviolationexception-class"></a>Класс Есентмултивалуединдексвиолатионексцептион
 
@@ -70,7 +70,7 @@ public sealed class EsentMultiValuedIndexViolationException : EsentUsageExceptio
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Элементы Есентмултивалуединдексвиолатионексцептион](./esentmultivaluedindexviolationexception-members.md)
 

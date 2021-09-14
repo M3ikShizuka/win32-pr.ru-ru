@@ -5,11 +5,11 @@ title: Фильтр видеодекодера DV
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: b12aead5f8238064198c31566a1e2ca1fde75931
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122984297"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246610"
 ---
 # <a name="dv-video-decoder-filter"></a>Фильтр видеодекодера DV
 
@@ -18,7 +18,7 @@ ms.locfileid: "122984297"
 
 
 
-| Метка | Применение |
+| Метка | Значение |
 |--------|-------|
 | Интерфейсы фильтра | <a href="/windows/desktop/api/Strmif/nn-strmif-ibasefilter"><strong>Ибасефилтер</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-idvrgb219"><strong>IDVRGB219</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-iipdvdec"><strong>иипдвдек</strong></a>, <strong>IPersistStream</strong>, <strong>испеЦифипропертипажес</strong> | 
 | Типы носителей входных закрепления | <ul><li>MEDIATYPE_Video</li><li>MEDIASUBTYPE_dvsd</li><li>FORMAT_VideoInfo, FORMAT_DvInfo</li></ul> | 
@@ -36,7 +36,7 @@ ms.locfileid: "122984297"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Используйте интерфейс [**иипдвдек**](/windows/desktop/api/Strmif/nn-strmif-iipdvdec) , чтобы задать разрешение декодирования: полный, половинный размер, квартал или один восьмой размер.
 

@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 614a15c565d3a62b08af944b1667253c472476cc758bef68824507d6fcb0ee5f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 15d44e4563f9600c75245667843380c8cfe5ed8f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118284645"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342894"
 ---
 # <a name="texturecubearraygathercmpgreensfloatfloatuint-function"></a>Функция Текстурекубеаррай:: Гасеркмпгрин (S, float, float, uint)
 

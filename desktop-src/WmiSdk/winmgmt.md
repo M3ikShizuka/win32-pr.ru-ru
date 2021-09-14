@@ -14,11 +14,11 @@ api_type:
 - NA
 api_location: ''
 ms.openlocfilehash: d28d37faf454accd91281034d0aeb8df5e10dddb
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122879865"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342675"
 ---
 # <a name="winmgmt"></a>инициирует
 

@@ -13,12 +13,12 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 5f6838b3c2ee845794bfa506beada2b7092f1bb918438f820f0e77d6b6543dc1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5cf95a7576c15ab1c3e64ebe55e244feffa6d86d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120111174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343583"
 ---
 # <a name="sfvm_mergemenu-message"></a>\_Сообщение сфвм мержемену
 
@@ -46,7 +46,7 @@ SFVM_MERGEMENU
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это сообщение, по сути, такое же самое, что и [**ишеллбровсер:: инсертменуссб**](/windows/win32/api/shobjidl_core/nf-shobjidl_core-ishellbrowser-insertmenussb) и [**Ишеллбровсер:: сетменусб**](/windows/win32/api/shobjidl_core/nf-shobjidl_core-ishellbrowser-setmenusb) в представлении пользовательской папки. см. раздел *использование ишеллбровсер для взаимодействия с обозревателем Windows в* разделе [реализация представления папки](../lwef/nse-folderview.md) для дальнейшего обсуждения.
 

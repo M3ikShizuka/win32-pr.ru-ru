@@ -15,12 +15,12 @@ api_type:
 api_location:
 - InkObj.dll
 - InkObj.dll.dll
-ms.openlocfilehash: d1a818c1fef9006abad2dd31da5a41f43aeb3df9a9b75d348d8987938abfcea6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bfcc6cc4daedf0ed1bbc43e2ccc78317f9d7e17c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118967123"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344822"
 ---
 # <a name="inkoverlay-class"></a>Класс InkOverlay
 
@@ -49,7 +49,7 @@ ms.locfileid: "118967123"
 | [**курсоринранже**](inkcollector-cursorinrange.md)       | Происходит при входе курсора в диапазон физического обнаружения (близость) контекста планшета.<br/>                                                                                                                                                    |
 | [**курсораутофранже**](inkcollector-cursoroutofrange.md) | Происходит, когда курсор покидает диапазон физического обнаружения (близость) контекста планшета.<br/>                                                                                                                                                  |
 | [**DoubleClick**](inkcollector-doubleclick.md)           | Происходит при двойном щелчке объекта **InkOverlay** .<br/>                                                                                                                                                                                       |
-| [**жесты**](inkcollector-gesture.md)                   | Происходит при распознавании жеста конкретного приложения.<br/>                                                                                                                                                                                     |
+| [**Жест**](inkcollector-gesture.md)                   | Происходит при распознавании жеста конкретного приложения.<br/>                                                                                                                                                                                     |
 | [**Вниз**](inkcollector-mousedown.md)               | Происходит при нажатии кнопки мыши, когда указатель мыши находится над объектом **InkOverlay** .<br/>                                                                                                                                                 |
 | [**Событие**](inkcollector-mousemove.md)               | Происходит при перемещении указателя мыши над объектом **InkOverlay** .<br/>                                                                                                                                                                         |
 | [**Кнопка**](inkcollector-mouseup.md)                   | Происходит при отпускании кнопки мыши, когда указатель мыши находится над объектом **InkOverlay** .<br/>                                                                                                                                                |
@@ -129,7 +129,7 @@ ms.locfileid: "118967123"
 | [**десиредпаккетдескриптион**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkcollector-get_desiredpacketdescription)<br/>           | Чтение/запись<br/> | Возвращает или задает интерес к аспектам пакета, связанного с рукописным вводом объекта **InkOverlay** .<br/>                                                                            |
 | [**динамикрендеринг**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkoverlay-get_dynamicrendering)<br/>                             | Чтение/запись<br/> | Возвращает или задает значение, указывающее, отображается ли рукописный ввод при прорисовке.<br/>                                                                                                       |
 | [**EditingMode**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkoverlay-get_editingmode)<br/>                                       | Чтение/запись<br/> | Возвращает или задает значение, указывающее, находится ли **InkOverlay** в режиме рукописного ввода, режиме удаления или в режиме выбора/правки.<br/>                                                          |
-| [**Включен**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkcollector-get_enabled)<br/>                                             | Чтение/запись<br/> | Возвращает или задает значение, указывающее, собирает ли объект **InkOverlay** входные данные пера.<br/>                                                                                         |
+| [**Enabled**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkcollector-get_enabled)<br/>                                             | Чтение/запись<br/> | Возвращает или задает значение, указывающее, собирает ли объект **InkOverlay** входные данные пера.<br/>                                                                                         |
 | [**ерасермоде**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkoverlay-get_erasermode)<br/>                                         | Чтение/запись<br/> | Возвращает или задает значение, указывающее, удаляются ли рукописные данные по штрихам или по точкам.<br/>                                                                                                  |
 | [**ерасервидс**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkoverlay-get_eraserwidth)<br/>                                       | Чтение/запись<br/> | Возвращает или задает значение, указывающее ширину кончика пера ластика.<br/>                                                                                                              |
 | [**Справиться**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkcollector-get_hwnd)<br/>                                                 | Чтение/запись<br/> | Возвращает или задает маркер окна, к которому присоединен объект **InkOverlay** .<br/>                                                                                             |
@@ -164,7 +164,7 @@ BOOL CRecognitionAlternatesSampleCppView::OnWndMsg(UINT msg, WPARAM wp, PARAM lp
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Для создания экземпляра этого объекта можно вызвать метод [**CoCreateInstance**](/windows/desktop/api/combaseapi/nf-combaseapi-cocreateinstance) в C++.
 
@@ -200,7 +200,7 @@ BOOL CRecognitionAlternatesSampleCppView::OnWndMsg(UINT msg, WPARAM wp, PARAM lp
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -213,7 +213,7 @@ BOOL CRecognitionAlternatesSampleCppView::OnWndMsg(UINT msg, WPARAM wp, PARAM lp
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

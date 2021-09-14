@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: d1f2f434d0477aa4ca51e0ca29123c4e1c2724a52b87216c602285a3ff876fec
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b5f9130f2d0696b87f81b57c28b102ed73a70933
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119114984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248953"
 ---
 # <a name="esentslvpagesnotfreeexception-class"></a>Класс Есентслвпажеснотфриексцептион
 
@@ -68,7 +68,7 @@ public sealed class EsentSLVPagesNotFreeException : EsentObsoleteException
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Элементы Есентслвпажеснотфриексцептион](./esentslvpagesnotfreeexception-members.md)
 

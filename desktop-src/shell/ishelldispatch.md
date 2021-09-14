@@ -14,11 +14,11 @@ api_location:
 - Shell32.dll
 ms.assetid: 9B429C03-7F80-45db-B8CD-58D19FAD2E61
 ms.openlocfilehash: 322b912ad7332b0862309b0ecc1510adb3aa1a10
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122475300"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248074"
 ---
 # <a name="ishelldispatch-object"></a>Объект Ишеллдиспатч
 
@@ -60,7 +60,7 @@ ms.locfileid: "122475300"
 | <a href="ishelldispatch-refreshmenu.md"><strong>рефрешмену</strong></a> | Обновляет содержимое меню " <strong>Пуск</strong> ". используется только с системами, предшествующими Windows XP.<br /> | 
 | <a href="ishelldispatch-settime.md"><strong>SetTime</strong></a> | Отображает диалоговое окно <strong>Дата и время</strong> . Этот метод действует так же, как и щелчок правой кнопкой мыши по часам в области состояние панели задач и выбор параметра <strong>настроить дату и время</strong>.<br /> | 
 | <a href="ishelldispatch-shutdownwindows.md"><strong>шутдовнвиндовс</strong></a> | отображает диалоговое окно <strong>завершение работы Windows</strong> . Это то же самое, что и при нажатии кнопки « <strong>Пуск</strong> », и при выборе « <strong>Завершение работы</strong>».<br /> | 
-| <a href="ishelldispatch-suspend.md"><strong>Приостановить</strong></a> | < | 
+| <a href="ishelldispatch-suspend.md"><strong>Анализируем</strong></a> | < | 
 | <a href="ishelldispatch-tilehorizontally.md"><strong>тилехоризонталли</strong></a> | Мозаичное отображение всех окон на рабочем столе по горизонтали. Этот метод действует так же, как и щелчок правой кнопкой мыши панели задач и выбора пункта <strong>Показывать окна с накоплением</strong>.<br /> | 
 | <a href="ishelldispatch-tilevertically.md"><strong>тилевертикалли</strong></a> | Располагает все окна на рабочем столе по вертикали. Этот метод оказывает тот же результат, что и щелчок правой кнопкой мыши панели задач и выбора параметра <strong>Показывать окна рядом</strong>.<br /> | 
 | <a href="ishelldispatch-trayproperties.md"><strong>трайпропертиес</strong></a> | Отображает диалоговое окно <strong>Свойства панели задач и меню "Пуск</strong> ". Этот метод действует так же, как и щелчком правой кнопкой мыши панели задач и выбора <strong>свойств</strong>.<br /> | 
@@ -72,13 +72,13 @@ ms.locfileid: "122475300"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Объект **ишеллдиспатч** имеет следующие свойства.
 
 
 
-| Свойство                                                     | Тип доступа          | Описание                                                                      |
+| Свойство.                                                     | Тип доступа          | Описание                                                                      |
 |:-------------------------------------------------------------|:---------------------|:---------------------------------------------------------------------------------|
 | [**Приложение**](ishelldispatch-application.md)<br/> | Только для чтения<br/> | Содержит объект, представляющий приложение.<br/>                    |
 | [**Parent**](ishelldispatch-parent.md)<br/>           | Только для чтения<br/> | Извлекает объект, представляющий родителя текущего объекта.<br/> |
@@ -101,7 +101,7 @@ ms.locfileid: "122475300"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

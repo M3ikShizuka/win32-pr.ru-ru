@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - dvdevcode.h
-ms.openlocfilehash: 90683bfff2cc6d3bbdd09c6a51dd7febbb9516f81738c513d446264c2f1ffd0f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d41f691016c3e41cfc3e14ed1ce6fff276dcc70e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117820399"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246550"
 ---
 # <a name="ec_dvd_program_cell_change"></a>\_ \_ \_ изменение ячейки DVD в программе EC \_
 

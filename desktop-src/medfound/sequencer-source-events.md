@@ -5,11 +5,11 @@ title: События источника Sequencer
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: fdf97cc5ff25c8a5fc40fa4990bf38c652f94e63
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105673459"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363716"
 ---
 # <a name="sequencer-source-events"></a>События источника Sequencer
 
@@ -96,7 +96,7 @@ ms.locfileid: "105673459"
 
 Когда приложение вызывает [**Запуск**](/windows/desktop/api/mfidl/nf-mfidl-imfmediasession-start) для перехода к сегменту 3, источник Sequencer отменяет сегмент 1, который по-прежнему воспроизводится. Событие [миндофпресентатионсегмент](meendofpresentationsegment.md) для этого сегмента содержит атрибут " [**% \_ событий \_ \_ топологии источника \_ события MF**](mf-event-source-topology-canceled-attribute.md) ", указывающий, что сегмент завершился, так как он был отменен. Затем, поскольку сегмент 2 уже предварительно выполнил откат, этот сегмент запускается, но затем немедленно отменяется. Событие Миндофпресентатионсегмент для сегмента 2 также содержит атрибут "% событий", **\_ \_ \_ \_ отмененный топологией источника события MF** . Затем сеанс может переключиться на сегмент 3 и воспроизводить его в обычном режиме.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

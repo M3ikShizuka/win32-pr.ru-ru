@@ -5,12 +5,12 @@ ms.assetid: 8412D8BB-B6DD-471E-AAB2-A81121FB0FFA
 ms.localizationpriority: high
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 12a67c7e0cd3592d35af80f280fc9f1893f4741fcadcc73afd3753880bccda3a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 62816ea0d7d7969cd56e0a9f525b2c412c8da182
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118530232"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249178"
 ---
 # <a name="direct3d-11-on-12"></a>Direct3D 11 на 12
 
@@ -48,7 +48,7 @@ D3D11On12 — это механизм, с помощью которого раз
 -   Очистите немедленный контекст D3D11.
 -   Present ([**IDXGISwapChain1::P resent1**](/windows/desktop/api/dxgi1_2/nf-dxgi1_2-idxgiswapchain1-present1)).
 
-## <a name="background"></a>Историческая справка
+## <a name="background"></a>Фон
 
 D3D11On12 работает систематически. Каждый вызов API D3D11 проходит через типичную проверку среды выполнения и делает свой путь к драйверу. На уровне драйвера особый драйвер 11on12 записывает состояние и выдает операции визуализации в списки команд D3D12. При необходимости эти списки команд отправляются (например, запрос `GetData` или ресурс `Map` могут требовать сброса команд) или по запросу сброса. Создание объекта D3D11 обычно приводит к созданию соответствующего объекта D3D12. Некоторые операции визуализации с фиксированными функциями в D3D11 `GenerateMips` , такие как или `DrawAuto` , не поддерживаются в D3D12, поэтому D3D11On12 эмулирует их с помощью шейдеров и дополнительных ресурсов.
 

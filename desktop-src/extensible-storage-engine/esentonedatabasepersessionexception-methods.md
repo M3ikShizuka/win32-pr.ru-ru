@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55102413
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 22427d1dc9278a9ddf48dc4a950e5dc32b50877f6828a325eb3bd4e6b9524420
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d85b0323d622571a421f8242b6e8bef6272eac3a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118493993"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248980"
 ---
 # <a name="esentonedatabasepersessionexception-methods"></a>Методы EsentOneDatabasePerSessionException 
 
@@ -80,7 +80,7 @@ ms.locfileid: "118493993"
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Есентонедатабасеперсессионексцептион](./esentonedatabasepersessionexception-class.md)
 

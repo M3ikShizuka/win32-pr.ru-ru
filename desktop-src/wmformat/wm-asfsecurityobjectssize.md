@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 309261b7c8ad0c91a50fa1e0f292c6785d18cdd222c5e463eb62ae3728b39b93
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: de28f2169e5ac854163854ac95959d941100aaae
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119584594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247192"
 ---
 # <a name="wmasfsecurityobjectssize"></a>WM/Асфсекуритйобжектссизе
 
@@ -37,7 +37,7 @@ g \_ всзвмасфсекуритйобжектссизе
 
 Получить этот атрибут можно только с помощью методов интерфейса [**IWMHeaderInfo3**](/previous-versions/windows/desktop/api/wmsdkidl/nn-wmsdkidl-iwmheaderinfo3) из объекта редактора метаданных.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

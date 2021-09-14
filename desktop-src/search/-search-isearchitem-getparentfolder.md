@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: a5e5aded87ca197af8774a7b5506e21c958dc564eb0af67396e100877ac53e10
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4209b319e066d5481c669bcca021684f87532a3a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119094914"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345562"
 ---
 # <a name="isearchitemgetparentfolder-method"></a>Метод Исеарчитем:: Жетпарентфолдер
 

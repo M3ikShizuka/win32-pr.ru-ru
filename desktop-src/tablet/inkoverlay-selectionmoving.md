@@ -5,11 +5,11 @@ title: Событие InkOverlay. Селектионмовинг (Мсинкау
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 8ee4784e6b4c475c30d9b2a3ab30fe166ea3d67d
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108086702"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344767"
 ---
 # <a name="inkoverlayselectionmoving-event"></a>Событие InkOverlay. Селектионмовинг
 
@@ -46,7 +46,7 @@ void SelectionMoving(
 
 Это событие не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод события определен в \_ \_ интерфейсах диспетчеризации (DISP) иинковерлайевентс и ИИНКПИКТУРИВЕНТС с идентификатором DISPID \_ иоеселектионмовинг.
 
@@ -56,14 +56,14 @@ void SelectionMoving(
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только классические приложения Windows XP Tablet PC Edition \[\]<br/>                                                       |
+| Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                                                       |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                                           |
-| Header<br/>                   | <dl> <dt>Мсинкаут. h (также требуется Мсинкаут \_ i. c)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мсинкаут. h (также требуется Мсинкаут \_ i. c)</dt> </dl> |
 | Библиотека<br/>                  | <dl> <dt>InkObj.dll</dt> </dl>                               |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

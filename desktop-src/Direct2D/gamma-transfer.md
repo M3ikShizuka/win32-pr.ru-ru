@@ -6,12 +6,12 @@ keywords:
 - результат гамма-пересылки
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1c5db3b2cd6db30ec27a78fdcd5bbd43b7e46b5ca343a875eae11965b835a1c4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b806ac8f59efe1b3fad3b61edc7f88f72b143f9c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119918212"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163267"
 ---
 # <a name="gamma-transfer-effect"></a>Результат гамма-пересылки
 
@@ -22,7 +22,7 @@ ms.locfileid: "119918212"
 -   [Пример изображения](#example-image)
 -   [Свойства эффектов](#effect-properties)
 -   [Битовая карта вывода](#output-bitmap)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example-image"></a>Пример изображения

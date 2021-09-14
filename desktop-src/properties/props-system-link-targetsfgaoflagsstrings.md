@@ -4,12 +4,12 @@ ms.assetid: 1a8f220c-0d2a-4f1f-b7f0-ee6381d0c6a9
 title: System. Link. Таржетсфгаофлагсстрингс
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a274cd310953c7f13d1dae2ca293f103ce7ea6148b48d66de09ec3f4d5dead38
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fcfaf06c349af8e7cc9f6daa7bf4355e4b242e07
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119597714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363413"
 ---
 # <a name="systemlinktargetsfgaoflagsstrings"></a>System. Link. Таржетсфгаофлагсстрингс
 

@@ -5,11 +5,11 @@ title: Свойство AM_RATE_SimpleRateChange (Двдмедиа. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 928dc477f5f8c6492d407ddc8b56f49170dec4f4
-ms.sourcegitcommit: 63753fcfb0afbbe5ec283fb8316e62c2dc950f66
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "107910232"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162339"
 ---
 # <a name="am_rate_simpleratechange-property"></a>\_ \_ Свойство симплератечанже Rate
 
@@ -27,7 +27,7 @@ ms.locfileid: "107910232"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -37,7 +37,7 @@ ms.locfileid: "107910232"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

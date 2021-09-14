@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bb5e1f53446a080727ceb4a23c5ef8be2721e2adc83dec43d95a6ea516af80ca
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5a1a7d223bb6262fdd06c873bde027a89e49c246
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118334571"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343186"
 ---
 # <a name="playlistcollectionremove-method"></a>Плайлистколлектион. Remove, метод
 

@@ -4,12 +4,12 @@ ms.assetid: 4dd57202-f4de-40d9-b720-efaba8a60a7c
 title: Фильтр DV мультиплексор
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d6ad8189d7430a150c6860ef9e390a0e66aabd00971b56197ffe8651cde8967b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 013251f2f9c1946aaa0f7b3c95edfd2de81c4d78
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120102974"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246616"
 ---
 # <a name="dv-muxer-filter"></a>Фильтр DV мультиплексор
 

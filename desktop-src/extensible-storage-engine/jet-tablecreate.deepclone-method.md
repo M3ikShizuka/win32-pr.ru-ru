@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 5c829cbb2e1c4e6839d589a222dc9bf9d4b8aa84d4dc3eab7bb26fc2fd7d3095
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d1844a0295b9b7f680ebcedb79da9313769c8406
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119616054"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343774"
 ---
 # <a name="jet_tablecreatedeepclone-method"></a>JET_TABLECREATE. Метод Дипклоне
 
@@ -65,7 +65,7 @@ public JET_TABLECREATE DeepClone()
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс JET_TABLECREATE](./jet-tablecreate-class.md)
 

@@ -6,17 +6,17 @@ ms.topic: article
 ms.date: 05/31/2018
 ms.custom: seodec18
 ms.openlocfilehash: 7c8b4c4762a03650f150a74d3207d12767e1fb4e
-ms.sourcegitcommit: 73417d55867c804274a55abe5ca71bcba7006119
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/20/2020
-ms.locfileid: "104414077"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163392"
 ---
 # <a name="brushes-overview"></a>Обзор кистей 
 
 В этом обзоре описывается создание и использование объектов [**ID2D1SolidColorBrush**](/windows/win32/api/d2d1/nn-d2d1-id2d1solidcolorbrush), [**ID2D1LinearGradientBrush**](/windows/win32/api/d2d1/nn-d2d1-id2d1lineargradientbrush), [**ID2D1RadialGradientBrush**](/windows/win32/api/d2d1/nn-d2d1-id2d1radialgradientbrush)и [**ID2D1BitmapBrush**](/windows/win32/api/d2d1/nn-d2d1-id2d1bitmapbrush) для заливки областей сплошными цветами, градиентами и точечными рисунками. В него входят следующие разделы.
 
-## <a name="prerequisites"></a>Предварительные условия
+## <a name="prerequisites"></a>Предварительные требования
 
 В этом обзоре предполагается, что вы знакомы с структурой базового приложения Direct2D, как описано в разделе [Создание простого приложения Direct2D](direct2d-quickstart.md).
 
@@ -25,7 +25,7 @@ ms.locfileid: "104414077"
 Кисть закрашивает область с выходными данными. Разные кисти имеют различные типы выводимых данных. Direct2D предоставляет четыре типа кистей: [**ID2D1SolidColorBrush**](/windows/win32/api/d2d1/nn-d2d1-id2d1solidcolorbrush) закрашивает область сплошным цветом, [**ID2D1LinearGradientBrush**](/windows/win32/api/d2d1/nn-d2d1-id2d1lineargradientbrush) с линейным градиентом, [**ID2D1RadialGradientBrush**](/windows/win32/api/d2d1/nn-d2d1-id2d1radialgradientbrush) с радиальным градиентом и [**ID2D1BitmapBrush**](/windows/win32/api/d2d1/nn-d2d1-id2d1bitmapbrush) с растровым изображением.
 
 > [!NOTE]  
-> Начиная с Windows 8, можно также использовать [**ID2D1ImageBrush**](/windows/win32/api/d2d1_1/nn-d2d1_1-id2d1imagebrush), который похож на растровую кисть, но также можно использовать примитивы.
+> начиная с Windows 8 можно также использовать [**ID2D1ImageBrush**](/windows/win32/api/d2d1_1/nn-d2d1_1-id2d1imagebrush), который похож на растровую кисть, но также можно использовать и примитивы.
 
 Все кисти наследуют от [**ID2D1Brush**](/windows/win32/api/d2d1/nn-d2d1-id2d1brush) и совместно используют набор общих функций (Установка и получение непрозрачности и преобразование кистей); они создаются [**ID2D1RenderTarget**](/windows/win32/api/d2d1/nn-d2d1-id2d1rendertarget) и являются ресурсами, зависящими от устройства. приложение должно создавать кисти после инициализации целевого объекта рендеринга, с которым будут использоваться кисти, и повторно создавать кисти при необходимости повторного создания целевого объекта отрисовки. (Дополнительные сведения о ресурсах см. в разделе [Общие сведения о ресурсах](resources-and-resource-domains.md).)
 
@@ -37,9 +37,9 @@ ms.locfileid: "104414077"
 
 Перед началом рисования с помощью [**ID2D1SolidColorBrush**](/windows/win32/api/d2d1/nn-d2d1-id2d1solidcolorbrush) или градиентной кисти необходимо выбрать цвета. В Direct2D цвета представлены структурой [**D2D1 \_ Color \_ F**](d2d1-color-f.md) (на самом деле это только новое имя для структуры, используемой Direct3D, [D3DCOLORVALUE](../direct3d9/d3dcolorvalue.md)).
 
-До Windows 8 [**D2D1 \_ Color \_ F**](d2d1-color-f.md) использует кодировку sRGB. в кодировке sRGB цвета делятся на четыре компонента: красный, зеленый, синий и альфа. Каждый компонент представлен значением с плавающей запятой, которое имеет нормальный диапазон от 0,0 до 1,0. Значение 0,0 указывает на полное отсутствие данного цвета, а значение 1,0 указывает на его максимальное присутствие. Для альфа-компонента значение 0,0 означает полностью прозрачный цвет, а 1,0 — полностью непрозрачный цвет.
+до Windows 8 [**D2D1 \_ COLOR \_ F**](d2d1-color-f.md) использует кодировку sRGB. в кодировке sRGB цвета делятся на четыре компонента: красный, зеленый, синий и альфа. Каждый компонент представлен значением с плавающей запятой, которое имеет нормальный диапазон от 0,0 до 1,0. Значение 0,0 указывает на полное отсутствие данного цвета, а значение 1,0 указывает на его максимальное присутствие. Для альфа-компонента значение 0,0 означает полностью прозрачный цвет, а 1,0 — полностью непрозрачный цвет.
 
-Начиная с Windows 8, [**D2D1 \_ Color \_ F**](d2d1-color-f.md) также принимает кодирование ScRGB. scRGB — это надмножество, позволяющее значения цветов выше 1,0 и ниже 0,0.
+начиная с Windows 8, [**D2D1 \_ COLOR \_ F**](d2d1-color-f.md) также принимает кодирование scRGB. scRGB — это надмножество, позволяющее значения цветов выше 1,0 и ниже 0,0.
 
 Чтобы определить цвет, можно использовать структуру [**\_ цвета \_ F D2D1**](d2d1-color-f.md) и самостоятельно инициализировать свои поля. также можно использовать класс [**D2D1:: колорф**](/windows/win32/api/d2d1helper/nl-d2d1helper-colorf) , чтобы облегчить создание цвета. Класс **колорф** предоставляет несколько конструкторов для определения цветов. Если значение Alpha не указано в конструкторах, по умолчанию оно равно 1,0.
 
@@ -427,7 +427,7 @@ m_pRenderTarget->FillRectangle(
 m_pRenderTarget->DrawRectangle(rcTransformedBrushRect, m_pBlackBrush, 1, NULL);
 ```
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 * [Справочник по Direct2D](reference.md)
 * [Создание сплошной кисти цвета](how-to-create-a-solid-color-brush.md)

@@ -6,12 +6,12 @@ keywords:
 - D2D1_POINT_2U
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c9fc133cb7f4abd952dd0575e8a3d7af096128ab5e4570b773a4ccc7530364e0
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 050cf6372a1b84ed72647c8c5a5d76e352f4960f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120108884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163500"
 ---
 # <a name="d2d1_point_2u"></a>D2D1 \_ точка \_ 2U
 
@@ -24,13 +24,13 @@ typedef D2D_POINT_2U D2D1_POINT_2U;
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Точки в Direct2D представлены структурами [**D2D1 Point \_ \_ 2F**](d2d1-point-2f.md) или **D2D1 \_ Point \_ 2U** . Оба содержат пару координат x и y в двухмерном пространстве. Структура **D2D1 \_ точки \_ 2F** сохраняет координаты как значения **float** , а структура **\_ \_ типоразмера 2U в D2D1 Point** сохраняет их как значения **UINT32** .
 
 **D2D1 \_ ТОЧКА \_ 2U** — это новое имя уже определенного типа для [**точки D2D с типом \_ \_ 2U**](/windows/desktop/api/dcommon/ns-dcommon-d2d_point_2u).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ typedef D2D_POINT_2U D2D1_POINT_2U;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

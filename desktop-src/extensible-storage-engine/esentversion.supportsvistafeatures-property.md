@@ -25,12 +25,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: aff156f868cad30f8159ed1bc186cd5cf129da374826229757c9f86864846e14
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e623000d4ab176ccb9592191499608801bcb81be
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119850374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248881"
 ---
 # <a name="esentversionsupportsvistafeatures-property"></a>Есентверсион. Суппортсвистафеатурес, свойство
 
@@ -61,7 +61,7 @@ public static bool SupportsVistaFeatures { get; }
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Есентверсион](./esentversion-class.md)
 

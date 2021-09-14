@@ -4,12 +4,12 @@ ms.assetid: 880DF017-5841-4C0A-82AF-F092DEF5406B
 title: Атрибут MF_MT_VIDEO_3D_FORMAT (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e4100a605ecc7e8fe1c171b02341822972061363e7cd1b322162291dbd75b2c2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 66f2b12f907edb2875b3b121607509288787c8e3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117692073"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363932"
 ---
 # <a name="mf_mt_video_3d_format-attribute"></a>\_ \_ \_ Атрибут трехмерного формата видео MF MT \_
 

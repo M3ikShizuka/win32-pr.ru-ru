@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - IACom.dll
-ms.openlocfilehash: 16a2f59482f7fb2250bf60c052ccd3963fd86f1daba8d25acc9b342a5d2c984c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 88ed3686ecf3861a2b097ebfc005214ab0cdd1c0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119935454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344866"
 ---
 # <a name="ianalysiswarningsgetanalysiswarning-method"></a>Метод Ианалисисварнингс:: Жетаналисисварнинг
 
@@ -58,7 +58,7 @@ HRESULT GetAnalysisWarning(
 
 Описание возвращаемых значений см. в разделе [классы и интерфейсы — анализ рукописного ввода](classes-and-interfaces---ink-analysis.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Caution]  
 > Чтобы избежать утечки памяти, вызовите метод [**IUnknown:: Release**](/windows/desktop/api/unknwn/nf-unknwn-iunknown-release) в \* *ппварнинг* , когда больше не нужно использовать предупреждение.
@@ -148,7 +148,7 @@ STDMETHODIMP CMyClass::Results(
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -161,7 +161,7 @@ STDMETHODIMP CMyClass::Results(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

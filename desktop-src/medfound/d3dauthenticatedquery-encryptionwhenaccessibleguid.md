@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3d9types.h
-ms.openlocfilehash: cda11acf707851f23728d7958716df5ce319c6ac4c49d63c98e0aa90cd961245
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b5755a2707ec9d7440cda9b4692eed36ac6deff1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119828644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242152"
 ---
 # <a name="d3dauthenticatedquery_encryptionwhenaccessibleguid"></a>D3DAUTHENTICATEDQUERY \_ енкриптионвхенакцессиблегуид
 
@@ -36,7 +36,7 @@ ms.locfileid: "119828644"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот запрос поддерживают следующие типы каналов:
 

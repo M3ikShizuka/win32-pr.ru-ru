@@ -4,12 +4,12 @@ ms.assetid: bf8b9c67-b023-40ed-97c6-9ca030de610a
 title: Представление устройства
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a96b1144d1ae05ea08e036b4e6732c4e3ed46104628a67e7c83c8579919cecfc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0c95352c191d3e2d34392f4236b926b81cf65fd4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117652854"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247132"
 ---
 # <a name="device-representation"></a>Представление устройства
 

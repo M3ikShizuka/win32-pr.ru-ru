@@ -14,12 +14,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: edecfc68e243066ca8e0cda4df43d6ca9a654e04b538c9352c2d90624d5682ab
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0ac06bfb85e8ebbf10306da43cb44c7e3b3e862a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118972373"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248509"
 ---
 # <a name="getvolumeoperation-class"></a>Класс Жетволумеоператион
 
@@ -44,13 +44,13 @@ ms.locfileid: "118972373"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **жетволумеоператион** имеет следующие свойства.
 
 
 
-| Свойство                                                     | Тип доступа           | Описание                                                                                                                                                                |
+| Свойство.                                                     | Тип доступа           | Описание                                                                                                                                                                |
 |:-------------------------------------------------------------|:----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**Завершено**](getvolumeoperation-completed.md)<br/> | Чтение/запись<br/> | Возвращает или задает обработчик событий, который вызывается при завершении асинхронной операции, запущенной [**жетволумеасинк**](/previous-versions/windows/desktop/api/windows.media.streaming/nf-windows-media-streaming-imediarenderer-getvolumeasync) . <br/> |
 

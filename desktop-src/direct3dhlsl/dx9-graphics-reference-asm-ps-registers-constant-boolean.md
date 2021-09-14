@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 4e86a447d9c0a8ec2d57d2cc7a3f2b7e25714d0d29f2c09add72ab17780b8d8d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4868be7c22ce5a6a1881ad7db8acf0af65330c04
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118090397"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345859"
 ---
 # <a name="constant-boolean-register-hlsl-ps-reference"></a>Константный логический регистр (Справочник по HLSL PS)
 

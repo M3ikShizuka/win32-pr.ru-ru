@@ -4,12 +4,12 @@ ms.assetid: 9714A2C7-25A1-4735-A0AC-22329ECBBC46
 title: Атрибут MF_MT_SPATIAL_AUDIO_OBJECT_METADATA_FORMAT_ID (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5b43751655f2a583d50c8de3fe108babcaa08d11d78df552b6ddf1f10e413be8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ed16188a24b4c61facf1e325867d093b9b5cc869
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119955504"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363952"
 ---
 # <a name="mf_mt_spatial_audio_object_metadata_format_id-attribute"></a>\_ \_ \_ \_ Идентификатор формата МЕТАДАННЫХ объекта пространственного звука MF MT \_ \_ \_ атрибут идентификатора
 
@@ -23,7 +23,7 @@ ms.locfileid: "119955504"
 
 Большой двоичный объект метаданных с указанным форматом записывается с помощью интерфейса [**испатиалаудиометадатавритер**](/windows/win32/api/spatialaudiometadata/nn-spatialaudiometadata-ispatialaudiometadatawriter) и считывается с помощью интерфейса [**испатиалаудиометадатареадер**](/windows/win32/api/spatialaudiometadata/nn-spatialaudiometadata-ispatialaudiometadatareader) . Большой двоичный объект метаданных непрозрачен для Media Foundation конвейера и компонентов. Атрибут применяется к типу пространственного звукового носителя. Если нисходящий компонент не поддерживает формат метаданных, заданный идентификатором GUID, компонент должен отклонять входной тип носителя.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

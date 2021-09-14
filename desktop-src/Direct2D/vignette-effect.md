@@ -4,12 +4,12 @@ description: Постепенно уменьшает входной рисуно
 ms.assetid: 34da221f-44a2-1d01-d88d-d7846b9770b9
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b0c4f955595cfcf081b6de20d7bf81427f83df82806d9eb64e6046921503782f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c3fe9302a86a49b060aa05ecb856ce43122d946d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119074976"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162519"
 ---
 # <a name="vignette-effect"></a>Вигнетте, результат
 
@@ -20,14 +20,14 @@ ms.locfileid: "119074976"
 -   [Пример изображения](#example-image)
 -   [Образец кода](#sample-code)
 -   [Свойства эффектов](#effect-properties)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example-image"></a>Пример изображения
 
 ![Пример выходных данных эффектов](images/vignette-effect.png)
 
-## <a name="sample-code"></a>Пример кода
+## <a name="sample-code"></a>Образец кода
 
 ```cpp
 ComPtr<ID2D1Effect> vignetteEffect;

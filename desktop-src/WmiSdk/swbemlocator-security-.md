@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 6c5fa2ba102de1135c0019e2dcfb291f55672cabb00cea1c59d8a655f21c882e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c2aa61ebc3ef48c82405d960d5de42ab8f23dc53
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119955174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343050"
 ---
 # <a name="swbemlocatorsecurity_-property"></a>SWbemLocator. Security, \_ свойство
 
@@ -51,7 +51,7 @@ SWbemLocator.Security_ As Object
 
 Свойства объекта **SWbemLocator. Security \_** не имеют значений по умолчанию. Если вы попытаетесь получить значение [**свбемсекурити. аусентикатионлевел**](swbemsecurity-authenticationlevel.md) или [**свбемсекурити. Имперсонатионлевел**](swbemsecurity-impersonationlevel.md) в объекте [**SWbemLocator**](swbemlocator.md) , прежде чем приступать к его заданию, возникает ошибка [вбемеррфаилед](/windows/desktop/api/Wbemdisp/ne-wbemdisp-wbemerrorenum) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -67,7 +67,7 @@ SWbemLocator.Security_ As Object
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

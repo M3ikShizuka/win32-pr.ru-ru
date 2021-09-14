@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6ddee0ccadc966b89d381e02cca5ac1ae336c98671c82a3e4f39f8ebdd6cbeb5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 56291ad4e56e5f941fe4cb2790ac6afab27ad67b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119329294"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247492"
 ---
 # <a name="commandsmallhighcontrastimages-property"></a>Свойство Command. Смаллхигхконтрастимажес
 
@@ -57,7 +57,7 @@ ms.locfileid: "119329294"
 
 ## <a name="remarks"></a>Remarks
 
-Необязательный элемент.
+Необязательный параметр.
 
 Для каждой [**команды**](windowsribbon-element-command.md)может выполняться не более одного раза.
 
@@ -111,7 +111,7 @@ ms.locfileid: "119329294"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

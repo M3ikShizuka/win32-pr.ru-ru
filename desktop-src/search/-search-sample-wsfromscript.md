@@ -1,5 +1,5 @@
 ---
-description: В примере кода Всфромскрипт показано, как запрашивать Поиск Windows из скрипта Microsoft Visual Basic с помощью Microsoft объекты данных ActiveX (ADO).
+description: в примере кода всфромскрипт показано, как выполнить запрос Windows поиска из скрипта microsoft Visual Basic с помощью microsoft объекты данных ActiveX (ADO).
 ms.assetid: 93ee63f2-ab05-478a-99d0-4f4d09c11506
 title: всфромскрипт
 ms.topic: article
@@ -10,22 +10,22 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: 99f505872571eeea4c16c0edde5059eafd301ac7
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104342972"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363225"
 ---
 # <a name="wsfromscript"></a>всфромскрипт
 
-В примере кода Всфромскрипт показано, как запрашивать Поиск Windows из скрипта Microsoft Visual Basic с помощью Microsoft объекты данных ActiveX (ADO).
+в примере кода всфромскрипт показано, как выполнить запрос Windows поиска из скрипта microsoft Visual Basic с помощью microsoft объекты данных ActiveX (ADO).
 
 В этом разделе содержатся следующие подразделы.
 
-- [Требования](#requirements)
+- [Requirements](#requirements)
 - [Загрузка образца](#downloading-the-sample)
 - [Создание примера](#building-the-sample)
-- [См. также](#related-topics)
+- [Связанные темы](#related-topics)
 
 ## <a name="requirements"></a>Требования
 
@@ -43,16 +43,16 @@ ms.locfileid: "104342972"
 | GitHub  | [Пример Всфромскрипт](https://github.com/Microsoft/Windows-classic-samples/tree/master/Samples/Win7Samples/winui/WindowsSearch/WSFromScript)    |
 
 > [!NOTE]  
-> Для всех версий Windows, включая Windows 7, рекомендуется загрузить примеры непосредственно из GitHub, чтобы получить самую последнюю версию.
+> для всех версий Windows, включая Windows 7, рекомендуется загружать образцы непосредственно из GitHub для наиболее актуальной версии.
 
 ## <a name="building-the-sample"></a>Построение образца
 
 Чтобы построить образец из окна командной строки:
 
-1. Откройте окно командной строки и перейдите в каталог проекта **куереверисинг** . Например, полный путь установки по умолчанию для пакета SDK для Windows 7 — `C:\Program Files\Microsoft SDKs\Windows\v7.0\Samples\WinUI\WindowsSearch\WSFromScript` .
+1. Откройте окно командной строки и перейдите в каталог проекта **куереверисинг** . например, полный путь установки по умолчанию для пакета SDK для Windows 7: `C:\Program Files\Microsoft SDKs\Windows\v7.0\Samples\WinUI\WindowsSearch\WSFromScript` .
 2. Введите `cscript QueryEverything.vbs`.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 ### <a name="conceptual"></a>Основные понятия
 

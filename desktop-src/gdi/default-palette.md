@@ -4,12 +4,12 @@ ms.assetid: 7972d5da-2b73-4cd7-a2ee-fca3a571f611
 title: Палитра по умолчанию
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6a740a7feace59a9b33a908a52cc94e6ffd2436f19f4bc918530b0544e523f67
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c100eeb144ab4f6483281b33739578642880a91f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117699793"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248716"
 ---
 # <a name="default-palette"></a>Палитра по умолчанию
 

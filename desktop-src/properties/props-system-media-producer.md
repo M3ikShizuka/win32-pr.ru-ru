@@ -4,12 +4,12 @@ ms.assetid: 9cc672b2-75ea-4733-aaa3-0c4fd5afb4f6
 title: System. Media. Producer
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 63675a3614da1551acf6883c5b24fbff43de1026cd2124f8b38674247b24a23e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7933746e875cbd4ae579cd5beadd594e548ecf39
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117683364"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363400"
 ---
 # <a name="systemmediaproducer"></a>System. Media. Producer
 

@@ -6,12 +6,12 @@ keywords:
 - трехмерное преобразование, эффект
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d32a9c8fedca3be0d96a44047ac1b226d83309cf657f2cdc223a342e9d38880b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fabe0c2c220038802b5218b54187a1ff89268bfa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119758259"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164263"
 ---
 # <a name="3d-transform-effect"></a>Эффект трехмерного преобразования
 
@@ -28,7 +28,7 @@ ms.locfileid: "119758259"
     -   [Режимы интерполяции](#interpolation-modes)
     -   [Режимы границ](#border-modes)
 -   [Класс Matrix преобразования 4x4](#4x4-transform-matrix-class)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example-image"></a>Пример изображения
@@ -162,7 +162,7 @@ Direct2D предоставляет класс матрицы 4x4 для пре�
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.stri
 ms:contentKeyID: 55104024
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: a89a6beb40fe6d3c1784215bc01fa68ea1466e7701b14c4ab9cebc7b986935c6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 822e469fae8de69137cbbe7a8e085137c290850a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118071244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248731"
 ---
 # <a name="stringcolumnvalue-properties"></a>Свойства Стрингколумнвалуе
 
@@ -83,9 +83,9 @@ ms.locfileid: "118071244"
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Стрингколумнвалуе](./stringcolumnvalue-class.md)
 

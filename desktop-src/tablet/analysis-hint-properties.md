@@ -24,11 +24,11 @@ api_type:
 api_location:
 - iaguid.h
 ms.openlocfilehash: 8a7a25cfa94bb7f2354418ded2b35e3137364901
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103990825"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247870"
 ---
 # <a name="analysis-hint-properties"></a>Свойства указания по анализу
 
@@ -54,7 +54,7 @@ ms.locfileid: "103990825"
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Эти идентификаторы GUID используются для указания свойств, которые [**иинканализер**](iinkanalyzer.md) может установить для узла контекста указания анализа (см. раздел [**Иконтекстноде:: GetType**](icontextnode-gettype.md)).
 
@@ -66,9 +66,9 @@ ms.locfileid: "103990825"
 
 | Требование | Значение |
 |-------------------------------------|-------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только классические приложения Windows XP Tablet PC Edition \[\]<br/>                       |
+| Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                       |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                           |
-| Header<br/>                   | <dl> <dt>Иагуид. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Иагуид. h</dt> </dl> |
 
 
 

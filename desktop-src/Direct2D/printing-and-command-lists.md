@@ -4,12 +4,12 @@ description: Элемент управления печатью Direct2D \ 32; �
 ms.assetid: C51ACCDE-B205-4F79-A2FD-D112BAAD1616
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: de0026071ce8e78fc2ea946e0fffff2993e32ab48a2a20d4de6cdb12ca9b1eaa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7b6beb16a24c972016686e2dffe915a947128a63
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119075056"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162635"
 ---
 # <a name="printing-and-command-lists"></a>Печать и списки команд
 

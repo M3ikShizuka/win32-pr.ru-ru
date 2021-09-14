@@ -4,12 +4,12 @@ description: Преобразует изображение RGB в цветовы
 ms.assetid: 1def972d-8172-9217-8ce7-abce4a93f6e1
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c474705d050c2ef2eff9050a759c60c5d8f1098440e06601ec1e3981e349aaff
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 53ccb4d3f67d116426d7a3497c04c4e8fb115b74
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118160390"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162607"
 ---
 # <a name="rgb-to-hue-effect"></a>Эффекты RGB-оттенков
 
@@ -25,10 +25,10 @@ HSL и HSV — это две различные модели для предст
 
 -   [Образец кода](#sample-code)
 -   [Свойства эффектов](#effect-properties)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
-## <a name="sample-code"></a>Пример кода
+## <a name="sample-code"></a>Образец кода
 
 
 ```C++
@@ -50,7 +50,7 @@ m_d2dContext->EndDraw();
 
 Свойства для эффектов контрастности определяются перечислением [**D2D1 \_ ргбтохуе \_ prop**](/windows/desktop/api/d2d1effects_2/ne-d2d1effects_2-d2d1_rgbtohue_prop) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

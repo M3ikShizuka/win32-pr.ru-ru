@@ -6,12 +6,12 @@ keywords:
 - эффекты удаленных рассеянных света
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9f1860f196685c3d7dc0dcc30ae575cee70bc1eb0fcc29e8da7709c1174ee411
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f30d8e7f918c0b1a55e25c18c83e3eff51b75233
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119260412"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163320"
 ---
 # <a name="distant-diffuse-lighting-effect"></a>Эффект удаленного рассеяния освещения
 
@@ -72,7 +72,7 @@ ms.locfileid: "119260412"
 > Если не выбрать режим, то по умолчанию применяется \_ режим МАСШТАБИРОВАНИЯ D2D1 дистантдиффусе \_ \_ \_ линейный.
 
  
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -80,7 +80,7 @@ ms.locfileid: "119260412"
 |--------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента | Windows 8 и обновление платформы для Windows 7 \[ классических приложений \| Windows приложения магазина\] |
 | Минимальная версия сервера | Windows 8 и обновление платформы для Windows 7 \[ классических приложений \| Windows приложения магазина\] |
-| Header                   | d2d1effects. h                                                                      |
+| Заголовок                   | d2d1effects. h                                                                      |
 | Библиотека                  | D2D1. lib, дксгуид. lib                                                               |
 
 

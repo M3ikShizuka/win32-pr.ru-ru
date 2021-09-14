@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Npptools.dll
-ms.openlocfilehash: 5c0ce93235a0c46286b9bfbef0773a5584f3db774aa52991b4e0eaa9dd38352f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6ea28f5bb6f337b20858baa544c890d5f71bf0c6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119677194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127245353"
 ---
 # <a name="mergeblob-function"></a>Функция Мержеблоб
 
@@ -64,7 +64,7 @@ DWORD MergeBlob(
 
 Записи, общие для исходного и целевого файлов, будут перезаписаны данными из исходного большого двоичного объекта.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

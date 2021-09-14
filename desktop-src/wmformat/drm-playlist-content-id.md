@@ -16,11 +16,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: f475a8c3620ff1af64cb70914ca1ac591aa55106
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105701066"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344102"
 ---
 # <a name="drm_playlist_content_id-structure"></a>\_ \_ Структура идентификатора содержимого списка воспроизведения DRM \_
 
@@ -42,21 +42,21 @@ typedef struct DRM_PLAYLIST_CONTENT_ID {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
 **lpcwszV2Header**
 </dt> <dd>
 
-Заголовок DRM. Используйте этот элемент, если содержимое защищено с помощью Windows Media DRM версии 2 или более поздней.
+Заголовок DRM. используйте этот элемент, если содержимое защищено Windows Media DRM версии 2 или более поздней.
 
 </dd> <dt>
 
 **lpcszV1KID**
 </dt> <dd>
 
-идентификатор ключа; Используйте этот элемент, если содержимое защищено с помощью Windows Media DRM версии 1.
+идентификатор ключа; используйте этот элемент, если содержимое защищено Windows Media DRM версии 1.
 
 </dd> <dt>
 
@@ -94,10 +94,10 @@ typedef struct DRM_PLAYLIST_CONTENT_ID {
 
 | Требование | Значение |
 |-------------------------------------|-------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                               |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                      |
-| Версия<br/>                  | Пакет SDK для Windows Media Format 11<br/>                                                    |
-| Header<br/>                   | <dl> <dt>Дрмекстерналс. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                               |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                      |
+| Версия<br/>                  | Windows Пакет SDK для формата мультимедиа 11<br/>                                                    |
+| Заголовок<br/>                   | <dl> <dt>Дрмекстерналс. h</dt> </dl> |
 
 
 

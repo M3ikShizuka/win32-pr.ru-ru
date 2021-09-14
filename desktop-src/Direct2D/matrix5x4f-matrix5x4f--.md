@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cacce2cb601b4a7a13ca84867416d84865500c58e61a35e21e91ec10a259b88f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5c153ea0f9db54642d94ca9651fb7fd22e02f3b4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119385234"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162687"
 ---
 # <a name="matrix5x4fmatrix5x4f-constructor"></a>Конструктор Matrix5x4F:: Matrix5x4F ()
 
@@ -40,7 +40,7 @@ inline Matrix5x4F();
 
 Этот конструктор не имеет параметров.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -50,7 +50,7 @@ inline Matrix5x4F();
 | Минимальная версия сервера<br/> | Windows server 2008 R2, Windows server 2008 с пакетом обновления 2 (SP2) и обновлением платформы для Windows Server 2008 \[ только классические приложения\]<br/> |
 | Минимальный поддерживаемый телефон<br/>  | Windows Phone 8,1 \[ Windows Phone Silverlight 8,1 и среда выполнения Windows приложения\]<br/>                                           |
 | Пространство имен<br/>                | D2D1<br/>                                                                                                                   |
-| Header<br/>                   | <dl> <dt>\_Вспомогательный метод D2d1. h</dt> </dl>                                         |
+| Заголовок<br/>                   | <dl> <dt>\_Вспомогательный метод D2d1. h</dt> </dl>                                         |
 | Библиотека<br/>                  | <dl> <dt>D2d1. lib</dt> </dl>                                               |
 | DLL<br/>                      | <dl> <dt>D2d1.dll</dt> </dl>                                               |
 

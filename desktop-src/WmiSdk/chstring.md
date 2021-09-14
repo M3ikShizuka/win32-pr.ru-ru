@@ -18,11 +18,11 @@ api_location:
 - FrameDynOS.dll
 - FrameDyn.dll
 ms.openlocfilehash: 0c94fcd89a41e610d039afe17f4b56e58cb117bb
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105693502"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242278"
 ---
 # <a name="chstring-class"></a>Класс Чстринг
 
@@ -65,7 +65,7 @@ ms.locfileid: "105693502"
 | [**Сравнение**](/windows/desktop/api/ChString/nf-chstring-chstring-compare)                       | Сравнивает две строки (с учетом регистра).<br/>                                                              |
 | [**компаренокасе**](/windows/desktop/api/ChString/nf-chstring-chstring-comparenocase)           | Сравнивает две строки (без учета регистра).<br/>                                                            |
 | [**Указано**](/windows/desktop/api/ChString/nf-chstring-chstring-empty)                           | Задает для строки нулевую длину.<br/>                                                            |
-| [**Поиск**](/windows/win32/api/chstring/nf-chstring-chstring-find(wchar))                        | Перегружен. Находит символ или подстроку в более длинной строке.<br/>                                  |
+| [**Найдено**](/windows/win32/api/chstring/nf-chstring-chstring-find(wchar))                        | Перегружен. Находит символ или подстроку в более длинной строке.<br/>                                  |
 | [**финдонеоф**](/windows/desktop/api/ChString/nf-chstring-chstring-findoneof)                   | Находит первый соответствующий символ из набора.<br/>                                                      |
 | [**Формат**](/windows/desktop/api/ChString/nf-chstring-chstring-format(uint_---))                         | Перегружен. Форматирует строку как **sprintf** .<br/>                                                 |
 | [**форматмессажев**](/windows/desktop/api/ChString/nf-chstring-chstring-formatmessagew(uint_---))         | Перегружен. Форматирует строку сообщения.<br/>                                                               |
@@ -78,16 +78,16 @@ ms.locfileid: "105693502"
 | [**GetData**](/windows/desktop/api/ChString/nf-chstring-chstring-getdata)                       | Возвращает указатель на данные в строке **чстринг** .<br/>                                           |
 | [**GetLength**](/windows/desktop/api/ChString/nf-chstring-chstring-getlength)                   | Возвращает число символов Юникода в строке **чстринг** .<br/>                                  |
 | [**IsEmpty**](/windows/desktop/api/ChString/nf-chstring-chstring-isempty)                       | Проверяет, содержит ли строка **чстринг** символы.<br/>                                         |
-| [**Слева**](/windows/desktop/api/ChString/nf-chstring-chstring-left)                             | Извлекает левую часть строки (например, базовую функцию **Left $** ).<br/>                             |
+| [**Левый**](/windows/desktop/api/ChString/nf-chstring-chstring-left)                             | Извлекает левую часть строки (например, базовую функцию **Left $** ).<br/>                             |
 | [**лоадстрингв**](/windows/desktop/api/ChString/nf-chstring-chstring-loadstringw(uint))               | Загружает существующую **чстринг** строку из файла ресурсов.<br/>                                         |
 | [**локкбуффер**](/windows/desktop/api/ChString/nf-chstring-chstring-lockbuffer)                 | Отключает подсчет ссылок и защищает строку в буфере.<br/>                                  |
 | [**макеловер**](/windows/desktop/api/ChString/nf-chstring-chstring-makelower)                   | Преобразует все символы в этой строке в символы нижнего регистра.<br/>                              |
 | [**макереверсе**](/windows/desktop/api/ChString/nf-chstring-chstring-makereverse)               | Меняет местами символы в этой строке.<br/>                                                             |
 | [**макеуппер**](/windows/desktop/api/ChString/nf-chstring-chstring-makeupper)                   | Преобразует все символы в этой строке в символы верхнего регистра.<br/>                              |
-| [**Расчет**](/windows/win32/api/chstring/nf-chstring-chstring-mid(int))                               | Перегружен. Извлекает среднюю часть строки (например, базовую функцию **MID $** ).<br/>                |
+| [**Mid**](/windows/win32/api/chstring/nf-chstring-chstring-mid(int))                               | Перегружен. Извлекает среднюю часть строки (например, базовую функцию **MID $** ).<br/>                |
 | [**релеасебуффер**](/windows/desktop/api/ChString/nf-chstring-chstring-releasebuffer)           | Выводит управление буфером, возвращенным методом [**onbuffer**](/windows/desktop/api/ChString/nf-chstring-chstring-getbuffer).<br/>                 |
 | [**реверсефинд**](/windows/desktop/api/ChString/nf-chstring-chstring-reversefind)               | Находит символ в более длинной строке; начинается с конца.<br/>                                      |
-| [**Правильно**](/windows/desktop/api/ChString/nf-chstring-chstring-right)                           | Извлекает правую часть строки (как базовая **правая $** Function).<br/>                           |
+| [**Правый**](/windows/desktop/api/ChString/nf-chstring-chstring-right)                           | Извлекает правую часть строки (как базовая **правая $** Function).<br/>                           |
 | [**SetAt**](/windows/desktop/api/ChString/nf-chstring-chstring-setat)                           | Задает символ в заданной позиции.<br/>                                                               |
 | [**спанексклудинг**](/windows/desktop/api/ChString/nf-chstring-chstring-spanexcluding)           | Извлекает подстроку, которая содержит только символы, отсутствующие в наборе.<br/>                     |
 | [**спанинклудинг**](/windows/desktop/api/ChString/nf-chstring-chstring-spanincluding)           | Извлекает подстроку, содержащую только символы в наборе.<br/>                                    |
@@ -141,7 +141,7 @@ The **CHString** class has these operators.`
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                                                                                      |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                                                                                                |
-| Header<br/>                   | <dl> <dt>Чстринг. h (включение Фвкоммон. h)</dt> </dl>                                                    |
+| Заголовок<br/>                   | <dl> <dt>Чстринг. h (включение Фвкоммон. h)</dt> </dl>                                                    |
 | Библиотека<br/>                  | <dl> <dt>Фрамедин. lib</dt> </dl>                                                                       |
 | DLL<br/>                      | <dl> <dt>FrameDynOS.dll; </dt> <dt>FrameDyn.dll</dt> </dl> |
 

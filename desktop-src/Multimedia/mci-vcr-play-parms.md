@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: ae15eedc69accc88ef7a58a6d7ad435e872de7ea
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369963"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127245926"
 ---
 # <a name="mci_vcr_play_parms-structure"></a>Видеомагнитофон MCI \_ \_ воспроизводит \_ структуру пармс
 
@@ -89,7 +89,7 @@ typedef struct tagMCI_VCR_PLAY_PARMS {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

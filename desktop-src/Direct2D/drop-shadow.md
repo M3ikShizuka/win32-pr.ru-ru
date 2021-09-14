@@ -6,12 +6,12 @@ keywords:
 - эффект тени
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e5d88924140caac22b688a0ccb6948ee74312411c770bff99360847ef2cd1b4c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c42fd8755078dd79f2b01b623b1839785beb3c3e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119833059"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163304"
 ---
 # <a name="shadow-effect"></a>Эффект тени
 
@@ -21,7 +21,7 @@ ms.locfileid: "119833059"
 -   [Свойства эффектов](#effect-properties)
 -   [Режимы оптимизации](#optimization-modes)
 -   [Битовая карта вывода](#output-bitmap)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 Идентификатором CLSID для этого действия является CLSID \_ D2D1Shadow.

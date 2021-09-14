@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 26f7a5075e06a3943978a8e938f034fbabcaddfa31c9ffa2a2b37d33a0120640
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c836b1098c92a69fa720fb7b87e4a63b3c05a526
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120107994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246682"
 ---
 # <a name="crenderedinputpinendofstream-method"></a>Крендерединпутпин. EndOfStream, метод
 
@@ -73,7 +73,7 @@ STDMETHODIMP CMyInputPin::EndOfStream(void)
 
 Кроме того, если фильтр обрабатывает вызовы **Receive** асинхронно, ПИН-код должен подождать отправки события EC \_ Complete до тех пор, пока фильтр не обработал все отложенные выборки.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -84,7 +84,7 @@ STDMETHODIMP CMyInputPin::EndOfStream(void)
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -10,11 +10,11 @@ api_location: ''
 topic_type:
 - kbArticle
 ms.openlocfilehash: e8685b44d00d3f48e8de2a567218ef08c1cb5070
-ms.sourcegitcommit: 822413efb4a70dd464e5db4d9e8693ef74f8132f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "113581782"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248029"
 ---
 # <a name="scriptable-shell-objects"></a>Объекты оболочки с скриптами
 
@@ -38,7 +38,7 @@ ms.locfileid: "113581782"
 
 | Версия 4,71                                            | Версия 5,00                                          |
 |---------------------------------------------------------|-------------------------------------------------------|
-| [**Folder**](folder.md)                                | [**дидисккуотаусер**](didiskquotauser-object.md)     |
+| [**Папка**](folder.md)                                | [**дидисккуотаусер**](didiskquotauser-object.md)     |
 | [**фолдеритемверб**](folderitemverb.md)                | [**дисккуотаконтрол**](diskquotacontrol-object.md)   |
 | [**фолдеритемвербс**](folderitemverbs.md)              | [**Folder2**](folder2-object.md)                     |
 | [**Shell**](shell.md)                                  | [**FolderItem**](folderitem.md)                      |
@@ -112,7 +112,7 @@ ms.locfileid: "113581782"
 |---------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [**дидисккуотаусер**](didiskquotauser-object.md)       | Microsoft. Дисккуота. 1                                                                   |
 | [**дисккуотаконтрол**](diskquotacontrol-object.md)     | Не удается выполнить позднее связывание                                                                        |
-| [**Folder**](folder.md)                                | консоль. Shell \_ Application. Namespace ("...")                                               |
+| [**Папка**](folder.md)                                | консоль. Shell \_ Application. Namespace ("...")                                               |
 | [**Folder2**](folder2-object.md)                       | консоль. Shell \_ Application. Namespace ("...")                                               |
 | [**FolderItem**](folderitem.md)                        | консоль. Shell \_ Application. Namespace ("..."). Self или Folder. Items. Item или Folder. ParseName |
 | [**фолдеритемс**](folderitems.md)                      | Папка. элементы                                                                            |
@@ -156,7 +156,7 @@ ms.locfileid: "113581782"
 |--------------------------------------------------------|--------------------------------------|
 | [**дидисккуотаусер**](didiskquotauser-object.md)       | 7988B571-EC89-11cf-9C00-00AA00A14F56 |
 | [**дисккуотаконтрол**](diskquotacontrol-object.md)     | 7988B571-EC89-11cf-9C00-00AA00A14F56 |
-| [**Folder**](folder.md)                                | BBCBDE60-C3FF-11CE-8350-444553540000 |
+| [**Папка**](folder.md)                                | BBCBDE60-C3FF-11CE-8350-444553540000 |
 | [**Folder2**](folder2-object.md)                       | f0d2d8ef-3890-11d2-bf8b-00c04fb93661 |
 | [**FolderItem**](folderitem.md)                        | 744129E0-CBE5-11CE-8350-444553540000 |
 | [**фолдеритемс**](folderitems.md)                      | 744129E0-CBE5-11CE-8350-444553540000 |

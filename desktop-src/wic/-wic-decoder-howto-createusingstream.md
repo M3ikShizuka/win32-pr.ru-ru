@@ -5,11 +5,11 @@ title: Создание декодера с помощью потока
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 1b0a76badec0e2587f9136cfa6bc3ff041b76592
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105693716"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247594"
 ---
 # <a name="how-to-create-a-decoder-using-a-stream"></a>Создание декодера с помощью потока
 
@@ -82,7 +82,7 @@ ms.locfileid: "105693716"
 
     
 
-4.  Создайте [**IWICImagingFactory**](/windows/desktop/api/Wincodec/nn-wincodec-iwicimagingfactory) для создания объектов компонента Windows Imaging Component (WIC).
+4.  создайте [**IWICImagingFactory**](/windows/desktop/api/Wincodec/nn-wincodec-iwicimagingfactory) для создания объектов компонента обработки изображений Windows (WIC).
 
     ```C++
     // Create WIC factory

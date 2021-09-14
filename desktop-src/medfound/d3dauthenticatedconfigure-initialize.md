@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3d9types.h
-ms.openlocfilehash: 5685bb995f23fc85ed52bc5d03e269669e6e5b7bb4221f8880c97d6c7ce517e9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2cd3238b7a7eea27356ce76ec9c83bf8aea4d7f0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118974683"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248572"
 ---
 # <a name="d3dauthenticatedconfigure_initialize"></a>\_Инициализация D3DAUTHENTICATEDCONFIGURE
 

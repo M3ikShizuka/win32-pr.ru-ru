@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c8e5badce8249e5d6b9d2460fec0e72ef4ca4b81f5b8ffa0d3edd83729f98bd2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e7758903de5f4a68cddffee982ad457d03ae6094
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119808314"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346139"
 ---
 # <a name="iwmsecurebufferencrypt-method"></a>Метод Ивмсекуребуффер:: Encrypt
 
@@ -68,7 +68,7 @@ HRESULT Encrypt(
 
 Используйте этот метод для шифрования указателей на данные, чтобы их можно было отправлять через границы DLL.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -79,7 +79,7 @@ HRESULT Encrypt(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

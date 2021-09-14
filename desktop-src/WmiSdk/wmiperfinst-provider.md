@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Поставщик Вмиперфинст
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d4a781fc1dc48f0e16d1c25e03eff1b2ab3c80fcd7058d1b49f95912b392d241
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 374568de0780b18b1e3036eb7fc6ce7247b46039
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119049752"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242266"
 ---
 # <a name="wmiperfinst-provider"></a>Поставщик Вмиперфинст
 

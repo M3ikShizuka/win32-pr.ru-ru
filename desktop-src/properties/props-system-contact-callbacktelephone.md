@@ -4,12 +4,12 @@ ms.assetid: bcfd0f2b-317b-41de-88ab-acfde822e6fb
 title: System. Contact. Каллбакктелефоне
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 51b95b357b97dc229a34820b25121c08b5b67442c03f52b626ad1f3635e17339
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d4321eb0224586af4daf36cfd55d48956d1c8fc8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118730168"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257451"
 ---
 # <a name="systemcontactcallbacktelephone"></a>System. Contact. Каллбакктелефоне
 
@@ -30,7 +30,7 @@ propertyDescription
       type = String
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значения PKEY определены в списке PKEY. h.
 

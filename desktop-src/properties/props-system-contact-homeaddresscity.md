@@ -4,12 +4,12 @@ ms.assetid: 00ed6b0d-0b59-43b4-a9ce-f5964f9268a3
 title: System. Contact. ХомеаддрессЦити
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 67f526c283f023237409863c93587d216db2e33bebe3ee17c41c65262ddade65
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 0a44e4d986339fa5448534a28f615c1b9c0cb242
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119845814"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345078"
 ---
 # <a name="systemcontacthomeaddresscity"></a>System. Contact. ХомеаддрессЦити
 
@@ -30,7 +30,7 @@ propertyDescription
       type = String
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значения PKEY определены в списке PKEY. h.
 

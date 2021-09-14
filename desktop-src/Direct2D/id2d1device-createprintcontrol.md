@@ -12,12 +12,12 @@ api_type:
 - HeaderDef
 ms.date: 07/02/2019
 ms.topic: reference
-ms.openlocfilehash: a585e72c28487d0b2c54209ab9c2bd9da20c07479724a51f837efc398fde2135
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ec8705d73f40fc967b3247aaf81caebcade47b02
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120108844"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163099"
 ---
 # <a name="id2d1devicecreateprintcontrol-methods"></a>Методы ID2D1Device:: Креатепринтконтрол
 
@@ -34,7 +34,7 @@ ms.locfileid: "120108844"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -44,7 +44,7 @@ ms.locfileid: "120108844"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

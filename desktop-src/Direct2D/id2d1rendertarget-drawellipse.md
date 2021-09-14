@@ -12,12 +12,12 @@ api_type:
 - DllExport
 ms.date: 07/02/2019
 ms.topic: reference
-ms.openlocfilehash: 2f43ce72bcce5be550eec109551efd10c46262bc2bd753e67fe53061aa27bb8d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9647591b5033b912283500a0ddb1dba20004ec38
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118002845"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162812"
 ---
 # <a name="id2d1rendertargetdrawellipse-methods"></a>ID2D1RenderTarget: методы:D Равеллипсе
 
@@ -34,7 +34,7 @@ ms.locfileid: "118002845"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод **DrawEllipse** не возвращает код ошибки в случае сбоя. Чтобы определить, не завершилась ли операция рисования (например, **DrawEllipse**), проверьте результат, возвращенный методами [**ID2D1RenderTarget:: EndDraw**](/windows/win32/api/d2d1/nf-d2d1-id2d1rendertarget-enddraw) или [**ID2D1RenderTarget:: Flush**](/windows/win32/api/d2d1/nf-d2d1-id2d1rendertarget-flush) .
 
@@ -54,7 +54,7 @@ ms.locfileid: "118002845"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

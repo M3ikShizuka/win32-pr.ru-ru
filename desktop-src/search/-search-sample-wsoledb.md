@@ -4,12 +4,12 @@ ms.assetid: c81bf3af-e023-4384-8c89-0fa9c8f08773
 title: всоледб
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 17000de683fc9f5171bc556c607c7c068cabb4b3e88693407e1381565fb6b242
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ff6cecfc308fdfa9af796e64ab8bc6273f9c4d94
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118969623"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363220"
 ---
 # <a name="wsoledb"></a>всоледб
 
@@ -17,13 +17,13 @@ ms.locfileid: "118969623"
 
 В этом разделе содержатся следующие подразделы.
 
-- [Требования](#requirements)
+- [Requirements](#requirements)
 - [Загрузка образца](#downloading-the-sample)
 - [Создание примера](#building-the-sample)
 - [Запуск примера](#running-the-sample)
 - [Связанные темы](#related-topics)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Продукт     | Версия продукта          |
 |-------------|--------------------------|

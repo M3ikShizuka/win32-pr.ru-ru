@@ -4,12 +4,12 @@ description: Максимальное целое число со знаком д
 ms.assetid: E15E9F25-CFC6-435F-B931-A50EA1C8621C
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7e8c51db8442df3c906c0de07fc47308b816681536ae18cbf80e047608dcc48d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 21e4cfb806bf6387752255bbd87d0a7095db3cee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118795156"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345922"
 ---
 # <a name="atomic_imax-sm5---asm"></a>Атомарный \_ Имакс (SM5-ASM)
 
@@ -58,7 +58,7 @@ ms.locfileid: "118795156"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Службы вычислений |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 |        |      |        |          | X     | X       |
 
@@ -70,7 +70,7 @@ ms.locfileid: "118795156"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Службы вычислений |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | X      | X    | X      | X        | X     | X       |
 

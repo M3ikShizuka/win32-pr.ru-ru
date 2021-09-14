@@ -11,11 +11,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: ebbfbc1061d8bca03f52dd8cb7583fbe23ebb33a
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122885251"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342686"
 ---
 # <a name="scripting-api-constants"></a>Константы API скриптов
 
@@ -72,7 +72,7 @@ Visual Basic приложения могут включать библиотек
 <span id="WbemFlagEnum"></span><span id="wbemflagenum"></span><span id="WBEMFLAGENUM"></span>[**вбемфлаженум**](/windows/desktop/api/Wbemdisp/ne-wbemdisp-wbemflagenum)
 </dt> <dd>
 
-Определяет константы, используемые [**SWbemServices.Exeккуери**](swbemservices-execquery.md), [**SWbemServices.Exeккуерясинк**](swbemservices-execqueryasync.md), [**SwbemServices. субклассесоф**](swbemservices-subclassesof.md)и [**SwbemServices. инстанцесоф**](swbemservices-instancesof.md).
+Определяет константы, используемые [**SwbemServices. ExecQuery**](swbemservices-execquery.md), [**SwbemServices. ексеккуерясинк**](swbemservices-execqueryasync.md), [**SwbemServices. субклассесоф**](swbemservices-subclassesof.md)и [**SwbemServices. инстанцесоф**](swbemservices-instancesof.md).
 
 </dd> <dt>
 
@@ -122,7 +122,7 @@ Visual Basic приложения могут включать библиотек
 
 Можно сочетать флаги, чтобы повлиять на более чем один аспект вызова API.
 
-Например, чтобы создать вызов [*семисинчронаус*](gloss-s.md) , параметр *ифлагс* в вызове [**ккуери \_SWbemServices.Exe**](swbemservices-execquery.md) должен содержать два флага: **вбемфлагретурниммедиатели** и **вбемфлагфорвардонли**. Значение **вбемфлагретурниммедиатели** равно 16, а значение **вбемфлагфорвардонли** — 32. Так как к константам нельзя получить доступ по имени, значения этих флагов объединяются, что дает значение *ифлагс* , равное 48.
+Например, чтобы создать вызов [*семисинчронаус*](gloss-s.md) , параметр *ифлагс* в вызове [**SwbemServices. \_ ExecQuery**](swbemservices-execquery.md) должен содержать два флага: **вбемфлагретурниммедиатели** и **вбемфлагфорвардонли**. Значение **вбемфлагретурниммедиатели** равно 16, а значение **вбемфлагфорвардонли** — 32. Так как к константам нельзя получить доступ по имени, значения этих флагов объединяются, что дает значение *ифлагс* , равное 48.
 
 В следующем примере скрипта показан вызов.
 

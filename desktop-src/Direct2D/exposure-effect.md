@@ -4,12 +4,12 @@ description: Увеличение или уменьшение экспозици
 ms.assetid: d384f539-5c19-53c7-e52b-bf833e221449
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bcdcd99e125251c3144d96ffd6054897e6801eb3299c1d1ae90e37494620faea
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cb6f5bda52fecc0b5e3896515b04a6560f17da49
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119652932"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163287"
 ---
 # <a name="exposure-effect"></a>Воздействие на выдержки
 
@@ -20,14 +20,14 @@ ms.locfileid: "119652932"
 -   [Пример изображения](#example-image)
 -   [Образец кода](#sample-code)
 -   [Свойства эффектов](#effect-properties)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example-image"></a>Пример изображения
 
 ![Пример выходных данных эффектов](images/exposure-effect.png)
 
-## <a name="sample-code"></a>Пример кода
+## <a name="sample-code"></a>Образец кода
 
 
 ```C++
@@ -50,7 +50,7 @@ m_d2dContext->EndDraw();
 
 Свойства для влияния на выдержки определяются перечислением [**D2D1 \_ экспозиции \_**](/windows/desktop/api/d2d1effects_2/ne-d2d1effects_2-d2d1_exposure_prop) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

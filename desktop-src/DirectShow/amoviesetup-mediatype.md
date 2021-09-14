@@ -13,11 +13,11 @@ api_type:
 - NA
 api_location: ''
 ms.openlocfilehash: 21300e6b45d40ad9b17e8d5835c41a4f3eaee119
-ms.sourcegitcommit: c16214e53680dc71d1c07111b51f72b82a4512d8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "105684785"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162307"
 ---
 # <a name="amoviesetup_mediatype-structure"></a>\_Структура MEDIATYPE амовиесетуп
 
@@ -27,7 +27,7 @@ Typedef для структуры [**регпинтипес**](/windows/desktop/
 
 <dl> <dt>
 
-[Структуры DirectShow](directshow-structures.md)
+[DirectShow Сотрудник](directshow-structures.md)
 </dt> </dl>
 
  

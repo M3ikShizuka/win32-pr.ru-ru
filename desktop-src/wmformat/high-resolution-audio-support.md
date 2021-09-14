@@ -10,12 +10,12 @@ keywords:
 - звук с высоким разрешением
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 32d80810409eb494d58bd0881a0137feedafd09a21574852c706a716238e6c84
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d5c524e3f73ee1c525fbb9f8539563f3190f2994
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118433603"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343383"
 ---
 # <a name="high-resolution-audio-support"></a>Поддержка High-Resolution Audio
 

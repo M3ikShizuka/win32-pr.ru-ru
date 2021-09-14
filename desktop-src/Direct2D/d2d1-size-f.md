@@ -6,12 +6,12 @@ keywords:
 - D2D1_SIZE_F
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7068319c161d7d6b288da6d3a451d8cdfdda715b9890160d17cc7fe872322381
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4a031e1e6a1e9ad7d6975f3dea63427655aa92f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120087764"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163488"
 ---
 # <a name="d2d1_size_f"></a>D2D1 \_ размер \_ F
 
@@ -24,13 +24,13 @@ typedef D2D_SIZE_F D2D1_SIZE_F;
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Как и точки, размеры являются еще одной важной концепцией графики. В Direct2D размеры представлены структурами **D2D1 \_ size \_ F** или [**D2D1 \_ size \_ U**](d2d1-size-u.md) . Оба содержат упорядоченную пару чисел, обычно ширину и высоту прямоугольника. Структура **D2D1 \_ size \_ F** содержит упорядоченную пару значений **float** , а структура **D2D1 \_ size \_ U** содержит упорядоченную пару значений **UINT32** .
 
 **D2D1 \_ РАЗМЕР \_ f** — это новое имя для уже определенного типа **D2D, \_ равный \_ f**. Список полей, предоставляемых **D2D1 \_ size \_ f**, см. в разделе **\_ Размер D2D \_ f**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ typedef D2D_SIZE_F D2D1_SIZE_F;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

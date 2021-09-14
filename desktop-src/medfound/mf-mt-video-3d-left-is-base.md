@@ -4,12 +4,12 @@ ms.assetid: 11555BA0-D9BE-4239-A857-C9EEE86A8520
 title: Атрибут MF_MT_VIDEO_3D_LEFT_IS_BASE (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: eb03bc12d32b96abc52999ef6a3b21580c4ac1c59125a076b9eb1d620e0bd362
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d8f5ece66db7de19cd77d7e686d9665ad239c6d6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118741596"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363929"
 ---
 # <a name="mf_mt_video_3d_left_is_base-attribute"></a>\_Полевой \_ \_ 3D-ролик MF \_ \_ — \_ базовый атрибут
 
@@ -25,7 +25,7 @@ ms.locfileid: "118741596"
 
 Чтобы преобразовать видео стереоскопик в 2D, следует сохранить базовое представление и отменить другое представление.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -33,7 +33,7 @@ ms.locfileid: "118741596"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8 \[ приложения UWP для классических приложений \|\]<br/>                                  |
 | Минимальная версия сервера<br/> | Windows Server 2012 \[ приложения UWP для классических приложений \|\]<br/>                        |
-| Header<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
 
 
 

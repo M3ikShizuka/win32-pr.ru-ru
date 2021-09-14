@@ -4,12 +4,12 @@ description: Обзор Direct2Dных эффектов.
 ms.assetid: 1446BDA9-AD4C-472C-8F1D-82ABC1880E13
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fe0a88ff64721fc32955416dcfe108b1c9e87f7565a67fc2e1d8192a1eaf369d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 0dd29a4b2968e91bd0d516a74ec01538f69821bb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119317997"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163295"
 ---
 # <a name="effects"></a>Эффекты
 
@@ -27,7 +27,7 @@ Direct2D можно использовать для применения одн�
 
 -   [Фильтрация](built-in-effects.md)
 -   [Композиция и смешивание](built-in-effects.md)
--   [Прозрачность](built-in-effects.md)
+-   [Прозрач](built-in-effects.md)
 -   [Цвет](built-in-effects.md)
 -   [Освещение и стилизация](built-in-effects.md)
 -   [Преобразование и масштабирование](built-in-effects.md)
