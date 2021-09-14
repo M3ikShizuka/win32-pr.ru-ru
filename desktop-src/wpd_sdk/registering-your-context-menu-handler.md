@@ -4,12 +4,12 @@ ms.assetid: 0023004b-b6b3-486a-8b8c-8e63c5731206
 title: Регистрация обработчика контекстного меню
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 027e01d4b3bc58727579b77345d3f1b8eed668e5b858e49eb4859a40db9ad2d9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aafd2798683b4bc291653bca34996f143fc36842
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119083548"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256114"
 ---
 # <a name="registering-your-context-menu-handler"></a>Регистрация обработчика контекстного меню
 
@@ -40,7 +40,7 @@ HKEY_CLASSES_ROOT
 | **Впдконтекстмену. Audio**               | \_тип содержимого \_ WPD \_ Audio                                                                                      | .aiff <br/> .mp3 <br/> .wav <br/> .wma <br/>                                     |
 | **Впдконтекстмену. видео**               | \_ \_ видео типа содержимого \_ WPD                                                                                      | .asf<br/> .avi <br/> . DVR-MS <br/> .mpeg <br/> .mpg <br/> .wmv <br/> |
 | **Впдконтекстмену. список воспроизведения**<br/> | \_ \_ список воспроизведения типов содержимого WPD \_                                                                                   | . wpl <br/> .m3u <br/> . МПЛ <br/> .asx <br/> . областей <br/>                     |
-| **WPDContextMenu.Docумент**            | \_ \_ документ типа содержимого \_ WPD                                                                                   | .doc <br/> .txt <br/> .rtf <br/> .xls <br/> .ppt <br/>                     |
+| **Впдконтекстмену. документ**            | \_ \_ документ типа содержимого \_ WPD                                                                                   | .doc <br/> .txt <br/> .rtf <br/> .xls <br/> .ppt <br/>                     |
 | **Впдконтекстмену. контакт**<br/>  | \_ \_ контакт типа содержимого \_ WPD                                                                                    | Нет                                                                                                     |
 | **WPDContextMenu.Email**               | \_ \_ \_ адрес электронной почты типа содержимого WPD                                                                                      | Нет                                                                                                     |
 | **Впдконтекстмену. Встреча**         | \_тип содержимого WPD — \_ \_ встреча                                                                                | Нет                                                                                                     |

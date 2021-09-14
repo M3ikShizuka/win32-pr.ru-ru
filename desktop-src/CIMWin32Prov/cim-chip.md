@@ -33,12 +33,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 7a20d2066741dd14ada9ed35f29e226723c4fc5d7d3766f1a3762fdf070d0b03
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 953ae371edca42409246307b21aad69a02cf4a66
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117835012"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255913"
 ---
 # <a name="cim_chip-class"></a>\_Класс микросхемы CIM
 
@@ -79,7 +79,7 @@ class CIM_Chip : CIM_PhysicalComponent
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ микросхем CIM** имеет следующие типы членов:
 
@@ -404,7 +404,7 @@ class CIM_Chip : CIM_PhysicalComponent
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -680,7 +680,7 @@ class CIM_Chip : CIM_PhysicalComponent
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **\_ микросхемы CIM** является производным от [**CIM \_ фисикалкомпонент**](cim-physicalcomponent.md).
 

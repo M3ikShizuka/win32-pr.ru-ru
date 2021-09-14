@@ -49,12 +49,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: acf2c33c3561d6024afd196c86eee4aa61af492ec43a4f8a827dfea6fb1d5d4b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3e4f2359e19476dfae111fc361f48e6f73d8cfac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118417060"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255649"
 ---
 # <a name="win32_pointingdevice-class"></a>\_Класс Win32 поинтингдевице
 
@@ -104,7 +104,7 @@ class Win32_PointingDevice : CIM_PointingDevice
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ поинтингдевице** имеет следующие типы членов:
 
@@ -1097,7 +1097,7 @@ Left-Handed операция
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1614,7 +1614,7 @@ Windows Самонастраивающийся идентификатор уст
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ поинтингдевице** является производным от [**CIM \_ поинтингдевице**](cim-pointingdevice.md).
 

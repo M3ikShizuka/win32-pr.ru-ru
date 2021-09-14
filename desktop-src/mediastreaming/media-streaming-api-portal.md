@@ -4,12 +4,12 @@ description: Windows API потоковой передачи мультимед�
 ms.assetid: 24b2824b-59ea-4479-80c3-f4515285edfa
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 899be7e80801cfb85b539a719736c2bd8ffe92dd3e6d09dbef05fd5cb804cf87
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 703720c596f3c53adbcc40ae078673934644dc8e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118972173"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343722"
 ---
 # <a name="windows-media-streaming-api"></a>Windows API потоковой передачи мультимедиа
 

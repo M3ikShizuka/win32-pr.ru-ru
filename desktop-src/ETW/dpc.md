@@ -14,12 +14,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: ef1f0c43d8b91aec1de266176aaef254360c73c99db163280b7bb2d1cbde4832
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e0e756c2b41499a6e5b82129d609befc41d5e916
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118395168"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255049"
 ---
 # <a name="dpc-class"></a>Класс DPC
 
@@ -38,7 +38,7 @@ class DPC : PerfInfo
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **DPC** имеет следующие типы членов:
 
@@ -82,7 +82,7 @@ class DPC : PerfInfo
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эти события регистрируются при входе DPC. Эти события используются для отслеживания и проверки поведения драйверов и компонентов режима ядра. Например, можно использовать события DPC, ISR и Image, чтобы определить, какие компоненты потратили слишком много времени на высокие уровни прерываний. События DPC и ISR имеют отметку времени записи, которая используется для расчета длительности подпрограмм. События изображения считываются для создания областей памяти, сопоставленных с определенными модулями. Сопоставление можно использовать для нахождение модуля, содержащего подпрограммы прерывания.
 

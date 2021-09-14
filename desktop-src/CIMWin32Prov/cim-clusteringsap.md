@@ -23,12 +23,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 0ef9ac5114fb88b6c734712830e5e85cee043c6f9cea5a04c365290cbd496515
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bc2d0296201e06382563cc3a0c34fec4d668cd58
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117834745"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255910"
 ---
 # <a name="cim_clusteringsap-class"></a>\_Класс CIM клустерингсап
 
@@ -59,7 +59,7 @@ class CIM_ClusteringSAP : CIM_ServiceAccessPoint
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ клустерингсап** имеет следующие типы членов:
 
@@ -143,7 +143,7 @@ class CIM_ClusteringSAP : CIM_ServiceAccessPoint
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -360,7 +360,7 @@ class CIM_ClusteringSAP : CIM_ServiceAccessPoint
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **CIM \_ клустерингсап** является производным от [**CIM \_ сервицеакцесспоинт**](cim-serviceaccesspoint.md).
 

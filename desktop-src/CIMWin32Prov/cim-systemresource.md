@@ -19,12 +19,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 61c0600f10ebadcf827b6a913ff98495c885fe04e281234d9b11720d2a336193
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f0c111aa0d69119a7d9182732fb18dd5109d3dde
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119919044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255808"
 ---
 # <a name="cim_systemresource-class"></a>\_Класс CIM системресаурце
 
@@ -51,7 +51,7 @@ class CIM_SystemResource : CIM_LogicalElement
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ системресаурце** имеет следующие типы членов:
 
@@ -117,7 +117,7 @@ class CIM_SystemResource : CIM_LogicalElement
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -243,7 +243,7 @@ class CIM_SystemResource : CIM_LogicalElement
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **CIM \_ системресаурце** является производным от [**CIM \_ логикалелемент**](cim-logicalelement.md).
 

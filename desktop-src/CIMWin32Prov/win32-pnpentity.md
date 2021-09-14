@@ -42,12 +42,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: f1af23a97b34bd646b608feec2898a57d8f0119bfdc5abede867d9788e1d9458
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 62eaa59944c9b71a1b8b3520969122ab23350bba
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118417142"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255664"
 ---
 # <a name="win32_pnpentity-class"></a>\_Класс Win32 пнпентити
 
@@ -90,7 +90,7 @@ class Win32_PnPEntity : CIM_LogicalDevice
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ пнпентити** имеет следующие типы членов:
 
@@ -917,7 +917,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1331,7 +1331,7 @@ Windows Самонастраивающийся идентификатор уст
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ пнпентити** является производным от [**CIM \_**](cim-logicaldevice.md)-класса.
 

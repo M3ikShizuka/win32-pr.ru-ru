@@ -14,12 +14,12 @@ keywords:
 - версии проигрыватель Windows Media, объектная модель
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fa40dea2718c602bfae305703913b418d0f8a48b90278683aba099dfe0d703bb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8eb4d3d09b38e381d0cddeb25ee7cb5d7de3cb2b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118117032"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342510"
 ---
 # <a name="using-the-windows-media-player-7-or-later-object-model"></a>использование объектной модели проигрыватель Windows Media 7 или более поздней версии
 

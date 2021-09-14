@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 6185204c41e177207d32c321985c021a93ea20506da5f4279cd3134a12952097
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d9cc0bc839a4e35c4ce896acdf50da10f0c2bb0c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119907324"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255316"
 ---
 # <a name="ctransinplacefiltercompleteconnect-method"></a>Ктрансинплацефилтер. Комплетеконнект, метод
 
@@ -72,7 +72,7 @@ HRESULT CompleteConnect(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод переопределяет метод [**ктрансформфилтер:: комплетеконнект**](ctransformfilter-completeconnect.md) .
 
@@ -83,7 +83,7 @@ HRESULT CompleteConnect(
 
 Фильтр выполняет все пересоединения ПИН-кода, вызывая метод [**кбасефилтер:: реконнектпин**](cbasefilter-reconnectpin.md) . Метод **реконнектпин** , в свою очередь, вызывает метод [**IFilterGraph2:: реконнектекс**](/windows/desktop/api/Strmif/nf-strmif-ifiltergraph2-reconnectex) в диспетчере графов фильтров.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -94,7 +94,7 @@ HRESULT CompleteConnect(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

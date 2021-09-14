@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 56da848f3829f56d93d7d0383dc7fdc1ec6d5bfd995c2c74507d05eb13801fb4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d4c2d222ca4dd184adfe41f9f610b10f15ee9f02
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119584814"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255334"
 ---
 # <a name="ctransformoutputpinqueryid-method"></a>Ктрансформаутпутпин. QueryId, метод
 
@@ -57,7 +57,7 @@ HRESULT QueryId(
 
 | Код возврата                                                                                   | Описание                          |
 |-----------------------------------------------------------------------------------------------|--------------------------------------|
-| <dl> <dt>**\_ОК**</dt> </dl>          | Success<br/>                   |
+| <dl> <dt>**\_ОК**</dt> </dl>          | Успешное завершение<br/>                   |
 | <dl> <dt>**E \_ OUTOFMEMORY**</dt> </dl> | Недостаточно памяти<br/>       |
 | <dl> <dt>**\_указатель E**</dt> </dl>     | **Пустой** аргумент указателя<br/> |
 
@@ -65,11 +65,11 @@ HRESULT QueryId(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Идентификатор ПИН-кода используется для сохраняемости графа. Идентификатор ПИН-кода для этого класса истекает. Этот класс переопределяет поведение класса [**кбасепин**](cbasepin.md) . В классе **кбасепин** идентификатор ПИН-кода совпадает с именем ПИН-кода, указанным в конструкторе класса. В классе **ктрансформинпутпин** идентификатор ПИН-кода и имя ПИН-кода не совпадают.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

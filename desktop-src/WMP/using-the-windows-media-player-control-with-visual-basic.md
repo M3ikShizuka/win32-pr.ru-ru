@@ -21,18 +21,18 @@ keywords:
 - внедрение, программы на основе Visual Basic
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9b90c03e4b55644b8eceba837b7dfbde15992be7469b102a6194c8a08af1cb73
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e8f2ddd78fe5a254f5bf699fbd2557f1e8700c73
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119134277"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344003"
 ---
 # <a name="using-the-windows-media-player-control-with-visual-basic"></a>использование элемента управления проигрыватель Windows Media с Visual Basic
 
 в этом разделе описано, как использовать элемент управления проигрыватель Windows Media 9 Series или более поздней версии ActiveX в приложениях, созданных с помощью Microsoft Visual Basic 6,0.
 
-## <a name="getting-started"></a>Приступая к работе
+## <a name="getting-started"></a>Начало работы
 
 чтобы добавить элемент управления проигрыватель Windows Media на панель элементов, сначала выберите **компоненты** в меню **Project** . в диалоговом окне компоненты установите флажок рядом с проигрыватель Windows Media. В нижней части диалогового окна убедитесь, что выбранный файл имеет wmp.dll. после закрытия диалогового окна экземпляр элемента управления проигрыватель Windows Media можно поместить в форму обычным образом.
 

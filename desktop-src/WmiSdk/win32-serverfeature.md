@@ -17,12 +17,12 @@ api_type:
 - DllExport
 api_location:
 - ServerCompProv.dll
-ms.openlocfilehash: eddbd71108a5b6b65de329e1c110c965f437e4c24f7ba0a681935ba5075351fb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1be8a2ea1d646e9d882febc7c8eba08b69bb69f3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118312141"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342679"
 ---
 # <a name="win32_serverfeature-class"></a>\_Класс Win32 ServerFeature
 
@@ -44,7 +44,7 @@ class Win32_ServerFeature
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ ServerFeature** имеет следующие типы членов:
 
@@ -234,7 +234,7 @@ SMTP-сервер
 
 57
 
-[Multipath I/O](/windows)
+[Multipath I/O;](/windows)
 
 58
 
@@ -294,7 +294,7 @@ TFTP-клиент
 
 73
 
-Протокол удаленного разностного сжатия
+удаленное разностное сжатие;
 
 310
 
@@ -1442,7 +1442,7 @@ Windows Резервное копирование сервера — функц�
 
 411
 
-[подсистема Windows PowerShell 2,0](/windows)
+[Подсистема Windows PowerShell 2.0](/windows)
 
 412
 
@@ -1454,7 +1454,7 @@ Windows Резервное копирование сервера — функц�
 
 1000
 
-[служба Desired State Configuration Windows PowerShell](/windows)
+[Служба настройки нужного состояния Windows PowerShell](/windows)
 
 платформа .NET Framework 4,5-функции (418)
 
@@ -1516,7 +1516,7 @@ Windows Резервное копирование сервера — функц�
 
 482
 
-[Службы хранилища](/windows)
+[Службы хранения](/windows)
 
 484
 
@@ -1528,7 +1528,7 @@ Windows Резервное копирование сервера — функц�
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1554,7 +1554,7 @@ Windows Резервное копирование сервера — функц�
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 ознакомьтесь с [техническим обзором Windows server 2008 диспетчер сервера](/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc753319(v=ws.10)) , чтобы узнать о возможностях сервера.
 
@@ -2715,7 +2715,7 @@ Windows Server 2012: **Win32 \_ ServerFeature** является устарев�
 
 </dd> </dl>
 
-### <a name="windows-server-2012"></a>Windows Server 2012
+### <a name="windows-server-2012"></a>Windows Server 2012
 
 <dl> <dt>
 

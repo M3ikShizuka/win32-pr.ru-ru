@@ -4,12 +4,12 @@ ms.assetid: 957f53d2-3310-4be5-8ebe-2c83104e5c29
 title: Расширения D3DXMATRIX
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7378cad1c6922e97fee16c679397bed630b81c48e7ce8a44b210040cb3dd70c2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0eb5bd9252024daba24cfb6eafe9da2eb926aac5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118095924"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343822"
 ---
 # <a name="d3dxmatrix-extensions"></a>Расширения D3DXMATRIX
 

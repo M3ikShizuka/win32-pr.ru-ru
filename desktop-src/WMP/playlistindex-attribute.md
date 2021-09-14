@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 56dcb57c6572ee8ea9fd10ba753d6d0ffb0149e759cb2250bae7d07ecbfa474f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d03edc8a33fb854aa8790de2415a7039b2792698
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118334525"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343179"
 ---
 # <a name="playlistindex-attribute"></a>Атрибут Плайлистиндекс
 

@@ -3,7 +3,7 @@ title: Объект модуля записи
 description: Объект модуля записи
 ms.assetid: 8058b7fe-7d02-4572-ad43-6867d4ceb7e9
 keywords:
-- Windows Media Format SDK, объекты записи
+- Windows Пакет SDK для формата мультимедиа, объекты модуля записи
 - Расширенный системный формат (ASF), объекты модуля записи
 - ASF (Расширенный системный формат), объекты записи
 - объекты, объекты записи
@@ -11,11 +11,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 42d4783a8330ac1f0f16bc2ca2de4e843cbacc06
-ms.sourcegitcommit: ad672d3a10192c5ccac619ad2524407109266e93
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "103789240"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343355"
 ---
 # <a name="writer-object"></a>Объект модуля записи
 
@@ -32,7 +32,7 @@ ms.locfileid: "103789240"
 | Интерфейс                                          | Описание                                                                                                                                                                                               |
 |----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**ивмдрмвритер**](/previous-versions/windows/desktop/api/wmsdkidl/nn-wmsdkidl-iwmdrmwriter)               | Предоставляет методы для создания ключей [*DRM*](wmformat-glossary.md) .                                                                                                |
-| [**IWMDRMWriter2**](/previous-versions/windows/desktop/api/wmsdkidl/nn-wmsdkidl-iwmdrmwriter2)             | Настраивает объект модуля записи для записи файла, содержащего предварительно зашифрованный поток, который соответствует протоколу Windows Media DRM 10 для сетевых устройств.                                                    |
+| [**IWMDRMWriter2**](/previous-versions/windows/desktop/api/wmsdkidl/nn-wmsdkidl-iwmdrmwriter2)             | настраивает объект модуля записи для записи файла, содержащего предварительно зашифрованный поток, который соответствует протоколу Windows Media DRM 10 для сетевых устройств.                                                    |
 | [**ивмхеадеринфо**](/previous-versions/windows/desktop/api/wmsdkidl/nn-wmsdkidl-iwmheaderinfo)             | Управляет спецификацией и получением сведений о заголовках, таких как метаданные, [*маркеры*](wmformat-glossary.md)и т. д.                                                           |
 | [**IWMHeaderInfo2**](/previous-versions/windows/desktop/api/wmsdkidl/nn-wmsdkidl-iwmheaderinfo2)           | Управляет перечислением доступных сведений о кодека. Наследует все методы **ивмхеадеринфо**.                                                                                            |
 | [**IWMHeaderInfo3**](/previous-versions/windows/desktop/api/wmsdkidl/nn-wmsdkidl-iwmheaderinfo3)           | Управляет перечислением доступных сведений о кодека. Наследует все методы **ивмхеадеринфо** и **IWMHeaderInfo2**.                                                                     |
@@ -46,7 +46,7 @@ ms.locfileid: "103789240"
 
 
 
- 
+ 
 
 Для отслеживания хода выполнения просмотра в приложении должен быть реализован следующий интерфейс обратного вызова.
 
@@ -58,9 +58,9 @@ ms.locfileid: "103789240"
 
 
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -70,9 +70,9 @@ ms.locfileid: "103789240"
 [**Запись файлов ASF**](writing-asf-files.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

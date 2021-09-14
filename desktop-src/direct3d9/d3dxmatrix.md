@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3dx9math.h
-ms.openlocfilehash: 7390b31aa2cc2c81d3d56656efb3c9ff3b6c1de81bf3e5d4de471fd1f7058553
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fad44c13f7b856270fe6475f9e099f6e1714e064
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118525335"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343819"
 ---
 # <a name="d3dxmatrix-structure-d3dx9mathh"></a>Структура D3DXMATRIX (D3dx9math. h)
 
@@ -35,7 +35,7 @@ typedef struct D3DXMATRIX {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -50,7 +50,7 @@ typedef struct D3DXMATRIX {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Программисты C не могут использовать структуру D3DXMATRIX, они должны использовать структуру [**D3DMATRIX**](d3dmatrix.md) . Программисты C++ могут воспользоваться преимуществами перегруженных конструкторов и операторов присваивания, унарных и бинарных (включая равенство).
 

@@ -14,12 +14,12 @@ keywords:
 - DMO (объект DirectX Media), типы категорий водяных знаков
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2747cda6e9e5fea7d66ede780fa513ec05802904dc1dbfe49f2c4630881c74a9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c3d9dad2eed4c6a3634581e7a44abce5834d6d96
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117653447"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256180"
 ---
 # <a name="watermark-category-types"></a>Типы категорий водяных знаков
 

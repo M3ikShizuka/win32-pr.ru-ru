@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.colu
 ms:contentKeyID: 55101147
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 4053991221a768e486862b3bb86c9cae193407f5815c662d723871a65654db2a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9f35c0e000329bc98e2f9fd5873cd724516271d2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119738284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258432"
 ---
 # <a name="columnstream-members"></a>Участники ColumnStream 
 
@@ -30,7 +30,7 @@ ms.locfileid: "119738284"
 <tr class="header">
 <th> </th>
 <th>Имя</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>
@@ -52,7 +52,7 @@ ms.locfileid: "119738284"
 <tr class="header">
 <th> </th>
 <th>Имя</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>
@@ -114,7 +114,7 @@ ms.locfileid: "119738284"
 <tr class="header">
 <th> </th>
 <th>Имя</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>
@@ -235,7 +235,7 @@ ms.locfileid: "119738284"
 </tr>
 <tr class="even">
 <td><img src="../images/dn292146.pubmethod(exchg.10).gif" title="Открытый метод" alt="Public method" /></td>
-<td><a href="dn334197(v=exchg.10).md">Запись</a></td>
+<td><a href="dn334197(v=exchg.10).md">запись</a></td>
 <td>Записывает последовательность байтов в текущий поток и перемещает текущую позицию внутри потока на число записанных байтов. (Переопределяет <a href="/dotnet/api/system.io.stream.write#System_IO_Stream_Write_System_Byte___System_Int32_System_Int32_">Stream. Write ([], Int32, Int32)</a>.)</td>
 </tr>
 <tr class="odd">

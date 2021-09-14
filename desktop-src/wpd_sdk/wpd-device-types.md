@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - PortableDevice.h
-ms.openlocfilehash: 747c4631bc2c24a6550904e36e58a6fc02547bc010da7fa1d08b896c6c17489c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3e71acf200a95bba05b7298a5824bfa353e4a90b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119657464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256078"
 ---
 # <a name="wpd_device_types-enumeration"></a>\_ \_ Перечисление типов устройств WPD
 
@@ -94,7 +94,7 @@ typedef enum tagWPD_DEVICE_TYPES {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 **WPD \_ Чтение \_ типов устройств** осуществляется с помощью интерфейса [**ипортабледевицеманажер**](/windows/desktop/api/PortableDeviceApi/nn-portabledeviceapi-iportabledevicemanager) . Приложения WPD могут использовать эти значения для определения универсального внешнего вида устройства. Это значит, что для устройств, подобных камере, отображается изображение камеры, изображение мобильного телефона отображается для устройств, подобных телефонам, и т. д.
 
@@ -103,7 +103,7 @@ typedef enum tagWPD_DEVICE_TYPES {
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -113,7 +113,7 @@ typedef enum tagWPD_DEVICE_TYPES {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

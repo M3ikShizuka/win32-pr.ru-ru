@@ -15,11 +15,11 @@ api_location:
 - Windowscodecs.dll
 - Windowscodecs.lib
 ms.openlocfilehash: 6717764d0c25d64f99ab5d864bd0e77a63b88330
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105702390"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343490"
 ---
 # <a name="wiccreateimagingfactory_proxy-function"></a>Виккреатеимагингфактори \_ -функция прокси
 
@@ -58,9 +58,9 @@ HRESULT WICCreateImagingFactory_Proxy(
 
 Если эта функция завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-Эта функция является вспомогательной функцией для создания фабрики WIC для явной компоновки DLL, которая была необходима для Windows XP. В нормальном использовании вместо этого следует использовать [**CoCreateInstance**](/windows/win32/api/combaseapi/nf-combaseapi-cocreateinstance) (см. [фабрики классов API WIC](./-wic-api.md#class-factories)), так как они всегда включаются во все более новые версии Windows.
+эта функция является вспомогательной функцией для создания фабрики WIC для явной компоновки DLL, которая была необходима для Windows XP. В нормальном использовании вместо этого следует использовать [**CoCreateInstance**](/windows/win32/api/combaseapi/nf-combaseapi-cocreateinstance) (см. [фабрики классов API WIC](./-wic-api.md#class-factories)), так как они всегда включаются во все более новые версии Windows.
 
 ## <a name="requirements"></a>Требования
 
@@ -68,8 +68,8 @@ HRESULT WICCreateImagingFactory_Proxy(
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Windows XP с пакетом обновления 2 (SP2), \[ только классические приложения Windows Vista\]<br/>                                                                                              |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                                                                                             |
+| Минимальная версия клиента<br/> | Windows XP с пакетом обновления 2 (SP2), Windows \[ только классические приложения Vista\]<br/>                                                                                              |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                                                                                             |
 | DLL<br/>                      | <dl> <dt>Windowscodecs.dll; </dt> <dt>виндовскодекс. lib</dt> </dl> |
 
 

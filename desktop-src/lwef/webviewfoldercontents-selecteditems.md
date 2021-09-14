@@ -3,9 +3,9 @@ title: Метод WebViewFolderContents.SelectedItems (Shldisp.h)
 description: Вебвиевфолдерконтентс. SelectedItems, метод возвращает объект Фолдеритемс, представляющий все выбранные элементы в представлении.
 ms.assetid: 683acac4-f157-4a75-a3f8-c693887c1ea5
 keywords:
-- Устаревшие функции среды Windows в методе SelectedItems
-- Метод SelectedItems устаревшие функции среды Windows, объект Вебвиевфолдерконтентс
-- Устаревшие функции среды Windows для объекта Вебвиевфолдерконтентс, метод SelectedItems
+- устаревшие функции Windows метода SelectedItems
+- метод SelectedItems устаревшие функции среды Windows, объект вебвиевфолдерконтентс
+- устаревшие компоненты Windows среды для объекта вебвиевфолдерконтентс, метод SelectedItems
 topic_type:
 - apiref
 api_name:
@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 25a242991f6f9472610dffa20593f9cab5d8c310
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108102652"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342535"
 ---
 # <a name="webviewfoldercontentsselecteditems-method"></a>Вебвиевфолдерконтентс. SelectedItems, метод
 
@@ -48,7 +48,7 @@ retVal = WebViewFolderContents.SelectedItems()
 
 ## <a name="examples"></a>Примеры
 
-В следующем примере показано правильное использование этого метода для JScript Embedded в HTML.
+в следующем примере показано правильное использование этого метода для JScript, внедренного в HTML.
 
 
 ```HTML
@@ -88,7 +88,7 @@ retVal = WebViewFolderContents.SelectedItems()
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ классических приложений Windows XP\]<br/>                                         |
+| Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ настольных приложений Windows XP\]<br/>                                         |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                           |
 | Заголовок<br/>                   | <dl> <dt>Шлдисп. h</dt> </dl>                           |
 | IDL<br/>                      | <dl> <dt>Шлдисп. idl</dt> </dl>                         |

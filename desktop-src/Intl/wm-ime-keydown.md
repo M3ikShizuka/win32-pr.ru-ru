@@ -4,12 +4,12 @@ ms.assetid: db7075fb-b3d4-4d32-a0db-096d17d67c72
 title: Сообщение WM_IME_KEYDOWN (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: beed8bb074e1bae300d52c52867cc8d1f26b84bb8abf358ad2858df7356a0a0c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f3089af3c839f70e7f55895ae13158e7b2240605
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119535314"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254806"
 ---
 # <a name="wm_ime_keydown-message"></a>\_Сообщение KeyDown редактора IME WM \_
 
@@ -76,7 +76,7 @@ LRESULT CALLBACK WindowProc(
 
 Приложение может обработать это сообщение или передать его функции [**дефвиндовпрок**](/windows/desktop/api/winuser/nf-winuser-defwindowproca)  для создания соответствующего сообщения [**WM \_ KeyDown**](../inputdev/wm-keydown.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -88,7 +88,7 @@ LRESULT CALLBACK WindowProc(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

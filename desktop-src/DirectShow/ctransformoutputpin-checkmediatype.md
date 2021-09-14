@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 3894e701b22f6380e591eccf978e84a1321f57a84485cea8a6e3116181f3f2c6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7dc0edc642687518979eab1d47c69af039bc3173
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119538464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255388"
 ---
 # <a name="ctransformoutputpincheckmediatype-method"></a>Ктрансформаутпутпин. Чеккмедиатипе, метод
 
@@ -68,7 +68,7 @@ HRESULT CheckMediaType(
 
 Этот метод реализует чистый виртуальный метод [**кбасепин:: чеккмедиатипе**](cbasepin-checkmediatype.md) . Метод завершается ошибкой, если входной ПИН-код фильтра не подключен. В противном случае он вызывает метод [**ктрансформфилтер:: чекктрансформ**](ctransformfilter-checktransform.md) фильтра, который также является чистым виртуальным. Производный класс фильтра должен реализовывать **чекктрансформ**, который определяет, совместим ли предложенный тип выходного носителя с входным типом носителя.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

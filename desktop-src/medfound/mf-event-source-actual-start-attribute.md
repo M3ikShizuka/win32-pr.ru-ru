@@ -4,12 +4,12 @@ ms.assetid: b598b4d1-40e1-4282-b312-5aa6ca3a6733
 title: Атрибут MF_EVENT_SOURCE_ACTUAL_START (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 46ce39e8a9f90ad0cd7f0cbd590b32719ab10dbd8e498c396e86772ce333e94c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0132fd8fc50f4e71a3b5bb334bc528d86c04e50c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119104840"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127364077"
 ---
 # <a name="mf_event_source_actual_start-attribute"></a>\_Атрибут "источник события MF — \_ \_ фактическое \_ Начало"
 
@@ -39,7 +39,7 @@ ms.locfileid: "119104840"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                               |
-| Header<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
 
 
 

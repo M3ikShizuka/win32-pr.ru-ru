@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 6392857aca4b27f15ed3fb8ea13e72c476628ba35115681847a1de5671869def
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 02e237714f020f5bafa3ce8b7465f1c8e2615c01
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118077369"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258155"
 ---
 # <a name="icontentequatablet-interface"></a>\<T\>Интерфейс иконтентекуатабле
 
@@ -56,7 +56,7 @@ public interface IContentEquatable<T>
   - T  
     Тип объектов для комапре.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

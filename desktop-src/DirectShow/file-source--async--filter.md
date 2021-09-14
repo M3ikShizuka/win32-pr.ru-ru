@@ -5,11 +5,11 @@ title: Фильтр по источнику файлов (Async)
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 1ddeea7398ce332a8b1db444b6b74fe3841f9053
-ms.sourcegitcommit: 63753fcfb0afbbe5ec283fb8316e62c2dc950f66
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "107909702"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255166"
 ---
 # <a name="file-source-async-filter"></a>Фильтр по источнику файлов (Async)
 
@@ -40,7 +40,7 @@ ms.locfileid: "107909702"
 
 <dl> <dt>
 
-[Фильтры DirectShow](directshow-filters.md)
+[DirectShow Фильтрующ](directshow-filters.md)
 </dt> </dl>
 
  

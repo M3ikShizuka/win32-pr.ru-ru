@@ -19,12 +19,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: f3c5021af0a6c022a2247b6e7360dfe8cfa1cbc021edff2aee048efecd8cd290
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d2fa84cd5981d41700762e5db70ccbdc0cde4308
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118008259"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255673"
 ---
 # <a name="win32_pnpdevicepropertyuint8-class"></a>\_Класс Win32 PnPDevicePropertyUint8
 
@@ -45,7 +45,7 @@ class Win32_PnPDevicePropertyUint8 : Win32_PnPDeviceProperty
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ PnPDevicePropertyUint8** имеет следующие типы членов:
 
@@ -512,7 +512,7 @@ class Win32_PnPDevicePropertyUint8 : Win32_PnPDeviceProperty
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

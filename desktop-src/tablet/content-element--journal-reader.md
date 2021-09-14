@@ -5,11 +5,11 @@ title: Элемент Content [средство чтения журнала]
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: d544aebac1292a81c9a4acd05cb25da80977027e
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122478110"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343571"
 ---
 # <a name="content-element-journal-reader"></a>\[Средство чтения журнала элементов содержимого\]
 
@@ -33,11 +33,11 @@ ms.locfileid: "122478110"
 
 [**Рисование**](drawing-element.md)
 
-[**Полнотекстовым**](text-element.md)
+[**Текст**](text-element.md)
 
 [**Изображение**](image-element.md)
 
-[**Пометить**](flag-element.md)
+[**Flag**](flag-element.md)
 
 ## <a name="attributes"></a>Атрибуты
 

@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c5e4a8fbdcc372fb68ce8659e56acddee8e58bd52777a5444aea368935169fcb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4d32337fbdaeaee792836cd0b4ee1e8fb3baf9c9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117655610"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343394"
 ---
 # <a name="hasimage"></a>хасимаже
 
@@ -37,7 +37,7 @@ g \_ всзвмхасимаже
 
 Этот атрибут не может дублироваться на уровне файла. если этот атрибут используется для отдельного потока, он будет рассматриваться как пользовательские метаданные и не будет передавать свое нормальное значение объектам из пакета SDK Windows Media Format.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

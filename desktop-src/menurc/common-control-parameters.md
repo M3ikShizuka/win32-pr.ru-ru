@@ -4,12 +4,12 @@ description: Ниже описан общий синтаксис для инст
 ms.assetid: e7a49a9f-93b5-4221-8006-3d1864b7a6a1
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: abbdbf707e1ee72f62c7c08cb7065f4d1a4b8f2f4c000d52f3a28c9806a21a0f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 261c71163276ed39841d6f6d7e125d4eb5420072
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117870565"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343694"
 ---
 # <a name="common-control-parameters"></a>Общие параметры управления
 

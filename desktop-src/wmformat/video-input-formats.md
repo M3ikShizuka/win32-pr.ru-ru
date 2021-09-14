@@ -3,27 +3,27 @@ title: Форматы входных данных видео
 description: Форматы входных данных видео
 ms.assetid: 0f1ec15d-328e-4c07-bf58-fd4ecb483549
 keywords:
-- Windows Media Format SDK, форматы входных данных видео
+- Windows Пакет SDK для формата мультимедиа, форматы входных данных видео
 - Формат расширенных систем (ASF), форматы входных данных видео
 - ASF (расширенный формат систем), форматы входных данных видео
 - форматы входных данных видео
-- Windows Media Format SDK, форматы видео
+- Windows Пакет SDK для формата мультимедиа, форматы видео
 - Расширенный формат систем (ASF), форматы видео
 - ASF (расширенный формат систем), форматы видео
 - форматы видео
-- Кодек Windows Media Video 9, форматы входных видео
+- Windows Кодек Media Video 9, форматы входных видео
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 3c5113ee3cbd9c9235104f858968db20ebc29e3a
-ms.sourcegitcommit: ad672d3a10192c5ccac619ad2524407109266e93
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "105691480"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256189"
 ---
 # <a name="video-input-formats"></a>Форматы входных данных видео
 
-Модуль записи принимает следующие форматы видео в качестве входных данных для сжатия с помощью кодека Windows Media Video 9:
+модуль записи принимает следующие видеоформаты в качестве входных данных для сжатия с помощью кодека Windows Media video 9:
 
 -   ВММЕДИАСУБТИПЕ \_ ийув
 -   ВММЕДИАСУБТИПЕ \_ I420
@@ -40,7 +40,7 @@ ms.locfileid: "105691480"
 
 Следует всегда использовать [**ивмвритер:: жетинпутформаткаунт**](/previous-versions/windows/desktop/api/wmsdkidl/nf-wmsdkidl-iwmwriter-getinputformatcount) и [**Ивмвритер:: жетинпутформат**](/previous-versions/windows/desktop/api/Wmsdkidl/nf-wmsdkidl-iwmwriter-getinputformat) для перечисления доступных входных форматов и получения входного объекта свойств носителя для требуемого формата. Видео входные свойства мультимедиа необходимо изменить, чтобы отразить размер кадра и частоту кадров входного носителя.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -50,9 +50,9 @@ ms.locfileid: "105691480"
 [**Типы носителей**](media-types.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

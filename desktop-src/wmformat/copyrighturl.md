@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4a8645c68be441c95eb460585f903d6e7e0f1f550a66e663ed7b625937872546
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a1874e3d07afe1b8a2dbb57a118f258d70ae1a00
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118433920"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256369"
 ---
 # <a name="copyrighturl"></a>копиригхтурл
 
@@ -31,11 +31,11 @@ g \_ всзвмкопиригхтурл
 
 **\_Строка типа \_ ВМТ**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут применяется ко всему файлу.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

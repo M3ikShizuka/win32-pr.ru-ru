@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55101791
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: c062eb40d68427df9ed56d59fbcd53a56540187d825f57835a39ce8fda023b89
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5a0a0f6029f15e7c266daa8197661b688f148b76
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118495269"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258355"
 ---
 # <a name="esentindextuplesnonuniqueonlyexception-members"></a>Элементы Есентиндекступлеснонуникуеонлексцептион
 
@@ -30,7 +30,7 @@ ms.locfileid: "118495269"
 <tr class="header">
 <th> </th>
 <th>Имя</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>
@@ -52,7 +52,7 @@ ms.locfileid: "118495269"
 <tr class="header">
 <th> </th>
 <th>Имя</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>
@@ -73,7 +73,7 @@ ms.locfileid: "118495269"
 </tr>
 <tr class="even">
 <td><img src="../images/dn292128.protproperty(exchg.10).gif" title="Защищенное свойство" alt="Protected property" /></td>
-<td><a href="/dotnet/api/system.exception.hresult#System_Exception_HResult">HResult</a></td>
+<td><a href="/dotnet/api/system.exception.hresult#System_Exception_HResult">Состав</a></td>
 <td>(Наследуется от <a href="/dotnet/api/system.exception">Exception</a>.)</td>
 </tr>
 <tr class="odd">
@@ -114,7 +114,7 @@ ms.locfileid: "118495269"
 <tr class="header">
 <th> </th>
 <th>Имя</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>
@@ -164,7 +164,7 @@ ms.locfileid: "118495269"
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

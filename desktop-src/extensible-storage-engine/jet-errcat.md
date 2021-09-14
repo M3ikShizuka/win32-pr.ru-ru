@@ -8,11 +8,11 @@ ms:contentKeyID: 37033566
 ms.date: 04/11/2016
 ms.topic: article
 ms.openlocfilehash: dee8dc7850cf69957c360253b942117739fe405b
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122987557"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342587"
 ---
 # <a name="jet_errcat"></a>JET_ERRCAT
 
@@ -58,7 +58,7 @@ _**Применимо к:** Windows | Windows Сервером_
 ### <a name="requirements"></a>Требования
 
 
-| Требование | Применение |
+| Требование | Значение |
 |------------|----------|
 | <p><strong>Клиент</strong></p> | <p>Требуется Windows 8.</p> | 
 | <p><strong>Server</strong></p> | <p>требуется Windows 8 Server.</p> | 

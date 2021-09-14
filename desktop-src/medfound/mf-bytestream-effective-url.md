@@ -4,12 +4,12 @@ ms.assetid: 0A83CFC0-7EAA-464B-BA39-50DF220AF683
 title: Атрибут MF_BYTESTREAM_EFFECTIVE_URL (Мфобжектс. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 98f26ece6ef4b0c4b25629f6669296cec56e23a4bf28b7e284b343e16c0df512
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b95e01238f04c30f72d55f940b3f3105863247ed
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119941084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127364108"
 ---
 # <a name="mf_bytestream_effective_url-attribute"></a>\_Атрибут BYTESTREAM для \_ действующего \_ URL-адреса MF
 
@@ -31,7 +31,7 @@ ms.locfileid: "119941084"
 
 Действующий URL-адрес может отличаться от исходного URL-адреса, если исходный URL-адрес содержит дополнительные сведения, например строки поиска или привязки, или если запрос был перенаправлен.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ ms.locfileid: "119941084"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: aa6407ab3da424852b7896f5e4a60490efea140da6e45287991b0d9e96dd9cbe
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c8df897f876673f6b4afe875e718401ae4c217e5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119955164"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343046"
 ---
 # <a name="swbemmethodinparameters-property"></a>Свбеммесод. out, свойство
 
@@ -69,16 +69,16 @@ SWbemMethod.InParameters As Object
 [**свбеммесод**](swbemmethod.md)
 </dt> <dt>
 
-[**SWbemObject.ExeКмесод\_**](swbemobject-execmethod-.md)
+[**SWbemObject. ExecMethod\_**](swbemobject-execmethod-.md)
 </dt> <dt>
 
-[**SWbemObject.ExeКмесодасинк\_**](swbemobject-execmethodasync-.md)
+[**SWbemObject. Ексекмесодасинк\_**](swbemobject-execmethodasync-.md)
 </dt> <dt>
 
-[**SWbemServices.ExeКмесод**](swbemservices-execmethod.md)
+[**SWbemServices. ExecMethod**](swbemservices-execmethod.md)
 </dt> <dt>
 
-[**SWbemServices.ExeКмесодасинк**](swbemservices-execmethodasync.md)
+[**SWbemServices. Ексекмесодасинк**](swbemservices-execmethodasync.md)
 </dt> </dl>
 
  

@@ -3,7 +3,7 @@ title: Список воспроизведения. getNextCheckedItem2
 description: Метод getNextCheckedItem2 извлекает индекс следующего отмеченного элемента списка воспроизведения после указанного индекса.
 ms.assetid: 64e51fd1-eb0f-47e5-8684-96824f4f3194
 keywords:
-- Проигрыватель Windows Media Player. getNextCheckedItem2
+- проигрыватель Windows Media списка воспроизведения. getNextCheckedItem2
 topic_type:
 - apiref
 api_name:
@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 50bb2fd6ed6e3328df29a59381571204ebd28369
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105704138"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343258"
 ---
 # <a name="playlistgetnextcheckeditem2"></a>Список воспроизведения. getNextCheckedItem2
 
@@ -43,7 +43,7 @@ ms.locfileid: "105704138"
 
 Этот метод возвращает **число** (**Long**).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот метод может работать с вложенными списками воспроизведения и заменять метод **жетнекстчеккедитем** , который не может. Передайте 1 в параметре *Item* , чтобы найти первый отмеченный элемент. Если элементы, помеченные флажками, отсутствуют, этот метод возвращает значение 1.
 
@@ -53,7 +53,7 @@ ms.locfileid: "105704138"
 
 | Требование | Значение |
 |--------------------|---------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media 9 Series или более поздней версии<br/> |
+| Версия<br/> | проигрыватель Windows Media 9 Series или более поздней версии<br/> |
 
 
 

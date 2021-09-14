@@ -14,12 +14,12 @@ api_type:
 api_location:
 - PortableDeviceGUIDs.lib
 - PortableDeviceGUIDs.dll
-ms.openlocfilehash: cbbea545f0f3c75281c5abb7e68795750521251392529d037bf18682e84dc436
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3db3b8410ca82a97a41fdf45ee3f866cb8d2e4b5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118697082"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343351"
 ---
 # <a name="iportabledevicevaluesgetiportabledevicevaluescollectionvalue-method"></a>Метод Ипортабледевицевалуес:: Жетипортабледевицевалуесколлектионвалуе
 

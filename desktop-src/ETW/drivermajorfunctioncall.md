@@ -18,12 +18,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: b69012ae3d9dd46d2dd54c3859895288b9113fa89c772172e3f66a730b058d4e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c944b11c9019ba5244850f035bfc7c02d5ca3350
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119070244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255043"
 ---
 # <a name="drivermajorfunctioncall-class"></a>Класс Дривермажорфунктионкалл
 
@@ -46,7 +46,7 @@ class DriverMajorFunctionCall : DiskIo
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **дривермажорфунктионкалл** имеет следующие типы членов:
 
@@ -154,7 +154,7 @@ class DriverMajorFunctionCall : DiskIo
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -165,7 +165,7 @@ class DriverMajorFunctionCall : DiskIo
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

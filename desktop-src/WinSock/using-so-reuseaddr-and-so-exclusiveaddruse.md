@@ -4,12 +4,12 @@ ms.assetid: b37a3e33-65ee-43b1-bc8b-3280db7ebee4
 title: Использование SO_REUSEADDR и SO_EXCLUSIVEADDRUSE
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2d58b0249ab19b4c7a1655a1c65130d545d328ef4fba3fd56ae9b05a911cb3fe
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: aaa4024f031102cbd634c235bb39f4c7860e6c1d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120121153"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342695"
 ---
 # <a name="using-so_reuseaddr-and-so_exclusiveaddruse"></a>Использование \_ реусеаддр и так далее \_ ексклусивеаддрусе
 
@@ -29,7 +29,7 @@ ms.locfileid: "120121153"
 | Windows NT 4.0      | Доступно     | Доступно в пакете обновления 4 и более поздних версий | Недоступно            |
 | Windows 2000        | Доступно     | Доступно                             | Недоступно            |
 | Windows XP          | Доступно     | Доступно                             | Недоступно            |
-| Windows Server 2003 | Доступно     | Доступно                             | Доступно                |
+| Windows Server 2003 | Доступно     | Доступно                             | Доступно                |
 | Windows Vista       | Доступно     | Доступно                             | Доступно                |
 | Windows Server 2008 | Доступно     | Доступно                             | Доступно                |
 | Windows 7and более поздней версии  | Доступно     | Доступно                             | Доступно                |
@@ -179,17 +179,17 @@ ms.locfileid: "120121153"
         <td bgcolor="#C0C0C0" rowspan="2">По умолчанию</td>
         <td bgcolor="#C0C0C0">Подстановочный знак</td>
         <td>ИСПОЛЬЗУЕМЫХ</td>
-        <td>Success</td>
+        <td>Успешное завершение</td>
         <td>ACCESS;</td>
-        <td>Success</td>
+        <td>Успешное завершение</td>
         <td>ИСПОЛЬЗУЕМЫХ</td>
-        <td>Success</td>
+        <td>Успешное завершение</td>
     </tr>
     <tr>
         <td bgcolor="#C0C0C0">Specific</td>
-        <td>Success</td>
+        <td>Успешное завершение</td>
         <td>ИСПОЛЬЗУЕМЫХ</td>
-        <td>Success</td>
+        <td>Успешное завершение</td>
         <td>ACCESS;</td>
         <td>ИСПОЛЬЗУЕМЫХ</td>
         <td>ИСПОЛЬЗУЕМЫХ</td>
@@ -202,11 +202,11 @@ ms.locfileid: "120121153"
         <td>Успех</td>
         <td>Успех</td>
         <td>ИСПОЛЬЗУЕМЫХ</td>
-        <td>Success</td>
+        <td>Успешное завершение</td>
     </tr>
     <tr>
         <td bgcolor="#C0C0C0">Specific</td>
-        <td>Success</td>
+        <td>Успешное завершение</td>
         <td>ИСПОЛЬЗУЕМЫХ</td>
         <td>Успех</td>
         <td>Успех</td>
@@ -225,9 +225,9 @@ ms.locfileid: "120121153"
     </tr>
     <tr>
         <td bgcolor="#C0C0C0">Specific</td>
-        <td>Success</td>
+        <td>Успешное завершение</td>
         <td>ИСПОЛЬЗУЕМЫХ</td>
-        <td>Success</td>
+        <td>Успешное завершение</td>
         <td>ACCESS;</td>
         <td>ИСПОЛЬЗУЕМЫХ</td>
         <td>ИСПОЛЬЗУЕМЫХ</td>
@@ -270,9 +270,9 @@ ms.locfileid: "120121153"
     </tr>
     <tr>
         <td bgcolor="#C0C0C0">Specific</td>
-        <td>Success</td>
+        <td>Успешное завершение</td>
         <td>ИСПОЛЬЗУЕМЫХ</td>
-        <td>Success</td>
+        <td>Успешное завершение</td>
         <td>ACCESS;</td>
         <td>ИСПОЛЬЗУЕМЫХ</td>
         <td>ИСПОЛЬЗУЕМЫХ</td>
@@ -289,7 +289,7 @@ ms.locfileid: "120121153"
     </tr>
     <tr>
         <td bgcolor="#C0C0C0">Specific</td>
-        <td>Success</td>
+        <td>Успешное завершение</td>
         <td>ИСПОЛЬЗУЕМЫХ</td>
         <td>Успех</td>
         <td>Успех</td>
@@ -308,9 +308,9 @@ ms.locfileid: "120121153"
     </tr>
     <tr>
         <td bgcolor="#C0C0C0">Specific</td>
-        <td>Success</td>
+        <td>Успешное завершение</td>
         <td>ИСПОЛЬЗУЕМЫХ</td>
-        <td>Success</td>
+        <td>Успешное завершение</td>
         <td>ACCESS;</td>
         <td>ИСПОЛЬЗУЕМЫХ</td>
         <td>ИСПОЛЬЗУЕМЫХ</td>

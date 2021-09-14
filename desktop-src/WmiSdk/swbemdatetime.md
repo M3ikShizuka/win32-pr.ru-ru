@@ -15,12 +15,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 25f8b04aa8c581d8d7e40ab1d52162d305c97d0d8ce3f7d626cb3d29e7262666
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 65f3f9836b52693e3f74bac5cfd94553e02d7bf9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119050092"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343079"
 ---
 # <a name="swbemdatetime-object"></a>Объект SWbemDateTime
 
@@ -54,26 +54,26 @@ ms.locfileid: "119050092"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Объект **SWbemDateTime** имеет следующие свойства.
 
 
 
-| Свойство                                                                        | Тип доступа           | Описание                                                                                                                     |
+| Свойство.                                                                        | Тип доступа           | Описание                                                                                                                     |
 |:--------------------------------------------------------------------------------|:----------------------|:--------------------------------------------------------------------------------------------------------------------------------|
-| [**День**](swbemdatetime-day.md)<br/>                                     | Чтение/запись<br/> | Компонент дня для значения [DateTime](datetime.md) CIM.<br/>                                                           |
+| [**Ежедневные**](swbemdatetime-day.md)<br/>                                     | Чтение/запись<br/> | Компонент дня для значения [DateTime](datetime.md) CIM.<br/>                                                           |
 | [**дайспеЦифиед**](swbemdatetime-dayspecified.md)<br/>                   | Чтение/запись<br/> | Указывает, указан ли день в качестве подстановочного знака.<br/>                                                        |
 | [**Hours**](swbemdatetime-hours.md)<br/>                                 | Чтение/запись<br/> | Часы компонента дня в значении [даты и времени](datetime.md) CIM.<br/>                                              |
 | [**хаурсспеЦифиед**](swbemdatetime-hoursspecified.md)<br/>               | Чтение/запись<br/> | Указывает, указан ли час или оставлен в качестве подстановочного знака.<br/>                                                       |
 | [**Параметр "интервал"**](swbemdatetime-isinterval.md)<br/>                       | Чтение/запись<br/> | Указывает, что хотя бы один компонент [даты и времени](datetime.md) CIM представляет интервал, а не дату.<br/> |
 | [**Микросекунды**](swbemdatetime-microseconds.md)<br/>                   | Чтение/запись<br/> | Компонент микросекунд для значения [DateTime](datetime.md) CIM.<br/>                                                  |
 | [**микросекондсспеЦифиед**](swbemdatetime-microsecondsspecified.md)<br/> | Чтение/запись<br/> | Указывает, указан ли компонент микросекунд в качестве подстановочного знака.<br/>                                     |
-| [**Минуты**](swbemdatetime-minutes.md)<br/>                             | Чтение/запись<br/> | Компонент минут для значения [DateTime](datetime.md) CIM.<br/>                                                       |
+| [**Тезис**](swbemdatetime-minutes.md)<br/>                             | Чтение/запись<br/> | Компонент минут для значения [DateTime](datetime.md) CIM.<br/>                                                       |
 | [**минутесспеЦифиед**](swbemdatetime-minutesspecified.md)<br/>           | Чтение/запись<br/> | Указывает, указан ли компонент минут или оставлен в качестве подстановочного знака.<br/>                                          |
 | [**Месяц**](swbemdatetime-month.md)<br/>                                 | Чтение/запись<br/> | Компонент месяца для значения [DateTime](datetime.md) CIM.<br/>                                                         |
 | [**монсспеЦифиед**](swbemdatetime-monthspecified.md)<br/>               | Чтение/запись<br/> | Указывает, указан ли месяц или Left в качестве подстановочного знака.<br/>                                                      |
-| [**Секунды**](swbemdatetime-seconds.md)<br/>                             | Чтение/запись<br/> | Компонент секунд для значения [DateTime](datetime.md) CIM.<br/>                                                       |
+| [**Несколько**](swbemdatetime-seconds.md)<br/>                             | Чтение/запись<br/> | Компонент секунд для значения [DateTime](datetime.md) CIM.<br/>                                                       |
 | [**секондсспеЦифиед**](swbemdatetime-secondsspecified.md)<br/>           | Чтение/запись<br/> | Указывает, указан ли компонент секунд или является его левым в качестве подстановочного знака.<br/>                                          |
 | [**ФОРМАТА**](swbemdatetime-utc.md)<br/>                                     | Чтение/запись<br/> | Компонент времени в формате UTC значения [DateTime](datetime.md) CIM.<br/>                                                           |
 | [**уткспеЦифиед**](swbemdatetime-utcspecified.md)<br/>                   | Чтение/запись<br/> | Указывает, указан ли компонент времени в формате UTC или является его левым в качестве подстановочного знака.<br/>                                              |
@@ -273,7 +273,7 @@ $dateTime.Value = $os.InstallDate
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -289,7 +289,7 @@ $dateTime.Value = $os.InstallDate
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

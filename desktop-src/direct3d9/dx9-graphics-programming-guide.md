@@ -4,12 +4,12 @@ ms.assetid: 54c5f8de-a976-4a82-9a23-a7f6cffef5e1
 title: Руководством по программированию для Direct3D 9
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0b17800e4be7ddfada77e062cb842618ab341faaff096612100130cc5e49c2a3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3be451422cca297b08f22f1a0eee19e4a1934187
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118523435"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342983"
 ---
 # <a name="programming-guide-for-direct3d-9"></a>Руководством по программированию для Direct3D 9
 

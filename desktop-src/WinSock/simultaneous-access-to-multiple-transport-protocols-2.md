@@ -4,12 +4,12 @@ ms.assetid: 45b20f66-4e12-44df-b64b-c96cd5b24cd4
 title: Одновременный доступ к нескольким транспортным протоколам
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9648a7ffe1c4c0b1627ea46cd2956b48ba574adb468d750a2c4095a32783746f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d5e4b9d97743691bc527c455881cd0da5803b62b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118111551"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342323"
 ---
 # <a name="simultaneous-access-to-multiple-transport-protocols"></a>Одновременный доступ к нескольким транспортным протоколам
 

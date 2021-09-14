@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: e4bef01168eb7bad9a1ffc8e5e8555ecd5e8804893269723c8dba72a066b3c50
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 1075f2a14c58b085b73f2e4283458286c118a7ae
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120079284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255274"
 ---
 # <a name="ctransinplacefiltergetpin-method"></a>Ктрансинплацефилтер. Жетпин, метод
 
@@ -53,7 +53,7 @@ virtual CBasePin* GetPin(
 
 Возвращает указатель на объект [**кбасепин**](cbasepin.md) , который реализует ПИН-код, или **значение NULL** , если метод завершается с ошибкой.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод переопределяет метод [**ктрансформфилтер:: жетпин**](ctransformfilter-getpin.md) . При первом вызове метода он создает оба ПИН-кода.
 
@@ -61,7 +61,7 @@ virtual CBasePin* GetPin(
 
 Если фильтр использует ПИН-коды [**ктрансинплацеинпутпин**](ctransinplaceinputpin.md) и [**ктрансинплацеаутпутпин**](ctransinplaceoutputpin.md) по умолчанию, то, вероятно, вам не нужно переопределять этот метод. Однако если фильтр использует ПИН-коды, расширяющие эти классы, необходимо переопределить этот метод для создания ПИН-кодов этого типа.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -72,7 +72,7 @@ virtual CBasePin* GetPin(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

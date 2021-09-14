@@ -4,12 +4,12 @@ ms.assetid: 007e0f4d-fb37-4dec-96a7-311df567eb04
 title: Атрибут MF_BYTESTREAM_IFO_FILE_URI (Мфобжектс. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ab4349f3319a875f428921b0a99aefa61e49340c240a87260c1132abcc7c45f9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a1c80e015b68272b073c442b4064c80a6787b811
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119723474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127364105"
 ---
 # <a name="mf_bytestream_ifo_file_uri-attribute"></a>\_ \_ \_ Атрибут URI файла ИФО MF BYTESTREAM \_
 

@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 87464850812c30468e956f61d7d5ca57e675810bbafdfb080b236180433849e7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f5680d6d13eaa556e0c210403066c807ef2505d2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119976274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127373932"
 ---
 # <a name="esentafterinitializationexception-class"></a>Класс Есентафтеринитиализатионексцептион
 
@@ -68,7 +68,7 @@ public sealed class EsentAfterInitializationException : EsentUsageException
 
 Любые общедоступные статичные (общие в Visual Basic) члены этого типа являются потокобезопасными. Потокобезопасная работа с членами экземпляров типа не гарантируется.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

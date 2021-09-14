@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 10a7a2927789ffe49d37912862580222f0ed06d9648b6312cbb044e357d6e61c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3063427611cd3a5aae74fecf6be273c07fdb917c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120053524"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255301"
 ---
 # <a name="ctransinplacefiltercopy-method"></a>Ктрансинплацефилтер. Copy, метод
 
@@ -53,11 +53,11 @@ IMediaSample* Copy(
 
 Возвращает указатель на интерфейс **имедиасампле** в новом образце.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод извлекает пустой буфер из подчиненного распределителя. Он копирует все примеры свойств из *псаурце* в новый образец вместе с реальными данными в примере. Если фильтр использует два распределителя, он вызывает этот метод для копирования данных между буферами.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ IMediaSample* Copy(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

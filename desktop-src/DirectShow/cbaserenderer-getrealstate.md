@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 0c65ac4310abddc619296776981040cc5e1e6c5ad48ce37ea24210bc5a85d94b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 40f2e49137a4324b14f25e4abb9b14cb919efbb9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118403423"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255562"
 ---
 # <a name="cbaserenderergetrealstate-method"></a>Кбасерендерер. Жетреалстате, метод
 
@@ -44,7 +44,7 @@ FILTER_STATE GetRealState();
 
 Возвращает значение [**\_ состояния кбасефилтер:: m**](cbasefilter-m-state.md). Значение является членом перечисляемого типа [**\_ состояния фильтра**](/windows/win32/api/strmif/ne-strmif-filter_state) .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод предоставляет более простую альтернативу методу [**кбасерендерер::-State**](cbaserenderer-getstate.md) для внутреннего использования.
 

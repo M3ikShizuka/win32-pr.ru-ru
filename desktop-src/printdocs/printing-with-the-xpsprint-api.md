@@ -4,12 +4,12 @@ ms.assetid: 3d7ab169-412c-434f-a865-4da4af370eaf
 title: Практические руководства. печать с помощью API печати XPS
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6c4261ab9e30f3413ca61c99590056f386d92f89e0ba5de9d1627f91a9a21062
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0b4be5f083fb31eccaf2dc4b555435bd15a7fb45
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119824814"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343666"
 ---
 # <a name="how-to-print-with-the-xps-print-api"></a>Практические руководства. печать с помощью API печати XPS
 

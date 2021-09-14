@@ -20,12 +20,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 3b2693f1badd0751ce9526ca42dd769b397c24253364b0fe87e46a6be86bc7fe
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 2c29a591064c573e168903aaf83dcdd15f5b9a5e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120067074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342639"
 ---
 # <a name="apiretrievecolumn-method-jet_sesid-jet_tableid-jet_columnid"></a>Метод API. Ретриевеколумн (JET_SESID, JET_TABLEID, JET_COLUMNID)
 
@@ -87,9 +87,9 @@ public static byte[] RetrieveColumn(
 Тип \[\]  
 Данные, полученные из столбца. Значение null, если столбец имеет значение null.  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс API](./api-class.md)
 

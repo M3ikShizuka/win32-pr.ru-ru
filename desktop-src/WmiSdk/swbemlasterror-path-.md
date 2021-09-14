@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 5503d11d5c73f2bf955b25da9b5dbccbc18d41b9bc9b84bc3235993562938b5c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c979fd76ffb4ee97f62362d53fac4151de17bae6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119612204"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343062"
 ---
 # <a name="swbemlasterrorpath_-property"></a>Свбемластеррор. Path, \_ свойство
 
@@ -50,7 +50,7 @@ SWbemLastError.Path_ As Object
 
 Однако при вызове [**SWbemObject. Clone \_**](swbemobject-clone-.md) для создания копии свойство [**path \_**](swbemobject-path-.md) копии будет полностью изменяемым.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

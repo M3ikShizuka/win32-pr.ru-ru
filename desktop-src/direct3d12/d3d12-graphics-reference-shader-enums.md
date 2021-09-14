@@ -8,11 +8,11 @@ ms.localizationpriority: low
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: bb30886e9f2fd08fb212d883428854d0394b8068
-ms.sourcegitcommit: 8fa6614b715bddf14648cce36d2df22e5232801a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "105701008"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343902"
 ---
 # <a name="shader-enumerations-direct3d-12-graphics"></a>Перечисления шейдеров (графика Direct3D 12)
 
@@ -30,7 +30,7 @@ d3d12shader. h объявляет следующие перечисления, �
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

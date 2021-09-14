@@ -24,11 +24,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 42852346af5e4f19038594627e9b7f567e2d3e86
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122885307"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255916"
 ---
 # <a name="cim_check-class"></a>\_Класс проверки CIM
 
@@ -63,7 +63,7 @@ class CIM_Check
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ проверки CIM** имеет следующие типы членов:
 
@@ -768,7 +768,7 @@ Mac OS 9
 
 </dd> <dt>
 
-**Version**
+**Версия**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**

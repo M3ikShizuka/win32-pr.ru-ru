@@ -4,12 +4,12 @@ ms.assetid: 5559b3ab-8d81-4f33-b0af-d05489371328
 title: Сообщение WM_IME_SELECT (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 611ff30bac32fbd38c9aef00e459b49f9760d9702c619f7e6e7f55e6e3b10acb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 940858e12c616b1d6281c23633b2f0f5e9657a9b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118644624"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254800"
 ---
 # <a name="wm_ime_select-message"></a>\_Выбор сообщения для редактора IME WM \_
 

@@ -4,12 +4,12 @@ ms.assetid: 1ec18626-3549-4206-b7ca-74f16130f557
 title: System. Devices. Вифидирект. Ислегацидевице
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cf641b1a4f92d41caca7e3930ad018282ff2ece68493a4e7fcfd45871fcacd27
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 978d80b02aaa52137db98a37f2b1913db20686a3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119822754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343615"
 ---
 # <a name="systemdeviceswifidirectislegacydevice"></a>System. Devices. Вифидирект. Ислегацидевице
 

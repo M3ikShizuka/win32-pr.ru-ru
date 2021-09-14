@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 229972a3200942f2b2864aefff3d6bc1031863f7875c69bc6994a73facb7c9f1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ddfcf7f09a98e62b44265c263fd835cace699e8c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120017984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258208"
 ---
 # <a name="esenttoomanyopentablesandcleanuptimedoutexception-class"></a>Класс Есенттуманйопентаблесандклеануптимедаутексцептион
 
@@ -68,7 +68,7 @@ public sealed class EsentTooManyOpenTablesAndCleanupTimedOutException : EsentUsa
 
 Любые общедоступные статичные (общие в Visual Basic) члены этого типа являются потокобезопасными. Потокобезопасная работа с членами экземпляров типа не гарантируется.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

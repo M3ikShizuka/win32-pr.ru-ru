@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c9e35840e404f295b7d3ed6ddd5dddf4c77076c236eb3260f6f719b152cef207
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6939156fb1a8f35e03527e64a4c6f5185180668d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119915654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255625"
 ---
 # <a name="em_exsetsel-message"></a>\_Сообщение ЕКССЕТСЕЛ EM
 
@@ -47,7 +47,7 @@ ms.locfileid: "119915654"
 
 Возвращаемое значение является фактически установленным выделением.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

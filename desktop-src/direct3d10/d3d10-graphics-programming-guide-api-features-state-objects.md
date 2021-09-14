@@ -5,11 +5,11 @@ title: Объекты состояния (Direct3D 10)
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 1a51c05e3e220e510c462265941549f91e6368a9
-ms.sourcegitcommit: ca37395fd832e798375e81142b97cffcffabf184
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "110335428"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342299"
 ---
 # <a name="state-objects-direct3d-10"></a>Объекты состояния (Direct3D 10)
 
@@ -21,7 +21,7 @@ ms.locfileid: "110335428"
 -   [Состояние смешения](#blend-state)
 -   [Состояние образца](#sampler-state)
 -   [Вопросы производительности](#performance-considerations)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="input-layout-state"></a>Состояние макета входных данных
 

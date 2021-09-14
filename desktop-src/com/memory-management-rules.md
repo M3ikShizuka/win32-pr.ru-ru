@@ -5,11 +5,11 @@ ms.assetid: 769127a1-1a14-4ed4-9d38-7cf3e571b661
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 56e7ad2483b794ec5c2e9c325bca8e469ff4ae0b
-ms.sourcegitcommit: 5f33645661bf8c825a7a2e73950b1f4ea0f1cd82
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "104134674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343915"
 ---
 # <a name="memory-management-rules"></a>Правила управления памятью
 
@@ -33,13 +33,13 @@ ms.locfileid: "104134674"
 
 COM внутренне использует удаленные вызовы процедур (RPC) для обмена данными между клиентами и серверами. Дополнительные сведения об управлении памятью в заглушках RPC-сервера см. в разделе [сервер-заглушка управления памятью](../rpc/server-stub-memory-management.md) .
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Управление выделением памяти](managing-memory-allocation.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

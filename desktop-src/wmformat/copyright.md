@@ -1,5 +1,5 @@
 ---
-title: Авторские права
+title: Copyright
 description: Атрибут Copyright содержит сообщение об авторских правах для содержимого.
 ms.assetid: 4c5bdb9d-9dcd-42a5-bf03-b83bfd73135e
 keywords:
@@ -13,13 +13,13 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 8f8025352226e7fa8820fcde59fea262dbc1f0e1
-ms.sourcegitcommit: 57758ecb246c84d65e6e0e4bd5570d9176fa39cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "103889892"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256372"
 ---
-# <a name="copyright"></a>Авторские права
+# <a name="copyright"></a>Copyright
 
 Атрибут **Copyright** содержит сообщение об авторских правах для содержимого.
 
@@ -41,7 +41,7 @@ g \_ всзвмкопиригхт
 
 
 
- 
+ 
 
 ## <a name="remarks"></a>Комментарии
 
@@ -56,9 +56,9 @@ g \_ всзвмкопиригхт
 [**Список атрибутов**](attribute-list.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

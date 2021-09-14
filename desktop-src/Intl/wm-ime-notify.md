@@ -4,12 +4,12 @@ ms.assetid: 20e064b8-2baf-4b4c-8341-36c3e4643eff
 title: Сообщение WM_IME_NOTIFY (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a072ff41b5731662afa94e387ec48de7d14bc245906e581303fe976dcf455708
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ca5ab1b2a1fd62d159ab4f216bf9b1bb6892ed69
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119014222"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254803"
 ---
 # <a name="wm_ime_notify-message"></a>Сообщение WM_IME_NOTIFY
 

@@ -20,11 +20,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 0c39faa22cb71b74247fc073daf22fa8a21580a2
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104142817"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255733"
 ---
 # <a name="win32_pnpdevicepropertysint8array-class"></a>\_Класс Win32 PnPDevicePropertySint8Array
 
@@ -45,13 +45,13 @@ class Win32_PnPDevicePropertySint8Array : Win32_PnPDeviceProperty
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ PnPDevicePropertySint8Array** имеет следующие типы членов:
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ PnPDevicePropertySint8Array** имеет следующие свойства.
 
@@ -504,7 +504,7 @@ class Win32_PnPDevicePropertySint8Array : Win32_PnPDeviceProperty
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ настольных приложений Windows 10\]<br/>                                             |
+| Минимальная версия клиента<br/> | Windows 10 \[ только классические приложения\]<br/>                                             |
 | Минимальная версия сервера<br/> | Windows Server 2016<br/>                                                          |
 | Пространство имен<br/>                | Корневой \\ CIMV2<br/>                                                                  |
 | MOF<br/>                      | <dl> <dt>Cimwin32. mof</dt> </dl> |

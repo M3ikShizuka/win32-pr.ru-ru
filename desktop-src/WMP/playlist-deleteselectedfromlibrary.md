@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 489525b96ddff6fc68cfaeac8749bf400e5ff5ad674f111aef6a37f3d98bec3f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d08699edfb7811503a1df8fcc2c622e234a0aaaf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117747085"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343270"
 ---
 # <a name="playlistdeleteselectedfromlibrary"></a>Список воспроизведения. Делетеселектедфромлибрари
 

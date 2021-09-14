@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: b87a1cf186eeee3af227e84aad3553386d5a1d8bd33f73f664aeffab4bc1af59
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7d1ffcf99877781c7070b42dac5ffe9ef83af2d5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119800664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255763"
 ---
 # <a name="uncompress-method-of-the-win32_codecfile-class"></a>Метод uncompressия класса Win32 \_ кодекфиле
 
@@ -137,7 +137,7 @@ uint32 Uncompress();
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -151,7 +151,7 @@ uint32 Uncompress();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

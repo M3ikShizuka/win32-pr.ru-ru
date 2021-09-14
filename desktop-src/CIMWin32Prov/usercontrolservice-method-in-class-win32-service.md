@@ -15,11 +15,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 455128b35c2645c6aa6ea10f64d12dff392fecca
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108100007"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255748"
 ---
 # <a name="usercontrolservice-method-of-the-win32_service-class-cimwin32-wmi-providers"></a>Метод Усерконтролсервице класса Win32_Service (поставщики WMI CIMWin32)
 
@@ -188,7 +188,7 @@ uint32 UserControlService(
 
 </dd> <dt>
 
-**стр**
+**19**
 </dt> <dd>
 
 Служба выполняется с тем же именем.
@@ -244,7 +244,7 @@ uint32 UserControlService(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: cf7ac41d626eceee048afc4671a5e171e7164adfbd9a941b1b70bc85ea988c3f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fa219687dabcf9124662e3269d157fb0a163a6a1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119873014"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255607"
 ---
 # <a name="cbasecontrolvideochecksourcerect-method"></a>Кбасеконтролвидео. Чекксаурцерект, метод
 
@@ -53,11 +53,11 @@ virtual HRESULT CheckSourceRect(
 
 Возвращает значение E \_ INVALIDARG, если недопустимо; в противном случае возвращает значение \_ "Error" (ОК).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция члена проверяет, что запрошенный исходный прямоугольник не превышает доступный исходный видеоролик. Координаты Left и Top не могут быть отрицательными, а ширина и высота не могут превышать правую и нижнюю часть видео.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ virtual HRESULT CheckSourceRect(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

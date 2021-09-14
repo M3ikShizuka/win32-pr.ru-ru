@@ -4,12 +4,12 @@ ms.assetid: d6da7761-7a09-4c91-9737-550590a773b3
 title: Параметр SO_KEEPALIVE Socket (Ws2def. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2d3590b8813f584aad16896a5b990baa2e3ad5607b76a13bd987d87961ee5f6f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 9d829f957e23c48a325444de7d992397fba26d48
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120097474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342474"
 ---
 # <a name="so_keepalive-socket-option"></a>SO, \_ параметр сокета KeepAlive
 
@@ -136,7 +136,7 @@ int setsockopt(
 
 Обратите внимание, что файл заголовка *Ws2def. h* автоматически включается в *Winsock2. h* и никогда не должен использоваться напрямую.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -148,7 +148,7 @@ int setsockopt(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

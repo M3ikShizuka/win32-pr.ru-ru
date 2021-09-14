@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - PortableDevice.h
-ms.openlocfilehash: 8366f90fe41eaa92d826f4d761fe8cdf58304f54e1f57cb074ae94d6fd9f1ea9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4c70f68dc04adcb454fcc7c5ae301f0dabf60c28
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118696282"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256063"
 ---
 # <a name="wpdattributeform-enumeration"></a>Перечисление Впдаттрибутеформ
 
@@ -78,7 +78,7 @@ typedef enum WpdAttributeForm {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это перечисление используется свойством [ \_ \_ \_ формы атрибута свойства WPD](attributes.md) для описания способа хранения данных свойства.
 

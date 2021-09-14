@@ -20,11 +20,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: a87c493bc8f41bc2a03ba15832ed402939adbeff
-ms.sourcegitcommit: 48d1c892045445bcbd0f22bafa2fd3861ffaa6e7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/19/2020
-ms.locfileid: "105691460"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256207"
 ---
 # <a name="to-use-manual-stream-selection"></a>Использование ручного выбора потока
 
@@ -41,16 +41,16 @@ ms.locfileid: "105691460"
 3.  Чтобы определить, выбран ли определенный поток, вызовите метод [**ивмреадерадванцед:: жетстреамселектед**](/previous-versions/windows/desktop/api/Wmsdkidl/nf-wmsdkidl-iwmreaderadvanced-getstreamselected). Необходимо передать указатель на переменную типа перечисления [**\_ \_ выбора потока ВМТ**](/previous-versions/windows/desktop/api/Wmsdkidl/ne-wmsdkidl-wmt_stream_selection) . При возвращении вызова значение в переменной будет описывать текущий тип выбора потока.
 4.  Чтобы выбрать поток, вызовите метод [**ивмреадерадванцед:: сетстреамсселектед**](/previous-versions/windows/desktop/api/Wmsdkidl/nf-wmsdkidl-iwmreaderadvanced-setstreamsselected). Этот метод позволяет указать несколько потоков одновременно для синхронизации переключения потоков.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [**Чтение файлов с помощью асинхронного модуля чтения**](reading-files-with-the-asynchronous-reader.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

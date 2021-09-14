@@ -5,11 +5,11 @@ title: Фильтр модуля подготовки к потоку файло
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: d438d77b4f402cefed2e80f2c32d061d1652710f
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122987867"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255160"
 ---
 # <a name="file-stream-renderer-filter"></a>Фильтр модуля подготовки к потоку файлов
 
@@ -20,7 +20,7 @@ ms.locfileid: "122987867"
 
 
 
-| Метка | Применение |
+| Метка | Значение |
 |--------|-------|
 | Интерфейсы фильтра | <a href="/windows/desktop/api/Strmif/nn-strmif-ibasefilter"><strong>ибасефилтер</strong></a> | 
 | Типы носителей входных закрепления | <ul><li>Основной тип: MEDIATYPE_File</li><li>Подтип: GUID_NULL</li><li>Тип формата: MEDIATYPE_File</li></ul> | 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 193026cee7e8b483afd0159da87cd356bd479987f776c5e82f7ea3543df77c0a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5bd9f47b6c38b5ec72bcd25ecb5981859a87038b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119748064"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342286"
 ---
 # <a name="id3dxmatrixstackscalelocal-method-d3dx9mathh"></a>Метод ID3DXMATRIXStack:: Скалелокал (D3dx9math. h)
 

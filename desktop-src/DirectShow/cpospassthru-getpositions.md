@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 948deeb61c5a514bc4bd385c387f10961c21cbaf6090b5e281e1f245e1d23225
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 0852199e8e143ce5b0348c3b79afd495a5a47627
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120108274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255472"
 ---
 # <a name="cpospassthrugetpositions-method"></a>Метод Кпоспасссру. Disposition
 
@@ -61,7 +61,7 @@ HRESULT GetPositions(
 
 Возвращает значение **HRESULT** из подключенного ПИН-кода.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -72,7 +72,7 @@ HRESULT GetPositions(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

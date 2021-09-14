@@ -15,11 +15,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: e07e86be3666b06063ef81c896eab6ee7a918657
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104142526"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255754"
 ---
 # <a name="uncompressex-method-of-the-win32_shortcutfile-class"></a>Метод Ункомпрессекс \_ класса Win32 шорткутфиле
 
@@ -121,7 +121,7 @@ uint32 UncompressEx(
 **12**
 </dt> <dd>
 
-Платформа не является Windows.
+Платформа не Windows.
 
 </dd> <dt>
 

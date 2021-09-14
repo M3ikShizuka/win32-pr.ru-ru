@@ -15,12 +15,12 @@ api_type:
 - DllExport
 api_location:
 - Winspool.drv
-ms.openlocfilehash: 88cc39227ffc5b1700a1348541e18215bc10c8b87a6bff942611f098059a70e6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b88ef38236961286875a1885dad9dde936887d13
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119950044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343686"
 ---
 # <a name="deleteprinterdriverex-function"></a>Функция Делетепринтердриверекс
 
@@ -113,7 +113,7 @@ BOOL DeletePrinterDriverEx(
 
 Перед вызовом **делетепринтердриверекс** необходимо удалить все объекты принтера, использующие драйвер принтера.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -128,7 +128,7 @@ BOOL DeletePrinterDriverEx(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

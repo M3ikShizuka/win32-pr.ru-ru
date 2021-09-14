@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - checkbmi.h
-ms.openlocfilehash: 48d9deab4d87868cbc9e5418ccd6b7e2c7e9ecf93350ad70cb6c934d365e4655
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5ec092bdea1e3dd00de36893d1816f70ca6d7945
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119074188"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255520"
 ---
 # <a name="checkvideoinfo2type-function"></a>Функция CheckVideoInfo2Type
 
@@ -59,7 +59,7 @@ HRESULT CheckVideoInfo2Type(
 
 | Код возврата                                                                                                | Описание                       |
 |------------------------------------------------------------------------------------------------------------|-----------------------------------|
-| <dl> <dt>**\_ОК**</dt> </dl>                       | Success<br/>                |
+| <dl> <dt>**\_ОК**</dt> </dl>                       | Успешное завершение<br/>                |
 | <dl> <dt>**\_указатель E**</dt> </dl>                  | Значение указателя **null**<br/> |
 | <dl> <dt>**\_тип VFW \_ E \_ не \_ принят**</dt> </dl> | Недопустимый тип носителя<br/>     |
 
@@ -67,11 +67,11 @@ HRESULT CheckVideoInfo2Type(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция вызывает [**валидатебитмапинфохеадер**](validatebitmapinfoheader.md) для проверки структуры [**битмапинфохеадер**](/windows/win32/api/wingdi/ns-wingdi-bitmapinfoheader) в типе мультимедиа. Если тип формата отличается от **Format \_ VideoInfo2**, функция возвращает **\_ тип VFW E \_ \_ не \_ принято**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -81,7 +81,7 @@ HRESULT CheckVideoInfo2Type(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

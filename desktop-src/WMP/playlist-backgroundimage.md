@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b56ddcb42f118a5a672b6678079825b6cb3d6aba5fbdc54953fb566e4222f583
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7eca04f47f6e157d5ede529c47fb6ae65b4333cf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119054252"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343306"
 ---
 # <a name="playlistbackgroundimage"></a>Список воспроизведения. backgroundImage
 
@@ -37,7 +37,7 @@ ms.locfileid: "119054252"
 
 Указание значения "градиент" для фонового изображения приводит к тому, что фон списка воспроизведения отображается как цветовой градиент. Это означает, что цвет фона постепенно переходит между [списком воспроизведения. backgroundColor](playlist-backgroundcolor.md) (в верхней части фона) и значениями [списка воспроизведения. статусколор](playlist-statuscolor.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -47,7 +47,7 @@ ms.locfileid: "119054252"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

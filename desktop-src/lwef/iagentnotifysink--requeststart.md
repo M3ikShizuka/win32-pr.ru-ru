@@ -4,12 +4,12 @@ description: Иажентнотифисинк Рекуестстарт
 ms.assetid: acac2bf8-7472-4952-a984-a29654fb8b0b
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f5d208e732a2e53d574c74f1a6f0b49aa7550b10343f1ed3b8b7348ed798363c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 67ced12596114214cf712cef8dbbe81edb5af278
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119450484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342543"
 ---
 # <a name="iagentnotifysinkrequeststart"></a>Иажентнотифисинк:: Рекуестстарт
 
@@ -36,7 +36,7 @@ HRESULT RequestStart(
 
 Это событие позволяет контролировать, когда запрос в очереди начинается с идентификатора запроса.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 [**Иажентнотифисинк:: рекуесткомплете**](iagentnotifysink--requestcomplete.md), [**Иажент:: Load**](iagent--load.md), [**иажентчарактер:: Жестуреат**](iagentcharacter--gestureat.md), [**иажентчарактер:: Hide**](iagentcharacter--hide.md), [**IAgentCharacter:: Interrupt**](iagentcharacter--interrupt.md), [**IAgentCharacter:: MoveTo**](iagentcharacter--moveto.md), [**IAgentCharacter::P готовка**](iagentcharacter--prepare.md), [**IAgentCharacter::Pный макет**](iagentcharacter--play.md), [**IAgentCharacter:: Показать**](iagentcharacter--show.md), [**IAgentCharacter:: говорите**](iagentcharacter--speak.md), [**IAgentCharacter:: wait**](iagentcharacter--wait.md)
 

@@ -22,11 +22,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 52735983429a60061a548bf4cce71b7b128f4b6e
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122466961"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342723"
 ---
 # <a name="hyperlink-control-type"></a>Тип элемента управления HyperLink
 
@@ -94,7 +94,7 @@ ms.locfileid: "122466961"
 |---------------------------------------------------|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**IInvokeProvider**](/windows/desktop/api/UIAutomationCore/nn-uiautomationcore-iinvokeprovider) | Обязательно                     | Все элементы управления Hyperlink должны поддерживать шаблон элемента управления [Invoke](uiauto-implementinginvoke.md) .                                                                                                                                                       |
 | [**IValueProvider**](/windows/desktop/api/UIAutomationCore/nn-uiautomationcore-ivalueprovider)   | Зависит                      | Элементы управления Hyperlink должны поддерживать шаблон элемента управления [value](uiauto-implementingvalue.md) , если ссылка содержит сведения, которые могут быть использованы и понятны пользователю.                                                                              |
-| [**Значений**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ivalueprovider-get_value)      | Например, https://www... | URL-адрес для адреса в Интернете или интрасети является примером гиперссылки, содержащей сведения, имеющие смысл для пользователя. Однако программная ссылка имеет смысл только для приложения и не рекомендуется для свойства **value** . |
+| [**Значение**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ivalueprovider-get_value)      | Например, https://www... | URL-адрес для адреса в Интернете или интрасети является примером гиперссылки, содержащей сведения, имеющие смысл для пользователя. Однако программная ссылка имеет смысл только для приложения и не рекомендуется для свойства **value** . |
 
 
 
@@ -129,7 +129,7 @@ ms.locfileid: "122466961"
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Общие сведения о типах элементов управления автоматизации пользовательского интерфейса](uiauto-controltypesoverview.md)

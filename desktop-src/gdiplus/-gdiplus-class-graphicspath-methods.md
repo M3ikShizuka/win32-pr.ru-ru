@@ -5,11 +5,11 @@ title: Методы GraphicsPath
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: d1020b9aef289e4f594611a04fdd58a990336965
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104985264"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342390"
 ---
 # <a name="graphicspath-methods"></a>Методы GraphicsPath
 
@@ -64,7 +64,7 @@ ms.locfileid: "104985264"
 -   [**Клонировать**](/windows/desktop/api/Gdipluspath/nf-gdipluspath-graphicspath-clone)
 -   [**клосеаллфигурес**](/windows/desktop/api/Gdipluspath/nf-gdipluspath-graphicspath-closeallfigures)
 -   [**клосефигуре**](/windows/desktop/api/Gdipluspath/nf-gdipluspath-graphicspath-closefigure)
--   [**Преобразование в плоскую структуру**](/windows/desktop/api/Gdipluspath/nf-gdipluspath-graphicspath-flatten)
+-   [**Расположение**](/windows/desktop/api/Gdipluspath/nf-gdipluspath-graphicspath-flatten)
 -   [**Награничные (Rect \* , Matrix \* , перо \* )**](/windows/win32/api/gdipluspath/nf-gdipluspath-graphicspath-getbounds(outrect_inconstmatrix_inconstpen))
 -   [**Привязкой (Ректф \* , матрица \* , перо \* )**](/previous-versions//ms535584(v=vs.85))
 -   [**жетфиллмоде**](/windows/desktop/api/Gdipluspath/nf-gdipluspath-graphicspath-getfillmode)
@@ -83,9 +83,9 @@ ms.locfileid: "104985264"
 -   [**Visible (PointF&, графика \* )**](/previous-versions//ms535574(v=vs.85))
 -   [**Visible (INT, INT, графика \* )**](/windows/win32/api/gdipluspath/nf-gdipluspath-graphicspath-isvisible(inint_inint_inconstgraphics))
 -   [**Visible (точка&, графика \* )**](/windows/win32/api/gdipluspath/nf-gdipluspath-graphicspath-isvisible(inconstpoint__inconstgraphics))
--   [**Контур**](/windows/desktop/api/Gdipluspath/nf-gdipluspath-graphicspath-outline)
+-   [**Обзор**](/windows/desktop/api/Gdipluspath/nf-gdipluspath-graphicspath-outline)
 -   [**Reset**](/windows/desktop/api/Gdipluspath/nf-gdipluspath-graphicspath-reset)
--   [**Reverse**](/windows/desktop/api/Gdipluspath/nf-gdipluspath-graphicspath-reverse)
+-   [**Отмена**](/windows/desktop/api/Gdipluspath/nf-gdipluspath-graphicspath-reverse)
 -   [**сетфиллмоде**](/windows/desktop/api/Gdipluspath/nf-gdipluspath-graphicspath-setfillmode)
 -   [**SetMarker**](/windows/desktop/api/Gdipluspath/nf-gdipluspath-graphicspath-setmarker)
 -   [**стартфигуре**](/windows/desktop/api/Gdipluspath/nf-gdipluspath-graphicspath-startfigure)

@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 74fa00494eb71e49c35bfa37b434afc5c999e73e
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369638"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343930"
 ---
 # <a name="legacyimpersonationlevel"></a>легациимперсонатионлевел
 
@@ -29,7 +29,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole
    LegacyImpersonationLevel = value
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это значение **\_ слова reg** , эквивалентное \_ \_ константам уровня "RPC C" \_ .
 
@@ -48,7 +48,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole
 
 Если это значение реестра отсутствует, уровень олицетворения по умолчанию, установленный системой, — 2 (идентификатор RPC C, определяемый на \_ \_ \_ уровне Imp \_ ).
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

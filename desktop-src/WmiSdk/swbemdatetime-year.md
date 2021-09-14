@@ -18,11 +18,11 @@ api_type:
 api_location:
 - Wbemdisp.dll
 ms.openlocfilehash: 5fe8988b3772f0f5d976c38eb5e9cc44fb9c4ede
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105702746"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343083"
 ---
 # <a name="swbemdatetimeyear-property"></a>SWbemDateTime. year, свойство
 
@@ -68,7 +68,7 @@ SWbemDateTime.Year As Long
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Wbemdisp. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_SWBEMDATETIME CLSID<br/>                                                         |

@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55101639
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 4ecea9a8175dda0bd974dcb175151398ebf14138dffa92e68275904960b60421
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2ca19fea12c917daf61b165e6afab8e51ace8888
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118779401"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258376"
 ---
 # <a name="esentdtcmissingcallbackexception-methods"></a>Методы EsentDTCMissingCallbackException 
 
@@ -28,7 +28,7 @@ ms.locfileid: "118779401"
 <tr class="header">
 <th> </th>
 <th>Имя</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>

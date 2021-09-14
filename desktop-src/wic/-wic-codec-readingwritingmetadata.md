@@ -4,12 +4,12 @@ ms.assetid: b1e0b936-a13a-42dd-8470-957ba1d90423
 title: Общие сведения о чтении и записи метаданных изображений
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 191ffbe919e09acb153505fd3b43b50453b67708259206bffe66a0322d485a1a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 484d562b71184c20adf054f1de2a4203878da9b8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119088149"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343494"
 ---
 # <a name="overview-of-reading-and-writing-image-metadata"></a>Общие сведения о чтении и записи метаданных изображений
 
@@ -34,7 +34,7 @@ ms.locfileid: "119088149"
     -   [Использование кодировщика быстрых метаданных](#using-the-fast-metadata-encoder)
 -   [Связанные темы](#related-topics)
 
-## <a name="prerequisites"></a>Обязательные условия
+## <a name="prerequisites"></a>Предварительные требования
 
 Чтобы понять этот раздел, необходимо ознакомиться с системой метаданных WIC, как описано в [обзоре метаданных WIC](-wic-about-metadata.md). Также следует ознакомиться с языком запросов, используемым для чтения и записи метаданных, как описано в разделе [Общие сведения о языке запросов метаданных](-wic-codec-metadataquerylanguage.md).
 
@@ -590,7 +590,7 @@ if (SUCCEEDED(hr))
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Windows Общие сведения о компонентах обработки изображений](-wic-about-windows-imaging-codec.md)

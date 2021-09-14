@@ -15,12 +15,12 @@ keywords:
 - Пользовательские визуализации, переменная timeStamp
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1e6ce4d675fa37a519952f1b31d3c52cd93005a82eef977b7bd7d77623f1e508
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6f2d9a23818d57305b3b205ea2e17b6dda2884e2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118116941"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344006"
 ---
 # <a name="using-timed-levels"></a>Использование уровней времени
 

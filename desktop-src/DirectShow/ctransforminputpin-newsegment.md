@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: c522755fe898717f0c06af9698be07ab2ebca491666982d6ff62756ef48ae08f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 25c455fe5ec6ddf9157e991b70b468ace653daa9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119907424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255439"
 ---
 # <a name="ctransforminputpinnewsegment-method"></a>Ктрансформинпутпин. Невсегмент, метод
 
@@ -69,11 +69,11 @@ HRESULT NewSegment(
 
 Возвращает \_ значение, равное ОК или другому значению **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод переопределяет метод [**кбасепин:: невсегмент**](cbasepin-newsegment.md) . Он вызывает метод [**ктрансформфилтер:: невсегмент**](ctransformfilter-newsegment.md) фильтра для предоставления вызова в нисходящем направлении.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

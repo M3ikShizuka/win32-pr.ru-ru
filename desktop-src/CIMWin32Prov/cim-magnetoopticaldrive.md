@@ -43,12 +43,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: f7450bb8d9928904cf9d2b87763e936d2c27855402b024083314150c49088674
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: abc5acdf25a2920fa53c6315109264180b6e7c23
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119923024"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254743"
 ---
 # <a name="cim_magnetoopticaldrive-class"></a>\_Класс CIM магнетуптикалдриве
 
@@ -99,7 +99,7 @@ class CIM_MagnetoOpticalDrive : CIM_MediaAccessDevice
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ магнетуптикалдриве** имеет следующие типы членов:
 
@@ -114,14 +114,14 @@ class CIM_MagnetoOpticalDrive : CIM_MediaAccessDevice
 
 | Метод                                                                         | Описание                                                                                                                              |
 |:-------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
-| [**Перезапуск**](reset-method-in-class-cim-magnetoopticaldrive.md)                 | Запрашивает сброс логического устройства. Не реализовано инструментарием WMI.<br/>                                                               |
+| [**Reset**](reset-method-in-class-cim-magnetoopticaldrive.md)                 | Запрашивает сброс логического устройства. Не реализовано инструментарием WMI.<br/>                                                               |
 | [**SetPowerState**](setpowerstate-method-in-class-cim-magnetoopticaldrive.md) | Определяет требуемое состояние электропитания для логического устройства, а также когда устройство должно быть переведено в это состояние. Не реализовано инструментарием WMI.<br/> |
 
 
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **CIM \_ магнетуптикалдриве** имеет следующие свойства.
 
@@ -1170,7 +1170,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**

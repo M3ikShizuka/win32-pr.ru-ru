@@ -4,12 +4,12 @@ ms.assetid: 14098435-5033-489c-908f-cbb814a0349c
 title: Атрибут MF_MT_DV_VAUX_CTRL_PACK (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1b4540c693e715461334b1557231732fe4281f3b404fc1df02d0717efaad69e2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7d4fc8e8eeeab10936e42cfba96693aa9097c1de
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119722980"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127364029"
 ---
 # <a name="mf_mt_dv_vaux_ctrl_pack-attribute"></a>\_ \_ \_ Атрибут пакета MF ваукс \_ CTRL dv Book \_
 
@@ -25,7 +25,7 @@ Video вспомогательный (ВАУКС) пакет управлени�
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -37,7 +37,7 @@ Video вспомогательный (ВАУКС) пакет управлени�
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

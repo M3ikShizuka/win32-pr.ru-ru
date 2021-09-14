@@ -25,12 +25,12 @@ keywords:
 - Visual Studio, внедрение программ
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 73bb9597b8ad5baadbd51625c68a1d7fb7ebc1791c2d6e8015fb79ba2cab3be6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 44b01fecd6acdfd5ccc9a7d823740ef3915bf9c6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118830453"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344007"
 ---
 # <a name="using-the-windows-media-player-control-with-microsoft-visual-studio"></a>использование элемента управления проигрыватель Windows Media с Microsoft Visual Studio
 
@@ -51,7 +51,7 @@ ms.locfileid: "118830453"
 
     если проигрыватель Windows Media не отображается в списке, нажмите кнопку **обзор**, а затем откройте Wmp.dll, который должен находиться в \\ папке Windows System32.
 
-3.  Нажмите **OK**. элемент управления проигрыватель Windows Media будет помещен на текущую вкладку панели элементов.
+3.  Нажмите кнопку **ОК**. элемент управления проигрыватель Windows Media будет помещен на текущую вкладку панели элементов.
 
 теперь можно выбрать проигрыватель Windows Media на панели элементов и добавить ее в форму.
 

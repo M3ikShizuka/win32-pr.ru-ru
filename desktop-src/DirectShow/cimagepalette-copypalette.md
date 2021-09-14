@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 5c6f645d134ccf5fa786ff59cf0bc6cd37211af0cb2571bbc9955e5bb6367a97
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b429c5fd4d3d0e0e28cd0662fbee0a1ac926ddc5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120055454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255517"
 ---
 # <a name="cimagepalettecopypalette-method"></a>Цимажепалетте. Копипалетте, метод
 
@@ -61,11 +61,11 @@ HRESULT CopyPalette(
 
 Возвращает значение \_ ОК, если палитра скопирована. Возвращает \_ значение false, если исходный или конечный тип носителя не имеет палитры.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Тип носителя *пдест* должен быть форматом палеттизед с глубиной цвета 8 бит или меньше. Тип носителя *pSrc* может быть любым типом [**видеоинфохеадер**](/previous-versions/windows/desktop/api/amvideo/ns-amvideo-videoinfoheader) с палитрой, включая форматы YUV и True-Color с записями палитры. Метод копирует записи палитры из *pSrc* в новую палитру и прикрепляет новую палитру к *пдест*.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ HRESULT CopyPalette(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

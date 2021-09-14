@@ -4,12 +4,12 @@ ms.assetid: 6de1c4c2-d910-487c-8b82-408cb6e02c44
 title: Сообщение WM_IME_COMPOSITION (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cb1212d3fcbdee239c122c26bdd19814d156f9c886883ed381f2e8f6f2a59839
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c8d795c1e270be978927e3b93743de5fece7021b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119811594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127254812"
 ---
 # <a name="wm_ime_composition-message"></a>\_ \_ Сообщение композиции IME WM
 
@@ -115,7 +115,7 @@ LRESULT CALLBACK WindowProc(
 
 Если ни одно из значений глобальных каталогов \_ не задано, сообщение указывает, что Текущая композиция отменена, и приложения, которые рисуют строку композиции, должны удалить строку.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -127,7 +127,7 @@ LRESULT CALLBACK WindowProc(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

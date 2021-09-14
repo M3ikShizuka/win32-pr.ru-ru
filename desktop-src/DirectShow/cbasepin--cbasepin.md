@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: c9b6bb746c97a754f25e6cf15c705c7ad21ce8a3a78ec854857426aaf5ee891c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6a6bd7219ba57c5c885e8123b181f899dc96e5d3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117823373"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255568"
 ---
 # <a name="cbasepincbasepin-destructor"></a>Деструктор Кбасепин. ~ Кбасепин
 
@@ -47,7 +47,7 @@ ms.locfileid: "117823373"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

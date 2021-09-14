@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: e705f840a073ee6796776f6f68c7b57df0bd972facf8f7a586792519735bfb3e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e3d1d727fb6a99e3dea9ec2659838df1bfcd392b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117998754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255115"
 ---
 # <a name="iamtimelinetracksrcadd-method"></a>Метод Иамтимелинетракк:: Сркадд
 
@@ -56,7 +56,7 @@ HRESULT SrcAdd(
 
 \_При успешном выполнении возвращает значение ОК. Возвращает E \_ Interface, если объект не является исходным объектом. В противном случае возвращает значение **HRESULT** , указывающее причину ошибки.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Задайте время начала и окончания работы источника перед вызовом этого метода. (Вызовите [**иамтимелинеобж:: сетстартстоп**](iamtimelineobj-setstartstop.md).)
 

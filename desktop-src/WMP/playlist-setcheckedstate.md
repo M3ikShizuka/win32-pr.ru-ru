@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 93e143f738197524e1555f18aedf84aa606626de645a98149c65507b71291cde
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6a8c86459dcf590b1ff1e884a8aa671dc1bba78a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118336251"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343218"
 ---
 # <a name="playlistsetcheckedstate"></a>Список воспроизведения. Сетчеккедстате
 
@@ -49,7 +49,7 @@ ms.locfileid: "118336251"
 
 Этот метод был заменен **setCheckedState2**, который поддерживает вложенные списки воспроизведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ ms.locfileid: "118336251"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

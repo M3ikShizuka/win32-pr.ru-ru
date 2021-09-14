@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 29cb8155a4424aa0d9b4c4ffa7fde17c8df569c966b0f6a998ac8f93cd4fc227
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 153b27dd8aaabfc12975ac122361b438711610e6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118336711"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343230"
 ---
 # <a name="playlistplaylistitemsvisible"></a>Список воспроизведения. Плайлиститемсвисибле
 
@@ -46,7 +46,7 @@ ms.locfileid: "118336711"
 
 Область элементы списка воспроизведения включает заголовки столбцов, содержимое столбцов и полосы прокрутки (если они есть).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -56,7 +56,7 @@ ms.locfileid: "118336711"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

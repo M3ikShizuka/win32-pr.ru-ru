@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - PortableDevice.h
-ms.openlocfilehash: 679bc47e2e8439c7f4cd5c3bcf26e6d6897910cfbfcaaaae3fe6dec6c9e0b8f9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1f6ff4875474776df1e2436e0209e6d863f5b3e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118696524"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256069"
 ---
 # <a name="wpd_meta_genres-enumeration"></a>\_Перечисление метах meta WPD \_
 
@@ -190,7 +190,7 @@ typedef enum WPD_META_GENRES {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это перечисление используется свойством " [ \_ meta- \_ \_ Жанр мультимедиа WPD](media-properties.md) ".
 

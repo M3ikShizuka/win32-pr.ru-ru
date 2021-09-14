@@ -15,12 +15,12 @@ api_type:
 api_location:
 - InkObj.dll
 - InkObj.dll.dll
-ms.openlocfilehash: fe46cf8f1befaf2717cfcf0a8e131113ed4552843bd3b6572364c27f3418ab34
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7f3bbf077758bfd0449f5bca1ba3739342fa3658
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119938674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343531"
 ---
 # <a name="inkwordlist-class"></a>Класс Инквордлист
 
@@ -54,7 +54,7 @@ ms.locfileid: "119938674"
 | Метод                                       | Описание                                                             |
 |:---------------------------------------------|:------------------------------------------------------------------------|
 | [**аддворд**](/windows/win32/api/msinkaut/nf-msinkaut-iinkwordlist-addword)       | Добавляет одно слово в **инквордлист**.<br/>                   |
-| [**AutoMerge**](/windows/win32/api/msinkaut/nf-msinkaut-iinkwordlist-merge)           | Выполняет слияние другого **инквордлист** с этим **инквордлист**.<br/> |
+| [**Объединить**](/windows/win32/api/msinkaut/nf-msinkaut-iinkwordlist-merge)           | Выполняет слияние другого **инквордлист** с этим **инквордлист**.<br/> |
 | [**ремовеворд**](/windows/win32/api/msinkaut/nf-msinkaut-iinkwordlist-removeword) | Удаляет одно слово из **инквордлист**.<br/>                |
 
 
@@ -65,7 +65,7 @@ ms.locfileid: "119938674"
 
 Для создания экземпляра этого объекта можно вызвать метод [**CoCreateInstance**](/windows/desktop/api/combaseapi/nf-combaseapi-cocreateinstance) в C++.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,7 +78,7 @@ ms.locfileid: "119938674"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -15,12 +15,12 @@ api_type:
 api_location:
 - InkObj.dll
 - InkObj.dll.dll
-ms.openlocfilehash: 58d27b97bb6683f32c145b92c1fda65fe0a786d5cb502e644580b57366119840
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 0564f758d47e516873b8df5020f3f03a5bcb0727
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119708344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343523"
 ---
 # <a name="peninputpanel-class"></a>Класс Пенинпутпанел
 
@@ -94,19 +94,19 @@ ms.locfileid: "119708344"
 | [**коммитпендингинпут**](/windows/desktop/api/peninputpanel/nf-peninputpanel-ipeninputpanel-commitpendinginput) | Отправляет собранные рукописные данные распознавателю и отправляет результаты распознавания.<br/>                                                                                                                      |
 | [**енаблетсф**](/windows/desktop/api/peninputpanel/nf-peninputpanel-ipeninputpanel-enabletsf)                   | При передаче значения **true** **пенинпутпанел** пытается отправить текст в присоединенный элемент управления через ПЛАТФОРМУ текстовых служб (TSF) и позволяет использовать пользовательский интерфейс исправления.<br/>    |
 | [**MoveTo**](/windows/desktop/api/peninputpanel/nf-peninputpanel-ipeninputpanel-moveto)                         | Устанавливает расположение объекта **пенинпутпанел** на статическое расположение экрана.<br/>                                                                                                               |
-| [**Обновляется**](/windows/desktop/api/peninputpanel/nf-peninputpanel-ipeninputpanel-refresh)                       | Обновляет и восстанавливает свойства **пенинпутпанел** на основе параметров панели ввода Tablet PC, автоматически позиционирует панель ввода пера и устанавливает пользовательский интерфейс на панель по умолчанию.<br/> |
+| [**Обновить**](/windows/desktop/api/peninputpanel/nf-peninputpanel-ipeninputpanel-refresh)                       | Обновляет и восстанавливает свойства **пенинпутпанел** на основе параметров панели ввода Tablet PC, автоматически позиционирует панель ввода пера и устанавливает пользовательский интерфейс на панель по умолчанию.<br/> |
 
 
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **пенинпутпанел** имеет следующие свойства.
 
 
 
-| Свойство                                                                  | Тип доступа           | Описание                                                                                                                                                                    |
+| Свойство.                                                                  | Тип доступа           | Описание                                                                                                                                                                    |
 |:--------------------------------------------------------------------------|:----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**аттачедедитвиндов**](/windows/desktop/api/peninputpanel/nf-peninputpanel-ipeninputpanel-get_attachededitwindow)<br/> | Чтение/запись<br/> | Возвращает или задает описатель окна элемента управления, к которому присоединен объект **пенинпутпанел** .<br/>                                                                     |
 | [**Автоотображение**](/windows/win32/api/peninputpanel/nf-peninputpanel-ipeninputpanel-get_autoshow)<br/>                     | Чтение/запись<br/> | Возвращает или задает логическое значение, указывающее, отображается ли объект **пенинпутпанел** , когда фокус установлен с помощью пера.<br/>                                           |
@@ -114,7 +114,7 @@ ms.locfileid: "119708344"
 | [**куррентпанел**](/windows/desktop/api/peninputpanel/nf-peninputpanel-ipeninputpanel-get_currentpanel)<br/>             | Чтение/запись<br/> | Возвращает или задает тип панели, используемый в данный момент для ввода в объекте **пенинпутпанел** .<br/>                                                                |
 | [**дефаултпанел**](/windows/desktop/api/peninputpanel/nf-peninputpanel-ipeninputpanel-get_defaultpanel)<br/>             | Чтение/запись<br/> | Возвращает или задает тип панели, используемый по умолчанию для входных данных в объекте **пенинпутпанел** .<br/>                                                         |
 | [**фактоид**](/windows/desktop/api/peninputpanel/nf-peninputpanel-ipeninputpanel-get_factoid)<br/>                       | Чтение/запись<br/> | Возвращает или задает строковое имя фактоид, используемое в распознавании.<br/>                                                                                                    |
-| [**Высота**](/windows/desktop/api/peninputpanel/nf-peninputpanel-ipeninputpanel-get_height)<br/>                         | Только для чтения<br/>  | Возвращает высоту объекта **пенинпутпанел** в клиентских координатах.<br/>                                                                                              |
+| [**Высота:**](/windows/desktop/api/peninputpanel/nf-peninputpanel-ipeninputpanel-get_height)<br/>                         | Только для чтения<br/>  | Возвращает высоту объекта **пенинпутпанел** в клиентских координатах.<br/>                                                                                              |
 | [**HorizontalOffset**](/windows/desktop/api/peninputpanel/nf-peninputpanel-ipeninputpanel-get_horizontaloffset)<br/>     | Чтение/запись<br/> | Возвращает или задает смещение между левым ребром объекта **пенинпутпанел** и левым ребром элемента управления, к которому он присоединен.<br/>                             |
 | [**Левый**](/windows/win32/api/peninputpanel/nf-peninputpanel-ipeninputpanel-get_left)<br/>                             | Только для чтения<br/>  | Возвращает горизонтальную или вертикальную ось, положение левого края объекта **пенинпутпанел** в экранных координатах.<br/>                                                   |
 | [**Вверх**](/windows/desktop/api/peninputpanel/nf-peninputpanel-ipeninputpanel-get_top)<br/>                               | Только для чтения<br/>  | Получает вертикальную (или ось y) расположение верхнего края объекта **пенинпутпанел** в экранных координатах.<br/>                                                      |

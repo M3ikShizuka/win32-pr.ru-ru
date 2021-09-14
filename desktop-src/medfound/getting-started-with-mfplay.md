@@ -4,12 +4,12 @@ ms.assetid: 55612f49-5995-4bdf-aa12-8a853e5a2b24
 title: начало работы с Мфплай
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bc2afb0b20189501530116c252a4d11a9b3e2d8d0dff07482b1998b73400071e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fd9e0405d3138a22e0d20e94849d416b29d62945
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118063501"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342523"
 ---
 # <a name="getting-started-with-mfplay"></a>начало работы с Мфплай
 
@@ -19,7 +19,7 @@ ms.locfileid: "118063501"
 
 Этот раздел состоит из следующих подразделов.
 
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [О Мфплай](#about-mfplay)
 -   [Воспроизведение файла мультимедиа](#playing-a-media-file)
 -   [Управление воспроизведением](#controlling-playback)
@@ -29,7 +29,7 @@ ms.locfileid: "118063501"
 -   [Ограничения Мфплай](#limitations-of-mfplay)
 -   [Связанные темы](#related-topics)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 для мфплай требуется Windows 7.
 

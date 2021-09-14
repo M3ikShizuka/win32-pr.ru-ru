@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 2e313cc132f325b57a09e2b8609bc14f052aaaac69187ac4468ee1d5471d2442
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 011f4eeda7f4a278baeceeadc7c21a822ae02b74
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120053583"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127255463"
 ---
 # <a name="ctransforminputpincurrentmediatype-method"></a>Ктрансформинпутпин. Куррентмедиатипе, метод
 
@@ -44,7 +44,7 @@ CMediaType& CurrentMediaType();
 
 Возвращает ссылку на переменную-член [**кбасепин:: m \_ MT**](cbasepin-m-mt.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

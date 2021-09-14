@@ -15,12 +15,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: f23b0463397f38dd8d438f21767ca9e45c9f68465bee4452d46a63b3a3dc9027
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8f5ce6c0bf9baf30cd8184d5271ed996c6406ddf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118972153"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343719"
 ---
 # <a name="mediarendereractioninformation-property"></a>Медиарендерер. Актионинформатион, свойство
 
@@ -43,7 +43,7 @@ HRESULT get_ActionInformation(
 
 Ссылка на интерфейс [**имедиарендерерактионинформатион**](/previous-versions/windows/desktop/api/windows.media.streaming/nn-windows-media-streaming-imediarendereractioninformation) .
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
