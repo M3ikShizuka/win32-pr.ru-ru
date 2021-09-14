@@ -4,12 +4,12 @@ ms.assetid: aa38dbe5-411d-432e-b3fe-09994fc59c75
 title: примеры запросов к базе данных с помощью SQL и сценария
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f137927ba47c4fae5eef4534b7dfab1fa5c8fa1af2ba28d27669cc4605f836b0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bbd839151b40ddd5e9a265c6c370c27a4a9fd125
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118947093"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141550"
 ---
 # <a name="examples-of-database-queries-using-sql-and-script"></a>примеры запросов к базе данных с помощью SQL и сценария
 
@@ -51,7 +51,7 @@ ms.locfileid: "118947093"
 
 
 
-| Компонент | \_Родительский компонент функции | Название  | Описание | Отображение | Уровень | Каталог\_ | Атрибуты |
+| Компонент | \_Родительский компонент функции | Заголовок  | Описание | Отображение | Level | Каталог\_ | Атрибуты |
 |---------|-----------------|--------|-------------|---------|-------|-------------|------------|
 | Теннис  | Спорт           | Теннис | Турнира  | 25      | 3     | спортдир    | 2          |
 

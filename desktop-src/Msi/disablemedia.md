@@ -4,12 +4,12 @@ ms.assetid: 275a6d43-ecf8-4146-82eb-3b42b25b9a80
 title: дисаблемедиа
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d2337a1698865b0b977e179021f6490e2fa651a8c4baa3a56e808d037926ad39
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c2ee50abf36225aa96e52332a53f0b2ab36f058c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118143250"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141758"
 ---
 # <a name="disablemedia"></a>дисаблемедиа
 

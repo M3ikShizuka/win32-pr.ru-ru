@@ -4,12 +4,12 @@ ms.assetid: 27a4192e-0574-414d-993e-6c715577f0ba
 title: енаблеадминтсремоте
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 45a644e6f0cb9200fd8a130a2cdb293e7658e3354b817f7378571fae0ab3b4f4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 383339ab5c2a592f3d6ab2cd81b4d6a446780411
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118637108"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141665"
 ---
 # <a name="enableadmintsremote"></a>енаблеадминтсремоте
 

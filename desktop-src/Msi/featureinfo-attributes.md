@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Msi.dll
 ms.openlocfilehash: 31c437d8b8e7809f17a90897959fd41642e8c8a2
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105665533"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141486"
 ---
 # <a name="featureinfoattributes-property"></a>Феатуреинфо. Attributes, свойство
 
@@ -44,7 +44,7 @@ FeatureInfo.Attributes = propVal
 
 | Требование | Значение |
 |--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/> | Установщик Windows 5,0 в Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Установщик Windows 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. установщик Windows в Windows Server 2003 или Windows XP<br/> |
+| Версия<br/> | Windows установщик 5,0 на Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Windows установщик 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Windows установщик на Windows Server 2003 или Windows XP<br/> |
 | DLL<br/>     | <dl> <dt>Msi.dll</dt> </dl>                                                                                                                                                                      |
 | IID<br/>     | IID \_ ифеатуреинфо определяется как 000C109F-0000-0000-C000-000000000046<br/>                                                                                                                                                                         |
 

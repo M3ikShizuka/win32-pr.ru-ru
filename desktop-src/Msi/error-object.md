@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Mergemod.dll
-ms.openlocfilehash: 237cf88b2830bf210e84d016b52b7fd0b0183c0c0072ac8f654663e2cd3c12dc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 36fce310e6f75889ba5092f4fe43b6ca52ee2963
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118947035"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141582"
 ---
 # <a name="error-object"></a>Объект ошибки
 
@@ -37,7 +37,7 @@ ms.locfileid: "118947035"
 
 
 
-| Свойство                                                | Описание                                                                                 |
+| Свойство.                                                | Описание                                                                                 |
 |:--------------------------------------------------------|:--------------------------------------------------------------------------------------------|
 | [**датабасекэйс**](error-databasekeys.md)<br/>   | Возвращает первичные ключи строки в таблице базы данных, вызвавшей ошибку.<br/> |
 | [**датабасетабле**](error-databasetable.md)<br/> | Возвращает имя таблицы в базе данных, вызвавшей ошибку.<br/>           |

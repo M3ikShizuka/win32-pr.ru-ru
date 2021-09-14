@@ -4,12 +4,12 @@ ms.assetid: 1faee1d5-6e39-43ea-bf92-a0b3986a13a1
 title: Таблица функций
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 65dcf9177c44f407876cbe339925ca4524034a1335393161bb40310d60c158ab
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: efa91df750c4994a2d8a2308705213e48c864518
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119251764"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141493"
 ---
 # <a name="feature-table"></a>Таблица функций
 
@@ -19,13 +19,13 @@ ms.locfileid: "119251764"
 
 | Столбец          | Type                         | Ключ | Допускает значения NULL |
 |-----------------|------------------------------|-----|----------|
-| Компонент         | [Идентификатор](identifier.md) | Д   | Нет        |
-| \_Родительский компонент функции | [Идентификатор](identifier.md) | Нет   | Д        |
-| Название           | [Text](text.md)             | Нет   | Д        |
-| Описание     | [Text](text.md)             | Нет   | Д        |
-| Отображение         | [Integer](integer.md)       | Нет   | Д        |
-| Уровень           | [Integer](integer.md)       | Нет   | Нет        |
-| Каталог\_     | [Идентификатор](identifier.md) | Нет   | Д        |
+| Компонент         | [Идентификатор](identifier.md) | Да   | Нет        |
+| \_Родительский компонент функции | [Идентификатор](identifier.md) | Нет   | Да        |
+| Заголовок           | [Text](text.md)             | Нет   | Да        |
+| Описание     | [Text](text.md)             | Нет   | Да        |
+| Отображение         | [Integer](integer.md)       | Нет   | Да        |
+| Level           | [Integer](integer.md)       | Нет   | Нет        |
+| Каталог\_     | [Идентификатор](identifier.md) | Нет   | Да        |
 | Атрибуты      | [Integer](integer.md)       | Нет   | Нет        |
 
 

@@ -4,12 +4,12 @@ ms.assetid: a6676340-1695-48c7-a1e4-7a02a7bc3fef
 title: Перечисление компонентов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 598e80e270d0442b06fdb6db50cc5b58df529a1305936f2610211f192c8572be
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ea314ee91c35fb021f5a8da64b6430e8cf950ecd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118947045"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141629"
 ---
 # <a name="enumerating-components"></a>Перечисление компонентов
 

@@ -4,12 +4,12 @@ ms.assetid: 63c9ba3e-aa8a-475b-8360-4aec78ed19db
 title: Таблица Таблица eventmapping
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5f17380e3e91669926ef50532c36fec71f44d61eb2ed7273d053defe45fa874e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d6e9a7b5b4283b5d70102123dcb11e3e9e844221
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119963114"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141554"
 ---
 # <a name="eventmapping-table"></a>Таблица Таблица eventmapping
 
@@ -21,9 +21,9 @@ ms.locfileid: "119963114"
 
 | Столбец    | Type                         | Ключ | Допускает значения NULL |
 |-----------|------------------------------|-----|----------|
-| Диалог\_  | [Идентификатор](identifier.md) | Д   | Нет        |
-| элементом управления\_ | [Идентификатор](identifier.md) | Д   | Нет        |
-| Событие     | [Идентификатор](identifier.md) | Д   | Нет        |
+| Диалог\_  | [Идентификатор](identifier.md) | Да   | Нет        |
+| элементом управления\_ | [Идентификатор](identifier.md) | Да   | Нет        |
+| Событие     | [Идентификатор](identifier.md) | Да   | Нет        |
 | attribute | [Идентификатор](identifier.md) | Нет   | Нет        |
 
 

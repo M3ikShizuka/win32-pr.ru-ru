@@ -4,12 +4,12 @@ ms.assetid: b122d6f4-2be6-4b9b-b8e0-ca08fe9c4f94
 title: дисаблелуапатчинг
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5821eb480ac09a2fc0416d7b3a54c0df5699a7096b45e56a843afe691886296f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b76357211523d0a69a56ab2a047623a63f211df9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118637781"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141773"
 ---
 # <a name="disableluapatching"></a>дисаблелуапатчинг
 

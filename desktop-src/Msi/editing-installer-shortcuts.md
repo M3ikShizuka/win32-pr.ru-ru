@@ -4,12 +4,12 @@ ms.assetid: d57b5cc6-8a1d-4060-bad9-7e6d091c098e
 title: Изменение ярлыков установщика
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ba6f1fc7507d6d01eb0a7a54e62727774075850ef5091280bef7fc5c34980de2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 776c9180b2532ac6d31fab28faa59fb44ca10845
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119534724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141678"
 ---
 # <a name="editing-installer-shortcuts"></a>Изменение ярлыков установщика
 

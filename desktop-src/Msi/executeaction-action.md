@@ -4,12 +4,12 @@ ms.assetid: 61878317-ac87-4f6e-9375-12a78969e29e
 title: Действие ExecuteAction
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 20555af337f8774aec6c58769f2235da97ae763e044665e407a8dc29e75de750
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2970a0fb4e9297264071769ac7415cd2acf866b9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118636891"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141541"
 ---
 # <a name="executeaction-action"></a>Действие ExecuteAction
 

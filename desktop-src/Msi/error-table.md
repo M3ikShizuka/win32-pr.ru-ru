@@ -4,12 +4,12 @@ ms.assetid: 3c817468-cba7-46bf-9208-5e6699c02fb6
 title: Таблица ошибок
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a4878dee0f6aa7261207815641e17071f38e19c2beda0ed33903be6bcd34ebd4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5cfcba5f68eb48621891c7a48aeedea2329996f6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119811044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141581"
 ---
 # <a name="error-table"></a>Таблица ошибок
 
@@ -21,8 +21,8 @@ ms.locfileid: "119811044"
 
 | Столбец  | Type                     | Ключ | Допускает значения NULL |
 |---------|--------------------------|-----|----------|
-| Error   | [Integer](integer.md)   | Д   | Нет        |
-| Message | [Шаблон](template.md) | Нет   | Д        |
+| Ошибка   | [Integer](integer.md)   | Да   | Нет        |
+| Сообщение | [Шаблон](template.md) | Нет   | Да        |
 
 
 

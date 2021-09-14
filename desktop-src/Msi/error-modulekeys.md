@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Mergemod.dll
-ms.openlocfilehash: 9d33b546bea909700cc1a737043947d980006764daa86771820740570adf7f80
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 53d2ac37f8864318a83c13672c081ed5dea42b0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120044604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141593"
 ---
 # <a name="errormodulekeys-property"></a>Ошибка. Модулекэйс, свойство
 
@@ -48,7 +48,7 @@ propVal = Error.ModuleKeys
 
 См. раздел [**Получение функции \_ модулекэйс**](/windows/win32/api/mergemod/nf-mergemod-imsmerror-get_modulekeys) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

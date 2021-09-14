@@ -4,12 +4,12 @@ ms.assetid: c0cd93d6-dd52-43c7-8f99-c04db96e3239
 title: EXECUTEACTION, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ababa4aa0edcfbdf1072fd8b7bbe78a63f50bc7b782ee212c63baf4f63e26d4e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ab58a304aef6bf94e14c1bf6b2f3b8c4970c5a9c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120129594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141530"
 ---
 # <a name="executeaction-property"></a>EXECUTEACTION, свойство
 

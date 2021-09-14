@@ -4,12 +4,12 @@ ms.assetid: f7106ed6-706f-4e57-989f-030066bcecd3
 title: Таблица среды
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: de1fe52e8222bfde3e451b6ccc543511822e0d511a2ce1ce2b6bee8bc4fd117f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d7a4db2e33c01685bdc40475f659e1b03b69b6c6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120129604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141625"
 ---
 # <a name="environment-table"></a>Таблица среды
 
@@ -21,10 +21,10 @@ ms.locfileid: "120129604"
 
 | Столбец      | Type                         | Ключ | Допускает значения NULL |
 |-------------|------------------------------|-----|----------|
-| Среда | [Идентификатор](identifier.md) | Д   | Нет        |
+| Среда | [Идентификатор](identifier.md) | Да   | Нет        |
 | Имя        | [Text](text.md)             | Нет   | Нет        |
-| Значение       | [Формате](formatted.md)   | Нет   | Д        |
-| Компонент\_ | [Идентификатор](identifier.md) | Нет   | Нет        |
+| Значение       | [Формате](formatted.md)   | Нет   | Да        |
+| См\_ | [Идентификатор](identifier.md) | Нет   | Нет        |
 
 
 
