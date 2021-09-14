@@ -4,12 +4,12 @@ ms.assetid: 1b8fd935-4964-4875-801b-cc6765b16924
 title: Работа с запросами
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 17b6ea5a2f0b962b195fde531216f4b57fd5834162e31c1e34fc9ff1dd3695df
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d0be4839c1e97f05d09769d69d62345b0602b789
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118942129"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065270"
 ---
 # <a name="working-with-queries"></a>Работа с запросами
 

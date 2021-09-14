@@ -4,12 +4,12 @@ ms.assetid: 86b827ed-e707-4627-9488-78eafb444d32
 title: Таблица TypeLib
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 862bc37e325f8c615e8158cfa431c927841f6b33c403c804726cea8fee6f0469
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f0aa8949df75162ffb7107b633ab766d276c4b42
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119500004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065288"
 ---
 # <a name="typelib-table"></a>Таблица TypeLib
 
@@ -21,14 +21,14 @@ ms.locfileid: "119500004"
 
 | Столбец      | Type                               | Ключ | Допускает значения NULL |
 |-------------|------------------------------------|-----|----------|
-| ID       | [GUID](guid.md)                   | Д   | Нет        |
-| Язык    | [Integer](integer.md)             | Д   | Нет        |
-| Компонент\_ | [Идентификатор](identifier.md)       | Д   | Нет        |
-| Версия     | [даублеинтежер](doubleinteger.md) | Нет   | Д        |
-| Описание | [Text](text.md)                   | Нет   | Д        |
-| Каталог\_ | [Идентификатор](identifier.md)       | Нет   | Д        |
+| ID       | [GUID](guid.md)                   | Да   | Нет        |
+| Язык    | [Integer](integer.md)             | Да   | Нет        |
+| См\_ | [Идентификатор](identifier.md)       | Да   | Нет        |
+| Версия     | [даублеинтежер](doubleinteger.md) | Нет   | Да        |
+| Описание | [Text](text.md)                   | Нет   | Да        |
+| Каталог\_ | [Идентификатор](identifier.md)       | Нет   | Да        |
 | Компонент\_   | [Идентификатор](identifier.md)       | Нет   | Нет        |
-| Стоимость        | [даублеинтежер](doubleinteger.md) | Нет   | Д        |
+| Cost        | [даублеинтежер](doubleinteger.md) | Нет   | Да        |
 
 
 

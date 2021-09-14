@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Ndisnpp.dll
 - Rmtnpp.dll
-ms.openlocfilehash: 5ba7d2d9b3506b11da6ad25e2d6484f6440e9ed92b506d325138860fc1fc5ca1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ef51aff870a3193963b3802332112c51f1024826
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119742694"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064993"
 ---
 # <a name="istatsstop-method"></a>Метод Истатс:: останавливаться
 

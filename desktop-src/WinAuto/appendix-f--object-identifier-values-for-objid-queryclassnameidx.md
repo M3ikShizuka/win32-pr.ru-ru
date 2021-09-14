@@ -4,12 +4,12 @@ description: Когда ОЛЕАКК отправляет сообщение WM 
 ms.assetid: 2a54973c-7dfa-49af-8fd0-925fafa256ad
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f22368f15fa40e30f909f9ad838cb478ed1e9a9c9ff25929f63bb91ec99e99b2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: faffd8382820aef2cd341ce54b23c9e9e7c9a59b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119134037"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064173"
 ---
 # <a name="appendix-f-object-identifier-values-for-objid_queryclassnameidx"></a>Приложение F. значения идентификаторов объектов для OBJID \_ куерикласснамеидкс
 
@@ -21,7 +21,7 @@ ms.locfileid: "119134037"
 |------------------------|--------------|
 | Listbox                | 65536 + 0      |
 | Кнопка                 | 65536 + 2      |
-| Статический                 | 65536 + 3      |
+| Статические                 | 65536 + 3      |
 | Изменить                   | 65536 + 4      |
 | Combobox               | 65536 + 5      |
 | Полоса прокрутки              | 65536 + 10     |

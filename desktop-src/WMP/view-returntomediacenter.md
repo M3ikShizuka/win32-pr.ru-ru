@@ -1,9 +1,9 @@
 ---
 title: VIEW. Ретурнтомедиацентер
-description: Метод Ретурнтомедиацентер возвращает пользователя в полноэкранный режим проигрывателя Windows Media.
+description: метод ретурнтомедиацентер возвращает пользователя в полный режим проигрыватель Windows Media.
 ms.assetid: eebf0679-5704-498c-8eb3-f7710e0cb1fe
 keywords:
-- Просмотреть. Ретурнтомедиацентер проигрыватель Windows Media
+- просмотреть. ретурнтомедиацентер проигрыватель Windows Media
 topic_type:
 - apiref
 api_name:
@@ -14,15 +14,15 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 9c5f0c86bdd15140ba92261d1f5e8c510d77afc7
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105704531"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064229"
 ---
 # <a name="viewreturntomediacenter"></a>VIEW. Ретурнтомедиацентер
 
-Метод **ретурнтомедиацентер** возвращает пользователя в полноэкранный режим проигрывателя Windows Media.
+метод **ретурнтомедиацентер** возвращает пользователя в полный режим проигрыватель Windows Media.
 
 ``` syntax
         elementID.returnToMediaCenter()
@@ -57,7 +57,7 @@ ms.locfileid: "105704531"
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 7,0 или более поздней<br/> |
+| Версия<br/> | проигрыватель Windows Media версии 7,0 или более поздней<br/> |
 
 
 

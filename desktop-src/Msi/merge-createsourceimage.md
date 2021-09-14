@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Mergemod.dll
-ms.openlocfilehash: 3e50fca7adaeced7f6f2130aeb86cf1ee74db18ae505575c8ce37b1bb85a4010
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e8d9365a69ff6f33c2989e9102bac7c9c22166aa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119926644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065367"
 ---
 # <a name="mergecreatesourceimage-method"></a>Метод Merge. Креатесаурцеимаже
 
@@ -75,7 +75,7 @@ Merge.CreateSourceImage(
 
 См. раздел Функция [**креатесаурцеимаже**](/windows/desktop/api/Mergemod/nf-mergemod-imsmmerge2-createsourceimage) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: aba73244c3dc5217bcfe7350462200cd3226f0607c6d68ce5c6bcb8f5574b7df
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2269464efb09e8c513ab2bdebb24744a6b32a671
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117943241"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064514"
 ---
 # <a name="comhandler-actiongroup-element"></a>Комхандлер (actionGroup), элемент
 
@@ -49,7 +49,7 @@ ms.locfileid: "117943241"
 | Элемент                                                               | Тип                                                         | Описание                                                       |
 |-----------------------------------------------------------------------|--------------------------------------------------------------|-------------------------------------------------------------------|
 | [**Класса**](taskschedulerschema-classid-comhandlertype-element.md) | [**гуидтипе**](taskschedulerschema-guidtype-simpletype.md)  | Задает идентификатор класса обработчика.<br/>         |
-| [**Данные**](taskschedulerschema-data-comhandlertype-element.md)       | [**Заданий**](taskschedulerschema-datatype-complextype.md) | Указывает дополнительные данные, связанные с обработчиком.<br/> |
+| [**Данные**](taskschedulerschema-data-comhandlertype-element.md)       | [**dataType**](taskschedulerschema-datatype-complextype.md) | Указывает дополнительные данные, связанные с обработчиком.<br/> |
 
 
 
@@ -79,7 +79,7 @@ ms.locfileid: "117943241"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -90,7 +90,7 @@ ms.locfileid: "117943241"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

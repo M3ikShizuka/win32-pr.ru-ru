@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - wlantypes.h
-ms.openlocfilehash: 84e4abde6192cf1be92b21df0c6a79125a198e0fde28e304cf583d76ea91689f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fd1a8ef03d5c5cb897d95b768f8ab48705098d74
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119801484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065079"
 ---
 # <a name="dot11_auth_cipher_pair-structure"></a>\_ \_ Структура пары шифров для проверки подлинности DOT11 \_
 
@@ -36,7 +36,7 @@ typedef struct _DOT11_AUTH_CIPHER_PAIR {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -58,7 +58,7 @@ typedef struct _DOT11_AUTH_CIPHER_PAIR {
 
 \_ \_ Пара шифров шифрования DOT11 \_ определяет алгоритм проверки подлинности и шифрования, который можно включить совместно для сетевых подключений "базовый набор служб (BSS)".
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -71,7 +71,7 @@ typedef struct _DOT11_AUTH_CIPHER_PAIR {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

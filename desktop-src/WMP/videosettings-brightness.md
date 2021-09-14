@@ -3,7 +3,7 @@ title: ВИДЕОСЕТТИНГС. яркость
 description: Атрибут «яркость» указывает или получает настройку яркости видео.
 ms.assetid: c23c195d-47f5-44d2-b3f9-b323a2cdea80
 keywords:
-- Проигрыватель Windows Media ВИДЕОСЕТТИНГС. яркость
+- проигрыватель Windows Media видеосеттингс. яркость
 topic_type:
 - apiref
 api_name:
@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: b53c480794e95832ea0f091aca61dfab6df6a25e
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105648798"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064259"
 ---
 # <a name="videosettingsbrightness"></a>ВИДЕОСЕТТИНГС. яркость
 
@@ -37,7 +37,7 @@ ms.locfileid: "105648798"
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------------------------|
-| Версия<br/> | Версия проигрывателя Windows Media для Windows XP или более поздней версии<br/> |
+| Версия<br/> | версия проигрыватель Windows Media для Windows XP или более поздней версии<br/> |
 
 
 

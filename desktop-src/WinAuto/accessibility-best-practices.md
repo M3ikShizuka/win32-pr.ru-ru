@@ -4,12 +4,12 @@ description: Реализация рекомендаций, описанных �
 ms.assetid: ef694361-49b7-424c-a583-1eadc2519db7
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 58f596378c55b5f99af5b24fa60a23d980407392298fe2ad656579730fbab709
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 38d9f70828610d04255b61ad3ee533d23c514867
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118327874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064193"
 ---
 # <a name="accessibility-best-practices"></a>Рекомендации по специальным возможностям
 
@@ -21,7 +21,7 @@ ms.locfileid: "118327874"
     -   [Включение программного доступа ко всем элементам и тексту пользовательского интерфейса](#enable-programmatic-access-to-all-ui-elements-and-text)
     -   [Поместите имена, заголовки и описания в объекты пользовательского интерфейса, фреймы и страницы](#place-names-titles-and-descriptions-on-ui-objects-frames-and-pages)
     -   [Обеспечение инициации программных событий всеми действиями в пользовательском интерфейсе](#ensure-programmatic-events-are-triggered-by-all-ui-activities)
--   [Параметры пользователя](#user-settings)
+-   [Параметры пользователей](#user-settings)
     -   [Поддержка всех системных параметров и отсутствие помех со стороны функций специальных возможностей](#respect-all-system-wide-settings-and-do-not-interfere-with-accessibility-functions)
 -   [Визуальная структура пользовательского интерфейса](#visual-ui-design)
     -   [Не Hard-Code цвета](#do-not-hard-code-colors)

@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Nmapi.dll
 ms.openlocfilehash: deabf10702ca41c23101c5f60c9459e094e567fe
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103990912"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065026"
 ---
 # <a name="findpreviousframe-function"></a>Функция Финдпревиаусфраме
 
@@ -66,7 +66,7 @@ HFRAME WINAPI FindPreviousFrame(
 
 </dd> <dt>
 
-*саурцеаддресс* 
+*SourceAddress* 
 </dt> <dd>
 
 Исходный адрес кадра, поиск которого выполняется.
@@ -102,7 +102,7 @@ HFRAME WINAPI FindPreviousFrame(
 
 Если функция не выполнена успешно, возвращается значение **null**.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Фильтр записи определяется главным образом *ProtocolName*, который является единственным необходимым входным фильтром. Вы можете добавить сведения *дестинатионаддресс* и *саурцеаддресс* , чтобы увеличить скорость записи.
 

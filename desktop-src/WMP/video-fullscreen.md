@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e8150843ab14148d398b11cba82aa52711621c15962976ca37d5332a6ae58f24
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5c27fa1bde6437b55689494751410145995862d8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119465699"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064285"
 ---
 # <a name="videofullscreen"></a>ВИДЕО. полноэкранный режим
 
@@ -46,7 +46,7 @@ ms.locfileid: "119465699"
 
 Это свойство может быть задано только во время выполнения после загрузки файла. Поэтому он должен быть установлен в обработчике событий скрипта. Для возврата к нормальному просмотру используется управляющая кнопка.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

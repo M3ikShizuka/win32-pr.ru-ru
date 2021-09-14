@@ -4,12 +4,12 @@ description: В этом разделе описаны проблемы и ог�
 ms.assetid: 906054a1-3627-4cac-8baf-f3543226f2d8
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f364f9635428125aa8a3c84f7e208d6270276dfa74f9e033802deda43972d061
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 494b5d6938847a6297a491c0b843fc41b559ae1f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119644614"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064163"
 ---
 # <a name="issues-and-limitations"></a>Проблемы и ограничения
 

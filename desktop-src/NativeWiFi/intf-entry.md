@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - wzcsapi.h
-ms.openlocfilehash: 8e93a9a0214e9ca46e6ae6872e0d341cd703ed9331622dfbc27bd5a949ece61c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e08efc8c95374f268efe21f963357e9c4f34ae35
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119801314"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065062"
 ---
 # <a name="intf_entry-structure"></a>\_Структура записи intf
 
@@ -54,7 +54,7 @@ typedef struct {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -300,7 +300,7 @@ typedef struct
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -309,12 +309,12 @@ typedef struct
 | Минимальная версия клиента<br/> | Windows XP с пакетом обновления 2 (SP2) \[ только классические приложения\]<br/>                                 |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                 |
 | Окончание поддержки клиента<br/>    | Windows XP с пакетом обновления SP3<br/>                                                       |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                       |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                       |
 | Заголовок<br/>                   | <dl> <dt>Взксапи. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

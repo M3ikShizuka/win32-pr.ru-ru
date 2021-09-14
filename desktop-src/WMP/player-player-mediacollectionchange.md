@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6bc5af57908371eaf7fd7e75dab39bb966977de358fa9488e54d32e985a104c0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 05177b542217132bb10004a29faaa3cbe7fcce6b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118338091"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064437"
 ---
 # <a name="playermediacollectionchange-event"></a>Событие Player. Медиаколлектиончанже
 
@@ -48,7 +48,7 @@ Player.MediaCollectionChange()
 
 **проигрыватель Windows Media 10 Mobile:** Это событие не поддерживается.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ Player.MediaCollectionChange()
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

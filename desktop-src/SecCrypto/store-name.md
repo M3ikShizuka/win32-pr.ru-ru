@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Capicom.dll
 ms.openlocfilehash: 85679bb594bdb59c41773b7f956deea95021381f
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105649113"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064601"
 ---
 # <a name="storename-property"></a>Store.Name, свойство
 
@@ -39,7 +39,7 @@ Store.Name As String
 
 **Строковое** значение, представляющее имя хранилища сертификатов.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Примерами имен хранилищ сертификатов являются My и root.
 
@@ -60,7 +60,7 @@ Store.Name As String
 
 <dl> <dt>
 
-[**Магазин**](store.md)
+[**Хранение**](store.md)
 </dt> </dl>
 
  

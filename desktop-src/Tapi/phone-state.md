@@ -4,12 +4,12 @@ ms.assetid: 74e74b62-8387-4056-83e6-2350b3da4077
 title: Сообщение PHONE_STATE (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 90003eaa67cb3384b123c62827fcf52bae524b1e20f9f14c2391c46dc89a367c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5db52f16d6c377087fd6ccadc5e70b5bb2865da2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119796764"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064540"
 ---
 # <a name="phone_state-message"></a>\_Сообщение о состоянии телефона
 
@@ -81,7 +81,7 @@ TAPI отправляет сообщение **о \_ состоянии теле
 
 Сообщение **о \_ состоянии телефона** с указанием владельцев и (или) мониторов отправляется в приложения, у которых уже есть маркер для телефона. Это может быть результатом другого приложения, изменяющего владение или мониторингом телефонного устройства с помощью [**фонеопен**](/windows/desktop/api/Tapi/nf-tapi-phoneopen), [**фонеклосе**](/windows/desktop/api/Tapi/nf-tapi-phoneclose) или [**фонешутдовн**](/windows/desktop/api/Tapi/nf-tapi-phoneshutdown).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -92,7 +92,7 @@ TAPI отправляет сообщение **о \_ состоянии теле
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

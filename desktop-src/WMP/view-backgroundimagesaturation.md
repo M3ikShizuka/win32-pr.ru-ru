@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 934c10ee090f99d456c38a5eb56512d3adb9b748d45b166167b49f3249d819e3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1c9d7f5807bcb5fd90dae211d80faf78006b6b35
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119506864"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064240"
 ---
 # <a name="viewbackgroundimagesaturation"></a>VIEW. Баккграундимажесатуратион
 
@@ -35,7 +35,7 @@ ms.locfileid: "119506864"
 
 Этот атрибут изменяет значение насыщенности изображений, заданных атрибутом **backgroundImage** , если он задан и ссылается на 8-битное изображение BMP.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -45,7 +45,7 @@ ms.locfileid: "119506864"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

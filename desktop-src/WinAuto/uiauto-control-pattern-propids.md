@@ -91,12 +91,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0690f1695f6a52190e9e459e34d2e51b19c7429980ee05f30f1ffc4af388faa3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4e94bb4471db89dd66d560ae2da090f06367b8fa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119859851"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064032"
 ---
 # <a name="control-pattern-property-identifiers"></a>Идентификаторы свойств шаблона элемента управления
 
@@ -189,7 +189,7 @@ ms.locfileid: "119859851"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -201,11 +201,11 @@ ms.locfileid: "119859851"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Общие сведения о свойствах автоматизированного пользовательского интерфейса](uiauto-propertiesoverview.md)

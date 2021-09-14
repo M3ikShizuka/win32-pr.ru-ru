@@ -4,12 +4,12 @@ ms.assetid: 3b106a81-99b6-4ac6-95be-537fc14e0510
 title: Ссылка на модуль слияния ICE
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6936c8d67693e5468f44583d5bfced540a4214bcb27dcc6d10fcd84a4fc99262
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: df445ad214808edfa40a47f036436877f5c0ba34
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120042964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065352"
 ---
 # <a name="merge-module-ice-reference"></a>Ссылка на модуль слияния ICE
 
@@ -25,7 +25,7 @@ ms.locfileid: "120042964"
 | [ICEM04](icem04.md) | Проверяет, что обязательные пустые таблицы модуля слияния действительно пусты.                                                                                                                                                                                 |
 | [ICEM05](icem05.md) | Проверяет наличие недопустимых взаимосвязей с компонентами.                                                                                                                                                                                                         |
 | [ICEM06](icem06.md) | Проверяет наличие недопустимых ссылок на функции модуля.                                                                                                                                                                                                 |
-| [ICEM07](icem07.md) | Проверяет, соответствует порядок файлов в таблицах последовательности и в [MergeModule.CABinet](mergemodule-cabinet.md) File.                                                                                                                               |
+| [ICEM07](icem07.md) | Проверяет, соответствует порядок файлов в таблицах последовательности и в файле [установочного модуля. cab](mergemodule-cabinet.md) .                                                                                                                               |
 | [ICEM08](icem08.md) | Гарантирует, что модуль не будет исключать то, от чего он зависит.                                                                                                                                                                                          |
 | [ICEM09](icem09.md) | Проверяет, что модуль слияния безопасно обрабатывает предопределенные каталоги.                                                                                                                                                                                    |
 | [ICEM10](icem10.md) | Проверяет, что модуль слияния не содержит запрещенных свойств в [таблице свойств](property-table.md).                                                                                                                                         |

@@ -19,12 +19,12 @@ keywords:
 - Средства тестирования Microsoft Active Accessibility
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 452ff74140b50f1f6ea6d5357187e42ecff2d83cc85076d11ff22e191da7f3ee
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 49d2b85436735bfa08f8fc73cf4e465b11d71630
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119052412"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064054"
 ---
 # <a name="accessibility-tools---accchecker-ui-accessibility-checker"></a>Средства специальных возможностей — Аккчеккер (средство проверки доступности пользовательского интерфейса)
 

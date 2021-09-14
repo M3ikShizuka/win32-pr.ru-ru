@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Netmon.h
-ms.openlocfilehash: 05aa29942768c0c40816eafce112f12a95cd0a713bebe612d2e5ad32776a33a7
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4768e605892b9bfe2a3df67fbdea862f67dc1a16
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119494984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064988"
 ---
 # <a name="labeled_byte-structure"></a>\_Структура БАЙТОВ с меткой
 
@@ -36,7 +36,7 @@ typedef struct _LABELED_BYTE {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -58,7 +58,7 @@ typedef struct _LABELED_BYTE {
 
 Элемент **лплабеледбитетабле** структуры [Set](set.md) указывает на массив структур **набора** , определяющих один или несколько элементов **Label** в парах «байтовые значения». Эти пары используются, если требуется отобразить метку вместо определенного БАЙТового значения, найденного в пакете протокола.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ typedef struct _LABELED_BYTE {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

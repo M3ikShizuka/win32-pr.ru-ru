@@ -4,12 +4,12 @@ description: Обычно выгрузка библиотеки DLL, котор�
 ms.assetid: d3880578-e542-418c-803a-fd00d0bfde7f
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e581ff142c7453f4a9e9f1e40a5ab9991257a350a84b2fcb2ea08a0e157288cd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c1192b013a06def4bb1ee49e08e43b7165c9edfd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119010952"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064841"
 ---
 # <a name="unloading-a-server-with-outstanding-context-handles"></a>Выгрузка сервера с необработанными дескрипторами контекста
 

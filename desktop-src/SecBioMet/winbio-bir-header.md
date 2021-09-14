@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d2166a206dd1590f83e16bc67482d3b42e24717efae4c44e54a99b9aa7d83b84
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1479c0db3ee826d79cf95a311215c8cf76f1c96b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118911087"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064624"
 ---
 # <a name="winbio_bir_header-structure"></a>\_ \_ Структура заголовка винбио Бир
 
@@ -50,7 +50,7 @@ typedef struct _WINBIO_BIR_HEADER {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -98,7 +98,7 @@ typedef struct _WINBIO_BIR_HEADER {
 
 </dd> <dt>
 
-**Type**
+**Тип**
 </dt> <dd>
 
 Значение биометрического \_ \_ типа винбио, которое указывает тип биометрических данных, на которые ссылается запись биометрической информации. В настоящее время поддерживается только **\_ \_ отпечаток типа винбио** . Дополнительные сведения см. в [**разделе \_ \_ КОНСТАНТы биометрического типа винбио**](winbio-biometric-type-constants.md).
@@ -235,7 +235,7 @@ typedef struct _WINBIO_BIR_HEADER {
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -243,7 +243,7 @@ typedef struct _WINBIO_BIR_HEADER {
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                                                    |
 | Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/>                                                       |
-| Header<br/>                   | <dl> <dt>Винбио \_ types. h (include винбио. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Винбио \_ types. h (include винбио. h)</dt> </dl> |
 
 
 

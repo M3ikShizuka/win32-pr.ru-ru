@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: beef90cfced2b33b612e15c1ef6918de81997520483acfb141f3a307ad64096d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0cdcfad0e2a943bf3a475317f32d37921878a8f8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119777654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064937"
 ---
 # <a name="gluerrorstring-function"></a>Функция Глуеррорстринг
 
@@ -55,7 +55,7 @@ const GLubyte* WINAPI gluErrorString(
 
 Функция **глуеррорстринг** создает строки ошибок только в ANSI. Везде, где это возможно, используйте **глуеррорстрингвин**, что позволяет использовать строки ошибок ANSI или Unicode. Это упрощает локализацию программы для использования с другим языком.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -69,7 +69,7 @@ const GLubyte* WINAPI gluErrorString(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

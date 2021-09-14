@@ -4,12 +4,12 @@ ms.assetid: b78c3757-d969-4684-84b9-b2acfd9f5c82
 title: ТРАНСФОРМСАТСАУРЦЕ, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 58f48f34f52bf76a9aca07b7b41d18f666543b1afcc6332a227c951344dcf905
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6e8b0acf2e64976d66f04fbd16ec67a5bb38b7fa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119500302"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065293"
 ---
 # <a name="transformsatsource-property"></a>ТРАНСФОРМСАТСАУРЦЕ, свойство
 
@@ -19,7 +19,7 @@ ms.locfileid: "119500302"
 
 Windows Установщик интерпретирует свойство **трансформсатсаурце** , как будто оно было свойством [**трансформссекуре**](transformssecure.md) . если в свойстве [**transforms**](transforms.md) передается флаг @, установщик Windows обрабатывает преобразования в списке как [преобразования с защитой по источнику](secure-at-source-transforms.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

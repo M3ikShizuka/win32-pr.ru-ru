@@ -3,9 +3,9 @@ title: Предыдущий метод Ивмпконтролс
 description: Предыдущий метод устанавливает предыдущий элемент списка воспроизведения в качестве текущего элемента.
 ms.assetid: 380524f5-e8b6-45c4-9f6c-3dbb49b1ac9f
 keywords:
-- Предыдущий метод проигрывателя Windows Media
-- Предыдущий метод проигрыватель Windows Media Player, интерфейс Ивмпконтролс
-- Интерфейс Ивмпконтролс Windows Media Player, предыдущий метод
+- предыдущий метод проигрыватель Windows Media
+- предыдущий метод проигрыватель Windows Media, интерфейс ивмпконтролс
+- интерфейс ивмпконтролс проигрыватель Windows Media, предыдущий метод
 topic_type:
 - apiref
 api_name:
@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 823038205a026afb7141491f562698eb60515a5d
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105689295"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064213"
 ---
 # <a name="iwmpcontrolsprevious-method"></a>Ивмпконтролс: метод:p Предыдущая
 
@@ -53,7 +53,7 @@ Implements IWMPControls.previous
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если список воспроизведения находится в первой записи при вызове **предыдущего** , последняя запись списка воспроизведения станет текущей.
 
@@ -106,7 +106,7 @@ End Sub
 
 | Требование | Значение |
 |----------------------|------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/>   | Проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                      |
+| Версия<br/>   | проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                      |
 | Пространство имен<br/> | **вмплиб**<br/>                                                                                                  |
 | Сборка<br/>  | <dl> <dt>Interop.WMPLib.dll (Interop.WMPLib.dll.dll)</dt> </dl> |
 

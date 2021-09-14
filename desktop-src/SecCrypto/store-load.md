@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: 1b39c2be625ff88869d27e6210e49496352af868c73557d2657c509fd0e79f82
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 32261a6fd8c5cf4382832d8286d63ce5d44fb542
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118897794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064605"
 ---
 # <a name="storeload-method"></a>Метод Store. Load
 
@@ -105,7 +105,7 @@ Store.Load( _
 
 <dl> <dt>
 
-[**Сообщений**](store.md)
+[**Хранение**](store.md)
 </dt> </dl>
 
  

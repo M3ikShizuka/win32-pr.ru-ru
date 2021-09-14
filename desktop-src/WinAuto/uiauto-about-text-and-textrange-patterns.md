@@ -22,12 +22,12 @@ keywords:
 - производительность
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 04112e0233db056c5ff3e81b68256229aa45f60cfdb1258e565e10aea1cd43ec
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bb9ff1eb75227454e3e9df6035798a304096a958
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119052362"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064041"
 ---
 # <a name="about-the-text-and-textrange-control-patterns"></a>О шаблонах элементов управления Text и TextRange
 
@@ -111,7 +111,7 @@ TSF предназначен для приложений, которым нео�
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Как модель автоматизации пользовательского интерфейса поддерживает внедренные объекты](uiauto-textpattern-and-embedded-objects-overview.md)

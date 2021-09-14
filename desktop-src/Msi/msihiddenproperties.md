@@ -4,12 +4,12 @@ ms.assetid: 7d5eb9cf-04a5-41bd-9ca9-f30af45ab0a5
 title: Мсихидденпропертиес, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: acea21b946a4169748c96970143d6c44c6bf682ce6f6a8e4624791c52d0ba813
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6124f7002edd8ab7d3d5e6691b7b0a322b93c285
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118628111"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065311"
 ---
 # <a name="msihiddenproperties-property"></a>Мсихидденпропертиес, свойство
 

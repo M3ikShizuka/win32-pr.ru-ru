@@ -16,12 +16,12 @@ keywords:
 - считывание значений атрибутов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 800fda1bf3002f015873b69e29503ecba637a978bac1b167724c04f5f15228b3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8909a752e9a974e4959be8ecd933d4bb3f1bfd4a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119861774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064400"
 ---
 # <a name="reading-attribute-values-from-a-cd-or-dvd"></a>Считывание значений атрибутов с компакт-диска или DVD-диска
 

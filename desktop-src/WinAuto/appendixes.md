@@ -4,12 +4,12 @@ description: В этом разделе содержатся дополните�
 ms.assetid: 1e4af3df-6946-4098-a617-b340e2761cc0
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1881525d0f969cbca70d2e96f0658dce8acd8767ca01d364766f286974c1beea
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fd8c339b76421af942cafed1949ae93a4268e89f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119998874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064172"
 ---
 # <a name="appendixes-microsoft-active-accessibility"></a>Приложения (Microsoft Active Accessibility)
 

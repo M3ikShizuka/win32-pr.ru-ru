@@ -5,11 +5,11 @@ ms.assetid: 3599617b-c26d-4b4a-9990-811a808815af
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 061b139c2d137cc1ecf914dd525b28ec37704136
-ms.sourcegitcommit: 85688bbfbe5b121bc05ddf112d54c23a469dfbc0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "104412381"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064060"
 ---
 # <a name="tools"></a>Инструменты
 
@@ -17,18 +17,18 @@ ms.locfileid: "104412381"
 
 
 
-| Средство                                                     | Описание                                                                                                                                                                           |
+| Инструмент                                                     | Описание                                                                                                                                                                           |
 |----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Средство Accessible Event Watcher](accessible-event-watcher.md) | Регистрирует [виневентс](winevents-infrastructure.md) по мере их возникновения в системе.                                                                                                         |
 | [Проверить](inspect-objects.md)                           | Выявляет проблемы с реализацией свойств и методов в доступных объектах Microsoft Active Accessibility и в элементах автоматизации модели автоматизации пользовательского интерфейса Майкрософт. |
 
 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

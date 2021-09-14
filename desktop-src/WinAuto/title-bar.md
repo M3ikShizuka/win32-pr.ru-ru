@@ -5,11 +5,11 @@ ms.assetid: f41ab777-6c94-4d8e-b743-c635e93df396
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 620fa8716cb498857cdf12c652b99f409e6e4214
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122480130"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064063"
 ---
 # <a name="title-bar-msaa-ui-element-reference"></a>Заголовок окна (Справочник по элементу пользовательского интерфейса MSAA)
 
@@ -38,7 +38,7 @@ ms.locfileid: "122480130"
 
 
 
-| Свойство | Комментарии | 
+| Свойство. | Комментарии | 
 |----------|----------|
 | <a href="/windows/desktop/api/Oleacc/nf-oleacc-iaccessible-get_accchildcount"><strong>get_accChildCount</strong></a> | Свойство <strong>ChildCount</strong> имеет значение 5. Свойство <strong>ChildCount</strong> содержит редакторы IME и контекстно-зависимые кнопки справки, даже если они не отображаются. Кнопки, которые не отображаются, имеют <strong></strong> свойство State <a href="object-state-constants.md"><strong>STATE_SYSTEM_INVISIBLE</strong></a>. | 
 | <strong>get_accDescription</strong> | Свойство <strong>Description</strong> в строке заголовка имеет значение: "отображает имя окна и содержит элементы управления для управления им". Дочерние кнопки в заголовке окна имеют следующие описания:<br /><ul><li>"Перемещает окно из</li><li>«Делает окно заполненным</li><li>"Помещает в сворачивания или</li><li>"Закрывает окно"</li><li>"Вводит или оставляет контекст-</li><li>"Открывает клавиатуру при нажатии"</li></ul> | 

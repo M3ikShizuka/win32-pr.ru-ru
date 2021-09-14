@@ -3,9 +3,9 @@ title: Событие Player. KeyPress
 description: Событие KeyPress возникает при нажатии и отпускании клавиши. | Событие Player. KeyPress
 ms.assetid: fc51dfd3-7968-464a-a4e2-669ffcb52a59
 keywords:
-- Проигрыватель Windows Media событие KeyPress
-- Проигрыватель Windows Media событие KeyPress, класс Player
-- Класс проигрывателя Windows Media Player, событие KeyPress
+- проигрыватель Windows Media события KeyPress
+- событие KeyPress проигрыватель Windows Media, класс Player
+- класс проигрывателя проигрыватель Windows Media, событие KeyPress
 topic_type:
 - apiref
 api_name:
@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: c78b72dd703c13019c71b23af53790aa974927f1
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105704234"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064450"
 ---
 # <a name="playerkeypress-event"></a>Событие Player. KeyPress
 
@@ -53,13 +53,13 @@ Player.KeyPress(
 
 Это событие не возвращает значение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это событие возникает, когда нажатие клавиши приводит к вводу любого печатного символа клавиатуры, клавиши CTRL в сочетании с символом из стандартного алфавита или одного из нескольких специальных символов, а также клавишей Ввод или BACKSPACE.
 
-Значение параметров события указывается проигрывателем Windows Media, доступ к которому можно получить или передать в метод в импортированном файле JScript с использованием имени параметра. Имя этого параметра должно быть введено в точности так, как показано, включая прописные буквы.
+значение параметров события задается проигрыватель Windows Media, и к нему можно получить доступ или передать в метод в импортированном JScriptном файле, используя имя параметра. Имя этого параметра должно быть введено в точности так, как показано, включая прописные буквы.
 
-**Проигрыватель Windows Media 10 Mobile:** Это событие не поддерживается.
+**проигрыватель Windows Media 10 Mobile:** Это событие не поддерживается.
 
 ## <a name="requirements"></a>Требования
 
@@ -67,7 +67,7 @@ Player.KeyPress(
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media 9 Series или более поздней версии.<br/>                                 |
+| Версия<br/> | проигрыватель Windows Media 9 Series или более поздней версии.<br/>                                 |
 | DLL<br/>     | <dl> <dt>Wmp.dll</dt> </dl> |
 
 

@@ -20,12 +20,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: aad75f6d35108a21b772c58d0b7a0fed9b22b5247f829988ec6e9403e0fec561
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3c9855ec1dc95a52429561e91aa82abdac088523
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118833631"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064359"
 ---
 # <a name="retrieving-metadata"></a>Извлечение метаданных
 

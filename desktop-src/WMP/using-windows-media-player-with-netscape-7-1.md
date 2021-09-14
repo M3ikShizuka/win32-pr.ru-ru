@@ -27,12 +27,12 @@ keywords:
 - веб-страница внедрения, компонент Gecko ActiveX
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fd8caa9e63d3fd277f97b3f2b88616b33d09927b543796a3609069734c3eeb88
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a8918f760bd50f2fba3c69f759945c44eb3bf2cc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119762084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064303"
 ---
 # <a name="using-windows-media-player-with-netscape-71"></a>Использование проигрывателя Windows Media с Netscape 7.1
 

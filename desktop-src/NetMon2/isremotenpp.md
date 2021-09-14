@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Npptools.dll
-ms.openlocfilehash: ec91b5e2d4602df6aa264a27adf46e47cec24683fc65dace358649eeba76643a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c52346f368c0720601423f258e4dc73c27296311
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119890334"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065018"
 ---
 # <a name="isremotenpp-function"></a>Функция Исремотенпп
 
@@ -56,7 +56,7 @@ BOOL IsRemoteNPP(
 
 Убедитесь, что имена удаленного и локального компьютеров отличаются.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

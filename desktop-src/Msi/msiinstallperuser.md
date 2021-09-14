@@ -4,12 +4,12 @@ ms.assetid: 17eb24e4-8464-4724-9768-4b58446ee4bc
 title: МСИИНСТАЛЛПЕРУСЕР, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 08ae7406d69c387c013a161925fd6a75be3f75df8d54656cd0ed8622a9b7ce7d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b3fa54026c859b5f4f610fd54aec2df3ca518ad4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117804488"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065308"
 ---
 # <a name="msiinstallperuser-property"></a>МСИИНСТАЛЛПЕРУСЕР, свойство
 

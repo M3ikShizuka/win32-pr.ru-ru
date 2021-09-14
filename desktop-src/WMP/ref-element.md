@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 9195eb1fc3ca1f13e64376c0200cbb2e6ec4589e6740a74b1ff7670c0951df25
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 739ac61007e619055c28732c5c5aa763e84054fa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118333281"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064391"
 ---
 # <a name="ref-element"></a>REF, элемент
 
@@ -66,7 +66,7 @@ URL-адрес любого фрагмента мультимедийного с
 
 Если элемент мультимедиа, на который указывает ссылка, является файлом изображения, то для указания времени показа изображения должен использоваться элемент **DURATION** .
 
-**Примечание**
+**Примечание**.
 
 Попытка воспроизведения Flash-носителя, который содержит звук с первым кадром, может привести к непредвиденным результатам. Содержимое Flash следует создавать, чтобы воспроизводить звук, начинающийся не раньше, чем второй кадр.
 

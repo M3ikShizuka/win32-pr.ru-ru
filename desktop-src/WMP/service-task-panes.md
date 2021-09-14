@@ -14,12 +14,12 @@ keywords:
 - области задач службы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d445e3fa5393dddb8e3dcc835317c8e5a284cb46f0a4a0e2b1f65fe2ea2d7b30
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e4f882e46a7252792db5b551b25869c7711f9d31
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119646514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064319"
 ---
 # <a name="service-task-panes"></a>Области задач службы
 

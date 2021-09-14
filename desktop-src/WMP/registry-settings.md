@@ -9,12 +9,12 @@ keywords:
 - пакет средств разработки программного обеспечения (SDK), реестр
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bf95260838e2d307207ff3738fcf9e2a48969ac15d9e9bffe08c293ac9d2fa1e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d1a57d792d252a5b50c57726be8e82aa1d4dd682
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119861504"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064378"
 ---
 # <a name="registry-settings"></a>Параметры реестра
 

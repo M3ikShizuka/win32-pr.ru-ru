@@ -20,12 +20,12 @@ keywords:
 - автоматические списки воспроизведения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c0e32d0f95093d9550c71643330267d59a57f56db7e0d666274a492ac29b2c58
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aa53a4b9f56a8aa6425f137ef4a8c43bd8ed1454
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119507174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064314"
 ---
 # <a name="using-auto-playlists-to-organize-content-in-the-library"></a>Использование списков автоматического воспроизведения для организации содержимого в библиотеке
 

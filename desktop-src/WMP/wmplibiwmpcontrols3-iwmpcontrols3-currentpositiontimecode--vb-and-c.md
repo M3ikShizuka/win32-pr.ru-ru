@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b91c00c166050f4f3a3bc05861fa92d4fb66efcfa139e726c7cc799e21623fa4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7660e6dc2690c310cf06f64e38190dc1cb3f24ab
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119760924"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064204"
 ---
 # <a name="iwmpcontrols3currentpositiontimecode-property"></a>Свойство IWMPControls3:: Куррентпоситионтимекоде
 
@@ -89,7 +89,7 @@ Controls.currentPositionTimecode = &quot;[00000]01:00:30.05&quot;
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -101,7 +101,7 @@ Controls.currentPositionTimecode = &quot;[00000]01:00:30.05&quot;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

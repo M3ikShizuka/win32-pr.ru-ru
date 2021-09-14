@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 41b5e4f637aa4d15aa9496eb85ee0b60a103ed4db33185e8434b8409173da298
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 992ffd881498c3670eaaf5c075db9c6432cc1496
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118830263"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064297"
 ---
 # <a name="videobackgroundcolor"></a>ВИДЕО. backgroundColor
 
@@ -35,7 +35,7 @@ ms.locfileid: "118830263"
 
 Если видео меньше, чем окно, а **стретчтофит** имеет значение false, цвет фона отображается вокруг видео.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -45,7 +45,7 @@ ms.locfileid: "118830263"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

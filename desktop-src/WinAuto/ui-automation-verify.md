@@ -11,12 +11,12 @@ keywords:
 - Средства тестирования модели автоматизации пользовательского интерфейса
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 00f8c97d6522e353445ededff47a9a7cf123998b94f1323f1df59b7a380ac1d8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b794e5d191c07a9c0db602ebac0f908bbdf960bf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119052392"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064042"
 ---
 # <a name="accessibility-tools---ui-automation-verify-uia-verify"></a>Средства специальных возможностей — проверка модели автоматизации пользовательского интерфейса (проверка UIA)
 
@@ -29,7 +29,7 @@ ms.locfileid: "119052392"
 > [!NOTE]
 > **Проверка пользовательского интерфейса** — это устаревший инструмент. вместо этого рекомендуется использовать [Аналитика специальных возможностей](https://accessibilityinsights.io/) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 В системе должна присутствовать модель автоматизации пользовательского интерфейса. Дополнительные сведения см. в разделе "требования" [модели автоматизации пользовательского интерфейса](entry-uiauto-win32.md).
 

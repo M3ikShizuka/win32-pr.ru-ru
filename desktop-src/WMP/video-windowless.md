@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c98aefde5aab9837f220ccb7df254e6a592e0d5e9d41de43291b2ab73e287321
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a3a17d905d2ba8c11254476337d656890469b2b6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117931744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064265"
 ---
 # <a name="videowindowless"></a>ВИДЕО. без окон
 
@@ -48,7 +48,7 @@ ms.locfileid: "117931744"
 
 Воспроизведение видео оптимизировано для необрезанного воспроизведения. В этом случае атрибут без **окон** имеет значение false, и всегда отображается весь прямоугольник видео. Все изображения, охватывающие окно видео, игнорируются, и в окне видео отображается z-порядок самого высокого уровня.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -58,7 +58,7 @@ ms.locfileid: "117931744"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

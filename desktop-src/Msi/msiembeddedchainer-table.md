@@ -4,12 +4,12 @@ ms.assetid: ac1e9c7b-bb83-4e1e-9108-211374c7d878
 title: Таблица Мсиембеддедчаинер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f1cfcf48f3cf3863f19819b3337a136d2540fa3254067cacc50fcf391256caa5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 902a33bce5d3a0aff3d2797fce94e5d272b61271
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118945059"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065324"
 ---
 # <a name="msiembeddedchainer-table"></a>Таблица Мсиембеддедчаинер
 
@@ -29,9 +29,9 @@ ms.locfileid: "118945059"
 
 | Столбец             | Type                             | Ключ | Допускает значения NULL |
 |--------------------|----------------------------------|-----|----------|
-| мсиембеддедчаинер | [Идентификатор](identifier.md)     | Д   | Нет        |
-| Условие          | [Condition](condition.md)       | Нет   | Д        |
-| Командная строка        | [Формате](formatted.md)       | Нет   | Д        |
+| мсиембеддедчаинер | [Идентификатор](identifier.md)     | Да   | Нет        |
+| Условие          | [Condition](condition.md)       | Нет   | Да        |
+| Командная строка        | [Формате](formatted.md)       | Нет   | Да        |
 | Источник             | [кустомсаурце](customsource.md) | Нет   | Нет        |
 | Тип               | [Integer](integer.md)           | Нет   | Нет        |
 

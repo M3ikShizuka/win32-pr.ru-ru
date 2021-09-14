@@ -12,12 +12,12 @@ api_name:
 api_type:
 - Schema
 api_location: ''
-ms.openlocfilehash: 468e9fb0500c4a514b7b0a9dddea023f0851b9f7ba783504548f2285810ffffa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1b424a47405aa8f32276019a85902bd51b173cc1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119780184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065049"
 ---
 # <a name="lanpolicy-element"></a>Ланполици, элемент
 
@@ -81,10 +81,10 @@ ms.locfileid: "119780184"
 
 | Элемент                                                                           | Тип                                                     | Описание                                                                                                                                                                          |
 |-----------------------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**nописание**](lan-policyschema-description-lanpolicy-element.md)             | [**наметипе**](lan-policyschema-nametype-simpletype.md) | Содержит описание политики проводной локальной сети. <br/>                                                                                                                          |
+| [**description**](lan-policyschema-description-lanpolicy-element.md)             | [**наметипе**](lan-policyschema-nametype-simpletype.md) | Содержит описание политики проводной локальной сети. <br/>                                                                                                                          |
 | [**енаблеаутоконфиг**](lan-policyschema-enableautoconfig-globalflags-element.md) | Логическое                                                  | Указывает, используют ли компьютеры встроенную службу автоматической настройки для управления подключениями к проводным сетям, для которых требуется проверка подлинности уровня 2 (например, 802.1 X).<br/> |
 | [**глобалфлагс**](lan-policyschema-globalflags-lanpolicy-element.md)             |                                                          | Содержит глобальные параметры для автоматической настройки проводных сетей. <br/>                                                                                          |
-| [**безымян**](lan-policyschema-name-lanpolicy-element.md)                           | [**наметипе**](lan-policyschema-nametype-simpletype.md) | Содержит имя политики проводной локальной сети. <br/>                                                                                                                                 |
+| [**name**](lan-policyschema-name-lanpolicy-element.md)                           | [**наметипе**](lan-policyschema-nametype-simpletype.md) | Содержит имя политики проводной локальной сети. <br/>                                                                                                                                 |
 | [**профилелист**](lan-policyschema-profilelist-lanpolicy-element.md)             |                                                          | Содержит список профилей, применяемых на уровне домена или компьютера. <br/>                                                                                                |
 
 
@@ -93,7 +93,7 @@ ms.locfileid: "119780184"
 
 Сведения о просмотре списка дочерних элементов в древовидной структуре см. в разделе [ \_ элементы схемы политики локальной сети](lan-policyschema-elements.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Ndisnpp.dll
 - Rmtnpp.dll
-ms.openlocfilehash: eabba7b5cf234d48b2839074ec1ad07380a7ed14858f6bd43b07f7d2eaa033b3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a5fa56c05036380b5dba42089979b43d776a4b57
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120037194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065013"
 ---
 # <a name="istatsdisconnect-method"></a>Истатс::D метода соединения
 
@@ -60,7 +60,7 @@ HRESULT STDMETHODCALLTYPE Disconnect();
 
 Этот метод не может быть вызван, когда НПП захватывает данные. Сначала вызовите метод **истатс::D соединения** , а затем вызовите [**Истатс:: останавливаться**](istats-stop.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -73,7 +73,7 @@ HRESULT STDMETHODCALLTYPE Disconnect();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

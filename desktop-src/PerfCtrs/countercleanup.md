@@ -12,12 +12,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: fe06923849a12609b6662505df94c927c3d9dfd4aeb8bc6a42bd6a225e042ef0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: eb768d3152aad5401c30b18a3f1ff13d1ef2397d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119011372"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064908"
 ---
 # <a name="countercleanup-function"></a>Функция Каунтерклеануп
 
@@ -46,7 +46,7 @@ void WINAPI CounterCleanup(void);
 
 Средство [**КТРПП**](ctrpp.md) создает эту встроенную функцию при указании аргумента **-o** . Имя функции включает строку *префикса* , если указан аргумент **-prefix** (например, **_prefix_CounterCleanup**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

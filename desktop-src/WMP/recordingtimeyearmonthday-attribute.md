@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 60e6d243b62f1518052cc154154d28355d3d8c3e2d4c405cc0c8aca0eb445d44
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1681dd273178d2f5c6fcb229e4d89cede516c22e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118995624"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064396"
 ---
 # <a name="recordingtimeyearmonthday-attribute"></a>Атрибут Рекордингтимэйеармонсдай
 

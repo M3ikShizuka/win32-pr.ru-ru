@@ -5,11 +5,11 @@ title: мсидисаблимбеддедуи
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: b9f5bfe6abfbb386253631c2858dab6ef36bcf39
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103999593"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065329"
 ---
 # <a name="msidisableembeddedui"></a>мсидисаблимбеддедуи
 
@@ -17,11 +17,11 @@ ms.locfileid: "103999593"
 
 Чтобы отключить встроенный пользовательский интерфейс для одного пакета, можно использовать свойство [**мсидисаблиеуи**](msidisableeeui.md) .
 
-**[Установщик Windows 4,0 и более ранних версий](not-supported-in-windows-installer-4-0.md):** Не поддерживается. Эта функция доступна начиная с установщик Windows 4,5.
+**[установщик Windows 4,0 и более ранних версий](not-supported-in-windows-installer-4-0.md):** Не поддерживается. эта функция доступна начиная с установщик Windows 4,5.
 
 ## <a name="registry-key"></a>Ключ реестра
 
-**HKey \_ \_** \\ **Политики программного обеспечения** локального компьютера \\  \\  \\  \\ **установщик** Microsoft Windows
+**HKey \_ \_** \\ **политики программного обеспечения** локального компьютера \\  \\  \\  \\ **установщик** Microsoft Windows
 
 ## <a name="data-type"></a>Тип данных
 

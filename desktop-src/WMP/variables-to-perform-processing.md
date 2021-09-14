@@ -11,12 +11,12 @@ keywords:
 - Пример подключаемого модуля Echo DSP, обработка переменных
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e2f856808c1e9a00602fe3d2fe03d4255fd79bcfeb44c2021f2434ea670706cf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e44f044aee6d893fba97cf921360444ec43db871
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120001344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064299"
 ---
 # <a name="variables-to-perform-processing"></a>Переменные для выполнения обработки
 

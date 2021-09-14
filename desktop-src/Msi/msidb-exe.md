@@ -4,12 +4,12 @@ ms.assetid: 2eee535f-e7f6-4e1a-9667-df4b8067b132
 title: Msidb.exe
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 71bff646ae3e933be5dbe37a774b72c10a0183fe9c793305292c9a11c4f417be
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 86f2e1fa6a1cf1a9dc8a01b9f9d6542607dd9275
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119012933"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065342"
 ---
 # <a name="msidbexe"></a>Msidb.exe
 

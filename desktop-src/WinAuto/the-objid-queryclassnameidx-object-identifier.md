@@ -4,12 +4,12 @@ description: Microsoft Active Accessibility использует \_ иденти
 ms.assetid: 2167df6d-5df3-40b7-bebe-142f4bd98cd7
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3d37ba879a6066ad07e1edda1aaa16551e8501906d187bac50d4a809179a8878
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2ba7d73a152380411ef0b230de8f0e3372a6718b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117928976"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064073"
 ---
 # <a name="the-objid_queryclassnameidx-object-identifier"></a>\_Идентификатор объекта КУЕРИКЛАССНАМЕИДКС OBJID
 

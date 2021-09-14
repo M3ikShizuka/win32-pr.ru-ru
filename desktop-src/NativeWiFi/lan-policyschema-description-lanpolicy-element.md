@@ -12,12 +12,12 @@ api_name:
 api_type:
 - Schema
 api_location: ''
-ms.openlocfilehash: 2769fcf09bee8ee2aa7ed46c0ba191b96d1e01342bfa640e47cb7087e87df6a2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: bc3d94a97701ced93367794a8a43a5da0c316005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119685234"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065056"
 ---
 # <a name="description-lanpolicy-element"></a>Элемент Description (Ланполици)
 

@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9058b78bcff60b27bb27f25f11b785a8cd341f9addafe1829c1e8a7f3fb02a15
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d0323149be50cd8896a191ca57584cea0c015487
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118939561"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065121"
 ---
 # <a name="inapsystemhealthagentbindinggetsystemisolationinfo-method"></a>Метод Инапсистемхеалсажентбиндинг:: Жетсистемисолатионинфо
 
@@ -103,7 +103,7 @@ SHA должен вызвать метод [**Initialize**](inapsystemhealthagen
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

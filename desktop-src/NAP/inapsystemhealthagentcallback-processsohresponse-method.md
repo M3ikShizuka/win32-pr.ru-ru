@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1f5aaca7833560dbb53422da08ced158bb172610c3bacef931866d74d416fcce
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 95c62c585c36680dde2c54c95c255a85f69fc5ce
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118367759"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065098"
 ---
 # <a name="inapsystemhealthagentcallbackprocesssohresponse-method"></a>Инапсистемхеалсаженткаллбакк: метод:P Роцесссохреспонсе
 
@@ -87,7 +87,7 @@ HRESULT ProcessSoHResponse(
 |-------------------------------------|-----------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                      |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                                |
-| Header<br/>                   | <dl> <dt>Напсистемхеалсажент. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Напсистемхеалсажент. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>Напсистемхеалсажент. idl</dt> </dl> |
 
 

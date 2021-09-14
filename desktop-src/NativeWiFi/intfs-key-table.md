@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Wzcsapi.h
-ms.openlocfilehash: 5e1aee9708721036fba487edafa901ec701156d44d3f6cb76265d49701925cef
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4ef38f2317c763eaa6c7e0379be5c8b00c0ed6b4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117984984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065058"
 ---
 # <a name="intfs_key_table-structure"></a>\_ \_ Структура таблицы ключей интфс
 
@@ -38,7 +38,7 @@ typedef struct {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -72,7 +72,7 @@ typedef struct {
 | Минимальная версия клиента<br/> | Windows XP с пакетом обновления 2 (SP2) \[ только классические приложения\]<br/>                                 |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                 |
 | Окончание поддержки клиента<br/>    | Windows XP с пакетом обновления SP3<br/>                                                       |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                       |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                       |
 | Заголовок<br/>                   | <dl> <dt>Взксапи. h</dt> </dl> |
 
 

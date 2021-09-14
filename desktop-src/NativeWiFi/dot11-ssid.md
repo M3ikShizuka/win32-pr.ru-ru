@@ -14,11 +14,11 @@ api_type:
 api_location:
 - wlantypes.h
 ms.openlocfilehash: e319d22db33a627be631f9b6b0ee36591bc7a5bd
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103910651"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065069"
 ---
 # <a name="dot11_ssid-structure"></a>\_Структура SSID по идентификатору DOT11
 
@@ -36,7 +36,7 @@ typedef struct _DOT11_SSID {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -54,7 +54,7 @@ typedef struct _DOT11_SSID {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Идентификатор SSID, заданный членом **укссид** , не является строкой ASCII, завершающейся нулем. Длина идентификатора SSID определяется членом **уссидленгс** .
 
@@ -67,9 +67,9 @@ typedef struct _DOT11_SSID {
 | Требование | Значение |
 |-------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista, Windows XP с пакетом обновления 3 (SP3), \[ только классические приложения\]<br/>                                         |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                                        |
-| Распространяемые компоненты<br/>          | Интерфейс API беспроводной локальной сети для Windows XP с пакетом обновления 2 (SP2)<br/>                                                         |
-| Header<br/>                   | <dl> <dt>Влантипес. h (включение Windot11. h)</dt> </dl> |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                                        |
+| Распространяемые компоненты<br/>          | API беспроводной локальной сети для Windows XP с пакетом обновления 2 (SP2)<br/>                                                         |
+| Заголовок<br/>                   | <dl> <dt>Влантипес. h (включение Windot11. h)</dt> </dl> |
 
 
 

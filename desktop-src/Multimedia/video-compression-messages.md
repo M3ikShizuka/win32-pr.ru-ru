@@ -8,11 +8,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 5b86c94d120031e273789fb8f27e37eed6804b61
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124370416"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065190"
 ---
 # <a name="video-compression-messages"></a>Сообщения о сжатии видео
 
@@ -66,7 +66,7 @@ ms.locfileid: "124370416"
 -   [**ICM \_ сеткуалити**](icm-setquality.md)
 -   [**ICM \_ SETSTATE**](icm-setstate.md)
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

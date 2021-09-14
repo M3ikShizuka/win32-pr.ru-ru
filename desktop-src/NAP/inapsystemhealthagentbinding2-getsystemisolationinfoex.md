@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4ac81d00bb953ddf3ab415e90724adcca34b302d8cc268699d8f2a820e0f34ac
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c2643d62afba1a35ebd96b8b39ea2fcf90397576
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118367832"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065113"
 ---
 # <a name="inapsystemhealthagentbinding2getsystemisolationinfoex-method"></a>Метод INapSystemHealthAgentBinding2:: Жетсистемисолатионинфоекс
 
@@ -99,7 +99,7 @@ SHA должен вызвать метод [**Initialize**](inapsystemhealthagen
 |-------------------------------------|-----------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                      |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                                |
-| Header<br/>                   | <dl> <dt>Напсистемхеалсажент. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Напсистемхеалсажент. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>Напсистемхеалсажент. idl</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Qagent.dll</dt> </dl>               |
 

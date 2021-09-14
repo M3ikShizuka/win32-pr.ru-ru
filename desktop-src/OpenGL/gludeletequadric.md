@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ad0c12bd77d3d8b7f7de641671916bb8a901d29d812dfa4e9af6ef116984a128
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9b5ee85e943cd958e394efb191932393d228d948
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119519624"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064951"
 ---
 # <a name="gludeletequadric-function"></a>Функция Глуделетекуадрик
 
@@ -55,7 +55,7 @@ void WINAPI gluDeleteQuadric(
 
 Функция **глуделетекуадрик** уничтожает объект куадрик и освобождает используемую память. После вызова **глуделетекуадрик** *состояние* нельзя использовать снова.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -69,7 +69,7 @@ void WINAPI gluDeleteQuadric(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

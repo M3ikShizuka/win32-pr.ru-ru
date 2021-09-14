@@ -5,11 +5,11 @@ title: 'Взаимодействие между Winlogon и GINA '
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: a60781a51ae2c99df25e30b7119dde086b5d6e1e
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122470141"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064741"
 ---
 # <a name="interaction-between-winlogon-and-gina"></a>Взаимодействие между Winlogon и GINA 
 

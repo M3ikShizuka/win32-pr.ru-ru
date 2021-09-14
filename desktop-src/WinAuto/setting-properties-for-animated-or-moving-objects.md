@@ -4,12 +4,12 @@ description: Для элементов управления "анимация", 
 ms.assetid: 8c5ebbc3-4066-452b-8f37-2fb595adea53
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 72dc4161145f46c6d376f9902d883512de317adc613099a6456634e60fceae16
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1551899305968471bf1425b5cc043be8329c2bd4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119998074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064092"
 ---
 # <a name="setting-properties-for-animated-or-moving-objects"></a>Задание свойств для анимированных или перемещаемых объектов
 

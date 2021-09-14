@@ -4,12 +4,12 @@ ms.assetid: 195ff5bd-bb60-4053-9308-ceacd29853c0
 title: Pktextract.exe
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0e7f2cbb210262a05839ac3a7df71f3bedea603a5ea959249867efc2d5e420e2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bd163efabd01d65969788aefc2386b2f49079729
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119884959"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064801"
 ---
 # <a name="pktextractexe"></a>Pktextract.exe
 
@@ -27,7 +27,7 @@ Pktextract.exe — это средство, которое извлекает а
 
 | Параметр  | Описание                                                          |
 |---------|----------------------------------------------------------------------|
-| -quiet  | Подавляет полный вывод сведений о сертификате. Необязательный элемент.        |
+| -quiet  | Подавляет полный вывод сведений о сертификате. Необязательный параметр.        |
 | -nologo | Выполняется без отображения стандартных данных об авторских правах Майкрософт. Необязательный элемент. |
 
 

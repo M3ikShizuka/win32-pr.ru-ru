@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4425707487994904d1bd2a622cd1ab66f286469c93e80a8eb01e71c0319426ea
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e1a270e36f8254ed5dbfcd9776cf013f9d10d4a1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118939581"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065134"
 ---
 # <a name="inapsohprocessorfindnextattribute-method"></a>Метод Инапсохпроцессор:: Финднекстаттрибуте
 
@@ -110,7 +110,7 @@ HRESULT FindNextAttribute(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: f9789f1d-35bf-40d6-9724-d5a160a0d06d
 title: Таблица мультимедиа
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 29939553e64fb6558aa6480fb69b7beab208a4ccb3e2c9ce55c4d8fcbfc18cc9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5a59cd8bf864aa890891873ed92a39225c6eebdf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117805099"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065372"
 ---
 # <a name="media-table"></a>Таблица мультимедиа
 
@@ -21,12 +21,12 @@ ms.locfileid: "117805099"
 
 | Столбец       | Type                     | Ключ | Допускает значения NULL |
 |--------------|--------------------------|-----|----------|
-| DiskId       | [Integer](integer.md)   | Д   | Нет        |
+| DiskId       | [Integer](integer.md)   | Да   | Нет        |
 | ластсекуенце | [Integer](integer.md)   | Нет   | Нет        |
-| DiskPrompt   | [Text](text.md)         | Нет   | Д        |
-| Файле      | [Файле](cabinet.md)   | Нет   | Д        |
-| VolumeLabel  | [Text](text.md)         | Нет   | Д        |
-| Источник       | [Свойство](property.md) | Нет   | Д        |
+| DiskPrompt   | [Text](text.md)         | Нет   | Да        |
+| Файле      | [Файле](cabinet.md)   | Нет   | Да        |
+| VolumeLabel  | [Text](text.md)         | Нет   | Да        |
+| Источник       | [Свойство](property.md) | Нет   | Да        |
 
 
 

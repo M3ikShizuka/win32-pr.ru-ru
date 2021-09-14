@@ -3,9 +3,9 @@ title: Событие Player. Маркерхит
 description: Событие Маркерхит возникает при достижении маркера. | Событие Player. Маркерхит
 ms.assetid: c97aff61-6f06-4589-a75b-ac2af340cb1d
 keywords:
-- Проигрыватель Windows Media Event Маркерхит
-- Проигрыватель Windows Media Event Маркерхит, класс Player
-- Класс проигрывателя Windows Media Player, событие Маркерхит
+- проигрыватель Windows Media событий маркерхит
+- проигрыватель Windows Media событий маркерхит, класс Player
+- класс проигрывателя проигрыватель Windows Media, событие маркерхит
 topic_type:
 - apiref
 api_name:
@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 7cce6b9ca7c103e9a9e9151a7ff0467a59786b1e
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105685300"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064445"
 ---
 # <a name="playermarkerhit-event"></a>Событие Player. Маркерхит
 
@@ -53,9 +53,9 @@ Player.MarkerHit(
 
 Это событие не возвращает значение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-Значение параметров события указывается проигрывателем Windows Media, доступ к которому можно получить или передать в метод в импортированном файле JScript с использованием имени параметра. Имя этого параметра должно быть введено в точности так, как показано, включая прописные буквы.
+значение параметров события задается проигрыватель Windows Media, и к нему можно получить доступ или передать в метод в импортированном JScriptном файле, используя имя параметра. Имя этого параметра должно быть введено в точности так, как показано, включая прописные буквы.
 
 ## <a name="requirements"></a>Требования
 
@@ -63,7 +63,7 @@ Player.MarkerHit(
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 7,0 или более поздней.<br/>                              |
+| Версия<br/> | проигрыватель Windows Media версии 7,0 или более поздней.<br/>                              |
 | DLL<br/>     | <dl> <dt>Wmp.dll</dt> </dl> |
 
 

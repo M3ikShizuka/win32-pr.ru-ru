@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7fef517c3d22335df6dd5dc5f62adcfd8f35dc3f2f91b08f8041c05770311993
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d18dd0536f508090c46f9fc5a9059c809f50091d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117747353"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064435"
 ---
 # <a name="playermediacollectionmediaadded-event"></a>Событие Player. Медиаколлектионмедиааддед
 

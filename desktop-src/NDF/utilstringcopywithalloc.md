@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3654fa5eefd45a51d963325e10fbcba765420afe25a5c47a058bbaf4e4093ef0
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b68bd1815ff09473f0431dde19a12a87603a9dec
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119801534"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065089"
 ---
 # <a name="utilstringcopywithalloc-function"></a>Функция Утилстрингкопивисаллок
 
@@ -86,7 +86,7 @@ HRESULT UtilStringCopyWithAlloc(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -98,7 +98,7 @@ HRESULT UtilStringCopyWithAlloc(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

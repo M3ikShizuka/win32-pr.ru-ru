@@ -4,12 +4,12 @@ description: Приложения с поддержкой специальных
 ms.assetid: 8b46daed-4fd9-430c-bb4d-24be9c8015b5
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e1c056c9fe2792734e9369fa311e69528ce226f7edf15b82440b63c12c52de66
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6897082db00e27d77d90e5fc72d5f229834ce760
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118327993"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064194"
 ---
 # <a name="32-bit-and-64-bit-interoperability"></a>32-разрядное и 64-разрядное взаимодействие
 

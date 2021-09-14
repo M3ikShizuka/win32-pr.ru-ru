@@ -4,12 +4,12 @@ description: Хотя это и не является предпочтитель
 ms.assetid: faf48049-807c-4155-aa01-1947a0311a71
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f3d92a0c9f0b31392d265c1c60bd201d088af8e8ff0b10ac4e09e274da92d2a2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d129b5a373ed7304c142c66dd0e8b2d4e9035416
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119011212"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064866"
 ---
 # <a name="transport-security"></a>Безопасность транспорта
 

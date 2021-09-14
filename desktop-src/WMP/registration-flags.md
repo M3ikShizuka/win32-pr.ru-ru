@@ -11,12 +11,12 @@ keywords:
 - реестр, подключаемые модули пользовательского интерфейса
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: afbd34ed98236f8a02c936d52b092b82be60b986fb7b16edce1f3b1cbb91d6a1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ac609b45866cd5f18edf61dffc2d3b7ac3c397ac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120002814"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064381"
 ---
 # <a name="registration-flags"></a>Флаги регистрации
 

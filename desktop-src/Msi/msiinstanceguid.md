@@ -4,12 +4,12 @@ ms.assetid: c39be15d-e10a-4055-bd81-aa7510a19fe4
 title: МСИИНСТАНЦЕГУИД, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5f67f3f307eebecc25857411c25471ac3b39a97d48b48d6cc2894636c47f673b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8c798d56cf3ede6a75a133dd7e0ec7f42c32e84f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119679534"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065306"
 ---
 # <a name="msiinstanceguid-property"></a>МСИИНСТАНЦЕГУИД, свойство
 
@@ -17,7 +17,7 @@ ms.locfileid: "119679534"
 
 преобразования экземпляров — это код продукта — изменение доступных преобразований с помощью установщика, работающего на Windows Server 2003 или Windows XP. Дополнительные сведения см. в разделе [Установка нескольких экземпляров продуктов и исправлений](installing-multiple-instances-of-products-and-patches.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

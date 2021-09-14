@@ -13,12 +13,12 @@ keywords:
 - шаблоны элементов управления, сведения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b5a7e8da8be870ad0159a98333ce358efb6efec31966de53bfaad58b21b9cdbc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b6a80fb7d4323f3f0ec51971d5fcbfc09989e634
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118827390"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064020"
 ---
 # <a name="custom-properties-events-and-control-patterns"></a>Пользовательские свойства, события и шаблоны элементов управления
 
@@ -33,7 +33,7 @@ API Microsoft UI Automation определяет предопределенны�
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Общие сведения о свойствах автоматизированного пользовательского интерфейса](uiauto-propertiesoverview.md)

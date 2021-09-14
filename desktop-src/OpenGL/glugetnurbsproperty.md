@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a68e91fbdaafc2a1857a95e059125bf62347777edfbcc764868ceea0a8fce578
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 583da688e3495ebc2eb9d6f71972658c6426469c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119519594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064935"
 ---
 # <a name="glugetnurbsproperty-function"></a>Функция Глужетнурбспроперти
 
@@ -71,7 +71,7 @@ void WINAPI gluGetNurbsProperty(
 
 Используйте **глужетнурбспроперти** для получения свойств, хранящихся в объекте нурбс. Эти свойства влияют на способ отрисовки НУРБС кривых и поверхностей. Дополнительные сведения о свойствах НУРБС см. в разделе [**глунурбспроперти**](glunurbsproperty.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -85,7 +85,7 @@ void WINAPI gluGetNurbsProperty(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

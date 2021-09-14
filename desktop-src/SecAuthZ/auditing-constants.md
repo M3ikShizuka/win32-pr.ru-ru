@@ -4,12 +4,12 @@ ms.assetid: e3b12139-947d-4922-91fd-f9833c069011
 title: Константы аудита (Нтсекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 316dcd969ebba3cf571c7851a6d628617e4a261aea83c26b2524e3edcc0e4b79
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b4134313fe9eab6d487937105535a4417fa9554b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117784312"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064670"
 ---
 # <a name="auditing-constants"></a>Константы аудита
 
@@ -149,7 +149,7 @@ ms.locfileid: "117784312"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Нтсекапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Нтсекапи. h</dt> </dl> |
 
 
 

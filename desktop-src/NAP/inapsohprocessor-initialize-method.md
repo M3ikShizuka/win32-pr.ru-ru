@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c8279af6a58d23de762b077289688f32d07595b38998cf8644ff882ab2a6dcc2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 01ff3a32bb213caf19964ccea8175a43e5016f08
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120037844"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065127"
 ---
 # <a name="inapsohprocessorinitialize-method"></a>Метод Инапсохпроцессор:: Initialize
 
@@ -87,7 +87,7 @@ HRESULT Initialize(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -101,7 +101,7 @@ HRESULT Initialize(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

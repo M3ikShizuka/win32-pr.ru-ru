@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2edc46eb3aa1be6b37c9276bcfd1c2b951162722689b0d0affc358a71119736f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fd28efc96c977e5e0483b4f3d87e9ce840b985cc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118937475"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064930"
 ---
 # <a name="glutessbegincontour-function"></a>Функция Глутессбегинконтаур
 
@@ -55,7 +55,7 @@ void WINAPI gluTessBeginContour(
 
 Функции **глутессбегинконтаур** и [**глутессендполигон**](glutessendpolygon.md) разделяют определение контура многоугольника. Внутри каждой пары **глутессбегинконтаур** / **глутессендполигон** может быть несколько вызовов [**глутессвертекс**](glutessvertex.md). Вершины задают замкнутый контур (последняя вершина каждого контура автоматически связывается с первым). **Глутессбегинконтаур** можно вызывать только между [**глутессбегинполигон**](glutessbeginpolygon.md) и **глутессендполигон**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -69,7 +69,7 @@ void WINAPI gluTessBeginContour(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1c4c2543f99d9bc645fa021d7dc5c94f66369b3c3151647dc4d575aab0a32f62
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2fe5809e50d572cfb8eb7a36220d083ec18a0a76
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118338140"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064461"
 ---
 # <a name="playercurrentplaylistitemavailable-event"></a>Событие Player. Куррентплайлиститемаваилабле
 
@@ -61,7 +61,7 @@ Player.CurrentPlaylistItemAvailable(
 
 **проигрыватель Windows Media 10 Mobile:** Это событие не поддерживается.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -72,7 +72,7 @@ Player.CurrentPlaylistItemAvailable(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

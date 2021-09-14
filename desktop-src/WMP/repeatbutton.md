@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 2a9e72d737ceccfac5046f286c7be095fe40f73c02a5872226aaf19912ec6fe6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8082b13e887c2a8341d72419d1ccf0d95a19a206
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119861454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064369"
 ---
 # <a name="repeatbutton"></a>REPEATBUTTON
 
@@ -36,7 +36,7 @@ sticky="true"
 
 При этом создается элемент управления **"Кнопка"** , который включает и выключает повторы. Всплывающие подсказки локализованы. Все свойства этой **кнопки** можно переопределить, явно указав их.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -46,7 +46,7 @@ sticky="true"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

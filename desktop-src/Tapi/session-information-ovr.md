@@ -4,12 +4,12 @@ ms.assetid: 0d9ba91d-3455-4237-816f-3f0860dbfe5a
 title: Сведения о сеансе
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: de718caa3f7c39db63a259c85e7245a6aeba34f35608a8b4d11e08cf5854a74c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 569a1e9a60b33c81f4a613a57eab0409f0e66840
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119060382"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064529"
 ---
 # <a name="session-information"></a>Сведения о сеансе
 
@@ -21,7 +21,7 @@ ms.locfileid: "119060382"
 
 
 
-| Информация                                                                  | Интерфейс TAPI 2. x                                                                                                                                                                                                                                                                                                                                           | Интерфейс TAPI 3. x                                                                                                                                                                                                                                                              |
+| Сведения                                                                  | Интерфейс TAPI 2. x                                                                                                                                                                                                                                                                                                                                           | Интерфейс TAPI 3. x                                                                                                                                                                                                                                                              |
 |------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Тип адреса для сеанса](address-type-for-a-session-ovr.md)             | [**линежеткаллинфо**](/windows/win32/api/tapi/nf-tapi-linegetcallinfo), **дваддресстипе** член [**линекаллинфо**](/windows/win32/api/tapi/ns-tapi-linecallinfo)                                                                                                                                                                                                                 | [**Иткаллинфо:: Get \_ Каллинфолонг**](/windows/desktop/api/tapi3if/nf-tapi3if-itcallinfo-get_callinfolong), который вызывается с помощью **CIL \_ каллеридаддресстипе**, **CIL \_ калледидаддресстипе** или **CIL \_ коннектедидаддресстипе** [**каллинфо \_ Long**](/windows/desktop/api/Tapi3if/ne-tapi3if-callinfo_long).                               |
 | [Сведения, относящиеся к приложению](application-specific-information-ovr.md) | [**линежеткаллинфо**](/windows/win32/api/tapi/nf-tapi-linegetcallinfo), **дваппспеЦифик** член [**линекаллинфо**](/windows/win32/api/tapi/ns-tapi-linecallinfo)[**линесетаппспеЦифик**](/windows/win32/api/tapi/nf-tapi-linesetappspecific)<br/>                                                                                                                                             | [**Иткаллинфо:: Get \_ Каллинфолонг**](/windows/desktop/api/tapi3if/nf-tapi3if-itcallinfo-get_callinfolong) или [**иткаллинфо::p UT \_ каллинфолонг**](/windows/desktop/api/tapi3if/nf-tapi3if-itcallinfo-put_callinfolong), который вызывается с помощью члена **CIL \_** в [**каллинфо \_ Long**](/windows/desktop/api/Tapi3if/ne-tapi3if-callinfo_long).                                 |

@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d12e7ca8099197b663893b1edcf04dd8fa98348fe4f6d3d324b54f33904e026a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 482f32b227dbcf0c2a62405e344aa719bb4b9e17
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119554244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064931"
 ---
 # <a name="glugettessproperty-function"></a>Функция Глужеттесспроперти
 
@@ -71,7 +71,7 @@ void WINAPI gluGetTessProperty(
 
 Используйте **глужеттесспроперти** для извлечения свойств, хранящихся в объекте тесселяции. Эти свойства влияют на способ интерпретации и отрисовки объектов тесселяции. Сведения о свойствах и их возможностях см. в разделе [**глутесспроперти**](glutessproperty.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -85,7 +85,7 @@ void WINAPI gluGetTessProperty(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

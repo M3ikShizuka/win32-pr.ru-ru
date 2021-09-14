@@ -10,12 +10,12 @@ keywords:
 - подключаемые модули DSP видео, форматирование согласования
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 90154f3fe7824fb9af563cb662fdcb2847339bc6061d79b3e92cab9c6e36e44d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c287a38fbfcf11f1b9d74087a91c5825b22f1243
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119761824"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064286"
 ---
 # <a name="video-format-negotiation-in-the-sample-video-dsp-plug-in"></a>Согласование формата видео в примере подключаемого модуля DSP видео
 

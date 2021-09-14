@@ -29,12 +29,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 18248e862c3d5981e9c34b29522b1cd75d2b61cf78a52613b3d28a1d2c98b4fb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cd283c2dfeddc48b6bd12f8317ec352cb62e4973
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119661974"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064575"
 ---
 # <a name="stgm-constants"></a>Константы СТГМ
 
@@ -48,9 +48,9 @@ ms.locfileid: "119661974"
 
 
 
-| Группа                      | Флаг                         | Значение       |
+| Group                      | Флаг                         | Значение       |
 |----------------------------|------------------------------|-------------|
-| Доступ                     | **СТГМ \_ чтение**               | 0x00000000 |
+| Access                     | **СТГМ \_ чтение**               | 0x00000000 |
 |                            | **СТГМ \_ запись**              | 0x00000001L |
 |                            | **СТГМ \_ ReadWrite**          | 0x00000002L |
 | Совместное использование                    | **СТГМ \_ Share \_ Deny \_ None**  | 0x00000040L |
@@ -395,7 +395,7 @@ ms.locfileid: "119661974"
 
 Имейте в виду, что если элемент хранения изменяется объектом хранилища, который не находится в простом режиме, невозможно снова открыть этот элемент хранилища в простом режиме.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -407,7 +407,7 @@ ms.locfileid: "119661974"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

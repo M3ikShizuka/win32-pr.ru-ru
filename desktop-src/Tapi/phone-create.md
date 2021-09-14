@@ -4,12 +4,12 @@ ms.assetid: 62895b10-76ce-456e-ad02-e2b7764616a8
 title: Сообщение PHONE_CREATE (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 18633ca9f3d45e08c3e2e054d51261dabe6494f42055567a5a68707408f94d5c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c92dfaad5d4007279f18890021f5cb39c22c4da9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120072914"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064561"
 ---
 # <a name="phone_create-message"></a>\_Сообщение о создании телефона
 
@@ -71,7 +71,7 @@ ms.locfileid: "120072914"
 
 Приложения, поддерживающие TAPI версии 1,4 или более поздней, отправляют сообщение о **\_ создании телефона** . Это информирует их о существовании нового устройства и нового идентификатора устройства. Затем приложение может выбрать, следует ли попытаться работать с новым устройством в свободное время.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -82,7 +82,7 @@ ms.locfileid: "120072914"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

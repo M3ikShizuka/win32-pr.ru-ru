@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Ndisnpp.dll
 - Rmtnpp.dll
-ms.openlocfilehash: 8e76bad23d79e261a27df5b83a94d4e477b21cde5057bb2587ffb49c93382df0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 030fafb4ccf041c2804179f8adf0088ca3fba845
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119890344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065008"
 ---
 # <a name="istatsgetconversationstatistics-method"></a>Метод Истатс:: Жетконверсатионстатистикс
 
@@ -104,7 +104,7 @@ HRESULT STDMETHODCALLTYPE GetConversationStatistics(
 
 Чтобы начать запись, вызовите метод [**истатс:: Start**](istats-start.md) . Чтобы получить другие типы статистики, вызовите метод [**истатс:: жеттоталстатистикс**](istats-gettotalstatistics.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -117,7 +117,7 @@ HRESULT STDMETHODCALLTYPE GetConversationStatistics(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

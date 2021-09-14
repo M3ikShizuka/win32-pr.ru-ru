@@ -4,12 +4,12 @@ description: Встроенные специальные возможности 
 ms.assetid: cb2a6e26-9698-4917-8799-71fb1be91072
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 63a129baf6b3117c3504a11ea5ff026d8dd3b7db08e91bda276f2e2038674c5c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 98db87a5c9e54ce0baa74e97e648a82dd4a18e26
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119645100"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064171"
 ---
 # <a name="built-in-accessibility-features"></a>Встроенные специальные возможности
 

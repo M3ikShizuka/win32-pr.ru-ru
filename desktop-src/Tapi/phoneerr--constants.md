@@ -4,12 +4,12 @@ ms.assetid: 763a9dc2-3e70-4169-a66e-3aac78ef8d33
 title: Константы PHONEERR_ (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b66c4dd2078b7de1572137ee1d759e7b186328dc5604c9790e444db428eb774a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6b41ba5d14f4aa12318dd4bc9f2b20e4e9e2e6b4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119060662"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064532"
 ---
 # <a name="phoneerr_-constants"></a>\_Константы фонирр
 
@@ -373,7 +373,7 @@ ms.locfileid: "119060662"
 
 Если приложение получает сообщение об ошибке, возвращающее, что оно не обрабатывается специально (например, сообщение об ошибке, определенное расширением конкретного устройства), оно должно рассматривать ошибку как ФОНИРР \_ оператионфаилед (по неизвестной причине).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -384,7 +384,7 @@ ms.locfileid: "119060662"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

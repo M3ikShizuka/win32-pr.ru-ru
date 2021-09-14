@@ -3,23 +3,23 @@ title: Получение состояния записи
 description: Получение состояния записи
 ms.assetid: 63b6525d-00be-4c68-8473-3bc1a58fde15
 keywords:
-- Проигрыватель Windows Media, запись компакт-дисков
-- Объектная модель проигрывателя Windows Media, запись компакт-дисков
+- проигрыватель Windows Media, запись компакт-дисков
+- проигрыватель Windows Media объектной модели, запись компакт-диска
 - Объектная модель, запись компакт-диска
-- Элемент управления ActiveX проигрывателя Windows Media, запись компакт-дисков
-- Элемент управления ActiveX, запись компакт-дисков
-- Мобильный элемент управления ActiveX проигрывателя Windows Media, запись компакт-дисков
-- Проигрыватель Windows Media Mobile, запись компакт-дисков
+- проигрыватель Windows Media ActiveX управления, запись компакт-дисков
+- ActiveX управления, запись компакт-дисков
+- проигрыватель Windows Media мобильный ActiveX элемент управления, запись компакт-дисков
+- проигрыватель Windows Media Мобильные устройства, запись компакт-дисков
 - Запись компакт-диска, получение состояния записи
 - запись компакт-дисков, получение состояния записи
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 8e9b9ab1d865b728c3a23b9b77f45ab022226605
-ms.sourcegitcommit: 48d1c892045445bcbd0f22bafa2fd3861ffaa6e7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/19/2020
-ms.locfileid: "103987211"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064358"
 ---
 # <a name="retrieving-the-burn-status"></a>Получение состояния записи
 
@@ -38,7 +38,7 @@ ms.locfileid: "103987211"
 
 
 
- 
+ 
 
 Ход выполнения операции записи можно отслеживать, периодически вызывая [ивмпкдромбурн:: Get \_ бурнпрогресс](/previous-versions/windows/desktop/api/wmp/nf-wmp-iwmpcdromburn-get_burnprogress) , пока выполняется запись компакт-диска. Этот метод получает значение хода выполнения для всей операции записи. Полученное значение является числом, представляющим процент выполненной записи от 0 до 100.
 
@@ -188,7 +188,7 @@ if (SUCCEEDED(hr))
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -207,9 +207,9 @@ if (SUCCEEDED(hr))
 [**Получение состояния диска и диска**](retrieving-the-drive-and-disc-status.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

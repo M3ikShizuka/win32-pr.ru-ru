@@ -14,12 +14,12 @@ keywords:
 - шаблоны элементов управления, Дроптаржет
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1eab48f4319c51a5ccbbaadae22f1ae337740df5b6d0fdf325a01ba1323f8630
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4194613d15aadac4a925303ef2322d4cf53c341c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119133567"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064048"
 ---
 # <a name="ui-automation-support-for-drag-and-drop"></a>Поддержка модели автоматизации пользовательского интерфейса для перетаскивания
 

@@ -4,12 +4,12 @@ ms.assetid: c5ada690-c5dd-455f-babe-8c09750525c4
 title: МСИДИСАБЛИЕУИ, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fb1e599ed0786c7d2c55644eb5759db3917757d3b41f6107161d72a3cc559484
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 0d89ce43f649d406e4ae086db236375c02c43e2d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120039954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065330"
 ---
 # <a name="msidisableeeui-property"></a>МСИДИСАБЛИЕУИ, свойство
 
@@ -23,7 +23,7 @@ ms.locfileid: "120039954"
 
 Свойство МСИДИСАБЛИЕУИ отключает внедренный пользовательский интерфейс для одного пакета. Вы можете использовать политику [мсидисаблимбеддедуи](msidisableembeddedui.md) , чтобы отключить встроенные пользовательские интерфейсы для всех пакетов на компьютере.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

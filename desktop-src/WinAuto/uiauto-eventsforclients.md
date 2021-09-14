@@ -17,12 +17,12 @@ keywords:
 - Примеры
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4a0e8dd4cb2d810ad8423c1fa4f75020a9489ceb72acbe1483cb439e943b5676
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5d9a89df1b9d2afc401e07b6cd77d1307d912f11
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119505304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127063987"
 ---
 # <a name="subscribing-to-ui-automation-events"></a>Подписка на события модели автоматизации пользовательского интерфейса
 
@@ -104,7 +104,7 @@ ms.locfileid: "119505304"
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Обзор событий автоматизации пользовательского интерфейса](uiauto-eventsoverview.md)

@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 51b3b1dd666fd965e7b6536a20a794481c534ed3e42594017093ee161a067e15
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 546bbad2be1205f62c7889fbb18f23d5b0e38b8a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119488424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064917"
 ---
 # <a name="glutessvertex-function"></a>Функция Глутессвертекс
 
@@ -73,7 +73,7 @@ void WINAPI gluTessVertex(
 
 Параметр *данных* обычно указывает на структуру, содержащую расположение вершины, а также на другие атрибуты для каждой вершины, такие как цвет и обычный. Этот указатель передается обратно в программу через \_ обратный вызов вершины Glu после тесселяции (см. [*глутесскаллбакк*](glutess.md)).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -87,7 +87,7 @@ void WINAPI gluTessVertex(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

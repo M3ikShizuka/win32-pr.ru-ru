@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 2c0adab32e9b514ac9c90f1f54bde4b7dc3f1f8f12fbc590f16a6f48d766a167
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d21f7bafc10b7669ee446247871e110a1ca99336
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119652074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064475"
 ---
 # <a name="opcodes-metadatatype-element"></a>opcode, элемент (Метадататипе)
 
@@ -32,7 +32,7 @@ ms.locfileid: "119652074"
 
 Элемент **кодов операций** определяется сложным типом [**метадататипе**](eventmanifestschema-metadatatype-complextype.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ ms.locfileid: "119652074"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
