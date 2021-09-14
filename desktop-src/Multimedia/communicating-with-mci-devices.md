@@ -8,11 +8,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 8f7f5458cff0ef4c5c5f84e565fae06ade8796c4
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124372096"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057509"
 ---
 # <a name="communicating-with-mci-devices"></a>Взаимодействие с устройствами MCI
 

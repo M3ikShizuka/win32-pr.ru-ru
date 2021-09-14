@@ -4,12 +4,12 @@ ms.assetid: 22ffdb77-9266-42e5-be41-fc7457141bba
 title: Свойство MFPKEY_DELTAMVRANGEINDEX (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b7a21ac1a0bdaf859c93bca800d72f5e9ed155919bb07a24f5287b2436e57f94
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c72d923659e64c9a0dcab40811e31d7752924700
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120113344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257608"
 ---
 # <a name="mfpkey_deltamvrangeindex-property"></a>МФПКЭЙ \_ делтамвранжеиндекс, свойство
 
@@ -27,7 +27,7 @@ VT \_ I4
 
 0
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если это свойство задано, кодировщик увеличивает диапазон разностных векторов движения в полях. Сведения о векторе движения допустимы только для полей с чередованием.
 
@@ -35,7 +35,7 @@ VT \_ I4
 
 
 
-| Значение | Описание                                                                          |
+| Значение | Описание:                                                                          |
 |-------|--------------------------------------------------------------------------------------|
 | 0     | Использовать существующий диапазон разностных векторов движения.                                          |
 | 1     | Дважды диапазон разностного вектора движения в горизонтальном направлении.                    |
@@ -46,7 +46,7 @@ VT \_ I4
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -58,7 +58,7 @@ VT \_ I4
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

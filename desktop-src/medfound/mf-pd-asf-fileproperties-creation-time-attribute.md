@@ -4,12 +4,12 @@ ms.assetid: 97f80584-9d74-4ba5-80f4-ddb6f2bc4625
 title: Атрибут MF_PD_ASF_FILEPROPERTIES_CREATION_TIME (Вмконтаинер. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d1a015e251e04c706e2d36b7ab85cac4e8038ad2083c9e0089fbe847d835227a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c0f48f251f5ff9c7332de0e355c58782ed98fad0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119104360"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257803"
 ---
 # <a name="mf_pd_asf_fileproperties_creation_time-attribute"></a>\_ \_ \_ \_ Атрибут времени создания MF PD ASF филепропертиес \_
 
@@ -19,7 +19,7 @@ ms.locfileid: "119104360"
 
 массив байтов;
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут применяется к дескрипторам представления для содержимого ASF. значением атрибута является структура **FILETIME** , которая описана в Windows SDK.
 
@@ -33,7 +33,7 @@ ms.locfileid: "119104360"
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                     |
-| Header<br/>                   | <dl> <dt>Вмконтаинер. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Вмконтаинер. h</dt> </dl> |
 
 
 

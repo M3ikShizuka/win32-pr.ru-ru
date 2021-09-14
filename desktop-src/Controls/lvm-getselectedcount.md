@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 33b85b83e8df1e29eedcfa5c9b5aac38d962d0787a497c03a901de943f5cbc91
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b23f0e8d1d87e2cc7dd60d32ac3dd4943611a36f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120062444"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972089"
 ---
 # <a name="lvm_getselectedcount-message"></a>\_Сообщение LVM жетселектедкаунт
 

@@ -5,11 +5,11 @@ title: Атрибут MF_MT_MAX_MASTERING_LUMINANCE (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 0e0d3e362efc371783c3faf2ed431c3652474722
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105665437"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257864"
 ---
 # <a name="mf_mt_max_mastering_luminance-attribute"></a>\_ \_ \_ \_ Атрибут освещенности для максимального размера MF MT
 
@@ -25,7 +25,7 @@ ms.locfileid: "105665437"
 
 | Требование | Значение |
 |-------------------|------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Мфапи. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Мфапи. h</dt> </dl> |
 
 
 

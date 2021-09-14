@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f6dda8deec60b1b2427f046f50ca843f68272ed26cb71470674137491ac2db1f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 34158d6f22710b1c9e87946624cbd0f1a00c53bb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117748851"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241000"
 ---
 # <a name="equalizersettingsenablesplinetension"></a>ЕКУАЛИЗЕРСЕТТИНГС. Енаблесплинетенсион
 
@@ -31,7 +31,7 @@ ms.locfileid: "117748851"
 
 Этот атрибут представляет собой **логическое** значение для чтения и записи со значением по умолчанию true.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Включение натяжения сплайна позволяет пользователю более плавно настраивать пропускную способность эквалайзера, чтобы между уровнями частоты не было больших переходов.
 

@@ -4,12 +4,12 @@ ms.assetid: 3b32eeaf-e605-4d8f-a63a-51cde818aa5e
 title: System. Message. Тодотитле
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1e2910ce75ca6036959d3c7be20df86959787d7713bd0f80ddfadacd3af202b8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d8cb1af3ec18b36242d94e0337deda691d4431c3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118724539"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257149"
 ---
 # <a name="systemmessagetodotitle"></a>System. Message. Тодотитле
 
@@ -28,7 +28,7 @@ propertyDescription
       type = String
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значения PKEY определены в списке PKEY. h.
 

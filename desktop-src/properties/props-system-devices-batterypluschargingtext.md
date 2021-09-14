@@ -1,17 +1,17 @@
 ---
 description: Оставшийся срок работы аккумулятора устройства и состояние зарядки устройства в виде строки.
 ms.assetid: b0a0600f-db2f-4220-8cd9-d5e71880b267
-title: System.Devices.BatТериплусчаргингтекст
+title: System. Devices. Баттериплусчаргингтекст
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 60f569426a248444327690bd11727f0ce9c0f1ee
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104264566"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257224"
 ---
-# <a name="systemdevicesbatterypluschargingtext"></a>System.Devices.BatТериплусчаргингтекст
+# <a name="systemdevicesbatterypluschargingtext"></a>System. Devices. Баттериплусчаргингтекст
 
 Оставшийся срок работы аккумулятора устройства и состояние зарядки устройства в виде строки.
 
@@ -34,7 +34,7 @@ propertyDescription
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

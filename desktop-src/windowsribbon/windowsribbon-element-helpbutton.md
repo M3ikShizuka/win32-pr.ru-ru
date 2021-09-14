@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: f138b615b0ae4a4e7a163364938808d945b60eb5
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122623500"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256441"
 ---
 # <a name="helpbutton-element"></a>Хелпбуттон, элемент
 
@@ -77,9 +77,9 @@ ms.locfileid: "122623500"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
-Необязательный элемент.
+Необязательный параметр.
 
 Может встречаться не более одного раза для каждой [**ленты. хелпбуттон**](windowsribbon-element-ribbon-helpbutton.md).
 
@@ -118,7 +118,7 @@ ms.locfileid: "122623500"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

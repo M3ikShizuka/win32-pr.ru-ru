@@ -4,12 +4,12 @@ description: справочная документация по элемента
 ms.assetid: 417bdf54-c241-4eda-a97b-82a6f0d74019
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f53b21d38698b6b0903c1db81459152fa961dbf1ca9f53440477e3e235ae322d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b6d51f2446102cc01a8f2bad92c57fc0a5613ef5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120056404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256426"
 ---
 # <a name="controls-windows-ribbon-framework"></a>элементы управления (платформа ленты Windows)
 
@@ -21,7 +21,7 @@ ms.locfileid: "120056404"
 |----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**аппликатионмену**](windowsribbon-element-applicationmenu.md)                                               | Представляет [меню приложения](windowsribbon-controls-applicationmenu.md).<br/>                                                                                                                                                                    |
 | [**Аппликатионмену. Рецентитемс**](windowsribbon-element-applicationmenu-recentitems.md)                       | Представляет контейнер для элемента управления " [недавние элементы](windowsribbon-controls-recentitems.md) " в [меню "приложение](windowsribbon-controls-applicationmenu.md)".<br/>                                                                              |
-| [**Кнопка**](windowsribbon-element-button.md)                                                                 | Представляет элемент управления ["Кнопка"](windowsribbon-controls-button.md) .<br/>                                                                                                                                                                                 |
+| [**Переключатель**](windowsribbon-element-button.md)                                                                 | Представляет элемент управления ["Кнопка"](windowsribbon-controls-button.md) .<br/>                                                                                                                                                                                 |
 | [**Установка**](windowsribbon-element-checkbox.md)                                                             | Представляет элемент управления ["флажок"](windowsribbon-controls-checkbox.md) .<br/>                                                                                                                                                                            |
 | [**ComboBox**](windowsribbon-element-combobox.md)                                                             | Представляет элемент управления["поле со списком"](windowsribbon-controls-combobox.md).<br/>                                                                                                                                                                              |
 | [**контекстмап**](windowsribbon-element-contextmap.md)                                                         | Представляет сопоставление [**ContextMenu**](windowsribbon-element-contextmenu.md) и [**минитулбар**](windowsribbon-element-minitoolbar.md) пары.<br/>                                                                                                  |

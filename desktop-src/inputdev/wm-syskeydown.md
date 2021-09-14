@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 30b1398d843711e868a6b5b96cf6a66893bf74fef1e50bfdd61fa36f81f05c13
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b3053c5933a0388e3c8522b0d7201b491aaa4fa2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119611324"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258040"
 ---
 # <a name="wm_syskeydown-message"></a>\_Сообщение СИСКЭЙДОВН WM
 
@@ -68,7 +68,7 @@ ms.locfileid: "119611324"
 
 Приложение должно вернуть нуль, если оно обрабатывает это сообщение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция [**дефвиндовпрок**](/windows/desktop/api/winuser/nf-winuser-defwindowproca) проверяет указанный ключ и создает сообщение [**WM \_ сискомманд**](/windows/desktop/menurc/wm-syscommand) , если ключ является либо TAB, либо Enter.
 
@@ -80,7 +80,7 @@ ms.locfileid: "119611324"
 
 Это сообщение также отправляется каждый раз, когда пользователь нажимает клавишу F10 без клавиши ALT.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -92,7 +92,7 @@ ms.locfileid: "119611324"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -111,7 +111,7 @@ ms.locfileid: "119611324"
 [**WM \_ сискэйуп**](wm-syskeyup.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с клавиатуры](keyboard-input.md)

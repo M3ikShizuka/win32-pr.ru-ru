@@ -5,11 +5,11 @@ title: System. Contact. Дисплайхомефоненумберс
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: ecb92d9b95a493a342c48d0f1671ae5502f8c6ab
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108102432"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257403"
 ---
 # <a name="systemcontactdisplayhomephonenumbers"></a>System. Contact. Дисплайхомефоненумберс
 
@@ -28,11 +28,11 @@ propertyDescription
       type = Multivalue String
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

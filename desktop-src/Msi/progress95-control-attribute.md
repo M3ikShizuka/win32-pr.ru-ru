@@ -4,12 +4,12 @@ ms.assetid: b2c43763-799c-4f09-b9f8-47a4a5f4faf3
 title: Атрибут элемента управления Progress95
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5a0e6fa8f2c0cd0e1622db4bb406d3ada1b63229e92b60a35e915bf0dacc72fe
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: df2242dde671484274be946802ba4fd4c1cfd687
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118627354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057711"
 ---
 # <a name="progress95-control-attribute"></a>Атрибут элемента управления Progress95
 
@@ -31,7 +31,7 @@ ms.locfileid: "118627354"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы задать этот атрибут для элемента управления, включите бит Progress95 в столбец Attributes записи элемента управления в [таблице Control](control-table.md).
 

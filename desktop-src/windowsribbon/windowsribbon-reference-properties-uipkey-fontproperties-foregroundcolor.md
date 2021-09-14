@@ -4,12 +4,12 @@ description: Определяет свойство UI \_ PKEY \_ фонтпро�
 ms.assetid: 28b617a3-2203-465f-b2e6-9406660cee5c
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 65f326fda70258669e29d4ccf4fcacb29f86c35be54165113c30221162cc6589
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5c5f86744dbdf60279d43cc183efea88d657dfa3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117850325"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256417"
 ---
 # <a name="ui_pkey_fontproperties_foregroundcolor"></a>UI \_ PKEY \_ фонтпропертиес \_ ForegroundColor
 
@@ -25,7 +25,7 @@ propertyDescription
       type = COLORREF
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 UI \_ PKEY \_ фонтпропертиес \_ ForegroundColor используется приложением в сочетании с [UI \_ PKEY \_ фонтпропертиес \_ фореграундколортипе](windowsribbon-reference-properties-uipkey-fontproperties-foregroundcolortype.md)для запроса параметров коллекции **цветов текста** .
 

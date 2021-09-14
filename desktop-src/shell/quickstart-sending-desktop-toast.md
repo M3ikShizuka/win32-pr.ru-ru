@@ -9,12 +9,12 @@ api_type: ''
 api_location: ''
 topic_type:
 - kbSyntax
-ms.openlocfilehash: 79f8f65b18fd6774f318541b15d1649b7c25526f46bf3ab57f02edc4788687c9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 36f9da25c20d99da74be30046fc5f9f4789dfd73
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117858658"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256918"
 ---
 # <a name="quickstart-sending-a-toast-notification-from-the-desktop"></a>Краткое руководство. отправка всплывающего уведомления с рабочего стола
 
@@ -28,7 +28,7 @@ ms.locfileid: "117858658"
 -   На начальном экране должен быть установлен ярлык приложения с [System.AppUserModel.ID](../properties/props-system-appusermodel-id.md). Однако обратите внимание, что его не нужно закреплять на начальном экране. Дополнительные сведения см. [в статье Включение всплывающих уведомлений на рабочем столе с помощью AppUserModelID](enable-desktop-toast-with-appusermodelid.md).
 -   версия Microsoft Visual Studio, поддерживающая по меньшей мере Windows 8
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="1-create-your-toast-content"></a>1. Создание содержимого всплывающего уведомления
 

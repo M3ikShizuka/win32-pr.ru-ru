@@ -4,12 +4,12 @@ ms.assetid: 6ccaf2eb-acec-4dfd-9ec7-c78aca043900
 title: Событие InkEdit. MouseMove (с. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 601bcaa4c5bc3379c207302c28e5eb17d44b2b184ce42452d5b78b6079d88ead
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2a0d3e98827a1f0ebcdc80f5d44765ebe768f65e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119939114"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256693"
 ---
 # <a name="inkeditmousemove-event"></a>Событие InkEdit. MouseMove
 
@@ -33,7 +33,7 @@ HRESULT MouseMove(
 
 <dl> <dt>
 
-*Кнопка* 
+*Button* 
 </dt> <dd>
 
 Элемент перечисления [**маусебуттон**](/windows/desktop/api/inked/ne-inked-mousebutton) , указывающий, какие кнопки мыши должны быть нажаты.
@@ -90,7 +90,7 @@ HRESULT MouseMove(
 
 Если это событие завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При нажатии кнопки мыши в тот момент, когда указатель наведен на элемент управления [InkEdit](inkedit-control-reference.md) , этот элемент управления захватывает мышь и получает все события мыши вплоть до последнего события [**MouseUp**](inkedit-mouseup.md) . Это означает, что координаты указателя мыши (x, y), возвращаемые событием мыши, могут не всегда находиться во внутренней области объекта, получающего их.
 
@@ -100,7 +100,7 @@ HRESULT MouseMove(
 
 Этот метод события определен в интерфейсе **\_ иинкедитевентс** . Интерфейс **\_ иинкедитевентс** реализует интерфейс [**IDISPATCH**](/windows/win32/api/oaidl/nn-oaidl-idispatch) с идентификатором DISPID \_ иимаусемове.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -113,7 +113,7 @@ HRESULT MouseMove(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

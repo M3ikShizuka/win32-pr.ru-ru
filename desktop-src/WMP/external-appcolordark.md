@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 543692bf2b4bc41dd02e62f7d82ff3d0c2f9d4e8c6d0ebab50fcba7146dfab68
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f2155e7ca133840cf5d6159ed30051c83cf71bed
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119649754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127240961"
 ---
 # <a name="externalappcolordark"></a>External. Аппколордарк
 
@@ -39,11 +39,11 @@ window.external.appColorDark
 
 Это свойство является **строкой**, доступная только для чтения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 пользователи могут изменять цвет пользовательского интерфейса проигрыватель Windows Media. Это свойство можно использовать для настройки внешнего вида размещенной веб-страницы в соответствии с проигрывателем.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -54,7 +54,7 @@ window.external.appColorDark
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

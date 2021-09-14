@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 683b8eb5beb9946db7f37d4db53a84c96d5bff7fc91fa4864020fffde5554824
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 612dcd638939b34803b7296babf7445a07cdad22
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119567084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971677"
 ---
 # <a name="cenumpinsnext-method"></a>Ценумпинс. Next, метод
 
@@ -83,7 +83,7 @@ HRESULT Next(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод извлекает указатели на указанное число ПИН-кодов, начиная с текущей позиции в перечислении и помещает их в указанный массив.
 
@@ -91,7 +91,7 @@ HRESULT Next(
 
 Если метод выполнен успешно, то все указатели **Ипин** имеют необработанные счетчики ссылок. Не забудьте освободить их по завершении.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -102,7 +102,7 @@ HRESULT Next(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

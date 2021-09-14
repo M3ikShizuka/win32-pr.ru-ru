@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 47b0c900257af5c9cda7b0a0bb21040b47b49792293033d89c82284e479fb182
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8c60cef0e79238a07d5ba46c5ea097f6fd9d683c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117749226"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241030"
 ---
 # <a name="effectseffecthaspropertypage"></a>EFFECTs. Еффексаспропертипаже
 

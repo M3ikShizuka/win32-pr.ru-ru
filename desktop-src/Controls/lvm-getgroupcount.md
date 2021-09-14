@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 02933e0e78eda7c70420b398232f34d5200012800549679238ea23d374532af5
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5e3098ea24326cd5347a26b4bba02478563eb6f6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119877424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972110"
 ---
 # <a name="lvm_getgroupcount-message"></a>\_Сообщение LVM жетграупкаунт
 
@@ -47,7 +47,7 @@ ms.locfileid: "119877424"
 
 Возвращает число групп.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

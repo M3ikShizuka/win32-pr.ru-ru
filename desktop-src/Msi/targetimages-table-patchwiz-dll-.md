@@ -4,12 +4,12 @@ ms.assetid: 4681715e-9918-4d7b-8f33-1cca2bb34eb7
 title: Таблица Таржетимажес (Patchwiz.dll)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ec35a9090f89e93e807cda9429ae48d8cc28d175acc4c83e97150e3a98ce5fb3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4bbb8e7bae92fbc25b217808aaae709f079d65dd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119893594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057573"
 ---
 # <a name="targetimages-table-patchwizdll"></a>Таблица Таржетимажес (Patchwiz.dll)
 
@@ -23,12 +23,12 @@ ms.locfileid: "119893594"
 
 | Столбец                | Type    | Ключ | Допускает значения NULL |
 |-----------------------|---------|-----|----------|
-| Целевой объект                | text    | Д   | Нет        |
+| Назначение                | text    | Да   | Нет        |
 | мсипас               | text    |     | Нет        |
-| симболпасс           | text    |     | Д        |
+| симболпасс           | text    |     | Да        |
 | Обновлено              | text    |     | Нет        |
-| Номер                 | Целое число |     | Нет        |
-| продуктвалидатефлагс  | text    |     | Д        |
+| Порядок                 | Целое число |     | Нет        |
+| продуктвалидатефлагс  | text    |     | Да        |
 | игноремиссингсркфилес | Целое число |     | Нет        |
 
 
@@ -93,7 +93,7 @@ ms.locfileid: "119893594"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта таблица принимает переменные среды в виде путей, начинающихся с Patchwiz.dll версии 4,0.
 

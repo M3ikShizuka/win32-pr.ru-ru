@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 0809230d5f0ecc9ae3d92932e3197cfc2629f1204c17b287837d830f12c70ba3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fad36eb0cddf7d54bbdd72786d0c43435ddc164d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119969154"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242230"
 ---
 # <a name="esentupdatemustversionexception-class"></a>Класс Есентупдатемустверсионексцептион
 
@@ -70,7 +70,7 @@ public sealed class EsentUpdateMustVersionException : EsentUsageException
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Элементы Есентупдатемустверсионексцептион](./esentupdatemustversionexception-members.md)
 

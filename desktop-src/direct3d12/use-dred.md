@@ -6,11 +6,11 @@ ms.localizationpriority: high
 ms.topic: article
 ms.date: 04/19/2019
 ms.openlocfilehash: 795ecaf464728388c33f55655ff81d29068956ca
-ms.sourcegitcommit: 9942a888f172981e276def0c6b84fb0266fcb02d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "123399810"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127240874"
 ---
 # <a name="use-dred-to-diagnose-gpu-faults"></a>Использование DRED для диагностики ошибок GPU
 НАПРАВЛЯТЬ означает, что устройство удалило Расширенные данные. НАПРАВЛЯТЬ — это развивающийся набор функций диагностики, позволяющий определить причину непредвиденных ошибок при удалении устройства. На оборудовании, которое поддерживает необходимые функции (как определено ниже), НАПРАВЛЯТЬ предоставляет автоматические панели навигации, а также отчеты о сбоях страниц GPU.

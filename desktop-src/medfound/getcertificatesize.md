@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - gdi32.dll
-ms.openlocfilehash: fb649dd4330590c6a7192bdefce4e1101c19642d8299a68ec4373331fc0be4b0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bcd1f49ce65978c6a89c89cee1fda38e41434065
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118063567"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257920"
 ---
 # <a name="getcertificatesize-function"></a>Функция Жетцертификатесизе
 
@@ -71,7 +71,7 @@ NTSTATUS WINAPI GetCertificateSize(
 
 Если метод завершается успешно, возвращается **состояние \_ Success**. В противном случае возвращается код ошибки **NTSTATUS** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Приложения должны вызывать метод [**иопмвидеуутпут:: стартинитиализатион**](/windows/desktop/api/opmapi/nf-opmapi-iopmvideooutput-startinitialization) вместо этой функции.
 
@@ -89,7 +89,7 @@ NTSTATUS WINAPI GetCertificateSize(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

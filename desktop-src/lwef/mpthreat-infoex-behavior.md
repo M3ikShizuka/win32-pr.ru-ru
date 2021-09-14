@@ -4,7 +4,7 @@ description: Содержит сведения, относящиеся к изм
 ms.assetid: 762E755F-5BA1-476D-B395-6617093309C5
 keywords:
 - MPTHREAT_INFOEX_BEHAVIOR структуры устаревшие функции среды Windows
-- Функции PMPTHREAT_INFOEX_BEHAVIOR указателя структур в устаревшей среде Windows
+- функции PMPTHREAT_INFOEX_BEHAVIOR Windows указателя структур в устаревшей среде
 topic_type:
 - apiref
 api_name:
@@ -16,11 +16,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 4cb0bc00aeb56aec38b88f2590211c705079834f
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103803532"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257984"
 ---
 # <a name="mpthreat_infoex_behavior-structure"></a>\_ \_ Структура поведения инфоекс мпсреат
 
@@ -45,7 +45,7 @@ typedef struct tagMPTHREAT_INFOEX_BEHAVIOR {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -154,9 +154,9 @@ typedef struct tagMPTHREAT_INFOEX_BEHAVIOR {
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 8\]<br/>                                            |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2012\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Мпклиент. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                            |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Мпклиент. h</dt> </dl> |
 
 
 

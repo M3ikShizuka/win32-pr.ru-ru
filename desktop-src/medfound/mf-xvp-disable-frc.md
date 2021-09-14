@@ -4,12 +4,12 @@ ms.assetid: 98AA7B3A-281C-427D-805E-5C4EE1EFAE21
 title: Атрибут MF_XVP_DISABLE_FRC (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d5e82c60438a91111ffce6cc80c71fa76231b8e00d85644f4f56f1b496202d62
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 1922705514c51308138f9f301a3681e598ca6278
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119940334"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257739"
 ---
 # <a name="mf_xvp_disable_frc-attribute"></a>MF \_ ксвп \_ Отключить \_ атрибут ФРК
 
@@ -19,7 +19,7 @@ ms.locfileid: "119940334"
 
 **Bool** , сохраненный как **UINT32**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если этот атрибут имеет **значение true**, обработчик видео не будет выполнять преобразование кадров. По умолчанию обработчик видео преобразует частоту кадров в соответствии с выходным типом носителя.
 
@@ -30,7 +30,7 @@ ms.locfileid: "119940334"
 
 Задайте атрибут перед началом потоковой передачи.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -42,7 +42,7 @@ ms.locfileid: "119940334"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

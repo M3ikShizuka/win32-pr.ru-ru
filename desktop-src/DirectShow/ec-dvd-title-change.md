@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - dvdevcode.h
-ms.openlocfilehash: 667d8f11270865f1caa4549377db2cccb278053ea9848b71aa38f0d5f7528689
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9539d29704797b1c7b001d426250762d2ed27b3e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119686214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246502"
 ---
 # <a name="ec_dvd_title_change"></a>\_изменение названия DVD-диска EC \_ \_
 
@@ -48,7 +48,7 @@ ms.locfileid: "119686214"
 
 Это событие возникает в домене Title.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -58,7 +58,7 @@ ms.locfileid: "119686214"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: Hide, метод
 ms.assetid: c30eda78-0951-43b4-8ae1-daccbd41170d
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 67057464c8e505e56123f712d3a1e6d668c7d75b00bc4732e7b18195b3be9723
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bd50c3f7b8e3d2e60ebe4c00c42375737c05eb04
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119725454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258035"
 ---
 # <a name="hide-method"></a>Hide, метод
 
@@ -41,7 +41,7 @@ ms.locfileid: "119725454"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сервер помещает в очередь действия метода **Hide** в очереди символов, поэтому его можно использовать для скрытия символа после последовательности других анимаций. Вы можете воспроизвести действие немедленно, используя метод " [**останавливаться**](stop-method.md) " перед вызовом этого метода.
 
@@ -54,7 +54,7 @@ ms.locfileid: "119725454"
 
  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 [**Show - метод**](show-method.md)
 

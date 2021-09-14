@@ -5,11 +5,11 @@ title: Схема описания библиотеки
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 2bfbaa8401468a6bab79cf4bccc5d7d4cd0ff7bb
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122879650"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256993"
 ---
 # <a name="library-description-schema"></a>Схема описания библиотеки
 
@@ -20,7 +20,7 @@ ms.locfileid: "122879650"
 -   [Общие сведения о схеме описания библиотеки](#overview-of-the-library-description-schema)
 -   [Управление версиями пространства имен](#namespace-versioning)
 -   [Пример файла описания библиотеки](#example-of-a-library-description-file)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="overview-of-the-library-description-schema"></a>Общие сведения о схеме описания библиотеки
 

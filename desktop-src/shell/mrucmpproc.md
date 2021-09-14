@@ -14,12 +14,12 @@ api_type:
 - UserDefined
 api_location: ''
 ms.assetid: 00f31d6b-2a96-4abd-9647-24a6e66aa22f
-ms.openlocfilehash: bcf8bb7c8ec4ceab299efd75c61cabe86f43d0ee46585be59ab4000957554ed2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 83020fbcd0d4cfcfbc643d1360e3671595de6f32
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120111494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256966"
 ---
 # <a name="mrucmpproc-callback-function"></a>Функция обратного вызова MRUCMPPROC
 
@@ -65,7 +65,7 @@ int CALLBACK MRUCMPPROC(
 
 Возвращает 0, если элементы идентичны, в противном случае — ненулевое значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эту функцию можно дополнительно указать для использования в структуре [**мруинфо**](mruinfo.md) , передаваемой в [**креатемрулиств**](createmrulist.md). Это полезно, если список MRU был создан с помощью флага **\_ двоичного файла MRU** . Если эта функция не задана, используются стандартные функции сравнения строк.
 

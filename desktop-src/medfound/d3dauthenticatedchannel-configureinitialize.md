@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3d9types.h
-ms.openlocfilehash: 27f94dd5aca19d24742d553a65ce3c7f9164edf48cb1aab335d87d338f7e7499
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 072d7886a024b1c28e8c3b7f0609dc8dd3e6add8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119958774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257931"
 ---
 # <a name="d3dauthenticatedchannel_configureinitialize-structure"></a>\_Структура КОНФИГУРЕИНИТИАЛИЗЕ D3DAUTHENTICATEDCHANNEL
 
@@ -39,7 +39,7 @@ typedef struct _D3DAUTHENTICATEDCHANNEL_CONFIGUREINITIALIZE {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -64,11 +64,11 @@ typedef struct _D3DAUTHENTICATEDCHANNEL_CONFIGUREINITIALIZE {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Каждый из членов **стартсекуенцекуери** и **стартсекуенцеконфигуре** содержит криптографически защищенное 32-разрядное случайное число.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -80,7 +80,7 @@ typedef struct _D3DAUTHENTICATEDCHANNEL_CONFIGUREINITIALIZE {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

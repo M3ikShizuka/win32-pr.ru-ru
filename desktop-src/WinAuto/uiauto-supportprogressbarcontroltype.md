@@ -22,11 +22,11 @@ keywords:
 ms.topic: article
 ms.date: 12/04/2019
 ms.openlocfilehash: 5dc5dd22abcaca70ae9ce86717db6055642a21ce
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122472306"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242305"
 ---
 # <a name="progressbar-control-type"></a>Тип элемента управления ProgressBar
 
@@ -92,7 +92,7 @@ ms.locfileid: "122472306"
 | [**LargeChange**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_largechange) | **Не число**       | Это свойство не требуется, так как элементы управления "Индикатор выполнения" доступны только для чтения.                                                                 |
 | [**IValueProvider**](/windows/desktop/api/UIAutomationCore/nn-uiautomationcore-ivalueprovider)               | Зависит       | Элементы управления "индикатор выполнения", которые дают текстовое обозначение хода выполнения, должны реализовывать шаблон элемента управления [value](uiauto-implementingvalue.md) . |
 | [**IsReadOnly**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ivalueprovider-get_isreadonly)        | **TRUE**      | Значение этого свойства всегда равно **true**.                                                                                            |
-| [**Значений**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ivalueprovider-get_value)                  | См. примечания.    | Это свойство предоставляет ход выполнения в текстовом виде для элемента управления "Индикатор выполнения".                                                                          |
+| [**Значение**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ivalueprovider-get_value)                  | См. примечания.    | Это свойство предоставляет ход выполнения в текстовом виде для элемента управления "Индикатор выполнения".                                                                          |
 
 
 
@@ -123,7 +123,7 @@ ms.locfileid: "122472306"
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Общие сведения о типах элементов управления автоматизации пользовательского интерфейса](uiauto-controltypesoverview.md)

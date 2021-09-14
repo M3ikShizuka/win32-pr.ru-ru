@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: a134b87e9c7c4d0f665ae37df7ec9cd0ecb3a37c0d0548f27835ead7b8ecca21
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ed8bcdab7e0909e59e7d9ec00645786f8ce48c02
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119074798"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971897"
 ---
 # <a name="cbasepinconnect-method"></a>Кбасепин. метод Подключение
 
@@ -75,13 +75,13 @@ HRESULT Connect(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Параметр *ПЛТ* может иметь **значение NULL**. Также можно указать частичный тип носителя со значением GUID \_ null для основного типа, подтипа или формата.
 
 В базовом классе этот метод проверяет, подключен ли ПИН-код и был ли остановлен фильтр. Он делегирует оставшуюся часть процесса подключения методу [**кбасепин:: агримедиатипе**](cbasepin-agreemediatype.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -92,7 +92,7 @@ HRESULT Connect(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 1729407f1022c2781fc97f8638ea8748323c151e9bd67c5ad31b30ae05fdff0f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ad5e1de9eb2edbdb63eb6f476391ae8387c8d01e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120131282"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971686"
 ---
 # <a name="cenummediatypes-class"></a>Класс Ценуммедиатипес
 
@@ -45,8 +45,8 @@ ms.locfileid: "120131282"
 | Методы Иенуммедиатипес                                      | Описание                                                     |
 | [**Клонировать**](cenummediatypes-clone.md)                       | Создает копию перечислителя с тем же состоянием перечисления. |
 | [**Далее**](cenummediatypes-next.md)                         | Извлекает указанное число типов мультимедиа.                    |
-| [**Перезапуск**](cenummediatypes-reset.md)                       | Сбрасывает последовательность перечисления в начало.               |
-| [**Сразу**](cenummediatypes-skip.md)                         | Пропускает указанное число типов мультимедиа.                   |
+| [**Reset**](cenummediatypes-reset.md)                       | Сбрасывает последовательность перечисления в начало.               |
+| [**Пропустить**](cenummediatypes-skip.md)                         | Пропускает указанное число типов мультимедиа.                   |
 
 
 

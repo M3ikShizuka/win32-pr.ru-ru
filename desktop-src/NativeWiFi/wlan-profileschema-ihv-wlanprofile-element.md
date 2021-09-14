@@ -12,12 +12,12 @@ api_name:
 api_type:
 - Schema
 api_location: ''
-ms.openlocfilehash: 1cfcd9ee463ef91d04d0bebbeac800d48da32fdd777edc2a08ccf0051410160d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d2d2902522c84ebe2939d42301a491521ac8a70f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119799924"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127245476"
 ---
 # <a name="ihv-wlanprofile-element"></a>Элемент IHV (Вланпрофиле)
 
@@ -116,12 +116,12 @@ ms.locfileid: "119799924"
 | [**КОДОМ**](wlan-profileschema-oui-ouiheader-element.md)             |                                                                   | Содержит 3-байтовый hexBinary, определяющий IHV.<br/>                                                                                                                                                                                                                                                                                                                                   |
 | [**ауихеадер**](wlan-profileschema-ouiheader-ihv-element.md)       |                                                                   | Идентифицирует независимый поставщик оборудования.<br/>                                                                                                                                                                                                                                                                                                                                                                    |
 | [**бюллетеня**](wlan-profileschema-security-ihv-element.md)         |                                                                   | Содержит параметры безопасности, зависящие от IHV. Параметры безопасности Microsoft и параметры безопасности IHV являются взаимоисключающими. Если заданы оба параметра безопасности, то весь профиль считается недопустимым.<br/>                                                                                                                                                                                            |
-| [**Тип**](wlan-profileschema-type-ouiheader-element.md)           |                                                                   | Содержит 1-байтовый hexBinary, используемый для различения сетевых карт одним и тем же IHV.<br/>                                                                                                                                                                                                                                                                                                        |
+| [**type**](wlan-profileschema-type-ouiheader-element.md)           |                                                                   | Содержит 1-байтовый hexBinary, используемый для различения сетевых карт одним и тем же IHV.<br/>                                                                                                                                                                                                                                                                                                        |
 | [**усемсонекс**](wlan-profileschema-usemsonex-ihv-element.md)       | [boolean](/dotnet/api/system.boolean) | Указывает источник параметров безопасности 802.1 X, используемых компонентом безопасности независимого поставщика оборудования. Если [**усемсонекс**](wlan-profileschema-usemsonex-ihv-element.md) имеет значение true, компоненты безопасности IHV используют определенные корпорацией Майкрософт параметры 802.1 x. Если **усемсонекс** имеет значение false, компоненты безопасности IHV используют предоставленные поставщиком параметры 802.1 x. По умолчанию **усемсонекс** имеет значение false. Этот элемент является необязательным.<br/> |
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -132,7 +132,7 @@ ms.locfileid: "119799924"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

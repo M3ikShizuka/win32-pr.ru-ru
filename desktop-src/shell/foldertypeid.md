@@ -4,12 +4,12 @@ ms.assetid: d147a05c-6a03-4f20-a7be-20825fcbeec2
 title: ФОЛДЕРТИПЕИД (Шлгуид. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a8dcaa88d2f898879cb7790a9e13dd8810c7bac4fd45dc8e10aff9b2b3a44895
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: df4ad04f6f00e187e0f3bb870cb574cb07ea19c3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118969443"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257062"
 ---
 # <a name="foldertypeid"></a>фолдертипеид
 
@@ -61,7 +61,7 @@ ms.locfileid: "118969443"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значения **фолдертипеид** являются идентификаторами GUID и объявляются в шлгуид. h.
 
@@ -79,7 +79,7 @@ HKEY_LOCAL_MACHINE
                   FolderTypes
 ```
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

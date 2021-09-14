@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 636995cd62c83f46f97ea7371257a5fdfc8f1c79fec1873b229f80d92be6335d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b78fe6f4ce7608ff02ecb5b125b00171610ec112
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117748942"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241027"
 ---
 # <a name="equalizersettingsbypass"></a>ЕКУАЛИЗЕРСЕТТИНГС. обход
 
@@ -42,7 +42,7 @@ ms.locfileid: "117748942"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если этот атрибут не указан, предыдущее значение будет храниться.
 

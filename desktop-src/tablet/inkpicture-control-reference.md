@@ -5,11 +5,11 @@ title: Справочник по элементу управления InkPictur
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: d93f5727d2f3f049a579e32e5feb0ba0eaa742d2
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122471540"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256591"
 ---
 # <a name="inkpicture-control-reference"></a>Справочник по элементу управления InkPicture
 
@@ -41,7 +41,7 @@ ms.locfileid: "122471540"
 | Событие                                                                              | Описание                                                                                                                                                                                                                                                                                                        |
 |------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **ChangeUICues**                                                                   | Не рекомендуется.<br/>                                                                                                                                                                                                                                                                                             |
-| [**Откройте**](inkpicture-click.md)                                                  | Происходит, когда пользователь щелкает элемент управления InkPicture.<br/>                                                                                                                                                                                                                                                       |
+| [**Щелкните**](inkpicture-click.md)                                                  | Происходит, когда пользователь щелкает элемент управления InkPicture.<br/>                                                                                                                                                                                                                                                       |
 | [**Событие Курсорбуттондовн**](inkpicture-cursorbuttondown.md)                      | Происходит, когда элемент управления [**InkCollector**](inkcollector-class.md) обнаруживает [**неиинккурсорбуттоный**](/windows/desktop/api/msinkaut/nn-msinkaut-iinkcursorbutton) объект.<br/>                                                                                                                                                         |
 | [**Событие Курсорбуттонуп**](inkpicture-cursorbuttonup.md)                          | Происходит, когда элемент управления InkPicture обнаруживает [**иинккурсорбуттон**](/windows/desktop/api/msinkaut/nn-msinkaut-iinkcursorbutton) .<br/>                                                                                                                                                                                                  |
 | [**Событие Курсордовн**](inkpicture-cursordown.md)                                  | Происходит, когда подсказка курсора обращается к поверхности планшета в дигитайзере.<br/>                                                                                                                                                                                                                                      |
@@ -121,7 +121,7 @@ ms.locfileid: "122471540"
 | <a href="/windows/desktop/api/msinkaut/nf-msinkaut-iinkpicture-get_desiredpacketdescription"><strong>Десиредпаккетдескриптион, свойство</strong></a> | Возвращает или задает описание пакета для элемента управления InkPicture (только время выполнения).<br /> | 
 | <a href="/windows/desktop/api/msinkaut/nf-msinkaut-iinkpicture-get_dynamicrendering"><strong>Динамикрендеринг, свойство</strong></a> | Возвращает или задает значение, указывающее, будет ли элемент управления InkPicture динамически отображать рукописный ввод при его сборе.<br /> | 
 | <a href="/windows/desktop/api/msinkaut/nf-msinkaut-iinkpicture-get_editingmode"><strong>EditingMode</strong></a> | Возвращает или задает значение, указывающее, находится ли элемент управления InkPicture в режиме рукописного ввода, режиме удаления или режиме правки или выбора.<br /> | 
-| <a href="/windows/desktop/api/msinkaut/nf-msinkaut-iinkpicture-get_enabled"><strong>Включен</strong></a> | Возвращает или задает значение, определяющее, может ли элемент управления InkPicture отвечать на создаваемые пользователем события.<br /><blockquote>[!Note]<br />Это свойство эквивалентно свойству <a href="/windows/desktop/api/msinkaut/nf-msinkaut-iinkpicture-get_inkenabled"><strong>инкенаблед</strong></a> .</blockquote><br /> | 
+| <a href="/windows/desktop/api/msinkaut/nf-msinkaut-iinkpicture-get_enabled"><strong>Enabled</strong></a> | Возвращает или задает значение, определяющее, может ли элемент управления InkPicture отвечать на создаваемые пользователем события.<br /><blockquote>[!Note]<br />Это свойство эквивалентно свойству <a href="/windows/desktop/api/msinkaut/nf-msinkaut-iinkpicture-get_inkenabled"><strong>инкенаблед</strong></a> .</blockquote><br /> | 
 | <a href="/windows/desktop/api/msinkaut/nf-msinkaut-iinkpicture-get_erasermode"><strong>ерасермоде</strong></a> | Возвращает или задает значение, указывающее, удаляются ли рукописные данные по штрихам или по точкам.<br /> | 
 | <a href="/windows/desktop/api/msinkaut/nf-msinkaut-iinkpicture-get_eraserwidth"><strong>ерасервидс</strong></a> | Возвращает или задает значение, указывающее ширину кончика пера ластика.<br /> | 
 | <a href="/windows/desktop/api/msinkaut/nf-msinkaut-iinkpicture-get_hwnd"><strong>hWnd</strong></a> | Возвращает описатель окна, к которому привязан элемент управления InkPicture. (только время выполнения)<br /> | 

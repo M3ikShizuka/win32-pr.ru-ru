@@ -5,11 +5,11 @@ ms.assetid: 29325f0a-c6ca-42b1-b85d-2671f7041034
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: fdeffcebd96ffba804bfc24672bf867028e9b0c7
-ms.sourcegitcommit: 85688bbfbe5b121bc05ddf112d54c23a469dfbc0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "103890192"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127240937"
 ---
 # <a name="how-active-accessibility-works"></a>Как работает Active Accessibility
 
@@ -43,9 +43,9 @@ Microsoft Active Accessibility предназначен для поддержк�
 -   Установите обработчик WinEvent, получите уведомление и вызовите [**акцессиблеобжектфромевент**](/windows/desktop/api/Oleacc/nf-oleacc-accessibleobjectfromevent) , чтобы получить указатель интерфейса [**IAccessible**](/windows/desktop/api/oleacc/nn-oleacc-iaccessible) для элемента пользовательского интерфейса, создавшего событие.
 -   Вызовите метод [**IAccessible**](/windows/desktop/api/oleacc/nn-oleacc-iaccessible) , такой как [**аккнавигате**](/windows/desktop/api/Oleacc/nf-oleacc-iaccessible-accnavigate) или [**Get \_ аккпарент**](/windows/desktop/api/Oleacc/nf-oleacc-iaccessible-get_accparent) , чтобы перейти к другому объекту **IAccessible** .
 
- 
+ 
 
- 
+ 
 
 
 

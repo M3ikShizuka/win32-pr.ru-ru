@@ -21,11 +21,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: a2f7f38841248910bd23dd15b6cec06a638640d0
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104539722"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242242"
 ---
 # <a name="apiretrievecolumnasboolean-method-jet_sesid-jet_tableid-jet_columnid"></a>Метод API. Ретриевеколумнасбулеан (JET_SESID, JET_TABLEID, JET_COLUMNID)
 
@@ -89,7 +89,7 @@ public static Nullable<bool> RetrieveColumnAsBoolean(
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс API](./api-class.md)
 

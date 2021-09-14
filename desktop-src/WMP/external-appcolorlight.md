@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 17db35cc1f683c581009135332c413c7c5e5379e3b3a1d9ad71abc8423f8c0cf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 097b2a71cb8013bc4f39aaec86e7a5ac5bc71691
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119649604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127240958"
 ---
 # <a name="externalappcolorlight"></a>External. Аппколорлигхт
 
@@ -39,11 +39,11 @@ window.external.appColorLight
 
 Это свойство является **строкой**, доступная только для чтения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 пользователи могут изменять цвет пользовательского интерфейса проигрыватель Windows Media. Это свойство можно использовать для настройки внешнего вида размещенной веб-страницы в соответствии с проигрывателем.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -54,7 +54,7 @@ window.external.appColorLight
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

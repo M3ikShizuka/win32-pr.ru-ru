@@ -5,12 +5,12 @@ ms.assetid: c55e4881-ca98-4393-a72e-f3ced687b7ca
 title: Глоссарий API для планшетных ПК
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 394b935bb36fbd4c8e4dfa429b4da341c72f5467d9023e772ef898df4a59bb47
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6ec2c047061f8c842f4725875d045e4895927bc1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118967583"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256786"
 ---
 # <a name="tablet-pc-api-glossary"></a>Глоссарий API для планшетных ПК
 

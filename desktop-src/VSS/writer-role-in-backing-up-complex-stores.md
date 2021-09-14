@@ -5,11 +5,11 @@ title: Роль модуля записи при резервном копиро
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 30e34952cc4a2184d2f9abcc43283d24f64bdcc3
-ms.sourcegitcommit: d0eb44d0a95f5e5efbfec3d3e9c143f5cba25bc3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112262156"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241126"
 ---
 # <a name="writer-role-in-backing-up-complex-stores"></a>Роль модуля записи при резервном копировании сложных хранилищ
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 67d41c23e45ba65416a0f57336e51d2784b194ee556a778b7036e8dc5fd829ef
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2e65b72c1e0b6db85a271c10f76e5630b0799b78
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119016392"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971650"
 ---
 # <a name="cmediasamplegetactualdatalength-method"></a>Кмедиасампле. Жетактуалдаталенгс, метод
 
@@ -44,11 +44,11 @@ LONG GetActualDataLength();
 
 Возвращает длину допустимых данных в байтах.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значение этого свойства указывается в переменной члена [**кмедиасампле:: m \_ лактуал**](cmediasample-m-lactual.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ LONG GetActualDataLength();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

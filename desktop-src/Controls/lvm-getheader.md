@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d372085a6b8c81b61bc375bade7f4c9c502fc5cba38cc7c44039a881af2ada9f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3d53082092118cad373005743849498791f0e1ca
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120062594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972098"
 ---
 # <a name="lvm_getheader-message"></a>\_Сообщение LVM
 

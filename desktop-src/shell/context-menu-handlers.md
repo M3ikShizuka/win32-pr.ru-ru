@@ -4,12 +4,12 @@ ms.assetid: cff79cdc-8a01-4575-9af7-2a485c6a8e46
 title: Создание обработчиков контекстного меню
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e3a6b6f812772b884e12c45a48bae8075d90df28fb3b60f895cfd4c4263be74c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e8e102833453566f42d058ff82061f34ebc65691
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119715774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257080"
 ---
 # <a name="creating-shortcut-menu-handlers"></a>Создание обработчиков контекстного меню
 

@@ -4,12 +4,12 @@ description: Предоставляет пошаговый подход для �
 ms.assetid: aeded6c9-315d-4115-9750-485f017dd8dd
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a8bc8cb112a6def55085cbd0b94068407320e4116a4b0161d7d923319257258f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9b7c4e3058598f98327570fbcd0347cfb84e5825
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118085888"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127240757"
 ---
 # <a name="sso-eap-tls-pin-caching-behavior"></a>Поведение кэширования для единого входа EAP-TLS
 

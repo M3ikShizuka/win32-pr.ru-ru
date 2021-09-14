@@ -4,18 +4,18 @@ ms.assetid: 5a54183b-3e7c-41db-b225-2bf399c17629
 title: Прокси-сервер System. photo. Субжектдистанце
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d143d2fc2986f58e1ce5a47f4d841d2f015e4b1e7cfc0763465278f330c3c76b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 65616eea0c1e6923cea774ca9e52be13617af93e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118204642"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256459"
 ---
 # <a name="systemphotosubjectdistance-proxy"></a>Прокси-сервер System. photo. Субжектдистанце
 
 Прокси-сервер свойств для политики метаданных фото в System. photo. Субжектдистанце.
 
-### <a name="description"></a>Описание
+### <a name="description"></a>Описание:
 
 Прокси-сервер свойств возвращает рациональную пару a через элемент ухвал [пропвариант](/windows/win32/api/propidlbase/ns-propidlbase-propvariant) .
 

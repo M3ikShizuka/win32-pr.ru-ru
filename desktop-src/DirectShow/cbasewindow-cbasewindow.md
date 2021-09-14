@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: d8873ee896d910d1596138a8d116c93ae0190534bac48b6ceb19165074f07b72
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 05205750810294076bf005d0e5b73fda6b2143d5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119016752"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971813"
 ---
 # <a name="cbasewindowcbasewindow-constructor"></a>Кбасевиндов. Кбасевиндов, конструктор
 
@@ -57,7 +57,7 @@ CBaseWindow(
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 После создания объекта вызовите метод [**кбасевиндов::P репаревиндов**](cbasewindow-preparewindow.md) , чтобы создать окно. **Препаревиндов** является виртуальным методом. Он вызывает [**кбасевиндов:: инитиалисевиндов**](cbasewindow-initialisewindow.md), а также виртуальный метод. Эти методы отделены от конструктора, чтобы производные классы могли переопределять их при необходимости.
 

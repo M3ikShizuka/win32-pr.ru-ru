@@ -3,7 +3,7 @@ title: ЕКУАЛИЗЕРСЕТТИНГС. gainLevel1
 description: Атрибут gainLevel1 указывает или получает уровень усиления диапазона 1.
 ms.assetid: 3d681ade-3fd4-432d-ae92-c083d927346f
 keywords:
-- Проигрыватель Windows Media ЕКУАЛИЗЕРСЕТТИНГС. gainLevel1
+- екуализерсеттингс. gainLevel1 проигрыватель Windows Media
 topic_type:
 - apiref
 api_name:
@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 3299c2b9275eabb4812c83670f28bcbb3d2aeef9
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105698846"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127240970"
 ---
 # <a name="equalizersettingsgainlevel1"></a>ЕКУАЛИЗЕРСЕТТИНГС. gainLevel1
 
@@ -43,7 +43,7 @@ ms.locfileid: "105698846"
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 7,0 или более поздней<br/> |
+| Версия<br/> | проигрыватель Windows Media версии 7,0 или более поздней<br/> |
 
 
 

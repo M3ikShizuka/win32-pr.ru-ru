@@ -14,11 +14,11 @@ api_type:
 api_location:
 - mfmediaengine.h
 ms.openlocfilehash: 1591fd47cb3d5e758dee8814dc9736e94ca4ee7c
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104543274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257907"
 ---
 # <a name="imfsourcebufferlistgetlength-method"></a>Метод Имфсаурцебуфферлист:: DATALENGTH
 
@@ -47,8 +47,8 @@ DWORD GetLength();
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только Windows 8.1 Классические приложения\]<br/>                                                 |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2012 R2 \[\]<br/>                                      |
+| Минимальная версия клиента<br/> | Windows 8.1 \[ только классические приложения\]<br/>                                                 |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[Только классические приложения R2\]<br/>                                      |
 | IDL<br/>                      | <dl> <dt>Мфмедиаенгине. idl</dt> </dl> |
 
 

@@ -25,12 +25,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: bf5f3e7ffac15522b21488bbc09a9186155fe89615fbd5298e40980b71e289c4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d7f346a1331200b18c2fc9e51d8eebc1ddaef105
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119890554"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242221"
 ---
 # <a name="jet_logtimeequality-operator"></a>JET_LOGTIME. Оператор равенства
 
@@ -81,9 +81,9 @@ public static bool operator ==(
 Тип: [System. Boolean](/dotnet/api/system.boolean)  
 Значение true, если два экземпляра равны.  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Структура JET_LOGTIME](./jet-logtime-structure2.md)
 

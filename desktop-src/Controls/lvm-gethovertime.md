@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 150a8eff54f8b3c27f0e7783ceda67af60c326e370d1a518d83e6bdd214fb529
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 83e243ece42f06ffe35eb31954d9ca0dd44957be
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119920104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972094"
 ---
 # <a name="lvm_gethovertime-message"></a>\_Сообщение LVM жесовертиме
 
@@ -39,11 +39,11 @@ ms.locfileid: "119920104"
 
 Возвращает количество времени в миллисекундах, в течение которого курсор мыши должен навестися над элементом, прежде чем он будет выбран. Если возвращаемое значение равно (**DWORD**)-1, то по умолчанию используется время наведения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Время наведения на себя влияет только на элементы управления "представление списка", которые имеют расширенный стиль представления списка [**LVS \_ ex \_ траккселект**](extended-list-view-styles.md), [**LVS \_ ex \_ онекликкактивате**](extended-list-view-styles.md)или [**LVS \_ ex \_ твокликкактивате**](extended-list-view-styles.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

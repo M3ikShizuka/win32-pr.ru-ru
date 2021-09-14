@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 8ac32439be94234ee612bce4f3c962839099bb8239a1cfc8b48222129680d01e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a7c5366525b51367a5348bc47b9acbe0fb799db4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120107824"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246442"
 ---
 # <a name="iamtimelinegroupsetmediatype-method"></a>Метод Иамтимелинеграуп:: Сетмедиатипе
 
@@ -103,7 +103,7 @@ HRESULT SetMediaType(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

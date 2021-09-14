@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b687dc34e96e73a2d9154d5178c9f8fc8d7a8f2f6a953e76d6806c185b9539ff
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8a6e5e0218b9509de67675545756a8506e2cfe43
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119863134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241066"
 ---
 # <a name="editboxfontsize"></a>EDITBOX. fontSize
 
@@ -31,7 +31,7 @@ ms.locfileid: "119863134"
 
 Этот атрибут является **числом** для чтения и записи (**длинное целое**), определяющим размер шрифта в пунктах. Значение по умолчанию — 10.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "119863134"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

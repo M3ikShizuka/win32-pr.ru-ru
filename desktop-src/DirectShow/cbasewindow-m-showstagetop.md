@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: dbd8943b297d6e33f3b86a62c7e67dd2039a6b99d316061be30a4c3016711c41
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8ed0069c5c65f2bb1a113c899e2d90de0cabcd10
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119016522"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971770"
 ---
 # <a name="cbasewindowm_showstagetop-member"></a>Элемент Кбасевиндов:: m \_ шовстажетоп
 
@@ -40,7 +40,7 @@ UINT m_ShowStageTop;
 
 Модули подготовки видео должны отправить это сообщение в окно, если они переключились в полноэкранный режим.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -51,7 +51,7 @@ UINT m_ShowStageTop;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -13,12 +13,12 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: fd69d19f753c1c72c1e0c143a0aface2cdb234cb2ace8c87d559834b97bbf0f3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1f9a2a169b232fe3ad16eeee8816536ed81c74dc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119592324"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256879"
 ---
 # <a name="sfvm_initmenupopup-message"></a>\_Сообщение сфвм инитменупопуп
 
@@ -55,7 +55,7 @@ SFVM_INITMENUPOPUP
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Объект представления системных папок отправляет это сообщение, если выбрано меню, но перед его отображением. Обработайте это сообщение, если, например, необходимо включить или отключить команды меню. Всплывающее меню может быть следующим:
 
@@ -63,7 +63,7 @@ SFVM_INITMENUPOPUP
 -   Меню верхнего уровня, определенное клиентом.
 -   Определяемое клиентом подменю.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -75,7 +75,7 @@ SFVM_INITMENUPOPUP
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

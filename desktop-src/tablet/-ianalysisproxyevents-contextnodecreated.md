@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - IACom.dll
-ms.openlocfilehash: 5938ffda54542602248c5d04da0726d932b381aaff092f1c2038dd37ae4631e7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ac06a7fc45604e93408b1bb144ee7e884efd351e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117675871"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256840"
 ---
 # <a name="_ianalysisproxyeventscontextnodecreated-event"></a>\_Событие Ианалисиспроксевентс:: Контекстнодекреатед
 
@@ -58,7 +58,7 @@ HRESULT ContextNodeCreated(
 
 Описание возвращаемых значений см. в разделе [классы и интерфейсы — анализ рукописного ввода](classes-and-interfaces---ink-analysis.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это событие используется, когда приложение поддерживает собственную структуру данных, которая синхронизируется с [**иинканализер**](iinkanalyzer.md). Это событие возникает на этапе выверки анализа рукописного текста или в ответ на метод анализа рукописного ввода, создающий [**иконтекстноде**](icontextnode.md).
 

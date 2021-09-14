@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b6407f36650b699f6bcdc9cbdd832ff2db38f68e9db758411d42aa5e81564ea4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a841a83d8ceb828de0a5a9cd80f5f5bdc7f5c914
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120114544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258024"
 ---
 # <a name="mpmanagerversionquery-function"></a>Функция Мпманажерверсионкуери
 
@@ -80,7 +80,7 @@ HRESULT WINAPI MpManagerVersionQuery(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

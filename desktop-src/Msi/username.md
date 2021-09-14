@@ -4,12 +4,12 @@ ms.assetid: 13f3cf1a-e303-469c-9166-bba96046188b
 title: Свойство USERNAME
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 44846c35ae84ad157a2295a502e3335faffc5a78e2534c613b34b620a8648e9f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9e9d6d4b7708207d2ed538f3cf72816cace9974c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120039154"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057560"
 ---
 # <a name="username-property"></a>Свойство USERNAME
 
@@ -19,11 +19,11 @@ ms.locfileid: "120039154"
 
 Значение по умолчанию может быть размещено в таблице свойств. Если свойство **username** не задано, оно устанавливается автоматически с использованием значений из реестра.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Задайте свойство [**username, чтобы**](nousername.md) отключить автоматический параметр **username**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -5,11 +5,11 @@ ms.assetid: 408587b1-3ead-4720-a063-5fb749273043
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 1a37e093b1363fdf8485f63be803a2fce1627706
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124371577"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057498"
 ---
 # <a name="digital-video-command-set"></a>Набор команд Digital-Video
 
@@ -25,12 +25,12 @@ ms.locfileid: "124371577"
 | [**выхода**](close.md)           | [**\_закрытие MCI**](mci-close.md)           |
 | [**выбрать**](configure.md)   | [**\_Настройка MCI**](mci-configure.md)   |
 | [**копии**](copy.md)             | [**\_копирование MCI**](mci-copy.md)             |
-| [**сказк**](cue.md)               | [**\_Подсказка MCI**](mci-cue.md)               |
+| [**cue**](cue.md)               | [**\_Подсказка MCI**](mci-cue.md)               |
 | [**бавьте**](cut.md)               | [**\_Вырезать MCI**](mci-cut.md)               |
 | [**удален**](delete.md)         | [**\_Удаление MCI**](mci-delete.md)         |
 | [**фиксировать**](freeze.md)         | [**\_замораживание MCI**](mci-freeze.md)         |
 | [**сведения**](info.md)             | [**\_сведения о MCI**](mci-info.md)             |
-| [**числ**](list.md)             | [**\_список MCI**](mci-list.md)             |
+| [**list**](list.md)             | [**\_список MCI**](mci-list.md)             |
 | [**загрузить**](load.md)             | [**\_Загрузка MCI**](mci-load.md)             |
 | [**слежен**](monitor.md)       | [**\_монитор MCI**](mci-monitor.md)       |
 | [**открыт**](open.md)             | [**MCI \_ открыт**](mci-open.md)             |
@@ -46,7 +46,7 @@ ms.locfileid: "124371577"
 | [**выход**](resume.md)         | [**\_возобновление работы MCI**](mci-resume.md)         |
 | [**автоматически**](save.md)             | [**\_Сохранение MCI**](mci-save.md)             |
 | [**поиска**](seek.md)             | [**\_Поиск MCI**](mci-seek.md)             |
-| [**параметр**](set.md)               | [**\_набор MCI**](mci-set.md)               |
+| [**set**](set.md)               | [**\_набор MCI**](mci-set.md)               |
 | [**сетаудио**](setaudio.md)     | [**\_СЕТАУДИО MCI**](mci-setaudio.md)     |
 | [**сетвидео**](setvideo.md)     | [**\_СЕТВИДЕО MCI**](mci-setvideo.md)     |
 | [**имел**](signal.md)         | [**\_сигнал MCI**](mci-signal.md)         |

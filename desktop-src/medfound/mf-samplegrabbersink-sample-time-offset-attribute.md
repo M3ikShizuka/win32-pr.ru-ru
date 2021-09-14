@@ -4,12 +4,12 @@ ms.assetid: 8d06b415-aafc-4276-9a88-4b7262df62f1
 title: Атрибут MF_SAMPLEGRABBERSINK_SAMPLE_TIME_OFFSET (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4ad8086d7820a9f7c642fb049af8696521f675be3f7606ff19166a4570ee8000
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d99f65c5023bbe8705e21269dfb07d6f24db4190
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117875994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257784"
 ---
 # <a name="mf_samplegrabbersink_sample_time_offset-attribute"></a>\_ \_ \_ Атрибут смещения времени выборки MF самплеграбберсинк \_
 
@@ -19,7 +19,7 @@ ms.locfileid: "117875994"
 
 **UINT64**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут можно задать для объекта [**имфактивате**](/windows/desktop/api/mfobjects/nn-mfobjects-imfactivate) , возвращаемого функцией [**мфкреатесамплеграбберсинкактивате**](/windows/desktop/api/mfidl/nf-mfidl-mfcreatesamplegrabbersinkactivate) . Этот атрибут позволяет функции обратного вызова образца захвата получать примеры, предшествующие времени презентации.
 

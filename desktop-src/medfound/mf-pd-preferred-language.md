@@ -4,12 +4,12 @@ ms.assetid: 30f99804-6aea-473b-9bbf-e8c715501391
 title: Атрибут MF_PD_PREFERRED_LANGUAGE (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6cd01a47002bf3cd9419579786ff37df1fc03af940f54b2d2a2bb859d5b97007
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 81bb121c7181724ef06b3e8fe9239342a140104a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118740715"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257787"
 ---
 # <a name="mf_pd_preferred_language-attribute"></a>\_ \_ Атрибут предпочтительного \_ языка MF PD
 
@@ -29,13 +29,13 @@ ms.locfileid: "118740715"
 
 [**имфпресентатиондескриптор**](/windows/desktop/api/mfidl/nn-mfidl-imfpresentationdescriptor)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 \_ \_ Атрибут предпочтительного языка MF PD \_ является необязательным. Приложение может установить этот атрибут в источнике мультимедиа (например, в сетевом источнике), чтобы указать предпочтительный язык.
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ ms.locfileid: "118740715"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | \[приложения UWP для классических приложений Windows 7 \|\]<br/>                                  |
 | Минимальная версия сервера<br/> | Windows \[Приложения UWP для настольных приложений Server 2008 R2 \|\]<br/>                     |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 

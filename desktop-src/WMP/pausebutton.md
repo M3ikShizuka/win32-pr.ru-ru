@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 5e1173b178adfa6e9cf3b9f6e0d5af0ef6b52e6c39a88c5d9be1af9d8836a25b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6713c765a27ad7d341beab58266ae3bd383674bc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119646894"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127240946"
 ---
 # <a name="pausebutton"></a>паусебуттон
 
@@ -31,11 +31,11 @@ cursor="system"
 enabled="wmpenabled:player.controls.pause"
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Все свойства этой **кнопки** можно переопределить, явно указав их.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -45,7 +45,7 @@ enabled="wmpenabled:player.controls.pause"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

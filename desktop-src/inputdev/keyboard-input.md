@@ -8,24 +8,24 @@ keywords:
 - ввод с клавиатуры
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 249e42a97c0848a9935fe700a0408989cbab90abc53c9ac2da6c7ef56fbc31da
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6425da1617f73171ab54460c2634b22ffbfa4404
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118757593"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242197"
 ---
 # <a name="keyboard-input-keyboard-and-mouse-input"></a>Ввод с клавиатуры (ввод с клавиатуры и мыши)
 
 В этом разделе описывается, как система создает ввод с клавиатуры и как приложение получает и обрабатывает эти входные данные.
 
-### <a name="in-this-section"></a>В этом разделе
+### <a name="in-this-section"></a>в этом разделе
 
 
 
 | Имя                                                     | Описание                                                       |
 |----------------------------------------------------------|-------------------------------------------------------------------|
-| [О вводе с клавиатуры](about-keyboard-input.md)         | Обсуждает ввод с клавиатуры.<br/>                              |
+| [Сведения о вводе с клавиатуры](about-keyboard-input.md)         | Обсуждает ввод с клавиатуры.<br/>                              |
 | [Использование ввода с клавиатуры](using-keyboard-input.md)         | Охватывает задачи, связанные с вводом с клавиатуры. <br/> |
 | [Справочник по вводу с клавиатуры](keyboard-input-reference.md) | Содержит справочник по API.<br/>                            |
 

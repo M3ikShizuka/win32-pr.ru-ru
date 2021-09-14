@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 9a1e63e96950093bb7cc5760032d0b1f622c5df93a6f31673c595f54e5ea8e70
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aaf51c3f4297f238e51bbe8677303730c04b89d3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119017402"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971973"
 ---
 # <a name="cbasecontrolwindowget_messagedrain-method"></a>Кбасеконтролвиндов. Get \_ мессажедраин, метод
 
@@ -53,11 +53,11 @@ HRESULT get_MessageDrain(
 
 Возвращает значение **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сообщения, отправляемые в фильтр модуля подготовки отчетов, можно отправить в другое окно. Окно, зарегистрированное для получения этих сообщений (с помощью функции-члена **кбасеконтролвиндов:: Get \_ мессажедраин** ), является текущим стоком сообщений.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ HRESULT get_MessageDrain(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

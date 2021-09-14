@@ -4,12 +4,12 @@ ms.assetid: e6ce71d6-59cd-42da-906a-ab71f2bef16f
 title: Атрибут MF_PD_ASF_CONTENTENCRYPTION_SECRET_DATA (Вмконтаинер. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e628bf52aa08074473f14a84ee1d1fe39fe91c130aa9848be687601b864393a2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 28c960131e61e539fa417e1068b45974a24c42a3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119104370"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257824"
 ---
 # <a name="mf_pd_asf_contentencryption_secret_data-attribute"></a>\_ \_ \_ \_ Атрибут данных секрета MF PD ASF контентенкриптион \_
 
@@ -19,7 +19,7 @@ ms.locfileid: "119104370"
 
 массив байтов;
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут применяется к дескрипторам представления для содержимого ASF.
 
@@ -33,7 +33,7 @@ ms.locfileid: "119104370"
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                     |
-| Header<br/>                   | <dl> <dt>Вмконтаинер. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Вмконтаинер. h</dt> </dl> |
 
 
 

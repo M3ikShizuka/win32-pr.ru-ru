@@ -4,12 +4,12 @@ ms.assetid: 993b84a3-a5ac-4b00-bfb4-26ca1c9727c6
 title: Событие InkOverlay. Курсорбуттондовн (Мсинкаут. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e73edfd6c8d9901a1eab0adf13c3c5439ef5716d1489ddb30e008079304d44b8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fcae13afb67be0312959939e0793d89d99c841ba
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118967103"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256660"
 ---
 # <a name="inkoverlaycursorbuttondown-event"></a>Событие InkOverlay. Курсорбуттондовн
 
@@ -49,7 +49,7 @@ void CursorButtonDown(
 
 Это событие не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Кнопка в подсказке пера не работает, когда пользователь перемещает перо на дигитайзер и начинает трассировку штриха. Кнопка на элементе с назначением не работает при нажатии кнопки.
 

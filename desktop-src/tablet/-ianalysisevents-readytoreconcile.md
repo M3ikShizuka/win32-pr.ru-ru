@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - IACom.dll
-ms.openlocfilehash: b65606675d8ae5aed694df87f35667a71fad2576344231a4e329783be4b31426
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4f3144f34dc680f9bc31f51b9e6b4284a70fb9bc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120111274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256852"
 ---
 # <a name="_ianalysiseventsreadytoreconcile-event"></a>\_Событие Ианалисисевентс:: РеадитореконЦиле
 
@@ -41,7 +41,7 @@ HRESULT ReadyToReconcile();
 
 Описание возвращаемых значений см. в разделе [классы и интерфейсы — анализ рукописного ввода](classes-and-interfaces---ink-analysis.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 [**Иинканализер**](iinkanalyzer.md) выполняет автоматическую выверку, если установлен флаг **аналисисмодес \_ аутоматикреконЦилиатион** анализатора рукописного ввода (см. [**метод иинканализер:: сетаналисисмодес**](iinkanalyzer-setanalysismodes.md)). Если флаг **аналисисмодес \_ аутоматикреконЦилиатион** не установлен, приложение должно выполнить согласование результатов фонового анализа вручную.
 
@@ -70,7 +70,7 @@ HRESULT ReadyToReconcile();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

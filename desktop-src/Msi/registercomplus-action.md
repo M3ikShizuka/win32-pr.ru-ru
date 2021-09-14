@@ -4,12 +4,12 @@ ms.assetid: e42bb993-7079-4d5b-bb2e-c958e99e705e
 title: Действие Регистеркомплус
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 046d1f40293888d3a1be48a3c55fd5082b6073828c8d5cc7d34c464556986d4f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fb824d67e776a99f8cd05c56f73f171f436c71d1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120082644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057656"
 ---
 # <a name="registercomplus-action"></a>Действие Регистеркомплус
 
@@ -31,7 +31,7 @@ ms.locfileid: "120082644"
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

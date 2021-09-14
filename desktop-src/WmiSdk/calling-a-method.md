@@ -5,16 +5,16 @@ ms.tgt_platform: multiple
 title: Вызов метода WMI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1db6c8a74c8125e0bb1727839b8f59f4b486161d5ae629a0c7351481ade016ac
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c327bbf0c4c90ad05d1c5026e3308e5fd8447aec
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118820091"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127240910"
 ---
 # <a name="calling-a-wmi-method"></a>Вызов метода WMI
 
-Инструментарий WMI предоставляет методы в [API COM](com-api-for-wmi.md) и [API сценариев](scripting-api-for-wmi.md) для получения информации или работы с объектами в корпоративной системе. Например, метод создания сценариев WMI [**SWbemServices.Exeккуери**](swbemservices-execquery.md) запросы данных. Поставщики также имеют методы, определенные в регистрируемых ими классах. Примерами являются [**методы \_ Win32 LogicalDisk**](/windows/desktop/CIMWin32Prov/win32-logicaldisk) [**chkdsk**](/windows/desktop/CIMWin32Prov/chkdsk-method-in-class-win32-logicaldisk) и [**счедулеауточк**](/windows/desktop/CIMWin32Prov/scheduleautochk-method-in-class-win32-logicaldisk) , предоставляемые [поставщиком Win32](/windows/desktop/CIMWin32Prov/win32-provider).
+Инструментарий WMI предоставляет методы в [API COM](com-api-for-wmi.md) и [API сценариев](scripting-api-for-wmi.md) для получения информации или работы с объектами в корпоративной системе. Например, метод создания скриптов WMI [**SwbemServices. ExecQuery**](swbemservices-execquery.md) запрашивает данные. Поставщики также имеют методы, определенные в регистрируемых ими классах. Примерами являются [**методы \_ Win32 LogicalDisk**](/windows/desktop/CIMWin32Prov/win32-logicaldisk) [**chkdsk**](/windows/desktop/CIMWin32Prov/chkdsk-method-in-class-win32-logicaldisk) и [**счедулеауточк**](/windows/desktop/CIMWin32Prov/scheduleautochk-method-in-class-win32-logicaldisk) , предоставляемые [поставщиком Win32](/windows/desktop/CIMWin32Prov/win32-provider).
 
 В этом разделе обсуждаются следующие разделы:
 
@@ -35,7 +35,7 @@ ms.locfileid: "118820091"
 
 Следующие методы WMI и поставщика находятся в [API скриптов для WMI](scripting-api-for-wmi.md):
 
--   **objWMIService.Exeккуери** вызывает метод создания сценариев WMI [ **SWbemServices.Exeккуери**](/windows/desktop/api/WbemCli/nf-wbemcli-iwbemservices-execquery)
+-   **обжвмисервице. ExecQuery** вызывает метод создания сценариев WMI [ **SwbemServices. ExecQuery**](/windows/desktop/api/WbemCli/nf-wbemcli-iwbemservices-execquery)
 -   **обжсервице. No ()** вызывает метод поставщика [ **Win32 \_ Service.**](/windows/desktop/CIMWin32Prov/stopservice-method-in-class-win32-service)
 
 Вы можете найти код, который может появиться в разделе "return" раздела "коды возврата" для [**\_ службы Win32**](/windows/desktop/CIMWin32Prov/win32-service).
@@ -89,7 +89,7 @@ foreach ($objService in $colServices)
 Вызывать методы, которые не возвращают большие наборы данных, следует только в синхронном режиме. В синхронном режиме можно безопасно вызывать следующие методы [**SwbemServices**](swbemservices.md) :
 
 -   [**SWbemServices. Delete**](swbemservices-delete.md)
--   [**SWbemServices.ExeКмесод**](swbemservices-execmethod.md)
+-   [**SWbemServices. ExecMethod**](swbemservices-execmethod.md)
 -   [**SWbemServices. Get**](swbemservices-get.md)
 
 Любые методы [**SwbemServices**](swbemservices.md) без слова «Async» в имени могут вызываться в синхронном режиме путем установки значения **вбемфлагретурнвхенкомплете** в параметре *ифлагс* .
@@ -104,9 +104,9 @@ foreach ($objService in $colServices)
 
 -   [**SWbemServices. АссоЦиаторсофасинк**](swbemservices-associatorsofasync.md)
 -   [**SWbemServices. DeleteAsync**](swbemservices-deleteasync.md)
--   [**SWbemServices.ExeКмесодасинк**](swbemservices-execmethodasync.md)
--   [**SWbemServices.ExeКнотификатионкуерясинк**](swbemservices-execnotificationqueryasync.md)
--   [**SWbemServices.ExeКкуерясинк**](swbemservices-execqueryasync.md)
+-   [**SWbemServices. Ексекмесодасинк**](swbemservices-execmethodasync.md)
+-   [**SWbemServices. ExecNotificationQueryAsync**](swbemservices-execnotificationqueryasync.md)
+-   [**SWbemServices. Ексеккуерясинк**](swbemservices-execqueryasync.md)
 -   [**SWbemServices. Инстанцесофасинк**](swbemservices-instancesofasync.md)
 -   [**SWbemServices. Референцестоасинк**](swbemservices-referencesto.md)
 -   [**SWbemServices. Субклассесофасинк**](swbemservices-subclassesofasync.md)
@@ -130,9 +130,9 @@ foreach ($objService in $colServices)
 
 -   [**SWbemServices. АссоЦиаторсоф**](swbemservices-associatorsof.md)
 -   [**SWbemServices. Delete**](swbemservices-delete.md)
--   [**SWbemServices.ExeКмесод**](swbemservices-execmethod.md)
--   [**SWbemServices.ExeКнотификатионкуери**](swbemservices-execnotificationquery.md)
--   [**SWbemServices.ExeКкуери**](swbemservices-execquery.md)
+-   [**SWbemServices. ExecMethod**](swbemservices-execmethod.md)
+-   [**SWbemServices. Ексекнотификатионкуери**](swbemservices-execnotificationquery.md)
+-   [**SWbemServices. ExecQuery**](swbemservices-execquery.md)
 -   [**SWbemServices. Get**](swbemservices-get.md)
 -   [**SWbemServices. Инстанцесоф**](swbemservices-instancesof.md)
 -   [**SWbemServices. Референцесто**](swbemservices-referencesto.md)

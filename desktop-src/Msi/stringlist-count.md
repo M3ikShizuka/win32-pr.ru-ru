@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: ec60ee57edb7aea7ce65fe07892a57e6fe93706372ade8dc3745b5a2ee3ef42d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b880b6d6c7c995c2aff1a40e7e4fcc6908eb7c58
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119627314"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057594"
 ---
 # <a name="stringlistcount-property"></a>Стринглист. Count, свойство
 
@@ -37,7 +37,7 @@ propVal = StringList.Count
 
 ## <a name="property-value"></a>Значение свойства
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Клиент должен убедиться, что объект [**стринглист**](stringlist-object.md) существует и не пуст, прежде чем ссылаться на свойство **Count** .
 

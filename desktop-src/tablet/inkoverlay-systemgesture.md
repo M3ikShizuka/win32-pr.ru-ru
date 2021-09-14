@@ -1,17 +1,17 @@
 ---
-description: InkOverlay.SysТемжестуре событие — происходит при распознавании системного жеста.
+description: Событие InkOverlay. Системжестуре — происходит при распознавании системного жеста.
 ms.assetid: 6f82b234-2088-4207-a6b4-6c6919623d6a
-title: Событие InkOverlay.SysТемжестуре (Мсинкаут. h)
+title: Событие InkOverlay. Системжестуре (Мсинкаут. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3e1e55048a60edef4344ec3b566b08de29d9f3d0a16ccccc1f3094949c2aec86
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3498d6b5fa779f6a15866ac93d53be8348f3d1a5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118218767"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256615"
 ---
-# <a name="inkoverlaysystemgesture-event"></a>Событие InkOverlay.SysТемжестуре
+# <a name="inkoverlaysystemgesture-event"></a>Событие InkOverlay. Системжестуре
 
 Происходит при распознавании системного жеста.
 
@@ -89,7 +89,7 @@ void SystemGesture(
 
 Это событие не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Системные жесты полезны, поскольку они предоставляют сведения об объекте [**иинккурсор**](/windows/desktop/api/msinkaut/nn-msinkaut-iinkcursor) , который используется для создания жеста. Они также предоставляют сочетания клавиш для сочетаний событий мыши и являются «более дешевыми» способами обнаружения событий мыши.
 
@@ -109,7 +109,7 @@ void SystemGesture(
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                                                       |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                                           |
-| Header<br/>                   | <dl> <dt>Мсинкаут. h (также требуется Мсинкаут \_ i. c)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мсинкаут. h (также требуется Мсинкаут \_ i. c)</dt> </dl> |
 | Библиотека<br/>                  | <dl> <dt>InkObj.dll</dt> </dl>                               |
 
 

@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: c2e7468b0e3698a72d3dce82bbd1591d59940d9a
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124370665"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057465"
 ---
 # <a name="mciwndm_getposition-message"></a>\_Сообщение мЦивндм
 
@@ -68,7 +68,7 @@ lParam = (LPARAM) (LPTSTR) lp;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

@@ -5,11 +5,11 @@ title: Таблица Реглокатор
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: db5084b8c6fd8d10372759bdba65abbb4dfe7261
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105663057"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057636"
 ---
 # <a name="reglocator-table"></a>Таблица Реглокатор
 
@@ -118,7 +118,7 @@ ms.locfileid: "105663057"
 
 Обратите внимание, что невозможно использовать таблицу Реглокатор для проверки только наличия ключа. Однако можно найти значение по умолчанию для ключа и получить его значение, если оно не пустое.
 
-Дополнительные сведения см. в разделе [Поиск существующих приложений, файлов, записей реестра или INI-файлов](searching-for-existing-applications-files-registry-entries-or--ini-file-entries.md).
+Дополнительные сведения см. в разделе [Поиск существующих приложений, файлов, записей реестра или .ini записей файлов](searching-for-existing-applications-files-registry-entries-or--ini-file-entries.md).
 
 ## <a name="validation"></a>Проверка
 

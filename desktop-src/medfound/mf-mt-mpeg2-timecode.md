@@ -4,12 +4,12 @@ ms.assetid: B172E7A8-5757-49B7-A784-FAFC7E904A4C
 title: Атрибут MF_MT_MPEG2_TIMECODE (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fc7a4ce6868f783ed33c50acd5a8648297648481a58c74198b0dcadd1bd237bf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8bc9db5d7b3c6e94f7845bec2bd98c569d1b1f9c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118741781"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257848"
 ---
 # <a name="mf_mt_mpeg2_timecode-attribute"></a>Атрибут времени с кодом MF \_ MT \_ MPEG2 \_
 
@@ -30,7 +30,7 @@ ms.locfileid: "118741781"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -38,7 +38,7 @@ ms.locfileid: "118741781"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8 \[ приложения UWP для классических приложений \|\]<br/>                                  |
 | Минимальная версия сервера<br/> | Windows Server 2012 \[ приложения UWP для классических приложений \|\]<br/>                        |
-| Header<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: 63915450-71c5-4097-91d7-5817249c1cda
 title: Свойство MFPKEY_CRISP (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 177ae5e9d1c8a9aba359000e04483c8e45c44f823c9db924155dd5ef3d5989a8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 04ff20b37bcedf3995ec3e16178b823c40b352ba
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119954264"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257648"
 ---
 # <a name="mfpkey_crisp-property"></a>\_Четкое свойство мфпкэй
 
@@ -27,7 +27,7 @@ VT \_ I4
 
 75
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это целое значение может находиться в диапазоне от 0 до 100. Чем выше значение, тем больше кодек будет оптимизировать кодирование для качества изображения отдельных кадров, что обычно сокращает гладкость движения.
 

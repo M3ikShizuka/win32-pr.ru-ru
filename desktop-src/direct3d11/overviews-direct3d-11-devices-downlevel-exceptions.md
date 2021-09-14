@@ -5,11 +5,11 @@ ms.assetid: b3f85036-8572-40ee-b522-3b677443b840
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 97920ae42347cf618b22df82abc3b6e06bd5200d
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104338993"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127240880"
 ---
 # <a name="exceptions"></a>Исключения
 
@@ -19,7 +19,7 @@ ms.locfileid: "104338993"
 -   [Многовыборочное сглаживание](#multisample-anti-aliasing)
 -   [Размеры Texture2D](#texture2d-sizes)
 -   [Особое поведение адаптеров для уровня функций 9](#special-behavior-of-adapters-for-feature-level-9)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 В разделе [справочника 10Level9](d3d11-graphics-reference-10level9.md) перечислены различия между различными методами [**ID3D11Device**](/windows/desktop/api/D3D11/nn-d3d11-id3d11device) и [**ссылку ID3D11DeviceContext**](/windows/desktop/api/D3D11/nn-d3d11-id3d11devicecontext) на различных уровнях функций 10Level9.
 
@@ -52,13 +52,13 @@ ms.locfileid: "104338993"
 
 Три самых низких уровня функций: уровень компонентов D3D 9 \_ \_ \_ \_ 1, \_ D3D \_ уровня \_ 9 \_ 2 и D3D \_ \_ уровень функции \_ 9 \_ 3, совместно использовать общую библиотеку DLL реализации и рассматривать аргумент [**идксгиадаптер**](/windows/desktop/api/dxgi/nn-dxgi-idxgiadapter) как D3D11CreateDevice \[ андсвапчаин в \] качестве адаптера шаблонов и создавать собственные адаптеры в процессе создания устройства. Это означает, что **идксгиадаптер** , переданный в подпрограммы создания, не будет совпадать с адаптером, полученным с устройства через идксгидевице:: 10/100/1000BASE-t. Это влияет на то, что **идксгиаутпутс** , перечисленные из переданного адаптера, нельзя использовать для входа в полноэкранный режим с помощью любого устройства уровня 9, так как эти выходные данные не принадлежат адаптеру устройства. Рекомендуется отбросить переданный адаптер шаблонов и получить созданный адаптер устройства с помощью Идксгидевице::-Adapter, где [**идксгидевице**](/windows/desktop/api/dxgi/nn-dxgi-idxgidevice) можно получить с помощью QueryInterface из интерфейса устройства Direct3D.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Direct3D 11 на оборудовании нижнего уровня](overviews-direct3d-11-devices-downlevel.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

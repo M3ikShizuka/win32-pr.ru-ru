@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - IACom.dll
-ms.openlocfilehash: 22d9ac16976b1cd61d5d2e403424fc9ed08b8da0cbfcced213decc512a1f1e5d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bd52a5ce4563827fb22a00f79113fe1e80e852b3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118047396"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256849"
 ---
 # <a name="_ianalysiseventsresults-event"></a>\_Событие Ианалисисевентс:: Results
 
@@ -58,7 +58,7 @@ HRESULT Results(
 
 Описание возвращаемых значений см. в разделе [классы и интерфейсы — анализ рукописного ввода](classes-and-interfaces---ink-analysis.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 [**Иинканализер**](iinkanalyzer.md) создает это событие после того, как оно выверят результаты для этапа окончательного анализа.
 
@@ -83,7 +83,7 @@ HRESULT Results(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

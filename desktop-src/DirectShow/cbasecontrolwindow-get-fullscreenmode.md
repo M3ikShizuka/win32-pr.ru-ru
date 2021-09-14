@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: cebd74fd51551249c339100ac2dd3eda4a171cc316cca575f27f5194480978ae
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fc77b43db2bb420e6cfe2eace44e96e1ab43b0cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118660537"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971977"
 ---
 # <a name="cbasecontrolwindowget_fullscreenmode-method"></a>Кбасеконтролвиндов. Get \_ фуллскринмоде, метод
 
@@ -53,11 +53,11 @@ HRESULT get_FullScreenMode(
 
 Возвращает значение **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция – член \_ по умолчанию возвращает E нотимпл. Это информирует распространитель подключаемого модуля [**ивидеовиндов**](/windows/desktop/api/Control/nn-control-ivideowindow) о том, что этот модуль подготовки отчетов не реализует полноэкранный визуализатор.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

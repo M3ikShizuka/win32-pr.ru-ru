@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 64e833ef495ace41a9dcd1614b69e4a081befce0e429fa7aad800a73ce490439
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4185c02b396f7d0d570081ba1401e0ec9e301d46
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119916394"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971882"
 ---
 # <a name="cbasepinisstopped-method"></a>Кбасепин. метод Stopped
 
@@ -44,11 +44,11 @@ BOOL IsStopped();
 
 Возвращает **значение true** , если фильтр остановлен. В противном случае возвращает **значение false**.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Не вызывайте этот метод из в методе конструктора **кбасепин** , так как фильтр, возможно, еще не инициализирован.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ BOOL IsStopped();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

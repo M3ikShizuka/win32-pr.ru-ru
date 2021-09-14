@@ -6,12 +6,12 @@ keywords:
 - хвиневенсук
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1a26a2593af7db4520248b5ee319fd4143a79ab1393cef02365d1fe3ea8cc3f2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dbf526846916dfdd701f4f5ee98778dbbe9e66d9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118994154"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127240931"
 ---
 # <a name="hwineventhook"></a>хвиневенсук
 
@@ -24,11 +24,11 @@ typedef HANDLE HWINEVENTHOOK;
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот тип данных используется с функцией обратного вызова [*виневентпрок*](/windows/desktop/api/Winuser/nc-winuser-wineventproc) и функциями [**сетвиневенсук**](/windows/desktop/api/Winuser/nf-winuser-setwineventhook) и [**унхуквиневент**](/windows/desktop/api/Winuser/nf-winuser-unhookwinevent) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

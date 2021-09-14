@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - IACom.h
-ms.openlocfilehash: 1cd187b2a6efed6de5e6ee866cbd2e75ad67defc67b4b6d2250eb9117c62d89e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 82e10c7e908b4cc4035d8bfdde55d863f7b6ecf2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119941184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256813"
 ---
 # <a name="contextlinkdirection-enumeration"></a>Перечисление Контекстлинкдиректион
 
@@ -110,7 +110,7 @@ while (pAncestor != NULL)
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -122,7 +122,7 @@ while (pAncestor != NULL)
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
