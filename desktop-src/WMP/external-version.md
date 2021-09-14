@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0d50a7c21efa758f60aa70a6ac54d884768b3863f6de3b253843232fbbafe623
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2a8a4de5ba5fa521841a5c2de90b9ae39e7aa86d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118339195"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241795"
 ---
 # <a name="externalversion"></a>Внешняя. версия
 
@@ -40,7 +40,7 @@ window.external.version
 
 Это свойство является **строкой**, доступная только для чтения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -51,7 +51,7 @@ window.external.version
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

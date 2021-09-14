@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: df50f9a536b367b203f395d9c856562b8967d8a5830704a2e9bbb4c69152f202
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 584e54c487ec24a3c165fdd5eb8e22f243e07f23
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119058822"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127259096"
 ---
 # <a name="imstscaxeventsonremoteprogramdisplayed-method"></a>Метод Имстскаксевентс:: Онремотепрограмдисплайед
 

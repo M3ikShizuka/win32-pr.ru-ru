@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a651add93e32c1c2eb82827a4089a338341f2506ba26d9fbb06061aa6d185d75
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: acaecb559e7df60067e89ec754ec9432233500f4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119648345"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241828"
 ---
 # <a name="externalshowpopup-method"></a>External. showPopup, метод
 
@@ -82,7 +82,7 @@ External.showPopup(
 
 С помощью *параметров* можно указать размер всплывающего окна. Например, если задать для *параметров* значение "длгкс = 800&длги = 400", то всплывающее окно будет иметь размер 800 пикселей на 400 пикселей.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -93,7 +93,7 @@ External.showPopup(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

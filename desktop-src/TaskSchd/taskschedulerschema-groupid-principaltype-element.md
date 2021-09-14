@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 4376e7037c228ebf2d2ffdc193cc34e7f92647220251cd82f09b0b65c7f9a81c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 080a408f65ac7a36ada1751bbd5cb95395cf0b35
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118131843"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127259336"
 ---
 # <a name="groupid-principaltype-element"></a>Элемент GroupId (ПринЦипалтипе)
 
@@ -38,7 +38,7 @@ ms.locfileid: "118131843"
 
 | Элемент                                                                  | Унаследован от                                                           | Описание                                                    |
 |--------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------|
-| [**Основной**](taskschedulerschema-principal-principaltype-element.md) | [**принЦипалтипе**](taskschedulerschema-principaltype-complextype.md) | Указывает учетные данные безопасности для участника.<br/> |
+| [**Основной**](taskschedulerschema-principal-principaltype-element.md) | [**principalType**](taskschedulerschema-principaltype-complextype.md) | Указывает учетные данные безопасности для участника.<br/> |
 
 
 
@@ -54,7 +54,7 @@ ms.locfileid: "118131843"
 
 Полный пример XML-кода для задачи, использующей этот элемент, см. в разделе [пример триггера LOGON (XML)](logon-trigger-example--xml-.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -65,7 +65,7 @@ ms.locfileid: "118131843"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

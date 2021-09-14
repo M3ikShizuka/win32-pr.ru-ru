@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 9121179b744857d5e7d0bec5a2ae814c603c6b1c
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122885847"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127259179"
 ---
 # <a name="logontype-principaltype-element"></a>LogonType (ПринЦипалтипе), элемент
 
@@ -38,11 +38,11 @@ ms.locfileid: "122885847"
 
 | Элемент                                                                  | Унаследован от                                                           | Описание                                                    |
 |--------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------|
-| [**Основного**](taskschedulerschema-principal-principaltype-element.md) | [**принЦипалтипе**](taskschedulerschema-principaltype-complextype.md) | Указывает учетные данные безопасности для участника.<br/> |
+| [**Основной**](taskschedulerschema-principal-principaltype-element.md) | [**principalType**](taskschedulerschema-principaltype-complextype.md) | Указывает учетные данные безопасности для участника.<br/> |
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Элемент **LogonType** и элемент [**UserID**](taskschedulerschema-userid-principaltype-element.md) используются совместно для определения пользователя, необходимого для выполнения этих задач, использующих этот участник.
 

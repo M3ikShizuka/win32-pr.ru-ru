@@ -14,12 +14,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: a42aa17ae4cb5ca9177c5ff068745d506d89e0db8d71253148ab5adafa39baea
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c89d0e593277f1c854850017412b49c22d8ac436
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117758906"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127259192"
 ---
 # <a name="logontrigger-triggergroup-element"></a>Логонтригжер (Тригжерграуп), элемент
 
@@ -39,7 +39,7 @@ ms.locfileid: "117758906"
 
 | Элемент                                                           | Унаследован от                                                         | Описание                                            |
 |-------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------|
-| [**План**](taskschedulerschema-triggers-tasktype-element.md) | [**тригжерстипе**](taskschedulerschema-triggerstype-complextype.md) | Задает триггеры, которые запускают задачу.<br/> |
+| [**Триггеры**](taskschedulerschema-triggers-tasktype-element.md) | [**тригжерстипе**](taskschedulerschema-triggerstype-complextype.md) | Задает триггеры, которые запускают задачу.<br/> |
 
 
 

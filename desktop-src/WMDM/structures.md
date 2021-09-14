@@ -9,12 +9,12 @@ keywords:
 - справочник по Windows Media диспетчер устройств, структуры
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5fd0048a7cf3b87f09bb46ef6f6db74531b4b67a7364acd28099feed04bb8dec
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7cc49deb3f4dd28695f5e0e7c3a871c53fa96300
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119865544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242008"
 ---
 # <a name="wmdm-structures"></a>Структуры ВМДМ
 

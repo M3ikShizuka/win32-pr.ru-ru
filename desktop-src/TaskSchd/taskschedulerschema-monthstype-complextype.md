@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: a0873f07cc76af9fab827c3df98a8f08ef300de93d4ae6b316809ba32aac87ba
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e6a19000073fd12e05aa915921850264979a0541
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117758750"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127259099"
 ---
 # <a name="monthstype-complex-type"></a>Сложный тип Монсстипе
 
@@ -97,18 +97,18 @@ ms.locfileid: "117758750"
 
 | Элемент                                                               | Тип | Описание                                            |
 |-----------------------------------------------------------------------|------|--------------------------------------------------------|
-| [**Апрель**](taskschedulerschema-april-monthstype-element.md)         | н/д  | Указывает, что задача выполняется в апреле. <br/>     |
-| [**Август**](taskschedulerschema-august-monthstype-element.md)       | н/д  | Указывает, что задача выполняется в августе. <br/>    |
-| [**Декабрь**](taskschedulerschema-december-monthstype-element.md)   | н/д  | Указывает, что задача выполняется в декабре. <br/>  |
-| [**Февраль**](taskschedulerschema-february-monthstype-element.md)   | н/д  | Указывает, что задача выполняется в феврале. <br/>  |
-| [**Январь**](taskschedulerschema-january-monthstype-element.md)     | н/д  | Указывает, что задача выполняется в январе. <br/>   |
-| [**Июль**](taskschedulerschema-july-monthstype-element.md)           | н/д  | Указывает, что задача выполняется в июле. <br/>      |
-| [**Июнь**](taskschedulerschema-june-monthstype-element.md)           | н/д  | Указывает, что задача выполняется в июне. <br/>      |
-| [**Март**](taskschedulerschema-march-monthstype-element.md)         | н/д  | Указывает, что задача выполняется в марте. <br/>     |
-| [**Май**](taskschedulerschema-may-monthstype-element.md)             | н/д  | Указывает, что задача выполняется в Май. <br/>       |
-| [**Ноябрь**](taskschedulerschema-november-monthstype-element.md)   | н/д  | Указывает, что задача выполняется в ноябре. <br/>  |
-| [**Октябрь**](taskschedulerschema-october-monthstype-element.md)     | н/д  | Указывает, что задача выполняется в октябре. <br/>   |
-| [**Сентябрь**](taskschedulerschema-september-monthstype-element.md) | н/д  | Указывает, что задача выполняется в сентябре. <br/> |
+| [**Апрель**](taskschedulerschema-april-monthstype-element.md)         | Недоступно  | Указывает, что задача выполняется в апреле. <br/>     |
+| [**Август**](taskschedulerschema-august-monthstype-element.md)       | Недоступно  | Указывает, что задача выполняется в августе. <br/>    |
+| [**Декабрь**](taskschedulerschema-december-monthstype-element.md)   | Недоступно  | Указывает, что задача выполняется в декабре. <br/>  |
+| [**Февраль**](taskschedulerschema-february-monthstype-element.md)   | Недоступно  | Указывает, что задача выполняется в феврале. <br/>  |
+| [**Январь**](taskschedulerschema-january-monthstype-element.md)     | Недоступно  | Указывает, что задача выполняется в январе. <br/>   |
+| [**Июль**](taskschedulerschema-july-monthstype-element.md)           | Недоступно  | Указывает, что задача выполняется в июле. <br/>      |
+| [**Июнь**](taskschedulerschema-june-monthstype-element.md)           | Недоступно  | Указывает, что задача выполняется в июне. <br/>      |
+| [**Март**](taskschedulerschema-march-monthstype-element.md)         | Недоступно  | Указывает, что задача выполняется в марте. <br/>     |
+| [**Май**](taskschedulerschema-may-monthstype-element.md)             | Недоступно  | Указывает, что задача выполняется в Май. <br/>       |
+| [**Ноябрь**](taskschedulerschema-november-monthstype-element.md)   | Недоступно  | Указывает, что задача выполняется в ноябре. <br/>  |
+| [**Октябрь**](taskschedulerschema-october-monthstype-element.md)     | Недоступно  | Указывает, что задача выполняется в октябре. <br/>   |
+| [**Сентябрь**](taskschedulerschema-september-monthstype-element.md) | Недоступно  | Указывает, что задача выполняется в сентябре. <br/> |
 
 
 

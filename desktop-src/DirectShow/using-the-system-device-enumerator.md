@@ -4,12 +4,12 @@ ms.assetid: 70db139c-2c5b-4574-bec3-dfe758b16715
 title: Использование перечислителя системных устройств
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7192a1ea85d807dd388b79eef455edf59c83d3c22ab3a4a330799b3491253bb6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 88f8f66cb64e9f7bb51d6b0716b9fa23cf531435
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120083542"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127275048"
 ---
 # <a name="using-the-system-device-enumerator"></a>Использование перечислителя системных устройств
 

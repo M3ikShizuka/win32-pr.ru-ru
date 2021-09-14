@@ -13,11 +13,11 @@ api_type:
 - UserDefined
 api_location: ''
 ms.openlocfilehash: c78caa3b8e08ade9c674a11d113a8b91b8f5fad1
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103809304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127259456"
 ---
 # <a name="scesvcattachmentconfig-callback-function"></a>Функция обратного вызова Сцесвкаттачментконфиг
 
@@ -49,7 +49,7 @@ SCESTATUS WINAPI SceSvcAttachmentConfig(
 
 Если эта функция завершается успешно, возвращается СЦЕСТАТУС \_ Success. В противном случае возвращается код ошибки. Дополнительные сведения о кодах ошибок конфигурации безопасности см. в разделе [возвращаемые значения вложений](management-return-values.md).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 При реализации этой функции используйте функцию обратного вызова, на которую указывает член **пфкуеринфо** структуры [**\_ обратного вызова \_ Сцесвк**](/windows/win32/api/scesvc/ns-scesvc-scesvc_callback_info) (псцекбинфо->пфкуеринфо), чтобы получить сведения о конфигурации. Затем настройте службу, используя возвращенные сведения.
 
@@ -66,8 +66,8 @@ SCESTATUS WINAPI SceSvcAttachmentConfig(
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>          |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>          |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/> |
 
 
 

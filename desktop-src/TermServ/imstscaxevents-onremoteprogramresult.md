@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 807fbd49cc6222925f34a7e7c007fef54cbc9a3db2566f024ebc0188e9c95113
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 880e4fb3f6453114415f5bcc07a0afb9c176a1bd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118129666"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127259091"
 ---
 # <a name="imstscaxeventsonremoteprogramresult-method"></a>Метод Имстскаксевентс:: Онремотепрограмресулт
 
@@ -164,7 +164,7 @@ VOID OnRemoteProgramResult(
 
 этот метод вызывается сразу после того, как элемент управления ActiveX пытается запустить программу RemoteApp, а параметр *леррор* указывает результат попытки.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -178,7 +178,7 @@ VOID OnRemoteProgramResult(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

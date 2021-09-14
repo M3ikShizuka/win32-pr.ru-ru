@@ -12,12 +12,12 @@ api_name:
 api_type:
 - UserDefined
 api_location: ''
-ms.openlocfilehash: 9bb84cc6a8492c729926b644a246b8ee8a03e1de4c2eae6e3de1fd88c5ba339f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 296d755a0b082b46122432936d30614019b8b9a8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119004922"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127259467"
 ---
 # <a name="scesvcattachmentanalyze-callback-function"></a>Функция обратного вызова Сцесвкаттачментанализе
 
