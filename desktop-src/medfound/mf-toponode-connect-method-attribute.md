@@ -5,11 +5,11 @@ title: Атрибут MF_TOPONODE_CONNECT_METHOD (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: e3db5fef529ef451fa02ac4a29e62002b0a1996a
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104272107"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363912"
 ---
 # <a name="mf_toponode_connect_method-attribute"></a>\_ \_ Атрибут метода Connect топоноде MF \_
 
@@ -19,7 +19,7 @@ ms.locfileid: "104272107"
 
 **UINT32**
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот атрибут применяется ко всем типам узлов.
 
@@ -33,9 +33,9 @@ ms.locfileid: "104272107"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                     |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                               |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                               |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 

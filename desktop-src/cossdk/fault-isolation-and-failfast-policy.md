@@ -5,11 +5,11 @@ title: Изоляция сбоев и политика FailFast
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: cc097a6d45f10d4ef8a8d059b1376862edd785ed
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104538726"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342051"
 ---
 # <a name="fault-isolation-and-failfast-policy"></a>Изоляция сбоев и политика FailFast
 
@@ -21,7 +21,7 @@ COM+ не позволяет распространять исключения �
 
 Разработчик или администратор должен изучить журнал приложений Просмотр событий, чтобы получить подробные сведения о любом действии FailFast или серьезных ошибках приложения.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

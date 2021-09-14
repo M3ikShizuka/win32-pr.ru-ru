@@ -4,12 +4,12 @@ description: Клиентские приложения Microsoft Active Accessib
 ms.assetid: b82467f0-0d46-482a-8f6d-ad64f236601e
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 28ea0d7936671a68c140c6d22fdc3afdad0db0899c9c2cbc51637dcf36d9ad55
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 45d4006bf073075f2aa47a9911565213050e3d11
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118994204"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342142"
 ---
 # <a name="getting-an-accessible-object-interface-pointer"></a>Получение указателя на интерфейсный объект с доступом
 

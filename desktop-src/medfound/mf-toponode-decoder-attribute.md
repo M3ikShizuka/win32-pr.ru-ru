@@ -4,12 +4,12 @@ ms.assetid: b6d576dc-b12f-49bf-b938-db2c629df400
 title: Атрибут MF_TOPONODE_DECODER (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8f8946e9de4131ce62a7ab76119b4a409cea03b1d05000a5c28c3cbab4bdcf3d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6ab16d14a91608fb6b21c901e3fb055ce5e4dfbe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117875188"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363908"
 ---
 # <a name="mf_toponode_decoder-attribute"></a>\_ \_ Атрибут декодера MF топоноде
 
@@ -31,7 +31,7 @@ ms.locfileid: "117875188"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ ms.locfileid: "117875188"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

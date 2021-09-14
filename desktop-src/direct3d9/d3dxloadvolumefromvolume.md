@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 634d455a0611faabd9005d674af920d1fccd67534eedd2dedba68d08678f9b0a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: da2cedf42533fa1d170269e97a366f7e4a1a41f5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118525325"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342031"
 ---
 # <a name="d3dxloadvolumefromvolume-function"></a>Функция D3DXLoadVolumeFromVolume
 
@@ -125,7 +125,7 @@ HRESULT D3DXLoadVolumeFromVolume(
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, D3DXERR \_ INVALIDDATA.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Запись на поверхность текстуры, не равную нулю, не приведет к обновлению «грязного» прямоугольника. Если вызывается **D3DXLoadVolumeFromVolume** и поверхность не была изменена (это маловероятно в нормальных сценариях использования), приложение должно явным образом вызвать [**IDirect3DVolumeTexture9:: адддиртибокс**](/windows/win32/api/d3d9helper/nf-d3d9helper-idirect3dvolumetexture9-adddirtybox) на поверхности.
 

@@ -15,12 +15,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 35084fafb92b3716208aa6062f065cc4e25a45d2d1a412083076b9e355d2ce43
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ec2b2edfa3a98dfdbbdd1d236acb6e1f1433f141
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118735614"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363536"
 ---
 # <a name="ibasicdevicefriendlyname-method"></a>Метод Ибасикдевице:: FriendlyName
 

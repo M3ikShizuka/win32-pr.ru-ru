@@ -4,12 +4,12 @@ ms.assetid: 872140e8-fd39-446c-a84f-1e04ea95076e
 title: Атрибут MF_TRANSCODE_QUALITYVSSPEED (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7498cd319f347d8509f42e1713e1b2e267b32406eceb073ea9ca1e4cb4ea8d80
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ec4d95fab92276e926189c885dad2ecb8f164a97
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119604674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363892"
 ---
 # <a name="mf_transcode_qualityvsspeed-attribute"></a>\_Атрибут куалитивсспид для ПЕРЕКОДИРОВАНИЯ MF \_
 
@@ -46,7 +46,7 @@ ms.locfileid: "119604674"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -56,7 +56,7 @@ ms.locfileid: "119604674"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

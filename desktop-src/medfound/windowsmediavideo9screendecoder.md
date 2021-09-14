@@ -4,12 +4,12 @@ ms.assetid: 6688a830-7a54-4f58-947e-26013e191b5f
 title: Windows Экранный декодер видео 9 (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0c2e081423c4c5efc2d44fdf78c7c6a94a00dae86d40d761a06ab0de07fa5d1e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fd9dcdce920fa39437edb769fd575a7d7a0d68fb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119462394"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363604"
 ---
 # <a name="windows-media-video-9-screen-decoder"></a>Windows Экранный декодер видео 9
 
@@ -66,14 +66,14 @@ ms.locfileid: "119462394"
 
 Вы можете использовать один CLSID (CLSID \_ кмсскдекмедиаобжект) для создания декодера экрана версии 7 и декодера экрана версии 9. значение FOURCC для Windows Media Video экрана с кодировкой 7 — "MSS1". Декодер экрана версии 7 поддерживает \_ входной тип медиасубтипе MSS1.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------|-----------------------------------------------------------------------------------------|
 | Клиент<br/> | Windows XP, Windows Vista или Windows 7<br/>                                       |
-| Header<br/> | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
 | DLL<br/>    | <dl> <dt>Wmvsdecd.dll</dt> </dl> |
 
 

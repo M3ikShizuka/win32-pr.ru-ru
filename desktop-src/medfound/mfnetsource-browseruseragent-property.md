@@ -4,12 +4,12 @@ ms.assetid: b6c33cc8-ff43-4a19-a333-51a7f9b265a9
 title: Свойство MFNETSOURCE_BROWSERUSERAGENT (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cf46fde925dbe2d94643a0843d105726f0976ba7a84f47773ef35e32ae8dfde7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5f8cbb4dcd5558c59da20e75209529c16fc0c147
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119954864"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363860"
 ---
 # <a name="mfnetsource_browseruseragent-property"></a>МФНЕТСАУРЦЕ \_ бровсерусеражент, свойство
 
@@ -37,7 +37,7 @@ VT \_ LPWSTR
 
 Приложения могут использовать это свойство для настройки сетевого источника. Чтобы задать свойство, передайте указатель **ипропертисторе** в сопоставитель источника. Дополнительные сведения см. [в разделе Настройка источника мультимедиа](configuring-a-media-source.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -49,7 +49,7 @@ VT \_ LPWSTR
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

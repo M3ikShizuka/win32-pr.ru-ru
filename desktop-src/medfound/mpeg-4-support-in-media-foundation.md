@@ -5,11 +5,11 @@ title: Поддержка MPEG-4 в Media Foundation
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 054565a4d139fe70ad7736044c3a7ff708db5023
-ms.sourcegitcommit: c16214e53680dc71d1c07111b51f72b82a4512d8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "103914171"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363725"
 ---
 # <a name="mpeg-4-support-in-media-foundation"></a>Поддержка MPEG-4 в Media Foundation
 
@@ -23,7 +23,7 @@ ms.locfileid: "103914171"
 -   [Приемник файлов MPEG-4](mpeg-4-file-sink.md)
 -   [Источник файла MPEG-4](mpeg-4-file-source.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

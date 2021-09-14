@@ -4,24 +4,24 @@ ms.assetid: 4b65ced8-8dc9-43f6-bfe1-3703aea3459f
 title: 'Пример кода: расширения оболочки для обработчиков протоколов'
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d1f2a29fb75ee6838b207648e2b58d634e19eb977f6d0abedb01ba450968756e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e436f1d7ad746181be8cb3c43375abe3656c544b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119033112"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363273"
 ---
 # <a name="code-sample-shell-extensions-for-protocol-handlers"></a>Пример кода: расширения оболочки для обработчиков протоколов
 
 В следующем примере кода показано, как создать расширения оболочки для пользовательского обработчика протокола.
 
-## <a name="sample-code"></a>Пример кода
+## <a name="sample-code"></a>Образец кода
 
 > [!Note]
 >
 > **ЭТОТ КОД И ИНФОРМАЦИЯ ПРЕДОСТАВЛЯЮТСЯ "КАК ЕСТЬ" БЕЗ КАКИХ-ЛИБО ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ ГАРАНТИЙ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ ПОДРАЗУМЕВАЕМЫМИ ГАРАНТИЯМИ ПРИГОДНОСТИ И (ИЛИ) ПРИГОДНОСТИ ДЛЯ КОНКРЕТНОЙ ЦЕЛИ.**
 >
-> (C) корпорация Майкрософт (Microsoft Corporation). All rights reserved.
+> (C) корпорация Майкрософт (Microsoft Corporation). Все права защищены.
 
  
 
@@ -506,7 +506,7 @@ STDMETHODIMP CSampleShellFolder::SetNameOf(
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Разработка обработчиков протоколов](-search-3x-wds-phaddins.md)

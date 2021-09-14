@@ -4,12 +4,12 @@ ms.assetid: 09dc7165-22b1-4eca-9591-d83e85556f3f
 title: Принудительная активация в контексте по умолчанию
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d188fb50521e09c88a9c61136e33928176faa1f70a94680b31cf0cc1e75cb8eb
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 41599f71dc37c37c1a9a574d274ca2858835e2df
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120070764"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342055"
 ---
 # <a name="enforcing-activation-in-the-default-context"></a>Принудительная активация в контексте по умолчанию
 
@@ -35,7 +35,7 @@ ms.locfileid: "120070764"
 
 3.  Установите флажок **должен быть активирован в контексте по умолчанию**.
 
-4.  Нажмите **OK**.
+4.  Нажмите кнопку **ОК**.
 
 > [!Note]  
 > При запуске настроенного компонента в контексте по умолчанию COM+ не активирует ни одну из настроенных служб для этого компонента. Эти службы снова становятся доступными при снятии флажка **необходимо активировать в контексте по умолчанию** и последующем запуске настроенного компонента в собственном контексте.

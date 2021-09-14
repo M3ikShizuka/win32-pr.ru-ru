@@ -4,12 +4,12 @@ ms.assetid: a800d2ac-3aee-4e74-a29a-a70355138ebc
 title: языки, поддерживаемые при поиске Windows
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 812252fa6815bb8f32df684b51d4f39bca4105d7997b07bd930ab761cb082f91
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 350a8861a5817a8ac5710214ccd35c780f2c9dd5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119396544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363297"
 ---
 # <a name="languages-supported-by-windows-search"></a>языки, поддерживаемые при поиске Windows
 

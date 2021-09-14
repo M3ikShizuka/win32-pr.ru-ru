@@ -4,12 +4,12 @@ ms.assetid: 9ed761da-3f1b-47e8-b71f-becc56fe8801
 title: Свойство MFPKEY_WMAAECMA_FEATR_MICARR_BEAM (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7b9a91cef7d270af37adc8fda9805d7bf275ef9877883ed8ff8cfdbf9e7a55e7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9165eec0dee87fa5d9f6a751f41e81d0de2d9958
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119953534"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363792"
 ---
 # <a name="mfpkey_wmaaecma_featr_micarr_beam-property"></a>МФПКЭЙ \_ вмааекма \_ феатр \_ микарр, \_ свойство
 
@@ -55,7 +55,7 @@ VT \_ I4
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -67,7 +67,7 @@ VT \_ I4
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

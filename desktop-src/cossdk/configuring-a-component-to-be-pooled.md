@@ -5,11 +5,11 @@ title: Настройка компонента для объединения в 
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 780f7e1d9128b213b138e63b9dfa7e0f40642681
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104142622"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342082"
 ---
 # <a name="configuring-a-component-to-be-pooled"></a>Настройка компонента для объединения в пул
 
@@ -40,7 +40,7 @@ ms.locfileid: "104142622"
 
 6.  В поле **время ожидания создания (МС)** введите время в миллисекундах, в течение которого клиент будет ожидать объект в пуле, если он недоступен немедленно.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

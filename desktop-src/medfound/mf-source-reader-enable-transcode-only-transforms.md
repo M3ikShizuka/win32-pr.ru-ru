@@ -4,12 +4,12 @@ ms.assetid: 9463EB8C-2CA3-4F8F-8A2A-B1292879DD1B
 title: Атрибут MF_SOURCE_READER_ENABLE_TRANSCODE_ONLY_TRANSFORMS (Мфреадврите. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8bc5362c93138ef301ac65ace799ad64d59ac9110af349822e0efa98d410686e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 04a9559254216a102613d97824601c004c71bfd2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119605021"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363917"
 ---
 # <a name="mf_source_reader_enable_transcode_only_transforms-attribute"></a>MF \_ исходный \_ считыватель \_ включить \_ \_ \_ атрибут преобразования "только преобразование кода"
 
@@ -29,7 +29,7 @@ ms.locfileid: "119605021"
 
 На внутреннем уровне этот атрибут заставляет модуль чтения исходного кода включить **флаг \_ перечисления MFT \_ флага Enum \_ \_ только** при вызове [**мфтенумекс**](/windows/desktop/api/mfapi/nf-mfapi-mftenumex).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "119605021"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

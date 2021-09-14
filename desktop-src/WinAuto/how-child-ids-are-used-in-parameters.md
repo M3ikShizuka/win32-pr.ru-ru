@@ -4,12 +4,12 @@ description: В этом разделе описываются входные п
 ms.assetid: 051ec5ba-540c-4ae1-b917-4c229557ca2f
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: abc0c3be970fb4a688a0a5447b72719428e78e074cbc7a17f2b6b698fcca177f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c03026e6abf769efab95cc513231fad3af64511f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119052728"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342134"
 ---
 # <a name="how-child-ids-are-used-in-parameters"></a>Использование дочерних идентификаторов в параметрах
 
@@ -54,7 +54,7 @@ Microsoft Active Accessibility предоставляет постоянную *
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Интерфейс IDispatch](idispatch-interface.md)

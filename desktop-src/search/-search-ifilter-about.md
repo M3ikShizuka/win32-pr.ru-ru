@@ -4,12 +4,12 @@ ms.assetid: 2ee9ea19-ae03-4f14-8f06-f8aa670e204e
 title: основные сведения о обработчиках фильтров в Windows поиске
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b0a331770fba1ed0103a770209348b4dc33a1bf17b7c3e7cfa7c3e9eb78f4d36
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e49cc1d3e479ae03645665618c60a33bdcfe19ba
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117680918"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363252"
 ---
 # <a name="understanding-filter-handlers-in-windows-search"></a>основные сведения о обработчиках фильтров в Windows поиске
 
@@ -57,7 +57,7 @@ Windows Поиск запускает IFilter в контексте безопа
 
 - Ограниченный код
 - Все
-- Локальные
+- Локальная
 - Интерактивно
 - Прошедшие проверку пользователи
 - Встроенные пользователи

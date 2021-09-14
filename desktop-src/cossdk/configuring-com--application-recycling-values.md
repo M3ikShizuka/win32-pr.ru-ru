@@ -4,12 +4,12 @@ ms.assetid: 8f6a4879-cf4c-4171-8448-bc07371e038c
 title: Настройка значений перезапуска приложения COM+
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2613fb6f063a49d53baa90fad6f7dac862b848c6abf95fddcc36ace25e3d6b5a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b34c989d81f2e3486adb1d12ec76859a1d28f090
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118548646"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342074"
 ---
 # <a name="configuring-com-application-recycling-values"></a>Настройка значений перезапуска приложения COM+
 

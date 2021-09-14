@@ -4,12 +4,12 @@ ms.assetid: f36439de-e37a-457c-9485-a435847eb01e
 title: Преобразования координат текстуры (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 755af38c6c58fc2f19297b056e3e9f35ce2559a6a7a2d52e8a23c94f93f4fbaa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f45b8107f609348ae2367b1171ae7913797f4558
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119984794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127341991"
 ---
 # <a name="texture-coordinate-transformations-direct3d-9"></a>Преобразования координат текстуры (Direct3D 9)
 

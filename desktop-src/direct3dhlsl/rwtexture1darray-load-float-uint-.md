@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 5a46dde9b75d3194cc081409fe2b450c5453d7c1
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "104986280"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127341975"
 ---
 # <a name="rwtexture1darrayloadintuint-function"></a>Функция RWTexture1DArray:: Load (int, uint)
 
@@ -64,13 +64,13 @@ ms.locfileid: "104986280"
 
 Возвращаемый тип соответствует типу в объявлении для объекта [**RWTexture1DArray**](sm5-object-rwtexture1darray.md) .
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Комментарии
 
 Эта функция поддерживается для следующих типов шейдеров:
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 |        |      |        |          | x     | x       |
 

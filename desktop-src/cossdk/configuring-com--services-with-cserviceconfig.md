@@ -5,11 +5,11 @@ title: Настройка служб COM+ с помощью Ксервицеко
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: bc8bbc6c3131347f450340863db70fd9b3999730
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103807187"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342071"
 ---
 # <a name="configuring-com-services-with-cserviceconfig"></a>Настройка служб COM+ с помощью Ксервицеконфиг
 
@@ -21,7 +21,7 @@ ms.locfileid: "103807187"
 |-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**исервицеинхеританцеконфиг**](/windows/desktop/api/ComSvcs/nn-comsvcs-iserviceinheritanceconfig)<br/>         | Интерфейс по умолчанию для класса. Он используется для быстрой инициализации многих служб COM+.<br/>                                                                                              |
 | [**исервицекомтиинтринсиксконфиг**](/windows/desktop/api/ComSvcs/nn-comsvcs-iservicecomtiintrinsicsconfig)<br/> | Используется для настройки сведений о встроенных функциях интегратора транзакций COM (COMTI). COMTI позволяет разработчикам интегрировать программы транзакций на основе мэйнфреймов с приложениями на основе компонентов.<br/> |
-| [**исервицеиисинтринсиксконфиг**](/windows/desktop/api/ComSvcs/nn-comsvcs-iserviceiisintrinsicsconfig)<br/>     | Используется для настройки сведений о встроенных параметрах службы IIS (IIS).<br/>                                                                                                             |
+| [**исервицеиисинтринсиксконфиг**](/windows/desktop/api/ComSvcs/nn-comsvcs-iserviceiisintrinsicsconfig)<br/>     | используется для настройки сведений о встроенных параметрах службы IIS (IIS).<br/>                                                                                                             |
 | [**исервицепартитионконфиг**](/windows/desktop/api/ComSvcs/nn-comsvcs-iservicepartitionconfig)<br/>             | Используется для настройки использования разделов COM+ со службами.<br/>                                                                                                                             |
 | [**исервицескссконфиг**](/windows/desktop/api/ComSvcs/nn-comsvcs-iservicesxsconfig)<br/>                         | Используется для настройки параллельных сборок.<br/>                                                                                                                                                    |
 | [**исервицесинчронизатионконфиг**](/windows/desktop/api/ComSvcs/nn-comsvcs-iservicesynchronizationconfig)<br/> | Используется для настройки служб синхронизации COM+.<br/>                                                                                                                                              |
@@ -83,7 +83,7 @@ if (FAILED(hr)) throw(hr);
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

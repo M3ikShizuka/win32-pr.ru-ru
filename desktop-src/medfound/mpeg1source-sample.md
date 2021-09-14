@@ -4,12 +4,12 @@ ms.assetid: c9f131ff-0b79-487c-9a46-a9b1350553a1
 title: Пример MPEG1Source
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 652a58877267eaa92f906de88d40e614ce5b598220d4b76030caffa2187c8626
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9c71bd541a7bd01621ca7359eb9e229a08e91a04
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118058842"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363720"
 ---
 # <a name="mpeg1source-sample"></a>Пример MPEG1Source
 

@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 201cc8350b3fb248d85b1d57fc186c526a9f814a7f3411703834ce81ca176c4b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ec6e926d69d9d2c504d33591d9a72d741911193c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119054652"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342163"
 ---
 # <a name="listboxreadonly"></a>LISTBOX. readOnly
 
@@ -42,7 +42,7 @@ ms.locfileid: "119054652"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -52,7 +52,7 @@ ms.locfileid: "119054652"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

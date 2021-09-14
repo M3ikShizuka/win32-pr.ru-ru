@@ -4,12 +4,12 @@ ms.assetid: bceba978-a986-4d92-ae83-14bae1835f18
 title: Работа с кодеками дмос
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d3b7a57b84d39ba1271dafa904b1efaa1eba3d9af2be343d73843da536b8dfd9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 45839d6b86db47777aa4604fda08ffb7367ef42e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118057188"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363569"
 ---
 # <a name="working-with-codec-dmos"></a>Работа с кодеками дмос
 

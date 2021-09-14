@@ -4,12 +4,12 @@ description: после добавления COM-объекта в проект 
 ms.assetid: 8147a90f-e08d-4717-946b-0e451d95d2d3
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f045eb4fb7195e877d49aab49c8f046621f479d6d0fd8fd75113acf012b550c8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bcce20e6b9511b4372d92cbb3072ea9a3d462ab9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118549589"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342095"
 ---
 # <a name="visual-basic-object-browser"></a>Visual Basic Обозреватель объектов
 

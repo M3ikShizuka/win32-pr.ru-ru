@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Вызов метода поставщика
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 760f014c992e5cb774125db02bcb43b3df64c6622a62c0db1b97e02b393bb175
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d180ed8d05a1105c15f06b3df5f47006c5dafcf2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118109452"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342122"
 ---
 # <a name="calling-a-provider-method"></a>Вызов метода поставщика
 
@@ -24,7 +24,7 @@ ms.locfileid: "118109452"
 
 ## <a name="calling-a-provider-method-using-scripting"></a>Вызов метода поставщика с помощью сценария
 
-Любой язык автоматизации, такой как VBScript, PowerShell или Perl, может вызывать метод WMI. Некоторые языки могут использовать [прямой доступ](/windows), но для непрямого выполнения метода поставщика другие должны использовать [**SWbemServices.Exeкмесод**](swbemservices-execmethod.md) .
+Любой язык автоматизации, такой как VBScript, PowerShell или Perl, может вызывать метод WMI. Некоторые языки могут использовать [прямой доступ](/windows), но для непрямого выполнения метода поставщика другим необходимо использовать [**SwbemServices. ExecMethod**](swbemservices-execmethod.md) .
 
 <span id="direct_access"></span><span id="DIRECT_ACCESS"></span>
 
@@ -94,17 +94,17 @@ catch
 
 <span id="indirect_access"></span><span id="INDIRECT_ACCESS"></span>
 
-В следующей процедуре описывается вызов метода поставщика с помощью API скриптов и [**SWbemServices.Exeкмесод**](swbemservices-execmethod.md).
+В следующей процедуре описывается вызов метода поставщика с помощью API скриптов и [**SwbemServices. ExecMethod**](swbemservices-execmethod.md).
 
-**Вызов метода поставщика с помощью API скриптов и SWbemServices.ExeКмесод**
+**Вызов метода поставщика с помощью API скриптов и SWbemServices. ExecMethod**
 
 1.  Получите определение класса WMI для выполнения статического метода. Получите экземпляр класса WMI для выполнения нестатического метода.
 2.  Извлеките метод для выполнения из коллекции [**SWbemObject. Methods \_**](swbemobject-methods-.md) класса или экземпляра с помощью метода [**SWbemObjectSet. Item**](swbemobjectset-item.md) .
 3.  Получите объект [**параметров**](swbemmethod-inparameters.md) для метода и настройте параметры, как описано в разделе [Создание объектов с параметрами](constructing-inparameters-objects.md).
-4.  Вызовите метод **SWbemServices.Exeкмесод** , чтобы выполнить и присвоить возвращаемое значение объекту [**SWbemObject**](swbemobject.md) для хранения выходных параметров.
+4.  Вызовите метод **SwbemServices. ExecMethod** , чтобы выполнить и присвоить возвращаемое значение объекту [**SWbemObject**](swbemobject.md) для хранения выходных параметров.
 5.  Проверьте значения в объекте выходных параметров, чтобы убедиться, что метод выполнен правильно.
 
-Следующий пример кода VBScript выполняет ту же операцию, что и предыдущий скрипт, с помощью непрямого подхода, вызывая [**SWBemServices.Exeкмесод**](swbemservices-execmethod.md).
+Следующий пример кода VBScript выполняет ту же операцию, что и предыдущий скрипт, с помощью непрямого подхода, вызывая [**SWBemServices. ExecMethod**](swbemservices-execmethod.md).
 
 
 ```VB

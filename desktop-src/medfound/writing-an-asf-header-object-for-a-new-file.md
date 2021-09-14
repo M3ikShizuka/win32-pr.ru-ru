@@ -5,11 +5,11 @@ title: Запись объекта заголовка ASF для нового ф
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 6dfcaf0d7c7c4ca469e75fb4c1bd47a4f8b1d32f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105702918"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363533"
 ---
 # <a name="writing-an-asf-header-object-for-a-new-file"></a>Запись объекта заголовка ASF для нового файла
 
@@ -38,7 +38,7 @@ ms.locfileid: "105702918"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 4F33BF2D-EB32-46B6-B071-F9130D404201
 title: Атрибут MF_MT_VIDEO_3D_FIRST_IS_LEFT (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 19b7deed122f3de419455abf54bfcc18ad50ef199d87afa8bcaad8d34000a011
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 027d91509d772a9200cdfc0ac64cce15514aa5a5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117876805"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363933"
 ---
 # <a name="mf_mt_video_3d_first_is_left-attribute"></a>\_ \_ \_ Первый трехмерный видеоролик \_ \_ — \_ левый атрибут
 

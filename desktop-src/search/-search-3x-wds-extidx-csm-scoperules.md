@@ -5,11 +5,11 @@ title: Управление правилами области
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 134e4241e9dcd66e468935ae56a4029a51a96c37
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122880216"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363309"
 ---
 # <a name="managing-scope-rules"></a>Управление правилами области
 
@@ -34,7 +34,7 @@ CSM позволяет выполнять следующие действия:
 -   [Возврат к правилам по умолчанию](#reverting-to-default-rules)
 -   [Перечисление правил области](#enumerating-scope-rules)
 -   [Правила области трассировки](#tracing-scope-rules)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="about-scope-rules"></a>О правилах области
 
@@ -205,7 +205,7 @@ CSM также позволяет определить, включен ли ук
 [**иенумсеарчскоперулес**](/windows/desktop/api/Searchapi/nn-searchapi-ienumsearchscoperules)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Управление корнями поиска](-search-3x-wds-extidx-csm-searchroots.md)

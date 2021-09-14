@@ -1,27 +1,27 @@
 ---
-description: В примере кода ВССКЛ показано, как взаимодействовать между Microsoft OLE DB и Windows Search с помощью язык SQL (SQL).
+description: в примере кода всскл показано, как взаимодействовать между Microsoft OLE DB и Windows поиска с помощью язык SQL (SQL).
 ms.assetid: 28663608-66b3-4404-9426-5a4b5f52a408
 title: всскл
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 5ac8f76b995d21a562f843344d1722cecec433af
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103896929"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363217"
 ---
 # <a name="wssql"></a>всскл
 
-В примере кода ВССКЛ показано, как взаимодействовать между Microsoft OLE DB и Windows Search с помощью язык SQL (SQL).
+в примере кода всскл показано, как взаимодействовать между Microsoft OLE DB и Windows поиска с помощью язык SQL (SQL).
 
 В этом разделе содержатся следующие подразделы.
 
-- [Требования](#requirements)
+- [Requirements](#requirements)
 - [Загрузка образца](#downloading-the-sample)
 - [Создание примера](#building-the-sample)
 - [Запуск примера](#running-the-sample)
-- [См. также](#related-topics)
+- [Связанные темы](#related-topics)
 
 ## <a name="requirements"></a>Требования
 
@@ -39,27 +39,27 @@ ms.locfileid: "103896929"
 | GitHub        | [Пример ВССКЛ](https://github.com/Microsoft/Windows-classic-samples/tree/master/Samples/Win7Samples/winui/WindowsSearch/WSSQL)           |
 
 > [!NOTE]  
-> Для всех версий Windows, включая Windows 7, рекомендуется загрузить примеры непосредственно из GitHub, чтобы получить самую последнюю версию.
+> для всех версий Windows, включая Windows 7, рекомендуется загружать образцы непосредственно из GitHub для наиболее актуальной версии.
 
 ## <a name="building-the-sample"></a>Построение образца
 
-1. Откройте проводник Windows и перейдите в каталог проекта **всскл** .
+1. откройте обозреватель Windows и перейдите в каталог проекта **всскл** .
 2. Дважды щелкните значок файла ВССКЛ. sln, чтобы открыть проект в Visual Studio.
     > [!NOTE]  
-    > Файл SLN был создан в более старой версии Visual Studio, поэтому его обновление потребуется, если используется Visual Studio 2012 или более поздняя версия. Это не повлияет на поведение образца.
+    > файл sln был создан в более ранней версии Visual Studio, поэтому его обновление потребуется при использовании Visual Studio 2012 или более поздних версий. Это не повлияет на поведение образца.
 
-3. В меню **Сборка** выберите пункт **построить решение**.
+3. В меню **Построение** выберите пункт **Построить решение**.
 
 ## <a name="running-the-sample"></a>Запуск примера
 
-1. Перейдите в каталог, содержащий новый исполняемый файл, с помощью окна командной строки или проводника Windows.
-2. В командной строке введите `WSSQL.exe` или в проводнике Windows дважды щелкните значок WSSQL.exe.
+1. перейдите в каталог, содержащий новый исполняемый файл, используя окно командной строки или проводник Windows.
+2. в командной строке введите `WSSQL.exe` или в Windows Explorer дважды щелкните значок WSSQL.exe.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 ### <a name="conceptual"></a>Основные понятия
 
-[Использование синтаксиса SQL для поиска Windows](-search-sql-windowssearch-entry.md)
+[использование синтаксиса SQL Windows Search](-search-sql-windowssearch-entry.md)
 
 [Общие сведения о языке запросов](-search-sql-generalqueryinfo.md)
 

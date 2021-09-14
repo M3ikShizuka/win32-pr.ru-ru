@@ -4,12 +4,12 @@ ms.assetid: 2236C135-BA3D-4C1B-8A39-5E23EF67425A
 title: Атрибут MFStreamExtension_CameraExtrinsics (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: acf76c829383d229df8039bfff5d75234d31e2625f758d1bca254217b6e138c8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a551aaaef48100d6104804e54f7e0ddfac3f5cb1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119713544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363756"
 ---
 # <a name="mfstreamextension_cameraextrinsics-attribute"></a>Мфстреамекстенсион \_ камераекстринсикс, атрибут
 

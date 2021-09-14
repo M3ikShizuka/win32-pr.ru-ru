@@ -4,12 +4,12 @@ ms.assetid: 5b94ae87-91fc-49d6-9355-83327cfdb3f3
 title: Свойство MFPKEY_SourceOpenMonitor (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 45594e1929e66982d3e518c4ba098d2ca4b22e854e033dc69025aaf3ec5d5cc6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9a49826ee16a733993b9052e12d9e6fcd5003410
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117873001"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363820"
 ---
 # <a name="mfpkey_sourceopenmonitor-property"></a>МФПКЭЙ \_ саурцеопенмонитор, свойство
 
@@ -35,7 +35,7 @@ VT \_ Unknown
 
 Приложения могут передавать это свойство в сопоставитель источника для получения уведомлений о событиях из источника сети.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -47,7 +47,7 @@ VT \_ Unknown
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

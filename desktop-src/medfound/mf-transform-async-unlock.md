@@ -4,12 +4,12 @@ ms.assetid: e12ab57e-ebc2-46af-afdf-d78d4db16fcf
 title: Атрибут MF_TRANSFORM_ASYNC_UNLOCK (Мфтрансформ. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 82a0a8f328095c3a5c567171fa6a625a77e5623d126dfb2be9f34fef556984be
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9e7876b3f1fca80e881414399d40e69112a64d8c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118244180"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363888"
 ---
 # <a name="mf_transform_async_unlock-attribute"></a>\_ \_ Атрибут асинхронного \_ разблокировки MF Transform
 
@@ -65,11 +65,11 @@ HRESULT UnlockAsyncMFT(IMFTransform *pMFT)
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | \[приложения UWP для классических приложений Windows 7 \|\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows \[Приложения UWP для настольных приложений Server 2008 R2 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Мфтрансформ. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфтрансформ. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также статью
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

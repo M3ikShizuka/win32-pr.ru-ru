@@ -5,11 +5,11 @@ title: Создание соединителя поиска для обрабо�
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: cec9c7830f61c0dcbf6682e6dfaea0feb30ebfa5
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122881689"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363281"
 ---
 # <a name="creating-a-search-connector-for-a-protocol-handler"></a>Создание соединителя поиска для обработчика протокола
 
@@ -24,7 +24,7 @@ Windows Обозреватель управляет созданием соед�
     -   [Использование перенаправления строк реестра](#using-registry-string-redirection)
     -   [Восстановление удаленного соединителя поиска обработчиков протоколов](#restoring-a-deleted-protocol-handler-search-connector)
 -   [Дополнительные ресурсы](#additional-resources)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="about-search-connectors-for-protocol-handlers-in-windows-7"></a>сведения о соединителях поиска для обработчиков протоколов в Windows 7
 
@@ -157,7 +157,7 @@ HKEY_LOCAL_MACHINE
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Основные сведения о обработчиках протоколов](-search-3x-wds-extidx-prot-implementing.md)

@@ -5,17 +5,17 @@ title: Определение того, включена ли безопасно
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 90ccf6f95b9c8776a45c071f6d4ea3326eda035c
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104142604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342062"
 ---
 # <a name="determining-whether-role-based-security-is-enabled"></a>Определение того, включена ли безопасность Role-Based
 
 С помощью метода [**исекуритикаллконтекст:: иссекуритенаблед**](/windows/desktop/api/ComSvcs/nf-comsvcs-isecuritycallcontext-issecurityenabled) , доступного в объекте контекста вызова безопасности, можно определить, включена ли безопасность для текущего объекта. Необходимо вызвать **иссекуритенаблед** перед использованием исекуритикаллконтекст::[**искаллеринроле**](/windows/desktop/api/ComSvcs/nf-comsvcs-isecuritycallcontext-iscallerinrole) для проверки членства в роли, так как **искаллеринроле** возвращает значение true, если безопасность не включена.
 
-Разработчики Microsoft Visual Basic вызывают [**жетсекуритикаллконтекст**](/windows/desktop/api/ComSvcs/nf-comsvcs-igetsecuritycallcontext-getsecuritycallcontext) , чтобы получить ссылку на объект [**секуритикаллконтекст**](securitycallcontext.md) , а затем вызвать [**иссекуритенаблед**](/windows/desktop/api/ComSvcs/nf-comsvcs-isecuritycallcontext-issecurityenabled), как показано в следующем примере:
+разработчики Microsoft Visual Basic вызывают [**жетсекуритикаллконтекст**](/windows/desktop/api/ComSvcs/nf-comsvcs-igetsecuritycallcontext-getsecuritycallcontext) , чтобы получить ссылку на объект [**секуритикаллконтекст**](securitycallcontext.md) , а затем вызвать [**иссекуритенаблед**](/windows/desktop/api/ComSvcs/nf-comsvcs-isecuritycallcontext-issecurityenabled), как показано в следующем примере:
 
 
 ```VB
@@ -50,7 +50,7 @@ return hr2;
 
 Хотя предпочтительным способом вызова [**иссекуритенаблед**](/windows/desktop/api/ComSvcs/nf-comsvcs-isecuritycallcontext-issecurityenabled) является использование объекта контекста безопасности вызова, можно также вызвать **иссекуритенаблед** через контекст объекта. (Дополнительные сведения см. в разделе [**ObjectContext**](/windows/desktop/api/ComSvcs/nn-comsvcs-objectcontext) или [**иобжектконтекст**](/windows/desktop/api/ComSvcs/nn-comsvcs-iobjectcontext) .)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
