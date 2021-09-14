@@ -10,12 +10,12 @@ keywords:
 - Создание подключаемых модулей, обработка цифровых сигналов (DSP)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 98e0c9f65b35dab562298d3f847a31c009f6bbbd9968d0ffbf7333606d6a01af
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d3aead83e1f71dcf583a359ddb1d605a7d90d9e0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120123844"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126885389"
 ---
 # <a name="building-a-dsp-plug-in"></a>Создание подключаемого модуля DSP
 

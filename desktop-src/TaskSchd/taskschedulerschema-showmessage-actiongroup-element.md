@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 474bc44550408591616d3a8d2c6c3c69a5a0d073c90297c60b4a831627c996e6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a1344aadfa5fe67e411048bac2a83330ea704c50
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118611302"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886437"
 ---
 # <a name="showmessage-actiongroup-element"></a>ShowMessage (actionGroup), элемент
 
@@ -48,12 +48,12 @@ ms.locfileid: "118611302"
 
 | Элемент                                                            | Тип           | Описание                                                               |
 |--------------------------------------------------------------------|----------------|---------------------------------------------------------------------------|
-| [**Текст**](taskschedulerschema-body-showmessagetype-element.md)   | нонемптистринг | Задает текст, отображаемый в тексте окна сообщения. <br/> |
+| [**Организм**](taskschedulerschema-body-showmessagetype-element.md)   | нонемптистринг | Задает текст, отображаемый в тексте окна сообщения. <br/> |
 | [**Заголовок**](taskschedulerschema-title-showmessagetype-element.md) | нонемптистринг | Задает заголовок окна сообщения. <br/>                       |
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Для разработки сценариев действие окна сообщения указывается с помощью объекта [**шовмессажеактион**](showmessageaction.md) .
 

@@ -4,12 +4,12 @@ description: Фоновая интеллектуальная служба пер
 ms.assetid: ab4cf901-6d93-433c-b1b2-ffa54d10725c
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 41cfbc18a8dc06bb474ab8df9df85fb7b8a96838db14bbc18aee4d94881985d3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b40e2840c24e15379fac11a5a12ed76c225e7be5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119529194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972434"
 ---
 # <a name="bits-compact-server"></a>Облегченный сервер BITS
 
@@ -79,7 +79,7 @@ PS C:\>
 
 Дополнительные сведения см. в документации [поставщика BITS](/previous-versions/windows/desktop/bitsprov/bits-provider) .
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

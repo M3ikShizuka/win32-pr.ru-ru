@@ -5,11 +5,11 @@ ms.assetid: 6D28864A-C2BA-44AF-9E78-7C2B34F5E462
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 88e4b89b4dcc085cf4fd4fda762d96fb71271af2
-ms.sourcegitcommit: b6fe9acffad983c14864b8fe0296f6025cb1f961
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "107998321"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972446"
 ---
 # <a name="log-sm4---asm"></a>log (SM4-ASM)
 
@@ -35,7 +35,7 @@ ms.locfileid: "107998321"
 
  
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Комментарии
 
 ### <a name="restrictions"></a>Ограничения
 
@@ -48,7 +48,7 @@ ms.locfileid: "107998321"
 
 | **src**  | **-INF** | **-F** | **— денорма** | **-0** | **+0** | **+ денорма** | **+ F** | **+ INF** | **Не число** |
 |----------|----------|--------|-------------|--------|--------|-------------|--------|----------|---------|
-| **dest** | Не число      | Не число    | -inf        | -inf   | -inf   | -inf        | C      | +inf     | не число     |
+| **dest** | Не число      | Не число    | -inf        | -inf   | -inf   | -inf        | F      | +inf     | Не число     |
 
 
 
@@ -85,7 +85,7 @@ ms.locfileid: "107998321"
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

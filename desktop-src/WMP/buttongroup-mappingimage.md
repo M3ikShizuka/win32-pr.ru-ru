@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9c26a920042aae4ba144f194845f350030f5675c1b9cc3fcfed552346904add1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 26e4afc44a00d5ce9b15ee01d4a0dc1aff52c555
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118119912"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126885341"
 ---
 # <a name="buttongroupmappingimage"></a>BUTTONGROUP. Маппингимаже
 
@@ -31,7 +31,7 @@ ms.locfileid: "118119912"
 
 Этот атрибут является **строкой** для чтения и записи.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это обязательный атрибут, который должен быть указан.
 

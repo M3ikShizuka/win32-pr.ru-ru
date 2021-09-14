@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: ba753b23d7325d2e4c1d7792127ddbf80719840c99fde8c508026255fe5dd2c9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8b0ee5499bd86094c91a3a8bacc6d25b67e027cc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119536270"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126887029"
 ---
 # <a name="iamtimelinegroupclearrecompressformatdirty-method"></a>Метод Иамтимелинеграуп:: Клеаррекомпрессформатдирти
 
@@ -47,7 +47,7 @@ HRESULT ClearRecompressFormatDirty();
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.
@@ -59,7 +59,7 @@ HRESULT ClearRecompressFormatDirty();
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ HRESULT ClearRecompressFormatDirty();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

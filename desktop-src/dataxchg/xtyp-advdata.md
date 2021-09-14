@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d9bf3f3b94f4454547d987ab6536929d1fe2998e7dc0394564143536f1da28d5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8359e34388d185200b5f30c4554e138cc1f6b94a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118544869"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126884880"
 ---
 # <a name="xtyp_advdata-transaction"></a>\_Транзакция кстип адвдата
 
@@ -97,7 +97,7 @@ ms.locfileid: "118544869"
 
 Функция обратного вызова DDE должна возвращать **DDE \_ факк** , если обрабатывает эту транзакцию, **DDE \_ фбуси** , если она слишком занята для обработки этой транзакции, или **DDE \_ фнотпроцессед** , если она отклоняет эту транзакцию.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Приложение не должно освобождать полученный во время этой транзакции маркер данных. Однако приложение должно копировать данные, связанные с этим обработчиком данных, если приложение должно обработать данные после возвращения функции обратного вызова. Приложение может использовать функцию [**ддежетдата**](/windows/desktop/api/Ddeml/nf-ddeml-ddegetdata) для копирования данных.
 
@@ -129,7 +129,7 @@ ms.locfileid: "118544869"
 [**ддепостадвисе**](/windows/desktop/api/Ddeml/nf-ddeml-ddepostadvise)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [библиотека управления Exchange платформа динамических данных](dynamic-data-exchange-management-library.md)

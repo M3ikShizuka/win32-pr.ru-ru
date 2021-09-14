@@ -4,12 +4,12 @@ description: Поставщики должны определять все со�
 ms.assetid: f282612c-cfa5-42fe-af8a-5b35c033abe2
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c8b28dd6f9453a0b3272e6c9e7efcc40613319591174444d14abf55d6d9f385f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1a4c1da0e54d1e9fc328978ebe447c8e843b540c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119056042"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126885552"
 ---
 # <a name="defining-events"></a>Определение событий
 

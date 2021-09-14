@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: a42a4f2d28ed8f0506909199b4c15c26ae3bc434ec250ddae9909ef53525583b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 01e96bb63395fe9e5dd27a17fbb5c0ddd9bf3c17
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118986404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126884288"
 ---
 # <a name="mad---vs"></a>Mad — VS
 
@@ -31,14 +31,14 @@ ms.locfileid: "118986404"
 
  
 
-where
+где
 
 -   DST — это регистр назначения.
 -   src0 является исходным регистром.
 -   src1 является исходным регистром.
 -   src2 является исходным регистром.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 
 

@@ -4,12 +4,12 @@ description: Задачи регистрируются и запускаются
 ms.assetid: be86eb9f-f6ec-4dce-afe8-e3314a74062a
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bb6f49ef07818b1fe729fa96a2b5e0712979a17f300e4f411f96cefd2f3917f9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 329f354518daeb11a5f330ae3fdc2c332b66d5c3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119738254"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886541"
 ---
 # <a name="security-contexts-for-tasks"></a>Контексты безопасности для задач
 

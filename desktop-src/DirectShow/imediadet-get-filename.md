@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: a705291155adc848b107c0950e77a63ed181b052dc71cd72d128ebca1be980b8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 95a350dde3dfdc1c6046c8e31b8a2d9e62684788
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118952593"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886941"
 ---
 # <a name="imediadetget_filename-method"></a>Метод Имедиадет:: Get \_ имя_файла
 
@@ -56,7 +56,7 @@ HRESULT get_Filename(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод выделяет память для строки. Приложение должно вызвать **сисфристринг** для освобождения памяти.
 

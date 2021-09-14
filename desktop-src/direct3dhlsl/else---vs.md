@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 5db315372e7c93232f9d821d9d7e91ec402661c37b8410ac4c8470a4db9e8997
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 97481d7cb651719fdf0843fd1b985c6586e54b3b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119119528"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972474"
 ---
 # <a name="else---vs"></a>else — VS
 
@@ -31,7 +31,7 @@ ms.locfileid: "119119528"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 
 
@@ -45,7 +45,7 @@ ms.locfileid: "119119528"
 
 Если условие в соответствующей инструкции [If bool-VS](if-bool---vs.md) имеет значение true, выполняется код, заключенный в инструкцию if bool-VS и соответствующий [endif](endif---vs.md) . В противном случае код, заключенный в else... выполняется инструкция endif.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

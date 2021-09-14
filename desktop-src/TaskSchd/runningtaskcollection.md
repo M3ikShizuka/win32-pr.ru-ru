@@ -15,12 +15,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 81651e62be3b787678ee77f2b997c24e99016041567b23da0c534d94633dfdcf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c28d75cee0ba4b19751ba1e4c5a5c3061a1dad64
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119059972"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886560"
 ---
 # <a name="runningtaskcollection-object"></a>Объект Руннингтаскколлектион
 
@@ -40,14 +40,14 @@ ms.locfileid: "119059972"
 
 | Свойство                                                | Описание                                                    |
 |:--------------------------------------------------------|:---------------------------------------------------------------|
-| [**Count**](runningtaskcollection-count.md)<br/> | Возвращает число выполняемых задач в коллекции.<br/> |
-| [**Компонент**](runningtaskcollection-item.md)<br/>   | Возвращает указанную задачу из коллекции. <br/>       |
+| [**Расчета**](runningtaskcollection-count.md)<br/> | Возвращает число выполняемых задач в коллекции.<br/> |
+| [**Элемент**](runningtaskcollection-item.md)<br/>   | Возвращает указанную задачу из коллекции. <br/>       |
 
 
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -60,7 +60,7 @@ ms.locfileid: "119059972"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

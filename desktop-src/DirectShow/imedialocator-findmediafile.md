@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: cc1acda4a3bc6e2d93ae8b7024ef34f759c11c5c4d487a09d3be3a3542e0c445
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3561b77873c90b2d4bd0202bed8e2da822a0362f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117818941"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886816"
 ---
 # <a name="imedialocatorfindmediafile-method"></a>Метод Имедиалокатор:: Финдмедиафиле
 
@@ -80,7 +80,7 @@ HRESULT FindMediaFile(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Строка фильтра для диалогового окна открытия файла, заданная параметром *филтерстринг* , содержит внутренние символы NULL. Например, видео \\ 0 \*.avi\\ 0 \\ 0 является допустимой строкой фильтра. Функцию **сисаллокстр** нельзя использовать для выделения строк BSTR, поскольку эта функция принимает строку, завершающуюся нулем, и усекает строку по первому пустому символу. Поэтому используйте функцию, такую как **сисаллокстринглен**, которая включает в себя явный параметр для длины:
 
@@ -106,7 +106,7 @@ BSTR filter = SysAllocStringLen(L"Video\0*.avi\0", 12);
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -117,7 +117,7 @@ BSTR filter = SysAllocStringLen(L"Video\0*.avi\0", 12);
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

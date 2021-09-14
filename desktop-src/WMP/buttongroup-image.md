@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d2fcd8d76bd217087b6b948cec3216efc2bbc6c9845e9c18b5a7619d292232b6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1fa395edc149671ad05a38a5ff7c77053b6e3d82
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118342637"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126885336"
 ---
 # <a name="buttongroupimage"></a>BUTTONGROUP. Image
 
@@ -31,7 +31,7 @@ ms.locfileid: "118342637"
 
 Этот атрибут является **строкой** для чтения и записи.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Поддерживаются форматы изображений BMP, JPG, PNG и GIF. Если изображение является 8-битным файлом BMP, его значения тона и насыщенности можно динамически изменить с помощью атрибутов **хуешифт** и **насыщенности** .
 
@@ -39,7 +39,7 @@ ms.locfileid: "118342637"
 
 Если изображение не может быть получено, отображается изображение по умолчанию (изображение Красного x).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -49,7 +49,7 @@ ms.locfileid: "118342637"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

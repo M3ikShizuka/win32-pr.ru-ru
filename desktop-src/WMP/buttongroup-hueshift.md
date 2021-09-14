@@ -3,7 +3,7 @@ title: BUTTONGROUP. Хуешифт
 description: Атрибут Хуешифт указывает или получает величину, на которую смещается оттенок изображений BUTTONGROUP.
 ms.assetid: 156256ef-ec24-40c4-ad23-064e38c79e69
 keywords:
-- Проигрыватель Windows Media BUTTONGROUP. Хуешифт
+- BUTTONGROUP. хуешифт проигрыватель Windows Media
 topic_type:
 - apiref
 api_name:
@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 3bf77faea27ecc5adee6525c4ee8d8ff1541aac4
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105694404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126885349"
 ---
 # <a name="buttongrouphueshift"></a>BUTTONGROUP. Хуешифт
 
@@ -41,7 +41,7 @@ ms.locfileid: "105694404"
 
 | Требование | Значение |
 |--------------------|---------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media 9 Series или более поздней версии<br/> |
+| Версия<br/> | проигрыватель Windows Media 9 Series или более поздней версии<br/> |
 
 
 

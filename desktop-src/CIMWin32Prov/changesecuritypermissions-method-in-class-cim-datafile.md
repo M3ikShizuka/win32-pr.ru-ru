@@ -15,11 +15,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: faa2e3ce2f2454d76ff9e55cc10cf09e9b5f715e
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104141959"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972422"
 ---
 # <a name="changesecuritypermissions-method-of-the-cim_datafile-class"></a>Метод Чанжесекуритипермиссионс \_ класса CIM File
 
@@ -137,7 +137,7 @@ uint32 ChangeSecurityPermissions(
 
 2
 
-Доступ запрещен.
+Access denied. (Недопустимое значение {значение_утверждения} для утверждения {имя_утверждения}. Доступ запрещен.)
 
 </dd> <dt>
 
@@ -175,12 +175,12 @@ uint32 ChangeSecurityPermissions(
 
 </dd> <dt>
 
-**Платформа не NT/Windows 2000**
+**платформа не NT/Windows 2000**
 </dt> <dd>
 
 12
 
-Платформа не на базе Windows NT.
+платформа не Windows NT на основе.
 
 </dd> <dt>
 
@@ -258,7 +258,7 @@ uint32 ChangeSecurityPermissions(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

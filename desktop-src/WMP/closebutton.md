@@ -14,12 +14,12 @@ keywords:
 - Справочник по обложкам, кнопкам закрытия
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0f8123305c92bfe7f5fccc69b9fd8a92429a67fb933189bd3b0285834cccd2a5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4a7b3d6df8984d966e84a68cadaf38d1cc8ab369
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118119792"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126885296"
 ---
 # <a name="closebutton"></a>CLOSEBUTTON
 
@@ -34,7 +34,7 @@ upToolTip="Close"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При этом создается элемент управления **"Кнопка"** , который закрывает проигрыватель. Всплывающие подсказки локализованы. Все свойства этой **кнопки** можно переопределить, явно указав их.
 

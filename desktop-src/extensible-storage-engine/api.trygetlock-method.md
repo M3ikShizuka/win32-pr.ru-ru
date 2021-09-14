@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: a6a8d4ac8b5b81b1238e7847846a1e95122bc53cf8912d591acb221d666d6e24
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9ecd4e0e66226d438b4e5a78b2397f5637154096
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119738584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126883776"
 ---
 # <a name="apitrygetlock-method"></a>API. Трижетлокк, метод
 
