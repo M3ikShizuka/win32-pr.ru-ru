@@ -4,12 +4,12 @@ description: В этом разделе содержатся сведения о
 ms.assetid: vs|controls|~\controls\richedit\windowlessricheditcontrols.htm
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 54d03cbc4c694ce8e10a5b877298f148cd9ac47bd24c364aa3cde7fc19bc994e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 0431c5cb513aff003098e3d022fe73c6b6d83e9a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119655794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165248"
 ---
 # <a name="windowless-rich-edit-controls"></a>Безоконное редактирование элементов управления
 

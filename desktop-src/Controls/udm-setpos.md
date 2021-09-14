@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f1f87d079a7bbe454084785cba8ed3361193224edd3e781441f4fe614533b8dd
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b409f9e7468e3add89248b61b7b563ac592f0dcc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120088434"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165483"
 ---
 # <a name="udm_setpos-message"></a>\_Сообщение СЕТПОС UDM
 
@@ -43,11 +43,11 @@ ms.locfileid: "120088434"
 
 Возвращаемое значение является предыдущей позицией.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это сообщение поддерживает только 16-разрядные позиции. Если 32-разрядные значения включены для элемента управления "вверх/вниз" [**с \_ SETRANGE32 UDM**](udm-setrange32.md), [**Используйте \_ SETPOS32 UDM**](udm-setpos32.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ ms.locfileid: "120088434"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

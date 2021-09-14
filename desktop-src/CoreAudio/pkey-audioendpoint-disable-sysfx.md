@@ -4,12 +4,12 @@ ms.assetid: 9e73e9b6-1864-49cb-adf8-233cc1f9bfe5
 title: PKEY_AudioEndpoint_Disable_SysFx (Ммдевицеапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1f8f4e5b54773cc6fcdc14ed7788a8ce6c3da2bf28666109c1404095c0c5c12a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 61a5486222c1c22158c70864b2b9bb0c4c31b5e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118005233"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164928"
 ---
 # <a name="pkey_audioendpoint_disable_sysfx"></a>PKEY \_ аудиоендпоинт \_ Отключить \_ сисфкс
 
@@ -33,7 +33,7 @@ ms.locfileid: "118005233"
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                     |
-| Header<br/>                   | <dl> <dt>Ммдевицеапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Ммдевицеапи. h</dt> </dl> |
 
 
 

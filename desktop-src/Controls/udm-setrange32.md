@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f5d98a55f503ebc194a00a65ff207aaed4a3a20d614b6416b4f6049e342df4f7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 80de7c9583a10abe7c62ec5a074dcfa91a59cc7c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118957733"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165459"
 ---
 # <a name="udm_setrange32-message"></a>\_Сообщение SETRANGE32 UDM
 
@@ -47,7 +47,7 @@ ms.locfileid: "118957733"
 
 Возвращаемое значение для этого сообщения не используется.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

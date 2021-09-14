@@ -4,12 +4,12 @@ ms.assetid: 07aac772-f917-48b7-91a9-3b5d4cb43600
 title: Обработка исключений на основе кадров
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2afb72118aca7653e9bc15e7f4ff4b75e46b1abad5bab7dee4a3397ae5f98e1b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 12b268b5d02de83bca22a1d3311905b05be1f748
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119573124"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164648"
 ---
 # <a name="frame-based-exception-handling"></a>Обработка исключений на основе кадров
 

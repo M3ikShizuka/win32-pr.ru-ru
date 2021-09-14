@@ -4,12 +4,12 @@ ms.assetid: 3a199ecf-642c-491c-a565-f0083783d180
 title: PKEY_AudioEngine_OEMFormat (Ммдевицеапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9ed43ee7a607bc7b97e6ce521c3c1f76356380d27b3471d16dde27cd021838e5
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: be7ed65ae8a7bd717992b13dc7b5517a5725b241
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120053644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164895"
 ---
 # <a name="pkey_audioengine_oemformat"></a>PKEY \_ аудиоенгине \_ оемформат
 
@@ -19,7 +19,7 @@ ms.locfileid: "120053644"
 
 Членом **большого двоичного объекта** структуры **пропвариант** является структура типа **BLOB** , содержащая два члена. Member **BLOB. кбсизе** — это **DWORD** , указывающий число байтов в описании формата. Member **BLOB. пблобдата** указывает на структуру **вавеформатекс** , содержащую описание формата. дополнительные сведения о большом двоичном объекте см. в документации по Windows SDK. дополнительные сведения о **вавеформатекс** см. в документации по Windows DDK.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -31,7 +31,7 @@ ms.locfileid: "120053644"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

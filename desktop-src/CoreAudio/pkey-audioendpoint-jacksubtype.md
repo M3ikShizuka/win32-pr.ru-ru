@@ -4,12 +4,12 @@ ms.assetid: 5d712823-73e3-4872-a1ea-c166ed41ffa0
 title: PKEY_AudioEndpoint_JackSubType (Ммдевицеапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7a95ca24d48a35299144f36d052ceea2e2d0d12c56fbc03b58a993fd95772c9e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3546c9741dcfd6065372f0a88a3ce3a921daad8d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120053734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164911"
 ---
 # <a name="pkey_audioendpoint_jacksubtype"></a>PKEY \_ аудиоендпоинт \_ жакксубтипе
 
@@ -21,7 +21,7 @@ ms.locfileid: "120053734"
 
 Элемент **пвсзвал** структуры **пропвариант** указывает на строку расширенных символов, заканчивающуюся нулем и содержащую GUID категории.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -33,7 +33,7 @@ ms.locfileid: "120053734"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

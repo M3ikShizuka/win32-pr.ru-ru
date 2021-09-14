@@ -4,12 +4,12 @@ ms.assetid: 07cfde25-6e46-47fa-a810-0f6b482981fd
 title: Об управлении устройствами
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 73046875cc52b1087593d5d2cb4c7f6a9e3f67cf4ae1a2f88f91c43c39ddb64f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b9c8a11ceae55df48add64c68ba14bfbe6cd858c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118004754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164540"
 ---
 # <a name="about-device-management"></a>Об управлении устройствами
 

@@ -4,12 +4,12 @@ ms.assetid: 20049071-0a14-421e-8bc5-04af9c7117b0
 title: PKEY_AudioEndpoint_PhysicalSpeakers (Ммдевицеапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 358623626274a0ab3a0898e9e912e4f5f990c14d00dd6f6ef57bb4050297403f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f6a627ec97dc329f50cc58a15d0df516f598af86
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118406420"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164908"
 ---
 # <a name="pkey_audioendpoint_physicalspeakers"></a>PKEY \_ аудиоендпоинт \_ фисикалспеакерс
 
@@ -30,7 +30,7 @@ ms.locfileid: "118406420"
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                     |
-| Header<br/>                   | <dl> <dt>Ммдевицеапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Ммдевицеапи. h</dt> </dl> |
 
 
 

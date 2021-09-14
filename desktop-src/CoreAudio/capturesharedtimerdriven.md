@@ -4,12 +4,12 @@ ms.assetid: 06124b99-89b3-4dfa-b989-a54746ecd697
 title: каптурешаредтимердривен
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bf6d9e8cbd686bdd71804ed067a5b3d9ff36ed8271c8b0edb04b8077ca162fbd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b635462767f22d3e31fe6deaa79b5c00911b378b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118957383"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165123"
 ---
 # <a name="capturesharedtimerdriven"></a>каптурешаредтимердривен
 
@@ -18,7 +18,7 @@ ms.locfileid: "118957383"
 В этом разделе содержатся следующие подразделы.
 
 -   [Описание](#description)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Загрузка образца](#downloading-the-sample)
 -   [Создание примера](#building-the-sample)
 -   [Запуск примера](#running-the-sample)

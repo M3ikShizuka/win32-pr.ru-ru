@@ -4,12 +4,12 @@ ms.assetid: a20e082c-eddb-4b81-b851-49350b87e69a
 title: PKEY_AudioEndpoint_Association (Ммдевицеапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 35f7130ac82341b2da25356158d656051934b77f6006c35c1e812a4779a2e6e5
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fe2a7ec4f979e12dd6b548d27e0112c784105074
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119698674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164936"
 ---
 # <a name="pkey_audioendpoint_association"></a>\_Связь АУДИОЕНДПОИНТ \_ PKEY
 
@@ -19,7 +19,7 @@ ms.locfileid: "119698674"
 
 Элемент **пвсзвал** структуры **пропвариант** указывает на строку расширенных символов, заканчивающуюся НУЛЕМ, которая содержит GUID категории ПИН-кода в KS.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -31,7 +31,7 @@ ms.locfileid: "119698674"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 9dcfccd2-a709-4b4e-bbb3-4c68a15cce03
 title: рендерексклусиветимердривен
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6876c448aa7737683aff4e495416020af7def54cb01109c3d6ad2d1c26d20780
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: eb6145f65de3de9425f7ba2f023a669ec0b57a3c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119077448"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164835"
 ---
 # <a name="renderexclusivetimerdriven"></a>рендерексклусиветимердривен
 
@@ -18,7 +18,7 @@ ms.locfileid: "119077448"
 В этом разделе содержатся следующие подразделы.
 
 -   [Описание](#description)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Загрузка образца](#downloading-the-sample)
 -   [Создание примера](#building-the-sample)
 -   [Просмотр примеров файлов](#view-the-sample-files)
@@ -31,7 +31,7 @@ ms.locfileid: "119077448"
 -   [API ммдевице](mmdevice-api.md) для перечисления мультимедийных устройств и выбора.
 -   ВАСАПИ для операций управления потоком.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

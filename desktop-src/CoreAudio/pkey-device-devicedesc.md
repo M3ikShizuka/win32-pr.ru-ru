@@ -4,12 +4,12 @@ ms.assetid: 23715497-a74d-4dab-aade-c7779fe80aa6
 title: PKEY_Device_DeviceDesc (Функтиондисковерикэйс \_ девпкэй. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 71c5772029f6c99a86c330f05e3cae3b343e3ee25f39eae4c8d5900e7bf947c2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5eb68f874979e660fec0cd563db9bcaceb7d5b74
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119077468"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164888"
 ---
 # <a name="pkey_device_devicedesc"></a>\_Девицедеск устройства \_ PKEY
 
@@ -19,7 +19,7 @@ ms.locfileid: "119077468"
 
 Элемент **пвсзвал** структуры **пропвариант** указывает на строку расширенных символов, заканчивающуюся нулем, которая содержит описание устройства.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -31,7 +31,7 @@ ms.locfileid: "119077468"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

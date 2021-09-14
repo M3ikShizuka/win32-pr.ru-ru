@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4f3809ae800cfc753925e7c27d87f970ce56c10d90ace7c23e87b46f3e0067fb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2dc9df55dcf9f507cb57e91fe0214eab94c53f22
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118957533"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165243"
 ---
 # <a name="wm_chartoitem-message"></a>\_Сообщение ЧАРТОИТЕМ WM
 
@@ -57,7 +57,7 @@ WM_CHARTOITEM
 
 Возвращаемое значение указывает действие, выполненное приложением в ответ на сообщение. Возвращаемое значение-1 или-2 означает, что приложение обработало все аспекты выбора элемента и не требует дальнейших действий по списку. Возвращаемое значение 0 или больше Указывает отсчитываемый от нуля индекс элемента в списке и указывает, что поле списка должно выполнять действие по умолчанию для указанного элемента.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция [**дефвиндовпрок**](/windows/desktop/api/winuser/nf-winuser-defwindowproca) возвращает значение-1.
 
@@ -65,7 +65,7 @@ WM_CHARTOITEM
 
 Если процедура диалогового окна обрабатывает это сообщение, необходимо привести требуемое возвращаемое значение к **логическому** типу и вернуть значение напрямую. Значение *\_ мсгресулт DWL* , заданное функцией [**SetWindowLong**](/windows/desktop/api/winuser/nf-winuser-setwindowlonga) , игнорируется.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -77,7 +77,7 @@ WM_CHARTOITEM
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

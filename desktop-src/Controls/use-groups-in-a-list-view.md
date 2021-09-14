@@ -4,12 +4,12 @@ description: В этом разделе описывается создание 
 ms.assetid: 8486B9A2-C519-4912-9E88-3BAFCC4D51CF
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: edaad657d9ea6b71bac1d06a34a0aa29b99c26e204629e503a9e55531da162b7
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ec47d73c3e8b808eaf1909bdafb015c7eebc37de
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120132124"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165415"
 ---
 # <a name="how-to-use-groups-in-a-list-view"></a>Использование групп в List-View
 
@@ -26,7 +26,7 @@ ms.locfileid: "120132124"
 -   C/C++
 -   Windows Программирование пользовательского интерфейса
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 
 Чтобы использовать группы в элементе управления "представление списка", убедитесь, что элемент управления содержит стиль окна [**LVS \_ алигнтоп**](list-view-window-styles.md) .

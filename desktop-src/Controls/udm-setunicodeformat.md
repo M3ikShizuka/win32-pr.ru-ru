@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7dd6d390c62475b63dccf20fdb80da1f1e8dafe19cdacab2f0b1ac2fe7bf1687
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 09eeb63d5c06a5e64c354c950cd84fc451568d36
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118957723"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165464"
 ---
 # <a name="udm_setunicodeformat-message"></a>\_Сообщение СЕТУНИКОДЕФОРМАТ UDM
 
@@ -43,11 +43,11 @@ ms.locfileid: "118957723"
 
 Возвращает предыдущий флаг формата Юникода для элемента управления.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Обсуждение этого сообщения см. в примечаниях по [**CCM \_ сетуникодеформат**](ccm-setunicodeformat.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ ms.locfileid: "118957723"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

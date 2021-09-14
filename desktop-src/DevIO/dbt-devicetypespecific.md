@@ -4,12 +4,12 @@ ms.assetid: 5d68e29d-b4d7-46f4-a35e-1db286e944ca
 title: Событие DBT_DEVICETYPESPECIFIC (ДБТ. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: dd8fb403568cef55741a8c206929d9105284f5191c547500fd79ff39f6b01f1f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a2d7820f5769c6edd3a48b58073b55a911dae862
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120109034"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164448"
 ---
 # <a name="dbt_devicetypespecific-event"></a>\_Событие ДБТ девицетипеспеЦифик
 
@@ -72,12 +72,12 @@ LRESULT CALLBACK WindowProc(
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP<br/>                                                            |
-| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                   |
+| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                   |
 | Заголовок<br/>                   | <dl> <dt>ДБТ. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

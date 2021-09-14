@@ -4,12 +4,12 @@ ms.assetid: bb3c658d-96db-495a-a0dc-e93949c3835d
 title: Коды системных ошибок (12000-15999) (WinError. h)
 ms.topic: reference
 ms.date: 07/18/2019
-ms.openlocfilehash: aa250eb26db3a2dfefda4c8b31bb2bbfd5e5d6415ea50d7279121fb09302c7ce
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8cac8adf6d8a4cf8f60fe978eb6f99f5efc1b9fe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120058994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164603"
 ---
 # <a name="system-error-codes-12000-15999"></a>Коды системных ошибок (12000-15999)
 
@@ -5428,7 +5428,7 @@ API конфигурации монитора работает только с �
 
 </dt> </dl> </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -5440,7 +5440,7 @@ API конфигурации монитора работает только с �
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

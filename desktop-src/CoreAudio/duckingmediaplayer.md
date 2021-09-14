@@ -4,12 +4,12 @@ ms.assetid: 667c8751-1d17-4b59-8ced-ed5f0c333ae9
 title: дуккингмедиаплайер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: aab5a469ec2a7fb1551980d0a08a758e8e8e8f522831dc2148b2d8fb222ecdfb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f86952f1aa7b81c9a7dc711f0c4f36fc8531bd63
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117828285"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165015"
 ---
 # <a name="duckingmediaplayer"></a>дуккингмедиаплайер
 
@@ -18,7 +18,7 @@ ms.locfileid: "117828285"
 В этом разделе содержатся следующие подразделы.
 
 -   [Описание](#description)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Загрузка образца](#downloading-the-sample)
 -   [Создание примера](#building-the-sample)
 -   [Запуск примера](#running-the-sample)

@@ -4,12 +4,12 @@ ms.assetid: b240b629-5bb6-4b07-95be-8ca5a14a3567
 title: User-Mode звуковых компонентов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8768cb6ece5825ae48803f30d8c1631a2e593f40815565b5dc879d23afd961aa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 18715db2d32be3c4a70182571028acbfca411539
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118166038"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164779"
 ---
 # <a name="user-mode-audio-components"></a>User-Mode звуковых компонентов
 

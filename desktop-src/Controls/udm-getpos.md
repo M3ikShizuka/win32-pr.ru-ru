@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e92ca5fe5d902980560b6879ac7c345230056987308a1e390b0af351281eac62
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f8e78ad19289d85b93ebcb39a244a896ddb4f33f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120059784"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165507"
 ---
 # <a name="udm_getpos-message"></a>\_Сообщение ЖЕТПОС UDM
 
@@ -39,13 +39,13 @@ ms.locfileid: "120059784"
 
 В случае успеха для [**HIWORD**](/previous-versions/windows/desktop/legacy/ms632657(v=vs.85)) устанавливается нулевое значение, а для [**ловорд**](/previous-versions/windows/desktop/legacy/ms632659(v=vs.85)) задается текущее расположение элемента управления. При возникновении ошибки **HIWORD** задается ненулевое значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При обработке этого сообщения элемент управления "вверх-вниз" обновляет свое текущее расположение на основе заголовка окна собеседника. Элемент управления "вверх-вниз" возвращает ошибку, если нет окна собеседника или если в заголовке указано недопустимое или недействительное значение. Кроме того, флаг ошибки задается в HIWORD возвращаемого значения, если элемент управления создается без стиля [**доменов обновления \_ сетбуддинт**](up-down-control-styles.md) , хотя он возвращает допустимое значение координаты в ловорд возврата.
 
 Если 32-разрядные значения включены для элемента управления "вверх/вниз" с помощью [**UDM \_ SETRANGE32**](udm-setrange32.md), это сообщение возвращает только младшие 16 разряды расположения. Чтобы получить полное 32-разрядное расположение, используйте [**UDM \_ GETPOS32**](udm-getpos32.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -57,7 +57,7 @@ ms.locfileid: "120059784"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

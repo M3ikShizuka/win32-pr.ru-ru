@@ -4,12 +4,12 @@ description: В этом разделе содержатся сведения о
 ms.assetid: bfcecbf5-cc35-47b8-a713-7e5fd03f60cc
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9d825a9876005cadb20e4fc7717f766582ab12224f4f86995319357875d24230
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e7868bd62044c87765a25f6033499460ed044e57
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119311684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165315"
 ---
 # <a name="how-to-use-ole-in-rich-edit-controls"></a>Использование OLE в элементах управления Rich Edit
 
@@ -26,7 +26,7 @@ ms.locfileid: "119311684"
 -   C/C++
 -   Windows Программирование пользовательского интерфейса
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="use-a-rich-edit-interface"></a>Использование расширенного интерфейса редактирования
 

@@ -4,12 +4,12 @@ ms.assetid: db7d68c3-5642-4238-a212-88d3479ce73d
 title: Основные свойства звука
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ad2d6513798a03cbcd9092e24b37900b5eb686d5fd0c434480a933af50c02fd0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 41528e66977f1f3b9282cf78ba76e4bae32c5bd6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120059004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165083"
 ---
 # <a name="core-audio-properties"></a>Основные свойства звука
 

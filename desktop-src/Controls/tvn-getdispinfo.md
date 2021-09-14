@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 59728c816ee3fe7dac46c12d7e62da6c18cfdad8387f03d3861e63792d9c8f66
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2a09bcc683ba9cf2d89a796e63812381254588a3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120059914"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165568"
 ---
 # <a name="tvn_getdispinfo-notification-code"></a>\_Код уведомления ТВН жетдиспинфо
 
@@ -51,7 +51,7 @@ TVN_GETDISPINFO
 
 Возвращаемое значение игнорируется.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот код уведомления отправляется в следующих случаях:
 
@@ -59,7 +59,7 @@ TVN_GETDISPINFO
 -   Если элемент **иимаже** или **иселектедимаже** структуры [**твитем**](/windows/win32/api/commctrl/ns-commctrl-tvitema) элемента имеет \_ значение имажекаллбакк I, элемент управления отправляет этот код уведомления для получения индекса значков элемента в списке изображений элемента управления. В этом случае, если элемент выбран, для элемента **Mask** параметра *lParam* будет \_ установлен флаг твиф селектедимаже. Если элемент не выбран, для элемента **Mask** параметра *lParam* будет \_ установлен флаг образа твиф.
 -   Если элемент **кчилдрен** структуры [**твитем**](/windows/win32/api/commctrl/ns-commctrl-tvitema) элемента имеет \_ значение чилдренкаллбакк I, элемент управления отправляет этот код уведомления для получения значения, указывающего, имеет ли элемент дочерние элементы. В этом случае для элемента **Mask** параметра *lParam* будет \_ установлен флаг Children твиф.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -72,7 +72,7 @@ TVN_GETDISPINFO
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

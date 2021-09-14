@@ -12,12 +12,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 425cfbe10ac2ee66f10e016489ff070b67b6fc243a472f95b4f5809724998a21
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 243831a94a26b86df29d3a50413bfa9d6830a0e3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119279224"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164643"
 ---
 # <a name="getexceptioninformation-macro"></a>Макрос Жетексцептионинформатион
 
@@ -48,7 +48,7 @@ LPEXCEPTION_POINTERS GetExceptionInformation(void);
 -   [**Исключение \_ Структура записи**](/windows/desktop/api/WinNT/ns-winnt-exception_record) , содержащая описание исключения.
 -   Структура [**контекста**](/windows/desktop/api/WinNT/ns-winnt-arm64_nt_context) , содержащая сведения о состоянии компьютера.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Критерий фильтра (из которого вызывается функция) вычисляется при возникновении исключения во время выполнения блока **\_ \_ try** и определяет, выполняется ли блок **\_ \_ except** .
 
@@ -58,7 +58,7 @@ LPEXCEPTION_POINTERS GetExceptionInformation(void);
 
 В случае вложенных обработчиков каждое критерий фильтра вычисляется до тех пор, пока одно выражение не будет оценено как **\_ \_ обработчик исключений** или **\_ продолжение \_ выполнения исключения**. Каждое выражение фильтра может вызывать **жетексцептионинформатион** для получения сведений об исключениях.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

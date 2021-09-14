@@ -4,12 +4,12 @@ ms.assetid: a24916a9-b67a-4622-b9f3-4b4f26bf4d6b
 title: Событие DBT_DEVICEQUERYREMOVEFAILED (ДБТ. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 605c2689d7d986b4e85fda6d8ce5f24fa6483641de46a6a84f3e4e96ba473897
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 848c7378cdbac95729eee70c70a1e323373b8e85
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119076308"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164472"
 ---
 # <a name="dbt_devicequeryremovefailed-event"></a>\_Событие ДБТ девицекуериремовефаилед
 
@@ -69,19 +69,19 @@ LRESULT CALLBACK WindowProc(
 
 Пример см. в разделе [Обработка запроса на удаление устройства](processing-a-request-to-remove-a-device.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP<br/>                                                            |
-| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                   |
+| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                   |
 | Заголовок<br/>                   | <dl> <dt>ДБТ. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

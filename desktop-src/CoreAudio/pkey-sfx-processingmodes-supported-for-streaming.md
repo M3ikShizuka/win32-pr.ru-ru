@@ -4,12 +4,12 @@ ms.assetid: 52A04E91-CE12-40BB-B2EC-DBE069306C4B
 title: Свойство PKEY_SFX_ProcessingModes_Supported_For_Streaming (Аудиоенгинебасеапо. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3bb51b6c7035abf3c6df733226f2edeb0a91773f69e80423840b846fd3850da0
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f4d3d24b09f0a2e5647b42de63afb6906b193005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119216524"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164871"
 ---
 # <a name="pkey_sfx_processingmodes_supported_for_streaming-property"></a>\_Свойство PKEY SFX \_ процессингмодес \_ поддерживается \_ для \_ потоковой передачи
 
@@ -17,7 +17,7 @@ ms.locfileid: "119216524"
 
 Тип пропвариант (VT): **VT \_ vector** \| **VT- \_ LPWSTR**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот список включает только режимы обработки сигнала, в которых API фактически обрабатывает звуковой сигнал во время потоковой передачи.
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5a21000f9eeeb3ff83d4fb65456b21447aa3fd604412f3b4d6d3b94fda58606b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 10727b745900520e8af31561236c8e93eeeb3a81
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120059314"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165207"
 ---
 # <a name="wm_hscroll-trackbar-notification-code"></a>\_Код уведомления WM HSCROLL (TrackBar)
 
@@ -79,13 +79,13 @@ WM_HSCROLL
 
 Если приложение обрабатывает это сообщение, оно должно вернуть ноль.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 \_Код СУМБТРАКК ТБ обычно используется приложениями, которые предоставляют отзыв по мере того, как пользователь перетаскивает ползунок.
 
 Обратите внимание, что сообщение **WM \_ HSCROLL** содержит только 16 бит данных о положении. Таким же, приложения, которые используют только **WM \_ HSCROLL** (и [**WM \_ VSCROLL**](wm-vscroll--trackbar-.md)) для данных о положении ползунка, имеют практически максимальное значение положения 65 535.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -97,7 +97,7 @@ WM_HSCROLL
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

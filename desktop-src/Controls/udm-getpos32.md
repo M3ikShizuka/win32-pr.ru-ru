@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a11d043ca4f6b69a554b43d5abeaf35e4c2a2a6d72797e829900529df70b6c47
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 15f316b6833c67cd01d4e01910399a8730691f35
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120059794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165504"
 ---
 # <a name="udm_getpos32-message"></a>\_Сообщение GETPOS32 UDM
 
@@ -49,11 +49,11 @@ ms.locfileid: "120059794"
 
 Возвращает расположение элемента управления "вверх-вниз" с 32-разрядной точностью. Приложения должны проверить значение *lParam* , чтобы определить, является ли возвращаемое значение допустимым.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При обработке этого сообщения элемент управления "вверх-вниз" обновляет свое текущее расположение на основе заголовка окна собеседника. Он возвращает ошибку, если нет дружественного окна или если в заголовке указано недопустимое или недействительное значение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -65,7 +65,7 @@ ms.locfileid: "120059794"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

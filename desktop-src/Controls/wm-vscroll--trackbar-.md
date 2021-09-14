@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0dabd6c3c50588c4a9052b0829473352940f0027a1c12d0f3bbc6334e5f13b08
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d1e13b07fab3335bf99469cd43ed1caa10373a97
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119077658"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165176"
 ---
 # <a name="wm_vscroll-trackbar-notification-code"></a>\_Код уведомления WM VSCROLL (TrackBar)
 
@@ -79,7 +79,7 @@ WM_HSCROLL
 
 Если приложение обрабатывает это сообщение, оно должно вернуть ноль.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 \_Код СУМБТРАКК ТБ обычно используется приложениями, которые предоставляют отзыв по мере того, как пользователь перетаскивает ползунок.
 

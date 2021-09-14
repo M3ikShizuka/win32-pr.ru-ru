@@ -4,12 +4,12 @@ ms.assetid: e25d35b9-f8f1-4850-996c-e1cb393cca66
 title: Событие DBT_DEVICEREMOVECOMPLETE (ДБТ. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e5998742d823d710bfb91cd10579a3fb1ec65bec42b615fc7fdac3ac35545b24
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 16c899d8cee4a0be34829ba0a8edbaf27be71f6c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119539194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164463"
 ---
 # <a name="dbt_deviceremovecomplete-event"></a>\_Событие ДБТ девицеремовекомплете
 
@@ -65,7 +65,7 @@ LRESULT CALLBACK WindowProc(
 
 Возвращает **значение true**.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Система может транслировать \_ сообщение ДБТ девицеремовекомплете, не отправляя соответствующие сообщения [ДБТ \_ девицекуериремове](dbt-devicequeryremove.md) и [ДБТ \_ девицеремовепендинг](dbt-deviceremovepending.md) . В таких случаях приложения и драйверы должны быть восстановлены после потери устройства, как лучше.
 
@@ -75,19 +75,19 @@ LRESULT CALLBACK WindowProc(
 
 Пример см. в разделе [обнаружение вставки или удаления носителя](detecting-media-insertion-or-removal.md) или [Обработка запроса на удаление устройства](processing-a-request-to-remove-a-device.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP<br/>                                                            |
-| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                   |
+| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                   |
 | Заголовок<br/>                   | <dl> <dt>ДБТ. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

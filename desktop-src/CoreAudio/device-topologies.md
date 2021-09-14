@@ -4,12 +4,12 @@ ms.assetid: 5ac421e5-74a4-40e8-af6f-a99a05ebc3e0
 title: Топологии устройств
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cb08221ac157738f8b13ff3dce68d70675b6e94ddc04d99514277d3f1b79b42c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 31e0af267bb4a0fa924ee23d36a2a615ac5ae7fa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119077626"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165032"
 ---
 # <a name="device-topologies"></a>Топологии устройств
 

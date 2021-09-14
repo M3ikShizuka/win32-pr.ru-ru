@@ -4,12 +4,12 @@ ms.assetid: 9a2131b2-ec4a-492a-a277-bd26ec8d67e5
 title: дуккингкаптуресампле
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 76515f9d20e31bf4583b715e09da38c29bfdac34f6c975087f64bf2617696542
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 636fe39e8fa27beee14ab17548f5929d1d937b20
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119018462"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165019"
 ---
 # <a name="duckingcapturesample"></a>дуккингкаптуресампле
 
@@ -18,7 +18,7 @@ ms.locfileid: "119018462"
 В этом разделе содержатся следующие подразделы.
 
 -   [Описание](#description)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Загрузка образца](#downloading-the-sample)
 -   [Создание примера](#building-the-sample)
 -   [Запуск примера](#running-the-sample)
@@ -32,7 +32,7 @@ ms.locfileid: "119018462"
 -   [Васапи](wasapi.md) для доступа к устройству записи и отрисовки данных, операциям управления потоком и обработке событий дуккинг.
 -   [API-интерфейсы Wave](/previous-versions//ms713499(v=vs.85)) для доступа к коммуникационному устройству и записи звукового ввода.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

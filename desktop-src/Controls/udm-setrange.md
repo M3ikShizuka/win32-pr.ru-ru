@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 60499c960b7f2e496dc4317229865a8838013fc5d78c194072bee27e761ba4d3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fb32a72ca8ca5182e87e2c0346cbc44ab25300e8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118408059"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165468"
 ---
 # <a name="udm_setrange-message"></a>\_Сообщение SETRANGE UDM
 
@@ -43,11 +43,11 @@ ms.locfileid: "118408059"
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Максимальная длина может быть меньше, чем минимальная. При нажатии кнопки со стрелкой вверх текущее расположение перемещается ближе к максимальному положению, а нажатие кнопки со стрелкой вниз перемещается к минимальному положению.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ ms.locfileid: "118408059"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

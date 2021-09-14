@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 81285d2e0aa5c9a8b65eabf7c5b23d02da3acf02ac13e3274accce340530024f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: dec8f0ec2200d1f18e48c068b581b42868db197b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120088414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165456"
 ---
 # <a name="udn_deltapos-notification-code"></a>\_Код уведомления УДН делтапос
 
@@ -49,11 +49,11 @@ UDN_DELTAPOS
 
 Возвращает ненулевое значение, чтобы предотвратить изменение в положении элемента управления, или нуль, чтобы разрешить изменение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 \_Код уведомления УДН делтапос отправляется перед сообщением [**WM \_ VSCROLL**](wm-vscroll.md) или [**WM \_ HSCROLL**](wm-hscroll.md) , которое фактически изменяет расположение элемента управления. Это позволяет проверять, разрешать, изменять или запрещать изменение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -65,7 +65,7 @@ UDN_DELTAPOS
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

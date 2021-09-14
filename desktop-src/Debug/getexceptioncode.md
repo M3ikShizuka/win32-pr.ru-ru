@@ -12,12 +12,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 5c1badd5317b5a12eb97ed6418873b5c576f520f4a8106361abb1a6f7c95921e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3b87b77ddb2d2e2af3a22e30d1204cf178ee6981
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118162665"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164640"
 ---
 # <a name="getexceptioncode-macro"></a>Макрос GetExceptionCode
 
@@ -77,7 +77,7 @@ DWORD GetExceptionCode(void);
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функцию **GetExceptionCode** можно вызывать только внутри выражения фильтра или блока обработчика исключений обработчика исключений. Критерий фильтра вычисляется, если исключение возникает во время выполнения блока **\_ \_ try** и определяет, выполняется ли блок **\_ \_ except** .
 
@@ -93,7 +93,7 @@ DWORD GetExceptionCode(void);
 
 Пример см. в разделе [использование обработчика исключений](using-an-exception-handler.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -104,7 +104,7 @@ DWORD GetExceptionCode(void);
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

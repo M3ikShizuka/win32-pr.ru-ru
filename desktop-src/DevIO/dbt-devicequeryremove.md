@@ -4,12 +4,12 @@ ms.assetid: a0e9aa57-da0e-4e9c-99d0-5502040d2664
 title: Событие DBT_DEVICEQUERYREMOVE (ДБТ. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ec71d1e66675c8d26d02cc694e9f8243345a2c995a78166ff6a970b67e7558c0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7b8c9dbdee13318f9a664582fdba8f9e3f9bfc5f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118004659"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164476"
 ---
 # <a name="dbt_devicequeryremove-event"></a>\_Событие ДБТ девицекуериремове
 
@@ -67,7 +67,7 @@ LRESULT CALLBACK WindowProc(
 
 Верните ШИРОКОВЕЩАТЕЛЬный \_ запрос \_ Deny, чтобы запретить разрешение на удаление устройства.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Необходимо закрыть все дескрипторы устройства, иначе удаление устройства завершится ошибкой.
 
@@ -82,12 +82,12 @@ LRESULT CALLBACK WindowProc(
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP<br/>                                                            |
-| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                   |
+| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                   |
 | Заголовок<br/>                   | <dl> <dt>ДБТ. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: В этом разделе описывается поддержк�
 ms.assetid: 5020F638-261D-4D32-ACC4-F9572EDBE875
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b01ab987516f1a91b47f8e5fd5f031631956d8c7bf59cd164edd83d414d5e72d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fdb029d6e1c018f1793c749aefb2f88104559cae
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118668896"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165455"
 ---
 # <a name="unicode-support-for-common-controls"></a>Поддержка Юникода для стандартных элементов управления
 

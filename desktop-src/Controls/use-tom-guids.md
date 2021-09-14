@@ -4,12 +4,12 @@ description: Идентификаторы GUID объектной модели (
 ms.assetid: 48FF98C9-D42E-4E7F-874F-8E56F730E24E
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f7c5c892ecac4b13a6e74aedad6c2a373908d2173c105ab0dbb0ec49c1439c36
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: db9c937d8b3c3612a3a49f27f18ac7c392b7a596
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117828535"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165379"
 ---
 # <a name="how-to-use-tom-guids"></a>Использование идентификаторов GUID тома
 
@@ -21,12 +21,12 @@ ms.locfileid: "117828535"
 
 -   [Windows Элементы управления](window-controls.md)
 
-### <a name="prerequisites"></a>Обязательные условия
+### <a name="prerequisites"></a>Предварительные требования
 
 -   C/C++
 -   Windows Программирование пользовательского интерфейса
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="use-a-tom-guid"></a>Использовать идентификатор GUID тома
 

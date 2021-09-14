@@ -4,12 +4,12 @@ ms.assetid: f16fdfa3-b080-47ee-a7dd-241fe2d24278
 title: Коды системных ошибок (8200-8999) (WinError. h)
 ms.topic: reference
 ms.date: 07/18/2019
-ms.openlocfilehash: e9fd65025c3d51575cb0ece83cba14e0c62980d11a60ec6cb351919b6c7714c3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7500ae4c178999de8052b0858089604652dc5237
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119572964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164580"
 ---
 # <a name="system-error-codes-8200-8999"></a>Коды системных ошибок (8200-8999)
 
@@ -5325,7 +5325,7 @@ DS не может наследовать имя участника-службы
 </dt> </dl> </dd> </dl>
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -5337,7 +5337,7 @@ DS не может наследовать имя участника-службы
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

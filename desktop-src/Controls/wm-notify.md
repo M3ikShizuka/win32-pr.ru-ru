@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9139f2dab6410eeb2bacbde93b5e163c0591f350626046861426ddc53beab389
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f1905954e7fb164f8436216fa918cc6f243f4b17
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119539714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165196"
 ---
 # <a name="wm_notify-message"></a>\_Уведомить сообщение WM
 
@@ -47,7 +47,7 @@ ms.locfileid: "119539714"
 
 Возвращаемое значение игнорируется, за исключением сообщений уведомления, в которых указано иное.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Место назначения сообщения должно быть **HWND** родительского элемента управления. Это значение можно получить с помощью функции- [**родителя**](/windows/desktop/api/winuser/nf-winuser-getparent), как показано в следующем примере, где *m \_ контролхвнд* — это **HWND** самого элемента управления.
 
@@ -102,7 +102,7 @@ INT_PTR CALLBACK DlgProc(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam)
 
 Многие уведомления доступны в форматах ANSI и Юникод. Окно, отправляющее сообщение **WM \_ Notify** , использует сообщение [**WM \_ нотифиформат**](wm-notifyformat.md) для определения формата, который следует использовать. Дополнительные сведения см. в разделе **WM \_ нотифиформат** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -114,7 +114,7 @@ INT_PTR CALLBACK DlgProc(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam)
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -5,11 +5,11 @@ ms.assetid: 29cc2f47-5667-4b03-8af8-51995a90a3dc
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: a3a373a1d7d1fc44da851480841aab04bf364b27
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122465272"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165295"
 ---
 # <a name="using-tab-controls"></a>Использование элементов управления "Вкладка"
 

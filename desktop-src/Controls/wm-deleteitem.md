@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1f461b63d751822d9a4c602993314bf0677cff754881269ab44458ab17f3a439
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dbf37f8a367d23353903bd3cda85b573f6884ff2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119018542"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165211"
 ---
 # <a name="wm_deleteitem-message"></a>\_Сообщение DELETEITEM WM
 
@@ -57,13 +57,13 @@ WM_DELETEITEM
 
 Приложение должно возвращать **значение true** , если обрабатывает это сообщение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Microsoft Windows NT и более поздние версии: Windows отправляет сообщение **WM \_ DELETEITEM** только для элементов, удаленных из списка, нарисованного владельцем (с помощью стиля [**фунта \_ овнердравфиксед**](list-box-styles.md) или [**фунта \_ овнердраввариабле**](list-box-styles.md) ) или поля со списком, рисуемого владельцем (с помощью [**cbs \_ овнердравфиксед**](combo-box-styles.md) или типа [**cbs \_ овнердраввариабле**](combo-box-styles.md) ).
 
 Windows 95: Windows отправляет сообщение **WM \_ DELETEITEM** для любого удаленного поля списка или элемента поля со списком с ненулевыми данными элемента.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -75,7 +75,7 @@ Windows 95: Windows отправляет сообщение **WM \_ DELETEITEM**
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

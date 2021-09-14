@@ -4,12 +4,12 @@ ms.assetid: 4bad85d7-a933-43fe-9d79-4835d92c82d6
 title: Префикс области
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 06ad23369d2b2c60c00752e4f5be31f6ad605e2814d0b7502d42ff79baa10977
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b2c027de94fda403eb58905e536d8c6256cb2d6c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118234097"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168055"
 ---
 # <a name="scoping-prefix"></a>Префикс области
 

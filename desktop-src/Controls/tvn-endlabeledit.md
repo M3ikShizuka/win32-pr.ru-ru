@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 38be7b9fde4b96f3510cd59683ee9df471cc4d77342fe375d9b1818b8ae7da46
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7c30d494ad90b3d55f85b1ad154aed0f814a1eec
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118408204"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165571"
 ---
 # <a name="tvn_endlabeledit-notification-code"></a>\_Код уведомления ТВН ендлабеледит
 
@@ -51,7 +51,7 @@ TVN_ENDLABELEDIT
 
 Если элемент **псзтекст** имеет значение, отличное от **null**, возвращает **значение true** , чтобы задать метку элемента для редактируемого текста. Возвращает **значение false** , чтобы отклонить измененный текст и вернуться к исходной метке.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если элемент **псзтекст** имеет **значение NULL**, возвращаемое значение игнорируется.
 
@@ -65,7 +65,7 @@ TVN_ENDLABELEDIT
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 | Имя в кодировке Юникод и ANSI<br/>   | **ТВН \_ ЕНДЛАБЕЛЕДИТВ** (Юникод) и **ТВН \_ ендлабеледита** (ANSI)<br/>         |
 
 

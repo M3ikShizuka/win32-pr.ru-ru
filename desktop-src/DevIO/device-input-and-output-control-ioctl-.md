@@ -5,11 +5,11 @@ title: Входные и выходные элементы устройства 
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: ce2bb2ee26c63c2aad02d8e8d167ff12383fc6b8
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103896254"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164423"
 ---
 # <a name="device-input-and-output-control-ioctl"></a>Входные и выходные элементы устройства (IOCTL)
 
@@ -19,7 +19,7 @@ ms.locfileid: "103896254"
 
 Типы управляющих кодов, которые можно указать, зависят от устройства, к которому осуществляется доступ, и от платформы, в которой выполняется приложение. Приложения могут использовать стандартные управляющие коды или управляющие коды для конкретных устройств, чтобы выполнять прямые операции ввода-вывода на гибком диске, жестком диске, ленточном накопителе или устройстве чтения компакт-дисков.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

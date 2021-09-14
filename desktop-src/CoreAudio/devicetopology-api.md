@@ -5,12 +5,12 @@ title: API Девицетопологи
 ms.topic: article
 ms.date: 05/31/2018
 ms.custom: project-verbatim
-ms.openlocfilehash: 3b79def9f1cb1f5ec9342074b813e50993cbc37e7a7af2a9e0b577c730156247
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 472c02cd59ca0cadd922cbe398a768c97cfab73a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118406759"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165031"
 ---
 # <a name="devicetopology-api"></a>API Девицетопологи
 

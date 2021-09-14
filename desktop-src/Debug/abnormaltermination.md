@@ -12,12 +12,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 137d6667c993d4a107be057e46c4ee469a513ec95d358b6d3cc50654a5bba520
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7c4869f36d8ba70c8dcd8ca526949d489f455e8c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118957133"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164676"
 ---
 # <a name="abnormaltermination-macro"></a>Макрос Абнормалтерминатион
 
@@ -47,7 +47,7 @@ BOOL AbnormalTermination(void);
 
 Если блок **\_ \_ try** завершается обычным образом, возвращаемое значение равно нулю.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Блок **\_ \_ try** обычно завершается, только если выполнение покидает блок последовательно после выполнения последней инструкции в блоке. Инструкции (такие как **return**, **goto**, **Continue** или **break**), которые приводят к завершению блока **\_ \_ try** , вызывают аварийное завершение блока. Это происходит, даже если такая инструкция является последней инструкцией в блоке **\_ \_ try** .
 

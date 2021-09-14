@@ -4,12 +4,12 @@ description: Настроив другие элементы управления
 ms.assetid: 5797AA55-BD8D-407A-8896-08EE0DDC7E30
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d6819e0f37f07a90ae08a623f14c6c26d1d67f55ea81143834dfd10816f74396
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8eca9a4e3b3049f8d4cf7515879d91a096f5a9e3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117829063"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165420"
 ---
 # <a name="how-to-use-buddy-windows"></a>Использование дружественной Windows
 
@@ -30,7 +30,7 @@ ms.locfileid: "117829063"
 -   C/C++
 -   Windows Программирование пользовательского интерфейса
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="use-buddy-windows"></a>Использовать приятель Windows
 
@@ -84,7 +84,7 @@ void LabelTrackbarsWithBuddies(HWND hDlg)
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 **IDC \_ SLIDER1** и **IDC \_ SLIDER2** — это ползунки, созданные в редакторе ресурсов.
 

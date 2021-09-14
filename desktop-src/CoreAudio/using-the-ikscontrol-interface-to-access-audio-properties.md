@@ -4,12 +4,12 @@ ms.assetid: 72bf9164-96c6-4543-b858-19480b032fdb
 title: Использование интерфейса Иксконтрол для доступа к свойствам аудио
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b763b874730981907d61ed7d4d2f46f4a9b053705b2747064c2505b9c5e90b14
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a67639a0e51334da80b7bff88293414a58bb204c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120088231"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164776"
 ---
 # <a name="using-the-ikscontrol-interface-to-access-audio-properties"></a>Использование интерфейса Иксконтрол для доступа к свойствам аудио
 

@@ -4,12 +4,12 @@ description: В этом разделе показано, как задать м
 ms.assetid: BDE17F4B-3A15-48BB-8160-036AD0DC3B41
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d746bc74b816a6c14447a7f1e7d57a552bf1a08581cbcbba3e51f48a2143caab
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 616a9bb8a2c1707d903f0ebe2b6de86511dc6ce4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120132044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165380"
 ---
 # <a name="how-to-use-tile-views"></a>Использование мозаичных представлений
 
@@ -26,7 +26,7 @@ ms.locfileid: "120132044"
 -   C/C++
 -   Windows Программирование пользовательского интерфейса
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 
 Задайте общие параметры отображения для мозаичного представления с помощью макроса [**\_ сеттилевиевинфо ListView**](/windows/desktop/api/Commctrl/nf-commctrl-listview_settileviewinfo) . Используйте структуру [**лвтилевиевинфо**](/windows/win32/api/commctrl/ns-commctrl-lvtileviewinfo) , переданную в этот макрос, чтобы указать расположение текста относительно значка, размер каждой плитки (включая сопроводительный текст) и максимальное число строк текста.

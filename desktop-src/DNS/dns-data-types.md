@@ -6,12 +6,12 @@ keywords:
 - IP4_ADDRESS
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 81756daaff73e7d5afc1b7c749cd976a9ede09d74ae70eb7db05d9e5d12f2f62
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b2caa113670a749029b70df9772d6e2707684b7c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119076868"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164743"
 ---
 # <a name="dns-data-types"></a>Типы данных DNS
 
@@ -33,7 +33,7 @@ typedef DWORD IP4_ADDRESS;
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

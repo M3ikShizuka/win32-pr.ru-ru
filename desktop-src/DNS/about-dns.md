@@ -8,12 +8,12 @@ keywords:
 - DNS-сервер системы доменных имен, описание
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5cc286c18aa60a930a243c1500cf4707d0d42874fc9556fcb090df582334f077
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c98573e72db645d96c263efd479135807274c18a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120084794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164755"
 ---
 # <a name="about-dns"></a>Сведения о DNS
 

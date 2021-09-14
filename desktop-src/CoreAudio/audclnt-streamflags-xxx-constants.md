@@ -4,12 +4,12 @@ ms.assetid: 7b2267c3-79f5-4ada-a7ce-78dd514f8487
 title: Константы AUDCLNT_STREAMFLAGS_XXX (Аудиосессионтипес. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 84817607092c179286f47eb35ef51f5e0f82d44211bcd2345ca3d27ee06b0e13
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 65faf887c35b4ce1110cecb7d7509eb3dfda1d57
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118407367"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165156"
 ---
 # <a name="audclnt_streamflags_xxx-constants"></a>\_ \_ Константы аудклнт стреамфлагс XXX
 
@@ -29,7 +29,7 @@ ms.locfileid: "118407367"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод [**иаудиоклиент:: Initialize**](/windows/desktop/api/Audioclient/nf-audioclient-iaudioclient-initialize) и структура [**\_ \_ \_ params активации DirectX Audio**](/windows/win32/api/mmdeviceapi/ns-mmdeviceapi-directx_audio_activation_params) используют \_ \_ константы аудклнт стреамфлагс XXX.
 
@@ -51,7 +51,7 @@ ms.locfileid: "118407367"
 |-------------------------------------|------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Приложения UWP для классических приложений Vista \|\]<br/>                                          |
 | Минимальная версия сервера<br/> | Windows \[Приложения UWP для классических приложений сервера 2008 \|\]<br/>                                    |
-| Header<br/>                   | <dl> <dt>Аудиосессионтипес. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Аудиосессионтипес. h</dt> </dl> |
 
 
 

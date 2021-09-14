@@ -4,12 +4,12 @@ description: Потоки можно использовать для перем�
 ms.assetid: A7ED47F1-968C-4E41-B1E2-4449072D2FC4
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ae620d123ad983cd150bf78d27d99de137ec61eea8c5a32c9fcc9698cb262a63
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b89a9cc2a8caa157f9c65220fc5cead7564bc555
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117828626"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165396"
 ---
 # <a name="how-to-use-streams"></a>использование Потоки
 
@@ -30,7 +30,7 @@ ms.locfileid: "117828626"
 -   C/C++
 -   Windows Программирование пользовательского интерфейса
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="use-a-stream"></a>Использование потока
 

@@ -4,12 +4,12 @@ ms.assetid: 6b6326d8-6875-4146-a4e3-7873f4e400cb
 title: Структурированная обработка исключений
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9c07e3bce1c15120f5bba8f4423d96a32495dcdab0262957980f2b829ac0fa68
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 62069b5aed16869a3f56b644d522c368702251c1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120059014"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164620"
 ---
 # <a name="structured-exception-handling"></a>Структурированная обработка исключений
 

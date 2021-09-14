@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 04/19/2019
 ms.openlocfilehash: 775894514885b80b6c1c3113a5bb4fb34b83b99a
-ms.sourcegitcommit: 9942a888f172981e276def0c6b84fb0266fcb02d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "123399788"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164728"
 ---
 # <a name="dns-functions"></a>Функции DNS
 

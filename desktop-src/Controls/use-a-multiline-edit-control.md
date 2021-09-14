@@ -4,12 +4,12 @@ description: В этом разделе показано, как реализо�
 ms.assetid: B955CC42-F89F-48EB-A19A-ADA6E5273EF6
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d11100d4d6f82c7a352d4ddacaa7fc05694b4d54125febc766a6d3f1c68376e4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d05133707e9a47a632a70807177c6ec1b63bc842
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117829075"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165436"
 ---
 # <a name="how-to-create-a-multiline-edit-control"></a>Создание многострочного элемента управления Edit
 
@@ -26,7 +26,7 @@ ms.locfileid: "117829075"
 -   C/C++
 -   Windows Программирование пользовательского интерфейса
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 
 Приложение должно включать код для создания экземпляра и инициализации многострочного элемента управления Edit, а затем обрабатывать команды редактирования пользователя.

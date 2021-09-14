@@ -4,12 +4,12 @@ description: Элемент управления — это дочернее о�
 ms.assetid: 0a6eb481-d94e-40c5-afec-46354520f08f
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 54bbf1c7ebf33b5665b086b34dd7134cdebadc299f4e2010710ddf4ae519dc24
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 814bf14f3c93f6f38ba787cba463977a4dca9eda
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118957543"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165255"
 ---
 # <a name="windows-controls"></a>Windows Элементы управления
 

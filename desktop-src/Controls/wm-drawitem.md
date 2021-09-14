@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8f5d4b2addfa2de5f8c76ded636ca29a96fb3af7e0ab4157d25ac26a78c462c2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d5bd6465a560a0590ed9f5b483afae4c0d72d637
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118957523"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165208"
 ---
 # <a name="wm_drawitem-message"></a>\_Сообщение DRAWITEM WM
 
@@ -59,7 +59,7 @@ WM_DRAWITEM
 
 Если приложение обрабатывает это сообщение, оно должно возвращать **значение true**.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 По умолчанию функция [**дефвиндовпрок**](/windows/desktop/api/winuser/nf-winuser-defwindowproca) рисует прямоугольник фокуса для элемента списка, рисуемого владельцем.
 
@@ -67,7 +67,7 @@ WM_DRAWITEM
 
 Перед возвратом из обработки этого сообщения приложение должно убедиться, что контекст устройства, определенный членом *HDC* структуры [**дравитемструкт**](/windows/win32/api/winuser/ns-winuser-drawitemstruct) , находится в состоянии по умолчанию.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -79,7 +79,7 @@ WM_DRAWITEM
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

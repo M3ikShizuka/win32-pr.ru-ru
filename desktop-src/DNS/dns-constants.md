@@ -4,12 +4,12 @@ description: Следующие константы определены для D
 ms.assetid: 95bc9193-7962-498a-9abd-c4718ac35f0f
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 61da11c9d8f5af28e2152bad5fe9c7b5eb6eb7d83fdb7f94c11e8c2f3c04d9f8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 64497e14d6c4ae11f4a6ed68200614aa4f602270
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118164160"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164744"
 ---
 # <a name="dns-constants"></a>Константы DNS
 
@@ -33,8 +33,8 @@ ms.locfileid: "118164160"
 | \_тип DNS \_ null    | 0x000a           |
 | \_тип DNS \_ WKS     | 0x000b           |
 | \_тип DNS \_ ptr     | 0x000c           |
-| \_тип DNS \_ HINFO   | 0x010E           |
-| \_тип DNS \_ MINFO   | 0x010D           |
+| \_тип DNS \_ HINFO   | 0x000d           |
+| \_тип DNS \_ MINFO   | 0x000e           |
 | \_тип DNS \_ MX      | 0x000f           |
 | \_текст типа \_ DNS    | 0x0010           |
 | \_RP типа \_ DNS      | 0x0011           |
@@ -48,8 +48,8 @@ ms.locfileid: "118164160"
 | \_ключ типа \_ DNS     | 0x0019           |
 | \_тип DNS \_ px      | 0x001a           |
 | \_ \_ объекты групповой политики типа DNS    | 0x001b           |
-| \_тип \_ AAAA DNS    | 0x011B           |
-| \_тип DNS \_ Loc     | 0x011E           |
+| \_тип \_ AAAA DNS    | 0x001c           |
+| \_тип DNS \_ Loc     | 0x001d           |
 | \_тип DNS \_ NXT     | 0x001e           |
 | \_EID типа \_ DNS     | 0x001f           |
 | \_нимлок типа \_ DNS  | 0x0020           |
@@ -226,7 +226,7 @@ ms.locfileid: "118164160"
 
 
 
-| Error                | Значение                                        |
+| Ошибка                | Значение                                        |
 |----------------------|------------------------------------------------|
 | \_Ошибка DNS ркоде \_  | Без ошибок                                       |
 | бывший DNS- \_ ркоде \_  | Ошибка формата                                   |

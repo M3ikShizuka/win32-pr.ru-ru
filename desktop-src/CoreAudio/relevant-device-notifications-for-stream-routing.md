@@ -4,12 +4,12 @@ ms.assetid: caf831bb-b8de-467f-bdb4-f9f8991dc7a8
 title: Соответствующие уведомления для потоковой маршрутизации
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ea0660735590853161395b1cf771ba17bbb72e48e072b2f9daa11a0841c9a5c7
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d1a843c1d8b5cfd740ada5049cb9428e7745072d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120109464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164848"
 ---
 # <a name="relevant-notifications-for-stream-routing"></a>Соответствующие уведомления для потоковой маршрутизации
 

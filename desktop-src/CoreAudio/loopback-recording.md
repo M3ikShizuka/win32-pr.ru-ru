@@ -4,12 +4,12 @@ ms.assetid: 71c567f7-fffa-4b75-897a-63ed30c4c9b0
 title: Запись замыкания на себя
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7aa5ffe48bf11ad57b02085ab00dfd1ca09be0f72a56935cbd8d1bb40543033f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 374da7497096118905f5e4c79bbacda832a42a7b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118005277"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164952"
 ---
 # <a name="loopback-recording"></a>Запись замыкания на себя
 

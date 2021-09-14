@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 50a02da2143ea4a5b167f6485993c5623b79643db861876483e5e0dfd8e34b53
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cd6f38ea58250ef3367ef260625dea7dc7b94783
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120132174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165519"
 ---
 # <a name="udm_getbuddy-message"></a>Сообщение "многомерная модель UDM" \_
 

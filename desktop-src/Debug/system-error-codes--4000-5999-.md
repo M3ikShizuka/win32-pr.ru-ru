@@ -4,12 +4,12 @@ ms.assetid: 1d2f7160-6322-4c75-abbc-4a882bbdf7ce
 title: Коды системных ошибок (4000-5999) (WinError. h)
 ms.topic: reference
 ms.date: 07/18/2019
-ms.openlocfilehash: ada3f091671fd865f76faa830b89393ecc80176021a4990a71d4715886a3ffea
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bfd39042489f2a92ff2eb13df92a22e392c5405e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118956933"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164595"
 ---
 # <a name="system-error-codes-4000-5999"></a>Коды системных ошибок (4000-5999)
 
@@ -3689,7 +3689,7 @@ CSVFS не удалось выполнить операцию, так как т�
 </dt> </dl> </dd> </dl>
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -3701,7 +3701,7 @@ CSVFS не удалось выполнить операцию, так как т�
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

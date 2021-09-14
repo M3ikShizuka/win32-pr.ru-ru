@@ -4,12 +4,12 @@ ms.assetid: 429a7572-b609-46fd-946e-ee34ddd6cc5e
 title: PKEY_AudioEndpoint_ControlPanelPageProvider (Ммдевицеапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6dc39f471649487dcdbfc2fa94371466eabd9ec59a8f9de19bdeafcec9d4283b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 205ccdfba799652d9b09af21eefbedd3c3049533
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119695354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164931"
 ---
 # <a name="pkey_audioendpoint_controlpanelpageprovider"></a>PKEY \_ аудиоендпоинт \_ контролпанелпажепровидер
 
@@ -19,7 +19,7 @@ ms.locfileid: "119695354"
 
 Элемент **пвсзвал** структуры **пропвариант** указывает на строку расширенных символов, заканчивающуюся НУЛЕМ, которая содержит идентификатор GUID, определяющий поставщик расширения панели управления.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -31,7 +31,7 @@ ms.locfileid: "119695354"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

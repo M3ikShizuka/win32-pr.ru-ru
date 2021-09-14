@@ -5,11 +5,11 @@ title: пажеблаккженератионпроцессингграйком�
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 5b3bd5e4fdbafba97884a7aed608b23e4c26ce1c
-ms.sourcegitcommit: 5d4e99f4c8f42f5f543e52cb9beb9fb13ec56c5f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112408507"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168064"
 ---
 # <a name="pageblackgenerationprocessinggraycomponentreplacementextent"></a>пажеблаккженератионпроцессингграйкомпонентреплацементекстент
 
@@ -70,12 +70,12 @@ XML-структура этого элемента:
 
 
 
-| Свойство                | xsi:type           | Значение                      |
+| Свойство.                | xsi:type           | Значение                      |
 |-------------------------|--------------------|----------------------------|
 | DataType<br/>     | строка<br/>  | xs:integer<br/>      |
 | DefaultValue<br/> | строка<br/>  | неопределенный<br/>       |
 | MaxValue<br/>     | Целое число<br/> | 100<br/>             |
-| MinValue<br/>     | целое число<br/> | 0<br/>               |
+| MinValue<br/>     | Целое число<br/> | 0<br/>               |
 | Несколько<br/>     | целое число<br/> | 1<br/>               |
 | Обязательный<br/>    | строка<br/>  | PSK: условный<br/> |
 | Единицах UnitType<br/>     | строка<br/>  | percent<br/>         |

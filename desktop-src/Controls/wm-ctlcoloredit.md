@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: da7f1fd27c51cabc699cf945fd4701c36d2e9709d1654de45859777333b9b4bb
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e100367f37018424fad33dc7cea30700183a0a2c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120053904"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165235"
 ---
 # <a name="wm_ctlcoloredit-message"></a>\_Сообщение КТЛКОЛОРЕДИТ WM
 
@@ -57,7 +57,7 @@ WM_CTLCOLOREDIT
 
 Если приложение обрабатывает это сообщение, оно должно возвращать дескриптор кисти. Система использует кисть для рисования фона элемента управления "поле ввода".
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если приложение возвращает созданную кисть (например, с помощью функции [**креатесолидбруш**](/windows/desktop/api/wingdi/nf-wingdi-createsolidbrush) или [**креатебрушиндирект**](/windows/desktop/api/wingdi/nf-wingdi-createbrushindirect) ), приложение должно освободить кисть. Если приложение возвращает системную кисть (например, которая была получена функцией [**жетстоккобжект**](/windows/desktop/api/wingdi/nf-wingdi-getstockobject) или [**жетсисколорбруш**](/windows/desktop/api/winuser/nf-winuser-getsyscolorbrush) ), приложению не нужно освобождать эту кисть.
 
@@ -71,7 +71,7 @@ WM_CTLCOLOREDIT
 
 **Расширенное редактирование:** Это сообщение не поддерживается. Чтобы задать цвет фона для элемента управления Rich Edit, используйте сообщение [**EM \_ сетбкгндколор**](em-setbkgndcolor.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -83,7 +83,7 @@ WM_CTLCOLOREDIT
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

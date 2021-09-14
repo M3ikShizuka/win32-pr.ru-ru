@@ -4,12 +4,12 @@ ms.assetid: 20110ffc-5eff-4279-abea-53115803b6ee
 title: Перечисление звуковых устройств
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bd5d21ec2de2b08ca3c6f26884bd210b2f149caaa9e3b6a4402b69dde9fb7540
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 707b9a88181c83344757c711af1c0199c19ebc16
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119018382"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164991"
 ---
 # <a name="enumerating-audio-devices"></a>Перечисление звуковых устройств
 

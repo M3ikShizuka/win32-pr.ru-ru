@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 18af761c7580707bfd0926874e25069ca15b564bf6ef205cd6dc7aaaecb6a772
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f193e9a0ff029ca607748fe4bbb6d61f781c1248
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119018632"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165548"
 ---
 # <a name="tvn_itemexpanded-notification-code"></a>\_Код уведомления ТВН итемекспандед
 

@@ -4,12 +4,12 @@ ms.assetid: 6ff3bc23-550e-41b7-b37c-35d552b29e20
 title: каптурешаредевентдривен
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9d8d71739c6e308ee9be79263dc5cdd5bbc693775722f14a35567b6a70138c8e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 339bd02fcb94f65be558c2dce767747ebf4fab98
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119758984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165127"
 ---
 # <a name="capturesharedeventdriven"></a>каптурешаредевентдривен
 
@@ -18,7 +18,7 @@ ms.locfileid: "119758984"
 В этом разделе содержатся следующие подразделы.
 
 -   [Описание](#description)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Загрузка образца](#downloading-the-sample)
 -   [Создание примера](#building-the-sample)
 -   [Запуск примера](#running-the-sample)
