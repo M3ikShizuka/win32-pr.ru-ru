@@ -21,11 +21,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: a0945cf6e5c40b1587b6bcae05331d391ab18685
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105712445"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964306"
 ---
 # <a name="jet_instancetostring-method"></a>JET_INSTANCE. Метод ToString
 

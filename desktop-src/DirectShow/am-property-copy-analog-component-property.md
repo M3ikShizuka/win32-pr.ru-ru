@@ -5,11 +5,11 @@ title: Свойство AM_PROPERTY_COPY_ANALOG_COMPONENT (Двдмедиа. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 6448bfbcc07be6ca37189c15c7c605887e6d22b3
-ms.sourcegitcommit: 63753fcfb0afbbe5ec283fb8316e62c2dc950f66
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "107910312"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162368"
 ---
 # <a name="am_property_copy_analog_component-property"></a>\_Свойство " \_ \_ свойства копирования аналогового \_ компонента"
 
@@ -33,7 +33,7 @@ ms.locfileid: "107910312"
 
 Значение свойства равно **true** , если выходные данные видео являются аналоговым компонентом видео с разрешением не больше 480P для NTSC или 540P для PAL. В противном случае значение равно **false**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ ms.locfileid: "107910312"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

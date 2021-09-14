@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 818a7682fed504028ebee1c3a5ff5d35a268e1daad8756b110bcfcb2ca8d9f80
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 27fbf603fd670cac2a39831114a7f141b17ffd2e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119016872"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054014"
 ---
 # <a name="cbaserenderershoulddrawsamplenow-method"></a>Кбасерендерер. Шаулддравсампленов, метод
 
@@ -81,7 +81,7 @@ virtual HRESULT ShouldDrawSampleNow(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод [**кбасерендерер:: жетсамплетимес**](cbaserenderer-getsampletimes.md) вызывает этот метод. По умолчанию образцы всегда планируются для отрисовки на основе их штампов времени. Производный класс может переопределить этот метод. Например, для реализации контроля качества.
 

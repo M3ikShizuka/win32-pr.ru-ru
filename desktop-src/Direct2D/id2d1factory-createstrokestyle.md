@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_name: ''
 ms.openlocfilehash: 09a578cafe6795bbf742d9dac114365d6e850586
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105679998"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163011"
 ---
 # <a name="id2d1factorycreatestrokestyle-methods"></a>Методы ID2D1Factory:: Креатестрокестиле
 

@@ -4,12 +4,12 @@ ms.assetid: 3912136d-0fc1-49b0-bc79-0785d63041e6
 title: Свойство AVDecVideoAcceleration_H264 (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f84279c49e65586d07dbf1efa4c372a1b1f8770e19bd00eb827ba44b6ad43bc5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5cbcedf2d038c010ee781030baf0a8289e68eab4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118663968"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162116"
 ---
 # <a name="avdecvideoacceleration_h264-property"></a>Авдеквидеоакцелератион \_ H264 Single bitrate, свойство
 
@@ -25,11 +25,11 @@ ms.locfileid: "118663968"
 
 **КОДЕКАПИ \_ авдеквидеоакцелератион \_ H264 Single bitrate**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если значение равно нулю, декодер не использует ускорение видео DirectX (ДКСВА) для декодирования H. 264. для DirectShow фильтров установите это свойство перед подключением выходного пин-кода декодера.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -37,7 +37,7 @@ ms.locfileid: "118663968"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional приложения \[ UWP для классических приложений \|\]<br/>                     |
 | Минимальная версия сервера<br/> | \[приложения UWP для классических приложений Windows 2000 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
 
 
 

@@ -6,12 +6,12 @@ keywords:
 - освещение в плашечных светах
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b9edc4c75eaa17369ba0d0d9f1838d8857053def9aaab3dacceb8bf761b9c04c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 61f2482d9631de7383c26e791d13f1571f247fa6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120000409"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162572"
 ---
 # <a name="spot-specular-lighting-effect"></a>Эффект пятна отраженного освещения
 
@@ -25,7 +25,7 @@ ms.locfileid: "120000409"
 -   [Источник источника освещения](#spot-light-source)
 -   [Свойства эффектов](#effect-properties)
 -   [Режимы масштабирования](#scale-modes)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example-image"></a>Пример изображения
@@ -42,7 +42,7 @@ ms.locfileid: "120000409"
 
 ![выводится пиксельные уравнения.](images/spot-formula1.png)
 
-where
+где
 
 ![определения переменных.](images/spot-formula2.png)
 
@@ -105,7 +105,7 @@ where
 > [!Note]  
 > Если не выбрать режим, то по умолчанию применяется \_ режим МАСШТАБИРОВАНИЯ D2D1 спотспекулар \_ \_ \_ линейный.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

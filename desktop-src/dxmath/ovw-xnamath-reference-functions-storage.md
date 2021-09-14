@@ -4,12 +4,12 @@ ms.assetid: 0e7b66bd-bdb0-956d-2962-b33ae52b3016
 title: Функции хранения векторов из библиотеки DirectXMath
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ee06b3593b193c845b134816b23bfbf22abfa81ccd88708c4673f63890c2e4d4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 392429d9028aa0971a5b6ee6a90296c44c62066c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118087680"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963473"
 ---
 # <a name="directxmath-library-vector-store-functions"></a>Функции хранения векторов из библиотеки DirectXMath
 

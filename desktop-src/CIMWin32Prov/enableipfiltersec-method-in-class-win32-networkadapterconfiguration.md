@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: a529b0628c70cacaf822045e173ddda9205c3c7c9dd726f2a12f0d29410d4cec
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3429e2c2ba78e013da9195961b76ff84ffda9b68
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119080018"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054958"
 ---
 # <a name="enableipfiltersec-method-of-the-win32_networkadapterconfiguration-class"></a>Метод Енаблеипфилтерсек \_ класса Win32 NetworkAdapterConfiguration
 
@@ -321,7 +321,7 @@ IPX не включен на адаптере.
 
 91
 
-Доступ запрещен.
+Access denied. (Недопустимое значение {значение_утверждения} для утверждения {имя_утверждения}. Доступ запрещен.)
 
 </dd> <dt>
 
@@ -404,7 +404,7 @@ DHCP не включен на адаптере.
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При включенной системе безопасности характеристики операционной безопасности для любого сетевого адаптера можно контролировать с помощью метода [**енаблеипсек**](enableipsec-method-in-class-win32-networkadapterconfiguration.md) сетевого адаптера.
 

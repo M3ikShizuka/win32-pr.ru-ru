@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 79339e08ef917780668cd54b6bdfc72cb0f4949aaa446cbc2c34db44b216602d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 51f49f96e3f12b1c21e81e8b5358e174e576d07f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119019322"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054138"
 ---
 # <a name="lb_getlistboxinfo-message"></a>Сообщение жетлистбоксинфо балансировки нагрузки \_
 
@@ -47,7 +47,7 @@ ms.locfileid: "119019322"
 
 Возвращаемое значение — это количество элементов на столбец.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это сообщение эквивалентно [**жетлистбоксинфо**](/windows/desktop/api/Winuser/nf-winuser-getlistboxinfo).
 

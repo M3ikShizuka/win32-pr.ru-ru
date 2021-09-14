@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: b2ca9c6a3788148bf124248cf6d6653a5b8f876ba9295e50adfd29af2574b5c3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f1717e77fdedb0c6b2e218e66f61d67bcef7c1a8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119918694"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965449"
 ---
 # <a name="compress-method-of-the-cim_directory-class"></a>Метод сжатия \_ класса каталога CIM
 
@@ -61,7 +61,7 @@ uint32 Compress();
 **2**
 </dt> <dd>
 
-Доступ запрещен.
+Access denied. (Недопустимое значение {значение_утверждения} для утверждения {имя_утверждения}. Доступ запрещен.)
 
 </dd> <dt>
 
@@ -142,7 +142,7 @@ uint32 Compress();
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В настоящее время этот метод не реализован инструментарием WMI. Чтобы использовать этот метод, его необходимо реализовать в собственном поставщике.
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 23f3120bea744303dd95403e8642133de0681dd440c45014f8e787318ab9f857
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 398d2d727e26feaca23d6bddbdcbc8a578d096eb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118001879"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162300"
 ---
 # <a name="amoviesetupregisterfilter-function"></a>Функция Амовиесетупрегистерфилтер
 
@@ -80,7 +80,7 @@ HRESULT AMovieSetupRegisterFilter(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

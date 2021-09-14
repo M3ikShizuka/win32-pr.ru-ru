@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 5f2a503cfac8e6cef8b32ee4e84cb8fa78f930d4e1126fcd0af488f3908c540f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 2ca60021c921e47de3c7afd5b8ee0bb2ea5e6d12
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120077454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054909"
 ---
 # <a name="rename-method-of-the-win32_computersystem-class"></a>Переименование метода \_ класса ComputerSystem Win32
 
@@ -77,7 +77,7 @@ uint32 Rename(
 **Другие** (1 4294967295)
 </dt> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Можно использовать метод **Rename** для переименования компьютера, если вы являетесь членом локальной группы администраторов. Однако этот метод нельзя использовать удаленно для компьютеров домена.
 
@@ -405,7 +405,7 @@ return 0; // Program successfully completed.
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -419,7 +419,7 @@ return 0; // Program successfully completed.
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

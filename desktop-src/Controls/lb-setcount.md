@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2e1b3f68a67de2b7caa77cfd7c9e6f2a5b164e20af42100882fef1aad04eca14
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 2042bcf0e0cbe7f5daacfcf7f493a070860ac9a5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119433948"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054120"
 ---
 # <a name="lb_setcount-message"></a>Сообщение сеткаунт балансировки нагрузки \_
 
@@ -49,11 +49,11 @@ Windows 95/Windows 98/Windows Millennium Edition (Windows Me): параметр 
 
 Если возникает ошибка, возвращается значение фунтов \_ Err. Если недостаточно памяти для хранения элементов, возвращается значение фунтов \_ еррспаце.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сообщение **\_ сеткаунт** поддерживается только в списках, созданных с помощью стиля «недоступность фунтов» и не созданного с помощью стиля [**фунта \_ хасстрингс**](list-box-styles.md) . [**\_**](list-box-styles.md) Все остальные списки возвращают ошибку балансировки нагрузки \_ .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ Windows 95/Windows 98/Windows Millennium Edition (Windows Me): параметр 
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 

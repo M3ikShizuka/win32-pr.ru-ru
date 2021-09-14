@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: cdcedc25cf7f0998c6eac11de63f6e0d329e2ca8500576e0ad9e69cfc0bb3067
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a44aabf3386a4e906bd4f3e149c416642ba6c4fc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120052414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053878"
 ---
 # <a name="iamtimelinesplittablesplitat-method"></a>Метод Иамтимелинесплиттабле:: Сплитат
 
@@ -69,7 +69,7 @@ HRESULT SplitAt(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При разделении источника, воздействия или перехода этот метод создает второй объект того же типа. Исходный объект усекается в указанное время разбиения, а новый объект заменяет обрезанную часть. Новый объект наследует все те же свойства. В исходном объекте метод также разделяет любые эффекты, которые попадают в время разбиения.
 
@@ -87,7 +87,7 @@ HRESULT SplitAt(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -98,7 +98,7 @@ HRESULT SplitAt(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

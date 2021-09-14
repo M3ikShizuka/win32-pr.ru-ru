@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9ea853cf625473bee608111eddf877eb09457ee5c2ac6089542b5add0a212195
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6fd416744478248760f4e2c9f94a362db5a8d327
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118171079"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054223"
 ---
 # <a name="hdm_setfocuseditem-message"></a>\_Сообщение СЕТФОКУСЕДИТЕМ HDM
 
@@ -55,7 +55,7 @@ ms.locfileid: "118171079"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

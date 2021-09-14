@@ -1,19 +1,19 @@
 ---
-description: AM_RATE_ReverseMaxFullDataRate свойство — применяется к Windows Vista и более поздним версиям.
+description: AM_RATE_ReverseMaxFullDataRate свойство — применяется к Windows Vista и более поздних версий.
 ms.assetid: 4f170736-516d-4420-a215-e0e414f036cd
 title: Свойство AM_RATE_ReverseMaxFullDataRate (Двдмедиа. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: a6e70a330433c8ea6e8116db944d8fb3d2ffff4d
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108099972"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162336"
 ---
 # <a name="am_rate_reversemaxfulldatarate-property"></a>\_ \_ Свойство реверсемаксфуллдатарате Rate
 
-Применяется к Windows Vista и более поздним версиям.
+применимо к Windows Vista и более поздних версий.
 
 Возвращает максимальную частоту обратных воспроизведений декодера. Значением свойства является абсолютное значение максимальной скорости на обратную скорость x 10000. Например, если максимальная обратная скорость равна-2,0, значение этого свойства равно 20000.
 
@@ -33,9 +33,9 @@ ms.locfileid: "108099972"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
-Это свойство должно предоставлять декодеры, поддерживающие плавный обратный воспроизведение. Дополнительные сведения см. [в статье улучшения воспроизведения DVD в Windows Vista](dvd-playback-enhancements-in-windows-vista.md).
+Это свойство должно предоставлять декодеры, поддерживающие плавный обратный воспроизведение. дополнительные сведения см. [в статье улучшения воспроизведения DVD в Windows Vista](dvd-playback-enhancements-in-windows-vista.md).
 
 ## <a name="requirements"></a>Требования
 
@@ -43,11 +43,11 @@ ms.locfileid: "108099972"
 
 | Требование | Значение |
 |-------------------|---------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Двдмедиа. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Двдмедиа. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -5,15 +5,15 @@ title: Объект порта контроллера
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 7547581358bd79212b1093384ce1589e331f6ee0
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105692218"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890408"
 ---
 # <a name="controller-port-object"></a>Объект порта контроллера
 
-\[Начиная с Windows 8 и Windows Server 2012, интерфейс COM [службы виртуальных дисков](virtual-disk-service-portal.md) заменяется [API управления хранилищами Windows](/previous-versions/windows/desktop/stormgmt/windows-storage-management-api-portal).\]
+\[начиная с Windows 8 и Windows Server 2012, интерфейс COM [службы виртуальных дисков](virtual-disk-service-portal.md) заменяется [API Windows служба хранилища управления](/previous-versions/windows/desktop/stormgmt/windows-storage-management-api-portal).\]
 
 Объект порта контроллера моделирует порт контроллера в подсистеме. Ведущие компьютеры могут записывать и считывать LUN через порты контроллера. Порты контроллера содержатся в подсистеме контроллеры. В службе VDS 1,1 и VDS 2.0 каждому из портов контроллера подсистемы присваивается значение активно или неактивно по отношению к каждому из LUN, которые являются областями подсистемы. После этого один порт контроллера может быть одновременно задан как активный для одного LUN и неактивен для других. Порт контроллера, активный для данного LUN, несет ответственность за обработку входных данных и их вывод из LUN.
 
@@ -37,7 +37,7 @@ ms.locfileid: "105692218"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

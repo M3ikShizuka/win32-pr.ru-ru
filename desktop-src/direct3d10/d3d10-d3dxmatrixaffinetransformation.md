@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: 5c847d537eaa79b266ef785f40806c37e2503b2b9a8a97bf99a678c7dff219de
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 01c6b3c3ffe2de9b7c7003b78f1b07a0f35cc3a1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119609524"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126888901"
 ---
 # <a name="d3dxmatrixaffinetransformation-function-d3dx10mathh"></a>Функция D3DXMatrixAffineTransformation (D3DX10Math. h)
 
@@ -95,7 +95,7 @@ D3DXMATRIX* D3DXMatrixAffineTransformation(
 
 Указатель на структуру D3DXMATRIX, которая является матрицей аффинного преобразования.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция вычисляет матрицу аффинных преобразований с помощью следующей формулы, при этом сцепление матрицы вычисляется в порядке слева направо:
 
@@ -117,7 +117,7 @@ MT = матрица перевода (Птранслатион)
 
 Для двумерных преобразований 2D используйте D3DXMatrixAffineTransformation2D.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -128,7 +128,7 @@ MT = матрица перевода (Птранслатион)
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

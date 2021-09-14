@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 853043123c6eea9a87656a7450b1295236ed5d6a
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122478200"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164244"
 ---
 # <a name="blend-effect"></a>Эффект смешивания
 
@@ -27,7 +27,7 @@ ms.locfileid: "122478200"
     -   [Преобразование из HSL в RGB](#converting-from-hsl-to-rgb)
 -   [Битовая карта вывода](#output-bitmap)
 -   [Образец кода](#sample-code)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="blending-examples"></a>Примеры смешения
@@ -196,7 +196,7 @@ m_d2dContext->EndDraw();
 
 Выходным точечным рисунком для этого результата всегда является размер объединения двух входных изображений.
 
-## <a name="sample-code"></a>Пример кода
+## <a name="sample-code"></a>Образец кода
 
 Чтобы получить пример этого результата, скачайте [образец Direct2D составных эффектов](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/Direct2D%20composite%20effect%20modes%20sample).
 

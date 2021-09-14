@@ -18,11 +18,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: d26b6067352d4ca898cc1fc970524040d407bda1
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "104987092"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053081"
 ---
 # <a name="id3dx11effectgettechniquebyname-method"></a>Метод ID3DX11Effect:: Жеттечникуебинаме
 
@@ -58,7 +58,7 @@ ID3DX11EffectTechnique* GetTechniqueByName(
 
 Указатель на [**ID3DX11EffectTechnique**](id3dx11effecttechnique.md). Если метод с соответствующим именем не найден, возвращается недопустимый метод. [**ID3DX11EffectTechnique:: IsValid**](id3dx11effecttechnique-isvalid.md) должен вызываться для возвращаемого метода, чтобы определить, является ли он допустимым.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Комментарии
 
 Результат содержит один или несколько методов. Каждый прием содержит один или несколько проходов. Можно получить доступ к методу, используя его имя или индекс.
 
@@ -73,7 +73,7 @@ ID3DX11EffectTechnique* GetTechniqueByName(
 
 | Требование | Значение |
 |--------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3dx11effect. h</dt> </dl>                                                    |
+| Заголовок<br/>  | <dl> <dt>D3dx11effect. h</dt> </dl>                                                    |
 | Библиотека<br/> | <dl> <dt>Н/д (библиотека Effects 11 доступна в сети в качестве общего источника.)</dt> </dl> |
 
 

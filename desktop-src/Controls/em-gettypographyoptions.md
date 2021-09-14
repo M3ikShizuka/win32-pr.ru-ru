@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d575550e2c239ee5b689deb5874a9803c581151b54100ab227a24d4f29941973
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6d692639ba6c8cea758abe694faed3a46e3f65be
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117831174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054428"
 ---
 # <a name="em_gettypographyoptions-message"></a>\_Сообщение ЖЕТТИПОГРАФЙОПТИОНС EM
 
@@ -47,7 +47,7 @@ ms.locfileid: "117831174"
 
 Возвращает текущие параметры оформления. Список параметров см. в разделе [**EM \_ сеттипографйоптионс**](em-settypographyoptions.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Вы можете включить дополнительные разрывы строк, отправив сообщение [**EM \_ сеттипографйоптионс**](em-settypographyoptions.md) . Расширенные и нормальные разрывы строк также можно включить автоматически с помощью элемента управления Rich Edit, если это необходимо для определенных языков.
 
@@ -60,7 +60,7 @@ ms.locfileid: "117831174"
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
 | Распространяемые компоненты<br/>          | Расширенное редактирование 3,0<br/>                                                              |
-| Header<br/>                   | <dl> <dt>RichEdit. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>RichEdit. h</dt> </dl> |
 
 
 
@@ -74,7 +74,7 @@ ms.locfileid: "117831174"
 [**EM \_ сеттипографйоптионс**](em-settypographyoptions.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Общие сведения об элементах управления "поле ввода"](about-rich-edit-controls.md)

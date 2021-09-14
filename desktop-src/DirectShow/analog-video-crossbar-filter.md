@@ -4,12 +4,12 @@ ms.assetid: 668f6a8b-a4ed-4e4a-956c-a87f165225fa
 title: Фильтр аналогового микшера видео
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 75b92d75ecc18640e5e0c870d7a37a93496c16833eecbcf42865cecdabebc0cb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d17d8700131dbc658a5233d56f339c39eac7a3a0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118001572"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162280"
 ---
 # <a name="analog-video-crossbar-filter"></a>Фильтр аналогового микшера видео
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2885e056577656d6cabb8ea78f48a02a19f3c3c40bb3c30b1e5ca25c72cdf39b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ab9d0e8539dc666c7a791a24c9ba7ac772c3c2c0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118545313"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126884893"
 ---
 # <a name="wm_renderformat-message"></a>\_Сообщение RENDERFORMAT WM
 
@@ -54,7 +54,7 @@ ms.locfileid: "118545313"
 
 Если приложение обрабатывает это сообщение, оно должно вернуть ноль.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При ответе на сообщение **WM \_ RENDERFORMAT** владелец буфера обмена не должен открывать буфер обмена перед вызовом [**сетклипбоарддата**](/windows/win32/api/winuser/nf-winuser-setclipboarddata). Открытие буфера обмена не является обязательным, прежде чем поместить данные в ответ на **WM \_ RENDERFORMAT**, и любая попытка открыть буфер обмена завершится ошибкой, так как буфер обмена в настоящий момент остается открытым приложением, которое запросило отправку формата.
 
@@ -83,7 +83,7 @@ ms.locfileid: "118545313"
 [**WM \_ рендераллформатс**](wm-renderallformats.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Буфер обмена](clipboard.md)

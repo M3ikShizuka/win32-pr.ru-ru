@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6e0c0c410f13a33f0e387098178b42faaf3269c36d11f75e765eb753fa9d0844
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7c12a22ee8c30ffa74705f670a16caa3651e9b44
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119545104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054462"
 ---
 # <a name="em_fmtlines-message"></a>\_Сообщение ФМТЛИНЕС EM
 
@@ -47,7 +47,7 @@ ms.locfileid: "119545104"
 
 Возвращаемое значение идентично параметру *wParam* .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это сообщение затрагивает только буфер, возвращенный сообщением [**EM \_**](em-gethandle.md) GetText, и текст, возвращаемый сообщением [**WM \_ gettext**](/windows/desktop/winmsg/wm-gettext) . Он не влияет на отображение текста в элементе управления "поле ввода".
 
@@ -60,7 +60,7 @@ ms.locfileid: "119545104"
 
 **Расширенное редактирование:** Сообщение **EM \_ фмтлинес** не поддерживается.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -72,7 +72,7 @@ ms.locfileid: "119545104"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

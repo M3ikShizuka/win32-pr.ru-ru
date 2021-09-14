@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 8903e4a404367327b677a239b8ab28e3cb47e5679203857154f453a5cc01e25e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7ba12ffcd1b50b920f28e1969444a2d31a9d073d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119536684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053405"
 ---
 # <a name="getbitmapsubtype-function"></a>Функция Жетбитмапсубтипе
 
@@ -53,13 +53,13 @@ const GUID GetBitmapSubtype(
 
 Возвращает **GUID** подтипа носителя.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Для несжатых типов RGB эта функция сопоставляет поле **бибиткаунт** с подтипом. Для типов сжатых видео эта функция использует класс [**фаурккмап**](fourccmap.md) для соответствия поля **бикомпрессион** подтипу.
 
 Если функция не может соответствовать формату подтипа, возвращаемое значение — GUID \_ null.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ const GUID GetBitmapSubtype(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

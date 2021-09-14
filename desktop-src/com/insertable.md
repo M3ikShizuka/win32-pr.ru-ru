@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 699de5db82981e5f0f1db1229d31f96620adcb8c
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369469"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053155"
 ---
 # <a name="insertable-clsid-key"></a>Вставляемый (ключ CLSID)
 
@@ -25,7 +25,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID
       Insertable
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот ключ является обязательной записью для 32-разрядных приложений COM, объекты которых можно вставлять в существующие 16-разрядные приложения. Существующие 16-разрядные приложения ищут в реестре этот раздел, который информирует приложение о том, что сервер поддерживает внедрение. Если ключ для **вставки** существует, 16-разрядные приложения также могут попытаться проверить, существует ли сервер на компьютере. 16-разрядные приложения обычно извлекают значение ключа [**локалсервер**](localserver.md) из класса и проверяют, является ли он допустимым файлом в системе. Таким образом, для 32-разрядного приложения, которое может быть вставлено 16-разрядным приложением, 32-разрядное приложение должно зарегистрировать подраздел **локалсервер** в дополнение к регистрации [**LocalServer32**](localserver32.md).
 
@@ -36,7 +36,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID
 
  
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

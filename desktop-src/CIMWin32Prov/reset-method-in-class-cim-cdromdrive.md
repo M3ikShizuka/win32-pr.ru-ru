@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 9ab872ac313c6a60cd3d47715a5b4bbb9872d0ed8d7bdc7b203928c4d3a1c24d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 307d866c22a1ba414913a3115be9d355a3138d6e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118009477"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054878"
 ---
 # <a name="reset-method-of-the-cim_cdromdrive-class"></a>Метод Reset \_ класса CIM кдромдриве
 
@@ -47,7 +47,7 @@ uint32 Reset();
 
 Возвращает 0 (ноль), если запрос был успешно выполнен, 1 (один), если запрос не поддерживается, и другое значение, если произошла ошибка.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В настоящее время этот метод не реализован инструментарием WMI. Чтобы использовать этот метод, его необходимо реализовать в собственном поставщике.
 

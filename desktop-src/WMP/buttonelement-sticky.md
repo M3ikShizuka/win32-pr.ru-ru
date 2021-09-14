@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cc8a709fc28f0d1529c58725db5856931195a66cc370559dd9d14af61e869db6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 713b26fdee3062fbe803d05e034bc9896cdd5563
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118120046"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889304"
 ---
 # <a name="buttonelementsticky"></a>БУТТОНЕЛЕМЕНТ. Клейкие
 
@@ -42,7 +42,7 @@ ms.locfileid: "118120046"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если для атрибута **закрепления** задано значение true, элемент Button будет переходить в состояние down при щелчке и останется в этом состоянии до повторного нажатия. Если элемент Button находится в состоянии Down, атрибут **Down** будет иметь значение true и будет отображена соответствующая часть группы кнопок **довнимаже** .
 

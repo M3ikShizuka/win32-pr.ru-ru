@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 4a48bc5f4afbfabc9bdc37ff2cfe8c5890629f3fcaacf135979b82523981ed66
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4f3d83bbe7a24463fc4cfaed4ace3adec9d6fcf7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119906504"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053920"
 ---
 # <a name="displaytype-function"></a>Функция Дисплайтипе
 
@@ -61,11 +61,11 @@ void DisplayType(
 
 Эта функция не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция создает несколько \_ сообщений трассировки журнала. При уровне ведения журнала 2 или выше функция отображает основной тип, подтип и тип формата, а также данные из блока формата. При уровне ведения журнала 5 или выше функция отображает дополнительные сведения, такие как исходный и целевой прямоугольники для типов видео.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ void DisplayType(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

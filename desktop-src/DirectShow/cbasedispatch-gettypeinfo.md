@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 294b9758aa79ab033c1e3cf8932056ca10e7bf2424de97a1cf9f3b509f1906bf
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a9b1e21133b4fa561c743fefc6282c777b444e6f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120076684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053639"
 ---
 # <a name="cbasedispatchgettypeinfo-method"></a>Кбаседиспатч. GetTypeInfo, метод
 
@@ -89,11 +89,11 @@ HRESULT GetTypeInfo(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод ведет себя подобно методу **IDispatch:: GetTypeInfo** . Однако он включает дополнительный параметр *riid*, указывающий интерфейс, для которого требуется получить сведения о типе.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -104,7 +104,7 @@ HRESULT GetTypeInfo(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

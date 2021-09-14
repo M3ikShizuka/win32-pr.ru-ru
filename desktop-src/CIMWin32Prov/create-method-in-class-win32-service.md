@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 3baa83179ac6c5040aa85a5fcf2af0d932a4c8e9cdc2d10742c5c8aaa66abb5f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 71bc0f4edb879fc4a51a012bc53db67031056f47
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120003804"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054979"
 ---
 # <a name="create-method-of-the-win32_service-class-cimwin32-wmi-providers"></a>Метод Create класса Win32_Service (поставщики WMI CIMWin32)
 
@@ -438,7 +438,7 @@ uint32 Create(
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Службы обычно устанавливаются одним из двух способов: либо как часть установки операционной системы, либо с помощью программы установки, предоставляемой разработчиком службы. Однако некоторые службы, в частности созданные в Организации, могут не иметь программы установки. В этих случаях для программной установки служб можно использовать метод **CREATE** .
 
@@ -467,7 +467,7 @@ errReturn = objService.Create ("DbService", "Personnel Database", _
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -481,7 +481,7 @@ errReturn = objService.Create ("DbService", "Personnel Database", _
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

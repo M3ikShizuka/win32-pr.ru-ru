@@ -4,12 +4,12 @@ ms.assetid: 46037d53-085d-4fd0-91a0-408702cbfce5
 title: EC_COMPLETE (DShow. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7a3bb02275862e2cfaea88de5bad0ae545a257efc4d352506d284b83150032f1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7cd6d548a56173b9c6ea83426ddab3fa8556e312
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119998204"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053443"
 ---
 # <a name="ec_complete"></a>EC \_ завершено
 
@@ -39,7 +39,7 @@ ms.locfileid: "119998204"
 
 Если для этого события отключено действие по умолчанию, приложение получает все события **EC \_ Complete** из модулей подготовки отчетов.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Фильтр модуля подготовки отчетов отправляет это событие при получении уведомления конца потока. (В конце потока сообщается метод [**Ипин:: EndOfStream**](/windows/desktop/api/Strmif/nf-strmif-ipin-endofstream) .) Фильтр отправляет ровно одно событие **\_ завершения EC** для каждого потока. Перед отправкой события фильтр должен обработать все ожидающие выборки. Остановка модуля подготовки отчетов сбрасывает все кэшированное состояние конца потока.
 

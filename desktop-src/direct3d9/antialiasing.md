@@ -4,12 +4,12 @@ ms.assetid: e5931c95-1de7-4b41-bc15-f07f8654df2d
 title: Сглаживание (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 29acf7bbd5aa769fda99d2665b696398f86cbd1865dbe7a16ab1b6b6adfd1085
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b27bece24ef5d058e26cbff5ce848150852c1323
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118806379"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053017"
 ---
 # <a name="antialiasing-direct3d-9"></a>Сглаживание (Direct3D 9)
 

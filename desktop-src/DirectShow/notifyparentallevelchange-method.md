@@ -4,12 +4,12 @@ ms.assetid: c8252cc6-a83f-4cce-ba3e-7db669eeb465
 title: Метод Нотифипаренталлевелчанже (Segment. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8382b52f64d4196b0ef74e5f3285e9bb047a4e1f77d3b0e5bec4da218ee753b3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cc47b7d78af8cfdd32aa63361411e769c375ddf1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119997364"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886656"
 ---
 # <a name="notifyparentallevelchange-method"></a>Метод Нотифипаренталлевелчанже
 
@@ -39,11 +39,11 @@ MSWebDVD.NotifyParentalLevelChange(bNotify)
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 По умолчанию уведомления родительского управления отключены. Это означает, что временные родительские команды с диска разрешены, но не учитываются, и диск будет воспроизводиться без прерывания. Вызывайте этот метод во время инициализации приложения, если необходимо управлять временными командами родительского уровня управления с диска. Чтобы отключить функцию родительского управления после ее включения, вызовите этот метод с аргументом false. Дополнительные сведения о службе родительского управления см. в разделе [**акцептпаренталлевелчанже**](acceptparentallevelchange-method.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -53,7 +53,7 @@ MSWebDVD.NotifyParentalLevelChange(bNotify)
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

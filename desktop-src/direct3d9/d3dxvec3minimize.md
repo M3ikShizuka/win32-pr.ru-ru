@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: b3519d7a14c02356153ac9209437f488b14c363dc68fcf8b2225f1aef48d7f89
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 532c3cfaddc63b0f358fa3ce88afeccc2f12e289
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118297766"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052930"
 ---
 # <a name="d3dxvec3minimize-function"></a>Функция D3DXVec3Minimize
 
@@ -75,7 +75,7 @@ D3DXVECTOR3* D3DXVec3Minimize(
 
 Указатель на структуру [**D3DXVECTOR3**](d3dxvector3.md) , которая состоит из наименьших компонентов двух векторов.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре *тоска* . Таким образом, функция **D3DXVec3Minimize** может использоваться в качестве параметра для другой функции.
 

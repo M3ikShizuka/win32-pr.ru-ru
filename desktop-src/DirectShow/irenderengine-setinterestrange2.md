@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: 69d78b4f4e18890e992bba5902ac6140dfed73fa8abb1f3814fc8dfbff6fdba1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2be9d8d2f69d2606de855cf5f08eb3deb41de634
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119791854"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886704"
 ---
 # <a name="irenderenginesetinterestrange2-method"></a>Метод Ирендеренгине:: SetInterestRange2
 
@@ -62,7 +62,7 @@ HRESULT SetInterestRange2(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.
@@ -74,7 +74,7 @@ HRESULT SetInterestRange2(
 
  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1a98022c5e499a260cb2dc224941614b0a3adab90ad9aed2cfce6561cc108187
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7fcd0361b7f25b904073471f60f09cdea1e809ab
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119862354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889960"
 ---
 # <a name="ambientattributesid"></a>AmbientAttributes.id
 
@@ -35,7 +35,7 @@ ms.locfileid: "119862354"
 
 где *ElementType* — имя типа элемента управления, а *num* — число, соответствующее положению элемента управления в последовательности всех неименованных элементов управления в теме. Это число сбрасывается в ноль для каждой новой темы.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -45,7 +45,7 @@ ms.locfileid: "119862354"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -12,12 +12,12 @@ api_type:
 - DllExport
 ms.date: 07/02/2019
 ms.topic: reference
-ms.openlocfilehash: 3ae33b1d63633361b43ff61cd7ff0297ac3b8a6553c6218f0fc093f566c31742
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 21339e535aec294b3737f8a81ce313d524004bcf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119874114"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162795"
 ---
 # <a name="id2d1rendertargetfillrectangle-methods"></a>Методы ID2D1RenderTarget:: Филлректангле
 
@@ -34,7 +34,7 @@ ms.locfileid: "119874114"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод не возвращает код ошибки в случае сбоя. Чтобы определить, не завершилась ли операция рисования (например, **филлректангле**), проверьте результат, возвращенный методами [**ID2D1RenderTarget:: EndDraw**](/windows/win32/api/d2d1/nf-d2d1-id2d1rendertarget-enddraw) или [**ID2D1RenderTarget:: Flush**](/windows/win32/api/d2d1/nf-d2d1-id2d1rendertarget-flush) .
 
@@ -128,7 +128,7 @@ HRESULT DemoApp::OnRender()
 
 Дополнительные сведения см. в разделе [Создание простого приложения Direct2D](direct2d-quickstart.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -140,7 +140,7 @@ HRESULT DemoApp::OnRender()
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

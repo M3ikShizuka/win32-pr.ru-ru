@@ -15,11 +15,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 16d90dbef3a9318ad144303e5720cea0abbde03e
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103896497"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053750"
 ---
 # <a name="setspeed-method-of-the-cim_fan-class"></a>Метод Сетспид класса "вентилятор CIM" \_
 

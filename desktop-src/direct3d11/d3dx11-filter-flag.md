@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b02ddbf1785d1032ab28a990d022950b2f28acc4b032ecdc9a72d5704665c03b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0f2105970efb7f2ec07464d8a902df49d8f75bc2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118537005"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053134"
 ---
 # <a name="d3dx11_filter_flag-enumeration"></a>\_ \_ Перечисление флагов фильтра D3DX11
 

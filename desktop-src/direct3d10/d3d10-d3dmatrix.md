@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3DX10Math.h
-ms.openlocfilehash: 7a8ba1b9d0aebf45ae376f6adbdf02dd4c3d8ff6590ecb49e5af8cd72d37a79f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1df0d2171e828b14fba87f6587c604146360d0e2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119498714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963969"
 ---
 # <a name="d3dmatrix-structure"></a>Структура D3DMATRIX
 
@@ -35,7 +35,7 @@ typedef struct D3DMATRIX {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 

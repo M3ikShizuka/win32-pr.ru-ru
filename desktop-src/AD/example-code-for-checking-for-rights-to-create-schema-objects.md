@@ -7,12 +7,12 @@ keywords:
 - Пример кода для проверки прав на создание объектов схемы AD
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0200253fe10f91db1c1e67fbfc727d9165ecb8430aa4e2f648de9d3a1b8c73bd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bef0d4958313a189a0a50c0b4233fdb4a30aaf75
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118694486"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054543"
 ---
 # <a name="example-code-for-checking-for-rights-to-create-schema-objects"></a>Пример кода для проверки прав на создание объектов схемы
 

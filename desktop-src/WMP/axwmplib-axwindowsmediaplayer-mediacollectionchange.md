@@ -3,7 +3,7 @@ title: Событие Медиаколлектиончанже объекта А
 description: Событие Медиаколлектиончанже возникает при изменении коллекции носителей. | Событие Медиаколлектиончанже объекта Аксвиндовсмедиаплайер
 ms.assetid: 99a6d512-ed8e-4f1b-856a-22ca8092741d
 keywords:
-- Событие Медиаколлектиончанже в проигрывателе Windows Media объекта Аксвиндовсмедиаплайер
+- событие медиаколлектиончанже объекта аксвиндовсмедиаплайер проигрыватель Windows Media
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 720207de3475544074b87c56686d0a47da97785c
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105699012"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889701"
 ---
 # <a name="mediacollectionchange-event-of-the-axwindowsmediaplayer-object"></a>Событие Медиаколлектиончанже объекта Аксвиндовсмедиаплайер
 
@@ -49,7 +49,7 @@ Private Sub player_MediaCollectionChange(
 
 | Требование | Значение |
 |----------------------|----------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/>   | Проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                          |
+| Версия<br/>   | проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                          |
 | Пространство имен<br/> | **аксвмплиб**<br/>                                                                                                    |
 | Сборка<br/>  | <dl> <dt>AxInterop.WMPLib.dll (AxInterop.WMPLib.dll.dll)</dt> </dl> |
 

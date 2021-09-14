@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 0ec49d6f5b9c7efcb860ba99eaf7984fa89cfb0bc12cbdfcfe8bde0db95eff1a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: faed7e9ed22ddcacbd8720e589463fd9a75fd87a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119020402"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054822"
 ---
 # <a name="stopservice-method-of-the-win32_printerdriver-class"></a>Метод «начало» \_ класса Принтердривер Win32
 

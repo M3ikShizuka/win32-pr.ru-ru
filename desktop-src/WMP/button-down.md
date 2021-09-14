@@ -3,7 +3,7 @@ title: КНОПКА. вниз
 description: Атрибут Down указывает или получает значение, указывающее, находится ли кнопка в положении "вверх" или "вниз".
 ms.assetid: 75398e8c-b13e-4836-b487-ed880da753ea
 keywords:
-- КНОПКА. проигрыватель Windows Media Player
+- кнопка. down проигрыватель Windows Media
 topic_type:
 - apiref
 api_name:
@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 29a0e2c7f97f782b51c145f3974f1490d0286fbe
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105695102"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889493"
 ---
 # <a name="buttondown"></a>КНОПКА. вниз
 
@@ -35,7 +35,7 @@ ms.locfileid: "105695102"
 
 | Значение | Описание                                                   |
 |-------|---------------------------------------------------------------|
-| true  | Указывает, что **кнопка** находится в расположении вниз.        |
+| Да  | Указывает, что **кнопка** находится в расположении вниз.        |
 | false | По умолчанию. Указывает, что **кнопка** находится в положении вверх. |
 
 
@@ -54,7 +54,7 @@ ms.locfileid: "105695102"
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 7,0 или более поздней<br/> |
+| Версия<br/> | проигрыватель Windows Media версии 7,0 или более поздней<br/> |
 
 
 

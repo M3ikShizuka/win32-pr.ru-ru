@@ -4,12 +4,12 @@ ms.assetid: 08e35fa6-fa1b-4f9f-8f56-d953c4422226
 title: Метод Жеткараокечаннелассигнмент
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 010e8112ece9b3fc66831055995ebf46657d4216942ac3b9dee05b1b68d18761
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: dafe1217e08f3dc4f55aeec42424b1ebf9d86d22
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119812554"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053372"
 ---
 # <a name="getkaraokechannelassignment-method"></a>Метод Жеткараокечаннелассигнмент
 
@@ -54,7 +54,7 @@ ms.locfileid: "119812554"
 
  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 39d689d5f5c729e13385fc0d6d5b31baf96b141b
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122886989"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162575"
 ---
 # <a name="sizelttypegt-function"></a>Тип size, &lt; &gt; функция
 

@@ -13,11 +13,11 @@ api_type:
 ms.date: 07/02/2019
 ms.topic: reference
 ms.openlocfilehash: 9fdb3073928739e28df63fc7d3ade918b29f9217
-ms.sourcegitcommit: f848119a8faa29b27585f4df53f6e50ee9666684
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "110549399"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163015"
 ---
 # <a name="id2d1factorycreaterectanglegeometry-methods"></a>Методы ID2D1Factory:: Креатеректанглежеометри
 
@@ -38,7 +38,7 @@ ms.locfileid: "110549399"
 
 
 
-| Требование | Применение |
+| Требование | Значение |
 |--------------------|-------------------------------------------------------------------------------------|
 | Заголовок<br/>  | <dl> <dt>D2d1. h</dt> </dl>   |
 | Библиотека<br/> | <dl> <dt>D2d1. lib</dt> </dl> |
@@ -46,7 +46,7 @@ ms.locfileid: "110549399"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

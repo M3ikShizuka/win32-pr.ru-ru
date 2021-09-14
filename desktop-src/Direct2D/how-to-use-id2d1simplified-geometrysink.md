@@ -4,12 +4,12 @@ description: Показывает, как получить геометриче�
 ms.assetid: c6777b11-6d4e-409e-9c30-da1e060c9aca
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8b9cd7e3f5e01b77c07e0082d3460b718a4363cf88288859b715369a94ca09bf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3ba3670eb8d0152cc1dae8fbcc164bd8a6167630
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118003437"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163127"
 ---
 # <a name="how-to-retrieve-geometry-data-by-extending-id2d1simplifiedgeometrysink"></a>Получение геометрических данных путем расширения ID2D1SimplifiedGeometrySink
 

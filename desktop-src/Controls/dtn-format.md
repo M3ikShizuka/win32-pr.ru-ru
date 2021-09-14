@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 75fb4279f6ec6b95ded673083a024d32785dd5156588852663e6c307f8351dc4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4fadd11b090777d2226eeed85f32d2062e8340e6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119916274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054773"
 ---
 # <a name="dtn_format-notification-code"></a>\_Код уведомления формата ДТН
 
@@ -51,11 +51,11 @@ DTN_FORMAT
 
 Владелец элемента управления должен возвращать ноль.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Обработка этого кода уведомления позволяет владельцу элемента управления предоставить пользовательскую строку, которую будет отображать элемент управления. (Дополнительные сведения о полях обратного вызова см. в разделе [поля обратного](date-and-time-picker-controls.md)вызова.)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

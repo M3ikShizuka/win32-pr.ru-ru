@@ -5,15 +5,15 @@ ms.assetid: 7285e6ea-ebc7-4693-8a77-99bff0b5d0d1
 ms.topic: article
 ms.date: 03/09/2019
 ms.openlocfilehash: fe96ba4e0674392333173df7daeb5a354a379343
-ms.sourcegitcommit: 8fa6614b715bddf14648cce36d2df22e5232801a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "105672435"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163155"
 ---
 # <a name="how-to-load-a-bitmap-from-a-resource-direct2d"></a>Как загрузить растровое изображение из ресурса (Direct2D)
 
-Как описано в статье [Загрузка точечного рисунка из файла](how-to-load-a-direct2d-bitmap-from-a-file.md), Direct2D использует компонент Windows Imaging Component (WIC) для загрузки растровых изображений. Чтобы загрузить точечный рисунок из ресурса, используйте объекты WIC для загрузки изображения и преобразования его в формат, совместимый с Direct2D. затем используйте метод [**креатебитмапфромвикбитмап**](id2d1rendertarget-createbitmapfromwicbitmap.md) для создания [**ID2D1Bitmap**](/windows/win32/api/d2d1/nn-d2d1-id2d1bitmap).
+как описано в статье [загрузка точечного рисунка из файла](how-to-load-a-direct2d-bitmap-from-a-file.md), Direct2D Windows использует компонент создания образов (WIC) для загрузки растровых изображений. Чтобы загрузить точечный рисунок из ресурса, используйте объекты WIC для загрузки изображения и преобразования его в формат, совместимый с Direct2D. затем используйте метод [**креатебитмапфромвикбитмап**](id2d1rendertarget-createbitmapfromwicbitmap.md) для создания [**ID2D1Bitmap**](/windows/win32/api/d2d1/nn-d2d1-id2d1bitmap).
 
 1.  В [файле определения ресурса приложения](/windows/desktop/menurc/about-resource-files)определите ресурс. В следующем примере определяется ресурс с именем «Самплеимаже».
 
@@ -189,7 +189,7 @@ ms.locfileid: "105672435"
 
 В этом примере пропущен некоторый код.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

@@ -5,11 +5,11 @@ title: анимтикксперсеконд
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 029ea1ed521d5ba89cfa2c9920bf4002b4024678
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104342302"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053019"
 ---
 # <a name="animtickspersecond"></a>анимтикксперсеконд
 

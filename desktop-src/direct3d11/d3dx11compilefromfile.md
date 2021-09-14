@@ -15,12 +15,12 @@ api_type:
 - LibDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 53a62a5a3d60dc62317fdd6f08e99faea025a172f77af7f10fd48e6752fb1b8e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 89c9194eb54652304c220e5a4de0ee12a26ea1a3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118989874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053111"
 ---
 # <a name="d3dx11compilefromfile-function"></a>Функция D3DX11CompileFromFile
 
@@ -168,7 +168,7 @@ HRESULT D3DX11CompileFromFile(
 
 **D3DX11CompileFromFile** возвращает E \_ INVALIDARG, если параметр *фресулт* предоставляет значение, отличное от **null** , при указании значения **null** для параметра *ппумп* . Дополнительные сведения об этой ситуации см. в разделе Примечания.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Дополнительные сведения о **D3DX11CompileFromFile** см. в разделе [**D3DCompile**](/windows/desktop/direct3dhlsl/d3dcompile).
 

@@ -4,12 +4,12 @@ ms.assetid: 4f1a3e74-b343-413d-8df7-6c4bea39c62d
 title: Метод Плайфорвардс
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 81e607779147ba057b9cfd747ebfe827a25e294e2b04cdfa7e61a0691ecf293c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 10d49d8d6d80613c4dd5b2b8a374002b37d9baa4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119830634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053233"
 ---
 # <a name="playforwards-method"></a>Метод Плайфорвардс
 
@@ -39,7 +39,7 @@ MSWebDVD.PlayForwards(nSpeed)
 
 Нет возвращаемого значения.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

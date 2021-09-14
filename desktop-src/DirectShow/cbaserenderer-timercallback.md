@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 3d3164959ecaa701397b5550c43449884208df1110300b6a042879ac4f146584
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cfa59ca6bed0539caa7eb650458c168999b0de5a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119537434"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054004"
 ---
 # <a name="cbaserenderertimercallback-method"></a>Кбасерендерер. TimerCallback, метод
 
@@ -44,13 +44,13 @@ void TimerCallback();
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод [**кбасерендерер:: сендендофстреам**](cbaserenderer-sendendofstream.md) использует событие Timer для планирования \_ уведомлений о завершении EC. Метод **кбасерендерер:: TimerCallback** является функцией обратного вызова для события таймера. `TimerCallback`Метод вызывает **сендендофстреам** еще раз, и **сендендофстреам** определяет, следует ли отправить \_ уведомление о завершении EC или задать другой таймер.
 
 Метод [**кбасерендерер:: ресетендофстреамтимер**](cbaserenderer-resetendofstreamtimer.md) отменяет событие таймера.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ void TimerCallback();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: e499d756d983cbd5849f3178bc3ed26d0d4194bd15e1e220462f86d2f3e9a00e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 764abf76265fce66c5798923ca1fa522edd682af
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119909444"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054679"
 ---
 # <a name="coutputqueuesetpopevent-method"></a>Каутпуткуеуе. Сетпопевент, метод
 
@@ -53,7 +53,7 @@ void SetPopEvent(
 
 Этот метод не возвращает значение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -64,7 +64,7 @@ void SetPopEvent(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

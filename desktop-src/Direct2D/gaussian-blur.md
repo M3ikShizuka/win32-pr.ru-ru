@@ -6,12 +6,12 @@ keywords:
 - Размытие по Гауссу
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4b759ed0f5f70c4fc11ad902c7a45db3b3059847ce6895d25c3dbb9c9eee8330
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cfbe8b309a498315e389be45d382eca3ee1b98ee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119967092"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163264"
 ---
 # <a name="gaussian-blur-effect"></a>Эффект размытия по Гауссу
 
@@ -28,7 +28,7 @@ ms.locfileid: "119967092"
 -   [Режимы оптимизации](#optimization-modes)
 -   [Режимы границ](#border-modes)
 -   [Битовая карта вывода](#output-bitmap)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example-image"></a>Пример изображения

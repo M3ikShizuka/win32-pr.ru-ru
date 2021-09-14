@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 6abd453b328a22765a9649e69bbe0f5e3e4d4bc8e45148a0777fa23901447ab3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dd595748380a35f74e591283ed3d03273c683e97
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119688844"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053983"
 ---
 # <a name="cdynamicoutputpindynamicreconnect-method"></a>Кдинамикаутпутпин. Динамикреконнект, метод
 
@@ -64,13 +64,13 @@ HRESULT DynamicReconnect(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод должен вызываться из того же потока, который доставляет данные в ПИН-код. После вызова этого метода не удается доставить образцы со старым типом носителя. Вызывающий объект должен гарантировать, что старые примеры не ожидаются.
 
 Перед вызовом этого метода вызовите метод [**кдинамикаутпутпин:: стартусингаутпутпин**](cdynamicoutputpin-startusingoutputpin.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -81,7 +81,7 @@ HRESULT DynamicReconnect(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

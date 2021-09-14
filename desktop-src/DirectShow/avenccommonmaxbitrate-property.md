@@ -4,12 +4,12 @@ ms.assetid: 053fdad0-dc5f-4af1-84a6-bb7c0dac7e79
 title: Свойство Авенккоммонмаксбитрате (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c0981a8f3fea67fa6e3dc4564ef2d2777af130bc02079050e63f571d7199e626
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d03844935e909591b2fe3c7244db79e77e7936f1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118159833"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162020"
 ---
 # <a name="avenccommonmaxbitrate-property"></a>Авенккоммонмаксбитрате, свойство
 
@@ -29,7 +29,7 @@ ms.locfileid: "118159833"
 
 Это свойство имеет линейный Диапазон значений. Чтобы получить поддерживаемый диапазон, вызовите метод [**икодекапи:: жетпараметерранже**](/windows/desktop/api/Strmif/nf-strmif-icodecapi-getparameterrange).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "118159833"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

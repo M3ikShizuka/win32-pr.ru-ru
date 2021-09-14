@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e30a07637afae1a3efcf71b3b556c32bebf96775bb2a5cbdf6e92513d33ec5c6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c9cabf86fea79fd437b3e9fb7e32890b3ba1a780
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119544744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054238"
 ---
 # <a name="hdm_insertitem-message"></a>\_Сообщение INSERTITEM HDM
 
@@ -49,7 +49,7 @@ ms.locfileid: "119544744"
 
 Возвращает индекс нового элемента, если он выполнен успешно, или значение-1 в противном случае.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

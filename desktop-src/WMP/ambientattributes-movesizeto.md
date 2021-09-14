@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 936a6696dfcc99c5a181906eb970f84c7019af7905c466f09e820044f6220271
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 406d48772e85a55ab82241518d499182931cc2fa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119469954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889965"
 ---
 # <a name="ambientattributesmovesizeto"></a>Амбиентаттрибутес. Мовесизето
 
@@ -88,11 +88,11 @@ ms.locfileid: "119469954"
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Движение элемента управления может быть линейным или нелинейным. Линейное движение означает, что элемент управления перемещается по постоянной скорости в новое место, что приводит к внезапному запуску и остановке. Если указано нелинейное движение, создается скользящее движение, которое ускоряется от нуля в начале движения и замедляется до нуля в конце, что достигается гладкой остановкой.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

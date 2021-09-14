@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 380bd35bd590facd1368507f2bf5900c05c4f68557cf1e4201058dfbacdb282d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 70578e7d468c6a0e54d1373af2d46e680afbbe5b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119877734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054782"
 ---
 # <a name="dtm_setrange-message"></a>\_Сообщение SETRANGE DTM
 
@@ -58,11 +58,11 @@ ms.locfileid: "119877734"
 
 Возвращает ненулевое значение в случае успеха или ноль в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Средство выбора даты и времени отображает только даты и время, которые находятся в пределах указанного диапазона, запрещая пользователю выбирать дату и время, находящиеся за пределами диапазона. Если сообщение [**DTM \_ сетсистемтиме**](dtm-setsystemtime.md) указывает дату и время, которые выходят за пределы диапазона, произойдет сбой.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

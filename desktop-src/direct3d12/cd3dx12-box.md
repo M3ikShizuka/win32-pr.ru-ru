@@ -15,12 +15,12 @@ api_type:
 ms.topic: reference
 ms.localizationpriority: low
 ms.date: 05/31/2018
-ms.openlocfilehash: f2aa358d8b2d772d45c6387221dd9e660a9630fbf90535ada7dcceefc3257879
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c689c9bfe611651248280f7536bd91a9f4d003d4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119851414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053052"
 ---
 # <a name="cd3dx12_box-structure"></a>\_Структура Box CD3DX12
 
@@ -43,7 +43,7 @@ struct CD3DX12_BOX  : public D3D12_BOX{
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 

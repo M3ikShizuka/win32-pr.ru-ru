@@ -4,12 +4,12 @@ ms.assetid: 976e170d-2941-473b-b48d-3c53ff5251b2
 title: Свойство AVEncDDLtRtCenterMixLvl_x10 (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c18f166ed22942acf5211712ca25708c20e61e88474e565aac3e47021f457a71
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cbeb950e77ada2111c395412b43f687bf8ac1c30
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120103484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127161919"
 ---
 # <a name="avencddltrtcentermixlvl_x10-property"></a>Авенкддлтртцентермикслвл \_ X10, свойство
 
@@ -29,7 +29,7 @@ ms.locfileid: "120103484"
 
 Значение указывается как децибел (dB) x 10.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство доступно для чтения и записи.
 
@@ -45,7 +45,7 @@ ms.locfileid: "120103484"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

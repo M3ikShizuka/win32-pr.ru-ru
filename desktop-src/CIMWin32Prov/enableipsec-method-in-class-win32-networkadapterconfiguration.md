@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 3a4b13d7cdd083fd5b343741823c8a7136ce1603941ba525978ecec4f73e4b1c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6988d68f9939752e3c8c2c9ace063b895a2d3720
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118419492"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054959"
 ---
 # <a name="enableipsec-method-of-the-win32_networkadapterconfiguration-class"></a>Метод Енаблеипсек \_ класса Win32 NetworkAdapterConfiguration
 
@@ -337,7 +337,7 @@ IPX не включен на адаптере.
 
 91
 
-Доступ запрещен.
+Access denied. (Недопустимое значение {значение_утверждения} для утверждения {имя_утверждения}. Доступ запрещен.)
 
 </dd> <dt>
 
@@ -420,7 +420,7 @@ DHCP не включен на адаптере.
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Порты защищаются только в том случае, если свойство **ипфилтерсекуритенаблед** в [**Win32 \_ NetworkAdapterConfiguration**](win32-networkadapterconfiguration.md) имеет **значение true**.
 

@@ -4,12 +4,12 @@ ms.assetid: bb1086e1-57e2-495a-9b7b-2d349a516e72
 title: сетделайтиме
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 26ebd119f20977c98aa2664518dc2125b7b5c157b44ff53c3a37740bf40a1677
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5c7653777be7e6603494d9ba04a671ed46d3d949
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119683744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053857"
 ---
 # <a name="setdelaytime"></a>сетделайтиме
 

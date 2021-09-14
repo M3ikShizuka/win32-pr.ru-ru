@@ -53,11 +53,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: c7f3b65f6435d8ff828aebf5310f9b21a2ea7f6c
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103990761"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053700"
 ---
 # <a name="win32_systemenclosure-class"></a>\_Класс Win32 системенклосуре
 
@@ -111,7 +111,7 @@ class Win32_SystemEnclosure : CIM_Chassis
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ системенклосуре** имеет следующие типы членов:
 
@@ -186,7 +186,7 @@ class Win32_SystemEnclosure : CIM_Chassis
 
 </dd> <dt>
 
-**Заголовок**
+**Caption**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -373,7 +373,7 @@ class Win32_SystemEnclosure : CIM_Chassis
 
 <span id="Storage_Chassis"></span><span id="storage_chassis"></span><span id="STORAGE_CHASSIS"></span>
 
-**Корпус для хранения данных** (22)
+**служба хранилища корпус** (22)
 
 
 </dt> <dd></dd> <dt>
@@ -606,7 +606,7 @@ class Win32_SystemEnclosure : CIM_Chassis
 
 </dd> <dt>
 
-**Name**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1128,7 +1128,7 @@ class Win32_SystemEnclosure : CIM_Chassis
 
 </dd> <dt>
 
-**Version**
+**Версия**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**

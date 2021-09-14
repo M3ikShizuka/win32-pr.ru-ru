@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 4129730ae3ce2f3a95db41d8bc65025c3195056cbd4a1afddbfeb83d9bb33ea9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d380ef738af3b684606e86a7c36dc04217c54b7c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119073658"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054682"
 ---
 # <a name="coutputqueuereset-method"></a>Каутпуткуеуе. Reset, метод
 
@@ -44,11 +44,11 @@ void Reset();
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод сбрасывает переменную члена [**каутпуткуеуе:: m \_ HR**](coutputqueue-m-hr.md) в значение S \_ ОК. Объект может снова получать примеры мультимедиа; Например, после операции очистки.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ void Reset();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

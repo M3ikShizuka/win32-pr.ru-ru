@@ -4,12 +4,12 @@ ms.assetid: 10e35d7f-06b8-427f-9309-167358ccbd6f
 title: Свойство Авенкаудиоинпутконтент (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 38e5132e276d5e526e83a84415f50f22e4a6bce1bc985d830285825e4a1c72a2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f0a2006efa769169e0fe3debc7c025bc829a3586
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117824214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162064"
 ---
 # <a name="avencaudioinputcontent-property"></a>Авенкаудиоинпутконтент, свойство
 
@@ -29,7 +29,7 @@ ms.locfileid: "117824214"
 
 Значение этого свойства является членом перечисления [**еавенкаудиоинпутконтент**](/windows/win32/api/codecapi/ne-codecapi-eavencaudioinputcontent) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "117824214"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

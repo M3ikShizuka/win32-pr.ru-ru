@@ -4,12 +4,12 @@ ms.assetid: 08fd7119-d225-4a78-b2cd-8b58887c9139
 title: Код уведомления IMR_COMPOSITIONWINDOW (IMM. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8fc5f1f45652a2f58386a50284e3bf2cfec182c6f4ad89641dcc27a63cf12b78
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6af0481ccebc59968fe85a489c856388a04dbece
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117810057"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055358"
 ---
 # <a name="imr_compositionwindow-notification-code"></a>\_Код уведомления КОМПОСИТИОНВИНДОВ IMR
 
@@ -44,7 +44,7 @@ LRESULT IMR_COMPOSITIONWINDOW
 
 Функция возвращает ненулевое значение, если приложение заполняет структуру [**компоситионформ**](/windows/win32/api/imm/ns-imm-compositionform) . В противном случае команда возвращает значение 0.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта команда может быть отправлена редактором IME в окно, которое очистило \_ флаг ISC шовуикомпоситионвиндов в обработчике сообщений [**\_ \_ SETCONTEXT редактора IME**](wm-ime-setcontext.md) .
 

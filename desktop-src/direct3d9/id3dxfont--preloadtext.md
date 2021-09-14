@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 874b2d6106a7dcbfb8992a8677a28841f7d44e8b1512c6258b7e3bef45770eb3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 958979e3008cf9ae0b79e2de3591635187df0f12
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119629874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052845"
 ---
 # <a name="id3dxfontpreloadtext-method"></a>ID3DXFont: метод:P Релоадтекст
 
@@ -65,7 +65,7 @@ HRESULT PreloadText(
 
 Если метод выполнен успешно, возвращается значение S \_ . В случае сбоя метода возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, D3DXERR \_ INVALIDDATA.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Параметр компилятора также определяет версию функции. Если определен Юникод, вызов функции разрешается в Прелоадтекств. В противном случае вызов функции разрешается в Прелоадтекста, так как используются строки ANSI.
 

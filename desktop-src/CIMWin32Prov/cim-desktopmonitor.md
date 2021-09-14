@@ -38,12 +38,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: c1c3ca9f621a4a91620e9c8ea46af0d15e84d13c51d61d96a341a0188ac2807b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b22d0b681491bbddf0ee357b394da5f1a77aa0e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119924554"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053803"
 ---
 # <a name="cim_desktopmonitor-class-cimwin32-wmi-providers"></a>Класс CIM_DesktopMonitor (поставщики WMI CIMWin32)
 
@@ -89,7 +89,7 @@ class CIM_DesktopMonitor : CIM_Display
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ десктопмонитор** имеет следующие типы членов:
 
@@ -104,7 +104,7 @@ class CIM_DesktopMonitor : CIM_Display
 
 | Метод                                                                    | Описание                                                                                                                              |
 |:--------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
-| [**Перезапуск**](reset-method-in-class-cim-desktopmonitor.md)                 | Запрашивает сброс логического устройства. Не реализовано инструментарием WMI.<br/>                                                               |
+| [**Reset**](reset-method-in-class-cim-desktopmonitor.md)                 | Запрашивает сброс логического устройства. Не реализовано инструментарием WMI.<br/>                                                               |
 | [**SetPowerState**](setpowerstate-method-in-class-cim-desktopmonitor.md) | Определяет требуемое состояние электропитания для логического устройства, а также когда устройство должно быть переведено в это состояние. Не реализовано инструментарием WMI.<br/> |
 
 
@@ -801,7 +801,7 @@ class CIM_DesktopMonitor : CIM_Display
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1186,7 +1186,7 @@ class CIM_DesktopMonitor : CIM_Display
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **CIM \_ десктопмонитор** является производным от [**CIM- \_ дисплеев**](cim-display.md).
 

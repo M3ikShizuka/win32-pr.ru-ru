@@ -15,12 +15,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bf7522ebb7eb3d2accee2a914de46ae5c90fb29653765a0fa3d541a46f83b563
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 81467b51eb22586d537c7ea8032e13a30da19c55
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117825169"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162696"
 ---
 # <a name="matrix4x3f-class"></a>Класс Matrix4x3F
 
@@ -57,7 +57,7 @@ ms.locfileid: "117825169"
 | Минимальная версия сервера<br/> | Windows сервер 2008 R2, Windows Server 2008 с пакетом обновления 2 (SP2) и обновлением платформы для Windows Server 2008 приложения \[ UWP для классических приложений \|\]<br/> |
 | Минимальный поддерживаемый телефон<br/>  | Windows Phone 8,1 \[ Windows Phone Silverlight 8,1 и среда выполнения Windows приложения\]<br/>                                                  |
 | Пространство имен<br/>                | D2D1<br/>                                                                                                                          |
-| Header<br/>                   | <dl> <dt>\_Вспомогательный метод D2d1. h</dt> </dl>                                                |
+| Заголовок<br/>                   | <dl> <dt>\_Вспомогательный метод D2d1. h</dt> </dl>                                                |
 | Библиотека<br/>                  | <dl> <dt>D2d1. lib</dt> </dl>                                                      |
 | DLL<br/>                      | <dl> <dt>D2d1.dll</dt> </dl>                                                      |
 

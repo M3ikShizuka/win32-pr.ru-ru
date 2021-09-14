@@ -4,12 +4,12 @@ description: Представляет компоненты идентифика�
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 06/20/2019
-ms.openlocfilehash: 68cdb130dd6f0c0338e5b94da2f68c58f98bb91d404871e18ac82e817881117c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6882d9aa16bf72fb33f9a254a6434becb37f9cb8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119118631"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964598"
 ---
 # <a name="dxcorehardwareid-structure"></a>Структура Дкскорехардвареид
 
@@ -27,7 +27,7 @@ struct DXCoreHardwareID
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 ### <a name="vendorid"></a>Поставщика
 

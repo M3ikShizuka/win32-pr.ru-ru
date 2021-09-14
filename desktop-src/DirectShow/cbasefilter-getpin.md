@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 556d4842772ed6c8055a9024a9a6112b466dc9c2fb804321ab605256ece079ce
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3bb8341bfd86b96a7358fb23036b71844f77d17a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119640563"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054024"
 ---
 # <a name="cbasefiltergetpin-method"></a>Кбасефилтер. Жетпин, метод
 
@@ -53,11 +53,11 @@ virtual CBasePin* GetPin(
 
 Возвращает указатель на объект [**кбасепин**](cbasepin.md) , который реализует ПИН-код.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот чистый виртуальный метод необходимо реализовать в производном классе. Возврат указателя к *n*-ом закрепления фильтра, индексируемого от нуля. Можно выбрать произвольный порядок индексирования, если порядок фиксирован. Если фильтр добавляет или удаляет ПИН-коды или изменяется по какой-либо другой причине во время выполнения, вызовите метод [**кбасефилтер:: инкрементпинверсион**](cbasefilter-incrementpinversion.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ virtual CBasePin* GetPin(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

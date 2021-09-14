@@ -5,15 +5,15 @@ title: Исправление пропорций
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 2460f7ecce1513394d941eafe8bdf8a7a80e9727
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "105655599"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162255"
 ---
 # <a name="aspect-ratio-correction"></a>Исправление пропорций
 
-Этот раздел относится к пакету обновления 2 (SP2) для Windows XP или более поздней версии.
+этот раздел относится к Windows XP с пакетом обновления 2 (sp2) или более поздней версии.
 
 В режиме смешивания фильтр VMR изменяет пропорции изображения на правильное. (Исключение: см. раздел [смешение, не являющийся квадратным](non-square-mixing.md).) Это может потребовать растяжения видео, если предпочтительные пропорции не совпадают с физическими пропорциями изображения. Например, формат цифрового видео (DV) — 720 x 480 пикселей (3:2), но он должен отображаться с пропорциями 4:3.
 
@@ -28,7 +28,7 @@ VMR поддерживает два различных поведения для
 
 **VMR-9**. чтобы задать параметры исправления пропорций, вызовите [**IVMRMixerControl9:: сетмиксингпрефс**](/previous-versions/windows/desktop/api/Vmr9/nf-vmr9-ivmrmixercontrol9-setmixingprefs). Установите флаг MixerPref9 \_ араджустксори для поведения по умолчанию или снимите этот флажок только для горизонтальной корректировки.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

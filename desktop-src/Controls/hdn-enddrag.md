@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 05df56beb0b5b4a75716723330711714b7db9f4f27100ffe3296626d2be5798a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8eef628dd8ff748829542ace76642e20ad97786f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119544623"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054201"
 ---
 # <a name="hdn_enddrag-notification-code"></a>\_Код уведомления ХДН енддраг
 
@@ -49,11 +49,11 @@ HDN_ENDDRAG
 
 Чтобы разрешить элементу управления автоматически размещать и упорядочивать элемент, возвращается **значение false**. Чтобы предотвратить размещение элемента, возвратите **значение true**.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если владелец выполняет внешнее (ручное) Управление перетаскиванием, оно должно возвращать **значение false**. Затем владелец должен вручную изменить порядок элементов заголовка, отправив [**HDM \_ Сетитем**](hdm-setitem.md) или [**HDM \_ сетордераррай**](hdm-setorderarray.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

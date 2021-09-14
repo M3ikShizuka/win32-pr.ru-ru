@@ -6,12 +6,12 @@ keywords:
 - Линейный перенос
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7dcb2bb688d1e8ebf4b1b1ebfdd531d900755b46840bada2bade49d957ed0f6c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cfedbb79f057ee871ce23cc086034afc3e6cdda0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119385302"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162716"
 ---
 # <a name="linear-transfer-effect"></a>Линейный перенос
 
@@ -21,7 +21,7 @@ ms.locfileid: "119385302"
 
 -   [Пример изображения](#example-image)
 -   [Свойства эффектов](#effect-properties)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example-image"></a>Пример изображения
@@ -101,7 +101,7 @@ m_d2dContext->EndDraw();
 |--------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента | Windows 8 и обновление платформы для Windows 7 \[ классических приложений \| Windows приложения магазина\] |
 | Минимальная версия сервера | Windows 8 и обновление платформы для Windows 7 \[ классических приложений \| Windows приложения магазина\] |
-| Header                   | d2d1effects. h                                                                      |
+| Заголовок                   | d2d1effects. h                                                                      |
 | Библиотека                  | D2D1. lib, дксгуид. lib                                                               |
 
 

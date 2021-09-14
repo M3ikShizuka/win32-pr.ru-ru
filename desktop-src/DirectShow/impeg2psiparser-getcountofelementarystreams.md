@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: e241697884a4b665c160dc9991e4cb7f02c76f1ba32bc7a0656515faf1117a58
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fc81c0a66751751a73a3895fd31fe8651aee8caf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119767384"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886784"
 ---
 # <a name="impeg2psiparsergetcountofelementarystreams-method"></a>Метод IMpeg2PsiParser:: Жеткаунтофелементаристреамс
 
@@ -69,11 +69,11 @@ HRESULT GetCountOfElementaryStreams(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы получить номер программы, используйте метод **жетрекордпрограмнумбер** .
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

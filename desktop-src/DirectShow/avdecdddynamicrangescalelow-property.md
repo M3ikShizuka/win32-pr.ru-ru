@@ -4,12 +4,12 @@ ms.assetid: d723c825-f2f1-4ba0-a667-8285009764fd
 title: Свойство Авдекдддинамикранжескалелов (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 91773eb20f3d0714223877acba4f26b01503202fc87f9f7b97dcde60ab99512e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f8b68b1d4376d9ba15859be943ded23458fe16d6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119586744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162136"
 ---
 # <a name="avdecdddynamicrangescalelow-property"></a>Авдекдддинамикранжескалелов, свойство
 
@@ -31,7 +31,7 @@ ms.locfileid: "119586744"
 
 
 
-| Значение | Описание                                                    |
+| Значение | Описание:                                                    |
 |-------|----------------------------------------------------------------|
 | 0     | Отсутствует динамическое сжатие диапазона. Сохраните полный динамический диапазон. |
 | 100   | Применить полное сжатие динамического диапазона.                          |
@@ -40,11 +40,11 @@ ms.locfileid: "119586744"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство применяется только в том случае, если свойство [**авдекддоператионалмоде**](avdecddoperationalmode-property.md) имеет значение еавдекддоператионалмоде \_ line.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -56,7 +56,7 @@ ms.locfileid: "119586744"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

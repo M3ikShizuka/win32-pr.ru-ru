@@ -14,17 +14,17 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 0d365b0a69ecd94a07811b24762aa4bffdc8c9f1
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124370320"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055237"
 ---
 # <a name="audio-compression-manager-reference"></a>Справочник по диспетчеру аудиосжатия
 
 В этом разделе описываются функции, структуры и сообщения, связанные с ACM. Эти элементы группируются следующим образом.
 
-## <a name="drivers"></a>драйверы,
+## <a name="drivers"></a>Драйверы
 
 -   [**акмдриверадд**](/windows/desktop/api/Msacm/nf-msacm-acmdriveradd)
 -   [**акмдриверклосе**](/windows/desktop/api/Msacm/nf-msacm-acmdriverclose)
@@ -84,7 +84,7 @@ ms.locfileid: "124370320"
 -   [**акмжетверсион**](/windows/desktop/api/Msacm/nf-msacm-acmgetversion)
 -   [**акмметрикс**](/windows/desktop/api/Msacm/nf-msacm-acmmetrics)
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

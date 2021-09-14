@@ -4,12 +4,12 @@ ms.assetid: 548ae140-c746-4fab-8000-421289d4f0a2
 title: Основные понятия текстурирования (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 799504d2bb7f57952d55ca541155be09d10fed1a03a038d50d98069c2f1c1243
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ba8c4971f70cbe5b7b371f71191de6edb4c2be46
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119952604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053000"
 ---
 # <a name="basic-texturing-concepts-direct3d-9"></a>Основные понятия текстурирования (Direct3D 9)
 

@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3D9Types.h
-ms.openlocfilehash: ec3f934d9d94bfcc1129414b652de770d205b6e190b9f901c6e4f35768f59217
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 228884435322992b8c87d20a9f351161f945c43c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117732406"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052994"
 ---
 # <a name="d3dformat"></a>D3DFORMAT
 
@@ -116,7 +116,7 @@ typedef enum _D3DFORMAT {
 } D3DFORMAT;
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Существует несколько типов форматов:
 
@@ -344,7 +344,7 @@ typedef enum _D3DFORMAT {
 
  
 
-### <a name="other"></a>Другие
+### <a name="other"></a>Другое
 
 Этот флаг используется для неопределенных форматов.
 

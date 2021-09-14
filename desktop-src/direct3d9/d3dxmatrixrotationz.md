@@ -15,11 +15,11 @@ api_location:
 - d3dx9.lib
 - d3dx9.dll
 ms.openlocfilehash: 0b109f71052657a5d9c32d9af5cb38b2cbcf1f0e
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108118112"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052969"
 ---
 # <a name="d3dxmatrixrotationz-function-d3dx9mathh"></a>Функция D3DXMatrixRotationZ (D3dx9math. h)
 
@@ -65,7 +65,7 @@ D3DXMATRIX* D3DXMatrixRotationZ(
 
 Указатель на структуру [**D3DXMATRIX**](d3dxmatrix.md) , повернутую вокруг оси z.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре *тоска* . Таким образом, функция **D3DXMatrixRotationZ** может использоваться в качестве параметра для другой функции.
 
@@ -75,12 +75,12 @@ D3DXMATRIX* D3DXMatrixRotationZ(
 
 | Требование | Значение |
 |--------------------|----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3dx9math. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3dx9math. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>   |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

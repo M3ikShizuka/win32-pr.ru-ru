@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 9b471ac42ceb44f5e65a2ac08365bf97ab0e3157816b772b331cde0fa0b13bde
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6415b8e3d8ae4e292b7e2592b123120927081ea8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119907534"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053498"
 ---
 # <a name="ctransformfiltergetmediatype-method"></a>Ктрансформфилтер. Жетмедиатипе, метод
 
@@ -73,11 +73,11 @@ virtual HRESULT GetMediaType(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод [**ктрансформаутпутпин:: жетмедиатипе**](ctransformoutputpin-getmediatype.md) выходного контакта вызывает этот метод. Производный класс должен реализовывать этот метод. Дополнительные сведения см. в разделе [**кбасепин:: жетмедиатипе**](cbasepin-getmediatype.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -88,7 +88,7 @@ virtual HRESULT GetMediaType(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

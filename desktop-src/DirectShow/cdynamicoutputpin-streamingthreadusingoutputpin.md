@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 4687db225a616adef6d1c756ae9295e2c273c0315f37d119c7bacd0c226233e5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 797dcb94e227861642de2a05e6edf24f675bb4e7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119539724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054753"
 ---
 # <a name="cdynamicoutputpinstreamingthreadusingoutputpin-method"></a>Кдинамикаутпутпин. Стреамингсреадусингаутпутпин, метод
 
@@ -44,11 +44,11 @@ virtual bool StreamingThreadUsingOutputPin();
 
 Возвращает **значение true** , если поток выполняет потоковую операцию над закреплением. В противном случае возвращает **значение false**.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если какие-либо потоки успешно возвращали метод [**кдинамикаутпутпин:: стартусингаутпутпин**](cdynamicoutputpin-startusingoutputpin.md) и не выполнили соответствующий вызов метода [**Кдинамикаутпутпин:: стопусингаутпутпин**](cdynamicoutputpin-stopusingoutputpin.md) , этот метод возвращает **значение true**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ virtual bool StreamingThreadUsingOutputPin();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

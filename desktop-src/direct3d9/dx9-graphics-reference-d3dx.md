@@ -4,12 +4,12 @@ ms.assetid: 6e4d48bb-d17a-44df-9a4f-c65ce1eaa8be
 title: Справочник по D3DX (графика Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4a75076152911d1208bdc5edda6bec5c8eb70fed361f00c982afa5907feee61d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bb2ecb6df8a62651ce317bb1bd025db4502fd04a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118988174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052917"
 ---
 # <a name="d3dx-reference-direct3d-9-graphics"></a>Справочник по D3DX (графика Direct3D 9)
 

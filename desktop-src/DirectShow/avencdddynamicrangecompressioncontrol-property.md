@@ -4,12 +4,12 @@ ms.assetid: 539fd5c9-6dd9-45d6-8e19-1cda91fb4559
 title: Свойство Авенкдддинамикранжекомпрессионконтрол (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 77390be57047a8b2057fd42ed6f2d9c26e50a1c95cb7ae9404ac70cffc02ab33
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: dc60b15344b3d141eaad415a1399c3cd31d15bad
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119342573"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127161947"
 ---
 # <a name="avencdddynamicrangecompressioncontrol-property"></a>Авенкдддинамикранжекомпрессионконтрол, свойство
 
@@ -29,7 +29,7 @@ ms.locfileid: "119342573"
 
 Значение этого свойства является членом перечисления [**еавенкдддинамикранжекомпрессионконтрол**](/windows/win32/api/codecapi/ne-codecapi-eavencdddynamicrangecompressioncontrol) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -37,7 +37,7 @@ ms.locfileid: "119342573"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional приложения \[ UWP для классических приложений \|\]<br/>                     |
 | Минимальная версия сервера<br/> | \[приложения UWP для классических приложений Windows 2000 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
 
 
 

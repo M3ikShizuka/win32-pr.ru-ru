@@ -17,12 +17,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 56c7a2781a690be5e2a1228140cec305da22469a5e0d43a1158c5aacd9307750
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ba3f8ac94ec882ee1df96da51d93d2c24fde9b3f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119917464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053691"
 ---
 # <a name="win32_systemoperatingsystem-class"></a>\_Класс Win32 системоператингсистем
 
@@ -42,7 +42,7 @@ class Win32_SystemOperatingSystem : CIM_InstalledOS
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ системоператингсистем** имеет следующие типы членов:
 
@@ -104,7 +104,7 @@ class Win32_SystemOperatingSystem : CIM_InstalledOS
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ системоператингсистем** является производным от [**CIM \_ инсталледос**](cim-installedos.md).
 

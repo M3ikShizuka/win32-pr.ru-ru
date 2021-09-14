@@ -4,12 +4,12 @@ description: Вкладки свойств и страницы свойств
 ms.assetid: 6bcd1c1c-9b66-4422-bb07-67a856b3295d
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7991ea650838e9980292257c14d26909e9476f0f35422fa21deab2b0b5ecbbdd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b7cc61d1e1ed0cb833632b6b627a0c683a3cb0e4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118104941"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053139"
 ---
 # <a name="property-sheets-and-property-pages"></a>Вкладки свойств и страницы свойств
 

@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 454fabe8bd14dbab82b96b972838455e354f60d8cb07b4878c3733aac26f9dba
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d323c9af95a59895b30c55cc0a2a5b2664a1c043
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119617584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965745"
 ---
 # <a name="jet_dbinfomiscbkinfoincprev-property"></a>Свойство JET_DBINFOMISC. Бкинфоинкпрев
 
@@ -62,7 +62,7 @@ public JET_BKINFO bkinfoIncPrev { get; internal set; }
 
 Тип: [Microsoft.ISAM.ESENT.Interop.JET_BKINFO](./jet-bkinfo-structure2.md)  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

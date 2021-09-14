@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 8aac453ce7a2cfec9c31d5807714c1b80c3e4251ca0c68ae684c4547096d04c3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4b30de0c45c8d78b2e07d6ff57a4e94b9753298a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118525278"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052970"
 ---
 # <a name="d3dxmatrixrotationquaternion-function-d3dx9mathh"></a>Функция D3DXMatrixRotationQuaternion (D3dx9math. h)
 
@@ -65,7 +65,7 @@ D3DXMATRIX* D3DXMatrixRotationQuaternion(
 
 Указатель на структуру [**D3DXMATRIX**](d3dxmatrix.md) , построенную из исходного кватерниона.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре *тоска* . Таким образом, функция **D3DXMatrixRotationQuaternion** может использоваться в качестве параметра для другой функции.
 

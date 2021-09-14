@@ -4,12 +4,12 @@ description: Регулирует выделение и тени изображ�
 ms.assetid: ebbb7d99-9144-ffff-af73-d89e7d269924
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3335de3bc6b115221c1a2a343cac9c5c5154a6d868c9fa8f63b2cfa719e287c3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4d595a5b82a2df0b0b0bab14c03e6a807511ed61
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119569622"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163223"
 ---
 # <a name="highlights-and-shadows-effect"></a>Эффект выделения и теней
 
@@ -20,14 +20,14 @@ ms.locfileid: "119569622"
 -   [Пример изображения](#example-image)
 -   [Образец кода](#sample-code)
 -   [Свойства эффектов](#effect-properties)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example-image"></a>Пример изображения
 
 ![Пример выходных данных эффектов](images/highlights-and-shadows-effect.png)
 
-## <a name="sample-code"></a>Пример кода
+## <a name="sample-code"></a>Образец кода
 
 ```cpp
 ComPtr<ID2D1Effect> highlightsAndShadowsEffect;
@@ -49,7 +49,7 @@ m_d2dContext->EndDraw();
 
 Свойства для эффектов светлых и темных значений определяются перечислением [**D2D1 \_ хигхлигхтсандшадовс \_ prop**](/windows/desktop/api/d2d1effects_2/ne-d2d1effects_2-d2d1_highlightsandshadows_prop) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |--------------------------|---------------------------------------------------|

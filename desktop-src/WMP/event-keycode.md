@@ -3,7 +3,7 @@ title: Event. keyCode
 description: Атрибут keyCode извлекает код ключа ASCII, если при возникновении события была нажата клавиша.
 ms.assetid: ddcb0a99-8bda-4197-b36b-bcd831c22604
 keywords:
-- Проигрыватель Windows Media Event. keyCode
+- проигрыватель Windows Media event. keyCode
 topic_type:
 - apiref
 api_name:
@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 9e80ca7a0fcc974c84971221105a3eb3a603b0d9
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105698920"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126885160"
 ---
 # <a name="eventkeycode"></a>Event. keyCode
 
@@ -37,7 +37,7 @@ event.keyCode
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 7,0 или более поздней<br/> |
+| Версия<br/> | проигрыватель Windows Media версии 7,0 или более поздней<br/> |
 
 
 

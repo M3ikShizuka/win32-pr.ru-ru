@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b4812c21558fba07be2709c0fd1a011f31d79fad17e0b4146fa0c7d65843a087
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 48fbd93971a57cffa3441c2a3db0816572f761d7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118672674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054344"
 ---
 # <a name="em_setimemodebias-message"></a>\_Сообщение СЕТИМЕМОДЕБИАС EM
 
@@ -58,7 +58,7 @@ ms.locfileid: "118672674"
 
 Это сообщение возвращает новый параметр смещения режима IME.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Когда редактор IME создает список альтернативных символов, это сообщение задает условия, по которым некоторые из вариантов будут отображаться в верхней части списка.
 
@@ -74,7 +74,7 @@ ms.locfileid: "118672674"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP с пакетом обновления 1 (SP1), \[ только классические приложения\]<br/>                                  |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>RichEdit. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>RichEdit. h</dt> </dl> |
 
 
 
@@ -82,7 +82,7 @@ ms.locfileid: "118672674"
 
 <dl> <dt>
 
-**Ссылка**
+**Ссылки**
 </dt> <dt>
 
 [**EM \_ исиме**](em-isime.md)

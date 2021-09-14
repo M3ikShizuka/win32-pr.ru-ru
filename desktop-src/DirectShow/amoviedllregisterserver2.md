@@ -17,11 +17,11 @@ api_location:
 - Strmbasd.lib
 - Strmbasd.dll
 ms.openlocfilehash: ec36290b7cad66b2b5f27633d30ae76c3331eba9
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105657839"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162320"
 ---
 # <a name="amoviedllregisterserver2-function"></a>Функция AMovieDllRegisterServer2
 
@@ -55,7 +55,7 @@ HRESULT AMovieDllRegisterServer2(
 
 ## <a name="remarks"></a>Комментарии
 
-Используйте эту функцию для настройки фильтров. Дополнительные сведения см. [в разделе Регистрация фильтров DirectShow](how-to-register-directshow-filters.md).
+Используйте эту функцию для настройки фильтров. дополнительные сведения см. [в статье регистрация DirectShow фильтров](how-to-register-directshow-filters.md).
 
 ## <a name="requirements"></a>Требования
 
@@ -63,7 +63,7 @@ HRESULT AMovieDllRegisterServer2(
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Дллсетуп. h (включение Streams. h)</dt> </dl>                                                                                  |
+| Заголовок<br/>  | <dl> <dt>дллсетуп. h (включает Потоки. h)</dt> </dl>                                                                                  |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 

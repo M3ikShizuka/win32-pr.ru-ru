@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bb95b707fa7e14b00e86c5a65949ff9fba3ce3db32745116fa65ca4c53ac1998
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 31cc87260d4b0fca74d6063c757e6c3dae0db850
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118342677"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889261"
 ---
 # <a name="buttongroupshowbackground"></a>BUTTONGROUP. Шовбаккграунд
 
@@ -42,7 +42,7 @@ ms.locfileid: "118342677"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если **шовбаккграунд** имеет значение true, будет виден весь основной **образ** .
 
@@ -50,7 +50,7 @@ ms.locfileid: "118342677"
 
 Если указано недопустимое значение, сохраняется предыдущее состояние.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -60,7 +60,7 @@ ms.locfileid: "118342677"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -23,12 +23,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: dc98f826ddae09bd507517e564ec2d9387d6bf17147d5eac36596bdb9d1e81ba
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2af601799095192d7af4ffedce0c8e0cd28bff21
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119918124"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054500"
 ---
 # <a name="win32_account-class"></a>\_Класс учетной записи Win32
 
@@ -54,7 +54,7 @@ class Win32_Account : CIM_LogicalElement
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ учетной записи Win32** имеет следующие типы членов:
 
@@ -154,7 +154,7 @@ class Win32_Account : CIM_LogicalElement
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -373,7 +373,7 @@ class Win32_Account : CIM_LogicalElement
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **\_ учетной записи Win32** является производным от [**CIM \_ логикалелемент**](cim-logicalelement.md).
 
@@ -397,7 +397,7 @@ Get-WmiObject Win32_Account -Filter "Domain='$Env:ComputerName'"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -411,7 +411,7 @@ Get-WmiObject Win32_Account -Filter "Domain='$Env:ComputerName'"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

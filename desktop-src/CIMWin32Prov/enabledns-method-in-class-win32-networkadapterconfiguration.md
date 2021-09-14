@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 8dfe86439e9760fb06e8cd29e9140e73e71030744b064408df6275ced4a2e30c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fc217211455d8804de47b2b3ffc761d4328fa49a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118676600"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054961"
 ---
 # <a name="enabledns-method-of-the-win32_networkadapterconfiguration-class"></a>Метод Енабледнс \_ класса Win32 NetworkAdapterConfiguration
 
@@ -349,7 +349,7 @@ IPX не включен на адаптере.
 
 91
 
-Доступ запрещен.
+Access denied. (Недопустимое значение {значение_утверждения} для утверждения {имя_утверждения}. Доступ запрещен.)
 
 </dd> <dt>
 
@@ -452,7 +452,7 @@ objNetworkSettings.EnableDNS strHostName, , , arrDNSSuffixes
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -466,7 +466,7 @@ objNetworkSettings.EnableDNS strHostName, , , arrDNSSuffixes
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

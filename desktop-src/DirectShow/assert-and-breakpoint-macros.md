@@ -5,15 +5,15 @@ title: Макросы Assert и точка останова
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: d4771fb7e302ec9e1093fca82d7842212e0b68e2
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "104140551"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162248"
 ---
 # <a name="assert-and-breakpoint-macros"></a>Макросы Assert и точка останова
 
-[Базовые классы DirectShow](directshow-base-classes.md) предоставляют несколько макросов, выполняющих утверждения или вызывающие точки останова.
+[DirectShow базовые классы](directshow-base-classes.md) предоставляют несколько макросов, выполняющих утверждения или вызывающие точки останова.
 
 
 
@@ -30,7 +30,7 @@ ms.locfileid: "104140551"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
