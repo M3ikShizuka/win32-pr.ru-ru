@@ -4,12 +4,12 @@ ms.assetid: 9dc8d2ec-5cc5-45fa-8a4d-5bdc3072c90c
 title: Общие сведения о декодировании
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d14300c9857702ceff5f07fcc127a4ef4182f9e77ad46f0598edc12abf91f240
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9a15e6a9c914cfa220e1aad5bff4badeb8fc8cc0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118711409"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247600"
 ---
 # <a name="decoding-overview"></a>Общие сведения о декодировании
 
@@ -92,7 +92,7 @@ WIC предоставляет несколько собственных реа�
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Windows Общие сведения о компонентах обработки изображений](-wic-about-windows-imaging-codec.md)

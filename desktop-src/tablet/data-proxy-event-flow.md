@@ -4,12 +4,12 @@ ms.assetid: 837867a4-7cda-41b0-b20d-eec9a3a7fb86
 title: Flow событий прокси-сервера данных
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c1ae6eab209466094ec79c0ed96923a28751b86c585d9ef750f9d12ef892036c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b88fbb43e54b19486a6413bc44319fa2dd737486
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119092814"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247849"
 ---
 # <a name="data-proxy-event-flow"></a>Flow событий прокси-сервера данных
 

@@ -4,12 +4,12 @@ description: Создание приложений, которые просты 
 ms.assetid: 0266d4bd-9793-4cc0-8253-c9376dac40b8
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fc92d06682d8e24fab8d575704072b1ea064b9fcc412f453bc1848a8d7c7d3e0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 95d2231c984e1593edc371a17ced97074c02d5bd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118708796"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247510"
 ---
 # <a name="windows-7-developer-guide"></a>руководством для разработчиков Windows 7
 

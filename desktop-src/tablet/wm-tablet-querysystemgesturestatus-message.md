@@ -5,11 +5,11 @@ title: Сообщение WM_TABLET_QUERYSYSTEMGESTURESTATUS (Тпкшрд. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 395196f963cae9b8d18697276e546f1eba05b245
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103897253"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247708"
 ---
 # <a name="wm_tablet_querysystemgesturestatus-message"></a>\_Сообщение WM планшет \_ куерисистемжестурестатус
 
@@ -41,7 +41,7 @@ ms.locfileid: "103897253"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Обрабатывая это сообщение, можно динамически отключить жесты для областей окна.
 
@@ -127,9 +127,9 @@ void SetTabletpenserviceProperties(HWND hWnd){
 
 | Требование | Значение |
 |-------------------------------------|--------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                       |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                 |
-| Header<br/>                   | <dl> <dt>Тпкшрд. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                       |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                 |
+| Заголовок<br/>                   | <dl> <dt>Тпкшрд. h</dt> </dl> |
 
 
 

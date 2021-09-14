@@ -13,12 +13,12 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 4ac46fd69d4d91870dcd288190baac275b37a5f093b87646c17d19e479bd710e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 44aeb41ab7dcd271f8c84bff4eb8b5525ac66e70
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118968013"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247924"
 ---
 # <a name="smc_setsfobject-message"></a>\_Сообщение SMC сетсфобжект
 
@@ -62,7 +62,7 @@ IID, связанный с объектом.
 
 Уведомление **SMC \_ сетсфобжект** используется с \_ потоком IID. Объект сохраняется в сохраненном виде в реестре и не выполняется с счетчиком ссылок на объект, переданный в.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: 4c9b9f31-c317-43fd-8404-35295b41d093
 title: Пример расширенного распознавания
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: de7c56a76e66870fdd881ff1d51c4b54acb929765fb21d45857d67c252b01628
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7e23a078ded9c6967f8e45780f8cb3a739b246f6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117675632"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247879"
 ---
 # <a name="advanced-recognition-sample"></a>Пример расширенного распознавания
 

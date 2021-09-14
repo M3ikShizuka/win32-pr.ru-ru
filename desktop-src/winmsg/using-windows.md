@@ -4,12 +4,12 @@ ms.assetid: 7695fb64-3918-4d9a-8cd8-01d20edd9c55
 title: Использование Windows
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 75681987a4bc012618135f666b3ff973880b8129d2ad1ee896bcdbed266d179d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 54bebe537f82de65efddc086ee457e1abe47a617
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118436970"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247459"
 ---
 # <a name="using-windows"></a>Использование Windows
 

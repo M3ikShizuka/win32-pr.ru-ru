@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 85d7c9f64a7d4d00e95f8e877e7f33c9e6a8177977eff3b523c25cc1432ac57d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 03ecde48ef3d68e30116cdd7fc8a77179f2282c4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118704686"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247375"
 ---
 # <a name="drm_individualizedversion"></a>\_ИНДИВИДУАЛИЗЕДВЕРСИОН DRM
 

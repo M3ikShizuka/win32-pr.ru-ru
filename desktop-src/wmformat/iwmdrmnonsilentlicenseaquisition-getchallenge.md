@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cf495652033bdb5201f2b4e5bd9dc1d6a222cc3ebdf4ec6438fe391ed06fac85
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fa0dc63c63e5d7a62c06cbe791d9a5e5e8d09c5d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119027522"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247276"
 ---
 # <a name="iwmdrmnonsilentlicenseaquisitiongetchallenge-method"></a>Метод Ивмдрмнонсилентлиценсеакуиситион:: Challenge
 
@@ -66,7 +66,7 @@ HRESULT GetChallenge(
 
 ## <a name="remarks"></a>Remarks
 
-Отсутствует.
+Нет.
 
 ## <a name="requirements"></a>Требования
 

@@ -9,12 +9,12 @@ api_type: ''
 api_location: ''
 topic_type:
 - kbArticle
-ms.openlocfilehash: 00b7885ca0f436c8423098bfb2913bc7e9e2ce2a8a95c685d534dc495c5400af
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 448e1d5265ec34ce1889ca36f234622e2b082553
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118048254"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247951"
 ---
 # <a name="windows-shell"></a>Windows Консоль
 

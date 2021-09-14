@@ -11,14 +11,14 @@ keywords:
 - ASF (Расширенный системный формат), основные функции
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7e394db59877612fb401552fc30a37c66f271e20e8c018c3525a0b617158abd9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aea60a6ab30e6f977e1c827718aac4b3bddec8b7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118704071"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247327"
 ---
-# <a name="features"></a>Функции
+# <a name="features"></a>Компоненты
 
 пакет SDK для Windows Media Format предоставляет множество возможностей для работы с файлами ASF и другими файлами в расширенном системном формате. Многие из этих функций непросто классифицируются в одной из основных функций пакета SDK. в этом разделе описываются функции пакета SDK для Windows Media Format с точки зрения программирования. В каждом разделе приводятся общие сведения о функции и ссылки на соответствующие разделы в этой документации.
 

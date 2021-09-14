@@ -5,11 +5,11 @@ title: Справочник по классам окон
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 09229905628525f66a0e8ca810a4ca7533bccf6f
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108083402"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247453"
 ---
 # <a name="window-class-reference"></a>Справочник по классам окон
 

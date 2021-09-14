@@ -4,12 +4,12 @@ description: Новый API позволяет приложениям отпра
 ms.assetid: DDBC3592-BD4D-4826-83FE-387564DA07E8
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 78d79d47dceb5c8bf2e7575836c9a40ddf0347b7e5c616ab4b7196b547742c97
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9e043c1188bda790b4ed151e8a79e1f7b4c6f0f9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119028832"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247651"
 ---
 # <a name="new-api-allows-apps-to-send-trim-and-unmap-hints-to-storage-media"></a>Новый API позволяет приложениям отсылать подсказки "обрезать и отменить сопоставление" на носитель хранилища
 

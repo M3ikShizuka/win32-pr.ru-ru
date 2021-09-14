@@ -4,12 +4,12 @@ ms.assetid: 5e86a4d5-c0a7-4283-81cc-ec3a26f74880
 title: Событие Инкрекогнизерконтекст. Рекогнитионвисалтернатес (Мсинкаут. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d4a693e3f13abb92f0d486d419bc5cf02d214d50204e4c64c4e3148d2b400c9c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e4a7d35d8281305b0cb5f84114bb2f2fa0e718c8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118041924"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247759"
 ---
 # <a name="inkrecognizercontextrecognitionwithalternates-event"></a>Инкрекогнизерконтекст. Рекогнитионвисалтернатес, событие
 
@@ -78,7 +78,7 @@ void RecognitionWithAlternates(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

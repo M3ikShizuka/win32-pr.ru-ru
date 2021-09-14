@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 47e339fda95ccf7408ad2f218179cfb591da217b16fbbce9c9870eabd7437eaf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b395d3ad4271ccef9964f0d39c74a1e0ba158257
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117848230"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247333"
 ---
 # <a name="drm_individualization_status-enumeration-wmdrmsdkh"></a>Перечисление DRM_INDIVIDUALIZATION_STATUS (Вмдрмсдк. h)
 

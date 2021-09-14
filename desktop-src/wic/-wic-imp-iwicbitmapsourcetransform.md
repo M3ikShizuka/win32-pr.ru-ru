@@ -4,12 +4,12 @@ ms.assetid: 6a3e682c-55c6-4728-9d14-5eb0290f3dcc
 title: Реализация Ивикбитмапсаурцетрансформ
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 79caa17fdb874b9cbee73a9a371c4ba454e72c6eb249a6ca7d626fdd9c86aea0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0809e1e56fe3c05c8803bb70106c4a24a466eafe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118711079"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247576"
 ---
 # <a name="implementing-iwicbitmapsourcetransform"></a>Реализация Ивикбитмапсаурцетрансформ
 
@@ -111,7 +111,7 @@ enum WICBitmapTransformOptions
 [**ивикметадатаблоккреадер**](/windows/desktop/api/Wincodecsdk/nn-wincodecsdk-iwicmetadatablockreader)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Реализация Ивикметадатаблоккреадер](-wic-imp-iwicmetadatablockreader.md)

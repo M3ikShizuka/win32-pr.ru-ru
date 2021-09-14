@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: dad52aebe4a90d132827f01400fc7a1f2bbf1fde
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122624720"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247483"
 ---
 # <a name="menugroup-element"></a>Менуграуп, элемент
 
@@ -84,7 +84,7 @@ ms.locfileid: "122624720"
 
 | Элемент                                                                             | Описание                                        |
 |-------------------------------------------------------------------------------------|----------------------------------------------------|
-| [**Кнопка**](windowsribbon-element-button.md)<br/>                           | Может происходить один или несколько раз<br/> <br/> |
+| [**Button**](windowsribbon-element-button.md)<br/>                           | Может происходить один или несколько раз<br/> <br/> |
 | [**Установка**](windowsribbon-element-checkbox.md)<br/>                       | Может происходить один или несколько раз<br/> <br/> |
 | [**ComboBox**](windowsribbon-element-combobox.md)<br/>                       | Может происходить один или несколько раз<br/> <br/> |
 | [**DropDownButton**](windowsribbon-element-dropdownbutton.md)<br/>           | Может происходить один или несколько раз<br/> <br/> |
@@ -116,7 +116,7 @@ ms.locfileid: "122624720"
 
 ## <a name="remarks"></a>Remarks
 
-Обязательный.
+Обязательный элемент.
 
 Должен быть хотя бы один раз для каждого элемента [**аппликатионмену**](windowsribbon-element-applicationmenu.md), [**ContextMenu**](windowsribbon-element-contextmenu.md), [**DropDownButton**](windowsribbon-element-dropdownbutton.md), [**дропдовнгаллери. менуграупс**](windowsribbon-element-dropdowngallery-menugroups.md), [**инриббонгаллери. менуграупс**](windowsribbon-element-inribbongallery-menugroups.md), [**SplitButton. менуграупс**](windowsribbon-element-splitbutton-menugroups.md), [**MiniToolbar**](windowsribbon-element-minitoolbar.md)или [**SplitButtonGallery. MenuGroups**](windowsribbon-element-splitbuttongallery-menugroups.md) .
 
@@ -216,7 +216,7 @@ ms.locfileid: "122624720"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

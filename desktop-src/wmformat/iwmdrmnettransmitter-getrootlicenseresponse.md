@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: de89389163a9eae66a0dcda14dd6b9699d3db9650140cceac6498b2ab77a4e44
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c3497a3eaedb872b7d2c9eb5d7782d01f8b35462
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119707934"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247294"
 ---
 # <a name="iwmdrmnettransmittergetrootlicenseresponse-method"></a>Метод Ивмдрмнеттрансмиттер:: Жетрутлиценсереспонсе
 

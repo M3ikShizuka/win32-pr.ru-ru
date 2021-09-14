@@ -17,12 +17,12 @@ keywords:
 - DRM (Управление цифровыми правами), объекты-отшифрования
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0e5a6503a4ae95f44cac512966b0fe1612828d4d44d1db34d7724b1f764ba4d5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d46213dd7ebfbe48ff22039c201dbff3aab462f5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119085896"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247351"
 ---
 # <a name="drm-transcryptor-object"></a>Объект перешифрования DRM
 
