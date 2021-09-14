@@ -5,17 +5,17 @@ title: Сохранение образа
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 1bf47a869481d9ec7d71d594ddb238be14f9b152
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104545727"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055711"
 ---
 # <a name="storing-an-image"></a>Сохранение образа
 
 Многие приложения хранят образы постоянно в виде файлов. Например, графические приложения хранят рисунки, приложения электронной таблицы хранят диаграммы, приложения САПР сохраняют чертежи и т. д.
 
-При написании приложения, в котором хранится точечный рисунок, следует использовать формат файлов точечных рисунков, описанный в статье [хранилище битовых](bitmap-storage.md)карт. Чтобы сохранить точечный рисунок в этом формате, необходимо использовать структуру [**битмапинфохеадер**](/previous-versions//dd183376(v=vs.85)), [**BITMAPV4HEADER**](/windows/desktop/api/Wingdi/ns-wingdi-bitmapv4header)или [**BITMAPV5HEADER**](/windows/desktop/api/Wingdi/ns-wingdi-bitmapv5header) и массив [**ргбкуад**](/windows/win32/api/wingdi/ns-wingdi-rgbquad) , а также массив индексов палитры.
+при написании приложения, в котором хранится точечный рисунок, следует использовать формат файла точечного рисунка, описанный в разделе [bitmap служба хранилища](bitmap-storage.md). Чтобы сохранить точечный рисунок в этом формате, необходимо использовать структуру [**битмапинфохеадер**](/previous-versions//dd183376(v=vs.85)), [**BITMAPV4HEADER**](/windows/desktop/api/Wingdi/ns-wingdi-bitmapv4header)или [**BITMAPV5HEADER**](/windows/desktop/api/Wingdi/ns-wingdi-bitmapv5header) и массив [**ргбкуад**](/windows/win32/api/wingdi/ns-wingdi-rgbquad) , а также массив индексов палитры.
 
 В следующем примере кода определяется функция, которая использует структуру [**битмапинфо**](/windows/win32/api/wingdi/ns-wingdi-bitmapinfo) и выделяет память для и инициализирует элементы в структуре [**битмапинфохеадер**](/previous-versions//dd183376(v=vs.85)) . Обратите внимание, что структура **битмапинфо** не может использоваться с структурой [**BITMAPV4HEADER**](/windows/desktop/api/Wingdi/ns-wingdi-bitmapv4header) или [**BITMAPV5HEADER**](/windows/desktop/api/Wingdi/ns-wingdi-bitmapv5header) .
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: e385cf887dceddcdc470b908d46f59405f573ab47837b26f8453ce6154eb0d72
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e959d687d7d6b11dc6055daeda789e728d875d70
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117817457"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055494"
 ---
 # <a name="isequalobject-function"></a>Функция Исекуалобжект
 
@@ -61,7 +61,7 @@ BOOL WINAPI IsEqualObject(
 
 Возвращает **значение true** , если интерфейсы находятся в одном объекте, или **false** в противном случае.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -72,7 +72,7 @@ BOOL WINAPI IsEqualObject(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

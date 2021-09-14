@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3DX10.h
-ms.openlocfilehash: f3ee6dea032475eb94a723229751d9523c12d118f7319da8f0296cc8c8c42a2c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0b358c57e6410827177e76e3da30b2f5f9896ee2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119634954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056052"
 ---
 # <a name="d3dx10_font_desc-structure"></a>D3DX10 \_ \_ структура шрифта
 
@@ -44,7 +44,7 @@ typedef struct D3DX10_FONT_DESC {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -158,13 +158,13 @@ typedef struct D3DX10_FONT_DESC {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Параметр компилятора также определяет тип структуры. Если задано значение Unicode, \_ \_ тип структуры D3DX10 Font DESC разрешается в D3DX10 \_ шрифт \_ дескв; в противном случае тип структуры разрешается в D3DX10 \_ Font \_ DESC.
 
 Возможные значения приведенных выше элементов приведены в структуре GDI [LOGFONT](/previous-versions//ms533931(v=vs.85)) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -174,7 +174,7 @@ typedef struct D3DX10_FONT_DESC {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

@@ -10,12 +10,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: ee8c4737ff7513441532275e24f2cfe20f8e30fa2932e854cc566eb032c49d0a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c2b3ec0c1bd771f59a4e456cb8e57c3bb3e9e394
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118555151"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056208"
 ---
 # <a name="making-an-asynchronous-call-with-vbscript"></a>Выполнение асинхронного вызова с помощью VBScript
 
@@ -27,7 +27,7 @@ ms.locfileid: "118555151"
 
 Установка этого значения реестра гарантирует проверку подлинности объектов данных, возвращаемых в приемник. Если для **унсекаппакцессконтролдефаулт** задано значение One (1), WMI выполняет проверку доступа к возвращаемым данным. Проверки доступа проверяют, поступают ли данные из правильного источника. Дополнительные сведения см. [в разделе Настройка безопасности при асинхронном вызове](setting-security-on-an-asynchronous-call.md).
 
-Асинхронные методы с именами, заканчивающимися на "Async \_ ", всегда возвращают немедленно после вызова, чтобы программа могла продолжить выполнение. Например, [**SWbemServices.Exeккуери**](swbemservices-execquery.md) является синхронным и блокирует выполнение до тех пор, пока не будут возвращены все объекты. [**SWbemServices.Exeметод ккуерясинк**](swbemservices-execqueryasync.md) является неблокирующей асинхронной версией. Более безопасный способ вызоваSWbemServices.Exeнеблокировке **ккуери** заключается в вызове [*полусинхронном*](gloss-s.md). Дополнительные сведения см. в разделе [Настройка безопасности при асинхронном вызове](setting-security-on-an-asynchronous-call.md) и [вызов Семисинчронаус с помощью VBScript](making-a-semisynchronous-call-with-vbscript.md).
+Асинхронные методы с именами, заканчивающимися на "Async \_ ", всегда возвращают немедленно после вызова, чтобы программа могла продолжить выполнение. Например, [**SwbemServices. ExecQuery**](swbemservices-execquery.md) является синхронным и блокирует выполнение до тех пор, пока не будут возвращены все объекты. Метод [**SwbemServices. ексеккуерясинк**](swbemservices-execqueryasync.md) является неблокирующей асинхронной версией. Более безопасный способ вызова **SwbemServices. ExecQuery** — это вызов [*полусинхронном*](gloss-s.md). Дополнительные сведения см. в разделе [Настройка безопасности при асинхронном вызове](setting-security-on-an-asynchronous-call.md) и [вызов Семисинчронаус с помощью VBScript](making-a-semisynchronous-call-with-vbscript.md).
 
 Параметр *ифлагс* для асинхронных вызовов всегда имеет значение по умолчанию (0). Асинхронные методы не предоставляют коллекцию [**SWbemObjectSet**](swbemobjectset.md) для подпрограммы приемника. Вместо этого подпрограммы события [**свбемсинк. онобжектреади**](swbemsink-onobjectready.md) в скрипте или приложении получают каждый объект, как он предоставляется.
 
@@ -164,7 +164,7 @@ end sub
 
 
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

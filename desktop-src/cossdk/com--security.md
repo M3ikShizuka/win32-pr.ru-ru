@@ -4,12 +4,12 @@ ms.assetid: 561593c0-d897-4c3a-a4f5-f25351d2c05c
 title: Безопасность COM+
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 481c73fd81796d8f902434594171f0e3252d08ba8936ba11e6c3a699048467fa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d827291007fc12c7faa9292c4c1b8813604db40c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118102719"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971231"
 ---
 # <a name="com-security"></a>Безопасность COM+
 

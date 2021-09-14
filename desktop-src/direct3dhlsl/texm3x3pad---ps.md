@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 10e473b30417d6797ffe227eff11b0d5d607264560bfd8506b76f333e0275cf2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0013c4d2baf9a404406982b5a8e984698a964f33
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118787710"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970466"
 ---
 # <a name="texm3x3pad---ps"></a>texm3x3pad-PS
 
@@ -31,12 +31,12 @@ ms.locfileid: "118787710"
 
  
 
-where
+где
 
 -   DST — это регистр назначения.
 -   src является исходным регистром.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 
 

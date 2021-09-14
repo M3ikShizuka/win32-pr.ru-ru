@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3D9Types.h
-ms.openlocfilehash: 01f0521ca7833cd74c3cb45b5a650fbd12aae485e36a153b57e6d9b10b49d1f2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 94f77549d0ea2a9c59d7de8367a6133085cc2771
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117733075"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055996"
 ---
 # <a name="d3ddevinfo_d3d9cacheutilization-structure"></a>\_Структура D3D9CACHEUTILIZATION D3DDEVINFO
 
@@ -36,7 +36,7 @@ typedef struct D3DDEVINFO_D3D9CACHEUTILIZATION {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -62,7 +62,7 @@ typedef struct D3DDEVINFO_D3D9CACHEUTILIZATION {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эффективный кэш, как правило, приближается к проценту попадания в 90 процентов, а неэффективный кэш, как правило, приближается к проценту попадания в 10 процентов (хотя низкий процент не обязательно является проблемой).
 
@@ -76,7 +76,7 @@ typedef struct D3DDEVINFO_D3D9CACHEUTILIZATION {
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

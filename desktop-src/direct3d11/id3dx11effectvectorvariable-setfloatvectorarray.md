@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cdc555e0267bbec28d7627f3bb765179c34e681732893ddb1e983d0c82d64f71
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e4f8f731dd90251848095f899bdc141bbc1d6748
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117734016"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056021"
 ---
 # <a name="id3dx11effectvectorvariablesetfloatvectorarray-method"></a>Метод ID3DX11EffectVectorVariable:: Сетфлоатвектораррай
 
@@ -78,7 +78,7 @@ HRESULT SetFloatVectorArray(
 
 Возвращает один из следующих [кодов возврата Direct3D 11](d3d11-graphics-reference-returnvalues.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Пакет SDK для DirectX не предоставляет никаких скомпилированных двоичных файлов для эффектов. Для создания приложения типа Effects необходимо использовать исходный текст Effects 11. Дополнительные сведения об использовании источника Effects 11 см. в разделе [различия между эффектами 10 и эффекты 11](d3d11-graphics-programming-guide-effects-differences.md).
@@ -96,7 +96,7 @@ HRESULT SetFloatVectorArray(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

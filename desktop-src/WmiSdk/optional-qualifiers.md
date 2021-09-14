@@ -13,12 +13,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 05cd80cbccf2c67baaeac2982c896a0c74ead227619bfb17517a039fadf24a52
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 36fe1b9ceee1211a3b09ce70e03044b7af57eac2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119050542"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056198"
 ---
 # <a name="optional-qualifiers"></a>Необязательные квалификаторы
 
@@ -180,7 +180,7 @@ ms.locfileid: "119050542"
 
 Update
 
-Доступ
+Access
 
 Для свойств и ссылок допустимы следующие значения: Update и Access.
 
@@ -220,7 +220,7 @@ Update
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -231,7 +231,7 @@ Update
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

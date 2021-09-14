@@ -13,12 +13,12 @@ api_type:
 - UserDefined
 api_location:
 - Combase.h
-ms.openlocfilehash: c07f22b9dc261fe9d7b073a1f1ab93aa49e482fb70c53288aeaf606e6be9aec9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 375660399180196e2434030ea7551733affc4062
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119685084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055441"
 ---
 # <a name="lpfninitroutine-function-pointer"></a>Указатель функции Лпфнинитраутине
 
@@ -58,7 +58,7 @@ typedef void ( CALLBACK *LPFNInitRoutine)(
 
 Этот указатель функции не возвращает значение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ typedef void ( CALLBACK *LPFNInitRoutine)(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 60c1f2be2e90ddb8b3d7a396bfa925f0b7e83181effe7fb8c947bd911133f441
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ea08f32106c935be628bcdcd22e39ab92a0566e6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119963144"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055396"
 ---
 # <a name="diskio_typegroup2-class"></a>\_Класс дискио TypeGroup2
 
@@ -38,7 +38,7 @@ class DiskIo_TypeGroup2 : DiskIo
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **дискио \_ TypeGroup2** имеет следующие типы членов:
 
@@ -84,7 +84,7 @@ class DiskIo_TypeGroup2 : DiskIo
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -95,7 +95,7 @@ class DiskIo_TypeGroup2 : DiskIo
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

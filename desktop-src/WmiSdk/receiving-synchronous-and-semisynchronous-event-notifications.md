@@ -1,20 +1,20 @@
 ---
-description: Используйте SWbemServices.ExeКкуери, чтобы запросить все существующие события.
+description: Используйте SWbemServices. ExecQuery для запроса всех существующих событий.
 ms.assetid: bc99719a-7e33-4e2d-8355-f8fc97c66f71
 ms.tgt_platform: multiple
 title: Получение синхронных и Семисинчронаус уведомлений о событиях
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8657767150012124c3ccb0df8d95896f51b36ef47fa00998cf786df9beddf977
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 15327c66f7ba3e59824c94d54a206ec348c85952
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118817263"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056189"
 ---
 # <a name="receiving-synchronous-and-semisynchronous-event-notifications"></a>Получение синхронных и Семисинчронаус уведомлений о событиях
 
-Используйте [**SWbemServices.Exeккуери**](swbemservices-execquery.md) , чтобы запросить все существующие события.
+Используйте [**SwbemServices. ExecQuery**](swbemservices-execquery.md) для запроса всех существующих событий.
 
 В следующем примере кода показано, как запросить события в журнале.
 
@@ -22,7 +22,7 @@ ms.locfileid: "118817263"
 
 дополнительные сведения см. в статьях [определение типа получаемого события](determining-the-type-of-event-to-receive.md), [получение уведомлений о событиях](receiving-event-notifications.md)и [WQL (SQL для WMI)](wql-sql-for-wmi.md).
 
-При вызове [**SWbemServices.Exeкнотификатионкуери**](swbemservices-execnotificationquery.md) по умолчанию используется обмен данными семисинчронаус. По умолчанию для параметра *ифлагс* заданы флаги **вбемфлагфорвардонли** и **вбемфлагретурниммедиатели** . Дополнительные сведения см. [в разделе вызов метода](calling-a-method.md).
+Вызов [**SwbemServices. ексекнотификатионкуери**](swbemservices-execnotificationquery.md) по умолчанию использует соединение семисинчронаус. По умолчанию для параметра *ифлагс* заданы флаги **вбемфлагфорвардонли** и **вбемфлагретурниммедиатели** . Дополнительные сведения см. [в разделе вызов метода](calling-a-method.md).
 
 В следующей процедуре описывается получение уведомления о событии семисинчронаус с помощью VBScript.
 
@@ -36,7 +36,7 @@ ms.locfileid: "118817263"
 
 4.  укажите интервал опроса для инструментарий управления Windows (WMI) (WMI) в запросе, например "в течение 10", для опроса каждые 10 секунд. Дополнительные сведения см. [в разделе предложение внутри](within-clause.md).
 
-5.  Вызовите [**SWbemServices.Exeкнотификатионкуери**](swbemservices-execnotificationquery.md) с помощью запроса.
+5.  Вызовите [**SwbemServices. ексекнотификатионкуери**](swbemservices-execnotificationquery.md) с помощью запроса.
 
 6.  Перебрать полученную коллекцию.
 

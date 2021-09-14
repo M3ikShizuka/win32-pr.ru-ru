@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 5691fc2601624733bb8d41b63140b694bd78027e0f6d548b02984bbc12406a47
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e9fb7a68f11d21065d6b4911b9ee7f58920aeb25
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119120538"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055956"
 ---
 # <a name="id3dxprtbufferreleasegh-method"></a>Метод ID3DXPRTBuffer:: Релеасегх
 
@@ -44,7 +44,7 @@ HRESULT ReleaseGH();
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод освобождает указатель на интерфейс [**ID3DXTextureGutterHelper**](id3dxtexturegutterhelper.md) .
 

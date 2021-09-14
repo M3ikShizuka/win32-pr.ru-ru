@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3D9Types.h
-ms.openlocfilehash: 1f1809bbf9352b022d2acfb15b119db47b0feab6302020cdaf5b24746945aa05
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b2c0838743f8190eeb0e5c825e7125d2e48c0b6c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119750584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055991"
 ---
 # <a name="d3dvertexbuffer_desc-structure"></a>\_Структура D3DVERTEXBUFFER DESC
 
@@ -40,7 +40,7 @@ typedef struct D3DVERTEXBUFFER_DESC {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -120,7 +120,7 @@ typedef struct D3DVERTEXBUFFER_DESC {
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

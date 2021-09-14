@@ -5,12 +5,12 @@ title: Загрузка и отображение растровых изобр�
 ms.topic: article
 ms.date: 05/31/2018
 ms.custom: project-verbatim
-ms.openlocfilehash: db3ec9e1d586a585380123aa01d9553ad1f57f60efb93c28d2d974f54d56b249
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ab2405462db5017215893d50d93dc0b228633cfb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120115004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055690"
 ---
 # <a name="loading-and-displaying-bitmaps"></a>Загрузка и отображение растровых изображений
 
@@ -39,6 +39,6 @@ Bitmap bitmap(hIcon);
 graphics.DrawImage(&bitmap, 10, 10);
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 [средство просмотра WIC GDI+ пример приложения](https://github.com/microsoft/Windows-classic-samples/tree/master/Samples/Win7Samples/multimedia/wic/wicviewergdiplus)

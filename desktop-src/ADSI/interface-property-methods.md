@@ -9,15 +9,15 @@ keywords:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 018999d4834859cdb465bba2e6cdb9a05bd38a98
-ms.sourcegitcommit: b0ebdefc3dcd5c04bede94091833aa1015a2f95c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "105654369"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970418"
 ---
 # <a name="interface-property-methods"></a>Методы свойств интерфейса
 
-Многие интерфейсы ADSI предназначены для поддержки автоматизации и, таким образом, являются сдвоенными интерфейсами в том, что они поддерживают клиентский доступ через интерфейсы [**IUnknown**](/windows/win32/api/unknwn/nn-unknwn-iunknown) и [**IDispatch**](/windows/win32/api/oaidl/nn-oaidl-idispatch) . Клиенты, не поддерживающие автоматизацию, такие как написанные на C/C++, устраняют вызов методов напрямую, с помощью метода [**IUnknown:: QueryInterface**](/windows/win32/api/unknwn/nf-unknwn-iunknown-queryinterface(q)) и вызывают метод напрямую. Клиенты автоматизации, также известные как клиенты, привязанные к имени, такие как написанные в Visual Basic или Visual Basic Scripting Edition (VBScript), должны устранять вызов метода косвенно с помощью метода [**DISP**](/previous-versions/windows/desktop/automat/dispinterface) .
+Многие интерфейсы ADSI предназначены для поддержки автоматизации и, таким образом, являются сдвоенными интерфейсами в том, что они поддерживают клиентский доступ через интерфейсы [**IUnknown**](/windows/win32/api/unknwn/nn-unknwn-iunknown) и [**IDispatch**](/windows/win32/api/oaidl/nn-oaidl-idispatch) . Клиенты, не поддерживающие автоматизацию, такие как написанные на C/C++, устраняют вызов методов напрямую, с помощью метода [**IUnknown:: QueryInterface**](/windows/win32/api/unknwn/nf-unknwn-iunknown-queryinterface(q)) и вызывают метод напрямую. клиенты автоматизации, также известные как клиенты, привязанные к имени, такие как написанные в Visual Basic или Visual Basic scripting Edition (VBScript), должны устранять вызов метода косвенно с помощью метода [**disp**](/previous-versions/windows/desktop/automat/dispinterface) .
 
 Интерфейс ADSI, поддерживающий автоматизацию, определяет методы свойств для получения и изменения свойств объекта, реализующего интерфейс. У методов свойств есть имена, которые  содержат \_ префиксы Get и WHERE в  \_ начале соответствующих имен свойств, например **Get \_ пользователь** и **\_ имя размещения**.
 
@@ -36,7 +36,7 @@ pADs->get_Name(&bstrName);
 
 
 
-В следующем примере кода показан вызов методов свойств в клиентах автоматизации, которые могут быть несколько разными. Например, Visual Basic использует точечную нотацию.
+В следующем примере кода показан вызов методов свойств в клиентах автоматизации, которые могут быть несколько разными. например, Visual Basic использует точечную нотацию.
 
 
 ```VB
@@ -51,6 +51,6 @@ objName = Obj.Name
 
 Дополнительные сведения о получении и установке свойств объектов ADSI см. в разделе [кэш свойств](property-cache-interfaces.md).
 
- 
+ 
 
- 
+ 

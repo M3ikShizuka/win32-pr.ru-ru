@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3D9Types.h
-ms.openlocfilehash: cda5b92170ef21f7bb66233f0748afe0c780837bbcb0eee9ef3c970880070422
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e6c5e9508185124673ca7464b31d741cdf8035c8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118527298"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055989"
 ---
 # <a name="d3dvertexelement9-structure"></a>Структура D3DVERTEXELEMENT9
 
@@ -40,11 +40,11 @@ typedef struct D3DVERTEXELEMENT9 {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
-**Stream**
+**Вышестоящий**
 </dt> <dd>
 
 Тип: **[ **слово**](../winprog/windows-data-types.md)**
@@ -110,7 +110,7 @@ typedef struct D3DVERTEXELEMENT9 {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Данные вершин определяются с помощью массива структур **D3DVERTEXELEMENT9** . Используйте [**D3DDECL \_ End**](d3ddecl-end.md) , чтобы объявить последний элемент в объявлении.
 
@@ -124,7 +124,7 @@ typedef struct D3DVERTEXELEMENT9 {
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

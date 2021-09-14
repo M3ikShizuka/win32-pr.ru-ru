@@ -8,11 +8,11 @@ ms:contentKeyID: 39511438
 ms.date: 07/30/2014
 ms.topic: article
 ms.openlocfilehash: 28273c984eb5b58633c4e0ed2464b197fd62fc41
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104553104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055728"
 ---
 # <a name="jet_dbid-operators"></a>Операторы JET_DBID
 
@@ -50,7 +50,7 @@ ms.locfileid: "104553104"
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Структура JET_DBID](./jet-dbid-structure.md)
 

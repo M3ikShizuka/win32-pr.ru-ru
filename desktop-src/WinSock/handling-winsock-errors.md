@@ -4,12 +4,12 @@ ms.assetid: 81ed3328-4b15-43dc-88f1-573a4a97d672
 title: Обработка ошибок Winsock
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4dbb0ea47fc023ce0d6ae47f82a6bb9d732e052d5749fe58f9a405d6784d941b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4dbad01ad7add7995cf978e101535104f6dc0da6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120097904"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056226"
 ---
 # <a name="handling-winsock-errors"></a>Обработка ошибок Winsock
 
@@ -17,7 +17,7 @@ ms.locfileid: "120097904"
 
 Код ошибки Winsock можно преобразовать в HRESULT для использования в удаленном вызове процедур (RPC) с помощью HRESULT \_ из \_ Win32. В более ранних версиях пакета средств разработки программного обеспечения (SDK) HRESULT \_ из \_ Win32 был определен как макрос в файле заголовка *Winerror. h* . в пакете Microsoft Windows Software Development Kit (SDK) значение HRESULT \_ из \_ WIN32 определяется как встроенная функция в файле заголовка *Winerror. h* .
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: 18b239ea888d576dcbcc87b07944efb21a77ac9f13f671b2bd4f096b93b976de
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b1d8eed447b56e6f379ffe96cbbcb4820fbdaf14
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118990694"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970014"
 ---
 # <a name="d3dxvec2transform-function-d3dx10mathh"></a>Функция D3DXVec2Transform (D3DX10Math. h)
 
@@ -75,7 +75,7 @@ D3DXVECTOR4* D3DXVec2Transform(
 
 Указатель на структуру D3DXVECTOR4, которая является преобразованным вектором.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция преобразует вектор ПС (x, y, 0, 1) на матрицу pM.
 

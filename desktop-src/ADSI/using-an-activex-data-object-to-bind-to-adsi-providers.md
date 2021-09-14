@@ -9,18 +9,18 @@ keywords:
 - поставщики услуг ADSI, использование ActiveX объекта данных для привязки
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4f9c34e026fabe34e52bcfbd9182cca935cf7e019b1fd1c3c8f97fd2f88be48c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4efb64da28d5c4c2596fcf889e3b3db88b77205c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119637534"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970397"
 ---
 # <a name="using-an-activex-data-object-to-bind-to-adsi-providers"></a>использование объекта данных ActiveX для привязки к поставщикам ADSI
 
 так как ADSI также является поставщиком OLE DB, для подключения к поставщикам ADSI можно использовать объект данных ActiveX (ADO). Как и в случае с другими поставщиками ADO, для подключения к поставщику OLE DB необходимо создать новый объект соединения и, при необходимости, указать учетные данные. Имя поставщика OLE DB ADSI — **адсдсубжект**.
 
-Например:
+Пример:
 
 
 ```VB

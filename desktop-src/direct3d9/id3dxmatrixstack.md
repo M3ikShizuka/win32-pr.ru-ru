@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: b8fa483be72d29cc869b2bd468cff25033a80187bef69317af4894fc05b096dc
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 62681c468fa7e78e6fd08c458798d98b467b992e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119856454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969646"
 ---
 # <a name="id3dxmatrixstack-interface"></a>Интерфейс ID3DXMATRIXStack
 
@@ -50,7 +50,7 @@ ms.locfileid: "119856454"
 | [**ротатеаксислокал**](id3dxmatrixstack--rotateaxislocal.md)                 | Поворачивает (относительно локального пространства координат объекта) вокруг произвольной оси.<br/>                                             |
 | [**ротатэйавпитчролл**](id3dxmatrixstack--rotateyawpitchroll.md)           | Поворачивает (относительно мирового пространства координат) вокруг произвольной оси.<br/>                                                          |
 | [**ротатэйавпитчролллокал**](id3dxmatrixstack--rotateyawpitchrolllocal.md) | Поворачивает (относительно локального пространства координат объекта) вокруг произвольной оси.<br/>                                             |
-| [**Масштабирование**](id3dxmatrixstack--scale.md)                                     | Масштабировать текущую матрицу относительно источника координат мира.<br/>                                                                     |
+| [**Измените**](id3dxmatrixstack--scale.md)                                     | Масштабировать текущую матрицу относительно источника координат мира.<br/>                                                                     |
 | [**скалелокал**](id3dxmatrixstack--scalelocal.md)                           | Масштабировать текущую матрицу относительно источника объекта.<br/>                                                                               |
 | [**Перевести**](id3dxmatrixstack--translate.md)                             | Определяет продукт текущей матрицы и вычисленную матрицу смещения, определяемую заданными факторами (x, y и z).<br/> |
 | [**транслателокал**](id3dxmatrixstack--translatelocal.md)                   | Определяет продукт вычисленной матрицы перевода, определяемый заданными факторами (x, y и z) и текущей матрицей.<br/> |
@@ -59,7 +59,7 @@ ms.locfileid: "119856454"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Интерфейс **ID3DXMATRIXStack** получается путем вызова функции [**D3DXCreateMatrixStack**](d3dxcreatematrixstack.md) .
 
@@ -73,7 +73,7 @@ typedef interface ID3DXMATRIXStack *LPD3DXMATRIXSTACK;
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -84,7 +84,7 @@ typedef interface ID3DXMATRIXStack *LPD3DXMATRIXSTACK;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

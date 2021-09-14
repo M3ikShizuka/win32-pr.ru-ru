@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Новые возможности инструментария WMI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7bec41c28985090368e9f16e0f75c663ca2b811db44ece6e930e04bb1dd2c8c0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4e60c096cf72fe3ee48559c95b6ba643fa46b1f2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117921244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056155"
 ---
 # <a name="whats-new-in-wmi"></a>Новые возможности инструментария WMI
 
@@ -33,7 +33,7 @@ ms.locfileid: "117921244"
 
 дополнительные сведения о новых возможностях инструментария WMI в предыдущих версиях операционной системы см. в статьях [новые возможности Windows 7](what-s-new-in-windows-7.md)и [что нового в Windows Vista](what-s-new-in-windows-vista.md).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

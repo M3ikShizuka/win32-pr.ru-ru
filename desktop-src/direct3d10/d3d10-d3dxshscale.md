@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: 46018d83a473202066ac22c9e4bda88a096154ffd6fc79b13c604d8937d1140c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0fab96575e5542eaaed725a88f9ba52c3289a4ad
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118990754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970037"
 ---
 # <a name="d3dxshscale-function-d3dx10h"></a>Функция D3DXSHScale (D3DX10. h)
 
@@ -85,7 +85,7 @@ FLOAT* D3DXSHScale(
 
 Указатель на коэффициенты вывода SH.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Каждый коэффициент базисной функции илм хранится в памяти l ² + m + l, где:
 

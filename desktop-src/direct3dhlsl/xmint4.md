@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c926d382cf9746a9a9a5603077d9bf4423dbf33368d471809108c584a7d748dd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ead9e7da8d48025c456ae6e57b0ffe64cdb00f46
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119369104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970445"
 ---
 # <a name="xmint4-structure"></a>Структура XMINT4
 
@@ -41,7 +41,7 @@ typedef struct _XMINT4 {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -73,7 +73,7 @@ w — компонент вектора.
 
 </dd> </dl> </dd> </dl> </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -83,7 +83,7 @@ w — компонент вектора.
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта структура определена в ``D3DX\_DXGIFormatConvert.inl`` заголовке пакета SDK DirectX (июнь 2010) для использования из C++. последняя версия этого заголовка в пакете [Microsoft. дкссдк. D3DX](https://www.nuget.org/packages/Microsoft.DXSDK.D3DX) NuGet больше не определяет его и использует [DirectX:: XMINT4](/windows/win32/api/directxmath/ns-directxmath-xmint4) в директксмас.
 

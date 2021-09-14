@@ -4,12 +4,12 @@ description: В примере в этом разделе создается с�
 ms.assetid: 61ACF87A-938C-4487-ACEB-484FCB677C6A
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5fa99c3e678fa7d8e6aa70cd3f5c6e4c7bc514f94114c7bb7a411fa7df1caac3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d15abd44f3a583afd99c5d943b9105c8734b73c1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117831850"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055618"
 ---
 # <a name="how-to-create-a-property-sheet"></a>Создание страницы свойств
 
@@ -23,12 +23,12 @@ ms.locfileid: "117831850"
 
 -   [Windows Элементы управления](window-controls.md)
 
-### <a name="prerequisites"></a>Обязательные условия
+### <a name="prerequisites"></a>Предварительные требования
 
 -   C/C++
 -   Windows Программирование пользовательского интерфейса
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="create-a-property-sheet"></a>Создание страницы свойств
 
@@ -89,11 +89,11 @@ VOID DoPropertySheet(HWND hwndOwner)
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Шаблоны диалоговых окон, значки и метки для страниц загружаются из ресурсов, содержащихся в исполняемом файле приложения. Значок для страницы свойств также загружается из ресурсов приложения.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

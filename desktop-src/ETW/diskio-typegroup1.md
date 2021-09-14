@@ -21,12 +21,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 3a69643602a59fa7be8cd844f3f2908c92e2e08545f7444d1002ec1542b36730
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9d20f80eb840283600f5d106f89c6cf8032ee746
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117814980"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055397"
 ---
 # <a name="diskio_typegroup1-class"></a>\_Класс дискио TypeGroup1
 
@@ -52,7 +52,7 @@ class DiskIo_TypeGroup1 : DiskIo
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **дискио \_ TypeGroup1** имеет следующие типы членов:
 
@@ -264,7 +264,7 @@ class DiskIo_TypeGroup1 : DiskIo
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Windows Сервер 2003 использует следующее определение для класса типа событий **дискио \_ TypeGroup1** .
 
@@ -318,7 +318,7 @@ class DiskIo_TypeGroup1 : DiskIo
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

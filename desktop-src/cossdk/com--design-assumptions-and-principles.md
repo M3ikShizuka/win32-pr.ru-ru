@@ -4,12 +4,12 @@ ms.assetid: c72bbd47-0219-40ba-a7d5-2a6b725972d0
 title: Предположения и принципы разработки COM+
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 28b87c5ae631cd5517b215efae3a09968649cd49ea94fe33b33d9b826082e911
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d7dea86c404896a3d6095d39ebd6031767f6ccdd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118549400"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971244"
 ---
 # <a name="com-design-assumptions-and-principles"></a>Предположения и принципы разработки COM+
 
@@ -17,7 +17,7 @@ ms.locfileid: "118549400"
 
 Приложение COM+ было разработано для упрощения создания распределенных приложений. Общая архитектура основана на наборе допущений и принципов.
 
-## <a name="assumptions"></a>Допущения
+## <a name="assumptions"></a>Предположения
 
 Предполагается следующее:
 

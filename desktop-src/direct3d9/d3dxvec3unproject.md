@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: e213cfd4daa3af2d903f64d7caa1b76e349818c8de5bc50ad4cdb42dc381dbbc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2c3ea6ec1aa60f48589b10575e279bed81b2c94f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119122531"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055972"
 ---
 # <a name="d3dxvec3unproject-function-d3dx9mathh"></a>Функция D3DXVec3Unproject (D3dx9math. h)
 
@@ -105,7 +105,7 @@ D3DXVECTOR3* D3DXVec3Unproject(
 
 Указатель на структуру [**D3DXVECTOR3**](d3dxvector3.md) , которая представляет собой вектор, проецируемый из пространства экрана в объектное пространство.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре *тоска* . Таким образом, функция **D3DXVec3Unproject** может использоваться в качестве параметра для другой функции.
 

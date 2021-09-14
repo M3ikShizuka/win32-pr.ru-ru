@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: 39d2f1baf0f6d1cf08a7231eeca22f460ff2b138b90ff65ff99f354429c574d6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c86a56de95a338df5e4ac6f1d2da8e6d842c1eca
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118153256"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055476"
 ---
 # <a name="ixml2dexdelete-method"></a>IXml2Dex::D удалить метод
 
@@ -70,7 +70,7 @@ HRESULT Delete(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.
@@ -82,7 +82,7 @@ HRESULT Delete(
 
  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

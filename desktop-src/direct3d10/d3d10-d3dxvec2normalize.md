@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: 771b8d20fd24a3f22ebf856a4d76dfb6c504bcb50995f9ade76282d2ff6425ae
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aaa7bde759b9023b69204d6cb39259f0905b9928
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119989934"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970017"
 ---
 # <a name="d3dxvec2normalize-function-d3dx10mathh"></a>Функция D3DXVec2Normalize (D3DX10Math. h)
 
@@ -65,7 +65,7 @@ D3DXVECTOR2* D3DXVec2Normalize(
 
 Указатель на структуру D3DXVECTOR2, которая является нормализованной версией вектора.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре тоска. Таким образом, функция D3DXVec2Normalize может использоваться в качестве параметра для другой функции.
 

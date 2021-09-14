@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3DX10Math.h
-ms.openlocfilehash: e181ff862582edecbe6add6d86542cc3bcfcca9d2afe7857ddd3d1ccb4c33819
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 15bd9bd6c59980c8c54088358fbe1bdd0490bdaa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119852814"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056075"
 ---
 # <a name="d3dxvec4hermite-function-d3dx10mathh"></a>Функция D3DXVec4Hermite (D3DX10Math. h)
 
@@ -104,7 +104,7 @@ D3DXVECTOR4* D3DXVec4Hermite(
 
 Указатель на структуру D3DXVECTOR4, которая является результатом интерполяции Хермите сплайна.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция **D3DXVec4Hermite** выполняет интерполяцию от (позиционирован, тангенс) к (Поситионб, танжентб) с помощью интерполяции хермите сплайна.
 
@@ -164,7 +164,7 @@ Q (s) = (2S ³-3S ² + 1) v1 + (-2S ³ + 3S ²) v2 + (s ³-2S ² + s) T1 + (s ³
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

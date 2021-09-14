@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3DX10Math.h
-ms.openlocfilehash: 660d48219c3d93e9b3188926dd6f5bc2ddf9db45a9310b3bf8716cb2e960e895
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1f69eb14cf2cf5fd77092ed6881e16524d8428c5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119989624"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056096"
 ---
 # <a name="d3dxvec3projectarray-function-d3dx10mathh"></a>Функция D3DXVec3ProjectArray (D3DX10Math. h)
 
@@ -134,11 +134,11 @@ D3DXVECTOR3* D3DXVec3ProjectArray(
 
 Указатель на структуру D3DXVECTOR3, которая представляет собой массив, проецируемый из объектного пространства в пространство экрана.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре тоска. Таким образом, функция D3DXVec3ProjectArray может использоваться в качестве параметра для другой функции.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -148,7 +148,7 @@ D3DXVECTOR3* D3DXVec3ProjectArray(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

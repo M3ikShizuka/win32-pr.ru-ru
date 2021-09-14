@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Классы для настройки и устранения неполадок поставщика
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 77d37443047e9bbde709fc1c7367f0691d16215eff62e39196987b466aea0830
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: be63fb5693898541bffae2abcb05b7595ae7fc9d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119050502"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970186"
 ---
 # <a name="provider-configuration-and-troubleshooting-classes"></a>Классы для настройки и устранения неполадок поставщика
 

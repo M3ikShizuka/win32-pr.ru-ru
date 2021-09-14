@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 759307cb9ef54fce8c63a53af59e03da8085ea8ca315c6e50080f3501ef6c8cb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a6d51fc144e649d442e9b6ce0ab80b7dd5cc3153
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118255415"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055755"
 ---
 # <a name="jet_bkinfolgposmark-property"></a>Свойство JET_BKINFO. Лгпосмарк
 
@@ -64,7 +64,7 @@ public JET_LGPOS lgposMark { get; internal set; }
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Структура JET_BKINFO](./jet-bkinfo-structure2.md)
 

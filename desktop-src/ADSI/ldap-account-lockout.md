@@ -10,16 +10,16 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 697b7a25943debfd08469ce9a28463c88159ded9
-ms.sourcegitcommit: b0ebdefc3dcd5c04bede94091833aa1015a2f95c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "105654367"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970406"
 ---
 # <a name="account-lockout-ldap-provider"></a>Блокировка учетной записи (поставщик LDAP)
 
 При превышении числа неудачных попыток входа учетная запись пользователя блокируется в течение периода времени, заданного атрибутом [**локкаутдуратион**](/windows/desktop/ADSchema/a-lockoutduration) . Свойство [**IADsUser. исаккаунтлоккед**](iadsuser-property-methods.md) является свойством, используемым для чтения и изменения состояния блокировки учетной записи пользователя, но поставщик LDAP ADSI не поддерживает точно поддерживаемое свойство **исаккаунтлоккед** . Чтобы получить и задать точные данные блокировки учетной записи, используйте поставщик WinNT. Дополнительные сведения об использовании свойства **исаккаунтлоккед** с поставщиком WinNT см. в разделе [Блокировка учетной записи (поставщик WinNT)](winnt-account-lockout.md).
 
- 
+ 
 
- 
+ 

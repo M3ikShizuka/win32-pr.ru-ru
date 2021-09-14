@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: 3413deb3c606177c937aef72a8437769dc2a97acdcbee97200880c96f36f9fc7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8d3db3f35b5589a6cd17791d72aa9931124ccfbb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119910052"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055600"
 ---
 # <a name="cdeferredcommand-class"></a>Класс Кдеферредкомманд
 
@@ -56,7 +56,7 @@ ms.locfileid: "119910052"
 | [**исстреамтиме**](cdeferredcommand-isstreamtime.md)         | Указывает, должна ли команда выполняться во время потока или во время презентации.                                         |
 | Методы Идеферредкомманд                                      | Описание                                                                                                             |
 | [**Отменить**](cdeferredcommand-cancel.md)                     | Отменяет ранее поставленный в очередь запрос [**кдеферредкомманд:: Invoke**](cdeferredcommand-invoke.md) .                        |
-| [**Достоверность**](cdeferredcommand-confidence.md)             | В настоящий момент не реализовано.                                                                                              |
+| [**Уровень**](cdeferredcommand-confidence.md)             | В настоящий момент не реализовано.                                                                                              |
 | [**Отложить**](cdeferredcommand-postpone.md)                 | Указывает новое время презентации для ранее поставленной в очередь команды.                                                      |
 | [**Значение HResult**](cdeferredcommand-gethresult.md)             | Получает значение **HRESULT** вызванного метода.                                                                  |
 

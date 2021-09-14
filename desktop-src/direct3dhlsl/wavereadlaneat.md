@@ -1,5 +1,5 @@
 ---
-title: Функция Вавереадланеат
+title: Функция WaveReadLaneAt
 description: Возвращает значение выражения для заданного индекса полосы в заданной волны.
 ms.assetid: CA9467D9-8885-4A5D-87F3-5BA40AE78993
 keywords:
@@ -13,14 +13,14 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 08fa669f8c4284c26052dd68bdbe9ab4f5b99b80b8bdf9445aa3375f0a87a9c0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 573730053a93a110381637ef8e62dc08a4aa1535
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118504624"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970449"
 ---
-# <a name="wavereadlaneat-function"></a>Функция Вавереадланеат
+# <a name="wavereadlaneat-function"></a>Функция WaveReadLaneAt
 
 Возвращает значение выражения для заданного индекса полосы в заданной волны.
 
@@ -55,13 +55,13 @@ ms.locfileid: "118504624"
 
 Полученное значение является результатом *выражения expr*. Он будет единообразным, если *ланеиндекс* является однородным.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция фактически является широковещательной рассылкой значения на *ланеиндекс*"th".
 
 Эта функция поддерживается из модели шейдеров 6,0 на всех стадиях шейдера.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 * [Общие сведения о модели шейдеров 6](hlsl-shader-model-6-0-features-for-direct3d-12.md)
 * [Модель шейдеров 6](shader-model-6-0.md)

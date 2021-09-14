@@ -4,12 +4,12 @@ ms.assetid: 1190baed-5959-4f7a-8946-ac3b3da85821
 title: Обработка сложных наборов символов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 987c58cd1d6e8979573b47bbf3e2e7ff248617b12907f81ef70761c08403a067
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 87bea5b75e87afc4177b03c03f4263ba2592a0e0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118390428"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055284"
 ---
 # <a name="processing-complex-scripts"></a>Обработка сложных наборов символов
 
@@ -32,7 +32,7 @@ ms.locfileid: "118390428"
 
 [**Скриптжетглифабквидс**](/windows/desktop/api/Usp10/nf-usp10-scriptgetglyphabcwidth) возвращает [ширину ABC](uniscribe-glossary.md) данного глифа, которая может быть полезной для рисования диаграмм глифов. Однако его не следует использовать для обычного форматирования текста сложного скрипта.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>См. также
 
 [Использование Uniscribe](using-uniscribe.md)
 

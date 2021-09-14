@@ -12,12 +12,12 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_name: ''
 api_location: ''
-ms.openlocfilehash: 9511b02dd41791ce15a8b356ce849e4e2c034cccd1e52dc015dc66b27292d877
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e156833a23eb2956f7f2ccf32673ddcffb742e89
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120067464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970458"
 ---
 # <a name="texture2dsamplebias-methods"></a>Методы Texture2D:: Самплебиас
 
@@ -35,11 +35,11 @@ ms.locfileid: "120067464"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Ссылается на [объект текстуры](dx-graphics-hlsl-to-type.md).
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

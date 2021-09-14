@@ -27,12 +27,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 2d772eea42faf53bd01fce75abb7481f45955c1d8d0253f7e252f001ae5720af
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 03a336caa02c766160fe6501f91b28f06a872ecb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119923424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970337"
 ---
 # <a name="cim_irq-class"></a>\_Класс IRQ CIM
 
@@ -67,7 +67,7 @@ class CIM_IRQ : CIM_SystemResource
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ IRQ CIM** имеет следующие типы членов:
 
@@ -254,7 +254,7 @@ class CIM_IRQ : CIM_SystemResource
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -488,7 +488,7 @@ class CIM_IRQ : CIM_SystemResource
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **\_ IRQ CIM** является производным от [**CIM \_ системресаурце**](cim-systemresource.md). Инструментарий WMI не реализует этот класс. См. раздел [Классы Win32](win32-provider.md) для классов, производных от **\_ IRQ CIM**.
 

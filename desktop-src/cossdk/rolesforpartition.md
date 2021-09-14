@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: 6c1e64e314478793a5b421d1f0a6a76c2eb028708410a14ea426f52fbd41dfe4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c97d524e3fc516086db3a815396d6d59f9369b31
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119637044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971206"
 ---
 # <a name="rolesforpartition-collection"></a>Коллекция Ролесфорпартитион
 
@@ -56,10 +56,10 @@ ms.locfileid: "119637044"
 | Ввод | Значение |
 |----------------|----------------------------|
 | Описание    | Описание роли. |
-| Доступ         | ReadOnly                   |
+| Access         | ReadOnly                   |
 | Тип           | Строка                     |
 | По умолчанию        | ""                         |
-| Минимальная система | Windows Server 2003        |
+| Минимальная система | Windows Server 2003        |
 
 
 
@@ -72,10 +72,10 @@ ms.locfileid: "119637044"
 | Ввод | Значение |
 |----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Описание    | Имя роли. Лишние пробелы в начале и конце строки удаляются. Это свойство возвращается при вызове метода свойства [**Key**](/windows/desktop/api/ComAdmin/nf-comadmin-icatalogobject-get_key) или [**Name**](/windows/desktop/api/ComAdmin/nf-comadmin-icatalogobject-get_name) для объекта этой коллекции. |
-| Доступ         | ReadOnly                                                                                                                                                                                                                                                    |
+| Access         | ReadOnly                                                                                                                                                                                                                                                    |
 | Тип           | Строка                                                                                                                                                                                                                                                      |
 | По умолчанию        | ""                                                                                                                                                                                                                                                          |
-| Минимальная система | Windows Server 2003                                                                                                                                                                                                                                         |
+| Минимальная система | Windows Server 2003                                                                                                                                                                                                                                         |
 
 
 

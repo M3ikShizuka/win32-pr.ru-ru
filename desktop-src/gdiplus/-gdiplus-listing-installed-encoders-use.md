@@ -4,12 +4,12 @@ ms.assetid: a261cf61-b853-4208-984b-0d5040eb1667
 title: Список установленных кодировщиков
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 072b18d226d2ad09bc79cb1d1599ea5c0c62fa695a7aae2ff5969e27031e37b4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f310e9d366cdacde019373724f2b9feb3b94aef8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118066885"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055691"
 ---
 # <a name="listing-installed-encoders"></a>Список установленных кодировщиков
 

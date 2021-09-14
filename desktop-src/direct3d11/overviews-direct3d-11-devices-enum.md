@@ -5,11 +5,11 @@ ms.assetid: f8ef981c-363e-4ac8-8734-69c68f346950
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: af16aba0131d93a5f72732931a68f132126b5d48
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104997107"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056013"
 ---
 # <a name="how-to-enumerate-adapters"></a>Руководство. Перечисление адаптеров
 
@@ -50,7 +50,7 @@ ms.locfileid: "104997107"
 > [!Note]  
 > Для Direct3D 11,0 и более поздних версий рекомендуется, чтобы приложения всегда использовали [**IDXGIFactory1**](/windows/desktop/api/dxgi/nn-dxgi-idxgifactory1) и [**CreateDXGIFactory1**](/windows/desktop/api/dxgi/nf-dxgi-createdxgifactory1) .
 
- 
+ 
 
 
 ```C++
@@ -88,13 +88,13 @@ std::vector <IDXGIAdapter*> EnumerateAdapters(void)
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
 [Использование Direct3D 11](how-to-use-direct3d-11.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

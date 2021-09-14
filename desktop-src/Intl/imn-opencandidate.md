@@ -4,12 +4,12 @@ ms.assetid: 439ff125-2731-4eb1-8287-4ca8ace7d8ec
 title: Событие IMN_OPENCANDIDATE (IMM. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4dbf6db7415a62b6d77925a4fb7106b70f0b42d77f922e0c1b6df76e71d10c43
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 27f8f412c60cc6b62904e562d450479af642de0c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119147637"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055365"
 ---
 # <a name="imn_opencandidate-event"></a>\_Событие ИМН опенкандидате
 
@@ -44,7 +44,7 @@ IMN_OPENCANDIDATE
 
 Эта команда не имеет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Приложение должно обработать эту команду, если на ней отображаются сами кандидаты. Приложение может получить список кандидатов для вывода с помощью функции [**иммжеткандидателист**](/windows/desktop/api/Imm/nf-imm-immgetcandidatelista) .
 

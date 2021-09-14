@@ -4,12 +4,12 @@ ms.assetid: 440b0636-8afc-4fb3-a179-140958948b94
 title: Защита веб-служб XML
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bccc49a096def7fdca3f508ca590cd23df0fbf2e92fd816ba55300931122361e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 94953ce0769c44ddaeda27cacdac99ab4ff252d5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118546967"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971203"
 ---
 # <a name="securing-xml-web-services"></a>Защита веб-служб XML
 

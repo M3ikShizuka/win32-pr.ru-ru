@@ -15,11 +15,11 @@ api_location:
 - d3dx9.lib
 - d3dx9.dll
 ms.openlocfilehash: 2e5a9fdd92a2d978c746543fbbbeec6503d07404
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108115512"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969705"
 ---
 # <a name="d3dxvec4transform-function-d3dx9mathh"></a>Функция D3DXVec4Transform (D3dx9math. h)
 
@@ -75,7 +75,7 @@ D3DXVECTOR4* D3DXVec4Transform(
 
 Указатель на структуру [**D3DXVECTOR4**](d3dxvector4.md) , которая является преобразованным вектором 4d.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре *тоска* . Таким образом, функция **D3DXVec4Transform** может использоваться в качестве параметра для другой функции.
 
@@ -85,12 +85,12 @@ D3DXVECTOR4* D3DXVec4Transform(
 
 | Требование | Значение |
 |--------------------|----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3dx9math. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3dx9math. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>   |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

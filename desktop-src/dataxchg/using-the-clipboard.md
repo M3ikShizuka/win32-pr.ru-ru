@@ -12,12 +12,12 @@ keywords:
 - буфер обмена, окна средства просмотра
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 41b2b0a12af9bac8c1bbe7c895a1951c9c02513bc8222ace107e39b23bf3d6ce
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9d7c7e7d6db6f25bc1016eefbcc5afc9f5e0db44
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118811560"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056125"
 ---
 # <a name="using-the-clipboard"></a>Использование буфера обмена
 

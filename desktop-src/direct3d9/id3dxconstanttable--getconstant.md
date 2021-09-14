@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 2d4c2e268e456f1e4462b033a046ce71f10a8e854e377e4d4104ee5abde3accc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 664a1b1a214b49eb731a3a0766a255e5f5acadd9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119748884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969661"
 ---
 # <a name="id3dxconstanttablegetconstant-method"></a>Метод ID3DXConstantTable:: with Constant
 
@@ -65,7 +65,7 @@ D3DXHANDLE GetConstant(
 
 Возвращает уникальный идентификатор для константы.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы получить константу из массива констант, используйте [**ID3DXConstantTable:: жетконстантелемент**](id3dxconstanttable--getconstantelement.md).
 

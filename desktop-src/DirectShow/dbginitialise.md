@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 13aad8d0214c65c01237c8e74548c3915af9287c935b53e33c6d229b2da5b12e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 33a62c8dad7ef6e15b9b11461303b1bced977a96
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118654219"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055537"
 ---
 # <a name="dbginitialise-function"></a>Функция Дбгинитиалисе
 
@@ -53,7 +53,7 @@ void DbgInitialise(
 
 Эта функция не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 в исполняемом файле вызовите этот метод перед использованием средств отладки DirectShow. Перед завершением работы исполняемого файла вызовите функцию [**дбгтерминате**](dbgterminate.md) для очистки отладочной библиотеки.
 

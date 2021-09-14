@@ -15,12 +15,12 @@ api_type:
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 11a3ea2393482f09b233cd7bb8a404cc55ed39588a44ba334fd85e11d3bfb16c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 17f3b49328ad85bc68147ad58b043459c223e6a0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117734026"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969854"
 ---
 # <a name="cd3dx12_pipeline_state_stream_ps-structure"></a>\_ \_ \_ Структура PS потока состояния конвейера CD3DX12 \_
 
@@ -40,7 +40,7 @@ struct CD3DX12_PIPELINE_STATE_STREAM_PS {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -72,7 +72,7 @@ struct CD3DX12_PIPELINE_STATE_STREAM_PS {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 \_Поток состояния конвейера CD3DX12 \_ \_ \_ PS является специализацией typedef шаблона [**\_ \_ \_ \_ подобъекта потока состояния конвейера CD3DX12**](cd3dx12-pipeline-state-stream-subobject.md) и определяется следующим образом:
 

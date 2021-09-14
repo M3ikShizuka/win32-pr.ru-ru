@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 65ea4deddd000d1064adf8b8caf5a636eed87105856d506191d677e70978d096
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6f1a82ec549b5ceb888acc194a7abc2cd3eace47
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118953993"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055545"
 ---
 # <a name="cpullpinseek-method"></a>Кпуллпин. Seek, метод
 
@@ -61,7 +61,7 @@ HRESULT Seek(
 
 Возвращает значение \_ ОК, если метод завершается успешно, или код ошибки в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если рабочий поток запущен, метод приостанавливает поток, очищает граф фильтра и возобновляет поток. Поток начинает извлечение данных из новой начальной должности. В противном случае новые значения позиций вступают в силу при каждом запуске потока.
 
@@ -80,7 +80,7 @@ HRESULT Seek(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

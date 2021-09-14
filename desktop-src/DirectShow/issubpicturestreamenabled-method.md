@@ -4,12 +4,12 @@ ms.assetid: c6436f77-ca94-464f-9336-f485f5d5d199
 title: Метод Иссубпиктурестреаменаблед
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bc982120b6a7a57d59d5213fc57b5ba3851d7d9d2f4c3e553fba97d3307d8bec
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 818b4ff18dac87ea3346a1a503764b2e5e9cd02a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117817051"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055481"
 ---
 # <a name="issubpicturestreamenabled-method"></a>Метод Иссубпиктурестреаменаблед
 
@@ -50,7 +50,7 @@ ms.locfileid: "117817051"
 
 Возвращает логическое значение, указывающее, доступен ли указанный звуковой поток в текущем заголовке. Значение true означает, что он доступен.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Хотя диск может содержать до 32 потоков подизображений, каждый поток необязательно доступен для каждого заголовка. Перед установкой свойства [**куррентсубпиктурестреам**](currentsubpicturestream-property.md) всегда проверяйте, что поток доступен для заголовка.
 

@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Perfstruct.h
 ms.openlocfilehash: e17d013d90b133f9c6819b8d9ddf4b5970582cae
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122477009"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055437"
 ---
 # <a name="perfinfo_dshow_streamtrace-structure"></a>\_ \_ Структура стреамтраце перфинфо DSHOW
 
@@ -38,7 +38,7 @@ typedef struct _PERFINFO_DSHOW_STREAMTRACE {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -108,7 +108,7 @@ typedef struct _PERFINFO_DSHOW_STREAMTRACE {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

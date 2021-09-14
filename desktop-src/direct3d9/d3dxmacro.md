@@ -14,11 +14,11 @@ api_type:
 api_location:
 - d3dx9shader.h
 ms.openlocfilehash: 7fd6c52b94c3fb6f36c9b3a8e2b4b513fb8903f0
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "105703916"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969729"
 ---
 # <a name="d3dxmacro-structure"></a>Структура D3DXMACRO
 
@@ -36,11 +36,11 @@ typedef struct D3DXMACRO {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
-**Name**
+**имя**;
 </dt> <dd>
 
 Тип: **[ **LPCSTR**](../winprog/windows-data-types.md)**
@@ -85,7 +85,7 @@ macro.Definition =
 
 | Требование | Значение |
 |-------------------|------------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3dx9shader. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3dx9shader. h</dt> </dl> |
 
 
 

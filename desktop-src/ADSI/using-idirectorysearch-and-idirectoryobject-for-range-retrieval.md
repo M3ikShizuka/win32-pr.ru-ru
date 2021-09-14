@@ -9,12 +9,12 @@ keywords:
 - Получение диапазона ADSI с помощью IDirectorySearch и Идиректорйобжект
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 506d061dd49c98bdb3b8cc731a28d0dc0ee5fe9a0df5816abf259ece17e456ff
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 591d2cf7b65b7a8159a92de324f18fbe93164f0e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119023062"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970386"
 ---
 # <a name="using-idirectorysearch-and-idirectoryobject-for-range-retrieval"></a>Использование IDirectorySearch и Идиректорйобжект для получения диапазона
 

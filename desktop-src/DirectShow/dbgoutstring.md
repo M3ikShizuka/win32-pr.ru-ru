@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: b6d8b74b5f0643f619a58beeea2dcd5526889d1a65de4815b06d2d6047777d90
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bdc12d4b73080f00a3d32c80074a801146ea4a74
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117821564"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055526"
 ---
 # <a name="dbgoutstring-function"></a>Функция Дбгаутстринг
 
@@ -53,7 +53,7 @@ void DbgOutString(
 
 Эта функция не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В отладочных сборках эта функция всегда выводит строку, независимо от текущих уровней выходных данных отладки. Для более точного управления выходными данными используйте макрос [**дбглог**](dbglog.md) .
 

@@ -4,12 +4,12 @@ ms.assetid: 1aa92665-ab3b-4f04-9e6b-905942c197ef
 title: заблокировать атрибут
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8fdd1718c25aab136219af436543df064bd8f68bb53ea15b00e09e6a18188c5d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8c7716f047e0df47ffb5e84cb2de0e9fe345836b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119502324"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055442"
 ---
 # <a name="lock-attribute"></a>заблокировать атрибут
 
@@ -28,7 +28,7 @@ ms.locfileid: "119502324"
 
 [**клип**](clip-element.md), [**составной**](composite-element.md), [**эффекты**](effect-element.md), [**Группа**](group-element.md), [**временная шкала**](timeline-element.md), [**Переход**](transition-element.md)
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

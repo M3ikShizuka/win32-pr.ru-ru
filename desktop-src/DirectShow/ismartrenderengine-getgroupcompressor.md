@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 65915039d26b3c8739441240419e61e0cbacf5a6f4212cbb1c8b456f55dfcbd3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fd866daa225ab398e1a578aa8d21e73bad15e96d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117817442"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055488"
 ---
 # <a name="ismartrenderenginegetgroupcompressor-method"></a>Метод Исмартрендеренгине:: Жетграупкомпрессор
 
@@ -64,7 +64,7 @@ HRESULT GetGroupCompressor(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод используется для задания свойств фильтра сжатия, например частоты ключевых кадров. Вызовите этот метод после вызова [**ирендеренгине:: коннектфронтенд**](irenderengine-connectfrontend.md), но перед отрисовкой проекта. Затем запросите выходной ПИН-код фильтра сжатия для интерфейса [**иамвидеокомпрессион**](/windows/desktop/api/Strmif/nn-strmif-iamvideocompression) , который содержит методы для настройки параметров сжатия. Выпустите интерфейс по завершении. При внесении последующих изменений на временную шкалу вызовите **коннектфронтенд**, а затем снова вызовите **жетграупкомпрессор** , чтобы сбросить параметры сжатия.
 
@@ -80,7 +80,7 @@ HRESULT GetGroupCompressor(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -91,7 +91,7 @@ HRESULT GetGroupCompressor(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

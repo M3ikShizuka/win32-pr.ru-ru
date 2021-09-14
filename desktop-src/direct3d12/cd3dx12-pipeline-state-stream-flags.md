@@ -15,12 +15,12 @@ api_type:
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2d8789fb8c393ecaf83e0295654092b22aba7f497abf909c46bac422d442c6fb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 034f4a63c774ca41f28fbe9e6c2945fddee47c4f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118530713"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969886"
 ---
 # <a name="cd3dx12_pipeline_state_stream_flags-structure"></a>\_ \_ \_ \_ Структура флагов потока состояния конвейера CD3DX12
 
@@ -40,7 +40,7 @@ struct CD3DX12_PIPELINE_STATE_STREAM_FLAGS {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -72,7 +72,7 @@ struct CD3DX12_PIPELINE_STATE_STREAM_FLAGS {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 \_ \_ Флаги потока состояния конвейера CD3DX12 \_ \_ являются специализацией typedef [**шаблона \_ \_ \_ \_ подобъекта потока состояния конвейера CD3DX12**](cd3dx12-pipeline-state-stream-subobject.md) и определяются следующим образом:
 

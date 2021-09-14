@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: cac5829797de78d669273551e096b2fc07b3ae7de20d7d9725cbde6d1025eb85
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 415e71d87d8e8d9c7834df0a16fce754651d6a03
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118952403"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055465"
 ---
 # <a name="ixml2dexpastexmlfile-method"></a>IXml2Dex: метод:P Астексмлфиле
 
@@ -70,7 +70,7 @@ HRESULT PasteXMLFile(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.
@@ -82,7 +82,7 @@ HRESULT PasteXMLFile(
 
  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: d1a4ee7d-b05d-4050-b0a5-25c28157646f
 title: Main. cpp
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: eae95293e5f9f3f6511834ff030898c770c673d60ea761353f4637cb583e5c15
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: db91ab89ff7c79811fc649072c91d626701239a3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119073108"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055438"
 ---
 # <a name="maincpp"></a>Main. cpp
 
@@ -240,7 +240,7 @@ void NotifyError(HWND hwnd, PCWSTR pszMessage)
 
 
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

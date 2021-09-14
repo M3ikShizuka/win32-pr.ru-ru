@@ -37,12 +37,12 @@ keywords:
 - ддемл (библиотека управления Exchangeми платформа динамических данных), асинхронные транзакции
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5065c9e909a4589cd7d2d157fc1151c2efd42a4ddfc3c29d84fd26f0ea184dea
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 570aa48b4dcdbb31855b3e1b15a091908feb2ba4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119128582"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056128"
 ---
 # <a name="transaction-management-data-exchange"></a>Управление транзакциями (Exchange данных)
 
@@ -163,7 +163,7 @@ ms.locfileid: "119128582"
 | \_bool кскласс         | **True** или **false**                                            | [**КСТИП \_ адвстарт**](xtyp-advstart.md)<br/> [**КСТИП \_ подключение**](xtyp-connect.md)<br/>                                                                                                                                                                                                                                                                                            |
 | \_данные кскласс         | Маркер данных, \_ код возврата блока CBR или **значение NULL** .           | [**КСТИП \_ Адврек**](xtyp-advreq.md)<br/> [**\_запрос кстип**](xtyp-request.md)<br/> [**КСТИП \_ вилдконнект**](xtyp-wildconnect.md)<br/>                                                                                                                                                                                                                                       |
 | \_Флаги кскласс        | Флаг транзакции: DDE \_ факк, DDE \_ ФБУСИ или DDE \_ фнотпроцессед | [**КСТИП \_ адвдата**](xtyp-advdata.md)<br/> [**\_выполнение кстип**](xtyp-execute.md)<br/> [**КСТИП \_**](xtyp-poke.md)<br/>                                                                                                                                                                                                                                                   |
-| \_уведомление кскласс | Нет                                                             | [**КСТИП \_ адвстоп**](xtyp-advstop.md)<br/> [**\_подтверждение подключения \_ кстип**](xtyp-connect-confirm.md)<br/> [**КСТИП \_ Отключение**](xtyp-disconnect.md)<br/> [**КСТИП, \_ Ошибка**](xtyp-error.md)<br/> [**КСТИП \_ регистр**](xtyp-register.md)<br/> [**\_Отмена регистрации кстип**](xtyp-unregister.md)<br/> [**\_ \_ Завершено транзакций кстип**](xtyp-xact-complete.md)<br/> |
+| \_уведомление кскласс | None                                                             | [**КСТИП \_ адвстоп**](xtyp-advstop.md)<br/> [**\_подтверждение подключения \_ кстип**](xtyp-connect-confirm.md)<br/> [**КСТИП \_ Отключение**](xtyp-disconnect.md)<br/> [**КСТИП, \_ Ошибка**](xtyp-error.md)<br/> [**КСТИП \_ регистр**](xtyp-register.md)<br/> [**\_Отмена регистрации кстип**](xtyp-unregister.md)<br/> [**\_ \_ Завершено транзакций кстип**](xtyp-xact-complete.md)<br/> |
 
 
 

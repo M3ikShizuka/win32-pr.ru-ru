@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3d9types.h
-ms.openlocfilehash: 8defdc206e88750125d88c50e86484428c0dedbd7c18575e26504d7445cd3f64
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 28f4d38dca78f0f34daf931a6bf651b40c1b0a78
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118804945"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971001"
 ---
 # <a name="d3ddisplayrotation-enumeration"></a>Перечисление D3DDISPLAYROTATION
 
@@ -70,7 +70,7 @@ typedef enum D3DDISPLAYROTATION {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это перечисление используется в [**IDirect3D9Ex:: жетадаптердисплаймодикс**](/windows/desktop/api/d3d9/nf-d3d9-idirect3d9ex-getadapterdisplaymodeex), [**IDirect3DDevice9Ex:: жетдисплаймодикс**](/windows/desktop/api/d3d9/nf-d3d9-idirect3ddevice9ex-getdisplaymodeex)и [**IDirect3DSwapChain9Ex:: жетдисплаймодикс**](/windows/desktop/api/D3D9/nf-d3d9-idirect3dswapchain9ex-getdisplaymodeex).
 

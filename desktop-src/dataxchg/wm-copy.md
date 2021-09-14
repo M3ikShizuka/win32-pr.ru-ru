@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2d7774b1e2d52cbe21b8636bcaa1c695f9f49b319280ebc89c74fd652533066b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b298248d75b1d25d1bfef8347347fe2f1a6c7916
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120096754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056114"
 ---
 # <a name="wm_copy-message"></a>\_Сообщение о копировании WM
 
@@ -54,11 +54,11 @@ ms.locfileid: "120096754"
 
 Возвращает ненулевое значение при успешном выполнении, в противном случае — ноль.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При отправке в поле со списком сообщение **о \_ копировании WM** обрабатывается его элементом управления "поле ввода". Это сообщение не действует при отправке в поле со списком со стилем [**\_ DROPDOWNLIST в CBS**](../controls/combo-box-styles.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ ms.locfileid: "120096754"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 
@@ -89,7 +89,7 @@ ms.locfileid: "120096754"
 [**\_Отмена изменений WM**](/windows/desktop/Controls/wm-undo)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Буфер обмена](clipboard.md)

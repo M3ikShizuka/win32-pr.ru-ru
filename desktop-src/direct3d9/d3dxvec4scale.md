@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 12f030330d01e004d80de92920c84f8cc8ffc47fe009582d64d34497bb684418
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a29ee7b8519c802deb0542b6b7ba3ea22692f36d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120118964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969713"
 ---
 # <a name="d3dxvec4scale-function"></a>Функция D3DXVec4Scale
 
@@ -75,7 +75,7 @@ D3DXVECTOR4* D3DXVec4Scale(
 
 Указатель на структуру [**D3DXVECTOR4**](d3dxvector4.md) , которая является масштабируемым вектором.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре *тоска* . Таким образом, функция **D3DXVec4Scale** может использоваться в качестве параметра для другой функции.
 
@@ -90,7 +90,7 @@ D3DXVECTOR4* D3DXVec4Scale(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

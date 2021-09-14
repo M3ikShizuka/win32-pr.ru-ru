@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 44c06f0d88558fcb7692218cfe5aa98a2483fd1881dcab2f1d75f2c251bffb91
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f53343e436ac78b93bcee30c7da5c9d8eb2dc415
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119123062"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969765"
 ---
 # <a name="d3dxloadsurfacefromfile-function"></a>Функция D3DXLoadSurfaceFromFile
 
@@ -125,7 +125,7 @@ HRESULT D3DXLoadSurfaceFromFile(
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, D3DXERR \_ INVALIDDATA.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Параметр компилятора также определяет версию функции. Если определен Юникод, вызов функции разрешается в D3DXLoadSurfaceFromFileW. В противном случае вызов функции разрешается в D3DXLoadSurfaceFromFileA, так как используются строки ANSI.
 

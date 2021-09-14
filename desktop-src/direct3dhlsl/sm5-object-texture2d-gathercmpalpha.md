@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: f6e350ed14482646562121d910a8bd35f30403acf8dbde7df249ee1bc6ca800a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3a7f7fcdc6e24cac5c04068fda7f781d0bdd376a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118789607"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055939"
 ---
 # <a name="texture2dgathercmpalphasfloatfloatint-function"></a>Функция Texture2D:: Гасеркмпалфа (S, float, float, int)
 
@@ -81,7 +81,7 @@ float4 GatherCmpAlpha(
 
 Значение из четырех компонентов, каждый компонент которого является результатом сравнения каждого компонента.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Примеры текстур можно использовать для интерполяции билинейной.
 
@@ -89,7 +89,7 @@ float4 GatherCmpAlpha(
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Службы вычислений |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | x      | x    | x      | x        | x     | x       |
 
@@ -97,7 +97,7 @@ float4 GatherCmpAlpha(
 
  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

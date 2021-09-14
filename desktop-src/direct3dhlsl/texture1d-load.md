@@ -12,12 +12,12 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_name: ''
 api_location: ''
-ms.openlocfilehash: d4d8025f69f95b93be5303378e79efe957dff783264863064aaac81d25d5b3fa
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a179cf13680b035f6ce48a5410851b231936f9f9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119892484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055928"
 ---
 # <a name="texture1dload-methods"></a>Методы Texture1D:: Load
 
@@ -34,7 +34,7 @@ ms.locfileid: "119892484"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

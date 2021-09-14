@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3DX10Tex.h
-ms.openlocfilehash: 597f929a2a5f2800b1761fdba377f2ed022460e7585e1a9d0131d3e6e21127e2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fba878a40f510cc5e76256161255e01deaa7ee04
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118303499"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056051"
 ---
 # <a name="d3dx10_image_file_format-enumeration"></a>\_ \_ Перечисление форматов файлов изображений D3DX10 \_
 
@@ -104,7 +104,7 @@ Windows Формат фотографии мультимедиа (WMP). Этот
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 дополнительные сведения о некоторых из этих форматов см. в разделе [типы точечных рисунков (GDI+)](../gdiplus/-gdiplus-types-of-bitmaps-about.md) .
 
@@ -120,7 +120,7 @@ D3DX10 использует компонент создания образов W
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

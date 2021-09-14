@@ -4,12 +4,12 @@ ms.assetid: 528763a2-c0f2-4981-91dc-dd17987f5bd5
 title: Очистка данных
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c8a435bf40ae9f71b35707935812c3a935a95df1904db00a652634b171f20a10
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 750ddd052c18928d53511d9e955122d2d66ee59d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119965464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055519"
 ---
 # <a name="flushing-data"></a>Очистка данных
 
@@ -72,7 +72,7 @@ HRESULT CMyInputPin::EndFlush()
 
 Метод [**кбасеинпутпин:: ендфлуш**](cbaseinputpin-endflush.md) сбрасывает флаг **m \_ бфлушинг** в **значение false**, что позволяет методу **Receive** снова начать получать образцы. Это должен быть последний шаг в **ендфлуш**, так как ПИН-код не должен получать выборки до тех пор, пока не будет выполнен сброс и не будут уведомлены все нисходящие фильтры.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
