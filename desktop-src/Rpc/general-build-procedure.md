@@ -4,12 +4,12 @@ description: Страница навигации для процесса соз�
 ms.assetid: 77fa9f30-c370-4ec2-8c23-6037ec520dc3
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e8402a14ceac3b34114e7b40998038a4e09fb7ba1a915c173f2062f7fab9e63d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2b223bf7482cd7cbb65f5b737c90502a6b6dd3de
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118929640"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244729"
 ---
 # <a name="general-build-procedure"></a>Общая процедура сборки
 

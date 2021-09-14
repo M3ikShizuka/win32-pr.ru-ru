@@ -4,12 +4,12 @@ description: Чтобы объявить маркер сериализации, 
 ms.assetid: 70d8665f-d793-46fc-bcbf-ecb24e746786
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4f9f6dabc8a6e4d0e5ccac7ac8b94e1812d81a674b471015c868b32209fd9746
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bcead663ae7eee8d0cdb95a73e7ae58935773cef
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120020464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244630"
 ---
 # <a name="implicit-vs-explicit-handles"></a>Неявные и явные дескрипторы
 

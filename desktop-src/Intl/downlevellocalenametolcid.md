@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - NlsMap.dll
-ms.openlocfilehash: 39a0a6b274ba141553d2ddda927f71754cc9639ff5fc3a0d3870a974e46526a2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c41b82c59b63a5b324e15f89c1f77118d454e428
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119898734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127274688"
 ---
 # <a name="downlevellocalenametolcid-function"></a>Функция ДовнлевеллокаленаметолЦид
 

@@ -4,12 +4,12 @@ description: Чтобы начать получать данные с серве
 ms.assetid: 5d791f4f-1d95-4bc0-b68f-db4fccc75ff8
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 234d93b2933499ca86ab49732d46cf2abe3c37247ed7bfa5e653e5aa0119b1e7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bb3eb1362736207f9cc79d82ab6c981431d0bfe7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120020494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244639"
 ---
 # <a name="implementing-output-pipes-on-the-server"></a>Реализация выходных каналов на сервере
 

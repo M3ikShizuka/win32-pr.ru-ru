@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 3cef17ab3a4781f925e92968bd50dfedddd9a0df8e1781a2f209712fc447ef10
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 17ec77c5498a808e0d7ac0f2881057979d7db0c4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118625240"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127274107"
 ---
 # <a name="sessioncomponentrequeststate-property"></a>Свойство Session. Компонентрекуестстате
 

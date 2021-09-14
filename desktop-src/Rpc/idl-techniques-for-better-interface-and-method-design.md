@@ -4,12 +4,12 @@ description: Рассмотрите возможность использова�
 ms.assetid: 651bdb5c-ad56-4526-9b7d-7165141e7ceb
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b3608e908742d4de4b6564787c6d8faffc29efcef81549ff50414cc7716c468b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b897d8d1f2f5e1c11a5328fb095341871e3689e0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118929430"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244675"
 ---
 # <a name="idl-techniques-for-better-interface-and-method-design"></a>Методы IDL для лучшего проектирования интерфейсов и методов
 

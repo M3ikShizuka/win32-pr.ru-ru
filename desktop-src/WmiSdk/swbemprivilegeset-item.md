@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 93180f168820acce2bf2564ef108c509713a22e68cfa16fbb8f2abeff17b5bc5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7ea37ae758ec599198fc35a1fd2a4b89ff25a087
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118313526"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058392"
 ---
 # <a name="swbemprivilegesetitem-method"></a>Свбемпривилежесет. Item, метод
 
@@ -47,7 +47,7 @@ objPrivilege = .Item( _
 *ипривилеже* 
 </dt> <dd>
 
-Обязательный. Одна из констант WMI из группы [**вбемпривилежеенум**](/windows/desktop/api/Wbemdisp/ne-wbemdisp-wbemprivilegeenum) . Эти константы по сути представляют собой целые числа, представляющие определенные привилегии. например, чтобы получить право на завершение работы Windowsной системы, используйте константу **вбемпривилежешутдовн** или числовой эквивалент, равный 23 (0x17).
+Обязательный элемент. Одна из констант WMI из группы [**вбемпривилежеенум**](/windows/desktop/api/Wbemdisp/ne-wbemdisp-wbemprivilegeenum) . Эти константы по сути представляют собой целые числа, представляющие определенные привилегии. например, чтобы получить право на завершение работы Windowsной системы, используйте константу **вбемпривилежешутдовн** или числовой эквивалент, равный 23 (0x17).
 
 </dd> </dl>
 
@@ -102,7 +102,7 @@ Next
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Wbemdisp. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_СВБЕМПРИВИЛЕЖЕСЕТ CLSID<br/>                                                     |

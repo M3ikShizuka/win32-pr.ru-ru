@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: 405572bd510c5e4a88f2d61bd69ae610f2590e02eb3ab7320e82b85118b9031f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a5f77070623f65925ab4053885db8e3ac7c6b9dd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120051634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065638"
 ---
 # <a name="iamtimelinevirtualtracksettrackdirty-method"></a>Метод Иамтимелиневиртуалтракк:: Сеттраккдирти
 

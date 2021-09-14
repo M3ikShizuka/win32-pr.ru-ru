@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 13487a2e92413a330767a3011ba70cf0fbc61478da8c8d9f9ba29303ee6ca6a6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a1aa8b8806640f99a1333c1f5283b2226600eb28
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120108664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058096"
 ---
 # <a name="cbaseallocatorm_pnotify-member"></a>Элемент Кбасеаллокатор:: m \_ пнотифи
 
@@ -47,7 +47,7 @@ IMemAllocatorNotifyCallbackTemp *m_pNotify;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

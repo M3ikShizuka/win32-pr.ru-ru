@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3dx9effect.h
-ms.openlocfilehash: fb67f99daa1c0ed551ce989c15e9be2d1f89f8352dfebf7a021ea16f7c69f49e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ec53cae4689ebc1795937012259b2e219630568b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118525661"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066244"
 ---
 # <a name="d3dxfunction_desc-structure"></a>\_Структура D3DXFUNCTION DESC
 
@@ -36,11 +36,11 @@ typedef struct D3DXFUNCTION_DESC {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd>
 
 Тип: **[ **LPCSTR**](../winprog/windows-data-types.md)**
@@ -51,7 +51,7 @@ typedef struct D3DXFUNCTION_DESC {
 
 </dd> <dt>
 
-**Заметки**
+**Примечания**
 </dt> <dd>
 
 Тип: **[ **uint**](../winprog/windows-data-types.md)**
@@ -62,7 +62,7 @@ typedef struct D3DXFUNCTION_DESC {
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -72,7 +72,7 @@ typedef struct D3DXFUNCTION_DESC {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

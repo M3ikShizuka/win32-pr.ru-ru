@@ -14,12 +14,12 @@ dev_langs:
 - JScript
 - VB
 - other
-ms.openlocfilehash: 0687c15e16fd150f14f9dfc17ee4ebb8b30cf5fd25f450424443742e8384215a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aaebd60ecfeeb849c537505f7af3e9a0d5d49da3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118084845"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066093"
 ---
 # <a name="apijetupdate-method"></a>API. Жетупдате, метод
 
@@ -53,7 +53,7 @@ ms.locfileid: "118084845"
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

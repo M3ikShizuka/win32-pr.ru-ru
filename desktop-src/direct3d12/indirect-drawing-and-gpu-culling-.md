@@ -5,12 +5,12 @@ ms.assetid: 09F90837-D6BF-498E-8018-5C28EDD9BDC3
 ms.localizationpriority: high
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b1eaab70be1f376856991156fe520919256e8f811c32ead4a5ce937fb4abc185
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 9b016170fbd3b675d5d5a20c1de87f24b04d4804
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119280147"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066422"
 ---
 # <a name="indirect-drawing-and-gpu-culling"></a>Косвенная прорисовка и отбрасывание с помощью GPU
 
@@ -469,7 +469,7 @@ ThrowIfFailed(m_computeCommandList->Close());
 
 </tr>
 <tr class="odd">
-<td><a href="/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-close"><strong>Закрыть</strong></a></td>
+<td><a href="/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-close"><strong>Выхода</strong></a></td>
 
 </tr>
 </tbody>
@@ -629,7 +629,7 @@ ThrowIfFailed(m_computeCommandList->Close());
 <td><a href="/windows/desktop/api/d3d12/ne-d3d12-d3d12_resource_states"><strong>D3D12_RESOURCE_STATES</strong></a></td>
 </tr>
 <tr class="even">
-<td><a href="/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-close"><strong>Закрыть</strong></a></td>
+<td><a href="/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-close"><strong>Выхода</strong></a></td>
 
 </tr>
 </tbody>
@@ -664,7 +664,7 @@ m_commandQueue->ExecuteCommandLists(_countof(ppCommandLists), ppCommandLists);
 |-----------------------------------------------------------------------|------------|
 | [**ID3D12CommandList**](/windows/desktop/api/d3d12/nn-d3d12-id3d12commandlist)                        |            |
 | [**ExecuteCommandLists**](/windows/desktop/api/d3d12/nf-d3d12-id3d12commandqueue-executecommandlists) |            |
-| [**Имел**](/windows/desktop/api/d3d12/nf-d3d12-id3d12commandqueue-signal)                           |            |
+| [**Сигнал**](/windows/desktop/api/d3d12/nf-d3d12-id3d12commandqueue-signal)                           |            |
 | [**Ожидание**](/windows/desktop/api/d3d12/nf-d3d12-id3d12commandqueue-wait)                               |            |
 | [**ID3D12CommandList**](/windows/desktop/api/d3d12/nn-d3d12-id3d12commandlist)                        |            |
 | [**ExecuteCommandLists**](/windows/desktop/api/d3d12/nf-d3d12-id3d12commandqueue-executecommandlists) |            |

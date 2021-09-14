@@ -19,11 +19,11 @@ api_location:
 - ESENT.DLL
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 5b66c80f506942e2815c8b8795c32250c827527b
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122982347"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269696"
 ---
 # <a name="jetupdate-function"></a>Функция JetUpdate
 
@@ -103,7 +103,7 @@ _**Применимо к:** Windows | Windows Сервером_
 
 В случае сбоя изменения какого либо типа не вносятся в базу данных. Перед вставкой и до замены функции обратного вызова могут быть вызваны, но после вызовов INSERT и After replace не будут вызываться, так как Последнее не может привести к сбою обновления. Буфер копирования курсора остается в подготовленном состоянии, чтобы можно было постепенно устранить проблемы, вызвавшие ошибки, и повторить операцию обновления.
 
-#### <a name="remarks"></a>Комментарии
+#### <a name="remarks"></a>Remarks
 
 Функции обратного вызова могут быть зарегистрированы для вызова до или после инструкции INSERT, а также до или после обновления.
 
@@ -114,13 +114,13 @@ _**Применимо к:** Windows | Windows Сервером_
 #### <a name="requirements"></a>Требования
 
 
-| Требование | Применение |
+| Требование | Значение |
 |------------|----------|
 | <p><strong>Клиент</strong></p> | <p>требуется Windows Vista, Windows XP или Windows 2000 Professional.</p> | 
 | <p><strong>Server</strong></p> | <p>требуется Windows server 2008, Windows server 2003 или сервер Windows 2000.</p> | 
 | <p><strong>Header</strong></p> | <p>Объявлено в ESENT. h.</p> | 
 | <p><strong>Библиотека</strong></p> | <p>Используйте ESENT. lib.</p> | 
-| <p><strong>КОМПОНОВКИ</strong></p> | <p>Требуется ESENT.dll.</p> | 
+| <p><strong>DLL</strong></p> | <p>Требуется ESENT.dll.</p> | 
 
 
 

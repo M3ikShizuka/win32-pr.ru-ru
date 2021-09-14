@@ -4,12 +4,12 @@ ms.assetid: 91137029-182d-4dc5-89a3-f3835f55d327
 title: Методы Графикспаситератор. Некстсубпас (Гдиплуспас. h)
 ms.date: 07/02/2019
 ms.topic: reference
-ms.openlocfilehash: e8f16fbef71a6adcc027b0ed9a666a8a4850e67bbc28e3ee42d31efff08b880a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 34e57228a130fcec580cf3966f1af078d15b8d7b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119964414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269512"
 ---
 # <a name="graphicspathiteratornextsubpath-methods"></a>Графикспаситератор. Некстсубпас, методы
 

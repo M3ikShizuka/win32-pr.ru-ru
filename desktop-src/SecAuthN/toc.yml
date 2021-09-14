@@ -242,8 +242,12 @@
                     - name: Комплекты шифров в TLS/SSL (Schannel SSP)
                       href: cipher-suites-in-schannel.md
                       items:
+                        - name: комплекты шифров TLS в Windows 11
+                          href: tls-cipher-suites-in-windows-11.md
+                        - name: комплекты шифров TLS в Windows 10 v20H2 и v21H1
+                          href: tls-cipher-suites-in-windows-10-v20H2.md
                         - name: комплекты шифров TLS в Windows Server 2022
-                          href: ./tls-cipher-suites-in-windows-server-2022.md
+                          href: tls-cipher-suites-in-windows-server-2022.md
                         - name: комплекты шифров TLS в Windows 10 v1903
                           href: tls-cipher-suites-in-windows-10-v1903.md
                         - name: комплекты шифров TLS в Windows 10 v1809

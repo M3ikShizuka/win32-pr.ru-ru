@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: b74027e2ee2339e647938592e05162ce85108eb6985061b30a825394c2f2e7be
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c0705584a513d64dfd1cd17075d95617234f7f8b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118953793"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058003"
 ---
 # <a name="csourcepstatelock-method"></a>Ксаурце. Пстателокк, метод
 
@@ -49,7 +49,7 @@ CCritSec* pStateLock();
 
 Возвращает указатель на переменную-член [**ксаурце:: m \_ кстателокк**](csource-m-cstatelock.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -60,7 +60,7 @@ CCritSec* pStateLock();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

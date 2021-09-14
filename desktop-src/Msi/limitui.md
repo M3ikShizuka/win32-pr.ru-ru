@@ -4,12 +4,12 @@ ms.assetid: 1a75e66b-958a-4fa8-b13c-ced976c9508e
 title: ЛИМИТУИ, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 969b6e1c1de5a55581fa8d24f6d538c829e18fb48afb9bdc2fd04bae69c15162
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e564e82a2daba4b6d5a91cb05acd74e1efc26c84
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119013142"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065426"
 ---
 # <a name="limitui-property"></a>ЛИМИТУИ, свойство
 

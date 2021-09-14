@@ -4,12 +4,12 @@ ms.assetid: 9be67cb2-4bf9-4758-af03-7d92dd04feaf
 title: Оптимизация печати через дескриптор принтера
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3c2284e28e0a32c828af5204d08651c576149e9d2ecfb0980f3c41936bd36cb3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a247af3de037e220432c424c408b4055690ff861
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119612084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065879"
 ---
 # <a name="optimizing-printing-by-providing-a-printer-handle"></a>Оптимизация печати через дескриптор принтера
 

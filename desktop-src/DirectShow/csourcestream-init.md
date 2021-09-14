@@ -1,7 +1,7 @@
 ---
 description: Метод init инициализирует поток потоковой передачи.
 ms.assetid: c746e595-de97-478c-8b22-5c4dd5594a8f
-title: Метод CSourceStream.Init (Source. h)
+title: Метод Ксаурцестреам. init (Source. h)
 ms.topic: reference
 ms.date: 05/31/2018
 topic_type:
@@ -16,14 +16,14 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: e656ba46b25045406fb794653078b72e2c47155635cf24ae4a99b35238aa51df
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6a3abf2b4637385616862c0613f72afd676f5b79
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119871321"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065695"
 ---
-# <a name="csourcestreaminit-method"></a>Метод CSourceStream.Init
+# <a name="csourcestreaminit-method"></a>Ксаурцестреам. init, метод
 
 `Init`Метод инициализирует поток потоковой передачи.
 

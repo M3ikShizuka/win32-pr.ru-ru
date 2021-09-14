@@ -4,12 +4,12 @@ description: Как правило, обработчик контекста со
 ms.assetid: e4caf91f-f92d-4aef-a20f-0a3073230640
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 77e65e36384bda3d81526d5891eca92a77a67402e7cd3aa7af8b61e061a9d3b2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8474d533b27ba1543a9d522dfa4478d306b33cf2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120020474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244594"
 ---
 # <a name="interface-development-using-context-handles"></a>Разработка интерфейса с использованием дескрипторов контекста
 

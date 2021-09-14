@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 15e84a063b8f094dbeee02f3000bdd1c69356f5fa664f6e6f6aff87d19d07dd3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fb30be6ea5250a90ef8aa18065e9be679946e503
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118946142"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065555"
 ---
 # <a name="installerrelatedproducts-property"></a>Свойство Installer. Релатедпродуктс
 
@@ -43,7 +43,7 @@ propVal = Installer.RelatedProducts
 
 Чтобы перечислить связанные продукты, приложение выполняет итерацию по [**стринглист**](stringlist-object.md) , используя для каждой конструкции. Так как связанные продукты не упорядочены, любой новый связанный продукт имеет произвольный индекс. Это означает, что функция может возвращать связанные продукты в любом порядке.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ propVal = Installer.RelatedProducts
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

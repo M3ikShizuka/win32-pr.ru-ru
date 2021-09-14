@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 8dd70303527f70bcd1162a3b4138760d44bb07d2d35aba279dce5bedab3f24de
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 73be55bf6893f0191c6afa722caf389f3ae005d7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118294422"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058308"
 ---
 # <a name="id3dxmeshunlockattributebuffer-method"></a>Метод ID3DXMesh:: Унлоккаттрибутебуффер
 

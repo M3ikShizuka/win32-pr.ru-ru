@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 10ef0d29ab46ada118dc97c2d767b8377556086b949b6b9969cf5671b51e5359
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6dc7d08643cc0ca76d3d05f0b9090f30200eb181
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119915274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057981"
 ---
 # <a name="csourcestreamthreadproc-method"></a>Ксаурцестреам. Среадпрок, метод
 
@@ -48,7 +48,7 @@ virtual DWORD ThreadProc();
 
 Этот метод в течение неограниченного времени ожидает запросов потока, вызывая метод [**камсреад:: WebRequest**](camthread-getrequest.md) . Если он получает запрос [**ксаурцестреам:: Run**](csourcestream-run.md) или [**ксаурцестреам::P Аусе**](csourcestream-pause.md) , он вызывает метод [**ксаурцестреам::D обуфферпроцессинглуп**](csourcestream-dobufferprocessingloop.md) . Метод **добуфферпроцессинглуп** передает данные, пока не получит запрос [**Ксаурцестреам:: останавливаться**](csourcestream-stop.md) . Процедура потока завершает работу при получении запроса [**ксаурцестреам:: Exit**](csourcestream-exit.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ virtual DWORD ThreadProc();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

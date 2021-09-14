@@ -4,12 +4,12 @@ description: иажент
 ms.assetid: 35b12006-a938-450c-969a-7b73a3768a4d
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3931c277fbe4a5943ef5881da12cf3669b2e8894c95052f61bc8411e21c7ae3c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 12900a4288b9917d695dd25d4b81362b67c93587
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118751429"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269491"
 ---
 # <a name="iagent"></a>иажент
 
@@ -27,7 +27,7 @@ ms.locfileid: "118751429"
 |----------------------------------------------|---------------------------------------------------------------|
 | [**Загрузить**](load-method.md)                  | Загружает файл данных символа.                                |
 | [**Надстройк**](unload-method.md)              | Выгружает файл данных символа.                              |
-| [**Зарегистрировать**](iagent--register.md)         | Регистрирует приемник уведомлений для клиента.                 |
+| [**Регистрация**](iagent--register.md)         | Регистрирует приемник уведомлений для клиента.                 |
 | [**унегистер**](iagent--unregister.md)      | Отменяет регистрацию приемника уведомлений клиента.                     |
 | [**Символ**](iagent--getcharacter.md) | Возвращает интерфейс Иажентчарактер для загруженного символа. |
 

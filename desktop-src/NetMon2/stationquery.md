@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Netmon.h
-ms.openlocfilehash: a2e46f4c0d213091a3915b5310d7768a193d33e5ac3391fd3bc3c6781e32cb57
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: de76c4da7bc27d76c04aeeaa7a46d69134e411ca
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118363060"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127245155"
 ---
 # <a name="stationquery-structure"></a>Структура СТАТИОНКУЕРИ
 
@@ -44,7 +44,7 @@ typedef struct _STATIONQUERY {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 

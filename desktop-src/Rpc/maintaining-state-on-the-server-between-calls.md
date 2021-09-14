@@ -6,12 +6,12 @@ keywords:
 - Удаленный вызов процедур RPC, рекомендации, поддержание состояния между вызовами
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e564acbb4748cd76988c1b064a58ede2169d3d20da4033774f3141883a7193bc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 00090fb317cba8c33e7b60ac81762d7d21dd4dc9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118928589"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244513"
 ---
 # <a name="maintaining-state-on-the-server-between-calls"></a>Поддержание состояния на сервере между вызовами
 

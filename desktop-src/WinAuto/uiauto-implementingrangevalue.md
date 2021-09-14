@@ -15,12 +15,12 @@ keywords:
 - интерфейсы, IRangeValueProvider
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ae87ca25fd1ada2f57ce77412fb589875792541fd2b5d31d6eb0aa86192dee36
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bf426069ad88ad272fd78c521a220ba7ccf72275
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118114865"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058445"
 ---
 # <a name="rangevalue-control-pattern"></a>Шаблон элемента управления RangeValue
 
@@ -49,13 +49,13 @@ ms.locfileid: "118114865"
 
 | Обязательные члены                                              | Тип члена | Примечания |
 |---------------------------------------------------------------|-------------|-------|
-| [**IsReadOnly**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_isreadonly)   | Свойство    | Нет  |
-| [**Значение**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_value)             | Свойство    | Нет  |
-| [**LargeChange**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_largechange) | Свойство    | Нет  |
-| [**SmallChange**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_smallchange) | Свойство    | Нет  |
-| [**Максимум**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_maximum)         | Свойство    | Нет  |
-| [**Минимум**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_minimum)         | Свойство    | Нет  |
-| [**SetValue**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-setvalue)       | Метод      | Нет  |
+| [**IsReadOnly**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_isreadonly)   | Свойство.    | None  |
+| [**Значение**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_value)             | Свойство.    | Нет  |
+| [**LargeChange**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_largechange) | Свойство.    | Нет  |
+| [**SmallChange**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_smallchange) | Свойство.    | Нет  |
+| [**Максимум**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_maximum)         | Свойство.    | Нет  |
+| [**Минимальные**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-get_minimum)         | Свойство.    | None  |
+| [**SetValue**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irangevalueprovider-setvalue)       | Метод      | None  |
 
 
 

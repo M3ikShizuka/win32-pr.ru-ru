@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - spellcheckprovider.h
-ms.openlocfilehash: ee1b07eb2f459aca3955b0a1c5ad2e2e2139cc196f618430b3039b1eba1e3971
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d999a90166e0d54d537abc84c30f6c4e0ee3768c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120086604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127274595"
 ---
 # <a name="icomprehensivespellcheckprovidercomprehensivecheck-method"></a>Метод Икомпрехенсивеспеллчеккпровидер:: Компрехенсивечекк
 
@@ -74,7 +74,7 @@ HRESULT ComprehensiveCheck(
 
 Этот интерфейс не обязательно должен быть реализован поставщиком проверки орфографии. Но если поставщик поддерживает два режима проверки орфографии (более быстрый и медленный, но более тщательный), он должен реализовать этот интерфейс в том же объекте, который реализует [**испеллчеккпровидер**](/windows/desktop/api/Spellcheckprovider/nn-spellcheckprovider-ispellcheckprovider) для поддержки более тщательного режима проверки. Когда клиент вызывает [**испеллчеккер:: компрехенсивечекк**](/windows/desktop/api/Spellcheck/nf-spellcheck-ispellchecker-comprehensivecheck), функция проверки орфографии [**будет**](/windows/win32/api/unknwn/nf-unknwn-iunknown-queryinterface(q)) возвращать поставщик для [**Икомпрехенсивеспеллчеккпровидер**](/windows/desktop/api/spellcheckprovider/nn-spellcheckprovider-icomprehensivespellcheckprovider)и вызывать **икомпрехенсивеспеллчеккпровидер. ComprehensiveCheck** , если интерфейс поддерживается. Если интерфейс не поддерживается, он будет автоматически возвращаться к [**испеллчеккпровидер:: Check**](/windows/desktop/api/Spellcheckprovider/nf-spellcheckprovider-ispellcheckprovider-check).
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

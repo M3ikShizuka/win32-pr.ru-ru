@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 1a71d6a31e3df645532cc73f836c3645621bb8f94c6115c56018c5eed3839313
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 419dc0e7b4266a2fe32557c52ed4323b51a25843
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119045042"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066259"
 ---
 # <a name="d3dxfilltexturetx-function"></a>Функция D3DXFillTextureTX
 
@@ -103,7 +103,7 @@ float4 TextureGradientFill(
 
 Обратите внимание, что входные параметры могут быть в любом порядке, но должны быть представлены обе семантики ввода.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -114,7 +114,7 @@ float4 TextureGradientFill(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

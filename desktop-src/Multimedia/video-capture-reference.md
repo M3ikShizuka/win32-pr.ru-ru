@@ -9,11 +9,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: cef19834e244f6070a1d8bb3383dcac017e4d161
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124371391"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127245617"
 ---
 # <a name="video-capture-reference"></a>Справочник по видеозаписи
 
@@ -138,7 +138,7 @@ ms.locfileid: "124371391"
 -   [**\_ \_ \_ вавестреам обратного вызова Set крепления WM \_**](wm-cap-set-callback-wavestream.md)
 -   [**\_ \_ \_ вызов функции обратного вызова Set крепления WM \_**](wm-cap-set-callback-yield.md)
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

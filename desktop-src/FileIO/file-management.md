@@ -4,12 +4,12 @@ ms.assetid: 37ef2ae5-af02-441a-a4be-11dd6c8d4a0c
 title: Управление файлами (локальные файловые системы)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2934e26c868ddb8128e62269c60d15c7daa4d726908f5ff5f5b3b15f605445a4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fbd6966b87e27c42597deefe842d674f1a0ee699
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117997150"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057910"
 ---
 # <a name="file-management-local-file-systems"></a>Управление файлами (локальные файловые системы)
 

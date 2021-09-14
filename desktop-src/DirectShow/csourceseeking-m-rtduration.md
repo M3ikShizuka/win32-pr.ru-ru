@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 6aa62a3cdf906a4e9666b7786c08e49fca250ef042d187902132410cc2f0abaf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e188a29689a6dd1a54ef401f8bd2677e30989972
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120053974"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065723"
 ---
 # <a name="csourceseekingm_rtduration-member"></a>Элемент Ксаурцесикинг:: m \_ ртдуратион
 
@@ -40,7 +40,7 @@ CRefTime m_rtDuration;
 
 Чтобы получить доступ к этой переменной, удерживайте критический раздел **m \_ плокк** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -51,7 +51,7 @@ CRefTime m_rtDuration;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

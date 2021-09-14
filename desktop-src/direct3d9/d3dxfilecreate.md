@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: ccafd6e3cffb71cccbdf3025ead6ad2cc012f4d62ecf52405cf82dcda06a1531
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 36fd57d15257323e86c0068709c3c73662eb0658
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119849794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066264"
 ---
 # <a name="d3dxfilecreate-function"></a>Функция D3DXFileCreate
 
@@ -59,7 +59,7 @@ HRESULT STDAPICALLTYPE D3DXFileCreate(
 
 После использования этой функции используйте [**регистертемплатес**](id3dxfile--registertemplates.md) или [**регистеренумтемплатес**](id3dxfile--registerenumtemplates.md) для регистрации шаблонов, [**креатинумобжект**](id3dxfile--createenumobject.md) для создания объекта перечислителя или [**креатесавеобжект**](id3dxfile--createsaveobject.md) для создания объекта Save.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ HRESULT STDAPICALLTYPE D3DXFileCreate(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

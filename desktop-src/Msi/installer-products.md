@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: bd93b21b01721be8d4be0e432f83c507762b5d76c758419ed157c85f8a0ac419
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8d5b20a770154382e7e7a68cc3fe4d81c350fb1f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119388144"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065575"
 ---
 # <a name="installerproducts-property"></a>Свойство Installer. Products
 
@@ -41,7 +41,7 @@ propVal = Installer.Products
 
 Чтобы перечислить продукты, приложение выполняет итерацию по объекту [**стринглист**](stringlist-object.md) , используя для каждой конструкции. Поскольку продукты не упорядочены, у каждого нового продукта есть произвольный индекс. Это означает, что функция может возвращать продукты в любом порядке.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

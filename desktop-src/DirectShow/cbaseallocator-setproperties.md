@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: d81ee1c29f1c9e2cc9927f926144a7427b5e94f72406f94ce65f7d4a20e2ab32
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 000da3ee359ad727e3af972fc4aa6d0dbbb9133e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120057484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058095"
 ---
 # <a name="cbaseallocatorsetproperties-method"></a>Кбасеаллокатор. SetProperties, метод
 
@@ -83,7 +83,7 @@ HRESULT SetProperties(
 
 Распределитель не должен зафиксирован и не должен иметь необработанные буферы. В базовом классе выравнивание должно равняться 1. Класс [**кмемаллокатор**](cmemallocator.md) переопределяет это требование.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -94,7 +94,7 @@ HRESULT SetProperties(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

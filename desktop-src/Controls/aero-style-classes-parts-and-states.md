@@ -4,12 +4,12 @@ description: В этом разделе описываются классы, ч�
 ms.assetid: 6ec340a8-8ad1-406e-9fe1-9da9710ee27e
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 437ef4a4b032e4f1b5824d94f0ba924ca82745d0b7ea413044b87267ea1f891b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a484e11d04c7e935083ee85fadd9466b8f57dd4f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119921924"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058130"
 ---
 # <a name="aero-style-classes-parts-and-states"></a>Классы, части и состояния в стиле Aero
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 45e480dd61326440158d23a630ed5d8de2dd922037e6702391e88977b081a2a8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e501f3718e1b8172e2b7b16566f992c26346b7f3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119079398"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065795"
 ---
 # <a name="acm_play-message"></a>ACM \_ воспроизведение сообщения
 
@@ -53,7 +53,7 @@ ms.locfileid: "119079398"
 
 С помощью [**анимации можно \_**](/windows/desktop/api/Commctrl/nf-commctrl-animate_seek) направить элемент управления анимации для показа определенного кадра клипа AVI.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

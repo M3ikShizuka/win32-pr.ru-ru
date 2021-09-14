@@ -15,12 +15,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 51f4b1b22849fc5a6ae22f49c5c30411563efb9d133cf2440c301eabfde18e0f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 9c71db4063f5de6b48b2e8213f21ca1320a880fe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119898074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058378"
 ---
 # <a name="swbemproperty-object"></a>Объект SWbemProperty
 
@@ -38,12 +38,12 @@ ms.locfileid: "119898074"
 
 
 
-| Свойство                                                     | Тип доступа           | Описание                                                                                                                   |
+| Свойство.                                                     | Тип доступа           | Описание                                                                                                                   |
 |:-------------------------------------------------------------|:----------------------|:------------------------------------------------------------------------------------------------------------------------------|
 | [**Цимтипе**](swbemproperty-cimtype.md)<br/>          | Только для чтения<br/>  | Тип этого свойства.<br/>                                                                                             |
 | [**IsArray**](swbemproperty-isarray.md)<br/>          | Только для чтения<br/>  | Логическое значение, указывающее, имеет ли это свойство тип массива.<br/>                                                   |
 | [**Локальный**](swbemproperty-islocal.md)<br/>          | Только для чтения<br/>  | Логическое значение, указывающее, является ли это свойство локальным.<br/>                                                            |
-| [**Имя**](swbemproperty-name.md)<br/>                | Только для чтения<br/>  | Имя этого свойства WMI.<br/>                                                                                         |
+| [**Безымян**](swbemproperty-name.md)<br/>                | Только для чтения<br/>  | Имя этого свойства WMI.<br/>                                                                                         |
 | [**Исходный домен**](swbemproperty-origin.md)<br/>            | Только для чтения<br/>  | Содержит исходный класс этого свойства.<br/>                                                                   |
 | [**Квалификаторы\_**](swbemproperty-qualifiers-.md)<br/> | Только для чтения<br/>  | Объект [**свбемкуалифиерсет**](swbemqualifierset.md) , являющийся коллекцией квалификаторов для этого свойства.<br/> |
 | [**Значение**](swbemproperty-value.md)<br/>              | Чтение/запись<br/> | Фактическое значение этого свойства. Это свойство автоматизации данного объекта по умолчанию.<br/>                             |

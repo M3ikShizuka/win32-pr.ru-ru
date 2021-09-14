@@ -6,12 +6,12 @@ keywords:
 - Удаленный вызов процедур RPC, описание, модель RPC
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0dc4c21a9fbbff24f4aafe9bad67186b65f4e3411b507d07953e29f806c6ff73
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2e72048b12329133fcc8ce4ee82bce266ed29162
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120019714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244435"
 ---
 # <a name="the-rpc-model"></a>Модель RPC
 

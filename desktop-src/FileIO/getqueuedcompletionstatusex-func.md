@@ -18,12 +18,12 @@ api_location:
 - MinKernelBase.dll
 - API-MS-Win-Core-io-l1-1-1.dll
 - api-ms-win-downlevel-kernel32-l1-1-0.dll
-ms.openlocfilehash: f81bc0c997e3637fa941cb5a23f6394ba1f585566c8d633cadb00c9fd75ac805
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d45471cc066e6de7cb388036e06e727fe828a532
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119696124"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057897"
 ---
 # <a name="getqueuedcompletionstatusex-function"></a>Функция Жеткуеуедкомплетионстатусекс
 
@@ -139,7 +139,7 @@ BOOL WINAPI GetQueuedCompletionStatusEx(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -153,7 +153,7 @@ BOOL WINAPI GetQueuedCompletionStatusEx(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

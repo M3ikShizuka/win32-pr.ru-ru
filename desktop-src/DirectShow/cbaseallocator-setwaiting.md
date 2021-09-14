@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 674528b6da53b7835e437afac9a0564f91785b2f9a13f132e87a6763b80881c1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 92cba22e128a76f7884050d74a7819142c696dc9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120057464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058091"
 ---
 # <a name="cbaseallocatorsetwaiting-method"></a>Кбасеаллокатор. Сетваитинг, метод
 
@@ -48,7 +48,7 @@ void SetWaiting();
 
 Этот метод увеличивает значение переменной члена [**кбасеаллокатор:: m \_ лваитинг**](cbaseallocator-m-lwaiting.md) . Если поток заблокирован в методе [**кбасеаллокатор::-buffer**](cbaseallocator-getbuffer.md) , распределитель вызывает метод `SetWaiting` , а затем ожидает сигнала для семафора [**\_ хсем кбасеаллокатор:: m**](cbaseallocator-m-hsem.md) . Метод [**кбасеаллокатор:: релеасебуффер**](cbaseallocator-releasebuffer.md) сигнализирует о семафоре и устанавливает для *m \_ лваитинг* обратно в нуль.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ void SetWaiting();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

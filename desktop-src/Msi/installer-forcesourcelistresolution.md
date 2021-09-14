@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: cafff03a392fc1977fd19b5b8415ca499d614c2c4ba3fb4f7104edd5344f3a86
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cadc27f3eaa90cd6fb2729f73d07cbcfa1f96b73
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118630596"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065611"
 ---
 # <a name="installerforcesourcelistresolution-method"></a>Метод Installer. Форцесаурцелистресолутион
 

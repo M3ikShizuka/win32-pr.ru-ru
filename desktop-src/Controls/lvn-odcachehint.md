@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b3693291eeaef0879bdf861f392b89a1d0f2d5ec52f8a9c0d092b5495eb4565a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 827ad81b6ebb66a4fbe5c1a3b283175818b99e98
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118170181"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065765"
 ---
 # <a name="lvn_odcachehint-notification-code"></a>\_Код уведомления ЛВН одкачехинт
 
@@ -55,7 +55,7 @@ LVN_ODCACHEHINT
 
 Обратите внимание, что этот код уведомления не всегда является точным представлением элементов, которые будут запрошены [ЛВН \_ жетдиспинфо](lvn-getdispinfo.md). Таким образом, если запрошенный элемент не кэшируется при обработке ЛВН \_ жетдиспинфо, приложение должно быть подготовлено к предоставлению запрошенной информации из источника за пределами кэша.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

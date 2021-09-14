@@ -5,11 +5,11 @@ ms.assetid: e941a6be-ca91-42b1-9323-ffc63d521f6c
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 2810caa31c4932294797a5ed502c6f93d8613ea0
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "103890900"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244657"
 ---
 # <a name="implementing-input-pipes-on-the-client"></a>Реализация входных каналов на клиенте
 
@@ -116,7 +116,7 @@ void PipePull( rpc_ss_pipe_state_t stateInfo,
 
 Заглушка клиента вызывает процедуру извлечения. Процедура извлечения в этом примере использует переменную состояния для отслеживания следующей позицией в глобальном буфере источника данных для чтения из. Он считывает данные из исходного буфера в буфер канала. Заглушка клиента передает данные на сервер. Когда все данные отправлены, процедура Pull устанавливает размер буфера равным нулю. Это указывает серверу на необходимость перестают извлекать данные.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -126,6 +126,6 @@ void PipePull( rpc_ss_pipe_state_t stateInfo,
 [**/Oi**](/windows/desktop/Midl/-oi)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

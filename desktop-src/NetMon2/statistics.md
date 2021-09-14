@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Netmon.h
-ms.openlocfilehash: 273e6ba9e32337cc65b3dce979d2ff407b904595237b60025e42fc58e57d9823
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a3798f32f7341722432441272eded7d7605cf8a0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119778284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127245146"
 ---
 # <a name="statistics-structure"></a>Структура статистики
 
@@ -54,7 +54,7 @@ typedef struct _STATISTICS {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -204,7 +204,7 @@ typedef struct _STATISTICS {
 
 Не удается получить общую статистику при использовании интерфейса [ИЕСП](iesp.md) НПП.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -216,7 +216,7 @@ typedef struct _STATISTICS {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

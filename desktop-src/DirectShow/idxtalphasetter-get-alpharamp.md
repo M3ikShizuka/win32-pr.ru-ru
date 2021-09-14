@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 9768ed96f0b40e074fd44de04ca44a8cc17d9de7ce4b75af948975e26b5e3077
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 335c227b0ac35ccd730d8ce7014b9a5c7ebc3213
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118952743"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065633"
 ---
 # <a name="idxtalphasetterget_alpharamp-method"></a>Метод Идксталфасеттер:: Get \_ алфарамп
 
@@ -61,7 +61,7 @@ HRESULT get_AlphaRamp(
 | Код возврата                                                                               | Описание                          |
 |-------------------------------------------------------------------------------------------|--------------------------------------|
 | <dl> <dt>**\_указатель E**</dt> </dl> | **Пустой** аргумент указателя<br/> |
-| <dl> <dt>**\_ОК**</dt> </dl>      | Success<br/>                   |
+| <dl> <dt>**\_ОК**</dt> </dl>      | Успешное завершение<br/>                   |
 
 
 
@@ -79,7 +79,7 @@ HRESULT get_AlphaRamp(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -90,7 +90,7 @@ HRESULT get_AlphaRamp(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

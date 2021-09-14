@@ -17,11 +17,11 @@ api_location:
 - Strmbasd.lib
 - Strmbasd.dll
 ms.openlocfilehash: 068dd45ee3ffac5c3b915c3b0cdd8bc87756377e
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105688775"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065758"
 ---
 # <a name="cbaseallocator-class"></a>Класс Кбасеаллокатор
 
@@ -76,7 +76,7 @@ ms.locfileid: "105688775"
 | Методы Имемаллокатор                                                        | Описание                                                                                |
 | [**SetProperties**](cbaseallocator-setproperties.md)                        | Указывает количество выделяемых буферов и размер каждого буфера.                   |
 | [**GetProperties**](cbaseallocator-getproperties.md)                        | Извлекает количество буферов, которые будут созданы распределителем, и свойства буфера. |
-| [**Сохраните**](cbaseallocator-commit.md)                                      | Выделяет память для буферов.                                                      |
+| [**Commit**](cbaseallocator-commit.md)                                      | Выделяет память для буферов.                                                      |
 | [**Освобождения**](cbaseallocator-decommit.md)                                  | Отменяет фиксацию буферов.                                                                     |
 | [**GetBuffer**](cbaseallocator-getbuffer.md)                                | Извлекает пример носителя, содержащий буфер.                                           |
 | [**релеасебуффер**](cbaseallocator-releasebuffer.md)                        | Возвращает пример носителя в список примеров бесплатных носителей.                                  |
@@ -91,7 +91,7 @@ ms.locfileid: "105688775"
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Амфилтер. h (включение Streams. h)</dt> </dl>                                                                                  |
+| Заголовок<br/>  | <dl> <dt>амфилтер. h (включает Потоки. h)</dt> </dl>                                                                                  |
 | Библиотека<br/> | <dl> <dt>Стрмбасе. lib (розничные сборки); </dt> <dt>Стрмбасд. lib (отладочные сборки)</dt> </dl> |
 
 

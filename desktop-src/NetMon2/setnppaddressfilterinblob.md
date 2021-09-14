@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Npptools.dll
-ms.openlocfilehash: da2119b30f690acf5deac46d43d9382e75c6caf1c2e9f41784a4b34f7f80e257
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 39e8a85599fa63b1320d707f648731a195dbb48e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118363820"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127245218"
 ---
 # <a name="setnppaddressfilterinblob-function"></a>Функция Сетнппаддрессфилтеринблоб
 

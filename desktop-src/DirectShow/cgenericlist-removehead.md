@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 7b374ad6a08aac039de3c7d54ee4403f240fdf6bf9839a5ea2554901de789f11
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: da9267d6b3e0c3196b3a9d1e873f222649b66684
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119317754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058055"
 ---
 # <a name="cgenericlistremovehead-method"></a>Кженериклист. Ремовехеад, метод
 
@@ -48,7 +48,7 @@ OBJECT* RemoveHead();
 
 Этот метод удаляет узел списка, но не элемент, содержащийся в узле.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

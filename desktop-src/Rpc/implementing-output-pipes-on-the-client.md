@@ -4,12 +4,12 @@ description: При использовании выходного канала �
 ms.assetid: ab544daf-fbf7-4b00-95a8-55c149a86c27
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e959db9e505bb7dfe570552fe0385251485591fecb1f818ab4d5de402c2297b9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4ff274491e2b665d86b550853d07c3ff6a4b2a83
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118929133"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244648"
 ---
 # <a name="implementing-output-pipes-on-the-client"></a>Реализация выходных каналов на клиенте
 

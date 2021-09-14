@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Poclass.h
 - Batclass.h
-ms.openlocfilehash: 9049517108cbb31df1164cc88640a78e104e2902d3a8a4b8dec4b8bfb48e8a53
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 511980dd4307077b8b160550c661a15a5714b96f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119143687"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127273680"
 ---
 # <a name="battery_query_information-structure"></a>\_ \_ Структура сведений о запросе аккумулятора
 
@@ -38,7 +38,7 @@ typedef struct _BATTERY_QUERY_INFORMATION {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 

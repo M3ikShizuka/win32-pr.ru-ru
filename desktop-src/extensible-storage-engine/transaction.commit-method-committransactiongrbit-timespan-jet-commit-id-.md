@@ -20,12 +20,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 90fd53fd7097db98ab84148b3f32710c369c948ed64c3606d0018cc8e79c877a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 18df363e4320a4b1a53c34e15fcf68939fce96ef
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117890517"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269560"
 ---
 # <a name="transactioncommit-method-committransactiongrbit-timespan-jet_commit_id"></a>Метод Transaction. Commit (Коммиттрансактионгрбит, TimeSpan, JET_COMMIT_ID)
 

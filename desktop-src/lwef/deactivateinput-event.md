@@ -4,12 +4,12 @@ description: Событие Деактиватеинпут
 ms.assetid: 59747932-82be-45d5-8465-73798904e8a7
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 98fe94d7d4e737d83dfb734bcc5b35c60bddf96dcf8b07c43df3b89817da21b3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9b2fe1ff13b599fe5fbcf2dac22e548a0432f415
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119610534"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065844"
 ---
 # <a name="deactivateinput-event"></a>Событие Деактиватеинпут
 

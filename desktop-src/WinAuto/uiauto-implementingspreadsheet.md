@@ -15,12 +15,12 @@ keywords:
 - интерфейсы, Испреадшитпровидер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d7991937f1530e28ed85227fbe19be13b628f9722d5609367e2f483c86a2bb70
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4be34174745ccf91435db92665b98eb387f7241a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120098284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058441"
 ---
 # <a name="spreadsheet-control-pattern"></a>Шаблон элемента управления электронной таблицей
 

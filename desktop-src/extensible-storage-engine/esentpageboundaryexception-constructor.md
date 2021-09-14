@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: b57eb073b4635c91d3b1e553d596c091b1759ee5d3b1e226e19baa209ff4c271
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cf09966c0bf311de2ae06c2e8b935f6fe7ff03a5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119947084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058228"
 ---
 # <a name="esentpageboundaryexception-constructor"></a>Конструктор Есентпажебаундарексцептион
 
@@ -52,7 +52,7 @@ Dim instance As New EsentPageBoundaryException()
 public EsentPageBoundaryException()
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

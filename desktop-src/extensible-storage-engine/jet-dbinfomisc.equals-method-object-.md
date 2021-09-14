@@ -20,12 +20,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 46be2130cbb57cc216f570e944d6959ae355780134f90bc94101d01d6f38bb16
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c07e722abf0c6a291d42bc094ba7a2a7c5238cfb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119617604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065980"
 ---
 # <a name="jet_dbinfomiscequals-method-object"></a>JET_DBINFOMISC. Метод Equals (Object)
 
@@ -67,7 +67,7 @@ public override bool Equals(
 Тип: [System. Boolean](/dotnet/api/system.boolean)  
 Значение true, если указанный [объект](/dotnet/api/system.object) равен текущему [объекту](/dotnet/api/system.object); в противном случае — значение false.  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

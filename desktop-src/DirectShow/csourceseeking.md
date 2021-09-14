@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 475d8b58decac9297b9e02ebf8116ea5c86d224fc534626937fbed7daf5b2c4f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cf9bf0ca0fabd00c27f4ef4b795af5271605fa8a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119907843"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065715"
 ---
 # <a name="csourceseeking-class"></a>Класс Ксаурцесикинг
 
@@ -127,7 +127,7 @@ HRESULT CMyStream::OnThreadStartPlay()
 -   [**Имедиасикинг:: Исусингтимеформат**](/windows/desktop/api/Strmif/nf-strmif-imediaseeking-isusingtimeformat)
 -   [**Имедиасикинг:: Сеттимеформат**](/windows/desktop/api/Strmif/nf-strmif-imediaseeking-settimeformat)
 
-Кроме того, переопределите оставшиеся методы [**имедиасикинг**](/windows/desktop/api/Strmif/nn-strmif-imediaseeking) , чтобы выполнить необходимые преобразования между форматами времени. После вызова метода [**сеттимеформат**](/windows/desktop/api/Strmif/nf-strmif-imediaseeking-settimeformat) все методы **имедиасикинг** должны обрабатывать входящие и исходящие параметры времени в новом формате времени. Например, если переменная *m \_ ртдуратион* представляет продолжительность в единицах времени ссылки, но текущий формат времени — frames [**, метод IsReference**](/windows/desktop/api/Strmif/nf-strmif-imediaseeking-getduration) должен возвращать значение *m \_ ртдуратион* , преобразованное в кадры. Например:
+Кроме того, переопределите оставшиеся методы [**имедиасикинг**](/windows/desktop/api/Strmif/nn-strmif-imediaseeking) , чтобы выполнить необходимые преобразования между форматами времени. После вызова метода [**сеттимеформат**](/windows/desktop/api/Strmif/nf-strmif-imediaseeking-settimeformat) все методы **имедиасикинг** должны обрабатывать входящие и исходящие параметры времени в новом формате времени. Например, если переменная *m \_ ртдуратион* представляет продолжительность в единицах времени ссылки, но текущий формат времени — frames [**, метод IsReference**](/windows/desktop/api/Strmif/nf-strmif-imediaseeking-getduration) должен возвращать значение *m \_ ртдуратион* , преобразованное в кадры. Пример:
 
 
 ```
@@ -150,7 +150,7 @@ STDMETHODIMP GetDuration(LONGLONG *pDuration)
 
 Кроме того, убедитесь в том, что в \_ \_ методе [**Имедиасикинг:: сетпоситионс**](/windows/desktop/api/Strmif/nf-strmif-imediaseeking-setpositions) установлен флаг "я искал ретурнтиме". Если этот флаг существует, при возврате значений позиций в вызывающий объект преобразуйте их в время ссылки.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -161,7 +161,7 @@ STDMETHODIMP GetDuration(LONGLONG *pDuration)
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

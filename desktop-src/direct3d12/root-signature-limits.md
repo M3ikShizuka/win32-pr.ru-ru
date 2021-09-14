@@ -1,18 +1,18 @@
 ---
-title: Ограничения корневой подписи
+title: Ограничения корневых подписей
 description: Корневая подпись — это простое недвижимость, и существуют ограничения и затраты, которые следует учитывать.
 ms.assetid: 01121D3A-1926-4246-9C20-5E11F2E0B092
 ms.localizationpriority: high
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 25986da72cfcad7b714031e063341e1832d6ae68
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "74104571"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066348"
 ---
-# <a name="root-signature-limits"></a>Ограничения корневой подписи
+# <a name="root-signature-limits"></a>Ограничения корневых подписей
 
 Корневая подпись — это простое недвижимость, и существуют ограничения и затраты, которые следует учитывать.
 
@@ -62,9 +62,9 @@ ms.locfileid: "74104571"
 [Корневые подписи](root-signatures.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

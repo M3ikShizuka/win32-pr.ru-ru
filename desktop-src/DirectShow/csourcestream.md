@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 0f7563cabff97626ac45a150e9a763033d9ce9261e5ae528e83d174e35d4f0d9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 36b9085df8c15e765c751be8b5fcdfd4f4a02140
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119428792"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057975"
 ---
 # <a name="csourcestream-class"></a>Класс Ксаурцестреам
 
@@ -71,7 +71,7 @@ ms.locfileid: "119428792"
 | [**Выход**](csourcestream-exit.md)                                     | Сообщает потоку потоковой передачи о выходе.                                                                                             |
 | [**Выполнить**](csourcestream-run.md)                                       | Сообщает потоку потоковой передачи о выполнении.                                                                                              |
 | [**Пауза**](csourcestream-pause.md)                                   | Сигнализирует потоку потоковой передачи на активность.                                                                                    |
-| [**Позиции**](csourcestream-stop.md)                                     | Сигнализирует потоку потоковой передачи на завершение.                                                                                             |
+| [**Остановить**](csourcestream-stop.md)                                     | Сигнализирует потоку потоковой передачи на завершение.                                                                                             |
 | Чистые виртуальные методы                                                   | Описание                                                                                                                       |
 | [**филлбуффер**](csourcestream-fillbuffer.md)                         | Заполняет образец носителя данными.                                                                                                   |
 | Методы Ипин                                                           | Описание                                                                                                                       |
@@ -81,7 +81,7 @@ ms.locfileid: "119428792"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

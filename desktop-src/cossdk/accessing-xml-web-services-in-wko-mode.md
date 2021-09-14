@@ -4,12 +4,12 @@ ms.assetid: 5b21ff0c-f3a5-464b-b927-a7872ac54fe2
 title: Доступ к веб-службам XML в режиме ВКО
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9f412a1ec6493e713d2635136b2c4e82063cde56c30358653e476f300ffd2ae4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e726f430c47b3202932796455e1cf997e370a022
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119129406"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066491"
 ---
 # <a name="accessing-xml-web-services-in-wko-mode"></a>Доступ к веб-службам XML в режиме ВКО
 

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: eea77074a19ada084493bf5e24edaf49e25b659b0accdad16dab6c5781078f4c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e6da79ff08eebe62ad177119a35bfc29b21c9350
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120074924"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065559"
 ---
 # <a name="installerregistryvalue-method"></a>Метод Installer. RegistryValue
 
@@ -81,7 +81,7 @@ Installer.RegistryValue(
 | Значение                                                                                                                                                                                                    | Значение                                                                                                                                                 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <span id="Missing_or_blank"></span><span id="missing_or_blank"></span><span id="MISSING_OR_BLANK"></span><dl> <dt>**Отсутствует или пусто**</dt> </dl> | Возвращает логическое значение, определяющее, существует ли ключ.<br/>                                                                                        |
-| <span id="String"></span><span id="string"></span><span id="STRING"></span><dl> <dt>**Строковый тип**</dt> </dl>                                         | Возвращает данные, связанные с именованным значением, завершается ошибкой, если имя значения не существует.<br/>                                                   |
+| <span id="String"></span><span id="string"></span><span id="STRING"></span><dl> <dt>**Строка**</dt> </dl>                                         | Возвращает данные, связанные с именованным значением, завершается ошибкой, если имя значения не существует.<br/>                                                   |
 | <span id="Positive_integer"></span><span id="positive_integer"></span><span id="POSITIVE_INTEGER"></span><dl> <dt>**Положительное целое число**</dt> </dl> | Возвращает имя перечислимого значения, основанного на 1, оно пустое, если оно не существует. Этот параметр использует функцию [**реженумвалуе**](/windows/win32/api/winreg/nf-winreg-regenumvaluea) .<br/> |
 | <span id="Negative_integer"></span><span id="negative_integer"></span><span id="NEGATIVE_INTEGER"></span><dl> <dt>**Отрицательное целое число**</dt> </dl> | Возвращает имя подраздела с именем, основанное на 1, пустое, если оно не существует. Этот параметр использует функцию [**реженумкэй**](/windows/win32/api/winreg/nf-winreg-regenumkeya) .<br/>  |
 | <span id="Zero_integer"></span><span id="zero_integer"></span><span id="ZERO_INTEGER"></span><dl> <dt>**Нулевое целое число**</dt> </dl>                 | Возвращает имя класса String для назначенного ключа.<br/>                                                                                        |
@@ -97,7 +97,7 @@ Installer.RegistryValue(
 
 Этот метод не возвращает значение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

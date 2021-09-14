@@ -30,12 +30,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 7866fa72df1beadf7cd06d61cfe60b2f1ca31a9feabb4412903186eeeeb80748
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d5ddfd613eecf5e9a6d9b6cec9eebcbab04e9b38
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118253642"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058168"
 ---
 # <a name="jet_sesparam-enumeration"></a>Перечисление JET_sesparam
 
@@ -57,7 +57,7 @@ Dim instance As JET_sesparam
 public enum JET_sesparam
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <table>
 <thead>

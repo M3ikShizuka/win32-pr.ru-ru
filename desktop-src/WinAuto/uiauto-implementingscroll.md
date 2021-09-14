@@ -15,12 +15,12 @@ keywords:
 - интерфейсы, Искроллпровидер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c1d1cf3c04be18f362a64e619ec4659fac58923f29e6105174057b18a580f8d8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b525c77a7f89f7adc95a3d90d999f8b243cfcdb6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118324402"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058444"
 ---
 # <a name="scroll-control-pattern"></a>Шаблон элемента управления Scroll
 
@@ -55,14 +55,14 @@ ms.locfileid: "118324402"
 
 | Обязательные члены                                                                  | Тип члена | Примечания |
 |-----------------------------------------------------------------------------------|-------------|-------|
-| [**HorizontalScrollPercent**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iscrollprovider-get_horizontalscrollpercent) | Свойство    | Нет  |
-| [**вертикалскроллперцент**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iscrollprovider-get_verticalscrollpercent)     | Свойство    | Нет  |
-| [**хоризонталвиевсизе**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iscrollprovider-get_horizontalviewsize)           | Свойство    | Нет  |
-| [**вертикалвиевсизе**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iscrollprovider-get_verticalviewsize)               | Свойство    | Нет  |
-| [**хоризонталлискроллабле**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iscrollprovider-get_horizontallyscrollable)   | Свойство    | Нет  |
-| [**вертикаллискроллабле**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iscrollprovider-get_verticallyscrollable)       | Свойство    | Нет  |
-| [**Крутите**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iscrollprovider-scroll)                                   | Метод      | Нет  |
-| [**сетскроллперцент**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iscrollprovider-setscrollpercent)               | Метод      | Нет  |
+| [**HorizontalScrollPercent**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iscrollprovider-get_horizontalscrollpercent) | Свойство.    | None  |
+| [**вертикалскроллперцент**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iscrollprovider-get_verticalscrollpercent)     | Свойство.    | None  |
+| [**хоризонталвиевсизе**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iscrollprovider-get_horizontalviewsize)           | Свойство.    | None  |
+| [**вертикалвиевсизе**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iscrollprovider-get_verticalviewsize)               | Свойство.    | Нет  |
+| [**хоризонталлискроллабле**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iscrollprovider-get_horizontallyscrollable)   | Свойство.    | None  |
+| [**вертикаллискроллабле**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iscrollprovider-get_verticallyscrollable)       | Свойство.    | None  |
+| [**Крутите**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iscrollprovider-scroll)                                   | Метод      | None  |
+| [**сетскроллперцент**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-iscrollprovider-setscrollpercent)               | Метод      | None  |
 
 
 

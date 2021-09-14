@@ -6,12 +6,12 @@ keywords:
 - Удаленный вызов процедур RPC, описание, среда программирования
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 93e2519702131e344ad31cb49354c0b033326d805b3448427a4b0b95a678c485
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 36e5ef0259f3e1ad34d734f2dcb6a65064767d85
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118928910"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244600"
 ---
 # <a name="installing-the-rpc-programming-environment"></a>Установка среды программирования RPC
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: f116dd1a965145e5bdf4808d25a7406b4709967c5cf971ad3529ae9d301ebc4f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9491e58d817ce2c9dc4fb59fafa9bf96812a013a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119539744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058056"
 ---
 # <a name="cgenericlistgetnext-method"></a>Кженериклист. GetNext, метод
 
@@ -59,7 +59,7 @@ OBJECT* GetNext(
 
 Если значение *RP* равно **null**, метод возвращает **значение NULL**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ OBJECT* GetNext(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

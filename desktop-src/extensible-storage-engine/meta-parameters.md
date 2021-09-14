@@ -16,11 +16,11 @@ api_type:
 api_location: ''
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 2f821d3aea8055f6c1344ed9d5107417adbaf604
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122985517"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269627"
 ---
 # <a name="meta-parameters"></a>Параметры Meta
 
@@ -87,7 +87,7 @@ JET_paramConfiguration
   - Различные операции обслуживания масштабируются обратно во избежание фонового действия потока.
 
 
-| Метка | Применение |
+| Метка | Значение |
 |--------|-------|
 | <p>Значение по умолчанию:</p> | <p>1 (устаревший)</p> | 
 | <p>Тип:</p> | <p>Целое число</p> | 
@@ -190,10 +190,10 @@ JET_paramEnableAdvanced
   - JET_paramCheckpointIOMax
 
 
-| Метка | Применение |
+| Метка | Значение |
 |--------|-------|
-| <p>Значение по умолчанию:</p> | <p>True</p> | 
-| <p>Тип:</p> | <p>Логическое значение</p> | 
+| <p>Значение по умолчанию:</p> | <p>Верно</p> | 
+| <p>Тип:</p> | <p>Логическое</p> | 
 | <p>Допустимый диапазон:</p> | <p>False, true</p> | 
 | <p>Область.</p> | <p>Экземпляр</p> | 
 | <p>Задать после <a href="gg269354(v=exchg.10).md">жеткреатеинстанце</a>:</p> | <p>Да</p> | 
@@ -209,7 +209,7 @@ JET_paramEnableAdvanced
 ### <a name="requirements"></a>Требования
 
 
-| Требование | Применение |
+| Требование | Значение |
 |------------|----------|
 | <p><strong>Клиент</strong></p> | <p>требуется Windows Vista.</p> | 
 | <p><strong>Server</strong></p> | <p>требуется Windows Server 2008.</p> | 

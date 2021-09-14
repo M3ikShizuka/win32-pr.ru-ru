@@ -4,12 +4,12 @@ ms.assetid: a70b6e22-e744-4760-b878-9ee35428fed5
 title: Сетевой монитор
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fcc3b49dac14292da1bfd6d1e5e8514786dcbd08c2c274d311b924eb68517aa5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e51a57dd2373d7a10fedd68a72dbc4021efdb921
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118364593"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127245320"
 ---
 # <a name="network-monitor"></a>Сетевой монитор
 
@@ -41,7 +41,7 @@ ms.locfileid: "118364593"
 | [Пакет SDK для сетевой монитор](the-network-monitor-sdk.md)<br/>     | Введение в пакет SDK для сетевой монитор.<br/>                                                   |
 | [Сведения о сетевой монитор 2,1](about-network-monitor-2-1.md)<br/> | Сетевой монитор концепции и службы.<br/>                                                     |
 | [Использование сетевой монитор 2,1](using-network-monitor-2-1.md)<br/> | Разделы, связанные с задачами, в которых описывается использование функций сетевой монитор и COM-компонентов.<br/> |
-| [Ссылки](reference.md)<br/>                                 | Справочные разделы по сетевой монитор.<br/>                                                      |
+| [Ссылка](reference.md)<br/>                                 | Справочные разделы по сетевой монитор.<br/>                                                      |
 | [Словарь терминов](glossary.md)<br/>                                   | Определения и терминология для сетевой монитор.<br/>                                           |
 
 

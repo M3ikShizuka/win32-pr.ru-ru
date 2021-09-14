@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Npptools.dll
-ms.openlocfilehash: bb83fffc219cb7cc82b2b20d6672cef0b74a6cf108577126e4200a3342edaa2d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a0019bfaf802b5d4dc80d73e75affa3c50d95de1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118364072"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127245224"
 ---
 # <a name="setnetworkinfoinblob-function"></a>Функция Сетнетворкинфоинблоб
 

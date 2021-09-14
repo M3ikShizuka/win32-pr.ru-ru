@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 4247b04c70cca8da8527d0d9f19ec872c35ec2ee610e3b0e98d88fbffbbfd3d5
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 95dc8e16939c345b6f885980dd2f1194f180ac5e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119794404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058326"
 ---
 # <a name="swbemservicesassociatorsof-method"></a>SWbemServices. АссоЦиаторсоф, метод
 
@@ -59,7 +59,7 @@ objWbemObjectSet = .AssociatorsOf( _
 *стробжектпас* 
 </dt> <dd>
 
-Обязательный. Строка, содержащая путь к объекту исходного класса или экземпляра. Дополнительные сведения см. [в разделе Описание расположения объекта WMI](describing-the-location-of-a-wmi-object.md).
+Обязательный элемент. Строка, содержащая путь к объекту исходного класса или экземпляра. Дополнительные сведения см. [в разделе Описание расположения объекта WMI](describing-the-location-of-a-wmi-object.md).
 
 </dd> <dt>
 
@@ -244,7 +244,7 @@ objWbemObjectSet = .AssociatorsOf( _
 
 Дополнительные сведения о СОЕДИНИТЕЛях WQL-запросов, исходных экземпляров и конечных точек см. в разделе [соединители оператора](associators-of-statement.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -260,7 +260,7 @@ objWbemObjectSet = .AssociatorsOf( _
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
