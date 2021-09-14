@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: b2ecc6a1c903f78fb7c03442809f792e3ddb984d04975d3f5ecb0b5c918f7ab4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6990d5489058d217888f34caf0305badc4cab46d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117907647"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347407"
 ---
 # <a name="frc---vs"></a>ФРК — VS
 
@@ -31,7 +31,7 @@ ms.locfileid: "117907647"
 
  
 
-where
+где
 
 -   DST — это регистр назначения.
 -   src является исходным регистром.

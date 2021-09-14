@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 063b8be8986a7a8a3fe3c7d14db31c0cb737d537b74366bee0ce3ed3550e3b24
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9d2b08f3e805edc8b8860495fc105f0cfdf6768f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117819451"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346927"
 ---
 # <a name="idxtkeyput_hue-method"></a>Идксткэй::p \_ метод оттенок метода UT
 

@@ -5,11 +5,11 @@ ms.assetid: 17C88BCE-7F2F-446C-9BB4-860098B5E42A
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 0f59b747f38fb970b92b5e48610873efe781d63d
-ms.sourcegitcommit: b6fe9acffad983c14864b8fe0296f6025cb1f961
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "107993921"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347399"
 ---
 # <a name="frc-sm4---asm"></a>ФРК (SM4-ASM)
 
@@ -35,7 +35,7 @@ ms.locfileid: "107993921"
 
  
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 В следующей таблице показаны результаты, полученные при выполнении инструкции с различными классами чисел.
 
@@ -43,7 +43,7 @@ ms.locfileid: "107993921"
 
 | **src**  | **-INF** | **-F**     | **— денорма** | **-0** | **+0** | **+ денорма** | **+ F**     | **+ INF** | **Не число** |
 |----------|----------|------------|-------------|--------|--------|-------------|------------|----------|---------|
-| **dest** | не число      | \[+ 0 – 1) | +0          | +0     | +0     | +0          | \[+ 0 – 1) | Не число      | Не число     |
+| **dest** | Не число      | \[+ 0 – 1) | +0          | +0     | +0     | +0          | \[+ 0 – 1) | Не число      | Не число     |
 
 
 
@@ -71,9 +71,9 @@ F означает ограничение по настоящему вещест
 
 | Модель шейдера                                              | Поддерживается |
 |-----------------------------------------------------------|-----------|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | да       |
-| [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | да       |
-| [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | да       |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | Да       |
+| [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | Да       |
+| [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | Да       |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет        |
 | [Модель шейдера 2 (DirectX HLSL)](dx-graphics-hlsl-sm2.md) | Нет        |
 | [Модель шейдера 1 (DirectX HLSL)](dx-graphics-hlsl-sm1.md) | Нет        |

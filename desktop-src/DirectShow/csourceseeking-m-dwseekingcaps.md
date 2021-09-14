@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 98044f8a05c22022f66e6014be591d99ec57451e33e8f2d7d464e6793bec19e5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e4addb06b120801b0d5e697c7df93ab8ba620bbd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120054034"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346962"
 ---
 # <a name="csourceseekingm_dwseekingcaps-member"></a>Элемент Ксаурцесикинг:: m \_ двсикингкапс
 
@@ -48,7 +48,7 @@ DWORD m_dwSeekingCaps;
 
 Если фильтр поддерживает другой набор возможностей, Переопределите это значение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ DWORD m_dwSeekingCaps;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

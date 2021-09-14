@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 659ad34c01ca6c74a24f6bbf5f5bef42df46f94f06b7e03541f9caf3398b39e5
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b4c4893edcf02fa18da3dc207a49f87c91b2a9ad
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119768194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347054"
 ---
 # <a name="cbasefilterstop-method"></a>Кбасефилтер. останавливаться, метод
 
@@ -50,7 +50,7 @@ HRESULT Stop();
 
 Когда фильтр останавливается, он должен отклонять выборки из вышестоящего, прекращать доставку образцов, завершать рабочие потоки и освобождать все ресурсы, используемые для потоковой передачи.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ HRESULT Stop();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

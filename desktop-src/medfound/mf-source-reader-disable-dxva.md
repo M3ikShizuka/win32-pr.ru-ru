@@ -5,11 +5,11 @@ title: Атрибут MF_SOURCE_READER_DISABLE_DXVA (Мфреадврите. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 9362f067d1d6ceae426e9ee6530e08b95837595f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104348735"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263259"
 ---
 # <a name="mf_source_reader_disable_dxva-attribute"></a>\_Чтение источника \_ MF \_ Отключить \_ атрибут дксва
 
@@ -25,7 +25,7 @@ ms.locfileid: "104348735"
 
 Чтобы задать этот атрибут, вызовите [**имфаттрибутес:: SetUINT32**](/windows/desktop/api/mfobjects/nf-mfobjects-imfattributes-setuint32).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот атрибут применяется, если выполняются следующие условия.
 
@@ -52,9 +52,9 @@ ms.locfileid: "104348735"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 7 \|\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2008 R2 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Мфреадврите. h</dt> </dl> |
+| Минимальная версия клиента<br/> | \[приложения UWP для классических приложений Windows 7 \|\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows \[Приложения UWP для настольных приложений Server 2008 R2 \|\]<br/>                           |
+| Заголовок<br/>                   | <dl> <dt>Мфреадврите. h</dt> </dl> |
 
 
 

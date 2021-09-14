@@ -4,12 +4,12 @@ ms.assetid: d708eb0c-c64e-4d65-8c2b-959ee5194a08
 title: System. Devices. Notifications. Ловбаттери
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0350c6e3b21fe182e2d5dea6bcf633869a42235b334c67434dd3f0e657a78159
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 46f1a267bd4695124493f64c7ea11ef9fcf8a5df
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118728300"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127262688"
 ---
 # <a name="systemdevicesnotificationslowbattery"></a>System. Devices. Notifications. Ловбаттери
 

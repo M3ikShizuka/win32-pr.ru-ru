@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: e77555094625bfc6a31a0527fc3223a124b012e72c28ea76e5774de289d63391
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3534eac01a6769e090c8c808f16cc6ad5c6b84c1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119794214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347103"
 ---
 # <a name="cbaseallocatorfree-method"></a>Кбасеаллокатор. Free, метод
 
@@ -48,7 +48,7 @@ virtual void Free() = 0;
 
 После вызова метода [**uncommit**](cbaseallocator-decommit.md) распределитель вызывает этот метод при освобождении последнего примера носителя. Производный класс должен реализовывать этот метод.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ virtual void Free() = 0;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 9dc1e195-a108-4f8f-b008-e08fc7658fc0
 title: Свойство SOURCELIST
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: dd0ab879d55481f71c663e4375a305232be576d0c923f67fa419530012d1ce89
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f5384504c337aeb9f1848f59efb2c6abaee5887b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119893754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266064"
 ---
 # <a name="sourcelist-property"></a>Свойство SOURCELIST
 
@@ -25,7 +25,7 @@ ms.locfileid: "119893754"
 
 для установщик Windows число источников в свойстве **SOURCELIST** не ограничено. [**Мсисаурцелистаддсаурце**](/windows/desktop/api/Msi/nf-msi-msisourcelistaddsourcea) можно использовать для добавления сетевых источников.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

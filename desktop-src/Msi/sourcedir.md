@@ -5,11 +5,11 @@ title: SourceDir, свойство
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: e8a366e4afecdd16722a06ecfbec08552baab8f1
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105679858"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266091"
 ---
 # <a name="sourcedir-property"></a>SourceDir, свойство
 
@@ -19,7 +19,7 @@ ms.locfileid: "105679858"
 
 Каталог, содержащий пакет установки.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 [Действие ресолвесаурце](resolvesource-action.md) должно быть вызвано перед использованием свойства **SourceDir** в любом выражении или при попытке получить значение **SourceDir** с [**MsiGetProperty**](/windows/desktop/api/Msiquery/nf-msiquery-msigetpropertya). Действие Ресолвесаурце не должно выполняться, пока источник недоступен, например, при удалении приложения, так как это может привести к непреднамеренному появлению запроса к исходному носителю.
 
@@ -29,7 +29,7 @@ ms.locfileid: "105679858"
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/> | Установщик Windows 5,0 в Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Установщик Windows 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Установщик Windows в Windows Server 2003 или Windows XP. Сведения о минимальном пакете обновления Windows, который требуется для установщик Windows версии, см. в [установщик Windows Run-Time требования](windows-installer-portal.md) .<br/> |
+| Версия<br/> | Windows установщик 5,0 на Windows Server 2012, Windows 8, Windows Server 2008 R2 или Windows 7. Windows установщик 4,0 или установщик Windows 4,5 на Windows Server 2008 или Windows Vista. Windows установщик на Windows Server 2003 или Windows XP. сведения о минимальном Windows пакета обновления, который требуется для установщик Windows версии, см. в [установщик Windows требования к Run-Time](windows-installer-portal.md) .<br/> |
 
 
 

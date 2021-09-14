@@ -4,12 +4,12 @@ ms.assetid: 40893e13-bf2e-4424-ae43-2b253fc0b622
 title: Атрибут MF_ACTIVATE_CUSTOM_VIDEO_PRESENTER_FLAGS (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bb223224b7dc01dbfcbfe43962201e4c40871d2d7d1a2be0e5cf78ebcac21430
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3681edaed39b63b0f7c13313039f1c6e72311a87
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119723671"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263336"
 ---
 # <a name="mf_activate_custom_video_presenter_flags-attribute"></a>MF \_ активировать \_ Пользовательский \_ \_ \_ атрибут флагов видеоадаптера
 

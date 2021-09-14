@@ -4,12 +4,12 @@ ms.assetid: 1838757c-aa8e-4678-8042-207498fb0bbc
 title: Каталог COM+
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b345c45fddab245c1e2290dc279742ac7b3b6b25c093d677c74b232077b43ae1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ad869a6df6a61fc338fe07002512a1de27002788
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118305271"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347502"
 ---
 # <a name="the-com-catalog"></a>Каталог COM+
 

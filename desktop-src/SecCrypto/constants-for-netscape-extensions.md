@@ -4,12 +4,12 @@ ms.assetid: 713c95ae-e5d0-416c-ba0c-4b5399aa8a33
 title: Константы для расширений Netscape
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 315d27039bf29220f1a7cdfba82baa1350da084025f436aa1b4746d7e92f5c2c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 06999a879d0d289bb95cdb8ba5506200154d60e4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119876754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127259592"
 ---
 # <a name="constants-for-netscape-extensions"></a>Константы для расширений Netscape
 

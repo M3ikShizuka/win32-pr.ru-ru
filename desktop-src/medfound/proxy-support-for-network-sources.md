@@ -4,12 +4,12 @@ ms.assetid: e739746d-2a09-4237-a7c1-0aed4e4516d7
 title: Поддержка прокси-сервера для сетевых источников
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: de3246c472c2791cd1dfaa31ed328aa6a07e09873513f6a7a85f7804150b08dc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 97bc1172c072a54f9f76cbcd3a297a972efbde29
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118058488"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263176"
 ---
 # <a name="proxy-support-for-network-sources"></a>Поддержка прокси-сервера для сетевых источников
 

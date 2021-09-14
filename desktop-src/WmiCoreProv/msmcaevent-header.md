@@ -19,12 +19,12 @@ api_type:
 - DllExport
 api_location:
 - Wmiprov.dll
-ms.openlocfilehash: c9b09e745fd3d2a6819a756ff6a012c85330f327739dae28445c2e376189d293
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 426f943014f3b6cfbdba5a25d331c0ea621048cf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119051272"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347654"
 ---
 # <a name="msmcaevent_header-class"></a>\_Класс заголовка мсмкаевент
 
@@ -46,7 +46,7 @@ class MSMCAEvent_Header
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ заголовка мсмкаевент** содержит следующие типы членов:
 
@@ -99,7 +99,7 @@ class MSMCAEvent_Header
 
 | Значение                                                                                                | Значение                |
 |------------------------------------------------------------------------------------------------------|------------------------|
-| <span id="0"></span><dl> <dt>**0**</dt> </dl> | Восстанавливается<br/> |
+| <span id="0"></span><dl> <dt>**0,0**</dt> </dl> | Восстанавливается<br/> |
 | <span id="1"></span><dl> <dt>**1**</dt> </dl> | Аварий<br/>       |
 | <span id="2"></span><dl> <dt>**2**</dt> </dl> | Исправимая<br/> |
 
@@ -150,21 +150,21 @@ class MSMCAEvent_Header
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP<br/>                                                                  |
-| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                         |
+| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                         |
 | Пространство имен<br/>                | Корневой \\ инструментарий WMI<br/>                                                                   |
 | MOF<br/>                      | <dl> <dt>Вмикоре. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wmiprov.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

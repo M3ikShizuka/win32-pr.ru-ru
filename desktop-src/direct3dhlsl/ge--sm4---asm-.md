@@ -4,12 +4,12 @@ description: Сравнение на уровне компонентов с пл
 ms.assetid: 658AF249-4935-41AF-972A-D8CDEABA76AA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b8f7f7b9b670567256246ba508af19b98a74007b1e504f0a4f60e8d9d419b511
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c93d21d9ac044e2ad4d63e954a4732a15794b123
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118089867"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347378"
 ---
 # <a name="ge-sm4---asm"></a>GE (SM4-ASM)
 

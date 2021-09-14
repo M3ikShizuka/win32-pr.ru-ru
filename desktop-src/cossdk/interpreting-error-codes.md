@@ -4,12 +4,12 @@ ms.assetid: df2fe03b-2f5f-4958-926f-17e3a025a9b5
 title: Анализ кодов ошибок
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b5b15dfbfd183178132e6917aac04aab46c5ce90fac0fb59cdbb52cc30143159
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 659ee7def9feff50d375a07ab201e1cca25bffd7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119990884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347646"
 ---
 # <a name="interpreting-error-codes"></a>Анализ кодов ошибок
 

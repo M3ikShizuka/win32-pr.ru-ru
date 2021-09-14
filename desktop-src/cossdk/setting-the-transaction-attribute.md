@@ -4,12 +4,12 @@ ms.assetid: b0d701c7-47ef-4034-873f-dd4428efb4c7
 title: Установка атрибута Transaction
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: de6310d2544090d4b551a93782b4756b3d89f2d6d365dfc09aec4658d5d3e1b4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3c0690a50f79c77a18b089cec1865dfbb9e7f428
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118546221"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347583"
 ---
 # <a name="setting-the-transaction-attribute"></a>Установка атрибута Transaction
 

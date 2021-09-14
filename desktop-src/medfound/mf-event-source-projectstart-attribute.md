@@ -4,12 +4,12 @@ ms.assetid: d8902fb6-c758-4d3d-9230-e918948bda19
 title: Атрибут MF_EVENT_SOURCE_PROJECTSTART (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 75e3d386b90a45d1ba06d0d0c1641b97544ca1d2422dd1d2d6f7762f93cf4ee4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 512e2129c3104d9e7160163f03a9c28b2716273e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118060704"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263323"
 ---
 # <a name="mf_event_source_projectstart-attribute"></a>\_ \_ Атрибут прожектстарт источника события MF \_
 
@@ -41,7 +41,7 @@ ms.locfileid: "118060704"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

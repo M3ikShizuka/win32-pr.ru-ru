@@ -7,12 +7,12 @@ keywords:
 - скачивает биты, избегая дорогостоящих
 ms.topic: article
 ms.date: 10/04/2018
-ms.openlocfilehash: 7cb09dbd277d9ec74ce4988db210bf80c22d97ccaa3054a170fc1c9913282cfe
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6326838f08f1879929d9a6be67ef94c4aa035e00
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118959493"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347223"
 ---
 # <a name="control-a-bits-download-over-an-expensive-connection"></a>Контроль загрузки BITS через дорогостоящее подключение
 
@@ -22,7 +22,7 @@ ms.locfileid: "118959493"
 
 -   Microsoft Visual Studio;
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="step-1-include-the-required-bits-header-files"></a>Шаг 1. Включение необходимых файлов заголовков BITS
 

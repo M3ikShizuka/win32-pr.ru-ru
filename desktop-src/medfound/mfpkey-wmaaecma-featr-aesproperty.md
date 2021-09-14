@@ -4,12 +4,12 @@ ms.assetid: 409b40f8-38eb-49f7-be30-348ab5cdd33a
 title: Свойство MFPKEY_WMAAECMA_FEATR_AES (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e842bc3064b431437d8bbdfab06c0081ecdb49a8c38288ba4adb78648363c71a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b5da7505a259a51ca8456f3caffa153790649320
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118242041"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263208"
 ---
 # <a name="mfpkey_wmaaecma_featr_aes-property"></a>МФПКЭЙ \_ вмааекма \_ феатр \_ AES, свойство
 
@@ -45,11 +45,11 @@ DSP использует это свойство только в том случ
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                          |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                    |
-| Header<br/>                   | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также статью
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

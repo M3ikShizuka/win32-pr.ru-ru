@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 8d90a6a76067421c3b23c0ec5124fa5da85e029e81d0307a2b4b66d01231fe56
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4bcadd4a4ad115a1a367db4f2a2f645eb6a4742c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119323034"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347175"
 ---
 # <a name="changesecuritypermissionsex-method-of-the-win32_directory-class"></a>Метод Чанжесекуритипермиссионсекс \_ класса каталога Win32
 

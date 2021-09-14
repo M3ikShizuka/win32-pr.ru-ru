@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: 0d819de44b6697d5e3ac4f89eeb7ae288bfe3c77
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "104422937"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347422"
 ---
 # <a name="format-conversion-structures-hlsl-reference"></a>Структуры преобразования формата (Справочник по HLSL)
 
@@ -25,11 +25,11 @@ ms.locfileid: "104422937"
 -   [**XMUINT2**](xmuint2.md)
 -   [**XMUINT4**](xmuint4.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
-[Ссылка на преобразование встроенного формата](inline-format-conversion-reference.md)
+[Справочник по преобразованию встроенного формата](inline-format-conversion-reference.md)
 </dt> <dt>
 
 [Распаковка и \_ формат упаковки для редактирования образа In-Place](dx-graphics-hlsl-unpacking-packing-dxgi-format.md)

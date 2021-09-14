@@ -11,12 +11,12 @@ api_name:
 - TransactionContext
 api_type:
 - COM
-ms.openlocfilehash: aa0a90cee2b0af7d5ebe3679dca46aa04c6326fb5fd62fe5f57699d610b9efe8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 595b5a3192b87420855eb43f1e1e33df37a45c23
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119678154"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347475"
 ---
 # <a name="transactioncontext-class"></a>Класс Трансактионконтекст
 
@@ -50,7 +50,7 @@ ms.locfileid: "119678154"
 
 чтобы использовать этот класс из Visual Basic майкрософт, добавьте ссылку на библиотеку типов служб COM+. Объект Трансактионконтекст можно объявить с помощью "Комсвкслиб. Трансактионконтекст" в качестве имени класса.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -62,7 +62,7 @@ ms.locfileid: "119678154"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

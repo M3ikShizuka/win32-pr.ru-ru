@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Spoolss.dll
-ms.openlocfilehash: 6e9a2bac108702ff55b761b562fd8668870092b35402a6471462c3e63e5fc1e5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2de3ddbdc57a5a41bac048a94a8175cd124df4ea
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119950834"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263115"
 ---
 # <a name="addform-function"></a>Функция Аддформ
 
@@ -79,7 +79,7 @@ BOOL AddForm(
 
 Если *пформ* указывает на [**\_ сведения о форме \_ 2**](form-info-2.md), то **аддформ** завершится ошибкой, если либо форма с указанным именем уже существует, либо значение *пкэйворд* структуры уже существует.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -93,7 +93,7 @@ BOOL AddForm(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

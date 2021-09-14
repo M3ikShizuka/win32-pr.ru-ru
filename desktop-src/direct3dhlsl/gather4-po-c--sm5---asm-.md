@@ -4,12 +4,12 @@ description: Ведет себя так же, как gather4 \_ PO, за иск�
 ms.assetid: B128EEF3-3440-4F00-9792-20FB1AE075E9
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 83342aed97663c027b0915f612b13b288192d937d29d364257004cfc8966aec9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 36b07dcad08b4d117a453a3c97e461e6b9b4cab6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119743874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347386"
 ---
 # <a name="gather4_po_c-sm5---asm"></a>gather4 \_ PO \_ c (SM5-ASM)
 
@@ -57,7 +57,7 @@ ms.locfileid: "119743874"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | X      | X    | X      | X        | X     | X       |
 

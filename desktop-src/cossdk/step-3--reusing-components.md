@@ -4,12 +4,12 @@ ms.assetid: d9c14cf8-5bc9-4a6c-9421-c16c3f41b10d
 title: Шаг 3. повторное использование компонентов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9cf500746e7c9052a421691299903437e129108405b49c7753a841e8ca505518
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 06f44446ee20baa6dc8c947ef0650f4478847a1c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119895829"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347538"
 ---
 # <a name="step-3-reusing-components"></a>Шаг 3. повторное использование компонентов
 
@@ -41,7 +41,7 @@ ms.locfileid: "119895829"
 
  
 
-## <a name="sample-code"></a>Пример кода
+## <a name="sample-code"></a>Образец кода
 
 Компонент Аддневаусор выполняет пакетное Добавление новых авторов, позволяя объекту оставаться активным до тех пор, пока клиент не освободит ссылку на объект.
 

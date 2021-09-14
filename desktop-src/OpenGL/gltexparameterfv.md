@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 433a886ac7094a28e7c936eb02dd55743bf1abe6a94b128fb98b42bb1bad8335
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ce74c9ee0a9a1c75c50d96c90f1612b891eed282
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119490064"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127265715"
 ---
 # <a name="gltexparameterfv-function"></a>Функция Глтекспараметерфв
 
@@ -135,7 +135,7 @@ void WINAPI glTexParameterfv(
 
 [**глжеттекспараметер**](glgettexparameter.md)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -149,7 +149,7 @@ void WINAPI glTexParameterfv(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

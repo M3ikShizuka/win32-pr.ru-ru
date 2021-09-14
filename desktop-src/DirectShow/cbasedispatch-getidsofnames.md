@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: a9153dd2412018321374f558539690d5d146d8547d6247874bf5c1c79f1d4d9b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3f3b718c95d588ffdc7fa63902e6b26ffbf11fd6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118660031"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347062"
 ---
 # <a name="cbasedispatchgetidsofnames-method"></a>Кбаседиспатч. GetIDsOfNames, метод
 
@@ -103,7 +103,7 @@ HRESULT GetIDsOfNames(
 
 Если метод возвращает представление \_ E \_ ункновннаме, ВОЗВРАЩАЕМые идентификаторы DISPID содержат \_ неизвестный идентификатор DISPID для каждой записи, соответствующей неизвестному имени.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

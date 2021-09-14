@@ -4,12 +4,12 @@ ms.assetid: 69888d66-8e96-4a20-b8c5-a01267ff3c05
 title: Атрибут MF_PD_ASF_METADATA_IS_VBR (Вмконтаинер. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3e97d471c6a6466290c5b2ac490f88ae33de29aa3823af420ef8b8116a81192a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5863d5366fd94e230040f81d3f67f4c75fd3fe3b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119955424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263291"
 ---
 # <a name="mf_pd_asf_metadata_is_vbr-attribute"></a>MF \_ PD \_ \_ метаданные ASF \_ — \_ атрибут VBR
 
@@ -32,7 +32,7 @@ ms.locfileid: "119955424"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -44,7 +44,7 @@ ms.locfileid: "119955424"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 2f469332-6b3e-475a-9ec6-782e1e445672
 title: Указание протокола проверки подлинности
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 86c4688894543a45f49c4af470658da97e30a159c47025398ac7c7ae5e0620e4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6e9bb2ec20df1ec398f32f3a1ee17334c10d9735
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119610514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347547"
 ---
 # <a name="specifying-the-authentication-protocol"></a>Указание протокола проверки подлинности
 
@@ -32,7 +32,7 @@ ms.locfileid: "119610514"
 
 4.  В разделе **Проверка подлинности сообщений MSMQ** выберите переключатель, связанный с протоколом проверки подлинности, который требуется реализовать.
 
-5.  Нажмите **OK**.
+5.  Нажмите кнопку **ОК**.
 
 ## <a name="visual-basic"></a>Visual Basic
 

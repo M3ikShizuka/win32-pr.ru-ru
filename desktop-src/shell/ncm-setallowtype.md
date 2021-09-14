@@ -13,12 +13,12 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: d3fc6b8ceb848d4738ff2d77b4441a29354bf09248e0de88008072dbf867e8a4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d9cc822e07022a01439fbe7e41243bd1b78e636b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118719928"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346351"
 ---
 # <a name="ncm_setallowtype-message"></a>\_Сообщение НКМ сеталловтипе
 
@@ -65,7 +65,7 @@ NCM_SETALLOWTYPE
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Шеллапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Шеллапи. h</dt> </dl> |
 
 
 

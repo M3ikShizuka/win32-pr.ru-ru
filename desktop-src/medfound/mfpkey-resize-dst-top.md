@@ -4,12 +4,12 @@ ms.assetid: 66147460-b8c2-4d80-9a87-a2eeeea66cfa
 title: Свойство MFPKEY_RESIZE_DST_TOP (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f40434f876fc18e2440a5cbd9e2539bd9e41cecbd671a3c451355824a866e4b6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fb4887dd0f7996dca973c690752bbdb8f8716927
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117689572"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346538"
 ---
 # <a name="mfpkey_resize_dst_top-property"></a>МФПКЭЙ \_ изменить размер \_ \_ свойства Top DST
 
@@ -39,7 +39,7 @@ VT \_ I4
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

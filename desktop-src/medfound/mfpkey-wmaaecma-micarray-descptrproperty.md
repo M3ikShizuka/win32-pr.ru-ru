@@ -4,12 +4,12 @@ ms.assetid: 1d91bdc8-5a09-487d-b45e-80d57a44cd0e
 title: Свойство MFPKEY_WMAAECMA_MICARRAY_DESCPTR (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7b2bf0b495e7b57ba60cf5cc993b85a143836c8666e06d6b849ece3693b2a334
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e433f50d9d7640575f1314c5acc13d7751fde0cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119722948"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263203"
 ---
 # <a name="mfpkey_wmaaecma_micarray_descptr-property"></a>МФПКЭЙ \_ вмааекма \_ микаррай \_ дескптр, свойство
 
@@ -33,7 +33,7 @@ ms.locfileid: "119722948"
 
 Задайте это свойство, если вы используете DSP в режиме фильтрации, а обработка массивов микрофонов включена. При использовании DSP в режиме исходного кода DSP автоматически запрашивает у устройства сведения о геометрических данных.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -45,7 +45,7 @@ ms.locfileid: "119722948"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

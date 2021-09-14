@@ -4,12 +4,12 @@ ms.assetid: 5b8fd559-b1be-4552-a7be-19ad107855af
 title: Записи autorun. INF
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 221e0a99e6352b5cfe50f3c3c0c2939933ff6c6f862e1a03b54127968b9c1838
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 56d93244f177d107bddc720fab1d0c774fd94735
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119937164"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346374"
 ---
 # <a name="autoruninf-entries"></a>Записи autorun. INF
 
@@ -151,7 +151,7 @@ icon=MyProg.exe,1
 
 
 
-### <a name="label"></a>метка
+### <a name="label"></a>label
 
 в записи **label** указана текстовая метка, представляющая диск с поддержкой автозапуска в Windows пользовательском интерфейсе.
 

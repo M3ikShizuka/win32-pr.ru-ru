@@ -5,11 +5,11 @@ ms.assetid: 23d1e222-c00b-497c-adc8-4ae14c5bdd98
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: c7feaaf356263a48c2c93eb9b3b3764b7352cd39
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369661"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347659"
 ---
 # <a name="setting-system-wide-security-using-dcomcnfg"></a>Настройка безопасности System-Wide с помощью DCOMCNFG
 
@@ -27,7 +27,7 @@ ms.locfileid: "124369661"
 -   [Настройка уровня олицетворения System-Wide](#setting-system-wide-impersonation-level)
 -   [Настройка отслеживания ссылок System-Wide](#setting-system-wide-reference-tracking)
 -   [Включение и отключение DCOM](#enabling-and-disabling-dcom)
--   [Связанные разделы](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="setting-system-wide-default-authentication-level"></a>Настройка System-Wide уровня проверки подлинности по умолчанию
 
@@ -130,7 +130,7 @@ Dcomcnfg.exe позволяет задать разрешения на дост�
 
 4.  Если будут заданы дополнительные свойства для компьютера, нажмите кнопку **Применить** , чтобы включить (или отключить) DCOM. В противном случае нажмите кнопку **ОК** , чтобы применить изменения и выйти Dcomcnfg.exe.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

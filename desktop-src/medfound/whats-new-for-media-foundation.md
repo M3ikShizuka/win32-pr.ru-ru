@@ -4,12 +4,12 @@ ms.assetid: c345c0d9-5325-4f73-b9ec-1673ad10e3e4
 title: Новые возможности для Media Foundation
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2fd2cd2b70ce23968ba9a302e4ab4e825914931ebffff651b534ee0974d75cee
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e0270c28e5aca2a1f0fdad893743a1e8fb630fa5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120012064"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263163"
 ---
 # <a name="whats-new-for-media-foundation"></a>Новые возможности для Media Foundation
 

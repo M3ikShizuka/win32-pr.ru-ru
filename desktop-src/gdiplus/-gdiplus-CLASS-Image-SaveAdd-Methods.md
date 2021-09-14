@@ -4,12 +4,12 @@ ms.assetid: e597f6e6-6e07-4afb-8905-26e4af961685
 title: Методы Image. Савеадд (Гдиплушеадерс. h)
 ms.date: 07/02/2019
 ms.topic: reference
-ms.openlocfilehash: b9a18e1c74bf858db8ee3f8877a714338c1ed8b08a87b9e501dcc980bb6f78e2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a2b65c6fe56507538f092edc7128497de5cb2f00
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119717594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346686"
 ---
 # <a name="imagesaveadd-methods"></a>Методы Image. Савеадд
 
@@ -26,7 +26,7 @@ ms.locfileid: "119717594"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

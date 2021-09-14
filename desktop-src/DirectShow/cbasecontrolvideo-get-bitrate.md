@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: b33e3584bb0460b798101d8062c3647b983841c77653adcffd18580eade25c6b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 62f1feaed786b397801bbd17d2d2d41c0ccb813d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120057274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347095"
 ---
 # <a name="cbasecontrolvideoget_bitrate-method"></a>Метод Кбасеконтролвидео. Get \_ скорость
 
@@ -57,7 +57,7 @@ HRESULT get_BitRate(
 
 Эта функция члена реализует метод [**ибасиквидео:: Get \_ скорость**](/windows/desktop/api/Control/nf-control-ibasicvideo-get_bitrate) . Он вызывает чисто виртуальный [**кбасеконтролвидео:: жетвидеоформат**](cbasecontrolvideo-getvideoformat.md) для получения структуры [**видеоинфохеадер**](/previous-versions/windows/desktop/api/amvideo/ns-amvideo-videoinfoheader) из производного класса.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ HRESULT get_BitRate(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

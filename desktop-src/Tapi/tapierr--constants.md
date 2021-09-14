@@ -4,12 +4,12 @@ ms.assetid: 6d1cf18b-efeb-4703-9b8e-fce59b61b63f
 title: Константы TAPIERR_ (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 40f84e8f5cbe840ba428575d3ea6aeff40242fdbd2b97440d7538893421eab7d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2e8a60e2a625ff456a4a8aa2730b80000e92ff54
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119773044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347759"
 ---
 # <a name="tapierr_-constants"></a>\_Константы тапиерр
 

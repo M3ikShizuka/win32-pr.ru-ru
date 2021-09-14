@@ -4,12 +4,12 @@ ms.assetid: 29c7fc1c-2047-4562-ba14-48f9cfbfe68c
 title: Свойство MFPKEY_VTYPE (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5f406f0bc91e3431672c2b7f92cc544273e2a64403017a22eb4567054cef0155
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6e95bab3120e60a2faa1a3be47c6459205f5f34d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118973343"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263216"
 ---
 # <a name="mfpkey_vtype-property"></a>МФПКЭЙ \_ втипе, свойство
 
@@ -58,7 +58,7 @@ VT \_ I4
 
 При кодировании смешанного содержимого (содержащего как прогрессивные, так и чередующиеся кадры) лучше использовать значение автокадров/поле/прогрессивный метод (4).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ VT \_ I4
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -13,12 +13,12 @@ api_type:
 api_location:
 - Shell32.dll
 ms.assetid: 5cf2610e-fbd2-4e87-a323-f024283db546
-ms.openlocfilehash: f26f5bb8bc8413c633bfe5a2757eceb7ccab9e32d411020b0bd113d4c4919f12
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 389c07325f4e504424c43b0983eaa643ea608008
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118969453"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346371"
 ---
 # <a name="didiskquotauserid-property"></a>DIDiskQuotaUser.ID, свойство
 
@@ -43,7 +43,7 @@ iID = DIDiskQuotaUser.ID
 
 это свойство предназначено для использования в таких языках, как Microsoft Visual Basic, которые не поддерживают указатели.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ iID = DIDiskQuotaUser.ID
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

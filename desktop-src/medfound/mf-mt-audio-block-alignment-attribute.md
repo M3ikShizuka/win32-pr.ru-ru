@@ -4,12 +4,12 @@ ms.assetid: 7d304826-ad81-4243-a675-2f55b668b348
 title: Атрибут MF_MT_AUDIO_BLOCK_ALIGNMENT (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d5985485313bda76221a9a45dc4a6aa9f257884766398dce8a9301401d49ea2f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 21efb14cbb89d1773fe9bc3b5ade8d0a50555a1c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120113894"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346567"
 ---
 # <a name="mf_mt_audio_block_alignment-attribute"></a>\_ \_ \_ Атрибут выравнивания звукового блока MF MT \_
 
@@ -27,7 +27,7 @@ ms.locfileid: "120113894"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -39,7 +39,7 @@ ms.locfileid: "120113894"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

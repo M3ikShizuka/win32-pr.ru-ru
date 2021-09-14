@@ -5,11 +5,11 @@ title: куериконтрол
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 3652a46d403bc258226de5a48f34ae16960ff517
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122626320"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127262979"
 ---
 # <a name="querycontrol"></a>куериконтрол
 
@@ -51,7 +51,7 @@ ms.locfileid: "122626320"
 
 | Родительский элемент                                   | Дочерние элементы |
 |--------------------------------------------------|----------------|
-| [displayInfo](./propdesc-schema-displayinfo.md) | None           |
+| [displayInfo](./propdesc-schema-displayinfo.md) | Нет           |
 
 
 
@@ -69,7 +69,7 @@ ms.locfileid: "122626320"
 <thead>
 <tr class="header">
 <th>Атрибут</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -95,7 +95,7 @@ ms.locfileid: "122626320"
 <thead>
 <tr class="header">
 <th>Исключением</th>
-<th>Элемент</th>
+<th>Control</th>
 </tr>
 </thead>
 <tbody>
@@ -157,7 +157,7 @@ ms.locfileid: "122626320"
 <td>Использует элемент управления рейтингом «5 звезд».</td>
 </tr>
 <tr class="odd">
-<td>текст</td>
+<td>Текст</td>
 <td>Использует элемент управления редактированием текста.</td>
 </tr>
 </tbody>

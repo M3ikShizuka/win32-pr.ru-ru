@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: e9ab7cbb5d199b0908c2eb51ffb5a70eda7eb1336bd66a1645daad61b3202d69
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c1aa3d4960799c2286e17709258ea90b76332bc2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120056714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347075"
 ---
 # <a name="cbasecontrolwindowsetcontrolwindowpin-method"></a>Кбасеконтролвиндов. Сетконтролвиндовпин, метод
 
@@ -57,7 +57,7 @@ void SetControlWindowPin(
 
 Эта функция члена задает \_ переменную члена m ппин, равную параметру ппин. Как описано в конструкторе, интерфейс можно вызывать только после успешного подключения фильтра. Объект передается через эту функцию-член в закрепление, с которым она должна быть синхронизирована; в большинстве случаев он определяет, подключен ли ПИН-код каждый раз, когда он имеет метод интерфейса, и \_ при сбое ВОЗВРАЩАЕТ VFW E \_ Not \_ Connected.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ void SetControlWindowPin(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

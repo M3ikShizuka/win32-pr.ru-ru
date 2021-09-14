@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: dbf010482472077a876fcb8bf06fddd0d57ffa32e2ea1203c0401e56fd69b5d1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9877300a2135b7082677193696cd2d11811ab3dc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119081008"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347155"
 ---
 # <a name="changestartmode-method-of-the-win32_baseservice-class"></a>Метод Чанжестартмоде \_ класса Win32 басесервице
 
@@ -342,7 +342,7 @@ uint32 ChangeStartMode(
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -356,7 +356,7 @@ uint32 ChangeStartMode(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

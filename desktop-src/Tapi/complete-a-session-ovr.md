@@ -4,12 +4,12 @@ ms.assetid: 71e61376-7913-42a9-a8e2-2ea6e4918f30
 title: Завершение сеанса
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 20686f89feef5bb73d4ccbb786482f2528d700f42f0c4359fd965418077b8544
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5736b6be452413811f3530f44db280fe4e2a682f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118867982"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347822"
 ---
 # <a name="complete-a-session"></a>Завершение сеанса
 

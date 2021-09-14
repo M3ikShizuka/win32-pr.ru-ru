@@ -15,11 +15,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 124f8d883b89379e4b36c5dd33b029718fbbd469
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104538780"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347162"
 ---
 # <a name="changesecuritypermissionsex-method-of-the-win32_shortcutfile-class"></a>Метод Чанжесекуритипермиссионсекс \_ класса Win32 шорткутфиле
 
@@ -196,12 +196,12 @@ uint32 ChangeSecurityPermissionsEx(
 
 </dd> <dt>
 
-**Платформа не NT/Windows 2000**
+**платформа не NT/Windows 2000**
 </dt> <dd>
 
 12
 
-Платформа не является Windows.
+Платформа не Windows.
 
 </dd> <dt>
 

@@ -13,12 +13,12 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 03991e1d87ed9e607d0e55f2788921db88017499a5e81876f2e4d8622e2f52d3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d0db40f7c1f54cd13d54765ba34a8eab31246809
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118048561"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346326"
 ---
 # <a name="sfvm_getbuttoninfo-message"></a>\_Сообщение сфвм жетбуттонинфо
 

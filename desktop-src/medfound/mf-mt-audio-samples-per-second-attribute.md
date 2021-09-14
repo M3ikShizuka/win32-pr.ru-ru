@@ -4,12 +4,12 @@ ms.assetid: f640016d-595e-4b20-8ce8-23a029c2b064
 title: Атрибут MF_MT_AUDIO_SAMPLES_PER_SECOND (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3b9fdf7e7d121e34f676e3d6fbfc2b9c7ae1004562b700b903cb4bc1f2a467e4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 93a91b44ba4c55bf2512eefddfe3bc7a18d2eddd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118973603"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346563"
 ---
 # <a name="mf_mt_audio_samples_per_second-attribute"></a>\_ \_ Атрибуты звуковых \_ образцов MF MT \_ в \_ секунду
 
@@ -25,7 +25,7 @@ ms.locfileid: "118973603"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -37,7 +37,7 @@ ms.locfileid: "118973603"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

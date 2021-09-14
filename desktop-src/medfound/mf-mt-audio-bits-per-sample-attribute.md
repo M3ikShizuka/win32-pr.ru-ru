@@ -4,12 +4,12 @@ ms.assetid: d78a8c4d-377e-45eb-9cf6-2d61b34e82d6
 title: Атрибут MF_MT_AUDIO_BITS_PER_SAMPLE (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6b9697ff5ce97bc7dd9066b57f94e41ff02a599fcf14d1ea8f51c9dea69efc7f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 896e77c937269b63208cb4bff73482a8df8596aa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119104560"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263320"
 ---
 # <a name="mf_mt_audio_bits_per_sample-attribute"></a>\_ \_ Звуковой бит MF \_ MT \_ на \_ образец атрибута
 
@@ -37,7 +37,7 @@ ms.locfileid: "119104560"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Приложения UWP для классических приложений Vista \|\]<br/>                              |
 | Минимальная версия сервера<br/> | Windows \[Приложения UWP для классических приложений сервера 2008 \|\]<br/>                        |
-| Header<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
 
 
 

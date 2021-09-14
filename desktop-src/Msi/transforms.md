@@ -5,11 +5,11 @@ title: Свойство TRANSFORMs
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: f873e439ef9542efa618a8e86c9667a3c962939f
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122474320"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266019"
 ---
 # <a name="transforms-property"></a>Свойство TRANSFORMs
 
@@ -53,7 +53,7 @@ TRANSFORMS=:transform1.mst;:transform2.mst;transform3.mst
 
 Обратите внимание, что, поскольку разделитель списка для преобразований является символом точки с запятой, точка с запятой не должна использоваться в имени файла преобразования или пути.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 в случаях, когда для [политики трансформссекуре](transformssecure-policy.md) или свойства [**трансформссекуре**](transformssecure.md) задано значение установщик Windows, \| при настройке **преобразований** с помощью командной строки необязательно передавать символ @ или. Если список состоит только из имен файлов, расположенных в источнике или состоящих только из полных путей, установщик предполагает, что он защищен-at-source или Secure-Full-Path. Вы по-прежнему не можете смешивать два типа источников преобразования.
 

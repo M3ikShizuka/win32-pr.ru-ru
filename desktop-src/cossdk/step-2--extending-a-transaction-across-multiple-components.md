@@ -4,12 +4,12 @@ ms.assetid: 20a30e87-e209-45ae-bf1b-722568758c47
 title: Шаг 2. расширение транзакции для нескольких компонентов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 96aa168eca7bfba29a4b00a6cd24b45d06c7610c76d47a4d6454e77295e57bc4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 99c6fc80016904a3ea51b7aea7fa0ec93edc47a6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117915815"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347539"
 ---
 # <a name="step-2-extending-a-transaction-across-components"></a>Шаг 2. расширение транзакции между компонентами
 
@@ -63,7 +63,7 @@ UnexpectedError:
 
 При `ValidateAuthorAddress` возврате вызывающему объекту COM+ читает свой голос в качестве фиксации. COM+ не учитывает голоса до тех пор, пока не будет отключен корневой объект, который является первым объектом в транзакции в данном случае, `UpdateAuthorAddress` объектом.
 
-## <a name="sample-code"></a>Пример кода
+## <a name="sample-code"></a>Образец кода
 
 `ValidateAuthorAddress`Компонент выполняет простую проверку адреса автора. Так как не продается `UpdateAuthorAddress` явно, com+ использует параметры голосования по умолчанию.
 

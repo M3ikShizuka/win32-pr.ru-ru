@@ -4,12 +4,12 @@ ms.assetid: f4af55b1-e20b-4fe8-a15e-a1a68d22f1b9
 title: 'Итсдп: метод ut_MachineAddress:p (Сдпблб. h)'
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 974286e846268686423d0ebdbbd083d07e9946401cb0192713b200b2354b89c2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ec09d41cb7735383f08ce8c8983331165c54fa8a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119060802"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347795"
 ---
 # <a name="itsdpput_machineaddress-method"></a>Итсдп::p UT \_ мачинеаддресс метод
 
@@ -65,7 +65,7 @@ HRESULT put_MachineAddress(
 
 Эта функция может передавать данные по сети в незашифрованном виде; Таким образом, кто-то, кто прослушивает сеть, может прочитать данные. Прежде чем использовать этот метод, следует учесть угрозу безопасности при отправке данных в виде открытого текста.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,7 +78,7 @@ HRESULT put_MachineAddress(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

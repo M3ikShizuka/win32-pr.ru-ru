@@ -4,12 +4,12 @@ ms.assetid: 9ab9ac2d-bf1d-419c-8f6b-e2ee80a4bf20
 title: Шаг 1. Создание транзакционного компонента
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 87f5c87fb5c5f615ee04a3233f1a563d5ae5230e4dd18908c78e94092ff0f5c4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fdc378d85e628504e8724b765362b3397826f5e5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118305417"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347543"
 ---
 # <a name="step-1-creating-a-transactional-component"></a>Шаг 1. Создание транзакционного компонента
 
@@ -45,7 +45,7 @@ ms.locfileid: "118305417"
 
 COM+ привязывает службу транзакций с JIT-активацией и параллелизмом. Когда компонент объявляется транзакционным, COM+ также обеспечивает принудительную JIT-активацию и защиту параллелизма (синхронизацию).
 
-## <a name="sample-code"></a>Пример кода
+## <a name="sample-code"></a>Образец кода
 
 Компонент Упдатеаусораддресс открывает подключение к базе данных pubs, позволяя пользователю изменять имя автора, адрес или состояние контракта. Он также вызывает второй компонент, который рассматривается в разделе [Шаг 2. расширение транзакции для нескольких компонентов](step-2--extending-a-transaction-across-multiple-components.md).
 

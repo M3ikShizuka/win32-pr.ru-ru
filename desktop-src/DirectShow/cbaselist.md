@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 5616edd16921bb2ae4d1a0b7ad67f5bbec3fba560594d4710512bd2cec6f275f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c6aa4a3c80cd583bd3cc83a2a0adedecb6caaf7c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117823713"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347027"
 ---
 # <a name="cbaselist-class"></a>Класс Кбаселист
 
@@ -68,7 +68,7 @@ ms.locfileid: "117823713"
 | [**аддбефоре**](cbaselist-addbefore.md)               | Вставляет список перед указанной позицией.                             |
 | [**моветотаил**](cbaselist-movetotail.md)             | Разделяет список и добавляет к концу другого списка часть заголовка. |
 | [**моветохеад**](cbaselist-movetohead.md)             | Разделяет список и вставляет фрагмент хвоста в заголовок другого списка. |
-| [**Reverse**](cbaselist-reverse.md)                   | Изменяет порядок списка на обратный.                                           |
+| [**Отмена**](cbaselist-reverse.md)                   | Изменяет порядок списка на обратный.                                           |
 
 
 
