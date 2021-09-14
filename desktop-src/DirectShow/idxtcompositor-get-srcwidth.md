@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: dfac81b82a59883d4ce382ea81efd42fa64076fecc81069787edeb1778066f1b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: abd368c32b11b064f37c5c416cd944ee999272b4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120042914"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971489"
 ---
 # <a name="idxtcompositorget_srcwidth-method"></a>Метод Идксткомпоситор:: Get \_ срквидс
 
@@ -56,7 +56,7 @@ HRESULT get_SrcWidth(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.

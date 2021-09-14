@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 2d88384a52188d21aef5ab9a3af8841dd8acd507f1ba03b4fd93eba0c0da75b4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6ba5c6808e091f48baac7d8928e327f45773e13a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120103134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971613"
 ---
 # <a name="csourceseekingconverttimeformat-method"></a>Ксаурцесикинг. Конверттимеформат, метод
 
@@ -81,7 +81,7 @@ HRESULT ConvertTimeFormat(
 
 | Код возврата                                                                                  | Описание                          |
 |----------------------------------------------------------------------------------------------|--------------------------------------|
-| <dl> <dt>**\_ОК**</dt> </dl>         | Success<br/>                   |
+| <dl> <dt>**\_ОК**</dt> </dl>         | Успешное завершение<br/>                   |
 | <dl> <dt>**E \_ INVALIDARG**</dt> </dl> | Недопустимый аргумент<br/>          |
 | <dl> <dt>**\_указатель E**</dt> </dl>    | **Пустой** аргумент указателя<br/> |
 
@@ -89,11 +89,11 @@ HRESULT ConvertTimeFormat(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Единственный формат времени, поддерживаемый базовым классом, — это \_ \_ время носителя формата времени \_ (100-наносекундных единиц). Этот метод возвращает E \_ INVALIDARG, за исключением тривиальных случаев, где *Птаржетформат* и *псаурцеформат* УКАЗЫВАЮТ время хранения в \_ формате времени \_ носителя \_ .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -104,7 +104,7 @@ HRESULT ConvertTimeFormat(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 3a02855480a27851ba1d8e5f45f4ad8687aa1257f59c8fd108892cfa5f10f782
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7a1e32d5c38c69b61e52e7e66cc40d59ffae31c2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120051574"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971481"
 ---
 # <a name="idxtcompositorput_srcwidth-method"></a>Идксткомпоситор::p UT \_ срквидс метод
 
@@ -56,7 +56,7 @@ HRESULT put_SrcWidth(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.
@@ -68,7 +68,7 @@ HRESULT put_SrcWidth(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -79,7 +79,7 @@ HRESULT put_SrcWidth(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

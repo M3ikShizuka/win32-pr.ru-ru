@@ -10,12 +10,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 1c6f60b21dee729a879aaeab676da67b06ca0a822bcfd6509bc0f406f96fecec
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 886046f5ffef366cdba2efb86629019f2ee0b5e5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118554249"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971448"
 ---
 # <a name="registering-for-system-registry-events"></a>Регистрация для событий системного реестра
 
@@ -29,7 +29,7 @@ ms.locfileid: "118554249"
 
 1.  Вызов метода запроса уведомления.
 
-    В любом скрипте или C++ используйте запрос уведомления, например [**SWbemServices.Exeкнотификатионкуерясинк**](swbemservices-execnotificationqueryasync.md) или [**IWbemServices:: ExecNotificationQueryAsync**](/windows/desktop/api/WbemCli/nf-wbemcli-iwbemservices-execnotificationqueryasync). Создайте строку запроса для параметра *Бстркуери* **IWbemServices:: ExecNotificationQueryAsync** или *стркуери* в скрипте.
+    В любом скрипте или C++ используйте запрос уведомления, например [**SwbemServices. ExecNotificationQueryAsync**](swbemservices-execnotificationqueryasync.md) или [**IWbemServices:: ExecNotificationQueryAsync**](/windows/desktop/api/WbemCli/nf-wbemcli-iwbemservices-execnotificationqueryasync). Создайте строку запроса для параметра *Бстркуери* **IWbemServices:: ExecNotificationQueryAsync** или *стркуери* в скрипте.
 
 2.  Определите тип события, которое требуется получить, и создайте запрос.
 
@@ -39,7 +39,7 @@ ms.locfileid: "118554249"
 
     | Класс событий                                                      | Расположение Hive        | Описание                                                 |
     |------------------------------------------------------------------|----------------------|-------------------------------------------------------------|
-    | [**регистревент**](/previous-versions/windows/desktop/regprov/registryevent)                       | Н/Д<br/>       | Абстрактный базовый класс для изменений в реестре.<br/> |
+    | [**регистревент**](/previous-versions/windows/desktop/regprov/registryevent)                       | Недоступно<br/>       | Абстрактный базовый класс для изменений в реестре.<br/> |
     | [**регистритричанжеевент**](/previous-versions/windows/desktop/regprov/registrytreechangeevent)   | RootPath<br/>  | Отслеживает изменения в иерархии ключей.<br/>         |
     | [**регистрикэйчанжеевент**](/previous-versions/windows/desktop/regprov/registrykeychangeevent)     | Путь<br/>   | Отслеживает изменения в одном ключе.<br/>                |
     | [**События registryvaluechangeevent**](/previous-versions/windows/desktop/regprov/registryvaluechangeevent) | ValueName<br/> | Отслеживает изменения в одном значении.<br/>              |
@@ -60,7 +60,7 @@ ms.locfileid: "118554249"
 
     Поставщик системного реестра не гарантирует, что все отправленные события будут доставлены. Дополнительные сведения см. в разделе [получение событий реестра](receiving-registry-events.md).
 
-В следующем примере кода VBScript показано, как определить изменение реестра в **\_ \_** \\  \\ кусте **Microsoft** Hive или поддереве в разделе "программное обеспечение на локальном компьютере". Это скрипт мониторинга, который в демонстрационных целях выполняется в процессе с именем Wscript.exe до тех пор, пока он не будет завершен в **диспетчере задач**, Инструментарий WMI остановлен или операционная система перезагружается. Скрипт использует вызов [*семисинчронаус*](gloss-s.md) для [**SWbemServices.Exeкнотификатионкуери**](swbemservices-execnotificationquery.md). Дополнительные сведения о вызовах семисинчронаус см. в разделе [выполнение вызова семисинчронаус с помощью VBScript](making-a-semisynchronous-call-with-vbscript.md).
+В следующем примере кода VBScript показано, как определить изменение реестра в **\_ \_** \\  \\ кусте **Microsoft** Hive или поддереве в разделе "программное обеспечение на локальном компьютере". Это скрипт мониторинга, который в демонстрационных целях выполняется в процессе с именем Wscript.exe до тех пор, пока он не будет завершен в **диспетчере задач**, Инструментарий WMI остановлен или операционная система перезагружается. Скрипт использует вызов [*семисинчронаус*](gloss-s.md) в [**SwbemServices. ексекнотификатионкуери**](swbemservices-execnotificationquery.md). Дополнительные сведения о вызовах семисинчронаус см. в разделе [выполнение вызова семисинчронаус с помощью VBScript](making-a-semisynchronous-call-with-vbscript.md).
 
 
 ```VB
@@ -81,7 +81,7 @@ Wend
 
 
 
-В следующем примере кода VBScript показано, как отслеживать изменение значений ключа путем регистрации для события поставщика реестра типа [**регистрикэйчанжеевент**](/previous-versions/windows/desktop/regprov/registrykeychangeevent). Скрипт вызывает асинхронный метод [**SWbemServices.Exeкнотификатионкуерясинк**](swbemservices-execnotificationqueryasync.md). Дополнительные сведения об асинхронных вызовах и безопасности см. [в разделе выполнение асинхронного вызова с помощью VBScript](making-an-asynchronous-call-with-vbscript.md).
+В следующем примере кода VBScript показано, как отслеживать изменение значений ключа путем регистрации для события поставщика реестра типа [**регистрикэйчанжеевент**](/previous-versions/windows/desktop/regprov/registrykeychangeevent). Скрипт вызывает асинхронный метод [**SwbemServices. ExecNotificationQueryAsync**](swbemservices-execnotificationqueryasync.md). Дополнительные сведения об асинхронных вызовах и безопасности см. [в разделе выполнение асинхронного вызова с помощью VBScript](making-an-asynchronous-call-with-vbscript.md).
 
 Следующий скрипт выполняется неограниченно до перезагрузки компьютера, Инструментарий WMI остановлен или сценарий остановлен. Чтобы прерывать выполнение скрипта вручную, используйте диспетчер задач, чтобы прерывать процесс. Чтобы остановить его программно, используйте метод [**Terminate**](/windows/desktop/CIMWin32Prov/terminate-method-in-class-win32-process) в \_ классе процесса Win32.
 

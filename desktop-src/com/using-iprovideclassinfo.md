@@ -5,11 +5,11 @@ ms.assetid: 16541aab-474f-4ae5-a6b6-fb2fea6d38ab
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 32a3abd61bb330a2a7d681b6d53648c5fbde8c53
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369797"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971306"
 ---
 # <a name="using-iprovideclassinfo"></a>Использование IProvideClassInfo
 
@@ -25,7 +25,7 @@ ms.locfileid: "124369797"
 
 В сведениях о типе [**источник**](/windows/desktop/Midl/source) атрибута помечает [**интерфейс**](/windows/desktop/Midl/interface) или [**DISP**](/windows/desktop/Midl/dispinterface) , указанный в [**компоненте coclass**](/windows/desktop/Midl/coclass) , как исходящий интерфейс. Указанные в списке без этого атрибута считаются входящими интерфейсами.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

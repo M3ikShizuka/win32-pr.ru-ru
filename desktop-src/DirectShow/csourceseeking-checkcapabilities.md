@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 332e5fc461a39eff7ebfc70aa32a9a4d1a28a6928c15f6222e3804e2a542f6ed
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 2f537973ac6c8f084ea42ba915a6293e581debef
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120087054"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971609"
 ---
 # <a name="csourceseekingcheckcapabilities-method"></a>Ксаурцесикинг. Чекккапабилитиес, метод
 
@@ -65,7 +65,7 @@ HRESULT CheckCapabilities(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Как реализованный, этот метод проверяет значение *\* пкапабилитиес* на соответствие переменной члена [**ксаурцесикинг:: m \_ двсикингкапс**](csourceseeking-m-dwseekingcaps.md) . Однако он не устанавливает *\* пкапабилитиес* равным **m \_ двсикингкапс**, как описано в методе [**имедиасикинг:: чекккапабилитиес**](/windows/desktop/api/Strmif/nf-strmif-imediaseeking-checkcapabilities) . Кроме того, в случае, если ни одна из указанных возможностей не доступна, метод не возвращает значение E \_ Failed. Более полная реализация будет выглядеть следующим образом:
 
@@ -100,7 +100,7 @@ STDMETHODIMP CheckCapabilities(DWORD *pCapabilities)
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -111,7 +111,7 @@ STDMETHODIMP CheckCapabilities(DWORD *pCapabilities)
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

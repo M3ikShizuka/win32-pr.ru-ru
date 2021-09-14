@@ -5,11 +5,11 @@ ms.assetid: 4d805532-96c9-400d-b78a-f8d0d9bdbf83
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 53ea1547c219a44262fdeaf7edb02f65c7a3aac6
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369678"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971396"
 ---
 # <a name="classifying-components"></a>Классификация компонентов
 
@@ -21,7 +21,7 @@ ms.locfileid: "124369678"
 
 В отличие от стандартной регистрации компонентов, в которой разработчики должны написать код, который вручную регистрирует объекты, категории компонентов автоматизируют большую часть этой работы. Шесть методов интерфейса [**икатрегистер**](/windows/desktop/api/ComCat/nn-comcat-icatregister) определяют категории компонентов и регистрируют объекты, реализующие или необходимые для них. Объект [диспетчера категорий компонентов](the-component-categories-manager.md) реализует этот интерфейс. Дополнительные сведения об использовании категорий компонентов см. в разделе **икатрегистер** и [**икатинформатион**](/windows/desktop/api/ComCat/nn-comcat-icatinformation) .
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

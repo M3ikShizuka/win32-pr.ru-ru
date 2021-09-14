@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - dvdevcode.h
-ms.openlocfilehash: ba262ca68ce9d76e9963fb54c325e9b7ba4dcf8352c9ede13c652bf0059e794a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ab6c1333245b589d4f13bafcba89eada3ef98ab0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119965744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971545"
 ---
 # <a name="ec_dvd_disc_ejected"></a>\_DVD- \_ диск EC \_ извлечен
 
@@ -42,7 +42,7 @@ ms.locfileid: "119965744"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Воспроизведение автоматически останавливается при извлечении диска. Приложению не нужно предпринимать никаких специальных действий в ответ на это событие.
 
