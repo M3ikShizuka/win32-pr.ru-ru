@@ -18,12 +18,12 @@ keywords:
 - Резервная копия SYSVOL
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6d825c6588242dccd5df16778de9c590e51b7cdbf6696be4f1a5e40ff2d967c4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e7058378561072bdc0f51abb455c098a22a9ad5e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119702194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972442"
 ---
 # <a name="registry-keys-and-values-for-backup-and-restore"></a>Разделы и значения реестра для резервного копирования и восстановления
 

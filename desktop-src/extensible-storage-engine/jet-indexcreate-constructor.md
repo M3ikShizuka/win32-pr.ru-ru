@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 97207bf2a6ac8e98c819d0c0e198fd2681a4d1ce6dcb0da3a1fe10151bd0103f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2ac7ae10c146af3819fe4ab364c1d55ab61330c9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119039092"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126962993"
 ---
 # <a name="jet_indexcreate-constructor"></a>Конструктор JET_INDEXCREATE
 
@@ -50,7 +50,7 @@ Dim instance As New JET_INDEXCREATE()
 public JET_INDEXCREATE()
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

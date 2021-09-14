@@ -12,12 +12,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0aceb8d343859f23018a5f29777599bbc7fc479828efdacaae3a4b87bb141b9b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0c45f004421a273f6dd2e6ab2d61810d9332ca17
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118126484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890453"
 ---
 # <a name="ui_animation_iteration_none"></a>Итерация анимации пользовательского интерфейса — \_ \_ \_ нет
 
@@ -28,7 +28,7 @@ ms.locfileid: "118126484"
 <span id="UI_ANIMATION_ITERATION_NONE"></span><span id="ui_animation_iteration_none"></span>**Итерация анимации пользовательского интерфейса — \_ \_ \_ нет**
 </dt> <dd> <dl> <dt>
 
-–1
+-1
 </dt> <dt>
 
 
@@ -38,7 +38,7 @@ ms.locfileid: "118126484"
 
 </dt> </dl> </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -51,7 +51,7 @@ ms.locfileid: "118126484"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

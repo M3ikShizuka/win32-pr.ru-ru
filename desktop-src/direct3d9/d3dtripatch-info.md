@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3D9Types.h
-ms.openlocfilehash: c20a846d13cd45bb8a1629fca0e958d3042aacf148c24b0633dd19fb5462bd66
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b910d38025c44d6157a76aa3e3425ba46d628787
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119850122"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963754"
 ---
 # <a name="d3dtripatch_info-structure"></a>\_Структура сведений о D3DTRIPATCH
 
@@ -38,7 +38,7 @@ typedef struct D3DTRIPATCH_INFO {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -90,7 +90,7 @@ typedef struct D3DTRIPATCH_INFO {
 |----------------------|--------------------|
 | D3DDEGREE \_ кубический     | 10                 |
 | \_Линейная D3DDEGREE    | 3                  |
-| D3DDEGREE, \_ квадрат | н/д                |
+| D3DDEGREE, \_ квадрат | Н/Д                |
 | D3DDEGREE \_ куинтик   | 21                 |
 
 
@@ -101,7 +101,7 @@ typedef struct D3DTRIPATCH_INFO {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Например, на следующей схеме определяются порядок вершин и номера сегментов для исправления треугольника Безье третьего порядка. Порядок вершин определяет номера сегментов, используемые [**дравтрипатч**](/windows/win32/api/d3d9helper/nf-d3d9helper-idirect3ddevice9-drawtripatch). Смещение — это число байтов для первого вершинного исправления треугольника в буфере вершин.
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 8e096e20122b6a5199b56369f4043dcbc3cdc9aeac95ed38bb1b006eafd10151
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4b6ce05d3a5d9c1831d0ed2900a4820fd72f7afb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118801871"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126884368"
 ---
 # <a name="id3dxprtbuffergetwidth-method"></a>ID3DXPRTBuffer:: Полуширинный, метод
 

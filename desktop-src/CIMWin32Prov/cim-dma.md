@@ -32,12 +32,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 82519db788c063909b48aec26f77c131865e4752f69b63feb1daf5d2e9745092
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 71fe9c0ad29afa7be20df6fbf05c5d1183d23d13
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119924114"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972314"
 ---
 # <a name="cim_dma-class"></a>\_Класс DMA CIM
 
@@ -77,7 +77,7 @@ class CIM_DMA : CIM_SystemResource
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ DMA CIM** имеет следующие типы членов:
 
@@ -507,7 +507,7 @@ class CIM_DMA : CIM_SystemResource
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -826,7 +826,7 @@ class CIM_DMA : CIM_SystemResource
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **\_ DMA CIM** является производным от [**CIM \_ системресаурце**](cim-systemresource.md).
 

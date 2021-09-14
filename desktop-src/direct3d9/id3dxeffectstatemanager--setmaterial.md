@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: 67e8b1ad498b5aacbae7aaad2d6b63fa406d54d6315a4e75b3028efe3107eaf8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b503bd195468fb323e7e655c0bdd201e25dfdce2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118802878"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052872"
 ---
 # <a name="id3dxeffectstatemanagersetmaterial-method"></a>Метод ID3DXEffectStateManager:: Сетматериал
 

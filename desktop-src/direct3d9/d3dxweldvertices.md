@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 3ce6a9a05573467e0725785a6272e5542c4f871080fe221ac12078b17165eb5a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 76e0a6f259bc8ba547a02b2e95cccf718d54e904
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118803277"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963729"
 ---
 # <a name="d3dxweldvertices-function"></a>Функция D3DXWeldVertices
 
@@ -115,7 +115,7 @@ HRESULT D3DXWeldVertices(
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция использует предоставляемые сведения о смежности для определения реплицируемых точек. Вершины сливаются на основе сравнения Эпсилон. Вершины с равным положением уже должны быть вычислены и представлены данными-представителями.
 

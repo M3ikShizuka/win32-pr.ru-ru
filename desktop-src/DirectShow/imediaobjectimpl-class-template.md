@@ -4,12 +4,12 @@ ms.assetid: 81d45b8d-8373-4e42-b768-f6126feb935d
 title: Шаблон класса Имедиаобжектимпл (Дмоимпл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 71b166836ff4da6100f61fca5d3a0c2887462b37adcbdd2ec61abeb919553a59
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4ecfa1be82ffeaa9e05eb6460249e0c40bb2989c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119015582"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886813"
 ---
 # <a name="imediaobjectimpl-class-template"></a>Шаблон класса Имедиаобжектимпл
 
@@ -37,7 +37,7 @@ ms.locfileid: "119015582"
 | [**интерналакцептингинпут**](/previous-versions/ms809095(v=msdn.10))   | Запрашивает, может ли входной поток принимать больше входных данных.               |
 | [**интерналчеккинпуттипе**](/previous-versions/ms809096(v=msdn.10))   | Запрашивает, может ли входной поток принимать заданный тип мультимедиа.       |
 | [**интерналчеккаутпуттипе**](/previous-versions/ms809098(v=msdn.10)) | Запрашивает, может ли выходной поток принимать заданный тип носителя.      |
-| [**Блокировка**](/previous-versions/ms809100(v=msdn.10))                                       | Блокирует DMO                                                        |
+| [**Скрыть**](/previous-versions/ms809100(v=msdn.10))                                       | Блокирует DMO                                                        |
 | [**OutputType**](/previous-versions/ms807644(v=msdn.10))                           | Извлекает текущий тип мультимедиа для указанного потока вывода.      |
 | [**аутпуттипесет**](/previous-versions/ms807649(v=msdn.10))                     | Запрашивает, задан ли тип мультимедиа в выходном потоке.          |
 | [**Блокирован**](/previous-versions/ms809101(v=msdn.10))                                   | Разблокирует DMO                                                      |

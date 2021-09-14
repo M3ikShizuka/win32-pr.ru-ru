@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 5ef025ee0807ca3e75577f26f81951db22dfb0ac
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369602"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971297"
 ---
 # <a name="verb"></a>Команда
 
@@ -28,7 +28,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID
          3 = ...
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Каждая команда является значением **reg \_ SZ** в форме "*имя*, *\_ флаг меню*, *\_ флаг команды*". Глаголы должны быть пронумерованы последовательно.
 
@@ -40,7 +40,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID
 
 Дополнительные сведения см. в статьях [**олеверб**](/windows/win32/api/oleidl/ns-oleidl-oleverb), [**Иолеобжект::D оверб**](/windows/desktop/api/OleIdl/nf-oleidl-ioleobject-doverb)и [**иолеобжект:: енумвербс**](/windows/desktop/api/OleIdl/nf-oleidl-ioleobject-enumverbs).
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

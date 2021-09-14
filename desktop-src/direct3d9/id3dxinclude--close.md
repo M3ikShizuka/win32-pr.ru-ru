@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: 32df78aedcf4e7e229eec8c9648c82c86f6fea9f4c7176b8780cee67ccf49fcb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b60d01d59a4e54fa0d50c16a3fc845ea4e316792
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118987404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052843"
 ---
 # <a name="id3dxincludeclose-method"></a>Метод ID3DXInclude:: Close
 
@@ -59,7 +59,7 @@ HRESULT Close(
 -   Шейдер сборки завершится ошибкой одной из \* \* \* функций D3DXAssembleShader.
 -   Этот результат приведет к сбою одной из \* \* \* функций D3DXCreateEffect или D3DXCreateEffectCompiler \* \* \* .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если [**ID3DXInclude:: Open**](id3dxinclude--open.md) завершился успешно, метод **ID3DXInclude:: Close** гарантированно будет вызываться до того, как интерфейс API, использующий этот интерфейс, возвратит значение.
 

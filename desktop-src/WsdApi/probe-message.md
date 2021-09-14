@@ -4,12 +4,12 @@ ms.assetid: a0ede1d9-2e13-4d5e-8ccd-9e0c0217cac7
 title: Сообщение пробы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 55358cfb8414fafabba6024fb448fe334d2f7cc6
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.openlocfilehash: 58f186de4f68faceca096ddaa231b57d1112bc1e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122627890"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971391"
 ---
 # <a name="probe-message"></a>Сообщение пробы
 
@@ -70,27 +70,27 @@ ms.locfileid: "122627890"
 <tr class="header">
 <th>точка фокусировки;</th>
 <th>XML</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>Проба</td>
-<td><pre class="syntax" data-space="preserve"><code><wsa:Action>
+<td><pre class="syntax" data-space="preserve"><code>&lt;wsa:Action&gt;
     https://schemas.xmlsoap.org/ws/2005/04/discovery/Probe
-</wsa:Action></code></pre></td>
+&lt;/wsa:Action&gt;</code></pre></td>
 <td>Действие проверки SOAP определяет сообщение как сообщение пробы.</td>
 </tr>
 <tr class="even">
 <td>MessageID</td>
-<td><pre class="syntax" data-space="preserve"><code><wsa:MessageID>
+<td><pre class="syntax" data-space="preserve"><code>&lt;wsa:MessageID&gt;
     urn:uuid:29cf10da-5c41-4d55-b184-5ee15e38ce23
-</wsa:MessageID></code></pre></td>
+&lt;/wsa:MessageID&gt;</code></pre></td>
 <td>Содержит идентификатор сообщения, на который ссылается элемент «текст сообщения об ошибке» в сообщении <a href="probematches-message.md">ProbeMatch</a> .</td>
 </tr>
 <tr class="odd">
 <td>Типы</td>
-<td><pre class="syntax" data-space="preserve"><code><wsd:Types>wsdp:Device</wsd:Types></code></pre></td>
+<td><pre class="syntax" data-space="preserve"><code>&lt;wsd:Types&gt;wsdp:Device</wsd:Types></code></pre></td>
 <td>Содержит типы WS-Discovery, для которых клиент выполняет поиск. Этот элемент не должен быть пустым.</td>
 </tr>
 </tbody>

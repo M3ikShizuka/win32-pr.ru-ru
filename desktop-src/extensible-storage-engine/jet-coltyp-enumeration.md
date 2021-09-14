@@ -51,11 +51,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 616dc80d835e22502b6781355a2eff35a6375e05
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105674231"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965753"
 ---
 # <a name="jet_coltyp-enumeration"></a>Перечисление JET_coltyp
 
@@ -77,7 +77,7 @@ Dim instance As JET_coltyp
 public enum JET_coltyp
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <table>
 <thead>
@@ -130,7 +130,7 @@ public enum JET_coltyp
 </tr>
 <tr class="odd">
 <td></td>
-<td>Дата/время</td>
+<td>Дата и время</td>
 <td>Целочисленная Дата, дробная часть времени.</td>
 </tr>
 <tr class="even">

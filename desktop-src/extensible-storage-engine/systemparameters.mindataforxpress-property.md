@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: e2f1a44fa45b07902bc0bf99961391209234f3506880399622a3b19ae56b2a52
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 358e37c952496faf10168e4ca3d593cb1b1318de
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118978504"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969021"
 ---
 # <a name="systemparametersmindataforxpress-property"></a>SystemParameters. Миндатафоркспресс, свойство
 
@@ -63,7 +63,7 @@ public static int MinDataForXpress { get; set; }
 
 Тип: [System. Int32](/dotnet/api/system.int32)  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

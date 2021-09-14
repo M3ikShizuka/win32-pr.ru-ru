@@ -4,12 +4,12 @@ ms.assetid: 996c97d6-e4c6-4189-89cb-912d28327453
 title: Свойство Авенкаудиомапдестчаннелн (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 600f7fb92d52839768771434b116ec8d54915b20ab2e0c1f42ffbf0a1b8415b9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c16e8ab45c7ed7dca7a81f72596047598a629db7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119824414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162051"
 ---
 # <a name="avencaudiomapdestchanneln-property"></a>Авенкаудиомапдестчаннелн, свойство
 
@@ -25,7 +25,7 @@ ms.locfileid: "119824414"
 
 **См. раздел Примечания.**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В этом справочном разделе описывается набор связанных свойств. Каждое свойство сопоставляет входной канал с указанным выходным каналом. Определены следующие свойства.
 

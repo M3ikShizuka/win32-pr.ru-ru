@@ -1,5 +1,5 @@
 ---
-description: Интерфейс Иамтимелине предоставляет методы для управления временной шкалой, центральным объектом в службах редактирования Microsoft DirectShow (DES).
+description: интерфейс иамтимелине предоставляет методы для управления временной шкалой, центральным объектом в службах Microsoft DirectShow editing Services (DES).
 ms.assetid: 6750efa0-946c-4ad3-b0df-de55872b94c3
 title: Интерфейс Иамтимелине (Кедит. h)
 ms.topic: reference
@@ -15,11 +15,11 @@ api_location:
 - strmiids.lib
 - strmiids.dll
 ms.openlocfilehash: fc4374a198232625b87448004b667ccd8ce0183b
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105679794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126892189"
 ---
 # <a name="iamtimeline-interface"></a>Интерфейс Иамтимелине
 
@@ -28,7 +28,7 @@ ms.locfileid: "105679794"
 
  
 
-`IAMTimeline`Интерфейс предоставляет методы для управления временной шкалой, центральным объектом в [службах редактирования Microsoft DirectShow](directshow-editing-services.md) (DES). Временная шкала — это коллекция элементов, упорядоченных по времени, таких как видеоклипы, звуковые клипы, эффекты и переходы между клипами. Модуль подготовки отчетов использует временную шкалу для создания графа фильтра, из которого приложение может формировать отображаемые выходные данные.
+`IAMTimeline`интерфейс предоставляет методы для управления временной шкалой, центральным объектом в [службах Microsoft DirectShow editing Services](directshow-editing-services.md) (DES). Временная шкала — это коллекция элементов, упорядоченных по времени, таких как видеоклипы, звуковые клипы, эффекты и переходы между клипами. Модуль подготовки отчетов использует временную шкалу для создания графа фильтра, из которого приложение может формировать отображаемые выходные данные.
 
 `IAMTimeline` выполняет три основные службы. Он
 
@@ -94,7 +94,7 @@ ms.locfileid: "105679794"
  
 
 > [!Note]  
-> Чтобы получить Кедит. h, скачайте [обновление Microsoft Windows SDK для Windows Vista и платформа .NET Framework 3,0](https://msdn.microsoft.com/windowsvista/bb980924.aspx). Кедит. h недоступен в Microsoft Windows SDK для Windows 7 и платформа .NET Framework 3,5 с пакетом обновления 1 (SP1).
+> чтобы получить кедит. h, скачайте [обновление Microsoft Windows SDK для Windows Vista и платформа .NET Framework 3,0](https://msdn.microsoft.com/windowsvista/bb980924.aspx). кедит. h недоступен в Microsoft Windows SDK для Windows 7 и платформа .NET Framework 3,5 с пакетом обновления 1 (sp1).
 
  
 
@@ -104,7 +104,7 @@ ms.locfileid: "105679794"
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Кедит. h</dt> </dl>      |
+| Заголовок<br/>  | <dl> <dt>Кедит. h</dt> </dl>      |
 | Библиотека<br/> | <dl> <dt>Стрмиидс. lib</dt> </dl> |
 
 

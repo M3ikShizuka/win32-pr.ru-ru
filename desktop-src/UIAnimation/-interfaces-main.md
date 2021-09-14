@@ -4,12 +4,12 @@ description: справочная документация по интерфей
 ms.assetid: b54e319c-e140-4fd9-8045-5eb6f4a31326
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ebd211186fa38d302d7d6c9feb4ec4edf38d73b9d5aabfcbbd6613fcf6e44d89
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: eb6755dd964c67d8af4e812b2f82fd5935a098d8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119768804"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890456"
 ---
 # <a name="interfaces-windows-animation"></a>интерфейсы (Windowsная анимация)
 

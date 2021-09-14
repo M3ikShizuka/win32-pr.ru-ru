@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 85874c79db8f3174b70af68c3ff1e58511c3f00cc7d648389dbca971c7efd96e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d27363383d72110ebe7b3e94187013ab701a6a3c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118342912"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889424"
 ---
 # <a name="buttonimage"></a>BUTTON. Image
 
@@ -31,7 +31,7 @@ ms.locfileid: "118342912"
 
 Этот атрибут является **строкой** для чтения и записи, содержащей имя файла изображения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Поддерживаются форматы изображений BMP, JPG, PNG и GIF (включая анимированные GIF).
 

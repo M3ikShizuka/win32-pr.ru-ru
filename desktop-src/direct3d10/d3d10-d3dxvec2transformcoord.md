@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: 67cdde2ba057f41d8a1929e6f641b22d05919b698fee61fd8351deb64b27f5ee
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 95321d377ad5af29075764e2c2d9386abf5b1441
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118990684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970010"
 ---
 # <a name="d3dxvec2transformcoord-function-d3dx10mathh"></a>Функция D3DXVec2TransformCoord (D3DX10Math. h)
 
@@ -75,7 +75,7 @@ D3DXVECTOR2* D3DXVec2TransformCoord(
 
 Указатель на структуру D3DXVECTOR2, которая является преобразованным вектором.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция преобразует вектор, НЗ (x, y, 0, 1), по матрице, в проекцию результата обратно в w = 1.
 

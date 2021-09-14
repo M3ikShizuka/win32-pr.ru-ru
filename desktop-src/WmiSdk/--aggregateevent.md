@@ -17,11 +17,11 @@ api_type:
 api_location:
 - All
 ms.openlocfilehash: f93a962e57452ac555214e42f00af8ac8a4ea3db
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105684314"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967181"
 ---
 # <a name="__aggregateevent-class"></a>\_\_Класс Аггрегативент
 
@@ -39,13 +39,13 @@ class __AggregateEvent : __IndicationRelated
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ \_ аггрегативент** имеет следующие типы членов:
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **\_ \_ аггрегативент** имеет следующие свойства.
 

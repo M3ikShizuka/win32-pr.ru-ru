@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4737be14f3e975f87a6cbea460ef53dd40ecbb7b6a2d06c39a247dbe8aa0a14e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 817b355e78f22c01c289f681d256ee6b4d0aa882
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118958303"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972097"
 ---
 # <a name="lvm_getitemstate-message"></a>\_Сообщение LVM жетитемстате
 
@@ -62,7 +62,7 @@ ms.locfileid: "118958303"
 
 Возвращает текущее состояние указанного элемента. Единственными допустимыми битами в возвращаемом значении являются те, которые соответствуют битам, заданным в параметре *lParam* .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сведения о состоянии элемента включают набор битовых флагов, а также индексы списка изображений, которые указывают изображение состояния элемента и изображение оверлея.
 

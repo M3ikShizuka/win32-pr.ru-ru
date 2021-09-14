@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 7a5c16e0b460d07255cae113194f672ca3dace6f46827ac613c9559370284beb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f45679b9d036f1c5386cd2c1d18a31fa3d6bd64f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118158797"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972001"
 ---
 # <a name="cbasecontrolwindowget_autoshow-method"></a>Кбасеконтролвиндов. Get, \_ метод автоотображения
 
@@ -53,13 +53,13 @@ HRESULT get_AutoShow(
 
 Возвращает значение **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция члена реализует метод [**ивидеовиндов:: Get для \_ автоотображения**](/windows/desktop/api/Control/nf-control-ivideowindow-get_autoshow) . Это свойство упрощает доступ к окнам для приложений. Если задано значение 1 (включено), то окно, которое обычно скрыто после подключения фильтра, будет отображаться автоматически при приостановке или запуске фильтра. Однако окно не должно быть скрыто при остановке фильтра. Если этот параметр имеет значение 0 (OFF), окно становится видимым только тогда, когда приложение вызывает [**кбасеконтролвиндов::p UT \_ Visible**](cbasecontrolwindow-put-visible.md) или [**кбасеконтролвиндов::p UT \_ WindowState**](cbasecontrolwindow-put-windowstate.md) с соответствующими параметрами.
 
 Эта функция-член предназначена для вызова внешними объектами через интерфейс [**ивидеовиндов**](/windows/desktop/api/Control/nn-control-ivideowindow) и, следовательно, блокирует критический раздел для синхронизации с соответствующим фильтром. Вызовите функцию члена [**кбасеконтролвиндов:: исаутошовенаблед**](cbasecontrolwindow-isautoshowenabled.md) , чтобы получить это свойство, если не выполняется вызов из внешнего объекта.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ HRESULT get_AutoShow(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 5e85e66d5089183b1797842ab4e152a10298ebcc74a10c66291c6f6bc62743e8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1764787864c059e9c7417525a1a5ab5ff862f7d2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119121430"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966737"
 ---
 # <a name="id3dxfiledata-interface"></a>Интерфейс ID3DXFileData
 
@@ -46,14 +46,14 @@ ms.locfileid: "119121430"
 | [**GetName**](id3dxfiledata--getname.md)         | Извлекает имя этого файлового объекта данных.<br/>                                                              |
 | [**GetType**](id3dxfiledata--gettype.md)         | Получает идентификатор шаблона в этом объекте данных файла.<br/>                                                       |
 | [**IsReference**](id3dxfiledata--isreference.md) | Указывает, является ли данный файловый объект данных ссылочным объектом, указывающим на другой дочерний объект данных.<br/>   |
-| [**Блокировка**](id3dxfiledata--lock.md)               | Обращается к данным файла. x.<br/>                                                                                |
+| [**Скрыть**](id3dxfiledata--lock.md)               | Обращается к данным файла. x.<br/>                                                                                |
 | [**Блокирован**](id3dxfiledata--unlock.md)           | Завершает срок существования указателя *ппдата* , возвращенного [**ID3DXFileData:: Lock**](id3dxfiledata--lock.md).<br/> |
 
 
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Типы данных, разрешенные шаблоном, называются необязательными членами. Необязательные элементы не являются обязательными, но объект может пропустить важную информацию без них. Эти необязательные члены сохраняются как дочерние элементы объекта данных. Дочерний элемент может быть другим объектом данных или ссылкой на более раннюю версию объекта данных.
 

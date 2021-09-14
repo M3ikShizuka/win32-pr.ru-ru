@@ -4,12 +4,12 @@ ms.assetid: 209e0aa3-d7a3-4b5c-ae5a-5063a3804a9d
 title: KSPROPERTY_EXTXPORT_ATN_SEARCH
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 61d35c1fce1e958aa475cc0344c2db320daa806326a49d0d6e939bf4ea86d49f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f4115c7ff1c4bc878b4ee80e284f11821c37909a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119823274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053290"
 ---
 # <a name="ksproperty_extxport_atn_search"></a>КСПРОПЕРТИ \_ ексткспорт \_ АТН \_ Search
 
@@ -27,7 +27,7 @@ ms.locfileid: "119823274"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Задайте для элемента **двабстраккнумбер** структуры **кспроперти \_ ексткспорт \_** следующее значение:
 

@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: ea754aa883f9c80c4a436357cc159c588bde375aaa66a229b358723b74b9e070
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9133d536aef692a5f9928e10963dff8c454f25fc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119002242"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968661"
 ---
 # <a name="settings-tasktype-element"></a>элемент Параметры (taskType)
 
@@ -53,9 +53,9 @@ ms.locfileid: "119002242"
 | [**алловстартондеманд**](taskschedulerschema-allowstartondemand-settingstype-element.md)                        | Логическое                                                                                           | Указывает, что задача может быть запущена либо с помощью команды выполнить, либо из контекстного меню.<br/>                  |
 | [**делетикспиредтаскафтер**](taskschedulerschema-deleteexpiredtaskafter-settingstype-element.md)                | длительность                                                                                          | Указывает период времени, в течение которого планировщик задач будет ожидать перед удалением задачи после истечения ее срока действия.<br/> |
 | [**дисалловстартифонбаттериес**](taskschedulerschema-disallowstartifonbatteries-settingstype-element.md)        | Логическое                                                                                           | Указывает, что задача не будет запущена, если компьютер работает от батарей.<br/>                      |
-| [**Включен**](taskschedulerschema-enabled-settingstype-element.md)                                              | Логическое                                                                                           | Указывает, что задача включена. Задачу можно выполнить, только если этот параметр имеет значение true.<br/>             |
+| [**Доступной**](taskschedulerschema-enabled-settingstype-element.md)                                              | Логическое                                                                                           | Указывает, что задача включена. Задачу можно выполнить, только если этот параметр имеет значение true.<br/>             |
 | [**ексекутионтимелимит**](taskschedulerschema-executiontimelimit-settingstype-element.md)                        | длительность                                                                                          | Количество времени, отведенное на выполнение задачи.<br/>                                                              |
-| [**Служеб**](taskschedulerschema-hidden-settingstype-element.md)                                                | Логическое                                                                                           | Указывает, что задача не будет отображаться в пользовательском интерфейсе по умолчанию.<br/>                                         |
+| [**Скрытый**](taskschedulerschema-hidden-settingstype-element.md)                                                | Логическое                                                                                           | Указывает, что задача не будет отображаться в пользовательском интерфейсе по умолчанию.<br/>                                         |
 | [**идлесеттингс**](taskschedulerschema-idlesettings-settingstype-element.md)                                    | [**идлесеттингстипе**](taskschedulerschema-idlesettingstype-complextype.md)                      | Указывает, как планировщик задач выполняет задачи, когда компьютер находится в состоянии простоя.<br/>                    |
 | [**маинтенанцесеттингс**](taskschedulerschema-maintenancesettings-maintenancesettingstype-element.md)           | [**маинтенанцесеттингстипе**](taskschedulerschema-maintenancesettingstype-complextype.md)        | Указывает, как планировщик задач выполняет задачи во время автоматического обслуживания.<br/>                             |
 | [**мултиплеинстанцесполици**](taskschedulerschema-multipleinstancespolicy-settingstype-element.md)              | [**мултиплеинстанцесполицитипе**](taskschedulerschema-multipleinstancespolicytype-simpletype.md) | Указывает политику, определяющую, как планировщик задач работает с несколькими экземплярами задачи.<br/>       |
@@ -70,7 +70,7 @@ ms.locfileid: "119002242"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Можно выбрать один или несколько дочерних элементов, указанных выше.
 

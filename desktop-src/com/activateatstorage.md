@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: e2ddd1330191d7b7baf37973dbfb40e267a2f87e
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369541"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053211"
 ---
 # <a name="activateatstorage"></a>активатеатстораже
 
@@ -25,7 +25,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AppID
       ActivateAtStorage = value
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это значение **reg \_ SZ** . Любое значение, которое начинается с "Y" или "y", указывает, что следует использовать **активатеатстораже** .
 
@@ -35,7 +35,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AppID
 
 Значение, заданное для **активатеатстораже** , также является поведением по умолчанию при \_ указании параметра клскткс Remote Server, \_ Если на клиентском компьютере не установлены данные реестра для класса. Таким образом, клиентские приложения, написанные для использования преимуществ **активатеатстораже** , могут требовать меньше администрирования.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

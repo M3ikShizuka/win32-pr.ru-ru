@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 82f0f049c1ad8a9837695a1f5d7327883e1dabfb7dd077bd6efce78fa6a0a708
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f544a7fb9dd89346cc2aa9725d36122746a8f608
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119921554"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968742"
 ---
 # <a name="bcm_setnote-message"></a>\_Сообщение СЕТНОТЕ BCM
 
@@ -47,7 +47,7 @@ ms.locfileid: "119921554"
 
 Возвращает **значение true** , если успешно, или **false** в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Начиная с Comctl32 DLL версии 6,01, кнопки ссылки на команды могут иметь Примечание.
 
@@ -75,7 +75,7 @@ ms.locfileid: "119921554"
 [Стили кнопок](button-styles.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Типы кнопок](button-types-and-styles.md)

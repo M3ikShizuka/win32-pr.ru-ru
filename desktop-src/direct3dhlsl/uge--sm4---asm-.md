@@ -4,12 +4,12 @@ description: Покомпонентное векторное целое числ
 ms.assetid: CA8E19EC-619F-4C19-B6FD-91650B5DAF9F
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a7145e011b9d08bc64ab6b2252afbfb7506a115f5a0f30c3d02db450371c569c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f4aecd9e39aa94c69acefff0f6a0fdf843cec5d8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118505082"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963481"
 ---
 # <a name="uge-sm4---asm"></a>уже (SM4-ASM)
 
@@ -36,7 +36,7 @@ ms.locfileid: "118505082"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта инструкция выполняет сравнение целых чисел без знака (*src0*  >=  *src1*) для каждого компонента и записывает результат в *dest*.
 
@@ -62,9 +62,9 @@ ms.locfileid: "118505082"
 
 | Модель шейдера                                              | Поддерживается |
 |-----------------------------------------------------------|-----------|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | Да       |
-| [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | Да       |
-| [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | Да       |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | да       |
+| [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | да       |
+| [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | да       |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет        |
 | [Модель шейдера 2 (DirectX HLSL)](dx-graphics-hlsl-sm2.md) | Нет        |
 | [Модель шейдера 1 (DirectX HLSL)](dx-graphics-hlsl-sm1.md) | Нет        |

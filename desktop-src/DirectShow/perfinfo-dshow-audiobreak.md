@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Perfstruct.h
-ms.openlocfilehash: c7b8f83fffaa718c27e0333d864a564282228c0943f4d77fb653dc1800a6ddd2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 599befea67b28acbedffd5c98ebce84aadf70838
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119928194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886621"
 ---
 # <a name="perfinfo_dshow_audiobreak-structure"></a>\_ \_ Структура аудиобреак перфинфо DSHOW
 
@@ -40,7 +40,7 @@ typedef struct PERFINFO_DSHOW_AUDIOBREAK {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -72,13 +72,13 @@ typedef struct PERFINFO_DSHOW_AUDIOBREAK {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы включить это событие, необходимо задать \_ флаг битов аудиобреак в параметре *енаблефлаг* при вызове **енаблетраце**. этот флаг определен в файле заголовка дксмперф. h, который включен в DirectShow базовых классов.
 
 чтобы заносить это событие из фильтра DirectShow, используйте макрос **перфлог \_ аудиобреак** , который определен в дксмперф. h.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -88,7 +88,7 @@ typedef struct PERFINFO_DSHOW_AUDIOBREAK {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

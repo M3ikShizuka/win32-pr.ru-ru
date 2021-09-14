@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3D9Types.h
-ms.openlocfilehash: 543b6b40d3fe24f902eb999a9377b8dbf60e1baa31efb70febbd2c0261d47305
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f113b3df247765b958dfe47bb04fafb6c9a13bbe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119857444"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970974"
 ---
 # <a name="d3dpresent_parameters-structure"></a>\_Структура параметров D3DPRESENT
 
@@ -48,7 +48,7 @@ typedef struct D3DPRESENT_PARAMETERS {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -239,7 +239,7 @@ D3DSWAPEFFECT \_ Отмена будет применена в отладочн�
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -249,7 +249,7 @@ D3DSWAPEFFECT \_ Отмена будет применена в отладочн�
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

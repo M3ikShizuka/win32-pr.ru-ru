@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: c84038dcaaed7fe56c06d195e269c4bb03f1c18a58b4ec4490dc8cae541b9a54
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ff5356591db6ccd20de720efd898387240075f19
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119928364"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126892128"
 ---
 # <a name="iamtimelinecompvtrackinsbefore-method"></a>Метод Иамтимелинекомп:: Втраккинсбефоре
 
@@ -76,7 +76,7 @@ HRESULT VTrackInsBefore(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Каждая виртуальная дорожка в составе имеет уникальный уровень приоритета. Уровни приоритета находятся в диапазоне от 0 до *n* – 1, где *n* — число виртуальных дорожек в композиции. Для видеогрупп виртуальная дорожка скрывает все виртуальные дорожки с более низким уровнем приоритета, за исключением тех мест, где дорожка пуста или содержит переход. Виртуальные дорожки можно рассматривать как слои в окончательной композиции. Транспортер 1 размещается поверх записи 0, а на дорожке 2 — на уровне Track 1 и т. д.
 
@@ -96,7 +96,7 @@ HRESULT VTrackInsBefore(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -107,7 +107,7 @@ HRESULT VTrackInsBefore(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

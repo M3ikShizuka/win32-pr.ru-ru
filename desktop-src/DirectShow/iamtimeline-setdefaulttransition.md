@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: a9271e922fe33865feb36b361ae97bb16298b504fb6cbb14066fbd6976c8065e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: eeea5563ca9a2548507d3b4333d857d7cc156dd3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119812414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126892232"
 ---
 # <a name="iamtimelinesetdefaulttransition-method"></a>Метод Иамтимелине:: Сетдефаулттранситион
 
@@ -56,7 +56,7 @@ HRESULT SetDefaultTransition(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если вы не настроили переход по умолчанию или если переход, указанный в качестве значения по умолчанию, вызывает ошибку, DES использует собственный переход по умолчанию.
 
@@ -70,7 +70,7 @@ HRESULT SetDefaultTransition(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -81,7 +81,7 @@ HRESULT SetDefaultTransition(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

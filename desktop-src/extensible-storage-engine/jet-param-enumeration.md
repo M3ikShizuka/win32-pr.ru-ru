@@ -103,11 +103,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: b98a35bb7b84cb5631c5961df013ca79c2d26b00
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122478480"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965646"
 ---
 # <a name="jet_param-enumeration"></a>Перечисление JET_param
 
@@ -129,7 +129,7 @@ Dim instance As JET_param
 public enum JET_param
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 
 |  | Имя участника | Описание | 
@@ -176,7 +176,7 @@ public enum JET_param
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

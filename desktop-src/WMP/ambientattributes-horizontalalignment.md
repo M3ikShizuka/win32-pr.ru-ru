@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9daf64189735d79e1ad3eb4f7b3637ca68cfdae489cda9423bb60acdd1f9185c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f7f946f0d095526c9fc0894cdf0270cbf7cc0c81
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119055172"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889968"
 ---
 # <a name="ambientattributeshorizontalalignment"></a>Амбиентаттрибутес. horizontalAlignment
 
@@ -44,13 +44,13 @@ ms.locfileid: "119055172"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если **horizontalAlignment** не имеет значение "Center", элемент управления оставляет свое исходное расстояние от указанного края или на обоих краях, если задано "Stretch", и размер элемента управления ограничен. Если размер элемента управления не может быть увеличен и указан параметр "Stretch", то область, которую вы щелкнули, растягивается.
 
 Можно задать любое сочетание **horizontalAlignment** и **verticalAlignment**. Например, если нужно центрировать элемент управления как по горизонтали, так и по вертикали, задайте horizontalAlignment = "Center" verticalAlignment = "Center".
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -60,7 +60,7 @@ ms.locfileid: "119055172"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

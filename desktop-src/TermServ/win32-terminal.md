@@ -24,12 +24,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e43f3998e1b8f9e7d252a8a4c949d7d083c763a8759d7c9df6aa60c21618e217
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f7ae74003f798049fbdb34c955db3f64112bfcd2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119867964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890840"
 ---
 # <a name="win32_terminal-class"></a>\_Класс терминала Win32
 
@@ -54,7 +54,7 @@ class Win32_Terminal : CIM_LogicalElement
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ терминала Win32** имеет следующие типы членов:
 
@@ -69,8 +69,8 @@ class Win32_Terminal : CIM_LogicalElement
 
 | Метод                                  | Описание                                                                                                                                                                             |
 |:----------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**Создания**](create-win32-terminal.md) | Создает терминал с параметрами по умолчанию, которые можно настроить с помощью свойств и методов классов [**Win32 \_ терминалсеттинг**](win32-terminalsetting.md) .<br/> |
-| [**Удален**](delete-win32-terminal.md) | Удаляет указанный терминал.<br/>                                                                                                                                              |
+| [**Создать**](create-win32-terminal.md) | Создает терминал с параметрами по умолчанию, которые можно настроить с помощью свойств и методов классов [**Win32 \_ терминалсеттинг**](win32-terminalsetting.md) .<br/> |
+| [**DELETE**](delete-win32-terminal.md) | Удаляет указанный терминал.<br/>                                                                                                                                              |
 | [**Включить**](win32-terminal-enable.md) | Отключает или включает терминал.<br/>                                                                                                                                            |
 | [**Имени**](win32-terminal-rename.md) | Переименовывает терминал.<br/>                                                                                                                                                        |
 
@@ -185,7 +185,7 @@ class Win32_Terminal : CIM_LogicalElement
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -292,7 +292,7 @@ class Win32_Terminal : CIM_LogicalElement
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 **Win32 \_ Терминал** связан с [**Win32 \_ терминалсеттинг**](win32-terminalsetting.md) в качестве свойства **element** ассоциации [**Win32 \_ терминалтерминалсеттинг**](win32-terminalterminalsetting.md) .
 
@@ -313,7 +313,7 @@ Set objServices = GetObject( _
 
 файлы MOF-файл (MOF) содержат определения для классов инструментарий управления Windows (WMI) (WMI). файлы MOF не устанавливаются в составе пакета средств разработки программного обеспечения Microsoft Windows Software Development Kit (SDK). Они устанавливаются на сервере при добавлении связанной роли с помощью диспетчер сервера. Дополнительные сведения о файлах MOF см. в разделе [MOF-файл (MOF)](/windows/desktop/WmiSdk/managed-object-format--mof-).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -327,7 +327,7 @@ Set objServices = GetObject( _
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

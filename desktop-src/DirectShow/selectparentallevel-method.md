@@ -4,12 +4,12 @@ ms.assetid: ffd1e204-6ed2-4190-8635-9f3866d38099
 title: Метод Селектпаренталлевел
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 95de7e8cbf1fb6fa284eddefa1ba07ebb9268825116fdac9c97fbd5d42bac84e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cb00172b8e61f353c45981af628eb396bca7a7df
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119684044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886592"
 ---
 # <a name="selectparentallevel-method"></a>Метод Селектпаренталлевел
 
@@ -53,11 +53,11 @@ MSWebDVD.SelectParentalLevel(iLevel, sUserName, sPassword)
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод задает уровень доступа в объекте Мсвебдвд, который определяет, какое содержимое может воспроизводить пользователь. Более высокие уровни могут воспроизводить содержимое нижнего уровня, но более низкие уровни не могут воспроизвести содержимое более высокого уровня. Точное значение восьми уровней родительского управления DVD зависит от страны или региона. В США и Канаде уровни сопоставлены с категориями рейтинга «Ассоциация движения» для «America» (МПАА). По умолчанию функция родительского управления в навигаторе DVD отключена.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

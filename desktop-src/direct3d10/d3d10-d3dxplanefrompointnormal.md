@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: ab9f3fdd53b1fbad4fa0b6a92c07589a8c0fab41c162dc49939f0e7254bf99c9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 519ce82a8d5a8c6adaf22b69047a8d365bd777ac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118991194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965094"
 ---
 # <a name="d3dxplanefrompointnormal-function-d3dx10mathh"></a>Функция D3DXPlaneFromPointNormal (D3DX10Math. h)
 
@@ -75,7 +75,7 @@ D3DXPLANE* D3DXPlaneFromPointNormal(
 
 Указатель на структуру D3DXPLANE, созданную из точки и обычного.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре тоска. Таким образом, функция D3DXPlaneFromPointNormal может использоваться в качестве параметра для другой функции.
 

@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 07d80c0d59a1fd0a58c756d72f6215f13b4e3391e44828aa8e1bcff23063292e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3a1880983785fcfea8a4cda4aa09c8baec2cfebf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118535749"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963802"
 ---
 # <a name="id3dx11effectgroupgetannotationbyname-method"></a>Метод ID3DX11EffectGroup:: Жетаннотатионбинаме
 
@@ -43,7 +43,7 @@ ID3DX11EffectVariable* GetAnnotationByName(
 
 <dl> <dt>
 
-*Имя* 
+*имя*; 
 </dt> <dd>
 
 Тип: **[ **LPCSTR**](/windows/desktop/WinProg/windows-data-types)**
@@ -58,7 +58,7 @@ ID3DX11EffectVariable* GetAnnotationByName(
 
 Указатель на [**ID3DX11EffectVariable**](id3dx11effectvariable.md). Обратите внимание, что если заметка не найдена, возвращаемый **ID3DX11EffectVariable** будет пустым. Чтобы определить, найдена ли заметка, следует вызвать метод [**ID3DX11EffectVariable:: IsValid**](id3dx11effectvariable-isvalid.md) .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Пакет SDK для DirectX не предоставляет никаких скомпилированных двоичных файлов для эффектов. Для создания приложения типа Effects необходимо использовать исходный текст Effects 11. Дополнительные сведения об использовании источника Effects 11 см. в разделе [различия между эффектами 10 и эффекты 11](d3d11-graphics-programming-guide-effects-differences.md).

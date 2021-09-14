@@ -16,11 +16,11 @@ api_type:
 ms.topic: reference
 ms.date: 12/16/2020
 ms.openlocfilehash: 3d97249a7485ec024ee3611809c87c5b6ed41143
-ms.sourcegitcommit: 04e801237156e90b48111d60bddf437f87f5cdfe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/19/2020
-ms.locfileid: "104139174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965338"
 ---
 # <a name="imsrdpcameraredirconfigcollection-interface"></a>Интерфейс IMsRdpCameraRedirConfigCollection
 
@@ -51,7 +51,7 @@ ms.locfileid: "104139174"
 | [**биндекс**](imsrdpcameraredirconfigcollection-byindex.md)      | Только для чтения |  Возвращает объект [имсрдпкамераредирконфиг](imsrdpcameraredirconfig.md) по его индексу в коллекции.   |
 | [**бинстанцеид**](imsrdpcameraredirconfigcollection-byinstanceid.md)                       | Только для чтения |    Возвращает из коллекции объект [имсрдпкамераредирконфиг](imsrdpcameraredirconfig.md) , соответствующий заданному идентификатору экземпляра.    |
 | [**бисимболиклинк**](imsrdpcameraredirconfigcollection-bysymboliclink.md)      | Только для чтения |  Возвращает из коллекции объект [имсрдпкамераредирконфиг](imsrdpcameraredirconfig.md) , соответствующий заданной символьной ссылке интерфейса **KSCATEGORY_VIDEO_CAMERA** для камеры.  |
-| [**Расчета**](imsrdpcameraredirconfigcollection-count.md)                       | Только для чтения |    Возвращает число объектов [имсрдпкамераредирконфиг](imsrdpcameraredirconfig.md) в коллекции.   |
+| [**Count**](imsrdpcameraredirconfigcollection-count.md)                       | Только для чтения |    Возвращает число объектов [имсрдпкамераредирконфиг](imsrdpcameraredirconfig.md) в коллекции.   |
 | [**енкодевидео**](imsrdpcameraredirconfigcollection-encodevideo.md)      | Чтение/запись |  Указывает, является ли поток видео закодированным H. 264.  |
 | [**енкодингкуалити**](imsrdpcameraredirconfigcollection-encodingquality.md)                       | Чтение/запись |    Задает качество кодирования (скорость потока).   |
 | [**редиректбидефаулт**](imsrdpcameraredirconfigcollection-redirectbydefault.md)                       | Чтение/запись |   Указывает, будет ли перенаправлена какая либо новая камера по умолчанию.    |

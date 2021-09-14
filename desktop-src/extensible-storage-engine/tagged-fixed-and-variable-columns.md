@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/Gg269304(v=EXCHG.10)
 ms:contentKeyID: 32765595
 ms.date: 04/11/2016
 ms.topic: article
-ms.openlocfilehash: af2ab8ece57342f211b0dd4488b6feb25b191c1977ae39038fb61ea56f20d543
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3f27237c5f75874f7320f675affe20f3833084b1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118484750"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968970"
 ---
 # <a name="tagged-fixed-and-variable-columns"></a>Столбцы с тегами, фиксированными и переменными
 

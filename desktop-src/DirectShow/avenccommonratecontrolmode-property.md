@@ -4,12 +4,12 @@ ms.assetid: 4a0d49b1-30da-4ebe-abff-3fceef6dd94a
 title: Свойство Авенккоммонратеконтролмоде (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8aaa914f445fcbc535ec423b41306938890d64b747258cb0159add5e4fd43c3f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8d18d0d7cb68936326fb4c4ba08188e362fdc91d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119794674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127161984"
 ---
 # <a name="avenccommonratecontrolmode-property"></a>Авенккоммонратеконтролмоде, свойство
 
@@ -31,13 +31,13 @@ ms.locfileid: "119794674"
 
 Значение этого свойства является членом перечисления [**еавенккоммонратеконтролмоде**](/windows/win32/api/codecapi/ne-codecapi-eavenccommonratecontrolmode) .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство также используется с [кодировщиками камер H. 264 увк 1,5](/windows/desktop/medfound/camera-encoder-h264-uvc-1-5).
 
 [Кодекапи \_ Авенквидеотемпораллайеркаунт](/windows/desktop/medfound/codecapi-avencvideotemporallayercount), [кодекапи \_ авенквидеаусаже](/windows/desktop/medfound/codecapi-avencvideousage)и кодекапи \_ авенккоммонратеконтролмоде являются статическими свойствами кодировщика. После установки они вступят в силу только после того, как на выходном контакте камеры будет вызван тип набора носителей.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -49,7 +49,7 @@ ms.locfileid: "119794674"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

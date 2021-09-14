@@ -4,12 +4,12 @@ ms.assetid: 8b476164-fd44-4277-89bd-ba9929bf93a2
 title: Свойство Авенккоммонмултипассмоде (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e6fb909e58dbdfd5d1431d0101365db78efa83fd68e9299b8578f19770787fb7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f4302cf0a9524f16dee8e7b84060065a4c750e4e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118159816"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127161999"
 ---
 # <a name="avenccommonmultipassmode-property"></a>Авенккоммонмултипассмоде, свойство
 
@@ -29,13 +29,13 @@ ms.locfileid: "118159816"
 
 Это свойство возвращается в виде диапазона значений. Чтобы получить поддерживаемый диапазон, вызовите метод [**икодекапи:: жетпараметерранже**](/windows/desktop/api/Strmif/nf-strmif-icodecapi-getparameterrange).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Задержка декодирования определяется как объем данных, которые декодер должен забуферировать. Например, установка этого свойства в значение **\_ true** в кодировщике видео MPEG ОГРАНИЧИВАЕТ типы структур GOP, которые может использовать кодировщик.
 
 Чтобы задать текущий проход кодировки, задайте свойство [**авенккоммонпассстарт**](avenccommonpassstart-property.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -47,7 +47,7 @@ ms.locfileid: "118159816"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

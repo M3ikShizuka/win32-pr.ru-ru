@@ -4,12 +4,12 @@ description: Использование функциональных возмо�
 ms.assetid: c660e529-ba1e-4f8e-a86b-7580fa1f592b
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9923db1125b432ca3ccce1187adb8b3fb300750c905aa25e4682f10ce106bcb5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3afb03ddef96125db184d6e8774997fccf99063b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118308838"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971288"
 ---
 # <a name="using-the-containers-functionality"></a>Использование функциональных возможностей контейнера
 

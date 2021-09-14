@@ -4,12 +4,12 @@ description: Задает состояние указанного элемент
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 06/20/2019
-ms.openlocfilehash: c80ca670be26ffdcefa5e89cee079d2225d204ee97e99e41f69686300a46230b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8cbeacdb8c6020441b5dd74a9f9233a6c112b4f6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119042912"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966349"
 ---
 # <a name="idxcoreadaptersetstate-method"></a>Метод Идкскореадаптер:: SetState
 
@@ -34,7 +34,7 @@ HRESULT SetState(
 
 ## <a name="parameters"></a>Параметры
 
-### <a name="state"></a>Состояние
+### <a name="state"></a>state
 
 Тип: **[дкскореадаптерстате](./ne-dxcore_interface-dxcoreadapterstate.md)**
 
@@ -78,6 +78,6 @@ HRESULT SetState(
 |E_INVALIDARG|Недостаточный размер буфера предоставляется для *inputData* (или для *инпутстатедетаилс* , где необходим буфер сведений о состоянии входа).|
 |E_POINTER|`nullptr` был предоставлен для *inputData* (или для *инпутстатедетаилс* , где необходим буфер сведений о состоянии входа).|
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 [Идкскореадаптер](./nn-dxcore_interface-idxcoreadapter.md), [дкскоре Reference](../dxcore-reference.md), [Использование дкскоре для перечисления адаптеров](../dxcore-enum-adapters.md)

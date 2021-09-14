@@ -15,12 +15,12 @@ api_type:
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 56d1acb150b4af3f096b8ebf8c5a91caef831ebc03f84df10440b95110bc018e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 9099b0839b6b55676d5a8afdfb913948e70bbb7f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119953164"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969826"
 ---
 # <a name="cd3dx12_root_parameter-structure"></a>\_Структура корневого \_ параметра CD3DX12
 
@@ -48,7 +48,7 @@ struct CD3DX12_ROOT_PARAMETER  : public D3D12_ROOT_PARAMETER{
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -210,7 +210,7 @@ UINT Шадеррегистер
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -220,7 +220,7 @@ UINT Шадеррегистер
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -5,11 +5,11 @@ title: Проверка членства в роли
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 777d47b36d2eea79d8b16e7025839b696c38ff87
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103807654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971278"
 ---
 # <a name="checking-role-membership"></a>Проверка членства в роли
 
@@ -19,7 +19,7 @@ ms.locfileid: "103807654"
 
 Предпочтительный способ доступа к [**искаллеринроле**](/windows/desktop/api/ComSvcs/nf-comsvcs-isecuritycallcontext-iscallerinrole) — через объект контекста безопасности вызова, так как для получения свойств безопасности можно использовать одну и ту же ссылку на объект контекста вызова безопасности. Однако можно также получить доступ к методу **искаллеринроле** из объекта **ObjectContext** . (Дополнительные сведения см. в разделе [**ObjectContext**](/windows/desktop/api/ComSvcs/nn-comsvcs-objectcontext) или [**иобжектконтекст**](/windows/desktop/api/ComSvcs/nn-comsvcs-iobjectcontext) .)
 
-При разработке компонентов для приложения Microsoft Visual Basic вызывается функция [**жетсекуритикаллконтекст**](/windows/desktop/api/ComSvcs/nf-comsvcs-igetsecuritycallcontext-getsecuritycallcontext) , а затем используется контекст вызова безопасности для вызова [**искаллеринроле**](/windows/desktop/api/ComSvcs/nf-comsvcs-isecuritycallcontext-iscallerinrole), как показано в следующем примере:
+при разработке компонентов для приложения Microsoft Visual Basic вызывается функция [**жетсекуритикаллконтекст**](/windows/desktop/api/ComSvcs/nf-comsvcs-igetsecuritycallcontext-getsecuritycallcontext) , а затем используется контекст вызова безопасности для вызова [**искаллеринроле**](/windows/desktop/api/ComSvcs/nf-comsvcs-isecuritycallcontext-iscallerinrole), как показано в следующем примере:
 
 
 ```VB
@@ -52,7 +52,7 @@ return hr;
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

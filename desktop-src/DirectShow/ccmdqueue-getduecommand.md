@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: f6e7c8d133537dc2b185c755e65f3a4febbee762c5c2306de37ad0c627434df7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1a1297a3f0d514215270acf7e73b18cba46fca1f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119016432"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971725"
 ---
 # <a name="ccmdqueuegetduecommand-method"></a>Ккмдкуеуе. Жетдуекомманд, метод
 
@@ -61,7 +61,7 @@ virtual HRESULT GetDueCommand(
 
 Возвращает значение "E \_ Abort", если истекло время ожидания. Возвращает значение \_ ОК, если выполнено успешно; в противном случае возвращает ошибку. Возвращает объект, который был увеличен с помощью **IUnknown:: AddRef**.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция-член блокируется до тех пор, пока не будет вызвана Ожидающая команда. Функция члена блокирует количество времени в миллисекундах, указанное в параметре *мстимеаут* . Команды времени потока становятся только между функциями-членами [**ккмдкуеуе:: Run**](ccmdqueue-run.md) и [**Ккмдкуеуе:: ендрун**](ccmdqueue-endrun.md) . Команда остается в очереди до выполнения или отмены.
 

@@ -5,11 +5,11 @@ ms.assetid: 923f798d-d789-4e6d-b27e-dd5a72f92abf
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: e5c18beeff04804b11f04c0a2c211f2dd09dd60d
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369509"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971392"
 ---
 # <a name="file-monikers"></a>Моникеры файлов
 
@@ -19,7 +19,7 @@ ms.locfileid: "124369509"
 
 OLE предлагает поставщики моникеров, вспомогательная функция [**креатефилемоникер**](/windows/desktop/api/Objbase/nf-objbase-createfilemoniker) , которая создает объект моникера файла и возвращает указатель на поставщик.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

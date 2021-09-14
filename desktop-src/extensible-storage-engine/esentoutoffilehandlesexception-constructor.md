@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 2567bfa70f734677c0dc6cbdbf41372ef7ed713bfc2ccc0297855e04a7835999
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 21a0bc9074a5519f273a5870a7270c4d47490e71
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119947244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965961"
 ---
 # <a name="esentoutoffilehandlesexception-constructor"></a>Конструктор Есентаутоффилехандлесексцептион
 
@@ -52,7 +52,7 @@ Dim instance As New EsentOutOfFileHandlesException()
 public EsentOutOfFileHandlesException()
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

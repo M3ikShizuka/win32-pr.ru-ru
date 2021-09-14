@@ -4,12 +4,12 @@ ms.assetid: 3cc0b08c-e126-4f1b-b5d1-0d6c1ebeb0c5
 title: сводка функций (Direct3D 9 для Windows Vista)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 242af80fa4d6f00c1e55d4852884f9fbbf8de287c6792b3b4aaaad196a6cd113
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3d5cf2447297b7f24edf7d0200e640d5aef90bff
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118523081"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052897"
 ---
 # <a name="feature-summary-direct3d-9-for-windows-vista"></a>сводка функций (Direct3D 9 для Windows Vista)
 
@@ -92,7 +92,7 @@ ms.locfileid: "118523081"
 
 Интерфейсы API для создания ресурсов включают- [**креатетекстуре**](/windows/desktop/api), [**креатеволуметекстуре**](/windows/desktop/api), [**креатекубетекстуре**](/windows/desktop/api), [**креатерендертаржет**](/windows/win32/api/d3d9helper/nf-d3d9helper-idirect3ddevice9-createrendertarget), [**креатевертексбуффер**](/windows/desktop/api), [**CreateIndexBuffer**](/windows/desktop/api), [**CreateDepthStencilSurface**](/windows/desktop/api), [**CreateOffscreenPlainSurface**](/windows/desktop/api), [**CreateDepthStencilSurfaceEx**](/windows/desktop/api/d3d9/nf-d3d9-idirect3ddevice9ex-createdepthstencilsurfaceex), [**CreateOffscreenPlainSurfaceEx**](/windows/desktop/api/d3d9/nf-d3d9-idirect3ddevice9ex-createoffscreenplainsurfaceex)и [**CreateRenderTargetEx**](/windows/desktop/api/d3d9/nf-d3d9-idirect3ddevice9ex-createrendertargetex).
 
-Существуют некоторые ограничения на использование общих ресурсов. приведенные ниже.
+Существуют некоторые ограничения на использование общих ресурсов. Сюда входит следующее.
 
 -   API-интерфейс, используемый для открытия общего ресурса, должен соответствовать API, который использовался для создания общего ресурса. Например, если вы использовали [**креатетекстуре**](/windows/desktop/api) для создания общего ресурса, необходимо использовать **креатетекстуре** , чтобы открыть этот общий ресурс. Если для создания общего ресурса использовался [**креатерендертаржет**](/windows/win32/api/d3d9helper/nf-d3d9helper-idirect3ddevice9-createrendertarget) , необходимо использовать **креатерендертаржет** для открытия этого общего ресурса и т. д.
 -   При открытии общего ресурса необходимо указать D3DPOOL \_ по умолчанию.

@@ -14,12 +14,12 @@ api_type:
 - Assembly
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a032dc95a68430768b0f2aa109a56dae80cdaecb14b67eb5dbf6b2657cdd5107
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 058c75ed0d1173661b16baa6e4b4394ba4d0c38f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119136007"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889704"
 ---
 # <a name="librarydisconnect-event-of-the-axwindowsmediaplayer-object"></a>Событие Либраридисконнект объекта Аксвиндовсмедиаплайер
 
@@ -53,7 +53,7 @@ Private Sub player_LibraryDisconnect(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это событие не происходит для локальной библиотеки.
 

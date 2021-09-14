@@ -4,12 +4,12 @@ ms.assetid: 5c274035-79aa-4967-9c1a-79f888fed71e
 title: Назначения каналов Норвегии
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bc95f6531e02bf1c4eec3e736c78d81f0aafabdada32256ab3e22c50072a9619
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1911f4212b49784354f36377832af58bf4c46121
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119684584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886664"
 ---
 # <a name="norway-channel-assignments"></a>Назначения каналов Норвегии
 

@@ -15,11 +15,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 3ee300919efa388d27ae9d594bc2b6c27def88e6
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105655713"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968854"
 ---
 # <a name="compressex-method-of-the-win32_directory-class"></a>Метод Компрессекс \_ класса каталога Win32
 
@@ -123,7 +123,7 @@ uint32 CompressEx(
 **12**
 </dt> <dd>
 
-Платформа не является Windows.
+Платформа не Windows.
 
 </dd> <dt>
 

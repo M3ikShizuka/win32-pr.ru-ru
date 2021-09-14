@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55102203
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 4d1d9268b8e0ef6943669bebc92be038508522591f7c908ca32d3770f5047a03
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c57fccb9c5d159a4e3a22a59511f9bdd7707ca77
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118982174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963142"
 ---
 # <a name="esentloggingdisabledexception-methods"></a>Методы EsentLoggingDisabledException 
 
@@ -78,7 +78,7 @@ ms.locfileid: "118982174"
 
 Начало
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

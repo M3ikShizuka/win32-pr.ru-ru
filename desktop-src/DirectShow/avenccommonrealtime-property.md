@@ -4,12 +4,12 @@ ms.assetid: 7e98a9f4-113b-45d0-ae55-7dc3f2af099e
 title: Свойство Авенккоммонреалтиме (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b718f4f58d230448689700fc2e681c109e645d48cb33eb1788e45ac607350951
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5a03e51da1a088603273da3d083573e5921edf7a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118403894"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127161983"
 ---
 # <a name="avenccommonrealtime-property"></a>Авенккоммонреалтиме, свойство
 
@@ -25,7 +25,7 @@ ms.locfileid: "118403894"
 
 **КОДЕКАПИ \_ авенккоммонреалтиме**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы указать, что кодировка должна выполняться в режиме реального времени, присвойте этому свойству значение **\_ true**. Кодеки также могут возвращать это свойство как возможность.
 
@@ -37,7 +37,7 @@ ms.locfileid: "118403894"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional приложения \[ UWP для классических приложений \|\]<br/>                     |
 | Минимальная версия сервера<br/> | \[приложения UWP для классических приложений Windows 2000 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
 
 
 

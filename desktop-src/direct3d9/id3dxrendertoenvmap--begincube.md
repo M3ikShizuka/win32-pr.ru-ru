@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 081e96425a7928cb1cd4a5a3ee48479d562c5c30a2f9017665acd32ffb539244
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bff6c8f3bdc49dfe0c1b677c6805cb332c05007d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118293278"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969629"
 ---
 # <a name="id3dxrendertoenvmapbegincube-method"></a>Метод ID3DXRenderToEnvMap:: Бегинкубе
 
@@ -55,7 +55,7 @@ HRESULT BeginCube(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть D3DERR \_ инвалидкалл.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Рисование каждого из шести Сторон см. в разделе [**ID3DXRenderToEnvMap:: Face**](id3dxrendertoenvmap--face.md) .
 

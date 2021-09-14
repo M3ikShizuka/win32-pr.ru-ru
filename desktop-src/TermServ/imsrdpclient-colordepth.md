@@ -64,12 +64,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 995509385cabc18a7768300e29482b00f674ce347463b0b8aeb2c3af7e6a209b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d5099deff3913d23173a466245cbf08fd5b95a6a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119475754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891053"
 ---
 # <a name="imsrdpclientcolordepth-property"></a>Свойство Имсрдпклиент:: Clientareawidth
 
@@ -100,7 +100,7 @@ HRESULT get_ColorDepth(
 
 Если методы выполнены успешно, возвращается значение **S \_ OK** . Любое другое значение **HRESULT** указывает на сбой вызова.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство не может быть задано, если элемент управления подключен.
 

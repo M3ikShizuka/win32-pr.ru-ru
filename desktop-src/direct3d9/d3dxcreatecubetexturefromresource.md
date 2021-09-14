@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: aab65a36a63ce68264be97ad20061a1ee84efe4dd52d712dfa3c260dc9c11525
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c0bd65799bada2df8a3c9e0b113db3c911a53536
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119631484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970913"
 ---
 # <a name="d3dxcreatecubetexturefromresource-function"></a>Функция D3DXCreateCubeTextureFromResource
 
@@ -85,7 +85,7 @@ HRESULT D3DXCreateCubeTextureFromResource(
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, D3DERR \_ NOTAVAILABLE, D3DERR \_ аутофвидеомемори, D3DXERR \_ INVALIDDATA, E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Параметр компилятора определяет версию функции. Если определен Юникод, вызов функции разрешается в **D3DXCreateCubeTextureFromResourceW**. В противном случае вызов функции разрешается в **D3DXCreateCubeTextureFromResourceA** , так как используются строки ANSI.
 
@@ -99,7 +99,7 @@ HRESULT D3DXCreateCubeTextureFromResource(
 
 **D3DXCreateCubeTextureFromResource** использует формат файла поверхности DIRECTDRAW (DDS). Редактор текстур DirectX (Dxtex.exe) позволяет создать карту Куба на основе других форматов файлов и сохранить ее в формате файлов DDS. Вы можете получить Dxtex.exe и узнать о нем из пакета SDK DirectX. Сведения о пакете SDK для DirectX см. в разделе [где находится пакет DirectX SDK?](../directx-sdk--august-2009-.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -110,7 +110,7 @@ HRESULT D3DXCreateCubeTextureFromResource(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

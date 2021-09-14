@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 8307f3823758eee2f70368e41d3f2dc01333fd538fe2feed30d31b7db876f118
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7c0d9ec403b53c3197c001e966ce7efd5eb8bed2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120052744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971893"
 ---
 # <a name="cbasepininactive-method"></a>Кбасепин. Inactive, метод
 
@@ -44,7 +44,7 @@ virtual HRESULT Inactive();
 
 Возвращает значение S \_ ОК.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При остановке фильтра класс [**кбасефилтер**](cbasefilter.md) вызывает этот метод для всех подключенных контактов фильтра.
 
@@ -52,7 +52,7 @@ virtual HRESULT Inactive();
 
 Внутреннее состояние диспетчера графа фильтра не обновляется до тех пор, пока этот метод не возвратит значение, поэтому не проверяйте состояние из этого метода.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -63,7 +63,7 @@ virtual HRESULT Inactive();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

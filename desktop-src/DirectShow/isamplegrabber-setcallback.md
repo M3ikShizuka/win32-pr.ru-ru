@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 6e6d61d60a4664386cded025d2b7bcea82353602c7f7f8c0fb5bc4c53779ae2f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 46e0565c314bab86967ee0d5dabee6ba449a87dd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117817921"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891709"
 ---
 # <a name="isamplegrabbersetcallback-method"></a>Метод Исамплеграббер:: Сеткаллбакк
 
@@ -75,7 +75,7 @@ HRESULT SetCallback(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Поток обработки данных блокируется до тех пор, пока метод обратного вызова не вернет значение. Если обратный вызов не возвращает быстрое значение, он может помешать воспроизведению.
 

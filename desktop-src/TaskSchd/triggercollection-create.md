@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a7cfc32ebff941af374d2c4bb64db8ffe064961c13840e50244f416bad477a8d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ad0f1c5dd8bef3d81a8e9b5859bc2bbd8c969bf3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119001972"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891384"
 ---
 # <a name="triggercollectioncreate-method"></a>Тригжерколлектион. Create, метод
 
@@ -74,7 +74,7 @@ TriggerCollection.Create( _
 
 Объект [**триггера**](trigger.md) , представляющий новый триггер.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сведения о каждом типе триггера см. в разделе [типы триггеров](trigger-types.md).
 
@@ -98,7 +98,7 @@ TriggerCollection.Create( _
 [Планировщик заданий](task-scheduler-start-page.md)
 </dt> <dt>
 
-[**Триггер**](trigger.md)
+[**Необходимость**](trigger.md)
 </dt> </dl>
 
  

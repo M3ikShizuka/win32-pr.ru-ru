@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Методы CIM_WORMDrive
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 428c81cf99196a35a35bb12127dde31d21422f2f4ecd98380d88c4f2b3f0329a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c6ecd49da5cc4cb24423525ae90fd329254facb5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118676895"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965454"
 ---
 # <a name="cim_wormdrive-methods"></a>\_Методы ВОРМДРИВЕ CIM
 

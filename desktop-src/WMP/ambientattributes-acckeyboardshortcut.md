@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f467304bb9f38ab0683440d2a0ebc5fcc51adb92fbb1d50e8275eb36f256a159
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 67d7259f0b32e3575d902a83b6508383361028d8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119055214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890053"
 ---
 # <a name="ambientattributesacckeyboardshortcut"></a>Амбиентаттрибутес. Акккэйбоардшорткут
 
@@ -31,13 +31,13 @@ ms.locfileid: "119055214"
 
 Этот атрибут является **строкой** для чтения и записи со значением по умолчанию "" (пустая строка). Для элемента **Button** этот атрибут имеет значение по умолчанию "пробел" или "Ввод". Для элемента **Slider** по умолчанию используется значение «стрелка вправо/вверх для увеличения, стрелка влево или вниз для уменьшения».
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут используется в целях обеспечения специальных возможностей. Это позволяет программе чтения просматривать вслух сочетания клавиш для любого элемента. Этот атрибут не задает ярлык. Scripter должен выполнить эту работу.
 
 Этот атрибут также применяется к элементам кнопки внутри элемента управления группы кнопок.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -47,7 +47,7 @@ ms.locfileid: "119055214"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

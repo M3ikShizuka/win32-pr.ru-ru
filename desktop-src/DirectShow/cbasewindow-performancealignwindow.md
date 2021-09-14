@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: a3c077b6cf00f61565124f3d79ad905f6d34a3d8da50d58396e2df1bd35b0d60
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e6e7a54372743d430cd904f47c79414d149cf033
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119016472"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971741"
 ---
 # <a name="cbasewindowperformancealignwindow-method"></a>Кбасевиндов. Перформанцеалигнвиндов, метод
 
@@ -44,11 +44,11 @@ HRESULT PerformanceAlignWindow();
 
 Возвращает значение S \_ ОК.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод выровняйте левый и верхний края окна до границ DWORD, что может повысить производительность. Если окно имеет родителя, метод возвращает значение S ОК, \_ но выполняет выравнивание.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ HRESULT PerformanceAlignWindow();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

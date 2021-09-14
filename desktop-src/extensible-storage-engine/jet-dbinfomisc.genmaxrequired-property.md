@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 46d51809bb57f7fbdedf4c89ac1241e9f69fa1dd58236553d7c48874c349c4a8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e06c730318a824774365aab0f5c999e97cd22f3d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118254947"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969142"
 ---
 # <a name="jet_dbinfomiscgenmaxrequired-property"></a>Свойство JET_DBINFOMISC. Женмаксрекуиред
 

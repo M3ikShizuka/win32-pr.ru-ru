@@ -13,11 +13,11 @@ api_type:
 - COM
 api_location: ''
 ms.openlocfilehash: 1521642879037938451decd873a9aa14211ce296
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105701267"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965134"
 ---
 # <a name="partitionusers-collection"></a>Коллекция Партитионусерс
 
@@ -58,7 +58,7 @@ ms.locfileid: "105701267"
 | Access         | Флагом writeonce                                                                                                                                                                                                    |
 | Тип           | Строка                                                                                                                                                                                                       |
 | По умолчанию        | "Новый пользователь"                                                                                                                                                                                                   |
-| Минимальная система | Windows Server 2003                                                                                                                                                                                          |
+| Минимальная система | Windows Server 2003                                                                                                                                                                                          |
 
 
 
@@ -74,7 +74,7 @@ ms.locfileid: "105701267"
 | Access         | ReadWrite                                                          |
 | Тип           | Строка                                                             |
 | По умолчанию        | {41E90F3E-56C1-4633-81C3-6E8BAC8BDD70}                             |
-| Минимальная система | Windows Server 2003                                                |
+| Минимальная система | Windows Server 2003                                                |
 
 
 

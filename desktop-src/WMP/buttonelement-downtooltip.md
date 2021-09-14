@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ae152fd5e4f5ac9aa9b46abfed6084adfa0d20bad42bfa7e88afee18c2517755
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4c9edc9c5c8de697f7ee570bb85bd0d3226d26f3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119764374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889336"
 ---
 # <a name="buttonelementdowntooltip"></a>БУТТОНЕЛЕМЕНТ. Довнтултип
 
@@ -31,11 +31,11 @@ ms.locfileid: "119764374"
 
 Этот атрибут является строкой для чтения и записи со значением по умолчанию "" (пустая строка) с максимальной длиной 1024 символов.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если для этого атрибута задано значение "" (пустая строка), подсказка не отображается.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -45,7 +45,7 @@ ms.locfileid: "119764374"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

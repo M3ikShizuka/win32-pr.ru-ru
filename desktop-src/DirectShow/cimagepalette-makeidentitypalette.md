@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: cb6e9a4e2c6adc411b7b043e35dc6dacf45dbb6a6ee4cf326a1c1953c559c16f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8e105652108e74907375408f0bd8946c69194202
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119916134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971653"
 ---
 # <a name="cimagepalettemakeidentitypalette-method"></a>Цимажепалетте. Макеидентитипалетте, метод
 
@@ -69,13 +69,13 @@ HRESULT MakeIdentityPalette(
 
 При \_ успешном выполнении или при сбое возвращает \_ значение ОК.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод сравнивает зарезервированные записи в системной палитре с соответствующими записями в массиве *пентри* . Если они точно соответствуют друг другу, метод устанавливает \_ флаг СВОРАЧИВАНИЯ ПК в оставшихся (не зарезервированных) записях палитры в *пентри*. Этот флаг предотвращает попытку GDI сопоставлять записи логической палитры с записями системной палитры.
 
 Метод [**Цимажепалетте:: макепалетте**](cimagepalette-makepalette.md) вызывает этот метод.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -86,7 +86,7 @@ HRESULT MakeIdentityPalette(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

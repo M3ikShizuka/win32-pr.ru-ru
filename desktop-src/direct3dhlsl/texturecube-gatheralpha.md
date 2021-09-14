@@ -12,12 +12,12 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_name: ''
 api_location: ''
-ms.openlocfilehash: 599e2554cb393b9d9c90e06b7b06509c5dc6ce0bc84a7bccc19da0abbb785c8a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d49254c7759d041ab642434085607057611ce053
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119949254"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963490"
 ---
 # <a name="texturecubegatheralpha-methods"></a>Методы Текстурекубе:: Гасералфа
 
@@ -33,7 +33,7 @@ ms.locfileid: "119949254"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

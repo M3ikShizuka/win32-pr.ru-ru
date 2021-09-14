@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: dd0257fa614a6581cc31f5416e6f1c2395fcb9444721d3668c9f2d2498e52088
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dd8ca25b2d5a551d803e79e69cf8d1095ee47511
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119904644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891925"
 ---
 # <a name="iamtimelinetrackgetnextsrc-method"></a>Метод Иамтимелинетракк:: Жетнекстсрк
 
@@ -64,7 +64,7 @@ HRESULT GetNextSrc(
 
 Возвращает \_ значение ОК, если метод получает источник, или \_ false в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если время, заданное в *схеме* координат, находится между временем начала и окончания источника, метод извлекает этот источник.
 
@@ -80,7 +80,7 @@ HRESULT GetNextSrc(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -91,7 +91,7 @@ HRESULT GetNextSrc(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

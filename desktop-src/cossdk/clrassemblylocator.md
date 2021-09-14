@@ -11,12 +11,12 @@ api_name:
 - ClrAssemblyLocator
 api_type:
 - COM
-ms.openlocfilehash: 78f041e8bdc614b1ac6007e21ffbf46ea4afe789a501bb1acefdd21263031859
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ff5c1d21525a950208c1b919d4dee0e2122d2e50
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119129276"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971274"
 ---
 # <a name="clrassemblylocator-class"></a>Класс Клрассемблилокатор
 
@@ -42,7 +42,7 @@ ms.locfileid: "119129276"
 
 Используйте этот класс для доступа к методам [**иассемблилокатор**](/windows/desktop/api/ComSvcs/nn-comsvcs-iassemblylocator).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы создать этот объект, вызовите [**CoCreateInstance**](/windows/desktop/api/combaseapi/nf-combaseapi-cocreateinstance).
 

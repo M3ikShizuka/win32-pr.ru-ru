@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 0becacba37f3f474577c36a694539de77795f1c19ccf3b1655cb80370be9e297
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 898d31c48807c3bf0826dc643d89126db36b0f0b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120050924"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886653"
 ---
 # <a name="note"></a>ПРИМЕЧАНИЕ
 
@@ -56,7 +56,7 @@ NOTEn(
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эти макросы являются вариантами макроса [**дбглог**](dbglog.md) . Они создают сообщения трассировки журнала уровня 5 \_ .
 
@@ -70,7 +70,7 @@ NOTE2("Width: %d, Height: %d", width, height);
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -81,7 +81,7 @@ NOTE2("Width: %d, Height: %d", width, height);
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 9404c6b7-9157-4366-be3a-ed65ef260f12
 title: Метод Жетплайерпаренталкаунтри
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: af4338531bd54056c9601d37b87b93bbbdb5f7c711306f34a6374a4d429ba861
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b20cd0a36da5e30cbd5b2a8da71b05433801a61f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119756574"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053365"
 ---
 # <a name="getplayerparentalcountry-method"></a>Метод Жетплайерпаренталкаунтри
 

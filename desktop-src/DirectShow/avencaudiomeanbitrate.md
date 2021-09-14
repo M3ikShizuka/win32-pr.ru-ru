@@ -4,12 +4,12 @@ ms.assetid: 9513ad64-2de9-497d-86ce-46cfdf87e0f8
 title: Свойство Авенкаудиомеанбитрате (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ac7b0d1ad6cfde3aee4ec9c747feb8d692c3917332808e40e3d5f76e3d01ce21
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 75e311686e6113003593c8a6dbe02a9fca1f30b9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120079474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162048"
 ---
 # <a name="avencaudiomeanbitrate-property"></a>Авенкаудиомеанбитрате, свойство
 
@@ -29,7 +29,7 @@ ms.locfileid: "120079474"
 
 Кодировщики могут реализовывать это свойство как перечислимый набор или как линейный Диапазон.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "120079474"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

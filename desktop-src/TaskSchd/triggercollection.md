@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c7fd103918bc3898e56a3041221c9c70c9ede9aea5df4843cd984f2502279014
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 29f7288d8db0b56fc9cc8b3de7ace8c10c13959a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119001942"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891357"
 ---
 # <a name="triggercollection-object"></a>Объект Тригжерколлектион
 
@@ -42,9 +42,9 @@ ms.locfileid: "119001942"
 
 | Метод                                     | Описание                                                                                |
 |:-------------------------------------------|:-------------------------------------------------------------------------------------------|
-| [**Clear**](triggercollection-clear.md)   | Удаляет все триггеры из коллекции.<br/>                                        |
+| [**Открытым**](triggercollection-clear.md)   | Удаляет все триггеры из коллекции.<br/>                                        |
 | [**Создание**](triggercollection-create.md) | Создает новый триггер для задачи.<br/>                                             |
-| [**Отменит**](triggercollection-remove.md) | Удаляет указанный триггер из коллекции триггеров, используемых задачей.<br/> |
+| [**Удалить**](triggercollection-remove.md) | Удаляет указанный триггер из коллекции триггеров, используемых задачей.<br/> |
 
 
 
@@ -59,13 +59,13 @@ ms.locfileid: "119001942"
 | Свойство                                            | Тип доступа          | Описание                                                |
 |:----------------------------------------------------|:---------------------|:-----------------------------------------------------------|
 | [**Count**](triggercollection-count.md)<br/> | Только для чтения<br/> | Возвращает число триггеров в коллекции.<br/>  |
-| [**Компонент**](triggercollection-item.md)<br/>   | Только для чтения<br/> | Возвращает указанный триггер из коллекции.<br/> |
+| [**Элемент**](triggercollection-item.md)<br/>   | Только для чтения<br/> | Возвращает указанный триггер из коллекции.<br/> |
 
 
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При чтении или записи XML для задачи триггеры для задачи задаются в элементе [**Triggers**](taskschedulerschema-triggers-tasktype-element.md) схемы планировщик задач.
 
@@ -93,7 +93,7 @@ ms.locfileid: "119001942"
 
 <dl> <dt>
 
-[**Триггер**](trigger.md)
+[**Необходимость**](trigger.md)
 </dt> </dl>
 
  

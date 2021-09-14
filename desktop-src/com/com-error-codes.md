@@ -4,12 +4,12 @@ description: В следующих разделах приводятся спи�
 ms.assetid: 373671fe-489e-4f12-afe5-b7541f32441b
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9743eb419c6af179d351ace4784d2cc251b12153da1edb7c3d0a743592eec150
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a8317eb9ad5281f99ccd494c228b03d2d2142c5b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118550607"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053196"
 ---
 # <a name="com-error-codes"></a>Коды ошибок COM
 

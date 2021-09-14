@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 121d901bee9da9b8ea6f7dad31e589002c0b4859619f6dd02941f438af3b647f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a411540d95a7313070a643b7b1895b564a49e089
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119767024"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053310"
 ---
 # <a name="ixml2dexwritegrffile-method"></a>Метод IXml2Dex:: Вритегрффиле
 
@@ -78,7 +78,7 @@ HRESULT WriteGrfFile(
 
 Этот метод также может возвращать коды ошибок, создаваемые внутренними вызовами методов **IStorage:: креатестреам** и **IPersist:: Save** . Дополнительные сведения см. в разделе пакет SDK для платформы.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.
@@ -90,7 +90,7 @@ HRESULT WriteGrfFile(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -102,7 +102,7 @@ HRESULT WriteGrfFile(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

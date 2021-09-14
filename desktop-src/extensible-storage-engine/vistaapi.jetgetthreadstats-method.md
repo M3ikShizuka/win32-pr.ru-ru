@@ -25,11 +25,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 92572fd538f0c6c2643e7b40a07ac168ae6980d4
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105701903"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126962745"
 ---
 # <a name="vistaapijetgetthreadstats-method"></a>Вистаапи. Жетжетсреадстатс, метод
 
@@ -62,7 +62,7 @@ public static void JetGetThreadStats(
     
     Возвращает статистические данные потока.
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

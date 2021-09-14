@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 6578b18e98c99b471097c98e9dd75de1cdce0c134635cad1fb17e32340eb1a9f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3442d45328b10437111219ad36fc114a9aa15ad6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119428424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126892008"
 ---
 # <a name="iamtimelineobjfixtimes-method"></a>Метод Иамтимелинеобж:: Фикстимес
 
@@ -64,7 +64,7 @@ HRESULT FixTimes(
 
 Возвращает \_ ОК в случае успеха или E \_ нотинтри, если объект не является частью группы.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Во время подготовки к просмотру DES округляет время начала и окончания объекта до ближайшей границы фрейма. Однако DES не перезаписывает время объекта. При изменении частоты кадров группы округленные значения всегда вычисляются исходя из исходного времени. дополнительные сведения см. [в разделе время в DirectShow редактирования служб](time-in-directshow-editing-services.md).
 
@@ -80,7 +80,7 @@ HRESULT FixTimes(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

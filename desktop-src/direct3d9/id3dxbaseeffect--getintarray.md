@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: 7f9f360c51007d7bc51fe39dfeeb13a2c0a5f4de0b3da1582075c865a3ff1e21
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f13c6b8717c2108920d7b914da20b99f0451f5d9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119279004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964822"
 ---
 # <a name="id3dxbaseeffectgetintarray-method"></a>Метод ID3DXBaseEffect:: Жетинтаррай
 

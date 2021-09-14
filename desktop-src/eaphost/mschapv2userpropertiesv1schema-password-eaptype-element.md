@@ -14,12 +14,12 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: cbbcb7b0acd372bbe71ee6d22f44a736948b145378f62f40820e3de53d77b875
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6da29146be7ed2f0c17d7311f79921b44cd0929e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118273203"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963413"
 ---
 # <a name="password-eaptype-element"></a>Password (Еаптипе), элемент
 
@@ -33,7 +33,7 @@ ms.locfileid: "118273203"
 
 Элемент **Password** определяется элементом [**еаптипе**](mschapv2userpropertiesv1schema-eaptype-element.md) .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если элемент **Password (еаптипе)** отсутствует, то хэш пароля будет получен из Winlogon. Этот элемент является необязательным.
 

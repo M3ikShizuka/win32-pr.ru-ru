@@ -4,12 +4,12 @@ description: Используйте API ID3D11DeviceContext2 Ресизетил�
 ms.assetid: 529E874E-650B-4BFD-97F6-E66E743564A9
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 00b91e3942e5da88c58c391f652a2b23a7b02513777060d78e86522b892da478
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 86368da46f7c2219f42b5ecbc122b79fee19e72c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119375814"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966870"
 ---
 # <a name="tile-pool-resizing"></a>Изменение размера пула плиток
 

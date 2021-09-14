@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e5b408ad8642cc17b85d783a8f26d7de3322a26309897e4d9b3c128401449d0e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a1604367a8daad1ae1b5f44c6021d22bf1aa7c5a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119139347"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126886504"
 ---
 # <a name="showmessageactionmessagebody-property"></a>Шовмессажеактион. MessageBody, свойство
 
@@ -42,7 +42,7 @@ ShowMessageAction.MessageBody As String
 
 Текст сообщения, отображаемый в тексте окна сообщения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Параметризованные строки можно использовать в тексте сообщения в окне сообщения. Дополнительные сведения см. в разделе "примеры" в [**EventTrigger. валуекуериес**](eventtrigger-valuequeries.md).
 

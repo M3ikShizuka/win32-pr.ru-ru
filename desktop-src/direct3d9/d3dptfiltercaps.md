@@ -5,11 +5,11 @@ title: D3DPTFILTERCAPS
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 06624f4f8779a866d440212c205baa9b4a84839a
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122624550"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970961"
 ---
 # <a name="d3dptfiltercaps"></a>D3DPTFILTERCAPS
 
@@ -25,7 +25,7 @@ ms.locfileid: "122624550"
 <tbody>
 <tr class="odd">
 <td>#определенно</td>
-<td>Описание:</td>
+<td>Описание</td>
 </tr>
 <tr class="even">
 <td>D3DPTFILTERCAPS_CONVOLUTIONMONO</td>

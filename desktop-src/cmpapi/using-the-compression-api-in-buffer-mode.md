@@ -4,12 +4,12 @@ ms.assetid: 0A062E5D-E5FA-4098-B76E-E136FC74D853
 title: Использование API сжатия в режиме буфера
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 79a63b8a7dabc7b61c85abb192f855f094a6e271a99997b9e98b849614d53527
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 676a5bea1ea4fa673bbf9a8fc2caf9fe84d9bc1e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119048942"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966954"
 ---
 # <a name="using-the-compression-api-in-buffer-mode"></a>Использование API сжатия в режиме буфера
 

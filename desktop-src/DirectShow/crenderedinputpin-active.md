@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 0f7fce3525feb2c4ff50a93423697f80db6f1285ec354ac01b5f59e7bf9b7ada
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d8c9b06f41454d2cb9a7ac35dd7e8f8b335632f9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118953903"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971638"
 ---
 # <a name="crenderedinputpinactive-method"></a>Крендерединпутпин. активный метод
 
@@ -44,7 +44,7 @@ HRESULT Active();
 
 Возвращает \_ ОК, если успешно, или код ошибки в противном случае.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ HRESULT Active();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

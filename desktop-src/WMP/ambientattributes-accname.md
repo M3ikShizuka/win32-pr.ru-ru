@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a525688683584b112ae002b4179ae68623a5709d67685ad38b34256226f55f62
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 506af45bd214a91eda26b19453810ae90629dec9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119509664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890045"
 ---
 # <a name="ambientattributesaccname"></a>Амбиентаттрибутес. Аккнаме
 
@@ -31,13 +31,13 @@ ms.locfileid: "119509664"
 
 Этот атрибут является **строкой** для чтения и записи со значением по умолчанию, равным атрибуту **ID** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут используется в целях обеспечения специальных возможностей. Он позволяет программе чтения читать вслух имя любого элемента.
 
 Этот атрибут также применяется к элементам кнопки внутри элемента управления группы кнопок.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -47,7 +47,7 @@ ms.locfileid: "119509664"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

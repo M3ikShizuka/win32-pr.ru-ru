@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 289c6e56d4b5387fe9224e476c69865107102141b687825cdfd9a717f482632c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 317f08af2a4ff0e9410c61da8b19d14735a14f6c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119537034"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053375"
 ---
 # <a name="getinterface-function"></a>Функция "интерфейс
 
@@ -61,11 +61,11 @@ HRESULT GetInterface(
 
 Возвращает значение **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция-член выполняет поточно-ориентированное приращение счетчика ссылок. Чтобы получить интерфейс и добавить ссылку, вызовите эту функцию из переопределяющей реализации метода **инонделегатингункновн:: нонделегатингкуеринтерфаце** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ HRESULT GetInterface(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

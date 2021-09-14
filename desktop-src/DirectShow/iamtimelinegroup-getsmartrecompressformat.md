@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 8d568bdf0446533df9391c1c0b30382b9a56ecdf0ed788d64c48c38ddf0684a7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8560bb9d8da6904cf74b62ffd238b234e9c74ed6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118400732"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126892093"
 ---
 # <a name="iamtimelinegroupgetsmartrecompressformat-method"></a>Метод Иамтимелинеграуп:: Жетсмартрекомпрессформат
 
@@ -56,7 +56,7 @@ HRESULT GetSmartRecompressFormat(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если в приложении не задан формат интеллектуального сжатия (путем вызова [**иамтимелинеграуп:: сетсмартрекомпрессформат**](iamtimelinegroup-setsmartrecompressformat.md)), то формат, возвращаемый этим методом, будет недопустимым. Вызовите метод [**иамтимелинеграуп:: иссмартрекомпрессформатсет**](iamtimelinegroup-issmartrecompressformatset.md) , чтобы определить, был ли задан формат сжатия.
 
