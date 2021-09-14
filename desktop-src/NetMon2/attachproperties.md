@@ -13,12 +13,12 @@ api_type:
 - UserDefined
 api_location:
 - Netmon.h
-ms.openlocfilehash: 018a54652ef5c24562a6c5220aa24da00276dce4729608cf59162bc11c7d7aee
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3b3cb4be93b8d960b39f0f5c5cf2b5a4809573cf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119012342"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057314"
 ---
 # <a name="attachproperties-callback-function"></a>Функция обратного вызова Аттачпропертиес
 
@@ -120,7 +120,7 @@ DWORD AttachProperties(
 
 Если функция завершается неудачно, возвращаемое значение является указателем на распознаваемые данные. Параметр *лппротокол* передает указатель на библиотеку DLL средства синтаксического анализа.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сетевой монитор вызывает функцию **аттачпропертиес** для каждого средства синтаксического анализа, распознающего фрагмент данных в кадре. Обратите внимание, что средство синтаксического анализа определяет, какие свойства существуют в распознанных данных и где находится каждое свойство.
 
@@ -146,7 +146,7 @@ DWORD AttachProperties(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -158,7 +158,7 @@ DWORD AttachProperties(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

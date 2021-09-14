@@ -23,12 +23,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a3e4b62c700e95d3d0fc6b978b8ec1d451fefb5ce38d3371b4e1b1f22f0cc259
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 188761bd06a32e0c6f246dfe41f354adf1e06332
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119769104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056510"
 ---
 # <a name="win32_tssysteminfo-class"></a>\_Класс Win32 тссистеминфо
 
@@ -51,7 +51,7 @@ class Win32_TSSystemInfo : CIM_LogicalElement
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ тссистеминфо** имеет следующие типы членов:
 
@@ -114,7 +114,7 @@ class Win32_TSSystemInfo : CIM_LogicalElement
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -231,14 +231,14 @@ class Win32_TSSystemInfo : CIM_LogicalElement
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                               |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                          |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                          |
 | Пространство имен<br/>                | Корневой \\ CIMV2 \\ терминалсервицес<br/>                                                |
 | MOF<br/>                      | <dl> <dt>Тсаллов. mof</dt> </dl>  |
 | DLL<br/>                      | <dl> <dt>TsPubWmi.dll</dt> </dl> |

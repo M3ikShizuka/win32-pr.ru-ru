@@ -4,12 +4,12 @@ ms.assetid: d07dab5a-7c06-40c4-aa59-fa0baaaa77e7
 title: Создание дескриптора безопасности низкого уровня
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4a6462dcd7672836df5f2c1f6b368723bc3a9488eff290dc22a071ce40279def
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cdafc99fe4d01c24e68a076aecc035843452205b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117781487"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057064"
 ---
 # <a name="low-level-security-descriptor-creation"></a>Создание дескриптора безопасности низкого уровня
 

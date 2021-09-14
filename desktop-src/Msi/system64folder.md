@@ -4,24 +4,24 @@ ms.assetid: ce25c95e-cff5-44ec-81cb-b3104fb9b987
 title: System64Folder, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d586451ab596f5b480c74f382659596128a12c041596dec3c530b18307af2820
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 62e05f9067c4f5a77b5361fdefe0f5b47b9116ab
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119500434"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057587"
 ---
 # <a name="system64folder-property"></a>System64Folder, свойство
 
 Установщик задает для свойства **System64Folder** полный путь к предопределенной папке System64. Для существующего свойства **System64Folder** задается соответствующая 32-разрядная папка.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Установщик задает это свойство для 64-разрядного Windows. например, в 64-разрядном Windows значение может быть C: \\ Window \\ System32. Это свойство не используется в 32-разрядном Windows.
 
 обычно эта папка является вложенной папкой Windows папки. Однако он находится на сервере, настроенном для совместного использования Windows.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

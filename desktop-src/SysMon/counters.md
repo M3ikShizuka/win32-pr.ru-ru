@@ -15,12 +15,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f8349c1425450491c3fc658f6ac1ac3c5fcf75d3e617a92f6e34b91f2f5802e5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dbcbf8da93f13dce2ce2a290adeab9394ee8addb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118883341"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056814"
 ---
 # <a name="counters-collection"></a>Коллекция Counters
 
@@ -44,7 +44,7 @@ ms.locfileid: "118883341"
 | Метод                            | Описание                                                                           |
 |:----------------------------------|:--------------------------------------------------------------------------------------|
 | [**Включить**](counters-add.md)       | Добавляет экземпляр [**каунтеритем**](counteritem.md) в коллекцию.<br/>      |
-| [**Отменит**](counters-remove.md) | Удаляет экземпляр [**каунтеритем**](counteritem.md) из коллекции.<br/> |
+| [**Удалить**](counters-remove.md) | Удаляет экземпляр [**каунтеритем**](counteritem.md) из коллекции.<br/> |
 
 
 
@@ -56,16 +56,16 @@ ms.locfileid: "118883341"
 
 
 
-| Свойство.                                   | Описание                                                                                         |
+| Свойство                                   | Описание                                                                                         |
 |:-------------------------------------------|:----------------------------------------------------------------------------------------------------|
-| [**Count**](counters-count.md)<br/> | Возвращает количество экземпляров [**каунтеритем**](counteritem.md) в коллекции.<br/>  |
+| [**Расчета**](counters-count.md)<br/> | Возвращает количество экземпляров [**каунтеритем**](counteritem.md) в коллекции.<br/>  |
 | [**Элемент**](counters-item.md)<br/>   | Извлекает указанный экземпляр [**каунтеритем**](counteritem.md) из коллекции.<br/> |
 
 
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Объект **Counters** является свойством по умолчанию объекта [**системмонитор**](systemmonitor.md) .
 

@@ -4,12 +4,12 @@ description: Задачу можно завершить во время ее в�
 ms.assetid: f8401650-e196-4959-8f23-3d649a55f73d
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2705687b5383589c297348b1b5efa805b8ab407aeaef1c8c1213b1f9f6b0e894
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 73e632b00a9e957849a5735d31018e3444113190
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118354776"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056605"
 ---
 # <a name="terminating-a-task-example"></a>Пример завершения задачи
 
@@ -34,7 +34,7 @@ ms.locfileid: "118354776"
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
