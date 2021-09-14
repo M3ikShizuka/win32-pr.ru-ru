@@ -4,12 +4,12 @@ ms.assetid: c6c05267-1c93-48e2-b463-b5a1514f1b7b
 title: Атрибут MF_DEVSOURCE_ATTRIBUTE_SOURCE_TYPE (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1160242b32ce6b6b902d1575cba4d275388a38b980d69a0bad0a528f377085d0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3445c74b1a77472bad564f6988f9ae2f4696fef7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118060688"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462157"
 ---
 # <a name="mf_devsource_attribute_source_type-attribute"></a>\_ \_ \_ Атрибут типа источника атрибута MF девсаурце \_
 
@@ -62,7 +62,7 @@ ms.locfileid: "118060688"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

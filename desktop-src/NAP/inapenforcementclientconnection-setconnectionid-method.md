@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1fdde438be329627645c7615453ff198e9c4f01f540684c27e8e3a5699e48499
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fa9749be304170ec7706b637429f577e77411ac5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118939655"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461771"
 ---
 # <a name="inapenforcementclientconnectionsetconnectionid-method"></a>Метод Инапенфорцементклиентконнектион:: Сетконнектионид
 
@@ -88,7 +88,7 @@ HRESULT SetConnectionId(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

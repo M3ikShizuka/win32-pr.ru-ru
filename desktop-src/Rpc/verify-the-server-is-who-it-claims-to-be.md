@@ -4,12 +4,12 @@ description: Лучше использовать взаимную проверк
 ms.assetid: 6636a865-0e3b-4e52-81bb-0df48285e928
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d57c11716f94ec4a8c2184c45486e31f6d3cfda9642b346f8bf464c1a3f85944
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2d3e16ae6a87134a9fbc783d35216a1c4df56ce2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119010532"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169023"
 ---
 # <a name="verify-the-server-is-who-it-claims-to-be"></a>Проверьте, Кто ли сервер утвержден
 

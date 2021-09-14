@@ -4,12 +4,12 @@ ms.assetid: 167a04d5-24f4-4885-b97c-b4536e41e125
 title: Методы Graphics. Енумератеметафиле (Гдиплусграфикс. h)
 ms.date: 07/02/2019
 ms.topic: reference
-ms.openlocfilehash: 89636515ca930d154b91fae8e1bd3fccf01f7afe494217c0e3a6fb91f5849916
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a64cc087fbf1c9e51071e72d8ddfec419365dc69
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119037262"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168316"
 ---
 # <a name="graphicsenumeratemetafile-methods"></a>Методы Graphics. Енумератеметафиле
 

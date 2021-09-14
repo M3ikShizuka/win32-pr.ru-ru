@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Winspool.h
-ms.openlocfilehash: 3425f9477b153721980e3bb44b919b0baea37aa645caea6a3ee328a9ff923eb8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1847ffa1912a8638476ce80dfbdb71c40fc376d8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119824735"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343659"
 ---
 # <a name="printprocessor_caps_2-structure"></a>\_Структура принтпроцессор Cap \_ 2
 
@@ -43,7 +43,7 @@ typedef struct _PRINTPROCESSOR_CAPS_2 {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -133,7 +133,7 @@ typedef struct _PRINTPROCESSOR_CAPS_2 {
 
 Когда приложение вызывает [**жетпринтердата**](getprinterdata.md), диспетчер очереди вызовов вызывает функцию **жетпринтпроцессоркапабилитиес** обработчика заданий печати и задает имя значения, имеющего формат _DataType_ **принтпроккапс \_**, где *DataType* — это имя входного типа данных.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -145,7 +145,7 @@ typedef struct _PRINTPROCESSOR_CAPS_2 {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

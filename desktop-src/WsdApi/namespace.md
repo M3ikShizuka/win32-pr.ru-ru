@@ -4,12 +4,12 @@ ms.assetid: 8e31526a-639f-481b-91f1-fcd376818cbf
 title: элемент nameSpace
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f90136e684717c13e2500d66384d49431512659b4e5cccd3dc88287229166c60
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3c3e2735efbb99fbe404f2531336c2e2bd0f89d7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119954774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461225"
 ---
 # <a name="namespace-element"></a>элемент nameSpace
 
@@ -42,7 +42,7 @@ ms.locfileid: "119954774"
 |-------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | [**Обеспечения**](codename.md)<br/>               | Имя, используемое для обнаружения пространства имен в созданном коде.<br/> <br/>                  |
 | [**макропрефикс**](macroprefix.md)<br/>         | Префикс, который будет использоваться в созданном коде для имен макросов в пространстве имен.<br/> <br/> |
-| [**безымян**](name.md)<br/>                       | Полное имя в пространстве имен.<br/> <br/>                                                |
+| [**name**](name.md)<br/>                       | Полное имя в пространстве имен.<br/> <br/>                                                |
 | [**преферредпрефикс**](preferredprefix.md)<br/> | Префикс, с которым должно быть сопоставлено пространство имен, чтобы сделать XML более удобочитаемым.<br/> <br/> |
 
 

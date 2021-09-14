@@ -4,12 +4,12 @@ description: В следующей процедуре описывается и�
 ms.assetid: aa55ab09-206b-49ed-8cb4-e311c1ed2d9d
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8aefb1f9658752677e7850e939fcb6a3c4c6047c5efc2dc0ceb06ec0f51900ca
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8bb44105d9f3d391bb2ed793aca8a6da2c330b30
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119009992"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169003"
 ---
 # <a name="using-restart-manager-with-a-secondary-installer"></a>Использование диспетчера перезапуска с дополнительным установщиком
 

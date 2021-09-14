@@ -4,12 +4,12 @@ ms.assetid: 9A21D21B-E77F-4C7C-B41F-361CEDA322E7
 title: Атрибут MF_CAPTURE_ENGINE_MEDIASOURCE_CONFIG (Mfcaptureengine. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a3d111aa41d423f39bb55597d75ec18cc2ee24d93a7f250074a10882c6f38f66
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8afaea6e47b729e325e67135c8a1d39fa88bdc4c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119464374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462175"
 ---
 # <a name="mf_capture_engine_mediasource_config-attribute"></a>\_ \_ \_ Атрибут конфигурации МЕДИАСАУРЦЕ модуля записи MF \_
 

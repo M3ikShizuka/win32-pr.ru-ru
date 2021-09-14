@@ -5,11 +5,11 @@ title: Использование матрицы цветов для настр�
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 81180b1f09b11e37b322e37106dab1879a00bbdb
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104541439"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462259"
 ---
 # <a name="using-a-color-matrix-to-set-alpha-values-in-images"></a>Использование матрицы цветов для настройки альфа-компонентов в изображениях
 

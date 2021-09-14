@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 0709b24779d3aac90d496b38b4654596479ad7a9122660158b53b4b2e75ba622
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d517e13f8da103b1f9cee9498cce58a62eaf6462
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118336722"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343235"
 ---
 # <a name="playlist-object"></a>Объект списка воспроизведения
 
@@ -28,7 +28,7 @@ ms.locfileid: "118336722"
 
 
 
-| Свойство                                      | Описание                                                      |
+| Свойство.                                      | Описание                                                      |
 |-----------------------------------------------|------------------------------------------------------------------|
 | [аттрибутекаунт](playlist-attributecount.md) | Извлекает количество атрибутов, связанных с списком воспроизведения. |
 | [attributeName](playlist-attributename.md)   | Возвращает имя атрибута, указанного индексом.        |
@@ -77,7 +77,7 @@ ms.locfileid: "118336722"
 
 Так как это наиболее распространенные средства доступа, *Player*. **куррентплайлист** используется в целях иллюстрации в разделах синтаксиса Reference.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

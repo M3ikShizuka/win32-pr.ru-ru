@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0496a3b9c8adad0ad4095b6c8aed3888940fd699750350117f4bf503c442f4c8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d2d51cf748bb65a9db38c56fded102ddeb5b40fb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119681664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172955"
 ---
 # <a name="registeredtaskstop-method"></a>Регистередтаск. останавливаться, метод
 
@@ -59,7 +59,7 @@ RegisteredTask.Stop( _
 
 Системная учетная запись. пользователи с правами группы администраторов могут прерывать задачу, а если пользователь имеет права на выполнение и чтение задачи, он может прерывать задачу. Пользователь может прерывать экземпляры задач, работающие под теми же учетными данными, что и учетная запись пользователя. Во всех остальных случаях пользователю отказано в доступе для завершения задачи.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -72,7 +72,7 @@ RegisteredTask.Stop( _
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

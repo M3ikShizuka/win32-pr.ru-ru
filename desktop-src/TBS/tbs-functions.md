@@ -7,11 +7,11 @@ keywords:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 8d1b34f2dfbe18ef2230838ff4ba9ec2241d3cc2
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104413328"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243781"
 ---
 # <a name="tbs-functions"></a>Функции TBS
 
@@ -27,9 +27,9 @@ TBS предоставляет следующие функции.
 | [**Тбси \_ создать \_ аттестацию \_ из \_ журнала**](/previous-versions/windows/desktop/legacy/dn455155(v=vs.85))<br/> | Создает аттестацию, извлекая Трустпоинт из журнала TCG.<br/>                                                                                |
 | [**Тбси \_ жетдевицеинфо**](/windows/desktop/api/Tbs/nf-tbs-tbsi_getdeviceinfo)<br/>                                | Получение версии доверенного платформенного модуля на компьютере.<br/>                                                                                                  |
 | [**Тбси \_ Get \_ овнераус**](/windows/desktop/api/Tbs/nf-tbs-tbsi_get_ownerauth)<br/>                               | Получает авторизацию владельца доверенного платформенного модуля, если сведения доступны в локальном реестре. <br/>                                             |
-| [**Тбси \_ получить \_ \_ Журнал TCG**](/windows/desktop/api/Tbs/nf-tbs-tbsi_get_tcg_log)<br/>                                  | Возвращает самый последний журнал конфигурации загрузки Windows (ВБКЛ), который также называется журналом TCG.<br/>                                                  |
-| [**Тбси \_ получить \_ Журнал TCG, \_ \_ пример**](/windows/desktop/api/Tbs/nf-tbs-tbsi_get_tcg_log_ex)<br/>                           | Возвращает журнал конфигурации загрузки Windows (ВБКЛ), который также называется журналом TCG указанного типа.<br/>                                          |
-| [**Тбси \_ Получение \_ \_ журналов TCG**](/previous-versions/windows/desktop/legacy/dn455156(v=vs.85))<br/>                                | Получите один или несколько журналов конфигурации загрузки Windows (ВБКЛ), которые также называются журналами TCG.<br/>                                                        |
+| [**Тбси \_ получить \_ \_ Журнал TCG**](/windows/desktop/api/Tbs/nf-tbs-tbsi_get_tcg_log)<br/>                                  | возвращает самый последний журнал конфигурации загрузки Windows (вбкл), который также называется журналом TCG.<br/>                                                  |
+| [**Тбси \_ получить \_ Журнал TCG, \_ \_ пример**](/windows/desktop/api/Tbs/nf-tbs-tbsi_get_tcg_log_ex)<br/>                           | возвращает Windows журнал конфигурации загрузки (вбкл), который также называется журналом TCG указанного типа.<br/>                                          |
+| [**Тбси \_ Получение \_ \_ журналов TCG**](/previous-versions/windows/desktop/legacy/dn455156(v=vs.85))<br/>                                | получите один или несколько журналов конфигурации Windows загрузки (вбкл), которые также называются журналами TCG.<br/>                                                        |
 | [**\_Команда физического \_ присутствия \_ тбси**](/windows/desktop/api/Tbs/nf-tbs-tbsi_physical_presence_command)<br/>     | Передает в драйвер команду физического присутствия с поддержкой ACPI через TBS.<br/>                                                                               |
 | [**Тбси \_ отозвать \_ аттестацию**](/windows/desktop/api/Tbs/nf-tbs-tbsi_revoke_attestation)<br/>                     | Делает недействительным PCRs, если драйвер ELAM обнаруживает нарушение политики (например, rootkit-программы).<br/>                                                     |
 | [**\_Команды отмены \_ тбсип**](/windows/desktop/api/Tbs/nf-tbs-tbsip_cancel_commands)<br/>                        | Отменяет все невыполненные команды для указанного контекста.<br/>                                                                                      |

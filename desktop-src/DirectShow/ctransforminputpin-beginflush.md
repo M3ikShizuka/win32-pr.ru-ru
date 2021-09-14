@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 8199543491c27272cea96e994e9fc301c0ed53e2783fb2abff5677241c75dde4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a4d028634364ca59ae293d9ebb60a464974ccd74
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120053614"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246631"
 ---
 # <a name="ctransforminputpinbeginflush-method"></a>Ктрансформинпутпин. Бегинфлуш, метод
 
@@ -59,7 +59,7 @@ HRESULT BeginFlush();
 
 Этот метод вызывает метод [**кбасеинпутпин:: бегинфлуш**](cbaseinputpin-beginflush.md) ПИН-кода. Затем вызывается метод [**ктрансформфилтер:: бегинфлуш**](ctransformfilter-beginflush.md) фильтра для предоставления вызова в нисходящем направлении.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

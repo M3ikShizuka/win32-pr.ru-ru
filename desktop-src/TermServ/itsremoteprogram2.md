@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 06f5f6769cb764691966d13e0f6d4b4b48f17684c4013b6d6a0d333885aad3c9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8f57e78d5027d1825f9e1601eb1f36efb94d37a0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120072284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168655"
 ---
 # <a name="itsremoteprogram2-interface"></a>Интерфейс ITSRemoteProgram2
 
@@ -39,7 +39,7 @@ ms.locfileid: "120072284"
 
 
 
-| Свойство                                                                                  | Тип доступа           | Описание                                                 |
+| Свойство.                                                                                  | Тип доступа           | Описание                                                 |
 |:------------------------------------------------------------------------------------------|:----------------------|:------------------------------------------------------------|
 | [**ремотеаппликатионаргс**](itsremoteprogram2-remoteapplicationargs.md)<br/>       | Только на запись<br/> | Аргументы командной строки для RemoteApp.<br/>    |
 | [**ремотеаппликатионнаме**](itsremoteprogram2-remoteapplicationname.md)<br/>       | Только на запись<br/> | Имя RemoteApp.<br/>                       |
@@ -49,7 +49,7 @@ ms.locfileid: "120072284"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -63,7 +63,7 @@ ms.locfileid: "120072284"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

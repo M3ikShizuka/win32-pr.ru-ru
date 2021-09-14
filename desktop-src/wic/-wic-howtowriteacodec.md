@@ -1,24 +1,24 @@
 ---
-description: В этом разделе рассматриваются разработчики с рекомендациями по внедрению кодеков формата файлов изображений, которые будут работать в инфраструктуре компонента Windows Imaging Component (WIC).
+description: в этом разделе рассматриваются разработчики с рекомендациями по внедрению кодеков формата файлов изображений, которые будут работать в инфраструктуре Windowsного компонента обработки изображений (WIC).
 ms.assetid: 58f03dc2-cc31-4d76-b75a-f332da1f900f
 title: Написание WIC-Enabled кодека
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: ee694d9a857781e97a31cb37f5ef18c518dae964
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103910168"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343475"
 ---
 # <a name="how-to-write-a-wic-enabled-codec"></a>Написание WIC-Enabled кодека
 
-В этом разделе рассматриваются разработчики с рекомендациями по внедрению кодеков формата файлов изображений, которые будут работать в инфраструктуре компонента Windows Imaging Component (WIC).
+в этом разделе рассматриваются разработчики с рекомендациями по внедрению кодеков формата файлов изображений, которые будут работать в инфраструктуре Windowsного компонента обработки изображений (WIC).
 
 <dl>
 
 [Введение](-wic-howtowriteacodec-intro.md)  
-[Принцип работы компонента Windows Imaging Component (WIC)](-wic-howwicworks.md)  
+[принцип работы компонента обработки изображений Windows (WIC)](-wic-howwicworks.md)  
 <dl>
 
 [Обнаружение и арбитраж](-wic-howwicworks.md)  
@@ -63,26 +63,26 @@ ms.locfileid: "103910168"
 <dl>
 
 [Регистрация нового формата контейнера с помощью средств чтения метаданных](-wic-decoderregentries.md)  
-</dl> </dd> <a href="-wic-integrationregentries.md">Интеграция с Windows Vista Фотогаллери и проводник</a>  
+</dl> </dd> <a href="-wic-integrationregentries.md">интеграция с Windows Vista фотогаллери и проводником</a>  
 <dl>
 
-[Хранилище свойств Windows](-wic-integrationregentries.md)  
-[Фотоальбом Windows Vista](-wic-integrationregentries.md)  
-[Кэш эскизов Windows Vista](-wic-integrationregentries.md)  
+[Windows Хранилище свойств](-wic-integrationregentries.md)  
+[Windows Галерея фотографий Vista](-wic-integrationregentries.md)  
+[Windows Кэш эскизов Vista](-wic-integrationregentries.md)  
 </dl> </dd> </dl> </dd> <a href="-wic-codecinstallandreg.md">Обновление кэша эскизов при установке кодека,</a> [делающей WIC-Enabled кодек, доступный для пользователей](-wic-codecinstallandreg.md) </dl> </dd> <a href="-wic-howtowriteacodec-conclusion.md"></a>  
 </dl>
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Введение (написание WIC-Enabled КОДЕка)](-wic-howtowriteacodec-intro.md)
 </dt> <dt>
 
-[Общие сведения о компоненте создания образов Windows](-wic-about-windows-imaging-codec.md)
+[Windows Общие сведения о компонентах обработки изображений](-wic-about-windows-imaging-codec.md)
 </dt> </dl>
 
  

@@ -4,12 +4,12 @@ ms.assetid: 09F54504-A6CF-4385-BDD7-8D23B1D0125C
 title: Атрибут MF_NALU_LENGTH_INFORMATION (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2020c0086247adda742ce2613045bb3a2004c3b8c13c7cdcb04a0ff3997cf0cd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c46d9a0b7cbec92c4cde40548b8d3baecf955b50
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119104420"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462098"
 ---
 # <a name="mf_nalu_length_information-attribute"></a>\_ \_ Атрибут сведений о длине MF налу \_
 
@@ -45,7 +45,7 @@ m_spSample->SetBlob( MF_NALU_LENGTH_INFORMATION,
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8 \[ приложения UWP для классических приложений \|\]<br/>                                  |
 | Минимальная версия сервера<br/> | Windows Server 2012 \[ приложения UWP для классических приложений \|\]<br/>                        |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 

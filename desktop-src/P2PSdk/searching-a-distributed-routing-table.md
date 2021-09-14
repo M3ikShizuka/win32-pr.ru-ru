@@ -4,12 +4,12 @@ ms.assetid: b3403a64-128c-461e-9384-8e62c03322e1
 title: Поиск в таблице распределенной маршрутизации
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b9016c351412d80b7adb97bc4325dae546e24db68e5737badc311e7c068f1a22
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1c9977ca395393cef09198182fb8790738d2b00c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120034244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461618"
 ---
 # <a name="searching-a-distributed-routing-table"></a>Поиск в таблице распределенной маршрутизации
 

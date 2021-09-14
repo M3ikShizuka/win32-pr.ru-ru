@@ -4,12 +4,12 @@ description: в этом примере C++ показано, как созда�
 ms.assetid: 5e2e8fa6-66c7-4356-8fd6-22f7974791b9
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cb9b87f21f2d301bcd500b4f28e41d1e2fada63ddaa8e7c9a4c833c6359f0b15
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 090a690601e24e1245040d0e7b394123afa94b07
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120011334"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172935"
 ---
 # <a name="registration-trigger-example-c"></a>Пример триггера регистрации (C++)
 

@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: ced70f2d0159ef4bbad3f2d7a8027c30b2c71a5f
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124371418"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461808"
 ---
 # <a name="wm_cap_driver_get_version-message"></a>\_Сообщение о \_ \_ получении \_ версии драйвера WM Cap
 
@@ -72,7 +72,7 @@ lParam = (LPARAM) (LPVOID) (LPSTR) (szVer);
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

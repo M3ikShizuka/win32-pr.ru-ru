@@ -4,12 +4,12 @@ description: Библиотеки времени выполнения RPC авт
 ms.assetid: 06b50a9f-b640-45b2-86e2-2bcea6c16c5c
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e281419bc2a869d43863f946c1fcb172da2f86c04186ba775766233d4caa65c8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 433ffdb11e86b06ee53d9b01f7f7755758538f22
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120017554"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461463"
 ---
 # <a name="starting-and-stopping-microsoft-locator"></a>Запуск и остановка локатора Майкрософт
 

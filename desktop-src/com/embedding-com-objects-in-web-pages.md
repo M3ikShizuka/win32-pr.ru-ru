@@ -4,12 +4,12 @@ description: На веб-страницах можно использовать 
 ms.assetid: 7e2c9da7-aeae-4206-8be9-1303240b2b1d
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5d13a92bd2de152e71ac4284ce37b977e8305f25dcb2aef5eb94d6019d115812
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4762dd01d4bc07aab5c0b146c56cdb1aec3cb28f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117736895"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174884"
 ---
 # <a name="embedding-com-objects-in-web-pages"></a>Внедрение объектов COM в веб-страницы
 

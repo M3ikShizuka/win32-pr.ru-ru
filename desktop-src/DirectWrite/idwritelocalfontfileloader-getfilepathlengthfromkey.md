@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 587f432f006493097ec8262fcc2201e2c3b67abe7115c395332671ec35efeba9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 091c3cd5f1e13c40d364a3db005793f1dd0bf5f1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117816355"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169867"
 ---
 # <a name="idwritelocalfontfileloadergetfilepathlengthfromkey-method"></a>Метод Идврителокалфонтфилелоадер:: Жетфилепасленгсфромкэй
 
@@ -77,7 +77,7 @@ HRESULT GetFilePathLengthFromKey(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -88,7 +88,7 @@ HRESULT GetFilePathLengthFromKey(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 67521329770abd1888356e7054b689c3f39a6293dff602a4920336760ccccb94
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 909d65013fb3fb83ffb926fea6a6b3f30980a3b9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120018094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461523"
 ---
 # <a name="rpctryfinally"></a>рпктрифиналли
 
@@ -27,7 +27,7 @@ ms.locfileid: "120018094"
 
 Дополнительные сведения см. в разделе [**рпкфиналли**](/previous-versions/aa375699(v=vs.80)).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -39,7 +39,7 @@ ms.locfileid: "120018094"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

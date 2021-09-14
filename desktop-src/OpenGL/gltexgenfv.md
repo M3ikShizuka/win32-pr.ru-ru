@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 22e7e7760eacc22f7ea47fa2e6fa2d9d9dab02d1499236dd02985d6f818d54f4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f4d5394b6385246f296a472ce51f2727e2738845
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118613332"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169255"
 ---
 # <a name="gltexgenfv-function"></a>Функция Глтексженфв
 

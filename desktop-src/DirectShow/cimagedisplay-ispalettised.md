@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: efe9b317727889ded0451f1275df51233277ad9f80d59f505fd646acf4c57409
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 89be1aa4883e22c1b91f7b895cb9f965a5595980
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119539294"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170012"
 ---
 # <a name="cimagedisplayispalettised-method"></a>Цимажедисплай. Испалеттисед, метод
 
@@ -44,7 +44,7 @@ BOOL IsPalettised();
 
 Возвращает **значение true** , если формат равен палеттизед, или **false** в противном случае.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ BOOL IsPalettised();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

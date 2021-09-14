@@ -4,12 +4,12 @@ ms.assetid: ec12a8ae-bdd6-473c-b72b-2ba5fe5fc9c0
 description: 'Дополнительные сведения: константы (COM)'
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 54f1d3cf4e1b01266c942b989546d6728fbb583f3451731e2cab691965a66574
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 44b24320a4ce18cd60f3c1f796e8eab7a43327c0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119048472"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127374136"
 ---
 # <a name="constants-com"></a>Константы (COM)
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0be2e8f65a21161b82a6b3743b500ef90e4d857970ab72c5cf821583adcceffd
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ce7eb6b84c227934b5351a27ff8884fa78946ad0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119451544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461052"
 ---
 # <a name="wm_mbuttonup-message"></a>\_Сообщение МБУТТОНУП WM
 
@@ -95,7 +95,7 @@ yPos = GET_Y_LPARAM(lParam);
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -132,7 +132,7 @@ yPos = GET_Y_LPARAM(lParam);
 [**WM \_ мбуттондовн**](wm-mbuttondown.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с помощью мыши](mouse-input.md)

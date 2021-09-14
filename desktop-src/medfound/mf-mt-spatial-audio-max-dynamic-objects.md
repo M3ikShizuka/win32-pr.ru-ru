@@ -4,12 +4,12 @@ ms.assetid: 6B6D73C1-C2E6-4C23-BBAD-7B51E8441C71
 title: Атрибут MF_MT_SPATIAL_AUDIO_MAX_DYNAMIC_OBJECTS (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 42ae239354076dae309ba9e1c63f9c19b408994958b2523a2c0e170f460188e2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 358045079fb9cf52ad1fd0c8969f54723c7f02d9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119104400"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127363953"
 ---
 # <a name="mf_mt_spatial_audio_max_dynamic_objects-attribute"></a>\_ \_ \_ Атрибут пространственного звука ( \_ Максимальное \_ число \_ объектов) MF MT
 
@@ -31,7 +31,7 @@ ms.locfileid: "119104400"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 10, только для \[ настольных приложений версии 1703\]<br/>                          |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
 
 
 

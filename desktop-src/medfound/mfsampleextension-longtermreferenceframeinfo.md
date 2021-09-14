@@ -4,12 +4,12 @@ ms.assetid: 0632D780-C56B-4FDB-8A76-B7A7DE414242
 title: Атрибут MFSampleExtension_LongTermReferenceFrameInfo (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5642c246adf0e5e1c10249085201fba3dc430b6547516b79fe4929e9de4b998a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3af85ffa5876cdf58a21a6933c46f460c23e7456
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119848124"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462022"
 ---
 # <a name="mfsampleextension_longtermreferenceframeinfo-attribute"></a>Мфсампликстенсион \_ лонгтермреференцефрамеинфо, атрибут
 
@@ -31,7 +31,7 @@ ms.locfileid: "119848124"
 
 Второе поле (бит \[ 16.31 \] ) — это битовая карта, состоящая из *макснумлтрфрамес* большого числа битов, которые УКАЗЫВАЮТ, какие кадры LTR использовались для кодирования этого выходного кадра, начиная с бита 16. Остальные биты должны быть установлены в значение 0. Второе значение равно 0, если выходной фрейм не кодируется с помощью каких-либо фреймов LTR. *Макснумлтрфрамес* — максимальное число кадров LTR, заданное через [кодекапи \_ авенквидеолтрбуфферконтрол](codecapi-avencvideoltrbuffercontrol.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ ms.locfileid: "119848124"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

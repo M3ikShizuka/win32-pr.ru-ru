@@ -1,17 +1,17 @@
 ---
 description: В этом разделе обсуждаются определенные вопросы безопасности при использовании одноранговой инфраструктуры.
 ms.assetid: 088a2111-f4ee-4bec-98a9-ac138950958b
-title: Соображения безопасности
+title: Вопросы безопасности
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d66b15d07251e1510f582807b4970dde7794905989b8e10973cf965d0c115911
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ffd3078834b3a69f988d17e5cbfd5fa1bd1591e8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120034198"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461616"
 ---
-# <a name="security-considerations"></a>Соображения безопасности
+# <a name="security-considerations"></a>Вопросы безопасности
 
 В этом разделе обсуждаются определенные вопросы безопасности при использовании одноранговой инфраструктуры.
 

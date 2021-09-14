@@ -4,12 +4,12 @@ description: платформа Windows 7 упрощает создание ре
 ms.assetid: bcad2f00-7885-461c-a2dc-0a0a176962b4
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 320f6e52dba4f2a6d9c89a7bdea287e948a1bca048b0d3e88a2a8978e8085d0b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cea7f710850f419493c5a8435626d163361c8a03
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118709121"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343458"
 ---
 # <a name="accessibility-and-global-support"></a>Доступность и Глобальная поддержка
 

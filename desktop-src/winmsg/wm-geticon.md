@@ -4,12 +4,12 @@ ms.assetid: d3101a9b-9658-4a21-b1f6-2920b723926c
 title: Сообщение WM_GETICON (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c2df8922fa09cf425594a07768f0d7c9ae0ac09222647f181f45331c2b0d47fc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 83d2444e70646d8122a7228094187738811a3f68
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119587424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344143"
 ---
 # <a name="wm_geticon-message"></a>Сообщение WM с \_ значком
 
@@ -93,7 +93,7 @@ ms.locfileid: "119587424"
 [**WM \_ сетикон**](wm-seticon.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Windows](windows.md)

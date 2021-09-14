@@ -8,11 +8,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 01f848898247ad8ea2ddbb0dde7a13c08b6a7274
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124371556"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169623"
 ---
 # <a name="obtaining-the-status-of-a-capture-window"></a>Получение состояния окна записи
 
@@ -30,7 +30,7 @@ SetWindowPos(hWndC, NULL, 0, 0, CapStatus.uiImageWidth,
 
 
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

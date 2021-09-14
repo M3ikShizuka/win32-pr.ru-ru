@@ -4,12 +4,12 @@ description: В этом разделе описывается правильн�
 ms.assetid: 5b8f23cb-9906-4cc4-83d4-73fdf96ed681
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 98c047228159e011ffa9a0842f1748ee07e6af4a49ff296ae8ed65b494b8c53f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4db3c4f1fc129aea9b793bac1935d678645b28fc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119052792"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168576"
 ---
 # <a name="ensuring-that-ui-elements-are-correctly-named"></a>Проверка правильности имен элементов пользовательского интерфейса
 
@@ -260,7 +260,7 @@ HRESULT RemoveAnnotatedNameFromControl(HWND hDlg, HWND hwndCtl)
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Динамический API аннотации](dynamic-annotation-api.md)

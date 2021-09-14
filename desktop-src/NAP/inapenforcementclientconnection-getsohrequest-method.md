@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d4cef3fc1368e3973a4643d1130cb10dbe307f102cb195a341332476bb42c691
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d6115e607f810aef67911ec7d7800d35207368e9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118939932"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348554"
 ---
 # <a name="inapenforcementclientconnectiongetsohrequest-method"></a>Метод Инапенфорцементклиентконнектион:: Жетсохрекуест
 
@@ -90,7 +90,7 @@ HRESULT GetSoHRequest(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

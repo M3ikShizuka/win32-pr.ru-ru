@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: ac9269149d7f2bbc95e811515f70aa279a4aafd8cf34b2d5077ed69019b86c2d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ba1d2046bf7be31a9c0d3f3d43b13aeeffd1f76b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118953603"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246676"
 ---
 # <a name="ctransformfiltergetpincount-method"></a>Ктрансформфилтер. Жетпинкаунт, метод
 
@@ -48,7 +48,7 @@ virtual int GetPinCount();
 
 Этот метод переопределяет метод [**кбасефилтер:: жетпинкаунт**](cbasefilter-getpincount.md) . Класс **ктрансформфилтер** поддерживает ровно один входной ПИН-код и один выходной ПИН-код.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ virtual int GetPinCount();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

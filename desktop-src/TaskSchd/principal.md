@@ -15,12 +15,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b6cf4187875f3b02dfbdc8ef5bd9fd8bd43ed99c37134b2c899215decacfb605
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d6dc9ff69973fb340bf3b140462c4012499680ba
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120126084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173023"
 ---
 # <a name="principal-object"></a>Объект Principal
 
@@ -38,7 +38,7 @@ ms.locfileid: "120126084"
 
 
 
-| Свойство                                                | Тип доступа           | Описание                                                                                                                                                  |
+| Свойство.                                                | Тип доступа           | Описание                                                                                                                                                  |
 |:--------------------------------------------------------|:----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**DisplayName**](principal-displayname.md)<br/> | Чтение/запись<br/> | Возвращает или задает имя участника, отображаемого в пользовательском интерфейсе планировщик задач.<br/>                                                                |
 | [**Идентификатор**](principal-groupid.md)<br/>         | Чтение/запись<br/> | Возвращает или задает идентификатор группы пользователей, необходимой для выполнения задач, связанных с участником.<br/>                           |
@@ -63,7 +63,7 @@ ms.locfileid: "120126084"
 
 Дополнительные сведения и примеры кода для этого объекта скрипта см. в разделе [пример триггера времени (сценарии)](time-trigger-example--scripting-.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

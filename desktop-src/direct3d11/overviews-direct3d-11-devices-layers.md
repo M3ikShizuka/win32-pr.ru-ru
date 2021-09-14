@@ -4,12 +4,12 @@ description: Среда выполнения Direct3D 11 создается с �
 ms.assetid: c545983c-5351-42a9-82e5-deea73aa035f
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f59d0405d53526b8fb0b93e52fd1a53b5c17839f6c58df919bac335b21ad2477
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cb05658860e678e8020392cb046a634e3b03c7c2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119124369"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168531"
 ---
 # <a name="software-layers"></a>Программные уровни
 

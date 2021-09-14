@@ -4,12 +4,12 @@ ms.assetid: 03f2fa76-b828-40b1-929d-60e7d5ab49bb
 title: Атрибут MF_READWRITE_ENABLE_HARDWARE_TRANSFORMS (Мфреадврите. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f851ba188f8a2cc42140b799e23156cdc8e5c06bb474deb16debf508c173a908
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 642be732a51f064d07e57609a886810f2a9c40b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118059537"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462088"
 ---
 # <a name="mf_readwrite_enable_hardware_transforms-attribute"></a>\_Атрибут MF ReadWrite \_ включить \_ аппаратные \_ преобразования
 
@@ -51,7 +51,7 @@ ms.locfileid: "118059537"
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | \[приложения UWP для классических приложений Windows 7 \|\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows \[Приложения UWP для настольных приложений Server 2008 R2 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Мфреадврите. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфреадврите. h</dt> </dl> |
 
 
 

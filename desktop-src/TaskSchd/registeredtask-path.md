@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a17448d219bbe39ffbaffb1ce76d60bd13db1316f32421ab7bb28742fd02d73d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ae79331123dd89143ef4f6081ad33328562760b5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120126044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172976"
 ---
 # <a name="registeredtaskpath-property"></a>Регистередтаск. Path, свойство
 
@@ -53,7 +53,7 @@ RegisteredTask.Path As String
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

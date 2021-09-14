@@ -16,12 +16,12 @@ api_type:
 - Schema
 api_location:
 - All
-ms.openlocfilehash: 592632a7d0b5593a9de200062ef1ae6b167e72aaa2d2f41c44a8f955324b6b6f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 76af7a9f32c24b8d44f81c60b0f2fca693c26f51
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118321023"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174907"
 ---
 # <a name="__extrinsicevent-class"></a>\_\_Класс Екстринсицевент
 
@@ -39,7 +39,7 @@ class __ExtrinsicEvent : __Event
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ \_ екстринсицевент** имеет следующие типы членов:
 

@@ -4,12 +4,12 @@ ms.assetid: 51b447ad-b6da-424b-91df-e5be9ce225a5
 title: Отправка и получение данных PGM
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 130b38ea52e5d0679b988e55f8292b9752a4bf15d0514a8277a2e0b3b2327001
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ab73999c33c97c6ba528552af6d746d54fb605df
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117740575"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168567"
 ---
 # <a name="sending-and-receiving-pgm-data"></a>Отправка и получение данных PGM
 

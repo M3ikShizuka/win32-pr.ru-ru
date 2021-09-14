@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: 6238d3dbb45d4f832f44f3b67e83b9285a3bd206b3209c494121d78700a20763
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fcfcdc75bcf10b922a242574bfabe267c949fa52
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119007922"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244324"
 ---
 # <a name="iscardfileaccess-interface"></a>Интерфейс Искардфилеакцесс
 
@@ -55,7 +55,7 @@ ms.locfileid: "119007922"
 |:--------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|
 | [**чанжедир**](iscardfileaccess-changedir.md)                     | Изменяет текущий каталог смарт-карт на новый указанный каталог.<br/>                                                          |
 | [**Выхода**](iscardfileaccess-close.md)                             | Закрывает указанный файл.<br/>                                                                                                        |
-| [**Создание**](iscardfileaccess-create.md)                           | Создает файл в заданном месте в файловой системе ICC.<br/>                                                                    |
+| [**Создания**](iscardfileaccess-create.md)                           | Создает файл в заданном месте в файловой системе ICC.<br/>                                                                    |
 | [**Удален**](iscardfileaccess-delete.md)                           | Удаляет указанный файл.<br/>                                                                                                         |
 | [**Каталог**](iscardfileaccess-directory.md)                     | Извлекает список файлов.<br/>                                                                                                        |
 | [**жеткуррентдир**](iscardfileaccess-getcurrentdir.md)             | Возвращает абсолютный путь к выбранному в данный момент каталогу.<br/>                                                                     |
@@ -63,11 +63,11 @@ ms.locfileid: "119007922"
 | [**GetProperties**](iscardfileaccess-getproperties.md)             | Извлекает примитивные данные, на которые ссылаются теги, для указанного объекта.<br/>                                                           |
 | [**Invalidate**](iscardfileaccess-invalidate.md)                   | Делает указанный файл недопустимым.<br/>                                                                                               |
 | [**Открыть**](iscardfileaccess-open.md)                               | Открывает указанный файл для дальнейшего использования.<br/>                                                                                         |
-| [**Чтение**](iscardfileaccess-read.md)                               | Считывает и возвращает указанные данные из заданного файла.<br/>                                                                           |
+| [**Просмотр**](iscardfileaccess-read.md)                               | Считывает и возвращает указанные данные из заданного файла.<br/>                                                                           |
 | [**рехабилитате**](iscardfileaccess-rehabilitate.md)               | Делает файл (EF или DF), который был ранее сделан недопустимым, с помощью команды unvalidate, доступной приложению.<br/> |
 | [**Seek**](iscardfileaccess-seek.md)                               | Выбирает объект, из которого будет выполняться разрешение на чтение и запись.<br/>                                                                 |
 | [**SetProperties**](iscardfileaccess-setproperties.md)             | Задает примитивные данные, на которые ссылаются теги для указанного объекта.<br/>                                                                |
-| [**Запись**](iscardfileaccess-write.md)                             | Записывает данные в текущий открытый файл.<br/>                                                                                             |
+| [**Будет**](iscardfileaccess-write.md)                             | Записывает данные в текущий открытый файл.<br/>                                                                                             |
 
 
 

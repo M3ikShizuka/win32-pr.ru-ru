@@ -4,12 +4,12 @@ ms.assetid: b7c5cd67-fd2a-49d8-8de5-61783a3b4577
 title: Атрибут MF_PD_ASF_INFO_HAS_AUDIO (Вмконтаинер. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 17be78de672b8de4e58e0aacb3cafbb8f52e1b8e43dd991a9b1f60fb709b2091
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a5e2fbf9698e470af92cbd21fc5f26883dc5fd79
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119600354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462096"
 ---
 # <a name="mf_pd_asf_info_has_audio-attribute"></a>MF \_ PD \_ ASF \_ info \_ имеет \_ атрибут Audio
 
@@ -27,7 +27,7 @@ ms.locfileid: "119600354"
 
 Метод [**имфасфконтентинфо:: женератепресентатиондескриптор**](/windows/desktop/api/wmcontainer/nf-wmcontainer-imfasfcontentinfo-generatepresentationdescriptor) создает этот атрибут из метаданных ASF.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -39,7 +39,7 @@ ms.locfileid: "119600354"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

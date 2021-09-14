@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 99941c7c8c62480ea13572b22083a2d64bda9924cdf3d26200dbc9ac6ba9bdf1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e50df643fdd6b665de1275873fb8de9d5d094a42
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117930307"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461274"
 ---
 # <a name="iwmpclosedcaption2getsamilangname-method"></a>Метод IWMPClosedCaption2:: Жетсамилангнаме
 

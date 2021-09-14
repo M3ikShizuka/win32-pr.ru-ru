@@ -4,12 +4,12 @@ ms.assetid: 28421875-9629-4F14-8159-2D86012F517F
 title: Атрибут MF_CAPTURE_ENGINE_ENCODER_MFT_FIELDOFUSE_UNLOCK_Attribute (Mfcaptureengine. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 32f2fb9d85c68adbc726fa4b36f2ea960a33e68c4dff836fac0370c8e9e4e3a1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b29a9466162ff5551ee155343800d938276823ff
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120060824"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462180"
 ---
 # <a name="mf_capture_engine_encoder_mft_fieldofuse_unlock_attribute-attribute"></a>\_Запись о \_ кодировщике модуля записи MF \_ \_ \_ фиелдофусе \_ разблокировать \_ атрибут атрибута
 
@@ -25,7 +25,7 @@ ms.locfileid: "120060824"
 
 На внутреннем уровне подсистема отслеживания задает указатель [**имффиелдофусемфтунлокк**](/windows/desktop/api/mfidl/nn-mfidl-imffieldofusemftunlock) на кодировщике, задавая атрибут [ \_ Фиелдофусе \_ Unlock \_](mft-fieldofuse-unlock-attribute.md) в файле MFT для кодировщика.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -37,7 +37,7 @@ ms.locfileid: "120060824"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

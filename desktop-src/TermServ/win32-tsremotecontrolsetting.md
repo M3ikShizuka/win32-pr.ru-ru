@@ -25,12 +25,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7544e61197fb61261ee4e117d5c10d00e342ee1202371147b7718b8f3f2fc3ca
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 96e327744ad864e14e1f2580b3b71116e448f36e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119137627"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243424"
 ---
 # <a name="win32_tsremotecontrolsetting-class"></a>\_Класс Win32 тсремотеконтролсеттинг
 
@@ -56,7 +56,7 @@ class Win32_TSRemoteControlSetting : Win32_TerminalSetting
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ тсремотеконтролсеттинг** имеет следующие типы членов:
 
@@ -77,7 +77,7 @@ class Win32_TSRemoteControlSetting : Win32_TerminalSetting
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ тсремотеконтролсеттинг** имеет следующие свойства.
 
@@ -204,7 +204,7 @@ class Win32_TSRemoteControlSetting : Win32_TerminalSetting
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**

@@ -4,12 +4,12 @@ ms.assetid: 5dd34818-f282-4859-b423-97e9c4944aec
 title: Свойство MFPKEY_ENCCOMPLEXITY (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d93abe02b50f862fec706f75449e00643228a3917bc22ca9dafa9285d9d46be3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 51f50e7966a05affe8ae75869b670cf75f088b53
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117690129"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460897"
 ---
 # <a name="mfpkey_enccomplexity-property"></a>МФПКЭЙ \_ енккомплексити, свойство
 

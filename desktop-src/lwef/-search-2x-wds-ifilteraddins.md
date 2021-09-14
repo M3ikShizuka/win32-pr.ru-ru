@@ -4,12 +4,12 @@ description: вы можете расширить возможности пои�
 ms.assetid: 71dd515d-a73e-4e0a-b0da-c8a6209d09fe
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 497d4bffdb9564e0737bee3cd0b63fa8026633a2cc81aad37cb989423e460487
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 79f846cf2101eefc17b1e92fbd7992529a06fb43
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118480898"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461043"
 ---
 # <a name="developing-ifilter-add-ins"></a>Разработка надстроек IFilter
 

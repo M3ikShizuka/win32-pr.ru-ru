@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: 6205c0de94747bfe4a30e1c07f48383bac347b1bbd3cc9dce1dc0c925296cf03
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a14e837a0903290c3197bbb17ec4b2da3f68b419
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119848584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174751"
 ---
 # <a name="id3dxbaseeffectsetintarray-method"></a>Метод ID3DXBaseEffect:: Сетинтаррай
 
@@ -75,7 +75,7 @@ HRESULT SetIntArray(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть D3DERR \_ инвалидкалл.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -86,7 +86,7 @@ HRESULT SetIntArray(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

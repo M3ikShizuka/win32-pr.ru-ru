@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8d7d7ca4636d0eaeea35054dc5330b17f1360dffec5231922ad0acc357231c3d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cc10fad9c775d324822700b77afed4e65a798db6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118939591"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461722"
 ---
 # <a name="inapsohconstructorappendattribute-method"></a>Метод Инапсохконструктор:: Аппендаттрибуте
 

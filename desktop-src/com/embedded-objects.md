@@ -4,12 +4,12 @@ description: Внедренные объекты
 ms.assetid: 1f863fd4-fead-4dd3-b855-8820e015b52a
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1df671850dc167a0751f69cbc57f8c19698db06a0454dd6283553c4d8ffa1609
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8da9938b17130209fec024f94ee99061ad690693
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119048362"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242890"
 ---
 # <a name="embedded-objects-com"></a>Внедренные объекты (COM)
 

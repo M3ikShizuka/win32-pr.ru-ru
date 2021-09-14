@@ -14,12 +14,12 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 293a418f4cb726ea1fc58f02c2fe5bec784ceeb87dcb1cf3a09db89b1672eb8c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 180b256808eb024a28f576ad7cf7a5f3dc88e58f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119948304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168439"
 ---
 # <a name="eapblob-complex-type"></a>Сложный тип Еапблоб
 
@@ -29,7 +29,7 @@ ms.locfileid: "119948304"
 <xs:complexType name="EapBlob" />
 ```
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -40,7 +40,7 @@ ms.locfileid: "119948304"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

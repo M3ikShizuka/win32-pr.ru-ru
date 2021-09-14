@@ -19,12 +19,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d1bb57bacafbc3061cee6cb49b09a8fdbf8187026a378deff605b90472ed6394
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d1635273078a2d09ca01c219ebf7eaa482eeb7a4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119513254"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168768"
 ---
 # <a name="imsrdppreferredredirectioninfouseredirectionservername-property"></a>Свойство Имсрдппреферредредиректионинфо:: Усередиректионсервернаме
 
@@ -51,21 +51,21 @@ HRESULT get_UseRedirectionServerName(
 
 Указывает, следует ли использовать имя сервера перенаправления.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8<br/>                                                                              |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                                    |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                                    |
 | Библиотека типов<br/>             | <dl> <dt>MsTscAx.dll</dt> </dl>            |
 | DLL<br/>                      | <dl> <dt>MsTscAx.dll</dt> </dl>            |
 | IID<br/>                      | IID \_ имсрдппреферредредиректионинфо определен как FDD029F9-9574-4DEF-8529-64B521CCCAA4<br/> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Scardssp.dll
-ms.openlocfilehash: de2b6ac4bfded1612713272111f3ef21f21cf4b7b8ac9cedae769531fee26c05
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 28d1b6762e0a350bb87b673f21fa063ae2478e64
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118923065"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244318"
 ---
 # <a name="iscardiso7816appendrecord-method"></a>Метод ISCardISO7816:: Аппендрекорд
 
@@ -54,7 +54,7 @@ HRESULT AppendRecord(
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
 | <span id="Current_EF"></span><span id="current_ef"></span><span id="CURRENT_EF"></span><dl> <dt>**Текущая ссылка EF**</dt> </dl>     | Разрядное расположение: 00000000<br/> |
 | <span id="Short_EF_ID"></span><span id="short_ef_id"></span><span id="SHORT_EF_ID"></span><dl> <dt>**Краткий идентификатор EF**</dt> </dl> | Битовое расположение: xxxxx000<br/> |
-| <span id="Reserved"></span><span id="reserved"></span><span id="RESERVED"></span><dl> <dt>**Зарезервированное**</dt> </dl>             | Разрядное расположение: XXXXXXXX<br/> |
+| <span id="Reserved"></span><span id="reserved"></span><span id="RESERVED"></span><dl> <dt>**Зарезервировано**</dt> </dl>             | Разрядное расположение: XXXXXXXX<br/> |
 
 
 
@@ -119,7 +119,7 @@ HRESULT AppendRecord(
 
 Кроме приведенных выше кодов ошибок COM, этот интерфейс может возвращать код ошибки смарт-карты, если для завершения запроса была вызвана функция смарт-карты. Дополнительные сведения см. в статье [возвращаемые значения смарт-карты](authentication-return-values.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -128,8 +128,8 @@ HRESULT AppendRecord(
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                                                   |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Скардссп. h</dt> </dl>   |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
+| Заголовок<br/>                   | <dl> <dt>Скардссп. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Скардсрв. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Scardssp.dll</dt> </dl> |
 | IID<br/>                      | IID \_ ISCardISO7816 определен как 53B6AA68-3F56-11D0-916B-00AA00C18068<br/>        |

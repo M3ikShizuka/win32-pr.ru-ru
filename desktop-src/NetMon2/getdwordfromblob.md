@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Npptools.dll
-ms.openlocfilehash: 4d81492e64127e61e8750b86964c2a6c541c409dacc232a031c152376943263f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 064985f0f3b9a235dc1c00d683fe4b11371df87d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119890614"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169324"
 ---
 # <a name="getdwordfromblob-function"></a>Функция Жетдвордфромблоб
 
@@ -84,7 +84,7 @@ DWORD GetDwordFromBlob(
 
 Если функция завершается неудачно, возвращается значение НМЕРР, описывающее ошибку.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -98,7 +98,7 @@ DWORD GetDwordFromBlob(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

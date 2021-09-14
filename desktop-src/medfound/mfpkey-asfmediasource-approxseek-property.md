@@ -4,12 +4,12 @@ ms.assetid: 4877b67c-524c-4717-a90f-6de21918d3d8
 title: Свойство MFPKEY_ASFMediaSource_ApproxSeek (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5f68dedbf2b008870021e620029a039c21465d4bb45a23428225d7c88fae6583
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 253a18ebbdf78e3aa0ef0e79f41c4bf180a04b48
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117874338"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462058"
 ---
 # <a name="mfpkey_asfmediasource_approxseek-property"></a>МФПКЭЙ \_ асфмедиасаурце \_ аппрокссик, свойство
 

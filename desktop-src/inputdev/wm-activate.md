@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2f3e706bc63eacdd223523f81af7153c9efb993d4cbaf4192db8d335d06086d9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dec28662aa2219ee9b3ad2e8cc8efac861d292f6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117695732"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461082"
 ---
 # <a name="wm_activate-message"></a>\_Сообщение активации WM
 
@@ -82,7 +82,7 @@ ms.locfileid: "117695732"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -101,7 +101,7 @@ ms.locfileid: "117695732"
 [**WM \_ нкактивате**](/windows/desktop/winmsg/wm-ncactivate)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с клавиатуры](keyboard-input.md)

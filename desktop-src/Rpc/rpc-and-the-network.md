@@ -6,12 +6,12 @@ keywords:
 - Удаленный вызов процедур RPC, рекомендации, RPC и сеть
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 212e1f3b6f281709a3344367a59d858b7f96b77a6adbdc44fc8556769f2edcaa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 87c0373bb81d9da0bf20eed1fb9f80863604b040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118926656"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461575"
 ---
 # <a name="rpc-and-the-network"></a>RPC и сеть
 

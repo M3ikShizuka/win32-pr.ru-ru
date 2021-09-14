@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f0c2d3db800860295e0fa6173422ffeec0ca144550cc3ddfdf8a1ea391b6c6eb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e9ea2b72011332939aa0c814203d0004949c8341
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118134755"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461787"
 ---
 # <a name="freenetworksoh-function"></a>Функция Фринетворксох
 
@@ -62,7 +62,7 @@ NAPAPI VOID WINAPI FreeNetworkSoH(
 
 Все функции NAP для освобождения памяти также освобождают все внедренные указатели.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

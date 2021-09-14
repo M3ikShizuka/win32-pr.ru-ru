@@ -15,11 +15,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 7a7653d0bcda28ca333bc5c70bdcd69bce382787
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104262594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170163"
 ---
 # <a name="enable-method-of-the-win32_networkadapter-class"></a>Enable, метод класса Win32 \_ сетевого адаптера
 
@@ -42,13 +42,13 @@ uint32 Enable();
 
 Возвращает ноль (0), чтобы указать на успешное выполнение. Любое другое значение указывает на ошибку. Коды ошибок см. в разделе [**константы WMI Error**](/windows/desktop/WmiSdk/wmi-error-constants) или [**вбемерроренум**](/windows/desktop/api/wbemdisp/ne-wbemdisp-wbemerrorenum).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Вы можете столкнуться с трудностями при использовании этого метода, если приложение не имеет прав администратора привилиджес.
 
 ## <a name="examples"></a>Примеры
 
-В следующем примере скрипта Visual Basic включается первый сетевой адаптер и отображается состояние свойства **NetEnabled** . Дополнительные сведения см. в разделе [**SWbemObjectSet. итеминдекс**](/windows/desktop/wmisdk/swbemobjectset-itemindex).
+в следующем примере скрипта Visual Basic включается первый сетевой адаптер и отображается состояние свойства **NetEnabled** . Дополнительные сведения см. в разделе [**SWbemObjectSet. итеминдекс**](/windows/desktop/wmisdk/swbemobjectset-itemindex).
 
 
 ```VB

@@ -5,11 +5,11 @@ ms.assetid: 04a7f688-78a3-490a-bcfa-862824a05422
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 03174dd66e83a88724ff5d421d7b0dcb0c17699e
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369646"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343010"
 ---
 # <a name="setting-process-wide-security-using-dcomcnfg"></a>Настройка безопасности Process-Wide с помощью DCOMCNFG
 
@@ -26,7 +26,7 @@ ms.locfileid: "124369646"
 -   [Настройка удостоверения для приложения](#setting-the-identity-for-an-application)
 -   [Просмотр пользовательской базы данных](#browsing-the-user-database)
 -   [Dcomcnfg.exe и 64-разрядные приложения](#dcomcnfgexe-and-64-bit-applications)
--   [Связанные разделы](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="setting-the-authentication-level-for-an-application"></a>Установка уровня проверки подлинности для приложения
 
@@ -132,7 +132,7 @@ ms.locfileid: "124369646"
 
 32-разрядная версия служб компонентов правильно регистрирует 32-разрядные приложения DCOM для удаленной активации.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

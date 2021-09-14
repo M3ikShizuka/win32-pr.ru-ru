@@ -6,12 +6,12 @@ keywords:
 - TBS базовых служб TPM, структуры
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 741d5ae696d04c1d345b77dcc1b0e97369c219b4c75add6da9b7254fc712c24b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d18095f06532db4c8f2b963574610272dc46622f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118880564"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243772"
 ---
 # <a name="tbs-structures"></a>Структуры TBS
 

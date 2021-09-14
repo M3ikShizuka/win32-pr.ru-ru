@@ -5,11 +5,11 @@ title: Константы формата пикселей изображения
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: b62abc8b0ed606b958764e27171f8b45e619d23b
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104987452"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170264"
 ---
 # <a name="image-pixel-format-constants"></a>Константы формата пикселей изображения
 
@@ -36,7 +36,7 @@ ms.locfileid: "104987452"
 
 
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 **PixelFormat48bppRGB**, **PixelFormat64bppARGB** и **PixelFormat64bppPARGB** используют 16 бит на каждый компонент цвета (канал). Windows GDI+ версии 1,0 может считывать изображения с 16 битами на канал, но такие образы преобразуются в формат 8 бит на канал для обработки, отображения и сохранения.
 
@@ -46,7 +46,7 @@ ms.locfileid: "104987452"
 
 | Требование | Значение |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Гдиплуспикселформатс. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Гдиплуспикселформатс. h</dt> </dl> |
 
 
 

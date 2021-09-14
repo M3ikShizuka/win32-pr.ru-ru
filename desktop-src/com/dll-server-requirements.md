@@ -5,11 +5,11 @@ ms.assetid: f89dabe6-f65f-4d90-ad0e-c680d4b08ba5
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: ae82aa44771d398d80169c56976df7b0e209ea6e
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369718"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343027"
 ---
 # <a name="dll-server-requirements"></a>Требования к серверу DLL
 
@@ -21,7 +21,7 @@ ms.locfileid: "124369718"
 
 Серверы DLL будут загружены только в суррогатный процесс, выполняемый в правильном контексте безопасности. Контекст безопасности для суррогата сервера DLL определяется так же, как и для серверов EXE. Суррогат сервера DLL выполняется в том же контексте безопасности, что и клиент, за исключением случаев, когда значение **runas** , определяющее контекст безопасности, задается в разделе реестра [AppID](appid-clsid.md) для сервера.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

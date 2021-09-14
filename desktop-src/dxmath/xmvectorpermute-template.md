@@ -4,12 +4,12 @@ ms.assetid: m:microsoft.directx_sdk.template.xmvectorpermute(xmvector,xmvector)
 title: Шаблон Ксмвекторпермуте (Директксмас. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cd3f7071edaf659991c1294d29a154d3a319d5faee982537025e107cf9621f55
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 37271cbb165f1e9c1769ef3a55e47f1e07310a81
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119978674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170408"
 ---
 # <a name="xmvectorpermute-template"></a>Шаблон Ксмвекторпермуте
 

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Win32_tpm.dll
-ms.openlocfilehash: 7fd8841ad48480434fa1a686c2349e82d94eb01eda4f52084fd579cf67784870
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9179aae2f4902ce29e2bab98b4c9c0b793804de6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118891884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461389"
 ---
 # <a name="isphysicalcleardisabled-method-of-the-win32_tpm-class"></a>Метод Исфисикалклеардисаблед \_ класса TPM Win32
 

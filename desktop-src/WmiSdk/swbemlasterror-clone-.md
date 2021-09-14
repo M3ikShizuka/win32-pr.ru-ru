@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 162944eeb4ee7ca0c72102b704e9f75851bbfb41885e6b79e86d1a438487473f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7d4d43f73ab42021235db39adba0a77bc783b97a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118314670"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343075"
 ---
 # <a name="swbemlasterrorclone_-method"></a>Свбемластеррор. Clone, \_ метод
 
@@ -80,7 +80,7 @@ objWbemObject = .Clone_( _
 
 Этот метод невозможно использовать для преобразования определения класса в экземпляр или для преобразования экземпляра в определение класса.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

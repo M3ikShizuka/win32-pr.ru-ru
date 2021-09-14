@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 9a48bd2d3231979a30f8f7ff0d8144929115c51b9ca3f464f85d6d0163954ad7
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3e981254677c2e0a361a0a21f125f734ff1403db
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119823724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246628"
 ---
 # <a name="ctransforminputpincheckconnect-method"></a>Ктрансформинпутпин. Чеккконнект, метод
 
@@ -57,7 +57,7 @@ HRESULT CheckConnect(
 
 | Код возврата                                                                                               | Описание                    |
 |-----------------------------------------------------------------------------------------------------------|--------------------------------|
-| <dl> <dt>**\_ОК**</dt> </dl>                      | Success<br/>             |
+| <dl> <dt>**\_ОК**</dt> </dl>                      | Успешное завершение<br/>             |
 | <dl> <dt>**VFW \_ E \_ недопустимое \_ направление**</dt> </dl> | Неправильное направление ПИН-кода<br/> |
 
 
@@ -68,7 +68,7 @@ HRESULT CheckConnect(
 
 Этот метод переопределяет метод [**кбасепин:: чеккконнект**](cbasepin-checkconnect.md) . Он вызывает метод [**ктрансформфилтер:: чеккконнект**](ctransformfilter-checkconnect.md) фильтра, который возвращает \_ значение s ОК в базовом классе. Производный класс может переопределить метод **ктрансформфилтер:: чеккконнект** для выполнения дополнительных проверок.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -4,12 +4,12 @@ description: Перемещение на уровне компонентов. | 
 ms.assetid: A8865237-59D3-4332-9F09-157E10C4FFC6
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 247e3838841d63c3cadf2e075fd088b534bf56ea19b8869b7cffe91e9f75e6c5
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f029cd8a31a9348e729681878773c225b87b9fbb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120095374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168476"
 ---
 # <a name="mov-sm4---asm"></a>MOV (SM4-ASM)
 

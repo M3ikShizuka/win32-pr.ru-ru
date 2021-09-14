@@ -5,11 +5,11 @@ title: Атрибут MF_MEDIA_ENGINE_BROWSER_COMPATIBILITY_MODE
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 5e8d6ce4858a35270187f7adf8e42e37c5b11f58
-ms.sourcegitcommit: c16214e53680dc71d1c07111b51f72b82a4512d8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "105703449"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462150"
 ---
 # <a name="mf_media_engine_browser_compatibility_mode-attribute"></a>\_ \_ \_ \_ Атрибут режима совместимости браузера для механизма передачи мультимедиа MF \_
 
@@ -31,9 +31,9 @@ ms.locfileid: "105703449"
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 8 \|\]<br/>                                            |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2012 \|\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Мфмедиаенгине. idl</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 8 \[ приложения UWP для классических приложений \|\]<br/>                                            |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ приложения UWP для классических приложений \|\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Мфмедиаенгине. idl</dt> </dl> |
 
 
 

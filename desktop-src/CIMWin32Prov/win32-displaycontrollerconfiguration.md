@@ -1,5 +1,5 @@
 ---
-description: '\_Класс WMI дисплайконтроллерконфигуратион для Win32 представляет сведения о конфигурации видеоадаптера компьютерной системы под Windows.'
+description: '\_Класс WMI дисплайконтроллерконфигуратион инструментария Win32 представляет сведения о конфигурации видеоадаптера в компьютерной системе, на которой работает Windows.'
 ms.assetid: 36ebd840-5e8c-411a-828d-38972fe956e2
 ms.tgt_platform: multiple
 title: Класс Win32_DisplayControllerConfiguration
@@ -29,15 +29,15 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 8e64f99cb4d4715d9b7a0eb88bd2e7629feed853
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104142280"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170159"
 ---
 # <a name="win32_displaycontrollerconfiguration-class"></a>\_Класс Win32 дисплайконтроллерконфигуратион
 
-[Класс WMI](/windows/desktop/WmiSdk/retrieving-a-class) **\_ дисплайконтроллерконфигуратион для Win32** представляет сведения о конфигурации видеоадаптера компьютерной системы под Windows.
+Класс **WMI \_ дисплайконтроллерконфигуратион** [инструментария](/windows/desktop/WmiSdk/retrieving-a-class) Win32 представляет сведения о конфигурации видеоадаптера в компьютерной системе, на которой работает Windows.
 
 Этот класс устарел. Вместо этого класса следует использовать свойства в классах [**Win32 \_ Видеоконтроллер**](win32-videocontroller.md), [**Win32 \_ десктопмонитор**](win32-desktopmonitor.md)и [**CIM \_ видеоконтроллерресолутион**](cim-videocontrollerresolution.md) .
 
@@ -66,13 +66,13 @@ class Win32_DisplayControllerConfiguration : CIM_Setting
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ дисплайконтроллерконфигуратион** имеет следующие типы членов:
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ дисплайконтроллерконфигуратион** имеет следующие свойства.
 
@@ -96,7 +96,7 @@ class Win32_DisplayControllerConfiguration : CIM_Setting
 
 </dd> <dt>
 
-**Заголовок**
+**Caption**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -201,7 +201,7 @@ class Win32_DisplayControllerConfiguration : CIM_Setting
 
 </dd> <dt>
 
-**Name**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -325,7 +325,7 @@ class Win32_DisplayControllerConfiguration : CIM_Setting
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **Win32 \_ дисплайконтроллерконфигуратион** является производным от [**\_ параметра CIM**](cim-setting.md).
 

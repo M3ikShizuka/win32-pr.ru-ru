@@ -11,12 +11,12 @@ api_name:
 - Description
 api_type:
 - Schema
-ms.openlocfilehash: 5ff00dbc03503b51faa9dc734db61fd912da0ecf8f10f19adcbfb17b510c4834
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 02bec9af9900b622622757433c6241d9df7bde36
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118744461"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168143"
 ---
 # <a name="description-mbnprofile-element"></a>Элемент Description (Мбнпрофиле)
 

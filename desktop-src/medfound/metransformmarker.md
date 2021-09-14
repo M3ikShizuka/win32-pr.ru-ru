@@ -4,12 +4,12 @@ ms.assetid: d0c0d62d-9133-4d4b-8606-c2ae1d4c9f0a
 title: Событие Метрансформмаркер (Мфобжектс. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7029119b30314e56531c0afb29accadb67e1efb343a906c2558af2157c0b1f82
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ab79c47e2ddb26f2366aff075548f7905807df1e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119827044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462202"
 ---
 # <a name="metransformmarker-event"></a>Событие Метрансформмаркер
 

@@ -4,12 +4,12 @@ ms.assetid: aefdd365-1681-43e4-8470-04a5d6efd993
 title: Таблица Мсипатчхеадерс
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1888a91da13923c4a9904c770df77cb24a5b8381c869a60895bb5ff49d23e6b1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9a3fa4e037a31f3e913f13ff9c96735ed6760dc4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118944500"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169795"
 ---
 # <a name="msipatchheaders-table"></a>Таблица Мсипатчхеадерс
 
@@ -23,7 +23,7 @@ ms.locfileid: "118944500"
 
 | Столбец    | Type                         | Ключ | Допускает значения NULL |
 |-----------|------------------------------|-----|----------|
-| стреамреф | [Идентификатор](identifier.md) | Д   | Нет        |
+| стреамреф | [Идентификатор](identifier.md) | Да   | Нет        |
 | Заголовок    | [Двоичный](binary.md)         | Нет   | Нет        |
 
 

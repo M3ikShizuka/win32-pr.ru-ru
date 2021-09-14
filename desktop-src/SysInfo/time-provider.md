@@ -4,12 +4,12 @@ ms.assetid: a7575373-eeda-4f2a-85e5-d1b50994e7ae
 title: Поставщик времени
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 67f2073e94bdf893793b4ae1df2974226aa197de4ff429be9ce8f2a2e4b5f597
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c844e2c4d0d49e87e978a47621338b167c4f5a23
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117957908"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243883"
 ---
 # <a name="time-provider"></a>Поставщик времени
 

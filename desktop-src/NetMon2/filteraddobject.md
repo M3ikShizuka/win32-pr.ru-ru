@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Nmapi.dll
-ms.openlocfilehash: 2c7d814efbbc77816836d437161390b1e2af60e8bbf4932322dcbd606920be5c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7fc6c41a675bfe560c060e271e4f9f48f88cd58c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118938737"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461657"
 ---
 # <a name="filteraddobject-function"></a>Функция Филтераддобжект
 
@@ -77,7 +77,7 @@ DWORD WINAPI FilterAddObject(
 
 Функция **филтераддобжект** вызывается каждый раз при добавлении объекта фильтра в фильтр просмотра. Фильтр просмотра является постфиксным стеком объектов, которые могут быть оператором, значением или свойством.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -91,7 +91,7 @@ DWORD WINAPI FilterAddObject(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

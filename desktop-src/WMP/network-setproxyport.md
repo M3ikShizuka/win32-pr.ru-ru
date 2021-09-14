@@ -3,9 +3,9 @@ title: Метод Network. Сетпроксипорт
 description: Метод Сетпроксипорт указывает используемый порт прокси-сервера. | Метод Network. Сетпроксипорт
 ms.assetid: 09cfce4a-191c-4596-b678-15d9328d5c53
 keywords:
-- Сетпроксипорт метод Windows Media Player
-- Сетпроксипорт метод Windows Media Player, класс Network
-- Класс сети Windows Media Player, метод Сетпроксипорт
+- проигрыватель Windows Media метода сетпроксипорт
+- проигрыватель Windows Media метода сетпроксипорт, класс сети
+- класс проигрыватель Windows Media сети, метод сетпроксипорт
 topic_type:
 - apiref
 api_name:
@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 2438688535e4727688ddbd5d67fd65cbed15864d
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105694402"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243226"
 ---
 # <a name="networksetproxyport-method"></a>Метод Network. Сетпроксипорт
 
@@ -61,17 +61,17 @@ Network.setProxyPort(
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот метод не действует, если **жетпроксисеттингс** не возвращает значение 2 (использовать параметры вручную).
 
 Этот метод завершается ошибкой, если вызывающее приложение не выполняется на локальном компьютере или в интрасети.
 
-**Проигрыватель Windows Media 10 Mobile:** Этот метод не поддерживается.
+**проигрыватель Windows Media 10 Mobile:** Этот метод не поддерживается.
 
 ## <a name="examples"></a>Примеры
 
-В следующем примере JScript используется *Network*. **сетпроксипорт** , чтобы указать номер порта прокси-сервера проигрывателя Windows Media для протокола MMS. Номер порта извлекается из HTML-элемента ввода с идентификатором ID = "PORT". Объект **Player** создан с идентификатором "Player".
+в следующем примере JScript используется *сеть*. **сетпроксипорт** , чтобы указать номер порта прокси-сервера проигрыватель Windows Media для протокола MMS. Номер порта извлекается из HTML-элемента ввода с идентификатором ID = "PORT". Объект **Player** создан с идентификатором "Player".
 
 
 ```JScript
@@ -100,7 +100,7 @@ alert("Proxy settings must be manual!");
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 7,0 или более поздней.<br/>                              |
+| Версия<br/> | проигрыватель Windows Media версии 7,0 или более поздней.<br/>                              |
 | DLL<br/>     | <dl> <dt>Wmp.dll</dt> </dl> |
 
 

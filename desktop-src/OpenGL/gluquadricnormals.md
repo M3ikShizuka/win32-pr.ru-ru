@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d535a90f21b88b26c3afd245b2f6350a443fd8915a4cd806df79236484c36d3f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f11f9d8cd1884d7a5d1bc4cd03797517ba484126
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119554184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244903"
 ---
 # <a name="gluquadricnormals-function"></a>Функция Глукуадрикнормалс
 
@@ -75,7 +75,7 @@ void WINAPI gluQuadricNormals(
 
 Функция **глукуадрикнормалс** указывает, какие нормали должны использоваться для куадрикс, отображаемого с помощью **куадобжект**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -89,7 +89,7 @@ void WINAPI gluQuadricNormals(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

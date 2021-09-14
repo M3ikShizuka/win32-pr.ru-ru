@@ -17,12 +17,12 @@ keywords:
 - Отзыв лицензий, сведения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5f3cd295ddc1aec40c04f5284d791d7482854208a17875bdd3ed60d998f4ccf9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 90388a7392c79f583143e06fb78ecfe45e188612
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119027842"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343403"
 ---
 # <a name="license-revocation-microsoft-windows-media-drm-client"></a>отзыв лицензий (Microsoft Windows Media DRM Client)
 

@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Wzcsapi.dll
-ms.openlocfilehash: 43f2b35215c930517d5352073c679a116388eb49aaa3bd6a3c567467e50be1a9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3f2ac1bd546403dca781b3a132b44f96d80bb5c6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119064514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169383"
 ---
 # <a name="wzcrefreshinterface-function"></a>Функция Взкрефрешинтерфаце
 
@@ -114,7 +114,7 @@ DWORD WZCRefreshInterface(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -123,14 +123,14 @@ DWORD WZCRefreshInterface(
 | Минимальная версия клиента<br/> | Windows XP с пакетом обновления 2 (SP2) \[ только классические приложения\]<br/>                                   |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                   |
 | Окончание поддержки клиента<br/>    | Windows XP с пакетом обновления SP3<br/>                                                         |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                         |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                         |
 | Заголовок<br/>                   | <dl> <dt>Взксапи. h</dt> </dl>   |
 | Библиотека<br/>                  | <dl> <dt>Взксапи. lib</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wzcsapi.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

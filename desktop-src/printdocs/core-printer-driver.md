@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 api_location:
 - Winspool.h
-ms.openlocfilehash: 18ac3dba88d9cf781393b01b6594777426b7195e6f68afa0fd00a5bddb01f129
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 786fa3491919659fca60700cfb086023c3fdef3f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119950404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168083"
 ---
 # <a name="core_printer_driver-structure"></a>Основная \_ \_ Структура драйвера принтера
 
@@ -40,7 +40,7 @@ typedef struct _CORE_PRINTER_DRIVER {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -76,7 +76,7 @@ typedef struct _CORE_PRINTER_DRIVER {
 
 Эта структура может представлять базовый драйвер производителя, от которого зависят драйверы различных моделей принтеров.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -89,7 +89,7 @@ typedef struct _CORE_PRINTER_DRIVER {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

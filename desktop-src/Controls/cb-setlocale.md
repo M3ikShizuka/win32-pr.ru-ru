@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ef1647d8ff4c7a4625151a9ec099800549d831f6b55a7ef6cc6b5ead365e80e6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 025f33dc8ba236965a98ca984446b04846ecd2ba
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120063306"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170108"
 ---
 # <a name="cb_setlocale-message"></a>\_Сообщение CB SETLOCALE
 
@@ -51,7 +51,7 @@ ms.locfileid: "120063306"
 
 Используйте макрос [**макелЦид**](/windows/desktop/api/winnt/nf-winnt-makelcid) для создания идентификатора языкового стандарта и макроса [**макелангид**](/windows/desktop/api/winnt/nf-winnt-makelangid) для создания идентификатора языка. Идентификатор языка состоит из основного идентификатора языка и идентификатора языка.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -63,7 +63,7 @@ ms.locfileid: "120063306"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

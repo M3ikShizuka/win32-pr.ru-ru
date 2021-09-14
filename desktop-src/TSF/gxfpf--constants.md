@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: dfd2f750e5279e5dff57477d9c68e0868366603f4975297a6ef04404f4ce0414
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b1d2dfc5ce874a7c4ce5b205c9b92436040aa60a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118878918"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243607"
 ---
 # <a name="gxfpf_-constants"></a>\_ \* КОНСТАНТы гксфпф
 
@@ -33,7 +33,7 @@ ms.locfileid: "118878918"
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Параметры *dwFlags* методов [ITextStoreACP:: жетакпфромпоинт](/windows/desktop/api/Textstor/nf-textstor-itextstoreacp-getacpfrompoint) и [итфконтекстовнер:: жетакпфромпоинт](/windows/desktop/api/Msctf/nf-msctf-itfcontextowner-getacpfrompoint) используют эти константы.
 

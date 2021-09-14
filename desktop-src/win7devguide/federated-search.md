@@ -4,12 +4,12 @@ description: Windows 7 поддерживает поиск документов 
 ms.assetid: 2c682585-2c9c-4694-b743-f83a6ff5c143
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 26c3d60f9089efe030fd88ea029cf75a6d48d6c994ceb583aea59eeae8d38cc6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cf194b87e29b4aa152fce334f2dfd6d990db200c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118708922"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343454"
 ---
 # <a name="federated-search"></a>Федеративный поиск
 

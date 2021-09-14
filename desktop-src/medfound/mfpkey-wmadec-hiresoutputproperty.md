@@ -4,12 +4,12 @@ ms.assetid: a96bd78f-982c-43fa-b2d3-8caba4aa84b6
 title: Свойство MFPKEY_WMADEC_HIRESOUTPUT (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fe5226babc8fd40875ec11cfa0b03345ba0b9c1a914b45b5ad79284f79d92130
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fd59bc6b8b0e74be1daaea4a61ca82c810a0ca79
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117872542"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460865"
 ---
 # <a name="mfpkey_wmadec_hiresoutput-property"></a>МФПКЭЙ \_ вмадек \_ Хиресаутпут, свойство
 

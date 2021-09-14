@@ -4,12 +4,12 @@ ms.assetid: 927c2fd3-9790-4e23-98f5-f3ac0c0d77dc
 title: Свойство MFPKEY_QPPERFRAME (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 00c9bf24c3d4d6851fee63cc6352bdc6a1f550a380f42c58795e6fe6f27a5a0e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: bccaabcc5c123f16f00d43ac81b77e21c155b5c0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119663234"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460884"
 ---
 # <a name="mfpkey_qpperframe-property"></a>МФПКЭЙ \_ кпперфраме, свойство
 
@@ -31,7 +31,7 @@ ms.locfileid: "119663234"
 
 При увеличении значения этого свойства коэффициент сжатия увеличивается, а качество уменьшается.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -42,7 +42,7 @@ ms.locfileid: "119663234"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

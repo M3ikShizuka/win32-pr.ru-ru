@@ -4,12 +4,12 @@ ms.assetid: 89e1d182-67f3-4906-b4b2-c94264a8e9b4
 title: Свойство MFPKEY_REENCDURATION (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 89b3dd78754fa1dbddc343aa4075580e9863ecacb58c781e94b548169583989e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f9d597f5dff57715f80d506c3286cfe284b929d9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120113284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460883"
 ---
 # <a name="mfpkey_reencduration-property"></a>МФПКЭЙ \_ ринкдуратион, свойство
 
@@ -23,7 +23,7 @@ ms.locfileid: "120113284"
 
 **VT \_ I4**
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -34,7 +34,7 @@ ms.locfileid: "120113284"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 69db198d-fb4c-482b-bf49-5c636ac2f86b
 title: 'Метод ИтпартиЦипант:: Енумератестреамс (Ипмсп. h)'
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e1ec901c81bb0df666877ee06462b88da965b41bedd961e71cebbf25cd78ee30
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fbc92c617ed4baee3ecc33aec65cbdcf50986a27
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119140307"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243589"
 ---
 # <a name="itparticipantenumeratestreams-method"></a>Метод ИтпартиЦипант:: Енумератестреамс
 

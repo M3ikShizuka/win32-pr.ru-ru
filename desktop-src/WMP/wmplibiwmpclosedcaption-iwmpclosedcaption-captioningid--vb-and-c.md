@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 45f6d4c10beb3f0fd94da0365d67b6c5ab480d36d5a3786021f538e9dcf4e90c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 343234fce2b93ac02255731a38025f6d7b9fac6f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118116060"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242980"
 ---
 # <a name="iwmpclosedcaptioncaptioningid-property"></a>Свойство Ивмпклоседкаптион:: Каптионингид
 
@@ -52,7 +52,7 @@ Public Property captioningId As System.String
 
 Указанное имя элемента может быть любым HTML-элементом на веб-странице, если он поддерживает атрибут **InnerHtml** . если веб-страница содержит несколько кадров, имя элемента может ссылаться только на элемент в том же кадре, что и элемент управления проигрыватель Windows Media.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -64,7 +64,7 @@ Public Property captioningId As System.String
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

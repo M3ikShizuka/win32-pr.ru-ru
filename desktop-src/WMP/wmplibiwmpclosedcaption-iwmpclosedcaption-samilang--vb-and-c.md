@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: a9577f7d9030a12a12596fe2cdc2a999922658ce
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122887181"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343119"
 ---
 # <a name="iwmpclosedcaptionsamilang-property"></a>Свойство Ивмпклоседкаптион:: Самиланг
 
@@ -48,7 +48,7 @@ Public Property SAMILang As System.String
 
 **Строка System. String** , которая является именем, указанным в идентификаторе языка файла Sami.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Файл SAMI может содержать текст для одного или нескольких языков. Языки, доступные для скрытых титров, определяются между &lt; стилями &gt; и </STYLE> ТЕГАМИ в файле Sami. Идентификатор языка указывается с уникальной буквенно-цифровой строкой, которой предшествует точка (.). Имя, указанное для языка, может быть любой строкой. Например, для определения английского языка (США) можно использовать следующую команду:
 

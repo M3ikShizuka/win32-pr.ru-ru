@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9bbd0ac8e056cc43be764e745f824b50fc90b3cb2f0c50c9061d111fb3bc178d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dba83badcb689789d2654d99780bcb8cc503511d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117915108"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242884"
 ---
 # <a name="wm_dde_unadvise-message"></a>\_ \_ Сообщение об исходе DDE WM
 
@@ -76,7 +76,7 @@ ms.locfileid: "117915108"
 
 <dl> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**глобаладдатом**](/windows/desktop/api/Winbase/nf-winbase-globaladdatoma)
@@ -103,7 +103,7 @@ ms.locfileid: "117915108"
 [**Протокол WM \_ DDE \_ advise**](wm-dde-advise.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Сведения о платформа динамических данных Exchange](about-dynamic-data-exchange.md)

@@ -6,12 +6,12 @@ keywords:
 - RPC_NS_HANDLE
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e7612671b03f507bc2e722520fa775e0e999d0f1456ebfcefa971bba27b65dbd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3e72ee694e08be1b30a75dc1f5b986619043d592
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118926288"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461542"
 ---
 # <a name="rpc_ns_handle"></a>\_маркер NS \_ RPC
 
@@ -36,7 +36,7 @@ typedef void* RPC_NS_HANDLE;
 
 Приложения отвечают за управление параллелизмом для дескрипторов службы Name-Service в потоках.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

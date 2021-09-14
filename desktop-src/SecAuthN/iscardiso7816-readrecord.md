@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Scardssp.dll
-ms.openlocfilehash: 16edb529cb5a1cf6e2badd19c3ac37f1e7ec69649fb854f98ff0b515c573f874
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0cb9697315a6f9dd2436cd7a64d54fa6b44e00f4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119141087"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127244288"
 ---
 # <a name="iscardiso7816readrecord-method"></a>Метод ISCardISO7816:: Реадрекорд
 
@@ -72,8 +72,8 @@ HRESULT ReadRecord(
 | <span id="First_Occur"></span><span id="first_occur"></span><span id="FIRST_OCCUR"></span><dl> <dt>**Первый появление**</dt> </dl> | Битовое расположение:-----000<br/> Чтение первого вхождения. <br/>                   |
 | <span id="Last_Occur"></span><span id="last_occur"></span><span id="LAST_OCCUR"></span><dl> <dt>**Последняя ошибка**</dt> </dl>     | Битовое расположение:-----001<br/> Прочитать последнее вхождение. <br/>                    |
 | <span id="Next_Occur"></span><span id="next_occur"></span><span id="NEXT_OCCUR"></span><dl> <dt>**Следующая ситуация**</dt> </dl>     | Разрядное расположение:-----010<br/> Прочитать следующее вхождение. <br/>                    |
-| <span id="Previous"></span><span id="previous"></span><span id="PREVIOUS"></span><dl> <dt>**Назад**</dt> </dl>             | Битовое расположение:-----011<br/> Прочитать предыдущее вхождение. <br/>                |
-| <span id="Secret"></span><span id="secret"></span><span id="SECRET"></span><dl> <dt>**Владел**</dt> </dl>                     | Разрядное расположение:---XXXXX<br/>                                                      |
+| <span id="Previous"></span><span id="previous"></span><span id="PREVIOUS"></span><dl> <dt>**Предыдущий**</dt> </dl>             | Битовое расположение:-----011<br/> Прочитать предыдущее вхождение. <br/>                |
+| <span id="Secret"></span><span id="secret"></span><span id="SECRET"></span><dl> <dt>**Секрет**</dt> </dl>                     | Разрядное расположение:---XXXXX<br/>                                                      |
 
 
 
@@ -139,8 +139,8 @@ HRESULT ReadRecord(
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                                                   |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Скардссп. h</dt> </dl>   |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                          |
+| Заголовок<br/>                   | <dl> <dt>Скардссп. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Скардсрв. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Scardssp.dll</dt> </dl> |
 | IID<br/>                      | IID \_ ISCardISO7816 определен как 53B6AA68-3F56-11D0-916B-00AA00C18068<br/>        |

@@ -15,12 +15,12 @@ keywords:
 - получение свойств
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fbbe524e6f82f8c7dba018b24895ade54ced3e6a4632e1caefed410753b56fab
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e199522dbefaa2f722a67b0ede57fe910b8ed63b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118564375"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127342750"
 ---
 # <a name="retrieving-properties-from-ui-automation-elements"></a>Получение свойств элементов модели автоматизации пользовательского интерфейса
 
@@ -78,7 +78,7 @@ ms.locfileid: "118564375"
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Общие сведения о свойствах автоматизированного пользовательского интерфейса](uiauto-propertiesoverview.md)

@@ -5,12 +5,12 @@ title: Сообщение WM_PAINT (Winuser. h)
 ms.topic: reference
 ms.custom: snippet-project
 ms.date: 05/31/2018
-ms.openlocfilehash: b5efec4bc92fcb3c90a8def59b2e85d98342cf641dfe959fc2a651f81ffc1f77
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b13e1779fb54a3db7905cb8fc738ef45558400f5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120092514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170292"
 ---
 # <a name="wm_paint-message"></a>\_Сообщение WM Paint
 
@@ -98,7 +98,7 @@ LRESULT CALLBACK WindowProc(HWND hwnd, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
 Для некоторых стандартных элементов управления обработка сообщений **WM \_ Paint** по умолчанию проверяет параметр *wParam* . Если параметр *wParam* не равен null, то элемент управления предполагает, что значение является HDC и рисует его с помощью контекста устройства.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -110,7 +110,7 @@ LRESULT CALLBACK WindowProc(HWND hwnd, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -9,12 +9,12 @@ keywords:
 - Диспетчер таблиц маршрутизации, версия 2 RRAS, описание
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c87228222f31daf7f951064d05c92d950a3fff0d570fcac3536887b50193b16b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5014dc894c4a517bfdfac8478e520658a4987d4a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117792111"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169095"
 ---
 # <a name="about-routing-table-manager-version-2"></a>Сведения о диспетчере таблиц маршрутизации версии 2
 

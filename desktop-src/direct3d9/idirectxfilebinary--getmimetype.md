@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dxof.lib
 - D3dxof.dll
-ms.openlocfilehash: 1a3443577a8d7b837ce43ef468d28d01ebde7b265b4e27dd72c481329b7003e8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 965006dc6fbad1176307341a19fd1f186e670104
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118093479"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168483"
 ---
 # <a name="idirectxfilebinarygetmimetype-method"></a>Метод Идиректксфилебинари:: Жетмиметипе
 
@@ -70,7 +70,7 @@ HRESULT GetMimeType(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

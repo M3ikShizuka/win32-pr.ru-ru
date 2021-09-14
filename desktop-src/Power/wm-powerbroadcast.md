@@ -4,12 +4,12 @@ ms.assetid: 46452909-ac0e-4c06-8542-0b94d00e6556
 title: Сообщение WM_POWERBROADCAST (WinUser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 38b57a6c21aeae03a8b42deb8af10d5ce88e96f92a33b632d71285fa4c0c986a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b205a146b731bdf8cf9adc1563621232c24c10b4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119143167"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169111"
 ---
 # <a name="wm_powerbroadcast-message"></a>\_Сообщение ПОВЕРБРОАДКАСТ WM
 
@@ -110,7 +110,7 @@ LRESULT CALLBACK WindowProc(
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                                              |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>WinUser. h (включает Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>WinUser. h (включает Windows. h)</dt> </dl> |
 
 
 

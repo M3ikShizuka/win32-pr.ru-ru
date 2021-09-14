@@ -12,12 +12,12 @@ api_name:
 api_type:
 - Schema
 api_location: ''
-ms.openlocfilehash: 78540c29239df9118732561562985021a512e104b0ddc5e05d43d89f37dd5e33
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b2e1ffdc5ad27524d3d2fc5b37b3a060a90c7575
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117797944"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127245458"
 ---
 # <a name="msm-wlanprofile-element"></a>Элемент MSM (Вланпрофиле)
 
@@ -294,7 +294,7 @@ ms.locfileid: "117797944"
 | [**authEncryption**](wlan-profileschema-authencryption-security-element.md)       |                                                                   | Указывает пару для проверки подлинности и шифрования, которая будет использоваться для этого профиля.<br/>                                                                                                                                                                                                                                                                                                                                     |
 | [**идентификаци**](wlan-profileschema-authentication-authencryption-element.md) |                                                                   | Указывает пару для проверки подлинности и шифрования, которая будет использоваться для этого профиля.<br/>                                                                                                                                                                                                                                                                                                                                     |
 | [**установлен**](wlan-profileschema-connectivity-msm-element.md)                |                                                                   | Содержит различные параметры подключения. Этот элемент является необязательным.<br/>                                                                                                                                                                                                                                                                                                                                                 |
-| [**ключ**](wlan-profileschema-encryption-authencryption-element.md)         |                                                                   | Задает шифрование данных, используемое для подключения к беспроводной локальной сети.<br/>                                                                                                                                                                                                                                                                                                                                                   |
+| [**шифрование**](wlan-profileschema-encryption-authencryption-element.md)         |                                                                   | Задает шифрование данных, используемое для подключения к беспроводной локальной сети.<br/>                                                                                                                                                                                                                                                                                                                                                   |
 | [**keyIndex**](wlan-profileschema-keyindex-security-element.md)                   |                                                                   | Указывает, какой индекс ключа должен использоваться для шифрования беспроводного трафика. Используется, только если параметр keyType имеет значение Нетворккэй.<br/>                                                                                                                                                                                                                                                                                          |
 | [**keyMaterial**](wlan-profileschema-keymaterial-sharedkey-element.md)            | [строка](/dotnet/api/system.string)   | Содержит ключ сети или парольную фразу.<br/>                                                                                                                                                                                                                                                                                                                                                                           |
 | [**keyType**](wlan-profileschema-keytype-sharedkey-element.md)                    |                                                                   | Тип ключа.<br/>                                                                                                                                                                                                                                                                                                                                                                                                      |
@@ -319,7 +319,7 @@ ms.locfileid: "117797944"
 
 Чтобы просмотреть образцы профилей, в которых используется элемент **MSM** , см. раздел [образцы профиля беспроводной связи](wireless-profile-samples.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -331,7 +331,7 @@ ms.locfileid: "117797944"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

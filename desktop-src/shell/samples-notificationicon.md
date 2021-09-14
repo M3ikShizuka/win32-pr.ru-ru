@@ -10,11 +10,11 @@ api_location: ''
 topic_type:
 - kbArticle
 ms.openlocfilehash: 1569d162aef358130910081bee80354cb64f690d
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104985577"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343587"
 ---
 # <a name="notificationicon-sample"></a>Пример NotificationIcon
 
@@ -23,7 +23,7 @@ ms.locfileid: "104985577"
 В этом разделе содержатся следующие подразделы.
 
 -   [Описание](#description)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Загрузка образца](#downloading-the-sample)
 -   [Создание примера](#building-the-sample)
 -   [Запуск примера](#running-the-sample)
@@ -33,7 +33,7 @@ ms.locfileid: "104985577"
 Кроме того, чтобы отобразить значок уведомления, в этом примере также демонстрируется отображение форматированного всплывающего окна, контекстного меню и всплывающего уведомления в дополнение к использованию [**оболочки \_ NotifyIcon**](/windows/desktop/api/Shellapi/nf-shellapi-shell_notifyicona) и [**\_ нотификонжетрект оболочки**](/windows/desktop/api/Shellapi/nf-shellapi-shell_notifyicongetrect) .
 
 > [!Note]  
-> [**Оболочка \_ Нотификонжетрект**](/windows/desktop/api/Shellapi/nf-shellapi-shell_notifyicongetrect) доступен только в Windows 7 и более поздних версиях.
+> [**Оболочка \_ нотификонжетрект**](/windows/desktop/api/Shellapi/nf-shellapi-shell_notifyicongetrect) доступен только в Windows 7 и более поздних версиях.
 
  
 
@@ -63,16 +63,16 @@ ms.locfileid: "104985577"
 1.  Откройте окно командной строки и перейдите в каталог проекта **нотификатионикон** .
 2.  Введите `msbuild NotificationIcon.sln`.
 
-Чтобы создать пример с использованием Microsoft Visual Studio (предпочтительно):
+чтобы создать пример с использованием Microsoft Visual Studio (предпочтительно):
 
-1.  Откройте проводник Windows и перейдите в каталог проекта **нотификатионикон** .
+1.  откройте обозреватель Windows и перейдите в каталог проекта **нотификатионикон** .
 2.  Дважды щелкните значок файла Нотификатионикон. sln, чтобы открыть проект в Visual Studio.
-3.  В меню **Сборка** выберите пункт **построить решение**.
+3.  В меню **Построение** выберите пункт **Построить решение**.
 
 ## <a name="running-the-sample"></a>Запуск примера
 
-1.  Перейдите в каталог, содержащий новый исполняемый файл, с помощью командной строки или проводника Windows.
-2.  В командной строке введите `NotificationIcon.exe` . Кроме того, в проводнике Windows дважды щелкните значок NotificationIcon.exe.
+1.  перейдите в каталог, содержащий новый исполняемый файл, используя командную строку или обозреватель Windows.
+2.  В командной строке введите `NotificationIcon.exe` . кроме того, в обозревателе Windows дважды щелкните значок NotificationIcon.exe.
 
 > [!Note]  
 > Значки уведомлений, заданные с помощью идентификатора GUID, защищаются от подмены путем проверки того, что они регистрируются только одним приложением. Эта регистрация выполняется при первом вызове оболочки \_ NotifyIcon (ним \_ Add,...) и сохранении полного пути вызывающего приложения. Если позже вы переместит двоичный файл в другое расположение, система не разрешит добавить значок снова. Дополнительные сведения см. в разделе [**оболочка \_ NotifyIcon**](/windows/desktop/api/Shellapi/nf-shellapi-shell_notifyicona) .

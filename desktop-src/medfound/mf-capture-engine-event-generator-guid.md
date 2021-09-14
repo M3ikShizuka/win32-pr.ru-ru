@@ -4,12 +4,12 @@ ms.assetid: DCCF3054-AF14-44C7-84C0-B03E35B5D90A
 title: Атрибут MF_CAPTURE_ENGINE_EVENT_GENERATOR_GUID (Mfcaptureengine. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 88efff7cea540c1fae2c14d44dd7676c4f523b562a66a4c4f4bc4dffea59d5e4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cb9a5068db357523a626404910fb7d752ea0b621
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118474472"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462179"
 ---
 # <a name="mf_capture_engine_event_generator_guid-attribute"></a>\_ \_ \_ \_ Атрибут GUID генератора событий ядра записи MF \_
 
@@ -33,7 +33,7 @@ ms.locfileid: "118474472"
 |-------------------------------------|----------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                                   |
 | Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                         |
-| Header<br/>                   | <dl> <dt>Mfcaptureengine. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Mfcaptureengine. h</dt> </dl> |
 
 
 

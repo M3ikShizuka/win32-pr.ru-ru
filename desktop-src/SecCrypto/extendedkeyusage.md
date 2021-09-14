@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: 927e219e22bd0e87c444b1ca3cb63b09a5ddc2fb9ac74e63ebb8f66c6ed75437
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5a93be1f6fe75559d0284ca955ca5b6e9c516eed
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119007322"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168928"
 ---
 # <a name="extendedkeyusage-object"></a>Объект Екстендедкэйусаже
 
@@ -38,7 +38,7 @@ ms.locfileid: "119007322"
 
 
 
-| Свойство                                                     | Тип доступа          | Описание                                                                                                                             |
+| Свойство.                                                     | Тип доступа          | Описание                                                                                                                             |
 |:-------------------------------------------------------------|:---------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 | [**EKU**](extendedkeyusage-ekus.md)<br/>             | Только для чтения<br/> | Коллекция [**EKU**](ekus.md) , содержащая объекты [**EKU**](eku.md) для сертификата.<br/>                            |
 | [**Критическое**](extendedkeyusage-iscritical.md)<br/> | Только для чтения<br/> | Получает **логическое** значение, указывающее, помечено ли расширение EKU как критическое.<br/>                                   |

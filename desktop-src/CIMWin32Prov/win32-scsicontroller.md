@@ -47,12 +47,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 2a619bcb883674952be67eccc00eccd403603f9b25d5ba6064296c3a0d4b1dea
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6f8ba77d626ada787ed18fd9855333fa813f3ab7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119917594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174328"
 ---
 # <a name="win32_scsicontroller-class"></a>\_Класс Win32 сксиконтроллер
 
@@ -100,7 +100,7 @@ class Win32_SCSIController : CIM_SCSIController
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ сксиконтроллер** имеет следующие типы членов:
 
@@ -122,7 +122,7 @@ class Win32_SCSIController : CIM_SCSIController
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ сксиконтроллер** имеет следующие свойства.
 
@@ -1003,7 +1003,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**

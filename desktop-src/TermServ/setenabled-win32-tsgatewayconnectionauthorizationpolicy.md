@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: eb25fff49962d019a01605c8392c3a09f1029152f6aed0ec8809302a81895408
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6584e8916db2f8070def3904d0ece6ec0ee5ae34
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119000474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168619"
 ---
 # <a name="setenabled-method-of-the-win32_tsgatewayconnectionauthorizationpolicy-class"></a>Метод Сетенаблед \_ класса Win32 тсгатевайконнектионаусоризатионполици
 

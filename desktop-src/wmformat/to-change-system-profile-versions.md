@@ -8,12 +8,12 @@ keywords:
 - системные профили, изменение версий
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c963a142c879242b5e2ae734dedb4073a120a57a9121c3f3f95e5838c15110a6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 824e2b1cf4a43cef0e87daa461c6510a6672472d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119084274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344055"
 ---
 # <a name="to-change-system-profile-versions"></a>Изменение версий системного профиля
 

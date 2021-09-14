@@ -4,12 +4,12 @@ description: В этих статьях содержатся сведения о
 ms.assetid: a6325361-ea7b-472d-85d7-bc1544b57352
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 02c99f43e0971eaecad150568f58c6d2f9832468352aa25884d182f8956ed3ee
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6b63371b29fa5b7a697f96abd6d2d9077124a0ff
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118994254"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242929"
 ---
 # <a name="constants-active-accessibility-user-interface-services"></a>Константы (Active Accessibility служб пользовательского интерфейса)
 

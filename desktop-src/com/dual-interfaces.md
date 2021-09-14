@@ -4,12 +4,12 @@ description: Сдвоенные интерфейсы
 ms.assetid: 6e4dc529-8a25-4ae5-b868-28cb17e0db52
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6540b93f12cdef698f807bc6179e4e36c4ef1bf18c6b0c1abbed96480b3e3289
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: da95c77a307c40721b909eceb1e6d29bab23bc14
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117919290"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242893"
 ---
 # <a name="dual-interfaces"></a>Сдвоенные интерфейсы
 

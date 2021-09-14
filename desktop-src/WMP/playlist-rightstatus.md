@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 29b79b0f4e3ad18ed4e044f894d63ec5059477f80999a8b96dc461d9499b29cb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a47b382da4ae214c9a830cc64fb1aa0d0edadbf6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118336567"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343223"
 ---
 # <a name="playlistrightstatus"></a>Список воспроизведения. Ригхтстатус
 
@@ -60,7 +60,7 @@ ms.locfileid: "118336567"
 
 Значение "Общее время:% Duration%" для списка воспроизведения, содержащего общую длительность семь минут, будет содержать "Общее время: 07:00".
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ ms.locfileid: "118336567"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

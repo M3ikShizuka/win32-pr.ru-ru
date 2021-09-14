@@ -4,12 +4,12 @@ description: Определяет свойство "категории" поль
 ms.assetid: 15f97307-ea3d-407a-a276-46b82f81bdbc
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e4aa812673f289b80b000710dd48a449656368f00d0beb51dcb489e60328e6a9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c7666ee9eba6639f1f39b96f012b464854191ff0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119086555"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344155"
 ---
 # <a name="ui_pkey_categories"></a>\_Категории PKEY пользовательского интерфейса \_
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 0ecb968156302c4fd1a8c48d1c6f3175977059298d2f6af5207abc376a6e107a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b61d7bfb11f78be3c1d23275589c8cb1c62259bf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119585694"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461955"
 ---
 # <a name="cmsgthreadgetthreadhandle-method"></a>Кмсгсреад. Жетсреадхандле, метод
 
@@ -48,7 +48,7 @@ HANDLE GetThreadHandle();
 
 Этот поток может быть передан в функции ожидания, например [**WaitForMultipleObjects**](/windows/desktop/api/synchapi/nf-synchapi-waitformultipleobjects). Дескриптор потока получает сигнал при завершении потока.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ HANDLE GetThreadHandle();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: автоматизация пользовательского ин�
 ms.assetid: 700ca38d-ff40-472b-a95a-11fa94c3bc1d
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 55951bf103906aace627a03ab84557d6a555aa793f1e0cec7ff2c81598e71558
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b8006c79299cc1f736dc43555968443f634d4a51
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120071834"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168575"
 ---
 # <a name="ui-automation"></a>Автоматизация пользовательского интерфейса
 
@@ -66,7 +66,7 @@ ms.locfileid: "120071834"
 -   [Основы модели автоматизации пользовательского интерфейса](entry-uiautocore-overview.md)
 -   [Рекомендации программиста поставщика модели автоматизации пользовательского интерфейса](uiauto-providerportal.md)
 -   [Руководством программиста клиента автоматизации пользовательского интерфейса](uiauto-clientportal.md)
--   [Ссылки](entry-uiautocore-ref.md)
+-   [Ссылка](entry-uiautocore-ref.md)
 -   [Примеры](samples-entry.md)
 -   [Приложения](appendix-entry.md)
 

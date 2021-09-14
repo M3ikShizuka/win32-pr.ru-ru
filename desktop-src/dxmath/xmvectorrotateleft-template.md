@@ -4,12 +4,12 @@ ms.assetid: ba3698ed-212d-4ef0-846a-4099d0e1abec
 title: Шаблон Ксмвекторротателефт (Директксмас. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cbb3d2a06f775e99b275d7333816307f494c5b2a4a7cc0183eaddc4ee4cd8950
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4e5b52fccebeb93803fdc33346fa4ee5e873c1d5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118499407"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170407"
 ---
 # <a name="xmvectorrotateleft-template"></a>Шаблон Ксмвекторротателефт
 

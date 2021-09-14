@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - WinSpool.drv
-ms.openlocfilehash: f62173747472820f1642578778b67f3cdc3403523d6ae28453888dae3d6d1a23
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c808bddde5b9b4e4a87a8608c1efb3999ce1f391
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119950534"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168103"
 ---
 # <a name="closespoolfilehandle-function"></a>Функция Клосеспулфилехандле
 
@@ -62,7 +62,7 @@ BOOL CloseSpoolFileHandle(
 
 Приложение не должно вызывать [**клосепринтер**](closeprinter.md) на *хпринтер* до тех пор, пока он не получал доступ к файлу очереди в последний раз. Затем следует вызвать **клосеспулфилехандле** , за которым следует **клосепринтер**. Попытки доступа к буферу файла очереди после закрытия исходного *хпринтер* завершатся ошибкой, даже если сам обработчик файла не был закрыт. **Клосеспулфилехандле** завершится ошибкой, если сначала вызывается **клосепринтер** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ BOOL CloseSpoolFileHandle(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

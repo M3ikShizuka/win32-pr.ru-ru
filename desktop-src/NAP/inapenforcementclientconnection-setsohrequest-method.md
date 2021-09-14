@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: be2d2d3a4574b086d49cba7d9c0afda72cf62621dbed37add8550a7ae2f93cd4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 92559d532e99bfa29d7f62fd29b279db20f2c0a3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117799638"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461757"
 ---
 # <a name="inapenforcementclientconnectionsetsohrequest-method"></a>Метод Инапенфорцементклиентконнектион:: Сетсохрекуест
 
@@ -76,7 +76,7 @@ HRESULT SetSoHRequest(
 
 Недопустимый пакет SoH с нулевой длиной байт.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -90,7 +90,7 @@ HRESULT SetSoHRequest(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

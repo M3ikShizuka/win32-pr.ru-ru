@@ -4,12 +4,12 @@ ms.assetid: 428d08c6-e9f0-49fb-9ef9-d0f95416669d
 title: Запросы состояния ОПМ
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0c78f3725132110e8a97356f2e7e3377f10cddc4c2c1346e9256c55663d818f2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cdbf7338fe1309feb49fd191e3f4a1a22f3639b4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118058664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462013"
 ---
 # <a name="opm-status-requests"></a>Запросы состояния ОПМ
 

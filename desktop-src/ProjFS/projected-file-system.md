@@ -4,12 +4,12 @@ description: обзор Windows проектируемой файловой си
 ms.assetid: <GUID-GOES-HERE>
 ms.date: 09/14/2018
 ms.topic: article
-ms.openlocfilehash: d5cb20b123e72ec8e031036019a16ef1bbe2b8dc4b9bb53446c8faaced4d796b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 68f121162efdf75fb9226b41f9b3a1121bef6480
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117792661"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461599"
 ---
 # <a name="windows-projected-file-system-projfs"></a>Windows Плановая файловая система (Прожфс)
 

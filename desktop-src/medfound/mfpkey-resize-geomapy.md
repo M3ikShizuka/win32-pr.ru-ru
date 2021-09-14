@@ -4,12 +4,12 @@ ms.assetid: 5015e864-fd34-449f-b3fc-1ddcb507dfdf
 title: Свойство MFPKEY_RESIZE_GEOMAPY (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cddc1ce0c74aa1606db22004b92a13eaeeaa63a632bb642b37a11bb06167f040
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d695aea69e590cf9ff447dcf095f9b2151fceb50
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118242408"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462050"
 ---
 # <a name="mfpkey_resize_geomapy-property"></a>МФПКЭЙ \_ изменить размер \_ жеомапи
 
@@ -39,11 +39,11 @@ VT \_ I4
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
-| Header<br/>                   | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также статью
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

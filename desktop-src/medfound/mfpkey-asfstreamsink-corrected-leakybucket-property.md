@@ -4,12 +4,12 @@ ms.assetid: b01e59b6-0a7f-4125-867c-532385a27c15
 title: Свойство MFPKEY_ASFSTREAMSINK_CORRECTED_LEAKYBUCKET (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0bcb41de92f160e3d73c7d15721dae3015efc0ad1bc1a982d1a22c542d311b60
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 05a4ebc2dc41a1f43906aff5d2fe8caea8d53057
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117874088"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460901"
 ---
 # <a name="mfpkey_asfstreamsink_corrected_leakybucket-property"></a>МФПКЭЙ \_ асфстреамсинк, \_ исправленное \_ свойство леакибуккет
 
@@ -41,7 +41,7 @@ VT \_ вектор \| VT \_ UI4
 -   Размер буфера в байтах.
 -   Заполнение начальной буферизации в байтах.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -53,7 +53,7 @@ VT \_ вектор \| VT \_ UI4
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

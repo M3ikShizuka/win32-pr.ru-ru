@@ -4,12 +4,12 @@ ms.assetid: 8c3503c5-2a9c-43ad-8cc5-ea10df39b24d
 title: Шелладвтсуппорт, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cfacc34bfffdde9ce34841030f38c443a243c9923cb70749a27615cccc1c676e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: df0040aef3b53352a9da8a31bf97f14e8df3791e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119628444"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246373"
 ---
 # <a name="shelladvtsupport-property"></a>Шелладвтсуппорт, свойство
 
@@ -19,7 +19,7 @@ ms.locfileid: "119628444"
 
 Если это свойство задано, интерфейс [**ишелллинк**](/windows/win32/api/shobjidl_core/nn-shobjidl_core-ishelllinka) системы поддерживает разрешение дескрипторов установщика. это поддерживается Windows 2000 и системами с Internet Explorer 4,01. Если это свойство не задано, установщик имеет поведение по умолчанию для создания необъявленных компонентов во время установки (локально или из источника).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

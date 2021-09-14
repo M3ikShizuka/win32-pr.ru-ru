@@ -15,12 +15,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ddc5e247ad3de50268c6075f8956687f92800c4e901788b5098a0cef868bb202
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2a1eecfbbdd4e3ea00c8d2412ae912594f2ec297
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117759696"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173052"
 ---
 # <a name="networksettings-object"></a>Объект Нетворксеттингс
 
@@ -38,7 +38,7 @@ ms.locfileid: "117759696"
 
 
 
-| Свойство                                        | Тип доступа           | Описание                                                                                    |
+| Свойство.                                        | Тип доступа           | Описание                                                                                    |
 |:------------------------------------------------|:----------------------|:-----------------------------------------------------------------------------------------------|
 | [**Удостоверения**](networksettings-id.md)<br/>     | Чтение/запись<br/> | Возвращает или задает значение идентификатора GUID, определяющее сетевой профиль.<br/>                        |
 | [**Имя**](networksettings-name.md)<br/> | Чтение/запись<br/> | Возвращает или задает имя сетевого профиля. Имя используется в целях показа. <br/> |

@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 5dec1b2fe18dae65443b45ee6c1d2efcd1d924a72eb2817869c35406ebbc7808
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2087dd545a37cdc4b82899cb261cfef5fdb1fda6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118314417"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127343039"
 ---
 # <a name="swbemmethodoutparameters-property"></a>Свбеммесод. Parameters, свойство
 
@@ -54,7 +54,7 @@ SWbemMethod.OutParameters As Object
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Wbemdisp. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_СВБЕММЕСОД CLSID<br/>                                                           |
@@ -69,16 +69,16 @@ SWbemMethod.OutParameters As Object
 [**свбеммесод**](swbemmethod.md)
 </dt> <dt>
 
-[**SWbemObject.ExeКмесод\_**](swbemobject-execmethod-.md)
+[**SWbemObject. ExecMethod\_**](swbemobject-execmethod-.md)
 </dt> <dt>
 
-[**SWbemObject.ExeКмесодасинк\_**](swbemobject-execmethodasync-.md)
+[**SWbemObject. Ексекмесодасинк\_**](swbemobject-execmethodasync-.md)
 </dt> <dt>
 
-[**SWbemServices.ExeКмесод**](swbemservices-execmethod.md)
+[**SWbemServices. ExecMethod**](swbemservices-execmethod.md)
 </dt> <dt>
 
-[**SWbemServices.ExeКмесодасинк**](swbemservices-execmethodasync.md)
+[**SWbemServices. Ексекмесодасинк**](swbemservices-execmethodasync.md)
 </dt> </dl>
 
  

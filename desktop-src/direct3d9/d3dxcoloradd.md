@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: bb96d811f94975d8c7be3225349fd4412a0d1168167066001888084a4ef59136
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f326c9bec4802a9a94accc76b825cd1c6ea28fd5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119631614"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174807"
 ---
 # <a name="d3dxcoloradd-function"></a>Функция D3DXColorAdd
 
@@ -79,7 +79,7 @@ D3DXCOLOR* D3DXColorAdd(
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в тоска. Таким образом, функция **D3DXColorAdd** может использоваться в качестве параметра для другой функции.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -90,7 +90,7 @@ D3DXCOLOR* D3DXColorAdd(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

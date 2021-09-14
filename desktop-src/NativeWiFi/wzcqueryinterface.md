@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Wzcsapi.dll
-ms.openlocfilehash: 3dd7ce876501486b9bec4dbad63ce5812b910b32b9dcdaa1eb80aff3e7cc415e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 36457eebf5c38b32bb46eb8cfa44cae104f1bc6b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117797414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169387"
 ---
 # <a name="wzcqueryinterface-function"></a>Функция Взккуеринтерфаце
 
@@ -133,7 +133,7 @@ DWORD WZCQueryInterface(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -142,8 +142,8 @@ DWORD WZCQueryInterface(
 | Минимальная версия клиента<br/> | Windows XP с пакетом обновления 2 (SP2) \[ только классические приложения\]<br/>                                   |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                   |
 | Окончание поддержки клиента<br/>    | Windows XP с пакетом обновления SP3<br/>                                                         |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                         |
-| Header<br/>                   | <dl> <dt>Взксапи. h</dt> </dl>   |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                         |
+| Заголовок<br/>                   | <dl> <dt>Взксапи. h</dt> </dl>   |
 | Библиотека<br/>                  | <dl> <dt>Взксапи. lib</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wzcsapi.dll</dt> </dl> |
 
