@@ -14,12 +14,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: f29cc4b702ba93aec44e3460279976f50c5563463accfb58b920ad79b757126a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 614777ede63605dc7ed6936bda952c6071bda371
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118131586"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968685"
 ---
 # <a name="schedulebyday-calendartriggertype-element"></a>Счедулебидай (Календартригжертипе), элемент
 
@@ -53,7 +53,7 @@ ms.locfileid: "118131586"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Перечисленный выше дочерний элемент определяется сложными типами элементов [**даилисчедулетипе**](taskschedulerschema-dailyscheduletype-complextype.md) .
 
@@ -82,7 +82,7 @@ ms.locfileid: "118131586"
 
 Полный пример кода XML для задачи, в котором указано ежедневное расписание, см. в разделе [Пример ежедневного триггера (XML)](daily-trigger-example--xml-.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -93,7 +93,7 @@ ms.locfileid: "118131586"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

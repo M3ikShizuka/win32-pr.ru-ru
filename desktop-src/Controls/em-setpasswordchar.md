@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 56cdfbc108ad5bc1b3e2e11b72937a92da473bcbfa01e974056743ed2e6fde1f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8dd2c75039a6d447809cc17e5c44d70c6e612ede
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118412319"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054323"
 ---
 # <a name="em_setpasswordchar-message"></a>\_Сообщение СЕТПАССВОРДЧАР EM
 
@@ -47,7 +47,7 @@ ms.locfileid: "118412319"
 
 Это сообщение не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Когда элемент управления "поле ввода" получает сообщение **EM \_ сетпассвордчар** , элемент управления перерисовывает все видимые символы, используя символ, заданный параметром *wParam* . Если параметр *wParam* равен нулю, элемент управления перерисовывает все видимые символы, используя символы, введенные пользователем.
 
@@ -65,7 +65,7 @@ ms.locfileid: "118412319"
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 

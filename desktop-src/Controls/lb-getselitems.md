@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a541c7efb0acb8d462cce42f0323393baff58e51d63e6a78a72a9d334c0eae81
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 703988749cc5091bc3196f7c6e70364edb40ee04
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120085504"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054126"
 ---
 # <a name="lb_getselitems-message"></a>Сообщение жетселитемс балансировки нагрузки \_
 
@@ -49,7 +49,7 @@ Windows 95/Windows 98/Windows Millennium Edition (Windows Me): параметр 
 
 Возвращаемое значение — это число элементов, помещаемых в буфер. Если список является списком с одним выбором, возвращается значение фунтов \_ Err.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ Windows 95/Windows 98/Windows Millennium Edition (Windows Me): параметр 
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

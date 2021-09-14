@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 85f3cf97175b28750408d28a6e164f8aaa5fe71ec18bb89fff8e5c4583fb85cb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bc77e07231d086f15086662d60581d4c5992bf5b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120041944"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057679"
 ---
 # <a name="recordreadstream-method"></a>Метод Record. Реадстреам
 
@@ -79,13 +79,13 @@ Record.ReadStream(
 
 Этот метод возвращает строку, содержащую запрошенное число байтов, считанных из поля записи.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращенное значение несуществующего поля является пустым значением. Если в потоке меньше байтов, запрошенных счетчиком, возвращаемая строка сокращается соответствующим образом.
 
 Пример этого метода см. [в разделе Копирование файла ANSI в поле базы данных](copy-ansi-file-into-a-database-field.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

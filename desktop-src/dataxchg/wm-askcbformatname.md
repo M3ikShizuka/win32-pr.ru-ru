@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bfe96a2ddf4e6767c083ec2e3f4e3fc61bdde902ff93ce9a162ec7e93eb5bef7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b14a7f2fc2ff57076d6b694061466fd60e09dce0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118991244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056124"
 ---
 # <a name="wm_askcbformatname-message"></a>\_Сообщение АСККБФОРМАТНАМЕ WM
 
@@ -56,7 +56,7 @@ ms.locfileid: "118991244"
 
 Если приложение обрабатывает это сообщение, оно должно вернуть ноль.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В ответ на это сообщение владелец буфера обмена должен скопировать имя формата, отображаемого владельцем, в указанный буфер, не превышающий размер буфера, указанный параметром *wParam* .
 
@@ -74,7 +74,7 @@ ms.locfileid: "118991244"
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

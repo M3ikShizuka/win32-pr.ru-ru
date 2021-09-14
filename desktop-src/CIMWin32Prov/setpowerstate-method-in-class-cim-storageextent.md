@@ -15,11 +15,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: e5b00ded3e8e08f3f809b21fc56607f8a8d257fa
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104538324"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055642"
 ---
 # <a name="setpowerstate-method-of-the-cim_storageextent-class"></a>Метод SetPowerState \_ класса CIM сторажеекстент
 
@@ -126,7 +126,7 @@ uint32 SetPowerState(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

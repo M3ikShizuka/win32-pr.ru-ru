@@ -22,12 +22,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 502c9d023996e57e065acc1b3a59fceb5bd9e41cb816bd9d2c38eb9fa26740b1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3c6015b8d162b4734aa4e57fa7aaebe86e56c748
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118997264"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056405"
 ---
 # <a name="displaying-web-pages-in-windows-media-player"></a>отображение веб-страниц в проигрыватель Windows Media
 
@@ -43,7 +43,7 @@ ms.locfileid: "118997264"
 -   [Управление процессом воспроизведения](controlling-the-playback-experience.md)
 -   [Проблемы совместимости](compatibility-issues.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

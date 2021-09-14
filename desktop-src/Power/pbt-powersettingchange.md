@@ -4,12 +4,12 @@ ms.assetid: 0bcadb85-47c5-48a9-b3f9-f0a1ca60b503
 title: Событие PBT_POWERSETTINGCHANGE (WinUser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3e50a793e22cce7b0720fa7a020fb3d2d1b6e464ef619a0cf5c43ca256748d69
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e0f38486d2e5cce1cfe541468e548e92353c9837
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119961694"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055082"
 ---
 # <a name="pbt_powersettingchange-event"></a>\_Событие ПБТ поверсеттингчанже
 
@@ -69,7 +69,7 @@ WindowProc( HWND hwnd,      // handle to window
 
 Нет возвращаемого значения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -81,7 +81,7 @@ WindowProc( HWND hwnd,      // handle to window
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

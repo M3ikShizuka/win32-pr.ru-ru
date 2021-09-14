@@ -14,11 +14,11 @@ api_type:
 api_location:
 - D3DX10Math.h
 ms.openlocfilehash: 972238650fa23e8b7aa435cd91b36f2caf8a4d9b
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108102861"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056064"
 ---
 # <a name="d3dxvector2-structure-d3dx10mathh"></a>Структура D3DXVECTOR2 (D3DX10Math. h)
 
@@ -36,7 +36,7 @@ typedef struct D3DXVECTOR2 {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -62,7 +62,7 @@ typedef struct D3DXVECTOR2 {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 **D3DXVECTOR2** имеет следующие расширения C++.
 
@@ -120,11 +120,11 @@ public:
 
 | Требование | Значение |
 |-------------------|-----------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3DX10Math. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3DX10Math. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

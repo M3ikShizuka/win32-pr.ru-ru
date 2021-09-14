@@ -7,12 +7,12 @@ keywords:
 - освещение OpenGL
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2f0f262ea690d97b88a1d2935e0133651719276ff16a9f34b592a10b9fc49983
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 62e7434a1341c29388b7ae4a393dba8544126a38
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119776654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057230"
 ---
 # <a name="setting-lighting-and-coloring"></a>Настройка освещения и цветов
 

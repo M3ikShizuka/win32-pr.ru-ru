@@ -17,12 +17,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: de38aa4f02abdea316791dbf79289a9c977e08f17eb35a78d91bc4c67608c903
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2906c8f3f49c42471bd05978b35ce33f2cdf11dc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119856994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967038"
 ---
 # <a name="swbemprivilegeidentifier-property"></a>Свбемпривилеже. identifier, свойство
 

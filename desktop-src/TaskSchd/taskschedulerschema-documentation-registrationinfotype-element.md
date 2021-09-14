@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 6cb8c2a78450fffa467ea659b55015f064310783ae21b067093de9473612fcc1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3407a6611886f867734dc7f32cd867a2930d3d2b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118356872"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891509"
 ---
 # <a name="documentation-registrationinfotype-element"></a>Элемент Documentation (Регистратионинфотипе)
 
@@ -43,9 +43,9 @@ ms.locfileid: "118356872"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
-Для приложений со скриптами дополнительная документация по задачам указывается с помощью свойства [**RegistrationInfo.Docументатион**](registrationinfo-documentation.md) .
+Для приложений со скриптами дополнительная документация по задачам указывается с помощью свойства [**регистратионинфо. Documentation**](registrationinfo-documentation.md) .
 
 Для приложений C++ Дополнительная документация по задачам указывается с помощью свойства [**ирегистратионинфо::D kumentace**](/windows/desktop/api/taskschd/nf-taskschd-iregistrationinfo-get_documentation) .
 

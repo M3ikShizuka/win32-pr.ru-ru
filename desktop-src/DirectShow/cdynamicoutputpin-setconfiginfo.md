@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 23b492eaf4b5f712a51132eefcceac12a772b17b8285d8c6edb1a6cec268b1c8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b0c14342a629a38a878649ac59d8f1f814874f12
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119074238"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054759"
 ---
 # <a name="cdynamicoutputpinsetconfiginfo-method"></a>Кдинамикаутпутпин. Сетконфигинфо, метод
 
@@ -61,11 +61,11 @@ void SetConfigInfo(
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Фильтр должен вызвать этот метод при соединении графа фильтра. Диспетчер графов фильтров поддерживает **играфконфиг**. Для параметра *хстопевент* Создайте событие ручного сброса. Когда фильтр покидает граф фильтра, вызовите этот метод еще раз с **нулевым значением** для обоих параметров.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ void SetConfigInfo(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

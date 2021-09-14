@@ -5,28 +5,28 @@ ms.assetid: 19A4F0D1-88C5-407D-A70F-CB486DAD352E
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 246c6309dec94538f47ed9ca7e464f1d6d17f240
-ms.sourcegitcommit: f0ca63c18dc52c357d3398af7be766d2bdd40be7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "103789361"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054260"
 ---
 # <a name="how-to-format-text-in-rich-edit-controls"></a>Форматирование текста в элементах управления Rich Edit
 
 Приложение может отправить сообщения в элемент управления Rich Edit, чтобы форматировать символы и абзацы и получать сведения о форматировании. Атрибуты форматирования абзаца включают выравнивание, табуляцию, отступы, нумерацию и простые таблицы. Для символов можно указать имя шрифта, размер, цвет и эффекты, такие как полужирный, курсив и защищенный.
 
-## <a name="what-you-need-to-know"></a>Что необходимо знать
+## <a name="what-you-need-to-know"></a>Это важно знать
 
 ### <a name="technologies"></a>Технологии
 
--   [Элементы управления Windows](window-controls.md)
+-   [Windows Элементы управления](window-controls.md)
 
-### <a name="prerequisites"></a>Предварительные условия
+### <a name="prerequisites"></a>Предварительные требования
 
 -   C/C++
--   Программирование пользовательского интерфейса Windows
+-   Windows Программирование пользовательского интерфейса
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="format-text-in-a-rich-edit-control"></a>Форматирование текста в элементе управления Rich Edit
 
@@ -42,19 +42,19 @@ ms.locfileid: "103789361"
 
 Цвет переднего плана всегда является символьным атрибутом. В Microsoft Rich Edit 1,0 цвет фона — это только свойство элемента управления Rich Edit. Чтобы задать цвет фона по умолчанию, используйте сообщение [**EM \_ сетбкгндколор**](em-setbkgndcolor.md) . Обратите внимание, что Расширенное редактирование не поддерживает сообщение [**WM \_ ктлколоредит**](wm-ctlcoloredit.md) .
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Использование элементов управления Rich Edit](using-rich-edit-controls.md)
 </dt> <dt>
 
-[Демонстрация стандартных элементов управления Windows (Кппвиндовскоммонконтролс)](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/OneCodeTeam/Windows%20common%20controls%20demo%20(CppWindowsCommonControls)/%5BC++%5D-Windows%20common%20controls%20demo%20(CppWindowsCommonControls)/C++/CppWindowsCommonControls)
+[демонстрация Windows стандартных элементов управления (кппвиндовскоммонконтролс)](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/OneCodeTeam/Windows%20common%20controls%20demo%20(CppWindowsCommonControls)/%5BC++%5D-Windows%20common%20controls%20demo%20(CppWindowsCommonControls)/C++/CppWindowsCommonControls)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

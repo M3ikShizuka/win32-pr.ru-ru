@@ -17,12 +17,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 0aec5a6e5b37dac895e339b7314cfb3a59d424e270ff993eaa6c6d45c496f7b3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7ae9a865045ee1264a0598a3d3c1db8cc3c3b8bc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119755404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056100"
 ---
 # <a name="ibackgroundcopyjobgetpriority-method"></a>Метод использованием метода ibackgroundcopyjob:: предшествовал
 
@@ -80,7 +80,7 @@ HRESULT GetPriority(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

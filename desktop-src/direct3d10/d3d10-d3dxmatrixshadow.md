@@ -15,11 +15,11 @@ api_location:
 - D3DX10.lib
 - D3DX10.dll
 ms.openlocfilehash: d3a5bff99552a4c5d65267c390c25a2892d3d32f
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108103352"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970070"
 ---
 # <a name="d3dxmatrixshadow-function-d3dx10mathh"></a>Функция D3DXMatrixShadow (D3DX10Math. h)
 
@@ -75,7 +75,7 @@ D3DXMATRIX* D3DXMatrixShadow(
 
 Указатель на структуру D3DXMATRIX, которая выполняет сведение геометрии в плоскость.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция **D3DXMatrixShadow** выполняет сведение геометрии в плоскость, как при приведении тени от светлой.
 
@@ -105,12 +105,12 @@ P.d * L.x      P.d * L.y      P.d * L.z      P.d * L.w + d
 
 | Требование | Значение |
 |--------------------|-----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3DX10Math. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3DX10Math. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3DX10. lib</dt> </dl>   |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

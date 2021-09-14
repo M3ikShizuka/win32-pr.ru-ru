@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 7b2811e307b370323c331d3f894116ad0ff01af25ad76e1ea775dae5489dfb15
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 91331ede15feb756f3ddd08d0d368621b35eda00
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119074568"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971737"
 ---
 # <a name="cbasewindowpreparewindow-method"></a>Кбасевиндов. Препаревиндов, метод
 
@@ -55,7 +55,7 @@ virtual HRESULT PrepareWindow();
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Вызовите этот метод после создания объекта. Этот метод выполняет некоторый первоначальный бухгалтерский вызов, а затем вызывает метод [**кбасевиндов::D окреатевиндов**](cbasewindow-docreatewindow.md) для создания окна.
 

@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: bf4271ce2ea1c146c1cbc96c9533f1c7e834126e4596c4792cc82ed2b3ad3d0a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7eea24875b0639f7f5b7968084a3fff2aa7cccec
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120063604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969181"
 ---
 # <a name="jet_columnidcompareto-method"></a>JET_COLUMNID. CompareTo, метод
 
@@ -61,7 +61,7 @@ public int CompareTo(
 
 #### <a name="parameters"></a>Параметры
 
-  - др.  
+  - иное  
     Тип: [Microsoft.ISAM.ESENT.Interop.JET_COLUMNID](./jet-columnid-structure.md)  
     
     Значение columnid, сравниваемое с текущим экземпляром.
@@ -75,7 +75,7 @@ public int CompareTo(
 
 [Интерфейс IComparable \<T\> . CompareTo (T)](/dotnet/api/system.icomparable-1.compareto#System_IComparable_1_CompareTo__0_)  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

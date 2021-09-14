@@ -4,12 +4,12 @@ ms.assetid: 5ce0f8a6-ab61-4091-809f-2e4a990f4886
 title: Использование одноранговой инфраструктуры
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 52e759eecf59eee04274db564e488bbf5778755f171da04967401d10f1ea3d24
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2a6cbcaab4044aa1f0b3e3ca017c824bf304f634
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117794147"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057156"
 ---
 # <a name="using-the-peer-infrastructure"></a>Использование одноранговой инфраструктуры
 

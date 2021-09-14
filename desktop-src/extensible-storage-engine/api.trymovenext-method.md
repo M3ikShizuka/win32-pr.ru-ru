@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 2e0f44caef2cef6d168668525b8dbd4066d1519f7e3d80ee5de9baec5a10d10c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4b4b4e1f296e5549ba3823f698cdcb5cc9f9f42a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119738384"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055910"
 ---
 # <a name="apitrymovenext-method"></a>API. Тримовенекст, метод
 
@@ -83,7 +83,7 @@ public static bool TryMoveNext(
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс API](./api-class.md)
 

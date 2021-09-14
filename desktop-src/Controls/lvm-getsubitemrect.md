@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 651be72c23113940fc30adb2e7a9de581289a8f4ddf580f27d01e2edf337c053
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cd1184c52d60b86e008685b87c9f5555cf801b35
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119293894"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972085"
 ---
 # <a name="lvm_getsubitemrect-message"></a>\_Сообщение LVM жетсубитемрект
 
@@ -58,7 +58,7 @@ ms.locfileid: "119293894"
 
 Возвращает ненулевое значение в случае успеха или ноль в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Ниже приведены значения флагов, которые могут быть установлены.
 
@@ -75,7 +75,7 @@ ms.locfileid: "119293894"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

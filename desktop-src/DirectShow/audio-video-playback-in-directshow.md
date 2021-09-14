@@ -4,12 +4,12 @@ ms.assetid: 88f4762a-e6e6-4b1e-9951-a409d9d80da9
 title: Воспроизведение звука и видео в DirectShow
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 51f4eb2db6756f4272310a35679c1c72984f1e99645c6c92d775c5e456e3a262
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8ca3d681386d85eafc4f32b4e688b920253a51a7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119641464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162195"
 ---
 # <a name="audiovideo-playback-in-directshow"></a>Воспроизведение звука и видео в DirectShow
 

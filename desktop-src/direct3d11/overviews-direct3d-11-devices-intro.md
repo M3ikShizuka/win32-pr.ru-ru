@@ -5,11 +5,11 @@ ms.assetid: b9b45d18-f7b7-40f9-ae4e-576ca7a6eba7
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 5f9459574ad7d8732714ac54519294ae232e4d8d
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122475710"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056010"
 ---
 # <a name="introduction-to-a-device-in-direct3d-11"></a>Общие сведения об устройстве в Direct3D 11
 
@@ -20,7 +20,7 @@ ms.locfileid: "122475710"
     -   [Контекст интерпретации](#immediate-context)
     -   [Отложенный контекст](#deferred-context)
 -   [Особенности работы с потоками](#threading-considerations)
--   [Связанные темы](#related-topics)
+-   [Связанные разделы](#related-topics)
 
 ## <a name="device"></a>Устройство
 
@@ -63,7 +63,7 @@ ms.locfileid: "122475710"
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

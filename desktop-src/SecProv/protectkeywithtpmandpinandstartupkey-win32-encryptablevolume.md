@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Root\CIMV2\Security\MicrosoftVolumeEncryption
-ms.openlocfilehash: c4a77c0e5687319bbea438127ce9c30b27ff3122f42359237df5d4cd158b1393
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9f315629c810027e18dac3a337c126f4a4a4bcce
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119004352"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056939"
 ---
 # <a name="protectkeywithtpmandpinandstartupkey-method-of-the-win32_encryptablevolume-class"></a>Метод Протекткэйвистпмандпинандстартупкэй \_ класса Win32 енкриптаблеволуме
 
@@ -161,7 +161,7 @@ uint32 ProtectKeyWithTPMAndPINAndStartupKey(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В любой момент времени может существовать не более одного предохранителя ключа с типом "TPM и ПИН-код и ключ запуска" для тома. Если вы хотите изменить отображаемое имя или профиль проверки платформы, используемый с предохранителем ключа TPM, ПИН-кода и ключа запуска, необходимо сначала удалить существующий предохранитель ключа, а затем вызвать **протекткэйвистпмандпинандстартупкэй** , чтобы создать новый.
 
@@ -184,7 +184,7 @@ uint32 ProtectKeyWithTPMAndPINAndStartupKey(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 501aacb7b9a56fd9780aba75a15aa9f717640ebff7619df020bad432cdffd459
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f0ac5bb8d445c3ba6418be4ee5c0c5e7a96f507d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120123394"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056361"
 ---
 # <a name="mediaisreadonlyitem-method"></a>Метод Media. Исреадонлитем
 
@@ -53,7 +53,7 @@ bRetVal = Media.isReadOnlyItem(
 
 Этот метод возвращает **логическое значение**.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если атрибут доступен только для чтения, то он не может быть задан с помощью метода **сетитеминфо** . обратите внимание, что этот метод может возвращать различные значения для конкретного атрибута при использовании с разными версиями проигрыватель Windows Media.
 
@@ -102,7 +102,7 @@ for(var i = 0; i < cm.attributeCount; i++){
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

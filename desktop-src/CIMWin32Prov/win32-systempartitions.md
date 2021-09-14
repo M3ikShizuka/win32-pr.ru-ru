@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 7c5ec2682e6a81d0cdc3e9fa590418bdf03e46c0a60086b470cd8bc4c97006fe
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: deae8129772e5d854f05b5b953ec66a12bd5bcaf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117833952"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053690"
 ---
 # <a name="win32_systempartitions-class"></a>\_Класс Win32 системпартитионс
 
@@ -40,7 +40,7 @@ class Win32_SystemPartitions : Win32_SystemDevices
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ системпартитионс** имеет следующие типы членов:
 
@@ -84,7 +84,7 @@ class Win32_SystemPartitions : Win32_SystemDevices
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ системпартитионс** является производным от [**Win32 \_ системдевицес**](win32-systemdevices.md).
 

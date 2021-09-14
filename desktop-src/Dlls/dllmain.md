@@ -13,12 +13,12 @@ api_type:
 - UserDefined
 api_location:
 - process.h
-ms.openlocfilehash: efe6ab6fbd4e801385e75846ac71e2e9bee57e91b9fd4e0218da5fb3d4e6aa2a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ee182fd54f11909e54e98f827904f1da5e46f557
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119902674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055420"
 ---
 # <a name="dllmain-entry-point"></a>Точка входа DllMain
 
@@ -123,7 +123,7 @@ BOOL WINAPI DllMain(
 
 Когда система вызывает функцию **DllMain** с любым значением, отличным от **\_ \_ присоединения к процессу DLL**, возвращаемое значение игнорируется.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 **DllMain** — это заполнитель для имени определяемой библиотекой функции. Необходимо указать фактическое имя, используемое при сборке библиотеки DLL. Дополнительные сведения см. в документации, входящей в состав средств разработки.
 
@@ -157,7 +157,7 @@ BOOL WINAPI DllMain(
 Рассмотрите возможность вызова [**дисаблесреадлибрарикаллс**](/windows/win32/api/libloaderapi/nf-libloaderapi-disablethreadlibrarycalls) при получении **\_ \_ подключения к процессу DLL**, если только библиотека DLL не связана со статической библиотекой времени выполнения C (CRT).
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -169,7 +169,7 @@ BOOL WINAPI DllMain(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

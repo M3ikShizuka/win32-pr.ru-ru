@@ -4,12 +4,12 @@ ms.assetid: 15690E05-9AF7-41A3-AF7C-8DB7C5FB9BE4
 title: Начало работы
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f791589d73447798a7721c52164a2002b48a792959c698b835039293ce6004d7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 84879e6373f4bfeb5a7e4b6a6138423d7688afe2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119755014"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970093"
 ---
 # <a name="get-started-with-desktop-windows-apps-that-use-the-win32-api"></a>начало работы с настольными Windows приложениями, использующими API Win32
 

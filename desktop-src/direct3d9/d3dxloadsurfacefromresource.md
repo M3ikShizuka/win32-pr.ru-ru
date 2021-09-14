@@ -15,11 +15,11 @@ api_location:
 - d3dx9.lib
 - d3dx9.dll
 ms.openlocfilehash: ae802a1b7e18ce5f2b0a11c6679628ea1deb25aa
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "104000312"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969745"
 ---
 # <a name="d3dxloadsurfacefromresource-function"></a>Функция D3DXLoadSurfaceFromResource
 
@@ -139,7 +139,7 @@ HRESULT D3DXLoadSurfaceFromResource(
 
 Параметр компилятора также определяет версию функции. Если определен Юникод, вызов функции разрешается в D3DXLoadSurfaceFromResourceW. В противном случае вызов функции разрешается в D3DXLoadSurfaceFromResourceA, так как используются строки ANSI.
 
-Загружаемый ресурс должен иметь тип \_ Bitmap или "RT RCDATA" \_ . Тип ресурса RT \_ RCDATA используется для загрузки форматов, отличных от точечных рисунков (таких как. TGA,. jpg и. DDS).
+Загружаемый ресурс должен иметь тип \_ Bitmap или "RT RCDATA" \_ . Тип ресурса RT \_ RCDATA используется для загрузки форматов, отличных от точечных рисунков (таких как. TGA, .jpg и. DDS).
 
 Эта функция обрабатывает преобразование в форматы сжатой текстуры и из них.
 
@@ -151,7 +151,7 @@ HRESULT D3DXLoadSurfaceFromResource(
 
 | Требование | Значение |
 |--------------------|---------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3dx9tex. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3dx9tex. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>  |
 
 

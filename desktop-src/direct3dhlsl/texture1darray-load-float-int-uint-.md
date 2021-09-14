@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 794024174f5db39fdaeb6c2cc8456764cc0751dd7363b4b367571412a8c757da
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ee367aaf98aa971aa10c6859f117f15df9fcdd83
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119788174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055929"
 ---
 # <a name="texture1darrayloadintintuint-function"></a>Функция Texture1DArray:: Load (int, int, uint)
 
@@ -74,7 +74,7 @@ ms.locfileid: "119788174"
 
 Возвращаемый тип соответствует типу в объявлении для объекта [**Texture1DArray**](sm5-object-texture1darray.md) .
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

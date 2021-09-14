@@ -17,12 +17,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 5a6150dcdee6051fdfb8737618f4735cfe1e568da05ec35a6cd935be197a56ae
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cce55d731916d0e8180de1bde495566d4ed22c49
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118992244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965266"
 ---
 # <a name="swbemdatetimeminutes-property"></a>SWbemDateTime. minutes, свойство
 
@@ -56,7 +56,7 @@ SWbemDateTime.Minutes As Long
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если свойство **SWbemDateTime. minutes** имеет значение 1, то свойство [**SWbemDateTime. Seconds**](swbemdatetime-seconds.md) содержит значение, которое смещается на одну секунду. ошибка округления, возникающая при преобразовании значения **DateTime** CIM в значение **\_ даты VT** . Если вместо этого для свойства **minutes** задано значение 0, то свойство **Seconds** будет возвращать правильную величину.
 
@@ -72,7 +72,7 @@ SWbemDateTime.Minutes As Long
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Wbemdisp. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_SWBEMDATETIME CLSID<br/>                                                         |

@@ -11,12 +11,12 @@ keywords:
 - страницы обнаружения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fe29ed5d3948bbdcd6f36239938e3a4e552362318b6ec48658e85895cb58d163
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a349b0e7238aa6d59b56f9035a3c02a5b3ff7b7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118997344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056416"
 ---
 # <a name="discovery-pages"></a>Страницы обнаружения
 
@@ -32,7 +32,7 @@ ms.locfileid: "118997344"
 
 **Внешний** объект также предоставляет странице обнаружения способ связи с другой страницей обнаружения. Когда скрипт на странице обнаружения вызывает [External. чанжевиев](external-changeview.md), скрипт может предоставить строку в параметре *виевпарамс* . проигрыватель Windows Media не интерпретирует строку *виевпарамс* , но делает ее доступной для следующей страницы обнаружения в свойстве [External. виевпараметерс](external-viewparameters.md) .
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

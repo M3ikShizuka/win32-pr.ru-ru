@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: a1a2af7ec5f9945257a94d1c65823ecad3c9a05f
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122481530"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057142"
 ---
 # <a name="counter-complex-type"></a>Сложный тип счетчика
 
@@ -294,7 +294,7 @@ ms.locfileid: "122481530"
 
 | Имя | Тип | Описание | 
 |------|------|-------------|
-| статистическое выражение | Статистическая функция, применяемая, если атрибут <strong>Instances</strong> набора <a href="performance-counters-counterset-complex-type.md"><strong>счетчиков</strong></a> — Глобалаггрегате, мултиплеаггрегате или глобалаггрегатехистори. Ниже приведены возможные статистические функции, которые можно применять.<br /><dl><dt><span id="max"></span><span id="MAX"></span>максимальной</dt><dd> Возвращается максимальное значение счетчика.<br /></dd><dt><span id="min"></span><span id="MIN"></span>мин</dt><dd> Возвращается минимальное значение счетчика.<br /></dd><dt><span id="avg"></span><span id="AVG"></span>обращения</dt><dd> Возвращается среднее значение счетчика.<br /></dd><dt><span id="sum"></span><span id="SUM"></span>функции</dt><dd> Возвращается сумма значений счетчика.<br /></dd><dt><span id="undefined"></span><span id="UNDEFINED"></span>определено</dt><dd> Не вычислять этот счетчик.<br /></dd></dl> | 
+| статистическое выражение | Статистическая функция, применяемая, если атрибут <strong>Instances</strong> набора <a href="performance-counters-counterset-complex-type.md"><strong>счетчиков</strong></a> — Глобалаггрегате, мултиплеаггрегате или глобалаггрегатехистори. Ниже приведены возможные статистические функции, которые можно применять.<br /><dl><dt><span id="max"></span><span id="MAX"></span>max</dt><dd> Возвращается максимальное значение счетчика.<br /></dd><dt><span id="min"></span><span id="MIN"></span>Min</dt><dd> Возвращается минимальное значение счетчика.<br /></dd><dt><span id="avg"></span><span id="AVG"></span>avg</dt><dd> Возвращается среднее значение счетчика.<br /></dd><dt><span id="sum"></span><span id="SUM"></span>Sum</dt><dd> Возвращается сумма значений счетчика.<br /></dd><dt><span id="undefined"></span><span id="UNDEFINED"></span>определено</dt><dd> Не вычислять этот счетчик.<br /></dd></dl> | 
 | басеид | <a href="performance-counters-uint32type-simple-type.md"><strong>мужчина: UInt32Type</strong></a> | Идентификатор другого счетчика в том же наборе счетчиков, значение которого используется для вычисления значения этого счетчика. Базовый счетчик требуется для следующих типов счетчиков:<br /><dl><dt><span id="PERF_AVERAGE_TIMER"></span><span id="perf_average_timer"></span>PERF_AVERAGE_TIMER</dt><dd> Требуется базовый счетчик PERF_AVERAGE_BASE.<br /></dd><dt><span id="PERF_AVERAGE_BULK"></span><span id="perf_average_bulk"></span>PERF_AVERAGE_BULK</dt><dd> Требуется базовый счетчик PERF_AVERAGE_BASE.<br /></dd><dt><span id="PERF_COUNTER_MULTI_TIMER_INV"></span><span id="perf_counter_multi_timer_inv"></span>PERF_COUNTER_MULTI_TIMER_INV</dt><dd> Требуется базовый счетчик PERF_COUNTER_MULTI_BASE.<br /></dd><dt><span id="PERF_LARGE_RAW_FRACTION"></span><span id="perf_large_raw_fraction"></span>PERF_LARGE_RAW_FRACTION</dt><dd> Требуется базовый счетчик PERF_LARGE_RAW_BASE.<br /></dd><dt><span id="PERF_PRECISION_100NS_TIMER"></span><span id="perf_precision_100ns_timer"></span>PERF_PRECISION_100NS_TIMER</dt><dd> Требуется базовый счетчик PERF_LARGE_RAW_BASE.<br /></dd><dt><span id="PERF_RAW_FRACTION"></span><span id="perf_raw_fraction"></span>PERF_RAW_FRACTION</dt><dd> Требуется базовый счетчик PERF_RAW_BASE.<br /></dd><dt><span id="PERF_SAMPLE_FRACTION"></span><span id="perf_sample_fraction"></span>PERF_SAMPLE_FRACTION</dt><dd> Требуется базовый счетчик PERF_SAMPLE_BASE.<br /></dd></dl> | 
 | дефаултскале | Коэффициент масштабирования, применяемый к значению счетчика (значение счетчика коэффициента *). Значение по умолчанию равно нулю, если масштабирование не применяется. Диапазон допустимых значений — от 10 до 10 (0,0000000001 до 1000000000). Если это значение равно нулю, значение масштаба равно 1; Если это значение равно 1, значение масштаба равно 10; Если это значение равно 1, масштаб имеет значение. 10; и т. д.<br /> | 
 | description | <strong>xs:string</strong> | Краткое описание счетчика. Не нужно указывать этот атрибут, если счетчик содержит атрибут «не <a href="performance-counters-counterattribute-complex-type.md"><strong>Показывать</strong></a> ».<br /> | 

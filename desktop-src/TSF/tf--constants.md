@@ -14,11 +14,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: c1b47e897bd8c5bf6b8c146c24749726bc4fb7ac
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103989149"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056762"
 ---
 # <a name="tf_-constants"></a>\_ \* КОНСТАНТы TF
 
@@ -41,8 +41,8 @@ ms.locfileid: "103989149"
 |-------------------------------------|--------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                           |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                 |
-| Распространяемые компоненты<br/>          | TSF 1,0 в Windows 2000 профессиональная<br/>                                      |
-| Header<br/>                   | <dl> <dt>Мсктф. h</dt> </dl>   |
+| Распространяемые компоненты<br/>          | TSF 1,0 на Windows 2000 Professional<br/>                                      |
+| Заголовок<br/>                   | <dl> <dt>Мсктф. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>Мсктф. idl</dt> </dl> |
 
 

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Root\CIMV2\Security\MicrosoftVolumeEncryption
-ms.openlocfilehash: 02269d2b2339ebc8a2b6022bc5f02e63710d496e768be09dad9993c177ed5de9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 879536940ff36a005e1936dffcd7821fff585a65
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119004292"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056924"
 ---
 # <a name="saveexternalkeytofile-method-of-the-win32_encryptablevolume-class"></a>Метод Савикстерналкэйтофиле \_ класса Win32 енкриптаблеволуме
 
@@ -80,7 +80,7 @@ uint32 SaveExternalKeyToFile(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 файлы MOF-файл (MOF) содержат определения для классов инструментарий управления Windows (WMI) (WMI). MOF-файлы не устанавливаются в составе Windows SDK. Они устанавливаются на сервере при добавлении связанной роли с помощью диспетчер сервера. Дополнительные сведения о файлах MOF см. в разделе [MOF-файл (MOF)](../wmisdk/managed-object-format--mof-.md).
 
@@ -97,7 +97,7 @@ uint32 SaveExternalKeyToFile(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

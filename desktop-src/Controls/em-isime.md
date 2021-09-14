@@ -3,7 +3,7 @@ title: Сообщение EM_ISIME (RichEdit. h)
 description: Определение с использованием текущего языкового стандарта ввода элемента управления редактирования является восточно-азиатским языковым стандартом.
 ms.assetid: 606e9c7f-dd9e-44b3-b37d-d6838bc66818
 keywords:
-- Элементы управления Windows для EM_ISIME сообщений
+- элементы управления Windows сообщений EM_ISIME
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 1fe801fa8f5150aa342e431f62b971a959569304
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103988266"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054418"
 ---
 # <a name="em_isime-message"></a>\_Сообщение ИСИМЕ EM
 
@@ -53,9 +53,9 @@ ms.locfileid: "103988266"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для настольных приложений Windows XP с пакетом обновления 1 \[\]<br/>                                  |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>RichEdit. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows XP с пакетом обновления 1 (SP1), \[ только классические приложения\]<br/>                                  |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>RichEdit. h</dt> </dl> |
 
 
 

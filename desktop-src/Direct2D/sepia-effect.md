@@ -4,12 +4,12 @@ description: Преобразовывает изображение с испол
 ms.assetid: fe321be9-6ade-bd0c-1c66-cc8042e5a5e1
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c30b2fcd49b30306b055f60bb3e4262a22740d8efa168ade428698c7b23ce10d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cf6ead1d439e86cbd35be14d1f0ae32923de408d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118664990"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162592"
 ---
 # <a name="sepia-effect"></a>Выцветшей, результат
 
@@ -20,14 +20,14 @@ ms.locfileid: "118664990"
 -   [Пример изображения](#example-image)
 -   [Образец кода](#sample-code)
 -   [Свойства эффектов](#effect-properties)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example-image"></a>Пример изображения
 
 ![Пример выходных данных эффектов](images/sepia-effect.png)
 
-## <a name="sample-code"></a>Пример кода
+## <a name="sample-code"></a>Образец кода
 
 
 ```C++
@@ -51,7 +51,7 @@ m_d2dContext->EndDraw();
 
 Свойства для выцветшейного действия определяются перечислением [**D2D1 \_ выцветшей \_ prop**](/windows/desktop/api/d2d1effects_2/ne-d2d1effects_2-d2d1_sepia_prop) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

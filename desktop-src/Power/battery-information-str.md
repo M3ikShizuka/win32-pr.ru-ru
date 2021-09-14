@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Poclass.h
 - Batclass.h
-ms.openlocfilehash: c449f325e03fb4ea81fe0aa148eaddcf65800b5a56356e22232477e0b6d4fa48
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1e892a14263822ddd009b162c6343975e1689683
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120033014"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057138"
 ---
 # <a name="battery_information-structure"></a>\_Структура сведений о батарее
 
@@ -45,7 +45,7 @@ typedef struct _BATTERY_INFORMATION {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -162,11 +162,11 @@ typedef struct _BATTERY_INFORMATION {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Как правило, состояние предупреждения возникает перед низким состоянием, но не следует рассчитывать на это. Можно опросить батарею и обнаружить, что ни один из уровней оповещений не появлялся, и снова опросить батарею и найдет, что он будет отыскиваться в той степени, в которой были достигнуты оба уровня. Это может означать, что опросы недостаточно часто. Это также может означать, что батарея не может удерживать плату за очень длинные и выплатить более быстро, чем ожидалось. Возможно, батарея приближается к концу ее полезного времени или повреждена.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -178,7 +178,7 @@ typedef struct _BATTERY_INFORMATION {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

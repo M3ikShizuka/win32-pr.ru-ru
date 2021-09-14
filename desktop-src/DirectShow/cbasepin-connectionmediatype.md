@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: cdeed52a212a659ca280163ea9513f0cb4f373ea2686bfde00078ebccb183daa
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 62bd211b6c93e44c571d822ccc86104a5a6fdcab
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119916754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053617"
 ---
 # <a name="cbasepinconnectionmediatype-method"></a>Кбасепин. Коннектионмедиатипе, метод
 
@@ -65,13 +65,13 @@ HRESULT ConnectionMediaType(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если ПИН-код подключен, этот метод копирует тип носителя в структуру [**\_ \_ типа данных AM Media**](/windows/win32/api/strmif/ns-strmif-am_media_type) , заданную функцией *ПЛТ*. Вызывающий объект должен освободить блок формата типа мультимедиа. Можно использовать функцию [**CoTaskMemFree**](/windows/desktop/api/combaseapi/nf-combaseapi-cotaskmemfree) или вспомогательную функцию [**фримедиатипе**](freemediatype.md) .
 
 Если ПИН-код не подключен, этот метод обнуляет блок памяти, заданный функцией *ПЛТ* , и возвращает код ошибки.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -82,7 +82,7 @@ HRESULT ConnectionMediaType(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

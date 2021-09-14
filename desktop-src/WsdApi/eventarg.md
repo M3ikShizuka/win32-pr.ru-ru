@@ -4,12 +4,12 @@ ms.assetid: 60be4680-c434-4fdb-8449-c040969d2f59
 title: eventArg, элемент
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5a25909010f812779a5e6d91530a56faff067e1abcd8c041680f2918ba6ad4a9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 820c4223e8e4a880343faf2e9df686d9746b1b29
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118552426"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971410"
 ---
 # <a name="eventarg-element"></a>eventArg, элемент
 
@@ -40,7 +40,7 @@ ms.locfileid: "118552426"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возможные значения: 1 (аргументы события включены) и 0 (по умолчанию, аргументы события исключены).
 

@@ -13,11 +13,11 @@ api_type:
 ms.date: 07/02/2019
 ms.topic: reference
 ms.openlocfilehash: 4c1f846ca0bc1ddcb52696667edcb87291ae05df
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105674949"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162808"
 ---
 # <a name="id2d1rendertargetdrawrectangle-methods"></a>ID2D1RenderTarget: методы:D Равректангле
 
@@ -134,7 +134,7 @@ HRESULT DemoApp::OnRender()
 
 | Требование | Значение |
 |--------------------|-------------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D2d1 \_ 1. h (включение D2d1. h)</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D2d1 \_ 1. h (включение D2d1. h)</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D2d1. lib</dt> </dl>                   |
 | DLL<br/>     | <dl> <dt>D2d1.dll</dt> </dl>                   |
 

@@ -6,11 +6,11 @@ title: W (API телефонии)
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 06b8181a1fba0090194eead2d8fde98c87693796
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104539802"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056648"
 ---
 # <a name="w-telephony-api"></a>W (API телефонии)
 
@@ -32,10 +32,10 @@ ms.locfileid: "104539802"
 
 </dd> <dt>
 
-<span id="tapi2.windows_open_services_architecture_wosa__tapgloss"></span><span id="TAPI2.WINDOWS_OPEN_SERVICES_ARCHITECTURE_WOSA__TAPGLOSS"></span>**Архитектура открытых служб Windows (ВОСА)**
+<span id="tapi2.windows_open_services_architecture_wosa__tapgloss"></span><span id="TAPI2.WINDOWS_OPEN_SERVICES_ARCHITECTURE_WOSA__TAPGLOSS"></span>**Windows Архитектура открытых служб (ВОСА)**
 </dt> <dd>
 
-Архитектура программного обеспечения, обеспечивающая единый интерфейс системного уровня для подключения интерфейсных приложений к внутренним службам. Телефон Windows является частью ВОСА.
+Архитектура программного обеспечения, обеспечивающая единый интерфейс системного уровня для подключения интерфейсных приложений к внутренним службам. Windows Телефонная связь является частью ВОСА.
 
 </dd> </dl>
 

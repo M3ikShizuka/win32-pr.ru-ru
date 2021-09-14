@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 2eb9dc01a398a498252cca2f1f3af012608f8e0ca80c62800c56e4026c0b0a7d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ef4e525762d4b6928e6a9095fad34f3f4f2e96fc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119908824"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054656"
 ---
 # <a name="createaudiomediatype-function"></a>Функция Креатеаудиомедиатипе
 
@@ -69,11 +69,11 @@ HRESULT STDAPI CreateAudioMediaType(
 
 Возвращает значение E \_ OUTOFMEMORY, если память не может быть выделена для данных формата. \_ОК в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если параметр *бсетформат* имеет **значение true**, метод выделяет память для блока Format. Если параметр *ПЛТ* уже содержит выделенный блок формата, произойдет утечка памяти. Чтобы избежать утечки памяти, вызовите [**фримедиатипе**](freemediatype.md) перед вызовом этой функции. После возврата метода вызовите **фримедиатипе** еще раз, чтобы освободить блок формата.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -84,7 +84,7 @@ HRESULT STDAPI CreateAudioMediaType(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

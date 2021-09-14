@@ -4,12 +4,12 @@ description: В этом разделе содержатся общие свед
 ms.assetid: dd104661-1e0c-4569-9753-817bcded1894
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7f4961d80c04f8fa570286666511c04b1208c940369cd13b836095b8899505de
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 121a4df5aa6fab222a5c4387ebdcfba51a7977b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119922494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968761"
 ---
 # <a name="about-custom-draw"></a>О пользовательской прорисовке
 
@@ -181,7 +181,7 @@ SetWindowTheme (hwnd, "", "");
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Использование пользовательского рисования](using-custom-draw.md)

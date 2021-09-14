@@ -25,12 +25,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: c51f9d165bb389ff56bb162f2ae3377579181b31b2ba8d820d9470c1d93c3bff
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0142ce9c79b2828fcb00b953f1e689d31ee571d9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118074382"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969101"
 ---
 # <a name="jet_logtimeisutc-property"></a>JET_LOGTIME. Исутк, свойство
 
@@ -60,7 +60,7 @@ public bool IsUtc { get; }
 
 Тип: [System. Boolean](/dotnet/api/system.boolean)  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

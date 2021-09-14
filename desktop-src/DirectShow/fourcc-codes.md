@@ -4,12 +4,12 @@ ms.assetid: 7627b580-4119-48e2-88b7-51b714b5d5b2
 title: Коды FOURCC
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 25820d21fb8e8386fb11816c373debf427fa783b8a2f2d4723a46e689e6aea0d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: eb789bc16a1643ee737c1c1a63bdbc5704567931
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120043324"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055517"
 ---
 # <a name="fourcc-codes"></a>Коды FOURCC
 
@@ -25,7 +25,7 @@ DWORD fccYUY2 = FCC('YUY2');
 
 
 
-Кроме того, можно объявить код FOURCC непосредственно в виде строкового литерала, просто отменив порядок символов. Например:
+Кроме того, можно объявить код FOURCC непосредственно в виде строкового литерала, просто отменив порядок символов. Пример:
 
 
 ```C++
@@ -53,7 +53,7 @@ GUID g2 = (GUID)FOURCCMap(FCC('YUY2'));
 
 
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

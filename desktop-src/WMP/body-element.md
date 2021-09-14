@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 4c785b7db7b44177469596450ee75a460e2bc6224b191a2811baf95380bea25a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: eb30885efe9e018bf8792b38facdc086c5473b3f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119135957"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889541"
 ---
 # <a name="body-element"></a>Элемент Body
 
@@ -46,7 +46,7 @@ ms.locfileid: "119135957"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Содержимое списка воспроизведения упорядочено внутри элемента **Seq** , который содержится в элементе **Body** . Обычно существует либо один элемент **Seq** , который определяет статический набор элементов мультимедиа и содержит элементы **мультимедиа** , либо один, который определяет динамический набор элементов мультимедиа и содержит элемент **смартплайлист** .
 

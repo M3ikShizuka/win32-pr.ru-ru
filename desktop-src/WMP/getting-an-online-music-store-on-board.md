@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: fcff5aeed04ff2e60b03e7b546de23f1d0d747b9
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122477210"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056391"
 ---
 # <a name="getting-an-online-music-store-on-board"></a>Получение музыкального магазина на доске
 
@@ -154,7 +154,7 @@ ms.locfileid: "122477210"
 
 более полный список распространенных проблем с подключением и часто задаваемых вопросов, скомпилированных виртуальной группой проигрыватель Windows Media Services, см. в статье [общие проблемы, связанные с интернет-музыкальными магазинами](common-on-boarding-problems-for-online-music-stores.md).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

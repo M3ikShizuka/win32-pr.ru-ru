@@ -13,12 +13,12 @@ keywords:
 - расширения, Ускоренная перенаправление метаданных
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7a3a264b0233315d2fe1fb1c5f21121c7273c31d362724e073ba50672c5fb138
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cbe661dff0750f2ad46bef96e537b0852d480db8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117749816"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056427"
 ---
 # <a name="device-extensions-for-accelerated-metadata-transfer"></a>Расширения устройств для ускоренной пересылки метаданных
 
@@ -32,7 +32,7 @@ ms.locfileid: "117749816"
 -   [Расширения устройств MTP для обмена метаданными](mtp-device-extensions-for-metadata-transfer.md)
 -   [Windows Расширения мультимедиа диспетчер устройств устройства для передачи метаданных](windows-media-device-manager-device-extensions-for-metadata-transfer.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

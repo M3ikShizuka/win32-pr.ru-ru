@@ -4,12 +4,12 @@ description: Поворачивает и при необходимости ма�
 ms.assetid: aa37cdf1-bbb6-db4e-45a7-67c7cc16b7b4
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 31d777859fa35dc3dafc3507586e76309049fa170e42bb29f4b214cc704fd24c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4a8e521ca4c0c452301c0f8031c94ba8c22efe80
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118664970"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162568"
 ---
 # <a name="straighten-effect"></a>Результат выпрямления
 
@@ -20,14 +20,14 @@ ms.locfileid: "118664970"
 -   [Пример изображения](#example-image)
 -   [Образец кода](#sample-code)
 -   [Свойства эффектов](#effect-properties)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example-image"></a>Пример изображения
 
 ![Пример выходных данных эффектов](images/straighten-effect.png)
 
-## <a name="sample-code"></a>Пример кода
+## <a name="sample-code"></a>Образец кода
 
 
 ```cpp
@@ -58,7 +58,7 @@ m_d2dContext->EndDraw();
 |--------------------------|---------------------------------------------------|
 | Минимальная версия клиента | Windows 10 \[ классические приложения \| Windows приложения магазина\] |
 | Минимальная версия сервера | Windows 10 \[ классические приложения \| Windows приложения магазина\] |
-| Header                   | d2d1effects \_ 2. h                                  |
+| Заголовок                   | d2d1effects \_ 2. h                                  |
 | Библиотека                  | D2D1. lib, дксгуид. lib                              |
 
 

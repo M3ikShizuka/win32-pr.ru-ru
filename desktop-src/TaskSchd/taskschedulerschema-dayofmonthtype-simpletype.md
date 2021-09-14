@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 45c3d3d549f2d84c292ad1dbdf3c03965bd6e4265559b57c41016811834167a8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 9a8428688ff429809c7509bae42adb156efe00ff
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119309359"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891544"
 ---
 # <a name="dayofmonthtype-simple-type"></a>Простой тип Дайофмонстипе
 
@@ -44,7 +44,7 @@ ms.locfileid: "119309359"
 
     Указывает первый из 31-дневного дня месяца или всегда последний день месяца.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 1383277a7a31e5b5e035538ce905607ee1960ee7b70cce4640cfc0e4346c3d3b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e2ad9e225a60e33fdf51d5f677dd4342acd148b3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119081078"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970350"
 ---
 # <a name="addprinterconnection-method-of-the-win32_printer-class"></a>Метод Аддпринтерконнектион \_ класса принтера Win32
 
@@ -119,7 +119,7 @@ objPrinter.Put_()
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -133,7 +133,7 @@ objPrinter.Put_()
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: ed52e32f-8fae-4e6f-b908-26e05ce940cc
 title: Преобразования (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5570562c02f2283b869bbb5e60143ed4badac94eb10651b002a89aedf1cd60f8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f482ef12c88140c2eff4c61e634fd3297aeaf295
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118519751"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969610"
 ---
 # <a name="transforms-direct3d-9"></a>Преобразования (Direct3D 9)
 

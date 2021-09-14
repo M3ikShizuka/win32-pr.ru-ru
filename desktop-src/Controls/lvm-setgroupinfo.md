@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 553a81c3cfe962ae6daf5ae4c988964028554bc662cec08df40c16fd8b4eb43f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 688c5b56a57a579e5955fa62a9b44d88258b7afb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120077274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972057"
 ---
 # <a name="lvm_setgroupinfo-message"></a>\_Сообщение LVM сетграупинфо
 
@@ -39,7 +39,7 @@ ms.locfileid: "120077274"
 
 Возвращает идентификатор группы в случае успеха или значение-1 в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы изменить идентификатор группы для существующей группы, добавьте <b>LVGF_GROUPID</b> в <b>лвграуп. Mask</b> и задайте <b>лвграуп. играупид</b> в качестве нового идентификатора. Вызов завершится ошибкой, если <b>лвграуп. играупид</b> содержит идентификатор существующей группы.
 
@@ -48,7 +48,7 @@ ms.locfileid: "120077274"
 > [!Note]  
 > Чтобы использовать это сообщение, необходимо указать манифест, указывающий Comclt32.dll версии 6,0. Дополнительные сведения о манифестах см. в разделе [Включение визуальных стилей](cookbook-overview.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

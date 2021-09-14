@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 521f07a5712165c282a36bbfe2c3b66769239c53d652ae49a03fa6a50c19cb05
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9005ff7988353daa902b1bc3151c539713bb94ea
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119658454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891472"
 ---
 # <a name="tasksettingsdeleteexpiredtaskafter-property"></a>Тасксеттингс. Делетикспиредтаскафтер, свойство
 
@@ -42,13 +42,13 @@ TaskSettings.DeleteExpiredTaskAfter As String
 
 Строка, которая возвращает или задает период времени, в течение которого планировщик задач будет ожидать перед удалением задачи после истечения ее срока действия. Формат этой строки — Пнинмндтнхнмнс, где Нью-то число лет, nM — это количество месяцев, а — число дней, равное, т. е. в качестве разделителя даты и времени, nH — это количество часов, а в качестве значения nS — количество секунд (например, PT5M указывает 5 минут, а P1M4DT2H5M — один месяц, четыре дня, два часа и пять минут).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Срок действия задачи истекает после того, как превышена конечная граница для всех триггеров, связанных с задачей. Конечная граница триггера задается свойством [ендбаундари](trigger-endboundary.md) , унаследованным всеми объектами Trigger.
 
 При чтении или записи XML для задачи этот параметр указывается в элементе [**делетикспиредтаскафтер (сеттингстипе)**](taskschedulerschema-deleteexpiredtaskafter-settingstype-element.md) схемы планировщик задач.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ TaskSettings.DeleteExpiredTaskAfter As String
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

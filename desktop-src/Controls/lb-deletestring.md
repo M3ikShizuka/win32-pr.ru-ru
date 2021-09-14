@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3329f82babea73a6392f7c360623fdeadec843dfcfd62e70106e7fb1cb0367ae
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 557256484ad5c5fa698d787144a37ff619b02ef2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118671680"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054144"
 ---
 # <a name="lb_deletestring-message"></a>Сообщение делетестринг балансировки нагрузки \_
 
@@ -49,11 +49,11 @@ Windows 95/Windows 98/Windows Millennium Edition (Windows Me): параметр 
 
 Возвращаемое значение — это количество строк, остающихся в списке. Возвращаемое значение — это ошибка балансировки нагрузки, \_ Если параметр *wParam* задает индекс, превышающий число элементов в списке.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если приложение создает список с помощью стиля, рисуемого владельцем, но без стиля [**фунта \_ хасстрингс**](list-box-styles.md) , система отправляет владельцу списка сообщение [**WM \_ DELETEITEM**](wm-deleteitem.md) , чтобы приложение могла освобождать любые дополнительные данные, связанные с элементом.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,15 +61,15 @@ Windows 95/Windows 98/Windows Millennium Edition (Windows Me): параметр 
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 
-**Ссылка**
+**Ссылки**
 </dt> <dt>
 
 [**ADDSTRING балансировки нагрузки \_**](lb-addstring.md)

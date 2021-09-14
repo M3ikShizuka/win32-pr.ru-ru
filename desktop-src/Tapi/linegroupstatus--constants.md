@@ -4,12 +4,12 @@ ms.assetid: 18afe11d-24cc-4897-ad59-a47598fe507f
 title: Константы LINEGROUPSTATUS_ (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 99c40c9e850570d78f0079cd1c83ec700e60c825458617c6800a2a742cb9c28f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b006ca48a1ab25c925fa25ef810b1bd9e5880d22
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119518954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056700"
 ---
 # <a name="linegroupstatus_-constants"></a>\_Константы линеграупстатус
 
@@ -37,7 +37,7 @@ ms.locfileid: "119518954"
 
 </dt> </dl> </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

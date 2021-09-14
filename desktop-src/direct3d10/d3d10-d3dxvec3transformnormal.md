@@ -14,11 +14,11 @@ api_type:
 api_location:
 - D3DX10Math.h
 ms.openlocfilehash: 0fc1456b89f3e11f2076a8e7b6b960d15e9c7083
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108103062"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056080"
 ---
 # <a name="d3dxvec3transformnormal-function-d3dx10mathh"></a>Функция D3DXVec3TransformNormal (D3DX10Math. h)
 
@@ -74,7 +74,7 @@ D3DXVECTOR3* D3DXVec3TransformNormal(
 
 Указатель на структуру D3DXVECTOR3, которая является преобразованным вектором.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция преобразует вектор (ПС->x, pV->y, pV->z, 0) матрице, на которую указывает pM.
 
@@ -88,11 +88,11 @@ D3DXVECTOR3* D3DXVec3TransformNormal(
 
 | Требование | Значение |
 |-------------------|-----------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3DX10Math. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3DX10Math. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e6424daa720f9987228175a7698a29f7056e5d4b4d174d1d635bbcd1ed7f8382
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 381d410bd938cb90855b182e62354d48e72f16d0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119619584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056465"
 ---
 # <a name="iwmdrmdevicegetsynclist-method"></a>Метод Ивмдрмдевице:: Жетсинклист
 
@@ -99,7 +99,7 @@ HRESULT GetSyncList(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

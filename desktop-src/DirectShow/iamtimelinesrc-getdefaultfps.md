@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 92154a4c97c46307a764a7dba22ff2e003621db59cdb962ff025635022a5384b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e48ee38f385ba5ff06b2ede9b27b4558dac65270
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120131214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053864"
 ---
 # <a name="iamtimelinesrcgetdefaultfps-method"></a>Метод Иамтимелинесрк:: Жетдефаултфпс
 
@@ -56,7 +56,7 @@ HRESULT GetDefaultFPS(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Частота кадров по умолчанию не требуется, если формат файла задает частоту кадров. Это так для форматов аудио и видео.
 
@@ -85,7 +85,7 @@ HRESULT GetDefaultFPS(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

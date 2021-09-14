@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0217d1708764ec33dd76ea35ff330f0d411697b5e9be3a6bd148377002a1f127
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b6a0db92ad019950cf8be0a72260da75acc06779
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120047214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054259"
 ---
 # <a name="gettextextentpoint32wrap-function"></a>Функция GetTextExtentPoint32Wrap
 
@@ -95,7 +95,7 @@ BOOL GetTextExtentPoint32Wrap(
 
 Дополнительные замечания см. в разделе [**жеттекстекстентпоинт**](/windows/desktop/api/wingdi/nf-wingdi-gettextextentpointa).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

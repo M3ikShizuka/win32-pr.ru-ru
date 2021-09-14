@@ -6,11 +6,11 @@ title: Предложение СИНТАКСИСа
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 02d0bf25156ddda4bf71a7f40a8de1fede2a82d5
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105703252"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971417"
 ---
 # <a name="syntax-clause"></a>Предложение СИНТАКСИСа
 
@@ -52,15 +52,15 @@ ms.locfileid: "105703252"
 | Тип MIB         | Тип Variant CIM | значение Цимтипе |
 |------------------|------------------|---------------|
 | INTEGER          | VT \_ I4           | **sint32**    |
-| октетстринг      | VT \_ BSTR         | **string**    |
-| OBJECTIDENTIFIER | VT \_ BSTR         | **string**    |
+| октетстринг      | VT \_ BSTR         | **строка**    |
+| OBJECTIDENTIFIER | VT \_ BSTR         | **строка**    |
 | NULL             | VT \_ null         | Не поддерживается |
-| IPAddress        | VT \_ BSTR         | **string**    |
+| IPAddress        | VT \_ BSTR         | **строка**    |
 | Счетчик          | VT \_ I4           | **uint32**    |
 | Датчик            | VT \_ I4           | **uint32**    |
 | Значение TIMETICKS        | VT \_ I4           | **uint32**    |
-| Непрозрачный           | VT \_ BSTR         | **string**    |
-| NetworkAddress   | VT \_ BSTR         | **string**    |
+| Непрозрачный           | VT \_ BSTR         | **строка**    |
+| NetworkAddress   | VT \_ BSTR         | **строка**    |
 
 
 
@@ -73,16 +73,16 @@ ms.locfileid: "105703252"
 | Тип MIB          | Тип Variant CIM | значение Цимтипе |
 |-------------------|------------------|---------------|
 | INTEGER           | VT \_ I4           | **sint32**    |
-| СТРОКА ОКТЕТА      | VT \_ BSTR         | **string**    |
-| ИДЕНТИФИКАТОР ОБЪЕКТА | VT \_ BSTR         | **string**    |
-| IPAddress         | VT \_ BSTR         | **string**    |
+| СТРОКА ОКТЕТА      | VT \_ BSTR         | **строка**    |
+| ИДЕНТИФИКАТОР ОБЪЕКТА | VT \_ BSTR         | **строка**    |
+| IPAddress         | VT \_ BSTR         | **строка**    |
 | Counter32         | VT \_ I4           | **uint32**    |
 | Значение Gauge32           | VT \_ I4           | **uint32**    |
 | Unsigned32        | VT \_ I4           | **uint32**    |
 | Integer32         | VT \_ I4           | **sint32**    |
 | Counter64         | VT \_ BSTR         | **uint64**    |
 | Значение TIMETICKS         | VT \_ I4           | **uint32**    |
-| Непрозрачный            | VT \_ BSTR         | **string**    |
+| Непрозрачный            | VT \_ BSTR         | **строка**    |
 
 
 

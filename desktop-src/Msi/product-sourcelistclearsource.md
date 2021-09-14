@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 9adeb342aa47162905814979eb29853edd1c5bc660e3771f3beabb8a485c6060
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4988d0ba9003e087b6aeac58ae5587727067e01c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118376697"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057738"
 ---
 # <a name="productsourcelistclearsource-method"></a>Метод Product. Саурцелистклеарсаурце
 
@@ -70,7 +70,7 @@ Product.SourceListClearSource(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

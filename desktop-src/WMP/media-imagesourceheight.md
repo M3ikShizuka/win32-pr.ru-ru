@@ -3,7 +3,7 @@ title: Media. Имажесаурцехеигхт
 description: Свойство Имажесаурцехеигхт извлекает высоту текущего элемента мультимедиа в пикселях.
 ms.assetid: fa98ec62-4c58-46ab-98f3-8017096d46d8
 keywords:
-- Media. Имажесаурцехеигхт проигрыватель Windows Media
+- проигрыватель Windows Media Media. имажесаурцехеигхт
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 0de364243e71c6653085b4c9c9ff81f148dc299d
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105695205"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056366"
 ---
 # <a name="mediaimagesourceheight"></a>Media. Имажесаурцехеигхт
 
@@ -41,7 +41,7 @@ ms.locfileid: "105695205"
 
 ## <a name="examples"></a>Примеры
 
-В следующем примере на языке JScript используется *Media*. имажесаурцехеигхт для вывода размера изображения (в пикселях) текущего элемента мультимедиа. Сведения выводятся в HTML-элемент TEXTAREA с именем Видеосизе. Объект **Player** создан с идентификатором "Player".
+в следующем примере JScript используется *Media*. имажесаурцехеигхт для вывода размера изображения (в пикселях) текущего элемента мультимедиа. Сведения выводятся в HTML-элемент TEXTAREA с именем Видеосизе. Объект **Player** создан с идентификатором "Player".
 
 
 ```JScript
@@ -76,12 +76,12 @@ if (NewState == 13){
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 7,0 или более поздней.<br/>                              |
+| Версия<br/> | проигрыватель Windows Media версии 7,0 или более поздней.<br/>                              |
 | DLL<br/>     | <dl> <dt>Wmp.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 
@@ -91,10 +91,10 @@ if (NewState == 13){
 [**Player. Куррентмедиа**](player-currentmedia.md)
 </dt> <dt>
 
-[**Settings. Медиаакцессригхтс**](settings-mediaaccessrights.md)
+[**Параметры. медиаакцессригхтс**](settings-mediaaccessrights.md)
 </dt> <dt>
 
-[**Settings. Рекуестмедиаакцессригхтс**](settings-requestmediaaccessrights.md)
+[**Параметры. рекуестмедиаакцессригхтс**](settings-requestmediaaccessrights.md)
 </dt> </dl>
 
  

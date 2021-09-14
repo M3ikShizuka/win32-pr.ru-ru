@@ -14,11 +14,11 @@ api_type:
 api_location:
 - bdatypes.h
 ms.openlocfilehash: 98b238c61ccfcfb93e4ddcc0a051d9084228f604
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105689276"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055436"
 ---
 # <a name="pid_map-structure"></a>\_Структура схемы PID
 
@@ -36,7 +36,7 @@ typedef struct {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -60,7 +60,7 @@ typedef struct {
 
 | Требование | Значение |
 |-------------------|------------------------------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Бдатипес. h (включение Бдаифаце. h)</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Бдатипес. h (включение Бдаифаце. h)</dt> </dl> |
 
 
 
@@ -68,7 +68,7 @@ typedef struct {
 
 <dl> <dt>
 
-[Структуры DirectShow](directshow-structures.md)
+[DirectShow Сотрудник](directshow-structures.md)
 </dt> <dt>
 
 [**Интерфейс Иенумпидмап**](/previous-versions/windows/desktop/api/Bdaiface/nn-bdaiface-ienumpidmap)

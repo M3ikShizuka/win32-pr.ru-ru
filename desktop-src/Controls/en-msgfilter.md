@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 87d2cbe47af3d74deb4795946d58871b4729118db0e839027e78e05976ebf855
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 40ddb3e9b1d5314e2e981b00f0e0ef8e22974242
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119436714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054283"
 ---
 # <a name="en_msgfilter-notification-code"></a>\_Код уведомления EN мсгфилтер
 
@@ -51,13 +51,13 @@ EN_MSGFILTER
 
 Возвращает ненулевое значение, если элемент управления должен игнорировать событие клавиатуры или мыши.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы получить \_ коды уведомлений EN мсгфилтер для событий, укажите один или несколько из следующих флагов в маске, отправляемой с сообщением [**EM \_ SETEVENTMASK**](em-seteventmask.md) .
 
 
 
-| Флаг                                                                             | Значение                                                |
+| Flag                                                                             | Значение                                                |
 |----------------------------------------------------------------------------------|--------------------------------------------------------|
 | [**ЕНМ \_ кэйевентс**](rich-edit-control-event-mask-flags.md)       | Для получения кодов уведомлений о событиях клавиатуры.     |
 | [**ЕНМ \_ маусивентс**](rich-edit-control-event-mask-flags.md)   | Для получения кодов уведомлений о событиях мыши.        |
@@ -67,7 +67,7 @@ EN_MSGFILTER
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -75,7 +75,7 @@ EN_MSGFILTER
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>RichEdit. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>RichEdit. h</dt> </dl> |
 
 
 
@@ -83,7 +83,7 @@ EN_MSGFILTER
 
 <dl> <dt>
 
-**Ссылка**
+**Ссылки**
 </dt> <dt>
 
 [**мсгфилтер**](/windows/desktop/api/Richedit/ns-richedit-msgfilter)

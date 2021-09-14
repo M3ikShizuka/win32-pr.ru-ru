@@ -4,12 +4,12 @@ description: Когда пользователь с правами админи�
 ms.assetid: 02439ab3-b885-4a2f-b507-0c48d2b30b76
 ms.topic: article
 ms.date: 7/12/2019
-ms.openlocfilehash: 1893c9abc9d783cea6b8ff17e5bcbef47cfc613890c97b45530257950659887d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3017b3a0d816ba393d1427c5c1d2315a68b2dcc0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120004684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055646"
 ---
 # <a name="bits-security-tokens-and-administrator-accounts"></a>Безопасность, токены и учетные записи администраторов BITS
 

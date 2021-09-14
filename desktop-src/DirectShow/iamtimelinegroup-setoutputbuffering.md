@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 8187918a4f6d04df9c8c0eaff387a092f18181071ce6ba41c83de44fcb095bbe
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ab249c1a6af63b0fc0f2ee535daeab1dec9cd558
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119915194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126892077"
 ---
 # <a name="iamtimelinegroupsetoutputbuffering-method"></a>Метод Иамтимелинеграуп:: Сетаутпутбуфферинг
 
@@ -56,7 +56,7 @@ HRESULT SetOutputBuffering(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Буфер большего размера требует больше памяти, но может привести к более гладкому просмотру, особенно во время эффектов или переходов, требующих больше времени для отрисовки. Буфер по умолчанию — 30 кадров.
 
@@ -70,7 +70,7 @@ HRESULT SetOutputBuffering(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -81,7 +81,7 @@ HRESULT SetOutputBuffering(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

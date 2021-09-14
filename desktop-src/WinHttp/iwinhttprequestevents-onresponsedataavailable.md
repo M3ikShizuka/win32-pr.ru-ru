@@ -4,12 +4,12 @@ ms.assetid: 62d02e3b-466a-4d3d-994b-0a1ae12049e1
 title: 'Событие Ивинхттпрекуестевентс:: Онреспонседатааваилабле'
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 12b55f87584164a47b47920caf961f02f0bd9cc6596c4c90f76f381027af545e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 41cb2fbc680b1f6739a66bb68565188c8a5d78b4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118114248"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056292"
 ---
 # <a name="iwinhttprequesteventsonresponsedataavailable-event"></a>Событие Ивинхттпрекуестевентс:: Онреспонседатааваилабле
 
@@ -41,7 +41,7 @@ void OnResponseDataAvailable(
 
 Это событие не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Поскольку данные находятся в байтах, их необходимо преобразовать в широкие символы при помещении в строку расширенных символов (Юникод).
 
@@ -50,7 +50,7 @@ void OnResponseDataAvailable(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -63,7 +63,7 @@ void OnResponseDataAvailable(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

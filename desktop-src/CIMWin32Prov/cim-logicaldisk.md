@@ -40,12 +40,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 57d7da1bc240353f7d7258ab929903493f3a725d636e05cfab187d53ef4ffcc5
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: dd28ab0b9982606278e65705273a9965cfb9b396
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119923353"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972289"
 ---
 # <a name="cim_logicaldisk-class-cimwin32-wmi-providers"></a>Класс CIM_LogicalDisk (поставщики WMI CIMWin32)
 
@@ -93,7 +93,7 @@ class CIM_LogicalDisk : CIM_StorageExtent
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ LogicalDisk** имеет следующие типы членов:
 
@@ -956,7 +956,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1350,7 +1350,7 @@ Windows все еще настраивает устройство.
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **CIM \_ LogicalDisk** является производным от [**CIM \_ сторажеекстент**](cim-storageextent.md).
 

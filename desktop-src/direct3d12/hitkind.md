@@ -13,11 +13,11 @@ api_name:
 api_type:
 - NA
 ms.openlocfilehash: 81638996dbf69097154a2f1c235f6ab26c28dc8e
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105647145"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969825"
 ---
 # <a name="hitkind"></a>хиткинд
 
@@ -32,7 +32,7 @@ uint HitKind();
 
 
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Если пересечение было сообщено пересечением треугольника с фиксированной функцией, **хиткинд** будет одной из сторон, **\_ \_ \_ лицевой \_ стороной** треугольника (254) или координатами **типа курсора \_ \_ \_ \_** (255).
 

@@ -5,16 +5,16 @@ ms.tgt_platform: multiple
 title: Отслеживание событий
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bb90a0a6eef87f88543e8f2414bc38bdea4f7d89c577471d79d23393f331b053
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3ea5d9fc6f9a12f4aa1fb7bc0ff6f66fc4dd4a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118317118"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970189"
 ---
 # <a name="monitoring-events"></a>Отслеживание событий
 
-Системные администраторы могут использовать инструментарий WMI для наблюдения за событиями в сети. Пример.
+Системные администраторы могут использовать инструментарий WMI для наблюдения за событиями в сети. Пример:
 
 -   Служба неожиданно останавливается.
 -   Сервер становится недоступным.
@@ -32,7 +32,7 @@ WMI поддерживает обнаружение событий и доста
 
 ## <a name="using-temporary-event-consumers"></a>Использование временных потребителей событий
 
-Временные потребители событий — это скрипты или приложения, которые возвращают события, соответствующие запросу или фильтру событий. Временные запросы событий обычно используют [**IWbemServices:: ексекнотификатионкуери**](/windows/desktop/api/WbemCli/nf-wbemcli-iwbemservices-execnotificationquery) в приложениях C++ или [**SWbemServices.Exeкнотификатионкуери**](swbemservices-execnotificationquery.md) в скриптах и Visual Basic.
+Временные потребители событий — это скрипты или приложения, которые возвращают события, соответствующие запросу или фильтру событий. Временные запросы событий обычно используют [**IWbemServices:: ексекнотификатионкуери**](/windows/desktop/api/WbemCli/nf-wbemcli-iwbemservices-execnotificationquery) в приложениях C++ или [**SwbemServices. ексекнотификатионкуери**](swbemservices-execnotificationquery.md) в скриптах и Visual Basic.
 
 Запрос события запрашивает экземпляры класса событий, указывающего определенный тип события, например [**Win32 \_ Процесстраце**](/previous-versions/windows/desktop/krnlprov/win32-processtrace) или [**регистрикэйчанжеевент**](/previous-versions/windows/desktop/regprov/registrykeychangeevent).
 
@@ -40,7 +40,7 @@ WMI поддерживает обнаружение событий и доста
 
 Чтобы выполнить сценарий, скопируйте его в файл с именем event.vbs и используйте следующую командную строку: **cscript event.vbs**. Выходные данные скрипта можно просмотреть, запустив Notepad.exe или любой другой процесс. Сценарий останавливается после запуска или остановки пяти процессов.
 
-Этот скрипт вызывает [**SWbemServices.Exeкнотификатионкуери**](swbemservices-execnotificationquery.md), который является [*семисинчронаус*](gloss-s.md) версией метода. См. следующий скрипт для примера настройки асинхронной подписки на события, вызвав [**SWbemServices.Exeкнотификатионкуерясинк**](swbemservices-execnotificationqueryasync.md). Дополнительные сведения см. [в разделе вызов метода](calling-a-method.md). Скрипт вызывает [**свбемевентсаурце. некстевент**](swbemeventsource-nextevent.md) для получения и обработки каждого события по мере его поступления. Сохраните скрипт в файле с расширением vbs и выполните сценарий в командной строке с помощью CScript: **cscript file.vbs**.
+Этот скрипт вызывает [**SwbemServices. ексекнотификатионкуери**](swbemservices-execnotificationquery.md), который является [*семисинчронаус*](gloss-s.md) версией метода. Пример настройки асинхронной подписки на событие с помощью метода [**SwbemServices. ExecNotificationQueryAsync**](swbemservices-execnotificationqueryasync.md)см. в следующем сценарии. Дополнительные сведения см. [в разделе вызов метода](calling-a-method.md). Скрипт вызывает [**свбемевентсаурце. некстевент**](swbemeventsource-nextevent.md) для получения и обработки каждого события по мере его поступления. Сохраните скрипт в файле с расширением vbs и выполните сценарий в командной строке с помощью CScript: **cscript file.vbs**.
 
 
 ```VB
@@ -101,8 +101,8 @@ Loop
 
     Для скриптов вызовите следующие методы:
 
-    -   [**SWbemServices.ExeКнотификатионкуери**](swbemservices-execnotificationquery.md)
-    -   [**SWbemServices.ExeКнотификатионкуерясинк**](swbemservices-execnotificationqueryasync.md)
+    -   [**SWbemServices. Ексекнотификатионкуери**](swbemservices-execnotificationquery.md)
+    -   [**SWbemServices. ExecNotificationQueryAsync**](swbemservices-execnotificationqueryasync.md)
 
 6.  Напишите код для обработки возвращенного объекта события.
 

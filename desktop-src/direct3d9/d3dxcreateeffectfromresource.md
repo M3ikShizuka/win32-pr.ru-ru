@@ -15,11 +15,11 @@ api_location:
 - D3dx9.lib
 - D3dx9.dll
 ms.openlocfilehash: f2a84d2da1f3ca88a117c0150e7b27485838c300
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108107692"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970873"
 ---
 # <a name="d3dxcreateeffectfromresource-function"></a>Функция D3DXCreateEffectFromResource
 
@@ -135,13 +135,13 @@ HRESULT D3DXCreateEffectFromResource(
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, D3DXERR \_ INVALIDDATA, E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если для параметров компилятора требуется Юникод, тип данных LPCTSTR разрешается в ЛПКВСТР. В противном случае тип данных LPCTSTR разрешается в LPCSTR.
 
 Параметр компилятора также определяет версию функции. Если определен Юникод, вызов функции разрешается в D3DXCreateEffectFromResourceW. В противном случае вызов функции разрешается в D3DXCreateEffectFromResourceA, так как используются строки ANSI.
 
-D3DXCreateEffectFromResource загружает данные из ресурса типа RT \_ RCDATA. Дополнительные сведения о ресурсах Windows см. на сайте MSDN.
+D3DXCreateEffectFromResource загружает данные из ресурса типа RT \_ RCDATA. дополнительные сведения о Windowsных ресурсах см. на сайте MSDN.
 
 ## <a name="requirements"></a>Требования
 
@@ -149,12 +149,12 @@ D3DXCreateEffectFromResource загружает данные из ресурса
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3DX9Effect. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3DX9Effect. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>     |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

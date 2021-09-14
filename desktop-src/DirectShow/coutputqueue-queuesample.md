@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 3770029f732629f12d94c9304d144226d873f38cc1b8452036d39ca2abdd757a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8efe0ec3b2326d1af0d0075770bdc6443ab9dcad
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119909594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054686"
 ---
 # <a name="coutputqueuequeuesample-method"></a>Каутпуткуеуе. QueueSample, метод
 
@@ -53,7 +53,7 @@ void QueueSample(
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод добавляет пример в конец очереди. Перед вызовом этого метода следует удерживать критическую секцию и вызывать его только в том случае, если объект использует поток для доставки образцов. Чтобы определить, использует ли объект поток, вызовите метод [**каутпуткуеуе::**](coutputqueue-isqueued.md) GetObject.
 
@@ -63,7 +63,7 @@ void QueueSample(
 
 | Метка | Значение |
 |---------------|----------------------------------------|
-| Message       | Действие                                 |
+| Сообщение       | Действие                                 |
 | \_пакет EOS   | Доставка уведомления об окончании потока. |
 | НОВЫЙ \_ сегмент  | Доставьте новый сегмент.                 |
 | СБРОСИТЬ \_ пакет | Сброс состояния очереди.          |
@@ -75,7 +75,7 @@ void QueueSample(
 
 Это защищенный метод, который класс **каутпуткуеуе** использует для внутренних целей.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -86,7 +86,7 @@ void QueueSample(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 1e52a1d974afdc123e79f85252a68c52aa99e7e78a2b997b6eca1f1bced60997
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9af120c76e4ab8c53c945bd13aa62a2295385ac2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119020512"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053782"
 ---
 # <a name="deleteex-method-of-the-cim_datafile-class"></a>Метод Делетикс \_ класса CIM File
 
@@ -82,7 +82,7 @@ uint32 DeleteEx(
 
 2
 
-Доступ запрещен.
+Access denied. (Недопустимое значение {значение_утверждения} для утверждения {имя_утверждения}. Доступ запрещен.)
 
 </dd> <dt>
 
@@ -185,7 +185,7 @@ uint32 DeleteEx(
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод **делетикс** в [**\_ файле CIM**](cim-datafile.md) реализуется инструментарием WMI.
 

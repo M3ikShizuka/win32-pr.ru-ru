@@ -4,12 +4,12 @@ ms.assetid: d19b6b9d-9606-48a8-ac8e-cdbf15588a8f
 title: Свойство Авенкддпродуктионрумтипе (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4e740138f90d06da8934fdfe1dc8f4d4f3e1afd37537c6c91e1e5bd774847eb6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 2dc2eed0bb491fc982a5102507e5b55bf610880a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120103414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127161904"
 ---
 # <a name="avencddproductionroomtype-property"></a>Авенкддпродуктионрумтипе, свойство
 
@@ -29,7 +29,7 @@ ms.locfileid: "120103414"
 
 Значение этого свойства является членом перечисления [**еавенкддпродуктионрумтипе**](/windows/win32/api/codecapi/ne-codecapi-eavencddproductionroomtype) .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 *Тип комнаты* относится к размеру комнаты, используемой в рабочей среде. Если это свойство задано, задайте для свойства [**авенкддпродуктионинфоексистс**](avencddproductioninfoexists-property.md) значение **true**.
 
@@ -45,7 +45,7 @@ ms.locfileid: "120103414"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

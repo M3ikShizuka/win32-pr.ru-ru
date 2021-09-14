@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: df58175955106906027a6d2d10c465b82ad6313cd493e3ef9ef3ba279cd0115f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e45d22eec1536517bd2b57d875dd596e4a1e28db
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118952353"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055458"
 ---
 # <a name="llmuldiv-function"></a>Функция Ллмулдив
 
@@ -99,7 +99,7 @@ LONGLONG WINAPI Int64x32Div32(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Округление на деление в сторону нуля. Деление на ноль считается условием переполнения.
 
@@ -114,7 +114,7 @@ LONGLONG WINAPI Int64x32Div32(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

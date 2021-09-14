@@ -16,12 +16,12 @@ api_type:
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 08/29/2019
-ms.openlocfilehash: 526d25e8331fc949eb470c0813a083774afddc94312ed6751aaab9672e557d3e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 32b93fcbbe44aaae0916e6d8f3f403eb960e26eb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119124112"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966826"
 ---
 # <a name="id3d12devicedownlevelqueryvideomemoryinfo-method"></a>Метод ID3D12DeviceDownlevel:: Куеривидеомеморинфо
 

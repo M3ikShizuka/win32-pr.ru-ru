@@ -4,12 +4,12 @@ ms.assetid: cd331f79-b64d-479e-aea8-5118ccc87224
 title: Событие PBT_APMRESUMEAUTOMATIC (WinUser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 43e66fcd2201e9fb3c4feeb135843e92a350303b89a5c5045836428b9a326a30
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4a7a481dee356c85b3831fcace0c1ff127b0b276
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119143347"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055092"
 ---
 # <a name="pbt_apmresumeautomatic-event"></a>\_Событие ПБТ апмресумеаутоматик
 
@@ -76,7 +76,7 @@ WindowProc( HWND hwnd,      // handle to window
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если система обнаруживает какие-либо действия пользователя после вещания ПБТ \_ апмресумеаутоматик, она пересылает событие [ПБТ \_ апмресумесуспенд](pbt-apmresumesuspend.md) , чтобы дать приложениям возможность возобновить полное взаимодействие с пользователем.
 

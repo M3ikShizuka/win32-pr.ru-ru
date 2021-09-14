@@ -4,22 +4,22 @@ ms.assetid: 79eeadfd-6079-401b-a360-1ce09786e647
 title: Возобновить свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 65e3c17116558a346fe91e2c9c98bba99cd759b4d382488a7b8f08c946dfa053
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 2c41b57bb92b252ebe37e4d631c155f28a86e596
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119979264"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057610"
 ---
 # <a name="resume-property"></a>Возобновить свойство
 
 Свойство **Resume** задается при возобновлении приостановленной установки. Это свойство может определять, какой текст будет отображаться в пользовательском интерфейсе. Например, если не находится в режиме возобновления, пользователю может быть предложено «вы готовы установить?». в режиме возобновления пользователь может запрашивать «вы готовы завершить установку?».
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Для обеспечения обратной совместимости установщик также поддерживает имя **возобновление** для этого свойства.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

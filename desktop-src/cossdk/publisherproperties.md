@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: 4e5876e01a557e9a585423a9e438e773366ca9eaa73e9e67fdaeae8a957b90c1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bdab3e8143ea3d35d07adb5caa73639fcb568cd1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118547158"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056141"
 ---
 # <a name="publisherproperties-collection"></a>Коллекция Публишерпропертиес
 
@@ -55,7 +55,7 @@ ms.locfileid: "118547158"
 | Ввод | Значение |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Описание    | Имя свойства. Лишние пробелы в начале и конце строки удаляются. Это свойство возвращается при вызове метода свойства [**Key**](/windows/desktop/api/ComAdmin/nf-comadmin-icatalogobject-get_key) или [**Name**](/windows/desktop/api/ComAdmin/nf-comadmin-icatalogobject-get_name) для объекта этой коллекции. |
-| Доступ         | Флагом writeonce                                                                                                                                                                                                                                                              |
+| Access         | Флагом writeonce                                                                                                                                                                                                                                                              |
 | Тип           | Строка                                                                                                                                                                                                                                                                 |
 | По умолчанию        | "Создать свойство"                                                                                                                                                                                                                                                         |
 | Минимальная система | Windows 2000                                                                                                                                                                                                                                                           |
@@ -71,16 +71,16 @@ ms.locfileid: "118547158"
 | Ввод | Значение |
 |----------------|---------------------------|
 | Описание    | Значение для свойства. |
-| Доступ         | ReadWrite                 |
+| Access         | ReadWrite                 |
 | Тип           | Variant                   |
-| По умолчанию        | Н/Д                       |
+| По умолчанию        | Недоступно                       |
 | Минимальная система | Windows 2000              |
 
 
 
  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

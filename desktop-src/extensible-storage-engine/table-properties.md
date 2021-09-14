@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.tabl
 ms:contentKeyID: 55104150
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 85cb259bad42e655af166030581daa5be1b83d34ac29ff35b66d5f41c4e0297c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5aa437e1cdb9871d3c13e338209fbe05d6880a43
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120093144"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968990"
 ---
 # <a name="table-properties"></a>Свойства таблицы
 
@@ -44,7 +44,7 @@ ms.locfileid: "120093144"
 </tr>
 <tr class="odd">
 <td><img src="../images/dn292128.pubproperty(exchg.10).gif" title="Открытое свойство" alt="Public property" /></td>
-<td><a href="dn351170(v=exchg.10).md">Имя</a></td>
+<td><a href="dn351170(v=exchg.10).md">имя</a>;</td>
 <td>Возвращает имя этой таблицы.</td>
 </tr>
 </tbody>

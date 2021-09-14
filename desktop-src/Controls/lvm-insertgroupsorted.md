@@ -3,7 +3,7 @@ title: Сообщение LVM_INSERTGROUPSORTED (Коммктрл. h)
 description: Вставляет группу в упорядоченный список групп.
 ms.assetid: 8ad1660b-8b64-4f02-ac1b-b7edeeea38ab
 keywords:
-- Элементы управления Windows для LVM_INSERTGROUPSORTED сообщений
+- элементы управления Windows сообщений LVM_INSERTGROUPSORTED
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 485941f803fd5af565d8b40524a9e15968e387cd
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103892434"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972081"
 ---
 # <a name="lvm_insertgroupsorted-message"></a>\_Сообщение LVM инсертграупсортед
 
@@ -54,9 +54,9 @@ ms.locfileid: "103892434"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

@@ -17,12 +17,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 584077911faf8593e7c26aadd36ca17a0a11d82b18d1d6ade20be1f1444fedf2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e4956ed4dc9536ff6f7e3263071a2a477cb0f515
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119769874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890688"
 ---
 # <a name="win32_tsgatewayloadbalancer-class"></a>\_Класс Win32 тсгатевайлоадбаланцер
 
@@ -38,7 +38,7 @@ class Win32_TSGatewayLoadBalancer
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ тсгатевайлоадбаланцер** имеет следующие типы членов:
 
@@ -85,7 +85,7 @@ class Win32_TSGatewayLoadBalancer
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Для использования этого класса необходимо быть членом группы администраторов.
 

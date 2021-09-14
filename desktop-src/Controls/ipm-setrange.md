@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d599619fa9a065a27a9721b890f6d52c496bf646504009e1950b7ca1279f8a2c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e70df7b2b8f76f514d9a0cc6101aba2ee7cf4ec6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119434474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054146"
 ---
 # <a name="ipm_setrange-message"></a>\_Сообщение IPM SETRANGE
 
@@ -47,7 +47,7 @@ ms.locfileid: "119434474"
 
 Возвращает ненулевое значение в случае успеха или ноль в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если пользователь вводит значение в поле, находящееся за пределами этого диапазона, элемент управления отправит уведомление [ИПН \_ фиелдчанжед](ipn-fieldchanged.md) с введенным значением. Если значение по-прежнему находится вне диапазона после отправки уведомления, элемент управления попытается изменить указанное значение на ближайшее ограничение диапазона.
 

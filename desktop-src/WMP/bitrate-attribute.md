@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 12b767dc6b67d7b27e87f3321f2c923c8edb8a0f13a75b345c81d1380b4ef9a0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9869ffdf9df85fdfb019d6a088fabfb0cb05c2b3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118120112"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889544"
 ---
 # <a name="bitrate-attribute"></a>Атрибут "скорость"
 
@@ -31,7 +31,7 @@ ms.locfileid: "118120112"
 -   [Элементы Радио](radio-item-attributes.md)
 -   [Элементы видео](video-item-attributes.md)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут хранится как в библиотеке, так и в файле цифрового мультимедиа.
 

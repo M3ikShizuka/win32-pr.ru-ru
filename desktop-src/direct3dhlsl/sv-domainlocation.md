@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 481d4def3d13ee69138f31adaae3c7d90c2e27ab11702fe3191db94540d9835c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fc39a71bcbfb6f3719ecfc7d0abe463a1fd127e4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120067534"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970542"
 ---
 # <a name="sv_domainlocation"></a>ОКП \_ домаинлокатион
 
@@ -38,7 +38,7 @@ ms.locfileid: "120067534"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это системное значение является обязательным.
 
@@ -46,7 +46,7 @@ ms.locfileid: "120067534"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 |        |      | x      |          |       |         |
 
@@ -54,7 +54,7 @@ ms.locfileid: "120067534"
 
  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

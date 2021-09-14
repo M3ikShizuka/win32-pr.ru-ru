@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: d70217fa60afdae3f588f98ecbe61a728ace6ec0b0d78859f55cd241cbc00e1f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3039f97ca7fda43e4ecc6bd4eae05fff2ce90e55
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119330853"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055542"
 ---
 # <a name="cpullpin-class"></a>Класс Кпуллпин
 
@@ -55,7 +55,7 @@ ms.locfileid: "119330853"
 | [**~ Кпуллпин**](cpullpin--cpullpin.md)             | Метод деструктора. Виртуализаци.                                                           |
 | [**деЦидеаллокатор**](cpullpin-decideallocator.md) | Согласовывает распределитель с выходным закреплением. Виртуализаци.                                 |
 | [**Отключение**](cpullpin-disconnect.md)           | Беакс подключение с выходным закреплением.                                             |
-| [**Длитель**](cpullpin-duration.md)               | Возвращает длительность потока.                                                 |
+| [**Duration**](cpullpin-duration.md)               | Возвращает длительность потока.                                                 |
 | [**GetReader**](cpullpin-getreader.md)             | Возвращает указатель на интерфейс [**иасинкреадер**](/windows/desktop/api/Strmif/nn-strmif-iasyncreader) выходного контакта. |
 | [**Неактивно**](cpullpin-inactive.md)               | Завершает работу рабочего потока, который извлекает данные из выходного ПИН-кода.                     |
 | [**Seek**](cpullpin-seek.md)                       | Задает начальные и останавливаемые позиции потока.                                      |

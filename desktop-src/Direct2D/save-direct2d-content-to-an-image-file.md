@@ -4,12 +4,12 @@ description: В этом разделе показано, как использ�
 ms.assetid: F0D8BFC7-723A-4577-B2DF-4D656A18E2FC
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4c6020b29be3771575919ccb0200718e8e608afded584471625cfa922aee8da8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b19146d838474046fd634cb5524ddf2367fd1d6c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118160370"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162599"
 ---
 # <a name="how-to-save-direct2d-content-to-an-image-file"></a>Сохранение содержимого Direct2D в файл изображения
 
@@ -27,7 +27,7 @@ ms.locfileid: "118160370"
 
 -   Необходим объект [**ID2D1DeviceContext**](/windows/win32/api/d2d1_1/nn-d2d1_1-id2d1devicecontext) и объект, содержащий [Direct2D](./direct2d-portal.md) содержимое, которое реализует [**ID2D1Image**](/windows/win32/api/d2d1/nn-d2d1-id2d1image) , например [**ID2D1Effect**](/windows/win32/api/d2d1_1/nn-d2d1_1-id2d1effect) или [**ID2D1Bitmap1**](/windows/win32/api/d2d1_1/nn-d2d1_1-id2d1bitmap1).
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="step-1-get-a-destination-file-and-stream"></a>Шаг 1. Получение целевого файла и потока
 

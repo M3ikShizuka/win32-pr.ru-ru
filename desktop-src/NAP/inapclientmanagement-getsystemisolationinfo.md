@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9414bb5f2d193aa8f7636b94925914afb7eb123d3b497fdc50d20498fa104fc4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 73b3d446e0a8068353be6656c16f0e6796df8922
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118368708"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057438"
 ---
 # <a name="inapclientmanagementgetsystemisolationinfo-method"></a>Метод Инапклиентманажемент:: Жетсистемисолатионинфо
 
@@ -79,7 +79,7 @@ HRESULT GetSystemIsolationInfo(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Извлеченные сведения о изоляции не отображают неизвестные состояния.
 
@@ -91,7 +91,7 @@ HRESULT GetSystemIsolationInfo(
 |-------------------------------------|----------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                               |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                         |
-| Header<br/>                   | <dl> <dt>Напманажемент. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Напманажемент. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>Напманажемент. idl</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Qagent.dll</dt> </dl>        |
 

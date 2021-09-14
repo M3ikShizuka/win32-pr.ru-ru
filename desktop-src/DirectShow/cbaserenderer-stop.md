@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 942fae3ee1ea2c7481f475dc2d8dba421fd21d44290c98b822b9bc489ee25334
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ddd8194bbf76c4a4311aa90335f94d1e7548a356
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117822624"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054007"
 ---
 # <a name="cbaserendererstop-method"></a>Кбасерендерер. останавливаться, метод
 
@@ -44,7 +44,7 @@ HRESULT Stop();
 
 Возвращает значение S \_ ОК.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод переопределяет метод [**кбасефилтер:: останавливаться**](cbasefilter-stop.md) . Он выполняет следующие действия:
 

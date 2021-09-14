@@ -10,12 +10,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 47d01af2515b26ca308a1b258aa40508f227a0c1d0eaa5b2b332c1e7b3200420
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cef1971232eabdb984ad4321b5cadbdedd8b2be7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119130886"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056167"
 ---
 # <a name="retrieving-amended-classes-using-the-scripting-api-for-wmi"></a>Получение измененных классов с помощью API скриптов для WMI
 
@@ -64,7 +64,7 @@ Set objwbemobject = service.Get("myclass", wbemFlagUseAmendedQualifiers)
 | [**SWbemObject. подклассы\_**](swbemobject-subclasses-.md)        | [**SWbemObject. Субклассесасинк\_**](swbemobject-subclassesasync-.md)        |
 | [**SWbemServices. Инстанцесоф**](swbemservices-instancesof.md)     | [**SWbemServices. Инстанцесофасинк**](swbemservices-instancesofasync.md)     |
 | [**SWbemObject. Instances\_**](swbemobject-instances-.md)          | [**SWbemObject. Инстанцесасинк\_**](swbemobject-instancesasync-.md)          |
-| [**SWbemServices.ExeКкуери**](swbemservices-execquery.md)         | [**SWbemServices.ExeКкуерясинк**](swbemservices-execqueryasync.md)         |
+| [**SWbemServices. ExecQuery**](swbemservices-execquery.md)         | [**SWbemServices. Ексеккуерясинк**](swbemservices-execqueryasync.md)         |
 | [**SWbemServices. Get**](swbemservices-get.md)                     | [**SWbemServices. Async**](swbemservices-getasync.md)                     |
 | [**SWbemObject. размещение\_**](swbemobject-put-.md)                      | [**SWbemObject. Путасинк\_**](swbemobject-putasync-.md)                      |
 | [**SWbemServices. Референцесто**](swbemservices-referencesto.md)   | [**SWbemServices. Референцестоасинк**](swbemservices-referencestoasync.md)   |

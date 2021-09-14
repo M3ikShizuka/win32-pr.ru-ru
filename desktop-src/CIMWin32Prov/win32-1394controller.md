@@ -39,12 +39,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 15db06f20fde204a25e38ae5b7f321cba00859d6cbff14fef3e9b759a1d16590
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c788469e258a79e70bcc8311c26b43e1f24c26e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119546594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054502"
 ---
 # <a name="win32_1394controller-class"></a>\_Класс Win32 1394Controller
 
@@ -84,7 +84,7 @@ class Win32_1394Controller : CIM_Controller
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ 1394Controller** имеет следующие типы членов:
 
@@ -862,7 +862,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1571,7 +1571,7 @@ Windows Самонастраивающийся идентификатор уст
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ 1394Controller** является производным от [**CIM \_ Controller**](cim-controller.md).
 
@@ -1688,7 +1688,7 @@ System Name                 :  UK0N055
 Time of Last Reset          :
 ```
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -1702,7 +1702,7 @@ Time of Last Reset          :
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

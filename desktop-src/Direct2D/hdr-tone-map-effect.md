@@ -3,12 +3,12 @@ title: Результат отображения тона HDR
 description: Этот результат настраивает динамический диапазон изображения для лучшего соответствия его содержимому с возможностью вывода.
 ms.topic: article
 ms.date: 02/01/2019
-ms.openlocfilehash: ce47159abe4bdf0615a76960c4c5e2db289156e89989012f659e437e93727cca
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4c9234e1b50e155173630a2ff7d94756c5be6130
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119260071"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163244"
 ---
 # <a name="hdr-tone-map-effect"></a>Результат отображения тона HDR
 
@@ -24,7 +24,7 @@ ms.locfileid: "119260071"
 | Аутпутмакслуминанце, D2D1_HDRTONEMAP_PROP_OUTPUT_MAX_LUMINANCE | FLOAT | Максклл, поддерживаемый целью вывода, в НИТС &mdash; обычно имеет значение максклл для дисплея. |
 | DisplayMode, D2D1_HDRTONEMAP_PROP_DISPLAY_MODE | [**D2D1_HDRTONEMAP_DISPLAY_MODE**](/windows/desktop/api/d2d1effects_2/ne-d2d1effects_2-d2d1_hdrtonemap_display_mode) | Если задано значение **_HDR**, кривая сопоставления тонов корректируется так, чтобы лучше соответствовать поведению общих HDR-отображений. |
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 Значение для `InputMaxLuminance` обычно является производным от метаданных изображения. Для случаев, когда метаданные отсутствуют, можно использовать функцию **D2DAdvancedColorImagesRenderer:: компутехдрметадата** (в [примере подготовки к просмотру изображения Direct2D](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/D2DAdvancedColorImages)) для расчета максимального уровня яркости (максклл) изображения в НИТС.
 
 Значение для `OutputMaxLuminance` является производным от дисплея с помощью [**DXGI_OUTPUT_DESC1:: макслуминанце**](/windows/desktop/api/dxgi1_6/ns-dxgi1_6-dxgi_output_desc1).
@@ -39,12 +39,12 @@ ms.locfileid: "119260071"
 - Применение корректирующего действия уровня белого цвета. Масштабировать белый уровень изображения до белого уровня, необходимого для цепочки буферов обмена.
 - Снова примените к нему эффекты управления цветом. При подготовке к просмотру в 8bpc, а затем преобразуйте в sRGB.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |-|-|
 | Минимальная версия клиента | Windows 10, версия 1809 (10,0; Сборка 17763) \[ приложения UWP для классических приложений \|\] |
-| Header | d2d1effects \_ 2. h |
+| Заголовок | d2d1effects \_ 2. h |
 | Библиотека | D2D1. lib, дксгуид. lib |
 
 ## <a name="related-topics"></a>Связанные темы

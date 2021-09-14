@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 5d2c1a79a7a662dc7c0896cec4a7c1b99248fe8538c9b7cd07203366541a6830
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 690a29ae0ea85e0b965d2a426703eea87aee9184
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119080008"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054944"
 ---
 # <a name="invoke-method-of-the-cim_createdirectoryaction-class"></a>Метод Invoke \_ класса CIM креатедиректоряктион
 
@@ -49,7 +49,7 @@ uint32 Invoke();
 
 Возвращает значение 0 в случае успешного выполнения и любое другое число для указания ошибки.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В настоящее время этот метод не реализован инструментарием WMI. Чтобы использовать этот метод, его необходимо реализовать в собственном поставщике.
 

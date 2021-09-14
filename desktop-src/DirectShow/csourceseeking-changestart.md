@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 7f7c0d9a86d33d13c95295c5ef1ef46a3e6c02371d1b6520572750450320b1f7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d0a2751cf0ad1ecc6fddeeffd97b97c32b4a31b1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119073368"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971617"
 ---
 # <a name="csourceseekingchangestart-method"></a>Ксаурцесикинг. Чанжестарт, метод
 
@@ -44,7 +44,7 @@ virtual HRESULT ChangeStart() = 0;
 
 Возвращает значение **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод [**ксаурцесикинг:: сетпоситионс**](csourceseeking-setpositions.md) вызывает этот метод при изменении начальной должности. Этот метод является чисто виртуальным; производный класс должен реализовать его. После операции поиска штампы времени должны перезапускаться с нуля. Время работы с носителями должно соответствовать новому времени начала. В следующем примере показана возможная реализация:
 
@@ -61,7 +61,7 @@ HRESULT CMyStream::ChangeStart( )
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -72,7 +72,7 @@ HRESULT CMyStream::ChangeStart( )
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

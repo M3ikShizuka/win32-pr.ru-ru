@@ -4,12 +4,12 @@ ms.assetid: 5d798825-c70b-4d5a-b88c-a9db40663f6a
 title: Продуктлангуаже, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f6cd2a079767b1e39f07bdcf90f2a359604d89ccf9e394d2695b5aa74cc9e459
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3199bd2fcef457b40ad98e52f50c595bc424f9a7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118376459"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057723"
 ---
 # <a name="productlanguage-property"></a>Продуктлангуаже, свойство
 
@@ -17,7 +17,7 @@ ms.locfileid: "118376459"
 
 Это свойство является обязательным.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значение свойства **продуктлангуаже** должно быть одним из языков, перечисленных в свойстве [**сводки шаблона**](template-summary.md) .
 

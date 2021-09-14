@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7a127706d6a47444ee59f1434478aadb5170f9ac7a919dca6fd6151de33486d0
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 529e989b3d66562acc7b6f91c3b3b06527235e8e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120077294"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972058"
 ---
 # <a name="lvm_setcolumnwidth-message"></a>\_Сообщение LVM сетколумнвидс
 
@@ -58,11 +58,11 @@ ms.locfileid: "120077294"
 
 Возвращает **значение true** , если успешно, или **false** в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Предположим, что у вас есть представление списка из двух столбцов с шириной 500 пикселей. Если ширина столбца равна 200 пикселов и сообщение отправляется с параметром *wParam* = 1 и *lParam* = лвскв \_ AUTOSIZE \_ усехеадер, то второй (и последний) столбец будет равен 300 пикселей в ширину.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

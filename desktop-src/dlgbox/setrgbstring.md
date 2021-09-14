@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8322bb07300ce188684f5097232563e80721fadf0f614c24ac5f7b2d034c1fff
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dea5489aaa6fafcaa19a97a44d81fd85abb178d2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118985314"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964602"
 ---
 # <a name="setrgbstring-message"></a>Сообщение СЕТРГБСТРИНГ
 
@@ -56,7 +56,7 @@ ms.locfileid: "118985314"
 
 Это сообщение не имеет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если параметр *lParam* соответствует одному из основных цветов или одному из 16 пользовательских цветов, то процедура выбора этого цвета выбирается в диалоговом окне. Процедура также обновляет все элементы управления в пользовательском расширении цвета диалогового окна **Цвет** , если оно открыто.
 
@@ -106,7 +106,7 @@ SendMessage(hdlg, uiSetRGB, 0, (LPARAM) RGB(0, 0, 255));
 [**SendMessage**](/windows/desktop/api/winuser/nf-winuser-sendmessage)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Библиотека общих диалоговых окон](common-dialog-box-library.md)

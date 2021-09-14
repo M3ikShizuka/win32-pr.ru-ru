@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 10/19/2018
-ms.openlocfilehash: 64ddb55ce592b71c7abaa8c35b1bf14a004b324586094f27a3b418a67e5b24e9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 98d537d2ea4239ab3f511666aeba46be93a2b881
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119019692"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054439"
 ---
 # <a name="em_getendofline-message"></a>\_Сообщение ЖЕТЕНДОФЛИНЕ EM
 
@@ -45,7 +45,7 @@ ms.locfileid: "119019692"
 | <span id="EC_ENDOFLINE_CR"></span><span id="ec_endofline_cr"></span><dl> <dt>**EC \_ ендофлине \_ CR**</dt> </dl>       | Символ конца строки, используемый для New линебреакс, — возврат каретки (CR).<br/>                        |
 | <span id="EC_ENDOFLINE_LF"></span><span id="ec_endofline_lf"></span><dl> <dt>**EC \_ ендофлине \_ LF**</dt> </dl>       | Символ конца строки, используемый для New линебреакс, — перевод строки (LF).<br/>                               |
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если в качестве символа конца строки задано **EC \_ ендофлине \_ Детектфромконтент** с помощью [**Edit \_ сетендофлине**](/windows/desktop/api/Commctrl/nf-commctrl-edit_setendofline), это сообщение вернет обнаруженный символ конца строки.
 

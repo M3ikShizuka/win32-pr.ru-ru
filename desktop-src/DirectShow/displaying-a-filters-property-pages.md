@@ -4,12 +4,12 @@ ms.assetid: 4a5f6938-7b33-4350-b8fa-cf78c5c44bcd
 title: Отображение страниц свойств фильтра
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0f0e29654983ee51b98666411a11f7130eb896c380ec754b5576862c313dcbc2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b0845a12b73363dc6ed93654439fd31826bf9cfc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119016141"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053923"
 ---
 # <a name="displaying-a-filters-property-pages"></a>Отображение страниц свойств фильтра
 

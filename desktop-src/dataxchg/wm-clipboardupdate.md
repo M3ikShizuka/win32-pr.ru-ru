@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d0483ba43b6b0c660daee74637fd9f9ac8d377a16097b5cfd60632c1b691ead7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 303110f0d094cfed336a9f92006b3720a0ccc83b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118991224"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056112"
 ---
 # <a name="wm_clipboardupdate-message"></a>\_Сообщение КЛИПБОАРДУПДАТЕ WM
 
@@ -54,7 +54,7 @@ ms.locfileid: "118991224"
 
 Если приложение обрабатывает это сообщение, оно должно вернуть ноль.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы зарегистрировать окно для получения этого сообщения, используйте функцию [**аддклипбоардформатлистенер**](/windows/desktop/api/Winuser/nf-winuser-addclipboardformatlistener) .
 
@@ -70,7 +70,7 @@ ms.locfileid: "118991224"
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

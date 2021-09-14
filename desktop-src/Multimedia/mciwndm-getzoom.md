@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: fcb4ae1883787f1b86dcc17f2d4a3e0e0ee29ced
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124370689"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057453"
 ---
 # <a name="mciwndm_getzoom-message"></a>\_Сообщение МЦИВНДМ Zoom
 
@@ -38,7 +38,7 @@ lParam = 0;
 
 Возвращает последние значения, используемые с [**мЦивндм \_ сетзум**](mciwndm-setzoom.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращаемое значение 100 означает, что изображение не масштабируется. Значение 200 указывает, что изображение увеличивается вдвое в два раза. Значение 50 указывает, что изображение уменьшается до половины исходного размера.
 
@@ -54,7 +54,7 @@ lParam = 0;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

@@ -14,11 +14,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 036c7afc484da4ac822fdc14f46dc4d402ada29c
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124370326"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055236"
 ---
 # <a name="audio-compression-messages"></a>Сообщения сжатия звука
 
@@ -27,7 +27,7 @@ ms.locfileid: "124370326"
 -   [**MM \_ ACM \_ филтерчусе**](mm-acm-filterchoose.md)
 -   [**MM \_ ACM \_ форматчусе**](mm-acm-formatchoose.md)
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

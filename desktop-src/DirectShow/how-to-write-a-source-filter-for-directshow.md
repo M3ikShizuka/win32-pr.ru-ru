@@ -4,12 +4,12 @@ ms.assetid: 032f7624-2237-41cd-844a-18ed4a2e420d
 title: Как записать фильтр источника для DirectShow
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 79ea6821dc7d56f2628ce68e7320e5e76b2c1643978e68287d434b7a111cbbd0
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 87af99595a43c86be0e2f4ecaa51768a211e9674
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120043244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053911"
 ---
 # <a name="how-to-write-a-source-filter-for-directshow"></a>Как записать фильтр источника для DirectShow
 

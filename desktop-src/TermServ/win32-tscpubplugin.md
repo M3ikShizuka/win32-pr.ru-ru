@@ -23,12 +23,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f55b4e35edd6a3101c6e9ea8cd66707dd1eb274abb02b11f7d2a4f47824d9296
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6c0b4fcff8cadae32d59fe45c61c506e768782d5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118127008"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056543"
 ---
 # <a name="win32_tscpubplugin-class"></a>\_Класс Win32 тскпубплугин
 
@@ -52,7 +52,7 @@ class Win32_TSCPubPlugin : CIM_LogicalElement
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ тскпубплугин** имеет следующие типы членов:
 
@@ -144,7 +144,7 @@ class Win32_TSCPubPlugin : CIM_LogicalElement
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -235,7 +235,7 @@ class Win32_TSCPubPlugin : CIM_LogicalElement
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

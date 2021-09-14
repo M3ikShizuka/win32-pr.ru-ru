@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5e62a5d652218b24240ce612851c4c08e335b31230532bc778bb44c5d7e74854
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: eced7ff12526296552e4adcc38c927ae94ee0502
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118672282"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054301"
 ---
 # <a name="em_stopgrouptyping-message"></a>\_Сообщение СТОПГРАУПТИПИНГ EM
 
@@ -47,7 +47,7 @@ ms.locfileid: "118672282"
 
 Возвращаемое значение равно нулю. Это сообщение не может быть выполнено.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Форматированный элемент управления "поле ввода" группирует последовательные действия ввода, включая символы, удаленные с помощью клавиши **Backspace** , в одно действие отмены до тех пор, пока не произойдет одно из следующих событий:
 
@@ -67,7 +67,7 @@ ms.locfileid: "118672282"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>RichEdit. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>RichEdit. h</dt> </dl> |
 
 
 

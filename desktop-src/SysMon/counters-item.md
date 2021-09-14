@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 451a6e43714a9ca5ee8e64bf48fdf80aa9e5a9d7b99db8f78f997eba9404e284
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 251a645f0a4ceacdbfb4e2ab7e650f41e44dd508
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118883412"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056816"
 ---
 # <a name="countersitem-property"></a>Свойство Counters. Item
 
@@ -56,7 +56,7 @@ Property Item( _
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство объекта [**Counters**](counters.md) по умолчанию.
 
@@ -72,7 +72,7 @@ Property Item( _
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

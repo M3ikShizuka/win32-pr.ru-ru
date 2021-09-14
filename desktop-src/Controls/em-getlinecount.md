@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 44487084da8df8edd463fc0683c9d27fcba19a2993465e5493edfd8bb7c3c6b7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 15ffbeafb13850317faccb4be44571d81b0d7e36
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118006687"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054438"
 ---
 # <a name="em_getlinecount-message-winuserh"></a>Сообщение EM_GETLINECOUNT (Winuser. h)
 
@@ -47,7 +47,7 @@ ms.locfileid: "118006687"
 
 Возвращаемое значение — это целое число, указывающее общее количество текстовых строк в элементе управления "поле ввода" или форматированном элементе управления. Если элемент управления не содержит текста, возвращается значение 1. Возвращаемое значение никогда не будет меньше 1.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сообщение **EM \_ жетлинекаунт** извлекает общее количество текстовых строк, а не только число видимых в данный момент строк.
 
@@ -63,7 +63,7 @@ ms.locfileid: "118006687"
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 

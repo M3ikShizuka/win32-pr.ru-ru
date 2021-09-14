@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 01ba216c9946854ccfc6a651db90ab1dd5ed106dfca6ddf568d485c33dae70ab
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c3dbbdab8adf0bee400d591f3d8b4cec6fa1ea81
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119435514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054198"
 ---
 # <a name="hdn_filterbtnclick-notification-code"></a>\_Код уведомления ХДН филтербтнкликк
 
@@ -49,7 +49,7 @@ HDN_FILTERBTNCLICK
 
 Если вы возвращаете **значение true**, код уведомления [ХДН \_ филтерчанже](hdn-filterchange.md) будет отправлен в родительское окно элемента управления заголовка. Этот код уведомления дает родительскому окну возможность синхронизировать свои элементы пользовательского интерфейса. Возвращает **значение false** , если не нужно отправлять уведомление.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -57,7 +57,7 @@ HDN_FILTERBTNCLICK
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

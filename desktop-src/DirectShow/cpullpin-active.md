@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: a6572ad0b415f4c1a51133d080e84a2e869787dea0c23614478b09c7b86296b3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 461f6554f828dc096029ee1e7a1832e12a7c262a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119073528"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055580"
 ---
 # <a name="cpullpinactive-method"></a>Кпуллпин. активный метод
 
@@ -56,13 +56,13 @@ HRESULT Active();
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Вызывайте этот метод, когда фильтр владельца станет активным. (Если входной ПИН-код является производным от [**кбасепин**](cbasepin.md), переопределите метод [**Кбасепин:: Active**](cbasepin-active.md) .)
 
 перед вызовом этого метода вызовите метод [**кпуллпин:: Подключение**](cpullpin-connect.md) , чтобы установить соединение с выходным закреплением.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -73,7 +73,7 @@ HRESULT Active();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

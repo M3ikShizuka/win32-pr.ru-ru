@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: acda4bd9b00434e33c24ac44625b3c1d45350d45b4ec0b242d2638333ad11ed9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8a6ae7228be0f3012c49d652d11bf2c1c3bfc181
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119074768"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055599"
 ---
 # <a name="cbasevideorenderersendquality-method"></a>Кбасевидеорендерер. Сендкуалити, метод
 
@@ -61,7 +61,7 @@ virtual HRESULT SendQuality(
 
 Возвращает значение **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция-член отправляет поток сообщений контроля качества в Управление качеством. Характер качественного сообщения (то есть необходимость уменьшить или увеличить количество выборок) определяется в реализации управления качеством в этом производном классе (см. [**кбасевидеорендерер:: шаулддравсампленов**](cbasevideorenderer-shoulddrawsamplenow.md)).
 
@@ -76,7 +76,7 @@ virtual HRESULT SendQuality(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

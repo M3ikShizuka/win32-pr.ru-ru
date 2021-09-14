@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: aeb2c0e1b3ac3e29502e7d998305674aaa283371be6a22324dde6d84c4330326
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8d65ed893bce63c95fffcf237d3a3a95ebb1550d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118611246"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968665"
 ---
 # <a name="showmessagetype-complex-type"></a>Сложный тип Шовмессажетипе
 
@@ -49,7 +49,7 @@ ms.locfileid: "118611246"
 
 | Элемент                                                            | Тип           | Описание                                                               |
 |--------------------------------------------------------------------|----------------|---------------------------------------------------------------------------|
-| [**Текст**](taskschedulerschema-body-showmessagetype-element.md)   | нонемптистринг | Задает текст, отображаемый в тексте окна сообщения. <br/> |
+| [**Организм**](taskschedulerschema-body-showmessagetype-element.md)   | нонемптистринг | Задает текст, отображаемый в тексте окна сообщения. <br/> |
 | [**Заголовок**](taskschedulerschema-title-showmessagetype-element.md) | нонемптистринг | Задает заголовок окна сообщения. <br/>                       |
 
 

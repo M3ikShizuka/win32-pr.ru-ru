@@ -12,12 +12,12 @@ keywords:
 - WIN32_LEAN_AND_MEAN
 ms.topic: article
 ms.date: 01/22/2020
-ms.openlocfilehash: 886c5601683cc03fb2486f8be3b69f31c4619b721276babbc2c3e31e28c0a022
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4d27b14a6e545db9a9a38c205012b149942adf7f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119643594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056274"
 ---
 # <a name="using-the-windows-headers"></a>использование заголовков Windows
 
@@ -28,7 +28,7 @@ ms.locfileid: "119643594"
 -   [Настройка WINVER или \_ Win32 \_ Winnt](#setting-winver-or-_win32_winnt)
 -   [Управление упаковкой структуры](#controlling-structure-packing)
 -   [Более быстрые сборки с меньшими файлами заголовков](#faster-builds-with-smaller-header-files)
--   [Связанные темы](#related-topics)
+-   [Связанные разделы](#related-topics)
 
 ## <a name="visual-c-and-the-windows-header-files"></a>Visual C++ и Windows файлы заголовков
 
@@ -54,7 +54,7 @@ Microsoft Visual C++ включает копии файлов заголовко
 | Windows 10 1607 "Redstone 1"                  | **Нтдди \_ WIN10 \_ RS1** (0x0A000002)  |
 | Windows 10 1511 "пороговое значение 2"                 | **Нтдди \_ WIN10 \_ Th2** (0x0A000001)  |
 | Windows 10 1507 "пороговое значение"                   | **Нтдди \_ WIN10** (0x0A000000)       |
-| Windows 8.1                                   | **Нтдди \_ ВИНБЛУЕ** (0x06030000)     |
+| Windows 8.1                                   | **Нтдди \_ ВИНБЛУЕ** (0x06030000)     |
 | Windows 8                                     | **Нтдди \_ WIN8** (0x06020000)        |
 | Windows 7                                     | **Нтдди \_ WIN7** (0x06010000)        |
 | Windows Server 2008                           | **Нтдди \_ WS08** (0x06000100)        |
@@ -62,7 +62,7 @@ Microsoft Visual C++ включает копии файлов заголовко
 | Windows Vista                                 | **Нтдди \_ VISTA** (0x06000000)       |
 | Windows Server 2003 с пакетом обновления 2 (SP2) | **Нтдди \_ WS03SP2** (0x05020200)     |
 | Windows Server 2003 с пакетом обновления 1 (SP1) | **Нтдди \_ WS03SP1** (0x05020100)     |
-| Windows Server 2003                           | **Нтдди \_ WS03** (0x05020000)        |
+| Windows Server 2003                           | **Нтдди \_ WS03** (0x05020000)        |
 | Windows XP с пакетом обновления 3 (SP3)          | **Нтдди \_ WINXPSP3** (0x05010300)    |
 | Windows XP с пакетом обновления 2 (SP2)          | **Нтдди \_ WINXPSP2** (0x05010200)    |
 | Windows XP с пакетом обновления 1 (SP1)          | **Нтдди \_ WINXPSP1** (0x05010100)    |
@@ -78,8 +78,8 @@ Microsoft Visual C++ включает копии файлов заголовко
 
 | Минимальная требуемая система                           | Минимальное значение для \_ Win32 \_ Winnt и winver |
 |---------------------------------------------------|---------------------------------------------|
-| Windows 10,                                        | **\_ Win32 \_ WinNT \_ WIN10** (0x0A00)          |
-| Windows 8.1                                       | **\_ Win32 \_ WinNT \_ винблуе** (0x0603)        |
+| Windows 10                                        | **\_ Win32 \_ WinNT \_ WIN10** (0x0A00)          |
+| Windows 8.1                                       | **\_ Win32 \_ WinNT \_ винблуе** (0x0603)        |
 | Windows 8                                         | **\_ Win32 \_ WinNT \_ WIN8** (0x0602)           |
 | Windows 7                                         | **\_ Win32 \_ WinNT \_ win7** (0x0601)           |
 | Windows Server 2008                               | **\_ Win32 \_ WinNT \_ WS08** (0x0600)           |
@@ -149,7 +149,7 @@ Microsoft Visual C++ включает копии файлов заголовко
 
     `#define NOCOMM`
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

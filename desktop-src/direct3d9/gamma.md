@@ -4,12 +4,12 @@ ms.assetid: d076140d-3e91-412a-b099-9baa52f8d7d8
 title: Гамма (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 73ede077347d67c1657b86ad09b778625e22fd19a39c8333d7f11fec51be53b1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4cea4b3ba224452e1c3be8f96b7136f4e4f649c8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118523027"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963734"
 ---
 # <a name="gamma-direct3d-9"></a>Гамма (Direct3D 9)
 

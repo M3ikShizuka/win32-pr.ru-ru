@@ -19,12 +19,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: fb839b75af14237b03d3f35ffc71b10d16617df4728b80bd8f465b24bed6b062
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 51ce7d0da7f72315924172651a9276acf7ab4cb4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118675005"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968813"
 ---
 # <a name="win32_pnpdevicepropertybinary-class"></a>\_Класс Win32 пнпдевицепропертибинари
 
@@ -45,7 +45,7 @@ class Win32_PnPDevicePropertyBinary : Win32_PnPDeviceProperty
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ пнпдевицепропертибинари** имеет следующие типы членов:
 
@@ -57,7 +57,7 @@ class Win32_PnPDevicePropertyBinary : Win32_PnPDeviceProperty
 
 <dl> <dt>
 
-**Данные**
+**Data**
 </dt> <dd> <dl> <dt>
 
 Тип данных: массив **Uint8**
@@ -498,7 +498,7 @@ class Win32_PnPDevicePropertyBinary : Win32_PnPDeviceProperty
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -512,7 +512,7 @@ class Win32_PnPDevicePropertyBinary : Win32_PnPDeviceProperty
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

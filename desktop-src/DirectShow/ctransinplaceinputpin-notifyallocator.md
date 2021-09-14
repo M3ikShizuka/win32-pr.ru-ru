@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 2397ea32d9069352207eba6a4a5b9709b1c7514fa7d2c5acd16a9539090dba3e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ca15be5dc1893a393e6052832cc7522f27355eeb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119999214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971573"
 ---
 # <a name="ctransinplaceinputpinnotifyallocator-method"></a>Ктрансинплацеинпутпин. Нотифяллокатор, метод
 
@@ -65,7 +65,7 @@ HRESULT NotifyAllocator(
 
 | Код возврата                                                                               | Описание                          |
 |-------------------------------------------------------------------------------------------|--------------------------------------|
-| <dl> <dt>**\_ОК**</dt> </dl>      | Success<br/>                   |
+| <dl> <dt>**\_ОК**</dt> </dl>      | Успешное завершение<br/>                   |
 | <dl> <dt>**\_Ошибка E**</dt> </dl>    | Failure<br/>                   |
 | <dl> <dt>**\_указатель E**</dt> </dl> | **Пустой** аргумент указателя<br/> |
 
@@ -73,7 +73,7 @@ HRESULT NotifyAllocator(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Фильтр пытается использовать один и тот же распределитель для обоих подключений.
 
@@ -84,7 +84,7 @@ HRESULT NotifyAllocator(
 
 -   Если предложенный распределитель доступен только для чтения (то есть параметр *бреадонли* имеет **значение true**), а фильтру необходимо изменить образцы, то фильтр должен использовать два разных распределителя. В этом случае, если вышестоящий фильтр предлагает использовать распределитель подчиненного фильтра, метод возвращает значение E \_ Failed.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -95,7 +95,7 @@ HRESULT NotifyAllocator(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -3,7 +3,7 @@ title: Сообщение HDM_SETORDERARRAY (Коммктрл. h)
 description: Задает порядок элементов заголовка слева направо. Это сообщение можно отправить явным образом или воспользоваться заголовком \_ макроса сетордераррай.
 ms.assetid: 094c424f-10bd-484d-8236-937811b703a6
 keywords:
-- Элементы управления Windows для HDM_SETORDERARRAY сообщений
+- элементы управления Windows сообщений HDM_SETORDERARRAY
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 7f07874bfc102babec18b142a087b14e330044ab
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104490866"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054219"
 ---
 # <a name="hdm_setorderarray-message"></a>\_Сообщение СЕТОРДЕРАРРАЙ HDM
 
@@ -53,9 +53,9 @@ ms.locfileid: "104490866"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

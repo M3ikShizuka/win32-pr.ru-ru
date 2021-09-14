@@ -5,12 +5,12 @@ ms.assetid: fd20ec03-a5e4-4c3e-9bf5-5fa841e869c3
 ms.tgt_platform: multiple
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bfdcfbc2b26363ff7f13ed15b3486249aab804cd1bde418f60d71db918f25567
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 15bbb143abd3ec09a7f1aeff67a7b6dfa224b56b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117940618"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056563"
 ---
 # <a name="providing-for-rdp-client-security"></a>Предоставление для безопасности клиента RDP
 
@@ -22,7 +22,7 @@ ms.locfileid: "117940618"
 
 Они отключены в этих зонах:
 
--   Интернет
+-   Internet
 -   Ограниченные сайты
 
 при вызове этих ограниченных свойств в веб-приложении службы удаленных рабочих столов необходимо вызвать метод [**имстскакс:: get \_ секуредсеттингс**](imstscax-securedsettings.md) и [**имстскакс:: get \_ секуредсеттингсенаблед**](imstscax-securedsettingsenabled.md) для доступа к свойствам защищенного Параметры.

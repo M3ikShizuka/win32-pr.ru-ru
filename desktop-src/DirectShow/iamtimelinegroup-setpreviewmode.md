@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 2f4c53372066ec28f3782fe53148eaba99489187c3be9b9ccf73195a7b1e6da9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fe03e6be3572b6cc660e51c27551a316db990d80
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119756314"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126892053"
 ---
 # <a name="iamtimelinegroupsetpreviewmode-method"></a>Метод Иамтимелинеграуп:: Сетпревиевмоде
 
@@ -56,7 +56,7 @@ HRESULT SetPreviewMode(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В режиме предварительного просмотра фреймы удаляются во время незначительного эффекта или переходов для синхронизации видео с аудио. В результате видео может выглядеть прерывисто. В режиме разработки отображается каждый кадр. Режим разработки подходит для записи файлов. При предварительном просмотре видео может быть не синхронизировано с звуковым экраном.
 
@@ -70,7 +70,7 @@ HRESULT SetPreviewMode(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -81,7 +81,7 @@ HRESULT SetPreviewMode(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

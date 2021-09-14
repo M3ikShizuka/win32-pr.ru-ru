@@ -4,12 +4,12 @@ description: начиная с Windows 8, язык шейдера высоког
 ms.assetid: C51FB0E5-94C3-4E7F-AC33-E5F0F26EDC11
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: dd6ffd624e688dbe5e3591e10ee5c005a9d4564dc5a536e9c89cfcee50067c2a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 968831ca39f2501a44b00f202fd8dfda1f92d1e7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119948974"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055925"
 ---
 # <a name="user-clip-planes-on-feature-level-9-hardware"></a>Пользовательские плоскости для устройств на уровне компонентов 9
 
@@ -24,9 +24,9 @@ ms.locfileid: "119948974"
     -   [Обрезка в области просмотра](#clipping-in-view-space)
     -   [Матрица проекции](#projection-matrix)
     -   [Плоскость обрезки области обрезки](#clip-space-clip-plane)
--   [Связанные темы](#related-topics)
+-   [Связанные разделы](#related-topics)
 
-## <a name="background"></a>Историческая справка
+## <a name="background"></a>Фон
 
 Вы можете получить доступ к пользовательским роликам в API Microsoft Direct3D 9 с помощью методов [**IDirect3DDevice9:: сетклипплане**](/windows/desktop/api/d3d9/nf-d3d9-idirect3ddevice9-setclipplane) и [**IDirect3DDevice9:: жетклипплане**](/windows/desktop/api/d3d9/nf-d3d9-idirect3ddevice9-getclipplane) . В Microsoft Direct3D 10 и более поздних версиях доступ к пользовательским роликам можно получить с помощью [ \_ клипдистанцеа SV](dx-graphics-hlsl-semantics.md) . но до Windows 8 окп \_ клипдистанце было недоступно для оборудования [уровня функции](/windows/desktop/direct3d11/overviews-direct3d-11-devices-downlevel-intro) 9 \_ x в интерфейсах api direct3d 10 или direct3d 11. таким образом, прежде чем Windows 8, можно получить доступ к пользовательским плоскостям с помощью \_ API Direct3D 9 с помощью программного обеспечения уровня компонентов 9 x. приложения для магазина Windows direct3d не могут использовать API direct3d 9. Здесь описывается синтаксис, который можно использовать для доступа к пользовательским роликам через API Direct3D 11 на уровне функций 9 \_ x и выше.
 
@@ -145,7 +145,7 @@ VertexShaderOutput main(VertexShaderInput input)
 
 ![плоскость обрезки области обрезки](images/clip-space-clip-plane-matrix.png)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

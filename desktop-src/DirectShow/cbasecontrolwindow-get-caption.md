@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 0f05501adbd486eaa60e939aacfdd5896c0fbcae059673029f04fcca8aeb742a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b8d743c746f833007d91afd4346f7f48c6218dde
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119640893"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971981"
 ---
 # <a name="cbasecontrolwindowget_caption-method"></a>Метод Кбасеконтролвиндов. Get \_ Caption
 
@@ -53,11 +53,11 @@ HRESULT get_Caption(
 
 Возвращает значение **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 большинство окон верхнего уровня на рабочем столе на основе Windows имеют заголовок (заголовок), связанный с ними. Это свойство можно запрашивать и задавать с помощью интерфейса [**ивидеовиндов**](/windows/desktop/api/Control/nn-control-ivideowindow) . Любой набор заголовков будет виден только в том случае, если для окна \_ применен стиль «заголовок WS». Если это не так, заголовок можно по-прежнему задать (и получить), хотя он не будет виден пользователю.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ HRESULT get_Caption(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

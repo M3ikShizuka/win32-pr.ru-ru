@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 14bd1a9efe22251aba71f157dfb2a68e2b0a70385c30564bb7f08e420e0c0cb4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 69e9653f369f13e0ef4a775265d763e854db4de7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119019992"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054770"
 ---
 # <a name="dtn_formatquery-notification-code"></a>\_Код уведомления ДТН форматкуери
 
@@ -51,11 +51,11 @@ DTN_FORMATQUERY
 
 Владелец элемента управления должен вычислить максимально возможную ширину текста, который будет отображаться в поле обратного вызова, задать элемент **сзмакс** структуры [**нмдатетимеформаткуери**](/windows/win32/api/commctrl/ns-commctrl-nmdatetimeformatquerya) и вернуть ноль.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Обработка этого кода уведомления подготавливает элемент управления для корректировки максимального размера строки, которая будет отображаться в конкретном поле обратного вызова. Это позволяет элементу управления правильно отображать выходные данные в любое время, уменьшая мерцание в отображаемом элементе управления. (Дополнительные сведения о полях обратного вызова см. в разделе [поля обратного](date-and-time-picker-controls.md)вызова.)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -20,11 +20,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: ea5b8a9b945048f947aa273e1ccc1f4514469681
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108090652"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890765"
 ---
 # <a name="getsecuritydescriptor-method-of-the-win32_service-class-remote-desktop-services"></a>Метод Жетсекуритидескриптор класса Win32_Service (службы удаленных рабочих столов)
 
@@ -191,7 +191,7 @@ uint32 GetSecurityDescriptor(
 
 </dd> <dt>
 
-**стр**
+**19**
 </dt> <dd>
 
 Служба выполняется с тем же именем.
@@ -233,7 +233,7 @@ uint32 GetSecurityDescriptor(
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Экземпляр [**Win32 \_ SecurityDescriptor**](/previous-versions/windows/desktop/secrcw32prov/win32-securitydescriptor) представляет тип данных [**\_ \_ элемента управления дескриптора безопасности**](/windows/desktop/SecAuthZ/security-descriptor-control) и содержит [*список управления доступом на уровне пользователей*](/windows/desktop/SecGloss/d-gly) (DACL) и [*системный список управления доступом*](/windows/desktop/SecGloss/s-gly) (SACL). Дополнительные сведения см. в разделе [списки управления доступом](/windows/desktop/SecAuthZ/access-control-lists).
 
@@ -275,7 +275,7 @@ Scope.Options.EnablePrivileges = True
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

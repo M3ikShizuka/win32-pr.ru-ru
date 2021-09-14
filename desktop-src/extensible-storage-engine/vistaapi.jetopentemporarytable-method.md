@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: e4693379f94e7211849c5184a10ec176e6cc916a455d61903aa35110d2cd36eb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0a261494cf8b12039371c445a4cf2124f3ec1c52
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118484289"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126962749"
 ---
 # <a name="vistaapijetopentemporarytable-method"></a>Вистаапи. Жетопентемпораритабле, метод
 
@@ -73,11 +73,11 @@ public static void JetOpenTemporaryTable(
     
     Описание временной таблицы, создаваемой на входе. После успешного вызова структура содержит описатель для временной таблицы и идентификаторов столбцов. Используйте [жетклосетабле (JET_SESID, JET_TABLEID)](./api.jetclosetable-method.md) , чтобы освободить временную таблицу по завершении.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 появилось в Windows Vista. Используйте [JetOpenTempTable3 (JET_SESID, \[ \] , Int32, JET_UNICODEINDEX, темптаблегрбит, JET_TABLEID, \[ \] )](./api.jetopentemptable3-method.md) для более ранних версий ESENT.
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

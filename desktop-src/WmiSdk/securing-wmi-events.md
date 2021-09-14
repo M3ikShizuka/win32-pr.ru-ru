@@ -6,11 +6,11 @@ title: Защита событий WMI
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 31280a4be25e358e28477bf6be060637f3f96bad
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104263806"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967134"
 ---
 # <a name="securing-wmi-events"></a>Защита событий WMI
 
@@ -23,7 +23,7 @@ ms.locfileid: "104263806"
 -   [Безопасное предоставление событий](providing-events-securely.md)
 -   [Безопасное получение событий](receiving-events-securely.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

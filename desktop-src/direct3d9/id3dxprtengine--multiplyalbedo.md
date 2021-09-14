@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: c2989ce2a662be5a1ec53c961b8fafa072862fc2b43b6003b04f6b887ef3c077
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a282605789644382f39fd8fff9ce8bb47d6dfc7d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119790544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966705"
 ---
 # <a name="id3dxprtenginemultiplyalbedo-method"></a>Метод ID3DXPRTEngine:: Мултиплялбедо
 
@@ -55,7 +55,7 @@ HRESULT MultiplyAlbedo(
 
 Если метод выполнен успешно, возвращается значение S \_ . В случае сбоя метода возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Методы ID3DXPRTEngine:: Компутекскскс вычисляют выходные буферы, в которых сигнал освещения не умножается на албедо. Не умножая албедо, вы можете моделировать албедо вариации на более точном масштабе, чем исходный радианце, тем самым обеспечивая более точные результаты сжатия.
 
@@ -63,7 +63,7 @@ HRESULT MultiplyAlbedo(
 
 Перед вызовом этого метода необходимо вызвать [**ID3DXPRTEngine:: сетмешматериалс**](id3dxprtengine--setmeshmaterials.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -74,7 +74,7 @@ HRESULT MultiplyAlbedo(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

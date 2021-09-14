@@ -25,12 +25,12 @@ api_type:
 - DllExport
 api_location:
 - Wmiprov.dll
-ms.openlocfilehash: fccb38a73585db71c6418929a35458f26b9749159e537de47a298d920b318e08
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 709d480e8865c5d5bde2a9f5e8de45f138e66548
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118558399"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889229"
 ---
 # <a name="msmcaevent_smbioserror-class"></a>\_Класс мсмкаевент смбиосеррор
 
@@ -58,7 +58,7 @@ class MSMCAEvent_SMBIOSError : WMIEvent
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **мсмкаевент \_ смбиосеррор** имеет следующие типы членов:
 
@@ -231,11 +231,11 @@ class MSMCAEvent_SMBIOSError : WMIEvent
 | <span id="9"></span><dl> <dt>**9**</dt> </dl>   | Ошибка четности PCI.<br/>                                                                                                |
 | <span id="10"></span><dl> <dt>**10**</dt> </dl> | Системная ошибка PCI.<br/>                                                                                                |
 | <span id="11"></span><dl> <dt>**стр**</dt> </dl> | Сбой ЦП.<br/>                                                                                                     |
-| <span id="12"></span><dl> <dt>**Двенадцать**</dt> </dl> | Время ожидания отказоустойчивого таймера EISA истекло.<br/>                                                                                    |
+| <span id="12"></span><dl> <dt>**12**</dt> </dl> | Время ожидания отказоустойчивого таймера EISA истекло.<br/>                                                                                    |
 | <span id="13"></span><dl> <dt>**13**</dt> </dl> | Исправимый журнал памяти отключен.<br/>                                                                                 |
 | <span id="14"></span><dl> <dt>**открыт**</dt> </dl> | Ведение журнала отключено для определенного типа событий. Слишком много ошибок одного типа получены в течение короткого промежутка времени.<br/> |
 | <span id="15"></span><dl> <dt>**15**</dt> </dl> | Зарезервировано.<br/>                                                                                                        |
-| <span id="16"></span><dl> <dt>**глубин**</dt> </dl> | Превышено ограничение системы (например, превышение порогового значения напряжения или температуры).<br/>                                  |
+| <span id="16"></span><dl> <dt>**16**</dt> </dl> | Превышено ограничение системы (например, превышение порогового значения напряжения или температуры).<br/>                                  |
 | <span id="17"></span><dl> <dt>**широкоэкранны**</dt> </dl> | Асинхронное аппаратное таймерное время истекло и выдано восстановление системы.<br/>                                                   |
 | <span id="18"></span><dl> <dt>**стр**</dt> </dl> | Сведения о конфигурации системы.<br/>                                                                                |
 | <span id="19"></span><dl> <dt>**стр**</dt> </dl> | Сведения о жестком диске.<br/>                                                                                           |
@@ -278,7 +278,7 @@ class MSMCAEvent_SMBIOSError : WMIEvent
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **мсмкаевент \_ смбиосеррор** является производным от [**WMIEvent**](wmievent.md).
 
@@ -289,7 +289,7 @@ class MSMCAEvent_SMBIOSError : WMIEvent
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP<br/>                                                                  |
-| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                         |
+| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                         |
 | Пространство имен<br/>                | Корневой \\ инструментарий WMI<br/>                                                                   |
 | MOF<br/>                      | <dl> <dt>Вмикоре. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wmiprov.dll</dt> </dl> |

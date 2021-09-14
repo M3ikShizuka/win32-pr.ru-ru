@@ -4,12 +4,12 @@ ms.assetid: d6f16ff2-5a66-48a3-82c4-523faaafa6ae
 title: Сопоставление замещения (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 87b559c2c4758b773c48c0b556b6d61af54549f1b30e5c2693a24c4c27856c13
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b687583b0109223d8c2dac807425e235ddf280e4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118523772"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964962"
 ---
 # <a name="displacement-mapping-direct3d-9"></a>Сопоставление замещения (Direct3D 9)
 

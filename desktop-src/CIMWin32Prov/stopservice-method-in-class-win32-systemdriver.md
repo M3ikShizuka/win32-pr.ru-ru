@@ -15,11 +15,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: bb45a414ea9cc7198487dbb61d122722816f4728
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103990565"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054818"
 ---
 # <a name="stopservice-method-of-the-win32_systemdriver-class"></a>Метод «начало» \_ класса SystemDriver Win32
 
@@ -179,7 +179,7 @@ uint32 StopService();
 
 </dd> <dt>
 
-**стр**
+**19**
 </dt> <dd>
 
 Служба с таким именем уже запущена.
@@ -244,7 +244,7 @@ $Return = $usbPrintDriver.StopService()
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
 | Пространство имен<br/>                | Корневой \\ CIMV2<br/>                                                                  |
-| Header<br/>                   | <dl> <dt>Сдоиас. h</dt> </dl>     |
+| Заголовок<br/>                   | <dl> <dt>Сдоиас. h</dt> </dl>     |
 | MOF<br/>                      | <dl> <dt>CIMWin32. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>CIMWin32.dll</dt> </dl> |
 

@@ -6,12 +6,12 @@ keywords:
 - эффекты освещения точечного света
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 077bd2f79dd3d36b898201da58ce17f19a680bf006eaa00c62f4d05b0d52e46b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: de97edfa6c2166d5c29649aabfe97761440f8f18
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119636202"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162652"
 ---
 # <a name="point-diffuse-lighting-effect"></a>Эффект точечного рассеяния освещения
 
@@ -24,7 +24,7 @@ ms.locfileid: "119636202"
 -   [Пример изображения](#example-image)
 -   [Свойства эффектов](#effect-properties)
 -   [Режимы масштабирования](#scale-modes)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example-image"></a>Пример изображения
@@ -84,7 +84,7 @@ L<sub>r</sub>, l<sub>g</sub>, l<sub>b</sub> = светло-цвет в комп�
 > [!Note]  
 > Если не выбрать режим, то по умолчанию применяется \_ режим МАСШТАБИРОВАНИЯ D2D1 поинтдиффусе \_ \_ \_ линейный.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

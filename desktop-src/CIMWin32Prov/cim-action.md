@@ -24,11 +24,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 346c3d0e0100c0c61040b047849a7a81e430e8c6
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122881196"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968906"
 ---
 # <a name="cim_action-class"></a>\_Класс действия CIM
 
@@ -59,7 +59,7 @@ class CIM_Action
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ действий CIM** имеет следующие типы членов:
 
@@ -778,7 +778,7 @@ Mac OS 9
 
 </dd> <dt>
 
-**Version**
+**Версия**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**

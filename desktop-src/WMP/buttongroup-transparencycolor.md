@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cf97a25081e3f5c5729721bd675d9c59be1a4d52adc86acf6b9b75a0ee86dbac
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fbaf6fb70db7d2699a63eb7b4fd34009f7b8ba75
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118342667"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889256"
 ---
 # <a name="buttongrouptransparencycolor"></a>BUTTONGROUP. Транспаренциколор
 
@@ -43,7 +43,7 @@ ms.locfileid: "118342667"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Прозрачный цвет в изображении позволяет отображать все, что находится за изображением, с помощью областей прозрачности. Прозрачная область может быть нажата, если не обрезаться тегом **клиппингимаже** .
 
@@ -53,7 +53,7 @@ ms.locfileid: "118342667"
 
 Так как Жпгс являются утерянными и поэтому подвержены непредвиденному изменению цвета, они не рекомендуются при использовании **транспаренциколор** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -63,7 +63,7 @@ ms.locfileid: "118342667"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

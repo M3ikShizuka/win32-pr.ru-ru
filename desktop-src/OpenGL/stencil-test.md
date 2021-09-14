@@ -7,12 +7,12 @@ keywords:
 - Тестирование набора элементов OpenGL
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6c35907a552861d504430bb412115bf05c9e1c09d183ca073e5f22d578ff726f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e285c3dfb1591c5ed3d95969024d2350a7517a79
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120034594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057216"
 ---
 # <a name="stencil-test"></a>Тест набора элементов
 

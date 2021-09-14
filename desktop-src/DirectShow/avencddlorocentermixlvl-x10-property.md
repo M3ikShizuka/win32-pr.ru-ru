@@ -4,12 +4,12 @@ ms.assetid: 45eba02e-3cbf-446f-861d-2bf195b4d66d
 title: Свойство AVEncDDLoRoCenterMixLvl_x10 (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b4f3118a65ca38a89cd5078c1a801da0c8e471143be90977bdbddf5b2d0ec6e4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a1b08c20a780001d02da38b8440efe24438e8530
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119983754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127161923"
 ---
 # <a name="avencddlorocentermixlvl_x10-property"></a>Авенкддлороцентермикслвл \_ X10, свойство
 
@@ -29,7 +29,7 @@ ms.locfileid: "119983754"
 
 Значение указывается как децибел (dB) x 10.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "119983754"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

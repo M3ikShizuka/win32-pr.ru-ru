@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Root\CIMV2\Security\MicrosoftVolumeEncryption
-ms.openlocfilehash: 0eab283a0eaec97d7f7c9e03cf8d8064e08e0e25bea606b393fb35a38143f7fe
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e5a0a7a253723bec84df7a86fa94ab182bd192dc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118891409"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056938"
 ---
 # <a name="protectkeywithtpmandpin-method-of-the-win32_encryptablevolume-class"></a>Метод Протекткэйвистпмандпин \_ класса Win32 енкриптаблеволуме
 
@@ -164,13 +164,13 @@ uint32 ProtectKeyWithTPMAndPIN(
 
  
 
-## <a name="security-considerations"></a>Соображения безопасности
+## <a name="security-considerations"></a>Вопросы безопасности
 
 Для обеспечения безопасности компьютера рекомендуется использовать профиль по умолчанию. Для дополнительной защиты от изменений кода раннего запуска используйте профиль PCRs 0, 2, 4, 5, 8, 9, 10 и 11. Для дополнительной защиты от изменений в конфигурации с ранним запуском используйте профиль PCRs 0, 1, 2, 3, 4, 5, 8, 9, 10, 11.
 
 Изменение профиля по умолчанию влияет на безопасность или удобство использования компьютера.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В любой момент времени может существовать не более одного предохранителя ключа типа "TPM и ПИН-код" для тома. Если вы хотите изменить отображаемое имя или профиль проверки платформы, используемый существующим предохранителем ключа "TPM и ПИН-код", необходимо сначала удалить существующий предохранитель ключа, а затем вызвать **протекткэйвистпмандпин** , чтобы создать новый.
 

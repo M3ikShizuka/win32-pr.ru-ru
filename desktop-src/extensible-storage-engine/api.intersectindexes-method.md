@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 88bcc872fc557e3942a119845206661bd48705317163520924059af5456f6e00
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8dfe5784ecd5ab517e183f8eeeb5f79315fe585a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118983684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963405"
 ---
 # <a name="apiintersectindexes-method"></a>API. Интерсектиндексес, метод
 

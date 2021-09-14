@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: 528ab441da6cd4370de4ecad5d8490e6e74b5977672d0c7d4126cea1b7bab8fd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a58a3341bacf9b323cc5753f8e9e51c4b703b966
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119044402"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964757"
 ---
 # <a name="id3dxfilecreateenumobject-method"></a>Метод ID3DXFile:: Креатинумобжект
 
@@ -81,7 +81,7 @@ HRESULT CreateEnumObject(
 
 Если метод выполнен успешно, возвращается значение S \_ . В случае сбоя метода возвращаемое значение может быть одним из следующих: D3DXFERR \_ бадвалуе, D3DXFERR \_ парсиррор.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 После использования этого метода используйте один из методов [**ID3DXFileEnumObject**](id3dxfileenumobject.md) для получения объекта данных.
 

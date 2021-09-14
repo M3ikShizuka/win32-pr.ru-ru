@@ -7,12 +7,12 @@ keywords:
 - Операция filepicker
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 05bb23faf2b9d50f12219f3b99c07ec835558addc55e67d4843dee049946a60d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4346cc0e337374fa41313cb77debf4faca781669
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118160535"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162719"
 ---
 # <a name="how-to-load-an-image-into-direct2d-effects-using-the-filepicker"></a>Как загрузить изображение в эффекты Direct2D с помощью операция filepicker
 
@@ -31,7 +31,7 @@ ms.locfileid: "118160535"
 -   Для создания эффектов необходим объект [**ID2D1DeviceContext**](/windows/win32/api/d2d1_1/nn-d2d1_1-id2d1devicecontext) .
 -   Для создания объектов WIC необходим объект [**IWICImagingFactory**](/windows/desktop/api/wincodec/nn-wincodec-iwicimagingfactory) .
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="step-1-open-the-file-picker"></a>Шаг 1. Открытие средства выбора файлов
 

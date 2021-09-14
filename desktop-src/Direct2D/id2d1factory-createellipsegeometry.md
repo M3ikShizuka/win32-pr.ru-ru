@@ -12,12 +12,12 @@ api_type:
 - DllExport
 ms.date: 07/02/2019
 ms.topic: reference
-ms.openlocfilehash: 85026ad8459fdb2e7ef89c1d1a6b339d8e252188e27957e8848aaf02247d2694
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ca991732b9a80fd93e3df3c2b72493f5195ea0a0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119259123"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163031"
 ---
 # <a name="id2d1factorycreateellipsegeometry-methods"></a>Методы ID2D1Factory:: Креатиллипсежеометри
 
@@ -204,7 +204,7 @@ HRESULT DemoApp::CreateGeometryResources()
 
 ![Иллюстрация двух эллипсов в сочетании с четырьмя режимами объединения геометрических объектов (Union, INTERSECT, XOR и Exclude)](images/combine-modes.png)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -216,7 +216,7 @@ HRESULT DemoApp::CreateGeometryResources()
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

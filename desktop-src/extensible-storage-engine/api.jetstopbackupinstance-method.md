@@ -25,11 +25,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 69b6b98b21dba4cffb37827b2965b4e62197121f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104272730"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969445"
 ---
 # <a name="apijetstopbackupinstance-method"></a>API. Жетстопбаккупинстанце, метод
 
@@ -57,7 +57,7 @@ public static void JetStopBackupInstance(
 
 #### <a name="parameters"></a>Параметры
 
-  - экземпляр  
+  - instance  
     Тип: [Microsoft.ISAM.ESENT.Interop.JET_INSTANCE](./jet-instance-structure.md)  
     
     Используемый экземпляр.

@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3D9Types.h
-ms.openlocfilehash: 64b3e13300d6c305d06b6b13db246134cb889cbfc407e4a99c6ae45adbf916e9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 72b2f35f1666ec2095c6ea8f5d5588dc7fd62f2c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118805023"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963785"
 ---
 # <a name="d3ddevice_creation_parameters-structure"></a>\_ \_ Структура параметров создания D3DDEVICE
 
@@ -38,7 +38,7 @@ typedef struct D3DDEVICE_CREATION_PARAMETERS {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 

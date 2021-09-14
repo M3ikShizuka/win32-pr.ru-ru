@@ -17,12 +17,12 @@ api_type:
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c39a179f26d88f25027eb9ffc2b4b3712ac963b65179334fff1bfa4d6103ef76
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5a970e8061ed9199ba5a6a334c7b670218e93936
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118528624"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966782"
 ---
 # <a name="id3dx12pipelineparsercallbacksrasterizerstatecb-method"></a>Метод ID3DX12PipelineParserCallbacks:: Растеризерстатекб
 

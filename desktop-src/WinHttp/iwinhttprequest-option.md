@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Winhttp.dll
-ms.openlocfilehash: 05368f1a5179dcaa94bc07a32035e308e9848e867d89f42f4dffb94c765ee448
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c76df3f09871984da9f4bc093e9ac96d7484558f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119133097"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056298"
 ---
 # <a name="iwinhttprequestoption-property"></a>Свойство Ивинхттпрекуест:: Option
 
@@ -65,7 +65,7 @@ WinHttpRequest.Option = vtOption
 
 В случае успешного выполнения возвращается значение **S \_** , а в противном случае — значение ошибки.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > сведения о Windows XP и Windows 2000 см. в разделе [требования к времени выполнения](winhttp-start-page.md) на начальной странице WinHTTP.
@@ -255,7 +255,7 @@ WScript.Echo( 'Escape percents: '+
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

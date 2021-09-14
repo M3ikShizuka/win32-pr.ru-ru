@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 37240be1b732410d1e91974922f8ed7dc464b57b2596faa381c646a7513daf26
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 97e3b0b676e02dee0e3ebd82de9def56edc2ea28
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119073508"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055575"
 ---
 # <a name="cpullpinconnect-method"></a>Кпуллпин. метод Подключение
 
@@ -81,7 +81,7 @@ HRESULT Connect(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Вызывайте этот метод во время подключения входного контакта. Если метод завершается сбоем, ПИН-код не должен подключиться.
 
@@ -89,7 +89,7 @@ HRESULT Connect(
 
 Если значение *бсинк* равно **true**, то объект **кпуллпин** выполняет синхронные запросы чтения путем вызова [**иасинкреадер:: синкреадалигнед**](/windows/desktop/api/Strmif/nf-strmif-iasyncreader-syncreadaligned)выходного контакта. В противном случае вызывается метод [**иасинкреадер:: request**](/windows/desktop/api/Strmif/nf-strmif-iasyncreader-request) для выполнения перекрывающихся запросов на чтение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -100,7 +100,7 @@ HRESULT Connect(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

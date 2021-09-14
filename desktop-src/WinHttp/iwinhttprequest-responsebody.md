@@ -15,12 +15,12 @@ api_type:
 - COM
 api_location:
 - Winhttp.dll
-ms.openlocfilehash: 56eac42d41054cf7c01ff0c69ffcb82353db7182acf15765b25149560d5f7391
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5a608f2744ad2880ecf7c4862b03821afcef9630
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118563232"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056300"
 ---
 # <a name="iwinhttprequestresponsebody-property"></a>Свойство Ивинхттпрекуест:: Респонсебоди
 
@@ -55,7 +55,7 @@ vtResponseBody = WinHttpRequest.ResponseBody
 
 В случае успешного выполнения возвращается значение **S \_** , а в противном случае — значение ошибки.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство возвращает данные ответа в массиве беззнаковых байтов. Если ответ не имеет текста ответа, возвращается пустой вариант. Это свойство может быть вызвано только после вызова метода [**Send**](iwinhttprequest-send.md) .
 
@@ -79,7 +79,7 @@ vtResponseBody = WinHttpRequest.ResponseBody
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

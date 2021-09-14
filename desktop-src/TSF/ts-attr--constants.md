@@ -17,12 +17,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 46aa2160656c79f79b76fd3da977ad4c20e1f29a0cea80fd7f870c8bd8e56f8c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aa26b8a725475a3d88b07cce1dccd0ac7fa1a98e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118873947"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056752"
 ---
 # <a name="ts_attr_-constants"></a>\_ \_ \* КОНСТАНТы attr TS
 
@@ -50,12 +50,12 @@ ms.locfileid: "118873947"
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                              |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                    |
 | Распространяемые компоненты<br/>          | TSF 1,0 на Windows 2000 Professional<br/>                                         |
-| Header<br/>                   | <dl> <dt>Текстстор. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Текстстор. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>Текстстор. idl</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

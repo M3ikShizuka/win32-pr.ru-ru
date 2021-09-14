@@ -75,12 +75,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: aab5f52a3e8dbb910227eb91eb34c7d562a26ad7915f0d61b25d46c825c101a1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e93ae76ae3c4880c7ad041e6e90d39f1b22820d3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118958933"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054811"
 ---
 # <a name="win32_networkadapterconfiguration-class"></a>\_Класс Win32 NetworkAdapterConfiguration
 
@@ -158,7 +158,7 @@ class Win32_NetworkAdapterConfiguration : CIM_Setting
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ NetworkAdapterConfiguration** имеет следующие типы членов:
 
@@ -1330,7 +1330,7 @@ IP-адрес дополнительного WINS-сервера.
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ NetworkAdapterConfiguration** является производным от [**\_ параметра CIM**](cim-setting.md).
 
@@ -1670,7 +1670,7 @@ End Function
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

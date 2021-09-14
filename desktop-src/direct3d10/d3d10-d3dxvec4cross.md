@@ -14,11 +14,11 @@ api_type:
 api_location:
 - D3DX10Math.h
 ms.openlocfilehash: e52cc1adb1e48f65599b1bf7179f7953823f1e1c
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108102952"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056076"
 ---
 # <a name="d3dxvec4cross-function-d3dx10mathh"></a>Функция D3DXVec4Cross (D3DX10Math. h)
 
@@ -84,7 +84,7 @@ D3DXVECTOR4* D3DXVec4Cross(
 
 Указатель на структуру D3DXVECTOR4, которая является перекрестным продуктом.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре тоска. Таким образом, функция D3DXVec4Cross может использоваться в качестве параметра для другой функции.
 
@@ -94,11 +94,11 @@ D3DXVECTOR4* D3DXVec4Cross(
 
 | Требование | Значение |
 |-------------------|-----------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3DX10Math. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3DX10Math. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

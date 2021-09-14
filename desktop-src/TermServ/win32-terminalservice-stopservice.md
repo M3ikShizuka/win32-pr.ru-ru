@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4edbdb9e3b7fa48476f70e550bf1255de344880df440381fcd48adefa2f68d6d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7e1b21db330bb9111b96fb244200845cb83b3153
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118604364"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890733"
 ---
 # <a name="stopservice-method-of-the-win32_service-class-sdoiash-for-the-terminal-service"></a>Метод работы класса Win32_Service (Сдоиас. h) для службы терминалов
 
@@ -224,7 +224,7 @@ uint32 StopService();
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Определив, какие службы могут быть остановлены или приостановлены, можно использовать **методы "** [**PauseService**](win32-terminalservice-pauseservice.md) " и "приостановить" для остановки и приостановки служб. Решение о прекращении работы службы, а не приостановке или наоборот, зависит от нескольких факторов, включая следующие:
 
@@ -253,7 +253,7 @@ uint32 StopService();
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
 | Пространство имен<br/>                | Корневой \\ CIMv2 \\ терминалсервицес<br/>                                                |
-| Header<br/>                   | <dl> <dt>Сдоиас. h</dt> </dl>     |
+| Заголовок<br/>                   | <dl> <dt>Сдоиас. h</dt> </dl>     |
 | MOF<br/>                      | <dl> <dt>Тскфгвми. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>TSCfgWmi.dll</dt> </dl> |
 

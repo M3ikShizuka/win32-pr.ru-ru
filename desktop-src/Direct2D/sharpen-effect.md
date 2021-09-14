@@ -4,12 +4,12 @@ description: Повышает резкость изображения.
 ms.assetid: 1eb12d1e-83c1-ba13-33be-df2078f3ccb8
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b74d95f7305dd6d44eb4dfbe2707f9e636e2ce704af2dc02fcf55477dbf2222d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f54203cfeb786204500c905e2ff4cfc83bf9719e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119873772"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162579"
 ---
 # <a name="sharpen-effect"></a>Эффекты резкости
 
@@ -20,14 +20,14 @@ ms.locfileid: "119873772"
 -   [Пример изображения](#example-image)
 -   [Образец кода](#sample-code)
 -   [Свойства эффектов](#effect-properties)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example-image"></a>Пример изображения
 
 ![Пример выходных данных эффектов](images/sharpen-effect.png)
 
-## <a name="sample-code"></a>Пример кода
+## <a name="sample-code"></a>Образец кода
 
 
 ```C++
