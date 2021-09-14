@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 95952ee42dfe8eb8dd1a46c66dcd452f41cbc9723fa175c2a0d1fc75056c31ee
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 08f47f55a5e2eae552f64234a8e43ef0961f38c7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118957923"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165580"
 ---
 # <a name="tvn_begindrag-notification-code"></a>\_Код уведомления ТВН бегиндраг
 
@@ -55,7 +55,7 @@ TVN_BEGINDRAG
 
 Элемент управления "дерево-представление", имеющий стиль [**\_ Дисабледрагдроп "телевизоры**](tree-view-control-window-styles.md) ", не отправляет этот код уведомления.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

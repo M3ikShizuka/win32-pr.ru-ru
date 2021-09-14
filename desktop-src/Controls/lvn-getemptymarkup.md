@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e5da87d0585a22d41743e58e946c4b1b39ca24c8bb131e9084596ce4f8c2b7ea
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dea693475ca42f962be07936f980cd3f5d52479c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118005705"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065776"
 ---
 # <a name="lvn_getemptymarkup-notification-code"></a>\_Код уведомления ЛВН жетемптимаркуп
 
@@ -53,7 +53,7 @@ LVN_GETEMPTYMARKUP
 
 Получатель уведомлений выполняет приведение *lParam* для получения структуры [**нмлвемптимаркуп**](/windows/win32/api/commctrl/ns-commctrl-nmlvemptymarkup) . Параметр *wParam* содержит идентификатор элемента управления, который отправляет это сообщение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

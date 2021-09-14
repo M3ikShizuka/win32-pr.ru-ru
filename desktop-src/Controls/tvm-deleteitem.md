@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7ef0165ffaf1f0f04b32cda43e21c97fed012ad6d61b32f8919612f8924f7c66
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8783fd5acdf7319699cdc67cbb3ea075e4dbbc28
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119018692"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165792"
 ---
 # <a name="tvm_deleteitem-message"></a>\_Сообщение TVM DELETEITEM
 
@@ -55,7 +55,7 @@ ms.locfileid: "119018692"
 
 Если удалить все элементы в элементе управления "дерево", у которого есть [**стиль \_ прокрутки "телевизоры**](tree-view-control-window-styles.md) ", элементы, добавленные позднее, могут отображаться неправильно. Дополнительные сведения см. в разделе [**TreeView \_ делетеаллитемс**](/windows/desktop/api/Commctrl/nf-commctrl-treeview_deleteallitems).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

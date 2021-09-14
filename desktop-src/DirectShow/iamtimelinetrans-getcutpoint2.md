@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 291aff15260d5d693f3e6b0281d693a7351132fc017358f6f9ee21020dfd4f26
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 68712da95da2f5c21d5e370c688002aa14a8a166
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118952763"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065673"
 ---
 # <a name="iamtimelinetransgetcutpoint2-method"></a>Метод Иамтимелинетранс:: GetCutPoint2
 
@@ -80,7 +80,7 @@ HRESULT GetCutPoint2(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -91,7 +91,7 @@ HRESULT GetCutPoint2(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

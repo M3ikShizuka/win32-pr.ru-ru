@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4985bae2f9170bdb0db1d6cdb995f2c14fe813bcb061485c179bc058539e84c9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4648f3cf433a2828d3c97604ebf9ee6e7223b7f1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119648365"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241831"
 ---
 # <a name="externalsendmessage-method"></a>External. sendMessage, метод
 
@@ -70,7 +70,7 @@ External.sendMessage(
 
 Сообщение отправляется асинхронно. Это значит, что этот метод возвращает значение немедленно, а не ожидает обработки сообщения. Когда подключаемый модуль заканчивает обработку сообщения, он вызывает метод [ивмпконтентпартнеркаллбакк:: сендмессажекомплете](/previous-versions/windows/desktop/api/contentpartner/nf-contentpartner-iwmpcontentpartnercallback-sendmessagecomplete) , который, в свою очередь, вызывает обработчик событий [онсендмессажекомплете](external-onsendmessagecomplete-event.md) в скрипте.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -81,7 +81,7 @@ External.sendMessage(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

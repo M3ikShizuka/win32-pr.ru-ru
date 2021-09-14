@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: ebaa411ccb6075cfe9aab429912c3644c50e2c8bf1db99faec3328f318700268
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e4a51c49d9373dc210cbf216089e4c82835bf2c4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119043302"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066130"
 ---
 # <a name="samplegradsamplegradsfloatfloatfloatfloat-function-for-texturecube"></a>Функция Самплеград:: Самплеград (S, float, float, float, float) для Текстурекубе
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: edb28deb3dd98542791b4c8daf350e618e43db57d5090a93d49af5e55e8b39ad
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7938d28be337f7255a9b84422fa090da5a494cc2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120077124"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065782"
 ---
 # <a name="lvn_columnoverflowclick-notification-code"></a>\_Код уведомления ЛВН колумноверфловкликк
 
@@ -57,7 +57,7 @@ LVN_COLUMNOVERFLOWCLICK
 
 Если элемент управления "заголовок" является дочерним элементом ListView, элемент управления "заголовок" должен отправить этот код уведомления в элемент управления ListView, когда элемент управления "заголовок" получает код уведомления [ХДН \_ оверфловкликк](hdn-overflowclick.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

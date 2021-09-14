@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 9520a98fccc586a8596c3f2ae8e684453ef56a68eaa411395e7e291f2a17d68e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 34bdc9af1283b245ec166386eae4708689f3ec9c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117936852"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242719"
 ---
 # <a name="types-metadatatype-element"></a>Types (Метадататипе), элемент
 
@@ -32,7 +32,7 @@ ms.locfileid: "117936852"
 
 Элемент **types** определяется сложным типом [**метадататипе**](eventmanifestschema-metadatatype-complextype.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ ms.locfileid: "117936852"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

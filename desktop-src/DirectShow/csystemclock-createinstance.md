@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 63626804ad4d067e5067170e0fc17cc83c179a906c0e625bb02a3ffb8a4ef197
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 264997448aea028c5725d207ce4b301d369a092c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119687334"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057968"
 ---
 # <a name="csystemclockcreateinstance-method"></a>Ксистемклокк. CreateInstance, метод
 
@@ -65,7 +65,7 @@ static CUnknown* WINAPI CreateInstance(
 
 Фабрика классов вызывает этот метод для создания объекта.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

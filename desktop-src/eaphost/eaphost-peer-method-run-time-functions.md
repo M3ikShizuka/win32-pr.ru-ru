@@ -4,12 +4,12 @@ description: Сведения о функциях времени выполне�
 ms.assetid: fdfa595d-acf7-4489-88a8-113093567fe5
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: eb3134a2b118b4bce4511e79d8d9ef58708f6b1c2bd7a93ed820fc16ec073914
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cfde4adc8d509fcd5d67f9a33bd0617d605716db
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118275027"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241294"
 ---
 # <a name="eaphost-peer-method-run-time-functions"></a>Run-Time функции однорангового метода EAPHost
 
@@ -17,7 +17,7 @@ ms.locfileid: "118275027"
 
 
 
-| Компонент                                                                   | Описание                                                                                                                                                                                                                 |
+| Функция                                                                   | Описание                                                                                                                                                                                                                 |
 |----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**еаппирбегинсессион**](/previous-versions/windows/desktop/api/eapmethodpeerapis/nf-eapmethodpeerapis-eappeerbeginsession)                         | Запускает новый сеанс проверки подлинности на одноранговом узле EAPHost.                                                                                                                                                                    |
 | [**еаппирендсессион**](/previous-versions/windows/desktop/api/eapmethodpeerapis/nf-eapmethodpeerapis-eappeerendsession)                             | Завершает текущий сеанс проверки подлинности EAP между EAPHost и одноранговым узлом.                                                                                                                                               |

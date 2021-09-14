@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f830603bba4bcdf07bd7bc8c631ac17028301a795fc14ebbce6483ef72f81361
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a71090371fe8a84698b84b84391e5a782fdc636f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120073884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271936"
 ---
 # <a name="rtmblockdeleteroutes-function"></a>Функция Ртмблоккделетераутес
 
@@ -89,7 +89,7 @@ HANDLE RtmBlockDeleteRoutes(
 
 Функция создает соответствующие сообщения уведомления для всех зарегистрированных клиентов, включая вызывающего.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -97,14 +97,14 @@ HANDLE RtmBlockDeleteRoutes(
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                          |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                               |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                     |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                     |
 | Заголовок<br/>                   | <dl> <dt>RTM. h</dt> </dl>   |
 | Библиотека<br/>                  | <dl> <dt>RTM. lib</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Rtm.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: afdf80cf1557f8b08709536ef49b08206873f5758c4b02a12008b27b4413a116
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 95c6d054900f3f4c4710e22c54759161800137c2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117731802"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066262"
 ---
 # <a name="d3dxfillcubetexturetx-function"></a>Функция D3DXFillCubeTextureTX
 
@@ -75,7 +75,7 @@ HRESULT D3DXFillCubeTextureTX(
 
 Входные параметры могут быть в любом порядке. Пример см. в разделе [ **D3DXFillTextureTX**](d3dxfilltexturetx.md)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -86,7 +86,7 @@ HRESULT D3DXFillCubeTextureTX(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

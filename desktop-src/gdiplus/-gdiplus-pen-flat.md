@@ -4,12 +4,12 @@ ms.assetid: e523339d-639e-4e8e-b0cb-0c9464eeee03
 title: Функции пера (GDI+)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 07782154dc9bdc2e426ca4a0e35c38a1ce1901f835adfd2fa00bf8e082f257cf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cdf0164d70f6f240a47ecdfcb3a9e276fe19710a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119830754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065874"
 ---
 # <a name="pen-functions-gdi"></a>Функции пера (GDI+)
 

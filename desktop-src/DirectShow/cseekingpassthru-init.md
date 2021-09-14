@@ -1,7 +1,7 @@
 ---
 description: Метод init Инициализирует объект.
 ms.assetid: a919adfa-0ffb-4241-b709-ad0e8d55476a
-title: Метод CSeekingPassThru.Init (Сикпт. h)
+title: Метод Ксикингпасссру. init (Сикпт. h)
 ms.topic: reference
 ms.date: 05/31/2018
 topic_type:
@@ -16,14 +16,14 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 91d20477f83ec79c6ae6095e81810c98454f9c26521eda995c919867b3e3ac12
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 78176a6966f379240b5b7edd1ef5b73d7fa75b3f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118953822"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058010"
 ---
-# <a name="cseekingpassthruinit-method"></a>Метод CSeekingPassThru.Init
+# <a name="cseekingpassthruinit-method"></a>Ксикингпасссру. init, метод
 
 `Init`Метод инициализирует объект.
 
@@ -77,7 +77,7 @@ HRESULT Init(
 
 Если значение *бсуппортрендеринг* равно **true**, этот метод создает экземпляр класса [**крендерерпоспасссру**](crendererpospassthru.md) . В противном случае создается экземпляр класса [**кпоспасссру**](cpospassthru.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -88,7 +88,7 @@ HRESULT Init(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

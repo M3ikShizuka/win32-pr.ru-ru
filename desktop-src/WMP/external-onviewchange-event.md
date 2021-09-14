@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5c01db02ef1bfd194330483c8dd7e71eba7ed09d9b347aee4b4813f413950c65
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6c7144e03955fb67ed90cad4a4336bf782ca1566
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119648684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241885"
 ---
 # <a name="externalonviewchange-event"></a>Внешнее событие Онвиевчанже
 
@@ -52,7 +52,7 @@ window.external.OnViewChange = FunctionName
 
 когда представление изменяется в проигрыватель Windows Media, проигрыватель вызывает [ивмпконтентпартнер::-template](/previous-versions/windows/desktop/api/contentpartner/nf-contentpartner-iwmpcontentpartner-gettemplate) , чтобы получить URL-адрес следующей отображаемой страницы обнаружения. Однако до того, как проигрыватель отобразит новую страницу обнаружения, он вызывает событие **онвиевчанже** . если обработчик событий **онвиевчанже** вызывает [External. канцелнавигате](external-cancelnavigate.md), проигрыватель Windows Media не отображает новую страницу обнаружения. Вместо этого будет отображаться текущая страница обнаружения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -63,7 +63,7 @@ window.external.OnViewChange = FunctionName
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

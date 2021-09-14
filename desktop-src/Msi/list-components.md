@@ -4,12 +4,12 @@ ms.assetid: 4e6cc6f4-821a-4a10-a897-5c6aace1f702
 title: Составить список компонентов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ec396e66ed55d78131c74b85432b2f01829cdb5400fc5c00a6ced5725edadeae
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b79fa34f62374632ec7fdf52a13c6da8ddbfd82a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120129324"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065425"
 ---
 # <a name="list-components"></a>Составить список компонентов
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 2195e5a8540d393e4e45eb50a812041156765487904f3b9a4e6a8776def4cbf1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: daa1e2404e7c6fbf1d879d71374298103bdc621f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119073378"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058000"
 ---
 # <a name="csourcefindpin-method"></a>Ксаурце. Финдпин, метод
 
@@ -77,7 +77,7 @@ HRESULT FindPin(
 
 Первый ПИН-код всегда имеет имя "1"; второй ПИН-код называется "2"; и т. д. Дополнительные сведения см. в разделе [**ксаурцестреам:: QueryId**](csourcestream-queryid.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -88,7 +88,7 @@ HRESULT FindPin(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

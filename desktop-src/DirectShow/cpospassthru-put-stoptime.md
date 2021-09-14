@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: d91d49f2517a3d3b9efc50d70ace1b75562b50df8acda7c48826e7c088439928
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4f5763700947596a0fb437ba3840df058d4d3239
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120055094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058018"
 ---
 # <a name="cpospassthruput_stoptime-method"></a>Кпоспасссру. размещение \_ метода StopTime
 
@@ -53,7 +53,7 @@ HRESULT put_StopTime(
 
 Возвращает значение **HRESULT** из подключенного ПИН-кода.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -64,7 +64,7 @@ HRESULT put_StopTime(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

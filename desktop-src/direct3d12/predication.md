@@ -1,23 +1,23 @@
 ---
-title: Затенения
+title: Предикация
 description: Затенения — это функция, которая позволяет GPU, а не ЦП определять, что не может рисовать, копировать или отправлять объект.
 ms.assetid: 5c5138c7-f6e8-4646-961a-0e2312b5356b
 ms.localizationpriority: high
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 8a18df35c94fbd6b2b6f449585dfdcd4028bf2e9
-ms.sourcegitcommit: 9dadca1a0d77cb2a372e5a941ec707f9d77b354d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/20/2020
-ms.locfileid: "104549013"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066388"
 ---
-# <a name="predication"></a>Затенения
+# <a name="predication"></a>Предикация
 
 Затенения — это функция, которая позволяет GPU, а не ЦП определять, чтобы не рисовать, копировать или отправлять объект.
 
 -   [Обзор](#overview)
--   [сетпредикатион](#setpredication)
+-   [SetPredication](#setpredication)
 -   [Связанные темы](#related-topics)
 
 ## <a name="overview"></a>Обзор
@@ -28,7 +28,7 @@ ms.locfileid: "104549013"
 
 В отличие от Direct3D 11, затенения отделяется от запросов и расширяется в Direct3D 12, чтобы позволить приложению выполнять предикаты для объектов на основе любой причины, по которой разработчик приложения может принять решение (не только перекрытия).
 
-## <a name="setpredication"></a>сетпредикатион
+## <a name="setpredication"></a>SetPredication
 
 Затенения можно задать на основе значения 64-разрядов в буфере (см. [**D3D12 \_ затенения \_ Op**](/windows/desktop/api/d3d12/ne-d3d12-d3d12_predication_op)).
 
@@ -51,19 +51,19 @@ ms.locfileid: "104549013"
 
 Набор операций, которые могут быть предикатами:
 
--   [**дравинстанцед**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-drawinstanced)
--   [**дравиндексединстанцед**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-drawindexedinstanced)
+-   [**DrawInstanced**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-drawinstanced)
+-   [**DrawIndexedInstanced**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-drawindexedinstanced)
 -   [**Dispatch**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-dispatch)
--   [**копитекстуререгион**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-copytextureregion)
--   [**копибуфферрегион**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-copybufferregion)
--   [**копиресаурце**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-copyresource)
--   [**копитилес**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-copytiles)
--   [**ресолвесубресаурце**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-resolvesubresource)
+-   [**CopyTextureRegion**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-copytextureregion)
+-   [**CopyBufferRegion**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-copybufferregion)
+-   [**CopyResource**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-copyresource)
+-   [**CopyTiles**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-copytiles)
+-   [**ResolveSubresource**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-resolvesubresource)
 -   [**ClearDepthStencilView**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-cleardepthstencilview)
 -   [**ClearRenderTargetView**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-clearrendertargetview)
--   [**клеарунордередакцессвиевуинт**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-clearunorderedaccessviewuint)
--   [**клеарунордередакцессвиевфлоат**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-clearunorderedaccessviewfloat)
--   [**ексекутеиндирект**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-executeindirect)
+-   [**ClearUnorderedAccessViewUint**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-clearunorderedaccessviewuint)
+-   [**ClearUnorderedAccessViewFloat**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-clearunorderedaccessviewfloat)
+-   [**ExecuteIndirect**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-executeindirect)
 
 [**Ексекутебундле**](/windows/desktop/api/d3d12/nf-d3d12-id3d12graphicscommandlist-executebundle) не является самим предикатом. Вместо этого отдельные операции из приведенного выше списка, содержащиеся в конце пакета, объединяются в предикате.
 

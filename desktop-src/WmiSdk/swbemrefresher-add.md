@@ -17,11 +17,11 @@ api_type:
 api_location:
 - Wbemdisp.dll
 ms.openlocfilehash: ebe9da221314252b2b143bf674cd7bb7177329b5
-ms.sourcegitcommit: c16214e53680dc71d1c07111b51f72b82a4512d8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "105703443"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058336"
 ---
 # <a name="swbemrefresheradd-method"></a>Свбемрефрешер. Add, метод
 
@@ -50,14 +50,14 @@ objRefreshItem = .Add( _
 *обжвбемсервице* 
 </dt> <dd>
 
-Обязательный. Объект [**SwbemServices**](swbemservices.md) , представляющий соединение с пространством имен, в котором находится объект, добавляемый в обновитель.
+Обязательный элемент. Объект [**SwbemServices**](swbemservices.md) , представляющий соединение с пространством имен, в котором находится объект, добавляемый в обновитель.
 
 </dd> <dt>
 
 *стринстанцепас* 
 </dt> <dd>
 
-Обязательный. Строка, содержащая относительный путь к объекту в пространстве имен. Путь должен содержать экземпляр. Свойство [**index**](swbemrefreshableitem-index.md) возвращаемого [**свбемрефрешаблеитем**](swbemrefreshableitem.md) представляет индекс объекта в коллекции обновитель.
+Обязательный элемент. Строка, содержащая относительный путь к объекту в пространстве имен. Путь должен содержать экземпляр. Свойство [**index**](swbemrefreshableitem-index.md) возвращаемого [**свбемрефрешаблеитем**](swbemrefreshableitem.md) представляет индекс объекта в коллекции обновитель.
 
 </dd> <dt>
 
@@ -87,7 +87,7 @@ objRefreshItem = .Add( _
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Wbemdisp. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_СВБЕМРЕФРЕШЕР CLSID<br/>                                                        |

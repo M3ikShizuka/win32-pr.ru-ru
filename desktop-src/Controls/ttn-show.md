@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 74397223f20668487e78cea15e2e1507026ee65089e5011065b3f177514e899b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 16acb41d1145c176799dd7997b56a850bb45ece7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118408816"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165800"
 ---
 # <a name="ttn_show-notification-code"></a>ТТН \_ отобразить код уведомления
 
@@ -66,7 +66,7 @@ TTN_SHOW
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

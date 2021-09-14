@@ -4,12 +4,12 @@ description: Windows В журнале событий определяются �
 ms.assetid: 2dd0e9ef-057b-4d0a-8b21-e7f14e5ae6e3
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cd4fa05f1d9115c7888b3b796a90dd6a07019ad5158764bd91c80f20d96c71e3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c019a090d1a12e30948e5ed1f5672853caed848c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119904034"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241519"
 ---
 # <a name="windows-event-log-enumerations"></a>Windows Перечисления журнала событий
 

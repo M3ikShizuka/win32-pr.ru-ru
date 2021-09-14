@@ -14,12 +14,12 @@ dev_langs:
 - JScript
 - VB
 - other
-ms.openlocfilehash: 392fb670cbe9f64025cd2270c52dc7bc317507821d25b3cf842d323db6ddccc4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3bcb5effcfc59e155007fbd9e1733d95db058970
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119840424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058275"
 ---
 # <a name="apiretrievecolumn-method"></a>API. Ретриевеколумн, метод
 
@@ -53,7 +53,7 @@ ms.locfileid: "119840424"
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

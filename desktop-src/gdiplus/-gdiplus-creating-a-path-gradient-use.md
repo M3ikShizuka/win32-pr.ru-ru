@@ -5,18 +5,18 @@ title: Создание градиента контура
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 729ef39793547b1485525f8cf1fd5b344773e7a2
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104558105"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241576"
 ---
 # <a name="creating-a-path-gradient"></a>Создание градиента контура
 
 Класс [**пасградиентбруш**](/windows/desktop/api/gdipluspath/nl-gdipluspath-pathgradientbrush) позволяет настроить способ заливки фигуры с постепенно изменяющимися цветами. Объект **пасградиентбруш** имеет Граничный контур и центральную точку. Можно указать один цвет для центральной точки и другой цвет для границы. Можно также указать отдельные цвета для каждой из нескольких точек на границе.
 
 > [!Note]  
-> В GDI+ путь представляет собой последовательность линий и кривых, обслуживаемых объектом [**GraphicsPath**](/windows/desktop/api/gdipluspath/nl-gdipluspath-graphicspath) . Дополнительные сведения о путях GDI+ см. в разделе [paths](-gdiplus-paths-about.md) and [конструировать and Drawing paths](-gdiplus-constructing-and-drawing-paths-use.md).
+> в GDI+ путь — это последовательность линий и кривых, обслуживаемая объектом [**GraphicsPath**](/windows/desktop/api/gdipluspath/nl-gdipluspath-graphicspath) . дополнительные сведения о GDI+ путях см. в разделе [пути](-gdiplus-paths-about.md) , [создание и рисование контуров](-gdiplus-constructing-and-drawing-paths-use.md).
 
  
 

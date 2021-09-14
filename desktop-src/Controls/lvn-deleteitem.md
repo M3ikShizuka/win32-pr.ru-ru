@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5637cf2e8de98c056635cef2e68a7672f52b649c0162920f647384a2ceb4e64f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 009d39e78aa93d5c5230e9c1b06b84d2854a0d0d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120062164"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065780"
 ---
 # <a name="lvn_deleteitem-notification-code"></a>\_Код уведомления ЛВН DELETEITEM
 

@@ -4,12 +4,12 @@ ms.assetid: 414025c3-7b83-42c7-9954-7393fba06061
 title: ТРАНСФОРМССЕКУРЕ, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7af3432b8f895d4d9f5d0fe643ef8106e01e28ad64fb2db177e968fbc13d88de
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b5b7a30ab5e94fb646e2e8960b60fd97dc35557c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118141637"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127274104"
 ---
 # <a name="transformssecure-property"></a>ТРАНСФОРМССЕКУРЕ, свойство
 
@@ -21,7 +21,7 @@ ms.locfileid: "118141637"
 
 Windows Установщик интерпретирует свойство [**трансформсатсаурце**](transformsatsource.md) так, чтобы оно совпадало со свойством **трансформссекуре** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -14,12 +14,12 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 413df28e1dcbbc6b557a73ca4496524490d6ccf05edc4d9ecc30935861d36771
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 86c47d5b3ee62f09b7a9f86223720c103df93df0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119978384"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241321"
 ---
 # <a name="baseeaptypeparameters-complex-type---connection-properties"></a>Сложный тип Басиаптипепараметерс — свойства соединения
 

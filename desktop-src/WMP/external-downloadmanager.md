@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2d828435c43f57406e637312245b2bb3ae3e7c35510c9b2daf478a7fec39b599
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f55e6371f5c8d1e5dfcb17762340a82e8d921c17
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119649214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241957"
 ---
 # <a name="externaldownloadmanager"></a>External. Довнлоадманажер
 
@@ -43,7 +43,7 @@ window.external.DownloadManager
 
 в проигрыватель Windows Media 10 или более поздней версии свойство **довнлоадманажер** и объект доступны только из областей задач службы "интернет-магазин". Нельзя использовать **довнлоадманажер** из других функций, где доступен **внешний** объект, например Хтмлвиев, представление информационной центра и сведения о диске.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -54,7 +54,7 @@ window.external.DownloadManager
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

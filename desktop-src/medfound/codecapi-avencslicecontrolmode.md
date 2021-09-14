@@ -4,12 +4,12 @@ ms.assetid: 5269DB79-639C-4F67-B885-BF1274CDB635
 title: Свойство CODECAPI_AVEncSliceControlMode (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e8ed749419533e4c8c4cec1e6f977bcfa8586c20d43d27d56a2dd041ab5b0267
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0aef928a3938b2f0756d2e84b6836da194823dab
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118064775"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269307"
 ---
 # <a name="codecapi_avencslicecontrolmode-property"></a>КОДЕКАПИ \_ авенкслицеконтролмоде, свойство
 
@@ -79,7 +79,7 @@ if (pCodecAPI->IsSupported(&CODECAPI_AVEncSliceControlMode) == S_OK) {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

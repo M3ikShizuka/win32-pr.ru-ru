@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 3e6617287a9465384b3c260aebe384f4764bbd0f41a673408f48d36c450597f2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9c2a677edba4bad5e908b6dd69aa21a467b2a245
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119629474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058307"
 ---
 # <a name="id3dxmesh-interface"></a>Интерфейс ID3DXMesh
 
@@ -64,7 +64,7 @@ typedef struct ID3DXMesh *LPD3DXMESH;
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -75,7 +75,7 @@ typedef struct ID3DXMesh *LPD3DXMESH;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

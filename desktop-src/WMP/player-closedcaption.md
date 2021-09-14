@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9c188ee65af0bd687dd8d64fe3fa6bbd62abac7158d30f595f89723b0df7891b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cfd3b074bdaf6c6d5617a55d6579a64f08ccb80c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119054412"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242458"
 ---
 # <a name="playerclosedcaption"></a>Player. Клоседкаптион
 
@@ -33,7 +33,7 @@ ms.locfileid: "119054412"
 
 Это свойство является объектом **клоседкаптион** , предназначенным только для чтения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -44,7 +44,7 @@ ms.locfileid: "119054412"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

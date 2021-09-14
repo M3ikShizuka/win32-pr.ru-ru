@@ -4,12 +4,12 @@ ms.assetid: 6e39b73d-63ef-4a42-abf9-d64bd8c22498
 title: Лефтунит, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 826d2d42c44c8f06f7981e17f8a30d34031e45228c2ddafde6071a85c72976ac
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 519d735ddcdc79044b9596d2ab1ae01bf3c316bf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120043204"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065436"
 ---
 # <a name="leftunit-property"></a>Лефтунит, свойство
 

@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: b3570f5826f91b35b07478e1ea34940a27d706cf
-ms.sourcegitcommit: fe03c5d92ca6a0d66a114b2303e99c0a19241ffb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "104412195"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241426"
 ---
 # <a name="mad---ps"></a>Mad-PS
 
@@ -29,7 +29,7 @@ ms.locfileid: "104412195"
 
 
 
- 
+ 
 
 где
 
@@ -38,7 +38,7 @@ ms.locfileid: "104412195"
 -   src1 является исходным регистром.
 -   src2 является исходным регистром.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 
 
@@ -48,7 +48,7 @@ ms.locfileid: "104412195"
 
 
 
- 
+ 
 
 В следующем фрагменте кода показаны выполняемые операции.
 
@@ -62,16 +62,16 @@ dest.w = src0.w * src1.w + src2.w;
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Инструкции шейдера пикселей](dx9-graphics-reference-asm-ps-instructions.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

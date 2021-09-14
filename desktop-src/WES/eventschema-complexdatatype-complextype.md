@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: f86b15defc32469dd1a4abd0f6366e1a93d4b83441b1e1518ff7ac999f30bd59
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 598f2cc02f1e3675ff0c8fd6eae7f9a5e02b9407
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119055812"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242620"
 ---
 # <a name="complexdatatype-complex-type"></a>Сложный тип Комплексдататипе
 
@@ -64,7 +64,7 @@ ms.locfileid: "119055812"
 
 Функция [**евтрендер**](/windows/desktop/api/WinEvt/nf-winevt-evtrender) визуализирует содержимое структуры как двоичный BLOB-объект. функция не отображает отдельные элементы данных структуры.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b0e1cf61511e8c9e69c42d89f99fc4ddae90de78701e5e75170ff1b793671120
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 76f147253800469a800677a242ff0ab0ccdbdfa4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119913924"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165607"
 ---
 # <a name="tvm_showinfotip-message"></a>\_Сообщение TVM шовинфотип
 
@@ -47,7 +47,7 @@ ms.locfileid: "119913924"
 
 Большинство приложений не используют это сообщение. Инфотипс отображаются автоматически. Дополнительные сведения см. в разделе Использование Инфотипс в представлении "Общие сведения [об элементах управления Tree-View](tree-view-controls.md) ".
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

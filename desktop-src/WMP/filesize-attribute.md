@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6fe1d3a1bed9bc5a8ca87991b910ffa3804267fc217ff8b500cae79f185cb8a0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cee243d85be59502acead3614dced49494c11104
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119390914"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241765"
 ---
 # <a name="filesize-attribute"></a>Атрибут размер файла
 
@@ -41,7 +41,7 @@ ms.locfileid: "119390914"
 
 Чтобы определить, можно ли изменить значение этого атрибута, используйте метод [Media. исреадонлитем](media-isreadonlyitem.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 99b735f52ac4d311af6e35f7e214322c55345e4c029e73a342baa52dfa72de6c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9c89ff554b049e6730a64ebf7e5f017fc8a5652f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118312995"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058354"
 ---
 # <a name="swbemqualifiersetitem-method"></a>Свбемкуалифиерсет. Item, метод
 
@@ -48,7 +48,7 @@ objQualifier = .Item( _
 *strName* \[ окне\]
 </dt> <dd>
 
-Обязательный. Имя извлекаемого описателя.
+Обязательный элемент. Имя извлекаемого описателя.
 
 </dd> <dt>
 
@@ -98,7 +98,7 @@ objQualifier = .Item( _
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Wbemdisp. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_СВБЕМКУАЛИФИЕРСЕТ CLSID<br/>                                                     |

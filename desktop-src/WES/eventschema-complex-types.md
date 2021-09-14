@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: b337cff6e8a21ab859c78625c613a71da45d134f1cae0ff40d7f501fa6ce3466
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2844fef209aedf6819aeaa5a5b6b8a2d698b39a8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118120382"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242638"
 ---
 # <a name="event-schema-complex-types"></a>Сложные типы схемы событий
 

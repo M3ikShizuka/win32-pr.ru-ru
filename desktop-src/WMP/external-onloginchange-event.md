@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a0697aff759309bc3a988e6f24a024d5c05bd8ec27dae85921ee09d3847f3dfa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9b7d54da86ffdde896a44580567b0cd381725d5e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119648744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241888"
 ---
 # <a name="externalonloginchange-event"></a>Внешнее событие Онлогинчанже
 
@@ -48,7 +48,7 @@ window.external.OnLoginChange = FunctionName
 
 поскольку каждый вызов `Notify(wmpcnLoginStateChange, ...)` проигрыватель Windows Media вызывает событие **онлогинчанже** , то обработчик событий **онлогинчанже** вызывается иногда в результате изменения состояния входа в систему и иногда в результате неудачной попытки входа в систему. Чтобы определить текущее состояние входа пользователя, обработчик событий **онлогинчанже** должен вызвать [External. усерлогжедин](external-userloggedin.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ window.external.OnLoginChange = FunctionName
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

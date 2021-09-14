@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: afa6c3e3074b9e94be8d5c35316adbf62620b722a0f40808b7b0689940dc56bd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 18cf7961e91ad1976895e670d850a7514a94cf6a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119649144"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241945"
 ---
 # <a name="externalfilter"></a>Внешний фильтр
 
@@ -43,7 +43,7 @@ window.external.filter
 
 Фильтр поиска — это текст, который пользователь вводит в элемент управления колесиком мыши игрока.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -54,7 +54,7 @@ window.external.filter
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 892f8e0f4af39250d62da9ed662c22867f98ebfc32baeaa0f341ead2eef665a4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cc8f7c88dab2b8c0dfece6f2799b6648c0b9da2a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120131084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065655"
 ---
 # <a name="iamtimelinetransablegetnexttrans-method"></a>Метод Иамтимелинетрансабле:: Жетнексттранс
 
@@ -91,7 +91,7 @@ HRESULT GetNextTrans(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

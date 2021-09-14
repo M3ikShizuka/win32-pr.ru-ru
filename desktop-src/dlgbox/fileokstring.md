@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 942fcf03d97c7d787231e896199bce0d4c53cf78d16f6b25741e604238bf06b9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 24dd07faecc66bc50c408eab36bcbd8c93c460ef
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119741764"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241360"
 ---
 # <a name="fileokstring-message"></a>Сообщение ФИЛЕОКСТРИНГ
 
@@ -93,7 +93,7 @@ ms.locfileid: "119741764"
 [**регистервиндовмессаже**](/windows/desktop/api/winuser/nf-winuser-registerwindowmessagea)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Библиотека общих диалоговых окон](common-dialog-box-library.md)

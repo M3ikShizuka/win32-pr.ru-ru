@@ -5,15 +5,15 @@ title: Видеозапись Аудио/видео в Media Foundation
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 506c14ee4ab94a27cfafbe18a97ffa8f05676f1f
-ms.sourcegitcommit: c16214e53680dc71d1c07111b51f72b82a4512d8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "105693868"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269387"
 ---
 # <a name="audiovideo-capture-in-media-foundation"></a>Видеозапись Аудио/видео в Media Foundation
 
-Microsoft Media Foundation поддерживает запись аудио и видео. Устройства видеозаписи поддерживаются драйвером класса УВК и должны быть совместимы с УВК 1,1. Устройства записи звука поддерживаются через API сеанса Windows Audio (ВАСАПИ).
+Microsoft Media Foundation поддерживает запись аудио и видео. Устройства видеозаписи поддерживаются драйвером класса УВК и должны быть совместимы с УВК 1,1. устройства записи звука поддерживаются через API Windows audio Session (васапи).
 
 Устройство записи представляется в Media Foundation объектом источника мультимедиа, который предоставляет интерфейс [**имфмедиасаурце**](/windows/desktop/api/mfidl/nn-mfidl-imfmediasource) . В большинстве случаев приложение не будет использовать этот интерфейс напрямую, но будет использовать API более высокого уровня, например [средство чтения исходного кода](source-reader.md) для управления устройством записи.
 
@@ -265,7 +265,7 @@ if (g_pSource)
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

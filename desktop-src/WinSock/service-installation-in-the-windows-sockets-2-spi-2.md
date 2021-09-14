@@ -4,12 +4,12 @@ ms.assetid: a303fbcf-9122-422a-9b12-d00a5df0fc0f
 title: установка службы в Windows сокеты 2 SPI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: faad2431add9b20ebd3358c48469f382596b658de1339525b147b094a7c3786c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9028f35c21cc7055e8b8dde060c1c178dbf76715
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117740528"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241501"
 ---
 # <a name="service-installation-in-the-windows-sockets-2-spi"></a>установка службы в Windows сокеты 2 SPI
 

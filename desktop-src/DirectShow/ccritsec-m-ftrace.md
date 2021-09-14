@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: f5a47437e4f9ab475b64979ec970604ac7a621d2ab53ea7a3c87742fa81a8aab
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 691e078bb3b502704aed585ba020d49b2bd99af1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119074398"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065740"
 ---
 # <a name="ccritsecm_ftrace-member"></a>Элемент Ккритсек:: m \_ фтраце
 
@@ -40,7 +40,7 @@ BOOL m_fTrace;
 
 Эта переменная-член определена только в отладочной версии базового класса. Если значение равно **true**, трассировка состояния блокировки записывается в журнал отладки. (Журнал отладки для критически важных разделов должен быть активным.) Дополнительные сведения см. в разделе [**дбглокктраце**](dbglocktrace.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -51,7 +51,7 @@ BOOL m_fTrace;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Qedit.h
-ms.openlocfilehash: e8e76636a28f1eaa8f3bd948c29e4ab6b2440c75bb4265f6d3c1bf281599bbf6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 930b828e1b715cfcb53275192ed76a7df7d116ec
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120051954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065688"
 ---
 # <a name="dexter_value-structure"></a>\_Структура значения Декстер
 
@@ -42,7 +42,7 @@ typedef struct {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -53,7 +53,7 @@ typedef struct {
 
 </dd> <dt>
 
-**rt**
+**прямоуголь**
 </dt> <dd>
 
 Время, когда свойство принимает значение относительно начала перехода или воздействия.
@@ -78,7 +78,7 @@ typedef struct {
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -88,7 +88,7 @@ typedef struct {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

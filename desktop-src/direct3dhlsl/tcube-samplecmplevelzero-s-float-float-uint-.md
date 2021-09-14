@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 5970b2a03a3004269b8ef758569aa6ac222bb60032dcb91e121a342e58cef886
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ff58c51919e575260c71f7b58d8f3d0fda6c1dd1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120117994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066136"
 ---
 # <a name="samplecmplevelzerosamplecmplevelzerosfloatfloatuint-function-for-texturecube"></a>Функция Самплекмплевелзеро:: Самплекмплевелзеро (S, float, float, uint) для Текстурекубе
 
@@ -97,7 +97,7 @@ DXGI_FORMAT SampleCmpLevelZero(
 
 Формат текстуры, который является одним из типизированных значений, перечисленных в [**\_ формате DXGI**](/windows/desktop/api/dxgiformat/ne-dxgiformat-dxgi_format).
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

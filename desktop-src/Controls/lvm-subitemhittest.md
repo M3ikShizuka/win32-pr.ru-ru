@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 341f9b3f84646abe975c6543aef802450496154862353b7bbdd1af2c07c087ad
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c811a3ed85b9eb157920f700b34d5d9c99597e67
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117830645"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065791"
 ---
 # <a name="lvm_subitemhittest-message"></a>\_Сообщение LVM субитемхиттест
 
@@ -51,7 +51,7 @@ ms.locfileid: "117830645"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 87ba9f9d0af4d6afb3c454f5e5477ccd67728bdec7f378b0f0a04adc901ba322
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3608c3f959c45571d9bc085518b763cf505180ee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118408591"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165787"
 ---
 # <a name="tvm_editlabel-message"></a>\_Сообщение TVM едитлабел
 
@@ -61,7 +61,7 @@ ms.locfileid: "118408591"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 | Имя в кодировке Юникод и ANSI<br/>   | **TVM \_ ЕДИТЛАБЕЛВ** (Юникод) и **TVM \_ едитлабела** (ANSI)<br/>               |
 
 

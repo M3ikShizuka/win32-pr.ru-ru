@@ -5,11 +5,11 @@ title: Константы для CryptEncodeObject и Криптдекодеоб
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 0d7ecd6346c0fc11720a4da292030aaf3c0958b8
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122622750"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127259616"
 ---
 # <a name="constants-for-cryptencodeobject-and-cryptdecodeobject"></a>Константы для CryptEncodeObject и Криптдекодеобжект
 
@@ -24,7 +24,7 @@ ms.locfileid: "122622750"
 
 
 
-| Константа/значение                                                                                                                                                                                                                                                                                                                                                           | Описание:                                                                                                                                                                                                                                                                                       |
+| Константа/значение                                                                                                                                                                                                                                                                                                                                                           | Описание                                                                                                                                                                                                                                                                                       |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <span id="CMC_ADD_ATTRIBUTES"></span><span id="cmc_add_attributes"></span><dl> <dt>**CMC \_ Добавление \_ атрибутов**</dt> <dt>(LPCSTR) 63</dt> </dl>                                                                                                                           | Параметр *пвструктинфо* является указателем на структуру [**\_ \_ \_ сведений о добавлении атрибутов CMC**](/windows/desktop/api/Wincrypt/ns-wincrypt-cmc_add_attributes_info) .<br/>                                                                                                                                                                |
 | <span id="CMC_ADD_EXTENSIONS"></span><span id="cmc_add_extensions"></span><dl> <dt>**CMC \_ Добавление \_ расширений**</dt> <dt>(LPCSTR) 62</dt> </dl>                                                                                                                           | Параметр *пвструктинфо* является указателем на структуру [**\_ \_ \_ сведений о добавлении расширений CMC**](/windows/desktop/api/Wincrypt/ns-wincrypt-cmc_add_extensions_info) .<br/>                                                                                                                                                                |
@@ -166,7 +166,7 @@ ms.locfileid: "122622750"
 <thead>
 <tr class="header">
 <th>Значение</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -360,7 +360,7 @@ ms.locfileid: "122622750"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

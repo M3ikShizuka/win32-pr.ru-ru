@@ -4,12 +4,12 @@ ms.assetid: 190ed399-a8a8-4087-8d18-b1a715690e4c
 title: О ДКСВА 2,0
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f1d6ab595be1f167f777e50001c8d31658dc697866c8d11db3865e66e87508ae
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 149f622c863f433be44bbce6460024ffb06bb1b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119606824"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269435"
 ---
 # <a name="about-dxva-20"></a>О ДКСВА 2,0
 
@@ -26,7 +26,7 @@ ms.locfileid: "119606824"
 
 
 
-| Версия API | Requirements (Требования)          | Поддержка модуля подготовки видео                        |
+| Версия API | Требования          | Поддержка модуля подготовки видео                        |
 |-------------|-----------------------|-----------------------------------------------|
 | ДКСВА 1      | Windows 2000 или более поздней версии | наложение Mixer, vmr-7, vmr-9 (только DirectShow) |
 | ДКСВА 2      | Windows Vista         | евр (DirectShow и Media Foundation)         |

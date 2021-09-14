@@ -4,12 +4,12 @@ ms.assetid: d37df17d-8cd5-4481-bee2-062cf9d78e9b
 title: LOCALE_INVARIANT
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e2c3a4bddaaa51ca72be9d48f273ac0cbd1727e18e5c821e8ce86acaf0f90ec4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fca1e526b91ba372ed7efaad62e9e1597b0d5130
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120106584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127274467"
 ---
 # <a name="locale_invariant"></a>ИНВАРИАНТный ЯЗЫКовой стандарт \_
 

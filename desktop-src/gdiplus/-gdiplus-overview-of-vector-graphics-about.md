@@ -4,12 +4,12 @@ ms.assetid: a43bcb27-473b-4ca2-a937-2b54384ab86b
 title: Обзор векторной графики
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 33566b5d1d683c87ea1f6858abcc6ae375ce09b71e0ac74711118e92bca656c8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9e9bfe98585ef8e073cf1c563c237436b7c982bd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117695662"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065877"
 ---
 # <a name="overview-of-vector-graphics"></a>Обзор векторной графики
 

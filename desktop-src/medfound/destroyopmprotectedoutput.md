@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - gdi32.dll
-ms.openlocfilehash: 5a30f4f4666b2da2e9b1fc38c90f51da9264f4656f82ac11f7abd55b498419e4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0a7ce8551cc5e01e7a2801dd129d5dc6903af697
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118742373"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269176"
 ---
 # <a name="destroyopmprotectedoutput-function"></a>Функция Дестройопмпротектедаутпут
 
@@ -59,7 +59,7 @@ NTSTATUS WINAPI DestroyOPMProtectedOutput(
 
 Эта функция не имеет связанной библиотеки импорта. Для вызова этой функции необходимо использовать функции [**LoadLibrary**](/windows/win32/api/libloaderapi/nf-libloaderapi-loadlibrarya) и [**GetProcAddress**](/windows/win32/api/libloaderapi/nf-libloaderapi-getprocaddress) для динамической привязки к Gdi32.dll.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

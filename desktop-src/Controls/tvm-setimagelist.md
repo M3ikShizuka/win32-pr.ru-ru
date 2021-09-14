@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: df79089c7a2071c6af702da9ef862178738ede3dccff312c3fbae7dbefe4de56
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8f308cb8a56b2e74a5703af144bac03c271efc95
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119018682"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165652"
 ---
 # <a name="tvm_setimagelist-message"></a>\_Сообщение TVM сетимажелист
 
@@ -62,7 +62,7 @@ ms.locfileid: "119018682"
 
 Элемент управления "дерево-представление" не уничтожает список изображений, указанный в этом сообщении. Приложение должно уничтожить список изображений, если он больше не нужен.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -74,7 +74,7 @@ ms.locfileid: "119018682"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

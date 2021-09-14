@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 3004675ee8e07c3503ec4442832c00975364066fa4a0c770b0b081fc7b64c3c7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: de6bda93b5607e00544a69c917a6a238b596c581
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120043574"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065539"
 ---
 # <a name="installeruilevel-property"></a>Свойство Installer. Duilevel
 
@@ -60,7 +60,7 @@ Installer.UILevel = propVal
 
 См. также [Определение уровня пользовательского интерфейса из настраиваемого действия](determining-ui-level-from-a-custom-action.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -3,7 +3,7 @@ title: Событие Фолдерсканстатечанже объекта А
 description: Событие Фолдерсканстатечанже возникает при изменении состояния операции наблюдения за папками.
 ms.assetid: f68829a3-00df-417a-ae78-49dff1e6f09b
 keywords:
-- Событие Фолдерсканстатечанже в проигрывателе Windows Media объекта Аксвиндовсмедиаплайер
+- событие фолдерсканстатечанже объекта аксвиндовсмедиаплайер проигрыватель Windows Media
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 3672f16bee5251aa46e6a64a0da983e0f34ec54a
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105694450"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242002"
 ---
 # <a name="folderscanstatechange-event-of-the-axwindowsmediaplayer-object"></a>Событие Фолдерсканстатечанже объекта Аксвиндовсмедиаплайер
 
@@ -45,7 +45,7 @@ Private Sub player_FolderScanStateChange(
 
 
 
-| Свойство | Описание                                                                             |
+| Свойство. | Описание                                                                             |
 |----------|-----------------------------------------------------------------------------------------|
 | вмпфсс   | Значение перечисления Вмплиб. Вмпфолдерсканстатесе, указывающее новое состояние.<br/> |
 
@@ -59,7 +59,7 @@ Private Sub player_FolderScanStateChange(
 
 | Требование | Значение |
 |----------------------|----------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/>   | Проигрыватель Windows Media 11<br/>                                                                                         |
+| Версия<br/>   | проигрыватель Windows Media 11<br/>                                                                                         |
 | Пространство имен<br/> | **аксвмплиб**<br/>                                                                                                    |
 | Сборка<br/>  | <dl> <dt>AxInterop.WMPLib.dll (AxInterop.WMPLib.dll.dll)</dt> </dl> |
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bd18a5217db0d105841722d208904c1b65199504750576acf1ff8035f31bd585
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: efd9d5957a38d873993405a5283545472433e958
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119913964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165608"
 ---
 # <a name="tvm_settooltips-message"></a>\_Сообщение TVM сеттултипс
 
@@ -47,7 +47,7 @@ ms.locfileid: "119913964"
 
 При создании элементы управления "представление в виде дерева" автоматически создают дочерний элемент управления ToolTip. Чтобы элемент управления "дерево" не использовал всплывающие подсказки, создайте элемент управления с стилем " [**\_ подсказки" телевизоров**](tree-view-control-window-styles.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ ms.locfileid: "119913964"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

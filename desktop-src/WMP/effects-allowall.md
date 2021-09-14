@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c7a87aa8336e3961b31716c8d6bbfaa6aee71374a0f3c6e17b644a47136df550
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 56760021fe34522072677e9524fe6636e519e20f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118996853"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242542"
 ---
 # <a name="effectsallowall"></a>EFFECTs. Алловалл
 
@@ -46,7 +46,7 @@ ms.locfileid: "118996853"
 
 Если этому атрибуту присвоено значение false, то только визуализации, появляющиеся в тегах **Effects** , могут быть циклически передаваться с помощью функции Previous/Next. Если задано значение true, то все визуализации, зарегистрированные в системе пользователя, можно циклически использовать. Если задано значение true и вы указываете любые визуализации внутри тегов **Effect** , то атрибуты, указанные в этих тегах, применяются ко всем визуализациям в системе пользователя.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -56,7 +56,7 @@ ms.locfileid: "118996853"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

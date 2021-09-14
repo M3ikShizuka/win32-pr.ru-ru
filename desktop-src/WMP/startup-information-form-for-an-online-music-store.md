@@ -6,12 +6,12 @@ keywords:
 - проигрыватель Windows Media Интернет-магазины
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 83acbe30b3d5232abb6c79cb845f29d46cd741b2ea6b3a84f03ecd082cb13e99
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a3ded923538d6be6c8a22fa0ba96ddcd0814348d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118118544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241729"
 ---
 # <a name="startup-information-form-for-an-online-music-store"></a>Форма сведений о запуске для музыкального магазина в сети
 
@@ -22,7 +22,7 @@ ms.locfileid: "118118544"
 | Элемент                      | Описание |
 |---------------------------|-------------|
 | Название магазина                |             |
-| Локаль                    |             |
+| Locale                    |             |
 | Дата                      |             |
 | Целевое окно для настройки |             |
 

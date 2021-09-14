@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: afe2b475927d2ffec27c32bb32c0d5bb3afa38cea40ae84405fa659f5342b352
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 833b5cb59095f5aecc8c0172857c8761fd92449a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119717004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241561"
 ---
 # <a name="wm_unichar-message"></a>\_Сообщение УНИЧАР WM
 
@@ -82,7 +82,7 @@ ms.locfileid: "119717004"
 
 Для улучшенных клавиатуры с 101-и 102-клавишами расширенными ключами являются права ALT и right CTRL в основном разделе клавиатуры. клавиши INS, DEL, ДОМАШНяя, конец, страница вверх, страница вниз и стрелка в кластерах слева от цифровой клавиатуры; и клавиши деления (/) и ENTER на цифровой клавиатуре. Некоторые другие клавиатуры могут поддерживать бит расширенного ключа в параметре *lParam* .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -94,11 +94,11 @@ ms.locfileid: "119717004"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**TranslateMessage**](/windows/desktop/api/winuser/nf-winuser-translatemessage)
@@ -110,7 +110,7 @@ ms.locfileid: "119717004"
 [**WM \_ KeyDown**](wm-keydown.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с клавиатуры](keyboard-input.md)

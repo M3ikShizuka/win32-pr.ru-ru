@@ -4,12 +4,12 @@ ms.assetid: 96b92480-cc28-4a57-a184-c52d3ddc9b05
 title: Работа с интерфейсами Икспсомдокумент
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ad7e8c0908382a731532f2697f03c8d67cb732ddf902f0c1ea181fe221d075fd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5299452195dc8f14ebd08508c3fd9a6e198781a7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119033762"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241144"
 ---
 # <a name="working-with-ixpsomdocument-interfaces"></a>Работа с интерфейсами Икспсомдокумент
 
@@ -20,7 +20,7 @@ ms.locfileid: "119033762"
 | Имя интерфейса                                                                        | Логические дочерние интерфейсы                                      | Описание                                                                                                                                                                                                                                                                                                                 |
 |---------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**икспсомдокумент**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsomdocument)<br/>                                   | [**икспсомпажереференце**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsompagereference)<br/> | Представляет отдельную часть FixedDocument и привязывает коллекцию ссылок на страницы.<br/> [**Икспсомпажереференцеколлектион**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsompagereferencecollection) — это интерфейс сбора, который используется для прохода по интерфейсам [**икспсомпажереференце**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsompagereference) в документе.<br/> |
-| [**икспсомдокументструктурересаурце**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsomdocumentstructureresource)<br/> | Нет<br/>                                               | Представляет часть Документструктуре.<br/>                                                                                                                                                                                                                                                                           |
+| [**икспсомдокументструктурересаурце**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsomdocumentstructureresource)<br/> | None<br/>                                               | Представляет часть Документструктуре.<br/>                                                                                                                                                                                                                                                                           |
 
 
 

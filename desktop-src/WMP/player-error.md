@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ad60acc19b1ad85e788f8da4503df7bacc067114ef4394615f38d92fda25912a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2add14816f51d79c66189723ed8f9c62c7e725f3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118835907"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127242404"
 ---
 # <a name="playererror"></a>Player. Error
 
@@ -33,7 +33,7 @@ ms.locfileid: "118835907"
 
 Это свойство является объектом ошибки только для чтения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -44,7 +44,7 @@ ms.locfileid: "118835907"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

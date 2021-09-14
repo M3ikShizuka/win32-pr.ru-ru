@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: ad2bf1795f5059ec1fdda00ddb6a93cfe396dae5b4119d392eff42382fa978b2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7261fa832e5acfb4ef7d9723bc93b862947ef380
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118785870"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241384"
 ---
 # <a name="dlgitemtemplateex-structure"></a>Структура ДЛГИТЕМТЕМПЛАТИКС
 
@@ -45,7 +45,7 @@ typedef struct {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -154,7 +154,7 @@ typedef struct {
 |-----------------------------------------------------------------------------------|-----------------------|
 | <dl> <dt>0x0080</dt> </dl> | Кнопка<br/>     |
 | <dl> <dt>0x0081</dt> </dl> | Изменить<br/>       |
-| <dl> <dt>0x0082</dt> </dl> | Статический<br/>     |
+| <dl> <dt>0x0082</dt> </dl> | Статические<br/>     |
 | <dl> <dt>0x0083</dt> </dl> | Список<br/>   |
 | <dl> <dt>0x0084</dt> </dl> | полоса прокрутки;<br/> |
 | <dl> <dt>0x0085</dt> </dl> | поле со списком;<br/>  |
@@ -212,7 +212,7 @@ typedef struct {
 
 <dl> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**креатедиалогиндирект**](/windows/desktop/api/Winuser/nf-winuser-createdialogindirecta)
@@ -239,7 +239,7 @@ typedef struct {
 [**\_Создание WM**](/windows/desktop/winmsg/wm-create)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Диалоговые окна](dialog-boxes.md)

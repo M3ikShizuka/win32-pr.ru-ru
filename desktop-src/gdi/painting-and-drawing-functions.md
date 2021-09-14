@@ -4,12 +4,12 @@ ms.assetid: ec18323e-c13b-4328-83bf-9e4ed4a712b8
 title: Функции рисования и рисования
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3a51b8acb0ea187c17d220d80f105ad6ae49371688d4eb8671c2a8eb5949b6e0
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 162ce40c88766a81320f72ea7c2e4a84dd92c478
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119666624"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065938"
 ---
 # <a name="painting-and-drawing-functions"></a>Функции рисования и рисования
 
