@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 84059a66a77744b7ea570473474f6b773beae8005b7c4a68e73e59c76829f13a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c9caeed17d42d121ae9263bf6c1fcd011ed573c7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119794284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147954"
 ---
 # <a name="cameventset-method"></a>Камевент. Set, метод
 
@@ -51,7 +51,7 @@ void Set();
 -   **Автоматический сброс**: Если какие-либо потоки ожидают это событие, один поток освобождается и событие сбрасывается. Если ни один из потоков не ожидает этого события, событие остается сигнальным.
 -   **Вручную — сброс**: освобождаются все потоки, ожидающие этого события. Событие остается сигнальным.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -62,7 +62,7 @@ void Set();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

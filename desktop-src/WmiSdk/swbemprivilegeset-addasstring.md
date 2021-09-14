@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: f474f1650cae338a7790ac6d5cb66a248be6c6658d5f2577efcc56870000cc66
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b3a740141b14766080a09d01b36b5c0202351eda
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119860064"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058402"
 ---
 # <a name="swbemprivilegesetaddasstring-method"></a>Свбемпривилежесет. Аддасстринг, метод
 
@@ -48,7 +48,7 @@ objPrivilege = .AddAsString( _
 *стрпривилеже* 
 </dt> <dd>
 
-Обязательный. Одна из строк привилегий. Полный список этих строк и связанные с ними константы WMI см. в разделе [**константы прав**](privilege-constants.md). Каждая строка прав представляет собой конкретную привилегию. Например, чтобы добавить привилегию, которая используется для завершения работы компьютерной системы, используйте строку **сешутдовнпривилеже** .
+Обязательный элемент. Одна из строк привилегий. Полный список этих строк и связанные с ними константы WMI см. в разделе [**константы прав**](privilege-constants.md). Каждая строка прав представляет собой конкретную привилегию. Например, чтобы добавить привилегию, которая используется для завершения работы компьютерной системы, используйте строку **сешутдовнпривилеже** .
 
 </dd> <dt>
 
@@ -99,7 +99,7 @@ objNewPort.Put_
 
 Пример кода, использующий этот метод, также описывается в разделе [**свбемпривилежесет**](swbemprivilegeset.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -115,7 +115,7 @@ objNewPort.Put_
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -5,11 +5,11 @@ title: Структуры управления памятью
 ms.topic: article
 ms.date: 11/06/2018
 ms.openlocfilehash: dc9f2837941c26f0ff9fed5b7d65a00f6bd254a1
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103999682"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144346"
 ---
 # <a name="memory-management-structures"></a>Структуры управления памятью
 
@@ -19,7 +19,7 @@ ms.locfileid: "103999682"
 
 | Раздел | Описание |
 |-|-|
-| [**\_ \_ сведения о цели вызова cfg \_**](-cfg-call-target-info.md) | Представляет сведения о целевых объектах вызова для защиты потока управления (CFG). |
+| [**\_ \_ сведения о цели вызова cfg \_**](-cfg-call-target-info.md) | представляет сведения о целевых объектах вызова для управления Flow Guard (CFG). |
 | [**\_ \_ сведения о оптимизации ресурсов кучи \_**](/windows/desktop/api/winnt/ns-winnt-heap_optimize_resources_information) | Задает флаги для операции Хеапоптимизересаурцес, инициированной с помощью [**HeapSetInformation**](/windows/desktop/api/HeapApi/nf-heapapi-heapsetinformation). |
 | [**\_требования к адресу памяти \_**](/windows/desktop/api/winnt/ns-winnt-mem_address_requirements) | Задает наименьший и максимальный базовый адрес и выравнивание в составе расширенного параметра функции, управляющей виртуальной памятью. |
 | [**MEM, \_ Расширенный \_ параметр**](/windows/desktop/api/winnt/ns-winnt-mem_extended_parameter) | Представляет расширенный параметр для функции, управляющей виртуальной памятью. |

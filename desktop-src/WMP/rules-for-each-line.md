@@ -3,17 +3,17 @@ title: Правила для каждой строки
 description: Правила для каждой строки
 ms.assetid: 9bc7ed16-6e94-4cda-81da-f71dcb81580d
 keywords:
-- Обложки Windows Media Player для мобильных устройств, правила для текстовых линий
+- проигрыватель Windows Media Обложки для мобильных устройств, правила для текстовых линий
 - обложки, правила для текстовых линий
 - файлы определения обложки, правила для текстовых линий
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 1b2adaf52156a2feed7893976099cacb82a19fcc
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104068220"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064345"
 ---
 # <a name="rules-for-each-line"></a>Правила для каждой строки
 
@@ -27,16 +27,16 @@ ms.locfileid: "104068220"
 -   Строки, начинающиеся с двух последовательных косых черт (//), игнорируются. Используйте их для комментариев. Пустые строки также игнорируются.
 -   Добавьте пробелы между скобками и именем раздела.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [**Файл определения обложки**](skin-definition-file-mobile.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

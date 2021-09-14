@@ -1,19 +1,19 @@
 ---
-description: Windows содержит следующие новые программные элементы для синхронизации.
+description: Windows содержит следующие новые элементы программирования для синхронизации.
 ms.assetid: 16cd98d2-adc5-4a14-ad39-a0c5b4cc00cc
 title: Новые возможности синхронизации
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 4702ba10126d9c0eeeb85462195680b074918584
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104264666"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066994"
 ---
 # <a name="whats-new-in-synchronization"></a>Новые возможности синхронизации
 
-Windows содержит следующие новые программные элементы для синхронизации.
+Windows содержит следующие новые элементы программирования для синхронизации.
 
 ## <a name="windows-8"></a>Windows 8
 

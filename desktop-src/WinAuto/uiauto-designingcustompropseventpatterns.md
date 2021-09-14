@@ -17,12 +17,12 @@ keywords:
 - WinEvents
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: de5b95d7daa3570e8b4b9b1d61c7c5f5590c6456d83190195e57af66811f1672
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 93e6973356fe6be922e73eef70e5107b6dcabe0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118324807"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064019"
 ---
 # <a name="design-custom-properties-events-and-control-patterns"></a>Разработка пользовательских свойств, событий и шаблонов элементов управления
 
@@ -97,7 +97,7 @@ ms.locfileid: "118324807"
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Регистрация пользовательских свойств, событий и шаблонов элементов управления](uiauto-regcustompropseventpatterns.md)

@@ -9,12 +9,12 @@ keywords:
 - видео в обложках, сведения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c116be7371191780d4939e15c99b30437c895adb31de6d207e120be9225af628
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: eb3d505acec3f6917c7ed3d182c656ff5e9f29f0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117931399"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064262"
 ---
 # <a name="video-windows-media-player-sdk"></a>видео (проигрыватель Windows Media SDK)
 

@@ -5,11 +5,11 @@ ms.assetid: a3f7a8d8-78e7-4fb0-8ee2-bd9341857153
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: b2a99a43ace763da94944da334b0865c768cc920
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104413088"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064148"
 ---
 # <a name="message-duration-parameter"></a>Параметр длительности сообщения
 
@@ -19,6 +19,6 @@ ms.locfileid: "104413088"
 
 Приложения с поддержкой специальных возможностей могут задавать длительность сообщения на основе вводимых пользователем данных путем установки системного параметра **SPI \_ сетмессажедуратион** .
 
- 
+ 
 
- 
+ 

@@ -4,12 +4,12 @@ ms.assetid: fa9d72d0-2f9c-433d-b05a-8423664b2e3e
 title: Новые возможности вспомогательного приложения IP
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3141797e96442f34a94c2d2afc37585ce6dbc944e7fb35cf9b4602afa042c95a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c2c1a6eebb3e9e785e8988b822df0b2a80ae6eba
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119897624"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144773"
 ---
 # <a name="whats-new-in-ip-helper"></a>Новые возможности вспомогательного приложения IP
 
@@ -17,11 +17,11 @@ ms.locfileid: "119897624"
 
 следующие функции были добавлены в api-интерфейсы вспомогательного компонента IP на Windows 8 и Windows Server 2012.
 
-Функция, которая получает исторические оценки пропускной способности для сетевого подключения. Дополнительные сведения см. в разделе:
+Функция, которая получает исторические оценки пропускной способности для сетевого подключения. Дополнительные сведения можно найти в разделе
 
 -   [**жетипнетворкконнектионбандвидсестиматес**](/windows/desktop/api/Netioapi/nf-netioapi-getipnetworkconnectionbandwidthestimates)
 
-Структура, содержащая сведения о доступных оценках пропускной способности и связанной дисперсии, определяемой стеком TCP/IP. Дополнительные сведения см. в разделе:
+Структура, содержащая сведения о доступных оценках пропускной способности и связанной дисперсии, определяемой стеком TCP/IP. Дополнительные сведения можно найти в разделе
 
 -   [**\_сведения о пропускной способности NL \_**](/windows/desktop/api/Nldef/ns-nldef-nl_bandwidth_information)
 
@@ -29,7 +29,7 @@ ms.locfileid: "119897624"
 
 следующие функции добавлены в api модуля поддержки IP-адресов в Windows 7 и Windows Server 2008 R2.
 
-Функции, которые преобразуют адрес Ethernet в двоичном формате и строковом формате для MAC-адреса Ethernet. Дополнительные сведения см. в разделе:
+Функции, которые преобразуют адрес Ethernet в двоичном формате и строковом формате для MAC-адреса Ethernet. Дополнительные сведения можно найти в разделе
 
 -   [**ртлесернетаддресстостринг**](/windows/desktop/api/ip2string/nf-ip2string-rtlethernetaddresstostringa)
 -   [**ртлесернетстрингтоаддресс**](/windows/desktop/api/ip2string/nf-ip2string-rtlethernetstringtoaddressa)
@@ -38,7 +38,7 @@ ms.locfileid: "119897624"
 
 следующие функции добавлены в api модуля поддержки IP-адресов в Windows Server 2008 и Windows Vista с пакетом обновления 1 (SP1).
 
-Функция, которая работает с IPv4 и протоколом ICMP. Дополнительные сведения см. в разделе:
+Функция, которая работает с IPv4 и протоколом ICMP. Дополнительные сведения можно найти в разделе
 
 -   [**IcmpSendEcho2Ex**](/windows/desktop/api/Icmpapi/nf-icmpapi-icmpsendecho2ex)
 
@@ -46,7 +46,7 @@ ms.locfileid: "119897624"
 
 следующие группы функций были добавлены в api модуля поддержки IP-адресов в Windows Vista и более поздних версиях.
 
-Функции, работающие с IPv6 и IPv4 для преобразования интерфейса. Дополнительные сведения см. в разделе:
+Функции, работающие с IPv6 и IPv4 для преобразования интерфейса. Дополнительные сведения можно найти в разделе
 
 -   [**конвертинтерфацеалиастолуид**](/windows/desktop/api/Netioapi/nf-netioapi-convertinterfacealiastoluid)
 -   [**конвертинтерфацегуидтолуид**](/windows/desktop/api/Netioapi/nf-netioapi-convertinterfaceguidtoluid)
@@ -60,7 +60,7 @@ ms.locfileid: "119897624"
 -   [**Если \_ индекстонаме**](/windows/desktop/api/Netioapi/nf-netioapi-if_indextoname)
 -   [**Если \_ наметоиндекс**](/windows/desktop/api/Netioapi/nf-netioapi-if_nametoindex)
 
-Функции, работающие с протоколами IPv6 и IPv4 для управления интерфейсом. Дополнительные сведения см. в разделе:
+Функции, работающие с протоколами IPv6 и IPv4 для управления интерфейсом. Дополнительные сведения можно найти в разделе
 
 -   [**GetIfEntry2**](/windows/desktop/api/Netioapi/nf-netioapi-getifentry2)
 -   [**жетифстакктабле**](/windows/desktop/api/Netioapi/nf-netioapi-getifstacktable)
@@ -72,7 +72,7 @@ ms.locfileid: "119897624"
 -   [**инитиализеипинтерфацеентри**](/windows/desktop/api/Netioapi/nf-netioapi-initializeipinterfaceentry)
 -   [**сетипинтерфацеентри**](/windows/desktop/api/Netioapi/nf-netioapi-setipinterfaceentry)
 
-Функции, работающие с протоколами IPv6 и IPv4 для управления IP-адресами. Дополнительные сведения см. в разделе:
+Функции, работающие с протоколами IPv6 и IPv4 для управления IP-адресами. Дополнительные сведения можно найти в разделе
 
 -   [**креатеаникастипаддрессентри**](/windows/desktop/api/Netioapi/nf-netioapi-createanycastipaddressentry)
 -   [**креатеуникастипаддрессентри**](/windows/desktop/api/Netioapi/nf-netioapi-createunicastipaddressentry)
@@ -88,11 +88,11 @@ ms.locfileid: "119897624"
 -   [**нотифистаблеуникастипаддресстабле**](/windows/desktop/api/Netioapi/nf-netioapi-notifystableunicastipaddresstable)
 -   [**сетуникастипаддрессентри**](/windows/desktop/api/Netioapi/nf-netioapi-setunicastipaddressentry)
 
-Функция, которая работает с IPv6 и IPv4 для управления памятью таблицы IP. Дополнительные сведения см. в разделе:
+Функция, которая работает с IPv6 и IPv4 для управления памятью таблицы IP. Дополнительные сведения можно найти в разделе
 
 -   [**фримибтабле**](/windows/desktop/api/Netioapi/nf-netioapi-freemibtable)
 
-Функции, работающие с IPv6 и IPv4 для управления адресами соседей IP. Дополнительные сведения см. в разделе:
+Функции, работающие с IPv6 и IPv4 для управления адресами соседей IP. Дополнительные сведения можно найти в разделе
 
 -   [**CreateIpNetEntry2**](/windows/desktop/api/Netioapi/nf-netioapi-createipnetentry2)
 -   [**DeleteIpNetEntry2**](/windows/desktop/api/Netioapi/nf-netioapi-deleteipnetentry2)
@@ -103,13 +103,13 @@ ms.locfileid: "119897624"
 -   [**ресолвенеигхбор**](/windows/desktop/api/Iphlpapi/nf-iphlpapi-resolveneighbor)
 -   [**SetIpNetEntry2**](/windows/desktop/api/Netioapi/nf-netioapi-setipnetentry2)
 
-Функции, работающие с протоколами IPv6 и IPv4 для управления IP-адресами. Дополнительные сведения см. в разделе:
+Функции, работающие с протоколами IPv6 и IPv4 для управления IP-адресами. Дополнительные сведения можно найти в разделе
 
 -   [**флушиппастабле**](/windows/desktop/api/Netioapi/nf-netioapi-flushippathtable)
 -   [**жетиппасентри**](/windows/desktop/api/Netioapi/nf-netioapi-getippathentry)
 -   [**жетиппастабле**](/windows/desktop/api/Netioapi/nf-netioapi-getippathtable)
 
-Функции, работающие с протоколами IPv6 и IPv4 для управления маршрутами IP. Дополнительные сведения см. в разделе:
+Функции, работающие с протоколами IPv6 и IPv4 для управления маршрутами IP. Дополнительные сведения можно найти в разделе
 
 -   [**CreateIpForwardEntry2**](/windows/desktop/api/Netioapi/nf-netioapi-createipforwardentry2)
 -   [**DeleteIpForwardEntry2**](/windows/desktop/api/Netioapi/nf-netioapi-deleteipforwardentry2)
@@ -120,41 +120,41 @@ ms.locfileid: "119897624"
 -   [**SetIpForwardEntry2**](/windows/desktop/api/Netioapi/nf-netioapi-setipforwardentry2)
 -   [**сетипстатистиксекс**](/windows/desktop/api/Iphlpapi/nf-iphlpapi-setipstatisticsex)
 
-Функции, работающие с IPv6 и IPv4 для уведомлений. Дополнительные сведения см. в разделе:
+Функции, работающие с IPv6 и IPv4 для уведомлений. Дополнительные сведения можно найти в разделе
 
 -   [**CancelMibChangeNotify2**](/windows/desktop/api/Netioapi/nf-netioapi-cancelmibchangenotify2)
 -   [**нотифипинтерфацечанже**](/windows/desktop/api/Netioapi/nf-netioapi-notifyipinterfacechange)
 -   [**NotifyRouteChange2**](/windows/desktop/api/Netioapi/nf-netioapi-notifyroutechange2)
 -   [**нотифюникастипаддрессчанже**](/windows/desktop/api/Netioapi/nf-netioapi-notifyunicastipaddresschange)
 
-Служебные функции, работающие с IP-адресами. Дополнительные сведения см. в разделе:
+Служебные функции, работающие с IP-адресами. Дополнительные сведения можно найти в разделе
 
 -   [**ConvertIpv4MaskToLength**](/windows/desktop/api/Netioapi/nf-netioapi-convertipv4masktolength)
 -   [**ConvertLengthToIpv4Mask**](/windows/desktop/api/Netioapi/nf-netioapi-convertlengthtoipv4mask)
 -   [**креатесортедаддресспаирс**](/windows/desktop/api/Netioapi/nf-netioapi-createsortedaddresspairs)
 -   [**парсенетворкстринг**](/windows/desktop/api/Iphlpapi/nf-iphlpapi-parsenetworkstring)
 
-Функции, работающие с протоколом TCP и протоколом UDP для получения таблицы TCP-или IPv4 или таблицы прослушивателя UDP. Дополнительные сведения см. в разделе:
+Функции, работающие с протоколом TCP и протоколом UDP для получения таблицы TCP-или IPv4 или таблицы прослушивателя UDP. Дополнительные сведения можно найти в разделе
 
 -   [**GetTcp6Table**](/windows/desktop/api/Iphlpapi/nf-iphlpapi-gettcp6table)
 -   [**GetTcp6Table2**](/windows/desktop/api/Iphlpapi/nf-iphlpapi-gettcp6table2)
 -   [**GetTcpTable2**](/windows/desktop/api/Iphlpapi/nf-iphlpapi-gettcptable2)
 -   [**GetUdp6Table**](/windows/desktop/api/Iphlpapi/nf-iphlpapi-getudp6table)
 
-Функции, работающие с протоколом TCP для получения расширенной статистики TCP по соединению. Дополнительные сведения см. в разделе:
+Функции, работающие с протоколом TCP для получения расширенной статистики TCP по соединению. Дополнительные сведения можно найти в разделе
 
 -   [**GetPerTcp6ConnectionEStats**](/windows/desktop/api/Iphlpapi/nf-iphlpapi-getpertcp6connectionestats)
 -   [**жетперткпконнектионестатс**](/windows/desktop/api/Iphlpapi/nf-iphlpapi-getpertcpconnectionestats)
 -   [**SetPerTcp6ConnectionEStats**](/windows/desktop/api/Iphlpapi/nf-iphlpapi-setpertcp6connectionestats)
 -   [**сетперткпконнектионестатс**](/windows/desktop/api/Iphlpapi/nf-iphlpapi-setpertcpconnectionestats)
 
-Новые функции, которые работают для управления клиентом Teredo IPv6. Дополнительные сведения см. в разделе:
+Новые функции, которые работают для управления клиентом Teredo IPv6. Дополнительные сведения можно найти в разделе
 
 -   [**жеттередопорт**](/windows/desktop/api/Netioapi/nf-netioapi-getteredoport)
 -   [**нотифитередопортчанже**](/windows/desktop/api/Netioapi/nf-netioapi-notifyteredoportchange)
 -   [**нотифистаблеуникастипаддресстабле**](/windows/desktop/api/Netioapi/nf-netioapi-notifystableunicastipaddresstable)
 
-Служебные функции, которые обеспечивают преобразование между IP-адресами и строковыми представлениями IP-адресов. Дополнительные сведения см. в разделе:
+Служебные функции, которые обеспечивают преобразование между IP-адресами и строковыми представлениями IP-адресов. Дополнительные сведения можно найти в разделе
 
 -   [**RtlIpv4AddressToString**](/windows/desktop/api/ip2string/nf-ip2string-rtlipv4addresstostringa)
 -   [**RtlIpv4AddressToStringEx**](/windows/desktop/api/ip2string/nf-ip2string-rtlipv4addresstostringexw)
@@ -165,7 +165,7 @@ ms.locfileid: "119897624"
 -   [**RtlIpv6StringToAddress**](/windows/desktop/api/ip2string/nf-ip2string-rtlipv6stringtoaddressa)
 -   [**RtlIpv6StringToAddressEx**](/windows/desktop/api/ip2string/nf-ip2string-rtlipv6stringtoaddressexw)
 
-Функции, обеспечивающие постоянное резервирование для последовательного блока портов TCP или UDP на локальном компьютере. Дополнительные сведения см. в разделе:
+Функции, обеспечивающие постоянное резервирование для последовательного блока портов TCP или UDP на локальном компьютере. Дополнительные сведения можно найти в разделе
 
 -   [**креатеперсистентткппортресерватион**](/windows/desktop/api/Iphlpapi/nf-iphlpapi-createpersistenttcpportreservation)
 -   [**креатеперсистентудппортресерватион**](/windows/desktop/api/Iphlpapi/nf-iphlpapi-createpersistentudpportreservation)
@@ -174,7 +174,7 @@ ms.locfileid: "119897624"
 -   [**лукупперсистентткппортресерватион**](/windows/desktop/api/Iphlpapi/nf-iphlpapi-lookuppersistenttcpportreservation)
 -   [**лукупперсистентудппортресерватион**](/windows/desktop/api/Iphlpapi/nf-iphlpapi-lookuppersistentudpportreservation)
 
-## <a name="windows-server-2003"></a>Windows Server 2003
+## <a name="windows-server-2003"></a>Windows Server 2003
 
 в api модуля поддержки IP-адресов для Windows Server 2003 и более поздних версий были добавлены следующие функции:
 

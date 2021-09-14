@@ -4,12 +4,12 @@ description: если вы не знакомы с Windows программиро
 ms.assetid: 466a66db-7681-4fce-9672-07849cd1b096
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b78c24f38f9f2f410c044637ca3aa59d4baa39e9b671b3485c5b85899b69c2fb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 365a9c8509d7cb799bafdfa70c326f1074b64d93
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118387399"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144509"
 ---
 # <a name="windows-coding-conventions"></a>Windows Соглашения о написании кода
 
@@ -123,7 +123,7 @@ PRECT  rect;  // Also the same.
 
 При поиске в Интернете по «венгерской нотации» вы найдете множество мнений о том, хорошо ли Венгерская нотация. Некоторые программисты имеют сильная отличие от венгерской нотации. Другие считают это полезным. Независимо от многих примеров кода на MSDN используется Венгерская нотация, но вам не нужно запоминать префиксы для понимания кода.
 
-## <a name="next"></a>Следующая
+## <a name="next"></a>Следующий
 
 [Работа со строками](working-with-strings.md)
 

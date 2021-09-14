@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 86114a14d3e8fd9a5f8ca01da6bea259fd635f4758101c0bfab54d03d2986fa6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 59da7185900d4b75781916bd6b4a9d70bf39dc85
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117992361"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144185"
 ---
 # <a name="env-switch"></a>/env, параметр
 
@@ -103,7 +103,7 @@ midl /env { win32 | ia64 | amd64 | win64 }
 
 **MIDL/env Win64 filename. idl**
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

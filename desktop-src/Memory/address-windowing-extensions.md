@@ -4,12 +4,12 @@ ms.assetid: 48a29922-8130-4540-86b0-0faa120566a6
 title: Расширения для окон адресов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3c5f0c68e9609834a9065a919d12c23c40521e99ede94feb96889050b6873654
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b8cb311bf9ecef2de334018ca3f9982a31f0b072
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119764414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144469"
 ---
 # <a name="address-windowing-extensions"></a>Расширения для окон адресов
 

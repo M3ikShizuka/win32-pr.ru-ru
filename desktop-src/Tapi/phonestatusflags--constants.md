@@ -4,12 +4,12 @@ ms.assetid: e94da591-49ab-4932-8621-0a62b8a55dd6
 title: Константы PHONESTATUSFLAGS_ (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b42f8e13adfae54c56e44244d04b3961216edb87e29730fec6f689f315380a7e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 969c2553274037797bdf9abea3e8bdbc1cd8d018
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119060652"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145914"
 ---
 # <a name="phonestatusflags_-constants"></a>\_Константы фонестатусфлагс
 
@@ -41,7 +41,7 @@ ms.locfileid: "119060652"
 
 Без расширяемости. Все 32 бит зарезервированы.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Оператор ISA для запросов данных
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3b33c0bc4b78101a4b1e6a38997518fec543b9eb49e42b28cbb2500c321f56ea
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5b4c063c99f50a57c8b22a5bbe7040aa3fe96ba5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118318306"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058412"
 ---
 # <a name="isa-operator-for-data-queries"></a>Оператор ISA для запросов данных
 

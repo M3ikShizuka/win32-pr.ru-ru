@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 4ee60339aa4b25bb5a18659ad22e6a52749e330ea57e52b66ae620091e7a75b6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 01413128f7457049a4383c1148938e2136645337
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119642774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145305"
 ---
 # <a name="win32_comapplicationclasses-class"></a>\_Класс Win32 комаппликатионклассес
 
@@ -40,7 +40,7 @@ class Win32_COMApplicationClasses : CIM_Component
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ комаппликатионклассес** имеет следующие типы членов:
 
@@ -88,7 +88,7 @@ class Win32_COMApplicationClasses : CIM_Component
 
 Класс **Win32 \_ комаппликатионклассес** является производным от [**\_ компонента CIM**](cim-component.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -102,7 +102,7 @@ class Win32_COMApplicationClasses : CIM_Component
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

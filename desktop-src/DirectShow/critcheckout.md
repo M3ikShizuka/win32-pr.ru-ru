@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: fb1289bd89771797be88220f49d8af6f468a11c54e9954c32786e3af72dc1956
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ae5a888e619f6bed9cda203ccd8a197b0b25c001
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119908094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145038"
 ---
 # <a name="critcheckout-function"></a>Функция Критчеккаут
 
@@ -57,7 +57,7 @@ BOOL WINAPI CritCheckOut(
 
 Эта функция является инверсией функции [**критчеккин**](critcheckin.md) . Если **критчеккин** возвращает **значение true**, **критчеккаут** возвращает **значение false** и наоборот.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ BOOL WINAPI CritCheckOut(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

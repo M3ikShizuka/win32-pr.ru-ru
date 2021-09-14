@@ -4,12 +4,12 @@ ms.assetid: 22b1eb48-e1ef-4694-a1dc-b2de326989c8
 title: 'Метод Итмедиаколлектион:: get__NewEnum (Сдпблб. h)'
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 759ac5a36324e80e4f2ef3ab49f7e8617aa5d3f5faecb61ca7f8c2de82827354
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6683ce0a00f0128cb959dd5a2c39e8b06382f65d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119682684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145985"
 ---
 # <a name="itmediacollectionget__newenum-method"></a>Метод Итмедиаколлектион:: Get \_ \_ NewEnum
 
@@ -65,7 +65,7 @@ HRESULT get__NewEnum(
 
 Этот метод является взаимозаменяемым с [**Get \_ енумератиониф**](itmediacollection-get-enumerationif.md) , за исключением того, что он возвращает **IUnknown** вместо [**иенуммедиа**](ienummedia.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,7 +78,7 @@ HRESULT get__NewEnum(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

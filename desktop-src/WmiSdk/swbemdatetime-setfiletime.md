@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 138685ba4d6b63591bf460da3cdba219685f015d54789ca60a52660845b2e41a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ca3e36a284e3700e166e86f6786218bada8f369e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117739463"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066517"
 ---
 # <a name="swbemdatetimesetfiletime-method"></a>SWbemDateTime. Сетфилетиме, метод
 

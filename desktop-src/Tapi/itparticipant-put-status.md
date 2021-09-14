@@ -5,15 +5,15 @@ title: 'ИтпартиЦипант: метод ut_Status:p (Ипмсп. h)'
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 82eadc9832105ecb0cf440b070dbff8b3fe658d1
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105688810"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145953"
 ---
 # <a name="itparticipantput_status-method"></a>ИтпартиЦипант: \_ метод состояния:p UT
 
-\[**Размещение \_ Состояние** недоступно для использования в Windows Vista, Windows Server 2008 и последующих версиях операционной системы. API клиента RTC предоставляет аналогичные функциональные возможности.\]
+\[**Размещение \_ состояние** недоступно для использования в Windows Vista, Windows Server 2008 и последующих версиях операционной системы. API клиента RTC предоставляет аналогичные функциональные возможности.\]
 
 Метод **размещения \_ состояния** задает состояние участника.
 
@@ -65,7 +65,7 @@ HRESULT put_Status(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Включение или отключение состояния участника в потоке позволяет приложению по сути отключать данного участника.
 
@@ -76,7 +76,7 @@ HRESULT put_Status(
 | Требование | Значение |
 |-------------------------|--------------------------------------------------------------------------------------|
 | Версия TAPI<br/> | Требуется TAPI 3,0 или более поздней версии<br/>                                                |
-| Header<br/>       | <dl> <dt>Ипмсп. h</dt> </dl>   |
+| Заголовок<br/>       | <dl> <dt>Ипмсп. h</dt> </dl>   |
 | Библиотека<br/>      | <dl> <dt>UUID. lib</dt> </dl>  |
 | DLL<br/>          | <dl> <dt>Tapi3.dll</dt> </dl> |
 

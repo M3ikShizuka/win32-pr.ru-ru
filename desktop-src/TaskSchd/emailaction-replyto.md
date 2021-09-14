@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b7b3d59d2708736519cd7623f7aeb7c2519d29b4a396d7f6e9503e9174e1274f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: dc7ed1fd84245e4d938d329f0e9773271efec45b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120100294"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066910"
 ---
 # <a name="emailactionreplyto-property"></a>Емаилактион. ReplyTo, свойство
 
@@ -44,7 +44,7 @@ EmailAction.ReplyTo As String
 
 Адрес электронной почты, на который вы хотите ответить.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ EmailAction.ReplyTo As String
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 833e19a6e7b100aac5322a54455c04c263569e33b3422d5957e5eeee15bbd283
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a9d2d35f99a3b3b8dc5b668b8ee9a9f94f0a53dd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118157845"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147933"
 ---
 # <a name="cbaserenderercompleteconnect-method"></a>Кбасерендерер. Комплетеконнект, метод
 
@@ -57,7 +57,7 @@ virtual HRESULT CompleteConnect(
 
 Входной ПИН-код фильтра вызывает этот метод из собственного `CompleteConnect` метода, который вызывается для завершения соединения с ПИН-кодом. (Дополнительные сведения см. в разделе [**кбасепин:: комплетеконнект**](cbasepin-completeconnect.md).) Фильтр вызывает метод [**кбасерендерер:: сетрепаинтстатус**](cbaserenderer-setrepaintstatus.md) , чтобы включить события [**\_ перерисовки EC**](ec-repaint.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ virtual HRESULT CompleteConnect(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

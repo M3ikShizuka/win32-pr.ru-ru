@@ -15,12 +15,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 2117aec6fada67bddce9f07a6c985c73a3dcd93ef217ed7fe77dc46cc5659d26
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b2946f8b1f745c0db123ed33dab312cbbe9d16c9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118991954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058389"
 ---
 # <a name="swbemprivilegeset-object"></a>Объект Свбемпривилежесет
 
@@ -46,20 +46,20 @@ ms.locfileid: "118991954"
 | [**Включить**](swbemprivilegeset-add.md)                 | Добавляет объект [**свбемпривилеже**](swbemprivilege.md) в коллекцию **свбемпривилежесет** с помощью константы [вбемпривилежеенум](/windows/desktop/api/Wbemdisp/ne-wbemdisp-wbemprivilegeenum) .<br/> |
 | [**аддасстринг**](swbemprivilegeset-addasstring.md) | Добавляет объект [**свбемпривилеже**](swbemprivilege.md) в коллекцию **свбемпривилежесет** с помощью строки привилегий.<br/>                                    |
 | [**DeleteAll**](swbemprivilegeset-deleteall.md)     | Удаляет все привилегии из коллекции.<br/>                                                                                                              |
-| [**Компонент**](swbemprivilegeset-item.md)               | Извлекает объект [**свбемпривилеже**](swbemprivilege.md) из коллекции. Это метод по умолчанию для этого объекта.<br/>                                 |
-| [**Отменит**](swbemprivilegeset-remove.md)           | Удаляет объект [**свбемпривилеже**](swbemprivilege.md) из коллекции.<br/>                                                                              |
+| [**Элемент**](swbemprivilegeset-item.md)               | Извлекает объект [**свбемпривилеже**](swbemprivilege.md) из коллекции. Это метод по умолчанию для этого объекта.<br/>                                 |
+| [**Удалить**](swbemprivilegeset-remove.md)           | Удаляет объект [**свбемпривилеже**](swbemprivilege.md) из коллекции.<br/>                                                                              |
 
 
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Объект **свбемпривилежесет** имеет следующие свойства.
 
 
 
-| Свойство                                            | Тип доступа          | Описание                                       |
+| Свойство.                                            | Тип доступа          | Описание                                       |
 |:----------------------------------------------------|:---------------------|:--------------------------------------------------|
 | [**Count**](swbemprivilegeset-count.md)<br/> | Только для чтения<br/> | Количество элементов в коллекции.<br/> |
 

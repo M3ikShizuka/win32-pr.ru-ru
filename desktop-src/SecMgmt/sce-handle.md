@@ -5,11 +5,11 @@ title: SCE_HANDLE (Сцесвк. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 3fef21dbe03d97dfa14537d5df132ba3cb222643
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104144437"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064581"
 ---
 # <a name="sce_handle"></a>\_обработчик SCE
 
@@ -28,9 +28,9 @@ typedef PVOID SCE_HANDLE;
 
 | Требование | Значение |
 |-------------------------------------|-------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                         |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                |
-| Header<br/>                   | <dl> <dt>Сцесвк. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                         |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                |
+| Заголовок<br/>                   | <dl> <dt>Сцесвк. h</dt> </dl> |
 
 
 

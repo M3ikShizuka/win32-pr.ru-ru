@@ -4,12 +4,12 @@ description: При использовании проверки для изуч�
 ms.assetid: 30884e11-cc73-4bb8-9d9e-b9f1b53c4193
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2c52dc54f2c32be3aff3e535427668943cf1ee21423636e3be8c018f6e3257b2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bb341881ee2ea503b1f74643723a1f90c8e5d1d5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117745288"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064100"
 ---
 # <a name="screening-out-unnecessary-objects"></a>Блокировка ненужных объектов
 

@@ -26,12 +26,12 @@ keywords:
 - DDE (платформа динамических данных Exchange), функции упаковки параметров
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 50331a69fac11dbc6f49acdc6f3245f4a8f1da4434774ae8b2931d50f8921e1d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7d38574e9182255e8f6761520aea60575d8affbc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118811983"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058315"
 ---
 # <a name="about-dynamic-data-exchange"></a>Сведения о платформа динамических данных Exchange
 

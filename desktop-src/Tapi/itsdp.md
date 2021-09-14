@@ -4,12 +4,12 @@ ms.assetid: 77c1e302-6290-4eeb-b7c9-462a13b29dcd
 title: Интерфейс Итсдп (Сдпблб. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9bba91e347fbf0de1e1b59a8e6100ccbf26babf707e6d6870d43961cbe006b23
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 401dbe2548375227be2ca024ee75de3054fa6f6f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117945023"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066949"
 ---
 # <a name="itsdp-interface"></a>Интерфейс Итсдп
 
@@ -69,7 +69,7 @@ ms.locfileid: "117945023"
 | Требование | Значение |
 |-------------------------|---------------------------------------------------------------------------------------|
 | Версия TAPI<br/> | Требуется TAPI 3,0 или более поздней версии<br/>                                                 |
-| Header<br/>       | <dl> <dt>Сдпблб. h</dt> </dl>   |
+| Заголовок<br/>       | <dl> <dt>Сдпблб. h</dt> </dl>   |
 | Библиотека<br/>      | <dl> <dt>UUID. lib</dt> </dl>   |
 | DLL<br/>          | <dl> <dt>Sdpblb.dll</dt> </dl> |
 

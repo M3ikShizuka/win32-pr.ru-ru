@@ -4,12 +4,12 @@ description: Winsock 2 поддерживает многоуровневые п�
 ms.assetid: 1c5efd2e-1b42-4c20-a4da-b81a5fc4243c
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0993b7a4003b87cf902b9daccbea4742a0bcd0760642429db79b1f1bb0a22600
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a966d54da0be26f75a074de18abe1b9e080c0c9f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118322395"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066574"
 ---
 # <a name="categorizing-layered-service-providers-and-apps"></a>Категоризация многоуровневых поставщиков услуг и приложений
 

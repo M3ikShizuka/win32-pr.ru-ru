@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Netmon.h
-ms.openlocfilehash: c1c766e29033136954abab69755e1231e610983314cdaa01da3957889af5eb33
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 41acab19f83fdcc88a384c0407b666a7f641a598
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119064284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067635"
 ---
 # <a name="addresstable-structure"></a>Структура АДДРЕССТАБЛЕ
 
@@ -37,7 +37,7 @@ typedef struct _ADDRESSTABLE {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 

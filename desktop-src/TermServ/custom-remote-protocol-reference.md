@@ -8,12 +8,12 @@ keywords:
 - Службы удаленных рабочих столов протокол удаленного рабочего стола (RDP), Справочник по поставщикам
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4b90f4ae544fc502550e85336c1b3851e9aedbe7a90ebb9f1e2b2d331252d302
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 557647b05dc48d3878144f8ab225ddcd77727323
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118131134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066822"
 ---
 # <a name="remote-desktop-protocol-provider-reference"></a>Справочник по поставщику протокол удаленного рабочего стола
 

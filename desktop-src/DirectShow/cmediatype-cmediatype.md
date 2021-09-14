@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 7e6a579cb7ff0210a7c820b3dc22bccb6838ac41196da306431d90a0b5a6e105
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0b688c5b12fa82269ba18ff032abcbe82ebe859a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119566414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147858"
 ---
 # <a name="cmediatypecmediatype-constructor-mtypeh---no-parameters"></a>Кмедиатипе. Кмедиатипе-конструктор (Мтипе. h) — нет параметров
 
@@ -44,14 +44,14 @@ CMediaType();
 
 Конструктор вызывает метод [**кмедиатипе:: инитмедиатипе**](cmediatype-initmediatype.md) для инициализации типа мультимедиа.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование                   | Значение                                                                                                                                                                                           |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Заголовок  | мтипе. h (включает Потоки. h)                                                                                     |
 | Библиотека | Стрмбасе. lib (розничные сборки); Стрмбасд. lib (отладочные сборки) |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

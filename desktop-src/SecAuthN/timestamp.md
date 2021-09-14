@@ -4,12 +4,12 @@ ms.assetid: 0a609b32-dbd7-4905-8990-65ebabcd0668
 title: Метка времени (SSPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e521818c9001213396c0046b92f8f0bd9727dddfeaf99b2e23b652a48f8ff95d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4898e85b0c11f55e5bb0dba2dbdefe2a3b6a2e4e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117786369"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146553"
 ---
 # <a name="timestamp"></a>TimeStamp
 
@@ -30,7 +30,7 @@ typedef SECURITY_INTEGER TimeStamp, *PTimeStamp;
 |-------------------------------------|--------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                                            |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                   |
-| Header<br/>                   | <dl> <dt>SSPI. h (включая Security. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>SSPI. h (включая Security. h)</dt> </dl> |
 
 
 

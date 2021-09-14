@@ -4,12 +4,12 @@ ms.assetid: c2660d77-0265-49d4-bd04-1cddd674b760
 title: Телефон Элементы устройства
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 71c882e7f9ebe279d0ee6622708f8b735b68f4c37a2f93dffe2a870271d556cb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bc5744967dc738a65d7632dc1a1f6126bfbc9887
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119774174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064558"
 ---
 # <a name="phone-device-elements"></a>Телефон Элементы устройства
 

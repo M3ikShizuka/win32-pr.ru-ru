@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 916556bdee83817f512c2d86eef2d768c3f6dbddf06b39408da5c25a2ba10ed2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 82bc5762eea78b3ce73ab3db58e9bb567b051675
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119013672"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143470"
 ---
 # <a name="ref-attribute"></a>ref - атрибут
 
@@ -152,7 +152,7 @@ typedef [ struct | union ]
 [**Контекстный \_ маркер**](context-handle.md)
 </dt> <dt>
 
-[**enum**](enum.md)
+[**перечисления**](enum.md)
 </dt> <dt>
 
 [**первый \_ —**](first-is.md)
@@ -197,7 +197,7 @@ typedef [ struct | union ]
 [**передать \_ как**](transmit-as.md)
 </dt> <dt>
 
-[**наборов**](union.md)
+[**union**](union.md)
 </dt> <dt>
 
 [**однозначно**](unique.md)

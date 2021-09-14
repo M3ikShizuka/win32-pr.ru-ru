@@ -15,12 +15,12 @@ keywords:
 - интерфейсы, IDockProvider
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: adb0afd6a291a9e26c43d1aff957c7b7e9cd8c752040a661551b8eaf5b12b86e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 87381669889ca7dd33811a030a718448f4b79cb5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118115107"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058462"
 ---
 # <a name="dock-control-pattern"></a>Шаблон элемента управления Dock
 
@@ -53,8 +53,8 @@ ms.locfileid: "118115107"
 
 | Обязательные члены                                                | Тип члена | Примечания |
 |-----------------------------------------------------------------|-------------|-------|
-| [**DockPosition**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-idockprovider-get_dockposition)       | Свойство    | Нет  |
-| [**сетдоккпоситион**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-idockprovider-setdockposition) | Метод      | Нет  |
+| [**DockPosition**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-idockprovider-get_dockposition)       | Свойство.    | None  |
+| [**сетдоккпоситион**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-idockprovider-setdockposition) | Метод      | None  |
 
 
 

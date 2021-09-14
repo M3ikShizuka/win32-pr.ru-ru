@@ -4,16 +4,16 @@ description: Константы элемента управления анима
 ms.assetid: f3c40e40-b8ff-4483-bd73-d2d9d2d5a4de
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 46f6b508d2158df4e2aa6c94502cfe4cc23ec6fce3b43630b418c29f5bea8aa9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 12e5163094705c4c49a76f068b9071be2722f1a0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118674052"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145261"
 ---
 # <a name="animation-control-constants"></a>Константы элемента управления анимации
 
-## <a name="in-this-section"></a>В этом разделе
+## <a name="in-this-section"></a>в этом разделе
 
 -   [Стили элементов управления анимацией](animation-control-styles.md)
 

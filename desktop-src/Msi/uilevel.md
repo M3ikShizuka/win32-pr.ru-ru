@@ -4,12 +4,12 @@ ms.assetid: 9fc58026-f140-4218-b44f-50fc6b0ef3e9
 title: Duilevel, свойство
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3d73b9a3353e087abe882b45f0fdc41d13eeabff222266afd8e47100f22c8def
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 83b48ebaeb246f42e552b93c974db92c78e54dbc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120039396"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065283"
 ---
 # <a name="uilevel-property"></a>Duilevel, свойство
 
@@ -28,7 +28,7 @@ ms.locfileid: "120039396"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

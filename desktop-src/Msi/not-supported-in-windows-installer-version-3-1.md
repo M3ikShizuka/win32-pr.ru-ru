@@ -4,12 +4,12 @@ ms.assetid: fbf75dbe-3fa1-424b-83bb-cfd0b179107c
 title: не поддерживается в установщик Windows 3,1
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3b33334133fafa5e37f8bd7dfe4edfd30962c4e605bf2a675661e9d57aca4184
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f3a221d80f56c5737cc5ae92a040a005ae42449e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119145587"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147617"
 ---
 # <a name="not-supported-in-windows-installer-31"></a>не поддерживается в установщик Windows 3,1
 

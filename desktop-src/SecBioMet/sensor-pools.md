@@ -4,12 +4,12 @@ description: Описание трех возможных пулов датчи�
 ms.assetid: d7fd3c39-d719-4cfd-9af0-a87837f3f328
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6d28bd03d84e2558f0fb1ba090440aa2bda62292c51773d54d5094466ba9e494
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 263275af5c7decff37ef70ad3a5396ec562562f4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120035264"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064648"
 ---
 # <a name="sensor-pools"></a>Пулы датчиков
 

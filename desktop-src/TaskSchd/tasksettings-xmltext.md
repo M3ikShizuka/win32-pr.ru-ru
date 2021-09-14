@@ -1,5 +1,5 @@
 ---
-title: TaskSettings.Xml, свойство текста
+title: Тасксеттингс. XmlText, свойство
 description: Для создания скриптов Возвращает или задает определение параметров задачи в формате XML.
 ms.assetid: b3613e41-6e22-49d7-8a15-92f745b3cb03
 keywords:
@@ -16,14 +16,14 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5ba9d13cca4f1b9fd4be01fcbd4e2335df6cbde99e9d70544334a5742879e362
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fae49bd460780132d2165a6a201c1f8b070ba33c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120080274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066862"
 ---
-# <a name="tasksettingsxmltext-property"></a>TaskSettings.Xml, свойство текста
+# <a name="tasksettingsxmltext-property"></a>Тасксеттингс. XmlText, свойство
 
 Для создания скриптов Возвращает или задает определение параметров задачи в формате XML.
 
@@ -42,7 +42,7 @@ TaskSettings.XmlText As String
 
 Определение параметров задачи в формате XML.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ TaskSettings.XmlText As String
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

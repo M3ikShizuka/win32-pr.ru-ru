@@ -4,12 +4,12 @@ description: Простой элемент — это элемент польз�
 ms.assetid: 3f6bd992-4e0a-4dba-b6e9-e70dca77c880
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9676b8bf4198f8be753b3788fcc6defdec2d6a1d8ad3ff3fed2f41da4f256554
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e8f8cb00b19719a4a8779a61f37b079633ada40c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119133647"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064084"
 ---
 # <a name="simple-elements"></a>Простые элементы
 

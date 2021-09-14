@@ -4,12 +4,12 @@ ms.assetid: 359673bf-cc4c-4881-b946-ecdbef4a7ecb
 title: Получение имени файла из маркера файла
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1f905051fdc9c26d16c00f3f1acb2629ae06b8581abb5e5de50944a74e0c6b8d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ee7d0c6fd8ea6839fdbfbe887f7a28b38571013b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118386417"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144325"
 ---
 # <a name="obtaining-a-file-name-from-a-file-handle"></a>Получение имени файла из маркера файла
 

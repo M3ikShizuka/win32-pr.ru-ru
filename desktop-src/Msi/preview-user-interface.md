@@ -4,12 +4,12 @@ ms.assetid: b3d72ba1-1d19-4460-8b9b-94f72214e8b1
 title: Предварительный просмотр пользовательского интерфейса
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 572ab444cc2f6acb6ec426f842318201187336121aa9c2a0557fca8cab94a3ae
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7736c442cdfcb22034326ff459eb89fc28b0c9af
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120074714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147577"
 ---
 # <a name="preview-user-interface"></a>Предварительный просмотр пользовательского интерфейса
 

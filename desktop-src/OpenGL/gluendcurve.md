@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 20b6d8e9871b03286eebc285d2c3ad8834c8c354b196213c985626fc80cd02fc
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 49f6c0c08bf31135ca82e87d2093ef3b57197955
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119489524"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064947"
 ---
 # <a name="gluendcurve-function"></a>Функция Глуендкурве
 
@@ -69,7 +69,7 @@ gluNurbsCurve(nobj, . . ., GL_MAP1_VERTEX_4);
 gluEndCurve(nobj);
 ```
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -83,7 +83,7 @@ gluEndCurve(nobj);
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

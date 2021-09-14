@@ -5,11 +5,11 @@ title: Фильтр рисования AVI
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 44eb62bd686d0604f6a0c4966fa8af4a4ad0d69d
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122987187"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127148106"
 ---
 # <a name="avi-draw-filter"></a>Фильтр рисования AVI
 
@@ -18,7 +18,7 @@ ms.locfileid: "122987187"
 
 
 
-| Метка | Применение |
+| Метка | Значение |
 |--------|-------|
 | Интерфейсы фильтра | <a href="/windows/desktop/api/Strmif/nn-strmif-ibasefilter"><strong>ибасефилтер</strong></a> | 
 | Типы носителей входных закрепления | Основной тип: MEDIATYPE_VideoSubtypes:<br /><ul><li>MEDIASUBTYPE_MJPG</li><li>MEDIASUBTYPE_TVMJ</li><li>MEDIASUBTYPE_WAKE</li><li>MEDIASUBTYPE_CFCC</li><li>MEDIASUBTYPE_IJPG</li><li>MEDIASUBTYPE_Plum</li><li>MEDIASUBTYPE_DVCS</li><li>MEDIASUBTYPE_DVSD</li><li>MEDIASUBTYPE_MDVF</li><li>Тип формата: FORMAT_VideoInfo</li></ul> | 
@@ -36,7 +36,7 @@ ms.locfileid: "122987187"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Поскольку фильтр рисования AVI и [фильтр записи VFW](vfw-capture-filter.md) подключаются к одному и тому же оборудованию, они не могут находиться в одном графе фильтра.
 

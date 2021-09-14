@@ -5,11 +5,11 @@ ms.assetid: 06434b07-7592-4909-8c4e-064382bdbf98
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: f9b5a058ef908b3e83166224863e48113ef966f7
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122466461"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064016"
 ---
 # <a name="deprecated-control-pattern-functions"></a>Устаревшие функции шаблона элемента управления
 
@@ -29,7 +29,7 @@ ms.locfileid: "122466461"
 
 
 
-| Компонент | Описание | 
+| Функция | Описание | 
 |----------|-------------|
 | <a href="/windows/desktop/api/UIAutomationCoreApi/nf-uiautomationcoreapi-dockpattern_setdockposition"><strong>DockPattern_SetDockPosition</strong></a><br /> | <blockquote>[!Note]<br />Эта функция является устаревшей. Вместо этого клиентские приложения должны использовать COM-интерфейсы модели автоматизации пользовательского интерфейса Майкрософт.</blockquote><br /> Закрепляет элемент модели автоматизации пользовательского интерфейса в запрошенном <em>dockPosition</em> в контейнере закрепления.<br /> | 
 | <a href="/windows/desktop/api/UIAutomationCoreApi/nf-uiautomationcoreapi-expandcollapsepattern_collapse"><strong>ExpandCollapsePattern_Collapse</strong></a><br /> | <blockquote>[!Note]<br />Эта функция является устаревшей. Вместо этого клиентские приложения должны использовать интерфейсы COM модели автоматизации пользовательского интерфейса.</blockquote><br /> Скрывает все узлы-потомки, элементы управления или содержимое элемента модели автоматизации пользовательского интерфейса.<br /> | 

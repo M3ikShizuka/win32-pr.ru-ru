@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 392e0bb2940c36b541f63f55dac418312489f231d785f82014ade82c20602fbd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 69b140a2b65d47d563fd88f49d6818efc13613f4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118343606"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066769"
 ---
 # <a name="metadatatype-complex-type"></a>Сложный тип Метадататипе
 
@@ -108,13 +108,13 @@ ms.locfileid: "118343606"
 | Элемент                                                                       | Тип                                                                       | Описание                                                                                                                                                      |
 |-------------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**каналов**](eventmanifestschema-channels-metadatatype-element.md)         | [**чаннеллисттипе**](eventmanifestschema-channellisttype-complextype.md) | Определяет список каналов, к которым поставщики могут регистрировать события. Затем поставщик может импортировать один или несколько каналов в своем манифесте.<br/>               |
-| [**keywords**](eventmanifestschema-keywords-metadatatype-element.md)         | [**кэйвордлисттипе**](eventmanifestschema-keywordlisttype-complextype.md) | Определяет список ключевых слов, которые определяют категорию событий, записываемых поставщиком.<br/>                                                            |
+| [**словами**](eventmanifestschema-keywords-metadatatype-element.md)         | [**кэйвордлисттипе**](eventmanifestschema-keywordlisttype-complextype.md) | Определяет список ключевых слов, которые определяют категорию событий, записываемых поставщиком.<br/>                                                            |
 | [**Выравнивание**](eventmanifestschema-levels-metadatatype-element.md)             | [**левеллисттипе**](eventmanifestschema-levellisttype-complextype.md)     | Определяет список уровней, указывающих серьезность события.<br/>                                                                                       |
 | **message**                                                                   |                                                                            | Определяет строку сообщения.<br/>                                                                                                                             |
 | **мессажетабле**                                                              |                                                                            | Определяет список строк сообщений.<br/>                                                                                                                    |
 | [**намедкуериес**](eventmanifestschema-namedqueries-metadatatype-element.md) | [**намедкуеритипе**](eventmanifestschema-namedquerytype-complextype.md)   | Определяет список именованных запросов, использующих регулярные выражения для выполнения операций поиска и замены в строке сообщения события.<br/>                        |
 | [**коды операций**](eventmanifestschema-opcodes-metadatatype-element.md)           | [**опкоделисттипе**](eventmanifestschema-opcodelisttype-complextype.md)   | Определяет список кодов операций, которые можно использовать для группирования событий в задаче.<br/>                                                                             |
-| **задачи**                                                                     | [**тасклисттипе**](eventmanifestschema-tasklisttype-complextype.md)       | Определяет список задач, которые поставщик может использовать для группирования событий. Как правило, задачи используются для группирования событий для компонента или компонента поставщика.<br/> |
+| **операции**                                                                     | [**тасклисттипе**](eventmanifestschema-tasklisttype-complextype.md)       | Определяет список задач, которые поставщик может использовать для группирования событий. Как правило, задачи используются для группирования событий для компонента или компонента поставщика.<br/> |
 | [**типов**](eventmanifestschema-types-metadatatype-element.md)               | [**типелисттипе**](eventmanifestschema-typelisttype-complextype.md)       | Определяет список типов XML.<br/>                                                                                                                          |
 
 
@@ -129,7 +129,7 @@ ms.locfileid: "118343606"
 | mid     | xs:string                                                         | Не используется.<br/>                                                                               |
 | name    | anyURI                                                            | URI мета файла. <br/>                                                              |
 | символ  | [**ксимболтипе**](eventmanifestschema-csymboltype-simpletype.md) | Символьное имя, создаваемое компилятором сообщений для этой строки сообщения.<br/> |
-| Значение   | [**UInt32Type**](eventmanifestschema-hexint32type-simpletype.md) | Число, используемое в качестве идентификатора сообщения для данного сообщения.<br/>                           |
+| value   | [**UInt32Type**](eventmanifestschema-hexint32type-simpletype.md) | Число, используемое в качестве идентификатора сообщения для данного сообщения.<br/>                           |
 
 
 
@@ -137,7 +137,7 @@ ms.locfileid: "118343606"
 
 Несмотря на то, что можно создать манифест, содержащий раздел метаданных, служба не будет использовать ее. единственными метаданными, распознаваемыми службой, являются метаданные, найденные в файле Winmeta.xml.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

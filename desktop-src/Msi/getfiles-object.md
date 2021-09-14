@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Mergemod.dll
-ms.openlocfilehash: c8e5848b04b5b87a09d43f1705c48c34adc13eb99017b14260f89357226750c8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8a26bb072b0b4a1f048ded76fbd52ffc6d42de62
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120044244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068195"
 ---
 # <a name="getfiles-object"></a>Файл GetObject
 
@@ -37,7 +37,7 @@ ms.locfileid: "120044244"
 
 
 
-| Свойство                                               | Описание                                                                                                                                                     |
+| Свойство.                                               | Описание                                                                                                                                                     |
 |:-------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**модулефилес**](getfiles-modulefiles.md)<br/> | Свойство [**модулефилес**](getfiles-modulefiles.md) возвращает все первичные ключи [таблицы файлов](file-table.md) для текущего открытого модуля.<br/> |
 
@@ -61,7 +61,7 @@ ms.locfileid: "120044244"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

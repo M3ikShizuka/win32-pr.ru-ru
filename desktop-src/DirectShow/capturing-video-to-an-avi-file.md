@@ -4,12 +4,12 @@ ms.assetid: 0f5f4a82-4a2e-4c48-b201-bda641cb8619
 title: Запись видео в файл AVI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2f5ec58c021c5f37fed992959b33965efddb5603798ff756909879d307bca1f5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 86504e9ce149f495e1ea31664f56382340d33887
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119689043"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145097"
 ---
 # <a name="capturing-video-to-an-avi-file"></a>Запись видео в файл AVI
 

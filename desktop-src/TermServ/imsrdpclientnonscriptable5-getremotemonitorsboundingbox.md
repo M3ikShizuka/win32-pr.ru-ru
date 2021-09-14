@@ -18,12 +18,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a47b308bf95389dcf043e87565be365ec69ecc34500ac187ee11a679349f18ab
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 97f67192b78c734359fc6113969eb5eb410e1bf3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118129892"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064485"
 ---
 # <a name="imsrdpclientnonscriptable5getremotemonitorsboundingbox-property"></a>Свойство IMsRdpClientNonScriptable5:: Жетремотемониторсбаундингбокс
 
@@ -59,7 +59,7 @@ HRESULT get_GetRemoteMonitorsBoundingBox(
 
 Все координаты находятся в координатах виртуального экрана, которые находятся относительно левого верхнего угла основного монитора. Если это не основной монитор, некоторые или все из этих значений могут быть отрицательными.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -73,7 +73,7 @@ HRESULT get_GetRemoteMonitorsBoundingBox(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

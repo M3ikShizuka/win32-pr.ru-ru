@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f29bef7eb7778602a256f80cb04e47eae905a245783906c3388b576aecedee18
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: db8f1dc421aa160824a194588711e84f961ea4dd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119419844"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064482"
 ---
 # <a name="wm_wtssession_change-message"></a>\_ \_ Сообщение об изменении втссессион WM
 
@@ -203,7 +203,7 @@ LRESULT CALLBACK WindowProc(
 
 Примеры того, как приложения могут реагировать на это сообщение, включают освобождение или получение ресурсов, связанных с консолью, определение способа рисования экрана или запуск эффектов анимации консоли.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -211,7 +211,7 @@ LRESULT CALLBACK WindowProc(
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                                 |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                                           |
-| Header<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 

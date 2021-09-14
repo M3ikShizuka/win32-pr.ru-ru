@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b5b5f382d7c1db820905b45b924105225c0c5b55a569f85707e4e9f729e59596
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6546a8288160fe80f7df4a7c41ea79a0edc905f4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120000474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066638"
 ---
 # <a name="iwmpdvddomain-property"></a>ИВМПДВД: свойство омаин:d
 
@@ -67,7 +67,7 @@ Public ReadOnly Property domain As System.String
 
 Каждый DVD-диск создан по-другому. Некоторые DVD-диски не содержат домены Фирстплай, Видеоманажермену или Видеотитлесетмену.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -79,7 +79,7 @@ Public ReadOnly Property domain As System.String
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

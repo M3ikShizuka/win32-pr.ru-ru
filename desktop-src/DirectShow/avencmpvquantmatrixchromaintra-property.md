@@ -4,12 +4,12 @@ ms.assetid: 9da6130f-c064-4b6b-b0ab-ba99118fd249
 title: Свойство Авенкмпвкуантматриксчромаинтра (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 180cfe120b1984c5149d8c670a11203b86d8809fbd04b54971a2a690a496ddcb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7253a3064acbff74ce22134a40a52d87c78113a5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118159495"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127148330"
 ---
 # <a name="avencmpvquantmatrixchromaintra-property"></a>Авенкмпвкуантматриксчромаинтра, свойство
 
@@ -29,7 +29,7 @@ ms.locfileid: "118159495"
 
 Значением этого свойства является строка, содержащая 64 8-разрядные коэффициенты, закодированные в виде строки шестнадцатеричных значений (128 символов).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "118159495"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

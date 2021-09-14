@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 6c7fd04622a5cdab8bade32f41b090d8f480db292209d284804b5180134954f4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5894ae98666c9134abd4bce96922a5f28d5919b5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118662350"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145222"
 ---
 # <a name="camschedulegetnextadvisetime-method"></a>Камсчедуле. Жетнекстадвисетиме, метод
 
@@ -44,7 +44,7 @@ REFERENCE_TIME GetNextAdviseTime();
 
 Возвращает время ссылки следующего запроса на выходе или максимальное время, в \_ течение которого запросы не планируются.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: 6b901b73-516d-4f27-b258-3b93a8f9675f
 title: Маски доступа диспетчер ресурсов (WinNT. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 12ede54d5d49533e70aa9cda2d9c4a363d61f1fdbd894108a5b83f2c5e9efc98
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1f0f579a96ed80de100a5cb41cb9c4e9b847a060
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119146487"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144718"
 ---
 # <a name="resource-manager-access-masks"></a>Маски доступа диспетчер ресурсов
 

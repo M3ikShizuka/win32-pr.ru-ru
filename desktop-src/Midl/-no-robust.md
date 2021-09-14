@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3a1078a3eec25d6b6fdf44268ae915c20e7a2a9cf0c07a29730461bd544a7a0e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 90691aede68f8e43ae95a4bd6c6f7fb4e2ecad29
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117808859"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144134"
 ---
 # <a name="no_robust-switch"></a>/но \_ надежный коммутатор
 
@@ -39,7 +39,7 @@ midl /no_robust
 
 **MIDL/но \_ надежность filename. idl**
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

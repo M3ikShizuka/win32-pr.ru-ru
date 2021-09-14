@@ -13,12 +13,12 @@ keywords:
 - Thumb, Сиксумб Files
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: de49bf3a93b5dd3a538fc98c824e274547bf97a883c4255322336c2ba23b54cb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bc9f1e9434a614dbc02e48b63508c7c2c04f553d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117933733"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064324"
 ---
 # <a name="seekthumb-file"></a>Файл Сиксумб
 

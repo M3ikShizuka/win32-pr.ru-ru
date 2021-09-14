@@ -4,12 +4,12 @@ ms.assetid: e8c12a1d-f6a4-4850-814d-6f0a712f8f9a
 title: Сброс System-Buffered данных ввода-вывода на диск
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 44740158ce1a5a2c3449a0fc5b90bc04bb0da525709cf7ee05c8768d10c39460
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0639c5ea909d96a248bb563f1c6a08cd7a526d98
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119068704"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057899"
 ---
 # <a name="flushing-system-buffered-io-data-to-disk"></a>Сброс System-Buffered данных ввода-вывода на диск
 

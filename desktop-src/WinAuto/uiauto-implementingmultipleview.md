@@ -15,12 +15,12 @@ keywords:
 - интерфейсы, IMultipleViewProvider
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4a5848a521da45470854bd860d3ee9c582e18fc84783ca8072ad552fd91a8d1c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d4bc5d1991e99f1338853aac528111d8ec3ca3c2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118115007"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058448"
 ---
 # <a name="multipleview-control-pattern"></a>Шаблон элемента управления Мултиплевиев
 
@@ -51,10 +51,10 @@ ms.locfileid: "118115007"
 
 | Обязательные члены                                                            | Тип члена | Примечания |
 |-----------------------------------------------------------------------------|-------------|-------|
-| [**куррентвиев**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-imultipleviewprovider-get_currentview)             | Свойство    | Нет  |
-| [**жетсуппортедвиевс**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-imultipleviewprovider-getsupportedviews) | Метод      | Нет  |
-| [**жетвиевнаме**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-imultipleviewprovider-getviewname)             | Метод      | Нет  |
-| [**сеткуррентвиев**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-imultipleviewprovider-setcurrentview)       | Метод      | Нет  |
+| [**куррентвиев**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-imultipleviewprovider-get_currentview)             | Свойство.    | Нет  |
+| [**жетсуппортедвиевс**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-imultipleviewprovider-getsupportedviews) | Метод      | None  |
+| [**жетвиевнаме**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-imultipleviewprovider-getviewname)             | Метод      | None  |
+| [**сеткуррентвиев**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-imultipleviewprovider-setcurrentview)       | Метод      | None  |
 
 
 

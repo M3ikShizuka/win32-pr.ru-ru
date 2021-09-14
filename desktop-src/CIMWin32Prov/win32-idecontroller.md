@@ -39,12 +39,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: b87a96cf0bb5445ae89aae885b8024864e688324fd11aa0f86c547025e691f1e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f12404e31be2d3434da53c39c822d85d58bebd63
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120085784"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058147"
 ---
 # <a name="win32_idecontroller-class"></a>\_Класс Win32 идеконтроллер
 
@@ -84,7 +84,7 @@ class Win32_IDEController : CIM_Controller
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ идеконтроллер** имеет следующие типы членов:
 
@@ -106,7 +106,7 @@ class Win32_IDEController : CIM_Controller
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ идеконтроллер** имеет следующие свойства.
 
@@ -862,7 +862,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1575,7 +1575,7 @@ Windows Самонастраивающийся идентификатор уст
 
 Класс **Win32 \_ идеконтроллер** является производным от [**CIM \_ Controller**](cim-controller.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -1589,7 +1589,7 @@ Windows Самонастраивающийся идентификатор уст
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

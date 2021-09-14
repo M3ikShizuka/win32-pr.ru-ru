@@ -4,12 +4,12 @@ ms.assetid: 972a2784-418d-4cb3-b13c-df89b079e94c
 title: Таблица Мсифилехаш
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2fc43c7fd812781057ec0be271ffc370a6b5eb2e3054926e1f969383c0fb390c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 86acb299e5d7f099a8d49affc64810d128e88369
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118944951"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065316"
 ---
 # <a name="msifilehash-table"></a>Таблица Мсифилехаш
 
@@ -23,7 +23,7 @@ Windows Установщик может использовать хэширов�
 
 | Столбец    | Type                               | Ключ | Допускает значения NULL |
 |-----------|------------------------------------|-----|----------|
-| File\_    | [Идентификатор](identifier.md)       | Д   | Нет        |
+| File\_    | [Идентификатор](identifier.md)       | Да   | Нет        |
 | Параметры   | [Integer](integer.md)             | Нет   | Нет        |
 | HashPart1 | [даублеинтежер](doubleinteger.md) | Нет   | Нет        |
 | HashPart2 | [даублеинтежер](doubleinteger.md) | Нет   | Нет        |

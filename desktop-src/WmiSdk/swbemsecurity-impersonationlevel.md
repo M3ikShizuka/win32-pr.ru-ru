@@ -15,12 +15,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: cde6bca09198d6e05f1ae0143ee07d1aedd465df68258303f1d6ca2b4b7699f1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3b996d5920aba91fddf880ee9ddf6bf8081fb39f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119639584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058330"
 ---
 # <a name="swbemsecurityimpersonationlevel-property"></a>Свбемсекурити. Имперсонатионлевел, свойство
 
@@ -87,7 +87,7 @@ Set objinst = GetObject("WinMgmts:{impersonationLevel=impersonate,"& _
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -102,7 +102,7 @@ Set objinst = GetObject("WinMgmts:{impersonationLevel=impersonate,"& _
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

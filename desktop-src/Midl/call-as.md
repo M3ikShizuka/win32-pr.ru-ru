@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fb1e91fb9bc06eb4644209d87b4a941a68bc6b4d58d4dc31010d284e7b0f959c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 519ceabc2714e65bcb87651b74518228245afb5f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117807377"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143986"
 ---
 # <a name="call_as-attribute"></a>вызвать \_ как атрибут
 
@@ -152,7 +152,7 @@ long IFace_f1_Stub ( <remote parameter list> )
     <remote_parameter_list> );
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

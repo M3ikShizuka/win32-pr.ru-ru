@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4ab4a2e29f2837e97535845a3238ddc9d2a736feaf6a5d65d5aebcc1e37fe7eb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2691a357f3669e83163eeb9cda04fd26cd89a918
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119675724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146894"
 ---
 # <a name="glcolor4bv-function"></a>Функция glColor4bv
 
@@ -61,7 +61,7 @@ void WINAPI glColor4bv(
 
 Ни одно из целочисленных значений с плавающей запятой и со знаком не передается в диапазон \[ 0, 1 \] до обновления текущего цвета. Однако компоненты цвета отправляются в этот диапазон до того, как они интерполируются или записаны в буфер цвета.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -75,7 +75,7 @@ void WINAPI glColor4bv(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

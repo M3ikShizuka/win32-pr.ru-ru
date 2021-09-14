@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 2d759cbcf2a9638b54e6194bcac7e7b24254c0d37987995d511fb4ffce85f1ef
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6c389c2ea55ddb15c59fe30e03f392d68aa3b5ac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118954963"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147913"
 ---
 # <a name="cbaserenderergetsampletimes-method"></a>Кбасерендерер. Жетсамплетимес, метод
 
@@ -88,7 +88,7 @@ virtual HRESULT GetSampleTimes(
 
 Этот метод возвращает значение \_ ОК, если в образце нет штампов времени или если фильтр не имеет контрольного времени. В противном случае возвращается значение метода [**кбасерендерер:: шаулддравсампленов**](cbaserenderer-shoulddrawsamplenow.md) . В базовом классе **шаулддравсампленов** всегда возвращает значение S \_ false. Производный класс может переопределить это поведение. Например, если производный класс реализует управление качеством, он может вернуть «E \_ не удалось удалить образец».
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -99,7 +99,7 @@ virtual HRESULT GetSampleTimes(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: d8a2a8b9-2c5d-484c-be09-67eb33de67c0
 title: Сообщение WM_NCPAINT (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6be5fa951d50dbaf8663e34a5d9476ecb62576c203095bed9427dcef44425690
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6f6c2e211f3dc1602821b0197d295f940606c262
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118978004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065906"
 ---
 # <a name="wm_ncpaint-message"></a>\_Сообщение НКПАИНТ WM
 

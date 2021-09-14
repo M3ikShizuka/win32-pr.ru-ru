@@ -6,12 +6,12 @@ keywords:
 - проигрыватель Windows Media Интернет-магазины
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ab2cb1b4d44b1bd3c6289311c6b276de7c75ed1bcd955431796a36d272811942
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: beefd0945f9d1a9ae61e61f8be74beada1695baf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119901383"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064301"
 ---
 # <a name="validation-tests-for-on-boarding-type-2-online-stores"></a>Проверочные тесты для встроенных Интернет-магазинов типа 2
 
@@ -52,7 +52,7 @@ ms.locfileid: "119901383"
 
 
 
-Тестирование
+Тест
 
 Windows XP
 
@@ -370,7 +370,7 @@ Windows 7
     убедитесь, что следующие столбцы отображаются в библиотеке проигрыватель Windows Media (добавьте их, если нет):
 
     -   Исполнитель альбома
-    -   Название
+    -   Заголовок
     -   Название альбома
     -   Поставщик содержимого
     -   Genre

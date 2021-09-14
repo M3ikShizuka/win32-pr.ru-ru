@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Mergemod.dll
-ms.openlocfilehash: e14f1163c16d7b12ea223baa533f3953cd22d88ec6e3cc617f5ffe72adb5075c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d0bdc79fb0087456d035bf732faca384b35b2a9f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119926634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067853"
 ---
 # <a name="mergeextractcab-method"></a>Метод Merge. Екстракткаб
 
@@ -55,7 +55,7 @@ Merge.ExtractCAB(
 
 См. раздел Функция [**екстракткаб**](/windows/win32/api/mergemod/nf-mergemod-imsmmerge-extractcab) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

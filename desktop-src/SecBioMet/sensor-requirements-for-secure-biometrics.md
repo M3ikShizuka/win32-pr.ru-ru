@@ -4,12 +4,12 @@ description: Требования к датчикам для защиты био
 ms.assetid: 6D5709E9-7B6B-4D6C-BF85-C6FB5DF5A7EE
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ba76ee3b114f79d3c60adfa252f59cd2b8f98aa135e50faf93cf5ecf7314ad99
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 82f4e41f8300a124115c2b6cd380f904f216f491
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118911796"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146286"
 ---
 # <a name="sensor-requirements-for-secure-biometrics"></a>Требования к датчикам для защиты биометрических информации
 
@@ -275,9 +275,9 @@ typedef struct _WINBIO_ENGINE_INTERFACE {
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
-Windows 10,
+Windows 10
 
  
 

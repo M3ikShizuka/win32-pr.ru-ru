@@ -4,12 +4,12 @@ description: Подготовка среды разработки
 ms.assetid: 5a3fd27e-ec8f-41eb-9d31-86d6d9f70862
 ms.topic: article
 ms.date: 10/03/2019
-ms.openlocfilehash: 8245326ba0d7862836336cf050eb3abf1873139873bde8b9bab238ff5a738942
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ec42509ea81efce4bb17365d3bf08d36c2a4f415
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119896974"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144558"
 ---
 # <a name="prepare-your-development-environment"></a>Подготовка среды разработки
 
@@ -22,7 +22,7 @@ Windows SDK поддерживает разработку как 32-разряд
 > [!Note]  
 > Windows SDK не поддерживает разработку драйверов оборудования, и эта серия не будет обсуждать разработку драйверов. сведения о создании драйвера оборудования см. в разделе [начало работы с драйверами Windows](/windows-hardware/drivers/gettingstarted/).
 
-## <a name="next"></a>Следующая
+## <a name="next"></a>Следующий
 
 [Windows Соглашения о написании кода](windows-coding-conventions.md)
 

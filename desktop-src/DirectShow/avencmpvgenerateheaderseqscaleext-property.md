@@ -4,12 +4,12 @@ ms.assetid: b4746023-c131-4ac4-a34c-4bf3ef42bd00
 title: Свойство Авенкмпвженератехеадерсекскаликст (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fe28d8a742e7a70434b0a0c21e5b306cc767bfa7e73a9edc596c066ba4de76cc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4045e753d85ba59c6987158023b05e40474a612b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119540854"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127148354"
 ---
 # <a name="avencmpvgenerateheaderseqscaleext-property"></a>Авенкмпвженератехеадерсекскаликст, свойство
 
@@ -29,7 +29,7 @@ ms.locfileid: "119540854"
 
 Если значение является **вариантным \_ true**, кодировщик создает заголовки масштабируемых расширений последовательности.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "119540854"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

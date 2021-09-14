@@ -4,12 +4,12 @@ ms.assetid: a59c552a-21c0-4dd4-9146-88a5f9a22962
 title: Таблица значков
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c00205ede9accf4ae6394a6f00bc6ae6ad54a19c5540159f57498ac5066984ff
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1e8e8e38575dc6f6e6bda10b2c1047f3940f7559
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119894194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067923"
 ---
 # <a name="icon-table"></a>Таблица значков
 
@@ -21,7 +21,7 @@ ms.locfileid: "119894194"
 
 | Столбец | Type                         | Ключ | Допускает значения NULL |
 |--------|------------------------------|-----|----------|
-| Имя   | [Идентификатор](identifier.md) | Д   | Нет        |
+| Имя   | [Идентификатор](identifier.md) | Да   | Нет        |
 | Данные   | [Двоичный](binary.md)         | Нет   | Нет        |
 
 

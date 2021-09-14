@@ -8,11 +8,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: ae7013428b471f0c82483e5bf9de9ac412ab7d5d
-ms.sourcegitcommit: a716ca2a6a22a400f02c6b31699cf4da83ee3619
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "104414244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058477"
 ---
 # <a name="handling-text-related-events"></a>Обработка событий, связанных с текстом
 
@@ -21,7 +21,7 @@ ms.locfileid: "104414244"
 
 Текстовые элементы управления создают событие [**UIA \_ Text \_ текстчанжедевентид**](uiauto-event-ids.md) при каждом изменении текстового содержимого. Они вызывают событие [**UIA \_ Text \_ текстселектиончанжедевентид**](uiauto-event-ids.md) при каждом выделении или снятии текстового содержимого. Дополнительные сведения см. в разделе [Общие сведения о событиях модели автоматизации пользовательского интерфейса](uiauto-eventsoverview.md) и [Подписка на события модели автоматизации пользовательского интерфейса](uiauto-eventsforclients.md).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

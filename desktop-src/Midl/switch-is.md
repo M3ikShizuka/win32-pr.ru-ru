@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1975dcf38a04fc127de199e7cc663c8af41b63e6ce8f92d38be2115316ed0727
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0c52661c4fa1ebce57011f4424901dd1ec18250f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118382845"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143406"
 ---
 # <a name="switch_is-attribute"></a>параметр \_ имеет атрибут
 
@@ -166,7 +166,7 @@ typedef struct _WINNER_TYPE
 [Инкапсулированные объединения](encapsulated-unions.md)
 </dt> <dt>
 
-[**enum**](enum.md)
+[**перечисления**](enum.md)
 </dt> <dt>
 
 [**первый \_ —**](first-is.md)
@@ -199,7 +199,7 @@ typedef struct _WINNER_TYPE
 [**размер \_ равен**](size-is.md)
 </dt> <dt>
 
-[**строка**](string.md)
+[**Строка**](string.md)
 </dt> <dt>
 
 [**struct**](struct.md)
@@ -208,7 +208,7 @@ typedef struct _WINNER_TYPE
 [**Тип коммутатора \_**](switch-type.md)
 </dt> <dt>
 
-[**наборов**](union.md)
+[**union**](union.md)
 </dt> <dt>
 
 [**однозначно**](unique.md)

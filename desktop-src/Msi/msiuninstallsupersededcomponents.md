@@ -4,12 +4,12 @@ ms.assetid: ba9b1b2d-1667-48c8-8f1a-9958a1d170da
 title: МСИУНИНСТАЛЛСУПЕРСЕДЕДКОМПОНЕНТС, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ae30e142167e2d080fa4c74c046625338fbf92fd4476b0339d60f77e321ab54a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fcc930a258d8faebe71480f466f2b097fe1eda68
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118943945"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147629"
 ---
 # <a name="msiuninstallsupersededcomponents-property"></a>МСИУНИНСТАЛЛСУПЕРСЕДЕДКОМПОНЕНТС, свойство
 
@@ -19,7 +19,7 @@ ms.locfileid: "118943945"
 
 **[установщик Windows 4,0 и более ранних версий](not-supported-in-windows-installer-4-0.md):** Не поддерживается. версии, предшествующие установщик Windows 4,5, игнорируют свойство **мсиунинсталлсуперседедкомпонентс** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

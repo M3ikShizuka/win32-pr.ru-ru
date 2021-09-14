@@ -4,12 +4,12 @@ ms.assetid: c292f145-f385-4f18-8f98-e414d86860e2
 title: Top-Down и Bottom-Up DIB
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: adff1d525423ef8590a3656a5e63f7541be180e2dcc5c70307f93298eb9ce991
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9e719bea5923aeccc4a0a92b5f73a253e13d2e12
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118951576"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057943"
 ---
 # <a name="top-down-vs-bottom-up-dibs"></a>Top-Down и Bottom-Up DIB
 

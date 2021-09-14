@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: bb9dad1962cace623a4a52991d3650451a0a6d5f660aad88e46c4fe393ce4e4d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b368f30b04734b2d253a7d5f2aa64f0d61c930e0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118142113"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065597"
 ---
 # <a name="installerlasterrorrecord-method"></a>Метод Installer. Ластерроррекорд
 
@@ -48,14 +48,14 @@ Installer.LastErrorRecord()
 Только следующие назначенные функции создают запись об ошибке:
 
 -   [**Метод Опендатабасе (объект установщика)**](installer-opendatabase.md)
--   [**Фиксация**](database-commit.md)
+-   [**Commit**](database-commit.md)
 -   [**OpenView**](database-openview.md)
 -   [**Импорт**](database-import.md)
 -   [**Экспорт**](database-export.md)
--   [**AutoMerge**](database-merge.md)
+-   [**Объединить**](database-merge.md)
 -   [**Преобразование**](database-generatetransform.md)
 -   [**апплитрансформ**](database-applytransform.md)
--   [**Работать**](view-execute.md)
+-   [**Execute**](view-execute.md)
 -   [**Изменить**](view-modify.md)
 -   [**сетстреам**](record-setstream.md)
 -   [**SummaryInformation**](database-summaryinformation.md)
@@ -103,7 +103,7 @@ End If
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

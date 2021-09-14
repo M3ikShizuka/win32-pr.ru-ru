@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 57682252c36284a89a3fb659c69446902c3d0181cbf82d494b200b5769e087e9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2e189eb1784a4ff24b799c7a4d4482d0f56b20e3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117808282"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144034"
 ---
 # <a name="arrays-attribute"></a>Array, атрибут
 
@@ -124,7 +124,7 @@ typedef [ [type-attr-list] ] union [ tag ]
 
 Массивы в MIDL используют стиль, похожий на, но не точно такой же, как C и C++. Дополнительные сведения см. в разделе [MIDL Arrays](midl-arrays.md).
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -137,7 +137,7 @@ typedef [ [type-attr-list] ] union [ tag ]
 [**Контекстный \_ маркер**](context-handle.md)
 </dt> <dt>
 
-[**enum**](enum.md)
+[**перечисления**](enum.md)
 </dt> <dt>
 
 [**первый \_ —**](first-is.md)
@@ -185,7 +185,7 @@ typedef [ [type-attr-list] ] union [ tag ]
 [**передать \_ как**](transmit-as.md)
 </dt> <dt>
 
-[**наборов**](union.md)
+[**union**](union.md)
 </dt> <dt>
 
 [**однозначно**](unique.md)

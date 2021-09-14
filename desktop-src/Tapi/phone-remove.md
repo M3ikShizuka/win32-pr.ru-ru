@@ -4,12 +4,12 @@ ms.assetid: 7c888976-65da-477a-b5a6-6e78d5f603b1
 title: Сообщение PHONE_REMOVE (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a26be60c55b16d0126d0b3be107a95af17dd490c9329343bb27ac6496403d46d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6ab32ba8b8a8e003c5d87109dd2d0c9dbe98c236
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119773904"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064545"
 ---
 # <a name="phone_remove-message"></a>\_Сообщение для удаления телефона
 
@@ -78,7 +78,7 @@ ms.locfileid: "119773904"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -89,7 +89,7 @@ ms.locfileid: "119773904"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

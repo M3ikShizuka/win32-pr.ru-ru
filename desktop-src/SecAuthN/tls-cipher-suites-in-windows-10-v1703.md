@@ -4,12 +4,12 @@ ms.assetid: 2933DE68-E14B-48F9-8F31-49529BC883D6
 title: комплекты шифров TLS в Windows 10 v1703
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: dfa0b3760006b4f960be99d9d840a62d82dc68adf669d855ea3d6fbb3ea49470
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 19c4090d5d6f25cb9229dd56fd6edc8758c3186b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118916173"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146541"
 ---
 # <a name="tls-cipher-suites-in-windows-10-v1703"></a>комплекты шифров TLS в Windows 10 v1703
 

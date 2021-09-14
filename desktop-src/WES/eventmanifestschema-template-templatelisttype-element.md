@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 9bccc77d13eb07bf771fa61ef6537ad9010e4d8975dbf77389d9a7722eb8b664
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aeba50057fdec03bfea5a03ca164b4c3d8f29593
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120005704"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066759"
 ---
 # <a name="template-templatelisttype-element"></a>Элемент Template (Темплателисттипе)
 
@@ -32,7 +32,7 @@ ms.locfileid: "120005704"
 
 Элемент **шаблона** определяется сложным типом [**темплателисттипе**](eventmanifestschema-templatelisttype-complextype.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ ms.locfileid: "120005704"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

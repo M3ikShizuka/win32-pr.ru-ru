@@ -11,12 +11,12 @@ keywords:
 - Пример подключаемого модуля "Echo DSP", переменные для хранения свойств
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: aa8a1ca4f7e83fe18dabafca6015059dc8ed01deb54ad9f9bc63515ded45c076
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3d252962116ba9c72464273f9c4ea1688b151898
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120001354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064298"
 ---
 # <a name="variables-to-store-properties"></a>Переменные для хранения свойств
 

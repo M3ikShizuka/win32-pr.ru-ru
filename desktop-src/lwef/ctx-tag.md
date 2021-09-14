@@ -4,12 +4,12 @@ description: Тег CTX
 ms.assetid: 96ceaa98-869d-4c51-a419-882cc9d40ae2
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7071994e741cb7dfd1147f163f0d7ef6299ec0dcb9d568ad068251d5a9436809
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f16beae0fd4ccc062969d9aafb4d8747e4c5afe9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119726104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065845"
 ---
 # <a name="ctx-tag"></a>Тег CTX
 

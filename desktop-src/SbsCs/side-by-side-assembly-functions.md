@@ -4,12 +4,12 @@ ms.assetid: 040a4f27-8fe9-4436-9c8a-ff58d1effd10
 title: Параллельные функции сборки
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 01f14e6fd88508845443fcf387975f459cecb365fb708a2c08d971cbbf247032
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 60a9a04851cf7ae34c757ee2a10fdbcabfc80406
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119141857"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067266"
 ---
 # <a name="side-by-side-assembly-functions"></a>Параллельные функции сборки
 

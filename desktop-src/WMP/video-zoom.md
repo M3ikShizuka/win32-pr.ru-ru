@@ -3,7 +3,7 @@ title: ВИДЕО. Zoom
 description: Атрибут Zoom задает процент масштабирования видео.
 ms.assetid: 71c0e5a6-f7c4-46cf-a180-083d2926ba20
 keywords:
-- ВИДЕО. масштаб проигрывателя Windows Media Player
+- проигрыватель Windows Media видео. zoom
 topic_type:
 - apiref
 api_name:
@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 8b989cabcf84244976bda728d12c97697338f742
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105704056"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064263"
 ---
 # <a name="videozoom"></a>ВИДЕО. Zoom
 
@@ -31,7 +31,7 @@ ms.locfileid: "105704056"
 
 Этот атрибут является **числом** для чтения и записи (**длинное**) в диапазоне от 1 до максимального размера, который соответствует ширине и высоте элемента управления видео. Он имеет значение по умолчанию 100.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот атрибут нельзя использовать в сочетании с атрибутом " **полноэкранный** ".
 
@@ -45,7 +45,7 @@ ms.locfileid: "105704056"
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 7,0 или более поздней<br/> |
+| Версия<br/> | проигрыватель Windows Media версии 7,0 или более поздней<br/> |
 
 
 

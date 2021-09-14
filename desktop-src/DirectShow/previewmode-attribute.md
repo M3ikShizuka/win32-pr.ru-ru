@@ -4,12 +4,12 @@ ms.assetid: 5e4f4407-b43e-4b31-8676-1e12b6b70034
 title: Атрибут PreviewMode
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6baed13417539432a3a2958b96b214c3c63ae12f2802586ca220669b1497d91f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6d3b589b279a11b8ec329641ea2522a6a46dfa0e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119748274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144934"
 ---
 # <a name="previewmode-attribute"></a>Атрибут PreviewMode
 
@@ -32,7 +32,7 @@ ms.locfileid: "119748274"
 
 В параметре по умолчанию фреймы удаляются при предварительном просмотре нестандартных эффектов или переходов для синхронизации видео с аудио. В результате видео может выглядеть прерывисто. Если задать для этого атрибута **значение false** , каждый кадр будет отображаться во время предварительного просмотра, что может привести к тому, что видео не будет синхронизировано с аудио. Фреймы никогда не удаляются при записи в файл.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

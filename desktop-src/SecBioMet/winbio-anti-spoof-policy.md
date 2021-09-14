@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 28ade20749b105cc3c7f8a92e0904aff1cea860f9175c8b3c6adb113f273f0fd
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3da8b7811afb1de1ad464675125f125ef0ceab73
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120073254"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064633"
 ---
 # <a name="winbio_anti_spoof_policy-structure"></a>\_ \_ Структура политики антифишинга винбио \_
 
@@ -38,7 +38,7 @@ typedef struct _WINBIO_ANTI_SPOOF_POLICY {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -56,7 +56,7 @@ typedef struct _WINBIO_ANTI_SPOOF_POLICY {
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ typedef struct _WINBIO_ANTI_SPOOF_POLICY {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -1,18 +1,18 @@
 ---
-title: Общие сведения о корневых сигнатурах
+title: Общие сведения о корневых подписях
 description: Корневая подпись настраивается приложением и связывает списки команд с ресурсами, которые требуются шейдеру.
 ms.assetid: 2E649DA2-6CAC-4C2A-A420-D4EC0DD6EA73
 ms.localizationpriority: high
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 85eb5882e4a893c2933c55281f21c49f2d7d50d7
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104548995"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066346"
 ---
-# <a name="root-signatures-overview"></a>Общие сведения о корневых сигнатурах
+# <a name="root-signatures-overview"></a>Общие сведения о корневых подписях
 
 Корневая подпись настраивается приложением и связывает списки команд с ресурсами, которые требуются шейдеру. Список команд Graphics содержит как графическую, так и корневую сигнатуру вычислений. Список команд вычислений будет иметь только одну корневую подпись вычислений. Эти корневые подписи независимы друг от друга.
 
@@ -51,6 +51,6 @@ ms.locfileid: "104548995"
 [Корневые подписи](root-signatures.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

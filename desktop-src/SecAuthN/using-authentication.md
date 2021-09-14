@@ -4,12 +4,12 @@ ms.assetid: eace4146-e1d4-491c-8dfc-a15d99de45cc
 title: Использование проверки подлинности
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 680b49328ba8f313c509b072adc7f7a26bd1af3030a316d854883586b5d8c84c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7a07961741c31f60fbc097653f9b713330ecc2e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118915312"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146485"
 ---
 # <a name="using-authentication"></a>Использование проверки подлинности
 

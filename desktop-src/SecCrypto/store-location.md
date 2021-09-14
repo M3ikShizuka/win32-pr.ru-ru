@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Capicom.dll
 ms.openlocfilehash: 42afe40dffde5a0375928d355508ec75a4076f17
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105649089"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064606"
 ---
 # <a name="storelocation-property"></a>Свойство Store. Location
 
@@ -39,7 +39,7 @@ Store.Location As CAPICOM_STORE_LOCATION
 
 Значение [**\_ \_ расположения CAPICOM Store**](capicom-store-location.md) , представляющее расположение хранилища сертификатов.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значение свойства **Location** совпадает со значением, заданным для параметра *StoreLocation* метода [**Open**](store-open.md) при открытии хранилища.
 
@@ -58,7 +58,7 @@ Store.Location As CAPICOM_STORE_LOCATION
 
 <dl> <dt>
 
-[**Магазин**](store.md)
+[**Хранение**](store.md)
 </dt> </dl>
 
  

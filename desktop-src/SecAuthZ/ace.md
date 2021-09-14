@@ -5,11 +5,11 @@ title: ACE (Winnt. h)
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: afa93490c4cf74ac33e3b15eeb888f011f81aa2b
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122470990"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067196"
 ---
 # <a name="ace"></a>ТУЗ
 
@@ -63,7 +63,7 @@ ms.locfileid: "122470990"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -76,7 +76,7 @@ ms.locfileid: "122470990"
 [**ДОСТУП \_ запрещен \_**](/windows/desktop/api/Winnt/ns-winnt-access_denied_ace)
 </dt> <dt>
 
-[**ACL**](/windows/desktop/api/Winnt/ns-winnt-acl)
+[**СПИСКОМ**](/windows/desktop/api/Winnt/ns-winnt-acl)
 </dt> <dt>
 
 [**\_ACE системного оповещения \_**](/windows/desktop/api/Winnt/ns-winnt-system_alarm_object_ace)

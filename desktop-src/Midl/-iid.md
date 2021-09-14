@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 631a28f1bc5a1a24253c9416104df9941cd8da33
-ms.sourcegitcommit: 57758ecb246c84d65e6e0e4bd5570d9176fa39cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "104411896"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144166"
 ---
 # <a name="iid-switch"></a>/IID, параметр
 
@@ -38,7 +38,7 @@ midl /iid filename
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Параметр **/IID** не влияет на интерфейсы RPC.
 
@@ -64,9 +64,9 @@ midl /iid filename
 [**/Proxy**](-proxy.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

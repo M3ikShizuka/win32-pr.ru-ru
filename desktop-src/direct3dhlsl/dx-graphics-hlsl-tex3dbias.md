@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: f1565f5290955e2fa5aceffd368e0abcbcb99cb4c0035e44db4e8ea6585a170c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 53fb0a196831a9dd9d7f7cbe7c34c56259f9a0e3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119892624"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066185"
 ---
 # <a name="tex3dbias"></a>tex3Dbias
 

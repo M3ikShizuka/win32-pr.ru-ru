@@ -4,12 +4,12 @@ description: Если элемент пользовательского инте
 ms.assetid: 430abeaf-e5ca-48c4-aa35-8d52a8cee2f1
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 701ed721e8259aa3b707fa1d7a6f2e80b9da13a3760b9850edef22b169d772e1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e52543908e89a1cea57c981d60bf7cb2b9fbd1fb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119644924"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145814"
 ---
 # <a name="exposing-a-native-object-model-interface"></a>Предоставление собственного интерфейса объектной модели
 

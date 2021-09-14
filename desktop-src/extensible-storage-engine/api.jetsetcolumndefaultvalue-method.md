@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 643e056acc99aba255b1c94b2d72337ccaf9f7668caf9c937f08dce7f9214ead
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 24fdb3a885e7aa558e1b3db3c4014fc65a28fcde
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118084953"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127058278"
 ---
 # <a name="apijetsetcolumndefaultvalue-method"></a>API. Жетсетколумндефаултвалуе, метод
 
@@ -124,7 +124,7 @@ public static void JetSetColumnDefaultValue(
     
     Параметры значения по умолчанию для столбца.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

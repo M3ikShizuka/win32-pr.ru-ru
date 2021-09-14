@@ -4,12 +4,12 @@ ms.assetid: 8f25c60e-30be-4cc4-b924-b8d6654604d3
 title: Создание Graph повторного сжатия
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0432f51e5309a308b32535993fef04da1762d45f179e1ab3a6826d4c5432b02b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2b8ea604bead34c22c123bbabe5d88e985006a9e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118159115"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147997"
 ---
 # <a name="building-the-recompression-graph"></a>Создание Graph повторного сжатия
 

@@ -4,12 +4,12 @@ ms.assetid: 6fc84944-8050-4000-8856-36558d94e2fd
 title: Создание объекта хранилища политики авторизации в C++
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4be0b39633eb773b84ad16098f24b59cb23e5d9cc234afdfca414e9cba7a640b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 58b50bfa4234f5adaf162b1499f85785a7d65f5a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117782469"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146330"
 ---
 # <a name="creating-an-authorization-policy-store-object-in-c"></a>Создание объекта хранилища политики авторизации в C++
 

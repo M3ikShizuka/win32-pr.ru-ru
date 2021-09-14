@@ -12,12 +12,12 @@ api_name:
 api_type:
 - Schema
 api_location: ''
-ms.openlocfilehash: dfc5f3ed15b3845c6bdf50976ec492a2c829d6c1e27886e528a4c356cb652bf6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7c928d800a056f2504bdf37af6c6f351014dec8c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117984640"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147053"
 ---
 # <a name="name-wlanpolicy-element"></a>Элемент Name (Вланполици)
 
@@ -46,7 +46,7 @@ ms.locfileid: "117984640"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 5051cc46-837a-4446-a54c-4bd4081a424c
 title: ИНСТАЛЛЛЕВЕЛ, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2e349e8d92a2c480866b04a1ca57885ffa1cdb230d8346b357318fa239ead72a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ebc0616fdf49e2c713c65017a202320fa6ea9622
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118629963"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065502"
 ---
 # <a name="installlevel-property"></a>ИНСТАЛЛЛЕВЕЛ, свойство
 

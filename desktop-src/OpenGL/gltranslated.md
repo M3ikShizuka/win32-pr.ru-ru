@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 705c8dd0635294b066897db99c0770b5f6622c75
-ms.sourcegitcommit: 3bdf30edb314e0fcd17dc4ddbc70e4ec7d3596e6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "105684728"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064956"
 ---
 # <a name="gltranslated-function"></a>Функция Глтранслатед
 
@@ -56,7 +56,7 @@ void WINAPI glTranslated(
 
 </dd> <dt>
 
-*гармошкой* 
+*z* 
 </dt> <dd>
 
 Координата *z* вектора перевода.
@@ -67,7 +67,7 @@ void WINAPI glTranslated(
 
 Эта функция не возвращает значение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Функция **глтранслатед** создает перевод, указанный в (*x*, *y*, *z*). Вектор перевода используется для расчета матрицы перевода 4x4:
 

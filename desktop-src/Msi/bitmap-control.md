@@ -4,12 +4,12 @@ ms.assetid: 4b511d8a-1819-4a9b-a942-dc32fade75c6
 title: Элемент управления "точечный рисунок"
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f677a7745d3920d5fee44cd64489f9f2c69f8cdb1fb697a0020046a92583e569
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 058b67d52266906735719976bf7311b4f562b474
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120045234"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142610"
 ---
 # <a name="bitmap-control"></a>Элемент управления "точечный рисунок"
 

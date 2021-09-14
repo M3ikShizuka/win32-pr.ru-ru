@@ -5,15 +5,15 @@ title: 'Метод ИтпартиЦипант:: get_MediaTypes (Ипмсп. h)'
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: e464295f58d72e0b905387f188dc2cf6da9ad609
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105674841"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145962"
 ---
 # <a name="itparticipantget_mediatypes-method"></a>Метод ИтпартиЦипант:: Get \_ медиатипес
 
-\[**получить \_ Медиатипес** недоступен для использования в Windows Vista, Windows Server 2008 и последующих версиях операционной системы. API клиента RTC предоставляет аналогичные функциональные возможности.\]
+\[**получить \_ медиатипес** недоступен для использования в Windows Vista, Windows Server 2008 и последующих версиях операционной системы. API клиента RTC предоставляет аналогичные функциональные возможности.\]
 
 Метод **Get \_ медиатипес** получает [**типы мультимедиа**](tapimediatype--constants.md) , связанные с участником.
 
@@ -62,7 +62,7 @@ HRESULT get_MediaTypes(
 | Требование | Значение |
 |-------------------------|--------------------------------------------------------------------------------------|
 | Версия TAPI<br/> | Требуется TAPI 3,0 или более поздней версии<br/>                                                |
-| Header<br/>       | <dl> <dt>Ипмсп. h</dt> </dl>   |
+| Заголовок<br/>       | <dl> <dt>Ипмсп. h</dt> </dl>   |
 | Библиотека<br/>      | <dl> <dt>UUID. lib</dt> </dl>  |
 | DLL<br/>          | <dl> <dt>Tapi3.dll</dt> </dl> |
 

@@ -4,12 +4,12 @@ ms.assetid: af9a749d-9ed4-48d0-a5f0-497be0435e34
 title: Комплекты шифров TLS
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0d002de6df85f3057e9d4494ef11da963e27785f7229cce46dc298a55edbf329
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a113d72306b77b0d2c870b309cffb83b9d44fa5e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118916062"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146514"
 ---
 # <a name="tls-cipher-suites"></a>Комплекты шифров TLS
 

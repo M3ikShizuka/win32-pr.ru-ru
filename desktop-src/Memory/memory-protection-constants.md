@@ -5,12 +5,12 @@ title: Константы защиты памяти (WinNT. h)
 ms.topic: reference
 ms.custom: snippet-project
 ms.date: 07/27/2020
-ms.openlocfilehash: 187e8e1f4e137823451771309c9cce19db2e7fbd9c5b57597b51cfc58ca61297
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 641fab68024d9db96f50327f7c78d51f3f9bca01
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119067694"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144330"
 ---
 # <a name="memory-protection-constants"></a>Константы защиты памяти
 
@@ -91,7 +91,7 @@ STDMETHODIMP CExtBuffer::FInit
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -103,7 +103,7 @@ STDMETHODIMP CExtBuffer::FInit
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -1,19 +1,19 @@
 ---
 title: Пример диалогового окна "Открыть"
-description: Пример Shapes, который мы использовали, немного надуманный. Давайте перейдем к COM-объекту, который можно использовать в реальной программе Windows в диалоговом окне Открыть.
+description: Пример Shapes, который мы использовали, немного надуманный. давайте перейдем к COM-объекту, который можно использовать в реальной Windows программе открыть диалоговое окно.
 ms.assetid: f426cf83-ed24-4eeb-bc28-b5871b824525
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: d896c5928c5bcf5e7dae7835d011ddf0f1fbd6e6
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "104412927"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144634"
 ---
 # <a name="example-the-open-dialog-box"></a>Пример. диалоговое окно "Открыть"
 
-`Shapes`Пример, который мы использовали, немного надуманный. Давайте перейдем к COM-объекту, который можно использовать в реальной программе Windows: диалоговое окно **Открыть** .
+`Shapes`Пример, который мы использовали, немного надуманный. давайте вернемся к COM-объекту, который можно использовать в реальной Windows программе: диалоговое окно **открыть** .
 
 ![снимок экрана, показывающий диалоговое окно "Открыть"](images/fileopen01.png)
 
@@ -86,17 +86,17 @@ int WINAPI wWinMain(HINSTANCE hInstance, HINSTANCE, PWSTR pCmdLine, int nCmdShow
 
 В этом примере показаны оба вида создания объектов: универсальная функция [**CoCreateInstance**](/windows/desktop/api/combaseapi/nf-combaseapi-cocreateinstance) и метод ([**result**](/windows/desktop/api/shobjidl_core/nf-shobjidl_core-ifiledialog-getresult)), характерный для объекта диалогового окна общих элементов.
 
-## <a name="next"></a>Следующая
+## <a name="next"></a>Следующий
 
 [Управление жизненным циклом объекта](managing-the-lifetime-of-an-object.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Открыть образец диалогового окна](open-dialog-box-sample.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

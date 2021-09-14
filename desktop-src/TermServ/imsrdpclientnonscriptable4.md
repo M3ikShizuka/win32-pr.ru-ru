@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a13f8c03bcb9570d6afa3cca94092d34ec739b25f4a3e4ac33a84ac6afc7a37b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: aedea56733a2a98db4b966bd91d9337e38e61d0d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119990164"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064494"
 ---
 # <a name="imsrdpclientnonscriptable4-interface"></a>Интерфейс IMsRdpClientNonScriptable4
 
@@ -39,7 +39,7 @@ ms.locfileid: "119990164"
 
 
 
-| Свойство                                                                                                         | Тип доступа           | Описание                                                                                                                                                                                              |
+| Свойство.                                                                                                         | Тип доступа           | Описание                                                                                                                                                                                              |
 |:-----------------------------------------------------------------------------------------------------------------|:----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**алловкредентиалсавинг**](imsrdpclientnonscriptable4-allowcredentialsaving.md)<br/>                     | Чтение/запись<br/> | Указывает, отображает ли диалоговое окно учетные данные флажок для включения сохранения учетных данных.<br/>                                                                                        |
 | [**лаунчедвиаклиентшеллинтерфаце**](imsrdpclientnonscriptable4-launchedviaclientshellinterface.md)<br/> | Чтение/запись<br/> | Указывает, запустил ли пользователь клиентский элемент управления с помощью интерфейса Веб-доступ удаленных рабочих столов.<br/>                                                                                                  |
@@ -54,7 +54,7 @@ ms.locfileid: "119990164"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -69,7 +69,7 @@ ms.locfileid: "119990164"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

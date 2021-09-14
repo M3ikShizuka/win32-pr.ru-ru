@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Npptools.dll
-ms.openlocfilehash: 14d9ca14d027efc1540f5a5d2ae78e948da68dd59247252989b617d07229bb42
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d8f504d76d43b8a398947f435f7bd488678ea394
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120074414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127260387"
 ---
 # <a name="selectnppblobfromtable-function"></a>Функция Селектнппблобфромтабле
 
@@ -76,7 +76,7 @@ DWORD SelectNPPBlobFromTable(
 
 Чтобы узнать о различных способах выбора сетевых интерфейсов, см. раздел [Выбор сетевой карты](selecting-a-network-interface-card.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -90,7 +90,7 @@ DWORD SelectNPPBlobFromTable(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

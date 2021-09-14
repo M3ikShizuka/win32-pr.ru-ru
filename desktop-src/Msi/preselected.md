@@ -4,12 +4,12 @@ ms.assetid: 2bbab8b9-084a-4515-904c-d556d183d06e
 title: Предвыбранное свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a85f5c3248002fec776e45e9d7ad37550d3e16d7a5d76b098948b571b8c9c546
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 369a6d5fe7db99fab0032ee933afdb54bdb87efc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120042324"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147581"
 ---
 # <a name="preselected-property"></a>Предвыбранное свойство
 

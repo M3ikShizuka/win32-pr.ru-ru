@@ -9,12 +9,12 @@ keywords:
 - Справка по программированию, введите 1 Интернет-магазины
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9ae0032be2b02c22b95353dd3a0953fd50ba255b650ef8b35260216c0d20d9ba
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cea04cb188a68c85173b5b1682235b6964840d46
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118834243"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066710"
 ---
 # <a name="programming-guide-for-type-1-online-stores"></a>Справка по программированию для Интернет-магазинов типа 1
 

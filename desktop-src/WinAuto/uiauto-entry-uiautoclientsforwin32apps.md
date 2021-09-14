@@ -4,12 +4,12 @@ description: В этом разделе описываются интерфей�
 ms.assetid: f73acd55-2276-493a-93f7-35367ad8b3d9
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b94f8e5eabf890674fcaeb5329db1bafb8bc0d03dcec44b8e0f373da00a134ab
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 21c0af5dea08921f7e205bb5a8507ddc515b12c2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119133407"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064000"
 ---
 # <a name="ui-automation-clients"></a>Клиенты автоматизации пользовательского интерфейса
 

@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 310094a0b41381d729db3c5e5ef2f530a93b7da88c4a3116df8440e4ad3830c8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4cfb65dd20de506a8f303121b23668e2fbf14dc4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117930226"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064209"
 ---
 # <a name="iwmpcontrols2step-method"></a>Метод IWMPControls2:: Step
 
@@ -80,7 +80,7 @@ Implements IWMPControls2.step
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: bf59ec6b-ac24-4a0b-9326-aea181b7539b
 title: Атрибут элемента управления Лефтскролл
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9e3bfbfd0ce92e337b7de3504847c39a3b2250562f05f18280a8f46916909fd0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 99505e66f6f49b0a148b80a96d68bbef70d0f2b1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120043254"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065439"
 ---
 # <a name="leftscroll-control-attribute"></a>Атрибут элемента управления Лефтскролл
 

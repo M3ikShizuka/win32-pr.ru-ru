@@ -4,12 +4,12 @@ ms.assetid: 32f4f971-8e42-46b0-96e4-b3505abd2314
 title: Мсинетассемблисуппорт, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e2d135fcc9eb301d3624586318fdc0d5dbbc534c5771ee89d4ae625af78b0782
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1eebe81bbde8bb7c97fe2f9a535d0bd9ac82ebec
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118944907"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067831"
 ---
 # <a name="msinetassemblysupport-property"></a>Мсинетассемблисуппорт, свойство
 

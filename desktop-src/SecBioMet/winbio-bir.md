@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: beb9e82a27717b33bcd0e06f5cd5bc23a3c43bc3a67cf70068f1a9eeb31b08bd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e422bbe59414d75541127b41e5e2cc1829adaaa7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118911097"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064619"
 ---
 # <a name="winbio_bir-structure"></a>\_Структура Бир винбио
 
@@ -39,7 +39,7 @@ typedef struct _WINBIO_BIR {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -79,7 +79,7 @@ typedef struct _WINBIO_BIR {
 
 Если эта структура содержит значение *стандарддатаблокк* , то параметру *Type* заголовка, указанного в параметре *хеадерблокк* , должен быть задан **\_ \_ \_ \_ тип винбио ANSI 381**. это единственный стандартный формат данных, поддерживаемый текущей версией биометрическая платформа Windows.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -87,7 +87,7 @@ typedef struct _WINBIO_BIR {
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                                                    |
 | Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/>                                                       |
-| Header<br/>                   | <dl> <dt>Винбио \_ types. h (include винбио. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Винбио \_ types. h (include винбио. h)</dt> </dl> |
 
 
 

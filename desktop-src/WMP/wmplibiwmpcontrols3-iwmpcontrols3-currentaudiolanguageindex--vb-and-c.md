@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b1c5e17c40908dbc76c61fe60c1b3d885b709d7b1e9282136957e0617ae52ea7
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f4fb36eea4038322cacd7f233892151ab77e5eea
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119734994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064206"
 ---
 # <a name="iwmpcontrols3currentaudiolanguageindex-property"></a>Свойство IWMPControls3:: Куррентаудиолангуажеиндекс
 
@@ -54,7 +54,7 @@ Public Property currentAudioLanguageIndex As System.Int32
 
 Используйте свойство **аудиолангуажекаунт** , чтобы получить количество поддерживаемых аудио языков.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -66,7 +66,7 @@ Public Property currentAudioLanguageIndex As System.Int32
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

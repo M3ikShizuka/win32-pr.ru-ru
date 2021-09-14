@@ -3,30 +3,30 @@ title: Атрибуты элемента Радио
 description: Атрибуты элемента Радио
 ms.assetid: a36b6867-ab40-4fce-b3d0-149d53a9b87b
 keywords:
-- Проигрыватель Windows Media, атрибуты элемента Радио
-- Проигрыватель Windows Media Mobile, атрибуты элемента Радио
-- Объектная модель проигрывателя Windows Media, атрибуты элемента Радио
+- проигрыватель Windows Media, атрибуты элемента радио
+- проигрыватель Windows Media Мобильные, атрибуты элементов Радио
+- объектная модель проигрыватель Windows Media, атрибуты элемента радио
 - Объектная модель, атрибуты элемента Radio
-- Элемент управления ActiveX, атрибуты элемента Radio
-- Элемент управления ActiveX проигрывателя Windows Media, атрибуты элемента Радио
-- Элемент управления мобильными устройствами ActiveX проигрывателя Windows Media, атрибуты элемента Радио
+- ActiveX элемент управления, атрибуты элемента радио
+- проигрыватель Windows Media ActiveX элемент управления, атрибуты элемента радио
+- проигрыватель Windows Media элемент управления мобильными ActiveXми, атрибуты элемента радио
 - Справочник по объектной модели, атрибутам элементов Радио
 - атрибуты, элементы Радио
 - атрибуты элемента Радио
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 81ad5326d87c4a1a75a9adf7d2e49dbd38319fe1
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103887912"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064409"
 ---
 # <a name="radio-item-attributes"></a>Атрибуты элемента Радио
 
 Для элемента переключателя в библиотеке доступны следующие атрибуты.
 
-**Примечание** . Атрибуты элемента радио поддерживаются в серии проигрывателя Windows Media 9. Проигрыватель Windows Media 10 или более поздней версии не поддерживает эти атрибуты.
+**Примечание** . атрибуты элемента радио поддерживаются в серии проигрыватель Windows Media 9. проигрыватель Windows Media 10 или более поздней версии не поддерживает эти атрибуты.
 
 -   [Абстрактный атрибут](abstract-attribute.md)
 -   [Атрибут Аккуиситионтиме](acquisitiontime-attribute.md)
@@ -46,16 +46,16 @@ ms.locfileid: "103887912"
 -   [Атрибут WM/Медиакласссекондарид](wm-mediaclasssecondaryid-attribute.md)
 -   [Атрибут WM/provider](wm-provider-attribute.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [**Ссылка на атрибут**](attribute-reference.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

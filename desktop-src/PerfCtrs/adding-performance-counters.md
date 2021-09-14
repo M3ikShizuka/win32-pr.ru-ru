@@ -4,12 +4,12 @@ ms.assetid: 016386f6-4675-409e-8446-599e4ff96109
 title: Добавление счетчиков производительности
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4aaf66d6a0e2f0c98ad0e9fe3cc66069509d4c2391ab74e4ecaa17d6780f4561
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8660af9406de4dedec3ecbd76169a23b342aa7d2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120034004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067369"
 ---
 # <a name="adding-performance-counters"></a>Добавление счетчиков производительности
 

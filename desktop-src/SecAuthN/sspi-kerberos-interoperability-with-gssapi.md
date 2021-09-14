@@ -4,12 +4,12 @@ ms.assetid: 3ab29ee9-42d8-498b-b507-13f8efa0b0e2
 title: Взаимодействие SSPI/Kerberos с GSSAPI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5907c79fbf4ef53a40b9dc2198715f216794de5634c60c66fe3d767bfe4af026
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6f9efaae6b2433d76dff290d57e27e893885692a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118916831"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146613"
 ---
 # <a name="sspikerberos-interoperability-with-gssapi"></a>Взаимодействие SSPI/Kerberos с GSSAPI
 

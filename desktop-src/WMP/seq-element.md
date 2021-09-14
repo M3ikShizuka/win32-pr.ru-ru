@@ -3,7 +3,7 @@ title: Seq, элемент
 description: Элемент seq содержит элементы, которые определяют статический список воспроизведения или элементы, определяющие интеллектуальный список воспроизведения.
 ms.assetid: 849f7b38-25f2-4708-a83c-e651812a1a72
 keywords:
-- Seq, элемент Windows Media Player
+- seq, элемент проигрыватель Windows Media
 topic_type:
 - apiref
 api_name:
@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: b08b3f4dfa448e48f3a9d2472c6ddb46a4d4dfaf
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105648047"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127064321"
 ---
 # <a name="seq-element"></a>Seq, элемент
 
@@ -46,7 +46,7 @@ ms.locfileid: "105648047"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если элемент **Seq** содержит только элементы **мультимедиа** , которые ссылаются на определенные элементы мультимедиа, список воспроизведения считается статическим. Если элемент **Seq** содержит элемент **смартплайлист** , он считается динамическим «интеллектуальным» списком воспроизведения.
 
@@ -72,7 +72,7 @@ ms.locfileid: "105648047"
 
 | Требование | Значение |
 |--------------------|----------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media 9 Series или более поздней версии.<br/> |
+| Версия<br/> | проигрыватель Windows Media 9 Series или более поздней версии.<br/> |
 
 
 
@@ -89,7 +89,7 @@ ms.locfileid: "105648047"
 [**Смартплайлист, элемент**](smartplaylist-element.md)
 </dt> <dt>
 
-[**Справочник по элементам списка воспроизведения Windows Media**](windows-media-playlist-elements-reference.md)
+[**Windows Справочник по элементам списка воспроизведения мультимедиа**](windows-media-playlist-elements-reference.md)
 </dt> </dl>
 
  

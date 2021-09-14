@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 1059684d2c1905a7894294248f44f9ee97521d1e27ebc3be4a58d832603c642e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c5bcc3666200630575cacfdebac769f25545a077
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118403066"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127147873"
 ---
 # <a name="cbaserendererm_binreceive-member"></a>Элемент Кбасерендерер:: m \_ бинрецеиве
 

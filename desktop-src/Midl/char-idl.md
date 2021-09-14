@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 1eab719f6f8ea6e21ccc5b389b12a66b617d5773
-ms.sourcegitcommit: 57758ecb246c84d65e6e0e4bd5570d9176fa39cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "103889828"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143978"
 ---
 # <a name="char-attribute"></a>char, атрибут
 
@@ -38,7 +38,7 @@ char identifier-name;
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Ключевое слово **char** определяет элемент данных с 8 битами. Для компилятора MIDL **символ** по умолчанию не подписан и является синонимом [**неподписанного**](unsigned.md) **char**.
 
@@ -55,7 +55,7 @@ char identifier-name;
 [Базовые типы MIDL](midl-base-types.md)
 </dt> <dt>
 
-[**byte**](byte.md)
+[**двухбайтовых**](byte.md)
 </dt> <dt>
 
 [**/Char**](-char.md)
@@ -85,9 +85,9 @@ char identifier-name;
 [**WCHAR \_ t**](wchar-t.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

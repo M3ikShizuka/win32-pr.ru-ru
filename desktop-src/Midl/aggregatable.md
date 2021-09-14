@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 5091815cf38060c30b82aa33fd05ad6be9d6c390
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "104337084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127144057"
 ---
 # <a name="aggregatable-attribute"></a>aggregatable - атрибут
 
@@ -59,7 +59,7 @@ coclass coclass-name
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Используйте **\[ \] статистический** атрибут в операторе [**coclass**](coclass.md) , чтобы пользователи могли понять, что класс поддерживает агрегирование. То есть класс позволяет предоставлять его интерфейсы классом контейнера, как если бы эти интерфейсы были собственными интерфейсами контейнера.
 
@@ -95,6 +95,6 @@ coclass Form
 [Синтаксис файла ODL](/previous-versions/windows/desktop/automat/odl-file-syntax)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

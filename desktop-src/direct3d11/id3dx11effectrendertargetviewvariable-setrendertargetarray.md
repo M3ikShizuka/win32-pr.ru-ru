@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 33259ba97979130968ad67b3609f31d6549e6a62449d3bcadd80bb52cb3d8593
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d6ff8a1931e95df4fd78d67a3a71d53150875400
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118534150"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127145637"
 ---
 # <a name="id3dx11effectrendertargetviewvariablesetrendertargetarray-method"></a>Метод ID3DX11EffectRenderTargetViewVariable:: Сетрендертаржетаррай
 
@@ -85,7 +85,7 @@ HRESULT SetRenderTargetArray(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -96,7 +96,7 @@ HRESULT SetRenderTargetArray(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
