@@ -4,12 +4,12 @@ ms.assetid: 3f39ad5d-5539-48cc-8369-bd4d3127fbdd
 title: Действие Исолатекомпонентс
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2919a026fb8243d7f2f73bc856390865ea3bed19e228da780e39f9dce68bc3f2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 19fe36f8c30e67591662ca2fce6c0b0ac2150ebb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118629737"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065460"
 ---
 # <a name="isolatecomponents-action"></a>Действие Исолатекомпонентс
 

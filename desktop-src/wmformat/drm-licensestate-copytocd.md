@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 5e147e9435c7d9028b25a688a87515893340d685
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "103791899"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346159"
 ---
 # <a name="drm_licensestate_copytocd"></a>\_Лиценсестате \_ копитокд DRM
 
@@ -31,7 +31,7 @@ g \_ всзвмдрм \_ лиценсестате \_ копитокд
 
 **\_ \_ двоичный тип ВМТ**
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это свойство только для чтения, которое извлекается с помощью [**ивмдрмреадер:: жетдрмпроперти**](/previous-versions/windows/desktop/api/Wmsdkidl/nf-wmsdkidl-iwmdrmreader-getdrmproperty).
 
@@ -42,6 +42,6 @@ g \_ всзвмдрм \_ лиценсестате \_ копитокд
 [**Свойства DRM**](drm-properties.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

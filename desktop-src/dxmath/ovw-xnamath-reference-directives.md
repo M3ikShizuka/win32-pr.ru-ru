@@ -4,12 +4,12 @@ ms.assetid: c1746b7b-7e7e-2453-77eb-17f859a38fe2
 title: Директивы компилятора библиотеки Директксмас
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 261b4d7dec2c9c3fda7413c0559ad95b7b6a46d31ad2f273c04c8e2bd4c30054
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: da7419afbab80d35feea135a25f7c5892b137a08
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119118214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347354"
 ---
 # <a name="directxmath-library-compiler-directives"></a>Директивы компилятора библиотеки Директксмас
 

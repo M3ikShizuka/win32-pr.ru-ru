@@ -4,12 +4,12 @@ description: Событие Листенстарт
 ms.assetid: 59feacd6-0b9f-4bf4-b544-48de49384312
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b0017b628af3ca266058de74508d379bd665c94f94c64207f4d7bef5487a0f4b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 19b8cc19ad727f8e9c4606bbbfba7b2e03e7d638
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118976114"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346655"
 ---
 # <a name="listenstart-event"></a>Событие Листенстарт
 
@@ -49,7 +49,7 @@ ms.locfileid: "118976114"
 
 Событие возвращает символ для клиентов, которые в настоящий момент загрузили этот символ. Все остальные клиенты получают символ null (пустая строка).
 
-### <a name="see-also"></a>См. также
+### <a name="see-also"></a>См. также:
 
 [**Событие листенкомплете**](listencomplete-event.md), [ **метод Listen**](listen-method.md)
 

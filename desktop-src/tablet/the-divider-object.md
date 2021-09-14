@@ -4,12 +4,12 @@ ms.assetid: 979b5a8d-9311-478e-976b-9b3c27a199bc
 title: Объект разделителя
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b8e65757021b6374f823f88d02c441bdceb8536cb2f68fdd37eaa7cde099895f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 11bc1961100544de6bae9de7fabe547344690d74
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119819784"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346283"
 ---
 # <a name="the-divider-object"></a>Объект разделителя
 

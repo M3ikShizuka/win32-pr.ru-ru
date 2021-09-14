@@ -4,12 +4,12 @@ description: Макет указателя описывает указатели
 ms.assetid: 1a4984c1-97b9-4e95-a17e-851b67fa94a3
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6616cc7d1000b042c6039b2abf3f79d4900cd0e5fadac748881666610b139c57
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f26a6639b0c4b56c911be1e688995aaf3fb9d2d8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120019196"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146749"
 ---
 # <a name="pointer-layout"></a>Макет указателя
 

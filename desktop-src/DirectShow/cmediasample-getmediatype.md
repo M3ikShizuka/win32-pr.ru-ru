@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: ee7b5464ff2620dbc0247b006dc323232131de3936d2c5e56f2232b67c00ba5c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 9a067494d6236b824ef8fbbcb583ad50503297b5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119832304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347015"
 ---
 # <a name="cmediasamplegetmediatype-method"></a>Кмедиасампле. Жетмедиатипе, метод
 
@@ -71,7 +71,7 @@ HRESULT GetMediaType(
 
 Переменная члена [**кмедиасампле:: m \_ пмедиатипе**](cmediasample-m-pmediatype.md) указывает тип носителя. Переменная члена [**кмедиасампле:: m \_ dwFlags**](cmediasample-m-dwflags.md) указывает, изменился ли тип носителя.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -82,7 +82,7 @@ HRESULT GetMediaType(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

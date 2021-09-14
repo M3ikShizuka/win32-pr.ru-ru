@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4eef6b5366f61f15fda808ca60264de5d28322b8b41a2d6e986e36282a95fbd6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 0f7df2131234623dd30fc90339634a932eca5bd9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119931644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346199"
 ---
 # <a name="commandcomment-property"></a>Свойство Command. Comment
 
@@ -49,7 +49,7 @@ ms.locfileid: "119931644"
 
 ## <a name="remarks"></a>Remarks
 
-Необязательный элемент.
+Необязательный параметр.
 
 Для каждой [**команды**](windowsribbon-element-command.md)может выполняться не более одного раза.
 

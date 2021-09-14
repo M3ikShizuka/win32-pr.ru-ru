@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Strmiids.lib
 - Strmiids.dll
-ms.openlocfilehash: 33edb7cb2ca959080878f7ce735930ceec9d95dc2f829aef6d50f72d764f2f00
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f037317b49bc54f5ea9db5b7a4ae039ec0a9970d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118398940"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346894"
 ---
 # <a name="ikspinksquerymediums-method"></a>Метод Икспин:: Кскуеримедиумс
 

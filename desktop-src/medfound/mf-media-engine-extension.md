@@ -4,12 +4,12 @@ ms.assetid: D2F3F41D-086A-4DEB-99D0-07574BC8F0D7
 title: Атрибут MF_MEDIA_ENGINE_EXTENSION (Мфмедиаенгине. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3bc008abf22541c724ae788620b9ea6ee3ea69c7620123c4234139b981951a06
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4496b40e9b69091b588ad38ad47d943dce5e1966
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118060546"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345659"
 ---
 # <a name="mf_media_engine_extension-attribute"></a>\_ \_ Атрибут расширения обработчика мультимедиа MF \_
 
@@ -43,7 +43,7 @@ ms.locfileid: "118060546"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

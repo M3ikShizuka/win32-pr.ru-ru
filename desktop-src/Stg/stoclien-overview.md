@@ -6,12 +6,12 @@ keywords:
 - Обзор Стоклиен
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6a28c8d0f4740b5a1d5f93934fb055d16e2ed9d843bcb11b210e6cde9589d53b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ee37f6f84cf981bda637abbd96ff8e8f0314d8ee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119661854"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067009"
 ---
 # <a name="stoclien-overview"></a>Обзор Стоклиен
 
@@ -19,7 +19,7 @@ ms.locfileid: "119661854"
 
 Основной задачей примера [стоклиен](structured-storage-client-sample--stoclien-.md) является то, как клиент использует структурированное хранилище и как он указывает серверному компоненту использовать это хранилище. В примере Стоклиен демонстрируется модель программирования структурированных служб хранилища.
 
-## <a name="functionality"></a>функциональное назначение;
+## <a name="functionality"></a>Функциональность
 
 Функции [стоклиен](structured-storage-client-sample--stoclien-.md) похожи на образцы "Scribble" в некоторых версиях Microsoft Visual C++. Разница между образцом Стоклиен и примером [стосерве](structured-storage-server-sample--stoserve-.md) является внутренней архитектурой на основе технологии COM. Между COM-клиентом и COM-сервером хранится четкое различие в архитектуре.
 

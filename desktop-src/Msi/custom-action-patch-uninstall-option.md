@@ -5,11 +5,11 @@ title: Параметр удаления исправления настраив
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 24636181ec8fb9695b9d959a25b055a7e7c21d34
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122885036"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142117"
 ---
 # <a name="custom-action-patch-uninstall-option"></a>Параметр удаления исправления настраиваемого действия
 
@@ -27,7 +27,7 @@ ms.locfileid: "122885036"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 этот атрибут может быть добавлен к настраиваемому действию путем его создания в установщик Windowsном пакете (.msi файле). С помощью исправления можно добавить новое настраиваемое действие с этим атрибутом. Пользовательское действие, имеющее этот атрибут, может обновляться с помощью исправления. Этот атрибут нельзя добавить или удалить с помощью исправления для существующего настраиваемого действия.
 

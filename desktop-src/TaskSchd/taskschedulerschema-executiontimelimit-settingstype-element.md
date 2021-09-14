@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: f6519495cc16cdff6a30c65f75468bd676ca1f2750faedb5c632972c1affb996
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dd86f7ae4988211fdf100f69ac82e747e9ea0f49
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118356420"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127259387"
 ---
 # <a name="executiontimelimit-settingstype-element"></a>Ексекутионтимелимит (Сеттингстипе), элемент
 
@@ -47,7 +47,7 @@ ms.locfileid: "118356420"
 
 Сведения о разработке на языке C++ см. в разделе [**свойство ексекутионтимелимит объекта итасксеттингс**](/windows/desktop/api/taskschd/nf-taskschd-itasksettings-get_executiontimelimit).
 
-Сведения о разработке сценариев см. в разделе [**TaskSettings.Exeкутионтимелимит**](tasksettings-executiontimelimit.md).
+Сведения о разработке сценариев см. в разделе [**тасксеттингс. ексекутионтимелимит**](tasksettings-executiontimelimit.md).
 
 ## <a name="requirements"></a>Требования
 

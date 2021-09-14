@@ -4,12 +4,12 @@ ms.assetid: 95afc397-2f28-4ab9-8d95-d071c2f1f498
 title: АВАИЛАБЛЕФРИРЕГ, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b45508494f9ba87ec8261b38ea18f83d0b3ad9796f7390b70349211cbf244df3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 517073748195c47ee27b68adbe70d6c69f3f585b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119650074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142674"
 ---
 # <a name="availablefreereg-property"></a>АВАИЛАБЛЕФРИРЕГ, свойство
 
@@ -27,7 +27,7 @@ ms.locfileid: "119650074"
 
 Если действие Аллокатерегистриспаце может быть создано в последовательности действий после всех [стандартных действий](standard-actions.md) , которые записывают регистрационные данные, такие как [вритерегистривалуес](writeregistryvalues-action.md) и [регистерклассинфо](registerclassinfo-action.md), то значение **аваилаблефрирег** должно быть установлено только на пространство, необходимое для регистрации пользовательских действий, регистрации библиотек типов и других сведений, которые еще не зарегистрированы в таблицах.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

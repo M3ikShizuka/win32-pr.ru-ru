@@ -4,12 +4,12 @@ ms.assetid: ea7d4ed1-2a96-4372-9936-abdd6473b57e
 title: Атрибут MF_MT_AUDIO_WMADRC_AVGREF (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a822046d368025bcfd068f7c1afd32f75d22b5d1ceab69d3e4b517595baa9b8e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8cdde0bfb4c2993580d73981e9e121d1f7f18612
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119035292"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345658"
 ---
 # <a name="mf_mt_audio_wmadrc_avgref-attribute"></a>\_Атрибут MF \_ Audio \_ вмадрк \_ авгреф
 
@@ -27,7 +27,7 @@ ms.locfileid: "119035292"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -39,7 +39,7 @@ ms.locfileid: "119035292"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

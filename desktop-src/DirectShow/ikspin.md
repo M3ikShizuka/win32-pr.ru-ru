@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Strmiids.lib
 - Strmiids.dll
-ms.openlocfilehash: 8855378544bcc2ea7357af220b5d80d32edde74a50c304e973c9821aa8e9a41c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3d65e5ba5525b977ebae27da9964579614a1d653
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119792334"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346891"
 ---
 # <a name="ikspin-interface"></a>Интерфейс Икспин
 
@@ -49,7 +49,7 @@ ms.locfileid: "119792334"
 
 Перед Кспрокси. h необходимо включить KS. h.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

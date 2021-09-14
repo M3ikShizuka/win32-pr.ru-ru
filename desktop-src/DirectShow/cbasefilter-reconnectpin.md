@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: a39cef0ac5a0a7c4f186b8eae90a96a8e26fbf886f819dc7562cb7d8df4e087e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 22507995621d708e40437175d7004d10f68fedb5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118659724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261576"
 ---
 # <a name="cbasefilterreconnectpin-method"></a>Кбасефилтер. Реконнектпин, метод
 
@@ -76,7 +76,7 @@ HRESULT ReconnectPin(
 
 Этот метод вызывает метод [**IFilterGraph2:: реконнектекс**](/windows/desktop/api/Strmif/nf-strmif-ifiltergraph2-reconnectex) в диспетчере графов фильтров. Если интерфейс [**IFilterGraph2**](/windows/desktop/api/Strmif/nn-strmif-ifiltergraph2) недоступен, метод вызывает [**ифилтерграф:: Reconnect**](/windows/desktop/api/Strmif/nf-strmif-ifiltergraph-reconnect).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

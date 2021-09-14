@@ -15,11 +15,11 @@ api_location:
 - Ndisnpp.dll
 - Rmtnpp.dll
 ms.openlocfilehash: 6dd8c18d19df7d577ad219742520630f00122a41
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108110612"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067581"
 ---
 # <a name="irtcquerystatus-method"></a>Метод ИРТК:: QueryStatus
 
@@ -80,7 +80,7 @@ HRESULT STDMETHODCALLTYPE QueryStatus(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

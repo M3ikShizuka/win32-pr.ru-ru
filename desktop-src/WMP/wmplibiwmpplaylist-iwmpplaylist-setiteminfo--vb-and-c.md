@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bcd4bf2d90b90a825942c5634b2b2cde3bb82e7806fe62ecd5e7d298cd191997
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cce882d050f1ce7839fe3589fced3a87d9052fec
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118568709"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346023"
 ---
 # <a name="iwmpplaylistsetiteminfo-method"></a>Метод Ивмпплайлист:: Сетитеминфо
 

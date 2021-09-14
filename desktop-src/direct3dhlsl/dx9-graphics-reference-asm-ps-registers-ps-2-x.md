@@ -11,12 +11,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 4c9f3c71ab6308ad921b5cce27f2c078ad980da17daa7c0045228d27ef0579ed
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: be0e7f282978ada28c2dd71dc7c16dd317ddce42
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120024124"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263944"
 ---
 # <a name="ps_2_x-registers"></a>\_ \_ регистры PS 2 x
 
@@ -26,16 +26,16 @@ ms.locfileid: "120024124"
 
 
 
-| Зарегистрировать | Имя                                                                                          | Count      | Чтение-запись        | \# Чтение портов | \# Операций чтения и inst | Измерение | реладдр | Умолчания;                  | Требуется ДКЛ |
+| Регистрация | Имя                                                                                          | Count      | Чтение-запись        | \# Чтение портов | \# Операций чтения и inst | Измерение | реладдр | Умолчания;                  | Требуется ДКЛ |
 |----------|-----------------------------------------------------------------------------------------------|------------|------------|---------------|---------------|-----------|---------|---------------------------|--------------|
-| 3,3\#      | [Регистр цвета ввода](dx9-graphics-reference-asm-ps-registers-input-color.md)               | 2          | R          | 1             | Без ограничений     | 4         | Нет       | Partial (0001). См. примечание 4 | Д            |
-| Cерверный\#      | [Временный регистр](dx9-graphics-reference-asm-ps-registers-temporary.md)                   | См. Примечание 1 | Чтение-запись        | 3             | Без ограничений     | 4         | Нет       | Нет                      | Нет            |
+| 3,3\#      | [Регистр цвета ввода](dx9-graphics-reference-asm-ps-registers-input-color.md)               | 2          | R          | 1             | Неограниченно     | 4         | Нет       | Partial (0001). См. примечание 4 | Да            |
+| Cерверный\#      | [Временный регистр](dx9-graphics-reference-asm-ps-registers-temporary.md)                   | См. Примечание 1 | Чтение-запись        | 3             | Неограниченно     | 4         | Нет       | Нет                      | Нет            |
 | c\#      | [Регистр постоянного float](dx9-graphics-reference-asm-ps-registers-constant-float.md)         | 32         | R          | 1             | 2             | 4         | Нет       | 0000                      | Нет            |
 | сохранении\#      | [Постоянный целочисленный регистр](dx9-graphics-reference-asm-ps-registers-constant-integer.md)     | 16         | См. примечание 2 | 1             | 1             | 4         | Нет       | 0000                      | Нет            |
 | b\#      | [Постоянный логический регистр](dx9-graphics-reference-asm-ps-registers-constant-boolean.md)     | 16         | См. примечание 2 | 1             | 1             | 1         | Нет       | FALSE                     | Нет            |
-| P0       | [Регистр предиката](dx9-graphics-reference-asm-ps-registers-predicate.md)                   | 1          | См. примечание 2 | 1             | 1             | 1         | Нет       | Нет                      | Д            |
-| s\#      | [Образцы (Direct3D 9 ASM-PS)](dx9-graphics-reference-asm-ps-registers-sampler.md)            | 16         | См. Примечание 3 | 1             | 1             | 4         | Нет       | См. примечание 5                | Д            |
-| t\#      | [Регистр координаты текстуры](dx9-graphics-reference-asm-ps-registers-texture-coordinate.md) | 8          | R          | 1             | 1             | 4         | Нет       | Нет                      | Д            |
+| P0       | [Регистр предиката](dx9-graphics-reference-asm-ps-registers-predicate.md)                   | 1          | См. примечание 2 | 1             | 1             | 1         | Нет       | None                      | Да            |
+| s\#      | [Образцы (Direct3D 9 ASM-PS)](dx9-graphics-reference-asm-ps-registers-sampler.md)            | 16         | См. Примечание 3 | 1             | 1             | 4         | Нет       | См. примечание 5                | Да            |
+| t\#      | [Регистр координаты текстуры](dx9-graphics-reference-asm-ps-registers-texture-coordinate.md) | 8          | R          | 1             | 1             | 4         | Нет       | Нет                      | Да            |
 
 
 
@@ -55,10 +55,10 @@ ms.locfileid: "120024124"
 
 
 
-| Зарегистрировать | Имя                                                                              | Count                                                                             | Чтение-запись | Измерение | реладдр | Умолчания; | Требуется ДКЛ |
+| Регистрация | Имя                                                                              | Count                                                                             | Чтение-запись | Измерение | реладдр | Умолчания; | Требуется ДКЛ |
 |----------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----|-----------|---------|----------|--------------|
 | даваемым #     | [Регистр цвета вывода](dx9-graphics-reference-asm-ps-registers-output-color.md) | См. раздел [текстуры с несколькими элементами (Direct3D 9)](/windows/desktop/direct3d9/multiple-element-textures) . | W   | 4         | Нет       | Нет     | Нет            |
-| одепс   | [Регистр глубины выходных данных](dx9-graphics-reference-asm-ps-registers-output-depth.md) | 1                                                                                 | W   | 1         | Нет       | Нет     | Нет            |
+| одепс   | [Регистр глубины выходных данных](dx9-graphics-reference-asm-ps-registers-output-depth.md) | 1                                                                                 | W   | 1         | Нет       | None     | Нет            |
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: 635d54de-2735-4390-8bac-ba63b9503909
 title: OPM_GET_VIRTUAL_PROTECTION_LEVEL (Опмапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 09fb4130b4ad700de2328114dbf900ff7d122045b277c8a5ae812332c730a5d6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5c7ac36abd0a043a74a18401205bbb5e661ac17d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118972923"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346507"
 ---
 # <a name="opm_get_virtual_protection_level"></a>ОПМ \_ получить \_ \_ уровень защиты \_ виртуальной системы
 
@@ -48,7 +48,7 @@ ms.locfileid: "118972923"
 
 Этот запрос эквивалентен \_ запросу дксва коппкуерилокалпротектионлевел, используемому в сертифицированном протоколе защиты выходных данных (Копп).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -60,7 +60,7 @@ ms.locfileid: "118972923"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

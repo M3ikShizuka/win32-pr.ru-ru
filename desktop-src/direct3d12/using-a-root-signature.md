@@ -6,11 +6,11 @@ ms.localizationpriority: high
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 3babe26dc06d4f85ce3d6fb771e18c78b54a3701
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "74104004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066311"
 ---
 # <a name="using-a-root-signature"></a>Использование корневой подписи
 
@@ -73,9 +73,9 @@ pBundle->Draw(...);
 [Корневые подписи](root-signatures.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

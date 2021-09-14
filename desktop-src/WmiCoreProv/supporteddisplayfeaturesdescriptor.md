@@ -20,12 +20,12 @@ api_type:
 - DllExport
 api_location:
 - WmiProv.dll
-ms.openlocfilehash: a9e71eeda4ab47cba5e88a548421c89815b7d0d87d511709b9a73573e2582077
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 30350d477533b7e51ba8b3130c5a24d81c12f10e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118321540"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066567"
 ---
 # <a name="supporteddisplayfeaturesdescriptor-class"></a>Класс Суппортеддисплайфеатуресдескриптор
 
@@ -46,7 +46,7 @@ class SupportedDisplayFeaturesDescriptor
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **суппортеддисплайфеатуресдескриптор** имеет следующие типы членов:
 

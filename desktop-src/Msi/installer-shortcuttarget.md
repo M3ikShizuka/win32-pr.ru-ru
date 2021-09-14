@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: b54e334314c0bfd0fb721b175d0a14894d8a509ea02ff36e324903bb1fdbffaf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1c53d43188af9ed8f58ddd54916761e346f1bad1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119894004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065553"
 ---
 # <a name="installershortcuttarget-property"></a>Свойство Installer. Шорткуттаржет
 
@@ -47,7 +47,7 @@ propVal = Installer.ShortcutTarget
 -   Поле 2 — это идентификатор компонента ярлыка, если он доступен. Это поле может иметь значение null.
 -   Поле 3 — это идентификатор GUID для кода компонента, если он доступен. Это поле может иметь значение null.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ propVal = Installer.ShortcutTarget
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: f86c1af8-c984-4075-9c6b-0a71000b01a1
 title: АРПНОРЕМОВЕ, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9d69e066aeb96861be220a40334d44bf55fe0569e855029d2a19399b56a1c205
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cbf8960234456a7010fb81cb195d63d4c5c79bb8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120105434"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142845"
 ---
 # <a name="arpnoremove-property"></a>АРПНОРЕМОВЕ, свойство
 
@@ -25,7 +25,7 @@ ms.locfileid: "120105434"
 
 Например, это свойство можно задать во время преобразования настройки, чтобы запретить пользователям удалять настройку администратора.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

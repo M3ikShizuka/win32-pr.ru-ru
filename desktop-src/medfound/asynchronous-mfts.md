@@ -4,12 +4,12 @@ ms.assetid: d438ffae-fc50-454f-8ce4-2d6676500fff
 title: Асинхронный МФТС
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f0cab2ef683ef22fd22a911c045a1a744f1c0d561b3e8e66d46ca2cf6c6f0ee4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4a16950cf431eff16f2befb382a77910c49ccb2e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119959524"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346607"
 ---
 # <a name="asynchronous-mfts"></a>Асинхронный МФТС
 

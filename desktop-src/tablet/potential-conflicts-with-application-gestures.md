@@ -4,12 +4,12 @@ ms.assetid: 23692348-96ed-4f59-b3b2-4e0e11ddcef5
 title: Потенциальные конфликты с жестами приложений
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 45687cab9ac8901cce4e5d6147d295f88cd3d4247af68f00f01dd38004d399ed
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fefb79001fd15f05c0500a3ccb43524838574bf2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118716207"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346287"
 ---
 # <a name="potential-conflicts-with-application-gestures"></a>Потенциальные конфликты с жестами приложений
 

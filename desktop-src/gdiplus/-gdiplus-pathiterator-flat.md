@@ -4,12 +4,12 @@ ms.assetid: 07408bce-88c7-43ef-b437-7b2ce37fca91
 title: Функции Паситератор
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9307e2a71cd6b66d0f0f8425916484b4ccfb6c19c1c2e9b81062a6f6b9f7f792
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 69a7fb23096a03837d68030d3f78d4c25c773390
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119036482"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065875"
 ---
 # <a name="pathiterator-functions"></a>Функции Паситератор
 

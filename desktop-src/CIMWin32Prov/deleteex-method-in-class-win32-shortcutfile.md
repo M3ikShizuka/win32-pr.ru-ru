@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: df69d6dea546a4bbd361e6663b93274c4f4f30f15c2d59bcf23d06f1cb614478
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bbe382ca57c4bdef36b19742313965c8bac68fd3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118419464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261664"
 ---
 # <a name="deleteex-method-of-the-win32_shortcutfile-class"></a>Метод Делетикс \_ класса Win32 шорткутфиле
 

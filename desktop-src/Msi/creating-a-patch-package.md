@@ -4,12 +4,12 @@ ms.assetid: 8a163653-6ba1-46ea-9832-f998749d29ae
 title: Создание пакета исправлений
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5b2d784e02374eeee84a0c8b047e5a7b4db31f9c2b3090a68c31f35dece8c978
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2561cb6729dc7b4e0e48acd13b6338f08a8ba943
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118638294"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142134"
 ---
 # <a name="creating-a-patch-package"></a>Создание пакета исправлений
 
@@ -34,7 +34,7 @@ ms.locfileid: "118638294"
 
     
 
-    | File       | Компонент\_ | FileName   |
+    | Файл       | См\_ | FileName   |
     |------------|-------------|------------|
     | readMe.txt | Comp1       | readMe.txt |
     | ReadMe.txt | Comp2       | readMe.txt |

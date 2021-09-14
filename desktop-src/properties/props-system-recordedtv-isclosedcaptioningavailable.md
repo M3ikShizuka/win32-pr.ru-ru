@@ -5,11 +5,11 @@ title: System. Рекордедтв. Исклоседкаптионингава�
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: adcae0ce5a793a37fd65ba1c0cc71065a4b9858a
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108106982"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346403"
 ---
 # <a name="systemrecordedtvisclosedcaptioningavailable"></a>System. Рекордедтв. Исклоседкаптионингаваилабле
 
@@ -46,7 +46,7 @@ propertyDescription
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

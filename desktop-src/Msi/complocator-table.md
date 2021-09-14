@@ -4,12 +4,12 @@ ms.assetid: 8b527307-51bf-47b3-a0b2-3421cc5278b7
 title: Таблица Комплокатор
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ad6a51ad618521ff49b2a5b13f76fcfbae4207b5cdf4d77e76d3e128816bbb82
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5e9fcb4a3c4f2e2c6f3ca3c92f6dc7466326bd11
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118145083"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142369"
 ---
 # <a name="complocator-table"></a>Таблица Комплокатор
 
@@ -21,9 +21,9 @@ ms.locfileid: "118145083"
 
 | Столбец      | Type                         | Ключ | Допускает значения NULL |
 |-------------|------------------------------|-----|----------|
-| Образец\_ | [Идентификатор](identifier.md) | Д   | Нет        |
+| Образец\_ | [Идентификатор](identifier.md) | Да   | Нет        |
 | ComponentId | [GUID](guid.md)             | Нет   | Нет        |
-| Тип        | [Integer](integer.md)       | Нет   | Д        |
+| Тип        | [Integer](integer.md)       | Нет   | Да        |
 
 
 

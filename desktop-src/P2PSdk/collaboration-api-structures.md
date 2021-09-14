@@ -4,12 +4,12 @@ ms.assetid: 2634899c-3263-45ce-9fac-407e11e42cd4
 title: Структуры API совместной работы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fa003702b9d42202bf344f6e512a1ca42d90a2ced701dc327fdc91eefb8fdcb9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6d4fe42a28eb8ace13087fff43d29aa00e5551ad
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119011762"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067422"
 ---
 # <a name="collaboration-api-structures"></a>Структуры API совместной работы
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 4d1c0b355b0eedee29dafb92debbabac5c7b3e574d2f161827626bc73f72c035
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e368efcf29d836cc23fa60ed34dae1a172978f77
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120083874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346947"
 ---
 # <a name="iamtimelinesrcisnormalrate-method"></a>Метод Иамтимелинесрк:: Иснормалрате
 
@@ -79,7 +79,7 @@ Playback rate = (Media Stop <entity type="mdash"/> Media Start) / (Timeline Stop
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -90,7 +90,7 @@ Playback rate = (Media Stop <entity type="mdash"/> Media Start) / (Timeline Stop
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

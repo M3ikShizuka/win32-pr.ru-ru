@@ -5,11 +5,11 @@ title: Параметры выполнения In-Script настраиваем�
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 39f779d117196164a1c0738a6cee3aa48b3b0a96
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105664591"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142118"
 ---
 # <a name="custom-action-in-script-execution-options"></a>Параметры выполнения In-Script настраиваемого действия
 
@@ -38,7 +38,7 @@ ms.locfileid: "105664591"
 
 Дополнительные сведения о настраиваемых действиях, выполняемых только при удалении исправления, см. в разделе [параметр удаления исправления настраиваемого действия](custom-action-patch-uninstall-option.md).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 2375e132-e400-419f-a0f9-cbb6f9acdf45
 title: System. Image. Колорспаце
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 17ef7d2ca0d2843a6297a135df6105b96edd5c4c83dfbeaa1657024b7569c3ba
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 024d99e0f88fd793d0a0f8207b43a52c7be47c30
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119716844"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345575"
 ---
 # <a name="systemimagecolorspace"></a>System. Image. Колорспаце
 

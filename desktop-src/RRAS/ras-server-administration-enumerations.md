@@ -4,12 +4,12 @@ description: для Windows NT 4,0 используйте следующее п�
 ms.assetid: 1e362b2d-64f4-4bf5-b2c4-8406188d0791
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a011d4d804f6d1ab70dee633c9df2627c97dd4465c1f82f0a8ad3e90ddaddedf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e1831c4095ea84399880915a1fdbfc4dfc1ffa31
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120028904"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067326"
 ---
 # <a name="ras-server-administration-enumerations"></a>Перечисления для администрирования сервера RAS
 

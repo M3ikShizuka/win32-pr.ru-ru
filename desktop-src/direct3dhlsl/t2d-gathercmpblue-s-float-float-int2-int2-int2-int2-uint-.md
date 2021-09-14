@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: f048d29fdf079409091b7e5e2b764d06ad6de877e132e59ede3a67274b178ba1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c9fbd5c8da7671180ea01f741e85cfc2427f1393
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119043642"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263835"
 ---
 # <a name="texture2dgathercmpbluesfloatfloatint2int2int2int2uint-function"></a>Функция Texture2D:: Гасеркмпблуе (S, float, float, int2, int2, int2, int2, uint)
 
@@ -132,7 +132,7 @@ TemplateType GatherCmpBlue(
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | x      | x    | x      | x        | x     | x       |
 
@@ -140,7 +140,7 @@ TemplateType GatherCmpBlue(
 
  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: b2c1c0de67eaa1067a4c72f3500674dddef65ddbb11af1b520973120d2df3c00
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1ede6cf2318fa9226b8e220ff526f411def9b0f6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119687434"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065700"
 ---
 # <a name="csourcestreamexit-method"></a>Ксаурцестреам. Exit, метод
 
@@ -48,7 +48,7 @@ HRESULT Exit();
 
 Метод [**ксаурцестреам:: Inactive**](csourcestream-inactive.md) вызывает этот метод.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ HRESULT Exit();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

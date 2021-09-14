@@ -4,12 +4,12 @@ description: в этом примере показан клиент именов
 ms.assetid: 50BA8F67-95F4-414A-952C-8AF91C511753
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d46dda53ceeff5a8bbe1b649c65b294fb190224491c9b90a144be35c4123f42b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f81eb77680b161a121be68d1e4f00a3d87c9dcb6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120089464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346074"
 ---
 # <a name="requestreplynamedpipesclientwithwindowstransportsecurityexample"></a>рекуестреплинамедпипесклиентвисвиндовстранспортсекуритексампле
 

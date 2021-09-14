@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 23efdb58b8effc0ccdaf32da31ad93dfaf8f6eae602c6769c947ffa0c0f505d7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6c140052c861c8da3df6378fc3bc49816998c130
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118510113"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345819"
 ---
 # <a name="appendstructuredbuffer"></a>аппендструктуредбуффер
 
@@ -28,7 +28,7 @@ ms.locfileid: "118510113"
 
 | Метод                                                                   | Описание                               |
 |--------------------------------------------------------------------------|-------------------------------------------|
-| [**Добавить**](sm5-object-appendstructuredbuffer-append.md)               | Добавляет значение в конец буфера. |
+| [**Добавление**](sm5-object-appendstructuredbuffer-append.md)               | Добавляет значение в конец буфера. |
 | [**GetDimensions**](sm5-object-appendstructuredbuffer-getdimensions.md) | Возвращает размеры ресурсов.             |
 
 
@@ -59,7 +59,7 @@ UAV, привязанный к этому ресурсу, должен быть 
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 |        |      |        |          | x     | x       |
 
@@ -67,7 +67,7 @@ UAV, привязанный к этому ресурсу, должен быть 
 
  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

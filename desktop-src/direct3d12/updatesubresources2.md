@@ -15,12 +15,12 @@ api_type:
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bc4e476501c91c3e7508c0aefdc1d9d6c99a057840b5a126879c8b4ff3608f68
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c97abe59bdd0334fe4b7badf03e44ddc03b85495
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119460756"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066319"
 ---
 # <a name="updatesubresources-heap-allocating-function"></a>Функция UpdateSubresources (выделение кучи)
 
@@ -116,7 +116,7 @@ UINT64 inline UpdateSubresources(
 
 Размер (в байтах) буфера.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

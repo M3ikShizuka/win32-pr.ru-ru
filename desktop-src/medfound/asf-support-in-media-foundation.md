@@ -4,12 +4,12 @@ ms.assetid: 4b0c4a83-623a-4378-9436-35ed120316af
 title: Поддержка ASF в Media Foundation
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: db06c5a294e351b09d7f5327e8ee22891798671765bc5cc10eafd75785debde9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ddb7774d0ddaee592cb583ffb771c900642ed216
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117880965"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346622"
 ---
 # <a name="asf-support-in-media-foundation"></a>Поддержка ASF в Media Foundation
 

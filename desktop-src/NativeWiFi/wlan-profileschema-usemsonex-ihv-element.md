@@ -12,12 +12,12 @@ api_name:
 api_type:
 - Schema
 api_location: ''
-ms.openlocfilehash: 4a62f2f25ef2a4a52fae82e2ce8ddb097a4b434d7c2f8f35a2783703a617ad8b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: aa9f2092ac0e76feae89b02f333ae3098288ccef
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119912644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067639"
 ---
 # <a name="usemsonex-ihv-element"></a>Усемсонекс (IHV), элемент
 
@@ -36,7 +36,7 @@ ms.locfileid: "119912644"
 
 Элемент определяется элементом [**IHV**](wlan-profileschema-ihv-wlanprofile-element.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -47,7 +47,7 @@ ms.locfileid: "119912644"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -20,12 +20,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: eb7b1bb73c611ce65d0c2d07059eb14e7ceba6b59b648c474bd753988d7b9232
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5f099b74af84e1a75289313c5bb9d4de646b51a9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119616144"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345747"
 ---
 # <a name="jet_signatureequals-method-jet_signature"></a>JET_SIGNATURE. Метод Equals (JET_SIGNATURE)
 
@@ -57,7 +57,7 @@ public bool Equals(
 
 #### <a name="parameters"></a>Параметры
 
-  - др.  
+  - иное  
     Тип: [Microsoft.ISAM.ESENT.Interop.JET_SIGNATURE](./jet-signature-structure2.md)  
     
     Экземпляр, сравниваемый с этим экземпляром.

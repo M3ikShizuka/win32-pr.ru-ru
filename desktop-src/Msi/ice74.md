@@ -4,12 +4,12 @@ ms.assetid: 2af132f0-0ffa-405f-9d05-7cb5d5f826b8
 title: ICE74
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1d3120b0f4cd40acc53a1bcd3623dac33941a7f5da39bc538781e4ffd1d56345
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6fe2762710e061f2c88f55893294a40fbac8700f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119328324"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068006"
 ---
 # <a name="ice74"></a>ICE74
 
@@ -58,7 +58,7 @@ ICE74 сообщает о следующей ошибке, если свойст
 
 
 
-| Свойство                   | Значение |
+| Свойство.                   | Значение |
 |----------------------------|-------|
 | [**фастоем**](fastoem.md) | 1     |
 

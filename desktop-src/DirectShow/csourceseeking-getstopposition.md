@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 870ddbf77d1a29a34703d4b43ee21d02b676e8fafac9ee688384246339465732
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d9f61ad26c32cfeec285874edfcc26038d57b117
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119073328"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346982"
 ---
 # <a name="csourceseekinggetstopposition-method"></a>Ксаурцесикинг. Жетстоппоситион, метод
 
@@ -57,7 +57,7 @@ HRESULT GetStopPosition(
 
 | Код возврата                                                                               | Описание                       |
 |-------------------------------------------------------------------------------------------|-----------------------------------|
-| <dl> <dt>**\_ОК**</dt> </dl>      | Success<br/>                |
+| <dl> <dt>**\_ОК**</dt> </dl>      | Успешное завершение<br/>                |
 | <dl> <dt>**\_указатель E**</dt> </dl> | Значение указателя **null**<br/> |
 
 
@@ -68,7 +68,7 @@ HRESULT GetStopPosition(
 
 Время окончания задается переменной-членом [**ксаурцесикинг:: m \_ ртстоп**](csourceseeking-m-rtstop.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -79,7 +79,7 @@ HRESULT GetStopPosition(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

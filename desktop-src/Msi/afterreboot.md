@@ -4,12 +4,12 @@ ms.assetid: d8a71d9a-64bf-4a38-9c3b-073c216de7fa
 title: АФТЕРРЕБУТ, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cf8fb80a3d8ff167f93aab6c95fc3eadb8b5312daf9d2a2856f01cb7d01ee383
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aa891c84e2e8f7bdea5bb90311e9706a37e46e31
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119145917"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142985"
 ---
 # <a name="afterreboot-property"></a>АФТЕРРЕБУТ, свойство
 

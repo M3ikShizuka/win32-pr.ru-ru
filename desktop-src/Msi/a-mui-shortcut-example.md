@@ -4,12 +4,12 @@ ms.assetid: f521cfb8-32a8-4b62-b258-5b99cc3e0416
 title: Пример ярлыка многоязыкового интерфейса пользователя
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b3b38f674a63e854fbcd4439229c5aded5b0efe6cfc17d3e475f8a52f30db949
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0392713c1eaedabaa989baecd79478a9b329e955
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118640291"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127143218"
 ---
 # <a name="a-mui-shortcut-example"></a>Пример ярлыка многоязыкового интерфейса пользователя
 
@@ -27,7 +27,7 @@ ms.locfileid: "118640291"
 
     
 
-    | File        | Компонент\_     | FileName                     |
+    | Файл        | См\_     | FileName                     |
     |-------------|-----------------|------------------------------|
     | мсимсгмуижа | МСИМСГ \_ MUI \_ ja | msimsgja.dll\|msimsg.dll. MUI |
     | мсимсгмуикс | МСИМСГ \_ MUI \_ CS | msimsgcs.dll\|msimsg.dll. MUI |
@@ -67,7 +67,7 @@ ms.locfileid: "118640291"
     | мситест       | TARGETDIR         | Мситест:.  |
     | муифолдер     | мситест           | РАСПРОСТРАНЯЕТСЯ        |
     | Муифолдер \_ CS | муифолдер         | cs-CZ      |
-    | Муифолдер \_ en | муифолдер         | ru-RU      |
+    | Муифолдер \_ en | муифолдер         | en-US      |
     | Муифолдер \_ ja | муифолдер         | ja-JP      |
     | DesktopFolder | TARGETDIR         | .          |
 
@@ -81,7 +81,7 @@ ms.locfileid: "118640291"
 
     
 
-    | Сочетание клавиш | Каталог\_   | Компонент\_ | Target               | Значок             |
+    | Сочетание клавиш | Каталог\_   | См\_ | Назначение               | Значок             |
     |----------|---------------|-------------|----------------------|------------------|
     | Quick1   | DesktopFolder | мсимсг      | FeatureChild1 \_ локальный | HelpFileIcon.exe |
     | Quick2   | DesktopFolder | мсимсг      | FeatureChild1 \_ локальный | HelpFileIcon.exe |
@@ -96,7 +96,7 @@ ms.locfileid: "118640291"
 
     
 
-    | Компонент               | \_Родительский компонент функции       | Название                 | Атрибуты |
+    | Компонент               | \_Родительский компонент функции       | Заголовок                 | Атрибуты |
     |-----------------------|-----------------------|-----------------------|------------|
     | FeatureParent1 \_ локальный |                       | FeatureParent1 \_ локальный | 16         |
     | FeatureChild1 \_ локальный  | FeatureParent1 \_ локальный | FeatureParent1 \_ локальный | 0          |

@@ -4,12 +4,12 @@ ms.assetid: 407f0e42-07c8-4ec6-81c6-f8bde005adb0
 title: ключевые служба хранилища идентификаторы свойств (Ncrypt. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 20b8fca27591837a555e4f75040ba16056c42e16ce488c0bb99f2d8f7de70bd1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 813a15ba106989cb558eba181bc893d75c6d1bf2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118907622"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067121"
 ---
 # <a name="key-storage-property-identifiers"></a>идентификаторы свойств ключевых служба хранилища
 
@@ -553,7 +553,7 @@ L "дескриптор HWND"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -561,7 +561,7 @@ L "дескриптор HWND"
 |-------------------------------------|-------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                      |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                |
-| Header<br/>                   | <dl> <dt>NCrypt. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>NCrypt. h</dt> </dl> |
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: 9f6834c6-74eb-4219-8111-7b722ea41a3a
 title: ICE61
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5c772a076decaa385d01047daa45871aeeaf7898d4cf3347606c4066d1f7f2b9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 89f5a685d5b0a4f2bd5ce8dac70a738cbe2e0b9b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119580984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068032"
 ---
 # <a name="ice61"></a>ICE61
 
@@ -77,7 +77,7 @@ Upgrade.VersionMax cannot be less than Upgrade.VersionMin. (OLDAPPFOUND)
 
 
 
-| Свойство                                                 | Значение                                  |
+| Свойство.                                                 | Значение                                  |
 |----------------------------------------------------------|----------------------------------------|
 | [**UpgradeCode**](upgradecode.md)                       | {61AA4C55-E17F-11D2-93BB-0060089A76DB} |
 | [**ProductVersion**](productversion.md)                 | 2.01.0000                              |

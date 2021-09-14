@@ -22,11 +22,11 @@ api_type:
 api_location:
 - WmiProv.dll
 ms.openlocfilehash: 900bf4353de0c81acb5aa2c69578256b0212a2c0
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103998860"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066554"
 ---
 # <a name="wmimonitoranalogvideoinputparams-class"></a>Класс Вмимонитораналогвидеоинпутпарамс
 
@@ -48,13 +48,13 @@ class WmiMonitorAnalogVideoInputParams : MSMonitorClass
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **вмимонитораналогвидеоинпутпарамс** имеет следующие типы членов:
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **вмимонитораналогвидеоинпутпарамс** имеет следующие свойства.
 

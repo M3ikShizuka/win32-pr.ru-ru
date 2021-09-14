@@ -5,11 +5,11 @@ title: Атрибут MF_SOURCE_READER_ENABLE_VIDEO_PROCESSING (Мфреадвр
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 9bfcbb076d5f42e784277dbd78101b473ec33905
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104497358"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263240"
 ---
 # <a name="mf_source_reader_enable_video_processing-attribute"></a>MF \_ source \_ Reader \_ Включение \_ \_ атрибута обработки видео
 
@@ -24,7 +24,7 @@ ms.locfileid: "104497358"
 | Значение                                                                                                                                                                | Значение                                        |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
 | <span id="Nonzero"></span><span id="nonzero"></span><span id="NONZERO"></span><dl> <dt>**Отличные**</dt> </dl> | Включить обработку видео.<br/>            |
-| <span id="Zero"></span><span id="zero"></span><span id="ZERO"></span><dl> <dt>**Ноль**</dt> </dl>             | Отключить обработку видео. (по умолчанию)<br/> |
+| <span id="Zero"></span><span id="zero"></span><span id="ZERO"></span><dl> <dt>**Нуль**</dt> </dl>             | Отключить обработку видео. (по умолчанию)<br/> |
 
 
 
@@ -36,7 +36,7 @@ ms.locfileid: "104497358"
 
 Чтобы задать этот атрибут, вызовите [**имфаттрибутес:: SetUINT32**](/windows/desktop/api/mfobjects/nf-mfobjects-imfattributes-setuint32).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если этот атрибут имеет **значение true** (отличное от нуля), модуль чтения исходного кода может выполнять следующую ограниченную обработку видео для несжатых видеокадров:
 
@@ -58,9 +58,9 @@ ms.locfileid: "104497358"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 7 \|\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2008 R2 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Мфреадврите. h</dt> </dl> |
+| Минимальная версия клиента<br/> | \[приложения UWP для классических приложений Windows 7 \|\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows \[Приложения UWP для настольных приложений Server 2008 R2 \|\]<br/>                           |
+| Заголовок<br/>                   | <dl> <dt>Мфреадврите. h</dt> </dl> |
 
 
 

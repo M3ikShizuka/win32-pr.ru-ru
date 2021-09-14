@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 52fddcbd92544a109340697e5865f87e6c5f74a14b01543e768495b7717d8f4f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ff07303f9aa8f68ae702ed09bc3a2fd544373f6c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118954833"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261480"
 ---
 # <a name="cbaserenderernotready-method"></a>Кбасерендерер. NotReady, метод
 
@@ -48,7 +48,7 @@ void NotReady();
 
 Этот метод приводит к тому, что метод [**кбасерендерер::**](cbaserenderer-getstate.md) noreturn возвращает в качестве \_ \_ промежуточного состояния VFW S \_ , что означает, что фильтр все еще переходит в текущее состояние. Фильтр вызывает этот метод при ожидании перехода состояния. (Это происходит, когда фильтр приостанавливается, пока не будет получен пример.)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ void NotReady();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

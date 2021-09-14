@@ -4,12 +4,12 @@ ms.assetid: 9b255dfa-3c1d-4707-927d-a2d5f4117f6a
 title: Извлечение контуров символов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d3db9b9200f665088096fdecbffc12866668d093c0c4d5ddb4a1612153873e7a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 638193632d4992dfb53f29a3dfe66a858b3e1fb6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120092654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065926"
 ---
 # <a name="retrieving-character-outlines"></a>Извлечение контуров символов
 

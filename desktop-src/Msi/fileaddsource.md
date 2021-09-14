@@ -4,12 +4,12 @@ ms.assetid: 52e328e7-7a98-4762-86a1-48e52fd55882
 title: ФИЛЕАДДСАУРЦЕ, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7678c42e683b70fc61e563c57ee234c523078bcdd737bf8f28bc2c05302fbb43
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 24b99ea1d9f4d6e212b74d6c4ee54655dce98c60
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118636566"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068249"
 ---
 # <a name="fileaddsource-property"></a>ФИЛЕАДДСАУРЦЕ, свойство
 

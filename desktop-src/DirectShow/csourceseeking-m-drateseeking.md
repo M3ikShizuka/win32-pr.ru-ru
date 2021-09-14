@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 65a21cbae87c25e0f37791129f1699349ea4bb4a8591097978e04010a925962b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1055a420316868db6374798c0295339dd74ac172
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120054214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346974"
 ---
 # <a name="csourceseekingm_drateseeking-member"></a>Элемент Ксаурцесикинг:: m \_ дратесикинг
 
@@ -40,7 +40,7 @@ double m_dRateSeeking;
 
 Чтобы получить доступ к этой переменной, удерживайте критический раздел **m \_ плокк** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -51,7 +51,7 @@ double m_dRateSeeking;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

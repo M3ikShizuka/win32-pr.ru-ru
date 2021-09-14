@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: e542907919462e1952ff4418bd2a15b29b18fd13ee12739509736fabfd71f445
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 81f9cdd07f4d787d86c487f427de6964af1438e5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118145623"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142470"
 ---
 # <a name="clientusersid-property"></a>Свойство Client., то есть
 
@@ -30,7 +30,7 @@ ms.locfileid: "118145623"
 
 ## <a name="property-value"></a>Значение свойства
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: 5eefdfcb-89a5-4885-bab0-6409ef3ce349
 title: Атрибут элемента управления Icon
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d2caeb407b86b888a5dd3b1c08f16d0893233f82cec29b92519c267b286ea121
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e60c19674ac26f108109fad04e0836ed8dfeba6c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119315124"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067926"
 ---
 # <a name="icon-control-attribute"></a>Атрибут элемента управления Icon
 

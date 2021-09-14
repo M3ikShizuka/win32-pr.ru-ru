@@ -25,11 +25,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: e9da2cab896ed81384845576c81befccababd32d
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105702275"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347299"
 ---
 # <a name="esentnotinitializedexception-constructor"></a>Конструктор Есентнотинитиализедексцептион
 

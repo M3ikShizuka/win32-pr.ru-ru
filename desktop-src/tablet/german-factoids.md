@@ -5,11 +5,11 @@ title: Немецкий Фактоидс
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 9f79e4d95f950c937220fda03c853d5bdcdf1709
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122626750"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127262472"
 ---
 # <a name="german-factoids"></a>Немецкий Фактоидс
 
@@ -57,7 +57,7 @@ ms.locfileid: "122626750"
 <td>! &quot; # $% & ' () * +,-. /0 1 2 3 4 5 6 7 8 9:; < = >? @ A B C D E F G р. J K L M N O P Q R S T U V W X Y Z [\] _ A B C D E F G р. J K L M N O P Q R S T U V W X Y Z {} ~             <br/></td>
 </tr>
 <tr class="odd">
-<td><strong>Процентный формат</strong></td>
+<td><strong>Процент</strong></td>
 <td>Число, за которым следует символ процента.<br/></td>
 <td>87 %<br/> 5, 9%<br/></td>
 </tr>

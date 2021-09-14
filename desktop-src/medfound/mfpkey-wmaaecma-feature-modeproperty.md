@@ -4,12 +4,12 @@ ms.assetid: 1c11e817-36bd-4a5d-9c2b-6a91e86f623f
 title: Свойство MFPKEY_WMAAECMA_FEATURE_MODE (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0e2e4e370876b8ecae91638a4cbe462a4f55e31e8f9e9f525b7b312c04343433
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e9a47ef86a2acf83131800e9cb55b86de2cd3d98
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117689322"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345627"
 ---
 # <a name="mfpkey_wmaaecma_feature_mode-property"></a>\_ \_ Свойство режима компонента мфпкэй вмааекма \_
 
@@ -60,7 +60,7 @@ ms.locfileid: "117689322"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

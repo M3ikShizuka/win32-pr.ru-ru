@@ -4,12 +4,12 @@ ms.assetid: 257d5082-6a40-4f32-abcb-23269c49091c
 title: НОКОМПАНИНАМЕ, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7a4aa0f4358bcdd96d1cb2e1b56d6cc01616f2884e390a82ca6b19ee9d25f5d6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e94df001ee63d8dbc22c071b9a200a2811e33600
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119558794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261008"
 ---
 # <a name="nocompanyname-property"></a>НОКОМПАНИНАМЕ, свойство
 
@@ -19,7 +19,7 @@ ms.locfileid: "119558794"
 
 Не задано. Установщик автоматически устанавливает свойство [**COMPANYNAME**](companyname.md) , используя значения из реестра.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -4,12 +4,12 @@ description: В этом разделе приводятся рекоменда�
 ms.assetid: 49F6E356-90C7-423A-A31A-AEE41F882D3B
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 73606d34fff20c6d48a748d713ee292b36fd791ffde5cddb255ad9c60982cf1e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d0658a9693567dfd88e9a986893048fa1d0fa1e5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119484734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263800"
 ---
 # <a name="how-to-use-directcomposition"></a>Как использовать DirectComposition
 

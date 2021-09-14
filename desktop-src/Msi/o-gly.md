@@ -1,15 +1,15 @@
 ---
-description: Узнайте о установщик Windows концепциях, начинающихся с буквы O, например над наплечкой.
+description: узнайте о установщик Windows концепциях, начинающихся с буквы O, например над наплечкой.
 ms.assetid: 67f9755c-2f0f-4ee6-8252-b4e5b84a2acc
 title: O (установщик Windows)
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: d2209d1000739e94f09760a659c36f069ab39d01
-ms.sourcegitcommit: 8f0a1d212dd154e8d94ab4c0e4ced053fa16823a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "112011357"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067800"
 ---
 # <a name="o-windows-installer"></a>O (установщик Windows)
 
@@ -20,7 +20,7 @@ ms.locfileid: "112011357"
 <span id="_msi_over_the_shoulder_gly"></span><span id="_MSI_OVER_THE_SHOULDER_GLY"></span>**Над наплечным**
 </dt> <dd>
 
-Взаимодействие с пользователем обычного пользователя в Windows Vista, которое пытается установить приложение, для которого требуются права администратора. Перед повышением уровня установки Служба сведений о приложении запрашивает согласие от администратора.
+взаимодействие с пользователем обычного пользователя в Windows Vista, которое пытается установить приложение, для которого требуются права администратора. Перед повышением уровня установки Служба сведений о приложении запрашивает согласие от администратора.
 
 </dd> </dl>
 

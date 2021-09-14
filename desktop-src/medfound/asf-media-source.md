@@ -4,12 +4,12 @@ ms.assetid: a2d2b382-d666-4a37-a6a9-0b839fbfbec3
 title: Источник носителя ASF
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6b3222f32649aa5cb3f4d1d4688a9f7fb7402167e7831377fd8b04d6c879e23b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 75dc682d48339ce4ff707e7859a6962b9f5cfd92
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117881155"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345683"
 ---
 # <a name="asf-media-source"></a>Источник носителя ASF
 

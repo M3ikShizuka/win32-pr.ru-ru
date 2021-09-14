@@ -15,11 +15,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 98c6026497496ab758c71a8a0403557ad2cacc7f
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108091062"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347199"
 ---
 # <a name="changesecuritypermissions-method-of-the-win32_directory-class"></a>Метод Чанжесекуритипермиссионс \_ класса каталога Win32
 
@@ -167,12 +167,12 @@ uint32 ChangeSecurityPermissions(
 
 </dd> <dt>
 
-**Платформа не NT/Windows 2000**
+**платформа не NT/Windows 2000**
 </dt> <dd>
 
 12
 
-Платформа не является Windows.
+Платформа не Windows.
 
 </dd> <dt>
 
@@ -244,7 +244,7 @@ uint32 ChangeSecurityPermissions(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

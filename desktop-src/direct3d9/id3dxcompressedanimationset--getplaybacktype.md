@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 9f607a534dd390380b6505ab040fbfa8e187dd903451bb90c6fdfa51a9dd0c71
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 86437821b989d198f9f65288b37c80b609bd1946
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118987604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347427"
 ---
 # <a name="id3dxcompressedanimationsetgetplaybacktype-method"></a>Метод ID3DXCompressedAnimationSet:: Жетплайбакктипе
 
@@ -44,7 +44,7 @@ D3DXPLAYBACK_TYPE GetPlaybackType();
 
 Тип цикла воспроизведения набора анимации. См. раздел [**\_ тип D3DXPLAYBACK**](./d3dxplayback-type.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ D3DXPLAYBACK_TYPE GetPlaybackType();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

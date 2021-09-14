@@ -5,11 +5,11 @@ title: Как обрезать источник точечного рисунк�
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 43919e03d5d866d37ad4af203e741d2b10e60889
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104558188"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345487"
 ---
 # <a name="how-to-clip-a-bitmap-source"></a>Как обрезать источник точечного рисунка
 
@@ -17,7 +17,7 @@ ms.locfileid: "104558188"
 
 Обрезка источника точечного рисунка
 
-1.  Создайте объект [**IWICImagingFactory**](/windows/desktop/api/Wincodec/nn-wincodec-iwicimagingfactory) для создания объектов компонента Windows Imaging Component (WIC).
+1.  создайте объект [**IWICImagingFactory**](/windows/desktop/api/Wincodec/nn-wincodec-iwicimagingfactory) для создания объектов компонента обработки изображений Windows (WIC).
 
     ```C++
     // Create WIC factory

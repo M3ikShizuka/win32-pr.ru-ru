@@ -4,12 +4,12 @@ ms.assetid: 6730170a-0f73-4a84-b3fb-bd15c72917c7
 title: CommonFiles64Folder, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 025645f7e5ef4b841115c1bedcfa4b6fccf027913b2b1708895f7ab21bd5d9df
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c44a6720e609cfa79cd0e4adbfd5136c7a92a5ce
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118145363"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142397"
 ---
 # <a name="commonfiles64folder-property"></a>CommonFiles64Folder, свойство
 
@@ -19,7 +19,7 @@ ms.locfileid: "118145363"
 
 Установщик задает это свойство для 64-разрядного Windows. Это свойство не используется в 32-разрядном Windows. при использовании 64-разрядной Windows значение может быть "C: \\ Program files \\ Common files".
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

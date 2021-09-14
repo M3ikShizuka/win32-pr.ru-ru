@@ -4,12 +4,12 @@ ms.assetid: 2534d387-a280-4716-9a9d-3e42f40e2f92
 title: Сбор данных о производительности
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 79f65280190e67e27783ea7e7387eac0e348aad1a53ad016df3010ae0bfd2ea9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e99bd2c0e22553245e87d3844694051c88c57895
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119061242"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067363"
 ---
 # <a name="collecting-performance-data"></a>Сбор данных о производительности
 

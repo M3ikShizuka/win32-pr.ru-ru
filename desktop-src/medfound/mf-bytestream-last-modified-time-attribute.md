@@ -4,12 +4,12 @@ ms.assetid: dceff922-44eb-478f-842a-8ac0e73a02ee
 title: Атрибут MF_BYTESTREAM_LAST_MODIFIED_TIME (Мфобжектс. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9b476a78dba2bf757ed37b6029d67d5084804d1360dbc61e7c8861005b74a3bf
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 11a5069f8c3f826db9f2ec031d5674013839d97f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120113974"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263331"
 ---
 # <a name="mf_bytestream_last_modified_time-attribute"></a>\_ \_ \_ Атрибут времени последнего изменения MF BYTESTREAM \_
 
@@ -25,7 +25,7 @@ ms.locfileid: "120113974"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -37,7 +37,7 @@ ms.locfileid: "120113974"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

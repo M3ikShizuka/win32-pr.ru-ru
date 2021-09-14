@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: 8636f42026fe44131e149b0e378089b70c7d4f49b9e23b5d48ebe50aa5721d79
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f8a9bbe3459109946b7a4789d9b9f0fb7473ff05
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119594814"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345558"
 ---
 # <a name="isearchprotocoluigetsearchitemforurl-method"></a>Метод Исеарчпротоколуи:: Жетсеарчитемфорурл
 
@@ -79,7 +79,7 @@ HRESULT GetSearchItemForUrl(
 
 для предварительного просмотра вложений с помощью обработчика протоколов стороннего производителя на компьютерах под управлением Windows XP или Windows Server 2003 может потребоваться использовать интерфейс [**исеарчпротоколуи**](-search-isearchprotocolui.md) и следующие api: интерфейсы [**иитемпревиеверекст**](-search-iitempreviewerext.md), [**иитемпропертибаг**](iitempropertybag.md) и [**исеарчитем**](-search-isearchitem.md) , структуру [**линкинфо**](-search-linkinfo.md) и [**перечисление**](-search-linktype.md) типов ссылок.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -91,7 +91,7 @@ HRESULT GetSearchItemForUrl(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

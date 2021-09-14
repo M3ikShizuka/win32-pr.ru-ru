@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: d23df592abd125fd64362af89b6f81c5e9dcc20f0aa6cc998974a8fd2d4d87f0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 809694cacf0c30acf88ddf7d14c7f5ea1f654436
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118953743"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065701"
 ---
 # <a name="csourcestreamdobufferprocessingloop-method"></a>Ксаурцестреам. Добуфферпроцессинглуп, метод
 
@@ -67,7 +67,7 @@ virtual HRESULT DoBufferProcessingLoop();
 
 `DoBufferProcessingLoop`Метод обрабатывает уведомление о завершении потока. При возникновении ошибки оно отправляет событие [**EC \_ еррораборт**](ec-errorabort.md) в Диспетчер графа фильтров.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,7 +78,7 @@ virtual HRESULT DoBufferProcessingLoop();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

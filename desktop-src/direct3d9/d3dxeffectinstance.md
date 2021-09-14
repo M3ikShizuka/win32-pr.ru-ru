@@ -14,11 +14,11 @@ api_type:
 api_location:
 - d3dx9mesh.h
 ms.openlocfilehash: 6874da0fd04b34036152d58e94b16006e185e117
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "104354883"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127066282"
 ---
 # <a name="d3dxeffectinstance-structure"></a>Структура D3DXEFFECTINSTANCE
 
@@ -37,7 +37,7 @@ typedef struct D3DXEFFECTINSTANCE {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -80,7 +80,7 @@ typedef struct D3DXEFFECTINSTANCE {
 
 | Требование | Значение |
 |-------------------|----------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3dx9mesh. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3dx9mesh. h</dt> </dl> |
 
 
 

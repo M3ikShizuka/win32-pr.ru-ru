@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: fb9ee76a0b8336ccdca90a04ee3c2a223b7269a30a00276418d6c46a8bb3abc2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 54b599ed3124c0d06468bd15589d6aa8a93fb7c1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119800904"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065796"
 ---
 # <a name="setshareinfo-method-of-the-win32_share-class"></a>Метод Сетшареинфо \_ класса общего ресурса Win32
 
@@ -124,7 +124,7 @@ $newShare = Get-WmiObject win32_share | Where-Object {$_.name -eq "newShare"}
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -138,7 +138,7 @@ $newShare = Get-WmiObject win32_share | Where-Object {$_.name -eq "newShare"}
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

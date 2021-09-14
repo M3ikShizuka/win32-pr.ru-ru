@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: f7e263678bc6c6b56e851f928210be59ebd3d9a0fa3cfd764043061f26bd82ad
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5bf38de025abd8770919400cd6fb9e999817a936
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118494891"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263712"
 ---
 # <a name="esentinstanceunavailableduetofatallogdiskfullexception-class"></a>Класс Есентинстанцеунаваилабледуетофаталлогдискфуллексцептион
 
@@ -68,7 +68,7 @@ public sealed class EsentInstanceUnavailableDueToFatalLogDiskFullException : Ese
 
 Любые общедоступные статичные (общие в Visual Basic) члены этого типа являются потокобезопасными. Потокобезопасная работа с членами экземпляров типа не гарантируется.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

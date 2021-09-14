@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 63a0cfd212767a0219af83d734d3562edacc84901098afcf77c786d8895f32d8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: af2097ee682aec7da0ca36df9e4b465fb360f814
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118512880"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345847"
 ---
 # <a name="ps_1_4-source-register-modifiers-for-texld-texcrd"></a>\_ \_ модификаторы исходного регистра PS 1 4 для текслд, текскрд
 
@@ -31,7 +31,7 @@ ms.locfileid: "118512880"
 | \_DZ                      | Разделить компоненты x, y по z | регистрация \_ DZ |
 | \_db                      | Разделить компоненты x, y по z | регистрация \_ базы данных |
 | \_DW                      | Деление компонентов x, y на w | регистрация \_ хранилища данных |
-| \_da                      | Деление компонентов x, y на w | регистрация \_ Da |
+| \_Da                      | Деление компонентов x, y на w | регистрация \_ Da |
 
 
 

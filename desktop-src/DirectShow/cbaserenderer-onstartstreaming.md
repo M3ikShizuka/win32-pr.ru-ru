@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 1b0f050222b0ca6a88c7cf1d9348597e4d7b68f2a2ed431b4f6843afe97efd5b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 66433795b0674e1d2d5b7a7de5b1dcd1b50eb424
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118157677"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261448"
 ---
 # <a name="cbaserendereronstartstreaming-method"></a>Кбасерендерер. Онстартстреаминг, метод
 
@@ -48,7 +48,7 @@ virtual HRESULT OnStartStreaming();
 
 Метод [**кбасерендерер:: стартстреаминг**](cbaserenderer-startstreaming.md) вызывает этот метод. Он не выполняет никаких действий в базовом классе, но производный класс может его переопределить.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ virtual HRESULT OnStartStreaming();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

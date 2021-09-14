@@ -5,11 +5,11 @@ title: ICE80
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 5d5233f260e9cc248bdb2d0c19b47956a2b7dbe1
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105650577"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067995"
 ---
 # <a name="ice80"></a>ICE80
 
@@ -17,7 +17,7 @@ ICE80 проверяет, что значение свойства " [**Свод
 
 ICE80 также проверяет, что идентификатор языка, указанный в свойстве [**продуктлангуаже**](productlanguage.md) , должен содержаться в свойстве [**сводки шаблона**](template-summary.md) .
 
-Дополнительные сведения см. [в разделе установщик Windows в 64-разрядных операционных системах](windows-installer-on-64-bit-operating-systems.md).
+дополнительные сведения см. [в разделе установщик Windows в 64-разрядных операционных системах](windows-installer-on-64-bit-operating-systems.md).
 
 ## <a name="result"></a>Результат
 
@@ -43,14 +43,14 @@ ICE80 отправляет следующие ошибки.
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Справочник по ICE](ice-reference.md)
 </dt> <dt>
 
-[Установщик Windows в 64-разрядных операционных системах](windows-installer-on-64-bit-operating-systems.md)
+[Windows Установщик на 64-разрядных операционных системах](windows-installer-on-64-bit-operating-systems.md)
 </dt> </dl>
 
  

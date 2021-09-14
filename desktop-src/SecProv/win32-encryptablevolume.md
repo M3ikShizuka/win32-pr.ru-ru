@@ -17,12 +17,12 @@ api_type:
 - Schema
 api_location:
 - Root\CIMV2\Security\MicrosoftVolumeEncryption
-ms.openlocfilehash: 3beb3498cf9e3d2873ea7dcfe3a108618eeddb513bc8207d1e819cce2fe976d4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b202a536f3c20126c05f072c029fe316f90ce4fe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118891007"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067047"
 ---
 # <a name="win32_encryptablevolume-class"></a>\_Класс Win32 енкриптаблеволуме
 
@@ -60,7 +60,7 @@ class Win32_EncryptableVolume
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ енкриптаблеволуме** имеет следующие типы членов:
 
@@ -87,7 +87,7 @@ class Win32_EncryptableVolume
 | [**дисаблекэйпротекторс**](disablekeyprotectors-win32-encryptablevolume.md)                                             | Отключает все предохранители ключа, связанные с этим томом.<br/>                                                                                                                                                                                                                   |
 | [**енаблеаутаунлокк**](enableautounlock-win32-encryptablevolume.md)                                                     | Позволяет автоматически разблокировать том данных при подключении тома.<br/>                                                                                                                                                                                              |
 | [**енаблекэйпротекторс**](enablekeyprotectors-win32-encryptablevolume.md)                                               | Включает все отключенные предохранители ключа.<br/>                                                                                                                                                                                                                                       |
-| [**Шифрование**](encrypt-win32-encryptablevolume.md)                                                                       | Начинает шифрование полностью расшифрованного тома или возобновляет шифрование частично зашифрованного тома.<br/>                                                                                                                                                                       |
+| [**Шифрования**](encrypt-win32-encryptablevolume.md)                                                                       | Начинает шифрование полностью расшифрованного тома или возобновляет шифрование частично зашифрованного тома.<br/>                                                                                                                                                                       |
 | [**енкриптафтерхардваретест**](encryptafterhardwaretest-win32-encryptablevolume.md)                                     | Начинает шифрование полностью расшифрованного тома после проверки оборудования.<br/>                                                                                                                                                                                                       |
 | [**финдвалидцертификатес**](findvalidcertificates-win32-encryptablevolume.md)                                           | Перечисляет все сертификаты в системе, соответствующие указанным критериям, и возвращает список отпечатков.<br/>                                                                                                                                                             |
 | [**жетконверсионстатус**](getconversionstatus-win32-encryptablevolume.md)                                               | Указывает состояние шифрования или расшифровки тома.<br/>                                                                                                                                                                                                        |
@@ -137,7 +137,7 @@ class Win32_EncryptableVolume
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ енкриптаблеволуме** имеет следующие свойства.
 
@@ -214,7 +214,7 @@ class Win32_EncryptableVolume
 
 </dd> </dl>
 
-## <a name="security-considerations"></a>Соображения безопасности
+## <a name="security-considerations"></a>Вопросы безопасности
 
 Класс поставщика инструментария WMI **\_ Енкриптаблеволуме для Win32** использует безопасность пространства имен WMI и в подсистеме шифрование диска BitLocker для контроля доступа.
 

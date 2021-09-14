@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d6eb9fbca41f8ad9fe9564c45f3ece21af58e5e16b7bb4ac85d0f6b1d2b428bf
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 29569c84d21dbb2cd69579c78747e844cfd23ba4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119493774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127260171"
 ---
 # <a name="glgettexgeniv-function"></a>Функция Глжеттексженив
 
@@ -98,7 +98,7 @@ void WINAPI glGetTexGeniv(
 
 Если возникает ошибка, содержимое *параметров* не изменяется.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -112,7 +112,7 @@ void WINAPI glGetTexGeniv(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

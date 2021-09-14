@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Mergemod.dll
-ms.openlocfilehash: 0de11edff94fb41e98696e1e2b16cc397f3bf05b599ad0740fb07de2c72cac37
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: aa3f95d73bdd6bda0c0f9a71fd3f4d9292e8c5fb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120074984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127141869"
 ---
 # <a name="dependencyversion-property"></a>Свойство зависимости. Version
 
@@ -42,7 +42,7 @@ propVal = Dependency.Version
 
 См. раздел [**Получение функции \_ версии**](/windows/win32/api/mergemod/nf-mergemod-imsmdependency-get_version) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

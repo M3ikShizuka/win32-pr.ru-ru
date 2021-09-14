@@ -4,12 +4,12 @@ ms.assetid: ed78b7eb-bf15-4068-ab86-ae42a5e62096
 title: OPM_SET_ACP_AND_CGMSA_SIGNALING (Опмапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 265d2986c624e30d342a4b3bc5e957e04c56bd01d51e146536de5731db42ace8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 02247c48b89e61d49afe7f8f6f3821da68ff050b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119343514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346503"
 ---
 # <a name="opm_set_acp_and_cgmsa_signaling"></a>ОПМ \_ Установка \_ \_ сигнала ACP и \_ кгмса \_
 

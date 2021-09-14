@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 882a356f47aa146ec8ba1b06d7af43235c8213334c0d82d0a241c590654bf2a6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2368b0e2abda3bcdd08872d730f8b9902dad43ac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118157704"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261464"
 ---
 # <a name="cbaserendereronreceivefirstsample-method"></a>Кбасерендерер. Онрецеивефирстсампле, метод
 
@@ -59,7 +59,7 @@ virtual void OnReceiveFirstSample(
 
 При поиске графа во время приостановки также вызывается этот метод.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ virtual void OnReceiveFirstSample(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

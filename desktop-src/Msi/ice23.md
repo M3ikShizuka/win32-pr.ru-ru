@@ -4,12 +4,12 @@ ms.assetid: d425f8c6-4615-439d-8194-3a0325eb3cc3
 title: ICE23
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: dbab2d50c07fce208edc845e64cff0061f513c102a55da2d56b49c4a4c17e867
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8c1823a70e50d7dd3c42c2e90d6a2d0f11f2fa5b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119529004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068106"
 ---
 # <a name="ice23"></a>ICE23
 
@@ -56,7 +56,7 @@ ICE23 выводит следующие сообщения об ошибках �
 
 
 
-| Диалог  | Элемент  | Управление \_ следующим |
+| Диалог  | Control  | Управление \_ следующим |
 |---------|----------|---------------|
 | Dialog1 | Элемент управления |               |
 | Dialog1 | контролб | Элемент управления      |

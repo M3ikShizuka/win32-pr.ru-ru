@@ -4,12 +4,12 @@ ms.assetid: 95d9b8b4-0b65-451a-8629-f0b276d6e35d
 title: ICE60
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ce8d2cbf9136ea6195a138c586d4408dc0d2e5ff411b52fd73fec8a569c5d186
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e26c6f296fd514f582a699a5f839a7e145169e3e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120044034"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068035"
 ---
 # <a name="ice60"></a>ICE60
 
@@ -56,13 +56,13 @@ WARNING: The file FileE is not a Font, and its version is not a companion file r
 
 
 
-| File  | Версия | Язык |
+| Файл  | Версия | Язык |
 |-------|---------|----------|
-| Файл а | 1.0     | 1033     |
-| филеб | 1.0     |          |
+| Файл а | 1,0     | 1033     |
+| филеб | 1,0     |          |
 | филек | Файл а   |          |
 | Подан |         |          |
-| Файл | 1.0     |          |
+| Файл | 1,0     |          |
 
 
 
@@ -72,7 +72,7 @@ WARNING: The file FileE is not a Font, and its version is not a companion file r
 
 
 
-| File  | фонттитле  |
+| Файл  | фонттитле  |
 |-------|------------|
 | филеб | Название шрифта |
 

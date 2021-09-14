@@ -4,12 +4,12 @@ ms.assetid: c5292a3c-57bb-4203-96a1-6d747f554178
 title: ICE27
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fadedada0b2bd7ae936e12ad4c980f4ab0394c55e711db286fa6312ba446b9fb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4eb4b90b313f5f78874fb93ce9d32c3650b97064
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119528794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068098"
 ---
 # <a name="ice27"></a>ICE27
 

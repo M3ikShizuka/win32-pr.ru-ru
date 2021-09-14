@@ -17,12 +17,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 2dec66ed5ee930db9bff7917e942de44bdc9582ec130a987e83cbb9d633523cf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 26b65f983970c91d36e8d0a301277c67a2cc5639
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119921304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261723"
 ---
 # <a name="cim_packageinchassis-class"></a>\_Класс CIM паккажеинчассис
 
@@ -47,7 +47,7 @@ class CIM_PackageInChassis : CIM_Container
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ паккажеинчассис** имеет следующие типы членов:
 
@@ -114,7 +114,7 @@ class CIM_PackageInChassis : CIM_Container
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -128,7 +128,7 @@ class CIM_PackageInChassis : CIM_Container
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: следующие перечисления поддерживаю�
 ms.assetid: 122c4872-acd1-403f-bb94-16349e73a320
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a2052408f2df1024a725371ba8f3918b14708139e82a3f21ff0b9ae7419919c0
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 70fb2a5e9abf2b276a42df7f396f26870d7ec7b4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120004124"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261883"
 ---
 # <a name="bluetooth-enumerations"></a>Bluetooth Перечисления
 

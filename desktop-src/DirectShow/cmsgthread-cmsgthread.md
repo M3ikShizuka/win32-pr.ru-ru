@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 602ad73bb18ceb75e27d26b9665946f1aaccb679f2811b2dd913409e8eb3651d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 08d76ebecd09d95b7ba0fca22b300c1e402f5302
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119585714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346983"
 ---
 # <a name="cmsgthreadcmsgthread-constructor"></a>Кмсгсреад. Кмсгсреад, конструктор
 
@@ -44,7 +44,7 @@ CMsgThread();
 
 Создание объекта потока сообщений не приводит к автоматическому созданию потока. Для создания потока необходимо вызвать функцию члена [**кмсгсреад:: CreateThread**](cmsgthread-createthread.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ CMsgThread();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

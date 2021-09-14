@@ -5,11 +5,11 @@ title: Атрибут MF_PD_ASF_CODECLIST (Вмконтаинер. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: c512dee499dbd2d006fb695c89d59add449e64fb
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122471310"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345643"
 ---
 # <a name="mf_pd_asf_codeclist-attribute"></a>\_ \_ Атрибут кодеклист MF PD ASF \_
 
@@ -19,7 +19,7 @@ ms.locfileid: "122471310"
 
 массив байтов;
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот атрибут применяется к дескрипторам представления для содержимого ASF.
 
@@ -75,7 +75,7 @@ ms.locfileid: "122471310"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

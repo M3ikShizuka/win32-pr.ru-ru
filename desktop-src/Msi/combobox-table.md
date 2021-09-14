@@ -4,12 +4,12 @@ ms.assetid: 1d3566ac-e95d-48ed-bce4-fb4604d5f762
 title: Таблица ComboBox
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7dea20677ab6ede02f76a1061d5f715eb0b8d6d87a1744d1eb89b7e0918a018e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e209ac8a7c27c36fd5c1bbd3c97822617c48f5c7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118380299"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142430"
 ---
 # <a name="combobox-table"></a>Таблица ComboBox
 
@@ -21,10 +21,10 @@ ms.locfileid: "118380299"
 
 | Столбец   | Type                         | Ключ | Допускает значения NULL |
 |----------|------------------------------|-----|----------|
-| Свойство | [Идентификатор](identifier.md) | Д   | Нет        |
-| Номер    | [Integer](integer.md)       | Д   | Нет        |
+| Свойство. | [Идентификатор](identifier.md) | Да   | Нет        |
+| Порядок    | [Integer](integer.md)       | Да   | Нет        |
 | Значение    | [Формате](formatted.md)   | Нет   | Нет        |
-| Текст     | [Text](text.md)             | Нет   | Д        |
+| Текст     | [Text](text.md)             | Нет   | Да        |
 
 
 

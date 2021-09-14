@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - IACom.dll
-ms.openlocfilehash: 2e378aaf344e177514115c82b1179f8d1ebe25faefa0d5d840d5a0af62ff1c07
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 300e0126b4a1ff55d372ff31deebde0eab686645
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118967363"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127262448"
 ---
 # <a name="icontextnodeisconfirmed-method"></a>Метод Иконтекстноде:: Confirm
 
@@ -62,7 +62,7 @@ HRESULT IsConfirmed(
 
 Это значение задается методом [**иконтекстноде:: Confirm**](icontextnode-confirm.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -75,7 +75,7 @@ HRESULT IsConfirmed(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

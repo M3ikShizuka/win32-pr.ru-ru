@@ -4,12 +4,12 @@ ms.assetid: C970E958-3866-491A-9806-DB300834360E
 title: Атрибут MFSampleExtension_CameraExtrinsics (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 109dd0d171468d3a0a3c2c4f06ba1a7edc18707aa1e17afe0d1be65509f4266d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3340f1ab84061fa00e12fa65960f1b2902690816
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119722664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263195"
 ---
 # <a name="mfsampleextension_cameraextrinsics-attribute"></a>Мфсампликстенсион \_ камераекстринсикс, атрибут
 

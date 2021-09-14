@@ -4,12 +4,12 @@ ms.assetid: 6f6d45b0-759d-4d28-a542-5cdbb589448f
 title: Создание настраиваемого действия запуска
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 536f22c95d871ab502518a0619efad5ae70cb348cdf75163fc50309b440f6393
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4805b20b2250351927100ad978d8791e7acf045f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120045280"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142690"
 ---
 # <a name="authoring-the-launch-custom-action"></a>Создание настраиваемого действия запуска
 

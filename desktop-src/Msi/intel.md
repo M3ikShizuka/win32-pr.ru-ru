@@ -4,18 +4,18 @@ ms.assetid: c1190df2-0440-4dd1-bce5-61d899f71437
 title: Intel, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: dd5b4fe488867a67da1f97ce4564bb8ce530b89417554a91a8734bee6e863f44
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ab73f35b371d3bf8323fe2a3f3de1608666bc181
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119013242"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127065479"
 ---
 # <a name="intel-property"></a>Intel, свойство
 
 при работе на процессоре intel свойство **Intel** устанавливается установщик Windows на числовой уровень процессора. Значения совпадают с полями *впроцессорлевел* в структуре [**системных \_ сведений**](/windows/win32/api/sysinfoapi/ns-sysinfoapi-system_info) . при работе на процессоре x64 установщик Windows устанавливает свойство **Intel** в соответствии с процессором x86, который эмулируется операционной системой компьютера x64.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
