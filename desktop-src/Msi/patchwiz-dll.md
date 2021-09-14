@@ -4,12 +4,12 @@ ms.assetid: aca3bbd2-440a-405f-bddc-5f9cc831b811
 title: Patchwiz.dll
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0de7a099a95eb6b42341b7f440f15fadb42e6a5ea8bbf69ff4d61b1fcaa28d21
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c6dc1135a9e2c09bb8a96e041f77bae39f0057ea
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120129174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057748"
 ---
 # <a name="patchwizdll"></a>Patchwiz.dll
 
@@ -53,7 +53,7 @@ pcp-файл представляет собой двоичный файл ба�
 
 Можно указать, что определенные регионы целевого файла будут сохранены при установке исправлений, а сведения в этих регионах будут сохранены. Дополнительные сведения см. в разделе [исправление выбранных регионов файла](patching-selected-regions-of-a-file.md).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

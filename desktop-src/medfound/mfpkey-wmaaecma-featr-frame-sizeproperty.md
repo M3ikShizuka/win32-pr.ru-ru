@@ -4,12 +4,12 @@ ms.assetid: b414ac34-c60a-4f43-924f-43431d6ba25f
 title: Свойство MFPKEY_WMAAECMA_FEATR_FRAME_SIZE (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 812a9c7b85a36b730caffe7679cc742a3bc029546a12839afd95a8c8ab58bfeb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5623cf3d26b968c7e7745fa0c01c69c034505cfa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118973293"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257507"
 ---
 # <a name="mfpkey_wmaaecma_featr_frame_size-property"></a>МФПКЭЙ \_ вмааекма \_ феатр \_ \_ Размер кадра
 
@@ -31,7 +31,7 @@ VT \_ I4
 
 -   [DSP для записи речи](voicecapturedmo.md)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Алгоритм "Отмена акустического эха" обрабатывает образцы звука PCM по одному кадру за раз. Значение этого свойства равно размеру звукового кадра в образцах. Перед установкой этого свойства необходимо присвоить свойству [ \_ \_ \_ режима компонента мфпкэй вмааекма](mfpkey-wmaaecma-feature-modeproperty.md) значение Variant \_ true.
 
@@ -50,7 +50,7 @@ DSP для захвата голоса поддерживает следующи
 
 После первого вызова [**имедиаобжект:: аллокатестреамингресаурцес**](/previous-versions/windows/desktop/api/mediaobj/nf-mediaobj-imediaobject-allocatestreamingresources) или [**Имедиаобжект::P роцессаутпут**](/previous-versions/windows/desktop/api/mediaobj/nf-mediaobj-imediaobject-processoutput)можно прочитать это свойство, чтобы получить фактический размер кадра, даже если в [**\_ \_ \_ режиме мфпкэй вмааекма функции**](mfpkey-wmaaecma-feature-modeproperty.md) задано значение false.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -62,7 +62,7 @@ DSP для захвата голоса поддерживает следующи
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

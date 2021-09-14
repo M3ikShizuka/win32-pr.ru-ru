@@ -17,12 +17,12 @@ keywords:
 - DRM (Управление цифровыми правами), DirectShow
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a4b3de3ca80d1b3b2fe27c9af590fe0cba0202b1fdd9b6fc322d8ed1c1871536
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 85a211a3d3b438bac246c0bd90759f648818ac2e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119930884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247354"
 ---
 # <a name="drm-support-in-directshow"></a>Поддержка DRM в DirectShow
 

@@ -56,11 +56,11 @@ api_type:
 api_location:
 - wiadef.h
 ms.openlocfilehash: f33e7f2dfd17e535e47026aee173feccb7c69584
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122624200"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247621"
 ---
 # <a name="camera-device-property-constants"></a>Константы свойств устройства камеры
 
@@ -83,7 +83,7 @@ Windows аппаратные устройства для получения из
 <thead>
 <tr class="header">
 <th >Константа/значение</th>
-<th >Описание:</th>
+<th >Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -102,7 +102,7 @@ Windows аппаратные устройства для получения из
 <thead>
 <tr class="header">
 <th>Режим экспозиции</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -207,7 +207,7 @@ Windows аппаратные устройства для получения из
 <thead>
 <tr class="header">
 <th>Режим фокусировки</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -268,7 +268,7 @@ Windows аппаратные устройства для получения из
 <thead>
 <tr class="header">
 <th>Режим питания</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -355,7 +355,7 @@ Windows аппаратные устройства для получения из
 <thead>
 <tr class="header">
 <th>Режим эффектов</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -401,7 +401,7 @@ Windows аппаратные устройства для получения из
 <thead>
 <tr class="header">
 <th>Режим записи</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -441,7 +441,7 @@ Windows аппаратные устройства для получения из
 <thead>
 <tr class="header">
 <th>Режим измерения экспозиции</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -476,7 +476,7 @@ Windows аппаратные устройства для получения из
 <thead>
 <tr class="header">
 <th>Режим измерения фокуса</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -518,7 +518,7 @@ Windows аппаратные устройства для получения из
 <thead>
 <tr class="header">
 <th>Баланс белого</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>

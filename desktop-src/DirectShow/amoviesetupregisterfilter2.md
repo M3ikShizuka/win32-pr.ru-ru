@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 69b37fcf3e680cb8a64155aaf1474a8234934fe34bb5349151252ec7500e87a5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 272b781cf70f1dede9d4eea64b45d3d9d793a119
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118001869"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162296"
 ---
 # <a name="amoviesetupregisterfilter2-function"></a>Функция AMovieSetupRegisterFilter2
 
@@ -69,7 +69,7 @@ HRESULT AMovieDllRegisterServer(
 
 Если эта функция завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция [**AMovieDllRegisterServer2**](amoviedllregisterserver2.md) вызывает эту вспомогательную функцию для регистрации фильтра после регистрации сервера COM.
 
@@ -86,7 +86,7 @@ HRESULT AMovieDllRegisterServer(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -5,11 +5,11 @@ title: Действие Ресолвесаурце
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 713598cd4daa90764cde2155e43b61e151432d31
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105664263"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057611"
 ---
 # <a name="resolvesource-action"></a>Действие Ресолвесаурце
 
@@ -27,7 +27,7 @@ ms.locfileid: "105664263"
 
 Действие Ресолвесаурце должно быть вызвано до использования свойства [**SourceDir**](sourcedir.md) в любом выражении. Он также должен вызываться перед попыткой получить значение свойства **SourceDir** с помощью [**MsiGetProperty**](/windows/desktop/api/Msiquery/nf-msiquery-msigetpropertya). Действие Ресолвесаурце не должно выполняться, если источник недоступен, так как это может быть при удалении приложения.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: b671e941-ded6-4bde-bc4d-461f13feade0
 title: Реализация Ивикбитмапенкодер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 69d02105470f837dba0689b665473c01c42f6cd6497a85424ea6eea3371696f3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 590dffcf762d22155a89a8143994d9a4d8bcab02
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119088016"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247579"
 ---
 # <a name="implementing-iwicbitmapencoder"></a>Реализация Ивикбитмапенкодер
 
@@ -162,7 +162,7 @@ hr = pComponentFactory->CreateEncoderPropertyBag(
 [**ивикбитмапфраминкоде**](/windows/desktop/api/Wincodec/nn-wincodec-iwicbitmapframeencode)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Интерфейсы кодировщика](-wic-encoderinterfaces.md)

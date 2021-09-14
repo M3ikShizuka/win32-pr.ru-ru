@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Pdh.dll
-ms.openlocfilehash: da6cc5b476373a55135d91d21163f15cb04379fff9d7c7c2cf1342451a5a201d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 980665372d49f483e3fb59b7571ec38fa9c2851a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119061162"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057145"
 ---
 # <a name="pdhvbgetonecounterpath-function"></a>Функция Пдхвбжетонекаунтерпас
 
@@ -91,7 +91,7 @@ ms.locfileid: "119061162"
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

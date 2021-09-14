@@ -5,11 +5,11 @@ ms.assetid: 65a8a8af-f4d8-4948-8dd4-b592f1381bfe
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: cd929ebd7d8e9f1a3c372ce212d63dcb29df82b7
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "105672353"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056624"
 ---
 # <a name="enumerating-tasks-example"></a>Пример перечисления задач
 
@@ -33,15 +33,15 @@ ms.locfileid: "105672353"
 
 
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
 [Примеры планировщик задач 1,0](task-scheduler-1-0-examples.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

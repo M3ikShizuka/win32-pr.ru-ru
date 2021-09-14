@@ -4,12 +4,12 @@ ms.assetid: 0df2031e-826f-436e-a689-201fa8b5c38f
 title: 'Событие Ивинхттпрекуестевентс:: Онреспонсефинишед'
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2114135c17f3e2eb2f9d60a7044f7441271f257fe099de31ea70c6030de769df
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 19d3a596e23028cec0401a21a1ee866ef6e51d9d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117744254"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056291"
 ---
 # <a name="iwinhttprequesteventsonresponsefinished-event"></a>Событие Ивинхттпрекуестевентс:: Онреспонсефинишед
 
@@ -32,7 +32,7 @@ void OnResponseFinished();
 
 Это событие не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это событие сигнализирует о получении всех данных ответа, относящихся к последнему запросу. [**Онреспонседатааваилабле**](iwinhttprequestevents-onresponsedataavailable.md) не повторяется до следующего запроса.
 
@@ -54,7 +54,7 @@ void OnResponseFinished();
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

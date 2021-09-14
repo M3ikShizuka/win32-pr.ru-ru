@@ -4,12 +4,12 @@ ms.assetid: 9e316bdd-803a-47af-b004-7675478eb829
 title: Реализация Ивикбитмапдекодер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0088b756a7a30134224e32fa67ee891f2c48339f9af70447cb760915ad420619
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b31bca377828606fe1beb68d6f1d95d290e01407
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118711151"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247564"
 ---
 # <a name="implementing-iwicbitmapdecoder"></a>Реализация Ивикбитмапдекодер
 
@@ -146,7 +146,7 @@ hr = pPreviewFrame->QueryInterface(IID_IWICBitmapSource, (void**)&pPreview);
 [**IWICBitmapFrameDecode**](/windows/desktop/api/Wincodec/nn-wincodec-iwicbitmapframedecode)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Интерфейсы декодера](-wic-decoderinterfaces.md)

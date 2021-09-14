@@ -5,11 +5,11 @@ ms.assetid: b0fd3598-26b6-faee-4f10-ebba96241bc8
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 3f12e7593f9cb0695a6adb7b955fb66b13c8d00b
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103988584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162535"
 ---
 # <a name="tint-effect"></a>Оттенок
 
@@ -36,13 +36,13 @@ ms.locfileid: "103988584"
 
 | Требование | Значение |
 |--------------------------|---------------------------------------------------|
-| Минимальная версия клиента | Приложения для \[ магазина Windows для классических приложений Windows 10 \|\] |
-| Минимальная версия сервера | Приложения для \[ магазина Windows для классических приложений Windows 10 \|\] |
-| Header                   | d2d1effects \_ 2. h                                  |
+| Минимальная версия клиента | Windows 10 \[ классические приложения \| Windows приложения магазина\] |
+| Минимальная версия сервера | Windows 10 \[ классические приложения \| Windows приложения магазина\] |
+| Заголовок                   | d2d1effects \_ 2. h                                  |
 | Библиотека                  | D2D1. lib, дксгуид. lib                              |
 
 
 
- ## <a name="related-topics"></a>См. также
+ ## <a name="related-topics"></a>Связанные темы
 
 * [Интерфейс ID2D1Effect](/windows/desktop/api/d2d1_1/nn-d2d1_1-id2d1effect)

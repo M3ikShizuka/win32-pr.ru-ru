@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 120ae54e615e96b368f44c1523703ca35f89d40313f79b450e2cbbd8923829dd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cc5b80e20ad2a16af9c25c68499348ffa744c0fa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118156408"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246829"
 ---
 # <a name="cmediatypegetsamplesize-method"></a>Кмедиатипе. Жетсамплесизе, метод
 
@@ -44,7 +44,7 @@ ULONG GetSampleSize() const;
 
 Если размер выборки является фиксированным, возвращает размер выборки в байтах. В противном случае возвращает нуль.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ ULONG GetSampleSize() const;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

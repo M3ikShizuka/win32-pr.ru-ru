@@ -4,12 +4,12 @@ ms.assetid: 6bef923f-4083-46e1-9a2e-49a6825467ec
 title: Событие Месессионратечанжед (Мфобжектс. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 682af0dbfde598e09ad3e80fd2e5594735e73758b9389faf2bd48540195a2773
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b4cbbd8254dfb988c94cf2016164726d578d8906
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119941454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257883"
 ---
 # <a name="mesessionratechanged-event"></a>Событие Месессионратечанжед
 
@@ -21,13 +21,13 @@ ms.locfileid: "119941454"
 
 
 
-| VARTYPE           | Описание                                                                                     |
+| VARTYPE           | Описание:                                                                                     |
 |-------------------|-------------------------------------------------------------------------------------------------|
 | VT \_ R4<br/> | Новая скорость воспроизведения, выраженная в виде коэффициента обычной скорости воспроизведения.<br/> <br/> |
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -39,7 +39,7 @@ ms.locfileid: "119941454"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

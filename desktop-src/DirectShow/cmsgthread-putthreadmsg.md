@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 7eefa95c4fd6ab19c895b4d1d47dba3a19302023985a4631708c3cf7ccc10d06
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3445d9af4ec9c7abe6a4401e219fc305e254d555
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119585644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971649"
 ---
 # <a name="cmsgthreadputthreadmsg-method"></a>Кмсгсреад. Путсреадмсг, метод
 
@@ -77,13 +77,13 @@ void PutThreadMsg(
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция-член ставит в очередь запрос на выполнение от рабочего потока. Параметры этой функции-члена будут помещены в очередь (в объекте [**КМСГ**](cmsg.md) ) и переданы в функцию-член [**Кмсгсреад:: среадмессажепрок**](cmsgthread-threadmessageproc.md) рабочего потока. Эта функция – член возвращает сразу после постановки в очередь запроса и не ожидает выполнения запроса потоком. Функция члена **кмсгсреад:: среадмессажепрок** производного класса определяет четыре параметра.
 
 Эта функция-член использует безопасный список с многопоточностью, поэтому можно безопасно сделать несколько вызовов этой функции-члена из разных потоков.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -94,7 +94,7 @@ void PutThreadMsg(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

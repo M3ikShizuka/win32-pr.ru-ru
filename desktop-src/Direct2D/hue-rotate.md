@@ -6,12 +6,12 @@ keywords:
 - ротататионный тон, результат
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 531ab9b1649db96bc5ee100df98ed10b4021b506e3ad71bb426778655348b2df
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 525dbe8fc94377080fbae34b80252c84c05073ac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119569140"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163124"
 ---
 # <a name="hue-rotatation-effect"></a>Ротататионный тон, результат
 
@@ -22,7 +22,7 @@ ms.locfileid: "119569140"
 -   [Пример изображения](#example-image)
 -   [Свойства эффектов](#effect-properties)
 -   [Битовая карта вывода](#output-bitmap)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example-image"></a>Пример изображения
@@ -78,7 +78,7 @@ m_d2dContext->EndDraw();
 
 Размер выходного растрового изображения совпадает с размером входного растрового изображения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

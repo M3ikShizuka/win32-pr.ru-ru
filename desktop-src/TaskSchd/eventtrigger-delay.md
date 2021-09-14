@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 402ddb8e55f6eb22a4e2c106b64cbec3ed1afa6d0b58f38a2a8923f5bd8dfa4a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fcb67ca7ef12ca023bcb6c0d9d83880d4abb94af
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119959594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056623"
 ---
 # <a name="eventtriggerdelay-property"></a>EventTrigger. Delay, свойство
 
@@ -40,11 +40,11 @@ EventTrigger.Delay As String
 
 Значение, указывающее промежуток времени между возникновением события и моментом запуска задачи.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При чтении или записи собственного XML-кода для задачи задержка события указывается с помощью элемента [**delay**](taskschedulerschema-delay-eventtriggertype-element.md) схемы планировщик задач.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -57,7 +57,7 @@ EventTrigger.Delay As String
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

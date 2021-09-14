@@ -16,11 +16,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: ee8b1e9c7a14bced5a18fe58e51dbb8cc9aa6693
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124372402"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057444"
 ---
 # <a name="multimedia-file-io-structures"></a>Структуры файлового ввода-вывода мультимедиа
 

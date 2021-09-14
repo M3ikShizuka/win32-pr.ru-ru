@@ -4,12 +4,12 @@ ms.assetid: 17b7f76c-404c-4aa9-9746-1488fee027f2
 title: Атрибут MF_MT_MPEG_SEQUENCE_HEADER (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e1e988a5b64b7b1c99d3c84de7441f492cebe07f0b473ee3f5256c732fbb7697
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c4003137ec4d2942bc95f56b2ce54644eb7b678d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119035152"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257856"
 ---
 # <a name="mf_mt_mpeg_sequence_header-attribute"></a>\_ \_ \_ Атрибут заголовка последовательного сервера MF MT MPEG \_
 
@@ -19,7 +19,7 @@ ms.locfileid: "119035152"
 
 массив байтов;
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут соответствует элементу **двсекуенцехеадер** структуры [**MPEG2VIDEOINFO**](/previous-versions/windows/desktop/api/dvdmedia/ns-dvdmedia-mpeg2videoinfo) или элементу **бсекуенцехеадер** структуры [**MPEG1VIDEOINFO**](/previous-versions/windows/desktop/api/amvideo/ns-amvideo-mpeg1videoinfo) .
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 604ef35b6d7e62e626aa7cbee32c1563224794781275c470a1b3cd1727b926bd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c05c3ed991cfc933a4436baf332b49c67a907b11
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119019232"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972054"
 ---
 # <a name="lvm_scroll-message"></a>LVM \_ прокрутить сообщение
 
@@ -47,11 +47,11 @@ ms.locfileid: "119019232"
 
 Возвращает **значение true** в случае успешного выполнения. в противном случае — **значение false**.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если элемент управления "представление списка" находится в представлении отчета, элемент управления можно прокручивать по вертикали только в пределах целых линий. Таким образом, параметр *lParam* округляется до ближайшего числа пикселей, образующих весь инкремент строки. Например, если высота строки составляет 16 пикселей, а для *lParam* передается 8, то список будет прокручиваться на 16 пикселей (1 строка). Если для *lParam* передается 7, список будет прокручиваться на 0 пикселей (0 строк).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

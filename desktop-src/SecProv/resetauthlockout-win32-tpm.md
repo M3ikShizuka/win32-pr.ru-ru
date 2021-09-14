@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Win32_tpm.dll
-ms.openlocfilehash: 779ae7e8578019215e0bab1091512c64d68a84675d702ea7a0d8a5c37e8f081f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d28287e410fbaf65ce5b1e617113c35cfece160b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119906304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056934"
 ---
 # <a name="resetauthlockout-method-of-the-win32_tpm-class"></a>Метод Ресетауслоккаут \_ класса TPM Win32
 
@@ -74,7 +74,7 @@ uint32 ResetAuthLockOut(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод вызывает команду TPM \_ ресетлокквалуе в доверенном платформенном модуле. Точное поведение этого метода зависит от производителей доверенного платформенного модуля. Документация от изготовителя компьютера или доверенного платформенного модуля может предоставить дополнительные сведения о реализации механизма атак с помощью антисловарей.
 
@@ -82,7 +82,7 @@ uint32 ResetAuthLockOut(
 
 файлы MOF-файл (MOF) содержат определения для классов инструментарий управления Windows (WMI) (WMI). MOF-файлы не устанавливаются в составе Windows SDK. Они устанавливаются на сервере при добавлении связанной роли с помощью диспетчер сервера. Дополнительные сведения о файлах MOF см. в разделе [MOF-файл (MOF)](../wmisdk/managed-object-format--mof-.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -96,7 +96,7 @@ uint32 ResetAuthLockOut(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

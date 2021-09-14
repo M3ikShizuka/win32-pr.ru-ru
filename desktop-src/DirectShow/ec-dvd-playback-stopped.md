@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - dvdevcode.h
-ms.openlocfilehash: 7a5f0b1b66e9d78309e33981910da467757a2b606b967cee5b78e86c4cc0049b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2304d83aea532b764777b683c57c3bdd4d5df79a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117820460"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246556"
 ---
 # <a name="ec_dvd_playback_stopped"></a>\_Воспроизведение DVD-диска EC \_ \_ остановлено
 

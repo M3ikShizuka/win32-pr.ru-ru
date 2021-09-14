@@ -6,18 +6,18 @@ keywords:
 - OpenGL, переменные состояния
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1b83ec5581d649ac5c7bca63bddd22954641d83af624d72bad3095af04f3c981
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 71d0dd43b0876630e9f913224afb63e3886a0e8a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120034624"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057218"
 ---
 # <a name="state-variables"></a>Переменные состояния
 
 В этом разделе перечислены переменные, которые можно запрашивать, их значения по умолчанию и команды для получения значений этих переменных. Переменные состояния перечислены в следующих категориях:
 
--   [**Преобразования**](transformation-state-variables.md)
+-   [**Преобразование**](transformation-state-variables.md)
 -   [**Выделения**](coloring-state-variables.md)
 -   [**Освещение**](lighting-state-variables.md)
 -   [**Rasterization**](rasterization-state-variables.md)

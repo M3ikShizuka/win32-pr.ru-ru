@@ -5,11 +5,11 @@ title: Свойство MFPKEY_COMPRESSIONOPTIMIZATIONTYPE (Вмкодекдсп
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: e140a854999a5c634620d98958e40832acbe9439
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122471730"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257696"
 ---
 # <a name="mfpkey_compressionoptimizationtype-property"></a>МФПКЭЙ \_ компрессионоптимизатионтипе, свойство
 
@@ -34,7 +34,7 @@ VT \_ I4
 
 
 
-| Значение | Описание | 
+| Значение | Описание: | 
 |-------|-------------|
 | 0 | Кодек не будет выполнять принудительную оптимизацию и будет использовать все функции, заданные другими свойствами. Во многих случаях кодек будет использовать внутреннюю логику для определения параметров, если они не указаны. Это значение по умолчанию. | 
 | 1 | Включает функции, которые обеспечивают наилучшее качество визуального элемента. При использовании этого значения кодек настраивается так, как если бы были заданы следующие свойства:<br /><ul><li><a href="mfpkey-bdeltaqpproperty.md">MFPKEY_BDELTAQP</a> = 1</li><li><a href="mfpkey-complexityexproperty.md">MFPKEY_COMPLEXITYEX</a> = 3</li><li><a href="mfpkey-loopfilterproperty.md">MFPKEY_LOOPFILTER</a> = 1</li><li><a href="mfpkey-motionmatchmethodproperty.md">MFPKEY_MOTIONMATCHMETHOD</a> =-1</li><li><a href="mfpkey-motionsearchlevelproperty.md">MFPKEY_MOTIONSEARCHLEVEL</a> = 1</li><li><a href="mfpkey-motionsearchrangeproperty.md">MFPKEY_MOTIONSEARCHRANGE</a> =-1</li><li><a href="mfpkey-numbframesproperty.md">MFPKEY_NUMBFRAMES</a> = 1</li></ul>Если задать любое из свойств в приведенном выше списке, заданное значение переопределит значения, связанные с этим параметром, за исключением <a href="mfpkey-complexityexproperty.md">MFPKEY_COMPLEXITYEX</a>.<br /> | 
@@ -58,7 +58,7 @@ VT \_ I4
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

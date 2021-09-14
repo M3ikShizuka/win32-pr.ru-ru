@@ -13,11 +13,11 @@ api_type:
 - Schema
 api_location: ''
 ms.openlocfilehash: 59f3fc25fda5f4bf4221417636ac25ab7d0f9a15
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104264700"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127245461"
 ---
 # <a name="keymaterial-sharedkey-element"></a>Кэйматериал (sharedKey), элемент
 
@@ -31,7 +31,7 @@ ms.locfileid: "104264700"
 
 Элемент определяется элементом [**sharedKey**](wlan-profileschema-sharedkey-security-element.md) .
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Диапазон допустимых значений для элемента Кэйматериал зависит от типа проверки подлинности и используемого шифрования, как указано в элементах [**проверки подлинности**](wlan-profileschema-authentication-authencryption-element.md) и [**шифрования**](wlan-profileschema-encryption-authencryption-element.md) . Он также зависит от [**KeyType**](wlan-profileschema-keytype-sharedkey-element.md).
 
@@ -68,8 +68,8 @@ ms.locfileid: "104264700"
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista, Windows XP с пакетом обновления 3 (SP3), \[ только классические приложения\]<br/> |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                |
-| Распространяемые компоненты<br/>          | Интерфейс API беспроводной локальной сети для Windows XP с пакетом обновления 2 (SP2)<br/>                 |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                |
+| Распространяемые компоненты<br/>          | API беспроводной локальной сети для Windows XP с пакетом обновления 2 (SP2)<br/>                 |
 
 
 

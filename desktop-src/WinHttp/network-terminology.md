@@ -4,12 +4,12 @@ ms.assetid: 6ea0c16f-1233-4580-97bb-14e224646857
 title: Терминология сети (WinHTTP)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bec92d5dd99247fab3ade48760db343983cd7092ea96ac8bd059ed892c9aa42a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8173b921957a95ebde7f00034c31b2f016b78ab5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119643804"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056281"
 ---
 # <a name="network-terminology-winhttp"></a>Терминология сети (WinHTTP)
 

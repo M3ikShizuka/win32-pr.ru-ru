@@ -6,12 +6,12 @@ keywords:
 - TS_ATTRID
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2e1c40d56f1f8ff3deb59d0dd7664a197a672ade7b2d53beebd8e35ba5de7c0e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 18ea3823a95c123fe9942f69a2a133fd94a8567a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117950340"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056749"
 ---
 # <a name="ts_attrid"></a>\_ATTRID TS
 
@@ -24,13 +24,13 @@ typedef GUID TS_ATTRID;
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Список стандартных идентификаторов GUID для TS \_ ATTRID находится в тсаттрс. h.
 
 Идентификаторы GUID ТСАТТРИД \_ Text \_ ВЕРТИКАЛВРИТИНГ и тсаттрид \_ \_ полезны для того, чтобы приложения соответствовали вводимому тексту, который должен быть исправлен. Можно создать дополнительные идентификаторы GUID, определяемые пользователем.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -44,7 +44,7 @@ typedef GUID TS_ATTRID;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

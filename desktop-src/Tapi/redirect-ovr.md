@@ -4,12 +4,12 @@ ms.assetid: b52cd5c2-fdd6-4240-b07b-b22733a89d27
 title: перенаправление
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f5ea44aaa10bc174784822032359d68d24ba01b6f7f1dcdf0fb211554107b8b1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 100ade9315c3b5e8e68c17bf34a0b6d54a9d9663
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117761208"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056682"
 ---
 # <a name="redirect"></a>перенаправление
 

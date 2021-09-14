@@ -4,12 +4,12 @@ ms.assetid: 9a6b6402-ff53-4399-8616-06b7768a8737
 title: Атрибут MF_TRANSCODE_ENCODINGPROFILE (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 58b44a923abc563a84f3536fd6353ac2a3dd2352e472344edf7053d647674908
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 020344cb2c2f6fc4a539c7cdbc8df0dc69d80d3f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118244235"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257771"
 ---
 # <a name="mf_transcode_encodingprofile-attribute"></a>\_Атрибут енкодингпрофиле для ПЕРЕКОДИРОВАНИЯ MF \_
 
@@ -25,7 +25,7 @@ ms.locfileid: "118244235"
 
 Чтобы задать этот атрибут, вызовите [**имфаттрибутес:: SetString**](/windows/desktop/api/mfobjects/nf-mfobjects-imfattributes-setstring).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 используйте этот атрибут при перекодировании на устройство, которое поддерживает Windows носитель. если этот атрибут задан, кодировщик будет использовать профиль согласования устройства или шаблон для Windows кодеков мультимедиа. Перед созданием топологии перекодировки задайте атрибут в профиле перекодировки.
 
@@ -44,7 +44,7 @@ ms.locfileid: "118244235"
 
 
 
-| Значение   | Описание                      |
+| Значение   | Описание:                      |
 |---------|----------------------------------|
 | ПРОФИЛЯ    | Видео расширенного профиля           |
 | МВ    | Видео о основном профиле               |
@@ -66,11 +66,11 @@ ms.locfileid: "118244235"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                         |
 | Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/>                            |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также статью
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

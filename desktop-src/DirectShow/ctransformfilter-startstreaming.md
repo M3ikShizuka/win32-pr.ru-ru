@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 6d4a0c6e0e047819c208c8e592b971f013f9ed40d456a5b73ad64ea9153ddeaa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 50df2db2aada7f96744af5e553f474818594d399
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118953433"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246640"
 ---
 # <a name="ctransformfilterstartstreaming-method"></a>Ктрансформфилтер. Стартстреаминг, метод
 
@@ -48,7 +48,7 @@ virtual HRESULT StartStreaming();
 
 Этот метод не выполняет никаких действий в базовом классе, но производный класс может его переопределить.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ virtual HRESULT StartStreaming();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
