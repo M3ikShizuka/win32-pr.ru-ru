@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a5808156e73620f775c2aa91feceaed4e06961f8e974c53a1595cdc739185062
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6d4da78c6c8af5dbff3e283a784f0c1f583e093c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120000884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249520"
 ---
 # <a name="wmparentalrating-attribute"></a>Атрибут WM/Паренталратинг
 
@@ -30,7 +30,7 @@ ms.locfileid: "120000884"
 -   [DVD-диски](dvd-attributes.md)
 -   [Элементы видео](video-item-attributes.md)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут хранится как в библиотеке (или в кэше), так и в файле цифрового носителя.
 

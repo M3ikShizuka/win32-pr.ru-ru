@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 3b789d8f4d8c6bf26c63c5313c61d95035bb130e4a57b63fbe9c12cdc141bb42
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 21f72c35795696875aa55f2d5d791564c6f1fee5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119327774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057675"
 ---
 # <a name="recordstringdata-property"></a>Свойство Record. StringData
 
@@ -40,11 +40,11 @@ Record.StringData = propVal
 
 Обязательный номер поля значения в записи, 1.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращенное значение несуществующего поля является пустой строкой. Чтобы задать для поля записи строки значение null, используйте пустой вариант или пустую строку. Попытка сохранить значение в несуществующем поле приводит к ошибке.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

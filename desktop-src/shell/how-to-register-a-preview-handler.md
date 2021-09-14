@@ -4,18 +4,18 @@ ms.assetid: 5f194d29-d09f-4426-a63e-911db65ce700
 title: Регистрация обработчика просмотра
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d0e1879261750609015acee2ccea1bc6f48f82df78ac7c18cbb2f46fa493c4e9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e5af9610de1822678521557fc20aa53f4e556e0e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118223443"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257041"
 ---
 # <a name="how-to-register-a-preview-handler"></a>Регистрация обработчика просмотра
 
 В этом разделе объясняется, как зарегистрировать обработчик просмотра, связанный с данным типом данных. В примерах, приведенных в этом разделе, используется тип файла. xyz. Регистрация обработчика просмотра — это Стандартная регистрация на основе сопоставления файлов.
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="step-1"></a>Шаг 1.
 

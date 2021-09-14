@@ -4,12 +4,12 @@ ms.assetid: 833e9a15-10f8-4b1c-945f-bc02b506f627
 title: Продуктстате, свойство
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 88b4be53a1764d2277aec2b9acc50ae2a62ee7cb6687752466529c7ceabc689d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a51ea88058aa8bae6b67acaea96b506a7560c7a2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120074664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057718"
 ---
 # <a name="productstate-property"></a>Продуктстате, свойство
 
@@ -19,7 +19,7 @@ ms.locfileid: "120074664"
 
 | INSTALLSTATE             | Числовое значение | Состояние установки продукта                   |
 |--------------------------|---------------|-------------------------------------------------|
-| INSTALLSTATE \_ неизвестный    | –1            | Продукт не объявлен или не установлен. |
+| INSTALLSTATE \_ неизвестный    | -1            | Продукт не объявлен или не установлен. |
 | INSTALLSTATE \_ объявлено | 1             | Продукт объявлен, но не установлен.    |
 | \_отсутствует InstallState     | 2             | Продукт устанавливается для другого пользователя.  |
 | INSTALLSTATE \_ по умолчанию    | 5             | Продукт установлен для текущего пользователя.  |
@@ -28,7 +28,7 @@ ms.locfileid: "120074664"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

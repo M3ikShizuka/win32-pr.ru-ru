@@ -4,12 +4,12 @@ ms.assetid: c3b93159-4279-4b27-b006-ab73e0beee9c
 title: System. Сторажепровидершарингстатус
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cde6e48cd8870e23801b8cccd8340f8146305ec5d350d71f9ccb27893530c22a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 02b5b6b23b3a541037511eee3ae7201252e4ec3c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119095671"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257116"
 ---
 # <a name="systemstorageprovidersharingstatus"></a>System. Сторажепровидершарингстатус
 
@@ -73,7 +73,7 @@ propertyDescription
             defineToken = STORAGE_PROVIDER_SHARINGSTATUS_PUBLIC_COOWNED
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значения PKEY определены в списке PKEY. h.
 

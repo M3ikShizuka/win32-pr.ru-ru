@@ -4,12 +4,12 @@ ms.assetid: 315155ec-0de1-4052-ae7c-51bc3127fbbf
 title: Событие InkOverlay. Stroke (Мсинкаут. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e2836699591b4f1a87ce3d206a795eb13be188def28ea3eadef687a1d96024ca
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 408c44cf47ecfbf3ea0cfd0f8306be61efb0f8e9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119712634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256627"
 ---
 # <a name="inkoverlaystroke-event"></a>Событие InkOverlay. Stroke
 
@@ -57,7 +57,7 @@ void Stroke(
 
 Это событие не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод события определен в \_ \_ \_ интерфейсах диспетчеризации (DISP) иинкколлекторевентс, иинковерлайевентс и иинкпиктуривентс с идентификатором DISPID \_ ицестроке.
 

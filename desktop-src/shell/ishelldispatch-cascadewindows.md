@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Shell32.dll
-ms.openlocfilehash: 7e14514c31f81327d9d0c0217479d2ce746c61ed58c9f71e1b2fa6f19f4e31ff
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4252e4df579bc73e9f082630f9f98b83e3b57f47
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119032282"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257032"
 ---
 # <a name="ishelldispatchcascadewindows-method"></a>Ишеллдиспатч. Каскадевиндовс, метод
 
@@ -55,7 +55,7 @@ IShellDispatch.CascadeWindows()
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод реализован и доступен через метод [**Shell. каскадевиндовс**](shell-cascadewindows.md) .
 
@@ -111,7 +111,7 @@ End Sub
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

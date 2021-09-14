@@ -32,12 +32,12 @@ api_name: ''
 targetos: Windows
 req.typenames: ''
 req.redist: ''
-ms.openlocfilehash: 6da307d00c9291ab8c27b97c5012c9887b5c12fcbc541beb5a9b7e8c176ec5a4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 00a1d1c52d50d0d9a028829181c886a813112a15
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118200786"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256405"
 ---
 # <a name="messageproc-function"></a>Функция MessageProc
 
@@ -96,7 +96,7 @@ LRESULT CALLBACK MessageProc(
 Если *код* больше или равен нулю и процедура обработчика не обработала сообщение, настоятельно рекомендуется вызвать **каллнекссукекс** и вернуть возвращаемое значение. в противном случае другие приложения, которые установили [WH_MSGFILTERные](about-hooks.md) обработчики, не будут получать уведомления о ловушках и могут вести себя неправильно.
 Если процедура обработки сообщения обрабатывала сообщение, она может вернуть ненулевое значение, чтобы система не могла передать сообщение остальной части цепочки обработчиков или конечной процедуры окна.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Приложение устанавливает процедуру-обработчик, указывая тип обработчика **WH_MSGFILTER** и указатель на процедуру-обработчик в вызове функции **сетвиндовшукекс** .
 

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 7df19a26fd4e8464963f09ffdf227ac88f4376624a88df84d6245efa3c5fd927
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4c7b9332393c4055cb8052b2b759b93781c0fd73
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120041814"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127057668"
 ---
 # <a name="recordlistitem-property"></a>Рекордлист. Item, свойство
 
@@ -39,11 +39,11 @@ propVal = RecordList.Item
 
 Номер индекса элемента с коллекцией строк. Требуется индекс.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Клиент должен убедиться, что объект [**рекордлист**](recordlist-object.md) существует и не пуст, прежде чем ссылаться на свойство Item.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

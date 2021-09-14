@@ -5,11 +5,11 @@ title: Управление файловой системой
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: ee0f3b47e17e691c540a9775f3b8588b311b9878
-ms.sourcegitcommit: 822413efb4a70dd464e5db4d9e8693ef74f8132f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "113581622"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127256984"
 ---
 # <a name="managing-the-file-system"></a>Управление файловой системой
 

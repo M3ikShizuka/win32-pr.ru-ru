@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 65d9dc5ac5fe3750fb3a6af8658a5ddb30274764cc891438162434a44651322a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d4249f6224099c3d2a36a3b26244c9b804be519c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118578850"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241063"
 ---
 # <a name="editboxfontstyle"></a>EDITBOX. fontStyle
 
@@ -33,7 +33,7 @@ ms.locfileid: "118578850"
 
 
 
-| Значение     | Описание           |
+| Значение     | Описание:           |
 |-----------|-----------------------|
 | Полужирный      | Начертание шрифта полужирным шрифтом.      |
 | Курсив    | Стиль шрифта курсивом.    |
@@ -45,7 +45,7 @@ ms.locfileid: "118578850"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Можно использовать любое сочетание значений, разделенных пробелами. Стиль "Стандартный" имеет приоритет над всеми другими значениями, и все остальные, указанные вместе с параметром "нормально", будут игнорироваться.
 

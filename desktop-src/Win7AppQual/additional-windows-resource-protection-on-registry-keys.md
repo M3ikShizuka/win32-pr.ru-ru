@@ -4,12 +4,12 @@ ms.assetid: 25d07e42-b5eb-4f72-b4b1-0ebb881644ba
 title: дополнительные защита ресурсов Windows по разделам реестра
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d3ea823b2075905b8f22cbc02539f058c9ad8f2ed33ed51d712cd8cb43f59d18
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1beeea49f06da182b5ebba38d09227134a6d92c0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118995024"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249430"
 ---
 # <a name="additional-windows-resource-protection-on-registry-keys"></a>дополнительные защита ресурсов Windows по разделам реестра
 

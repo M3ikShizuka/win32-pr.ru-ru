@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 220a8540999d786c7305c224553f9c79153988a700d9697626242faef33d73ff
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c0ea1535a2a107814b817399c5d4a166ce54f9de
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117749337"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127241054"
 ---
 # <a name="editboxforegroundcolor"></a>EDITBOX. foregroundColor
 
