@@ -4,12 +4,12 @@ description: Группа меню организует связанные ко�
 ms.assetid: 5454f2a3-275b-47f4-ae97-d10dd12da5ff
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6f734b852df94bf953ccc8b89581da0253e070f33e9af6bec516dd4c923bd6f4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9862e78cbedf84b92c7540bec4de58288af5c9ef
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119933302"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251731"
 ---
 # <a name="menu-group"></a>Группа меню
 

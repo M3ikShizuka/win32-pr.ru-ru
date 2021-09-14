@@ -4,12 +4,12 @@ ms.assetid: dea7c9aa-eba7-4b93-a4c5-9b2d36999780
 title: Сообщение WM_SHOWWINDOW (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f9b1952cff3db2dad62d7b22484680c3e4c4ff6070a0331c3d891ff2f764a062
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cbca6cbb4c73ff1cad31754b1b581e0c892970e4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119931234"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251653"
 ---
 # <a name="wm_showwindow-message"></a>\_Сообщение об ошибке WM SHOWWINDOW
 
@@ -98,7 +98,7 @@ ms.locfileid: "119931234"
 [**ShowWindow**](/windows/win32/api/winuser/nf-winuser-showwindow)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Windows](windows.md)

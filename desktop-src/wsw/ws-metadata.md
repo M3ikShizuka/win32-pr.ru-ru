@@ -6,12 +6,12 @@ keywords:
 - WS_METADATA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c6f9329cb418502105e13812809f04cfce0c2ed6ce0172e60102436219df9856
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d1d0b7ab1b086f9e95f1df56903343039772bafa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119391914"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251308"
 ---
 # <a name="ws_metadata"></a>\_метаданные WS
 
@@ -28,7 +28,7 @@ typedef struct _WS_METADATA WS_METADATA;
 
 Этот объект не является потокобезопасным. Дополнительные сведения см. в статье [безопасность потоков](thread-safety.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -36,7 +36,7 @@ typedef struct _WS_METADATA WS_METADATA;
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | \[приложения UWP для классических приложений Windows 7 \|\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows \[Приложения UWP для настольных приложений Server 2008 R2 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>WebService. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>WebService. h</dt> </dl> |
 
 
 

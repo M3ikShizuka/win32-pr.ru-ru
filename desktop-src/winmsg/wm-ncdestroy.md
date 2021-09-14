@@ -4,12 +4,12 @@ ms.assetid: 64ab268d-0e90-4401-81d3-a4da64196001
 title: Сообщение WM_NCDESTROY (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1a2e74db0abf22fc2fb3d2a16b5cc63187514d1bee26079490c8d19eae13787e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a462f679a29f471638299e037749adaf32a85dea
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118200050"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251671"
 ---
 # <a name="wm_ncdestroy-message"></a>\_Сообщение НКДЕСТРОЙ WM
 
@@ -82,7 +82,7 @@ ms.locfileid: "118200050"
 [**WM \_ нккреате**](wm-nccreate.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Windows](windows.md)

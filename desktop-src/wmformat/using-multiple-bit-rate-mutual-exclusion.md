@@ -9,12 +9,12 @@ keywords:
 - профили, Многоразрядная скорость (MBR)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c31c7954f6aa5098f6cc221a7a761428ff15fd6a4c2c0a6e5c8cea2b6622a84b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: be77c7615845d10d07982676dfdb4dc8c617cebe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119446974"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251440"
 ---
 # <a name="using-multiple-bit-rate-mutual-exclusion"></a>Использование множественного взаимного исключения скорости
 

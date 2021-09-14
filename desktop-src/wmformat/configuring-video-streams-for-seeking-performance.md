@@ -10,12 +10,12 @@ keywords:
 - производительность, потоки видео
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9b7a21e6352d03375b680702a16190b4af9eef24ca7ba9d592adb79ab5794b5c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 33b4fc68e0b3a91cf135d29dc7123d5af88db84c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119840164"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251512"
 ---
 # <a name="configuring-video-streams-for-seeking-performance"></a>настройка Потоки видео для поиска производительности
 

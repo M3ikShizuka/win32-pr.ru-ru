@@ -3,17 +3,17 @@ title: Функции (обратная связь)
 description: В этом разделе описаны функции граничных отзывов.
 ms.assetid: 7872a4cb-6ae0-449a-866a-58f909b6ef9f
 keywords:
-- Касание Windows, обратная связь
-- Касание Windows, функции
+- Windows Сенсорный ввод, обратная связь
+- Windows Сенсорный ввод, функции
 - отзыв о границе, функции
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: d458815e6c2270a3fec727f74452e3c5451a9228
-ms.sourcegitcommit: 8fa6614b715bddf14648cce36d2df22e5232801a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "104070953"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251587"
 ---
 # <a name="functions-boundary-feedback"></a>Функции (обратная связь)
 
@@ -31,7 +31,7 @@ ms.locfileid: "104070953"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

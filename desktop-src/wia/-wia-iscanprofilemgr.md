@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Scanprofilemgr.h
-ms.openlocfilehash: d2d517143a55c2bd732bb8f9c642697a7d50151ddb72fcffd13d978caef597b9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 9f0762befdda272b91451dcca67c3f9560ad354e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119593094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251821"
 ---
 # <a name="iscanprofilemgr-interface"></a>Интерфейс Исканпрофилемгр
 
@@ -48,7 +48,7 @@ ms.locfileid: "119593094"
 | [**Профили профилирования**](-wia-iscanprofilemgr-getprofiles.md)                             | Получает все профили сканирования, доступные для пользователя в системе, в которой выполняется приложение.<br/>     |
 | [**жетпрофилесфордевицеид**](-wia-iscanprofilemgr-getprofilesfordeviceid.md)       | Возвращает все профили сканирования, связанные с устройством.<br/>                                                        |
 | [**опенпрофиле**](-wia-iscanprofilemgr-openprofile.md)                             | Открывает профиль сканирования, сохраненный на диске в виде XML-файла.<br/>                                            |
-| [**Обновляется**](-wia-iscanprofilemgr-refresh.md)                                     | Повторно перечисляет все профили сканирования в системе.<br/>                                                          |
+| [**Обновить**](-wia-iscanprofilemgr-refresh.md)                                     | Повторно перечисляет все профили сканирования в системе.<br/>                                                          |
 | [**SetDefault**](-wia-iscanprofilemgr-setdefault.md)                               | Задает указанный профиль сканирования в качестве профиля по умолчанию.<br/>                                                     |
 
 
@@ -65,7 +65,7 @@ CoCreateInstance(CLSID_ScanProfileMgr, NULL, CLSCTX_LOCAL_SERVER, IID_IScanProfi
 
 Если профиль сканирования сохранен с помощью метода [**исканпрофиле:: Save**](-wia-iscanprofile-save.md) , он сохраняется как XML-файл в% UserProfile% \\ Application Data \\ \\ Center \\ усерсканпрофилес.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,7 +78,7 @@ CoCreateInstance(CLSID_ScanProfileMgr, NULL, CLSCTX_LOCAL_SERVER, IID_IScanProfi
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

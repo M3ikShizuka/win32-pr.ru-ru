@@ -4,12 +4,12 @@ ms.assetid: 1b48c309-6903-4139-bf42-e8526963e681
 title: Сообщение WM_SETTEXT (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6fc2ab860fd89d726b9763c198fe8d58caa1376a3b919fd3587ad39a612d6667
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c3284855d817d5207b0d7572a41774e961c0113f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120055984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251656"
 ---
 # <a name="wm_settext-message"></a>\_Сообщение SETTEXT WM
 
@@ -52,7 +52,7 @@ ms.locfileid: "120055984"
 
 Это сообщение не изменяет текущий выбор в списке поля со списком. Приложение должно использовать сообщение [**\_ селектстринг CB**](../controls/cb-selectstring.md) для выбора элемента в списке, совпадающего с текстом в элементе управления "поле ввода".
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -64,7 +64,7 @@ ms.locfileid: "120055984"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -77,7 +77,7 @@ ms.locfileid: "120055984"
 [**WM \_ gettext**](wm-gettext.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Windows](windows.md)

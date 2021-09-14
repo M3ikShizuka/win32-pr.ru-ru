@@ -15,12 +15,12 @@ api_type:
 api_location:
 - InkObj.dll
 - InkObj.dll.dll
-ms.openlocfilehash: 928bda8af246b41bab2c285a5292155917ba8903c6dd71c20177dbf906c64924
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e4214d6b03e5823bd5012017e418066763c8132c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119939164"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251872"
 ---
 # <a name="inkdisp-class"></a>Класс Инкдисп
 
@@ -95,17 +95,17 @@ ms.locfileid: "119939164"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **инкдисп** имеет следующие свойства.
 
 
 
-| Свойство                                                                           | Тип доступа           | Описание                                                                                                                             |
+| Свойство.                                                                           | Тип доступа           | Описание                                                                                                                             |
 |:-----------------------------------------------------------------------------------|:----------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 | [**кустомстрокес**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkdisp-get_customstrokes)<br/>                          | Только для чтения<br/>  | Возвращает коллекцию [**иинккустомстрокес**](/windows/desktop/api/msinkaut/nn-msinkaut-iinkcustomstrokes) , которая должна быть сохранена с рукописным вводом.<br/>                             |
 | [**Бит**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkdisp-get_dirty)<br/>                                          | Чтение/запись<br/> | Возвращает или задает значение, указывающее, был ли изменен объект **инкдисп** со времени последнего сохранения рукописного ввода.<br/> |
-| [**ExtendedProperties**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkstrokedisp-get_extendedproperties)<br/> | Только для чтения<br/>  | Возвращает коллекцию определяемых приложением данных.<br/>                                                                             |
+| [**Расширенных свойств**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkstrokedisp-get_extendedproperties)<br/> | Только для чтения<br/>  | Возвращает коллекцию определяемых приложением данных.<br/>                                                                             |
 | [**Strokes**](/windows/desktop/api/msinkaut15/nf-msinkaut15-iinkdivisionresult-get_strokes)<br/>                           | Только для чтения<br/>  | Возвращает коллекцию [инкстрокес](/previous-versions/windows/desktop/legacy/ms703293(v=vs.85)) , содержащуюся в объекте **инкдисп** .<br/>                             |
 
 
@@ -129,7 +129,7 @@ ms.locfileid: "119939164"
 
 Объект [**инкрендерер**](inkrenderer-class.md) управляет сопоставлениями рукописного ввода и окна отображения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -142,7 +142,7 @@ ms.locfileid: "119939164"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

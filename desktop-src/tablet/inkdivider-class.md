@@ -15,12 +15,12 @@ api_type:
 api_location:
 - Inkdiv.dll
 - Inkdiv.dll.dll
-ms.openlocfilehash: d7dd98aaef627bac6a26340464c14c4e46c07d6a23f32c2664651503b5d79014
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c0658504303968803bd2abff063694701d121390
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118220835"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251866"
 ---
 # <a name="inkdivider-class"></a>Класс Инкдивидер
 
@@ -54,19 +54,19 @@ ms.locfileid: "118220835"
 
 | Метод                              | Описание                                                                                                                                                        |
 |:------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**Divide**](/windows/win32/api/msinkaut15/nf-msinkaut15-iinkdivider-divide) | Возвращает объект [**иинкдивисионресулт**](/windows/desktop/api/msinkaut15/nn-msinkaut15-iinkdivisionresult) , содержащий структурную информацию о штрихах в объекте **инкдивидер** .<br/> |
+| [**Деление**](/windows/win32/api/msinkaut15/nf-msinkaut15-iinkdivider-divide) | Возвращает объект [**иинкдивисионресулт**](/windows/desktop/api/msinkaut15/nn-msinkaut15-iinkdivisionresult) , содержащий структурную информацию о штрихах в объекте **инкдивидер** .<br/> |
 
 
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **инкдивидер** имеет следующие свойства.
 
 
 
-| Свойство                                                             | Тип доступа           | Описание                                                                                                                     |
+| Свойство.                                                             | Тип доступа           | Описание                                                                                                                     |
 |:---------------------------------------------------------------------|:----------------------|:--------------------------------------------------------------------------------------------------------------------------------|
 | [**LineHeight**](/windows/win32/api/msinkaut15/nf-msinkaut15-iinkdivider-get_lineheight)<br/>               | Чтение/запись<br/> | Возвращает или задает ожидаемую высоту рукописного ввода в единицах HIMETRIC.<br/>                                                      |
 | [**рекогнизерконтекст**](/windows/win32/api/msinkaut15/nf-msinkaut15-iinkdivider-get_recognizercontext)<br/> | Чтение/запись<br/> | Возвращает или задает объект [**инкрекогнизерконтекст**](inkrecognizercontext-class.md) , используемый для распознавания рукописного текста.<br/> |
@@ -108,7 +108,7 @@ ms.locfileid: "118220835"
 |-------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                                                           |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                                               |
-| Header<br/>                   | <dl> <dt>Msinkaut15. h (также требуется Msinkaut15 \_ i. c)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Msinkaut15. h (также требуется Msinkaut15 \_ i. c)</dt> </dl> |
 | Библиотека<br/>                  | <dl> <dt>Inkdiv.dll</dt> </dl>                                   |
 
 

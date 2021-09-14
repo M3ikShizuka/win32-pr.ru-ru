@@ -16,12 +16,12 @@ keywords:
 - ивмдрмевентженератор
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c32c68d1d22c6b3d95c34efb5a919c82ecf5dd3755943e96f2507ae9f3391f48
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d58d48157072cf8814ff8ac74d97a965f9e772e3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119707394"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251434"
 ---
 # <a name="using-the-media-foundation-event-model"></a>Использование модели событий Media Foundation
 

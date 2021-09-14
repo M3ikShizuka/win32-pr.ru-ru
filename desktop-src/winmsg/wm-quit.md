@@ -4,12 +4,12 @@ ms.assetid: a9bff5dc-cab8-4e08-838e-d92c87c265d6
 title: Сообщение WM_QUIT (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 26f6b999ff23d964c1998fe1cc2a9991e11ecfe71760800b1d678e2f71b89273
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f8e0d7413d65e9a0fb451fe63504f2ed5be02064
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119881524"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251662"
 ---
 # <a name="wm_quit-message"></a>\_Сообщение о выходе WM
 
@@ -52,7 +52,7 @@ ms.locfileid: "119881524"
 
 Не перемещайте сообщение **WM \_ Quit** с помощью функции [**onmessage**](/windows/win32/api/winuser/nf-winuser-postmessagea) ; используйте [**посткуитмессаже**](/windows/win32/api/winuser/nf-winuser-postquitmessage).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -64,7 +64,7 @@ ms.locfileid: "119881524"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -80,7 +80,7 @@ ms.locfileid: "119881524"
 [**посткуитмессаже**](/windows/win32/api/winuser/nf-winuser-postquitmessage)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Windows](windows.md)

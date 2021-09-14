@@ -5,11 +5,11 @@ title: Сообщение WM_SETICON (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 88bec7fc653123ba0a950c96bc1f54ebf436b0d0
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104264519"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251659"
 ---
 # <a name="wm_seticon-message"></a>\_Сообщение СЕТИКОН WM
 
@@ -57,7 +57,7 @@ ms.locfileid: "104264519"
 
 Возвращаемое значение — это обработчик предыдущего большого или маленького значка в зависимости от значения *wParam*. Имеет **значение NULL** , если в окне ранее не было значка типа, указанного параметром *wParam*.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Функция [**дефвиндовпрок**](/windows/desktop/api/winuser/nf-winuser-defwindowproca) возвращает маркер предыдущего большого или маленького значка, связанного с окном, в зависимости от значения *wParam*.
 
@@ -69,7 +69,7 @@ ms.locfileid: "104264519"
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                               |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                     |
-| Заголовок<br/>                   | <dl> <dt>Winuser. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 
@@ -86,7 +86,7 @@ ms.locfileid: "104264519"
 [**\_значок WM**](wm-geticon.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Windows](windows.md)

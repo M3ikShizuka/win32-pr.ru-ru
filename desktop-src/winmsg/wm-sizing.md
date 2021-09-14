@@ -4,12 +4,12 @@ ms.assetid: 8cf56194-8a10-48e1-b0eb-aa3d66896599
 title: Сообщение WM_SIZING (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 09645c9aaf778d5866050b45496298a46c4488e39b12f449f3ee0e8607dfc367
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f0ab865994352eba28cdebaff3faab72a484ce0b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118436159"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251647"
 ---
 # <a name="wm_sizing-message"></a>\_Сообщение о размере WM
 
@@ -90,7 +90,7 @@ ms.locfileid: "118436159"
 [**\_Размер WM**](wm-size.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Windows](windows.md)

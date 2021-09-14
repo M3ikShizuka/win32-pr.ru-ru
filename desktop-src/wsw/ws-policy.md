@@ -6,12 +6,12 @@ keywords:
 - WS_POLICY
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5f3daf0ac353e8d239ae03eb83e7a5dcbfe963754c52b90bf426566fc4ebae0f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 74312490bf0e44c1119c0ca1203ac2f581eb7683
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120109684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251302"
 ---
 # <a name="ws_policy"></a>\_политика WS
 
@@ -28,7 +28,7 @@ typedef struct _WS_POLICY WS_POLICY;
 
 Этот объект не является потокобезопасным. Дополнительные сведения см. в статье [безопасность потоков](thread-safety.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -4,12 +4,12 @@ description: Определяет свойство UI \_ PKEY \_ фонтпро�
 ms.assetid: bd426910-9852-48e1-91c8-b94be5ef7199
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a9c013c41290f6e062b03572a9e3cb848752efcb12f1c779348a0253f94d40e9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6ae991cfe5f91b4aca4fe0b49a7b7c547e71b0fb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119028632"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251722"
 ---
 # <a name="ui_pkey_fontproperties_size"></a>\_ \_ Размер фонтпропертиес пользовательского интерфейса PKEY \_
 

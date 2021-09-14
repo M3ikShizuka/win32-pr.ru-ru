@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1d5b2b5e126555a0d09ea88017e2a290c180434b18fb8a61f668afd8e12fa02a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f44b4187699cb4a55d0c6215e3f31b430a87d299
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119808554"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251452"
 ---
 # <a name="iwmdrmsecuritygetcontentenablersfromhashes-method"></a>Метод Ивмдрмсекурити:: Жетконтентенаблерсфромхашес
 
@@ -102,7 +102,7 @@ HRESULT GetContentEnablersFromHashes(
 
 При вызове **имфконтентенаблер:: аутоматиценабле** программа включения содержимого запускает браузер по умолчанию с адресом службы обновления на веб-сайте Майкрософт. Уникальный идентификатор, идентифицирующий отозванный компонент, передается в службу обновления. Затем служба перенаправляет браузер на веб-страницу, с которой пользователь может загрузить и установить новую версию отозванного компонента.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -113,7 +113,7 @@ HRESULT GetContentEnablersFromHashes(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

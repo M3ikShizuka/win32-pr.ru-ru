@@ -4,12 +4,12 @@ description: Эволюция Интернета предоставила нов
 ms.assetid: 8ebb532f-6c30-4996-a57c-6357edd298cf
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3061a15cca2f9c465d1a0841ed70e8729b22716e752030c19acb6039996a7f93
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d445ec13300923aa35455400d0c27d32110e76be
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119811364"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251761"
 ---
 # <a name="internet-explorer-8"></a>Internet Explorer 8
 

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Scanprofilemgr.h
-ms.openlocfilehash: fd7b46241e967e02083c344aa7f3f77a773c72b02ff74b225910788d498fe252
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3a7c32f246bcafc8ff7ce55e8c6f34ea45553a95
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118965793"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251824"
 ---
 # <a name="iscanprofilemgrsetdefault-method"></a>Метод Исканпрофилемгр:: Сетдефаулт
 

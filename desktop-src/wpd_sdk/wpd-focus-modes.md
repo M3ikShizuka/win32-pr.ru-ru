@@ -14,11 +14,11 @@ api_type:
 api_location:
 - PortableDevice.h
 ms.openlocfilehash: e7e1dc50f115fbd2ace84a3b631d37a42e1c4ba7
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105668681"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251332"
 ---
 # <a name="wpd_focus_modes-enumeration"></a>\_ \_ Перечисление режимов фокусировки WPD
 
@@ -70,7 +70,7 @@ typedef enum WPD_FOCUS_MODES {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это перечисление используется в свойстве [ \_ \_ \_ \_ режима фокусировки WPD-изображений](still-image-properties.md) .
 
@@ -80,7 +80,7 @@ typedef enum WPD_FOCUS_MODES {
 
 | Требование | Значение |
 |-------------------|---------------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Портабледевице. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Портабледевице. h</dt> </dl> |
 
 
 

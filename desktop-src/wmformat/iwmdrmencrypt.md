@@ -14,12 +14,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 424b3be1394d2989ac9328ce088d05fbfd0a9192360ef56acbfd70d58be7864f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6f9fdd0c7123b8abb1fc180f1a43947cc179f1ce
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118433593"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251467"
 ---
 # <a name="iwmdrmencrypt-interface"></a>Интерфейс Ивмдрменкрипт
 
@@ -39,13 +39,13 @@ ms.locfileid: "118433593"
 
 | Метод                                   | Описание                                 |
 |:-----------------------------------------|:--------------------------------------------|
-| [**Шифрование**](iwmdrmencrypt-encrypt.md) | Шифрует буфер данных на месте.<br/> |
+| [**Шифрования**](iwmdrmencrypt-encrypt.md) | Шифрует буфер данных на месте.<br/> |
 
 
 
  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

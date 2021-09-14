@@ -14,12 +14,12 @@ api_type:
 api_location:
 - PortableDeviceGUIDs.lib
 - PortableDeviceGUIDs.dll
-ms.openlocfilehash: 25a087c6f2d1e254e225f82ef794915898fbc20c7203fe20315d51f78e9770f8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e04b41fdd397d8d03e7e0576d2ba8fb3b6ad1401
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120055104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251392"
 ---
 # <a name="iportabledevicevaluessetbuffervalue-method"></a>Метод Ипортабледевицевалуес:: Сетбуффервалуе
 
@@ -83,7 +83,7 @@ HRESULT SetBufferValue(
 
 Установка буфера, **имеющего значение NULL** или нулевого размера, не поддерживается.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -94,7 +94,7 @@ HRESULT SetBufferValue(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

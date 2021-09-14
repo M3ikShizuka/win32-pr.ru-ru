@@ -57,12 +57,12 @@ api_type:
 - HeaderDef
 api_location:
 - PortableDevice.h
-ms.openlocfilehash: 2892f123fbcd2b4a39e236dc309eab5b82ded9a7236f8e2485ed06b411ad78e9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 578774b047f7babdb0ea04c46fd659a561f3053e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120006314"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251419"
 ---
 # <a name="error-constants"></a>Константы ошибок
 
@@ -184,7 +184,7 @@ WPD может возвращать в приложение коды ошибо�
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -194,7 +194,7 @@ WPD может возвращать в приложение коды ошибо�
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

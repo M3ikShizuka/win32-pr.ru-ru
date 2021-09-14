@@ -1,19 +1,19 @@
 ---
-description: В этом разделе содержатся сведения о коде встроенного кода JPEG, доступном через компонент Windows Imaging Component (WIC).
+description: в этом разделе содержатся сведения о коде встроенного кода JPEG, доступном через компонент Windows imaging (WIC).
 ms.assetid: 9DCBCE9B-965B-4C18-992C-EFFFF32FCE5E
 title: Общие сведения о формате JPEG
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 8a2acc7fcd71fc962d3321112d342f675b878188
-ms.sourcegitcommit: 099ecdda1e83618b844387405da0db0ebda93a65
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "111444195"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251770"
 ---
 # <a name="jpeg-format-overview"></a>Общие сведения о формате JPEG
 
-В этом разделе содержатся сведения о коде встроенного кода JPEG, доступном через компонент Windows Imaging Component (WIC).
+в этом разделе содержатся сведения о коде встроенного кода JPEG, доступном через компонент Windows imaging (WIC).
 
 ## <a name="codec-identity"></a>Удостоверение кодека
 
@@ -36,7 +36,7 @@ ms.locfileid: "111444195"
 
 
 
-| Компонент        | Понятное имя             | Код GUID                                |
+| Компонент        | Понятное имя             | GUID                                |
 |------------------|---------------------------|-------------------------------------|
 | Формат контейнера | GUID \_ контаинерформатжпег | 19e4a5aa-5662-4fc5-a0c01758028e1057 |
 | Показан          | \_ВИКЖПЕГДЕКОДЕР CLSID     | 9456a480-e88b-43ea-9e730b2d9b71b1ca |
