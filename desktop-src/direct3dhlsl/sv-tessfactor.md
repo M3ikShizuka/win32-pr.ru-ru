@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 2243827fa1b955079aaf64b9805cf02ac82934bde814ed780570a5ba9b63ade8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 308034fe607283ef9f1213cca1cabb4a7229765e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118285500"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973254"
 ---
 # <a name="sv_tessfactor"></a>ОКП \_ тессфактор
 
@@ -40,7 +40,7 @@ ms.locfileid: "118285500"
 
 Факторы тесселяции должны быть объявлены как массив. они не могут быть упакованы в один вектор.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значение фактора тесселяции должно быть определено во время функции Constant исправления шейдера поверхности.
 

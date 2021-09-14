@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 4db53509411c4b0d8e189f7ec9e2e3a1bee0fa7fa14fee94a7d5cc60a0703743
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5e1962dc10b5ef45ba3ad7d7196872fd4d27708c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120118144"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973222"
 ---
 # <a name="texture2dgathercmpalphasfloatfloatint2int2int2int2uint-function"></a>Функция Texture2D:: Гасеркмпалфа (S, float, float, int2, int2, int2, int2, uint)
 
@@ -124,7 +124,7 @@ TemplateType GatherCmpAlpha(
 
 Значение из четырех компонентов, тип которого совпадает с типом шаблона.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Примеры текстур можно использовать для интерполяции билинейной.
 
@@ -132,7 +132,7 @@ TemplateType GatherCmpAlpha(
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | x      | x    | x      | x        | x     | x       |
 
@@ -140,7 +140,7 @@ TemplateType GatherCmpAlpha(
 
  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

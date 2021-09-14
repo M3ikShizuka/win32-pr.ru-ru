@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 469af646e4e2700737afc8f81d4b41bb548499bef5985892aebf8564317c563f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 389ed5b7b0a43981c5eeb3d66a73bd19cbd99d88
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118959123"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972414"
 ---
 # <a name="changesecuritypermissions-method-of-the-cim_directory-class"></a>Метод Чанжесекуритипермиссионс \_ класса каталога CIM
 
@@ -67,7 +67,7 @@ uint32 ChangeSecurityPermissions(
 
 `Option = 1 + 4`
 
-или диспетчер конфигурации служб
+или
 
 `Option = CHANGE_OWNER_SECURITY_INFORMATION | CHANGE_DACL_SECURITY_INFORMATION`
 
@@ -137,7 +137,7 @@ uint32 ChangeSecurityPermissions(
 
 2
 
-Доступ запрещен.
+Access denied. (Недопустимое значение {значение_утверждения} для утверждения {имя_утверждения}. Доступ запрещен.)
 
 </dd> <dt>
 
@@ -240,7 +240,7 @@ uint32 ChangeSecurityPermissions(
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В настоящее время этот метод не реализован инструментарием WMI. Чтобы использовать этот метод, его необходимо реализовать в собственном поставщике.
 
@@ -260,7 +260,7 @@ uint32 ChangeSecurityPermissions(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

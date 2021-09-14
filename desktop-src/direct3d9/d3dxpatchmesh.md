@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3dx9mesh.h
-ms.openlocfilehash: f3a7e74a4867b850a551eee5f2976d6a407283b080a026ab628d198cdda00950
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 54a41ac7ea2b8ebecd4cf3684016398c27c6924e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117731586"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972541"
 ---
 # <a name="d3dxpatchmesh-enumeration"></a>Перечисление D3DXPATCHMESH
 
@@ -57,7 +57,7 @@ enum _D3DXPATCHMESH {
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

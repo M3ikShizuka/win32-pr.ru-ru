@@ -30,11 +30,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: f9148c30f14140edc89b8949b5731ea5c259e0fb
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122886491"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973094"
 ---
 # <a name="cim_filespecification-class"></a>\_Класс CIM филеспеЦификатион
 
@@ -71,7 +71,7 @@ class CIM_FileSpecification : CIM_Check
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ филеспеЦификатион** имеет следующие типы членов:
 
@@ -888,7 +888,7 @@ Mac OS 9
 
 </dd> <dt>
 
-**Version**
+**Версия**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**

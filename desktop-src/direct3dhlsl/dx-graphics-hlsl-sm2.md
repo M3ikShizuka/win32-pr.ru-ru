@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: ed402b34bdb8ba8caed8dc7cd5b66126d242c9ad
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122988027"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973374"
 ---
 # <a name="shader-model-2"></a>Модель шейдера 2
 

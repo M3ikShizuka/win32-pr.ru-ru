@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: f31473cf1efa0310669523f0481b58d8b54036f738a69191f19a0a52d804eb05
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f4090da88e8f5d31b0940b0c7d217a930a364b63
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118416819"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972846"
 ---
 # <a name="win32_sessionprocess-class"></a>\_Класс Win32 сессионпроцесс
 
@@ -40,7 +40,7 @@ class Win32_SessionProcess : Win32_SessionResource
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ сессионпроцесс** имеет следующие типы членов:
 
@@ -84,7 +84,7 @@ class Win32_SessionProcess : Win32_SessionResource
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 **Win32 \_ Сессионпроцесс** возвращает все сеансы для администратора при входе в систему с повышенными правами или при удаленном запуске. Это расширение поведения класса.
 

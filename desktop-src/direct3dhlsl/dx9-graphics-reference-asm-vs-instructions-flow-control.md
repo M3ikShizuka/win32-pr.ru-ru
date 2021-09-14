@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: d50d0e438357374069df7e884379fba98d819968fea1298ab85466123d69cc03
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4ebb5b491e074c2275081aa3fe629a2486a24c6b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119854594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973293"
 ---
 # <a name="flow-control-nesting-limits"></a>Flow Управление ограничениями вложенности
 

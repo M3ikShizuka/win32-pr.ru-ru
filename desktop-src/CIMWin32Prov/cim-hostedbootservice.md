@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: abfd506a3962e05a8ab1087dc3a5dc43d4cd74fac08fac7344d3ff22fff49909
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 12baa364653feda1400ad15d658e6739859b2521
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119921684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973033"
 ---
 # <a name="cim_hostedbootservice-class"></a>\_Класс CIM хостедбутсервице
 
@@ -45,7 +45,7 @@ class CIM_HostedBootService : CIM_HostedService
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ хостедбутсервице** имеет следующие типы членов:
 
@@ -89,7 +89,7 @@ class CIM_HostedBootService : CIM_HostedService
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **CIM \_ хостедбутсервице** является производным от [**CIM \_ HostedService**](cim-hostedservice.md).
 
@@ -97,7 +97,7 @@ class CIM_HostedBootService : CIM_HostedService
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -111,7 +111,7 @@ class CIM_HostedBootService : CIM_HostedService
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: Служба BITS использует свойство Битсс�
 ms.assetid: d5193d0c-3ab4-47ab-a570-fea2904a4371
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a54e859730acaa1456624e9fa5c2302bc36efd9d085daeecdf234aef8f74729c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f0d35f6f5fec1a1de9ebd5c2c244a55bc1806b06
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120004944"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973194"
 ---
 # <a name="notification-protocol-for-server-applications"></a>Протокол уведомлений для серверных приложений
 

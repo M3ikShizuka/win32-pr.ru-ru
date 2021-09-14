@@ -4,12 +4,12 @@ description: для отправки BITS требуется iis 6,0 на Window
 ms.assetid: 8ab07af5-3b59-4c98-8e57-f614deb8b594
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: eb09ec8c55cce592baf48b4b39faf031e5d6c98909927c0e597be6aaae8712e6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d8fc1eb9bae86e7bb2635b3a250e8a9efe1bc630
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120004994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973206"
 ---
 # <a name="iis-requirements-for-bits-uploads"></a>Требования IIS для отправки BITS
 

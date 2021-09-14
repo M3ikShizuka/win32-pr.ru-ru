@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 6330822566345a35f62af7016d130c5324a7b6838ed4250f5dbdc24c0ceaa6ba
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c3b9985d18e93f3a3dbcc8f65484bf3fd72284fd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119918414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972934"
 ---
 # <a name="geteffectivepermission-method-of-the-win32_pagefile-class"></a>Метод Жетеффективепермиссион \_ класса файла подкачки Win32
 
@@ -207,7 +207,7 @@ boolean GetEffectivePermission(
 
 Возвращает **значение true** , если вызывающий объект имеет указанные разрешения, и **значение false** , если вызывающий объект не имеет указанных разрешений.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -222,7 +222,7 @@ boolean GetEffectivePermission(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

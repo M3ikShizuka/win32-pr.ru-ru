@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 754ea3124f5c2433e459331d4ebc7727a9c2519a982d1def09c7e16e794e6ae9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b92a5489569765ef059af9b1023b40fc681b5d0c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119750104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972601"
 ---
 # <a name="d3dxmatrixtransformation2d-function-d3dx9mathh"></a>Функция D3DXMatrixTransformation2D (D3dx9math. h)
 
@@ -115,7 +115,7 @@ D3DXMATRIX* D3DXMatrixTransformation2D(
 
 Указатель на структуру [**D3DXMATRIX**](d3dxmatrix.md) , содержащую матрицу преобразования.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция вычисляет матрицу преобразования с помощью следующей формулы, при этом сцепление матрицы вычисляется в порядке слева направо:
 

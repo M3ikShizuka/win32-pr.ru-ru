@@ -8,11 +8,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: fb65b377b5bdd041c5a34b05262f7e62f43801c5
-ms.sourcegitcommit: 803f3ccd65bdefe36bd851b9c6e7280be9489016
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "104487488"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973209"
 ---
 # <a name="composing-spns-for-an-rpcns-service"></a>Составление имен участников-служб для службы Рпкнс
 
@@ -111,6 +111,6 @@ HRESULT SpnCompose(LPTSTR pszServiceName,
 
 
 
- 
+ 
 
- 
+ 

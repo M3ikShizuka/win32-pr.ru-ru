@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: fd10f6d726118679f395f01714233c7096fd5189
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122476420"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973297"
 ---
 # <a name="vs_3_0"></a>VS \_ 3 \_ 0
 
@@ -79,7 +79,7 @@ ms.locfileid: "122476420"
 
 
 
-| Колпачок | Функция | 
+| Колпачок | Возможности | 
 |-----|------------|
 | Заглушки шейдеров | <ul><li>Динамикфловконтролдепс — 24</li><li>Нумтемпс — 32</li><li>Статикфловконтролдепс — 4</li><li>Затенения поддерживается.</li></ul> | 
 | Гуардбандлефт, Гуардбандтоп, Гуардбандригхт, Гуардбандботтом | 8 КБ | 

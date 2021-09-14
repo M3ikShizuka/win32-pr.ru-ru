@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 36676517a1979c2bd876ad3afdb84e83d596322f25015ac2cd934d48f23c5b33
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: df101edd0362321847fb9c0baf7feb3cc865e2da
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119949984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973310"
 ---
 # <a name="software-shaders"></a>Шейдеры программного обеспечения
 
@@ -22,7 +22,7 @@ ms.locfileid: "119949984"
 
 
 
-| Версия   | Набор возможностей                  | Requirements (Требования)                                                         |
+| Версия   | Набор возможностей                  | Требования                                                         |
 |-----------|------------------------------|----------------------------------------------------------------------|
 | VS \_ 2 \_ SW | Все функции VS \_ 2 \_ x | Поддерживается только при обработке вершин программного обеспечения и на эталонном устройстве. |
 | VS \_ 3 \_ SW | Все функции VS \_ 3 \_ 0 | Поддерживается только при обработке вершин программного обеспечения и на эталонном устройстве. |

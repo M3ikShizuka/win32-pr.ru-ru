@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 6bc5a908336f011973690bd3ca3d598583b0d32d
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104984084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973418"
 ---
 # <a name="any"></a>any
 
@@ -49,7 +49,7 @@ ms.locfileid: "104984084"
 
 **Значение true** , если какие-либо компоненты параметра *x* не равны нулю; в противном случае — **значение false**.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Комментарии
 
 Эта функция похожа на встроенную функцию [**ALL**](dx-graphics-hlsl-all.md) HLSL. Функция **ANY** определяет, являются ли какие-либо компоненты указанного значения ненулевыми, тогда как функция **ALL** определяет, являются ли все компоненты указанного значения ненулевыми.
 
@@ -60,7 +60,7 @@ ms.locfileid: "104984084"
 | Имя  | [**Тип шаблона**](dx-graphics-hlsl-intrinsic-functions.md)                                                  | [**Тип компонента**](dx-graphics-hlsl-intrinsic-functions.md)                                                         | Размер |
 |-------|----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------|
 | *x*   | [**Скалярная**](dx-graphics-hlsl-intrinsic-functions.md), **векторная** или **Матрица** | [**float**](/windows/desktop/WinProg/windows-data-types), [**int**](/windows/desktop/WinProg/windows-data-types), [**bool**](/windows/desktop/WinProg/windows-data-types) | any  |
-| *обратно* | [**скаляр**](dx-graphics-hlsl-intrinsic-functions.md)                            | [**bool**](/windows/desktop/WinProg/windows-data-types)                                                                                 | 1    |
+| *обратно* | [**функцией**](dx-graphics-hlsl-intrinsic-functions.md)                            | [**логическом**](/windows/desktop/WinProg/windows-data-types)                                                                                 | 1    |
 
 
 
@@ -74,7 +74,7 @@ ms.locfileid: "104984084"
 
 | Модель шейдера                                                                       | Поддерживается             |
 |------------------------------------------------------------------------------------|-----------------------|
-| [Модели шейдеров 2 (DirectX HLSL)](dx-graphics-hlsl-sm2.md) и более поздние модели шейдеров | да                   |
+| [Модели шейдеров 2 (DirectX HLSL)](dx-graphics-hlsl-sm2.md) и более поздние модели шейдеров | yes                   |
 | [Модель шейдера 1 (DirectX HLSL)](dx-graphics-hlsl-sm1.md)                          | VS \_ 1 \_ 1 и PS \_ 1 \_ 4 |
 
 

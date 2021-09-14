@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 70ff3ca1fb2509cd5f788cc1965920c46af5791bec10bb833df19f4b4f9be533
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 53bfc903f8bc1be56962e912b1c82f02faaf0c44
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119119938"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973314"
 ---
 # <a name="state-objects"></a>Объекты состояния
 
@@ -63,7 +63,7 @@ Type Name =
 
 или ноль ни для одного из них.
 
-Пример
+Пример:
 
 ```
 StateObjectConfig MyStateObjectConfig = 
@@ -77,7 +77,7 @@ StateObjectConfig MyStateObjectConfig =
 
 Поля состоят из нескольких строк, описывающих части корневой сигнатуры. Справочные сведения об этом см. [в разделе Указание корневых подписей в HLSL](../direct3d12/specifying-root-signatures-in-hlsl.md).
 
-Пример
+Пример:
 ```
 GlobalRootSignature MyGlobalRootSignature =
 {
@@ -123,7 +123,7 @@ SubobjectToExportsAssocation Name =
 | <span id="Exports"></span><span id="exports"></span><span id="EXPORTS"></span>**Экспорт**<br/> | Строка, содержащая разделенный точками с запятой список экспортов.<br/> |
 
 
-Пример
+Пример:
 ```
 SubobjectToExportsAssociation MyLocalRootSignatureAssociation =
 {
@@ -183,7 +183,7 @@ RaytracingPipelineConfig Name =
 | <span id="MaxTraceRecursionDepth"></span><span id="maxtracerecursiondepth"></span><span id="MAXTRACERECURSIONDEPTH"></span>**макстрацерекурсиондепс**<br/>     | Числовой предел, используемый для рекурсии лучей в конвейере райтраЦинг. Это число от 0 до 31 включительно. <br/> |
 
 
-Пример
+Пример:
 ```
 RaytracingPipelineConfig MyPipelineConfig =
 {
@@ -249,7 +249,7 @@ ProceduralPrimitiveHitGroup Name =
 | <span id="IntersectionShader"></span><span id="intersectionshader"></span><span id="INTERSECTIONSHADER"></span>**интерсектионшадер**<br/> | Строковое имя шейдера пересечения для группы попаданий или пустая строка.<br/> |
 
 
-Пример
+Пример:
 ```
 ProceduralPrimitiveHitGroup MyProceduralHitGroup
 {
@@ -262,7 +262,7 @@ ProceduralPrimitiveHitGroup MyProceduralHitGroup
 
 Обратите внимание, что в трех полях используются *экспортированные* имена. Экспортированное имя может отличаться от исходного имени в HLSL, если приложение выбирает экспорт-переименование.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Подобъекты имеют понятие "Ассоциация" или "какой подобъект проходит с помощью экспорта".
 

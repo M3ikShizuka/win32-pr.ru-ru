@@ -25,11 +25,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: cea65666ce515a0f508a23edfaebf941237dabe8
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122886623"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972334"
 ---
 # <a name="cim_diskspacecheck-class"></a>\_Класс CIM дискспацечекк
 
@@ -61,7 +61,7 @@ class CIM_DiskSpaceCheck : CIM_Check
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ дискспацечекк** имеет следующие типы членов:
 
@@ -800,7 +800,7 @@ Mac OS 9
 
 </dd> <dt>
 
-**Version**
+**Версия**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**

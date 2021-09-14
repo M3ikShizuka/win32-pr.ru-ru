@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: a8afea2700ec1b4a503db9ec45d2ff2757ccf2a74714ce384f06a498f6f49640
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: be8246053e0f7ba6357bdd68dc59059fd225bbc8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119043652"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973221"
 ---
 # <a name="texture2dgathercmpsfloatfloatintuint-function"></a>Функция Texture2D:: Гасеркмп (S, float, float, int, uint)
 
@@ -94,7 +94,7 @@ TemplateType GatherCmp(
 
 Значение из четырех компонентов, тип которого совпадает с типом шаблона.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Примеры текстур можно использовать для интерполяции билинейной.
 
@@ -102,7 +102,7 @@ TemplateType GatherCmp(
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | x      | x    | x      | x        | x     | x       |
 
@@ -110,7 +110,7 @@ TemplateType GatherCmp(
 
  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 6aaa14bbd2f82be7ac87857c05a863b6459440dcfdd383d2144fe1b4426019ec
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9c74d56eaa0e41bc6ce9060ff291885a8a5c05a5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119986524"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972598"
 ---
 # <a name="d3dxmatrixtranslation-function-d3dx9mathh"></a>Функция D3DXMatrixTranslation (D3dx9math. h)
 
@@ -85,7 +85,7 @@ D3DXMATRIX* D3DXMatrixTranslation(
 
 Указатель на структуру [**D3DXMATRIX**](d3dxmatrix.md) , содержащую преобразованную матрицу преобразования.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре *тоска* . Таким образом, D3DXMATRIXTranslation можно использовать в качестве параметра для другой функции.
 

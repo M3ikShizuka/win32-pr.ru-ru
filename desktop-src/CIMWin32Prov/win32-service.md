@@ -40,12 +40,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: a33265b3dfc3b114d55b381a229b717e291bbd258716e8305d9995282d29b3f6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b342282bfa3b49fe72e62cf79377a0ead11276eb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119759264"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972849"
 ---
 # <a name="win32_service-class"></a>\_Класс службы Win32
 
@@ -88,7 +88,7 @@ class Win32_Service : Win32_BaseService
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ службы Win32** имеет следующие типы членов:
 
@@ -103,7 +103,7 @@ class Win32_Service : Win32_BaseService
 
 | Метод                                                                               | Описание                                                                                          |
 |:-------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------|
-| [**Изменение**](change-method-in-class-win32-service.md)                               | Изменяет службу.<br/>                                                                       |
+| [**Change**](change-method-in-class-win32-service.md)                               | Изменяет службу.<br/>                                                                       |
 | [**чанжестартмоде**](changestartmode-method-in-class-win32-service.md)             | Изменяет режим запуска службы.<br/>                                                     |
 | [**Создание**](create-method-in-class-win32-service.md)                               | Создает новую службу.<br/>                                                                    |
 | [**Удален**](delete-method-in-class-win32-service.md)                               | Удаляет существующую службу.<br/>                                                              |
@@ -401,7 +401,7 @@ Windows код ошибки, определяющий ошибки при зап
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -546,7 +546,7 @@ Windows код ошибки, определяющий ошибки при зап
 
 </dd> <dt>
 
-**Запуск**
+**Начинать**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **логический**
@@ -919,7 +919,7 @@ Windows код ошибки, определяющий ошибки при зап
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **\_ службы Win32** является производным от [**Win32 \_ басесервице**](win32-baseservice.md).
 
@@ -1093,7 +1093,7 @@ using System.Management;
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -1107,7 +1107,7 @@ using System.Management;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

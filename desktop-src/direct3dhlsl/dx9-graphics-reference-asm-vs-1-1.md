@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: 78ea10e751fd7fe902b1631376e9eb2023d31c12
-ms.sourcegitcommit: 8f0a1d212dd154e8d94ab4c0e4ced053fa16823a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "112011067"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973305"
 ---
 # <a name="vs_1_1"></a>VS \_ 1 \_ 1
 

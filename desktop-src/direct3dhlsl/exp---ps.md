@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: acd7c50c1f0d6ff08ee5d66e50fdd3e56939f0d9
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "104081764"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973274"
 ---
 # <a name="exp---ps"></a>EXP-PS
 
@@ -36,7 +36,7 @@ ms.locfileid: "104081764"
 -   DST — это регистр назначения.
 -   src является исходным регистром. Регистр исходного кода требует явного использования репликации свиззле; то есть необходимо указать только один из компонентов. x,. y,. z,. w свиззле (или. r,. g,. b,. a эквивалент). См. раздел [Source Register группирующие](dx9-graphics-reference-asm-ps-registers-modifiers-source-register-swizzling.md).
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Комментарии
 
 
 
@@ -57,7 +57,7 @@ dest.x = dest.y = dest.z = dest.w = (float)pow(2, src.replicateSwizzleComponent)
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

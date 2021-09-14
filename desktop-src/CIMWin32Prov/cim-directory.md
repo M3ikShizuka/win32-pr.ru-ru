@@ -45,12 +45,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 38f41b28689ac8ae4bebc29248e27d8e6b17eae1b265237acd91ed2b03d97c9a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cebab65cc067018b3a57aa5f6890fffad1cb4c7a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119321604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972382"
 ---
 # <a name="cim_directory-class"></a>\_Класс каталога CIM
 
@@ -103,7 +103,7 @@ class CIM_Directory : CIM_LogicalFile
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ каталога CIM** имеет следующие типы членов:
 
@@ -122,7 +122,7 @@ class CIM_Directory : CIM_LogicalFile
 | [**чанжесекуритипермиссионсекс**](changesecuritypermissionsex-method-in-class-cim-directory.md) | Изменяет разрешения безопасности для логического файла, указанного в пути к объекту. Не реализовано инструментарием WMI.<br/>                                   |
 | [**Повторно**](compress-method-in-class-cim-directory.md)                                       | Сжимает логический файл (или каталог), указанный в пути объекта. Не реализовано инструментарием WMI.<br/>                                              |
 | [**компрессекс**](compressex-method-in-class-cim-directory.md)                                   | Сжимает логический файл (или каталог), указанный в пути объекта. Не реализовано инструментарием WMI.<br/>                                              |
-| [**Копировать**](copy-method-in-class-cim-directory.md)                                               | Копирует логический файл (или каталог), указанный в пути к объекту, в расположение, указанное входным параметром. Не реализовано инструментарием WMI.<br/> |
+| [**Копии**](copy-method-in-class-cim-directory.md)                                               | Копирует логический файл (или каталог), указанный в пути к объекту, в расположение, указанное входным параметром. Не реализовано инструментарием WMI.<br/> |
 | [**копекс**](copyex-method-in-class-cim-directory.md)                                           | Копирует логический файл (или каталог), указанный в пути к объекту, в расположение, указанное входным параметром. Не реализовано инструментарием WMI.<br/> |
 | [**Удален**](delete-method-in-class-cim-directory.md)                                           | Удаляет логический файл (или каталог), указанный в пути объекта. Не реализовано инструментарием WMI.<br/>                                                 |
 | [**делетикс**](deleteex-method-in-class-cim-directory.md)                                       | Удаляет логический файл (или каталог), указанный в пути объекта. Не реализовано инструментарием WMI.<br/>                                                 |
@@ -706,7 +706,7 @@ class CIM_Directory : CIM_LogicalFile
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -904,7 +904,7 @@ class CIM_Directory : CIM_LogicalFile
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **\_ каталога CIM** является производным от [**CIM \_ LogicalFile**](cim-logicalfile.md).
 

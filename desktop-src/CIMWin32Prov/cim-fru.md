@@ -21,12 +21,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: b87d1cb3719da794f2f9cb89f4698c3452769c7213d6fc7d58885585c18c4a3c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d163c3c223159ad8e09aa6e36d63187ff0aa97f4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119923704"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973069"
 ---
 # <a name="cim_fru-class"></a>\_Класс CIM FRU
 
@@ -55,7 +55,7 @@ class CIM_FRU
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ FRU** имеет следующие типы членов:
 
@@ -131,7 +131,7 @@ class CIM_FRU
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -179,7 +179,7 @@ class CIM_FRU
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Инструментарий WMI не реализует этот класс.
 

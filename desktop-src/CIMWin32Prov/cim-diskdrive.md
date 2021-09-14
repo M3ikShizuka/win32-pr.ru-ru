@@ -43,12 +43,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 6873770ef4e84c68a6c719ac574dfa730273d7b6e413e0b9e843b2b3a00c26dc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c68e8fc53898220737f473cc0c13f43d7ad471b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119080758"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972354"
 ---
 # <a name="cim_diskdrive-class-cimwin32-wmi-providers"></a>Класс CIM_DiskDrive (поставщики WMI CIMWin32)
 
@@ -99,7 +99,7 @@ class CIM_DiskDrive : CIM_MediaAccessDevice
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ дискдриве** имеет следующие типы членов:
 
@@ -1218,7 +1218,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1603,7 +1603,7 @@ Windows Самонастраивающийся идентификатор уст
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **CIM \_ дискдриве** является производным от [**CIM \_ медиаакцессдевице**](cim-mediaaccessdevice.md).
 

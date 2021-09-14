@@ -25,11 +25,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 90ef11615fe520ffe11c818df5491fb7adae6f1e
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122881813"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972365"
 ---
 # <a name="cim_directoryaction-class"></a>\_Класс CIM директоряктион
 
@@ -61,7 +61,7 @@ class CIM_DirectoryAction : CIM_Action
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ директоряктион** имеет следующие типы членов:
 
@@ -812,7 +812,7 @@ Mac OS 9
 
 </dd> <dt>
 
-**Version**
+**Версия**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**

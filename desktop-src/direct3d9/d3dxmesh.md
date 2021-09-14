@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3dx9mesh.h
-ms.openlocfilehash: 6b83389ae4d92027245877e24e01621f0d93f123dee9ff4f040586b3e7c5111d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a312c2618960691184182039afe38acc8947eb6a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118525279"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972593"
 ---
 # <a name="d3dxmesh-enumeration"></a>Перечисление D3DXMESH
 
@@ -214,11 +214,11 @@ typedef enum D3DXMESH {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 32-разрядная сеть (D3DXMESH \_ 32) теоретически может поддерживать (2 ^ 32)-1 лица и вершины. Однако выделение памяти для сетки, которая велика в 32-разрядной операционной системе, не является практичной.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -228,7 +228,7 @@ typedef enum D3DXMESH {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

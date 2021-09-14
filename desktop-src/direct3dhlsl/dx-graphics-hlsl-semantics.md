@@ -63,11 +63,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: 5af63606dcdbc9fd355b739445f1b434b8903b21
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122623690"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973406"
 ---
 # <a name="semantics"></a>Семантика
 
@@ -86,7 +86,7 @@ ms.locfileid: "122623690"
 
 Эти семантики имеют смысл при присоединении к параметру вершинного шейдера. Эти семантики поддерживаются как в Direct3D 9, так и в Direct3D 10 и более поздних версиях.
 
-| Входные данные | Описание | Type |
+| Входные данные | Описание | Тип |
 |-|-|-|
 | БИНОРМАЛ \[ n\] | бинормал | float4 |
 | БЛЕНДИНДИЦЕС \[ n\] | Индексы Blend | uint |
@@ -123,7 +123,7 @@ ms.locfileid: "122623690"
 <tr class="header">
 <th>Входные данные</th>
 <th>Описание</th>
-<th>Type</th>
+<th>Тип</th>
 </tr>
 </thead>
 <tbody>

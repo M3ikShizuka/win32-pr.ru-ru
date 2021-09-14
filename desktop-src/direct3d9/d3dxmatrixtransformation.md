@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 59656e1716dcf3fbc7844c8369de032f5e6e69776e5b89452a35d71512aea87c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dc3b6502a8015564207f208166cec15227d3b18a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119044812"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972602"
 ---
 # <a name="d3dxmatrixtransformation-function-d3dx9mathh"></a>Функция D3DXMatrixTransformation (D3dx9math. h)
 
@@ -115,7 +115,7 @@ D3DXMATRIX* D3DXMatrixTransformation(
 
 Указатель на структуру [**D3DXMATRIX**](d3dxmatrix.md) , которая является матрицей преобразования.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция вычисляет матрицу преобразования с помощью следующей формулы, при этом сцепление матрицы вычисляется в порядке слева направо:
 
@@ -141,7 +141,7 @@ MT = матрица перевода (*птранслатион*)
 
 Для двумерных преобразований используйте [**D3DXMatrixTransformation2D**](d3dxmatrixtransformation2d.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -152,7 +152,7 @@ MT = матрица перевода (*птранслатион*)
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

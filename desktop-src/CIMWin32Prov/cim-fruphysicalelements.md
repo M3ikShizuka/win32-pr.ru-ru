@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 15a1f94771e7ccdcaaf132f4366b7b06824b14010d9cf8abf5914ea446f9ac8c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5c47160b9053a323f693d76f5b84d922c5120992
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119080598"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973057"
 ---
 # <a name="cim_fruphysicalelements-class"></a>\_Класс CIM фруфисикалелементс
 
@@ -45,7 +45,7 @@ class CIM_FRUPhysicalElements
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ фруфисикалелементс** имеет следующие типы членов:
 
@@ -86,7 +86,7 @@ class CIM_FRUPhysicalElements
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Инструментарий WMI не реализует этот класс.
 

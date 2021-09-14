@@ -36,12 +36,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: f3add3a93cc974c2d6c5b20c360d099d46b688887f81cb646005568240a7cb52
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6e9f6a8c821aa327e8b810b634c85bb06459910f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118416720"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972834"
 ---
 # <a name="win32_thread-class"></a>\_Класс потока Win32
 
@@ -80,7 +80,7 @@ class Win32_Thread : CIM_Thread
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ потока Win32** имеет следующие типы членов:
 
@@ -318,7 +318,7 @@ class Win32_Thread : CIM_Thread
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -853,7 +853,7 @@ class Win32_Thread : CIM_Thread
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **\_ потока Win32** является производным от [**\_ потока CIM**](cim-thread.md).
 

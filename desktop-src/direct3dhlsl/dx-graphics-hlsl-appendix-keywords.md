@@ -90,12 +90,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: b6c3e52f03ac283af0dd89a67caeb46d884f47c7587917966cc3a89869fc5e8d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 017647104d7cb7a71b400390a307a633666bc100
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117726664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973414"
 ---
 # <a name="keywords"></a>Keywords
 
@@ -122,7 +122,7 @@ ms.locfileid: "117726664"
 - [vector](dx-graphics-hlsl-vector.md), [вертексфрагмент](fragment-declaration-syntax.md), [вертексшадер](dx-graphics-hlsl-shader.md), void, [volatile](dx-graphics-hlsl-variable-syntax.md)
 - [while](dx-graphics-hlsl-while.md)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эти числовые типы имеют скалярные, векторные и матричные расширения ключевых слов.
 
@@ -157,7 +157,7 @@ HLSL поддерживает более низкие [текстуры](dx-grap
 
 Используйте **Export** , чтобы отмечать функции, Упакованные в библиотеку.
 
-Пример:
+Например:
 
 ``` syntax
 export float identity(float x)

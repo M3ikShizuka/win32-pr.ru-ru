@@ -75,12 +75,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: f482ad184bd61c14caee07b49dedddd565b290cda1cba6b8f0a8f437bf01d7b0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: deb6903ba6cf27170539281da90569a14471999c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119079618"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972830"
 ---
 # <a name="win32_videocontroller-class"></a>\_Класс Win32 видеоконтроллер
 
@@ -158,7 +158,7 @@ class Win32_VideoController : CIM_PCVideoController
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ Видеоконтроллер** имеет следующие типы членов:
 
@@ -1547,7 +1547,7 @@ inf-файла, в котором находятся Windows видеоданн�
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -2615,7 +2615,7 @@ ATA или ATAPI
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ Видеоконтроллер** является производным от [**CIM \_ пквидеоконтроллер**](cim-pcvideocontroller.md).
 

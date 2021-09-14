@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 30f04ec310ce66dc43073e724b08c358cd8fc6f24f0b3840475a1abc61544503
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 99ee9db7df541dcf74867b828a73ede80f11e22b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118524931"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972525"
 ---
 # <a name="d3dxplanedotcoord-function"></a>Функция D3DXPlaneDotCoord
 
@@ -65,7 +65,7 @@ FLOAT D3DXPlaneDotCoord(
 
 Скалярное произведение плоскости и трехмерного вектора.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При наличии плоскости (a, b, c, d) и трехмерного вектора (x, y, z) возвращаемое значение этой функции является \* x + b \* y + c \* z + d \* 1. Функция **D3DXPlaneDotCoord** полезна для определения связи плоскости с координатами в трехмерном пространстве.
 

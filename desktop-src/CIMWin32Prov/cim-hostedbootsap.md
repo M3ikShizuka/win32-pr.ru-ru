@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: a69bad7de1a680054f93a9cb63596fff30538b31c02019e08ac58f643a0d81c5
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 12e801f420ca2c56cc8960175391cdd9a669a00d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119923594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973038"
 ---
 # <a name="cim_hostedbootsap-class"></a>\_Класс CIM хостедбутсап
 
@@ -45,7 +45,7 @@ class CIM_HostedBootSAP : CIM_HostedAccessPoint
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ хостедбутсап** имеет следующие типы членов:
 
@@ -89,7 +89,7 @@ class CIM_HostedBootSAP : CIM_HostedAccessPoint
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **CIM \_ хостедбутсап** является производным от [**CIM \_ хостедакцесспоинт**](cim-hostedaccesspoint.md).
 

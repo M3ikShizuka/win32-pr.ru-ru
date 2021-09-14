@@ -9,12 +9,12 @@ keywords:
 - Bluetooth и BLOB-объект
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 960362e7f6bc6388d3b93bd6e0329e405bdb33ed6e796a5ec5793d402ba0557c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 385f4fab053f975672d3b94fa231b3d7632e58eb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119081138"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973174"
 ---
 # <a name="bluetooth-and-blob"></a>Bluetooth и BLOB-объект
 

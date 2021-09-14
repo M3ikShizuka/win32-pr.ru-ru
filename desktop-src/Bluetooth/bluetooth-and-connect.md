@@ -8,12 +8,12 @@ keywords:
 - Bluetooth и подключение Bluetooth
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d38e00456b3174c49676e081a0fa6188da13fd54f8e07940edcf703e7f5b680d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6b631aabbcd44d009ba30b9deb486e92a22feaec
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119588464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973173"
 ---
 # <a name="bluetooth-and-connect"></a>Bluetooth и подключение
 

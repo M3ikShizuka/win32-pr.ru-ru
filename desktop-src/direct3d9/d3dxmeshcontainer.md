@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3dx9anim.h
-ms.openlocfilehash: 192b60c34c8a15c34a759bda8fd4f3350956003914f40578bd9c5efa54c772df
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f57daea26f42d8dd680d0259199b0df77badf510
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117731670"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972589"
 ---
 # <a name="d3dxmeshcontainer-structure"></a>Структура D3DXMESHCONTAINER
 
@@ -42,11 +42,11 @@ typedef struct D3DXMESHCONTAINER {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd>
 
 Тип: **LPSTR**
@@ -134,7 +134,7 @@ typedef struct D3DXMESHCONTAINER {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Приложение может быть производным от этой структуры для добавления других данных.
 

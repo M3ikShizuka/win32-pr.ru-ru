@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: a2620140337807891efa739da4540e3895394f63bcc494396c13e7c15d0c1b29
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4fd802f636077c9ec2a9f0f1060ffd43493aabf1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117729790"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126973457"
 ---
 # <a name="id3dxprtengineclosestrayintersects-method"></a>Метод ID3DXPRTEngine:: Клосестрайинтерсектс
 
@@ -105,7 +105,7 @@ BOOL ClosestRayIntersects(
 
 Возвращает **значение true** , если луч пересекает текущую сетку; в противном случае возвращает **значение false**.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Используйте [**ID3DXPRTEngine:: сетминмаксинтерсектион**](id3dxprtengine--setminmaxintersection.md) , чтобы задать минимальное и максимальное расстояние пересечения с лучом.
 
