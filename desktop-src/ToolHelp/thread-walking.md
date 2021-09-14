@@ -9,12 +9,12 @@ keywords:
 - потоки, перечисление потоков
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ec4f75f4690be05a7703dab80965fb41035da03cb21f244a4b5a9039a4a61ef0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 32eff584aedaa3f6124cc358a4ee9d2a94962843
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119513854"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890520"
 ---
 # <a name="thread-walking"></a>Потоковый проход
 

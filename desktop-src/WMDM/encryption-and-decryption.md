@@ -17,12 +17,12 @@ keywords:
 - расшифровка
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a1c154910709007e502c1505fc6fc3274665942c9eabe8e24de5b30fe932d813
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 78688c1b4ca9991d8b322c6991de96a51e7e8d22
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118584672"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890328"
 ---
 # <a name="encryption-and-decryption"></a>Шифрование и расшифровка
 

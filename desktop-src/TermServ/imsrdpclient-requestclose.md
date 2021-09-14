@@ -44,12 +44,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ae812c27b0c280ca3a6cd879d5af86181de85793ec6092441fb83b45c74d8656
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1679b08680b962cdbff57e9bbbd1c392607d8709
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120010185"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890997"
 ---
 # <a name="imsrdpclientrequestclose-method"></a>Метод Имсрдпклиент:: RequestClose
 
@@ -103,7 +103,7 @@ HRESULT RequestClose(
 
 В случае успеха возвратите значение **\_ ОК** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если параметр *пклосестатус* равен **контролклосеваитфоревентс**, то приложение должно подождать одно из следующих событий, прежде чем приложение закроет элемент управления:
 

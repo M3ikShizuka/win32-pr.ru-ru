@@ -6,11 +6,11 @@ ms.tgt_platform: multiple
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 349573a2839c3f9dfa7faa980a80d9bb208554c4
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103774102"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890621"
 ---
 # <a name="win32_tsgatewayresourceauthorizationpolicy-methods"></a>\_Методы тсгатевайресаурцеаусоризатионполици Win32
 
@@ -28,11 +28,11 @@ ms.locfileid: "103774102"
 -   [**Метод Сетпортнумберс**](setportnumbers-win32-tsgatewayresourceauthorizationpolicy.md)
 -   [**Метод Сетресаурцеграуп**](setresourcegroup-win32-tsgatewayresourceauthorizationpolicy.md)
 -   [**Метод Сетусерграупнамес**](setusergroupnames-win32-tsgatewayresourceauthorizationpolicy.md)
--   [**Метод Update**](update-win32-tsgatewayresourceauthorizationpolicy.md)
+-   [**Update - метод**](update-win32-tsgatewayresourceauthorizationpolicy.md)
 
- 
+ 
 
- 
+ 
 
 
 

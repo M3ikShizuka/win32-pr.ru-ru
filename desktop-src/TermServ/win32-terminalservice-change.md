@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c10e8c7b0a26ce2ca1e602478a64a888a1ad6b299f8ab7965303832bba7a3fc3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fa34ea0c9c38cd0b11f97a0bbf651f1aebf37a46
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118604436"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890821"
 ---
 # <a name="change-method-of-the-win32_service-class-mbnapih---terminalservice"></a>Метод Change класса Win32_Service (Мбнапи. h) — Терминалсервице
 
@@ -460,7 +460,7 @@ uint32 Change(
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При запуске компьютера также запускаются все службы автозапуска. Иногда одна из этих служб может не запускаться вместе с компьютером. При сбое службы во время запуска системы компьютер принимает действия в соответствии со значением управляющего кода ошибки службы.
 
@@ -559,7 +559,7 @@ Next
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
 | Пространство имен<br/>                | Корневой \\ CIMv2 \\ терминалсервицес<br/>                                                |
-| Header<br/>                   | <dl> <dt>Мбнапи. h</dt> </dl>     |
+| Заголовок<br/>                   | <dl> <dt>Мбнапи. h</dt> </dl>     |
 | MOF<br/>                      | <dl> <dt>Тскфгвми. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>TSCfgWmi.dll</dt> </dl> |
 

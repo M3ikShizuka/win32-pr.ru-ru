@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 911ecec0c0ad2cc248bcfdfa2b4e475538d6eff35e8d7bd568df29302b610ee9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 14b776d3e451d84c63be5bb61b98ed22081e1a29
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119137887"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890773"
 ---
 # <a name="create-method-of-the-win32_service-class-remote-desktop-services"></a>Метод Create класса Win32_Service (службы удаленных рабочих столов)
 
@@ -441,7 +441,7 @@ uint32 Create(
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Службы обычно устанавливаются одним из двух способов: либо как часть установки операционной системы, либо с помощью программы установки, предоставляемой разработчиком службы. Однако некоторые службы, в частности созданные в Организации, могут не иметь программы установки. В этих случаях для программной установки служб можно использовать метод **CREATE** .
 

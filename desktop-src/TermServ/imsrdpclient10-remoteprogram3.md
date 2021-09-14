@@ -18,12 +18,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f332985777d6b83e04724e6bf0af65b06b3cac50d73ba437647dc93944f76e8d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 334b0cd4e71cb1dde48bd7868a3dbe23fc2a4a97
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118130293"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890992"
 ---
 # <a name="imsrdpclient10remoteprogram3-property"></a>Свойство IMsRdpClient10:: RemoteProgram3
 
@@ -46,7 +46,7 @@ HRESULT get_RemoteProgram3(
 
 Возвращает указатель на интерфейс [**ITSRemoteProgram3**](itsremoteprogram3.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ HRESULT get_RemoteProgram3(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

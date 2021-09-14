@@ -36,12 +36,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9bfaefb0a3062db27622afe90023928507c6d127c64edb60041347f73c1b261c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 27384ec3a5f17c3e41fe0ceccf0ee1f7f9d08044
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118349249"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890693"
 ---
 # <a name="win32_tsgatewayconnectionauthorizationpolicy-class"></a>\_Класс Win32 тсгатевайконнектионаусоризатионполици
 
@@ -76,7 +76,7 @@ class Win32_TSGatewayConnectionAuthorizationPolicy
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ тсгатевайконнектионаусоризатионполици** имеет следующие типы членов:
 
@@ -94,7 +94,7 @@ class Win32_TSGatewayConnectionAuthorizationPolicy
 | [**аддкомпутерграупнамес**](addcomputergroupnames-win32-tsgatewayconnectionauthorizationpolicy.md)                   | Добавляет указанные имена групп компьютеров в свойство **компутерграупнамес** .<br/>                                                                                      |
 | [**аддусерграупнамес**](addusergroupnames-win32-tsgatewayconnectionauthorizationpolicy.md)                           | Добавляет указанные имена групп пользователей в свойство **усерграупнамес** .<br/>                                                                                              |
 | [**Создание**](create-win32-tsgatewayconnectionauthorizationpolicy.md)                                                 | Создает ограничение удаленных рабочих столов.<br/>                                                                                                                                                   |
-| [**Удален**](delete-win32-tsgatewayconnectionauthorizationpolicy.md)                                                 | Удаляет текущую политику авторизации подключений к удаленным рабочим столам.<br/>                                                                                                                                          |
+| [**DELETE**](delete-win32-tsgatewayconnectionauthorizationpolicy.md)                                                 | Удаляет текущую политику авторизации подключений к удаленным рабочим столам.<br/>                                                                                                                                          |
 | [**дисаблеклипбоард**](disableclipboard-win32-tsgatewayconnectionauthorizationpolicy.md)                             | Задает свойство **клипбоарддисаблед** .<br/>                                                                                                                             |
 | [**дисабледискдривес**](disablediskdrives-win32-tsgatewayconnectionauthorizationpolicy.md)                           | Задает свойство **дискдривесдисаблед** .<br/>                                                                                                                            |
 | [**дисаблеплугандплайдевицес**](disableplugandplaydevices-win32-tsgatewayconnectionauthorizationpolicy.md)           | Задает свойство **плугандплайдевицесдисаблед** .<br/>                                                                                                                    |
@@ -116,7 +116,7 @@ class Win32_TSGatewayConnectionAuthorizationPolicy
 | [**сетсессионтимеаут**](setsessiontimeout-win32-tsgatewayconnectionauthorizationpolicy.md)                           | Задает свойства **SessionTimeout** и **сессионтимеаутактион** .<br/> **Windows Server 2008:** этот метод недоступен до Windows Server 2008 R2.<br/> |
 | [**сетсмарткардалловед**](setsmartcardallowed-win32-tsgatewayconnectionauthorizationpolicy.md)                       | Задает свойство **смарткардалловед** .<br/>                                                                                                                              |
 | [**сетусерграупнамес**](setusergroupnames-win32-tsgatewayconnectionauthorizationpolicy.md)                           | Задает свойство **усерграупнамес** .<br/>                                                                                                                                |
-| [**Update**](update-win32-tsgatewayconnectionauthorizationpolicy.md)                                                 | Обновляет текущую политику авторизации подключений к удаленным рабочим столам.<br/>                                                                                                                                          |
+| [**Обновляют**](update-win32-tsgatewayconnectionauthorizationpolicy.md)                                                 | Обновляет текущую политику авторизации подключений к удаленным рабочим столам.<br/>                                                                                                                                          |
 
 
 
@@ -233,7 +233,7 @@ class Win32_TSGatewayConnectionAuthorizationPolicy
 
 </dd> <dt>
 
-**Включен**
+**Enabled**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **логический**
@@ -274,7 +274,7 @@ class Win32_TSGatewayConnectionAuthorizationPolicy
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -444,13 +444,13 @@ class Win32_TSGatewayConnectionAuthorizationPolicy
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Для использования этого класса необходимо быть членом группы администраторов.
 
 файлы MOF-файл (MOF) содержат определения для классов инструментарий управления Windows (WMI) (WMI). файлы MOF не устанавливаются в составе пакета средств разработки программного обеспечения Microsoft Windows Software Development Kit (SDK). Они устанавливаются на сервере при добавлении связанной роли с помощью диспетчер сервера. Дополнительные сведения о файлах MOF см. в разделе [MOF-файл (MOF)](/windows/desktop/WmiSdk/managed-object-format--mof-).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -464,7 +464,7 @@ class Win32_TSGatewayConnectionAuthorizationPolicy
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

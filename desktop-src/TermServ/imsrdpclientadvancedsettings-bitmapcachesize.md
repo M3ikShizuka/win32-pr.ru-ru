@@ -54,12 +54,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: af56056cbdd62bb041ba9ab08e83a4f09e69037a3f9bd6799fa0c0facc9da75e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0a38376bb0b06bd4efea36d3c4cad4e4aec0f35b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118609055"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890901"
 ---
 # <a name="imsrdpclientadvancedsettingsbitmapcachesize-property"></a>Свойство Имсрдпклиентадванцедсеттингс:: Битмапкачесизе
 
@@ -90,7 +90,7 @@ HRESULT get_BitmapCacheSize(
 
 При успешном выполнении возвращает значение **\_ ОК** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Дополнительные сведения о веб-подключение к удаленному рабочему столу см. в разделе [требования для веб-подключение к удаленному рабочему столу](requirements-for-remote-desktop-web-connection.md).
 

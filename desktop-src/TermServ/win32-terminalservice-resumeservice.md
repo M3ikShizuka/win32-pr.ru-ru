@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b2886e011bddd4aa45a8d0fcf3041e54d93487a3d4835cd85dcd1f5fb3de3955
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 94f8e7dcfc9b9bd5b408e36d8a909aa10c84519c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119867864"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890757"
 ---
 # <a name="resumeservice-method-of-the-win32_service-class-remote-desktop-services"></a>Метод ResumeService класса Win32_Service (службы удаленных рабочих столов)
 
@@ -224,7 +224,7 @@ uint32 ResumeService();
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Хотя может показаться, что непрактичное различие между остановленной службой и приостановленной службой, два состояния по-разному отображаются в SCM. Остановленная служба — это служба, которая не запущена и должна проходить всю процедуру запуска службы. Однако Приостановленная служба все еще работает, но ее работа приостановлена. По этой причине Приостановленная служба не обязана проходить всю процедуру запуска службы, но для ее возобновления требуется другая процедура.
 
@@ -237,7 +237,7 @@ uint32 ResumeService();
 
 В [службах возобновления работы, приостановленных](https://Gallery.TechNet.Microsoft.Com/413f2896-e7f3-4b3e-96cb-5abdc9bb6c36) с помощью VBScript, перезапускаются все приостановленные службы автозапуска.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -251,7 +251,7 @@ uint32 ResumeService();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
