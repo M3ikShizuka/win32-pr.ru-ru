@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dxof.lib
 - D3dxof.dll
-ms.openlocfilehash: c3646f54b1f232c6eec3e1b3d06441a8e6a7c090f784e3c4c016f7f1bcfc3b03
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 848010a1f701b39f5cc77a126272bc019ed01f4f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119491854"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168491"
 ---
 # <a name="idirectxfilecreatesaveobject-method"></a>Метод Идиректксфиле:: Креатесавеобжект
 
@@ -81,7 +81,7 @@ HRESULT CreateSaveObject(
 
 Значение по умолчанию для формата файла — ДКСФИЛЕФОРМАТ \_ binary. Значения формата файла можно комбинировать в логическом или для создания сжатого текста или сжатых двоичных файлов. Если файл указан как двоичный (0) и Text (1), то он будет сохранен как текстовый файл, поскольку значение будет неразличимым из значения формата текстового файла (0 + 1 = 1). Если указать, что формат файла должен быть текстовым и сжатым, файл сначала будет записан как текст, а затем сжат. Однако сжатые текстовые файлы не настолько эффективны, как двоичные текстовые файлы, поэтому в большинстве случаев потребуется указать двоичные и сжатые данные. При настройке файла для сжатия без указания формата будет получен двоичный сжатый файл.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -92,7 +92,7 @@ HRESULT CreateSaveObject(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

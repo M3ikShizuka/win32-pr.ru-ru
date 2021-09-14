@@ -22,12 +22,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b373b3d28ce3c46cab92fa2a089e49e8158010681da3960e1cc4f0b58c4c2a8e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0543636f36d823b5557ad2f5a5f7cb000d93259a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118984294"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168444"
 ---
 # <a name="eap_cert-error-constants"></a>\_Константы ошибки сертификата EAP
 

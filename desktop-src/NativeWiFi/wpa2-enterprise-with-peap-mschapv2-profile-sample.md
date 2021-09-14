@@ -5,17 +5,17 @@ title: Пример WPA2-Enterprise с PEAP-MSCHAPv2 профилем
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: bd05ac34992244eedae08f9c76becd5b2c95564e
-ms.sourcegitcommit: 91530c19d26ba4c57a6af1f37b57f211f580464e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112394809"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169407"
 ---
 # <a name="wpa2-enterprise-with-peap-mschapv2-profile-sample"></a>Пример WPA2-Enterprise с PEAP-MSCHAPv2 профилем
 
 Этот пример профиля использует защищенный протокол расширенной проверки подлинности с использованием протокола проверки подлинности Microsoft Challenge версии 2 (PEAP-MSCHAPv2) с **/** _паролем_ * username * для проверки подлинности в сети. Пользователю предлагается ввести учетные данные.
 
-Этот пример настроен для использования защиты Wi-Fi защищенного доступа 2, работающей в режиме предприятия (WPA2-Enterprise). Тип безопасности WPA2-Enterprise использует 802.1 X для обмена аутентификацией с серверной частью. Для шифрования используется тип шифра AES (AES).
+этот пример настроен для использования защиты Wi-Fi защищенного доступа 2, работающей в режиме Enterprise (WPA2-Enterprise). Тип безопасности WPA2-Enterprise использует 802.1 X для обмена аутентификацией с серверной частью. Для шифрования используется тип шифра AES (AES).
 
 **Windows XP с SP3 и API беспроводной локальной сети для Windows XP с пакетом обновления 2 (SP2):** Дочерний элемент [**Name**](wlan-profileschema-name-wlanprofile-element.md) элемента [**вланпрофиле**](wlan-profileschema-wlanprofile-element.md) игнорируется. Имя профиля, хранящееся в хранилище профилей, является производным от дочернего элемента [**имени**](wlan-profileschema-name-ssid-element.md) [**SSID**](wlan-profileschema-ssid-ssidconfig-element.md) .
 

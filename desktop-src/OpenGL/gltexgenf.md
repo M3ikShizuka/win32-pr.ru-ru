@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1198da9d87e79f8e3abb923ac2f5ce48ad5afc8cb06d4d97bcf40a3153367e72
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 98829979037aecf49dfca91491dbc89bc7fa7951
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119490384"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169259"
 ---
 # <a name="gltexgenf-function"></a>Функция Глтексженф
 
@@ -128,7 +128,7 @@ void WINAPI glTexGenf(
 [**глисенаблед**](glisenabled.md) с аргументом GL \_ текстура \_ Gen \_ Q  
 </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -142,7 +142,7 @@ void WINAPI glTexGenf(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

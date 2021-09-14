@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b9c7f345c33b7f6049da19d64a8cb5b2247ae5045ba7e979f9880d34d32b19fe
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3ba2d5bc6f966d9b10c0dadccb221086e64de827
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119490244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169240"
 ---
 # <a name="glteximage2d-function"></a>Функция glTexImage2D
 
@@ -177,7 +177,7 @@ void WINAPI glTexImage2D(
 
 [**глисенаблед**](glisenabled.md) с аргументом GL \_ текстуры \_ 2D
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -191,7 +191,7 @@ void WINAPI glTexImage2D(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

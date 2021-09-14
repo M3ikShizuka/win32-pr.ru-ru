@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 38b869d3ffc83d9a4b8f3d51df0b7b14658ec3f1c561797a62dee3a574bf2803
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3d6b5ff193eec393b67029d355a0f0c1bc67c0ad
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120125524"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168743"
 ---
 # <a name="imsrdpworkspace2-interface"></a>Интерфейс IMsRdpWorkspace2
 
@@ -54,13 +54,13 @@ ms.locfileid: "120125524"
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8<br/>                                                                          |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                                |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                                |
 | DLL<br/>                      | <dl> <dt>MsRdpWebAccess.dll</dt> </dl> |
 | IID<br/>                      | IID \_ IMsRdpWorkspace2 определен как 145D0622-04CF-4FC3-A776-A82A9169CDF8<br/>           |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

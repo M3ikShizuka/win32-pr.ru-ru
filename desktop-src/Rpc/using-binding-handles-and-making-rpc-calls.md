@@ -4,12 +4,12 @@ description: Распространенной ошибкой между прог
 ms.assetid: 5b452129-4060-49f9-9400-8585fb5714a4
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1f1350e29344d09f42417a30fa3d32729d7ddd02247b17f80bccd0ae537c6c8c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4b285fc3030b92e2616c850bf79c73e37f0341c9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119010812"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169047"
 ---
 # <a name="using-binding-handles-and-making-rpc-calls"></a>Использование дескрипторов привязки и выполнение вызовов RPC
 

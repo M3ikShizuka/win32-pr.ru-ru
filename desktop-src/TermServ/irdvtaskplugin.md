@@ -15,12 +15,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: fe76f0b0b92286d5a4b7db5126706fd55bdb6f580c11fda1dcaa55a47be4678c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 59e90e899e8084f7fbc6b0b6f11067061eaa807b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118129173"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168659"
 ---
 # <a name="irdvtaskplugin-interface"></a>Интерфейс Ирдвтаскплугин
 
@@ -49,13 +49,13 @@ ms.locfileid: "118129173"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Интерфейс **ирдвтаскплугин** имеет следующие свойства.
 
 
 
-| Свойство                                                   | Тип доступа          | Описание                                             |
+| Свойство.                                                   | Тип доступа          | Описание                                             |
 |:-----------------------------------------------------------|:---------------------|:--------------------------------------------------------|
 | [**PluginName**](irdvtaskplugin-pluginname.md)<br/> | Только для чтения<br/> | Содержит отображаемое имя агента задач.<br/> |
 

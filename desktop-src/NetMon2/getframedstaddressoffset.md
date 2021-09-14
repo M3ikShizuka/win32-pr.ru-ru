@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Nmapi.dll
 ms.openlocfilehash: 8358afdbb303baf623cef6fc32e00d758570d30c
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105673187"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169307"
 ---
 # <a name="getframedstaddressoffset-function"></a>Функция Жетфрамедстаддрессоффсет
 
@@ -70,7 +70,7 @@ DWORD WINAPI GetFrameDstAddressOffset(
 
 Если функция завершилась неудачно, возвращаемое значение равно минус единице (-1).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если параметру *addressType* присвоено \_ \_ значение Ethernet, возвращаемое функция **жетфрамедстаддрессоффсет** всегда равно нулю. Смещение адреса Ethernet всегда равно нулю.
 

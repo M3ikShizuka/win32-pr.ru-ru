@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 16ec34087b7bb6e943029cb6051a91b30d1ba5e40f01f6cb620735ceb0d14e46
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 57dd61a399176f70b66b46b6180d0e10756780f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119058902"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168775"
 ---
 # <a name="imsrdpextendedsettings-interface"></a>Интерфейс Имсрдпекстендедсеттингс
 
@@ -39,7 +39,7 @@ ms.locfileid: "119058902"
 
 
 
-| Свойство                                                       | Тип доступа           | Описание                           |
+| Свойство.                                                       | Тип доступа           | Описание                           |
 |:---------------------------------------------------------------|:----------------------|:--------------------------------------|
 | [**Свойство**](imsrdpextendedsettings-property.md)<br/> | Чтение/запись<br/> | Содержит именованное свойство.<br/> |
 
@@ -54,7 +54,7 @@ ms.locfileid: "119058902"
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8<br/>                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                                                                                                                                                                                                                                                                                                                                                       |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                                                                                                                                                                                                                                                                                                                                                       |
 | Библиотека типов<br/>             | <dl> <dt>MsTscAx.dll</dt> </dl>                                                                                                                                                                                                                                                                                                                               |
 | DLL<br/>                      | <dl> <dt>MsTscAx.dll</dt> </dl>                                                                                                                                                                                                                                                                                                                               |
 | CLSID<br/>                    | \_MSRDPCLIENT10NOTSAFEFORSCRIPTING CLSID определен как A0C63C30-F08D-4AB4-907C-34905D770C7D<br/> \_MSRDPCLIENT7NOTSAFEFORSCRIPTING CLSID определен как 54d38bf7-b1ef-4479-9674-1bd6ea465258<br/> \_MSRDPCLIENT8NOTSAFEFORSCRIPTING CLSID определен как A3BC03A0-041D-42E3-AD22-882B7865C9C5<br/> \_MSRDPCLIENT9NOTSAFEFORSCRIPTING CLSID определен как 8B918B82-7985-4C24-89DF-C33AD2BBFBCD<br/> |

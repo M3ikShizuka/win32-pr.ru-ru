@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a6686d3911123eee91dabec1f8750be7f80a6d8dc9c434d893560278ad291ded
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 327ac9009cf1b8fb9ccfbcc460cde78ef40b3802
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118116212"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168579"
 ---
 # <a name="iwmpcdromripstartrip-method"></a>Метод Ивмпкдромрип:: Стартрип
 
@@ -57,7 +57,7 @@ Implements IWMPCdromRip.startRip
 
 копирование компакт-диска с помощью интерфейса **ивмпкдромрип** действует так же, как копирование музыки с помощью пользовательского интерфейса проигрыватель Windows Media. Скопированное содержимое автоматически добавляется в библиотеку в соответствии с предпочтениями пользователя. дополнительные сведения о параметрах пользователя для копирования компакт-дисков см. в разделе "копирование музыки с cd" в проигрыватель Windows Media справке.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -69,7 +69,7 @@ Implements IWMPCdromRip.startRip
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

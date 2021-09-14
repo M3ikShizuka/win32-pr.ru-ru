@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Ndisnpp.dll
 - Rmtnpp.dll
-ms.openlocfilehash: 1ad7ce342c1e0053622bfb77161ecd1e5d81c25d09af179108065b445dd4dc35
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d42af1912365a4237889e4e46d0fb3343377c772
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118365079"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169280"
 ---
 # <a name="irtcpause-method"></a>ИРТК: метод:P Аусе
 
@@ -65,7 +65,7 @@ HRESULT STDMETHODCALLTYPE Pause();
 
 Чтобы перезапустить захват [ИРТК:: Resume](irtc-resume.md). Чтобы прерывать запись, вызовите [ИРТК:: останавливаться](irtc-stop.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,7 +78,7 @@ HRESULT STDMETHODCALLTYPE Pause();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

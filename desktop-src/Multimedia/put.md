@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 5d22fb7c74c1ed469e609e7dcfdd3d36ba355cc5
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369838"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169507"
 ---
 # <a name="put-command"></a>Команда размещения
 
@@ -134,7 +134,7 @@ put vboard video 120 120 200 200 frame 0 0 200 200 source 0 0 200 200
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

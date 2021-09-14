@@ -4,12 +4,12 @@ ms.assetid: fceeae22-3761-48ab-a190-1a7b1568ed64
 title: Пример WPA-Enterprise с профилем TLS
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a9ebb9fa779c1a1d9a4e77c20d462f31fcafc9ec562e47ae106386b58c112a1b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5d6f236429c94e9602e173c2d6c3eb1e3bc8111f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118619050"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169412"
 ---
 # <a name="wpa-enterprise-with-tls-profile-sample"></a>Пример WPA-Enterprise с профилем TLS
 

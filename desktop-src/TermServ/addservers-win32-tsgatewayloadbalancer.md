@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 00bb232572c49b77f11de469f8e09fc536e73354f907d4070bc2281d42fc87fe
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a510fd6ecee12b5251ec84773327d6217463240f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117942272"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168819"
 ---
 # <a name="addservers-method-of-the-win32_tsgatewayloadbalancer-class"></a>Метод Аддсерверс \_ класса Win32 тсгатевайлоадбаланцер
 

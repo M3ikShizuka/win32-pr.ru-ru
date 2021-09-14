@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Netmon.h
 ms.openlocfilehash: 445b24245d2e9d15c1c2b6d69de20c464cbf1724
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105674085"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169271"
 ---
 # <a name="labeled_word-structure"></a>Структура слова с МЕТКАми \_
 
@@ -36,7 +36,7 @@ typedef struct _LABELED_WORD {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -54,7 +54,7 @@ typedef struct _LABELED_WORD {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Элемент **лплабеледвордтабле** структуры [Set](set.md) указывает на массив наборов структур, определяющих одну или несколько пар значений меток. Эти пары используются, если требуется отобразить метку вместо определенного значения слова, которое найдено в пакете протокола.
 

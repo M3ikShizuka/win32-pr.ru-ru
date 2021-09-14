@@ -12,12 +12,12 @@ api_name:
 api_type:
 - Schema
 api_location: ''
-ms.openlocfilehash: 9cb48479b2fe26ecb2667812cc6ee2048226c0665c25b12e25e8c7edbc35dac2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 31dae7a8805275254a1d398108128380b1aa2e54
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119800784"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169443"
 ---
 # <a name="maxauthfailures-onex-element"></a>Элемент Максаусфаилурес (OneX)
 
@@ -46,7 +46,7 @@ ms.locfileid: "119800784"
 
 Элемент **максаусфаилурес** определяется элементом [**OneX**](onexschema-onex-element.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -57,7 +57,7 @@ ms.locfileid: "119800784"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: ceaa5ca4-799e-4801-96cd-aeea3dfd7d52
 title: Сообщение WM_POWER (WinUser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5fd525b4bf229fdb04dac4c1d1492a52dad44317344f58a2f0807ba9afbdc962
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dc53fd165ee1cefe8970f85daea04b931a673b33
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119143187"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169120"
 ---
 # <a name="wm_power-message"></a>\_Сообщение о питании WM
 
@@ -96,7 +96,7 @@ LRESULT CALLBACK WindowProc
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                                              |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>WinUser. h (включает Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>WinUser. h (включает Windows. h)</dt> </dl> |
 
 
 

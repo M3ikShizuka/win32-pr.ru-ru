@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: b07874cf492bc84207c6ea084df4c8a7506e1a6b3fdf6f94947092ad13cd160d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d3b5d672ca9b462e08c75a6f3352b01b07ead43c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118802736"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168519"
 ---
 # <a name="id3dxfileenumobjectgetfile-method"></a>Метод ID3DXFileEnumObject:: onfile
 

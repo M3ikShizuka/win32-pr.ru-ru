@@ -59,12 +59,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d954fc039ec8edf4a43b391df29e79fe3a064cbbc856f0b14a011acc517e3d75
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c588784d9b06bd2e8e1605a96c8aa9fd157c10eb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120125494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168735"
 ---
 # <a name="imstscadvancedsettingscompress-property"></a>Свойство Имстскадванцедсеттингс:: сжимать
 
@@ -113,7 +113,7 @@ HRESULT get_Compress(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: Запись службы имен должна содержать 
 ms.assetid: b581bc10-e537-4714-b89a-d998fec23360
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ecfe7484d1c6d557899e3b661a3a616c97d3890becfad51df0e91f5a69467faa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2cf0ed6a21074a49a472d7505dcfea37cf182026
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120019609"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169083"
 ---
 # <a name="name-service-entry-cleanup"></a>Очистка записи службы имен
 

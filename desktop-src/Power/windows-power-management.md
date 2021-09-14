@@ -4,12 +4,12 @@ ms.assetid: 388dadb9-b722-43f8-ab2b-a9bbd96600a3
 title: Windows Управление питанием
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7335b521b22b762468d2b542ea3c4fdbfcacb798860d4997f4a512d8135bcf46
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8abb3a040f8da8e2deb242a2aa607a9448d31c09
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120032724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169124"
 ---
 # <a name="windows-power-management"></a>Windows Управление питанием
 

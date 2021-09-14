@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e1c045238e9d21dbd4300a6d32c972b9706979ed2033d556cac13117446d83d3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fc65cc199980fcc043ca7c4f0f4d0d782a9fbb2f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119492504"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169260"
 ---
 # <a name="glrasterpos2f-function"></a>Функция glRasterPos2f
 
@@ -95,7 +95,7 @@ OpenGL поддерживает трехмерное расположение в
 [**глжет**](glgetbooleanv--glgetdoublev--glgetfloatv--glgetintegerv.md) с аргументом GL \_ Текущая \_ растровая \_ текстура \_  
 </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -109,7 +109,7 @@ OpenGL поддерживает трехмерное расположение в
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

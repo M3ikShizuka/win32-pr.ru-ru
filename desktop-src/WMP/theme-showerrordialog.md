@@ -3,7 +3,7 @@ title: THEME. Шоверрордиалог
 description: Метод Шоверрордиалог отображает стандартное диалоговое окно ошибки.
 ms.assetid: cec9ecfd-6665-4b0a-a09c-49120d557a80
 keywords:
-- Проигрыватель Windows Media THEME. Шоверрордиалог
+- проигрыватель Windows Media THEME. шоверрордиалог
 topic_type:
 - apiref
 api_name:
@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 0cdc1f9df13ec460ce780507e1bde38a2996f915
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105688872"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168603"
 ---
 # <a name="themeshowerrordialog"></a>THEME. Шоверрордиалог
 
@@ -36,11 +36,11 @@ ms.locfileid: "105688872"
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-Если **Settings. енаблиррордиалогс** имеет значение false, этот метод можно использовать для программного вывода диалогового окна об ошибке. Если в очереди ошибок нет ошибок, диалоговое окно ошибки не отображается.
+если **Параметры. енаблиррордиалогс** имеет значение false, этот метод можно использовать для программного вывода диалогового окна об ошибке. Если в очереди ошибок нет ошибок, диалоговое окно ошибки не отображается.
 
-Для Windows Media Player 9 Series или более поздней версии этот метод должен вызываться из обработчика событий Error. Проигрыватель Windows Media 9 Series или более поздней версии очищает очередь ошибок для обложек после запуска события ошибки.
+для серии проигрыватель Windows Media 9 или более поздней версии этот метод должен вызываться из обработчика событий error. проигрыватель Windows Media 9 Series или более поздней версии очищает очередь ошибок для обложек после запуска события ошибки.
 
 ## <a name="requirements"></a>Требования
 
@@ -48,7 +48,7 @@ ms.locfileid: "105688872"
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 7,0 или более поздней<br/> |
+| Версия<br/> | проигрыватель Windows Media версии 7,0 или более поздней<br/> |
 
 
 
@@ -59,7 +59,7 @@ ms.locfileid: "105688872"
 [**Элемент THEME**](theme-element.md)
 </dt> <dt>
 
-[**Settings. Енаблиррордиалогс**](settings-enableerrordialogs.md)
+[**Параметры. енаблиррордиалогс**](settings-enableerrordialogs.md)
 </dt> </dl>
 
  

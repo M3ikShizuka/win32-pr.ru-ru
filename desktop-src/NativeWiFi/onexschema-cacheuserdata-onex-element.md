@@ -12,12 +12,12 @@ api_name:
 api_type:
 - Schema
 api_location: ''
-ms.openlocfilehash: d7f4663153fa9aff176180387ebaf0321ab3d48ec2c382e9e84c0f524d6e0ee1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8650bb2e5899e96f921d57460c8ba49ffab0ea66
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119800874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169455"
 ---
 # <a name="cacheuserdata-onex-element"></a>Элемент Качеусердата (OneX)
 
@@ -35,7 +35,7 @@ ms.locfileid: "119800874"
 
 Элемент **качеусердата** определяется элементом [**OneX**](onexschema-onex-element.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -46,7 +46,7 @@ ms.locfileid: "119800874"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

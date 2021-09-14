@@ -4,12 +4,12 @@ ms.assetid: e344c360-4ab5-4a5f-a1b2-b0fa890b8666
 title: Пример WPA-Enterprise с PEAP-MSCHAPv2 профилем
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c6bd504f803795613b545c64025df3094346ea2478dd729b91ec8cec69f45c3b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 364cc7a9cc85e4c5e2ef908c0ac2a4726d6c5a96
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117797434"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169420"
 ---
 # <a name="wpa-enterprise-with-peap-mschapv2-profile-sample"></a>Пример WPA-Enterprise с PEAP-MSCHAPv2 профилем
 

@@ -4,12 +4,12 @@ ms.assetid: dbbadac6-1b7e-4161-a775-a934cf201c9d
 title: Пример профиля WPA2-Personal
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ee43f683748ae6332562f56d6939fb2f36dcdef945e1be918a65b01fd5c2c003
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 75e0df238b83a27155e640d56fc81ed5606a76e3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117983921"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169400"
 ---
 # <a name="wpa2-personal-profile-sample"></a>Пример профиля WPA2-Personal
 

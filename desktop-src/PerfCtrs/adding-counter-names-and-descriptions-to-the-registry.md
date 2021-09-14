@@ -4,12 +4,12 @@ ms.assetid: 6fdaccb0-45bc-48f2-8f63-3df0bdf1dca4
 title: Добавление в реестр имен и описаний счетчиков
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e58333e9694b9aa74ff1d5ade6a399aaa813e7735ea315be529587e813fec0fc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4e9d2c97ebe80a8ef2a8396ca42583cbad874859
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117794059"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169156"
 ---
 # <a name="adding-counter-names-and-descriptions-to-the-registry"></a>Добавление в реестр имен и описаний счетчиков
 

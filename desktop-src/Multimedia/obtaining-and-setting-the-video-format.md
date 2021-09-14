@@ -8,11 +8,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 6890c3a1d653d43d24c5baa0790cc0d26040685b
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124371382"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169652"
 ---
 # <a name="obtaining-and-setting-the-video-format"></a>Получение и установка формата видео
 
@@ -35,7 +35,7 @@ capGetVideoFormat(hWndC, lpbi, dwSize);
 
 Приложения могут использовать макрос [**капсетвидеоформат**](/windows/desktop/api/Vfw/nf-vfw-capsetvideoformat) (или сообщение [**WM \_ Cap \_ Set \_ видеоформат**](wm-cap-set-videoformat.md) ) для отправки структуры заголовка [**битмапинфо**](/windows/win32/api/wingdi/ns-wingdi-bitmapinfo) в окно Capture. Так как форматы видео зависят от устройства, приложение должно проверить возвращаемое значение, чтобы определить, был ли формат принят.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

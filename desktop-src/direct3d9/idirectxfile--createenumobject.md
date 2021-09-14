@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dxof.lib
 - D3dxof.dll
-ms.openlocfilehash: 1af10a0f46877a159ab8c6543fba9c1406d083e6b3f4a57cf1c41b9fb2d92612
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3d15738b78299441fe08333a41f0652f1b4224d2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119985154"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168492"
 ---
 # <a name="idirectxfilecreateenumobject-method"></a>Метод Идиректксфиле:: Креатинумобжект
 
@@ -79,7 +79,7 @@ HRESULT CreateEnumObject(
 
 После использования этого метода используйте один из методов Идиректксфилинумобжект для получения объекта данных.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -90,7 +90,7 @@ HRESULT CreateEnumObject(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

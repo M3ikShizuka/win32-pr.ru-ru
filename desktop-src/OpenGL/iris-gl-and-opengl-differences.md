@@ -10,12 +10,12 @@ keywords:
 - Перенос по стандарту OpenGL из IRI GL, различия в ГК IRI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: dc419e2bfadb09efe848cd066ce33bccc107a7f7a99a8e88ca0e2cda97611fd6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 369b4945757dd092e969fb87c41f9804aaff8fe7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120035014"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169215"
 ---
 # <a name="iris-gl-and-opengl-differences"></a>Различия в ГК и OpenGL для IRI
 

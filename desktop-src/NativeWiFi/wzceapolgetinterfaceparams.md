@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Wzcsapi.dll
-ms.openlocfilehash: fa401e1b045b56b41f7406851c927c316b19d5486adc903af667383465bfd19f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bc89fd2defb75662fa90b5ed00c7969d483da590
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117983931"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169395"
 ---
 # <a name="wzceapolgetinterfaceparams-function"></a>Функция Взцеаполжетинтерфацепарамс
 
@@ -104,14 +104,14 @@ DWORD WZCEapolGetInterfaceParams(
 | Минимальная версия клиента<br/> | Windows XP с пакетом обновления 2 (SP2) \[ только классические приложения\]<br/>                                   |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                   |
 | Окончание поддержки клиента<br/>    | Windows XP с пакетом обновления SP3<br/>                                                         |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                         |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                         |
 | Заголовок<br/>                   | <dl> <dt>Взксапи. h</dt> </dl>   |
 | Библиотека<br/>                  | <dl> <dt>Взксапи. lib</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wzcsapi.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

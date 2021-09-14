@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Ndisnpp.dll
 - Rmtnpp.dll
-ms.openlocfilehash: da7ff72414a1702a1849f76f658f0fbf85116b9b831e800148d5a6165da7ac17
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ba62f3341b18ddfdbf09af4eec701322d901ab79
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118132903"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169284"
 ---
 # <a name="irtcconnect-method"></a>метод иртк:: Подключение
 
@@ -126,7 +126,7 @@ BLOB-объект ошибки, возвращенный в *херрорбло�
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -139,7 +139,7 @@ BLOB-объект ошибки, возвращенный в *херрорбло�
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

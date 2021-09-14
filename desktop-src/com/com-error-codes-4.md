@@ -551,12 +551,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4ba1a890b25392d4903c2aa9055b529e22ed9df9ac656a97014dbb0bff205246
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4e260c4dfcd6d19a789ae7ddecfadc2528037cf9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120071057"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168548"
 ---
 # <a name="com-error-codes-security-and-setup"></a>Коды ошибок COM (безопасность и настройка)
 
@@ -599,7 +599,7 @@ ms.locfileid: "120071057"
 | <span id="NTE_NO_KEY"></span><span id="nte_no_key"></span><dl> Не <dt>**превышать \_ НЕТ \_ ключа**</dt> <dt>0x8009000D</dt> </dl>                                                                                                    | Ключ не существует.<br/>                                                                                                                                                                                                                                                       |
 | <span id="NTE_NO_MEMORY"></span><span id="nte_no_memory"></span><dl> Не <dt>**превышать \_ НЕТ \_**</dt> <dt>0x8009000E</dt> памяти </dl>                                                                                           | Недостаточно доступной памяти для операции.<br/>                                                                                                                                                                                                                          |
 | <span id="NTE_EXISTS"></span><span id="nte_exists"></span><dl> Не <dt>**превышать \_ EXISTs**</dt> <dt>ошибки 0x8009000f</dt> </dl>                                                                                                     | Объект уже существует.<br/>                                                                                                                                                                                                                                                    |
-| <span id="NTE_PERM"></span><span id="nte_perm"></span><dl> Не <dt>**превышать \_ РАЗРЕШЕНИЕ**</dt> <dt>0x80090010</dt> </dl>                                                                                                           | Доступ запрещен.<br/>                                                                                                                                                                                                                                                            |
+| <span id="NTE_PERM"></span><span id="nte_perm"></span><dl> Не <dt>**превышать \_ РАЗРЕШЕНИЕ**</dt> <dt>0x80090010</dt> </dl>                                                                                                           | Access denied. (Недопустимое значение {значение_утверждения} для утверждения {имя_утверждения}. Доступ запрещен.)<br/>                                                                                                                                                                                                                                                            |
 | <span id="NTE_NOT_FOUND"></span><span id="nte_not_found"></span><dl> Не <dt>**превышать \_ НЕ \_ Найдено**</dt> <dt>0x80090011</dt> </dl>                                                                                           | Объект не найден.<br/>                                                                                                                                                                                                                                                     |
 | <span id="NTE_DOUBLE_ENCRYPT"></span><span id="nte_double_encrypt"></span><dl> Не <dt>**превышать \_ ДВОЙНОЕ \_ Шифрование**</dt> <dt>0x80090012</dt> </dl>                                                                            | Данные уже зашифрованы.<br/>                                                                                                                                                                                                                                                   |
 | <span id="NTE_BAD_PROVIDER"></span><span id="nte_bad_provider"></span><dl> Не <dt>**превышать \_ Недопустимый 0x80090013 \_ поставщика**</dt> <dt></dt> </dl>                                                                                  | Указан недопустимый поставщик.<br/>                                                                                                                                                                                                                                               |
@@ -648,7 +648,7 @@ ms.locfileid: "120071057"
 | <span id="SEC_E_CANNOT_PACK"></span><span id="sec_e_cannot_pack"></span><dl> <dt>**С \_ E \_ не удается \_ упаковать**</dt> <dt>0x80090309</dt> </dl>                                                                              | Пакету безопасности не удается упаковать буфер входа в систему, поэтому попытка входа завершилась сбоем<br/>                                                                                                                                                                             |
 | <span id="SEC_E_QOP_NOT_SUPPORTED"></span><span id="sec_e_qop_not_supported"></span><dl> <dt>**С \_ E \_ КОП \_ не \_ поддерживается**</dt> <dt>0x8009030A</dt> </dl>                                                           | Качество защиты для каждого сообщения не поддерживается пакетом безопасности<br/>                                                                                                                                                                                            |
 | <span id="SEC_E_NO_IMPERSONATION"></span><span id="sec_e_no_impersonation"></span><dl> <dt>**С \_ E \_ без \_ олицетворения**</dt> <dt>0x8009030B</dt> </dl>                                                               | Контекст безопасности не разрешает олицетворение клиента<br/>                                                                                                                                                                                                           |
-| <span id="SEC_E_LOGON_DENIED"></span><span id="sec_e_logon_denied"></span><dl> <dt>**С \_ E \_ — \_ отказано**</dt> в <dt>0x8009030C</dt> </dl>                                                                           | Сбой попытки входа<br/>                                                                                                                                                                                                                                                  |
+| <span id="SEC_E_LOGON_DENIED"></span><span id="sec_e_logon_denied"></span><dl> <dt>**С \_ E \_ — \_ отказано**</dt> в <dt>0x8009030C</dt> </dl>                                                                           | Неудачная попытка входа<br/>                                                                                                                                                                                                                                                  |
 | <span id="SEC_E_UNKNOWN_CREDENTIALS"></span><span id="sec_e_unknown_credentials"></span><dl> <dt>**С \_ \_Неизвестные \_ учетные данные**</dt> <dt>0x8009030D</dt> </dl>                                                      | Предоставленные пакету учетные данные не распознаны<br/>                                                                                                                                                                                                               |
 | <span id="SEC_E_NO_CREDENTIALS"></span><span id="sec_e_no_credentials"></span><dl> <dt>**С \_ E \_ без \_ учетных данных**</dt> <dt>0x8009030E</dt> </dl>                                                                     | В пакете безопасности нет доступных учетных данных<br/>                                                                                                                                                                                                                      |
 | <span id="SEC_E_MESSAGE_ALTERED"></span><span id="sec_e_message_altered"></span><dl> <dt>**С \_ \_Сообщение об \_ изменении**</dt> <dt>0x8009030F</dt> </dl>                                                                  | Сообщение или подпись, предоставленные для проверки, изменены<br/>                                                                                                                                                                                                       |
@@ -1111,7 +1111,7 @@ ms.locfileid: "120071057"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -1121,7 +1121,7 @@ ms.locfileid: "120071057"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

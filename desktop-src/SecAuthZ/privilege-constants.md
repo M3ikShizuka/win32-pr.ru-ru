@@ -6,11 +6,11 @@ ms.topic: reference
 ms.custom: snippet-project
 ms.date: 07/27/2020
 ms.openlocfilehash: 5da0a0e6f9ad3b0559fdf2d8e375e6d25e7d2fdf
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122475750"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168948"
 ---
 # <a name="privilege-constants-authorization"></a>Константы прав доступа (авторизация)
 
@@ -83,7 +83,7 @@ BOOL EnablePrivilege()
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Константы прав определены как строки в Winnt. h. например, \_ \_ константа имени аудита SE определяется как "SeAuditPrivilege".
 
@@ -99,7 +99,7 @@ BOOL EnablePrivilege()
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

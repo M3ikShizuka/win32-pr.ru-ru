@@ -367,12 +367,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a439e09731e99af42c2e0c25585be6f4514a92cf171cc74ec6e4dcafbae597da
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4979afccf4dfc40e6d6a6298188969903d654d88
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118310800"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168543"
 ---
 # <a name="com-error-codes-comadmin-filter-graphics"></a>Коды ошибок COM (КОМАДМИН, FILTER, GRAPHICS)
 
@@ -743,7 +743,7 @@ ms.locfileid: "118310800"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -753,7 +753,7 @@ ms.locfileid: "118310800"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

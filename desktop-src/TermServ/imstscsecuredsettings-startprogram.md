@@ -25,11 +25,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 7e79612855117f48e629e9a06246f3fad922d37f
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105682116"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168700"
 ---
 # <a name="imstscsecuredsettingsstartprogram-property"></a>Свойство Имстсксекуредсеттингс:: Стартпрограм
 
@@ -60,11 +60,11 @@ HRESULT get_StartProgram(
 
 При успешном выполнении возвращает значение **\_ ОК** .
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если значение этого свойства не задано, будет запущена команда оболочки пользователя сеанса. Команда Shell будет считаться из следующего значения реестра на сервере:
 
-**HKey \_ Программа локального \_ компьютера** \\ **программное обеспечение** \\ **Microsoft** \\ **Windows NT** \\ **CurrentVersion** \\ **Winlogon** \\ **Shell**
+**HKey \_ \_** \\ **программное обеспечение** локального компьютера \\ **Microsoft** \\ **Windows NT** \\ **CurrentVersion** \\ **WinLogon** \\ **Shell**
 
 Дополнительные сведения см. в руководстве [по обеспечению безопасности клиента RDP](providing-for-rdp-client-security.md) .
 

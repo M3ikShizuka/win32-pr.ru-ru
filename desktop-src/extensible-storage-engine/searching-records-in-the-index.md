@@ -8,16 +8,16 @@ ms:contentKeyID: 32765631
 ms.date: 04/11/2016
 ms.topic: article
 ms.openlocfilehash: 89a4ffe1f1c13280f236442ae218580fa5699741
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105683579"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168360"
 ---
 # <a name="searching-records-in-the-index"></a>Поиск записей в индексе
 
 
-_**Применимо к:** Windows | Windows Server_
+_**Применимо к:** Windows | Windows Сервером_
 
 ## <a name="searching-records-in-the-index"></a>Поиск записей в индексе
 

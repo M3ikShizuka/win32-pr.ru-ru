@@ -60,11 +60,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: a543d24b200d8fa484939d5ffeabfeeac0b5f73f
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104492924"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168740"
 ---
 # <a name="imstscadvancedsettingsbitmapperistence-property"></a>Свойство Имстскадванцедсеттингс:: Битмапперистенце
 
@@ -100,7 +100,7 @@ HRESULT get_BitmapPeristence(
 
 При успешном выполнении возвращает значение **\_ ОК** .
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Дополнительные сведения о веб-подключение к удаленному рабочему столу см. в разделе [требования для веб-подключение к удаленному рабочему столу](requirements-for-remote-desktop-web-connection.md).
 

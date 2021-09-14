@@ -54,12 +54,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3276551c826c09b60c94a637194358093dafe7ce67094af085093f65d91e1668
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ed9c53dd0c6dff9e47b87ea8c8697c20b3613a14
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119871004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168780"
 ---
 # <a name="imsrdpclientadvancedsettingshotkeyfullscreen-property"></a>Свойство Имсрдпклиентадванцедсеттингс:: Хоткэйфуллскрин
 

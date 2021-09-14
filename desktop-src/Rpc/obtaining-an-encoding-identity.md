@@ -6,12 +6,12 @@ keywords:
 - Удаленный вызов процедур RPC, задачи, получение удостоверения кодировки
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c7a0883a1a032a76f13cfeeb6c5d6a8923146b7ee9e8184d37d5994fb5e328bd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8591e030913d659fb48034e4c386295773227f7f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120019451"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169063"
 ---
 # <a name="obtaining-an-encoding-identity"></a>Получение удостоверения кодировки
 

@@ -12,12 +12,12 @@ api_name:
 api_type:
 - Schema
 api_location: ''
-ms.openlocfilehash: 5a2009ac8518d114353e3323b97c4ea57c54fc801447c375641b8f6bbd1b2bea
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f8664543a9ea5b0f3b290168129e589e9ccd68ab
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119684855"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127169444"
 ---
 # <a name="heldperiod-onex-element"></a>Элемент Хелдпериод (OneX)
 
@@ -46,7 +46,7 @@ ms.locfileid: "119684855"
 
 Элемент **хелдпериод** определяется элементом [**OneX**](onexschema-onex-element.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -57,7 +57,7 @@ ms.locfileid: "119684855"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

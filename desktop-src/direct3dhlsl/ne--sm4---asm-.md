@@ -4,12 +4,12 @@ description: Сравнение на уровне компонентов с пл
 ms.assetid: 5BED97D3-8FF6-4F1C-819B-DC8B4A4F2CCA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 116f6197c33ef3c040d6c02b7aa561e03cdcc694a2878b6f16554c053a8862db
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e0e53ff726047bd1870e6c836f4508bdf87001b3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119457344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127168475"
 ---
 # <a name="ne-sm4---asm"></a>NE (SM4-ASM)
 
