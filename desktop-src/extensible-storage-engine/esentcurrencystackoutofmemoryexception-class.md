@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 317067e55cef0a6079d319fc4a199f6d973421fe9f35fd4b5559e8d09967f728
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: eecbddd71ce33077f3ee320bd884288d293beb39
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119041662"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126883581"
 ---
 # <a name="esentcurrencystackoutofmemoryexception-class"></a>Класс Есенткурренцистаккаутофмеморексцептион
 
@@ -68,7 +68,7 @@ public sealed class EsentCurrencyStackOutOfMemoryException : EsentObsoleteExcept
 
 Любые общедоступные статичные (общие в Visual Basic) члены этого типа являются потокобезопасными. Потокобезопасная работа с членами экземпляров типа не гарантируется.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 
