@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Ntddstor.h
-ms.openlocfilehash: 3a138f6594e241c96526ebf6955c61374aa0f48a5aa66f364ef82c1591b64594
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e57a9f4420b977598e15f9aae219c060665c9d0d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118404975"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164292"
 ---
 # <a name="storage_read_capacity-structure"></a>\_Структура емкости для чтения хранилища \_
 
@@ -39,7 +39,7 @@ typedef struct _STORAGE_READ_CAPACITY {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -78,7 +78,7 @@ typedef struct _STORAGE_READ_CAPACITY {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 файл заголовка нтддстор. h доступен в наборе драйверов Windows (WDK).
 
@@ -90,7 +90,7 @@ typedef struct _STORAGE_READ_CAPACITY {
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                              |
 | Минимальная версия сервера<br/> | Windows сервер 2008, Windows server 2003 с пакетом обновления 1<br/>                          |
-| Header<br/>                   | <dl> <dt>Нтддстор. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Нтддстор. h</dt> </dl> |
 
 
 

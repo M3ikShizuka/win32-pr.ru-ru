@@ -14,12 +14,12 @@ api_type:
 - Assembly
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 30cca5d7ebe91859162bd729cc32cc03f36f9e3c59ba4474d41311befcce1d21
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: af595443d78a311510df6a7e06b2e716da22ecae
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119765254"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889808"
 ---
 # <a name="buffering-event-of-the-axwindowsmediaplayer-object"></a>Буферизация события объекта Аксвиндовсмедиаплайер
 
@@ -53,7 +53,7 @@ Private Sub player_Buffering(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это событие используется для определения времени, в течение которого буферизация или загрузка начинается или останавливается. Один и тот же блок событий можно использовать в обоих случаях и в Test *ивмпнетворк*. **буфферингпрогресс** и *ивмпнетворк*. **довнлоадпрогресс** , чтобы определить, выполняется проигрыватель Windows Media ли в данный момент буферизация или загрузка содержимого.
 

@@ -4,12 +4,12 @@ ms.assetid: cee44596-ad73-4afb-b86a-744b0b46d9d5
 title: Операции чтения и записи
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b3a1c9cca5079cc6f473b07c02212da6f42156305b43f4b30eb1de3e6b67e593
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a26cc53dbe8c52286fe53c81202ab3828808b1aa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120109014"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164303"
 ---
 # <a name="read-and-write-operations"></a>Операции чтения и записи
 

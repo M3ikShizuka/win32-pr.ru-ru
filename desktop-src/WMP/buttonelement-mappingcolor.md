@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 29badef71eda70782203effb7098c7ee5bc7a62b67d28ccbc9428c74e9473012
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7318f01246578fe8ff34118427c95afb7b3bb098
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119764344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889312"
 ---
 # <a name="buttonelementmappingcolor"></a>БУТТОНЕЛЕМЕНТ. Маппингколор
 
@@ -31,7 +31,7 @@ ms.locfileid: "119764344"
 
 Этот атрибут является **строкой** для чтения и записи, содержащей любое значение цвета Microsoft Internet Explorer. У него нет значения по умолчанию.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут определяет цвет области в группе кнопок **маппингимаже** , которая соответствует этому элементу Button. Все щелчки в этом регионе обрабатываются этим элементом кнопки.
 
@@ -80,7 +80,7 @@ ms.locfileid: "119764344"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -90,7 +90,7 @@ ms.locfileid: "119764344"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

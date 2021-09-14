@@ -4,12 +4,12 @@ description: В этом разделе описываются возможно�
 ms.assetid: 08ad078f-9bc6-4f23-8faa-ccf168e79c2c
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1da543db86eee097910159f38c00c477ca8de9c03cb338d08460e50cf668a927
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4d180867fd996b0e3ebe2482448e73617f55a16d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119752244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963822"
 ---
 # <a name="whats-new-in-direct3d-11"></a>Новые возможности Direct3D 11
 

@@ -5,11 +5,11 @@ title: Параметры тумана (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: a03104df36aba0868c15ccc0b8ddc78d1352bef7
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "103894525"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964930"
 ---
 # <a name="fog-parameters-direct3d-9"></a>Параметры тумана (Direct3D 9)
 
@@ -33,7 +33,7 @@ ms.locfileid: "103894525"
 
 Цвет, используемый системой для смешения тумана, управляется через \_ состояние рендеринга устройства D3DRS фогколор. Дополнительные сведения см. в разделе [Цвет тумана (Direct3D 9)](fog-color.md) и [смешение тумана (Direct3D 9)](fog-blending.md).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

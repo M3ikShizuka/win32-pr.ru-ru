@@ -6,12 +6,12 @@ keywords:
 - эффекты яркости
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f88b67615948cbea74333605e900de194c0eeeb3d747d83af5eae8a750e6f135
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 88dd9797aa125e7099ba4a706bac730a30715f6c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119215396"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164224"
 ---
 # <a name="brightness-effect"></a>Эффекты яркости
 
@@ -22,7 +22,7 @@ ms.locfileid: "119215396"
 -   [Пример изображения](#example-image)
 -   [Свойства эффектов](#effect-properties)
 -   [Битовая карта вывода](#output-bitmap)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example-image"></a>Пример изображения

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: e8e72814c036e297111a4a2f3825574a2a088310cb17d484902c59875958e7e9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ece03e14da490bd6d6f5aef69f9457939bc8bab7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118093958"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964754"
 ---
 # <a name="id3dxtexturegutterhelper-interface"></a>Интерфейс ID3DXTextureGutterHelper
 
@@ -60,7 +60,7 @@ ms.locfileid: "118093958"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > При использовании с предварительно вычисленным радианценым переносом (PRT) Этот интерфейс требует уникальной параметризации модели. Каждый шаг текселя должен соответствовать одной точке на поверхности модели и наоборот. Если модель включает несколько текстур, ее необходимо разделить на отдельные части, каждая из которых содержит один вспомогательный объект для каждой текстуры.
@@ -109,7 +109,7 @@ typedef interface ID3DXTextureGutterHelper *LPD3DXTEXTUREGUTTERHELPER;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

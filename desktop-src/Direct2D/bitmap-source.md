@@ -6,12 +6,12 @@ keywords:
 - исходный растровый результат
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 19889372c7ebd4268f1b6fd8b77c360f290cc416631e9fb5e1cd3a0b0320844c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a439c94f0f520b318b3cb3511775dbec58b6e139
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119833325"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164247"
 ---
 # <a name="bitmap-source-effect"></a>Исходный растровый результат
 
@@ -29,7 +29,7 @@ ms.locfileid: "119833325"
 -   [Orientation](#orientation)
 -   [Режимы альфа](#alpha-modes)
 -   [Замечания](#remarks)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="effect-properties"></a>Свойства эффектов
@@ -136,7 +136,7 @@ D2D1_BITMAPSOURCE_ORIENTATION GetBitmapSourceOrientation(unsigned short PhotoOri
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы оптимизировать производительность при совместном использовании WIC и [Direct2D](./direct2d-portal.md) , следует использовать [**ивикформатконвертер**](/windows/desktop/api/wincodec/nn-wincodec-iwicformatconverter) для преобразования в соответствующий формат пикселей на основе сценария приложения и собственной точности образа.
 
@@ -164,7 +164,7 @@ D2D1_BITMAPSOURCE_ORIENTATION GetBitmapSourceOrientation(unsigned short PhotoOri
 |--------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента | Windows 8 и обновление платформы для Windows 7 \[ классических приложений \| Windows приложения магазина\] |
 | Минимальная версия сервера | Windows 8 и обновление платформы для Windows 7 \[ классических приложений \| Windows приложения магазина\] |
-| Header                   | d2d1effects. h                                                                      |
+| Заголовок                   | d2d1effects. h                                                                      |
 | Библиотека                  | D2D1. lib, дксгуид. lib                                                               |
 
 

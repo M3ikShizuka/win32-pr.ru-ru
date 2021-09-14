@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 1ee89533b6084999d6972da253276f1ee225dd1e517727761c893e9424f01f65
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fe6a637482526feecc7528eadc70dc695dafca9b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119439483"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965510"
 ---
 # <a name="cim_associatedalarm-class"></a>\_Класс CIM ассоЦиатедаларм
 
@@ -45,7 +45,7 @@ class CIM_AssociatedAlarm : CIM_Dependency
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ ассоЦиатедаларм** имеет следующие типы членов:
 
@@ -89,7 +89,7 @@ class CIM_AssociatedAlarm : CIM_Dependency
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **CIM \_ ассоЦиатедаларм** является производным от [**\_ зависимости CIM**](cim-dependency.md).
 
@@ -97,7 +97,7 @@ class CIM_AssociatedAlarm : CIM_Dependency
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

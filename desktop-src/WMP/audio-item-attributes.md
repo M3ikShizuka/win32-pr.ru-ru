@@ -15,12 +15,12 @@ keywords:
 - атрибуты звукового элемента
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: dda5edbeb3303eedc06833eb23cc42fec41ecabd6121a0c01f162c1664703609
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dd7abdb134d24d79ffab6f671fd3280b21517ec0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120004024"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889901"
 ---
 # <a name="audio-item-attributes"></a>Атрибуты звукового элемента
 

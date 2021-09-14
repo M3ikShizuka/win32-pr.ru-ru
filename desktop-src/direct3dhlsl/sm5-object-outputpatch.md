@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: ea806da8fe9b4219490c26b84e5b77f6f92b324a72850c79080de6ca363ef4e7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4c77a30a2ff23bdc292d45df6514ef00fab53463
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117725243"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963586"
 ---
 # <a name="outputpatch"></a>аутпутпатч
 
@@ -54,7 +54,7 @@ ms.locfileid: "117725243"
 
 | Модель шейдера                                                                | Поддерживается |
 |-----------------------------------------------------------------------------|-----------|
-| [Модели шейдера 5](d3d11-graphics-reference-sm5.md) и более поздних моделей шейдеров | Да       |
+| [Модели шейдера 5](d3d11-graphics-reference-sm5.md) и более поздних моделей шейдеров | да       |
 
 
 
@@ -64,7 +64,7 @@ ms.locfileid: "117725243"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Службы вычислений |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 |        | x    | x      |          |       |         |
 

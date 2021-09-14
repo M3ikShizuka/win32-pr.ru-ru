@@ -26,11 +26,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 011510343f79724c2c529c2b6b18537b43facbef
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103810499"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126962806"
 ---
 # <a name="jet_signatureequality-operator"></a>JET_SIGNATURE. Оператор равенства
 
@@ -81,7 +81,7 @@ public static bool operator ==(
 Тип: [System. Boolean](/dotnet/api/system.boolean)  
 Значение true, если два экземпляра равны.  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

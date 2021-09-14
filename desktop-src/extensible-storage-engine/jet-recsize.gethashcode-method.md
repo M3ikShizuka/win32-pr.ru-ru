@@ -25,11 +25,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 4f0f74d6925c77db83ed2a3b1ee367418986310f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105702628"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126962909"
 ---
 # <a name="jet_recsizegethashcode-method"></a>JET_RECSIZE. Метод GetHashCode
 
@@ -59,7 +59,7 @@ public override int GetHashCode()
 Тип: [System. Int32](/dotnet/api/system.int32)  
 Хэш-код данного экземпляра.  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

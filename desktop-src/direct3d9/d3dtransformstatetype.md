@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3D9Types.h
-ms.openlocfilehash: 299246ef890015a6d7de465ecc7c00251a52432d276a87f3d5f336b63d563737
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 022aa20fab0739b32aa75eb5f4bc575c0a8ad853
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119986994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963757"
 ---
 # <a name="d3dtransformstatetype-enumeration"></a>Перечисление D3DTRANSFORMSTATETYPE
 
@@ -126,7 +126,7 @@ typedef enum D3DTRANSFORMSTATETYPE {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Состояния преобразования в диапазоне от 256 до 511 зарезервированы для хранения до 256 матриц мира, которые можно индексировать с помощью \_ макросов D3DTS ворлдматрикс и D3DTS \_ World.
 
@@ -141,7 +141,7 @@ typedef enum D3DTRANSFORMSTATETYPE {
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -151,7 +151,7 @@ typedef enum D3DTRANSFORMSTATETYPE {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

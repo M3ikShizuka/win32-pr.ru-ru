@@ -15,12 +15,12 @@ api_type:
 - DllExport
 api_location:
 - Wmiprov.dll
-ms.openlocfilehash: a8192dc83a50063b2aaabba2bf708053fadb8e094bfa1cab82b11b084f722a76
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f7d0d543dc36054550d4ddf6cc1a77ce80cf1647
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119640944"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965309"
 ---
 # <a name="msmcaevent_switchtocmcpolling-class"></a>\_Класс мсмкаевент свитчтокмкполлинг
 
@@ -38,7 +38,7 @@ class MSMCAEvent_SwitchToCMCPolling : WMIEvent
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **мсмкаевент \_ свитчтокмкполлинг** имеет следующие типы членов:
 
@@ -79,7 +79,7 @@ class MSMCAEvent_SwitchToCMCPolling : WMIEvent
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **мсмкаевент \_ свитчтокмкполлинг** является производным от [**WMIEvent**](wmievent.md).
 
@@ -92,7 +92,7 @@ class MSMCAEvent_SwitchToCMCPolling : WMIEvent
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP<br/>                                                                  |
-| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                         |
+| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                         |
 | Пространство имен<br/>                | Корневой \\ инструментарий WMI<br/>                                                                   |
 | MOF<br/>                      | <dl> <dt>Вмикоре. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wmiprov.dll</dt> </dl> |

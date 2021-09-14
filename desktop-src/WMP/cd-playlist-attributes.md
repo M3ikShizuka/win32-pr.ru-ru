@@ -15,12 +15,12 @@ keywords:
 - Атрибуты списка воспроизведения компакт-диска
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1fdc35b110b690952ffff9ad1a525f8b0e5a634c094ac07ad066b2d09e947a15
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 689b2b3b722a18a0e73305b959a2b4966a3bce79
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118342657"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889237"
 ---
 # <a name="cd-playlist-attributes"></a>Атрибуты списка воспроизведения компакт-диска
 

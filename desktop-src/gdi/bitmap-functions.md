@@ -1,17 +1,17 @@
 ---
 description: С точечными рисунками используются следующие функции.
 ms.assetid: ef3abc8a-5d95-41d0-8eb6-47719d472414
-title: Функции точечного рисунка (Windows GDI)
+title: функции точечного рисунка (Windows GDI)
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 05e61ef02f5065d746f0d82a7b3352c3445ebf61
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104997434"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126962665"
 ---
-# <a name="bitmap-functions-windows-gdi"></a>Функции точечного рисунка (Windows GDI)
+# <a name="bitmap-functions-windows-gdi"></a>функции точечного рисунка (Windows GDI)
 
 С точечными рисунками используются следующие функции.
 
@@ -53,7 +53,7 @@ ms.locfileid: "104997434"
 
 ## <a name="obsolete-functions"></a>Устаревшие функции
 
-Следующие функции предоставляются только для обеспечения совместимости с 16-разрядными версиями Microsoft Windows:
+Следующие функции предоставляются только для обеспечения совместимости с 16-разрядными версиями Microsoft Windows.
 
 -   [**креатедискардаблебитмап**](/windows/desktop/api/Wingdi/nf-wingdi-creatediscardablebitmap)
 -   [**флудфилл**](/windows/desktop/api/Wingdi/nf-wingdi-floodfill)

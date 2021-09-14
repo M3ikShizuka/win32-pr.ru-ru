@@ -15,11 +15,11 @@ dev_langs:
 - VB
 - other
 ms.openlocfilehash: e09ba5d11371172892d9ef3490cc479423b207cc
-ms.sourcegitcommit: 4d4a6e9ad5de37e467cd3164276771b71e1f113f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106389096"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964314"
 ---
 # <a name="jet_handletostring-method-overload-list"></a>JET_HANDLE. Метод ToString, список перегрузок
 
@@ -32,7 +32,7 @@ ms.locfileid: "106389096"
 <thead>
 <tr class="header">
 <th> </th>
-<th>name</th>
+<th>Имя</th>
 <th>Описание</th>
 </tr>
 </thead>
@@ -53,7 +53,7 @@ ms.locfileid: "106389096"
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

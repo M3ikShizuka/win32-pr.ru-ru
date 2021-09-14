@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3d9types.h
-ms.openlocfilehash: 03a93753790378a7066f4a3ffa6bc6b7fb8139b77f9096886161013653312bba
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f80996a37e2fb48bf8ca7ea73f714b04e711b263
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119850064"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963753"
 ---
 # <a name="d3dts_worldmatrix-macro"></a>\_Макрос D3DTS ворлдматрикс
 
@@ -50,7 +50,7 @@ D3DTRANSFORMSTATETYPE D3DTS_WORLDMATRIX(
 
 Объект [**D3DTRANSFORMSTATETYPE**](./d3dtransformstatetype.md) , сопоставляемый с данным *индексом*.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Состояния преобразования в диапазоне от 256 до 511 зарезервированы для хранения до 256 матриц, которые можно индексировать с помощью 8-разрядных индексов.
 

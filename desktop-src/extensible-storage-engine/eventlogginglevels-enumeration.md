@@ -36,12 +36,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: d910e1417ea7c05e86f7e9d6c2a69c8c0e47c212a7956f1d309e895576d4ee96
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7ec0881a7d217cfdcbc3680eaa3054dbb4fb62a3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118768037"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963029"
 ---
 # <a name="eventlogginglevels-enumeration"></a>Перечисление Евентлоггинглевелс
 
@@ -63,7 +63,7 @@ Dim instance As EventLoggingLevels
 public enum EventLoggingLevels
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <table>
 <thead>
@@ -101,14 +101,14 @@ public enum EventLoggingLevels
 </tr>
 <tr class="even">
 <td></td>
-<td>Макс.</td>
+<td>Max</td>
 <td>Все события.</td>
 </tr>
 </tbody>
 </table>
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

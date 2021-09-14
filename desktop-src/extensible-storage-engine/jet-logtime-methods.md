@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.jet_
 ms:contentKeyID: 39510437
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 8d33d879f8671d8b57a5970175b171c7e2782789eafc02f21b614473e246efbd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6713cdb24e2b8851818c44904d50aefe59f927ce
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119730864"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126962961"
 ---
 # <a name="jet_logtime-methods"></a>Методы JET_LOGTIME
 
@@ -78,7 +78,7 @@ ms.locfileid: "119730864"
 
 Начало
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

@@ -25,12 +25,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: b84ec8a1f9a00b29e21706dd7fabe978740cb756675952b061d406dad8e233c5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 45f9fd2feabdcd1f9e650e7e7a913a394e8ef67d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119020762"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965485"
 ---
 # <a name="cim_videobiosfeature-class"></a>\_Класс CIM видеобиосфеатуре
 
@@ -63,7 +63,7 @@ class CIM_VideoBIOSFeature : CIM_SoftwareFeature
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ видеобиосфеатуре** имеет следующие типы членов:
 
@@ -247,7 +247,7 @@ class CIM_VideoBIOSFeature : CIM_SoftwareFeature
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -405,7 +405,7 @@ class CIM_VideoBIOSFeature : CIM_SoftwareFeature
 
 </dd> <dt>
 
-**Version**
+**Версия**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -423,7 +423,7 @@ class CIM_VideoBIOSFeature : CIM_SoftwareFeature
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **CIM \_ видеобиосфеатуре** является производным от [**CIM \_ софтварефеатуре**](cim-softwarefeature.md).
 

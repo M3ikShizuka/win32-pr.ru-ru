@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: d73b9878a43ef876174561f16678f78787b15b88f423ecfb3f1765bd82c84630
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cc51c912794135b456542bb9a8a779601681f393
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118302480"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965057"
 ---
 # <a name="id3dx10skininforemapvertices-method"></a>Метод ID3DX10SkinInfo:: Ремапвертицес
 

@@ -17,12 +17,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: fa0ab9d3107f0374228b8c8edcda4ecffc4744cf4ef52b8a019e6ca4c8138f69
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 52b44444a5810577289353778c2c00b1ebfb80fc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118992174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965262"
 ---
 # <a name="swbemdatetimemonthspecified-property"></a>SWbemDateTime. МонсспеЦифиед, свойство
 
@@ -55,7 +55,7 @@ SWbemDateTime.MonthSpecified As Boolean
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Wbemdisp. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_SWBEMDATETIME CLSID<br/>                                                         |

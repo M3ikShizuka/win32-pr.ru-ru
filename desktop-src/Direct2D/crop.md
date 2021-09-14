@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: e342bdef882fbff89d4c67c3accfbff7287a2ad9
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122472939"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164171"
 ---
 # <a name="crop-effect"></a>Результат кадрирования
 
@@ -22,7 +22,7 @@ ms.locfileid: "122472939"
 -   [Пример изображения](#example-image)
 -   [Свойства эффектов](#effect-properties)
 -   [Битовая карта вывода](#output-bitmap)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example-image"></a>Пример изображения

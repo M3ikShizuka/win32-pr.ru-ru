@@ -4,12 +4,12 @@ description: В этом разделе содержатся справочны�
 ms.assetid: 74195139-6899-4324-af77-d830c2642031
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6816bbf2dd912a6cf25401056ecfe93bed53302abdc91f2f1fb7b085101b997b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 88efc393fdf192d55c8c5eeef513b56f2711996b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118541259"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963982"
 ---
 # <a name="newdevh"></a>Невдев. h
 

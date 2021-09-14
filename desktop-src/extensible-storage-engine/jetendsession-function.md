@@ -19,11 +19,11 @@ api_location:
 - ESENT.DLL
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: f6e620a801f0ee7f2dc6f9c6f2dfe90e9f766e5e
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122983467"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964254"
 ---
 # <a name="jetendsession-function"></a>Функция Жетендсессион
 
@@ -83,13 +83,13 @@ _**Применимо к:** Windows | Windows Сервером_
 #### <a name="requirements"></a>Требования
 
 
-| Требование | Применение |
+| Требование | Значение |
 |------------|----------|
 | <p><strong>Клиент</strong></p> | <p>требуется Windows Vista, Windows XP или Windows 2000 Professional.</p> | 
 | <p><strong>Server</strong></p> | <p>требуется Windows server 2008, Windows server 2003 или сервер Windows 2000.</p> | 
 | <p><strong>Header</strong></p> | <p>Объявлено в ESENT. h.</p> | 
 | <p><strong>Библиотека</strong></p> | <p>Используйте ESENT. lib.</p> | 
-| <p><strong>КОМПОНОВКИ</strong></p> | <p>Требуется ESENT.dll.</p> | 
+| <p><strong>DLL</strong></p> | <p>Требуется ESENT.dll.</p> | 
 
 
 

@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.jet_
 ms:contentKeyID: 55103880
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 5221309739ad632e5654ed8c631252c651eaa9735785dc358cb5abba9dee2b91
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 730b10b31ae27bfffa390a5514f898e768239442
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118979474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126962874"
 ---
 # <a name="jet_retrievecolumn-methods"></a>Методы JET_RETRIEVECOLUMN
 
@@ -68,7 +68,7 @@ ms.locfileid: "118979474"
 
 Начало
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

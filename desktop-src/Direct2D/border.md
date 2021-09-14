@@ -6,12 +6,12 @@ keywords:
 - граница границы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5ce125a96730ee59f63b18cfd1a08abd2432af6f3fdc6b5f06cfc2e9272a7a3c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 49fb43ae8b3e9c4eb449a8231f8b4ffcacf7658b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119929000"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164227"
 ---
 # <a name="border-effect"></a>Пограничный эффект
 
@@ -112,7 +112,7 @@ m_d2dContext->EndDraw();
 
 Размер выходного растрового изображения бесконечно для всех входных данных, за исключением входного изображения с размером 0. Если высота или ширина входного изображения равна 0, то размер выходных данных равен 0.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

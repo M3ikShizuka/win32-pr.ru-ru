@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 9f263b39bc83022a67990600e3d18b3386c3da92d27e10def01fde27fdd338a7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ebe108fb022a2c91eae8e5c632cb15b3637b47a8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118253528"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126962825"
 ---
 # <a name="jet_setcolumncbdata-property"></a>Свойство JET_SETCOLUMN. cbData
 
@@ -64,7 +64,7 @@ public int cbData { get; set; }
 
 Тип: [System. Int32](/dotnet/api/system.int32)  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

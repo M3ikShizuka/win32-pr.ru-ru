@@ -13,16 +13,16 @@ api_type:
 - HeaderDef
 api_location:
 - Pwm.h
-ms.openlocfilehash: 448b38e66b7cfb4bf7e24c5d3b7658d0e38ccb8a5ca8c95e1155129737087c68
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 11350c3bb0fbec0f05ab3153c339f8fa30baeed5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119076188"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164315"
 ---
 # <a name="pwm_pin_is_started_output-structure"></a>Закрепление ШИРОТного \_ закрепления \_ \_ начинает \_ выходную структуру
 
-\[Некоторые сведения относятся к предварительно выпущенному продукту, который может быть значительно изменен перед коммерческой выпуском. Корпорация Майкрософт не предоставляет никаких гарантий, явных или подразумеваемых, относительно предоставленной здесь информации.\]
+\[Некоторые сведения относятся к предварительно выпущенному продукту, который может быть значительно изменен перед коммерческой выпуском. Майкрософт не предоставляет никаких гарантий, явных или подразумеваемых, относительно приведенных здесь сведений.\]
 
 Содержит текущее состояние создания сигнала для ПИН-кода.
 
@@ -37,7 +37,7 @@ typedef struct _PWM_PIN_IS_STARTED_OUTPUT {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -48,7 +48,7 @@ typedef struct _PWM_PIN_IS_STARTED_OUTPUT {
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -62,7 +62,7 @@ typedef struct _PWM_PIN_IS_STARTED_OUTPUT {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: Таблица с трехмерным поиском — это э
 ms.assetid: 2f0b4b6d-f371-101c-918a-bf564778e593
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d5b6d7cee4d21af5f7bc56ee4982f64523e892e616263b3cf5ed7ea84294fbb3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4d0c6c5df1aa873d3458345d77a46f6f3fdae40b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118161033"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164272"
 ---
 # <a name="3d-lookup-table-effect"></a>эффект трехмерной таблицы подстановки
 
@@ -28,14 +28,14 @@ ms.locfileid: "118161033"
 -   [Пример изображения](#example-image)
 -   [Образец кода](#sample-code)
 -   [Свойства эффектов](#effect-properties)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example-image"></a>Пример изображения
 
 ![Пример выходных данных эффектов](images/3dlookuptable-effect.png)
 
-## <a name="sample-code"></a>Пример кода
+## <a name="sample-code"></a>Образец кода
 
 ```cpp
 //

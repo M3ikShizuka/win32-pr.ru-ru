@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - StorProp.dll
-ms.openlocfilehash: a52ac620e5ec9aa3d9060d35921fcfd9c5bcc6e73cebf71ef336ceb54fc0806e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ef49be579052e5a9fd493f5bf246a2efbd217c34
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118956913"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164375"
 ---
 # <a name="dvdlauncher-function"></a>Функция Двдлаунчер
 
@@ -58,23 +58,23 @@ BOOL WINAPI DvdLauncher(
 
 Если функция выполнена удачно и области совпадают, возвращаемое значение не равно нулю. В противном случае возвращаемое значение равно нулю.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция не имеет связанной библиотеки импорта. Для динамической привязки к StorProp.dll необходимо использовать функции [**LoadLibrary**](/windows/desktop/api/libloaderapi/nf-libloaderapi-loadlibrarya) и [**GetProcAddress**](/windows/desktop/api/libloaderapi/nf-libloaderapi-getprocaddress) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP<br/>                                                                   |
-| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                          |
+| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                          |
 | DLL<br/>                      | <dl> <dt>StorProp.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

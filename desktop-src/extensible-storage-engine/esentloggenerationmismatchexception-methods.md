@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55102127
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 46405b383b924dc0e0aa7680465ed122a64df1ff2a09b369381c78f4eb1fbe72
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e199b4c0826f502579dca028ea5ab96a651a5f8b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119971597"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963165"
 ---
 # <a name="esentloggenerationmismatchexception-methods"></a>Методы EsentLogGenerationMismatchException 
 
@@ -78,7 +78,7 @@ ms.locfileid: "119971597"
 
 Начало
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

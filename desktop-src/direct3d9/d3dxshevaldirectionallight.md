@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 4a726348c8c6049f0d3867af06aadfecbaaadc8fbf87e5bb30ae2abb8e996acf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 488682eca230c8da6cc5048aded4a7a1e7f71bfd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119495104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963738"
 ---
 # <a name="d3dxshevaldirectionallight-function-d3dx9mathh"></a>Функция D3DXSHEvalDirectionalLight (D3dx9math. h)
 
@@ -125,7 +125,7 @@ HRESULT D3DXSHEvalDirectionalLight(
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может быть следующим: D3DERR \_ инвалидкалл.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Выходной вектор вычисляются так, что если коэффициент интенсивности R/G/B равен 1, то результирующий радианце точки непосредственно под освещением рассеянного объекта с албедо, равным 1, будет 1,0. Будет выполнено вычисление трех примеров Спектрал. *Праут* будет возвращен, тогда как *пгаут* и *пбаут* могут быть возвращены.
 
@@ -137,7 +137,7 @@ HRESULT D3DXSHEvalDirectionalLight(
 
 ![формулы связи между декартовы и сферыми координатами](images/spherical-coordinates-equations.png)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -148,7 +148,7 @@ HRESULT D3DXSHEvalDirectionalLight(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

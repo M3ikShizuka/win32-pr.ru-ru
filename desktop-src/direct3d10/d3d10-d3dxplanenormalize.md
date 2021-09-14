@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: cf4429e324a5ce1554c5c37c929625153c74764cb9d03618f633f35ecd416748
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8b3499297a008b0d8f5dc705080bbd1d5bbe3af4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119754154"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965086"
 ---
 # <a name="d3dxplanenormalize-function-d3dx10mathh"></a>Функция D3DXPlaneNormalize (D3DX10Math. h)
 
@@ -65,7 +65,7 @@ D3DXPLANE* D3DXPlaneNormalize(
 
 Указатель на структуру D3DXPLANE, представляющую нормальную плоскость плоскости.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция нормализует плоскость таким образом, чтобы \| a, b, c \| = = 1.
 

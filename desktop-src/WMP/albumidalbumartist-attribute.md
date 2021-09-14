@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4905f0448c7e08abe308a57b1ad08020d47563847db1aa32744c0de3279cdcdb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1925f40a50b15efcd339ad949d5d54ddb915cbe9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119055392"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890120"
 ---
 # <a name="albumidalbumartist-attribute"></a>Атрибут Албумидалбумартист
 
@@ -27,7 +27,7 @@ ms.locfileid: "119055392"
 
 -   [Звуковые элементы](audio-item-attributes.md)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут хранится только в библиотеке.
 
@@ -35,7 +35,7 @@ ms.locfileid: "119055392"
 
 Чтобы определить, можно ли изменить значение этого атрибута, используйте метод [Media. исреадонлитем](media-isreadonlyitem.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -45,7 +45,7 @@ ms.locfileid: "119055392"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

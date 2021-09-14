@@ -5,11 +5,11 @@ ms.assetid: ee4dae04-1a52-4587-87c1-006abb687a91
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 82b6ec64e315275ca6faaf513d04f996609615a2
-ms.sourcegitcommit: 73417d55867c804274a55abe5ca71bcba7006119
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/20/2020
-ms.locfileid: "104070831"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963825"
 ---
 # <a name="direct3d-11-features"></a>Функции Direct3D 11
 
@@ -21,7 +21,7 @@ ms.locfileid: "104070831"
 -   [Тесселяции](#tessellation)
 -   [Полный список функций](#full-listing-of-features)
 -   [Функции, добавленные в предыдущих выпусках](#features-added-in-previous-releases)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="compute-shader"></a>Вычисление шейдера
 
@@ -162,16 +162,16 @@ Direct3D 11 обеспечивает следующие функциональн
 
 Список функций, добавленных в предыдущих выпусках, см. в следующих разделах:
 
--   [Новые возможности пакета SDK для Windows 7 августа 2009 и Direct3D 11](dx11-whats-new.md)
+-   [новые возможности пакета SDK для 2009 Windows 7 и Direct3D 11](dx11-whats-new.md)
 -   [Новые возможности Direct3D 11 (ознакомительная техническая версия) за Ноябрь 2008](dx11-08nov-whats-new.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Новые возможности Direct3D 11](dx-graphics-overviews-introduction.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

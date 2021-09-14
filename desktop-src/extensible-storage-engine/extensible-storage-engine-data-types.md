@@ -1,6 +1,6 @@
 ---
-description: Дополнительные сведения о типах данных расширяемых подсистемы хранилища
-title: Расширяемые типы данных подсистемы хранилища
+description: 'дополнительные сведения: расширяемые типы данных служба хранилища Engine'
+title: расширяемые типы данных служба хранилища Engine
 TOCTitle: Extensible Storage Engine Data Types
 ms:assetid: 37c23c0c-5c02-44a9-8a96-a712af221256
 ms:mtpsurl: https://msdn.microsoft.com/library/Gg269226(v=EXCHG.10)
@@ -16,20 +16,20 @@ api_type:
 api_location: ''
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 06938a75f2de2cde1ed55c0c0139a271a0d7e93c
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104264928"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963026"
 ---
-# <a name="extensible-storage-engine-data-types"></a>Расширяемые типы данных подсистемы хранилища
+# <a name="extensible-storage-engine-data-types"></a>расширяемые типы данных служба хранилища Engine
 
 
-_**Применимо к:** Windows | Windows Server_
+_**Применимо к:** Windows | Windows Сервером_
 
-## <a name="extensible-storage-engine-data-types"></a>Расширяемые типы данных подсистемы хранилища
+## <a name="extensible-storage-engine-data-types"></a>расширяемые типы данных служба хранилища Engine
 
-Расширяемая подсистема хранилища имеет следующие типы данных:
+расширяемое ядро служба хранилища имеет следующие типы данных:
 
   - [JET_API_PTR](./jet-api-ptr.md)
 

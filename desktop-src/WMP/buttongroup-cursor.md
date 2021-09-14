@@ -3,7 +3,7 @@ title: BUTTONGROUP. Cursor
 description: Атрибут Cursor указывает или получает тип курсора, который появляется при наведении указателя мыши на кнопку в BUTTONGROUP.
 ms.assetid: c1b7e3e1-862b-48c1-bd2d-d9abd9ada14c
 keywords:
-- Проигрыватель Windows Media BUTTONGROUP. Cursor
+- проигрыватель Windows Media BUTTONGROUP. cursor
 topic_type:
 - apiref
 api_name:
@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: f7b3de12950aed383f48dcde5d8978724037f86e
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105695134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889269"
 ---
 # <a name="buttongroupcursor"></a>BUTTONGROUP. Cursor
 
@@ -64,7 +64,7 @@ ms.locfileid: "105695134"
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 7,0 или более поздней<br/> |
+| Версия<br/> | проигрыватель Windows Media версии 7,0 или более поздней<br/> |
 
 
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: e1c640262c1629e2bfed9c84c3bf0e9914482847188a62f19d1e63cd6099fdf8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 91216b49dba7fabb25c128f3801d11bfa2fd95c2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118093570"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964713"
 ---
 # <a name="id3dxtextureshadersetmatrixtranspose-method"></a>Метод ID3DXTextureShader:: Сетматрикстранспосе
 
@@ -65,7 +65,7 @@ HRESULT SetMatrixTranspose(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть D3DERR \_ инвалидкалл.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Переданная матрица содержит основные данные столбца. то есть каждый вектор содержится в столбце.
 
@@ -80,7 +80,7 @@ HRESULT SetMatrixTranspose(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

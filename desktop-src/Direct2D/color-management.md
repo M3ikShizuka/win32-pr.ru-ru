@@ -6,12 +6,12 @@ keywords:
 - эффекты управления цветом
 ms.topic: article
 ms.date: 02/05/2019
-ms.openlocfilehash: 274591312ab110a24fb315d01f72d23a22a938ad41f380620d94a865602e82a8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5f3783132e0e2af511a99fd8c44d5f899e577a3a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117826702"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164199"
 ---
 # <a name="color-management-effect"></a>Эффекты управления цветом
 
@@ -26,7 +26,7 @@ ms.locfileid: "117826702"
 - [Поведение альфа-канала](#alpha-channel-behavior)
 - [Режимы качества](#quality-modes)
 - [Образец кода](#sample-code)
-- [Требования](#requirements)
+- [Requirements](#requirements)
 - [Связанные темы](#related-topics)
 
 ## <a name="effect-properties"></a>Свойства эффектов
@@ -181,11 +181,11 @@ API [**ID2D1DeviceContext5:: креатеколорконтекстфромси�
 
 Если приложение запрашивает режим качества, не поддерживаемый оборудованием, эффекты управления цветом вызовут ошибку. Уровень функций можно определить при вызове [**D3D11CreateDevice**](/windows/desktop/api/d3d11/nf-d3d11-d3d11createdevice). Чтобы проверить поддержку буфера с плавающей точкой, вызовите [**ID2D1EffectContext:: исбуфферпреЦисионсуппортед**](/windows/win32/api/d2d1_1/nf-d2d1_1-id2d1devicecontext-isbufferprecisionsupported) со значением [**D2D1 \_ buffer \_ Precision \_ 32BPC \_ float**](/windows/desktop/api/D2d1_1/ne-d2d1_1-d2d1_buffer_precision).
 
-## <a name="sample-code"></a>Пример кода
+## <a name="sample-code"></a>Образец кода
 
 Чтобы получить пример этого эффекта, скачайте [Пример коррекции фотографии Direct2D Effects](https://github.com/microsoft/Windows-universal-samples/tree/master/Samples/D2DPhotoAdjustment)и ознакомьтесь с занятием 4 примера.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |-|-|

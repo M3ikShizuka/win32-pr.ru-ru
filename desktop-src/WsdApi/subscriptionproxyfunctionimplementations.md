@@ -4,12 +4,12 @@ ms.assetid: aa26a3f1-df1e-4caa-9ada-6f4a6627b6b8
 title: Субскриптионпроксифунктионимплементатионс, элемент
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bf0abc98e0e9bebd4ff2185d669402c0dae025c07bc4af84be3116dda97b6657
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d9a3cba202c05d3f8b43b31c292dad8d601dc4e4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118991574"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965241"
 ---
 # <a name="subscriptionproxyfunctionimplementations-element"></a>Субскриптионпроксифунктионимплементатионс, элемент
 
@@ -64,7 +64,7 @@ ms.locfileid: "118991574"
 
 | Элемент                         | Описание                                                    |
 |---------------------------------|----------------------------------------------------------------|
-| [**File**](file.md)<br/> | Выводит файл из генератора кода.<br/> <br/> |
+| [**файл**](file.md)<br/> | Выводит файл из генератора кода.<br/> <br/> |
 
 
 

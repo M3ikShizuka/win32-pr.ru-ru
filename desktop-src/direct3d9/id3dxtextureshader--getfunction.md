@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 03b89a871a708f4ef15d8cad66bb4f42dd6bbb11c2271cebd86774cc553ed8da
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 80e504e65e4c8437247b2935794025e1b693433a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119747404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964730"
 ---
 # <a name="id3dxtextureshadergetfunction-method"></a>Метод ID3DXTextureShader:: Function
 

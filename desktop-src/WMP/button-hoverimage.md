@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8488fb599a958a96ef7b5aaa5afbf4c219110f0da5be7016a8190efe2004475d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 80b17a461ffde4b9f6777f3ce360c6b3f1747235
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120003724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889437"
 ---
 # <a name="buttonhoverimage"></a>КНОПКА. Ховеримаже
 
@@ -31,7 +31,7 @@ ms.locfileid: "120003724"
 
 Этот атрибут является **строкой** для чтения и записи, содержащей имя файла изображения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Поддерживаются форматы изображений BMP, JPG, PNG и GIF.
 

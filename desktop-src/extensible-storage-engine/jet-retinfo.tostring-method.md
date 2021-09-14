@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: b27f1a509181b0f6fdea4955144d127ee864f835dba13d446bc005f83bb634d1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 18ff196c9ff3aa210cfc91cd294b534abf8e8585
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119473594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126962882"
 ---
 # <a name="jet_retinfotostring-method"></a>JET_RETINFO. Метод ToString
 
@@ -59,7 +59,7 @@ public override string ToString()
 Тип: [System. String](/dotnet/api/system.string)  
 [Строка](/dotnet/api/system.string) , представляющая текущий [JET_RETINFO](./jet-retinfo-class.md).  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

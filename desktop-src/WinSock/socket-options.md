@@ -1,5 +1,5 @@
 ---
-description: Страница навигации для параметров сокета Windows Sockets (Winsock).
+description: страница навигации для параметров сокета сокетов Windows (Winsock).
 ms.assetid: e2831f76-4499-45b6-bc60-2908ec3a246c
 title: Параметры сокета
 ms.topic: reference
@@ -21,15 +21,15 @@ api_type:
 - NA
 api_location: ''
 ms.openlocfilehash: 805f779965afc808e32952b58815c7b6bc528fbc
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105711017"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965322"
 ---
 # <a name="socket-options"></a>Параметры сокета
 
-В этом разделе описываются параметры сокетов Winsock для различных выпусков операционных систем Windows. Используйте функции [**жетсоккопт**](/windows/desktop/api/winsock/nf-winsock-getsockopt) и [**сетсоккопт**](/windows/desktop/api/winsock/nf-winsock-setsockopt) для получения дополнительных сведений о параметрах сокета. Чтобы перечислить протоколы и обнаружить Поддерживаемые свойства для каждого установленного протокола, используйте функцию [**всаенумпротоколс**](/windows/desktop/api/Winsock2/nf-winsock2-wsaenumprotocolsa) .
+в этом разделе описываются параметры сокетов Winsock для различных выпусков операционных систем Windows. Используйте функции [**жетсоккопт**](/windows/desktop/api/winsock/nf-winsock-getsockopt) и [**сетсоккопт**](/windows/desktop/api/winsock/nf-winsock-setsockopt) для получения дополнительных сведений о параметрах сокета. Чтобы перечислить протоколы и обнаружить Поддерживаемые свойства для каждого установленного протокола, используйте функцию [**всаенумпротоколс**](/windows/desktop/api/Winsock2/nf-winsock2-wsaenumprotocolsa) .
 
 Для некоторых параметров сокета требуется больше объяснений, чем может передать таблица. такие параметры содержат ссылки на дополнительные страницы.
 

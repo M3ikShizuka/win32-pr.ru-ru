@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 02d21efb3ef0ed5d4602833571b2b1a32e73df73b76f82a357cda574e93e84ce
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 44b5089b6e539a8104586e27b58388a324462b37
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119747393"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964737"
 ---
 # <a name="id3dxtextureshadergetconstantelement-method"></a>Метод ID3DXTextureShader:: Жетконстантелемент
 
@@ -65,7 +65,7 @@ D3DXHANDLE GetConstantElement(
 
 Возвращает уникальный идентификатор для константы.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы получить константу, которая не является частью массива, используйте [**ID3DXTextureShader::-Constant**](id3dxtextureshader--getconstant.md) или [**ID3DXTextureShader:: жетконстантбинаме**](id3dxtextureshader--getconstantbyname.md).
 

@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 12/16/2020
-ms.openlocfilehash: 88d4f7952497ca0afd970a979441f98864b2855ed3f36f3e556dc4241ed52769
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e8c954b710c3f35bca9685d461e478104dac9039
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120033654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965350"
 ---
 # <a name="imsrdpcameraredirconfigcollectionaddconfig-method"></a>Метод Имсрдпкамераредирконфигколлектион:: Аддконфиг
 
@@ -50,7 +50,7 @@ HRESULT AddConfig(
 
 В случае успеха возвратите значение **\_ ОК** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------|
@@ -59,7 +59,7 @@ HRESULT AddConfig(
 | DLL                  | MsTscAx.dll     |
 | IID                      | IID \_ имсрдпкамераредирконфигколлектион определен как AE45252B-aaab-4504-B681-649D6073A37A          |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

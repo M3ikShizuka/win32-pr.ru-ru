@@ -4,12 +4,12 @@ description: Direct2D и GDI являются API-интерфейсами дв�
 ms.assetid: 0028a0c3-445d-46b7-b55b-46dff3bce9ae
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: daa5fcb0f186915570d220a2807f816eae7a20fb393fbcd3113f6abf686fcd44
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5f05dce8719f4d07d3160c65b88570391c3eb736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117826556"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164191"
 ---
 # <a name="comparing-direct2d-and-gdi-hardware-acceleration"></a>Сравнение аппаратного ускорения Direct2D и GDI
 

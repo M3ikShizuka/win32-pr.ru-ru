@@ -4,12 +4,12 @@ ms.assetid: b64a3983-ee75-4199-9778-1e5b7cec59e4
 title: Сообщение WM_DEVICECHANGE (Winuser.h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b32936d36e01a34acc9ace512703db7584768e8b51a9fe06a791b2a285ee2add
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 91cc45d7a7978d5501e51cc1355c43afcf12b956
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119017802"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164279"
 ---
 # <a name="wm_devicechange-message"></a>\_Сообщение ДЕВИЦЕЧАНЖЕ WM
 
@@ -77,19 +77,19 @@ LRESULT CALLBACK WindowProc(HWND   hwnd,     // handle to window
 
 Верните **широковещательный \_ запрос \_ Deny** , чтобы отклонить запрос.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Для устройств, которые предлагают функции, управляемые программным обеспечением, такие как извлечение и блокировка, система обычно отправляет сообщение [ДБТ \_ девицеремовепендинг](dbt-deviceremovepending.md) , чтобы позволить приложениям и драйверам устройств правильно использовать устройство. Если система принудительно удаляет устройство, оно может не отправить сообщение [ДБТ \_ девицекуериремове](dbt-devicequeryremove.md) перед этим.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |-------------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента | Windows XP |
-| Минимальная версия сервера | Windows Server 2003|
+| Минимальная версия сервера | Windows Server 2003|
 | Заголовок | <dl> <dt>Winuser. h (включает Windows. h или дбт. h)</dt> </dl> |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

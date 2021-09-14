@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Fastprox.dll
-ms.openlocfilehash: a8c71d5b5f59a3b59fe3b639104bfa1fa2dcf9cd35764e37984759827ff7e92b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: db4c7a76b04b659cd467f7a4a7a9a8c1ba42721f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119131396"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889208"
 ---
 # <a name="iwbemcausalityaccess-interface"></a>Интерфейс Ивбемкаусалитякцесс
 

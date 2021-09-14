@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: c9f5bdcf90b3e0d317290a569984d1b72d248079de5b3b281325e66af6e443c5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 275376234739964940d70381a34331ff5b89f2dc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119494024"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964773"
 ---
 # <a name="id3dxeffect-interface"></a>Интерфейс ID3DXEffect
 
@@ -46,7 +46,7 @@ ms.locfileid: "119494024"
 | [**клониффект**](id3dxeffect--cloneeffect.md)                       | Создает копию результата.<br/>                                                                                                                                                          |
 | [**CommitChanges**](id3dxeffect--commitchanges.md)                   | Распространите изменения состояния, происходящие внутри активного прохода на устройстве перед отрисовкой.<br/>                                                                                           |
 | [**делетепараметерблокк**](id3dxeffect--deleteparameterblock.md)     | Удаляет блок параметров.<br/>                                                                                                                                                             |
-| [**Конец**](id3dxeffect--end.md)                                       | Завершает активный метод.<br/>                                                                                                                                                             |
+| [**Конце**](id3dxeffect--end.md)                                       | Завершает активный метод.<br/>                                                                                                                                                             |
 | [**ендпараметерблокк**](id3dxeffect--endparameterblock.md)           | Прерывать изменения состояния параметров эффектов записи.<br/>                                                                                                                                        |
 | [**ендпасс**](id3dxeffect--endpass.md)                               | Завершение активного прохода.<br/>                                                                                                                                                                   |
 | [**финднекствалидтечникуе**](id3dxeffect--findnextvalidtechnique.md) | Выполняет поиск следующего допустимого метода, начиная с метода после указанного метода.<br/>                                                                                       |
@@ -66,7 +66,7 @@ ms.locfileid: "119494024"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Интерфейс ID3DXEffect получается путем вызова [**D3DXCreateEffect**](d3dxcreateeffect.md), [**D3DXCreateEffectFromFile**](d3dxcreateeffectfromfile.md)или [**D3DXCreateEffectFromResource**](d3dxcreateeffectfromresource.md).
 
@@ -80,7 +80,7 @@ typedef interface ID3DXEffect *LPD3DXEFFECT;
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -91,7 +91,7 @@ typedef interface ID3DXEffect *LPD3DXEFFECT;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

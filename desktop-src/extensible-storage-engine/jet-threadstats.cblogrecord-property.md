@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 6fd244391a0a4565f27db58671ce9dc950d5c676a6396fba27d4f89f76dc1d02
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 04325435f090d1549fe7e742e9d4554fb9c61720
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118979194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126962794"
 ---
 # <a name="jet_threadstatscblogrecord-property"></a>Свойство JET_THREADSTATS. Кблогрекорд
 
@@ -62,7 +62,7 @@ public int cbLogRecord { get; internal set; }
 
 Тип: [System. Int32](/dotnet/api/system.int32)  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

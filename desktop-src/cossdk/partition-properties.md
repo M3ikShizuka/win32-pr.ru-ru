@@ -4,12 +4,12 @@ ms.assetid: bd6647a8-ad38-4bd9-842d-6592440099a4
 title: Свойства секции
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 60c1a1501a1144aec9c0b1355efe9553d32a72b9324c90c533f55c296218aeb3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 893738955c6f137a910ab68446576318c51e641c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119047322"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965142"
 ---
 # <a name="partition-properties"></a>Свойства секции
 
