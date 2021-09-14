@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5abf6eb91b3eadfea71d0c9a4b5386e44db100c3a548998d5113636ff7f8cc29
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c155b426b92645c0b9cdbabe00c44ffa722b89f3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118166917"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166107"
 ---
 # <a name="tdm_update_element_text-message"></a>\_ \_ Текстовое сообщение элемента обновления TDM \_
 
@@ -68,7 +68,7 @@ ms.locfileid: "118166917"
 
 Приведенные выше также применяются к нижнему колонтитулу и \_ нижнему колонтитулу TDE.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -80,7 +80,7 @@ ms.locfileid: "118166917"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

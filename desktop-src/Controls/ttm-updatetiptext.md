@@ -3,7 +3,7 @@ title: Сообщение TTM_UPDATETIPTEXT (Коммктрл. h)
 description: Задает текст подсказки для инструмента.
 ms.assetid: 2a7432dd-76f9-42b4-b639-178dce1d89ef
 keywords:
-- Элементы управления Windows для TTM_UPDATETIPTEXT сообщений
+- элементы управления Windows сообщений TTM_UPDATETIPTEXT
 topic_type:
 - apiref
 api_name:
@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: f6c94b14ec83c190ce019ecba1413d2fa05f0103
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104136402"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165824"
 ---
 # <a name="ttm_updatetiptext-message"></a>\_Сообщение ТТМ упдатетиптекст
 
@@ -51,9 +51,9 @@ ms.locfileid: "104136402"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 | Имя в кодировке Юникод и ANSI<br/>   | **ТТМ \_ УПДАТЕТИПТЕКСТВ** (Юникод) и **ТТМ \_ упдатетиптекста** (ANSI)<br/>       |
 
 

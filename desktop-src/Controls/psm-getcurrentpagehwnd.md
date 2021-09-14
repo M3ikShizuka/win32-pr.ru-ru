@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a0f12c7ed444cf2135fac8d873c1076c04d49f4c9eab8fdb54a962b3885a8cae
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ae9ac89e6bc60317f2caf31ea92754d10983e11a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119985864"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167576"
 ---
 # <a name="psm_getcurrentpagehwnd-message"></a>\_Сообщение ПСМ жеткуррентпажехвнд
 
@@ -56,7 +56,7 @@ ms.locfileid: "119985864"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ ms.locfileid: "119985864"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

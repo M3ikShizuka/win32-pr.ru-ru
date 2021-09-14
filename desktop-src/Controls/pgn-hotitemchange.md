@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a6510eeb648ad883d04ccc0baf916223bb5209d110c2237ef3bf618d241c2ede
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 573f3dd93a6e4b0b3db6682d36804416d6f6f1e5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117830138"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167664"
 ---
 # <a name="pgn_hotitemchange-message"></a>\_Сообщение ПГН хотитемчанже
 
@@ -56,7 +56,7 @@ PGN_HOTITEMCHANGE
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

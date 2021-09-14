@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1d6a1e1a2cda7b3dced4cf538623578d48b41d38925629f2985a35974baed229
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d0984c0b73280ec90c4e659d3bb3b4cc89cdcf4c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118167484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166584"
 ---
 # <a name="tb_setmaxtextrows-message"></a>\_Сообщение СЕТМАКСТЕКСТРОВС ТБ
 
@@ -47,7 +47,7 @@ ms.locfileid: "118167484"
 
 Чтобы переносить текст, необходимо задать максимальную ширину кнопки, отправив [**ТБ \_ сетбуттонвидс**](tb-setbuttonwidth.md) сообщение. Текст переносится при разрыве слова; разрывы строк (" \\ n") в тексте не учитываются. Текст в \_ панелях инструментов списка тбстиле всегда отображается в одной строке.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

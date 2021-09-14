@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: be5c4618fe039fcd05a73e409f0e8ddd7042694d526f902d432d2513bbef96e4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8280b7043591dd4fdd0b453c5baea5fe014bd3d6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119876574"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166268"
 ---
 # <a name="tcm_getextendedstyle-message"></a>\_Сообщение ЖЕТЕКСТЕНДЕДСТИЛЕ TCM
 
@@ -39,7 +39,7 @@ ms.locfileid: "119876574"
 
 Возвращает значение **типа DWORD** , представляющее расширенные стили, используемые в данный момент для элемента управления "Вкладка". Это значение представляет собой сочетание [расширенных стилей](tab-control-extended-styles.md)элемента управления Tab.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -51,7 +51,7 @@ ms.locfileid: "119876574"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

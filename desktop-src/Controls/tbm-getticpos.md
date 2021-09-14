@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 56d191034fc1551d4ffc1840498e352e2f3cd82985f1bbc5a7ae8d5350a41fb1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5bb1346f63e9bb10b919c678373e0e8df0724861
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120046344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166479"
 ---
 # <a name="tbm_getticpos-message"></a>\_Сообщение ТБМ жеттикпос
 
@@ -59,7 +59,7 @@ ms.locfileid: "120046344"
   0 1 2 3 4 5 6 7      // Index numbers for the identifiable positions.
 ```
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

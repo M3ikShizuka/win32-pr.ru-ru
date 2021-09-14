@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: be05fe15740b58c462c4f15edd9070417a9fb7c4580fb0df3767aa4b5d510201
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 0b9c743a076c8046aa57ba4306145248ed00f0fe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119919574"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167899"
 ---
 # <a name="nm_releasedcapture-monthcal-notification-code"></a>\_Код уведомления NM релеаседкаптуре (монскал)
 
@@ -49,7 +49,7 @@ NM_RELEASEDCAPTURE
 
 Элемент управления игнорирует возвращаемое значение из этого кода уведомления.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

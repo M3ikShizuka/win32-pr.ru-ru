@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e63a6b0279199bc0c1d96f0d31884b85e13b9c42036bf0e0f98404825eb66e5b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d614277d89578cb66e528ba16656ed55681ebbcf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118169236"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167244"
 ---
 # <a name="rbn_autobreak-message"></a>\_Сообщение об АВТОразрыве РБН
 
@@ -55,7 +55,7 @@ RBN_AUTOBREAK
 
 Чтобы использовать этот код уведомления, укажите Comctl32.dll версии 6 в манифесте. Дополнительные сведения о манифестах см. в разделе [Включение визуальных стилей](cookbook-overview.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

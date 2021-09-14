@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e7534169bb0808daa63e835d3a46bf4ab31c059b63267727d5c4dbf43f28864d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a67f23a145838aa3562c81e78fb82c3ea66320df
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119769484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165935"
 ---
 # <a name="ttm_enumtools-message"></a>\_Сообщение ТТМ енумтулс
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ad707fa357a487e271bbe03039745b97521542a1305f9745a71a56044060c950
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 54fa61ef183b56b882c6ecdcb9d0d59edbf13e80
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119077948"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166379"
 ---
 # <a name="tbn_dragout-notification-code"></a>\_Код уведомления о перетаскивании ТБН
 
@@ -53,7 +53,7 @@ TBN_DRAGOUT
 
 Этот код уведомления позволяет приложению реализовать функцию перетаскивания для кнопок панели инструментов. При обработке этого кода уведомления приложение начнет операцию перетаскивания.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 148b3d840548116d3082e27b5a760650c5802bdb2c6dbc1fc7c94f1df3a3d5b5
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: be510af44c9cf53000420531843a79e9856c40dd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120046864"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167720"
 ---
 # <a name="pgm_getborder-message"></a>\_Сообщение о ВЫГРАНИЦЕ PGM
 
@@ -39,7 +39,7 @@ ms.locfileid: "120046864"
 
 Возвращает значение типа INT, которое содержит текущий размер границы (в пикселях).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -51,7 +51,7 @@ ms.locfileid: "120046864"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

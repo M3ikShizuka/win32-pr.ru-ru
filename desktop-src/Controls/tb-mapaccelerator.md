@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f905ccf5ea01e3c06cb87a160a44598c2c4a7790c972f4ee83b245e3ed5c0111
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 029584d9e1614a3a135da5ebd3f4f446795fd9ca
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118168088"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166688"
 ---
 # <a name="tb_mapaccelerator-message"></a>\_Сообщение МАПАКЦЕЛЕРАТОР ТБ
 
@@ -49,7 +49,7 @@ ms.locfileid: "118168088"
 
 Функция возвращает ненулевое значение, если одна из кнопок имеет параметр *wParam* в качестве символа ускорителя, или ноль в противном случае.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

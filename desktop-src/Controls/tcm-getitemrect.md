@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0a1a8a018cf63247831e07d0b4f1a64dd1469f96dd679409480e097712bb027d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aa6c214efbeeaf58d1ff3def9f50f10011b41dfc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120060954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166255"
 ---
 # <a name="tcm_getitemrect-message"></a>\_Сообщение ЖЕТИТЕМРЕКТ TCM
 
@@ -47,7 +47,7 @@ ms.locfileid: "120060954"
 
 Возвращает **значение true** , если успешно, или **false** в противном случае.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

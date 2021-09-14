@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8a2fb502558b53603b59cf7f140248a72f1bf3e22366a85a6e8f740066775fb4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fa9365de2d790b1f28b1330c038b69d30b208143
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119696604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167284"
 ---
 # <a name="rb_setbkcolor-message"></a>\_Сообщение СЕТБККОЛОР RB
 
@@ -49,7 +49,7 @@ ms.locfileid: "119696604"
 
 Если стили оформления включены, это сообщение не действует.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ ms.locfileid: "119696604"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

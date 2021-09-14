@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1bf9c6a4c21439f93f3459a5061daf28192081a042cc663a644110a1e54d2c54
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d8a157f6a220f4932d39d13f08df79afa99d7348
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119986154"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167748"
 ---
 # <a name="pbm_setpos-message"></a>\_Сообщение СЕТПОС PBM
 

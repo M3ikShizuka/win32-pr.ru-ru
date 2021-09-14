@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 32a73b7da3efee0b1bb1ba829cf40356e6060a5f7e7fdfcc2467e2cca32226a5
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 409297306901980fa8b831e5c1129a13c596ef0c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119876864"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166360"
 ---
 # <a name="tbn_getbuttoninfo-notification-code"></a>\_Код уведомления ТБН жетбуттонинфо
 
@@ -55,7 +55,7 @@ TBN_GETBUTTONINFO
 
 Элемент управления ToolBar выделяет буфер, и получатель (родительское окно) должен скопировать текст в этот буфер. Элемент **кчтекст** содержит длину буфера, выделенного панелью инструментов при \_ отправке ТБН жетбуттонинфо в родительское окно.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

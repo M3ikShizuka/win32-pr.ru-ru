@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1af7ba20ed9ce3d1b289c0c28db8fc40c476dd99f4ffb1af1af28692c44cab1e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9d42983f5fb0ef6e62716cefa2fa8db4fca87fa4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118168033"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166687"
 ---
 # <a name="tb_markbutton-message"></a>\_Сообщение МАРКБУТТОН ТБ
 
@@ -49,7 +49,7 @@ ms.locfileid: "118168033"
 
 Возвращает ненулевое значение в случае успеха или ноль в противном случае.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

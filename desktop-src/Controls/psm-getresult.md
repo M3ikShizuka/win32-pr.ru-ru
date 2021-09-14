@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4acc8fed8cdaa1f4282c3ed066ad44f68221330fa9e79b0719db8bba1bca37f1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d41609f625cbd3938fa78e9a2f91ab70168ecc29
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118169810"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167575"
 ---
 # <a name="psm_getresult-message"></a>ПСМ, \_ сообщение о ВЫрезультате
 
@@ -73,7 +73,7 @@ ms.locfileid: "118169810"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

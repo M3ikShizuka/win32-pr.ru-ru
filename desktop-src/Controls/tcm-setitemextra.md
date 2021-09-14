@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f92fb85f7133053392bee39119c91b55240f84f0a51c8acc7dc9c732b596526c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 9dd6c7fdb47483ae0ddc841ae5f79b8f913e6a4f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120104764"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166207"
 ---
 # <a name="tcm_setitemextra-message"></a>\_Сообщение СЕТИТЕМЕКСТРА TCM
 
@@ -49,7 +49,7 @@ ms.locfileid: "120104764"
 
 Приложение должно изменять только количество дополнительных байтов, если элемент управления "Вкладка" не содержит ни одной вкладки.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

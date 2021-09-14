@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ac3be7b9b7f62d69a1207e60f58189f152f109531d83e4f7b80b6e13ca6f6da3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: abe566d1e1b3cc7d257c4756fe123423fc344a7f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119876494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166223"
 ---
 # <a name="tcm_setcurfocus-message"></a>\_Сообщение СЕТКУРФОКУС TCM
 
@@ -49,7 +49,7 @@ ms.locfileid: "119876494"
 
 Если в элементе управления "Вкладка" отсутствует [**стиль \_ кнопок TCS**](tab-control-styles.md) , изменение фокуса также приведет к изменению выбранной вкладки. В этом случае элемент управления "Вкладка" отправляет коды уведомлений [ТКН \_ Селчангинг](tcn-selchanging.md) и [ТКН \_ селчанже](tcn-selchange.md) в родительское окно.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ ms.locfileid: "119876494"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

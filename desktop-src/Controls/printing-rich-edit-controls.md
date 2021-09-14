@@ -4,12 +4,12 @@ description: В этом разделе содержатся сведения о
 ms.assetid: d61e2e11-d848-43fc-9622-b3b2032bda48
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e00c7a7287fc86e47e085cfacd7757a7e24b4a91a3a513e75dc4610b51606b36
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a304e5c09b5f8ea934c90873c3d915179295964e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119575554"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167659"
 ---
 # <a name="how-to-print-the-contents-of-rich-edit-controls"></a>Печать содержимого элементов управления Rich Edit
 
@@ -26,7 +26,7 @@ ms.locfileid: "119575554"
 -   C/C++
 -   Windows Программирование пользовательского интерфейса
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="use-print-preview"></a>Использовать предварительный просмотр
 

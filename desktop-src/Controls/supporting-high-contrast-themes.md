@@ -4,12 +4,12 @@ description: в этом разделе сравнивается поддерж�
 ms.assetid: 6E4F1198-E69C-4C60-B3B0-2702AECAA203
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7f32c89302daeb7190174a0d6b9e822e1c55d3e530ad29baedd00c5ffdefc97b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2068d64b585f302f578296c9e156895c23b9bce9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118670643"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166959"
 ---
 # <a name="supporting-high-contrast-themes"></a>Вспомогательные темы высокая контрастность
 

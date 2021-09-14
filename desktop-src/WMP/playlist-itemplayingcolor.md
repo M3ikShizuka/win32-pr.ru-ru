@@ -3,7 +3,7 @@ title: Список воспроизведения. Итемплайингкол
 description: Атрибут Итемплайингколор указывает или получает цвет выделения, который указывает на текущий элемент списка воспроизведения.
 ms.assetid: 8a0ab446-a659-44c6-a1ed-a2fc2c616cdd
 keywords:
-- Проигрыватель Windows Media Player. Итемплайингколор
+- проигрыватель Windows Media списка воспроизведения. итемплайингколор
 topic_type:
 - apiref
 api_name:
@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 0a47c4fdb69fb07aa4686b567c676fe35b499374
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105649070"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243163"
 ---
 # <a name="playlistitemplayingcolor"></a>Список воспроизведения. Итемплайингколор
 
@@ -37,7 +37,7 @@ ms.locfileid: "105649070"
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 7,0 или более поздней<br/> |
+| Версия<br/> | проигрыватель Windows Media версии 7,0 или более поздней<br/> |
 
 
 

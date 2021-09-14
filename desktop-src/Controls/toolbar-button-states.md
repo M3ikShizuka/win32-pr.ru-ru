@@ -20,11 +20,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 45262197c4432d9e3bb5c0884b3f76c986e4acfe
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105648683"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166027"
 ---
 # <a name="toolbar-button-states"></a>Состояния кнопок панели инструментов
 
@@ -45,7 +45,7 @@ ms.locfileid: "105648683"
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Панель инструментов может иметь сочетание состояний.
 
@@ -55,7 +55,7 @@ ms.locfileid: "105648683"
 
 | Требование | Значение |
 |-------------------|---------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

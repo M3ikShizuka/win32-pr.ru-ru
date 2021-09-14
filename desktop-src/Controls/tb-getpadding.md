@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f342e3322c0db60f46b0de353c2bbd2f6abe28717aa8ee23db8a3a9f26473113
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b15babf2fd5d97377991d1827ea8947e9d794600
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119078328"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166784"
 ---
 # <a name="tb_getpadding-message"></a>\_Сообщение о ДОполнителье ТБ
 
@@ -39,7 +39,7 @@ ms.locfileid: "119078328"
 
 Возвращает значение **типа DWORD** , содержащее горизонтальное заполнение в нижнем слове и вертикальное заполнение в верхнем слове (в пикселях).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -51,7 +51,7 @@ ms.locfileid: "119078328"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 44f741fd7cfa5c6f72405b10ba9678aed71f7cb2359743593f117b17c8ad1c8e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a1a21e9ade8f54ffe27ebffdfc2a8b535b4b3630
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118166964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166324"
 ---
 # <a name="tbn_queryinsert-notification-code"></a>\_Код уведомления ТБН куеринсерт
 

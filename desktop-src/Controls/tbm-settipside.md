@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e0bd98c82d91d8334f64724057c247f0145ccc36c887e8f5bea3291ecb0987d9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 56c3ab1f6c601d9b243977d147f7503ce99788e3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119077968"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166408"
 ---
 # <a name="tbm_settipside-message"></a>\_Сообщение ТБМ сеттипсиде
 
@@ -56,7 +56,7 @@ ms.locfileid: "119077968"
 
 Возвращает значение, представляющее предыдущее расположение элемента управления ToolTip. Возвращаемое значение равно одному из возможных значений параметра *wParam*.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

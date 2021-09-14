@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: c8a8ddf0ee02f88b468b0911e64b5308cc2e8784
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122479740"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167104"
 ---
 # <a name="sb_settext-message"></a>\_Сообщение SB SETTEXT
 
@@ -45,7 +45,7 @@ ms.locfileid: "122479740"
 
 | Значение | Значение | 
 |-------|---------|
-| <span id="0"></span><dl><dt><strong>0</strong></dt></dl> | Текст отображается с границей, которая отображается ниже плоскости окна.<br /> | 
+| <span id="0"></span><dl><dt><strong>0,0</strong></dt></dl> | Текст отображается с границей, которая отображается ниже плоскости окна.<br /> | 
 | <span id="SBT_NOBORDERS"></span><span id="sbt_noborders"></span><dl><dt><strong>SBT_NOBORDERS</strong></dt></dl> | Текст отображается без границ.<br /> | 
 | <span id="SBT_OWNERDRAW"></span><span id="sbt_ownerdraw"></span><dl><dt><strong>SBT_OWNERDRAW</strong></dt></dl> | Текст рисуется родительским окном. <br /><blockquote>[!Note]<br />Строка состояния простого режима не поддерживает рисование владельцем.</blockquote><br /> | 
 | <span id="SBT_POPOUT"></span><span id="sbt_popout"></span><dl><dt><strong>SBT_POPOUT</strong></dt></dl> | Текст отображается с границей, которая отображается выше плоскости окна.<br /> | 
@@ -70,7 +70,7 @@ ms.locfileid: "122479740"
 
 Возвращает **значение true** , если успешно, или **false** в противном случае.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Сообщение сделает недействительным измененную часть окна, что привело бы к отображению нового текста, когда окно затем получит сообщение [**WM \_ Paint**](/windows/desktop/gdi/wm-paint) .
 
@@ -89,7 +89,7 @@ ms.locfileid: "122479740"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

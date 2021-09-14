@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 86bbad4d6f0ce8a084709c04110d093e4d79b806226bdc1fa651278b4054fa8d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 22e8d1fc54d556240ef3fa6d6b6185a669978b84
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120088484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167472"
 ---
 # <a name="psm_showwizbuttons-message"></a>\_Сообщение ПСМ шоввизбуттонс
 
@@ -73,7 +73,7 @@ ms.locfileid: "120088484"
 
 Если обработчик [**уведомлений использует сообщение для отправки сообщения**](/windows/desktop/api/winuser/nf-winuser-postmessagea) **ПСМ \_ шоввизбуттонс** , ничего не повлияет на фокус окна до тех пор, пока обработчик не вернет значение. Например, если вы вызываете [**MessageBox**](/windows/desktop/api/winuser/nf-winuser-messagebox) сразу же после использования **сообщения** для отправки **ПСМ \_ шоввизбуттонс**, окно сообщения будет получать фокус. Поскольку отправленные сообщения не доставляются до конца очереди сообщений, сообщение **ПСМ \_ шоввизбуттонс** не будет доставлено до тех пор, пока мастер не затеряет фокус на окне сообщения. В результате страница свойств не сможет правильно установить фокус на кнопки.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

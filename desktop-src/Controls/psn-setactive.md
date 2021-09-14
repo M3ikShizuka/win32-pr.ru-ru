@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 16e7b656f5497065378af87408fa87fc16cf9ca2cef3cc710f52a1cd643c2927
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1f38db77c1c60ef60ce713d41a6112b42235b79a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118409736"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167435"
 ---
 # <a name="psn_setactive-notification-code"></a>\_Код уведомления PSN сетактиве
 
@@ -68,7 +68,7 @@ PSN_SETACTIVE
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                               |
-| Header<br/>                   | <dl> <dt>Пршт. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Пршт. h</dt> </dl> |
 
 
 

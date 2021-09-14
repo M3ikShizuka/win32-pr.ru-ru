@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 312344248dbf280e1f46d52efd7b4960b47625131d29d30c410939c19b593e5b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e27c9cedeb42e7eeed9432af9c2a040ac4991810
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119985384"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167251"
 ---
 # <a name="rb_showband-message"></a>\_Сообщение ШОВБАНД RB
 

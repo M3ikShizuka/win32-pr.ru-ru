@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4671c3b6998c170f6ef59e8a0019b58a166728d1c560eac8420dbaf40c4dcb0f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ce923feaec893e6f4304eb0b993de33dc1fe2a97
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120061344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166783"
 ---
 # <a name="tb_getobject-message"></a>\_Сообщение об ОБЪЕКТЕ ТБ
 
@@ -51,7 +51,7 @@ ms.locfileid: "120061344"
 
 Панель инструментов [**интерфейс IDropTarget**](/windows/desktop/api/oleidl/nn-oleidl-idroptarget) используется панелью инструментов, когда объекты перетаскиваются на него или отбрасываются.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

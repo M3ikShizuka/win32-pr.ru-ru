@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 920c7d48abce1af4a66c7eabacc4698cfa04510fbe49835e804b518d6a0ab3c4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b23d9aa0f9563f68804eaff1ac969679f220dce2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120064764"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167967"
 ---
 # <a name="invoke-method-of-the-cim_swapspacecheck-class"></a>Метод Invoke \_ класса CIM свапспацечекк
 
@@ -55,7 +55,7 @@ uint32 Invoke();
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -69,7 +69,7 @@ uint32 Invoke();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

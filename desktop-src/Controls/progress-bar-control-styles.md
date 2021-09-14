@@ -16,11 +16,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 1216171b116bffb962b3ebfe1a76497473cf2db2
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122465280"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167615"
 ---
 # <a name="progress-bar-control-styles"></a>Стили элемента управления "индикатор выполнения"
 
@@ -39,7 +39,7 @@ ms.locfileid: "122465280"
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Стили индикаторов выполнения можно задать так же, как другие стандартные элементы управления с [**CreateWindowEx**](/windows/desktop/api/winuser/nf-winuser-createwindowexa), [**жетвиндовлонг**](/windows/desktop/api/winuser/nf-winuser-getwindowlonga)или [**SetWindowLong**](/windows/desktop/api/winuser/nf-winuser-setwindowlonga).
 

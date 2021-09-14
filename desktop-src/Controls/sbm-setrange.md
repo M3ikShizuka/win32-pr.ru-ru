@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cfac02c2a902e890b56e1d14d9ec4b300257e340340d72c6cf80e17488afe3e1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f7a720531ae58fdb0712b8f23fd1aef88b3e4caa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119914324"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167068"
 ---
 # <a name="sbm_setrange-message"></a>\_Сообщение SETRANGE СБМ
 
@@ -57,7 +57,7 @@ ms.locfileid: "119914324"
 
 Если минимальное и максимальное значения позиционирования равны, элемент управления "полоса прокрутки" скрыт и, по сути, отключен.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -69,7 +69,7 @@ ms.locfileid: "119914324"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

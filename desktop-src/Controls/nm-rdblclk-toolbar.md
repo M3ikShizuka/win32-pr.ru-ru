@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 14d81fadafa6faa0a4375d9aa34e98bb22a0099f9d0cdabcdbe1a385317e5df1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: dec2129b6400c60bd59e441ff8af2083e781ba22
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119391534"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167915"
 ---
 # <a name="nm_rdblclk-toolbar-notification-code"></a>\_Код уведомления "NM рдблклк (панель инструментов)"
 
@@ -49,7 +49,7 @@ NM_RDBLCLK
 
 Возвращает **значение false** , чтобы разрешить элементу управления ToolBar выполнять обработку события по умолчанию, или **значение true** , чтобы предотвратить обработку события элементом управления.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -57,7 +57,7 @@ NM_RDBLCLK
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

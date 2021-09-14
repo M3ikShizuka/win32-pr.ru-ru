@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4318579b67adda9ab55a9dad4ad73949214758443c5e2151ce40cbb996fd90cd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cee0f33331c579490cf66a38b9ce6655215ae673
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118168760"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167156"
 ---
 # <a name="sb_getparts-message"></a>\_Сообщение SB
 
@@ -51,7 +51,7 @@ ms.locfileid: "118168760"
 
 Это сообщение всегда возвращает количество частей в строке состояния.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

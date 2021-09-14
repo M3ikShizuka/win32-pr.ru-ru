@@ -31,12 +31,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bcc88ea2c3c5d32dff9920b2699474a810f29b14dcf50d9b4c2401863c875778
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 620f73beb726eea065d8c8a63a635ff04fdeba37
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118169094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167168"
 ---
 # <a name="rich-edit-control-styles"></a>Стили элемента управления Rich Edit
 
@@ -84,7 +84,7 @@ ms.locfileid: "118169094"
 -   [**\_ОЕМКОНВЕРТ ES**](edit-control-styles.md)
 -   [**\_прописные буквы ES**](edit-control-styles.md)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 80c1eb7e72030a3c2dadc61bfd90027dab032c3342a25c72e4da9dd9a7338142
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b76d465b1b937359a3d312a401914d497f9c9b22
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120104664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166159"
 ---
 # <a name="tdm_click_radio_button-message"></a>TDM \_ щелкните \_ сообщение переключателя \_
 
@@ -51,7 +51,7 @@ ms.locfileid: "120104664"
 
 Указанный идентификатор переключателя отправляется в функцию обратного вызова [**таскдиалогкаллбаккпрок**](/windows/win32/api/commctrl/nc-commctrl-pftaskdialogcallback) в рамках [ \_ переключателя \_ \_ ТДН](tdn-radio-button-clicked.md) . После возврата функции обратного вызова будет установлен переключатель.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

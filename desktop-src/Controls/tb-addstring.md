@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c0556add41addb4a58d5734ab900af4a43c2018b533723145ed4f9c8272e3890
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6fba57c298a2b903a65c429ae6b4f9d55fc9ed2b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119078378"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166908"
 ---
 # <a name="tb_addstring-message"></a>\_Сообщение ADDSTRING ТБ
 
@@ -55,7 +55,7 @@ ms.locfileid: "119078378"
 
 Если параметр *wParam* является HINSTANCE приложения или другого модуля, содержащего строковый ресурс, то параметр *lParam* представляет собой идентификатор ресурса строки. Каждый элемент в строке должен начинаться с произвольного разделителя, а строка должна заканчиваться двумя такими символами. Например, текст для трех кнопок может отображаться в таблице строк как «/Нев/опен/Саве//». Сообщение возвращает индекс "New" в пуле строк панели инструментов, а остальные элементы находятся в последовательных позициях.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

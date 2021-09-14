@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 1f952d00486fe2419ab48592c7624299ef466c5dfa2b96d53fefb308fc537488
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e1a4e317543765fb24755516a0637b16958ad679
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118335816"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243139"
 ---
 # <a name="playlistsetselectedstate2"></a>Список воспроизведения. setSelectedState2
 
@@ -54,7 +54,7 @@ ms.locfileid: "118335816"
 
 Этот метод может работать с вложенными списками воспроизведения и заменять метод **сетселектедстате** , который не может. Вы можете задать для всех элементов запрошенное состояние, указав значение 1 в параметре *Item* .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -64,7 +64,7 @@ ms.locfileid: "118335816"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

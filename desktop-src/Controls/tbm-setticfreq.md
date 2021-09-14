@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c7c1b3e029abc8027d8708da31698f44db85ec78e427ba9461f0a71a740fb05a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b68a555a7803e663fa1708fc02214deecbb05aad
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119078018"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166411"
 ---
 # <a name="tbm_setticfreq-message"></a>\_Сообщение ТБМ сеттикфрек
 
@@ -47,7 +47,7 @@ ms.locfileid: "119078018"
 
 Для использования этого сообщения параметр TrackBar должен иметь стиль [**TBS \_**](trackbar-control-styles.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

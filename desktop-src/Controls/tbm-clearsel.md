@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 627f2c872b47bf76312856fd81d42bfe8f2739e53efb3c37492b203b150b8e8b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d9d2474f3978dc80b2611bd6b454c45e515ee159
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120046764"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166539"
 ---
 # <a name="tbm_clearsel-message"></a>\_Сообщение ТБМ клеарсел
 
@@ -47,7 +47,7 @@ ms.locfileid: "120046764"
 
 Параметр TrackBar может иметь диапазон выбора, только если вы указали стиль [**TBS \_ енаблеселранже**](trackbar-control-styles.md) при его создании.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ ms.locfileid: "120046764"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

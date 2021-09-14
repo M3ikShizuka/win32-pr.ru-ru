@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b51765a3c0590b4584b817772cec73df626363dfce6a5ef472ceec6c3ea023f2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d314a7250128a0f3e6b3fed54e5765487619d8e2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118167042"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166339"
 ---
 # <a name="tbn_hotitemchange-notification-code"></a>\_Код уведомления ТБН хотитемчанже
 
@@ -49,7 +49,7 @@ TBN_HOTITEMCHANGE
 
 Возвращает ноль, чтобы разрешить выделение элемента, или ненулевое значение, чтобы предотвратить выделение элемента.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

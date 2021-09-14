@@ -4,12 +4,12 @@ description: Диалоговое окно "Задача" можно испол�
 ms.assetid: vs|controls|~\controls\toolbar\taskdialogsoverview.htm
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f2367e3cadff68f10af9d883d4ed7959e4e862a6f406a83361ea2f40b2f69c78
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2eb5cafa452a4ed653c404d053e888c6de644236
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120061440"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166924"
 ---
 # <a name="about-task-dialogs"></a>О диалоговых окнах задач
 

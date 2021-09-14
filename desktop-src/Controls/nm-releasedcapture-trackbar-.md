@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f987ba9aec66a2a637736cb1b675196538ec46c7401b9a6317e5458a0bba7c48
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 684f58fb5328cfe0d25fc73ce7c1a2d9a189d86f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118957953"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167875"
 ---
 # <a name="nm_releasedcapture-trackbar-notification-code"></a>\_Код уведомления NM релеаседкаптуре (TrackBar)
 
@@ -49,7 +49,7 @@ NM_RELEASEDCAPTURE
 
 Элемент управления игнорирует возвращаемое значение из этого кода уведомления.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

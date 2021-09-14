@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 92b79cfcf589dcd246699e0eb79c30368a3cad0e72eb74a76528967d3a0683d0
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fddef597f7b129f8334f75136f56404a8ef117fa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120046544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166499"
 ---
 # <a name="tbm_getrangemin-message"></a>\_Сообщение ТБМ жетранжемин
 
@@ -39,7 +39,7 @@ ms.locfileid: "120046544"
 
 Возвращает 32-разрядное значение, которое указывает минимальное положение ползунка в диапазоне от минимума до максимального значения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -51,7 +51,7 @@ ms.locfileid: "120046544"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

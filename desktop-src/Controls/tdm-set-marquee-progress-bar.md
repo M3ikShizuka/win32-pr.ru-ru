@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 13262339f7d87ea68755a38a49cc8c327706939d6b18025f350334dfdbe3dd4a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 45a9384826b89d07c6564dc511d4909058871ca3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120104614"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166131"
 ---
 # <a name="tdm_set_marquee_progress_bar-message"></a>Сообщение с индикатором \_ выполнения TDM Set \_ Marquee \_ \_
 
@@ -51,7 +51,7 @@ ms.locfileid: "120104614"
 
 Сведения о режиме бегущей строки см. в разделе [элемент управления](progress-bar-control.md)"индикатор выполнения".
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

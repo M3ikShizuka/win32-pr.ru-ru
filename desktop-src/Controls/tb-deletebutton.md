@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 527bac884c36d8bcbf1ddee245156557e392cf1b4591b03c8af7cfc9cc3c8f77
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c1d9bbbca143351f70005990b5ac97fa4fa35cad
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118957903"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166875"
 ---
 # <a name="tb_deletebutton-message"></a>\_Сообщение ДЕЛЕТЕБУТТОН ТБ
 
@@ -43,7 +43,7 @@ ms.locfileid: "118957903"
 
 Возвращает **значение true** , если успешно, или **false** в противном случае.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -3,7 +3,7 @@ title: Сообщение RB_HITTEST (Коммктрл. h)
 description: Определяет, какая часть полосы элементов управления находится в заданной точке экрана, если в этой точке существует полоса главной панели.
 ms.assetid: 8f27db21-50d8-438f-a44c-2e65dd93fa2a
 keywords:
-- Элементы управления Windows для RB_HITTEST сообщений
+- элементы управления Windows сообщений RB_HITTEST
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: e17283bfce255672391ba9d8b6acd60fe41045b7
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104071181"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167327"
 ---
 # <a name="rb_hittest-message"></a>\_Сообщение HITTEST RB
 
@@ -49,9 +49,9 @@ ms.locfileid: "104071181"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

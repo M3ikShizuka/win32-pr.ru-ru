@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f4d2582ccfb5276f65cbf1187458774622e62f6dd87d8dcadd2e16a7447f769a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: dce1bba8af9a65f297aa0515c1103c50daa1626d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120046364"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166487"
 ---
 # <a name="tbm_getthumbrect-message"></a>\_Сообщение ТБМ жетсумбрект
 
@@ -43,7 +43,7 @@ ms.locfileid: "120046364"
 
 Нет возвращаемого значения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

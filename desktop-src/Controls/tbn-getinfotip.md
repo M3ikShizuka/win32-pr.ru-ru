@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2b6adb47a940ce6795047a1aca8bb7cbdc0899a142c132ab8f6f39e6bb089f1e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fda2c1b181ebea1840b153b8b2df8328b3f2cc8d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119077908"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166344"
 ---
 # <a name="tbn_getinfotip-notification-code"></a>\_Код уведомления ТБН жетинфотип
 
@@ -55,7 +55,7 @@ TBN_GETINFOTIP
 
 Поддержка подсказки на панели инструментов позволяет отображать подсказки для элементов, имеющих размер ИНФОТИПСИЗЕ символов. Если этот код уведомления не обрабатывается, панель инструментов будет использовать текст элемента для подсказки.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

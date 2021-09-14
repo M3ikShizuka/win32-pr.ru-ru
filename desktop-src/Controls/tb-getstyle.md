@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a0704e1cb886bb8a684ab4a1a1e827218fc5f57d4d90778e859e5224ef5f129e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 14f8de0addae729a4a8c641d21fd1771137d8c8e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119696174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166755"
 ---
 # <a name="tb_getstyle-message"></a>\_Сообщение о стиле ТБ
 
@@ -39,7 +39,7 @@ ms.locfileid: "119696174"
 
 Возвращает значение **типа DWORD** , которое является сочетанием [стилей элементов управления панели инструментов](toolbar-control-and-button-styles.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

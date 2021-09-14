@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fe2c6635f895d8ebd11f8261da553fe59d65574151046f97e489a6d9c6990d3d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f076efe2a575eff131c9bc2a1fe3df9ecab0fe68
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119877004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166404"
 ---
 # <a name="tbm_setunicodeformat-message"></a>\_Сообщение ТБМ сетуникодеформат
 
@@ -47,7 +47,7 @@ ms.locfileid: "119877004"
 
 Обсуждение этого сообщения см. в примечаниях по [**CCM \_ сетуникодеформат**](ccm-setunicodeformat.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ ms.locfileid: "119877004"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

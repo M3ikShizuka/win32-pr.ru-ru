@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: aa40313a8b8c11c48b37cf2ae0593cb1bbc85353303f7c8840e7e5eb55ea7ca9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c13366348da075fab48e7a2f12381f51f7d87bf4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119877284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167819"
 ---
 # <a name="nm_tooltipscreated-toolbar-notification-code"></a>\_Код уведомления "NM тултипскреатед (панель инструментов)"
 
@@ -49,7 +49,7 @@ NM_TOOLTIPSCREATED
 
 Элемент управления ToolBar игнорирует возвращаемое значение из этого кода уведомления.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

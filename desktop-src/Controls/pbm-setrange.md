@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: eb5dca4e4be30b50627d8583a67801dc5cb246ef65e9cd267e6d7b3ee3ed7869
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e9e588170c80378082eab7e419e9425e716b8caf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118170201"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167744"
 ---
 # <a name="pbm_setrange-message"></a>\_Message SETRANGE, сообщение
 
@@ -53,7 +53,7 @@ ms.locfileid: "118170201"
 
 Чтобы задать больший диапазон, вызовите [**PBM \_ SETRANGE32**](pbm-setrange32.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -65,7 +65,7 @@ ms.locfileid: "118170201"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

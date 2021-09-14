@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 694fb64b033d279292a687c39959925a68999c0b232c847bdf6ec6b476c725e8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b0b0d0f3d2bbd4a7cf0ab2a63c5a988f60768eec
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120104944"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166283"
 ---
 # <a name="tcm_getcurfocus-message"></a>\_Сообщение ЖЕТКУРФОКУС TCM
 
@@ -43,7 +43,7 @@ ms.locfileid: "120104944"
 
 Элемент, имеющий фокус, может отличаться от выбранного элемента.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

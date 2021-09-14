@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: da488c7aab3a6856fd1bd8db6911336eb52881da396e287937678600158d9655
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 65fae53f7e7702528915af7631bd675f11188b71
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119078168"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166579"
 ---
 # <a name="tb_setpadding-message"></a>\_Сообщение СЕТПАДДИНГ ТБ
 
@@ -51,7 +51,7 @@ ms.locfileid: "119078168"
 
 Значения заполнения используются для создания пустой области между границей кнопки и изображением кнопки и (или) текстом. Где и как фактически применяется внутреннее заполнение, зависит от типа кнопки и наличия изображения. Отступ по горизонтали применяется как справа, так и слева от кнопки, а вертикальное заполнение применяется как к верхней, так и к нижней части кнопки. Заполнение применяется только к кнопкам, имеющим стиль [**\_ AUTOSIZE тбстиле**](toolbar-control-and-button-styles.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -63,7 +63,7 @@ ms.locfileid: "119078168"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 74f286a2f03e318629a10651d066da5aa6cfe70aa293f242ad7508d0ef4739a8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a42839157125c8def28a19dd9c2ccce21d3b96c3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119540024"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166416"
 ---
 # <a name="tbm_settic-message"></a>ТБМ \_ Set Message
 
@@ -47,7 +47,7 @@ ms.locfileid: "119540024"
 
 Значение TrackBar создает собственные первый и последний деления. Не используйте это сообщение, чтобы задать первый и последний деления.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,11 +59,11 @@ ms.locfileid: "119540024"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**ТБМ \_ жетптикс**](tbm-getptics.md)

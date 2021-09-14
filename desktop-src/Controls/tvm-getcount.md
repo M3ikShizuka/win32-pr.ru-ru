@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3fce2d3ed6580acc875007ff3962bbeb21e9c0d3c3cb38128a2339da79597f3e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 870ca0d1e4bf04d054d29d78ab60371863648a8f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120060354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165764"
 ---
 # <a name="tvm_getcount-message"></a>TVM \_ ВЫчислить сообщение
 
@@ -43,7 +43,7 @@ ms.locfileid: "120060354"
 
 Число узлов, возвращенное [**TreeView- \_ Count**](/windows/desktop/api/Commctrl/nf-commctrl-treeview_getcount) , ограничено целыми значениями. При добавлении узла за пределами 32767 макрос возвращает отрицательное значение. После добавления 65536 узлов счетчик возвращается к нулю. В этом случае элемент управления "представление дерева" отображается как пустой без полос прокрутки.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

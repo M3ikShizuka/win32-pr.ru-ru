@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b9bbf66e9974e444fd8544e20cb4878e662bb94b4b1f958404794783e52664c0
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 0d5e855374699a100bf78019f1ca3d89857bc7c0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119876614"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166332"
 ---
 # <a name="tbn_initcustomize-notification-code"></a>\_Код уведомления ТБН иниткустомизе
 
@@ -49,7 +49,7 @@ TBN_INITCUSTOMIZE
 
 Возвращает ТБНРФ \_ хидехелп, чтобы отключить кнопку "Справка".
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

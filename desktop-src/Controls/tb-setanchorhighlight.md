@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 77a66193aebee80a2ffde97b7e802b5bab750f0a9e2f1773b32d872211d52150
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 809f71e446f7768d637258152db1dd2d56346dfd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118167987"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166660"
 ---
 # <a name="tb_setanchorhighlight-message"></a>\_Сообщение СЕТАНЧОРХИГХЛИГХТ ТБ
 
@@ -47,7 +47,7 @@ ms.locfileid: "118167987"
 
 Выделение привязок на панели инструментов означает, что последний выделенный элемент останется выделенным, пока не будет выделен другой элемент. Это происходит, даже если курсор покидает элемент управления ToolBar.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

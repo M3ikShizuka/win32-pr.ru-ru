@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 864903c73eeb611d1c748ec6a4d936192a1a27f22d3f37115af8879916286a8d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 62bc964b1a820fb0d5cd341e8909f36d5f6312ed
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117830148"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167656"
 ---
 # <a name="pgn_scroll-notification-code"></a>\_Код уведомления прокрутки ПГН
 
@@ -49,7 +49,7 @@ PGN_SCROLL
 
 Возвращаемое значение игнорируется.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

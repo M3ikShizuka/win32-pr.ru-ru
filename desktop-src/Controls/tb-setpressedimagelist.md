@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 118dcf5340b9fb60360657b1bd3ad9659ce265ef668fbd94e305e81342e0951e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 79a3c6dafed6dbfdf2a654f4f95f1cef636ba762
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120061354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166571"
 ---
 # <a name="tb_setpressedimagelist-message"></a>\_Сообщение СЕТПРЕССЕДИМАЖЕЛИСТ ТБ
 
@@ -101,7 +101,7 @@ ms.locfileid: "120061354"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -113,7 +113,7 @@ ms.locfileid: "120061354"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 54ed3b8afed7b96e657984a437ff54b1099f196b8dc3d0035468835152b5a841
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 072ff9b8a107fe19afb1fee6107a2f05bad36025
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119078088"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166504"
 ---
 # <a name="tbm_getpos-message"></a>\_Сообщение ТБМ жетпос
 
@@ -39,7 +39,7 @@ ms.locfileid: "119078088"
 
 Возвращает 32-разрядное значение, указывающее текущую логическую точку ползунка TrackBar.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -51,7 +51,7 @@ ms.locfileid: "119078088"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

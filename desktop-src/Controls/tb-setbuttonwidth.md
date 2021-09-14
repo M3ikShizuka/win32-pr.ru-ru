@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 145ae1459b76fba60dd76b34e36d222cf62b93af071f2b430321d86956a3a871
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5e105770d72e90108b9c31311f77599520cecea8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118167599"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166647"
 ---
 # <a name="tb_setbuttonwidth-message"></a>\_Сообщение СЕТБУТТОНВИДС ТБ
 
@@ -53,7 +53,7 @@ ms.locfileid: "118167599"
 
 Используйте **ТБ \_ сетбуттонвидс** , чтобы задать максимальную и минимальную допустимую ширину для кнопок перед их добавлением. Чтобы задать фактический размер кнопок, используйте [**\_ сетбуттонсизе ТБ**](tb-setbuttonsize.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

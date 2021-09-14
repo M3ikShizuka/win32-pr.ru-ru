@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: babff5ad74d943d64f5ad61354447498e91e1325c99c82b32183fbc62eabafdd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1387e69622e84990a197dc5a374d1c3449393408
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117830205"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167767"
 ---
 # <a name="pbm_setbarcolor-message"></a>\_Сообщение СЕТБАРКОЛОР PBM
 
@@ -51,7 +51,7 @@ ms.locfileid: "117830205"
 
 Если стили оформления включены, это сообщение не действует.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

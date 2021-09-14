@@ -14,12 +14,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 554530e556161b4128199cda0a1a9d791f4f0ed75e8915c311d8945445486ac3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0db5a80b84a30362e3bdbce45fe7485ad0dd6884
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118169114"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167183"
 ---
 # <a name="readerscroll-callback-function"></a>Функция обратного вызова Реадерскролл
 
@@ -102,7 +102,7 @@ ReaderScrollCallback(PREADERMODEINFO prmi, int dx, int dy)
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

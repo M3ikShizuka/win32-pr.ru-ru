@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bb68710c13c8b6b236782b133caa5b6f3609fef931e3b1e395b9944e9ab9a651
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4e49334a1fa7124dd6e7a0f0b739cd1ebd24b51b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118166937"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166244"
 ---
 # <a name="tcm_gettooltips-message"></a>\_Сообщение о подсказках TCM
 
@@ -43,7 +43,7 @@ ms.locfileid: "118166937"
 
 Элемент управления "Вкладка" создает элемент управления ToolTip, если он имеет стиль [**\_ подсказок TCS**](tab-control-styles.md) . Элемент управления ToolTip можно также назначить элементу управления "Вкладка" с помощью сообщения [**TCM \_ сеттултипс**](tcm-settooltips.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

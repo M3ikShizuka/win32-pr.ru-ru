@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 97b97c7df35fc1883274e42fe54c9ff62415da5dca7e2f020b9371ea873fecc5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 496737f714ecb58c0d5a349207114cbf338e2c54
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118170221"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167808"
 ---
 # <a name="pager-control-styles"></a>Стили элементов управления страничного навигатора
 
@@ -37,7 +37,7 @@ ms.locfileid: "118170221"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

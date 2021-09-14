@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 718a51f14f096edbd8df72b0c5fc33ca65ec0c303a095f108981482c9fb3cda5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cfa02aa8fabf89ea27fce628d3d63165255bbd66
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117829348"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166376"
 ---
 # <a name="tbn_dragover-notification-code"></a>\_Код уведомления ТБН DRAGOVER
 
@@ -49,7 +49,7 @@ TBN_DRAGOVER
 
 **Значение false** , если панель инструментов должна отправить \_ сообщение маркбуттон ТБ; в противном случае — **значение true**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

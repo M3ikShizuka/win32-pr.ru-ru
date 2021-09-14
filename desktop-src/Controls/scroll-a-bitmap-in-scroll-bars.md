@@ -5,11 +5,11 @@ ms.assetid: FA6FEA49-25EB-4C18-AD07-74BD77501906
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 3a01a93fbb005b75d7cd860bc8545c4e77a80767
-ms.sourcegitcommit: 5f33645661bf8c825a7a2e73950b1f4ea0f1cd82
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "104488357"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167047"
 ---
 # <a name="how-to-scroll-a-bitmap"></a>Прокрутка растрового изображения
 
@@ -17,18 +17,18 @@ ms.locfileid: "104488357"
 
 Пример включает пункт меню, который копирует содержимое экрана в растровое изображение и отображает его в клиентской области. В этом примере также обрабатываются сообщения [**WM \_ HSCROLL**](wm-hscroll.md) и [**WM \_ VSCROLL**](wm-vscroll.md) , формируемые полосами прокрутки, чтобы пользователь мог прокручивать растровое изображение горизонтально и вертикально. В отличие от примера для прокручиваемого текста, в примере точечного рисунка используется функция [**BitBlt**](/windows/desktop/api/wingdi/nf-wingdi-bitblt) для отрисовки недопустимой части клиентской области.
 
-## <a name="what-you-need-to-know"></a>Что необходимо знать
+## <a name="what-you-need-to-know"></a>Это важно знать
 
 ### <a name="technologies"></a>Технологии
 
--   [Элементы управления Windows](window-controls.md)
+-   [Windows Элементы управления](window-controls.md)
 
-### <a name="prerequisites"></a>Предварительные условия
+### <a name="prerequisites"></a>Предварительные требования
 
 -   C/C++
--   Программирование пользовательского интерфейса Windows
+-   Windows Программирование пользовательского интерфейса
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="processing-the-wm_create-message"></a>Обработка сообщения о \_ создании WM
 
@@ -397,16 +397,16 @@ LRESULT CALLBACK MyBitmapWindowProc(HWND hwnd, UINT uMsg, WPARAM wParam, LPARAM 
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Использование полос прокрутки](using-scroll-bars.md)
 </dt> <dt>
 
-[Демонстрация стандартных элементов управления Windows (Кппвиндовскоммонконтролс)](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/OneCodeTeam/Windows%20common%20controls%20demo%20(CppWindowsCommonControls)/%5BC++%5D-Windows%20common%20controls%20demo%20(CppWindowsCommonControls)/C++/CppWindowsCommonControls)
+[демонстрация Windows стандартных элементов управления (кппвиндовскоммонконтролс)](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/OneCodeTeam/Windows%20common%20controls%20demo%20(CppWindowsCommonControls)/%5BC++%5D-Windows%20common%20controls%20demo%20(CppWindowsCommonControls)/C++/CppWindowsCommonControls)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

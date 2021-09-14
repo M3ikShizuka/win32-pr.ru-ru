@@ -17,12 +17,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e3707a4e7b59811a99cb23ca4ebdbfc8bc2d285c2e8780502241beebb2f7485d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 490a64a21ec81c1c91cc34ec8bebd2995476db4f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118670551"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166952"
 ---
 # <a name="syslink-control-styles"></a>Стили элемента управления SysLink
 
@@ -41,7 +41,7 @@ ms.locfileid: "118670551"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ea54eefd2b9cc84b3aabe5dd600c5fcc32c7468cae01d1819b5fda7b631aeabd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d943259c5496757c0f15ca4127d0a5e6a4237fbe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118166387"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165936"
 ---
 # <a name="ttm_deltool-message"></a>\_Сообщение ТТМ делтул
 
@@ -45,7 +45,7 @@ ms.locfileid: "118166387"
 
 Нет возвращаемого значения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -58,17 +58,17 @@ ms.locfileid: "118166387"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**ТТМ \_ аддтул**](ttm-addtool.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Сведения об элементах управления ToolTip](tooltip-controls.md)

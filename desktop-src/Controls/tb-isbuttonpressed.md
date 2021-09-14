@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 187b7dd6c39fb972d53391dcbd67d7b45bb895a2e521fa8db22c2a7a411c05e4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: dfc2e6ec7b56ce205f3d89bc22a7c9dbbee90b1a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119503644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166695"
 ---
 # <a name="tb_isbuttonpressed-message"></a>\_Сообщение ИСБУТТОНПРЕССЕД ТБ
 
@@ -43,7 +43,7 @@ ms.locfileid: "119503644"
 
 Возвращает ненулевое значение, если кнопка нажата, или ноль в противном случае.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

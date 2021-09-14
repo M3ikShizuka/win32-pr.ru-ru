@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 105edd555a1da1ba037f7dda114e1d9f9ef53048c02a7cb11e1df1ff0c01ad2e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f7b515ccb5c283b66760f24c02749368e424e6fe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120060524"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165887"
 ---
 # <a name="ttm_hittest-message"></a>\_Сообщение ТТМ HITTEST
 
@@ -49,7 +49,7 @@ ms.locfileid: "120060524"
 
 Это сообщение должно быть отправлено, если для инструмента \_ установлен флаг «Track». Дополнительные сведения об этом флаге см. в разделе [**тулинфо**](/windows/win32/api/commctrl/ns-commctrl-tttoolinfoa). ТТМ \_ HITTEST завершится ошибкой \_ , если не задана программа TTF Track, независимо от того, находится ли точка попадания в прямоугольнике инструментов.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

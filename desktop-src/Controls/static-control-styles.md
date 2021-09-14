@@ -41,12 +41,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 972da9fc0a656f1106b2a33877783e1091a62659c03be28d65ad451a63491de3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2b5ce264341042231b3e48f03978f5dea201f9ca
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119797924"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167028"
 ---
 # <a name="static-control-styles"></a>Стили статических элементов управления
 
@@ -93,7 +93,7 @@ ms.locfileid: "119797924"
 
 Чтобы использовать стиль, который усекает слова или строки с многоточием для многострочного текста, [**дравсеметекст**](/windows/desktop/api/Uxtheme/nf-uxtheme-drawthemetext) или [**DrawText**](/windows/desktop/api/winuser/nf-winuser-drawtext) можно использовать для элемента управления прорисовки владельца с флагами форматирования **DT \_ специализированные** и **DT \_ енделлипсис** Set.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

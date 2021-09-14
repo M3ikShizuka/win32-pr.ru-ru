@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bcc30b8cd4cdb3a9d6f5e6123ec46df6565a0ccb19d3920fe67c50a57cd15fd3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 790f42ab977cfc0554c9a0eca737d541e001b6c9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118409184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167299"
 ---
 # <a name="rb_setbandwidth-message"></a>\_Сообщение СЕТБАНДВИДС RB
 
@@ -55,7 +55,7 @@ ms.locfileid: "118409184"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

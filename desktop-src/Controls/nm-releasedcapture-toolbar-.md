@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5df364d5a303ca5b62a435710c32cee5aa1e7bae7dc5c0f800c23c058b4dcfb7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d915b3af073ba0c6b5c74a7b13317f7b2d4ab8a3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118957973"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167883"
 ---
 # <a name="nm_releasedcapture-toolbar-notification-code"></a>\_Код уведомления "NM релеаседкаптуре (панель инструментов)"
 

@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 264c2b3810fc60e10e12e00328255398704d31199d5205513e4dbcdf0558aac0
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: bccbb6072ae84a238b60247daf6b81cfaa74e608
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120003274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167963"
 ---
 # <a name="invoke-method-of-the-cim_versioncompatibilitycheck-class"></a>Метод Invoke \_ класса CIM версионкомпатибилитичекк
 

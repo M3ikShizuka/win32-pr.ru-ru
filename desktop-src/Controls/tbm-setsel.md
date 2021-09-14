@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d055b317cc6db5e17edbe57bc57e6dbfe287274788718e8e2a920e1f25d9316b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2edebc6b6dcf3b0b93e3047a39aac74c34d121bd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117829336"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166428"
 ---
 # <a name="tbm_setsel-message"></a>\_Сообщение ТБМ сетсел
 
@@ -53,7 +53,7 @@ ms.locfileid: "117829336"
 
 **ТБМ \_ СЕТСЕЛ** позволяет ограничить указатель только частью диапазона, доступного индикатору выполнения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -65,11 +65,11 @@ ms.locfileid: "117829336"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**ТБМ \_ жетселенд**](tbm-getselend.md)

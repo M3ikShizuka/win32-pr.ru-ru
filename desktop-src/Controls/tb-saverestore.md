@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 94d04c16fda40bf66736431a684398eddf313529c669cc6db9ec49fbaad4f6f2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5e87e4ddbed87e81a88c8711c9931dcf95cf9e59
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118168032"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166667"
 ---
 # <a name="tb_saverestore-message"></a>\_Сообщение САВЕРЕСТОРЕ ТБ
 
@@ -55,7 +55,7 @@ ms.locfileid: "118168032"
 
 Версия 5,80 включает новый вариант сохранения и восстановления. В начале процесса и при сохранении или восстановлении каждой кнопки приложение получит уведомление [ТБН \_ Save](tbn-save.md) или [ТБН \_ RESTORE](tbn-restore.md) . Чтобы использовать этот параметр, необходимо реализовать обработчики уведомлений, чтобы предоставить оболочке сведения о битовой карте и состоянии, необходимые для успешного сохранения или восстановления состояния панели инструментов.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

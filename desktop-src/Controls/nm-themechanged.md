@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 069f4eb2b3727edc19c531f4404b723df2ea775677a25283268c1c20a978dedc
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3dab2a133da2ff1fed0949f2bc97ce294168febc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119877264"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167820"
 ---
 # <a name="nm_themechanged-notification-code"></a>\_Код уведомления семечанжед (NM)
 
@@ -49,7 +49,7 @@ NM_THEMECHANGED
 
 Возвращаемое значение игнорируется элементом управления.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

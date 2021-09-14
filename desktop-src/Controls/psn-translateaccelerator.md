@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7ca25ed7dd2a2fa2b11e0854f7fe9e4bb4afb9aa47ec52c21bc1c6e346ebf16d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9dc86866be1154bbd0ef1cf76b3535b7b02496e8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119914494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167432"
 ---
 # <a name="psn_translateaccelerator-notification-code"></a>\_Код уведомления PSN TRANSLATEACCELERATOR
 
@@ -53,7 +53,7 @@ PSN_TRANSLATEACCELERATOR
 
 Чтобы задать возвращаемое значение, процедура диалогового окна для страницы должна использовать функцию [**SetWindowLong**](/windows/desktop/api/winuser/nf-winuser-setwindowlonga) со \_ значением DWL мсгресулт. Процедура диалогового окна должна возвращать **значение true**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

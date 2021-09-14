@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: dfcd4bf71cfcbc36e098bc83568bdf519209ec82cc9889b6b5ec3934d349f737
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c9d870df628b06031374260c679f792f0b7218a5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120061144"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166447"
 ---
 # <a name="tbm_setrange-message"></a>\_Сообщение SETRANGE ТБМ
 
@@ -53,7 +53,7 @@ ms.locfileid: "120061144"
 
 Так как это сообщение принимает 2 16-разрядные целочисленные значения без знака, максимальный диапазон, который может указывать это сообщение, — от 0 до 65 535. Чтобы указать большие значения диапазона, используйте сообщения [**ТБМ \_ Сетранжемин**](tbm-setrangemin.md) и [**ТБМ \_ сетранжемакс**](tbm-setrangemax.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -65,11 +65,11 @@ ms.locfileid: "120061144"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**ТБМ \_ сетранжемакс**](tbm-setrangemax.md)

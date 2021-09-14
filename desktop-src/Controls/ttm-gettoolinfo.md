@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 77f19243603ab5d2ba62d498a5595528e39b33658c7a8e4aa0638888806684ab
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cc0de37b97be3bec495c8777b2ddd1cc6fc1bd42
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118166377"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165891"
 ---
 # <a name="ttm_gettoolinfo-message"></a>\_Сообщение ТТМ жеттулинфо
 
@@ -89,7 +89,7 @@ HRESULT MyToolTipClass::OffsetTooltip(int xOffset, int yOffset)
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

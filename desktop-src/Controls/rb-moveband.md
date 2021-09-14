@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2ab45f63b46b8bb883ef9f1fd8708f915dba2a6860ef2f6fabb09e2b00bd8fe6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 146103c4c3d70fc0514729a00eac152c4847b85c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119798544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167303"
 ---
 # <a name="rb_moveband-message"></a>\_Сообщение МОВЕБАНД RB
 
@@ -53,7 +53,7 @@ ms.locfileid: "119798544"
 
 значение *lParam* никогда не должно превышать число полос минус единица. Количество полос можно получить с помощью сообщения [**RB \_ жетбандкаунт**](rb-getbandcount.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

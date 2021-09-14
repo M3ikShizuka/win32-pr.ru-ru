@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 08c5df2f402f1b2de476a3d4748a69a4bb954ff2122855299f49ea1ddba37f7f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e198a48ae65f13be699b76a20c9f423cdb0da197
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119078278"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166735"
 ---
 # <a name="tb_hidebutton-message"></a>\_Сообщение ХИДЕБУТТОН ТБ
 
@@ -49,7 +49,7 @@ ms.locfileid: "119078278"
 
 Возвращает **значение true** , если успешно, или **false** в противном случае.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

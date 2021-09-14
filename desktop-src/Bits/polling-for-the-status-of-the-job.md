@@ -7,12 +7,12 @@ keywords:
 - опрос для битов состояния задания
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: af7f1f47a891968e686ae1ffc083bfa9b00d79c8bdc22e2c78ea523ef7ec707e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2df7fcde49d7359ff8cfa38326eba1e1e0bfeac5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119701724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167999"
 ---
 # <a name="polling-for-the-status-of-the-job"></a>Опрос состояния задания
 

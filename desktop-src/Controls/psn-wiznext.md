@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: dead2de1e21631b2b8e13cb54e3ee45d5d3bc29f2234380c31ec134c3790eae7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 145591b725548ffc4175541fd37db8f285533590
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118169634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167420"
 ---
 # <a name="psn_wiznext-notification-code"></a>\_Код уведомления PSN визнекст
 
@@ -94,7 +94,7 @@ case PSN_WIZBACK :
 
 Обратите внимание, что этот метод необходим только в том случае, если мастер удаляет страницы динамически. Если мастер добавляет только страницы динамически, этот процесс не является обязательным.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

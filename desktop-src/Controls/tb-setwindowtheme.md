@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d1f3f4ae5f6e7a3a05670a8ba9bfe533156e1ef3e6043ff2a039744da705da39
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9e0c293e974eee2e7827225efb06cc439fdf2c39
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119078128"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166548"
 ---
 # <a name="tb_setwindowtheme-message"></a>\_Сообщение SETWINDOWTHEME ТБ
 
@@ -52,7 +52,7 @@ ms.locfileid: "119078128"
 
 Отправка этого сообщения эквивалентна вызову [**SetWindowTheme**](/windows/desktop/api/Uxtheme/nf-uxtheme-setwindowtheme) на панели инструментов и ее элементе управления ToolTip, если таковой имеется.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

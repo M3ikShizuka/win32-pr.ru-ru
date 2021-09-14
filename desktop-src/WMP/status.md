@@ -1,22 +1,22 @@
 ---
-title: Состояние (пакет SDK для проигрывателя Windows Media)
+title: состояние (проигрыватель Windows Media SDK)
 description: Состояние
 ms.assetid: b8d6d026-819c-4889-a894-c82fe81ec922
 keywords:
-- Обложки мобильных устройств проигрывателя Windows Media, отображение состояния
+- проигрыватель Windows Media Обложки для мобильных устройств, отображение состояния
 - обложки, отображение состояния
 - Справочник по обложкам, отображению состояния
 - Отображение состояния в обложках, о
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 6f6f1cd9e0df209d6a37ed880765fd607e939765
-ms.sourcegitcommit: 8fa6614b715bddf14648cce36d2df22e5232801a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "104070945"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243097"
 ---
-# <a name="status-windows-media-player-sdk"></a>Состояние (пакет SDK для проигрывателя Windows Media)
+# <a name="status-windows-media-player-sdk"></a>состояние (проигрыватель Windows Media SDK)
 
 Вы можете использовать отображение состояния в обложке. Если это так, элемент Status должен быть определен в файле определения обложки. В качестве альтернативы можно также отобразить эти сведения с помощью атрибута Status в элементе text.
 
@@ -61,7 +61,7 @@ ms.locfileid: "104070945"
 
 Пример кода состояния см. в [разделе Sample Status](sample-status-section.md).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

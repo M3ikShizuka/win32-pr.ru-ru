@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5a4a28bcf4cffe9aa2559f96a990d23511ece9fbbfc65468f84a4a874dce678a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f4c789b45eaae6cb3b1bc4fed6f216ec5010b463
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119876454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166212"
 ---
 # <a name="tcm_setextendedstyle-message"></a>\_Сообщение СЕТЕКСТЕНДЕДСТИЛЕ TCM
 
@@ -53,7 +53,7 @@ ms.locfileid: "119876454"
 
 В целях обратной совместимости макрос [**табктрл \_ сетекстендедстиле**](/windows/desktop/api/Commctrl/nf-commctrl-tabctrl_setextendedstyle) не был обновлен для использования *двексмаск*.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -65,7 +65,7 @@ ms.locfileid: "119876454"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

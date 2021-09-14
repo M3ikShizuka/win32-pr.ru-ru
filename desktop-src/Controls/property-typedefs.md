@@ -1,17 +1,17 @@
 ---
-title: Идентификаторы свойств (элементы управления Windows)
+title: идентификаторы свойств (элементы управления Windows)
 description: Этот раздел содержит сведения об определенных значениях, используемых для получения свойств визуальных стилей. Определения находятся в Vssym32. h.
 ms.assetid: b0e22022-fea9-43d1-8ef0-7a1c518760f1
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: ed0869ac80332a5dbdb146ee255f5c9e73f4a812
-ms.sourcegitcommit: 8fa6614b715bddf14648cce36d2df22e5232801a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "103800610"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167607"
 ---
-# <a name="property-identifiers-windows-controls"></a>Идентификаторы свойств (элементы управления Windows)
+# <a name="property-identifiers-windows-controls"></a>идентификаторы свойств (элементы управления Windows)
 
 Этот раздел содержит сведения об определенных значениях, используемых для получения свойств визуальных стилей. Определения находятся в Vssym32. h.
 
@@ -30,7 +30,7 @@ ms.locfileid: "103800610"
 | \_имя файла ТМТ   | Имя файла относительно каталога темы | **WCHAR** массив                        | [**жетсемефиленаме**](/windows/desktop/api/Uxtheme/nf-uxtheme-getthemefilename)                                                                           |
 | \_Шрифт ТМТ       | Описание шрифта                         | Структура [**LOGFONT**](/windows/win32/api/wingdi/ns-wingdi-logfonta)   | [**Жетсемефонт**](/windows/desktop/api/Uxtheme/nf-uxtheme-getthemefont), [ **жетсемесисфонт**](/windows/desktop/api/Uxtheme/nf-uxtheme-getthemesysfont)                                       |
 | ТМТ \_ хбитмап    | Bitmap                                   | **Хбитмап** , обработчик                     | [**жетсемебитмап**](/windows/desktop/api/Uxtheme/nf-uxtheme-getthemebitmap)                                                                               |
-| ТМТ \_ int        | Номер со знаком                            | Целочисленный тип                                | [**Жетсемеинт**](/windows/desktop/api/Uxtheme/nf-uxtheme-getthemeint), [**жетсемесисинт**](/windows/desktop/api/Uxtheme/nf-uxtheme-getthemesysint), [**жетсемеметрик**](/windows/desktop/api/Uxtheme/nf-uxtheme-getthememetric) |
+| ТМТ \_ int        | Номер со знаком                            | Целое число                                | [**Жетсемеинт**](/windows/desktop/api/Uxtheme/nf-uxtheme-getthemeint), [**жетсемесисинт**](/windows/desktop/api/Uxtheme/nf-uxtheme-getthemesysint), [**жетсемеметрик**](/windows/desktop/api/Uxtheme/nf-uxtheme-getthememetric) |
 | ТМТ \_ Intl    | Список целых чисел                         | Структура [**Intl**](/windows/desktop/api/UxTheme/ns-uxtheme-intlist)   | [**жетсемеинтлист**](/windows/desktop/api/UxTheme/nf-uxtheme-getthemeintlist)                                                                             |
 | ТМТ \_ поля    | Поля: слева, сверху, справа и снизу    | Структура [**полей**](/windows/desktop/api/Uxtheme/ns-uxtheme-margins)   | [**жетсемемаргинс**](/windows/desktop/api/Uxtheme/nf-uxtheme-getthememargins)                                                                             |
 | ТМТное \_ расположение   | Расположение элемента                      | Структура [**точки**](/previous-versions//dd162805(v=vs.85))       | [**жетсемепоситион**](/windows/desktop/api/Uxtheme/nf-uxtheme-getthemeposition)                                                                           |

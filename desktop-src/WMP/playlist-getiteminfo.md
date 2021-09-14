@@ -3,9 +3,9 @@ title: Метод списка воспроизведения. getItemInfo
 description: Метод getItemInfo извлекает значение атрибута списка воспроизведения.
 ms.assetid: 888c0ab7-c225-4246-b1a1-94da7e19fa1a
 keywords:
-- getItemInfo метод Windows Media Player
-- getItemInfo метод Windows Media Player, класс списка воспроизведения
-- Класс списка воспроизведения проигрыватель Windows Media Player, метод getItemInfo
+- проигрыватель Windows Media метода getItemInfo
+- проигрыватель Windows Media метода getItemInfo, класс списка воспроизведения
+- класс списка воспроизведения проигрыватель Windows Media, метод getItemInfo
 topic_type:
 - apiref
 api_name:
@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 6b1151528d6cf4e36aaed1cb4dc48a70f4083c4e
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105647949"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243190"
 ---
 # <a name="playlistgetiteminfo-method"></a>Метод списка воспроизведения. getItemInfo
 
@@ -45,7 +45,7 @@ strRetVal = Playlist.getItemInfo(
 *имя* \[ окне\]
 </dt> <dd>
 
-**Строка** , содержащая имя извлекаемого атрибута. Сведения об атрибутах, поддерживаемых проигрывателем Windows Media, см. в [справочнике по атрибутам](attribute-reference.md)проигрывателя Windows Media.
+**Строка** , содержащая имя извлекаемого атрибута. дополнительные сведения об атрибутах, поддерживаемых проигрыватель Windows Media, см. в [справочнике по атрибуту](attribute-reference.md)проигрыватель Windows Media.
 
 </dd> </dl>
 
@@ -53,7 +53,7 @@ strRetVal = Playlist.getItemInfo(
 
 Этот метод возвращает **строку**.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Чтобы использовать этот метод, требуется доступ на чтение к библиотеке. Дополнительные сведения см. в разделе [доступ к библиотеке](library-access.md).
 
@@ -67,7 +67,7 @@ strRetVal = Playlist.getItemInfo(
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 7,0 или более поздней.<br/>                              |
+| Версия<br/> | проигрыватель Windows Media версии 7,0 или более поздней.<br/>                              |
 | DLL<br/>     | <dl> <dt>Wmp.dll</dt> </dl> |
 
 
@@ -82,10 +82,10 @@ strRetVal = Playlist.getItemInfo(
 [**Список воспроизведения. Сетитеминфо**](playlist-setiteminfo.md)
 </dt> <dt>
 
-[**Settings. Медиаакцессригхтс**](settings-mediaaccessrights.md)
+[**Параметры. медиаакцессригхтс**](settings-mediaaccessrights.md)
 </dt> <dt>
 
-[**Settings. Рекуестмедиаакцессригхтс**](settings-requestmediaaccessrights.md)
+[**Параметры. рекуестмедиаакцессригхтс**](settings-requestmediaaccessrights.md)
 </dt> </dl>
 
  

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b3cda5e85b138225d69e159792cbe641122e91bf9602b3e0f5edafa419edc3c3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: df61676104169e3084e7cde09439c218f2237e60
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119876094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166148"
 ---
 # <a name="tdm_click_verification-message"></a>TDM \_ щелкните \_ сообщение о проверке
 
@@ -47,7 +47,7 @@ ms.locfileid: "119876094"
 
 Возвращаемое значение игнорируется.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

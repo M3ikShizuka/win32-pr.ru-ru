@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c92b0f42924468ad9bb75766b4dd847902a363259519b466962e294d26fc23c5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 956ec0e9311e789de867cca38098221a7291c6fd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118335686"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127243136"
 ---
 # <a name="playliststatustextcolor"></a>Список воспроизведения. Статустекстколор
 
@@ -31,7 +31,7 @@ ms.locfileid: "118335686"
 
 Этот атрибут является **строкой** для чтения и записи, представляющей цвет. Значение по умолчанию — None.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "118335686"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

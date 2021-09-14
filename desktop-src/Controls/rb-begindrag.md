@@ -3,7 +3,7 @@ title: Сообщение RB_BEGINDRAG (Коммктрл. h)
 description: Помещает элемент управления главной панели в режим перетаскивания. Это сообщение не приводит к \_ отправке уведомления РБН бегиндраг.
 ms.assetid: 1e3e4928-cb84-4fd4-8056-84de1f791d1c
 keywords:
-- Элементы управления Windows для RB_BEGINDRAG сообщений
+- элементы управления Windows сообщений RB_BEGINDRAG
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 41865baa2bf6c640595296be9c157201d0cc16d4
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104491781"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167411"
 ---
 # <a name="rb_begindrag-message"></a>\_Сообщение БЕГИНДРАГ RB
 
@@ -47,7 +47,7 @@ ms.locfileid: "104491781"
 
 Возвращаемое значение для этого сообщения не используется.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Сообщения **RB \_ бегиндраг**, [**RB \_ драгмове**](rb-dragmove.md)и [**RB \_ енддраг**](rb-enddrag.md) позволяют реализовать интерфейс [**интерфейс IDropTarget**](/windows/desktop/api/oleidl/nn-oleidl-idroptarget) для элемента управления "Главная панель". Вы отправляете **сообщение \_ RB бегиндраг** в ответ на [**интерфейс IDropTarget::D ражентер**](/windows/desktop/api/oleidl/nf-oleidl-idroptarget-dragenter), отправляете сообщение **RB \_ Драгмове** в ответ на [**интерфейс IDropTarget::D Раговер**](/windows/desktop/api/oleidl/nf-oleidl-idroptarget-dragover), а сообщение **RB \_ Енддраг** в ответ на [**интерфейс IDropTarget::D верхнем**](/windows/desktop/api/oleidl/nf-oleidl-idroptarget-drop) и [**интерфейс IDropTarget::D раглеаве**](/windows/desktop/api/oleidl/nf-oleidl-idroptarget-dragleave).
 
@@ -57,9 +57,9 @@ ms.locfileid: "104491781"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

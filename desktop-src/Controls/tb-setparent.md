@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cd97cdab230317feea65f2bffce74a7dec34ee336d69bb46ec4c6963ca9b3eff
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f8137406c8e6854f86ed81d8d6b96293074ae67b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119078148"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166575"
 ---
 # <a name="tb_setparent-message"></a>\_Сообщение СЕТПАРЕНТ ТБ
 
@@ -47,7 +47,7 @@ ms.locfileid: "119078148"
 
 Сообщение **\_ Сетпарент в ТБ** не изменяет родительское окно, указанное при создании элемента управления. Вызов функции [**"**](/windows/desktop/api/winuser/nf-winuser-getparent) noreturn" для элемента управления ToolBar возвратит фактическое родительское окно, а не окно, указанное **в \_ сетпарент ТБ**. Чтобы изменить родительское окно элемента управления, вызовите функцию [**сетпарент**](/windows/desktop/api/winuser/nf-winuser-setparent) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

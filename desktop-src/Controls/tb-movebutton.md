@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 857592f852b21d656be2a4ad5b59f691db9ac391f66960b98a70db138ea69f2b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8dac4cd303e895998b12e710910432ba2c38b230
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118168044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166683"
 ---
 # <a name="tb_movebutton-message"></a>\_Сообщение МОВЕБУТТОН ТБ
 
@@ -47,7 +47,7 @@ ms.locfileid: "118168044"
 
 Возвращает ненулевое значение в случае успеха или ноль в противном случае.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ ms.locfileid: "118168044"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

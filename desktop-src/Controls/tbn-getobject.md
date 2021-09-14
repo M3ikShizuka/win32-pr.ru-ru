@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c50f3d403089ca7db42ab89232e57d68121424c066914c534ba13a826adb8ea3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 1ed144245e351ca4e872128e68fe658bde7c0066
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119876734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166343"
 ---
 # <a name="tbn_getobject-notification-code"></a>\_Код уведомления ТБН GetObject
 
@@ -55,7 +55,7 @@ TBN_GETOBJECT
 
 Если приложение не предоставляет объект, оно должно установить для **объект** **значение NULL** , а для **hResult** — флаг сбоя.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

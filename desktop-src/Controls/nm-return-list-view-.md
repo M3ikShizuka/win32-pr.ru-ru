@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d230315d09bf56a7a139b5cb089cdcd177bf21128f2407859e1c010abc6d6766
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 9b221189ced0e351f088493f00fa7b8849717668
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119816374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167860"
 ---
 # <a name="nm_return-list-view-notification-code"></a>\_Код уведомления "NM return" (представление списка)
 
@@ -49,7 +49,7 @@ NM_RETURN
 
 Возвращаемое значение для этого уведомления не используется.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

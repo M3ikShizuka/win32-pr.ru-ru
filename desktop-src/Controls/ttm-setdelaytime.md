@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2dd5b4f3d20cd99872adeeb66776d71a1e4125a066890a3bab4793caf04de8f2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 43b633dc75baa0a8f385cf8cdb9bf7e9fa254809
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119914074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165867"
 ---
 # <a name="ttm_setdelaytime-message"></a>\_Сообщение ТТМ сетделайтиме
 
@@ -75,7 +75,7 @@ reshow = GetDoubleClickTime() / 5;
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -87,7 +87,7 @@ reshow = GetDoubleClickTime() / 5;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

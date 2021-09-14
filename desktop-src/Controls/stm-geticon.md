@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d33aab01e668f4b77e36a0a62b8eab75f3ee5db82188416c295c04cdf9bcb078
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f64f55d2a2f8315b99526e51a69891f6f0056e8b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120084954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167007"
 ---
 # <a name="stm_geticon-message"></a>\_Сообщение STM
 
@@ -47,7 +47,7 @@ ms.locfileid: "120084954"
 
 Возвращаемое значение является обработчиком значка или **null** , если статический элемент управления не имеет связанного значка или если произошла ошибка.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ ms.locfileid: "120084954"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

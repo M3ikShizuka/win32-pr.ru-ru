@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5a08cafbeafeccb2235cb9b653f997aa8c60bd5fd21a3ccbc92e572fa5d3d0db
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 08195cddc96c8b92f403be6940f31099e21151f1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120088564"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167496"
 ---
 # <a name="psm_setfinishtext-message"></a>\_Сообщение ПСМ сетфиништекст
 
@@ -53,7 +53,7 @@ ms.locfileid: "120088564"
 
 По умолчанию кнопка **"Готово"** не имеет сочетания клавиш. Вы можете создать сочетание клавиш с помощью этого сообщения, включив амперсанд (&) в текстовую строку, назначенную для *lParam*. Например, "&Finish" определяет F в качестве сочетания клавиш.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -16,12 +16,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 77c76ad276f6cb6dfc12bc272fbbc86c83617a0d00d36d77cf2ab0ca113811d7
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fec99bb4d91bde86d901c0e7ed4761bafd15f3a5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119919454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166975"
 ---
 # <a name="str_getptr-function"></a>Str \_ жетптр, функция
 
@@ -87,7 +87,7 @@ int WINAPI Str_GetPtr(
 
 **Str \_ Жетптр** доступен в виде версий ANSI (**str \_ Жетптра**) и Unicode (**str \_ жетптрв**). Эти функции не экспортируются по имени или объявляются в общедоступном файле заголовка. Чтобы использовать их, необходимо использовать [**GetProcAddress**](/windows/desktop/api/libloaderapi/nf-libloaderapi-getprocaddress) и запросить порядковый номер 233 (**str \_ жетптра**) или 235 (**str \_ жетптрв**) из ComCtl32.dll, чтобы получить указатель на функцию.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

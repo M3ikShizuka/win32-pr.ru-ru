@@ -18,11 +18,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 71e242426269d4049b913a41910d325c360886f3
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122476789"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166011"
 ---
 # <a name="toolbar-extended-styles"></a>Расширенные стили панели инструментов
 
@@ -43,7 +43,7 @@ ms.locfileid: "122476789"
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Чтобы задать расширенный стиль, отправьте на панель инструментов сообщение [**\_ Сетекстендедстиле (ТБ**](tb-setextendedstyle.md) ). Чтобы определить, какие расширенные стили в настоящее время заданы, отправьте сообщение [**\_ Жетекстендедстиле в ТБ**](tb-getextendedstyle.md) .
 

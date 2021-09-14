@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a7c3c17714218562d7ddc82497a7ef27e131e30a2ff04daf36970dfbcf5cc354
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 58002006944a221571e37c37d25259d0aaa74fc4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117829105"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166228"
 ---
 # <a name="tcm_insertitem-message"></a>\_Сообщение INSERTITEM TCM
 
@@ -49,7 +49,7 @@ ms.locfileid: "117829105"
 
 Возвращает индекс новой вкладки, если она выполнена успешно, или значение-1 в противном случае.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

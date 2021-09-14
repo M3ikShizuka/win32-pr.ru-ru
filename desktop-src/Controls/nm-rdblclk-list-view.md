@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9c0197659f89392d352e2500d37cbda9dadee5487c5ee180123f502d127925a9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 41832b228fe40b212c0aba809b15022c6f7b39ce
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118957993"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167931"
 ---
 # <a name="nm_rdblclk-list-view-notification-code"></a>\_Код уведомления NM рдблклк (представление списка)
 
@@ -53,7 +53,7 @@ NM_RDBLCLK
 
 Член **Член iItem** класса *lParam* допустим только в том случае, если была нажата метка значка или первого столбца. Чтобы определить, какой элемент выбран при нажатии на другое место в строке, отправьте сообщение [**LVM \_ субитемхиттест**](lvm-subitemhittest.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

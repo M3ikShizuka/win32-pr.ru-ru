@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d0843039e94d5da7d14a5a9daa01cd83705a34df549ed5bf67f42a48ff4942e7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 327dd853e3304f8233b95c947a890c4f49298cc7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119542842"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165843"
 ---
 # <a name="ttm_settoolinfo-message"></a>\_Сообщение ТТМ сеттулинфо
 

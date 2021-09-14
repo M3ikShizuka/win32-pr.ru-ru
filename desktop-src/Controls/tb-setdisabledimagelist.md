@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9125c5e5ac742f4692fc5464cd51c89e111558c4d0004e08d7cef9c862d03cbb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a7cc8c9ec1fdc9658413da5991fa109e7bef27a6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118167494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166628"
 ---
 # <a name="tb_setdisabledimagelist-message"></a>\_Сообщение СЕТДИСАБЛЕДИМАЖЕЛИСТ ТБ
 
@@ -43,7 +43,7 @@ ms.locfileid: "118167494"
 
 Возвращает маркер списка изображений, который ранее использовался для вывода отключенных кнопок, или **значение NULL** , если список изображений ранее не был задан.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

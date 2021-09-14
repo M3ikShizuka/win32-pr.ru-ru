@@ -21,12 +21,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f5adb0371e3796c5d512ff3582a5c65850dc6cf8261f138934d46640aa57bf28
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ef4a19306855b7f38d03aa00323b26407f108bfe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120045964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165971"
 ---
 # <a name="tree-view-control-item-states"></a>Состояния элементов элемента управления Tree-View
 
@@ -59,7 +59,7 @@ ms.locfileid: "120045964"
 
 Эти значения также можно использовать для маскирования битов состояния, которые не представляют интереса.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

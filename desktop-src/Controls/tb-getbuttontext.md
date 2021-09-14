@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2ec63815886ecc32f8f0b0759b9f6a8cf847bfe56e6c898fd6e3a3ae8e0f40ac
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0ac0b238574cc136f41959b57f3f0e1ec13e3ea1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117829770"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166844"
 ---
 # <a name="tb_getbuttontext-message"></a>\_Сообщение ЖЕТБУТТОНТЕКСТ ТБ
 
@@ -55,7 +55,7 @@ ms.locfileid: "117829770"
 
 Возвращаемая строка соответствует тексту, который в данный момент отображается кнопкой.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ ms.locfileid: "117829770"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

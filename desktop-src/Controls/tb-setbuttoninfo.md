@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8e9fa1da0f9556c025b83ac2b3345680fe11dac0dd15e202ed7336cacfe511e1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 70612a90f245a25dde5a487917d7c3b669424ea8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117829628"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166659"
 ---
 # <a name="tb_setbuttoninfo-message"></a>\_Сообщение СЕТБУТТОНИНФО ТБ
 
@@ -53,7 +53,7 @@ ms.locfileid: "117829628"
 
 Текст обычно назначается кнопкам при их добавлении на панель инструментов путем указания индекса строки в пуле строк панели инструментов. Если для назначения нового текста кнопке используется **\_ сетбуттонинфо ТБ** , она будет окончательно переопределять текст из пула строк. Вы можете изменить текст, вызвав **\_ сетбуттонинфо ТБ** еще раз, но нельзя переназначить строку из пула строк.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -66,11 +66,11 @@ ms.locfileid: "117829628"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**\_АДДБУТТОНС ТБ**](tb-addbuttons.md)

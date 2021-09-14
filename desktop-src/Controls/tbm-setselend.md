@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b9ee524bf6a519a7d0071e4149ed03191a9aec989e2deefe596cca1072dbd098
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 146446df4daf8e8ac7c0f3499149ba0f46940880
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118167069"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166427"
 ---
 # <a name="tbm_setselend-message"></a>\_Сообщение ТБМ сетселенд
 
@@ -47,7 +47,7 @@ ms.locfileid: "118167069"
 
 Нет возвращаемого значения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,11 +59,11 @@ ms.locfileid: "118167069"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**ТБМ \_ жетселенд**](tbm-getselend.md)

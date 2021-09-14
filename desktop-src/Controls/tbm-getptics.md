@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1f67bc6f1e5f67f262559d1c63401f1c19f8680798beae92d8847d4908f7cbe2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1d5d81e67156c0118310017413b8e73714246b7f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119078078"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166503"
 ---
 # <a name="tbm_getptics-message"></a>\_Сообщение ТБМ жетптикс
 
@@ -43,7 +43,7 @@ ms.locfileid: "119078078"
 
 Число элементов в массиве меньше, чем число тактов, возвращенное сообщением [**ТБМ \_ жетнумтикс**](tbm-getnumtics.md) . Обратите внимание, что значения в массиве могут включать в себя дубликаты позиций и могут не находиться в последовательном порядке. Возвращаемый указатель действителен до тех пор, пока не будут изменены деления TrackBar.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

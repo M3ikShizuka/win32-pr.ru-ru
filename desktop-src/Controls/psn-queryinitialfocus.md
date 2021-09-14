@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ffc82fe11893e728fbc9301868d9acdca5f7110bedfd37b4a16b473de0821f33
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bc542332440009f6564f384b415657e725edda00
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118169644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167439"
 ---
 # <a name="psn_queryinitialfocus-notification-code"></a>\_Код уведомления PSN куеринитиалфокус
 
@@ -69,7 +69,7 @@ case PSN_QUERYINITIALFOCUS :
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

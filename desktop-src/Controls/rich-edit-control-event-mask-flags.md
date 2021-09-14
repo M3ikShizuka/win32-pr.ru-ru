@@ -29,12 +29,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 92fe4be97a1288012b6a692f8837388e5eb4c99b465f1f34bb37d47ea0d44f28
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 006a6d82e7aa4958b03360d05d29a78564f99db7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119434804"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127167171"
 ---
 # <a name="rich-edit-control-event-mask-flags"></a>Флаги Маски событий элемента управления Rich Edit
 
@@ -69,7 +69,7 @@ ms.locfileid: "119434804"
 
 Маска событий по умолчанию — ЕНМ \_ None, в этом случае уведомления не отправляются в родительское окно. Можно получить и задать маску событий для элемента управления Rich Edit с помощью сообщений [**EM \_ GETEVENTMASK**](em-geteventmask.md) и [**EM \_ SETEVENTMASK**](em-seteventmask.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

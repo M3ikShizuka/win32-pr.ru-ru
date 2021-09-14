@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 58c6a07c186fd3f5a521719ba0f75f8e468c3868d8ebfaa0595679d48b45089f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0b4ed278ea31dfa156dcc8a64afdb98a2ae3b938
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118167504"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166636"
 ---
 # <a name="tb_setcolorscheme-message"></a>\_Сообщение СЕТКОЛОРСЧЕМЕ ТБ
 
@@ -49,7 +49,7 @@ ms.locfileid: "118167504"
 
 Если стили оформления включены, это сообщение не действует.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ ms.locfileid: "118167504"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

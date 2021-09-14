@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0adaf5ecf05b22e3ff33aa88e28cb3f8f8c8b78f0b06d2127792b7639942bf7f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: edd79406eb59f9bafd93269f8982db6213ef882c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119875774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166075"
 ---
 # <a name="tdn_hyperlink_clicked-notification-code"></a>\_ \_ Код уведомления щелчка по ГИПЕРССЫЛКе ТДН
 
@@ -57,7 +57,7 @@ TDN_HYPERLINK_CLICKED
 
 Возвращаемое значение игнорируется.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

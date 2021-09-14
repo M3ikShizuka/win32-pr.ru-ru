@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 849bbb0e661c9e8afe246894d2d2f59d99d15a3f096ad2295a7018cf3df26ca4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 890a24239ff2257ffaccff6613b3765711b2ef7b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119543884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166627"
 ---
 # <a name="tb_setdrawtextflags-message"></a>\_Сообщение СЕТДРАВТЕКСТФЛАГС ТБ
 
@@ -51,7 +51,7 @@ ms.locfileid: "119543884"
 
 Параметр *wParam* позволяет указать, какие флаги будут использоваться при рисовании текста, даже если эти флаги отключены. Например, если не нужно, \_ чтобы флаг центра DT использовался при рисовании текста, необходимо добавить в \_ *wParam* флаг «центр DT» и не указывать в параметре \_ *lParam* флаг «центр DT». Это предотвращает передачу элементом управления \_ флага центра DT в функцию [**DrawText**](/windows/desktop/api/winuser/nf-winuser-drawtext) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

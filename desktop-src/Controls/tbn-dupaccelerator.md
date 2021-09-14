@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a0ff0059a6071db79cab91fcf903a1e68f3550c766b3d16cd3571c3a785e7368
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4e530fa2101f8145148b7ede7d74f53a1828fa58
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117829337"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166368"
 ---
 # <a name="tbn_dupaccelerator-notification-code"></a>\_Код уведомления ТБН дупакцелератор
 
@@ -62,7 +62,7 @@ typedef struct tagNMTBDUPACCELERATOR
 } NMTBDUPACCELERATOR, *LPNMTBDUPACCELERATOR;
 ```
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

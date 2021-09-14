@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4c7894bdc5831af2c1fe2e779679aaab38eab94f976cf9c586dfe64d26a051b8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 56fc86e0e4fe457a43e035ed5d568e91303c7fcd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120104634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166132"
 ---
 # <a name="tdm_navigate_page-message"></a>TDM \_ переходить к \_ сообщению страницы
 
@@ -53,7 +53,7 @@ ms.locfileid: "120104634"
 
 Макет диалогового окна задачи может завершиться ошибкой, и это может не отражаться в возвращаемом значении. Возвращаемое значение S " \_ ОК" отражает только то, что диалоговое окно задачи получило сообщение и попыталось обработать его. Если происходит сбой макета диалогового окна задачи (диалоговое окно задачи не может быть отображено), диалоговое окно закроется и в зарегистрированной функции обратного вызова будет возвращен код **HRESULT** . Дополнительные сведения о синтаксисе функции обратного вызова см. в разделе [*таскдиалогкаллбаккпрок*](/windows/win32/api/commctrl/nc-commctrl-pftaskdialogcallback).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

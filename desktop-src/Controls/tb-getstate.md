@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: de1757cfd71427904dc7060cc0084c64b82f143e1a8db666e40fe9e08c64c7ea
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b3b5c50978da78218be7f3d47208c0ea430ff36c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118168240"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166764"
 ---
 # <a name="tb_getstate-message"></a>\_Сообщение о состоянии ТБ
 
@@ -43,7 +43,7 @@ ms.locfileid: "118168240"
 
 Возвращает сведения о состоянии кнопки, если они успешно, или значение-1 в противном случае. Сведения о состоянии кнопки могут представлять собой сочетание значений, перечисленных в поле [**состояния кнопки на панели инструментов**](toolbar-button-states.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

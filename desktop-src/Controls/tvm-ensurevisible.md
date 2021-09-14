@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c1072c7213eb2172896980662bcd7a22a3c41fccf34eea2f7a107ab7ff894b32
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 06100ee33106736076608aa216d2aebc03b76ebe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119797254"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127165783"
 ---
 # <a name="tvm_ensurevisible-message"></a>\_Сообщение TVM енсуревисибле
 
@@ -47,7 +47,7 @@ ms.locfileid: "119797254"
 
 Если сообщение TVM \_ енсуревисибле расширяет родительский элемент, родительское окно получает коды уведомлений [ТВН \_ итемекспандинг](tvn-itemexpanding.md) и [ТВН \_ итемекспандед](tvn-itemexpanded.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 420f06e71c6920c266c96d8b2580549fa0eaace2bd3abdd37524502d4039aa7b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2544eae629876e4527ea4e47477b50ea59b796c8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119078288"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127166736"
 ---
 # <a name="tb_hasaccelerator-message"></a>\_Сообщение ХАСАКЦЕЛЕРАТОР ТБ
 
@@ -49,7 +49,7 @@ ms.locfileid: "119078288"
 
 Возвращаемое значение не используется.
 
-## <a name="security-considerations"></a>Соображения безопасности
+## <a name="security-considerations"></a>Вопросы безопасности
 
 Использование этого сообщения может нарушить безопасность программы.
 
@@ -57,7 +57,7 @@ ms.locfileid: "119078288"
 
 Сначала система запрашивает все кнопки панели инструментов для соответствующих сочетаний клавиш. Если совпадений не найдено, система отправляет уведомление [ТБН \_ мапакцелератор](tbn-mapaccelerator.md) в родительское окно, запрашивая индекс кнопки с указанным символом ускорителя. Если родительский объект предоставляет индекс, то счетчику присваивается значение 1.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
