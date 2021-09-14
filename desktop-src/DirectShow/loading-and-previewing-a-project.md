@@ -4,12 +4,12 @@ ms.assetid: 2385f898-e8ec-425f-8d86-eadbf96bf06d
 title: Загрузка и предварительный просмотр Project
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 81cc5ff67b34aa40fbfe469f29994d772acf94495d1d8b60d290750e099eaf41
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9e23b0b970812cba5220b0f1fa9ebc649675371d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119791644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055445"
 ---
 # <a name="loading-and-previewing-a-project"></a>Загрузка и предварительный просмотр Project
 
@@ -23,7 +23,7 @@ ms.locfileid: "119791644"
 -   [Предварительный просмотр Project](previewing-the-project.md)
 -   [предварительный просмотр Project: пример кода](previewing-a-project--example-code.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

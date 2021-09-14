@@ -11,12 +11,12 @@ keywords:
 - Объект списка воспроизведения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0f2acb01de41b753a85fee1c69e0bf015c687da04f50a10531ee5c67b0a13cc7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7fd9c6301e33307fc49e50b8aa9042752e020e32
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118340923"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056426"
 ---
 # <a name="device-extensions-for-playlist-object-preferences"></a>Расширения устройств для параметров объектов списков воспроизведения
 
@@ -67,11 +67,11 @@ ms.locfileid: "118340923"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Реализация этой функции является необязательной для портативных устройств. проигрыватель Windows Media синхронизирует обычные объекты списков воспроизведения, объекты списков воспроизведения для синхронизации запасов и неявно созданные объекты списков воспроизведения по умолчанию.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

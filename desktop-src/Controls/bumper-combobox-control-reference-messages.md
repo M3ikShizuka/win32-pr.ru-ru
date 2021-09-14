@@ -4,16 +4,16 @@ description: Сообщения элемента управления ComboBox
 ms.assetid: 3de97027-e0c8-4199-a6ef-a8f096b118fd
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 899459beae1da1214134df783a02c5fa722ceed7b945f92b5ab3e44d9113f501
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 755d896408734b7f51778235cb11b2022bbe8bf2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118171855"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251239"
 ---
 # <a name="combobox-control-messages"></a>Сообщения элемента управления ComboBox
 
-## <a name="in-this-section"></a>В этом разделе
+## <a name="in-this-section"></a>в этом разделе
 
 -   [**\_ADDSTRING CB**](cb-addstring.md)
 -   [**\_ДЕЛЕТЕСТРИНГ CB**](cb-deletestring.md)

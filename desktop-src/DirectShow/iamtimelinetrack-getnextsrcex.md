@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 438fcdbf4f95406994f5bf0cc63ebf5b5f600a9908419b63c4ceace65dfa9659
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 274a4f6800d995e2b456dbd55adf81cf82aa84a9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118952803"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891861"
 ---
 # <a name="iamtimelinetrackgetnextsrcex-method"></a>Метод Иамтимелинетракк:: Жетнекстсрцекс
 
@@ -64,7 +64,7 @@ HRESULT GetNextSrcEx(
 
 Возвращает \_ значение ОК, если метод получает источник, или \_ false в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если метод возвращает значение " \_ ОК", возвращаемый им интерфейс **иамтимелинеобж** имеет необработанный счетчик ссылок. Не забудьте освободить интерфейс по завершении его использования.
 

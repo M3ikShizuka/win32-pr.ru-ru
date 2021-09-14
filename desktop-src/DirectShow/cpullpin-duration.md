@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: fdc944400bc80fbd5228ac06e2ba1c01f7315305071f7a24c0b38eb125ee1399
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ecd05478f67934368aa6d1de84ae32a209ddcad6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119767984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055562"
 ---
 # <a name="cpullpinduration-method"></a>Кпуллпин. Duration, метод
 
@@ -53,11 +53,11 @@ HRESULT Duration(
 
 Возвращает значение S \_ ОК.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 длительность не определена до вызова метода [**кпуллпин:: Подключение**](cpullpin-connect.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ HRESULT Duration(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

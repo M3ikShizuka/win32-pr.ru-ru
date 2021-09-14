@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: f7ba60f3365ba2f1a8ea00579e8c2eb51c9d6aa32843e7603d0d26c2747c97c9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9861d930cdb2d93e5e0b73ffad625885c082cb6f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119017392"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971962"
 ---
 # <a name="cbasecontrolwindowget_top-method"></a>Кбасеконтролвиндов. Get, \_ метод Top
 
@@ -53,13 +53,13 @@ HRESULT get_Top(
 
 Возвращает значение **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Окно располагается на рабочем столе. Это выражение выражается в пикселях на четыре координаты (слева, сверху, справа и снизу). Интерфейсы, автоматически создаваемые OLE, обычно выражают эту точку по левому краю, по верхнему краю, по ширине и высоте. Это соглашение, используемое в DirectShow. Все координаты выражаются в пикселях, и изменение любой координаты приведет к немедленному обновлению окна.
 
 Установка координат Left или Top перемещает окно влево или вверх соответственно; Эти координаты не влияют на ширину и высоту окна. Аналогично, установка ширины и высоты не влияет на координаты левой и верхней точек.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ HRESULT get_Top(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

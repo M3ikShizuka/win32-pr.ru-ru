@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 4592c92c4c40f9fff8294ea546601654afd0111e38fd9f64473512c27b6f1a34
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a63031968a2dfb43d98f9b7f59bd2d9051042732
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118400855"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053887"
 ---
 # <a name="iamtimelineobjsettimelinetype-method"></a>Метод Иамтимелинеобж:: Сеттимелинетипе
 
@@ -56,7 +56,7 @@ HRESULT SetTimelineType(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.

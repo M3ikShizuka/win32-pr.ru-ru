@@ -4,12 +4,12 @@ ms.assetid: fd75eb54-eefe-411f-a7aa-0bc8628f8778
 title: Олицетворение и делегирование клиента
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3f8b0262f3d8dd6736d183fa76eb5d3f0946d50b2724e76bcea73843644aaefb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7557dcde4cadf559dd8e116cf4e7bece4221aaae
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119129376"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971277"
 ---
 # <a name="client-impersonation-and-delegation"></a>Олицетворение и делегирование клиента
 

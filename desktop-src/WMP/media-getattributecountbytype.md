@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 222f92a57ba9fbcd9971a5536be5f31078e2e09373fb1d168a7074911b027d79
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 613dca43c32322cd5e7de2b2b04605789009cbf6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120123453"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056382"
 ---
 # <a name="mediagetattributecountbytype-method"></a>Метод Media. Жетаттрибутекаунтбитипе
 
@@ -61,7 +61,7 @@ retVal = Media.getAttributeCountByType(
 
 Этот метод возвращает **число** (**Long**), содержащее число атрибутов.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод используется для определения количества атрибутов, соответствующих определенному имени атрибута для данного объекта **мультимедиа** . Номера индексов можно передать в метод **жетитеминфобитипе** . Это полезно, например, когда элемент мультимедиа был разбит на несколько жанров.
 
@@ -80,7 +80,7 @@ retVal = Media.getAttributeCountByType(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

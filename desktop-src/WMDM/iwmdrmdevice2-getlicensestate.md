@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e068d537f460053800b0d52d667ba39b0577d717b08f83794a73b2bf8c854aeb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d075d123ae99b26767621fb1a958cd172bc9e42c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119055702"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056460"
 ---
 # <a name="iwmdrmdevice2getlicensestate-method"></a>Метод IWMDRMDevice2:: Жетлиценсестате
 
@@ -104,7 +104,7 @@ HRESULT GetLicenseState(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -115,7 +115,7 @@ HRESULT GetLicenseState(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

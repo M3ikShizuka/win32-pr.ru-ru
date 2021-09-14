@@ -20,12 +20,12 @@ keywords:
 - подключаемые модули, о
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 57e8b19b035f0210b7928dcc42c19d9519a63fe4eac3e5adaeded780c9d4c729
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a2b167e8244fb6f03a584dfb71255eabfa359c8e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120004814"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249700"
 ---
 # <a name="windows-media-device-manager-11-sdk"></a>Windows Пакет SDK для Media диспетчер устройств 11
 
@@ -55,7 +55,7 @@ ms.locfileid: "120004814"
 | [Начало работы](getting-started.md)             | описание новых возможностей в этой версии Windows media диспетчер устройств, а также общие сведения о работе Windows media диспетчер устройств, описание того, что потребуется для разработки приложения или поставщика услуг, а также описание примеров, поставляемых с пакетом SDK. |
 | [Руководство по программированию](programming-guide.md)         | Описывает, как создавать приложения и поставщики служб.                                                                                                                                                                                                      |
 | [Справочник по программированию](programming-reference.md) | содержит справочные сведения по C++ для интерфейсов, методов, классов и структур, поддерживаемых пакетом SDK для Windows Media диспетчер устройств.                                                                                                                      |
-| [*Словарь терминов*](wmdm-glossary.md)                    | Определяет термины, используемые в этой документации.                                                                                                                                                                                                                       |
+| [*Глоссарий*](wmdm-glossary.md)                    | Определяет термины, используемые в этой документации.                                                                                                                                                                                                                       |
 
 
 

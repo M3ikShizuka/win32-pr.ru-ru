@@ -6,12 +6,12 @@ keywords:
 - составной результат
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f8cf326e5d0bfb33b3dc927ba7366eb6d2b343a1a50db462de58fac8ef648bef
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a9872a66d031e8307f911ec7270af81397a80276
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117826586"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164184"
 ---
 # <a name="composite-effect"></a>Составной результат
 
@@ -27,7 +27,7 @@ ms.locfileid: "117826586"
 -   [Свойства эффектов](#effect-properties)
 -   [Типы режимов](#mode-types)
 -   [Образец кода](#sample-code)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example-image"></a>Пример изображения
@@ -115,11 +115,11 @@ m_d2dContext->EndDraw();
 
 ![Пример изображения для каждого из режимов с непрозрачностью, равным 1,0 или 0,5.](images/composite-types.png)
 
-## <a name="sample-code"></a>Пример кода
+## <a name="sample-code"></a>Образец кода
 
 Чтобы получить пример этого результата, скачайте [образец Direct2D составных эффектов](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/Direct2D%20composite%20effect%20modes%20sample).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 61da18a85935c2c7e7b9ff246347c7a52059f78900b5a7b7b51c76f09780b955
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3cc63ed3cafd676a0d865953c52a14e6247d4b70
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118420324"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968866"
 ---
 # <a name="compress-method-of-the-cim_datafile-class"></a>Метод сжатия \_ класса CIM File
 
@@ -61,7 +61,7 @@ uint32 Compress();
 **2**
 </dt> <dd>
 
-Доступ запрещен.
+Access denied. (Недопустимое значение {значение_утверждения} для утверждения {имя_утверждения}. Доступ запрещен.)
 
 </dd> <dt>
 
@@ -142,7 +142,7 @@ uint32 Compress();
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод **сжатия** в [**\_ файле CIM**](cim-datafile.md) реализуется инструментарием WMI.
 

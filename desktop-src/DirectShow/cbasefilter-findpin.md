@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 3818ef4356f11a2d003abe4e9442c4de06108aa32e50f480a3d097ea5db0c343
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2bbef9b051a42597b2585a432f544eead4e2e0a1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119017192"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971918"
 ---
 # <a name="cbasefilterfindpin-method"></a>Кбасефилтер. Финдпин, метод
 
@@ -73,7 +73,7 @@ HRESULT FindPin(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод вызывает метод [**кбасепин:: Name**](cbasepin-name.md) для сравнения имени каждого контакта со строкой, заданной параметром *ID* .
 

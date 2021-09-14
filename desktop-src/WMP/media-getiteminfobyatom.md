@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 26db8e87a52c0d8c8236b5e4b8b5e7325fb3bb0a995dcbd81da668ea760df660
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cf54d2ae177a65e1a71b5726090bba90f4ee4e5e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119135137"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056370"
 ---
 # <a name="mediagetiteminfobyatom-method"></a>Метод Media. Жетитеминфобятом
 
@@ -53,7 +53,7 @@ strRetVal = Media.getItemInfoByAtom(
 
 Этот метод возвращает **строку** , представляющую значение указанного атрибута. Для атрибутов, базовое значение которых является **логическим**, оно возвращает строку "true" или "false".
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод можно использовать для получения метаданных для конкретного цифрового элемента мультимедиа с помощью номера индекса атрибута. Свойство **аттрибутекаунт** можно использовать для определения количества атрибутов, доступных для элемента мультимедиа.
 
@@ -76,7 +76,7 @@ strRetVal = Media.getItemInfoByAtom(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

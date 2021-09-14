@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 8fa3aaa9abff51abc88042c87a0663011775c920097febefa9c3582c4db55636
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 96eb4bbf4cfc6cac952368337456b946f64cf711
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119674774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966662"
 ---
 # <a name="id3dxrendertoenvmapbeginhemisphere-method"></a>Метод ID3DXRenderToEnvMap:: Бегинхемисфере
 
@@ -65,11 +65,11 @@ HRESULT BeginHemisphere(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл. \_Ошибка E
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы нарисовать грань, см. раздел [**ID3DXRenderToEnvMap:: Face**](id3dxrendertoenvmap--face.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -80,7 +80,7 @@ HRESULT BeginHemisphere(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

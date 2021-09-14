@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: e590a09c2c6d4cc34728f5ec29db0d8f650d3a1e9cb663e5993acd2cebe4793f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 43a537728ca0874fa1dfd69b4712bcc97cf23850
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118157360"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053990"
 ---
 # <a name="cbaserendererwaitforrendertime-method"></a>Кбасерендерер. Ваитфоррендертиме, метод
 
@@ -55,7 +55,7 @@ virtual HRESULT WaitForRenderTime();
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод ожидает, пока не произойдет одно из следующих событий:
 
@@ -66,7 +66,7 @@ virtual HRESULT WaitForRenderTime();
 
 Этот метод вызывает метод [**кбасерендерер:: онваитстарт**](cbaserenderer-onwaitstart.md) , когда начинается ожидание, и метод [**Кбасерендерер:: онваитенд**](cbaserenderer-onwaitend.md) по завершении ожидания. Ни один из методов не выполняет никаких действий в базовом классе, но производный класс может их переопределить.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -77,7 +77,7 @@ virtual HRESULT WaitForRenderTime();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

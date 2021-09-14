@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 1ffde9c7bb0416f2b296f7a7c347a058734430be33ef4ecde59e7e39cd6e845f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4c17812ab5d451be639def0d07fe773d4b676570
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118154835"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891920"
 ---
 # <a name="iamtimelinesrcsplicewithnext-method"></a>Метод Иамтимелинесрк:: Сплицевиснекст
 
@@ -69,7 +69,7 @@ HRESULT SpliceWithNext(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Как уже реализовано, этот метод отклоняет любые эффекты в *пнекст*.
 
@@ -89,7 +89,7 @@ HRESULT SpliceWithNext(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -100,7 +100,7 @@ HRESULT SpliceWithNext(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

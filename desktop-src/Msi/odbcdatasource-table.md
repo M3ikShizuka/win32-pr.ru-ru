@@ -4,12 +4,12 @@ ms.assetid: dea28324-e48d-49e8-a4d2-309f7e7cb4b0
 title: Таблица Одбкдатасаурце
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 43426ba7f2dd1214dc205213aa632558bbc44d81db5e6e32f7f7d66f82d30641
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 819eecc671c75fa11db6e4a2706a511c2758ad00
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120082724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251071"
 ---
 # <a name="odbcdatasource-table"></a>Таблица Одбкдатасаурце
 
@@ -21,8 +21,8 @@ ms.locfileid: "120082724"
 
 | Столбец            | Type                         | Ключ | Допускает значения NULL |
 |-------------------|------------------------------|-----|----------|
-| DataSource        | [Идентификатор](identifier.md) | Д   | Нет        |
-| Компонент\_       | [Идентификатор](identifier.md) | Нет   | Нет        |
+| DataSource        | [Идентификатор](identifier.md) | Да   | Нет        |
+| См\_       | [Идентификатор](identifier.md) | Нет   | Нет        |
 | Описание       | [Text](text.md)             | Нет   | Нет        |
 | дривердескриптион | [Text](text.md)             | Нет   | Нет        |
 | Регистрация      | [Integer](integer.md)       | Нет   | Нет        |

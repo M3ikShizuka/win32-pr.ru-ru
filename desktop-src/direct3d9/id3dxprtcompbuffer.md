@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: a84f1bc7b25af0c900f5587ba0d1dd948cac39bc52f706ff389c0ca9d053ec0f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 323ed6f2bbe9ce4caf495a00330c1b1e0e83e158
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119985614"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969642"
 ---
 # <a name="id3dxprtcompbuffer-interface"></a>Интерфейс ID3DXPRTCompBuffer
 
@@ -58,7 +58,7 @@ ms.locfileid: "119985614"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Интерфейс **ID3DXPRTCompBuffer** получается путем вызова функции [**D3DXCreatePRTCompBuffer**](d3dxcreateprtcompbuffer.md) .
 
@@ -72,7 +72,7 @@ typedef interface ID3DXPRTCompBuffer *LPD3DXPRTCOMPBUFFER;
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -83,7 +83,7 @@ typedef interface ID3DXPRTCompBuffer *LPD3DXPRTCOMPBUFFER;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

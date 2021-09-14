@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: e5102478807b49c796b06669979e528e8b2d79cd11bd1a5fc158e766b3f081e1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9e58cb9a903f0841de2442216fab0e360007206b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120055054"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055561"
 ---
 # <a name="cpullpinendflush-method"></a>Кпуллпин. Ендфлуш, метод
 
@@ -44,13 +44,13 @@ virtual HRESULT EndFlush() = 0;
 
 Возвращает значение **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод [**кпуллпин:: Seek**](cpullpin-seek.md) вызывает этот метод. Реализуйте этот метод, чтобы вызвать метод [**Ипин:: ендфлуш**](/windows/desktop/api/Strmif/nf-strmif-ipin-endflush) для каждого нисходящиго входного ПИН-кода, получающего данные от этого объекта. Если закрепление вывода фильтра является производным от **кбасеаутпутпин**, вызовите метод **Кбасеаутпутпин::D еливерендфлуш** .
 
 Такая схема позволяет фильтровать поиск в потоке, просто вызывая метод **Seek** для объекта **кпуллпин** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ virtual HRESULT EndFlush() = 0;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

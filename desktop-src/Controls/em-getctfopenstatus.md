@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ef55fe0944ad3632f8bfec11894c5613efde02dc1ec16f8c0d31105f6b19ea8e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3ce1bbf09af6c61a33c33c4172ff699fa5bd26f4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119019742"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054444"
 ---
 # <a name="em_getctfopenstatus-message"></a>\_Сообщение ЖЕТКТФОПЕНСТАТУС EM
 
@@ -47,7 +47,7 @@ ms.locfileid: "119019742"
 
 Если клавиатура TSF открыта, возвращается значение **true**. В противном случае — **false**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ ms.locfileid: "119019742"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

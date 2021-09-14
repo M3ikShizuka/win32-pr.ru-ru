@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3DX10Math.h
-ms.openlocfilehash: 5ecd9a1882e268ae3f398dd42f16d97e00085f2797a98fb42ad4c1f8851ce89d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 935432d1634a7fd35401d92471b1f366075ac8b7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119753974"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056078"
 ---
 # <a name="d3dxvec4barycentric-function-d3dx10mathh"></a>Функция D3DXVec4BaryCentric (D3DX10Math. h)
 
@@ -104,7 +104,7 @@ D3DXVECTOR4* D3DXVec4BaryCentric(
 
 Указатель на структуру D3DXVECTOR4 в координатах Барицентрик.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция D3DXVec4BaryCentric предоставляет способ для понимания точек в треугольнике и вокруг него независимо от того, где фактически находится треугольник. Эта функция возвращает результирующую точку, используя следующее уравнение: v1 + f (V2-v1) + g (v3-v1).
 
@@ -123,7 +123,7 @@ D3DXVECTOR4* D3DXVec4BaryCentric(
 
 Координаты барицентрик определяют точку внутри треугольника с точки зрения вершин треугольника. Более подробное описание координат барицентрик см. в разделе [Описание координат Барицентрик MathWorld](https://mathworld.wolfram.com/BarycentricCoordinates.html).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -133,7 +133,7 @@ D3DXVECTOR4* D3DXVec4BaryCentric(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - PortableDevice.h
-ms.openlocfilehash: 648815f8a82248151b19f5c753bf3e42643d61eb507501d907c5ac54a2b226b9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f7deae3cdc560e27e19b5ff7664e5566cff6d7e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119927684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247027"
 ---
 # <a name="wpd_sms_encoding_types-enumeration"></a>\_ \_ \_ Перечисление типов кодирования SMS типа WPD
 
@@ -66,7 +66,7 @@ typedef enum WPD_SMS_ENCODING_TYPES {
 
 Это перечисление используется свойством [ \_ \_ кодирования WPD в SMS](sms-properties.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ typedef enum WPD_SMS_ENCODING_TYPES {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

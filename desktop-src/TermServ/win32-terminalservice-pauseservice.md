@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c3bce9626b67b989ca9ec323f2c1150599696c6bf203a09a1b77aabb88e6f6b3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1d7c9847f363d9bc6d1743da6189d2c4290c00dd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119867934"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890749"
 ---
 # <a name="pauseservice-method-of-the-win32_service-class-remote-desktop-services"></a>Метод PauseService класса Win32_Service (службы удаленных рабочих столов)
 
@@ -224,7 +224,7 @@ uint32 PauseService();
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Определив, какие службы могут быть остановлены или приостановлены, можно использовать [**методы "**](win32-terminalservice-stopservice.md) **PauseService** " и "приостановить" для остановки и приостановки служб. Решение о прекращении работы службы, а не приостановке или наоборот, зависит от нескольких факторов, включая следующие:
 
@@ -238,7 +238,7 @@ uint32 PauseService();
 
 [Службы Pause, работающие под заданной учетной записью](https://Gallery.TechNet.Microsoft.Com/12a256dd-39da-4690-b3f0-f0adccaf25f1) , приостанавливают все службы, работающие под гипотетической учетной записью службы нетсвк.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -252,7 +252,7 @@ uint32 PauseService();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1ea68ba0fd599b39f0344a423e86a87d097dc2df389fd8370e30a573a05d3013
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 042428a236b8e9a23f03cdcceaf5d76eb977efd8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120048204"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054320"
 ---
 # <a name="em_setrect-message"></a>\_Сообщение SETRECT EM
 
@@ -51,7 +51,7 @@ ms.locfileid: "120048204"
 
 Это сообщение не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Установка параметра *lParam* в **значение NULL** не действует при установке сенсорного устройства или при отправке **EM \_ SETRECT** из потока с установленным обработчиком (см. раздел [**сетвиндовшукекс**](/windows/desktop/api/winuser/nf-winuser-setwindowshookexa)). В таких случаях *lParam* должен содержать допустимый указатель на структуру [**Rect**](/previous-versions//dd162897(v=vs.85)) .
 
@@ -65,7 +65,7 @@ ms.locfileid: "120048204"
 
 **Расширенное редактирование:** Поддерживается в Microsoft Rich Edit 1,0 и более поздних версиях. Прямоугольник форматирования не включает панель выбора, которая является непомеченной областью слева от каждого абзаца. Когда пользователь щелкает на панели выбора, выбирается соответствующая строка. Дополнительные сведения о совместимости расширенных версий редактирования с различными версиями системы см. в разделе [Общие сведения об элементах управления редактированием](about-rich-edit-controls.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -77,7 +77,7 @@ ms.locfileid: "120048204"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

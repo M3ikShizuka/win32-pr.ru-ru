@@ -4,12 +4,12 @@ ms.assetid: accd753a-3be0-4c7d-bbc7-d294d1381144
 title: Сообщение LINE_CALLDEVSPECIFIC (Тспи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9930da3c30d51781b10b28ed7a712cb681950eaea1a387212a5e0894658a9125
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7a48bf8a54a1f326fe7bb27c82349e5575c8bbf6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120012604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250219"
 ---
 # <a name="line_calldevspecific-message"></a>Строка \_ сообщения каллдевспеЦифик
 
@@ -68,7 +68,7 @@ ms.locfileid: "120012604"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сообщение **Line \_ каллдевспеЦифик** используется поставщиком услуг совместно с функцией [**тспи \_ линедевспеЦифик**](/windows/win32/api/tspi/nf-tspi-tspi_linedevspecific) . Его значение зависит от конкретного устройства.
 
@@ -76,7 +76,7 @@ TAPI отправляет в приложения сообщение [**Line \_ 
 
 Непосредственно соответствующего сообщения на уровне TAPI нет, хотя это сообщение очень похоже на [**Line \_ девспеЦифик**](/previous-versions/windows/desktop/legacy/ms725225(v=vs.85)). На уровне ТСПИ сообщения, относящиеся к конкретному устройству, разбиваются между этими событиями в строках и адресах, а также событиями отчетов при вызовах.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -87,7 +87,7 @@ TAPI отправляет в приложения сообщение [**Line \_ 
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

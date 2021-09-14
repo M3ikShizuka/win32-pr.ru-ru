@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 704fcb3205f032654ef6a666dd119dec34f88992018f16b1715ba4982847149d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fe98a06daf84ec753c26903cc09787cec65c8d10
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118131664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968689"
 ---
 # <a name="registrationinfotype-complex-type"></a>Сложный тип Регистратионинфотипе
 
@@ -72,7 +72,7 @@ ms.locfileid: "118131664"
 | [**Автор**](taskschedulerschema-author-registrationinfotype-element.md)                         | строка   | Указывает автора задачи.<br/>                                                                       |
 | [**Дата**](taskschedulerschema-date-registrationinfotype-element.md)                             | dateTime | Указывает дату и время регистрации задачи.<br/>                                                |
 | [**Описание**](taskschedulerschema-description-registrationinfotype-element.md)               | строка   | Указание описания задачи.<br/>                                                                  |
-| [**По**](taskschedulerschema-documentation-registrationinfotype-element.md)           | строка   | Указывает любую дополнительную документацию для задачи.<br/>                                                    |
+| [**Документация**](taskschedulerschema-documentation-registrationinfotype-element.md)           | строка   | Указывает любую дополнительную документацию для задачи.<br/>                                                    |
 | [**SecurityDescriptor**](taskschedulerschema-securitydescriptor-registrationinfotype-element.md) | строка   | Указывает дескриптор безопасности задачи.<br/>                                                          |
 | [**Источника**](taskschedulerschema-source-registrationinfotype-element.md)                         | строка   | Указывает, откуда поступила задача. Например, из компонента, службы, приложения или пользователя.<br/> |
 | [**URI**](taskschedulerschema-uri-registrationinfotype-element.md)                               | anyURI   | Указывает универсальный код ресурса (URI) задачи.<br/>                                                                          |
@@ -80,7 +80,7 @@ ms.locfileid: "118131664"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -91,7 +91,7 @@ ms.locfileid: "118131664"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

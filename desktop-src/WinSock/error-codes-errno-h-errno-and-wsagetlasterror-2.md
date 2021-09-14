@@ -4,12 +4,12 @@ ms.assetid: cb73fc92-74bd-4c8b-a1c0-6daf4d298aa1
 title: Коды ошибок — "ошибка", "h_errno" и "Всажетластеррор"
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b2e9c4372bd479ee4b94bd3226128737dae3d5637be94046eb013716590ac285
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 31b547e0b580599aaec27a0b77bfad0ffaa8966e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119132637"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056241"
 ---
 # <a name="error-codes---errno-h_errno-and-wsagetlasterror"></a>Коды ошибок — код возврата, h \_ и всажетластеррор
 
@@ -74,7 +74,7 @@ if (r == -1       /* (but see below) */
 
 полный список возможных кодов ошибок, возвращаемых функциями Windows сокетов, приведен в разделе по [кодам ошибок сокетов Windows](windows-sockets-error-codes-2.md).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

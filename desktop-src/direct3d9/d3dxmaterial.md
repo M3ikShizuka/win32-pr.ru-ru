@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3dx9mesh.h
-ms.openlocfilehash: c90b03f5d6526fc3545ff1ffe1d48dfea20f96ea4ae34602f885ce7f062003b6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 89079b716a8c5808255b2bc660f1d364bb97315f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120027414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969725"
 ---
 # <a name="d3dxmaterial-structure"></a>Структура D3DXMATERIAL
 
@@ -36,7 +36,7 @@ typedef struct D3DXMATERIAL {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -62,7 +62,7 @@ typedef struct D3DXMATERIAL {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функции [**D3DXLoadMeshFromX**](d3dxloadmeshfromx.md) и [**D3DXLoadMeshFromXof**](d3dxloadmeshfromxof.md) возвращают массив структур **D3DXMATERIAL** , которые определяют цвет материала и название текстуры для каждого материала в сети. Затем приложение требуется для загрузки текстуры.
 
@@ -75,7 +75,7 @@ typedef struct D3DXMATERIAL* LPD3DXMATERIAL;
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -85,7 +85,7 @@ typedef struct D3DXMATERIAL* LPD3DXMATERIAL;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

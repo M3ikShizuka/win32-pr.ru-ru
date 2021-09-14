@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 89e033275128df121b206d4f3f04bca9cfc39ddd872517b7d253a8c9cf30c1ec
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8c2298128ad08a5fe1528ead18c72560a71e577b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118075047"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248779"
 ---
 # <a name="jet_indexcreateerr-property"></a>Свойство JET_INDEXCREATE. ERR
 
@@ -64,9 +64,9 @@ public JET_err err { get; set; }
 
 Тип: [Microsoft.ISAM.ESENT.Interop.JET_err](./jet-err-enumeration.md)  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс JET_INDEXCREATE](./jet-indexcreate-class.md)
 

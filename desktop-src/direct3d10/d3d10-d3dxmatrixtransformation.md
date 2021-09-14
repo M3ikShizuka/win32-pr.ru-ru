@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: a9f9b6679093ef1defb98289bbc1c0f70410a7ab6b1f4c7a5107012e16976a2a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 10ed63b292dd69acb58d8567e6336b5aab4f7997
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119754314"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970065"
 ---
 # <a name="d3dxmatrixtransformation-function-d3dx10mathh"></a>Функция D3DXMatrixTransformation (D3DX10Math. h)
 
@@ -115,7 +115,7 @@ D3DXMATRIX* D3DXMatrixTransformation(
 
 Указатель на структуру D3DXMATRIX, которая является матрицей преобразования.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция вычисляет матрицу преобразования с помощью следующей формулы, при этом сцепление матрицы вычисляется в порядке слева направо:
 

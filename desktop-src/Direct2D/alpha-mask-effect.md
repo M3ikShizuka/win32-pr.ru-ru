@@ -4,12 +4,12 @@ description: Этот результат применяет альфа-маск�
 ms.assetid: fddad107-ec70-3a24-f4ae-9dc4f3716536
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ed4c9c205f7f19c3fa43d95ee92a70d7d43ed709b40c924165833fab7190e3b4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 87669608ab75ab7a655c072e174dbcd19df4bb39
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119570554"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164259"
 ---
 # <a name="alpha-mask-effect"></a>Воздействие альфа-маски
 
@@ -21,7 +21,7 @@ ms.locfileid: "119570554"
 
 Этот результат не имеет свойств, относящихся к определенному результату.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

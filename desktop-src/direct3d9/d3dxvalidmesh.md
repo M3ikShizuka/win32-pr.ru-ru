@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 299092700b015840376f3e4b297d7825366b6083e1458155f5963e1b5b1f4d73
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 469b9b32072107885417266266f804a955301668
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119749674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052960"
 ---
 # <a name="d3dxvalidmesh-function"></a>Функция D3DXValidMesh
 
@@ -75,11 +75,11 @@ HRESULT D3DXValidMesh(
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может быть одним из следующих: D3DXERR \_ инвалидмеш, D3DERR \_ Инвалидкалл, E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод проверяет сетку, проверяя наличие недопустимых индексов. Сведения об ошибках доступны в выходных данных отладчика.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -90,7 +90,7 @@ HRESULT D3DXValidMesh(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

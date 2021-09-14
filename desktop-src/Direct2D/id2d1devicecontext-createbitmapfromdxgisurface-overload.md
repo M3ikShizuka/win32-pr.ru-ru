@@ -13,11 +13,11 @@ api_type:
 ms.date: 07/02/2019
 ms.topic: reference
 ms.openlocfilehash: a8ecbe415439ebbc859fddaef5ca33ce7552c293
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105656932"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163095"
 ---
 # <a name="id2d1devicecontextcreatebitmapfromdxgisurface-methods"></a>Методы ID2D1DeviceContext:: Креатебитмапфромдксгисурфаце
 
@@ -40,7 +40,7 @@ ms.locfileid: "105656932"
 
 | Требование | Значение |
 |-------------------|--------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D2d1 \_ 1. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D2d1 \_ 1. h</dt> </dl> |
 
 
 

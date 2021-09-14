@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: d76707f662e756353f215872264cfa3703686fd06d0840fde858d75d26c9693f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 11ced77890dba6d47f713642adf9b41d4b30f6a9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119380854"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250669"
 ---
 # <a name="counters-element"></a>Counters, элемент
 
@@ -83,11 +83,11 @@ ms.locfileid: "119380854"
 </xs:element>
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Родительский узел этого элемента — это элемент [**инструментирования**](/windows/desktop/WES/eventmanifestschema-instrumentationtype-complextype) манифеста.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

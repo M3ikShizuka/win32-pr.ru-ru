@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55102951
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: e7a4b22ce6dca6da6ddf6c7d62757b15e285d346879129e3833390c6bf13b8bd
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c18bcbdb359500973e54738483e49d2238ad95eb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120093974"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055763"
 ---
 # <a name="esentslvstreamingfilenotcreatedexception-properties"></a>Свойства Есентслвстреамингфиленоткреатедексцептион
 
@@ -34,7 +34,7 @@ ms.locfileid: "120093974"
 <tbody>
 <tr class="odd">
 <td><img src="../images/dn292128.pubproperty(exchg.10).gif" title="Открытое свойство" alt="Public property" /></td>
-<td><a href="/dotnet/api/system.exception.data#System_Exception_Data">Данные</a></td>
+<td><a href="/dotnet/api/system.exception.data#System_Exception_Data">Data</a></td>
 <td>(Наследуется от <a href="/dotnet/api/system.exception">Exception</a>.)</td>
 </tr>
 <tr class="even">
@@ -49,7 +49,7 @@ ms.locfileid: "120093974"
 </tr>
 <tr class="even">
 <td><img src="../images/dn292128.protproperty(exchg.10).gif" title="Защищенное свойство" alt="Protected property" /></td>
-<td><a href="/dotnet/api/system.exception.hresult#System_Exception_HResult">HResult</a></td>
+<td><a href="/dotnet/api/system.exception.hresult#System_Exception_HResult">Состав</a></td>
 <td>(Наследуется от <a href="/dotnet/api/system.exception">Exception</a>.)</td>
 </tr>
 <tr class="odd">
@@ -83,7 +83,7 @@ ms.locfileid: "120093974"
 
 Начало
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

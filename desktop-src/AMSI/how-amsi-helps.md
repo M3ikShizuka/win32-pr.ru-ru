@@ -3,12 +3,12 @@ title: Как AMSI помогает защититься от вредоносн
 description: Разработчик приложения может активно участвовать в защите от вредоносных программ. В частности, вы можете защитить своих клиентов от вредоносных программ на основе динамических сценариев, а также от нетрадиционных поправок кибератаках.
 ms.topic: article
 ms.date: 02/27/2019
-ms.openlocfilehash: 6c9ce09fdbf928395e2ca538add5fe7121c5ee49867c29205a9a39bce746a382
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0d6aee30034312073123f5ab14b1924fd01e6eac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119440494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968941"
 ---
 # <a name="how-the-antimalware-scan-interface-amsi-helps-you-defend-against-malware"></a>Как интерфейс проверки на наличие вредоносных программ (AMSI) помогает защититься от вредоносных программ
 

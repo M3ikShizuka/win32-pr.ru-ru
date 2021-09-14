@@ -27,11 +27,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: af690e09a5d967d693e1a3b09b178a63a65d1741
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105702351"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965674"
 ---
 # <a name="jet_opentemporarytablegrbit-property"></a>Свойство JET_OPENTEMPORARYTABLE. грбит
 

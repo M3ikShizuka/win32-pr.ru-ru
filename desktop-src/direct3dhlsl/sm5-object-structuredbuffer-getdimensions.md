@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 2b3d7c879c77386ddee80a63053711b8ae34ee8c
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "104352962"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963537"
 ---
 # <a name="structuredbuffergetdimensions-function"></a>Функция Структуредбуффер:: Dimension
 
@@ -59,13 +59,13 @@ void GetDimensions(
 
 Эта функция не возвращает значение.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Комментарии
 
 Эта функция поддерживается для следующих типов шейдеров:
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | x      | x    | x      | x        | x     | x       |
 

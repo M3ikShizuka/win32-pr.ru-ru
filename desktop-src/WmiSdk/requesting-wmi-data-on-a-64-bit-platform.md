@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Запрос данных WMI на 64-разрядной платформе
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 320aaec9f11600e3b963a01fe9dcddbd6c4f1f3fd98df8ff2311417ddcd6fef7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fd392d482f083a3c1b1dff3b90d70f1857aeebb4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119995784"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056172"
 ---
 # <a name="requesting-wmi-data-on-a-64-bit-platform"></a>Запрос данных WMI на 64-разрядной платформе
 
@@ -44,7 +44,7 @@ ms.locfileid: "119995784"
 
 Приложения C++ могут использовать интерфейс [**ивбемконтекст**](/windows/desktop/api/WbemCli/nn-wbemcli-iwbemcontext) с [**IWbemServices:: ExecMethod**](/windows/desktop/api/WbemCli/nf-wbemcli-iwbemservices-execmethod) для обмена данными с использованием поставщика, не используемого по умолчанию, с WMI.
 
-в скриптах и Visual Basic необходимо создать объект [**свбемнамедвалуесет**](swbemnamedvalueset.md) , содержащий флаги для параметра *обжвбемнамедвалуесет* в [**SWbemServices.Exeкмесод**](swbemservices-execmethod.md). Дополнительные сведения о настройке объектов параметров для этого вызова см. в разделе [Построение объектов параметров и анализ объектов параметров](constructing-inparameters-objects-and-parsing-outparameters-objects.md).
+в скриптах и Visual Basic необходимо создать объект [**свбемнамедвалуесет**](swbemnamedvalueset.md) , содержащий флаги для параметра *обжвбемнамедвалуесет* в [**SWbemServices. ExecMethod**](swbemservices-execmethod.md). Дополнительные сведения о настройке объектов параметров для этого вызова см. в разделе [Построение объектов параметров и анализ объектов параметров](constructing-inparameters-objects-and-parsing-outparameters-objects.md).
 
 Вы можете безопасно запускать сценарии и приложения с помощью контекстных флагов в более старых операционных системах, так как инструментарий WMI игнорирует их в системах, где они не реализованы. Хотя существует 32-разрядная и 64-разрядная версии поставщика системного реестра, обратите внимание, что существует только одна версия репозитория WMI.
 
@@ -52,7 +52,7 @@ ms.locfileid: "119995784"
 
 В приведенной ниже серии примеров используется [поставщик реестра](/previous-versions/windows/desktop/regprov/system-registry-provider), который имеет параллельную 32-разрядную и 64-разрядные версии, предварительно установленные в 64-разрядных операционных системах. В этих примерах 32-разрядные клиенты получают данные, возвращенные поставщиком из 32-разрядного **узла \_ hKey \_ \\ Software \\ WOW6432Node \\ Майкрософт**. 64-разрядные клиенты получают данные, возвращаемые поставщиком, из 64-разрядного узла **hKey \_ локальный \_ компьютер \\ программное обеспечение \\ \\ ведение журнала Майкрософт**.
 
-В сценариях показано, как вызывать методы класса [**стдрегпров**](/previous-versions/windows/desktop/regprov/stdregprov) в реестре с помощью [**SWbemServices.Exeкмесод**](swbemservices-execmethod.md) для получения данных из 32-разрядного куста реестра.
+В скриптах показано, как вызывать методы класса [**Стдрегпров**](/previous-versions/windows/desktop/regprov/stdregprov) реестра с помощью [**SwbemServices. ExecMethod**](swbemservices-execmethod.md) для получения данных из 32-разрядного куста реестра.
 
 следующий скрипт получает данные от поставщика, которые соответствуют битовой ширине вызывающего объекта (в данном случае 64 бит), так как это сценарий, выполняющийся в 64-разрядном Windows сервере сценариев (WSH). Сценарий получает значение из 64-разрядного узла реестра **hKey \_ Local \_ Machine \\ Software \\ Microsoft \\ WBEM \\ CIMOM \\ ведение журнала** , а не 32-разрядный узел **hKey \_ Local \_ Machine \\ Software \\ WOW6432Node \\ Microsoft \\ WBEM \\ CIMOM**.
 
@@ -144,7 +144,7 @@ WScript.Echo "WMI Logging is set to  " & Outparams.SValue
 
 
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

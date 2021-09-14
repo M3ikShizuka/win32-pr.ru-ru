@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1ad76ec66018b4e673913c433ce16a1294944f69c9d33a5dbaedb85ba21f985a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 73109d2499fc01a1d811066dc6059593c7ed5e0b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119916084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246907"
 ---
 # <a name="em_callautocorrectproc-message"></a>\_Сообщение КАЛЛАУТОКОРРЕКТПРОК EM
 
@@ -54,7 +54,7 @@ ms.locfileid: "119916084"
 
 Возвращаемое значение равно нулю, если сообщение прошло удачно, или ненулевой при возникновении ошибки.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -66,7 +66,7 @@ ms.locfileid: "119916084"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 5f8b7579ce3ba9ddc8a1b2925685fce2e13d0c787df19df758862fabf4f5c611
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7707338a3c2268cba51146aa8462b3b244b149ac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119700564"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972301"
 ---
 # <a name="cim_elementconfiguration-class"></a>\_Класс CIM елементконфигуратион
 
@@ -45,7 +45,7 @@ class CIM_ElementConfiguration
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ елементконфигуратион** имеет следующие типы членов:
 
@@ -83,13 +83,13 @@ class CIM_ElementConfiguration
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Инструментарий WMI не реализует этот класс.
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

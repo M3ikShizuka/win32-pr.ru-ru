@@ -4,12 +4,12 @@ description: В этом разделе описываются компонен�
 ms.assetid: 7C79B330-41EA-4BA0-9103-BB5A0C3D4CE2
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3125a640f902bc64d55af8cdcdbf816c788e0507a48034dfb52c972fa3f068d4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fb2de495aa170560b1e7082cacf1893a8c94905a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118985473"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970429"
 ---
 # <a name="architecture-and-components"></a>Архитектура и компоненты
 

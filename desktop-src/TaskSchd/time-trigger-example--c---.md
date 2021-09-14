@@ -4,12 +4,12 @@ description: в этом примере C++ показано, как созда�
 ms.assetid: e45b18b0-5a7f-4283-b42f-15e9ffcfaff7
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 227d6fe24aa63b430376a7ce50d23b4b8ecd282f807315384b42175b9903d1b5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 39f7f8d3c8bd1f179b0def9be069d710a2e126a6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119059656"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891453"
 ---
 # <a name="time-trigger-example-c"></a>Пример триггера времени (C++)
 

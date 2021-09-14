@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 64e7ef46137bc655f89f827078a32b7bf92dc58194072bfe32335f67a0e057b9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6a4d0a66a93485ba6e5ff70540182ef07588d3aa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120063044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126962853"
 ---
 # <a name="jet_retrievecolumnerr-property"></a>Свойство JET_RETRIEVECOLUMN. ERR
 
@@ -62,7 +62,7 @@ public JET_wrn err { get; private set; }
 
 Тип: [Microsoft.ISAM.ESENT.Interop.JET_wrn](./jet-wrn-enumeration.md)  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

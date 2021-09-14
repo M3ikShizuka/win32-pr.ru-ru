@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 2c6cb636a644ba9d67bb6165163b297257af83753a1bcae77a0aa53f8731ffa3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a3a55f7b0a9527092e51156d55c7513ee59c4861
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119752304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054828"
 ---
 # <a name="stopservice-method-of-the-cim_clusteringservice-class"></a>Метод «начало» \_ класса CIM клустерингсервице
 
@@ -49,7 +49,7 @@ uint32 StopService();
 
 Возвращает значение 0 (нуль), если служба была успешно остановлена, 1 (один), если запрос не поддерживается, и любое другое число для указания ошибки.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В настоящее время этот метод не реализован инструментарием WMI. Чтобы использовать этот метод, его необходимо реализовать в собственном поставщике.
 

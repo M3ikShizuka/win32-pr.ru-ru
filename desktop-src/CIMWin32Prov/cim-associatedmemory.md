@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 8fd56da36546365fecc053d679e31982c44efdfb85289c7fb64ce16651241f9d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3cb1443f54ab273ef6c114b8645e5322c24785f8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119439294"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055002"
 ---
 # <a name="cim_associatedmemory-class"></a>\_Класс CIM ассоЦиатедмемори
 
@@ -45,7 +45,7 @@ class CIM_AssociatedMemory : CIM_Dependency
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ ассоЦиатедмемори** имеет следующие типы членов:
 
@@ -89,7 +89,7 @@ class CIM_AssociatedMemory : CIM_Dependency
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **CIM \_ ассоЦиатедмемори** является производным от [**\_ зависимости CIM**](cim-dependency.md).
 

@@ -9,12 +9,12 @@ api_type: ''
 api_location: ''
 topic_type:
 - kbArticle
-ms.openlocfilehash: 1c4623b9143e0a23762cfc44dd8dfc4f46b827a0f6433098d45d8a784ead81f0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9d326e012fb78b04fd542f88d49c370e8aeab613
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118968793"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248032"
 ---
 # <a name="nondefaultdropmenuverb-sample"></a>Пример NonDefaultDropMenuVerb
 
@@ -22,7 +22,7 @@ ms.locfileid: "118968793"
 
 В этом разделе содержатся следующие подразделы.
 
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Загрузка образца](#downloading-the-sample)
 -   [Создание примера](#building-the-sample)
 -   [Запуск примера](#running-the-sample)
@@ -34,7 +34,7 @@ ms.locfileid: "118968793"
 | Продукт                                | Минимальная версия продукта |
 |----------------------------------------|-------------------------|
 | Windows                                | Windows Vista           |
-| Windows SDK | 7,0                     |
+| Windows SDK | 7.0                     |
 
 
 

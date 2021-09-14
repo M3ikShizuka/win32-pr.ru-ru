@@ -1,7 +1,7 @@
 ---
 description: Метод Докреатевиндов создает окно.
 ms.assetid: bbe38a71-bbf7-4380-96a3-074b992a1d1e
-title: CBaseWindow.DoCметод Реатевиндов (Винутил. h)
+title: Кбасевиндов. Докреатевиндов, метод (Винутил. h)
 ms.topic: reference
 ms.date: 05/31/2018
 topic_type:
@@ -16,14 +16,14 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: f2502d1c07efbb5fa15c8113d11504b9a61a64321686e2b0e7e4939fabad7395
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 76bea1523f48a6e22a3c2d9370fa32bcea022621
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118658228"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971801"
 ---
-# <a name="cbasewindowdocreatewindow-method"></a>CBaseWindow.DoCметод Реатевиндов
+# <a name="cbasewindowdocreatewindow-method"></a>Кбасевиндов. Докреатевиндов, метод
 
 `DoCreateWindow`Метод создает окно.
 
@@ -44,11 +44,11 @@ HRESULT DoCreateWindow();
 
 Возвращает \_ значение ОК в случае успешного выполнения или **HRESULT** , указывающий на причину сбоя.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод [**кбасевиндов::P репаревиндов**](cbasewindow-preparewindow.md) вызывает этот метод.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ HRESULT DoCreateWindow();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

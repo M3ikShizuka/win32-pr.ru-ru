@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4161732002378449f196fdf83c4b880fcc2c02d345a0b08c6e6a464b81acb1dc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f32a2d27fabe45081b13d658e49171af035b8cc6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119055722"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056463"
 ---
 # <a name="iwmdrmdevicesetlicenseresponse-method"></a>Метод Ивмдрмдевице:: Сетлиценсереспонсе
 
@@ -72,7 +72,7 @@ HRESULT SetLicenseResponse(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -83,7 +83,7 @@ HRESULT SetLicenseResponse(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

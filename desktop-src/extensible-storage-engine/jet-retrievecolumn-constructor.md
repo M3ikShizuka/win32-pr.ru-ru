@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: bdf74097aedb36a726007ea9816644364b6ca0213d0b9b27919132771b7659a9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 19247c0ac45dddf4911b2dd16615b3eaa905fa4a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120063164"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126962885"
 ---
 # <a name="jet_retrievecolumn-constructor"></a>Конструктор JET_RETRIEVECOLUMN
 
@@ -50,7 +50,7 @@ Dim instance As New JET_RETRIEVECOLUMN()
 public JET_RETRIEVECOLUMN()
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

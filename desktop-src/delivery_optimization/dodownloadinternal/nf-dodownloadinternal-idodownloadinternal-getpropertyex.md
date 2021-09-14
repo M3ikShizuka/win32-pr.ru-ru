@@ -15,11 +15,11 @@ ms.localizationpriority: low
 ms.topic: reference
 ms.date: 07/29/2019
 ms.openlocfilehash: 908f9b15df5c0c4a2769149419ff12d545201e5c
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104413222"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965126"
 ---
 # <a name="idodownloadinternalgetpropertyex-method"></a>Метод Идодовнлоадинтернал:: Жетпропертекс
 
@@ -61,6 +61,6 @@ HRESULT GetPropertyEx(
 
 | &nbsp; | &nbsp; |
 | ---- |:---- |
-| **Минимальная версия клиента** | Windows 10, \[ только приложения Win32 версии 1809\] |
-| **Минимальная версия сервера** | Windows Server, \[ только приложения Win32 версии 1809\] |
+| **Минимальная версия клиента** | Windows 10, версия 1809 \[ Только приложения Win32\] |
+| **Минимальная версия сервера** | Windows Сервер, \[ только приложения Win32 версии 1809\] |
 | **Header** | Додовнлоадинтернал. h |

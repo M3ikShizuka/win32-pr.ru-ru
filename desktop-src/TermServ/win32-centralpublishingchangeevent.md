@@ -20,12 +20,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9bbc38d132920bd5ffcaa2208d8f1aa94c8629bb0c5399f6b8776654d078cd47
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4695479eb33301bda51b558375a18186fa08161e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119868524"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249790"
 ---
 # <a name="win32_centralpublishingchangeevent-class"></a>\_Класс Win32 централпублишингчанжеевент
 
@@ -45,7 +45,7 @@ class Win32_CentralPublishingChangeEvent : __ExtrinsicEvent
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ централпублишингчанжеевент** имеет следующие типы членов:
 
@@ -134,14 +134,14 @@ class Win32_CentralPublishingChangeEvent : __ExtrinsicEvent
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                                |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                           |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                           |
 | Пространство имен<br/>                | Корневой \\ CIMV2 \\ терминалсервицес<br/>                                                 |
 | MOF<br/>                      | <dl> <dt>Тскпуб. mof</dt> </dl>    |
 | DLL<br/>                      | <dl> <dt>TscPubWmi.dll</dt> </dl> |

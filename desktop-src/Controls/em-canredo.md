@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6d8898ba469d52e4098c2430dff5234a3522a6fbd3569bec823ff776a3f1c420
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ccfb12f8e72bdf5321151cd3a70b74f322a46591
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119916054"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246874"
 ---
 # <a name="em_canredo-message"></a>\_Сообщение КАНРЕДО EM
 
@@ -53,7 +53,7 @@ ms.locfileid: "119916054"
 
 Чтобы повторить последнюю операцию отмены, отправьте сообщение о [**\_ возврате EM**](em-redo.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -65,7 +65,7 @@ ms.locfileid: "119916054"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

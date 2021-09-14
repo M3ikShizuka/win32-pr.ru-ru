@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: be740abacc9a10674b98e2c2088f647dfaa26c7cd99c7e55efbfe968731a9a54
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6bfcb94b131e1343565d5763ae2ea4d95e53f1eb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119775424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250696"
 ---
 # <a name="counterattributes-complex-type"></a>Сложный тип Каунтераттрибутес
 

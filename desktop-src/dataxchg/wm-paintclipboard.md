@@ -3,7 +3,7 @@ title: Сообщение WM_PAINTCLIPBOARD (Winuser. h)
 description: Посылается владельцу буфера обмена в окне средства просмотра буфера обмена, если в буфере обмена содержатся данные в \_ формате CF овнердисплай, а клиентская область окна просмотра буфера обмена нуждается в перерисовки.
 ms.assetid: 85aeefa5-e3d9-4689-a068-47b59ec7b571
 keywords:
-- Обмен данными с сообщениями WM_PAINTCLIPBOARD
+- WM_PAINTCLIPBOARD Exchange данных сообщений
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 8148af6b513fd1fa956d48f22dc86e618544b073
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105661873"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056113"
 ---
 # <a name="wm_paintclipboard-message"></a>\_Сообщение ПАИНТКЛИПБОАРД WM
 
@@ -68,11 +68,11 @@ ms.locfileid: "105661873"
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                               |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                     |
-| Заголовок<br/>                   | <dl> <dt>Winuser. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 
@@ -82,7 +82,7 @@ ms.locfileid: "105661873"
 [**WM \_ сизеклипбоард**](wm-sizeclipboard.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Буфер обмена](clipboard.md)

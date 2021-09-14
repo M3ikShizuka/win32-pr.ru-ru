@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 88bc7d22766f2d1bed304c5e9780faf05808513312b744ae54bc2d6cfab6dffc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 36bf5b6700904c5af47ef47e749dfa753c5ff8cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118958263"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054064"
 ---
 # <a name="lvm_gettextbkcolor-message"></a>\_Сообщение LVM жеттекстбкколор
 
@@ -39,7 +39,7 @@ ms.locfileid: "118958263"
 
 Возвращает цвет фона текста.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -47,7 +47,7 @@ ms.locfileid: "118958263"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

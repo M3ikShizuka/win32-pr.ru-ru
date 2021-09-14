@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: d5964f7f466dac135d08958ef66c12a1dfe2e61a19180eb45072c5489f9f4a64
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f4dba1424f98389a9282fdebf9dae55c7e1601f2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118299249"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969810"
 ---
 # <a name="d3dxcreatetexturefromfileex-function"></a>Функция D3DXCreateTextureFromFileEx
 
@@ -185,7 +185,7 @@ HRESULT D3DXCreateTextureFromFileEx(
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, D3DERR \_ NOTAVAILABLE, D3DERR \_ аутофвидеомемори, D3DXERR \_ INVALIDDATA, E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Параметр компилятора также определяет версию функции. Если определен Юникод, вызов функции разрешается в D3DXCreateTextureFromFileExW. В противном случае вызов функции разрешается в D3DXCreateTextureFromFileExA, так как используются строки ANSI.
 

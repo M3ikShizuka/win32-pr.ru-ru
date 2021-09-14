@@ -4,12 +4,12 @@ ms.assetid: 7bf2b9b1-9efd-4d47-9fa3-253421f1ba4f
 title: Парентпродукткоде, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6a56e7a120455723eb95f2bd7f5ea08c59894d3a1951aeb042afb30e3b0e2fdd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 82385a4df94d3a044f0ee6a77461d69e63cc6d46
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120042454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250927"
 ---
 # <a name="parentproductcode-property"></a>Парентпродукткоде, свойство
 

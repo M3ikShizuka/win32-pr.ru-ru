@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 29c232c172f14774db9dd7c783e18a10f0888190708432b9336208570f0d5031
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f44aa9e9b6d52c082a5f33a10280837a33372245
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119434334"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054139"
 ---
 # <a name="lb_getitemheight-message"></a>Сообщение GETITEMHEIGHT балансировки нагрузки \_
 
@@ -49,7 +49,7 @@ Windows 95/Windows 98/Windows Millennium Edition (Windows Me): параметр 
 
 Возвращаемое значение — это высота (в пикселях) каждого элемента в списке. Возвращаемое значение — это высота элемента, заданного параметром *wParam* , если список имеет стиль [**фунта \_ овнердраввариабле**](list-box-styles.md) . Возвращаемое значение — это ошибка балансировки нагрузки \_ при возникновении ошибки.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -57,7 +57,7 @@ Windows 95/Windows 98/Windows Millennium Edition (Windows Me): параметр 
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 

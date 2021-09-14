@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 1d3e62ec82746fc5c43cea5c421b7bc0d03656e0811615911fbedb693bd9b71e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c0a379ef13a4b6ff22de8028bf34c00572f7d6e7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119217954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965422"
 ---
 # <a name="reset-method-of-the-cim_logicaldevice-class-cimwin32-wmi-providers"></a>Метод Reset класса CIM_LogicalDevice (поставщики WMI CIMWin32)
 
@@ -47,7 +47,7 @@ uint32 Reset();
 
 Возвращает 0 (ноль), если запрос был успешно выполнен, 1 (один), если запрос не поддерживается, и другое значение, если произошла ошибка.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В настоящее время этот метод не реализован инструментарием WMI. Чтобы использовать этот метод, его необходимо реализовать в собственном поставщике.
 

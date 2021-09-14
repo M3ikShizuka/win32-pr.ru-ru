@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: cc4f362555c8cc86857733ecc3e75279dc68cc6b339f641f70c592f0e3576a96
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d40d4b2686087864cad17df0feb99dbc890033b0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119847424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969634"
 ---
 # <a name="id3dxprtenginecomputebounce-method"></a>Метод ID3DXPRTEngine:: Компутебаунце
 
@@ -75,7 +75,7 @@ HRESULT ComputeBounce(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Используйте следующую последовательность вызова, чтобы смоделировать несколько световых отскоков с прямым освещением.
 

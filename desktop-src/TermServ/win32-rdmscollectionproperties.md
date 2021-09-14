@@ -26,12 +26,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5bdc939edcba5176fd93ad7828bf4f7ea5368fb80c9e97f646f3f1ca4122ad55
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bb7397ccc1afd350689ac1eeb984a62177140f50
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119868374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249736"
 ---
 # <a name="win32_rdmscollectionproperties-class"></a>\_Класс Win32 рдмсколлектионпропертиес
 
@@ -58,7 +58,7 @@ class Win32_RDMSCollectionProperties
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ рдмсколлектионпропертиес** имеет следующие типы членов:
 
@@ -218,21 +218,21 @@ class Win32_RDMSCollectionProperties
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                                   |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                              |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                              |
 | Пространство имен<br/>                | Корневой \\ \\ rdms CIMV2<br/>                                                                |
 | MOF<br/>                      | <dl> <dt>Рдманажемент. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>RDMS.dll</dt> </dl>         |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

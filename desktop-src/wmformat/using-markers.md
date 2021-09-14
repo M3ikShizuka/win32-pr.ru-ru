@@ -3,7 +3,7 @@ title: Использование маркеров
 description: Использование маркеров
 ms.assetid: b801c985-4ec7-441e-9f8a-40c69b1299a9
 keywords:
-- Windows Media Format SDK, маркеры
+- Windows Пакет SDK для формата мультимедиа, маркеры
 - Расширенный формат систем (ASF), маркеры
 - ASF (Расширенный системный формат), маркеры
 - Расширенный системный формат (ASF), Поиск маркеров
@@ -16,11 +16,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 44cc585b8c71e3bfbae85953650809ad031d36a2
-ms.sourcegitcommit: ad672d3a10192c5ccac619ad2524407109266e93
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "103789234"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127247222"
 ---
 # <a name="using-markers"></a>Использование маркеров
 
@@ -138,7 +138,7 @@ if (SUCCEEDED(hr))
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -151,9 +151,9 @@ if (SUCCEEDED(hr))
 [**Работа с метаданными**](working-with-metadata.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

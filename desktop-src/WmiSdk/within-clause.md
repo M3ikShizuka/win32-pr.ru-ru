@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: ВНУТРИ предложения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6ee35350a52ef6af1aa22aacf775d22b3c7629fb479967a74aed1408aa5e1f39
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 73d863e2e71d52fe60aeed7697feeb1231164c05
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119757604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967026"
 ---
 # <a name="within-clause"></a>ВНУТРИ предложения
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e8dccdb37536352c8783f7dd6af6a9475f5bea69111e2f7f09e5395b0ebf25b4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 11888a76b11ccec7e8e659ca3a33bb23a71667ee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120062804"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972130"
 ---
 # <a name="lm_setitem-message"></a>\_Сообщение СЕТИТЕМ LM
 
@@ -39,7 +39,7 @@ ms.locfileid: "120062804"
 
 Возвращает **значение true** , если сообщение завершается с ошибкой при установке указанных значений и атрибутов.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 С сообщением [**LM- \_ Item**](lm-getitem.md) можно получить доступ к ссылкам только через числовой индекс, возвращенный в **iLink** члене [**литем**](/windows/win32/api/commctrl/ns-commctrl-litem). Обращение по ссылке через имя идентификатора, возвращенное в **сзид** , не поддерживается.
 

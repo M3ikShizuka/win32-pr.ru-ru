@@ -4,12 +4,12 @@ description: заявление о конфиденциальности лице
 ms.assetid: 6864BFBF-755B-4FE3-8684-93D85984FF1E
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5c792e2f6aa7be33f5e57cdcaee4b01b7e05ce7240172a9afbc65e81bcaebdf5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ccc532d560c3f173571bef033050193715e9b024
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119990324"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963970"
 ---
 # <a name="microsoft-windows-8-developer-license-privacy-statement"></a>заявление о конфиденциальности лицензий разработчика Microsoft Windows 8
 

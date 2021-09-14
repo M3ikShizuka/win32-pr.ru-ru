@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: d9c852bd93f839d371aa86886cd06769f79fe635986566ed592f8f5313ee8084
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 87f88c7c7b80871a68084607cb99621199dfcc0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117731184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970810"
 ---
 # <a name="d3dxshdot-function-d3dx9mathh"></a>Функция D3DXSHDot (D3dx9math. h)
 
@@ -75,7 +75,7 @@ FLOAT D3DXSHDot(
 
 Коэффициенты вывода SH.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Каждый коэффициент базисной функции илм хранится в памяти l ² + m + l, где:
 

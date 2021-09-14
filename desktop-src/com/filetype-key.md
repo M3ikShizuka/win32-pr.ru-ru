@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 9a2e331588b627ee5ce9a9c1b69631f1e8a1dbe4
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369609"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971382"
 ---
 # <a name="filetype-key"></a>Ключ FileType
 
@@ -55,13 +55,13 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\FileType
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Записи используются функцией [**жетклассфиле**](/windows/desktop/api/Objbase/nf-objbase-getclassfile) для сопоставления шаблонов с различными байтами файлов в несоставном файле. **Тип_файла** имеет подразделы CLSID, каждый из которых имеет ряд подразделов **0**, **1**, **2**, **3**. Эти значения содержат закономерности, которые, если таковые совпадают, дают указанный идентификатор CLSID. Например, значение "0, 4, FFFFFFFF, ABCD1234" указывает, что первые 4 байта должны быть ABCD1234 в указанном порядке. Значение "-4, 4, ФЕФЕФЕФЕ" указывает, что последние четыре байта в файле должны быть ФЕФЕФЕФЕ. Если любой из шаблонов соответствует, возвращается идентификатор CLSID.
 
 Ключ **\_ \_ \\ \\ классов программного обеспечения файла hKey на локальном компьютере** соответствует **\_ \_ корневому ключу classes** , который был сохранен для совместимости с предыдущими версиями com.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

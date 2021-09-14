@@ -36,12 +36,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 6c04ea3b2efa2b9af394d7b1e8792eeff5d9b012b56d2bc899e3668bf3ee7172
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 27d61c82d3874e0a6d1864b04795dd51203c89eb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119438734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970346"
 ---
 # <a name="cim_infraredcontroller-class"></a>\_Класс CIM инфраредконтроллер
 
@@ -85,7 +85,7 @@ class CIM_InfraredController : CIM_Controller
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ инфраредконтроллер** имеет следующие типы членов:
 
@@ -843,7 +843,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1546,7 +1546,7 @@ Windows все еще настраивает устройство.
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **CIM \_ инфраредконтроллер** является производным от [**\_ контроллера CIM**](cim-controller.md).
 
@@ -1554,7 +1554,7 @@ Windows все еще настраивает устройство.
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

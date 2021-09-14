@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: d61c0e934208ad72e678595ce668c6c7ff72eda3371c792b294df9f2d5915612
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7408cfb011fa0fbbb223b6757ddb10ff9cbd357b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118954753"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971809"
 ---
 # <a name="cbasevideorendererthrottlewait-method"></a>Кбасевидеорендерер. Сроттлеваит, метод
 
@@ -44,11 +44,11 @@ void ThrottleWait();
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция-член ожидает период времени, полученный от элемента данных **m \_ трсроттле** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ void ThrottleWait();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

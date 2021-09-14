@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55102679
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 4c768b2020cc16b1175d2d24da33161dc0d04a513058b6ed7485da1f9c855491
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 350b2851c6c581946eb6f591b3a4118cdb9272b9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118981774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055789"
 ---
 # <a name="esentsecondaryindexcorruptedexception-members"></a>Элементы Есентсекондариндекскорруптедексцептион
 
@@ -73,7 +73,7 @@ ms.locfileid: "118981774"
 </tr>
 <tr class="even">
 <td><img src="../images/dn292128.protproperty(exchg.10).gif" title="Защищенное свойство" alt="Protected property" /></td>
-<td><a href="/dotnet/api/system.exception.hresult#System_Exception_HResult">HResult</a></td>
+<td><a href="/dotnet/api/system.exception.hresult#System_Exception_HResult">Состав</a></td>
 <td>(Наследуется от <a href="/dotnet/api/system.exception">Exception</a>.)</td>
 </tr>
 <tr class="odd">
@@ -166,7 +166,7 @@ ms.locfileid: "118981774"
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Есентсекондариндекскорруптедексцептион](./esentsecondaryindexcorruptedexception-class.md)
 

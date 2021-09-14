@@ -6,12 +6,12 @@ keywords:
 - трехмерный эффект преобразования перспективы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 513d48a38e948f1255afa0cad3972a626c1e5b9039c9285c9c49b4180a5791d6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4ed2b1c5131319dd711d2c7802a0bfabceaaa32e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120079652"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164267"
 ---
 # <a name="3d-perspective-transform-effect"></a>Эффект трехмерного преобразования перспективы
 
@@ -26,7 +26,7 @@ ms.locfileid: "120079652"
 -   [Режимы интерполяции](#interpolation-modes)
 -   [Режимы границ](#border-modes)
 -   [Битовая карта вывода](#output-bitmap)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example-image"></a>Пример изображения
@@ -124,7 +124,7 @@ m_d2dContext->EndDraw();
 
 Этот результат выполняет операцию преобразования, а затем применяет ограничивающий прямоугольник вокруг результата. Битовая карта выходных данных — это размер ограничивающего прямоугольника.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

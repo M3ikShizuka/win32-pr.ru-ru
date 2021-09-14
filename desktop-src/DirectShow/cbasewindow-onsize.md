@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: bf6c7793af3cb7866ddaaaae8823acd91ed10ac71d939af8bc9e71eff768d75f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c9020510030d3b3d4b30e066adfe67367618fb3d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118657659"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971757"
 ---
 # <a name="cbasewindowonsize-method"></a>Кбасевиндов. OnSize, метод
 
@@ -61,7 +61,7 @@ virtual BOOL OnSize(
 
 Возвращает **значение true**.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод сохраняет новую ширину и высоту. Чтобы получить эти значения, вызовите методы [**кбасевиндов:: жетвиндовхеигхт**](cbasewindow-getwindowheight.md) и [**Кбасевиндов:: жетвиндоввидс**](cbasewindow-getwindowwidth.md) .
 

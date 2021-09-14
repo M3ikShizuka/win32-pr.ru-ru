@@ -13,16 +13,16 @@ api_type:
 - HeaderDef
 api_location:
 - Pwm.h
-ms.openlocfilehash: 3f51f360e7b6ff3966ed58d8ec3a171d8bbbfb54672c50c31852e71ab6750f95
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f63057299a8ef37ed1b38151958d2e0061ad2727
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120088144"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164332"
 ---
 # <a name="pwm_controller_get_actual_period_output-structure"></a>Контроллер ШИРОТы \_ \_ получения \_ фактической \_ \_ структуры выходных данных периода
 
-\[Некоторые сведения относятся к предварительно выпущенному продукту, который может быть значительно изменен перед коммерческой выпуском. Корпорация Майкрософт не предоставляет никаких гарантий, явных или подразумеваемых, относительно предоставленной здесь информации.\]
+\[Некоторые сведения относятся к предварительно выпущенному продукту, который может быть значительно изменен перед коммерческой выпуском. Майкрософт не предоставляет никаких гарантий, явных или подразумеваемых, относительно приведенных здесь сведений.\]
 
 Содержит действующий период вывода сигнала для контроллера ШИРОТы импульсов.
 
@@ -37,7 +37,7 @@ typedef struct _PWM_CONTROLLER_GET_ACTUAL_PERIOD_OUTPUT {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -48,7 +48,7 @@ typedef struct _PWM_CONTROLLER_GET_ACTUAL_PERIOD_OUTPUT {
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -62,7 +62,7 @@ typedef struct _PWM_CONTROLLER_GET_ACTUAL_PERIOD_OUTPUT {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

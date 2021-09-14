@@ -5,15 +5,15 @@ title: Объект Controller
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: b7db9468c1ca4c8f07c5498724333bdad9fc53bf
-ms.sourcegitcommit: 37f276b5d887a3aad04b1ba86e390dea9d87e591
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "104568598"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890416"
 ---
 # <a name="controller-object"></a>Объект Controller
 
-\[Начиная с Windows 8 и Windows Server 2012, интерфейс COM [службы виртуальных дисков](virtual-disk-service-portal.md) заменяется [API управления хранилищами Windows](/previous-versions/windows/desktop/stormgmt/windows-storage-management-api-portal).\]
+\[начиная с Windows 8 и Windows Server 2012, интерфейс COM [службы виртуальных дисков](virtual-disk-service-portal.md) заменяется [API Windows служба хранилища управления](/previous-versions/windows/desktop/stormgmt/windows-storage-management-api-portal).\]
 
 Объект контроллера моделирует контроллер в подсистеме. Контроллеры содержатся в подсистемах, и каждый контроллер имеет один или несколько портов контроллера, через которые главный компьютер может выполнять запись и чтение из LUN. Один контроллер может быть одновременно установлен в состояние "активный" для одного LUN и неактивен для других. Контроллер, активный для указанного LUN, несет ответственность за обработку входных данных и их вывод из LUN. Эта идея показана на следующем рисунке.
 
@@ -41,7 +41,7 @@ ms.locfileid: "104568598"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

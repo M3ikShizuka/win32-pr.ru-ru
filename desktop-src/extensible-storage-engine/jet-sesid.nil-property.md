@@ -25,12 +25,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 50b6b81aeaab2edc24a4277ec4818b48988760005d04ba7007035d6a2947dd73
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b381e902e88ec9a065c83e0f89a87a8e8ab46c4f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119945294"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969053"
 ---
 # <a name="jet_sesidnil-property"></a>JET_SESID. Nil, свойство
 
@@ -59,7 +59,7 @@ public static JET_SESID Nil { get; }
 
 Тип: [Microsoft.ISAM.ESENT.Interop.JET_SESID](./jet-sesid-structure.md)  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

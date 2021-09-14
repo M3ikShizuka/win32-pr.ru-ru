@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 756166fe1e28ec3cd0eef3676caafd8c00c854f18b5f6d179dd12ded18dd4fa6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 902325890b02416e796940388bca7a6548773be5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119750114"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052971"
 ---
 # <a name="d3dxmatrixrotationy-function-d3dx9mathh"></a>Функция D3DXMatrixRotationY (D3dx9math. h)
 
@@ -65,7 +65,7 @@ D3DXMATRIX* D3DXMatrixRotationY(
 
 Указатель на структуру [**D3DXMATRIX**](d3dxmatrix.md) , повернутую вокруг оси y.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре *тоска* . Таким образом, функция **D3DXMatrixRotationY** может использоваться в качестве параметра для другой функции.
 

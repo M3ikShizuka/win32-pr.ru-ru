@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55102051
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: bac1a4fab794b29004d2150c1d0eb20b79c855003185383b5414dd7b2fb0ddcf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6241c808b876cec6e0d18c733a5cd799052df65f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117708992"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963193"
 ---
 # <a name="esentkeytoobigexception-methods"></a>Методы EsentKeyTooBigException 
 
@@ -78,7 +78,7 @@ ms.locfileid: "117708992"
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

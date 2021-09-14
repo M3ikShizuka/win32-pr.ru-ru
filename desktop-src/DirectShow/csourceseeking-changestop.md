@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 09473b5bbe20c6c31748f0079594424f7e0afa62e2594ff1cc80f33cb1f5e6bb
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: eefcc64b4692363c8caa8f39a3a0db9beb0d08b5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120103124"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971614"
 ---
 # <a name="csourceseekingchangestop-method"></a>Ксаурцесикинг. Чанжестоп, метод
 
@@ -44,7 +44,7 @@ virtual HRESULT ChangeStop() = 0;
 
 Возвращает значение **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод [**ксаурцесикинг:: сетпоситионс**](csourceseeking-setpositions.md) вызывает этот метод, если позиция окончания изменяется. Этот метод является чисто виртуальным; производный класс должен реализовать его. В следующем примере показана возможная реализация:
 
@@ -59,7 +59,7 @@ HRESULT CMyStream::ChangeStop( )
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ HRESULT CMyStream::ChangeStop( )
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

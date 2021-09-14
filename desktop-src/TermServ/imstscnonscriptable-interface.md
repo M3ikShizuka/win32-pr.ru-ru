@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 86ce3b1e921635850e9ffa713c55a812a806ac4e757e772569e7db817410ad3d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 92372f7ea9479f7fcdd632546a0bd7dd2f0b465e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119770654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249919"
 ---
 # <a name="imstscnonscriptable-interface"></a>Интерфейс Имстскнонскриптабле
 
@@ -73,7 +73,7 @@ ms.locfileid: "119770654"
 
 
 
-| Свойство                                                                      | Тип доступа           | Описание                                                                  |
+| Свойство                                                                      | Тип доступа           | Описание:                                                                  |
 |:------------------------------------------------------------------------------|:----------------------|:-----------------------------------------------------------------------------|
 | [**бинарипассворд**](imstscnonscriptable-binarypassword.md)<br/>       | Чтение/запись<br/> | Данное свойство не поддерживается.<br/>                                   |
 | [**бинарисалт**](imstscnonscriptable-binarysalt.md)<br/>               | Чтение/запись<br/> | Данное свойство не поддерживается.<br/>                                   |
@@ -85,7 +85,7 @@ ms.locfileid: "119770654"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 указание пароля для элемента управления удаленный рабочий стол ActiveX является необязательным. при предоставлении пароля элементу управления следует применить к элементу управления только один из трех предыдущих форматов, прежде чем инициировать соединение с помощью вызова метода [**Подключение**](imstscax-connect.md) .
 
@@ -104,7 +104,7 @@ ms.locfileid: "119770654"
 -   [**IMsRdpClientNonScriptable4**](imsrdpclientnonscriptable4.md)
 -   [**IMsRdpClientNonScriptable5**](imsrdpclientnonscriptable5.md)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -119,7 +119,7 @@ ms.locfileid: "119770654"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

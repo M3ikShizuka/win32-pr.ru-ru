@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: e8a9a70d403c4251c3250fc4d6f19c985a1546ea563a0d1bfe50ef7d7c6cfeda
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7bf1fcb1cbfb651221296054493688b2d9f33bd3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118157491"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054006"
 ---
 # <a name="cbaserendererstartstreaming-method"></a>Кбасерендерер. Стартстреаминг, метод
 
@@ -44,13 +44,13 @@ virtual HRESULT StartStreaming();
 
 Возвращает \_ значение, равное ОК или другому значению **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если фильтр имеет образец, он планирует подготовку к просмотру. В противном случае, если имеется ожидающее уведомление конца потока, фильтр отправляет событие [**\_ завершения EC**](ec-complete.md) в Диспетчер графа фильтров.
 
 Этот метод вызывает метод [**кбасерендерер:: онстартстреаминг**](cbaserenderer-onstartstreaming.md) . Этот метод не выполняет никаких действий в базовом классе, но производный класс может его переопределить.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ virtual HRESULT StartStreaming();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

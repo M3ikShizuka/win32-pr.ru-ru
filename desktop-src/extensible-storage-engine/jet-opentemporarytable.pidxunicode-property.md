@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 378c1497d57e3d904398d92d654579cc4a8702271db3525a2943e50ae3d03726
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 98e5beb4f4523f5e6a6da37a999b6c0a2ab7b4d5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118074028"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126962933"
 ---
 # <a name="jet_opentemporarytablepidxunicode-property"></a>Свойство JET_OPENTEMPORARYTABLE. пидксуникоде
 
@@ -64,7 +64,7 @@ public JET_UNICODEINDEX pidxunicode { get; set; }
 
 Тип: [Microsoft.ISAM.ESENT.Interop.JET_UNICODEINDEX](./jet-unicodeindex-class.md)  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

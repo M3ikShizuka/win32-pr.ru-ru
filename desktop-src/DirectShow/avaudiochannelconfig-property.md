@@ -4,12 +4,12 @@ ms.assetid: ec13bb55-47af-4d79-9560-d297bce8e236
 title: Свойство Аваудиочаннелконфиг (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2ba9c497305292abeb34b86a7989fb05fbb872c898d10743ebd93b3982089e00
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 52ee1bc7897d92f7efa1b6d351d2f73c32867529
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119983794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162180"
 ---
 # <a name="avaudiochannelconfig-property"></a>Аваудиочаннелконфиг, свойство
 
@@ -29,7 +29,7 @@ ms.locfileid: "119983794"
 
 Значение этого свойства является побитовым или для элементов перечисления [**еаваудиочаннелконфиг**](/windows/desktop/api/codecapi/ne-codecapi-eavaudiochannelconfig) .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Число каналов включает канал с низкой частотой (НИЗКОЧАСТОТный), если он присутствует.
 

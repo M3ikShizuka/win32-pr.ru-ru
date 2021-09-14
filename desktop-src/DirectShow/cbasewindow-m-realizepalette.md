@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: dd1e51a48b4e359f8000b3be5e40b3bbfa725507bdb956d637ea8ded98eaad6d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ad05b499432747bde52651bcabe576fe9f356b28
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119567434"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971765"
 ---
 # <a name="cbasewindowm_realizepalette-member"></a>Элемент Кбасевиндов:: m \_ реализепалетте
 
@@ -40,7 +40,7 @@ UINT m_RealizePalette;
 
 Метод [**кбасевиндов:: сетпалетте**](cbasewindow-setpalette.md) отправляет это сообщение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -51,7 +51,7 @@ UINT m_RealizePalette;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,16 +4,16 @@ ms.assetid: 3da1f951-cb8b-49ce-aba2-0badb3178093
 title: Аннотация инициализации параметра
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a2d66d0cc18782d97a5a56c73ab12cd9222d33827930d60023fccf73cd2a8455
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c564b5b5e273b320fdc5de6148ef5ba5dd9f1b78
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118798669"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966573"
 ---
 # <a name="parameter-initialization-annotation"></a>Аннотация инициализации параметра
 
-Используйте эту заметку для определения содержимого внешнего файла в качестве значения инициализации для параметра effect. Например:
+Используйте эту заметку для определения содержимого внешнего файла в качестве значения инициализации для параметра effect. Пример:
 
 
 ```
@@ -24,7 +24,7 @@ string SasResourceAddress = "Value";
 
 где value — это текстовая строка ASCII, которая может содержать абсолютный или относительный путь. Относительный путь относится к каталогу, содержащему файл эффектов.
 
-Пример:
+Например:
 
 
 ```

@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: f980640009158c6c4dc684158836d1514ca47755fea700ac7cc619f6e7574409
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 1b4def55dfaca19608599d9c79e20d3e0690832c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119789094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970805"
 ---
 # <a name="instructions---vs_1_1"></a>Инструкции — VS \_ 1 \_ 1
 
@@ -31,7 +31,7 @@ ms.locfileid: "119789094"
 
 
 
-| Имя                                                                           | Описание                                                                                                     | Слоты инструкций | Настройка | Арифметический | Оператор new |
+| Имя                                                                           | Описание                                                                                                     | Слоты инструкций | Настройка | Арифметический | Создать |
 |--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-------------------|-------|------------|-----|
 | [Надстройка VS](add---vs.md)                                                       | Добавление двух векторов                                                                                                 | 1                 |       | x          | x   |
 | [\_входные данные об использовании дкл (SM1, SM2, SM3-VS ASM)](dcl-usage-input-register---vs.md) | Объявление входных регистров вершин (см. раздел [регистры VS \_ 1 \_ 1](dx9-graphics-reference-asm-vs-registers-vs-1-1.md)) | 0                 | x     |            | x   |
@@ -52,7 +52,7 @@ ms.locfileid: "119789094"
 | [m4x4 — VS](m4x4---vs.md)                                                     | 4x4 умножение                                                                                                    | 4                 |       | x          | x   |
 | [Mad — VS](mad---vs.md)                                                       | Умножение и добавление                                                                                                | 1                 |       | x          | x   |
 | [Max — VS](max---vs.md)                                                       | Максимум                                                                                                         | 1                 |       | x          | x   |
-| [min — VS](min---vs.md)                                                       | Минимум                                                                                                         | 1                 |       | x          | x   |
+| [min — VS](min---vs.md)                                                       | Минимальные                                                                                                         | 1                 |       | x          | x   |
 | [MOV – VS](mov---vs.md)                                                       | Переместить                                                                                                            | 1                 |       | x          | x   |
 | [mul — VS](mul---vs.md)                                                       | Multiply                                                                                                        | 1                 |       | x          | x   |
 | [NOP — VS](nop---vs.md)                                                       | Нет операций                                                                                                    | 1                 |       | x          | x   |

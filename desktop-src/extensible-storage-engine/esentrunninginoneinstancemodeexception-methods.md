@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55102674
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: b9c17c7f2c76c1ebfe70765862878d9e0d1a13ed76f30e8477330be1b7b6ac0e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d683b0ae09803b8d01561ef42f7ab7c407b6589d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118981875"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055794"
 ---
 # <a name="esentrunninginoneinstancemodeexception-methods"></a>Методы EsentRunningInOneInstanceModeException 
 
@@ -80,7 +80,7 @@ ms.locfileid: "118981875"
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Есентруннингинонеинстанцемодиксцептион](./esentrunninginoneinstancemodeexception-class.md)
 

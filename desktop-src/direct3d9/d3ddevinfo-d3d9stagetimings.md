@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3D9Types.h
-ms.openlocfilehash: eb4302b86d31c074f58fd003601557864aee152da9e532771336097f4228ea61
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cf8c9522decfcbb09a60aff0bee65ca05a0f5eeb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119676734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055992"
 ---
 # <a name="d3ddevinfo_d3d9stagetimings-structure"></a>\_Структура D3D9STAGETIMINGS D3DDEVINFO
 
@@ -36,7 +36,7 @@ typedef struct D3DDEVINFO_D3D9STAGETIMINGS {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -62,11 +62,11 @@ typedef struct D3DDEVINFO_D3D9STAGETIMINGS {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Для оптимальной производительности рекомендуется использовать сбалансированную нагрузку.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ typedef struct D3DDEVINFO_D3D9STAGETIMINGS {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

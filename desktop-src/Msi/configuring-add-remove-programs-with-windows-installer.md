@@ -5,11 +5,11 @@ title: настройка установки и удаления програм�
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: d48ad8499d395ffc4a5aad5491883f9c3161b78a
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122465491"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127142238"
 ---
 # <a name="configuring-addremove-programs-with-windows-installer"></a>настройка установки и удаления программ с помощью установщик Windows
 

@@ -15,12 +15,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 238df7081bab7324b187bde10c109e7ca15a717373f2ffa1ff7a831532007d75
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d47c4dc8335077d6f8568be4b56200558942ac39
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119954934"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967122"
 ---
 # <a name="swbemmethodset-object"></a>Объект Свбеммесодсет
 
@@ -46,7 +46,7 @@ ms.locfileid: "119954934"
 
 | Метод                              | Описание                                                                                                                                  |
 |:------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|
-| [**Item**](swbemmethodset-item.md) | Извлекает объект [**свбеммесод**](swbemmethod.md) из коллекции. Это метод автоматизации по умолчанию для этого объекта.<br/> |
+| [**Элемент**](swbemmethodset-item.md) | Извлекает объект [**свбеммесод**](swbemmethod.md) из коллекции. Это метод автоматизации по умолчанию для этого объекта.<br/> |
 
 
 

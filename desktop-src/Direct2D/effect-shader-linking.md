@@ -5,11 +5,11 @@ ms.assetid: 431A5B39-6C84-442D-AC66-0F341E10DF2C
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: e22d9ae245b5bbaa0c13dd7d5296dc419f740404
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122881823"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163303"
 ---
 # <a name="effect-shader-linking"></a>Связывание шейдеров эффектов
 
@@ -23,7 +23,7 @@ Direct2D использует оптимизацию, называемую св�
     -   [Шаг 1. компиляция функции экспорта](#step-1-compile-the-export-function)
     -   [Шаг 2. Компиляция полного шейдера и встраивание функции экспорта](#step-2-compile-the-full-shader-and-embed-the-export-function)
 -   [Экспорт спецификаций функций](#export-function-specifications)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="overview-of-effect-shader-linking"></a>Общие сведения о связывании шейдера эффектов
 
@@ -240,7 +240,7 @@ fxc /T ps_<shadermodel> <MyShaderFile>.hlsl /D D2D_FULL_SHADER /D D2D_ENTRY=<ent
 
     для сложных входов D2D будет передавать только координату текстуры, как описано в документации Windows 8.
 
--   Расположение выходных данных
+-   Расположение вывода
 
     ```syntax
     float4 d2d_posScene : SCENE_POSITION                

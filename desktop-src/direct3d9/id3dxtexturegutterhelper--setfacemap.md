@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: a7de812f5445d0d8d704aeba939cf8cbc4441d4ed542bf716371a7fc12a1ba6a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8ba0472052d5e2e06d759c83a404a197ecda148f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119747384"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055953"
 ---
 # <a name="id3dxtexturegutterhelpersetfacemap-method"></a>Метод ID3DXTextureGutterHelper:: Сетфацемап
 
@@ -55,7 +55,7 @@ HRESULT SetFaceMap(
 
 Если метод выполнен успешно, возвращается значение S \_ . Если метод завершается с ошибкой, будет возвращено следующее значение. D3DERR \_ инвалидкалл
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Входные данные грани сетки для этого метода допустимы только для допустимых пикселей текстуры (не являющихся классами 0). [**ID3DXTextureGutterHelper:: жетгуттермап**](id3dxtexturegutterhelper--getguttermap.md) будет возвращать ненулевые значения для допустимого пикселей текстуры.
 

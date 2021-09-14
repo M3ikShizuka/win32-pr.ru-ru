@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: d7d85f8f8ab60e6917a308997457b6e6035f8d21c2b1f72fb2b96534282aa84d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 289fac360f989504d3eb5108f8c2388ac4a06b09
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117998882"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891912"
 ---
 # <a name="iamtimelinetrackareyoublank-method"></a>Метод Иамтимелинетракк:: Арэйаубланк
 
@@ -56,7 +56,7 @@ HRESULT AreYouBlank(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.
@@ -79,7 +79,7 @@ HRESULT AreYouBlank(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

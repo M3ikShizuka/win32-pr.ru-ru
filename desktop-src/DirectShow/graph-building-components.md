@@ -4,16 +4,16 @@ ms.assetid: d803c56c-6fb1-4937-92e7-9ed2db2afc46
 title: Компоненты Graph-Building
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 14aabcf31f55d0d42117e39cb22fa286b383641c94fe21f386345fd8db1cc890
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ea3ba346356109d8080d887a510cfcb85b6a6c80
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119564644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251116"
 ---
 # <a name="graph-building-components"></a>Компоненты Graph-Building
 
-DirectShow предоставляет несколько компонентов, которые можно использовать для построения графов фильтра. следующие основные параметры.
+DirectShow предоставляет несколько компонентов, которые можно использовать для построения графов фильтра. Вот некоторые из них.
 
 -   [отфильтруйте Graph Manager](filter-graph-manager.md). Этот объект управляет графом фильтра. Кроме того, в нем поддерживаются интерфейсы [**играфбуилдер**](/windows/desktop/api/Strmif/nn-strmif-igraphbuilder), [**имедиаконтрол**](/windows/desktop/api/Control/nn-control-imediacontrol)и [**имедиаевентекс**](/windows/desktop/api/Control/nn-control-imediaeventex) . все приложения DirectShow используют этот объект в некоторый момент, хотя в некоторых случаях другой объект создает фильтр Graph Manager для приложения.
 -   [захватить построитель Graph](capture-graph-builder.md). Этот объект предоставляет дополнительные методы для построения графов фильтра. Изначально он был разработан для создания графиков, которые выполняют видеозахват (следовательно, имя), но это полезно для многих других типов настраиваемых диаграмм фильтров. Он поддерживает интерфейс [**ICaptureGraphBuilder2**](/windows/desktop/api/Strmif/nn-strmif-icapturegraphbuilder2) .

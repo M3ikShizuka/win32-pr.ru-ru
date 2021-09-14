@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55103155
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 872b7319f2241463b00e110944e0d192cd6ab222dd8734363184283e668388dd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: da9126b43ede620be74ff71f2265bd77e1de9eb1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118980894"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963037"
 ---
 # <a name="esentunicodetranslationfailexception-methods"></a>Методы EsentUnicodeTranslationFailException 
 
@@ -78,7 +78,7 @@ ms.locfileid: "118980894"
 
 Начало
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

@@ -4,12 +4,12 @@ description: Извлекает значение указанного свойс
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 06/20/2019
-ms.openlocfilehash: 8adb48994580125d153c36394c4db65cb38f4a08306814d1638e5c27eb3d4868
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c8a7f7b36fdb0128b4047335051823da07a074c7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118279404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966394"
 ---
 # <a name="idxcoreadaptergetproperty-method"></a>Идкскореадаптер:: метод Property
 
@@ -62,7 +62,7 @@ HRESULT GetProperty(
 |E_INVALIDARG|Недостаточный размер буфера указан в *PropertyData*. Вызовите [жетпропертисизе](./nf-dxcore_interface-idxcoreadapter-getpropertysize.md) , чтобы определить размер буфера *PropertyData* для заданного свойства адаптера.|
 |E_POINTER|`nullptr` был предоставлен для *PropertyData*.|
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Вы можете вызвать метод **Property** для адаптера, который больше не является допустимым &mdash; . в результате эта функция не будет завершаться ошибкой. Эта функция обнуляет буфер *PropertyData* перед заполнением.
 

@@ -4,12 +4,12 @@ ms.assetid: 2c32eda1-e510-40eb-ae75-fc7b9e9953cd
 title: Константы LINEADDRESSTYPE_ (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f6555ff934ffb8c1b40b8f35d279a2071cad32b80b754af19672108f5e318a17
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c6d0a46eff2a7a0c38fa17aed4b831ef8701c565
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119873340"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249991"
 ---
 # <a name="lineaddresstype_-constants"></a>\_Константы линеаддресстипе
 
@@ -82,7 +82,7 @@ ms.locfileid: "119873340"
 
 </dt> </dl> </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -16,11 +16,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 1f52fbdbaa37c392de727dd2640580800d813d51
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105672520"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891261"
 ---
 # <a name="clientspec-enumeration"></a>Перечисление Клиентспек
 
@@ -46,14 +46,14 @@ typedef enum  {
 <span id="FullMode"></span><span id="fullmode"></span><span id="FULLMODE"></span>**фуллмоде**
 </dt> <dd>
 
-Это полный протокол удаленный рабочий стол Windows 8.
+протокол полностью Windows 8 удаленный рабочий стол протокол.
 
 </dd> <dt>
 
 <span id="ThinClientMode"></span><span id="thinclientmode"></span><span id="THINCLIENTMODE"></span>**синклиентмоде**
 </dt> <dd>
 
-Протокол ограничен использованием кодеков RemoteFX для Windows 7 с пакетом обновления 1 (SP1) и более компактного кэша. Все остальные кодеки отключены. Этот протокол имеет наименьший объем памяти.
+протокол ограничен использованием Windows 7 с пакетом обновления 1 (SP1) RemoteFX кодеком и небольшим кэшем. Все остальные кодеки отключены. Этот протокол имеет наименьший объем памяти.
 
 </dd> <dt>
 
@@ -71,7 +71,7 @@ typedef enum  {
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8<br/>                                                                   |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                         |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                         |
 | Библиотека типов<br/>             | <dl> <dt>MsTscAx.dll</dt> </dl> |
 
 

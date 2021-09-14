@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3DX10Math.h
-ms.openlocfilehash: 2c6fdcdd2a404e4122a0c8c66995fdabaf1284dfa67ebade888d2964c0c1fb8a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5571fb19786e19a61c85741bcf6d4acb5231e977
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119852804"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056066"
 ---
 # <a name="d3dxvec4transformarray-function-d3dx10mathh"></a>Функция D3DXVec4TransformArray (D3DX10Math. h)
 
@@ -104,13 +104,13 @@ D3DXVECTOR4* D3DXVec4TransformArray(
 
 Указатель на структуру [**D3DXVECTOR4**](d3d10-d3dxvector4.md) , которая является преобразованным массивом.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция преобразует массив ПС (x, y, z, w) на матрицу pM.
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре *тоска* . Таким образом, функция **D3DXVec4TransformArray** может использоваться в качестве параметра для другой функции.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -120,7 +120,7 @@ D3DXVECTOR4* D3DXVec4TransformArray(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

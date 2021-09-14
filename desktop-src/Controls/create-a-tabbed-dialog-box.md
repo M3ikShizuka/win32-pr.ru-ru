@@ -4,12 +4,12 @@ description: В примере в этом разделе показано, ка
 ms.assetid: DBF7FBDF-AADC-45CE-833E-F893C1129FC0
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8fa2ad8ba22c2972c6bdd502728af413d4800dabf0ab5c9196a4033a52267115
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fa0b84a8a77d18903ddbdb29687cc2b97b88872b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119920714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246970"
 ---
 # <a name="how-to-create-a-tabbed-dialog-box"></a>Создание диалогового окна с вкладками
 
@@ -33,7 +33,7 @@ ms.locfileid: "119920714"
 -   C/C++
 -   Windows Программирование пользовательского интерфейса
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="create-a-tabbed-dialog-box"></a>Создание диалогового окна с вкладками
 

@@ -4,12 +4,12 @@ ms.assetid: 2e238d31-98b2-4c79-96b0-9e6949010a73
 title: Свойство MFPKEY_DECODERCOMPLEXITYPROFILE (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ca206357a3f3a396ac6d07ea16a1b72bc245c641095a5523e46139dfd6af7f76
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f39544830a0a05e21779a637da61d3bcb310fcd8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119604224"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257619"
 ---
 # <a name="mfpkey_decodercomplexityprofile-property"></a>МФПКЭЙ \_ декодеркомплекситипрофиле, свойство
 
@@ -23,7 +23,7 @@ g \_ всзвмвкдекодеркомплекситипрофиле
 
 **VT \_ BSTR**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это значение можно прочитать только после завершения кодирования.
 
@@ -66,7 +66,7 @@ g \_ всзвмвкдекодеркомплекситипрофиле
 
 Для видеоматериала можно запросить уровень профиля, установив [мфпкэй \_ декодеркомплекситирекуестед](mfpkey-decodercomplexityrequestedproperty.md) перед началом кодирования. Кодек попытается выполнить кодирование в параметрах запрошенного уровня сложности, но другие настроенные параметры будут иметь приоритет. Следует всегда проверять фактическое значение профиля сложности после кодирования в случае, если запрос не может быть обработан.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,7 +78,7 @@ g \_ всзвмвкдекодеркомплекситипрофиле
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

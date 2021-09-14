@@ -4,12 +4,12 @@ ms.assetid: f81f8eca-d16f-4da4-b3cf-f90c1d98053f
 title: Свойство MFPKEY_STAT_RMAX (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8a75426934c4d08ace29e35f7ebe06e7262efd2a84638a227e36fc7bd5bcde5d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8bbd5ecd4a0c642e84ab561ec338fb7375513030
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118242103"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127257515"
 ---
 # <a name="mfpkey_stat_rmax-property"></a>МФПКЭЙ \_ stat \_ Рмакс, свойство
 
@@ -23,7 +23,7 @@ ms.locfileid: "118242103"
 
 **VT \_ I4**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы определить максимальную скорость потока в закодированном потоке, прочтите это свойство в конце кодирования.
 
@@ -34,11 +34,11 @@ ms.locfileid: "118242103"
 | Требование | Значение |
 |-------------------|-----------------------------------------------------------------------------------------|
 | Клиент<br/> | Windows XP, Windows Vista или Windows 7<br/>                                       |
-| Header<br/> | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также статью
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

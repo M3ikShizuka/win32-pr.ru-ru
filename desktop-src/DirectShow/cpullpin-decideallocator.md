@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: e02fe78631c6ddee01b7acc96d761f71b80e8d3e1738d2ed6f6ae40d70b0c5d1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 91ffa139b916b1594e0729a0f8d52f07c62eda12
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120055064"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055565"
 ---
 # <a name="cpullpindecideallocator-method"></a>Кпуллпин. ДеЦидеаллокатор, метод
 
@@ -61,11 +61,11 @@ virtual HRESULT DecideAllocator(
 
 Возвращает \_ ОК, если успешно, или код ошибки в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод вызывает метод [**иасинкреадер:: рекуесталлокатор**](/windows/desktop/api/Strmif/nf-strmif-iasyncreader-requestallocator) для согласования распределителя. Он передает параметр *паллок* непосредственно в метод **рекуесталлокатор** . Он передает параметр *ппропс* в **Рекуесталлокатор** , если *ппропс* имеет значение, отличное от **null**. в противном случае он создает структуру **\_ свойств распределителя** с запросом по умолчанию из трех буферов размером 64 КБ.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ virtual HRESULT DecideAllocator(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: Увеличивает или уменьшает контрастн
 ms.assetid: c0cc0f86-f6d4-e951-0cdd-dbad488e0793
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ad766b33f82a409395186f219321cf1035d49fe447c29fb3a95071c985c18397
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a6f287b1309aceadc4709bae3b1c2101a06df32d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119814929"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127164179"
 ---
 # <a name="contrast-effect"></a>Контрастный результат
 
@@ -24,7 +24,7 @@ ms.locfileid: "119814929"
 -   [Примеры изображений](#example-images)
 -   [Образец кода](#sample-code)
 -   [Свойства эффектов](#effect-properties)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Связанные темы](#related-topics)
 
 ## <a name="example-images"></a>Примеры изображений
@@ -39,7 +39,7 @@ ms.locfileid: "119814929"
 
 ![изображение после применения эффектов](images/contrast-effect-after.png)
 
-## <a name="sample-code"></a>Пример кода
+## <a name="sample-code"></a>Образец кода
 
 ```cpp
 ComPtr<ID2D1Effect> contrastEffect;
@@ -58,7 +58,7 @@ m_d2dContext->EndDraw();
 
 Свойства для эффектов контрастности определяются перечислением [**\_ \_ prop контрастности D2D1**](/windows/desktop/api/d2d1effects_2/ne-d2d1effects_2-d2d1_contrast_prop) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |--------------------------|---------------------------------------------------|

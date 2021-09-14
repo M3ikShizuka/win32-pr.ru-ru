@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Poclass.h
 - BatClass.h
-ms.openlocfilehash: 29d8b33238fa8daa463c007fa9d65cba9c6fb72ef13f0f68587a1452f3dabb0b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e2de9d3ab48aec13a9a5c1957a5f98aefbe6a09f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119143545"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055109"
 ---
 # <a name="ioctl_battery_query_status-control-code"></a>\_ \_ \_ Управляющий код состояния запроса аккумулятора ioctl
 

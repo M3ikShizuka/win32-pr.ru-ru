@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 12cb5f1b41cc4450173c3a2fc35d01afb00e1cab9984edabfa3684ab33b8228d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e4e3514d4717262a7afab7ae808d747de3a1b635
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117730812"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055978"
 ---
 # <a name="d3dxvec3transformcoord-function-d3dx9mathh"></a>Функция D3DXVec3TransformCoord (D3dx9math. h)
 
@@ -75,7 +75,7 @@ D3DXVECTOR3* D3DXVec3TransformCoord(
 
 Указатель на структуру [**D3DXVECTOR3**](d3dxvector3.md) , которая является преобразованным вектором.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция преобразует вектор, *НЗ* (x, y, z, 1) матрицу, выполнив проецирование результата обратно в w = 1.
 
@@ -92,7 +92,7 @@ D3DXVECTOR3* D3DXVec3TransformCoord(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

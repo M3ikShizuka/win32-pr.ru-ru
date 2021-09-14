@@ -17,12 +17,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 01c696985b4b632223318675fd63f842b85ed6e27297ff1befebbac1b3fa9bce
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ade12d72d68b43df7d9ae3d1f33010bb95b7052a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119755504"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970102"
 ---
 # <a name="ibackgroundcopyjobgetid-method"></a>Метод использованием метода ibackgroundcopyjob:: GetId
 
@@ -54,7 +54,7 @@ HRESULT GetId(
 
 Этот метод возвращает **S_OK** при успешном или одном из стандартных значений **HRESULT** com при ошибке.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Служба создает идентификатор при [создании](ibackgroundcopymanager-createjob.md) задания. Чтобы использовать идентификатор для получения указателя на интерфейс [**использованием метода ibackgroundcopyjob**](ibackgroundcopyjob-.md) для задания, вызовите метод [**Ибаккграундкопиманажер:: жетжоб**](ibackgroundcopymanager-getjob.md) .
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 932168d2d251d5506727503053cb56cab2e50e57209276649beb35932478ab26
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5e424b4e5fd1c97f5aec01571d887b54dbb143b7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119981474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966413"
 ---
 # <a name="xmuint4-structure"></a>Структура XMUINT4
 
@@ -41,7 +41,7 @@ typedef struct _XMUINT4 {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -59,7 +59,7 @@ y-компонент вектора.
 
 <dl> <dt>
 
-**гармошкой**
+**z**
 </dt> <dd>
 
 z-компонент вектора.
@@ -76,7 +76,7 @@ w — компонент вектора.
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта структура определена в ``D3DX\_DXGIFormatConvert.inl`` заголовке пакета SDK DirectX (июнь 2010) для использования из C++. последняя версия этого заголовка в пакете [Microsoft. дкссдк. D3DX](https://www.nuget.org/packages/Microsoft.DXSDK.D3DX) NuGet больше не определяет его и использует [DirectX:: XMUINT4](/windows/win32/api/directxmath/ns-directxmath-xmuint4) в директксмас.
 

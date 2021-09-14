@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3c4550fcabd46574ba7c8806ddbb8b9ee23d1a684dfd56e8d27138607a1bd52b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c307233b794aea930c5419a6c1464526d84b4eb5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119915464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054053"
 ---
 # <a name="lvm_removeallgroups-message"></a>\_Сообщение LVM ремовеаллграупс
 
@@ -39,14 +39,14 @@ ms.locfileid: "119915464"
 
 Возвращаемое значение не используется.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Чтобы использовать это сообщение, необходимо указать манифест, указывающий Comclt32.dll версии 6,0. Дополнительные сведения о манифестах см. в разделе [Включение визуальных стилей](cookbook-overview.md).
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

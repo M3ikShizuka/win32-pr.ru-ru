@@ -27,11 +27,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: ae8d31661451a2bd1c7c5f942141c27ae552c578
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103911763"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055725"
 ---
 # <a name="jet_indexlistcolumnidgrbitindex-property"></a>Свойство JET_INDEXLIST. Колумнидгрбитиндекс
 
@@ -64,7 +64,7 @@ public JET_COLUMNID columnidgrbitIndex { get; internal set; }
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс JET_INDEXLIST](./jet-indexlist-class.md)
 

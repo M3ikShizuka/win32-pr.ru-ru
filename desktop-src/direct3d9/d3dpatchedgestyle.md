@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3D9Types.h
-ms.openlocfilehash: 717139a33e260aa29bc8d0e244fa49b3cb324c5249614f513faf0624ccf21841
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e625b7c4ff12f9859efdcc2b10b551a2223adab6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119987244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970985"
 ---
 # <a name="d3dpatchedgestyle-enumeration"></a>Перечисление D3DPATCHEDGESTYLE
 
@@ -62,7 +62,7 @@ typedef enum D3DPATCHEDGESTYLE {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Обратите внимание, что непрерывная тесселяция создает совершенно другой шаблон тесселяции из дискретного для тех же значений тесселяции (это более очевидно в режиме каркаса). Таким образом, 4,0 непрерывная не совпадает с 4 дискретной.
 

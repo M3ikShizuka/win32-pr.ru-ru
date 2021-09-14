@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: e8d5457d35f2385136a8280a73f819fcc475f8a86229f045dd00f2b7cf330fcf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d8462d097834015883d47ec3da0d70e517a4ead0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119020572"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054964"
 ---
 # <a name="delete-method-of-the-cim_logicalfile-class"></a>Метод DELETE \_ класса LOGICALFILE CIM
 
@@ -65,7 +65,7 @@ uint32 Delete();
 
 2
 
-Доступ запрещен.
+Access denied. (Недопустимое значение {значение_утверждения} для утверждения {имя_утверждения}. Доступ запрещен.)
 
 </dd> <dt>
 
@@ -168,13 +168,13 @@ uint32 Delete();
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В настоящее время этот метод не реализован инструментарием WMI. Чтобы использовать этот метод, его необходимо реализовать в собственном поставщике.
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -188,7 +188,7 @@ uint32 Delete();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 4057cafa3962c85fbca9342debbf7bb0e92355fc083e693889df298e53509259
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e682211a98f4409fda35687160c88b121fa93898
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119768144"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054695"
 ---
 # <a name="coutputqueuenewsegment-method"></a>Каутпуткуеуе. Невсегмент, метод
 
@@ -69,7 +69,7 @@ HRESULT NewSegment(
 
 Возвращает значение **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если объект использует поток, он помещает в очередь следующие элементы по порядку:
 
@@ -93,7 +93,7 @@ struct NewSegmentPacket {
 
 Если объект не использует поток, он вызывает метод [**каутпуткуеуе:: сенданивай**](coutputqueue-sendanyway.md) для доставки всех ожидающих выборок. Затем он вызывает **Ипин:: невсегмент** для входного ПИН-кода.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -104,7 +104,7 @@ struct NewSegmentPacket {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

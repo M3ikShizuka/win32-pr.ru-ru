@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: de9440af59efc763e034615f7919e94c4cfe9227
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122482490"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056277"
 ---
 # <a name="setting-and-retrieving-internet-options"></a>Настройка и получение свойств браузера
 
@@ -29,7 +29,7 @@ ms.locfileid: "122482490"
     -   [Полный пример](#complete-sample)
 -   [Настройка параметров соединения](#setting-connection-options)
 -   [Получение параметров соединения](#retrieving-connection-options)
--   [Связанные темы](#related-topics)
+-   [Связанные разделы](#related-topics)
 
 ## <a name="implementation-steps"></a>Шаги реализации
 
@@ -43,7 +43,7 @@ ms.locfileid: "122482490"
 
 Так как существует много параметров Интернета, важно выбрать правильный вариант. Многие свойства Интернета влияют на поведение функций WinINet и Internet Explorer.
 
-Например, вы можете:
+Например, администратор может сделать следующее:
 
 -   Обрабатывайте обычную проверку подлинности сервера и прокси, задав имена пользователей и пароли.
 -   Задайте или получите строку агента пользователя, используемую серверами для определения функций клиентского приложения или браузера.
@@ -283,7 +283,7 @@ BOOL SetConnectionOptions()
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

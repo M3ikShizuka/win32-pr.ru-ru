@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 80d7f84f299ad013051dc0f3e183b855f45c4203206d039cec8480a7dcac3bda
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 325ff948c4c8f03e8051248f15928d8e8c56e52f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119697754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126892317"
 ---
 # <a name="em_findtextw-message"></a>\_Сообщение ФИНДТЕКСТВ EM
 
@@ -62,11 +62,11 @@ ms.locfileid: "119697754"
 
 Если целевая строка найдена, возвращаемое значение является Отсчитываемая от нуля позицией первого символа совпадения. Если целевой объект не найден, возвращается значение-1.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 **EM \_ ФИНДТЕКСТВ** использует структуру [**финдтекств**](/windows/win32/api/richedit/ns-richedit-findtexta) , а [**EM \_ финдтекстексв**](em-findtextexw.md) использует структуру [**финдтекстексв**](/windows/desktop/api/Richedit/ns-richedit-findtextexa) . Разница заключается в том, что **финдтекстексв** сообщает о найденном диапазоне текста.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,7 +78,7 @@ ms.locfileid: "119697754"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

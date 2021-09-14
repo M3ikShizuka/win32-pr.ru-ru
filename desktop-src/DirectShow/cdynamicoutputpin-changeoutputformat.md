@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 534d588bc1633770c35b0e0edbc2079ed8f7ab5035d3a8d2ff181042d26fdb3f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 57421b2fd9624d9798037151a5656343e386a497
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119074278"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053991"
 ---
 # <a name="cdynamicoutputpinchangeoutputformat-method"></a>Кдинамикаутпутпин. Чанжеаутпутформат, метод
 
@@ -89,13 +89,13 @@ HRESULT ChangeOutputFormat(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод изменяет тип формата во время выполнения фильтра. Если подчиненный ПИН-код принимает новый формат, повторное подключение не требуется. В противном случае метод пытается повторно подключить ПИН-код. Если метод успешно изменяет формат, он доставляет сведения о новом сегменте. Этот метод вызывает метод [**кдинамикаутпутпин:: чанжемедиатипе**](cdynamicoutputpin-changemediatype.md) для изменения формата.
 
 Перед вызовом этого метода необходимо вызвать метод [**кдинамикаутпутпин:: стартусингаутпутпин**](cdynamicoutputpin-startusingoutputpin.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -106,7 +106,7 @@ HRESULT ChangeOutputFormat(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

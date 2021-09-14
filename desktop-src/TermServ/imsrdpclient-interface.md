@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bb5756fb9bc282343055ca1b6e434f4887ac253dee47e32392c6289e63b10cbc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bc6d3a1de6a6cd18004ff957ea0f8c4d7c23b14d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120010064"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891005"
 ---
 # <a name="imsrdpclient-interface"></a>Интерфейс Имсрдпклиент
 
@@ -68,7 +68,7 @@ ms.locfileid: "120010064"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Интерфейс **имсрдпклиент** расширен следующими интерфейсами. каждый новый интерфейс наследует все методы и свойства предыдущих интерфейсов:
 

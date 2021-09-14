@@ -15,12 +15,12 @@ keywords:
 - подключаемые модули DSP аудио, примеры
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: deda93e663e8f80421a096ebc6c5c026621c95c7681516475645913214d99437
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 0edc3a5860c0c52837bfece16d2e709bf16d836d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119956574"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126890213"
 ---
 # <a name="about-the-sample-audio-dsp-plug-in"></a>Сведения о примере подключаемого модуля DSP аудиоподсистемы
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 7a1cd2e91f5f9372654fa9cfefddc7e99f5f4bc69be8fa010815902c44e76dd3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7140644f64c66b204d6a50cb8e88cb5beca41dae
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117998808"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891845"
 ---
 # <a name="iamtimelinetrackgetsrcattime2-method"></a>Метод Иамтимелинетракк:: GetSrcAtTime2
 
@@ -85,7 +85,7 @@ HRESULT GetSrcAtTime2(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.
@@ -108,7 +108,7 @@ HRESULT GetSrcAtTime2(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

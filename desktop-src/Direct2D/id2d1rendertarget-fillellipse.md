@@ -12,12 +12,12 @@ api_type:
 - DllExport
 ms.date: 07/02/2019
 ms.topic: reference
-ms.openlocfilehash: 7ee6624e5f557bb82924b4fa0f77d88a9cec35775a72009608120e8b8f2bd063
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b8328775d87dd4df0fd015990d31db0751b729bc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119874174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162803"
 ---
 # <a name="id2d1rendertargetfillellipse-methods"></a>Методы ID2D1RenderTarget:: Филлеллипсе
 
@@ -34,7 +34,7 @@ ms.locfileid: "119874174"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод не возвращает код ошибки в случае сбоя. Чтобы определить, не завершилась ли операция рисования (например, **филлеллипсе**), проверьте результат, возвращенный методами [**ID2D1RenderTarget:: EndDraw**](/windows/win32/api/d2d1/nf-d2d1-id2d1rendertarget-enddraw) или [**ID2D1RenderTarget:: Flush**](/windows/win32/api/d2d1/nf-d2d1-id2d1rendertarget-flush) .
 
@@ -42,7 +42,7 @@ ms.locfileid: "119874174"
 
 Пример см. в разделе [Рисование и заполнение базовой фигуры](how-to-draw-an-ellipse.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -54,7 +54,7 @@ ms.locfileid: "119874174"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

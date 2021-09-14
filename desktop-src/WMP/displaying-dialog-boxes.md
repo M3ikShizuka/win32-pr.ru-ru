@@ -12,18 +12,18 @@ keywords:
 - Отображение диалоговых окон
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 00e71d177e7675822b1f2704bf62776e598c2e817d583020b0df962347dac4f7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1ebe008a6c3eac872edea497dc9d50da408aa7eb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118997274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056408"
 ---
 # <a name="displaying-dialog-boxes"></a>Отображение диалоговых окон
 
 интернет-магазин может вызвать диалоговые окна с помощью проигрыватель Windows Media. Для этого вызовите [External. showPopup](external-showpopup.md) из кода скрипта страницы обнаружения, указав пользовательское значение индекса, представляющее отображаемое диалоговое окно. Это значение индекса имеет смысл только для кода Интернет-магазина. проигрыватель Windows Media не интерпретирует это значение. затем проигрыватель Windows Media вызывает метод [ивмпконтентпартнер:: GetItemInfo](/previous-versions/windows/desktop/api/contentpartner/nf-contentpartner-iwmpcontentpartner-getiteminfo), передавая g \_ сзитеминфо \_ попупурл для параметра *бстринфонаме* и номер индекса для параметра *пконтекст* . Затем подключаемый модуль возвращает **строку BSTR** , содержащую URL-адрес веб-страницы, отображаемой в диалоговом окне, а проигрыватель отображает диалоговое окно.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

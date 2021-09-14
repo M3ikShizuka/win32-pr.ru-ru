@@ -4,12 +4,12 @@ ms.assetid: 0e1cff4e-43f8-4d0a-b7a7-b6d0278e9e4a
 title: Программная загрузка файла Графедит
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: faf2bdff86a47e740e6cb177a70a7b1e12ffc7c865d8ad231f6ada9122f286d9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a9a4780ead7b65d883bdd48917c6372425612435
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118153182"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055456"
 ---
 # <a name="loading-a-graphedit-file-programmatically"></a>Программная загрузка файла Графедит
 
@@ -61,7 +61,7 @@ HRESULT LoadGraphFile(IGraphBuilder *pGraph, const WCHAR* wszName)
 
 Файлы Графедит предназначены только для тестирования и отладки. Они не предназначены для использования приложениями конечных пользователей.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

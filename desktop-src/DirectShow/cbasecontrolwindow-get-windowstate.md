@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 5603e846fcf3357f01f896e6a0d34e34da6c355e5d41ab5d8f7b0c344c1a16dc
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5391a118e2ae860a37905c7ff94822ad7c422135
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119586429"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971941"
 ---
 # <a name="cbasecontrolwindowget_windowstate-method"></a>Кбасеконтролвиндов. Get \_ WindowState, метод
 
@@ -53,11 +53,11 @@ HRESULT get_WindowState(
 
 Возвращает значение **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция-член возвращает подмножество параметров функции Microsoft Win32 **ShowWindow** . В частности, он возвращает SW \_ / \_ Hide, в зависимости от текущей видимости окна. В \_ \_ зависимости от того, является ли окно значком или развернутым, он также возвращает значение по раскрытому программному и уменьшенному.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ HRESULT get_WindowState(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

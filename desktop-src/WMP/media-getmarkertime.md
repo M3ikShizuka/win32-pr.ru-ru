@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0f90d1382302e4a053a6dee4dac911d2cc0c0aa67066469c8143f6f38b3bd889
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4398f89055a1996acb3f921d33c7675e52100ddd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119508414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056368"
 ---
 # <a name="mediagetmarkertime-method"></a>Метод Media. Жетмаркертиме
 
@@ -53,7 +53,7 @@ retVal = Media.getMarkerTime(
 
 Этот метод возвращает **число** (**Double**), задающее положение маркера в секундах от начала клипа.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод возвращает **значение NULL** , если указанный маркер не существует.
 
@@ -89,7 +89,7 @@ for (var i = 1;i < mcount + 1; i++){
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -100,7 +100,7 @@ for (var i = 1;i < mcount + 1; i++){
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

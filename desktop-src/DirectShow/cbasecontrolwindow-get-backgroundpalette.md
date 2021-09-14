@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 63ea3fa8ecbc6e644ccc5f4b1fac7a2fcd9c18270474f45dc08faa164f76cbec
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dd06bcec9b3c435370ec3f12340c1c3aede3904c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118660779"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971998"
 ---
 # <a name="cbasecontrolwindowget_backgroundpalette-method"></a>Кбасеконтролвиндов. Get \_ баккграундпалетте, метод
 
@@ -53,11 +53,11 @@ HRESULT get_BackgroundPalette(
 
 Возвращает значение **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция члена реализует метод [**ивидеовиндов:: Get \_ баккграундпалетте**](/windows/desktop/api/Control/nf-control-ivideowindow-get_backgroundpalette) . Если видео будет воспроизводиться в другом приложении или документе, может потребоваться использовать собственную палитру приложения. Он может задать, чтобы видео использовало текущую палитру переднего плана, а не собственную, установив для этого флага значение 1. Если задано значение 0, окно будет установлено и использовать собственную предпочтительную палитру. Обратите внимание, что запрос на использование другой палитры приведет к значительному снижению производительности.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

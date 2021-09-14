@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: ae4a4edce4f0f79edee95042cbd53cbaeb610b1bf68a6bdb9de5fd313e8c1355
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6dfcac6c11471a1216636f1e12601e6fe6dd0e4e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120002964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054842"
 ---
 # <a name="setpowerstate-method-of-the-cim_diskettedrive-class"></a>Метод SetPowerState \_ класса CIM дискеттедриве
 
@@ -106,13 +106,13 @@ uint32 SetPowerState(
 
 Возвращает 0 (нуль) в случае успеха, 1 (один), если *указанный запрос* о сбое и *время* не поддерживаются, и другое значение, если произошла какая-либо другая ошибка.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Инструментарий WMI не реализует этот класс. Классы, производные от [**CIM \_ дискеттедриве**](cim-diskettedrive.md), см. в разделе [Классы Win32](win32-provider.md).
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -126,7 +126,7 @@ uint32 SetPowerState(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

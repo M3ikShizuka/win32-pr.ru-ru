@@ -4,12 +4,12 @@ ms.assetid: 5f1a4da2-1a2a-4a18-8a69-82d27ddca9cf
 title: Сообщение LINE_DEVSPECIFICFEATURE (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 95c1ec56a41d6e57c6e090c9af682cb91c8ffdb891e376fcd9760ff1b51c5d51
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6d45f91f4b3d45b52a345827e6535b054e9cf2c2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120012534"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250141"
 ---
 # <a name="line_devspecificfeature-message"></a>Строка \_ сообщения девспеЦификфеатуре
 
@@ -65,11 +65,11 @@ ms.locfileid: "120012534"
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сообщение **Line \_ девспеЦификфеатуре** используется поставщиком услуг в сочетании с функцией [**линедевспеЦификфеатуре**](/windows/desktop/api/Tapi/nf-tapi-linedevspecificfeature) . Его значение зависит от конкретного устройства.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

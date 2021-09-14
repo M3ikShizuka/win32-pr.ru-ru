@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: 60e4aef5183e7c107b0853794b9e63c288916763daa4784e21241d55c1bfec89
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e64350d4f54fef493ec7fe935474218a1b111503
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118990714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970022"
 ---
 # <a name="d3dxvec2hermite-function-d3dx10mathh"></a>Функция D3DXVec2Hermite (D3DX10Math. h)
 
@@ -105,7 +105,7 @@ D3DXVECTOR2* D3DXVec2Hermite(
 
 Указатель на структуру D3DXVECTOR2, которая является результатом интерполяции Хермите сплайна.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция **D3DXVec2Hermite** выполняет интерполяцию от (позиционирован, тангенс) к (Поситионб, танжентб) с помощью интерполяции хермите сплайна.
 
@@ -155,7 +155,7 @@ Q (s) = (2S ³-3S ² + 1) v1 + (-2S ³ + 3S ²) v2 + (s ³-2S ² + s) T1 + (s ³
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре тоска. Таким образом, функция **D3DXVec2Hermite** может использоваться в качестве параметра для другой функции.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -166,7 +166,7 @@ Q (s) = (2S ³-3S ² + 1) v1 + (-2S ³ + 3S ²) v2 + (s ³-2S ² + s) T1 + (s ³
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

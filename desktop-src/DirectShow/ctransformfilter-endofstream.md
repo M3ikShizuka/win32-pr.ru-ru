@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: ade419666b1df36e851d5d945e14d9035c1377145cecd472244c9178758f45f1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5dea676a42f6df46d0035fdbb6e812b1df15fbb2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119907634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971594"
 ---
 # <a name="ctransformfilterendofstream-method"></a>Ктрансформфилтер. EndOfStream, метод
 
@@ -44,11 +44,11 @@ virtual HRESULT EndOfStream();
 
 Возвращает \_ значение, равное ОК или другому значению **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод [**ктрансформинпутпин:: EndOfStream**](ctransforminputpin-endofstream.md) входного контакта вызывает этот метод. Этот метод доставляет уведомление о завершении потока. Если производный класс использует рабочий поток для доставки образцов мультимедиа, он должен переопределить этот метод и поставить в очередь уведомление о завершении потока.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ virtual HRESULT EndOfStream();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

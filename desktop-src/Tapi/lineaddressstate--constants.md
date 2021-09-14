@@ -4,12 +4,12 @@ ms.assetid: f06140d0-f41a-4228-93c5-21d609af5473
 title: Константы LINEADDRESSSTATE_ (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ddf746d98328df51497374b990eb23f3885516ee1374d9cfdafb8799d016fb74
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 483ac665c41989c65b43419442601dfb70667dc2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117761856"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127249994"
 ---
 # <a name="lineaddressstate_-constants"></a>\_Константы линеаддрессстате
 
@@ -107,7 +107,7 @@ Address — изменились элементы состояния, отлич
 
 </dt> </dl> </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Без расширяемости. Все 32 бит зарезервированы.
 
@@ -120,7 +120,7 @@ Address — изменились элементы состояния, отлич
 | Требование | Значение |
 |-------------------------|-----------------------------------------------------------------------------------|
 | Версия TAPI<br/> | Требуется TAPI 2,0 или более поздней версии<br/>                                             |
-| Header<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
+| Заголовок<br/>       | <dl> <dt>TAPI. h</dt> </dl> |
 
 
 

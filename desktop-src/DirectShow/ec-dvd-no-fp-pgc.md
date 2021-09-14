@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - dvdevcode.h
-ms.openlocfilehash: 7c633ccef617e5f6d83beba09f3c45b50f23c145ab48ed927e835a0858681227
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f6cdc32c74d1e659001227e33863bf0445c06c78
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119906084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246565"
 ---
 # <a name="ec_dvd_no_fp_pgc"></a>EC \_ DVD \_ без \_ FP \_ PGC
 
@@ -28,7 +28,7 @@ ms.locfileid: "119906084"
 
 Это событие возникает из первого домена воспроизведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -38,7 +38,7 @@ ms.locfileid: "119906084"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: e25536f3e36e07a7145623efb6a6515f3f77c11177204f5213539c69f454b705
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1aca9385f1e9bc9439b9fe4b3dc1acddda94e395
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119122085"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126964878"
 ---
 # <a name="id3dxanimationcontrollersettrackdesc-method"></a>Метод ID3DXAnimationController:: Сеттраккдеск
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 3af420d9280d21ccf11bfdc6a23b63b33f10c1bf5a360f1770647dcb51655cf2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3868e7d8df93940829fb96c7152a55048a5cae82
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119017412"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126972009"
 ---
 # <a name="cbasecontrolvideosettargetrect-method"></a>Кбасеконтролвидео. Сеттаржетрект, метод
 
@@ -53,7 +53,7 @@ virtual HRESULT SetTargetRect(
 
 Возвращает значение **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Производные классы должны переопределять этот параметр, чтобы иметь представление об изменении прямоугольника назначения. Он вызывается из следующих функций-членов.
 
@@ -78,7 +78,7 @@ HRESULT CVideoText::SetTargetRect(RECT *pTargetRect)
 
 В этом примере Квидеотекст является классом, производным от [**кбасеконтролвидео**](cbasecontrolvideo.md), m \_ прендерер содержит объект класса, производного от [**кбасевидеорендерер**](cbasevideorenderer.md), и \_ член данных m DrawImage, определенный в производном классе, содержит объект [**кдравимаже**](cdrawimage.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -89,7 +89,7 @@ HRESULT CVideoText::SetTargetRect(RECT *pTargetRect)
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

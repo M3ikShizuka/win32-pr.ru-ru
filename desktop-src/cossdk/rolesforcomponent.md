@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: e0acd1bfd374c4d0cdb2eb43b49288f0527847abeec97d8bb96c0c5aecd74585
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 701921f8f88656753857707c045da0c8e231e1a0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118547011"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971214"
 ---
 # <a name="rolesforcomponent-collection"></a>Коллекция Ролесфоркомпонент
 
@@ -45,7 +45,7 @@ ms.locfileid: "118547011"
 
 Объект [**комадминкаталогобжект**](comadmincatalogobject.md) в коллекции поддерживает следующие свойства:
 
--   [Имя](#name)
+-   [имя](#name);
 
 ### <a name="name"></a>Имя
 
@@ -54,7 +54,7 @@ ms.locfileid: "118547011"
 | Ввод | Значение |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Описание    | Имя роли. Уже должна быть назначена приложению роли (отображается в коллекции ролей). Лишние пробелы в начале и конце строки удаляются. Это свойство возвращается при вызове метода свойства [**Key**](/windows/desktop/api/ComAdmin/nf-comadmin-icatalogobject-get_key) или [**Name**](/windows/desktop/api/ComAdmin/nf-comadmin-icatalogobject-get_name) для объекта этой коллекции. |
-| Доступ         | Флагом writeonce                                                                                                                                                                                                                                                                                                                                           |
+| Access         | Флагом writeonce                                                                                                                                                                                                                                                                                                                                           |
 | Тип           | Строка                                                                                                                                                                                                                                                                                                                                              |
 | По умолчанию        | "Создать роль"                                                                                                                                                                                                                                                                                                                                          |
 | Минимальная система | Windows 2000                                                                                                                                                                                                                                                                                                                                        |

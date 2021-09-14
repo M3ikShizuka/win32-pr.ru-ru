@@ -4,12 +4,12 @@ ms.assetid: 48fa5484-1f8c-4133-b2e1-888cb1834402
 title: Фильтр декодера Line 21
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3b0668d4b71b8dcccf4ceacf7f5428fa7a65ad52
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.openlocfilehash: 9951cd8e6093131d45597d1a89c32c36222eb20a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122468241"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053276"
 ---
 # <a name="line-21-decoder-filter"></a>Фильтр декодера Line 21
 
@@ -25,7 +25,7 @@ ms.locfileid: "122468241"
 
 
 
-| Фильтр            | CLSID                 |
+| Filter            | CLSID                 |
 |-------------------|-----------------------|
 | Декодер Line 21   | \_LINE21DECODER CLSID  |
 | Line 21 декодер 2 | \_LINE21DECODER2 CLSID |
@@ -41,7 +41,18 @@ ms.locfileid: "122468241"
 
 
 
-| | | Интерфейсы фильтра | <a href="/previous-versions/windows/desktop/api/il21dec/nn-il21dec-iamline21decoder"><strong>IAMLine21Decoder</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-ibasefilter"><strong>ибасефилтер</strong></a> | | Типы входных закрепления Основной тип: MEDIATYPE_AUXLine21DataSubtype:<br /><ul><li>MEDIASUBTYPE_Line21_BytePair (стандартная строка 21)</li><li>MEDIASUBTYPE_Line21_GOPPacket (DVD-строка 21)</li></ul>Тип формата: FORMAT_VideoInfo или GUID_NULL<br /> | | Интерфейсы входных закрепления | <a href="/windows/desktop/api/Strmif/nn-strmif-imeminputpin"><strong>Имеминпутпин</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-ipin"><strong>Ипин</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-iqualitycontrol"><strong>икуалитиконтрол</strong></a> | | Типы выходных закрепления Основной тип: MEDIATYPE_VideoSubtype:<br /><ul><li>MEDIASUBTYPE_RGB8</li><li>MEDIASUBTYPE_RGB555</li><li>MEDIASUBTYPE_RGB565</li><li>MEDIASUBTYPE_RGB24</li><li>MEDIASUBTYPE_RGB32</li></ul>Тип формата: FORMAT_VideoInfo<br /> | | Интерфейсы выходного ПИН-кода | <a href="/windows/desktop/api/Control/nn-control-imediaposition"><strong>Имедиапоситион</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-imediaseeking"><strong>имедиасикинг</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-ipin"><strong>Ипин</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-iqualitycontrol"><strong>икуалитиконтрол</strong></a> | | Фильтровать CLSID | См. предыдущую таблицу | | CLSID страницы свойств | Нет | | Исполняемый файл | qdvd.dll | | <a href="merit.md"></a> Кому | Line 21 декодер: MERIT_NORMALLine 21 декодер 2: MERIT_NORMAL + 2<br /> | | <a href="filter-categories.md">Категория фильтра</a> | CLSID_LegacyAmFilterCategory | 
+| Метка | Значение |
+|--------|-------|
+| Интерфейсы фильтра | <a href="/previous-versions/windows/desktop/api/il21dec/nn-il21dec-iamline21decoder"><strong>IAMLine21Decoder</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-ibasefilter"> <strong>ибасефилтер</strong></a> | 
+| Типы носителей входных закрепления | Основной тип: MEDIATYPE_AUXLine21DataSubtype:<br /><ul><li>MEDIASUBTYPE_Line21_BytePair (стандартная строка 21)</li><li>MEDIASUBTYPE_Line21_GOPPacket (DVD-строка 21)</li></ul>Тип формата: FORMAT_VideoInfo или GUID_NULL<br /> | 
+| Интерфейсы входных закрепления | <a href="/windows/desktop/api/Strmif/nn-strmif-imeminputpin"><strong>Имеминпутпин</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-ipin"><strong>Ипин</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-iqualitycontrol"><strong>икуалитиконтрол</strong></a> | 
+| Типы носителей для выходного ПИН-кода | Основной тип: MEDIATYPE_VideoSubtype:<br /><ul><li>MEDIASUBTYPE_RGB8</li><li>MEDIASUBTYPE_RGB555</li><li>MEDIASUBTYPE_RGB565</li><li>MEDIASUBTYPE_RGB24</li><li>MEDIASUBTYPE_RGB32</li></ul>Тип формата: FORMAT_VideoInfo<br /> | 
+| Интерфейсы выходного ПИН-кода | <a href="/windows/desktop/api/Control/nn-control-imediaposition"><strong>Имедиапоситион</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-imediaseeking"><strong>имедиасикинг</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-ipin"><strong>Ипин</strong></a>, <a href="/windows/desktop/api/Strmif/nn-strmif-iqualitycontrol"><strong>икуалитиконтрол</strong></a> | 
+| Фильтровать CLSID | См. предыдущую таблицу | 
+| CLSID страницы свойств | None | 
+| Исполняемый объект | qdvd.dll | 
+| <a href="merit.md">Заслуживают</a> | Line 21 декодер: MERIT_NORMALLine 21 декодер 2: MERIT_NORMAL + 2<br /> | 
+| <a href="filter-categories.md">Категория фильтра</a> | CLSID_LegacyAmFilterCategory | 
 
 
 

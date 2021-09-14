@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: bfa83302c62c7e09991cb8c3cc9282b41cdd17ec396bc721511d7e13e59ed95a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 41b61d9488e09b72c73cba885d836c6451631c56
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119989954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970025"
 ---
 # <a name="d3dxvec2catmullrom-function-d3dx10mathh"></a>Функция D3DXVec2CatmullRom (D3DX10Math. h)
 
@@ -105,7 +105,7 @@ D3DXVECTOR2* D3DXVec2CatmullRom(
 
 Указатель на структуру D3DXVECTOR2, которая является результатом интерполяции Catmull-Rom.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Учитывая четыре точки (P1, P2, P3, P4), найдите функцию Q (с) таким образом:
 
@@ -168,7 +168,7 @@ Q(s) = [(-s3 + 2s2 - s)p1 + (3s3 - 5s2 + 2)p2 + (-3s3 + 4s2 + s)p3 + (s3 - s2)p4
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -179,7 +179,7 @@ Q(s) = [(-s3 + 2s2 - s)p1 + (3s3 - 5s2 + 2)p2 + (-3s3 + 4s2 + s)p3 + (s3 - s2)p4
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

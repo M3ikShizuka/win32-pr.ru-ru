@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 8548863f7c35ff3d56fd83287cf1c3628bb1a9ff89d8ad34346530063c494c99
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4ed77556681e2ad43302b8608dc213b3ad0f0209
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119857304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970914"
 ---
 # <a name="d3dxcreatecubetexturefromresourceex-function"></a>Функция D3DXCreateCubeTextureFromResourceEx
 
@@ -185,7 +185,7 @@ HRESULT D3DXCreateCubeTextureFromResourceEx(
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, D3DERR \_ NOTAVAILABLE, D3DERR \_ аутофвидеомемори, D3DXERR \_ INVALIDDATA, E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Параметр компилятора определяет версию функции. Если определен Юникод, вызов функции разрешается в **D3DXCreateCubeTextureFromResourceExW**. В противном случае вызов функции разрешается в **D3DXCreateCubeTextureFromResourceExA** , так как используются строки ANSI.
 
@@ -195,7 +195,7 @@ HRESULT D3DXCreateCubeTextureFromResourceEx(
 
 **D3DXCreateCubeTextureFromResourceEx** использует формат файла поверхности DIRECTDRAW (DDS). Редактор текстур DirectX (Dxtex.exe) позволяет создать карту Куба на основе других форматов файлов и сохранить ее в формате файлов DDS. Вы можете получить Dxtex.exe и узнать о нем из пакета SDK DirectX. Сведения о пакете SDK для DirectX см. в разделе [где находится пакет DirectX SDK?](../directx-sdk--august-2009-.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -206,7 +206,7 @@ HRESULT D3DXCreateCubeTextureFromResourceEx(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

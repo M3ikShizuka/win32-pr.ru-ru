@@ -14,12 +14,12 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.custom: seodec18
-ms.openlocfilehash: 1aca1eac7218528e897a2a519543d80ab4ae2be3fa5d11a4107b02f1b23f2061
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cf7cfa41c3decc964492258dad9c6a3a497f504b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119698194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163412"
 ---
 # <a name="direct2d-and-direct3d-interoperability-overview"></a>Общие сведения о взаимодействии Direct2D и Direct3D
 

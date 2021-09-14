@@ -4,12 +4,12 @@ description: Хигхлоадс может вызвать различные у�
 ms.assetid: 8210f849-2aae-497b-b5dd-af25f6f4b8bf
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9a2ad85fd7552ed42068ecd02830321fedcec4d147ba9beb8b766dda2e76ab49
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b95a229ff1e229c41fde8fd377e347f91cf43010
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120004674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055656"
 ---
 # <a name="upload-best-practices"></a>Upload Рекомендации
 

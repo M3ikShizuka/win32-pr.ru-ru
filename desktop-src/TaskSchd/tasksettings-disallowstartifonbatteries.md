@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7e08e3e57a961f08a5f1ddae17c8334c9f1d3501b34590b1f98676195108444d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d35a7fde3012b25dfeab65e6e6088bb1d950892d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120099724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891456"
 ---
 # <a name="tasksettingsdisallowstartifonbatteries-property"></a>Тасксеттингс. Дисалловстартифонбаттериес, свойство
 
@@ -42,11 +42,11 @@ TaskSettings.DisallowStartIfOnBatteries As Boolean
 
 Логическое значение, указывающее, что задача не будет запущена, если компьютер работает от батарей. Если задано значение true, задача не будет запущена, если компьютер работает от батарей. Если задано значение false, задача будет запущена, если компьютер работает от батарей. Значение по умолчанию равно True.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При чтении или записи XML для задачи этот параметр указывается в элементе [**дисалловстартифонбаттериес**](taskschedulerschema-disallowstartifonbatteries-settingstype-element.md) схемы планировщик задач.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ TaskSettings.DisallowStartIfOnBatteries As Boolean
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

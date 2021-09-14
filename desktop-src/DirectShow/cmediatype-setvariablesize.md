@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 118167d0068c058c925e5b63e2e951ff860917c40a5c3533daf9f02e6927649a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4621a639b3bc18382bc41ae9425c4de50db920ff
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119073968"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127246814"
 ---
 # <a name="cmediatypesetvariablesize-method"></a>Кмедиатипе. Сетвариаблесизе, метод
 
@@ -48,7 +48,7 @@ void SetVariableSize();
 
 Этот метод задает для элемента **Бфикседсизесамплес** **значение false**. Последующие вызовы метода [**кмедиатипе:: жетсамплесизе**](cmediatype-getsamplesize.md) возвращают ноль.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ void SetVariableSize();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

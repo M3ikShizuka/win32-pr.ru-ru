@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 28805e56e4c7600b37ce68ac586148de59fe668704726ea0a71c4721a2699a09
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b87e97e0bde7be37497f68c276a09163ea68ee71
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119564694"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969766"
 ---
 # <a name="d3dxloadskinmeshfromxof-function"></a>Функция D3DXLoadSkinMeshFromXof
 
@@ -135,7 +135,7 @@ HRESULT D3DXLoadSkinMeshFromXof(
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, D3DXERR \_ INVALIDDATA, E \_ OUTOFMEMORY
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод принимает указатель на внутренний объект в файле x, позволяя загрузить иерархию рамок.
 
@@ -143,7 +143,7 @@ HRESULT D3DXLoadSkinMeshFromXof(
 
 Имя текстуры по умолчанию также заполняется, но обрабатывается по-другому. Имя будет иметь значение Texture0@Name , соответствующее переменной Effect с именем "Texture0" с заметкой "имя". Он будет содержать строковое имя файла для текстуры.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -154,7 +154,7 @@ HRESULT D3DXLoadSkinMeshFromXof(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

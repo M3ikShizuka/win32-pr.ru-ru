@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Winhttp.dll
-ms.openlocfilehash: 47155c946d8f49655bf6336a858d2b0752c70caa80f9dd75e0f415ce18ea94c0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0040ed6c09814a2b2112a91173d84430b8130a30
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118562944"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056294"
 ---
 # <a name="iwinhttprequestsend-method"></a>Метод Ивинхттпрекуест:: send
 
@@ -51,7 +51,7 @@ HRESULT Send(
 
 В случае успешного выполнения возвращается значение **S \_** , а в противном случае — значение ошибки.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Отправляемый запрос был определен в предыдущем вызове метода [**Open**](iwinhttprequest-open.md) . Вызывающее приложение может предоставлять данные, отправляемые на сервер с помощью параметра *Body* . Если [*HTTP-команда*](glossary.md) [**открытого**](iwinhttprequest-open.md) объекта имеет значение Get, этот метод отправляет запрос без *тела*, даже если он предоставляется вызывающим приложением.
 
@@ -200,7 +200,7 @@ WinHttpReq.Send("Post data");
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

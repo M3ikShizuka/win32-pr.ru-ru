@@ -18,11 +18,11 @@ api_type:
 api_location:
 - All
 ms.openlocfilehash: 5f4f55e635e42ec34e9b3558a0784d319e4d91ac
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105693799"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967189"
 ---
 # <a name="__absolutetimerinstruction-class"></a>\_\_Класс Абсолутетимеринструктион
 
@@ -41,13 +41,13 @@ class __AbsoluteTimerInstruction : __TimerInstruction
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ \_ абсолутетимеринструктион** имеет следующие типы членов:
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **\_ \_ абсолутетимеринструктион** имеет следующие свойства.
 
@@ -86,7 +86,7 @@ FALSE
 
 </dd> <dt>
 
-true
+TRUE
 </dt> <dd>
 
 Событие Timer не возникает, если Инструментарий WMI недоступен для его создания в соответствующий интервал времени или если потребитель, запрашивающий получение события, недоступен.

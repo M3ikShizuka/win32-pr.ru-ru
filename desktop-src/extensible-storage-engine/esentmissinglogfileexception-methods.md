@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55102304
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: c2899d96347667a9ecff2b171ea0badb6d2c2e9183ee0e13ee498d92f3b1f679
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5d4f162f9d8588ddbb8d820b5b63866ef9db7544
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118494215"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055835"
 ---
 # <a name="esentmissinglogfileexception-methods"></a>Методы EsentMissingLogFileException 
 
@@ -78,9 +78,9 @@ ms.locfileid: "118494215"
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Есентмиссинглогфиликсцептион](./esentmissinglogfileexception-class.md)
 

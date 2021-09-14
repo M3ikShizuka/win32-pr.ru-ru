@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 2bb1cc78bdb1b2e4fc713bf85b99046010d2f74f8cedb5d7fecef7089b7d3a1f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c8ed31300027fcb2e827988809cce1c50dbf77de
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119849654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127052939"
 ---
 # <a name="d3dxvec2transformnormal-function-d3dx9mathh"></a>Функция D3DXVec2TransformNormal (D3dx9math. h)
 
@@ -75,7 +75,7 @@ D3DXVECTOR2* D3DXVec2TransformNormal(
 
 Указатель на структуру [**D3DXVECTOR2**](d3dxvector2.md) , которая является преобразованным вектором.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция преобразует вектор (*PV-*>x, *pV-*>y, 0, 0) на матрицу, на которую указывает *PM*.
 

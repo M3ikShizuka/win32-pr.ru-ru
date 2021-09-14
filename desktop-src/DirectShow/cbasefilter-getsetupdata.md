@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: f86bc35688ab0ec1c19053a95cbfd2025cf45ad666ef419fdb8440c6a844cb61
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 40223a22f4de4a078ce84f8ebe49bddd5ab13575
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119640474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055603"
 ---
 # <a name="cbasefiltergetsetupdata-method"></a>Кбасефилтер. Жетсетупдата, метод
 
@@ -49,11 +49,11 @@ virtual LPAMOVIESETUP_FILTER GetSetupData();
 
 Возвращает указатель на структуру [**\_ фильтра амовиесетуп**](amoviesetup-filter.md) , содержащую сведения о регистрации для фильтра.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Базовый класс возвращает **значение NULL**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -64,7 +64,7 @@ virtual LPAMOVIESETUP_FILTER GetSetupData();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

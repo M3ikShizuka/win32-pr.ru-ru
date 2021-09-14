@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: c275e4d683bcc698c8f04c5a85017b081b6aad17f93c91d66e0a75f2da88692e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ceeadd0ec7a61422f0127c957125caa9a01dcefb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118657496"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971734"
 ---
 # <a name="cbasewindowuninitialisewindow-method"></a>Кбасевиндов. Унинитиалисевиндов, метод
 
@@ -44,7 +44,7 @@ virtual HRESULT UninitialiseWindow();
 
 Возвращает значение S \_ ОК.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод освобождает ресурсы, которые были получены методом [**кбасевиндов:: инитиалисевиндов**](cbasewindow-initialisewindow.md) . Метод [**кбасевиндов::D оневисвиндов**](cbasewindow-donewithwindow.md) вызывает этот метод.
 

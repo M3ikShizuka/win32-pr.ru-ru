@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 903add3ab87e23f904e609b2d0fe076cef4e7990f62424f365307ba87e014e0f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b3e1d9d14d86296df48e2d27f77e2f79f3ad73c2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119857004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966742"
 ---
 # <a name="d3dxloadmeshfromxresource-function"></a>Функция D3DXLoadMeshFromXResource
 
@@ -145,7 +145,7 @@ HRESULT D3DXLoadMeshFromXResource(
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может иметь одно из следующих значений: D3DERR \_ инвалидкалл, E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Дополнительные сведения о модулях, именах и параметрах типов см. в разделе [**FindResource**](/windows/win32/api/winbase/nf-winbase-findresourcea) .
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: 6d4f7e48a274b8a1b590adc76dff683019e9e0ec7ae523d16decd09421093ce1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f36b5fb5a5263f83c42ac66cc5f606fa1c4b75ab
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119989874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969998"
 ---
 # <a name="d3dxvec2transformcoordarray-function-d3dx10mathh"></a>Функция D3DXVec2TransformCoordArray (D3DX10Math. h)
 
@@ -105,7 +105,7 @@ D3DXVECTOR2* D3DXVec2TransformCoordArray(
 
 Указатель на преобразованный массив [**D3DXVECTOR4**](d3d10-d3dxvector4.md) .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция преобразует массив ПС (x, y, 0, 1) на матрицу pM, проецирование результата обратно в w = 1.
 

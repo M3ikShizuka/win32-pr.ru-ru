@@ -4,12 +4,12 @@ ms.assetid: 82ef20b5-bdfa-4bde-abb4-3d14ae35c116
 title: Код уведомления IMR_RECONVERTSTRING (IMM. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b0dfc2b188a2873af3ec7004ffaac65a3cce0b4257c1428dfe4abfcba9d2b2aa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4cbb1caeedb729b176f116a15e64879d79d519fd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118948761"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055355"
 ---
 # <a name="imr_reconvertstring-notification-code"></a>\_Код уведомления РЕКОНВЕРТСТРИНГ IMR
 
@@ -44,7 +44,7 @@ LRESULT IMR_RECONVERTSTRING
 
 Возвращает текущую структуру строки повторного преобразования. Если параметр *lParam* имеет значение **null**, приложение возвращает размер буфера, необходимого для хранения структуры. Команда возвращает 0, если она не выполнена.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -56,7 +56,7 @@ LRESULT IMR_RECONVERTSTRING
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: f8dd593fe6ca550c55ffc1f769a303dd2d5cbf7a8d8c986be8a39278d7f334ce
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6b5eaa75a52f88539438cec58f024919577518e2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120131294"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971697"
 ---
 # <a name="cenummediatypesnext-method"></a>Ценуммедиатипес. Next, метод
 
@@ -83,7 +83,7 @@ HRESULT Next(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если метод выполнен, массив, заданный параметром *ппмедиатипес* , содержит указатели \_ на \_ структуры типа мультимедиа. Число структур равно *\* пкфетчед*. Освободите каждый тип мультимедиа, вызвав функцию [**делетемедиатипе**](deletemediatype.md) .
 
@@ -100,7 +100,7 @@ HRESULT Next(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

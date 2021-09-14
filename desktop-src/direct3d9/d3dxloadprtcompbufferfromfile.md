@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: a05a5712961e8bf72f4eb67f7e644d0f41150b812800fc1c0bd9bca464e3f54f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 505fca7d8cb2426a49a2992c249ba45b5b7afd11
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120027384"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969770"
 ---
 # <a name="d3dxloadprtcompbufferfromfile-function"></a>Функция D3DXLoadPRTCompBufferFromFile
 
@@ -65,7 +65,7 @@ HRESULT D3DXLoadPRTCompBufferFromFile(
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Параметр компилятора также определяет версию функции. Если определен Юникод, вызов функции разрешается в D3DXLoadPRTCompBufferFromFileW. В противном случае вызов функции разрешается в D3DXLoadPRTCompBufferFromFileA.
 

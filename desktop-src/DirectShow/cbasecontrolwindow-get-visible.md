@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: ef75aaf396e8677e9c470239d5dfca747729b534b67f8fef53a065280175f017
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3bc38a0b35f46de223ed84174c3b10f5300cc94d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119017382"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971961"
 ---
 # <a name="cbasecontrolwindowget_visible-method"></a>Кбасеконтролвиндов. получить \_ видимый метод
 
@@ -53,7 +53,7 @@ HRESULT get_Visible(
 
 Возвращает значение **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция – член возвращает значение 1, если окно имеет \_ стиль WS Visible; в противном случае — 0.
 

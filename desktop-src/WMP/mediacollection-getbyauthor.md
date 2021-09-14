@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 87989d38d49ff87ce26b7394f4ee79ef4bd7197cd0e35dcd5316797df401ba49
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b7eae0928250e37e76bf3a39f38b43bef8a5691c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118574631"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056327"
 ---
 # <a name="mediacollectiongetbyauthor-method"></a>Медиаколлектион. Жетбяусор, метод
 
@@ -53,7 +53,7 @@ retVal = MediaCollection.getByAuthor(
 
 Этот метод возвращает объект **списка воспроизведения** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы использовать этот метод, требуется доступ на чтение к библиотеке. Дополнительные сведения см. в разделе [доступ к библиотеке](library-access.md).
 
@@ -97,7 +97,7 @@ onClick = "
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

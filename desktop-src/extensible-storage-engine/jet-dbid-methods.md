@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.jet_
 ms:contentKeyID: 39516066
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 146fb2e46c9a38b97efa39da8b8c3be27fc186f69ca744856a98261288fbaf9a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: adf56378f744a61b233d51d365235eba13f5e6b6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118766616"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055736"
 ---
 # <a name="jet_dbid-methods"></a>Методы JET_DBID
 
@@ -80,7 +80,7 @@ ms.locfileid: "118766616"
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Структура JET_DBID](./jet-dbid-structure.md)
 

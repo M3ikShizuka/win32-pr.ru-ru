@@ -5,11 +5,11 @@ ms.assetid: 20203CCD-86CC-4551-BA4F-0A5999F8C956
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 0359328f189c1a5b5d9649d8300dc59a80df4480
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "105691544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056107"
 ---
 # <a name="do-interfaces"></a>DO, интерфейсы
 

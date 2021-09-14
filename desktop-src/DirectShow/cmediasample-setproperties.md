@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: a4bac378d41e0a9933f0903990e6368979c669c048102665a06b2ce59e4a45c7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c5e6ef3c3839825586bf47259cf44783d167f503
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118156536"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251164"
 ---
 # <a name="cmediasamplesetproperties-method"></a>Кмедиасампле. SetProperties, метод
 
@@ -65,7 +65,7 @@ HRESULT SetProperties(
 
 | Код возврата                                                                                   | Описание                          |
 |-----------------------------------------------------------------------------------------------|--------------------------------------|
-| <dl> <dt>**\_ОК**</dt> </dl>          | Success<br/>                   |
+| <dl> <dt>**\_ОК**</dt> </dl>          | Успешное завершение<br/>                   |
 | <dl> <dt>**E \_ INVALIDARG**</dt> </dl>  | Недопустимый аргумент<br/>          |
 | <dl> <dt>**E \_ OUTOFMEMORY**</dt> </dl> | Недостаточно памяти<br/>       |
 | <dl> <dt>**\_указатель E**</dt> </dl>     | **Пустой** аргумент указателя<br/> |
@@ -74,7 +74,7 @@ HRESULT SetProperties(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -85,7 +85,7 @@ HRESULT SetProperties(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

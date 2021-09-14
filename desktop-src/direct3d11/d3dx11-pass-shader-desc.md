@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8ec7328ce346b51c3315086dcc193f421081dd77fc3a169bc448fba10bc7fa3f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4cac6e842dabeaabc60451737fae56eb2cb61915
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118536847"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053118"
 ---
 # <a name="d3dx11_pass_shader_desc-structure"></a>\_ \_ Структура построителя шейдеров D3DX11 Pass \_
 
@@ -37,7 +37,7 @@ typedef struct _D3DX11_PASS_SHADER_DESC {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -63,7 +63,7 @@ typedef struct _D3DX11_PASS_SHADER_DESC {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 D3DX11 \_ Pass \_ Shader \_ DESC используется с методами [**ID3DX11EffectPass**](id3dx11effectpass.md) Get \* шадердеск.
 

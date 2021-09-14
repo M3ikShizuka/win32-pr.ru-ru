@@ -4,12 +4,12 @@ ms.assetid: c8656469-a273-4838-aa1a-86140b0cd0a2
 title: API пула потоков
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 38e2c9446c6a0432d0fc71e4d888448e73aca3e3282ed03e332f2347390cc72f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 38e9c267123b24c08d5931e5743a18e94d70d5a9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117792972"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055035"
 ---
 # <a name="thread-pool-api"></a>API пула потоков
 
@@ -42,7 +42,7 @@ ms.locfileid: "117792972"
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -56,12 +56,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 6ccd719adf39bcd27ebdf8c22f5da6ac3d541b1127eb5c66fc9566ccb2a25434
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ad1472f14e73d06c19ccc0808794a47f7588cf9b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119973404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970229"
 ---
 # <a name="win32_logicaldisk-class"></a>\_Класс Win32 LogicalDisk
 
@@ -118,7 +118,7 @@ class Win32_LogicalDisk : CIM_LogicalDisk
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ LogicalDisk** имеет следующие типы членов:
 
@@ -1360,7 +1360,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1900,7 +1900,7 @@ Windows Самонастраивающийся идентификатор уст
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ LogicalDisk** является производным от [**CIM \_ LogicalDisk**](cim-logicaldisk.md) , который является производным от [**CIM \_ сторажеекстент**](cim-storageextent.md). Класс **CIM \_ сторажеекстент** является производным от [**CIM \_**](cim-logicaldevice.md)-класса.
 
@@ -2076,7 +2076,7 @@ Get-WmiObject -Class Win32_LogicalDisk |
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -2090,7 +2090,7 @@ Get-WmiObject -Class Win32_LogicalDisk |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

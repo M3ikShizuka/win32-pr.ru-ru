@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 3b0d9873e2d327c424b2cd1ffda7112676f53399a63d2a9ca92dca1f50a02f62
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2dc8bf7f307ab56609b5f90f6955a1f666854270
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119908884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055556"
 ---
 # <a name="cpullpinonerror-method"></a>Кпуллпин. OnError, метод
 
@@ -53,11 +53,11 @@ virtual void OnError(
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Объект вызывает этот метод каждый раз, когда возникает ошибка, которая останавливает поток извлечения данных. Фильтр может использовать этот метод для корректного устранения ошибок потоковой передачи. в большинстве случаев ошибка возвращается из вышестоящего фильтра, поэтому вышестоящей фильтр отвечает за передачу отчета в фильтр Graph Manager. Если ошибка возникает в методе [**кпуллпин:: Receive**](cpullpin-receive.md) , то фильтр должен отправить событие [**EC \_ еррораборт**](ec-errorabort.md) . (См. [**имедиаевентсинк:: notify**](/windows/desktop/api/Strmif/nf-strmif-imediaeventsink-notify).)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ virtual void OnError(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

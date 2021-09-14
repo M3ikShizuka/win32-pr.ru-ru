@@ -9,12 +9,12 @@ keywords:
 - прямоугольники в обложках
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 40d227b4adb0444e459c476fed084be4fe60dc129b872a10b99dffac22c9cc6e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f68db076e1ada91841dfafc8ec27752e394836bf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119863543"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056442"
 ---
 # <a name="define-the-rectangles"></a>Определение прямоугольников
 
@@ -28,7 +28,7 @@ ms.locfileid: "119863543"
 
 Теперь, когда прямоугольники определены, можно отключить слой эскиза.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

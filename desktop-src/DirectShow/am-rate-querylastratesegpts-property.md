@@ -4,12 +4,12 @@ ms.assetid: 3c7006e7-48fd-4df8-b446-8ee2b024278b
 title: Свойство AM_RATE_QueryLastRateSegPTS (Двдмедиа. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 34e7b54e618829d9768b4d08a0a76defcf2c91758be6b916b6e570b368191e89
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 72c6e3e00985ba6e714bf48d349fd5af5c9593b9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117824838"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127162344"
 ---
 # <a name="am_rate_querylastratesegpts-property"></a>\_ \_ Свойство куериластратесегптс Rate
 
@@ -29,11 +29,11 @@ ms.locfileid: "117824838"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Фильтр источника может использовать это свойство для синхронизации изменений скорости в нескольких потоках аудио и видео.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ ms.locfileid: "117824838"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

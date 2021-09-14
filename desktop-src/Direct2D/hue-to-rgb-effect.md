@@ -5,11 +5,11 @@ ms.assetid: 18e92535-9e89-bf8d-b8c3-a49b645fc417
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 82064d01281ab0edf2327f00cf6e852a0bebae53
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103988585"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127163116"
 ---
 # <a name="hue-to-rgb-effect"></a>Эффекты оттенка по RGB
 
@@ -25,10 +25,10 @@ HSL и HSV — это две различные модели для предст
 
 -   [Образец кода](#sample-code)
 -   [Свойства эффектов](#effect-properties)
--   [Требования](#requirements)
--   [См. также](#related-topics)
+-   [Requirements](#requirements)
+-   [Связанные темы](#related-topics)
 
-## <a name="sample-code"></a>Пример кода
+## <a name="sample-code"></a>Образец кода
 
 ```cpp
 ComPtr<ID2D1Effect> hueToRgbEffect;
@@ -52,13 +52,13 @@ m_d2dContext->EndDraw();
 
 | Требование | Значение |
 |--------------------------|---------------------------------------------------|
-| Минимальная версия клиента | Приложения для \[ магазина Windows для классических приложений Windows 10 \|\] |
-| Минимальная версия сервера | Приложения для \[ магазина Windows для классических приложений Windows 10 \|\] |
-| Header                   | d2d1effects \_ 2. h                                  |
+| Минимальная версия клиента | Windows 10 \[ классические приложения \| Windows приложения магазина\] |
+| Минимальная версия сервера | Windows 10 \[ классические приложения \| Windows приложения магазина\] |
+| Заголовок                   | d2d1effects \_ 2. h                                  |
 | Библиотека                  | D2D1. lib, дксгуид. lib                              |
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 * [Интерфейс ID2D1Effect](/windows/desktop/api/d2d1_1/nn-d2d1_1-id2d1effect)

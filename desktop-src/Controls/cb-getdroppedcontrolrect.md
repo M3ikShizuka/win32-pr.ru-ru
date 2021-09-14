@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c140abb139cc47020f333ccf66f71cf36d890449be91d66f51b646db22091c39
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: adff5ad10ff91557b2579006dae6e1258650d74e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120089284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968737"
 ---
 # <a name="cb_getdroppedcontrolrect-message"></a>\_Сообщение ЖЕТДРОППЕДКОНТРОЛРЕКТ CB
 
@@ -49,7 +49,7 @@ ms.locfileid: "120089284"
 
 Если сообщение не выполняется, возвращаемое значение равно нулю.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ ms.locfileid: "120089284"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: d8613a27d8af2dc2b69a93a1f324db17b054cf2dd312fdb0c9d6cd63e6c89ca8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7fff1a0a1f093b97d07c74d7916ef2a7511d0e16
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119916314"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054750"
 ---
 # <a name="cdynamicoutputpinsynchronousblockoutputpin-method"></a>Кдинамикаутпутпин. Синчронаусблоккаутпутпин, метод
 
@@ -56,11 +56,11 @@ HRESULT SynchronousBlockOutputPin();
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Не вызывайте этот метод из потока потоковой передачи.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -71,7 +71,7 @@ HRESULT SynchronousBlockOutputPin();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

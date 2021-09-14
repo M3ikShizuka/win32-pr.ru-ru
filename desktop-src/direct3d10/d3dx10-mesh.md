@@ -14,11 +14,11 @@ api_type:
 api_location:
 - D3DX10Mesh.h
 ms.openlocfilehash: 2659783b0443396508465f9498eec86950f825bc
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108105442"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056048"
 ---
 # <a name="d3dx10_mesh-enumeration"></a>Перечисление D3DX10 в \_ сетке
 
@@ -54,7 +54,7 @@ typedef enum D3DX10_MESH {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 32-разрядная сеть (D3DXMESH \_ 32 бита) теоретически может поддерживать (2 ³ ²) — 1 лица и вершины. Однако выделение памяти для сетки, которая велика в 32-разрядной операционной системе, не является практичной.
 
@@ -64,11 +64,11 @@ typedef enum D3DX10_MESH {
 
 | Требование | Значение |
 |-------------------|-----------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3DX10Mesh. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3DX10Mesh. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

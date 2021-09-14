@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 69d42bd73d0c716b7a5f3cdee413259340726538036a5dcd9cc7b5dcc8c8311a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 54bd69993a0dc0880f351f3e9ba7a79c9d926194
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117998646"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053337"
 ---
 # <a name="idxtalphasetterput_alpha-method"></a>Идксталфасеттер::p \_ методу UT Alpha
 
@@ -56,7 +56,7 @@ HRESULT put_Alpha(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если для этого свойства задано неотрицательное значение, необходимо также отключить свойство alpha пандус, вызвав метод Set **\_ алфарамп** с отрицательным значением. В противном случае результат будет отображаться неправильно.
 
@@ -81,7 +81,7 @@ HRESULT put_Alpha(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

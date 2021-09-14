@@ -4,12 +4,12 @@ ms.assetid: 7483BCE4-3B85-4659-98E3-670D2F7EE52D
 title: Использование API сжатия в блочном режиме
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b4b739c1496b43f64f8ceab4312602e9b98f7faebbb29317998a93e8f27b6883
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1ddd1ecaec03d332262ffb24462e73a9fcb789d2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117737459"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966962"
 ---
 # <a name="using-the-compression-api-in-block-mode"></a>Использование API сжатия в блочном режиме
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 4525b0af31190a6de8bf312f297f4714591818fde1bf61e23798fe1b6e8a3cb0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2009e483c636cc8f4bf68fc561efa64fd0a3e4f4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118402554"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971666"
 ---
 # <a name="cimagepalettem_hpalette-member"></a>Элемент Цимажепалетте:: m \_ хпалетте
 

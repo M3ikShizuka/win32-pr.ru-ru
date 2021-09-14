@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e9d8e000d64ef92212cd7c6cf37c7fd79036107e1d3be0d7669d73b40c759de3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7c34d24e86118a1cca0939d535b6da6e86c2df34
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119055182"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126889981"
 ---
 # <a name="ambientattributesenabled"></a>Амбиентаттрибутес. Enabled
 
@@ -42,13 +42,13 @@ ms.locfileid: "119055182"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если элемент управления включен, он может иметь позицию табуляции и получит все события окружения. Если эта возможность отключена, элемент управления не имеет позиции табуляции и не получает никаких запущенных в него событий внешней мыши или клавиатуры. (Однако он будет по-прежнему принимать все остальные события внешнего окружения.)
 
 Этот атрибут не поддерживается для элемента вложенного **представления** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -58,7 +58,7 @@ ms.locfileid: "119055182"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -11,11 +11,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: df85342df9543e4d62b04482785ec31bb5bd3982
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105702651"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126965261"
 ---
 # <a name="valuemap-and-value-qualifiers"></a>Квалификаторы ValueMap и value
 
@@ -64,7 +64,7 @@ ms.locfileid: "105702651"
 
 При принятии решения о том, следует ли использовать /  квалификаторы ValueMap или **BitMap** / **битвалуес** , определите, может ли любое из указанных значений выполняться параллельно. Если могут существовать несколько одновременных значений, необходимо использовать **BitMap** / **битвалуес**. Если все значения являются взаимоисключающими, следует использовать  / Квалификаторы **значения** ValueMap.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

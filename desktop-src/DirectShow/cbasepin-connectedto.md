@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 2a37eafe9abf226be20cf5d573abc91bc52ee070e7667dbab3a8799f74022c92
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5003154011f93b2b70ddd49dab00dcc1659eb2f5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119916764"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971894"
 ---
 # <a name="cbasepinconnectedto-method"></a>Кбасепин. Коннектедто, метод
 
@@ -65,11 +65,11 @@ HRESULT ConnectedTo(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если метод завершается успешно, интерфейс **Ипин** , который он возвращает, имеет необработанный счетчик ссылок. Не забудьте освободить его по завершении.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -80,7 +80,7 @@ HRESULT ConnectedTo(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

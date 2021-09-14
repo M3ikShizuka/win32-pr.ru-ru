@@ -44,12 +44,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 1c4f0c108c397668dce915f5d5993881e66c3524025ef0545c40e00ed2563d78
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ccf986957d73dd93837b0ab7a1e10b50aec5e8f9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119986394"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126970230"
 ---
 # <a name="win32_desktopmonitor-class"></a>\_Класс Win32 десктопмонитор
 
@@ -96,7 +96,7 @@ class Win32_DesktopMonitor : CIM_DesktopMonitor
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ десктопмонитор** имеет следующие типы членов:
 
@@ -968,7 +968,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1377,7 +1377,7 @@ Windows Самонастраивающийся идентификатор уст
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ десктопмонитор** является производным от [**CIM \_ десктопмонитор**](cim-desktopmonitor.md), который является производным от [**CIM- \_ дисплеев**](cim-display.md). **Модель CIM \_ Отображение** является производным от [**CIM \_ усердевице**](cim-userdevice.md), который является производным от CIM-класса. [**\_**](cim-logicaldevice.md)
 
@@ -1385,7 +1385,7 @@ Windows Самонастраивающийся идентификатор уст
 
 с помощью примера Visio PowerShell в галерее TechNet для взаимодействия с моделью автоматизации Visio для создания Visioного рисования используется [рисунок PS создание конфигурации компьютера с использованием](https://Gallery.TechNet.Microsoft.Com/84e2c31a-e644-4f79-83cd-e2b1a0ef8557) образца " **\_ десктопмонитор** ".
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -1399,7 +1399,7 @@ Windows Самонастраивающийся идентификатор уст
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

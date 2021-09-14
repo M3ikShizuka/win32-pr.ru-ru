@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 9158901a39fa80e49404912ee5458c416069bbe354e19059ef4622ae4257fda9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 17678d36a553c84c008f606c647d7ff1fa9dfadc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118314195"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126967094"
 ---
 # <a name="swbemnamedvaluesetclone-method"></a>Свбемнамедвалуесет. Clone, метод
 
@@ -67,7 +67,7 @@ objwbemNamedValueSet = .Clone( _
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Используйте этот метод для дублирования коллекции [**свбемнамедвалуесет**](swbemnamedvalueset.md) .
 
@@ -79,7 +79,7 @@ objwbemNamedValueSet = .Clone( _
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Wbemdisp. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_СВБЕМНАМЕДВАЛУЕСЕТ CLSID<br/>                                                    |

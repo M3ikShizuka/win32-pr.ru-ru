@@ -5,11 +5,11 @@ title: Получение коллекций в каталоге COM+
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 27cbf81bfedd4ba37b74b36e5ad9a8ad320e9c39
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103807174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126971220"
 ---
 # <a name="retrieving-collections-on-the-com-catalog"></a>Получение коллекций в каталоге COM+
 
@@ -23,7 +23,7 @@ ms.locfileid: "103807174"
 
 Кроме того, существует средство, которое позволяет динамически отправлять запросы, чтобы узнать, какие связанные коллекции доступны из данной коллекции. Дополнительные сведения см. в разделе [запросы к доступным связанным коллекциям](querying-for-available-related-collections.md).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

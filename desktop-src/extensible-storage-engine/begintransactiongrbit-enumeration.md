@@ -28,12 +28,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: b8bbbba69a6768f37e816030f63aa00e5ed05f2133b62f1047b0c7cbe58d55ee
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5f407c54b7b6e76ab63dcfb97d1307458ba15277
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118982844"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055902"
 ---
 # <a name="begintransactiongrbit-enumeration"></a>Перечисление Бегинтрансактионгрбит
 
@@ -59,7 +59,7 @@ Dim instance As BeginTransactionGrbit
 public enum BeginTransactionGrbit
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <table>
 <thead>
@@ -72,7 +72,7 @@ public enum BeginTransactionGrbit
 <tbody>
 <tr class="odd">
 <td></td>
-<td>Нет</td>
+<td>None</td>
 <td>Параметры по умолчанию.</td>
 </tr>
 <tr class="even">
@@ -84,7 +84,7 @@ public enum BeginTransactionGrbit
 </table>
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

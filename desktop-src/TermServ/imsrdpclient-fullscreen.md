@@ -64,12 +64,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c52e3d2349a4d3b0121b05a3a0424126b754757c1b0b356042a90c28ce9923ed
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1adbc8e11d2cc4fb4a8071372777a01d81b5edad
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120010074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126891045"
 ---
 # <a name="imsrdpclientfullscreen-property"></a>Свойство Имсрдпклиент:: полноэкранного режима
 
@@ -100,7 +100,7 @@ HRESULT get_FullScreen(
 
 Если методы выполнены успешно, возвращается значение **S \_ OK** . Любое другое значение **HRESULT** указывает на сбой вызова.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство можно задать, если элемент управления подключен.
 

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Winhttp.dll
-ms.openlocfilehash: 87a31ebe116726d70eb847fe54d563be57477f7133147226657c4c74135defa7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 77ebc8947ad36d2dc9efba121cdd6da2d6de359b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118114403"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056303"
 ---
 # <a name="iwinhttprequest-interface"></a>Интерфейс Ивинхттпрекуест
 
@@ -39,7 +39,7 @@ ms.locfileid: "118114403"
 
 | Метод                                                                 | Описание                                                                                                                             |
 |:-----------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
-| [**Рвал**](iwinhttprequest-abort.md)                                 | Прерывает метод Send [WinHTTP](about-winhttp.md) [](iwinhttprequest-send.md) .<br/>                                           |
+| [**Прерывание**](iwinhttprequest-abort.md)                                 | Прерывает метод Send [WinHTTP](about-winhttp.md) [](iwinhttprequest-send.md) .<br/>                                           |
 | [**жеталлреспонсехеадерс**](iwinhttprequest-getallresponseheaders.md) | Извлекает все заголовки ответа HTTP.<br/>                                                                                         |
 | [**жетреспонсехеадер**](iwinhttprequest-getresponseheader.md)         | Извлекает заголовки HTTP-ответа.<br/>                                                                                         |
 | [**Открыть**](iwinhttprequest-open.md)                                   | Открывает HTTP-соединение с HTTP-ресурсом.<br/>                                                                                |
@@ -64,7 +64,7 @@ ms.locfileid: "118114403"
 
 | Свойство                                                            | Тип доступа           | Описание                                                           |
 |:--------------------------------------------------------------------|:----------------------|:----------------------------------------------------------------------|
-| [**Параметр**](iwinhttprequest-option.md)<br/>                 | Чтение/запись<br/> | Значение параметра WinHTTP.<br/>                                    |
+| [**Функцию**](iwinhttprequest-option.md)<br/>                 | Чтение/запись<br/> | Значение параметра WinHTTP.<br/>                                    |
 | [**ResponseBody**](iwinhttprequest-responsebody.md)<br/>     | Только для чтения<br/>  | Тело сущности ответа в виде массива байтов без знака.<br/>    |
 | [**ResponseStream**](iwinhttprequest-responsestream.md)<br/> | Только для чтения<br/>  | Тело сущности ответа в виде [**IStream**](/windows/desktop/api/objidl/nn-objidl-istream).<br/> |
 | [**респонсетекст**](iwinhttprequest-responsetext.md)<br/>     | Только для чтения<br/>  | Тело объекта ответа.<br/>                                  |
@@ -75,7 +75,7 @@ ms.locfileid: "118114403"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Интерфейс **ивинхттпрекуест** , определенный в HttpRequest. idl, реализуется классом с идентификатором **CLSID \_ WinHttpRequest**. Приложение получает этот интерфейс, вызывая [**CoCreateInstance**](/windows/desktop/api/combaseapi/nf-combaseapi-cocreateinstance) с идентификатором класса **CLSID \_ WinHttpRequest** и идентификатором интерфейса **IID \_ ивинхттпрекуест**.
 
@@ -84,7 +84,7 @@ ms.locfileid: "118114403"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -99,7 +99,7 @@ ms.locfileid: "118114403"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

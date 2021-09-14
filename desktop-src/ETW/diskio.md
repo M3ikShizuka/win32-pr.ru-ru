@@ -12,12 +12,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 0e91f5e8b84d77b0938f35da69a84c26fa0f34a4da63bce40330484a29e19b5a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 97f9907e4da51675bb1a5f562931e471ee0e133e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118395305"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055387"
 ---
 # <a name="diskio-class"></a>Класс Дискио
 
@@ -34,11 +34,11 @@ class DiskIo : MSNT_SystemTrace
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **дискио** не определяет никаких членов.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы включить события дискового ввода-вывода в сеансе ведения журнала ядра NT, при вызове функции [**старттраце**](/windows/win32/api/evntrace/nf-evntrace-starttracea) укажите флаг **отслеживания событий на \_ \_ \_ диске \_** в элементе **енаблефлагс** структуры [**\_ \_ свойств трассировки событий**](/windows/win32/api/evntrace/ns-evntrace-event_trace_properties) . Можно также указать один или несколько из следующих флагов:
 
@@ -83,7 +83,7 @@ class DiskIo : MSNT_SystemTrace
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

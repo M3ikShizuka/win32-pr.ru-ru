@@ -4,12 +4,12 @@ ms.assetid: 0d27904d-9743-44bf-a7bc-132459351e01
 title: Сообщение LINE_GATHERDIGITS (TAPI. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0b430f19d2a06b14c3412989d860205d6fda0ca7a698b83ef559016b3f0ba798
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7f0c67c5a9bbd3f798a8f4343b36c311309633ed
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119140157"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127250108"
 ---
 # <a name="line_gatherdigits-message"></a>Строка \_ сообщения гасердигитс
 
@@ -65,7 +65,7 @@ ms.locfileid: "119140157"
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сообщение **Line \_ гасердигитс** отправляется в приложение, которое инициировало сбор цифр при вызове с помощью [**линегасердигитс**](/windows/desktop/api/Tapi/nf-tapi-linegatherdigits).
 

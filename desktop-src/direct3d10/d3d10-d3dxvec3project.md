@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3DX10Math.h
-ms.openlocfilehash: 5b15d8c711813251c7ad2593939a2d3284f79acaa4a3204ea89cb59bc26ce23c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f4a2cffa77b2a66267daf0a67a59698ae3e3b8eb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118990584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127056095"
 ---
 # <a name="d3dxvec3project-function-d3dx10mathh"></a>Функция D3DXVec3Project (D3DX10Math. h)
 
@@ -104,7 +104,7 @@ D3DXVECTOR3* D3DXVec3Project(
 
 Указатель на структуру D3DXVECTOR3, которая является вектором, проецируемым из пространства объекта в пространство экрана.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре тоска. Таким образом, функция D3DXVec3Project может использоваться в качестве параметра для другой функции.
 
@@ -118,7 +118,7 @@ D3DXVECTOR3* D3DXVec3Project(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

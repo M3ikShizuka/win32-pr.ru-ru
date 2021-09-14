@@ -16,12 +16,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: c6cf97975d583a99145e32482bc097ebd6ce3cc052e62560a34f7f78c1f88ae6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7e46e94139a0c82e6c5b45f9397d76de8b4fdb43
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119635684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126963994"
 ---
 # <a name="ienumbackgroundcopyfiles-interface"></a>Интерфейс Иенумбаккграундкопифилес
 
@@ -44,13 +44,13 @@ ms.locfileid: "119635684"
 | [**GetCount**](ienumbackgroundcopyfiles-getcount.md) | Извлекает количество элементов в перечислении.<br/>                  |
 | [**Далее**](ienumbackgroundcopyfiles-next.md)         | Возвращает заданное число элементов последовательности перечисления.<br/> |
 | [**Перезапуск**](ienumbackgroundcopyfiles-reset.md)       | Сбрасывает последовательность перечисления в начало.<br/>                  |
-| [**Сразу**](ienumbackgroundcopyfiles-skip.md)         | Пропускает заданное число элементов в последовательности перечисления.<br/>     |
+| [**Пропустить**](ienumbackgroundcopyfiles-skip.md)         | Пропускает заданное число элементов в последовательности перечисления.<br/>     |
 
 
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -66,7 +66,7 @@ ms.locfileid: "119635684"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

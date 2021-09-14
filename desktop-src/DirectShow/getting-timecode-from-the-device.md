@@ -4,12 +4,12 @@ ms.assetid: e3d06e0c-a595-4bc3-be62-168bd5122397
 title: Получение времени работы с устройства
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 265769300c0134ec9f3b3635ada3e595205e8452ced262d4062f9fb6cdaaadc2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5787cf328214c1a266b7f129e4e517716b1d04f8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119564734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127053346"
 ---
 # <a name="getting-timecode-from-the-device"></a>Получение времени работы с устройства
 

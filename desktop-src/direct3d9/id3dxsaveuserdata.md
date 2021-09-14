@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: e5b0f02a4fb114f46930076f46ea7c416850a0e81f7369d4aab63a2de5ed6d95
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5dbdc71239455772809e44f535634a0d06cc0653
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118801140"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966625"
 ---
 # <a name="id3dxsaveuserdata-interface"></a>Интерфейс ID3DXSaveUserData
 
@@ -50,7 +50,7 @@ ms.locfileid: "118801140"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Тип LPD3DXSAVEUSERDATA определяется как указатель на этот интерфейс.
 

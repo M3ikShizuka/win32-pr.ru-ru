@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 7880cba8e910c3da8ade049e18ae22e403c0c616246e4dfde94e587a1fcdeab9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3a20bbb689c4ee5e3ac12c510098163d9fbb224e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120055004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055559"
 ---
 # <a name="cpullpingetreader-method"></a>Кпуллпин. DataReader, метод
 
@@ -44,13 +44,13 @@ IAsyncReader* GetReader();
 
 Возвращает указатель на интерфейс [**иасинкреадер**](/windows/desktop/api/Strmif/nn-strmif-iasyncreader) .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращенный интерфейс имеет необработанный счетчик ссылок. Вызывающий объект должен освободить интерфейс.
 
 метод не проверяет значение указателя интерфейса перед вызовом **AddRef**, поэтому не вызывайте его до тех пор, пока не будет успешно вызван метод [**кпуллпин:: Подключение**](cpullpin-connect.md) . В противном случае указатель интерфейса может иметь **значение NULL** , а вызов **AddRef** выдаст исключение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ IAsyncReader* GetReader();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

@@ -8,11 +8,11 @@ ms:contentKeyID: 55102605
 ms.date: 07/30/2014
 ms.topic: article
 ms.openlocfilehash: 1f25767d3e46890899e2ded73f762aceb6ac8090
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103810553"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127055818"
 ---
 # <a name="esentrecoveredwitherrorsexception-members"></a>Элементы Есентрековередвисеррорсексцептион
 
@@ -164,7 +164,7 @@ ms.locfileid: "103810553"
 
 Начало
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

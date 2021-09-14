@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: ddf340840e377ee03641ae33c0731f27e90ce4760cad4ddb6c636c1831fa80ea
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 912c4c61f6c1f2b6bef46c7c5b6ea17223df5eb8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118505797"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126966437"
 ---
 # <a name="texldb---ps"></a>текслдб-PS
 
@@ -58,7 +58,7 @@ src1 должны быть [образцами (Direct3D 9 ASM-PS)](dx9-graphics
 
 src1 должны быть [образцами (Direct3D 9 ASM-PS)](dx9-graphics-reference-asm-ps-registers-sampler.md) без \# модификатора. Свиззле разрешено для src1, и при применении результаты поиска текстур предварительно свиззлед перед записью в летнее время.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 
 

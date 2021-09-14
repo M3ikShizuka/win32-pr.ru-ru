@@ -15,12 +15,12 @@ api_type:
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9658f1df1fbe316fa9f308b9f8e0589f0f93858916c6dbde4607fd11a6f0707f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8dc7ae2703ac80ac155c04d42624a081723288bf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119751954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126969898"
 ---
 # <a name="cd3dx12_pipeline_state_stream_depth_stencil_format-structure"></a>\_ \_ \_ \_ \_ Структура формата трафарета глубины потока состояния конвейера CD3DX12 \_
 
@@ -40,7 +40,7 @@ struct CD3DX12_PIPELINE_STATE_STREAM_DEPTH_STENCIL_FORMAT {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -72,7 +72,7 @@ struct CD3DX12_PIPELINE_STATE_STREAM_DEPTH_STENCIL_FORMAT {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 \_ \_ \_ Формат трафарета глубины потока состояния конвейера CD3DX12 \_ \_ \_ является специализацией typedef [**шаблона \_ \_ \_ \_ подобъекта потока состояния конвейера CD3DX12**](cd3dx12-pipeline-state-stream-subobject.md) и определяется следующим образом:
 

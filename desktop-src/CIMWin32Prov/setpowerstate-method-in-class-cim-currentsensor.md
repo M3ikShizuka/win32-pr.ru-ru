@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: d0d00f5d7317777da0194c685a8dbcb2238e8e093be80c86b2920bb136f2ee55
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c1a5f546ea13cf085b09315abe56369d5ba0e152
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119439564"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054853"
 ---
 # <a name="setpowerstate-method-of-the-cim_currentsensor-class"></a>Метод SetPowerState \_ класса CIM куррентсенсор
 
@@ -106,13 +106,13 @@ uint32 SetPowerState(
 
 Возвращает 0 (нуль) в случае успеха, 1 (один), если *указанный запрос* о сбое и *время* не поддерживаются, и другое значение, если произошла какая-либо другая ошибка.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В настоящее время этот метод не реализован инструментарием WMI. Чтобы использовать этот метод, его необходимо реализовать в собственном поставщике.
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

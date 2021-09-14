@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 7b5c580e847146cb2c3d0ccdaadf3a6755937a7c7935f13598e94f1fcf26ac44
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c054a9d05410ddbe7ee7d11c5bd4adba9e0ce83b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119752284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127054832"
 ---
 # <a name="stopservice-method-of-the-cim_bootservice-class"></a>Метод «начало» \_ класса CIM бутсервице
 
@@ -49,7 +49,7 @@ Integer StopService();
 
 Возвращает значение 0 (нуль) при успешном выполнении, 1 (один), если запрос не поддерживается, и любое другое число для указания ошибки.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В настоящее время этот метод не реализован инструментарием WMI. Чтобы использовать этот метод, его необходимо реализовать в собственном поставщике.
 

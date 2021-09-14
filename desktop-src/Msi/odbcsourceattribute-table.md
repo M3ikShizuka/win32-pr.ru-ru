@@ -4,12 +4,12 @@ ms.assetid: 8ee50fd7-507e-484f-9a16-de5449470562
 title: Таблица Одбксаурцеаттрибуте
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4c6d84ca19dfd059df4ff8f79d9409ef23288800f09e84d45e1b55d81bc8641e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d52dd9636ac19eae0fb3a9e41d1a1c8389753e5d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120082714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127251065"
 ---
 # <a name="odbcsourceattribute-table"></a>Таблица Одбксаурцеаттрибуте
 
@@ -21,9 +21,9 @@ ms.locfileid: "120082714"
 
 | Столбец       | Type                         | Ключ | Допускает значения NULL |
 |--------------|------------------------------|-----|----------|
-| DataSource\_ | [Идентификатор](identifier.md) | Д   | Нет        |
-| attribute    | [Text](text.md)             | Д   | Нет        |
-| Значение        | [Формате](formatted.md)   | Нет   | Д        |
+| DataSource\_ | [Идентификатор](identifier.md) | Да   | Нет        |
+| attribute    | [Text](text.md)             | Да   | Нет        |
+| Значение        | [Формате](formatted.md)   | Нет   | Да        |
 
 
 
