@@ -18,12 +18,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 87769500de02dedc7247b15e94064a43b7c6d528234c27ad700d4a336f42a092
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a8195cf17040c35b9e42f8977b36c5ddc6f2ea33
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119622634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146242"
 ---
 # <a name="winbio_bir_data_flags-constants"></a>\_ \_ \_ Константы флагов данных винбио Бир
 

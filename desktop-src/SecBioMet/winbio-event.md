@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6e3baab16ee7c3f825f317d7aa2c585cb4d8ae7d6d030b6f59a1555b95343015
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 75b6a8301ea5dab7d860e5bd7fb32c69277bad63
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118910547"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146205"
 ---
 # <a name="winbio_event-structure"></a>\_Структура событий винбио
 
@@ -52,11 +52,11 @@ typedef struct _WINBIO_EVENT {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
-**Type**
+**Тип**
 </dt> <dd>
 
 Значение, указывающее тип вызванного уведомления о событии поставщика услуг. Единственным поставщиком, поддерживаемым в настоящее время, является датчик отпечатков пальцев. Этот датчик поддерживает следующие флаги.
@@ -189,7 +189,7 @@ typedef struct _WINBIO_EVENT {
 
 вызовите функцию [**винбиорегистеревентмонитор**](/windows/desktop/api/Winbio/nf-winbio-winbioregistereventmonitor) , чтобы зарегистрировать подпрограммы обратного вызова для получения уведомлений о событиях из биометрическая платформа Windows. Обратный вызов — это пользовательская функция, которую необходимо определить для приложения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -197,7 +197,7 @@ typedef struct _WINBIO_EVENT {
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                                                    |
 | Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/>                                                       |
-| Header<br/>                   | <dl> <dt>Винбио \_ types. h (include винбио. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Винбио \_ types. h (include винбио. h)</dt> </dl> |
 
 
 

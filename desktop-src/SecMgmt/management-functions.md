@@ -5,11 +5,11 @@ title: Функции управления безопасностью
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 9f5c17efd55b1dbb806295ac0a83763257ffcc97
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103912256"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146077"
 ---
 # <a name="security-management-functions"></a>Функции управления безопасностью
 
@@ -86,10 +86,10 @@ ms.locfileid: "103912256"
 |---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**лсаенумератеаккаунтсвисусерригхт**](/windows/desktop/api/Ntsecapi/nf-ntsecapi-lsaenumerateaccountswithuserright)<br/>         | Перечисляет все учетные записи с указанными разрешениями пользователя.<br/>                                                                                                                                                                                                                                                                         |
 | [**лсаенумератетрустеддомаинсекс**](/windows/desktop/api/Ntsecapi/nf-ntsecapi-lsaenumeratetrusteddomainsex)<br/>                   | Перечисляет доверенные домены.<br/>                                                                                                                                                                                                                                                                                                            |
-| [**лсалукупнамес**](/windows/desktop/api/Ntsecapi/nf-ntsecapi-lsalookupnames)<br/>                                               | Сопоставляет указанные имена с их идентификаторами безопасности. Возвращает идентификатор безопасности в виде пары идентификаторов безопасности RID или домена.<br/>                                                                                                                                                                                                                                                         |
-| [**LsaLookupNames2**](/windows/desktop/api/Ntsecapi/nf-ntsecapi-lsalookupnames2)<br/>                                             | Сопоставляет указанные имена с их идентификаторами безопасности. Возвращает идентификатор безопасности в виде одного элемента.<br/>                                                                                                                                                                                                                                                               |
+| [**лсалукупнамес**](/windows/desktop/api/Ntsecapi/nf-ntsecapi-lsalookupnames)<br/>                                               | Карты указанные имена идентификаторам безопасности. Возвращает идентификатор безопасности в виде пары идентификаторов безопасности RID или домена.<br/>                                                                                                                                                                                                                                                         |
+| [**LsaLookupNames2**](/windows/desktop/api/Ntsecapi/nf-ntsecapi-lsalookupnames2)<br/>                                             | Карты указанные имена идентификаторам безопасности. Возвращает идентификатор безопасности в виде одного элемента.<br/>                                                                                                                                                                                                                                                               |
 | [**лсалукуппривилежевалуе**](/windows/desktop/api/ntlsa/nf-ntlsa-lsalookupprivilegevalue)<br/>                             | Извлекает [*локально уникальный идентификатор*](/windows/desktop/SecGloss/l-gly) (LUID), используемый [*локальным администратором безопасности*](/windows/desktop/SecGloss/l-gly) (LSA) для представления указанного имени привилегии.<br/> |
-| [**лсалукупсидс**](/windows/desktop/api/Ntsecapi/nf-ntsecapi-lsalookupsids)<br/>                                                 | Сопоставляет указанные имена учетных записей с их идентификаторами безопасности.<br/>                                                                                                                                                                                                                                                                                            |
+| [**лсалукупсидс**](/windows/desktop/api/Ntsecapi/nf-ntsecapi-lsalookupsids)<br/>                                                 | Карты указанные имена учетных записей в идентификаторы sid.<br/>                                                                                                                                                                                                                                                                                            |
 | [**лсарегистерполицичанженотификатион**](/windows/desktop/api/Ntsecapi/nf-ntsecapi-lsaregisterpolicychangenotification)<br/>     | Регистрирует объект события для получения уведомлений при изменении сведений о локальной политике.<br/>                                                                                                                                                                                                                                              |
 | [**лсаунрегистерполицичанженотификатион**](/windows/desktop/api/Ntsecapi/nf-ntsecapi-lsaunregisterpolicychangenotification)<br/> | Отменяет регистрацию объекта события, получающего уведомления об изменении политики.<br/>                                                                                                                                                                                                                                                                 |
 
@@ -159,7 +159,7 @@ ms.locfileid: "103912256"
 |-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 | [**лсаклосе**](/windows/desktop/api/Ntsecapi/nf-ntsecapi-lsaclose)<br/>                           | Закрывает маркер объекта [**политики**](policy-object.md) или объекта [**трустеддомаин**](trusteddomain-object.md) .<br/> |
 | [**лсафримемори**](/windows/desktop/api/Ntsecapi/nf-ntsecapi-lsafreememory)<br/>                 | Освобождает буфер, выделенный функцией LSA.<br/>                                                                           |
-| [**лсантстатустовинеррор**](/windows/desktop/api/Ntsecapi/nf-ntsecapi-lsantstatustowinerror)<br/> | Преобразует значение **NTSTATUS** в код ошибки Windows.<br/>                                                                |
+| [**лсантстатустовинеррор**](/windows/desktop/api/Ntsecapi/nf-ntsecapi-lsantstatustowinerror)<br/> | преобразует значение **NTSTATUS** в Windows код ошибки.<br/>                                                                |
 
 
 

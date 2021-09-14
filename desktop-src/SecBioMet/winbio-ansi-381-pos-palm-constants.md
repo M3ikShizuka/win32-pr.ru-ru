@@ -28,12 +28,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 55e6078b454624047c31bd52d9c591ef3a44a63c805c23ef1fbe702002c11122
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0f5549410c8e76182aadb9d80a6370299a1ec6b3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118911367"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146273"
 ---
 # <a name="winbio_ansi_381_pos-palm-constants"></a>\_ \_ Константы винбио ANSI 381 \_ POS Palm
 
@@ -42,7 +42,7 @@ ms.locfileid: "118911367"
 <dl> <span id="WINBIO_ANSI_381_POS_UNKNOWN_PALM"></span><span id="winbio_ansi_381_pos_unknown_palm"></span>**Винбио \_ ANSI \_ 381 \_ POS \_ Unknown \_ Palm** , <span id="WINBIO_ANSI_381_POS_RH_FULL_PALM"></span> <span id="winbio_ansi_381_pos_rh_full_palm"></span> **винбио \_ ANSI \_ 381 \_ POS \_ RH \_ Full \_ Palm** <span id="WINBIO_ANSI_381_POS_RH_WRITERS_PALM"></span> <span id="winbio_ansi_381_pos_rh_writers_palm"></span> **винбио \_ ANSI \_ 381 \_ POS \_ RH \_ \_ Writers** <span id="WINBIO_ANSI_381_POS_LH_FULL_PALM"></span> <span id="winbio_ansi_381_pos_lh_full_palm"></span> **винбио \_ ANSI \_ 381 \_ POS \_ LH \_ Full \_ Palm** <span id="WINBIO_ANSI_381_POS_LH_WRITERS_PALM"></span> <span id="winbio_ansi_381_pos_lh_writers_palm"></span> **винбио \_ ANSI \_ 381 \_ POS \_ LH \_ Writer \_ Palm** <span id="WINBIO_ANSI_381_POS_RH_LOWER_PALM"></span> <span id="winbio_ansi_381_pos_rh_lower_palm"></span> **винбио \_ ANSI \_ 381 \_ POS \_ RH \_ Lower \_ Palm** <span id="WINBIO_ANSI_381_POS_RH_UPPER_PALM"></span> <span id="winbio_ansi_381_pos_rh_upper_palm"></span> **\_ \_ \_ \_ \_ \_** <span id="WINBIO_ANSI_381_POS_LH_LOWER_PALM"></span> <span id="winbio_ansi_381_pos_lh_lower_palm"></span> **\_ \_ \_ \_ \_ \_** <span id="WINBIO_ANSI_381_POS_LH_UPPER_PALM"></span> <span id="winbio_ansi_381_pos_lh_upper_palm"></span> **\_ \_ \_ \_ \_ \_** <span id="WINBIO_ANSI_381_POS_RH_OTHER"></span> <span id="winbio_ansi_381_pos_rh_other"></span> **\_ \_ \_ \_ \_** <span id="WINBIO_ANSI_381_POS_LH_OTHER"></span> <span id="winbio_ansi_381_pos_lh_other"></span> **\_ \_ \_ \_ \_** винбио <span id="WINBIO_ANSI_381_POS_RH_INTERDIGITAL"></span> ANSI <span id="winbio_ansi_381_pos_rh_interdigital"></span> 381 POS RH. винбио ANSI 381 винбио ANSI 381 винбио ANSI RH ANSI 381 POS-LH **Винбио \_ ANSI \_ 381 \_ POS \_ RH \_ redigital** <span id="WINBIO_ANSI_381_POS_RH_THENAR"></span> <span id="winbio_ansi_381_pos_rh_thenar"></span> **винбио \_ ANSI \_ 381 \_ POS \_ RH \_ Сенар** <span id="WINBIO_ANSI_381_POS_RH_HYPOTHENAR"></span> <span id="winbio_ansi_381_pos_rh_hypothenar"></span> **винбио \_ ANSI \_ 381 \_ POS \_ RH \_ хипосенар** <span id="WINBIO_ANSI_381_POS_LH_INTERDIGITAL"></span> <span id="winbio_ansi_381_pos_lh_interdigital"></span> **винбио \_ ANSI \_ 381 \_ POS \_ LH \_ redigital** <span id="WINBIO_ANSI_381_POS_LH_THENAR"></span> <span id="winbio_ansi_381_pos_lh_thenar"></span> **винбио \_ ANSI \_ 381 \_ POS \_ LH \_ Сенар** <span id="WINBIO_ANSI_381_POS_LH_HYPOTHENAR"></span> <span id="winbio_ansi_381_pos_lh_hypothenar"></span> **винбио \_ ANSI \_ 381 \_ POS \_ LH \_ хипосенар**  
 </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -50,7 +50,7 @@ ms.locfileid: "118911367"
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                                                    |
 | Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/>                                                       |
-| Header<br/>                   | <dl> <dt>Винбио \_ types. h (include винбио. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Винбио \_ types. h (include винбио. h)</dt> </dl> |
 
 
 

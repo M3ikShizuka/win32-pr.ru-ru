@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 55173b5badfb8764cfc9c681f4ed92e2f0d1c50e5db09075185af9e5db2e6433
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b4f041d131bcee540a75a131b4179947fbe8e394
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118910493"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146201"
 ---
 # <a name="winbio_extended_enrollment_parameters-structure"></a>\_ \_ Структура параметров расширенной регистрации винбио \_
 
@@ -38,7 +38,7 @@ typedef struct _WINBIO_EXTENDED_ENROLLMENT_PARAMETERS {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -60,7 +60,7 @@ typedef struct _WINBIO_EXTENDED_ENROLLMENT_PARAMETERS {
 
 биометрическая платформа Windows передает эту структуру методу [**енгинеадаптерсетенроллментпараметерс**](/windows/desktop/api/Winbio_adapter/nc-winbio_adapter-pibio_engine_set_enrollment_parameters_fn) во время операции регистрации.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ typedef struct _WINBIO_EXTENDED_ENROLLMENT_PARAMETERS {
 |-------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 10 \[ только классические приложения\]<br/>                                                                              |
 | Минимальная версия сервера<br/> | Windows Server 2016 \[ только классические приложения\]<br/>                                                                     |
-| Header<br/>                   | <dl> <dt>Винбио \_ Adapter. h (включить винбио \_ Adapter. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Винбио \_ Adapter. h (включить винбио \_ Adapter. h)</dt> </dl> |
 
 
 

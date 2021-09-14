@@ -14,11 +14,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 07e6dc285e1a19fab8e0363391fbd81429e931cd
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122630843"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146245"
 ---
 # <a name="winbio_biometric_subtype-constants"></a>\_Константы ПОДтипа БИОметрической метрики винбио \_
 
@@ -26,7 +26,7 @@ ms.locfileid: "122630843"
 
 
 
-| Константа/значение                                                                                                                                                                                                                                                            | Описание:                        |
+| Константа/значение                                                                                                                                                                                                                                                            | Описание                        |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------|
 | <span id="WINBIO_SUBTYPE_NO_INFORMATION"></span><span id="winbio_subtype_no_information"></span><dl> <dt>**Винбио \_ ПОДТИП \_ нет \_ сведений**</dt> <dt>0x00</dt> </dl> | Нет сведений о подтипе.<br/> |
 | <span id="WINBIO_SUBTYPE_ANY"></span><span id="winbio_subtype_any"></span><dl> <dt>**Винбио \_ ПОДТИП \_ любой**</dt> <dt>0xFF</dt> </dl>                                   | Любой подтип.<br/>            |

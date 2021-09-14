@@ -4,12 +4,12 @@ ms.assetid: 53822643-b03e-41e9-8cb2-dfa14b8e9d3d
 title: Примеры соглашений программы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d124b84f71705d8aaffa8356d767369b82a570636db3df815e9394cdaa313cd7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2eea548c4a24e95b351d49479c249d4e481ec1b4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117974714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127146162"
 ---
 # <a name="sample-program-conventions"></a>Примеры соглашений программы
 
