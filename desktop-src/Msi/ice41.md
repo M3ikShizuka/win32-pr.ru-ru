@@ -4,12 +4,12 @@ ms.assetid: 43572322-ba23-4f99-be34-e572d4c6e3eb
 title: ICE41
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0c220e43cf8a275e520f5babe1ca609a1cee2194b4c08f8dcdafabe6d73bdca4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a4bc6c0a8bb634706750810484963e56b6d6e0ec
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119581114"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068072"
 ---
 # <a name="ice41"></a>ICE41
 
@@ -51,7 +51,7 @@ ICE41 сообщает о следующих ошибках в приведен�
 
 
 
-| CLSID                                  | Компонент\_ | Компонент\_ |
+| CLSID                                  | См\_ | Компонент\_ |
 |----------------------------------------|-------------|-----------|
 | {00000000-0000-0000-0000-000000000000} | Component1  | Feature2  |
 
@@ -63,7 +63,7 @@ ICE41 сообщает о следующих ошибках в приведен�
 
 
 
-| Расширение | Компонент\_ | Компонент\_ |
+| Расширение | См\_ | Компонент\_ |
 |-----------|-------------|-----------|
 | . ИП      | Component2  | Feature1  |
 

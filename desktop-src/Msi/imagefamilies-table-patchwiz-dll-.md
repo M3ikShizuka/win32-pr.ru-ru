@@ -4,12 +4,12 @@ ms.assetid: 06a77b35-b593-47e6-9083-46a6b65b7481
 title: Таблица Имажефамилиес (Patchwiz.dll)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c528faae7db4e485956a5eacb23a3421354c3f030011e1291bd2946d9783f67f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 33ece99e3c42626eb2155f16f2198703dc31b682
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119894144"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067911"
 ---
 # <a name="imagefamilies-table-patchwizdll"></a>Таблица Имажефамилиес (Patchwiz.dll)
 
@@ -25,12 +25,12 @@ ms.locfileid: "119894144"
 
 | Столбец            | Type    | Ключ | Допускает значения NULL |
 |-------------------|---------|-----|----------|
-| Семейство            | text    | Д   | Нет        |
-| медиасркпропнаме  | text    |     | Д        |
-| медиадискид       | Целое число |     | Д        |
-| филесекуенцестарт | Целое число |     | Д        |
-| DiskPrompt        | text    |     | Д        |
-| VolumeLabel       | text    |     | Д        |
+| Семейство            | текст    | Да   | Нет        |
+| медиасркпропнаме  | текст    |     | Да        |
+| медиадискид       | Целое число |     | Да        |
+| филесекуенцестарт | Целое число |     | Да        |
+| DiskPrompt        | текст    |     | Да        |
+| VolumeLabel       | текст    |     | Да        |
 
 
 

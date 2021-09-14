@@ -4,12 +4,12 @@ ms.assetid: 19288c87-fddb-46c9-8145-59e1b870a261
 title: ICE50
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b3b9dd81c84c52738ee58c023ba5727cd6d5766bf7c40db97b6459483d7f53d5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: de88dda0dd1cdd18a10a35c32ef612acb75c871e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118635155"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068053"
 ---
 # <a name="ice50"></a>ICE50
 
@@ -38,7 +38,7 @@ ICE50 сообщает об ошибке в приведенном пример�
 
 
 
-| File  | FileName  |
+| Файл  | FileName  |
 |-------|-----------|
 | Файл1 | File1.bat |
 | Файл2 | File2.pl  |
@@ -89,7 +89,7 @@ ICE50 сообщает об ошибке в приведенном пример�
 
 
 
-| Сочетание клавиш  | Компонент  | Target   | Значок\_    |
+| Сочетание клавиш  | Компонент  | Назначение   | Значок\_    |
 |-----------|------------|----------|-----------|
 | Shortcut1 | Component1 | Feature1 | Icon1.bat |
 | Shortcut2 | Component2 | Feature1 | Icon2. dat |

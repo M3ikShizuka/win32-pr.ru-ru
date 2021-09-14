@@ -4,12 +4,12 @@ ms.assetid: f287c1cf-c464-42a3-985d-f892db5e1f5f
 title: Справочник по ICE
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 209054d9c278ef28e685131157cfe6fd0951154fec88ab5a876d5898c3bf1722
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 53c249692150923ebd7752c2c69e306ebcc69d2c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118946685"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068153"
 ---
 # <a name="ice-reference"></a>Справочник по ICE
 
@@ -17,7 +17,7 @@ ICE используется для проверки пакетов устано
 
 
 
-| ЛЕД                   | Описание                                                                                                                                                                                                                                             |
+| ICE                   | Описание                                                                                                                                                                                                                                             |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [ICE01](ice01.md)    | Простой тест механизма ICE.                                                                                                                                                                                                                           |
 | [ICE02](ice02.md)    | Циклическая ссылка на тест для компонента File-Component Registry-Component Кэйпасс.                                                                                                                                                                                |

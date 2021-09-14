@@ -4,12 +4,12 @@ ms.assetid: 98771652-cec2-4371-8132-a741cf8431fb
 title: Пример с несколькими исправлениями
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0b8d33d103bb27fde3b7fdc4ee46a0c5d946e73b6948513ea1b8fffb7bab30bd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d2d10274531ac4906ef61a49caee9ccbcde98bbb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118943371"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067803"
 ---
 # <a name="multiple-patching-example"></a>Пример с несколькими исправлениями
 

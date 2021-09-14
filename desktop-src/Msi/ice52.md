@@ -4,12 +4,12 @@ ms.assetid: 18d1489e-666a-488d-ae12-5dbe60885a2e
 title: ICE52
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b96f514f38e44a802b092acff53ac14f10c5e5d32c03888b7d45540443d34be3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 785dd468aaa637df02b9eb432dd77f9226d828a9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120044044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068051"
 ---
 # <a name="ice52"></a>ICE52
 
@@ -34,7 +34,7 @@ Property 'Property2' in AppSearch row 'Property2'.'Signature2'
 
 
 
-| Свойство  | Подпись  |
+| Свойство.  | Подпись  |
 |-----------|------------|
 | СВОЙСТВО1 | Signature1 |
 | Свойство2 | Signature2 |

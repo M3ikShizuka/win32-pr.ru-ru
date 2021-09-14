@@ -4,12 +4,12 @@ ms.assetid: f0199137-0a40-40ca-b3cf-ff8eef4309cc
 title: ICEM11
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 157248d62f43a0b1a791220e2aeb917ba8273d31b93de69078f9876cddbd2748
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 403a36435ce2367fc356934740e6d022f5457698
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119894434"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067934"
 ---
 # <a name="icem11"></a>ICEM11
 
@@ -48,7 +48,7 @@ table. These tables must be listed in the ModuleIgnoreTable table.
 
 | Таблица   | Строка              | Столбец | Значение        |
 |---------|------------------|--------|--------------|
-| Элемент | Dialog1; Control1 | Текст   | \[IconKey1\] |
+| Control | Dialog1; Control1 | Текст   | \[IconKey1\] |
 
 
 

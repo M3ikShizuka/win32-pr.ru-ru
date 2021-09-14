@@ -4,12 +4,12 @@ ms.assetid: f1548b04-78c2-461a-a729-9a8c4856d0d8
 title: ICE38
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2ae3f90b7f6c0624da266b23dee3a50489f34604d6c99783b337eeca77bb32ca
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2d001d244160f939a73e697e677bf43a1f5f825f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119528464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068078"
 ---
 # <a name="ice38"></a>ICE38
 
@@ -72,7 +72,7 @@ ICE38 сообщает о следующих ошибках в приведен�
 
 
 
-| Реестр | Root | Значение | Компонент\_ |
+| Реестр | Root | Значение | См\_ |
 |----------|------|-------|-------------|
 | Reg3     | 2    |       | Component3  |
 | Reg5     | 0    |       | Component4  |

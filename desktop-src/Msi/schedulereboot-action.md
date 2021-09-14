@@ -4,12 +4,12 @@ ms.assetid: 36f24f57-f1f0-4eca-9b6d-1b25fb73fa96
 title: Действие Счедулеребут
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e796338c04f47ff4b2907dcf8d1531d438622a2f28a653e8ac4672a8b445e1b9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 460e3f25283c233fac80b25edd91d4bd102de435
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120041524"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067765"
 ---
 # <a name="schedulereboot-action"></a>Действие Счедулеребут
 

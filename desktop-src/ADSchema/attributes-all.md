@@ -4,13 +4,13 @@ description: Следующие атрибуты определяются Active
 ms.assetid: 3df1ed0a-8c92-41cf-9478-95e59b50c471
 ms.tgt_platform: multiple
 ms.topic: article
-ms.date: 05/31/2018
-ms.openlocfilehash: 26217543ae9fd55f71806267bd8395ec3da1b63cc5bba38651c49dfaf9edfa65
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.date: 09/10/2021
+ms.openlocfilehash: bf812093a345d5fdbbb630a9b3092b029fad1be3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119644222"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127175182"
 ---
 # <a name="all-attributes"></a>Все атрибуты
 
@@ -63,7 +63,7 @@ ms.locfileid: "119644222"
 [**ACS-Total — нет потоков**](a-acstotalnoofflows.md)  
 [**Дополнительные сведения**](a-notes.md)  
 [**Дополнительные-доверенные имена служб**](a-additionaltrustedservicenames.md)  
-[**Адрес**](a-streetaddress.md)  
+[**Address**](a-streetaddress.md)  
 [**Адресная книга-корни**](a-addressbookroots.md)  
 [**Адресная книга — Roots2**](a-addressbookroots2.md)  
 [**Адрес-ввод-отображение-таблица**](a-addressentrydisplaytable.md)  
@@ -133,10 +133,10 @@ ms.locfileid: "119644222"
 [**COM-ClassID**](a-comclassid.md)  
 [**CLSID COM**](a-comclsid.md)  
 [**COM — InterfaceID**](a-cominterfaceid.md)  
-[**Комментировать**](a-info.md)  
+[**Комментарий**](a-info.md)  
 [**Common-Name**](a-cn.md)  
 [**COM-other-Prog-ID**](a-comotherprogid.md)  
-[**Company**](a-company.md)  
+[**Во**](a-company.md)  
 [**COM — ProgID**](a-comprogid.md)  
 [**COM-интерпретировать-As-Class-ID**](a-comtreatasclassid.md)  
 [**Модель COM-typelib-ID**](a-comtypelibid.md)  
@@ -169,7 +169,7 @@ ms.locfileid: "119644222"
 [**Приоритет по умолчанию**](a-defaultpriority.md)  
 [**Дескриптор безопасности по умолчанию**](a-defaultsecuritydescriptor.md)  
 [**Список отзыва изменений**](a-deltarevocationlist.md)  
-[**Отдел**](a-department.md)  
+[**отдел;**](a-department.md)  
 [**департментнумбер**](a-departmentnumber.md)  
 [**Описание**](a-description.md)  
 [**Рабочий стол — профиль**](a-desktopprofile.md)  
@@ -238,7 +238,7 @@ ms.locfileid: "119644222"
 [**Идентификатор сотрудника**](a-employeeid.md)  
 [**Сотрудник — номер**](a-employeenumber.md)  
 [**Тип сотрудника**](a-employeetype.md)  
-[**Активировано**](a-enabled.md)  
+[**Enabled**](a-enabled.md)  
 [**Включено — подключение**](a-enabledconnection.md)  
 [**Поставщики регистрации**](a-enrollmentproviders.md)  
 [**Срок жизни записи**](a-entryttl.md)  
@@ -249,7 +249,7 @@ ms.locfileid: "119644222"
 [**Дополнительные столбцы**](a-extracolumns.md)  
 [**Факс-телефон — номер**](a-facsimiletelephonenumber.md)  
 [**File-ext-Priority**](a-fileextpriority.md)  
-[**Метки**](a-flags.md)  
+[**Флаги**](a-flags.md)  
 [**Неструктурированное имя**](a-flatname.md)  
 [**Принудительное завершение работы**](a-forcelogoff.md)  
 [**Внешний идентификатор**](a-foreignidentifier.md)  
@@ -401,7 +401,7 @@ ms.locfileid: "119644222"
 [**Политика на уровне компьютера**](a-machinewidepolicy.md)  
 [**Под управлением**](a-managedby.md)  
 [**Управляемые объекты**](a-managedobjects.md)  
-[**Manager**](a-manager.md)  
+[**Configuration**](a-manager.md)  
 [**ИДЕНТИФИКАТОР MAPI**](a-mapiid.md)  
 [**Упакованный интерфейс**](a-marshalledinterface.md)  
 [**В основном**](a-masteredby.md)  
@@ -1371,7 +1371,7 @@ ms.locfileid: "119644222"
 [**С текстовым кодированием или адресом**](a-textencodedoraddress.md)  
 [**Время — обновление**](a-timerefresh.md)  
 [**Изменение времени и громкости**](a-timevolchange.md)  
-[**Название**](a-title.md)  
+[**Титуль**](a-title.md)  
 [**Группы токенов**](a-tokengroups.md)  
 [**Группы токенов — глобальные и универсальные**](a-tokengroupsglobalanduniversal.md)  
 [**Токены-группы-No-GC-приемлемые**](a-tokengroupsnogcacceptable.md)  
@@ -1390,7 +1390,7 @@ ms.locfileid: "119644222"
 [**Отношение доверия-POSIX-offset**](a-trustposixoffset.md)  
 [**Тип доверия**](a-trusttype.md)  
 [**UAS — совместимость**](a-uascompat.md)  
-[**такой**](a-uid.md)  
+[**uid**](a-uid.md)  
 [**уиднумбер**](a-uidnumber.md)  
 [**UNC-имя**](a-uncname.md)  
 [**Юникод-PWD**](a-unicodepwd.md)  

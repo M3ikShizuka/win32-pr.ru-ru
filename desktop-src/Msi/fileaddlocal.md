@@ -4,12 +4,12 @@ ms.assetid: 89ae876e-53f0-4c1d-ba16-7513af79ee5e
 title: ФИЛЕАДДЛОКАЛ, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a2c764fa89480cf4f37e19a4f6a10ee354a07bfe18f9fbc203ea0db4410f7bdd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 01e3e05a35e5bcd4fc672a2feb6bd2f40619bfcb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118946995"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068252"
 ---
 # <a name="fileaddlocal-property"></a>ФИЛЕАДДЛОКАЛ, свойство
 
@@ -38,7 +38,7 @@ ms.locfileid: "118946995"
 
 Установщик задает для свойства предварительно [**выбранных**](preselected.md) значений значение "1" во время возобновления приостановленной установки или при указании любого из указанных выше свойств в командной строке.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: 864404f1-439d-49a2-973d-4e6e1618863e
 title: ICE02
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b97696ee4a8f93d49237dbac8661b6bfc72e478922c87b9095620bc5c29dc546
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1975203825d079d5eeb1ec5e4183767dd68625bc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118946658"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068146"
 ---
 # <a name="ice02"></a>ICE02
 
@@ -46,7 +46,7 @@ File: 'Red_File' cannot be the key file for Component: 'Blue'. The file belongs 
 
 
 
-| Столбец файла | Компонент\_ |
+| Столбец файла | См\_ |
 |-------------|-------------|
 | Красный \_ файл   | Красный         |
 | Синий \_ файл  | Синий        |

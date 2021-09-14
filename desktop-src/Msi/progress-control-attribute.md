@@ -4,12 +4,12 @@ ms.assetid: d2b64cdf-e0b4-4c92-9cce-7f50753b875f
 title: Атрибут элемента управления progress
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a867772ff1452087ab22da76d3c1f93aea32e5ad50bd23ffe8ace62889086781
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ff8854106ebacc8af2bdc0acfb58c5afc5d700df
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120074634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067787"
 ---
 # <a name="progress-control-attribute"></a>Атрибут элемента управления progress
 

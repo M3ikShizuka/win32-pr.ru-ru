@@ -4,12 +4,12 @@ ms.assetid: 653bbf45-ac2c-4f8a-a978-960e0c42e6e4
 title: Ведение журнала возвращаемых значений действий
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 756fa633ef486c3dae4b689acf439f8dbf7786c20f740fb4784de30e764dc9fc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aaaa203fee1fbb02bef070d065a9838383ea588b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118945899"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067885"
 ---
 # <a name="logging-of-action-return-values"></a>Ведение журнала возвращаемых значений действий
 

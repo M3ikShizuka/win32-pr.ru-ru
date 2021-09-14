@@ -4,12 +4,12 @@ ms.assetid: f5ae389e-bc27-465d-886b-4f4f41d49118
 title: Мсилоггинг, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e166a52e970cdb3e0be5ffae6611a8ea9a299232d55f36a45ba470b3717cafae
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 97e53df57723157f7184a904e512aac9035a9f53
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120042784"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067842"
 ---
 # <a name="msilogging-property"></a>Мсилоггинг, свойство
 

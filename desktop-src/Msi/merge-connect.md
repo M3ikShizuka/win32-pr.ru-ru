@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Mergemod.dll
-ms.openlocfilehash: c28aafaac9f8224ea4f622b2e63f81d9dc458d72e98c6e22c348087794e9e7a5
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: da66f7dfe4203e80d4778ae9b39c665a66164384
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119926674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067856"
 ---
 # <a name="mergeconnect-method"></a>AutoMerge. метод Подключение
 
@@ -61,7 +61,7 @@ Merge.Connect(
 
 см. раздел функция [**Подключение**](/windows/win32/api/mergemod/nf-mergemod-imsmmerge-connect) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

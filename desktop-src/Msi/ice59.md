@@ -4,12 +4,12 @@ ms.assetid: 9cd19137-792d-4fde-92d2-7d96942448d6
 title: ICE59
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2e1a8d6318a9b4525941edd3873c9fc35bd11f488e42c8a82da71c4b2c0b9b5b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5631b723a158bb371fff3211654a70d694b6cb5c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120044024"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068036"
 ---
 # <a name="ice59"></a>ICE59
 
@@ -41,7 +41,7 @@ The shortcut ShortcutB activates component ComponentB and advertises feature Fea
 
 
 
-| Сочетание клавиш  | Целевой объект   | Компонент\_ |
+| Сочетание клавиш  | Назначение   | См\_ |
 |-----------|----------|-------------|
 | шорткутб | Компонент а | компонентб  |
 
@@ -53,7 +53,7 @@ The shortcut ShortcutB activates component ComponentB and advertises feature Fea
 
 
 
-| Компонент\_ | Компонент\_ |
+| Компонент\_ | См\_ |
 |-----------|-------------|
 | Компонент а  | Компонент а  |
 
@@ -65,7 +65,7 @@ The shortcut ShortcutB activates component ComponentB and advertises feature Fea
 
 
 
-| Компонент  | Уровень |
+| Компонент  | Level |
 |----------|-------|
 | Компонент а | 10    |
 
@@ -90,7 +90,7 @@ The shortcut ShortcutB activates component ComponentB and advertises feature Fea
 
 
 
-| File  | Компонент\_ | Последовательность |
+| Файл  | См\_ | Последовательность |
 |-------|-------------|----------|
 | Файл а | Компонент а  | 1        |
 | филеб | компонентб  | 2        |

@@ -4,12 +4,12 @@ ms.assetid: 68394498-98ca-4bcd-86c0-3f692a26a258
 title: Атрибут элемента управления РТЛРО
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d3c4488b31b0bac714d0f28915c074c0a6e4a8b5105e3ef2be60f3870ebcf88d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c452a4b5b4533b24e8e59b6fe70dc2884baec0c1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120039674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067779"
 ---
 # <a name="rtlro-control-attribute"></a>Атрибут элемента управления РТЛРО
 

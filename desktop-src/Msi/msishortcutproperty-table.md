@@ -4,12 +4,12 @@ ms.assetid: d959769d-113f-4af2-89d4-ad3f5322de33
 title: Таблица Мсишорткутпроперти
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4d7cf51d8016cdc87008a6cc9a20daee1f35131af7ea0f5827c67da7f45a6e46
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f295feabd6ff9b1677fdcf47791959b0fbb8a920
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118944431"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067823"
 ---
 # <a name="msishortcutproperty-table"></a>Таблица Мсишорткутпроперти
 
@@ -23,7 +23,7 @@ ms.locfileid: "118944431"
 
 | Столбец              | Type                         | Ключ | Допускает значения NULL |
 |---------------------|------------------------------|-----|----------|
-| мсишорткутпроперти | [Идентификатор](identifier.md) | Д   | Нет        |
+| мсишорткутпроперти | [Идентификатор](identifier.md) | Да   | Нет        |
 | Сочетание клавиш\_          | [Идентификатор](identifier.md) | Нет   | Нет        |
 | PropertyKey         | [Формате](formatted.md)   | Нет   | Нет        |
 | пропвариантвалуе    | [Формате](formatted.md)   | Нет   | Нет        |

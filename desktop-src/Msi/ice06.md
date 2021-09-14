@@ -4,12 +4,12 @@ ms.assetid: 0c3f21ae-49ea-4cfe-b465-6fdc2b19cbb9
 title: ICE06
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: febccd205b78e90d3dac49f88d0750f803c8cd575b6b76b46cab79a684deea90
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7e9442d9b2c4089b88299106de875074bd7b0625
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118142572"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068138"
 ---
 # <a name="ice06"></a>ICE06
 

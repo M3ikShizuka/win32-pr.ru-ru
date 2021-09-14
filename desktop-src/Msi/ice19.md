@@ -4,12 +4,12 @@ ms.assetid: 438153c1-bc4b-4ecf-ab85-d66ad69c987c
 title: ICE19
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a1a706999744762a930a800326cb8d38487f19c1c4ea3e01b6b1f8aeae4ca2dc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9a53aa3268a1c77f674d4a130c9de02c44b56243
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119529114"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068115"
 ---
 # <a name="ice19"></a>ICE19
 
@@ -48,7 +48,7 @@ ICE19 отправляет следующие сообщения об ошибк
 
 
 
-| Расширение | Компонент\_ |
+| Расширение | См\_ |
 |-----------|-------------|
 | FLP       | Comp1       |
 | TST       | Comp2       |
@@ -62,7 +62,7 @@ ICE19 отправляет следующие сообщения об ошибк
 
 
 
-| Сочетание клавиш  | Компонент\_ | Компонент\_      |
+| Сочетание клавиш  | См\_ | Компонент\_      |
 |-----------|-------------|----------------|
 | Shortcut1 | Comp4       | продуктфеатуре |
 | Shortcut2 | Comp3       | продуктфеатуре |

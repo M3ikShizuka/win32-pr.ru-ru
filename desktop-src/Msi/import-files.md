@@ -4,12 +4,12 @@ ms.assetid: 37580bd6-30c7-4239-9717-223a381ba021
 title: Импорт файлов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4dc67cc3f698d1268a5ce08fe1e4c76b86a425216396fa168b0e8e6dc8a3f91f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8508ee4e385e3edc737515f1b524de074489fb2b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120043864"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067908"
 ---
 # <a name="import-files"></a>Импорт файлов
 

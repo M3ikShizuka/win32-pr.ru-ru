@@ -4,12 +4,12 @@ ms.assetid: 74cb455b-a53e-4c6b-98ff-08cf0858f11f
 title: ICE30
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3ba807ec1eb3bde54b1f115e93c531f24414b75e7a293c8ff1b7d7ff1d3abca8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 78fa96899231015d864e5a0912b8ff73cedbbe75
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119528664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068093"
 ---
 # <a name="ice30"></a>ICE30
 
@@ -76,7 +76,7 @@ ICE30 отправляет сообщение об ошибке для кажд�
 
 
 
-| File  | Компонент\_ | FileName   |
+| Файл  | См\_ | FileName   |
 |-------|-------------|------------|
 | Файл1 | Component1  | ФАЙЛ README. 1 |
 | Файл2 | Component2  | ФАЙЛ README. 1 |

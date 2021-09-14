@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Mergemod.dll
-ms.openlocfilehash: 83f0238a1e65a6c3551b7fea5262fe91d74705287aba0714dfbb4b3cc3a37976
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8688ae06cedca1e3b75290f7831f7d3539e3ec21
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117805055"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067861"
 ---
 # <a name="mergeclosemodule-method"></a>Метод Merge. Клосемодуле
 
@@ -50,7 +50,7 @@ Merge.CloseModule()
 
 См. раздел Функция [**клосемодуле**](/windows/win32/api/mergemod/nf-mergemod-imsmmerge-closemodule) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

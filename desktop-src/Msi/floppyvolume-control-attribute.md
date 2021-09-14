@@ -4,12 +4,12 @@ ms.assetid: 65e17920-bb2c-4b98-a2dd-ebaee752ed0a
 title: Атрибут элемента управления Флоппиволуме
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4639960fee79336048082c91088e19c1b360f857216f2cf0ad9ed07c64b52b8b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c70045ee5d6e16fbe1f679eafd83e6d657c9bf6e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118947015"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068232"
 ---
 # <a name="floppyvolume-control-attribute"></a>Атрибут элемента управления Флоппиволуме
 

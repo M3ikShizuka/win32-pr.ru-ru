@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: c0e1866c401e262a76d4062b97cd057a2420ec8ec8d7f9a8f415791055a62055
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4e48bbc9faaa82bde60ff653ba80d69d6cc5e60e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119529574"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068269"
 ---
 # <a name="featureinfotitle-property"></a>Феатуреинфо. Title, свойство
 
@@ -37,7 +37,7 @@ propVal = FeatureInfo.Title
 
 ## <a name="property-value"></a>Значение свойства
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -4,12 +4,12 @@ ms.assetid: a04429c2-ff9e-4ec8-8d07-faf1479f4920
 title: ICE73
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f2e5beecbfc7b4345d3b0dd7a93b86c55acc1abde4cc4f99d72749368be9d303
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 11ac0e192f7c2ab7fb6f6236e45e0e4da70157e0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118635080"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068010"
 ---
 # <a name="ice73"></a>ICE73
 
@@ -40,7 +40,7 @@ This package reuses the '{8FC7****-88A0-4b41-82B8-8905D4AA904C}' Upgrade Code of
 
 
 
-| Свойство       | Значение                                  |
+| Свойство.       | Значение                                  |
 |----------------|----------------------------------------|
 | Идентификатор процесса \_ ревнумбер | {000C1101-0000-0000-C000-000000000047} |
 
@@ -52,7 +52,7 @@ This package reuses the '{8FC7****-88A0-4b41-82B8-8905D4AA904C}' Upgrade Code of
 
 
 
-| Свойство                           | Значение                                  |
+| Свойство.                           | Значение                                  |
 |------------------------------------|----------------------------------------|
 | [**ProductCode**](productcode.md) | {80F7E030-A751-11D2-A7D4-006097C99860} |
 | [**UpgradeCode**](upgradecode.md) | {8FC70000-88A0-4b41-82B8-8905D4AA904C} |

@@ -4,12 +4,12 @@ ms.assetid: 5ddff430-a6f8-473b-8006-ac0124469a99
 title: Таблица шрифтов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 65efb786d4379bbe14fec0239cd8f3edee50f1b79a6413904b6e00331bc49a25
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c10208c7b9a14ca7f311aff71653a53a3da9ed0c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118946985"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068230"
 ---
 # <a name="font-table"></a>Таблица шрифтов
 
@@ -21,8 +21,8 @@ ms.locfileid: "118946985"
 
 | Столбец    | Type                         | Ключ | Допускает значения NULL |
 |-----------|------------------------------|-----|----------|
-| File\_    | [Идентификатор](identifier.md) | Д   | Нет        |
-| фонттитле | [Text](text.md)             | Нет   | Д        |
+| File\_    | [Идентификатор](identifier.md) | Да   | Нет        |
+| фонттитле | [Text](text.md)             | Нет   | Да        |
 
 
 

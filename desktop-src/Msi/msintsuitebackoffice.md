@@ -4,18 +4,18 @@ ms.assetid: 31493732-3082-4dd9-9a20-21658f53c8c2
 title: Мсинтсуитебаккоффице, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5cf3c65e1f5d1d528dd35232900a9aef12bdf344d1d2859eef814d1030e6249d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bf2d9f2f1d95446c32b4f2addf520f3d5b4dadc3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118944829"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127067826"
 ---
 # <a name="msintsuitebackoffice-property"></a>Мсинтсуитебаккоффице, свойство
 
 в Windows 2000 и более поздних операционных системах установщик устанавливает для свойства **мсинтсуитебаккоффице** значение 1, если установлены компоненты Microsoft backoffice. Установщик задает для этого свойства значение 1, только если в \_ \_ структуре [**ОСВЕРСИОНИНФОЕКС**](/windows/win32/api/winnt/ns-winnt-osversioninfoexa) задан флаг BackOffice Suite. В противном случае установщик не устанавливает это свойство.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

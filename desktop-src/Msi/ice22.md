@@ -4,12 +4,12 @@ ms.assetid: 1aa3e2e6-3f05-411e-829f-aeddbb53445d
 title: ICE22
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 177fcef5441e5b82738c76face70427cc6865ae59c11542fca080b3dc521c5e4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 26574b11f9d908026d901a74632766998246d31a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119529024"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127068108"
 ---
 # <a name="ice22"></a>ICE22
 
@@ -27,7 +27,7 @@ ICE22 отправляет сообщение об ошибке, если ком
 
 
 
-| ComponentId                            | Компонент\_ | Компонент\_ |
+| ComponentId                            | Компонент\_ | См\_ |
 |----------------------------------------|-----------|-------------|
 | {00000002-0003-0000-0000-624474736554} | Feat1     | Comp1       |
 | {00000003-0004-0000-0000-624474732465} | Feat1     | Comp2       |
@@ -40,7 +40,7 @@ ICE22 отправляет сообщение об ошибке, если ком
 
 
 
-| Компонент\_ | Компонент\_ |
+| Компонент\_ | См\_ |
 |-----------|-------------|
 | Feat1     | Comp1       |
 
