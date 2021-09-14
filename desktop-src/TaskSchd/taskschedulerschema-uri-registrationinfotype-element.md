@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 1b9a2d9b8faf327f7b64be2cdd4273f2252405767004dc6e0d58b0c95b5f1910
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: be3f5782ba5fc02bc3309abfe337c029d0341667
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118355607"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968570"
 ---
 # <a name="uri-registrationinfotype-element"></a>URI (Регистратионинфотипе), элемент
 
@@ -43,7 +43,7 @@ ms.locfileid: "118355607"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Для разработки сценариев URI задачи указывается с помощью свойства [**регистратионинфо. URI**](registrationinfo-uri.md) .
 

@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 86b70ee57d8940dc65b1f7b74151a3dd6889286a26e7bbf4357bea4aae8c5259
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 81064581b209f047ac492faee6d442b082d038cf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117757826"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968469"
 ---
 # <a name="getprotocolname-method-of-the-win32_tsgatewayserversettings-class"></a>Метод Жетпротоколнаме \_ класса Win32 тсгатевайсерверсеттингс
 
@@ -62,7 +62,7 @@ uint32 GetProtocolName(
 
 Если метод завершается с ошибкой, он возвращает ноль. Если метод завершился неудачно, он возвращает ненулевое значение. Список кодов ошибок см. в разделе [службы удаленных рабочих столов коды ошибок поставщика WMI](terminal-services-wmi-provider-error-codes.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Поддерживается один протокол.
 

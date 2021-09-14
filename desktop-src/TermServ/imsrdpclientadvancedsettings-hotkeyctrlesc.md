@@ -55,11 +55,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: cf1a806430e8b93503c7cdc0fef04ba3f0a59b20
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105672644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968333"
 ---
 # <a name="imsrdpclientadvancedsettingshotkeyctrlesc-property"></a>Свойство Имсрдпклиентадванцедсеттингс:: Хоткэйктрлеск
 

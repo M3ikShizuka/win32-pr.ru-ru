@@ -54,12 +54,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e984eef21fa74aa3f3134f19c1d6e7503a24ec9fb67e0ef3bfb0daa6330cfcd8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d0fc31954ff191f795146e3894b0394b29484fb1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118353275"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968338"
 ---
 # <a name="imsrdpclientadvancedsettingsbitmapvirtualcache24bppsize-property"></a>Свойство Имсрдпклиентадванцедсеттингс:: BitmapVirtualCache24BppSize
 
@@ -90,13 +90,13 @@ HRESULT get_BitmapVirtualCache24BppSize(
 
 При успешном выполнении возвращает значение **\_ ОК** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 К связанным свойствам относятся свойства **битмапвиртуалкачесизе** и **BitmapVirtualCache16BppSize** .
 
 Дополнительные сведения о веб-подключение к удаленному рабочему столу см. в разделе [требования для веб-подключение к удаленному рабочему столу](requirements-for-remote-desktop-web-connection.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -110,7 +110,7 @@ HRESULT get_BitmapVirtualCache24BppSize(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 63dbdffbad87f9860bc063ab7f83883e0f902ea1ef7e4d2e91d452b2b832a699
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6575e50bd85cfe96888f6c5924d1875b48d544ea
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119871364"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968377"
 ---
 # <a name="imsrdpclient8-interface"></a>Интерфейс IMsRdpClient8
 
@@ -77,7 +77,7 @@ ms.locfileid: "119871364"
 | [**AdvancedSettings9**](imsrdpclient8-advancedsettings9.md)<br/>              | Только для чтения<br/>  | Содержит объект, который поддерживает интерфейс [**IMsRdpClientAdvancedSettings8**](imsrdpclientadvancedsettings8.md) .<br/>                                                                                                                      |
 | [**Циферстренгс**](imstscax-cipherstrength.md)<br/>                         | Только для чтения<br/>  | Возвращает максимальную стойкость шифрования текущего элемента управления.<br/>                                                                                                                                                                           |
 | [**Clientareawidth**](imsrdpclient-colordepth.md)<br/>                             | Чтение/запись<br/> | Глубина цвета (в битах на пиксель) для соединения элемента управления.<br/>                                                                                                                                                                           |
-| [**Подключен**](imstscax-connected.md)<br/>                                   | Только для чтения<br/>  | Возвращает состояние соединения текущего элемента управления.<br/>                                                                                                                                                                                      |
+| [**Организован**](imstscax-connected.md)<br/>                                   | Только для чтения<br/>  | Возвращает состояние соединения текущего элемента управления.<br/>                                                                                                                                                                                      |
 | [**коннектедстатустекст**](imsrdpclient2-connectedstatustext.md)<br/>          | Чтение/запись<br/> | Содержит текст, отображаемый в клиентской области элемента управления, когда элемент управления находится в подключенном состоянии.<br/>                                                                                                                          |
 | [**коннектингтекст**](imstscax-connectingtext.md)<br/>                         | Чтение/запись<br/> | Задает текст, отображаемый в центре элемента управления во время подключения элемента управления.<br/>                                                                                                                                                    |
 | [**десктофеигхт**](imstscax-desktopheight.md)<br/>                           | Чтение/запись<br/> | Задает высоту текущего элемента управления в пикселях на начальном удаленном рабочем столе.<br/>                                                                                                                                                           |
@@ -95,20 +95,20 @@ ms.locfileid: "119871364"
 | [**SecuredSettings2**](imsrdpclient-securedsettings2.md)<br/>                 | Только для чтения<br/>  | Получает указатель на интерфейс [**имсрдпклиентсекуредсеттингс**](imsrdpclientsecuredsettings-interface.md) . Этот интерфейс можно использовать для задания защищенных параметров клиентского элемента управления.<br/>                                               |
 | [**SecuredSettings3**](imsrdpclient7-securedsettings3.md)<br/>                | Только для чтения<br/>  | Извлекает объект, который поддерживает интерфейс [**IMsRdpClientSecuredSettings2**](imsrdpclientsecuredsettings2.md) .<br/>                                                                                                                       |
 | [**секуредсеттингсенаблед**](imstscax-securedsettingsenabled.md)<br/>         | Только для чтения<br/>  | Указывает, доступен ли интерфейс [**имстсксекуредсеттингс**](imstscsecuredsettings-interface.md) . То есть, находится ли веб-страница, содержащая данный элемент управления, в одной из разрешенных зон безопасности URL-адресов Internet Explorer.<br/> |
-| [**Сервер**](imstscax-server.md)<br/>                                         | Чтение/запись<br/> | Указывает имя сервера, к которому подключен текущий элемент управления.<br/>                                                                                                                                                                 |
+| [**Сервером**](imstscax-server.md)<br/>                                         | Чтение/запись<br/> | Указывает имя сервера, к которому подключен текущий элемент управления.<br/>                                                                                                                                                                 |
 | [**стартконнектед**](imstscax-startconnected.md)<br/>                         | Чтение/запись<br/> | Указывает, будет ли элемент управления устанавливать соединение с сервером узла сеансов удаленных рабочих столов сразу после запуска.<br/>                                                                                                                                |
 | [**TransportSettings**](imsrdpclient5-transportsettings.md)<br/>              | Только для чтения<br/>  | Возвращает сведения о том, что было передано через скрипт в интерфейс [**имсрдпклиенттранспортсеттингс**](imsrdpclienttransportsettings.md) .<br/>                                                                                                         |
 | [**TransportSettings2**](imsrdpclient6-transportsettings2.md)<br/>            | Только для чтения<br/>  | Извлекает интерфейс [**IMsRdpClientTransportSettings2**](imsrdpclienttransportsettings2.md) .<br/>                                                                                                                                           |
 | [**TransportSettings3**](imsrdpclient7-transportsettings3.md)<br/>            | Только для чтения<br/>  | Извлекает объект, который поддерживает интерфейс [**IMsRdpClientTransportSettings3**](imsrdpclienttransportsettings3.md) .<br/>                                                                                                                   |
 | [**Имен**](imstscax-username.md)<br/>                                     | Чтение/запись<br/> | Указывает учетные данные имени пользователя для входа.<br/>                                                                                                                                                                                                   |
-| [**Version**](imstscax-version.md)<br/>                                       | Только для чтения<br/>  | Указывает номер версии текущего элемента управления.<br/>                                                                                                                                                                                        |
+| [**Версия**](imstscax-version.md)<br/>                                       | Только для чтения<br/>  | Указывает номер версии текущего элемента управления.<br/>                                                                                                                                                                                        |
 | [**вертикалскроллбарвисибле**](imstscax-verticalscrollbarvisible.md)<br/>     | Только для чтения<br/>  | Указывает, отображает ли элемент управления вертикальную полосу прокрутки.<br/>                                                                                                                                                                               |
 
 
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Интерфейс **IMsRdpClient8** расширен следующими интерфейсами. каждый новый интерфейс наследует все методы и свойства предыдущих интерфейсов:
 
@@ -117,14 +117,14 @@ ms.locfileid: "119871364"
 
 Дополнительные сведения о веб-подключение к удаленному рабочему столу см. в разделе [требования для веб-подключение к удаленному рабочему столу](requirements-for-remote-desktop-web-connection.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8<br/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Библиотека типов<br/>             | <dl> <dt>MsTscAx.dll</dt> </dl>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | DLL<br/>                      | <dl> <dt>MsTscAx.dll</dt> </dl>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | CLSID<br/>                    | \_MSRDPCLIENT10 CLSID определен как C0EFA91A-EEB7-41C7-97FA-F0ED645EFB24<br/> \_MSRDPCLIENT10NOTSAFEFORSCRIPTING CLSID определен как A0C63C30-F08D-4AB4-907C-34905D770C7D<br/> \_MSRDPCLIENT8 CLSID определен как 5F681803-2900-4C43-A1CC-CF405404A676<br/> \_MSRDPCLIENT8NOTSAFEFORSCRIPTING CLSID определен как A3BC03A0-041D-42E3-AD22-882B7865C9C5<br/> \_MSRDPCLIENT9 CLSID определен как 301B94BA-5D25-4A12-BFFE-3B6E7A616585<br/> \_MSRDPCLIENT9NOTSAFEFORSCRIPTING CLSID определен как 8B918B82-7985-4C24-89DF-C33AD2BBFBCD<br/> |
@@ -132,7 +132,7 @@ ms.locfileid: "119871364"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

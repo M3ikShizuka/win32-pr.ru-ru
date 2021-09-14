@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 2583d7fcaa9a9832e54c405200397e40948204546cb81e89a90ceb6949e218e5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8afa12156a15ff399f3cbc967a5fd9c612df582b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118610419"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968561"
 ---
 # <a name="value-namedvalues-element"></a>Элемент value (Намедвалуес)
 
@@ -44,7 +44,7 @@ ms.locfileid: "118610419"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сведения о разработке на языке C++ см. в разделе [**свойство Value объекта итаскнамедвалуепаир**](/windows/desktop/api/taskschd/nf-taskschd-itasknamedvaluepair-get_value).
 

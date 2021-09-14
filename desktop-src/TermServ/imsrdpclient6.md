@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b4bbf8fb9cc532b1968b8fba99b62e49feaf4538fd618018666d0338736cc04d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5ddb2b60d95650975955bc45abe23a354668c9bf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119138917"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968426"
 ---
 # <a name="imsrdpclient6-interface"></a>Интерфейс IMsRdpClient6
 
@@ -39,7 +39,7 @@ ms.locfileid: "119138917"
 
 
 
-| Свойство.                                                                  | Тип доступа          | Описание                                                                                           |
+| Свойство                                                                  | Тип доступа          | Описание                                                                                           |
 |:--------------------------------------------------------------------------|:---------------------|:------------------------------------------------------------------------------------------------------|
 | [**AdvancedSettings7**](imsrdpclient6-advancedsettings7.md)<br/>   | Только для чтения<br/> | Интерфейс для [**IMsRdpClientAdvancedSettings6**](imsrdpclientadvancedsettings6.md).<br/>   |
 | [**TransportSettings2**](imsrdpclient6-transportsettings2.md)<br/> | Только для чтения<br/> | Интерфейс для [**IMsRdpClientTransportSettings2**](imsrdpclienttransportsettings2.md).<br/> |
@@ -48,7 +48,7 @@ ms.locfileid: "119138917"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Интерфейс **IMsRdpClient6** расширен следующими интерфейсами. каждый новый интерфейс наследует все методы и свойства предыдущих интерфейсов:
 

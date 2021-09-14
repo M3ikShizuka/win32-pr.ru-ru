@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: faf27ea132fb47e35cd248e183fbec0584cb5d44414d6cacda6baac0d595c32d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a00798a46df3dfbb351dd8705b264192c38daff6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118610457"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968569"
 ---
 # <a name="useunifiedschedulingengine-settingstype-element"></a>Усеунифиедсчедулинженгине (Сеттингстипе), элемент
 
@@ -44,7 +44,7 @@ ms.locfileid: "118610457"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значение по умолчанию для этого элемента — false.
 

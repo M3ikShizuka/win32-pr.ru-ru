@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 2ec45a9c240a9dd5d30d2089f98216fc165af13fe418424f5b85feed5e022b67
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: efe38f2e825e2de566391a7b1707ce1f8cfbbc68
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118131559"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968637"
 ---
 # <a name="subscription-eventtriggertype-element"></a>Элемент Subscription (Евенттригжертипе)
 
@@ -42,13 +42,13 @@ ms.locfileid: "118131559"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Для разработки скриптов подписка на события задается свойством [**EventTrigger. Subscription**](eventtrigger-subscription.md) .
 
 Для разработки на C++ подписка на события задается свойством [**иевенттригжер:: Subscription**](/windows/desktop/api/taskschd/nf-taskschd-ieventtrigger-get_subscription) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ ms.locfileid: "118131559"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

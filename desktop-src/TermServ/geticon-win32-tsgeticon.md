@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 305316d66ce95659210396a10f22366d64ebdd2b410b056aa3c398cf65edbbf5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 92cd20cad668b0e3a6bba191c83ecdca2934ca17
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119001542"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968514"
 ---
 # <a name="geticon-method-of-the-win32_tsgeticon-class"></a>Метод method \_ класса Win32 тсжетикон
 
@@ -73,7 +73,7 @@ uint32 GetIcon(
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                               |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                          |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                          |
 | Пространство имен<br/>                | Корневой \\ CIMv2 \\ терминалсервицес<br/>                                                |
 | MOF<br/>                      | <dl> <dt>Тсаллов. mof</dt> </dl>  |
 | DLL<br/>                      | <dl> <dt>TsPubWmi.dll</dt> </dl> |

@@ -19,12 +19,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7829e39db819cf43e58856e4ea7ecd8d76621a78b9d45544a85034703e6ba9b9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0664e0c792725dc112baf786d63c5175eb450dcc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118352979"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968309"
 ---
 # <a name="imsrdpclientadvancedsettingstransporttype-property"></a>Свойство Имсрдпклиентадванцедсеттингс:: TransportType
 
@@ -51,11 +51,11 @@ HRESULT get_TransportType(
 
 Задает тип транспорта. этот метод может быть выполнен, но набор значений никогда не используется элементом управления удаленный рабочий стол ActiveX.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Дополнительные сведения о веб-подключение к удаленному рабочему столу см. в разделе [требования для веб-подключение к удаленному рабочему столу](requirements-for-remote-desktop-web-connection.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -69,7 +69,7 @@ HRESULT get_TransportType(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

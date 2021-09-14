@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 4e5fe72b791a963e78d49ace14f7edec1210dc3bf23a5f7cee9550e6f6db53e8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ca5baa7135579ff673ba9b01a672a126924d1d49
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118355681"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968605"
 ---
 # <a name="title-showmessagetype-element"></a>Элемент title (Шовмессажетипе)
 
@@ -42,7 +42,7 @@ ms.locfileid: "118355681"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сведения о разработке на языке C++ см. в разделе [**свойство Title объекта ишовмессажеактион**](/windows/desktop/api/taskschd/nf-taskschd-ishowmessageaction-get_title).
 

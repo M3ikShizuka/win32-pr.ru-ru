@@ -20,12 +20,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cc60a3a7e1499632ac721192ce324fcf786e179604c11e2a70c4450b6171b779
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 399611ea526338f4cfe40ef3a4d6543bf27f134a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120099464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968370"
 ---
 # <a name="imsrdpclient9detachevent-method"></a>IMsRdpClient9: метод:d Етачевент
 
@@ -65,13 +65,13 @@ HRESULT detachEvent(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Windows 8.1<br/>                                                                                                                                                                                                                                                  |
+| Минимальная версия клиента<br/> | Windows 8.1<br/>                                                                                                                                                                                                                                                  |
 | Минимальная версия сервера<br/> | Windows Server 2012 R2<br/>                                                                                                                                                                                                                                       |
 | Библиотека типов<br/>             | <dl> <dt>MsTscAx.dll</dt> </dl>                                                                                                                                                                                  |
 | DLL<br/>                      | <dl> <dt>MsTscAx.dll</dt> </dl>                                                                                                                                                                                  |
@@ -79,7 +79,7 @@ HRESULT detachEvent(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

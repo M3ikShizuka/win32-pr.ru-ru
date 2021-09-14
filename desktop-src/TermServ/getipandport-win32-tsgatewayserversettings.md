@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: faf1cb1d4f597e734ac66456cd515193afed5ad31b7b6543d4e52c09717346a7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 260cc45961720ae8d175d4df3e84edc7a0c15c13
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118353855"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968486"
 ---
 # <a name="getipandport-method-of-the-win32_tsgatewayserversettings-class"></a>Метод Жетипандпорт \_ класса Win32 тсгатевайсерверсеттингс
 
@@ -91,21 +91,21 @@ uint32 GetIPAndPort(
 
 Если метод завершается с ошибкой, он возвращает ноль. Если метод завершился неудачно, он возвращает ненулевое значение. Список кодов ошибок см. в разделе [службы удаленных рабочих столов коды ошибок поставщика WMI](terminal-services-wmi-provider-error-codes.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                                |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                           |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                           |
 | Пространство имен<br/>                | Корневой \\ CIMv2 \\ терминалсервицес<br/>                                                 |
 | MOF<br/>                      | <dl> <dt>TSGateway. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>AagWmi.dll</dt> </dl>    |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -26,12 +26,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d8ea5d275a215d55bd324d18ad8b9b3b771838f07441cb492f39f420a1260c89
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e5fce4c6f07b0c6c798d613e5312b3ae2b258c9c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119574374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968385"
 ---
 # <a name="imsrdpclient8advancedsettings9-property"></a>Свойство IMsRdpClient8:: AdvancedSettings9
 
@@ -54,21 +54,21 @@ HRESULT get_AdvancedSettings9(
 
 Интерфейс [**IMsRdpClientAdvancedSettings8**](imsrdpclientadvancedsettings8.md) , представляющий объект Settings.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8<br/>                                                                   |
-| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                         |
+| Минимальная версия сервера<br/> | Windows Server 2012<br/>                                                         |
 | Библиотека типов<br/>             | <dl> <dt>MsTscAx.dll</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>MsTscAx.dll</dt> </dl> |
 | IID<br/>                      | IID \_ IMsRdpClient8 определен как 4247E044-9271-43A9-BC49-E2AD9E855D62<br/>       |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

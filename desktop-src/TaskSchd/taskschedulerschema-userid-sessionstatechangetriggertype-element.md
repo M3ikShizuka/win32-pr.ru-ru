@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: d6f6ddaf196f83d727e4641df6e59375033eb60c076451d70866d9d227ca457d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cd66a05d25ea9b44f124d55ccc0cbb2c628aeeb5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118355579"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968562"
 ---
 # <a name="userid-sessionstatechangetriggertype-element"></a>UserId (Сессионстатечанжетригжертипе), элемент
 
@@ -44,7 +44,7 @@ ms.locfileid: "118355579"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сведения о разработке на языке C++ см. в разделе [**свойство UserId объекта исессионстатечанжетригжер**](/windows/desktop/api/taskschd/nf-taskschd-isessionstatechangetrigger-get_userid).
 

@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 1e6497ca88d43b96096ee6a23ee81a322b0f397757466ed8cf09dd1b3cd45fc5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a47a01d7d77f3dd20f055bce8e4bb12fad82c771
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118356062"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968610"
 ---
 # <a name="stoponidleend-idlesettingstype-element"></a>Стопонидлинд (Идлесеттингстипе), элемент
 
@@ -44,7 +44,7 @@ ms.locfileid: "118356062"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сведения о разработке на языке C++ см. в разделе [**свойство стопонидлинд объекта иидлесеттингс**](/windows/desktop/api/taskschd/nf-taskschd-iidlesettings-get_stoponidleend).
 

@@ -54,12 +54,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: efe7ca9b9ed68f3327779177e706ee5a943c9e6580e2b789e2b96e74ee9f0b4d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a12112eb2a18d38993e905f8d36175f1ab15f58a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118353043"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968346"
 ---
 # <a name="imsrdpclientadvancedsettingsloadbalanceinfo-property"></a>Свойство Имсрдпклиентадванцедсеттингс:: Лоадбаланцеинфо
 
@@ -90,7 +90,7 @@ HRESULT get_LoadBalanceInfo(
 
 При успешном выполнении возвращает значение **\_ ОК** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сведения о балансировке нагрузки используются маршрутизаторами балансировки нагрузки для выбора наиболее подходящего сервера для клиента при использовании ферм серверов узлов сеансов удаленных рабочих столов. Сам сервер узла сеансов удаленных рабочих столов не использует эти сведения и будет удален.
 
@@ -110,7 +110,7 @@ HRESULT get_LoadBalanceInfo(
 
 Дополнительные сведения о веб-подключение к удаленному рабочему столу см. в разделе [требования для веб-подключение к удаленному рабочему столу](requirements-for-remote-desktop-web-connection.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -124,7 +124,7 @@ HRESULT get_LoadBalanceInfo(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

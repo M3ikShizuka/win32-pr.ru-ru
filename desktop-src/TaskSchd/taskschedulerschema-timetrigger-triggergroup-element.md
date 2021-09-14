@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: d6b766a64f87b43feb23200176c5d23e254638a0022ea4d77b64264ca1d507d8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 83d3b0a63a8be70af7eba4edb90e49db71892f5d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118355851"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968606"
 ---
 # <a name="timetrigger-triggergroup-element"></a>Тиметригжер (Тригжерграуп), элемент
 
@@ -66,7 +66,7 @@ ms.locfileid: "118355851"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Элемент [**стартбаундари**](taskschedulerschema-startboundary-triggerbasetype-element.md) является обязательным элементом для триггеров времени и календаря (**тиметригжер** и [**календартригжер**](taskschedulerschema-calendartrigger-triggergroup-element.md)).
 

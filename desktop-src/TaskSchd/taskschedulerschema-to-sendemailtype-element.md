@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 2367686e308eb33287dafc3ce274d039b71534048fea07bc313e0542af4e2041
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b9e0643220915ecb1c8f2cd1fe842e0dc3f21d8f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118355644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968601"
 ---
 # <a name="to-sendemailtype-element"></a>To (Сендемаилтипе), элемент
 
@@ -42,7 +42,7 @@ ms.locfileid: "118355644"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сведения о разработке на языке C++ см. [**в разделе свойство объекта иемаилактион**](/windows/desktop/api/taskschd/nf-taskschd-iemailaction-get_to).
 

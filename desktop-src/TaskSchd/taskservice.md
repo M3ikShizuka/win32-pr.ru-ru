@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 74f20840a5580d0188354ca6b65ab3ce5b7402d57ea7346462d2f990ecfe34cf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 762cd2445c3c6b720bba0f01ae48b787abc1fb38
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119658654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968554"
 ---
 # <a name="taskservice-object"></a>Объект TaskService
 
@@ -61,7 +61,7 @@ ms.locfileid: "119658654"
 
 | Свойство                                                          | Описание                                                                                                                 |
 |:------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|
-| [**Подключен**](taskservice-connected.md)<br/>             | Возвращает логическое значение, указывающее, установлено ли соединение со службой планировщик задач.<br/>                          |
+| [**Организован**](taskservice-connected.md)<br/>             | Возвращает логическое значение, указывающее, установлено ли соединение со службой планировщик задач.<br/>                          |
 | [**коннектеддомаин**](taskservice-connecteddomain.md)<br/> | Возвращает имя домена, к которому подключен компьютер [**TargetServer**](taskservice-targetserver.md) .<br/> |
 | [**коннектедусер**](taskservice-connecteduser.md)<br/>     | Возвращает имя пользователя, подключенного к службе планировщик задач.<br/>                                       |
 | хигхестверсион<br/>                                         | Возвращает самую новую версию планировщик задач, поддерживаемую компьютером.<br/>                                             |
@@ -75,7 +75,7 @@ ms.locfileid: "119658654"
 
 Дополнительные сведения и примеры кода для этого объекта скрипта см. [пример триггера времени (сценарии)](time-trigger-example--scripting-.md), [пример триггера события (сценарии)](https://www.bing.com/search?q=Event+Trigger+Example+(Scripting)), [Пример ежедневного триггера (сценарии](daily-trigger-example--scripting-.md)), пример триггера [регистрации](registration-trigger-example--scripting-.md)(сценарии), пример триггера с [расписанием](weekly-trigger-example--scripting-.md)(скрипт), пример триггера [входа](logon-trigger-example--scripting-.md)(скрипт), пример триггера [загрузки](boot-trigger-example--scripting-.md)(сценарии), [а также имена и состояния задач (сценарии)](displaying-task-names-and-state--scripting-.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -88,7 +88,7 @@ ms.locfileid: "119658654"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

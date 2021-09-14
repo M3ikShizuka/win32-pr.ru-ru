@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 48cc560029400206d749ee7fc74fdf2330b02578ffd73fa4494d8d426951e5d1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 08ba93d3716a8fb0e701cc783ec83abba40190d5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119738244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126968533"
 ---
 # <a name="tasksettingscompatibility-property"></a>Тасксеттингс. Compatibility, свойство
 
@@ -52,7 +52,7 @@ TaskSettings.Compatibility As Integer
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 совместимость задач, которая задается с помощью свойства [**compatibility**](/windows/desktop/api/taskschd/nf-taskschd-itasksettings-get_compatibility) , должна быть установлена только для обеспечения совместимости задач версии 1, \_ если требуется доступ к \_ задаче или ее изменение с компьютера Windows XP, Windows Server 2003 или Windows 2000. В противном случае рекомендуется использовать совместимость с планировщик задач 2,0, так как задача будет иметь больше функций.
 
