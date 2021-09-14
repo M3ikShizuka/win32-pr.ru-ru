@@ -4,12 +4,12 @@ ms.assetid: 747e3133-d103-44dc-b119-5a4cb4ed7f18
 title: 'Итконнектион: метод ut_NetworkType:p (Сдпблб. h)'
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 87f9d14090d04db639c95df59b051da77f2631064becff5bbb1873b37e82c745
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c0e08819bcc5cb00824c8c1510d85fdcb1de186b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119774994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170703"
 ---
 # <a name="itconnectionput_networktype-method"></a>Итконнектион::p UT \_ нетворктипе метод
 

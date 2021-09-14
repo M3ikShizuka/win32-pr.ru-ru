@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: a02e538a1d61fb0adf081542f10dea29f2a636e36b9ce936d7d282e30823339d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f9a44d08c05b4ece24cf3c8c8d3be42e210aec32
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119065864"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173692"
 ---
 # <a name="patchsourcelistforceresolution-method"></a>Метод PATCH. Саурцелистфорцересолутион
 
@@ -57,7 +57,7 @@ Patch.SourceListForceResolution()
 
 <dl> <dt>
 
-[**Обновление**](patch-object.md)
+[**Защиты**](patch-object.md)
 </dt> <dt>
 
 [**мсисаурцелистфорцересолутион**](/windows/desktop/api/Msi/nf-msi-msisourcelistforceresolutiona)

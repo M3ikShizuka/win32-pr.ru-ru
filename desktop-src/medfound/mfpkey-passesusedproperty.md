@@ -4,12 +4,12 @@ ms.assetid: 71a21976-ed92-4cd6-946c-fa6268895531
 title: Свойство MFPKEY_PASSESUSED (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 94ab020c4b683dc87ced3ffda8665b6b0e62b65cf81001c23c00b39f64ba146b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a6cb09949049db1910a419becec3423b0bb7c365
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117873055"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268843"
 ---
 # <a name="mfpkey_passesused-property"></a>МФПКЭЙ \_ пассесусед, свойство
 
@@ -31,7 +31,7 @@ VT \_ I4
 
 Это значение не может превышать значение [мфпкэй \_ пассесрекоммендед](mfpkey-passesrecommendedproperty.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ VT \_ I4
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

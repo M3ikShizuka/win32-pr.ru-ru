@@ -7,12 +7,12 @@ keywords:
 - интерфейсы ADSI интерфейсов кэша свойств
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b43c84b739d3af1188a85222146d08a03c27f3a6dbe98a17f5c83f82e240366b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 439c528136a3b8dcec8d717088ad704bd0a2afa6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119509884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174596"
 ---
 # <a name="property-cache-interfaces"></a>Интерфейсы кэша свойств
 

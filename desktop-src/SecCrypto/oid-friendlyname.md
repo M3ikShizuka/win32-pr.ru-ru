@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Capicom.dll
 ms.openlocfilehash: 1976980d1a22f4246f0ace686941cc4bcec87c92
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105669166"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173168"
 ---
 # <a name="oidfriendlyname-property"></a>Кода. FriendlyName, свойство
 
@@ -39,7 +39,7 @@ OID.FriendlyName As String
 
 Отображаемое имя [**OID**](oid.md).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если задано свойство **FriendlyName** , свойству [**value**](oid-value.md) присваивается соответствующее значение с точками. Если задано свойство **value** , для свойства **FriendlyName** задается соответствующее отображаемое имя.
 

@@ -4,12 +4,12 @@ ms.assetid: 7277C5E0-BB91-4EEA-9529-64E66D179CDC
 title: Свойство MFPKEY_PMP_Creation_Callback (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 655d61865eaecd89fa84664fc5c25f89762180ac9007e21cc7cbc98f7a68b056
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a2b18e04a15e035a9e4dc04a4039ce230342031a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119953864"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268832"
 ---
 # <a name="mfpkey_pmp_creation_callback-property"></a>\_ \_ \_ Свойство обратного вызова создания PMP мфпкэй
 
@@ -52,7 +52,7 @@ VT \_ Unknown
     -   *пкаллбакк*: указатель [**имфасинккаллбакк**](/windows/desktop/api/mfobjects/nn-mfobjects-imfasynccallback) , полученный на шаге 3.
     -   *пстате*: указатель [**имфпмфост**](/windows/desktop/api/mfidl/nn-mfidl-imfpmphost) , полученный на шаге 2.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -64,7 +64,7 @@ VT \_ Unknown
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

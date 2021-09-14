@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: bf5a65203f8988693434c537c30cdf0845652c2512b5eb8ad6ec50837b3c7feb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7e147e0900d6fc653afe31972813ace69948e226
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118155824"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266499"
 ---
 # <a name="cvideotransformfilterm_itravgdecode-member"></a>Элемент Квидеотрансформфилтер:: m \_ итравгдекоде
 
@@ -47,7 +47,7 @@ int m_itrAvgDecode;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -13,12 +13,12 @@ api_type:
 api_location:
 - Wfext.h
 ms.assetid: e2d5f825-5678-4dd7-adad-eec1cbcc7e49
-ms.openlocfilehash: 7512595008ad79d33bf1ac9b381b63831977282b83a8ce595c3d2689087c869c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e5f6470ea1217485b401387150cae786b44ccca1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118459114"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267920"
 ---
 # <a name="fm_getfocus-message"></a>Сообщение FM- \_ фокуса
 

@@ -5,11 +5,11 @@ title: Свойство MFPKEY_HTTP_ByteStream_Urlmon_Bind_Flags (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 32863929b92f16a809468055db81361f8116196e
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105694653"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269000"
 ---
 # <a name="mfpkey_http_bytestream_urlmon_bind_flags-property"></a>\_ \_ \_ \_ Свойство флагов привязки мфпкэй HTTP ByteStream Urlmon \_
 
@@ -31,7 +31,7 @@ VT \_ UI4
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это свойство используется для настройки потока байтов HTTP Media Foundation. Чтобы задать свойство, передайте указатель [**ипропертисторе**](/windows/win32/api/propsys/nn-propsys-ipropertystore) в сопоставитель источника. Дополнительные сведения см. [в разделе Настройка источника мультимедиа](configuring-a-media-source.md).
 
@@ -43,7 +43,7 @@ VT \_ UI4
 
 | Требование | Значение |
 |-------------------|------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Мфидл. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 

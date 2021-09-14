@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Spoolss.dll
-ms.openlocfilehash: 679d0bfe4b87f934f223ad83f1fd1ee341b5ce891736727a4faa537d782d3687
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2da6a2ae73aa5b987ea3b8f8789f81ed0b4cdf06
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118971533"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268363"
 ---
 # <a name="findfirstprinterchangenotification-function"></a>Функция Финдфирстпринтерчанженотификатион
 
@@ -142,7 +142,7 @@ HANDLE FindFirstPrinterChangeNotification(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -156,7 +156,7 @@ HANDLE FindFirstPrinterChangeNotification(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

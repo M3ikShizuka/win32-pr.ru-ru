@@ -43,12 +43,12 @@ api_type:
 ms.topic: reference
 ms.custom: snippet-project
 ms.date: 07/27/2020
-ms.openlocfilehash: 60419d947036516e093d481f3fc0d8caa097671c13bd4fe3fc8e95d21cc3cb83
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2b0054920f3cb2ae323a9655b1b028da473e119f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117832484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173987"
 ---
 # <a name="button-styles"></a>Стили кнопок
 

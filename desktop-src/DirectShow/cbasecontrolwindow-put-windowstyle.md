@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 416f222b3b4a3f3d10c12baf482d1c94687ba23596fcfbc92e59e1b7dab731e2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3f98e6205a45530a0dbcce09d095dfaa2267ccbb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120056732"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173848"
 ---
 # <a name="cbasecontrolwindowput_windowstyle-method"></a>Кбасеконтролвиндов. размещение \_ метода WindowStyle
 
@@ -57,7 +57,7 @@ HRESULT put_WindowStyle(
 
 Следите за изменениями стилей окна. В большинстве случаев приложение должно получить текущий стиль, а затем добавить или удалить недопустимые биты. эта процедура позволяет не менять различные внутренние стили окна, используемые Windows.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -68,7 +68,7 @@ HRESULT put_WindowStyle(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 0b0afb4e-f7aa-4ca6-9174-21983b2a422b
 title: Значения режима преобразования IME
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 09aa2f400dbf75346b537df2a0c724ea0a241a6c3b32ef23b2f27a2ce5d075e2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0c52bc2f8f6f9fc87df48a15c66ce24b33e51742
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117810384"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127274579"
 ---
 # <a name="ime-conversion-mode-values"></a>Значения режима преобразования IME
 

@@ -4,12 +4,12 @@ ms.assetid: c8c36abf-6905-4874-a6d2-90dd0725421b
 title: Атрибут MF_MT_MPEG4_CURRENT_SAMPLE_ENTRY (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 660f74c1f9335556b514607cc2100f7ef59a00fba84f6cfe90412b91e1ff500a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 02c1f2a43eef1a520a49f5cfbb889f13149fa249
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117877038"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269139"
 ---
 # <a name="mf_mt_mpeg4_current_sample_entry-attribute"></a>\_ \_ \_ Текущий \_ пример \_ атрибута записи MF MT MPEG4
 

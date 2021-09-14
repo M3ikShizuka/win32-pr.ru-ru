@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 190076822a181d7b0731cb1e7b42eb0cd9d35e37c64aa0736245d1e58994763b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 215bfa736a0f9d67ae587ac1f0e1b4aa394b85d9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119759724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174092"
 ---
 # <a name="setgateways-method-of-the-win32_networkadapterconfiguration-class"></a>Метод Сетгатевайс \_ класса Win32 NetworkAdapterConfiguration
 
@@ -352,7 +352,7 @@ uint32 SetGateways(
 
 [Статический IP-адрес, а затем присоединение к](https://Gallery.TechNet.Microsoft.Com/Static-IP-and-then-join-to-130d4b8a) образцу PowerShell для домена помогает в перестроении компьютеров.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -366,7 +366,7 @@ uint32 SetGateways(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

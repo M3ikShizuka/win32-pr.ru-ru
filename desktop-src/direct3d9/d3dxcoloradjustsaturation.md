@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 71ed9b6ebdefe41b466bb790cc4d0226991ce2866aee9fed765c19c87f6085b9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 878cdd83a04f594da3133eda314486af96ac3d56
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119495844"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170480"
 ---
 # <a name="d3dxcoloradjustsaturation-function-d3dx9mathh"></a>Функция D3DXColorAdjustSaturation (D3dx9math. h)
 
@@ -105,7 +105,7 @@ r = g = b = 0.2125*r + 0.7154*g + 0.0721*b
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -116,7 +116,7 @@ r = g = b = 0.2125*r + 0.7154*g + 0.0721*b
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

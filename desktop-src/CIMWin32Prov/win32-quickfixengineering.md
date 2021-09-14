@@ -25,12 +25,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 15110b5801555947eed434b8148aec3cc753f6eec359f32b96cd67a5b2649f31
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0e9db31dd452161a31575b6f7184a34c35dea71e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118675016"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174343"
 ---
 # <a name="win32_quickfixengineering-class"></a>\_Класс Win32 куиккфиксенгиниринг
 
@@ -58,7 +58,7 @@ class Win32_QuickFixEngineering : CIM_LogicalElement
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ куиккфиксенгиниринг** имеет следующие типы членов:
 
@@ -209,7 +209,7 @@ class Win32_QuickFixEngineering : CIM_LogicalElement
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -387,7 +387,7 @@ Next
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -401,7 +401,7 @@ Next
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

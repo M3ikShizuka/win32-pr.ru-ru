@@ -3,19 +3,19 @@ title: Low-Delay звук
 description: Low-Delay звук
 ms.assetid: f93819eb-f38a-45a0-aa1b-4e677e33daf8
 keywords:
-- Windows Media Format SDK, аудио с низкой задержкой
-- Windows Media Format SDK, поддержка аудио
+- Windows Пакет SDK для формата носителя с низкой задержкой
+- Windows Пакет SDK для формата мультимедиа, поддержка аудио
 - кодеки, низкие задержки
 - кодеки, поддержка аудио
 - низкое задержку звука
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: be8cedd3a6bb54942f5a517c7133e993cf5b11cb
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "105691370"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267048"
 ---
 # <a name="low-delay-audio"></a>Low-Delay звук
 
@@ -23,18 +23,18 @@ ms.locfileid: "105691370"
 
 При использовании аудио формата с низкой задержкой задержка для переключения содержимого значительно уменьшилась по сравнению с другими звуковыми форматами. Задержка также сокращается для вещания в реальном времени при использовании форматов с низкой задержкой.
 
-Эта функция поддерживается кодеками Windows Media Audio 9,1 и Windows Media Audio 9,1 Professional. Форматы с низкой задержкой доступны только для кодирования с постоянной скоростью потока (один и два прохода).
+эта функция поддерживается кодеками Windows media audio 9,1 и Windows media audio 9,1 Professional. Форматы с низкой задержкой доступны только для кодирования с постоянной скоростью потока (один и два прохода).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [**Функции кодеков**](codec-features.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

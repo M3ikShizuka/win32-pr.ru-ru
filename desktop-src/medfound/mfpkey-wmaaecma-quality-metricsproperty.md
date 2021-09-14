@@ -4,12 +4,12 @@ ms.assetid: de2e86ae-0469-471f-9105-0bb38a59b428
 title: Свойство MFPKEY_WMAAECMA_QUALITY_METRICS (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2186876279ee45e34444866c206a7729c0674c8dff1bc57c255ca205e911edae
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a3740630bc23c4e3e0e824e55b4e34bcd8b1347f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117689269"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268803"
 ---
 # <a name="mfpkey_wmaaecma_quality_metrics-property"></a>\_ \_ Свойство МЕТРИК качества мфпкэй вмааекма \_
 

@@ -3,7 +3,7 @@ title: Код уведомления ACN_STOP (Коммктрл. h)
 description: Уведомляет родительское окно элемента управления анимации о том, что связанный ролик AVI прекратил воспроизведение. Этот код уведомления отправляется в виде \_ командного сообщения WM.
 ms.assetid: 2f21a2ec-975f-4592-8b21-956bd5311ef4
 keywords:
-- ACN_STOP кода уведомления элементы управления Windows
+- ACN_STOP кода уведомления Windows элементы управления
 topic_type:
 - apiref
 api_name:
@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 96ba1fe51f4ceaae6e145de43a0e1104903c90b2d573c43d7aa7904f1d8f7ae1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7cbdb27677439b7f08b489cba9024d44f3ebee6d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119922094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174296"
 ---
 # <a name="acn_stop-notification-code"></a>АКН \_ код уведомления о прерывании
 
@@ -53,14 +53,14 @@ ACN_STOP
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
 | Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 

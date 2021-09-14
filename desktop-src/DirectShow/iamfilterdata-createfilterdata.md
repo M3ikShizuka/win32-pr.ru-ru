@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Quartz.dll
-ms.openlocfilehash: 81c2ba3a56ba9c09a2ce7b23bcad1a83880e61256402c291b5aebde9988218c1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0a0126266fc33dca030abad65ccf9f0d35f6e195
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119428674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266416"
 ---
 # <a name="iamfilterdatacreatefilterdata-method"></a>Метод Иамфилтердата:: Креатефилтердата
 

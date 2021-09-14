@@ -42,12 +42,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 62a8f09d6b96e12d75b30c80e5553d3138bcb342f7ca06b53920d897aaa51c57
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 10f56034161a9313eed1b7d302ab790d153c0ee6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119971854"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174383"
 ---
 # <a name="win32_printjob-class"></a>\_Класс Win32 PrintJob
 
@@ -91,7 +91,7 @@ class Win32_PrintJob : CIM_Job
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ PrintJob** имеет следующие типы членов:
 
@@ -107,13 +107,13 @@ class Win32_PrintJob : CIM_Job
 | Метод                                                  | Описание                       |
 |:--------------------------------------------------------|:----------------------------------|
 | [**Пауза**](pause-method-in-class-win32-printjob.md)   | Приостанавливает задание печати.<br/>    |
-| [**Возобновить**](resume-method-in-class-win32-printjob.md) | Возобновляет задание печати.<br/> |
+| [**Выход**](resume-method-in-class-win32-printjob.md) | Возобновляет задание печати.<br/> |
 
 
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ PrintJob** имеет следующие свойства.
 
@@ -295,7 +295,7 @@ class Win32_PrintJob : CIM_Job
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -636,7 +636,7 @@ Error
 32 (0x20)
 </dt> <dd>
 
-Автономная миграция
+Вне сети
 
 </dd> <dt>
 
@@ -657,7 +657,7 @@ Error
 256 (0x100)
 </dt> <dd>
 
-Удаленная
+Deleted
 
 </dd> <dt>
 
@@ -678,7 +678,7 @@ Error
 2048 (0x800)
 </dt> <dd>
 
-Перезапуск
+Перезагрузить
 
 </dd> </dl>
 
@@ -786,7 +786,7 @@ else
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -800,7 +800,7 @@ else
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

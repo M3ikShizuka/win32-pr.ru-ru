@@ -4,12 +4,12 @@ description: Фирменная символика — это эмоционал
 ms.assetid: 49c10879-2f3a-4dff-b628-8d70e389fae6
 ms.topic: article
 ms.date: 10/20/2020
-ms.openlocfilehash: 91d1446d3d3f499f0b56f857b4e2806e266e32df1bb4120d93416eb1cb225581
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ea9954c7ce0c082cf6b1b692cdccf5a7d6a3a132
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119090582"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267435"
 ---
 # <a name="software-branding"></a>Фирменная символика программного обеспечения
 

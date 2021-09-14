@@ -4,16 +4,16 @@ description: Уведомления в виде списка
 ms.assetid: 6c5239ac-0599-4db8-9f44-c10fa0855b57
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 328db2ded5d58d994692733c65269847c7ba69456aebd158073dc81f47fb7ce6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: aa864a75c09cceda523d753fb6ad195bab024e6e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119971424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174216"
 ---
 # <a name="list-view-notifications"></a>Уведомления в виде списка
 
-## <a name="in-this-section"></a>В этом разделе
+## <a name="in-this-section"></a>в этом разделе
 
 -   [ЛВН \_ бегиндраг](lvn-begindrag.md)
 -   [ЛВН \_ бегинлабеледит](lvn-beginlabeledit.md)

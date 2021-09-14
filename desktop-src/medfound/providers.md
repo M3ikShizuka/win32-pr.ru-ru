@@ -1,17 +1,17 @@
 ---
 description: Содержит список поставщиков трассировки для Мфтраце.
 ms.assetid: ee483f0a-5a90-4150-ada4-0b63ae312523
-title: Providers, элемент
+title: Элемент providers
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: dadf2d0fe65d0b072787132d5263bb894a6d273a9299cfc77e96fcff01d89170
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d38a86bf3ca8ffa1ea9e3da20e0244e7abec8513
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119034932"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268763"
 ---
-# <a name="providers-element"></a>Providers, элемент
+# <a name="providers-element"></a>Элемент providers
 
 Содержит список поставщиков трассировки для [мфтраце](mftrace.md).
 

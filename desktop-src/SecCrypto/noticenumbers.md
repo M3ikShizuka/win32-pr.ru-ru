@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Capicom.dll
 ms.openlocfilehash: b2bd6e653eabe9b25588fd29517ac94e0c878fdb
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108090762"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173175"
 ---
 # <a name="noticenumbers-object"></a>Объект Нотиценумберс
 
@@ -46,10 +46,10 @@ ms.locfileid: "108090762"
 
 
 
-| Свойство                                              | Тип доступа          | Описание                                                                                                                                                                                                                     |
+| Свойство.                                              | Тип доступа          | Описание                                                                                                                                                                                                                     |
 |:------------------------------------------------------|:---------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**\_NewEnum**](noticenumbers-newenum.md)<br/> | Только для чтения<br/> | Извлекает интерфейс [**IEnumVARIANT**](/windows/win32/api/oaidl/nn-oaidl-ienumvariant) для объекта, который может быть использован для перечисления коллекции. Это свойство скрыто в Visual Basic Scripting Edition (VBScript).<br/> |
-| [**Расчета**](noticenumbers-count.md)<br/>       | Только для чтения<br/> | Возвращает число объектов [**расширения**](extension.md) в коллекции.<br/>                                                                                                                                    |
+| [**\_NewEnum**](noticenumbers-newenum.md)<br/> | Только для чтения<br/> | Извлекает интерфейс [**IEnumVARIANT**](/windows/win32/api/oaidl/nn-oaidl-ienumvariant) для объекта, который может быть использован для перечисления коллекции. это свойство скрыто в Visual Basic scripting Edition (VBScript).<br/> |
+| [**Count**](noticenumbers-count.md)<br/>       | Только для чтения<br/> | Возвращает число объектов [**расширения**](extension.md) в коллекции.<br/>                                                                                                                                    |
 | [**Элемент**](noticenumbers-item.md)<br/>         | Только для чтения<br/> | Извлекает объект [**расширения**](extension.md) , который представляет номер индексированного уведомления коллекции.<br/> Это свойство по умолчанию.<br/>                                                            |
 
 

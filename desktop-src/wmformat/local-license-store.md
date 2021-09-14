@@ -13,12 +13,12 @@ keywords:
 - лицензии, DRM
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5a75d98751a25d9552255d02b31644213bcb7b1bb60a8936d8d03e51b239e17f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 56d28703a0387d8676c4c8d5bf08f9e27a3ecf5f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118700661"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267064"
 ---
 # <a name="local-license-store"></a>Локальное хранилище лицензий
 

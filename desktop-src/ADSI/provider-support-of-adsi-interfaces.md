@@ -28,12 +28,12 @@ keywords:
 - Поддержка поставщика для Иадспринткуеуеоператионс
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2c393cb8476830617a300f33eac741bd27b3cacbd686442dd4def5bf6c35526e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cf12803929d96a61aac6603be2c528084c91693c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118178833"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174587"
 ---
 # <a name="provider-support-of-adsi-interfaces"></a>Поддержка интерфейсов ADSI поставщиком
 
@@ -115,19 +115,19 @@ ms.locfileid: "118178833"
 
 
 
-| Свойство                                                    | LDAP          | NT         |
+| Свойство.                                                    | LDAP          | NT         |
 |-------------------------------------------------------------|---------------|---------------|
 | [**аккаунтдисаблед**](iadsuser-property-methods.md)        | Поддерживается     | Поддерживается     |
 | [**аккаунтекспиратиондате**](iadsuser-property-methods.md)  | Поддерживается     | Поддерживается     |
 | [**бадлогинаддресс**](iadsuser-property-methods.md)        | Не поддерживается   | Не поддерживается |
 | [**бадлогинкаунт**](iadsuser-property-methods.md)          | Поддерживается     | Поддерживается     |
-| [**Название**](iadsuser-property-methods.md)             | Поддерживается     | Не поддерживается   |
+| [**отдел;**](iadsuser-property-methods.md)             | Поддерживается     | Не поддерживается   |
 | [**Описание**](iadsuser-property-methods.md)            | Поддерживается     | Поддерживается     |
 | [**Отдел**](iadsuser-property-methods.md)               | Поддерживается     | Не поддерживается   |
 | [**EmailAddress**](iadsuser-property-methods.md)           | Поддерживается     | Не поддерживается   |
-| [**EmployeeID**](iadsuser-property-methods.md)             | Поддерживается     | Не поддерживается   |
+| [**КодСотрудника**](iadsuser-property-methods.md)             | Поддерживается     | Не поддерживается   |
 | [**факснумбер**](iadsuser-property-methods.md)              | Поддерживается     | Не поддерживается   |
-| [**FirstName**](iadsuser-property-methods.md)              | Поддерживается     | Не поддерживается   |
+| [**Фамилия**](iadsuser-property-methods.md)              | Поддерживается     | Не поддерживается   |
 | [**FullName**](iadsuser-property-methods.md)               | Поддерживается     | Поддерживается     |
 | [**грацелогинсалловед**](iadsuser-property-methods.md)     | Не поддерживается | Не поддерживается   |
 | [**грацелогинсремаининг**](iadsuser-property-methods.md)   | Не поддерживается | Не поддерживается   |
@@ -142,7 +142,7 @@ ms.locfileid: "118178833"
 | [**логинхаурс**](iadsuser-property-methods.md)             | Поддерживается     | Поддерживается     |
 | [**логинскрипт**](iadsuser-property-methods.md)            | Поддерживается     | Поддерживается     |
 | [**логинворкстатионс**](iadsuser-property-methods.md)      | Поддерживается     | Поддерживается     |
-| [**Manager**](iadsuser-property-methods.md)                | Поддерживается     | Не поддерживается   |
+| [**Configuration**](iadsuser-property-methods.md)                | Поддерживается     | Не поддерживается   |
 | [**макслогинс**](iadsuser-property-methods.md)              | Не поддерживается   | Не поддерживается   |
 | [**максстораже**](iadsuser-property-methods.md)             | Поддерживается     | Поддерживается     |
 | [**NamePrefix**](iadsuser-property-methods.md)             | Поддерживается     | Не поддерживается   |
@@ -156,14 +156,14 @@ ms.locfileid: "118178833"
 | [**Снимки**](iadsuser-property-methods.md)                | Поддерживается     | Не поддерживается   |
 | [**посталаддрессес**](iadsuser-property-methods.md)        | Поддерживается     | Не поддерживается   |
 | [**посталкодес**](iadsuser-property-methods.md)            | Поддерживается     | Не поддерживается   |
-| [**Профиля**](iadsuser-property-methods.md)                | Поддерживается     | Поддерживается     |
+| [**Профиль**](iadsuser-property-methods.md)                | Поддерживается     | Поддерживается     |
 | [**рекуиреуникуепассворд**](iadsuser-property-methods.md)  | Не поддерживается   | Не поддерживается   |
 | [**SeeAlso**](iadsuser-property-methods.md)                | Поддерживается     | Не поддерживается   |
 | [**телефонехоме**](iadsuser-property-methods.md)          | Поддерживается     | Не поддерживается   |
 | [**телефонемобиле**](iadsuser-property-methods.md)        | Поддерживается     | Не поддерживается   |
 | [**TelephoneNumber**](iadsuser-property-methods.md)        | Поддерживается     | Не поддерживается   |
 | [**телефонепажер**](iadsuser-property-methods.md)         | Поддерживается     | Не поддерживается   |
-| [**Заголовок**](iadsuser-property-methods.md)                  | Поддерживается     | Не поддерживается   |
+| [**Титуль**](iadsuser-property-methods.md)                  | Поддерживается     | Не поддерживается   |
 
 
 
@@ -173,10 +173,10 @@ ms.locfileid: "118178833"
 
 
 
-| Свойства                                     | LDAP                    | NT       |
+| Элемент Property                                     | LDAP                    | NT       |
 |------------------------------------------------|-------------------------|-------------|
 | [**компутерид**](/windows/desktop/api/Iads/nn-iads-iadscomputer)             | Интерфейс не поддерживается | Не поддерживается |
-| [**Название**](/windows/desktop/api/Iads/nn-iads-iadscomputer)             | Интерфейс не поддерживается | Не поддерживается |
+| [**отдел;**](/windows/desktop/api/Iads/nn-iads-iadscomputer)             | Интерфейс не поддерживается | Не поддерживается |
 | [**Описание**](/windows/desktop/api/Iads/nn-iads-iadscomputer)            | Интерфейс не поддерживается | Не поддерживается |
 | [**Отдел**](/windows/desktop/api/Iads/nn-iads-iadscomputer)               | Интерфейс не поддерживается | Поддерживается   |
 | [**Расположение**](/windows/desktop/api/Iads/nn-iads-iadscomputer)               | Интерфейс не поддерживается | Не поддерживается |
@@ -190,7 +190,7 @@ ms.locfileid: "118178833"
 | [**Процессор**](/windows/desktop/api/Iads/nn-iads-iadscomputer)              | Интерфейс не поддерживается | Поддерживается   |
 | [**ProcessorCount**](/windows/desktop/api/Iads/nn-iads-iadscomputer)         | Интерфейс не поддерживается | Поддерживается   |
 | [**Role**](/windows/desktop/api/Iads/nn-iads-iadscomputer)                   | Интерфейс не поддерживается | Не поддерживается |
-| [**Места**](/windows/desktop/api/Iads/nn-iads-iadscomputer)                   | Интерфейс не поддерживается | Не поддерживается |
+| [**Сайт**](/windows/desktop/api/Iads/nn-iads-iadscomputer)                   | Интерфейс не поддерживается | Не поддерживается |
 | [**сторажекапаЦити**](/windows/desktop/api/Iads/nn-iads-iadscomputer)        | Интерфейс не поддерживается | Не поддерживается |
 
 
@@ -201,7 +201,7 @@ ms.locfileid: "118178833"
 
 
 
-| Свойство                                   | LDAP                    | NT           |
+| Свойство.                                   | LDAP                    | NT           |
 |--------------------------------------------|-------------------------|-----------------|
 | [**Закрытия**](/windows/desktop/api/Iads/nn-iads-iadscomputeroperations) | Интерфейс не поддерживается | Не реализовано |
 | [**Состояние**](/windows/desktop/api/Iads/nn-iads-iadscomputeroperations)   | Интерфейс не поддерживается | Не реализовано |
@@ -214,7 +214,7 @@ ms.locfileid: "118178833"
 
 
 
-| Свойство                                         | LDAP                    | NT           |
+| Свойство.                                         | LDAP                    | NT           |
 |--------------------------------------------------|-------------------------|-----------------|
 | [**Рабочая группа**](/windows/desktop/api/Iads/nn-iads-iadsdomain)                | Интерфейс не поддерживается | Не реализовано |
 | [**минпассвордленгс**](/windows/desktop/api/Iads/nn-iads-iadsdomain)          | Интерфейс не поддерживается | Поддерживается       |
@@ -234,7 +234,7 @@ ms.locfileid: "118178833"
 
 
 
-| Свойство                                | LDAP                    | NT     |
+| Свойство.                                | LDAP                    | NT     |
 |-----------------------------------------|-------------------------|-----------|
 | [**Описание**](/windows/desktop/api/Iads/nn-iads-iadsfileservice)  | Интерфейс не поддерживается | Поддерживается |
 | [**максусеркаунт**](/windows/desktop/api/Iads/nn-iads-iadsfileservice) | Интерфейс не поддерживается | Поддерживается |
@@ -247,7 +247,7 @@ ms.locfileid: "118178833"
 
 
 
-| Свойство                         | LDAP      | NT     |
+| Свойство.                         | LDAP      | NT     |
 |----------------------------------|-----------|-----------|
 | [**Описание**](/windows/desktop/api/Iads/nn-iads-iadsgroup) | Поддерживается | Поддерживается |
 
@@ -259,12 +259,12 @@ ms.locfileid: "118178833"
 
 
 
-| Свойство                                   | LDAP               | NT           |
+| Свойство.                                   | LDAP               | NT           |
 |--------------------------------------------|--------------------|-----------------|
 | [**примаринтерфаце**](/windows/desktop/api/Iads/nn-iads-iadsclass)      | Поддерживается          | Поддерживается       |
 | [**ЭТОМУ**](/windows/desktop/api/Iads/nn-iads-iadsclass)                 | Поддерживается          | Поддерживается       |
 | [**КОДА**](/windows/desktop/api/Iads/nn-iads-iadsclass)                   | Поддерживается          | Поддерживается       |
-| [**Выделяет**](/windows/desktop/api/Iads/nn-iads-iadsclass)              | Поддерживается          | Поддерживается       |
+| [**Аннотация**](/windows/desktop/api/Iads/nn-iads-iadsclass)              | Поддерживается          | Поддерживается       |
 | [**Четки**](/windows/desktop/api/Iads/nn-iads-iadsclass)             | Поддерживается          | Поддерживается       |
 | [**мандаторипропертиес**](/windows/desktop/api/Iads/nn-iads-iadsclass)   | Поддерживается          | Поддерживается       |
 | [**OptionalProperties**](/windows/desktop/api/Iads/nn-iads-iadsclass)    | Поддерживается          | Поддерживается       |
@@ -273,7 +273,7 @@ ms.locfileid: "118178833"
 | [**ауксдериведфром**](/windows/desktop/api/Iads/nn-iads-iadsclass)        | Поддерживается          | Не поддерживается     |
 | [**поссиблесупериорс**](/windows/desktop/api/Iads/nn-iads-iadsclass)     | Поддерживается          | Поддерживается       |
 | [**Containment**](/windows/desktop/api/Iads/nn-iads-iadsclass)           | Поддерживается для чтения | Поддерживается       |
-| [**Контейнера**](/windows/desktop/api/Iads/nn-iads-iadsclass)             | Поддерживается для чтения | Поддерживается       |
+| [**Контейнер**](/windows/desktop/api/Iads/nn-iads-iadsclass)             | Поддерживается для чтения | Поддерживается       |
 | [**хелпфиленаме**](/windows/desktop/api/Iads/nn-iads-iadsclass)          | Поддерживается          | Поддерживается       |
 | [**хелпфилеконтекст**](/windows/desktop/api/Iads/nn-iads-iadsclass)       | Поддерживается          | Поддерживается       |
 | Метод                                     | LDAP               | NT           |
@@ -287,10 +287,10 @@ ms.locfileid: "118178833"
 
 
 
-| Свойство                            | LDAP      | NT     |
+| Свойство.                            | LDAP      | NT     |
 |-------------------------------------|-----------|-----------|
 | [**КОДА**](/windows/desktop/api/Iads/nn-iads-iadsproperty)         | Поддерживается | Поддерживается |
-| [**Синтаксис**](/windows/desktop/api/Iads/nn-iads-iadsproperty)      | Поддерживается | Поддерживается |
+| [**Syntax**](/windows/desktop/api/Iads/nn-iads-iadsproperty)      | Поддерживается | Поддерживается |
 | [**максранже**](/windows/desktop/api/Iads/nn-iads-iadsproperty)    | Поддерживается | Поддерживается |
 | [**минранже**](/windows/desktop/api/Iads/nn-iads-iadsproperty)    | Поддерживается | Поддерживается |
 | [**Многозначных**](/windows/desktop/api/Iads/nn-iads-iadsproperty) | Поддерживается | Поддерживается |
@@ -303,7 +303,7 @@ ms.locfileid: "118178833"
 
 
 
-| Свойство                              | LDAP      | NT     |
+| Свойство.                              | LDAP      | NT     |
 |---------------------------------------|-----------|-----------|
 | [**олеаутодататипе**](/windows/desktop/api/Iads/nn-iads-iadssyntax) | Поддерживается | Поддерживается |
 
@@ -315,11 +315,11 @@ ms.locfileid: "118178833"
 
 
 
-| Свойство                        | LDAP            | NT           |
+| Свойство.                        | LDAP            | NT           |
 |---------------------------------|-----------------|-----------------|
-| [**Расчета**](/windows/desktop/api/Iads/nn-iads-iadscontainer)  | Не реализовано | Не реализовано |
+| [**Count**](/windows/desktop/api/Iads/nn-iads-iadscontainer)  | Не реализовано | Не реализовано |
 | [**Указания**](/windows/desktop/api/Iads/nn-iads-iadscontainer)  | Поддерживается       | Не реализовано |
-| [**Фильтрация**](/windows/desktop/api/Iads/nn-iads-iadscontainer) | Поддерживается       | Поддерживается       |
+| [**Фильтр**](/windows/desktop/api/Iads/nn-iads-iadscontainer) | Поддерживается       | Поддерживается       |
 
 
 
@@ -329,7 +329,7 @@ ms.locfileid: "118178833"
 
 
 
-| Свойство                                   | LDAP      | NT     |
+| Свойство.                                   | LDAP      | NT     |
 |--------------------------------------------|-----------|-----------|
 | [**дефаултконтаинер**](/windows/desktop/api/Iads/nn-iads-iadsnamespaces) | Поддерживается | Поддерживается |
 
@@ -341,12 +341,12 @@ ms.locfileid: "118178833"
 
 
 
-| Свойство                                              | LDAP      | NT       |
+| Свойство.                                              | LDAP      | NT       |
 |-------------------------------------------------------|-----------|-------------|
 | [**AccessMask**](/windows/desktop/api/Iads/nn-iads-iadsaccesscontrolentry)          | Поддерживается | Не поддерживается |
 | [**акцесстипе**](/windows/desktop/api/Iads/nn-iads-iadsaccesscontrolentry)          | Поддерживается | Не поддерживается |
 | [**AccessFlags**](/windows/desktop/api/Iads/nn-iads-iadsaccesscontrolentry)         | Поддерживается | Не поддерживается |
-| [**Метки**](/windows/desktop/api/Iads/nn-iads-iadsaccesscontrolentry)               | Поддерживается | Не поддерживается |
+| [**Флаги**](/windows/desktop/api/Iads/nn-iads-iadsaccesscontrolentry)               | Поддерживается | Не поддерживается |
 | [**ObjectType**](/windows/desktop/api/Iads/nn-iads-iadsaccesscontrolentry)          | Поддерживается | Не поддерживается |
 | [**инхеритедобжекттипе**](/windows/desktop/api/Iads/nn-iads-iadsaccesscontrolentry) | Поддерживается | Не поддерживается |
 | [**Доверенное лицо**](/windows/desktop/api/Iads/nn-iads-iadsaccesscontrolentry)             | Поддерживается | Не поддерживается |
@@ -359,7 +359,7 @@ ms.locfileid: "118178833"
 
 
 
-| Свойство                                                       | LDAP      | NT       |
+| Свойство.                                                       | LDAP      | NT       |
 |----------------------------------------------------------------|-----------|-------------|
 | [**ацекаунт**](/windows/desktop/api/Iads/nn-iads-iadsaccesscontrollist)                      | Поддерживается | Не поддерживается |
 | [**ацеревисион**](/windows/desktop/api/Iads/nn-iads-iadsaccesscontrollist)                   | Поддерживается | Не поддерживается |
@@ -377,7 +377,7 @@ ms.locfileid: "118178833"
 
 
 
-| Свойство                                                                        | LDAP      | NT       |
+| Свойство.                                                                        | LDAP      | NT       |
 |---------------------------------------------------------------------------------|-----------|-------------|
 | [**Управление**](/windows/desktop/api/Iads/nn-iads-iadssecuritydescriptor)                                       | Поддерживается | Не поддерживается |
 | [**даклдефаултед**](/windows/desktop/api/Iads/nn-iads-iadssecuritydescriptor)                                 | Поддерживается | Не поддерживается |
@@ -417,7 +417,7 @@ ms.locfileid: "118178833"
 | [**Включить**](/windows/desktop/api/Iads/nf-iads-iadscollection-add)                     | Интерфейс не поддерживается | Не поддерживается |
 | [**получить \_ \_ NewEnum**](/windows/desktop/api/Iads/nf-iads-iadscollection-get__newenum) | Интерфейс не поддерживается | Поддерживается   |
 | [**GetObject**](/windows/desktop/api/Iads/nf-iads-iadscollection-getobject)         | Интерфейс не поддерживается | Поддерживается   |
-| [**Отменит**](/windows/desktop/api/Iads/nf-iads-iadscollection-remove)               | Интерфейс не поддерживается | Поддерживается   |
+| [**Удалить**](/windows/desktop/api/Iads/nf-iads-iadscollection-remove)               | Интерфейс не поддерживается | Поддерживается   |
 
 
 
@@ -427,10 +427,10 @@ ms.locfileid: "118178833"
 
 
 
-| Свойство                                           | LDAP                                                      | NT       |
+| Свойство.                                           | LDAP                                                      | NT       |
 |----------------------------------------------------|-----------------------------------------------------------|-------------|
-| [**Расчета**](/windows/desktop/api/Iads/nn-iads-iadsmembers)                       | Поддерживается для GroupCollection, но не для Усерколлектион | Не поддерживается |
-| [**Фильтрация**](/windows/desktop/api/Iads/nn-iads-iadsmembers)                      | Поддерживается                                                 | Поддерживается   |
+| [**Count**](/windows/desktop/api/Iads/nn-iads-iadsmembers)                       | Поддерживается для GroupCollection, но не для Усерколлектион | Не поддерживается |
+| [**Фильтр**](/windows/desktop/api/Iads/nn-iads-iadsmembers)                      | Поддерживается                                                 | Поддерживается   |
 | Метод                                             | LDAP                                                      | NT       |
 | [**получить \_ \_ NewEnum**](/windows/desktop/api/Iads/nf-iads-iadsmembers-get__newenum) | Поддерживается                                                 | Поддерживается   |
 
@@ -442,7 +442,7 @@ ms.locfileid: "118178833"
 
 
 
-| Свойство                                                    | LDAP      | NT       |
+| Свойство.                                                    | LDAP      | NT       |
 |-------------------------------------------------------------|-----------|-------------|
 | [**ескапедмоде**](/windows/desktop/api/Iads/nn-iads-iadspathname)                         | Поддерживается | Поддерживается   |
 | Метод                                                      | LDAP      | NT       |
@@ -463,7 +463,7 @@ ms.locfileid: "118178833"
 
 
 
-| Свойство                                     | LDAP        | NT       |
+| Свойство.                                     | LDAP        | NT       |
 |----------------------------------------------|-------------|-------------|
 | [**принтерпас**](/windows/desktop/api/Iads/nn-iads-iadsprintqueue)        | Поддерживается   | Не поддерживается |
 | [**Моделирование**](/windows/desktop/api/Iads/nn-iads-iadsprintqueue)              | Поддерживается   | Поддерживается.  |
@@ -487,14 +487,14 @@ ms.locfileid: "118178833"
 
 
 
-| Свойство                                                | LDAP      | NT      |
+| Свойство.                                                | LDAP      | NT      |
 |---------------------------------------------------------|-----------|------------|
 | [**Состояние**](/windows/desktop/api/Iads/nn-iads-iadsprintqueueoperations)              | Поддерживается | Поддерживается  |
 | Метод                                                  | LDAP      | NT      |
 | [**Пауза**](/windows/desktop/api/Iads/nf-iads-iadsprintqueueoperations-pause)         | Поддерживается | Поддерживается. |
 | [**PrintJobs**](/windows/desktop/api/Iads/nf-iads-iadsprintqueueoperations-printjobs) | Поддерживается | Поддерживается  |
 | [**Purge**](/windows/desktop/api/Iads/nf-iads-iadsprintqueueoperations-purge)         | Поддерживается | Поддерживается  |
-| [**Возобновить**](/windows/desktop/api/Iads/nf-iads-iadsprintqueueoperations-resume)       | Поддерживается | Поддерживается  |
+| [**Выход**](/windows/desktop/api/Iads/nf-iads-iadsprintqueueoperations-resume)       | Поддерживается | Поддерживается  |
 
 
 

@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Capicom.dll
 ms.openlocfilehash: 41c6417dae5006eb2ecaf64660fd0007cdf37fd2
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105649123"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170859"
 ---
 # <a name="storedelete-method"></a>Метод Store. Delete
 
@@ -43,14 +43,14 @@ Store.Delete()
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Следующие хранилища являются системными хранилищами и не могут быть удалены:
 
 -   My
 -   Root
 -   Доверие
--   Целостности и доступности
+-   CA
 -   усердс
 -   TrustedPublisher
 -   Запрещено
@@ -74,7 +74,7 @@ Store.Delete()
 
 <dl> <dt>
 
-[**Магазин**](store.md)
+[**Хранение**](store.md)
 </dt> <dt>
 
 [**Криптографические объекты**](cryptography-objects.md)

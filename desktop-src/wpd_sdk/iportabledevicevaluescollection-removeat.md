@@ -14,12 +14,12 @@ api_type:
 api_location:
 - PortableDeviceGUIDs.lib
 - PortableDeviceGUIDs.dll
-ms.openlocfilehash: 2796fd44016854d03322b8dfa0a11ce85d1afce16b9ae17cae02a6fc53804f97
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7db15480906bee8181bb0fc589c4f3e30ce4753c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118963553"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266872"
 ---
 # <a name="iportabledevicevaluescollectionremoveat-method"></a>Метод Ипортабледевицевалуесколлектион:: RemoveAt
 
@@ -66,7 +66,7 @@ HRESULT RemoveAt(
 
 Необходимо указать Отсчитываемый от нуля индекс.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -45,11 +45,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 1c19a8c24b5adc4e8655c5372bd9c374e8674e9e
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104144215"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269635"
 ---
 # <a name="makekeygrbit-enumeration"></a>Перечисление Макекэйгрбит
 
@@ -75,7 +75,7 @@ Dim instance As MakeKeyGrbit
 public enum MakeKeyGrbit
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <table>
 <thead>

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: e8cb276b37e64b6bb34751ed2d034666f7ceeddd90d8e52e47b2a1fca499ff9a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 12dd61dee7416ce8ca7ac07cba62cbc769df5973
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118658338"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173783"
 ---
 # <a name="cbasevideorendererprepareperformancedata-method"></a>Кбасевидеорендерер. Препареперформанцедата, метод
 
@@ -67,7 +67,7 @@ void PreparePerformanceData(
 
 Когда функция-член [**кбасевидеорендерер:: рекордфрамелатенесс**](cbasevideorenderer-recordframelateness.md) вызывается из [**Кбасевидеорендерер:: онрендерстарт**](cbasevideorenderer-onrenderstart.md) или [**кбасевидеорендерер:: OnDirectRender**](cbasevideorenderer-ondirectrender.md), она передает значения **m \_ trLate** и **m \_ trFrame** для обновления статистики. `PreparePerformanceData` вызывается из [**кбасевидеорендерер:: онваитенд**](cbasevideorenderer-onwaitend.md) для задания этих значений элементов данных.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,7 +78,7 @@ void PreparePerformanceData(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

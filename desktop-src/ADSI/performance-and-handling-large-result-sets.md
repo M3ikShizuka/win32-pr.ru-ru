@@ -8,12 +8,12 @@ keywords:
 - запросы к ADSI, производительность и обработка больших результирующих наборов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 70acd07b774aec442e86c27f95afbd9fafa06d23ba1615931616d0ad240170c8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 47dbda06152f87e671f0d5e6b388c1634fbd0ee1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117838914"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174611"
 ---
 # <a name="performance-and-handling-large-result-sets"></a>Производительность и обработка больших результирующих наборов
 

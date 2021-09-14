@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 38714c6c6a97c46a14d1e381fdf49ddbc723d04ee217a09c9554b39d4eb22491
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 94564d7e9db52f8be22717a10f73fffb7fb6fa14
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120055794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266595"
 ---
 # <a name="cfactorytemplateisclassid-method"></a>Кфакторитемплате. ClassID, метод
 
@@ -53,7 +53,7 @@ BOOL IsClassID(
 
 Возвращает **значение true** , если параметр *рклсид* является тем же идентификатором CLSID, что и переменная-член [**\_ кфакторитемплате:: m**](cfactorytemplate-m-clsid.md) , или Else возвращает **значение false**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -64,7 +64,7 @@ BOOL IsClassID(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

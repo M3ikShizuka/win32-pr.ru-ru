@@ -14,11 +14,11 @@ api_type:
 api_location:
 - IACom.dll
 ms.openlocfilehash: 6cb8db60b5818f5bc2bc38892912e9ec40af1eb9
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105673311"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267699"
 ---
 # <a name="ianalysisregiongetregionscans-method"></a>Метод Ианалисисрегион:: Жетрегионсканс
 
@@ -58,7 +58,7 @@ HRESULT GetRegionScans(
 
 Описание возвращаемых значений см. в разделе [классы и интерфейсы — анализ рукописного ввода](classes-and-interfaces---ink-analysis.md).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если *прегионсканс* передается как **null**, метод **жетрегионсканс** возвращает значение **S \_ ОК** , а число прямоугольников возвращается в *пулкаунт*.
 
@@ -99,9 +99,9 @@ region->GetRegionScans(&number, NULL);
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только классические приложения Windows XP Tablet PC Edition \[\]<br/>                                                 |
+| Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                                                 |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                                     |
-| Header<br/>                   | <dl> <dt>Иаком. h (также требуется Иаком \_ i. c)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Иаком. h (также требуется Иаком \_ i. c)</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>IACom.dll</dt> </dl>                          |
 
 

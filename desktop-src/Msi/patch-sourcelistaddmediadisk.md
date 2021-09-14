@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 3df81274581c64a37fbf505bbfd68d0907f5ca626e58bdfccbac61156fd29a9d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 052831befb95976358b53d989db36d5b2fa43efe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118942615"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173708"
 ---
 # <a name="patchsourcelistaddmediadisk-method"></a>Метод PATCH. Саурцелистаддмедиадиск
 
@@ -66,7 +66,7 @@ Patch.SourceListAddMediaDisk(
 
 Этот метод не возвращает значение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,11 +78,11 @@ Patch.SourceListAddMediaDisk(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
-[**Обновление**](patch-object.md)
+[**Защиты**](patch-object.md)
 </dt> <dt>
 
 [**мсисаурцелистаддмедиадиск**](/windows/desktop/api/Msi/nf-msi-msisourcelistaddmediadiska)

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 3be2b2174a4f6e76a211e0da43dab85e81c490495173f2d2323caa71a463de79
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cf9b202da786f6ec87ceca9816c2a4fc86776577
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118988714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170476"
 ---
 # <a name="d3dxcolormodulate-function"></a>Функция D3DXColorModulate
 
@@ -88,7 +88,7 @@ pOut->r = pC1->r * pC2->r;
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -99,7 +99,7 @@ pOut->r = pC1->r * pC2->r;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

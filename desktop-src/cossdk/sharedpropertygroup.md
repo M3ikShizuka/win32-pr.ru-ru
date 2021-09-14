@@ -12,11 +12,11 @@ api_name:
 api_type:
 - COM
 ms.openlocfilehash: a3fff14043d67b96db99334c7bec1afee2577f7a
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103807277"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347571"
 ---
 # <a name="sharedpropertygroup-class"></a>Класс Шаредпропертиграуп
 
@@ -42,11 +42,11 @@ ms.locfileid: "103807277"
 
 Используйте этот класс для доступа к методам [**ишаредпропертиграуп**](/windows/desktop/api/ComSvcs/nn-comsvcs-isharedpropertygroup).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Объект **шаредпропертиграуп** можно создать с помощью метода [**креатепропертиграуп**](/windows/desktop/api/ComSvcs/nf-comsvcs-isharedpropertygroupmanager-createpropertygroup) объекта [**ишаредпропертиграупманажер**](/windows/desktop/api/ComSvcs/nn-comsvcs-isharedpropertygroupmanager).
 
-Чтобы использовать этот класс из Visual Basic Майкрософт, добавьте ссылку на библиотеку типов служб COM+. Объект Шаредпропертиграуп создается путем вызова метода [**креатепропертиграуп**](/windows/desktop/api/ComSvcs/nf-comsvcs-isharedpropertygroupmanager-createpropertygroup) объекта [**шаредпропертиграупманажер**](sharedpropertygroupmanager.md) .
+чтобы использовать этот класс из Visual Basic майкрософт, добавьте ссылку на библиотеку типов служб COM+. Объект Шаредпропертиграуп создается путем вызова метода [**креатепропертиграуп**](/windows/desktop/api/ComSvcs/nf-comsvcs-isharedpropertygroupmanager-createpropertygroup) объекта [**шаредпропертиграупманажер**](sharedpropertygroupmanager.md) .
 
 ## <a name="requirements"></a>Требования
 

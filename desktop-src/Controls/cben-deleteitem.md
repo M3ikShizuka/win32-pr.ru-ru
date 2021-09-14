@@ -3,7 +3,7 @@ title: Код уведомления CBEN_DELETEITEM (Коммктрл. h)
 description: Отправляется при удалении элемента. Этот код уведомления отправляется в виде \_ сообщения WM notify.
 ms.assetid: 8b0d03ff-57fa-44dc-ab3e-05089b876e3c
 keywords:
-- CBEN_DELETEITEM кода уведомления элементы управления Windows
+- CBEN_DELETEITEM кода уведомления Windows элементы управления
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: e4c7ca7329898c9dd0c6bba76cba9d3524b017e3
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103892549"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173924"
 ---
 # <a name="cben_deleteitem-notification-code"></a>\_Код уведомления кбен DELETEITEM
 
@@ -55,9 +55,9 @@ CBEN_DELETEITEM
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Коммктрл. h</dt> </dl> |
 
 
 

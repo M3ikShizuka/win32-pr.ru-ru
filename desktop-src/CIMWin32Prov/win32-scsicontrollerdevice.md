@@ -21,12 +21,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 1f703d5a290245b1596801f78c005c565faa45296c3582e4feaad5dc4011787b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7a3189f9d9b75321df7c69214e68779864953f6c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117834175"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174327"
 ---
 # <a name="win32_scsicontrollerdevice-class"></a>\_Класс Win32 сксиконтроллердевице
 
@@ -50,7 +50,7 @@ class Win32_SCSIControllerDevice : CIM_ControlledBy
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ сксиконтроллердевице** имеет следующие типы членов:
 

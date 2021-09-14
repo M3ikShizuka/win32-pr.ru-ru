@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fdcfd965af6ac6201687ca8c7ecc7584085b7810a2c0ca11bbc70c1b04403c5e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b2f37992201d5d19397724071f8c2a4b8e851aac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117929868"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172716"
 ---
 # <a name="iwmpmedia3getiteminfobytype-method"></a>Метод IWMPMedia3:: Жетитеминфобитипе
 
@@ -108,7 +108,7 @@ Implements IWMPMedia3.getItemInfoByType
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

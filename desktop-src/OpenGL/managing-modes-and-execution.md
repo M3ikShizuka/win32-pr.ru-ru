@@ -6,12 +6,12 @@ keywords:
 - OpenGL, режимы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ec448fa94c8ed0983be68f8aa1dbbef0974d2e040c4f68b002b026b300406981
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 427e04b856c79c9adfdfebf4061f7e96f09db835
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119553984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127265707"
 ---
 # <a name="managing-modes-and-execution"></a>Управление режимами и выполнением
 

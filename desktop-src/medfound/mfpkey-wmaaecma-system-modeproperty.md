@@ -4,12 +4,12 @@ ms.assetid: 479b3525-5beb-4c6b-b1ad-8fa72c0d0fd0
 title: Свойство MFPKEY_WMAAECMA_SYSTEM_MODE (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 722b3e502b783f98ef4871cfc6dd184389dfce7f7f942bde1827468e96f5fa7b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cfca745b83c8a73a2eb4c17c8a2206f90255088c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118973273"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268800"
 ---
 # <a name="mfpkey_wmaaecma_system_mode-property"></a>МФПКЭЙ \_ вмааекма \_ , \_ свойство системного режима
 

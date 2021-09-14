@@ -13,11 +13,11 @@ api_type:
 - COM
 api_location: ''
 ms.openlocfilehash: 17f89638efe232f2cdf06e1206f74a0df44601b2
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105682362"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347470"
 ---
 # <a name="transientsubscriberproperties-collection"></a>Коллекция Трансиентсубскриберпропертиес
 
@@ -41,11 +41,11 @@ ms.locfileid: "105682362"
 
 -   [**трансиентсубскриптионс**](transientsubscriptions.md)
 
-## <a name="properties"></a>Свойства
+## <a name="properties"></a>Элемент Property
 
 Объект [**комадминкаталогобжект**](comadmincatalogobject.md) в коллекции поддерживает следующие свойства:
 
--   [Name](#name)
+-   [имя](#name);
 -   [Значение](#value)
 
 ### <a name="name"></a>Имя
@@ -73,7 +73,7 @@ ms.locfileid: "105682362"
 | Описание    | Значение для свойства. |
 | Access         | ReadWrite                 |
 | Тип           | Variant                   |
-| Значение по умолчанию        | Н/Д                       |
+| По умолчанию        | Недоступно                       |
 | Минимальная система | Windows 2000              |
 
 

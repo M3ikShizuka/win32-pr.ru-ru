@@ -4,12 +4,12 @@ ms.assetid: b1f6811e-c413-4124-9ccb-ea59b7a8a7ff
 title: Dynamic-Link данных библиотеки
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8902eb6388624d958c7176a14b8893f8e2245ddd9370f6ba2ac71605b2379cf6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 83280d3bfc449061c44f9e8bfd9b47833e7eca19
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120048444"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173736"
 ---
 # <a name="dynamic-link-library-data"></a>Dynamic-Link данных библиотеки
 

@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Advapi32.dll
-ms.openlocfilehash: 8e6b7c5b377ffa7b517ccd19d1dfbffa08d26191af3822f9d9b17cc02c33d055
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 35ec65e7899f45a5222ae12b08992e77ea67f306
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118922339"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173527"
 ---
 # <a name="logonuserexexw-function"></a>Функция Логонусерексексв
 
@@ -187,7 +187,7 @@ BOOL WINAPI LogonUserExExW(
 
 Если указан необязательный параметр *птокенграупс* , LSA не будет автоматически добавлять локальный SID или SID для входа.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -196,7 +196,7 @@ BOOL WINAPI LogonUserExExW(
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                                                  |
 | Версия<br/>                  | логонусерексексв также доступен в Windows Server 2003 или Windows кспвис выпуске общего распространения.<br/> |
-| Header<br/>                   | <dl> <dt>Винбасеп. h</dt> </dl>                                 |
+| Заголовок<br/>                   | <dl> <dt>Винбасеп. h</dt> </dl>                                 |
 | DLL<br/>                      | <dl> <dt>Advapi32.dll</dt> </dl>                               |
 
 

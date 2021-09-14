@@ -15,11 +15,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 45fcc3383e40fffa01b0c74971375d869c6eb038
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108089522"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174047"
 ---
 # <a name="setpowerstate-method-of-the-cim_alarmdevice-class"></a>Метод SetPowerState \_ класса CIM алармдевице
 
@@ -126,7 +126,7 @@ uint32 SetPowerState(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

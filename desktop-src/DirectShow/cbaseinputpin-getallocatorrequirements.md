@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 57b085cd82c45fd78ddaa4794084cba775e1c80cd8b9e3b8df4c9680379ba462
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f0239d226ea57ed5953fa65b925eeffaa0b13df1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119586374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173824"
 ---
 # <a name="cbaseinputpingetallocatorrequirements-method"></a>Кбасеинпутпин. Жеталлокаторрекуирементс, метод
 
@@ -59,7 +59,7 @@ HRESULT GetAllocatorRequirements(
 
 Реализация этого метода является необязательной. Если фильтр имеет особые требования выравнивания или префикса, Переопределите этот метод.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ HRESULT GetAllocatorRequirements(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

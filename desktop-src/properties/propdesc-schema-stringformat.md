@@ -5,11 +5,11 @@ title: stringFormat
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 6eb40ec92ed7b31486062b5cca027eb5257e07af
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122631907"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268232"
 ---
 # <a name="stringformat"></a>stringFormat
 
@@ -46,7 +46,7 @@ ms.locfileid: "122631907"
 
 | Родительский элемент                                   | Дочерние элементы |
 |--------------------------------------------------|----------------|
-| [displayInfo](./propdesc-schema-displayinfo.md) | None           |
+| [displayInfo](./propdesc-schema-displayinfo.md) | Нет           |
 
 
 
@@ -64,7 +64,7 @@ ms.locfileid: "122631907"
 <thead>
 <tr class="header">
 <th>Атрибут</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>

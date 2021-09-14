@@ -5,15 +5,15 @@ title: LOCALE_IPOSITIVEPERCENT
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: e974aa00ce8bf6f3f38d7ddd43b2eb7aee774131
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105650981"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127274448"
 ---
 # <a name="locale_ipositivepercent"></a>ипоситивеперцент ЛОКАЛи \_
 
-**Windows 7 и более поздние версии:** Шаблон форматирования положительного процента для языкового стандарта. Может быть указан только один шаблон.
+**Windows 7 и более поздних версий:** Шаблон форматирования положительного процента для языкового стандарта. Может быть указан только один шаблон.
 
 
 

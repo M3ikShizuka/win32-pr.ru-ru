@@ -56,12 +56,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 55ee65b151778dbfbb4bb8e09fabfb3ae59392966344b951586cd9e08dd1f984
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 22718802370995cc0515e3f63e731cc86d37eb0f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119973042"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174008"
 ---
 # <a name="win32_networkadapter-class"></a>\_Класс Win32 сетевого адаптера
 
@@ -120,7 +120,7 @@ class Win32_NetworkAdapter : CIM_NetworkAdapter
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ сетевого адаптера** имеет следующие типы членов:
 
@@ -135,8 +135,8 @@ class Win32_NetworkAdapter : CIM_NetworkAdapter
 
 | Метод                                                          | Описание                                                                                                                                                                                                                     |
 |:----------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**Отключить**](disable-method-in-class-win32-networkadapter.md) | Отключает сетевой адаптер.<br/>                                                                                                                                                                                        |
-| [**Включить**](enable-method-in-class-win32-networkadapter.md)   | Включает сетевой адаптер.<br/>                                                                                                                                                                                         |
+| [**Включен**](disable-method-in-class-win32-networkadapter.md) | Отключает сетевой адаптер.<br/>                                                                                                                                                                                        |
+| [**Параметр**](enable-method-in-class-win32-networkadapter.md)   | Включает сетевой адаптер.<br/>                                                                                                                                                                                         |
 | **Сброс**                                                       | Не реализован. Дополнительные сведения о том, как реализовать этот метод, см. в описании метода [**Reset**](reset-method-in-class-cim-controller.md) в [**CIM \_ сетевого адаптера**](cim-networkadapter.md).<br/>                 |
 | **SetPowerState**                                               | Не реализован. Дополнительные сведения о том, как реализовать этот метод, см. в описании метода [**SetPowerState**](setpowerstate-method-in-class-cim-controller.md) в [**CIM \_ сетевого адаптера**](cim-networkadapter.md).<br/> |
 
@@ -144,7 +144,7 @@ class Win32_NetworkAdapter : CIM_NetworkAdapter
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ сетевого адаптера** имеет следующие свойства.
 
@@ -1249,7 +1249,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**

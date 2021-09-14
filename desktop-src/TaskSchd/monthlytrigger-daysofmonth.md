@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b256295b98105f79b144285d4aec77768f0648fc327be8be29d3f203586fe484
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 81a3bd671266cfbe459218367fadf20fd52f94a7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119139407"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127170671"
 ---
 # <a name="monthlytriggerdaysofmonth-property"></a>Монслитригжер. DaysOfMonth, свойство
 

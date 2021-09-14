@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: acd80467c78aac832c5ac2784281abcf07975a1956ee304c734b2b45b82901fc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 109f6e49e77d1cfa8c6d3b45bef1d011faf21a8b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119053582"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127172691"
 ---
 # <a name="iwmpmediacollection2getplaylistbyquery-method"></a>Метод IWMPMediaCollection2:: Жетплайлистбикуери
 
@@ -97,7 +97,7 @@ Implements IWMPMediaCollection2.getPlaylistByQuery
 
 Если составной запрос, заданный параметром *пкуери* , содержит условие, построенное на атрибуте **mediaType** , это условие игнорируется. Значение параметра *бстрмедиатипе* всегда используется. Например, если составной запрос содержит условие «MediaType равно Audio», а значение параметра *бстрмедиатипе* — «Video», то итоговый список будет содержать только элементы видео.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -109,7 +109,7 @@ Implements IWMPMediaCollection2.getPlaylistByQuery
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

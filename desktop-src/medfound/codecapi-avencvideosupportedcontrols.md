@@ -4,12 +4,12 @@ ms.assetid: 42FD987A-7D6C-4434-BD48-3CC289F2748D
 title: Свойство CODECAPI_AVEncVideoSupportedControls (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 38c3a4743e25078a97d636f5305f73d4d3973804011dc72abe1172715822c8d4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 28c2ce5cf01fccafec0fdcf0410c22ba673fa580
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118974873"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269211"
 ---
 # <a name="codecapi_avencvideosupportedcontrols-property"></a>КОДЕКАПИ \_ авенквидеосуппортедконтролс, свойство
 
@@ -27,7 +27,7 @@ ms.locfileid: "118974873"
 
 Это свойство используется только с [кодировщиками камер H. 264 увк 1,5](camera-encoder-h264-uvc-1-5.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -39,7 +39,7 @@ ms.locfileid: "118974873"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1be1aeccdde2c81c87956a42e72440732ff9eb2732cbd066f51308816c01f64a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e78c2ae2592d89ba7a0f6392666dac0404d52e39
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120089094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174179"
 ---
 # <a name="cb_initstorage-message"></a>\_Сообщение ИНИТСТОРАЖЕ CB
 
@@ -55,7 +55,7 @@ ms.locfileid: "120089094"
 
 Сообщение **\_ инитстораже CB** помогает ускорить инициализацию полей со списком, имеющих большое количество элементов (свыше 100). Он резервирует указанный объем памяти, чтобы последующие сообщения [**CB \_ ADDSTRING**](cb-addstring.md), [**CB \_ инсертстринг**](cb-insertstring.md)и [**CB \_ dir**](cb-dir.md) были в кратчайшие сроки. Для параметров *wParam* и *lParam* можно использовать оценки. При превышении лимитной оценки выделяется дополнительный объем памяти, если недооценивать, для элементов, превышающих запрошенный объем, используется нормальное выделение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -67,7 +67,7 @@ ms.locfileid: "120089094"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -5,11 +5,11 @@ ms.assetid: 580AB4A6-0C1C-409B-B2B9-BA1D37772F46
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: c02ce1b506d112a59d3087f59d219557575b8def
-ms.sourcegitcommit: 8c658e9872a2173e3dcec94195f9067fbcd85d3d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "104339521"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347395"
 ---
 # <a name="ftoi-sm4---asm"></a>ftoi (sm4 — asm) 
 
@@ -23,7 +23,7 @@ ms.locfileid: "104339521"
 | <span id="dest"></span><span id="DEST"></span>*dest*<br/> | \[в \] адресе результата операции.<br/> *конечный адрес*  =  [Round \_ z](round-z--sm4---asm-.md)(*src0*)<br/> |
 | <span id="src0"></span><span id="SRC0"></span>*src0*<br/> | \[в \] преобразуемом компоненте.<br/> |
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Преобразование выполняется для каждого компонента. Округление всегда выполняется в сторону нуля, в соответствии с соглашением C для приведения типа float к типу int. Приложения, для которых требуется другая семантика округления, могут вызывать **округленные** инструкции перед приведением к целому числу.
 
@@ -43,13 +43,13 @@ ms.locfileid: "104339521"
 
 | Модель шейдера | Поддерживается |
 |-|-|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md) | да |
-| [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md) | да |
-| [Модель шейдера 4](dx-graphics-hlsl-sm4.md) | да |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md) | Да |
+| [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md) | Да |
+| [Модель шейдера 4](dx-graphics-hlsl-sm4.md) | Да |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет |
 | [Модель шейдера 2 (DirectX HLSL)](dx-graphics-hlsl-sm2.md) | Нет |
 | [Модель шейдера 1 (DirectX HLSL)](dx-graphics-hlsl-sm1.md) | Нет |
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 [Сборка Shader Model 4 (DirectX HLSL)](dx-graphics-hlsl-sm4-asm.md)

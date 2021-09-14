@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: b2a55d509c900c7be68d3225826c208755d31ef66e0c24119bd1d044dad1aefc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 403d465d4ff9fe8ae9101b13e2ec5e6c04bdddf2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118157059"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173800"
 ---
 # <a name="cbasevideorendereronstartstreaming-method"></a>Кбасевидеорендерер. Онстартстреаминг, метод
 
@@ -48,7 +48,7 @@ HRESULT OnStartStreaming();
 
 Эта функция члена переопределяет [**кбасерендерер:: онстартстреаминг**](cbaserenderer-onstartstreaming.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ HRESULT OnStartStreaming();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

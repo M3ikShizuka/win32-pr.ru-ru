@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8f458592d2842625b9826eda5963c66cbd182e3f052a2b2a70ff5219a054e8cb
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: bd79f33576490196bf29fd51316f8ce3daf4ad4b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119878244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174127"
 ---
 # <a name="dtm_closemonthcal-message"></a>\_Сообщение DTM клосемонскал
 
@@ -47,7 +47,7 @@ ms.locfileid: "119878244"
 
 Уничтожает элемент управления и отправляет уведомление [ДТН \_ крупный план](dtn-closeup.md) о том, что элемент управления закрывается (в отличие от раскрывающегося уведомления [ДТН \_ ](dtn-dropdown.md) ) к родителю элемента управления.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ ms.locfileid: "119878244"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

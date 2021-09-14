@@ -4,12 +4,12 @@ ms.assetid: 204cf253-be35-4213-ab84-45a952beffd1
 title: System. Devices. СторажекапаЦити
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f674d1c675fce2f95c980cc044dd3f0ce23c3839bd3d6e0cef8d1b35d1d3cff6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: da5ac9b89927bfaf6c3e40154d6e7cbc9e3c49c0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119775444"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268027"
 ---
 # <a name="systemdevicesstoragecapacity"></a>System. Devices. СторажекапаЦити
 

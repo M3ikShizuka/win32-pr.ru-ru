@@ -25,12 +25,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 109ab5f4f61215e559ae3b415bdef0dd5ec9db1b893f3ce44d942c849be10953
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ba4ace510c1c26030542090eb1b00e76db803df6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120127804"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173544"
 ---
 # <a name="authentication-service-constants"></a>Константы Authentication-Service
 
@@ -63,7 +63,7 @@ ms.locfileid: "120127804"
 
 Укажите RPC \_ C \_ AUTHN \_ None, чтобы отключить проверку подлинности для вызовов удаленных процедур, выполненных на основе маркера привязки. При указании RPC \_ c \_ AUTHN \_ по умолчанию библиотека времени выполнения RPC использует \_ \_ \_ службу проверки подлинности RPC c AUTHN WinNT для удаленных вызовов процедур, выполненных с помощью маркера привязки.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -75,7 +75,7 @@ ms.locfileid: "120127804"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 119f3ffaa5863584b55210306b38b011c758f9bab0febac47547bdfe469b5ac0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 72aaf6bb4c1ff8bf108086a8a42a618267c4bc06
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120056344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173827"
 ---
 # <a name="cbaseinputpingetallocator-method"></a>Кбасеинпутпин. метод распределения
 
@@ -59,7 +59,7 @@ HRESULT GetAllocator(
 
 Если метод выполнен успешно, то интерфейс **имемаллокатор** имеет необработанный счетчик ссылок. Не забудьте освободить его по завершении.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ HRESULT GetAllocator(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

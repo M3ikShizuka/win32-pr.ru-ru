@@ -4,12 +4,12 @@ ms.assetid: 636b0ce8-cf08-4536-9b41-79512b02a066
 title: Событие WPCEVENT_WEB_URLVISIT (Впцевент. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4b9524909ee78d14395e2f208fe265b3abc31240d2036788b8b84c4fea05aac9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b1075ae930cdaa9ee539dbc17a8c13d5c2a41add
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120112704"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268384"
 ---
 # <a name="wpcevent_web_urlvisit-event"></a>\_Событие веб- \_ урлвисит впцевент
 
@@ -40,7 +40,7 @@ URL-адрес, который пытается открыть.
 
 </dd> <dt>
 
-*Version* 
+*Версия* 
 </dt> <dd>
 
 Строка версии для приложения.

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 109af3e9ccfdd7d8679ac7a5d467cafa966de6faf76adbd06450fd6ba782e80d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c7d4cc80d12b01b9374173f413f0aee3701e5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119527904"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173927"
 ---
 # <a name="cben_beginedit-notification-code"></a>\_Код уведомления кбен BEGINEDIT
 
@@ -49,7 +49,7 @@ CBEN_BEGINEDIT
 
 Приложение, обрабатывающее этот код уведомления, должно возвращать ноль.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

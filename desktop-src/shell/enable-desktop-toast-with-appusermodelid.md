@@ -9,12 +9,12 @@ api_type: ''
 api_location: ''
 topic_type:
 - kbSyntax
-ms.openlocfilehash: 517c2b72e830c00b105048adc63923291f896cd5d0d77569c91b1aa12e034e60
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bd02a0ec6512aa7637f0d6b2b281e1b862e61d3d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118459796"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267923"
 ---
 # <a name="how-to-enable-desktop-toast-notifications-through-an-appusermodelid"></a>Включение всплывающих уведомлений рабочего стола через AppUserModelID
 
@@ -39,7 +39,7 @@ ms.locfileid: "118459796"
 -   в \# . Windows пакет кода API для Microsoft платформа .NET Framework
 -   версия Microsoft Visual Studio, поддерживающая по меньшей мере Windows 8
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="step-1-prepare-the-shortcut-to-be-created"></a>Шаг 1. Подготовка ярлыка для создания
 

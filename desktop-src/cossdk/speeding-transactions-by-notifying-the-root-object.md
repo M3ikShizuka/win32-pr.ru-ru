@@ -5,11 +5,11 @@ title: Ускорение транзакций путем уведомления
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 21f3865382434ee070db753a0f9113577531558d
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104262596"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347546"
 ---
 # <a name="speeding-transactions-by-notifying-the-root-object"></a>Ускорение транзакций путем уведомления корневого объекта
 
@@ -21,7 +21,7 @@ ms.locfileid: "104262596"
 
 Хотя существует множество различных подходов к обработке ошибок, подход должен четко координировать обмен данными между внутренними объектами и корневым объектом.
 
-В следующих фрагментах кода Visual Basic показан один из подходов к обработке ошибок. В первом фрагменте внутренний объект вызывает [**SetAbort**](/windows/desktop/api/ComSvcs/nf-comsvcs-iobjectcontext-setabort), вызывает ошибку и выдает сообщение об ошибке следующим образом:
+в следующих фрагментах кода Visual Basic показан один из подходов к обработке ошибок. В первом фрагменте внутренний объект вызывает [**SetAbort**](/windows/desktop/api/ComSvcs/nf-comsvcs-iobjectcontext-setabort), вызывает ошибку и выдает сообщение об ошибке следующим образом:
 
 ``` syntax
 Dim ObjCtx As ObjectContext
@@ -56,7 +56,7 @@ Exit Sub
 End Sub
 ```
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

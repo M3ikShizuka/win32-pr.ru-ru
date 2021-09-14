@@ -4,12 +4,12 @@ ms.assetid: ACBE8799-A81C-44C3-B985-88ADFB1E51B4
 title: Свойство CODECAPI_AVEncMaxFrameRate (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7bb4202dd2079cc013560947ef11581cdb24b92ad0aaaf544e12923d5e46b319
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c04d1fd1297f299db133cd98bd493c968fcc29c8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118974933"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269315"
 ---
 # <a name="codecapi_avencmaxframerate-property"></a>КОДЕКАПИ \_ авенкмаксфрамерате, свойство
 
@@ -29,7 +29,7 @@ ms.locfileid: "118974933"
 
 Частота кадров выражается в виде коэффициента. Верхний 32 бит значения атрибута содержит числитель, а младшие 32 бита содержат знаменатель. Например, если частота кадров составляет 30 кадров в секунду (кадров/с), то соотношение составляет 30/1. Если частота кадров составляет 29,97 кадров/с, то коэффициент равен 30000/1001.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "118974933"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

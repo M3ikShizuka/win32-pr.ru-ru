@@ -5,11 +5,11 @@ ms.assetid: a92f845e-b0fc-4e23-9d06-ca16d2becf0b
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 954b01ff3271b9f74fac2c130c697a70e910fc93
-ms.sourcegitcommit: 099ecdda1e83618b844387405da0db0ebda93a65
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "111444305"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267259"
 ---
 # <a name="ui_pkey_fontproperties_verticalpositioning"></a>UI \_ PKEY \_ фонтпропертиес \_ вертикалпоситионинг
 
@@ -31,7 +31,7 @@ UI \_ PKEY \_ фонтпропертиес \_ вертикалпоситиони
 
 Значение свойства находится в перечислении [**\_ Фонтвертикалпоситион пользовательского интерфейса**](/windows/desktop/api/uiribbon/ne-uiribbon-ui_fontverticalposition) .
 
-Значение по умолчанию — `UI_FONTVERTICALPOSITION_NOTSET`.
+Значение по умолчанию — `UI_FONTVERTICALPOSITION_NOTSET`.
 
 На следующем снимке экрана показаны кнопки **надстрочных** и **подстрочных индексов** на ленте [**фонтконтрол**](windowsribbon-element-fontcontrol.md).
 
@@ -41,7 +41,7 @@ UI \_ PKEY \_ фонтпропертиес \_ вертикалпоситиони
 
 
 
-|     Свойство                           |          Результат пользовательского интерфейса                                                                             |
+|     Свойство.                           |          Результат пользовательского интерфейса                                                                             |
 |----------------------------------------|------------------------------------------------------------------------------------------------|
 | `UI_FONTVERTICALPOSITION_NOTAVAILABLE` | **Верхние** и нижние **индексы** отключены и могут быть установлены только приложением. |
 | `UI_FONTVERTICALPOSITION_NOTSET`       | Кнопки **надстрочных** и **подстрочных индексов** не выбраны.                                    |

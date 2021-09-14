@@ -4,12 +4,12 @@ ms.assetid: 8b85588d-0a79-43af-b526-7a5fc8248f99
 title: Пакет проверки подлинности MSV1_0
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 12366ecf2ce213b1221fe310e77f9f019c859c038a47d332c8b702639662bc53
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 662ae65f60bec61c30b12271a34dc9d3c2883d94
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118921758"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173456"
 ---
 # <a name="msv1_0-authentication-package"></a>\_Пакет проверки подлинности MSV1 0
 

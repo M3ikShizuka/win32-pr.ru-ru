@@ -38,12 +38,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 2a8792cba72631c43cc259276e35cce0b08ad11d627a181d53a9cb3967e3a155
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6df116d1e4bc4e87d7201deb33f57bc8e91320e3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119973074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127174011"
 ---
 # <a name="win32_motherboarddevice-class"></a>\_Класс Win32 мосербоарддевице
 
@@ -82,7 +82,7 @@ class Win32_MotherboardDevice : CIM_LogicalDevice
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ мосербоарддевице** имеет следующие типы членов:
 
@@ -104,7 +104,7 @@ class Win32_MotherboardDevice : CIM_LogicalDevice
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **Win32 \_ мосербоарддевице** имеет следующие свойства.
 
@@ -826,7 +826,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1255,7 +1255,7 @@ Next
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -1269,7 +1269,7 @@ Next
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

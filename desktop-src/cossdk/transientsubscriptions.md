@@ -13,11 +13,11 @@ api_type:
 - COM
 api_location: ''
 ms.openlocfilehash: 68ccdd222f4fe205e58adf5195df694ec1256804
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122879922"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127347467"
 ---
 # <a name="transientsubscriptions-collection"></a>Коллекция Трансиентсубскриптионс
 
@@ -41,18 +41,18 @@ ms.locfileid: "122879922"
 
 Вы можете переходить к этой коллекции из следующих коллекций:
 
--   [**Root**](root.md)
+-   [**Корневой**](root.md)
 
-## <a name="properties"></a>Свойства
+## <a name="properties"></a>Элемент Property
 
 Объект [**комадминкаталогобжект**](comadmincatalogobject.md) в коллекции поддерживает следующие свойства:
 
 -   [Описание](#description)
--   [Включен](#enabled)
+-   [Enabled](#enabled)
 -   [евенткласспартитионид](#eventclasspartitionid)
 -   [евентклсид](#eventclsid)
 -   [Параметром filterCriteria](#filtercriteria)
--   [ID](#transientsubscriptions-collection)
+-   [Идентификатор](#transientsubscriptions-collection)
 -   [InterfaceID](#interfaceid)
 -   [MethodName](#methodname)
 -   [имя](#methodname);

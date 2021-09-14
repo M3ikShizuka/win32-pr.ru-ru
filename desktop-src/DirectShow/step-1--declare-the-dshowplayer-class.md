@@ -4,12 +4,12 @@ ms.assetid: 3ccd201d-e60d-40bf-a602-6d42df03b36b
 title: Шаг 1. объявление класса Дшовплайер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 02cbf35e9c71df9d71ab3df7cdbb3edf5d3f25bb5e77a01734f7d842fc3097f2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 22ff36a76be8017f7b468815cf572514900f8d11
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118951893"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127275088"
 ---
 # <a name="step-1-declare-the-dshowplayer-class"></a>Шаг 1. объявление класса Дшовплайер
 

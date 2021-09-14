@@ -4,12 +4,12 @@ ms.assetid: 3a4b925a-4fb4-4189-a571-8083454fed0e
 title: Выбор видеокодека (Microsoft Media Foundation)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b560666ddeebb88fc3bb720cbc9f1be26308e7ecd8a4ad872fbb1f0991826fe2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9186c7e7e60f5822ec2e50e3e5c7e16e96b91839
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119035372"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269363"
 ---
 # <a name="choosing-a-video-codec-microsoft-media-foundation"></a>Выбор видеокодека (Microsoft Media Foundation)
 
@@ -39,7 +39,7 @@ ms.locfileid: "119035372"
 </tr>
 <tr class="odd">
 <td>Преобразование растровых изображений в динамическое видео</td>
-<td><a href="windowsmediavideo9encoder.md">Windows Кодировщик Media Video 9</a><dl> Образ<br />
+<td><a href="windowsmediavideo9encoder.md">Windows Кодировщик Media Video 9</a><dl> Образ —<br />
 </dl></td>
 </tr>
 <tr class="even">

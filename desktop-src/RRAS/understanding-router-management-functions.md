@@ -4,12 +4,12 @@ description: В следующих разделах рассматриваютс
 ms.assetid: 2f6831f2-39be-43b1-80bd-9a36c0f8a2af
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 85aac5cc2ec0167527f07c04459ec0aed7dbc248bed727fb4a949765c2fdcc4a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: be4b1891bc55b80a18a6d0dd928044da1e0e9709
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120025404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127173568"
 ---
 # <a name="understanding-router-management-functions"></a>Общие сведения о функциях управления маршрутизаторами
 
