@@ -16,11 +16,11 @@ api_type:
 api_location: ''
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: cb2779c75d525e45e9140d8f70665a09fe202b21
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122988117"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345203"
 ---
 # <a name="jet_unicodeindex-structure"></a>Структура JET_UNICODEINDEX
 
@@ -62,7 +62,7 @@ typedef struct tagJET_UNICODEINDEX {
 | <p>Значение</p> | <p>Значение</p> | 
 |--------------|----------------|
 | <p>LCMAP_SORTKEY</p> | <p>Mandatory.</p> | 
-| <p>LCMAP_BYTEREV</p> | <p>Необязательный элемент.</p> | 
+| <p>LCMAP_BYTEREV</p> | <p>Необязательный параметр.</p> | 
 | <p>NORM_IGNORECASE</p> | <p>Необязательный параметр.</p> | 
 | <p>NORM_IGNORENONSPACE</p> | <p>Необязательный параметр.</p> | 
 | <p>NORM_IGNORESYMBOLS</p> | <p>Необязательный параметр.</p> | 
@@ -75,7 +75,7 @@ typedef struct tagJET_UNICODEINDEX {
 ### <a name="requirements"></a>Требования
 
 
-| Требование | Применение |
+| Требование | Значение |
 |------------|----------|
 | <p><strong>Клиент</strong></p> | <p>требуется Windows Vista, Windows XP или Windows 2000 Professional.</p> | 
 | <p><strong>Server</strong></p> | <p>требуется Windows server 2008, Windows server 2003 или сервер Windows 2000.</p> | 

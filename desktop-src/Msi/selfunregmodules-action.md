@@ -4,12 +4,12 @@ ms.assetid: fa5a5abb-ecd4-434c-b176-83cdca280a13
 title: Действие Селфунрегмодулес
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f2ba95a745716d512a72e9541064f56bdc663e2e6c9658a9c35744449217952f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3c3a0d98d8a8afe45b9b78f5c8af8ca2f84b2244
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120040334"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127260979"
 ---
 # <a name="selfunregmodules-action"></a>Действие Селфунрегмодулес
 
@@ -32,13 +32,13 @@ ms.locfileid: "120040334"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Действие Селфунрегмодулес пытается вызвать функцию [**DllUnregisterServer**](/windows/win32/api/olectl/nf-olectl-dllunregisterserver) модуля, для которого необходимо отменить регистрацию. Это действие выполняется с повышенными привилегиями при запуске установки с повышенными привилегиями, например во время установки на компьютере. Во время установки на уровне пользователя Установщик выполняет это действие с правами пользователя.
 
 Обратите внимание, что нельзя указать порядок, в котором установщик отменяет регистрацию библиотек DLL с собственной регистрацией с помощью действия Селфунрегмодулес.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

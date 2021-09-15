@@ -18,12 +18,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 536963be51d665b03af77bb81c7592b44d2a6eb5ddc449bfa82896dd7f7da9b0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e0e7dfa68646dbefb6d6b70218fe99830b44a0c1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120064424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261632"
 ---
 # <a name="win32_powermanagementevent-class"></a>\_Класс Win32 поверманажементевент
 
@@ -44,7 +44,7 @@ class Win32_PowerManagementEvent : __ExtrinsicEvent
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ поверманажементевент** имеет следующие типы членов:
 
@@ -175,7 +175,7 @@ class Win32_PowerManagementEvent : __ExtrinsicEvent
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ поверманажементевент** является производным от [**\_ \_ екстринсицевент**](../wmisdk/--extrinsicevent.md).
 
@@ -205,7 +205,7 @@ Loop
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -219,7 +219,7 @@ Loop
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

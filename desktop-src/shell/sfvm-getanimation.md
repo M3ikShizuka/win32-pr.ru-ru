@@ -4,12 +4,12 @@ ms.assetid: 6f8b3894-f08f-4ebf-a645-87869e7d1b20
 title: Сообщение SFVM_GETANIMATION (Шлобж. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 746d8bc9bc4a6d4e15d9cd5190d7cfcb7d1362daba8ec5478b333458f62787da
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 60e4281689556e8315da7a9550fd69acc1a327a1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120008994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267795"
 ---
 # <a name="sfvm_getanimation-message"></a>\_Сообщение СФВМ анимации
 
@@ -46,13 +46,13 @@ SFVM_GETANIMATION
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 По умолчанию объект представления системных папок отображает анимацию "фонарик" во время перечисления фона.
 
 *финст* и *pwszName* будут переданы [элементу управления анимацией](../controls/animation-control-overview.md) с [**\_ открытым**](../controls/acm-open.md) сообщением ACM.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

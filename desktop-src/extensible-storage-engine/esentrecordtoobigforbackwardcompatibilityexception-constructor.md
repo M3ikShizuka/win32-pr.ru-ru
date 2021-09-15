@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 67c434e0b5883b91400fb5b95613be09406f90497e36d66b10fcf8dde18a5619
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 03ae790bece21694b0d4c18713b0311ab8d88d75
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119040022"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269912"
 ---
 # <a name="esentrecordtoobigforbackwardcompatibilityexception-constructor"></a>Конструктор Есентрекордтубигфорбакквардкомпатибилитексцептион
 
@@ -52,7 +52,7 @@ Dim instance As New EsentRecordTooBigForBackwardCompatibilityException()
 public EsentRecordTooBigForBackwardCompatibilityException()
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

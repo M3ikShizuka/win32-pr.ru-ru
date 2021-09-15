@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8c59186ed06b1669ead0727c618f01bcb937ff5f6e32454f6e7a1678499803cc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 46fb388c2740e709e75579c01d216af677a826c1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119999954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264704"
 ---
 # <a name="iwmpnetworkgetproxyport-method"></a>Метод Ивмпнетворк:: Жетпроксипорт
 
@@ -64,7 +64,7 @@ Implements IWMPNetwork.getProxyPort
 
 Объект **System. Int32** , который является используемым портом прокси-сервера. Значение имеет смысл только в том случае, если **ивмпнетворк. жетпроксисеттингс** возвращает значение 2 (использовать параметры вручную).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод завершается ошибкой, если вызывающее приложение не выполняется на локальном компьютере или в интрасети.
 
@@ -129,7 +129,7 @@ proxyPortText.Lines = proxyPorts
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -141,7 +141,7 @@ proxyPortText.Lines = proxyPorts
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

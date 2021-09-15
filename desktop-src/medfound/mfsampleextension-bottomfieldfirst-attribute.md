@@ -4,12 +4,12 @@ ms.assetid: 680c42e4-2808-46ed-98a8-c77b14a55def
 title: Атрибут MFSampleExtension_BottomFieldFirst (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b56ab0a9847977ea25d93190911bbf2280629f0219eba3d4c4ddfb492e9fdcd9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e608160c92fa53e8cde6adee1831d6c3e8789bc4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120113074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345622"
 ---
 # <a name="mfsampleextension_bottomfieldfirst-attribute"></a>Мфсампликстенсион \_ боттомфиелдфирст, атрибут
 
@@ -41,7 +41,7 @@ ms.locfileid: "120113074"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -53,7 +53,7 @@ ms.locfileid: "120113074"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

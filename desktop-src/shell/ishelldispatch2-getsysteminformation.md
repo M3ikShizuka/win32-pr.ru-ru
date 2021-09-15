@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Shell32.dll
-ms.openlocfilehash: e99aa3e88a13327d7de133b8207ee9626db23a4cbbef9c9ffcaca5582d8e10d3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a81ac091dc1905c1cbcd2c41575c907ce957e60c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120111514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127262539"
 ---
 # <a name="ishelldispatch2getsysteminformation-method"></a>IShellDispatch2. Жетсистеминформатион, метод
 
@@ -72,7 +72,7 @@ IShellDispatch2.GetSystemInformation( _
 
 Возвращает значение запрошенной системной информации. Тип возвращаемого значения зависит от того, какие сведения о системе запрашиваются. Подробные сведения см. в разделе "Заметки".
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод реализован и доступен через метод [**Shell. жетсистеминформатион**](./shell-getsysteminformation.md) .
 

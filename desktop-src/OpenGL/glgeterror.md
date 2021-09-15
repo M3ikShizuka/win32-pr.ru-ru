@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 212a76930e87d5a83c32a2f6707def8e2af40b89c5ede621ec0c31159d3aa0c2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 74c0abf6ec03ca0c29ede3b7d396db375fd06ac6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119962404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127260259"
 ---
 # <a name="glgeterror-function"></a>Функция Глжетеррор
 
@@ -60,7 +60,7 @@ GLenum WINAPI glGetError(void);
 
 Обратите внимание, что **глжетеррор** возвращает \_ недопустимую операцию GL, \_ если она вызывается между вызовом [**Глбегин**](glbegin.md) и соответствующим вызовом [**гленд**](glend.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Каждой обнаруживаемой ошибке присваивается числовой код и символьное имя. При возникновении ошибки флагу ошибки присваивается соответствующее значение кода ошибки. Никакие другие ошибки не записываются до вызова **глжетеррор** , возвращается код ошибки, а флаг сбрасывается в значение \_ No No \_ Error. Если вызов **глжетеррор** возвращает значение No GL, ошибка не обнаружена \_ \_ с момента последнего вызова **Глжетеррор** или с момента инициализации OpenGL.
 
@@ -70,7 +70,7 @@ GLenum WINAPI glGetError(void);
 
 Если установлен флаг ошибки, результаты операции OpenGL не определяются, только если \_ произошла незаполненная \_ \_ память. Во всех остальных случаях функция, создающая ошибку, игнорируется и не влияет на содержимое состояния OpenGL или буфера кадров.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -84,7 +84,7 @@ GLenum WINAPI glGetError(void);
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

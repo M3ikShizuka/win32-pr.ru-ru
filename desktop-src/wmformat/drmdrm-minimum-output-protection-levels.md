@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d5559527507f0399a09661dfe380f51d11e10750eddf7d996b38d110e4f38e37
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 060fdda4cd1c3cc665e396a72d46ac05e721abe4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119708924"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345446"
 ---
 # <a name="drm_minimum_output_protection_levels-structure"></a>\_Минимальная \_ \_ \_ Структура уровней защиты выходных данных DRM
 
@@ -41,7 +41,7 @@ typedef struct DRM_MINIMUM_OUTPUT_PROTECTION_LEVELS {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -84,7 +84,7 @@ typedef struct DRM_MINIMUM_OUTPUT_PROTECTION_LEVELS {
 
 Эта структура используется в качестве члена структуры [**DRM \_ Play \_ ОПЛ**](drmdrm-play-opl.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -94,7 +94,7 @@ typedef struct DRM_MINIMUM_OUTPUT_PROTECTION_LEVELS {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

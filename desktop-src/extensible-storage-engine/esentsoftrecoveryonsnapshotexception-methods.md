@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55102867
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 18f37514d5c211bacbb10dd2cd5f14b041e0e1b530fe1c513598bc47754bdbfa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ac6ab47185e59ae6e06a1740bf5e585b9436ff57
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118259381"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269872"
 ---
 # <a name="esentsoftrecoveryonsnapshotexception-methods"></a>Методы EsentSoftRecoveryOnSnapshotException 
 
@@ -28,7 +28,7 @@ ms.locfileid: "118259381"
 <tr class="header">
 <th> </th>
 <th>Имя</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>

@@ -5,11 +5,11 @@ title: Службы COM+ без компонентов концепции
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: d4d692657d33143b9437a9c8134260a8c32431cb
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103896322"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345323"
 ---
 # <a name="com-services-without-components-concepts"></a>Службы COM+ без компонентов концепции
 
@@ -23,7 +23,7 @@ ms.locfileid: "103896322"
 
 Затем настроенные службы можно использовать с помощью двух разных механизмов: они могут использоваться с помощью функции [**кокреатеактивити**](/windows/desktop/api/ComSvcs/nf-comsvcs-cocreateactivity) , которая применяет службы ко всей работе, переданной функцией, и также может использоваться путем внедрения работы, которая использует службы между вызовами функций [**коентерсервицедомаин**](/windows/desktop/api/ComSvcs/nf-comsvcs-coenterservicedomain) и [**колеавесервицедомаин**](/windows/desktop/api/ComSvcs/nf-comsvcs-coleaveservicedomain) . Ни одна из этих функций не требует создания новых компонентов, чтобы иметь возможность использовать службы COM+. требуется только объект [**ксервицеконфиг**](cserviceconfig.md) .
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

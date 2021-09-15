@@ -48,12 +48,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 209d3ffe9721f51b8c2d510eecb5408ac66cdbeb58309d1f033e2d23730328ae
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3d2e545fea9c1942dc09df82eb93eafa1d3e4e89
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120116234"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263616"
 ---
 # <a name="jet_cbtyp-enumeration"></a>Перечисление JET_cbtyp
 
@@ -79,7 +79,7 @@ Dim instance As JET_cbtyp
 public enum JET_cbtyp
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <table>
 <thead>
@@ -154,7 +154,7 @@ public enum JET_cbtyp
 </table>
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

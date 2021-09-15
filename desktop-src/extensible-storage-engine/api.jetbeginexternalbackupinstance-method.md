@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: b590ed0fb13c4540a4fad15eea1de5c4ad24e40611285d976ebf04b6269c6b6a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1c42f5d1f62de0af7582247fb47d407f82981a42
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118983644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270064"
 ---
 # <a name="apijetbeginexternalbackupinstance-method"></a>API. Жетбегинекстерналбаккупинстанце, метод
 
@@ -61,7 +61,7 @@ public static void JetBeginExternalBackupInstance(
 
 #### <a name="parameters"></a>Параметры
 
-  - экземпляр  
+  - instance  
     Тип: [Microsoft.ISAM.ESENT.Interop.JET_INSTANCE](./jet-instance-structure.md)  
     
     Экземпляр, подготавливается к резервному копированию.
@@ -73,7 +73,7 @@ public static void JetBeginExternalBackupInstance(
     
     Параметры резервного копирования.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

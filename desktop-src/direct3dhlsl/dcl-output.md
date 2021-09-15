@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: d60f50250a3bf35056cd7232100fbac3e3d919c3c473436899e359f26f84ecea
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4391a30e172ef28133b8fe09a99bae7f77c971af
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117726991"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264264"
 ---
 # <a name="dcl_output-sm4---asm"></a>\_выходные данные дкл (SM4-ASM)
 
@@ -31,7 +31,7 @@ ms.locfileid: "117726991"
 
 
 
-| Элемент                                                                           | Описание                                                                                                  |
+| Элемент                                                                           | Описание:                                                                                                  |
 |--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 | <span id="oN"></span><span id="on"></span><span id="ON"></span>o *N*<br/> | \[в \] реестре выходных данных; *N* — это целое число, которое обозначает номер регистра.<br/>               |
 | <span id="_.mask_"></span><span id="_.MASK_"></span>*\[. Mask\]*<br/>     | \[\]необязательно. Маска компонента (. ксизв), указывающая, какие компоненты регистров следует использовать.<br/> |

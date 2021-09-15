@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 40f0fb6f5eaff5101f3cc1f5c4aeb2245335e4f65b27d2fafb364df2d05618ec
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1a8403b93e1c5292ade9f6f402b7e41994339140
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119771984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264920"
 ---
 # <a name="timetrigger-object"></a>Объект Тиметригжер
 
@@ -54,7 +54,7 @@ ms.locfileid: "119771984"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Элемент [**стартбаундари**](taskschedulerschema-startboundary-triggerbasetype-element.md) является обязательным элементом для триггеров времени и календаря ([**тиметригжер**](taskschedulerschema-timetrigger-triggergroup-element.md) и [**календартригжер**](taskschedulerschema-calendartrigger-triggergroup-element.md)).
 
@@ -64,7 +64,7 @@ ms.locfileid: "119771984"
 
 Дополнительные сведения и примеры кода для этого объекта скрипта см. в разделе [пример триггера времени (сценарии)](time-trigger-example--scripting-.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,11 +78,11 @@ ms.locfileid: "119771984"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
-[**Триггер**](trigger.md)
+[**Необходимость**](trigger.md)
 </dt> <dt>
 
 [**тригжерколлектион**](triggercollection.md)

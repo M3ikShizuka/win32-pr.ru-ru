@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: a148e9edbc1cef42ecc2d1158dd18afcc908cf4d7549912b52f363aaa54cedb3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5927aac2fa58322c93a23489a22dc96a1e2a67f0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118953633"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266523"
 ---
 # <a name="ctransformfiltercheckconnect-method"></a>Ктрансформфилтер. Чеккконнект, метод
 
@@ -61,11 +61,11 @@ virtual HRESULT CheckConnect(
 
 Возвращает значение S \_ ОК.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Методы [**ктрансформинпутпин:: чеккконнект**](ctransforminputpin-checkconnect.md) и [**Ктрансформаутпутпин:: чеккконнект**](ctransformoutputpin-checkconnect.md) вызывают этот метод во время процесса подключения ПИН-кода. Этот метод не выполняет никаких действий в базовом классе. Производный класс может переопределить его. Например, производный класс может запросить другой ПИН-код для определенного интерфейса.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ virtual HRESULT CheckConnect(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

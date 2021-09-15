@@ -4,12 +4,12 @@ ms.assetid: c48b9821-9194-47d9-a3ec-b10dbbdf14cc
 title: Обзор функций PrintTicket
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: edd01e7247de83e8f378dbcff8e99c32abacd448f436ad69af1f99a1566655b7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e90aa6f967f5fce25977b52a4d0bec7e9e1ea705
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119718974"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127263083"
 ---
 # <a name="overview-of-printticket-functionality"></a>Обзор функций PrintTicket
 
@@ -19,7 +19,7 @@ PrintTicket использует формат на основе XML для пр�
 
 PrintTicket можно использовать для получения документа PrintCapabilities, описывающего характеристики устройства для конкретной конфигурации. Кроме того, PrintTicket можно отправить с помощью набора инструкций по подготовке к просмотру, чтобы получить страницу выходных данных, отображаемых и обработанных в соответствии с конфигурацией, указанной в PrintTicket.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

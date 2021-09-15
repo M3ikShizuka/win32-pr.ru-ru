@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 6ef410ac8d96160b39ca9b7103e5125be8619169ba6b287a32b8769e57a0cbf4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 63c48a0502ee074b0940f85386dca0619a3ad12d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120053624"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266515"
 ---
 # <a name="ctransformfiltercheckinputtype-method"></a>Ктрансформфилтер. Чеккинпуттипе, метод
 
@@ -64,13 +64,13 @@ virtual HRESULT CheckInputType(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Производный класс должен реализовывать этот метод. Возвращает значение \_ ОК, если предложенный входной формат допустим, или код ошибки в противном случае.
 
 Этому методу не нужно проверять, совместим ли входной формат с выходным форматом (если он есть). Входной ПИН-код проверяет это, вызывая метод [**чекктрансформ**](ctransformfilter-checktransform.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -81,7 +81,7 @@ virtual HRESULT CheckInputType(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

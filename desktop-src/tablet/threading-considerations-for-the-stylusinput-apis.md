@@ -4,12 +4,12 @@ ms.assetid: 5d98768a-c60b-4bb0-8640-9bf38254d41f
 title: Рекомендации по потокам для API Стилусинпут
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 27f9a26da86295a322d926278eda87388c0105132eafd2dfa3d7a9f6c6655e48
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 530ac95fdf0e74e30c83a437b6ed573d03bb2c91
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119819644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267640"
 ---
 # <a name="threading-considerations-for-the-stylusinput-api"></a>Рекомендации по потокам для API Стилусинпут
 

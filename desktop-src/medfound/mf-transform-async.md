@@ -4,12 +4,12 @@ ms.assetid: fcc70282-cfac-487c-b9ff-39e62c836f8b
 title: Атрибут MF_TRANSFORM_ASYNC (Мфтрансформ. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e92a647ca122c138f2ef7e90670798200fc3fa629be48d6242b4e71dbc93151e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 89622bd7bb7fa3e8306c94b02f90217b6367d21b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119714353"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345151"
 ---
 # <a name="mf_transform_async-attribute"></a>\_ \_ Асинхронный атрибут преобразования MF
 
@@ -25,7 +25,7 @@ ms.locfileid: "119714353"
 
 Чтобы задать этот атрибут, вызовите [**имфаттрибутес:: SetUINT32**](/windows/desktop/api/mfobjects/nf-mfobjects-imfattributes-setuint32).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Атрибут является логическим значением:
 

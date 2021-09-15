@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 4d3c5ea50ae50edc3d6be16ad771229ea82801f4
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122625740"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345475"
 ---
 # <a name="flowmenulayout-element"></a>Фловменулайаут, элемент
 
@@ -97,7 +97,7 @@ ms.locfileid: "122625740"
 
 ## <a name="remarks"></a>Remarks
 
-Обязательный.
+Обязательный элемент.
 
 Элемент [**вертикалменулайаут**](windowsribbon-element-verticalmenulayout.md) или **фловменулайаут** должен выполняться один раз для каждого элемента [**дропдовнгаллери. менулайаут**](windowsribbon-element-dropdowngallery-menulayout.md), [**инриббонгаллери. менулайаут**](windowsribbon-element-inribbongallery-menulayout.md)или [**SplitButtonGallery. MenuLayout**](windowsribbon-element-splitbuttongallery-menulayout.md) .
 

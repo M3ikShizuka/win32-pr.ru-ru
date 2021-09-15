@@ -5,11 +5,11 @@ title: numberFormat
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 2e9db77cc68dab7038a1b5b9c50d49f5381ee948
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122883657"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268264"
 ---
 # <a name="numberformat"></a>numberFormat
 
@@ -145,7 +145,7 @@ ms.locfileid: "122883657"
 </tr>
 <tr class="even">
 <td>форматдуратионас</td>
-<td>Общедоступный. Необязательный элемент. Значение по умолчанию — &quot; чч: мм: СС &quot; . Применяется только в том случае, если <em>форматас = &quot; Duration &quot; </em>. Свойство должно иметь значение UInt64. Допустимы следующие значения. 
+<td>Общедоступный. Необязательный параметр. Значение по умолчанию — &quot; чч: мм: СС &quot; . Применяется только в том случае, если <em>форматас = &quot; Duration &quot; </em>. Свойство должно иметь значение UInt64. Допустимы следующие значения. 
 <table>
 <thead>
 <tr class="header">

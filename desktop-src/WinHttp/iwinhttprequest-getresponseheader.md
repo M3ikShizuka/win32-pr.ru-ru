@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Winhttp.dll
-ms.openlocfilehash: 1566ea05f78f9e90a97db3a14c61f7c59cfc61ecdb1eb390823d99a32d4983ce
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6e51b0973c7b078c7de592565db19bf6e029c5a7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119643884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345343"
 ---
 # <a name="iwinhttprequestgetresponseheader-method"></a>Метод Ивинхттпрекуест:: Жетреспонсехеадер
 
@@ -59,7 +59,7 @@ HRESULT GetResponseHeader(
 
 В случае успешного выполнения возвращается значение **S \_** , а в противном случае — значение ошибки.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод возвращает значение заголовка ответа с именем в *заголовке*. Имейте в виду, что клиенты автоматизации, такие как скрипт, получают данные заголовка в качестве возвращаемого значения вызова функции, а не через параметр функции. Вызывайте этот метод только после вызова метода [**Send**](iwinhttprequest-send.md) .
 
@@ -190,7 +190,7 @@ WScript.Echo( WinHttpReq.GetResponseHeader("Date"));
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -205,7 +205,7 @@ WScript.Echo( WinHttpReq.GetResponseHeader("Date"));
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

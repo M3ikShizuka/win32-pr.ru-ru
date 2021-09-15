@@ -21,12 +21,12 @@ keywords:
 - Объект Кдромколлектион
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a40601c44b9e4722fe1209bfaa72711c9121782e11d27c45e21d4ed02e2638ae
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bd8fca9f7097f67226e31173670ca2935969704a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119765924"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264819"
 ---
 # <a name="about-the-cdrom-and-cdromcollection-objects"></a>Сведения об объектах CDROM и Кдромколлектион
 

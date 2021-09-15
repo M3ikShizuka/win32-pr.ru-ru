@@ -4,12 +4,12 @@ ms.assetid: dce530cf-26f6-49bf-bca2-8de5cd8e395a
 title: Свойство MFPKEY_DYN_BANDTRUNC_BWFLOOR (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f0311923a446449a27a675eb25d75c93d1ec377851d39a8b4a91f054b86f0919
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 73b21bc372b433d2c91a991d7ed041cc0632b86c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119463534"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345139"
 ---
 # <a name="mfpkey_dyn_bandtrunc_bwfloor-property"></a>МФПКЭЙ \_ Дин \_ бандтрунк \_ бвфлур, свойство
 

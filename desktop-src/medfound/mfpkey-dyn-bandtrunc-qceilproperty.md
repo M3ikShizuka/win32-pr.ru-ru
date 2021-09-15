@@ -4,12 +4,12 @@ ms.assetid: 2f0f43a9-2424-4b73-a9aa-a06474676fb4
 title: Свойство MFPKEY_DYN_BANDTRUNC_QCEIL (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: da4beecc98edcfd2eb7ecfdcbf1ab9f9af21f278538f32e26991f0dd57a85299
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1ff3e4f873c06af53290a784b5045e09eb24f7ef
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117873531"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345138"
 ---
 # <a name="mfpkey_dyn_bandtrunc_qceil-property"></a>МФПКЭЙ \_ Дин \_ бандтрунк \_ кцеил, свойство
 
@@ -23,7 +23,7 @@ ms.locfileid: "117873531"
 
 **VT \_ R4**
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -34,7 +34,7 @@ ms.locfileid: "117873531"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

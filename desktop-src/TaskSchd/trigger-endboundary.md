@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f4f2b72100a7b981246788b38572c014a722c126115ab5a77d77eb7d96273f5c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b385dddf186484bc17cff9f92d979cd64381335d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120010454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264912"
 ---
 # <a name="triggerendboundary-property"></a>Свойство Trigger. Ендбаундари
 
@@ -40,11 +40,11 @@ Trigger.EndBoundary As String
 
 Дата и время деактивации триггера. Дата и время должны быть в следующем формате: гггг-мм-DDTHH: мм: СС (+-) чч: мм. Например, дата 11 октября 2005 по 1:21:17 в тихоокеанском часовом поясе будет записана как 2005-10-11T13:21:17-08:00. Раздел (+-) чч: мм в формате описывает часовой пояс как определенное число часов перед временем в формате UTC (время по Гринвичу).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При чтении или записи XML для задачи свойство Enabled указывается с помощью элемента [**ендбаундари**](taskschedulerschema-endboundary-triggerbasetype-element.md) схемы планировщик задач.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -57,7 +57,7 @@ Trigger.EndBoundary As String
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

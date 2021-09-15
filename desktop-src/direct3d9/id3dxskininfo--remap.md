@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 941a71539184b7d49e35627c932da77b4494486c35506b1b4e5f69ad52c40829
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 657cf0977592a8e19e68b8aeb950c62d404e7cdb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119727784"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270168"
 ---
 # <a name="id3dxskininforemap-method"></a>Метод ID3DXSkinInfo:: пересопоставления
 
@@ -65,7 +65,7 @@ HRESULT Remap(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть D3DERR \_ инвалидкалл.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Каждый элемент в Пвертексремап указывает предыдущий индекс вершины для этой позиции. Например, если вершина находится в положении 3, но была повторно сопоставлена с позицией 5, то Пятый элемент Пвертексремап должен содержать 3. Можно использовать массив сопоставления вершин, возвращаемый [**ID3DXMesh:: optimize**](id3dxmesh--optimize.md) .
 

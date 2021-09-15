@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: fee30fab91b4f491efd4311919245ec2cb98b555
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "104352562"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264352"
 ---
 # <a name="crs---vs"></a>CR-VS
 
@@ -37,7 +37,7 @@ ms.locfileid: "104352562"
 -   src0 является исходным регистром.
 -   src1 является исходным регистром.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Комментарии
 
 
 
@@ -70,7 +70,7 @@ dest.z = src0.x * src1.y - src0.y * src1.x;
 -   конечный объект должен быть временным регистром.
 -   конечный объект не должен совпадать с регистром src0 или src1
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

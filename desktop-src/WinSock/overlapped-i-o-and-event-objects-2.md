@@ -4,12 +4,12 @@ ms.assetid: b36ab606-df1a-4254-b048-6d47eb366275
 title: Перекрывающиеся операции ввода-вывода и объекты событий
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bca6ae2ee17036275183518bfd444b9317bcdc05145a9fcb327ad48388618a66
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ed034f06243959d94a1ada7eaa71e33c84cd35ee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117741060"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345331"
 ---
 # <a name="overlapped-io-and-event-objects"></a>Перекрывающиеся операции ввода-вывода и объекты событий
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6bdf24cbd2e204e3d16f5b9a4038c21c590c23556941acdb4cc5a215c5376c13
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: db66edcb3b1645c6c34c72e35df53afc516dafc3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119351284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345706"
 ---
 # <a name="wm_nclbuttondblclk-message"></a>\_Сообщение НКЛБУТТОНДБЛКЛК WM
 
@@ -79,7 +79,7 @@ yPos = GET_Y_LPARAM(lParam);
 
 Система создает сообщение **WM \_ нклбуттондблклк** , когда пользователь нажимает, отпускает и снова нажимает левую кнопку мыши в пределах предельного времени двойного щелчка системы. Двойной щелчок левой кнопки мыши на самом деле приводит к созданию четырех сообщений: [**WM \_ нклбуттондовн**](wm-nclbuttondown.md), [**WM \_ Нклбуттонуп**](wm-nclbuttonup.md), **WM \_ нклбуттондблклк** и **WM \_ нклбуттонуп** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -119,7 +119,7 @@ yPos = GET_Y_LPARAM(lParam);
 [**WM \_ сискомманд**](/windows/desktop/menurc/wm-syscommand)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с помощью мыши](mouse-input.md)

@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Wiascr.dll
 ms.openlocfilehash: 69b34a97483a8a6ce231890454148c7948f63e4e
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122467181"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127262344"
 ---
 # <a name="deviceinfo-object"></a>Объект DeviceInfo
 
@@ -53,12 +53,12 @@ ms.locfileid: "122467181"
 
 
 
-| Свойство | Тип доступа | Описание | 
+| Свойство | Тип доступа | Описание: | 
 |----------|-------------|-------------|
 | <a href="-wia-iwiadeviceinfo-id.md"><strong>Удостоверения</strong></a><br /> | Только для чтения<br /> | Получает идентификатор аппаратного устройства WIA. <br /> | 
 | <a href="-wia-iwiadeviceinfo-manufacturer.md"><strong>Производителя</strong></a><br /> | Только для чтения<br /> | Извлекает имя производителя данного устройства.<br /> | 
 | <a href="-wia-iwiadeviceinfo-name.md"><strong>Имя</strong></a><br /> | Только для чтения<br /> | Имя аппаратного устройства WIA, отображаемое в пользовательском интерфейсе.<br /> | 
-| <a href="-wia-iwiadeviceinfo-port.md"><strong>Порт</strong></a><br /> | Только для чтения<br /> | Извлекает порт, к которому подключено аппаратное устройство WIA.<br /> | 
+| <a href="-wia-iwiadeviceinfo-port.md"><strong>Порту</strong></a><br /> | Только для чтения<br /> | Извлекает порт, к которому подключено аппаратное устройство WIA.<br /> | 
 | <a href="-wia-iwiadeviceinfo-type.md"><strong>Тип</strong></a><br /> | Только для чтения<br /> | Возвращает тип аппаратного устройства WIA. Возможны следующие значения: <br /><ul><li>дигиталкамера</li><li>Сканер</li><li>стреамингвидео</li><li>По умолчанию</li></ul> | 
 | <a href="-wia-iwiadeviceinfo-uiclsid.md"><strong>уиклсид</strong></a><br /> | Только для чтения<br /> | Получает идентификатор класса пользовательского интерфейса, предоставленного изготовителем для этого аппаратного устройства WIA. Значение представляет собой строковое представление GUID. <br /> | 
 

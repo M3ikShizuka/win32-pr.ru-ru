@@ -5,11 +5,11 @@ title: Свойство MFPKEY_MediaSource_DisableReadAhead (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: d06fe354431a24e15152268ba0ea6352e535c5e7
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105648746"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268912"
 ---
 # <a name="mfpkey_mediasource_disablereadahead-property"></a>МФПКЭЙ \_ медиасаурце \_ дисаблереадахеад, свойство
 
@@ -48,7 +48,7 @@ ms.locfileid: "105648746"
 | Требование | Значение |
 |-------------------|------------------------------------------------------------------------------------|
 | Клиент<br/> | Windows 7<br/>                                                               |
-| Header<br/> | <dl> <dt>Мфидл. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 

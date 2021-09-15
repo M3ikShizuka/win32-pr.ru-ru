@@ -4,12 +4,12 @@ ms.assetid: 97fd968a-6843-4695-aece-02f9acd618fd
 title: Атрибут MF_TRANSCODE_CONTAINERTYPE (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0c56b0332c43f10fa61b34f47191e3946a4813b3670249a8d858317067c38d52
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7f86b8d5890a771200feda265c3878b6eb7030b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119604694"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345155"
 ---
 # <a name="mf_transcode_containertype-attribute"></a>\_Атрибут контаинертипе для ПЕРЕКОДИРОВАНИЯ MF \_
 
@@ -47,7 +47,7 @@ ms.locfileid: "119604694"
 
 Чтобы задать этот атрибут, вызовите [**имфаттрибутес:: сетгуид**](/windows/desktop/api/mfobjects/nf-mfobjects-imfattributes-setguid).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут используется как для функции быстрого перекодирования, так и для объекта модуля записи приемника.
 
@@ -64,7 +64,7 @@ ms.locfileid: "119604694"
 
 Этот атрибут можно использовать для настройки типа контейнера файлов для модуля записи приемника. Дополнительные сведения см. в разделе [атрибуты модуля записи приемника](sink-writer-attributes.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ ms.locfileid: "119604694"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

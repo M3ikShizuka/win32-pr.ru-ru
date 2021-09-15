@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c7c09af44cb95f35854d4366c05d238423fcecaff7c9a10c3c55fadf6b51dd7f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5079549e70414f8237fd33a5e263dd8f17dcb9e3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118513815"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345286"
 ---
 # <a name="modf"></a>modf
 
@@ -38,7 +38,7 @@ ms.locfileid: "118513815"
 
 
 
-| Элемент                                                      | Описание                                    |
+| Элемент                                                      | Описание:                                    |
 |-----------------------------------------------------------|------------------------------------------------|
 | <span id="x"></span><span id="X"></span>*x*<br/>    | \[в \] входном значении x.<br/>           |
 | <span id="ip"></span><span id="IP"></span>*см*<br/> | \[\]вычислить целую часть *x*.<br/> |
@@ -80,7 +80,7 @@ ms.locfileid: "118513815"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -90,7 +90,7 @@ ms.locfileid: "118513815"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

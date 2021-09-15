@@ -4,12 +4,12 @@ ms.assetid: 2BCAA6F3-E08A-4387-BD48-038A7A3B1ADB
 title: Свойство CODECAPI_AVEncVideoContentType (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4170d4545a0435e06b81e3112a72fef0ced3030dfbecc91bad7e70607b412597
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 158a8344718f190ee100ae472353dc026db73fa4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119959114"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269304"
 ---
 # <a name="codecapi_avencvideocontenttype-property"></a>КОДЕКАПИ \_ авенквидеоконтенттипе, свойство
 
@@ -27,11 +27,11 @@ ms.locfileid: "119959114"
 
 Значение этого свойства является членом перечисления [**еавенквидеоконтенттипе**](/windows/win32/api/codecapi/ne-codecapi-eavencvideocontenttype) .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство является указанием кодировщика для оптимизации параметров кодирования.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ ms.locfileid: "119959114"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

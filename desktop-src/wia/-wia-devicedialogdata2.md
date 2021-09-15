@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Wiadefd.h
-ms.openlocfilehash: 800f7ceb102cafcad8ddda5204990706b908a4a0137a16143af76a90345b472e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 82ca6cba81101e577eed882ad45272ab81546fed
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119451194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127262347"
 ---
 # <a name="devicedialogdata2-structure"></a>Структура DEVICEDIALOGDATA2
 
@@ -43,7 +43,7 @@ typedef struct {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -80,7 +80,7 @@ typedef struct {
 
 
 
-| Флаг                                 | Значение                                                                                                                                                                                     |
+| Flag                                 | Значение                                                                                                                                                                                     |
 |--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 0                                    | Поведение по умолчанию.                                                                                                                                                                           |
 | \_ \_ \_ одиночное изображение диалогового окна WIA устройства \_   | Ограничить выбор изображения одним изображением в диалоговом окне "получение образа устройства".                                                                                                      |
@@ -158,7 +158,7 @@ typedef struct {
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -166,7 +166,7 @@ typedef struct {
 |-------------------------------------|--------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                       |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                 |
-| Header<br/>                   | <dl> <dt>Виадефд. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Виадефд. h</dt> </dl> |
 
 
 

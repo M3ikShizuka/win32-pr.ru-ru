@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: f9557b7937bc0426d0d0c2d8efc24ada968d047460c2d7b3c2f8b1c4c3abccff
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 0de10defd5e7aa840322599fb32104f1dc5bb5a3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119330294"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266355"
 ---
 # <a name="iamtimelineaddgroup-method"></a>Метод Иамтимелине:: AddGroup
 
@@ -68,7 +68,7 @@ HRESULT AddGroup(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сейчас шкала времени поддерживает не более 32 групп.
 
@@ -82,7 +82,7 @@ HRESULT AddGroup(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Scanprofiles.idl
-ms.openlocfilehash: 1de80ac23ffa3e2687e2e6d0449f7a273067d5899204c479f9b62e8571190d61
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2e02352eef16a9b899e4c635f11c5d10b3ab5113
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119450834"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345503"
 ---
 # <a name="iscanprofile-interface"></a>Интерфейс Исканпрофиле
 

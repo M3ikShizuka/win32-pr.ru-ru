@@ -4,12 +4,12 @@ description: Порт 3 устарел для драйверов NDIS 6,30
 ms.assetid: 900BD08D-3EAF-43F3-A74A-359815474FAD
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 47d51c8b4b894c6edaa8b1ca6b1f99e881c67e025cf83dc86d4c1dfc509c4bd2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: df0b4c7f6a33b179a14d3d7f8151d3850e16dd44
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117671937"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345522"
 ---
 # <a name="port-3-is-deprecated-for-ndis-630-drivers"></a>Порт 3 устарел для драйверов NDIS 6,30
 

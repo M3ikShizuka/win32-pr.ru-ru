@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Wiascr.dll
-ms.openlocfilehash: b9828fddf5630bfa1513fdb7913087054ad2c2c533468d69ca9b1b63e79b0341
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 16b4b4a259bf4e1c77fde592c5668f8584b28ecd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118208350"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345495"
 ---
 # <a name="itemheight-property"></a>Свойство Item. Height
 

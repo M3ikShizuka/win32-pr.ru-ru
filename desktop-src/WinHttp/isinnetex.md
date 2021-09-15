@@ -12,12 +12,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 3a91555370bada5c4bb9257918d0920ac71ac5475c08201f30bf1fbbb4b95c1b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d738fbf5788fbe56d8c801b6c5256e96e8d4a6f2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118114467"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345354"
 ---
 # <a name="isinnetex-function"></a>Функция Исиннетекс
 
@@ -64,7 +64,7 @@ isInNetEx(host, "3ffe:8311:ffff::/48");
     true if the IP address of the host matches 3ffe:8311:fff:*:*:*:*:*
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 1f9fbc76fe65e1f1136fb44d22db36500c4d8870f97befa8e36fa08a108ada71
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: be5ca9b8319eeddf777cbf0071c1930f21524369
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119697624"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266560"
 ---
 # <a name="cfactorytemplate-class"></a>Класс Кфакторитемплате
 
@@ -35,14 +35,14 @@ ms.locfileid: "119697624"
 
 
 
-| Открытые переменные члена                                                   | Описание                                                                |
+| Открытые переменные члена                                                   | Описание:                                                                |
 |---------------------------------------------------------------------------|----------------------------------------------------------------------------|
 | [**\_имя m**](cfactorytemplate-m-name.md)                                | Имя фильтра.                                                        |
 | [**m \_ CLSID**](cfactorytemplate-m-clsid.md)                              | Указатель на идентификатор CLSID объекта.                                        |
 | [**m \_ лпфннев**](cfactorytemplate-m-lpfnnew.md)                          | Указатель на функцию, которая создает экземпляр объекта.              |
 | [**m \_ лпфнинит**](cfactorytemplate-m-lpfninit.md)                        | Указатель на функцию, которая вызывается из точки входа библиотеки DLL.           |
 | [**m \_ памовиесетуп \_ Фильтр**](cfactorytemplate-m-pamoviesetup-filter.md) | Указатель на структуру [**\_ фильтра амовиесетуп**](amoviesetup-filter.md) . |
-| Открытые методы                                                            | Описание                                                                |
+| Открытые методы                                                            | Описание:                                                                |
 | [**Идентификатор класса**](cfactorytemplate-isclassid.md)                           | Определяет, соответствует ли CLSID этому шаблону класса.                    |
 | [**CreateInstance**](cfactorytemplate-createinstance.md)                 | Вызывает функцию создания объекта для класса.                          |
 
@@ -50,7 +50,7 @@ ms.locfileid: "119697624"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ ms.locfileid: "119697624"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

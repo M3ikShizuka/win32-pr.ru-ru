@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2e5c8c15df5e741c02bf3c47ecac8b3f57d4adddfeeb41cb6a71cf418b600006
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3e5e05b6552e5e6a922cf02037a0bfc4956bfc28
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117745942"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264712"
 ---
 # <a name="iwmpnetworkgetproxyname-method"></a>Метод Ивмпнетворк:: Жетпроксинаме
 
@@ -64,7 +64,7 @@ Implements IWMPNetwork.getProxyName
 
 **Строка System. String** , которая является именем используемого прокси-сервера. Значение имеет смысл только в том случае, если **ивмпнетворк. жетпроксисеттингс** возвращает значение 2 (использовать параметры вручную).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод завершается ошибкой, если вызывающее приложение не выполняется на локальном компьютере или в интрасети.
 

@@ -4,12 +4,12 @@ ms.assetid: 6cd04d9a-5489-4fde-951e-aa962e9bd755
 title: Таблица Модулеинсталлексекутесекуенце
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6659c8223e41307766d67a4a5138699b46e03fbf3d50b514cb452bdc870c009c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8d294ddfdf06028bf18d518e1086d37a0719f8c8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120042855"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261139"
 ---
 # <a name="moduleinstallexecutesequence-table"></a>Таблица Модулеинсталлексекутесекуенце
 
@@ -21,11 +21,11 @@ ms.locfileid: "120042855"
 
 | Столбец     | Type                         | Ключ | Допускает значения NULL |
 |------------|------------------------------|-----|----------|
-| Действие     | [Идентификатор](identifier.md) | Д   | Нет        |
-| Последовательность   | [Integer](integer.md)       |     | Д        |
-| басеактион | [Идентификатор](identifier.md) |     | Д        |
-| После      | [Integer](integer.md)       |     | Д        |
-| Условие  | [Condition](condition.md)   |     | Д        |
+| Действие     | [Идентификатор](identifier.md) | Да   | Нет        |
+| Последовательность   | [Integer](integer.md)       |     | Да        |
+| басеактион | [Идентификатор](identifier.md) |     | Да        |
+| После      | [Integer](integer.md)       |     | Да        |
+| Условие  | [Condition](condition.md)   |     | Да        |
 
 
 
@@ -85,7 +85,7 @@ ms.locfileid: "120042855"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если [Таблица модулеинсталлексекутесекуенце](installexecutesequence-table.md) имеется, [Таблица инсталлексекутесекуенце](installexecutesequence-table.md) также должна присутствовать в модуле слияния.
 

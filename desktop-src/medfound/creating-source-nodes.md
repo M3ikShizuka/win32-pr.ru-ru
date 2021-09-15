@@ -4,12 +4,12 @@ ms.assetid: 44c26bcd-04a9-48c3-b536-25c2b18c34c1
 title: Создание исходных узлов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2358ca9ee0e5f3e114df8775108f8cdfeb8eeae2e3aeb35bccb66118118e4deb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e9b1e882dd6f8e9345244b56eace332c2fad4bc3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118064593"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345678"
 ---
 # <a name="creating-source-nodes"></a>Создание исходных узлов
 
@@ -82,7 +82,7 @@ done:
 
 
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

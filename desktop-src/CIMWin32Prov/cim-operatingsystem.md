@@ -42,11 +42,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: fbdec7fce68231b59d1b2be3cea1c265e9daddea
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122887108"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261800"
 ---
 # <a name="cim_operatingsystem-class"></a>\_Класс операционной системы CIM
 
@@ -95,7 +95,7 @@ class CIM_OperatingSystem : CIM_LogicalElement
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ операционной системы CIM** имеет следующие типы членов:
 
@@ -110,7 +110,7 @@ class CIM_OperatingSystem : CIM_LogicalElement
 
 | Метод                                                           | Описание                                                                                                                            |
 |:-----------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|
-| [**Выполните перезагрузку.**](reboot-method-in-class-cim-operatingsystem.md)     | Метод класса, который завершает работу системы компьютера и перезапускает его. Не реализовано инструментарием WMI.<br/>                                 |
+| [**Перезагрузка**](reboot-method-in-class-cim-operatingsystem.md)     | Метод класса, который завершает работу системы компьютера и перезапускает его. Не реализовано инструментарием WMI.<br/>                                 |
 | [**Закрытия**](shutdown-method-in-class-cim-operatingsystem.md) | Метод класса, который выгружает программы и библиотеки DLL до точки, в которой можно отключить компьютер. Не реализовано инструментарием WMI.<br/> |
 
 
@@ -223,7 +223,7 @@ class CIM_OperatingSystem : CIM_LogicalElement
 
 </dd> <dt>
 
-**Распределяемый**
+**Распределенные**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **логический**
@@ -1159,7 +1159,7 @@ Mac OS 9
 
 </dd> <dt>
 
-**Version**
+**Версия**
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**

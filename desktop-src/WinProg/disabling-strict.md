@@ -4,12 +4,12 @@ description: Чтобы отключить проверку СТРОГОго т�
 ms.assetid: 57b01d2e-1f64-4ac0-b4f0-624c241899d7
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 078361b5cc3fd4916ac2ab4f7207752e869568b8781c9ef3dd8e38427d252592
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 62bfdfef2aa7988576aa4c1e17f002639de98121
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117743660"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345342"
 ---
 # <a name="disabling-strict"></a>Отключение
 

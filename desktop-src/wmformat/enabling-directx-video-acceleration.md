@@ -18,18 +18,18 @@ keywords:
 - ДКСВА (ускорение видео DirectX), порядок операций
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 840549c9a148fdfe8cc67daf46645ffb0925369057fe71f0c17217bfd36823ee
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 896147fe11b4b7f5fb91d8dc288e616b643bd5ce
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119930767"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127262192"
 ---
 # <a name="enabling-directx-video-acceleration"></a>Включение ускорения видео DirectX
 
 В этом разделе описано, как включить ускорение видео Microsoft® DirectX® при воспроизведении потокового содержимого в пользовательском проигрывателе.
 
-## <a name="background"></a>Историческая справка
+## <a name="background"></a>Фон
 
 DirectX-ускорение видео (DirectX ва) — это спецификация API для аппаратного ускорения операций декодирования. Он позволяет программным декодерам разгружать определенные ресурсоемкие операции на графическую карту для обработки. Для конечных пользователей это может быть высокоскоростным видео, например воспроизведением полноэкранных DVD-дисков на старых компьютерах, оснащенных графическими картами, совместимыми с DirectX.
 

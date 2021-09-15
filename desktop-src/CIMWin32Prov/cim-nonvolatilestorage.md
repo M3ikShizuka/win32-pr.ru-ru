@@ -53,12 +53,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 8df8461aad42bfa1e1107a18f99f5a33c85967d52fe1eea9c22e924604be20ae
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fca29f0b279994dc0b844127fd1925850094da8e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119820964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261824"
 ---
 # <a name="cim_nonvolatilestorage-class"></a>\_Класс CIM нонволатилестораже
 
@@ -119,7 +119,7 @@ class CIM_NonVolatileStorage : CIM_Memory
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **CIM \_ нонволатилестораже** имеет следующие типы членов:
 
@@ -1374,7 +1374,7 @@ Windows все еще настраивает устройство.
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -1803,7 +1803,7 @@ Windows Самонастраивающийся идентификатор уст
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **CIM \_ нонволатилестораже** является производным от [**\_ памяти CIM**](cim-memory.md).
 
@@ -1811,7 +1811,7 @@ Windows Самонастраивающийся идентификатор уст
 
 Эта документация является производной от описаний класса CIM, опубликованных в формате DMTF. Корпорация Майкрософт могла внести изменения в Исправление незначительных ошибок, соответствовать стандартам документации пакета Microsoft SDK или предоставить дополнительные сведения.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -1825,7 +1825,7 @@ Windows Самонастраивающийся идентификатор уст
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

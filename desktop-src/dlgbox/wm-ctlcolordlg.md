@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a5b7ab11bbb2cfd402888f930d5bcf2afa08b7ba83f74252fb3e443fd9e9309a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 833d3894a85342b0f26323ceed0f4fb3356c48ae
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118503417"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345262"
 ---
 # <a name="wm_ctlcolordlg-message"></a>\_Сообщение КТЛКОЛОРДЛГ WM
 
@@ -54,7 +54,7 @@ ms.locfileid: "118503417"
 
 Если приложение обрабатывает это сообщение, оно должно возвращать маркер кисти. Система использует кисть для рисования фона диалогового окна.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 По умолчанию функция [**дефвиндовпрок**](/windows/desktop/api/winuser/nf-winuser-defwindowproca) выбирает системные цвета по умолчанию для диалогового окна.
 
@@ -91,7 +91,7 @@ ms.locfileid: "118503417"
 [**SetWindowLong**](/windows/desktop/api/winuser/nf-winuser-setwindowlonga)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Диалоговые окна](dialog-boxes.md)

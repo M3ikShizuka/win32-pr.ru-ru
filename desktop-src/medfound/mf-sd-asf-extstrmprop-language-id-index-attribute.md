@@ -4,12 +4,12 @@ ms.assetid: 834cac0a-0c84-49aa-baf2-32bae26e215b
 title: Атрибут MF_SD_ASF_EXTSTRMPROP_LANGUAGE_ID_INDEX (Вмконтаинер. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 87f77b53a4156cf21a23680618da010db781e0c7c75d7d4decb2f9e1136c5dbb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2afcf2388d2c0641aede4ff0eaccac9178207fb3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118474072"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269080"
 ---
 # <a name="mf_sd_asf_extstrmprop_language_id_index-attribute"></a>\_Индекс MF SD \_ ASF \_ екстстрмпроп \_ Language \_ ID \_ атрибут
 
@@ -19,7 +19,7 @@ ms.locfileid: "118474072"
 
 **UINT32**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут применяется к дескрипторам потоков для содержимого ASF. Это значение является индексом в списке языков, который содержится в атрибуте [**\_ \_ \_ ланглист MF PD ASF**](mf-pd-asf-langlist-attribute.md) .
 
@@ -37,7 +37,7 @@ ms.locfileid: "118474072"
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                     |
-| Header<br/>                   | <dl> <dt>Вмконтаинер. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Вмконтаинер. h</dt> </dl> |
 
 
 

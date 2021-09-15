@@ -4,12 +4,12 @@ ms.assetid: 2675ef16-2018-47e8-bb22-2fc0d62e6681
 title: Атрибут MF_TOPOLOGY_ENUMERATE_SOURCE_TYPES (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4cc9ff7cf9e1497f0d15f68e68c254483f0c9f074e2ce4204e9d77d84aee4ea8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 015042bbf9994f81058c621239224196e6ec9ac8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117691300"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345163"
 ---
 # <a name="mf_topology_enumerate_source_types-attribute"></a>\_ \_ Перечисление \_ типа источника для топологии \_ MF
 
@@ -42,7 +42,7 @@ ms.locfileid: "117691300"
 
 [**имфтопологи**](/windows/desktop/api/mfidl/nn-mfidl-imftopology)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Каждый поток в источнике мультимедиа может предлагать более одного типа мультимедиа. Список типов перечисляется через интерфейс [**имфмедиатипехандлер**](/windows/desktop/api/mfidl/nn-mfidl-imfmediatypehandler) в дескрипторе потока.
 

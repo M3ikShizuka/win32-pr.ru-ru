@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1d35c6f54679389b411417e5539382fd322c0873e6dba87fc90efb93b8be7ba1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b6a588ebff7c8e56bb559a2cc9faa1d6290fbd8f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118503427"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345263"
 ---
 # <a name="wm_choosefont_setlogfont-message"></a>\_Сообщение WM CHOOSEFONT \_ сетлогфонт
 
@@ -55,7 +55,7 @@ ms.locfileid: "118503427"
 
 Это сообщение не имеет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При вызове функции [**ChooseFont**](/windows/win32/api/commdlg/ns-commdlg-choosefonta) для создания диалогового окна **шрифта** можно использовать элемент **лплогфонт** структуры [**ChooseFont**](/windows/win32/api/commdlg/ns-commdlg-choosefonta) , чтобы указать структуру [**LOGFONT**](/windows/win32/api/wingdi/ns-wingdi-logfonta) , содержащую начальные значения для диалогового окна. Используйте сообщение **WM \_ CHOOSEFONT \_ сетлогфонт** , чтобы указать структуру **LOGFONT** с разными значениями, пока открыто диалоговое окно **Шрифт** .
 
@@ -95,7 +95,7 @@ ms.locfileid: "118503427"
 [**WM \_ CHOOSEFONT \_ сетфлагс**](wm-choosefont-setflags.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Библиотека общих диалоговых окон](common-dialog-box-library.md)

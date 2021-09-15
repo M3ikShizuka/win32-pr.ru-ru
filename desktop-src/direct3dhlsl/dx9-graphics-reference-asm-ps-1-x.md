@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 3e10e4eee48490e7ae998e39d71265aef74339c1979112e2fcf0e47e5b07cda7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 761721a4de64e8a9168bcfea49ce7adf567ea7ef
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118512945"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127264104"
 ---
 # <a name="ps_1_1-ps_1_2-ps_1_3-ps_1_4"></a>PS \_ 1 \_ 1, PS \_ 1 \_ 2, PS \_ 1 \_ 3, PS \_ 1 \_ 4
 
@@ -25,7 +25,7 @@ ms.locfileid: "118512945"
 
  
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 Существуют две основные категории инструкций шейдера пикселей: арифметические инструкции и инструкции по адресации текстур. Арифметические инструкции изменяют данные цвета. Операции адресации текстур обрабатывают данные координат текстуры и в большинстве случаев представляют собой образец текстуры. Инструкции шейдера пикселей выполняются на пиксельном уровне; то есть у них нет сведений о других пикселях в конвейере.
 

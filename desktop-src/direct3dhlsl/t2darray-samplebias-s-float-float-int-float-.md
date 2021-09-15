@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 39acbe329effb206b26685ac150ed8a5a8d310fc7698b2c4508e78b9ed7ed0c3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ae1f5ca8816763ef43f0687312bdf61bbeca9725
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119276344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270160"
 ---
 # <a name="samplebiassamplebiassfloatfloatintfloat-function-for-texture2darray"></a>Функция Самплебиас:: Самплебиас (S, float, float, int, float) для Texture2DArray
 

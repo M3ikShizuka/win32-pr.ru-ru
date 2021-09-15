@@ -1,6 +1,6 @@
 ---
 title: Асинхронная модель
-description: Большинство операций в API веб-служб Windows можно выполнять синхронно или асинхронно.
+description: большинство операций в Windows API веб-служб можно выполнять синхронно или асинхронно.
 ms.assetid: d0b3f154-2219-4085-a652-e9aeb126598c
 keywords:
 - Веб-службы асинхронной модели для Windows
@@ -9,17 +9,17 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: c0c5e38dfbc0bc2ed397949da86f9a572a5b1ed5
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "105700583"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345411"
 ---
 # <a name="asynchronous-model"></a>Асинхронная модель
 
-Большинство операций в API веб-служб Windows можно выполнять синхронно или асинхронно. Для синхронного вызова функции передайте значение NULL для структуры [**\_ \_ контекста WS Async**](/windows/desktop/api/WebServices/ns-webservices-ws_async_context) . Чтобы указать, что функция может выполняться асинхронно, передайте в функцию **\_ \_ контекст WS Async** , отличный от NULL.
+большинство операций в Windows API веб-служб можно выполнять синхронно или асинхронно. Для синхронного вызова функции передайте значение NULL для структуры [**\_ \_ контекста WS Async**](/windows/desktop/api/WebServices/ns-webservices-ws_async_context) . Чтобы указать, что функция может выполняться асинхронно, передайте в функцию **\_ \_ контекст WS Async** , отличный от NULL.
 
-При асинхронном вызове функция может выполняться синхронно или асинхронно. Если функция завершается синхронно, она возвращает значение, указывающее на завершение или ошибку, и это значение всегда равно значению, отличному от **WS \_ S \_** (см. раздел [возвращаемые значения веб-служб Windows](windows-web-services-return-values.md)). Однако возвращаемое значение **WS \_ S \_ Async** указывает, что функция будет асинхронно завершена. Когда функция завершается асинхронно, вызывается обратный вызов, чтобы сообщить о завершении операции. Этот обратный вызов указывает на окончательное значение успеха или ошибки. Обратный вызов не вызывается, если операция завершается синхронно.
+При асинхронном вызове функция может выполняться синхронно или асинхронно. если функция завершается синхронно, она возвращает значение, указывающее на завершение или ошибку, и это значение всегда равно значению, отличному от **WS \_ S \_** (см. статью [Windows возвращаемые значения веб-служб](windows-web-services-return-values.md)). Однако возвращаемое значение **WS \_ S \_ Async** указывает, что функция будет асинхронно завершена. Когда функция завершается асинхронно, вызывается обратный вызов, чтобы сообщить о завершении операции. Этот обратный вызов указывает на окончательное значение успеха или ошибки. Обратный вызов не вызывается, если операция завершается синхронно.
 
 Чтобы создать асинхронный контекст, инициализируйте поля **обратного вызова** и **Каллбаккстате** структуры [**\_ \_ контекста WS Async**](/windows/desktop/api/WebServices/ns-webservices-ws_async_context) . Поле **каллбаккстате** используется для указания указателя на определяемые пользователем данные, которые передаются в функцию [**\_ асинхронного \_ обратного вызова WS**](/windows/desktop/api/WebServices/nc-webservices-ws_async_callback) .
 
@@ -79,7 +79,7 @@ void CALLBACK MyCallback(HRESULT hr, WS_CALLBACK_MODEL callbackModel, void* call
 
 
 
- 
+ 
 
 
 
@@ -89,7 +89,7 @@ void CALLBACK MyCallback(HRESULT hr, WS_CALLBACK_MODEL callbackModel, void* call
 
 
 
- 
+ 
 
 
 
@@ -99,7 +99,7 @@ void CALLBACK MyCallback(HRESULT hr, WS_CALLBACK_MODEL callbackModel, void* call
 
 
 
- 
+ 
 
 
 
@@ -111,9 +111,9 @@ void CALLBACK MyCallback(HRESULT hr, WS_CALLBACK_MODEL callbackModel, void* call
 
 
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
@@ -132,9 +132,9 @@ void CALLBACK MyCallback(HRESULT hr, WS_CALLBACK_MODEL callbackModel, void* call
 [**всасинцексекуте**](/windows/desktop/api/WebServices/nf-webservices-wsasyncexecute)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

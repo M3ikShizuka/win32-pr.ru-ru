@@ -4,12 +4,12 @@ ms.assetid: e6cf8008-b896-453b-9946-a6b3d94a991a
 title: Событие WPCEVENT_CUSTOM (Впцевент. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e8082e03aa6dfea8cd2fd461feec093de71a1ada8051b8fb88295d0bbbf570b2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7d20cb2450cd18bb0c77993622d226cfc06dff6c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119951554"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127268432"
 ---
 # <a name="wpcevent_custom-event"></a>\_Пользовательское событие впцевент
 
@@ -17,7 +17,7 @@ ms.locfileid: "119951554"
 
 События отображаются в **средстве просмотра действий** в **другом** разделе со следующей иерархией:
 
-1.  Издатель
+1.  Publisher
 
 2.  Приложение
 
@@ -97,7 +97,7 @@ const EVENT_DESCRIPTOR WPCEVENT_CUSTOM = {0xd, 0x0, 0x10, 0x4, 0x17, 0xd, 0x8000
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -109,7 +109,7 @@ const EVENT_DESCRIPTOR WPCEVENT_CUSTOM = {0xd, 0x0, 0x10, 0x4, 0x17, 0xd, 0x8000
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

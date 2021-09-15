@@ -4,12 +4,12 @@ ms.assetid: ce21ca0f-157c-4f69-bcf9-dc259c3bac80
 title: Инициализация обработчиков расширений оболочки
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 82f83a47400cff5d0fa4628f6f6f9d9ba74b158947c7843f61831d54f62c7a6f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d6a27b6273c5e342dc4caf545fb3593cdad66261
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119661224"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127267867"
 ---
 # <a name="initializing-shell-extension-handlers"></a>Инициализация обработчиков расширений оболочки
 
@@ -207,8 +207,8 @@ HKEY_CLASSES_ROOT
 | Имя свойства    | Описание                   | Получено из                                                                            |
 |------------------|-------------------------------|-------------------------------------------------------------------------------------------|
 | Автор           | Автор документа        | [**\_Автор пидси**](../stg/the-summary-information-property-set.md)                             |
-| Название            | Название документа         | [**\_заголовок пидси**](../stg/the-summary-information-property-set.md)                              |
-| Тема          | Сводка по теме               | [**\_Тема пидси**](../stg/the-summary-information-property-set.md)                            |
+| Заголовок            | Название документа         | [**\_заголовок пидси**](../stg/the-summary-information-property-set.md)                              |
+| Субъект          | Сводка по теме               | [**\_Тема пидси**](../stg/the-summary-information-property-set.md)                            |
 | Комментировать          | Комментарии к документу             | [**Пидси \_ Свойства комментария**](../stg/the-summary-information-property-set.md) или папки/диска |
 | PageCount        | Количество страниц               | [**ПИДСИ \_ PAGECOUNT**](../stg/the-summary-information-property-set.md)                          |
 | Имя             | Понятное имя                 | Стандартное представление папки                                                                      |
@@ -221,11 +221,11 @@ HKEY_CLASSES_ROOT
 | Создание          | Дата создания                  | Представление сведений о стандартной папке                                                              |
 | Обращения         | Дата последнего доступа            | Представление сведений о стандартной папке                                                              |
 | Папка         | Каталог, содержащий файл | Результаты поиска документов                                                                   |
-| Рейтинг             | Соответствие качества поиска       | Результаты поиска документов                                                                   |
+| Ранг             | Соответствие качества поиска       | Результаты поиска документов                                                                   |
 | FreeSpace        | Доступное дисковое пространство       | Диски                                                                               |
 | NumberOfVisits   | Количество посещений              | Папка "Избранное"                                                                          |
 | Атрибуты       | Атрибуты файла               | Представление сведений о стандартной папке                                                              |
-| Company          | Название компании                  | [**\_компания пиддси**](../stg/the-documentsummaryinformation-and-userdefined-property-sets.md)   |
+| Company          | Название организации                  | [**\_компания пиддси**](../stg/the-documentsummaryinformation-and-userdefined-property-sets.md)   |
 | Категория         | Категория документа             | [**\_Категория пиддси**](../stg/the-documentsummaryinformation-and-userdefined-property-sets.md)  |
 | Copyright        | Авторские права на мультимедиа               | [**ПИДМСИ \_ авторские права**](../stg/the-documentsummaryinformation-and-userdefined-property-sets.md) |
 | хтмлинфотипфиле  | Файл всплывающей подсказки HTML             | Файл Desktop.ini для папки                                                               |

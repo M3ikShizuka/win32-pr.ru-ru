@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5f606c668e20ef12ba4d1272cb7f8bd1e6060af18c78738801e4ea17ea29b6de
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 81692071b7886fa3e3096d785bccf80c7eff937a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118514105"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345295"
 ---
 # <a name="log2"></a>log2
 
@@ -38,7 +38,7 @@ ms.locfileid: "118514105"
 
 
 
-| Элемент                                                   | Описание                            |
+| Элемент                                                   | Описание:                            |
 |--------------------------------------------------------|----------------------------------------|
 | <span id="x"></span><span id="X"></span>*x*<br/> | \[в \] указанном значении.<br/> |
 
@@ -78,7 +78,7 @@ ms.locfileid: "118514105"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -88,7 +88,7 @@ ms.locfileid: "118514105"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

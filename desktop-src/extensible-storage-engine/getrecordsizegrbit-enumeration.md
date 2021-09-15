@@ -32,12 +32,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 9c0e9d6996db09b9b3cc2b6266a299c696b616ec5189c29eab0aa5197eca80fb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ee95d29ed1913993aa37062137807bf8d635eecc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118077582"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127269832"
 ---
 # <a name="getrecordsizegrbit-enumeration"></a>Перечисление Жетрекордсизегрбит
 
@@ -63,7 +63,7 @@ Dim instance As GetRecordSizeGrbit
 public enum GetRecordSizeGrbit
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <table>
 <thead>
@@ -91,14 +91,14 @@ public enum GetRecordSizeGrbit
 </tr>
 <tr class="even">
 <td></td>
-<td>Локальные</td>
+<td>Локальная</td>
 <td>Пропускать невнутренние значения long. Будет использоваться только локальная запись на странице.</td>
 </tr>
 </tbody>
 </table>
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

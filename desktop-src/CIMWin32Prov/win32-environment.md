@@ -23,11 +23,11 @@ api_type:
 api_location:
 - CIMWin32.dll
 ms.openlocfilehash: 18a85af664a4be8ef96b1882477e2fadec0f0b1a
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122882276"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127261640"
 ---
 # <a name="win32_environment-class"></a>\_Класс среды Win32
 
@@ -58,7 +58,7 @@ class Win32_Environment : CIM_SystemResource
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ среды Win32** имеет следующие типы членов:
 

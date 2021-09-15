@@ -10,11 +10,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: e7ed9941fe37cd0e3ea8cad309d4b6a34d9104a7
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "105691638"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270088"
 ---
 # <a name="effect-compiler-tool"></a>Инструмент Effect-Compiler
 
@@ -35,7 +35,7 @@ FXC (fxc.exe) — это автономное средство для компи
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

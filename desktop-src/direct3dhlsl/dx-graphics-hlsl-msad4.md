@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: be09292cad1181c9bac84a4ecb5346b01b0a58c73e2e545d7386658ac54a1f11
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 552db3afd07677777b47e939d659c0f6e333e496
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119120118"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345283"
 ---
 # <a name="msad4"></a>msad4
 
@@ -62,7 +62,7 @@ ms.locfileid: "119120118"
 
 Вектор из 4 сумм. Каждая сумма соответствует маскированной сумме абсолютных различий между значением ссылки и исходным значением. **msad4** не содержит разницы в сумме, если это различие замаскировано (то есть ссылочный байт равен 0).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы использовать встроенную функцию **msad4** в коде шейдера, вызовите метод [**ID3D11Device:: чеккфеатуресуппорт**](/windows/desktop/api/d3d11/nf-d3d11-id3d11device-checkfeaturesupport) с [**\_ \_ \_ параметром D3D11 Feature D3D11**](/windows/desktop/api/d3d11/ne-d3d11-d3d11_feature) , чтобы убедиться, что устройство Direct3D поддерживает параметр [**SAD4ShaderInstructions**](/windows/desktop/api/d3d11/ns-d3d11-d3d11_feature_data_d3d11_options) . Для встроенной функции **msad4** требуется драйвер дисплея WDDM 1,2, а все драйверы дисплея WDDM 1,2 должны поддерживать **msad4**. Если приложение создает устройство отрисовки с [уровнем функций](/windows/desktop/direct3d11/overviews-direct3d-11-devices-downlevel-intro) 11,0 или 11,1, а целью компиляции является модель шейдера 5 или более поздней версии, исходный код HLSL может использовать встроенную функцию **msad4** .
 
@@ -76,7 +76,7 @@ ms.locfileid: "119120118"
 
 | Модель шейдера                                                | Поддерживается |
 |-------------------------------------------------------------|-----------|
-| [Модель шейдера 5 или более поздней версии](d3d11-graphics-reference-sm5.md) | Да       |
+| [Модель шейдера 5 или более поздней версии](d3d11-graphics-reference-sm5.md) | yes       |
 
 
 

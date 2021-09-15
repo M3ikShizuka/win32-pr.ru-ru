@@ -4,12 +4,12 @@ ms.assetid: eb9e5330-fd89-4bca-ae8c-62985f9b2373
 title: Свойство MFPKEY_RESIZE_MINAPX (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cb57c2ec8828c9efff0d321d68c5099a1809e49ae26539a131e287a40e4f2644
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0b3325730bdd77d192abf79ed60e70a22363c398
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119953554"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345635"
 ---
 # <a name="mfpkey_resize_minapx-property"></a>МФПКЭЙ \_ изменить размер \_ минапкс
 
@@ -31,7 +31,7 @@ VT \_ I4
 
 Значение является вещественным числом с фиксированной запятой. Целая часть числа хранится в более высоком 2 байтах, а дробная часть хранится в младших 2 байтах.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ VT \_ I4
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

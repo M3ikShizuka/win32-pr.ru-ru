@@ -14,12 +14,12 @@ api_type:
 api_location:
 - strmiids.lib
 - strmiids.dll
-ms.openlocfilehash: 36eb27060165eae014902d02243b95e35d8b75716cacf4c9a412f62995029749
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 189f0fed57d67d7632d07839ee82dd13494eb418
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120102724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127266368"
 ---
 # <a name="iamseterrorlogput_errorlog-method"></a>Иамсетеррорлог: метод:p UT \_ ErrorLog
 
@@ -56,7 +56,7 @@ HRESULT put_ErrorLog(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Файл заголовка Кедит. h несовместим с заголовками Direct3D позднее версии 7.
@@ -79,7 +79,7 @@ HRESULT put_ErrorLog(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

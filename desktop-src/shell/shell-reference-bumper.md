@@ -9,12 +9,12 @@ api_type: ''
 api_location: ''
 topic_type:
 - kbArticle
-ms.openlocfilehash: 18a80060bc935ac1671f0a10de87c56506587cfb70ec63f57a09683446b8aee7
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b3b9ab1fa1b9e2568c4c731ce89599654eec3158
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120090154"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345543"
 ---
 # <a name="shell-reference"></a>Справочник по оболочке
 
