@@ -4,12 +4,12 @@ ms.assetid: af2a2b75-cd4e-453c-876e-3be2db695e4e
 title: Атрибут MF_EVENT_SOURCE_CHARACTERISTICS (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d5a9b72adaa5869d806ab0a3c8afcddff7892f93872e86aa6dfe96bde1b8348b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7b8c775c0d3471d3d3442e565879ba8b42e07a61
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119956594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462151"
 ---
 # <a name="mf_event_source_characteristics-attribute"></a>\_ \_ Атрибут характеристик источника события MF \_
 

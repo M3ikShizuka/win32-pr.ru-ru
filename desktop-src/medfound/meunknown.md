@@ -4,12 +4,12 @@ ms.assetid: 786b69f4-8713-41db-829a-c13512baa3f1
 title: Событие Меункновн (Мфобжектс. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5abfd3d0616b435d3e31eb6c08a38fbee41377a493b21ad0494bdd2d367fc93f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a768fde2939b7e32ed8d1007d2988c2e54cc6726
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119715002"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462198"
 ---
 # <a name="meunknown-event"></a>Событие Меункновн
 

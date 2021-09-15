@@ -4,12 +4,12 @@ description: Масштабирование Mixed-Mode DPI и API с подде�
 ms.assetid: 44AC0B29-3283-4801-90F5-3E78CCD87B9F
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fb32de01390f2794b5714bdca5465a5997121c270ded9c170e0b0171fd972542
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d6f5b16e4c438cfe1f0d04e61524899e213b25ea
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119036230"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462239"
 ---
 # <a name="mixed-mode-dpi-scaling-and-dpi-aware-apis"></a>Масштабирование Mixed-Mode DPI и API с поддержкой DPI
 

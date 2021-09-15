@@ -4,12 +4,12 @@ ms.assetid: D2CD976F-1F07-4864-8CEC-1AA8E1D9ED45
 title: Атрибут MF_MEDIA_ENGINE_STREAM_CONTAINS_ALPHA_CHANNEL
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2ac4e4aab29874d95087a9678d0ae106ace10e7f2264261a2120076c3f38faad
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 43b13d93947ee2a5f811ed8099de193333ea3708
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119956024"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462132"
 ---
 # <a name="mf_media_engine_stream_contains_alpha_channel-attribute"></a>\_Поток мультимедиа- \_ обработчика MF \_ \_ содержит \_ атрибут альфа- \_ канала
 

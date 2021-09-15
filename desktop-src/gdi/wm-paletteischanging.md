@@ -4,12 +4,12 @@ ms.assetid: 64ec1042-0ab5-496f-9a88-2f293b412704
 title: Сообщение WM_PALETTEISCHANGING (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7b0de17e7957e4b03c0a8fb942e7c0e4f94a3329e53cb039ce1d7f0a8c33aa89
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fa2127dc9c682bba1fc4cea4e10b2b96ecc92102
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119717684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462267"
 ---
 # <a name="wm_paletteischanging-message"></a>\_Сообщение ПАЛЕТТЕИСЧАНГИНГ WM
 

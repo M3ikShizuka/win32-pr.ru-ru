@@ -4,12 +4,12 @@ ms.assetid: 4c27e2ec-624a-4b1f-bea9-3aaad1534c9b
 title: Атрибут MF_MP2DLNA_USE_MMCSS (Mfmp2dlna. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 79e824451be89bf4aca485edd2c61ce381f0cf4e0a9d5eefff82bf6c99cef2eb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ccfdaf36ce51f1158e110dcb3682a5b072c060dc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119104760"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462121"
 ---
 # <a name="mf_mp2dlna_use_mmcss-attribute"></a>MF \_ MP2DLNA \_ использовать \_ атрибут MMCSS
 
@@ -39,7 +39,7 @@ ms.locfileid: "119104760"
 |-------------------------------------|----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                             |
 | Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/>                                |
-| Header<br/>                   | <dl> <dt>Mfmp2dlna. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Mfmp2dlna. h</dt> </dl> |
 
 
 

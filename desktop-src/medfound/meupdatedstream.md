@@ -4,12 +4,12 @@ ms.assetid: 2d91a267-e109-45f5-886b-11b883cc5509
 title: Событие Меупдатедстреам (Мфобжектс. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5746b619f885ab7648110cbe58b66b7897c839031202d811becd33e1c84991a0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3e3b2e6fdc5928a08306b344c02b5eaafc37e957
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118974023"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462197"
 ---
 # <a name="meupdatedstream-event"></a>Событие Меупдатедстреам
 
@@ -39,7 +39,7 @@ ms.locfileid: "118974023"
 
 При первом вызове метода [**Start**](/windows/desktop/api/mfidl/nf-mfidl-imfmediasource-start) , в котором поток станет активным, источник мультимедиа отправляет событие [меневстреам](menewstream.md) для потока. При последующих вызовах для **запуска** источник мультимедиа отправляет событие меупдатедстреам до тех пор, пока поток не будет выбран.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -51,7 +51,7 @@ ms.locfileid: "118974023"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

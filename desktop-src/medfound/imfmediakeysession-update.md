@@ -14,11 +14,11 @@ api_type:
 api_location:
 - mfmediaengine.h
 ms.openlocfilehash: 15bc06523f0cf9a7dc433381dd596cea89608ce7
-ms.sourcegitcommit: c16214e53680dc71d1c07111b51f72b82a4512d8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "105664831"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462217"
 ---
 # <a name="imfmediakeysessionupdate-method"></a>Метод Имфмедиакэйсессион:: Update
 
@@ -60,8 +60,8 @@ HRESULT Update(
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только Windows 8.1 Классические приложения\]<br/>                                                 |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2012 R2 \[\]<br/>                                      |
+| Минимальная версия клиента<br/> | Windows 8.1 \[ только классические приложения\]<br/>                                                 |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[Только классические приложения R2\]<br/>                                      |
 | IDL<br/>                      | <dl> <dt>Мфмедиаенгине. idl</dt> </dl> |
 
 

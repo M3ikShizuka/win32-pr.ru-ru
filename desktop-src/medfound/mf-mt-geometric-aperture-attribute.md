@@ -4,12 +4,12 @@ ms.assetid: a2489ba1-f322-4b63-a479-0d9879c30a8c
 title: Атрибут MF_MT_GEOMETRIC_APERTURE (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a59ff454812564180087fd7d5c1073cb2348b71f46fb77de9bf01021c2c5d62e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e194408dd8b6bf4a4dac717c7d41aaecbb06f306
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118060175"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462111"
 ---
 # <a name="mf_mt_geometric_aperture-attribute"></a>\_ \_ Атрибут геометрического \_ Апертура MF
 
@@ -67,7 +67,7 @@ HRESULT SetGeometricAperture(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

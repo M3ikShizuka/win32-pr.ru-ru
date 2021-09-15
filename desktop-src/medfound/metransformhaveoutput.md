@@ -4,12 +4,12 @@ ms.assetid: a9403ad3-81bf-4cd7-ba7f-816b901bb02c
 title: Событие Метрансформхавеаутпут (Мфобжектс. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 69bed68da623c3fed0bced01e32003dfa0c7625b9be8863644d2bf9486122c40
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: de6ee70f21c0edcf65a8090feaf90d310839749e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118061228"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462203"
 ---
 # <a name="metransformhaveoutput-event"></a>Событие Метрансформхавеаутпут
 
@@ -49,7 +49,7 @@ ms.locfileid: "118061228"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

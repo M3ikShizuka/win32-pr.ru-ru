@@ -4,12 +4,12 @@ ms.assetid: d9d97880-a563-420c-b598-c3ebd1ae8b74
 title: Атрибут MF_BYTESTREAMHANDLER_ACCEPTS_SHARE_WRITE (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 89ea9b6cf1d126fca44066e7d3292227ecf0ce01f3419b377b6d66b67845f990
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b46a3402585cbce9c1d1464ceb9fb161527673c5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119941034"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462185"
 ---
 # <a name="mf_bytestreamhandler_accepts_share_write-attribute"></a>MF \_ битестреамхандлер \_ принимает \_ \_ атрибут общей записи
 
@@ -37,7 +37,7 @@ ms.locfileid: "119941034"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -49,7 +49,7 @@ ms.locfileid: "119941034"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

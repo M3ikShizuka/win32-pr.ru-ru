@@ -4,12 +4,12 @@ description: Доступ к службам с помощью Java
 ms.assetid: 3eced858-487a-4f36-a7a1-34ac827aad13
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b19a9a3feb1e6cb5fc9ddb8a24b87adfdb42461ebb4581723c1cdb465739c51a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1c24ae7508b5999e5d07f2480d49cb4c20dd89a0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118976854"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462234"
 ---
 # <a name="accessing-services-using-java"></a>Доступ к службам с помощью Java
 

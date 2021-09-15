@@ -4,12 +4,12 @@ ms.assetid: B0B7A7F2-02F9-46A6-954F-D6E9C3B73A29
 title: Атрибут MF_CAPTURE_ENGINE_USE_VIDEO_DEVICE_ONLY (Mfcaptureengine. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bd8dd903c4c56b52bf82a97b28edd5148e3c091788376f1ef460047b7f609b51
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b0b687bfa7ec2f30f296dd83997f3e64ac4198fc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118973973"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462170"
 ---
 # <a name="mf_capture_engine_use_video_device_only-attribute"></a>\_Запись MF \_ Engine \_ использовать \_ \_ атрибут " \_ только видео устройства"
 

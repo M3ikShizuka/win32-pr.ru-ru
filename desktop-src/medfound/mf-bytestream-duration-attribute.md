@@ -4,12 +4,12 @@ ms.assetid: afa4930c-544b-4d66-94fe-9795bb526e0a
 title: Атрибут MF_BYTESTREAM_DURATION (Мфобжектс. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 46ba32b394fa776b5b70a5a649292ffa205132645b15c24a57591483c734b238
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: df264416b8a805e6d239cfcc457f4a6db2a8e4dc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119826734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462187"
 ---
 # <a name="mf_bytestream_duration-attribute"></a>\_ \_ Атрибут длительности BYTESTREAM MF
 
@@ -31,7 +31,7 @@ ms.locfileid: "119826734"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ ms.locfileid: "119826734"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

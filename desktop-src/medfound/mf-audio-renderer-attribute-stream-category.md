@@ -4,12 +4,12 @@ ms.assetid: 88E79DE6-2062-4471-A939-D1D4DD2EC42D
 title: Атрибут MF_AUDIO_RENDERER_ATTRIBUTE_STREAM_CATEGORY (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c4acb6bd0f40d3c6fb3caa6b4dce8801f8fa60d31222265d5dca6ff5a132444e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cd96c219e43f85c516a5f862e2a978724328a69f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119714884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462189"
 ---
 # <a name="mf_audio_renderer_attribute_stream_category-attribute"></a>\_ \_ \_ \_ Атрибут категории потока атрибута для модуля подготовки звука MF \_
 

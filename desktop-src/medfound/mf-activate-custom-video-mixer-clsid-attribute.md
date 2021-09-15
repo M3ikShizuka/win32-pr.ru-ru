@@ -4,12 +4,12 @@ ms.assetid: a3586e6f-a2a2-4932-8b43-a076f64c5958
 title: Атрибут MF_ACTIVATE_CUSTOM_VIDEO_MIXER_CLSID (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6a110d6ef5b6cc65fcf3d81fc252737bbcc70575c2d1600751281f9222b032a1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0cc1049fb3bc77b65fb48fe9a4c10a059b2a4651
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119464584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462195"
 ---
 # <a name="mf_activate_custom_video_mixer_clsid-attribute"></a>MF \_ активировать \_ Пользовательский \_ \_ атрибут CLSID микшера видео \_
 

@@ -4,12 +4,12 @@ ms.assetid: E5271D72-FE16-4D28-9BBA-1440C7CE0921
 title: Атрибут MF_MEDIA_ENGINE_OPM_HWND (Мфмедиаенгине. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2e1079e7b9503c73ea678e4f9fd3642ec94fe43a1326e6f33a635f81d1bc1a64
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d60dd38f4f9eaca3e4eefbf84142c1509463f9b9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120013074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462146"
 ---
 # <a name="mf_media_engine_opm_hwnd-attribute"></a>\_ \_ \_ Атрибут HWND ОПМ обработчика передачи мультимедиа MF \_
 
@@ -29,7 +29,7 @@ ms.locfileid: "120013074"
 -   Задайте \_ \_ атрибут HWND ОПМ Engine для обработчика мультимедиа \_ \_ при создании подсистемы мультимедиа.
 -   Вызовите [**имфмедиаенгинепротектедконтент:: сетопмвиндов**](/windows/desktop/api/mfmediaengine/nf-mfmediaengine-imfmediaengineprotectedcontent-setopmwindow) в любой точке после создания обработчика мультимедиа, но до отображения защищенного содержимого.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "120013074"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
