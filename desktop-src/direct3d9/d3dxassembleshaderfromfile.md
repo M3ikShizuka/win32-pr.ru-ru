@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 7bec167a7afc438b73516feacd95fb3fea180efa6806788010d399638a474a55
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 91aaf2924638b1db5b0e8ec0782b90fa964a9543
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119241494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346807"
 ---
 # <a name="d3dxassembleshaderfromfile-function"></a>Функция D3DXAssembleShaderFromFile
 
@@ -105,11 +105,11 @@ HRESULT D3DXAssembleShaderFromFile(
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, D3DXERR \_ INVALIDDATA, E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Параметр компилятора также определяет версию функции. Если определен Юникод, вызов функции разрешается в D3DXAssembleShaderFromFileW. В противном случае вызов функции разрешается в D3DXAssembleShaderFromFileA, так как используются строки ANSI.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -120,7 +120,7 @@ HRESULT D3DXAssembleShaderFromFile(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

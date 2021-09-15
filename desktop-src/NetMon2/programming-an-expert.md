@@ -4,12 +4,12 @@ ms.assetid: 6a3834b7-753f-42cc-986f-3d7e8bf79fd9
 title: Программирование эксперта
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 38de0a60c8224ce0912039ea5fbb06e2cdc958e317eccfb83d524ce632b0d539
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: df633d971558f9b14374680b09a22771e10ea0d8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119979184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348526"
 ---
 # <a name="programming-an-expert"></a>Программирование эксперта
 
@@ -26,7 +26,7 @@ ms.locfileid: "119979184"
 | [**DllMain**](dllmain-expert.md)                    | Функция записи DLL | Да                                             |
 | [**Регистрация экспертов**](register-expert.md)           | Функция записи DLL | Да                                             |
 | [**Выполнить**](run.md)                                   | Функция записи DLL | Да                                             |
-| [**Configure**](configure.md)                       | Функция записи DLL | Только в том случае, если эксперт предоставляет пользователю конфигурацию. |
+| [**Настройка**](configure.md)                       | Функция записи DLL | Только в том случае, если эксперт предоставляет пользователю конфигурацию. |
 | [**експертиндикатестатус**](expertindicatestatus.md) | Экспертная функция    | Да                                             |
 | [**експертсубмитевент**](expertsubmitevent.md)       | Экспертная функция    | Да                                             |
 

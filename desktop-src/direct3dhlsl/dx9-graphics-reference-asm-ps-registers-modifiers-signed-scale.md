@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 161cacbf9f10a36e65f37816970aea5d5d804096151a4ae1ce3f814be918ae08
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 214f4fcb6ad4f382a97b8c8d75a733124c31d68a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119854604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345842"
 ---
 # <a name="source-register-signed-scaling"></a>Масштабирование, подписанное исходным регистром
 
@@ -29,7 +29,7 @@ source register_bx2
 
 
 
-## <a name="register"></a>Зарегистрировать
+## <a name="register"></a>Регистрация
 
 Исходный регистр. Дополнительные сведения о типах регистров см. в описании [ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ регистров PS 1 1 PS 1 2](dx9-graphics-reference-asm-ps-registers-ps-1-x.md)PS 1 3 PS 1 4.
 

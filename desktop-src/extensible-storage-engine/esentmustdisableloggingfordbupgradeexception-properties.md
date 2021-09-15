@@ -8,11 +8,11 @@ ms:contentKeyID: 55102276
 ms.date: 07/30/2014
 ms.topic: article
 ms.openlocfilehash: cb478362d97b22bbe95109b03736a26944478324
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104563269"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346739"
 ---
 # <a name="esentmustdisableloggingfordbupgradeexception-properties"></a>Свойства Есентмустдисаблелоггингфордбупградиксцептион
 

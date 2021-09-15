@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 613646eb169ab12c788cc294ab012962606a77b5f9fe5dfc8c041e6a4ad6fa35
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4132ff1a498a598483758623a588fa26e8b75021
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118940149"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348599"
 ---
 # <a name="inapenforcementclientbindinguninitialize-method"></a>Метод Инапенфорцементклиентбиндинг:: Uninitialize
 
@@ -61,7 +61,7 @@ HRESULT Uninitialize();
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Напажент блокирует дальнейшую обработку до завершения всех существующих вызовов интерфейсов [**инапенфорцементклиентбиндинг**](inapenforcementclientbinding.md) и [**инапенфорцементклиенткаллбакк**](inapenforcementclientcallback.md) . В конце этого вызова Напажент освобождает все ссылки на клиентские указатели COM на принудительное применение.
 
@@ -83,7 +83,7 @@ HRESULT Uninitialize();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

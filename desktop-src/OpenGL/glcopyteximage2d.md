@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1e91481e94d247f5572ac2a65093c4af825c720200aee6daf3e429fad2a70886
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 61d04a979e9bb026da904687506f3201d12c12c3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118617217"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348434"
 ---
 # <a name="glcopyteximage2d-function"></a>Функция glCopyTexImage2D
 

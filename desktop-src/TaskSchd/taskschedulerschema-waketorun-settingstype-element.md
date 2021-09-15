@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 12d16f9f06685a427a8f3e7c4f2356dff0bc6415e50379ba752a4bc3a3fec8e5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 23eeaa06073fa9259c1a48137cf3676baa402d39
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119872064"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462618"
 ---
 # <a name="waketorun-settingstype-element"></a>Вакеторун (Сеттингстипе), элемент
 
@@ -50,7 +50,7 @@ ms.locfileid: "119872064"
 
 Сведения о разработке сценариев см. в разделе [**тасксеттингс. вакеторун**](tasksettings-waketorun.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ ms.locfileid: "119872064"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

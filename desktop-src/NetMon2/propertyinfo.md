@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Netmon.h
-ms.openlocfilehash: 8dc20b94fbf889b4c04712eadbee5d7d834d3cf260962fe01ef7837e5893c4a4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 435b08c5dd5e020dce2bde9be03a0d41299836c4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120128954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348523"
 ---
 # <a name="propertyinfo-structure"></a>Структура PROPERTYINFO
 
@@ -49,7 +49,7 @@ typedef struct _PROPERTYINFO {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -60,7 +60,7 @@ typedef struct _PROPERTYINFO {
 
 </dd> <dt>
 
-**Version**
+**Версия**
 </dt> <dd>
 
 Зарезервировано. Необходимо задать значение 0.
@@ -213,7 +213,7 @@ typedef struct _PROPERTYINFO {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

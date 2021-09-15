@@ -4,12 +4,12 @@ description: Сравнение равенства с двойной точно�
 ms.assetid: 99806989-D3A0-43F4-832A-5F1BD9C59A11
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5781c0b7d757e8bf72b81da54a4d6a8fe7467a40fa2509abdf093e27eb119ddc
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f0ed263deec975815f29050d2de0a877a312258c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119950554"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345887"
 ---
 # <a name="deq-sm5---asm"></a>дек (SM5-ASM)
 
@@ -55,7 +55,7 @@ ms.locfileid: "119950554"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | X      | X    | X      | X        | X     | X       |
 

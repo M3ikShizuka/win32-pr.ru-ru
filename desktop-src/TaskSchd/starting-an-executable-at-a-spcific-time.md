@@ -7,12 +7,12 @@ keywords:
 - Планировщик задач примеры планировщик задач, запуск исполняемого файла
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 62276568f7c626935d8c5c518d51f58ad0a58b5c313e780ec5651067af625068
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1c0ce5a1be1586e12399f1dd5d6969170bffa92f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119059962"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462622"
 ---
 # <a name="starting-an-executable-at-a-specific-time"></a>Запуск исполняемого файла в определенное время
 

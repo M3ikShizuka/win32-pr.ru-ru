@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e4f6c6fdb4adc416cb25fa0e402c8fee2d8baf3270400f15a8de67966eff7a9b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9acdc68dbc69cabe710414f3fa2501585f3e384e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118134033"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348594"
 ---
 # <a name="inapenforcementclientcallbackgetconnections-method"></a>Метод Инапенфорцементклиенткаллбакк:: соединений
 
@@ -69,7 +69,7 @@ HRESULT GetConnections(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -82,7 +82,7 @@ HRESULT GetConnections(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 910f1e3f-b3bb-498b-93da-3a974a3117e8
 title: Метод Render
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0f1aa3abc4453478cd9d6399cb984dfd808b24e31168b8d2ab89b085a6070bb9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 677abab1c669642c1e51e0041c98949d923147c7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119904514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348918"
 ---
 # <a name="render-method"></a>Метод Render
 
@@ -50,7 +50,7 @@ MSWebDVD.Render(iRender = 0)
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 `Render`метод позволяет объекту **мсвебдвд** полностью инициализировать базовый граф фильтра DirectShow при запуске. Это устраняет незначительную задержку, которая в противном случае возникает, когда пользователь выдает первую команду для воспроизведения диска или вывода меню. Не существует случая, в котором необходимо `Render` вызвать метод перед вызовом любого другого метода. Например, если приложение вызывает [**плайтитле**](playtitle-method.md) до инициализации графа фильтра, объект **мсвебдвд** автоматически вызывается `Render` перед попыткой воспроизведения диска.
 

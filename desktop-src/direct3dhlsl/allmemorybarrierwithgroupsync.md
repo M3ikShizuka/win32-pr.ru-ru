@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 69d3c146ff04597b7eca13dd5cbef93dc1c79f81709353bf5b4fa1a993a8da22
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1fc005545485b7f894729ab6c7d7975acfd5b6d4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119626694"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345926"
 ---
 # <a name="allmemorybarrierwithgroupsync-function"></a>Функция Аллмеморибарриервисграупсинк
 
@@ -38,7 +38,7 @@ void AllMemoryBarrierWithGroupSync(void);
 
 Эта функция не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Барьер памяти гарантирует завершение невыполненных операций с памятью. Потоки синхронизируются с Граупсинк барьерами. Это может привести к остановке потока или потоков, если выполняются операции с памятью.
 
@@ -60,7 +60,7 @@ void AllMemoryBarrierWithGroupSync(void);
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 |        |      |        |          |       | x       |
 

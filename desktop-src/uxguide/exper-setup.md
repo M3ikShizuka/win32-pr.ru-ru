@@ -4,12 +4,12 @@ description: Пользователи не могут устанавливать
 ms.assetid: ed0265a6-4c39-4a1f-9493-e316a6519df7
 ms.topic: article
 ms.date: 10/20/2020
-ms.openlocfilehash: 905411c5ae08d2112943088d514ab300abb19ec2b8081158ebdfd896fc2c61ef
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4e5de6f15dd797dd1d1362d1b515122b78c770f4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119818358"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346246"
 ---
 # <a name="setup"></a>Настройка
 

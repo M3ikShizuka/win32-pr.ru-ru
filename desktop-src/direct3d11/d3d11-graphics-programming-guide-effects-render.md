@@ -4,12 +4,12 @@ description: Сведения о визуализации влияния на Di
 ms.assetid: 7af239de-812d-4295-b599-b9deb371b01b
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a3ba8ebbc1ac8989ac10568a00f26b26370c4bb8e7710098733dad74618e53af
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7def8f7bbfb9f2c7a5102eb8e02fc848155e4bde
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117913604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346834"
 ---
 # <a name="rendering-an-effect-direct3d-11"></a>Отрисовка результата (Direct3D 11)
 

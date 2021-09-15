@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Netmon.h
-ms.openlocfilehash: 9b8f291f055bfba159309b6c75a54d95514ed9c7614eb0456a4870e657f04209
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2b2976a56b43c55fccb9acb0c593b0dfd37e4404
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119555374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348503"
 ---
 # <a name="querytable-structure"></a>Структура КУЕРИТАБЛЕ
 
@@ -36,7 +36,7 @@ typedef struct _QUERYTABLE {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: В этом разделе показаны различия меж
 ms.assetid: c3e5e6bc-c544-49ee-b6d9-021ce87f9b12
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9b488015deae8cc93b9bc692c49d66ff1510bcc5639047fe253265be5b382a85
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 29af1b9e7aec72f96a62e0f62668b81a6eec8367
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118990124"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346851"
 ---
 # <a name="differences-between-effects-10-and-effects-11"></a>Различия между эффектами 10 и Effects 11
 

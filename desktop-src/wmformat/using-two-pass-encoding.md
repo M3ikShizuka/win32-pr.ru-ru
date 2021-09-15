@@ -13,12 +13,12 @@ keywords:
 - ивмвритерпрепроцесс
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fd0683af636197b3f8116fca4dea85ce15609d2c99b0d9e0c11dfe0a2662a424
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1c3794856f47c1656cc53006268c41a063cdde96
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117653839"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346091"
 ---
 # <a name="using-two-pass-encoding-windows-media-format-11-sdk"></a>использование кодировки Two-Pass (пакет SDK для Windows Media Format 11)
 

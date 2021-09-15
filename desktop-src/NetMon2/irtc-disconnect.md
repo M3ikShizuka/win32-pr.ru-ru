@@ -15,11 +15,11 @@ api_location:
 - Ndisnpp.dll
 - Rmtnpp.dll
 ms.openlocfilehash: 43acb88e2c7b6108a162c4715de02375121021f8
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108110722"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348551"
 ---
 # <a name="irtcdisconnect-method"></a>ИРТК::D метода соединения
 
@@ -50,7 +50,7 @@ HRESULT STDMETHODCALLTYPE Disconnect();
 |------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | <dl> <dt>**НМЕРР \_ запись**</dt> </dl>      | НПП захватывает данные. Невозможно отключиться от сети, пока выполняется сбор данных.<br/> |
 | <dl> <dt>**НМЕРР \_ не \_ подключен**</dt> </dl> | НПП не подключен к сети.<br/>                                                                 |
-| <dl> <dt>**НМЕРР \_ не в \_ реальном времени**</dt> </dl>  | НПП подключается к сети, но не с методом [ИРТК:: Connect](irtc-connect.md) .<br/>           |
+| <dl> <dt>**НМЕРР \_ не в \_ реальном времени**</dt> </dl>  | нпп подключается к сети, но не с помощью метода [иртк:: Подключение](irtc-connect.md) .<br/>           |
 
 
 
@@ -73,14 +73,14 @@ HRESULT STDMETHODCALLTYPE Disconnect();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
 [иртк](irtc.md)
 </dt> <dt>
 
-[ИРТК:: Connect](irtc-connect.md)
+[иртк:: Подключение](irtc-connect.md)
 </dt> <dt>
 
 [ИРТК:: останавливаться](irtc-stop.md)

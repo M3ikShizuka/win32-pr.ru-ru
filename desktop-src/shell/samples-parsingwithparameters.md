@@ -9,12 +9,12 @@ api_type: ''
 api_location: ''
 topic_type:
 - kbArticle
-ms.openlocfilehash: 5a559732a5a5b2b669402e2e0526dce1a08e37e4bfa31ba97cb41930a15b6cd1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b9d14b3aa5386f187b2f6cdf0a5d435e2e57d31e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118219840"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346331"
 ---
 # <a name="parsing-with-parameters-sample"></a>Пример: синтаксический разбор с параметрами
 
@@ -22,12 +22,12 @@ ms.locfileid: "118219840"
 
 В этом разделе содержатся следующие подразделы.
 
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Загрузка образца](#downloading-the-sample)
 -   [Создание примера](#building-the-sample)
 -   [Запуск примера](#running-the-sample)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

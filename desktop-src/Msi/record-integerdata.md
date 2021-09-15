@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: b3593f31d8f8cea6278346e8c99bb9c9b880aed273ae7ab70614ade112cd8c8d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ed816c75ab6adc98b3ac19984079d840a4a447b0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119912924"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348875"
 ---
 # <a name="recordintegerdata-property"></a>Свойство Record. IntegerData
 
@@ -40,11 +40,11 @@ Record.IntegerData = propVal
 
 Обязательный номер поля значения в записи, 1.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы задать для поля записи целое значение null, используйте Мсидатабасенуллинтежер. Возвращенное значение несуществующего поля — Мсидатабасенуллинтежер. Попытка сохранить значение в несуществующем поле приводит к ошибке.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

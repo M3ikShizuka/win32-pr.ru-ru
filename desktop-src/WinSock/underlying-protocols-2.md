@@ -4,12 +4,12 @@ ms.assetid: b1eac461-10c9-4077-b531-28b7c65a2e31
 title: Базовые протоколы для IPv6-приложений Winsock
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 91564f37284927620ba4e8367464c6148229b256d55e70eef756af8c966e2b4b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 88789a5f4cd557111c6e1aee8c51ba00eed25e82
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118993234"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346874"
 ---
 # <a name="underlying-protocols-for-ipv6-winsock-applications"></a>Базовые протоколы для IPv6-приложений Winsock
 

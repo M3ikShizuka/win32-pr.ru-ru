@@ -15,11 +15,11 @@ api_location:
 - d3dx9.lib
 - d3dx9.dll
 ms.openlocfilehash: 7b76b58953de81041922659c3315bba9cdf7788b
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "104547930"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346803"
 ---
 # <a name="d3dxcreateprtengine-function"></a>Функция D3DXCreatePRTEngine
 
@@ -105,7 +105,7 @@ HRESULT D3DXCreatePRTEngine(
 
 | Требование | Значение |
 |--------------------|----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3DX9Mesh. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3DX9Mesh. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>   |
 
 

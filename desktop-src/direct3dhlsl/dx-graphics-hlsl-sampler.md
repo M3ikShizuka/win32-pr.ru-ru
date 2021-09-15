@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 237880ab84bedc1671fdbf0eaa87e08ad0ba85ce
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122880610"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345867"
 ---
 # <a name="sampler-type"></a>Тип образца
 
@@ -136,7 +136,7 @@ ComparisonFunc
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 При реализации воздействия состояние выборки — это один из нескольких типов состояний, которые может потребоваться настроить в конвейере для подготовки к просмотру. Список всех возможных состояний, которые можно установить в результате, см. в следующих статьях:
 
