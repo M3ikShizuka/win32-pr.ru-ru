@@ -16,12 +16,12 @@ keywords:
 - шаблоны элементов управления, кэширование
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ae14fb607dd66ab1a4ea99cd9836f2f74e5c863afef8465843d3ea174186ef29
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 69f75a7dc9491565fdfdc0ecc73808c2fb6a9d82
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118324978"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567327"
 ---
 # <a name="caching-ui-automation-properties-and-control-patterns"></a>Кэширование свойств и шаблонов элементов управления автоматизации пользовательского интерфейса
 
@@ -40,7 +40,7 @@ ms.locfileid: "118324978"
 -   [Получение кэшированных дочерних и родительских элементов](#retrieving-cached-children-and-parents)
 -   [Получение нового моментального снимка кэша](#retrieving-a-new-snapshot-of-the-cache)
 -   [Примеры](#examples)
--   [Связанные темы](#related-topics)
+-   [Связанные разделы](#related-topics)
 
 ## <a name="cache-requests"></a>Запросы кэша
 
@@ -89,11 +89,11 @@ ms.locfileid: "118324978"
 
 Примеры кода, демонстрирующие использование возможностей кэширования в модели автоматизации пользовательского интерфейса, см. [в статье Использование кэширования](uiauto-howto-use-caching.md).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Общие сведения о шаблонах элементов управления модели автоматизации пользовательского интерфейса](uiauto-controlpatternsoverview.md)

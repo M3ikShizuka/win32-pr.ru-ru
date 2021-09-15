@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.jet_
 ms:contentKeyID: 55103480
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: eef054e3cfa5a10fed058c087c2161357737c8a6902139fcba64af5a7f86b397
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2b7b6d95f9d6c2648d1e1bd06712b1cfde13d8af
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119112473"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458843"
 ---
 # <a name="jet_columndef-members"></a>Элементы JET_COLUMNDEF
 
@@ -146,7 +146,7 @@ ms.locfileid: "119112473"
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс JET_COLUMNDEF](./jet-columndef-class.md)
 

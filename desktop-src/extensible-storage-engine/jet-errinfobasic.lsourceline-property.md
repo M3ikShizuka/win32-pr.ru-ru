@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: f64e459a26d55569531d09885e94d881f99c580e4ce1e34ea8e31a9f43faa650
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5b5853e6855cd2079bdd782662d10509942b6239
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119617174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567006"
 ---
 # <a name="jet_errinfobasiclsourceline-property"></a>Свойство JET_ERRINFOBASIC. Лсаурцелине
 
@@ -64,9 +64,9 @@ public int lSourceLine { get; set; }
 
 Тип: [System. Int32](/dotnet/api/system.int32)  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс JET_ERRINFOBASIC](./jet-errinfobasic-class.md)
 

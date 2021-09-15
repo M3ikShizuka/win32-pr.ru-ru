@@ -15,11 +15,11 @@ ms.localizationpriority: low
 ms.topic: reference
 ms.date: 08/04/2021
 ms.openlocfilehash: 23a0bfe1afff461e5d6b8ba69bedd6ade9069904
-ms.sourcegitcommit: 0dec0044816af3f2b2e6403659e1cf11138c90cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121812479"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568430"
 ---
 # <a name="cd3dx12_subobject_to_exports_association_subobject-class"></a>Класс CD3DX12_SUBOBJECT_TO_EXPORTS_ASSOCIATION_SUBOBJECT
 
@@ -44,7 +44,7 @@ class CD3DX12_SUBOBJECT_TO_EXPORTS_ASSOCIATION_SUBOBJECT
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 `CD3DX12_SUBOBJECT_TO_EXPORTS_ASSOCIATION_SUBOBJECT`
 
@@ -82,13 +82,13 @@ class CD3DX12_SUBOBJECT_TO_EXPORTS_ASSOCIATION_SUBOBJECT
 
 Оператор преобразования, возвращающий ссылку на константу [D3D12_SUBOBJECT_TO_EXPORTS_ASSOCIATION](/windows/win32/api/d3d12/ns-d3d12-d3d12_subobject_to_exports_association) объект, описывающий объект состояния.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |-------------------|-------------------------------------------------------------------------------------|
 | Заголовок | [D3dx12. h](https://github.com/microsoft/DirectX-Headers/blob/main/include/directx/d3dx12.h) |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 * [Вспомогательные структуры для Direct3D 12](helper-structures-for-d3d12.md)
 * [CD3DX12_STATE_OBJECT_DESC](cd3dx12-state-object-desc.md)

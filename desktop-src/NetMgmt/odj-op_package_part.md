@@ -6,11 +6,11 @@ ms.topic: reference
 ms.date: 10/12/2020
 ms.reviewer: jsimmons
 ms.openlocfilehash: 74f299c58b9bf417a94119cd7520b7c0a364f73a
-ms.sourcegitcommit: 1e64562147b11f90de802c2431173582d066fae6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "104261555"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566894"
 ---
 # <a name="op_package_part-structure"></a>Структура OP_PACKAGE_PART
 
@@ -28,7 +28,7 @@ typedef struct _OP_PACKAGE_PART
 } OP_PACKAGE_PART, *POP_PACKAGE_PART;
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 ### <a name="parttype"></a>парттипе
 
@@ -50,7 +50,7 @@ typedef struct _OP_PACKAGE_PART
 | --- | --- |
 |OPSPI_PACKAGE_PART_ESSENTIAL (0x00000001)|Эта часть пакета считается важнейшей. Если потребитель не распознает эту часть пакета или не может успешно обработать его, общая операция должна завершиться ошибкой.|
 
-### <a name="part"></a>Отделение
+### <a name="part"></a>Часть
 
 Содержит сериализованную структуру в структуре OP_BLOB. Конкретная структура определяется Парттипе.
 

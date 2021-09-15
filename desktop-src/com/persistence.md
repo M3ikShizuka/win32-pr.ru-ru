@@ -4,12 +4,12 @@ description: Сохраняемость
 ms.assetid: 4916ea52-a21c-4938-81cb-392b5ca1f6c1
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a3c8600307bfe6c29f72fb9d29e633358062c4e8c1c61da8898173cf190f1d08
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c6cffab1c9a0f2746e57e356a90698caf9903deb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119500334"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568066"
 ---
 # <a name="persistence"></a>Сохраняемость
 
@@ -21,7 +21,7 @@ ms.locfileid: "119500334"
 
 Элемент управления может также поддерживать сохранение и восстановление его состояния в наборе свойств OLE, набор идентификаторов и значений в указанном формате. эта функция может быть полезна для контейнеров, таких как Visual Basic, которые сохраняют свои программы в текстовой форме. Элемент управления, который хочет поддерживать эту функцию, реализует интерфейс [**IDataObject:: GetData**](/windows/desktop/api/ObjIdl/nf-objidl-idataobject-getdata) и [**IDataObject:: SetData**](/windows/desktop/api/ObjIdl/nf-objidl-idataobject-setdata) для передачи его значений свойств в контейнер и из контейнера соответственно. Это задание контейнера для преобразования этих данных в текст и их сохранения. Идентификаторы, используемые элементом управления, соответствуют именам и значениям свойств элемента управления. Определение этого набора свойств см. в разделе OLE CDK.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

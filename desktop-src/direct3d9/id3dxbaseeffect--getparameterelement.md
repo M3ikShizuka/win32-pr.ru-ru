@@ -15,11 +15,11 @@ api_location:
 - D3dx9.lib
 - D3dx9.dll
 ms.openlocfilehash: 5130ccf57634f9b1a569a1dd70833fe2014e1a74
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "104355873"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566626"
 ---
 # <a name="id3dxbaseeffectgetparameterelement-method"></a>Метод ID3DXBaseEffect:: Жетпараметерелемент
 
@@ -65,7 +65,7 @@ D3DXHANDLE GetParameterElement(
 
 Возвращает маркер указанного параметра или **значение NULL** , если значение Хпараметер или елементиндекс недопустимо. См. раздел [Handles (Direct3D 9)](handles.md).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот метод используется для получения элемента параметра, который является массивом.
 
@@ -75,7 +75,7 @@ D3DXHANDLE GetParameterElement(
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3DX9Shader. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3DX9Shader. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>     |
 
 

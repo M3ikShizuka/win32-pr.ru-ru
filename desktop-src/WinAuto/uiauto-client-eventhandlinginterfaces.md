@@ -5,11 +5,11 @@ ms.assetid: ce9c4044-f46b-42b7-af44-05aee728a0e8
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 458be6fcf5ce47f285d46c0e61f80e0897f15613
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "105710133"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567314"
 ---
 # <a name="event-handling-interfaces-for-clients"></a>Интерфейсы обработки событий для клиентов
 
@@ -33,7 +33,7 @@ ms.locfileid: "105710133"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

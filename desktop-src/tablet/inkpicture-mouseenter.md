@@ -4,12 +4,12 @@ ms.assetid: cb31bf2f-e889-4da3-b408-e5612e2af95b
 title: Событие InkPicture. MouseEnter (Мсинкаут. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5f3e716758539dea80e0f62ce44610b28296d9de11de6e2616248c137f583c7b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 87c88e2c941f64dba5f557b509971e0a329dada3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119939024"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458795"
 ---
 # <a name="inkpicturemouseenter-event"></a>Событие InkPicture. MouseEnter
 
@@ -36,7 +36,7 @@ void MouseEnter();
 
 Этот метод события определен в интерфейсе **\_ иинкпиктуривентс** . Интерфейс **\_ иинкпиктуривентс** реализует интерфейс [**IDISPATCH**](/windows/win32/api/oaidl/nn-oaidl-idispatch) с идентификатором DISPID \_ ипемаусинтер.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -49,7 +49,7 @@ void MouseEnter();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

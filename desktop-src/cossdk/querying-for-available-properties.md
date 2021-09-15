@@ -5,11 +5,11 @@ title: Запрос доступных свойств
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 22238e04404d2b88efa81ce98d0b0fb0e09d245f
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104142379"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566814"
 ---
 # <a name="querying-for-available-properties"></a>Запрос доступных свойств
 
@@ -19,7 +19,7 @@ ms.locfileid: "104142379"
 
 Коллекцию [**PropertyInfo**](propertyinfo.md) можно получить из любой коллекции, которую вы удерживаете, используя метод [**IsCollection**](/windows/desktop/api/ComAdmin/nf-comadmin-icomadmincatalog-getcollection) для объекта [**комадминкаталогколлектион**](comadmincatalogcollection.md) , и оставить второй параметр пустым, где обычно указывается свойство ключа родительского элемента.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

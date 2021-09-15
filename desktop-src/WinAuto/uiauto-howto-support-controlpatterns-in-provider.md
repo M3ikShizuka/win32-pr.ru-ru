@@ -4,12 +4,12 @@ description: В этом разделе показано, как поставщ�
 ms.assetid: 504d0ed8-32c1-43ed-9f71-328a013ab350
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 649f9419c5e3003c0185f435cba4d38f4a25c3d7adc1bdc7cf9c53cd06b32a6e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 54e75fa12dba891bc4eded5fd9763f7825eb7f88
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119759234"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567275"
 ---
 # <a name="support-control-patterns-in-a-ui-automation-provider"></a>Поддержка шаблонов элементов управления в поставщике модели автоматизации пользовательского интерфейса
 
@@ -95,11 +95,11 @@ IFACEMETHODIMP ListProvider::GetPatternProvider(PATTERNID patternId, IUnknown** 
 
 
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Общие сведения о шаблонах элементов управления модели автоматизации пользовательского интерфейса](uiauto-controlpatternsoverview.md)

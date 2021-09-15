@@ -5,11 +5,11 @@ title: начало работы с разрешениями WSDAPI
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 7dec7fc848fddf412bde43a4f2cb94021b382820
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122474910"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567187"
 ---
 # <a name="getting-started-with-wsdapi-troubleshooting"></a>начало работы с разрешениями WSDAPI
 
@@ -93,7 +93,7 @@ ms.locfileid: "122474910"
 | Значение <strong>элемента «текст</strong> сообщения об ошибке» в сообщении <a href="getresponse--metadata-exchange--message.md">GetResponse</a> не соответствует значению элемента <strong>MessageId</strong> из соответствующего сообщения <a href="get--metadata-exchange--http-request-and-message.md">Get</a> . | <a href="inspecting-network-traces-for-http-metadata-exchange.md">Проверка трассировки сети для Exchange метаданных HTTP</a> | Проверка сообщения показывает, что <strong>элемент «текст</strong> сообщения» содержит неправильно сформированное или неверное значение. | 
 
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

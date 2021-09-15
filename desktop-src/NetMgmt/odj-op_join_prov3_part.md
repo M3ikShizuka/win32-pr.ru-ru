@@ -6,11 +6,11 @@ ms.topic: reference
 ms.date: 10/12/2020
 ms.reviewer: jsimmons
 ms.openlocfilehash: 81c8f53f55a8d5a284f969cbde539b0c34406903
-ms.sourcegitcommit: 1e64562147b11f90de802c2431173582d066fae6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "104414040"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566906"
 ---
 # <a name="op_joinprov3_part-structure"></a>Структура OP_JOINPROV3_PART
 
@@ -26,7 +26,7 @@ typedef struct _OP_JOINPROV3_PART
 } OP_JOINPROV3_PART, *POP_JOINPROV3_PART;
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 ### <a name="rid"></a>Избежать
 

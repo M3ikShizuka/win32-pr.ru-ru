@@ -4,12 +4,12 @@ ms.assetid: 8e80a9ed-0631-4932-aacc-ba3badcbd0a5
 title: Функция QueryContextAttributes (Kerberos) (Sspi.h)
 ms.topic: reference
 ms.date: 07/25/2019
-ms.openlocfilehash: 5a6504b214ad5d2655616efeb3a5edd5db25c44275c7d03d3b640e1e17634c9f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c6007cb725a14ffa84190c03687de89e6bca1c96
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118920169"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568230"
 ---
 # <a name="querycontextattributes-kerberos-function"></a>Функция QueryContextAttributes (Kerberos)
 
@@ -87,13 +87,13 @@ SECURITY_STATUS SEC_ENTRY QueryContextAttributes(
 
 Если функция завершается ошибкой, возвращаемое значение является ненулевым кодом ошибки.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Структура, на которую указывает параметр *pBuffer* , зависит от запрашиваемого атрибута. Вызывающий объект должен выделить структуру *pBuffer* , но SSP выделяет всю память, необходимую для хранения членов переменной размера структуры *pBuffer* . Память, выделенная поставщиком общих служб, может быть освобождена путем вызова функции [**фриконтекстбуффер**](/windows/win32/api/sspi/nf-sspi-freecontextbuffer) .
 
 После \_ \_ \_ \_ считывания значения контекста удаленного сертификата SECPKG attr или \_ локального сертификата SECPKG attr для \_ \_ \_ элемента **хцертсторе** будет задан маркер хранилища сертификатов, содержащего промежуточные сертификаты, если таковые имеются. Кроме того, приложение отвечает за вызов [**цертфрицертификатеконтекст**](/windows/win32/api/wincrypt/nf-wincrypt-certfreecertificatecontext) для освобождения памяти, используемой контекстом сертификата.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -108,7 +108,7 @@ SECURITY_STATUS SEC_ENTRY QueryContextAttributes(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -5,11 +5,11 @@ title: Функция InitializeSecurityContext (General) (Sspi.h)
 ms.topic: reference
 ms.date: 07/25/2019
 ms.openlocfilehash: e0a4b1b9ff38faa840667f513aee25d61c23180d
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122627370"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567526"
 ---
 # <a name="initializesecuritycontext-general-function"></a>Функция InitializeSecurityContext (общая)
 
@@ -228,7 +228,7 @@ SECURITY_STATUS SEC_Entry InitializeSecurityContext(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Вызывающий объект отвечает за определение того, достаточно ли атрибутов последнего контекста. Если, например, была запрошена конфиденциальность, но ее не удалось установить, некоторые приложения могут немедленно завершить подключение.
 
@@ -292,7 +292,7 @@ SECURITY_STATUS SEC_Entry InitializeSecurityContext(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

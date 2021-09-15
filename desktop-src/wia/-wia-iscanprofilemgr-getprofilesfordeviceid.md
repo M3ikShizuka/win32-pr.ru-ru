@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Scanprofilemgr.h
-ms.openlocfilehash: 8ca150d02aff2f84becf8b36aca87e2da24b2b83c9ccd85c0cf5a1c5ced0d664
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 10a7d891a114fc36de3f91341febf1616a06ed22
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118209060"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458785"
 ---
 # <a name="iscanprofilemgrgetprofilesfordeviceid-method"></a>Метод Исканпрофилемгр:: Жетпрофилесфордевицеид
 
@@ -86,7 +86,7 @@ HRESULT GetProfilesforDeviceID(
 |-------------------------------------|---------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                              |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                        |
-| Header<br/>                   | <dl> <dt>Сканпрофилемгр. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Сканпрофилемгр. h</dt> </dl> |
 | IDL<br/>                      | <dl> <dt>Сканпрофилес. idl</dt> </dl> |
 
 

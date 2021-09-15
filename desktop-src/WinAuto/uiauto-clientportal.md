@@ -12,11 +12,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: f353243c8c194e2d732efd1d68bc2894ca930285
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "103791940"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567303"
 ---
 # <a name="ui-automation-client-programmers-guide"></a>Руководством программиста клиента автоматизации пользовательского интерфейса
 
@@ -38,7 +38,7 @@ ms.locfileid: "103791940"
 -   [Основные сведения о проблемах с потоками](uiauto-threading.md)
 -   [Разделы руководства по клиентам автоматизации пользовательского интерфейса](uiauto-howto-topics-for-uiautomation-clients.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
@@ -51,6 +51,6 @@ ms.locfileid: "103791940"
 [Модель автоматизации пользовательского интерфейса](entry-uiauto-win32.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

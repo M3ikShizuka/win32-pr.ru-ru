@@ -4,12 +4,12 @@ description: В этом разделе содержится пример код
 ms.assetid: 43826258-9321-4d44-bd31-6a3b42f00d39
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 75717dfcccaca5f62ac3431f9b3decb01842ce9bc696d07bfff54f35ffc13640
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 417c86771c24cc1a67fd907aaf0628037edce44d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119133297"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567282"
 ---
 # <a name="how-to-raise-events-from-a-ui-automation-provider"></a>Как вызывать события из поставщика автоматизации пользовательского интерфейса
 
@@ -41,11 +41,11 @@ void CustomButton::InvokeButton(HWND hwnd)
 
 
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Обзор событий автоматизации пользовательского интерфейса](uiauto-eventsoverview.md)

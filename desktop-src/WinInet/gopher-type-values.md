@@ -35,12 +35,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 36dd8a6b673ccdde6ff283d5b0ae58eb38540aeed12cc3ff095a2df2fe8a0b52
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 67402dd88211ae46c081c0b9e85e7a12b5379bb8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118113887"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568142"
 ---
 # <a name="gopher-type-values"></a>Значения типа Gopher
 
@@ -362,14 +362,14 @@ PDF-файл.
 
 </dt> </dl> </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > WinINet не поддерживает реализации серверов. Кроме того, его не следует использовать из службы. для серверных реализаций или служб используйте [Microsoft Windows HTTP services (WinHTTP)](/windows/desktop/WinHttp/winhttp-start-page).
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

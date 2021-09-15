@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6d8209f92449af7ff7f24e9bd8e6ee249477fa38a726289ebc4a98c825ef937d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e5bca20380cd6b80441b08c41624dc17a9dd2788
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117844503"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458719"
 ---
 # <a name="wmcodec"></a>WM/кодек
 
@@ -31,7 +31,7 @@ g \_ всзвмкодек
 
 **\_Строка типа \_ ВМТ**
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

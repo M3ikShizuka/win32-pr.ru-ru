@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 52fdb409453bbdc6a30026b5d36cb35bbaeb2a21264e5049c9e5fff520aea08b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9d31e54805f778a51f345c84654056391ec4052e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118332330"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458648"
 ---
 # <a name="wmgenreid-attribute"></a>Атрибут WM/GenreID
 
@@ -28,7 +28,7 @@ ms.locfileid: "118332330"
 -   [Звуковые элементы](audio-item-attributes.md)
 -   [часто используемые Windows атрибуты файла мультимедиа](commonly-used-windows-media-file-attributes.md)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут хранится только в цифровом файле мультимедиа.
 

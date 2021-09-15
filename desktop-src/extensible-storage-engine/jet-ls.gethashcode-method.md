@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: a42fb15c6d2f153718bf31580a971a12cbf1a67925951953e7bff1b00ddc58bc
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5b2ca3e4e06d53b095863ec48597766165216de9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119890544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566978"
 ---
 # <a name="jet_lsgethashcode-method"></a>JET_LS. Метод GetHashCode
 
@@ -59,9 +59,9 @@ public override int GetHashCode()
 Тип: [System. Int32](/dotnet/api/system.int32)  
 Хэш-код данного экземпляра.  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Структура JET_LS](./jet-ls-structure.md)
 

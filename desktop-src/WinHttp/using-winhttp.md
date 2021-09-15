@@ -1,19 +1,19 @@
 ---
-description: В этом разделе описывается, как использовать API C/C++ для служб Microsoft Windows HTTP (WinHTTP) и COM-интерфейс, предоставляемый объектом WinHttpRequest.
+description: в этом разделе описывается, как использовать API C/C++ для служб Microsoft Windows HTTP (WinHTTP) и COM-интерфейс, предоставляемый объектом WinHttpRequest.
 ms.assetid: 16178bb8-5e95-46a5-825a-880edc402445
 title: Использование WinHTTP
 ms.topic: article
 ms.date: 07/22/2020
 ms.openlocfilehash: cda0a7772b88dfd9c03675c522f4b7504ea00b06
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104497502"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568170"
 ---
 # <a name="using-winhttp"></a>Использование WinHTTP
 
-В этом разделе описывается, как использовать API C/C++ для служб Microsoft Windows HTTP (WinHTTP) и COM-интерфейс, предоставляемый объектом **WinHttpRequest** . Сравнение этих интерфейсов см. в разделе [Выбор интерфейса WinHTTP](choosing-a-winhttp-interface.md) . В нем также описывается использование средств администрирования, входящих в состав WinHTTP.
+в этом разделе описывается, как использовать API C/C++ для служб Microsoft Windows HTTP (WinHTTP) и COM-интерфейс, предоставляемый объектом **WinHttpRequest** . Сравнение этих интерфейсов см. в разделе [Выбор интерфейса WinHTTP](choosing-a-winhttp-interface.md) . В нем также описывается использование средств администрирования, входящих в состав WinHTTP.
 
 ## <a name="how-to-topics"></a>Инструкции
 

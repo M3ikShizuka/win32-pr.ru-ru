@@ -16,11 +16,11 @@ api_type:
 api_location:
 - Wbemdisp.dll
 ms.openlocfilehash: 05ae5d5e0bfbc5ab0733e00e4649baa2849d3446
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105712929"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567222"
 ---
 # <a name="swbempropertyset-object"></a>Объект SWbemPropertySet
 
@@ -45,7 +45,7 @@ ms.locfileid: "105712929"
 |:------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------|
 | [**Включить**](swbempropertyset-add.md)       | Добавляет объект [**SWbemProperty**](swbemproperty.md) в коллекцию **SWbemPropertySet** .<br/>                        |
 | [**Элемент**](swbempropertyset-item.md)     | Возвращает именованный [**SWbemProperty**](swbemproperty.md) из коллекции. Это метод по умолчанию для этого объекта.<br/> |
-| [**Отменит**](swbempropertyset-remove.md) | Удаляет объект [**SWbemProperty**](swbemproperty.md) из коллекции.<br/>                                        |
+| [**Удалить**](swbempropertyset-remove.md) | Удаляет объект [**SWbemProperty**](swbemproperty.md) из коллекции.<br/>                                        |
 
 
 
@@ -118,7 +118,7 @@ end if
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Wbemdisp. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_SWBEMPROPERTYSET CLSID<br/>                                                      |

@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f40cf184d6122fc40041cfb77953bba2b7950d9d1a957d99aae659633ee5c194
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 04428c14b5e47795da47e5c03970610cd08a6e8f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118706902"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458769"
 ---
 # <a name="splitbuttongallerymenulayout-property"></a>Сплитбуттонгаллери. Менулайаут, свойство
 
@@ -58,7 +58,7 @@ ms.locfileid: "118706902"
 
 ## <a name="remarks"></a>Remarks
 
-Необязательный элемент.
+Необязательный параметр.
 
 Может встречаться не более одного раза для каждого элемента [**сплитбуттонгаллери**](windowsribbon-element-splitbuttongallery.md) .
 

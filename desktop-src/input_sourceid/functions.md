@@ -4,12 +4,12 @@ ms.assetid: 382D60F5-9E21-4881-915F-A5F0257A701D
 title: Функции (Идентификация источника входных данных)
 ms.topic: article
 ms.date: 02/05/2020
-ms.openlocfilehash: f84c2b44f80e045332aa2df1976e676f21e7489ed55c481662e5f29424738a06
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6a618607df31076f2fd021cee61d62220a8cc5e5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118248803"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567618"
 ---
 # <a name="input-source-identification-functions"></a>Функции идентификации источника входных данных
 
@@ -22,6 +22,6 @@ ms.locfileid: "118248803"
 | [**жетЦимссм**](/windows/win32/api/winuser/nf-winuser-getcimssm)<br/> | Извлекает источник входного сообщения (Жеткуррентинпутмессажесаурцеинсендмессаже).<br/> |
 | [**жеткуррентинпутмессажесаурце**](/windows/win32/api/winuser/nf-winuser-getcurrentinputmessagesource)<br/> | Извлекает источник входного сообщения.<br/> | 
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 [Ссылка на идентификацию источника входных данных](input-source-identification-reference.md)

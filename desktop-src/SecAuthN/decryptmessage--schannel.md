@@ -5,11 +5,11 @@ title: Функция Декриптмессаже (Schannel)
 ms.topic: reference
 ms.date: 07/25/2019
 ms.openlocfilehash: 75b2292e6058806e6e4cecbac9cb446207099fae
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122480850"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567546"
 ---
 # <a name="decryptmessage-schannel-function"></a>Функция Декриптмессаже (Schannel)
 
@@ -104,7 +104,7 @@ SECURITY_STATUS SEC_Entry DecryptMessage(
 | Библиотека                  | Secur32. lib                               |
 | DLL                      | Secur32.dll                               |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 - [Функции SSPI](authentication-functions.md#sspi-functions)
 - [**Енкриптмессаже (Schannel)**](encryptmessage--schannel.md)

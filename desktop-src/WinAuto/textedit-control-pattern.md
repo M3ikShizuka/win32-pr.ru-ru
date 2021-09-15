@@ -9,11 +9,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: bdf8512db4f676a263bf46bdbdfea7b6b7eaba11
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104339092"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567335"
 ---
 # <a name="textedit-control-pattern"></a>Шаблон элемента управления также TextEdit
 
@@ -65,11 +65,11 @@ ms.locfileid: "104339092"
 -   **Конверсионтаржетчанжед** не следует вызывать при изменении содержимого целевого объекта. Если целевое изменение происходит одновременно с изменением композиции, то событие изменения целевого объекта должно быть вызвано после того, как все события композиции уже созданы.
 -   В TSF цель преобразования определяется значением параметра **tf \_ attr \_ Target, \_ преобразованным** из структуры **tf \_ дисплайаттрибуте** . Изменения можно отслеживать с помощью **онендедит**.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Типы элементов управления и поддерживаемые ими шаблоны элементов управления](uiauto-controlpatternmapping.md)

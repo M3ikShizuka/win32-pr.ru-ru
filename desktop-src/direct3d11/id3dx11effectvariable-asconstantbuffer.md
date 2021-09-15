@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b232a9eb98b4cb5bdd4137661198abb9b853faa126579bd86c69e8dce375a6f0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ee4caca60216df0c04a773da22150dbc6f7be717
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118531578"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568042"
 ---
 # <a name="id3dx11effectvariableasconstantbuffer-method"></a>Метод ID3DX11EffectVariable:: Асконстантбуффер
 
@@ -47,7 +47,7 @@ ID3DX11EffectConstantBuffer* AsConstantBuffer();
 
 Указатель на буфер константы. См. [**ID3DX11EffectConstantBuffer**](id3dx11effectconstantbuffer.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Асконстантбуффер Возвращает версию переменной Effect, которая была специализированной для буфера констант. Как и в приведении, эта специализация возвращает недопустимый объект, если переменная действия не содержит данные буфера констант.
 
@@ -58,7 +58,7 @@ ID3DX11EffectConstantBuffer* AsConstantBuffer();
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -69,7 +69,7 @@ ID3DX11EffectConstantBuffer* AsConstantBuffer();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

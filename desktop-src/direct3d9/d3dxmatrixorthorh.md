@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 060a195dfee7457f671177a756e67d1c3953a16aa7d59394f96eb05e43cfc93c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d34a8379851d80ae8734c7f32cc0dc5977af2088
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119044852"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567858"
 ---
 # <a name="d3dxmatrixorthorh-function-d3dx9mathh"></a>Функция D3DXMatrixOrthoRH (D3dx9math. h)
 
@@ -95,7 +95,7 @@ D3DXMATRIX* D3DXMatrixOrthoRH(
 
 Указатель на результирующий [**D3DXMATRIX**](../direct3d10/d3d10-d3dxmatrix.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Все параметры функции **D3DXMatrixOrthoRH** — это расстояния в пространстве камеры. Параметры описывают размеры представления объема.
 

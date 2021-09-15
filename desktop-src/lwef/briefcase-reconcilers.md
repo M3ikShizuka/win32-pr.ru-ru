@@ -9,12 +9,12 @@ keywords:
 - иреконЦилеинитиатор
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: dc4161796999172e6ee9bc7c403e723f9f8bafe7e876b544888fa5e7105b724f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b925e7055e15f6c7a49408aa28d147fb2eef5a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119556944"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567595"
 ---
 # <a name="creating-briefcase-reconcilers"></a>Создание подверяющих портфелей
 

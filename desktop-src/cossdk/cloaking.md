@@ -4,12 +4,12 @@ ms.assetid: b34264ff-eb6a-4b99-8c0e-ab6b969a7fb1
 title: Маскировка (службы компонентов)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2a99d2e1cf8ca90d1cd9e4c56d0b12c3bb470e7c6a489aa56d790be5ba9c3468
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1e5cba98d229c7f2132a2a1c345e65900b634afe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118103364"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568058"
 ---
 # <a name="cloaking-component-services"></a>Маскировка (службы компонентов)
 
@@ -28,7 +28,7 @@ ms.locfileid: "118103364"
 
 Дополнительные сведения о маскировке и точных описания возможных поведений см. в разделе [маскировка](/windows/desktop/com/cloaking) в документации по com.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

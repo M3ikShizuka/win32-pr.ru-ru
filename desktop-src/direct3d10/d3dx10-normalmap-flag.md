@@ -14,11 +14,11 @@ api_type:
 api_location:
 - D3DX10Tex.h
 ms.openlocfilehash: c4b6962561007fbc3e64b471c045e98b2f8328b4
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "105720918"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566726"
 ---
 # <a name="d3dx10_normalmap_flag-enumeration"></a>\_ \_ Перечисление флагов нормалмап D3DX10
 
@@ -84,7 +84,7 @@ typedef enum D3DX10_NORMALMAP_FLAG {
 
 | Требование | Значение |
 |-------------------|----------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3DX10Tex. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3DX10Tex. h</dt> </dl> |
 
 
 

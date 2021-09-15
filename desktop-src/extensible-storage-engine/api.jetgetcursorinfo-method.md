@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 8203d541db2596f4d691c055aba83e3b6b76163f7b5949e3b62d6e46256d8b28
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7144283a062b0097d6866e74d1c263bb130c5e19
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119841044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567126"
 ---
 # <a name="apijetgetcursorinfo-method"></a>API. Жетжеткурсоринфо, метод
 
@@ -74,7 +74,7 @@ public static void JetGetCursorInfo(
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс API](./api-class.md)
 

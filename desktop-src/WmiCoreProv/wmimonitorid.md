@@ -24,12 +24,12 @@ api_type:
 api_location:
 - WmiProv.dll
 ms.custom: project-verbatim
-ms.openlocfilehash: 552e66a4e3a0c6f120bcc95123e3a2674fc579457de16c9ef8cd1e80161f175e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 485b42a86ca67d15ec00be13992c17b31ed51608
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119051152"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566839"
 ---
 # <a name="wmimonitorid-class"></a>Класс Вмимониторид
 
@@ -53,7 +53,7 @@ class WmiMonitorID : MSMonitorClass
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **вмимониторид** имеет следующие типы членов:
 
@@ -237,7 +237,7 @@ Next
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -251,7 +251,7 @@ Next
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

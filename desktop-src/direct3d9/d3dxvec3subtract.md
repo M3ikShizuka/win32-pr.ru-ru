@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: bdc944b05595a2a55c4960d7ab27deea083a5b92b80b8815b3613a074e78b9bb
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 17f41f2fd133db1064e2ba2778eacc139bab01ca
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120096084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566643"
 ---
 # <a name="d3dxvec3subtract-function"></a>Функция D3DXVec3Subtract
 
@@ -79,7 +79,7 @@ D3DXVECTOR3* D3DXVec3Subtract(
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре *тоска* . Таким образом, функция **D3DXVec3Subtract** может использоваться в качестве параметра для другой функции.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -90,7 +90,7 @@ D3DXVECTOR3* D3DXVec3Subtract(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

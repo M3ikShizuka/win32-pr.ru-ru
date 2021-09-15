@@ -4,12 +4,12 @@ description: Сведения об интерфейсах, используем�
 ms.assetid: 304ba3f8-5d1e-4a74-a0d5-36f29207f178
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0adc871efa03708da53ae3dcfad067d6ccb5fca8a0a20c193831486ccc67a612
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5f8a05c55c636accba746ea79c7b13744b54d9d9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119998494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567423"
 ---
 # <a name="interfaces-active-accessibility-user-interface-services"></a>Интерфейсы (Active Accessibility служб пользовательского интерфейса)
 
@@ -32,7 +32,7 @@ ms.locfileid: "119998494"
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

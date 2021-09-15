@@ -6,11 +6,11 @@ ms.topic: reference
 ms.date: 10/12/2020
 ms.reviewer: jsimmons
 ms.openlocfilehash: f8eb61397045a382fe5933025a4eeda2f563e838
-ms.sourcegitcommit: 1e64562147b11f90de802c2431173582d066fae6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "104070809"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566902"
 ---
 # <a name="op_package_part_collection-structure"></a>Структура OP_PACKAGE_PART_COLLECTION
 
@@ -27,7 +27,7 @@ typedef struct _OP_PACKAGE_PART_COLLECTION
 } OP_PACKAGE_PART_COLLECTION, *POP_PACKAGE_PART_COLLECTION;
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 ### <a name="cparts"></a>кпартс
 

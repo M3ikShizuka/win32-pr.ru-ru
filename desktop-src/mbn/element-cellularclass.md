@@ -7,12 +7,12 @@ MSHAttr:
 title: целлуларкласс
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 850635853a3545fc82707acb48914ca190cefe7c
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.openlocfilehash: 8c442208c40dcfa42a7c603bc20fda94422794ef
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122883946"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458817"
 ---
 # <a name="span-idwwan_profile_v4element_cellularclassspancellularclass"></a><span id="WWAN_profile_v4.element_CellularClass"></span>целлуларкласс
 
@@ -57,7 +57,9 @@ ms.locfileid: "122883946"
 ## <a name="requirements"></a>Требования
 
 
-| | | <p>Пространство имен</p> | <p>https://www.microsoft.com/networking/WWAN/profile/v4</p> | 
+| Требование | Значение |
+|------------|----------|
+| <p>Пространство имен</p> | <p>https://www.microsoft.com/networking/WWAN/profile/v4</p> | 
 
 
  

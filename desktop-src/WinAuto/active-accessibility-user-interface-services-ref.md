@@ -4,12 +4,12 @@ description: В этом разделе описываются службы по
 ms.assetid: 5ceae703-486c-44c1-9673-7e6ec537a997
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 876898b1635d36bbde5aba53a07de14862912b6945c45fa3c3a1b55491c6ce10
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 57be6eb05c1919d00f1b257f9a51ff9657cbbc28
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119645424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567462"
 ---
 # <a name="active-accessibility-user-interface-services-reference"></a>Справочник по службам пользовательского интерфейса Active Accessibility
 

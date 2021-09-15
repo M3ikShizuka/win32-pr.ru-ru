@@ -6,11 +6,11 @@ ms.localizationpriority: high
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 0a3cd3980bede72d6e2f4b163abe11b249970eb7
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "74104751"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567970"
 ---
 # <a name="using-constants-directly-in-the-root-signature"></a>Использование констант непосредственно в корневой подписи
 
@@ -43,16 +43,16 @@ ConstantBuffer<DrawConstants> myDrawConstants : register(b1, space0);
 
 Кроме того, см. [**структуру \_ \_ констант D3D12 root**](/windows/desktop/api/d3d12/ns-d3d12-d3d12_root_constants) .
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
 [Корневые подписи](root-signatures.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

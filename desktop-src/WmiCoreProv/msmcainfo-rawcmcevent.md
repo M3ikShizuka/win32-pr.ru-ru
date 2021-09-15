@@ -1,5 +1,5 @@
 ---
-description: Содержит исправленное событие проверки компьютера (CMC). Этот класс доступен только в 64-разрядных системах Windows.
+description: Содержит исправленное событие проверки компьютера (CMC). этот класс доступен только в 64-разрядных Windows системах.
 ms.assetid: e12efbf7-7d53-415a-bc48-90d33e4ce16d
 title: Класс MSMCAInfo_RawCMCEvent
 ms.topic: reference
@@ -18,15 +18,15 @@ api_type:
 api_location:
 - Wmiprov.dll
 ms.openlocfilehash: 1bb60d5fbcf004b924a91e640d8cd8a8c5ad3c25
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105712612"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568111"
 ---
 # <a name="msmcainfo_rawcmcevent-class"></a>\_Класс мсмкаинфо равкмцевент
 
-Класс **мсмкаинфо \_ Равкмцевент** содержит исправленное событие проверки компьютера (CMC). Этот класс доступен только в 64-разрядных системах Windows.
+Класс **мсмкаинфо \_ Равкмцевент** содержит исправленное событие проверки компьютера (CMC). этот класс доступен только в 64-разрядных Windows системах.
 
 Следующий синтаксис упрощен из кода MOF-файл (MOF) и включает все его унаследованные свойства. Свойства и методы имеют алфавитный порядок, а не порядок MOF.
 
@@ -42,13 +42,13 @@ class MSMCAInfo_RawCMCEvent : WMIEvent
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **мсмкаинфо \_ равкмцевент** имеет следующие типы членов:
 
 -   [Свойства](#properties)
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **мсмкаинфо \_ равкмцевент** имеет следующие свойства.
 
@@ -120,7 +120,7 @@ class MSMCAInfo_RawCMCEvent : WMIEvent
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP<br/>                                                                  |
-| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                         |
+| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                         |
 | Пространство имен<br/>                | Корневой \\ инструментарий WMI<br/>                                                                   |
 | MOF<br/>                      | <dl> <dt>Вмикоре. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wmiprov.dll</dt> </dl> |

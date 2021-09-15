@@ -15,12 +15,12 @@ keywords:
 - интерфейсы, Ианнотатионпровидер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2cdc5c37c61878513b5d01812ab73c086f87d182d4b2c955efaf8706d52e4bcb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1c1a0441816e548faaa9076b3a9717c0aa76f08a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119505263"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567254"
 ---
 # <a name="annotation-control-pattern"></a>Шаблон элемента Annotation
 
@@ -36,7 +36,7 @@ ms.locfileid: "119505263"
 
 -   [Правила и соглашения реализации](#implementation-guidelines-and-conventions)
 -   [Обязательные члены для **ианнотатионпровидер**](#required-members-for-iannotationprovider)
--   [Связанные темы](#related-topics)
+-   [Связанные разделы](#related-topics)
 
 ## <a name="implementation-guidelines-and-conventions"></a>Правила и соглашения реализации
 
@@ -67,11 +67,11 @@ ms.locfileid: "119505263"
 
 | Обязательные члены                                                                | Тип члена | Примечания |
 |---------------------------------------------------------------------------------|-------------|-------|
-| [**аннотатионтипеид**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-iannotationprovider-get_annotationtypeid)     | Свойство    | Отсутствует. |
-| [**аннотатионтипенаме**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-iannotationprovider-get_annotationtypename) | Свойство    | Отсутствует. |
-| [**Автор**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-iannotationprovider-get_author)                         | Свойство    | Отсутствует. |
-| [**DateTime**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-iannotationprovider-get_datetime)                     | Свойство    | Отсутствует. |
-| [**Целевой объект**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-iannotationprovider-get_target)                         | Свойство    | Отсутствует. |
+| [**аннотатионтипеид**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-iannotationprovider-get_annotationtypeid)     | Свойство    | Нет. |
+| [**аннотатионтипенаме**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-iannotationprovider-get_annotationtypename) | Свойство    | Нет. |
+| [**Автор**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-iannotationprovider-get_author)                         | Свойство    | Нет. |
+| [**DateTime**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-iannotationprovider-get_datetime)                     | Свойство    | Нет. |
+| [**Мишень**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-iannotationprovider-get_target)                         | Свойство    | Нет. |
 
 
 
@@ -79,7 +79,7 @@ ms.locfileid: "119505263"
 
 Этот шаблон элемента управления не имеет связанных событий.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

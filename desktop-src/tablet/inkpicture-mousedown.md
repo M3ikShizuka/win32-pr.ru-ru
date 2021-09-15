@@ -4,12 +4,12 @@ ms.assetid: ff776b2b-7dd8-4d3d-b0f6-714b186d447e
 title: Событие InkPicture. MouseDown (Мсинкаут. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1bd844d4666f3ff0e1ca22e233a13cc09cdcd0b1090634b934dfc3ee9ee8a288
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 40e4459f5c304b3350f9cbad6aba69418bd24844
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118042086"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458796"
 ---
 # <a name="inkpicturemousedown-event"></a>Событие InkPicture. MouseDown
 
@@ -100,7 +100,7 @@ void MouseDown(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

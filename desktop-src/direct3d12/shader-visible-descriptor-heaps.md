@@ -5,12 +5,12 @@ ms.assetid: 37691fd1-212d-4786-ac9c-861c1a6a4918
 ms.localizationpriority: high
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 96fbbb37f3337912780e5882918c0fcbc146c41f8dc60ddf3ba5d2a35c82c1bc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e650d324f0826e00d8ffff08348597112f6d5cc4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119045400"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567982"
 ---
 # <a name="shader-visible-descriptor-heaps"></a>Доступные шейдеру кучи дескрипторов
 
@@ -18,9 +18,9 @@ ms.locfileid: "119045400"
 
 -   [Обзор](#overview)
 -   [Пример](#an-example)
--   [Связанные темы](#related-topics)
+-   [Связанные разделы](#related-topics)
 
-## <a name="overview"></a>Обзор
+## <a name="overview"></a>Общие сведения
 
 В кучах дескрипторов, на которые могут ссылаться шейдеры через таблицы дескрипторов, входят несколько разновидностей: один тип кучи, D3D12 \_ SRV \_ UAV CBV- \_ \_ куча дескрипторов \_ , может содержать представления ресурсов шейдера, неупорядоченные представления доступа и представления постоянного буфера, все смешанные. Любое заданное расположение в куче может быть одним из перечисленных типов дескрипторов. Другой тип кучи, \_ \_ образец типа кучи дескрипторов D3D12 \_ \_ , хранит только образцы, отражающие факт, что для большинства оборудования Управление пробами осуществляется отдельно от СРВС, уавс, КБВС.
 
@@ -43,7 +43,7 @@ ms.locfileid: "119045400"
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

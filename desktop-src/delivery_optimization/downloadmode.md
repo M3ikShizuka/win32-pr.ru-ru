@@ -15,12 +15,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 9ea753ef47dc2e6655d7e707466d7b0448bee7bec1f090b1baf4de04799283d1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0cde44a3d211040e2cc1dd62afd54f8284f5493e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118543728"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566774"
 ---
 # <a name="downloadmode-enumeration"></a>Перечисление DownloadMode
 
@@ -94,4 +94,4 @@ typedef enum _DownloadMode {
 |-------------------------------|----------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 10, только для \[ настольных приложений версии 1709\]<br/>      |
 | Минимальная версия сервера<br/> | Windows Server, только для \[ настольных приложений версии 1709\]<br/>  |
-| Header<br/>                   | <dl> <dt>Deliveryoptimization. h</dt> </dl>               |
+| Заголовок<br/>                   | <dl> <dt>Deliveryoptimization. h</dt> </dl>               |

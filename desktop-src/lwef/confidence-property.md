@@ -4,12 +4,12 @@ description: Свойство достоверности
 ms.assetid: 28a57970-4649-4a9a-9fb2-bf3f0b2f54ce
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f446136ce9711d17adf133dd205741c7812ef1360526a0a2c1c6c86442f13aac
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5aa004e5690c534b7467c293d26cdf60f327dcfb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119716524"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567566"
 ---
 # <a name="confidence-property"></a>Свойство достоверности
 
@@ -41,7 +41,7 @@ ms.locfileid: "119716524"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если возвращенное значение достоверности наилучшего соответствия (UserInput. достоверность) не превышает значение, заданное для свойства **достоверности** , то текст, указанный в [**конфиденцетекст**](confidencetext-property.md) , отображается в подсказке прослушивания.
 

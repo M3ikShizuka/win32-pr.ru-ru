@@ -4,12 +4,12 @@ ms.assetid: 81f6b25e-ea14-4dbd-a715-926db7cf90e7
 title: Использование средств WinHTTP
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 813b71ab56ef9b6705d7ead31412e32339495cb400ad87bd22060cb3f94c3b6a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e2e402962dc34cbf654fa8db49f96b86e7406a4f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119413174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568171"
 ---
 # <a name="using-winhttp-tools"></a>Использование средств WinHTTP
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: a94fee2a0bd80f391b514895aa5b5348cbef6d8a53e31200b49a403a6712e2d5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9dce979e48ed118dc257c147b27615f7bbc89231
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118296887"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568419"
 ---
 # <a name="id3dxanimationcontrollersettrackanimationset-method"></a>Метод ID3DXAnimationController:: Сеттракканиматионсет
 
@@ -65,7 +65,7 @@ HRESULT SetTrackAnimationSet(
 
 Если метод выполнен успешно, возвращается значение S \_ . Если метод завершается с ошибкой, возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод задает для набора анимации заданную запись для смешения. Набор анимации для каждой записи смешивается в соответствии с толщиной и скоростью записи при вызове [**AdvanceTime**](id3dxanimationcontroller--advancetime.md) .
 

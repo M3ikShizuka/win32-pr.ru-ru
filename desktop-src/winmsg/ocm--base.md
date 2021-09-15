@@ -4,12 +4,12 @@ ms.assetid: b1a9c0ca-349d-49d2-9b8b-ae7d3bf94c10
 title: OCM__BASE (Олектл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a0f159dc4eab2f6a240b3400354b58ab1e94e466522c9b91f34af0f0cc60eb70
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fa3713d8a7b7447430e914e2582089244a417b1c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118031204"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458758"
 ---
 # <a name="ocm__base"></a>\_ \_ базовый OCM
 
@@ -60,7 +60,7 @@ ms.locfileid: "118031204"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -73,7 +73,7 @@ ms.locfileid: "118031204"
 [**\_приложение WM**](wm-app.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Сообщения и очереди сообщений](messages-and-message-queues.md)

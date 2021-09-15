@@ -14,12 +14,12 @@ dev_langs:
 - JScript
 - VB
 - other
-ms.openlocfilehash: 13d01bc1ced977f5412d311669da0c1b3fd54b50da3bd221188d5c38581a1f8d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9a0d0b7c4a8996c7093a57b370c8d0a03dc409e3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119042622"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567130"
 ---
 # <a name="apijetgetcolumninfo-method"></a>API. Жетжетколумнинфо, метод
 
@@ -60,7 +60,7 @@ ms.locfileid: "119042622"
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс API](./api-class.md)
 

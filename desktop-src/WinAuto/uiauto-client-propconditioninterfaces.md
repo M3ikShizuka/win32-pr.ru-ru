@@ -4,12 +4,12 @@ description: В этом разделе описываются интерфей�
 ms.assetid: cea34e47-03a9-4ff9-9019-427a2a3e13d6
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 447c2bf9a67a5fc9cbd303e86599502e2b6154f53485af5a57bf13a6268fa930
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 00f840706d4f9e340cae86813a4992400791dccd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119133487"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567310"
 ---
 # <a name="property-condition-interfaces-for-clients"></a>Интерфейсы условий свойств для клиентов
 
@@ -32,7 +32,7 @@ ms.locfileid: "119133487"
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

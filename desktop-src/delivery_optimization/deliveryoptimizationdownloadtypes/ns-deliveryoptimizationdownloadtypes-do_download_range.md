@@ -14,12 +14,12 @@ api_type:
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 07/03/2019
-ms.openlocfilehash: 39672bff2e3a7194f7d674b2184d5de8c9c3c601e4a7777ef31ace80f5f9f327
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0f328565c80350a05cbfb23f178ea3580586f326
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119047122"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566783"
 ---
 # <a name="do_download_range-structure"></a>Структура DO_DOWNLOAD_RANGE
 
@@ -34,7 +34,7 @@ typedef struct _DO_DOWNLOAD_RANGE
 } DO_DOWNLOAD_RANGE;
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 `Offset`
 
@@ -44,7 +44,7 @@ typedef struct _DO_DOWNLOAD_RANGE
 
 Длина диапазона в байтах. Не указывайте нулевую длину в байтах. Чтобы указать, что диапазон расширяется до конца файла, укажите **DO_LENGTH_TO_EOF**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | &nbsp; | &nbsp; |
 | ---- |:---- |

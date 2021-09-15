@@ -4,12 +4,12 @@ description: В этом разделе содержится пример код
 ms.assetid: 41ca783d-56d1-4ad5-8f07-c265ff2e07bd
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 16fe6539a24f271f5c1e8042b1be9933a77f1118b27730d510026de1852d7938
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2ed5c6c1bec961d4f0df83687cd19eecba6ed179
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118324452"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567258"
 ---
 # <a name="how-to-walk-the-ui-automation-tree"></a>Пошаговое руководство по дереву модели автоматизации пользовательского интерфейса
 
@@ -17,7 +17,7 @@ ms.locfileid: "118324452"
 
 -   [Проход по потомкам элемента](#walking-through-descendants-of-an-element)
 -   [Проход по элементам предка](#walking-through-ancestor-elements)
--   [Связанные темы](#related-topics)
+-   [Связанные разделы](#related-topics)
 
 ## <a name="walking-through-descendants-of-an-element"></a>Проход по потомкам элемента
 
@@ -149,11 +149,11 @@ cleanup:
 
 
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Получение элементов автоматизации пользовательского интерфейса](uiauto-obtainingelements.md)

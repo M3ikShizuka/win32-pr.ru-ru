@@ -14,12 +14,12 @@ api_type:
 api_location:
 - PortableDeviceGUIDs.lib
 - PortableDeviceGUIDs.dll
-ms.openlocfilehash: 100dd614978260824fa14cefc22e1bf7fdd5d11e474e4f58124685fc8d8f2eac
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: face82230b9dd3bf6cbde18aaee8dd857e17d0a3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118963573"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458704"
 ---
 # <a name="iportabledevicevaluessetiportabledevicekeycollectionvalue-method"></a>Метод Ипортабледевицевалуес:: Сетипортабледевицекэйколлектионвалуе
 
@@ -73,7 +73,7 @@ HRESULT SetIPortableDeviceKeyCollectionValue(
 
 Если существующее значение имеет тот же ключ, что и параметр *Key* , он перезаписывает существующее значение без предупреждения. Существующий ключ памяти освобождается соответствующим образом.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

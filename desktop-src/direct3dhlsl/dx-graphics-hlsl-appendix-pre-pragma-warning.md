@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 2d98e80ba691422b0a197b732dbc5fc762a25562
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122631862"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568382"
 ---
 # <a name="warning-pragma-directive"></a>Warning pragma, директива
 
@@ -45,7 +45,7 @@ ms.locfileid: "122631862"
 <thead>
 <tr class="header">
 <th>Элемент</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -56,7 +56,7 @@ ms.locfileid: "122631862"
 <thead>
 <tr class="header">
 <th>Значение</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -65,7 +65,7 @@ ms.locfileid: "122631862"
 <td>Отображение сообщения предупреждений с указанными числами только один раз.</td>
 </tr>
 <tr class="even">
-<td>default</td>
+<td>значение по умолчанию</td>
 <td>Сброс поведения предупреждений с указанными значениями по умолчанию. Это также влияет на отключение предупреждения по умолчанию. Предупреждение будет создано на уровне по умолчанию.</td>
 </tr>
 <tr class="odd">
@@ -96,7 +96,7 @@ ms.locfileid: "122631862"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Можно указать любое количество уникальных изменений поведения предупреждений в пределах одной и той же директивы pragma warning, разделяя изменения точкой с запятой.
 
@@ -126,7 +126,7 @@ ms.locfileid: "122631862"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

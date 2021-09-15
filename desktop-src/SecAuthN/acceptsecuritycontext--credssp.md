@@ -4,12 +4,12 @@ ms.assetid: a53f733e-b646-4431-b021-a2c446308849
 title: Функция AcceptSecurityContext (CredSSP)
 ms.topic: article
 ms.date: 07/25/2019
-ms.openlocfilehash: df4c87274c3a19d9e4a028cde813801688ce1927d1a0b89dbe3a7e8633ce8b57
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 681e03ea15729cc8726d63551e8b7b0a2b39ecac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119141697"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568246"
 ---
 # <a name="acceptsecuritycontext-credssp-function"></a>Функция AcceptSecurityContext (CredSSP)
 
@@ -113,7 +113,7 @@ SECURITY_STATUS SEC_ENTRY AcceptSecurityContext(
 | SEC_I_CONTINUE_NEEDED <br/> 0x00090312L             | Функция выполнена успешно. Сервер должен отправить выходной токен клиенту и дождаться возвращенного маркера. Возвращаемый токен должен передаваться в *пинпут* для другого вызова [**AcceptSecurityContext (CredSSP)**](acceptsecuritycontext--credssp.md).
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция **AcceptSecurityContext (CredSSP)** — это серверный аналог функции [**InitializeSecurityContext (CredSSP)**](initializesecuritycontext--credssp.md) .
 

@@ -4,12 +4,12 @@ description: Справочная документация по ключам с�
 ms.assetid: fe0f4255-c429-4821-a180-38a3bdbf0623
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9404adb6c51e0a175297ba0987a31a2e06d0da13913bf789935b3567e533401b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 987b2bfda06a56df0cfe31eed9a3bc2f22241dc0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120056274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458767"
 ---
 # <a name="font-control-properties"></a>Свойства элемента управления "Шрифт"
 

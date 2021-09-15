@@ -4,12 +4,12 @@ ms.assetid: 67bc087f-7519-4c8a-9b34-b3ecd306a334
 title: Функция QueryContextAttributes (General) (Sspi.h)
 ms.topic: reference
 ms.date: 07/25/2019
-ms.openlocfilehash: 77c9476b9782e4a410def150ead2d2f8d08c4d49da0c1fab76195a434b2a9573
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c534cc425a14de31a9692d88ba9abf17d6ff0a19
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118920222"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568227"
 ---
 # <a name="querycontextattributes-general-function"></a>Функция QueryContextAttributes (общая)
 
@@ -116,13 +116,13 @@ SECURITY_STATUS SEC_ENTRY QueryContextAttributes(
 
 Если функция завершается ошибкой, возвращаемое значение является ненулевым кодом ошибки.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Структура, на которую указывает параметр *pBuffer* , зависит от запрашиваемого атрибута. Вызывающий объект должен выделить структуру *pBuffer* , но SSP выделяет всю память, необходимую для хранения членов переменной размера структуры *pBuffer* . Память, выделенная поставщиком общих служб, может быть освобождена путем вызова функции [**фриконтекстбуффер**](/windows/win32/api/sspi/nf-sspi-freecontextbuffer) .
 
 После \_ \_ \_ \_ считывания значения контекста удаленного сертификата SECPKG attr или \_ локального сертификата SECPKG attr для \_ \_ \_ элемента **хцертсторе** будет задан маркер хранилища сертификатов, содержащего промежуточные сертификаты, если таковые имеются. Кроме того, приложение отвечает за вызов [**цертфрицертификатеконтекст**](/windows/win32/api/wincrypt/nf-wincrypt-certfreecertificatecontext) для освобождения памяти, используемой контекстом сертификата.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -130,7 +130,7 @@ SECURITY_STATUS SEC_ENTRY QueryContextAttributes(
 |-------------------------------------|--------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                                            |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                   |
-| Header<br/>                   | <dl> <dt>SSPI. h (включая Security. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>SSPI. h (включая Security. h)</dt> </dl> |
 | Библиотека<br/>                  | <dl> <dt>Secur32. lib</dt> </dl>                 |
 | DLL<br/>                      | <dl> <dt>Secur32.dll</dt> </dl>                 |
 | Имя в кодировке Юникод и ANSI<br/>   | **Куериконтекстаттрибутесв** (Юникод) и **куериконтекстаттрибутеса** (ANSI)<br/>                |

@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: afd0aede44effb14005f111429e365e6831df0d2cae8d1d0685539620c696723
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b4d4dcbbbcb8b5225af038bf71e67c3a14260942
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119897964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567226"
 ---
 # <a name="swbempropertysetitem-method"></a>SWbemPropertySet. Item, метод
 
@@ -48,7 +48,7 @@ objProperty = .Item( _
 *strName* \[ окне\]
 </dt> <dd>
 
-Обязательный. Имя извлекаемого свойства.
+Обязательный элемент. Имя извлекаемого свойства.
 
 </dd> <dt>
 
@@ -90,7 +90,7 @@ objProperty = .Item( _
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

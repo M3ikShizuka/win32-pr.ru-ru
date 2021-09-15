@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: a8b379265be4bac399d746a2421d9aeb34a1559c5b18ab4f439e57d586af6d62
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d898a7d40cd1c9f7b46100c19d86573806ccb1b5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119122874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567847"
 ---
 # <a name="d3dxmatrixperspectivelh-function-d3dx9mathh"></a>Функция D3DXMatrixPerspectiveLH (D3dx9math. h)
 
@@ -95,7 +95,7 @@ Z-значение дальней плоскости просмотра.
 
 Указатель на структуру [**D3DXMATRIX**](d3dxmatrix.md) , которая является матрицей перспективной проекции влево.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Все параметры функции **D3DXMatrixPerspectiveLH** — это расстояния в пространстве камеры. Параметры описывают размеры представления объема.
 

@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 98ae40ecc25fabb4fa6054417f30e6e358fc962bb05b192e03d1ea416d255211
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e524a23d5e8fb20b1b6db1fb7e82fbb07bf3df0f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119117574"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458851"
 ---
 # <a name="apijetidle-method"></a>API. Жетидле, метод
 
@@ -83,7 +83,7 @@ public static JET_wrn JetIdle(
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс API](./api-class.md)
 

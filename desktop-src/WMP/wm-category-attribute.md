@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5537d8ead3ec7d68a56fb5f67018c944ab2988fbbf7c751988c22f646e7cd28f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 57fbf8d08a5a1b6af003f4127441f15b7b9ca505
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119761414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458668"
 ---
 # <a name="wmcategory-attribute"></a>Атрибут WM/Category
 
@@ -32,7 +32,7 @@ ms.locfileid: "119761414"
 -   [Списки воспроизведения](playlist-attributes-ref.md)
 -   [Элементы видео](video-item-attributes.md)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут хранится как в библиотеке, так и в файле цифрового мультимедиа.
 
@@ -40,7 +40,7 @@ ms.locfileid: "119761414"
 
 Чтобы определить, можно ли изменить значение этого атрибута, используйте метод [Media. исреадонлитем](media-isreadonlyitem.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -50,7 +50,7 @@ ms.locfileid: "119761414"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

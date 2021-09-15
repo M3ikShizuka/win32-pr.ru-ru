@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 22b36e1836570a10647f5b737a68afa1e65a4dce80fe9d49061a3eee8a799651
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 645e6ae1e1cb84991b352c250b137cd3ae2491f0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117729456"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568410"
 ---
 # <a name="id3dxskininfoupdateskinnedmesh-method"></a>Метод ID3DXSkinInfo:: Упдатескиннедмеш
 
@@ -85,7 +85,7 @@ HRESULT UpdateSkinnedMesh(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть D3DERR \_ инвалидкалл.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При использовании для обложки вершин с двумя элементами позиционирования этот метод обрисовывает второй элемент расположения с обратной стороны кости, а не саму кость.
 

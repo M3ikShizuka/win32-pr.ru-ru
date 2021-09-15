@@ -8,11 +8,11 @@ ms:contentKeyID: 55107296
 ms.date: 07/30/2014
 ms.topic: article
 ms.openlocfilehash: e247de3a2ceee6f8cd4aac6e7facc4ffea05b2e9
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104559158"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567055"
 ---
 # <a name="esentlogfilesizemismatchdatabasesconsistentexception-members"></a>Элементы Есентлогфилесиземисматчдатабасесконсистентексцептион
 
@@ -166,7 +166,7 @@ ms.locfileid: "104559158"
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Есентлогфилесиземисматчдатабасесконсистентексцептион](./esentlogfilesizemismatchdatabasesconsistentexception-class.md)
 

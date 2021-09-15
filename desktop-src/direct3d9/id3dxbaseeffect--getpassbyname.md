@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: 5837d2b69c793f788c4c89f648402e7924bc2f3af9a92bbbe596c133efe10d1e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2cd96a9d91f0e822b3e869bd8f0c965f0f951f44
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118987764"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566619"
 ---
 # <a name="id3dxbaseeffectgetpassbyname-method"></a>Метод ID3DXBaseEffect:: Жетпассбинаме
 
@@ -65,7 +65,7 @@ D3DXHANDLE GetPassByName(
 
 Возвращает маркер первого прохода в указанном методе с указанным именем или **значение NULL** , если имя не найдено. См. раздел [Handles (Direct3D 9)](handles.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ D3DXHANDLE GetPassByName(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

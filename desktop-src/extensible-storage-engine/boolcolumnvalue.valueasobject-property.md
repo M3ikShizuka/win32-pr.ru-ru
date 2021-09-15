@@ -25,12 +25,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 666fa815d3cefde5869352eef3e23a5742dc51c858641fdc17e919d8dbdd20d8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 73597548bc26ef9527c2fa6033454d7017ebf5b3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119947654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566539"
 ---
 # <a name="boolcolumnvaluevalueasobject-property"></a>Булколумнвалуе. Валуеасобжект, свойство
 
@@ -60,7 +60,7 @@ public override Object ValueAsObject { get; }
 
 Тип: [System. Object](/dotnet/api/system.object)  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

@@ -4,12 +4,12 @@ ms.assetid: 0848639a-26ce-47ad-8384-8969a7c3bcde
 title: Автоматическое преобразование из MTS
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e02cc3889c479d829290b22b71edf13cc4ebc8f419c333d5e99390d47c01da65
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d424a443995c9fff9073878a43543d4c029a2445
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118549491"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568062"
 ---
 # <a name="automatic-conversion-from-mts"></a>Автоматическое преобразование из MTS
 
@@ -31,7 +31,7 @@ ms.locfileid: "118549491"
 
 служебная программа мтстоком создает файл журнала (мтстоком. log) в каталоге Windows. Этот файл журнала хранит запись о преобразовании из пакетов MTS в приложения COM+. Если во время преобразования возникли ошибки, рекомендуется проверить файл журнала для получения дополнительных сведений. В файле журнала обнаруживаются распространенные проблемы, например недопустимый пользователь или пароль.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: d71baf2c5b82dd59bd06ffdc02b11a747111a6c88fb2c9e123c9e6e6b10d5059
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5dc8e2a33a3482afff5f492a3886ea1aa13256e4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119839507"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567074"
 ---
 # <a name="esentdtcmissingcallbackonrecoveryexception-class"></a>Класс Есентдткмиссингкаллбакконрековерексцептион
 
@@ -70,7 +70,7 @@ public sealed class EsentDTCMissingCallbackOnRecoveryException : EsentObsoleteEx
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Элементы Есентдткмиссингкаллбакконрековерексцептион](./esentdtcmissingcallbackonrecoveryexception-members.md)
 

@@ -4,12 +4,12 @@ ms.assetid: abfb280e-92db-4198-b9e1-d0782cca1ccd
 title: Функции GraphicsPath
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 96071c56aea4620fbb1efca6ff9dc8c2b097853210445a97001524ad9bae7cfb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 588f7319749d3a46209bf353bb2efdf4362b145c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117885561"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566383"
 ---
 # <a name="graphicspath-functions"></a>Функции GraphicsPath
 

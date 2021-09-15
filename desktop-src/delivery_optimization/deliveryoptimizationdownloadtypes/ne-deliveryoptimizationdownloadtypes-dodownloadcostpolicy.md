@@ -14,12 +14,12 @@ api_type:
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 07/02/2019
-ms.openlocfilehash: 763042ed6d0df6fa287fbe66d23528a199a73041cb3500c6a2812e6db86cb698
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c70384f7c7da1633b910db36c42a335d1c463bae
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119677884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566806"
 ---
 # <a name="dodownloadcostpolicy-enumeration"></a>Перечисление Додовнлоадкостполици
 
@@ -50,7 +50,7 @@ typedef enum _DODownloadCostPolicy
 | DODownloadCostPolicy_NoSurcharge | Загрузка выполняется, если не взимается плата. |
 | DODownloadCostPolicy_NoCellular | Загрузка выполняется, если сеть не подключена к сотовой сети. |
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | &nbsp; | &nbsp; |
 | ---- |:---- |

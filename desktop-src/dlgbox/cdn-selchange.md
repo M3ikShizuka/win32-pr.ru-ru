@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: be7306bf8a1cf012c70738ddf81ae9422e8d658bda33d31b7adda1d57a25629c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8c21aa9dda117c74707b3c890ad96e017b45bcc0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119843265"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566582"
 ---
 # <a name="cdn_selchange-notification-code"></a>CDN \_ Код уведомления СЕЛЧАНЖЕ
 
@@ -65,7 +65,7 @@ ms.locfileid: "119843265"
 
 Чтобы получить имя только что выбранного файла или папки, процедура-обработчик может отправить сообщение CDM- [**\_ FilePath**](cdm-getfilepath.md) или CDM- [**\_ Spec**](cdm-getspec.md) в диалоговое окно.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -77,7 +77,7 @@ ms.locfileid: "119843265"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -102,7 +102,7 @@ ms.locfileid: "119843265"
 [**офнотифи**](/windows/desktop/api/Commdlg/ns-commdlg-ofnotifya)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Библиотека общих диалоговых окон](common-dialog-box-library.md)

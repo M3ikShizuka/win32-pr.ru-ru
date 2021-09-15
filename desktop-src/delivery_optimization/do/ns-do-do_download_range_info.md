@@ -14,12 +14,12 @@ api_type:
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 07/03/2019
-ms.openlocfilehash: 30df22c7232ad1d28315e8152396ddd92bdab9a7cbf67d748af134c0f0760c33
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 01628ea29895012f60552e696b7f68854f426f8d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118543748"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566778"
 ---
 # <a name="do_download_range_info-structure"></a>Структура DO_DOWNLOAD_RANGE_INFO
 
@@ -34,7 +34,7 @@ typedef struct _DO_DOWNLOAD_RANGES_INFO
 } DO_DOWNLOAD_RANGES_INFO;
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 `RangeCount`
 

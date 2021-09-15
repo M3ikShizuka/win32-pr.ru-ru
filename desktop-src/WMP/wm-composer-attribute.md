@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f41e92e1f343ecbd532769560a6d2d555c275e147ab2386ae574c2dea8bc411c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a2f206b1a23126612f3f7c875b9a9b4badca8339
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120001174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458669"
 ---
 # <a name="wmcomposer-attribute"></a>атрибут WM/Composer
 
@@ -30,7 +30,7 @@ ms.locfileid: "120001174"
 -   [Дорожки компакт-диска](cd-track-attributes.md)
 -   [часто используемые Windows атрибуты файла мультимедиа](commonly-used-windows-media-file-attributes.md)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут хранится как в библиотеке (или в кэше), так и в файле цифрового носителя.
 
@@ -42,7 +42,7 @@ ms.locfileid: "120001174"
 
 Чтобы определить, можно ли изменить значение этого атрибута, используйте метод [Media. исреадонлитем](media-isreadonlyitem.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -52,7 +52,7 @@ ms.locfileid: "120001174"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

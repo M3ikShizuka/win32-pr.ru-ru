@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: e462438ea762160988e44f034bc0e32f4d631a9fbd472a9584dd40886211ae9c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f8b57470509599160544df2bf93846fd31d73506
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119722344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458845"
 ---
 # <a name="esentreadlostflushverifyfailureexception-constructor"></a>Конструктор Есентреадлостфлушверифифаилуриксцептион
 
@@ -52,9 +52,9 @@ Dim instance As New EsentReadLostFlushVerifyFailureException()
 public EsentReadLostFlushVerifyFailureException()
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Есентреадлостфлушверифифаилуриксцептион](./esentreadlostflushverifyfailureexception-class.md)
 

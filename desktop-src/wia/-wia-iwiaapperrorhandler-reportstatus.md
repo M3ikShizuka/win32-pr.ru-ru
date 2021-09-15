@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Wiaguid.lib
 - Wiaguid.dll
-ms.openlocfilehash: 9cc727845489740fae54dcc96bf5bc903bceb0205688c1c60bee3df980f66845
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1285b5391014919d7108f207917b0c44c03fa360
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118965753"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458783"
 ---
 # <a name="iwiaapperrorhandlerreportstatus-method"></a>Метод Ивиаапперрорхандлер:: Репортстатус
 

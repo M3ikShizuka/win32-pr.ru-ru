@@ -5,15 +5,15 @@ ms.assetid: ecd39ee3-1ebe-4bce-a494-7d7f8fc899a8
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 86440cfd295d1e0b4aa444e4810e2552fb6c803d
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "104069974"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567571"
 ---
 # <a name="command-method"></a>Метод Command
 
-\[Microsoft Agent является устаревшим в Windows 7 и может быть недоступен в последующих версиях Windows.\]
+\[Microsoft Agent является устаревшим по отношению к Windows 7 и может быть недоступен в последующих версиях Windows.\]
 
 <dl> <dt>
 
@@ -27,7 +27,7 @@ ms.locfileid: "104069974"
 <span id="Syntax"></span><span id="syntax"></span><span id="SYNTAX"></span>**Syntax**
 </dt> <dd>
 
-*Агент ***. Символы ("*** чарактерид * * *"). Commands. Command** "*имя*"
+*Агент ***. Символы ("**_чарактерид_*_"). Commands. Command_* "*имя*"
 
 </dd> </dl>
 
@@ -38,8 +38,8 @@ ms.locfileid: "104069974"
 > [!Note]  
 > Этот метод может потребоваться для некоторых языков программирования. Он не требуется для VBScript или Visual Basic. Дополнительные сведения об указании методов **команд** см. в разделе Свойства объекта команды.
 
- 
+ 
 
- 
+ 
 
- 
+ 

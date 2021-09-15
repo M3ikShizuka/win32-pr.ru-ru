@@ -4,12 +4,12 @@ ms.assetid: ffbf0fe2-7651-4241-8669-2f4e9fe0868e
 title: Функции LinearGradientBrush
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c992e69b2aa471a2bbe7857becf204febacec15aa0f07d4e83b01196944717ab
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d3128657156ed2282669942cda18293f8265e6e2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119466754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566366"
 ---
 # <a name="lineargradientbrush-functions"></a>Функции LinearGradientBrush
 

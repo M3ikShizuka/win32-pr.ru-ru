@@ -15,11 +15,11 @@ api_location:
 - PortableDeviceGUIDs.lib
 - PortableDeviceGUIDs.dll
 ms.openlocfilehash: 3ec2b1137e7959a646c2943ab1aa7a5c3428d3c0
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108109950"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458710"
 ---
 # <a name="iportabledevicekeycollectionremoveat-method"></a>Метод Ипортабледевицекэйколлектион:: RemoveAt
 
@@ -72,12 +72,12 @@ HRESULT RemoveAt(
 
 | Требование | Значение |
 |--------------------|----------------------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>Портабледевицетипес. h</dt> </dl>   |
+| Заголовок<br/>  | <dl> <dt>Портабледевицетипес. h</dt> </dl>   |
 | Библиотека<br/> | <dl> <dt>Портабледевицегуидс. lib</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

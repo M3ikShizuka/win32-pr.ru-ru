@@ -15,11 +15,11 @@ api_location:
 - d3dx9.lib
 - d3dx9.dll
 ms.openlocfilehash: 404147cfbab0b4fedb7c7356dc1c31d3e203eb5f
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108118292"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567843"
 ---
 # <a name="d3dxmatrixperspectiveoffcenterlh-function-d3dx9mathh"></a>Функция D3DXMatrixPerspectiveOffCenterLH (D3dx9math. h)
 
@@ -115,7 +115,7 @@ D3DXMATRIX* D3DXMatrixPerspectiveOffCenterLH(
 
 Указатель на структуру [**D3DXMATRIX**](d3dxmatrix.md) , которая является настраиваемой матрицей проекции слева.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Все параметры функции **D3DXMatrixPerspectiveOffCenterLH** — это расстояния в пространстве камеры. Параметры описывают размеры представления объема.
 
@@ -139,12 +139,12 @@ D3DXMATRIX* D3DXMatrixPerspectiveOffCenterLH(
 
 | Требование | Значение |
 |--------------------|----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3dx9math. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3dx9math. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>   |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -5,12 +5,12 @@ ms.assetid: 4C4475D4-534F-484F-8D60-9ACEA09AC109
 ms.localizationpriority: high
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6d6f8bad1d20729f4caa78952feda22378ad37526b33b668e79260ef9658da53
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cb1b61ec374e21c9173797121ee90ec72e789de8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119631890"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567966"
 ---
 # <a name="working-samples"></a>Рабочие примеры
 
@@ -65,7 +65,7 @@ ms.locfileid: "119631890"
 <tr class="odd">
 <td>D3D12Multithreading</td>
 <td>Пример создания многопотокового приложения с поддержкой.</td>
-<td>Д</td>
+<td>Да</td>
 <td>Нет</td>
 
 </tr>
@@ -153,7 +153,7 @@ ms.locfileid: "119631890"
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

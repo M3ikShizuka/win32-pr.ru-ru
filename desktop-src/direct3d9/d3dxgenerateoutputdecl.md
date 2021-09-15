@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 1f74440ce7bbd72f62aa35de242ea48f615a4ed02d82c5782f7f0eaff1d5bc25
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ce3fed752e74df3afa812c228a174503e20c6adf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118096049"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567915"
 ---
 # <a name="d3dxgenerateoutputdecl-function"></a>Функция D3DXGenerateOutputDecl
 
@@ -76,7 +76,7 @@ HRESULT D3DXGenerateOutputDecl(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

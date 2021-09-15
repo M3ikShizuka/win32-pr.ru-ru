@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 07ec4db0bb02eb0a177375fc37af67264f1368b2ab952c0b170580112e4dbf40
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3098c8e779834daf273d5e85469e3f45b01cb039
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118987374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566611"
 ---
 # <a name="id3dxkeyframedanimationsetregisteranimationsrtkeys-method"></a>Метод ID3DXKeyframedAnimationSet:: Регистераниматионсрткэйс
 
@@ -125,7 +125,7 @@ HRESULT RegisterAnimationSRTKeys(
 
 Если метод выполнен успешно, возвращается значение S \_ . Если метод завершается с ошибкой, будет возвращено следующее значение: D3DERR \_ инвалидкалл
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -136,7 +136,7 @@ HRESULT RegisterAnimationSRTKeys(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 71a0f6d38869b789817aca861f4017ce3576c0505797e5e7e9ac8a225359e5d3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d6f926e25f8999dabdc282342a3f071753241578
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119722914"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567051"
 ---
 # <a name="esentmissinglogfileexception-class"></a>Класс Есентмиссинглогфиликсцептион
 
@@ -68,9 +68,9 @@ public sealed class EsentMissingLogFileException : EsentCorruptionException
 
 Любые общедоступные статичные (общие в Visual Basic) члены этого типа являются потокобезопасными. Потокобезопасная работа с членами экземпляров типа не гарантируется.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Элементы Есентмиссинглогфиликсцептион](./esentmissinglogfileexception-members.md)
 

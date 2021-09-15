@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 11c7abceb9b484c4cd104e136c47edeb55b93b5273f953cb6d98052e247513d4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dadbe9620367efc75f821a711de89eb3498d247f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119743584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567794"
 ---
 # <a name="if_comp---vs"></a>Если \_ comp-VS
 
@@ -37,7 +37,7 @@ ms.locfileid: "119743584"
 
     | Синтаксис | Сравнение            |
     |--------|-----------------------|
-    | \_gt   | Больше чем          |
+    | \_gt   | Больше          |
     | \_светл   | Меньше чем             |
     | \_GE   | Больше или равно |
     | \_Le   | Меньше или равно    |
@@ -51,7 +51,7 @@ ms.locfileid: "119743584"
 -   src0 является исходным регистром. Для выбора компонента требуется репликация свиззле.
 -   src1 является исходным регистром. Для выбора компонента требуется репликация свиззле.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 
 
@@ -99,7 +99,7 @@ endif
 
 
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

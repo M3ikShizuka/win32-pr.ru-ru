@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.jet_
 ms:contentKeyID: 55103765
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 1b91f29bdfe3688cd0ce732237d73cb6c2bd21987a61b37fa64c23649309583a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 00151423255a6b937a74fe4cd6cc6fcec0b484b8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118766000"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568254"
 ---
 # <a name="jet_objectlist-members"></a>Элементы JET_OBJECTLIST
 
@@ -30,7 +30,7 @@ ms.locfileid: "118766000"
 <tr class="header">
 <th> </th>
 <th>Имя</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>
@@ -52,7 +52,7 @@ ms.locfileid: "118766000"
 <tr class="header">
 <th> </th>
 <th>Имя</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>
@@ -109,7 +109,7 @@ ms.locfileid: "118766000"
 <tr class="header">
 <th> </th>
 <th>Имя</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>

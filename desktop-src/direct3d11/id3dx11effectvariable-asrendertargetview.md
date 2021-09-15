@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9a8b44b3ed67b6293d4b4add329eef532fdc44cb12cea9e84b1ddf43fb72cc05
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4ca6270503ff786b3f4a319e3f068ba76acada7d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118531425"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568018"
 ---
 # <a name="id3dx11effectvariableasrendertargetview-method"></a>Метод ID3DX11EffectVariable:: Асрендертаржетвиев
 
@@ -47,7 +47,7 @@ ID3DX11EffectRenderTargetViewVariable* AsRenderTargetView();
 
 Указатель на переменную визуализации целевого представления. См. [**ID3DX11EffectRenderTargetViewVariable**](id3dx11effectrendertargetviewvariable.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод возвращает версию переменной Effect, которая была специализированной для переменной визуализации-целевого представления. Как и в приведении, эта специализация вернет недопустимый объект, если переменная действия не содержит данные представления целевого объекта визуализации.
 
@@ -58,7 +58,7 @@ ID3DX11EffectRenderTargetViewVariable* AsRenderTargetView();
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -69,7 +69,7 @@ ID3DX11EffectRenderTargetViewVariable* AsRenderTargetView();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

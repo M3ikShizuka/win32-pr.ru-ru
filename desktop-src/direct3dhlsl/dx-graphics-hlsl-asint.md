@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 492e0b5e400adc4e5c847f12880a668fb5e3b98f683a0f64dbe32ec98f28a93c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ce1b0ca7e1c7b3716be1a3029c5478f96e261ce5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119789864"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568358"
 ---
 # <a name="asint"></a>ASIN
 
@@ -37,7 +37,7 @@ ms.locfileid: "119789864"
 
 
 
-| Элемент                                                   | Описание                        |
+| Элемент                                                   | Описание:                        |
 |--------------------------------------------------------|------------------------------------|
 | <span id="x"></span><span id="X"></span>*x*<br/> | \[во \] входном значении.<br/> |
 
@@ -56,7 +56,7 @@ ms.locfileid: "119789864"
 | Имя  | [**Тип шаблона**](dx-graphics-hlsl-intrinsic-functions.md)                                                  | [**Тип компонента**](dx-graphics-hlsl-intrinsic-functions.md)                  | Размер                           |
 |-------|----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|--------------------------------|
 | *x*   | [**Скалярная**](dx-graphics-hlsl-intrinsic-functions.md), **векторная** или **Матрица** | [**float**](/windows/desktop/WinProg/windows-data-types), [ **uint**](/windows/desktop/WinProg/windows-data-types) | any                            |
-| *обратно* | то же, что входные данные *x*                                                                                              | [**INT**](/windows/desktop/WinProg/windows-data-types)                                           | те же измерения, что и входные *x* |
+| *обратно* | то же, что входные данные *x*                                                                                              | [**int**](/windows/desktop/WinProg/windows-data-types)                                           | те же измерения, что и входные *x* |
 
 
 

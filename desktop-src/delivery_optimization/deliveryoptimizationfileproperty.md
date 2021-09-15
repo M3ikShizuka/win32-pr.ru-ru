@@ -14,12 +14,12 @@ api_type:
 ms.topic: reference
 ms.date: 01/18/2019
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 0df24d1f6de532b635fba03ba5d45fff0fa86393a8924a4b1b55ca565127eb19
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 238ad815149f7d40dd1902b991608e0a3005eb35
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118810758"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566782"
 ---
 # <a name="deliveryoptimizationfileproperty-enumeration"></a>Перечисление Деливерйоптимизатионфилепроперти
 

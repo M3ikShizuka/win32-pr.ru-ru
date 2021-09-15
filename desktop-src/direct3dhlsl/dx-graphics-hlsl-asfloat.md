@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 901b64099547060305bab6db43cbe75b3fdb8d9c
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122886270"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568363"
 ---
 # <a name="asfloat"></a>асфлоат
 
@@ -37,7 +37,7 @@ ms.locfileid: "122886270"
 
 
 
-| Элемент                                                   | Описание                        |
+| Элемент                                                   | Описание:                        |
 |--------------------------------------------------------|------------------------------------|
 | <span id="x"></span><span id="X"></span>*x*<br/> | \[во \] входном значении.<br/> |
 
@@ -56,7 +56,7 @@ ms.locfileid: "122886270"
 | Имя  | [**Тип шаблона**](dx-graphics-hlsl-intrinsic-functions.md)                                                  | [**Тип компонента**](dx-graphics-hlsl-intrinsic-functions.md)                                                         | Размер                           |
 |-------|----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|--------------------------------|
 | *x*   | [**Скалярная**](dx-graphics-hlsl-intrinsic-functions.md), **векторная** или **Матрица** | [**float**](/windows/desktop/WinProg/windows-data-types), [**int**](/windows/desktop/WinProg/windows-data-types), [**uint**](/windows/desktop/WinProg/windows-data-types) | any                            |
-| *обратно* | то же, что входные данные *x*                                                                                              | [**FLOAT**](/windows/desktop/WinProg/windows-data-types)                                                                                | те же измерения, что и входные *x* |
+| *обратно* | то же, что входные данные *x*                                                                                              | [**сделать**](/windows/desktop/WinProg/windows-data-types)                                                                                | те же измерения, что и входные *x* |
 
 
 
@@ -77,10 +77,10 @@ ms.locfileid: "122886270"
 
 | Модель шейдера                                                        | Поддерживается |
 |---------------------------------------------------------------------|-----------|
-| [Модели шейдеров 4](dx-graphics-hlsl-sm4.md) и более поздних шейдеров | да       |
-| [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md)           | нет        |
-| [Модель шейдера 2 (DirectX HLSL)](dx-graphics-hlsl-sm2.md)           | нет        |
-| [Модель шейдера 1 (DirectX HLSL)](dx-graphics-hlsl-sm1.md)           | нет        |
+| [Модели шейдеров 4](dx-graphics-hlsl-sm4.md) и более поздних шейдеров | Да       |
+| [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md)           | Нет        |
+| [Модель шейдера 2 (DirectX HLSL)](dx-graphics-hlsl-sm2.md)           | Нет        |
+| [Модель шейдера 1 (DirectX HLSL)](dx-graphics-hlsl-sm1.md)           | Нет        |
 
 
 

@@ -17,12 +17,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 69cf1a739e15bc7341769bdc01549ad439a1c93877f653f0689e686eb8bac1f2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6c5c358978da1731152ca6f7de8c3f7a92a1da86
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119047102"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566759"
 ---
 # <a name="ibackgroundcopycallbackjobtransferred-method"></a>Метод Ибаккграундкопикаллбакк:: Жобтрансферред
 
@@ -60,7 +60,7 @@ HRESULT JobTransferred(
 
 Если не вызвать метод [**Complete**](ibackgroundcopyjob-complete.md) или метод [**использованием метода ibackgroundcopyjob:: Cancel**](ibackgroundcopyjob-cancel.md) отменяет задание по истечении 30 дней и удаляет незавершенные файлы.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ HRESULT JobTransferred(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

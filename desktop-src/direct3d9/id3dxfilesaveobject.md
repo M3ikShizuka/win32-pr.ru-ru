@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: b6efb87f92a81ec40fe919d76d18a9746e0d88c45f19616933f1b014402aa3e1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f8d657c327c75045cf4feb2080a2e57d80f752df
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119121188"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567822"
 ---
 # <a name="id3dxfilesaveobject-interface"></a>Интерфейс ID3DXFileSaveObject
 
@@ -47,7 +47,7 @@ ms.locfileid: "119121188"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Шаблоны не являются обязательными для каждого файла. Например, можно разместить все шаблоны в одном файле x, а не дублировать их в каждый файл. x.
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5b319543a101a4004030fa2339f5432c52ed79d1685c4a09e3a033554f251051
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 77cd862fa1c3598a4e81a776004f26ef02290477
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117720981"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566567"
 ---
 # <a name="cdn_shareviolation-notification-code"></a>CDN \_ Код уведомления ШАРЕВИОЛАТИОН
 
@@ -80,7 +80,7 @@ ms.locfileid: "117720981"
 
 Система отправляет это уведомление, только если значение **ОФН \_ шареаваре** не было указано при создании диалогового окна.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -117,7 +117,7 @@ ms.locfileid: "117720981"
 [**SetWindowLong**](/windows/desktop/api/winuser/nf-winuser-setwindowlonga)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Библиотека общих диалоговых окон](common-dialog-box-library.md)

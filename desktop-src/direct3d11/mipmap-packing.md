@@ -5,11 +5,11 @@ ms.assetid: 3B416324-7656-495F-9BA9-8F5BE475ABC1
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 0db4cd6f70129f46495673dfc82b5d261210ab21
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104067684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568450"
 ---
 # <a name="mipmap-packing"></a>Упаковка MIP-карт
 
@@ -21,16 +21,16 @@ ms.locfileid: "104067684"
 
 Выделенные API для копирования плиток ([**ID3D11DeviceContext2:: копитилес**](/windows/desktop/api/D3D11_2/nf-d3d11_2-id3d11devicecontext2-copytiles) и [**ID3D11DeviceContext2:: упдатетилес**](/windows/desktop/api/D3D11_2/nf-d3d11_2-id3d11devicecontext2-updatetiles)) не могут получить доступ к упакованному MIPS. Приложения, которые хотят копировать данные в Упакованные MIPS и обратно, могут сделать это с помощью всех API-интерфейсов, отличных от мозаичного, для копирования и отрисовки на поверхностях.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Мозаичное заполнение области мозаичного ресурса](how-a-tiled-resource-s-area-is-tiled.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 
