@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7ca6af0e1e253a1645cc3d4e8914867ef0ec583cc19d26ae1e000a527b7cf838
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 39cc6f92293750713dde2bfb5eaf097576e6c00e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120003154"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458427"
 ---
 # <a name="playlistdropdowntooltip"></a>Список воспроизведения. Дропдовнтултип
 

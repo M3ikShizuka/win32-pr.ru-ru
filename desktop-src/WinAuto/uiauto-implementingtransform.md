@@ -15,12 +15,12 @@ keywords:
 - интерфейсы, Итрансформпровидер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a5aceefa7d482cbbe6d9b1612c1fb9c65081796113e527d5122274ce5d8f8215
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1eae752b34ed0b64fd2c0a7b476377fd1142f9b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118826840"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458244"
 ---
 # <a name="transform-control-pattern"></a>Преобразование шаблона элемента управления
 
@@ -51,12 +51,12 @@ ms.locfileid: "118826840"
 
 | Обязательные члены                                         | Тип члена | Примечания |
 |----------------------------------------------------------|-------------|-------|
-| [**канмове**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itransformprovider-get_canmove)     | Свойство    | Нет  |
-| [**канресизе**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itransformprovider-get_canresize) | Свойство    | Нет  |
-| [**канротате**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itransformprovider-get_canrotate) | Свойство    | Нет  |
-| [**Переместить**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itransformprovider-move)           | Метод      | Нет  |
-| [**Изменить размер**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itransformprovider-resize)       | Метод      | Нет  |
-| [**Поворот**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itransformprovider-rotate)       | Метод      | Нет  |
+| [**канмове**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itransformprovider-get_canmove)     | Свойство.    | None  |
+| [**канресизе**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itransformprovider-get_canresize) | Свойство.    | None  |
+| [**канротате**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itransformprovider-get_canrotate) | Свойство.    | None  |
+| [**Поместить**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itransformprovider-move)           | Метод      | None  |
+| [**Изменить размер**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itransformprovider-resize)       | Метод      | None  |
+| [**Rotate**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itransformprovider-rotate)       | Метод      | None  |
 
 
 
@@ -68,12 +68,12 @@ ms.locfileid: "118826840"
 
 | Обязательные члены                                              | Тип члена | Примечания |
 |---------------------------------------------------------------|-------------|-------|
-| [**канзум**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-itransformprovider2-get_canzoom)     | Свойство    | Нет  |
-| [**Масштабирование**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-itransformprovider2-zoom)           | Метод      | Нет  |
-| [**зумбюнит**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itransformprovider2-zoombyunit)   | Метод      | Нет  |
-| [**зумлевел**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itransformprovider2-get_zoomlevel)     | Свойство    | Нет  |
-| [**зуммаксимум**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itransformprovider2-get_zoommaximum) | Свойство    | Нет  |
-| [**зумминимум**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itransformprovider2-get_zoomminimum) | Свойство    | Нет  |
+| [**канзум**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-itransformprovider2-get_canzoom)     | Свойство.    | None  |
+| [**Zoom**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-itransformprovider2-zoom)           | Метод      | None  |
+| [**зумбюнит**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itransformprovider2-zoombyunit)   | Метод      | None  |
+| [**зумлевел**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itransformprovider2-get_zoomlevel)     | Свойство.    | None  |
+| [**зуммаксимум**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itransformprovider2-get_zoommaximum) | Свойство.    | None  |
+| [**зумминимум**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itransformprovider2-get_zoomminimum) | Свойство.    | None  |
 
 
 

@@ -7,23 +7,23 @@ ms.topic: article
 ms.date: 05/31/2018
 ms.custom: project-verbatim
 ms.openlocfilehash: d0c7ead9ce67ee23a0668304a006d6cd67fb3d67
-ms.sourcegitcommit: af120ad5c30da2fc5eb717ca2a1c4c45878efd71
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104758864"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458613"
 ---
 # <a name="creating-a-basic-direct3d-12-component"></a>Создание базового компонента Direct3D 12
 
 > [!NOTE]
-> Примеры графики DirectX 12, в которых показано, как создавать ресурсоемкие приложения для Windows 10, см. в репозитории [примеров](https://github.com/Microsoft/DirectX-Graphics-Samples) с поддержкой графики DirectX.
+> Примеры графики DirectX 12, демонстрирующие создание ресурсоемких приложений для Windows 10, см. в репозитории примеров для DirectX [-Graphics](https://github.com/Microsoft/DirectX-Graphics-Samples) .
 
 В этом разделе описывается поток вызова для создания базового компонента Direct3D 12.
 
 -   [Поток кода для простого приложения](#code-flow-for-a-simple-app)
     -   [Инициализация](#initialize)
     -   [Обновление](#update)
-    -   [Render](#render)
+    -   [Прорисовка](#render)
     -   [Завершить](#destroy)
 -   [Пример кода для простого приложения](#code-example-for-a-simple-app)
     -   [класс D3D12HelloTriangle](#class-d3d12hellotriangle)
@@ -47,7 +47,7 @@ ms.locfileid: "104758864"
 -   [Инициализация](#initialize)
 -   **Придется**
     -   [Обновление](#update)
-    -   [Render](#render)
+    -   [Прорисовка](#render)
 -   [Завершить](#destroy)
 
 ### <a name="initialize"></a>Инициализация
@@ -269,7 +269,7 @@ void D3D12HelloTriangle::OnInit()
 -   Создайте представление целевого объекта прорисовки: <dl>
 
 [**\_ \_ Дескриптор дескриптора ЦП CD3DX12 \_**](cd3dx12-cpu-descriptor-handle.md)  
-    [**жеткпудескрипторхандлефорхеапстарт**](/windows/win32/api/d3d12/nf-d3d12-id3d12descriptorheap-getcpudescriptorhandleforheapstart)  
+    [**GetCPUDescriptorHandleForHeapStart**](/windows/win32/api/d3d12/nf-d3d12-id3d12descriptorheap-getcpudescriptorhandleforheapstart)  
     [**Идксгисвапчаин:: buffer**](/windows/win32/api/dxgi/nf-dxgi-idxgiswapchain-getbuffer)  
     [**ID3D12Device:: Креатерендертаржетвиев**](/windows/win32/api/d3d12/nf-d3d12-id3d12device-createrendertargetview)  
     </dl>
@@ -745,7 +745,7 @@ void D3D12HelloTriangle::OnDestroy()
 [Основные сведения о Direct3D 12](directx-12-getting-started.md)
 </dt> <dt>
 
-[Рабочие образцы](working-samples.md)
+[Рабочие примеры](working-samples.md)
 </dt> </dl>
 
  

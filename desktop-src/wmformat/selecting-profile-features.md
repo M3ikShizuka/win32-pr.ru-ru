@@ -7,12 +7,12 @@ keywords:
 - профили, выбор компонентов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 573e234d9e8e35d8d15f4e658b2a0657c43998181c1cf4b5873a205f5833b8cf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 769b10387bb4fb660c31678b406090cfc7e42743
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117654196"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458459"
 ---
 # <a name="selecting-profile-features"></a>Выбор функций профиля
 

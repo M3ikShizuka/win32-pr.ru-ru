@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 07a6eee85c515c4b8e923aa9973eddc648ef95cbc152c27951154a7c41fbcf3f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b5baedb0ea30d51cbd659e597cb000a434ec1632
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120026824"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458323"
 ---
 # <a name="id3dxanimationcontrollergetnumanimationsets-method"></a>Метод ID3DXAnimationController:: Жетнуманиматионсетс
 
@@ -48,7 +48,7 @@ UINT GetNumAnimationSets();
 
 Контроллер содержит любое количество наборов и дорожек анимации. Наборы анимации можно зарегистрировать с помощью [**регистераниматионаутпут**](id3dxanimationcontroller--registeranimationoutput.md). Контроллер анимации, созданный при вызове [**D3DXLoadMeshHierarchyFromX**](d3dxloadmeshhierarchyfromx.md) , будет автоматически регистрировать загруженные наборы анимации.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ UINT GetNumAnimationSets();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -3,9 +3,9 @@ title: Механика инерции
 description: Механика инерции
 ms.assetid: 188b6936-b36e-4e57-9118-8b61ed134c17
 keywords:
-- Касание Windows, инерция
-- Касание Windows, плавная анимация
-- Касание Windows, эластичное поле
+- Windows Сенсорный ввод, инерция
+- Windows Сенсорный ввод, плавная анимация
+- Windows Сенсорный ввод, эластичное поле
 - инерция, механика
 - инерция, основы вычислений
 - Обзор инерции, физическое представление
@@ -16,15 +16,15 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: be79b27900c6921c972710e7e922ab42b834afc1
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104328963"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458477"
 ---
 # <a name="inertia-mechanics"></a>Механика инерции
 
-Инерция используется для выполнения вычислений по анимации перемещения объектов и обеспечения поддержки универсального удобства в приложениях, включающих Windows Touch. В этом разделе показаны следующие функции, включенные инерцией.
+инерция используется для выполнения вычислений при анимации перемещения объектов и обеспечения поддержки универсального удобства в приложениях, включающих Windows Touch. В этом разделе показаны следующие функции, включенные инерцией.
 
 -   Краткий обзор инерции физика.
 -   Плавная анимация объектов с использованием свойств скорости и замедления.
@@ -51,14 +51,14 @@ ms.locfileid: "104328963"
 |-------------|------------------------------------------------------------------------------------|--------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | Перевод | [**DesiredDeceleration**](/windows/desktop/api/manipulations/nf-manipulations-iinertiaprocessor-get_desireddeceleration)               | 0,003 f             | Нет.                                                           | Использование этого значения приводит к увеличению расстояния при использовании сенсорного ввода.    |
 | Перевод | [**DesiredDeceleration**](/windows/desktop/api/manipulations/nf-manipulations-iinertiaprocessor-get_desireddeceleration)               | 0,001 f             | 1/20 начальная скорость для сенсорных входных данных, нет для входов мыши | Использование этого значения позволяет анимировать вторую, заданную обычную входную скорость.      |
-| Перевод | [**DesiredDeceleration**](/windows/desktop/api/manipulations/nf-manipulations-iinertiaprocessor-get_desireddeceleration)               | 0,5 f               | Нет                                                            | Использование этого значения дает естественную возможность анимации на больших экранах сенсорного экрана Windows.   |
+| Перевод | [**DesiredDeceleration**](/windows/desktop/api/manipulations/nf-manipulations-iinertiaprocessor-get_desireddeceleration)               | 0,5 f               | None                                                            | использование этого значения дает естественную возможность анимации на больших Windows сенсорных экранах.   |
 | Поворот    | [**десиредангулардецелератион**](/windows/desktop/api/manipulations/nf-manipulations-iinertiaprocessor-get_desiredangulardeceleration) | 0.000015 f          | Радианы преобразуются в градусы.                                   | Использование этого значения приводит к длительным анимациям вращения при использовании сенсорного ввода.      |
 | Поворот    | [**десиредангулардецелератион**](/windows/desktop/api/manipulations/nf-manipulations-iinertiaprocessor-get_desiredangulardeceleration) | намерено f           | коэффициент поворота 1/40th для сенсорных входных данных, нет для входных данных мыши   | Это значение в радианах, поэтому необходимо использовать очень небольшие значения замедления и скорости. |
-| Поворот    | [**десиредангулардецелератион**](/windows/desktop/api/manipulations/nf-manipulations-iinertiaprocessor-get_desiredangulardeceleration) | 0.000005 f          | Нет                                                            | Это значение имеет естественное поведение на больших экранах сенсорного экрана Windows.                        |
+| Поворот    | [**десиредангулардецелератион**](/windows/desktop/api/manipulations/nf-manipulations-iinertiaprocessor-get_desiredangulardeceleration) | 0.000005 f          | None                                                            | это значение имеет естественное поведение в больших Windows сенсорных экранах.                        |
 
 
 
- 
+ 
 
 ## <a name="smooth-object-animation-using-the-desired-displacement-property"></a>Плавная анимация объекта с использованием свойства требуемого смещения
 
@@ -75,9 +75,9 @@ ms.locfileid: "104328963"
 > [!Note]  
 > Установка свойств поля приведет к перемещению границ наружу. Например, если верхняя граница имеет значение 50, а затем для поля верхнее эластичное поле задано значение 10, то верхняя граница фактически станет 40.
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -90,9 +90,9 @@ ms.locfileid: "104328963"
 [Манипуляции](getting-started-with-manipulations.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

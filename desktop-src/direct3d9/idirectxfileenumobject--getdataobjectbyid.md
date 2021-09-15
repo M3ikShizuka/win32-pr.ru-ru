@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dxof.lib
 - D3dxof.dll
-ms.openlocfilehash: 49bee0f513bcca71a98e72fb3f51e1bcc458083ce9b165b3e5163fb5f6b71708
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a27ac17963d4876a3cb0a26d05b63f4c34bf99fc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118292235"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458300"
 ---
 # <a name="idirectxfileenumobjectgetdataobjectbyid-method"></a>Метод Идиректксфилинумобжект:: Жетдатаобжектбид
 

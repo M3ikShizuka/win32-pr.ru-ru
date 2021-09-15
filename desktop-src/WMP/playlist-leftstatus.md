@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ed3efe5eb228d378778a817dcdbb8e7e56ee3d5d497fe00c0aa7b2adc645d27b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ab33d4c3d235a7bba67219378063cb9811601e68
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118995664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458405"
 ---
 # <a name="playlistleftstatus"></a>Список воспроизведения. Лефтстатус
 

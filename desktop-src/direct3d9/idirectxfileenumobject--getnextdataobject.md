@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dxof.lib
 - D3dxof.dll
-ms.openlocfilehash: 42d95fcee1b431f5121389d7bb6595e5c53ca56298c75ed6010ee86733c310e4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bc50af216eaae1687351d472b7151aaaeae9116f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119985134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458299"
 ---
 # <a name="idirectxfileenumobjectgetnextdataobject-method"></a>Метод Идиректксфилинумобжект:: Жетнекстдатаобжект
 
@@ -59,7 +59,7 @@ HRESULT GetNextDataObject(
 
 Объекты верхнего уровня всегда являются объектами данных. Объекты ссылок на данные и двоичные объекты могут быть только дочерними объектами данных.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ HRESULT GetNextDataObject(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

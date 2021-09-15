@@ -4,12 +4,12 @@ ms.assetid: a480ba61-807e-4d0e-bda2-f1876e0bb13c
 title: Сообщение WM_MDITILE (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 379394d413c0c9d15b9f63297934b97da6aff65b4ae5d803627cb0107493c4e7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0cf7ee38fbb3622e2d17bf4cea5a28b6b492a244
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118436221"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458479"
 ---
 # <a name="wm_mditile-message"></a>\_Сообщение МДИТИЛЕ WM
 
@@ -84,7 +84,7 @@ ms.locfileid: "118436221"
 [**WM \_ мдииконарранже**](wm-mdiiconarrange.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Интерфейс с несколькими документами](multiple-document-interface.md)

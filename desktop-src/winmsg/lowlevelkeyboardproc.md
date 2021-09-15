@@ -32,12 +32,12 @@ api_name: ''
 targetos: Windows
 req.typenames: ''
 req.redist: ''
-ms.openlocfilehash: 5a9a2a0cb5ccf60fe5cfc9f495b621669ba1d85ca04eeb7ecd345cdc60d48bc1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f33acbb6888bad97a03b610c513cbaf9c3750684
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119548574"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458487"
 ---
 # <a name="lowlevelkeyboardproc-function"></a>Функция Ловлевелкэйбоардпрок
 
@@ -123,7 +123,7 @@ LRESULT CALLBACK LowLevelKeyboardProc(
 Это обусловлено тем, что необработанные входные данные могут асинхронно отслеживать сообщения мыши и клавиатуры, предназначенные для других потоков более эффективно, чем низкоуровневые обработчики.
 Дополнительные сведения о необработанных входных данных см. в разделе [необработанные входные](/windows/desktop/inputdev/raw-input)данные.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 [каллнекссукекс](/windows/desktop/api/winuser/nf-winuser-callnexthookex)
 

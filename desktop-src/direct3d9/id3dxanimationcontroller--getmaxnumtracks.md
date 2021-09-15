@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 6843b599dc0595201606c2e9c8ee4fe0dd84b5ad68c727466d802161641a6a10
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e972675804b2857207663b8570464341c002c0f0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119849114"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458325"
 ---
 # <a name="id3dxanimationcontrollergetmaxnumtracks-method"></a>Метод ID3DXAnimationController:: Жетмакснумтраккс
 

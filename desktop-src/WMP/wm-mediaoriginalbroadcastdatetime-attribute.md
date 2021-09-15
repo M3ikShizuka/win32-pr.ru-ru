@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0229e33567896d322b4c5b041056345cfc6833397996d3d1e393c9a1cd7bda58
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: da45ff8f3da29e7ddf51078d5f143ffb7db76f56
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120122634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458643"
 ---
 # <a name="wmmediaoriginalbroadcastdatetime-attribute"></a>Атрибут WM/Медиаоригиналброадкастдатетиме
 
@@ -27,7 +27,7 @@ ms.locfileid: "120122634"
 
 -   [Элементы видео](video-item-attributes.md)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 константа пакета SDK Windows Media Format для этого атрибута — g \_ всзвммедиаоригиналброадкастдатетиме.
 
@@ -43,7 +43,7 @@ ms.locfileid: "120122634"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

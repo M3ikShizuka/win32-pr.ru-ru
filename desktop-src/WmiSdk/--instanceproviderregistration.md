@@ -23,12 +23,12 @@ api_type:
 - Schema
 api_location:
 - All
-ms.openlocfilehash: 773bb54ec4d132e629f21513ffa617cbe3435d35941e7c98c55810d267f614c6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 45923c0c3ea3bfc28e67634e3b447e46b62765f3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118821159"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458366"
 ---
 # <a name="__instanceproviderregistration-class"></a>\_\_Класс Инстанцепровидеррегистратион
 
@@ -53,7 +53,7 @@ class __InstanceProviderRegistration : __ObjectProviderRegistration
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ \_ инстанцепровидеррегистратион** имеет следующие типы членов:
 
@@ -202,7 +202,7 @@ class __InstanceProviderRegistration : __ObjectProviderRegistration
 
 </dd> <dt>
 
-Нет
+Неверно
 </dt> <dd>
 
 Поставщик не поддерживает удаление данных и возвращает **поставщик WBEM E, \_ \_ \_ не \_ поддерживающий** [**делетеклассасинк**](/windows/desktop/api/WbemCli/nf-wbemcli-iwbemservices-deleteclassasync) или [**делетеинстанцеасинк**](/windows/desktop/api/WbemCli/nf-wbemcli-iwbemservices-deleteinstanceasync).
@@ -268,7 +268,7 @@ class __InstanceProviderRegistration : __ObjectProviderRegistration
 
 </dd> <dt>
 
-Нет
+Неверно
 </dt> <dd>
 
 Поставщик не поддерживает извлечение данных и возвращает **\_ поставщик WBEM E, \_ \_ не \_ поддерживающий** из [**жетобжектасинк**](/windows/desktop/api/WbemCli/nf-wbemcli-iwbemservices-getobjectasync).
@@ -331,7 +331,7 @@ class __InstanceProviderRegistration : __ObjectProviderRegistration
 
 Класс **\_ \_ инстанцепровидеррегистратион** является производным от [**\_ \_ обжектпровидеррегистратион**](--objectproviderregistration.md), который является производным от [**\_ \_ провидеррегистратион**](--providerregistration.md). Только администраторы могут зарегистрировать поставщик экземпляра, создав экземпляр [**\_ \_ Win32Provider**](--win32provider.md) и **\_ \_ инстанцепровидеррегистратион**. Только администраторы могут удалить поставщика.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -343,7 +343,7 @@ class __InstanceProviderRegistration : __ObjectProviderRegistration
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

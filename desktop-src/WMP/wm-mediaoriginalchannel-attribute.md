@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1c66f8808ea22e8c8efa5d43e2cd68b9dd0ea2a46a941046b9681089ba665790
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fd3a8f6fb860f5256d21bb0b9842855b55f1a748
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119053872"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458639"
 ---
 # <a name="wmmediaoriginalchannel-attribute"></a>Атрибут WM/Медиаоригиналчаннел
 
@@ -27,13 +27,13 @@ ms.locfileid: "119053872"
 
 -   [Элементы видео](video-item-attributes.md)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 константа пакета SDK Windows Media Format для этого атрибута — g \_ всзвммедиаоригиналчаннел.
 
 Чтобы определить, можно ли изменить значение этого атрибута, используйте метод [Media. исреадонлитем](media-isreadonlyitem.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ ms.locfileid: "119053872"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

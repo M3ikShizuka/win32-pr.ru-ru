@@ -4,12 +4,12 @@ description: Разработчики сервера могут создават
 ms.assetid: 26c8bb4b-19ec-4fd5-b758-30cb6a513818
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2a53ee02cb7de574242b3ba9986cdf0ce6068e8495e1ebaf638eed08e9c04b0a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 987b40527c178c40101288b0192c38d9a9b06040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118325983"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458376"
 ---
 # <a name="choosing-when-to-create-accessible-objects"></a>Выбор времени создания объектов со специальными возможностями
 

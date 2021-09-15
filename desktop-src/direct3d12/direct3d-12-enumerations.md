@@ -6,11 +6,11 @@ ms.localizationpriority: low
 ms.topic: article
 ms.date: 09/19/2019
 ms.openlocfilehash: b7991584cb72c147c65166622099b9d113d5f22f
-ms.sourcegitcommit: 0dec0044816af3f2b2e6403659e1cf11138c90cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121812925"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458604"
 ---
 # <a name="core-enumerations"></a>Базовые перечисления
 

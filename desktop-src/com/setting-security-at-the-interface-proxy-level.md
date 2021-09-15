@@ -5,11 +5,11 @@ ms.assetid: 72925ca2-78c9-47d9-8760-63f6379326d2
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 1b38fe83e8ce8841cc9029808a6947ec67d4eaf4
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369650"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458354"
 ---
 # <a name="setting-security-at-the-interface-proxy-level"></a>Настройка безопасности на уровне прокси-сервера интерфейса
 
@@ -25,7 +25,7 @@ ms.locfileid: "124369650"
 
 [**Иклиентсекурити**](/windows/desktop/api/ObjIdl/nn-objidl-iclientsecurity) работает со всеми поддерживаемыми службами проверки подлинности (в настоящее время NTLMSSP, SChannel и протоколом Kerberos V5).
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

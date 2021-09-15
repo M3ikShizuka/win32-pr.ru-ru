@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 6350dfa9cbdddcf935b4f87fab964d40c1fc65765a254219c542d29b676fed36
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 53b108a4d55553788a6c2d316f93f4f8efc76035
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119782274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458561"
 ---
 # <a name="esentquotaexception-class"></a>Класс EsentQuotaException
 
@@ -72,9 +72,9 @@ public abstract class EsentQuotaException : EsentResourceException
 
 Любые общедоступные статичные (общие в Visual Basic) члены этого типа являются потокобезопасными. Потокобезопасная работа с членами экземпляров типа не гарантируется.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Элементы Есенткуотаексцептион](./esentquotaexception-members.md)
 

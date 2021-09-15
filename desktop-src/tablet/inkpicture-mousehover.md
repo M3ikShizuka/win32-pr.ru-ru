@@ -4,12 +4,12 @@ ms.assetid: 95a03833-529e-4fca-b8df-ae7edefc8e5e
 title: Событие InkPicture. Маусеховер (Мсинкаут. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 30c0e0e5d363241944e24cea3286445e6bb026d480ca54f098472a0b65ac7c7a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 32f896d69cea95456d637d8f1195d66376d92049
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118967073"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458521"
 ---
 # <a name="inkpicturemousehover-event"></a>Событие InkPicture. Маусеховер
 
@@ -36,7 +36,7 @@ void MouseHover();
 
 Этот метод события определен в интерфейсе **\_ иинкпиктуривентс** . Интерфейс **\_ иинкпиктуривентс** реализует интерфейс [**IDISPATCH**](/windows/win32/api/oaidl/nn-oaidl-idispatch) с идентификатором DISPID \_ ипемаусеховер.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -49,7 +49,7 @@ void MouseHover();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 70675ddbeb37ba3f32b23f02a801c9236d4d6695e551245be99033755c04c5a0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1d0db5a0eb9a6cdc5c31e833259c776cf2c63a85
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119112193"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458559"
 ---
 # <a name="jet_dbinfomisclogtimebadchecksum-property"></a>Свойство JET_DBINFOMISC. Логтимебадчекксум
 
@@ -64,7 +64,7 @@ public JET_LOGTIME logtimeBadChecksum { get; internal set; }
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс JET_DBINFOMISC](./jet-dbinfomisc-class.md)
 

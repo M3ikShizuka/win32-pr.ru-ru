@@ -15,12 +15,12 @@ keywords:
 - интерфейсы, IToggleProvider
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 37f55ff6043fbb7b006802d8967ccf744044f0e841eebcb0fa155f5035075d3e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 723d45326fdf9942682a318282ce4a9784df489c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119759104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458245"
 ---
 # <a name="toggle-control-pattern"></a>Переключить шаблон элемента управления
 
@@ -51,8 +51,8 @@ ms.locfileid: "119759104"
 
 | Обязательные члены                                          | Тип члена | Примечания |
 |-----------------------------------------------------------|-------------|-------|
-| [**Переключение**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itoggleprovider-toggle)           | Метод      | Нет  |
-| [**тогглестате**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itoggleprovider-get_togglestate) | Свойство    | Нет  |
+| [**Переключение**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itoggleprovider-toggle)           | Метод      | None  |
+| [**тогглестате**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itoggleprovider-get_togglestate) | Свойство.    | None  |
 
 
 

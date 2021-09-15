@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: b1b6bc1edf52b77486bb25bc3459004916e3599c
-ms.sourcegitcommit: 4e94fc75fad7b2a0f3c92a26f97e89924e59b7a9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "122786110"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458343"
 ---
 # <a name="id3dx11effect-interface"></a>Интерфейс ID3DX11Effect
 
@@ -94,7 +94,7 @@ ms.locfileid: "122786110"
 | Заголовок<br/>  | <dl> <dt>D3dx11effect. h</dt> </dl>                                                    |
 | Библиотека<br/> | <dl> <dt>Н/д (библиотека Effects 11 доступна в сети в качестве общего источника.)</dt> </dl> |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 [Effects 11, интерфейсы](d3d11-graphics-reference-effects11-interfaces.md)
 

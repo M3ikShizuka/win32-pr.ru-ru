@@ -6,11 +6,11 @@ ms.localizationpriority: low
 ms.topic: article
 ms.date: 11/27/2018
 ms.openlocfilehash: e38145bc4aef4c07ba00de4185fc97ad449f4f2c
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122881791"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458602"
 ---
 # <a name="core-functions"></a>Базовые функции
 

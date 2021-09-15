@@ -25,12 +25,12 @@ keywords:
 - интерфейсы, Итекстранжепровидер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 99baf1af267e67ffe3f75a83fb970c991e9ebe5674497db2a2edad8d9cc328b5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f53429dc8ec137a83b6a40db377b5c84aeb36120
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118826985"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458246"
 ---
 # <a name="text-and-textrange-control-patterns"></a>Шаблоны элементов управления Text и TextRange
 
@@ -103,14 +103,14 @@ ms.locfileid: "118826985"
 
 | Обязательные члены                                                                                        | Тип члена | Примечания |
 |---------------------------------------------------------------------------------------------------------|-------------|-------|
-| [**DocumentRange**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextprovider-get_documentrange)                                             | Свойство    | Нет  |
-| [**суппортедтекстселектион**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextprovider-get_supportedtextselection)                           | Свойство    | Нет  |
-| [**Выборка**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextprovider-getselection)                                               | Метод      | Нет  |
-| [**жетвисиблеранжес**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextprovider-getvisibleranges)                                       | Метод      | Нет  |
-| [**ранжефромчилд**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextprovider-rangefromchild)                                           | Метод      | Нет  |
-| [**ранжефромпоинт**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextprovider-rangefrompoint)                                           | Метод      | Нет  |
-| [**\_Текстовая \_ ТЕКСТЧАНЖЕДЕВЕНТИДа UIA**](uiauto-event-ids.md)                   | Событие       | Нет  |
-| [**\_Текстовая \_ ТЕКСТСЕЛЕКТИОНЧАНЖЕДЕВЕНТИДа UIA**](uiauto-event-ids.md) | Событие       | Нет  |
+| [**DocumentRange**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextprovider-get_documentrange)                                             | Свойство.    | None  |
+| [**суппортедтекстселектион**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextprovider-get_supportedtextselection)                           | Свойство.    | None  |
+| [**Выборка**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextprovider-getselection)                                               | Метод      | None  |
+| [**жетвисиблеранжес**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextprovider-getvisibleranges)                                       | Метод      | None  |
+| [**ранжефромчилд**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextprovider-rangefromchild)                                           | Метод      | None  |
+| [**ранжефромпоинт**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextprovider-rangefrompoint)                                           | Метод      | None  |
+| [**\_Текстовая \_ ТЕКСТЧАНЖЕДЕВЕНТИДа UIA**](uiauto-event-ids.md)                   | Событие       | None  |
+| [**\_Текстовая \_ ТЕКСТСЕЛЕКТИОНЧАНЖЕДЕВЕНТИДа UIA**](uiauto-event-ids.md) | Событие       | None  |
 
 
 
@@ -122,8 +122,8 @@ ms.locfileid: "118826985"
 
 | Обязательные члены                                                         | Тип члена | Примечания |
 |--------------------------------------------------------------------------|-------------|-------|
-| [**жеткаретранже**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-itextprovider2-getcaretrange)         | Метод      | Нет  |
-| [**ранжефроманнотатион**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextprovider2-rangefromannotation) | Метод      | Нет  |
+| [**жеткаретранже**](/windows/desktop/api/uiautomationcore/nf-uiautomationcore-itextprovider2-getcaretrange)         | Метод      | None  |
+| [**ранжефроманнотатион**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextprovider2-rangefromannotation) | Метод      | None  |
 
 
 
@@ -137,23 +137,23 @@ ms.locfileid: "118826985"
 
 | Обязательные члены                                                                 | Тип члена | Примечания |
 |----------------------------------------------------------------------------------|-------------|-------|
-| [**аддтоселектион**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-addtoselection)               | Метод      | Нет  |
-| [**Клонировать**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-clone)                                 | Метод      | Нет  |
-| [**Сравнение**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-compare)                             | Метод      | Нет  |
-| [**компариндпоинтс**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-compareendpoints)           | Метод      | Нет  |
-| [**експандтоенклосингунит**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-expandtoenclosingunit) | Метод      | Нет  |
-| [**FindAttribute**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-findattribute)                 | Метод      | Нет  |
-| [**Строки FindText**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-findtext)                           | Метод      | Нет  |
-| [**GetAttributeValue**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-getattributevalue)         | Метод      | Нет  |
-| [**жетбаундингректанглес**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-getboundingrectangles) | Метод      | Нет  |
-| [**GetChildren**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-getchildren)                     | Метод      | Нет  |
-| [**жетенклосинжелемент**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-getenclosingelement)     | Метод      | Нет  |
-| [**GetText**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-gettext)                             | Метод      | Нет  |
-| [**Переместить**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-move)                                   | Метод      | Нет  |
-| [**мовиндпоинтбюнит**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-moveendpointbyunit)       | Метод      | Нет  |
-| [**мовиндпоинтбиранже**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-moveendpointbyrange)     | Метод      | Нет  |
-| [**Выберите пункт**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-select)                               | Метод      | Нет  |
-| [**скроллинтовиев**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-scrollintoview)               | Метод      | Нет  |
+| [**аддтоселектион**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-addtoselection)               | Метод      | None  |
+| [**Клонировать**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-clone)                                 | Метод      | None  |
+| [**Сравнение**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-compare)                             | Метод      | None  |
+| [**компариндпоинтс**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-compareendpoints)           | Метод      | None  |
+| [**експандтоенклосингунит**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-expandtoenclosingunit) | Метод      | None  |
+| [**FindAttribute**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-findattribute)                 | Метод      | None  |
+| [**Строки FindText**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-findtext)                           | Метод      | None  |
+| [**GetAttributeValue**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-getattributevalue)         | Метод      | None  |
+| [**жетбаундингректанглес**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-getboundingrectangles) | Метод      | None  |
+| [**GetChildren**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-getchildren)                     | Метод      | None  |
+| [**жетенклосинжелемент**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-getenclosingelement)     | Метод      | None  |
+| [**GetText**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-gettext)                             | Метод      | None  |
+| [**Поместить**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-move)                                   | Метод      | None  |
+| [**мовиндпоинтбюнит**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-moveendpointbyunit)       | Метод      | None  |
+| [**мовиндпоинтбиранже**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-moveendpointbyrange)     | Метод      | None  |
+| [**Выберите пункт**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-select)                               | Метод      | None  |
+| [**скроллинтовиев**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-itextrangeprovider-scrollintoview)               | Метод      | None  |
 
 
 

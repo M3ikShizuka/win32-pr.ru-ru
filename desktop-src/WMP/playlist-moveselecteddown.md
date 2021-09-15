@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 43124fc13044b1802b78d036700af9077ed8893bb9cc4ea0f2ad9df9a117e405
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bce3a6fd2f27656684d77288cf5d3a1cdf6c36f1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118571143"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458403"
 ---
 # <a name="playlistmoveselecteddown"></a>Список воспроизведения. Мовеселектеддовн
 

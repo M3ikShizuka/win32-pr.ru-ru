@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8363c8b466d2b6fe6cf8d0858256e3974fcb8f5ea34c73c724e13eb9008f56e9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 23df2ca06a196db032993de7a75fae61cbcda5df
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118335666"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458398"
 ---
 # <a name="playliststatuscolor"></a>Список воспроизведения. Статусколор
 
@@ -31,7 +31,7 @@ ms.locfileid: "118335666"
 
 Этот атрибут является **строкой** для чтения и записи, содержащей любое значение цвета Microsoft Internet Explorer. Он имеет значение по умолчанию, равное значению атрибута **backgroundColor** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "118335666"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

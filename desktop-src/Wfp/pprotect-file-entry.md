@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Sfcfiles.h
-ms.openlocfilehash: c9070290170febf08e532b071812600fb0ef8755302a4bd1603858659196d0c1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 98cda570a3677560d51800d58822d93a942847c2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119053202"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458633"
 ---
 # <a name="pprotect_file_entry-structure"></a>\_ \_ Структура записи файла ппротект
 
@@ -39,7 +39,7 @@ typedef struct _PPROTECT_FILE_ENTRY {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -64,7 +64,7 @@ typedef struct _PPROTECT_FILE_ENTRY {
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -73,12 +73,12 @@ typedef struct _PPROTECT_FILE_ENTRY {
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                                                 |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                        |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                        |
 | Заголовок<br/>                   | <dl> <dt>Сфкфилес. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1f3a812958b4d2923190390e565a44a05bc18f22731e687bef527605cafbc25b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 49c130119d1aad503c0c236ac9c28a61746645ac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118834368"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458409"
 ---
 # <a name="playlistitemselectedbackgroundfocuslostcolor"></a>Список воспроизведения. Итемселектедбаккграундфокуслостколор
 
@@ -31,7 +31,7 @@ ms.locfileid: "118834368"
 
 Этот атрибут является **строкой** для чтения и записи, представляющей цвет. значение по умолчанию — цвет лицевой кнопки Windows.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

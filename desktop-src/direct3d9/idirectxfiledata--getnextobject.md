@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dxof.lib
 - D3dxof.dll
-ms.openlocfilehash: 289bd86e5bca95155ea9f3ee14ef25e23d37d183298ddc2bbfbc3c83db7fe12a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e03351068cdc4f8fca28c612b7bb4c546125a4cc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118093469"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458307"
 ---
 # <a name="idirectxfiledatagetnextobject-method"></a>Метод Идиректксфиледата:: Жетнекстобжект
 
@@ -70,7 +70,7 @@ HRESULT GetNextObject(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 300307ff011abf8b28c645901422291ccab4cf7c66a7a3ba81121ffe1c22e573
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7954df8e0ccc487df77ea31b3a26dce9eea6d2e0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118334645"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458391"
 ---
 # <a name="playlistcollectiongetbyname-method"></a>Плайлистколлектион. Жетбинаме, метод
 

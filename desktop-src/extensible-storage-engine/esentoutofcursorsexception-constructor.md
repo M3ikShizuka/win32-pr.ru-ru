@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: cb1b0f307bb13d205ed01d489281d784a3c2869db7e837e00b3f02ed3e56b0b3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 047f1acd0944a283ad8a1333c593eb906daa81b9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118262321"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458563"
 ---
 # <a name="esentoutofcursorsexception-constructor"></a>Конструктор Есентаутофкурсорсексцептион
 
@@ -54,7 +54,7 @@ public EsentOutOfCursorsException()
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Есентаутофкурсорсексцептион](./esentoutofcursorsexception-class.md)
 

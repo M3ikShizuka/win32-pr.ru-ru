@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 55e2801ae8726fe10933b45e592e6f633f6455ea
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122622100"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458488"
 ---
 # <a name="tabgroup-element"></a>Табграуп, элемент
 
@@ -87,7 +87,7 @@ ms.locfileid: "122622100"
 
 ## <a name="remarks"></a>Remarks
 
-Обязательный.
+Обязательный элемент.
 
 Должен быть хотя бы один раз для каждого элемента [**Ribbon. контекстуалтабс**](windowsribbon-element-ribbon-contextualtabs.md) .
 
@@ -162,7 +162,7 @@ ms.locfileid: "122622100"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

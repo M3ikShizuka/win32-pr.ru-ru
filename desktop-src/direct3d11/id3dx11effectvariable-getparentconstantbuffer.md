@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2319a72e50d83f3780b68de163dc370d5627c28ab4ab84f6621c11faf6df7805
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aa424b91b72dca5539fd0f96a1380e86d1f23f58
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117734117"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458338"
 ---
 # <a name="id3dx11effectvariablegetparentconstantbuffer-method"></a>Метод ID3DX11EffectVariable:: Жетпарентконстантбуффер
 

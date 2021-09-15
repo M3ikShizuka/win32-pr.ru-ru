@@ -5,12 +5,12 @@ ms.assetid: 861D89C4-59D1-43BF-9791-375DD1577716
 ms.localizationpriority: low
 ms.topic: article
 ms.date: 02/25/2019
-ms.openlocfilehash: 5aaba399490edda5a67a4a55823380df8d53e2139300540c13711da607a75375
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 32dc44fca7bf3aaf73d325ac28be6b4e53e560b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118530150"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458606"
 ---
 # <a name="11on12-interfaces"></a>Интерфейсы 11on12
 Следующие интерфейсы объявляются в d3d11on12. h.

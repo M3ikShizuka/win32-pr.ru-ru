@@ -4,12 +4,12 @@ ms.assetid: 7117dd4d-6765-4f47-ac4f-1ffe64d711ed
 title: System. Devices. Вифидирект. Интерфацегуид
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a97b67fedaf7939dfccb4ac6adbda97ebc746b0c4bea9f86af92a686fde1a88d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 44ca33f01422ce8e9ee57107029cf843003dc081
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118053868"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458542"
 ---
 # <a name="systemdeviceswifidirectinterfaceguid"></a>System. Devices. Вифидирект. Интерфацегуид
 

@@ -17,12 +17,12 @@ api_type:
 - Schema
 api_location:
 - All
-ms.openlocfilehash: 17f0c55edceb3c5fb009f49ae97e3765ec3e0255a82f8c75e133344379c24d90
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 20dd1c9fb2d009de4d8d957b4d5980cc6d6ff45e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119640764"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458365"
 ---
 # <a name="__intervaltimerinstruction-class"></a>\_\_Класс Интервалтимеринструктион
 
@@ -41,7 +41,7 @@ class __IntervalTimerInstruction : __TimerInstruction
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ \_ интервалтимеринструктион** имеет следующие типы членов:
 
@@ -151,7 +151,7 @@ instance of __IntervalTimerInstruction
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -163,7 +163,7 @@ instance of __IntervalTimerInstruction
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

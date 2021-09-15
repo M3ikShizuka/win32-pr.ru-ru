@@ -4,12 +4,12 @@ ms.assetid: dadd506f-016d-45b0-abc3-724e3723b243
 title: Прокси-сервер System. photo. Фнумбер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 94390b57f8ce20398178950b0be56ff23b737523712b2e2aaa25aa35f43267cf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0df6f5a3f0854c6cb2084384057a6676b006b1ea
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117667361"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458498"
 ---
 # <a name="systemphotofnumber-proxy"></a>Прокси-сервер System. photo. Фнумбер
 

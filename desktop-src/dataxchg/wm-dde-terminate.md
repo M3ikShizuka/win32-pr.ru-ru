@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a98d9b4bf2120cb6daa08b6088a8dd39f8a17b8e28c37a3917936a9c49230487
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 105b4a7daab87b1311a58a7b5e5805bbd81e73ce
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117736271"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458351"
 ---
 # <a name="wm_dde_terminate-message"></a>\_Сообщение о \_ прекращении DDE в WM
 
@@ -78,7 +78,7 @@ ms.locfileid: "117736271"
 
 <dl> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**PostMessage**](/windows/desktop/api/winuser/nf-winuser-postmessagea)
@@ -93,7 +93,7 @@ ms.locfileid: "117736271"
 [**\_Вставка DDE \_ WM**](wm-dde-poke.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Сведения о платформа динамических данных Exchange](about-dynamic-data-exchange.md)

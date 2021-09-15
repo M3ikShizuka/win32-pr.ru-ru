@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 44c6c9933c421e1c0df3b5c456c27b3d9da89197afdbcbcad60aca890224043c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ffcfab55b6acda192252faeb43493dfba3978b89
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119785941"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458570"
 ---
 # <a name="esentbadparentpagelinkexception-class"></a>Класс Есентбадпарентпажелинкексцептион
 
@@ -68,9 +68,9 @@ public sealed class EsentBadParentPageLinkException : EsentCorruptionException
 
 Любые общедоступные статичные (общие в Visual Basic) члены этого типа являются потокобезопасными. Потокобезопасная работа с членами экземпляров типа не гарантируется.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Элементы Есентбадпарентпажелинкексцептион](./esentbadparentpagelinkexception-members.md)
 

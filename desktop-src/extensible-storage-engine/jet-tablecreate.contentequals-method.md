@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 653aec23752d992059def6698b1d1eabadbdfc52d8988c047720648b844ebf70
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c06cd8769dee6e56006b0225a75572b642e35d93
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118979214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458555"
 ---
 # <a name="jet_tablecreatecontentequals-method"></a>JET_TABLECREATE. Метод Контентекуалс
 
@@ -61,7 +61,7 @@ public bool ContentEquals(
 
 #### <a name="parameters"></a>Параметры
 
-  - др.  
+  - иное  
     Тип: [Microsoft.ISAM.ESENT.Interop.JET_TABLECREATE](./jet-tablecreate-class.md)  
     
     Экземпляр, сравниваемый с этим экземпляром.
@@ -77,7 +77,7 @@ public bool ContentEquals(
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс JET_TABLECREATE](./jet-tablecreate-class.md)
 

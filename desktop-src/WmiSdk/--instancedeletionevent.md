@@ -17,12 +17,12 @@ api_type:
 - Schema
 api_location:
 - All
-ms.openlocfilehash: a210f67e7e71d9980a3eeb88ae54fad7fee3ec62597b81ae7253a2893a437a7f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 018bac665aa95393fc1a9c7e51ad42038e8b27c3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118320888"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458368"
 ---
 # <a name="__instancedeletionevent-class"></a>\_\_Класс Инстанцеделетионевент
 
@@ -41,7 +41,7 @@ class __InstanceDeletionEvent : __InstanceOperationEvent
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ \_ инстанцеделетионевент** имеет следующие типы членов:
 
