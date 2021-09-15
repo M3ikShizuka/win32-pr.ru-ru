@@ -3,9 +3,9 @@ title: Ивмплибрарисервицес Жеткаунтбитипе, ме
 description: Метод Жеткаунтбитипе возвращает количество доступных библиотек указанного типа.
 ms.assetid: 75f22e21-fbaf-45dc-b64f-1f687a3cf241
 keywords:
-- Жеткаунтбитипе метод Windows Media Player
-- Жеткаунтбитипе метод проигрывателя Windows Media Player, интерфейс Ивмплибрарисервицес
-- Интерфейс Ивмплибрарисервицес Windows Media Player, метод Жеткаунтбитипе
+- проигрыватель Windows Media метода жеткаунтбитипе
+- проигрыватель Windows Media метода жеткаунтбитипе, интерфейс ивмплибрарисервицес
+- проигрыватель Windows Media интерфейса ивмплибрарисервицес, метод жеткаунтбитипе
 topic_type:
 - apiref
 api_name:
@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: efbd874c06c2557102011c63ee1abb895d092656
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105669265"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461264"
 ---
 # <a name="iwmplibraryservicesgetcountbytype-method"></a>Метод Ивмплибрарисервицес:: Жеткаунтбитипе
 
@@ -70,7 +70,7 @@ Implements IWMPLibraryServices.getCountByType
 
 | Требование | Значение |
 |----------------------|------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/>   | Проигрыватель Windows Media 11.<br/>                                                                                    |
+| Версия<br/>   | проигрыватель Windows Media 11.<br/>                                                                                    |
 | Пространство имен<br/> | **вмплиб**<br/>                                                                                                  |
 | Сборка<br/>  | <dl> <dt>Interop.WMPLib.dll (Interop.WMPLib.dll.dll)</dt> </dl> |
 

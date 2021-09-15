@@ -4,12 +4,12 @@ ms.assetid: 2181723A-C6E8-42BD-979C-5C26FE3986C4
 title: Свойство MFPKEY_SBESourceMode (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 86c6b4fc0b248000f0540fd47fd7bbf8bba907994d1351144521bf162d330340
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b82835a4cfc363e3ae2d054cce68f95c655447dd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118973373"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460868"
 ---
 # <a name="mfpkey_sbesourcemode-property"></a>МФПКЭЙ \_ сбесаурцемоде, свойство
 
@@ -42,7 +42,7 @@ VT \_ int
 -   1: сопоставьте доступные звуковые потоки с одним выходом на основе локальной системы. Этот режим подходит для воспроизведения. (по умолчанию).
 -   2. Выбираются все звуковые потоки и подпотоки (например, заголовок и потоки данных). Этот режим подходит для ремуксинг или кодирования.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -54,7 +54,7 @@ VT \_ int
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

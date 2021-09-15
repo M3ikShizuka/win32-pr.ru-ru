@@ -4,12 +4,12 @@ ms.assetid: 32d8a5bd-eeb4-4db6-8129-b5cd3508a7e5
 title: Резервное копирование и восстановление папки FRS-Replicated SYSVOL
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6d841f64bab62114824847f91876ba8bbffbb0166db942c0f3cb9d010b72f106
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ea83ccbc156182a4a3b84c758cb22153f4f7110f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120124604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461367"
 ---
 # <a name="backing-up-and-restoring-an-frs-replicated-sysvol-folder"></a>Резервное копирование и восстановление папки FRS-Replicated SYSVOL
 
@@ -40,7 +40,7 @@ FRS может копировать содержимое SYSVOL на други�
 |------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
 | Windows сервер 2008 + режим работы домена Windows сервер 2008 + [миграция SYSVOL](https://blogs.technet.com/filecab/archive/2008/02/08/sysvol-migration-series-part-1-introduction-to-the-sysvol-migration-process.aspx) завершен | DFSR                    |
 | Windows сервер 2008 + режим работы домена ниже Windows сервер 2008                                                                              | НАБОРА                     |
-| Windows Server 2003                                                                                                                                  | НАБОРА                     |
+| Windows Server 2003                                                                                                                                  | НАБОРА                     |
 
 
 

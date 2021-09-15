@@ -4,12 +4,12 @@ description: Сведения о подписанных и неподписан�
 ms.assetid: 0464d465-84b7-49fc-968e-5efe037966c2
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e17a2ccf28233bb14e0811e8015c83aede37d60c58fe9411f13806355fdb7f77
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f4c03010262c8492b6738d1e817e165e5ca8f839
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120017703"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461477"
 ---
 # <a name="signed-and-unsigned-types-rpc"></a>Подписанные и неподписанные типы (RPC)
 

@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 116bcf2d2eec17389cf230bf0a1ad24ba386d2a6e35872570efda092e5992869
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d0715445504b862d9ae9e8478b543f8e80378f08
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120037834"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461727"
 ---
 # <a name="inapservermanagementunregistersystemhealthvalidator-method"></a>Метод Инапсерверманажемент:: Унрегистерсистемхеалсвалидатор
 
@@ -74,7 +74,7 @@ HRESULT UnregisterSystemHealthValidator(
 
 Если в SHV ожидаются асинхронные вызовы, они будут завершены позже и будут отменены.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -88,7 +88,7 @@ HRESULT UnregisterSystemHealthValidator(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

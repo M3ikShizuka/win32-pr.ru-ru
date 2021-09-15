@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fc23b941f232007a781ca160538f28d864f818639df47a180de472f54cd89a8a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 28aa02dd73f1706bb12ae30825f50241be7bb0d5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118247826"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461067"
 ---
 # <a name="wm_keyup-message"></a>\_Сообщение с KEYUP
 
@@ -108,7 +108,7 @@ ms.locfileid: "118247826"
 [**WM \_ сискомманд**](/windows/desktop/menurc/wm-syscommand)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с клавиатуры](keyboard-input.md)

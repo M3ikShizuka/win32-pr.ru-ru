@@ -4,12 +4,12 @@ ms.assetid: f87bef33-9a48-4568-b554-7eec34f0bd55
 title: Свойство MFPKEY_WMAAECMA_DEVICEPAIR_GUID (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 174bbae3c83ef28ece7d05e36b0a05813078a9a9fba73ac7fae7dba25b67fb00
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a586d7d31f29b20eb7ca39320d5fa57b9943715a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118973333"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460866"
 ---
 # <a name="mfpkey_wmaaecma_devicepair_guid-property"></a>МФПКЭЙ \_ вмааекма \_ Девицепаир, \_ свойство GUID
 

@@ -4,12 +4,12 @@ ms.assetid: 21b76829-01c4-4228-a714-6319e5eb1c61
 title: Намеспацедекларатионс, элемент
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 76cb403e996dfec949668587740b06ce7ef01beffe9e8dbb77179ce1962da243
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3e98d9c0cf1556e21d92fe7ea1ba222e861f00ac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119130686"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461222"
 ---
 # <a name="namespacedeclarations-element"></a>Намеспацедекларатионс, элемент
 

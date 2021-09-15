@@ -4,12 +4,12 @@ ms.assetid: 31b2f9d2-98d5-4cf3-af02-f12de2740bb8
 title: Действие Валидатепродуктид
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: be241bddbafb8f963aea1e73a2750c9d45766eb06767b0b30142883fa1bcebac
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f4d0f9f58641e8e24d73a1acae0b79cc0b875aba
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118942234"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461852"
 ---
 # <a name="validateproductid-action"></a>Действие Валидатепродуктид
 

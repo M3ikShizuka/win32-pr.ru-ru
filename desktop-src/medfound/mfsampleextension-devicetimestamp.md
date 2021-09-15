@@ -4,12 +4,12 @@ ms.assetid: 8904d104-ebcc-474d-b6b5-b262b6f62ee9
 title: Атрибут MFSampleExtension_DeviceTimestamp (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3322f295908ae2bbdc095a21ab57ee2e0f2ed10dd2267eaea227b9248ddc226b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 285b354ecd0e399fc297d3677d29b88847f9eba8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118241129"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462025"
 ---
 # <a name="mfsampleextension_devicetimestamp-attribute"></a>Мфсампликстенсион \_ DeviceTimestamp, атрибут
 
@@ -45,11 +45,11 @@ ms.locfileid: "118241129"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                         |
 | Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/>                            |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также статью
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

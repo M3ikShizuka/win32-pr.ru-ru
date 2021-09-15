@@ -4,12 +4,12 @@ ms.assetid: e4a47e1c-16aa-45c1-8aa8-8929d6e1e653
 title: Пример Протектедплайбакк
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bd4290a92ba18695d1780fc0401334c4bce252754353d8757b3e904a2aa979fe
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ee64b2a64ce4d40b6f15c2e5afb3b9a39e84c619
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119034982"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461992"
 ---
 # <a name="protectedplayback-sample"></a>Пример Протектедплайбакк
 
@@ -28,7 +28,7 @@ ms.locfileid: "119034982"
 -   [**имфконтентенаблер**](/windows/desktop/api/mfidl/nn-mfidl-imfcontentenabler)
 -   [**имфконтентпротектионманажер**](/windows/desktop/api/mfidl/nn-mfidl-imfcontentprotectionmanager)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

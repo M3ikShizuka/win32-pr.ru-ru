@@ -4,12 +4,12 @@ ms.assetid: 1ace09da-7dee-469e-a533-63b40ac747ab
 title: Свойство MFPKEY_ENHANCED_WMA (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1ab3fdcd3087773ea760615224b148bd497c1f89114c0f761a7d2f90fb0b5a8c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: df1c7ddc0e7bfb6d62d51e535f10b257eac6f2ef
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118738021"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460895"
 ---
 # <a name="mfpkey_enhanced_wma-property"></a>МФПКЭЙ \_ Расширенное \_ свойство WMA
 
@@ -35,14 +35,14 @@ ms.locfileid: "118738021"
 
 Это свойство изменяет перечислимые типы носителей, поэтому, если оно задано, необходимо сделать это, прежде чем задавать тип выходных данных.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------|-----------------------------------------------------------------------------------------|
 | Клиент<br/> | Windows Vista или Windows 7<br/>                                                   |
-| Header<br/> | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
 
 
 

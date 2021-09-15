@@ -4,12 +4,12 @@ ms.assetid: d198197e-d146-4f1b-99df-944822e83357
 title: Operation, элемент
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2ab38721d1eb0d32c2ed7209dde872a83b29a523942ac7b91ca76f479ce5d51d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5c0e4562241f5f437554d0af28dc8bca482512ea
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119502194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461220"
 ---
 # <a name="operation-element"></a>Operation, элемент
 

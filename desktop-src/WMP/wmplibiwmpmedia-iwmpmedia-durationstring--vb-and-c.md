@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2aa0ec19ff6cfa48056f399108cc0d943073cac67af80474c4e7640d39887b8a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c9e6bc732388036aa9e79aeedd988de94fa263bf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120031184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461260"
 ---
 # <a name="iwmpmediadurationstring-property"></a>Ивмпмедиа: свойство Уратионстринг:d
 
@@ -96,7 +96,7 @@ End Sub
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -108,7 +108,7 @@ End Sub
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

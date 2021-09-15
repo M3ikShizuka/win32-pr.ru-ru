@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Mergemod.dll
-ms.openlocfilehash: 4659fbd2c96d883b04e653fc67c6aa3017f16135405f956bf9b4eb78101bb404
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9d83a9331c91817f70c49ecf74c7171c5e627be6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118628730"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461932"
 ---
 # <a name="mergeopenmodule-method"></a>Метод Merge. Опенмодуле
 
@@ -76,7 +76,7 @@ Merge.OpenModule(
 | Требование | Значение |
 |--------------------|-----------------------------------------------------------------------------------------|
 | Версия<br/> | Mergemod.dll 1,0 или более поздней версии<br/>                                                    |
-| Header<br/>  | <dl> <dt>Мержемод. h</dt> </dl>   |
+| Заголовок<br/>  | <dl> <dt>Мержемод. h</dt> </dl>   |
 | DLL<br/>     | <dl> <dt>Mergemod.dll</dt> </dl> |
 
 

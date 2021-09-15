@@ -4,12 +4,12 @@ ms.assetid: f9def67a-c4ea-4014-929f-51fbd10d770a
 title: Общие сведения о сбросе и завершении восстановления
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3e8ad0b7d40f3c0e5322810f96bb120f28effe4ec3f0d4e278af924962713b2c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 391e029cdb109589b42240b5482f6aba2ff43555
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118122036"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461324"
 ---
 # <a name="overview-of-restore-clean-up-and-termination"></a>Общие сведения о сбросе и завершении восстановления
 
@@ -23,7 +23,7 @@ ms.locfileid: "118122036"
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Инициатор запроса указывает на окончание восстановления (см. раздел [**ивссбаккупкомпонентс::P остресторе**](/windows/desktop/api/VsBackup/nf-vsbackup-ivssbackupcomponents-postrestore)).                                                                                                                                                                                                                                           | [*Восстановление после восстановления*](vssgloss-p.md) | Модуль записи выполняет очистку после восстановления и обрабатывает сбои восстановления и файлы, восстановленные в нестандартном расположении (см. раздел [**квссвритер:: онпостресторе**](/windows/desktop/api/VsWriter/nf-vswriter-cvsswriter-onpostrestore), [**ивсскомпонент**](/windows/desktop/api/VsWriter/nl-vswriter-ivsscomponent)). |
 | Инициатор запроса ждет, пока модули записи не обрабатывали [**событие**](/windows/desktop/api/VsBackup/nf-vsbackup-ivssbackupcomponents-postrestore) [**ивссасинк**](/windows/desktop/api/Vss/nn-vss-ivssasync). Он также должен проверить состояние модуля записи (см. раздел [**ивссбаккупкомпонентс:: гасервритерстатус**](/windows/desktop/api/VsBackup/nf-vsbackup-ivssbackupcomponents-gatherwriterstatus), [**Ивссбаккупкомпонентс:: жетвритерстатус**](/windows/desktop/api/VsBackup/nf-vsbackup-ivssbackupcomponents-getwriterstatus)). | Нет                                                            | Нет                                                                                                                                                                                                                                               |
-| Инициатор запроса освобождает интерфейс [**ивссбаккупкомпонентс**](/windows/desktop/api/VsBackup/nl-vsbackup-ivssbackupcomponents) .                                                                                                                                                                                                                                                                                    | Нет                                                            | Нет                                                                                                                                                                                                                                               |
+| Инициатор запроса освобождает интерфейс [**ивссбаккупкомпонентс**](/windows/desktop/api/VsBackup/nl-vsbackup-ivssbackupcomponents) .                                                                                                                                                                                                                                                                                    | None                                                            | Нет                                                                                                                                                                                                                                               |
 
 
 

@@ -4,12 +4,12 @@ description: Пара распределитель/распределитель 
 ms.assetid: 9477e677-59cb-45d5-b485-ab0171ac17ba
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 93648b56ed47eb98a83b27a39b606fa2a51de9bf5791ad1b732e7169ef5dfa63
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 26dca10ebea44fbb202240e981612e16e7960216
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120018184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461525"
 ---
 # <a name="rpcss-memory-management-package"></a>Пакет управления памятью RPCSS
 

@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 52dcb6c34d0ce48f646ace1db8a5dc0f773b7eb386ac487534a57367e6e72da3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dfe5510221b738a81f428f9e982a2f9bb2c23588
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119777744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461635"
 ---
 # <a name="gltexsubimage1d-function"></a>Функция glTexSubImage1D
 

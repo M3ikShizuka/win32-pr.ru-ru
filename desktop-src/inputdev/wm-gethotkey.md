@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 620f3b479f8d725028838282f1c3595fa5f4b6bb9061c90387e027bfaf6e1092
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f045ceefaf33c8d8edba0cb69e062ad589cfd833
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119829984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461078"
 ---
 # <a name="wm_gethotkey-message"></a>Сообщение WM с \_ сочетанием клавиш
 
@@ -96,7 +96,7 @@ ms.locfileid: "119829984"
 [**WM \_ сесоткэй**](wm-sethotkey.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с клавиатуры](keyboard-input.md)

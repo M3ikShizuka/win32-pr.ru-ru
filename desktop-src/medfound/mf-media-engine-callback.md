@@ -4,12 +4,12 @@ ms.assetid: 5FAEF29A-B978-410A-8F5B-EB6F7E35EE6D
 title: Атрибут MF_MEDIA_ENGINE_CALLBACK (Мфмедиаенгине. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 29ba6149c8d0b615ad13277588bbee5ee7397d9adaa089195671b3336b2b406b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1173e22f9d87f4a77f9ed4a1d1b405fc040bd32b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119723047"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460960"
 ---
 # <a name="mf_media_engine_callback-attribute"></a>\_ \_ Атрибут обратного вызова для обработчика мультимедиа MF \_
 
@@ -31,7 +31,7 @@ ms.locfileid: "119723047"
 
 Этот атрибут используется с методом [**имфмедиаенгинеклассфактори:: CreateInstance**](/windows/desktop/api/mfmediaengine/nf-mfmediaengine-imfmediaengineclassfactory-createinstance) для инициализации механизма мультимедиа. Атрибут является обязательным.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ ms.locfileid: "119723047"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

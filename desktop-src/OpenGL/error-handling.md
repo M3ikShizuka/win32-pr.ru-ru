@@ -7,12 +7,12 @@ keywords:
 - Обработка ошибок OpenGL
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 064330859b4e6b6d2d0bb9985e9f24d968a7daa5062215c64e82f89563ae06ce
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a2005eb38f85e6e57f814a3ec61abf8b76fa4761
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118361384"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461642"
 ---
 # <a name="error-handling-opengl"></a>Обработка ошибок (OpenGL)
 

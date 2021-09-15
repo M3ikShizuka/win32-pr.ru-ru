@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 842bb3ede2b1f96f3e5b343e351e047d112a8403
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "103790320"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460812"
 ---
 # <a name="autocheckbox-control"></a>Элемент управления "автофлажок"
 
@@ -55,12 +55,12 @@ AUTOCHECKBOX text, id, x, y, width, height [, style [, extended-style]]
 [**Установка**](checkbox-control.md)
 </dt> <dt>
 
-[**CONTROL**](control-control.md)
+[**ЭЛЕМЕНТА**](control-control.md)
 </dt> <dt>
 
 [**STATE3**](state3-control.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

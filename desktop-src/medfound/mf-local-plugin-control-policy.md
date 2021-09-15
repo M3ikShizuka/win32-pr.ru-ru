@@ -4,12 +4,12 @@ ms.assetid: 2936F3C9-3BCB-452A-8C03-35D73A200CE2
 title: Атрибут MF_LOCAL_PLUGIN_CONTROL_POLICY (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 83f32280f48895b9b6a0633613d63f787836573fe13f046126639c28467abe02
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dd1bdaee17651cebfdc844bb5b6998907b1cd295
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119956464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460962"
 ---
 # <a name="mf_local_plugin_control_policy-attribute"></a>\_ \_ \_ Атрибут политики управления локальным подключаемым модулем MF \_
 
@@ -25,7 +25,7 @@ ms.locfileid: "119956464"
 
 Эти атрибуты позволяют приложению указать более ограниченную локальную политику по сравнению с политикой уровня процесса, настроенной [**имфплугинконтрол**](/windows/desktop/api/mfobjects/nn-mfobjects-imfplugincontrol).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -37,7 +37,7 @@ ms.locfileid: "119956464"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

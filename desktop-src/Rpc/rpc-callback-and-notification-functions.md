@@ -6,12 +6,12 @@ keywords:
 - Функции RPC, ссылки, обратного вызова и уведомлений удаленного вызова процедур
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a1e05fab4300724f43972098753806b0d56ba59023fe884d05ab83d054e02a44
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2a8d614c079d762cf740ff7eb449e3c05c932243
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118926561"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461563"
 ---
 # <a name="rpc-callback-and-notification-functions"></a>Функции обратного вызова и уведомления RPC
 

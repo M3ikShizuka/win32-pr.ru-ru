@@ -4,12 +4,12 @@ ms.assetid: b5e45bfc-d91d-41b8-aaa4-72b3a23d869e
 title: Свойство MFP_PKEY_StreamRenderingResults (Мфплай. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0d63272662d71e261374f51c0463c0bbbb6d515dfeea8dd1ec5ab424609c386d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6acf04f751e8611f3add3a62fc7b4406d757999e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119954714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462063"
 ---
 # <a name="mfp_pkey_streamrenderingresults-property"></a>МФП \_ PKEY \_ стреамрендерингресултс, свойство
 
@@ -48,7 +48,7 @@ VT \_ вектор \| VT \_ UI4
 
 Если по крайней мере один поток был успешно подключен, воспроизведение возможно. Например, у пользователя может быть кодек, необходимый для воспроизведения аудиопотока, но не воспроизведение видеопотока.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -60,7 +60,7 @@ VT \_ вектор \| VT \_ UI4
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

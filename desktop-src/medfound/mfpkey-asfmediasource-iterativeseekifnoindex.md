@@ -5,11 +5,11 @@ title: Свойство MFPKEY_ASFMediaSource_IterativeSeekIfNoIndex (Мфидл
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 10cdc22f0b4f5490c7691cc40166cf929a16ba64
-ms.sourcegitcommit: c16214e53680dc71d1c07111b51f72b82a4512d8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "103820285"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460905"
 ---
 # <a name="mfpkey_asfmediasource_iterativeseekifnoindex-property"></a>МФПКЭЙ \_ асфмедиасаурце \_ итеративесикифноиндекс, свойство
 
@@ -31,7 +31,7 @@ ms.locfileid: "103820285"
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Это свойство используется для настройки источника мультимедиа ASF. Чтобы задать свойство, передайте указатель **ипропертисторе** в *сопоставитель источника*. Дополнительные сведения см. [в разделе Настройка источника мультимедиа](configuring-a-media-source.md).
 
@@ -50,9 +50,9 @@ ms.locfileid: "103820285"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 7 \|\]<br/>                                  |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2008 R2 \|\]<br/>                     |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Минимальная версия клиента<br/> | \[приложения UWP для классических приложений Windows 7 \|\]<br/>                                  |
+| Минимальная версия сервера<br/> | Windows \[Приложения UWP для настольных приложений Server 2008 R2 \|\]<br/>                     |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 

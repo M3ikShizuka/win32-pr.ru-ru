@@ -4,12 +4,12 @@ ms.assetid: 328544b3-0d5f-4d1a-9ad1-ac38402d5898
 title: Свойство MFNETSOURCE_BROWSERWEBPAGE (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6be6d64682f0f8d607e813927059360ff1273a33d87791fb7eab55ff10261e3b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d5e8222761299cad229b692ef400f69d0968ebd4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118739039"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460916"
 ---
 # <a name="mfnetsource_browserwebpage-property"></a>МФНЕТСАУРЦЕ \_ бровсервебпаже, свойство
 
@@ -37,7 +37,7 @@ VT \_ LPWSTR
 
 Приложения могут использовать это свойство для настройки сетевого источника. Чтобы задать свойство, передайте указатель **ипропертисторе** в сопоставитель источника. Дополнительные сведения см. [в разделе Настройка источника мультимедиа](configuring-a-media-source.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -45,7 +45,7 @@ VT \_ LPWSTR
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                               |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 

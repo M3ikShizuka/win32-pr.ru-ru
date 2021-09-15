@@ -4,12 +4,12 @@ description: В этом разделе описывается, как доба�
 ms.assetid: 15b1086e-e3a2-460a-828b-17db5105309f
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 96c23375dbfff770a22b96ef7cb517af1c0b8d40579d6919a31a8136e1691474
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 941c12a1531e422efe44cbd0b3deca9f89838698
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118735297"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460822"
 ---
 # <a name="adding-deleting-and-replacing-resources"></a>Добавление, удаление и замена ресурсов
 

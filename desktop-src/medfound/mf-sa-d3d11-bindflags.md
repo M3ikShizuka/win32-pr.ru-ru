@@ -4,12 +4,12 @@ ms.assetid: C3B475B1-9A44-47EA-BCE7-D3D0FB56DDAC
 title: Атрибут MF_SA_D3D11_BINDFLAGS (Мфтрансформ. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 65f0fbc607ccdc8f878e25109fcadfdf8956007d99909d9a21c0e668951106d9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6bb5ae4161a6782a3ea7a69b471044e43c5ee7a4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119102467"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462087"
 ---
 # <a name="mf_sa_d3d11_bindflags-attribute"></a>\_Атрибут MF SA \_ D3D11 \_ биндфлагс
 
@@ -51,7 +51,7 @@ ms.locfileid: "119102467"
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8 \[ приложения UWP для классических приложений \|\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Server 2012 \[ приложения UWP для классических приложений \|\]<br/>                              |
-| Header<br/>                   | <dl> <dt>Мфтрансформ. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфтрансформ. h</dt> </dl> |
 
 
 

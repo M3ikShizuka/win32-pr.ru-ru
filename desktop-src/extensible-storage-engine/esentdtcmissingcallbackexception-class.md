@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 8977d0623986961b6af027c99486cc2aa2076dfbce5925da628da40966afcd1e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d3e9409b03b103ade25fde08fd01949a1a84dbf8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117901283"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461154"
 ---
 # <a name="esentdtcmissingcallbackexception-class"></a>Класс Есентдткмиссингкаллбаккексцептион
 

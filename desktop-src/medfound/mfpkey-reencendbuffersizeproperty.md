@@ -4,12 +4,12 @@ ms.assetid: 4f8d3a29-e011-4dcb-8eed-23ccce03a66a
 title: Свойство MFPKEY_REENCENDBUFFERSIZE (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 56d28d16d748e6ec67224b71d8474102021c5925c6c72a2fc3fb99b945d27013
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 50cfb6587634ea3b70175102db371ed426184dcc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118973533"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460882"
 ---
 # <a name="mfpkey_reencendbuffersize-property"></a>МФПКЭЙ \_ ринцендбуфферсизе, свойство
 
@@ -23,7 +23,7 @@ ms.locfileid: "118973533"
 
 **VT \_ I4**
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -34,7 +34,7 @@ ms.locfileid: "118973533"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

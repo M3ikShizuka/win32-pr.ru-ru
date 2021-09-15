@@ -15,12 +15,12 @@ api_type:
 - COM
 api_location: ''
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 563efe09c011830ef17001c13a6f3d4564b26567940245aee3fcb272f562aa69
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ab478b7972206f462cd0bd0031f74865d850dbee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118980814"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461126"
 ---
 # <a name="extensible-storage-engine-constants"></a>расширяемые константы служба хранилища Engine
 

@@ -5,11 +5,11 @@ title: Типы компонентов
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: d1f89355b4b26090b7d43f9753c086b4ccc79df0
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105693696"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461348"
 ---
 # <a name="component-types"></a>Типы компонентов
 
@@ -24,7 +24,7 @@ ms.locfileid: "105693696"
 
 Модули записи имеют тип данных, указывающий их использование (см. сведения о [**\_ \_ типе источника VSS**](/windows/desktop/api/VsWriter/ne-vswriter-vss_source_type)). это может быть следующее:
 
--   Транзакционная база данных (например, SQL Server);
+-   транзакционная база данных (например, сервер SQL);
 -   Нетранзакционная база данных (например, клиент электронной таблицы)
 -   Файловая группа (другая)
 

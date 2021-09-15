@@ -4,12 +4,12 @@ description: С точки зрения разработки серверной 
 ms.assetid: 6a1aabca-4cb9-401c-90c7-0cff7a69b7b6
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: db05441f7314fba628d1ec07db5f99266c595c84e672ada976b38f7576ab5d1d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6f743a4a6aa4a2aa7b6987bb54dc56e55cffbc76
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118925340"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461488"
 ---
 # <a name="server-development-using-context-handles"></a>Разработка сервера с помощью дескрипторов контекста
 

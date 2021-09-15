@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3ebf42212d55f059286aa7b3d67f965b3b861755cc0291e57f339465291e5099
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ef5773294e229a59ff07db8ef546d9d691b369b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118368103"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461767"
 ---
 # <a name="inapenforcementclientconnectionsetenforcerprivatedata-method"></a>Метод Инапенфорцементклиентконнектион:: Сетенфорцерприватедата
 
@@ -78,7 +78,7 @@ HRESULT SetEnforcerPrivateData(
 |-------------------------------------|-----------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                      |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                                |
-| Header<br/>                   | <dl> <dt>Напенфорцементклиент. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Напенфорцементклиент. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>Напенфорцементклиент. idl</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Qagent.dll</dt> </dl>               |
 

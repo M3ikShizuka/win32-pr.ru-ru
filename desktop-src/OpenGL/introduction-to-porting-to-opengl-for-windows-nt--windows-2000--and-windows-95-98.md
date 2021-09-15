@@ -7,12 +7,12 @@ keywords:
 - перенос в OpenGL OpenGL
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f41e690186d4bd44501efa59f5ee92b2507dbd46b273e4847e0b83a15060e786
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8b9b9cc013d57a6e14cc318c4f254b5369193286
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119777404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461626"
 ---
 # <a name="introduction-to-porting-to-opengl-for-windows"></a>Общие сведения о переносе в OpenGL для Windows
 

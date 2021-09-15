@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3d03d821b441aa71f4766fc255f48122fe4f2c432d60d52ab957022d7be50a79
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: eab8d6b27547be6e7c7e9abb59f7edb7b49e716e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119803034"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461719"
 ---
 # <a name="inapsohconstructorinitialize-method"></a>Метод Инапсохконструктор:: Initialize
 
@@ -84,7 +84,7 @@ HRESULT Initialize(
 
 [Системхеалсентитид](nap-datatypes.md) , указанный в поле *ID*, является первым TLV в новом пакете SoH и имеет тип атрибута [**сохаттрибутетипесистемхеалсид**](sohattributetype-enum.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -98,7 +98,7 @@ HRESULT Initialize(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

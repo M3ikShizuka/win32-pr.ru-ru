@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Win32_tpm.dll
-ms.openlocfilehash: 435829389749d7f7e81552aa88dd00aa211fd74ae079c93c97b5baff3c7a3c4d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f5250f8d3f9ad38f9d4c46350e06e0fe32f756dc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118891856"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461387"
 ---
 # <a name="issrkauthcompatible-method-of-the-win32_tpm-class"></a>Метод Иссркаускомпатибле \_ класса TPM Win32
 

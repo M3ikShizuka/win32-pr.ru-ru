@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - mfmediaengine.h
-ms.openlocfilehash: 71246aaa2897540b272360a790718f8d5900934108c98dfcc6b4023898f9f2db
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6b6aaea772376b0e57c006a56a5a1bb30bc497c9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119104590"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460954"
 ---
 # <a name="mf_mse_error-enumeration"></a>\_ \_ Перечисление ошибок MF MSE
 

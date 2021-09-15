@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 746eebf6486c4cfdd422a78055e4c24ec8944e7d4a0e7f08afea9a9b9867adc8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d7db8a52d7986348e85c724171b6d417996c7315
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119781004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461718"
 ---
 # <a name="inapsohconstructorvalidate-method"></a>Метод Инапсохконструктор:: Validate
 

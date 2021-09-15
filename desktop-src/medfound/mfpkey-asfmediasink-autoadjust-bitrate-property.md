@@ -4,12 +4,12 @@ ms.assetid: 0a6f4dd4-4ad7-4aab-a33d-14b4716f9902
 title: Свойство MFPKEY_ASFMEDIASINK_AUTOADJUST_BITRATE (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: abb9c026010ba1995bb15f37562eb378361051e4f9f8da4eb9e065dfadfdccb4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d2d22463f477eb5abc1bb84254ad312427ecef52
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117690551"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462062"
 ---
 # <a name="mfpkey_asfmediasink_autoadjust_bitrate-property"></a>\_Свойство мфпкэй асфмедиасинк \_ АВТОнастройки скорости \_
 
@@ -72,7 +72,7 @@ ms.locfileid: "117690551"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 51dbd37b61fea12e559323a73cbf6b4a5cb54704a74663f865d9aa89636d3c46
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3f09e81a964542a6a8166ae54a0df4d7127466c4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119557144"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461072"
 ---
 # <a name="wm_hotkey-message"></a>\_Сообщение с сочетанием клавиш WM
 
@@ -78,7 +78,7 @@ ms.locfileid: "119557144"
 
 **WM \_ СОЧЕТАНИЕ** клавиш не связано с горячими ключами WM [**\_ сесоткэй и WM**](wm-sethotkey.md) . [**\_**](wm-gethotkey.md) Сообщение **с \_ сочетанием клавиш WM** отправляется для универсальных горячих ключей, а сообщения **WM \_ сесоткэй** и **WM- \_ горячих** клавиш относятся к горячим ключам активации окна.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -90,11 +90,11 @@ ms.locfileid: "119557144"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**RegisterHotKey**](/windows/win32/api/winuser/nf-winuser-registerhotkey)
@@ -106,7 +106,7 @@ ms.locfileid: "119557144"
 [**WM \_ сесоткэй**](wm-sethotkey.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с клавиатуры](keyboard-input.md)

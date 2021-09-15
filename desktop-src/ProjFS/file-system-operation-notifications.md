@@ -4,12 +4,12 @@ description: Описывает, как поставщик может получ
 ms.assetid: <GUID-GOES-HERE>
 ms.date: 10/04/2018
 ms.topic: article
-ms.openlocfilehash: 2e09efcc9d1a1aea99f79b70446162df5e3ef924067ac6619a443aa15e06e9df
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9eae9bde6d56592f371dcd48c24fef96a9eecbdf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120031244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461601"
 ---
 # <a name="file-system-operation-notifications"></a>Уведомления операций файловой системы
 

@@ -4,12 +4,12 @@ ms.assetid: 579448a1-22af-488f-a1f5-97ba69a15524
 title: Параметры сокета IPPROTO_UDP
 ms.topic: article
 ms.date: 10/02/2019
-ms.openlocfilehash: 763e45a78ffd8bfed15d09f4e77bc17be71ccc110499d8937b60b49294f499c8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6f1f25ebae34d7db4290ab23bbf799fc0e0b68df
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119051482"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461250"
 ---
 # <a name="ipproto_udp-socket-options"></a>\_Параметры сокета UDP иппрото
 
@@ -34,7 +34,7 @@ ms.locfileid: "119051482"
 
 в пакете Microsoft Windows Software Development Kit (SDK), выпущенном для Windows Vista и более поздних версий, организация файлов заголовков изменилась, а в файле заголовков *Ws2def. h* , который автоматически включается в заголовочный файл *Winsock2. h* , будет определен **иппрото уровень \_ UDP** . Параметры сокета **иппрото \_ UDP** определяются в файле заголовка *Ws2tcpip. h* . Файл заголовка *Ws2def. h* никогда не должен использоваться напрямую.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |-|-|

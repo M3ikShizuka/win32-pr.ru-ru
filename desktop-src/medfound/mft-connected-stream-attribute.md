@@ -4,12 +4,12 @@ ms.assetid: 7e14a02e-4cbf-45aa-a6f5-2c53b2437127
 title: Атрибут MFT_CONNECTED_STREAM_ATTRIBUTE (Мфтрансформ. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2289b8f1e8d5d751f7aa69564b8bbd26d865b43efedb474529147385b1851bb0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a3b182cbed78f5f9851b621de72bf691bf698b70
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119722570"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460847"
 ---
 # <a name="mft_connected_stream_attribute-attribute"></a>\_ \_ Атрибут атрибута потока, подключенного к MFT \_
 

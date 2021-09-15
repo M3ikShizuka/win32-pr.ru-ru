@@ -5,11 +5,11 @@ title: Атрибут MF_SINK_WRITER_ASYNC_CALLBACK (Мфреадврите. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 0f11bed051df9107ca3a2247b6c3d0cf2058224c
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103817784"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462080"
 ---
 # <a name="mf_sink_writer_async_callback-attribute"></a>\_ \_ \_ Атрибут асинхронного \_ обратного вызова для записи MF SINK
 
@@ -17,15 +17,15 @@ ms.locfileid: "103817784"
 
 ## <a name="data-type"></a>Тип данных
 
-**[](/windows/desktop/api/mfreadwrite/nn-mfreadwrite-imfsinkwritercallback) Имфсинквритеркаллбакк \** _ хранится как _*IUnknown \**_
+**[**Имфсинквритеркаллбакк**](/windows/desktop/api/mfreadwrite/nn-mfreadwrite-imfsinkwritercallback) \* *_ хранится как _* IUnknown\***
 
 ## <a name="getset"></a>Get/Set
 
-Чтобы получить этот атрибут, вызовите [_ *имфаттрибутес:: ununknown* *](/windows/desktop/api/mfobjects/nf-mfobjects-imfattributes-getunknown).
+Чтобы получить этот атрибут, вызовите [**имфаттрибутес:: ununknown**](/windows/desktop/api/mfobjects/nf-mfobjects-imfattributes-getunknown).
 
 Чтобы задать этот атрибут, вызовите [**имфаттрибутес:: сетункновн**](/windows/desktop/api/mfobjects/nf-mfobjects-imfattributes-setunknown).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значение этого атрибута является указателем на интерфейс [**имфсинквритеркаллбакк**](/windows/desktop/api/mfreadwrite/nn-mfreadwrite-imfsinkwritercallback) приложения.
 
@@ -40,9 +40,9 @@ ms.locfileid: "103817784"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 7 \|\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2008 R2 \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Мфреадврите. h</dt> </dl> |
+| Минимальная версия клиента<br/> | \[приложения UWP для классических приложений Windows 7 \|\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows \[Приложения UWP для настольных приложений Server 2008 R2 \|\]<br/>                           |
+| Заголовок<br/>                   | <dl> <dt>Мфреадврите. h</dt> </dl> |
 
 
 

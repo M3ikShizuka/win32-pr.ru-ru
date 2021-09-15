@@ -13,11 +13,11 @@ api_type:
 - NA
 api_location: ''
 ms.openlocfilehash: 4827fea8e4259609cbb54f2b58a3d1c88ad6c23e
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104272381"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462081"
 ---
 # <a name="mf_signature-structure"></a>\_Структура сигнатуры MF
 
@@ -36,7 +36,7 @@ typedef struct _MF_SIGNATURE {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -61,7 +61,7 @@ typedef struct _MF_SIGNATURE {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Эта структура не объявлена в заголовке пакета SDK. Чтобы использовать эту структуру, добавьте приведенное здесь объявление в исходный код.
 
@@ -71,8 +71,8 @@ typedef struct _MF_SIGNATURE {
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>       |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>       |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/> |
 
 
 

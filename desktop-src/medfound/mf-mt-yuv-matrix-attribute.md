@@ -4,12 +4,12 @@ ms.assetid: b268d16d-b4cc-4026-9ba7-805cc5409b95
 title: Атрибут MF_MT_YUV_MATRIX (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 20f055490873bf1af07b8278c249679da53bc24b1a76be7a0384a010edff81c6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f0c6976e4652c69b3bddc910dcc536a3d07bf39a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117876508"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462099"
 ---
 # <a name="mf_mt_yuv_matrix-attribute"></a>\_ \_ \_ Атрибут матрицы MF MT YUV
 
@@ -33,7 +33,7 @@ ms.locfileid: "117876508"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Приложения UWP для классических приложений Vista \|\]<br/>                              |
 | Минимальная версия сервера<br/> | Windows \[Приложения UWP для классических приложений сервера 2008 \|\]<br/>                        |
-| Header<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
 
 
 

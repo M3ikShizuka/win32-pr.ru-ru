@@ -7,12 +7,12 @@ keywords:
 - Удаленный вызов процедур RPC, рекомендации, масштабируемость
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ec2a004a5ce3adb0f27e2e31071cac69fc1c34bfc650c618dcf39b3c8ebc954f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0728e35d9c9b27494014363c448be9965e39eea7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120018064"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461518"
 ---
 # <a name="scalability"></a>Масштабируемость
 

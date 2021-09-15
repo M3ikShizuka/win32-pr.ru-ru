@@ -15,11 +15,11 @@ api_location:
 - D3DX10.lib
 - D3DX10.dll
 ms.openlocfilehash: 01d769cf2b198a66a695750fc8b084a94df10a7e
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "104273879"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461208"
 ---
 # <a name="id3dx10meshgetvertexbuffercount-method"></a>Метод ID3DX10Mesh:: Жетвертексбуфферкаунт
 
@@ -50,7 +50,7 @@ UINT GetVertexBufferCount();
 
 | Требование | Значение |
 |--------------------|---------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3DX10. h</dt> </dl>   |
+| Заголовок<br/>  | <dl> <dt>D3DX10. h</dt> </dl>   |
 | Библиотека<br/> | <dl> <dt>D3DX10. lib</dt> </dl> |
 
 

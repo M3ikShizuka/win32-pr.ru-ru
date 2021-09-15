@@ -9,12 +9,12 @@ keywords:
 - файлы определения модуля
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b61343cd586ed022c334b797a77320ee25eccdf48653b4732adc597f4aedde26
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 08b7e0d0c177af2798b041fa12b4cc5793bf9be0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118975724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461040"
 ---
 # <a name="handling-screen-savers"></a>Обработка экранных заставок
 
@@ -93,7 +93,7 @@ cls.cbClsExtra     = 0;
 
 
 
-| Message         | Действие                                                                    |
+| Сообщение         | Действие                                                                    |
 |-----------------|---------------------------------------------------------------------------|
 | WM \_ сеткурсор   | Установите курсор на курсор null, удалив его с экрана.           |
 | WM \_ Paint       | Paint фон экрана.                                              |

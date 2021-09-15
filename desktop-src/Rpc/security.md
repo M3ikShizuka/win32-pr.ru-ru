@@ -6,12 +6,12 @@ keywords:
 - Удаленный вызов процедур RPC, описание, безопасность
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 82b85a0c0f219899ad9bd3410bfeb8b4cedc19401ee2350286a5c63fded85c0e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a257b67fad90fe568615eb5731fc60dc9706d5ae
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118925701"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461504"
 ---
 # <a name="security-rpc"></a>Безопасность (RPC)
 

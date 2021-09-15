@@ -4,12 +4,12 @@ description: При создании значения TrackBar инициали�
 ms.assetid: FA110B4A-D3D7-49D8-A3DC-368099F6DA1E
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 71713e09167812786a5d5f57986242ef5fcf016931cdff40d5190cd6e0daafea
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c9468ff044b94837f54d04cda4a9105f15410692
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119826554"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461961"
 ---
 # <a name="how-to-create-a-trackbar"></a>Создание линейки значений
 
@@ -26,7 +26,7 @@ ms.locfileid: "119826554"
 -   C/C++
 -   Windows Программирование пользовательского интерфейса
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="create-a-trackbar"></a>Создание TrackBar
 

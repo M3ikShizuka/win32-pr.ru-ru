@@ -6,19 +6,19 @@ keywords:
 - Удаленный вызов процедур RPC, ссылки, структуры
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c59552f775b56519620e46c610bef234fba488d4d6e0a7dfe7d4266e7ae2c50e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b94d03209af8b14f87cd8b15929389b6eb524833
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120018217"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461529"
 ---
 # <a name="rpc-structures"></a>Структуры RPC
 
 В этом разделе объясняются структуры, определенные и используемые в Microsoft RPC.
 
 -   [**NDR \_ сконтекст**](/previous-versions/aa374336(v=vs.80))
--   [**УСТРОЙСТВА**](/windows/win32/api/guiddef/ns-guiddef-guid)
+-   [**GUID**](/windows/win32/api/guiddef/ns-guiddef-guid)
 -   [**\_ \_ сведения о МАРШАЛИРОВАНИИ пользователя NDR \_**](/windows/win32/api/Rpcndr/ns-rpcndr-ndr_user_marshal_info)
 -   [**\_ \_ Сведения о МАРШАЛИРОВАНИИ пользователя NDR \_ \_ level1**](/windows/win32/api/Rpcndr/ns-rpcndr-ndr_user_marshal_info_level1)
 -   [**\_асинхронные \_ сведения об УВЕДОМЛЕНии RPC \_**](/windows/win32/api/Rpcasync/ns-rpcasync-rpc_async_notification_info)

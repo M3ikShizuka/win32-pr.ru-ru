@@ -24,11 +24,11 @@ api_type:
 api_location:
 - Microsoft.Interop.Security.Azroles.dll
 ms.openlocfilehash: 48cbd9b2489b2299893cbbb209f54561375b6450
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105665356"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461432"
 ---
 # <a name="microsoftinteropsecurityazrolesiazroleassignments-interface"></a>Интерфейс Microsoft. Interop. Security. Азролес. Иазролеассигнментс
 
@@ -55,13 +55,13 @@ ms.locfileid: "105665356"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Интерфейс **Microsoft. Interop. Security. азролес. иазролеассигнментс** имеет следующие свойства.
 
 
 
-| Свойство                                                                   | Тип доступа          | Описание                                                                         |
+| Свойство.                                                                   | Тип доступа          | Описание                                                                         |
 |:---------------------------------------------------------------------------|:---------------------|:------------------------------------------------------------------------------------|
 | **Microsoft. Interop. Security. Азролес. Иазролеассигнментс. Count**<br/> | Только для чтения<br/> | [**Свойство Count объекта Иазролеассигнментс**](/windows/desktop/api/Azroles/nf-azroles-iazroleassignments-get_count)<br/> |
 | **Microsoft. Interop. Security. Азролес. Иазролеассигнментс. Item**<br/>  | Только для чтения<br/> | [**Свойство Item объекта Иазролеассигнментс**](/windows/desktop/api/Azroles/nf-azroles-iazroleassignments-get_item)<br/>   |

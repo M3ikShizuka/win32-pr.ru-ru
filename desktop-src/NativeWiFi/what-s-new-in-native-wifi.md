@@ -4,12 +4,12 @@ ms.assetid: 76d60b95-a34a-4747-b0fa-9230aa60bd63
 title: Новые возможности системной поддержки Wi-Fi
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b4a9430fa2c1645d574f8b4ab851a8cf5ce1407139cfe63a6aabeb3ebfd57abd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2126627f4cf6431fbac2bf4d1f6ec58561bfd8bb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119064864"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461695"
 ---
 # <a name="whats-new-in-native-wifi"></a>Новые возможности системной поддержки Wi-Fi
 
@@ -17,7 +17,7 @@ ms.locfileid: "119064864"
 
 См. статью о [подготовке профиля Wi-Fi через веб-сайт](prov-wifi-profile-via-website.md).
 
-## <a name="windows-10"></a>Windows 10,
+## <a name="windows-10"></a>Windows 10
 
 В [ \_ схему профиля WLAN](wlan-profileschema-schema.md)добавлена поддержка Hotspot 2,0. Hotspot 2,0 обеспечивает автоматическое подключение к общедоступным службам Wi-Fi, используя существующие учетные данные и членство в сетях поставщиков услуг. Поставщики услуг указывают, как соединения устанавливаются с помощью новых элементов схемы, чтобы описать используемые сети и способ проверки подлинности в них. Дополнительные сведения см. в документации по элементу [**Hotspot2**](wlan-profileschema-hotspot2-element.md) .
 

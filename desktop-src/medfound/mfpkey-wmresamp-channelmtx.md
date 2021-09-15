@@ -4,12 +4,12 @@ ms.assetid: 2f2a82bd-f051-4b05-a9c8-37aa4403fab4
 title: Свойство MFPKEY_WMRESAMP_CHANNELMTX (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a326cfe27632204f2975ac8b7c3a605c666464f8f62846a5c622a469f2f6e104
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7e39f9a9344dd080362859592fcf1f71657ee8f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117689258"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462035"
 ---
 # <a name="mfpkey_wmresamp_channelmtx-property"></a>МФПКЭЙ \_ вмресамп \_ Чаннелмткс, свойство
 

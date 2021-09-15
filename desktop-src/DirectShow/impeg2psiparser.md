@@ -1,5 +1,5 @@
 ---
-description: Реализация этого интерфейса предоставляется в виде образца кода с помощью пакета SDK DirectShow.
+description: реализация этого интерфейса предоставляется в виде образца кода с помощью пакета SDK для DirectShow.
 ms.assetid: a18fc6b6-f37e-4c87-9150-0504333d33c2
 title: Интерфейс IMpeg2PsiParser
 ms.topic: reference
@@ -13,17 +13,17 @@ api_type:
 - COM
 api_location: ''
 ms.openlocfilehash: 51f0f3373c67da75c50ecc2f6bc234e0351f5dc3
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "105672973"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461939"
 ---
 # <a name="impeg2psiparser-interface"></a>Интерфейс IMpeg2PsiParser
 
-Реализация этого интерфейса предоставляется в виде образца кода с помощью пакета SDK DirectShow. Это не поддерживаемый API-интерфейс DirectShow.
+реализация этого интерфейса предоставляется в виде образца кода с помощью пакета SDK для DirectShow. он не является поддерживаемым DirectShow API.
 
-`IMpeg2PsiParser`Интерфейс извлекает сведения о программе (PSI) из фильтра средства синтаксического анализа PSI, который предоставляется в пакете SDK DirectShow в качестве образца фильтра. Приложение может использовать этот фильтр для отображения идентификаторов программ (PID) в фильтре демультиплексора MPEG-2.
+`IMpeg2PsiParser`интерфейс извлекает сведения о программе (PSI) из фильтра средства синтаксического анализа PSI, который предоставляется в DirectShow SDK в качестве образца фильтра. Приложение может использовать этот фильтр для отображения идентификаторов программ (PID) в фильтре демультиплексора MPEG-2.
 
 ## <a name="members"></a>Элементы
 

@@ -4,12 +4,12 @@ ms.assetid: 01ee0766-06ed-4255-9057-2fe033a772cd
 title: Свойство MFPKEY_RESIZE_INTERLACE (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4c614865d0c8a49238b9c8d6f7714787bb22aaadaa317a8a3a0405a7f51c87be
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 45d0efe93901a08322a05dbed2515f76b04a214b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117873038"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460879"
 ---
 # <a name="mfpkey_resize_interlace-property"></a>МФПКЭЙ \_ \_ Свойства развертки изменения размера
 

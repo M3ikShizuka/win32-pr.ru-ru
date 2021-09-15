@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8d83c7a86659fe2c80bc786a4ef1ed5944f90809049e4f681506c439477bc744
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5fd91eef026ae027e183b4f304211915e7bbbd95
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119351654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461064"
 ---
 # <a name="wm_lbuttondblclk-message"></a>\_Сообщение ЛБУТТОНДБЛКЛК WM
 
@@ -138,7 +138,7 @@ yPos = GET_Y_LPARAM(lParam);
 [**WM \_ лбуттонуп**](wm-lbuttonup.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с помощью мыши](mouse-input.md)

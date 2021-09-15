@@ -4,12 +4,12 @@ ms.assetid: 0f197165-e6e5-456b-9615-1edc8ada7bb5
 title: Свойство MFPKEY_WMAAECMA_FEATR_MICARR_PREPROC (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ebbba5faeb1a1e70feb1ef6182d3ac2a397a52c4a56f27e767be93f4a3fff773
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f992d8d26ba547eb1b5d1eac470536a963209f56
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117873018"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462040"
 ---
 # <a name="mfpkey_wmaaecma_featr_micarr_preproc-property"></a>МФПКЭЙ \_ вмааекма \_ феатр \_ микарр, \_ свойство
 
@@ -52,7 +52,7 @@ ms.locfileid: "117873018"
 
 DSP использует это свойство только в том случае, если включена обработка массива микрофона.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -64,7 +64,7 @@ DSP использует это свойство только в том случ
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

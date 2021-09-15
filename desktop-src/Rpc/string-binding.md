@@ -4,12 +4,12 @@ description: Строковая привязка представляет соб
 ms.assetid: 5e55ddd0-d71c-42ef-90cc-dd1f0b9ed305
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 10b2219aa4bb9ed77d2c59732a87a138f620e1910a4ca9f518c22c39a59a7dfa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8b3f925c03c85be3c47ab174a85f31e72e40d828
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118924992"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461459"
 ---
 # <a name="string-binding"></a>Строковая привязка
 
@@ -103,15 +103,15 @@ ms.locfileid: "118924992"
 | [нкакн \_ NetBIOS, \_ протокол TCP](/windows/desktop/Midl/ncacn-nb-tcp)     | Целое число от 1 до 254. Многие значения от 0 до 32 зарезервированы корпорацией Майкрософт.                 | 100                  | Нет                                                   |
 | [нкакн \_ NetBIOS- \_ IPX](/windows/desktop/Midl/ncacn-nb-ipx)     | (как описано выше)                                                                                         | (как описано выше)           | Нет                                                   |
 | [нкакн \_ имена \_ NetBIOS](/windows/desktop/Midl/ncacn-nb-nb)       | (как описано выше)                                                                                         | (как описано выше)           | Нет                                                   |
-| [нкакн \_ IP \_ TCP](/windows/desktop/Midl/ncacn-ip-tcp)     | Номер порта в Интернете.                                                                              | 1025                 | Нет                                                   |
+| [нкакн \_ IP \_ TCP](/windows/desktop/Midl/ncacn-ip-tcp)     | Номер порта в Интернете.                                                                              | 1025                 | None                                                   |
 | [нкакн \_ NP](/windows/desktop/Midl/ncacn-np)              | Именованный канал. Имя должно начинаться с " \\ \\ pipe".                                                       | \\\\\\ \\ pipeName канала | Безопасность                                               |
 | [нкакн \_ SPX](/windows/desktop/Midl/ncacn-spx)            | Целое число от 1 до 65535.                                                                       | 5000                 | Нет                                                   |
-| [нкакн \_ днет \_ NSP](/windows/desktop/Midl/ncacn-dnet-nsp) | Номер объекта-фазы DECnet IV (перед ним должен стоять \# символ) или имя объекта.              | MailServer \# 17      | Нет                                                   |
+| [нкакн \_ днет \_ NSP](/windows/desktop/Midl/ncacn-dnet-nsp) | Номер объекта-фазы DECnet IV (перед ним должен стоять \# символ) или имя объекта.              | MailServer \# 17      | None                                                   |
 | [нкакн \_ в \_ DSP](/windows/desktop/Midl/ncacn-at-dsp)     | Символьная строка длиной до 22 байт.                                                           | мисервицесендпоинт   | Нет                                                   |
-| [нкакн \_ ВНС \_ SPP](/windows/desktop/Midl/ncacn-vns-spp)   | Номер порта vines SPP от 250 до 511.                                                         | 500                  | Нет                                                   |
-| [нкадг \_ MQ](/windows/desktop/Midl/ncadg-mq)              | Целое число от 1 до 65535.                                                                       | 5000                 | Нет                                                   |
+| [нкакн \_ ВНС \_ SPP](/windows/desktop/Midl/ncacn-vns-spp)   | Номер порта vines SPP от 250 до 511.                                                         | 500                  | None                                                   |
+| [нкадг \_ MQ](/windows/desktop/Midl/ncadg-mq)              | Целое число от 1 до 65535.                                                                       | 5000                 | None                                                   |
 | [нкакн \_ http](/windows/desktop/Midl/ncacn-http)          | Номер порта в Интернете.                                                                              | 2215                 | Имена прокси-серверов HTTP и RPC, параметр Хттпконнектион |
-| [нкадг \_ IP \_ UDP](/windows/desktop/Midl/ncadg-ip-udp)     | Номер порта в Интернете.                                                                              | 1025                 | Нет                                                   |
+| [нкадг \_ IP \_ UDP](/windows/desktop/Midl/ncadg-ip-udp)     | Номер порта в Интернете.                                                                              | 1025                 | None                                                   |
 | [нкадг \_ IPX](/windows/desktop/Midl/ncadg-ipx)            | Целое число от 1 до 65535.                                                                       | 5000                 | Нет                                                   |
 | [нкалрпк](/windows/desktop/Midl/ncalrpc)                 | Строка, указывающая имя приложения или службы. Строка не может содержать символы обратной косой черты. | мой \_ принтер          | Безопасность                                               |
 

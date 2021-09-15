@@ -4,12 +4,12 @@ ms.assetid: 6b2f5a50-fabd-4c80-acc8-a0883c939632
 title: Интерфейсы API беспроводного пользовательского интерфейса
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5e2b2af7faccc5452163ad89ed28d12e7de917f4b872011165e0cfb1760657dd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c5814ea8daa55ab3ec1bf431543174cf57fdfa7c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118619931"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461679"
 ---
 # <a name="wireless-user-interface-apis"></a>Интерфейсы API беспроводного пользовательского интерфейса
 

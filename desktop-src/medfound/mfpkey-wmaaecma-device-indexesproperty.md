@@ -4,12 +4,12 @@ ms.assetid: 42b6b82b-ac64-4a07-956c-473dd57a128d
 title: Свойство MFPKEY_WMAAECMA_DEVICE_INDEXES (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4c4e9fd9eae8d53f1fa19bd8b55d94d292b9cd6cbf214b7a71a6473f1af647f7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4b377e4335e78e81c8e7d3c5a9a0c1d00b8f9bae
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117873003"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460867"
 ---
 # <a name="mfpkey_wmaaecma_device_indexes-property"></a>\_ \_ \_ Свойство индексов устройства мфпкэй вмааекма
 
@@ -60,7 +60,7 @@ varDeviceIndexes.lVal = (unsigned long)(iSpeakerIndex << 16) +
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -72,7 +72,7 @@ varDeviceIndexes.lVal = (unsigned long)(iSpeakerIndex << 16) +
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

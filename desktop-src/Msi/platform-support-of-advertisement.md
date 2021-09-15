@@ -4,12 +4,12 @@ ms.assetid: 9e5158bc-4877-49d1-9bb9-4dd17abb444d
 title: Поддержка платформ объявления
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 27701963f9a7b524a99b2064f6d9cebe070dd668f1587eebc5621ce36832967d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 48016241998473a5bb5ae8ecff05a14fd702f8be
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119339734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461922"
 ---
 # <a name="platform-support-of-advertisement"></a>Поддержка платформ объявления
 

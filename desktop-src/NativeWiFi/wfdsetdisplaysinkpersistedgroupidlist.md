@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - wifidisplay.dll
-ms.openlocfilehash: ce31b6e4bf6336baede3767d3457f44d92dde0e39f6418bcc3c2529b644fe24c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 423360d7127f331fd1aa2de7f7370daebcc2b417
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119800394"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461699"
 ---
 # <a name="wfddisplaysinksetpersistedgroupidlist-function"></a>Функция Вфддисплайсинксетперсистедграупидлист
 
@@ -64,7 +64,7 @@ DWORD WINAPI WFDSetDisplaySinkPersistedGroupIDList(
 
 Вызов повторного вызова для идентификатора группы, не входящего в предоставленный список, завершится ошибкой "Failed; неизвестная группа P2P "(состояние 8).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -72,7 +72,7 @@ DWORD WINAPI WFDSetDisplaySinkPersistedGroupIDList(
 |-------------------------------------|--------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8.1 \[ только классические приложения\]<br/>                                               |
 | Минимальная версия сервера<br/> | Windows Server 2012 \[Только классические приложения R2\]<br/>                                    |
-| Окончание поддержки клиента<br/>    | Windows 10,<br/>                                                                      |
+| Окончание поддержки клиента<br/>    | Windows 10<br/>                                                                      |
 | Поддержка конца сервера<br/>    | Windows Server 2016<br/>                                                             |
 | Заголовок<br/>                   | <dl> <dt>Вфдсинк. h</dt> </dl>       |
 | Библиотека<br/>                  | <dl> <dt>Вифидисплай. lib</dt> </dl> |

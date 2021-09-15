@@ -4,12 +4,12 @@ description: Метод отображения
 ms.assetid: 58adbb55-f4cb-4356-abc4-b85fa3af744d
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ede9dd8474b21911fccb0c217b070dbfb84160125d2fd56092685ccaf82905b2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a05a1adaa46c85f34e02128960330c68d9a86db1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118475356"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461031"
 ---
 # <a name="show-method"></a>Метод отображения
 
@@ -47,7 +47,7 @@ ms.locfileid: "118475356"
 
 Старайтесь не задавать  для параметра fast **значение true** без предварительного воспроизведения анимации. в противном случае символьная рамка может отображаться без изображения. В частности, обратите внимание, что при вызове функции [**MoveTo**](moveto-method.md) , если символ не отображается, анимация не воспроизводится. Таким образом, при вызове метода **Показать** с **быстрым** установленным значение **true** изображение не отображается. Аналогично, если вызвать [**Hide**](hide-method.md) , а затем **Показать** с параметром **быстрое** задание в **значение true**, изображение не будет отображено.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 [**Hide - метод**](hide-method.md)
 

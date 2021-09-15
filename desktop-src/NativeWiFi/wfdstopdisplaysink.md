@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - wifidisplay.dll
-ms.openlocfilehash: a5e2da91e29535c1e2fd9553a2b6ec2bb0008e61f33cd55ebcda2746b93eb657
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d1ebaa9920ca7d38cff22cef6383b37065faa2ba
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117797934"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461696"
 ---
 # <a name="wfddisplaysinkstop-function"></a>Функция Вфддисплайсинкстоп
 
@@ -45,7 +45,7 @@ DWORD WINAPI WFDStopDisplaySink(void);
 
 Ожидается, что приложение разблокировало все выполняемые обратные вызовы перед вызовом **вфдстопдисплайсинк**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -53,7 +53,7 @@ DWORD WINAPI WFDStopDisplaySink(void);
 |-------------------------------------|--------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8.1 \[ только классические приложения\]<br/>                                               |
 | Минимальная версия сервера<br/> | Windows Server 2012 \[Только классические приложения R2\]<br/>                                    |
-| Окончание поддержки клиента<br/>    | Windows 10,<br/>                                                                      |
+| Окончание поддержки клиента<br/>    | Windows 10<br/>                                                                      |
 | Поддержка конца сервера<br/>    | Windows Server 2016<br/>                                                             |
 | Заголовок<br/>                   | <dl> <dt>Вфдсинк. h</dt> </dl>       |
 | Библиотека<br/>                  | <dl> <dt>Вифидисплай. lib</dt> </dl> |

@@ -4,12 +4,12 @@ ms.assetid: cd84911b-3658-489f-b454-23eded0cbfa0
 title: Свойство MFNETSOURCE_PROXYPORT (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0ac286fdcce276a29f08fef9df536f9a92152729791ff04d63478246825a718f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 228f7d9390d53f7d8182a198879dcb2d81e3bae7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117874628"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460914"
 ---
 # <a name="mfnetsource_proxyport-property"></a>МФНЕТСАУРЦЕ \_ проксипорт, свойство
 
@@ -37,7 +37,7 @@ VT \_ I4
 
 Приложения могут использовать это свойство для настройки локатора прокси при создании прокси-объекта-локатора. Чтобы задать свойство, передайте указатель **ипропертисторе** в параметре *ппроксиконфиг* функции [**мфкреатепроксилокатор**](/windows/desktop/api/mfidl/nf-mfidl-mfcreateproxylocator) . Если это свойство не задано для HTTP, по умолчанию локатор прокси-сервера использует значение 80.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -49,7 +49,7 @@ VT \_ I4
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

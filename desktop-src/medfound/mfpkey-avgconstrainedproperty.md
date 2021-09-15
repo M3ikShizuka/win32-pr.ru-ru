@@ -4,12 +4,12 @@ ms.assetid: 2c150eb1-4ffe-4f77-8ef8-e3bf29b17b10
 title: Свойство MFPKEY_AVGCONSTRAINED (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a3e7231cb3807be8f4467592ac0138a75ea277bdf8a13dfb3564d3572036e7ec
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0623fb4a73e3721f9079f2a1e5e330ecb466a774
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117874096"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460900"
 ---
 # <a name="mfpkey_avgconstrained-property"></a>МФПКЭЙ \_ авгконстраинед, свойство
 
@@ -31,7 +31,7 @@ ms.locfileid: "117874096"
 
 Если для этого свойства и [**свойства \_ вбренаблед мфпкэй**](mfpkey-vbrenabledproperty.md) задано значение **Variant \_ true**, кодировщик использует среднее-управляемое кодирование VBR. В этом случае кодировщик настраивает себя в соответствии со значениями [**мфпкэй \_ Дин \_ VBR \_ бавг**](mfpkey-dyn-vbr-bavgproperty.md) и [**мфпкэй \_ Дин \_ VBR \_ равг**](mfpkey-dyn-vbr-ravgproperty.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ ms.locfileid: "117874096"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

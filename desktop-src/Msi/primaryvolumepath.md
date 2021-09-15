@@ -4,18 +4,18 @@ ms.assetid: 6de21e4e-13cd-4a3f-a068-3b38672ae79c
 title: Примариволумепас, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f0c440e6c99e09e045fb9c91fcc720d3e64e707b6444f765448401080f7b9b38
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: da36cad6f35118c7631aba66213a000f6a2cc3e0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120082654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461912"
 ---
 # <a name="primaryvolumepath-property"></a>Примариволумепас, свойство
 
 Установщик устанавливает значение свойства **примариволумепас** в путь к тому, который указан свойством [**примарифолдер**](primaryfolder.md) . Например, если папка, на которую ссылается **примарифолдер** , разрешается в "d: \\ ProgramFiles", **Примариволумепас** имеет значение "d:".
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

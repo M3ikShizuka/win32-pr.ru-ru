@@ -4,12 +4,12 @@ ms.assetid: A2E548F1-A5FA-4110-AD07-46BE9D7DC4A5
 title: Атрибут MF_MT_H264_SUPPORTED_SYNC_FRAME_TYPES (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4f6b6d00b3914ebcf55952baf372c139d43a02689605f800628df58b2d71395b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c328cbdef60750f2df7e9af403d8748c37d53b28
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120113744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460936"
 ---
 # <a name="mf_mt_h264_supported_sync_frame_types-attribute"></a>\_ \_ \_ \_ \_ Атрибут типов кадров синхронизации MF MT H264 Single bitrate поддерживается \_
 
@@ -35,7 +35,7 @@ ms.locfileid: "120113744"
 
 Этот атрибут также используется с [кодировщиками камер H. 264 увк 1,5](camera-encoder-h264-uvc-1-5.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -47,7 +47,7 @@ ms.locfileid: "120113744"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

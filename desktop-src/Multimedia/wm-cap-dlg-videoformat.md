@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 8d244c4c141845d4ede66804918514e091872e89
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124371400"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461817"
 ---
 # <a name="wm_cap_dlg_videoformat-message"></a>\_ \_ Сообщение видеоформат с диалогом WM Cap \_
 
@@ -56,7 +56,7 @@ lParam = 0L;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

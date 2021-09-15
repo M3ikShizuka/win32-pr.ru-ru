@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 5e130090c7281f6ef61ed0a3a82b822863bb5c12ff1194e26b07a70467db82cf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f252077a5536194e635281d4b4178a457f7a82cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119720834"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460794"
 ---
 # <a name="stringfileinfo-structure"></a>Структура Стрингфилеинфо
 
@@ -40,7 +40,7 @@ typedef struct {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -137,13 +137,13 @@ typedef struct {
 [**StringTable**](stringtable.md)
 </dt> <dt>
 
-[**Строковый тип**](string-str.md)
+[**String**](string-str.md)
 </dt> <dt>
 
 [**VS \_ versionInfo**](vs-versioninfo.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Сведения о версии](version-information.md)

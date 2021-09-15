@@ -4,12 +4,12 @@ ms.assetid: c6d47caa-59e1-440c-ab67-955cb8547950
 title: Свойство MFPKEY_RESIZE_DST_HEIGHT (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 922072d142b6bbba83906b0b59d66782c266059b2abf155b6996453a58c592b8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d62d189edb06462edbc1088a725e4f85e471b594
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119555404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460880"
 ---
 # <a name="mfpkey_resize_dst_height-property"></a>МФПКЭЙ \_ изменить размер \_ Свойства летнего времени \_
 
@@ -27,7 +27,7 @@ VT \_ I4
 
 -   [DSP изменения видеоконтроллеров](videoresizer.md)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -39,7 +39,7 @@ VT \_ I4
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -6,12 +6,12 @@ keywords:
 - RPC_BINDING_HANDLE
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0218f1a7331a070340b7740c83f8464b2286de2698daf67ac1092aa5c057db03
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 45e37d14bc5186f05815c10f538b0c90bdddd353
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120018588"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461568"
 ---
 # <a name="rpc_binding_handle"></a>\_маркер привязки \_ RPC
 
@@ -47,7 +47,7 @@ typedef I_RPC_HANDLE RPC_BINDING_HANDLE;
 
 Процедуры, которым необходим маркер привязки в качестве параметра, показывают тип данных **\_ \_ маркера привязки RPC**. Параметры обработчика привязки передаются по значению.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

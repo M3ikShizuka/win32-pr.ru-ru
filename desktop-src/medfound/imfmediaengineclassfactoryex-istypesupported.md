@@ -14,11 +14,11 @@ api_type:
 api_location:
 - mfmediaengine.h
 ms.openlocfilehash: 92bf3d64d36c043e9e33b897294ff74a3fda0445
-ms.sourcegitcommit: c16214e53680dc71d1c07111b51f72b82a4512d8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "105693818"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460999"
 ---
 # <a name="imfmediaengineclassfactoryexistypesupported-method"></a>Метод Имфмедиаенгинеклассфакторекс:: Истипесуппортед
 
@@ -72,8 +72,8 @@ HRESULT IsTypeSupported(
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только Windows 8.1 Классические приложения\]<br/>                                                 |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2012 R2 \[\]<br/>                                      |
+| Минимальная версия клиента<br/> | Windows 8.1 \[ только классические приложения\]<br/>                                                 |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[Только классические приложения R2\]<br/>                                      |
 | IDL<br/>                      | <dl> <dt>Мфмедиаенгине. idl</dt> </dl> |
 
 

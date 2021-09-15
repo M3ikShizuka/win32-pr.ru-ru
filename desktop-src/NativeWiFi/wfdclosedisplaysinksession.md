@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - wifidisplay.dll
-ms.openlocfilehash: 7e8169c541535eb2c5adfd0959da47cee4951750687f7d926798534ddc7cbf88
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7697bc7ff1aa42569cf954b3f0b037f66ec67ded
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119064904"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461700"
 ---
 # <a name="wfddisplaysinkclosesession-function"></a>Функция Вфддисплайсинкклосесессион
 
@@ -62,9 +62,9 @@ DWORD WINAPI WFDCloseDisplaySinkSession(
 |-------------------------------------|--------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8.1 \[ только классические приложения\]<br/>                                               |
 | Минимальная версия сервера<br/> | Windows Server 2012 \[Только классические приложения R2\]<br/>                                    |
-| Окончание поддержки клиента<br/>    | Windows 10,<br/>                                                                      |
+| Окончание поддержки клиента<br/>    | Windows 10<br/>                                                                      |
 | Поддержка конца сервера<br/>    | Windows Server 2016<br/>                                                             |
-| Header<br/>                   | <dl> <dt>Вфдсинк. h</dt> </dl>       |
+| Заголовок<br/>                   | <dl> <dt>Вфдсинк. h</dt> </dl>       |
 | Библиотека<br/>                  | <dl> <dt>Вифидисплай. lib</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wifidisplay.dll</dt> </dl> |
 

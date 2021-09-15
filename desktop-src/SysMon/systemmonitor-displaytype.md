@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: dba172c5111c781edd21b1090ab77bccfaaacdec4adb45d2abfdd75809a11b2e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 99c0e96ff0da57ef9e5f580063dc4f693d672e15
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117955910"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461383"
 ---
 # <a name="systemmonitordisplaytype-property"></a>Системмонитор. Дисплайтипе, свойство
 
@@ -66,7 +66,7 @@ Property DisplayType As DisplayTypeConstants
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

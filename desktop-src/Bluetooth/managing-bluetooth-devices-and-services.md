@@ -7,12 +7,12 @@ keywords:
 - Bluetooth Устройства и службы, управление
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 74979fe0a604204e777f0daabe07a4531d9974c9fef55231ce98b7ee7fe9c3ed
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 61cf3657dff2091eda4b26d14f6504b74f943983
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118959183"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461981"
 ---
 # <a name="managing-bluetooth-devices-and-services"></a>управление устройствами и службами Bluetooth
 
@@ -27,7 +27,7 @@ ms.locfileid: "118959183"
 
 Этот раздел содержит следующие подразделы.
 
-| Section                                                                               | Content                                                                       |
+| Section                                                                               | Содержимое                                                                       |
 |---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
 | [выбор устройства Bluetooth](selecting-a-bluetooth-device.md)                      | описывает, как выбрать устройство Bluetooth.                                   |
 | [сообщения Bluetooth и WM \_ девицечанже](bluetooth-and-wm-devicechange-messages.md) | объясняет взаимодействие между сообщениями Bluetooth и **WM \_ девицечанже** . |

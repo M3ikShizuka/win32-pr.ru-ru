@@ -4,12 +4,12 @@ ms.assetid: 384f0732-e0c5-4b1f-b590-195e0acf90e1
 title: Реализация панели поиска
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 15e86dc52f92a4800639a5dbb1659f70fbe1cfaca7cbc2f0d022df889f970ea5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: acd3f2440c011267c792c79c8bc3550926c5767f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119015552"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461935"
 ---
 # <a name="implementing-a-seek-bar"></a>Реализация панели поиска
 

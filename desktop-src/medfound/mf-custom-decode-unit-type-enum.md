@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - mfapi.h
-ms.openlocfilehash: 97dd001cfb83f6ffec07035b77558fee591599b087e30dd3b819963db1b70405
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 406f6b3f6b93ced212ccf06910b69761ac0dfd9d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119104990"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460978"
 ---
 # <a name="mf_custom_decode_unit_type-enumeration"></a>\_ \_ \_ \_ Перечисление типов единиц для НАСТРАИВАЕМого расшифровки MF
 
@@ -45,7 +45,7 @@ ms.locfileid: "119104990"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 10, только для \[ настольных приложений версии 1709\]<br/>                          |
 | Минимальная версия сервера<br/> | Windows Server 2016 \[ только классические приложения\]<br/>                               |
-| Header<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
 
 
 

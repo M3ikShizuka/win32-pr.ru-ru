@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 644ea7d82a2ae3f316985a882c284d77f3869a75341142d4372b612d66ada1ab
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c0e3bba54f2cdb500ba2ba691ffd30419d5beff1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118757458"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461066"
 ---
 # <a name="wm_killfocus-message"></a>\_Сообщение КИЛЛФОКУС WM
 
@@ -85,7 +85,7 @@ ms.locfileid: "118757458"
 [**WM \_ SETFOCUS**](wm-setfocus.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с клавиатуры](keyboard-input.md)

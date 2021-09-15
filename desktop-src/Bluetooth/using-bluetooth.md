@@ -4,12 +4,12 @@ description: в этом разделе описываются задачи, с�
 ms.assetid: a5eddf48-b548-44a8-ac09-ce16f8aa3943
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a80d57d12b2594ab5bbaeb5ad5d026552ab180ae409ba81446288ac396c746a7
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e4b9b396de2635f9d1e76005c6638abb1d49c0ff
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119701834"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461977"
 ---
 # <a name="using-bluetooth"></a>Использование Bluetooth
 

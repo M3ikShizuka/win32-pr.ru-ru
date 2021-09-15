@@ -5,11 +5,11 @@ title: документкопиесаллпажес
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 05bf82c23b764f3fe1f8257f4cdb2e7fa03374bd
-ms.sourcegitcommit: 5d4e99f4c8f42f5f543e52cb9beb9fb13ec56c5f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112409447"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460785"
 ---
 # <a name="documentcopiesallpages"></a>документкопиесаллпажес
 
@@ -71,7 +71,7 @@ XML-структура этого элемента:
 
 
 
-| Свойство                | xsi:type           | Значение                        |
+| Свойство.                | xsi:type           | Значение                        |
 |-------------------------|--------------------|------------------------------|
 | DataType<br/>     | строка<br/>  | xs:integer<br/>        |
 | DefaultValue<br/> | целое число<br/> | 1<br/>                 |

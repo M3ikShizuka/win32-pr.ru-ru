@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: d2bc9c5c1f5325dc631f8866ba1a8c7d88ce18d624a2974974f4692bf4f7b067
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 240a854a899f46bf80703bbd6cfb6b1529848586
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118376783"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461900"
 ---
 # <a name="productcomponentstate-method"></a>Метод Product. Компонентстате
 
@@ -71,7 +71,7 @@ Product.ComponentState(
 
 
 
-| Error                     | Значение                                                                                                            |
+| Ошибка                     | Значение                                                                                                            |
 |---------------------------|--------------------------------------------------------------------------------------------------------------------|
 | Ошибка \_ отказа в доступе \_     | Вызывающий процесс должен иметь права администратора для получения сведений для пользователя, отличного от текущего пользователя. |
 | Ошибка \_ неправильной \_ конфигурации | Данные конфигурации повреждены.                                                                                 |

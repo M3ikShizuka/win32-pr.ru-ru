@@ -5,11 +5,11 @@ title: Атрибут MF_MT_H264_SUPPORTED_SLICE_MODES (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 9258a2ce2b9bef050fc6ea4468026539ff67f1be
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105682742"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460939"
 ---
 # <a name="mf_mt_h264_supported_slice_modes-attribute"></a>\_ \_ \_ \_ Атрибут режимов среза MF MT H264 Single bitrate поддерживается \_
 
@@ -29,7 +29,7 @@ ms.locfileid: "105682742"
 
 [**имфмедиатипе**](/windows/desktop/api/mfobjects/nn-mfobjects-imfmediatype)
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот атрибут применяется к типам носителей для потоков H. 264, переданных по USB. Значение соответствует полю **бмсуппортедслицемодес** в дескрипторе формата видео УВК 1,5 H. 264.
 
@@ -41,9 +41,9 @@ ms.locfileid: "105682742"
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Приложения UWP для классических приложений Windows 8 \|\]<br/>                                  |
-| Минимальная версия сервера<br/> | \[Приложения UWP для классических приложений Windows Server 2012 \|\]<br/>                        |
-| Header<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 8 \[ приложения UWP для классических приложений \|\]<br/>                                  |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ приложения UWP для классических приложений \|\]<br/>                        |
+| Заголовок<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
 
 
 

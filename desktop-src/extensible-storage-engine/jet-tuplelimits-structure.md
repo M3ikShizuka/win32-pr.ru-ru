@@ -16,11 +16,11 @@ api_type:
 api_location: ''
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 7155763f68a74333fc71db1054fb0ecffcca862e
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122983767"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461107"
 ---
 # <a name="jet_tuplelimits-structure"></a>Структура JET_TUPLELIMITS
 
@@ -69,7 +69,7 @@ _**Применимо к:** Windows | Windows Сервером_
 
 **Windows Vista:** член **ичстарт** появился в Windows Vista.
 
-### <a name="remarks"></a>Комментарии
+### <a name="remarks"></a>Remarks
 
 Индекс кортежа просматривает строку и индексирует все возможные подстроки **членгсмакс**. В конце строки (или в позиции **чтоиндексмакс** в зависимости от того, что происходит раньше), подстроки по меньшей мере **членгсмин** будут индексироваться.
 
@@ -98,7 +98,7 @@ SPA
 ### <a name="requirements"></a>Требования
 
 
-| Требование | Применение |
+| Требование | Значение |
 |------------|----------|
 | <p><strong>Клиент</strong></p> | <p>требуется Windows Vista.</p> | 
 | <p><strong>Server</strong></p> | <p>требуется Windows server 2008, Windows server 2003.</p> | 

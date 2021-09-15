@@ -4,12 +4,12 @@ ms.assetid: 8B7D2FF7-D8A8-49E9-8CED-D37853B97A8F
 title: Свойство MFPKEY_HTTP_ByteStream_Enable_Urlmon (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3ede2b9109a7345f3a0d764f6a8fa68952686c5ca05207d01bb0a2e54cea4d32
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1858f34a5f719caba1a48f049b95f2031b400240
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119344384"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462056"
 ---
 # <a name="mfpkey_http_bytestream_enable_urlmon-property"></a>МФПКЭЙ \_ HTTP \_ ByteStream \_ Enable \_ Urlmon, свойство
 

@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Mergemod.dll
-ms.openlocfilehash: c69ecf0c7a4a629b2f6ebc303d34619ae9d4cc396c79e09ea37e2d4b27db5c3c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 46dc029c88b44540817e93e1e559829d88b9f62b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117804616"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461936"
 ---
 # <a name="mergeopenlog-method"></a>Метод Merge. Опенлог
 

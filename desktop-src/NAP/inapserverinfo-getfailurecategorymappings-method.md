@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 13fcd87105eace269d3b8f395392c8a0ba275a135c212863ef69e45e597eb752
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a7ba830dd8a35a2c60b14c4feec14846125223e5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119144387"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461738"
 ---
 # <a name="inapserverinfogetfailurecategorymappings-method"></a>Метод Инапсерверинфо:: Жетфаилурекатегоримаппингс
 

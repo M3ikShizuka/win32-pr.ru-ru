@@ -4,12 +4,12 @@ description: Балансировка нагрузки RPC
 ms.assetid: c646f748-d5f2-422d-8305-1f86c0dc61b4
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a7fbace237f6d86ebadf3fadc5f3b376d94799b137153b114bc07fead3d64b09
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4039742fcfcc67280c610270908bed51034f691a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120101654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461558"
 ---
 # <a name="rpc-load-balancing"></a>Балансировка нагрузки RPC
 
@@ -26,7 +26,7 @@ ms.locfileid: "120101654"
 -   [Настройка балансировки нагрузки](configuring-load-balancing.md)
 -   [Рекомендации по балансировке нагрузки](load-balancing-best-practices.md)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 служба балансировки нагрузки RPC поддерживается на серверах под управлением Windows Server 2008 R2 или более поздней версии, а также на клиентах, работающих под управлением Windows 7 или более поздних версий Windows.
 

@@ -4,12 +4,12 @@ ms.assetid: ef4aa5a0-3788-493e-b541-c3a24509d939
 title: Свойство MFPKEY_ZEROBYTEFRAMES (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 373d0e7d40b27edff8ae47c9081ef6acb55252858a677c6516877fe88bee392c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ffcf29d099b3a3fb27a307e970af7af1a5c3d58b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119953254"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460852"
 ---
 # <a name="mfpkey_zerobyteframes-property"></a>МФПКЭЙ \_ зеробитефрамес, свойство
 
@@ -31,7 +31,7 @@ VT \_ I4
 
 Это значение можно получить после завершения передачи образцов.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ VT \_ I4
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

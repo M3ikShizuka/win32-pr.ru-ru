@@ -4,12 +4,12 @@ ms.assetid: 8dcae150-2363-47ba-b0d3-0bc182574d81
 title: Атрибут MF_PD_ASF_FILEPROPERTIES_MAX_PACKET_SIZE (Вмконтаинер. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 003fe57938bc2f4b344e6e24b91b255cf2517350f869437b61995893d854b168
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6d9c95b7511525570a9e04a33db8128f374f9472
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118059636"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462097"
 ---
 # <a name="mf_pd_asf_fileproperties_max_packet_size-attribute"></a>\_ \_ \_ \_ \_ \_ Атрибут максимального размера пакета MF PD ASF филепропертиес
 
@@ -37,7 +37,7 @@ ms.locfileid: "118059636"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

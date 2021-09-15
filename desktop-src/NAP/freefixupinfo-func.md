@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 67c869123aadd5310a346dcf8e7a2184ec84f7e40500744cbaf610cbfc54db42
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3abf1fe07557ac786a9f0cb8e8e06a30408f6d41
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118368874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461794"
 ---
 # <a name="freefixupinfo-function"></a>Функция Фрификсупинфо
 
@@ -70,7 +70,7 @@ NAPAPI VOID WINAPI FreeFixupInfo(
 |-------------------------------------|--------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                       |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                 |
-| Header<br/>                   | <dl> <dt>Напутил. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Напутил. h</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Qutil.dll</dt> </dl> |
 
 

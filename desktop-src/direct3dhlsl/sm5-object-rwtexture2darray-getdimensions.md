@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 6d95148cb6dc51c739ee4546bd64ce22666d5fd7
-ms.sourcegitcommit: 92e74c99f8f4d097676959d0c317f533c2400a80
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "104273382"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461183"
 ---
 # <a name="rwtexture2darraygetdimensions-function"></a>Функция RWTexture2DArray:: Dimension
 
@@ -69,7 +69,7 @@ void GetDimensions(
 
 Эта функция не возвращает значение.
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 Это список перегруженных версий этого метода.
 
@@ -90,7 +90,7 @@ void GetDimensions(out float Width,
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 |        |      |        |          | x     | x       |
 
