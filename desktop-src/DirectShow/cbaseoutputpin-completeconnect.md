@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 9832ddc0a68936461f9fe9ee8a70a7da3227f93e9b0bc9f7328d4cc2f95c2f28
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cd4bc52db99b88c4d6f16c549fbb558bb6423730
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117823674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127273168"
 ---
 # <a name="cbaseoutputpincompleteconnect-method"></a>Кбасеаутпутпин. Комплетеконнект, метод
 
@@ -53,7 +53,7 @@ virtual HRESULT CompleteConnect(
 
 Возвращает \_ значение ОК в случае успешного выполнения или **HRESULT** , указывающий на причину ошибки.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод переопределяет метод [**кбасепин:: комплетеконнект**](cbasepin-completeconnect.md) . Он вызывает метод [**деЦидеаллокатор**](cbaseoutputpin-decideallocator.md) , который выбирает механизм выделения памяти, используемый для этого соединения.
 

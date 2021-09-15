@@ -19,12 +19,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: 45b8e95d1c29055c90046ae019a343b445a86f6629a8b190823e7c6a4f483e66
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 1afd78ba17e444520d8dec81eac05fffa103aede
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119973194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127273440"
 ---
 # <a name="win32_logicalprogramgroupitem-class"></a>\_Класс Win32 логикалпрограмграупитем
 
@@ -46,7 +46,7 @@ class Win32_LogicalProgramGroupItem : Win32_ProgramGroupOrItem
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ логикалпрограмграупитем** имеет следующие типы членов:
 
@@ -112,7 +112,7 @@ class Win32_LogicalProgramGroupItem : Win32_ProgramGroupOrItem
 
 </dd> <dt>
 
-**Имя**
+**имя**;
 </dt> <dd> <dl> <dt>
 
 Тип данных: **строка**
@@ -238,13 +238,13 @@ class Win32_LogicalProgramGroupItem : Win32_ProgramGroupOrItem
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ логикалпрограмграупитем** является производным от [**Win32 \_ програмграупоритем**](win32-programgrouporitem.md).
 
 вызывающий процесс, использующий этот класс, должен иметь привилегию **SE \_ reside \_ NAME** на компьютере, где размещается реестр. Например, если перечислить этот класс на локальном компьютере, учетная запись, под которой выполняется приложение, должна иметь эту привилегию. Дополнительные сведения см. в разделе [выполнение привилегированных операций](/windows/desktop/WmiSdk/executing-privileged-operations).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -258,7 +258,7 @@ class Win32_LogicalProgramGroupItem : Win32_ProgramGroupOrItem
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 99205cb7065b7bd57d0f49a7f4942df8c1548ba5d4b4f8b26c8a13387ddc7d1e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a90bb7d97825c14f11c75dd42d696fa302f8e3d4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120076594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127273224"
 ---
 # <a name="cbasemediafilterstreamtime-method"></a>Кбасемедиафилтер. Стреамтиме, метод
 
@@ -64,11 +64,11 @@ virtual HRESULT StreamTime(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Время потока определяется как текущее время ссылки (в соответствии с заданным временем) минус время начала (заданное параметром [**кбасемедиафилтер:: m \_ тстарт**](cbasemediafilter-m-tstart.md)). Метка времени в образце носителя указывает время потока, когда он должен быть визуализирован. Если образец с отметкой времени, меньшим, чем текущее время потока, еще не был визуализирован, то это поздно.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -79,7 +79,7 @@ virtual HRESULT StreamTime(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

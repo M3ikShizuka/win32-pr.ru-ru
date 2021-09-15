@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.serv
 ms:contentKeyID: 55104210
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 77db94da9f3a5dbec982b31c0ea3d673ffb6228a58f81adf644ff498a2cf4f84
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ed7a99118674d955fc6a882ac08407e45837af77
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118071676"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344459"
 ---
 # <a name="server2003grbits-fields"></a>Поля Server2003Grbits
 
@@ -55,7 +55,7 @@ ms.locfileid: "118071676"
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Server2003Grbits](./server2003grbits-class.md)
 

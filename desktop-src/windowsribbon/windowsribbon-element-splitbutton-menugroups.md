@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6bdc92ba966cab09d2f417fdedbc046d7ec400ea93bdb2d0434194ff1d1824d7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5b8af4639040d6b6302b4d2b5761d750074389a3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119933184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344183"
 ---
 # <a name="splitbuttonmenugroups-property"></a>Свойство SplitButton. Менуграупс
 
@@ -57,7 +57,7 @@ ms.locfileid: "119933184"
 
 ## <a name="remarks"></a>Remarks
 
-Необязательный элемент.
+Необязательный параметр.
 
 Может встречаться не более одного раза для каждой [**SplitButton**](windowsribbon-element-splitbutton.md).
 
@@ -140,7 +140,7 @@ ms.locfileid: "119933184"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -151,7 +151,7 @@ ms.locfileid: "119933184"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

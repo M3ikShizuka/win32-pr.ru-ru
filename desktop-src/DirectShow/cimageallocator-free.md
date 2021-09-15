@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 7c01fd199165bd29434c793b9627c70fe0f76334f270fcc08e04249baac6b79b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 63fac25bd8434ac525423b70bf603749a581ccb0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120055464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127273155"
 ---
 # <a name="cimageallocatorfree-method"></a>Цимажеаллокатор. Free, метод
 
@@ -44,7 +44,7 @@ void Free();
 
 Этот метод не возвращает значение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ void Free();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

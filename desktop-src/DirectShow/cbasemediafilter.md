@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 16225ca289597bd8145e689912fd458a4f29d8aa4cc5ca68d6c3e0d0e3605ccc
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4e594fd941fffecc836af26bd3d70cced82ddcaa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119586112"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127273219"
 ---
 # <a name="cbasemediafilter-class"></a>Класс Кбасемедиафилтер
 
@@ -49,7 +49,7 @@ ms.locfileid: "119586112"
 | [**GetState**](cbasemediafilter-getstate.md)                    | Получает состояние объекта (запущен, остановлен или приостановлен).  |
 | [**сетсинксаурце**](cbasemediafilter-setsyncsource.md)          | Задает время ссылки для объекта.                       |
 | [**жетсинксаурце**](cbasemediafilter-getsyncsource.md)          | Извлекает ссылочное время, которое использует объект.      |
-| [**Позиции**](cbasemediafilter-stop.md)                            | Останавливает объект.                                            |
+| [**Остановить**](cbasemediafilter-stop.md)                            | Останавливает объект.                                            |
 | [**Пауза**](cbasemediafilter-pause.md)                          | Приостанавливает работу объекта.                                           |
 | [**Выполнить**](cbasemediafilter-run.md)                              | Запускает объект.                                             |
 
@@ -57,7 +57,7 @@ ms.locfileid: "119586112"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

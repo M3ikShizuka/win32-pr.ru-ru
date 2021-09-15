@@ -4,12 +4,12 @@ ms.assetid: 40323e64-ad5f-4646-bad7-2a4e7d0ddcf6
 title: Элемент Clip
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1b94ffdbd3d9b49d961cdefdd64de9a212858c5da4859c3beddb77db0ab732d4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6d937f942ba7b564e65b0e37d9c11929805287da
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118655518"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127273027"
 ---
 # <a name="clip-element"></a>Элемент Clip
 
@@ -37,7 +37,7 @@ ms.locfileid: "118655518"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Атрибут **CLSID** задает идентификатор CLSID исходного фильтра, используемого в качестве источника. Не указывайте атрибуты **src** и **CLSID** в пределах одного `clip` элемента.
 

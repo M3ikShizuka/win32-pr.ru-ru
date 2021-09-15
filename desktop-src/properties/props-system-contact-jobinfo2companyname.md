@@ -4,12 +4,12 @@ ms.assetid: dfbad5d9-e45d-42cd-a570-d35899859473
 title: System. Contact. JobInfo2CompanyName
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2f12bac930087648d60d6e168b587ae0ddf5ba158df5ac6abb0984182c36e202
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1f1df3e02c4aff71a017ab74748c0555fc1501d6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119098273"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344379"
 ---
 # <a name="systemcontactjobinfo2companyname"></a>System. Contact. JobInfo2CompanyName
 

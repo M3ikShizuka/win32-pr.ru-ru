@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: a3aed2c887bc7a452cda978e96cd369a71cad4fab60a72e0c914ebe9d9790a41
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: acabb6deeb6577fa04479fc4014e210d4a5654d5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120052214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127273163"
 ---
 # <a name="cbasevideorendererjoinfiltergraph-method"></a>Кбасевидеорендерер. Жоинфилтерграф, метод
 
@@ -61,11 +61,11 @@ HRESULT JoinFilterGraph(
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция члена переопределяет функцию члена [**кбасефилтер:: жоинфилтерграф**](cbasefilter-joinfiltergraph.md) . Если фильтр выходит за пределы графа фильтра (*пграф* имеет **значение NULL**), он отправляет уведомление о событии в [**окне EC, \_ \_**](ec-window-destroyed.md) чтобы диспетчер ресурсов не удерживал обработчик в качестве объекта фокуса.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ HRESULT JoinFilterGraph(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

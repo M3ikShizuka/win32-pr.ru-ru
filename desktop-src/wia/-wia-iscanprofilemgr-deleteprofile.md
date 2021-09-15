@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Scanprofilemgr.h
-ms.openlocfilehash: 52a4f2fc11e2a2cac1c3b3c547ee1b7a967a5441fc44cd2bb213bdbf681df8f6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f45dfa3ef96fee194348192c2898a44df5f34be4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117670257"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344238"
 ---
 # <a name="iscanprofilemgrdeleteprofile-method"></a>Исканпрофилемгр: метод:D Елетепрофиле
 
@@ -73,7 +73,7 @@ HRESULT DeleteProfile(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

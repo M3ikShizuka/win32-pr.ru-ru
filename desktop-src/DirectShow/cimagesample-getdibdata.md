@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 894d75512c6c7909f617e13999e7290efea663fa843bf64424aad8371965de75
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0fd198152e7c0042a6d48cf942a48745540960d3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118655603"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127273083"
 ---
 # <a name="cimagesamplegetdibdata-method"></a>Цимажесампле. Жетдибдата, метод
 
@@ -44,7 +44,7 @@ DIBDATA* GetDIBData();
 
 Возвращает указатель на структуру [**дибдата**](dibdata.md) .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Перед вызовом этого метода вызывающий объект должен инициализировать структуру **дибдата** ; Проверьте значение **Цимажесампле:: m \_ Бинит**. Чтобы инициализировать структуру, вызовите метод [**Цимажесампле:: сетдибдата**](cimagesample-setdibdata.md) .
 

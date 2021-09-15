@@ -14,12 +14,12 @@ api_type:
 api_location:
 - InkDiv.dll
 - InkDiv.dll.dll
-ms.openlocfilehash: 64b3e4180a34c45890408f8ba92cc79465fffa7f1028152e27f8d5c0aa40e3e1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ee690c9564df3b8c75eca6eec8eeb88b7531f4ef
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120009134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344302"
 ---
 # <a name="calldivideresultsstrokeids-function"></a>Функция Каллдивидересултсстрокеидс
 
@@ -96,7 +96,7 @@ HRESULT WINAPI CallDivideResultsStrokeIds(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

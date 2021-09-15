@@ -4,12 +4,12 @@ description: Определяет свойство UI \_ PKEY \_ булеанв�
 ms.assetid: afe79b8d-8a83-49aa-bcc9-8a1e6ebe1569
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3938f65dacd091da3e1eb90bc2a464f1b523c6c791581d72c095c7676e4b7e16
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: aec749bb8b6ec47606bbe5b2629d1c42c8d07091
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119392924"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344166"
 ---
 # <a name="ui_pkey_booleanvalue"></a>UI \_ PKEY \_ булеанвалуе
 

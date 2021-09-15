@@ -5,11 +5,11 @@ title: Общие сведения о метаданных компонента 
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 44f5031759dd73861a97aace623b35f229b75952
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122472030"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344226"
 ---
 # <a name="wic-metadata-overview"></a>Общие сведения о метаданных компонента WIC
 
@@ -224,7 +224,7 @@ if (SUCCEEDED(hr))
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Windows Общие сведения о компонентах обработки изображений](-wic-about-windows-imaging-codec.md)

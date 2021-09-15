@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 4754269600c779210e7eee786e3a60262dec06d1
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122623980"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344198"
 ---
 # <a name="checkbox-element"></a>Элемент CheckBox
 
@@ -140,7 +140,7 @@ ms.locfileid: "122623980"
 * **Может быть пустым**: Да
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

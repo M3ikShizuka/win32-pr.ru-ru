@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 73ab65404b6946a1cf220db54789df1234e14bf815c44633d3237ab50e04e2e5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8c4023be7731f9bae60576bc7002010eb0b51823
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117823694"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127273232"
 ---
 # <a name="cbasemediafilterrun-method"></a>Кбасемедиафилтер. Run, метод
 
@@ -53,7 +53,7 @@ HRESULT Run(
 
 Возвращает значение S \_ ОК.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если объект остановлен, этот метод приостанавливает работу объекта, вызывая метод [**кбасемедиафилтер::P Аусе**](cbasemediafilter-pause.md) . Затем он задает для переменной члена [**\_ состояния кбасемедиафилтер:: m**](cbasemediafilter-m-state.md) состояние \_ работает.
 

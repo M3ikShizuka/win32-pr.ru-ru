@@ -9,12 +9,12 @@ keywords:
 - скрипты, добавление данных в заголовки
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b19a8ad34a69427dc26435a6a599b8d91db2ebe2b8be700483189b2e7ba22846
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8052d8a5ae04b0ea821d716bf1931352c591f892
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119027322"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344058"
 ---
 # <a name="to-add-script-data-to-the-header"></a>Добавление данных скрипта в заголовок
 

@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - CIMWin32.dll
-ms.openlocfilehash: b6f69c23ae545de837e9d6578ba2f64eed51ecbc6f10780e40c809cb2e362b33
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: beec7074104482e4c6bc91ba7efeaea89104a011
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119973055"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127273424"
 ---
 # <a name="win32_logicalprogramgroupitemdatafile-class"></a>\_Класс Win32 логикалпрограмграупитемдатафиле
 
@@ -40,7 +40,7 @@ class Win32_LogicalProgramGroupItemDataFile : CIM_Dependency
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **Win32 \_ логикалпрограмграупитемдатафиле** имеет следующие типы членов:
 
@@ -84,13 +84,13 @@ class Win32_LogicalProgramGroupItemDataFile : CIM_Dependency
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **Win32 \_ логикалпрограмграупитемдатафиле** является производным от [**\_ зависимости CIM**](cim-dependency.md).
 
 вызывающий процесс, использующий этот класс, должен иметь привилегию **SE \_ reside \_ NAME** на компьютере, где размещается реестр. Например, если перечислить этот класс на локальном компьютере, учетная запись, под которой выполняется приложение, должна иметь эту привилегию. Дополнительные сведения см. в разделе [выполнение привилегированных операций](/windows/desktop/WmiSdk/executing-privileged-operations).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -104,7 +104,7 @@ class Win32_LogicalProgramGroupItemDataFile : CIM_Dependency
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: 5cc0abd9847c535ca9851355a593bdbd3495b594669e326c73a0bf986b8f75e6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a9b09804b2ee6ad9fbda394a7fb8f9f188b46453
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119916044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127273104"
 ---
 # <a name="cimagepalettepreparepalette-method"></a>Цимажепалетте. Препарепалетте, метод
 
@@ -69,7 +69,7 @@ HRESULT PreparePalette(
 
 Возвращает \_ ОК, если палитра была обновлена, или \_ значение false, если палитра не изменилась.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если необходимо обновить палитру, этот метод выполняет следующие действия:
 
@@ -78,7 +78,7 @@ HRESULT PreparePalette(
 -   Вызывает [**кбасевиндов:: сетпалетте**](cbasewindow-setpalette.md) для объекта **кбасевиндов** .
 -   Вызывает [**кдравимаже:: инкрементпалеттеверсион**](cdrawimage-incrementpaletteversion.md) для объекта **кдравимаже** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -89,7 +89,7 @@ HRESULT PreparePalette(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

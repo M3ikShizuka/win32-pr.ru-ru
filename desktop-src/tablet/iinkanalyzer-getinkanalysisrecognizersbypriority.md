@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - IACom.dll
-ms.openlocfilehash: fc663385006eedaca163f529af1f9f8a2da2eb5d3d41db823ffb53ee91775b93
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d596a8138f8ab16852ce99116eef66372ff2b074
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119713414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344258"
 ---
 # <a name="iinkanalyzergetinkanalysisrecognizersbypriority-method"></a>Метод Иинканализер:: Жетинканалисисрекогнизерсбиприорити
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7d9c0c90780e4bcd35da2d410f7b4743547cbd8d31ac06293c411f2415e4e408
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a50a2ae9fe4ca77198f9e63548f709e0f571fdb0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119877954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127273376"
 ---
 # <a name="dtm_getrange-message"></a>Сообщение DTMного \_ диапазона
 
@@ -43,11 +43,11 @@ ms.locfileid: "119877954"
 
 Возвращает значение **типа DWORD** , которое представляет собой сочетание гдтр \_ min или гдтр \_ Max. Первый элемент массива [**SYSTEMTIME**](/windows/desktop/api/minwinbase/ns-minwinbase-systemtime) содержит минимальное допустимое время, если \_ задано значение гдтр min. Второй элемент массива **SYSTEMTIME** содержит максимально допустимое время, если \_ задано значение гдтр Max.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Средство выбора даты и времени отображает только даты и время, которые находятся в пределах указанного диапазона, запрещая пользователю выбирать дату и время, находящиеся за пределами диапазона. Если сообщение [**DTM \_ сетсистемтиме**](dtm-setsystemtime.md) указывает дату и время, которые выходят за пределы диапазона, произойдет сбой.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

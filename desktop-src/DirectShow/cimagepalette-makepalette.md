@@ -16,12 +16,12 @@ api_location:
 - Strmbase.dll
 - Strmbasd.lib
 - Strmbasd.dll
-ms.openlocfilehash: f270797c224617c02b14752b15bbdb54b64a7457670e0b26bae54c39a93657eb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 20c4484b2666b25b5d713ede450a9a5a99f93348
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120055394"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127273115"
 ---
 # <a name="cimagepalettemakepalette-method"></a>Цимажепалетте. Макепалетте, метод
 
@@ -61,7 +61,7 @@ HPALETTE MakePalette(
 
 В случае успеха возвращает маркер для палитры. В противном случае возвращает **значение NULL**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -72,7 +72,7 @@ HPALETTE MakePalette(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
