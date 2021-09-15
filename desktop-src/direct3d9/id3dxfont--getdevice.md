@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: e0f89594f77044db20bade062b245ccabe072a0ccae1fb5fa76f23bb18a8db0b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2de1b6e2c3b2c2b61576c739d96abc8b8fc8851a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119121151"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127565938"
 ---
 # <a name="id3dxfontgetdevice-method"></a>Метод ID3DXFont:: of Device
 

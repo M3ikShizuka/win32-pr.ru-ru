@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: f079e66f20bfd9b2fab673a0f8c2310a9fd85d84fe4e7d0b8c5ad59d1d61e9e1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3ce6891af8a15aa8f4af5c85312f124db6c05321
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119847454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127565883"
 ---
 # <a name="id3dxpatchmeshgetdisplaceparam-method"></a>Метод ID3DXPatchMesh:: Жетдисплацепарам
 
@@ -109,7 +109,7 @@ HRESULT GetDisplaceParam(
 
 Карты смещения могут быть только 2D-текстурой. Функции текстурирования игнорируется для неадаптируемой тесселяции.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -120,7 +120,7 @@ HRESULT GetDisplaceParam(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

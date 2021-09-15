@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: d293aff7faafe1451c73bc423cabdd3ceec2a1e5cfb6637075108f4862fd6ba3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ace60b72345c992c3f35943362f6a0958f043aba
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119893604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127565955"
 ---
 # <a name="id3dxeffectstatemanagersetpixelshaderconstantb-method"></a>Метод ID3DXEffectStateManager:: Сетпикселшадерконстантб
 
@@ -78,7 +78,7 @@ HRESULT SetPixelShaderConstantB(
 -   При выполнении действия [**ID3DXEffect:: бегинпасс**](id3dxeffect--beginpass.md)произойдет сбой.
 -   Вызов состояния динамического влияния (например, [**IDirect3DDevice9:: сетпикселшадерконстантб**](/windows/win32/api/d3d9helper/nf-d3d9helper-idirect3ddevice9-setpixelshaderconstantb)) завершится ошибкой.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -89,7 +89,7 @@ HRESULT SetPixelShaderConstantB(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

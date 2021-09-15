@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3D9Types.h
-ms.openlocfilehash: b18c9cd3428463f82a6e243a57ade3fffd650bb35f2c73234b725fa5bf0607eb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6424bbe9b78532657670bc5cd9ad0705de89a3b0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118300236"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566114"
 ---
 # <a name="d3dsurface_desc-structure"></a>\_Структура D3DSURFACE DESC
 
@@ -42,7 +42,7 @@ typedef struct D3DSURFACE_DESC {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 

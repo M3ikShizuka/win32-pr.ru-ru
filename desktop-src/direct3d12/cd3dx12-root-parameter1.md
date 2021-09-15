@@ -16,11 +16,11 @@ ms.localizationpriority: low
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 0d582016b26df0d57f7792afd30fc4fcbf3ba97b
-ms.sourcegitcommit: 14010c34b35fa268046c7683f021f86de08ddd0a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "105713968"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566182"
 ---
 # <a name="cd3dx12_root_parameter1-structure"></a>\_Корневая \_ Структура параметр1 CD3DX12
 
@@ -48,7 +48,7 @@ struct CD3DX12_ROOT_PARAMETER1  : public D3D12_ROOT_PARAMETER1{
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -228,7 +228,7 @@ UINT Регистерспаце = 0
 
 | Требование | Значение |
 |-------------------|-------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3dx12. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3dx12. h</dt> </dl> |
 
 
 

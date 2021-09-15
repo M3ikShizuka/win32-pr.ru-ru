@@ -14,11 +14,11 @@ api_type:
 api_location:
 - D3D9Types.h
 ms.openlocfilehash: 8fc8d78490f192f5cbf222251d763ac73e862e78
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108107712"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566107"
 ---
 # <a name="d3dvector-structure-d3d9typesh"></a>Структура D3DVECTOR (D3D9Types. h)
 
@@ -37,7 +37,7 @@ typedef struct D3DVECTOR {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -63,7 +63,7 @@ typedef struct D3DVECTOR {
 
 </dd> <dt>
 
-**z**
+**гармошкой**
 </dt> <dd>
 
 Тип: **float**
@@ -80,11 +80,11 @@ typedef struct D3DVECTOR {
 
 | Требование | Значение |
 |-------------------|----------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3D9Types. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3D9Types. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

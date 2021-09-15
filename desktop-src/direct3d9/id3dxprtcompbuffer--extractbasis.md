@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 288a96a5f56bc04b245eaaf032bbcd946ed227c5b4fcad9e5d5d200dfa9903bb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ebedef91c9f3d1e277a099ffd295903e9ba77ba8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118294041"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127565867"
 ---
 # <a name="id3dxprtcompbufferextractbasis-method"></a>Метод ID3DXPRTCompBuffer:: Екстрактбасис
 

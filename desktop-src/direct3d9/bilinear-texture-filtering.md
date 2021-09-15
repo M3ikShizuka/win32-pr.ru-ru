@@ -4,12 +4,12 @@ ms.assetid: 16fb04b9-4476-4dbe-a24f-51c0813a7917
 title: Билинейнойная фильтрация текстур (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1a1a4d6cefe6586511e0483c2afa7b03e94aeda58ef7960c411b90e9c6a7792a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f51213e5187c775963de2fa740847d55084c5be2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119565282"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566147"
 ---
 # <a name="bilinear-texture-filtering-direct3d-9"></a>Билинейнойная фильтрация текстур (Direct3D 9)
 

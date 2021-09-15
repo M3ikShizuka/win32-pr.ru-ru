@@ -15,12 +15,12 @@ api_type:
 - LibDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b60eb6cf54dc32b3bb860b9ef963101428cc0cc2a7e4dacd1a24781c604b2ea1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cb374bd569cb58451461a7fe269c58c200895b7a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119124729"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566259"
 ---
 # <a name="d3dx11createshaderresourceviewfromresource-function"></a>Функция D3DX11CreateShaderResourceViewFromResource
 
@@ -92,7 +92,7 @@ HRESULT D3DX11CreateShaderResourceViewFromResource(
 
 Тип: **[ **\_ \_ \_ сведения о загрузке образа D3DX11**](d3dx11-image-load-info.md)\***
 
-Необязательный элемент. Определяет характеристики текстуры (см. раздел [**\_ \_ \_ сведения о загрузке образа D3DX11**](d3dx11-image-load-info.md)) при создании обработчика данных; установите значение **null** , чтобы считать характеристики текстуры при загрузке текстуры.
+Необязательный параметр. Определяет характеристики текстуры (см. раздел [**\_ \_ \_ сведения о загрузке образа D3DX11**](d3dx11-image-load-info.md)) при создании обработчика данных; установите значение **null** , чтобы считать характеристики текстуры при загрузке текстуры.
 
 </dd> <dt>
 

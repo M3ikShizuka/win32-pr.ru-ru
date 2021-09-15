@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3D9Types.h
-ms.openlocfilehash: 55e8efe80390f64f2376fd3995e414fed604ec8cb854c14b94f71922e146a32e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3e12764db306e61422f8c06ef514f6fad59b3ed8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118988884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566131"
 ---
 # <a name="d3dsamplerstatetype-enumeration"></a>Перечисление D3DSAMPLERSTATETYPE
 

@@ -4,12 +4,12 @@ ms.assetid: e8e925d5-262d-45c0-be9f-21c9a103d7b7
 title: Альфа-смешение (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cc4bd012340fae9e7597479d846d18db37c32d6f95a42118ba7444ad63a2e1cb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 884ecad07fb9aefba08a0abbab92969937ec6361
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119045212"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566158"
 ---
 # <a name="alpha-blending-state-direct3d-9"></a>Альфа-смешение (Direct3D 9)
 

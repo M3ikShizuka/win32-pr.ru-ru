@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: e46aa8767506aaabfcff6107ad184fad6dd8166097fbde955ac068f8f934ca22
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0bfcfd7301f90dcf49b03e7bbb3fd7e3b0de6c3e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119629484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127565899"
 ---
 # <a name="id3dxmatrixstackrotateaxislocal-method-d3dx9mathh"></a>Метод ID3DXMATRIXStack:: Ротатеаксислокал (D3dx9math. h)
 

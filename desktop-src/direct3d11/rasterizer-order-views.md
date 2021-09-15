@@ -4,12 +4,12 @@ description: В упорядоченных представлениях сред
 ms.assetid: 7FCFCD28-E68D-4594-8879-937F57245507
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6f84ae8d51c0ae150866e8fafef24eb2460493d709309ccc730b50f051a193c9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d891701aeaadd6f4474aeed8303d9b0046d1b656
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120096184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566207"
 ---
 # <a name="rasterizer-order-views"></a>Представления порядка программной прорисовки
 

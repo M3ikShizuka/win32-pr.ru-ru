@@ -5,11 +5,11 @@ title: Добавление кадров и анимации (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: da88cf431825797943ed33df94742360f7629787
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105710692"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566162"
 ---
 # <a name="adding-frames-and-animations-direct3d-9"></a>Добавление кадров и анимации (Direct3D 9)
 
@@ -106,7 +106,7 @@ AnimationKey {
 
 Дополнительные сведения см. в статье [](animation.md) шаблоны анимации [**и анимации.**](animationset.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

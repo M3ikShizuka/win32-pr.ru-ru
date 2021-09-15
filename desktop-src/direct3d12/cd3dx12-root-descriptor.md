@@ -15,12 +15,12 @@ api_type:
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c2e850cf89bf6f6dd05803228f02032a00d6e8ecdf8e55258c9fc043faf4e3bc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 710064436e0287b570700ff5812b728ca62be56d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118808521"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566183"
 ---
 # <a name="cd3dx12_root_descriptor-structure"></a>\_ \_ Структура дескриптора корня CD3DX12
 
@@ -41,7 +41,7 @@ struct CD3DX12_ROOT_DESCRIPTOR  : public D3D12_ROOT_DESCRIPTOR{
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -104,7 +104,7 @@ UINT Шадеррегистер
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

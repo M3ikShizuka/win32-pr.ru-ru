@@ -4,12 +4,12 @@ description: Этап построителя текстуры (PS) обеспе�
 ms.assetid: 09831B10-4FD1-41E7-8D81-5AA63DC90020
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0dd58bbc55bbc2fb7d590036bceb061f2a304c0be16ff058d04f226021dfe3cf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 57142e9c32919a6959a7fac14bf544cca1dacd79
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119988164"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566219"
 ---
 # <a name="pixel-shader-stage"></a>Этап шейдера пикселей
 

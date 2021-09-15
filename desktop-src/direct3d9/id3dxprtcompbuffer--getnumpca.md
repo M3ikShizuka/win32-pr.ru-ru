@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: ebc22df2c922b40fb39f320ed8375879bc74bea534db75408cb63b5ff46ac9be
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cbe6c14e3f24f8bb94f5f68c8d91ce5fc7f08bdc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118801339"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127565842"
 ---
 # <a name="id3dxprtcompbuffergetnumpca-method"></a>Метод ID3DXPRTCompBuffer:: Жетнумпка
 

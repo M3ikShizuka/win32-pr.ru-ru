@@ -15,12 +15,12 @@ api_type:
 - LibDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6588d772a35c7bf55c5b80f0fb52bdeec8dcb5c8b399ff9fac705f149607063c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 612be6da4dce05ccae368edc4effea83a823dcff
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119124859"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566266"
 ---
 # <a name="d3dx11createasynctextureprocessor-function"></a>Функция D3DX11CreateAsyncTextureProcessor
 

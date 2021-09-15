@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 31ab8315370b68e2bc71e4a964440e7c7703d392cf5902e244e976080c893779
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5f382e7d59f3a5b5db8ba3cfd65ba6cc1a11e86d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118804085"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566082"
 ---
 # <a name="d3dxuvatlascreate-function"></a>Функция D3DXUVAtlasCreate
 

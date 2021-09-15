@@ -5,11 +5,11 @@ title: Глобальный параметр
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 647ef789e37cd7c8d6cd2fe554f1f8becbfd5e92
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "105710639"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127565966"
 ---
 # <a name="global-parameter"></a>Глобальный параметр
 
@@ -183,7 +183,7 @@ int gp : SasGlobal
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

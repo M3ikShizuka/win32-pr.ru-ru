@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 046267b11f1a2aa977eda7f5fe461e5c44a2cf59e1f50ae291cf714f063088c1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 663559db0746b9d689066e537c1473f467341cbc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119847744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127565923"
 ---
 # <a name="id3dxmatrixstackloadidentity-method-d3dx9mathh"></a>Метод ID3DXMATRIXStack:: Лоадидентити (D3dx9math. h)
 

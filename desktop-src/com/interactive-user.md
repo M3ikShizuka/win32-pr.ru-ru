@@ -5,11 +5,11 @@ ms.assetid: 6d43842c-0ad1-4563-b50c-5024bda480f1
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: fb7fc8aeb5fd9674c09b40f6c46e4e173f5965a9
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369550"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566326"
 ---
 # <a name="interactive-user"></a>Интерактивный пользователь
 
@@ -20,7 +20,7 @@ ms.locfileid: "124369550"
 -   Если COM-сервер предоставляет интерфейсы, которые не управляются COM, например TCP-порты, именованные каналы, порты LPC, разделы общей памяти и т. д., они могут использоваться запускающими пользователями для влияния на сервер. Объекты COM, настроенные для запуска от имени интерактивного пользователя, должны максимально сократить эту зону атак.
 -   Объекты COM свободны для установки собственных разрешений на доступ. Если объект задает разрешения на доступ, либо в его регистрации AppID, либо путем вызова [**CoInitializeSecurity**](/windows/desktop/api/combaseapi/nf-combaseapi-coinitializesecurity), чтобы разрешить запуск пользовательского доступа, пользователь сможет запустить сервер для запуска от имени другого пользователя, а затем получить доступ к объекту.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

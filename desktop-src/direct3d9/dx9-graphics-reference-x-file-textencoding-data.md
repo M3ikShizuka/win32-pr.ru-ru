@@ -4,12 +4,12 @@ ms.assetid: 61dbe241-2658-4dd0-af89-3db204b56fad
 title: Данные (формат файла X, кодировка текста)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0acd4222e2878b882b8777e3ba22e28f2d213fb5f3550686baf29b4ed6719e5a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ae1af117a0207ce804ccacd397bb990fe5f43c94
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117730205"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566014"
 ---
 # <a name="data-x-file-format-text-encoding"></a>Данные (формат файла X, кодировка текста)
 

@@ -15,12 +15,12 @@ api_type:
 - LibDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 34aef8bad8220e9f579560c8e47477a96313bbddd9ed6970710ffffc263da35e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 645d872e983cabbcd81aab05a59ee8f1f83cc403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119124659"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566250"
 ---
 # <a name="d3dx11preprocessshaderfromresource-function"></a>Функция D3DX11PreprocessShaderFromResource
 
@@ -82,7 +82,7 @@ HRESULT D3DX11PreprocessShaderFromResource(
 
 Тип: **[ **LPCTSTR**](/windows/desktop/WinProg/windows-data-types)**
 
-Необязательный элемент. Имя файла эффектов, которое используется только для сообщений об ошибках. Может иметь **значение NULL**.
+Необязательный параметр. Имя файла эффектов, которое используется только для сообщений об ошибках. Может иметь **значение NULL**.
 
 </dd> <dt>
 

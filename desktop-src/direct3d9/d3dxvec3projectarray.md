@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 7ffc42934b9c341f4d07ef48a39470158155b4dfbcd352ffbc5e0ea188785752
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 10f0e19ad5bdbff59d7386223c88ed867e8d0d88
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119749394"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566063"
 ---
 # <a name="d3dxvec3projectarray-function-d3dx9mathh"></a>Функция D3DXVec3ProjectArray (D3dx9math. h)
 

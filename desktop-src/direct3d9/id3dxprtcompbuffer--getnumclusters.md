@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 1efd49736867c7db3e8c448348c676052a2bbb7d4d16afefc9644e7cc3e70ba9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b9fe23d5ddde817a14ebcf6c842b2c1f6c790597
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120095854"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127565850"
 ---
 # <a name="id3dxprtcompbuffergetnumclusters-method"></a>Метод ID3DXPRTCompBuffer:: Жетнумклустерс
 
@@ -44,7 +44,7 @@ UINT GetNumClusters();
 
 Возвращает количество кластеров, используемых для сжатия.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -55,7 +55,7 @@ UINT GetNumClusters();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7dbc4b4a74871eb111b778d798587e53027053fe57cc8cda837a3aafb7c24d74
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c9f16ed07235e52d9aefd7bffff9ce430c3978d2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119048492"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566334"
 ---
 # <a name="impersonation-level-constants"></a>Константы уровня олицетворения
 
@@ -45,7 +45,7 @@ ms.locfileid: "119048492"
 
 Используя [**CoSetProxyBlanket**](/windows/desktop/api/combaseapi/nf-combaseapi-cosetproxyblanket), клиент устанавливает уровень олицетворения и удостоверение прокси-сервера, которые будут доступны при вызове сервером [**коимперсонатеклиент**](/windows/desktop/api/combaseapi/nf-combaseapi-coimpersonateclient). Удостоверение, которое будет отображаться сервером при олицетворении, описано в разделе [маскировка](cloaking.md). Обратите внимание, что при выполнении вызова во время олицетворения вызываемый объект обычно получает маркер процесса вызывающей стороны, а не маркер олицетворения вызывающего объекта. Чтобы получить маркер олицетворения вызывающего объекта, вызывающий объект должен включить маскировку.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -57,7 +57,7 @@ ms.locfileid: "119048492"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

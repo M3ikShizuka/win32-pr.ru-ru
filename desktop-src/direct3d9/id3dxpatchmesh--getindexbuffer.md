@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: c7b32c5414f72b1dd16a6c309294056e81468f8e039e73d1d43c05d5ac3dd0f1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c2730b90f77d33db519d2231a68ab7fdc2b520fd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118294357"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127565882"
 ---
 # <a name="id3dxpatchmeshgetindexbuffer-method"></a>Метод ID3DXPatchMesh:: Жетиндексбуффер
 

@@ -15,11 +15,11 @@ ms.localizationpriority: low
 ms.topic: reference
 ms.date: 08/04/2021
 ms.openlocfilehash: 7ee327c24f5cc99fa386376be76ae0908fea19b6
-ms.sourcegitcommit: 0dec0044816af3f2b2e6403659e1cf11138c90cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121812483"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566202"
 ---
 # <a name="cd3dx12_global_root_signature_subobject-class"></a>Класс CD3DX12_GLOBAL_ROOT_SIGNATURE_SUBOBJECT
 
@@ -41,7 +41,7 @@ class CD3DX12_GLOBAL_ROOT_SIGNATURE_SUBOBJECT
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 `CD3DX12_GLOBAL_ROOT_SIGNATURE_SUBOBJECT`
 
@@ -67,13 +67,13 @@ class CD3DX12_GLOBAL_ROOT_SIGNATURE_SUBOBJECT
 
 Оператор преобразования, возвращающий корневую подпись в виде указателя на [ID3D12RootSignature](/windows/win32/api/d3d12/nn-d3d12-id3d12rootsignature).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |-------------------|-------------------------------------------------------------------------------------|
 | Заголовок | [D3dx12. h](https://github.com/microsoft/DirectX-Headers/blob/main/include/directx/d3dx12.h) |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 * [Вспомогательные структуры для Direct3D 12](helper-structures-for-d3d12.md)
 * [CD3DX12_STATE_OBJECT_DESC](cd3dx12-state-object-desc.md)

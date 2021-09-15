@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: 9b7289d6aeb537f6ae4b4c4fc912b09d7cd352a85cfc089221ece9613362e017
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 71a16bc267df95ed7efc1e0f74871b131e34ebe1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119044442"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127565958"
 ---
 # <a name="id3dxeffectstatemanagersetpixelshader-method"></a>Метод ID3DXEffectStateManager:: Сетпикселшадер
 

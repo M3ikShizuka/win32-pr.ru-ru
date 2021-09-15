@@ -4,12 +4,12 @@ ms.assetid: 1403fd1e-9799-4683-87ab-cfad102d1fae
 title: Шаблоны
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7876166661c50c1a3bc1e4d3275cd56f3c4e26cfbfad5fd8fce31568ef04931e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 228ca6d2d7e59d0f91fb5412161bc3feed888a7a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118803051"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566026"
 ---
 # <a name="templates"></a>Шаблоны
 
@@ -20,7 +20,7 @@ ms.locfileid: "118803051"
 -   [**AnimationOptions**](animationoptions.md)
 -   [**Анимация**](animationset.md)
 -   [**анимтикксперсеконд**](animtickspersecond.md)
--   [**Логическое**](boolean.md)
+-   [**Boolean**](boolean.md)
 -   [**Boolean2d**](boolean2d.md)
 -   [**колорргб**](colorrgb.md)
 -   [**колорргба**](colorrgba.md)
@@ -44,14 +44,14 @@ ms.locfileid: "118803051"
 -   [**Материал**](material.md)
 -   [**материалврап**](materialwrap.md)
 -   [**Matrix4x4**](matrix4x4.md)
--   [**Сетка**](mesh.md)
+-   [**Сетчат**](mesh.md)
 -   [**мешфаце**](meshface.md)
 -   [**мешфацеврапс**](meshfacewraps.md)
 -   [**мешматериаллист**](meshmateriallist.md)
 -   [**мешнормалс**](meshnormals.md)
 -   [**мештекстурекурдс**](meshtexturecoords.md)
 -   [**мешвертексколорс**](meshvertexcolors.md)
--   [**Обновление**](patch.md)
+-   [**Защиты**](patch.md)
 -   [**патчмеш**](patchmesh.md)
 -   [**PatchMesh9**](patchmesh9.md)
 -   [**пматтрибутеранже**](pmattributerange.md)

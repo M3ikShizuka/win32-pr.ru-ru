@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 4c1cea000071f0d097f29138b4e5f2db554f2214d8ca6343c16a39740d82c29e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e56ac6b8e8cc2195e2176e505cf430ea33b6b6ce
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120119354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566103"
 ---
 # <a name="d3dxcreatesphere-function"></a>Функция D3DXCreateSphere
 
@@ -122,7 +122,7 @@ HRESULT D3DXCreateSphere(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
