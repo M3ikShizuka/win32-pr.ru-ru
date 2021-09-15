@@ -27,11 +27,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: c141c76a92f49b4b5000cad65e302a7cf15d780f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105702645"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457777"
 ---
 # <a name="instanceparameterslogfilesize-property"></a>Инстанцепараметерс. LogFileSize, свойство
 
@@ -64,7 +64,7 @@ public int LogFileSize { get; set; }
 
 Тип: [System. Int32](/dotnet/api/system.int32)  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 #### <a name="reference"></a>Справочник
 

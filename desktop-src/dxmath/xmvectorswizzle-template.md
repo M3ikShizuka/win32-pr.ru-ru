@@ -4,12 +4,12 @@ ms.assetid: 75608e80-5911-45a8-beca-ceac1f4d2c1c
 title: Шаблон Ксмвекторсвиззле (Директксмас. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 800d976d63480f88defea7f1db07651563df44e8985ae5925810617b44302e87
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e8e872d76f3251eccc8616c143c645b388e2dca4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118984484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458135"
 ---
 # <a name="xmvectorswizzle-template"></a>Шаблон Ксмвекторсвиззле
 

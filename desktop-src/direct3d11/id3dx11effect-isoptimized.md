@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5bd04bf43869f23bfec38db34be1b83b2c4f3953c7017120ebe2f0c985504b53
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 18be8901a58715e3bd8aaaa49ae40be07e7e9dc8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119124509"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457643"
 ---
 # <a name="id3dx11effectisoptimized-method"></a>Метод ID3DX11Effect:: OPTIMIZE
 
@@ -47,7 +47,7 @@ BOOL IsOptimized();
 
 **Значение true** , если результат оптимизирован. в противном случае — **false**.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В результате используется два разных способа использования пространства памяти: для хранения сведений, необходимых среде выполнения для выполнения действия, и для хранения метаданных, необходимых для отражения информации обратно в приложение с помощью API. Можно сократить объем памяти, необходимый для действия, вызвав [**ID3DX11Effect:: optimize**](id3dx11effect-optimize.md) , который удаляет метаданные отражения из памяти. Разумеется, методы API для считывания переменных больше не будут работать после удаления данных отражения.
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 321f5075bdfde3a5a3d707089867356b3f702230dd81d2a1c29b513a8cf8e1ab
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: af401eaa98ac4255b15961477b1ba2316e29edf0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118800377"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458208"
 ---
 # <a name="id3dxtexturegutterhelpergettexelmap-method"></a>Метод ID3DXTextureGutterHelper:: Жеттекселмап
 
@@ -55,7 +55,7 @@ HRESULT GetTexelMap(
 
 Если метод выполнен успешно, возвращается значение S \_ . Если метод завершается с ошибкой, будет возвращено следующее значение. D3DERR \_ инвалидкалл
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Для [**классов 2 и 4 пикселей текстуры**](id3dxtexturegutterhelper.md)возвращенные координаты текстуры (u, v) соответствуют ближайшей точке ближайшего треугольника.
 

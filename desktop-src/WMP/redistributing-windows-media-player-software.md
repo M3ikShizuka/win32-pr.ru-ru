@@ -9,12 +9,12 @@ keywords:
 - повторное распространение программного обеспечения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 078fc47ed65bdac4217bf1dc52abbb325fa34c90c2e6e3dacbb996c2aba4f0e1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5c027fa77294f3a9017e3bbc19eead1196297e3b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118333507"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457869"
 ---
 # <a name="redistributing-windows-media-player-software"></a>распространение проигрыватель Windows Media программного обеспечения
 
@@ -28,7 +28,7 @@ ms.locfileid: "118333507"
 -   [обнаружение проигрыватель Windows Media из приложения](detecting-windows-media-player-from-an-application.md)
 -   [обнаружение состояния установки Windows носителя](detecting-setup-status-for-windows-media-setup.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

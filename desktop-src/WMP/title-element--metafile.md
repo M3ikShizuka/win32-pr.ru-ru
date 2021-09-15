@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 085bec9a9937c8dbd02fad6df785f4bce7afea90a74117e745f09cb5135633d8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bdb58edbb3ffd99e8be557fdb05a7e51298fda14
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118117724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458093"
 ---
 # <a name="title-element-metafile"></a>Элемент TITLE (метафайл)
 
@@ -41,7 +41,7 @@ ms.locfileid: "118117724"
 | Иерархия       | Элементы           |
 |-----------------|--------------------|
 | Родительские элементы | **ASX**, **запись** |
-| Дочерние элементы  | Нет               |
+| Дочерние элементы  | None               |
 
 
 
@@ -72,7 +72,7 @@ ms.locfileid: "118117724"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -82,7 +82,7 @@ ms.locfileid: "118117724"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3b5988a987816ad7e5a1797d60619605228647c3dd81945b63bac9c74701bf77
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e573bcdc2dc4470e87539a307cdc38b71a6320ea
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119460714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458010"
 ---
 # <a name="id3dx11effecttypegetmembertypebyname-method"></a>Метод ID3DX11EffectType:: Жетмембертипебинаме
 
@@ -43,7 +43,7 @@ ID3DX11EffectType* GetMemberTypeByName(
 
 <dl> <dt>
 
-*Имя* 
+*имя*; 
 </dt> <dd>
 
 Тип: **[ **LPCSTR**](/windows/desktop/WinProg/windows-data-types)**

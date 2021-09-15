@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ddc1862ee598a364f83ea89a4918efd513b4b789f1602aa4fb2b2208d9009167
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 33fd6d200f6b22af46e648040e8299f40ec9ebae
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120069724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457642"
 ---
 # <a name="id3dx11effectoptimize-method"></a>Метод ID3DX11Effect:: OPTIMIZE
 
@@ -47,7 +47,7 @@ HRESULT Optimize();
 
 Возвращает один из следующих [кодов возврата Direct3D 11](d3d11-graphics-reference-returnvalues.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В результате используется два разных способа использования пространства памяти: для хранения сведений, необходимых среде выполнения для выполнения действия, и для хранения метаданных, необходимых для отражения информации обратно в приложение с помощью API. Можно сократить объем памяти, необходимый для действия, вызвав **ID3DX11Effect:: optimize** , который удаляет метаданные отражения из памяти. Методы API для считывания переменных больше не будут работать после удаления данных отражения.
 
@@ -73,7 +73,7 @@ HRESULT Optimize();
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -84,7 +84,7 @@ HRESULT Optimize();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -1,8 +1,8 @@
 ---
-description: SWbemServices.Exeметод Кмесод — выполняет метод, экспортируемый поставщиком метода.
+description: Метод SWbemServices. ExecMethod — выполняет метод, экспортируемый поставщиком метода.
 ms.assetid: 2637efdc-fde5-4a44-a41f-67e0fb0df19d
 ms.tgt_platform: multiple
-title: SWbemServices.Exeметод Кмесод (Wbemdisp. h)
+title: Метод SWbemServices. ExecMethod (Wbemdisp. h)
 ms.topic: reference
 ms.date: 05/31/2018
 topic_type:
@@ -16,14 +16,14 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: e8cce3f7f190ded1b86fef5ea5b43016d5f8b08ebc9c1e5483280a2b4305200a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 452c42c37e8dcb9f2b37b660b1f8899e587b5579
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119995600"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457731"
 ---
-# <a name="swbemservicesexecmethod-method"></a>SWbemServices.Exeметод Кмесод
+# <a name="swbemservicesexecmethod-method"></a>SWbemServices. ExecMethod, метод
 
 Метод **ExecMethod** объекта [**SwbemServices**](swbemservices.md) выполняет метод, экспортируемый поставщиком метода. Этот метод блокируется, пока выполняется метод, перенаправляемый соответствующему поставщику. Затем информация и состояние возвращаются. Поставщик, а не WMI, реализует метод.
 
@@ -53,14 +53,14 @@ objOutParams = .ExecMethod( _
 *стробжектпас* 
 </dt> <dd>
 
-Обязательный. Строка, содержащая путь к объекту, для которого выполняется метод. Дополнительные сведения см. [в разделе Описание расположения объекта WMI](describing-the-location-of-a-wmi-object.md).
+Обязательный элемент. Строка, содержащая путь к объекту, для которого выполняется метод. Дополнительные сведения см. [в разделе Описание расположения объекта WMI](describing-the-location-of-a-wmi-object.md).
 
 </dd> <dt>
 
 *стрмесоднаме* 
 </dt> <dd>
 
-Обязательный. Имя метода для объекта.
+Обязательный элемент. Имя метода для объекта.
 
 </dd> <dt>
 
@@ -137,9 +137,9 @@ objOutParams = .ExecMethod( _
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
-Используйте **SWbemServices.Exeкмесод** в качестве альтернативы прямой доступ для выполнения [*метода поставщика*](gloss-p.md) в случаях, когда невозможно выполнить метод напрямую. Метод **ExecMethod** позволяет получать выходные параметры, если поставщик предоставляет их, с языком сценариев, который не поддерживает выходные параметры. В противном случае для вызова метода рекомендуется использовать прямой доступ. Дополнительные сведения см. в разделе [Управление сведениями о классе и экземпляре](manipulating-class-and-instance-information.md).
+Используйте **SwbemServices. ExecMethod** в качестве альтернативы прямой доступ для выполнения [*метода поставщика*](gloss-p.md) в случаях, когда невозможно выполнить метод напрямую. Метод **ExecMethod** позволяет получать выходные параметры, если поставщик предоставляет их, с языком сценариев, который не поддерживает выходные параметры. В противном случае для вызова метода рекомендуется использовать прямой доступ. Дополнительные сведения см. в разделе [Управление сведениями о классе и экземпляре](manipulating-class-and-instance-information.md).
 
 Например, следующий пример кода, вызывающий метод [**StartService**](/windows/desktop/CIMWin32Prov/startservice-method-in-class-win32-service) provider в [**\_ службе Win32**](/windows/desktop/CIMWin32Prov/win32-service) , использует прямой доступ.
 
@@ -151,7 +151,7 @@ iStatus = oService.StartService()
 
 
 
-В этом примере вызывается **SWbemServices.Exeкмесод** для выполнения метода [**StartService**](/windows/desktop/CIMWin32Prov/startservice-method-in-class-win32-service) . Обратите внимание, что путь к объекту необходим, так как **SWbemServices.Exeкмесод** не работает над объектом, в отличие от [**SWbemObject.Exeкмесод**](swbemobject-execmethod-.md).
+В этом примере вызывается метод **SwbemServices. ExecMethod** для выполнения метода [**StartService**](/windows/desktop/CIMWin32Prov/startservice-method-in-class-win32-service) . Обратите внимание, что путь к объекту является обязательным, так как **SwbemServices. ExecMethod** не работает над объектом, в отличие от [**SWbemObject. ExecMethod**](swbemobject-execmethod-.md).
 
 
 ```VB
@@ -163,11 +163,11 @@ WbemServices.ExecMethod oPath, "StartService"
 
 
 
-Для метода **SWbemServices.Exeкмесод** требуется путь к объекту. Если в скрипте уже содержится объект [**SWbemObject**](swbemobject.md) , используйте метод [**SWbemObject.Exeкмесод**](swbemobject-execmethod-.md) .
+Для метода **SwbemServices. ExecMethod** требуется путь к объекту. Если в скрипте уже содержится объект [**SWbemObject**](swbemobject.md) , используйте метод [**SWbemObject. ExecMethod**](swbemobject-execmethod-.md) .
 
 ## <a name="examples"></a>Примеры
 
-В следующем примере показан метод **ExecMethod** . скрипт создает объект [**\_ процесса Win32**](/windows/desktop/CIMWin32Prov/win32-process) , который представляет процесс, выполняющий Блокнот. Он показывает [**настройку объекта параметров**](swbemmethod-inparameters.md) и способ получения результатов из объекта [**параметров**](swbemmethod-outparameters.md) . Сведения о скрипте, отображающем те же операции, выполняемые асинхронно, см. в разделе [**SWbemServices.Exeкмесодасинк**](swbemservices-execmethodasync.md). Пример использования прямого доступа см. [в разделе Создание метода в классе Win32 \_ процесс](/windows/desktop/CIMWin32Prov/create-method-in-class-win32-process). Пример той же операции с помощью [**SWbemObject**](swbemobject.md)см. в разделе [**SWbemObject.Exeкмесод**](swbemobject-execmethod-.md).
+В следующем примере показан метод **ExecMethod** . скрипт создает объект [**\_ процесса Win32**](/windows/desktop/CIMWin32Prov/win32-process) , который представляет процесс, выполняющий Блокнот. Он показывает [**настройку объекта параметров**](swbemmethod-inparameters.md) и способ получения результатов из объекта [**параметров**](swbemmethod-outparameters.md) . Сведения о скрипте, отображающем те же операции, выполняемые асинхронно, см. в разделе [**SwbemServices. ексекмесодасинк**](swbemservices-execmethodasync.md). Пример использования прямого доступа см. [в разделе Создание метода в классе Win32 \_ процесс](/windows/desktop/CIMWin32Prov/create-method-in-class-win32-process). Пример той же операции с помощью [**SWbemObject**](swbemobject.md)см. в разделе [**SWbemObject. ExecMethod**](swbemobject-execmethod-.md).
 
 
 ```VB
@@ -229,14 +229,14 @@ End If
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 
 [**SWbemServices**](swbemservices.md)
 </dt> <dt>
 
-[**SWbemObject.ExeКмесод\_**](swbemobject-execmethod-.md)
+[**SWbemObject. ExecMethod\_**](swbemobject-execmethod-.md)
 </dt> <dt>
 
 [Вызов метода поставщика](calling-a-provider-method.md)

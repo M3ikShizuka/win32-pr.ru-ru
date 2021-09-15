@@ -5,11 +5,11 @@ title: Управление файлами (службы компонентов)
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 936375060b43e8abfd99f2d282e1cc05aada0d0e
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122882545"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457930"
 ---
 # <a name="file-management"></a>Управление файлами
 

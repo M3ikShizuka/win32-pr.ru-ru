@@ -16,11 +16,11 @@ api_type:
 api_location:
 - Wbemdisp.dll
 ms.openlocfilehash: f763ec4f738b612b9f2fef32871a63d6b170f96d
-ms.sourcegitcommit: c16214e53680dc71d1c07111b51f72b82a4512d8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "103999937"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457740"
 ---
 # <a name="swbemrefresher-object"></a>Объект Свбемрефрешер
 
@@ -48,7 +48,7 @@ ms.locfileid: "103999937"
 | [**DeleteAll**](swbemrefresher-deleteall.md) | Удаляет все элементы из коллекции в объекте обновления.<br/>                             |
 | [**Элемент**](swbemrefresher-item.md)           | Возвращает указанный элемент обновления из коллекции.<br/>                                    |
 | [**Обновить**](swbemrefresher-refresh.md)     | Обновляет все элементы, содержащиеся в объекте обновления.<br/>                          |
-| [**Отменит**](swbemrefresher-remove.md)       | Удаляет из Обновитель объект элемента обновления или набор объектов с указанным индексом.<br/> |
+| [**Удалить**](swbemrefresher-remove.md)       | Удаляет из Обновитель объект элемента обновления или набор объектов с указанным индексом.<br/> |
 
 
 
@@ -127,7 +127,7 @@ next
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Wbemdisp. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_СВБЕМРЕФРЕШЕР CLSID<br/>                                                        |

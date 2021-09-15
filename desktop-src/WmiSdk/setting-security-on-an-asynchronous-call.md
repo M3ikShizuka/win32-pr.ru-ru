@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Настройка безопасности при асинхронном вызове
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 228dbf5d84a85f28d5d57afb12823c93c95f9b259ebe95a15e949eec10543d84
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e39f78315814d3b66c97e60a6b8045d7ea9e7afe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118992334"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457848"
 ---
 # <a name="setting-security-on-an-asynchronous-call"></a>Настройка безопасности при асинхронном вызове
 

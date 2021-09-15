@@ -4,12 +4,12 @@ description: в этом разделе перечислены интерфей�
 ms.assetid: 922AC983-B9C0-494C-BADD-CEF20931FC26
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5b8c59882c85a0c9feba1c011f81def65744a86b4fb04a9f43683eba7a3c1a1a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 95d20c86e172308d4be6f4c6218a110f49b033ee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118099142"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457652"
 ---
 # <a name="direct3d-video-interfaces"></a>Интерфейсы видео Direct3D
 

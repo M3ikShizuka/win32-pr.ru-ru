@@ -15,12 +15,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: f7b63cbf6bc048350546b431b4f967c815450abf2d79c7ba79ab8f84e562a1bc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8ed41cbab38e24958705c24aefc9ea5e9e67357e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118107842"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458222"
 ---
 # <a name="swbemservicesex-object"></a>Объект Свбемсервицесекс
 
@@ -47,7 +47,7 @@ ms.locfileid: "118107842"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Методы в этом классе могут вызываться либо в режиме семисинчронаус, либо в асинхронном режиме. Дополнительные сведения см. [в разделе вызов метода](calling-a-method.md).
 
@@ -67,7 +67,7 @@ ms.locfileid: "118107842"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

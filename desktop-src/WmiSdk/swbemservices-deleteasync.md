@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: bcbdf4d930b2a67c56572a9788592b943748f6e41c30483728f3cc24732ffa18
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: adc8811c11f67b9fc92628740bd15df2086948d9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119897491"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457730"
 ---
 # <a name="swbemservicesdeleteasync-method"></a>SWbemServices. DeleteAsync, метод
 
@@ -62,7 +62,7 @@ SWbemServices.DeleteAsync( _
 *стробжектпас* 
 </dt> <dd>
 
-Обязательный. Строка, содержащая путь к объекту, который необходимо удалить. Дополнительные сведения см. [в разделе Описание расположения объекта WMI](describing-the-location-of-a-wmi-object.md).
+Обязательный элемент. Строка, содержащая путь к объекту, который необходимо удалить. Дополнительные сведения см. [в разделе Описание расположения объекта WMI](describing-the-location-of-a-wmi-object.md).
 
 </dd> <dt>
 
@@ -161,7 +161,7 @@ SWbemServices.DeleteAsync( _
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот вызов возвращает немедленно. Состояние операции удаления возвращается вызывающему объекту через обратный вызов, доставленный в приемник, указанный в *обжвбемсинк*. Вы можете выполнить окончательную обработку в реализации *обжвбемсинк*. Событие [**Oncompleteed**](swbemsink-oncompleted.md) .
 
@@ -183,7 +183,7 @@ SWbemServices.DeleteAsync( _
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

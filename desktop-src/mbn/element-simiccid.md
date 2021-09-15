@@ -7,12 +7,12 @@ MSHAttr:
 title: симикЦид
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 80d3ace6c4944bc8cd8a50fcde13db9f0962aa29
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.openlocfilehash: 89b7c679683d98e1a4039c90f1dfb37d4ff765e3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122479910"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458170"
 ---
 # <a name="span-idwwan_profile_v4element_simiccidspanmbnprofileextsimiccid-v4"></a><span id="WWAN_profile_v4.element_SimIccID"></span>Мбнпрофиликст \/ симикЦид (v4)
 
@@ -60,7 +60,9 @@ ms.locfileid: "122479910"
 ## <a name="requirements"></a>Требования
 
 
-| | | <p>Пространство имен</p> | <p>https://www.microsoft.com/networking/WWAN/profile/v4</p> | 
+| Требование | Значение |
+|------------|----------|
+| <p>Пространство имен</p> | <p>https://www.microsoft.com/networking/WWAN/profile/v4</p> | 
 
 
  

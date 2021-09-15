@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 07ff15b77866732f7a2dcab814e1ccf84d5344f640d83300af874e162485879b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 394c72bcf7076075318cd664cf56bbb464d7e3cf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118096059"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457793"
 ---
 # <a name="d3dxfindshadercomment-function"></a>Функция D3DXFindShaderComment
 
@@ -96,7 +96,7 @@ HRESULT D3DXFindShaderComment(
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

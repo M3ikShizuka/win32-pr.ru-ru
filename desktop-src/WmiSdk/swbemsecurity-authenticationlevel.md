@@ -15,12 +15,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 0cbb765241fabb86a14a5d74f7a839d5d81b017856b6da349b9ec04fd8535a4a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 63ae9e529de010e0a0ca7b8bc1da7dc8dc4891b3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118312718"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457739"
 ---
 # <a name="swbemsecurityauthenticationlevel-property"></a>Свбемсекурити. Аусентикатионлевел, свойство
 
@@ -41,7 +41,7 @@ SWbemSecurity.AuthenticationLevel As Integer
 
 ## <a name="property-value"></a>Значение свойства
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Параметр Аусентикатионлевел позволяет запрашивать уровень проверки подлинности и конфиденциальности DCOM для использования в рамках всего соединения. Параметры в диапазоне без проверки подлинности до зашифрованной проверки подлинности для каждого пакета.
 

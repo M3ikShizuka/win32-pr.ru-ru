@@ -5,11 +5,11 @@ title: Проектирование приложения COM+ с помощью 
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 48526623df5bc929daa4d8ce9cbe4d7592d6b30c
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104423317"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457942"
 ---
 # <a name="designing-the-com-application-using-uml"></a>Проектирование приложения COM+ с помощью UML
 
@@ -52,14 +52,14 @@ UML-язык предназначен для трех представлений
 -   [Логическая модель: определение приложения и планирование](the-logical-model--application-definition-and-planning.md)
 -   [Физическая модель: архитектура приложения](the-physical-model--application-architecture.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Предположения и принципы разработки COM+](com--design-assumptions-and-principles.md)
 </dt> <dt>
 
-[Общие рекомендации по проектированию для использования COM+](general-design-tips-for-using-com-.md)
+[общие Советы разработки для использования COM+](general-design-tips-for-using-com-.md)
 </dt> <dt>
 
 [Оптимизация взаимодействия с уровнем бизнес-логики COM+](optimizing-interactions-with-the-com--business-logic-tier.md)

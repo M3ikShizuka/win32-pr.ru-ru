@@ -16,12 +16,12 @@ keywords:
 - Шаблоны динамических элементов управления
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 59a993c6a17115fa27770e3adcfdc7ad62846082f618c24b07de92c7f0515208
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 51abcfd316f5ab892155cf248d5473bd4e387227
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119899574"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457755"
 ---
 # <a name="ui-automation-control-patterns-overview"></a>Общие сведения о шаблонах элементов управления модели автоматизации пользовательского интерфейса
 
@@ -40,7 +40,7 @@ ms.locfileid: "119899574"
 -   [Шаблоны элементов управления в поставщиках и клиентах](#control-patterns-in-providers-and-clients)
 -   [Динамические шаблоны элементов управления](#dynamic-control-patterns)
 -   [Шаблоны элементов управления и связанные интерфейсы](#control-patterns-and-related-interfaces)
--   [Связанные темы](#related-topics)
+-   [Связанные разделы](#related-topics)
 
 ## <a name="ui-automation-control-pattern-components"></a>Компоненты шаблонов элементов управления модели автоматизации пользовательского интерфейса
 
@@ -105,11 +105,11 @@ ms.locfileid: "119899574"
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Реализация шаблонов элементов управления модели автоматизации пользовательского интерфейса](uiauto-implementinguiautocontrolpatterns.md)

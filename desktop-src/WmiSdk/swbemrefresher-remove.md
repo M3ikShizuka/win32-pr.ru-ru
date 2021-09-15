@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 6b262dde1338e05b24ac1c320e684d872e49fc63db48951145b4f4924326e0c2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9504b81ce83a91695765e75e74de374437c188d4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117921662"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457741"
 ---
 # <a name="swbemrefresherremove-method"></a>Свбемрефрешер. Remove, метод
 
@@ -71,7 +71,7 @@ NULL.
 
 Этот метод не имеет возвращаемых значений.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 **Коды ошибок** Если у Обновитель нет элемента с указанным индексом, **вбемеррнотфаунд** создается.
 
@@ -91,7 +91,7 @@ NULL.
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

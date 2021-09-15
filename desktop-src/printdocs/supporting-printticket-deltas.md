@@ -5,11 +5,11 @@ title: Поддержка разностей PrintTicket
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: b7f72f82875d0207ed232f4db897c78295ce2ee0
-ms.sourcegitcommit: 998d50f6def8a25850fc113fc8a2df903c829c5e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "113548783"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457969"
 ---
 # <a name="supporting-printticket-deltas"></a>Поддержка разностей PrintTicket
 

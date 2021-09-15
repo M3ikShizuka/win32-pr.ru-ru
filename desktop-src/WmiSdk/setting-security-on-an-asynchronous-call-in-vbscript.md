@@ -11,11 +11,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: 972947e0cb4f5d385e4d2d27b7c14298771ac4e1
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105712947"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457850"
 ---
 # <a name="setting-security-on-an-asynchronous-call-in-vbscript"></a>Настройка безопасности при асинхронном вызове в VBScript
 
@@ -32,7 +32,7 @@ ms.locfileid: "105712947"
 
 Сценарий изменяет значение **унсекаппакцессконтролдефаулт** с нуля на единицу или значение, если оно уже задано, от одного до нуля. Нуль является значением по умолчанию для недавно установленной системы. После установки флага параметр сохраняется во время перезагрузки или перезапуска WMI.
 
-Скрипт использует объект [**свбеммесод. unparameters**](swbemmethod-inparameters.md) и [**SWbemObject.ExeКмесод**](swbemobject-execmethod-.md) для вызова [**стдрегпров. GetStringValue**](/previous-versions/windows/desktop/regprov/getstringvalue-method-in-class-stdregprov) и [**стдрегпров. SetStringValue**](/previous-versions/windows/desktop/regprov/setstringvalue-method-in-class-stdregprov). Дополнительные сведения о задании значений в объекте **параметров** см. в разделе [Создание объектов параметров и анализ объектов параметров](constructing-inparameters-objects-and-parsing-outparameters-objects.md). Пример вызова в реестре с помощью [**GetObject**](https://msdn.microsoft.com/library/e9waz863(v=VS.71).aspx)см. в разделе [**стдрегпров. SetStringValue**](/previous-versions/windows/desktop/regprov/setstringvalue-method-in-class-stdregprov).
+Скрипт использует объект [**свбеммесод. unparameters**](swbemmethod-inparameters.md) и [**SWbemObject. ExecMethod**](swbemobject-execmethod-.md) для вызова [**стдрегпров. GetStringValue**](/previous-versions/windows/desktop/regprov/getstringvalue-method-in-class-stdregprov) и [**стдрегпров. SetStringValue**](/previous-versions/windows/desktop/regprov/setstringvalue-method-in-class-stdregprov). Дополнительные сведения о задании значений в объекте **параметров** см. в разделе [Создание объектов параметров и анализ объектов параметров](constructing-inparameters-objects-and-parsing-outparameters-objects.md). Пример вызова в реестре с помощью [**GetObject**](https://msdn.microsoft.com/library/e9waz863(v=VS.71).aspx)см. в разделе [**стдрегпров. SetStringValue**](/previous-versions/windows/desktop/regprov/setstringvalue-method-in-class-stdregprov).
 
 
 ```VB

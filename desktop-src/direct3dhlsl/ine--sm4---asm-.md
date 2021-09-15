@@ -4,12 +4,12 @@ description: Сравнение неравенства целочисленны�
 ms.assetid: 5BED97D3-8FF6-4F1C-819B-DC8B4A4F2CCA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e0170dd8b5cfd6284356699bc065e5581a601f8868bfd6c0db99a6a53f9bcfd1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7b74a68cf4b1b3c7473f8264e8b83910f4cb0677
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120023854"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457787"
 ---
 # <a name="ine-sm4---asm"></a>строка (SM4-ASM)
 
@@ -36,7 +36,7 @@ ms.locfileid: "120023854"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Выполняет сравнение целых чисел (*src0* ! = *src1*) для каждого компонента и записывает результат в *dest*.
 
@@ -62,9 +62,9 @@ ms.locfileid: "120023854"
 
 | Модель шейдера                                              | Поддерживается |
 |-----------------------------------------------------------|-----------|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | Да       |
-| [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | Да       |
-| [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | Да       |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | да       |
+| [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | да       |
+| [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | да       |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет        |
 | [Модель шейдера 2 (DirectX HLSL)](dx-graphics-hlsl-sm2.md) | Нет        |
 | [Модель шейдера 1 (DirectX HLSL)](dx-graphics-hlsl-sm1.md) | Нет        |
@@ -73,7 +73,7 @@ ms.locfileid: "120023854"
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

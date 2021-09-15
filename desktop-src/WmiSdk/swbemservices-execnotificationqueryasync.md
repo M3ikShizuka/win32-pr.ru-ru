@@ -2,7 +2,7 @@
 description: Выполняет запрос для получения событий.
 ms.assetid: 0b0e8313-4ffd-4d4a-8965-d2c6743e7573
 ms.tgt_platform: multiple
-title: SWbemServices.Exeметод Кнотификатионкуерясинк (Wbemdisp. h)
+title: SWbemServices. ExecNotificationQueryAsync, метод (Wbemdisp. h)
 ms.topic: reference
 ms.date: 05/31/2018
 topic_type:
@@ -17,17 +17,17 @@ api_type:
 api_location:
 - Wbemdisp.dll
 ms.openlocfilehash: 8e2ecddf290d83583b3108620b8b4bb23be7c957
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105711624"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457727"
 ---
-# <a name="swbemservicesexecnotificationqueryasync-method"></a>SWbemServices.Exeметод Кнотификатионкуерясинк
+# <a name="swbemservicesexecnotificationqueryasync-method"></a>SWbemServices. ExecNotificationQueryAsync, метод
 
 Метод **ExecNotificationQueryAsync** объекта [**SwbemServices**](swbemservices.md) выполняет запрос для получения событий. Этот вызов возвращает немедленно, а результаты и состояние возвращаются вызывающему через события, доставляемые в приемник, указанный в *обжвбемсинк*.
 
-События, указанные в запросе, могут быть встроенными событиями инструментарий управления Windows (WMI) (WMI), такими как [**\_ \_ инстанцекреатионевент**](--instancecreationevent.md)или внешние события, такие как [**Win32 \_ IP4RouteTableEvent**](/previous-versions/windows/desktop/wmiiprouteprov/win32-ip4routetableevent) или [**регистрикэйчанжеевент**](/previous-versions/windows/desktop/regprov/registrykeychangeevent). Дополнительные сведения см. [в разделе Определение типа получаемого события](determining-the-type-of-event-to-receive.md).
+события, указанные в запросе, могут быть встроенными событиями инструментарий управления Windows (WMI) (WMI), такими как [**\_ \_ инстанцекреатионевент**](--instancecreationevent.md)или внешние события, такие как [**Win32 \_ IP4RouteTableEvent**](/previous-versions/windows/desktop/wmiiprouteprov/win32-ip4routetableevent) или [**регистрикэйчанжеевент**](/previous-versions/windows/desktop/regprov/registrykeychangeevent). Дополнительные сведения см. [в разделе Определение типа получаемого события](determining-the-type-of-event-to-receive.md).
 
 Метод вызывается в асинхронном режиме. Дополнительные сведения см. [в разделе вызов метода](calling-a-method.md).
 
@@ -56,14 +56,14 @@ SWbemServices.ExecNotificationQueryAsync( _
 *обжвбемсинк* 
 </dt> <dd>
 
-Обязательный. Приемник объекта, который асинхронно получает уведомления о событиях. Создайте объект [**свбемсинк**](swbemsink.md) для получения объектов.
+Обязательный элемент. Приемник объекта, который асинхронно получает уведомления о событиях. Создайте объект [**свбемсинк**](swbemsink.md) для получения объектов.
 
 </dd> <dt>
 
 *стркуери* 
 </dt> <dd>
 
-Обязательный. Строка, содержащая текст запроса, связанного с событием. Этот параметр не может быть пустым. Дополнительные сведения о создании строк запросов WMI см. в разделе [запросы с помощью WQL](querying-with-wql.md) и Справочник по [WQL](wql-sql-for-wmi.md) .
+Обязательный элемент. Строка, содержащая текст запроса, связанного с событием. Этот параметр не может быть пустым. Дополнительные сведения о создании строк запросов WMI см. в разделе [запросы с помощью WQL](querying-with-wql.md) и Справочник по [WQL](wql-sql-for-wmi.md) .
 
 </dd> <dt>
 
@@ -219,7 +219,7 @@ End Sub
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Wbemdisp. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_SWBEMSERVICES CLSID<br/>                                                         |
@@ -227,17 +227,17 @@ End Sub
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 
 [**SWbemServices**](swbemservices.md)
 </dt> <dt>
 
-[**SWbemServices.ExeКкуери**](swbemservices-execquery.md)
+[**SWbemServices. ExecQuery**](swbemservices-execquery.md)
 </dt> <dt>
 
-[**SWbemServices.ExeКкуерясинк**](swbemservices-execqueryasync.md)
+[**SWbemServices. Ексеккуерясинк**](swbemservices-execqueryasync.md)
 </dt> <dt>
 
 [Регистрация для событий системного реестра](registering-for-system-registry-events.md)

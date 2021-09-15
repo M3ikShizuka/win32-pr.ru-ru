@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 84f38e55762996324b6d8fc53a093cef7759f136243faec7d78e5b568977a0f1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c264b5652287676d0792027f4f0ea8921bdb92f0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118532105"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458002"
 ---
 # <a name="id3dx11effectunorderedaccessviewvariablegetunorderedaccessviewarray-method"></a>Метод ID3DX11EffectUnorderedAccessViewVariable:: Жетунордередакцессвиеваррай
 
@@ -85,7 +85,7 @@ HRESULT GetUnorderedAccessViewArray(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -96,7 +96,7 @@ HRESULT GetUnorderedAccessViewArray(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

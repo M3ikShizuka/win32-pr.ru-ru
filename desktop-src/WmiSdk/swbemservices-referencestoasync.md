@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 98b2ab6963bf547b3fbf8321fde37359264286f77da98697f5ef88cc145be2e8
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 64a8b9b336a1e7aa6007b17d2e878f1ace5e6163
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119794394"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457843"
 ---
 # <a name="swbemservicesreferencestoasync-method"></a>SWbemServices. Референцестоасинк, метод
 
@@ -58,14 +58,14 @@ SWbemServices.ReferencesToAsync( _
 *обжвбемсинк* 
 </dt> <dd>
 
-Обязательный. Приемник объекта, который асинхронно получает объекты. Создайте объект [**свбемсинк**](swbemsink.md) для получения объектов.
+Обязательный элемент. Приемник объекта, который асинхронно получает объекты. Создайте объект [**свбемсинк**](swbemsink.md) для получения объектов.
 
 </dd> <dt>
 
 *стробжектпас* 
 </dt> <dd>
 
-Обязательный. Строка, содержащая путь к объекту источника для этого метода. Дополнительные сведения см. в разделе [Локализация сведений о классе WMI](localizing-wmi-class-information.md).
+Обязательный элемент. Строка, содержащая путь к объекту источника для этого метода. Дополнительные сведения см. в разделе [Локализация сведений о классе WMI](localizing-wmi-class-information.md).
 
 </dd> <dt>
 
@@ -201,13 +201,13 @@ SWbemServices.ReferencesToAsync( _
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот вызов возвращает немедленно. Запрошенные объекты и состояние возвращаются вызывающему объекту через обратные вызовы, доставляемые в приемник, указанный в *обжвбемсинк*. Чтобы обработать каждый объект при его возврате, создайте *обжвбемсинк*. Подпрограммы события [**онобжектреади**](swbemsink-onobjectready.md) . После возврата всех объектов можно выполнить окончательную обработку в реализации *обжвбемсинк*. Событие [**Oncompleteed**](swbemsink-oncompleted.md) .
 
 Асинхронный обратный вызов позволяет пользователю без проверки подлинности предоставлять данные в приемник. Это создает угрозы безопасности для сценариев и приложений. Сведения об устранении рисков см. в разделе [Настройка безопасности при асинхронном вызове](setting-security-on-an-asynchronous-call.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -223,7 +223,7 @@ SWbemServices.ReferencesToAsync( _
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

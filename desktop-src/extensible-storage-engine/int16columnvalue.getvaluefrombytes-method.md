@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: e8ebbdd0eae4e91c3897a7bed1686f38c5ae234738bb0ae023a6296318fa8e5f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 1464dd417607024f377c1c9af0cd3d56cfa5d9f5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119362728"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457664"
 ---
 # <a name="int16columnvaluegetvaluefrombytes-method"></a>Int16ColumnValue. Жетвалуефромбитес, метод
 
@@ -69,7 +69,7 @@ protected override void GetValueFromBytes(
 
 #### <a name="parameters"></a>Параметры
 
-  - Значение  
+  - value  
     Тип \[\]  
     
     Массив байтов.
@@ -83,7 +83,7 @@ protected override void GetValueFromBytes(
 
 <!-- end list -->
 
-  - количество  
+  - count  
     Тип: [System. Int32](/dotnet/api/system.int32)  
     
     Число байтов для декодирования.
@@ -97,7 +97,7 @@ protected override void GetValueFromBytes(
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Int16ColumnValue](./int16columnvalue-class.md)
 

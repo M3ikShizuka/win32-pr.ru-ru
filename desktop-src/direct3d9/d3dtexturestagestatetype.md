@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3D9Types.h
-ms.openlocfilehash: 4879009f603a6943302f0595f37176ec5edf8e1a1d3212efedb66c923d775104
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 0530f428c9ebf89607fa89509c65ddd336fee293
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119894154"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458212"
 ---
 # <a name="d3dtexturestagestatetype-enumeration"></a>Перечисление D3DTEXTURESTAGESTATETYPE
 
@@ -198,13 +198,13 @@ typedef enum D3DTEXTURESTAGESTATETYPE {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Члены этого перечислимого типа используются с методами [**IDirect3DDevice9:: жеттекстурестажестате**](/windows/win32/api/d3d9helper/nf-d3d9helper-idirect3ddevice9-gettexturestagestate) и [**IDirect3DDevice9:: сеттекстурестажестате**](/windows/win32/api/d3d9helper/nf-d3d9helper-idirect3ddevice9-settexturestagestate) для получения и задания значений состояния текстуры.
 
 Допустимый диапазон значений для \_ \_ коэффициентов матрицы D3DTSS BUMPENVMAT00, D3DTSS BUMPENVMAT01, D3DTSS \_ BUMPENVMAT10 и D3DTSS BUMPENVMAT11, которые \_ больше или равны-8,0 и меньше 8,0. Этот диапазон, выраженный в математической нотации, — (-8.0, 8.0).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -214,7 +214,7 @@ typedef enum D3DTEXTURESTAGESTATETYPE {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

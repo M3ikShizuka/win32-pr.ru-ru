@@ -52,12 +52,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2d488148497ae95f7b26157b043251e509f72aee577534ccccc07f9766551591
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2bbb2e0ada3ad1808fc7ba38321008b46dc358bc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118324968"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457753"
 ---
 # <a name="control-type-identifiers"></a>Идентификаторы типов элементов управления
 
@@ -119,11 +119,11 @@ ms.locfileid: "118324968"
 |-------------------------------------|-------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                                     |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                            |
-| Header<br/>                   | <dl> <dt>UIAutomationClient. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>UIAutomationClient. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

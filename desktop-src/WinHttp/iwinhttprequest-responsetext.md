@@ -15,12 +15,12 @@ api_type:
 - COM
 api_location:
 - Winhttp.dll
-ms.openlocfilehash: e43169ee789a067b75444e5f19e5bb7985ce402efd4b89c08f049dbcad9a7049
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 93e0a9b17ba356f9ce6b038be114f5f2c9804eab
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118563192"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457696"
 ---
 # <a name="iwinhttprequestresponsetext-property"></a>Свойство Ивинхттпрекуест:: Респонсетекст
 
@@ -55,7 +55,7 @@ strResponseText = WinHttpRequest.ResponseText
 
 В случае успешного выполнения возвращается значение **S \_** , а в противном случае — значение ошибки.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство может быть вызвано только после вызова метода [**Send**](iwinhttprequest-send.md) .
 
@@ -190,7 +190,7 @@ WScript.Echo( WinHttpReq.ResponseText);
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

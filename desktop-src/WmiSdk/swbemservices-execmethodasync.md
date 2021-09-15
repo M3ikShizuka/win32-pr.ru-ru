@@ -1,8 +1,8 @@
 ---
-description: SWbemServices.Exeметод Кмесодасинк — выполняет метод, экспортируемый поставщиком метода.
+description: SWbemServices. Ексекмесодасинк. выполняет метод, экспортируемый поставщиком метода.
 ms.assetid: 933a4c64-7538-474e-9f6f-f94da6066b46
 ms.tgt_platform: multiple
-title: SWbemServices.Exeметод Кмесодасинк (Wbemdisp. h)
+title: SWbemServices. Ексекмесодасинк, метод (Wbemdisp. h)
 ms.topic: reference
 ms.date: 05/31/2018
 topic_type:
@@ -17,15 +17,15 @@ api_type:
 api_location:
 - Wbemdisp.dll
 ms.openlocfilehash: fcdcd70b567a737cb8686ac841dc1ce0b55d3996
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108105592"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457729"
 ---
-# <a name="swbemservicesexecmethodasync-method"></a>SWbemServices.Exeметод Кмесодасинк
+# <a name="swbemservicesexecmethodasync-method"></a>SWbemServices. Ексекмесодасинк, метод
 
-Метод **ексекмесодасинк** объекта [**SwbemServices**](swbemservices.md) выполняет метод, который экспортируется поставщиком метода. Вызов немедленно возвращается клиенту, в то время как входящие параметры перенаправляются соответствующему поставщику, где выполняется метод. Сведения и состояние возвращаются вызывающему через события, доставляемые в приемник, указанный в *обжвбемсинк*. Поставщик, а не инструментарий управления Windows (WMI) (WMI), реализует метод.
+Метод **ексекмесодасинк** объекта [**SwbemServices**](swbemservices.md) выполняет метод, который экспортируется поставщиком метода. Вызов немедленно возвращается клиенту, в то время как входящие параметры перенаправляются соответствующему поставщику, где выполняется метод. Сведения и состояние возвращаются вызывающему через события, доставляемые в приемник, указанный в *обжвбемсинк*. поставщик, а не инструментарий управления Windows (WMI) (WMI), реализует метод.
 
 Метод вызывается в асинхронном режиме. Дополнительные сведения см. [в разделе вызов метода](calling-a-method.md).
 
@@ -175,13 +175,13 @@ SWbemServices.ExecMethodAsync( _
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если выполняемый метод имеет входные параметры, то объект с [**параметрами**](swbemmethod-inparameters.md) в параметре *обжвбеминпарам* должен быть таким же, как и описание в разделах конструирование непараметризованных [объектов и синтаксический анализ объектов параметров](constructing-inparameters-objects-and-parsing-outparameters-objects.md) .
 
-Используйте **SWbemServices.Exeкмесодасинк** в качестве альтернативы для прямого доступа к [*методу поставщика*](gloss-p.md) , когда невозможно выполнить метод напрямую. Например, используйте его с языком сценариев, который не поддерживает выходные параметры, то есть если метод имеет параметры OUT. В противном случае рекомендуется использовать прямой доступ для вызова метода. Дополнительные сведения см. в разделе [Управление сведениями о классе и экземпляре](manipulating-class-and-instance-information.md).
+Используйте **SwbemServices. ексекмесодасинк** в качестве альтернативы непосредственному доступу к выполнению [*метода поставщика*](gloss-p.md) , когда невозможно выполнить метод напрямую. Например, используйте его с языком сценариев, который не поддерживает выходные параметры, то есть если метод имеет параметры OUT. В противном случае рекомендуется использовать прямой доступ для вызова метода. Дополнительные сведения см. в разделе [Управление сведениями о классе и экземпляре](manipulating-class-and-instance-information.md).
 
-Для метода **SWbemServices.Exeкмесодасинк** требуется путь к объекту. Если скрипт уже содержит объект [**SWbemObject**](swbemobject.md) , можно вызвать метод [**SWbemObject.Exeкмесодасинк**](swbemobject-execmethodasync-.md).
+Для метода **SwbemServices. ексекмесодасинк** требуется путь к объекту. Если скрипт уже содержит объект [**SWbemObject**](swbemobject.md) , можно вызвать [**SWbemObject. ексекмесодасинк**](swbemobject-execmethodasync-.md).
 
 Этот вызов возвращает немедленно. Сведения о состоянии возвращаются вызывающему объекту через обратные вызовы, доставляемые в приемник, указанный в *обжвбемсинк*. Чтобы продолжить обработку после завершения вызова, реализуйте подпрограммы для *обжвбемсинк*. Событие [**Oncompleteed**](swbemsink-oncompleted.md) .
 
@@ -191,7 +191,7 @@ SWbemServices.ExecMethodAsync( _
 
 ## <a name="examples"></a>Примеры
 
-В следующем примере кода показан метод **ексекмесодасинк** . Скрипт создает объект [**\_ процесса Win32**](/windows/desktop/CIMWin32Prov/win32-process) , который представляет процесс, выполняющий программу «Блокнот». Он показывает [**настройку объекта параметров**](swbemmethod-inparameters.md) и способ получения результатов из объекта [**параметров**](swbemmethod-outparameters.md) . Сведения о скрипте, который показывает те же операции, выполняемые синхронно, см. в разделе [**SWbemServices.Exeкмесод**](swbemservices-execmethod.md). Пример использования прямого доступа см. [в разделе Создание метода в классе Win32 \_ процесс](/windows/desktop/CIMWin32Prov/create-method-in-class-win32-process). Пример той же операции с помощью [**SWbemObject**](swbemobject.md)см. в разделе [**SWbemObject.Exeкмесодасинк**](swbemobject-execmethodasync-.md).
+В следующем примере кода показан метод **ексекмесодасинк** . скрипт создает объект [**\_ процесса Win32**](/windows/desktop/CIMWin32Prov/win32-process) , который представляет процесс, выполняющий Блокнот. Он показывает [**настройку объекта параметров**](swbemmethod-inparameters.md) и способ получения результатов из объекта [**параметров**](swbemmethod-outparameters.md) . Сведения о скрипте, который показывает те же операции, выполняемые синхронно, см. в разделе [**SwbemServices. ExecMethod**](swbemservices-execmethod.md). Пример использования прямого доступа см. [в разделе Создание метода в классе Win32 \_ процесс](/windows/desktop/CIMWin32Prov/create-method-in-class-win32-process). Пример той же операции с помощью [**SWbemObject**](swbemobject.md)см. в разделе [**SWbemObject. ексекмесодасинк**](swbemobject-execmethodasync-.md).
 
 
 ```VB
@@ -263,7 +263,7 @@ end sub
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Wbemdisp. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_SWBEMSERVICES CLSID<br/>                                                         |
@@ -271,20 +271,20 @@ end sub
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 
 [**SWbemServices**](swbemservices.md)
 </dt> <dt>
 
-[**SWbemObject.ExeКмесод\_**](swbemobject-execmethod-.md)
+[**SWbemObject. ExecMethod\_**](swbemobject-execmethod-.md)
 </dt> <dt>
 
-[**SWbemObject.ExeКмесодасинк\_**](swbemobject-execmethodasync-.md)
+[**SWbemObject. Ексекмесодасинк\_**](swbemobject-execmethodasync-.md)
 </dt> <dt>
 
-[**SWbemServices.ExeКмесод**](swbemservices-execmethod.md)
+[**SWbemServices. ExecMethod**](swbemservices-execmethod.md)
 </dt> <dt>
 
 [Вызов метода поставщика](calling-a-provider-method.md)

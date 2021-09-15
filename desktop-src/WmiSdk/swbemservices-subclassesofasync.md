@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: 4882388b50c34c5a390f9d242503d33b6c11af81238c9a78c4287e1880435506
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d8d325c96ea1a292d8ac3afc76bfea619fe5a143
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118107852"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457838"
 ---
 # <a name="swbemservicessubclassesofasync-method"></a>SWbemServices. Субклассесофасинк, метод
 
@@ -53,7 +53,7 @@ SWbemServices.SubclassesOfAsync( _
 *обжвбемсинк* 
 </dt> <dd>
 
-Обязательный. Приемник объекта, который асинхронно получает подклассы. Создайте объект [**свбемсинк**](swbemsink.md) для получения объектов.
+Обязательный элемент. Приемник объекта, который асинхронно получает подклассы. Создайте объект [**свбемсинк**](swbemsink.md) для получения объектов.
 
 </dd> <dt>
 
@@ -190,13 +190,13 @@ SWbemServices.SubclassesOfAsync( _
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот вызов возвращает немедленно. Запрошенные объекты и состояние возвращаются вызывающему объекту через обратные вызовы, доставляемые в приемник, указанный в *обжвбемсинк*. Чтобы обработать каждый объект при поступлении, создайте *обжвбемсинк*. Подпрограммы события [**онобжектреади**](swbemsink-onobjectready.md) . После возврата всех объектов можно выполнить окончательную обработку в реализации *обжвбемсинк*. Событие [**Oncompleteed**](swbemsink-oncompleted.md) .
 
 Асинхронный обратный вызов позволяет пользователю без проверки подлинности предоставлять данные в приемник. Это создает угрозы безопасности для сценариев и приложений. Сведения об устранении рисков см. в разделе [Настройка безопасности при асинхронном вызове](setting-security-on-an-asynchronous-call.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -212,7 +212,7 @@ SWbemServices.SubclassesOfAsync( _
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

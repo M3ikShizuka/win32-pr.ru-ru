@@ -5,11 +5,11 @@ title: Параметр SO_BSP_STATE Socket (Ws2def. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: d10e391d70dd67190e1aec803036d019261c9000
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103812443"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458155"
 ---
 # <a name="so_bsp_state-socket-option"></a>Поэтому \_ \_ параметр сокета состояния BSP
 
@@ -88,7 +88,7 @@ int getsockopt(
 | <dl> <dt>**[WSANOTINITIALISED](windows-sockets-error-codes-2.md)**</dt> </dl> | Перед использованием этой функции должен быть выполнен успешный вызов [**сбой WSAStartup**](/windows/desktop/api/winsock/nf-winsock-wsastartup) .<br/>                                                                                                                                                                                     |
 | <dl> <dt>**[WSAENETDOWN](windows-sockets-error-codes-2.md)**</dt> </dl>             | Сбой сетевой подсистемы.<br/>                                                                                                                                                                                                                                               |
 | <dl> <dt>**[WSAEFAULT](windows-sockets-error-codes-2.md)**</dt> </dl>                 | Один из параметров *оптвал* или *оптлен* указывает на память, которая не находится в допустимой части адресного пространства пользователя. Эта ошибка также возвращается, если значение, на которое указывает параметр *оптлен* , меньше размера структуры [**ксаддр \_ info**](/windows/win32/api/ws2def/ns-ws2def-csaddr_info) .<br/> |
-| <dl> <dt>**[всаеинпрогресс](windows-sockets-error-codes-2.md)**</dt> </dl>       | Выполняется блокировка вызова Windows Sockets 1,1, или поставщик услуг все еще обрабатывает функцию обратного вызова.<br/>                                                                                                                                                            |
+| <dl> <dt>**[всаеинпрогресс](windows-sockets-error-codes-2.md)**</dt> </dl>       | выполняется блокировка Windows сокеты 1,1, или поставщик услуг все еще обрабатывает функцию обратного вызова.<br/>                                                                                                                                                            |
 | <dl> <dt>**[всаеинвал](windows-sockets-error-codes-2.md)**</dt> </dl>                 | Неизвестный или недопустимый параметр *уровня* .<br/>                                                                                                                                                                                                                                    |
 | <dl> <dt>**[всаенопротупт](windows-sockets-error-codes-2.md)**</dt> </dl>       | Параметр неизвестен или не поддерживается указанным семейством протоколов.<br/>                                                                                                                                                                                                          |
 | <dl> <dt>**[всаенотсокк](windows-sockets-error-codes-2.md)**</dt> </dl>             | Дескриптор не является сокетом.<br/>                                                                                                                                                                                                                                                 |
@@ -97,7 +97,7 @@ int getsockopt(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Функция [**жетсоккопт**](/windows/desktop/api/winsock/nf-winsock-getsockopt) , вызываемая со следующим параметром сокета **\_ \_ состояния BSP** , получает локальный адрес, локальный порт, удаленный адрес, удаленный порт, тип сокета и протокол, используемые сокетом. Так как параметр сокета **\_ \_ состояния BSP** работает с сокетами IPv6 или IPv4 (для семейств адресов **AF \_ INET6** и **AF \_ inet** ).
 
@@ -119,9 +119,9 @@ int getsockopt(
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                                           |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Ws2def. h (включение Winsock2. h)</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                           |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                                     |
+| Заголовок<br/>                   | <dl> <dt>Ws2def. h (включение Winsock2. h)</dt> </dl> |
 
 
 

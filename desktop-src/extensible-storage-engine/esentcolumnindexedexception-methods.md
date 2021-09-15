@@ -8,11 +8,11 @@ ms:contentKeyID: 55101268
 ms.date: 07/30/2014
 ms.topic: article
 ms.openlocfilehash: 9e4635904e95e6a3edd0259d508f1b56ff87eb01
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104557641"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457675"
 ---
 # <a name="esentcolumnindexedexception-methods"></a>Методы EsentColumnIndexedException 
 
@@ -80,7 +80,7 @@ ms.locfileid: "104557641"
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Есентколумниндекседексцептион](./esentcolumnindexedexception-class.md)
 

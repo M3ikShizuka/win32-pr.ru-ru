@@ -4,12 +4,12 @@ ms.assetid: b64abca9-0efb-4939-849d-e75a8d0dc10b
 title: Фильтрация текстур с помощью MIP-карты (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c68f98c1189f130261981fdd309bb3f06bcca1e66f6e23a70e141a5abfe32f4a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bdc109ae6de93a26b5d5e5b90e948761e92ee92c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118291647"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457901"
 ---
 # <a name="texture-filtering-with-mipmaps-direct3d-9"></a>Фильтрация текстур с помощью MIP-карты (Direct3D 9)
 

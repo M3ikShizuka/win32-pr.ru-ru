@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 0bea1aaaf8dc79fef7b95a8dc76320ee7911d7c68ac227703acbb95b66ff5a5f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d113107867cb418b17761c5bc5c72a600df73140
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118292478"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458207"
 ---
 # <a name="id3dxtexturegutterhelpergetwidth-method"></a>ID3DXTextureGutterHelper:: Полуширинный, метод
 

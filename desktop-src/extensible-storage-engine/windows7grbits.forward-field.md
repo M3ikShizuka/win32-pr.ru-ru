@@ -25,11 +25,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 8ab7b7162e7246b9d0656b41363e6da54a92acc4
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104543666"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458125"
 ---
 # <a name="windows7grbitsforward-field"></a>Windows7Grbits. Forward, поле
 

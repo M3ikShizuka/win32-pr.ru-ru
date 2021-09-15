@@ -6,11 +6,11 @@ title: COM API для WMI
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: bfb585badeeeaae947906bbfc783baf355863e05
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105702671"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458151"
 ---
 # <a name="com-api-for-wmi"></a>COM API для WMI
 
@@ -19,7 +19,7 @@ ms.locfileid: "105702671"
 Дополнительные сведения о создании приложений управления WMI Enterprise см. в разделе [Создание приложения WMI с помощью C++](creating-a-wmi-application-using-c-.md). Дополнительные сведения о создании поставщика WMI см. [в разделе Предоставление данных инструментарию WMI](providing-data-to-wmi.md).
 
 > [!Note]  
-> Инструментарий WMI поддерживает разработку на языке C++ только с помощью Microsoft Visual C++ версий 6,0 и более поздних версий. Однако можно использовать и другие компиляторы, например, из Borland и Ватком.
+> инструментарий WMI поддерживает разработку на языке C++ только с помощью Microsoft Visual C++ версий 6,0 и более поздних версий. Однако можно использовать и другие компиляторы, например, из Borland и Ватком.
 
  
 
@@ -39,7 +39,7 @@ ms.locfileid: "105702671"
 | [**ивбемкаусалитяналисис**](iwbemcausalityaccess.md)                       | Отслеживает дочерние запросы, созданные из родительского запроса.                                                                                                                                                                                                                                            |
 | [**ивбемклассобжект**](/windows/desktop/api/WbemCli/nn-wbemcli-iwbemclassobject)                                 | Содержит и управляет определениями классов и экземплярами объектов класса. Разработчикам не требуется реализовывать этот интерфейс; Инструментарий WMI предоставляет свою реализацию.                                                                                                                                                 |
 | [**ивбемконфигуререфрешер**](/windows/desktop/api/Wbemcli/nn-wbemcli-iwbemconfigurerefresher)                   | Используется клиентским кодом для добавления или удаления перечислителей, объектов и вложенных обновлений в обновитель.                                                                                                                                                                                                         |
-| [**ивбемконтекст**](/windows/desktop/api/WbemCli/nn-wbemcli-iwbemcontext)                                         | При необходимости используется для передачи дополнительных сведений о контексте поставщикам при отправке вызовов [**IWbemServices**](/windows/desktop/api/WbemCli/nn-wbemcli-iwbemservices) в службу управления Windows.                                                                                                                                             |
+| [**ивбемконтекст**](/windows/desktop/api/WbemCli/nn-wbemcli-iwbemcontext)                                         | при необходимости используется для передачи дополнительных сведений о контексте поставщикам при отправке вызовов [**IWbemServices**](/windows/desktop/api/WbemCli/nn-wbemcli-iwbemservices) в управление Windows.                                                                                                                                             |
 | [**ивбемдекаупледбасицевентпровидер**](/windows/desktop/api/Wbemprov/nn-wbemprov-iwbemdecoupledbasiceventprovider) | Регистрирует несвязанные поставщики с помощью WMI.                                                                                                                                                                                                                                                                    |
 | [**ивбемдекаупледрегистрар**](/windows/desktop/api/Wbemprov/nn-wbemprov-iwbemdecoupledregistrar)                   | Связывает разъединенные поставщики с WMI. Этот интерфейс позволяет поставщику, размещенному в процессе, определять время существования взаимодействия интерфейса и сосуществовать с другими поставщиками.                                                                                                                        |
 | [**ивбемевентконсумерпровидер**](/windows/desktop/api/Wbemprov/nn-wbemprov-iwbemeventconsumerprovider)             | Предоставляет основной интерфейс для поставщика потребителей событий. С помощью этого интерфейса и метода [**финдконсумер**](/windows/desktop/api/Wbemprov/nf-wbemprov-iwbemeventconsumerprovider-findconsumer) поставщик потребителей событий может указывать, какие потребители событий должны получить данное событие.                                          |
@@ -80,7 +80,7 @@ ms.locfileid: "105702671"
 -   Управление памятью
 -   Обработка подсчета ссылок.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

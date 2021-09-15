@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 24a7be76c9d5d81927a278e67829cb8225a55ac1a42c0410455e1043695c6e54
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 03ca3c42059fcd37a059a5f96b7f5ac83472c0f2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117889498"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458122"
 ---
 # <a name="windows7param-class"></a>Класс Windows7Param
 

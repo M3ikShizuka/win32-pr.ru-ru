@@ -2,7 +2,7 @@
 description: Выполняет запрос для получения событий. Вызов немедленно возвращает значение.
 ms.assetid: 3e1bb428-5395-4e90-9713-6d96242fef4e
 ms.tgt_platform: multiple
-title: SWbemServices.Exeметод Кнотификатионкуери (Wbemdisp. h)
+title: SWbemServices. Ексекнотификатионкуери, метод (Wbemdisp. h)
 ms.topic: reference
 ms.date: 05/31/2018
 topic_type:
@@ -17,13 +17,13 @@ api_type:
 api_location:
 - Wbemdisp.dll
 ms.openlocfilehash: 44279d16e180d776dc4433c6d5246eab2419fca6
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105712102"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457728"
 ---
-# <a name="swbemservicesexecnotificationquery-method"></a>SWbemServices.Exeметод Кнотификатионкуери
+# <a name="swbemservicesexecnotificationquery-method"></a>SWbemServices. Ексекнотификатионкуери, метод
 
 Метод **ексекнотификатионкуери** объекта [**SwbemServices**](swbemservices.md) выполняет запрос для получения событий. Вызов немедленно возвращает значение. Пользователь может опросить возвращенный перечислитель для событий по мере их поступления.
 
@@ -52,7 +52,7 @@ objwbemEventsource = .ExecNotificationQuery( _
 *стркуери* 
 </dt> <dd>
 
-Обязательный. Строка, содержащая текст запроса, связанного с событием. Этот параметр не может быть пустым. Дополнительные сведения о создании строк запросов WMI см. в разделе [запросы с помощью WQL](querying-with-wql.md) и Справочник по [WQL](wql-sql-for-wmi.md) .
+Обязательный элемент. Строка, содержащая текст запроса, связанного с событием. Этот параметр не может быть пустым. Дополнительные сведения о создании строк запросов WMI см. в разделе [запросы с помощью WQL](querying-with-wql.md) и Справочник по [WQL](wql-sql-for-wmi.md) .
 
 </dd> <dt>
 
@@ -153,7 +153,7 @@ objwbemEventsource = .ExecNotificationQuery( _
 
 ## <a name="remarks"></a>Комментарии
 
-В отличие от метода [**SWbemServices.Exeккуерясинк**](swbemservices-execqueryasync.md) , **ексекнотификатионкуери** возвращает объекты типа события, которые создаются в будущих событиях, а не в существующих объектах. Объекты событий, **ексекнотификатионкуери** запросы, могут быть встроенными (например, [**\_ \_ инстанцекреатионевент**](--instancecreationevent.md)) или внешние (например, события поставщика реестра, такие как [**регистрикэйчанжеевент**](/previous-versions/windows/desktop/regprov/registrykeychangeevent) или SNMP). Дополнительные сведения см. в разделе [Определение типа события для получения](determining-the-type-of-event-to-receive.md) и [получения уведомлений о событиях](receiving-event-notifications.md).
+В отличие от метода [**SwbemServices. ексеккуерясинк**](swbemservices-execqueryasync.md) , **ексекнотификатионкуери** возвращает объекты типа события, которые создаются в будущих событиях, а не в существующих объектах. Объекты событий, **ексекнотификатионкуери** запросы, могут быть встроенными (например, [**\_ \_ инстанцекреатионевент**](--instancecreationevent.md)) или внешние (например, события поставщика реестра, такие как [**регистрикэйчанжеевент**](/previous-versions/windows/desktop/regprov/registrykeychangeevent) или SNMP). Дополнительные сведения см. в разделе [Определение типа события для получения](determining-the-type-of-event-to-receive.md) и [получения уведомлений о событиях](receiving-event-notifications.md).
 
 Существует ряд ограничений на количество ключевых слов **and** и **or** , которые могут использоваться в запросах WQL. Большое количество ключевых слов WQL, используемых в сложном запросе, может привести к тому, что WMI вернет код ошибки **\_ \_ \_ нарушения квоты WBEM E** как значение **HRESULT** . Ограничение ключевых слов WQL зависит от того, насколько сложным является запрос.
 
@@ -219,7 +219,7 @@ Loop
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Wbemdisp. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_SWBEMSERVICES CLSID<br/>                                                         |
@@ -227,7 +227,7 @@ Loop
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 
@@ -237,7 +237,7 @@ Loop
 [**Свбемевентсаурце. Некстевент**](swbemeventsource-nextevent.md)
 </dt> <dt>
 
-[**SWbemServices.ExeКкуери**](swbemservices-execquery.md)
+[**SWbemServices. ExecQuery**](swbemservices-execquery.md)
 </dt> <dt>
 
 [Получение события WMI](receiving-a-wmi-event.md)

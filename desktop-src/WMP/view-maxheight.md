@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ee1ccc883293d493996b854d572bfbcefd9982ed964088e927f2e23e1df85ec0
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e4cc43f9119c24a5a89928c4ffc4e854cee33350
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119571642"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457761"
 ---
 # <a name="viewmaxheight"></a>VIEW. maxHeight
 
@@ -31,7 +31,7 @@ ms.locfileid: "119571642"
 
 Этот атрибут является **числом** для чтения и записи (**длинное**) и имеет нулевое или большее значение. Он имеет нулевое значение по умолчанию, что означает отсутствие ограничений на максимальную высоту **представления**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "119571642"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

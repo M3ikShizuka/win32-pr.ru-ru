@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 2d971b6848f757503c28430dcc92ff8d398e3156eda54068cbea4da13da9e21b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fa04ac765e44deb1b624f4adede2d2c3610bf64a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119967044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458177"
 ---
 # <a name="windows7paramenabledbscaninrecovery-field"></a>Windows7Param. Енабледбсканинрековери, поле
 
@@ -53,9 +53,9 @@ value = Windows7Param.EnableDbScanInRecovery
 public const JET_param EnableDbScanInRecovery
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Windows7Param](./windows7param-class.md)
 

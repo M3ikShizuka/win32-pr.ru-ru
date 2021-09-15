@@ -4,12 +4,12 @@ ms.assetid: 832f2e6d-26ff-416e-a92e-ebaa33d4e7e5
 title: Операции администрирования COM+ в транзакциях
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4182b143de38d838aea7c5aabd2d91bdb84f94480b2bed4c4441e204412ac834
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 21612ffec1b9f082dc6a91861882a71f18fb07be
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118308253"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457821"
 ---
 # <a name="com-administration-operations-within-transactions"></a>Операции администрирования COM+ в транзакциях
 
@@ -86,7 +86,7 @@ txctx.Commit
 
 
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: Описывает правила и соглашения для р
 ms.assetid: 428540BB-5CC0-4F49-8384-0FFC130FBB38
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4499f5b031b5b5a9391f0c0078cb64c4c2715b61052c324cc2c2b19ccb2f5d4a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 97cc6524585f3ddd7ec764a791141fce9daa3c4f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119899563"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457751"
 ---
 # <a name="customnavigation-control-pattern"></a>Шаблон элемента управления Кустомнавигатион
 
@@ -21,7 +21,7 @@ ms.locfileid: "119899563"
 
 -   [Правила и соглашения реализации](#implementation-guidelines-and-conventions)
 -   [Обязательные члены для **икустомнавигатионпровидер**](#required-members-for-icustomnavigationprovider)
--   [Связанные темы](#related-topics)
+-   [Связанные разделы](#related-topics)
 
 ## <a name="implementation-guidelines-and-conventions"></a>Правила и соглашения реализации
 
@@ -45,7 +45,7 @@ ms.locfileid: "119899563"
 | [**куррентлевел**](/windows/desktop/api/UIAutomationClient/nf-uiautomationclient-iuiautomationelement4-get_currentlevel)                 | Свойство    | Размещается в интерфейсе [**IUIAutomationElement4**](/windows/desktop/api/UIAutomationClient/nn-uiautomationclient-iuiautomationelement4) . |
 | [**куррентпоситионинсет**](/windows/desktop/api/UIAutomationClient/nf-uiautomationclient-iuiautomationelement4-get_currentpositioninset) | Свойство    | Размещается в интерфейсе [**IUIAutomationElement4**](/windows/desktop/api/UIAutomationClient/nn-uiautomationclient-iuiautomationelement4) . |
 | [**куррентсизеофсет**](/windows/desktop/api/UIAutomationClient/nf-uiautomationclient-iuiautomationelement4-get_currentsizeofset)         | Свойство    | Размещается в интерфейсе [**IUIAutomationElement4**](/windows/desktop/api/UIAutomationClient/nn-uiautomationclient-iuiautomationelement4) . |
-| [**Перейти.**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irawelementproviderfragment-navigate)                   | Метод      | Нет                                                                                |
+| [**Перейти.**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-irawelementproviderfragment-navigate)                   | Метод      | None                                                                                |
 
 
 
@@ -53,7 +53,7 @@ ms.locfileid: "119899563"
 
 Этот шаблон элемента управления не имеет связанных методов или событий.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

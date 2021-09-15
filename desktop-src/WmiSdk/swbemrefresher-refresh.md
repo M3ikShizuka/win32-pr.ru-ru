@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: da92a9bc0de6667b80a74945adb23f1a4f5e4b18e2d614ec130990f3bcddaa69
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d8b2522227041858770c7256d7d2520cc661948e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119503294"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457742"
 ---
 # <a name="swbemrefresherrefresh-method"></a>Свбемрефрешер. Refresh, метод
 
@@ -55,7 +55,7 @@ SWbemRefresher.Refresh( _
 
 Этот метод не возвращает значение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -71,7 +71,7 @@ SWbemRefresher.Refresh( _
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

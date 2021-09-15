@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: fff97be43f5689acd51b811e81d72e053f4c7ae6b4df398329016304bf418535
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 690dc595471baa5514d7f1ab84a8f6def16ee5b0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119995654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457733"
 ---
 # <a name="swbemservicesdelete-method"></a>SWbemServices. Delete, метод
 
@@ -53,7 +53,7 @@ SWbemServices.Delete( _
 *стробжектпас* 
 </dt> <dd>
 
-Обязательный. Строка, содержащая путь к объекту, который необходимо удалить. Дополнительные сведения см. [в разделе Описание расположения объекта WMI](describing-the-location-of-a-wmi-object.md).
+Обязательный элемент. Строка, содержащая путь к объекту, который необходимо удалить. Дополнительные сведения см. [в разделе Описание расположения объекта WMI](describing-the-location-of-a-wmi-object.md).
 
 </dd> <dt>
 
@@ -123,7 +123,7 @@ SWbemServices.Delete( _
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод **SwbemServices. Delete** может использоваться, когда свойству ключа объекта не присвоено значение, так как для этого метода в качестве входных данных требуется только путь к объекту. Этот метод можно использовать в ситуациях, когда [**SWbemObject. Delete \_**](swbemobject-delete-.md) завершается неудачей для отсутствия значения ключа. Если объект зафиксирован в WMI с помощью [**SWbemObject. \_ постановки**](swbemobject-put-.md), объект [**свбемобжектпас**](swbemobjectpath.md) был получен через вызов.
 
@@ -187,7 +187,7 @@ Set objSWbemService = Nothing
 
 
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

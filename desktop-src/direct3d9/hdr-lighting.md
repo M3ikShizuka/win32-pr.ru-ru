@@ -5,11 +5,11 @@ title: Освещение HDR (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 5f397ccef2b1fa315e64861453b13f0f6fddfe77
-ms.sourcegitcommit: a47bd86f517de76374e4fff33cfeb613eb259a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "104262280"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457625"
 ---
 # <a name="hdr-lighting-direct3d-9"></a>Освещение HDR (Direct3D 9)
 
@@ -74,7 +74,7 @@ L<sub>d</sub>(x, y) = L (x, y)/(1 + L (x, y))
 
 Реинхард, Эрик, Mike контрастной, Питер Ширлэй и Джеймс Ферверда. [«Фотографическое воспроизведение цифровых изображений»](https://www.cs.utah.edu/~reinhard/cdrom/tonemap.pdf). ACM транзакции на графике (ТОГ), материалы из 29-годовой конференции по компьютерной графике и интерактивным методикам (СИГГРАФ), PP. 267-276. Нью Йорк, Москва: ACM Press, 2002.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

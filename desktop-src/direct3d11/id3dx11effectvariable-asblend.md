@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3fd9f6f76c0e3aa46e176b2f35960196fcc73eb021d4e5a250be4a5b245a5ca4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 87f7e3d09a1299d00482e9a5cfbb75f563d4bba5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118531606"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458001"
 ---
 # <a name="id3dx11effectvariableasblend-method"></a>Метод ID3DX11EffectVariable:: Асбленд
 
@@ -58,7 +58,7 @@ ID3DX11EffectBlendVariable* AsBlend();
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -69,7 +69,7 @@ ID3DX11EffectBlendVariable* AsBlend();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

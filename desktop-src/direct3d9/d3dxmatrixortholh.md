@@ -15,11 +15,11 @@ api_location:
 - d3dx9.lib
 - d3dx9.dll
 ms.openlocfilehash: 5492a6caba87025d83562c0327ac0e1f5a76f269
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108107502"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457637"
 ---
 # <a name="d3dxmatrixortholh-function-d3dx9mathh"></a>Функция D3DXMatrixOrthoLH (D3dx9math. h)
 
@@ -95,7 +95,7 @@ D3DXMATRIX* D3DXMatrixOrthoLH(
 
 Указатель на результирующий [**D3DXMATRIX**](../direct3d10/d3d10-d3dxmatrix.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Все параметры функции **D3DXMatrixOrthoLH** — это расстояния в пространстве камеры. Параметры описывают размеры представления объема.
 
@@ -119,12 +119,12 @@ D3DXMATRIX* D3DXMatrixOrthoLH(
 
 | Требование | Значение |
 |--------------------|----------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3dx9math. h</dt> </dl> |
+| Заголовок<br/>  | <dl> <dt>D3dx9math. h</dt> </dl> |
 | Библиотека<br/> | <dl> <dt>D3dx9. lib</dt> </dl>   |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
