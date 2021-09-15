@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a7f9675eca27ff094b0929a1b138c189c65978227b35702a47a776e0262e36f8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 72b4039d87dca77ce5150df41528a385e76d8f62
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120002024"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462522"
 ---
 # <a name="texthoverforegroundcolor"></a>TEXT. Ховерфореграундколор
 
@@ -37,7 +37,7 @@ ms.locfileid: "120002024"
 
 См. атрибут [value](text-value.md) для примера, иллюстрирующий использование атрибутов **текстового** элемента.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -47,7 +47,7 @@ ms.locfileid: "120002024"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

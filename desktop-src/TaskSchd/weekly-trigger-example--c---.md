@@ -4,12 +4,12 @@ description: в этом примере C++ показано, как созда�
 ms.assetid: 7c70b743-aff2-4ef5-b65b-ef0b5fdacade
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 530ba3226668b8e743fe4ce1701e4b178f27fa5bee03b9518c23c2378ea0b5e2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7583384a44224b3642f717d00c8792bcbc163e62
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119001882"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462604"
 ---
 # <a name="weekly-trigger-example-c"></a>Пример еженедельного триггера (C++)
 

@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: aa5dfc7f4940ee9023c505b8a643b9a8c708701422a0a89c16f8ebe6bae8577e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d58367abeccb324fd20603b879e54673439c6049
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120033584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462581"
 ---
 # <a name="imsrdpclient2-interface"></a>Интерфейс IMsRdpClient2
 
@@ -39,7 +39,7 @@ ms.locfileid: "120033584"
 
 
 
-| Свойство                                                                    | Тип доступа           | Описание                                                                                                                                                       |
+| Свойство.                                                                    | Тип доступа           | Описание                                                                                                                                                       |
 |:----------------------------------------------------------------------------|:----------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**AdvancedSettings3**](imsrdpclient2-advancedsettings3.md)<br/>     | Только для чтения<br/>  | Указатель на интерфейс [**IMsRdpClientAdvancedSettings2**](imsrdpclientadvancedsettings2.md) , используемый для задания дополнительных параметров клиентского элемента управления.<br/> |
 | [**коннектедстатустекст**](imsrdpclient2-connectedstatustext.md)<br/> | Чтение/запись<br/> | Текст, отображаемый в клиентской области элемента управления, когда элемент управления находится в состоянии Connected.<br/>                                                  |
@@ -63,7 +63,7 @@ ms.locfileid: "120033584"
 
 Дополнительные сведения о веб-подключение к удаленному рабочему столу см. в разделе [требования для веб-подключение к удаленному рабочему столу](requirements-for-remote-desktop-web-connection.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,7 +78,7 @@ ms.locfileid: "120033584"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

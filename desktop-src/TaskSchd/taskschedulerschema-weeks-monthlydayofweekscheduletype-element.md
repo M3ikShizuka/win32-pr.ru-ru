@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 81219236012146dac54965af471412369d5c5bb34319897d4d821bb10a730aee
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2e032b936353d2c89a84b5da684f681ea3c2b6d3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117757981"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462608"
 ---
 # <a name="weeks-monthlydayofweekscheduletype-element"></a>Weeks (Монслидайофвиксчедулетипе), элемент
 
@@ -48,7 +48,7 @@ ms.locfileid: "117757981"
 
 | Элемент                                                    | Тип                                                        | Описание                                        |
 |------------------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------|
-| [**Дней**](taskschedulerschema-week-weekstype-element.md) | [**виктипе**](taskschedulerschema-weektype-simpletype.md) | Указывает конкретную неделю месяца.<br/> |
+| [**Неделя**](taskschedulerschema-week-weekstype-element.md) | [**виктипе**](taskschedulerschema-weektype-simpletype.md) | Указывает конкретную неделю месяца.<br/> |
 
 
 

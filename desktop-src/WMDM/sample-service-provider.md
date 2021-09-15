@@ -11,12 +11,12 @@ keywords:
 - Примеры, поставщики услуг
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8eead5296a1ba3213f291027c0b1e4d50275497ad2ebe5a3feaea994e4a5c8e3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7e8b7e781785944ac1ca390a62303f1149d710d1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120004914"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462533"
 ---
 # <a name="sample-service-provider"></a>Образец поставщика услуг
 

@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 7c038c21db137ce9180d76cecf4c2885274f7cdd72720b12b919f9a39e98e575
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bf8c2683311aecc427e9570a0452c746375eca01
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119001817"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462601"
 ---
 # <a name="weekly-trigger-example-xml"></a>Пример еженедельного триггера (XML)
 
@@ -80,7 +80,7 @@ This sample schedules a task to start on a bi-weekly basis.
 
     Содержит сведения о регистрации задачи.
 
--   [**План**](taskschedulerschema-triggers-tasktype-element.md)
+-   [**Триггеры**](taskschedulerschema-triggers-tasktype-element.md)
 
     Определяет триггер, который запускает задачу.
 
@@ -100,7 +100,7 @@ This sample schedules a task to start on a bi-weekly basis.
 
     Определяет параметры задачи, которые планировщик задач использует для выполнения задачи.
 
--   [**Actions**](taskschedulerschema-actions-tasktype-element.md)
+-   [**Действия**](taskschedulerschema-actions-tasktype-element.md)
 
     определяет действия, выполняемые задачей (в данном случае выполняется Блокнот).
 
