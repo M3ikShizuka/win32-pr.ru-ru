@@ -4,12 +4,12 @@ ms.assetid: f2313ffd-867f-4870-a667-3e5f5402776f
 title: Сообщение WM_MDICREATE (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c69a894ebd2e55bb74486e26cd118366b1e533a490cc50feb5f77aad64c6be3f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 1fc11e9dfc561b138a95b711d68ecd831a43d2ec
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120056014"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571302"
 ---
 # <a name="wm_mdicreate-message"></a>\_Сообщение МДИКРЕАТЕ WM
 
@@ -58,7 +58,7 @@ ms.locfileid: "120056014"
 
 Приложение не должно отсылать второе сообщение **\_ мдикреате WM** , пока не будет обработано сообщение **\_ мдикреате WM** . Например, он не должен отсылать сообщение **\_ мдикреате WM** , пока дочернее окно MDI обрабатывает сообщение **WM \_ мдикреате** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ ms.locfileid: "120056014"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -92,7 +92,7 @@ ms.locfileid: "120056014"
 [**WM \_ мдидестрой**](wm-mdidestroy.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Интерфейс с несколькими документами](multiple-document-interface.md)

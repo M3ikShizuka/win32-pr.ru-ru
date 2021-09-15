@@ -4,12 +4,12 @@ description: преобразование в JScript из JavaScript
 ms.assetid: 86067a69-a6a1-474f-b8d8-85caf384a311
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 51c25276d569c5b461693a666d1bf8cf706b6896c0995972e1d2af0071c5760b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 45535807a5ef2baf59c2e068007a5a8df8bf4863
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119129566"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571894"
 ---
 # <a name="translating-to-jscript-from-javascript"></a>преобразование в JScript из JavaScript
 

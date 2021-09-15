@@ -4,12 +4,12 @@ ms.assetid: 4e7f461f-2909-40ab-98d8-b763d489eb62
 title: Событие InkPicture. Селектионресизед (Мсинкаут. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7e67bc19d4d35c356e0774f0843ba62432606c1ee4f1f84095e64c4808d09bd6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1dcad4b84cd21ee9b4d385f24033c56913765810
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118451062"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572342"
 ---
 # <a name="inkpictureselectionresized-event"></a>Событие InkPicture. Селектионресизед
 
@@ -46,7 +46,7 @@ void SelectionResized(
 
 Это событие не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод события определен в интерфейсах диспетчеризации **\_ иинковерлайевентс** и **\_ ИИНКПИКТУРИВЕНТС** (DISP) с идентификатором DISPID \_ иоеселектионресизед.
 
@@ -58,7 +58,7 @@ void SelectionResized(
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                                                       |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                                           |
-| Header<br/>                   | <dl> <dt>Мсинкаут. h (также требуется Мсинкаут \_ i. c)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мсинкаут. h (также требуется Мсинкаут \_ i. c)</dt> </dl> |
 | Библиотека<br/>                  | <dl> <dt>InkObj.dll</dt> </dl>                               |
 
 

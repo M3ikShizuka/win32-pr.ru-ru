@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9ebb49b2857c23bb11b5e4d091dece820bb833b2b4e77224558f2d7972885445
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 13380b321b540cbb5edce3c03e422b49c7b90e54
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119027742"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572170"
 ---
 # <a name="iwmdrmencryptencrypt-method"></a>Метод Ивмдрменкрипт:: Encrypt
 
@@ -81,7 +81,7 @@ HRESULT Encrypt(
 
 ## <a name="remarks"></a>Remarks
 
-Отсутствует.
+Нет.
 
 ## <a name="requirements"></a>Требования
 

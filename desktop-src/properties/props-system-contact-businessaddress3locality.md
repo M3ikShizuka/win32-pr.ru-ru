@@ -5,11 +5,11 @@ title: System. Contact. BusinessAddress3Locality
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 8b17e1ae5ed164c2f8b0961421ff120d5cc839de
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108087212"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572703"
 ---
 # <a name="systemcontactbusinessaddress3locality"></a>System. Contact. BusinessAddress3Locality
 
@@ -28,11 +28,11 @@ propertyDescription
       type = String
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

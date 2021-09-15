@@ -5,11 +5,11 @@ title: Сообщение WM_MDIICONARRANGE (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: bc2d50d4bccebe3e9758752cc7d0d259e973875c
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104497319"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571298"
 ---
 # <a name="wm_mdiiconarrange-message"></a>\_Сообщение МДИИКОНАРРАНЖЕ WM
 
@@ -48,7 +48,7 @@ ms.locfileid: "104497319"
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                               |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                     |
-| Заголовок<br/>                   | <dl> <dt>Winuser. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 
@@ -65,7 +65,7 @@ ms.locfileid: "104497319"
 [**WM \_ мдитиле**](wm-mditile.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Интерфейс с несколькими документами](multiple-document-interface.md)

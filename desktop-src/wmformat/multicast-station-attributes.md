@@ -10,12 +10,12 @@ keywords:
 - атрибуты многоадресной станции
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 99f3591e5f5e70920577818cc60d1a4dffe414652fdecb04d341fe7bb3ddb9e1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f618ffa645055bf10a9247272d57c7e3f76853c0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117654489"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572162"
 ---
 # <a name="multicast-station-attributes"></a>Атрибуты многоадресной станции
 

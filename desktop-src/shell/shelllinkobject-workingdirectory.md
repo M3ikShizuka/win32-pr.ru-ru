@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Shell32.dll
 ms.openlocfilehash: d8788899a06179056cd871b68e4e64566bcd5ee6
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104346125"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572470"
 ---
 # <a name="shelllinkobjectworkingdirectory-property"></a>Шелллинкобжект. WorkingDirectory, свойство
 
@@ -42,9 +42,9 @@ ShellLinkObject.WorkingDirectory(sWorkingDirectory) = strWorkingDirectory
 
 ## <a name="examples"></a>Примеры
 
-В следующем примере показано правильное использование этого свойства в JScript, VBScript и Visual Basic.
+в следующем примере показано правильное использование этого свойства в JScript, VBScript и Visual Basic.
 
-Присутствовал
+JScript:
 
 
 ```JScript
@@ -172,7 +172,7 @@ Private Sub fnShellLinkObjectWorkingDirectoryVB()
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Windows 2000 Professional с пакетом обновления 3 (SP3), \[ только классические приложения\]<br/>                                           |
+| Минимальная версия клиента<br/> | Windows 2000 Professional с SP3 \[ только для настольных приложений\]<br/>                                           |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                          |
 | Заголовок<br/>                   | <dl> <dt>Шлдисп. h</dt> </dl>                          |
 | IDL<br/>                      | <dl> <dt>Шлдисп. idl</dt> </dl>                        |

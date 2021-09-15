@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Shell32.dll
-ms.openlocfilehash: b655be140a6c54902ef9c0f47babafeeaf7b3dc2cb7cd3b1eadb97808f7da82c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9bacdf98a24d749b5128bc286f06e99299aef437
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118968383"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572471"
 ---
 # <a name="shelllinkobjectshowcommand-property"></a>Шелллинкобжект. возвращающий showcommand, свойство
 
@@ -202,7 +202,7 @@ End Sub
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

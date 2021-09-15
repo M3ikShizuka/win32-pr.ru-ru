@@ -6,12 +6,12 @@ keywords:
 - EAP_CRED_RESP
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d16b9bda55ed1b4aee9a9847740b25d46418c6ec3544dfdd6ba71b2c282042b2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e5c2176377dbde0f7c02d2a7d8083ad1bcff9e71
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117904641"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571890"
 ---
 # <a name="eap_cred_resp"></a>подотчетное от EAP \_ cred \_
 
@@ -33,7 +33,7 @@ typedef EAP_CONFIG_INPUT_FIELD_ARRAY EAP_CRED_RESP;
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Структура **\_ \_ ОТВ** для идентификации EAP используется для поддержки единого входа (SSO).
 
@@ -47,7 +47,7 @@ typedef EAP_CONFIG_INPUT_FIELD_ARRAY EAP_CRED_RESP;
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Еаптипес. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Еаптипес. h</dt> </dl> |
 
 
 

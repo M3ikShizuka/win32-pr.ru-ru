@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - IACom.dll
-ms.openlocfilehash: 94aab2b91a5da9588de65f5a48bf496bdceae71bf4aa90f82f3969cbe6a9e76e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cdbc0ec0a613feccb4064a88f4723538439f4532
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119935374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572426"
 ---
 # <a name="icontextnodegetpropertydataids-method"></a>Метод Иконтекстноде:: Жетпропертидатаидс
 
@@ -58,7 +58,7 @@ HRESULT GetPropertyDataIds(
 
 Описание возвращаемых значений см. в разделе [классы и интерфейсы — анализ рукописного ввода](classes-and-interfaces---ink-analysis.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Caution]  
 > Чтобы избежать утечки памяти, используйте [**CoTaskMemFree**](/windows/desktop/api/combaseapi/nf-combaseapi-cotaskmemfree) , чтобы освободить память от \* *ппгуидс* , если эта информация больше не нужна.
@@ -67,7 +67,7 @@ HRESULT GetPropertyDataIds(
 
 Этот метод возвращает идентификаторы конкретного приложения для добавленных данных свойства. Он также возвращает идентификаторы для внутренних данных свойства, которые описаны константами [свойств узла контекста](context-node-properties.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -80,7 +80,7 @@ HRESULT GetPropertyDataIds(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Wia.h
-ms.openlocfilehash: 96b1d8ce92a847dcd4ffcebca6b45df2b652ad74c1216fc60b8aac72bb6a12ac
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 882aaf0d131ae6fe062c00c0181e2f913a0e1bc5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119659724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572290"
 ---
 # <a name="iwiaimagefilterfilterpreviewimage-method"></a>Метод Ивиаимажефилтер:: Филтерпревиевимаже
 
@@ -84,7 +84,7 @@ HRESULT FilterPreviewImage(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Не вызывайте этот метод непосредственно из приложения.
 
@@ -94,7 +94,7 @@ HRESULT FilterPreviewImage(
 
 Приложение должно гарантировать, что *pWiaChildItem2* имеет тот же формат изображения ( \_ Формат WIA IPA \_ ), разрешение (с помощью WIA-пакетов \_ \_ ксрес и WIA \_ \_ -адресов ИРЕС) и глубину ( \_ глубину WIA IPA \_ ) в качестве *pWiaItem2* при передаче в [**жетневпревиев**](-wia-iwiapreview-getnewpreview.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

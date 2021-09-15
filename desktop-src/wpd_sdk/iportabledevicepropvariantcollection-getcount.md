@@ -14,12 +14,12 @@ api_type:
 api_location:
 - PortableDeviceGUIDs.lib
 - PortableDeviceGUIDs.dll
-ms.openlocfilehash: 2b82ce3c916df3603478888ecdc388e80ee4b4d635a25b238f9ba6a03ef61901
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d3a06cb5d89bc09a35a58f9269ba19c488c11e0f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120055204"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571214"
 ---
 # <a name="iportabledevicepropvariantcollectiongetcount-method"></a>Метод Ипортабледевицепропвариантколлектион:: NOCOUNT
 
@@ -66,7 +66,7 @@ HRESULT GetCount(
 
 Пример использования этого метода см. [в статье получение функциональных категорий, поддерживаемых устройством](retrieving-the-functional-categories-supported-by-a-device.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -77,7 +77,7 @@ HRESULT GetCount(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

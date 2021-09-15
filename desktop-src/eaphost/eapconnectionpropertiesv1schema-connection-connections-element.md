@@ -14,12 +14,12 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 6948675f7910c46cb2b5db4285ce0df795fa057f275ce29b7f4c664b14c4ce1b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5aabc29a7fe5122a7f7571750b97ebccb38158d8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118498374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571866"
 ---
 # <a name="connection-connections-element"></a>Элемент соединения (Connections)
 
@@ -54,7 +54,7 @@ ms.locfileid: "118498374"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -65,20 +65,20 @@ ms.locfileid: "118498374"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
 **Контекст определения элемента в схеме**
 </dt> <dt>
 
-[**Соединение**](eapconnectionpropertiesv1schema-connections-element.md)
+[**Соединения**](eapconnectionpropertiesv1schema-connections-element.md)
 </dt> <dt>
 
 **Возможный непосредственный родительский элемент в экземпляре схемы**
 </dt> <dt>
 
-[**Соединение**](eapconnectionpropertiesv1schema-connections-element.md)
+[**Соединения**](eapconnectionpropertiesv1schema-connections-element.md)
 </dt> <dt>
 
 [EAPHost и схема прежних версий](eaphost-schemas.md)

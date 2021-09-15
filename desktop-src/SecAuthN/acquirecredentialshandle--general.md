@@ -4,12 +4,12 @@ ms.assetid: acda4cf3-39a6-4bd2-91a0-db1f191b57b5
 title: Функция AcquireCredentialsHandle (General) (SSPI. h)
 ms.topic: reference
 ms.date: 07/25/2019
-ms.openlocfilehash: 0fcac88d1dcf31da19a15ab8a4834ae628d4e98e45ab777ec3da0db14092c75d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 9c1202d8b482eee45697cec35ff6a7e8ba6ef354
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120101464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571923"
 ---
 # <a name="acquirecredentialshandle-general-function"></a>Функция AcquireCredentialsHandle (общая)
 
@@ -183,7 +183,7 @@ SECURITY_STATUS SEC_Entry AcquireCredentialsHandle(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция **AcquireCredentialsHandle (General)** возвращает маркер учетных данных участника, например пользователя или клиента, который используется конкретным [*ограниченным делегированием*](../secgloss/s-gly.md). Это может быть обработчик существующих учетных данных, или функция может создать новый набор учетных данных и вернуть их. Этот маркер можно использовать при последующих вызовах функций [**AcceptSecurityContext (General)**](acceptsecuritycontext--general.md) и [**InitializeSecurityContext (General)**](initializesecuritycontext--general.md) .
 
@@ -198,7 +198,7 @@ SECURITY_STATUS SEC_Entry AcquireCredentialsHandle(
 
 По завершении использования возвращенных учетных данных освободите память, используемую учетными данными, вызвав функцию [**фрикредентиалшандле**](/windows/win32/api/sspi/nf-sspi-freecredentialshandle) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -213,7 +213,7 @@ SECURITY_STATUS SEC_Entry AcquireCredentialsHandle(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

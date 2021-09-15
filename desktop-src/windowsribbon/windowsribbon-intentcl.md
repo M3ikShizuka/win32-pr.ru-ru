@@ -14,12 +14,12 @@ keywords:
 - компиляция Windows разметки ленты
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 715c1f99ae98ce220757633f751a09af82fea6ba
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.openlocfilehash: cefd64103ceb501e8f4d23e937a242e910b0cad5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122626940"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572239"
 ---
 # <a name="compiling-ribbon-markup"></a>Компиляция разметки ленты
 
@@ -72,8 +72,8 @@ UICC <ribbonFile> <binaryFile> [options]
 </thead>
 <tbody>
 <tr class="odd">
-<td>/Header<headerFile></td>
-<td>Создайте заголовочный файл <headerFile> с именем, содержащий символы ресурса идентификатора команды разметки. Если этот параметр опущен, файл заголовка не создается.</td>
+<td>/Header: &lt; хеадерфиле&gt;</td>
+<td>Создайте файл заголовка с именем &lt; хеадерфиле &gt; , содержащий символы ресурса идентификатора команды разметки. Если этот параметр опущен, файл заголовка не создается.</td>
 </tr>
 <tr class="even">
 <td>/RES<resourceFile></td>

@@ -4,12 +4,12 @@ description: в этом образце кода показана разметк
 ms.assetid: 1505aaea-76d2-47bc-bdc9-12e761da93f9
 ms.topic: article
 ms.date: 07/13/2021
-ms.openlocfilehash: 0f1299bdc20b1b94a5113d3cfcdda205b6ad8e513a59706d708362fbc8383bd8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cfe75d13a69e0122766e51a00bcb1b15d52eab4e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118202122"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572243"
 ---
 # <a name="htmleditribbon-sample"></a>Пример Хтмледитриббон
 
@@ -22,7 +22,7 @@ ms.locfileid: "118202122"
 - [Поддержка](#support)
 - [Минимальные требования](#minimum-requirements)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Пример для MFC см. в разделе [Хтмледит Sample: заключает в оболочку элемент управления редактированием в Internet Explorer MSHTML](https://msdn.microsoft.com/library/ea8hhwb6(VS.80).aspx).
 

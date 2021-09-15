@@ -4,18 +4,18 @@ ms.assetid: F8793C33-2281-4E4A-9659-4189E1C8279A
 title: Добавление ярлыков в меню "Пуск"
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4b8c31f8180f4bd0d3b8aa8252d7c3f1fedc4238bb5320f8179f3a4fd4b497b1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 77ee942e07c48ed7addf07160412008bfb5b9322
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118969433"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572522"
 ---
 # <a name="how-to-add-shortcuts-to-the-start-menu"></a>Добавление ярлыков в меню "Пуск"
 
 Чтобы добавить элемент в подменю **программы** , выполните следующие действия.
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="step-1"></a>Шаг 1.
 

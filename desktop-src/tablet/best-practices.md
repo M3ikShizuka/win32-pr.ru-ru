@@ -5,11 +5,11 @@ title: Рекомендации (планшетный ПК)
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: dd492dfeda94ce9dce056b286ef1989f3389658c
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104272844"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571443"
 ---
 # <a name="best-practices-tablet-pc"></a>Рекомендации (планшетный ПК)
 
@@ -18,7 +18,7 @@ ms.locfileid: "104272844"
 -   [Предпочитать элемент управления InkEdit](#prefer-inkedit-control)
 -   [Отключение режима рукописного ввода для элементов управления InkEdit](#disable-ink-mode-on-inkedit-controls)
 -   [Использование безоконных элементов управления](#using-windowless-controls)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="prefer-inkedit-control"></a>Предпочитать элемент управления InkEdit
 
@@ -42,7 +42,7 @@ ms.locfileid: "104272844"
 6.  Отсоедините объект [**пенинпутпанел**](peninputpanel-class.md) , задав свойству [аттачедедитконтрол](/previous-versions/ms582239(v=vs.100)) (только управляемый код) или свойства [**аттачедедитвиндов**](/windows/desktop/api/peninputpanel/nf-peninputpanel-ipeninputpanel-get_attachededitwindow) значение null.
 7.  Уничтожить элемент управления "текстовое поле".
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

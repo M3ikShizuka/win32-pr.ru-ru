@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 5ca7371f172237df53870b5165698bd24302643a
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122624600"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572254"
 ---
 # <a name="dropdowngallery-element"></a>Дропдовнгаллери, элемент
 
@@ -122,7 +122,7 @@ ms.locfileid: "122624600"
 
 | Элемент                                                                                           | Описание                                        |
 |---------------------------------------------------------------------------------------------------|----------------------------------------------------|
-| [**Кнопка**](windowsribbon-element-button.md)<br/>                                         | Может происходить один или несколько раз<br/> <br/> |
+| [**Button**](windowsribbon-element-button.md)<br/>                                         | Может происходить один или несколько раз<br/> <br/> |
 | [**Установка**](windowsribbon-element-checkbox.md)<br/>                                     | Может происходить один или несколько раз<br/> <br/> |
 | [**Дропдовнгаллери. Менуграупс**](windowsribbon-element-dropdowngallery-menugroups.md)<br/> | Должно выполняться только один раз<br/> <br/>     |
 | [**Дропдовнгаллери. Менулайаут**](windowsribbon-element-dropdowngallery-menulayout.md)<br/> | Может выполняться не более одного раза<br/> <br/>      |
@@ -176,9 +176,9 @@ Windows 8 и более поздних версий.
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
-Необязательный элемент.
+Необязательный параметр.
 
 Может возникать один или несколько раз для каждого элемента [**контролграуп**](windowsribbon-element-controlgroup.md), [**DropDownButton**](windowsribbon-element-dropdownbutton.md), [**Group**](windowsribbon-element-group.md), [**менуграуп**](windowsribbon-element-menugroup.md)или [**SplitButton**](windowsribbon-element-splitbutton.md) .
 
@@ -247,7 +247,7 @@ Windows 8 и более поздних версий.
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

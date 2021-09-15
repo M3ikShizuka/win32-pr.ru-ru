@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - IACom.dll
-ms.openlocfilehash: 97e6f4fde66faef14402c815f6b95517a2bd19adfb90eac4e865383770bc753f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a38abd054e457ef9dbaf5dd93c38954b1ce6dcb3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118967483"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572443"
 ---
 # <a name="ianalysiswarninggetnodeids-method"></a>Метод Ианалисисварнинг:: Жетнодеидс
 
@@ -58,7 +58,7 @@ HRESULT GetNodeIds(
 
 Описание возвращаемых значений см. в разделе [классы и интерфейсы — анализ рукописного ввода](classes-and-interfaces---ink-analysis.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если *ппнодеидс* передается как **null**, метод **жетнодеидс** возвращает значение **S \_ ОК** , а число прямоугольников возвращается в *пулкаунт*.
 

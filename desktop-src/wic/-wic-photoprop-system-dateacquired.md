@@ -4,12 +4,12 @@ ms.assetid: 04a61ecc-d168-4f93-b143-3e6ba8aaf322
 title: Политика метаданных фотографии System. Датеаккуиред
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4c95b8f68d99476db0832a321de1f61c6f3c4dc6be6f10d679735bd51fc92ce7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f126ccb4424d1489f671f61f719a505559a78c8d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119087885"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572275"
 ---
 # <a name="systemdateacquired-photo-metadata-policy"></a>Политика метаданных фотографии System. Датеаккуиред
 
@@ -45,7 +45,7 @@ VT \_ fileTime
 
 
 
-| Номер | Путь                             | Формат диска                        | Обязательно |
+| Порядок | Путь                             | Формат диска                        | Обязательно |
 |-------|----------------------------------|------------------------------------|----------|
 | 1     | /КСМП/микрософтфото: Датеаккуиред | Строка Юникода в формате даты XMP. | Да      |
 
@@ -59,7 +59,7 @@ VT \_ fileTime
 
 
 
-| Номер | Путь                                 | Формат диска                        | Обязательно |
+| Порядок | Путь                                 | Формат диска                        | Обязательно |
 |-------|--------------------------------------|------------------------------------|----------|
 | 1     | /ИФД/КСМП/микрософтфото: Датеаккуиред | Строка Юникода в формате даты XMP. | Да      |
 
@@ -67,7 +67,7 @@ VT \_ fileTime
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 ## <a name="related-topics"></a>Связанные темы
 

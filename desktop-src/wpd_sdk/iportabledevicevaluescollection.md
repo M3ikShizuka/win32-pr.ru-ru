@@ -14,12 +14,12 @@ api_type:
 api_location:
 - PortableDeviceGUIDs.lib
 - PortableDeviceGUIDs.dll
-ms.openlocfilehash: cd6547a96013b2b83ce9962a62f0837dd01cacac6f3e64adc3b964754c148c5a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cebe15dc9a4f4347eb58563e9b43240464565a4c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119928384"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572115"
 ---
 # <a name="iportabledevicevaluescollection-interface"></a>Интерфейс Ипортабледевицевалуесколлектион
 
@@ -40,7 +40,7 @@ ms.locfileid: "119928384"
 | Метод                                                       | Описание                                                                         |
 |:-------------------------------------------------------------|:------------------------------------------------------------------------------------|
 | [**Включить**](iportabledevicevaluescollection-add.md)           | Добавляет элемент в коллекцию.<br/>                                           |
-| [**Clear**](iportabledevicevaluescollection-clear.md)       | Освобождает все элементы из коллекции.<br/>                                  |
+| [**Открытым**](iportabledevicevaluescollection-clear.md)       | Освобождает все элементы из коллекции.<br/>                                  |
 | [**GetAt**](iportabledevicevaluescollection-getat.md)       | Извлекает элемент из коллекции по индексу, начинающимся с нуля.<br/>             |
 | [**GetCount**](iportabledevicevaluescollection-getcount.md) | Возвращает количество элементов в коллекции.<br/>                         |
 | [**RemoveAt**](iportabledevicevaluescollection-removeat.md) | Удаляет элемент, хранящийся в расположении, указанном заданным индексом.<br/> |
@@ -49,7 +49,7 @@ ms.locfileid: "119928384"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -60,7 +60,7 @@ ms.locfileid: "119928384"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

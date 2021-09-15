@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - PortableDevice.h
-ms.openlocfilehash: 5b50b56222014119a50c9d4ecb0fd7eb96694b30f35fbcbb72dc6550fdf88606
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 2597af21c5655c3c12c0ca29f097d0eba2bb8d54
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119704054"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572003"
 ---
 # <a name="wpd_bitrate_types-enumeration"></a>\_ \_ Перечисление типов скорости WPD
 
@@ -70,7 +70,7 @@ typedef enum WPD_BITRATE_TYPES {
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -80,7 +80,7 @@ typedef enum WPD_BITRATE_TYPES {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

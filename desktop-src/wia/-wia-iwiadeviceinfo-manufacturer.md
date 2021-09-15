@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Wiascr.dll
-ms.openlocfilehash: 3a40d4a416f8ca0447373b9ac9e80d2993a8ace92c2127636eb363e40f199c23
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 59a9052daae1d0f01928b118233771bcf2bae02f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118965723"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571358"
 ---
 # <a name="deviceinfomanufacturer-property"></a>DeviceInfo. Manufacturer, свойство
 
@@ -39,7 +39,7 @@ propVal = DeviceInfo.Manufacturer
 
 Строка, которая получает имя.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

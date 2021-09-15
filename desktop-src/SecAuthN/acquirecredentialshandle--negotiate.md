@@ -4,12 +4,12 @@ ms.assetid: ff372163-c73b-41bb-afcb-7d5de7720967
 title: Функция AcquireCredentialsHandle (Negotiate) (SSPI. h)
 ms.topic: reference
 ms.date: 07/25/2019
-ms.openlocfilehash: 887b821143616951a17816d5beb4f1fc2dec84e1ab176ad78a894e2cdc3f918c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 80ab4b67866b60831dadb7d8eb9bf9f632c0661c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120101454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571919"
 ---
 # <a name="acquirecredentialshandle-negotiate-function"></a>Функция AcquireCredentialsHandle (Negotiate)
 
@@ -154,7 +154,7 @@ SECURITY_STATUS SEC_Entry AcquireCredentialsHandle(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция **AcquireCredentialsHandle (Negotiate)** возвращает маркер учетных данных участника, например пользователя или клиента, который используется конкретным [*ограниченным делегированием*](../secgloss/s-gly.md). Это может быть обработчик существующих учетных данных, или функция может создать новый набор учетных данных и вернуть их. Этот маркер можно использовать при последующих вызовах функций [**AcceptSecurityContext (Negotiate)**](acceptsecuritycontext--negotiate.md) и [**InitializeSecurityContext (Negotiate)**](initializesecuritycontext--negotiate.md) .
 
@@ -169,7 +169,7 @@ SECURITY_STATUS SEC_Entry AcquireCredentialsHandle(
 
 По завершении использования возвращенных учетных данных освободите память, используемую учетными данными, вызвав функцию [**фрикредентиалшандле**](/windows/win32/api/sspi/nf-sspi-freecredentialshandle) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -184,7 +184,7 @@ SECURITY_STATUS SEC_Entry AcquireCredentialsHandle(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

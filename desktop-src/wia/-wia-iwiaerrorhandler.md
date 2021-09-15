@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Wiaguid.lib
 - Wiaguid.dll
-ms.openlocfilehash: 6e97c5a146c23ce1ecdb2ba77cde5d37cd9091fc9d77e288042f02fc118816e7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7b3ea9f5556f1f919336e4abb4085f9e0c32d81d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118965593"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572294"
 ---
 # <a name="iwiaerrorhandler-interface"></a>Интерфейс Ивиаеррорхандлер
 
@@ -46,7 +46,7 @@ ms.locfileid: "118965593"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Объект обратного вызова приложения может реализовывать **ивиаеррорхандлер**.
 

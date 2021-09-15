@@ -4,12 +4,12 @@ ms.assetid: 2682e7ba-dabd-497e-aea4-6d3f837f4f10
 title: Событие InkCollector. Невпаккетс (Мсинкаут. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 375884363f06558639505077482b13a431c39b51d874fd391d0086446becae69
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3bab9d13dd2f33689700ef4a9aee2ed5059403e8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119939404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572363"
 ---
 # <a name="inkcollectornewpackets-event"></a>Событие InkCollector. Невпаккетс
 
@@ -67,7 +67,7 @@ void NewPackets(
 
 Это событие не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Пакеты получаются, пока выполняется сбор рукописных фрагментов. События пакетов происходят быстро, а обработчик событий **невпаккетс** должен быть быстрым или отрицательным.
 
@@ -82,7 +82,7 @@ void NewPackets(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -95,7 +95,7 @@ void NewPackets(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

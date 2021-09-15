@@ -9,12 +9,12 @@ api_type: ''
 api_location: ''
 topic_type:
 - kbArticle
-ms.openlocfilehash: 57f4c34deefe6850605a4bbe30837f266346b87f8347d8eb9f1f2effb71df697
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f9455cb7f34344e49363573432c00c6a86138a2a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118968763"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572475"
 ---
 # <a name="using-image-factory-sample"></a>Пример: использование фабрики изображений
 
@@ -22,12 +22,12 @@ ms.locfileid: "118968763"
 
 В этом разделе содержатся следующие подразделы.
 
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Загрузка образца](#downloading-the-sample)
 -   [Создание примера](#building-the-sample)
 -   [Запуск примера](#running-the-sample)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

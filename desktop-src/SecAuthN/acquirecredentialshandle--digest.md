@@ -4,12 +4,12 @@ ms.assetid: 79f49240-e394-4584-8db7-ef721672ba6b
 title: Функция AcquireCredentialsHandle (Digest) (SSPI. h)
 ms.topic: reference
 ms.date: 07/25/2019
-ms.openlocfilehash: 561bb4c6fd95bfd22d36091a6f9d23b59720618a13eb7e994f74e77c87849abc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1474eef8ad5f5a30fe7d930431185a8ff70f7dfc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119141587"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571922"
 ---
 # <a name="acquirecredentialshandle-digest-function"></a>Функция AcquireCredentialsHandle (Digest)
 
@@ -151,7 +151,7 @@ SECURITY_STATUS SEC_Entry AcquireCredentialsHandle(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция **AcquireCredentialsHandle (Digest)** возвращает маркер учетных данных участника, например пользователя или клиента, который используется конкретным [*ограниченным делегированием*](../secgloss/s-gly.md). Это может быть обработчик существующих учетных данных, или функция может создать новый набор учетных данных и вернуть их. Этот маркер можно использовать при последующих вызовах функций [**AcceptSecurityContext (Digest)**](acceptsecuritycontext--digest.md) и [**InitializeSecurityContext (Digest)**](initializesecuritycontext--digest.md) .
 

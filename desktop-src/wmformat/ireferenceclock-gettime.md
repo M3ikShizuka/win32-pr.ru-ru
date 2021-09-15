@@ -15,12 +15,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: f7756240e8987199e1f1b5d79e3f0b676d4808520781fbac18dfa18dd75e88d4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c679ce0adbbc6cc7ddc014c12f1b0ace4be6b4b0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120055444"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572186"
 ---
 # <a name="ireferenceclockgettime-method"></a>Метод Иреференцеклокк:: OnTime
 
@@ -63,7 +63,7 @@ HRESULT GetTime(
 
  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

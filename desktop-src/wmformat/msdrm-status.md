@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0c4c1f9b37f237b1ae2399849ef3100e3d6fdbc12c7ee3bc1d169420e38bb85a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bf2a73de9e33216e22a01966be8f2ed6a3185fdf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117654578"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572159"
 ---
 # <a name="msdrm_status-enumeration"></a>\_Перечисление состояния Msdrm
 
@@ -138,9 +138,9 @@ typedef enum MSDRM_STATUS {
 
 ## <a name="remarks"></a>Remarks
 
-Отсутствует.
+Нет.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -150,7 +150,7 @@ typedef enum MSDRM_STATUS {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

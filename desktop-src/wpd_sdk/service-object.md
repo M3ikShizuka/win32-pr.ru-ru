@@ -4,12 +4,12 @@ ms.assetid: 4ce4e7f7-579d-41a5-a4e1-935ba0afce83
 title: Объект службы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2587ca25e1e9fc225a0b555263bf3f3f4e725c83e5f9b01e716fd6fa191fc270
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7a3aabfc4e4366c54a5d30dbe5825f178378133d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119445591"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572043"
 ---
 # <a name="service-object"></a>Объект службы
 
@@ -19,14 +19,14 @@ ms.locfileid: "119445591"
 
 | Имя свойства                                                                                                                      | Обязательный или необязательный                                                                  |
 |------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| [\_идентификатор объекта \_ WPD](/previous-versions/windows/hardware/drivers/ff597893(v=vs.85))                                                         | Обязательный. .                                                                           |
-| [\_ \_ идентификатор родительского объекта \_ WPD](/previous-versions/windows/hardware/drivers/ff597893(v=vs.85))                                   | Обязательный.                                                                             |
-| [\_имя объекта \_ WPD](/previous-versions/windows/hardware/drivers/ff597893(v=vs.85))                                                   | Обязательный.                                                                             |
-| [\_ \_ Постоянный \_ уникальный идентификатор объекта \_ WPD](/previous-versions/windows/hardware/drivers/ff597893(v=vs.85)) | Обязательный.                                                                             |
+| [\_идентификатор объекта \_ WPD](/previous-versions/windows/hardware/drivers/ff597893(v=vs.85))                                                         | Обязательный элемент. .                                                                           |
+| [\_ \_ идентификатор родительского объекта \_ WPD](/previous-versions/windows/hardware/drivers/ff597893(v=vs.85))                                   | Обязательный элемент.                                                                             |
+| [\_имя объекта \_ WPD](/previous-versions/windows/hardware/drivers/ff597893(v=vs.85))                                                   | Обязательный элемент.                                                                             |
+| [\_ \_ Постоянный \_ уникальный идентификатор объекта \_ WPD](/previous-versions/windows/hardware/drivers/ff597893(v=vs.85)) | Обязательный элемент.                                                                             |
 | [\_объект WPD \_](/previous-versions/windows/hardware/drivers/ff597893(v=vs.85))                                       | Требуется, если объект службы не должен отображаться для пользователя.                       |
 | [\_система объектов \_ WPD](/previous-versions/windows/hardware/drivers/ff597893(v=vs.85))                                       | Требуется, если объект является системным объектом (например, он представляет системный файл). |
-| [\_Категория функционального \_ объекта WPD \_](/previous-versions/windows/hardware/drivers/ff597893(v=vs.85))     | Обязательный. Представляет тип службы устройства, например Контакты службы.          |
-| [\_версия службы \_ WPD](/previous-versions/windows/hardware/drivers/ff597893(v=vs.85))                                       | Обязательный.                                                                             |
+| [\_Категория функционального \_ объекта WPD \_](/previous-versions/windows/hardware/drivers/ff597893(v=vs.85))     | Обязательный элемент. Представляет тип службы устройства, например Контакты службы.          |
+| [\_версия службы \_ WPD](/previous-versions/windows/hardware/drivers/ff597893(v=vs.85))                                       | Обязательный элемент.                                                                             |
 | [\_тип хранилища \_ WPD](/previous-versions/windows/hardware/drivers/ff597893(v=vs.85))                                                | Требуется, если служба используется для хранения объектов.                                     |
 | [\_емкость хранилища \_ WPD](/previous-versions/windows/hardware/drivers/ff597865(v=vs.85))                                    | Требуется, если служба используется для хранения объектов.                                     |
 

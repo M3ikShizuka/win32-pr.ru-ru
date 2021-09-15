@@ -10,15 +10,15 @@ api_location: ''
 topic_type:
 - kbArticle
 ms.openlocfilehash: bb143dd393c20b504b50a68366c34aea1767cb17
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108104392"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572499"
 ---
 # <a name="legacy-shell-topics"></a>Статьи о старых оболочках
 
-Эти функции относятся к более старым версиям оболочки Windows. Некоторые из этих функций могут больше не присутствовать или не поддерживаться.
+эти функции относятся к более старым версиям оболочки Windows. Некоторые из этих функций могут больше не присутствовать или не поддерживаться.
 
 -   [Создание подверяющих портфелей](../lwef/briefcase-reconcilers.md)
 -   [Обработка справки в Интернете](handling-online-help.md)

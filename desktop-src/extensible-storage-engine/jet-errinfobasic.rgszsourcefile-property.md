@@ -27,11 +27,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: e3504112ed6c3d4de360e7da027e700237e5dbcd
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105712082"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571767"
 ---
 # <a name="jet_errinfobasicrgszsourcefile-property"></a>Свойство JET_ERRINFOBASIC. Ргсзсаурцефиле
 
@@ -66,7 +66,7 @@ public string rgszSourceFile { get; set; }
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс JET_ERRINFOBASIC](./jet-errinfobasic-class.md)
 

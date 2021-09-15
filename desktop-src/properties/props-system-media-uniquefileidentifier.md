@@ -4,12 +4,12 @@ ms.assetid: 0fe07c66-3d9c-4368-8fbd-23cb486757cc
 title: System. Media. Уникуефилеидентифиер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bf74b8001be317178f717caf8e8053eba8b15588aa34c274381532bf3e995647
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0e2c29917860fa3bdcde26d2919d091028f4b747
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117865502"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572627"
 ---
 # <a name="systemmediauniquefileidentifier"></a>System. Media. Уникуефилеидентифиер
 
@@ -28,7 +28,7 @@ propertyDescription
       type = String
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значения PKEY определены в списке PKEY. h.
 

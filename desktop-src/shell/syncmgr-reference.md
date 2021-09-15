@@ -9,12 +9,12 @@ api_type: ''
 api_location: ''
 topic_type:
 - kbArticle
-ms.openlocfilehash: f34e9925ec5d6dce504a6fb4038187771e32c9625bdb3a1a13879e7dd42280e2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 07a087d153c819edfb173476f728e411fb659b2d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117675797"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571482"
 ---
 # <a name="synchronization-manager-reference"></a>Справочник по диспетчеру синхронизации
 

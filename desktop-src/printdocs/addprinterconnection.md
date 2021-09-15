@@ -15,12 +15,12 @@ api_type:
 - DllExport
 api_location:
 - Winspool.drv
-ms.openlocfilehash: 83c4d348266e0d596deccb03b39e98ec41f8f23837727520d55b9baff82fec4c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dae1f823f89b69526218ab4c027642fb54e3cea5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117869036"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571606"
 ---
 # <a name="addprinterconnection-function"></a>Функция Аддпринтерконнектион
 
@@ -65,7 +65,7 @@ BOOL AddPrinterConnection(
 
 Подключение принтера, установленное с помощью вызова **аддпринтерконнектион** , будет перечислено при вызове [**енумпринтерс**](enumprinters.md) с параметром *двтипе* , установленным в значение Printer \_ reenum \_ Connection.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -80,7 +80,7 @@ BOOL AddPrinterConnection(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

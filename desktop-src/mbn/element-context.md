@@ -17,11 +17,11 @@ topic_type:
 - APIRef
 - kbSyntax
 ms.openlocfilehash: fa14cd19e5502c227d1f7f0814966959680dfe20
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122624120"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571686"
 ---
 # <a name="span-idwwan_profile_v4element_contextspanmbnprofileextcontext-v4"></a><span id="WWAN_profile_v4.element_Context"></span>\/Контекст мбнпрофиликст (v4)
 
@@ -58,7 +58,7 @@ ms.locfileid: "122624120"
 
 ### <a name="span-idattributesspanspan-idattributesspanattributes"></a><span id="attributes"></span><span id="ATTRIBUTES"></span>Атрибуты
 
-Отсутствует.
+Нет.
 
 ### <a name="span-idchild_elementsspanspan-idchild_elementsspanspan-idchild_elementsspanchild-elements"></a><span id="Child_Elements"></span><span id="child_elements"></span><span id="CHILD_ELEMENTS"></span>Дочерние элементы
 
@@ -70,7 +70,7 @@ ms.locfileid: "122624120"
 <thead>
 <tr class="header">
 <th>Дочерний элемент</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -145,7 +145,7 @@ ms.locfileid: "122624120"
 <thead>
 <tr class="header">
 <th>Родительский элемент</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>

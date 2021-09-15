@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ec78bd0d33b48b11de77fe7742affb4265160752ffad30d72ecf3e9c173bb77c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6ed379fb97d2795a166571fb48cde2c233021a33
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119825944"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571623"
 ---
 # <a name="menuex-resource"></a>Ресурс МЕНУЕКС
 
@@ -133,7 +133,7 @@ menuID MENUEX{ [{[MENUITEM itemText [,[id][, [type][, state]]]] |
 -   И (' & ')
 -   ИЛИ (' \| ')
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

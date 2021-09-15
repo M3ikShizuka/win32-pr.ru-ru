@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Wia.h
-ms.openlocfilehash: 385a97a71d7017cba5bbfffd0833068a74acbe9d7281f8308b003a525b3f60f1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6ccac7b689055bfaab926a8db46b4632606811d7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118441350"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571379"
 ---
 # <a name="iwiaapperrorhandler-interface"></a>Интерфейс Ивиаапперрорхандлер
 
@@ -57,7 +57,7 @@ ms.locfileid: "118441350"
 
 Если необходимо, чтобы обработчик ошибок драйвера и обработчик ошибок по умолчанию отображали окна сообщений об ошибках, но не нужно создавать полный обработчик ошибок для приложения, реализуйте этот интерфейс, а также реализуйте метод [**ивиаапперрорхандлер:: репортстатус**](-wia-iwiaapperrorhandler-reportstatus.md) , чтобы вернуть \_ состояние WIA \_ не \_ обработано.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -65,7 +65,7 @@ ms.locfileid: "118441350"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                               |
-| Header<br/>                   | <dl> <dt>WIA. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>WIA. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>WIA. idl</dt> </dl> |
 
 

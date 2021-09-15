@@ -1,19 +1,19 @@
 ---
-description: Класс "звук службы устройства Bluetooth".
+description: Bluetooth класс аудио службы устройства.
 ms.assetid: 0c9c1b43-d33f-43cb-a17e-8433ada42395
-title: System. Devices. АЕП. Bluetooth. наложенный. Services. Audio
+title: System. Devices. АЕП. Bluetooth. Наложенный на. Services. Audio
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: db1012fbdca05bdf67023536960976dd7ae234f8
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103814857"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572655"
 ---
-# <a name="systemdevicesaepbluetoothcodservicesaudio"></a>System. Devices. АЕП. Bluetooth. наложенный. Services. Audio
+# <a name="systemdevicesaepbluetoothcodservicesaudio"></a>System. Devices. АЕП. Bluetooth. Наложенный на. Services. Audio
 
-Класс "звук службы устройства Bluetooth".
+Bluetooth класс аудио службы устройства.
 
 ## <a name="windows-10-version-1703-windows-10-version-1607-windows-10-version-1511"></a>Windows 10, версия 1703, Windows 10, версия 1607, Windows 10, версия 1511
 
@@ -35,7 +35,7 @@ propertyDescription
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

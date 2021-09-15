@@ -13,12 +13,12 @@ api_type:
 api_location:
 - Wfext.h
 ms.assetid: b3ae7f86-5d58-47fa-87bd-e4e6a3541a93
-ms.openlocfilehash: 85c7c94f91cad962239745d5dffa82898ef4ad0539431122106f7d85fdaff1c7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4e9521df91619d108c7a03b6574926147fc2b04a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118224123"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572542"
 ---
 # <a name="fms_helpstring-structure"></a>\_Структура FMS HELPSTRING
 
@@ -37,7 +37,7 @@ typedef struct _FMS_HELPSTRING {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 

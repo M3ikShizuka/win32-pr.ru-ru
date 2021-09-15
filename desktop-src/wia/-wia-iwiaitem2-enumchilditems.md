@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Wia.h
-ms.openlocfilehash: 921a6b6e85f906ef62683038b2bb28dd484d58fd20600b2ff85ae594fafb3cd7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2de76d9bf43d10e08e5a85cd2a32d6b377680d18
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118440422"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571342"
 ---
 # <a name="iwiaitem2enumchilditems-method"></a>Метод IWiaItem2:: Енумчилдитемс
 
@@ -72,7 +72,7 @@ HRESULT EnumChildItems(
 
 Приложения должны вызывать метод [IUnknown:: Release](/windows/win32/api/unknwn/nf-unknwn-iunknown-release) для указателей интерфейса, которые они получают с помощью параметра *ppIEnumWiaItem2* .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -80,7 +80,7 @@ HRESULT EnumChildItems(
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                               |
-| Header<br/>                   | <dl> <dt>WIA. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>WIA. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>WIA. idl</dt> </dl> |
 
 

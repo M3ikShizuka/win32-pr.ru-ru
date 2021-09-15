@@ -7,11 +7,11 @@ ms.topic: article
 ms.date: 05/13/2021
 ms.localizationpriority: low
 ms.openlocfilehash: d086c3aeb3caf7ff85a7fceeec17943c7112a7e0
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "124361293"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571710"
 ---
 # <a name="firewall-dynamic-keywords-functions"></a>Функции динамических ключевых слов брандмауэра
 
@@ -30,6 +30,6 @@ ms.locfileid: "124361293"
 | [**PFN_FWFREEDYNAMICKEYWORDADDRESSDATA0**](/windows/win32/api/netfw/nc-netfw-pfn_fwfreedynamickeywordaddressdata0) | Тип указателя функции точки входа в службе, которая вызывается для освобождения динамических структур данных адреса ключевого слова, выделенных службой. |
 | [**PFN_FWUPDATEDYNAMICKEYWORDADDRESS0**](/windows/win32/api/netfw/nc-netfw-pfn_fwupdatedynamickeywordaddress0) | Тип указателя функции точки входа в службе, которая вызывается для обновления динамического адреса ключевого слова с входным ИДЕНТИФИКАТОРом. |
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 * [Справочник по динамическим ключевым словам брандмауэра](firewall-dynamic-keywords-reference.md)

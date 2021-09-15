@@ -12,12 +12,12 @@ keywords:
 - изменение размера видео
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c7a3261b5b78b386a0589e2e5554b52793d478f052765cb9caa63cf7e399d90e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b200496b1dead3abacfbfad7674519e0cf7ce4f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119027192"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572130"
 ---
 # <a name="video-resizing"></a>Изменение размера видео
 

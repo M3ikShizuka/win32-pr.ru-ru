@@ -13,12 +13,12 @@ keywords:
 - профили, Настройка неограниченных VBR
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5ff73a0aac8d13f015175080aac6eb580fc9686c67d892b14e4714746c8cea34
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b24c022c79bb38414ab201db11abd0cf260dfafe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119807764"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572150"
 ---
 # <a name="to-configure-unconstrained-vbr"></a>Настройка неограниченных VBR
 

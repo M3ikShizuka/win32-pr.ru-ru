@@ -1,5 +1,5 @@
 ---
-description: Метод Create объекта DeviceInfo устанавливает соединение с устройством получения образа Windows (WIA), заданным объектом DeviceInfo, и возвращает объект Item, представляющий устройство.
+description: метод Create объекта DeviceInfo устанавливает соединение с устройством Windowsного получения изображений (WIA), заданным объектом DeviceInfo, и возвращает объект Item, представляющий устройство.
 ms.assetid: 57f3698c-3f9f-4775-8b53-a65a5591aa3d
 title: DeviceInfo. Create, метод
 ms.topic: reference
@@ -14,15 +14,15 @@ api_type:
 api_location:
 - Wiascr.dll
 ms.openlocfilehash: 1efc36ea8794de4b64c9af616320b09d547f6490
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105719376"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571378"
 ---
 # <a name="deviceinfocreate-method"></a>DeviceInfo. Create, метод
 
-Метод **CREATE** объекта [**DeviceInfo**](-wia-deviceinfo.md) устанавливает соединение с устройством получения образа Windows (WIA), заданным объектом **DeviceInfo** , и возвращает объект [**Item**](-wia-item.md) , представляющий устройство.
+метод **Create** объекта [**DeviceInfo**](-wia-deviceinfo.md) устанавливает соединение с устройством Windowsного получения изображений (WIA), заданным объектом **DeviceInfo** , и возвращает объект [**Item**](-wia-item.md) , представляющий устройство.
 
 ## <a name="syntax"></a>Синтаксис
 
@@ -43,7 +43,7 @@ retVal = DeviceInfo.Create()
 
 Этот метод возвращает объект [**Item**](-wia-item.md) , представляющий созданное устройство.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Используйте метод **CREATE** , чтобы создать подключение к аппаратному устройству WIA после перечисления коллекции [**устройств**](-wia-iwia-devices.md) . Метод возвращает объект [**Item**](-wia-item.md) , представляющий устройство (корневой элемент).
 
@@ -77,8 +77,8 @@ Next
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ классических приложений Windows XP\]<br/>                                        |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                                          |
+| Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ настольных приложений Windows XP\]<br/>                                        |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                                          |
 | DLL<br/>                      | <dl> <dt>Wiascr.dll (версия 4,90 или более поздняя)</dt> </dl> |
 
 

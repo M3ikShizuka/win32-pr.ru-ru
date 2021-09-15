@@ -4,12 +4,12 @@ ms.assetid: 78b5ab11-01c0-4bdb-ae1f-ec55774abdce
 title: Событие InkOverlay. Селектионмовед (Мсинкаут. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 141e1c9501a9670ebfa89cdcf30fac7a1044450cef932e7c7abb522a5199fd47
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e27bf1600683b5258bf899692b692c8cdcabb359
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119032072"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572351"
 ---
 # <a name="inkoverlayselectionmoved-event"></a>Событие InkOverlay. Селектионмовед
 
@@ -46,13 +46,13 @@ void SelectionMoved(
 
 Это событие не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод события TЭтот определяется в \_ иинковерлайевентс и \_ иинкпиктуривентс интерфейсах диспетчеризации (DISP) с идентификатором DISPID \_ иоеселектионмовед.
 
 Чтобы получить новый ограничивающий прямоугольник коллекции штрихов, которые были перемещены, вызовите метод [**Selection. жетбаундингбокс**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkstrokedisp-getboundingbox) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -65,7 +65,7 @@ void SelectionMoved(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

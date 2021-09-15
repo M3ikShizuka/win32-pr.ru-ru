@@ -5,11 +5,11 @@ title: Рисование перерисовки с помощью Direct2D
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 6f6dfdddb7cd6f7ab7341eb3c13a9fe40b797f09
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105719510"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571326"
 ---
 # <a name="how-to-draw-a-bitmapsource-using-direct2d"></a>Рисование перерисовки с помощью Direct2D
 
@@ -128,7 +128,7 @@ ms.locfileid: "105719510"
 [Руководство по программированию](-wic-programming-guide.md)
 
 
-[Ссылки](-wic-codec-reference.md)
+[Ссылка](-wic-codec-reference.md)
 
 
 [Примеры](-wic-samples.md)

@@ -1,17 +1,17 @@
 ---
-description: InkPicture.SysТемжестуре событие — происходит при распознавании системного жеста.
+description: Событие InkPicture. Системжестуре — происходит при распознавании системного жеста.
 ms.assetid: 36e2ac5a-dc91-47c2-a8e5-e555437c0a5d
-title: Событие InkPicture.SysТемжестуре (Мсинкаут. h)
+title: Событие InkPicture. Системжестуре (Мсинкаут. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 11567b94360c8fa2bf736d295bf828ebc636bb0bee7a21acb4cc063c22780352
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1cde11b73b6b0d3861a79538a7f9ee19487b6384
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118966953"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572331"
 ---
-# <a name="inkpicturesystemgesture-event"></a>Событие InkPicture.SysТемжестуре
+# <a name="inkpicturesystemgesture-event"></a>Событие InkPicture. Системжестуре
 
 Происходит при распознавании системного жеста.
 
@@ -89,7 +89,7 @@ void SystemGesture(
 
 Это событие не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Системные жесты предоставляют сведения об объекте [**иинккурсор**](/windows/desktop/api/msinkaut/nn-msinkaut-iinkcursor) , который используется для создания жеста. Они также предоставляют сочетания клавиш для сочетания событий мыши и способы обнаружения событий мыши с меньшим влиянием на производительность.
 
@@ -101,7 +101,7 @@ void SystemGesture(
 
 Этот метод события определен в интерфейсах диспетчеризации (DISP) **\_ иинкколлекторевентс**, **\_ иинковерлайевентс** и **\_ иинкпиктуривентс** с идентификатором DISPID \_ ицесистемжестуре.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -114,7 +114,7 @@ void SystemGesture(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

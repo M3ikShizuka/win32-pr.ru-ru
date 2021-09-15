@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - PortableDevice.h
-ms.openlocfilehash: c8bc0d667e329db3afccf76497409350d7aa7250b0e6529d0b3f4ddae7a32370
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e56e3e66cd20abaeb1daf0a674633a36b57a9575
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119927994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572007"
 ---
 # <a name="wpd_capture_modes-enumeration"></a>\_ \_ Перечисление режимов захвата WPD
 
@@ -70,11 +70,11 @@ typedef enum WPD_CAPTURE_MODES {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это перечисление используется в свойстве " [ \_ \_ \_ \_ режим захвата WPD-образа](still-image-properties.md) ".
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -84,7 +84,7 @@ typedef enum WPD_CAPTURE_MODES {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

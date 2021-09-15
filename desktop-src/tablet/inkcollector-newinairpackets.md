@@ -4,12 +4,12 @@ ms.assetid: e8eacdec-0381-435f-b453-24dca1c507c9
 title: Событие InkCollector. Невинаирпаккетс (Мсинкаут. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 36bcc359ed0ae5d7a8fabd00b75bbde0854c3be128cb33fc11cb340a87a3bb07
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5e5709ae0b468aa6ab49516accf4037695268788
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119939424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572367"
 ---
 # <a name="inkcollectornewinairpackets-event"></a>Событие InkCollector. Невинаирпаккетс
 
@@ -59,7 +59,7 @@ void NewInAirPackets(
 
 Это событие не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Пакет в эфире создается, когда пользователь перемещает перо рядом с планшетом, а курсор находится внутри окна объекта «сборщик рукописных данных» или пользователь перемещает указатель мыши в связанном окне объекта «сборщик рукописных данных». События **невинаирпаккетс** создаются быстро, а обработчик событий должен иметь высокую скорость или производительность.
 
@@ -74,7 +74,7 @@ void NewInAirPackets(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -87,7 +87,7 @@ void NewInAirPackets(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

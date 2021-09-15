@@ -4,12 +4,12 @@ ms.assetid: d3072e34-65f2-4eeb-bcfa-e2db2d34e680
 title: Асинхронный вызов методов службы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3288f739b92de78ed25193756791d422fb1a87cf304e97f4aee904a85ed784b1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4ef4f0eb2e75b977b53300bed6eab4c909fa7796
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118697241"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571215"
 ---
 # <a name="invoking-service-methods-asynchronously"></a>Асинхронный вызов методов службы
 

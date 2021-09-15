@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - IACom.dll
-ms.openlocfilehash: 4663493e6847ac3904916c93220386c6db13f0ef27fc60b36e048852b6cf0b00
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 07bdfc9a32fd4aec8e716cdd3c788c211c1adaec
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118967303"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572411"
 ---
 # <a name="iinkanalyzercreatecontextnodes-method"></a>Метод Иинканализер:: Креатеконтекстнодес
 
@@ -50,7 +50,7 @@ HRESULT CreateContextNodes(
 
 Описание возвращаемых значений см. в разделе [классы и интерфейсы — анализ рукописного ввода](classes-and-interfaces---ink-analysis.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Caution]  
 > Чтобы избежать утечки памяти, вызовите метод [**IUnknown:: Release**](/windows/desktop/api/unknwn/nf-unknwn-iunknown-release) в *ппконтекстнодес* , когда больше не нужно использовать объект.
@@ -59,7 +59,7 @@ HRESULT CreateContextNodes(
 
 Используйте этот метод, чтобы создать пустую коллекцию [**иконтекстнодес**](icontextnodes.md) , связанную с [**иинканализер**](iinkanalyzer.md). Новая коллекция **иконтекстнодес** не является частью дерева контекста объекта **иинканализер** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -72,7 +72,7 @@ HRESULT CreateContextNodes(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

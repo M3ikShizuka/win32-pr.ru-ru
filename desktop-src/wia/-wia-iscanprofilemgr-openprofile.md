@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Scanprofilemgr.h
-ms.openlocfilehash: 67b47fb6c905048b9906ce79a604beb463ca4947d4543cd5bb3e961545856428
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 40d380a2b0405445cba72a0aac73c4b529114fcb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117670247"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571399"
 ---
 # <a name="iscanprofilemgropenprofile-method"></a>Метод Исканпрофилемгр:: Опенпрофиле
 
@@ -81,7 +81,7 @@ HRESULT OpenProfile(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

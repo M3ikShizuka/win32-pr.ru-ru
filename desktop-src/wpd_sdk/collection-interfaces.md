@@ -4,12 +4,12 @@ ms.assetid: 5b76c30c-3114-46fb-bf35-b47115f33961
 title: Интерфейсы коллекции
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c7204ac4e2330d3970d9ec82cc778df12b04f87fcacf966f5a31a46e074ad26b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 89cf53e57ae5c098f66b3048fc6c3a26fe3efba4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117843398"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571230"
 ---
 # <a name="collection-interfaces"></a>Интерфейсы коллекции
 

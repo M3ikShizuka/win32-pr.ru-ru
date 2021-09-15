@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - ExecModelClient.dll
-ms.openlocfilehash: 58c95144077697f1655547a58571ce3475355aa96040ce1815bd3178bc9a1290
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 950d96ac46c18d741d5cf2337326f116fb79e36a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119773674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571471"
 ---
 # <a name="taskcompletionclientapplytaskcompletion-method"></a>Метод Тасккомплетионклиент:: Апплитасккомплетион
 

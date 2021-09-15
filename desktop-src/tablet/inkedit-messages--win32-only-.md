@@ -5,11 +5,11 @@ title: Сообщения InkEdit (только Win32)
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: e5cb1d390bf8e37d6affbbd96c34c53ea889b268
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122475040"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572362"
 ---
 # <a name="inkedit-messages-win32-only"></a>Сообщения InkEdit (только Win32)
 
@@ -29,7 +29,7 @@ ms.locfileid: "122475040"
 
  
 
-## <a name="message"></a>Message
+## <a name="message"></a>Сообщение
 
 Родительское окно элемента управления [InkEdit](inkedit-control-reference.md) получает сообщения уведомления о событиях с помощью \_ сообщения уведомления WM:
 

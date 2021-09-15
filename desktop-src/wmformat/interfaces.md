@@ -8,12 +8,12 @@ keywords:
 - ASF (Расширенный системный формат), интерфейсы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 858afb5a8d634cfefca9d5f5f5b271ccdeaaa0d8dfd63e3d67cda612dea3abc8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a21cb5c82855b75d3acfb20c4368d8dffa65dc30
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118433631"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572198"
 ---
 # <a name="windows-media-format-sdk-interfaces"></a>Интерфейсы пакета SDK Windows Media Format
 
@@ -236,7 +236,7 @@ ms.locfileid: "118433631"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Идентификатор интерфейса для каждого интерфейса в этом пакете SDK — это имя интерфейса с префиксом IID \_ . Например, идентификатором для интерфейса **ивмреадерадванцед** является IID \_ ивмреадерадванцед. Чтобы получить указатель на интерфейс **ивмреадерадванцед** объекта Reader, используйте следующий код, где *преадер* является указателем на интерфейс **ивмреадер** :
 

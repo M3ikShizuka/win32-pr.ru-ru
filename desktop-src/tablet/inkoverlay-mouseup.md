@@ -4,12 +4,12 @@ ms.assetid: 049e1560-d4b2-4d34-9d54-2b45217001b2
 title: Событие InkOverlay. MouseUp (Мсинкаут. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 675c588d12976a506afec02e1bec58d97a99fd13ec897250f0e472dfbc519490
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 402083aa677b134ea469980227a482ac5546da2b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118219790"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572358"
 ---
 # <a name="inkoverlaymouseup-event"></a>Событие InkOverlay. MouseUp
 
@@ -73,7 +73,7 @@ void MouseUp(
 
 Это событие не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы улучшить производительность рукописного ввода в режиме реального времени, скройте или покажите курсор мыши в обработчиках событий [**MouseDown**](inkcollector-mousedown.md) и [**MouseUp**](inkcollector-mouseup.md) .
 
@@ -97,7 +97,7 @@ void MouseUp(
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                                                       |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                                           |
-| Header<br/>                   | <dl> <dt>Мсинкаут. h (также требуется Мсинкаут \_ i. c)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мсинкаут. h (также требуется Мсинкаут \_ i. c)</dt> </dl> |
 | Библиотека<br/>                  | <dl> <dt>InkObj.dll</dt> </dl>                               |
 
 

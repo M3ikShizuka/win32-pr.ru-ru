@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 44b6639a14fbb843f9634a65686a111213e6cb0a6678677b710d30a011900b5e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d9f8286e49157a177aa83e6106fb45e5d1819e52
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120066774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571807"
 ---
 # <a name="durablecommitcallbackend-method"></a>Дураблекоммиткаллбакк. end, метод
 
@@ -53,9 +53,9 @@ instance.End()
 public void End()
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Дураблекоммиткаллбакк](./durablecommitcallback-class.md)
 

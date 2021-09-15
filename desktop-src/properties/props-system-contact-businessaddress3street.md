@@ -4,12 +4,12 @@ ms.assetid: c99a73fb-9c03-47d2-a3b8-2391f19650a0
 title: System. Contact. BusinessAddress3Street
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f49d3bdc2d8b4455777a8d1b4e3599e03d276ec4e829ec777c7c7f9acc6c765d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 151c187ec8a9b8d8d609f905681b8b0433e7d0e0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118468564"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572695"
 ---
 # <a name="systemcontactbusinessaddress3street"></a>System. Contact. BusinessAddress3Street
 
@@ -28,7 +28,7 @@ propertyDescription
       type = String
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значения PKEY определены в списке PKEY. h.
 

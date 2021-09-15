@@ -4,12 +4,12 @@ ms.assetid: 471c38fc-2382-4df8-8f70-e1af0dd6c746
 title: System. size
 ms.topic: article
 ms.date: 09/10/2019
-ms.openlocfilehash: 6835d4de69508a5a6151b98034739635a0fa4e5baefd1ef2e49e3b44d2046ffe
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4d0e988f4a757e6aa2e7d2dd611594d7705bd9ab
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118464754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572595"
 ---
 # <a name="systemsize"></a>System. size
 
@@ -201,7 +201,7 @@ propertyDescription
             mnemonics = gigantic
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значения PKEY определены в списке PKEY. h.
 

@@ -4,12 +4,12 @@ ms.assetid: 46bbdb98-524f-4b4b-95c0-005e71d672f1
 title: Событие Инкдисп. Инкаддед (Мсинкаут. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0a6260660817d38795978371e99b241e3b5b2a88de2d9f2b6d3da678f117b522
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5d25266a8cd75f873c5a7c1c18fa20fcf5126faf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119939144"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571406"
 ---
 # <a name="inkdispinkadded-event"></a>Инкдисп. Инкаддед, событие
 
@@ -57,7 +57,7 @@ void InkAdded(
 
 Событие **инкаддед** срабатывает даже в режиме выбора или стирания, а не только при вставке рукописного ввода. Для этого необходимо наблюдать за режимом редактирования (который вы несете за параметром) и учитывать режим, прежде чем интерпретировать событие. Преимуществом этого требования является большая свобода для внедрения инноваций на платформе за счет большей осведомленности о событиях платформы.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ void InkAdded(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

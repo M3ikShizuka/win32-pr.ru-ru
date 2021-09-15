@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - IACom.dll
-ms.openlocfilehash: ea4f8ec91897b8977614ed21d47e2990fa90cd09cf9f9079fba03837992a8389
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8e129b410de9e8ca9e3944b6a371fe0cac673fc5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118044933"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572439"
 ---
 # <a name="ianalysiswarninggetwarningcode-method"></a>Метод Ианалисисварнинг:: Жетварнингкоде
 
@@ -146,7 +146,7 @@ STDMETHODIMP CMyClass::Results(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

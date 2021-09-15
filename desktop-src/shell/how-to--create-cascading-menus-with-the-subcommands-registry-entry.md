@@ -3,18 +3,18 @@ description: в Windows 7 и более поздних версиях можно
 title: Создание каскадных меню с записью реестра "подкоманды"
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1f12eb473d45a3d3aef1b7cf8e7f6cc51a0d97aa5b9e60ee39681c80af459988
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e8b1168daae5ea927f079c66eb436c099f8b3d96
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120111804"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572523"
 ---
 # <a name="how-to-create-cascading-menus-with-the-subcommands-registry-entry"></a>Создание каскадных меню с помощью записи реестра "подкоманды"
 
 в Windows 7 и более поздних версиях можно использовать запись подкоманд в реестре для создания каскадных меню с помощью процедуры, приведенной в этом разделе.
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="step-1"></a>Шаг 1.
 

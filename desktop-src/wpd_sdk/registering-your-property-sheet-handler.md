@@ -4,12 +4,12 @@ ms.assetid: 6621529c-717b-4f36-8d9e-769d6b720b8a
 title: Регистрация обработчика страницы свойств
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 91f1642c03a068a24b37cd5647bcdef63222ed2dbe5d78832daeea31e8abd67d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a6a59a03ebd13f5a541674012da7b07045e0a510
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119083538"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571199"
 ---
 # <a name="registering-your-property-sheet-handler"></a>Регистрация обработчика страницы свойств
 
@@ -40,7 +40,7 @@ HKEY_CLASSES_ROOT
 | **Впдконтекстмену. Audio**       | \_тип содержимого \_ WPD \_ Audio                                                                                                      |
 | **Впдконтекстмену. видео**       | \_ \_ видео типа содержимого \_ WPD                                                                                                      |
 | **Впдконтекстмену. список воспроизведения**    | \_ \_ список воспроизведения типов содержимого WPD \_                                                                                                   |
-| **WPDContextMenu.Docумент**    | \_ \_ документ типа содержимого \_ WPD                                                                                                   |
+| **Впдконтекстмену. документ**    | \_ \_ документ типа содержимого \_ WPD                                                                                                   |
 | **Впдконтекстмену. контакт**     | \_ \_ контакт типа содержимого \_ WPD                                                                                                    |
 | **WPDContextMenu.Email**       | \_ \_ \_ адрес электронной почты типа содержимого WPD                                                                                                      |
 | **Впдконтекстмену. Встреча** | \_тип содержимого WPD — \_ \_ встреча                                                                                                |

@@ -12,12 +12,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 08956baf37b0bf8bc2323138e5cad24d587a88af7283d52985559a8a8538571d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 35e4898bae876babb0e5fbc1c4b9760eec6a9b62
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119342934"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571655"
 ---
 # <a name="renderingparametersupdate-event"></a>Событие Рендерингпараметерсупдате
 

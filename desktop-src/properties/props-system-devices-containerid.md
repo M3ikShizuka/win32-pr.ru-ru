@@ -5,11 +5,11 @@ title: System.Devices.ContainerId
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: af02843a35b40190a0164c9daabecfbe4cce1428
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103999711"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571535"
 ---
 # <a name="systemdevicescontainerid"></a>System.Devices.ContainerId
 
@@ -31,11 +31,11 @@ propertyDescription
       IsInnate = true
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

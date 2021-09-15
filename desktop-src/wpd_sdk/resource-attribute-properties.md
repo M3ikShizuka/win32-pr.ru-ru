@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - PortableDevice.h
-ms.openlocfilehash: 956cd349089afb00a1350bf32e8f06acd5747599f6d5a731e4bf5d8dd1c96295
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 64f4f394fcd91d50f323a8e46a9556daa6a8dbff
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119928074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572086"
 ---
 # <a name="resource-attribute-properties"></a>Свойства атрибута ресурса
 
@@ -36,11 +36,11 @@ Windows Портативные устройства поддерживают с�
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эти атрибуты возвращаются методом [**ипортабледевицересаурцес:: жетресаурцеаттрибутес**](/windows/desktop/api/PortableDeviceApi/nf-portabledeviceapi-iportabledeviceresources-getresourceattributes) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -50,7 +50,7 @@ Windows Портативные устройства поддерживают с�
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

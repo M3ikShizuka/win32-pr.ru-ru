@@ -9,12 +9,12 @@ api_type: ''
 api_location: ''
 topic_type:
 - kbArticle
-ms.openlocfilehash: e85595de3e7dab60be7741f95598f5d4e4d53276d5eff62f499874dea79bb99e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c9db182498791fee344061c91ea570ed770f3a2a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120111194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572486"
 ---
 # <a name="shell-library-command-line-sample"></a>Пример: реализация командной строки с помощью библиотеки оболочки
 
@@ -22,7 +22,7 @@ ms.locfileid: "120111194"
 
 В этом разделе содержатся следующие подразделы.
 
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Загрузка образца](#downloading-the-sample)
 -   [Создание примера](#building-the-sample)
 -   [Запуск примера](#running-the-sample)
@@ -34,7 +34,7 @@ ms.locfileid: "120111194"
 | Продукт                                | Минимальная версия продукта |
 |----------------------------------------|-------------------------|
 | Windows                                | Windows 7               |
-| Windows SDK | 7,0                     |
+| Windows SDK | 7.0                     |
 
 
 

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - IACom.dll
-ms.openlocfilehash: 51eb76839b157c2ac9611ef9be978ea967c8e9b3506513a23b0ca70906dd32b4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2c38a22b799eb6836a85a42748f60207ee7e997e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119940514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572446"
 ---
 # <a name="ianalysiswarninggethint-method"></a>Метод Ианалисисварнинг:: NOEXPAND
 
@@ -50,7 +50,7 @@ HRESULT GetHint(
 
 Описание возвращаемых значений см. в разделе [классы и интерфейсы — анализ рукописного ввода](classes-and-interfaces---ink-analysis.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Caution]  
 > Чтобы избежать утечки памяти, вызовите метод [**IUnknown:: Release**](/windows/desktop/api/unknwn/nf-unknwn-iunknown-release) в \* *паналисишинт* , когда больше не нужно использовать узел контекста указания по анализу.
@@ -59,7 +59,7 @@ HRESULT GetHint(
 
 Примером указания по анализу, создающему [**ианалисисварнинг**](ianalysiswarning.md) , является указание анализа, которое содержит неверно написанный фактоид. В этом случае анализ рукописного ввода возвращает [**ианалисисстатус**](ianalysisstatus.md) , содержащий **ианалисисварнинг** , который ссылается на узел контекста указания по анализу с ошибкой фактоид. Кроме того, в этом случае метод [**ианалисисварнинг:: жетварнингкоде**](ianalysiswarning-getwarningcode.md) с предупреждением анализа возвращает значение [**аналисисварнингкоде**](/windows/desktop/tablet/analysiswarningcode) **аналисисварнингкоде \_ фактоиднотсуппортед**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -72,7 +72,7 @@ HRESULT GetHint(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: Безопасность позволяет управлять до
 ms.assetid: b132da61-26b7-4457-9433-4894ca0e640a
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 04e3b6871fe0e465b4394e871537fbb8ca07f6439577833d61a7fe0c3106685f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4c41bfb6d7990c104b60bd9770fde3f45cee0432
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118435999"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571294"
 ---
 # <a name="window-station-security-and-access-rights"></a>Права доступа и безопасность оконной станции
 

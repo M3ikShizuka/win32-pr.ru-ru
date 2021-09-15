@@ -4,12 +4,12 @@ ms.assetid: 2612bbe9-856b-4a81-bffb-6c761035883d
 title: Функция AcquireCredentialsHandle (Kerberos) (SSPI. h)
 ms.topic: reference
 ms.date: 07/25/2019
-ms.openlocfilehash: d90cdd211d6c183ab3c405ba131ddc11be5bbab324478887f8cdbd973784852a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 05a4dd885712e89b812896684f73d60df610e41d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119141577"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571918"
 ---
 # <a name="acquirecredentialshandle-kerberos-function"></a>Функция AcquireCredentialsHandle (Kerberos)
 
@@ -144,7 +144,7 @@ SECURITY_STATUS SEC_Entry AcquireCredentialsHandle(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция **AcquireCredentialsHandle (Kerberos)** возвращает маркер учетных данных участника, например пользователя или клиента, который используется конкретным [*ограниченным делегированием*](../secgloss/s-gly.md). Это может быть обработчик существующих учетных данных, или функция может создать новый набор учетных данных и вернуть их. Этот маркер можно использовать при последующих вызовах функций [**AcceptSecurityContext (Kerberos)**](acceptsecuritycontext--kerberos.md) и [**InitializeSecurityContext (Kerberos)**](initializesecuritycontext--kerberos.md) .
 

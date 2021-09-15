@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: d59913d8a733e4186f2c00e35431d68ebdea839e67103a46873e6f3f64f3a72b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7d642cd209b3e00e2c63f7376e321132a1c0e686
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119449564"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571314"
 ---
 # <a name="row-element"></a>Row, элемент
 
@@ -59,7 +59,7 @@ ms.locfileid: "119449564"
 
 ## <a name="remarks"></a>Remarks
 
-Необязательный элемент.
+Необязательный параметр.
 
 Может возникать один или несколько раз для каждого элемента [**граупсизедефинитион**](windowsribbon-element-groupsizedefinition.md) .
 

@@ -15,11 +15,11 @@ api_location:
 - InkDiv.dll
 - InkDiv.dll.dll
 ms.openlocfilehash: 0084811ee471bee8fe67653dace49fa83642a7fe
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104539455"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571438"
 ---
 # <a name="calldivide-function"></a>Функция Каллдивиде
 
@@ -126,7 +126,7 @@ HRESULT WINAPI CallDivide(
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только классические приложения Windows XP Tablet PC Edition \[\]<br/>                         |
+| Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                         |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                             |
 | Библиотека<br/>                  | <dl> <dt>InkDiv.dll</dt> </dl> |
 

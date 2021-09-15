@@ -18,12 +18,12 @@ keywords:
 - Расширенные API клиента, о
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7eb1994e5e4960613e992f198833f2fb2e3ff2a21181e98bae5d6823fbb31a8c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 538978305e4df952ed97e063b3512ce9fd5cfc34
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119392564"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572194"
 ---
 # <a name="introduction-for-users-of-the-windows-media-format-sdk"></a>общие сведения о пользователях пакета SDK для Windows Media Format
 

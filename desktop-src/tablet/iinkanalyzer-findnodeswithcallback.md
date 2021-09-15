@@ -14,11 +14,11 @@ api_type:
 api_location:
 - IACom.dll
 ms.openlocfilehash: b34501e33d637ca65f13e6e2e5ea0a9001b06198
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103810024"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571419"
 ---
 # <a name="iinkanalyzerfindnodeswithcallback-method"></a>Метод Иинканализер:: Финднодесвискаллбакк
 
@@ -58,7 +58,7 @@ HRESULT FindNodesWithCallBack(
 
 Описание возвращаемых значений см. в разделе [классы и интерфейсы — анализ рукописного ввода](classes-and-interfaces---ink-analysis.md).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 > [!Caution]  
 > Чтобы избежать утечки памяти, вызовите метод [**IUnknown:: Release**](/windows/desktop/api/unknwn/nf-unknwn-iunknown-release) в \* *ппконтекстнодесфаунд* , когда больше не нужно использовать объект.
@@ -73,9 +73,9 @@ HRESULT FindNodesWithCallBack(
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только классические приложения Windows XP Tablet PC Edition \[\]<br/>                                                 |
+| Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                                                 |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                                     |
-| Header<br/>                   | <dl> <dt>Иаком. h (также требуется Иаком \_ i. c)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Иаком. h (также требуется Иаком \_ i. c)</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>IACom.dll</dt> </dl>                          |
 
 

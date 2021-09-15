@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5d276418636857fb7ce76159111b8e8b24519235823225fccb68fa1523b4137d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a278e4a1b4333631741a6a542318a8a55e40b512
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117869613"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571618"
 ---
 # <a name="wm_menuchar-message"></a>\_Сообщение МЕНУЧАР WM
 
@@ -86,7 +86,7 @@ ms.locfileid: "117869613"
 
 Приложение должно обработать это сообщение, если для выбора пункта меню, отображающего точечный рисунок, используется ускоритель.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -98,7 +98,7 @@ ms.locfileid: "117869613"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -111,7 +111,7 @@ ms.locfileid: "117869613"
 [**ловорд**](/previous-versions/windows/desktop/legacy/ms632659(v=vs.85))
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Сочетания клавиш](keyboard-accelerators.md)

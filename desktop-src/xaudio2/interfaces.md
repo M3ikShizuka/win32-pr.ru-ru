@@ -4,12 +4,12 @@ description: В этом разделе содержатся сведения о
 ms.assetid: 96691e00-9ed0-b31c-fbe9-4daaba0daf98
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c6fbf50cd4913f1d66e82c1791777777a639a1d8c6bd7e9b08f41be35af5c0bc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a2d9f2c777a7b98c5cbc78a130c0a1431be5971d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119926434"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571943"
 ---
 # <a name="xaudio2-interfaces"></a>Интерфейсы XAudio2
 

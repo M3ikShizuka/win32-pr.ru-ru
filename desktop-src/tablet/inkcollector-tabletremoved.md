@@ -4,12 +4,12 @@ ms.assetid: 659a9809-fe35-4d34-aa95-af353998c350
 title: Событие InkCollector. Таблетремовед (Мсинкаут. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c4d3c319a4e67a22c81a74c6b5acceba7bd6f19188042fc68ebe4c7c7c8314e5
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: df76c27b1a0d47e456f69a789d17ef6343706284
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119773524"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571407"
 ---
 # <a name="inkcollectortabletremoved-event"></a>Событие InkCollector. Таблетремовед
 
@@ -45,7 +45,7 @@ void TabletRemoved(
 
 Этот метод события определен в \_ \_ \_ интерфейсах диспетчеризации (DISP) иинкколлекторевентс, иинковерлайевентс и иинкпиктуривентс с идентификатором DISPID \_ ицетаблетремовед.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -58,7 +58,7 @@ void TabletRemoved(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: d774c3b2-4caf-460a-ac32-0ed603491d5f
 title: Запуск приложений (ShellExecute, ShellExecuteEx, ШЕЛЛЕКСЕКУТЕИНФО)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3b871e3560ce1cb0c38e91d6ea3baa7a9364c16e500be949b734f9b4b195a24e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b3ae5640acdbf4d959b97607cc66a4fd8fe8ac24
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118720222"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572514"
 ---
 # <a name="launching-applications-shellexecute-shellexecuteex-shellexecuteinfo"></a>Запуск приложений (ShellExecute, ShellExecuteEx, ШЕЛЛЕКСЕКУТЕИНФО)
 

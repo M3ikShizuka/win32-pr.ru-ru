@@ -4,12 +4,12 @@ ms.assetid: 532bcbfb-9824-4bed-9cd6-115f6246a300
 title: System. Devices. Аепконтаинер. Суппортспоситионинг
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5fb03d16266f3174fd2d4c8becb14c24f322b85489f73f1cbc2d6de4e8545fcf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ba7c645dc287b1aba34d19cb6ec9a8ad9f2933a0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119458824"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572643"
 ---
 # <a name="systemdevicesaepcontainersupportspositioning"></a>System. Devices. Аепконтаинер. Суппортспоситионинг
 
@@ -31,7 +31,7 @@ propertyDescription
       IsInnate = true
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значения PKEY определены в списке PKEY. h.
 

@@ -11,12 +11,12 @@ keywords:
 - ASF (Расширенный системный формат), функции
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 59207c12c678cc313023edc20e544eacae4351bd32798c3a7d767a80d9817c7b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9a4764a318ac7cd420296b15bb4a5818ded06384
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117848143"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572210"
 ---
 # <a name="file-writing-features"></a>Функции записи файлов
 

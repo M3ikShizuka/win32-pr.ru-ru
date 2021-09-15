@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - PortableDevice.h
-ms.openlocfilehash: e5c58652c27d62e2954e86b9170e2f0a2d4ae4021743ced769adbf46a1f082b8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7687488c38f95fd6d7e7b69d64ad6ae32631700d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118431061"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572123"
 ---
 # <a name="command-parameters"></a>Параметры команд
 
@@ -43,7 +43,7 @@ Windows Портативные устройства (WPD) поддерживаю
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -53,7 +53,7 @@ Windows Портативные устройства (WPD) поддерживаю
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

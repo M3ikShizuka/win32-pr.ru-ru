@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Wia.h
-ms.openlocfilehash: 43b818c3adc9926c4ba27f11f5d489ffc0b97e4443d0427e7a12067e9062072a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a113c9493128a634ce61ccf7c0362bf7a9767f72
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118440449"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572287"
 ---
 # <a name="iwiaimagefilterinitializefilter-method"></a>Метод Ивиаимажефилтер:: Инитиализефилтер
 
@@ -64,11 +64,11 @@ HRESULT InitializeFilter(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод вызывается, когда приложение вызывает [**загрузку**](-wia-iwiatransfer-download.md) и когда приложение вызывает функцию компонента предварительной версии WIA 2,0 `GetNewPreview` . **Ивиаимажефилтер:: инитиализефилтер** сохраняет ссылки на *pWiaItem2* и *пвиатрансферкаллбакк* для передачи в эти функции. Эти два указателя интерфейса должны храниться как переменные члена, и [IUnknown:: AddRef](/windows/win32/api/unknwn/nf-unknwn-iunknown-addref) следует вызывать для каждого из них. Указатели интерфейса также необходимы в реализации фильтра [**трансферкаллбакк**](-wia-iwiatransfercallback-transfercallback.md) и [**жетнекстстреам**](-wia-iwiatransfercallback-getnextstream.md) во время получения образа.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ HRESULT InitializeFilter(
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                               |
-| Header<br/>                   | <dl> <dt>WIA. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>WIA. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>WIA. idl</dt> </dl> |
 
 

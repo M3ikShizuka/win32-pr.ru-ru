@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Scanprofileui.h
-ms.openlocfilehash: 9afc030c485b1c4a873416c22217ce159601aad5e619f16ff799dcc68d5375e1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c8791461db76c72de81216aef188886f63fde4f3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119706344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571398"
 ---
 # <a name="iscanprofileui-interface"></a>Интерфейс Исканпрофилеуи
 

@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.wind
 ms:contentKeyID: 55104391
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: d40b7d28eaa204fb5790bb5ea024da615004e17a63890bfab8638cb477267242
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 47086ba03982e21703ca89c2da41121824121cb4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120066854"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571818"
 ---
 # <a name="durablecommitcallback-members"></a>Элементы Дураблекоммиткаллбакк
 
@@ -149,9 +149,9 @@ ms.locfileid: "120066854"
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Дураблекоммиткаллбакк](./durablecommitcallback-class.md)
 

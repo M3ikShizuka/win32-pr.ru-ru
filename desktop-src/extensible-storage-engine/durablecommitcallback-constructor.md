@@ -25,11 +25,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: ade1952615b98d9ea41a7a1b83d0bf1a3c6fc8d5
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103817576"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571819"
 ---
 # <a name="durablecommitcallback-constructor"></a>Конструктор Дураблекоммиткаллбакк
 
@@ -63,7 +63,7 @@ public DurableCommitCallback(
 
 #### <a name="parameters"></a>Параметры
 
-  - экземпляр  
+  - instance  
     Тип: [Microsoft.ISAM.ESENT.Interop.JET_INSTANCE](./jet-instance-structure.md)  
     
     Экземпляр, с которым необходимо связать обратный вызов.
@@ -77,7 +77,7 @@ public DurableCommitCallback(
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Дураблекоммиткаллбакк](./durablecommitcallback-class.md)
 

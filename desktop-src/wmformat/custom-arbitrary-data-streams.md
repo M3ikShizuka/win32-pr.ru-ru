@@ -12,12 +12,12 @@ keywords:
 - настраиваемые произвольные потоки данных
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fde40c7283620aba9c0bbdd0a1b376538ce7e4f22ac12e9fcdfe78d75195a516
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0c031e6d02864cae326a9cadb48577e1ea76c0e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119027942"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572218"
 ---
 # <a name="custom-arbitrary-data-streams"></a>настраиваемые произвольные данные Потоки
 

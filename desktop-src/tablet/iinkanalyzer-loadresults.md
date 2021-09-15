@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - IACom.dll
-ms.openlocfilehash: 47f385334f1b16f3d7de46b8cfc53ee6b94f485c9768f973b745af335cd5c12f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 76c7fed63b38f1b4fc058fbe7676a727c2d47f19
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119713384"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572398"
 ---
 # <a name="iinkanalyzerloadresults-method"></a>Метод Иинканализер:: Лоадресултс
 
@@ -90,7 +90,7 @@ HRESULT LoadResults(
 
 Описание возвращаемых значений см. в разделе [классы и интерфейсы — анализ рукописного ввода](classes-and-interfaces---ink-analysis.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Когда [**иинканализер**](iinkanalyzer.md) добавляет [**иконтекстноде**](icontextnode.md) из сохраненных результатов, он присваивает **иконтекстноде** новый глобальный уникальный идентификатор (GUID) (см. раздел [**иконтекстноде:: жетпропертидата**](icontextnode-getpropertydata.md) и [Свойства контекстного узла](context-node-properties.md)).
 
