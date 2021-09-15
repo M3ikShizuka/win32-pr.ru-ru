@@ -5,11 +5,11 @@ ms.assetid: FB0A29B9-D1F7-4F13-AA75-5963A0699F7A
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 727aa0f46abb9dcffa1d71dac0880c401003cff5
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "104410821"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460194"
 ---
 # <a name="cc-tracelogging-examples"></a>Примеры Трацелоггинг в C/C++
 
@@ -18,7 +18,7 @@ ms.locfileid: "104410821"
 > [!IMPORTANT]
 > Свяжите advapi32. lib при компиляции этих примеров.
 
- 
+ 
 
 -   [Встроенные типы данных журнала](#log-intrinsic-data-types)
 -   [Поля "имя события"](#name-event-fields)
@@ -439,13 +439,13 @@ Error   2       error LNK2001: unresolved external symbol __imp__EventSetInforma
 Error   3       error LNK2001: unresolved external symbol __imp__EventRegister@16       App.xaml.obj    PrintPreview
 ```
 
-Fix
+Исправление
 
 Устраните эту ошибку, связав advapi32. lib в проекте.
 
- 
+ 
 
- 
+ 
 
 
 

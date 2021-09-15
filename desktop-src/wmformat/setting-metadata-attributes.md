@@ -9,12 +9,12 @@ keywords:
 - метаданные, задание атрибутов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fa352a83e758b97bde6088377f8461a62b2d5071314d45f4978035bec219a5cc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bfde27d7bc965076d1a4b5f9674c6d198ce61da5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118197516"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570202"
 ---
 # <a name="setting-metadata-attributes"></a>Задание атрибутов метаданных
 

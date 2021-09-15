@@ -4,12 +4,12 @@ ms.assetid: 710f3ef1-bbc3-416d-9faf-aa4a716007c2
 title: XPS_COLOR (Кспсобжектмодел. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f771bcbb516352b2ef689060c11003808d434be8059d16af78fe8db646c97000
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 34c148c2a5452154bfe33b0c74d695fe78f0cdad
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118971153"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570527"
 ---
 # <a name="xps_color"></a>\_Цвет XPS
 

@@ -27,11 +27,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 3d98f1b49f5e4815f2ffaeb5d796c6139ad582e4
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103809034"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570734"
 ---
 # <a name="jet_setcolumniblongvalue-property"></a>Свойство JET_SETCOLUMN. Иблонгвалуе
 
@@ -66,7 +66,7 @@ public int ibLongValue { get; set; }
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс JET_SETCOLUMN](./jet-setcolumn-class.md)
 

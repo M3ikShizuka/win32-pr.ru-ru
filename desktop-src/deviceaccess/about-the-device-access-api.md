@@ -4,12 +4,12 @@ description: API доступа к устройствам предназначе
 ms.assetid: DDF115A2-A811-450A-80F7-AAFB0EEA4037
 ms.topic: article
 ms.date: 02/11/2020
-ms.openlocfilehash: 08d603e74ff33250bbc5a65e440fc47a0103cd6eb996badf94dbdc51b6b2d3e1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 213c7ecc618e4b183ee879d23db3b2c0eca35397
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119755024"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570979"
 ---
 # <a name="about-the-device-access-api"></a>Сведения об API доступа к устройствам
 

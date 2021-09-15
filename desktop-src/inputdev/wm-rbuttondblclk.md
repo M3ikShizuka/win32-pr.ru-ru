@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a4b2ee4722825f0404d590d593a2c7f72c815f8cfd2ad4991b0a604c188bfbfb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2acde97e19b02ad08b3833f1c1c4eb3e0dd4b147
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119829874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572910"
 ---
 # <a name="wm_rbuttondblclk-message"></a>\_Сообщение РБУТТОНДБЛКЛК WM
 
@@ -74,7 +74,7 @@ ms.locfileid: "119829874"
 
 Если приложение обрабатывает это сообщение, оно должно вернуть ноль.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Только окна с стилем **CS \_ дблклкс** могут получить сообщения **WM \_ рбуттондблклк** , которые система создает каждый раз, когда пользователь нажимает, отпускает и снова нажимает правую кнопку мыши в пределах предельного времени двойного щелчка системы. Двойной щелчок правой кнопкой мыши на самом деле приводит к созданию четырех сообщений: [**WM \_ рбуттондовн**](wm-rbuttondown.md), [**WM \_ Рбуттонуп**](wm-rbuttonup.md), **WM \_ рбуттондблклк** и **WM \_ рбуттонуп** .
 
@@ -138,7 +138,7 @@ yPos = GET_Y_LPARAM(lParam);
 [**WM \_ рбуттонуп**](wm-rbuttonup.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с помощью мыши](mouse-input.md)

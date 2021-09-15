@@ -14,12 +14,12 @@ keywords:
 - асинхронные читатели, чтение файлов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bea24a8f09cff8fe3e4a1f1cfb383f5569e968200bbbe6f25f2c8f225b3c18f5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0807c0701dd596f943010ad613b08ef9fe2c415c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119084511"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458915"
 ---
 # <a name="reading-files-with-the-asynchronous-reader"></a>Чтение файлов с помощью асинхронного модуля чтения
 

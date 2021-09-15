@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4b6c9d4bdb4a59181fe3a413cca6861bc3663367cca9e7b34e0647de88978b0b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f7ed27a91ddf9506cd12b988db4bd141a988c13e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118482521"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572894"
 ---
 # <a name="wm_sethotkey-message"></a>\_Сообщение СЕСОТКЭЙ WM
 
@@ -84,7 +84,7 @@ ms.locfileid: "118482521"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Горячая клавиша не может быть связана с дочерним окном.
 
@@ -112,7 +112,7 @@ ms.locfileid: "118482521"
 
 <dl> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**RegisterHotKey**](/windows/win32/api/winuser/nf-winuser-registerhotkey)
@@ -124,7 +124,7 @@ ms.locfileid: "118482521"
 [**WM \_ сискомманд**](/windows/desktop/menurc/wm-syscommand)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с клавиатуры](keyboard-input.md)

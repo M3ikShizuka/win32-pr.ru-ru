@@ -4,12 +4,12 @@ ms.assetid: 64be5d80-68d2-437b-8018-5812ce606a15
 title: System. Датекомплетед
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4a3934a85535a74e32dc771a1bcc838fe5db279e9529a7eddc82e70c7d1d2c5a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e12d5e980b72c6feebc86fd0c6ca0b0f665acbba
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118055073"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570494"
 ---
 # <a name="systemdatecompleted"></a>System. Датекомплетед
 

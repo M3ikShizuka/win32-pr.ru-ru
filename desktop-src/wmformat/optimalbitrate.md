@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5f670c2acd2f2190a5ee2bfd76994c219c6f967dbbd933520a8d4627236a0d36
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ff71c6b64cbc4bf4ccc4f346e62a5eae066e78ce
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119930634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459331"
 ---
 # <a name="optimalbitrate"></a>оптималбитрате
 
@@ -31,7 +31,7 @@ g \_ всзвмоптималбитрате
 
 **ВМТ, \_ тип \_ DWORD**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это закодированный атрибут.
 

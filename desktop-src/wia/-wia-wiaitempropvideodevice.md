@@ -16,12 +16,12 @@ api_type:
 - HeaderDef
 api_location:
 - wiadef.h
-ms.openlocfilehash: 9652ac72d6e73a9c44d2f4b299823dad9cc566bb1c7c0129af497ea213a6e5d8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f02991cb5c2b8cc15eb89e335ef1e46442c89510
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118207372"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459013"
 ---
 # <a name="video-wia-device-property-constants"></a>Константы свойств устройства WIA видео
 
@@ -53,7 +53,7 @@ ms.locfileid: "118207372"
 |-------------------------------------|-------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ настольных приложений Windows XP\]<br/>              |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                |
-| Header<br/>                   | <dl> <dt>Виадеф. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Виадеф. h</dt> </dl> |
 
 
 

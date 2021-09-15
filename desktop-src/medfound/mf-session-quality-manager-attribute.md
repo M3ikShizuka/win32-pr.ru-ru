@@ -4,12 +4,12 @@ ms.assetid: 24b4a5e3-84f1-44d0-a8ac-75c127ec8a8a
 title: Атрибут MF_SESSION_QUALITY_MANAGER (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 049ecde194f7cccf97460ac99c566815d43b222132f72b70a0874719fc663c07
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 736f37a46c3aeb4216243f058ea7fb8a33bdbd1b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117691584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572783"
 ---
 # <a name="mf_session_quality_manager-attribute"></a>\_ \_ Атрибут диспетчера качества сеанса MF \_
 
@@ -19,7 +19,7 @@ ms.locfileid: "117691584"
 
 **GUID**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут можно использовать для предоставления пользовательского диспетчера качества для сеанса мультимедиа.
 
@@ -45,7 +45,7 @@ ms.locfileid: "117691584"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

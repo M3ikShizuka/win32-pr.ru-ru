@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Wiascr.dll
-ms.openlocfilehash: 3cbf60c935a88a62786c7c516ec0e768d65019c02d4419c44d928cee704a67b3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9b70f7a1698ecdb4de023786f21a6ef9d55f681d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119450784"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573155"
 ---
 # <a name="itemitemtype-property"></a>Свойство Item. ItemType
 
@@ -53,7 +53,7 @@ propVal = Item.ItemType
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Элемент может иметь более одного типа. Например, все изображения имеют типы "Image" и "File". **ItemType** возвращает строку, включающую все допустимые типы элемента, разделенные точкой с запятой. Например, "Image; File". В этой строке нет пробелов, и в конце отсутствует точка с запятой.
 

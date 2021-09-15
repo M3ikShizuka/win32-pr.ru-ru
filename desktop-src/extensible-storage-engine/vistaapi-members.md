@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.vist
 ms:contentKeyID: 55104282
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 1ada48839d05f1eaeec5eae5fe541ea89c5e0b641bba35441b3f189bf2973ba0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2c5e4c89dcf37285634fd6fc5e53468bf98e4d07
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119106842"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469426"
 ---
 # <a name="vistaapi-members"></a>Элементы Вистаапи
 

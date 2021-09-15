@@ -15,12 +15,12 @@ api_type:
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: cbdd472d118a5ec9d49c5f105ee6b8e8ef2e3ea540f6f1954bad17273e9e030f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b6778c29793f01ff7f1e5fd6424fb6795a29e64c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119608564"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570882"
 ---
 # <a name="d3dx12parsepipelinestream-function"></a>Функция D3DX12ParsePipelineStream
 
@@ -66,7 +66,7 @@ HRESULT inline D3DX12ParsePipelineStream(
 
 Этот метод возвращает значение HRESULT Success (**S \_ OK** или **E \_ INVALIDARG** Error), если обнаружен неизвестный тип подобъекта, если описание потока пустое, равно null или содержит дубликаты подобъектов (включая производные подобъекты) или если *пкаллбаккс* имеет значение null. В каждом случае, когда \_ возвращается E INVALIDARG, сначала вызывается соответствующий обратный вызов.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,7 +78,7 @@ HRESULT inline D3DX12ParsePipelineStream(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

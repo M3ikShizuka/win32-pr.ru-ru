@@ -4,12 +4,12 @@ ms.assetid: 6e567c09-8763-4866-bf02-ad6651b454db
 title: Запрос индекса с помощью Исеарчкуерихелпер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1db9bf2fe8d593d95a1a8f58e25faebb4b76a65ac28fe4c1bc6d6dc2f25ab87d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 56b9d970a1e3f416081d3b7fd3e9d6c2af0a2bca
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118052106"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460576"
 ---
 # <a name="querying-the-index-with-isearchqueryhelper"></a>Запрос индекса с помощью Исеарчкуерихелпер
 
@@ -146,7 +146,7 @@ ORDER BY "System.ItemUrl"
 
 Элементы представлены в хранилище свойств в виде строки. Каждая строка содержит ряд столбцов, представляющих свойства этого элемента. Не все элементы будут иметь значение для заданного свойства. Например, звуковой файл обычно не содержит значение свойства System. Property. Фромнаме, но может содержать сведения о System. Music. исполнителя.
 
-С помощью этих методов вы получите доступ к свойству или измените его с помощью строки в Юникоде с разделителями-запятыми, заканчивающейся нулем, которая указывает одно или несколько имен столбцов в хранилище свойств: "System.Docумент. Автор, System.Docумент. Title ".
+С помощью этих методов вы получите доступ к свойству или измените его с помощью строки в Юникоде с разделителями-запятыми, заканчивающейся нулем, которая указывает одно или несколько имен столбцов хранилища свойств: "System. Document. Author, System. Document. Title"
 
 ## <a name="working-with-query-term-expansion"></a>Работа с расширением термина запроса
 

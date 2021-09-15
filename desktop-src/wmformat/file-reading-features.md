@@ -18,12 +18,12 @@ keywords:
 - чтение файлов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9e8efb7bc0fca898c1a63db586b158b39b4bb9daa9ad051e7a61fe8c4a5d6b24
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a83d3ce112d0d9e47626b4f7850f760da5c6583e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119930534"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570234"
 ---
 # <a name="file-reading-features"></a>Функции чтения файлов
 
@@ -56,7 +56,7 @@ ms.locfileid: "119930534"
 
 <dl> <dt>
 
-[**Функции**](features.md)
+[**Компоненты**](features.md)
 </dt> <dt>
 
 [**Чтение файлов ASF**](reading-asf-files.md)

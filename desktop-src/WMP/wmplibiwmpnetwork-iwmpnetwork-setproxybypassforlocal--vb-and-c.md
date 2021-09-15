@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: dc751d05c87e780a2006e232d0b5d95e5d937e2719ad7e0c17ef6ac3d4b15333
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 35f869125d43529a039804fe28c0f0dc493f481e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118331147"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459269"
 ---
 # <a name="iwmpnetworksetproxybypassforlocal-method"></a>Метод Ивмпнетворк:: Сетпроксибипассфорлокал
 
@@ -73,7 +73,7 @@ Implements IWMPNetwork.setProxyBypassForLocal
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод не действует, если значение, полученное из **ивмпнетворк. жетпроксисеттингс** , равно 2 (используйте параметры вручную).
 

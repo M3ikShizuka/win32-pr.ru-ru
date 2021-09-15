@@ -15,11 +15,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: d14cdea89535fc680874905a9fb2b3358595baab
-ms.sourcegitcommit: ebd3ce6908ff865f1ef66f2fc96769be0aad82e1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "104533125"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570602"
 ---
 # <a name="mediarenderer-class"></a>Класс Медиарендерер
 
@@ -64,13 +64,13 @@ ms.locfileid: "104533125"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **медиарендерер** имеет следующие свойства.
 
 
 
-| Свойство                                                                | Тип доступа          | Описание                                                                                 |
+| Свойство.                                                                | Тип доступа          | Описание                                                                                 |
 |:------------------------------------------------------------------------|:---------------------|:--------------------------------------------------------------------------------------------|
 | [**актионинформатион**](mediarenderer-actioninformation.md)<br/> | Только для чтения<br/> | Возвращает сведения о том, какие методы в настоящее время можно вызывать для ДМР.<br/>        |
 | [**исаудиосуппортед**](mediarenderer-isaudiosupported.md)<br/>   | Только для чтения<br/> | Возвращает значение, указывающее, способен ли ДМР воспроизведение звукового содержимого.<br/> |

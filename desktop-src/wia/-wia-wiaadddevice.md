@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Wiaguid.lib
 - Wiaguid.dll
-ms.openlocfilehash: 81dcff3cdca3459126751b12b86f1e11adc2b4fec8926f69211f0508253b64fd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 694265f0a59096a5a6a58ccbf4e43c92e21fe9b1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118965403"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570354"
 ---
 # <a name="wiaadddevice-function"></a>Функция Виаадддевице
 
@@ -46,7 +46,7 @@ void WINAPI WiaAddDevice(void);
 
 Эта функция должна вызываться с учетными данными администратора. При работе в режиме управления учетными записями пользователей (LUA) процесс должен быть повышен.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ void WINAPI WiaAddDevice(void);
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

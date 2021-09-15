@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 54e3ad24f12333dbc9db5baf977300d1755a9cecc60739504da05478d5acc48e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ced433b13f5af2d1df8c12dba023b7fbb55c5f7d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117745756"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459257"
 ---
 # <a name="iwmpplaylistgetiteminfo-method"></a>Метод Ивмпплайлист:: getItemInfo
 
@@ -64,7 +64,7 @@ Implements IWMPPlaylist.getItemInfo
 
 **Строка System. String** , которая является значением атрибута списка воспроизведения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Перед использованием этого метода необходимо иметь доступ на чтение к библиотеке. Дополнительные сведения см. в разделе [доступ к библиотеке](library-access.md).
 

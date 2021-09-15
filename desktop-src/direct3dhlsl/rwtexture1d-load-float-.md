@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: f8d502d6e4fd1f13355c17fbd1ef9c42b3c6de2ec5aa20176aec562af807dd3e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e78cd12502ada91e48df1ce88be6a19fb714327f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119981624"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570838"
 ---
 # <a name="rwtexture1dloadint-function"></a>Функция RWTexture1D:: Load (int)
 
@@ -54,13 +54,13 @@ ms.locfileid: "119981624"
 
 Возвращаемый тип соответствует типу в объявлении для объекта [**RWTexture1D**](sm5-object-rwtexture1d.md) .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция поддерживается для следующих типов шейдеров:
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 |        |      |        |          | x     | x       |
 
@@ -68,7 +68,7 @@ ms.locfileid: "119981624"
 
  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

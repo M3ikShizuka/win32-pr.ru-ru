@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c9ff50c2983d911e7aa3951e34f908d9982b623912539aa4e162c9cccb2f5256
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a4260f5c960650cf6c04a1dd8b39d887f711fb8a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118568455"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459247"
 ---
 # <a name="iwmpplaylistcollectiongetall-method"></a>Метод Ивмпплайлистколлектион:: Жеталл
 
@@ -53,7 +53,7 @@ Implements IWMPPlaylistCollection.getAll
 
 Интерфейс **вмплиб. ивмпплайлистаррай** для извлеченного массива списков воспроизведения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Перед вызовом этого метода необходимо иметь доступ на чтение к библиотеке. Дополнительные сведения см. в разделе [доступ к библиотеке](library-access.md).
 

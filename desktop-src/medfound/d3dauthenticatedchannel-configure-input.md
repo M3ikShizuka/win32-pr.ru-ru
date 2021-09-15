@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3d9types.h
-ms.openlocfilehash: de968c83fee7ae68dcd756bdf83d529593eeb30b3c2776b03cda812bcd442c50
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 82cd60dbb65517beb65a3a7cb413e1d93ac72062
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118974743"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572863"
 ---
 # <a name="d3dauthenticatedchannel_configure_input-structure"></a>D3DAUTHENTICATEDCHANNEL \_ Настройка \_ входной структуры
 
@@ -38,7 +38,7 @@ typedef struct _D3DAUTHENTICATEDCHANNEL_CONFIGURE_INPUT {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -70,7 +70,7 @@ typedef struct _D3DAUTHENTICATEDCHANNEL_CONFIGURE_INPUT {
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -82,7 +82,7 @@ typedef struct _D3DAUTHENTICATEDCHANNEL_CONFIGURE_INPUT {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

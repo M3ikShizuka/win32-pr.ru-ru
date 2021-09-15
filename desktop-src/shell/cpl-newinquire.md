@@ -13,12 +13,12 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: f9455f6f2b89d7b63ad663bcd17d31363ab2c97fd1ba923ba22ebec62e0b04d7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 90c5adf31c01fbab1b62aafd0714d165092f4e23
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119456354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460528"
 ---
 # <a name="cpl_newinquire-message"></a>\_Сообщение CPL невинкуире
 

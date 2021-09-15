@@ -15,11 +15,11 @@ api_location:
 - wisptis.exe
 - wisptis.exe.dll
 ms.openlocfilehash: e2250401f3888bd07ff250549c11c34e6a54576d
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103913296"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460231"
 ---
 # <a name="itableteventsinkcursoroutofrange-method"></a>Метод Итаблетевентсинк:: Курсораутофранже
 
@@ -76,7 +76,7 @@ HRESULT CursorOutOfRange(
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только классические приложения Windows XP Tablet PC Edition \[\]<br/>                          |
+| Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                          |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                              |
 | Библиотека<br/>                  | <dl> <dt>Wisptis.exe</dt> </dl> |
 

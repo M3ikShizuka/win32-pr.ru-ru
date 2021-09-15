@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.jet_
 ms:contentKeyID: 55103926
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: acc39967deb7fd4f636aa203f82381ee2e742d873038d46559f10d8d0a287865
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7f08d8fe464aec1ccf1eff51598ff8ef506d8707
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118073525"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570730"
 ---
 # <a name="jet_tablecreate-members"></a>Элементы JET_TABLECREATE
 
@@ -199,9 +199,9 @@ ms.locfileid: "118073525"
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс JET_TABLECREATE](./jet-tablecreate-class.md)
 

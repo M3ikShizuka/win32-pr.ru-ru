@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - dxva.h
-ms.openlocfilehash: 7dca1db868b4b268e71175f8f44aa198a6ebb45c8a14f8bfc1bec7044d5545f0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 89afef6f39b3aa196d8b1013e3d8873e329ce6ef
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119958214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570626"
 ---
 # <a name="idirect3dvideodevice9-interface"></a>Интерфейс IDirect3DVideoDevice9
 

@@ -4,12 +4,12 @@ ms.assetid: c59f7029-934f-4b04-bab3-3ea2e3ac3a0e
 title: System. Датеарчивед
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bdf0e4571221f01c7abbcf72a5dc387db4aced197cceef34b35ab9904d2ef462
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2032562b64f8c89a10bce29c0c3614b9374dbfb7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118055164"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570495"
 ---
 # <a name="systemdatearchived"></a>System. Датеарчивед
 

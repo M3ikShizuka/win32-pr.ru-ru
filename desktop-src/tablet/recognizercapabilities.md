@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - IACom.h
-ms.openlocfilehash: 96e932b8e47f323198e1b0cc87da0df7839a593a76850c00c2c2e4d095854851
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b2471e77fec02900804de831fc1197c071b9f566
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119091454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459403"
 ---
 # <a name="recognizercapabilities-enumeration"></a>Перечисление Рекогнизеркапабилитиес
 
@@ -190,7 +190,7 @@ typedef enum RecognizerCapabilities {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это перечисление позволяет побитовое сочетание значений его членов. Используйте это перечисление, чтобы найти установленный распознаватель рукописного ввода, который поддерживает необходимые атрибуты.
 
@@ -202,7 +202,7 @@ typedef enum RecognizerCapabilities {
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                                                 |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                                     |
-| Header<br/>                   | <dl> <dt>Иаком. h (также требуется Иаком \_ i. c)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Иаком. h (также требуется Иаком \_ i. c)</dt> </dl> |
 
 
 

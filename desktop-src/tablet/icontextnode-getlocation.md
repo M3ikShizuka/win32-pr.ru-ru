@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - IACom.dll
-ms.openlocfilehash: f43ba280e1e0e6ac345089b52bc7974adf53cf9edee17f8273c28158f526de57
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 13366442399961eaba7a411b1b3c87171f0879b8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118044835"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570415"
 ---
 # <a name="icontextnodegetlocation-method"></a>Метод Иконтекстноде:: OnLocation
 
@@ -153,7 +153,7 @@ HRESULT CMyClass::GetNodeInformation(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

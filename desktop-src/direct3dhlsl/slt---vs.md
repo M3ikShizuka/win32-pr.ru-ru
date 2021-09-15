@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 76117b802826d9c8b95264cdc07071c85db4a395e66124fc923ba5f9f11b9d7e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f6476ec24f82295d56b04682dfa4320547672b43
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120095184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459188"
 ---
 # <a name="slt---vs"></a>SLT — VS
 
@@ -31,13 +31,13 @@ ms.locfileid: "120095184"
 
  
 
-where
+где
 
 -   DST — это регистр назначения.
 -   src0 является исходным регистром.
 -   src1 является исходным регистром.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 
 
@@ -61,7 +61,7 @@ dest.w = (src0.w < src1.w) ? 1.0f : 0.0f;
 
 
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

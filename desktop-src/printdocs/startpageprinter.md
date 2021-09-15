@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Spoolss.dll
-ms.openlocfilehash: 974c2f5dcc4c821602d29a4eed7ced5ad1caa48f0e5ded664a705940d88305b4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f8d1c5cc296fae1b166b891fc881a6abcdb6b2af
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118470136"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459445"
 ---
 # <a name="startpageprinter-function"></a>Функция Стартпажепринтер
 
@@ -52,7 +52,7 @@ BOOL StartPagePrinter(
 
 Если функция выполняется неудачно, возвращается нулевое значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Это блокирующая или синхронная функция, которая может не возвращать значение немедленно. Скорость возврата этой функцией зависит от факторов времени выполнения, таких как состояние сети, Конфигурация сервера печати и факторы реализации драйвера принтера, которые трудно предсказать при написании приложения. Вызов этой функции из потока, который управляет взаимодействием с пользовательским интерфейсом, может привести к невозможности реагирования приложения.

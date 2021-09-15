@@ -4,12 +4,12 @@ ms.assetid: 37E878DC-962F-4E30-8D11-99975BB9EBA4
 title: Идентификация источника входных данных
 ms.topic: article
 ms.date: 02/05/2020
-ms.openlocfilehash: 8208a79dc7c4c7e089c1d951d46b0d3aade483c8a09ba5719e62753d78b62a73
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 395cfbe31a3bb66cf75facf62ac558cec2228e89
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118482985"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572922"
 ---
 # <a name="input-source-identification"></a>Идентификация источника входных данных
 

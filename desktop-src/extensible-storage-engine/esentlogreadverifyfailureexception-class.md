@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: b7efebe0d273891d7f20346b22ad2c2873cd035e76f3318d7f021a936dfdcc91
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 937d3fa0b721b66d072817ba12c2cf8ba97d5cdd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119040922"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570791"
 ---
 # <a name="esentlogreadverifyfailureexception-class"></a>Класс Есентлогреадверифифаилуриксцептион
 
@@ -68,9 +68,9 @@ public sealed class EsentLogReadVerifyFailureException : EsentCorruptionExceptio
 
 Любые общедоступные статичные (общие в Visual Basic) члены этого типа являются потокобезопасными. Потокобезопасная работа с членами экземпляров типа не гарантируется.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Элементы Есентлогреадверифифаилуриксцептион](./esentlogreadverifyfailureexception-members.md)
 

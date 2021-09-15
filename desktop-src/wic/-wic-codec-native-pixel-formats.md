@@ -4,12 +4,12 @@ ms.assetid: 348b6d15-e339-4dce-99f3-4d639ee9bf7d
 title: Общие сведения о форматах пикселей в машинном код
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 379e67d422ccbd05ef178e67eb25c973e6b5943ef85d22873097f245f8914a23
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4df37481399ac8193effc5d8f93aa49050460ee6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118206342"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570338"
 ---
 # <a name="native-pixel-formats-overview"></a>Общие сведения о форматах пикселей в машинном код
 
@@ -207,8 +207,8 @@ WIC поддерживает несколько форматов пикселе�
 | GUID \_ WICPixelFormat8bppGray            | 1             | 8                | 8              | UINT         |
 | GUID \_ WICPixelFormat16bppGray           | 1             | 16               | 16             | UINT         |
 | GUID \_ WICPixelFormat16bppGrayFixedPoint | 1             | 16               | 16             | FixedPoint   |
-| GUID \_ WICPixelFormat16bppGrayHalf       | 1             | 16               | 16             | Тип с плавающей запятой        |
-| GUID \_ WICPixelFormat32bppGrayFloat      | 1             | 32               | 32             | Тип с плавающей запятой        |
+| GUID \_ WICPixelFormat16bppGrayHalf       | 1             | 16               | 16             | Float        |
+| GUID \_ WICPixelFormat32bppGrayFloat      | 1             | 32               | 32             | Float        |
 | GUID \_ WICPixelFormat32bppGrayFixedPoint | 1             | 32               | 32             | FixedPoint   |
 
 
@@ -228,14 +228,14 @@ WIC поддерживает несколько форматов пикселе�
 | GUID \_ WICPixelFormat32bppBGR             | 3             | 8                | 32             | UINT         |
 | GUID \_ WICPixelFormat32bppRGBA            | 4             | 8                | 32             | UINT         |
 | GUID \_ WICPixelFormat32bppBGRA            | 4             | 8                | 32             | UINT         |
-| GUID \_ WICPixelFormat32bppRGBE\*          | 4             | 8                | 32             | Тип с плавающей запятой        |
+| GUID \_ WICPixelFormat32bppRGBE\*          | 4             | 8                | 32             | Float        |
 | GUID \_ WICPixelFormat32bppPRGBA           | 4             | 8                | 32             | UINT         |
 | GUID \_ WICPixelFormat32bppPBGRA           | 4             | 8                | 32             | UINT         |
 | GUID \_ WICPixelFormat48bppRGB             | 3             | 16               | 48             | UINT         |
 | GUID \_ WICPixelFormat48bppBGR             | 3             | 16               | 48             | UINT         |
 | GUID \_ WICPixelFormat48bppRGBFixedPoint   | 3             | 16               | 48             | Фиксированный        |
 | GUID \_ WICPixelFormat48bppBGRFixedPoint   | 3             | 16               | 48             | Фиксированный        |
-| GUID \_ WICPixelFormat48bppRGBHalf         | 3             | 16               | 48             | Тип с плавающей запятой        |
+| GUID \_ WICPixelFormat48bppRGBHalf         | 3             | 16               | 48             | Float        |
 | GUID \_ WICPixelFormat64bppRGBA            | 4             | 16               | 64             | UINT         |
 | GUID \_ WICPixelFormat64bppBGRA            | 4             | 16               | 64             | UINT         |
 | GUID \_ WICPixelFormat64bppPRGBA           | 4             | 16               | 64             | UINT         |
@@ -243,12 +243,12 @@ WIC поддерживает несколько форматов пикселе�
 | GUID \_ WICPixelFormat64bppRGBFixedPoint   | 3             | 16               | 64             | Фиксированный        |
 | GUID \_ WICPixelFormat64bppRGBAFixedPoint  | 4             | 16               | 64             | Фиксированный        |
 | GUID \_ WICPixelFormat64bppBGRAFixedPoint  | 4             | 16               | 64             | Фиксированный        |
-| GUID \_ WICPixelFormat64bppRGBHalf         | 3             | 16               | 64             | Тип с плавающей запятой        |
-| GUID \_ WICPixelFormat64bppRGBAHalf        | 4             | 16               | 64             | Тип с плавающей запятой        |
+| GUID \_ WICPixelFormat64bppRGBHalf         | 3             | 16               | 64             | Float        |
+| GUID \_ WICPixelFormat64bppRGBAHalf        | 4             | 16               | 64             | Float        |
 | GUID \_ WICPixelFormat96bppRGBFixedPoint   | 3             | 32               | 96             | Фиксированный        |
-| GUID \_ WICPixelFormat128bppRGBFloat       | 3             | 32               | 128            | Тип с плавающей запятой        |
-| GUID \_ WICPixelFormat128bppRGBAFloat      | 4             | 32               | 128            | Тип с плавающей запятой        |
-| GUID \_ WICPixelFormat128bppPRGBAFloat     | 4             | 32               | 128            | Тип с плавающей запятой        |
+| GUID \_ WICPixelFormat128bppRGBFloat       | 3             | 32               | 128            | Float        |
+| GUID \_ WICPixelFormat128bppRGBAFloat      | 4             | 32               | 128            | Float        |
+| GUID \_ WICPixelFormat128bppPRGBAFloat     | 4             | 32               | 128            | Float        |
 | GUID \_ WICPixelFormat128bppRGBFixedPoint  | 3             | 32               | 128            | Фиксированный        |
 | GUID \_ WICPixelFormat128bppRGBAFixedPoint | 4             | 32               | 128            | Фиксированный        |
 
@@ -604,7 +604,7 @@ WIC поддерживает несколько форматов пикселе�
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Windows Общие сведения о компонентах обработки изображений](-wic-about-windows-imaging-codec.md)

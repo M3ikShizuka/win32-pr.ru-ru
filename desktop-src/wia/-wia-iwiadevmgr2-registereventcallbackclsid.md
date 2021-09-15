@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Wia.h
-ms.openlocfilehash: 9137fdd33f59eb841a54e84a6d12bb0b08968ac29c8737afbf56f66c57176c20
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 63e69d12d47f90ba40f5cc785d8b864c40158774
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118965652"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573183"
 ---
 # <a name="iwiadevmgr2registereventcallbackclsid-method"></a>Метод IWiaDevMgr2:: Регистеревенткаллбаккклсид
 
@@ -126,7 +126,7 @@ HRESULT RegisterEventCallbackCLSID(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Приложения WIA 2,0 используют этот метод для регистрации для получения событий аппаратного устройства. После вызова **IWiaDevMgr2:: регистеревенткаллбаккклсид** приложение регистрируется для получения событий устройства WIA 2,0, даже если оно не работает.
 

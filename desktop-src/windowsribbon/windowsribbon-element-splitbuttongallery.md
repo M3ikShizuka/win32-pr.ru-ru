@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: c2f954d7b96d3ec2304cd63cd689241a46384fda
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122626740"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459371"
 ---
 # <a name="splitbuttongallery-element"></a>Сплитбуттонгаллери, элемент
 
@@ -122,7 +122,7 @@ ms.locfileid: "122626740"
 
 | Элемент                                                                                                 | Описание                                        |
 |---------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-| [**Кнопка**](windowsribbon-element-button.md)<br/>                                               | Может происходить один или несколько раз<br/> <br/> |
+| [**Button**](windowsribbon-element-button.md)<br/>                                               | Может происходить один или несколько раз<br/> <br/> |
 | [**Установка**](windowsribbon-element-checkbox.md)<br/>                                           | Может происходить один или несколько раз<br/> <br/> |
 | [**SplitButton**](windowsribbon-element-splitbutton.md)<br/>                                     | Может происходить один или несколько раз<br/> <br/> |
 | [**Сплитбуттонгаллери. Менуграупс**](windowsribbon-element-splitbuttongallery-menugroups.md)<br/> | Должно выполняться только один раз<br/> <br/>     |
@@ -176,9 +176,9 @@ Windows 8 и более поздних версий.
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
-Необязательный элемент.
+Необязательный параметр.
 
 Может возникать один или несколько раз для каждого элемента [**контролграуп**](windowsribbon-element-controlgroup.md), [**Group**](windowsribbon-element-group.md), [**менуграуп**](windowsribbon-element-menugroup.md)или [**SplitButton**](windowsribbon-element-splitbutton.md) .
 
@@ -246,7 +246,7 @@ Windows 8 и более поздних версий.
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: de3242f4-bce3-4139-9cb4-85eb33f375b1
 title: ХРЕКОАЛТ (краткий обзор. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3d9ab2f3dfd4df34254ef74e238592223fb4defe1af013fcc829dd8d18705e9f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4416b96730d97f0bf17d6e0bd10f3fd56cce4860
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118967572"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460248"
 ---
 # <a name="hrecoalt-handle"></a>ХРЕКОАЛТ, обработчик
 
@@ -35,7 +35,7 @@ typedef HANDLE HRECOALT;
 -   [**GetString**](/previous-versions/windows/desktop/legacy/ms704890(v=vs.85))
 -   [**жетстрокеранжес**](/previous-versions/windows/desktop/legacy/ms705304(v=vs.85))
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

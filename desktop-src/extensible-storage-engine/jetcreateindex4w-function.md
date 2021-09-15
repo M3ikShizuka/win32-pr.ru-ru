@@ -20,11 +20,11 @@ api_location:
 - ESENT.DLL
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: c79f1638645f0dcd7e4306f543a9ee15b9668843
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122987447"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572947"
 ---
 # <a name="jetcreateindex4w-function"></a>Функция JetCreateIndex4W
 
@@ -99,13 +99,13 @@ JET_ERR JET_API JetCreateIndex4W(
 #### <a name="requirements"></a>Требования
 
 
-| Требование | Применение |
+| Требование | Значение |
 |------------|----------|
 | <p><strong>Клиент</strong></p> | <p>Требуется Windows 8.</p> | 
 | <p><strong>Server</strong></p> | <p>Требуется Windows Server 2012.</p> | 
 | <p><strong>Header</strong></p> | <p>Объявлено в ESENT. h.</p> | 
 | <p><strong>Библиотека</strong></p> | <p>Используйте ESENT. lib.</p> | 
-| <p><strong>КОМПОНОВКИ</strong></p> | <p>Требуется ESENT.dll.</p> | 
+| <p><strong>DLL</strong></p> | <p>Требуется ESENT.dll.</p> | 
 
 
 

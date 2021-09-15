@@ -4,11 +4,11 @@ title: Атрибут MF_VIRTUALCAMERA_APP_PACKAGE_FAMILY_NAME (Мфапи. h)
 ms.topic: reference
 ms.date: 05/24/2021
 ms.openlocfilehash: e821a273c44b1d5c9e654e34bbfb928ea707cdc0
-ms.sourcegitcommit: 63c93e0ad0b48d60b11008767196718feb475cb0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "113691869"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572755"
 ---
 # <a name="mf_virtualcamera_app_package_family_name-attribute"></a>\_ \_ \_ \_ Атрибут имени семейства пакетов приложений MF виртуалкамера \_
 

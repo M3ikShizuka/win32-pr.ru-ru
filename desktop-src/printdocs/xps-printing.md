@@ -5,11 +5,11 @@ title: API печати XPS
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 30c53322a8ae6a03c3ac4bb71fc680f719999546
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105711684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570519"
 ---
 # <a name="xps-print-api"></a>API печати XPS
 
@@ -26,13 +26,13 @@ ms.locfileid: "105711684"
 [Справочник по API печати XPS](xpsprint-interfaces.md)  
 </dl>
 
-Собственные приложения Windows, которые создают документы XPS, например, с помощью [API документа XPS](/previous-versions/windows/desktop/dd316976(v=vs.85)), могут использовать API печати XPS для отправки содержимого XPS-документа на принтер.
+собственные Windows приложения, которые создают документы xps, например, с помощью [api документа xps](/previous-versions/windows/desktop/dd316976(v=vs.85)), могут использовать api печати xps для отправки содержимого xps-документа на принтер.
 
-На следующей схеме показана связь API печати XPS с другими интерфейсами API печати, которые может использовать собственное приложение Windows.
+на следующей схеме показана связь api печати XPS с другими api-интерфейсами печати, которые может использовать собственное Windows приложение.
 
 ![Схема, показывающая связь API печати XPS с другими интерфейсами API печати, которые может использовать собственное приложение Windows](images/print-apis-xps.png)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

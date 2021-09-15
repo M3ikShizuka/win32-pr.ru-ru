@@ -4,12 +4,12 @@ description: Справочная документация по ключам с�
 ms.assetid: fa317765-25e2-42ef-8558-fb5ef951fc17
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: eef0698f41e870f834ea55e97d34957edbffdf28675caac9ac0191b6299bca68
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2d9aa78db8acdf7b0a1a4f994f65c08e774129f8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118438799"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458992"
 ---
 # <a name="collection-properties"></a>Свойства коллекции
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 46b5b0deb3efb84af2bdd862377411d86328ee7ef72242a6e27759b819cdab2e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1455f6d6c2fa40f34bbfbe00e0c7a30daa52f375
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118482644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572915"
 ---
 # <a name="wm_ncxbuttondblclk-message"></a>\_Сообщение НККСБУТТОНДБЛКЛК WM
 
@@ -69,7 +69,7 @@ ms.locfileid: "118482644"
 
 Если приложение обрабатывает это сообщение, оно должно возвращать **значение true**. Дополнительные сведения об обработке возвращаемого значения см. в разделе "Примечания".
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Используйте следующий код, чтобы получить сведения в параметре *wParam* .
 
@@ -142,7 +142,7 @@ yPos = GET_Y_LPARAM(lParam);
 [**WM \_ сискомманд**](/windows/desktop/menurc/wm-syscommand)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с помощью мыши](mouse-input.md)

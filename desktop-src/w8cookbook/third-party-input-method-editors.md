@@ -4,12 +4,12 @@ description: Редакторы на базе сторонних методов 
 ms.assetid: 7FFD7210-2335-4499-A36A-ACFAECEB01F9
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 64e12b2c2788ed95509b785dd7fc2c5ba3ec0a31ac46a736bc7dfdc92c7289f1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cca9768de96b9dcdeac7f4b0da210f7aa788801b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119815125"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459386"
 ---
 # <a name="third-party-input-method-editors"></a>Редакторы на базе сторонних методов ввода
 
@@ -74,7 +74,7 @@ ms.locfileid: "119815125"
 
 ## <a name="solution"></a>Решение
 
-**Общие**
+**Общие сведения**
 
 используйте существующую инфраструктуру текстовых служб (TSF), чтобы реализовать логику IME и стандартные элементы управления для приложений хранилища Windows для пользовательских интерфейсов. Создайте собственные окна для размещения пользовательского интерфейса.
 

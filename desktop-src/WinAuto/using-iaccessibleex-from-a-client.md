@@ -4,12 +4,12 @@ description: В этом разделе объясняется, как клие�
 ms.assetid: e057bbe8-5dd7-41fc-a5d5-bcf4c1c6433d
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4f03bd58ec80a29f13e0428de4655aa7200144122b1a1889259844db078aa9dc
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 77b14b935bd7ed432ea4d378034763635309213f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120098104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458869"
 ---
 # <a name="using-iaccessibleex-from-a-client"></a>Использование IAccessibleEx из клиента
 

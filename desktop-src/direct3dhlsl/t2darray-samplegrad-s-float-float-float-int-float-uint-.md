@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: d67d1d8160e9cd3d98226ed45b9687905cc681e65c369008c2899b512e7cf03e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3d6c46deb14c3a2c3554052ecc3e6625b13b2848
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119726324"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459515"
 ---
 # <a name="samplegradsamplegradsfloatfloatfloatintfloatuint-function-for-texture2darray"></a>Функция Самплеград:: Самплеград (S, float, float, float, int, float, uint) для Texture2DArray
 
@@ -166,7 +166,7 @@ DXGI_FORMAT SampleGrad(
 
 Формат текстуры, который является одним из типизированных значений, перечисленных в [**\_ формате DXGI**](/windows/desktop/api/dxgiformat/ne-dxgiformat-dxgi_format).
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

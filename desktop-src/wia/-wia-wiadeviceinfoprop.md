@@ -29,11 +29,11 @@ api_type:
 api_location:
 - wiadef.h
 ms.openlocfilehash: 29db0a527146218e19b3fe583fd48936f71dac29
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122623700"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570355"
 ---
 # <a name="device-information-property-constants"></a>Константы свойств сведений об устройстве
 
@@ -49,7 +49,7 @@ ms.locfileid: "122623700"
 <thead>
 <tr class="header">
 <th >Константа/значение</th>
-<th >Описание:</th>
+<th >Описание</th>
 </tr>
 </thead>
 <tbody>

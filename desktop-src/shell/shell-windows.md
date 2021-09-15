@@ -13,12 +13,12 @@ api_type:
 api_location:
 - Shell32.dll
 ms.assetid: ffa6311c-8bbe-45c4-9b06-069779d2306d
-ms.openlocfilehash: dbf87078cf5a05f5754d8e581eafbb0d3d68fc62166eb7a42a3cd3a54698b879
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bbe8ed55865322fc7436959fd80b478baa3c0b40
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118047736"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460335"
 ---
 # <a name="shellwindows-method"></a>Консоль. метод Windows
 

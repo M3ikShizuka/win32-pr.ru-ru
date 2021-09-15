@@ -5,11 +5,11 @@ title: Работа с интерфейсами коллекции OM в XPS
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: c7cda84243347680d91a6f3a5255f7ebf4e66932
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104265109"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570534"
 ---
 # <a name="working-with-xps-om-collection-interfaces"></a>Работа с интерфейсами коллекции OM в XPS
 

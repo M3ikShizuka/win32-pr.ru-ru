@@ -4,12 +4,12 @@ ms.assetid: 2e1a5279-dd9d-46de-822c-d356a344f340
 title: Определение параметров, поддерживаемых кодировщиком
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c842b14a2d14af578eede428e79018a2d266ea6133ed61a9bd0736e8dadc97e7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ad9bd76abb0b9f01bf55fd738df77cd086bc757c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118977574"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570667"
 ---
 # <a name="determining-the-parameters-supported-by-an-encoder"></a>Определение параметров, поддерживаемых кодировщиком
 

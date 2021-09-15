@@ -12,12 +12,12 @@ keywords:
 - точки публикации
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 71f70c1a49ea7ff6272d0eef9f1a51ff79ec216ed9af445c3078d59dd19841dd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7a0f38f4d24a458681c4b0dc4ee6d1a73563bdd2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118197543"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570207"
 ---
 # <a name="sending-asf-data-to-a-publishing-point"></a>Отправка данных ASF в точку публикации
 

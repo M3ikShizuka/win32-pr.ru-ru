@@ -13,12 +13,12 @@ api_type:
 api_location:
 - Shell32.dll
 ms.assetid: 4fe37e38-ee71-41f0-b620-35fdc18f9dbb
-ms.openlocfilehash: 057ef4082bac8d04c006d951db7d2d251be2f8c62e88af65bc1a69678514af81
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: daec9c922a0bac05154c1108f236ddf336a2e380
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118969013"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460413"
 ---
 # <a name="ishelldispatch4-object"></a>Объект IShellDispatch4
 
@@ -56,7 +56,7 @@ ms.locfileid: "118969013"
 
 обсуждение Windows служб см. в документации по [службам](../services/services.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ ms.locfileid: "118969013"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

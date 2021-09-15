@@ -13,12 +13,12 @@ api_type:
 api_location:
 - Shell32.dll
 ms.assetid: d3c0ccf8-0f83-42f7-9d6f-1fb293da6364
-ms.openlocfilehash: 9908fa86b79ff230c2c6320685cd605a97c9b0747db31cc395f8f449ae2fbfa0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5862ae3c9b7bf1262edbc28b06f2963f2e577275
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119941494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460293"
 ---
 # <a name="shelllinkobject-object"></a>Объект Шелллинкобжект
 
@@ -48,13 +48,13 @@ ms.locfileid: "119941494"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Объект **шелллинкобжект** имеет следующие свойства.
 
 
 
-| Свойство                                                                | Тип доступа           | Описание                                                                                               |
+| Свойство.                                                                | Тип доступа           | Описание                                                                                               |
 |:------------------------------------------------------------------------|:----------------------|:----------------------------------------------------------------------------------------------------------|
 | [**Аргументы**](shelllinkobject-arguments.md)<br/>               | Чтение/запись<br/> | Содержит аргументы ссылки.<br/>                                                                   |
 | [**Описание**](shelllinkobject-description.md)<br/>           | Чтение/запись<br/> | Возвращает или задает описание ссылки.<br/>                                                      |
@@ -67,7 +67,7 @@ ms.locfileid: "119941494"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -81,7 +81,7 @@ ms.locfileid: "119941494"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

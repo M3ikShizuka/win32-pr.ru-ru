@@ -1,17 +1,17 @@
 ---
 description: Просмотр элементов компонента, содержащих список элементов параметров и свойств, описывающих атрибут устройства, параметр форматирования задания или другие соответствующие характеристики.
 ms.assetid: 5a6553c2-f322-47e2-bbc8-44f6541f1288
-title: Компонент
+title: Функция
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 18509cb41581fc3f366185f61e5893d823141d3f
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.openlocfilehash: d3d35686674d08ea0ea4030648b06803919e5d07
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122472110"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459448"
 ---
-# <a name="feature"></a>Компонент
+# <a name="feature"></a>Функция
 
 Этот раздел не является актуальным. Самые актуальные сведения см. в [спецификации печати схемы](https://download.microsoft.com/download/D/E/C/DECA6E6B-3E81-48E7-B7EF-6D92A547D03C/print-schema-spec-2-0.zip).
 
@@ -19,7 +19,7 @@ ms.locfileid: "122472110"
 
 ## <a name="element-tag"></a>Тег элемента
 
-<Feature>
+&lt;Компонент&gt;
 
 ## <a name="xml-attributes"></a>XML-атрибуты
 
@@ -46,7 +46,7 @@ ms.locfileid: "122472110"
 
 | Категория | Сведения | 
 |----------|---------|
-| Родительские элементы<br /> | PrintCapabilities <br /> PrintTicket <br /> Компонент<br /> | 
+| Родительские элементы<br /> | PrintCapabilities <br /> PrintTicket <br /> Функция<br /> | 
 | Дочерние элементы<br /> | Одна из следующих групп:<br /><ul><li><em>Функция</em> (ноль или более)<br /></li><li><em>Параметр</em> (один или более)<br /></li><li><em>Свойство</em> (ноль или более)<br /></li></ul>или <br /><ul><li><em>Функция</em> (одна или несколько)<br /></li><li><em>Параметр</em> (ноль или более)<br /></li><li><em>Свойство</em> (ноль или более)<br /></li></ul> | 
 | Этот элемент<br /> | Символьные данные не допускаются.<br /> Допускаются дублирующиеся дочерние элементы Option, являющиеся одноуровневыми элементами. Разрешены ярлыки атрибутов повторяющихся имен. <br /> | 
 

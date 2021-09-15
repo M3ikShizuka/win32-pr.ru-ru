@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: be29e4a1bd6721b8f53dbe2394be3552ca4845143cf948f130ef55e11881b518
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7108dfc094f3183950dd94e5398263f4bf7cfd5c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119589244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460190"
 ---
 # <a name="tracelogging-managed-quick-start"></a>Управляемый Быстрое начало Трацелоггинг
 
@@ -22,7 +22,7 @@ ms.locfileid: "119589244"
 
 ## <a name="prerequisites"></a>Предварительные требования
 
--   Windows 10,
+-   Windows 10
 
 ### <a name="simpletraceloggingexamplecs"></a>Симплетрацелоггинжексампле. CS
 

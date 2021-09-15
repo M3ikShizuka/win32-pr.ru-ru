@@ -10,11 +10,11 @@ api_location: ''
 topic_type:
 - kbArticle
 ms.openlocfilehash: ba9d0163a00ab525fb0a52267c1226b6a48230a4
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122880870"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460367"
 ---
 # <a name="foldertype-element-library-schema"></a>Элемент Фолдертипе (схема библиотеки)
 
@@ -48,13 +48,13 @@ ms.locfileid: "122880870"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 задание типа папки определяет столбцы и сведения, отображаемые в Windows Explorer по умолчанию. Идентификаторы типов папок ([**фолдертипеид**](foldertypeid.md)) являются идентификаторами GUID, определенными в шлгуид. h. В следующей таблице перечислены идентификаторы GUID общих типов папок.
 
 
 
-| Тип папки      | Код GUID                                   |
+| Тип папки      | GUID                                   |
 |------------------|----------------------------------------|
 | Универсальная библиотека  | {5f4eab9a-6833-4f61-899d-31cf46979d49} |
 | Библиотеки пользователей  | {C4D98F09-6124-4fe0-9942-826416082DA9} |

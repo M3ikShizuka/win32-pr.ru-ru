@@ -5,11 +5,11 @@ title: System. ItemType
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 784a72c46e92ac5956532994df4f36758d42f440
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122880719"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570451"
 ---
 # <a name="systemitemtype"></a>System. ItemType
 
@@ -31,7 +31,7 @@ propertyDescription
       IsInnate = true
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
@@ -40,7 +40,7 @@ propertyDescription
 -   Расширение файла, которое указывает на значение ProgID ( \_ \_ корневой идентификатор ProgID для классов hKey \\ &lt; &gt; ), содержащее отображаемое имя для типа.
 -   Значение ProgID (HKEY \_ Classes \_ ррут \\ &lt; ProgID &gt; ), содержащее отображаемое имя для типа.
 
-Элемент Фриендлитипенаме ProgID должен быть локализованной версией имени приложения ( @winword.dll -42), а значение по умолчанию для ключа ProgID — нелокализованным именем (Word.Docумент. 12).
+Элемент Фриендлитипенаме ProgID должен быть локализованной версией имени приложения ( @winword.dll -42), а значение по умолчанию для ключа ProgID — нелокализованным именем (Word. Document. 12).
 
 Если канонического типа нет, это значение является VT \_ пустым. Если элемент является файлом ([System. filename](./props-system-filename.md) не является VT \_ ), то значение совпадает с [System. fileExtension](./props-system-fileextension.md). Используйте [System. итемтипетекст](./props-system-itemtypetext.md) , если нужно отобразить тип для конечных пользователей в представлении.
 
@@ -53,7 +53,7 @@ propertyDescription
 
 
 
-| путь                                   | ItemType         |
+| Путь                                   | ItemType         |
 |----------------------------------------|------------------|
 | в. \\ \\ линейчатая диаграмма MyDir \\hello.txt              | .txt             |
 | \\\\\\Общая папка сервера \\ MyDir \\goodnews.doc | .doc             |

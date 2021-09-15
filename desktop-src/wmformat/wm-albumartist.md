@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fe11a02eca9944ecb72b49d94606d26e437527e37d273b98fbc2e548751476c4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 616bc4a4c6ba614d2780c55200476b2250432d46
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119584734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570166"
 ---
 # <a name="wmalbumartist"></a>WM/Албумартист
 
@@ -35,7 +35,7 @@ g \_ всзвмалбумартист
 
 Для альбомов, в которых дорожки могут иметь различные исполнители, такие как распространение альбомов или совместно используемых альбомов, этот атрибут можно использовать для указания основного исполнителя альбома. Предпочтительнее использовать этот атрибут вместо использования значения автор "различные исполнители".
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -5,11 +5,11 @@ title: Реализация MFT кодека
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 4412db23747e9a6b3468e9e428120d099b2445ff
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104272508"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469278"
 ---
 # <a name="implementing-a-codec-mft"></a>Реализация MFT кодека
 
@@ -20,7 +20,7 @@ ms.locfileid: "104272508"
 -   [Декодеров](#decoders)
     -   [Декодеры только для кодирования](#transcode-only-decoders)
     -   [Атрибуты чересстрочности](#telecine-attributes)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="encoders"></a>Кодировщики
 
@@ -80,7 +80,7 @@ ms.locfileid: "104272508"
 
 Эти флаги предоставляют подсказку расширенному обработчику видео (Евр) при выполнении дечередования. Декодер должен распространять эти флаги в нисходящем порядке, копируя их в выходные образцы, чтобы они достигли Евр.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

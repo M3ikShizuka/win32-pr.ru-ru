@@ -4,12 +4,12 @@ ms.assetid: 1AA41DE3-C37C-41BA-9549-5F12373DDB3B
 title: Атрибут MF_VIDEO_MAX_MB_PER_SEC (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1c76e6a44a6e0993f9cf6410a0092708da767f92815fc98020dd2f4d88359370
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bbee009b50daee074241c11750e9d25240cda153
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118739242"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572759"
 ---
 # <a name="mf_video_max_mb_per_sec-attribute"></a>\_Атрибут " \_ Макс. МБ видео \_ \_ в \_ секунду"
 
@@ -19,7 +19,7 @@ ms.locfileid: "118739242"
 
 **UINT32**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут доступен только для чтения.
 
@@ -39,7 +39,7 @@ ms.locfileid: "118739242"
 
 Приложение должно использовать только более низкие 28 бит. Верхняя 4bits зарезервирована для будущего использования. Приложения должны игнорировать верхние 4 бита, и МФТС должен установить верхние 4 бита в значение 0.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -47,7 +47,7 @@ ms.locfileid: "118739242"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8.1 \[ приложения UWP для классических приложений \|\]<br/>                                |
 | Минимальная версия сервера<br/> | Windows Server 2012 Приложения универсального \[ приложения UWP для настольных приложений \|\]<br/>                     |
-| Header<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
 
 
 

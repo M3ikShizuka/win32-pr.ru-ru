@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: de8ec24c0b033731cbecf5299a747296036878ac9aa399714f7d387072ebad9f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 27b0ad5fa640b853b46cd39ae595a1f486812adb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120067194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573042"
 ---
 # <a name="apijetinit-method"></a>API. Жетинит, метод
 
@@ -57,12 +57,12 @@ public static void JetInit(
 
 #### <a name="parameters"></a>Параметры
 
-  - экземпляр  
+  - instance  
     Тип: [Microsoft.ISAM.ESENT.Interop.JET_INSTANCE](./jet-instance-structure.md)  
     
     Экземпляр для инициализации. Если экземпляр не был выделен, создается новый, а ядро работает в режиме с одним экземпляром.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

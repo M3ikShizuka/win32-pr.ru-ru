@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Wiascr.dll
-ms.openlocfilehash: 9b9fd14bfe7836525080c9d706c601f8e3d65327a629d1b67fb72fc3df035e7d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fc9775f869dc0a51eab394cc191e277c9a5ecf41
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119549744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573158"
 ---
 # <a name="itemname-property"></a>Item.Name, свойство
 
@@ -39,7 +39,7 @@ propVal = Item.Name
 
 Строка, которая получает имя.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

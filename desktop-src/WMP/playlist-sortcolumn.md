@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 34dfce7306ceb39d64665538a21dbaef965ea799141a2756c2fea5bbe23ea9cd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f21f0032ee4db4c7af46b5dda814bb11db551330
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118335665"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570102"
 ---
 # <a name="playlistsortcolumn"></a>Список воспроизведения. sortColumn
 
@@ -49,7 +49,7 @@ ms.locfileid: "118335665"
 
 Чтобы этот метод работал, атрибуту **алловколумнсортинг** должно быть присвоено значение true.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -59,7 +59,7 @@ ms.locfileid: "118335665"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

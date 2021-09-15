@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - IACom.dll
-ms.openlocfilehash: 922cbd2110149ac27041be41ccd24a601e87b5355351e0774a80eb636461c21f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 201469933da10b0d68a4d3a50e63c42f8d01d2dd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119590354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570406"
 ---
 # <a name="iinkanalyzersearchwithlanguageid-method"></a>Метод Иинканализер:: Сеарчвислангуажеид
 
@@ -104,7 +104,7 @@ HRESULT SearchWithLanguageId(
 
 Поиск не создает событий Популатеконтекстноде. Будет выполнен поиск только уже заполненных штрихов.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -117,7 +117,7 @@ HRESULT SearchWithLanguageId(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: ebadd156-28f4-499c-a182-f48a35ecbefb
 title: Атрибут MF_PD_ASF_CONTENTENCRYPTION_KEYID (Вмконтаинер. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8edae0f324e7ab4889b21ae69714da16bfa88803db1d3aef808e4ba715522f62
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4bd49c7a006345cceba01edde7caf76e499323b5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117876437"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572830"
 ---
 # <a name="mf_pd_asf_contentencryption_keyid-attribute"></a>\_ \_ \_ \_ Атрибут контентенкриптион KEYID для MF PD ASF
 
@@ -19,13 +19,13 @@ ms.locfileid: "117876437"
 
 Строка расширенных символов
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут применяется к дескрипторам представления для содержимого ASF.
 
 Метод [**имфасфконтентинфо:: женератепресентатиондескриптор**](/windows/desktop/api/wmcontainer/nf-wmcontainer-imfasfcontentinfo-generatepresentationdescriptor) ИЗВЛЕКАЕТ поле идентификатора ключа, преобразует его в строку расширенных символов, а затем заполняет массив типа **WCHAR** с завершающим нулем. Размер массива равен значению поля Длина идентификатора ключа в заголовке шифрования содержимого.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -37,7 +37,7 @@ ms.locfileid: "117876437"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

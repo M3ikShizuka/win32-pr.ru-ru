@@ -14,12 +14,12 @@ api_type:
 api_location:
 - PortableDeviceGUIDs.lib
 - PortableDeviceGUIDs.dll
-ms.openlocfilehash: a4829d1c7f54042864dc4f54f26a17fcf4b0f84daab9352961d775d97adb45cc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7adf311e863c08873aa8300f9e940d4a5b49417f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119026782"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570134"
 ---
 # <a name="iportabledevicevaluessetboolvalue-method"></a>Метод Ипортабледевицевалуес:: SetBoolValue
 
@@ -73,7 +73,7 @@ HRESULT SetBoolValue(
 
 Если существующее значение имеет тот же ключ, что и параметр *Key* , он перезаписывает существующее значение без предупреждения. Существующий ключ памяти освобождается соответствующим образом.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -84,7 +84,7 @@ HRESULT SetBoolValue(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2eab2067d3d16c3ae0864ba7ddf04b5666efa0186d0a7d55ebd5eddaa7533790
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6330849a433787dd09fad536f005d91f60376013
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119829904"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572911"
 ---
 # <a name="wm_ncxbuttonup-message"></a>\_Сообщение НККСБУТТОНУП WM
 
@@ -69,7 +69,7 @@ ms.locfileid: "119829904"
 
 Если приложение обрабатывает это сообщение, оно должно возвращать **значение true**. Дополнительные сведения об обработке возвращаемого значения см. в разделе "Примечания".
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Используйте следующий код, чтобы получить сведения в параметре *wParam* .
 
@@ -100,7 +100,7 @@ yPos = GET_Y_LPARAM(lParam);
 
 В отличие от [**сообщений \_ WM нклбуттонуп**](wm-nclbuttonup.md), [**WM \_ нкмбуттонуп**](wm-ncmbuttonup.md)и [**WM \_ нкрбуттонуп**](wm-ncrbuttonup.md) , приложение должно вернуть **значение true** из этого сообщения, если оно обрабатывает его. это позволит программному обеспечению имитировать это сообщение в Windows системах, предшествующих Windows 2000, чтобы определить, обрабатывала ли окно сообщение или вызываемое [**дефвиндовпрок**](/windows/desktop/api/winuser/nf-winuser-defwindowproca) для его обработки.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -112,7 +112,7 @@ yPos = GET_Y_LPARAM(lParam);
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -140,7 +140,7 @@ yPos = GET_Y_LPARAM(lParam);
 [**WM \_ сискомманд**](/windows/desktop/menurc/wm-syscommand)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с помощью мыши](mouse-input.md)

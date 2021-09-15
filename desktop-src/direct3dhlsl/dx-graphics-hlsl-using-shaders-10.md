@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: c0d6212851e4603aac4db7ec85dd20714dc87774
-ms.sourcegitcommit: adba238660d8a5f4fe98fc6f5d105d56aac3a400
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "111826292"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459193"
 ---
 # <a name="using-shaders-in-direct3d-10"></a>Использование шейдеров в Direct3D 10
 
@@ -129,7 +129,7 @@ ms.locfileid: "111826292"
 [Компиляция шейдеров](dx-graphics-hlsl-part1.md)
 
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

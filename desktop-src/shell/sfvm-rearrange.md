@@ -13,12 +13,12 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 03bb5b8d39a85d8ce4fb6e76b75967a642361f502ce3bcb20ca49f276a5221de
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 524b507ed5af08fbf70b51d9252e7bcb12af1f27
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119941984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570438"
 ---
 # <a name="sfvm_rearrange-message"></a>СФВМ \_ изменить расположение сообщения
 

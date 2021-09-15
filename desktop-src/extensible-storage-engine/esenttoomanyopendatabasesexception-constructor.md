@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 3c111c97554d17f85bae3ecaad8e9421577db7fe0868b6b3aac6c2c6de6f50a7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8483be19af95f131fdc3900b93acbcb9eb875328
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117707090"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459062"
 ---
 # <a name="esenttoomanyopendatabasesexception-constructor"></a>Конструктор Есенттуманйопендатабасесексцептион
 
@@ -52,7 +52,7 @@ Dim instance As New EsentTooManyOpenDatabasesException()
 public EsentTooManyOpenDatabasesException()
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

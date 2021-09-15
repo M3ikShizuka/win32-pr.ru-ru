@@ -13,12 +13,12 @@ api_type:
 api_location:
 - Shell32.dll
 ms.assetid: 0cdf3293-3dcf-44e7-a80d-4eacf9d09fbf
-ms.openlocfilehash: 65d8397ed07fc3ebab9fd4846b008f97c1b7e756366118314b978f94b64c8636
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b370056f40320561a38b1f77fbcf9a53ee35686a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119032812"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460510"
 ---
 # <a name="didiskquotauser-object"></a>Объект Дидисккуотаусер
 
@@ -45,18 +45,18 @@ ms.locfileid: "119032812"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Объект **дидисккуотаусер** имеет следующие свойства.
 
 
 
-| Свойство                                                                        | Тип доступа           | Описание                                                                                          |
+| Свойство.                                                                        | Тип доступа           | Описание                                                                                          |
 |:--------------------------------------------------------------------------------|:----------------------|:-----------------------------------------------------------------------------------------------------|
 | [**аккаунтконтаинернаме**](didiskquotauser-accountcontainername.md)<br/> | Только для чтения<br/>  | Возвращает имя контейнера учетной записи пользователя.<br/>                                            |
 | [**аккаунтстатус**](didiskquotauser-accountstatus.md)<br/>               | Только для чтения<br/>  | Возвращает состояние учетной записи пользователя.<br/>                                                    |
 | [**DisplayName**](didiskquotauser-displayname.md)<br/>                   | Только для чтения<br/>  | Возвращает отображаемое имя пользователя.<br/>                                                             |
-| [**ID**](didiskquotauser-id.md)<br/>                                     | Только для чтения<br/>  | Возвращает идентификатор, который однозначно идентифицирует пользователя.<br/>                                             |
+| [**УДОСТОВЕРЕНИЯ**](didiskquotauser-id.md)<br/>                                     | Только для чтения<br/>  | Возвращает идентификатор, который однозначно идентифицирует пользователя.<br/>                                             |
 | [**логоннаме**](didiskquotauser-logonname.md)<br/>                       | Только для чтения<br/>  | Возвращает имя учетной записи входа пользователя.<br/>                                                       |
 | [**QuotaLimit**](didiskquotauser-quotalimit.md)<br/>                     | Чтение/запись<br/> | Задает или возвращает текущую [**квоту**](diskquotacontrol-object.md)пользователя.<br/>           |
 | [**куоталимиттекст**](didiskquotauser-quotalimittext.md)<br/>             | Только для чтения<br/>  | Возвращает текущую [**предельную квоту**](diskquotacontrol-object.md) пользователя в виде текстовой строки. <br/> |
@@ -114,7 +114,7 @@ function EnumUsers(Volume_Label)
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -126,7 +126,7 @@ function EnumUsers(Volume_Label)
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

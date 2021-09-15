@@ -15,12 +15,12 @@ api_type:
 api_location:
 - InkObj.dll
 - InkObj.dll.dll
-ms.openlocfilehash: 02ecf89a1ce8db89105ac9fa0243552efaf5218da98f6d3b0fdfbd58f874d449
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 17eff388a759b9b0873929447e4c8fe008e2fba5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118718180"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570391"
 ---
 # <a name="inkcollector-class"></a>Класс InkCollector
 
@@ -49,7 +49,7 @@ ms.locfileid: "118718180"
 | [**курсоринранже**](inkcollector-cursorinrange.md)       | Происходит при входе курсора в диапазон физического обнаружения (близость) контекста планшета.<br/>                                                                                                                                                        |
 | [**курсораутофранже**](inkcollector-cursoroutofrange.md) | Происходит, когда курсор покидает диапазон физического обнаружения (близость) контекста планшета.<br/>                                                                                                                                                      |
 | [**DoubleClick**](inkcollector-doubleclick.md)           | Происходит при двойном щелчке объекта **InkCollector** .<br/>                                                                                                                                                                                         |
-| [**жесты**](inkcollector-gesture.md)                   | Происходит при распознавании жеста конкретного приложения.<br/>                                                                                                                                                                                         |
+| [**Жест**](inkcollector-gesture.md)                   | Происходит при распознавании жеста конкретного приложения.<br/>                                                                                                                                                                                         |
 | [**Вниз**](inkcollector-mousedown.md)               | Происходит при нажатии кнопки мыши, когда указатель мыши находится над объектом **InkCollector** .<br/>                                                                                                                                                   |
 | [**Событие**](inkcollector-mousemove.md)               | Происходит при перемещении указателя мыши над объектом **InkCollector** .<br/>                                                                                                                                                                           |
 | [**Кнопка**](inkcollector-mouseup.md)                   | Происходит при отпускании кнопки мыши, когда указатель мыши находится над объектом **InkCollector** .<br/>                                                                                                                                                  |
@@ -100,7 +100,7 @@ ms.locfileid: "118718180"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Класс **InkCollector** имеет эти свойства.
 
@@ -115,7 +115,7 @@ ms.locfileid: "118718180"
 | [**DefaultDrawingAttributes**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkcollector-get_defaultdrawingattributes)<br/> | Только для чтения<br/> | Возвращает или задает объект [**инкдравингаттрибутес**](inkdrawingattributes-class.md) по умолчанию, который задает атрибуты рисования, используемые при прорисовке и отображении рукописного ввода.<br/> |
 | [**десиредпаккетдескриптион**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkcollector-get_desiredpacketdescription)<br/> | Только для чтения<br/> | Возвращает или задает интерес к аспектам пакета, связанного с рукописным вводом на объекте **InkCollector** .<br/>                                                                          |
 | [**динамикрендеринг**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkoverlay-get_dynamicrendering)<br/>                   | Только для чтения<br/> | Возвращает или задает значение, указывающее, отображается ли рукописный ввод при прорисовке.<br/>                                                                                                       |
-| [**Включен**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkcollector-get_enabled)<br/>                                   | Только для чтения<br/> | Возвращает или задает значение, указывающее, собирает ли объект **InkCollector** входные данные пера.<br/>                                                                                       |
+| [**Enabled**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkcollector-get_enabled)<br/>                                   | Только для чтения<br/> | Возвращает или задает значение, указывающее, собирает ли объект **InkCollector** входные данные пера.<br/>                                                                                       |
 | [**Справиться**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkcollector-get_hwnd)<br/>                                       | Только для чтения<br/> | Возвращает или задает маркер окна, к которому присоединен объект **InkCollector** .<br/>                                                                                           |
 | [**Рукописный ввод**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkcollector-get_ink)<br/>                                           | Только для чтения<br/> | Возвращает или задает объект [**инкдисп**](inkdisp-class.md) , связанный с объектом **InkCollector** .<br/>                                                                     |
 | [**маргинкс**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkcollector-get_marginx)<br/>                                   | Только для чтения<br/> | Возвращает или задает поля вдоль оси x (в пикселях).<br/>                                                                                                                             |
@@ -174,7 +174,7 @@ ms.locfileid: "118718180"
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                                                       |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                                           |
-| Header<br/>                   | <dl> <dt>Мсинкаут. h (также требуется Мсинкаут \_ i. c)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мсинкаут. h (также требуется Мсинкаут \_ i. c)</dt> </dl> |
 | Библиотека<br/>                  | <dl> <dt>InkObj.dll</dt> </dl>                               |
 
 

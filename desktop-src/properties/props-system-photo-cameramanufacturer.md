@@ -4,12 +4,12 @@ ms.assetid: cf68067a-742b-4acd-b8b1-c6758c35845f
 title: System. photo. Камерамануфактурер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ef35e30b7078342955da475fc446789504d3ce7ec358245ea6a43d49c0f687a4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a69bdbf5d2a4b747ca733a0562973b8f709133f6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118970153"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460682"
 ---
 # <a name="systemphotocameramanufacturer"></a>System. photo. Камерамануфактурер
 

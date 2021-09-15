@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3ee4c231a045b39454908753dc197c95e26d85c711968f07ab27dbd859c29c6f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ad3ca727155d6ae859123d427812d93ebaa0b05c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120122534"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459242"
 ---
 # <a name="iwmpplaylistcollectionimportplaylist-method"></a>Метод Ивмпплайлистколлектион:: Импортплайлист
 
@@ -64,7 +64,7 @@ Implements IWMPPlaylistCollection.importPlaylist
 
 Интерфейс **вмплиб. ивмпплайлист** для добавленного списка воспроизведения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Списки воспроизведения, которые не содержат элементов мультимедиа, не могут быть добавлены в библиотеку с помощью этого метода. Чтобы создать пустой список воспроизведения в библиотеке, используйте метод **невплайлист** . Затем можно заполнить итоговый список воспроизведения с помощью элементов мультимедиа, используя **ивмпплайлист. аппендитем** или **ивмпплайлист. insertItem**.
 
@@ -84,7 +84,7 @@ Implements IWMPPlaylistCollection.importPlaylist
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

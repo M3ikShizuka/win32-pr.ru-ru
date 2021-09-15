@@ -5,11 +5,11 @@ title: Функции Metafile
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: fd137095fe0659871291ec4e8670054cc2899d10
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104544447"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469406"
 ---
 # <a name="metafile-functions"></a>Функции Metafile
 
@@ -31,12 +31,12 @@ ms.locfileid: "104544447"
 | [**жетенхметафиледескриптион**](/windows/desktop/api/Wingdi/nf-wingdi-getenhmetafiledescriptiona)       | Извлекает необязательное текстовое описание из метафайла расширенного формата и копирует строку в указанный буфер. |
 | [**жетенхметафилехеадер**](/windows/desktop/api/Wingdi/nf-wingdi-getenhmetafileheader)                 | Извлекает запись, содержащую заголовок для указанного метафайла расширенного формата.                                 |
 | [**жетенхметафилепалеттинтриес**](/windows/desktop/api/Wingdi/nf-wingdi-getenhmetafilepaletteentries) | Извлекает необязательные записи палитры из указанного расширенного метафайла.                                               |
-| [**Метафайл**](/windows/desktop/api/Wingdi/nf-wingdi-getmetafilea)                                   | Параметр "EMF" больше не доступен для использования в Windows 2000. Вместо этого используйте [**жетенхметафиле**](/windows/desktop/api/WinGdi/nf-wingdi-getenhmetafilea).  |
-| [**жетвинметафилебитс**](/windows/desktop/api/Wingdi/nf-wingdi-getwinmetafilebits)                     | Преобразует записи расширенного формата из метафайла в записи формата Windows.                                      |
+| [**Метафайл**](/windows/desktop/api/Wingdi/nf-wingdi-getmetafilea)                                   | параметр "metafile" больше не доступен для использования в Windows 2000. Вместо этого используйте [**жетенхметафиле**](/windows/desktop/api/WinGdi/nf-wingdi-getenhmetafilea).  |
+| [**жетвинметафилебитс**](/windows/desktop/api/Wingdi/nf-wingdi-getwinmetafilebits)                     | преобразует записи расширенного формата из метафайла в записи Windows-format.                                      |
 | [**плайенхметафиле**](/windows/desktop/api/Wingdi/nf-wingdi-playenhmetafile)                           | Отображает изображение, хранящееся в указанном метафайле Enhanced-Format.                                                 |
 | [**плайенхметафилерекорд**](/windows/desktop/api/Wingdi/nf-wingdi-playenhmetafilerecord)               | Воспроизводит запись расширенного метафайла, выполняя функции интерфейса графических устройств (GDI), определяемые записью. |
 | [**сетенхметафилебитс**](/windows/desktop/api/Wingdi/nf-wingdi-setenhmetafilebits)                     | Создает метафайл с расширенным форматом на основе памяти из указанных данных.                                               |
-| [**сетвинметафилебитс**](/windows/desktop/api/Wingdi/nf-wingdi-setwinmetafilebits)                     | Преобразует метафайл из старого формата Windows в новый расширенный формат.                                          |
+| [**сетвинметафилебитс**](/windows/desktop/api/Wingdi/nf-wingdi-setwinmetafilebits)                     | преобразует метафайл из старого формата Windows в новый расширенный формат.                                          |
 
 
 
@@ -44,7 +44,7 @@ ms.locfileid: "104544447"
 
 ## <a name="obsolete-functions"></a>Устаревшие функции
 
-Следующие функции являются устаревшими. Предоставляются для совместимости с метафайлами Windows-Format.
+Следующие функции являются устаревшими. предоставляются для совместимости с метафайлами Windows-format.
 
 -   [**клосеметафиле**](/windows/desktop/api/Wingdi/nf-wingdi-closemetafile)
 -   [**копиметафиле**](/windows/desktop/api/Wingdi/nf-wingdi-copymetafilea)

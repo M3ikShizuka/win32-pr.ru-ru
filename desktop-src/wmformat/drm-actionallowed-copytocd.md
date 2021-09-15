@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 852d44a4c812aed0d2f188b5ab18e9b74a1813bd9605bf348ca23b96b72f7d2b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0ba214fb2f067ba523222f92211bf7a9412a1634
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119809414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459342"
 ---
 # <a name="drm_actionallowed_copytocd"></a>\_Актионалловед \_ копитокд DRM
 
@@ -31,13 +31,13 @@ g \_ всзвмдрм \_ актионалловед \_ копитокд
 
 **\_bool типа \_ ВМТ**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Windows Лицензии Media DRM 10 используют действие копирования для ограничения копирования на компакт-диск. Чтобы определить, разрешено ли копирование, проверьте свойство [**\_ Актионалловед \_ Copy DRM**](drm-actionallowed-copy.md) .
 
 Это свойство только для чтения, которое извлекается с помощью [**ивмдрмреадер:: жетдрмпроперти**](/previous-versions/windows/desktop/api/Wmsdkidl/nf-wmsdkidl-iwmdrmreader-getdrmproperty).
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

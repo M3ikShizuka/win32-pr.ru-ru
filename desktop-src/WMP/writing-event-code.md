@@ -11,12 +11,12 @@ keywords:
 - обложки, события
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b39c35864151db1671c2f7fa94caea803f0a33cc1082a3ae44082a90f7bddafb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9d994f4ee111795b8fd2b498d26ab65b8bd44dea
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119760574"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459578"
 ---
 # <a name="writing-event-code"></a>Написание кода события
 
@@ -49,7 +49,7 @@ onclick = "JScript: myView.close() ;"
 
 
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

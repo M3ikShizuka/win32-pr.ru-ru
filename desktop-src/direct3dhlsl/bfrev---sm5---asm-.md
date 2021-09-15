@@ -4,12 +4,12 @@ description: Обратный 32-разрядное число.
 ms.assetid: 24F8209A-093E-4737-BF50-12F228024E9D
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 87263a4ab2a4db54c25944905c36d81a4773e2f4eec40336b35fda03111dc3dd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 11bf0f07b6c66babf8e7f91108f86ba753420fc2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119983544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459217"
 ---
 # <a name="bfrev-sm5---asm"></a>бфрев (SM5-ASM)
 
@@ -26,7 +26,7 @@ ms.locfileid: "119983544"
 
 
 
-| Элемент                                                            | Описание                                                  |
+| Элемент                                                            | Описание:                                                  |
 |-----------------------------------------------------------------|--------------------------------------------------------------|
 | <span id="dest"></span><span id="DEST"></span>*dest*<br/> | \[в \] адресе для *src0* с обратным BITS.<br/> |
 | <span id="src0"></span><span id="SRC0"></span>*src0*<br/> | \[в \] 32-разрядном числе для обращения.<br/>              |
@@ -35,7 +35,7 @@ ms.locfileid: "119983544"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Например, при наличии 0x12345678 результат будет 0x1e6a2c48.
 
@@ -43,7 +43,7 @@ ms.locfileid: "119983544"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | X      | X    | X      | X        | X     | X       |
 

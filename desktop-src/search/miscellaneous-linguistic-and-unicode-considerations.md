@@ -4,12 +4,12 @@ ms.assetid: 7104b2da-2ece-46ce-b4ca-6c24dc4d6677
 title: Прочие лингвистические соглашения и Юникод
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 24372194fb17498e1e0ce19be1bbbac3f1dccb27a63d840cedf95de38f735026
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8433fb212917f29acbc2347c3324668a77533dee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119594484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460564"
 ---
 # <a name="miscellaneous-linguistic-and-unicode-considerations"></a>Прочие лингвистические соглашения и Юникод
 

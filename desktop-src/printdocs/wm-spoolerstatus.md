@@ -4,12 +4,12 @@ ms.assetid: 6140c9d8-0e5b-49f2-a4a6-cc1f2a0bed0a
 title: Сообщение WM_SPOOLERSTATUS (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ee2869c468517abf466b348583748e391fc1f2a4226c74b5811fffabdb5eeb89
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 460e36e44f219bcbe6f514d7d368accddae46b83
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119460344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570539"
 ---
 # <a name="wm_spoolerstatus-message"></a>\_Сообщение СПУЛЕРСТАТУС WM
 

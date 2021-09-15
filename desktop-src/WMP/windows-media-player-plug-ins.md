@@ -8,12 +8,12 @@ keywords:
 - подключаемые модули, о
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 65ee8ac885d088095157375a04dd3af48bbfcdfd080349f652b68cae26cbb419
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0d7d666874590f380e6f3828031b297d483ffff7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119053992"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571107"
 ---
 # <a name="windows-media-player-plug-ins"></a>проигрыватель Windows Media Подключаемые модули
 

@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55101355
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: bb26fed8f5751058a6152293e9aeeaa591a1841552dc003ecddc7fb7192eae0b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: bac7ce4cc06637fcb09c44ce799842dd354dd6c5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120117434"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573019"
 ---
 # <a name="esentdatabasefailedincrementalreseedexception-methods"></a>Методы EsentDatabaseFailedIncrementalReseedException 
 
@@ -28,7 +28,7 @@ ms.locfileid: "120117434"
 <tr class="header">
 <th> </th>
 <th>Имя</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>
@@ -78,7 +78,7 @@ ms.locfileid: "120117434"
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

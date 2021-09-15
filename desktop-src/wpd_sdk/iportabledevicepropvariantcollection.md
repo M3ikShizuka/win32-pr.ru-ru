@@ -14,12 +14,12 @@ api_type:
 api_location:
 - PortableDeviceGUIDs.lib
 - PortableDeviceGUIDs.dll
-ms.openlocfilehash: f5f6a59dfd741eb524c4b6015c5384123b6a2d491b5bdc030053bbc88ad6800a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 14ba07894c74567487704bb1f63e7242542af313
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119026892"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573110"
 ---
 # <a name="iportabledevicepropvariantcollection-interface"></a>Интерфейс Ипортабледевицепропвариантколлектион
 
@@ -43,7 +43,7 @@ ms.locfileid: "119026892"
 |:----------------------------------------------------------------------|:------------------------------------------------------------------------------------|
 | [**Включить**](iportabledevicepropvariantcollection-add.md)               | Добавляет элемент в коллекцию.<br/>                                          |
 | [**ChangeType**](iportabledevicepropvariantcollection-changetype.md) | Преобразует все элементы в коллекции в указанный объект VARTYPE.<br/>           |
-| [**Clear**](iportabledevicepropvariantcollection-clear.md)           | Освобождает, а затем удаляет все элементы из коллекции.<br/>                  |
+| [**Открытым**](iportabledevicepropvariantcollection-clear.md)           | Освобождает, а затем удаляет все элементы из коллекции.<br/>                  |
 | [**GetAt**](iportabledevicepropvariantcollection-getat.md)           | Извлекает элемент из коллекции по индексу, начинающимся с нуля.<br/>             |
 | [**GetCount**](iportabledevicepropvariantcollection-getcount.md)     | Возвращает число элементов в этой коллекции.<br/>                        |
 | [**GetType**](iportabledevicepropvariantcollection-gettype.md)       | Возвращает тип данных элементов коллекции.<br/>                  |
@@ -53,7 +53,7 @@ ms.locfileid: "119026892"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -64,7 +64,7 @@ ms.locfileid: "119026892"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

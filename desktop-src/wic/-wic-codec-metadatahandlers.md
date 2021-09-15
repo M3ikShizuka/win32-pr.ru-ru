@@ -4,12 +4,12 @@ ms.assetid: 08f1872b-6e4d-44ee-abc7-48685e435acc
 title: Общие сведения о расширяемости метаданных
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c7d38206fb02c47edbe9744deb6ceb0093277d8354f8717aa89c3f1976bdeb51
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6576585f7f35628432504086695dd6c64091d3b0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119088176"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570342"
 ---
 # <a name="metadata-extensibility-overview"></a>Общие сведения о расширяемости метаданных
 
@@ -37,7 +37,7 @@ ms.locfileid: "119088176"
     -   [Обработчики 8BIM](#8bim-handlers)
 -   [Связанные темы](#related-topics)
 
-## <a name="prerequisites"></a>Предварительные условия
+## <a name="prerequisites"></a>Предварительные требования
 
 Чтобы разобраться в этом разделе, необходимо иметь глубокое представление о компонентах WIC, его компонентах и метаданных для изображений. Дополнительные сведения о метаданных WIC см. в статье [Общие сведения о метаданных WIC](-wic-about-metadata.md). дополнительные сведения о компонентах WIC см. в разделе [обзор компонента создания образов Windows](-wic-about-windows-imaging-codec.md).
 
@@ -475,7 +475,7 @@ FriendlyName="Friendly Name"
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Windows Общие сведения о компонентах обработки изображений](-wic-about-windows-imaging-codec.md)

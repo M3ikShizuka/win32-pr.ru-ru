@@ -15,12 +15,12 @@ api_type:
 api_location:
 - InkObj.dll
 - InkObj.dll.dll
-ms.openlocfilehash: 808b04d7f7b7a50dc8a44ef87dccee38470509309c6e82bde5701b30049bd210
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d643696fe19523bac93ebca71cf885cd93b8570a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119938754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459425"
 ---
 # <a name="inkrectangle-class"></a>Класс Инкректангле
 
@@ -70,16 +70,16 @@ ms.locfileid: "119938754"
 | Свойство                                         | Тип доступа           | Описание                                                        |
 |:-------------------------------------------------|:----------------------|:-------------------------------------------------------------------|
 | [**Последние**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_bottom)<br/> | Чтение/запись<br/> | Возвращает или задает нижнюю точку прямоугольника.<br/>      |
-| [**Данные**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_data)<br/>     | Чтение/запись<br/> | Возвращает или задает доступ к структуре прямоугольника (только C++).<br/> |
-| [**Левый**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_left)<br/>     | Чтение/запись<br/> | Возвращает или задает левую точку прямоугольника.<br/>        |
-| [**Правый**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_right)<br/>   | Чтение/запись<br/> | Возвращает или задает правую точку прямоугольника.<br/>       |
+| [**Data**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_data)<br/>     | Чтение/запись<br/> | Возвращает или задает доступ к структуре прямоугольника (только C++).<br/> |
+| [**Слева**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_left)<br/>     | Чтение/запись<br/> | Возвращает или задает левую точку прямоугольника.<br/>        |
+| [**Правильно**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_right)<br/>   | Чтение/запись<br/> | Возвращает или задает правую точку прямоугольника.<br/>       |
 | [**Вверх**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_top)<br/>       | Чтение/запись<br/> | Возвращает или задает верхнюю точку прямоугольника.<br/>         |
 
 
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > [!Note]  
 > Точка находится внутри **инкректангле** , если она находится на [**левой**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_left) или [**верхней**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_top) стороне или находится внутри всех четырех сторон. Точка с [**правой**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_right) или [**нижней**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkrectangle-get_bottom) стороны считается за пределами прямоугольника.
@@ -93,7 +93,7 @@ ms.locfileid: "119938754"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

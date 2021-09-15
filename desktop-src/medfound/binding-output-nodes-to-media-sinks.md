@@ -5,11 +5,11 @@ title: Привязка выходных узлов к приемникам му
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 8cbea075badf74ac9e0e9354d82f4100a6167a0c
-ms.sourcegitcommit: c16214e53680dc71d1c07111b51f72b82a4512d8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "104547330"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469305"
 ---
 # <a name="binding-output-nodes-to-media-sinks"></a>Привязка выходных узлов к приемникам мультимедиа
 
@@ -173,7 +173,7 @@ HRESULT BindOutputNodes(IMFTopology *pTopology)
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

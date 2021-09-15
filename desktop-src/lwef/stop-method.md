@@ -4,12 +4,12 @@ description: Метод Stop
 ms.assetid: 68372f72-db9c-447c-a3e4-488940c730d7
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 572a93db5697aaae0dcfed6b45a834323c106bba447d2d9a8e94109f788af25c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 20192634c197559ca54bb8af3d8a29f37beb53e2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118745966"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459467"
 ---
 # <a name="stop-method-legacy-windows-environment-features"></a>метод завершения (устаревшие функции Windows среды)
 
@@ -33,7 +33,7 @@ ms.locfileid: "118745966"
 
 | Часть      | Описание                                                                                   |
 |-----------|-----------------------------------------------------------------------------------------------|
-| *Запрос* | Необязательный элемент. Объект [**запроса**](/windows/desktop/lwef/the-request-object) , указывающий конкретный вызов анимации. |
+| *Запрос* | Необязательный параметр. Объект [**запроса**](/windows/desktop/lwef/the-request-object) , указывающий конкретный вызов анимации. |
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "118745966"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы указать параметр запроса, необходимо создать переменную и назначить запрос анимации, который нужно присвоить. Если параметр **запроса** не задан, сервер останавливает все анимации для символа, включая вызовы [**Get**](get-method.md) , помещенные в очередь, и очищает ее очередь анимации, если этот символ в данный момент не содержит **скрытую** анимацию или не **отображает** ее. Этот метод не останавливает вызовы **Get** , не входящие в очередь.
 
@@ -71,7 +71,7 @@ ms.locfileid: "118745966"
 
 Этот метод не создаст объект [**запроса**](/windows/desktop/lwef/the-request-object) .
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 [**Метод Стопалл**](stopall-method.md)
 

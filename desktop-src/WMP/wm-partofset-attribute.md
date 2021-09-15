@@ -3,7 +3,7 @@ title: Атрибут WM/Партофсет
 description: Атрибут WM/Партофсет является номером части и общим количеством частей набора, к которым принадлежит элемент.
 ms.assetid: c6827c31-c625-4283-a50d-f08eccf87271
 keywords:
-- Windows Media Player для атрибута WM/Партофсет
+- проигрыватель Windows Media атрибута WM/партофсет
 topic_type:
 - apiref
 api_name:
@@ -13,17 +13,17 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: c27d6297931c503c95c8ef0462bf7b119a0ffb75
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105718074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571094"
 ---
 # <a name="wmpartofset-attribute"></a>Атрибут WM/Партофсет
 
 Атрибут **WM/партофсет** является номером части и общим количеством частей набора, к которым принадлежит элемент.
 
-## <a name="applies-to"></a>Применение
+## <a name="applies-to"></a>Применяется к
 
 -   [Музыкальные файлы](music-file-attributes.md)
 
@@ -31,7 +31,7 @@ ms.locfileid: "105718074"
 
 Этот атрибут хранится только в музыкальном файле, который отсутствует в библиотеке.
 
-Константа Windows Media Format SDK для этого атрибута — g \_ всзвмпартофсет.
+константа пакета SDK Windows Media Format для этого атрибута — g \_ всзвмпартофсет.
 
 Чтобы определить, можно ли изменить значение этого атрибута, используйте метод [Media. исреадонлитем](media-isreadonlyitem.md) .
 
@@ -41,7 +41,7 @@ ms.locfileid: "105718074"
 
 | Требование | Значение |
 |--------------------|---------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media 9 Series или более поздней версии<br/> |
+| Версия<br/> | проигрыватель Windows Media 9 Series или более поздней версии<br/> |
 
 
 

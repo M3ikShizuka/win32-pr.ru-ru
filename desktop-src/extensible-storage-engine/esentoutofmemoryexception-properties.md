@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55102511
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: bacab7aa4f119b7d2f6ea7d0fc2423d21ecbb4cb040e0f8f505f7a377748b4a8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c0f9fd3c12230d7e16bb523b9cb9cae2ad663857
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118262074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459071"
 ---
 # <a name="esentoutofmemoryexception-properties"></a>Свойства Есентаутофмеморексцептион
 
@@ -28,7 +28,7 @@ ms.locfileid: "118262074"
 <tr class="header">
 <th> </th>
 <th>Имя</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>
@@ -49,7 +49,7 @@ ms.locfileid: "118262074"
 </tr>
 <tr class="even">
 <td><img src="../images/dn292128.protproperty(exchg.10).gif" title="Защищенное свойство" alt="Protected property" /></td>
-<td><a href="/dotnet/api/system.exception.hresult#System_Exception_HResult">HResult</a></td>
+<td><a href="/dotnet/api/system.exception.hresult#System_Exception_HResult">Состав</a></td>
 <td>(Наследуется от <a href="/dotnet/api/system.exception">Exception</a>.)</td>
 </tr>
 <tr class="odd">

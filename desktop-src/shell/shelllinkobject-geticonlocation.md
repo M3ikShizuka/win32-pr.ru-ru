@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Shell32.dll
-ms.openlocfilehash: 09ace233291d5eac285ac1115866a54cb9792c85aefbb8faa5a2d1f6c37393e4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ef2f502d30116def68aa43269b3020d404ce177d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117857585"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460299"
 ---
 # <a name="shelllinkobjectgeticonlocation-method"></a>Шелллинкобжект. Жетиконлокатион, метод
 

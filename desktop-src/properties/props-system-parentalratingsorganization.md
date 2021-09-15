@@ -4,12 +4,12 @@ ms.assetid: a8aac7cb-ec9c-41cb-a802-50a4008568af
 title: System. Паренталратингсорганизатион
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 701d7cd2e8d58bca8815548114f4c9acc22663e0699dd622c7386334b5b8eb43
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3022141902bd53211d6276cfb2deb6c937da4868
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119033462"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460697"
 ---
 # <a name="systemparentalratingsorganization"></a>System. Паренталратингсорганизатион
 

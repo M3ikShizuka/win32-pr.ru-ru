@@ -13,12 +13,12 @@ api_type:
 api_location:
 - Shldisp.h
 ms.assetid: 44a6411c-bcbc-4ef6-b5dc-7bdb4d482c6a
-ms.openlocfilehash: 035e0689c10145a70cb6fe963bd50b880bef13b0b815ebfcc4b0b96bccdab5c2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d4e5241625e80f9df254916a1cbb578f466c1c3c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118220960"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460411"
 ---
 # <a name="ishelldispatch5windowswitcher-method"></a>IShellDispatch5. Виндовсвитчер, метод
 
@@ -55,7 +55,7 @@ IShellDispatch5.WindowSwitcher()
 
 Этот метод не возвращает значение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -63,7 +63,7 @@ IShellDispatch5.WindowSwitcher()
 |-------------------------------------|----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                         |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                   |
-| Header<br/>                   | <dl> <dt>Шлдисп. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Шлдисп. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>Шлдисп. idl</dt> </dl> |
 
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7caecfa4ba9e8b00aa964d48cf573d84d3e7db65faf2e53d26d66ea4cfe492c0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dfebe1330b5c37758dc3d9486633510fdce62049
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119964344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572907"
 ---
 # <a name="wm_rbuttondown-message"></a>\_Сообщение РБУТТОНДОВН WM
 
@@ -74,7 +74,7 @@ ms.locfileid: "119964344"
 
 Если приложение обрабатывает это сообщение, оно должно вернуть ноль.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы получить горизонтальное и вертикальное расположение, используйте следующий код:
 
@@ -135,7 +135,7 @@ yPos = GET_Y_LPARAM(lParam);
 [**WM \_ рбуттонуп**](wm-rbuttonup.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с помощью мыши](mouse-input.md)

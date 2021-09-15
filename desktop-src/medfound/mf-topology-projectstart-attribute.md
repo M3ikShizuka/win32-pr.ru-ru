@@ -4,12 +4,12 @@ ms.assetid: 7669f97e-87ad-4a64-a2a5-62b8ce450d80
 title: Атрибут MF_TOPOLOGY_PROJECTSTART (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f295f68b3ac94bf29fa4607eb2b5ba00ea8eab19774bcaa0af150ef6d3fbe1f4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 34a7e3d50bd89e0fdfc032f9854c1a183276f04a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117875411"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459457"
 ---
 # <a name="mf_topology_projectstart-attribute"></a>\_ \_ Атрибут ПРОЖЕКТСТАРТ топологии MF
 
@@ -21,7 +21,7 @@ ms.locfileid: "117875411"
 
 Рассматривать как значение **лонглонг** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значение задается в единицах 100 наносекунд.
 
@@ -31,7 +31,7 @@ ms.locfileid: "117875411"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ ms.locfileid: "117875411"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

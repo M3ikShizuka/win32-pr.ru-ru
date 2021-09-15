@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3971e8cd63a9d78f1c12cb912e6888d51abc9635e78be8d291a1d5535647292e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bbc455c5815cee1aaac139886bca1d847ddc62b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119053452"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459239"
 ---
 # <a name="iwmpplaylistcollectionnewplaylist-method"></a>Метод Ивмпплайлистколлектион:: Невплайлист
 
@@ -64,7 +64,7 @@ Implements IWMPPlaylistCollection.newPlaylist
 
 Интерфейс **вмплиб. ивмпплайлист** для нового списка воспроизведения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод создает пустой список воспроизведения в библиотеке. Чтобы заполнить список воспроизведения с помощью элементов мультимедиа, используйте **ивмпплайлист. аппендитем** или **ивмпплайлист. insertItem**.
 
@@ -95,7 +95,7 @@ Dim newList As WMPLib.IWMPPlaylist = player.playlistCollection.newPlaylist(&quot
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -107,7 +107,7 @@ Dim newList As WMPLib.IWMPPlaylist = player.playlistCollection.newPlaylist(&quot
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

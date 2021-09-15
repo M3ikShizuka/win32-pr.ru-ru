@@ -13,11 +13,11 @@ api_name:
 api_type:
 - NA
 ms.openlocfilehash: 347ad66dce0a81b929d5dc3c82051bf84226e723
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105710787"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570914"
 ---
 # <a name="closest-hit-shader"></a>Шейдер ближайшего попадания
 

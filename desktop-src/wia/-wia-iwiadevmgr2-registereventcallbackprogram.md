@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Wia.h
-ms.openlocfilehash: 6ebc99e61bf038c8db2ea537a1f8a5933ad512d21ec05cf51f6f8b7af5ede2b5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9b18b5833b7616493c24f0128caa7c910b685e37
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118441302"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573179"
 ---
 # <a name="iwiadevmgr2registereventcallbackprogram-method"></a>Метод IWiaDevMgr2:: Регистеревенткаллбаккпрограм
 
@@ -136,7 +136,7 @@ HRESULT RegisterEventCallbackProgram(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Используйте **IWiaDevMgr2:: регистеревенткаллбаккпрограм** для регистрации событий аппаратного устройства. При возникновении события, для которого зарегистрировано приложение, запускается приложение, а сведения о событии передаются в приложение.
 
@@ -146,7 +146,7 @@ HRESULT RegisterEventCallbackProgram(
 
 Как правило, этот метод вызывается программой установки или сценарием. Программа установки или сценарий регистрирует приложение для получения событий устройства WIA 2,0. Когда происходит это событие, приложение запускается с помощью системы времени выполнения WIA 2,0.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -154,7 +154,7 @@ HRESULT RegisterEventCallbackProgram(
 |-------------------------------------|----------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                   |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                             |
-| Header<br/>                   | <dl> <dt>WIA. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>WIA. h</dt> </dl> |
 
 
 

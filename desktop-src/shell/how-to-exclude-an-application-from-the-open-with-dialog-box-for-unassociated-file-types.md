@@ -3,12 +3,12 @@ description: Исключение приложения из диалоговог
 title: Исключение приложения из диалогового окна "Открыть с помощью" для несвязанных типов файлов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9d90ae5ab49128df1eedd9b760286ce54f6b6498cbe00d4a945145a80f956cde
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 9443416e95fca112623d487bf58f4fce1d51d13d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119350922"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460451"
 ---
 # <a name="how-to-exclude-an-application-from-the-open-with-dialog-box-for-unassociated-file-types"></a>Исключение приложения из диалогового окна "Открыть с помощью" для несвязанных типов файлов
 
@@ -18,7 +18,7 @@ ms.locfileid: "119350922"
 
 Чтобы приложение не отображалось в диалоговом окне **Открыть с помощью** , если приложение не должно быть открыто или не может использоваться для открытия определенных типов файлов, используйте один из двух методов, описанных в этом разделе.
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="step-1"></a>Шаг 1.
 

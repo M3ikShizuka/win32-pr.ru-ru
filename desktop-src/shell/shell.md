@@ -14,11 +14,11 @@ api_location:
 - Shell32.dll
 ms.assetid: 75fc151e-5b9e-476b-b4e5-b848917357a8
 ms.openlocfilehash: d31adcbf5a12d699750029c15a308ef73f4d8c03
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122467231"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460332"
 ---
 # <a name="shell-object"></a>Объект оболочки
 
@@ -68,7 +68,7 @@ ms.locfileid: "122467231"
 | <a href="/windows/desktop/shell/shell-shellexecute"><strong>ShellExecute</strong></a> | Выполняет указанную операцию с указанным файлом.<br /> | 
 | <a href="/windows/desktop/shell/shell-showbrowserbar"><strong>шовбровсербар</strong></a> | Отображает панель браузера.<br /> | 
 | <a href="shell-shutdownwindows.md"><strong>шутдовнвиндовс</strong></a> | отображает диалоговое окно <strong>завершение работы Windows</strong> . Это то же самое, что и при нажатии кнопки « <strong>Пуск</strong> », и при выборе « <strong>Завершение работы</strong>».<br /> | 
-| <a href="shell-suspend.md"><strong>Приостановить</strong></a> | < | 
+| <a href="shell-suspend.md"><strong>Анализируем</strong></a> | < | 
 | <a href="shell-tilehorizontally.md"><strong>тилехоризонталли</strong></a> | Мозаичное отображение всех окон на рабочем столе по горизонтали. этот метод действует аналогично щелчку правой кнопкой мыши панели задач и выбора <strong>плитки Windows горизонтально</strong>.<br /> | 
 | <a href="shell-tilevertically.md"><strong>тилевертикалли</strong></a> | Располагает все окна на рабочем столе по вертикали. этот метод имеет тот же результат, что и щелчок правой кнопкой мыши панели задач и выбор <strong>плитки Windows вертикально</strong>.<br /> | 
 | <a href="shell-toggledesktop.md"><strong>тоггледесктоп</strong></a> | Отображает или скрывает Рабочий стол.<br /> | 
@@ -83,13 +83,13 @@ ms.locfileid: "122467231"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Объект **оболочки** имеет следующие свойства.
 
 
 
-| Свойство                                            | Тип доступа          | Описание                                                                 |
+| Свойство.                                            | Тип доступа          | Описание                                                                 |
 |:----------------------------------------------------|:---------------------|:----------------------------------------------------------------------------|
 | [**Приложение**](shell-application.md)<br/> | Только для чтения<br/> | Содержит объект приложения объекта.<br/>                        |
 | [**Parent**](shell-parent.md)<br/>           | Только для чтения<br/> | Возвращает объект, представляющий родительский объект текущего объекта.<br/> |

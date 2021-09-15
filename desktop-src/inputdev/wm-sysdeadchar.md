@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5e7ddf63ab4643ef59e45a4850a18a9823753c16a59b4519fe099326fe071704
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2052f8ced24ac998a56a4365552fee4bc5e0b21e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118757226"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572891"
 ---
 # <a name="wm_sysdeadchar-message"></a>\_Сообщение СИСДЕАДЧАР WM
 
@@ -68,7 +68,7 @@ ms.locfileid: "118757226"
 
 Приложение должно вернуть нуль, если оно обрабатывает это сообщение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Для расширенных клавиш с 101 и 102, расширенными ключами являются сочетания клавиш ALT и CTRL в основном разделе клавиатуры. клавиши INS, DEL, ДОМАШНяя, КОНЕЧная страница вверх, PAGE DOWN и стрелка в кластерах слева от цифровой клавиатуры; и клавиши деления (/) и ENTER на цифровой клавиатуре. Другие клавиатуры могут поддерживать бит расширенного ключа в параметре *lParam* .
 
@@ -100,7 +100,7 @@ ms.locfileid: "118757226"
 [**WM \_ сискэйдовн**](wm-syskeydown.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с клавиатуры](keyboard-input.md)

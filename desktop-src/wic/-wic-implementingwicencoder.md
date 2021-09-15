@@ -4,12 +4,12 @@ ms.assetid: 9c1a4fa4-30b9-445f-8aee-46711355ace7
 title: Реализация кодировщика WIC-Enabled
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7b7f0bf3c073b3658c6c6edda6cf0761e3d594965b83b1b54206a48b62c96727
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a6e65f969ba7c65e6860009b2fc998024d358301
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118710933"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460178"
 ---
 # <a name="implementing-a-wic-enabled-encoder"></a>Реализация кодировщика WIC-Enabled
 
@@ -33,7 +33,7 @@ ms.locfileid: "118710933"
 [**ивикбитмапенкодер**](/windows/desktop/api/wincodec/nn-wincodec-iwicbitmapencoder)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Реализация Ивикдевелоправ](-wic-imp-iwicdevelopraw.md)

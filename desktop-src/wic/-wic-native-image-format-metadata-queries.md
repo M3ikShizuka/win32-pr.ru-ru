@@ -4,12 +4,12 @@ ms.assetid: a6ab1708-dd82-4960-b908-f1daef7374ef
 title: Запросы метаданных встроенных форматов изображений
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 463315a1fb18f0f3dc177635f7e63505589e239257dc9cc25fcfa0773ddb25f4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4be5e9c0f853e4c5e48fb5eb41f2d2ab27b4f4d6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119882384"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460177"
 ---
 # <a name="native-image-format-metadata-queries"></a>Запросы метаданных встроенных форматов изображений
 
@@ -351,7 +351,7 @@ if (SUCCEEDED(hr))
 | /{ушорт = 306}   | Дата и время                  | VT \_ LPSTR                                      |
 | /{ушорт = 270}   | ImageDescription          | VT \_ LPSTR                                      |
 | /{ушорт = 271}   | Убедитесь,                      | VT \_ LPSTR                                      |
-| /{ушорт = 272}   | Модель                     | VT \_ LPSTR                                      |
+| /{ушорт = 272}   | Моделирование                     | VT \_ LPSTR                                      |
 | /{ушорт = 305}   | Программное обеспечение                  | VT \_ LPSTR                                      |
 | /{ушорт = 315}   | Исполнител                    | VT \_ LPSTR                                      |
 | /{ушорт = 33432} | Copyright                 | VT \_ LPSTR                                      |
@@ -556,7 +556,7 @@ XMP и позволяет сторонним сущностям публиков
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Windows Общие сведения о компонентах обработки изображений](-wic-about-windows-imaging-codec.md)

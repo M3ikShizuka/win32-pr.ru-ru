@@ -15,12 +15,12 @@ api_type:
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1c27089fb09c2408917be06b2f74e6d32f3e2f5aa9b96924de1ab92de190efb8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ec147833ee94969880865f679d40a198e0b22852
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119045642"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570887"
 ---
 # <a name="d3d12decomposesubresource-function"></a>Функция D3D12DecomposeSubresource
 
@@ -104,7 +104,7 @@ void inline D3D12DecomposeSubresource(
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция определяет, какой срез MIP, срез массива и срез плоскости соответствуют заданному индексу подресурсов. Это полезная служебная программа, хотя это и зависит от языка C++.
 
@@ -123,7 +123,7 @@ inline void D3D12DecomposeSubresource( UINT Subresource, UINT MipLevels, UINT Ar
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -135,7 +135,7 @@ inline void D3D12DecomposeSubresource( UINT Subresource, UINT MipLevels, UINT Ar
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 [Вспомогательные функции для D3D12](helper-functions-for-d3d12.md)
 

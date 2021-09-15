@@ -4,12 +4,12 @@ ms.assetid: 05d63224-7974-4c8a-b966-41d3be646854
 title: программа Client Software Logo для Windows 7
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 69501abac7e52cdba8a4c7909cdf780e012cc45fabe46dd44a1f3fce0f58b89d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9ae28ea4dc6dccd64d4ce879235761dab6ab7014
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118329972"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571034"
 ---
 # <a name="windows-7-client-software-logo-program"></a>программа Client Software Logo для Windows 7
 

@@ -1,29 +1,29 @@
 ---
-title: Создание файлов ASF в DirectShow (пакет SDK для формата Windows Media 11)
-description: Сведения о создании файлов ASF в DirectShow с помощью пакета SDK для Windows Media Format 11. ASF — это формат контейнера, который может содержать данные любого типа.
+title: создание файлов ASF в DirectShow (пакет SDK для Windows Media Format 11)
+description: дополнительные сведения о создании файлов ASF в DirectShow с помощью пакета SDK для Windows Media Format 11. ASF — это формат контейнера, который может содержать данные любого типа.
 ms.assetid: 8b7af340-934d-43a9-88e9-7bbb2d3a38e0
 keywords:
-- Windows Media Format SDK, создание файлов ASF в DirectShow
-- Пакет SDK для Windows Media Format, DirectShow
-- Расширенный системный формат (ASF), DirectShow
+- Windows Пакет SDK для формата мультимедиа, создание файлов ASF в DirectShow
+- Windows Пакет SDK для формата мультимедиа, DirectShow
+- Расширенный формат систем (ASF), DirectShow
 - ASF (Расширенный системный формат), DirectShow
-- Расширенный системный формат (ASF), создание в DirectShow
+- Расширенный формат систем (ASF), создание в DirectShow
 - ASF (Расширенный системный формат), создание в DirectShow
 - DirectShow, создание файлов ASF
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 9e06b6deb6dc9f07115f8143309d32dcf4a58a0f
-ms.sourcegitcommit: 5d4e99f4c8f42f5f543e52cb9beb9fb13ec56c5f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112406187"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458969"
 ---
-# <a name="creating-asf-files-in-directshow-windows-media-format-11-sdk"></a>Создание файлов ASF в DirectShow (пакет SDK для формата Windows Media 11)
+# <a name="creating-asf-files-in-directshow-windows-media-format-11-sdk"></a>создание файлов ASF в DirectShow (пакет SDK для Windows Media Format 11)
 
-С помощью DirectShow можно создавать файлы ASF непосредственно из источников захвата, таких как видеокамеры или перекодировать другие файлы в формат Windows Media. В любом сценарии приложения создают графы фильтров, в которых в качестве модуля подготовки отчетов включен фильтр [записи WM ASF](wm-asf-writer-filter.md) .
+DirectShow можно использовать для создания файлов ASF непосредственно из источников захвата, таких как видеокамеры или для перекодирования других файлов в формат мультимедиа Windows. В любом сценарии приложения создают графы фильтров, в которых в качестве модуля подготовки отчетов включен фильтр [записи WM ASF](wm-asf-writer-filter.md) .
 
-Модуль записи WM ASF предоставляет частичную оболочку для пакета SDK Windows Media Format. Приложения могут использовать интерфейс [**иконфигасфвритер**](/previous-versions/windows/desktop/legacy/dd743205(v=vs.85)) фильтра для передачи системного профиля (версии 4, 7 или 8) или напрямую использовать пакет SDK формата Windows Media для создания настраиваемого профиля для передачи в фильтр. Чтобы добавить метаданные и другие сведения о заголовке, приложение использует интерфейс [**ивмхеадеринфо**](/previous-versions/windows/desktop/api/wmsdkidl/nn-wmsdkidl-iwmheaderinfo) , который можно получить из фильтра. После настройки профиля и метаданных приложение может просто запустить граф фильтра. На внутреннем уровне фильтр использует пакет SDK Windows Media Format для записи файла. Фильтр обрабатывает все данные синхронизации аудио-видео, которые в противном случае были бы ответственными за приложение.
+модуль записи WM ASF предоставляет частичную оболочку для пакета SDK для Windows Media Format. приложения могут использовать интерфейс [**иконфигасфвритер**](/previous-versions/windows/desktop/legacy/dd743205(v=vs.85)) фильтра для передачи системного профиля (версии 4, 7 или 8) или использовать пакет SDK для Windows Media Format напрямую, чтобы создать настраиваемый профиль для передачи в фильтр. Чтобы добавить метаданные и другие сведения о заголовке, приложение использует интерфейс [**ивмхеадеринфо**](/previous-versions/windows/desktop/api/wmsdkidl/nn-wmsdkidl-iwmheaderinfo) , который можно получить из фильтра. После настройки профиля и метаданных приложение может просто запустить граф фильтра. на внутреннем уровне фильтр использует пакет SDK для Windows Media Format для записи файла. Фильтр обрабатывает все данные синхронизации аудио-видео, которые в противном случае были бы ответственными за приложение.
 
 Этот процесс более подробно описывается в следующих разделах.
 

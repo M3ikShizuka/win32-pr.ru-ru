@@ -3,9 +3,9 @@ title: StringCollection. getItemInfo, метод
 description: Метод getItemInfo извлекает строку, соответствующую указанному индексу и имени элемента StringCollection.
 ms.assetid: a031b91e-9d3b-47ac-bc5b-c111d5e3bc12
 keywords:
-- getItemInfo метод Windows Media Player
-- getItemInfo метод Windows Media Player, класс StringCollection
-- Класс StringCollection Windows Media Player, метод getItemInfo
+- проигрыватель Windows Media метода getItemInfo
+- проигрыватель Windows Media метода getItemInfo, класс StringCollection
+- класс StringCollection проигрыватель Windows Media, метод getItemInfo
 topic_type:
 - apiref
 api_name:
@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 1c9552dcebbc7d565ebc797c62ac3bc00ee109fb
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105717938"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570086"
 ---
 # <a name="stringcollectiongetiteminfo-method"></a>StringCollection. getItemInfo, метод
 
@@ -61,7 +61,7 @@ strRetVal = StringCollection.getItemInfo(
 
 Этот метод возвращает **строку** , представляющую значение указанного атрибута. Для атрибутов, базовое значение которых является **логическим**, оно возвращает строку "true" или "false".
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Чтобы получить атрибуты с несколькими значениями и атрибутами со сложными значениями, используйте метод **жетитеминфобитипе** .
 
@@ -73,7 +73,7 @@ strRetVal = StringCollection.getItemInfo(
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media 11.<br/>                                                |
+| Версия<br/> | проигрыватель Windows Media 11.<br/>                                                |
 | DLL<br/>     | <dl> <dt>Wmp.dll</dt> </dl> |
 
 

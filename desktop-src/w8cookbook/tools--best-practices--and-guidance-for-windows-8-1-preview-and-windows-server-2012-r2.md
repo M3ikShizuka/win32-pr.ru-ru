@@ -4,12 +4,12 @@ description: средства, рекомендации и рекомендац�
 ms.assetid: 5317C292-1C1F-45DB-B4A4-BCE59991B4B3
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2d687d4c52d5afac5fdb73779907882a0e2a1570125c1fc88d69686d6e12eb5c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4afd10e5d9ea6c4dcdb2ac504a8bcc449a8dbe38
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117852190"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570362"
 ---
 # <a name="tools-best-practices-and-guidance-for-windows-81-and-windows-server-2012-r2"></a>средства, рекомендации и рекомендации для Windows 8.1 и Windows Server 2012 R2
 

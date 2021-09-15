@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: aad690278b45563395c926adb4d0329bff8a01c7e8ace2f25ff3fefdb9c39cee
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 56d988fefc436b65652d2b0765320ca289417c9c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118568699"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459259"
 ---
 # <a name="iwmpplaylistcount-property"></a>Свойство Ивмпплайлист:: count
 
@@ -51,7 +51,7 @@ Public ReadOnly Property count As System.Int32
 
 Объект **System. Int32** , который является числом элементов мультимедиа в списке воспроизведения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Перед использованием этого свойства необходимо иметь доступ на чтение к библиотеке. Дополнительные сведения см. в разделе [доступ к библиотеке](library-access.md).
 

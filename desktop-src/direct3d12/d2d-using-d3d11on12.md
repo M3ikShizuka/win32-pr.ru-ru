@@ -5,12 +5,12 @@ ms.assetid: FAEF1412-053C-4B5F-80FA-85396C2586B4
 ms.localizationpriority: high
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a84f935ba49df4910aa729c39ae6ac0ce08f3810bf3b0cd75752bbe4c00e9ef1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d18399b85499787f74dab725d562b6a299878b35
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119858023"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570899"
 ---
 # <a name="d2d-using-d3d11on12"></a>D2D и D3D11on12
 

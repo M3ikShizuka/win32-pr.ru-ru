@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: 32c3745a16061805ae165c3542e8bb7f8aba6c7e8d932cfcc169186c6d4a14e0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cea1bec170664993332b1cde1de375c416209209
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118304478"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573075"
 ---
 # <a name="d3dxmatrixperspectivefovlh-function-d3dx10mathh"></a>Функция D3DXMatrixPerspectiveFovLH (D3DX10Math. h)
 
@@ -95,7 +95,7 @@ Z-значение дальней плоскости просмотра.
 
 Указатель на структуру D3DXMATRIX, которая является матрицей перспективной проекции влево.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре тоска. Таким образом, функция D3DXMatrixPerspectiveFovLH может использоваться в качестве параметра для другой функции.
 

@@ -4,12 +4,12 @@ description: Содержит справочные страницы по фун�
 ms.assetid: 8B2DD325-53D6-4221-A175-88754242D7A3
 ms.topic: article
 ms.date: 02/11/2020
-ms.openlocfilehash: a496e61b0bf077a37867278d962978a515207ecb46561f244a6d9890005f17fe
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e556fc2d66900841915a41b38f12a7dec02d334c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118541939"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570959"
 ---
 # <a name="device-access-api-c-programming-reference"></a>Справочник по программированию API доступа к устройствам C++
 

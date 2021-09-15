@@ -4,12 +4,12 @@ description: Свойство Status
 ms.assetid: vs|msagent|~\pacontrol_8xd6.htm
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6edb1196e5ec41571c9c760b91a72b350b94f6b85f1f85af018691d3f25ecec5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 402e88185e1024aa5958d06936a6529ae4012622
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118245828"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459468"
 ---
 # <a name="status-property"></a>Свойство Status
 
@@ -47,7 +47,7 @@ ms.locfileid: "118245828"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот параметр позволяет клиентскому приложению запрашивать канал вывода звука, возвращая целочисленное значение, которое указывает состояние канала вывода звука. Его можно использовать, чтобы определить, подходит ли символ для диктовки или нужно ли попытаться включить режим прослушивания (с помощью метода [**Listen**](listen-method.md) ).
 

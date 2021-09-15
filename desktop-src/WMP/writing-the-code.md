@@ -10,12 +10,12 @@ keywords:
 - Написание кода для обложек, о
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bac63a871be65dd4217d65a7d9353531bc9253e1881e8ba6fedb6da94fe113e3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3834255bd8cb1da14c2712ab69e4da6d750c32e8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117745520"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459577"
 ---
 # <a name="writing-the-code"></a>Написание кода
 
@@ -33,7 +33,7 @@ ms.locfileid: "117745520"
 
 Дополнительные сведения об особенностях файлов определения обложки см. в [справочнике по обложкам](skin-reference.md).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

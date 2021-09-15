@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Shldisp.h
-ms.openlocfilehash: a9805656d977118a5dcb657cb2a598e6ad58cfb799f4342340a074b3326c4f68
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 55a64f559693b8c593ed366345ba5571a16797e3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118720544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460379"
 ---
 # <a name="webwizardhostproperty-property"></a>Вебвизардхост. Property, свойство
 
@@ -48,7 +48,7 @@ WebWizardHost.Property = Property
 |-------------------------------------|----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                            |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                   |
-| Header<br/>                   | <dl> <dt>Шлдисп. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Шлдисп. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>Шлдисп. idl</dt> </dl> |
 
 

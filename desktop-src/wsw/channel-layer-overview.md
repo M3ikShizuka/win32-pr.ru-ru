@@ -9,11 +9,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 6e52c4844bee472d4d22df7681fece16330f30cf
-ms.sourcegitcommit: 5b98bf8c68922f8f03c14f793fbe17504900559c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "104552915"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573103"
 ---
 # <a name="channel-layer-overview"></a>Обзор уровня канала
 
@@ -29,7 +29,7 @@ ms.locfileid: "104552915"
 
 ![Схема, в которой показаны несколько форматов кодирования сообщений.](images/messageandencodings.png)
 
-## <a name="channel"></a>Канал
+## <a name="channel"></a>Channel
 
 [Канал](channel.md) — это объект, используемый для отправки и получения сообщений в сети между двумя или более конечными точками.
 
@@ -335,7 +335,7 @@ WsWriteMessageEnd       // write the end of the message
 
 ## <a name="message-loops"></a>Циклы сообщений
 
-Для каждого шаблона обмена сообщениями существует отдельный цикл, который можно использовать для отправки или получения сообщений. В цикле описывается юридический порядок операций, необходимых для отправки и получения нескольких сообщений. Циклы описаны ниже как грамматические продукты. Термин «End» («конец») возвращает значение Where **WS \_ S \_** (см. раздел [возвращаемые значения веб-служб Windows](windows-web-services-return-values.md)), что означает, что на канале больше нет доступных сообщений. Параллельное производство указывает, что для Parallel (x & y) Эта операция x может выполняться параллельно с y.
+Для каждого шаблона обмена сообщениями существует отдельный цикл, который можно использовать для отправки или получения сообщений. В цикле описывается юридический порядок операций, необходимых для отправки и получения нескольких сообщений. Циклы описаны ниже как грамматические продукты. термин «end» («конец») возвращает значение where **WS \_ S \_** (см. статью [Windows возвращаемые значения веб-служб](windows-web-services-return-values.md)), что означает, что на канале больше нет доступных сообщений. Параллельное производство указывает, что для Parallel (x & y) Эта операция x может выполняться параллельно с y.
 
 На клиенте используются следующие циклы.
 
@@ -405,7 +405,7 @@ API [**всабортлистенер**](/windows/desktop/api/WebServices/nf-web
 
 ## <a name="namedpipes"></a>намедпипес
 
-[**\_ \_ \_ Привязка канала WS помощью канала NamedPipe**](/windows/desktop/api/WebServices/ne-webservices-ws_channel_binding) поддерживает протокол SOAP через именованные каналы, что позволяет обмениваться данными со службой Windows Communication Foundation (WCF) с помощью NetNamedPipeBinding.
+[**\_ \_ \_ привязка канала WS помощью канала namedpipe**](/windows/desktop/api/WebServices/ne-webservices-ws_channel_binding) поддерживает протокол SOAP через именованные каналы, что позволяет обмениваться данными со службой Windows Communication Foundation (WCF) с помощью NetNamedPipeBinding.
 
 ## <a name="correlating-requestreply-messages"></a>Корреляция сообщений "запрос-ответ"
 

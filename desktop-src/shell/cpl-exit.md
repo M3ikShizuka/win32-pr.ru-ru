@@ -4,12 +4,12 @@ ms.assetid: 1afcb0d3-41a7-4fd8-9561-d96e1e8f0ddb
 title: Сообщение CPL_EXIT (CPL. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9007c05de134b32e3c4dfd7b256f2392f547d298b2d654dddc256b6ed711bb9e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0adea6c4b05ee752829634f7478df2ac651e69f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119715606"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460538"
 ---
 # <a name="cpl_exit-message"></a>\_Сообщение выхода CPL
 

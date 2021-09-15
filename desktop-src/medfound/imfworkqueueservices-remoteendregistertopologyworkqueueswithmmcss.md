@@ -4,12 +4,12 @@ ms.assetid: 94dce412-6a72-4ddf-86a3-5176ee1eb6d2
 title: Ремотиндрегистертопологиворккуеуесвисммксс (Мфобжектс. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a82861da29a5cae3cc9275e7a45372363280df7a7d2026bc4dfa4e2e1147a76c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3333becfcd7a3c5e2621b628b6435b96af017cf8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120114304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469282"
 ---
 # <a name="remoteendregistertopologyworkqueueswithmmcss"></a>ремотиндрегистертопологиворккуеуесвисммксс
 
@@ -26,7 +26,7 @@ HRESULT RemoteEndRegisterTopologyWorkQueuesWithMMCSS(
 
 Приложения не могут вызывать этот метод напрямую, и объекты не реализуют этот метод. Метод не отображается в таблице vtable для интерфейса. Если [**ендрегистертопологиворккуеуесвисммксс**](/windows/desktop/api/mfidl/nf-mfidl-imfworkqueueservices-endregistertopologyworkqueueswithmmcss) вызывается через границы процесса, то библиотека DLL прокси или заглушки Media Foundation преобразует вызов в вызов удаленного метода и затем преобразует его обратно.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -39,7 +39,7 @@ HRESULT RemoteEndRegisterTopologyWorkQueuesWithMMCSS(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

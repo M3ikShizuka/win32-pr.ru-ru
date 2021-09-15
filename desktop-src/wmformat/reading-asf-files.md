@@ -9,12 +9,12 @@ keywords:
 - ASF (Расширенный системный формат), чтение файлов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e01f417cafad4e125c6c176ac35e95ff3ab8f08c4f600b811865a9fb6ae51362
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 32f35cbd0e9a7dde800e23f83337ac30cdd66582
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118197522"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458917"
 ---
 # <a name="reading-asf-files"></a>Чтение файлов ASF
 
@@ -30,7 +30,7 @@ ms.locfileid: "118197522"
 
 
 
-| Компонент                                                                    | Асинхронный читатель | Читатель синхронизации |
+| Функция                                                                    | Асинхронный читатель | Читатель синхронизации |
 |----------------------------------------------------------------------------|--------------|-------------|
 | Чтение несжатых образцов по номеру выхода                                 | Да          | Да         |
 | Чтение сжатых образцов по номеру потока                                   | Да          | Да         |

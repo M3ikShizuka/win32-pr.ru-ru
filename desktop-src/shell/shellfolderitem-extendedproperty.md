@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Shell32.dll
-ms.openlocfilehash: f5aa8ab3ba61d752cfe4d9f8ecd29bf4fcd06c3dbadde94e51ac9a05a8504b43
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 614e42512b17a0d8a6950ac96914128b8746c685
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118452820"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460327"
 ---
 # <a name="shellfolderitemextendedproperty-method"></a>Шеллфолдеритем. ExtendedProperty, метод
 

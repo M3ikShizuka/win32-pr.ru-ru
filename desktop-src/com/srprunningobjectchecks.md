@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 0ad307856bcfdd30cfaa6c731551ac6570d2bec6
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369645"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458864"
 ---
 # <a name="srprunningobjectchecks"></a>српруннингобжектчеккс
 
@@ -24,13 +24,13 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole
    SRPRunningObjectChecks = value
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это значение **reg \_ SZ** .
 
 Строковые значения {N, N, нет, нет, нет} указывает, что попытки подключения к работающим объектам не отображаются на экране для совместимых уровней безопасности SRP. Если для этого параметра реестра задано любое другое значение или оно не существует, то выполняющийся объект не может иметь менее строгий уровень доверия SRP, чем объект клиента. Например, выполняющийся объект не может иметь неразрешенный уровень доверия, если у клиентского объекта есть неограниченный уровень доверия.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: fb2c487a-d395-45eb-9010-936a61a414d0
 title: Windows Выявлен
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bd80becbcb54036872a36e04aef5e6c5a466fd8edc383217f41a5dc1b1758973
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ff332afe1b586b05866d78b49013a264e815f3eb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119795884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571026"
 ---
 # <a name="windows-troubleshooting"></a>Windows Выявлен
 

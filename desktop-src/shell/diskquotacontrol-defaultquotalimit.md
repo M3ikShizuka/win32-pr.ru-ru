@@ -13,12 +13,12 @@ api_type:
 api_location:
 - Shell32.dll
 ms.assetid: 7d123bff-5dae-4430-be22-a822e231e43e
-ms.openlocfilehash: 87c6bfdf9321b0746cdff96de60f29aa3ec9c93e9c3222d4bc262ae211ece147
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6031f0fbf6c3c872252e9a80204c07356c54d0cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117860875"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460508"
 ---
 # <a name="diskquotacontroldefaultquotalimit-property"></a>Дисккуотаконтрол. Дефаулткуоталимит, свойство
 

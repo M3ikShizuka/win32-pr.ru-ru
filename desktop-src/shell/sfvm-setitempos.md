@@ -14,11 +14,11 @@ topic_type:
 - APIRef
 - kbSyntax
 ms.openlocfilehash: 450aeabee6e5edeba466e4a5fe64725c13eea32b
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104272646"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460360"
 ---
 # <a name="sfvm_setitempos-message"></a>\_Сообщение сфвм сетитемпос
 
@@ -53,9 +53,9 @@ ms.locfileid: "104272646"
 
 | Требование | Значение |
 |-------------------------------------|-------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для настольных приложений Windows XP с пакетом обновления 1 \[\]<br/>                                |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                |
-| Header<br/>                   | <dl> <dt>Шлобж. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows XP с пакетом обновления 1 (SP1), \[ только классические приложения\]<br/>                                |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                |
+| Заголовок<br/>                   | <dl> <dt>Шлобж. h</dt> </dl> |
 
 
 

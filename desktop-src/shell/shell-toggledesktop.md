@@ -13,12 +13,12 @@ api_type:
 api_location:
 - Shell32.dll
 ms.assetid: BD07F7F2-A588-4189-95F4-3A8E2905E8F5
-ms.openlocfilehash: 2007b133e6ef13ab4c4284ddff8486307c5beb6e0450b067699a0f6316df8d7e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 472f6141b8aaed47ac05c8eaf670a0d039ce5561
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118968513"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460340"
 ---
 # <a name="shelltoggledesktop-method"></a>Shell. Тоггледесктоп, метод
 
@@ -111,7 +111,7 @@ End Sub
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

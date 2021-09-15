@@ -5,11 +5,11 @@ title: Общие сведения о языке запросов метадан
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 41e141c543cae90ff99d8c0509a0f5802dba1139
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122885220"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570339"
 ---
 # <a name="metadata-query-language-overview"></a>Общие сведения о языке запросов метаданных
 
@@ -26,7 +26,7 @@ ms.locfileid: "122885220"
     -   [Образцы выражений](#sample-expressions)
 -   [Выражения политики метаданных фотографий](#photo-metadata-policy-expressions)
 -   [Сводка по языку запросов метаданных](#metadata-query-language-summary)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="prerequisites"></a>Предварительные требования
 
@@ -231,7 +231,7 @@ Escape-символ используется анализатором языка
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Windows Общие сведения о компонентах обработки изображений](-wic-about-windows-imaging-codec.md)

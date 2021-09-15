@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 54e825f4ebfff07010c46b7150076bba69325cd96be4793611027a2dc148cb35
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a82630f6f8dbd36df5d71b942ea2949bb6237e65
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120000864"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571074"
 ---
 # <a name="wmsubtitle-attribute"></a>Атрибут WM/субтитр
 
@@ -28,7 +28,7 @@ ms.locfileid: "120000864"
 -   [Звуковые элементы](audio-item-attributes.md)
 -   [часто используемые Windows атрибуты файла мультимедиа](commonly-used-windows-media-file-attributes.md)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут хранится как в библиотеке, так и в файле цифрового мультимедиа.
 
@@ -38,7 +38,7 @@ ms.locfileid: "120000864"
 
 Чтобы определить, можно ли изменить значение этого атрибута, используйте метод [Media. исреадонлитем](media-isreadonlyitem.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -48,7 +48,7 @@ ms.locfileid: "120000864"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

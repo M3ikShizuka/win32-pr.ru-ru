@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bffea9aa34a614a720ac6e3293167a746cc31c628d9ed22389dab651d03bf715
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 174636364fc0c5e0805ed2d1bdd822ff97c63a1a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118331131"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459244"
 ---
 # <a name="iwmpplaylistarraycount-property"></a>Свойство Ивмпплайлистаррай:: count
 
@@ -48,7 +48,7 @@ Public ReadOnly Property count As System.Int32
 
 Объект **System. Int32** , который является числом списков воспроизведения в массиве.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Перед использованием этого свойства необходимо иметь доступ на чтение к библиотеке. Дополнительные сведения см. в разделе [доступ к библиотеке](library-access.md).
 

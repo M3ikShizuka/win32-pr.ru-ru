@@ -4,12 +4,12 @@ ms.assetid: 02365401-8648-4be1-a447-fabd2cb77355
 title: Интерфейсы кодировщика
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d6169dcf55ffafe0bf4c006b45c173ecc7486555fb001456112f8f333a8ccf2f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5367a25f1a2a4caf486711f7569312a436f8f474
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118965131"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570318"
 ---
 # <a name="encoder-interfaces"></a>Интерфейсы кодировщика
 
@@ -51,7 +51,7 @@ ms.locfileid: "118965131"
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Реализация кодировщика WIC-Enabled](-wic-implementingwicencoder.md)

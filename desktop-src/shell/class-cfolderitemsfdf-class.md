@@ -12,12 +12,12 @@ api_type:
 - COM
 api_location: ''
 ms.assetid: 7da6ebdf-dced-402f-a8ad-c10d78593f86
-ms.openlocfilehash: a581e046031e88c38ab2db45d5ac563abaec8e4ebfe9ae54b58dfdffdc946563
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c303af68fe0e83fd8c1a5b20411445c8626987a6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119444394"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460542"
 ---
 # <a name="cfolderitemsfdf-class"></a>Класс Кфолдеритемсфдф
 

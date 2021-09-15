@@ -12,12 +12,12 @@ keywords:
 - Windows Пакет SDK для формата мультимедиа, основные функции
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 70af68402ea5a22a9499ca09fd4b2e4022f304ee5ebf68a4f877a978ad168e4f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 363c268194b476b6d3326a9c57fe1e709d17e2fe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119839434"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570170"
 ---
 # <a name="windows-media-format-11-sdk"></a>Windows Пакет SDK для формата мультимедиа 11
 
@@ -57,7 +57,7 @@ ms.locfileid: "119839434"
 | [Руководство по программированию](programming-guide.md)                                                                       | Содержит подробные инструкции по выполнению различных задач, таких как чтение, запись и индексирование файлов, защита файлов с помощью цифровых Rights Management, потоковая передача данных ASF по сети и т. д. |
 | [Справочник по программированию](programming-reference.md)                                                               | содержит справочные сведения о интерфейсах, методах, функциях, структурах, типах перечислений и константах, связанных с форматом Windows Media.                                                     |
 | [Windows Интерфейсы аудиокодеков Media Audio и Video](windows-media-audio-and-video-codec-interfaces--deprecated.md) | содержит инструкции по использованию объектов мультимедиа Windows media Audio и Video кодек (дмос) напрямую.                                                                                           |
-| [*Словарь терминов*](wmformat-glossary.md)                                                                              | определяет термины, используемые в документации пакета SDK для Windows Media Format.                                                                                                                                    |
+| [*Глоссарий*](wmformat-glossary.md)                                                                              | определяет термины, используемые в документации пакета SDK для Windows Media Format.                                                                                                                                    |
 
 
 

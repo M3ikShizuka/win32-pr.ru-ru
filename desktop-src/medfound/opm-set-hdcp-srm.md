@@ -4,12 +4,12 @@ ms.assetid: ea18baba-0e03-4471-af0e-a588773c98d2
 title: OPM_SET_HDCP_SRM (Опмапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 23601386353e0a18ed95238cee7a11ba9c39a84fbf1855b839bde0fd841ccd17
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9283c493598f22a1715f687eccea985a27e0e6f0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118058730"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459455"
 ---
 # <a name="opm_set_hdcp_srm"></a>ОПМ \_ Set \_ HDCP \_ СРМ
 
@@ -28,7 +28,7 @@ ms.locfileid: "118058730"
 
 Параметр *Пбаддитионалпараметерс* [**Иопмвидеуутпут:: Configure**](/windows/desktop/api/opmapi/nf-opmapi-iopmvideooutput-configure) должен указывать на буфер, содержащий СРМ. Формат HDCP СРМ описан в спецификации HDCP. Установите параметр *уладдитионалпараметерссизе* равным размеру буфера в байтах.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Срмс используются для обновления списка отозванных устройств HDCP. Срмс доставляются с видеоматериалом.
 
@@ -61,7 +61,7 @@ ms.locfileid: "118058730"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

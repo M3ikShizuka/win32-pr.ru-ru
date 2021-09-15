@@ -4,12 +4,12 @@ ms.assetid: 4f2c1ad8-fda9-482f-b82a-9838d15d2785
 title: Атрибут MF_TOPONODE_PRESENTATION_DESCRIPTOR (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3bfa43a57bcead1312ba8138ab085771d29a008fe2558ea7c6bfb29121d631bf
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e0d95fae4f2c4d4a482c2a62d57e0835ea4f1c36
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120113710"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572771"
 ---
 # <a name="mf_toponode_presentation_descriptor-attribute"></a>\_ \_ \_ Атрибут дескриптора представления MF топоноде
 
@@ -19,7 +19,7 @@ ms.locfileid: "120113710"
 
 **IUnknown\***
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут применяется к исходным узлам **( \_ \_ \_ узел топологии MF саурцестреам**).
 

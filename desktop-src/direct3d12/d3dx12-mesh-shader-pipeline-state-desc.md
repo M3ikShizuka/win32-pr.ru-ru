@@ -15,11 +15,11 @@ ms.localizationpriority: low
 ms.topic: reference
 ms.date: 08/02/2021
 ms.openlocfilehash: 99ffe747a6cd916f82e3d2ae52f9fa368203da91
-ms.sourcegitcommit: 0dec0044816af3f2b2e6403659e1cf11138c90cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121812512"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570883"
 ---
 # <a name="d3dx12_mesh_shader_pipeline_state_desc-structure"></a>Структура D3DX12_MESH_SHADER_PIPELINE_STATE_DESC
 
@@ -53,7 +53,7 @@ struct D3DX12_MESH_SHADER_PIPELINE_STATE_DESC
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 `pRootSignature`
 
@@ -145,13 +145,13 @@ struct D3DX12_MESH_SHADER_PIPELINE_STATE_DESC
 
 Константа перечисления флагов (например, чтобы указать, что состояние конвейера должно быть скомпилировано с дополнительными сведениями для помощи в отладке).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |-------------------|-------------------------------------------------------------------------------------|
 | Заголовок | [D3dx12. h](https://github.com/microsoft/DirectX-Headers/blob/main/include/directx/d3dx12.h) |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 * [Вспомогательные структуры для Direct3D 12](helper-structures-for-d3d12.md)
 * [CD3DX12_PIPELINE_STATE_STREAM2](cd3dx12-pipeline-state-stream1.md)

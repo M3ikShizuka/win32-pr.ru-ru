@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Описание пути ADSI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 15c320d20d8f7f9b16e760535a2017389a2a7984440ba4d0819ba2bada0e912e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7e0ba1dafac273ab3564549a5caca44180161643
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117925075"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459519"
 ---
 # <a name="describing-the-adsi-path"></a>Описание пути ADSI
 

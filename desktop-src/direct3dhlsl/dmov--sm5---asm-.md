@@ -4,12 +4,12 @@ description: Перемещение на уровне компонентов. | 
 ms.assetid: 05DBB9E2-10EC-4324-BB8F-1A9E315DE90C
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d21207ef46bde6a7ab34633bb40df69457a7282f1805fb604738300e8bd330cf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 23b7d9c5ca0da1671ddf30fb9746333617f7688a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118091541"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459200"
 ---
 # <a name="dmov-sm5---asm"></a>дмов (SM5-ASM)
 
@@ -35,7 +35,7 @@ ms.locfileid: "118091541"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Модификаторы, отличные от свиззле, предполагают, что данные являются плавающей запятой. Отсутствие модификаторов перемещает данные без изменения битов.
 
@@ -48,7 +48,7 @@ ms.locfileid: "118091541"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | X      | X    | X      | X        | X     | X       |
 
@@ -64,7 +64,7 @@ ms.locfileid: "118091541"
 
 | Модель шейдера                                              | Поддерживается |
 |-----------------------------------------------------------|-----------|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | Да       |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | да       |
 | [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | Нет        |
 | [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | Нет        |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет        |
@@ -75,7 +75,7 @@ ms.locfileid: "118091541"
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

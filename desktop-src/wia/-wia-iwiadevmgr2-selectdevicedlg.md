@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Wia.h
-ms.openlocfilehash: 344b13ec05e6f1d06011b3555e5b455202e5848b5000e799540d9f7c3160653b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 60ec24f264b8fe0424f17fc32deaf803e55c3346
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118441239"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573175"
 ---
 # <a name="iwiadevmgr2selectdevicedlg-method"></a>Метод IWiaDevMgr2:: Селектдевицедлг
 
@@ -128,7 +128,7 @@ HRESULT SelectDeviceDlg(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод создает и отображает диалоговое окно **Выбор устройства** , чтобы пользователь мог выбрать устройство WIA 2,0 для получения образа. Если устройство успешно выбрано, метод **IWiaDevMgr2:: селектдевицедлг** создает иерархическое дерево объектов [**IWiaItem2**](-wia-iwiaitem2.md) для устройства. Он сохраняет указатель на интерфейс **IWiaItem2** корневого элемента в параметре *ппитемрут*.
 
@@ -141,7 +141,7 @@ HRESULT SelectDeviceDlg(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -149,7 +149,7 @@ HRESULT SelectDeviceDlg(
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                               |
-| Header<br/>                   | <dl> <dt>WIA. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>WIA. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>WIA. idl</dt> </dl> |
 
 

@@ -16,12 +16,12 @@ keywords:
 - Расширенные API клиента, шифрование образцов мультимедиа
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5ed604fc114feed6bd308b9a89c6bde6d6c96abeb9e88a7b9ace19d553de1596
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 473db9580990b62818842aaa5eeea3e82f38c5ad
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119658844"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459111"
 ---
 # <a name="encrypting-and-importing-media-samples"></a>Шифрование и импорт примеров мультимедиа
 
@@ -36,7 +36,7 @@ ms.locfileid: "119658844"
 3.  Зашифровать пример с помощью алгоритма шифрования RC1. Для шифрования создается ключ путем сцепления вектора инициализации и расширяющего значения.
 4.  Укажите значение соли для пакета SDK, вызвав метод [**инссбуффер:: SetProperty**](/previous-versions/windows/desktop/api/Wmsbuffer/nf-wmsbuffer-inssbuffer3-setproperty).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

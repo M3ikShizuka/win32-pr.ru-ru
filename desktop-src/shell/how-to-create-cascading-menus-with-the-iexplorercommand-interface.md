@@ -5,17 +5,17 @@ title: Создание каскадных меню с помощью интер
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 2ed12cf78dc4b5f6a77bbd00b06897b49474a401
-ms.sourcegitcommit: 5a78723ad484955ac91a23cf282cf9c176c1eab6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114436099"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460457"
 ---
 # <a name="how-to-create-cascading-menus-with-the-iexplorercommand-interface"></a>Создание каскадных меню с помощью интерфейса Иексплореркомманд
 
 Другим вариантом добавления команд в каскадное меню является [**иексплореркомманд:: енумсубкоммандс**](/windows/desktop/api/shobjidl_core/nf-shobjidl_core-iexplorercommand-enumsubcommands). Этот метод позволяет источникам данных, которые предоставляют команды командного модуля через интерфейс [**иексплореркоммандпровидер**](/windows/desktop/api/shobjidl_core/nn-shobjidl_core-iexplorercommandprovider) , использовать эти команды в качестве команд в контекстном меню. в Windows 7 и более поздних версиях вы можете предоставить ту же реализацию команды с помощью интерфейса [**иексплореркомманд**](/windows/desktop/api/shobjidl_core/nn-shobjidl_core-iexplorercommand) , как и при использовании интерфейса [**IContextMenu**](/windows/win32/api/shobjidl_core/nn-shobjidl_core-icontextmenu) .
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 
 Следующие два снимка экрана иллюстрируют использование каскадных меню в папке **Devices** .
@@ -31,7 +31,7 @@ ms.locfileid: "114436099"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e7ba202a4f0205a28d294d2d4f54372921205ebb72516f6f26c4042e08d9cfe2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b304d7f7739ce551c1efc6a1d33a934c48dc8b4d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118757377"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572895"
 ---
 # <a name="wm_setfocus-message"></a>\_Сообщение SETFOCUS WM
 
@@ -54,7 +54,7 @@ ms.locfileid: "118757377"
 
 Приложение должно вернуть нуль, если оно обрабатывает это сообщение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы отобразить курсор, приложение должно вызвать соответствующие функции курсора при получении сообщения **WM \_ SETFOCUS** .
 
@@ -83,7 +83,7 @@ ms.locfileid: "118757377"
 [**WM \_ киллфокус**](wm-killfocus.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с клавиатуры](keyboard-input.md)

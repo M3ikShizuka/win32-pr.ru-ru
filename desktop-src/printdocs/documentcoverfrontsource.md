@@ -4,12 +4,12 @@ ms.assetid: ec41d0c8-ea77-44ac-a02b-6a48237b324f
 title: документковерфронтсаурце
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9a2c62b2b5af5caad99d3fe99f6e1c56093e78cd1fd24d4847ac8206ff3a6be9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: afeb6ecb089eb271e0b8fff136e73a20194f0c8f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119949854"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570582"
 ---
 # <a name="documentcoverfrontsource"></a>документковерфронтсаурце
 
@@ -67,7 +67,7 @@ XML-структура этого элемента:
 
 
 
-| Свойство                | xsi:type           | Значение                      |
+| Свойство.                | xsi:type           | Значение                      |
 |-------------------------|--------------------|----------------------------|
 | DataType<br/>     | строка<br/>  | xs:string<br/>       |
 | DefaultValue<br/> | строка<br/>  | неопределенный<br/>       |

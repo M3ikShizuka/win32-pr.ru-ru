@@ -14,12 +14,12 @@ api_type:
 api_location:
 - InkObj.dll
 - InkObj.dll.dll
-ms.openlocfilehash: 4bdc93e2c80f1a7ef4a8eacf1a58288c008e1354cda702e492deb2990e8938d8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 61641f0fed8ec98321e155f82ff9a35150e7fdcd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119938664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459023"
 ---
 # <a name="inktransform-class"></a>Класс Инктрансформ
 
@@ -39,9 +39,9 @@ ms.locfileid: "119938664"
 | Метод                                                  | Описание                                                                                                                 |
 |:--------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|
 | [**Преобразование**](/windows/desktop/api/msinkaut/nf-msinkaut-iinktransform-gettransform)       | Извлекает **инктрансформ** как 6 с плавающей запятой.<br/>                                                                      |
-| [**Характеризу**](/windows/desktop/api/msinkaut/nf-msinkaut-iinktransform-reflect)                 | Отражает преобразование в горизонтальном или вертикальном направлении.<br/>                                          |
-| [**Перезапуск**](/windows/desktop/api/msinkaut/nf-msinkaut-iinktransform-reset)                     | Сбрасывает преобразование в исходное состояние.<br/>                                                                      |
-| [**Поворот**](/windows/desktop/api/msinkaut/nf-msinkaut-iinktransform-rotate)                   | Поворачивает преобразование на угол, измеренный в градусах, и при необходимости задает центральную точку для поворота.<br/> |
+| [**Обдумывайте**](/windows/desktop/api/msinkaut/nf-msinkaut-iinktransform-reflect)                 | Отражает преобразование в горизонтальном или вертикальном направлении.<br/>                                          |
+| [**Reset**](/windows/desktop/api/msinkaut/nf-msinkaut-iinktransform-reset)                     | Сбрасывает преобразование в исходное состояние.<br/>                                                                      |
+| [**Rotate**](/windows/desktop/api/msinkaut/nf-msinkaut-iinktransform-rotate)                   | Поворачивает преобразование на угол, измеренный в градусах, и при необходимости задает центральную точку для поворота.<br/> |
 | [**ScaleTransform**](/windows/desktop/api/msinkaut/nf-msinkaut-iinkstrokedisp-scaletransform) | Масштабирует преобразование по коэффициентам X и Y.<br/>                                                                         |
 | [**сеттрансформ**](/windows/desktop/api/msinkaut/nf-msinkaut-iinktransform-settransform)       | Изменяет **инктрансформ** , используя 6 с плавающей запятой.<br/>                                                                    |
 | [**Сдвиг**](/windows/desktop/api/msinkaut/nf-msinkaut-iinktransform-shear)                     | Применяет наклон с заданными коэффициентами горизонтального и вертикального.<br/>                                              |
@@ -71,7 +71,7 @@ ms.locfileid: "119938664"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Для создания экземпляра этого объекта можно вызвать метод [**CoCreateInstance**](/windows/desktop/api/combaseapi/nf-combaseapi-cocreateinstance) в C++.
 
@@ -82,7 +82,7 @@ ms.locfileid: "119938664"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

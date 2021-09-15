@@ -4,12 +4,12 @@ ms.assetid: EF28956E-7156-4BAE-8805-C64B8C8ADE50
 title: Общие сведения о формате ICO
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: caf90f0a31beb2d004dcb43e08cb0b6b1539021071ff2cb3302b3076033bc833
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 329a53a3b5d386c5e5386141162c608dc9db1ec0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118204074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459121"
 ---
 # <a name="ico-format-overview"></a>Общие сведения о формате ICO
 
@@ -21,7 +21,7 @@ ms.locfileid: "118204074"
 
 
 
-|   Компонент            | Описание       |
+|   Компонент            | Описание:       |
 |------------------------|-------------------|
 | Формальные имена         | Формат значка (ICO) |
 | Расширения имени файла | ICO               |

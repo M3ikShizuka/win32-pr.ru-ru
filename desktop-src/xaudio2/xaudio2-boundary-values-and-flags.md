@@ -5,11 +5,11 @@ title: XAudio2 граничные значения и флаги (Xaudio2. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 11293b55a44b0aefdeacf95b9e36e90a626de2c1
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122470710"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571119"
 ---
 # <a name="xaudio2-boundary-values-and-flags"></a>XAudio2 граничные значения и флаги
 
@@ -87,7 +87,7 @@ ms.locfileid: "122470710"
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 ### <a name="platform-requirements"></a>Требования к платформе
 
@@ -103,7 +103,7 @@ Windows 10 (ксаудио 2.9); Windows 8, Windows Phone 8 (ксаудио 2,8)
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Shell32.dll
 ms.openlocfilehash: a2bde6d938bde675c52c93f09916a70ba0e21f9a
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108089612"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460470"
 ---
 # <a name="folderitemscount-property"></a>Фолдеритемс. Count, свойство
 
@@ -41,9 +41,9 @@ iCount = FolderItems.Count
 
 ## <a name="examples"></a>Примеры
 
-В следующем примере функция **Count** используется для получения числа элементов в папке Windows. Правильное использование показано в JScript, VBScript и Visual Basic.
+в следующем примере функция **count** используется для получения количества элементов в папке Windows. правильное использование отображается для JScript, VBScript и Visual Basic.
 
-Присутствовал
+JScript:
 
 
 ```JScript
@@ -147,7 +147,7 @@ End Sub
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ классических приложений Windows XP\]<br/>                                         |
+| Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ настольных приложений Windows XP\]<br/>                                         |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                           |
 | Заголовок<br/>                   | <dl> <dt>Шлдисп. h</dt> </dl>                           |
 | IDL<br/>                      | <dl> <dt>Шлдисп. idl</dt> </dl>                         |

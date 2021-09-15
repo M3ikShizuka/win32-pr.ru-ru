@@ -4,12 +4,12 @@ ms.assetid: a764a13a-cd7e-488c-b353-ff0f3c4b64b1
 title: System. Сторажепровидереррор
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0a673a66bbd799e2af99b14ac3eb000f92d1d18465693bdf2f30b1984279bb25
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b6ca792367907171f05179e8237373a99a002676
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119095681"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460618"
 ---
 # <a name="systemstorageprovidererror"></a>System. Сторажепровидереррор
 

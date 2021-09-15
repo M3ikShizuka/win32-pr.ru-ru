@@ -4,12 +4,12 @@ ms.assetid: f5fa5c10-8f30-43bd-8054-a39996f807a3
 title: Атрибут MF_TOPONODE_SEQUENCE_ELEMENTID (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e00af7212013d26c51ecdf7d2ea4a22855f9b52524c5188d3514d34b5d6976b3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5a3cd2c66c40a0bc3776d2fd2b7d78535cf24b6c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118739939"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572770"
 ---
 # <a name="mf_toponode_sequence_elementid-attribute"></a>\_ \_ \_ Атрибут ELEMENTID топоноде Sequence
 
@@ -19,7 +19,7 @@ ms.locfileid: "118739939"
 
 **UINT32**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут применяется к исходным узлам **( \_ \_ \_ узел топологии MF саурцестреам**).
 
@@ -36,7 +36,7 @@ ms.locfileid: "118739939"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -44,7 +44,7 @@ ms.locfileid: "118739939"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                               |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 

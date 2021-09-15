@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ddcff262f21b4f31daff6f704dba1cb096f54bb295a21a3ae9a7c90f574af34f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bc0f71985d948e59b8c0f98d50445a48263d67cf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118116615"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571082"
 ---
 # <a name="wmproviderrating-attribute"></a>Атрибут WM/Провидерратинг
 
@@ -32,7 +32,7 @@ ms.locfileid: "118116615"
 -   [DVD-диски](dvd-attributes.md)
 -   [Элементы видео](video-item-attributes.md)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут хранится как в библиотеке (или в кэше), так и в файле цифрового носителя.
 
@@ -42,7 +42,7 @@ ms.locfileid: "118116615"
 
 Чтобы определить, можно ли изменить значение этого атрибута, используйте метод [Media. исреадонлитем](media-isreadonlyitem.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -52,7 +52,7 @@ ms.locfileid: "118116615"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

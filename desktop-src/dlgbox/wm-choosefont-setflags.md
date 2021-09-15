@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0d77290dfb3668e24d3586cf6d742b524e05fb07979de7c8d45f39998aca9708
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4f7abf436311f8a3868b1471c2a10a7ee2e4a3b7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119726084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573050"
 ---
 # <a name="wm_choosefont_setflags-message"></a>\_Сообщение WM CHOOSEFONT \_ сетфлагс
 
@@ -55,13 +55,13 @@ ms.locfileid: "119726084"
 
 Нет возвращаемого значения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция [**ChooseFont**](/windows/win32/api/commdlg/ns-commdlg-choosefonta) создает диалоговое окно **шрифта** и использует структуру [**ChooseFont**](/windows/win32/api/commdlg/ns-commdlg-choosefonta) для указания начальных значений для элемента **flags** . Используйте сообщение **WM \_ CHOOSEFONT \_ сетфлагс** , чтобы указать различные значения для элемента **flags** , пока открыто диалоговое окно **Шрифт** .
 
 Как правило, вы должны отправить сообщение **WM \_ CHOOSEFONT \_ сетфлагс** из процедуры-обработчика [**кфхукпрок**](/windows/win32/api/commdlg/nc-commdlg-lpcfhookproc) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -73,11 +73,11 @@ ms.locfileid: "119726084"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**кфхукпрок**](/windows/win32/api/commdlg/nc-commdlg-lpcfhookproc)
@@ -89,7 +89,7 @@ ms.locfileid: "119726084"
 [**CHOOSEFONT**](/windows/win32/api/commdlg/ns-commdlg-choosefonta)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Библиотека общих диалоговых окон](common-dialog-box-library.md)

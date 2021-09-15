@@ -4,12 +4,12 @@ ms.assetid: a7cfaa6d-e17d-458a-ae63-72963615bef8
 title: Повторное кодирование изображения JPEG с помощью метаданных
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 13851af04c6af742dbc68acc31fd674c3602ebeb16bec6903a3570f8cb1e0400
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c023defb760faeab2bc6ea92232fcc916ef15126
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119088166"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570343"
 ---
 # <a name="how-to-re-encode-a-jpeg-image-with-metadata"></a>Повторное кодирование изображения JPEG с помощью метаданных
 
@@ -27,7 +27,7 @@ ms.locfileid: "119088166"
 -   [Код примера повторной кодировки JPEG](#jpeg-re-encode-example-code)
 -   [Связанные темы](#related-topics)
 
-## <a name="prerequisites"></a>Предварительные условия
+## <a name="prerequisites"></a>Предварительные требования
 
 чтобы понять этот раздел, необходимо ознакомиться с системой метаданных компонента Windows imaging (wic), как описано в статье [общие сведения о метаданных wic](-wic-about-metadata.md). также необходимо ознакомиться с компонентами кодеков WIC, как описано в разделе [общие сведения о компоненте создания образов Windows](-wic-about-windows-imaging-codec.md).
 
@@ -593,7 +593,7 @@ int main()
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Общие сведения о метаданных компонента WIC](-wic-about-metadata.md)

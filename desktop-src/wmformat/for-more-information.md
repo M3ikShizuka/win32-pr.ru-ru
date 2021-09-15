@@ -11,12 +11,12 @@ keywords:
 - DRM (Управление цифровыми правами), ресурсы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3870327295c3bb16b32b84bc4d8f02d92af20829f5112e9dff6eb481dc835961
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ba9a9758bdd2c7571ed6d3f7d769a3511e5d456f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117848133"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570226"
 ---
 # <a name="for-more-information-windows-media-format-sdk"></a>Дополнительные сведения (пакет SDK для Windows Media Format)
 

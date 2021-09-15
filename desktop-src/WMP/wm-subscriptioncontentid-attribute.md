@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5c976ca7bcd9eed8e29e7be3d818a3f8fd5fe5d5904dfa5e058faa55ce06d301
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9f10448686e299c20fc1cd44f716b805910e8f5d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120000894"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571075"
 ---
 # <a name="wmsubscriptioncontentid-attribute"></a>Атрибут WM/Субскриптионконтентид
 
@@ -29,7 +29,7 @@ ms.locfileid: "120000894"
 -   [часто используемые Windows атрибуты файла мультимедиа](commonly-used-windows-media-file-attributes.md)
 -   [Элементы видео](video-item-attributes.md)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут хранится как в библиотеке, так и в файле цифрового мультимедиа.
 

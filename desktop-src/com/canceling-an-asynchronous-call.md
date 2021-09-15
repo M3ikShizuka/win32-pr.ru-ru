@@ -4,12 +4,12 @@ description: Клиент может отменить асинхронный в�
 ms.assetid: 30a162f2-ce16-4ee6-8002-59216ac0e59a
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 42d2751400d631c62c19f68f2cab841c0845b432df676abe60befed1f231e103
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 775b187f1abd3fca43ba907d92f6eabd926e4608
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117737118"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459230"
 ---
 # <a name="canceling-an-asynchronous-call"></a>Отмена асинхронного вызова
 

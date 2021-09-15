@@ -4,12 +4,12 @@ ms.assetid: 4d403b1d-f6f7-40d5-9bf5-6a9c4da0803c
 title: Сообщение WM_INPUTLANGCHANGE (Winuser.h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 72f56367045fe72a8288220e1aeef662e648d702c3b48ead23bf179142dff92c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b7e2ceb943290fceab13bf6f22c3d9dafbac27a8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118436249"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573122"
 ---
 # <a name="wm_inputlangchange-message"></a>\_Сообщение ИНПУТЛАНГЧАНЖЕ WM
 
@@ -51,7 +51,7 @@ ms.locfileid: "118436249"
 
 Приложение должно вернуть ненулевое значение, если обрабатывает это сообщение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Вы можете получить [имя локали](../Intl/locale-names.md) клавиатуры с помощью функции [лЦидтолокаленаме](/windows/win32/api/winnls/nf-winnls-lcidtolocalename) . С помощью имени языкового стандарта можно использовать [современные функции языкового стандарта](/windows/win32/intl/calling-the--locale-name--functions):
 
@@ -82,6 +82,6 @@ case WM_INPUTLANGCHANGE:
 - [**дефвиндовпрок**](/windows/desktop/api/winuser/nf-winuser-defwindowproca)
 - [**WM \_ инпутлангчанжерекуест**](wm-inputlangchangerequest.md)
 
-**Зрения**
+**Основные понятия**
 
 - [Windows](windows.md) 

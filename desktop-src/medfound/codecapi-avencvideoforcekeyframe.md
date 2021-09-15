@@ -4,12 +4,12 @@ ms.assetid: 1E252967-6C28-4DA3-9E64-BD276E475753
 title: Свойство CODECAPI_AVEncVideoForceKeyFrame (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f2e28738dcd7398ce04abe7f71778e94d7d5d4f49393365e92c43bbb347d98c5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d72c555d5680e822e9a8308b3e143a754eb22b89
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117880710"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459461"
 ---
 # <a name="codecapi_avencvideoforcekeyframe-property"></a>КОДЕКАПИ \_ авенквидеофорцекэйфраме, свойство
 
@@ -29,11 +29,11 @@ ms.locfileid: "117880710"
 
 Это свойство применяется к следующему кадру, который кодировщик получает в качестве входных данных. Для Media Foundation преобразования (MFT) это следующий кадр, который передается методу [**имфтрансформ::P роцессинпут**](/windows/desktop/api/mftransform/nf-mftransform-imftransform-processinput) . Параметр сбрасывается в ноль после следующего кадра.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство также используется с [кодировщиками камер H. 264 увк 1,5](camera-encoder-h264-uvc-1-5.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "117880710"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8 \[ приложения UWP для классических приложений \|\]<br/>                                     |
 | Минимальная версия сервера<br/> | Windows Server 2012 \[ приложения UWP для классических приложений \|\]<br/>                           |
-| Header<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
 
 
 

@@ -6,12 +6,12 @@ keywords:
 - WS_LISTENER
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 31fa7435ecea9770c2441a1c8c3d65c2d2346707c1c4e16da2f985e203d4ea3a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 803bde20292a55d1c3f2b7ca216ba3631e9116a7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119083038"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127571146"
 ---
 # <a name="ws_listener"></a>\_прослушиватель WS
 
@@ -28,7 +28,7 @@ typedef struct _WS_LISTENER WS_LISTENER;
 
 Этот объект является потокобезопасным. Дополнительные сведения см. в статье [безопасность потоков](thread-safety.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -40,7 +40,7 @@ typedef struct _WS_LISTENER WS_LISTENER;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

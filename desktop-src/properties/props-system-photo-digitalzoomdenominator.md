@@ -4,12 +4,12 @@ ms.assetid: 3da855f9-70d6-4b46-95eb-3c5e03a91647
 title: System. photo. Дигиталзумденоминатор
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 70fa7403f0f2b95bafea2db64a00dd61fc741ae9dbee24e726872c71343f9c64
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 31d70565c39d7f03f7eb34361e6a405062fb8b37
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117682787"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460664"
 ---
 # <a name="systemphotodigitalzoomdenominator"></a>System. photo. Дигиталзумденоминатор
 

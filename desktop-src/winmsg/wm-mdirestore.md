@@ -4,12 +4,12 @@ ms.assetid: bb99fda1-9eb5-4307-9326-9a417a046c22
 title: Сообщение WM_MDIRESTORE (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a8bc9a8b4a414a1f987ad51b01f94c50b336adb8a32a298a83a1a3b9de8b0bd5
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cc2cf36a0b428e1e9003682a5e766f613fd7ba81
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120110703"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458976"
 ---
 # <a name="wm_mdirestore-message"></a>\_Сообщение МДИРЕСТОРЕ WM
 
@@ -58,7 +58,7 @@ ms.locfileid: "120110703"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -68,7 +68,7 @@ ms.locfileid: "120110703"
 [**WM \_ мдимаксимизе**](wm-mdimaximize.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Интерфейс с несколькими документами](multiple-document-interface.md)

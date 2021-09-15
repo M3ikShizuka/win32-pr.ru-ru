@@ -4,12 +4,12 @@ ms.assetid: 02bc45d1-2921-48bc-a066-2314765b6531
 title: Режимы сопоставления и переводы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 242ba699a8ec7289495cbcdff33e940460b20bcabffa373d5c792b1aee0fe9d2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 219bfe2f587ef9bc66f53d6f08404a0448180512
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118760161"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469408"
 ---
 # <a name="mapping-modes-and-translations"></a>Режимы сопоставления и переводы
 

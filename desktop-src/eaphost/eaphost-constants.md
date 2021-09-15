@@ -23,12 +23,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ab336b147557722f1bec72bfe662b12599a64ee1622b31bdad6a92a05af6d92e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 84704e59ed43466c47435f4804cb4dedc9c3a92d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119483014"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458853"
 ---
 # <a name="eaphost-constants"></a>Константы EAPHost
 
@@ -192,7 +192,7 @@ Windows Vista с пакетом обновления 1 (SP1) или более �
 
 </dt> </dl> </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

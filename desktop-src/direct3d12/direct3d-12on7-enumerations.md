@@ -4,12 +4,12 @@ description: Следующие перечисления объявляются 
 ms.localizationpriority: low
 ms.topic: article
 ms.date: 08/29/2019
-ms.openlocfilehash: a036dbf33c6c6ba3b2c98cafacb03efb46500e42233410a58dc7521c351c9c80
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 49b50697bbf8e4f59e59fbc0ebe66db554a19e23
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118989715"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570854"
 ---
 # <a name="direct3d-12-on-windows-7-enumerations"></a>Перечисления Direct3D 12 в Windows 7
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - PortableDeviceGuids.lib
 - PortableDeviceGuids.dll
-ms.openlocfilehash: 53e1549767c8577507b3126b3a293dfe4e523612809c144ff24c04dce4ab1ff4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aca827de068ce221f013f03b35f88fd76a030dd4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118697422"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570139"
 ---
 # <a name="iconnectionrequestcallback-interface"></a>Интерфейс Иконнектионрекуесткаллбакк
 
@@ -53,7 +53,7 @@ ms.locfileid: "118697422"
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                                                                                                             |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                                                                                              |
-| Header<br/>                   | <dl> <dt>Девпкэй. h; </dt> <dt>Портабледевицеконнектапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Девпкэй. h; </dt> <dt>Портабледевицеконнектапи. h</dt> </dl> |
 | IDL<br/>                      | <dl> <dt>Портабледевицеконнектапи. idl</dt> </dl>                                                                |
 | Библиотека<br/>                  | <dl> <dt>Портабледевицегуидс. lib</dt> </dl>                                                                     |
 

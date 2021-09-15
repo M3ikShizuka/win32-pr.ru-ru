@@ -4,12 +4,12 @@ description: В этом разделе описаны рекомендации 
 ms.assetid: 8AADE304-4841-41E2-968B-DFCB5B954FF1
 ms.topic: article
 ms.date: 02/11/2020
-ms.openlocfilehash: 5639cf9fd51eeadc2dfb3ba84556ce6c339b6eb699e0cfa364bdee0bb03d3867
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f503ae556009f3b4b9b88d9f895936218f402fc6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120029100"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570963"
 ---
 # <a name="design-considerations-for-custom-devices"></a>Рекомендации по проектированию для пользовательских устройств
 
@@ -29,7 +29,7 @@ ms.locfileid: "120029100"
 | Устройство типа WPD, которое реализует службы MTP.<br/> | Вы можете использовать драйвер класса MTP или создать драйвер с помощью DDI для WPD.<br/> Windows 8 обеспечивает поддержку для служб устройств MTP. А приложение может использовать [Windows. devices. portable](/uwp/api/Windows.Devices.Portable) среда выполнения Windows api, api-интерфейс переносимой модели (COM) или компонент автоматизации WPD для доступа к устройству. Приложению не требуется использовать API доступа к устройству.<br/> |
 | устройство, которое не имеет указанного Windows расширения класса или драйвера класса.<br/>  | В этом случае просмотрите [приложения устройства UWP для внутренних устройств](/windows-hardware/drivers/devapps/uwp-device-apps-for-specialized-devices) для специализированных устройств, чтобы определить, нужно ли реализовать пользовательский доступ к драйверу с помощью API доступа к устройству.<br/> |
 
-## <a name="security-considerations"></a>Вопросы безопасности
+## <a name="security-considerations"></a>Замечания по безопасности
 
 В следующих статьях содержатся рекомендации по написанию безопасного кода C++:
 

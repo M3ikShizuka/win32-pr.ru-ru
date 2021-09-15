@@ -13,12 +13,12 @@ keywords:
 - портативные устройства, о
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 34cbff16b293ac4ab438c1b018608497d2a61cdfa6fb727332d5b50a27de313c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b64c6e7047864b899a2d7dca2ba4754cc7cb5dc2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117745510"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459586"
 ---
 # <a name="working-with-portable-devices"></a>Работа с портативными устройствами
 
@@ -161,7 +161,7 @@ enum UIState
 -   [Отображение хода выполнения синхронизации](showing-synchronization-progress.md)
 -   [Управление списками воспроизведения синхронизации](managing-synchronization-playlists.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

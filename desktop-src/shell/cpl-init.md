@@ -4,12 +4,12 @@ ms.assetid: 0e7e9b14-9f44-496e-a518-5d3ae92868c5
 title: Сообщение CPL_INIT (CPL. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8be6acdf58822e6f10f35880a97a7b5bbb9ce0b7bbbf7556b4c18c3f7ad96f72
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5f5206d773a7a0b1786b8c95104bbcf71561d120
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119456374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460536"
 ---
 # <a name="cpl_init-message"></a>\_Сообщение об инициализации CPL
 
@@ -57,7 +57,7 @@ ms.locfileid: "119456374"
 
 Это сообщение отправляется сразу после загрузки библиотеки DLL, содержащей приложение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

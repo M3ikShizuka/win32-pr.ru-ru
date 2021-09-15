@@ -32,12 +32,12 @@ api_name: ''
 targetos: Windows
 req.typenames: ''
 req.redist: ''
-ms.openlocfilehash: 3776748994b44b3a870fd4689fa9f4019bff99ae8d6f7dd7b13edbf2c98054d7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4add84011745aeb61659c39775b94fed91028d83
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119449104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459116"
 ---
 # <a name="shellproc-function"></a>Функция Шеллпрок
 
@@ -122,7 +122,7 @@ LRESULT CALLBACK ShellProc(
 Возвращаемое значение должно равняться нулю, если значение Нкоде не **HSHELL_APPCOMMAND** и процедура оболочки обрабатывает сообщение **WM_COMMAND** .
 В этом случае возвращаемое значение должно быть ненулевым.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Установите эту процедуру-обработчик, указав тип обработчика [WH_SHELL](about-hooks.md) и указатель на процедуру-обработчик в вызове функции **сетвиндовшукекс** .
 

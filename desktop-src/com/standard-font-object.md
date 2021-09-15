@@ -4,12 +4,12 @@ description: Объект стандартного шрифта
 ms.assetid: f9b54dc4-24d4-4eb7-b43f-c481d64e52df
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8f1beb4ac2890cd3314c1b23f847192f1d3248b02e301c27d5990f524c74c0a7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bd0fbe2509dd85c1d15b40dc8008dba60d948b5c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118104157"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458860"
 ---
 # <a name="standard-font-object"></a>Объект стандартного шрифта
 

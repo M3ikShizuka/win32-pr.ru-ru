@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: f8b7747b710801718d9b169c8999c51dd30cefde
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103801384"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460278"
 ---
 # <a name="restore-method-of-the-systemrestore-class"></a>Метод Restore класса SystemRestore
 
@@ -81,7 +81,7 @@ next
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                       |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                       |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                         |
 | Пространство имен<br/>                | Корневой каталог \\ \\ по умолчанию<br/>                                                        |
 | MOF<br/>                      | <dl> <dt>SR. mof</dt> </dl> |

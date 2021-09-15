@@ -4,12 +4,12 @@ ms.assetid: f896a441-dd25-498b-b199-a2be9584381b
 title: System. Парсингбиндконтекст
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7e42eda4fb23ab1a405a3eea14bac9b79abed3b064f621ace72968cdefb3d9de
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a59094e0a0a83646d6b835a1101f7fff951f1ef1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119033372"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460696"
 ---
 # <a name="systemparsingbindcontext"></a>System. Парсингбиндконтекст
 

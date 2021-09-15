@@ -4,12 +4,12 @@ ms.assetid: d27003b4-f30a-4c48-b32f-933b2f29182a
 title: System. photo. Експосурепрограм
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d1c7c537255c235082402c71d784ab75b20202a085228c8631b68bc77ddd0a5f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 07e0678f4316cf5aee9c5e13b26518208bf546c5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118229979"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460645"
 ---
 # <a name="systemphotoexposureprogram"></a>System. photo. Експосурепрограм
 

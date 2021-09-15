@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 36f81655dec18e933044265d2659f750388bf51fba3fdaf89157d9bae9e97a98
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6a04dfb618ff02ac081b0c1d707e2cbcd02181ac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119040122"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570767"
 ---
 # <a name="esentonedatabasepersessionexception-constructor"></a>Конструктор Есентонедатабасеперсессионексцептион
 
@@ -52,9 +52,9 @@ Dim instance As New EsentOneDatabasePerSessionException()
 public EsentOneDatabasePerSessionException()
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Есентонедатабасеперсессионексцептион](./esentonedatabasepersessionexception-class.md)
 

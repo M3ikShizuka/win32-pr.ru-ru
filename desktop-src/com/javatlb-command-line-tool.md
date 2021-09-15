@@ -5,11 +5,11 @@ ms.assetid: b46d7bcc-ccd9-4242-9b19-f398d2cb8f91
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: e7a0214648f7ad86613d6b35e3084021e2be24aa
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103779964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570998"
 ---
 # <a name="javatlb-command-line-tool"></a>Средство Command-Line Жаватлб
 
@@ -21,29 +21,29 @@ ms.locfileid: "103779964"
 
  *имя файла* жаватлб
 
-где *filename*— имя файла, содержащего библиотеку типов. Этот файл может иметь любое из следующих расширений имен файлов:. tlb,. OLB,. ocx,. dll или. exe.
+где *filename*— имя файла, содержащего библиотеку типов. Этот файл может иметь любое из следующих расширений имен файлов:. tlb,. OLB,. ocx, .dll или .exe.
 
 Чтобы создать файлы классов Java для нескольких COM-объектов, в командной строке выполните следующую команду:
 
-**жаватлб @ * * * TextFile*
+**жаватлб @**_TextFile_
 
 где *TextFile* — это имя текстового файла, содержащего список файлов, содержащих библиотеки типов COM-объектов.
 
 > [!Note]  
 > В Visual J++ 6,0 средство командной строки Жаватлб заменяется [средством жактивекс](jactivex-command-line-tool.md). Дополнительные сведения см. в документации по Visual J++ 6,0.
 
- 
+ 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [Перевод на Java](translating-to-java.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

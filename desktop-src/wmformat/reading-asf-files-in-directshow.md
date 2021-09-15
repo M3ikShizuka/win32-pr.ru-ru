@@ -22,12 +22,12 @@ keywords:
 - имедиасикинг
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: eef3c492be93d4197609689165785f7483d926f092e25ddbe579caf2bd84031f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4aaab64798011eb21edbe43f49438db99d0bae6b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117654365"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458922"
 ---
 # <a name="reading-asf-files-in-directshow-windows-media-format-11-sdk"></a>чтение файлов ASF в DirectShow (пакет SDK для Windows Media Format 11)
 
@@ -39,7 +39,7 @@ ms.locfileid: "117654365"
 
 
 
-| Интерфейс                                        | Как предоставлено                            | Примечания                                                                                                                                                                                    |
+| Интерфейс                                        | Как предоставлено                            | Комментарии                                                                                                                                                                                    |
 |--------------------------------------------------|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**ивмдрмреадер**](/previous-versions/windows/desktop/api/wmsdkidl/nn-wmsdkidl-iwmdrmreader)             | Через **IServiceProvider** по фильтру | Предоставляется для приложений, которым требуется воспроизведение содержимого, защищенного цифровыми Rights Management (DRM). Этот интерфейс также можно использовать для непосредственного получения других интерфейсов в объекте Reader. |
 | [**ивмхеадеринфо**](/previous-versions/windows/desktop/api/wmsdkidl/nn-wmsdkidl-iwmheaderinfo)           | **QueryInterface** в фильтре           | Предоставляется, чтобы приложения могли считывать атрибуты файлов и содержимого, а также сведения о маркерах и скриптах и метаданные.                                                                  |
