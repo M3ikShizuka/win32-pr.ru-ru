@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: 0da608dcafc8fc0c2341a053679dee0f8d2715c34dcbfb28e84bee02aa658093
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 06d276e2d8e75e8822cee3503a7e8342a94a6b0b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118900764"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469839"
 ---
 # <a name="recipientsremove-method"></a>Метод Recipients. Remove
 

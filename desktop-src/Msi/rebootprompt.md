@@ -4,18 +4,18 @@ ms.assetid: 2aa78d77-835f-40bd-a973-799063059f4d
 title: РЕБУТПРОМПТ, свойство
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 70e3d04149c15b8ea076b08b184fbe1891bd809a640b2baa8b1784900ab647b8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fdb7679f4e8361a21a96c7cbf52a3af5a6d70419
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119258874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348886"
 ---
 # <a name="rebootprompt-property"></a>РЕБУТПРОМПТ, свойство
 
 если свойство **ребутпромпт** имеет значение подавлять (или просто), то перезагрузка, выполненная установщик Windows, происходит автоматически без взаимодействия с пользователем. Задание этого свойства не инициирует перезагрузку, если она не требуется, отменяет отображение запросов на перезагрузку пользователя.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

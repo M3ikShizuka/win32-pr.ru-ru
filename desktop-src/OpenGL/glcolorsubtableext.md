@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: ff6f4b88a355c25df40a847912d4e3352bd87962
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122475400"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348447"
 ---
 # <a name="glcolorsubtableext-function"></a>Функция Глколорсубтабликст
 
@@ -142,7 +142,7 @@ void WINAPI glColorSubTableEXT(
 
 
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Функция **глколорсубтабликст** указывает части палитры текущей целевой текстуры для замены. В отличие от [**глколортабликст**](glcolortableext.md), нельзя указать *целевой* параметр в качестве палитры текстуры-посредника.
 
@@ -163,7 +163,7 @@ void WINAPI glColorSubTableEXT(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 70c8e40426babddfdf84c6ae98c1babae7f9162e3b0ebe3dc63eace1170d4241
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 31cfd92084920a14890e95750c2943fa4c219a6c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118488517"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248896"
 ---
 # <a name="esenttoomanyactiveusersexception-constructor"></a>Конструктор Есенттуманяктивеусерсексцептион
 
@@ -52,9 +52,9 @@ Dim instance As New EsentTooManyActiveUsersException()
 public EsentTooManyActiveUsersException()
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Есенттуманяктивеусерсексцептион](./esenttoomanyactiveusersexception-class.md)
 

@@ -4,12 +4,12 @@ ms.assetid: ef8982dc-bbbc-466a-9afe-dd0425c23f1d
 title: Закодированные и декодированные данные
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 063f18a4f58f2989e2bd0b890fd11a7ab6022a3de255385b1cf529afb5493485
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c8b130232ac67503c6a20835c4c9b4e728b36f8b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119874953"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469920"
 ---
 # <a name="encoded-and-decoded-data"></a>Закодированные и декодированные данные
 

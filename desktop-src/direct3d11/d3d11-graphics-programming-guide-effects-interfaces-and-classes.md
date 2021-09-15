@@ -4,12 +4,12 @@ description: Существует множество способов испол
 ms.assetid: 526d477b-fc1f-4bd0-a620-ce9b78147f68
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a0ccc64cba63263c98807968b3216a47c61442943892fd4a7d290ae2a1fb8c05
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3b067b8e03b2d43ea44ccab6164424cbc84c7237
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119126125"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346846"
 ---
 # <a name="interfaces-and-classes-in-effects"></a>Интерфейсы и классы в эффектах
 

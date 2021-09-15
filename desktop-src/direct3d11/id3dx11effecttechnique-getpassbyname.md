@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: dfad489fe6c4eda8ea417a9f272bcc0a7d4035eb04bc675cf599e4f5381234db
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e84bbe9b954efff12e458ee6172665118a7b8ede
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118532366"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469529"
 ---
 # <a name="id3dx11effecttechniquegetpassbyname-method"></a>Метод ID3DX11EffectTechnique:: Жетпассбинаме
 
@@ -43,7 +43,7 @@ ID3DX11EffectPass* GetPassByName(
 
 <dl> <dt>
 
-*Имя* 
+*имя*; 
 </dt> <dd>
 
 Тип: **[ **LPCSTR**](/windows/desktop/WinProg/windows-data-types)**
@@ -67,7 +67,7 @@ ID3DX11EffectPass* GetPassByName(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,7 +78,7 @@ ID3DX11EffectPass* GetPassByName(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

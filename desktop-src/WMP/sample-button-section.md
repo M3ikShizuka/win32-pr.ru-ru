@@ -10,12 +10,12 @@ keywords:
 - файлы определения обложки, раздел кнопки
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 20c69d57248664808062c2f6e0d3f9d331edd7cd0f07085ec76fc51a1960817d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5c35a4efd0e52dd7f5fd0cf87fc269eb4a9f4c27
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118833388"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469634"
 ---
 # <a name="sample-button-section"></a>Раздел "пример"
 

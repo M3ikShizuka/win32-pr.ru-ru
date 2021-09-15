@@ -5,11 +5,11 @@ title: Как поток видео в кодировке на основе ка
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: ad2af2775882155ed7ef2b0cfffdddeb30b2066e
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104264052"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469297"
 ---
 # <a name="how-can-a-video-stream-encoded-using-quality-based-vbr-have-fewer-frames-than-the-original-stream"></a>Как поток видео в кодировке на основе качества имеет меньше кадров, чем исходный поток?
 
@@ -23,7 +23,7 @@ ms.locfileid: "104264052"
 
 Как правило, потоки с частотой, основанной на уровне качества, будут иметь меньше кадров, чем исходный, если есть дублирующиеся кадры (поскольку скорость потока не ограничена).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

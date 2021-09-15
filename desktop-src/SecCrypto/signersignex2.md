@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Mssign32.dll
 ms.openlocfilehash: a03d326969ce1f447dc82708792bd3761e02a823
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104266097"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270880"
 ---
 # <a name="signersignex2-function"></a>Функция SignerSignEx2
 
@@ -201,8 +201,8 @@ URL-адрес сервера отметок времени.
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 8\]<br/>                                              |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2012\]<br/>                                    |
+| Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                              |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                    |
 | DLL<br/>                      | <dl> <dt>Mssign32.dll</dt> </dl> |
 
 

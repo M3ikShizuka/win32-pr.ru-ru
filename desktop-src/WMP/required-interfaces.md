@@ -10,12 +10,12 @@ keywords:
 - интерфейсы, подключаемые модули DSP
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 18a3552cbe741b3b527c899e5bb7d68fe4d7c4e0bdc61203f822c57111e94a46
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3d27a0c0ed56db5f35c8cde8203fcf99a81a9260
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119646834"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469656"
 ---
 # <a name="required-interfaces-windows-media-player-sdk"></a>требуемые интерфейсы (проигрыватель Windows Media SDK)
 

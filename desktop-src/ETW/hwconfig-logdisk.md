@@ -16,12 +16,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 01d200fc5c34546c96f6a78fd55548e8d5a7b0dacf74d46c411174beb66f6f4a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dce4faed913d01f76ff23177b2dad42ea74e5c08
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118394808"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470361"
 ---
 # <a name="hwconfig_logdisk-class"></a>\_Класс хвконфиг логдиск
 
@@ -42,7 +42,7 @@ class HWConfig_LogDisk : HWConfig
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **хвконфиг \_ логдиск** имеет следующие типы членов:
 

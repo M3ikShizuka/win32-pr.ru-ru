@@ -15,12 +15,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7a48c595918d28d912725353eb856de8f0af4541a68dabcb6f5a7cb0bb944496
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d1d5c7e066115a6d51879775d9b8cfab3cbe4888
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118134043"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348590"
 ---
 # <a name="inapenforcementclientcallback-interface"></a>Интерфейс Инапенфорцементклиенткаллбакк
 
@@ -52,7 +52,7 @@ ms.locfileid: "118134043"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

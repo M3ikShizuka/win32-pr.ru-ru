@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 28170a4d92f656dcd12863eca5c003ccb851772f42de375e8f5f1b61a768ba49
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 377a1614d06ab4dfe1fa4f8b0745d420dc4d01ed
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118626984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348878"
 ---
 # <a name="recordformattext-method"></a>Метод Record. Форматтекст
 
@@ -41,7 +41,7 @@ Record.FormatText()
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод **форматтекст** соответствует функциональным возможностям функции [**Мсиформатрекорд**](/windows/desktop/api/Msiquery/nf-msiquery-msiformatrecorda) , если **мсиформатрекорд** был передан нулевой обработчик установщика в качестве первого параметра. В результате обрабатываются только параметры поля записи, а свойства для подстановки недоступны.
 

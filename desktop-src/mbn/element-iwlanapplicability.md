@@ -7,12 +7,12 @@ MSHAttr:
 title: ивланаппликабилити
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: dac7d44d5bae50a899e3d32c4e421b4c8d2cd80e
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.openlocfilehash: 86419075e3ad39411efc5534a9dfb5b016a88317
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122882078"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469327"
 ---
 # <a name="span-idwwan_profile_v4element_iwlanapplicabilityspaniwlanapplicability"></a><span id="WWAN_profile_v4.element_IwlanApplicability"></span>ивланаппликабилити
 
@@ -57,7 +57,9 @@ ms.locfileid: "122882078"
 ## <a name="requirements"></a>Требования
 
 
-| | | <p>Пространство имен</p> | <p>https://www.microsoft.com/networking/WWAN/profile/v4</p> | 
+| Требование | Значение |
+|------------|----------|
+| <p>Пространство имен</p> | <p>https://www.microsoft.com/networking/WWAN/profile/v4</p> | 
 
 
  

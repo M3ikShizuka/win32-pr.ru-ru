@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: c956aacd7b61243fbaeb26ed1a29ed0fee4522d83d8b4ef3ac25b3b1921b42a9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7d9bd711bbc97997045989f2eb4ffdbc51ae3559
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118900811"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469849"
 ---
 # <a name="recipientsclear-method"></a>Метод Recipients. Clear
 
@@ -43,7 +43,7 @@ Recipients.Clear()
 
 Этот метод не возвращает значение. Приложение, использующее этот метод, должно содержать код, обрабатывающий исключение, вызванное этим методом.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

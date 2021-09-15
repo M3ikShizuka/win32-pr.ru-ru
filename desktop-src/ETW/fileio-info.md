@@ -18,12 +18,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 8a77d135fa5140f5d8d51a26164cd96009f06bacee654d13bec8dbaa9dcd76a2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 985986132abe432e1adefb51939b8ace1aa48c8c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120042004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470382"
 ---
 # <a name="fileio_info-class"></a>\_Класс сведений FileIo
 
@@ -46,7 +46,7 @@ class FileIo_Info : FileIo
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ сведений FileIo** содержит следующие типы членов:
 
@@ -158,7 +158,7 @@ class FileIo_Info : FileIo
 
 Задать сведения и события сведений о запросах указывают на то, что были заданы или запрошены атрибуты файла. При выполнении команды ФСКТЛ регистрируется событие управления файловой системой (Фсконтрол).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -169,7 +169,7 @@ class FileIo_Info : FileIo
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

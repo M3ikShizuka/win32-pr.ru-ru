@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 590c4b7335fe0596c5b5b0f3dc709998fafc21f7be78f493a05f6520ed9fd368
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 899ff4833c705aae34fdb7830c264fee91414116
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119488734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470160"
 ---
 # <a name="glusphere-function"></a>Функция Глусфере
 
@@ -83,7 +83,7 @@ void WINAPI gluSphere(
 
 Если текстурирование включено (с **глукуадриктекстуре**), то координаты текстуры формируются таким образом, чтобы *диапазоны* в диапазоне от 0,0 по *z* =-*радиусу* 1,0 по *z*  =  *радиусу* (*t* — линейно по долготу линиям  ). и находятся в диапазоне от 0,0 на положительной оси y, до 0,25 на позитивной оси x, до 0,5 на отрицательной оси y, в 0,75 по отрицательной оси x и обратно в 1,0 на положительной оси y.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -97,7 +97,7 @@ void WINAPI gluSphere(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

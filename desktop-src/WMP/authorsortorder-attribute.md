@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 37e05b3556911fe48e7fcbbd5331634a15b2c9a232e6b07078c57c1d60c41ee0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5755e1913916496a2f7de6f9f17007376eca7607
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119765294"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469735"
 ---
 # <a name="authorsortorder-attribute"></a>Атрибут Аусорсортордер
 

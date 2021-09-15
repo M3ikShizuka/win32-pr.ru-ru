@@ -4,12 +4,12 @@ ms.assetid: f94f0264-78b8-4a28-9d3a-dda55db29897
 title: Криптографические интерфейсы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5937dce6da8ffa3396c885d00c895b845de9889c2688c6daef4eba5db0beb90b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ccf5284f5c2107e741fd91e2936ff3dea0853e71
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119876104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271091"
 ---
 # <a name="cryptography-interfaces"></a>Криптографические интерфейсы
 

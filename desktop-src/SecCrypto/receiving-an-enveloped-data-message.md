@@ -4,12 +4,12 @@ ms.assetid: 536f9977-102c-4df9-9d07-97b4b434b845
 title: Получение сообщения с упакованными данными
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 831413825040dd9ba4e297108e11d6e397dc6097ddc369eb802d9fe220aae783
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9d32276193e8fd03904aed1ad626cd3ed241c654
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117975568"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469854"
 ---
 # <a name="receiving-an-enveloped-data-message"></a>Получение сообщения с упакованными данными
 

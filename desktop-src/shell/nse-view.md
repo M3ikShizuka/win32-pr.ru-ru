@@ -4,12 +4,12 @@ ms.assetid: 00b6b281-b157-4a61-9852-8aafd9ba68d3
 title: Отображение Self-Containedного представления расширения пространства имен
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 00ea8ed12d4333ac2c4de7973410a822fefea827be769bbe7ccf754890712e3c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6b6f8555cfb8cdac6248c5ea1c70ce8af29bfd16
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118968843"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346338"
 ---
 # <a name="displaying-a-self-contained-view-of-a-namespace-extension"></a>Отображение Self-Containedного представления расширения пространства имен
 

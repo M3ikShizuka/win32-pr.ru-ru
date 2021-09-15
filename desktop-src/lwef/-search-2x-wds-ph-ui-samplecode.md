@@ -4,12 +4,12 @@ description: В следующем примере кода показано, к�
 ms.assetid: b2d5bcdb-ad71-44db-9bea-486ffaad3655
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: eb33a63ff49309805a3dcf54a6ec19ecc42c66d3425d5f4e4921e46e7bc29a1d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4da87609de9bb8572e9c4c607a7452abbe4eba10
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118753230"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469348"
 ---
 # <a name="custom-protocol-handler-user-interface-sample-code"></a>Пример кода пользовательского интерфейса обработчика настраиваемых протоколов
 
@@ -18,7 +18,7 @@ ms.locfileid: "118753230"
 
 В следующем примере кода показано, как создать расширения пользовательского интерфейса для пользовательского обработчика протокола.
 
-## <a name="sample-code"></a>Пример кода
+## <a name="sample-code"></a>Образец кода
 
 > [!Note]
 >

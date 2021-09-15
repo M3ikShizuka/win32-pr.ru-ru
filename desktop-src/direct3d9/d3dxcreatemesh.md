@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 8a1e9ed35325390f3315cd269d89284fd3426a9f1cbad4c1c025be06dd33204f
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 1c7e1c0d626c74f5427f91a5b9eb796e3b79d5a9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119676264"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270224"
 ---
 # <a name="d3dxcreatemesh-function"></a>Функция D3DXCreateMesh
 
@@ -105,7 +105,7 @@ HRESULT D3DXCreateMesh(
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, E \_ OUTOFMEMORY.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -116,7 +116,7 @@ HRESULT D3DXCreateMesh(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

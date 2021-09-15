@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 77bd190566fbc4e699e087b0203c2f42b697bb1ab0f5dd30d7ec4659367ebd63
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fe30478d84e0048ff7a56e5bd8faee8d50548417
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119565914"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469550"
 ---
 # <a name="id3dx11effectshadervariablegetgeometryshader-method"></a>Метод ID3DX11EffectShaderVariable:: Жетжеометришадер
 
@@ -75,7 +75,7 @@ HRESULT GetGeometryShader(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -86,7 +86,7 @@ HRESULT GetGeometryShader(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

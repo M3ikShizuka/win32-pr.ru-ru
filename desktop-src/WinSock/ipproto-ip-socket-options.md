@@ -4,12 +4,12 @@ ms.assetid: 6b06a29e-59cd-4446-bd2f-131dc25bf571
 title: Параметры сокета IPPROTO_IP
 ms.topic: article
 ms.date: 10/02/2019
-ms.openlocfilehash: 4ce469ab9989bc1cd3ec261e3d3a1b3b819c30443225fee24ae06c92efb6bace
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b4c8daa18e7bd60e61473bdda1c885bbd163f0b4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117927714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469582"
 ---
 # <a name="ipproto_ip-socket-options"></a>\_Параметры IP-сокета иппрото
 
@@ -56,7 +56,7 @@ ms.locfileid: "117927714"
 
 ## <a name="windows-support-for-ip_proto-options"></a>Windows поддержка параметров IP-адреса \_
 
-| Параметр | Windows 10, | Windows 8 | Windows Server 2012 | Windows 7 | Windows Server 2008 | Windows Vista |
+| Параметр | Windows 10 | Windows 8 | Windows Server 2012 | Windows 7 | Windows Server 2008 | Windows Vista |
 |-|-|-|-|-|-|-|
 | IP_ADD_IFLIST | начиная с Windows 10, версия 1803 | | | | | |
 | \_Добавление \_ ЧЛЕНСТВА в IP | x | x | x | x | x | x |
@@ -87,7 +87,7 @@ ms.locfileid: "117927714"
 
 <br/>
 
-| Параметр | Windows Server 2003 | Windows XP |
+| Параметр | Windows Server 2003 | Windows XP |
 |-|-|-|
 | IP_ADD_IFLIST | | |
 | \_Добавление \_ ЧЛЕНСТВА в IP | x | x |

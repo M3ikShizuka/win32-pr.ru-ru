@@ -4,12 +4,12 @@ ms.assetid: 68cb1df1-f7fa-447a-8ea5-80dc1e802760
 title: Интерфейс Икэйфрамеконтрол (H323priv. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4dac4890409fa67f3f5176502aa4bd156a7d78e8986b648e2824355acd78cdc6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6c326c6a492777d7c41ae450a1c502c343aeb8cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119975865"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270496"
 ---
 # <a name="ikeyframecontrol-interface"></a>Интерфейс Икэйфрамеконтрол
 
@@ -38,7 +38,7 @@ ms.locfileid: "119975865"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -51,7 +51,7 @@ ms.locfileid: "119975865"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

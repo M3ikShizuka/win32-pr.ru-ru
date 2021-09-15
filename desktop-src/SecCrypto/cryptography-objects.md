@@ -4,12 +4,12 @@ ms.assetid: 4ab16355-1341-4c7a-b570-bd33f11dde00
 title: Криптографические объекты
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2ff5e9495d64c38272bac54ffac03d1d087b9286887b4e4e520c6a447765efac
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7ea3476e7edad1d32fe1e11635bd65622d2a8375
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117768376"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271088"
 ---
 # <a name="cryptography-objects"></a>Криптографические объекты
 
@@ -30,18 +30,18 @@ ms.locfileid: "117768376"
 
 | Объект                                             | Описание                                                                                                             |
 |----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| [**Сертификат**](certificate.md)                 | Один цифровой сертификат.                                                                                           |
+| [**Certificate**](certificate.md)                 | Один цифровой сертификат.                                                                                           |
 | [**цертификатеполиЦиес**](certificatepolicies.md) | Коллекция объектов [**полициинформатион**](policyinformation.md) .                                                 |
 | [**Сертификаты**](certificates.md)               | Коллекция объектов [**Certificate**](certificate.md) .                                                               |
 | [**цертификатестатус**](certificatestatus.md)     | Предоставляет сведения о состоянии сертификата.                                                                           |
 | [**Цепочк**](chain.md)                             | Создает и проверяет цепочку проверки сертификатов на основе цифрового сертификата.                                       |
-| [**ExtendedProperties**](extendedproperties.md)   | Представляет коллекцию объектов [**ExtendedProperty**](extendedproperty.md) .                                        |
+| [**Расширенных свойств**](extendedproperties.md)   | Представляет коллекцию объектов [**ExtendedProperty**](extendedproperty.md) .                                        |
 | [**ExtendedProperty**](extendedproperties.md)     | Представляет свойство, расширенное корпорацией Майкрософт.                                                                               |
 | [**Расширение**](extension.md)                     | Представляет одно расширение сертификата.                                                                              |
-| [**Расширения**](extensions.md)                   | Представляет коллекцию объектов [**Extension**](extension.md) .                                                      |
+| [**Модули**](extensions.md)                   | Представляет коллекцию объектов [**Extension**](extension.md) .                                                      |
 | [**PrivateKey**](privatekey.md)                   | Представляет закрытый ключ.                                                                                               |
 | [**PublicKey**](publickey.md)                     | Представляет открытый ключ в объекте [**сертификата**](certificate.md) .                                                 |
-| [**Сообщений**](store.md)                             | Предоставляет свойства и методы для выбора, управления и использования хранилищ сертификатов и сертификатов в этих хранилищах. |
+| [**Хранение**](store.md)                             | Предоставляет свойства и методы для выбора, управления и использования хранилищ сертификатов и сертификатов в этих хранилищах. |
 | [**Шаблон**](template.md)                       | Представляет шаблон расширения сертификата для сертификата.                                                       |
 
 

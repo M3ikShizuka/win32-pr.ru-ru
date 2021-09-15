@@ -15,12 +15,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: c496faf8c28c6dc9abacf75156f53a91cf7fc4d71b4ef469b64d2daa424d1a01
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6f349b7267d58a9376b9295e3ffd5013954a0872
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117771658"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469953"
 ---
 # <a name="icertificate2extendedkeyusage-method"></a>Метод ICertificate2:: Екстендедкэйусаже
 
@@ -65,7 +65,7 @@ Certificate.ExtendedKeyUsage()
 [Криптографические объекты](cryptography-objects.md)
 </dt> <dt>
 
-[**Сертификат**](certificate.md)
+[**Certificate**](certificate.md)
 </dt> </dl>
 
  

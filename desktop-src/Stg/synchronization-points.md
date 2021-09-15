@@ -4,12 +4,12 @@ description: Если наборы свойств поддерживаются �
 ms.assetid: 34cc4338-b29f-43f9-946d-14b2b235ccec
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cf924458d81003e2cc211ff810ebb714399ac28e91189586491b584cff6a3390
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: fa156efbb1573b2954c1f7da07a58ed663c71781
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120034884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270579"
 ---
 # <a name="synchronization-points"></a>Точки синхронизации
 
