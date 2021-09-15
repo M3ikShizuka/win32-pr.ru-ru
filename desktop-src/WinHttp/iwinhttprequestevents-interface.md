@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - HttpRequest.idl
-ms.openlocfilehash: 42b8355de57ada064e57a129c77ba507a72028b1c38ce115e58db110f2ce976b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3cdd0bf10c0d4bd75351ddaab6e88ce7182850fd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117744352"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462484"
 ---
 # <a name="iwinhttprequestevents-interface"></a>Интерфейс Ивинхттпрекуестевентс
 

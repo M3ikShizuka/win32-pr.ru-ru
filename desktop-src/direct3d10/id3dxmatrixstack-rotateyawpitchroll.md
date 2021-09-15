@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: e43422e5872708a61b5f066725e61c16e55d04dd94f5c8527c7b86e1f7a543c4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8c4f167f769a1ed46404028916477d6784e4a436
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119128336"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462445"
 ---
 # <a name="id3dxmatrixstackrotateyawpitchroll-method-d3dx10h"></a>Метод ID3DXMATRIXStack:: Ротатэйавпитчролл (D3DX10. h)
 

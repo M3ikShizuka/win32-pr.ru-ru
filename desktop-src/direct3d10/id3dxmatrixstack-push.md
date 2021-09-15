@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: d8c9054274666b41e70fa060d10a28309be929a19ee5c363ff4afeb76b25e1ac
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9c248fdaed8235c383388a52172021921e2c78d8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117914240"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462453"
 ---
 # <a name="id3dxmatrixstackpush-method-d3dx10h"></a>ID3DXMATRIXStack: метод:P тельную (D3DX10. h)
 
@@ -59,7 +59,7 @@ HRESULT Push();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

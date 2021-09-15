@@ -14,11 +14,11 @@ api_type:
 api_location:
 - d3dx9math.h
 ms.openlocfilehash: 7bb14f23d041ec2634b9710d5620382d8b93da2b
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108094212"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462433"
 ---
 # <a name="d3dxmatrixa16-structure-d3dx9mathh"></a>Структура D3DXMATRIXA16 (D3dx9math. h)
 
@@ -35,7 +35,7 @@ typedef struct D3DXMATRIXA16 {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -103,11 +103,11 @@ typedef D3DX_ALIGN16 _D3DXMATRIXA16 D3DXMATRIXA16, *LPD3DXMATRIXA16;
 
 | Требование | Значение |
 |-------------------|----------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>D3dx9math. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>D3dx9math. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

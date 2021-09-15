@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Winhttp.dll
-ms.openlocfilehash: e31fbe80f106735a43126b2be5181478b932e2f813b207984959cf013d3fd752
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3f2f81585fdf444b6b5ab1795f183897687732ed
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118562459"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462488"
 ---
 # <a name="iwinhttprequestsettimeouts-method"></a>Метод Ивинхттпрекуест:: Сеттимеаутс
 

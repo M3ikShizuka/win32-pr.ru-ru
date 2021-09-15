@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 3f58635432fa471f479f79ec28de302fcdb1da14490ff60647356c3b32e5ebb9
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: de28316b9b90c7bb53628386f38b1992a10a4270
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119951494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462424"
 ---
 # <a name="id3dxkeyframedanimationsetgetnumscalekeys-method"></a>Метод ID3DXKeyframedAnimationSet:: Жетнумскалекэйс
 
@@ -55,7 +55,7 @@ UINT GetNumScaleKeys(
 
 Количество ключей масштабирования в указанной анимации по опорным кадрам.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -66,7 +66,7 @@ UINT GetNumScaleKeys(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

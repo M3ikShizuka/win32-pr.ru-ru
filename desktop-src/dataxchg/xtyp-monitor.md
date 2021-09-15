@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 11a86235c2964bbd09d51ce3adc2e602e23fed09597df14721e92e76c0cd8109
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e6a1cb86a1cbf7e0c02c082719e0a7d302d03975
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119047262"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462474"
 ---
 # <a name="xtyp_monitor-transaction"></a>\_Транзакция монитора кстип
 
@@ -114,7 +114,7 @@ ms.locfileid: "119047262"
 
 Если функция обратного вызова обрабатывает эту транзакцию, она должна возвращать значение 0.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -126,7 +126,7 @@ ms.locfileid: "119047262"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
@@ -160,7 +160,7 @@ ms.locfileid: "119047262"
 [**монмсгструкт**](/windows/win32/api/ddeml/ns-ddeml-monmsgstruct)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [библиотека управления Exchange платформа динамических данных](dynamic-data-exchange-management-library.md)

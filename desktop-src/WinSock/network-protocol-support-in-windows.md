@@ -4,12 +4,12 @@ ms.assetid: 8c123e09-b11a-4c92-b41e-49cc01be53d3
 title: Поддержка сетевого протокола Winsock в Windows
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 309b476669d7e27513c3e89acfbed135d425b234ccdf28a89ad74680a8cb596c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 36da53101dda06426a04e5f910b4548273e8ab47
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120097694"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462478"
 ---
 # <a name="winsock-network-protocol-support-in-windows"></a>Поддержка сетевого протокола Winsock в Windows
 

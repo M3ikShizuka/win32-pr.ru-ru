@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Winhttp.dll
-ms.openlocfilehash: e4f72edf2a3532c6d0f2641d979885e6d294c2ad923a28f19b71b348ea3a6377
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fe9e3508273a3ee52d72ede65fd6575d72decb8f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119052002"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462485"
 ---
 # <a name="iwinhttprequestwaitforresponse-method"></a>Метод Ивинхттпрекуест:: Ваитфорреспонсе
 
@@ -199,7 +199,7 @@ WScript.Echo( WinHttpReq.ResponseText);
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -214,7 +214,7 @@ WScript.Echo( WinHttpReq.ResponseText);
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

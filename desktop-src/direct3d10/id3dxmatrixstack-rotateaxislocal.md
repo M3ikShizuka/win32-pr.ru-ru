@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: 94ebd2513dfb38936d1167e307026f00db96592a420d6fc1994a680e1336ffb3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8a81a4c4bd9a2f738274f98ce925799b34986fbb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119046852"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462446"
 ---
 # <a name="id3dxmatrixstackrotateaxislocal-method-d3dx10h"></a>Метод ID3DXMATRIXStack:: Ротатеаксислокал (D3DX10. h)
 
@@ -80,7 +80,7 @@ m_stack[m_currentPos] = tmp * m_stack[m_currentPos];
 
 Так как поворот влево умножается на стек матрицы, поворот происходит относительно локального пространства координат объекта.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -91,7 +91,7 @@ m_stack[m_currentPos] = tmp * m_stack[m_currentPos];
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

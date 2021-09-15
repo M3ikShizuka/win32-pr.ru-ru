@@ -13,11 +13,11 @@ api_name:
 api_type:
 - NA
 ms.openlocfilehash: 66d450ce5a03e07e779ca5131443cdf67398cf19
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105692032"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462431"
 ---
 # <a name="ignorehit-function"></a>Функция IgnoreHit
 
@@ -35,7 +35,7 @@ void IgnoreHit();
 
 **void**
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Эту функцию можно вызывать из следующих типов шейдеров райтраЦинг:
 
