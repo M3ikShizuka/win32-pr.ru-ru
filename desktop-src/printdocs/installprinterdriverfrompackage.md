@@ -15,12 +15,12 @@ api_type:
 - DllExport
 api_location:
 - Spoolss.dll
-ms.openlocfilehash: 3248fc1a2392e2a04fd83c58ddcc08a110eec94779b634ce6a348639d4d2a5c2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f817f5e73537f6a71d8236ad9532acdf02a53552
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120112474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568642"
 ---
 # <a name="installprinterdriverfrompackage-function"></a>Функция Инсталлпринтердриверфромпаккаже
 
@@ -116,7 +116,7 @@ HRESULT InstallPrinterDriverFromPackage(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

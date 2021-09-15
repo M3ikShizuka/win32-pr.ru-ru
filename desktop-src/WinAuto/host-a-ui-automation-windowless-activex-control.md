@@ -7,12 +7,12 @@ keywords:
 - безоконный контроль ActiveX, автоматизация пользовательского интерфейса
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c8f39983bc5252aabb9eb58dfcfd117fe8e07297e5545f0596fec777ab6f2e64
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 77026d923ea6f0d2536cbd6a94966ec858443258
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120122174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568534"
 ---
 # <a name="host-a-ui-automation-windowless-activex-control"></a>размещение элемента управления ActiveX без окна модели автоматизации пользовательского интерфейса
 
@@ -32,7 +32,7 @@ ms.locfileid: "120122174"
 -   безоконные элементы управления ActiveX
 -   Поставщики автоматизации пользовательского интерфейса
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="step-1-provide-the-irawelementprovidersimple-interface-on-behalf-of-the-windowless-control"></a>Шаг 1. предоставление интерфейса Иравелементпровидерсимпле от имени элемента управления без окон.
 

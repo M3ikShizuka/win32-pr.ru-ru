@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: article
 ms.date: 02/03/2020
-ms.openlocfilehash: d6df21a5464aa44621c2eca760690806237f9e75a79c5f695d3df5b7604a6878
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3c099c02338aa70817d75717064e0b99ac13c96b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119964224"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569494"
 ---
 # <a name="wm_pointerroutedaway-message"></a>Сообщение WM_POINTERROUTEDAWAY
 
@@ -58,7 +58,7 @@ ms.locfileid: "119964224"
 
 NULL
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это сообщение не отправляется ни с [**WM_POINTERUP**](wm-pointerup.md) сообщением, ни с сообщением [**WM_POINTERCAPTURECHANGED**](wm-pointercapturechanged.md) .
 

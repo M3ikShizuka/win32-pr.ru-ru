@@ -4,12 +4,12 @@ ms.assetid: 2384b522-208a-48db-ae0d-f82fa0214d09
 title: Рисование графики в OM-объекте XPS
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0ee2f9eacb19ba39263cff3898451479d8bed28e1d83ac6fe251fb9b4da62f49
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fabbf8cfb821c80dfff43e2e7844331c8920f726
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119719314"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568651"
 ---
 # <a name="draw-graphics-in-an-xps-om"></a>Рисование графики в OM-объекте XPS
 
@@ -194,7 +194,7 @@ ms.locfileid: "119719314"
 
 
 
-## <a name="best-practices"></a>Советы и рекомендации
+## <a name="best-practices"></a>Рекомендации
 
 Добавьте текстовое описание фигуры, заданное интерфейсом [**икспсомпас**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsompath) . Чтобы воспользоваться преимуществами пользователей с ослабленным зрением, используйте методы [**сетакцессибилитишортдескриптион**](/windows/desktop/api/xpsobjectmodel/nf-xpsobjectmodel-ixpsompath-setaccessibilityshortdescription) и [**сетакцессибилитилонгдескриптион**](/windows/desktop/api/xpsobjectmodel/nf-xpsobjectmodel-ixpsompath-setaccessibilitylongdescription) , чтобы предоставить текстовое содержимое для функций поддержки специальных возможностей, таких как средства чтения с экрана.
 

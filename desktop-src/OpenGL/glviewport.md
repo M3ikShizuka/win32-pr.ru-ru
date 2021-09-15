@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 70fc727265ce4af1db2be808ae7eee3f59246874659a815c66292bcab3d7ecfe
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e5e8eedb9c66211deda92ef6a84e8c1dd2073362
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120035413"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470139"
 ---
 # <a name="glviewport-function"></a>Функция Глвиевпорт
 
@@ -102,7 +102,7 @@ void WINAPI glViewport(
 
 **глжет** с аргументом " \_ Максимальное \_ окно просмотра" \_
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -116,7 +116,7 @@ void WINAPI glViewport(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

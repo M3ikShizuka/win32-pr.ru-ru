@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: 7e34a625de7a9d27193629edca399121228cf09eef4f559aca04c7102e7bd4ed
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 72605e0ad7bbb8671ff9a5885a79f1d7836c6efb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117767107"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469925"
 ---
 # <a name="ekus_newenum-property"></a>EKU. \_ Свойство NewEnum
 

@@ -15,11 +15,11 @@ api_type:
 ms.topic: article
 ms.date: 02/03/2020
 ms.openlocfilehash: a875814b51558c20de47eeee525f6dd35f716fac
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "103803082"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569082"
 ---
 # <a name="wm_ncpointerup-message"></a>Сообщение WM_NCPOINTERUP
 
@@ -77,7 +77,7 @@ ms.locfileid: "103803082"
 
 Если приложение не обрабатывает это сообщение, оно должно вызывать [**дефвиндовпрок**](/windows/win32/api/winuser/nf-winuser-defwindowproca).
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если приложение не обрабатывает это сообщение, [**дефвиндовпрок**](/windows/win32/api/winuser/nf-winuser-defwindowproca) может выполнить одно или несколько системных действий в зависимости от результата проверки попадания, включенного в сообщение. Как правило, приложениям не нужно выполнять обработку этого сообщения.
 
@@ -87,9 +87,9 @@ ms.locfileid: "103803082"
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 8\]<br/>                                                               |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2012\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включение Windows. h)</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                                               |
+| Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                                     |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 

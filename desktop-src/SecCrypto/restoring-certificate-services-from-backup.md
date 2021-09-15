@@ -4,12 +4,12 @@ ms.assetid: f4914f45-629d-4f24-8328-d7f27e8a0062
 title: Восстановление служб сертификатов из резервной копии
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 665a1aed873cdf25f24dc5a7bc8b8466a5c3ae7a6c1aaf6bec07d2e8be336e9a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8f5adf46d802194909397a3b70483b3cf43bb409
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118900528"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469825"
 ---
 # <a name="restoring-certificate-services-from-backup"></a>Восстановление служб сертификатов из резервной копии
 

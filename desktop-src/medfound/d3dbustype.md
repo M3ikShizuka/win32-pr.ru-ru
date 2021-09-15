@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3d9types.h
-ms.openlocfilehash: cece215946406bedcca2cbfdd2b64bfdb5df00208b2d84cf2aa90fdb89b516bc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 807e5a57c4abbf57c241643a3e7fea47606fbf75
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119828384"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569455"
 ---
 # <a name="d3dbustype-enumeration"></a>Перечисление D3DBUSTYPE
 
@@ -126,7 +126,7 @@ typedef enum  {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Можно задать до трех флагов. Флаги в диапазоне от 0x00 до 0x04 (**D3DBUSTYPE \_ xxx**) предоставляют базовый тип шины. Флаги в диапазоне от 0x10000 до 0x50000 **( \_ Модификатор D3DBUSIMPL \_ xxx**) изменяют базовое описание. Драйвер устанавливает один флаг типа Bus и может устанавливать ноль или один флаг модификатора. Если драйвер задает флаг модификатора, он также задает **\_ \_ \_ нестандартный флаг модификатора D3DBUSIMPL** . Флаги объединяются с побитовой **или**.
 

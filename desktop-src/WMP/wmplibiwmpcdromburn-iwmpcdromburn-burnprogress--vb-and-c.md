@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 90b8e468bc57bb40d990c0b2aeaffc23e184ef2ffa04ab85c9f60cf0d6bced57
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 835c8c1091941437c226427ddb3ef53e8c577b5d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118332068"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569038"
 ---
 # <a name="iwmpcdromburnburnprogress-property"></a>Свойство Ивмпкдромбурн:: Бурнпрогресс
 

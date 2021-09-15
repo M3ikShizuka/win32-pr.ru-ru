@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 7b5d97563716e4569daa89a0c6cb52516643c6ae6a44a6fac9861c8b1236eb4d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 56ac59b1f9e2bae1e5dda23cc05956584d321dae
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119041472"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569623"
 ---
 # <a name="esentdatabaseinvalidpagesexception-constructor"></a>Конструктор Есентдатабасеинвалидпажесексцептион
 
@@ -52,9 +52,9 @@ Dim instance As New EsentDatabaseInvalidPagesException()
 public EsentDatabaseInvalidPagesException()
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Есентдатабасеинвалидпажесексцептион](./esentdatabaseinvalidpagesexception-class.md)
 

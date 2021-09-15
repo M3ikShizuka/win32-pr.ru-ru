@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4096f77b4295e9567f17f747a5aee1edae1b592cb49c89547102cb6d017b7814
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bee00f36f236396816e7bb54cadbe6914f3437e6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119860354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568542"
 ---
 # <a name="getprocesshandlefromhwnd-function"></a>Функция Жетпроцесшандлефромхвнд
 
@@ -57,7 +57,7 @@ HANDLE WINAPI GetProcessHandleFromHwnd(
 
 Если это не удалось, возвращает **значение NULL**.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В предыдущих версиях операционной системы процесс мог открыть другой процесс (например, для доступа к его памяти) с помощью [**OpenProcess**](/windows/desktop/api/processthreadsapi/nf-processthreadsapi-openprocess). Эта функция будет выполнена успешно, если вызывающая сторона имеет соответствующие привилегии. как правило, вызывающий и целевой процессы должны быть одного пользователя.
 
@@ -65,7 +65,7 @@ HANDLE WINAPI GetProcessHandleFromHwnd(
 
 **Жетпроцесшандлефромхвнд** — это удобная функция, которая использует этот метод для получения дескриптора процесса, владеющего указанным HWND. Обратите внимание, что она выполняется только в тех случаях, когда вызывающий и целевой процессы выполняются как один и тот же пользователь. Возвращенный обработчик имеет следующие привилегии: Process \_ DUP обработка операции виртуальной машины обработка виртуальной машины процесс \_ \| чтения виртуальной \_ \_ \| \_ \_ \| \_ машины \_ запись \| Синхронизация. Если требуются другие привилегии, то вместо использования этой функции может потребоваться реализовать методику привязки явным образом.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

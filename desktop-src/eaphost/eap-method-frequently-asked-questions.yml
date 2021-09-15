@@ -6,109 +6,109 @@ metadata:
   ms.topic: article
   ms.date: 05/31/2018
   ms.openlocfilehash: 77ca3774f8959b0c6752c65b4088ef11630191ba
-  ms.sourcegitcommit: 0dec0044816af3f2b2e6403659e1cf11138c90cd
+  ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
   ms.translationtype: MT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "121858752"
+  ms.lasthandoff: 09/13/2021
+  ms.locfileid: "127568803"
 title: Часто задаваемые вопросы о методе EAP
 summary: Этот раздел содержит ответы на часто задаваемые вопросы о разработке методов EAP.
 sections:
 - name: Не учитывается
   questions:
   - question: >
-      What is "configuration data"?
+      Что такое "данные конфигурации"?
     answer: >
-      The terms &quot;configuration data&quot; and &quot;connection data&quot; are synonymous.
+      Термины &quot; данные конфигурации &quot; и &quot; данные соединения &quot; являются синонимами.
   - question: >
-      What is "connection data"?
-    answer: data&quot; is an EAP method-specific opaque BLOB that contains configuration information for the method. This connection data is created by the method when it is initially configured and is never interpreted or modified by any other component than the EAP method itself.
+      Что такое "данные подключения"?
+    answer: данные &quot; — это непрозрачный большой двоичный объект, относящийся к методу EAP, который содержит сведения о конфигурации для метода. Эти данные соединения создаются методом при первоначальной настройке и никогда не обрабатываются или не изменяются каким-либо другим компонентом, чем сам метод EAP.
   - question: >
-      What are "credentials"?
+      Что такое "учетные данные"?
     answer: >
-      The terms &quot;credentials&quot; and &quot;user data&quot; are synonymous.
+      Термины &quot; учетные данные &quot; и &quot; данные пользователя &quot; являются синонимами.
   - question: >
-      What is "user data"?
-    answer: data&quot; is an EAP method-specific opaque BLOB that contains user credential data, such as a user name and password. The user data is never interpreted or modified by any other component than the EAP method itself. The terms &quot;user data&quot; and &quot;credentials&quot; are synonymous.
+      Что такое "данные пользователя"?
+    answer: данные &quot; — это непрозрачный большой двоичный объект, зависящий от метода EAP, который содержит данные учетных данных пользователя, такие как имя пользователя и пароль. Пользовательские данные никогда не обрабатываются или не изменяются каким-либо другим компонентом, чем сам метод EAP. Термины &quot; пользовательские данные &quot; и &quot; учетные данные &quot; являются синонимами.
   - question: >
-      What is an "EAP attribute"?
+      Что такое атрибут EAP?
     answer: >
-      An &quot;EAP attribute&quot; is a data structure that contains a predetermined type of data. Attributes are used to communicate information between EAP methods and supplicants, or between EAP methods and authenticators. Peer and authenticator implementations of an EAP method may exchange these attributes over a network.
+      &quot;Атрибут EAP &quot; — это структура данных, которая содержит предварительно определенный тип данных. Атрибуты используются для обмена данными между методами EAP и отправителей запросов, а также между методами и проверками подлинности EAP. Реализации метода EAP в одноранговых сетях и средствах проверки подлинности могут обмениваться этими атрибутами по сети.
   - question: >
-      Can the configuration API and the run-time API appear in the same method DLL?
+      Может ли API конфигурации и API времени выполнения отображаться в одной и той же библиотеке DLL метода?
     answer: >
-      Yes. Be sure to specify the distinction when configuring the registry entries for the EAP method itself. The configuration path and peer path must be the same.
+      Да. Не забудьте указать различие при настройке записей реестра для самого метода EAP. Путь конфигурации и путь однорангового узла должны быть одинаковыми.
   - question: >
-      Can the configuration API and the run-time API appear in separate method DLLs?
+      Могут ли API конфигурации и API времени выполнения отображаться в отдельных библиотеках DLL методов?
     answer: >
-      Yes. Be sure to specify the distinction when configuring the registry entries for the EAP method itself. The configuration and peer paths must point to the correct DLLs.
+      Да. Не забудьте указать различие при настройке записей реестра для самого метода EAP. Пути конфигурации и одноранговых узлов должны указывать на правильные библиотеки DLL.
   - question: >
-      How do I install an EAP method?
+      Разделы справки установить метод EAP?
     answer: >
-      To install an EAP method, you must first implement [<strong>DllRegisterServer</strong>](/windows/win32/api/olectl/nf-olectl-dllregisterserver) and [<strong>DllUnregisterServer</strong>](/windows/win32/api/olectl/nf-olectl-dllunregisterserver) in the EAP method DLL itself. After that, use <strong>regsvr32.exe</strong> to install and uninstall the method. The appropriate registry keys must also be set. For more information, see [Installing an EAP Method](installing-an-eap-method.md).<br/>
+      Чтобы установить метод EAP, необходимо сначала реализовать [<strong>DllRegisterServer</strong>](/windows/win32/api/olectl/nf-olectl-dllregisterserver) и [<strong>DllUnregisterServer</strong>](/windows/win32/api/olectl/nf-olectl-dllunregisterserver) в самой библиотеке DLL метода EAP. После этого используйте <strong>regsvr32.exe</strong> , чтобы установить и удалить метод. Необходимо также задать соответствующие разделы реестра. Дополнительные сведения см. в разделе [Установка метода EAP](installing-an-eap-method.md).<br/>
   - question: >
-      What is in-band Network Access Protection (NAP) support?
+      Что такое поддержка защиты доступа к сети (NAP) в аппаратном уровне?
     answer: >
-      When in-band [NAP](/windows/desktop/NAP/network-access-protection-start-page) support is enabled, NAP packets are transported inside EAP method packets. In contrast, when out-of-band NAP support is enabled, the NAP [Statement of Health](https://go.microsoft.com/fwlink/p/?linkid=83917) (SoH) exchange occurs through means other than internal to EAP method packets, and NAP-generated certificates are used in EAP method authentication.
+      Если включена поддержка [NAP](/windows/desktop/NAP/network-access-protection-start-page) в аппаратном контроллере, пакеты NAP передаются внутри пакетов методов EAP. В противоположность этому, если включена поддержка нестандартного NAP, Обмен данными [о состоянии работоспособности](https://go.microsoft.com/fwlink/p/?linkid=83917) (SoH) NAP выполняется через средства, отличные от внутренних для пакетов методов EAP, а сертификаты, созданные NAP, используются в проверке подлинности методом EAP.
   - question: >
-      Can I enable in-band NAP support for my EAP method?
+      Можно ли включить поддержку аппаратного контроллера управления NAP для моего метода EAP?
     answer: >
-      Yes, in-band NAP support for your EAP method can be enabled. For more information, see [Enabling In-Band NAP Support for EAP Methods](enabling-in-band-nap-support.md).
+      Да, можно включить поддержку аппаратного контроллера управления мобильными NAP для метода EAP. Дополнительные сведения см. в разделе [Включение поддержки NAP In-Band для методов EAP](enabling-in-band-nap-support.md).
   - question: >
-      How does EAP Flexible Authentication via Secure Tunneling (EAP-FAST) work?
+      как работает гибкая проверка подлинности eap через безопасное туннелирование (eap-FAST)?
     answer: >
-      The EAP-FAST scenario works as follows. <br/>
+      сценарий EAP-FAST работает следующим образом. <br/>
 
       <ul>
 
-      <li>The method processes a password change at single-sign-on (SSO) employing the method UI.</li>
+      <li>Метод обрабатывает изменение пароля при едином входе (SSO), использующем пользовательский интерфейс метода.</li>
 
-      <li>The method returns the [<strong>eatCredentialsChanged</strong>](/windows/desktop/api/eaptypes/ne-eaptypes-eap_attribute_type) attribute.</li>
+      <li>Метод возвращает атрибут [<strong>еаткредентиалсчанжед</strong>] (/Виндовс/десктоп/АПИ/еаптипес/не-еаптипес-eap_attribute_type).</li>
 
-      <li>The supplicant indicates to the user that credentials have changed and requests the user to re-enter their credentials.</li>
+      <li>Сторона сообщает пользователю, что изменились учетные данные, и запрашивает у пользователя повторный ввод учетных данных.</li>
 
-      <li>The supplicant re-enters the user credentials, and sends those credentials to the method.</li>
+      <li>Запрашивающий объект повторно вводит учетные данные пользователя и отправляет эти учетные данные методу.</li>
 
       </ul>
 
-      For more information on EAP-FAST, see [EAP Flexible Authentication via Secure Tunneling](https://go.microsoft.com/fwlink/p/?linkid=84010) (EAP-FAST).
+      дополнительные сведения о eap-FAST см. в статье [гибкая проверка подлинности eap с помощью безопасного туннелирования](https://go.microsoft.com/fwlink/p/?linkid=84010) (eap-FAST).
   - question: >
-      What is Pre-Shared Key(PSK)?
+      Общие сведения о предварительном ключе (PSK)
     answer: >
-      A method of transmitting and receiving digital signals in which the phase of a transmitted signal is varied to convey information. The [<strong>EAPConfigInputPSK</strong>](/windows/desktop/api/eaptypes/ne-eaptypes-eap_config_input_field_type) input field contains the user's EAP-FAST PSK.
+      Метод передачи и получения цифровых сигналов, в которых фаза передаваемого сигнала изменяется для передачи информации. поле ввода [<strong>еапконфигинпутпск</strong>](/windows/desktop/api/eaptypes/ne-eaptypes-eap_config_input_field_type) содержит значение EAP-FAST PSK пользователя.
   - question: >
-      What is WOW and how does it matter to EAPHost?
+      Что такое WOW и как это имеет значение EAPHost?
     answer: >
-      Microsoft Windows-32-bit-On-Windows-64-bit (WOW) is an operating system component in 64-bit Windows that supports 32-bit x86 platform application. Typically, a EAP method author would define some form of C/C++ structure to encapsulate configuration data, credential data, and interactive UI data. To avoid incompatibilities in WOW and other scenarios, it is important to ensure that data structures are aligned similarly in different processor architectures (32-bit and 64-bit processors). Typically dummy padding is used to align the fields so that the configuration, credential and interactive UI data are identical on both 32-and 64-bit processors.
+      Microsoft Windows-32-bit-On-Windows-64-bit (WOW) — это компонент операционной системы в 64-разрядной Windows, поддерживающей 32-разрядное приложение платформы x86. Как правило, автор метода EAP определяет определенную форму структуры C/C++, которая позволяет инкапсулировать данные конфигурации, данные учетных данных и интерактивные данные пользовательского интерфейса. Чтобы избежать несовместимости в WOW и других сценариях, важно обеспечить согласованность структур данных в разных архитектурах процессора (32-разрядных и 64-разрядных процессорах). Обычно фиктивное заполнение используется для согласования полей, чтобы параметры конфигурации, учетных данных и интерактивных пользовательских интерфейсов совпадали с 32-и 64-разрядными процессорами.
   - question: >
-      What are "action codes" and under what conditions are these action codes returned?
+      Что такое коды действий и в каких условиях эти коды действий возвращены?
     answer: >
-      &quot;Action codes&quot; allow methods to control the flow of authentication, and are integral to the state machine. They are values returned by an EAP method to indicate the next action the EAPHost should take. For example, an action code could indicate to EAPHost that the EAP method has a packet ready for transmission. The supplicant abides by all action codes returned by an EAP method, but never issues action codes.For more information, see [EAP Peer Supplicant Action Codes](/windows/win32/api/eaphostpeertypes/ne-eaphostpeertypes-eaphostpeerresponseaction).<br/>
+      &quot;Коды действий &quot; позволяют методам управлять потоком проверки подлинности и являются неотъемлемой частью конечного автомата. Это значения, возвращаемые методом EAP для указания следующего действия, которое должна предпринять EAPHost. Например, код действия может указывать на EAPHost, что метод EAP имеет пакет, готовый к передаче. Этот объект придерживается всех кодов действий, возвращаемых методом EAP, но никогда не выдает коды действий. Дополнительные сведения см. в разделе [коды действий для запрашивающих сторон EAP](/windows/win32/api/eaphostpeertypes/ne-eaphostpeertypes-eaphostpeerresponseaction).<br/>
   - question: >
-      When does a method return "EapPeerMethodResponseActionDiscard", and what does this action code mean to EAPHost?
+      Когда метод возвращает «Еаппирмесодреспонсеактиондискард» и что это означает, что этот код действия имеет значение EAPHost?
     answer: >
-      [<strong>EapPeerMethodResponseActionDiscard</strong>](/windows/win32/api/eapauthenticatoractiondefine/ne-eapauthenticatoractiondefine-eappeermethodresponseaction) is returned by an EAP method to indicate to the EAPHost that it must discard the packet it supplied to the method. Specifically, the method has determined that the packet is invalid. EAPHost then waits for the next package.
+      [<strong>Еаппирмесодреспонсеактиондискард</strong>](/windows/win32/api/eapauthenticatoractiondefine/ne-eapauthenticatoractiondefine-eappeermethodresponseaction) возвращается методом EAP для указания EAPHost на то, что он должен отбросить пакет, переданный в метод. В частности, метод определил, что пакет является недопустимым. Затем EAPHost ждет следующего пакета.
   - question: >
-      When does a method return "EapPeerMethodResponseActionSend" and what does this action code mean to EAPHost?
+      Когда метод возвращает «Еаппирмесодреспонсеактионсенд» и что означает, что этот код действия имеет значение EAPHost?
     answer: >
-      [<strong>EapPeerMethodResponseActionSend</strong>](/windows/win32/api/eapauthenticatoractiondefine/ne-eapauthenticatoractiondefine-eappeermethodresponseaction) is returned by an EAP method to indicate to EAPHost that the next packet received by EAPHost must be sent to the network access server (NAS).
+      [<strong>Еаппирмесодреспонсеактионсенд</strong>](/windows/win32/api/eapauthenticatoractiondefine/ne-eapauthenticatoractiondefine-eappeermethodresponseaction) возвращается методом EAP, чтобы указать EAPHost на то, что следующий пакет, полученный с помощью EAPHost, должен быть отправлен на сервер доступа к сети (NAS).
   - question: >
-      When does a method return "EapPeerMethodResponseActionResult" and what does this action code mean to EAPHost?
+      Когда метод возвращает «Еаппирмесодреспонсеактионресулт» и что означает, что этот код действия имеет значение EAPHost?
     answer: >
-      [<strong>EapPeerMethodResponseActionResult</strong>](/windows/win32/api/eapauthenticatoractiondefine/ne-eapauthenticatoractiondefine-eappeermethodresponseaction) is returned by an EAP method to indicate to the EAPHost that the authentication session has concluded and that the results of that session are available.
+      [<strong>Еаппирмесодреспонсеактионресулт</strong>](/windows/win32/api/eapauthenticatoractiondefine/ne-eapauthenticatoractiondefine-eappeermethodresponseaction) возвращается методом EAP для указания EAPHost о завершении сеанса проверки подлинности и доступности результатов этого сеанса.
   - question: >
-      When does a method return "EapPeerMethodResponseActionInvokeUI" and what does this action code mean to EAPHost?
+      Когда метод возвращает «Еаппирмесодреспонсеактионинвокеуи» и что означает, что этот код действия имеет значение EAPHost?
     answer: >
-      [<strong>EapPeerMethodResponseActionInvokeUI</strong>](/windows/win32/api/eapauthenticatoractiondefine/ne-eapauthenticatoractiondefine-eappeermethodresponseaction) is returned by an EAP method to indicate to EAPHost that user input is required to continue with authentication, and that a user interface dialog box must be displayed to obtain that input. Once the user input data has been obtained, EAPHost can call the EAP method again with the updated UI context data.
+      [<strong>Еаппирмесодреспонсеактионинвокеуи</strong>](/windows/win32/api/eapauthenticatoractiondefine/ne-eapauthenticatoractiondefine-eappeermethodresponseaction) возвращается методом EAP, чтобы указать EAPHost на то, что ввод пользователя требуется для продолжения проверки подлинности, и чтобы получить эти входные данные, необходимо отобразить диалоговое окно пользовательского интерфейса. После получения данных, вводимых пользователем, EAPHost может снова вызвать метод EAP с обновленными данными контекста пользовательского интерфейса.
   - question: >
-      When does a method return "EapPeerMethodResponseActionRespond" and what does this action code mean to EAPHost?
+      Когда метод возвращает «Еаппирмесодреспонсеактионреспонд» и что означает, что этот код действия имеет значение EAPHost?
     answer: >
-      [<strong>EapPeerMethodResponseActionRespond</strong>](/windows/win32/api/eapauthenticatoractiondefine/ne-eapauthenticatoractiondefine-eappeermethodresponseaction) is returned by an EAP method to indicate to EAPHost that the EAP method has attributes available for EAPHost to use during authentication. EAPHost obtains the attributes by calling the [<strong>EapPeerGetResponseAttributes</strong>](/previous-versions/windows/desktop/api/eapmethodpeerapis/nf-eapmethodpeerapis-eappeergetresponseattributes) method followed by a call to the [<strong>EapPeerSetResponseAttributes</strong>](/previous-versions/windows/desktop/api/eapmethodpeerapis/nf-eapmethodpeerapis-eappeersetresponseattributes) method.
+      [<strong>Еаппирмесодреспонсеактионреспонд</strong>](/windows/win32/api/eapauthenticatoractiondefine/ne-eapauthenticatoractiondefine-eappeermethodresponseaction) возвращается методом EAP, чтобы указать EAPHost на то, что метод EAP имеет атрибуты, доступные для использования EAPHost во время проверки подлинности. EAPHost получает атрибуты, вызывая метод [<strong>еаппиржетреспонсеаттрибутес</strong>](/previous-versions/windows/desktop/api/eapmethodpeerapis/nf-eapmethodpeerapis-eappeergetresponseattributes) , за которым следует вызов метода [<strong>еаппирсетреспонсеаттрибутес</strong>](/previous-versions/windows/desktop/api/eapmethodpeerapis/nf-eapmethodpeerapis-eappeersetresponseattributes) .
   - question: >
-      When does a method return "EapPeerMethodResponseActionNone" and what does this action code mean to EAPHost?
+      Когда метод возвращает «Еаппирмесодреспонсеактионноне» и что означает, что этот код действия имеет значение EAPHost?
     answer: >
-      [<strong>EapPeerMethodResponseActionNone</strong>](/windows/win32/api/eapauthenticatoractiondefine/ne-eapauthenticatoractiondefine-eappeermethodresponseaction) is returned by an EAP method to indicate to EAPHost that no action is required at this time.
+      [<strong>Еаппирмесодреспонсеактионноне</strong>](/windows/win32/api/eapauthenticatoractiondefine/ne-eapauthenticatoractiondefine-eappeermethodresponseaction) возвращается методом EAP для указания на EAPHost, что в настоящее время никаких действий не требуется.
   - question: >
-      Can I enable tracing on the authenticator side?
-    answer: "Yes. For more information, see [Enabling Tracing](enabling-tracing.md).\n \n"
-additionalContent: "\n## Related topics\n\n[EAPHost Peer Method API Reference](eap-host-peer-method-api-reference.md)\n\n[EAPHost General FAQs](general-frequently-asked-questions.yml)\n\n[EAPHost Supplicant FAQs](eaphost-supplicant-frequently-asked-questions.yml)\n\n[EAPHost Development FAQs](eaphost-development-frequently-asked-questions.md)"
+      Можно ли включить трассировку на стороне средства проверки подлинности?
+    answer: "Да. Дополнительные сведения см. в разделе [Включение трассировки](enabling-tracing.md).\n \n"
+additionalContent: "\n## <a name=\"related-topics\"></a>Связанные темы\n\n[Справочник по API однорангового метода EAPHost](eap-host-peer-method-api-reference.md)\n\n[Общие вопросы и ответы по EAPHost](general-frequently-asked-questions.yml)\n\n[Вопросы и ответы по обращению EAPHost](eaphost-supplicant-frequently-asked-questions.yml)\n\n[Вопросы и ответы по разработке EAPHost](eaphost-development-frequently-asked-questions.md)"

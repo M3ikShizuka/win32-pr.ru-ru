@@ -11,12 +11,12 @@ api_name:
 - SecurityCallContext
 api_type:
 - COM
-ms.openlocfilehash: f0efa73ef704d77cc68b5a1193ccdc3de71b1ed0a5b8c730a2ea67474600bf5a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bd15b7e0317a507a2340cc148bb927bb5d94a37b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118546268"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570015"
 ---
 # <a name="securitycallcontext-class"></a>Класс Секуритикаллконтекст
 

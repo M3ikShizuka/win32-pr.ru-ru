@@ -4,12 +4,12 @@ description: Побитовое или.
 ms.assetid: BBC06F8C-4C86-4077-A1F9-383D6A8FBED3
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a65d6ee2c5e5559d7d5e877a2bdef83b13a45a06ca0f00c980baa4811579f03c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 62064189725b246cc48bbde03a9c094d13f8b9a0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118088747"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568910"
 ---
 # <a name="or-sm4---asm"></a>или (SM4-ASM)
 

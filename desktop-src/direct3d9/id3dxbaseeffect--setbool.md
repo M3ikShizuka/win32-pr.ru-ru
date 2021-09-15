@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: 78e403deae28c4f750dbffc5dcb3781f4a48086d292730f461a7c416d7c28046
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5045c26f521da289899c8f8bc0d97b7eaf01826f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119790824"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569919"
 ---
 # <a name="id3dxbaseeffectsetbool-method"></a>Метод ID3DXBaseEffect:: Сетбул
 
@@ -65,7 +65,7 @@ HRESULT SetBool(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть D3DERR \_ инвалидкалл.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ HRESULT SetBool(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

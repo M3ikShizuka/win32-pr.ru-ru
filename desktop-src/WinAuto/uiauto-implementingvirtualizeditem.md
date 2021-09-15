@@ -15,12 +15,12 @@ keywords:
 - интерфейсы, Ивиртуализедитемпровидер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d7d883eec2e0f5fa4c4ede4c3fa2ef73770cc706114b6536ad002d11ff73f8ea
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d8dac9e34dd9bff5d0ba2d245aa2fb8de621f40a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119997764"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569730"
 ---
 # <a name="virtualizeditem-control-pattern"></a>Шаблон элемента управления Виртуализедитем
 
@@ -50,7 +50,7 @@ ms.locfileid: "119997764"
 
 | Обязательные члены                                           | Тип члена | Примечания |
 |------------------------------------------------------------|-------------|-------|
-| [**Повысить**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ivirtualizeditemprovider-realize) | Метод      | Нет  |
+| [**Повысить**](/windows/desktop/api/UIAutomationCore/nf-uiautomationcore-ivirtualizeditemprovider-realize) | Метод      | None  |
 
 
 

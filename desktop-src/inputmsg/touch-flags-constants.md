@@ -12,12 +12,12 @@ api_type:
 - HeaderDef
 ms.topic: article
 ms.date: 02/03/2020
-ms.openlocfilehash: 80bad1181c0b795f700a53f55dbab3ffa620db6528b565f35363a8ab71dc4561
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9baf0f847d40fe123f0ec14da4f177a43f3c3598
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117695605"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569095"
 ---
 # <a name="touch-flags"></a>Сенсорные флаги
 
@@ -50,7 +50,7 @@ ms.locfileid: "117695605"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

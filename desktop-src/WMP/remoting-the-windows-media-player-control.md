@@ -21,12 +21,12 @@ keywords:
 - внедрение, удаленное управление ActiveX
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9a5d067fdc0846c1d7ccfcd828d55adbb5b5e74c52f9bb5f468d86192655004c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 615d3d31535abea098939af65ea67c13acbf8f6c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120002614"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469664"
 ---
 # <a name="remoting-the-windows-media-player-control"></a>Реализация удаленного управления проигрывателем Windows Media
 

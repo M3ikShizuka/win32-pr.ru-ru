@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Cardmod.h
-ms.openlocfilehash: e9a38e7d67e413352de693f52b07ba11bf34858854fa708b41a735152ad3ed2f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d3ef9fc81c9ab3bff5f3992c3aedeb3f923648ea
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117771990"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469972"
 ---
 # <a name="card_file_access_condition-enumeration"></a>\_ \_ Перечисление условий доступа к файлу карты \_
 
@@ -86,7 +86,7 @@ typedef enum  {
 |-------------------------------------|--------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows xp, только для \[ настольных приложений Windows xp\]<br/>                              |
 | Минимальная версия сервера<br/> | Windows сервер 2003, Windows server 2003 \[ только классические приложения\]<br/>            |
-| Header<br/>                   | <dl> <dt>Cardmod. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Cardmod. h</dt> </dl> |
 
 
 

@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9937694234fe7e46fe9b98d83357da19abf18f8d14e83794587f6f2050b0019b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fe771fc893d4bf43b82dc825a2d33724926e8151
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118116222"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568998"
 ---
 # <a name="iwmpcdromcollectiongetbydrivespecifier-method"></a>Метод Ивмпкдромколлектион:: ЖетбидривеспеЦифиер
 
@@ -109,7 +109,7 @@ drive.eject()
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -121,7 +121,7 @@ drive.eject()
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

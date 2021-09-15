@@ -17,12 +17,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: aaaa8932a5db6325f9a63afa50cf6a2f4fef88621567f965c3e0a7e611abb696
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 62fffe6cc2d9ca650442d0a1c3fea2048fc6c84b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119854614"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570026"
 ---
 # <a name="dlldebugobjectrpchook-function"></a>Функция Дллдебугобжектрпчук
 
@@ -62,7 +62,7 @@ BOOL WINAPI DllDebugObjectRPCHook(
 
 **Значение true** , если выполнено успешно; в противном случае — **false**
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ BOOL WINAPI DllDebugObjectRPCHook(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

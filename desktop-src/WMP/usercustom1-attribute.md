@@ -3,7 +3,7 @@ title: Атрибут UserCustom1
 description: Атрибут UserCustom1 является произвольным текстом.
 ms.assetid: c8ca54df-7849-4eea-b229-5056564f984a
 keywords:
-- UserCustom1 атрибут Windows Media Player
+- проигрыватель Windows Media атрибута UserCustom1
 topic_type:
 - apiref
 api_name:
@@ -13,17 +13,17 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: b9e9aef7f8e38d3a038d494c36d31cceea8ec008
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105717913"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569058"
 ---
 # <a name="usercustom1-attribute"></a>Атрибут UserCustom1
 
 Атрибут **UserCustom1** является произвольным текстом.
 
-## <a name="applies-to"></a>Применение
+## <a name="applies-to"></a>Применяется к
 
 -   [Звуковые элементы](audio-item-attributes.md)
 -   [Другие элементы](other-item-attributes.md)
@@ -31,7 +31,7 @@ ms.locfileid: "105717913"
 -   [Списки воспроизведения](playlist-attributes-ref.md)
 -   [Элементы видео](video-item-attributes.md)
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Этот атрибут хранится только в библиотеке.
 
@@ -43,7 +43,7 @@ ms.locfileid: "105717913"
 
 | Требование | Значение |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media 9 Series или более поздней версии (элемент Photo поддерживается только в проигрывателе Windows Media 10 или более поздней версии)<br/> |
+| Версия<br/> | проигрыватель Windows Media 9 Series или более поздней версии (элемент photo поддерживается только в проигрыватель Windows Media 10 или более поздней версии).<br/> |
 
 
 

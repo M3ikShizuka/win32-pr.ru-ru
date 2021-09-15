@@ -16,11 +16,11 @@ ms.localizationpriority: low
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 219b198ae5c2da6d6e74db933d4c26771aa63975
-ms.sourcegitcommit: 0dec0044816af3f2b2e6403659e1cf11138c90cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121812541"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569974"
 ---
 # <a name="cd3dx12_pipeline_state_stream1-structure"></a>Структура CD3DX12_PIPELINE_STATE_STREAM1
 
@@ -66,7 +66,7 @@ struct CD3DX12_PIPELINE_STATE_STREAM1 {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -258,13 +258,13 @@ struct CD3DX12_PIPELINE_STATE_STREAM1 {
 
 Доступные переменные-члены этой структуры — это все определения типов шаблона [**CD3DX12_PIPELINE_STATE_STREAM_SUBOBJECT**](/windows/win32/direct3d12/cd3dx12-pipeline-state-stream-subobject) , которые объединяют данные маркера типа и подобъекта в один объект, подходящий для описания потока.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |-------------------|-------------------------------------------------------------------------------------|
 | Заголовок | [D3dx12. h](https://github.com/microsoft/DirectX-Headers/blob/main/include/directx/d3dx12.h) |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 * [Вспомогательные структуры для D3D12](helper-structures-for-d3d12.md)
 * [**CD3DX12_PIPELINE_STATE_STREAM**](cd3dx12-pipeline-state-stream.md)

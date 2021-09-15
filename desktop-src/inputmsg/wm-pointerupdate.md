@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: article
 ms.date: 02/03/2020
-ms.openlocfilehash: 40c1decbf3c209a381356c58c901c4cab992fadd28eb9566e55e46b1cf87e3d7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 215874f4dc1b3438ae3d69b22758ced09a050f0f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119829514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569482"
 ---
 # <a name="wm_pointerupdate-message"></a>Сообщение WM_POINTERUPDATE
 
@@ -94,7 +94,7 @@ ms.locfileid: "119829514"
 
 Если приложение не обрабатывает это сообщение, оно должно вызывать [**дефвиндовпрок**](/windows/win32/api/winuser/nf-winuser-defwindowproca).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Каждый указатель имеет уникальный идентификатор указателя в течение своего времени существования. Время существования указателя начинается при первом обнаружении.
 
@@ -235,7 +235,7 @@ default:
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -247,7 +247,7 @@ default:
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: 49a35cb223c338573ba0a52288a1e5528820dcbd4c7589548ce31f9df46dc1e5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 77a519051d2bd1cb3c948bf0e2271cced7d80a20
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119875254"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469934"
 ---
 # <a name="iekuoid-property"></a>Свойство ИЕКУ:: OID
 
@@ -48,7 +48,7 @@ EKU.OID As String
 
 Это свойство не использует объект [**OID**](oid.md) , представленный в элементе CAPICOM 2,0.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

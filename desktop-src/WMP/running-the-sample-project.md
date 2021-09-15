@@ -13,12 +13,12 @@ keywords:
 - Примеры, тип 2 Интернет-магазинов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1c98fda14fd14e9808671826db0e0125f5390728a2f9bb17dbb9fb6a4a4287c3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4a8f42829add3ffbe5cc026f7dc2451513701fd2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118995514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469637"
 ---
 # <a name="running-the-sample-project"></a>Запуск примера Project
 

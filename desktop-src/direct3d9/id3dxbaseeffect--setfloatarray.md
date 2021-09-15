@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: 0d098bfd706e7fbdd063f049ff8dff1735e385e437d1ee82cd75232744d3dabd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9927f3cd79d7950a94e62881089fb06c67395bac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119848604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569918"
 ---
 # <a name="id3dxbaseeffectsetfloatarray-method"></a>Метод ID3DXBaseEffect:: Сетфлоатаррай
 
@@ -75,7 +75,7 @@ HRESULT SetFloatArray(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть D3DERR \_ инвалидкалл.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -86,7 +86,7 @@ HRESULT SetFloatArray(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

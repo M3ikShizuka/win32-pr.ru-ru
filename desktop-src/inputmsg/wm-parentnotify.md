@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: article
 ms.date: 02/03/2020
-ms.openlocfilehash: 5de0845f906e72a42fa8d9a290c6cd8ac16cc0e96cae21ac25b3e9d7810309e8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2e19edf25933a035514f9c42b0da6014eccfdb0d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119829574"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569079"
 ---
 # <a name="wm_parentnotify-message"></a>Сообщение WM_PARENTNOTIFY
 
@@ -97,7 +97,7 @@ ms.locfileid: "119829574"
 
 Это уведомление предоставляет в качестве предка дочернего окна возможность проверить сведения о указателе и, при необходимости, захватить указатель с помощью функций захвата указателя.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -109,7 +109,7 @@ ms.locfileid: "119829574"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

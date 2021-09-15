@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: f61af2a4b099172c739f114030a98932a0c5f588c91ec5482501ac918689e93b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 11577e6151d2353477a70e6ef2873d287eb71a87
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119485834"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569658"
 ---
 # <a name="texture3dsamplesfloatintfloat-function"></a>Функция Texture3D:: Sample (S, float, int, float)
 
@@ -100,7 +100,7 @@ DXGI_FORMAT Sample(
 
 Формат текстуры, который является одним из типизированных значений, перечисленных в [**\_ формате DXGI**](/windows/desktop/api/dxgiformat/ne-dxgiformat-dxgi_format).
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

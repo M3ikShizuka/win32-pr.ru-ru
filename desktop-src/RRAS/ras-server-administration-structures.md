@@ -4,12 +4,12 @@ description: для Windows NT 4,0 используйте следующие с�
 ms.assetid: b04bef8c-a83e-4c6e-849e-feeca99699e8
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a1f290769760eecd7bc08785a96c868b8c9fb46857ce0fd01c06f156bf14656a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3b7e3337a1126d8a485b4880452be60d7304ea1d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117789271"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470099"
 ---
 # <a name="ras-server-administration-structures"></a>Структуры администрирования сервера RAS
 

@@ -3,9 +3,9 @@ title: Ивмпкдромбурн доступный метод
 description: Метод Available предоставляет сведения о дисководе компакт-дисков и носителях.
 ms.assetid: 75e81f5f-5839-4012-b0b9-e77b3ca6f35c
 keywords:
-- метод Available проигрыватель Windows Media Player
-- метод Available проигрыватель Windows Media Player, интерфейс Ивмпкдромбурн
-- Интерфейс Ивмпкдромбурн Windows Media Player, метод Available
+- проигрыватель Windows Media метода доступности
+- проигрыватель Windows Media метода доступности, интерфейс ивмпкдромбурн
+- проигрыватель Windows Media интерфейса ивмпкдромбурн, метод available
 topic_type:
 - apiref
 api_name:
@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: f3d604cb9d9e170a3837fbd477db4c7ff309e1df
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105717980"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569015"
 ---
 # <a name="iwmpcdromburnisavailable-method"></a>Метод Ивмпкдромбурн:: Available
 
@@ -83,7 +83,7 @@ Implements IWMPCdromBurn.isAvailable
 
 | Требование | Значение |
 |----------------------|------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/>   | Проигрыватель Windows Media 11.<br/>                                                                                    |
+| Версия<br/>   | проигрыватель Windows Media 11.<br/>                                                                                    |
 | Пространство имен<br/> | **вмплиб**<br/>                                                                                                  |
 | Сборка<br/>  | <dl> <dt>Interop.WMPLib.dll (Interop.WMPLib.dll.dll)</dt> </dl> |
 

@@ -4,12 +4,12 @@ description: Описание настройки запрашивающей ст
 ms.assetid: f6a23201-e221-4098-863f-71a81735d927
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a6709e68bf20d8f38d3685f66e45313083e70e46b1a8a0bb0675616bdb4e8bcb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b9b82debadc075b1fcc12dad06484c0fd3617874
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118086708"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568811"
 ---
 # <a name="configuring-the-eap-method-user-interface"></a>Настройка пользовательского интерфейса метода EAP
 

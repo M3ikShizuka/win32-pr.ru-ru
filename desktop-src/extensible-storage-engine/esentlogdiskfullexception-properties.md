@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55102099
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 5ce61b3e1339a608fd54d96381d98299f31731b6a08270361501fa8106d4a709
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1ad1ebb50988658ea67d4378d5c544218eeddf15
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119836764"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569615"
 ---
 # <a name="esentlogdiskfullexception-properties"></a>Свойства Есентлогдискфуллексцептион
 
@@ -49,7 +49,7 @@ ms.locfileid: "119836764"
 </tr>
 <tr class="even">
 <td><img src="../images/dn292128.protproperty(exchg.10).gif" title="Защищенное свойство" alt="Protected property" /></td>
-<td><a href="/dotnet/api/system.exception.hresult#System_Exception_HResult">HResult</a></td>
+<td><a href="/dotnet/api/system.exception.hresult#System_Exception_HResult">Состав</a></td>
 <td>(Наследуется от <a href="/dotnet/api/system.exception">Exception</a>.)</td>
 </tr>
 <tr class="odd">
@@ -85,7 +85,7 @@ ms.locfileid: "119836764"
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Есентлогдискфуллексцептион](./esentlogdiskfullexception-class.md)
 

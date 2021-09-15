@@ -14,12 +14,12 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 62635d09030875a4f17deefa1aec05432df5662369eb483894f1a8cef4bbaf5c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6cdb23c9f1a6130e2fe77061286e8a0657c3e2f5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118498222"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568786"
 ---
 # <a name="connections-element"></a>Connections, элемент
 
@@ -57,8 +57,8 @@ ms.locfileid: "118498222"
 | Элемент                                                                              | Тип   | Описание                                                                                                                                                                                |
 |--------------------------------------------------------------------------------------|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**Протокола**](baseeapconnectionpropertiesv1schema-eap-element.md)                       |        | Определяет элемент конфигурации EAP.<br/>                                                                                                                                       |
-| [**Соединен**](eapconnectionpropertiesv1schema-connection-connections-element.md) |        | Определяет каждый параметр конфигурации и связывает его с именем. Элемент [**Connection**](eapconnectionpropertiesv1schema-connection-connections-element.md) является необязательным.<br/> |
-| [**Название**](eapconnectionpropertiesv1schema-name-connection-element.md)              | строка | Захватывает имя определяемого соединения, помогая идентифицировать несколько соединений.<br/>                                                                     |
+| [**Соединение**](eapconnectionpropertiesv1schema-connection-connections-element.md) |        | Определяет каждый параметр конфигурации и связывает его с именем. Элемент [**Connection**](eapconnectionpropertiesv1schema-connection-connections-element.md) является необязательным.<br/> |
+| [**Безымян**](eapconnectionpropertiesv1schema-name-connection-element.md)              | строка | Захватывает имя определяемого соединения, помогая идентифицировать несколько соединений.<br/>                                                                     |
 
 
 

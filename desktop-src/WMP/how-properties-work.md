@@ -10,12 +10,12 @@ keywords:
 - Пример подключаемого модуля "Echo DSP", свойства
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7cdefea3fce39b70d20d2f100d36cc4aeb8770bd15cd5cd0bf0978cd08f2259f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8ad37b71ddc6a097dd43e1ac41147c571f81a67a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118339138"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469700"
 ---
 # <a name="how-properties-work"></a>Как работают свойства
 

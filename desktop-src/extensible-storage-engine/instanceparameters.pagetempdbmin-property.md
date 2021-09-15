@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 8a2b8ceddaa6aa333c7d55f1fc68a525f2190ef36be6372df85c3c4fa4648960
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 06825762485ad52743d585ce0fed86bd1739cd21
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119618034"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568743"
 ---
 # <a name="instanceparameterspagetempdbmin-property"></a>Инстанцепараметерс. Пажетемпдбмин, свойство
 

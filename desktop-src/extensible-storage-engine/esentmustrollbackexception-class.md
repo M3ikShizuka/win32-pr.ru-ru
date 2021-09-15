@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: aece0dec8dde563b88c16747d95898625bc6950c61af37d155b088d4205b323b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f7b5399db919b497579e25fae86de14003852fb8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119115374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569606"
 ---
 # <a name="esentmustrollbackexception-class"></a>Класс Есентмустроллбаккексцептион
 
@@ -70,7 +70,7 @@ public sealed class EsentMustRollbackException : EsentUsageException
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Элементы Есентмустроллбаккексцептион](./esentmustrollbackexception-members.md)
 

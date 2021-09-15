@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: baa02c3b6d207cbcc2bf487f51c0e96dc2f2dd98748edc81efb58ac957fac4ed
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d05ffb1eeff199297943e678783731a26a38092a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118937630"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470162"
 ---
 # <a name="gluquadricorientation-function"></a>Функция Глукуадрикориентатион
 
@@ -74,7 +74,7 @@ void WINAPI gluQuadricOrientation(
 
 Функция **глукуадрикориентатион** указывает, какой вид ориентации требуется для куадрикс, отображаемого с помощью **куадобжект**. Интерпретация наружной и обратной части зависит от прорисовки куадрик.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -88,7 +88,7 @@ void WINAPI gluQuadricOrientation(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

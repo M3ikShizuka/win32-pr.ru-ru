@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 48053a238806c223067742b62675f1c0b8bc5a53e8bdf05f78f3fc56520b8388
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a3db71fbc931f7bdb3e73c8d949a163607e66c31
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118299893"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569343"
 ---
 # <a name="d3dxcomputeimtfrompertexelsignal-function"></a>Функция D3DXComputeIMTFromPerTexelSignal
 

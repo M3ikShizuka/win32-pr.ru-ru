@@ -4,12 +4,12 @@ description: Сведения о распространенных структу
 ms.assetid: f6f3b909-1e89-47f8-853c-c0f3f2414817
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4740658f798eadee2a658df1a7f9f8fd44b386c4ac39b52bcf49e75887d2d719
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3b44a94aae1f18336dae8c11a1dc0217dc7c8d08
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118984334"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568814"
 ---
 # <a name="common-eaphost-api-structures"></a>Общие структуры API EAPHost
 

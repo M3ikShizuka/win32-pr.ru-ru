@@ -16,12 +16,12 @@ keywords:
 - предустановки в визуализациях, обзор пользователей
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1d78cb01fe5ee87857ea546fc8c225f9ca16217c642ebbee06025cb037d94fec
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8f0b8b389f07dc1a39c852f881a9c7d287176b73
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119134495"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569059"
 ---
 # <a name="user-overview"></a>Обзор пользователя
 

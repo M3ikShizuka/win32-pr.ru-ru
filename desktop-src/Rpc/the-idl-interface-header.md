@@ -5,11 +5,11 @@ ms.assetid: 667e5228-3ea7-4910-90b9-999e6fd705e9
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 8abce6204fdc09ed74a63a85e9366125dbef8e35
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104134515"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470038"
 ---
 # <a name="the-idl-interface-header"></a>Заголовок интерфейса IDL
 
@@ -34,6 +34,6 @@ interface INTERFACENAME
 
 Полное описание атрибутов заголовка IDL см. в [справочнике по языку MIDL](/windows/desktop/Midl/midl-language-reference).
 
- 
+ 
 
- 
+ 

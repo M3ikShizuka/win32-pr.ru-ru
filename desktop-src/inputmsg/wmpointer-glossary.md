@@ -6,11 +6,11 @@ ms.assetid: 15E35DCF-C6C1-446A-B09B-6428F9C8A633
 ms.topic: article
 ms.date: 02/03/2020
 ms.openlocfilehash: 9d804afb3db40bceee95281aec4884b343a72444
-ms.sourcegitcommit: f2fe9d9bd65333b74f2af8e30eddbb1643b40c8f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "105719093"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569474"
 ---
 # <a name="pointer-input-messages-and-notifications-glossary"></a>Глоссарии сообщений и уведомлений на входе указателя
 
@@ -39,9 +39,9 @@ ms.locfileid: "105719093"
 
 </dd> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

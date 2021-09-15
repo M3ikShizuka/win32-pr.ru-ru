@@ -15,11 +15,11 @@ api_location:
 - Ndisnpp.dll
 - Rmtnpp.dll
 ms.openlocfilehash: d0a07748781a567c889e879e2e99462d8cfb876a
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108110762"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470180"
 ---
 # <a name="iespdisconnect-method"></a>ИЕСП::D метода соединения
 
@@ -50,7 +50,7 @@ HRESULT STDMETHODCALLTYPE Disconnect();
 |------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | <dl> <dt>**НМЕРР \_ запись**</dt> </dl>      | НПП захватывает данные. Невозможно отключиться от сети, пока выполняется сбор данных.<br/> |
 | <dl> <dt>**НМЕРР \_ не \_ подключен**</dt> </dl> | НПП не подключен к сети.<br/>                                                             |
-| <dl> <dt>**НМЕРР \_ не \_ ESP**</dt> </dl>       | НПП подключается к сети, но не с методом [ИЕСП:: Connect](iesp-connect.md) .<br/>       |
+| <dl> <dt>**НМЕРР \_ не \_ ESP**</dt> </dl>       | нпп подключается к сети, но не с помощью метода [иесп:: Подключение](iesp-connect.md) .<br/>       |
 
 
 
@@ -73,14 +73,14 @@ HRESULT STDMETHODCALLTYPE Disconnect();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
 [иесп](iesp.md)
 </dt> <dt>
 
-[ИЕСП:: Connect](iesp-connect.md)
+[иесп:: Подключение](iesp-connect.md)
 </dt> <dt>
 
 [ИЕСП:: останавливаться](iesp-stop.md)

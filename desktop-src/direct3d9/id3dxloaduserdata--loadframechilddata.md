@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 3dcb9fa8218804b0d6fdb5532dd54bc2b2b4a3921ea4462692a36e671efb404d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 53bde98f0e756fd1baff4c509179f15e8489e74f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118802184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568954"
 ---
 # <a name="id3dxloaduserdataloadframechilddata-method"></a>Метод ID3DXLoadUserData:: Лоадфрамечилддата
 

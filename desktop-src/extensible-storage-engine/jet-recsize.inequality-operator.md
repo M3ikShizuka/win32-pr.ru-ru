@@ -25,12 +25,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 2a0e6cbaa23a98da9652f3e260c57d919927c1575263dc9eb398beee02323be6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 724009d5f4e816a5613b2fb6344b0a5388dea819
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119107470"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569562"
 ---
 # <a name="jet_recsizeinequality-operator"></a>JET_RECSIZE. Оператор неравенства
 
@@ -83,7 +83,7 @@ public static bool operator !=(
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Структура JET_RECSIZE](./jet-recsize-structure2.md)
 

@@ -11,12 +11,12 @@ api_name:
 - IgnorePassword
 api_type:
 - Schema
-ms.openlocfilehash: 683fafb763e3f8613afa1b8dca99020856d67a03fdb44e993adf032ce166ceab
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 40211a8f848d8d0551ed39297178bc985d9efba4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118975173"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568678"
 ---
 # <a name="ignorepassword-userlogoncred-element"></a>Игнорепассворд (Усерлогонкред), элемент
 
@@ -34,7 +34,7 @@ ms.locfileid: "118975173"
 
 Элемент **игнорепассворд** определяется элементом [**усерлогонкред**](schema-userlogoncred-contexttype-element.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -45,7 +45,7 @@ ms.locfileid: "118975173"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

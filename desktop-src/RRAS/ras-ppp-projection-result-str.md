@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6ce1bb82b34490f8a1f3734225cbde1e761c575a2019a30db7790bfc7fa3c169
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6a9aa3aef828249b5c72f9e7cdd1bd3b69c96832
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117789588"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470101"
 ---
 # <a name="ras_ppp_projection_result-structure"></a>\_ \_ Структура результата проекции PPP для RAS \_
 
@@ -41,7 +41,7 @@ typedef struct _RAS_PPP_PROJECTION_RESULT {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -86,7 +86,7 @@ typedef struct _RAS_PPP_PROJECTION_RESULT {
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                           |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                 |
 | Окончание поддержки клиента<br/>    | Windows XP<br/>                                                                |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                       |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                       |
 | Заголовок<br/>                   | <dl> <dt>Рассапи. h</dt> </dl> |
 
 

@@ -3,7 +3,7 @@ title: Событие Кдромрипстатечанже объекта Акс
 description: Событие Кдромрипстатечанже возникает при изменении состояния операции копирования компакт-диска.
 ms.assetid: 0a0bd11f-a685-4c4e-8704-8eabe80d6f86
 keywords:
-- Событие Кдромрипстатечанже в проигрывателе Windows Media объекта Аксвиндовсмедиаплайер
+- событие кдромрипстатечанже объекта аксвиндовсмедиаплайер проигрыватель Windows Media
 topic_type:
 - apiref
 api_name:
@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 20fae9eb1fa6d5f65876e3f6758a7594f0bdbb19
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105694383"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469728"
 ---
 # <a name="cdromripstatechange-event-of-the-axwindowsmediaplayer-object"></a>Событие Кдромрипстатечанже объекта Аксвиндовсмедиаплайер
 
@@ -45,7 +45,7 @@ Private Sub player_CdromRipStateChange(
 
 
 
-| Свойство  | Описание                                                                                              |
+| Свойство.  | Описание                                                                                              |
 |-----------|----------------------------------------------------------------------------------------------------------|
 | пкдромрип | Интерфейс Вмплиб. Ивмпкдромрипсе, представляющий операцию копирования, вызвавшую ошибку.<br/> |
 | вмпрс     | Значение перечисления Вмплиб. Вмприпстатесе, указывающее новое состояние.<br/>                         |
@@ -60,7 +60,7 @@ Private Sub player_CdromRipStateChange(
 
 | Требование | Значение |
 |----------------------|----------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/>   | Проигрыватель Windows Media 11<br/>                                                                                         |
+| Версия<br/>   | проигрыватель Windows Media 11<br/>                                                                                         |
 | Пространство имен<br/> | **аксвмплиб**<br/>                                                                                                    |
 | Сборка<br/>  | <dl> <dt>AxInterop.WMPLib.dll (AxInterop.WMPLib.dll.dll)</dt> </dl> |
 

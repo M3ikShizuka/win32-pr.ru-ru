@@ -20,12 +20,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 90eb971716a90cc9e35d996f176835b525d74b69c755183b51e46792e2a4eeef
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7176fa1c78b9910b68d0b3c9e7ce4f7e46519020
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118084659"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568766"
 ---
 # <a name="apiretrievecolumnasdatetime-method-jet_sesid-jet_tableid-jet_columnid"></a>Метод API. Ретриевеколумнасдатетиме (JET_SESID, JET_TABLEID, JET_COLUMNID)
 

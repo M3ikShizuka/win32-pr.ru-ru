@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 14aaa40c1e97eb9b17981990eff99061237a10d9296a4822d418bdb053ca5be5
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3e575907521ba4939ccf25334fc0c60b7eb15d1c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119945384"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569807"
 ---
 # <a name="jet_rstmaptostring-method"></a>JET_RSTMAP. Метод ToString
 
@@ -59,7 +59,7 @@ public override string ToString()
 Тип: [System. String](/dotnet/api/system.string)  
 [Строка](/dotnet/api/system.string) , представляющая текущий [JET_RSTMAP](./jet-rstmap-class.md).  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

@@ -3,24 +3,24 @@ title: Получение сведений о состоянии
 description: Получение сведений о состоянии
 ms.assetid: 61561520-705a-4d06-a72c-c1cc6315f54e
 keywords:
-- Интернет-магазины проигрывателя Windows Media, диспетчер загрузки
+- проигрыватель Windows Media интернет-магазинов, диспетчер загрузки
 - Интернет-магазины, диспетчер загрузки
 - Тип 2 Интернет-магазинов, диспетчер загрузки
-- Интернет-магазины проигрывателя Windows Media, получение состояния
+- проигрыватель Windows Media интернет-магазинов, получение состояния
 - Интернет-магазины, получение состояния
 - Тип 2 Интернет-магазинов, получение состояния
-- Проигрыватель Windows Media, диспетчер загрузки
-- Диспетчер загрузки проигрывателя Windows Media
+- проигрыватель Windows Media, диспетчер загрузки
+- проигрыватель Windows Media Диспетчер загрузки
 - Диспетчер загрузки
 - получение состояния
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 155d1c9d949306ae5cda3ffff6a7a55fd3bae23c
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103778257"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469651"
 ---
 # <a name="retrieving-status-information"></a>Получение сведений о состоянии
 
@@ -65,16 +65,16 @@ switch(g_oCurrentDLItem.downloadState)
 
 Наконец, сведения о состоянии отображаются в элементе DIV с именем длстате.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
 [**Использование диспетчера загрузки**](using-the-download-manager.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

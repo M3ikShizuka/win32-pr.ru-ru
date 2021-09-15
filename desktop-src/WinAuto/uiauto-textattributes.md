@@ -11,12 +11,12 @@ keywords:
 - Модель автоматизации пользовательского интерфейса, список атрибутов текста
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 875cad20285cf38c06ab3363be5bc9aee641c2ce42ae4caff5b091cf1a79c63a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7f8ae2d51a222e3833d0dd95fa6c048114a370a6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118824626"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569698"
 ---
 # <a name="ui-automation-text-attributes"></a>Атрибуты текста модели автоматизации пользовательского интерфейса
 
@@ -219,7 +219,7 @@ ms.locfileid: "118824626"
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Сведения о шаблонах элементов автоматизации пользовательского интерфейса Text и TextRange](uiauto-about-text-and-textrange-patterns.md)

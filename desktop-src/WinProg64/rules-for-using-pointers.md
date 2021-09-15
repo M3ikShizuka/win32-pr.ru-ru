@@ -8,12 +8,12 @@ keywords:
 - программирование приведения указателей 64-bit Windows
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 56125c290f87747251473bde6e845e97a9e9e6c3d7b6be2d3c6bb144d7199c7a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 318ff5beed6dc90bd49b6b293131e17db6f92f6b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117927984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469589"
 ---
 # <a name="rules-for-using-pointers"></a>Правила использования указателей
 

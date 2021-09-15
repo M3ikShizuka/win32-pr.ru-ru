@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1cd3ecbd249f9731993c541dcee33f81142e042185ca4bba0325af942fd42394
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 55205e684d055d20c8e8f218ba58716de8472916
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117930644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569010"
 ---
 # <a name="iwmpcdromburnrefreshstatus-method"></a>Метод Ивмпкдромбурн:: Рефрешстатус
 
@@ -71,7 +71,7 @@ Implements IWMPCdromBurn.refreshStatus
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

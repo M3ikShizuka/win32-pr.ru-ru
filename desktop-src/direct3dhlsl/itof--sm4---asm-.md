@@ -4,12 +4,12 @@ description: Преобразование целого числа со знак�
 ms.assetid: 60652168-25FA-4084-8CC1-73F12984ECED
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f473b5cc9664ee1c9acab88381bc9de6a5b4897fac3899923c6bb20c22bba7fa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1f9d262f65801cd2caa0e6432b335ce32fff0d4e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118986484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569894"
 ---
 # <a name="itof-sm4---asm"></a>итоф (SM4-ASM)
 

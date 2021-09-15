@@ -14,12 +14,12 @@ api_type:
 - Assembly
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 55dac05b3ca8a8675bfae431d3f2e8ffbb38db8701a2501fa80d282cd3c976ec
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 35385541f6bc91b6935f148fd8ae28df6a415f3d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119055015"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469730"
 ---
 # <a name="cdrommediachange-event-of-the-axwindowsmediaplayer-object"></a>Событие Кдроммедиачанже объекта Аксвиндовсмедиаплайер
 
@@ -45,7 +45,7 @@ Private Sub player_CdromMediaChange(
 
 
 
-| Свойство | Описание                                                        |
+| Свойство. | Описание                                                        |
 |----------|--------------------------------------------------------------------|
 | кдромнум | System. Int32Specifies. индекс компакт-диска или DVD-дисковода.<br/> |
 
@@ -57,7 +57,7 @@ Private Sub player_CdromMediaChange(
 
 Индекс дисковода компакт-дисков соответствует индексу интерфейса Ивмпкдром, доступного через интерфейс Ивмпкдромколлектион.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -69,7 +69,7 @@ Private Sub player_CdromMediaChange(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

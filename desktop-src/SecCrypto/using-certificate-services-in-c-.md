@@ -4,12 +4,12 @@ ms.assetid: cfe02086-87ff-40cb-9116-694158e9ae1f
 title: Использование служб сертификатов в C++
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1571635ed807001cc9088337fc34626817c2e3fa670f382c5f0c6877fb025acc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4b4681e230ee68a8fe987e1e594524b3d4ebd037
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118896848"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127471130"
 ---
 # <a name="using-certificate-services-in-c"></a>Использование служб сертификатов в C++
 
@@ -17,7 +17,7 @@ ms.locfileid: "118896848"
 
 
 
-| Section                                           | Content                                                          |
+| Section                                           | Содержимое                                                          |
 |---------------------------------------------------|------------------------------------------------------------------|
 | [Возвращаемые значения в C++](return-values-in-c-.md)   | Работа с возвращаемыми значениями C++ из методов служб сертификации |
 | [Проверка ошибок в C++](error-checking-in-c-.md) | Получение сведений об ошибке в C++                              |

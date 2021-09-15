@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Константы ошибок WMI (Вбемкли. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 679fd0cb9714e2ee202b12195b10e72778564d7549ed4731d905603a11e073db
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e95db7220bdc9669716dbe19f5bf2f4e139dfe5c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119794314"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569694"
 ---
 # <a name="wmi-error-constants"></a>Константы ошибок WMI
 
@@ -2368,7 +2368,7 @@ COM не может найти поставщика, на которого сс�
 
 
 
-Недопустимый синтаксис квалификатора. Оно должно иметь значение `qualifiername:type=value,scope(class|instance), flavorname`.
+Недопустимый синтаксис квалификатора. Вместо этого она должна иметь вид `qualifiername:type=value,scope(class|instance), flavorname`.
 
 
 </dt> </dl> </dd> <dt>
@@ -2425,7 +2425,7 @@ COM не может найти поставщика, на которого сс�
 
 </dt> </dl> </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -2438,7 +2438,7 @@ COM не может найти поставщика, на которого сс�
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: Microsoft Active Accessibility не поддерживает ста
 ms.assetid: 3c6a46e2-fa21-4d78-adab-6db331af0513
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 66da31732758ab9256ac81dcee3ec5501bfab2d6f2811a9354d61e496ac5e8fd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 83e005275bf0acbd5d8648242427eb8529267a63
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118563893"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469595"
 ---
 # <a name="unsupported-user-interface-elements"></a>Неподдерживаемые элементы пользовательского интерфейса
 
@@ -34,7 +34,7 @@ Microsoft Active Accessibility не поддерживает стандартн�
 | Имя класса окна | Описание                                                 |
 |-------------------|-------------------------------------------------------------|
 | ддемлевент        | Windows NT: класс для событий ддемл                      |
-| Message           | Windows 2000 и более поздних версий: класс для окна только для сообщений |
+| Сообщение           | Windows 2000 и более поздних версий: класс для окна только для сообщений |
 | \#32772           | Windows NT: класс для названий значков                       |
 
 

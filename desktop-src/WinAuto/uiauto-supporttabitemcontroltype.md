@@ -22,11 +22,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: f82b96f5ae64b4cb22d650d6d349f18cb68619d5
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122469111"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569703"
 ---
 # <a name="tabitem-control-type"></a>Тип элемента управления TabItem
 
@@ -53,7 +53,7 @@ ms.locfileid: "122469111"
 
 | Представление элемента управления | Представление содержимого | 
 |--------------|--------------|
-| <ul><li>TabItem<ul><li>Image (0 или 1)</li><li>текст</li><li>Панель<ul><li>Различные элементы управления (0 или более)</li></ul></li></ul></li></ul> | <ul><li>TabItem<ul><li>Панель<ul><li>Различные элементы управления (0 или более)</li></ul></li></ul></li></ul> | 
+| <ul><li>TabItem<ul><li>Image (0 или 1)</li><li>Текст</li><li>Панель<ul><li>Различные элементы управления (0 или более)</li></ul></li></ul></li></ul> | <ul><li>TabItem<ul><li>Панель<ul><li>Различные элементы управления (0 или более)</li></ul></li></ul></li></ul> | 
 
 
 
@@ -123,7 +123,7 @@ ms.locfileid: "122469111"
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Общие сведения о типах элементов управления автоматизации пользовательского интерфейса](uiauto-controltypesoverview.md)

@@ -15,11 +15,11 @@ api_location:
 - Ndisnpp.dll
 - Rmtnpp.dll
 ms.openlocfilehash: 486c7aedc7092e0dd0f9f68cc1ea2ccad08d9438
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108084242"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470182"
 ---
 # <a name="iesppause-method"></a>ИЕСП: метод:P Аусе
 
@@ -59,8 +59,8 @@ HRESULT STDMETHODCALLTYPE Pause(
 |-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | <dl> <dt>**\_запись нмерр \_ приостановлена**</dt> </dl> | Запись уже приостановлена.<br/>                                                                                     |
 | <dl> <dt>**НМЕРР \_ не \_ захватывается**</dt> </dl>  | НПП не захватывает данные. Вызовите [ИЕСП:: Start](iesp-start.md) , чтобы начать запись.<br/>                            |
-| <dl> <dt>**НМЕРР \_ не \_ подключен**</dt> </dl>  | НПП не подключен к сети. Вызовите [ИЕСП:: Connect](iesp-connect.md) , чтобы подключить НПП к сети.<br/> |
-| <dl> <dt>**НМЕРР \_ не \_ ESP**</dt> </dl>        | НПП подключается к сети, но не с методом [ИЕСП:: Connect](iesp-connect.md) .<br/>                     |
+| <dl> <dt>**НМЕРР \_ не \_ подключен**</dt> </dl>  | НПП не подключен к сети. вызовите [иесп:: Подключение](iesp-connect.md) , чтобы подключить нпп к сети.<br/> |
+| <dl> <dt>**НМЕРР \_ не \_ ESP**</dt> </dl>        | нпп подключается к сети, но не с помощью метода [иесп:: Подключение](iesp-connect.md) .<br/>                     |
 
 
 
@@ -87,14 +87,14 @@ HRESULT STDMETHODCALLTYPE Pause(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
 [иесп](iesp.md)
 </dt> <dt>
 
-[ИЕСП:: Connect](iesp-connect.md)
+[иесп:: Подключение](iesp-connect.md)
 </dt> <dt>
 
 [ИЕСП:: Resume](iesp-resume.md)

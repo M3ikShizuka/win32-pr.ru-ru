@@ -4,12 +4,12 @@ ms.assetid: 0cccdf45-452e-4db8-aa14-b6bf132c9165
 title: средства, рекомендации и рекомендации (Windows 7 и Windows Server 2008 R2 Application Quality Cookbook)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9f604d658cc76f736080443d3fb683886024162da5028280ae283863e22b0838
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 78e379c70ca58032d9f55b7be8ad8aa91baa2e60
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119645704"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569738"
 ---
 # <a name="tools-best-practices-and-guidance"></a>Средства, рекомендации и рекомендации
 

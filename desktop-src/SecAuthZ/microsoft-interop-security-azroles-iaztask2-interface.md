@@ -88,11 +88,11 @@ api_type:
 api_location:
 - Microsoft.Interop.Security.Azroles.dll
 ms.openlocfilehash: a13e99981ca10b73eeda0f6e85ea5a012cae2757
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105651752"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470007"
 ---
 # <a name="microsoftinteropsecurityazrolesiaztask2-interface"></a>Интерфейс Microsoft. Interop. Security. Азролес. IAzTask2
 
@@ -128,13 +128,13 @@ ms.locfileid: "105651752"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Интерфейс **Microsoft. Interop. Security. азролес. IAzTask2** имеет следующие свойства.
 
 
 
-| Свойство                                                                       | Тип доступа           | Описание                                                                               |
+| Свойство.                                                                       | Тип доступа           | Описание                                                                               |
 |:-------------------------------------------------------------------------------|:----------------------|:------------------------------------------------------------------------------------------|
 | **Microsoft. Interop. Security. Азролес. IAzTask2. ApplicationData**<br/>     | Чтение/запись<br/> | [**Свойство ApplicationData объекта Иазтаск**](/windows/desktop/api/Azroles/nf-azroles-iaztask-get_applicationdata)<br/>         |
 | **Microsoft. Interop. Security. Азролес. IAzTask2. Бизруле**<br/>             | Чтение/запись<br/> | [**Свойство Бизруле объекта Иазтаск**](/windows/desktop/api/Azroles/nf-azroles-iaztask-get_bizrule)<br/>                         |

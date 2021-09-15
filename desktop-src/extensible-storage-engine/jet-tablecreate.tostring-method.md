@@ -25,11 +25,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: ec9d8621b13f05323f4b3661f4f18eb93c1431ee
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104143546"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569558"
 ---
 # <a name="jet_tablecreatetostring-method"></a>JET_TABLECREATE. Метод ToString
 
@@ -61,7 +61,7 @@ public override string ToString()
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс JET_TABLECREATE](./jet-tablecreate-class.md)
 

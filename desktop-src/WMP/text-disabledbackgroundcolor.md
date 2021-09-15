@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0d354b054488c0a966cab17035693ff5c00f5c33131140041be38212ce567274
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ca4a45f74165b5cd003be8146be77d1a872c6b3e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118831799"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569763"
 ---
 # <a name="textdisabledbackgroundcolor"></a>TEXT. Дисабледбаккграундколор
 
@@ -31,7 +31,7 @@ ms.locfileid: "118831799"
 
 Этот атрибут является **строкой** для чтения и записи, содержащей любое значение цвета Microsoft Internet Explorer.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Если **дисабледбаккграундколор** не указан, используется **backgroundColor** .
 

@@ -5,12 +5,12 @@ title: Windows Сообщения об ошибках установщика (д
 ms.topic: article
 ms.date: 09/11/2020
 ms.custom: contperf-fy21q1
-ms.openlocfilehash: 70ed32e48e467c97d82013689b39ef9245d2df74c59de1abed66e69fe52cf11c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f825dd6ad3fff7e7745d5d4acb4e858a5d0b5e38
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119808844"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470342"
 ---
 # <a name="windows-installer-error-messages-for-developers"></a>Windows Сообщения об ошибках установщика (для разработчиков)
 
@@ -22,7 +22,7 @@ ms.locfileid: "119808844"
 Разработчики пакетов установки также могут проверить внутреннюю согласованность их пакетов, используя внутренние средства оценки согласованности. Дополнительные сведения см. в разделе [оценщики внутренней согласованности — ICEs](internal-consistency-evaluators-ices.md).
 
 
-| Код сообщения    | Message     | Remarks    |
+| Код сообщения    | Сообщение     | Remarks    |
 |-----------------|-------------|------------|
 | 1101<br/> | Не удалось открыть файловый поток: \[ 2 \] . Системная ошибка: \[ 3\]<br/>                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | 1301<br/> | Не удается создать файл " \[ 2 \] ". Каталог с таким именем уже существует.<br/>                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |

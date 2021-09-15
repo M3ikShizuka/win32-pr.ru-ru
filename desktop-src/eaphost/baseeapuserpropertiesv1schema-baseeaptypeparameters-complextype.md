@@ -14,12 +14,12 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 1425e25ac0d426903239ff39e2a36b6dd59bd9753ff95ad533cfd38cf9468bc6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 076e409a75202f0dd727ced0481dd3d66212eaa5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118086752"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568850"
 ---
 # <a name="baseeaptypeparameters-complex-type---user-properties"></a>Сложный тип Басиаптипепараметерс — свойства пользователя
 

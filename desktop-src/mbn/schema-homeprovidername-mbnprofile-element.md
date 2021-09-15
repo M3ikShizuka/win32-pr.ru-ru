@@ -11,12 +11,12 @@ api_name:
 - HomeProviderName
 api_type:
 - Schema
-ms.openlocfilehash: 1868be18dc7acf9d5146f987658feb006714fbcc3db35883007afd01c308609e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3d0af51e4873915838f2d55f683d07e9098aad3f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119035832"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568679"
 ---
 # <a name="homeprovidername-mbnprofile-element"></a>Хомепровидернаме (Мбнпрофиле), элемент
 
@@ -32,7 +32,7 @@ ms.locfileid: "119035832"
 
 Элемент **хомепровидернаме** определяется элементом [**мбнпрофиле**](schema-mbnprofile-element.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ ms.locfileid: "119035832"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

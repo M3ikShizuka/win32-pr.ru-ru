@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3d9types.h
-ms.openlocfilehash: 94027dac3956376e32ad10cf7c1b600d9c65f3918e2781ab9da96d4d3891f43b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 21864dcc41ce86f139361af4357810137acf7f06
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117879729"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569454"
 ---
 # <a name="d3dencrypted_block_info-structure"></a>\_ \_ Структура сведений о БЛОКе D3DENCRYPTED
 
@@ -37,7 +37,7 @@ typedef struct _D3DENCRYPTED_BLOCK_INFO {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -62,7 +62,7 @@ typedef struct _D3DENCRYPTED_BLOCK_INFO {
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -74,7 +74,7 @@ typedef struct _D3DENCRYPTED_BLOCK_INFO {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

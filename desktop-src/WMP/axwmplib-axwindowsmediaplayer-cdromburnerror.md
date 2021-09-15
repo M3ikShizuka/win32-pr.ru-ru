@@ -14,12 +14,12 @@ api_type:
 - Assembly
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 37ea2ca4c510685e8a9d23a3fdc507e055f30c8916c7bf8bbbfbb30a5c4591b8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7c27969ea83089b225ba92eb93854fc1dcde9bde
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119864744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469733"
 ---
 # <a name="cdromburnerror-event-of-the-axwindowsmediaplayer-object"></a>Событие Кдромбурнеррор объекта Аксвиндовсмедиаплайер
 
@@ -45,7 +45,7 @@ Private Sub player_CdromBurnError(
 
 
 
-| Свойство   | Описание                                                                                               |
+| Свойство.   | Описание                                                                                               |
 |------------|-----------------------------------------------------------------------------------------------------------|
 | хреррор    | **System. Int32** Ошибка, вызвавшая событие.<br/>                                               |
 | пкдромбурн | Интерфейс Вмплиб. Ивмпкдромбурнсе, представляющий операцию записи, вызвавшую ошибку.<br/> |
@@ -58,7 +58,7 @@ Private Sub player_CdromBurnError(
 
 Для записи ошибок, связанных с носителями, необходимо выполнить обработку Аксвмплиб. \_ \_Событие вмпокксевентс кдромбурнмедиаеррор.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -70,7 +70,7 @@ Private Sub player_CdromBurnError(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

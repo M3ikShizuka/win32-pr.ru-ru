@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: article
 ms.date: 02/03/2020
-ms.openlocfilehash: 6f1cf786af00175f75b5faee11b384aa31618d89427826f9c1454006df461f0b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 09ef5fd6f3b7378a963be4278f1fabdf0f6ab351
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120062424"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569078"
 ---
 # <a name="wm_ncpointerupdate-message"></a>Сообщение WM_NCPOINTERUPDATE
 

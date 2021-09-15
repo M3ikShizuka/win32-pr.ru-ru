@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: article
 ms.date: 02/03/2020
-ms.openlocfilehash: 5bf811501d189abef127e2b191e159518654650bf569cd2abdad42d7471eb1d7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f6c23b810b7ec5a7f60ae7e52ddbb5b535ab0503
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118756802"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569483"
 ---
 # <a name="wm_pointerup-message"></a>Сообщение WM_POINTERUP
 
@@ -96,7 +96,7 @@ ms.locfileid: "118756802"
 
 Если приложение не обрабатывает это сообщение, оно должно вызывать [**дефвиндовпрок**](/windows/win32/api/winuser/nf-winuser-defwindowproca).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 > \[! Существенно\]  
 > Когда окно теряет указатель и получает уведомление [**WM_POINTERCAPTURECHANGED**](wm-pointercapturechanged.md) , он обычно не будет получать дальнейшие уведомления. По этой причине важно не делать никаких предположений на основе равномерно связанных [**WM_POINTERDOWN**](wm-pointerdown.md) / **WM_POINTERUP** или [**WM_POINTERENTER**](wm-pointerenter.md) / уведомлений [**WM_POINTERLEAVE**](wm-pointerleave.md) .
@@ -247,7 +247,7 @@ default:
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                                               |
 | Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                                     |
-| Header<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 
@@ -258,7 +258,7 @@ default:
 [Сообщения](messages.md)
 </dt> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**Флаги указателя**](pointer-flags-contants.md)

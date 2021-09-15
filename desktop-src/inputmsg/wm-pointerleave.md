@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: article
 ms.date: 02/03/2020
-ms.openlocfilehash: 519e354aa43cf31d0a2477aec2f50a1405b7c4a254f2641497229c14f55d4679
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2ee58fd74f266d067f6211e156d984a3b3d1c477
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119964234"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569495"
 ---
 # <a name="wm_pointerleave-message"></a>Сообщение WM_POINTERLEAVE
 
@@ -77,7 +77,7 @@ ms.locfileid: "119964234"
 
 Если приложение не обрабатывает это сообщение, оно должно вызывать [**дефвиндовпрок**](/windows/win32/api/winuser/nf-winuser-defwindowproca).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Уведомление **WM_POINTERLEAVE** может быть использовано окном для изменения режима или для отмены любой обратной связи с пользователем, когда указатель находится над областью окна.
 
@@ -88,7 +88,7 @@ ms.locfileid: "119964234"
 | Действие                                        | Набор флагов                                                         | Уведомления, отправленные в                                |
 |-----------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------|
 | Указатель мыши пересекает границы окна. | [**IS_POINTER_INRANGE_WPARAM**](/previous-versions/windows/desktop/api) | Окно за пределами, границу которой переместил указатель.  |
-| Указатель выходит за пределы диапазона обнаружения.        | н/д                                                               | Окно, для которого указатель покидает диапазон обнаружения. |
+| Указатель выходит за пределы диапазона обнаружения.        | Недоступно                                                               | Окно, для которого указатель покидает диапазон обнаружения. |
 
 
 
@@ -122,7 +122,7 @@ ms.locfileid: "119964234"
 [Сообщения](messages.md)
 </dt> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**GET_POINTERID_WPARAM**](/previous-versions/windows/desktop/api)

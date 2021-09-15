@@ -9,12 +9,12 @@ keywords:
 - реестр, тип 2 Интернет-магазинов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c01a5494f56a4c3fa7ea91d9537f6177453a1df54f684aa73c347029574f8dde
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 685a26514730e7c370c698cbc9c64c29366c35ee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117746455"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469671"
 ---
 # <a name="registry-keys-and-entries-for-a-type-2-online-store"></a>Разделы реестра и записи для Интернет-магазина типа 2
 

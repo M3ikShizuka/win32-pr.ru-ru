@@ -6,11 +6,11 @@ title: Ошибки с 1071 по 1080
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 8bf2171306d1a8c97c7d343a32be62f69bdaa3cb
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122887171"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469576"
 ---
 # <a name="errors-1071-through-1080"></a>Ошибки с 1071 по 1080
 

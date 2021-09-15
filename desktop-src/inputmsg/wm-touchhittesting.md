@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: article
 ms.date: 02/03/2020
-ms.openlocfilehash: 895c535330674767683d0155bd2e22b8a40389c08378187377497380d71d97b5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 83b6e564d692fb0223ec8871b99cefcb9fddf40b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119829494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569478"
 ---
 # <a name="wm_touchhittesting-message"></a>Сообщение WM_TOUCHHITTESTING
 
@@ -63,7 +63,7 @@ ms.locfileid: "119829494"
 
 Если приложение не обрабатывает это сообщение, оно должно вызвать [**дефвиндовпрок**](/windows/win32/api/winuser/nf-winuser-defwindowproca).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это сообщение отправляется в Windows, которые регистрируются с помощью функции [**регистертаучхиттестингвиндов**](/windows/win32/api/winuser/nf-winuser-registertouchhittestingwindow) .
 

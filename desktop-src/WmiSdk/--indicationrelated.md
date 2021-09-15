@@ -15,11 +15,11 @@ api_type:
 api_location:
 - All
 ms.openlocfilehash: e349f14527d4ee40ea0eaffcd853f434850f9e32
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105712777"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570038"
 ---
 # <a name="__indicationrelated-class"></a>\_\_Класс Индикатионрелатед
 
@@ -36,11 +36,11 @@ class __IndicationRelated : __SystemClass
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ \_ индикатионрелатед** не определяет никаких членов.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Класс **\_ \_ индикатионрелатед** является производным от [**\_ \_ системкласс**](--systemclass.md), у которого нет свойств.
 

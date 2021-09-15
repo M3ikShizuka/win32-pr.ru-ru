@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Pdh.dll
-ms.openlocfilehash: b831cb1d7e487435dfc22b22a407c169b70fd4aa2df788e74bcc219c77a0d162
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 67f0372a26649fbe781cf4d9bd25794b82d6346e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120033714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470119"
 ---
 # <a name="pdhvbgetdoublecountervalue-function"></a>Функция Пдхвбжетдаублекаунтервалуе
 
@@ -51,7 +51,7 @@ Function Пдхвбжетдаублекаунтервалуе ( \_ ByVal Кау�
 
 Функция возвращает значение текущего счетчика с плавающей запятой двойной точности, вычисленное и отформатированное как определенное типом счетчика.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -64,7 +64,7 @@ Function Пдхвбжетдаублекаунтервалуе ( \_ ByVal Кау�
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

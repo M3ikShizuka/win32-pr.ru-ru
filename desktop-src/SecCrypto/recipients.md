@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Capicom.dll
 ms.openlocfilehash: e0f0f6474c6ed8883eb591591eff387fe387f7d6
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108103742"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469836"
 ---
 # <a name="recipients-object"></a>Объект Recipients
 
@@ -51,23 +51,23 @@ ms.locfileid: "108103742"
 | Метод                              | Описание                                                                            |
 |:------------------------------------|:---------------------------------------------------------------------------------------|
 | [**Включить**](recipients-add.md)       | Добавляет объект [**сертификата**](certificate.md) в коллекцию.<br/>         |
-| [**Очистить**](recipients-clear.md)   | Удаляет все объекты [**сертификата**](certificate.md) из коллекции.<br/> |
+| [**Открытым**](recipients-clear.md)   | Удаляет все объекты [**сертификата**](certificate.md) из коллекции.<br/> |
 | [**Удалить**](recipients-remove.md) | Удаляет объект [**сертификата**](certificate.md) из коллекции.<br/>    |
 
 
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Объект **Recipients** имеет следующие свойства.
 
 
 
-| Свойство                                           | Тип доступа          | Описание                                                                                                                                                                                                                     |
+| Свойство.                                           | Тип доступа          | Описание                                                                                                                                                                                                                     |
 |:---------------------------------------------------|:---------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**\_NewEnum**](recipients-newenum.md)<br/> | Только для чтения<br/> | Извлекает интерфейс [**IEnumVARIANT**](/windows/win32/api/oaidl/nn-oaidl-ienumvariant) для объекта, который может быть использован для перечисления коллекции. Это свойство скрыто в Visual Basic Scripting Edition (VBScript).<br/> |
-| [**Расчета**](recipients-count.md)<br/>       |                      | Число объектов в коллекции **получателей** .<br/>                                                                                                                                                              |
+| [**\_NewEnum**](recipients-newenum.md)<br/> | Только для чтения<br/> | Извлекает интерфейс [**IEnumVARIANT**](/windows/win32/api/oaidl/nn-oaidl-ienumvariant) для объекта, который может быть использован для перечисления коллекции. это свойство скрыто в Visual Basic scripting Edition (VBScript).<br/> |
+| [**Count**](recipients-count.md)<br/>       |                      | Число объектов в коллекции **получателей** .<br/>                                                                                                                                                              |
 | [**Элемент**](recipients-item.md)<br/>         |                      | Индексированный объект в коллекции. Это свойство по умолчанию.<br/>                                                                                                                                                   |
 
 
@@ -89,7 +89,7 @@ ms.locfileid: "108103742"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

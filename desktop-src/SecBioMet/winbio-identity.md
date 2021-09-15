@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c677a341386bcc937061798f406397028c23c10b65989480da975a9fdf81a3c3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8092754b9107029e0be5800bbd5bc98bc3efb91c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118910122"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469990"
 ---
 # <a name="winbio_identity-structure"></a>\_Структура идентификации винбио
 
@@ -45,11 +45,11 @@ typedef struct _WINBIO_IDENTITY {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
-**Type**
+**Тип**
 </dt> <dd>
 
 Задает формат сведений об удостоверении, содержащихся в этой структуре. Может иметь одно из следующих значений:
@@ -111,7 +111,7 @@ typedef struct _WINBIO_IDENTITY {
 
 </dd> <dt>
 
-**Данные**
+**Data**
 </dt> <dd>
 
 Массив неподписанных символов, содержащих идентификатор безопасности. Текущий максимальный размер массива составляет 68 символов.
@@ -131,7 +131,7 @@ typedef struct _WINBIO_IDENTITY {
 -   [**винбиоверифи**](/windows/desktop/api/Winbio/nf-winbio-winbioverify)
 -   [**винбиоверифивискаллбакк**](/windows/desktop/api/Winbio/nf-winbio-winbioverifywithcallback)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -139,7 +139,7 @@ typedef struct _WINBIO_IDENTITY {
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                                                    |
 | Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/>                                                       |
-| Header<br/>                   | <dl> <dt>Винбио \_ types. h (include винбио. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Винбио \_ types. h (include винбио. h)</dt> </dl> |
 
 
 

@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7806501a619d6172d9f1ce0715045c822b30326c2b59c268f432708ea13923ea
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fe185d8993286e4be3935b43f6c1e9757623309d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119761074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569006"
 ---
 # <a name="iwmpcdromburnstartburn-method"></a>Метод Ивмпкдромбурн:: Стартбурн
 
@@ -59,7 +59,7 @@ Implements IWMPCdromBurn.startBurn
 
 Этот метод не будет работать, если дисковод компакт-дисков не является устройством записи или диск не доступен для записи. Чтобы определить, можно ли записать компакт-диск, воспользуйтесь возможностью **доступа** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -71,7 +71,7 @@ Implements IWMPCdromBurn.startBurn
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

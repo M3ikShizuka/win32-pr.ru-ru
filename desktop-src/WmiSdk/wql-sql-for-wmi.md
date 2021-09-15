@@ -6,11 +6,11 @@ title: WQL (SQL WMI)
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 72e2c80473874390851e81a5f2acebcd6d7e1497
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122626760"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569682"
 ---
 # <a name="wql-sql-for-wmi"></a>WQL (SQL WMI)
 
@@ -80,7 +80,7 @@ ms.locfileid: "122626760"
 <td>Указывает, что объект не имеет явно присвоенного значения. <strong>Значение NULL</strong> не эквивалентно нулю (0) или пусто.<br/></td>
 </tr>
 <tr class="odd">
-<td>ИЛИ<br/></td>
+<td>OR<br/></td>
 <td>Объединяет два условия.<br/> Если в инструкции используется более одного логического оператора, то операторы или вычисляются после операторов и.<br/></td>
 </tr>
 <tr class="even">
@@ -104,7 +104,7 @@ ms.locfileid: "122626760"
 <td>Задает интервал опроса или группирования.<br/> Используйте это предложение с запросами событий.<br/></td>
 </tr>
 <tr class="odd">
-<td>Ложь.<br/></td>
+<td>FALSE<br/></td>
 <td>Логический оператор, значением которого является 0 (ноль).</td>
 </tr>
 </tbody>

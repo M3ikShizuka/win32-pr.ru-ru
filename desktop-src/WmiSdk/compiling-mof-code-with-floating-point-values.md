@@ -11,11 +11,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: 734639e1038b8e9739fead694740dbf5ab5f9cc7
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104265608"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569386"
 ---
 # <a name="compiling-mof-code-with-floating-point-values"></a>Компиляция MOF-кода со значениями Floating-Point
 
@@ -65,7 +65,7 @@ SELECT * FROM abc WHERE exampleUint16 = 1000
 
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

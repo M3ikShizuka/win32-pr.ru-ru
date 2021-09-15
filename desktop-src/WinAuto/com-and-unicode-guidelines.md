@@ -4,12 +4,12 @@ description: Поскольку Microsoft Active Accessibility основан н
 ms.assetid: ed4bbef9-676a-4f4e-926a-044f71399c56
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 023b1d58a1a31997142097d02d8fc7d80881111e08f0020d967c1984d9946c57
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a2312b6177891c31c0987b846f7adfc1aa08abc7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119133907"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570058"
 ---
 # <a name="com-and-unicode-guidelines"></a>Рекомендации по COM и Юникод
 
@@ -31,7 +31,7 @@ ms.locfileid: "119133907"
 ### <a name="structures-and-data-types"></a>Структуры и типы данных:
 
 -   [**ЗНАЧЕНИЕ**](variant-structure.md)
--   [**СОСТАВ**](/windows/desktop/com/structure-of-com-error-codes)
+-   [**HRESULT**](/windows/desktop/com/structure-of-com-error-codes)
 -   [**ОСВОБОЖДАЕМОЙ**](/previous-versions/windows/desktop/automat/bstr)
 
 ### <a name="com-interfaces"></a>COM-интерфейсы:

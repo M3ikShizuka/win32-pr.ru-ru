@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3dx9mesh.h
-ms.openlocfilehash: fa40476bdd1f65dddf0f78b57cfca2b20ac7bd8186eaf78546ddda9b3fa8771a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7a833d2a58db0f434f836126926e461cd2ee3ea0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118096599"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568967"
 ---
 # <a name="d3dxattributeweights-structure"></a>Структура D3DXATTRIBUTEWEIGHTS
 
@@ -42,7 +42,7 @@ typedef struct D3DXATTRIBUTEWEIGHTS {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 

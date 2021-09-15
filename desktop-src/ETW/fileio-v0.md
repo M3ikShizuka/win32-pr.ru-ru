@@ -12,12 +12,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: ba8e00b881e1897d4f27087c561ef8c1b29cbbde4463c1d07f07436e81a4bdbc
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ffb2f616c5273f92571f4bf4a6bab1b3cdac733e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120130564"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470375"
 ---
 # <a name="fileio_v0-class"></a>\_Класс FileIo v0
 
@@ -34,7 +34,7 @@ class FileIo_V0 : MSNT_SystemTrace
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **FileIo \_ v0** не определяет никаких членов.
 
@@ -49,7 +49,7 @@ class FileIo_V0 : MSNT_SystemTrace
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

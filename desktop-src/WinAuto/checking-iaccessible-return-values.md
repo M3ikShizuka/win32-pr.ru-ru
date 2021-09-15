@@ -4,12 +4,12 @@ description: Разработчикам клиентов не следует п�
 ms.assetid: 0def0349-178b-4be5-aa1d-6602dc015981
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c1df43a316898ceeb751b114251ca8fbc91a8fc5360558a3929bcc3ecc47cce1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b9328c89b0ab2b86e35cf06e74f05dd4937999be
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119759634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570074"
 ---
 # <a name="checking-iaccessible-return-values"></a>Проверка возвращаемых значений IAccessible
 

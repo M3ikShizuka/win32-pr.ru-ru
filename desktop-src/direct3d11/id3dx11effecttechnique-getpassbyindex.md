@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: efd22cd5e7745b8e5a11018b930f6b544036780b118e9c745b67e730b693cdd3
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b6af222298cc3d00ad87e5037f9de20139e4fc40
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119565794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469532"
 ---
 # <a name="id3dx11effecttechniquegetpassbyindex-method"></a>Метод ID3DX11EffectTechnique:: Жетпассбиндекс
 
@@ -67,7 +67,7 @@ ID3DX11EffectPass* GetPassByIndex(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,7 +78,7 @@ ID3DX11EffectPass* GetPassByIndex(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

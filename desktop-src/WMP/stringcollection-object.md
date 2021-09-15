@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: b7903a58de628d0da309f3d370b248feed62901853a216d22088e822f58a4cce
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0d1872bec7e00e87ada845f7518608ea4149f137
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118832158"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569430"
 ---
 # <a name="stringcollection-object"></a>Объект StringCollection
 
@@ -28,7 +28,7 @@ ms.locfileid: "118832158"
 
 
 
-| Свойство                            | Описание                                             |
+| Свойство.                            | Описание                                             |
 |-------------------------------------|---------------------------------------------------------|
 | [count](stringcollection-count.md) | Извлекает количество элементов в коллекции строк. |
 
@@ -66,7 +66,7 @@ ms.locfileid: "118832158"
 
 В целях иллюстрации, *Player*. *медиаколлектион*. **жетаттрибутестрингколлектион**(*атрибут*, *mediaType*) используется в разделах синтаксиса Reference.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

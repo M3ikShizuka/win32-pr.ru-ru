@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: 5258a37ac32e663b45bb2a82f8b0691cca3e1e76c303e8d4f9b7156e4f5a423e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 56fd6eaeb5a00549cbb4ee659b99ece391e0ebed
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117767087"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469924"
 ---
 # <a name="ekus-object"></a>Объект EKU
 
@@ -46,10 +46,10 @@ ms.locfileid: "117767087"
 
 
 
-| Свойство                                     | Тип доступа          | Описание                                                                                                                                                                                                                     |
+| Свойство.                                     | Тип доступа          | Описание                                                                                                                                                                                                                     |
 |:---------------------------------------------|:---------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**\_NewEnum**](ekus-newenum.md)<br/> | Только для чтения<br/> | Извлекает интерфейс [**IEnumVARIANT**](/windows/win32/api/oaidl/nn-oaidl-ienumvariant) для объекта, который может быть использован для перечисления коллекции. это свойство скрыто в Visual Basic scripting Edition (VBScript).<br/> |
-| [**Расчета**](ekus-count.md)<br/>       | Только для чтения<br/> | Возвращает число объектов [**EKU**](eku.md) в коллекции.<br/>                                                                                                                                                |
+| [**Count**](ekus-count.md)<br/>       | Только для чтения<br/> | Возвращает число объектов [**EKU**](eku.md) в коллекции.<br/>                                                                                                                                                |
 | [**Элемент**](ekus-item.md)<br/>         | Только для чтения<br/> | Извлекает объект [**EKU**](eku.md) , представляющий свойство индексированного EKU. Это свойство по умолчанию.<br/>                                                                                                      |
 
 

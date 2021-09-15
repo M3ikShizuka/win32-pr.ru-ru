@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 772e4a35d94f49cdbaa2be3053beb28f899654ed69961101e63bb1d6ab531641
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4005fc26a2bc5f928cde0f5ed67ec2098cf3e6bb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119469894"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469738"
 ---
 # <a name="ambientattributestabstop"></a>Амбиентаттрибутес. tabStop
 
@@ -48,7 +48,7 @@ ms.locfileid: "119469894"
 
 Значение по умолчанию для этого атрибута равно true для всех элементов, кроме **АВТОМЕНЮ** и **текста**, которые имеют значение по умолчанию false.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

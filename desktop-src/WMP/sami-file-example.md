@@ -16,12 +16,12 @@ keywords:
 - SAMId (синхронизированный доступный медиа-обмен), пример кода
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4d4e2ab5189f99118afae3fb2dae7374323cc8c16605bb458a04bd31810ed91a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f9634de52f71b4ca1db151bdf9104c3891c8ce5d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118569810"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469636"
 ---
 # <a name="sami-file-example"></a>Пример файла SAMI
 

@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 05c58877b15f39d2de907688972905e98007658981bcc57df62655634bafe8be
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0f7d5eab75d3b7298d78547b17fccfb164a47ae4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118811355"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127570010"
 ---
 # <a name="wm_dde_request-message"></a>\_ \_ Сообщение запроса DDE WM
 
@@ -78,11 +78,11 @@ ms.locfileid: "118811355"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**глобаладдатом**](/windows/desktop/api/Winbase/nf-winbase-globaladdatoma)
@@ -109,7 +109,7 @@ ms.locfileid: "118811355"
 [**\_данные DDE \_ WM**](wm-dde-data.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Сведения о платформа динамических данных Exchange](about-dynamic-data-exchange.md)

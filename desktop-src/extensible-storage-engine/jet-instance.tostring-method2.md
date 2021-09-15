@@ -14,12 +14,12 @@ dev_langs:
 - JScript
 - VB
 - other
-ms.openlocfilehash: 624e1e829ca2f5ed1e525d2d2cc49872c91e51b205775bd0af18fffffc6076cf
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 3eae18ed5788add4962930f124394bbf0bd52be8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120016794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569571"
 ---
 # <a name="jet_instancetostring-method-overload-list"></a>JET_INSTANCE. Метод ToString, список перегрузок
 
@@ -53,9 +53,9 @@ ms.locfileid: "120016794"
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Структура JET_INSTANCE](./jet-instance-structure.md)
 

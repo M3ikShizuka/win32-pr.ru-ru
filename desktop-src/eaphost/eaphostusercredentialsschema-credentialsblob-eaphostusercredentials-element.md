@@ -14,12 +14,12 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: e56fe90677d0988420a97510da75ea24bf9d50610f9b0b06555a127ef5f731c8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1fe7514c3aff50a7ecddadb3d8073a37b6c770eb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118274478"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568775"
 ---
 # <a name="credentialsblob-eaphostusercredentials-element"></a>Кредентиалсблоб (Еафостусеркредентиалс), элемент
 

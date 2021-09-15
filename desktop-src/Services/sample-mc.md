@@ -4,12 +4,12 @@ ms.assetid: d0d46041-5608-4abf-b833-7aae1744ef60
 title: Sample.mc
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f9244ce043f8c3696efd46866dd7f29246d13553a5bc9a4ec05281fd56dbc60d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0b34c87fad27b08671de57d7e329073df5a48579
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118889202"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469801"
 ---
 # <a name="samplemc"></a>Sample.mc
 
@@ -19,7 +19,7 @@ ms.locfileid: "118889202"
 
 1.  **MC-U sample.mc**
 2.  **RC-r Sample. RC**
-3.  **Link-DLL--out:sample.dll Sample. Res**
+3.  **Link-DLL-незапись-out:sample.dll Sample. Res**
 
 ``` syntax
 MessageIdTypedef=DWORD

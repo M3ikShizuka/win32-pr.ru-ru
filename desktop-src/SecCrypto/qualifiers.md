@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: 0f68dbeefefbe675199522dfbc5b1dab81b8a2840fa8b7d5189c72b811fcba7f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e873019d6fbfb21de8be430d7960f697b39eeca7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118900960"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469855"
 ---
 # <a name="qualifiers-object"></a>Квалификатор, объект
 
@@ -46,7 +46,7 @@ ms.locfileid: "118900960"
 
 
 
-| Свойство                                           | Тип доступа          | Описание                                                                                                                                                                                                                     |
+| Свойство.                                           | Тип доступа          | Описание                                                                                                                                                                                                                     |
 |:---------------------------------------------------|:---------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**\_NewEnum**](qualifiers-newenum.md)<br/> | Только для чтения<br/> | Извлекает интерфейс [**IEnumVARIANT**](/windows/win32/api/oaidl/nn-oaidl-ienumvariant) для объекта, который может быть использован для перечисления коллекции. это свойство скрыто в Visual Basic scripting Edition (VBScript).<br/> |
 | [**Count**](qualifiers-count.md)<br/>       | Только для чтения<br/> | Возвращает количество квалификаторов в коллекции.<br/>                                                                                                                                                                |
@@ -62,14 +62,14 @@ ms.locfileid: "118900960"
 
 Свойство CAPICOM объекта [**полициинформатион. квалификаторы**](policyinformation-qualifiers.md) возвращает объект **квалификаторов** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |----------------------------|----------------------------------------------------------------------------------------|
 | Распространяемые компоненты<br/> | CAPICOM 2,0 или более поздней версии на Windows Server 2003 и Windows XP<br/>                  |
-| Header<br/>          | <dl> <dt>IAds. h</dt> </dl>      |
+| Заголовок<br/>          | <dl> <dt>IAds. h</dt> </dl>      |
 | DLL<br/>             | <dl> <dt>Capicom.dll</dt> </dl> |
 
 

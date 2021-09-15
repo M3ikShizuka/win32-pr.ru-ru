@@ -4,12 +4,12 @@ description: в API-интерфейсе PXE-сервера служб Windows �
 ms.assetid: b6089ff9-4d74-4f5d-957f-4a741c09f4b9
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a16cc99f01dc88fce91beafe51a65f8e8ddccfdf08c4361fb194a7e60451a5aa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3852ecfd3e51d6375ca8d566f78d019e733808ac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118330609"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569406"
 ---
 # <a name="windows-deployment-services-server-functions"></a>Windows Функции сервера служб развертывания
 

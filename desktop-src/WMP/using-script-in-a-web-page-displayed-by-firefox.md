@@ -30,12 +30,12 @@ keywords:
 - Пример сценария для внедрения веб-страниц
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 450b03f7adefca1a887fb31207f0a3280e1925c9d3e1f1066df370d87f0a7779
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b8629f87f954d12602999f76483fdd36ab279290
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119762064"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469630"
 ---
 # <a name="using-script-in-a-web-page-displayed-by-firefox"></a>Использование сценария на веб-странице, отображаемой Firefox
 
@@ -73,7 +73,7 @@ ms.locfileid: "119762064"
 | [медиаколлектион](mediacollection-object.md)       | Нет              |
 | [метадатапиктуре](metadatapicture-object.md)       | Нет              |
 | [метадататекст](metadatatext-object.md)             | Нет              |
-| [Сеть](network-object.md)                       | Да             |
+| [Network](network-object.md)                       | Да             |
 | [Игрок](player-object.md)                         | Да             |
 | [PlayerApplication](playerapplication-object.md)   | Нет              |
 | [Список воспроизведения](playlist-object.md)                     | Да             |

@@ -6,11 +6,11 @@ metadata:
   ms.topic: article
   ms.date: 05/31/2018
   ms.openlocfilehash: 8bc836c0c8060a1ad23926220cdcfa6f7b6e651f
-  ms.sourcegitcommit: 0dec0044816af3f2b2e6403659e1cf11138c90cd
+  ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
   ms.translationtype: MT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "121858787"
+  ms.lasthandoff: 09/13/2021
+  ms.locfileid: "127569794"
 title: Создание строки меню Интернет Explorer-Style
 summary: >
   На первый взгляд, строка меню в Microsoft Internet Explorer 5 и более поздних версий похожа на стандартное меню. Однако при начале использования он выглядит совершенно иначе.
@@ -47,105 +47,105 @@ sections:
 - name: Не учитывается
   questions:
   - question: >
-      Making a Toolbar into a Menu Bar
+      Создание панели инструментов в строке меню
     answer: >
-      To make a toolbar into a menu bar:
+      Чтобы сделать панель инструментов в строке меню, выполните следующие действия.
 
 
-      -   Create a flat toolbar by including [**TBSTYLE\_FLAT**](toolbar-control-and-button-styles.md) with the other window style flags. The **TBSTYLE\_FLAT** style also enables hot-tracking. With this style, the menu bar looks much like a standard menu until the user activates a button. Then, the button appears to stand out from the toolbar and depress when it is clicked, just like a standard button. Because hot-tracking is enabled, all that is needed to activate a button is for the cursor to hover over it. If the cursor moves to another button, it will be activated and the old button deactivated.
+      -   Создайте плоскую панель инструментов, включив [**тбстиле \_ Flat**](toolbar-control-and-button-styles.md) с другими флагами стиля окна. **\_ Неструктурированный стиль тбстиле** также обеспечивает горячее отслеживание. В этом стиле строка меню похожа на стандартное меню, пока пользователь не активирует кнопку. После этого кнопка будет выделена на панели инструментов и Депресс при ее нажатии, как и стандартная кнопка. Так как включено отслеживание "горячего" отслеживания, все, что необходимо для активации кнопки, — это курсор, наведя на него указатель мыши. Если курсор переместится на другую кнопку, он будет активирован, а старая кнопка деактивируется.
 
-      -   Create list-style buttons by including [**TBSTYLE\_LIST**](toolbar-control-and-button-styles.md) with the other window style flags. This style creates a thinner button that looks more like a standard top-level menu item.
+      -   Создайте кнопки в стиле списка, включив [**\_ список тбстиле**](toolbar-control-and-button-styles.md) с другими флагами стиля окна. Этот стиль создает более тонкую кнопку, которая больше похожа на стандартный элемент меню верхнего уровня.
 
-      -   Make the buttons text-only by setting the **iBitmap** member of the button's [**TBBUTTON**](/windows/desktop/api/Commctrl/ns-commctrl-tbbutton) structure to I\_IMAGENONE and the **iString** member to the button text.
+      -   Сделайте кнопки только текстом, установив для элемента **ибитмап** структуры [**тббуттон**](/windows/desktop/api/Commctrl/ns-commctrl-tbbutton) кнопки значение \_ Имаженоне, а для элемента **истринг** — текст кнопки.
 
-      -   Give each button the [**BTNS\_DROPDOWN**](toolbar-control-and-button-styles.md) style. When the button is clicked, the toolbar control sends your application a [TBN\_DROPDOWN](tbn-dropdown.md) notification to prompt it to display the button's menu.
+      -   Присвойте каждой кнопке стиль [**\_ раскрывающегося списка бтнс**](toolbar-control-and-button-styles.md) . При нажатии кнопки элемент управления ToolBar отправляет приложению уведомление [ \_ раскрывающегося списка ТБН](tbn-dropdown.md) , предлагающее отобразить меню кнопки.
 
-      -   Incorporate the menu bar into a rebar band. Enable both grippers and chevrons, as discussed in [How to Create an Internet Explorer-Style Toolbar](cc-faq-ietoolbar.yml).
+      -   Включить строку меню в полосу главной панели. Включите как захваты, так и шевроны, как описано в разделе [Создание веб Explorer-Style панели инструментов](cc-faq-ietoolbar.yml).
 
-      -   Implement a [TBN\_DROPDOWN](tbn-dropdown.md) handler to display the button's *drop-down menu* when it is clicked. The drop-down menu is a type of pop-up menu. It is created by using the [**TrackPopupMenu**](/windows/desktop/api/winuser/nf-winuser-trackpopupmenu) function, with its upper-left corner aligned with the lower-left corner of the button.
+      -   Реализуйте [обработчик \_ раскрывающегося списка ТБН](tbn-dropdown.md) , чтобы отобразить *раскрывающееся меню* кнопки при ее нажатии. Раскрывающееся меню — это тип всплывающего меню. Она создается с помощью функции [**метод TrackPopupMenu**](/windows/desktop/api/winuser/nf-winuser-trackpopupmenu) , а ее левый верхний угол выстраивается в левом нижнем углу кнопки.
 
-      -   Implement keyboard navigation, so that the menu bar is fully accessible without a mouse.
+      -   Реализуйте навигацию с помощью клавиатуры, чтобы строка меню стала полностью доступной без мыши.
 
-      -   Implement menu hot-tracking. With standard menus, once a top level menu item's menu has been displayed, moving the cursor over another top-level item automatically displays its menu and collapses the menu of the previous item. The toolbar control will hot-track the cursor and change the button image, but it does automatically display the new menu. Your application must do so explicitly.
+      -   Реализуйте горячее отслеживание в меню. При использовании стандартных меню после отображения меню пункта меню верхнего уровня при перемещении курсора на другой элемент верхнего уровня автоматически отображается его меню и сворачивается меню предыдущего элемента. Элемент управления Toolbar (панель инструментов) будет зафиксировать курсор и изменить изображение кнопки, но автоматически отобразит новое меню. Приложение должно сделать это явным образом.
 
 
-      Most of these items are straightforward to implement and are discussed elsewhere. See [How to Create an Internet Explorer-Style Toolbar](cc-faq-ietoolbar.yml), [About Toolbar Controls](toolbar-controls-overview.md), or [About Rebar Controls](rebar-controls.md) for a general discussion of how to use toolbars and rebar controls. See [Menus](/windows/desktop/menurc/menus) for a discussion of how to handle pop-up menus. The final two items, keyboard navigation and menu hot-tracking, are discussed in the remainder of this topic.
+      Большинство этих элементов просты в реализации и обсуждаются в других местах. Общие сведения об использовании панелей инструментов и элементов управления главной панели см. [в статье Создание веб-Explorer-Style панели инструментов](cc-faq-ietoolbar.yml), о панелях инструментов и [элементах управления главной](rebar-controls.md) [панелью](toolbar-controls-overview.md). Сведения о том, как управлять всплывающими меню, см. в разделе [меню](/windows/desktop/menurc/menus) . В оставшейся части этого раздела обсуждаются последние два элемента: Навигация по клавишам и «горячее» отслеживание.
   - question: >
-      Handling Navigation with Menu Hot-Tracking Disabled
+      Обработка навигации с помощью Hot-Tracking меню отключена
     answer: >
-      Users can choose to navigate the menu bar with the mouse, the keyboard, or a mixture of both. To implement menu bar navigation, your application must handle toolbar notifications and monitor the mouse and keyboard. This task can be broken into two distinct parts: with and without menu hot-tracking. This section discusses how to handle navigation when no menus are displayed and menu hot-tracking is not enabled.
+      Пользователи могут перемещаться по строке меню с помощью мыши, клавиатуры или сочетания обеих клавиш. Чтобы реализовать навигацию в строке меню, приложение должно выполнять обработку уведомлений на панели инструментов и отслеживать работу мыши и клавиатуры. Эту задачу можно разделить на две отдельные части: с помощью и без "горячего" отслеживания меню. В этом разделе описывается, как управлять навигацией, когда меню не отображается и не включена поддержка горячего отслеживания меню.
   - question: >
-      Mouse Navigation
+      Навигация по мыши
     answer: >
-      If menu hot-tracking is disabled, you can treat a menu bar as a normal toolbar. If the user is navigating with a mouse, all your application needs to do is handle the [TBN\_DROPDOWN](tbn-dropdown.md) notification. When this notification is received, display the appropriate drop-down menu, and enable menu hot-tracking. From then on, you are in the menu hot-tracking regime discussed in [Handling Navigation with Menu Hot-Tracking Enabled](#handling-navigation-with-menu-hot-tracking-enabled).
+      Если меню "горячее" Отслеживание отключено, можно рассматривать строку меню как обычную панель инструментов. Если пользователь выполняет переход с помощью мыши, все ваше приложение должно работать с [ \_ раскрывающимся](tbn-dropdown.md) уведомлением ТБН. При получении этого уведомления откройте соответствующее раскрывающееся меню и включите горячее отслеживание меню. После этого вы войдете в меню "горячее отслеживание" региме, которое обсуждалось в разделе [Обработка навигации с включенным Hot-Tracking меню](#handling-navigation-with-menu-hot-tracking-enabled).
 
 
-      As discussed in [Mixed Navigation](#mixed-navigation), you also need to handle the [TBN\_HOTITEMCHANGE](tbn-hotitemchange.md) notification to keep track of the active button. This notification is irrelevant if the user is only navigating with the mouse, but it is necessary when mouse and keyboard navigation are mixed.
+      Как обсуждалось при [смешанной навигации](#mixed-navigation), необходимо также обрабатывать уведомление [ТБН \_ хотитемчанже](tbn-hotitemchange.md) , чтобы контролировать активную кнопку. Это уведомление не имеет значения, если пользователь работает только с мышью, но он необходим, если навигация с помощью мыши и клавиатуры является смешанной.
   - question: >
-      Keyboard Navigation
+      Навигация с помощью клавиатуры
     answer: >
-      As noted in the previous section, the user can do a number of navigation operations with the keyboard when menu hot-tracking is disabled. Toolbar controls support keyboard navigation only if they have focus. They also do not handle all the key presses that are needed for menu bars. The simplest solution to handling keyboard navigation is to process the relevant key press events explicitly.
+      Как отмечалось в предыдущем разделе, пользователь может выполнить ряд операций навигации с клавиатурой, если отключено горячее отслеживание меню. Элементы управления ToolBar поддерживают навигацию с помощью клавиатуры только в том случае, если они имеют фокус. Кроме того, они не обрабатывают все нажатия клавиш, необходимые для строк меню. Самым простым решением для работы с клавиатурой является обработка соответствующих событий нажатия клавиши явным образом.
 
 
-      If menu hot-tracking is disabled, your application must handle these key press events in the following way:
+      Если отключено горячее отслеживание в меню, приложение должно решить эти события нажатия, как указано ниже.
 
 
-      -   The F10 key. Activate the first button with [**TB\_SETHOTITEM**](tb-sethotitem.md).
+      -   Клавиша F10. Активируйте первую кнопку с [**\_ сесотитем ТБ**](tb-sethotitem.md).
 
-      -   The LEFT ARROW and RIGHT ARROW keys. Activate the adjacent button with [**TB\_SETHOTITEM**](tb-sethotitem.md). If the user attempts to navigate off either end of the menu bar, activate the first button at the opposite end.
+      -   Клавиши Стрелка влево и стрелка вправо. Активируйте смежную кнопку с [**ТБ \_ сесотитем**](tb-sethotitem.md). Если пользователь пытается перейти к концу строки меню, активируйте первую кнопку на противоположном конце.
 
-      -   The ESCAPE key. Deactivate the active button with [**TB\_SETHOTITEM**](tb-sethotitem.md). The menu bar should be returned to the state it had prior to activating the first button.
+      -   Клавиша ESCAPE. Деактивация активной кнопки с [**\_ сесотитем ТБ**](tb-sethotitem.md). Строка меню должна возвращаться в то состояние, в котором оно было до активации первой кнопки.
 
-      -   An ALT-*Key* accelerator key. Use the [**TB\_MAPACCELERATOR**](tb-mapaccelerator.md) message to determine which button the *Key* character corresponds to. Display the button's drop-down menu and enable menu hot-tracking.
+      -   Сочетание клавиш ALT +*Клавиша* . Используйте сообщение [**\_ мапакцелератор ТБ**](tb-mapaccelerator.md) , чтобы определить, к какой кнопке соответствует символ *ключа* . Отобразить раскрывающееся меню кнопки и включить горячее отслеживание меню.
 
-      -   The DOWN ARROW key. If a button is active but no menu has been displayed, display the button's menu and enable menu hot-tracking.
+      -   Клавиша СТРЕЛКА ВНИЗ. Если кнопка активна, но меню не отображается, отобразите меню кнопки и включите функцию горячего отслеживания меню.
 
-      -   The ENTER key. Deactivate the active button with [**TB\_SETHOTITEM**](tb-sethotitem.md). The menu bar should be returned to the state it had prior to activating the first button.
+      -   Клавиша ВВОД. Деактивация активной кнопки с [**\_ сесотитем ТБ**](tb-sethotitem.md). Строка меню должна возвращаться в то состояние, в котором оно было до активации первой кнопки.
   - question: >
-      Mixed Navigation
+      Смешанная Навигация
     answer: >
-      The keyboard navigation handlers outlined in the preceding section basically do two tasks: keep track of the active button and display the appropriate menu when a button is selected. These handlers are sufficient as long as the user navigates only with the keyboard. However, users often mix keyboard and mouse navigation. For example, they might activate the first button with the F10 key, use the mouse to activate a different button, and then open its menu with the DOWN ARROW key. If you are only monitoring key presses to keep track of the active key, you will display the wrong menu. You must also handle the [TBN\_HOTITEMCHANGE](tbn-hotitemchange.md) notification to accurately keep track of the active button.
+      Обработчики навигации с клавиатурой, описанные в предыдущем разделе, в основном выполняют две задачи: отслеживание активной кнопки и отображение соответствующего меню при выборе кнопки. Эти обработчики достаточно, пока пользователь переходит только с клавиатуры. Однако пользователи часто сочетают навигацию с помощью клавиатуры и мыши. Например, они могут активировать первую кнопку с помощью клавиши F10, использовать мышь для активации другой кнопки, а затем открыть ее меню с помощью клавиши со стрелкой вниз. Если вы отслеживаете только нажатия клавиш, чтобы следить за активным ключом, отобразится неправильное меню. Также необходимо выполнить обработку уведомления [ТБН \_ хотитемчанже](tbn-hotitemchange.md) , чтобы точно контролировать активную кнопку.
   - question: >
-      Handling Navigation with Menu Hot-Tracking Enabled
+      Обработка навигации с включенным Hot-Tracking меню
     answer: >
-      When menu hot-tracking is enabled, your application must change the way it responds to user navigation. To replicate the behavior of standard menus, you must implement the following features explicitly.
+      Если включено горячее отслеживание в меню, приложение должно изменить способ реагирования на навигацию пользователя. Для репликации поведения стандартных меню необходимо явно реализовать следующие функции.
 
 
-      With mouse navigation:
+      С навигацией с помощью мыши:
 
 
-      -   If the user moves the cursor over another button, that menu immediately appears and the previous menu disappears.
+      -   Если пользователь перемещает курсор на другую кнопку, это меню немедленно появляется, а предыдущее меню исчезает.
 
-      -   Menu hot-tracking stays active until the user selects a command or clicks a point that is not part of the menu region. Either action deactivates menu hot-tracking until another button is clicked.
+      -   Горячая трассировка меню остается активной до тех пор, пока пользователь не выберет команду или не щелкнет точку, которая не является частью области меню. Любое действие отключает горячее отслеживание меню до нажатия другой кнопки.
 
-      -   If the cursor moves off the menu, the current drop-down menu remains until the cursor moves back onto, or the user clicks a point outside, the area covered by the menu. If the cursor returns to a different button than the one currently being displayed, the old menu is collapsed and the new menu is displayed.
-
-
-      With keyboard navigation:
+      -   Если курсор перемещается из меню, текущее раскрывающееся меню остается до тех пор, пока курсор не будет перемещен обратно или пользователь щелкнет точку за пределами, область, выделенная в меню. Если курсор возвращается к другой кнопке, чем отображаемая в данный момент, то старое меню сворачивается и отображается новое меню.
 
 
-      -   The RIGHT ARROW key moves the focus to the right. If the item has a submenu, display the submenu. If the item does not have a submenu, collapse the menu and any submenus, activate the next button with [**TB\_SETHOTITEM**](tb-sethotitem.md), and display the menu for the adjacent button. If the last button is active when this message is received, display the menu for the first button.
-
-      -   The LEFT ARROW key moves the focus to the left. If the item is a submenu, collapse it and shift focus to its parent menu. If the item is not a submenu, collapse the menu, activate the next button with [**TB\_SETHOTITEM**](tb-sethotitem.md), and display the menu for that button.
+      С навигацией с помощью клавиатуры:
 
 
-      -   The ESCAPE key backs the display up one step.
-          -   If a submenu is displayed, it is collapsed and focus shifts to the parent menu.
-          -   If a button's menu is displayed, it is collapsed and menu hot-tracking is disabled. The item's button remains active.
-          -   If no menus are displayed but a button is active, the button is deactivated and menu hot-tracking is disabled.
-      -   The UP ARROW and DOWN ARROW keys are used only to navigate within a particular menu.
+      -   Клавиша со стрелкой вправо перемещает фокус вправо. Если у элемента есть подменю, отобразите подменю. Если элемент не имеет подменю, сверните меню и все подменю, активируйте кнопку Далее с [**ТБ в \_ сесотитем**](tb-sethotitem.md)и выведите меню для соседней кнопки. Если последняя кнопка активна при получении этого сообщения, отобразите меню для первой кнопки.
 
-      -   The ENTER key launches the command associated with a menu item. If the menu item has a submenu, the ENTER key displays it.
+      -   Клавиша со стрелкой влево перемещает фокус влево. Если элемент является подменю, сверните его и переместит фокус на его родительское меню. Если элемент не является подменю, сверните меню, активируйте кнопку Далее с [**ТБ \_ сесотитем**](tb-sethotitem.md)и выведите меню для этой кнопки.
 
 
-      As with the menu hot-tracking disabled case, your application must be able to handle mouse, keyboard, and mixed navigation. However, the fact that a menu is displayed means that messaging will have to be handled somewhat differently.
+      -   При нажатии клавиши ESCAPE отображается один шаг.
+          -   Если подменю отображается, оно сворачивается и фокус перемещается в родительское меню.
+          -   Если меню кнопки отображается, оно сворачивается и отключается горячее отслеживание меню. Кнопка элемента остается активной.
+          -   Если меню не отображаются, но активна кнопка, кнопка становится неактивной, а «горячее» отслеживание отключено.
+      -   Клавиши Стрелка вверх и стрелка вниз используются только для навигации в определенном меню.
+
+      -   Клавиша ВВОД запускает команду, связанную с пунктом меню. Если у пункта меню есть подменю, клавиша ВВОД отображает его.
+
+
+      Как и в случае с отключенным режимом «горячее отслеживание», приложение должно иметь возможность обрабатывать мышь, клавиатуру и смешанную навигацию. Однако тот факт, что отображается меню, означает, что обмен сообщениями должен обрабатываться несколько иначе.
   - question: >
-      Message Processing for Menu Hot-Tracking
+      Обработка сообщений для Hot-Tracking меню
     answer: >
-      Menu hot-tracking requires that a menu be displayed at all times, apart from the brief interval required to switch to a new menu. However, the drop-down menu that is displayed by [**TrackPopupMenu**](/windows/desktop/api/winuser/nf-winuser-trackpopupmenu) is modal. Your application will continue to receive some messages directly, including [**WM\_COMMAND**](/windows/desktop/menurc/wm-command), [TBN\_HOTITEMCHANGE](tbn-hotitemchange.md), and normal menu-related messages such as [**WM\_MENUSELECT**](/windows/desktop/menurc/wm-menuselect). However, it will not receive low-level keyboard or mouse messages directly. To handle messages such as [**WM\_MOUSEMOVE**](/windows/desktop/inputdev/wm-mousemove), you must set a message hook to intercept messages that are directed to the menu.
+      Для горячего отслеживания меню требуется, чтобы меню отображалось в любое время, помимо короткого интервала, необходимого для переключения на новое меню. Однако раскрывающееся меню, отображаемое [**метод TrackPopupMenu**](/windows/desktop/api/winuser/nf-winuser-trackpopupmenu) , является модальным. Приложение будет по-прежнему отправлять некоторые сообщения, включая [**\_ команду WM**](/windows/desktop/menurc/wm-command), [ТБН \_ хотитемчанже](tbn-hotitemchange.md)и обычные сообщения, связанные с меню, такие как [**WM \_ менуселект**](/windows/desktop/menurc/wm-menuselect). Однако он не будет напрямую отправлять сообщения с клавиатурой или мышью с низким уровнем. Для обработки сообщений, таких как [**WM \_ MOUSEMOVE**](/windows/desktop/inputdev/wm-mousemove), необходимо установить обработчик сообщений для перехвата сообщений, направляемых в меню.
 
 
-      When a drop-down menu is displayed, set the message hook by calling the [**SetWindowsHookEx**](/windows/desktop/api/winuser/nf-winuser-setwindowshookexa) function with the *idHook* parameter set to WH\_MSGFILTER. All messages intended for the menu will be passed to your [hook procedure](/previous-versions/windows/desktop/legacy/ms644987(v=vs.85)). For example, the following code fragment sets a message hook that will trap messages that are going to a drop-down menu. `MsgHook` is the name of the hook procedure, and `hhookMsg` is the handle to the procedure.
+      При отображении раскрывающегося меню задайте обработчик сообщений, вызвав функцию [**сетвиндовшукекс**](/windows/desktop/api/winuser/nf-winuser-setwindowshookexa) с параметром *идхук* , который имеет значение \_ мсгфилтер. Все сообщения, предназначенные для меню, будут переданы в [процедуру подключения](/previous-versions/windows/desktop/legacy/ms644987(v=vs.85)). Например, в следующем фрагменте кода задается обработчик сообщений, который будет выполнять перехват сообщений, передаваемых в раскрывающееся меню. `MsgHook` имя процедуры-обработчика, а `hhookMsg` — это обработчик процедуры.
 
 
       ```
@@ -155,16 +155,16 @@ sections:
       ```
 
 
-      Menu messages are identified by setting the hook procedure's *nCode* parameter to MSGF\_MENU. The *lParam* parameter will point to a [**MSG**](/windows/win32/api/winuser/ns-winuser-msg) structure with the message. The details of which messages need to be handled, and how, are discussed in the remainder of this topic.
+      Сообщения меню идентифицируются путем установки параметра *нкоде* для процедуры-обработчика в \_ меню мсгф. Параметр *lParam* будет указывать на структуру [**MSG**](/windows/win32/api/winuser/ns-winuser-msg) с сообщением. Сведения о том, какие сообщения необходимо обработать, и о том, как они обсуждаются в оставшейся части этого раздела.
 
 
-      Your application must pass all messages on to the next message hook by calling the [**CallNextHookEx**](/windows/desktop/api/winuser/nf-winuser-callnexthookex) function. You must also send mouse messages directly to the toolbar control, making sure to convert any point coordinates to the toolbar client coordinate space. Sending the messages directly ensures that the toolbar control receives the appropriate mouse messages. For instance, the toolbar needs to receive [**WM\_MOUSEMOVE**](/windows/desktop/inputdev/wm-mousemove) messages in order to hot-track its buttons.
+      Приложение должно передать все сообщения в следующий обработчик сообщений, вызвав функцию [**каллнекссукекс**](/windows/desktop/api/winuser/nf-winuser-callnexthookex) . Также необходимо отправить сообщения мыши непосредственно в элемент управления ToolBar, дополнив преобразование всех координат точек в клиентское пространство панели инструментов. Прямая отправка сообщений гарантирует, что элемент управления ToolBar получит соответствующие сообщения мыши. Например, панель инструментов должна получить сообщения [**WM \_ MOUSEMOVE**](/windows/desktop/inputdev/wm-mousemove) для горячей замены своих кнопок.
 
 
-      When a new button is activated, your application must collapse the old drop-down menu with a [**WM\_CANCELMODE**](/windows/desktop/winmsg/wm-cancelmode) message, and display a new menu. It must also collapse the drop-down menu when focus is taken from the menu bar with keyboard navigation or by clicking outside the menu area. Whenever you collapse a menu, you should free its message hook by using the [**UnhookWindowsHookEx**](/windows/desktop/api/winuser/nf-winuser-unhookwindowshookex) function. If you need to display another drop-down menu, create a new message hook. When a command is launched, the menu will be collapsed automatically but you must explicitly free the message hook.
+      При активации новой кнопки приложение должно свернуть старое раскрывающееся меню с сообщением [**WM \_ канцелмоде**](/windows/desktop/winmsg/wm-cancelmode) и отобразить новое меню. Он также должен сворачивать раскрывающееся меню, когда фокус переводится из строки меню с помощью клавиш перемещения или щелчка вне области меню. Всякий раз при свертывании меню необходимо освободить его обработчик сообщений с помощью функции [**унхуквиндовшукекс**](/windows/desktop/api/winuser/nf-winuser-unhookwindowshookex) . Если необходимо отобразить другое раскрывающееся меню, создайте новый обработчик сообщений. При запуске команды меню будет свернуто автоматически, но необходимо явно освободить обработчик сообщений.
 
 
-      The following code example frees the message hook that was set in the previous example.
+      В следующем примере кода освобождается обработчик сообщений, который был задан в предыдущем примере.
 
 
 
@@ -174,21 +174,21 @@ sections:
 
       ```
   - question: >
-      Mouse Navigation
+      Навигация по мыши
     answer: >
-      When a normal toolbar control hot-tracks buttons, it highlights the active button and sends the application a [TBN\_HOTITEMCHANGE](tbn-hotitemchange.md) notification each time a new button is activated. Your application is responsible for displaying the appropriate drop-down menu. It must:
+      Когда на обычной панели инструментов отображаются кнопки "горячая" Отслеживание, она выделяет активную кнопку и отправляет в приложение уведомление [ТБН \_ хотитемчанже](tbn-hotitemchange.md) при каждом активировании новой кнопки. Приложение отвечает за отображение соответствующего раскрывающегося меню. Оно должно:
 
 
-      -   Handle the [TBN\_HOTITEMCHANGE](tbn-hotitemchange.md) notification to keep track of the active button. When the active button changes, collapse the old menu and create a new one.
+      -   Обработайте уведомление [ТБН \_ хотитемчанже](tbn-hotitemchange.md) , чтобы вести отслеживание активной кнопки. Когда активная кнопка изменится, сверните старое меню и создайте новое.
 
-      -   Handle the [TBN\_DROPDOWN](tbn-dropdown.md) notification that is sent when a button is clicked. It should then collapse the menu and disable menu hot-tracking. The button remains active.
+      -   Обрабатывает уведомление [в \_ раскрывающемся списке ТБН](tbn-dropdown.md) , которое отправляется при нажатии кнопки. Затем следует свернуть меню и отключить горячее отслеживание меню. Кнопка остается активной.
 
-      -   Handle the [**WM\_LBUTTONDOWN**](/windows/desktop/inputdev/wm-lbuttondown), [**WM\_RBUTTONDOWN**](/windows/desktop/inputdev/wm-rbuttondown), and [**WM\_MOUSEMOVE**](/windows/desktop/inputdev/wm-mousemove) messages in your message hook procedure, to keep track of the mouse position. If the mouse is clicked outside the menu area, collapse the current drop-down menu, deactivate menu hot-tracking, and return the menu bar to its preactivation state.
+      -   Обрабатывайте сообщения [**WM \_ лбуттондовн**](/windows/desktop/inputdev/wm-lbuttondown), [**WM \_ рбуттондовн**](/windows/desktop/inputdev/wm-rbuttondown)и [**WM \_ MOUSEMOVE**](/windows/desktop/inputdev/wm-mousemove) в процедуре обработчика сообщений, чтобы отследить расположение мыши. Если щелкнуть мышью за пределами области меню, свернуть текущее раскрывающееся меню, отключить горячее отслеживание меню и вернуть строку меню в состояние ее предактивации.
 
-      -   When a menu command is launched, disable menu hot-tracking. The menu will be collapsed automatically but you must explicitly free the message hook.
+      -   При запуске команды меню отключите функцию «горячее отслеживание». Меню будет свернуто автоматически, но необходимо явным образом освободить обработчик сообщений.
 
 
-      You must also handle menu-related messaging, such as the [**WM\_INITMENUPOPUP**](/windows/desktop/menurc/wm-initmenupopup) message that is sent when a menu item needs to display a submenu. For a discussion of how to handle such messages, see [Menus](/windows/desktop/menurc/menus).
+      Также необходимо работать с сообщениями, связанными с меню, например с сообщением [**WM \_ инитменупопуп**](/windows/desktop/menurc/wm-initmenupopup) , которое отправляется, когда элементу меню нужно отобразить подменю. Обсуждение того, как обработано такие сообщения, см. в разделе [меню](/windows/desktop/menurc/menus).
   - question: >
-      Keyboard Navigation
-    answer: "Your application must process keyboard messages in the message hook procedure and act on those that affect menu hot-tracking. The following key presses must be handled:\n\n-   The ESCAPE key. The ESCAPE key backs the display up one level. If a submenu is being displayed, it must be collapsed. If a button's primary menu is displayed, collapse it and disable menu hot-tracking. The button remains active.\n-   The RIGHT ARROW key. If the item has a submenu, display it. If the item does not have a submenu, collapse the menu and any submenus, activate the next button with [**TB\\_SETHOTITEM**](tb-sethotitem.md), and display its menu. If the last button was active when this notification was received, display the menu for the first button.\n-   The LEFT ARROW key. If the item is in a submenu, collapse it and shift focus to its parent menu. If the item is not a submenu, collapse the menu, activate the adjacent button with [**TB\\_SETHOTITEM**](tb-sethotitem.md), and display its menu. If the first button was active when this notification was received, display the menu for the last button.\n-   The UP ARROW and DOWN ARROW keys. These keys are used to navigate within a menu but do not directly affect menu hot-tracking.\n-   An ALT-*Key* accelerator key. Use the [**TB\\_MAPACCELERATOR**](tb-mapaccelerator.md) message to determine which button the *Key* character corresponds to. If it corresponds to a different button than the currently active one, collapse the current drop-down menu, activate the new button with [**TB\\_SETHOTITEM**](tb-sethotitem.md), and display the menu for the adjacent button. If the *Key character* corresponds to the currently displayed button, collapse the drop-down menu and disable menu hot-tracking. The button should remain active.          \n"
+      Навигация с помощью клавиатуры
+    answer: "Приложение должно обрабатывать сообщения клавиатуры в процедуре обработчика сообщений и действовать на тех, которые влияют на горячее отслеживание меню. Необходимо обработать следующие ключевые клавиши:\n\n-   Клавиша ESCAPE. При нажатии клавиши ESCAPE отображается на один уровень вверх. Если подменю отображается, оно должно быть свернуто. Если основное меню кнопки отображается, сверните его и отключите функцию горячего отслеживания меню. Кнопка остается активной.\n-   Клавиша СТРЕЛКА ВПРАВО. Если у элемента есть подменю, отобразите его. Если элемент не имеет подменю, сверните меню и все подменю, активируйте кнопку Далее с [**ТБ \\_ сесотитем**](tb-sethotitem.md)и отобразите его меню. Если последняя кнопка была активна при получении уведомления, отобразите меню для первой кнопки.\n-   Клавиша СТРЕЛКА ВЛЕВО. Если элемент находится в подменю, сверните его и переместите фокус на его родительское меню. Если элемент не является подменю, сверните меню, активируйте смежную кнопку с [**ТБ \\_ сесотитем**](tb-sethotitem.md)и отобразите его меню. Если первая кнопка была активна при получении уведомления, отобразите меню последней кнопки.\n-   Клавиши со стрелками вверх и вниз. Эти ключи используются для навигации в меню, но не влияют непосредственно на горячее отслеживание меню.\n-   Сочетание клавиш ALT +*Клавиша* . Используйте сообщение [**\\_ мапакцелератор ТБ**](tb-mapaccelerator.md) , чтобы определить, к какой кнопке соответствует символ *ключа* . Если она соответствует другой кнопке, а не активной в данный момент, сверните текущее раскрывающееся меню, активируйте кнопку New с [**ТБ \\_ сесотитем**](tb-sethotitem.md)и выведите меню для соседней кнопки. Если *символ клавиши* соответствует отображаемой в данный момент кнопке, сверните раскрывающееся меню и отключите горячее отслеживание в меню. Кнопка должна оставаться активной.          \n"

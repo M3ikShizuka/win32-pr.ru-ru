@@ -15,12 +15,12 @@ api_type:
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4361cf50a97cd3d7bf2abc6995182e9ca24bad6b824505408aca98bd4b3ead42
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bc7ea426c857893b98b25792ecc8e6c3d5803546
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119045732"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569978"
 ---
 # <a name="cd3dx12_pipeline_state_stream_vs-structure"></a>\_ \_ \_ Структура VS потока состояния конвейера CD3DX12 \_
 
@@ -40,7 +40,7 @@ struct CD3DX12_PIPELINE_STATE_STREAM_VS {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 

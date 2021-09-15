@@ -4,12 +4,12 @@ ms.assetid: 0045e931-929b-40c4-a524-5664d2fc5170
 title: Функция Енкриптмессаже (Digest) (SSPI. h)
 ms.topic: reference
 ms.date: 07/25/2019
-ms.openlocfilehash: af16238ca58449c286edd9eabb88d7bc9a3f7fa781fac360863fdd52f7296833
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 13bcaa5b91f165321d03e229416741b90a978dc6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119008432"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569438"
 ---
 # <a name="encryptmessage-digest-function"></a>Функция Енкриптмессаже (Digest)
 
@@ -102,7 +102,7 @@ SECURITY_STATUS SEC_ENTRY EncryptMessage(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция **енкриптмессаже (Digest)** шифрует сообщение на основе сообщения и [*ключа сеанса*](../secgloss/s-gly.md) из [*контекста безопасности*](../secgloss/s-gly.md).
 

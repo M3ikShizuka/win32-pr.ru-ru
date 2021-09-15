@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 60421d4278c4817f9b02811369fb7937a5f67aa734c6fae0c0c280d2edcf3d4d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 49df5f2dacc9bfd51f6673823ecc8a0961007c07
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120068184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569303"
 ---
 # <a name="intrinsic-functions"></a>Встроенные функции
 
@@ -64,7 +64,7 @@ ms.locfileid: "120068184"
 | [**девицемеморибарриервисграупсинк**](devicememorybarrierwithgroupsync.md)            | Блокирует выполнение всех потоков в группе до тех пор, пока не будут завершены все доступ к памяти устройства и все потоки в группе достигли этого вызова.            | 5                    |
 | [**друг**](dx-graphics-hlsl-distance.md)                                           | Возвращает расстояние между двумя точками.                                                                                                                        | 1 ¹                   |
 | [**Оператор**](dx-graphics-hlsl-dot.md)                                                     | Возвращает скалярное произведение двух векторов.                                                                                                                         | 1                    |
-| [**dst**](dst.md)                                                                      | Вычисляет вектор расстояний.                                                                                                                                   | 5                    |
+| [**кон**](dst.md)                                                                      | Вычисляет вектор расстояний.                                                                                                                                   | 5                    |
 | [**еррорф**](errorf.md)                                                                | Отправляет сообщение об ошибке в информационную очередь.                                                                                                              | 4                    |
 | [**евалуатеаттрибутеатцентроид**](evaluateattributeatcentroid.md)                      | Вычисляется на центроид пикселей.                                                                                                                                | 5                    |
 | [**евалуатеаттрибутеатсампле**](evaluateattributeatsample.md)                          | Вычисляется в расположении с индексированным образцом.                                                                                                                       | 5                    |
@@ -99,20 +99,20 @@ ms.locfileid: "120068184"
 | [**исинф**](dx-graphics-hlsl-isinf.md)                                                 | Возвращает true, если x имеет значение + INF или-INF, и false в противном случае.                                                                                                             | 1 ¹                   |
 | [**IsNaN**](dx-graphics-hlsl-isnan.md)                                                 | Возвращает значение true, если x — NAN или КНАН, и false в противном случае.                                                                                                              | 1 ¹                   |
 | [**ldexp**](dx-graphics-hlsl-ldexp.md)                                                 | Возвращает x \* 2exp                                                                                                                                               | 1 ¹                   |
-| [**недопустим**](dx-graphics-hlsl-length.md)                                               | Возвращает длину вектора v.                                                                                                                             | 1 ¹                   |
+| [**length**](dx-graphics-hlsl-length.md)                                               | Возвращает длину вектора v.                                                                                                                             | 1 ¹                   |
 | [**лерп**](dx-graphics-hlsl-lerp.md)                                                   | Возвращает x + s (y-x).                                                                                                                                           | 1 ¹                   |
 | [**индикатор**](dx-graphics-hlsl-lit.md)                                                     | Возвращает вектор освещения (внешний, рассеянный, отражающий, 1)                                                                                                       | 1 ¹                   |
 | [**Журналь**](dx-graphics-hlsl-log.md)                                                     | Возвращает логарифм по оси x (Base-e).                                                                                                                              | 1 ¹                   |
 | [**LOG10**](dx-graphics-hlsl-log10.md)                                                 | Возвращает десятичный логарифм x.                                                                                                                             | 1 ¹                   |
 | [**log2**](dx-graphics-hlsl-log2.md)                                                   | Возвращает логарифм x по основанию 2.                                                                                                                              | 1 ¹                   |
 | [**отслеживания**](mad.md)                                                                      | Выполняет арифметическую операцию умножения или добавления для трех значений.                                                                                                  | 5                    |
-| [**макс.**](dx-graphics-hlsl-max.md)                                                     | Выбор большего числа x и y.                                                                                                                                 | 1 ¹                   |
-| [**мин.**](dx-graphics-hlsl-min.md)                                                     | Выбирает меньшее из значений x и y.                                                                                                                                  | 1 ¹                   |
+| [**max**](dx-graphics-hlsl-max.md)                                                     | Выбор большего числа x и y.                                                                                                                                 | 1 ¹                   |
+| [**мин**](dx-graphics-hlsl-min.md)                                                     | Выбирает меньшее из значений x и y.                                                                                                                                  | 1 ¹                   |
 | [**modf**](dx-graphics-hlsl-modf.md)                                                   | Разделяет значение x на дробные и целые части.                                                                                                           | 1 ¹                   |
 | [**msad4**](dx-graphics-hlsl-msad4.md)                                                 | Сравнивает 4-байтное ссылочное значение и 8-байтовое исходное значение и накапливает вектор с 4 суммами.                                                                | 5                    |
 | [**mul**](dx-graphics-hlsl-mul.md)                                                     | Выполняет умножение матрицы с помощью x и y.                                                                                                                   | 1                    |
 | [**учитываем**](dx-graphics-hlsl-noise.md)                                                 | Создает случайное значение с помощью алгоритма Perl-Noise.                                                                                                      | 1 ¹                   |
-| [**нормализовать**](dx-graphics-hlsl-normalize.md)                                         | Возвращает нормализованный вектор.                                                                                                                                    | 1 ¹                   |
+| [**normalize**](dx-graphics-hlsl-normalize.md)                                         | Возвращает нормализованный вектор.                                                                                                                                    | 1 ¹                   |
 | [**Pow**](dx-graphics-hlsl-pow.md)                                                     | Возвращает x<sup>y</sup>.                                                                                                                                          | 1 ¹                   |
 | [**printf**](printf.md)                                                                | Отправляет настраиваемое сообщение шейдера в информационную очередь.                                                                                                       | 4                    |
 | [**Process2DQuadTessFactorsAvg**](process2dquadtessfactorsavg.md)                      | Создает исправленные факторы тесселяции для четырех исправлений.                                                                                                  | 5                    |
@@ -130,7 +130,7 @@ ms.locfileid: "120068184"
 | [**характеризу**](dx-graphics-hlsl-reflect.md)                                             | Возвращает вектор отражения.                                                                                                                                    | 1                    |
 | [**рефракт**](dx-graphics-hlsl-refract.md)                                             | Возвращает вектор дробной части.                                                                                                                                  | 1 ¹                   |
 | [**реверсебитс**](reversebits.md)                                                      | Изменяет порядок битов на каждый компонент на обратный.                                                                                                                  | 5                    |
-| [**round**](dx-graphics-hlsl-round.md)                                                 | Округляет значение x до ближайшего целого числа                                                                                                                                 | 1 ¹                   |
+| [**округло**](dx-graphics-hlsl-round.md)                                                 | Округляет значение x до ближайшего целого числа                                                                                                                                 | 1 ¹                   |
 | [**рскрт**](dx-graphics-hlsl-rsqrt.md)                                                 | Возвращает 1/корень (x)                                                                                                                                             | 1 ¹                   |
 | [**насытить**](dx-graphics-hlsl-saturate.md)                                           | Фиксации x в диапазоне \[ 0, 1\]                                                                                                                                  | 1                    |
 | [**писать**](dx-graphics-hlsl-sign.md)                                                   | Вычисление знака x.                                                                                                                                         | 1 ¹                   |
@@ -184,7 +184,7 @@ ms.locfileid: "120068184"
 | Эти типы шаблонов | Описание                                           | Поддержка этих типов данных                                        |
 |----------------------|-------------------------------------------------------|-----------------------------------------------------------------|
 | матрица               | до 16 компонентов в зависимости от объявления      | [Базовые типы HLSL](dx-graphics-hlsl-data-types.md)             |
-| object               | Объект образца                                        | *образцы*, *sampler1D*, *sampler2D*, *sampler3D*, *самплеркубе* |
+| объект               | Объект образца                                        | *образцы*, *sampler1D*, *sampler2D*, *sampler3D*, *самплеркубе* |
 | скаляр               | 1 компонент                                           | [Базовые типы HLSL](dx-graphics-hlsl-data-types.md)             |
 | вектор               | минимальное число компонентов, 4 компонента (включительно): 1 | [Базовые типы HLSL](dx-graphics-hlsl-data-types.md)             |
 
@@ -192,7 +192,7 @@ ms.locfileid: "120068184"
 
  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

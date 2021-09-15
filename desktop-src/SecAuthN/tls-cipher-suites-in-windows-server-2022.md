@@ -3,12 +3,12 @@ description: узнайте о комплектах шифров TLS в Windows 
 title: комплекты шифров TLS в Windows Server 2022.
 ms.topic: article
 ms.date: 02/16/2021
-ms.openlocfilehash: 10f49c18838b8e727f590505dd7af86203f882106ce351c559b6d687f8dd824a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d69cf4d97b356bf772b3a6d59a8bc4146f596ce8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117785974"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568550"
 ---
 # <a name="tls-cipher-suites-in-windows-server-2022"></a>комплекты шифров TLS в Windows Server 2022
 

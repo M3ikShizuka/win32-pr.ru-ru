@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: article
 ms.date: 02/03/2020
-ms.openlocfilehash: ad1e9092f28851f24e11f07302e7794f610a1279956d591d16f64d481decf039
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c222d9a35cae89838d7b6e1d99dcecd11f85b54d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118067254"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569518"
 ---
 # <a name="wm_pointerdeviceoutofrange-message"></a>Сообщение WM_POINTERDEVICEOUTOFRANGE
 
@@ -73,7 +73,7 @@ ms.locfileid: "118067254"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -6,11 +6,11 @@ title: Глоссарий XPS-документов
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: d09f4ed4120bf6bccafe462a5123b4fa2e7bef12
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103991552"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568586"
 ---
 # <a name="xps-documents-glossary"></a>Глоссарий XPS-документов
 
@@ -390,7 +390,7 @@ ms.locfileid: "103991552"
 <span id="xps.xpsapi_glossary_xpsdrv"></span><span id="XPS.XPSAPI_GLOSSARY_XPSDRV"></span>**XPSDrv**
 </dt> <dd>
 
-Драйвер принтера или компонент драйвера принтера, поддерживающий путь печати XPS, который появился в Windows Vista.
+драйвер принтера или компонент драйвера принтера, поддерживающий путь печати XPS, который появился в Windows Vista.
 
 </dd> </dl>
 

@@ -11,12 +11,12 @@ keywords:
 - проблемы с авторскими правами для обложки
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2f4607687f02c149995655995b28599d48460b469249d6fa147e6306326c3e7d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 987e8b680528db915809371692111272b4fbc8a8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118831775"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569414"
 ---
 # <a name="submitting-your-skin"></a>Отправка обложки
 

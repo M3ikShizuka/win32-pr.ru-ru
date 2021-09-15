@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 90a68ca73d129840a14fa0d0ff8c7863497a5cee0ac0ed3d3c3692083172d90b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c013bda1ba0592b2137e4bc428ccf4bc195fc6ca
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118079337"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569582"
 ---
 # <a name="esentrecordnotfoundexception-class"></a>Класс Есентрекорднотфаундексцептион
 
@@ -68,9 +68,9 @@ public sealed class EsentRecordNotFoundException : EsentStateException
 
 Любые общедоступные статичные (общие в Visual Basic) члены этого типа являются потокобезопасными. Потокобезопасная работа с членами экземпляров типа не гарантируется.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Элементы Есентрекорднотфаундексцептион](./esentrecordnotfoundexception-members.md)
 

@@ -15,12 +15,12 @@ keywords:
 - HID (устройство HID)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6fed3772406cc85df57b95c4b11dbcfeaf60804e94da5602059ec790e87e0439
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b3535e5601ec63a254c76060611999a1a2f08aeb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117884331"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569162"
 ---
 # <a name="about-raw-input"></a>О необработанном вводе
 

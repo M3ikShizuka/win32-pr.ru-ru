@@ -15,12 +15,12 @@ api_type:
 - DllExport
 api_location:
 - Winspool.drv
-ms.openlocfilehash: 2b227ee1ca001e23530432eefe3c1ef779090e95ae181c1cbfb5c169810367da
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 93848afa0f36032bb972f8f4a7c6c3d5eb8c42ef
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118470146"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568602"
 ---
 # <a name="setform-function"></a>Функция Сетформ
 
@@ -89,7 +89,7 @@ BOOL SetForm(
 
 Если вызывающий объект является удаленным и *уровень* равен 2, значение **стрингтипе** в [**форме \_ info \_ 2**](form-info-2.md) не может быть строковым \_ муидлл.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -104,7 +104,7 @@ BOOL SetForm(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

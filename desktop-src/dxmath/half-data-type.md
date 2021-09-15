@@ -4,12 +4,12 @@ ms.assetid: E84E0EBA-5C34-41AA-84DB-7A65EBDCAD15
 title: ПОЛОВИНА типа данных (Директкспаккедвектор. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a59b7288324ae5935a23e67a35f402ab6041da55073915d812b39096cab30733
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9651b84675be68bd433fdeaaae588cb01dc745ee
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118985044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569643"
 ---
 # <a name="half-data-type"></a>ПОЛОВИНА типа данных
 
@@ -22,7 +22,7 @@ typedef uint16_t HALF;
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 ПОЛОВИНА типа данных эквивалентна формату binary16 в формате IEEE 754.
 

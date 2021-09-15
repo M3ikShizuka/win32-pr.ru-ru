@@ -32,12 +32,12 @@ keywords:
 - Мультимедийная потоковая передача мультимедиа
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9470bf2b812d36bceb6159ab089e3b08c49bc84515320872b125ed6519568141
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4815562bba92d67bb4b02ea0317d6c29accd9262
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119507134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469627"
 ---
 # <a name="using-script-to-control-url-flipping"></a>Использование сценария для управления перелистыванием URL-адресов
 

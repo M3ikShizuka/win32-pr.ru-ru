@@ -4,12 +4,12 @@ description: Чтобы использовать транспорт очеред
 ms.assetid: f90318a6-0be6-4e1a-a1a5-1709808b5d3b
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 46d9775e720c725ad3b0d06a0be0cf67aa438f739c6a0d1162f4940ac59e561e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e1274c888506a6868eb7ded5ba96c5f1ea8dc8b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118924651"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470059"
 ---
 # <a name="system-requirements-for-rpc-message-queuing-applications"></a>Требования к системе для приложений RPC-Message Queuing
 
