@@ -4,12 +4,12 @@ description: сведения о роли графической инфраст�
 ms.assetid: 24c0c81d-6b55-4116-868a-154addf0f04c
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 600af9c5ca2d2ba8ce8a7b078c769e195c4a7898384d102a21be3aaaf2c936bd
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 096e2be6f957d99bc6e5055f845c14448ecd647f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120068664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574042"
 ---
 # <a name="work-with-directx-device-resources"></a>Работа с ресурсами устройств DirectX
 

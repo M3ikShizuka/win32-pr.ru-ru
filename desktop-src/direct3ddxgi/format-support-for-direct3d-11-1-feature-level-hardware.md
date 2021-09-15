@@ -4,12 +4,12 @@ ms.assetid: 90EADE0C-A984-4993-A3F8-D045C535DE64
 title: Поддержка форматов для оборудования Direct3D с уровнем компонентов 11.1
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: dc0361104e7ed679d7d66aac8a64db9e58ae7c05711f3d8c18259cc086e0ce86
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 999228224ebd88c234f46eaa719275fb6cf9bce8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119627454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574050"
 ---
 # <a name="format-support-for-direct3d-feature-level-111-hardware"></a>Поддержка форматов для оборудования Direct3D с уровнем компонентов 11.1
 
@@ -32,7 +32,7 @@ ms.locfileid: "119627454"
 > Числа форматов в основном, но не все, в возрастающем числовом порядке &mdash; , некоторые из них имеют нечисловой порядок и перечислены вместе с другими соответствующими форматами. Обратите внимание, что *тип* в имени формата может означать *частичную* типизацию, а не строго типизированный (см. раздел [Format Notes](#format-notes) в конце раздела).
 
 ## <a name="dxgi_format_unknownsuplsup-0"></a>DXGI_FORMAT_UNKNOWN<sup>L</sup> (0)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 0 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -83,7 +83,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r32g32b32a32_typelesssuppcssup-1"></a>\_Нетипизированные<sup>ПК</sup> DXGI_FORMAT_R32G32B32A32 (1)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 128 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -134,7 +134,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r32g32b32a32_floatsupfcssup-2"></a>DXGI_FORMAT_R32G32B32A32 \_ с<sup></sup> плавающей запятой (2)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 128 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -185,7 +185,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r32g32b32a32_uintsupfcssup-3"></a>DXGI_FORMAT_R32G32B32A32ое \_ <sup>FCS</sup> /uint (3)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 128 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -236,7 +236,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r32g32b32a32_sintsupfcssup-4"></a>DXGI_FORMAT_R32G32B32A32 \_ Синт-<sup>FCS</sup> (4)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 128 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -287,7 +287,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r32g32b32_typelesssuppcssup-5"></a>\_Нетипизированные<sup>Компьютеры</sup> DXGI_FORMAT_R32G32B32 (5)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 96 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -338,7 +338,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_r32g32b32_floatsupfcssup-6"></a>DXGI_FORMAT_R32G32B32 \_ с<sup></sup> плавающей запятой (6)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 96 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -389,7 +389,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_r32g32b32_uintsupfcssup-7"></a>DXGI_FORMAT_R32G32B32ости \_ uint (7)<sup></sup>
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 96 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -440,7 +440,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_r32g32b32_sintsupfcssup-8"></a>DXGI_FORMAT_R32G32B32 \_ Синт-<sup>FCS</sup> (8)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 96 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -491,7 +491,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_r16g16b16a16_typelesssuppcssup-9"></a>DXGI_FORMAT_R16G16B16A16 \_ <sup>ПК</sup> нетипизированных типов (9)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 64 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -542,7 +542,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r16g16b16a16_floatsupfcssup-10"></a>DXGI_FORMAT_R16G16B16A16 \_ с<sup></sup> плавающей запятой (10)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 64 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -593,7 +593,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r16g16b16a16_unormsupfcssup-11"></a>DXGI_FORMAT_R16G16B16A16 \_ UNORM<sup>FCS</sup> (11)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 64 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -644,7 +644,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r16g16b16a16_uintsupfcssup-12"></a>DXGI_FORMAT_R16G16B16A16ое \_ <sup>FCS</sup> /uint (12)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 64 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -695,7 +695,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r16g16b16a16_snormsupfcssup-13"></a>DXGI_FORMAT_R16G16B16A16 \_ Снорм<sup>FCS</sup> (13)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 64 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -746,7 +746,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r16g16b16a16_sintsupfcssup-14"></a>DXGI_FORMAT_R16G16B16A16 \_ Синт-<sup>FCS</sup> (14)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 64 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -797,7 +797,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r32g32_typelesssuppcssup-15"></a>\_Нетипизированные<sup>Компьютеры</sup> DXGI_FORMAT_R32G32 (15)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 64 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -848,7 +848,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r32g32_floatsupfcssup-16"></a>DXGI_FORMAT_R32G32 \_ с<sup></sup> плавающей запятой (16)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 64 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -899,7 +899,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r32g32_uintsupfcssup-17"></a>DXGI_FORMAT_R32G32 \_ с<sup>FCS</sup> /uint (17)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 64 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -950,7 +950,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r32g32_sintsupfcssup-18"></a>DXGI_FORMAT_R32G32 \_ Синт-<sup>FCS</sup> (18)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 64 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -1001,7 +1001,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r32g8x24_typelesssuppcssup-19"></a>DXGI_FORMAT_R32G8X24 \_ <sup>ПК</sup> нетипизированного типа (19)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 64 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -1052,7 +1052,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_d32_float_s8x24_uintsupfcssup-20"></a>DXGI_FORMAT_D32 с \_ плавающей запятой \_ S8X24 \_ uint (20)<sup></sup>
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 64 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -1103,7 +1103,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_r32_float_x8x24_typelesssupfcssup-21"></a>\_Нетипизированный X8X24 с плавающей запятой \_ \_ (21)<sup></sup> DXGI_FORMAT_R32
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 64 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -1154,7 +1154,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_x32_typeless_g8x24_uintsupfcssup-22"></a>DXGI_FORMAT_X32 без \_ типов, \_ G8X24 \_ (22)<sup></sup>
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 64 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -1205,7 +1205,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_r10g10b10a2_typelesssuppcssup-23"></a>\_Нетипизированные<sup>Компьютеры</sup> DXGI_FORMAT_R10G10B10A2 (23)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -1256,7 +1256,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r10g10b10a2_unormsupfcssup-24"></a>DXGI_FORMAT_R10G10B10A2 \_ UNORM<sup>FCS</sup> (24)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -1307,7 +1307,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r10g10b10a2_uintsupfcssup-25"></a>DXGI_FORMAT_R10G10B10A2ое \_ <sup>FCS</sup> /uint (25)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -1358,7 +1358,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r10g10b10_xr_bias_a2_unormsupfcssup-89"></a>DXGI_FORMAT_R10G10B10 \_ XR \_ смещение \_ A2 \_ UNORM<sup></sup> (89)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -1409,7 +1409,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r11g11b10_floatsupfnssup-26"></a>DXGI_FORMAT_R11G11B10 \_ <sup>ФНС</sup> с плавающей запятой (26)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -1460,7 +1460,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r8g8b8a8_typelesssuppcssup-27"></a>DXGI_FORMAT_R8G8B8A8 \_ <sup>ПК</sup> нетипизированных типов (27)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -1511,7 +1511,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r8g8b8a8_unormsupfcssup-28"></a>DXGI_FORMAT_R8G8B8A8 \_ UNORM<sup>FCS</sup> (28)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -1562,7 +1562,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r8g8b8a8_unorm_srgbsupfcssup-29"></a>DXGI_FORMAT_R8G8B8A8 \_ UNORM \_ sRGB<sup>FCS</sup> (29)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -1613,7 +1613,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r8g8b8a8_uintsupfcssup-30"></a>DXGI_FORMAT_R8G8B8A8ое \_ <sup>FCS</sup> /uint (30)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -1664,7 +1664,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r8g8b8a8_snormsupfcssup-31"></a>DXGI_FORMAT_R8G8B8A8 \_ снормного<sup>FCS</sup> (31)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -1715,7 +1715,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r8g8b8a8_sintsupfcssup-32"></a>DXGI_FORMAT_R8G8B8A8 \_ Синт-<sup>FCS</sup> (32)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -1766,7 +1766,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r16g16_typelesssuppcssup-33"></a>\_Нетипизированные<sup>Компьютеры</sup> DXGI_FORMAT_R16G16 (33)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -1817,7 +1817,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r16g16_floatsupfcssup-34"></a>DXGI_FORMAT_R16G16 \_ с<sup></sup> плавающей запятой (34)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -1868,7 +1868,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r16g16_unormsupfcssup-35"></a>DXGI_FORMAT_R16G16 \_ UNORM<sup>FCS</sup> (35)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -1919,7 +1919,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r16g16_uintsupfcssup-36"></a>DXGI_FORMAT_R16G16ое \_ <sup>FCS</sup> /uint (36)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -1970,7 +1970,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r16g16_snormsupfcssup-37"></a>DXGI_FORMAT_R16G16 \_ Снорм<sup>FCS</sup> (37)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -2021,7 +2021,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r16g16_sintsupfcssup-38"></a>DXGI_FORMAT_R16G16 \_ Синт-<sup>FCS</sup> (38)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -2072,7 +2072,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r32_typelesssuppcssup-39"></a>\_Нетипизированные<sup>Компьютеры</sup> DXGI_FORMAT_R32 (39)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -2123,7 +2123,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_d32_floatsupfcssup-40"></a>DXGI_FORMAT_D32 \_ с<sup></sup> плавающей запятой (40)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -2174,7 +2174,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r32_floatsupfcssup-41"></a>DXGI_FORMAT_R32 \_ с<sup></sup> плавающей запятой (41)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -2225,7 +2225,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r32_uintsupfcssup-42"></a>DXGI_FORMAT_R32ое \_ <sup>FCS</sup> /uint (42)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -2276,7 +2276,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r32_sintsupfcssup-43"></a>DXGI_FORMAT_R32 \_ Синт-<sup>FCS</sup> (43)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -2327,7 +2327,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r24g8_typelesssuppcssup-44"></a>\_Нетипизированные<sup>Компьютеры</sup> DXGI_FORMAT_R24G8 (44)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -2378,7 +2378,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_d24_unorm_s8_uintsupfcssup-45"></a>DXGI_FORMAT_D24 \_ UNORM \_ S8 \_ UINT<sup>FCS</sup> (45)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -2429,7 +2429,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_r24_unorm_x8_typelesssupfcssup-46"></a>DXGI_FORMAT_R24 \_ UNORM \_ x8 с \_ нетипизированным типом (46)<sup></sup>
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -2480,7 +2480,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_x24_typeless_g8_uintsupfcssup-47"></a>DXGI_FORMAT_X24 \_ нетипизированного \_ G8ого типа \_ uint (47)<sup></sup>
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -2531,7 +2531,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_r8g8_typelesssuppcssup-48"></a>\_Нетипизированные<sup>Компьютеры</sup> DXGI_FORMAT_R8G8 (48)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 16 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -2582,7 +2582,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r8g8_unormsupfcssup-49"></a>DXGI_FORMAT_R8G8 \_ UNORM<sup>FCS</sup> (49)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 16 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -2633,7 +2633,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r8g8_uintsupfcssup-50"></a>DXGI_FORMAT_R8G8ое \_ <sup>FCS</sup> /uint (50)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 16 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -2684,7 +2684,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r8g8_snormsupfcssup-51"></a>DXGI_FORMAT_R8G8 \_ Снорм<sup>FCS</sup> (51)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 16 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -2735,7 +2735,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r8g8_sintsupfcssup-52"></a>DXGI_FORMAT_R8G8 \_ Синт-<sup>FCS</sup> (52)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 16 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -2786,7 +2786,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r16_typelesssuppcssup-53"></a>\_Нетипизированные<sup>Компьютеры</sup> DXGI_FORMAT_R16 (53)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 16 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -2837,7 +2837,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r16_floatsupfcssup-54"></a>DXGI_FORMAT_R16 \_ с<sup></sup> плавающей запятой (54)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 16 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -2888,7 +2888,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_d16_unormsupfcssup-55"></a>DXGI_FORMAT_D16 \_ UNORM<sup>FCS</sup> (55)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 16 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -2939,7 +2939,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r16_unormsupfcssup-56"></a>DXGI_FORMAT_R16 \_ UNORM<sup>FCS</sup> (56)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 16 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -2990,7 +2990,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r16_uintsupfcssup-57"></a>DXGI_FORMAT_R16ое \_ <sup>FCS</sup> /uint (57)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 16 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -3041,7 +3041,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r16_snormsupfcssup-58"></a>DXGI_FORMAT_R16 \_ Снорм<sup>FCS</sup> (58)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 16 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -3092,7 +3092,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r16_sintsupfcssup-59"></a>DXGI_FORMAT_R16 \_ Синт-<sup>FCS</sup> (59)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 16 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -3143,7 +3143,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r8_typelesssuppcssup-60"></a>\_Нетипизированные<sup>Компьютеры</sup> DXGI_FORMAT_R8 (60)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 8 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -3194,7 +3194,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r8_unormsupfcssup-61"></a>DXGI_FORMAT_R8 \_ UNORM<sup>FCS</sup> (61)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 8 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -3245,7 +3245,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r8_uintsupfcssup-62"></a>DXGI_FORMAT_R8ое \_ <sup>FCS</sup> /uint (62)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 8 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -3296,7 +3296,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r8_snormsupfcssup-63"></a>DXGI_FORMAT_R8 \_ Снорм<sup>FCS</sup> (63)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 8 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -3347,7 +3347,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r8_sintsupfcssup-64"></a>DXGI_FORMAT_R8 \_ Синт-<sup>FCS</sup> (64)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 8 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -3398,7 +3398,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_a8_unormsupfnssup-65"></a>DXGI_FORMAT_A8 \_ UNORM<sup>фнс</sup> (65)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 8 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -3449,7 +3449,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r9g9b9e5_sharedexpsupfncsup-67"></a>DXGI_FORMAT_R9G9B9E5 \_ Шаредексп<sup>фнк</sup> (67)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -3500,7 +3500,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_r8g8_b8g8_unormsupfncsup-68"></a>DXGI_FORMAT_R8G8 \_ B8G8 \_ UNORM<sup>ФНК</sup> (68)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 16 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -3551,7 +3551,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_g8r8_g8b8_unormsupfncsup-69"></a>DXGI_FORMAT_G8R8 \_ G8B8 \_ UNORM<sup>ФНК</sup> (69)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 16 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -3602,7 +3602,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_bc1_typelesssuppccsup-70"></a>DXGI_FORMAT_BC1 \_ нетипизированных<sup>пкк</sup> (70)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 64 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -3653,7 +3653,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_bc1_unorm-supfccsup-71"></a>DXGI_FORMAT_BC1 \_ UNORM <sup>FCC</sup> (71)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 64 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -3704,7 +3704,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_bc1_unorm_srgb-supfccsup-72"></a>DXGI_FORMAT_BC1 \_ UNORM \_ sRGB <sup>FCC</sup> (72)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 64 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -3755,7 +3755,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_bc2_typelesssuppccsup-73"></a>DXGI_FORMAT_BC2 \_ нетипизированных<sup>пкк</sup> (73)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 128 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -3806,7 +3806,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_bc2_unorm-supfccsup-74"></a>DXGI_FORMAT_BC2 \_ UNORM <sup>FCC</sup> (74)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 128 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -3857,7 +3857,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_bc2_unorm_srgb-supfccsup-75"></a>DXGI_FORMAT_BC2 \_ UNORM \_ sRGB <sup>FCC</sup> (75)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 128 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -3908,7 +3908,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_bc3_typelesssuppccsup-76"></a>DXGI_FORMAT_BC3 \_ нетипизированных<sup>пкк</sup> (76)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 128 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -3959,7 +3959,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_bc3_unorm-supfccsup-77"></a>DXGI_FORMAT_BC3 \_ UNORM <sup>FCC</sup> (77)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 128 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -4010,7 +4010,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_bc3_unorm_srgb-supfccsup-78"></a>DXGI_FORMAT_BC3 \_ UNORM \_ sRGB <sup>FCC</sup> (78)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 128 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -4061,7 +4061,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_bc4_typelesssuppccsup-79"></a>DXGI_FORMAT_BC4 \_ нетипизированных<sup>пкк</sup> (79)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 64 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -4112,7 +4112,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_bc4_unorm-supfccsup-80"></a>DXGI_FORMAT_BC4 \_ UNORM <sup>FCC</sup> (80)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 64 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -4163,7 +4163,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_bc4_snorm-supfccsup-81"></a>DXGI_FORMAT_BC4 \_ Снорм <sup>FCC</sup> (81)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 64 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -4214,7 +4214,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_bc5_typelesssuppccsup-82"></a>DXGI_FORMAT_BC5 \_ нетипизированных<sup>пкк</sup> (82)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 128 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -4265,7 +4265,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_bc5_unorm-supfccsup-83"></a>DXGI_FORMAT_BC5 \_ UNORM <sup>FCC</sup> (83)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 128 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -4316,7 +4316,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_bc5_snorm-supfccsup-84"></a>DXGI_FORMAT_BC5 \_ Снорм <sup>FCC</sup> (84)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 128 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -4367,7 +4367,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_b5g6r5_unormsupfnssup-85"></a>DXGI_FORMAT_B5G6R5 \_ UNORM<sup>фнс</sup> (85)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 16 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -4418,7 +4418,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_b5g5r5a1_unormsupfnssup-86"></a>DXGI_FORMAT_B5G5R5A1 \_ UNORM<sup>фнс</sup> (86)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 16 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -4469,7 +4469,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_b8g8r8a8_typelesssuppcssup-90"></a>\_Нетипизированные<sup>Компьютеры</sup> DXGI_FORMAT_B8G8R8A8 (90)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -4520,7 +4520,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_b8g8r8a8_unormsupfcssup-87"></a>DXGI_FORMAT_B8G8R8A8 \_ UNORM<sup>FCS</sup> (87)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -4571,7 +4571,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_b8g8r8a8_unorm_srgbsupfcssup-91"></a>DXGI_FORMAT_B8G8R8A8 \_ UNORM \_ sRGB<sup>FCS</sup> (91)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -4622,7 +4622,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_b8g8r8x8_typelesssuppcssup-92"></a>\_Нетипизированные<sup>Компьютеры</sup> DXGI_FORMAT_B8G8R8X8 (92)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -4673,7 +4673,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_b8g8r8x8_unormsupfcssup-88"></a>DXGI_FORMAT_B8G8R8X8 \_ UNORM<sup>FCS</sup> (88)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -4724,7 +4724,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_b8g8r8x8_unorm_srgbsupfcssup-93"></a>DXGI_FORMAT_B8G8R8X8 \_ UNORM \_ sRGB<sup>FCS</sup> (93)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -4775,7 +4775,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_bc6h_typelesssuppccsup-94"></a>DXGI_FORMAT_BC6H \_ нетипизированных<sup>пкк</sup> (94)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 128 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -4826,7 +4826,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_bc6h_uf16-supfccsup-95"></a>DXGI_FORMAT_BC6H \_ UF16 <sup>FCC</sup> (95)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 128 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -4877,7 +4877,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_bc6h_sf16-supfccsup-96"></a>DXGI_FORMAT_BC6H \_ SF16 <sup>FCC</sup> (96)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 128 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -4928,7 +4928,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_bc7_typelesssuppccsup-97"></a>DXGI_FORMAT_BC7 \_ нетипизированных<sup>пкк</sup> (97)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 128 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -4979,7 +4979,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_bc7_unorm-supfccsup-98"></a>DXGI_FORMAT_BC7 \_ UNORM <sup>FCC</sup> (98)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 128 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -5030,7 +5030,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_bc7_unorm_srgb-supfccsup-99"></a>DXGI_FORMAT_BC7 \_ UNORM \_ sRGB <sup>FCC</sup> (99)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 128 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -5081,7 +5081,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | ![необязательно](images/letter-o.jpg) |
 
 ## <a name="dxgi_format_ayuvsupvsup-100"></a>DXGI_FORMAT_AYUV<sup>V</sup> (100)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![необязательно](images/letter-o.jpg) |
@@ -5132,7 +5132,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_y410supvsup-101"></a>DXGI_FORMAT_Y410<sup>V</sup> (101)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![необязательно](images/letter-o.jpg) |
@@ -5183,7 +5183,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_y416supvsup-102"></a>DXGI_FORMAT_Y416<sup>V</sup> (102)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 64 |
 | Поддержка формата | ![необязательно](images/letter-o.jpg) |
@@ -5234,7 +5234,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_nv12supvsup-103"></a>DXGI_FORMAT_NV12<sup>V</sup> (103)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 8 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -5285,7 +5285,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_p010supvsup-104"></a>DXGI_FORMAT_P010<sup>V</sup> (104)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 16 |
 | Поддержка формата | ![необязательно](images/letter-o.jpg) |
@@ -5336,7 +5336,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_p016supvsup-105"></a>DXGI_FORMAT_P016<sup>V</sup> (105)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 16 |
 | Поддержка формата | ![необязательно](images/letter-o.jpg) |
@@ -5387,7 +5387,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_420_opaquesupvsup-106"></a>DXGI_FORMAT_420 \_ непрозрачный<sup>V</sup> (106)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 8 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -5438,7 +5438,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_yuy2supvsup-107"></a>DXGI_FORMAT_YUY2<sup>V</sup> (107)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 16 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |
@@ -5489,7 +5489,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_y210supvsup-108"></a>DXGI_FORMAT_Y210<sup>V</sup> (108)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![необязательно](images/letter-o.jpg) |
@@ -5540,7 +5540,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_y216supvsup-109"></a>DXGI_FORMAT_Y216<sup>V</sup> (109)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 32 |
 | Поддержка формата | ![необязательно](images/letter-o.jpg) |
@@ -5591,7 +5591,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_nv11supvsup-110"></a>DXGI_FORMAT_NV11<sup>V</sup> (110)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 8 |
 | Поддержка формата | ![необязательно](images/letter-o.jpg) |
@@ -5642,7 +5642,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_ai44supvsup-111"></a>DXGI_FORMAT_AI44<sup>V</sup> (111)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 8 |
 | Поддержка формата | ![необязательно](images/letter-o.jpg) |
@@ -5693,7 +5693,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_ia44supvsup-112"></a>DXGI_FORMAT_IA44<sup>V</sup> (112)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 8 |
 | Поддержка формата | ![необязательно](images/letter-o.jpg) |
@@ -5744,7 +5744,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_p8supvsup-113"></a>DXGI_FORMAT_P8<sup>V</sup> (113)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 8 |
 | Поддержка формата | ![необязательно](images/letter-o.jpg) |
@@ -5795,7 +5795,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_a8p8supvsup-114"></a>DXGI_FORMAT_A8P8<sup>V</sup> (114)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 16 |
 | Поддержка формата | ![необязательно](images/letter-o.jpg) |
@@ -5846,7 +5846,7 @@ ms.locfileid: "119627454"
 | Мозаичный ресурс | \- |
 
 ## <a name="dxgi_format_b4g4r4a4_unormsupfnssup-115"></a>DXGI_FORMAT_B4G4R4A4 \_ UNORM<sup>фнс</sup> (115)
-| Целевой объект | Поддержка |
+| Назначение | Поддержка |
 | - | - |
 | Бит на элемент (BPE) | 16 |
 | Поддержка формата | ![обязательно](images/letter-r.jpg) |

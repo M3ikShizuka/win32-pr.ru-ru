@@ -4,18 +4,18 @@ ms.assetid: 73EE5E69-969B-409E-9E8F-5837720EA0B3
 title: Регистрация обработчиков наложения значков
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f5a0e62d95b224b131f03c2bd976ddf7c01d7cb3de7ad6995f21568dc7e990d7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2cb58747adc9b754481f43fec825a4588e1606ed
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119714914"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579566"
 ---
 # <a name="how-to-register-icon-overlay-handlers"></a>Регистрация обработчиков наложения значков
 
 Помимо обычной регистрации компонента COM, для регистрации обработчиков наложения значков необходимо выполнить следующие шаги.
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="step-1-create-a-subkey-named-for-the-handler-under-this-key"></a>Шаг 1. Создание подраздела с именем для обработчика в этом разделе
 

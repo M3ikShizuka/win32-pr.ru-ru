@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 1ad823cd9932e98f919764e57666549189623986eb173ba6b4ef74cdade21f33
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b9437c7d6347da4bafae566386e09e4bc782bd16
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119855364"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573874"
 ---
 # <a name="defb---ps"></a>дефб-PS
 
@@ -31,12 +31,12 @@ ms.locfileid: "119855364"
 
  
 
-where
+где
 
 -   DST — это регистр назначения.
 -   Булеанвалуе — это одно логическое значение, true или false.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 
 
@@ -56,7 +56,7 @@ where
 2.  Используйте методы API для задания константы.
     -   Чтобы задать логическую константу, используйте [**сетпикселшадерконстантб**](/windows/desktop/api/d3d9helper/nf-d3d9helper-idirect3ddevice9-setpixelshaderconstantb) .
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

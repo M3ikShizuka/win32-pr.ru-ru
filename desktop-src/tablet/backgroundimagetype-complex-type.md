@@ -12,12 +12,12 @@ api_name:
 api_type:
 - Schema
 api_location: ''
-ms.openlocfilehash: 1fcab0dec0758cc60896d2fd033b09eb1c4184db78020f7aec69409306bb76b1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 768459710a993dc284416c78209b37f9922249e4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119941354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579503"
 ---
 # <a name="backgroundimagetype-complex-type"></a>Сложный тип Баккграундимажетипе
 
@@ -27,7 +27,7 @@ ms.locfileid: "119941354"
 <xs:complexType name="BackgroundImageType" />
 ```
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

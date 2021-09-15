@@ -12,12 +12,12 @@ api_name:
 api_type:
 - COM
 api_location: ''
-ms.openlocfilehash: 84446b49ab723f161de8f148e95916202efe06176191e820ab8bafc88ed9158a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0a4f248edbfa4a1779016e40d73051d8c1d9acac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118969763"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574583"
 ---
 # <a name="iitempreviewerextsuggestbrowserpolicy-method"></a>Метод Иитемпревиеверекст:: Сугжестбровсерполици
 
@@ -63,7 +63,7 @@ HRESULT SuggestBrowserPolicy(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 интерфейс [**иитемпревиеверекст**](-search-iitempreviewerext.md) поддерживается только в Windows XP и Windows Server 2003 и больше не должен использоваться.
 
@@ -71,7 +71,7 @@ HRESULT SuggestBrowserPolicy(
 
 Настоятельно рекомендуется использовать флаг **\_ ненадежного \_ содержимого бровсерполици** , чтобы отключить возможность предварительного просмотра выполнять сценарий или ActiveX. Метод **иитемпревиеверекст:: сугжестбровсерполици** может возвращать сведения о том, является ли элемент, для которого выполняется предварительный просмотр, доверенным. это позволит элементу управления предварительного просмотра trident выполнять скрипт и даже ActiveX элементы управления. Поскольку предварительный просмотр часто использует временные файлы для создания предварительного просмотра, это может привести к непредвиденному выполнению сценария и кода в зоне локального компьютера.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -83,7 +83,7 @@ HRESULT SuggestBrowserPolicy(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

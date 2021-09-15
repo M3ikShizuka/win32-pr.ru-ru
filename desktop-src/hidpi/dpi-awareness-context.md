@@ -4,12 +4,12 @@ description: Определяет контекст осведомленност�
 ms.assetid: BFD54A9F-642B-4A3A-BBB9-F3A80779251D
 ms.topic: article
 ms.date: 10/04/2018
-ms.openlocfilehash: 25e270f59af32b33fdb5ad3f511b693b3eebad71407d48b80a72aff5996edf14
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1663fad828a2fb29aa0d65ef58ae79616f64edcd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119727184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127575002"
 ---
 # <a name="dpi_awareness_context-handle"></a>\_Описатель контекста осведомленности о dpi \_
 
@@ -59,7 +59,7 @@ ms.locfileid: "119727184"
 DPI_AWARENESS_CONTEXT_UNAWARE_GDISCALED была введена в обновление Windows 10 октября 2018 (также известное как версия 1809).
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |----|-----------|
@@ -67,7 +67,7 @@ DPI_AWARENESS_CONTEXT_UNAWARE_GDISCALED была введена в обновл�
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается <br/>  |
 | Заголовок<br/>                   | <dl> <dt>виндеф. h</dt> </dl> |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.jet_
 ms:contentKeyID: 55103959
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: a6459ac4e186ad9d000126243ad74e882a365ec7354f1a630d5ec062cfbaca6d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: afb16d37da4bc2a7aff33630fab1af250e80a0c7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119729534"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127575055"
 ---
 # <a name="jet_spacehints-methods"></a>Методы JET_SPACEHINTS
 
@@ -78,7 +78,7 @@ ms.locfileid: "119729534"
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

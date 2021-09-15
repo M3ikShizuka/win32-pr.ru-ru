@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: 862df88701cffd1059ca67e086cd49d05174bc66e9fa13807df2d2aeb0c9ff1b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f4aabf5601ef73f4e1062b1db1a28c1f0deae5fd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119121353"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127575219"
 ---
 # <a name="id3dxfilesavedataadddatareference-method"></a>Метод ID3DXFileSaveData:: Адддатареференце
 
@@ -65,7 +65,7 @@ HRESULT AddDataReference(
 
 Если метод выполнен успешно, возвращается значение S \_ . В случае сбоя метода возвращаемое значение может быть одним из следующих: D3DXFERR \_ бадобжект, D3DXFERR \_ Бадвалуе, E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Объект данных файла, на который указывает ссылка, должен иметь либо имя, либо идентификатор GUID. Объект данных файла также должен быть производным от другого родительского объекта [**ID3DXFileSaveData**](id3dxfilesavedata.md) .
 

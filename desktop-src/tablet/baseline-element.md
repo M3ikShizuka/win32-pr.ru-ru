@@ -1,17 +1,17 @@
 ---
 description: Предоставляет сведения (x, y) для начальной и конечной точек базового плана абзаца в документе журнала. Координатное пространство, используемое для этих значений, — HIMETRIC.
 ms.assetid: ff6a97ad-0e48-4128-8f94-24802b6ddc05
-title: Базовый элемент
+title: Элемент Baseline
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 4bc64f332608b4bd0281ae2a7f29db96101e9d2e
-ms.sourcegitcommit: 5a78723ad484955ac91a23cf282cf9c176c1eab6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114436569"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579502"
 ---
-# <a name="baseline-element"></a>Базовый элемент
+# <a name="baseline-element"></a>Элемент Baseline
 
 Предоставляет сведения (x, y) для начальной и конечной точек базового плана абзаца в документе журнала. Координатное пространство, используемое для этих значений, — **HIMETRIC**.
 

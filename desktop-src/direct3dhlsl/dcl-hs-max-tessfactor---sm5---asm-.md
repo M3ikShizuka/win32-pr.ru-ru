@@ -4,12 +4,12 @@ description: Объявите Макстессфактор для исправл
 ms.assetid: 7EF0FD81-69FE-49F6-95DF-0C452A90A713
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a8b1a11ddea971aca1d8e8d379f6c245fd78736ba6c73cf41a3e1d34167956fc
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 69bd20fc8f4a3687988e8b100975f74016a45ae6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119606184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573946"
 ---
 # <a name="dcl_hs_max_tessfactor-sm5---asm"></a>дкл \_ HS \_ Max \_ тессфактор (SM5-ASM)
 
@@ -34,7 +34,7 @@ ms.locfileid: "119606184"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Макстессфактор — это значение float32 в диапазоне {1,0... 64,0}.
 
@@ -42,7 +42,7 @@ ms.locfileid: "119606184"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 |        | X    |        |          |       |         |
 
@@ -58,7 +58,7 @@ ms.locfileid: "119606184"
 
 | Модель шейдера                                              | Поддерживается |
 |-----------------------------------------------------------|-----------|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | Да       |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | да       |
 | [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | Нет        |
 | [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | Нет        |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет        |
@@ -69,7 +69,7 @@ ms.locfileid: "119606184"
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

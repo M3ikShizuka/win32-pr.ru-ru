@@ -4,12 +4,12 @@ ms.assetid: a31f447d-b718-4f8d-b0d5-643497339557
 title: Атрибут MF_PD_ASF_METADATA_V8_VBRPEAK (Вмконтаинер. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4bfe0784a9bd43ddb68ef2b8457205b389149a41011e46cb748cc7c6d4b7f4f8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 62d987815fea919bb46bbe5758e48d6eb22dad8f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117876238"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574906"
 ---
 # <a name="mf_pd_asf_metadata_v8_vbrpeak-attribute"></a>MF \_ PD \_ ASF \_ метаданные \_ V8 \_ вбрпеак Attribute
 
@@ -19,7 +19,7 @@ ms.locfileid: "117876238"
 
 **UINT32**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут применяется к дескрипторам представления для содержимого ASF.
 
@@ -30,7 +30,7 @@ ms.locfileid: "117876238"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -42,7 +42,7 @@ ms.locfileid: "117876238"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

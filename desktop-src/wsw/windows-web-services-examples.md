@@ -4,12 +4,12 @@ description: в следующих примерах показано, как и�
 ms.assetid: 8a557ef0-a88a-4257-a181-57f2dca9022f
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 63e38dd32923336f63d5d5195fbae8c4ee8a3c20ce2d5568b8f7557aba34f340
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e74aec03c4822fb9ba270076b5127dd37d145fb5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120109754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574211"
 ---
 # <a name="windows-web-services-examples"></a>Windows Примеры веб-служб
 

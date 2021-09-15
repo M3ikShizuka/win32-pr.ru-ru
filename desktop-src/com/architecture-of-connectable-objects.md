@@ -5,11 +5,11 @@ ms.assetid: 69949a3b-3ab8-4054-84d8-9256fbf39c7b
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 1e9d8d2909942d1c04aed972e7891a6f4ae3f730
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369809"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574138"
 ---
 # <a name="architecture-of-connectable-objects"></a>Архитектура подключаемых объектов
 
@@ -44,7 +44,7 @@ ms.locfileid: "124369809"
 5.  Объект вызывает методы в интерфейсе приемника по мере необходимости, используя указатель, удерживаемый его точкой соединения.
 6.  Клиент вызывает [**unadvise**](/windows/desktop/api/OCIdl/nf-ocidl-iconnectionpoint-unadvise) для завершения подключения. Затем клиент вызывает метод **IConnectionPoint:: Release** , чтобы освободить место на точке подключения, и, следовательно, главный объект, который можно подключить. Клиент должен также вызвать метод **IConnectionPointContainer:: Release** , чтобы освободить его на основном подключаемом объекте.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

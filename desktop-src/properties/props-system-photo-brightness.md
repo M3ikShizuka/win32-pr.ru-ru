@@ -4,12 +4,12 @@ ms.assetid: 533f6934-dec8-455a-937c-d4e144be4335
 title: System. photo. яркость
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d28d49464b5d5d081869e514a92fe892a95c1f5a2608412513a2a18b46a51f62
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 131b7e2d51f402aa8da4d5e9b266fe1fc1b39b29
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119033352"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579678"
 ---
 # <a name="systemphotobrightness"></a>System. photo. яркость
 

@@ -4,12 +4,12 @@ ms.assetid: 249446CA-AEF7-41A1-98EB-0B9392AE4AD8
 title: Событие Меконтентпротектионметадата (Мфобжектс. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6d972dc667c7119f01b39bff132b36dfa11c2810960ed638bd41a0cd9336f7d2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1dd72289a900b9c9b96fe9a64d427dab13110d66
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118062291"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579943"
 ---
 # <a name="mecontentprotectionmetadata-event"></a>Событие Меконтентпротектионметадата
 
@@ -57,7 +57,7 @@ ms.locfileid: "118062291"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

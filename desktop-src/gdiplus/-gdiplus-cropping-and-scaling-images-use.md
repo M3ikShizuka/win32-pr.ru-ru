@@ -4,12 +4,12 @@ description: Класс Graphics предоставляет несколько �
 ms.assetid: cad64615-d8e6-4c03-a6c7-c98267a8f159
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1d3684089ddab4ba963a79b80aafa67e94f94d988de5aa7d7d9f65ad31e48bcb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 18c70a7b4f7aa0374602326ab856a01bbadc0047
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118067554"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580043"
 ---
 # <a name="cropping-and-scaling-gdi-images"></a>обрезка и масштабирование GDI+ изображений
 

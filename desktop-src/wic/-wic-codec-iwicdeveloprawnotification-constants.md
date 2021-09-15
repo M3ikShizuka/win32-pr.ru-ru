@@ -4,12 +4,12 @@ ms.assetid: 4e94b4f4-abd9-4395-87ec-a08e49a2cf88
 title: Константы Ивикдевелоправнотификатионкаллбакк (Винкодек. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 885a99ea21ccafdb3961387013d0f6d9f466e48ffe542a3349af7e658b1b1786
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8c8bf5d7cb2f4ac0e6fddd1f2e9151c95143b0cc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119592464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574387"
 ---
 # <a name="iwicdeveloprawnotificationcallback-constants"></a>Константы Ивикдевелоправнотификатионкаллбакк
 
@@ -17,7 +17,7 @@ ms.locfileid: "119592464"
 
 
 
-| Константа/значение                                                                                                                                                                                                                                                                                                                                                                                            | Описание                                                                                                          |
+| Константа/значение                                                                                                                                                                                                                                                                                                                                                                                            | Описание:                                                                                                          |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|
 | <span id="WICRawChangeNotification_ExposureCompensation"></span><span id="wicrawchangenotification_exposurecompensation"></span><span id="WICRAWCHANGENOTIFICATION_EXPOSURECOMPENSATION"></span><dl> <dt>**Викравчанженотификатион \_ Експосурекомпенсатион**</dt> <dt>0x00000001</dt> </dl>             | Маска, используемая для сообщения об изменении компенсации экспозиции.<br/>                                                       |
 | <span id="WICRawChangeNotification_NamedWhitePoint"></span><span id="wicrawchangenotification_namedwhitepoint"></span><span id="WICRAWCHANGENOTIFICATION_NAMEDWHITEPOINT"></span><dl> <dt>**Викравчанженотификатион \_ Намедвхитепоинт**</dt> <dt>0x00000002</dt> </dl>                                 | Маска, используемая для сообщения об изменении [**викнамедвхитепоинт**](/windows/desktop/api/Wincodec/ne-wincodec-wicnamedwhitepoint) .<br/>                 |
@@ -36,7 +36,7 @@ ms.locfileid: "119592464"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -48,7 +48,7 @@ ms.locfileid: "119592464"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

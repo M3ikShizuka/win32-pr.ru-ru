@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - dxva.h
-ms.openlocfilehash: 3d7f27060d0c9e43f1852c86697826986c0c095c14a19fbfafa53978e96cbe79
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 94784ac5fe164d571a8a02e4170990f8ce06a4a1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117878801"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579983"
 ---
 # <a name="idirect3dvideodevice9getuncompresseddxvaformats-method"></a>Метод IDirect3DVideoDevice9:: Жетункомпресседдксваформатс
 
@@ -74,7 +74,7 @@ HRESULT GetUncompressedDXVAFormats(
 
 Драйвер должен возвращать форматы в порядке убывания предпочтений, при этом наиболее предпочтительный формат указан первыми.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -86,7 +86,7 @@ HRESULT GetUncompressedDXVAFormats(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

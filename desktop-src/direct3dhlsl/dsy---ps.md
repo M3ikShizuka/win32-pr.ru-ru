@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 735b0d3ae75abe76e5075b3d22612ad0d56c7a21bab74f29010f47b54d161324
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c5f595d836ed8eb8525175ddb81e743cb7a04811
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119950544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573854"
 ---
 # <a name="dsy---ps"></a>ДСИ-PS
 
@@ -36,7 +36,7 @@ ms.locfileid: "119950544"
 -   DST — это регистр назначения.
 -   src является регистром входного источника.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 
 
@@ -52,7 +52,7 @@ ms.locfileid: "119950544"
 
 Инструкции [ДСКС](dsx---ps.md) и ДСИ вычисляют результат, просмотрев текущее содержимое регистра источника (для каждого компонента) для различных пикселей в локальной области, выполняемой на этапе блокировки. Точная формула, используемая для вычисления градиента, зависит от оборудования, но должна быть согласована с тем, как оборудование выполняет те же операции, что и часть процесса вычисления уровня детализации для выборки текстуры.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

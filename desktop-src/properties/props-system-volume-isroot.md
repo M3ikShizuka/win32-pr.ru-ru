@@ -4,12 +4,12 @@ ms.assetid: 995b0f92-686b-40fb-aed0-5fd500c226f0
 title: System. Volume. в корне
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 374c1e877229ea8f80febcddc95543399488d731f32925a46c2776a97ef5dd9c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a3ff7b089d2c1873c055ba60d6af95c8dbd6bd8f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119095331"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579646"
 ---
 # <a name="systemvolumeisroot"></a>System. Volume. в корне
 

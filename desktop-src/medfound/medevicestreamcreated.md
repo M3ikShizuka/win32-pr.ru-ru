@@ -4,12 +4,12 @@ ms.assetid: 8aaa6908-0f2e-4a73-9362-69f42b74f495
 title: Событие Медевицестреамкреатед (мфтрансформ. h)
 ms.topic: article
 ms.date: 08/31/2018
-ms.openlocfilehash: 99e13dae5db9d680909a435d5520f6b07d7d4b6c11782c340b72fcdd0eddc53a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 632ebc305473cd596656a21f562be25d53c2bace
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117878071"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579942"
 ---
 # <a name="medevicestreamcreated-event"></a>Событие Медевицестреамкреатед
 
@@ -54,7 +54,7 @@ if (nullptr != pMediaEvent)
 return hr;
 ```
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -66,7 +66,7 @@ return hr;
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

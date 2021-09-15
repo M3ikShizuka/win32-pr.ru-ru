@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ee3bffcfd86ba48d737066bd2ca56e6b124a59412704c5f30952e5a70ae71e24
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 72398bdc087e0f7a0845703a2cefea40b5465b21
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119952044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574711"
 ---
 # <a name="float2-structure"></a>Структура float2
 
@@ -99,13 +99,13 @@ ms.locfileid: "119952044"
 | `float x` | Компонент X вектора. |
 | `float y` | Компонент Y вектора. |
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |-|-|
 | Пространство имен | Windows:: Foundation:: numerics |
 | Заголовок | <dl> <dt>Виндовснумерикс. h</dt> </dl> |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 [API-интерфейсы виндовснумерикс. h](windowsnumerics-h-apis-portal.md)
