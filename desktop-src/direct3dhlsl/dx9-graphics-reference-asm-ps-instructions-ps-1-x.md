@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 217e207d2f60d39979c7117cb48e0cb033fd98c6fbfb419642ff43e59759d510
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cc624c3f3b64d41f428f68fcf2643f4600dcdec1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119119738"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573731"
 ---
 # <a name="ps_1_1-ps_1_2-ps_1_3-ps_1_4-instructions"></a>PS \_ 1 \_ 1, PS \_ 1 \_ 2, PS \_ 1 \_ 3, PS \_ 1 \_ 4 инструкции
 
@@ -28,7 +28,7 @@ ms.locfileid: "119119738"
 
 | Версия                                    | Описание                                                                   | Слоты инструкций | 1\_1 | 1\_2 | 1 \_ 3 | 1\_4 |
 |--------------------------------------------|-------------------------------------------------------------------------------|-------------------|------|------|------|------|
-| [PS](ps---ps.md)                          | номер версии;                                                                | 0                 | x    | x    | x    | x    |
+| [ps](ps---ps.md)                          | номер версии;                                                                | 0                 | x    | x    | x    | x    |
 | Постоянные инструкции                      |                                                                               |                   | 1\_1 | 1\_2 | 1 \_ 3 | 1\_4 |
 | [DEF-PS](def---ps.md)                   | Определение констант                                                              | 0                 | x    | x    | x    | x    |
 | Инструкции по этапам                         |                                                                               |                   | 1\_1 | 1\_2 | 1 \_ 3 | 1\_4 |
@@ -76,7 +76,7 @@ ms.locfileid: "119119738"
 1.  1 гнездо в PS \_ 1 \_ 4; 2 слота в PS \_ 1 \_ 2 и PS \_ 1 \_ 3
 2.  1 + 1 = 1 арифметическая Инструкция + 1 Инструкция текстуры
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

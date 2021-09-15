@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 0626449e0a38cb695f5f3c9402969df3a25c192ad7a16ef3311053c7843e0667
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a9dd4476dd7a1a885edb2e62a29b5127f5ff0a14
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119673314"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573726"
 ---
 # <a name="pixel-shader-source-register-modifiers"></a>Модификаторы исходных регистров исходного шейдера пикселей
 
@@ -98,7 +98,7 @@ ms.locfileid: "119673314"
 -   Все константные регистры с плавающей запятой должны использовать модификатор ABS.
 -   Ни один из постоянных регистров с плавающей запятой не может использовать модификатор ABS.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

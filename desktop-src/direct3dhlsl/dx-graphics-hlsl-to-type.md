@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 14ac22ba8c9da7d69784d977e2b78b8f0b52a6a3
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122628120"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573779"
 ---
 # <a name="texture-object"></a>Объект текстуры
 
@@ -66,7 +66,7 @@ ms.locfileid: "122628120"
 <thead>
 <tr class="header">
 <th>Элемент</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -77,7 +77,7 @@ ms.locfileid: "122628120"
 <thead>
 <tr class="header">
 <th>Тип Object1</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -115,7 +115,7 @@ ms.locfileid: "122628120"
 </tr>
 <tr class="odd">
 <td>Тип Object2</td>
-<td>Описание:</td>
+<td>Описание</td>
 </tr>
 <tr class="even">
 <td>Texture2DMS</td>
@@ -173,7 +173,7 @@ Texture2DMS <float4, 128> MyMSTex;
 
 
 
-| Метод текстуры                                                                     | Описание:                                                                                                       | VS \_ 4 \_ 0 | VS \_ 4 \_ 1  | PS \_ 4 \_ 0 | PS \_ 4 \_ 1  | GS \_ 4 \_ 0 | GS \_ 4 \_ 1  |
+| Метод текстуры                                                                     | Описание                                                                                                       | VS \_ 4 \_ 0 | VS \_ 4 \_ 1  | PS \_ 4 \_ 0 | PS \_ 4 \_ 1  | GS \_ 4 \_ 0 | GS \_ 4 \_ 1  |
 |------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------|-----------|----------|-----------|----------|-----------|
 | [калкулателевелофдетаил](dx-graphics-hlsl-to-calculate-lod.md)                    | Вычислите Лод, возвращая результат с фиксацией.                                                                       |          |           |          | x         |          |           |
 | [калкулателевелофдетаилунклампед](dx-graphics-hlsl-to-calculate-lod-unclamped.md) | Вычислите Лод, возвращая несрезный результат.                                                                    |          |           |          | x         |          |           |
@@ -246,13 +246,13 @@ float4 main( float2 TexCoords[2] : TEXCOORD ) : SV_Target
 
 | Модель шейдера                                                        | Поддерживается |
 |---------------------------------------------------------------------|-----------|
-| [Модели шейдеров 4](dx-graphics-hlsl-sm4.md) и более поздних шейдеров | да       |
+| [Модели шейдеров 4](dx-graphics-hlsl-sm4.md) и более поздних шейдеров | yes       |
 
 
 
  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

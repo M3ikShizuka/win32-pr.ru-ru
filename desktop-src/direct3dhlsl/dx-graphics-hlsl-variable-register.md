@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 0102716529471b3e867e17b0e9b635274cdfc28ec603f239d66c76ffb0fdaa19
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2b378cd97bc9779951d62873d393009c98d32823
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119983214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573758"
 ---
 # <a name="register"></a>регистрация
 
@@ -77,7 +77,7 @@ ms.locfileid: "119983214"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Вы можете добавить одно или несколько назначений Register в одно и то же объявление переменной, разделяя их пробелами.
 
@@ -85,7 +85,7 @@ ms.locfileid: "119983214"
 
 ## <a name="examples"></a>Примеры
 
-Ниже приводится несколько примеров.
+Ниже приведены некоторые примеры:
 
 
 ```
@@ -110,7 +110,7 @@ sampler myVar : register( ps, s[2] )
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

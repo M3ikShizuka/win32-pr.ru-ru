@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: e6e545e657e6d9eaded92affba5bbb52a22222db2bf87acd5dddb72335a17ab0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 44f129a87edaff260de87136954be7598ee3acb6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119119758"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573778"
 ---
 # <a name="transpose"></a>переставить
 
@@ -49,7 +49,7 @@ ms.locfileid: "119119758"
 
 Переданное значение параметра *x* .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если измерения исходной матрицы являются *столбцами* *строк* , то результирующая матрица будет *строкой* *столбцов* .
 
@@ -74,7 +74,7 @@ ms.locfileid: "119119758"
 
 | Модель шейдера                                                                       | Поддерживается |
 |------------------------------------------------------------------------------------|-----------|
-| [Модель шейдера 1 (DirectX HLSL)](dx-graphics-hlsl-sm1.md) и более высокие модели шейдеров | Да       |
+| [Модель шейдера 1 (DirectX HLSL)](dx-graphics-hlsl-sm1.md) и более высокие модели шейдеров | yes       |
 
 
 

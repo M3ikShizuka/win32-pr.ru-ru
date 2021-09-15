@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: e91f2beebd3fb13dfe9e166056611bf1942c176b9fa537910c64ab9ff71c625f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9f1909c792863a3b480b6bdec553db58f7ff8492
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118510483"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573711"
 ---
 # <a name="samplegradsamplegradsfloatfloatfloatintfloatuint-function-for-texture2d"></a>Функция Самплеград:: Самплеград (S, float, float, float, int, float, uint) для Texture2D
 

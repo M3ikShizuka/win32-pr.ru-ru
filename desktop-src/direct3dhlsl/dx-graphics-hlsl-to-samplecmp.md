@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: a606ad9081f1ca1fdc4261d862ea6edfef4460989bb6d51d839d85f5797c1466
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6991bead4bfc42451c26fe5476b4c114626eb7e8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119854644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573791"
 ---
 # <a name="samplecmp-directx-hlsl-texture-object"></a>Самплекмп (объект текстуры DirectX HLSL)
 
@@ -95,7 +95,7 @@ float Компаревалуе,<br />
 
 Для каждого шаг текселя, полученного (на основе конфигурации образца режима фильтрации), **самплекмп** выполняет сравнение значения z (третьего компонента входных данных) от шейдера с значением шаг текселя (1, если сравнение пройдет; в противном случае — 0). Затем **самплекмп** объединяет эти 0 и 1 результаты для каждого шаг текселя, как в обычной фильтрации текстур (не в среднем), и возвращает результирующее \[ значение 0.. 1 \] шейдеру.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Фильтрация по сравнению обеспечивает базовую операцию фильтрации, которая полезна для более глубокой фильтрации по процентам.
 

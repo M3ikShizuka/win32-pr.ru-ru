@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: b261cff11a95236e9bc6653c59c16ca0ac221ca719ade7497dbfffa2198da207
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 34891e29a1bb27aead629db2cc7473c7d4329af5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119982944"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573734"
 ---
 # <a name="flow-control-limitations"></a>Flow Ограничения управления
 
@@ -258,7 +258,7 @@ PS \_ 2 \_ 0 не поддерживает управление потоком. 
 
 Независимо от этих правил, накладные расходы остаются на пользователе, чтобы убедиться, что перед вычислением любого градиента (или при выполнении примера текстуры, который неявно вычисляет градиент), регистр, содержащий исходные данные, должен быть инициализирован для всех путей выполнения заранее. Инициализация временных регистров не проверяется и не применяется в целом.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

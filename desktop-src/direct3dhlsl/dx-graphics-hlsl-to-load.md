@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: 01e8fccbf461befd8016d813098a542a98cdc858
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122887220"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573803"
 ---
 # <a name="load-directx-hlsl-texture-object"></a>Load (объект текстуры DirectX HLSL)
 
@@ -169,7 +169,7 @@ float4 PSPaint(PSQuadIn input) : SV_Target
 
 
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

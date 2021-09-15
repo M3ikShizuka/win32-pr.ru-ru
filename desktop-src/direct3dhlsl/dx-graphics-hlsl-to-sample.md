@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: 473a68c44f7e98f1a2d1e1e90711585804482e0d
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122624110"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573806"
 ---
 # <a name="sample-directx-hlsl-texture-object"></a>Пример (объект текстуры HLSL DirectX)
 
@@ -32,7 +32,7 @@ ms.locfileid: "122624110"
 <thead>
 <tr class="header">
 <th>Элемент</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -156,7 +156,7 @@ VS_OUTPUT In;
         Output.RGBColor = g_MeshTexture.Sample(MeshTextureSampler, In.TextureUV) * In.Diffuse;
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Выбор текстуры использует расположение шаг текселя для поиска значения шаг текселя. Смещение можно применить к положению перед подстановкой. Состояние образца содержит параметры выборки и фильтрации. Этот метод может быть вызван в шейдере пикселей, но не поддерживается в шейдере вершин или шейдере Geometry.
 
@@ -174,6 +174,6 @@ VS_OUTPUT In;
 
 Возвращаемый формат данных определяется форматом текстуры. Например, если ресурс текстуры был определен в \_ \_ формате DXGI A8B8G8R8 \_ UNORM \_ sRGB, операция выборки преобразует пример пикселей текстуры из гаммы 2,0 в 1,0, отфильтрует и записывает результат в виде значения с плавающей запятой в диапазоне \[ 0.. 1 \] .
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 [Текстура-объект](dx-graphics-hlsl-to-type.md)

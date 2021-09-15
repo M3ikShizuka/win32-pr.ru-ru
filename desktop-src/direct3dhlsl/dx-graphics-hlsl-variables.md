@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 68e049970ca0d1257de8b75818a1beafcc7d6390653e90335c638298c89d9f70
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5e88ea398e1fcfeb38dc079c625f9633e112d60f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118513000"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573754"
 ---
 # <a name="variables"></a>Переменные
 
@@ -24,7 +24,7 @@ ms.locfileid: "118513000"
 -   [Типы данных](dx-graphics-hlsl-data-types.md)
 -   [Семантика](dx-graphics-hlsl-semantics.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: d278a6104a6c47d84623b185f78b921d61899f296eeaa557a6c6c6d5344097b6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a68da290ecb04e9cb7ae49c5525997fbf4c112a3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119487084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573683"
 ---
 # <a name="setp_comp---ps"></a>сетп \_ comp-PS
 
@@ -37,7 +37,7 @@ ms.locfileid: "119487084"
 
     | Синтаксис | Сравнение            |
     |--------|-----------------------|
-    | \_gt   | Больше чем          |
+    | \_gt   | Больше          |
     | \_светл   | Меньше чем             |
     | \_GE   | Больше или равно |
     | \_Le   | Меньше или равно    |
@@ -52,7 +52,7 @@ ms.locfileid: "119487084"
 -   src0 является исходным регистром.
 -   src1 является исходным регистром.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 
 

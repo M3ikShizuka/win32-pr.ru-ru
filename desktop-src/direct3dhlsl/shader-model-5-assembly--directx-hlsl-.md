@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 8d62936d1b5dd1372e978ed1f5aa4104b44422b574bb8ee364cb7a92e11ffd7c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 64e84cc84741a524bc6592980c5c2aba82f8be74
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119981514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573658"
 ---
 # <a name="shader-model-5-assembly"></a>Сборка Shader Model 5
 
@@ -169,14 +169,14 @@ ms.locfileid: "119981514"
 [ишр](ishr--sm5---asm-.md)  
 [итоф](itof--sm4---asm-.md)  
 [label](label--sm4---asm-.md)  
-[LD](ld--sm4---asm-.md)  
+[ld](ld--sm4---asm-.md)  
 [LD \_ необработанных](ld-raw--sm5---asm-.md)  
 [\_Структура LD](ld-structured--sm5---asm-.md)  
 [\_UAV, \_ тип LD](ld-uav-typed--sm5---asm-.md)  
 [ld2dms](ld2dms--sm4-1---asm-.md)  
 [лод](lod--sm4-1---asm-.md)  
 [Журналь](log--sm4---asm-.md)  
-[loop](loop--sm4---asm-.md)  
+[повторить](loop--sm4---asm-.md)  
 [lt](lt--sm4---asm-.md)  
 [отслеживания](mad--sm4---asm-.md)  
 [max](max--sm4---asm-.md)  
@@ -228,7 +228,7 @@ ms.locfileid: "119981514"
 [XOR](xor--sm4---asm-.md)  
 </dl>
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 
