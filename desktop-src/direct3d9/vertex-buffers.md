@@ -4,12 +4,12 @@ ms.assetid: vs|directx_sdk|~\vertex_buffers.htm
 title: Буферы вершин (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8ceec0f5aee30597b20142945a4ffd3cbcd29500db4113ac2c8dcdd27d045d6e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8e38feb34e7b9f637f383bf451bff812d9ee6fb1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119044002"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580115"
 ---
 # <a name="vertex-buffers-direct3d-9"></a>Буферы вершин (Direct3D 9)
 

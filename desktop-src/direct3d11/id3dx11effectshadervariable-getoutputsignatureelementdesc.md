@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7af968b25a00e32b489a520e9d4a3e870329af910caa8ac1bf45ac49a7ea6132
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 29545754be560a3a7710adf23963566a324d8a3f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118533270"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127581247"
 ---
 # <a name="id3dx11effectshadervariablegetoutputsignatureelementdesc-method"></a>Метод ID3DX11EffectShaderVariable:: Жетаутпутсигнатурилементдеск
 
@@ -87,7 +87,7 @@ HRESULT GetOutputSignatureElementDesc(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -98,7 +98,7 @@ HRESULT GetOutputSignatureElementDesc(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

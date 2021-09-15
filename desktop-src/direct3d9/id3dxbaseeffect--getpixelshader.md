@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: bb948510e2b54582169db5cfdfe4e4f43bf2d931de895cbb06f7f3f3cd1cafce
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e555bac2e20ebab1cb0aec3d313cab8ad05e833e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118094119"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580647"
 ---
 # <a name="id3dxbaseeffectgetpixelshader-method"></a>Метод ID3DXBaseEffect:: Жетпикселшадер
 
@@ -76,7 +76,7 @@ HRESULT GetPixelShader(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

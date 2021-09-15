@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 215083d35bfbdd67cd970bfe31b81a1e19594b2bf849e1c19692fa96af257036
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8b4e2f44a3b67db12bd84f5dd23426c033b99b57
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119377544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580150"
 ---
 # <a name="id3dx11effectscalarvariablesetint-method"></a>Метод ID3DX11EffectScalarVariable:: SetInt
 
@@ -65,7 +65,7 @@ HRESULT SetInt(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

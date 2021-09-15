@@ -50,12 +50,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: f2bd26a3dac291d78b101aa56f186d9b31f7a927b1eca3e29febc7773e3c0939
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d2c94dcf7d454c5f0ea11fcee0bd46655099dfd4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119042462"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580606"
 ---
 # <a name="columndefgrbit-enumeration"></a>Перечисление Колумндефгрбит
 
@@ -81,7 +81,7 @@ Dim instance As ColumndefGrbit
 public enum ColumndefGrbit
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <table>
 <thead>
@@ -94,7 +94,7 @@ public enum ColumndefGrbit
 <tbody>
 <tr class="odd">
 <td></td>
-<td>Нет</td>
+<td>None</td>
 <td>Параметры по умолчанию.</td>
 </tr>
 <tr class="even">
@@ -161,7 +161,7 @@ public enum ColumndefGrbit
 </table>
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

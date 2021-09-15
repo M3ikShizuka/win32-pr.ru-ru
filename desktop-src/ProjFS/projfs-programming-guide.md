@@ -4,12 +4,12 @@ description: Основные сведения о реализации прил�
 ms.assetid: <GUID-GOES-HERE>
 ms.date: 01/17/2020
 ms.topic: article
-ms.openlocfilehash: d935c99b73e11a2110e739a4e45fdde0f7a24300a2664a2b25d6217bd2235fa9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 86c6f49eaf9da578226031eaf84abff7ebb059c0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117792547"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580195"
 ---
 # <a name="projected-file-system-projfs-programming-guide"></a>Руководством по программированию для проектируемой файловой системы (Прожфс)
 

@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 6d22beb277546296a2c071d92e67fe502f12546749b8b8ecb08fe6c43581a154
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d40bb0fdcccb5d630ad9d9011c3c0ed414d93f9f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119364724"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580546"
 ---
 # <a name="esentfilteredmovenotsupportedexception-class"></a>Класс Есентфилтередмовенотсуппортедексцептион
 

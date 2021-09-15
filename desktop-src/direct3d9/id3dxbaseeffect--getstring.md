@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: fda70534e4ffac33dfe62b986f58f6f353bafdbf3988b4bb6908f81425e0cac7
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 74c82bb80603dc4519e717d86297f6529ad36193
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119791034"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580642"
 ---
 # <a name="id3dxbaseeffectgetstring-method"></a>Метод ID3DXBaseEffect:: GetString
 
@@ -65,7 +65,7 @@ HRESULT GetString(
 
 Если метод выполнен успешно, возвращается значение D3D \_ ОК. В случае сбоя метода возвращаемое значение может быть D3DERR \_ инвалидкалл.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,7 +76,7 @@ HRESULT GetString(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

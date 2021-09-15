@@ -14,11 +14,11 @@ api_type:
 api_location:
 - dxva.h
 ms.openlocfilehash: 3090d7868316d08fa91f36dffcc938eb31e06a7d
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105711794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127581066"
 ---
 # <a name="idirect3ddxvadevice9beginframe-method"></a>Метод IDirect3DDXVADevice9:: Бегинфраме
 
@@ -82,7 +82,7 @@ HRESULT BeginFrame(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Для каждого вызова **бегинфраме** декодер должен выполнить соответствующий вызов [**IDirect3DDXVADevice9:: ендфраме**](idirect3ddxvadevice9-endframe.md).
 
@@ -92,9 +92,9 @@ HRESULT BeginFrame(
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                    |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                              |
-| Header<br/>                   | <dl> <dt>Дксва. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                    |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                              |
+| Заголовок<br/>                   | <dl> <dt>Дксва. h</dt> </dl> |
 
 
 
