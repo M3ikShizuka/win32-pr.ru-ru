@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 33640f8e451f7124efda8c0e5377a3145d221668
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122631992"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574375"
 ---
 # <a name="controlgroup-element"></a>Контролграуп, элемент
 
@@ -71,7 +71,7 @@ ms.locfileid: "122631992"
 
 | Элемент                                                                                 | Описание                                        |
 |-----------------------------------------------------------------------------------------|----------------------------------------------------|
-| [**Кнопка**](windowsribbon-element-button.md)<br/>                               | Может происходить один или несколько раз<br/> <br/> |
+| [**Button**](windowsribbon-element-button.md)<br/>                               | Может происходить один или несколько раз<br/> <br/> |
 | [**Установка**](windowsribbon-element-checkbox.md)<br/>                           | Может происходить один или несколько раз<br/> <br/> |
 | [**ComboBox**](windowsribbon-element-combobox.md)<br/>                           | Может происходить один или несколько раз<br/> <br/> |
 | [**контролсизедефинитион**](windowsribbon-element-controlsizedefinition.md)<br/> | Может происходить один или несколько раз<br/> <br/> |
@@ -100,9 +100,9 @@ ms.locfileid: "122631992"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
-Необязательный элемент.
+Необязательный параметр.
 
 Может происходить один или несколько раз для каждого элемента [**Group**](windowsribbon-element-group.md) или **контролграуп** .
 
@@ -211,7 +211,7 @@ ms.locfileid: "122631992"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

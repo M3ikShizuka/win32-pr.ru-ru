@@ -1,6 +1,6 @@
 ---
-title: Использование несжатых потоков аудио и видео
-description: Использование несжатых потоков аудио и видео
+title: использование несжатых аудио и видео Потоки
+description: использование несжатых аудио и видео Потоки
 ms.assetid: 1a8fe604-bd99-4ba1-878f-8e1fd89483b3
 keywords:
 - потоки, Настройка несжатых аудио и видеопотоков
@@ -11,13 +11,13 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: d00d81bd0a9f8c53751e404a0cfb0e55d57d4242
-ms.sourcegitcommit: 48d1c892045445bcbd0f22bafa2fd3861ffaa6e7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/19/2020
-ms.locfileid: "105710239"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574303"
 ---
-# <a name="using-uncompressed-audio-and-video-streams"></a>Использование несжатых потоков аудио и видео
+# <a name="using-uncompressed-audio-and-video-streams"></a>использование несжатых аудио и видео Потоки
 
 В большинстве случаев несжатые носители имеют неограниченные требования к хранению и доставке, но для некоторых сценариев локального воспроизведения уровень качества достаточно важен, чтобы не использовать сжатие.
 
@@ -35,25 +35,25 @@ ms.locfileid: "105710239"
 -   ВММЕДИАСУБТИПЕ \_ UYVY
 -   ВММЕДИАСУБТИПЕ \_ ивю
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
-[**Общая конфигурация для всех потоков**](configuration-common-to-all-streams.md)
+[**общая конфигурация для всех Потоки**](configuration-common-to-all-streams.md)
 </dt> <dt>
 
-[**Настройка звуковых потоков**](configuring-audio-streams.md)
+[**настройка Потоки аудио**](configuring-audio-streams.md)
 </dt> <dt>
 
-[**Настройка потоков**](configuring-streams.md)
+[**настройка Потоки**](configuring-streams.md)
 </dt> <dt>
 
-[**Настройка потоков видео**](configuring-video-streams.md)
+[**настройка Потоки видео**](configuring-video-streams.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

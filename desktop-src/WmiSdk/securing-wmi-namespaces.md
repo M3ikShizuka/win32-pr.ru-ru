@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Защита пространств имен WMI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b3cdf2b6e5c5cf035fed70e3e0dd949a812505f1f1ded8f1599043cdd75ba4c8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f605a6cd1136e70d6c5243b9e143fdb167d41808
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118992374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457855"
 ---
 # <a name="securing-wmi-namespaces"></a>Защита пространств имен WMI
 
@@ -49,7 +49,7 @@ ms.locfileid: "118992374"
 
 </dd> </dl>
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

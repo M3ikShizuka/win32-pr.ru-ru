@@ -4,12 +4,12 @@ ms.assetid: fdb6b0fa-0741-4edc-8902-763a461313b9
 title: System.ItemNameDisplay
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f34e21c0ded147789cadccc99aaf9b2a1910398430419edacc498214c6489d77
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cf735935ee7971acad7d11ee91636e18a6542252
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119598474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458531"
 ---
 # <a name="systemitemnamedisplay"></a>System.ItemNameDisplay
 
@@ -50,10 +50,10 @@ propertyDescription
 
 | Тип элемента     | Пример                   |
 |---------------|---------------------------|
-| File          | hello.txt                 |
-| Message       | Re: где находится собрание? |
+| Файл          | hello.txt                 |
+| Сообщение       | Re: где находится собрание? |
 | Папка устройства | песня. WMA                  |
-| Папка        | Документы                 |
+| Папка        | документы.                 |
 
 
 

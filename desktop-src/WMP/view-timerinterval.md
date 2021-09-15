@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f43b2b7bbd87663a35c43db733d3e11ff0dca5bc3ddfd00e57022b4df7122c3b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 790c95fbb2cded134222271d04c4c37dae412b8d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120001314"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127575622"
 ---
 # <a name="viewtimerinterval"></a>VIEW. Тимеринтервал
 
@@ -44,7 +44,7 @@ ms.locfileid: "120001314"
 
 Любое значение ниже 50 (включая отрицательные числа, но не включая ноль) приводит к ошибке, а предыдущее значение сохраняется.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это не будет срабатывать автоматически, если не реализован обработчик событий OnTime **time** . Поэтому производительность не снижается, несмотря на то, что значение по умолчанию не равно нулю.
 

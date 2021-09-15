@@ -13,12 +13,12 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 9faf3f589e9e3e69c3b8df82bbb6eb2c075d6fba2836b9d8e773b392ad9385c6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d6c67204c7b4fae5275e50d428a0371af4cf2e2a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119351354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579634"
 ---
 # <a name="cpl_dblclk-message"></a>\_Сообщение CPL дблклк
 
@@ -50,7 +50,7 @@ ms.locfileid: "119351354"
 
 В ответ на это сообщение приложение панели управления должно отобразить соответствующее диалоговое окно.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

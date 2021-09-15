@@ -4,12 +4,12 @@ ms.assetid: AF7EA6A0-90C5-49A8-AD68-776BF770A448
 title: Атрибут MFSampleExtension_PinholeCameraIntrinsics (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ebb26cd7931b1dfe2e17dcd1b8dfff8ee7f972f6dad066bee6879f0de12b3609
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5bb9e78641c0baab0e9eda3083aafaf8fe92229f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120113084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580283"
 ---
 # <a name="mfsampleextension_pinholecameraintrinsics-attribute"></a>Мфсампликстенсион \_ пинхолекамераинтринсикс, атрибут
 
@@ -35,7 +35,7 @@ ms.locfileid: "120113084"
 
 Этот атрибут является необязательным для поддержки камер, которые не были откалиброваны.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

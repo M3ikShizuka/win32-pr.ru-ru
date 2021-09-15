@@ -16,11 +16,11 @@ api_type:
 api_location:
 - Wbemdisp.dll
 ms.openlocfilehash: 4bc4f85145926aba2bd050052c33eb5669dfee8a
-ms.sourcegitcommit: c16214e53680dc71d1c07111b51f72b82a4512d8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "103820237"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567215"
 ---
 # <a name="swbemrefreshableitem-object"></a>Объект Свбемрефрешаблеитем
 
@@ -41,7 +41,7 @@ ms.locfileid: "103820237"
 
 | Метод                                        | Описание                                                                                                             |
 |:----------------------------------------------|:------------------------------------------------------------------------------------------------------------------------|
-| [**Отменит**](swbemrefreshableitem-remove.md) | Удаляет объект **свбемрефрешаблеитем** из родительского объекта [**свбемрефрешер**](swbemrefresher.md) .<br/> |
+| [**Удалить**](swbemrefreshableitem-remove.md) | Удаляет объект **свбемрефрешаблеитем** из родительского объекта [**свбемрефрешер**](swbemrefresher.md) .<br/> |
 
 
 
@@ -57,7 +57,7 @@ ms.locfileid: "103820237"
 |:---------------------------------------------------------------|:----------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
 | [**Номер**](swbemrefreshableitem-index.md)<br/>         | Чтение/запись<br/> | Индекс элемента в родительском объекте [**свбемрефрешер**](swbemrefresher.md) .<br/>                                          |
 | [**иссет**](swbemrefreshableitem-isset.md)<br/>         | Чтение/запись<br/> | Указывает, представляет ли объект **свбемрефрешаблеитем** один объект или набор объектов.<br/>                        |
-| [**Объект**](swbemrefreshableitem-object.md)<br/>       | Чтение/запись<br/> | Представляет один объект [**SWbemObject**](swbemobject.md) , который обновляется.<br/>                                          |
+| [**Объектами**](swbemrefreshableitem-object.md)<br/>       | Чтение/запись<br/> | Представляет один объект [**SWbemObject**](swbemobject.md) , который обновляется.<br/>                                          |
 | [**ObjectSet**](swbemrefreshableitem-objectset.md)<br/> | Чтение/запись<br/> | Представляет набор объектов для обновления.<br/>                                                                                |
 | [**Модулю обновления**](swbemrefreshableitem-refresher.md)<br/> | Только для чтения<br/>  | Представляет родительский объект [**свбемрефрешер**](swbemrefresher.md) , содержащий объект **свбемрефрешаблеитем** .<br/> |
 
@@ -127,7 +127,7 @@ MsgBox "Number of items in Refresher after DeleteAll " _
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Wbemdisp. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_СВБЕМРЕФРЕШАБЛЕИТЕМ CLSID<br/>                                                  |

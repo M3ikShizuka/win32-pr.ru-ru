@@ -4,12 +4,12 @@ ms.assetid: 6aebe1cf-bd45-4b02-a3c8-6599bb683d7c
 title: Атрибут MF_PD_ASF_FILEPROPERTIES_PREROLL (Вмконтаинер. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ca6440853e2e3308d3d173350de17274bfbe88aa29c3b634ef7480d36d37fd67
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 502ba715cc2802f9710d579e0c7afd6477b83454
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117692060"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574911"
 ---
 # <a name="mf_pd_asf_fileproperties_preroll-attribute"></a>\_ \_ \_ Атрибут onрулона MF PD ASF филепропертиес \_
 
@@ -19,13 +19,13 @@ ms.locfileid: "117692060"
 
 **UINT64**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут применяется к дескрипторам представления для содержимого ASF.
 
 Метод [**имфасфконтентинфо:: женератепресентатиондескриптор**](/windows/desktop/api/wmcontainer/nf-wmcontainer-imfasfcontentinfo-generatepresentationdescriptor) создает этот атрибут из метаданных ASF.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -37,7 +37,7 @@ ms.locfileid: "117692060"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

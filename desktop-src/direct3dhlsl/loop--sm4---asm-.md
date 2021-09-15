@@ -4,12 +4,12 @@ description: Указывает цикл, который выполняет ит
 ms.assetid: 0BEFADF4-036E-4FDA-9681-10965D6BA9FC
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8dfc3090e71c1101e2c2748924de24f5443363ede76b86130cf63c3a319c76ad
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 243bdf3b370d3505d787451162c22340acef3a45
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119043772"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457995"
 ---
 # <a name="loop-sm4---asm"></a>Loop (SM4-ASM)
 

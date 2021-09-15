@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3dx9.lib
 - D3dx9.dll
-ms.openlocfilehash: 74106bc38367e13cd70af94d0ad12016165aaae24693f19386e69ebe1d7a5cb2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 15a997470fddf5056b7191fcc3226ad210724041
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118987754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580650"
 ---
 # <a name="id3dxbaseeffectgetpassdesc-method"></a>Метод ID3DXBaseEffect:: Жетпассдеск
 
@@ -72,7 +72,7 @@ HRESULT GetPassDesc(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -83,7 +83,7 @@ HRESULT GetPassDesc(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

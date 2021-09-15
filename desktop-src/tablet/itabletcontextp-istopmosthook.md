@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Wisptis.exe
 - Wisptis.exe.dll
-ms.openlocfilehash: 1c7b7e1fa087dad42e7bdc3b803bd7158b8859d1d428714f6eb2c4321687a603
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f62de678085bda723bb13a721d75c349d395787a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118449807"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579466"
 ---
 # <a name="itabletcontextpistopmosthook-method"></a>Метод Итаблетконтекстп:: Истопмоссук
 

@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3D9Types.h
-ms.openlocfilehash: 40162e4350e5a68670023701f1cdae973fb8a7bac3a6d4f5c301136c4e8c2702
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3d96000de50934ebdc893ffc3866dd3252703bdc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118527270"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566658"
 ---
 # <a name="d3dviewport9-structure"></a>Структура D3DVIEWPORT9
 
@@ -40,7 +40,7 @@ typedef struct D3DVIEWPORT9 {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -116,7 +116,7 @@ typedef struct D3DVIEWPORT9 {
 
 При изменении параметров окна просмотра устройства (из-за вызова метода [**сетвиевпорт**](/windows/win32/api/d3d9helper/nf-d3d9helper-idirect3ddevice9-setviewport) ) драйвер создает новую матрицу преобразования.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -126,7 +126,7 @@ typedef struct D3DVIEWPORT9 {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

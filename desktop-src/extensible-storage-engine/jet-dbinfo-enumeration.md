@@ -48,12 +48,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: c364b89ccb50542130c988a643fed594a34e370e5adb5e9d0a13f77eab5b04d8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 39c6c3175c08e4f7644ad4f0b41137e12e84f71d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119112233"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457873"
 ---
 # <a name="jet_dbinfo-enumeration"></a>Перечисление JET_DbInfo
 
@@ -75,7 +75,7 @@ Dim instance As JET_DbInfo
 public enum JET_DbInfo
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <table>
 <thead>
@@ -98,7 +98,7 @@ public enum JET_DbInfo
 </tr>
 <tr class="odd">
 <td></td>
-<td>Параметры</td>
+<td>Варианты</td>
 <td>Возвращает <a href="hh579532(v=exchg.10).md">опендатабасегрбит</a>. Указывает, открыта ли база данных в монопольном режиме. Если база данных находится в монопольном режиме, будет возвращен <a href="hh579532(v=exchg.10).md">монопольный</a> режим, в противном случае возвращается ноль. Другие параметры грбит базы данных для Жетаттачдатабасе и Жетопендатабасе не возвращаются.</td>
 </tr>
 <tr class="even">

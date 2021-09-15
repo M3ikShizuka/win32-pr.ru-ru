@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.colu
 ms:contentKeyID: 55100928
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 2598cc4e316a1b8a6e64d66c79b09722a914dc92f642dd6bb60d842ec7fc5ef4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c868aed7b5ad5dfe23fd6d67437f7b088c4cf99d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118084062"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580587"
 ---
 # <a name="columninfo-properties"></a>Свойства ColumnInfo
 
@@ -64,7 +64,7 @@ ms.locfileid: "118084062"
 </tr>
 <tr class="odd">
 <td><img src="../images/dn292128.pubproperty(exchg.10).gif" title="Открытое свойство" alt="Public property" /></td>
-<td><a href="dn334188(v=exchg.10).md">Имя</a></td>
+<td><a href="dn334188(v=exchg.10).md">имя</a>;</td>
 <td>Возвращает имя столбца.</td>
 </tr>
 </tbody>
@@ -73,7 +73,7 @@ ms.locfileid: "118084062"
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

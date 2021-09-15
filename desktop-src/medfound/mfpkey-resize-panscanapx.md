@@ -4,12 +4,12 @@ ms.assetid: 1aed8614-d856-4885-80fe-c3f2bf3304ad
 title: Свойство MFPKEY_RESIZE_PANSCANAPX (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 22e127601764a9131a5dd494e3c8d6fddc2692106275ad5912bbfdd3b8026951
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 37a30f1bb97e1c21b651f975b43ad8bf871ff066
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119463224"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580298"
 ---
 # <a name="mfpkey_resize_panscanapx-property"></a>МФПКЭЙ \_ изменить размер \_ пансканапкс
 

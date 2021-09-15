@@ -3,9 +3,9 @@ title: ИВМПДВД Топмену, метод
 description: Метод Топмену останавливает воспроизведение и отображает верхнее (или корневое) меню для текущего заголовка.
 ms.assetid: d6eb6311-167d-4cc1-b445-4e3d3e111e43
 keywords:
-- Топмену метод Windows Media Player
-- Топмену метод проигрывателя Windows Media Player, интерфейс ИВМПДВД
-- Интерфейс ИВМПДВД Windows Media Player, метод Топмену
+- проигрыватель Windows Media метода топмену
+- проигрыватель Windows Media метода топмену, интерфейс ивмпдвд
+- проигрыватель Windows Media интерфейса ивмпдвд, метод топмену
 topic_type:
 - apiref
 api_name:
@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 0d59bf126a026626cc7f1ba87ea9d0eb94bd1a91
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105718123"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457964"
 ---
 # <a name="iwmpdvdtopmenu-method"></a>Метод ИВМПДВД:: Топмену
 
@@ -63,7 +63,7 @@ Implements IWMPDVD.topMenu
 
 | Требование | Значение |
 |----------------------|------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/>   | Проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                      |
+| Версия<br/>   | проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                      |
 | Пространство имен<br/> | **вмплиб**<br/>                                                                                                  |
 | Сборка<br/>  | <dl> <dt>Interop.WMPLib.dll (Interop.WMPLib.dll.dll)</dt> </dl> |
 

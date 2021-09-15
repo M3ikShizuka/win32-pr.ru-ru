@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - IACom.dll
-ms.openlocfilehash: 9e6ca9e65b7c14f1df3af00acece8e2ba37c85d6a2193989ab232839f1863c32
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2dbc9d7a0c1cc6ededf5d59585c806b54d6cfa32
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119713472"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574483"
 ---
 # <a name="icontextnode-interface"></a>Интерфейс Иконтекстноде
 
@@ -40,7 +40,7 @@ ms.locfileid: "119713472"
 |:----------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**аддконтекстлинк**](icontextnode-addcontextlink.md)                                   | Добавляет новый [**иконтекстлинк**](icontextlink.md) в коллекцию ссылок контекста объекта **иконтекстноде** .<br/>                                                                                                          |
 | [**аддпропертидата**](icontextnode-addpropertydata.md)                                 | Добавляет часть данных для конкретного приложения.<br/>                                                                                                                                                                         |
-| [**Подтвердить**](icontextnode-confirm.md)                                                 | Изменяет тип подтверждения, который управляет тем, что объект [**иинканализер**](iinkanalyzer.md) может измениться о **иконтекстноде**.<br/>                                                                         |
+| [**Уточнит**](icontextnode-confirm.md)                                                 | Изменяет тип подтверждения, который управляет тем, что объект [**иинканализер**](iinkanalyzer.md) может измениться о **иконтекстноде**.<br/>                                                                         |
 | [**контаинспропертидата**](icontextnode-containspropertydata.md)                       | Определяет, содержит ли объект **иконтекстноде** данные, хранящиеся по указанному идентификатору.<br/>                                                                                                                |
 | [**креатепартиаллипопулатедсубноде**](icontextnode-createpartiallypopulatedsubnode.md) | Создает дочерний объект **иконтекстноде** , который содержит только сведения о типе, идентификаторе и расположении.<br/>                                                                                                          |
 | [**креатесубноде**](icontextnode-createsubnode.md)                                     | Создает новый дочерний объект **иконтекстноде** .<br/>                                                                                                                                                                       |
@@ -76,7 +76,7 @@ ms.locfileid: "119713472"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Типы узлов описаны в константах [типов узлов контекста](context-node-types.md) .
 
@@ -192,7 +192,7 @@ HRESULT CMyClass::ExploreContextNode(
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -205,7 +205,7 @@ HRESULT CMyClass::ExploreContextNode(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

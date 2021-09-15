@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: e45997d3238038d3260594b5e568ca628f170af73dbabf7e382dddb2587dbb4e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ef5c22819e4c582fc354a9069036586e3b7fd028
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118507367"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457785"
 ---
 # <a name="texture2darraygathercmpgreensfloatfloatint2int2int2int2-function"></a>Функция Texture2DArray:: Гасеркмпгрин (S, float, float, int2, int2, int2, int2)
 
@@ -114,7 +114,7 @@ TemplateType GatherCmpGreen(
 
 Значение из четырех компонентов, тип которого совпадает с типом шаблона.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Примеры текстур можно использовать для интерполяции билинейной.
 
@@ -122,7 +122,7 @@ TemplateType GatherCmpGreen(
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Службы вычислений |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | x      | x    | x      | x        | x     | x       |
 
@@ -130,7 +130,7 @@ TemplateType GatherCmpGreen(
 
  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

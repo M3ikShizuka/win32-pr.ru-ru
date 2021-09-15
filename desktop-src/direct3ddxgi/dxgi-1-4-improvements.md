@@ -4,12 +4,12 @@ ms.assetid: DEA901EA-B0F9-41D9-802C-ED1D6A7888E0
 title: Усовершенствования DXGI 1,4
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: aef5777f50a149da6ccb2893bcac8a8f509c86cdff40d94889155c2e5e1eb12c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 24e9a8a48dd026248afac7c1a7df23a99176adef
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118289558"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574063"
 ---
 # <a name="dxgi-14-improvements"></a>Усовершенствования DXGI 1,4
 

@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: 8214287a4afb4c683a94e213cdfed133c03219e2
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122467011"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573922"
 ---
 # <a name="dcl_input-sm4---asm"></a>\_входные данные дкл (SM4-ASM)
 
@@ -85,9 +85,9 @@ dcl_input v0.x, linearCentroid
 
 | Модель шейдера                                              | Поддерживается |
 |-----------------------------------------------------------|-----------|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | Да       |
-| [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | Да       |
-| [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | Да       |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | да       |
+| [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | да       |
+| [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | да       |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет        |
 | [Модель шейдера 2 (DirectX HLSL)](dx-graphics-hlsl-sm2.md) | Нет        |
 | [Модель шейдера 1 (DirectX HLSL)](dx-graphics-hlsl-sm1.md) | Нет        |
@@ -96,7 +96,7 @@ dcl_input v0.x, linearCentroid
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

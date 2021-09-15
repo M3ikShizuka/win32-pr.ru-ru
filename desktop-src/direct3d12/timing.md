@@ -5,12 +5,12 @@ ms.assetid: CC1E5BAB-4363-43FF-BF5B-6C9AEBECD6CA
 ms.localizationpriority: high
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b84676d36523fe23d33946e164d245e1619eb41d0af11a898acc52194348e439
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 979c51b3c88be184cb23afaa2008e90eaec1f9c5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119045372"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457796"
 ---
 # <a name="timing-direct3d-12-graphics"></a>Время (графика Direct3D 12)
 
@@ -47,7 +47,7 @@ D3D12 позволяет приложениям сопоставлять рез�
 > [!IMPORTANT]
 > Для точности используйте арифметические операции с плавающей запятой при вычислении интервала времени в секундах или миллисекундах. Например, используйте `queriedTicks / (double)Frequency` вместо `queriedTicks / Frequency`.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

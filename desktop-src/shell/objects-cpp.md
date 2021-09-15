@@ -9,12 +9,12 @@ api_type: ''
 api_location: ''
 topic_type:
 - kbArticle
-ms.openlocfilehash: b938c8ab17a88657417b2e9ff24e9f05b5146e50e4257af1c9dafa69642ecc5d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7ba595c7e993cb1366dff6fea2fec231018d21d5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118719811"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460372"
 ---
 # <a name="shell-objects-for-c"></a>Объекты оболочки для C++
 

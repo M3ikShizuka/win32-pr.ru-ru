@@ -4,12 +4,12 @@ ms.assetid: 1C687FEC-276D-4759-A3B8-9A2A31CB0DE1
 title: Атрибут MF_CAPTURE_ENGINE_DISABLE_HARDWARE_TRANSFORMS (Mfcaptureengine. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7818e79a78ab346ffb8a1967569fdd8711e2b948e0eb656f032770487d8820ef
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d9631804c61fab953793c3f89d1eac3dc2e8f4dc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119956814"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580411"
 ---
 # <a name="mf_capture_engine_disable_hardware_transforms-attribute"></a>\_Атрибут MF \_ \_ Отключить \_ аппаратные \_ преобразования для ядра записи
 

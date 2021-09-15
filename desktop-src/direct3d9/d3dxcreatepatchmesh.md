@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: aa4e1292f4b5c42515351d89dc7fc039f1f6f29201da72a78e07f447818e0f91
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 375052e240973f56af32825f74caccf6f9411d75
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118988644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127575247"
 ---
 # <a name="d3dxcreatepatchmesh-function"></a>Функция D3DXCreatePatchMesh
 
@@ -115,7 +115,7 @@ HRESULT D3DXCreatePatchMesh(
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод принимает сетку входного исправления и преобразует ее в тесселяцию сетки. В сетчатых обновлениях используются 16-битные буферы индексов. Таким образом, индексы для [**локкиндексбуффер**](id3dxpatchmesh--lockindexbuffer.md) являются 16 битами.
 

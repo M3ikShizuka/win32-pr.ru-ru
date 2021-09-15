@@ -13,12 +13,12 @@ api_type:
 - IDLDef
 api_location:
 - HttpRequest.idl
-ms.openlocfilehash: 2db50abfa413fc8ed80724ce2955407624c836a14809da678989753668794f6c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: dab3dc14dd194e36b9b4d1225f77161005b9d21b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119899084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457861"
 ---
 # <a name="winhttprequestautologonpolicy-enumeration"></a>Перечисление Винхттпрекуестаутологонполици
 
@@ -62,7 +62,7 @@ typedef enum WinHttpRequestAutoLogonPolicy {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы задать политику автоматического входа в систему, вызовите метод [**сетаутологонполици**](iwinhttprequest-setautologonpolicy.md) и укажите одну из приведенных выше констант.
 

@@ -21,11 +21,11 @@ api_location:
 - ESENT.DLL
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 3e6263916211e5d21e0032ba6de8d98e46fedfa9
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122989077"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580514"
 ---
 # <a name="jetbeginsession-function"></a>Функция JetBeginSession
 
@@ -86,7 +86,7 @@ _**Применимо к:** Windows | Windows Сервером_
 
 В случае сбоя отсутствуют доступные сеансы или не удалось инициализировать новый сеанс.
 
-#### <a name="remarks"></a>Комментарии
+#### <a name="remarks"></a>Remarks
 
 При использовании сеансов в разных потоках необходимо тщательное внимание. Сеанс отслеживает, какой поток использовался во время [жетбегинтрансактион](./jetbegintransaction-function.md), [жеткоммиттрансактион](./jetcommittransaction-function.md)или [жетроллбакк](./jetrollback-function.md), и при использовании в нескольких потоках с открытой транзакцией возникает ошибка. [Жетресетсессионконтекст](./jetresetsessioncontext-function.md), [жетсетсессионконтекст](./jetsetsessioncontext-function.md) может изменить это поведение. Так как сеанс по-прежнему является сериализованным контекстом, и несколько операций с базой данных не могут выполняться одновременно в одном сеансе, только последовательно. Однако можно использовать несколько сеансов для достижения параллельного доступа к базе данных. Сеансы можно использовать внутри транзакции в потоках путем установки и сброса контекстов сеанса.
 
@@ -95,13 +95,13 @@ _**Применимо к:** Windows | Windows Сервером_
 #### <a name="requirements"></a>Требования
 
 
-| Требование | Применение |
+| Требование | Значение |
 |------------|----------|
 | <p><strong>Клиент</strong></p> | <p>требуется Windows Vista, Windows XP или Windows 2000 Professional.</p> | 
 | <p><strong>Server</strong></p> | <p>требуется Windows server 2008, Windows server 2003 или сервер Windows 2000.</p> | 
 | <p><strong>Header</strong></p> | <p>Объявлено в ESENT. h.</p> | 
 | <p><strong>Библиотека</strong></p> | <p>Используйте ESENT. lib.</p> | 
-| <p><strong>КОМПОНОВКИ</strong></p> | <p>Требуется ESENT.dll.</p> | 
+| <p><strong>DLL</strong></p> | <p>Требуется ESENT.dll.</p> | 
 | <p><strong>Юникод</strong></p> | <p>Реализуется как <strong>жетбегинсессионв</strong> (Юникод) и <strong>жетбегинсессиона</strong> (ANSI).</p> | 
 
 

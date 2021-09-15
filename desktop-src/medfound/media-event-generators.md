@@ -4,12 +4,12 @@ ms.assetid: 2e003ad4-9fcb-4834-a335-e4969ffd3a00
 title: Генераторы событий мультимедиа
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b24bd37b347fb06f97448b43241a1da40123195b63b9191b97581be60d7378ab
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 125bf165740b0260f9131e0df8af420c8a669d97
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119724164"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579927"
 ---
 # <a name="media-event-generators"></a>Генераторы событий мультимедиа
 

@@ -4,12 +4,12 @@ ms.assetid: 30e3c10b-1310-4194-8b83-221dfe73b03c
 title: Задание свойств в объекте Контентинфо
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c17d82a05540512be34ba0d327ce006aa6215774da86a14ebfcf4339c85ab361
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e386d5eb33dd1893b195a870425b2336ab9c316f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119101804"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574790"
 ---
 # <a name="setting-properties-in-the-contentinfo-object"></a>Задание свойств в объекте Контентинфо
 

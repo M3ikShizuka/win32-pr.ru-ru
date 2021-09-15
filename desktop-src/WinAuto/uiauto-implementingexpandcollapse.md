@@ -15,12 +15,12 @@ keywords:
 - интерфейсы, Иекспандколлапсепровидер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2b7fa1461110a7fcdee83b8b3c20c15653e7bd5740187b89337620f5410b2bf7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 45bd28ddcc201dcff0a4811a1eb8e04670f93091
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119998044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567251"
 ---
 # <a name="expandcollapse-control-pattern"></a>Шаблон элемента управления ExpandCollapse
 
@@ -32,7 +32,7 @@ ms.locfileid: "119998044"
 
 -   [Правила и соглашения реализации](#implementation-guidelines-and-conventions)
 -   [Обязательные члены для **иекспандколлапсепровидер**](#required-members-for-iexpandcollapseprovider)
--   [Связанные темы](#related-topics)
+-   [Связанные разделы](#related-topics)
 
 ## <a name="implementation-guidelines-and-conventions"></a>Правила и соглашения реализации
 
@@ -69,7 +69,7 @@ ms.locfileid: "119998044"
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: Как Microsoft Active Accessibility, так и Microsoft UI Autom
 ms.assetid: 4b8e551f-aba7-4a89-8874-ba690175f525
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 732ebd21cc6d198040e5502554ce2a8cf1abb718c055bc9af9f88e0c5d123b4b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 695fad8f050606f0a95a1780551d35499e39d166
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118994194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457957"
 ---
 # <a name="handling-the-wm_getobject-message"></a>Обработка сообщения WM \_ GetObject
 

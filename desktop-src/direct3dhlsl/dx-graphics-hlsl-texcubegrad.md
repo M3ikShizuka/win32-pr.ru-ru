@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 831cfafcdc970a785bb702cabeac5b7ef881526421ef5ada9cb05cd1b407ce6f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 694382488754c221c59df72112678a5971e62c0b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119119888"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580618"
 ---
 # <a name="texcubegrad"></a>текскубеград
 
@@ -58,7 +58,7 @@ ms.locfileid: "119119888"
 
 | Имя | В/Из | [**Тип шаблона**](dx-graphics-hlsl-intrinsic-functions.md)                       | [**Тип компонента**](dx-graphics-hlsl-intrinsic-functions.md) | Размер |
 |------|--------|-------------------------------------------------------------------------------------|----------------------------------------------------------------|------|
-| s    | in     | [**объектами**](dx-graphics-hlsl-intrinsic-functions.md) | [самплеркубе](dx-graphics-hlsl-sampler.md)                    | 1    |
+| s    | in     | [**object**](dx-graphics-hlsl-intrinsic-functions.md) | [самплеркубе](dx-graphics-hlsl-sampler.md)                    | 1    |
 | t    | in     | [**уязвимо**](dx-graphics-hlsl-intrinsic-functions.md) | [**сделать**](/windows/desktop/WinProg/windows-data-types)                        | 3    |
 | DDX  | in     | [**уязвимо**](dx-graphics-hlsl-intrinsic-functions.md) | [**сделать**](/windows/desktop/WinProg/windows-data-types)                        | 3    |
 | дди  | in     | [**уязвимо**](dx-graphics-hlsl-intrinsic-functions.md) | [**сделать**](/windows/desktop/WinProg/windows-data-types)                        | 3    |

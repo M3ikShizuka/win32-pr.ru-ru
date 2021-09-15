@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Scanprofilemgr.h
 ms.openlocfilehash: a8c3167bd428054054a32d7823ce57e562501533
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105702225"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458788"
 ---
 # <a name="iscanprofilemgrgetnumprofiles-method"></a>Метод Исканпрофилемгр:: Жетнумпрофилес
 
@@ -42,7 +42,7 @@ HRESULT GetNumProfiles(
 *пулнумпрофилес* \[ заполняет\]
 </dt> <dd>
 
-Тип: **ulong \** _
+Тип: **ulong \***
 
 Указатель на число профилей, созданных для пользователя.
 
@@ -50,7 +50,7 @@ HRESULT GetNumProfiles(
 
 ## <a name="return-value"></a>Возвращаемое значение
 
-Тип: _ *HRESULT**
+Тип: **HRESULT**
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
@@ -60,9 +60,9 @@ HRESULT GetNumProfiles(
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                              |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                        |
-| Header<br/>                   | <dl> <dt>Сканпрофилемгр. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                              |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                        |
+| Заголовок<br/>                   | <dl> <dt>Сканпрофилемгр. h</dt> </dl> |
 | IDL<br/>                      | <dl> <dt>Сканпрофилес. idl</dt> </dl> |
 
 

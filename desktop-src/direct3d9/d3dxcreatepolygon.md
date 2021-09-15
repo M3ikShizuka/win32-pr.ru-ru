@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: cf3694bb247fb95e654452c8db3887fcebc2832ac28ec0b2ac920b28f285e22d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 94a7e48f512d25ca53d1f3ff80889a013e2ecdcb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119045152"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127575246"
 ---
 # <a name="d3dxcreatepolygon-function"></a>Функция D3DXCreatePolygon
 
@@ -95,7 +95,7 @@ HRESULT D3DXCreatePolygon(
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, D3DXERR \_ INVALIDDATA, E \_ OUTOFMEMORY.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Созданный многоугольник выравнивается по центру в источнике.
 

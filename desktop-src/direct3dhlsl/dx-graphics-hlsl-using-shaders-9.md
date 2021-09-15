@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: a1ef04c14682aa6e763222fd0c8db0e2eedf33abf747da97a16b2b1621e1c42a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6455b47d24c1c83683ce8b85c48990bb32e221ae
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119119748"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573766"
 ---
 # <a name="using-shaders-in-direct3d-9"></a>Использование шейдеров в Direct3D 9
 
@@ -23,7 +23,7 @@ ms.locfileid: "119119748"
 -   [Привязка параметра шейдера к определенному регистру](#binding-a-shader-parameter-to-a-particular-register)
 -   [Визуализация программируемого шейдера](#rendering-a-programmable-shader)
 -   [Отладка шейдеров](#debugging-shaders)
--   [Связанные темы](#related-topics)
+-   [Связанные разделы](#related-topics)
 
 ## <a name="compiling-a-shader-for-specific-hardware"></a>Компиляция шейдера для определенного оборудования
 
@@ -87,7 +87,7 @@ float4 k_s : register(c12);
 
 расширение DirectX для Microsoft Visual Studio .net представляет собой полностью интегрированный отладчик HLSL в среде IDE Visual Studio, интегрированной в среду разработки .net. чтобы подготовиться к отладке шейдера, необходимо установить нужные инструменты на компьютере (см. раздел [отладка шейдеров в Visual Studio (Direct3D 9)](dx-graphics-hlsl-debug-visual-studio.md)).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

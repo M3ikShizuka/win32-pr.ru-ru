@@ -7,12 +7,12 @@ keywords:
 - безоконный контроль ActiveX, MSAA
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b3d086fdc33c1b645294827ec62784612ffeb617f12caf5a101ea8472da3e765
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9de45313b19490af3c3fffb633f3822ad93d25a4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118115135"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457952"
 ---
 # <a name="how-to-host-an-msaa-windowless-activex-control"></a>размещение элемента управления ActiveX без окна MSAA
 
@@ -32,7 +32,7 @@ ms.locfileid: "118115135"
 -   безоконные элементы управления ActiveX
 -   Серверы Microsoft Active Accessibility
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="step-1-provide-the-root-iaccessible-interface-on-behalf-of-the-windowless-control"></a>Шаг 1. предоставление корневого интерфейса IAccessible от имени элемента управления без окон.
 
@@ -60,7 +60,7 @@ ms.locfileid: "118115135"
 
     
 
-    | Основание диапазона | Размер диапазона | Элемент   |
+    | Основание диапазона | Размер диапазона | Control   |
     |------------|------------|-----------|
     | 1000       | 500        | Элемент управления 1 |
     | 1500       | 1000       | Управление 2 |

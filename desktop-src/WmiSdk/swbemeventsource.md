@@ -1,5 +1,5 @@
 ---
-description: Объект Свбемевентсаурце извлекает события из запроса события в сочетании с SWbemServices.ExeКнотификатионкуери.
+description: Объект Свбемевентсаурце извлекает события из запроса события в сочетании с SWbemServices. Ексекнотификатионкуери.
 ms.assetid: 7efd5e6a-4311-4d20-8b05-e9208eec098a
 ms.tgt_platform: multiple
 title: Объект Свбемевентсаурце (Wbemdisp. h)
@@ -15,16 +15,16 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: e38dab258ebccacb24cf92b7445752102b297ab1207b99e40355c30fde99113d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8da55a7b6722c263fe9a3fb0af7a8db07d672e12
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118992144"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458360"
 ---
 # <a name="swbemeventsource-object"></a>Объект Свбемевентсаурце
 
-Объект **свбемевентсаурце** извлекает события из запроса события в сочетании с [**SWbemServices.Exeкнотификатионкуери**](swbemservices-execnotificationquery.md). При вызове **SWbemServices.Exeкнотификатионкуери** для создания запроса события вы получаете объект **свбемевентсаурце** . Затем можно использовать метод [**некстевент**](swbemeventsource-nextevent.md) для получения событий по мере их поступления. Не удается создать этот объект с [помощью вызова функции](/previous-versions//xzysf6hc(v=vs.85)) VBScript.
+Объект **свбемевентсаурце** извлекает события из запроса события в сочетании с [**SwbemServices. ексекнотификатионкуери**](swbemservices-execnotificationquery.md). Вы получаете объект **свбемевентсаурце** , если вызывается метод **SwbemServices. ексекнотификатионкуери** для создания запроса события. Затем можно использовать метод [**некстевент**](swbemeventsource-nextevent.md) для получения событий по мере их поступления. Не удается создать этот объект с [помощью вызова функции](/previous-versions//xzysf6hc(v=vs.85)) VBScript.
 
 ## <a name="members"></a>Элементы
 
@@ -41,13 +41,13 @@ ms.locfileid: "118992144"
 
 | Метод                                          | Описание                                                                                                                                  |
 |:------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|
-| [**некстевент**](swbemeventsource-nextevent.md) | Используется для получения события в сочетании с [**SWbemServices.Exeкнотификатионкуери**](swbemservices-execnotificationquery.md).<br/> |
+| [**некстевент**](swbemeventsource-nextevent.md) | Используется для получения события в сочетании с [**SwbemServices. ексекнотификатионкуери**](swbemservices-execnotificationquery.md).<br/> |
 
 
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Объект **свбемевентсаурце** имеет следующие свойства.
 
@@ -99,7 +99,7 @@ wend
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Wbemdisp. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_СВБЕМЕВЕНТСАУРЦЕ CLSID<br/>                                                      |

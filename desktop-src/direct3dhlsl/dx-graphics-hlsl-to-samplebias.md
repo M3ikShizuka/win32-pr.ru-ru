@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: a279a92db9d38c8f0a8e80edbd87ec667d580d05
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122624530"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573798"
 ---
 # <a name="samplebias-directx-hlsl-texture-object"></a>Самплебиас (объект текстуры DirectX HLSL)
 
@@ -38,7 +38,7 @@ ms.locfileid: "122624530"
 <thead>
 <tr class="header">
 <th>Элемент</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -147,7 +147,7 @@ ms.locfileid: "122624530"
 1.  Текстурекубеаррай доступен в модели шейдеров 4,1 или более поздней версии.
 2.  Модель шейдеров 4,1 доступна в Direct3D 10,1 или более поздней версии.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

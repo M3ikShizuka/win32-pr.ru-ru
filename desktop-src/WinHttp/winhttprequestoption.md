@@ -13,12 +13,12 @@ api_type:
 - IDLDef
 api_location:
 - HttpRequest.idl
-ms.openlocfilehash: ff4112538aff4c76c02e251f45e9dc78e6778633de6a5d93f6892dd87ff70c43
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 32ae65f43cd04027027e43d29c49ed0f68f29c9f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119051882"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457860"
 ---
 # <a name="winhttprequestoption-enumeration"></a>Перечисление Винхттпрекуестоптион
 
@@ -92,7 +92,7 @@ typedef enum WinHttpRequestOption {
 
 
 
-| Error                                                  | Значение  |
+| Ошибка                                                  | Значение  |
 |--------------------------------------------------------|--------|
 | Неизвестный центр сертификации (ЦС) или недоверенный корень | 0x0100 |
 | Неправильное использование                                            | 0x0200 |
@@ -229,7 +229,7 @@ typedef enum WinHttpRequestOption {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Задайте параметр, указав одну из предыдущих констант в качестве параметра свойства [**Option**](iwinhttprequest-option.md) .
 
@@ -238,7 +238,7 @@ typedef enum WinHttpRequestOption {
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -251,7 +251,7 @@ typedef enum WinHttpRequestOption {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

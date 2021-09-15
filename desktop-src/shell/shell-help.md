@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Shell32.dll
-ms.openlocfilehash: 3bd471f4252caaf33edfd5429160b6ff8a2b0bdd901507a7f2074dff95509e10
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bfb4e9b3272355c41d13526d2e526515ff65d42b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118968563"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579542"
 ---
 # <a name="shellhelp-method"></a>Shell. Help, метод
 

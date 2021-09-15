@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: a3a1566ae6ab68a313bea8defa411ea08ca88c773ccc6ebb74a09c8351fb5f40
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 712ec7d1d06430c4ac2fac76de4e22f2ed7a2fab
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117723427"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457720"
 ---
 # <a name="texturecubegatherredsfloatuint-function"></a>Функция Текстурекубе:: Гасерред (S, float, uint)
 
@@ -74,7 +74,7 @@ TemplateType GatherRed(
 
 Значение из четырех компонентов, тип которого совпадает с типом шаблона.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Примеры текстур можно использовать для интерполяции билинейной.
 
@@ -82,7 +82,7 @@ TemplateType GatherRed(
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Службы вычислений |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | x      | x    | x      | x        | x     | x       |
 
@@ -90,7 +90,7 @@ TemplateType GatherRed(
 
  
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

@@ -23,11 +23,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 30e0eb87174ed11bb2d3f2e409309d6a62261dad
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104070056"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458233"
 ---
 # <a name="ui-automation-support-for-textual-content"></a>Поддержка модели автоматизации пользовательского интерфейса для текстового содержимого
 
@@ -40,11 +40,11 @@ ms.locfileid: "104070056"
 -   [Атрибуты текста модели автоматизации пользовательского интерфейса](uiauto-textattributes.md)
 -   [Текстовые модули для автоматизации пользовательского интерфейса](/windows/desktop/WinAuto/uiauto-uiautomationtextunits)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Шаблоны элементов управления Text и TextRange](uiauto-implementingtextandtextrange.md)
@@ -56,6 +56,6 @@ ms.locfileid: "104070056"
 [Основы модели автоматизации пользовательского интерфейса](entry-uiautocore-overview.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 

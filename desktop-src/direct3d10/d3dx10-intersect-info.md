@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - D3DX10.h
-ms.openlocfilehash: d4f660066205a626d6718bf8bd473d54d1d761f9ee499dd0c25a178d9846a0be
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 203daa48e766edd545bf232c4f8d94c4f17b5b2a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119753554"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566735"
 ---
 # <a name="d3dx10_intersect_info-structure"></a>\_ \_ Структура сведений о ПЕРЕСЕЧЕНии D3DX10
 
@@ -38,7 +38,7 @@ typedef struct D3DX10_INTERSECT_INFO {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 

@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: aafafd2ff7162dcb50bd5e2ea92cd56ab9f073332238dc0742845f9c48c5a588
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 24a894638465c0362069b8fdcbacddf98bfdd2c1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118747417"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458819"
 ---
 # <a name="mpsample_data-structure"></a>\_Структура данных мпсампле
 
@@ -37,7 +37,7 @@ typedef struct tagMPSAMPLE_DATA {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -60,7 +60,7 @@ typedef struct tagMPSAMPLE_DATA {
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                            |
 | Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Мпклиент. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мпклиент. h</dt> </dl> |
 
 
 

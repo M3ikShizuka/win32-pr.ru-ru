@@ -4,12 +4,12 @@ ms.assetid: d82fd82d-510e-4004-b18b-8f2372e29701
 title: диспетчер устройств Direct3D
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6a2031e336fafd7b98fb02d23fea84c36d27d0f4d3093f0d20991fb8777d6434
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5aeff41b790df9537854ab715724d95cee646168
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118064198"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574934"
 ---
 # <a name="direct3d-device-manager"></a>диспетчер устройств Direct3D
 

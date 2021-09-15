@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: ebc607bf10be8b94fa5274e5539953344c99c263db13dec6f8982146f60f4551
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4b16eed97c891b4b4f5bd283496868d99f9e0fbc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118991794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567210"
 ---
 # <a name="swbemservicesassociatorsofasync-method"></a>SWbemServices. АссоЦиаторсофасинк, метод
 
@@ -63,14 +63,14 @@ SWbemServices.AssociatorsOfAsync( _
 *обжвбемсинк* 
 </dt> <dd>
 
-Обязательный. Приемник объекта, который асинхронно получает объекты. Создайте объект [**свбемсинк**](swbemsink.md) для получения объектов.
+Обязательный элемент. Приемник объекта, который асинхронно получает объекты. Создайте объект [**свбемсинк**](swbemsink.md) для получения объектов.
 
 </dd> <dt>
 
 *стробжектпас* 
 </dt> <dd>
 
-Обязательный. Строка, содержащая путь к объекту исходного класса или экземпляра. Дополнительные сведения см. [в разделе Описание расположения объекта WMI](describing-the-location-of-a-wmi-object.md).
+Обязательный элемент. Строка, содержащая путь к объекту исходного класса или экземпляра. Дополнительные сведения см. [в разделе Описание расположения объекта WMI](describing-the-location-of-a-wmi-object.md).
 
 </dd> <dt>
 
@@ -229,7 +229,7 @@ SWbemServices.AssociatorsOfAsync( _
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот вызов возвращает немедленно. Запрошенные объекты и состояние возвращаются вызывающему объекту через обратные вызовы, доставляемые в приемник, указанный в *обжвбемсинк*. Чтобы обработать каждый объект при его возврате, создайте *обжвбемсинк*. Подпрограммы события [**онобжектреади**](swbemsink-onobjectready.md) . После возврата всех объектов можно выполнить окончательную обработку в реализации *обжвбемсинк*. Событие [**Oncompleteed**](swbemsink-oncompleted.md) .
 

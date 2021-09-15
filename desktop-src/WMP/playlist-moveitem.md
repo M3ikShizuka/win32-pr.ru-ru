@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a725ae53e38d1903d31dc47a3362f90c29fb064e3a785b816de0d0b695998aee
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 06e2e48b2987af4becd8c07357ff2eecf137f31d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117746857"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458404"
 ---
 # <a name="playlistmoveitem-method"></a>Метод списка воспроизведения. Мовеитем
 

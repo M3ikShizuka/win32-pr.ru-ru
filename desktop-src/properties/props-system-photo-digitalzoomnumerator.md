@@ -4,12 +4,12 @@ ms.assetid: d497d550-88bf-49dc-99d2-464a7caaac5f
 title: System. photo. Дигиталзумнумератор
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d555fbab7118b606dc8bbca8784099a7d69b76d1b48f3fee130401e7b918ce5b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 373c220fe6261b0fe4d01a79b97f64e8560be7c3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119716504"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460663"
 ---
 # <a name="systemphotodigitalzoomnumerator"></a>System. photo. Дигиталзумнумератор
 

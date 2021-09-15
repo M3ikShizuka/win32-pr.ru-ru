@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Shell32.dll
-ms.openlocfilehash: 963581431c35e2c63cbe9af4f5b37ef6d0709d01146a223253247ad2b8c37dda
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f15c2471f749748f7928a45aa03037d955c75d4a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120090604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460477"
 ---
 # <a name="folderitemverbs-method"></a>FolderItem. Verbs, метод
 

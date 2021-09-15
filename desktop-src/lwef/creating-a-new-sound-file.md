@@ -4,12 +4,12 @@ description: Создание нового звукового файла
 ms.assetid: ebaa0578-f5f0-4b36-bc5c-99178cc99299
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: dfdb0a8c40044a7bbab068bbd0afbcfbd400a785d4e912745da8a0870bc26b5e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5b7bbf5c846f21b45e2c98bc5264c7e7d453c396
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118480106"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567562"
 ---
 # <a name="creating-a-new-sound-file"></a>Создание нового звукового файла
 

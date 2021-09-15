@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: d52bc0c07ee6c86015ad1b997f2f21e33dda9a1d
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369745"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458215"
 ---
 # <a name="rotflags"></a>ротфлагс
 
@@ -25,7 +25,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AppID
       ROTFlags = flags
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это значение **reg \_ DWORD** .
 
@@ -45,7 +45,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AppID
 
 Запись должна существовать в кусте **" \_ локальный \_ компьютер" hKey** . Эта запись предоставляет сервер "Активация в качестве активатора" с теми же функциональными возможностями, которые **ротфлагс \_ аллованиклиент** предоставляет для сервера запуска от имени.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

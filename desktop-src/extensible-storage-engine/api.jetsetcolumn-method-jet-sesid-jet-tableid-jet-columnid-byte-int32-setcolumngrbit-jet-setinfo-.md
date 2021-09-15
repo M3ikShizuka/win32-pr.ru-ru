@@ -21,11 +21,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 5afebba00c784abf5bf71ac0f524376bd0f3b066
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105713016"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567114"
 ---
 # <a name="apijetsetcolumn-method-jet_sesid-jet_tableid-jet_columnid-byte--int32-setcolumngrbit-jet_setinfo"></a>Метод API. Жетсетколумн (JET_SESID, JET_TABLEID, JET_COLUMNID, Byte, Int32, Сетколумнгрбит, JET_SETINFO)
 
@@ -134,7 +134,7 @@ public static JET_wrn JetSetColumn(
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс API](./api-class.md)
 

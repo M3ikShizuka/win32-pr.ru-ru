@@ -4,12 +4,12 @@ ms.assetid: 3151c369-9d2b-4f03-9a4a-9b9267314dc1
 title: Атрибут MF_SD_SAMI_LANGUAGE (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e70436244779dddf97ef8277c5c1e2cd8c74cfaa25a90e63472d07d32c36b56d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cfd476c86ddde7d369265c5302192e4a7c01295f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119102330"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572806"
 ---
 # <a name="mf_sd_sami_language-attribute"></a>\_ \_ Атрибут языка MF SD Sami \_
 
@@ -21,7 +21,7 @@ ms.locfileid: "119102330"
 
 Строка расширенных символов
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Имя языка SAMI указывается в файле SAMI.
 
@@ -35,7 +35,7 @@ ms.locfileid: "119102330"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                               |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 

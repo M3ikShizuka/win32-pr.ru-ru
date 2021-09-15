@@ -16,11 +16,11 @@ api_type:
 api_location:
 - Wbemdisp.dll
 ms.openlocfilehash: 37bb44e8c34aa3cd7f9d491656461097e5a2bb5a
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104272745"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458220"
 ---
 # <a name="iswbemsinkcancel-method"></a>Метод Исвбемсинк:: Cancel
 
@@ -108,7 +108,7 @@ set objwbemsink= Nothing
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>Wbemdisp. idl</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_СВБЕМСИНК CLSID<br/>                                                             |

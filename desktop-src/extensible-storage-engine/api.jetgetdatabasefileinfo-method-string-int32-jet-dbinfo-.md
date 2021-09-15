@@ -21,11 +21,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 7a7d873d3688d6c18ff01a20c5e5c53809fbcdad
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105710949"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567123"
 ---
 # <a name="apijetgetdatabasefileinfo-method-string-int32-jet_dbinfo"></a>Метод API. Жетжетдатабасефилеинфо (String, Int32, JET_DbInfo)
 
@@ -67,7 +67,7 @@ public static void JetGetDatabaseFileInfo(
 
 <!-- end list -->
 
-  - значение  
+  - value  
     Тип: [System. Int32](/dotnet/api/system.int32)  
     
     Получаемое значение.
@@ -81,7 +81,7 @@ public static void JetGetDatabaseFileInfo(
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс API](./api-class.md)
 

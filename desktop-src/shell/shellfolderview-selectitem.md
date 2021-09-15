@@ -1,6 +1,6 @@
 ---
 description: Шеллфолдервиев. Селектитем, метод — задает состояние выбора элемента в представлении.
-title: Шеллфолдервиев. Селектитем, метод (Шлдисп. h)
+title: Метод ShellFolderView.SelectItem (Shldisp.h)
 ms.topic: reference
 ms.date: 05/31/2018
 topic_type:
@@ -14,11 +14,11 @@ api_location:
 - Shell32.dll
 ms.assetid: 91c39d4c-56c3-4c2b-93e8-9f782ca0aa93
 ms.openlocfilehash: ab0f65094f638c56df6a10434f9a404072278c55
-ms.sourcegitcommit: 3caaa3c92dcb1ef12f84464d14ce6262e65e988e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109842555"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579523"
 ---
 # <a name="shellfolderviewselectitem-method"></a>Шеллфолдервиев. Селектитем, метод
 
@@ -134,7 +134,7 @@ ShellFolderView.SelectItem(
 
 ## <a name="examples"></a>Примеры
 
-В следующем примере показано правильное использование этого метода в JScript Embedded в HTML.
+в следующем примере показано правильное использование этого метода в JScript, внедренном в HTML.
 
 
 ```JScript
@@ -189,13 +189,13 @@ ShellFolderView.SelectItem(
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ классических приложений Windows XP\]<br/>                                         |
+| Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ настольных приложений Windows XP\]<br/>                                         |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                           |
 | Заголовок<br/>                   | <dl> <dt>Шлдисп. h</dt> </dl>                           |
 | IDL<br/>                      | <dl> <dt>Шлдисп. idl</dt> </dl>                         |

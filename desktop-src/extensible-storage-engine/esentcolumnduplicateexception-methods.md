@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55101218
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 7bc248c72f4cc9bba8dfc638bad768316bf7d5378553125d6424c30640a67202
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 39b449f201dbcd5c543990f9340817e35f38f33d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117714257"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457892"
 ---
 # <a name="esentcolumnduplicateexception-methods"></a>Методы EsentColumnDuplicateException 
 
@@ -28,7 +28,7 @@ ms.locfileid: "117714257"
 <tr class="header">
 <th> </th>
 <th>Имя</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>

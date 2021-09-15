@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: 0913e3ee84271b2f09681826513337d45a3e5c70
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122626880"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573959"
 ---
 # <a name="dcl_constantbuffer-sm4---asm"></a>дкл \_ константбуффер (SM4-ASM)
 
@@ -39,7 +39,7 @@ ms.locfileid: "122626880"
 <thead>
 <tr class="header">
 <th>Элемент</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -54,7 +54,7 @@ ms.locfileid: "122626880"
 <thead>
 <tr class="header">
 <th>Имя</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -122,7 +122,7 @@ dcl_constantbuffer  cb0[19], immediateIndexed
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

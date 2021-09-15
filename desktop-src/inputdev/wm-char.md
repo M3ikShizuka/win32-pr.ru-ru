@@ -15,12 +15,12 @@ api_type:
 ms.topic: reference
 ms.custom: snippet-project
 ms.date: 07/28/2020
-ms.openlocfilehash: 16f9f1160f9766bd6284f62f2203b940ab6336f326aa31a0d9fa2894d243cf59
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8d174f64fa776b506814540d4f2c97635fba38a1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118247953"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580023"
 ---
 # <a name="wm_char-message"></a>\_Сообщение WM char
 
@@ -130,7 +130,7 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam)
 [**WM \_ уничар**](wm-unichar.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с клавиатуры](keyboard-input.md)

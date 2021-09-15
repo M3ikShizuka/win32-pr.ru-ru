@@ -5,11 +5,11 @@ title: Меню «Файл»
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: cc008fc799196f9df6334a8bd9b9f310f3db7ea2
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122473150"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458165"
 ---
 # <a name="file-menu"></a>Меню «Файл»
 

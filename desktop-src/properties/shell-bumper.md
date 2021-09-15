@@ -4,12 +4,12 @@ ms.assetid: 238c95eb-951e-43d3-8125-86e849cd31d7
 title: Shell (система свойств Windows)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 75750ac7c93c7c47cff59960596a8d674c24189a7b308dd135274a87a5598b97
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d10f49fa956826977195c167a927da1bb25f78bd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118463899"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460587"
 ---
 # <a name="shell-windows-property-system"></a>Shell (система свойств Windows)
 

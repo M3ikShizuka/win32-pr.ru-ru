@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4fb566bf8925c8d6a79b107ce440504318d188c9b7ab551dd7dc405fa80dcd48
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4969a4cba3c874a2c5ec857b8a3e737c74bff420
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118116789"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457760"
 ---
 # <a name="viewmaxwidth"></a>VIEW. maxWidth
 
@@ -31,7 +31,7 @@ ms.locfileid: "118116789"
 
 Этот атрибут является **числом** для чтения и записи (**длинное**) и имеет нулевое или большее значение. Он имеет нулевое значение по умолчанию, что означает отсутствие ограничений на максимальную ширину **представления**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "118116789"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также:
 
 <dl> <dt>
 

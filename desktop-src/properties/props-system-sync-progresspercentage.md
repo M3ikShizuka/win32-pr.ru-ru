@@ -4,12 +4,12 @@ ms.assetid: 88ff4ca0-183c-4e9a-a240-ee69ef6eaf38
 title: System. Sync. ProgressPercentage
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5a25ee53de0a24fffb1a639e82e723a6f7798fa7eb6d6543c0d0f9b9d58e348f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3f005332e870fcd5b187918e1caaf5aae0880634
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119033302"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579667"
 ---
 # <a name="systemsyncprogresspercentage"></a>System. Sync. ProgressPercentage
 

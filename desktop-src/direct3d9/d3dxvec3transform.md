@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 655182ab36206abc77252de4df89f61d2b4e4e9dcf3d26ced1ba011f12960eea
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5128be3fd9e0409b403006fdb1de3c9c48f6aee4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119044502"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566638"
 ---
 # <a name="d3dxvec3transform-function-d3dx9mathh"></a>Функция D3DXVec3Transform (D3dx9math. h)
 
@@ -81,7 +81,7 @@ D3DXVECTOR4* D3DXVec3Transform(
 
 Возвращаемое значение для этой функции совпадает со значением, возвращаемым в параметре *тоска* . Таким образом, функция **D3DXVec3Transform** может использоваться в качестве параметра для другой функции.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -92,7 +92,7 @@ D3DXVECTOR4* D3DXVec3Transform(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

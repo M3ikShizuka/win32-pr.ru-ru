@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2fd025d78c5d4fb3a3fca20cdb6ba6bf092c45465e7e738ddd4c1921301c6899
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1f0dc2344c95bf3d0b09448277f1522baa879c80
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119053862"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458637"
 ---
 # <a name="wmoriginalalbumtitle-attribute"></a>Атрибут WM/Оригиналалбумтитле
 
@@ -27,7 +27,7 @@ ms.locfileid: "119053862"
 
 -   [Музыкальные файлы](music-file-attributes.md)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут хранится только в музыкальном файле, который отсутствует в библиотеке.
 
@@ -35,7 +35,7 @@ ms.locfileid: "119053862"
 
 Чтобы определить, можно ли изменить значение этого атрибута, используйте метод [Media. исреадонлитем](media-isreadonlyitem.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -45,7 +45,7 @@ ms.locfileid: "119053862"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

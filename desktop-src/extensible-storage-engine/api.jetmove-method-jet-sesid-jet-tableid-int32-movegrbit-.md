@@ -21,11 +21,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: f6d77914a3dc4728626db8e4ffe271851099e5e3
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105712927"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567723"
 ---
 # <a name="apijetmove-method-jet_sesid-jet_tableid-int32-movegrbit"></a>Метод API. Жетмове (JET_SESID, JET_TABLEID, Int32, Мовегрбит)
 
@@ -91,7 +91,7 @@ public static void JetMove(
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс API](./api-class.md)
 

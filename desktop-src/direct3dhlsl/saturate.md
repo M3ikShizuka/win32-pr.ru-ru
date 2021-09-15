@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 25e771bd53dbb8a4b0d2eaf8162675cd556c071344b249562defe4a06e715f5a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 05b6048777ac7b6ecd2c4b59ff3c9e0287380949
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118790747"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573687"
 ---
 # <a name="saturate-hlsl-reference"></a>Насыщенность (ссылка HLSL)
 
@@ -45,9 +45,9 @@ ms.locfileid: "118790747"
 
 | Модель шейдера                                              | Поддерживается |
 |-----------------------------------------------------------|-----------|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | Да       |
-| [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | Да       |
-| [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | Да       |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | yes       |
+| [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | yes       |
+| [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | yes       |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет        |
 | [Модель шейдера 2 (DirectX HLSL)](dx-graphics-hlsl-sm2.md) | Нет        |
 | [Модель шейдера 1 (DirectX HLSL)](dx-graphics-hlsl-sm1.md) | Нет        |

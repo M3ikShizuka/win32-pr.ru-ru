@@ -17,11 +17,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 1b6c6b8a4de359e8313e3127080f2cc17ae6478c
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105710476"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567167"
 ---
 # <a name="bits_file_property_id-enumeration"></a>Перечисление BITS_FILE_PROPERTY_ID
 
@@ -55,9 +55,9 @@ typedef enum _BITS_FILE_PROPERTY_ID {
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только для настольных приложений Windows 10 версии 1709\]<br/>                                         |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server версии 1709\]<br/>                                     |
-| Header<br/>                   | <dl> <dt>Deliveryoptimization. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 10, только для \[ настольных приложений версии 1709\]<br/>                                         |
+| Минимальная версия сервера<br/> | Windows Server, только для \[ настольных приложений версии 1709\]<br/>                                     |
+| Заголовок<br/>                   | <dl> <dt>Deliveryoptimization. h</dt> </dl> |
 
 
 

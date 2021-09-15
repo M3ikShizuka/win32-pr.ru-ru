@@ -13,12 +13,12 @@ keywords:
 - видеопотоки, переходы изображений
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3b0a915f34ac9a2dcc00f8bcec739d48051361c1744e8e455166d56238529d9c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cbfd02628a78196a73750c2c0ff6b9e9c3d6729c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119771244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458907"
 ---
 # <a name="video-image-transitions"></a>Переходы по изображениям видео
 

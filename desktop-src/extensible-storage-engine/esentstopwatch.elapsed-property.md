@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 02d60a19f799d5470711e9479b7ce0b28e190cdc63a23f853aa45a02d60aa70d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5609d22ec8702bcf02ff36857e469a0426558e90
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118490501"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580071"
 ---
 # <a name="esentstopwatchelapsed-property"></a>Есентстопватч. Elapsed, свойство
 

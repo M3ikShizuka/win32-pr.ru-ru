@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 1acf4a62d72892d1cd25a5f2276e71d52ab7f700
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369478"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457947"
 ---
 # <a name="shell-com"></a>Оболочка (COM)
 
@@ -29,7 +29,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes
             command = path %1
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эти записи должны предоставить путь и имя файла приложения.
 

@@ -4,12 +4,12 @@ ms.assetid: 62efd1cc-a2ae-4e53-a0f2-4822b8c91c42
 title: Политика метаданных фотографии System. GPS. DOP
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c7c414b7cb8648210175953e4c7b5f51a66f026cb45a06fd4d62918f2f8ac369
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6c33f3bfc6b958593748396124a8cfd1a7de73fd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119087792"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579399"
 ---
 # <a name="systemgpsdop-photo-metadata-policy"></a>Политика метаданных фотографии System. GPS. DOP
 
@@ -41,7 +41,7 @@ VT \_ R8
 
 
 
-| Номер | Путь                          | Формат диска   | Обязательно |
+| Порядок | Путь                          | Формат диска   | Обязательно |
 |-------|-------------------------------|---------------|----------|
 | 1     | /КСМП/ексиф: ГПСДОП              | Рациональное XMP  | Да      |
 | 2     | /APP1/IFD/GPS/ \\ {UShort = 11 \\ } | Рациональное воссебе EXIF | Нет       |
@@ -56,7 +56,7 @@ VT \_ R8
 
 
 
-| Номер | Путь                     | Формат диска   | Обязательно |
+| Порядок | Путь                     | Формат диска   | Обязательно |
 |-------|--------------------------|---------------|----------|
 | 1     | /ИФД/КСМП/ексиф: Гпсдоп     | Рациональное XMP  | Да      |
 | 2     | /ИФД/ГПС/ \\ {UShort = 11 \\ } | Рациональное воссебе EXIF | Нет       |

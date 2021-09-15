@@ -4,12 +4,12 @@ ms.assetid: 87fa1127-46ca-4b83-a3b5-99253af22ba0
 title: Атрибут MF_MT_AAC_AUDIO_PROFILE_LEVEL_INDICATION (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 89934c55ff07124c28952c621513ddd4fd8db504c6e9df7cc6094f8ba7b875ed
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 116bfc2b41cff3cbd92fc9a60be150ea598e1cc0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119104570"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572846"
 ---
 # <a name="mf_mt_aac_audio_profile_level_indication-attribute"></a>\_ \_ \_ \_ \_ Атрибут индикации уровня профиля аудиоподсистемы \_ MF MT AAC
 
@@ -29,7 +29,7 @@ ms.locfileid: "119104570"
 
 [**имфмедиатипе**](/windows/desktop/api/mfobjects/nn-mfobjects-imfmediatype)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут содержит значение поля **аудиопрофилелевелиндикатион** , как определено в стандарте ISO/IEC 14496-3.
 

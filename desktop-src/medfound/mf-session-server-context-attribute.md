@@ -4,12 +4,12 @@ ms.assetid: a922c79b-d6c1-447d-b6fa-993970169a3f
 title: Атрибут MF_SESSION_SERVER_CONTEXT (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fc9674a2e25a7cdfd0a88ebcc43c18d6fd636bf22116f76a24255b55f857a677
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b1ce68d1dcd4318f68c4547845e6ce12d2f3aaca
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119102340"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574890"
 ---
 # <a name="mf_session_server_context-attribute"></a>\_ \_ Атрибут контекста сервера сеанса MF \_
 
@@ -19,7 +19,7 @@ ms.locfileid: "119102340"
 
 **IUnknown\***
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Используйте этот атрибут, если вы хотите создать сеанс мультимедиа PMP в существующем процессе PMP. Значение атрибута является указателем на интерфейс [**имфпмпсервер**](/windows/desktop/api/mfidl/nn-mfidl-imfpmpserver) .
 
@@ -33,7 +33,7 @@ ms.locfileid: "119102340"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                               |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 

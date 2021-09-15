@@ -4,12 +4,12 @@ ms.assetid: 903ad358-a060-4c8f-b72e-5ec2eb898248
 title: документбиндинггуттер
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 202c961f0d21f0a40d45fc03a8c7c3f088f803fbecc4701a24554f9dff1ae038
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 45839aa07d740d8498e477809b45aa823460b23f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118056612"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574666"
 ---
 # <a name="documentbindinggutter"></a>документбиндинггуттер
 
@@ -77,7 +77,7 @@ XML-структура этого элемента:
 | DefaultValue<br/> | Целое число<br/> | неопределенный<br/>       |
 | MaxValue<br/>     | Целое число<br/> | неопределенный<br/>       |
 | MinValue<br/>     | Целое число<br/> | неопределенный<br/>       |
-| Обязательный<br/>    | Строковый тип<br/>  | PSK: условный<br/> |
+| Обязательный<br/>    | Строка<br/>  | PSK: условный<br/> |
 | Несколько<br/>     | целое число<br/> | 1<br/>               |
 | Единицах UnitType<br/>     | строка<br/>  | мкм<br/>         |
 

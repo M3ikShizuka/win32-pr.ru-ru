@@ -4,12 +4,12 @@ ms.assetid: 60484f87-7588-4b52-93aa-ef8fad66d971
 title: Атрибут MF_ACTIVATE_CUSTOM_VIDEO_MIXER_ACTIVATE (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1966efe66efaba56c0206a9f6fac59aba30a1aea9d47100c4ce19a30af96a863
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9d6268f3630b013235f3d365e0b8ab0578c9dd3e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117877301"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580426"
 ---
 # <a name="mf_activate_custom_video_mixer_activate-attribute"></a>MF \_ Активация \_ пользовательского \_ \_ микшера \_ активации атрибута
 
@@ -30,7 +30,7 @@ ms.locfileid: "117877301"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -42,7 +42,7 @@ ms.locfileid: "117877301"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

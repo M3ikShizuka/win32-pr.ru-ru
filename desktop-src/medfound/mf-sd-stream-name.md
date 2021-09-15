@@ -4,12 +4,12 @@ ms.assetid: 80235820-761f-4deb-9bf6-82ef402b3ee4
 title: Атрибут MF_SD_STREAM_NAME (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 312ca788b03c3bef075c2c51d06df921d258e7372c091c5ccb43ec248444fcfc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 734c2d20390ba1a450a40c03054b4c67c5c0409a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118474061"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572802"
 ---
 # <a name="mf_sd_stream_name-attribute"></a>\_ \_ Атрибут имени потока MF SD \_
 
@@ -29,7 +29,7 @@ ms.locfileid: "118474061"
 
 [**имфстреамдескриптор**](/windows/desktop/api/mfidl/nn-mfidl-imfstreamdescriptor)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Источник AVI Media устанавливает этот атрибут, если AVI-файл содержит фрагмент «стрн».
 
@@ -43,7 +43,7 @@ ms.locfileid: "118474061"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | \[приложения UWP для классических приложений Windows 7 \|\]<br/>                                  |
 | Минимальная версия сервера<br/> | Windows \[Приложения UWP для настольных приложений Server 2008 R2 \|\]<br/>                     |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 

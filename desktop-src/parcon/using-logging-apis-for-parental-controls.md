@@ -4,12 +4,12 @@ ms.assetid: 6c38a634-53ba-4e76-83bf-1a3f36efb0bc
 title: Использование API ведения журнала для родительского контроля
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 571a24f8bdbf687f8c1975cfc29057035ac56747edc0459682512531194c55a4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 37d1cedb9ff02856be6ea1ae2069d8635b980681
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117869066"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574691"
 ---
 # <a name="using-logging-apis-for-parental-controls"></a>Использование API ведения журнала для родительского контроля
 

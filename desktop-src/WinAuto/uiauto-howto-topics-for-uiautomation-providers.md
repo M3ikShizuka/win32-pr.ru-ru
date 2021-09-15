@@ -4,12 +4,12 @@ description: В этом разделе содержатся примеры ко
 ms.assetid: 49a2c425-76a9-4cb4-8223-c7c085facff3
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 72bf290be21a613ebd8c7e622a776f6e99cc1dacbaebec54453b2865f6d2cc75
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 33229cdf59b21c739890e86bdd56f481ce033344
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119759184"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567263"
 ---
 # <a name="how-to-topics-for-ui-automation-providers"></a>How-To статьи о поставщиках автоматизации пользовательского интерфейса
 
@@ -24,7 +24,7 @@ ms.locfileid: "119759184"
 -   [Поддержка шаблонов элементов управления в поставщике автоматизации пользовательского интерфейса](uiauto-howto-support-controlpatterns-in-provider.md)
 -   [Создание поставщика автоматизации пользовательского интерфейса Client-Side (прокси)](uiauto-howto-create-clientside-provider.md)
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

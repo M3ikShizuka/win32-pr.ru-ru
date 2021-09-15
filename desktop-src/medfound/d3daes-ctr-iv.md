@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3d9types.h
-ms.openlocfilehash: 09535b432ff1af60ad33b622810d0d8a4d190cb81650214aa71b445ba3c22f4c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6e0d543fb0e57ae34f181e7ff0f40a1a1f8222b8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118974793"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572870"
 ---
 # <a name="d3daes_ctr_iv-structure"></a>Структура D3DAESного \_ \_ вектора
 
@@ -36,7 +36,7 @@ typedef struct _D3DAES_CTR_IV {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -54,7 +54,7 @@ typedef struct _D3DAES_CTR_IV {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Структура **D3DAES \_ и \_ вектор** IV для [**DXVA2 \_ AES \_ \_**](/windows/desktop/api/dxva2api/ns-dxva2api-dxva2_aes_ctr_iv) эквивалентны.
 

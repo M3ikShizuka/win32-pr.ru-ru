@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - d3d9types.h
-ms.openlocfilehash: 9d7d4daaec3d52b7aabafe61c5763304c400b6a36be1367e01b0a9163f2f9e38
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5119da4e7efaf0c27db1065dacc56e3388a77474
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119828684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574958"
 ---
 # <a name="d3dauthenticatedquery_accessibilityattributes"></a>D3DAUTHENTICATEDQUERY \_ акцессибилитяттрибутес
 
@@ -36,7 +36,7 @@ ms.locfileid: "119828684"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот запрос также возвращает сведения о доступности содержимого при помещении в видеопамять.
 
@@ -45,7 +45,7 @@ ms.locfileid: "119828684"
 -   **\_Оборудование драйвера \_ D3DAUTHENTICATEDCHANNEL**
 -   **\_ \_ Программное обеспечение драйвера D3DAUTHENTICATEDCHANNEL**
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -57,7 +57,7 @@ ms.locfileid: "119828684"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

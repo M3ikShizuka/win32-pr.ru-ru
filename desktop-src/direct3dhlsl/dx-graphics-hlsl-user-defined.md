@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: ee73cd5afcda15bcc821d7fea5b648924829d483a33b9c67c140eed0b100e861
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 2107e3eb2b2dc2362776a1a9ecd50830519c6627
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119789314"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573771"
 ---
 # <a name="user-defined-type"></a>Определяемый пользователем тип
 
@@ -47,7 +47,7 @@ ms.locfileid: "119789314"
 
 В дополнение к встроенным внутренним типам данных HLSL поддерживает определяемые пользователем или пользовательские типы, которые следуют этому синтаксису:
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В определяемых пользователем типах регистр символов не учитывается. Для удобства следующие типы автоматически определяются в области супер-Глобальная.
 
@@ -88,7 +88,7 @@ typedef vertexshader VERTEXSHADER;
 
 
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

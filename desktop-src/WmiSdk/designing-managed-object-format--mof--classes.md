@@ -11,11 +11,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: 201f8c45f7a247fbca5695baa6dd440fc5dc323f
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104265380"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127575359"
 ---
 # <a name="designing-managed-object-format-mof-classes"></a>Разработка классов MOF-файл (MOF)
 
@@ -33,7 +33,7 @@ ms.locfileid: "104265380"
 -   [Определение объектов для управления](#defining-the-objects-to-manage)
 -   [Определение свойств или методов](#defining-properties-or-methods)
 -   [Связывание объектов друг с другом](#relating-objects-to-each-other)
--   [См. также](#related-topics)
+-   [Связанные темы](#related-topics)
 
 ## <a name="defining-the-objects-to-manage"></a>Определение объектов для управления
 
@@ -78,7 +78,7 @@ ms.locfileid: "104265380"
 -   Если экземпляр является полезным для себя, то Ассоциация работает лучше. Например, [**Win32 \_ Process**](/windows/desktop/CIMWin32Prov/win32-process) и [**Win32 \_ UserAccount**](/windows/desktop/CIMWin32Prov/win32-useraccount). Дополнительные сведения см. в разделе [объявление класса ассоциации](declaring-an-association-class.md).
 -   Если экземпляр не существует за пределами родительского объекта, лучше подходит внедренный объект. Например, [**Win32 \_ SecurityDescriptor**](/previous-versions/windows/desktop/secrcw32prov/win32-securitydescriptor) и [**\_ ACE Win32**](/previous-versions/windows/desktop/secrcw32prov/win32-ace). Дополнительные сведения см. [в разделе внедрение объектов в класс](embedded-objects.md).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

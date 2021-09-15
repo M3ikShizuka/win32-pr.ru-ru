@@ -4,12 +4,12 @@ ms.assetid: 700f61f4-a0d7-4b69-ace5-356e4e29b93d
 title: Атрибут MF_PD_AUDIO_ENCODING_BITRATE (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 041e92eb71621d1f42d2b800557d204215bbca40f346a2afa4627863fc1a2206
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 49566ecb225482ef6513e056de8ba11763de603e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119102881"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580346"
 ---
 # <a name="mf_pd_audio_encoding_bitrate-attribute"></a>\_Атрибут скорости \_ звуковой \_ кодировки MF PD \_
 
@@ -40,7 +40,7 @@ ms.locfileid: "119102881"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Приложения UWP для классических приложений Vista \|\]<br/>                              |
 | Минимальная версия сервера<br/> | Windows \[Приложения UWP для классических приложений сервера 2008 \|\]<br/>                        |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 

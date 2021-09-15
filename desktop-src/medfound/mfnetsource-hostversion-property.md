@@ -4,12 +4,12 @@ ms.assetid: eee93457-483d-41dc-91c5-c12382d03152
 title: Свойство MFNETSOURCE_HOSTVERSION (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1d5f78a277de4fc5b0609be31f21f684357806dbb8609657a930cdc4816b1e43
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f10c1a66bc2ab52455140733a6b60f25863c8f3d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118243464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127572754"
 ---
 # <a name="mfnetsource_hostversion-property"></a>МФНЕТСАУРЦЕ \_ хостверсион, свойство
 
@@ -31,7 +31,7 @@ VT \_ i8
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Константа **мфнетсаурце \_ хостверсион** определяет идентификатор GUID для этого ключа свойства. Идентификатор свойства (PID) равен нулю.
 
@@ -45,11 +45,11 @@ VT \_ i8
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                               |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также статью
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

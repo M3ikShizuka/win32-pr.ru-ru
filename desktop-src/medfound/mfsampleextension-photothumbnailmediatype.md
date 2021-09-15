@@ -4,12 +4,12 @@ ms.assetid: BA727189-385D-4BA1-9F17-AC6ECDD20ABF
 title: Атрибут MFSampleExtension_PhotoThumbnailMediaType (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 77496340d598c7caf1064df0d3fc7e1ae7f112309bf6fbba6a66f3d5516e3828
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: bb0e415fb0d3b062b4a5064006d3873cd42ea593
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119713604"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580286"
 ---
 # <a name="mfsampleextension_photothumbnailmediatype-attribute"></a>Мфсампликстенсион \_ фотосумбнаилмедиатипе, атрибут
 

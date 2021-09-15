@@ -4,12 +4,12 @@ ms.assetid: ffe663ce-3e9a-4dfc-8904-6f055332c119
 title: Пример списка воспроизведения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5e5cad2ef96c76512947a5b74e7eac54e3ad5787218e625f30fea5b8e5164177
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f83d05762385d0de43a5d7f2bcd73cda2c6e2d51
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118239131"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580242"
 ---
 # <a name="playlist-sample"></a>Пример списка воспроизведения
 

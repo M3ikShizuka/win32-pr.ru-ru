@@ -4,12 +4,12 @@ description: Чтобы получить имя сетевого ресурса,
 ms.assetid: 7c02cf9a-cca3-47d8-8a4b-f2245f1db92a
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 264a7352fb10139df538d5803fc94966b276fa334f2e4ef5f2c0799e1c32c4cf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1ac84aec3c6aafb8a5113ea29251247a1de35aec
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118566831"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458382"
 ---
 # <a name="retrieving-the-connection-name"></a>Получение имени подключения
 

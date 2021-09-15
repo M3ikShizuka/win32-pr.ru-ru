@@ -4,12 +4,12 @@ ms.assetid: c662a6d6-5e0b-4c28-841d-5774d4103d4b
 title: Свойство MFNETSOURCE_PLAYERUSERAGENT (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c4b431780345c8b297bf154813a9713b5b158ecc99cc4384294ee983b8066ddf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f9f4d06eaea566e22e1239ed04594f2f592c7cd6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118243426"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580318"
 ---
 # <a name="mfnetsource_playeruseragent-property"></a>МФНЕТСАУРЦЕ \_ плайерусеражент, свойство
 
@@ -45,11 +45,11 @@ VT \_ LPWSTR
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                               |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также статью
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

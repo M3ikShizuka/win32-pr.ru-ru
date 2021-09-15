@@ -4,12 +4,12 @@ description: Завершает оператор Loop.
 ms.assetid: 0BEFADF4-036E-4FDA-9681-10965D6BA9FC
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3c266ea3dc4a4b1feba1264c20f31eb85e910ad6d69e63a42832ee9bb88082c3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 655fa6addd19a6ce9f6f6b20a2677ef43cb8b751
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119119508"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567798"
 ---
 # <a name="endloop-sm4---asm"></a>ендлуп (SM4-ASM)
 
@@ -24,7 +24,7 @@ ms.locfileid: "119119508"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В следующем примере показано, как использовать эту инструкцию.
 
@@ -60,9 +60,9 @@ ms.locfileid: "119119508"
 
 | Модель шейдера                                              | Поддерживается |
 |-----------------------------------------------------------|-----------|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | Да       |
-| [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | Да       |
-| [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | Да       |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | да       |
+| [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | да       |
+| [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | да       |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет        |
 | [Модель шейдера 2 (DirectX HLSL)](dx-graphics-hlsl-sm2.md) | Нет        |
 | [Модель шейдера 1 (DirectX HLSL)](dx-graphics-hlsl-sm1.md) | Нет        |
@@ -71,7 +71,7 @@ ms.locfileid: "119119508"
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

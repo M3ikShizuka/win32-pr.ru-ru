@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Создание скриптов для объектов API
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cd639e1b1ca482a2b1aa95a4e0a6a26672480660440af290c043814ce5f8e965
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e30d3269b137686472f54cdb8cf53720b4aad978
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119050312"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457692"
 ---
 # <a name="scripting-api-objects"></a>Создание скриптов для объектов API
 
@@ -23,7 +23,7 @@ API скриптов для WMI Reference описывает каждый объ
 | Объект                                               | Описание                                                                                                                                                                                                                                            |
 |------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**SWbemDateTime**](swbemdatetime.md)               | Конструирует и анализирует значения даты и [времени](date-and-time-format.md) CIM.                                                                                                                                                                                 |
-| [**свбемевентсаурце**](swbemeventsource.md)         | Получает события в сочетании с [**SWbemServices.Exeкнотификатионкуери**](swbemservices-execnotificationquery.md).                                                                                                                               |
+| [**свбемевентсаурце**](swbemeventsource.md)         | Получает события в сочетании с [**SwbemServices. ексекнотификатионкуери**](swbemservices-execnotificationquery.md).                                                                                                                               |
 | [**свбемластеррор**](swbemlasterror.md)             | Предоставляет расширенные сведения об ошибке при возникновении ошибки.                                                                                                                                                                                              |
 | [**SWbemLocator**](swbemlocator.md)                 | Получает объект [**SwbemServices**](swbemservices.md) , который может получить доступ к инструментарию WMI на определенном компьютере узла.                                                                                                                                     |
 | [**свбеммесод**](swbemmethod.md)                   | Содержит одно определение метода WMI.                                                                                                                                                                                                               |

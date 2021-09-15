@@ -10,11 +10,11 @@ api_location: ''
 topic_type:
 - kbArticle
 ms.openlocfilehash: a535619fd38a0a557546f97f0a6ace64a065b61c
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122885640"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579546"
 ---
 # <a name="islibrarypinned-element-library-schema"></a>Элемент Ислибрарипиннед (схема библиотеки)
 
@@ -42,7 +42,7 @@ ms.locfileid: "122885640"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 если значение — true, библиотека закреплена на панели навигации обозревателя Windows.
 

@@ -4,12 +4,12 @@ ms.assetid: 43284B3E-3018-44F3-8D6C-8C3041DCCD3E
 title: Событие Мекаптуреаудиосессионсервершутдовн (Мфобжектс. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: beb19d72a207866ceb405baacd11dbb3f91f059abb3d3855feba159040c27760
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ad934f6d60868c1db7c5b5b7907ff720312ea439
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118974263"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579958"
 ---
 # <a name="mecaptureaudiosessionservershutdown-event"></a>Событие Мекаптуреаудиосессионсервершутдовн
 

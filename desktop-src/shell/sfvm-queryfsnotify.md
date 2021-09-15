@@ -4,12 +4,12 @@ ms.assetid: 5d777115-bae3-47c4-9edc-c99c40a4f926
 title: Сообщение SFVM_QUERYFSNOTIFY (Шлобж. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 932650257ddb039e3841a583c3856316a86eca469db74a0e8ab6ebf33e9411f6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8a4416bda249e3ec0f2a0c0f2d45ac353961e180
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119941994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574511"
 ---
 # <a name="sfvm_queryfsnotify-message"></a>\_Сообщение сфвм куерифснотифи
 
@@ -37,7 +37,7 @@ SFVM_QUERYFSNOTIFY
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -46,7 +46,7 @@ SFVM_QUERYFSNOTIFY
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                         |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                |
 | Окончание поддержки клиента<br/>    | Windows XP с пакетом обновления 2 (SP2)<br/>                                                      |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                      |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                      |
 | Заголовок<br/>                   | <dl> <dt>Шлобж. h</dt> </dl> |
 
 

@@ -14,12 +14,12 @@ dev_langs:
 - JScript
 - VB
 - other
-ms.openlocfilehash: bb75baecde84168b886c004e231d212922486164cf5433d304b8602326c7dba2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 01512f79ec9cc0b21ba8c36f2d766c1621a33747
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118983144"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567111"
 ---
 # <a name="apijetsetcolumn-method"></a>API. Жетсетколумн, метод
 
@@ -55,7 +55,7 @@ ms.locfileid: "118983144"
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс API](./api-class.md)
 

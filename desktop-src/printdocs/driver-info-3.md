@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 api_location:
 - Winspool.h
-ms.openlocfilehash: 8187b90ee9cc423051b8b57d942fa026cca6f8c3d3bbfabd7721ed204484cb71
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 64509977a85bc33cb13dac4e6ba2817502c06cc9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118234916"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579746"
 ---
 # <a name="driver_info_3-structure"></a>\_Структура сведений о драйвере \_ 3
 
@@ -46,7 +46,7 @@ typedef struct _DRIVER_INFO_3 {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -133,7 +133,7 @@ typedef struct _DRIVER_INFO_3 {
 
 
 
-## <a name="see-also"></a>См. также статью
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

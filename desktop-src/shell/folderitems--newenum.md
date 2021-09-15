@@ -13,12 +13,12 @@ api_type:
 api_location:
 - Shell32.dll
 ms.assetid: c03aceab-3437-46ae-be43-a54935bb24cb
-ms.openlocfilehash: e5e9330c88d4a862051ce26d598fdc70d0bcc138a523882cf55d752c2c5a2977
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 757707354b410abd42504e04b4bb14504696e83c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119715364"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579583"
 ---
 # <a name="folderitems_newenum-method"></a>Фолдеритемс. \_ Метод NewEnum
 
@@ -41,7 +41,7 @@ FolderItems._NewEnum()
 
 Этот метод не возвращает значение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

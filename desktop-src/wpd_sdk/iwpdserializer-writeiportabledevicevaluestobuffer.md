@@ -14,12 +14,12 @@ api_type:
 api_location:
 - PortableDeviceGUIDs.lib
 - PortableDeviceGUIDs.dll
-ms.openlocfilehash: db86953e2e08c0a66f6e497c1fcd2350cc726be8852803cf8f4d64bfff523500
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f2a8f8b374f967f7231881d9e0eca6434e9c57e2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119657744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574286"
 ---
 # <a name="iwpdserializerwriteiportabledevicevaluestobuffer-method"></a>Метод Ивпдсериализер:: Вритеипортабледевицевалуестобуффер
 
@@ -87,11 +87,11 @@ HRESULT WriteIPortableDeviceValuesToBuffer(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод копирует интерфейс **ипортабледевицевалуес** в существующий буфер. Если необходимо выделить новый буфер, используйте [**жетбуфферфромипортабледевицевалуес**](iwpdserializer-getbufferfromiportabledevicevalues.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -102,7 +102,7 @@ HRESULT WriteIPortableDeviceValuesToBuffer(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

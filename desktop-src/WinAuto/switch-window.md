@@ -5,11 +5,11 @@ ms.assetid: 77b32eb1-7722-410b-b141-ac09fc7fdffb
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 5aa12b5fa3bfb9e6207ddaff4133b030e6c233c3
-ms.sourcegitcommit: 099ecdda1e83618b844387405da0db0ebda93a65
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "111443985"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567347"
 ---
 # <a name="switch-window-msaa-ui-element-reference"></a>Переключить окно (Справочник по элементу пользовательского интерфейса MSAA)
 
@@ -54,7 +54,7 @@ ms.locfileid: "111443985"
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

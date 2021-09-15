@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 1de2679d5f78b48ceef569491ef21998fc13faf7126e61f76ad31959bdc2ac6c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5649553ab51a43bd1fb0aeb78d505d7e922bf80b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120122784"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458092"
 ---
 # <a name="title-element-wpl"></a>Элемент title (WPL)
 
@@ -40,7 +40,7 @@ ms.locfileid: "120122784"
 
 | Иерархия | Элементы                 |
 |-----------|--------------------------|
-| Parent    | [Глава](head-element.md) |
+| Parent    | [head](head-element.md) |
 | Дочерний     | None                     |
 
 
@@ -72,7 +72,7 @@ ms.locfileid: "120122784"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

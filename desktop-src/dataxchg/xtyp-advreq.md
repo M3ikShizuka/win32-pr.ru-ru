@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 18e751f17fb8634b0a105a36af5036f07d0212532349c267e5526d5d41f09367
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2884e838268342ab10c556c6ae3cfc8349ed5d2c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118544889"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458018"
 ---
 # <a name="xtyp_advreq-transaction"></a>\_Транзакция кстип Адврек
 
@@ -134,7 +134,7 @@ ms.locfileid: "118544889"
 [**ддепостадвисе**](/windows/desktop/api/Ddeml/nf-ddeml-ddepostadvise)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [библиотека управления Exchange платформа динамических данных](dynamic-data-exchange-management-library.md)

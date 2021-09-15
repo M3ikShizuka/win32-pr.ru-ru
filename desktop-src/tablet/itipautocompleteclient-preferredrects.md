@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - tiptsf.dll
-ms.openlocfilehash: aa1fa4636b0302e058bc0a308e5d87da11d9bec3d12d678b9eb6057521479689
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 04e935c668e858ae3d22936e8a63f9116ebd6ab2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119938594"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579446"
 ---
 # <a name="itipautocompleteclientpreferredrects-method"></a>Итипаутокомплетеклиент: метод:P Реферредректс
 
@@ -92,7 +92,7 @@ HRESULT PreferredRects(
 
 Вызовите [**метод итипаутокомплетеклиент:: рекуестшовуи**](itipautocompleteclient-requestshowui.md) , чтобы задать окно списка автозаполнения всплывающего окна перед вызовом **преферредректс**. Несоблюдение этого действия приведет к ошибке **E \_ INVALIDARG** при вызове **преферредректс**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -105,7 +105,7 @@ HRESULT PreferredRects(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

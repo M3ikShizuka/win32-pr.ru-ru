@@ -4,12 +4,12 @@ ms.assetid: e45d055f-d404-47e9-b3c8-ac743b290138
 title: Атрибут MF_PD_ASF_METADATA_LEAKY_BUCKET_PAIRS (Вмконтаинер. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9444292ad437551622e1f418a6f21198ecd8341f01e4e5bda0a2047f847cfd37
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7426d15a806a8c61c9a2ea1fdfb0565372c5f48f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118740752"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579874"
 ---
 # <a name="mf_pd_asf_metadata_leaky_bucket_pairs-attribute"></a>\_ \_ \_ \_ \_ Атрибут пар контейнеров утечки метаданных MF PD ASF \_
 
@@ -50,7 +50,7 @@ typedef struct _WMLeakyBucketPair {
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -58,7 +58,7 @@ typedef struct _WMLeakyBucketPair {
 |-------------------------------------|------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                           |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                     |
-| Header<br/>                   | <dl> <dt>Вмконтаинер. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Вмконтаинер. h</dt> </dl> |
 
 
 

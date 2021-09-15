@@ -8,11 +8,11 @@ ms:contentKeyID: 55103761
 ms.date: 07/30/2014
 ms.topic: article
 ms.openlocfilehash: a43c15b99fc6d90b37b3a9cc64e6c68da55623c3
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103815568"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127457871"
 ---
 # <a name="jet_objectinfo-methods"></a>Методы JET_OBJECTINFO
 
@@ -28,7 +28,7 @@ ms.locfileid: "103815568"
 <tr class="header">
 <th> </th>
 <th>Имя</th>
-<th>Описание</th>
+<th>Описание:</th>
 </tr>
 </thead>
 <tbody>

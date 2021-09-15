@@ -4,12 +4,12 @@ ms.assetid: 1F370DEC-20B5-456D-BB68-C94E183410F3
 title: Атрибут MFSampleExtension_Encryption_CryptByteBlock (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 85da01a8b69fa22604cc10df54aa474ec117256ebee0630e490e25d9888484d7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 927e08d81cc8066f73b579c8abf419d754fc1713
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119603204"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574858"
 ---
 # <a name="mfsampleextension_encryption_cryptbyteblock-attribute"></a>\_ \_ Атрибут Криптбитеблокк Encryption мфсампликстенсион
 
@@ -19,13 +19,13 @@ ms.locfileid: "119603204"
 
 **UINT32**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Число четких (незашифрованных) байт в блоке сопоставления подобразца указывается в атрибуте [ \_ \_ скипбитеблокк Encryption мфсампликстенсион](mfsampleextension-encryption-skipbyteblock.md) . Если один из этих атрибутов отсутствует или имеет значение 0, это означает, что образец данных не зашифрован. Оба этих значения должны быть ненулевыми, положительные значения или оба должны иметь нулевое значение.
 
 В случаях, когда источником является формат MP4, значение задается на основе значений \_ \_ блока шифрования байтов по умолчанию \_ в поле Track encryption (' ТЕНК ') в заголовке MP4. Дополнительные сведения см. в разделе [мфсампликстенсион \_ ENCRYPTION \_ протектионсчеме](mfsampleextension-encryption-protectionscheme.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

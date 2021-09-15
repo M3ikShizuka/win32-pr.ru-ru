@@ -4,12 +4,12 @@ ms.assetid: 8DE04537-641C-4154-9C7F-A7D025CA4C39
 title: Атрибут MFT_ENCODER_SUPPORTS_CONFIG_EVENT (Мфтрансформ. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 25a528da44d59077c8445616f8fe344cba5497ced8b33be75e33be71bf9b5d76
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c49c688abc4d372a463115c369e4616babe3bcaa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120113044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469106"
 ---
 # <a name="mft_encoder_supports_config_event-attribute"></a>\_КОДИРОВЩИК MFT \_ поддерживает \_ \_ атрибут события конфигурации
 
@@ -23,7 +23,7 @@ ms.locfileid: "120113044"
 
 Отправляется кодировщиком MFT через [**имфтрансформ::P роцессевент**](/windows/desktop/api/mftransform/nf-mftransform-imftransform-processevent).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -36,7 +36,7 @@ ms.locfileid: "120113044"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

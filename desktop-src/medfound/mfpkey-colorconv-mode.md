@@ -4,12 +4,12 @@ ms.assetid: d0d93151-5b0d-44a7-8497-f11b3e23a031
 title: Свойство MFPKEY_COLORCONV_MODE (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9f86ed10873c1587aefba342392afa7f84f8c635788339d64deca18b76629255
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a8c3f2d6256c4d7a9410264fb18703eea251e9c6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118242893"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574870"
 ---
 # <a name="mfpkey_colorconv_mode-property"></a>МФПКЭЙ \_ колорконв \_ mode, свойство
 
@@ -31,7 +31,7 @@ VT \_ I4
 
 -   [DSP цветового преобразователя](colorconverter.md)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Используйте одно из следующих значений.
 
@@ -56,11 +56,11 @@ VT \_ I4
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
-| Header<br/>                   | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Вмкодекдсп. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также статью
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

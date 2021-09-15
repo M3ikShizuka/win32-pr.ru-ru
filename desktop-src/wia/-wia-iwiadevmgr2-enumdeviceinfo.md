@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Wia.h
-ms.openlocfilehash: 8b646c494d9793986373d45db2d89dfde91e744196d86d28aceab35874f504d3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bd9e9281b625f4cec5377537d82a304045b95a3f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118208726"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573187"
 ---
 # <a name="iwiadevmgr2enumdeviceinfo-method"></a>Метод IWiaDevMgr2:: Енумдевицеинфо
 
@@ -86,7 +86,7 @@ HRESULT EnumDeviceInfo(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод **IWiaDevMgr2:: енумдевицеинфо** создает объект перечислителя, поддерживающий интерфейс [**иенумвиа \_ dev \_ info**](/windows/desktop/api/wia_xp/nn-wia_xp-ienumwia_dev_info) . Метод сохраняет указатель на интерфейс **иенумвиа \_ dev \_ info** в параметре *ппиенум*. Приложения могут использовать указатель интерфейса **иенумвиа \_ dev \_ info** для ПЕРЕЧИСЛЕНИЯ свойств каждого устройства WIA 2,0, подключенного к компьютеру пользователя.
 
@@ -100,7 +100,7 @@ HRESULT EnumDeviceInfo(
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                               |
-| Header<br/>                   | <dl> <dt>WIA. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>WIA. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>WIA. idl</dt> </dl> |
 
 
