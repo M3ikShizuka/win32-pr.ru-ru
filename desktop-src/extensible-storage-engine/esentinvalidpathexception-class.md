@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 78bd16c235d5df03a12647874e33e4000d6eb5f85ef209f1d838d993abddfc28
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4b648cd28a5a0dc52c1418b0b695f4645d954371
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117900915"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573522"
 ---
 # <a name="esentinvalidpathexception-class"></a>Класс Есентинвалидпасексцептион
 

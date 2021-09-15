@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 6708e3638bf18faa76b04b0115b80c91ec2019bf1343c8c54a238178c00217bc
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 2354fc510899aa75373ba2b32df54c949ae9efed
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120117282"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573543"
 ---
 # <a name="esentdatabasenotfoundexception-class"></a>Класс Есентдатабасенотфаундексцептион
 
@@ -68,7 +68,7 @@ public sealed class EsentDatabaseNotFoundException : EsentUsageException
 
 Любые общедоступные статичные (общие в Visual Basic) члены этого типа являются потокобезопасными. Потокобезопасная работа с членами экземпляров типа не гарантируется.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 
